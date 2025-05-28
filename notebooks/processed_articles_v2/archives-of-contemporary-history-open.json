@@ -1,0 +1,190 @@
+{
+  "filename": "archives-of-contemporary-history-open.md",
+  "original_filename": "archives-of-contemporary-history-open.html",
+  "source_path": "en_internal/2015/09/archives-of-contemporary-history-open.html",
+  "date": "2015-09",
+  "title": "Archives Of Contemporary History Open",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The building of 1862 was totally refurbished in 1977 and has now been completely renovated and rebuilt during the last twelve months.\n\nAfter the successful project completion the ETH community is given the opportunity to get a picture of the result. All those who are interested in the work of the Archives and all those who have been involved in the reconstruction project are invited cordially.\n\nOver coffee and croissants, sausage and bread, water and wine get in touch with the team of the Archives and its guests, visit the building and inspect the storage rooms.\n\nWelcome on Sunday, 27 September 2015 from 11 am to 5 pm at the House of Contemporary History at Hirschengraben 62!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the last twelve months",
+        "label": "DATE",
+        "start": 110,
+        "end": 132
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 178,
+        "end": 181
+      },
+      {
+        "text": "Archives",
+        "label": "ORG",
+        "start": 297,
+        "end": 305
+      },
+      {
+        "text": "Archives",
+        "label": "ORG",
+        "start": 492,
+        "end": 500
+      },
+      {
+        "text": "Sunday",
+        "label": "DATE",
+        "start": 578,
+        "end": 584
+      },
+      {
+        "text": "September 2015",
+        "label": "DATE",
+        "start": 589,
+        "end": 603
+      },
+      {
+        "text": "11 am to 5 pm",
+        "label": "TIME",
+        "start": 609,
+        "end": 622
+      },
+      {
+        "text": "the House of Contemporary History",
+        "label": "ORG",
+        "start": 626,
+        "end": 659
+      },
+      {
+        "text": "Hirschengraben 62",
+        "label": "LAW",
+        "start": 663,
+        "end": 680
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Archives",
+        "ETH",
+        "the House of Contemporary History"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "11 am to 5 pm",
+        "September 2015",
+        "Sunday",
+        "the last twelve months"
+      ],
+      "MISC": [
+        "Hirschengraben 62"
+      ]
+    },
+    "entity_counts": {
+      "Archives": 2,
+      "the last twelve months": 1,
+      "ETH": 1,
+      "Sunday": 1,
+      "September 2015": 1,
+      "11 am to 5 pm": 1,
+      "the House of Contemporary History": 1,
+      "Hirschengraben 62": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "archives-of-contemporary-history-open.md",
+      "title": "En Internal/2015/09/archives Of Contemporary History Open",
+      "language": "en",
+      "source_path": "en_internal/2015/09/archives-of-contemporary-history-open.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "1977",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "Hirschengraben 62"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Of Contemporary",
+        "Contemporary History",
+        "History Open",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Archives",
+        "ETH",
+        "the House of Contemporary History"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "Archives",
+        "the last twelve months",
+        "ETH",
+        "Sunday",
+        "September 2015",
+        "11 am to 5 pm",
+        "the House of Contemporary History",
+        "Hirschengraben 62"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 742
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2015",
+        "1977",
+        "the House of Contemporary History",
+        "Archives"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Hirschengraben 62",
+        "what",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

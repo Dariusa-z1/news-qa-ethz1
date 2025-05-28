@@ -1,0 +1,22 @@
+# de_news_events_2018_01_global-university-leaders-forum.html
+
+**Source:** de_news_events/2018/01/global-university-leaders-forum.html
+
+## Top-Universitäten mit Top-Publikationsleistung
+
+Oxford, Cambridge, Imperial, Harvard, Stanford, MIT, Columbia, Princeton, Harvard, Yale oder die chinesische Tsinghua-Universität: Sie alle sind – ebenso wie die ETH Zürich und die EPFL als einzige Schweizer Hochschulen – Mitglied des «Global University Leaders Forum (GULF)» des WEF. Die Mitglieder des GULF treffen sich jährlich in Davos, um sich über hochschulpolitische Themen auszutauschen. Wie jetzt die neue Studie von THE/Elsevier zeigt, sind wissenschaftliche Leistung, wirtschaftlicher Impakt und gesellschaftliche Einbindung dieser Vereinigung von gut zwei Dutzend Hochschulen bemerkenswert.
+
+## Top-Universitäten mit Top-Publikationsleistung
+
+Die Rankingorganisation Times Higher Education (THE) und Elsevier, einer der grössten Verlage für wissenschaftliche Publikationen, präsentierten die Resultate im Rahmen einer Veranstaltung im öffentlichen Pavillon der ETH Zürich am Rande des WEF. Die 27 Top-Hochschulen des GULF sind zusammen für mehr als sieben Prozent des weltweiten wissenschaftlichen Outputs verantwortlich. Rechnet man die GULF-Universitäten zu einer fiktiven Nation zusammen, so liegt die Publikationsleistung dieser Hochschulen auf Rang 3 hinter den USA und China, jedoch vor allen anderen wichtigen Forschungsnationen wie Grossbritannien, Japan oder Deutschland. Alle GULF-Universitäten zusammen investieren jährlich knapp 20 Milliarden US-Dollar in ihre Spitzenforschung.
+
+## Hohe gesellschaftliche Relevanz
+
+Die Leistungsbilanz der GULF ist auch bezüglich des Transfers in Wirtschaft und Gesellschaft eindrücklich. Jedes Jahr ziehen die 27 Hochschulen mehr als drei Milliarden US-Dollar an Drittmitteln an. Laut der Studie sind das rund 62'000 Dollar für jeden Forschenden und Lehrenden dieser Institutionen. Die restlichen 1000 THE-gerankten Institutionen kommen im Durchschnitt auf einen Drittmittelbeitrag von 27'000 Dollar pro wissenschaftlichem Mitarbeiter. Die GULF-Universitäten sind zusätzlich verantwortlich für jedes achte Forschungszitat in allen Patentanmeldungen auf der Welt.
+
+## Gute Vernetzung mit der Wirtschaft
+
+Die Studie zeigt schliesslich, dass die GULF-Universitäten vor allem mit technologisch führenden Grosskonzernen kooperieren. Microsoft, IBM, die Pharmakonzerne GSK und Pfizer sowie der Internetkonzern Google sind die Unternehmen, die am meisten mit den Topuniversitäten zusammenarbeitend. Rund 45'000 wissenschaftliche Publikationen wurden in den letzten fünf Jahren von den Forschenden der GULF-Universitäten gemeinsam mit privaten Unternehmen verfasst. Erneut zeigte sich zudem, dass die beiden Schweizer GULF-Mitglieder zu den international am besten vernetzten Hochschulen gehören.
+
+Für Lino Guzzella, den Präsidenten der ETH, zeigen die Resultate dieser Studie die Relevanz der besten Hochschulen der Welt für die Gesellschaft: «Umso wichtiger ist, dass wir uns trotz steigender Konkurrenz im internationalen Spitzenfeld halten können. Dazu brauchen wir Autonomie, eine weiterhin solide und langfristig gesicherte Finanzierung durch den Bund und die Ideen und Geistesblitze unserer Forschenden und Lehrenden». Auch der für die globalen Rankings verantwortliche Direktor von THE, Phil Baty, unterstreicht die Bedeutung der öffentlichen Finanzierung: «Die meisten bahnbrechenden Innovationen stammen aus öffentlich finanzierter Grundlagenforschung, die von Wissenschaftlern gemacht werden, die nicht die Absicht haben, ihre Arbeit zu kommerzialisieren».
+

@@ -1,0 +1,384 @@
+{
+  "filename": "de_news_events_2014_02_spielerisch-forschen-experiment-mit-brasilianischen-rinderfarmern.md",
+  "original_filename": "de_news_events_2014_02_spielerisch-forschen-experiment-mit-brasilianischen-rinderfarmern.html",
+  "source_path": "de_news_events/2014/02/spielerisch-forschen-experiment-mit-brasilianischen-rinderfarmern.html",
+  "date": "2014-02",
+  "title": "Spielerisch Forschen Experiment Mit Brasilianischen Rinderfarmern",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Modellieren mit Spiel",
+      "text": "Die Rodung des Amazonas zu erforschen ist eine methodische Herausforderung. Die klassischen wissenschaftlichen Standards verlangen Wiederholbarkeit und empirische Überprüfung der Ergebnisse. Wie auch in der Klimamodellierung sind diese Standards für mich schwierig zu erreichen. Es gibt nur einen Amazonas, und es kostet Milliarden und dauert Jahrzehnte, seinen Schutz zu gewährleisten. Daher ist methodische Innovation essentiell."
+    },
+    {
+      "heading": "Modellieren mit Spiel",
+      "text": "Ausgelöst durch die provokanten Ergebnisse der Verhaltenswissenschaften und die von den meisten Ökonomen unerwartete Finanzkrise, haben sich in den letzten Jahren eine grosse Anzahl neuer Forschungsansätze entwickelt. Um die Frage nach den Zahlungsmodalitäten für Waldbesitzer zu beantworten, haben wir eine dieser Methoden weiterentwickelt: Das Computerspiel als Modell.\n\nGemeinsam mit Danilo Wanner, einem Interaction Designer an der FHNW Basel, haben wir das Spiel entwickelt. Es simuliert die Entscheidungssituation eines typischen Rinderfarmers im brasilianischen Bundesstaat Tocantins. Der Spieler kann Kühe kaufen und verkaufen, seine Weide degradiert mit der Zeit, er kann Wälder abholzen für neues Weideland oder seine existierende Weide intensivieren. Und: Im Spiel können wir auch verschiedene Zahlungsmodalitäten für den Waldschutz einführen."
+    },
+    {
+      "heading": "Weiterführende Information",
+      "text": "Studenten spielen das Rinderfarm-Spiel in Tocantins, Brasilien. (Bild: Tim Reutemann / ETH Zürich)\n\nUm kulturelle Eigenheiten in unserem Model zu erfassen, haben wird das Spiel vor Ort gespielt. Unser Computer-Labor dafür passt bequem in einen Trecking-Rucksack, dank super leichten Tablet Computern. Mit logistischer Unterstützung durch unsere brasilianische Partner-NGO Instituto Ecológica konnten wir das Spiel innert zwei Monaten mit mehr als 350 Personen in Tocantins spielen. Zugelassen waren Rinderfarmer, deren Familienmitglieder sowie Studenten an der landwirtschaftlichen Fakultät.\n\nDie Zuteilung zu verschiedenen Zahlungsmodalitäten erfolgte dabei völlig zufällig, damit wir uns weitgehend sicher sein können, dass die Unterschiede im Verhalten nur an den unterschiedlichen Zahlungstypen liegen. Obwohl wir die Preise und Parameter im Spiel so nah wie möglich an der Realität gehalten haben, sollte man keine genauen quantitativen Schlüsse ziehen – aber welcher Zahlungstyp besser funktioniert, ist dennoch klar ersichtlich."
+    },
+    {
+      "heading": "Erste Resultate",
+      "text": "Anstelle einer statistischen Auswertung illustriere ich hier die Ergebnisse lieber anhand von drei Screenshots aus dem Spiel:"
+    },
+    {
+      "heading": "Keinen Beitrag verpassen",
+      "text": "Ausmass der Abholzung bei verschiedenen Zahlungstypen: Zahlung pro Hektare (oben), CO2-Berechnung (Mitte), keine Zahlung (unten). (Illustration: ETH Zürich)\n\nBeim ersten Zahlungstyp (oberes Bild) erhalten die Bauern pro Hektar Wald einen fixen Betrag pro Jahr. Varianten von diesem Typ von Zahlungen existieren bereits in einigen Ländern wie Costa Rica und Ecuador.\n\nIm Gegensatz dazu wird im zweiten Zahlungstyp (mittleres Bild) eine eher komplizierte Rechnung über die CO 2 -Einsparung gemacht – besonders wichtig ist dabei, dass die Zahlung in den folgenden Jahren vollständig entfällt, wenn abgeholzt wird. Später wird die Zahlung ohne langfristige Strafe fortgesetzt. Dieser Grund-Typus von Zahlung wird in den Pilot-Projekten für den Waldschutz mit REDD+ verwendet, wobei jedoch noch sehr viele Unklarheiten über die Detaiils existieren. Das untere Bild zeigt, wo das Spiel ganz ohne Zahlungen hinführt.\n\nDie Bilder sprechen für sich: Der zweite Zahlungstyp ist lokal am effektivsten, ohne dass dabei mehr Subventionen entrichtet wurden. Ein weiteres wichtiges Resultat aus dem Experiment ist negativer Natur: Ob der Preis schwankt oder fixiert ist, hat keinen signifikante Einfluss auf das Resultat. Die theoretische Literatur zu dem Thema hat sich bisher zu einem grossen Teil mit der Preissetzung beschäftigt, aber weniger mit den Bedingungen der Zahlung. Hier besteht wohl Aufholbedarf.\n\nDas Rinderfarm-Spiel ist nun online zugänglich und als Open-Source-Code zum Weiterforschen verfügbar."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Brasilianischen",
+        "label": "MISC",
+        "start": 59,
+        "end": 74
+      },
+      {
+        "text": "Danilo Wanner",
+        "label": "PER",
+        "start": 386,
+        "end": 399
+      },
+      {
+        "text": "FHNW Basel",
+        "label": "ORG",
+        "start": 435,
+        "end": 445
+      },
+      {
+        "text": "brasilianischen",
+        "label": "MISC",
+        "start": 552,
+        "end": 567
+      },
+      {
+        "text": "Tocantins",
+        "label": "LOC",
+        "start": 580,
+        "end": 589
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 666,
+        "end": 670
+      },
+      {
+        "text": "Tocantins",
+        "label": "LOC",
+        "start": 42,
+        "end": 51
+      },
+      {
+        "text": "Brasilien",
+        "label": "LOC",
+        "start": 53,
+        "end": 62
+      },
+      {
+        "text": "Tim Reutemann",
+        "label": "PER",
+        "start": 71,
+        "end": 84
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 87,
+        "end": 97
+      },
+      {
+        "text": "Unser Computer-Labor",
+        "label": "PER",
+        "start": 194,
+        "end": 214
+      },
+      {
+        "text": "brasilianische",
+        "label": "MISC",
+        "start": 344,
+        "end": 358
+      },
+      {
+        "text": "Partner-NGO",
+        "label": "MISC",
+        "start": 359,
+        "end": 370
+      },
+      {
+        "text": "Instituto Ecológica",
+        "label": "ORG",
+        "start": 371,
+        "end": 390
+      },
+      {
+        "text": "Tocantins",
+        "label": "LOC",
+        "start": 462,
+        "end": 471
+      },
+      {
+        "text": "Unterschiede",
+        "label": "LOC",
+        "start": 728,
+        "end": 740
+      },
+      {
+        "text": "Zahlungstypen",
+        "label": "LOC",
+        "start": 783,
+        "end": 796
+      },
+      {
+        "text": "CO2-Berechnung",
+        "label": "MISC",
+        "start": 83,
+        "end": 97
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 145,
+        "end": 155
+      },
+      {
+        "text": "Costa Rica",
+        "label": "LOC",
+        "start": 341,
+        "end": 351
+      },
+      {
+        "text": "Ecuador",
+        "label": "LOC",
+        "start": 356,
+        "end": 363
+      },
+      {
+        "text": "CO 2 -Einsparung",
+        "label": "MISC",
+        "start": 469,
+        "end": 485
+      },
+      {
+        "text": "Pilot-Projekten",
+        "label": "MISC",
+        "start": 714,
+        "end": 729
+      },
+      {
+        "text": "Open-Source-Code",
+        "label": "LOC",
+        "start": 1449,
+        "end": 1465
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Danilo Wanner",
+        "Tim Reutemann",
+        "Unser Computer-Labor"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "FHNW Basel",
+        "Instituto Ecológica"
+      ],
+      "LOCATION": [
+        "Brasilien",
+        "Costa Rica",
+        "Ecuador",
+        "Open-Source-Code",
+        "Tocantins",
+        "Unterschiede",
+        "Zahlungstypen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Brasilianischen",
+        "CO 2 -Einsparung",
+        "CO2-Berechnung",
+        "Partner-NGO",
+        "Pilot-Projekten",
+        "Zeit",
+        "brasilianische",
+        "brasilianischen"
+      ]
+    },
+    "entity_counts": {
+      "Tocantins": 3,
+      "ETH Zürich": 2,
+      "Brasilianischen": 1,
+      "Danilo Wanner": 1,
+      "FHNW Basel": 1,
+      "brasilianischen": 1,
+      "Zeit": 1,
+      "Brasilien": 1,
+      "Tim Reutemann": 1,
+      "Unser Computer-Labor": 1,
+      "brasilianische": 1,
+      "Partner-NGO": 1,
+      "Instituto Ecológica": 1,
+      "Unterschiede": 1,
+      "Zahlungstypen": 1,
+      "CO2-Berechnung": 1,
+      "Costa Rica": 1,
+      "Ecuador": 1,
+      "CO 2 -Einsparung": 1,
+      "Pilot-Projekten": 1
+    },
+    "total_entities": 24,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2014_02_spielerisch-forschen-experiment-mit-brasilianischen-rinderfarmern.md",
+      "title": "De News Events/2014/02/spielerisch Forschen Experiment mit Brasilianischen Rinderfarmern",
+      "language": "de",
+      "source_path": "de_news_events/2014/02/spielerisch-forschen-experiment-mit-brasilianischen-rinderfarmern.html"
+    },
+    "temporal": {
+      "publication_date": "2014-02",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Danilo Wanner",
+        "Tim Reutemann",
+        "Unser Computer-Labor"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Brasilianischen",
+        "CO 2 -Einsparung",
+        "CO2-Berechnung",
+        "Partner-NGO",
+        "Pilot-Projekten",
+        "Zeit",
+        "brasilianische",
+        "brasilianischen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Partner-NGO",
+        "Rinderfarm-Spiel",
+        "Danilo Wanner",
+        "Das Computerspiel",
+        "Im Gegensatz",
+        "Trecking-Rucksack",
+        "Tablet Computern",
+        "Die Rodung",
+        "Costa Rica",
+        "Die Bilder",
+        "Forschen Experiment",
+        "FHNW Basel",
+        "Dieser Grund",
+        "Bundesstaat Tocantins",
+        "Brasilianischen Rinderfarmern",
+        "Der Spieler",
+        "Pilot-Projekten",
+        "Interaction Designer",
+        "Die Zuteilung",
+        "Unser Computer",
+        "Tim Reutemann",
+        "Hektar Wald",
+        "Das Rinderfarm",
+        "Open-Source",
+        "De News",
+        "Im Spiel"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "FHNW Basel",
+        "Instituto Ecológica"
+      ],
+      "locations": [
+        "Brasilien",
+        "Costa Rica",
+        "Ecuador",
+        "Open-Source-Code",
+        "Tocantins",
+        "Unterschiede",
+        "Zahlungstypen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Tocantins",
+        "ETH Zürich",
+        "Brasilianischen",
+        "Danilo Wanner",
+        "FHNW Basel",
+        "brasilianischen",
+        "Zeit",
+        "Brasilien",
+        "Tim Reutemann",
+        "Unser Computer-Labor"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Modellieren mit Spiel",
+          "Modellieren mit Spiel",
+          "Weiterführende Information",
+          "Erste Resultate",
+          "Keinen Beitrag verpassen"
+        ],
+        "content_length": 4037
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Tim Reutemann",
+        "Unser Computer-Labor",
+        "EU",
+        "Danilo Wanner",
+        "ETH Zürich",
+        "2014",
+        "FHNW Basel",
+        "Instituto Ecológica"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "brasilianische",
+        "Brasilianischen",
+        "CO2-Berechnung",
+        "Partner-NGO",
+        "who",
+        "brasilianischen",
+        "Pilot-Projekten",
+        "what",
+        "how",
+        "CO 2 -Einsparung",
+        "Zeit"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

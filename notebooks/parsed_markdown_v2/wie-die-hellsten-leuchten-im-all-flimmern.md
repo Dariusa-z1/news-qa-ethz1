@@ -1,0 +1,32 @@
+# wie-die-hellsten-leuchten-im-all-flimmern.html
+
+**Source:** de_news_events/2015/06/wie-die-hellsten-leuchten-im-all-flimmern.html
+
+## Scheinbar «ausgeschaltete» Kerne
+
+«Hanny's Voorwerp» (grün, unten) ist ein astronomisches Objekt, das sich vor rund 200‘000 Jahren ausgeschaltet hat. Oben ist die Spiralgalaxie IC 2497 sichtbar. (Bild: NASA, ESA, W. Keel, Galaxy Zoo Team)
+
+Supermassereiche schwarze Löcher ziehen Gas in ihrer Umgebung mit enormer Kraft an. Rotiert solches Gas um das schwarze Loch, wird es durch Reibung immer heisser und beginnt zu strahlen. So entstehen die hellsten Objekte im Universum: sogenannte aktive Galaxienkerne (AGN, für englisch: active galactic nucleus). Sie strahlen oft heller als die hundert Milliarden von Sternen ihrer Galaxie. Auch im Zentrum unserer Heimatgalaxie, der Milchstrasse, sitzt ein solches schwarzes Loch, das gemäss einiger Studien vor wenigen Jahrmillionen als AGN geleuchtet haben dürfte. Forschende der ETH Zürich um Astronomie-Professor Kevin Schawinski zeigen nun in einer neuen Studie, dass diese AGN nicht permanent leuchten, sondern vielmehr einer flimmernden Lampe gleichen. Die ETH-Astronomen berichten in der jüngsten Ausgabe der Monthly Notices of the Royal Astronomical Society erstmals anhand von Beobachtungsdaten, dass AGN sich alle paar hunderttausend Jahre «ein- und ausschalten».
+
+AGN emittieren Licht über das ganze elektromagnetische Spektrum von Röntgenstrahlen bis zu Radiowellen. So erfassen Teleskope einerseits Röntgenstrahlung, die aus der unmittelbaren Umgebung des AGN stammt. Andererseits registrieren Teleskope auch sichtbares Licht, allerdings erst mit einer gewissen Verzögerung: Es ist wie mit einer Gaslampe, die nicht sofort leuchtet, wenn man den Schalter umlegt.
+
+Das sichtbare Licht stammt nämlich nicht direkt aus dem aktiven Galaxienkern, sondern vom Gas, das den Raum zwischen den Sternen in der Galaxie ausfüllt. Die Atome dieses interstellaren Gases werden von der Strahlung aus dem aktiven Galaxienkern in einer ganz bestimmten Weise zum Leuchten angeregt. Die Verzögerung resultiert aus der Zeit, die das Licht braucht, um bis zum Rand der Galaxie zu gelangen und so die galaktische «Gaslampe» anzuschalten. Bevor dies geschieht, befindet sich der aktive Galaxienkern im scheinbar «ausgeschalteten» Zustand – zumindest, was das sichtbare Licht angeht. In diesem Zustand sendet der aktive Galaxienkern aber bereits Röntgenstrahlung aus.
+
+## Scheinbar «ausgeschaltete» Kerne
+
+Die ETH-Forschenden fanden nun in einer grossen Datensammlung beobachteter aktiver Galaxienkerne, dass rund fünf Prozent davon im scheinbar «ausgeschalteten» Zustand waren. Das heisst, sie wurden zwar von Röntgenteleskopen detektiert, leuchteten aber noch nicht mit dem typischen sichtbaren Licht einer «galaktischen Gaslampe».
+
+Wenn fünf Prozent aller beobachteten aktiven Galaxienkerne noch nicht sichtbar leuchtet, dann bedeutet das, so die Folgerung der Wissenschaftler, dass der scheinbar ausgeschaltete Zustand fünf Prozent, also ein Zwanzigstel, der Gesamtdauer einer AGN-Hell-Dunkel-Phase ausmacht. Es ist so, als ob man jeden Tag ein Foto eines Menschen aufnähme: am Ende seines Lebens wird es mehr Fotos aus dem längeren Erwachsenenalter geben als aus der kürzeren Pubertät, und zwar in dem gleichen Verhältnis, in dem das Erwachsenalter länger war als die Pubertät.
+
+## 190‘000 Jahre Helligkeit
+
+Nun wussten die Forschenden aus früheren theoretischen Arbeiten, dass der ausgeschaltete Zustand eines aktiven Galaxienkernes – man kann ihn mit einer Lebensphase wie der Pubertät vergleichen – circa 10‘000 Jahre dauern sollte. Das ist nämlich die Zeit, die das Licht braucht, um eine typische Galaxie zu durchqueren. Daraus ergibt sich im Umkehrschluss, dass eine komplette AGN-Phase – das Analogon eines ganzen Menschenlebens – im Durchschnitt 20 Mal so lange, also 200‘000 Jahre, dauert.
+
+«Dieses Ergebnis ist wichtig, um besser zu verstehen, wie ein aktiver Galaxienkern die ihn umgebende Galaxie beeinflusst», sagt ETH-Professor und Studienleiter Kevin Schawinski. Astrophysiker haben bisher gewusst, dass aktive Galaxienkerne sogar über mehrere Milliarden Jahre Gas ansammeln können. Niemand wusste aber, ob sie über diese gesamte Zeitspanne genügend Gas ansammeln, um zu leuchten. «Jetzt wissen wir, dass das Leuchten eines aktiven Galaxienkerns eher dem Flackern einer Energiesparlampe gleicht, die alle 20 Millisekunden zwischen ‹An› und ‹Aus› hin- und herschaltet», erläutert Schawinski. Im Vergleich zu den hunderten von Jahrmillionen, in denen ein Galaxienkern aktiv bleibt, sind 200‘000 Jahre eine ebenso kurze Zeit.
+
+## Einfluss auf Sternentstehung
+
+«Die 200‘000 Jahre sind als Grössenordnung zu verstehen und sie sind ein statistischer Mittelwert», betont Schawinski. Das heisst, für die eine Galaxie kann die AGN-Phase etwas länger dauern als für die andere. Aber für alle sollte diese Dauer einige hunderttausend Jahre betragen. Diese Einschränkung könnte helfen zu verstehen, wie aktive Galaxienkerne in die Entwicklung ihrer Heimatgalaxie eingreifen. So ist es zum Beispiel möglich, dass die Strahlung aus einem AGN die in sich zusammenfallenden Gaswolken, in denen Sterne entstehen, aufheizt. Das Aufheizen würde den Kollaps der Gaswolken und somit die Entstehung von Sternen hinauszögern oder ganz verhindern. Dafür müsste der aktive Galaxienkern aber lange genug leuchten. «Mit der Abschätzung der Dauer einer AGN-Phase kommen wir der Antwort auf diese Frage ein gutes Stück näher», sagt Schawinski.
+
+Schawinski K, Koss M, Berney S, Sartori LF: Active galactic nuclei flicker: an observational estimate of the duration of black hole growth phases of 10 5 years. Monthly Notices of the Royal Astronomical Society 2015, 451: 2517-2523, doi: externe Seite 10.1093/mnras/stv1136
+

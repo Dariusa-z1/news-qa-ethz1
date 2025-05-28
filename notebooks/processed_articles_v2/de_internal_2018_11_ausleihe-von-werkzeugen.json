@@ -1,0 +1,209 @@
+{
+  "filename": "de_internal_2018_11_ausleihe-von-werkzeugen.md",
+  "original_filename": "de_internal_2018_11_ausleihe-von-werkzeugen.html",
+  "source_path": "de_internal/2018/11/ausleihe-von-werkzeugen.html",
+  "date": "2018-11",
+  "title": "Ausleihe Von Werkzeugen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Eine Liste mit allen Geräten finden Sie im Suchportal . Die kostenlose Ausleihe während maximal drei Tagen ist nur für Angehörige der ETH Zürich möglich und erfolgt wie gewohnt mit der ETH-Karte über das Benutzungskonto. Es gelten die normalen Benutzungsbestimmungen und Gebühren der ETH-Bibliothek. Die Werkzeuge können Sie sowohl im Zentrum als auch auf dem Hönggerberg abholen bzw. zurückbringen. Weitere Informationen befinden sich auf unserer Website. Es handelt sich hierbei um eine Kooperation mit dem Student Project House und der Robert Bosch AG."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/11",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Suchportal",
+        "label": "LOC",
+        "start": 43,
+        "end": 53
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 134,
+        "end": 144
+      },
+      {
+        "text": "ETH-Karte",
+        "label": "MISC",
+        "start": 185,
+        "end": 194
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 284,
+        "end": 298
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 335,
+        "end": 342
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 360,
+        "end": 371
+      },
+      {
+        "text": "Project House",
+        "label": "PER",
+        "start": 517,
+        "end": 530
+      },
+      {
+        "text": "Robert Bosch AG",
+        "label": "ORG",
+        "start": 539,
+        "end": 554
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Project House"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Robert Bosch AG",
+        "Zentrum"
+      ],
+      "LOCATION": [
+        "De Internal/2018/11",
+        "Hönggerberg",
+        "Suchportal"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "ETH-Karte"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2018/11": 1,
+      "Suchportal": 1,
+      "ETH Zürich": 1,
+      "ETH-Karte": 1,
+      "ETH-Bibliothek": 1,
+      "Zentrum": 1,
+      "Hönggerberg": 1,
+      "Project House": 1,
+      "Robert Bosch AG": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2018_11_ausleihe-von-werkzeugen.md",
+      "title": "De Internal/2018/11/ausleihe von Werkzeugen",
+      "language": "de",
+      "source_path": "de_internal/2018/11/ausleihe-von-werkzeugen.html"
+    },
+    "temporal": {
+      "publication_date": "2018-11",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Project House"
+      ],
+      "people_with_roles": {
+        "Project House": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "ETH-Karte"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Werkzeugen Eine",
+        "ETH-Bibliothek",
+        "De Internal",
+        "Die Werkzeuge",
+        "ETH-Karte",
+        "Weitere Informationen",
+        "Student Project",
+        "Robert Bosch"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Robert Bosch AG",
+        "Zentrum"
+      ],
+      "locations": [
+        "De Internal/2018/11",
+        "Hönggerberg",
+        "Suchportal"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "De Internal/2018/11",
+        "Suchportal",
+        "ETH Zürich",
+        "ETH-Karte",
+        "ETH-Bibliothek",
+        "Zentrum",
+        "Hönggerberg",
+        "Project House",
+        "Robert Bosch AG"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 599
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Project House",
+        "EU",
+        "ETH Zürich",
+        "Zentrum",
+        "Robert Bosch AG"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "what",
+        "ETH-Karte"
+      ],
+      "graph_relations": [
+        "Project House_has_role_student"
+      ]
+    }
+  }
+}

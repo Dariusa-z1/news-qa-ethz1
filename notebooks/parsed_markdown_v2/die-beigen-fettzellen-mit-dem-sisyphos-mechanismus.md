@@ -1,0 +1,36 @@
+# die-beigen-fettzellen-mit-dem-sisyphos-mechanismus.html
+
+**Source:** de_news_events/2024/08/die-beigen-fettzellen-mit-dem-sisyphos-mechanismus.html
+
+## In Kürze
+
+- Eine neu beschriebene Art von beigen Fettzellen verbraucht Energie und erzeugt Wärme, indem sie biochemische Prozesse scheinbar sinnlos hin- und herlaufen lassen.
+
+- Fast alle Menschen haben diesen Zelltyp. Je mehr ein Mensch davon hat, desto schlanker ist er tendenziell und desto besser steht es um seine Stoffwechselgesundheit.
+
+- Die neuen Erkenntnisse könnten helfen, Therapien gegen Übergewicht und Stoffwechselstörungen wie Diabetes zu entwickeln.
+
+Weiss, braun, beige. Das sind die Farben der Fettzellen. Weisse Fettzellen speichern in unserem Körper Fett als Energiereserve. Wir brauchen diese Zellen. Zu viele davon wollen wir aber aus gesundheitlichen Gründen nicht. Die braunen Fettzellen sind vor allem bei Säuglingen aktiv. Sie produzieren Wärme und halten damit die Körpertemperatur der Babys aufrecht. Braunes Fettgewebe nimmt jedoch im Lauf des Lebens ab; Erwachsene haben nur noch sehr wenig davon. Beige Fettzellen schliesslich können ebenfalls Wärme produzieren, wenn auch etwas weniger gut als braune Fettzellen. Sie kommen auch bei Erwachsenen vor – eingestreut ins weisse Fettgewebe, vor allem im Nacken- und Schulterbereich. Sie helfen mit, überschüssige Energie zu verbrauchen.
+
+Nun hat ein internationales Forschungsteam neue Art von beigen Fettzellen entdeckt und beschrieben. Diese unterscheiden sich von den bisher bekannten beigen Fettzellen. «Die neuartigen beigen Fettzellen spielen eine wichtige Rolle beim Energieumsatz im menschlichen Körper. Sie wirken positiv gegen Stoffwechselkrankheiten und Übergewicht», sagt Anand Sharma, Postdoc in der Gruppe von ETH-Professor Christian Wolfrum und Mitautor der Studie. «Deshalb ist es so wichtig, im Detail zu verstehen, wie sie funktionieren.» Geleitet wurde die Studie von der ETH Zürich, der Universität Basel, dem Universitätsklinikum Leipzig und dem Dana-Farber Cancer Institute in Boston. Zahlreiche weitere Spitäler und Forschungseinrichtungen weltweit waren daran beteiligt.
+
+## Unabhängig von bekanntem Protein
+
+Die bisher bekannten beigen Fettzellen erzeugen Wärme gleich wie die die braunen Fettzellen: über das Protein UCP1. Es sitzt in der inneren von zwei Membranen, die die Mitochondrien umgeben. Mitochondrien sind Struktureinheiten in den Zellen; sie werden auch als die Kraftwerke der Zellen bezeichnet. Im Rahmen ihrer normalen Funktion pumpen sie Protonen in den Raum zwischen den beiden Membranen. Protonen sind elektrisch geladene Elementarteilchen, die bei Energieumwandlungsprozessen in Zellen generell eine wichtige Rolle spielen. Braune Fettzellen und die klassischen, schon früher beschriebenen beigen Fettzellen besitzen das Protein UCP1. Es bildet in der inneren Membran einen sehr engen Kanal, durch den die Protonen wieder ins Innere der Mitochondrien zurückströmt. Dabei entsteht Reibungswärme.
+
+In den vergangenen Jahren bemerkten Wissenschaftler:innen, dass es auch beige Fettzellen ohne das Protein UCP1 gibt, und dass sie ebenfalls Energie verbrauchen und damit Wärme produzieren. Das Forschungsteam der ETH Zürich und der beteiligten Institutionen hat die neue Klasse von beigen Fettzellen nun genau charakterisiert und gezeigt, wie sie das tun: über einen Sisyphos-Mechanismus.
+
+## Diabetes und Fettleibigkeit verhindern
+
+Der funktioniert so: Bei allen biochemischen Prozessen, die in den Zellen ablaufen, entsteht immer etwas Wärme. Die neue Klasse der beigen Fettzellen macht sich das zunutze und lässt einzelne Prozesse scheinbar sinnlos hin- und herlaufen. Die Zellen verwenden dafür vor allem zwei Umwandlungsprozesse: Sie wandeln auf Hochtouren Fette in ihre Bestandteile, die Fettsäuren, um und bauen daraus ebenso schnell wieder neue Fette auf. Ähnlich verfahren sie mit dem Molekül Kreatin. Mithilfe eines Enzyms wandeln sie es in das verwandte Molekül Kreatinphosphat um – nur um es postwendend wieder in Kreatin zurückzuwandeln. Wissenschaftler nennen diese Prozesse «futile cycles», also nutzlose Stoffwechselzyklen. Im biochemischen Haushalt bringen sie in der Summe nichts, sie verbrauchen aber Energie und erzeugen Wärme.
+
+Das Forschungsteam beschrieb den neuen Typ beiger Fettzellen zunächst bei Mäusen. Anschliessend untersuchten sie auch Fettgewebe von Menschen und konnten zeigen, dass diese Fettzellen auch dort vorkommen. Während nur weniger als die Hälfte der Menschen die bisher bekannten beigen Fettzellen besitzt, kommen die neuen Futile-Cycle-Fettzellen bei fast allen Menschen vor. Allerdings haben nicht alle Menschen gleich viele davon.
+
+Wie die Forschenden zeigen konnten, sind Personen mit vielen beigen Fettzellen schlanker und haben tendenziell eine bessere Stoffwechselgesundheit: Sie sind weniger anfällig für Übergewicht und Stoffwechselstörungen wie Diabetes. Dies gilt sowohl für die bekannte als auch für die neue Form der beigen Fettzellen. «Indem beige Fettzellen Energie in Wärme umwandeln, bauen sie überschüssiges Fett ab», erklärt Tongtong Wang, Doktorandin in der Gruppe von ETH-Professor Wolfrum und Erstautorin der Studie.
+
+## Literaturhinweis
+
+Die Forschenden erklären auch, wie die neuen Erkenntnisse in Zukunft medizinisch genutzt werden könnten: Denkbar wäre etwa die Transplantation von beigen Fettzellen in Menschen, die davon nur wenige haben und an Stoffwechselkrankheiten oder Gewichtsproblemen leiden. Denkbar wäre ausserdem, Medikamente zu entwickeln, die die beigen Fettzellen – die oft inaktiv sind – zu aktivieren. Damit könnten Menschen mit hohem Blutzuckerspiegel behandelt werden oder ehemals übergewichtige Menschen, die ihr Gewicht mit einer Operation oder anderweitig reduziert haben. «Die Aktivierung der beigen Fettzellen könnte ihnen helfen, ihr niedrigeres Körpergewicht langfristig zu halten», sagt Sharma.
+
+Wang T, Sharma AK, Wu C et al.: Single Nucleus Transcriptomics Identifies Separate Classes of UCP1 and Futile Cycle Beige Cells. Cell Metabolism, 30. Juli 2024, doi: externe Seite 10.1016/j.cmet.2024.07.005
+

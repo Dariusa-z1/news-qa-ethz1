@@ -1,0 +1,263 @@
+{
+  "filename": "New-regulation-on-the-open-access-requirement-for-doctoral-theses.md",
+  "original_filename": "New-regulation-on-the-open-access-requirement-for-doctoral-theses.html",
+  "source_path": "en_internal/2014/06/New-regulation-on-the-open-access-requirement-for-doctoral-theses.html",
+  "date": "2014-06",
+  "title": "New Regulation On The Open Access Requirement For Doctoral Theses",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In November 2013 ETH Zurich revised the Ordinance on Doctoral Studies. The new version no longer includes the possibility of generally waiving the publication of a doctoral thesis via the ETH E-Collection institutional repository. Upon request, however, the publication can take place with an embargo of one or three years.\n\nETH-Bibliothek implemented the corresponding regulation in ETH E-Collection’s publication process on 1 June 2014. Doctoral students can now – while they are uploading their doctoral theses – complete a request for a temporary non-publication of the full text and submit it to ETH-Bibliothek and the Doctoral Administration.\n\nETH Zurich has required all doctoral students to publish the electronic version of their doctoral thesis via ETH E-Collection since 2008.\n\nFurther information is available on the Publication process page."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Regulation On The Open Access Requirement For Doctoral Theses",
+        "label": "WORK_OF_ART",
+        "start": 24,
+        "end": 85
+      },
+      {
+        "text": "November 2013",
+        "label": "DATE",
+        "start": 3,
+        "end": 16
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 17,
+        "end": 27
+      },
+      {
+        "text": "the Ordinance on Doctoral Studies",
+        "label": "ORG",
+        "start": 36,
+        "end": 69
+      },
+      {
+        "text": "the ETH E-Collection",
+        "label": "ORG",
+        "start": 184,
+        "end": 204
+      },
+      {
+        "text": "one or three years",
+        "label": "DATE",
+        "start": 304,
+        "end": 322
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 324,
+        "end": 338
+      },
+      {
+        "text": "ETH E-Collection’s",
+        "label": "ORG",
+        "start": 383,
+        "end": 401
+      },
+      {
+        "text": "1 June 2014",
+        "label": "DATE",
+        "start": 425,
+        "end": 436
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 600,
+        "end": 614
+      },
+      {
+        "text": "the Doctoral Administration",
+        "label": "ORG",
+        "start": 619,
+        "end": 646
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 648,
+        "end": 658
+      },
+      {
+        "text": "ETH E-Collection",
+        "label": "ORG",
+        "start": 757,
+        "end": 773
+      },
+      {
+        "text": "Publication",
+        "label": "FAC",
+        "start": 826,
+        "end": 837
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH E-Collection",
+        "ETH E-Collection’s",
+        "ETH Zurich",
+        "ETH-Bibliothek",
+        "the Doctoral Administration",
+        "the ETH E-Collection",
+        "the Ordinance on Doctoral Studies"
+      ],
+      "LOCATION": [
+        "Publication"
+      ],
+      "DATE": [
+        "1 June 2014",
+        "November 2013",
+        "one or three years"
+      ],
+      "MISC": [
+        "Regulation On The Open Access Requirement For Doctoral Theses"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "ETH-Bibliothek": 2,
+      "Regulation On The Open Access Requirement For Doctoral Theses": 1,
+      "November 2013": 1,
+      "the Ordinance on Doctoral Studies": 1,
+      "the ETH E-Collection": 1,
+      "one or three years": 1,
+      "ETH E-Collection’s": 1,
+      "1 June 2014": 1,
+      "the Doctoral Administration": 1,
+      "ETH E-Collection": 1,
+      "Publication": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "New-regulation-on-the-open-access-requirement-for-doctoral-theses.md",
+      "title": "En Internal/2014/06/new Regulation On The Open Access Requirement For Doctoral Theses",
+      "language": "en",
+      "source_path": "en_internal/2014/06/New-regulation-on-the-open-access-requirement-for-doctoral-theses.html"
+    },
+    "temporal": {
+      "publication_date": "2014-06",
+      "mentioned_years": [
+        "2008",
+        "2013",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Regulation On The Open Access Requirement For Doctoral Theses"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Regulation On",
+        "ETH-Bibliothek",
+        "Doctoral Studies",
+        "For Doctoral",
+        "En Internal",
+        "Theses In",
+        "Access Requirement",
+        "ETH Zurich",
+        "ETH E",
+        "The Open",
+        "Doctoral Administration"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH E-Collection",
+        "ETH E-Collection’s",
+        "ETH Zurich",
+        "ETH-Bibliothek",
+        "the Doctoral Administration",
+        "the ETH E-Collection",
+        "the Ordinance on Doctoral Studies"
+      ],
+      "locations": [
+        "Publication"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "ETH-Bibliothek",
+        "Regulation On The Open Access Requirement For Doctoral Theses",
+        "November 2013",
+        "the Ordinance on Doctoral Studies",
+        "the ETH E-Collection",
+        "one or three years",
+        "ETH E-Collection’s",
+        "1 June 2014",
+        "the Doctoral Administration"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 940
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "the ETH E-Collection",
+        "2013",
+        "2008",
+        "ETH E-Collection’s",
+        "ETH Zurich",
+        "the Doctoral Administration",
+        "the Ordinance on Doctoral Studies",
+        "ETH E-Collection",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Regulation On The Open Access Requirement For Doctoral Theses",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

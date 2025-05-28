@@ -1,0 +1,417 @@
+{
+  "filename": "special-drone-collects-environmental-dna-from-trees.md",
+  "original_filename": "special-drone-collects-environmental-dna-from-trees.html",
+  "source_path": "en_news_events/2023/01/special-drone-collects-environmental-dna-from-trees.html",
+  "date": "2023-01",
+  "title": "Special Drone Collects Environmental Dna From Trees",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "How the drone collects material",
+      "text": "Ecologists are increasingly using traces of genetic material left behind by living organisms left behind in the environment, called environmental DNA (eDNA), to catalogue and monitor biodiversity. Based on these DNA traces, researchers can determine which species are present in a certain area.\n\nObtaining samples from water or soil is easy, but other habitats – such as the forest canopy – are difficult for researchers to access. As a result, many species remain untracked in poorly explored areas.\n\nResearchers at ETH Zurich and the Swiss Federal Institute for Forest, Snow and Landscape Research WSL, and the company SPYGEN have partnered to develop a special drone that can autonomously collect samples on tree branches."
+    },
+    {
+      "heading": "How the drone collects material",
+      "text": "The drone is equipped with adhesive strips. When the aircraft lands on a branch, material from the branch sticks to these strips. Researchers can then extract DNA in the lab, analyse it and assign it to genetic matches of the various organisms using database comparisons.\n\nBut not all branches are the same: they vary in terms of their thickness and elasticity. Branches also bend and rebound when a drone lands on them. Programming the aircraft in such a way that it can still approach a branch autonomously and remain stable on it long enough to take samples was a major challenge for the roboticists.\n\n„Landing on branches requires complex control,” explains Stefano Mintchev, Professor of Environmental Robotics at ETH Zurich and WSL. Initially, the drone does not know how flexible a branch is, so the researchers fitted it with a force sensing cage. This allows the drone to measure this factor at the scene and incorporate it into its flight manoeuvre."
+    },
+    {
+      "heading": "Preparing rainforest operations at Zoo Zurich",
+      "text": "Researchers have tested their new device on seven tree species. In the samples, they found DNA from 21 distinct groups of organisms, or taxa, including birds, mammals and insects. „This is encouraging, because it shows that the collection technique works,“ says Mintchev, who co-authored the study that has just appeared in the journal Science Robotics .\n\nThe researchers now want to improve their drone further to get it ready for a competition in which the aim is to detect as many different species as possible across 100 hectares of rainforest in Singapore in 24 hours.\n\nTo test the drone’s efficiency under conditions similar to those it will experience at the competition, Mintchev and his team are currently working at the Zoo Zurich’s Masoala Rainforest. „Here we have the advantage of knowing which species are present, which will help us to better assess how thorough we are in capturing all eDNA traces with this technique or if we’re missing something,“ Mintchev says.\n\nFor this event, however, the collection device must become more efficient and mobilize faster. In the tests in Switzerland, the drone collected material from seven trees in three days; in Singapore, it must be able to fly to and collect samples from ten times as many trees in just one day.\n\nCollecting samples in a natural rainforest, however, presents the researchers with even tougher challenges. Frequent rain washes eDNA off surfaces, while wind and clouds impede drone operation. „We are therefore very curious to see whether our sampling method will also prove itself under extreme conditions in the tropics,” Mintchev says.\n\nAucone E, Kirchgeorg E, Valentini A, Pellissier L, Deiner K, Mintchev S: Drone-assisted collection of environmental DNA from tree branches for biodiversity monitoring. Science Robotics, 18 January 2023. DOI 10.1126/scirobotics.add5762"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 515,
+        "end": 525
+      },
+      {
+        "text": "the Swiss Federal Institute for Forest",
+        "label": "ORG",
+        "start": 530,
+        "end": 568
+      },
+      {
+        "text": "Snow and Landscape Research WSL",
+        "label": "WORK_OF_ART",
+        "start": 570,
+        "end": 601
+      },
+      {
+        "text": "SPYGEN",
+        "label": "ORG",
+        "start": 619,
+        "end": 625
+      },
+      {
+        "text": "Stefano Mintchev",
+        "label": "PERSON",
+        "start": 660,
+        "end": 676
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 717,
+        "end": 727
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 732,
+        "end": 735
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 44,
+        "end": 49
+      },
+      {
+        "text": "Mintchev",
+        "label": "PERSON",
+        "start": 262,
+        "end": 270
+      },
+      {
+        "text": "Science Robotics",
+        "label": "ORG",
+        "start": 336,
+        "end": 352
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 550,
+        "end": 559
+      },
+      {
+        "text": "24 hours",
+        "label": "TIME",
+        "start": 563,
+        "end": 571
+      },
+      {
+        "text": "Mintchev",
+        "label": "PERSON",
+        "start": 677,
+        "end": 685
+      },
+      {
+        "text": "the Zoo Zurich’s Masoala Rainforest",
+        "label": "FAC",
+        "start": 724,
+        "end": 759
+      },
+      {
+        "text": "Mintchev",
+        "label": "PERSON",
+        "start": 964,
+        "end": 972
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1090,
+        "end": 1101
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 1137,
+        "end": 1142
+      },
+      {
+        "text": "three days",
+        "label": "DATE",
+        "start": 1152,
+        "end": 1162
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 1167,
+        "end": 1176
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 1229,
+        "end": 1232
+      },
+      {
+        "text": "just one day",
+        "label": "DATE",
+        "start": 1256,
+        "end": 1268
+      },
+      {
+        "text": "Mintchev",
+        "label": "PERSON",
+        "start": 1595,
+        "end": 1603
+      },
+      {
+        "text": "Kirchgeorg E",
+        "label": "ORG",
+        "start": 1620,
+        "end": 1632
+      },
+      {
+        "text": "Pellissier L",
+        "label": "PERSON",
+        "start": 1647,
+        "end": 1659
+      },
+      {
+        "text": "Deiner K",
+        "label": "PERSON",
+        "start": 1661,
+        "end": 1669
+      },
+      {
+        "text": "Mintchev S: Drone",
+        "label": "PERSON",
+        "start": 1671,
+        "end": 1688
+      },
+      {
+        "text": "Science Robotics",
+        "label": "ORG",
+        "start": 1778,
+        "end": 1794
+      },
+      {
+        "text": "18 January 2023",
+        "label": "DATE",
+        "start": 1796,
+        "end": 1811
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 1817,
+        "end": 1824
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Deiner K",
+        "Mintchev",
+        "Mintchev S: Drone",
+        "Pellissier L",
+        "Stefano Mintchev"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Kirchgeorg E",
+        "SPYGEN",
+        "Science Robotics",
+        "WSL",
+        "the Swiss Federal Institute for Forest"
+      ],
+      "LOCATION": [
+        "Singapore",
+        "Switzerland",
+        "the Zoo Zurich’s Masoala Rainforest"
+      ],
+      "DATE": [
+        "18 January 2023",
+        "24 hours",
+        "just one day",
+        "three days"
+      ],
+      "MISC": [
+        "10.1126",
+        "Snow and Landscape Research WSL",
+        "seven",
+        "ten"
+      ]
+    },
+    "entity_counts": {
+      "Mintchev": 4,
+      "ETH Zurich": 2,
+      "seven": 2,
+      "Science Robotics": 2,
+      "Singapore": 2,
+      "the Swiss Federal Institute for Forest": 1,
+      "Snow and Landscape Research WSL": 1,
+      "SPYGEN": 1,
+      "Stefano Mintchev": 1,
+      "WSL": 1,
+      "24 hours": 1,
+      "the Zoo Zurich’s Masoala Rainforest": 1,
+      "Switzerland": 1,
+      "three days": 1,
+      "ten": 1,
+      "just one day": 1,
+      "Kirchgeorg E": 1,
+      "Pellissier L": 1,
+      "Deiner K": 1,
+      "Mintchev S: Drone": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "special-drone-collects-environmental-dna-from-trees.md",
+      "title": "En News Events/2023/01/special Drone Collects Environmental Dna From Trees",
+      "language": "en",
+      "source_path": "en_news_events/2023/01/special-drone-collects-environmental-dna-from-trees.html"
+    },
+    "temporal": {
+      "publication_date": "2023-01",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Deiner K",
+        "Mintchev",
+        "Mintchev S: Drone",
+        "Pellissier L",
+        "Stefano Mintchev"
+      ],
+      "people_with_roles": {
+        "Mintchev": [
+          "professor"
+        ],
+        "Stefano Mintchev": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10.1126",
+        "Snow and Landscape Research WSL",
+        "seven"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "From Trees",
+        "Swiss Federal",
+        "Landscape Research",
+        "Zoo Zurich",
+        "Environmental Dna",
+        "En News",
+        "Kirchgeorg E",
+        "Stefano Mintchev",
+        "Drone Collects",
+        "Pellissier L",
+        "Deiner K",
+        "Valentini A",
+        "Mintchev S",
+        "Masoala Rainforest",
+        "Aucone E",
+        "ETH Zurich",
+        "Science Robotics",
+        "Environmental Robotics"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Forest"
+      ],
+      "institutions": [
+        "ETH Zurich",
+        "Kirchgeorg E",
+        "SPYGEN",
+        "Science Robotics",
+        "WSL",
+        "the Swiss Federal Institute for Forest"
+      ],
+      "locations": [
+        "Singapore",
+        "Switzerland",
+        "the Zoo Zurich’s Masoala Rainforest"
+      ],
+      "programs": [
+        "program",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Mintchev",
+        "ETH Zurich",
+        "seven",
+        "Science Robotics",
+        "Singapore",
+        "the Swiss Federal Institute for Forest",
+        "Snow and Landscape Research WSL",
+        "SPYGEN",
+        "Stefano Mintchev",
+        "WSL"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "How the drone collects material",
+          "How the drone collects material",
+          "Preparing rainforest operations at Zoo Zurich"
+        ],
+        "content_length": 3610
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "WSL",
+        "the Swiss Federal Institute for Forest",
+        "Science Robotics",
+        "Mintchev S: Drone",
+        "Kirchgeorg E",
+        "Deiner K",
+        "Stefano Mintchev",
+        "EU",
+        "Mintchev",
+        "ETH Zurich",
+        "Pellissier L",
+        "SPYGEN",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "seven",
+        "who",
+        "10.1126",
+        "biology",
+        "what",
+        "how",
+        "Snow and Landscape Research WSL",
+        "computer_science",
+        "when"
+      ],
+      "graph_relations": [
+        "Mintchev_has_role_professor",
+        "Stefano Mintchev_has_role_professor",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

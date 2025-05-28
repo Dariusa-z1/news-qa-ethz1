@@ -1,0 +1,277 @@
+{
+  "filename": "ab-heute-wird-die-polybahn-erneuert.md",
+  "original_filename": "ab-heute-wird-die-polybahn-erneuert.html",
+  "source_path": "de_internal/2021/05/ab-heute-wird-die-polybahn-erneuert.html",
+  "date": "2021-05",
+  "title": "Ab Heute Wird Die Polybahn Erneuert",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Jährlich befördert die Polybahn gegen zwei Millionen Personen zwischen der Station Central und der Polyterrasse. Unter ihnen zahlreiche Angehörige der ETH Zürich. Auch ihren Namen erhielt sie Anlehnung an das Polytechnikum, wie die ETH in den Jahren nach ihrer Gründung hiess. Für ihren Betrieb und den Fahrplan zuständig sind die UBS zusammen mit der VBZ und dem ZVV.\n\nNun wird die Polybahn, die seit 1996 unbemannt fährt, totalsaniert und gewartet. Die Wartungsarbeiten dauern vom 30. Mai bis am 17. September 2021. Während dieser Zeit ist der Betrieb eingestellt. Für ETH-Angehörige stehen während der Schliessung weiterhin die Tramlinien 6 und 10 ab Central bis ETH/Universitätsspital zur Verfügung.\n\nGemäss externe Seite Medienberichten kosten die Umbauarbeiten drei Millionen Franken, wobei das nostalgische Erscheinungsbild des Polybahn erhalten bleibe. Erneuert werden unter anderem die Böden und Sitze der beiden Wagen sowie der Antrieb."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2021/05",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Polybahn",
+        "label": "LOC",
+        "start": 38,
+        "end": 46
+      },
+      {
+        "text": "Polybahn",
+        "label": "LOC",
+        "start": 23,
+        "end": 31
+      },
+      {
+        "text": "Central",
+        "label": "LOC",
+        "start": 83,
+        "end": 90
+      },
+      {
+        "text": "Polyterrasse",
+        "label": "LOC",
+        "start": 99,
+        "end": 111
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 151,
+        "end": 161
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 232,
+        "end": 235
+      },
+      {
+        "text": "UBS",
+        "label": "ORG",
+        "start": 331,
+        "end": 334
+      },
+      {
+        "text": "VBZ",
+        "label": "ORG",
+        "start": 352,
+        "end": 355
+      },
+      {
+        "text": "ZVV",
+        "label": "ORG",
+        "start": 364,
+        "end": 367
+      },
+      {
+        "text": "Polybahn",
+        "label": "LOC",
+        "start": 382,
+        "end": 390
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 532,
+        "end": 536
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 570,
+        "end": 584
+      },
+      {
+        "text": "Central",
+        "label": "LOC",
+        "start": 653,
+        "end": 660
+      },
+      {
+        "text": "ETH",
+        "label": "LOC",
+        "start": 665,
+        "end": 668
+      },
+      {
+        "text": "Universitätsspital",
+        "label": "LOC",
+        "start": 669,
+        "end": 687
+      },
+      {
+        "text": "Polybahn",
+        "label": "LOC",
+        "start": 833,
+        "end": 841
+      },
+      {
+        "text": "Erneuert",
+        "label": "ORG",
+        "start": 859,
+        "end": 867
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "Erneuert",
+        "UBS",
+        "VBZ",
+        "ZVV"
+      ],
+      "LOCATION": [
+        "Central",
+        "De Internal/2021/05",
+        "ETH",
+        "Polybahn",
+        "Polyterrasse",
+        "Universitätsspital"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige",
+        "Zeit"
+      ]
+    },
+    "entity_counts": {
+      "Polybahn": 4,
+      "Central": 2,
+      "ETH": 2,
+      "De Internal/2021/05": 1,
+      "Polyterrasse": 1,
+      "ETH Zürich": 1,
+      "UBS": 1,
+      "VBZ": 1,
+      "ZVV": 1,
+      "Zeit": 1,
+      "ETH-Angehörige": 1,
+      "Universitätsspital": 1,
+      "Erneuert": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ab-heute-wird-die-polybahn-erneuert.md",
+      "title": "De Internal/2021/05/ab Heute Wird die Polybahn Erneuert",
+      "language": "de",
+      "source_path": "de_internal/2021/05/ab-heute-wird-die-polybahn-erneuert.html"
+    },
+    "temporal": {
+      "publication_date": "2021-05",
+      "mentioned_years": [
+        "1996",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Angehörige",
+        "Zeit"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Station Central",
+        "De Internal",
+        "Seite Medienberichten",
+        "Heute Wird",
+        "Polybahn Erneuert",
+        "Die Wartungsarbeiten",
+        "Millionen Franken",
+        "Millionen Personen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "Erneuert",
+        "UBS",
+        "VBZ",
+        "ZVV"
+      ],
+      "locations": [
+        "Central",
+        "De Internal/2021/05",
+        "ETH",
+        "Polybahn",
+        "Polyterrasse",
+        "Universitätsspital"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Polybahn",
+        "Central",
+        "ETH",
+        "De Internal/2021/05",
+        "Polyterrasse",
+        "ETH Zürich",
+        "UBS",
+        "VBZ",
+        "ZVV",
+        "Zeit"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1002
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "1996",
+        "VBZ",
+        "EU",
+        "Erneuert",
+        "ETH Zürich",
+        "ZVV",
+        "2021",
+        "UBS"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Angehörige",
+        "Zeit",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

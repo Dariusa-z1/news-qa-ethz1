@@ -1,0 +1,105 @@
+{
+  "filename": "that-was-the-together-2022.md",
+  "original_filename": "that-was-the-together-2022.html",
+  "source_path": "en_internal/2022/08/that-was-the-together-2022.html",
+  "date": "2022-08",
+  "title": "That Was The Together 2022",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "If you want to look back again, you can find some of the best pictures of the long party night online. And: The date of the togETHer 2024 is already revealed. It's best to put it in the agenda right away!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 89,
+        "end": 94
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [
+        "night"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "night": 1
+    },
+    "total_entities": 1,
+    "unique_entities": 1
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "that-was-the-together-2022.md",
+      "title": "En Internal/2022/08/that Was The Together 2022",
+      "language": "en",
+      "source_path": "en_internal/2022/08/that-was-the-together-2022.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "2022",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Was The",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "night"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 251
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "2022"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

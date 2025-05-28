@@ -1,0 +1,287 @@
+{
+  "filename": "cyberattack-alert.md",
+  "original_filename": "cyberattack-alert.html",
+  "source_path": "en_internal/2021/03/cyberattack-alert.html",
+  "date": "2021-03",
+  "title": "Cyberattack Alert",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "This is CEO fraud",
+      "text": "- “Hello are you free at the moment? I need your assistance urgently.”\n\n- “Okay good. I’m in a meeting just now and need you to get me something right away. Is there a grocery store close to you?”\n\n- “Good, so this what I’d like you to do as quickly as possible. Could you buy me four Google Play gift cards, at 100 francs each? Then please send me photos of the voucher numbers on the cards. I’ll reimburse you as soon as I can, of course.”\n\n- “Thanks! But I need three more cards and I can’t get out of this meeting! Can you help me out again, please?”\n\n- Check the email address: Move the mouse slowly over the sender’s name, but don’t click on it. If it’s not an ETH address, you should be suspicious – even if it carries the supervisor’s name.\n\n- Look out for distinguishing features: Often the request is very urgent, to leave you no time to think. It appeals to your willingness to help.\n\n- Pay attention to digital signatures and use them yourself. This is the only way to clearly identify the sender.\n\n- Never click on links or attachments in dubious emails\n\n- Never give out passwords, even if the request seems trustworthy.\n\n- Look up the sender and contact them via their official ETH telephone number or email address to verify the information.\n\n- Forward the suspicious email to the IT Services support centre  – as an attachment!\n\n- If you’ve clicked on something or have been the victim of a cyberattack, contact the IT Service Desk immediately:  and/or the IT support group for your department.\n\n- If you’ve bought prepaid cards or made a transfer, try to reverse this as soon as possible (at the bank or the customer contact point).\n\nHas your supervisor suddenly made an unusual, urgent request? If an email gives you an uneasy feeling, it’s worth pausing for a moment. It could be a personalised phishing attack."
+    },
+    {
+      "heading": "This is CEO fraud",
+      "text": "ETH recorded a rise in cyberattacks last year. A particularly insidious form of attack is CEO fraud, in which employees are contacted, apparently by their supervisors, and asked to urgently buy gift cards, for instance. Here the fraudsters deceive an employee by email or over the phone in order to gain financial data, passwords or a money transfer. They pretend to be the victim’s supervisor or another senior person in the organisation."
+    },
+    {
+      "heading": "Putting the victim under pressure",
+      "text": "Fraudsters often get hold of codes of Google Play or Apple Store gift cards, which the employees buy in good faith with their own money. They do this by preying on their victims’ sense of urgency – putting them under pressure, and leaving them no time to think. Victims are contacted by name and their willingness to help is surreptitiously exploited.\n\nSuch attacks are carefully prepared. “Whereas previously phishing emails could easily be spotted by their typos, fraudsters now do extensive internet research,” says Domenico Salvati, Chief Information Security Officer at ETH Zurich. These days, the supervisor’s name is neatly placed above the email address, the address details are copied into the footer, and sometimes even a second email address is created that appears to be the supervisor’s private address."
+    },
+    {
+      "heading": "How CEO fraud often plays out",
+      "text": "ETH employee X receives an email request, which seems to have been sent by the supervisor:\n\nEmployee X: “Yes, I’m free now. What can I do to help you? ”\n\nEmployee X: “Yes, there are several close by.”\n\nEmployee X, a little later: “I’ve got the cards. And here are the photos of the numbers.”"
+    },
+    {
+      "heading": "A little suspicion is no bad thing",
+      "text": "Particularly now, when many of us working from home have no direct contact with colleagues and can’t check up on things easily, it’s wise to be cautious.\n\nOnline scammers are sneaky, and skilled at using human nature to set up contact. That’s why it’s crucial always to be alert, especially when working from home. If we deal openly with this issue and warn others, scammers will have a much harder time of it.\n\nYou’ll find more on CEO fraud, phishing and internet fraud on the IT Services website , under information security and awareness."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Alert",
+        "label": "PERSON",
+        "start": 32,
+        "end": 37
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 278,
+        "end": 282
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 283,
+        "end": 289
+      },
+      {
+        "text": "100 francs",
+        "label": "MONEY",
+        "start": 310,
+        "end": 320
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 462,
+        "end": 467
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 663,
+        "end": 666
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1184,
+        "end": 1187
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "last year",
+        "label": "DATE",
+        "start": 36,
+        "end": 45
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 38,
+        "end": 44
+      },
+      {
+        "text": "Apple Store",
+        "label": "PERSON",
+        "start": 53,
+        "end": 64
+      },
+      {
+        "text": "Domenico Salvati",
+        "label": "PERSON",
+        "start": 518,
+        "end": 534
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 574,
+        "end": 584
+      },
+      {
+        "text": "These days",
+        "label": "DATE",
+        "start": 586,
+        "end": 596
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 731,
+        "end": 737
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alert",
+        "Apple Store",
+        "Domenico Salvati"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Google"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "These days",
+        "last year"
+      ],
+      "MISC": [
+        "100 francs",
+        "four",
+        "second",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 4,
+      "Google": 2,
+      "Alert": 1,
+      "four": 1,
+      "100 francs": 1,
+      "three": 1,
+      "last year": 1,
+      "Apple Store": 1,
+      "Domenico Salvati": 1,
+      "ETH Zurich": 1,
+      "These days": 1,
+      "second": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "cyberattack-alert.md",
+      "title": "En Internal/2021/03/cyberattack Alert",
+      "language": "en",
+      "source_path": "en_internal/2021/03/cyberattack-alert.html"
+    },
+    "temporal": {
+      "publication_date": "2021-03",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alert",
+        "Apple Store",
+        "Domenico Salvati"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "100 francs",
+        "four",
+        "second",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "But I",
+        "Apple Store",
+        "Security Officer",
+        "IT Services",
+        "En Internal",
+        "Chief Information",
+        "Domenico Salvati",
+        "ETH Zurich",
+        "IT Service",
+        "Employee X",
+        "Google Play"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Google"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Google",
+        "Alert",
+        "four",
+        "100 francs",
+        "three",
+        "last year",
+        "Apple Store",
+        "Domenico Salvati",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "This is CEO fraud",
+          "This is CEO fraud",
+          "Putting the victim under pressure",
+          "How CEO fraud often plays out",
+          "A little suspicion is no bad thing"
+        ],
+        "content_length": 3960
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Google",
+        "Apple Store",
+        "Alert",
+        "Domenico Salvati",
+        "ETH Zurich",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "four",
+        "who",
+        "100 francs",
+        "what",
+        "second",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "filename": "flipped-classroom.md",
+  "original_filename": "flipped-classroom.html",
+  "source_path": "en_news_events/2016/12/flipped-classroom.html",
+  "date": "2016-12",
+  "title": "Flipped Classroom",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Individual lesson design",
+      "text": "“Try to talk to each other as much as possible,” says Katja Köhler, a lecturer in the Department of Biology, as she attempts to motivate around 500 first-semester students at the start of the lecture. Normally, talking during classes is frowned upon, but in the flipped classroom on genetic variability, it is actively encouraged."
+    },
+    {
+      "heading": "Individual lesson design",
+      "text": "Alongside traditional classes, the Department of Biology has been running one or two lectures as flipped classrooms each semester since autumn 2013. This teaching method encourages students to teach themselves theory through self-study using interactive learning exercises with text and videos on the Moodle learning platform. Classroom time can then be used to discuss problems in groups. Two lecturers and up to ten teaching assistants are on hand in the lecture theatre to help with questions. “The concept gives us the chance to interact and talk with students during the lecture,” explains Katja Köhler. Students thus benefit from one-on-one support that caters to their differing levels of knowledge."
+    },
+    {
+      "heading": "Better conceptual understanding",
+      "text": "In addition to allowing more interaction in the lecture theatre, the introduction of this approach also has another objective, as Ernst Hafen, Deputy Head of Institute for Molecular Systems Biology and Director of Studies of the Department of Biology explains: “The students shouldn’t be focussed solely on passing their first-year examinations; they also need to develop better conceptual understanding of the lecture material.” This comes as a response to the results of a doctoral project carried out within the department, which found that students often learn the material only shortly before the examination and thus are less adept at making conceptual links between the different topics."
+    },
+    {
+      "heading": "Hugely popular among students",
+      "text": "The teaching method has won many fans among students. Since its introduction, students have been surveyed at the end of each semester in order to improve the concept on an ongoing basis. By the time the third survey was carried out, 95 percent of participants stated that they wanted more flipped classroom lectures. And when students are asked what they think in person, they list many advantages to the approach:\n\nTo help organise the flipped classroom courses and prepare lecture plans, the Department of Biology has founded the Center for Active Learning (CAL), which is available to all of the department’s lecturers. A teaching centre of this nature on the department level is a first at ETH Zurich but, in Ernst Hafen’s view, is a key factor in the approach’s success: “We need a team of experts who know the subject well to help prepare and review the lectures.” For its technical infrastructure, the Center for Active Learning uses learning platforms that are developed by the administrative department Educational Development and Technology at ETH Zurich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Classroom",
+        "label": "ORG",
+        "start": 31,
+        "end": 40
+      },
+      {
+        "text": "Katja Köhler",
+        "label": "PERSON",
+        "start": 54,
+        "end": 66
+      },
+      {
+        "text": "the Department of Biology",
+        "label": "ORG",
+        "start": 82,
+        "end": 107
+      },
+      {
+        "text": "the Department of Biology",
+        "label": "ORG",
+        "start": 31,
+        "end": 56
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 74,
+        "end": 77
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 81,
+        "end": 84
+      },
+      {
+        "text": "autumn 2013",
+        "label": "DATE",
+        "start": 136,
+        "end": 147
+      },
+      {
+        "text": "Moodle",
+        "label": "GPE",
+        "start": 301,
+        "end": 307
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 390,
+        "end": 393
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 414,
+        "end": 417
+      },
+      {
+        "text": "Katja Köhler",
+        "label": "PERSON",
+        "start": 595,
+        "end": 607
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 636,
+        "end": 639
+      },
+      {
+        "text": "Ernst Hafen",
+        "label": "PERSON",
+        "start": 130,
+        "end": 141
+      },
+      {
+        "text": "Head of Institute for Molecular Systems Biology",
+        "label": "ORG",
+        "start": 150,
+        "end": 197
+      },
+      {
+        "text": "the Department of Biology",
+        "label": "ORG",
+        "start": 225,
+        "end": 250
+      },
+      {
+        "text": "first-year",
+        "label": "DATE",
+        "start": 321,
+        "end": 331
+      },
+      {
+        "text": "the end of each semester",
+        "label": "DATE",
+        "start": 109,
+        "end": 133
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 203,
+        "end": 208
+      },
+      {
+        "text": "95 percent",
+        "label": "PERCENT",
+        "start": 233,
+        "end": 243
+      },
+      {
+        "text": "the Department of Biology",
+        "label": "ORG",
+        "start": 489,
+        "end": 514
+      },
+      {
+        "text": "the Center for Active Learning",
+        "label": "ORG",
+        "start": 527,
+        "end": 557
+      },
+      {
+        "text": "CAL",
+        "label": "ORG",
+        "start": 559,
+        "end": 562
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 693,
+        "end": 703
+      },
+      {
+        "text": "Ernst Hafen’s",
+        "label": "PERSON",
+        "start": 712,
+        "end": 725
+      },
+      {
+        "text": "the Center for Active Learning",
+        "label": "ORG",
+        "start": 904,
+        "end": 934
+      },
+      {
+        "text": "Educational Development and Technology",
+        "label": "ORG",
+        "start": 1011,
+        "end": 1049
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1053,
+        "end": 1063
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ernst Hafen",
+        "Ernst Hafen’s",
+        "Katja Köhler"
+      ],
+      "ORG": [
+        "CAL",
+        "Classroom",
+        "ETH Zurich",
+        "Educational Development and Technology",
+        "Head of Institute for Molecular Systems Biology",
+        "the Center for Active Learning",
+        "the Department of Biology"
+      ],
+      "LOCATION": [
+        "Moodle"
+      ],
+      "DATE": [
+        "autumn 2013",
+        "first-year",
+        "the end of each semester"
+      ],
+      "MISC": [
+        "95 percent",
+        "Two",
+        "one",
+        "ten",
+        "third",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "the Department of Biology": 4,
+      "Katja Köhler": 2,
+      "one": 2,
+      "the Center for Active Learning": 2,
+      "ETH Zurich": 2,
+      "Classroom": 1,
+      "two": 1,
+      "autumn 2013": 1,
+      "Moodle": 1,
+      "Two": 1,
+      "ten": 1,
+      "Ernst Hafen": 1,
+      "Head of Institute for Molecular Systems Biology": 1,
+      "first-year": 1,
+      "the end of each semester": 1,
+      "third": 1,
+      "95 percent": 1,
+      "CAL": 1,
+      "Ernst Hafen’s": 1,
+      "Educational Development and Technology": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "flipped-classroom.md",
+      "title": "En News Events/2016/12/flipped Classroom",
+      "language": "en",
+      "source_path": "en_news_events/2016/12/flipped-classroom.html"
+    },
+    "temporal": {
+      "publication_date": "2016-12",
+      "mentioned_years": [
+        "2013",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Ernst Hafen",
+        "Ernst Hafen’s",
+        "Katja Köhler"
+      ],
+      "people_with_roles": {
+        "Ernst Hafen": [
+          "director",
+          "student",
+          "head",
+          "rector"
+        ],
+        "Katja Köhler": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "director",
+        "head",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "95 percent",
+        "third"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "En News",
+        "Ernst Hafen",
+        "Educational Development",
+        "Active Learning",
+        "ETH Zurich",
+        "Deputy Head",
+        "Molecular Systems"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biology",
+        "Biology has been running one or two lectures as flipped classrooms each semester since autumn ",
+        "Biology explains",
+        "Biology has founded the Center for Active Learning ",
+        "Molecular Systems Biology and Director of Studies of the Department of Biology explains"
+      ],
+      "institutions": [
+        "CAL",
+        "Classroom",
+        "ETH Zurich",
+        "Educational Development and Technology",
+        "Head of Institute for Molecular Systems Biology",
+        "the Center for Active Learning",
+        "the Department of Biology"
+      ],
+      "locations": [
+        "Moodle"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "the Department of Biology",
+        "Katja Köhler",
+        "one",
+        "the Center for Active Learning",
+        "ETH Zurich",
+        "Classroom",
+        "two",
+        "autumn 2013",
+        "Moodle",
+        "Two"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Individual lesson design",
+          "Individual lesson design",
+          "Better conceptual understanding",
+          "Hugely popular among students"
+        ],
+        "content_length": 2839
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Ernst Hafen’s",
+        "Classroom",
+        "Head of Institute for Molecular Systems Biology",
+        "CAL",
+        "2013",
+        "Educational Development and Technology",
+        "Ernst Hafen",
+        "2016",
+        "the Department of Biology",
+        "the Center for Active Learning",
+        "Katja Köhler",
+        "ETH Zurich",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "third",
+        "why",
+        "who",
+        "chemistry",
+        "biology",
+        "what",
+        "how",
+        "95 percent",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Ernst Hafen_has_role_director",
+        "Ernst Hafen_has_role_student",
+        "Ernst Hafen_has_role_head",
+        "Ernst Hafen_has_role_rector",
+        "Katja Köhler_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

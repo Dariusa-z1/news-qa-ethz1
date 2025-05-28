@@ -1,0 +1,582 @@
+{
+  "filename": "pef-for-pet.md",
+  "original_filename": "pef-for-pet.html",
+  "source_path": "en_news_events/2018/07/pef-for-pet.html",
+  "date": "2018-07",
+  "title": "Pef For Pet",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Better material properties",
+      "text": "The problem of plastic is on everyone's lips. Every year, some 50 million tons of polyethylene terephthalate (PET) alone are produced, and the trend is rising. Since recycling is usually cost-intensive and technologically difficult to implement, a great deal of plastic waste ends up in the oceans or is incinerated, causing massive CO 2 emissions. The use of crude oil in production is also problematic. However, none of us can do without plastic entirely. \"Polymers and plastics are very useful materials that make a wide range of everyday applications possible in the first place. Lighter cars, smartphones, modern clothes and many medical devices would not exist if we hadn't invented polymers,\" says Jan-Georg Rosenboom, a fresh PhD graduate in the research group of ETH professor Massimo Morbidelli at the Department of Chemistry and Applied Biosciences. \"The question is how we can reduce the negative environmental impact of plastic while maintaining its benefits for our society.\""
+    },
+    {
+      "heading": "Reference",
+      "text": "PEF bioplastics are indistinguishable from conventional PET on the outside. (Photograph: ETH Zurich / Jan-Georg Rosenboom)\n\nOne answer could be biobased polymers, so-called bioplastics. These have very similar properties to conventional plastics, but are made from plant-based raw materials instead of crude oil. Some bioplastics are also biodegradable and enable better composting. Massimo Morbidelli's group is investigating a promising bioplastic called polyethylene furanoate (PEF). PEF is chemically very similar to PET, but consists of 100% renewable raw materials such as forestry and agricultural wastes. PEF bottles, for example, require less material, are lighter and more stable than their PET competitors and make beverages last longer. Although PEF is not biodegradable, it can be incinerated in an environmentally friendly manner besides recycling, as no additional CO 2 emissions are produced. The fact that PEF has not yet been able to establish itself on the market is primarily due to its time- and energy-intensive production. The ETH doctoral students Jan-Georg Rosenboom and Peter Fleckenstein, together with ETH professor Giuseppe Storti, have now developed a method that could enable the commercial breakthrough of PEF. Yesterday their research results were published in the journal Nature Communications.\n\n\"Our method reduces production time from several days to a few hours. In addition, discoloration in the end product can be avoided in contrast to previous processes,\" says Jan-Georg Rosenboom and explains: \"Instead of making the usual \"rope-like\" polymer chains with two end points react, we first tie rings from the latter, which thus have no ends anymore. These rings can then be polymerized to PEF much more quickly and in a controlled manner. This is because no chemical by-products are produced and have to be removed, when the rings are opened and connected to form the final long \"polymer rope\". The very fast reaction within minutes enables PEF products that are superior in material properties to PET and reduces energy requirements.” In addition, the method of ring opening allows a precise adjustment of the product quality, which was not possible with the previous production process. Thus, the new method could also be interesting for the production of other types of plastics and bioplastics. Due to its good material properties, the PEF could possibly also replace multilayer materials that are difficult to recycle. Currently, the scientists are working with Sulzer to investigate how the new process could be implemented in industrial mass production. Despite the many advantages offered by PEF, it cannot solve all existing problems on its own, says Rosenboom, stressing: \"Education and an improved awareness of how to handle plastics will continue to be crucial in order to stop the increasing environmental pollution. However, progress in manufacturing and recycling technologies will facilitate the transition towards a sustainable society\".\n\nRosenboom JG, Hohl DK, Fleckenstein P, Storti G, Morbidelli M: Bottle-grade polyethylene furanoate from ring-opening polymerisation of cyclic oligomers. Nature Communications, 24 July 2018, doi: 10.1038/s41467-018-05147-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Every year",
+        "label": "DATE",
+        "start": 46,
+        "end": 56
+      },
+      {
+        "text": "some 50 million tons",
+        "label": "QUANTITY",
+        "start": 58,
+        "end": 78
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 110,
+        "end": 113
+      },
+      {
+        "text": "CO 2",
+        "label": "PRODUCT",
+        "start": 333,
+        "end": 337
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 571,
+        "end": 576
+      },
+      {
+        "text": "Jan-Georg Rosenboom",
+        "label": "ORG",
+        "start": 705,
+        "end": 724
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 734,
+        "end": 737
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 772,
+        "end": 775
+      },
+      {
+        "text": "Massimo Morbidelli",
+        "label": "PERSON",
+        "start": 786,
+        "end": 804
+      },
+      {
+        "text": "the Department of Chemistry and Applied Biosciences",
+        "label": "ORG",
+        "start": 808,
+        "end": 859
+      },
+      {
+        "text": "PEF",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 56,
+        "end": 59
+      },
+      {
+        "text": "ETH Zurich / Jan-Georg Rosenboom",
+        "label": "PERSON",
+        "start": 89,
+        "end": 121
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 123,
+        "end": 126
+      },
+      {
+        "text": "Massimo Morbidelli's",
+        "label": "PERSON",
+        "start": 382,
+        "end": 402
+      },
+      {
+        "text": "PEF",
+        "label": "ORG",
+        "start": 480,
+        "end": 483
+      },
+      {
+        "text": "PEF",
+        "label": "ORG",
+        "start": 486,
+        "end": 489
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 520,
+        "end": 523
+      },
+      {
+        "text": "100%",
+        "label": "PERCENT",
+        "start": 541,
+        "end": 545
+      },
+      {
+        "text": "PEF",
+        "label": "ORG",
+        "start": 612,
+        "end": 615
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 700,
+        "end": 703
+      },
+      {
+        "text": "PEF",
+        "label": "ORG",
+        "start": 757,
+        "end": 760
+      },
+      {
+        "text": "PEF",
+        "label": "ORG",
+        "start": 922,
+        "end": 925
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1049,
+        "end": 1052
+      },
+      {
+        "text": "Jan-Georg Rosenboom",
+        "label": "ORG",
+        "start": 1071,
+        "end": 1090
+      },
+      {
+        "text": "Peter Fleckenstein",
+        "label": "PERSON",
+        "start": 1095,
+        "end": 1113
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1129,
+        "end": 1132
+      },
+      {
+        "text": "Giuseppe Storti",
+        "label": "PERSON",
+        "start": 1143,
+        "end": 1158
+      },
+      {
+        "text": "PEF",
+        "label": "ORG",
+        "start": 1237,
+        "end": 1240
+      },
+      {
+        "text": "Yesterday",
+        "label": "DATE",
+        "start": 1242,
+        "end": 1251
+      },
+      {
+        "text": "Nature Communications",
+        "label": "WORK_OF_ART",
+        "start": 1305,
+        "end": 1326
+      },
+      {
+        "text": "several days",
+        "label": "DATE",
+        "start": 1369,
+        "end": 1381
+      },
+      {
+        "text": "a few hours",
+        "label": "TIME",
+        "start": 1385,
+        "end": 1396
+      },
+      {
+        "text": "Jan-Georg Rosenboom",
+        "label": "ORG",
+        "start": 1500,
+        "end": 1519
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1595,
+        "end": 1598
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1620,
+        "end": 1625
+      },
+      {
+        "text": "PEF",
+        "label": "ORG",
+        "start": 1725,
+        "end": 1728
+      },
+      {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 1961,
+        "end": 1968
+      },
+      {
+        "text": "PEF",
+        "label": "ORG",
+        "start": 1977,
+        "end": 1980
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 2034,
+        "end": 2037
+      },
+      {
+        "text": "PEF",
+        "label": "ORG",
+        "start": 2376,
+        "end": 2379
+      },
+      {
+        "text": "Sulzer",
+        "label": "PERSON",
+        "start": 2503,
+        "end": 2509
+      },
+      {
+        "text": "PEF",
+        "label": "ORG",
+        "start": 2636,
+        "end": 2639
+      },
+      {
+        "text": "Rosenboom",
+        "label": "PERSON",
+        "start": 2696,
+        "end": 2705
+      },
+      {
+        "text": "Hohl DK",
+        "label": "PERSON",
+        "start": 3005,
+        "end": 3012
+      },
+      {
+        "text": "Storti G",
+        "label": "PERSON",
+        "start": 3030,
+        "end": 3038
+      },
+      {
+        "text": "Morbidelli M",
+        "label": "PERSON",
+        "start": 3040,
+        "end": 3052
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 3144,
+        "end": 3165
+      },
+      {
+        "text": "24 July 2018",
+        "label": "DATE",
+        "start": 3167,
+        "end": 3179
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 3186,
+        "end": 3193
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich / Jan-Georg Rosenboom",
+        "Giuseppe Storti",
+        "Hohl DK",
+        "Massimo Morbidelli",
+        "Massimo Morbidelli's",
+        "Morbidelli M",
+        "Peter Fleckenstein",
+        "Rosenboom",
+        "Storti G",
+        "Sulzer"
+      ],
+      "ORG": [
+        "ETH",
+        "Jan-Georg Rosenboom",
+        "Nature Communications",
+        "PEF",
+        "PET",
+        "the Department of Chemistry and Applied Biosciences"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "24 July 2018",
+        "Every year",
+        "Yesterday",
+        "a few hours",
+        "minutes",
+        "several days"
+      ],
+      "MISC": [
+        "10.1038",
+        "100%",
+        "CO 2",
+        "Nature Communications",
+        "One",
+        "PhD",
+        "first",
+        "some 50 million tons",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "PEF": 11,
+      "PET": 5,
+      "Jan-Georg Rosenboom": 3,
+      "ETH": 3,
+      "first": 2,
+      "Nature Communications": 2,
+      "Every year": 1,
+      "some 50 million tons": 1,
+      "CO 2": 1,
+      "PhD": 1,
+      "Massimo Morbidelli": 1,
+      "the Department of Chemistry and Applied Biosciences": 1,
+      "ETH Zurich / Jan-Georg Rosenboom": 1,
+      "One": 1,
+      "Massimo Morbidelli's": 1,
+      "100%": 1,
+      "Peter Fleckenstein": 1,
+      "Giuseppe Storti": 1,
+      "Yesterday": 1,
+      "several days": 1
+    },
+    "total_entities": 50,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "pef-for-pet.md",
+      "title": "En News Events/2018/07/pef For Pet",
+      "language": "en",
+      "source_path": "en_news_events/2018/07/pef-for-pet.html"
+    },
+    "temporal": {
+      "publication_date": "2018-07",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich / Jan-Georg Rosenboom",
+        "Giuseppe Storti",
+        "Hohl DK",
+        "Massimo Morbidelli",
+        "Massimo Morbidelli's",
+        "Morbidelli M",
+        "Peter Fleckenstein",
+        "Rosenboom",
+        "Storti G",
+        "Sulzer"
+      ],
+      "people_with_roles": {
+        "Giuseppe Storti": [
+          "student",
+          "professor"
+        ],
+        "Massimo Morbidelli": [
+          "professor",
+          "graduate"
+        ],
+        "Peter Fleckenstein": [
+          "student",
+          "professor"
+        ],
+        "Rosenboom": [
+          "student",
+          "professor",
+          "graduate"
+        ],
+        "Sulzer": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist",
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "100%",
+        "CO 2",
+        "Nature Communications",
+        "first",
+        "some 50 million tons"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Fleckenstein P",
+        "Although PEF",
+        "Hohl DK",
+        "The ETH",
+        "En News",
+        "Rosenboom JG",
+        "Giuseppe Storti",
+        "For Pet",
+        "Peter Fleckenstein",
+        "Nature Communications",
+        "ETH Zurich",
+        "Morbidelli M",
+        "Applied Biosciences",
+        "Massimo Morbidelli",
+        "Storti G",
+        "Jan-Georg"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Chemistry and Applied Biosciences"
+      ],
+      "institutions": [
+        "ETH",
+        "Jan-Georg Rosenboom",
+        "Nature Communications",
+        "PEF",
+        "PET",
+        "the Department of Chemistry and Applied Biosciences"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "PEF",
+        "PET",
+        "Jan-Georg Rosenboom",
+        "ETH",
+        "first",
+        "Nature Communications",
+        "Every year",
+        "some 50 million tons",
+        "CO 2",
+        "PhD"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Better material properties",
+          "Reference"
+        ],
+        "content_length": 4240
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "Hohl DK",
+        "PET",
+        "PEF",
+        "the Department of Chemistry and Applied Biosciences",
+        "Massimo Morbidelli's",
+        "ETH Zurich / Jan-Georg Rosenboom",
+        "Peter Fleckenstein",
+        "Rosenboom",
+        "Jan-Georg Rosenboom",
+        "Giuseppe Storti",
+        "Morbidelli M",
+        "Nature Communications",
+        "ERC",
+        "Massimo Morbidelli",
+        "Storti G",
+        "Sulzer"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "some 50 million tons",
+        "who",
+        "10.1038",
+        "chemistry",
+        "where",
+        "what",
+        "how",
+        "100%",
+        "Nature Communications",
+        "medical_research",
+        "when",
+        "engineering",
+        "CO 2"
+      ],
+      "graph_relations": [
+        "Giuseppe Storti_has_role_student",
+        "Giuseppe Storti_has_role_professor",
+        "Massimo Morbidelli_has_role_professor",
+        "Massimo Morbidelli_has_role_graduate",
+        "Peter Fleckenstein_has_role_student",
+        "Peter Fleckenstein_has_role_professor",
+        "Rosenboom_has_role_student",
+        "Rosenboom_has_role_professor",
+        "Rosenboom_has_role_graduate",
+        "Sulzer_has_role_scientist",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

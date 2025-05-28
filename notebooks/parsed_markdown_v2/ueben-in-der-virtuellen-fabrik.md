@@ -1,0 +1,32 @@
+# ueben-in-der-virtuellen-fabrik.html
+
+**Source:** de_internal/2022/04/ueben-in-der-virtuellen-fabrik.html
+
+## Erklärvideos ersetzen Online-Vorlesungen
+
+In der Corona-Pandemie jagte eine Online-Vorlesung die nächste, die Studierenden verbrachten oft ganze Tage in Videocalls. Das eigene Zimmer wurde zum Hörsaal, und die Grenzen zwischen Arbeits- und Erholungsort verschwammen. Viele Studierende klagten über physische Erschöpfung, emotionale Leere und Monotonie.
+
+«Wir wollten Studierenden eine völlig andere virtuelle Lernerfahrung bieten», sagt ETH-Professor Torbjørn Netland. Gemeinsam mit seinem Team hat er für seine Einführungsvorlesung «Production and Operations Management» zu Beginn der Pandemie ein neues Online- Konzept entwickelt.
+
+## Erklärvideos ersetzen Online-Vorlesungen
+
+Was ist Industrie 4.0? Welche Vorteile hat das Produktionsverfahren von Toyota? Und was versteht man unter Just-in-time-Produktion? In 44 fünf- bis zehnminütigen Erklärvideos erklärten Netland und sein Team die wichtigsten Konzepte und Prinzipien im Produktionsmanagement.
+
+«Unser Ziel war es, informative, unterhaltsame und abwechslungsreiche Videos zu erstellen, auf die sich die Studierenden freuen», sagt Netland. Dafür zeichneten er und sein Team kurze Vorträge auf und kombinierten sie mit eingeblendeten Fragen, audiovisuellen Elementen und einer gehörigen Portion Humor. Unterstützt wurden sie dabei von Katalin Tesch, einer Videoproduzentin in Netlands Gruppe.
+
+Anstatt einer 90-minütigen Vorlesung veröffentlichten Netland und sein Team jede Woche drei bis fünf Videos auf Moodle, ergänzt durch Texte, die das Gelernte vertiefen. Alle zwei Wochen trafen sich die Studierenden live via Zoom, um bei einem Quiz, das den Stoff der Videos abfragte, gegeneinander anzutreten. Die Gewinnerinnen und Gewinner erhielten eine Packung Chips und einen ETH-Merchandise-Artikel, die sie sich im Büro von Netland abholen konnten. Nach dem Quiz stand Netland für Fragen zur Verfügung und erläuterte jene Aufgaben, mit denen die Studierenden Schwierigkeiten hatten.
+
+## Virtueller Fabrikbesuch
+
+Wer wirklich verstehen will, wie eine Produktionsanlage funktioniert, besucht sie am besten selbst. Exkursionen waren aber schon unter normalen Umständen schwierig zu organisieren und während der Pandemie praktisch unmöglich. «Wir haben die Fabrik deshalb mittels virtueller Realität (VR) zu den Studierenden gebracht», erklärt Netland.
+
+Mit der Innovedum-Förderung für sein Projekt «FactoryVR» produzierten er und sein Team die VR-Inhalte selbst. Mit günstigen VR-Brillen und einem Smartphone oder Computer besuchten die Studierenden reale Fabriken der Firma Hilti. Sie bewegten sich virtuell durch die Produktionshallen und lösten an unterschiedlichen Stationen realistische Produktionsprobleme. Wie in einem Computerspiel erhielten sie dafür Punkte.
+
+Diese Erfahrungen bildeten die Grundlage für eine von zwei benoteten Gruppenarbeiten. Dabei überprüften die Studierenden in Vierergruppen per Virtual Reality, wie gut Firmen wie Hilti die Prinzipien des Lean Managements umsetzen oder wie man die Produktion effizienter gestalten könnte, und hielten ihre Erkenntnisse in einem Bericht fest.
+
+Die Preisverleihung findet im Rahmen der ersten Innovation in Learning and Teaching Fair am 4. Mai statt. Dieser neue Anlass vereint zwei bisherige: die Learning and Teaching Fair, bei der sich ETH-Dozierende über innovative Lehrprojekte und -ideen austauschten, und den KITE Award, mit dem die Konferenz des Lehrkörpers alle zwei Jahre besonders überzeugende Lehrinnovationen prämiert.
+
+Anmeldung zur Verleihung des KITE-Awards im Audi Max: www.ethz.ch/kite-registration
+
+Portraits aller Projekte der Fair: teachingfair.ethz.ch
+

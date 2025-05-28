@@ -1,0 +1,473 @@
+{
+  "filename": "wef-2018.md",
+  "original_filename": "wef-2018.html",
+  "source_path": "en_news_events/2018/01/wef-2018.html",
+  "date": "2018-01",
+  "title": "Wef 2018",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Rock-paper-scissors, rock-paper-scissors, rock-paper-scissors” this chant has echoed across playgrounds for generations. And for all that time, children have been searching for the perfect, undefeatable strategy. Finally, a robotic hand called Dextra has mastered it: thanks to artificial intelligence, the hand is virtually unbeatable. How it feels to play against this robotic hand was an experience open not only to children, but also to the political and business elite who visited the ETH Zurich pavilion at the World Economic Forum in Davos. With its R ETH INKING INTELLIGENCE exhibition, the university presented the latest research in artificial intelligence. Besides Dextra, visitors could also experience a 3D-printed brain, the robot dog ANYmal, and BrainRunners, a virtual race in which the contestants control their movements using only their thoughts. One of the fascinated guests was Hereditary Prince Alois von Liechtenstein, who honoured the ETH pavilion on Tuesday with a surprise visit.\n\nThe public exhibits were only one part of ETH Zurich’s presence at the WEF: the university also organised multiple events for invited guests. “By presenting at the WEF, we want to connect with other top international universities and also network with top-level business and political leaders,” says ETH President Lino Guzzella about the reasons for ETH’s presence at the conference. He continues: “In addition, this is an opportunity for ETH to bring the people of the Graubünden canton and the political arena closer together.” In that vein, ETH addressed a very local topic with its “Challenge Rumantsch”: four projects in the ETH pavilion were aimed at enriching the Romansh culture. These ideas were developed by local schoolchildren in collaboration with ETH students. ETH Board President Fritz Schiesser in particular was taken with the projects: “ETH has shown how new technologies can help promote Switzerland’s fourth official language.”\n\nNew technologies were the focus at all the other events, too. For example, ETH experts spoke with top international researchers about the challenges and opportunities presented by artificial intelligence. What’s more, on Tuesday ETH Zurich joined with Swiss federal railways (SBB) in launching a mobility initiative for Switzerland . And ETH’s robot ANYmal even inspired Swiss Federal Councillor Doris Leuthard to join it in a little dance. No word on how she fared against robotic hand Dextra in a bout of rock-paper-scissors.\n\nAll images: ETH Zurich / Andreas Eggenberger"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Dextra",
+        "label": "NORP",
+        "start": 244,
+        "end": 250
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 494,
+        "end": 500
+      },
+      {
+        "text": "the World Economic Forum",
+        "label": "ORG",
+        "start": 513,
+        "end": 537
+      },
+      {
+        "text": "Davos",
+        "label": "GPE",
+        "start": 541,
+        "end": 546
+      },
+      {
+        "text": "Dextra",
+        "label": "NORP",
+        "start": 676,
+        "end": 682
+      },
+      {
+        "text": "BrainRunners",
+        "label": "ORG",
+        "start": 761,
+        "end": 773
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 866,
+        "end": 869
+      },
+      {
+        "text": "Hereditary Prince Alois von Liechtenstein",
+        "label": "PERSON",
+        "start": 899,
+        "end": 940
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 959,
+        "end": 962
+      },
+      {
+        "text": "Tuesday",
+        "label": "DATE",
+        "start": 975,
+        "end": 982
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 1031,
+        "end": 1039
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 1048,
+        "end": 1060
+      },
+      {
+        "text": "WEF",
+        "label": "ORG",
+        "start": 1077,
+        "end": 1080
+      },
+      {
+        "text": "WEF",
+        "label": "ORG",
+        "start": 1170,
+        "end": 1173
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1306,
+        "end": 1309
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 1320,
+        "end": 1333
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1356,
+        "end": 1359
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1445,
+        "end": 1448
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1550,
+        "end": 1553
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 1615,
+        "end": 1619
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1636,
+        "end": 1639
+      },
+      {
+        "text": "Romansh",
+        "label": "FAC",
+        "start": 1677,
+        "end": 1684
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1767,
+        "end": 1770
+      },
+      {
+        "text": "ETH Board",
+        "label": "ORG",
+        "start": 1781,
+        "end": 1790
+      },
+      {
+        "text": "Fritz Schiesser",
+        "label": "PERSON",
+        "start": 1801,
+        "end": 1816
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1861,
+        "end": 1864
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1913,
+        "end": 1924
+      },
+      {
+        "text": "fourth",
+        "label": "ORDINAL",
+        "start": 1927,
+        "end": 1933
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2029,
+        "end": 2032
+      },
+      {
+        "text": "Tuesday",
+        "label": "DATE",
+        "start": 2175,
+        "end": 2182
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 2183,
+        "end": 2193
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 2206,
+        "end": 2211
+      },
+      {
+        "text": "SBB",
+        "label": "ORG",
+        "start": 2230,
+        "end": 2233
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2274,
+        "end": 2285
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2292,
+        "end": 2295
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 2325,
+        "end": 2330
+      },
+      {
+        "text": "Doris Leuthard",
+        "label": "PERSON",
+        "start": 2350,
+        "end": 2364
+      },
+      {
+        "text": "Dextra",
+        "label": "NORP",
+        "start": 2441,
+        "end": 2447
+      },
+      {
+        "text": "ETH Zurich / Andreas Eggenberger",
+        "label": "PERSON",
+        "start": 2494,
+        "end": 2526
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Doris Leuthard",
+        "ETH Zurich",
+        "ETH Zurich / Andreas Eggenberger",
+        "ETH Zurich’s",
+        "Fritz Schiesser",
+        "Hereditary Prince Alois von Liechtenstein",
+        "Lino Guzzella"
+      ],
+      "ORG": [
+        "BrainRunners",
+        "ETH",
+        "ETH Board",
+        "SBB",
+        "WEF",
+        "the World Economic Forum"
+      ],
+      "LOCATION": [
+        "Davos",
+        "Romansh",
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "Tuesday"
+      ],
+      "MISC": [
+        "Dextra",
+        "One",
+        "Swiss",
+        "four",
+        "fourth",
+        "only one"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 10,
+      "Dextra": 3,
+      "Tuesday": 2,
+      "WEF": 2,
+      "Switzerland": 2,
+      "Swiss": 2,
+      "Zurich": 1,
+      "the World Economic Forum": 1,
+      "Davos": 1,
+      "BrainRunners": 1,
+      "One": 1,
+      "Hereditary Prince Alois von Liechtenstein": 1,
+      "only one": 1,
+      "ETH Zurich’s": 1,
+      "Lino Guzzella": 1,
+      "four": 1,
+      "Romansh": 1,
+      "ETH Board": 1,
+      "Fritz Schiesser": 1,
+      "fourth": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "wef-2018.md",
+      "title": "En News Events/2018/01/wef 2018",
+      "language": "en",
+      "source_path": "en_news_events/2018/01/wef-2018.html"
+    },
+    "temporal": {
+      "publication_date": "2018-01",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Doris Leuthard",
+        "ETH Zurich",
+        "ETH Zurich / Andreas Eggenberger",
+        "ETH Zurich’s",
+        "Fritz Schiesser",
+        "Hereditary Prince Alois von Liechtenstein",
+        "Lino Guzzella"
+      ],
+      "people_with_roles": {
+        "Fritz Schiesser": [
+          "president"
+        ],
+        "Lino Guzzella": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Dextra",
+        "Swiss",
+        "four",
+        "fourth",
+        "only one"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Swiss Federal",
+        "President Fritz",
+        "And ETH",
+        "Hereditary Prince",
+        "ETH President",
+        "En News",
+        "ETH Board",
+        "INKING INTELLIGENCE",
+        "R ETH",
+        "World Economic",
+        "Councillor Doris",
+        "Challenge Rumantsch",
+        "Tuesday ETH",
+        "Lino Guzzella",
+        "ETH Zurich",
+        "Besides Dextra",
+        "Andreas Eggenberger"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BrainRunners",
+        "ETH",
+        "ETH Board",
+        "SBB",
+        "WEF",
+        "the World Economic Forum"
+      ],
+      "locations": [
+        "Davos",
+        "Romansh",
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Dextra",
+        "Tuesday",
+        "WEF",
+        "Switzerland",
+        "Swiss",
+        "Zurich",
+        "the World Economic Forum",
+        "Davos",
+        "BrainRunners"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2561
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "WEF",
+        "ETH Board",
+        "BrainRunners",
+        "EU",
+        "the World Economic Forum",
+        "ETH Zurich / Andreas Eggenberger",
+        "SBB",
+        "Doris Leuthard",
+        "Hereditary Prince Alois von Liechtenstein",
+        "Lino Guzzella",
+        "ETH Zurich",
+        "Fritz Schiesser",
+        "ETH Zurich’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "four",
+        "who",
+        "Swiss",
+        "fourth",
+        "what",
+        "Dextra",
+        "only one",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Fritz Schiesser_has_role_president",
+        "Lino Guzzella_has_role_president",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

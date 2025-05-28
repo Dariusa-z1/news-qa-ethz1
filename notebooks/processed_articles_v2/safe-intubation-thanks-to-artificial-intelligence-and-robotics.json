@@ -1,0 +1,192 @@
+{
+  "filename": "safe-intubation-thanks-to-artificial-intelligence-and-robotics.md",
+  "original_filename": "safe-intubation-thanks-to-artificial-intelligence-and-robotics.html",
+  "source_path": "en_news_events/2023/06/safe-intubation-thanks-to-artificial-intelligence-and-robotics.html",
+  "date": "2023-06",
+  "title": "Safe Intubation Thanks To Artificial Intelligence And Robotics",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Successful intubation of the trachea can save lives. However, complications often arise because the procedure is challenging and requires a great deal of experience. aiEndoscopic, a spin-off from ETH Zurich, the University of Zurich and University Hospital Zurich, has now developed a device that should make intubation easier and safer in the future.\n\n“Our device, intuBot, combines artificial intelligence and robotics. With a camera and state-of-the-art image recognition, we safely insert the endoscope into the trachea at the touch of a button,” explains CEO and co-founder Philippe Ganz. What’s unusual about the device is that its own software evaluates the images from the mouth and throat in real time and, upon confirmation by the user, brings the endoscope into the correct position. This allows even people with less experience to successfully intubate.\n\nThe ETH spin-off has already won several prizes for innovation and recently concluded a financing round worth over CHF 500,000."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 196,
+        "end": 206
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 208,
+        "end": 232
+      },
+      {
+        "text": "University Hospital Zurich",
+        "label": "ORG",
+        "start": 237,
+        "end": 263
+      },
+      {
+        "text": "intuBot",
+        "label": "CARDINAL",
+        "start": 365,
+        "end": 372
+      },
+      {
+        "text": "Philippe Ganz",
+        "label": "PERSON",
+        "start": 578,
+        "end": 591
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 869,
+        "end": 872
+      },
+      {
+        "text": "CHF 500,000",
+        "label": "ORG",
+        "start": 980,
+        "end": 991
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Philippe Ganz"
+      ],
+      "ORG": [
+        "CHF 500,000",
+        "ETH",
+        "ETH Zurich",
+        "University Hospital Zurich",
+        "the University of Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "intuBot"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 1,
+      "the University of Zurich": 1,
+      "University Hospital Zurich": 1,
+      "intuBot": 1,
+      "Philippe Ganz": 1,
+      "ETH": 1,
+      "CHF 500,000": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "safe-intubation-thanks-to-artificial-intelligence-and-robotics.md",
+      "title": "En News Events/2023/06/safe Intubation Thanks To Artificial Intelligence And Robotics",
+      "language": "en",
+      "source_path": "en_news_events/2023/06/safe-intubation-thanks-to-artificial-intelligence-and-robotics.html"
+    },
+    "temporal": {
+      "publication_date": "2023-06",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Philippe Ganz"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "intuBot"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The ETH",
+        "En News",
+        "University Hospital",
+        "Philippe Ganz",
+        "Intelligence And",
+        "Robotics Successful",
+        "ETH Zurich",
+        "To Artificial",
+        "Intubation Thanks"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CHF 500,000",
+        "ETH",
+        "ETH Zurich",
+        "University Hospital Zurich",
+        "the University of Zurich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "the University of Zurich",
+        "University Hospital Zurich",
+        "intuBot",
+        "Philippe Ganz",
+        "ETH",
+        "CHF 500,000"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1080
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "CHF 500,000",
+        "the University of Zurich",
+        "University Hospital Zurich",
+        "ETH Zurich",
+        "Philippe Ganz",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "intuBot",
+        "what",
+        "how",
+        "computer_science",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

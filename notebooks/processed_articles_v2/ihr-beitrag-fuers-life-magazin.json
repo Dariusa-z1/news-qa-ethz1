@@ -1,0 +1,139 @@
+{
+  "filename": "ihr-beitrag-fuers-life-magazin.md",
+  "original_filename": "ihr-beitrag-fuers-life-magazin.html",
+  "source_path": "de_internal/2020/07/ihr-beitrag-fuers-life-magazin.html",
+  "date": "2020-07",
+  "title": "Ihr Beitrag Fuers Life Magazin",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Egal, ob es sich um wertvolle Tipps für den Arbeitsalltag, eine lustige Anekdote, die Sie an der ETH Zürich erlebt haben oder ganz generell um ein Thema handelt, das Ihnen schon länger unter den Nägeln brennt: In der kommenden Ausgabe unseres internen Die Redaktion wählt anschliessend die vielversprechendste Idee aus. Ihren ausformulierten Textvorschlag (Umfang: 1500 Zeichen inkl. Leerzeichen) erwarten wir danach gerne bis am 28. August 2020 . Wir freuen uns auf Ihre Themenideen!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/07",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Fuers Life",
+        "label": "PER",
+        "start": 32,
+        "end": 42
+      },
+      {
+        "text": "Egal",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 97,
+        "end": 107
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Egal",
+        "Fuers Life"
+      ],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2020/07"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2020/07": 1,
+      "Fuers Life": 1,
+      "Egal": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ihr-beitrag-fuers-life-magazin.md",
+      "title": "De Internal/2020/07/ihr Beitrag Fuers Life Magazin",
+      "language": "de",
+      "source_path": "de_internal/2020/07/ihr-beitrag-fuers-life-magazin.html"
+    },
+    "temporal": {
+      "publication_date": "2020-07",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Egal",
+        "Fuers Life"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "De Internal",
+        "Life Magazin",
+        "Die Redaktion",
+        "Ihre Themenideen",
+        "Beitrag Fuers"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2020/07"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2020/07",
+        "Fuers Life",
+        "Egal",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 535
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "2020",
+        "ETH Zürich",
+        "Fuers Life",
+        "Egal"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

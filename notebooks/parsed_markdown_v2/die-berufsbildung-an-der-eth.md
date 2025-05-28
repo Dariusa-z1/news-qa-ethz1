@@ -1,0 +1,54 @@
+# die-berufsbildung-an-der-eth.html
+
+**Source:** en_news_events/2019/04/die-berufsbildung-an-der-eth.html
+
+## 15 different trades
+
+“I’m now going to clamp the aluminium part in the machine.” Maximilian Bott stands beside the computer-operated milling machine, closes the guard doors and starts the manufacturing process. The machine begins to whirr; metal shavings fly into the air. We’re standing in the main workshop in the Department of Physics on the Honggerberg campus.
+
+Bott is completing an apprenticeship as a machinist at ETH Zurich and is currently in his fourth and final year. He doesn’t have long to go now before his apprenticeship is complete. He didn’t start out in the mechanical workshop, but was instead initially based in the adjacent building, home to ETH’s mechanical training workshop. This is where machinists, design engineers, electronics technicians and physics laboratory assistants all undergo their basic mechanical training. They practise sawing and filing by hand, as well as drilling and milling on the machines. From their third year, apprentices work closely together with research groups to become more familiar with a variety of specialist areas. They also produce prototypes based on specifications provided by the researchers.
+
+Bott already shoulders a lot of the responsibility for the production of his workpiece: he independently designed and constructed a CAD version of his prototype in advance, and then programmed the computerised machine to ensure that it was manufactured to the precise specifications.
+
+## 15 different trades
+
+A lot of people don’t know that it is possible to learn a trade at ETH. “ETH is predominantly known for its degree programmes; its apprenticeships receive relatively little attention in comparison,” says Marcel Wachter, one of Bott’s trainers. The range of vocational education and training offered at our university is also particularly broad: from electricians to computer scientists, biology laboratory assistants to operational maintenance specialists, interactive media designers to animal caretakers – students can learn 15 different trades at ETH. With the mechanical training workshop and dedicated training labs for biology, chemistry, electronics, computer science and physics, the infrastructure at ETH is first class, particularly for training in technical professions, computer science and lab-based occupations.
+
+For Bott, the infrastructure in the workshop, the diversity of the work and the international atmosphere are all particularly appealing aspects of his apprenticeship at ETH. Now 21, he moved to Switzerland after attending primary school in Germany. “I’ve always been quite technically minded and I used to help out my granddad with building houses.” He found out via a careers information centre that ETH offered apprenticeships in machining, and as soon as he got a taste of ETH, he was hooked.
+
+## Form training lab to research
+
+## Team spirit is key
+
+An active part of the research: Sarah Eichenberger works closely with a doctoral student as part of her specialist training.
+
+Sarah Eichenberger has a similar story. Rather than tooling machines, however, Sarah works with test tubes, chemical solutions and spectrometers as part of her daily training: she is completing her third year as a chemistry laboratory assistant. The 18-year-old has always been fascinated by chemistry. “I was so amazed and excited that I was allowed to produce acetylsalicylic acid and paracetamol – ingredients in medicines – by myself during my trial apprenticeship at ETH.” She also decided to focus on the area of synthesis for her specialist training. In a research lab, she works closely with a doctoral student who is also her trainer. Originally from Zurich and with Ghanaian roots, Sarah particularly likes the international character of the group, as well as the direct contact with other scientists. “You’re part of the research and you can see how what you’re doing is making a difference.” Similar to the machinist apprentices, Sarah completed her basic training in one of ETH’s own training labs. Here, the budding chemistry laboratory assistants participate in introductory courses on safe working, handling glassware and producing solutions.
+
+## Dedication for vocational training
+
+Both the chemistry training lab and the mechanical training workshop are run by fully qualified trainers. A total of 12 people at ETH work exclusively to deliver vocational education and training. In addition, around 130 employees work part-time as trainers, dedicating some 10 to 20 percent of their working time to training-related activities.
+
+By taking on trainees, vocational trainers assume a great deal of responsibility. At this age, the trainees are undergoing both a physical and personal transformation, and the trainers need to be sensitive to this. Support from supervisors and HR is therefore even more important, and takes the form of regular continuing education, guidance sessions, contact points and guided processes, for example.
+
+It is precisely this human dimension that motivates trainer Marcel Wachter to fully dedicate himself to providing vocational education and training. “It’s really rewarding to be able to act as a guide for a young person and to see them develop and gain more confidence in themselves and their own abilities over time.” Indeed, it is often the case that the young trainees’ questions and approaches open up new perspectives and ways of looking at things for the trainers themselves.
+
+## Team spirit is key
+
+As well as a good relationship with their trainers, it is also important that the young apprentices are able to interact and work together with each other. At the start of their training, all trainees attend an introductory week so that they have the opportunity to get to know one another. Projects involving trainees from different vocations are also carried out over the course of the apprenticeships, with cross-vocational project weeks sometimes held outside of ETH as well. Interdisciplinary training such as job application training or workshops on the subject of learning are also offered as part of the apprenticeship programme. Machinist Maximilian Bott even took on a volunteer role aimed at bringing the young trainees together – in his second year, he was President of the Apprentices’ Association at ETH Zurich, which organised events including social activities for its members.
+
+## A long tradition with a future
+
+Trainer Marcel Wachter with an apprentice in the mechanical training workshop.
+
+Vocational education and training has a long tradition at our university. It is incorporated in ETH’s fundamental mission and forms a central part of the university’s strategic objectives. “Here in Switzerland, we have a unique dual education system. ETH wants to contribute to this and help young people gain access to the job market, not just through academic training, but also through a strong vocational education. The interplay between science and specialist training is extremely important to ETH,” stresses Director of HR Lukas Vonesch. ETH has been training professionals for over 20 years. During this time, the number and focus of the different trades on offer has changed dramatically. The number of apprenticeships has almost doubled in the last 15 years and currently stands at around 170 places. “Our focus in the coming years, however, will be on enhancing the quality of what we offer rather than on increasing the number of placements available,” says Fabienne Jaquet, Director of Vocational Education and Training at ETH Zurich. “We intend to maintain the variety of trades on offer while continually improving the quality of the training. We also want to improve the basic conditions for our trainees, spread the word about the apprenticeships on offer at ETH and attract more women to enter into technical professions.”
+
+ETH does not train professionals to meet its own staffing needs. It is important that graduates gather experience in other fields outside of the university and expand their specialist knowledge, says Director of HR Vonesch. The training they receive at ETH often serves as a springboard and the young professionals might decide to pursue a further course of study, for example, at a university of applied sciences. However, according to Vonesch, there is always the possibility that trainees might return to employment at ETH at some point in the future.
+
+Both Eichenberger and Bott already have plans for the future. Sarah will complete her training this summer after three years of hard work. Alongside her apprenticeship, she is also attending a four-year course to prepare for her federal vocational baccalaureate exams, so it will take another year before she obtains her federal vocational baccalaureate. Until then, she is considering working at ETH on a temporary basis. She also wishes to take the University Aptitude Test (known in Switzerland as the Passerelle ) so that she can continue her studies further – though she isn’t sure yet whether or not this will be in the field of chemistry.
+
+After completing his studies, Bott wants to train as a mechanical engineering technician at a college of higher education. “I like being in the workshop, but I also love interacting with customers. I can picture myself as a project manager someday, acting as a kind of intermediary between the design office and the workshop.”
+
+Many trainees also maintain close ties with ETH after completing their apprenticeships – for example, as members of the association of former apprentices. Some even return years later to visit the place where they learned their craft to talk about the careers they have pursued since completing their training. Who knows – perhaps one day Maximilian and Sarah will come back and share with us the direction their careers have taken them.
+
+In addition to this cover story, we spoke with the new ETH President Joël Mesot about the first four months of his term of office, internal projects he would like to tackle and his handling of failures. We also take a look back at the greatest successes and the development of the Alumni Association, which celebrates its 150th anniversary this year. The new VSETH President, Lewin Könemann, explains why his association conducted a large-scale student survey.
+

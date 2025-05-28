@@ -1,0 +1,1444 @@
+{
+  "filename": "holiday-reading.md",
+  "original_filename": "holiday-reading.html",
+  "source_path": "en_internal/2021/06/holiday-reading.html",
+  "date": "2021-06",
+  "title": "Holiday Reading",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Further recommendations by ETH members",
+      "text": "- A Brief History of Time by Stephen Hawking – Christian Thurn, doctoral student from D-GESS\n\n- Die Wahrheit über Eva – die Erfindung der Ungleichheit von Frauen und Männern (“The Truth about Eve – the Invention of Inequality between Women and Men”) by Carel van Schaik and Kai Michel – Martina Koch, from the Chair of Building Physics\n\n- Kalmann by Joachim B. Schmidt – Peter Rüegg, from Corporate Communications\n\n- Sextant by David Barrie – Felix Bindschädler, from IT Services\n\n- The “Brittany Mystery” series by Jean-Luc Bannalec – Cornel Andreoli, from D-PHYS\n\n- Daemon by Daniel Suarez – Charles Clavadetscher, from the KOF Swiss Economic Institute\n\n- Über Menschen (“About People”) by Juli Zeh – Alfred Johny Wüest, from Eawag, and Eva Gottschewski, from Personnel Development\n\n- The Music Shop by Rachel Joyce – Elke Bülow, from the Professorship of Information Technology and Education\n\n- Where the Crawdads Sing by Delia Owens – Andrea Waldburger, from D-MATH, and Birk Esther, from the Facility Management department\n\n- The End of Loneliness by Benedict Wells – Romano Meier, from D-ERDW\n\n- Last Chance to See by Douglas Adams &amp; Mark Carwardine – Carina Känzig, doctoral student from D-BIOL\n\n- The “Bruno, Chief of Police” series by Martin Walker – Cornelia Künzle, from the ETH Library\n\n- Meine Väter (“My Fathers”) by Martin R. Dean – Eva-Karin Meierhans, from ETH transfer\n\n- Grand Hotel Europa by Ilja Leonard Pfeijffer – Jana Lipps, doctoral student from D-GESS\n\n- Hot Milk by Deborah Levy – Cristiano Aires Teixeira, from D-ARCH\n\n- Draußen ist es anders. Auf neuen Wegen zu einer Wissenschaft für den Wandel (“Things are Different Outside. New Routes to a Science for Change”) by Jan Freihardt – Jan Freihardt, doctoral student from D-GESS\n\n- Flights by Olga Tokarczuk – Paulina Pacak, doctoral student from D-HEST\n\n- Die nicht sterben (“Who do Not Die”) by Dana Grigorcea – Stefan Weiler, from the Chair of Pharmacoepidemiology\n\n- What You Can See from Here by Mariana Leky – Nadja Taras, from the Chair of Systems Design\n\n- Blindness by José Saramago – Harald Atmanspacher, from the Collegium Helveticum\n\n- Butcher’s Crossing by John Williams – Betty Friedrich-Grube, from the Rector’s Staff\n\n- Summer House with Swimming Pool by Herman Koch – Jan ten Pierick, from the Institute of Geophysics\n\n- The “Seven Sisters” series by Lucinda Riley – Barbara Ritter, from the Professorship of Plant Biochemistry\n\n- Mittagsstunde (“Midday”) by Dörte Hansen – Nina Wilhelm, from the Services department\n\n- The “S.O.S. Svalbard” series by Frank Kauffmann – Frank Kauffmann, from the Language Center of UZH and ETH Zurich\n\n- Shantaram by Gregory Roberts – Madeleine Marchand, from Advanced Manufacturing\n\n- Invisible Woman by Caroline Criado-Perez – Lorenz Schmid, doctoral student from D-BAUG\n\n- A Manual for Cleaning Women by Lucia Berlin – Susanne Schawalder Bischof, from Teacher Training\n\n- Stay with Me by Ayobami Adebayo – Anne Weyden, from Corporate Communications\n\n- The Öland Quartet by Johan Theorin – Richard Krause, from ID Services\n\nThis article is a continuation of an article in the current \"life\" magazine"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Stephen Hawking",
+        "label": "PERSON",
+        "start": 29,
+        "end": 44
+      },
+      {
+        "text": "Christian Thurn",
+        "label": "PERSON",
+        "start": 47,
+        "end": 62
+      },
+      {
+        "text": "Erfindung der Ungleichheit von Frauen",
+        "label": "PERSON",
+        "start": 123,
+        "end": 160
+      },
+      {
+        "text": "The Truth",
+        "label": "WORK_OF_ART",
+        "start": 175,
+        "end": 184
+      },
+      {
+        "text": "Women and Men",
+        "label": "ORG",
+        "start": 233,
+        "end": 246
+      },
+      {
+        "text": "Carel van Schaik",
+        "label": "PERSON",
+        "start": 252,
+        "end": 268
+      },
+      {
+        "text": "Kai Michel",
+        "label": "PERSON",
+        "start": 273,
+        "end": 283
+      },
+      {
+        "text": "Martina Koch",
+        "label": "PERSON",
+        "start": 286,
+        "end": 298
+      },
+      {
+        "text": "the Chair of Building Physics - Kalmann",
+        "label": "ORG",
+        "start": 305,
+        "end": 344
+      },
+      {
+        "text": "Joachim B. Schmidt",
+        "label": "PERSON",
+        "start": 348,
+        "end": 366
+      },
+      {
+        "text": "Peter Rüegg",
+        "label": "PERSON",
+        "start": 369,
+        "end": 380
+      },
+      {
+        "text": "Corporate Communications - Sextant",
+        "label": "ORG",
+        "start": 387,
+        "end": 421
+      },
+      {
+        "text": "David Barrie",
+        "label": "PERSON",
+        "start": 425,
+        "end": 437
+      },
+      {
+        "text": "Felix Bindschädler",
+        "label": "PERSON",
+        "start": 440,
+        "end": 458
+      },
+      {
+        "text": "Brittany Mystery",
+        "label": "WORK_OF_ART",
+        "start": 484,
+        "end": 500
+      },
+      {
+        "text": "Jean-Luc Bannalec",
+        "label": "ORG",
+        "start": 512,
+        "end": 529
+      },
+      {
+        "text": "Daniel Suarez",
+        "label": "PERSON",
+        "start": 573,
+        "end": 586
+      },
+      {
+        "text": "Charles Clavadetscher",
+        "label": "PERSON",
+        "start": 589,
+        "end": 610
+      },
+      {
+        "text": "the KOF Swiss Economic Institute - Über Menschen",
+        "label": "ORG",
+        "start": 617,
+        "end": 665
+      },
+      {
+        "text": "Juli Zeh",
+        "label": "PERSON",
+        "start": 686,
+        "end": 694
+      },
+      {
+        "text": "Alfred Johny Wüest",
+        "label": "PERSON",
+        "start": 697,
+        "end": 715
+      },
+      {
+        "text": "Eawag",
+        "label": "GPE",
+        "start": 722,
+        "end": 727
+      },
+      {
+        "text": "Eva Gottschewski",
+        "label": "PERSON",
+        "start": 733,
+        "end": 749
+      },
+      {
+        "text": "Personnel Development - The Music Shop",
+        "label": "ORG",
+        "start": 756,
+        "end": 794
+      },
+      {
+        "text": "Rachel Joyce",
+        "label": "PERSON",
+        "start": 798,
+        "end": 810
+      },
+      {
+        "text": "the Professorship of Information Technology",
+        "label": "ORG",
+        "start": 830,
+        "end": 873
+      },
+      {
+        "text": "Delia Owens",
+        "label": "PERSON",
+        "start": 917,
+        "end": 928
+      },
+      {
+        "text": "Andrea Waldburger",
+        "label": "PERSON",
+        "start": 931,
+        "end": 948
+      },
+      {
+        "text": "Birk Esther",
+        "label": "PERSON",
+        "start": 967,
+        "end": 978
+      },
+      {
+        "text": "Facility Management",
+        "label": "ORG",
+        "start": 989,
+        "end": 1008
+      },
+      {
+        "text": "Benedict Wells",
+        "label": "PERSON",
+        "start": 1047,
+        "end": 1061
+      },
+      {
+        "text": "Romano Meier",
+        "label": "PERSON",
+        "start": 1064,
+        "end": 1076
+      },
+      {
+        "text": "Douglas Adams &",
+        "label": "PERSON",
+        "start": 1114,
+        "end": 1129
+      },
+      {
+        "text": "Mark Carwardine",
+        "label": "PERSON",
+        "start": 1134,
+        "end": 1149
+      },
+      {
+        "text": "Carina Känzig",
+        "label": "PERSON",
+        "start": 1152,
+        "end": 1165
+      },
+      {
+        "text": "Bruno",
+        "label": "PERSON",
+        "start": 1203,
+        "end": 1208
+      },
+      {
+        "text": "Martin Walker",
+        "label": "PERSON",
+        "start": 1237,
+        "end": 1250
+      },
+      {
+        "text": "Cornelia Künzle",
+        "label": "PERSON",
+        "start": 1253,
+        "end": 1268
+      },
+      {
+        "text": "My Fathers",
+        "label": "WORK_OF_ART",
+        "start": 1307,
+        "end": 1317
+      },
+      {
+        "text": "Martin R. Dean",
+        "label": "PERSON",
+        "start": 1323,
+        "end": 1337
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1366,
+        "end": 1369
+      },
+      {
+        "text": "Grand Hotel Europa",
+        "label": "FAC",
+        "start": 1381,
+        "end": 1399
+      },
+      {
+        "text": "Ilja Leonard Pfeijffer",
+        "label": "PERSON",
+        "start": 1403,
+        "end": 1425
+      },
+      {
+        "text": "Jana Lipps",
+        "label": "PERSON",
+        "start": 1428,
+        "end": 1438
+      },
+      {
+        "text": "Deborah Levy",
+        "label": "PERSON",
+        "start": 1483,
+        "end": 1495
+      },
+      {
+        "text": "Teixeira",
+        "label": "ORG",
+        "start": 1514,
+        "end": 1522
+      },
+      {
+        "text": "Wegen",
+        "label": "ORG",
+        "start": 1571,
+        "end": 1576
+      },
+      {
+        "text": "Wissenschaft",
+        "label": "ORG",
+        "start": 1586,
+        "end": 1598
+      },
+      {
+        "text": "Things are Different Outside",
+        "label": "WORK_OF_ART",
+        "start": 1616,
+        "end": 1644
+      },
+      {
+        "text": "New Routes",
+        "label": "GPE",
+        "start": 1646,
+        "end": 1656
+      },
+      {
+        "text": "Jan Freihardt",
+        "label": "PERSON",
+        "start": 1686,
+        "end": 1699
+      },
+      {
+        "text": "Olga Tokarczuk",
+        "label": "PERSON",
+        "start": 1759,
+        "end": 1773
+      },
+      {
+        "text": "Who do Not Die",
+        "label": "WORK_OF_ART",
+        "start": 1842,
+        "end": 1856
+      },
+      {
+        "text": "Dana Grigorcea",
+        "label": "PERSON",
+        "start": 1862,
+        "end": 1876
+      },
+      {
+        "text": "Stefan Weiler",
+        "label": "PERSON",
+        "start": 1879,
+        "end": 1892
+      },
+      {
+        "text": "the Chair of Pharmacoepidemiology - What You Can See",
+        "label": "ORG",
+        "start": 1899,
+        "end": 1951
+      },
+      {
+        "text": "Mariana Leky",
+        "label": "PERSON",
+        "start": 1965,
+        "end": 1977
+      },
+      {
+        "text": "Nadja Taras",
+        "label": "PERSON",
+        "start": 1980,
+        "end": 1991
+      },
+      {
+        "text": "the Chair of Systems Design - Blindness",
+        "label": "ORG",
+        "start": 1998,
+        "end": 2037
+      },
+      {
+        "text": "José Saramago",
+        "label": "PERSON",
+        "start": 2041,
+        "end": 2054
+      },
+      {
+        "text": "Harald Atmanspacher",
+        "label": "PERSON",
+        "start": 2057,
+        "end": 2076
+      },
+      {
+        "text": "the Collegium Helveticum - Butcher’s Crossing",
+        "label": "ORG",
+        "start": 2083,
+        "end": 2128
+      },
+      {
+        "text": "John Williams",
+        "label": "PERSON",
+        "start": 2132,
+        "end": 2145
+      },
+      {
+        "text": "Betty Friedrich-Grube",
+        "label": "PERSON",
+        "start": 2148,
+        "end": 2169
+      },
+      {
+        "text": "Herman Koch",
+        "label": "PERSON",
+        "start": 2232,
+        "end": 2243
+      },
+      {
+        "text": "Pierick",
+        "label": "ORG",
+        "start": 2254,
+        "end": 2261
+      },
+      {
+        "text": "the Institute of Geophysics - The “Seven",
+        "label": "ORG",
+        "start": 2268,
+        "end": 2308
+      },
+      {
+        "text": "Lucinda Riley",
+        "label": "PERSON",
+        "start": 2328,
+        "end": 2341
+      },
+      {
+        "text": "Barbara Ritter",
+        "label": "PERSON",
+        "start": 2344,
+        "end": 2358
+      },
+      {
+        "text": "the Professorship of Plant Biochemistry - Mittagsstunde",
+        "label": "FAC",
+        "start": 2365,
+        "end": 2420
+      },
+      {
+        "text": "Midday",
+        "label": "WORK_OF_ART",
+        "start": 2423,
+        "end": 2429
+      },
+      {
+        "text": "Dörte Hansen",
+        "label": "PERSON",
+        "start": 2435,
+        "end": 2447
+      },
+      {
+        "text": "Nina Wilhelm",
+        "label": "PERSON",
+        "start": 2450,
+        "end": 2462
+      },
+      {
+        "text": "Services",
+        "label": "ORG",
+        "start": 2473,
+        "end": 2481
+      },
+      {
+        "text": "Frank Kauffmann",
+        "label": "PERSON",
+        "start": 2527,
+        "end": 2542
+      },
+      {
+        "text": "Frank Kauffmann",
+        "label": "PERSON",
+        "start": 2545,
+        "end": 2560
+      },
+      {
+        "text": "the Language Center",
+        "label": "FAC",
+        "start": 2567,
+        "end": 2586
+      },
+      {
+        "text": "UZH",
+        "label": "ORG",
+        "start": 2590,
+        "end": 2593
+      },
+      {
+        "text": "ETH Zurich - Shantaram",
+        "label": "PERSON",
+        "start": 2598,
+        "end": 2620
+      },
+      {
+        "text": "Gregory Roberts",
+        "label": "PERSON",
+        "start": 2624,
+        "end": 2639
+      },
+      {
+        "text": "Madeleine Marchand",
+        "label": "PERSON",
+        "start": 2642,
+        "end": 2660
+      },
+      {
+        "text": "Advanced Manufacturing - Invisible Woman",
+        "label": "ORG",
+        "start": 2667,
+        "end": 2707
+      },
+      {
+        "text": "Caroline Criado-Perez",
+        "label": "PERSON",
+        "start": 2711,
+        "end": 2732
+      },
+      {
+        "text": "Lorenz Schmid",
+        "label": "PERSON",
+        "start": 2735,
+        "end": 2748
+      },
+      {
+        "text": "D-BAUG - A Manual for Cleaning Women",
+        "label": "ORG",
+        "start": 2772,
+        "end": 2808
+      },
+      {
+        "text": "Lucia Berlin",
+        "label": "PERSON",
+        "start": 2812,
+        "end": 2824
+      },
+      {
+        "text": "Susanne Schawalder Bischof",
+        "label": "PERSON",
+        "start": 2827,
+        "end": 2853
+      },
+      {
+        "text": "Ayobami Adebayo",
+        "label": "PERSON",
+        "start": 2895,
+        "end": 2910
+      },
+      {
+        "text": "Anne Weyden",
+        "label": "PERSON",
+        "start": 2913,
+        "end": 2924
+      },
+      {
+        "text": "Corporate Communications - The Öland Quartet",
+        "label": "ORG",
+        "start": 2931,
+        "end": 2975
+      },
+      {
+        "text": "Johan Theorin",
+        "label": "PERSON",
+        "start": 2979,
+        "end": 2992
+      },
+      {
+        "text": "Richard Krause",
+        "label": "PERSON",
+        "start": 2995,
+        "end": 3009
+      },
+      {
+        "text": "ID Services",
+        "label": "ORG",
+        "start": 3016,
+        "end": 3027
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alfred Johny Wüest",
+        "Andrea Waldburger",
+        "Anne Weyden",
+        "Ayobami Adebayo",
+        "Barbara Ritter",
+        "Benedict Wells",
+        "Betty Friedrich-Grube",
+        "Birk Esther",
+        "Bruno",
+        "Carel van Schaik",
+        "Carina Känzig",
+        "Caroline Criado-Perez",
+        "Charles Clavadetscher",
+        "Christian Thurn",
+        "Cornelia Künzle",
+        "Dana Grigorcea",
+        "Daniel Suarez",
+        "David Barrie",
+        "Deborah Levy",
+        "Delia Owens",
+        "Douglas Adams &",
+        "Dörte Hansen",
+        "ETH Zurich - Shantaram",
+        "Erfindung der Ungleichheit von Frauen",
+        "Eva Gottschewski",
+        "Felix Bindschädler",
+        "Frank Kauffmann",
+        "Gregory Roberts",
+        "Harald Atmanspacher",
+        "Herman Koch",
+        "Ilja Leonard Pfeijffer",
+        "Jan Freihardt",
+        "Jana Lipps",
+        "Joachim B. Schmidt",
+        "Johan Theorin",
+        "John Williams",
+        "José Saramago",
+        "Juli Zeh",
+        "Kai Michel",
+        "Lorenz Schmid",
+        "Lucia Berlin",
+        "Lucinda Riley",
+        "Madeleine Marchand",
+        "Mariana Leky",
+        "Mark Carwardine",
+        "Martin R. Dean",
+        "Martin Walker",
+        "Martina Koch",
+        "Nadja Taras",
+        "Nina Wilhelm",
+        "Olga Tokarczuk",
+        "Peter Rüegg",
+        "Rachel Joyce",
+        "Richard Krause",
+        "Romano Meier",
+        "Stefan Weiler",
+        "Stephen Hawking",
+        "Susanne Schawalder Bischof"
+      ],
+      "ORG": [
+        "Advanced Manufacturing - Invisible Woman",
+        "Corporate Communications - Sextant",
+        "Corporate Communications - The Öland Quartet",
+        "D-BAUG - A Manual for Cleaning Women",
+        "ETH",
+        "Facility Management",
+        "ID Services",
+        "Jean-Luc Bannalec",
+        "Personnel Development - The Music Shop",
+        "Pierick",
+        "Services",
+        "Teixeira",
+        "UZH",
+        "Wegen",
+        "Wissenschaft",
+        "Women and Men",
+        "the Chair of Building Physics - Kalmann",
+        "the Chair of Pharmacoepidemiology - What You Can See",
+        "the Chair of Systems Design - Blindness",
+        "the Collegium Helveticum - Butcher’s Crossing",
+        "the Institute of Geophysics - The “Seven",
+        "the KOF Swiss Economic Institute - Über Menschen",
+        "the Professorship of Information Technology"
+      ],
+      "LOCATION": [
+        "Eawag",
+        "Grand Hotel Europa",
+        "New Routes",
+        "the Language Center",
+        "the Professorship of Plant Biochemistry - Mittagsstunde"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Brittany Mystery",
+        "Midday",
+        "My Fathers",
+        "The Truth",
+        "Things are Different Outside",
+        "Who do Not Die"
+      ]
+    },
+    "entity_counts": {
+      "Frank Kauffmann": 2,
+      "Stephen Hawking": 1,
+      "Christian Thurn": 1,
+      "Erfindung der Ungleichheit von Frauen": 1,
+      "The Truth": 1,
+      "Women and Men": 1,
+      "Carel van Schaik": 1,
+      "Kai Michel": 1,
+      "Martina Koch": 1,
+      "the Chair of Building Physics - Kalmann": 1,
+      "Joachim B. Schmidt": 1,
+      "Peter Rüegg": 1,
+      "Corporate Communications - Sextant": 1,
+      "David Barrie": 1,
+      "Felix Bindschädler": 1,
+      "Brittany Mystery": 1,
+      "Jean-Luc Bannalec": 1,
+      "Daniel Suarez": 1,
+      "Charles Clavadetscher": 1,
+      "the KOF Swiss Economic Institute - Über Menschen": 1
+    },
+    "total_entities": 93,
+    "unique_entities": 92
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "holiday-reading.md",
+      "title": "En Internal/2021/06/holiday Reading",
+      "language": "en",
+      "source_path": "en_internal/2021/06/holiday-reading.html"
+    },
+    "temporal": {
+      "publication_date": "2021-06",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alfred Johny Wüest",
+        "Andrea Waldburger",
+        "Anne Weyden",
+        "Ayobami Adebayo",
+        "Barbara Ritter",
+        "Benedict Wells",
+        "Betty Friedrich-Grube",
+        "Birk Esther",
+        "Bruno",
+        "Carel van Schaik",
+        "Carina Känzig",
+        "Caroline Criado-Perez",
+        "Charles Clavadetscher",
+        "Christian Thurn",
+        "Cornelia Künzle",
+        "Dana Grigorcea",
+        "Daniel Suarez",
+        "David Barrie",
+        "Deborah Levy",
+        "Delia Owens",
+        "Douglas Adams &",
+        "Dörte Hansen",
+        "ETH Zurich - Shantaram",
+        "Erfindung der Ungleichheit von Frauen",
+        "Eva Gottschewski",
+        "Felix Bindschädler",
+        "Frank Kauffmann",
+        "Gregory Roberts",
+        "Harald Atmanspacher",
+        "Herman Koch",
+        "Ilja Leonard Pfeijffer",
+        "Jan Freihardt",
+        "Jana Lipps",
+        "Joachim B. Schmidt",
+        "Johan Theorin",
+        "John Williams",
+        "José Saramago",
+        "Juli Zeh",
+        "Kai Michel",
+        "Lorenz Schmid",
+        "Lucia Berlin",
+        "Lucinda Riley",
+        "Madeleine Marchand",
+        "Mariana Leky",
+        "Mark Carwardine",
+        "Martin R. Dean",
+        "Martin Walker",
+        "Martina Koch",
+        "Nadja Taras",
+        "Nina Wilhelm",
+        "Olga Tokarczuk",
+        "Peter Rüegg",
+        "Rachel Joyce",
+        "Richard Krause",
+        "Romano Meier",
+        "Stefan Weiler",
+        "Stephen Hawking",
+        "Susanne Schawalder Bischof"
+      ],
+      "people_with_roles": {
+        "Alfred Johny Wüest": [
+          "student",
+          "professor"
+        ],
+        "Andrea Waldburger": [
+          "student",
+          "professor"
+        ],
+        "Anne Weyden": [
+          "student"
+        ],
+        "Ayobami Adebayo": [
+          "student"
+        ],
+        "Barbara Ritter": [
+          "professor",
+          "chair",
+          "student",
+          "rector"
+        ],
+        "Benedict Wells": [
+          "student",
+          "professor"
+        ],
+        "Betty Friedrich-Grube": [
+          "professor",
+          "chair",
+          "student",
+          "rector"
+        ],
+        "Birk Esther": [
+          "student",
+          "professor"
+        ],
+        "Bruno": [
+          "student",
+          "professor"
+        ],
+        "Carel van Schaik": [
+          "student",
+          "chair"
+        ],
+        "Carina Känzig": [
+          "student",
+          "professor"
+        ],
+        "Caroline Criado-Perez": [
+          "student"
+        ],
+        "Charles Clavadetscher": [
+          "student",
+          "professor"
+        ],
+        "Christian Thurn": [
+          "student",
+          "chair"
+        ],
+        "Cornelia Künzle": [
+          "student",
+          "professor"
+        ],
+        "Dana Grigorcea": [
+          "professor",
+          "chair",
+          "student",
+          "rector"
+        ],
+        "Daniel Suarez": [
+          "student",
+          "professor"
+        ],
+        "David Barrie": [
+          "student",
+          "professor"
+        ],
+        "Deborah Levy": [
+          "dean",
+          "student"
+        ],
+        "Delia Owens": [
+          "student",
+          "professor"
+        ],
+        "Douglas Adams &": [
+          "student",
+          "professor"
+        ],
+        "Dörte Hansen": [
+          "professor",
+          "chair",
+          "student",
+          "rector"
+        ],
+        "Erfindung der Ungleichheit von Frauen": [
+          "student",
+          "chair"
+        ],
+        "Eva Gottschewski": [
+          "student",
+          "professor"
+        ],
+        "Felix Bindschädler": [
+          "student",
+          "professor"
+        ],
+        "Frank Kauffmann": [
+          "student"
+        ],
+        "Gregory Roberts": [
+          "student"
+        ],
+        "Harald Atmanspacher": [
+          "professor",
+          "chair",
+          "student",
+          "rector"
+        ],
+        "Herman Koch": [
+          "professor",
+          "chair",
+          "student",
+          "rector"
+        ],
+        "Ilja Leonard Pfeijffer": [
+          "dean",
+          "student"
+        ],
+        "Jan Freihardt": [
+          "professor",
+          "chair",
+          "student",
+          "rector"
+        ],
+        "Jana Lipps": [
+          "dean",
+          "student"
+        ],
+        "Johan Theorin": [
+          "student"
+        ],
+        "John Williams": [
+          "professor",
+          "chair",
+          "student",
+          "rector"
+        ],
+        "José Saramago": [
+          "professor",
+          "chair",
+          "student",
+          "rector"
+        ],
+        "Juli Zeh": [
+          "student",
+          "professor"
+        ],
+        "Kai Michel": [
+          "student",
+          "chair"
+        ],
+        "Lorenz Schmid": [
+          "student"
+        ],
+        "Lucia Berlin": [
+          "student"
+        ],
+        "Lucinda Riley": [
+          "professor",
+          "chair",
+          "student",
+          "rector"
+        ],
+        "Madeleine Marchand": [
+          "student"
+        ],
+        "Mariana Leky": [
+          "professor",
+          "chair",
+          "student",
+          "rector"
+        ],
+        "Mark Carwardine": [
+          "student",
+          "professor"
+        ],
+        "Martin Walker": [
+          "student",
+          "professor"
+        ],
+        "Martina Koch": [
+          "student",
+          "chair"
+        ],
+        "Nadja Taras": [
+          "professor",
+          "chair",
+          "student",
+          "rector"
+        ],
+        "Nina Wilhelm": [
+          "professor",
+          "chair",
+          "student",
+          "rector"
+        ],
+        "Olga Tokarczuk": [
+          "professor",
+          "chair",
+          "student",
+          "rector"
+        ],
+        "Peter Rüegg": [
+          "student",
+          "professor"
+        ],
+        "Rachel Joyce": [
+          "student",
+          "professor"
+        ],
+        "Richard Krause": [
+          "student"
+        ],
+        "Romano Meier": [
+          "student",
+          "professor"
+        ],
+        "Stefan Weiler": [
+          "professor",
+          "chair",
+          "student",
+          "rector"
+        ],
+        "Stephen Hawking": [
+          "student",
+          "chair"
+        ],
+        "Susanne Schawalder Bischof": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "dean",
+        "chair",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Brittany Mystery",
+        "Midday",
+        "My Fathers",
+        "The Truth",
+        "Things are Different Outside",
+        "Who do Not Die"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Nadja Taras",
+        "Olga Tokarczuk",
+        "Advanced Manufacturing",
+        "D-BAUG",
+        "The End",
+        "Mariana Leky",
+        "Cleaning Women",
+        "Personnel Development",
+        "Anne Weyden",
+        "Not Die",
+        "Rachel Joyce",
+        "Daniel Suarez",
+        "Romano Meier",
+        "Eva Gottschewski",
+        "About People",
+        "Mark Carwardine",
+        "What You",
+        "ETH Library",
+        "Brittany Mystery",
+        "En Internal",
+        "Swimming Pool",
+        "Crawdads Sing",
+        "Nina Wilhelm",
+        "New Routes",
+        "Delia Owens",
+        "Lucia Berlin",
+        "Jean-Luc",
+        "The Music",
+        "Christian Thurn",
+        "Last Chance",
+        "A Manual",
+        "Joachim B",
+        "Susanne Schawalder",
+        "Cristiano Aires",
+        "The Truth",
+        "Information Technology",
+        "Betty Friedrich",
+        "Invisible Woman",
+        "Charles Clavadetscher",
+        "Grand Hotel",
+        "Andrea Waldburger",
+        "Eva-Karin",
+        "Johan Theorin",
+        "Jan Freihardt",
+        "Teacher Training",
+        "Cornel Andreoli",
+        "Jana Lipps",
+        "D-MATH",
+        "Benedict Wells",
+        "IT Services",
+        "Madeleine Marchand",
+        "Ilja Leonard",
+        "Kai Michel",
+        "ETH Zurich",
+        "Martin R",
+        "D-ERDW",
+        "D-BIOL",
+        "My Fathers",
+        "Plant Biochemistry",
+        "Lorenz Schmid",
+        "Martina Koch",
+        "Economic Institute",
+        "Barbara Ritter",
+        "Birk Esther",
+        "A Brief",
+        "Ayobami Adebayo",
+        "Stephen Hawking",
+        "Die Wahrheit",
+        "D-PHYS",
+        "D-ARCH",
+        "D-GESS",
+        "Collegium Helveticum",
+        "Language Center",
+        "Herman Koch",
+        "Richard Krause",
+        "Can See",
+        "KOF Swiss",
+        "Building Physics",
+        "Dana Grigorcea",
+        "Douglas Adams",
+        "Harald Atmanspacher",
+        "Stefan Weiler",
+        "Seven Sisters",
+        "Facility Management",
+        "Frank Kauffmann",
+        "Summer House",
+        "Deborah Levy",
+        "Paulina Pacak",
+        "Corporate Communications",
+        "Lucinda Riley",
+        "Systems Design",
+        "Alfred Johny",
+        "Hot Milk",
+        "ID Services",
+        "Martin Walker",
+        "John Williams",
+        "Different Outside",
+        "David Barrie",
+        "D-HEST",
+        "Juli Zeh",
+        "Caroline Criado",
+        "Gregory Roberts"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Advanced Manufacturing - Invisible Woman",
+        "Corporate Communications - Sextant",
+        "Corporate Communications - The Öland Quartet",
+        "D-BAUG - A Manual for Cleaning Women",
+        "ETH",
+        "Facility Management",
+        "ID Services",
+        "Jean-Luc Bannalec",
+        "Personnel Development - The Music Shop",
+        "Pierick",
+        "Services",
+        "Teixeira",
+        "UZH",
+        "Wegen",
+        "Wissenschaft",
+        "Women and Men",
+        "the Chair of Building Physics - Kalmann",
+        "the Chair of Pharmacoepidemiology - What You Can See",
+        "the Chair of Systems Design - Blindness",
+        "the Collegium Helveticum - Butcher’s Crossing",
+        "the Institute of Geophysics - The “Seven",
+        "the KOF Swiss Economic Institute - Über Menschen",
+        "the Professorship of Information Technology"
+      ],
+      "locations": [
+        "Eawag",
+        "Grand Hotel Europa",
+        "New Routes",
+        "the Language Center",
+        "the Professorship of Plant Biochemistry - Mittagsstunde"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Frank Kauffmann",
+        "Stephen Hawking",
+        "Christian Thurn",
+        "Erfindung der Ungleichheit von Frauen",
+        "The Truth",
+        "Women and Men",
+        "Carel van Schaik",
+        "Kai Michel",
+        "Martina Koch",
+        "the Chair of Building Physics - Kalmann"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Further recommendations by ETH members"
+        ],
+        "content_length": 3169
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Nadja Taras",
+        "Olga Tokarczuk",
+        "Services",
+        "Corporate Communications - Sextant",
+        "the Chair of Pharmacoepidemiology - What You Can See",
+        "the Chair of Building Physics - Kalmann",
+        "Mariana Leky",
+        "UZH",
+        "Anne Weyden",
+        "José Saramago",
+        "the Chair of Systems Design - Blindness",
+        "Rachel Joyce",
+        "Daniel Suarez",
+        "Romano Meier",
+        "Corporate Communications - The Öland Quartet",
+        "ETH Zurich - Shantaram",
+        "Pierick",
+        "Teixeira",
+        "Eva Gottschewski",
+        "Mark Carwardine",
+        "Women and Men",
+        "Wegen",
+        "2021",
+        "Felix Bindschädler",
+        "Nina Wilhelm",
+        "Delia Owens",
+        "Jean-Luc Bannalec",
+        "Lucia Berlin",
+        "Christian Thurn",
+        "the Collegium Helveticum - Butcher’s Crossing",
+        "Erfindung der Ungleichheit von Frauen",
+        "Martin R. Dean",
+        "Betty Friedrich-Grube",
+        "Charles Clavadetscher",
+        "Andrea Waldburger",
+        "EU",
+        "Johan Theorin",
+        "Jan Freihardt",
+        "Wissenschaft",
+        "the Professorship of Information Technology",
+        "Jana Lipps",
+        "Benedict Wells",
+        "Madeleine Marchand",
+        "Alfred Johny Wüest",
+        "Kai Michel",
+        "Peter Rüegg",
+        "Lorenz Schmid",
+        "Personnel Development - The Music Shop",
+        "Martina Koch",
+        "Barbara Ritter",
+        "Birk Esther",
+        "Ilja Leonard Pfeijffer",
+        "Douglas Adams &",
+        "Bruno",
+        "Ayobami Adebayo",
+        "Stephen Hawking",
+        "the Institute of Geophysics - The “Seven",
+        "Herman Koch",
+        "Richard Krause",
+        "Carel van Schaik",
+        "Dana Grigorcea",
+        "the KOF Swiss Economic Institute - Über Menschen",
+        "Joachim B. Schmidt",
+        "Harald Atmanspacher",
+        "Stefan Weiler",
+        "Advanced Manufacturing - Invisible Woman",
+        "Cornelia Künzle",
+        "Facility Management",
+        "Frank Kauffmann",
+        "Carina Känzig",
+        "Caroline Criado-Perez",
+        "Susanne Schawalder Bischof",
+        "Deborah Levy",
+        "Lucinda Riley",
+        "ID Services",
+        "D-BAUG - A Manual for Cleaning Women",
+        "Martin Walker",
+        "John Williams",
+        "David Barrie",
+        "Dörte Hansen",
+        "Juli Zeh",
+        "Gregory Roberts"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Things are Different Outside",
+        "who",
+        "Brittany Mystery",
+        "The Truth",
+        "My Fathers",
+        "Midday",
+        "Who do Not Die",
+        "what",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Alfred Johny Wüest_has_role_student",
+        "Alfred Johny Wüest_has_role_professor",
+        "Andrea Waldburger_has_role_student",
+        "Andrea Waldburger_has_role_professor",
+        "Anne Weyden_has_role_student",
+        "Ayobami Adebayo_has_role_student",
+        "Barbara Ritter_has_role_professor",
+        "Barbara Ritter_has_role_chair",
+        "Barbara Ritter_has_role_student",
+        "Barbara Ritter_has_role_rector",
+        "Benedict Wells_has_role_student",
+        "Benedict Wells_has_role_professor",
+        "Betty Friedrich-Grube_has_role_professor",
+        "Betty Friedrich-Grube_has_role_chair",
+        "Betty Friedrich-Grube_has_role_student",
+        "Betty Friedrich-Grube_has_role_rector",
+        "Birk Esther_has_role_student",
+        "Birk Esther_has_role_professor",
+        "Bruno_has_role_student",
+        "Bruno_has_role_professor",
+        "Carel van Schaik_has_role_student",
+        "Carel van Schaik_has_role_chair",
+        "Carina Känzig_has_role_student",
+        "Carina Känzig_has_role_professor",
+        "Caroline Criado-Perez_has_role_student",
+        "Charles Clavadetscher_has_role_student",
+        "Charles Clavadetscher_has_role_professor",
+        "Christian Thurn_has_role_student",
+        "Christian Thurn_has_role_chair",
+        "Cornelia Künzle_has_role_student",
+        "Cornelia Künzle_has_role_professor",
+        "Dana Grigorcea_has_role_professor",
+        "Dana Grigorcea_has_role_chair",
+        "Dana Grigorcea_has_role_student",
+        "Dana Grigorcea_has_role_rector",
+        "Daniel Suarez_has_role_student",
+        "Daniel Suarez_has_role_professor",
+        "David Barrie_has_role_student",
+        "David Barrie_has_role_professor",
+        "Deborah Levy_has_role_dean",
+        "Deborah Levy_has_role_student",
+        "Delia Owens_has_role_student",
+        "Delia Owens_has_role_professor",
+        "Douglas Adams &_has_role_student",
+        "Douglas Adams &_has_role_professor",
+        "Dörte Hansen_has_role_professor",
+        "Dörte Hansen_has_role_chair",
+        "Dörte Hansen_has_role_student",
+        "Dörte Hansen_has_role_rector",
+        "Erfindung der Ungleichheit von Frauen_has_role_student",
+        "Erfindung der Ungleichheit von Frauen_has_role_chair",
+        "Eva Gottschewski_has_role_student",
+        "Eva Gottschewski_has_role_professor",
+        "Felix Bindschädler_has_role_student",
+        "Felix Bindschädler_has_role_professor",
+        "Frank Kauffmann_has_role_student",
+        "Gregory Roberts_has_role_student",
+        "Harald Atmanspacher_has_role_professor",
+        "Harald Atmanspacher_has_role_chair",
+        "Harald Atmanspacher_has_role_student",
+        "Harald Atmanspacher_has_role_rector",
+        "Herman Koch_has_role_professor",
+        "Herman Koch_has_role_chair",
+        "Herman Koch_has_role_student",
+        "Herman Koch_has_role_rector",
+        "Ilja Leonard Pfeijffer_has_role_dean",
+        "Ilja Leonard Pfeijffer_has_role_student",
+        "Jan Freihardt_has_role_professor",
+        "Jan Freihardt_has_role_chair",
+        "Jan Freihardt_has_role_student",
+        "Jan Freihardt_has_role_rector",
+        "Jana Lipps_has_role_dean",
+        "Jana Lipps_has_role_student",
+        "Johan Theorin_has_role_student",
+        "John Williams_has_role_professor",
+        "John Williams_has_role_chair",
+        "John Williams_has_role_student",
+        "John Williams_has_role_rector",
+        "José Saramago_has_role_professor",
+        "José Saramago_has_role_chair",
+        "José Saramago_has_role_student",
+        "José Saramago_has_role_rector",
+        "Juli Zeh_has_role_student",
+        "Juli Zeh_has_role_professor",
+        "Kai Michel_has_role_student",
+        "Kai Michel_has_role_chair",
+        "Lorenz Schmid_has_role_student",
+        "Lucia Berlin_has_role_student",
+        "Lucinda Riley_has_role_professor",
+        "Lucinda Riley_has_role_chair",
+        "Lucinda Riley_has_role_student",
+        "Lucinda Riley_has_role_rector",
+        "Madeleine Marchand_has_role_student",
+        "Mariana Leky_has_role_professor",
+        "Mariana Leky_has_role_chair",
+        "Mariana Leky_has_role_student",
+        "Mariana Leky_has_role_rector",
+        "Mark Carwardine_has_role_student",
+        "Mark Carwardine_has_role_professor",
+        "Martin Walker_has_role_student",
+        "Martin Walker_has_role_professor",
+        "Martina Koch_has_role_student",
+        "Martina Koch_has_role_chair",
+        "Nadja Taras_has_role_professor",
+        "Nadja Taras_has_role_chair",
+        "Nadja Taras_has_role_student",
+        "Nadja Taras_has_role_rector",
+        "Nina Wilhelm_has_role_professor",
+        "Nina Wilhelm_has_role_chair",
+        "Nina Wilhelm_has_role_student",
+        "Nina Wilhelm_has_role_rector",
+        "Olga Tokarczuk_has_role_professor",
+        "Olga Tokarczuk_has_role_chair",
+        "Olga Tokarczuk_has_role_student",
+        "Olga Tokarczuk_has_role_rector",
+        "Peter Rüegg_has_role_student",
+        "Peter Rüegg_has_role_professor",
+        "Rachel Joyce_has_role_student",
+        "Rachel Joyce_has_role_professor",
+        "Richard Krause_has_role_student",
+        "Romano Meier_has_role_student",
+        "Romano Meier_has_role_professor",
+        "Stefan Weiler_has_role_professor",
+        "Stefan Weiler_has_role_chair",
+        "Stefan Weiler_has_role_student",
+        "Stefan Weiler_has_role_rector",
+        "Stephen Hawking_has_role_student",
+        "Stephen Hawking_has_role_chair",
+        "Susanne Schawalder Bischof_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

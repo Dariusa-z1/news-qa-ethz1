@@ -1,0 +1,500 @@
+{
+  "filename": "blog-knutti-klimamodelle.md",
+  "original_filename": "blog-knutti-klimamodelle.html",
+  "source_path": "en_news_events/2019/08/blog-knutti-klimamodelle.html",
+  "date": "2019-08",
+  "title": "Blog Knutti Klimamodelle",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Amazing progress of climate models",
+      "text": "In 1950, meteorologists Jule Charney and Ragnar Fjørtoft joined with mathematician John von Neumann and other researchers to create the first computer simulation of the weather. Back then, it took 24 hours of calculations to forecast 24 hours’ worth of weather. In other words, practically as soon as the paltry forecast was finished, reality had set in and rendered it useless. Today’s weather forecasts are astoundingly good, often producing skilful forecasts up to a week in advance and designed to include extreme events. They are available on every mobile phone and everyone knows how to interpret them."
+    },
+    {
+      "heading": "Amazing progress of climate models",
+      "text": "Climate models are closely related to weather models; and they, too, have made amazing progress. Today they simulate air and ocean currents, sea ice, the biosphere, land, the carbon cycle and much more. They take into account thousands of feedback effects and climate processes, consist of a million lines of programming code, and produce petabytes of data – and these models are a success story in many ways. Many climate model projections have come true 1,2 . It was on the basis of just such projections that policymakers decided we should limit anthropogenic global warming to considerably less than 2 degrees Celsius. But why, then, does this field require even more research and new models?"
+    },
+    {
+      "heading": "Public lecture on climate models",
+      "text": "Decades ago, statistician George Box stated: “All models are wrong, but some are useful.” And indeed, every model simplifies reality to some extent. For certain questions, this simplification is justified, while for others, the uncertainties are still great. One point in particular is that each model has a specific spatial resolution, or scale, beneath which no forecasts are possible. Nowadays climate models typically have a scale of 10 to 50 kilometres. Even this resolution makes it clear that we need to reduce our CO 2 emissions. However, to find out how frequently hot and dry summers such as the one in 2018 will occur, or if the Swiss mountain village of Sedrun will still receive enough snow in the year 2040, we need a scale of just a few kilometres. This is because mountains, valleys and highly localised phenomena – such as the rising of air masses that turn into cloud formations – play critical roles."
+    },
+    {
+      "heading": "References",
+      "text": "Yet achieving these smaller scales requires enormous computing power, the likes of which is found more and more frequently only in computers with graphics processing units (GPUs). Therefore, the model’s “inner workings”, in other words how the individual cores share and process data, have to be reprogrammed. Such powerful supercomputers make it possible to map small-scale phenomena, such as thunderclouds, or city models in new and improved ways. However, they also produce more data than can possibly be stored.\n\nGetting a high-resolution model to run on a new computer architecture thus requires the expertise of physicists, chemists, biologists and other experts to better describe these small-scale phenomena. Computer scientists, too, are needed if we are to make efficient use of the new technologies. But at the end of the day, even the best simulation is useless if its users don’t understand it or don’t know what to use it for."
+    },
+    {
+      "heading": "Benefits to society",
+      "text": "For researchers, climate models are tools with which they can test their hypotheses, learn to understand processes and interpret measurement data. But they can also do more: climate models are used in forecasts to minimise the risks and vulnerabilities of society and infrastructure and to find robust means of adjustment. The dialogue with and benefit for users is key to this process. Once we climate modellers understand what information farmers or civil engineers need for what place and time frame, then we can better prepare our models for adjustment – a shining example of how technological development and inter- and transdisciplinary research work together to deliver tangible benefits to society.\n\nAt ETH Zurich’s Latsis Symposium 2019, scientists discuss the next generation of climate models, which push the boundaries of computing by running kilometre-scale simulations for the whole earth. At 6.00 p.m. on Wednesday, 21 August , Reto Knutti will give a talk on the opportunities and challenges presented by climate change and how new models will help us to minimise risks. The lecture is open to the public and is also suitable for those without a scientific background. Admission is free and the talk will be given in English. Further Information: https://latsis2019.ethz.ch/\n\n1 How well have climate models projected global warming? Fischer 2016 Nature Climate Change.\n\n2 Fischer EM, Knutti R. Observed heavy precipitation increase confirms theory and early models. Nature Climate Change volume 6, pages 986–991 (2016). doi: 10.1038/nclimate3110\n\nReto Knutti Professor of climate physics at ETH Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Knutti Klimamodelle",
+        "label": "ORG",
+        "start": 28,
+        "end": 47
+      },
+      {
+        "text": "Jule Charney",
+        "label": "PERSON",
+        "start": 24,
+        "end": 36
+      },
+      {
+        "text": "Ragnar Fjørtoft",
+        "label": "PERSON",
+        "start": 41,
+        "end": 56
+      },
+      {
+        "text": "John von Neumann",
+        "label": "PERSON",
+        "start": 83,
+        "end": 99
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 136,
+        "end": 141
+      },
+      {
+        "text": "24 hours",
+        "label": "TIME",
+        "start": 197,
+        "end": 205
+      },
+      {
+        "text": "24 hours",
+        "label": "TIME",
+        "start": 234,
+        "end": 242
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 379,
+        "end": 384
+      },
+      {
+        "text": "up to a week",
+        "label": "DATE",
+        "start": 462,
+        "end": 474
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 97,
+        "end": 102
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 226,
+        "end": 235
+      },
+      {
+        "text": "a million",
+        "label": "CARDINAL",
+        "start": 290,
+        "end": 299
+      },
+      {
+        "text": "1,2",
+        "label": "CARDINAL",
+        "start": 456,
+        "end": 459
+      },
+      {
+        "text": "less than 2 degrees Celsius",
+        "label": "QUANTITY",
+        "start": 594,
+        "end": 621
+      },
+      {
+        "text": "Decades ago",
+        "label": "DATE",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "George Box",
+        "label": "PERSON",
+        "start": 26,
+        "end": 36
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 259,
+        "end": 262
+      },
+      {
+        "text": "10 to 50 kilometres",
+        "label": "QUANTITY",
+        "start": 438,
+        "end": 457
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 606,
+        "end": 609
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 640,
+        "end": 645
+      },
+      {
+        "text": "Sedrun",
+        "label": "GPE",
+        "start": 666,
+        "end": 672
+      },
+      {
+        "text": "the year 2040",
+        "label": "DATE",
+        "start": 707,
+        "end": 720
+      },
+      {
+        "text": "the end of the day",
+        "label": "DATE",
+        "start": 817,
+        "end": 835
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "ORG",
+        "start": 710,
+        "end": 722
+      },
+      {
+        "text": "kilometre",
+        "label": "CARDINAL",
+        "start": 854,
+        "end": 863
+      },
+      {
+        "text": "6.00 p.m.",
+        "label": "TIME",
+        "start": 906,
+        "end": 915
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE",
+        "start": 919,
+        "end": 928
+      },
+      {
+        "text": "21 August",
+        "label": "DATE",
+        "start": 930,
+        "end": 939
+      },
+      {
+        "text": "Reto Knutti",
+        "label": "PERSON",
+        "start": 942,
+        "end": 953
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 1232,
+        "end": 1239
+      },
+      {
+        "text": "Knutti R. Observed",
+        "label": "PERSON",
+        "start": 1397,
+        "end": 1415
+      },
+      {
+        "text": "Nature Climate Change",
+        "label": "ORG",
+        "start": 1479,
+        "end": 1500
+      },
+      {
+        "text": "986–991",
+        "label": "CARDINAL",
+        "start": 1517,
+        "end": 1524
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1538,
+        "end": 1545
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1603,
+        "end": 1613
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "George Box",
+        "John von Neumann",
+        "Jule Charney",
+        "Knutti R. Observed",
+        "Ragnar Fjørtoft",
+        "Reto Knutti"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Knutti Klimamodelle",
+        "Nature Climate Change"
+      ],
+      "LOCATION": [
+        "Sedrun"
+      ],
+      "DATE": [
+        "21 August",
+        "24 hours",
+        "6.00 p.m.",
+        "Decades ago",
+        "Today",
+        "Wednesday",
+        "the end of the day",
+        "the year 2040",
+        "up to a week"
+      ],
+      "MISC": [
+        "1,2",
+        "10 to 50 kilometres",
+        "10.1038",
+        "986–991",
+        "English",
+        "One",
+        "Swiss",
+        "a million",
+        "first",
+        "kilometre",
+        "less than 2 degrees Celsius",
+        "one",
+        "thousands"
+      ]
+    },
+    "entity_counts": {
+      "24 hours": 2,
+      "Today": 2,
+      "Knutti Klimamodelle": 1,
+      "Jule Charney": 1,
+      "Ragnar Fjørtoft": 1,
+      "John von Neumann": 1,
+      "first": 1,
+      "up to a week": 1,
+      "thousands": 1,
+      "a million": 1,
+      "1,2": 1,
+      "less than 2 degrees Celsius": 1,
+      "Decades ago": 1,
+      "George Box": 1,
+      "One": 1,
+      "10 to 50 kilometres": 1,
+      "one": 1,
+      "Swiss": 1,
+      "Sedrun": 1,
+      "the year 2040": 1
+    },
+    "total_entities": 35,
+    "unique_entities": 33
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "blog-knutti-klimamodelle.md",
+      "title": "En News Events/2019/08/blog Knutti Klimamodelle",
+      "language": "en",
+      "source_path": "en_news_events/2019/08/blog-knutti-klimamodelle.html"
+    },
+    "temporal": {
+      "publication_date": "2019-08",
+      "mentioned_years": [
+        "1950",
+        "2016",
+        "2018",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "George Box",
+        "John von Neumann",
+        "Jule Charney",
+        "Knutti R. Observed",
+        "Ragnar Fjørtoft",
+        "Reto Knutti"
+      ],
+      "people_with_roles": {
+        "John von Neumann": [
+          "researcher"
+        ],
+        "Jule Charney": [
+          "researcher"
+        ],
+        "Ragnar Fjørtoft": [
+          "researcher"
+        ],
+        "Reto Knutti": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10 to 50 kilometres",
+        "10.1038",
+        "986–991",
+        "English",
+        "Swiss",
+        "a million",
+        "first",
+        "kilometre",
+        "less than 2 degrees Celsius",
+        "thousands"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "At ETH",
+        "En News",
+        "Jule Charney",
+        "Knutti Klimamodelle",
+        "Reto Knutti",
+        "Knutti R",
+        "Latsis Symposium",
+        "Fischer EM",
+        "Nature Climate",
+        "ETH Zurich",
+        "Further Information",
+        "George Box"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Knutti Klimamodelle",
+        "Nature Climate Change"
+      ],
+      "locations": [
+        "Sedrun"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "24 hours",
+        "Today",
+        "Knutti Klimamodelle",
+        "Jule Charney",
+        "Ragnar Fjørtoft",
+        "John von Neumann",
+        "first",
+        "up to a week",
+        "thousands",
+        "a million"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Amazing progress of climate models",
+          "Amazing progress of climate models",
+          "Public lecture on climate models",
+          "References",
+          "Benefits to society"
+        ],
+        "content_length": 4832
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Ragnar Fjørtoft",
+        "Jule Charney",
+        "Knutti Klimamodelle",
+        "Reto Knutti",
+        "EU",
+        "1950",
+        "2016",
+        "2019",
+        "ERC",
+        "John von Neumann",
+        "Nature Climate Change",
+        "ETH Zurich",
+        "Knutti R. Observed",
+        "ETH Zurich’s",
+        "George Box"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "thousands",
+        "a million",
+        "less than 2 degrees Celsius",
+        "when",
+        "engineering",
+        "10.1038",
+        "kilometre",
+        "986–991",
+        "who",
+        "English",
+        "what",
+        "how",
+        "computer_science",
+        "climate_change",
+        "10 to 50 kilometres",
+        "first",
+        "Swiss",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "John von Neumann_has_role_researcher",
+        "Jule Charney_has_role_researcher",
+        "Ragnar Fjørtoft_has_role_researcher",
+        "Reto Knutti_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

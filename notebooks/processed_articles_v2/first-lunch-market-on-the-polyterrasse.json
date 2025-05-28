@@ -1,0 +1,256 @@
+{
+  "filename": "first-lunch-market-on-the-polyterrasse.md",
+  "original_filename": "first-lunch-market-on-the-polyterrasse.html",
+  "source_path": "en_internal/2015/09/first-lunch-market-on-the-polyterrasse.html",
+  "date": "2015-09",
+  "title": "First Lunch Market On The Polyterrasse",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Sweet or savoury? From 11 a.m. to 3 p.m. on Wednesday, 23 September, 2015, visitors will be able to try a wide range of tasty dishes offered by assorted mobile refreshment stands on the Polyterrasse. The market is open not only to staff and students of ETH Zurich, but also visitors and external guests.\n\nSmoked burgers, Asian specialities, and sweet delicacies such as crepes and frozen yoghurt: the range available on the Polyterrasse is extensive and tempting for either a delicious takeaway or a pleasant afternoon break.\n\nThe Lunch Market can also be found in its usual place on the Hönggerberg campus on 17 September. “Our aim was to put together a range that was both on-trend and healthy,” explains Project Manager Karin Emmenegger. “Food that appeals to the senses and brings people together – in the open air.” Additional upcoming dates for the market on the Hönggerberg campus are 24 September and 1, 8, 15 and 22 October."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "11 a.m. to 3 p.m.",
+        "label": "TIME",
+        "start": 23,
+        "end": 40
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE",
+        "start": 44,
+        "end": 53
+      },
+      {
+        "text": "23 September, 2015",
+        "label": "DATE",
+        "start": 55,
+        "end": 73
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 253,
+        "end": 263
+      },
+      {
+        "text": "Asian",
+        "label": "NORP",
+        "start": 320,
+        "end": 325
+      },
+      {
+        "text": "afternoon",
+        "label": "TIME",
+        "start": 508,
+        "end": 517
+      },
+      {
+        "text": "The Lunch Market",
+        "label": "WORK_OF_ART",
+        "start": 525,
+        "end": 541
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 586,
+        "end": 597
+      },
+      {
+        "text": "17 September",
+        "label": "DATE",
+        "start": 608,
+        "end": 620
+      },
+      {
+        "text": "Project",
+        "label": "ORG",
+        "start": 705,
+        "end": 712
+      },
+      {
+        "text": "Karin Emmenegger",
+        "label": "PERSON",
+        "start": 721,
+        "end": 737
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 867,
+        "end": 878
+      },
+      {
+        "text": "24 September",
+        "label": "DATE",
+        "start": 890,
+        "end": 902
+      },
+      {
+        "text": "22 October",
+        "label": "DATE",
+        "start": 920,
+        "end": 930
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Karin Emmenegger"
+      ],
+      "ORG": [
+        "Project"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "11 a.m. to 3 p.m.",
+        "17 September",
+        "22 October",
+        "23 September, 2015",
+        "24 September",
+        "Wednesday",
+        "afternoon"
+      ],
+      "MISC": [
+        "Asian",
+        "The Lunch Market"
+      ]
+    },
+    "entity_counts": {
+      "Hönggerberg": 2,
+      "11 a.m. to 3 p.m.": 1,
+      "Wednesday": 1,
+      "23 September, 2015": 1,
+      "ETH Zurich": 1,
+      "Asian": 1,
+      "afternoon": 1,
+      "The Lunch Market": 1,
+      "17 September": 1,
+      "Project": 1,
+      "Karin Emmenegger": 1,
+      "24 September": 1,
+      "22 October": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "first-lunch-market-on-the-polyterrasse.md",
+      "title": "En Internal/2015/09/first Lunch Market On The Polyterrasse",
+      "language": "en",
+      "source_path": "en_internal/2015/09/first-lunch-market-on-the-polyterrasse.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Karin Emmenegger"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "Asian",
+        "The Lunch Market"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Polyterrasse Sweet",
+        "En Internal",
+        "The Lunch",
+        "On The",
+        "ETH Zurich",
+        "Lunch Market",
+        "Project Manager",
+        "Karin Emmenegger"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Project"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Hönggerberg",
+        "11 a.m. to 3 p.m.",
+        "Wednesday",
+        "23 September, 2015",
+        "ETH Zurich",
+        "Asian",
+        "afternoon",
+        "The Lunch Market",
+        "17 September",
+        "Project"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 992
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "2015",
+        "ETH Zurich",
+        "Project",
+        "Karin Emmenegger"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "The Lunch Market",
+        "Asian",
+        "what",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

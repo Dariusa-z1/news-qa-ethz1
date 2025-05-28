@@ -1,0 +1,26 @@
+# in-gedenken-an-saa-milanovi.html
+
+**Source:** de_internal/2020/09/in-gedenken-an-saa-milanovi.html
+
+## Main article
+
+Saša Milanović
+
+Es war ein grosser Schock, als uns am 9. August 2020 die Nachricht ereilte, dass Saša Milanović bei einem tödlichen Unfall aus dem Leben gerissen wurde. Von einem Tag auf den anderen war er nicht mehr da. Sein Team, aber auch viele Kolleginnen und Kollegen der ETH sind von tiefen Trauer erfüllt. Sašas Hinschied wird noch lange seine Spuren zeigen. Seine unglaubliche Hilfsbereitschaft, aber auch seine immer positive Einstellung und seine herzliche Art werden uns allen fehlen.
+
+Saša wurde 1972 in Jagodina, Serbien, geboren und gelangte 1991 nach Abschluss der Staatlichen Technischen Schule «Nikola Tesla» in Svetozarevo in die Schweiz. Hier bildete er sich berufsbegleitend auf dem aufstrebenden Gebiet der Informatik weiter und kam 2003 als Projektmitarbeiter bei der Betriebsinformatik zur ETH. Eine seiner Aufgaben war es, die zentralen Lehrbetriebsapplikationen zu testen; dabei machte er schon bald durch seine präzisen und immer lösungsorientierten Testprotokolle auf sich aufmerksam.
+
+2007 wechselte er zur Prüfungsplanstelle der ETH, wo er in den vergangenen 13 Jahren zu einer unverzichtbaren Stütze und einem weit über die akademischen Dienste hinaus geschätzten Kollegen wurde. Hatte man eine Frage zu einem MS Office Programm, so konnte Saša einem weiterhelfen. War man sich nicht sicher, wie man eine SQL Abfrage korrekt ausführen sollte, so stand Saša mit Rat und Tat zur Seite.
+
+Sašas Hilfsbereitschaft ging aber weit über den Arbeitsalltag hinaus. Als Helfer für den Cybathlon gesucht wurden, war er der erste, der sich zur Verfügung stellte. Musste man im Privaten einen Schrank transportieren, so bot er sich an. Und war man mal schlecht gelaunt oder traurig, so war er für einen da. Privat setzte sich Saša als Ehemann und Vater zweier Kinder (13 und 20 Jahre alt) für das Wohl seiner Familie ein, er war auch ein liebevoller «Götti», Schwager, Onkel und (Schwieger-)Sohn.
+
+Doch auch die ETH war für ihn wie eine grosse Familie mit Brüdern und Schwestern, manchmal etwas garstigen Onkeln und Tanten, liebenswerten Cousinen und Cousins und tausenden von «Kindern», für die er immer versuchte, unterstützend und mit Rat und Tat da zu sein. So erwähnte seine Frau erst kürzlich, dass er auch Zuhause immer wieder von der ETH erzählte und sich oftmals darüber freute, dass er wieder jemandem in einer schwierigen Situation weiterhelfen konnte.
+
+Saša war ein Mensch, der sich selbst nie in den Vordergrund stellte, immer an die anderen dachte. Saša starb so, wie er gelebt hatte. Indem er einem anderen das Leben rettete, verlor er das seine.
+
+Sein Verlust führt uns allen vor Augen, welch Freude und Glück es war, diesen Menschen gekannt zu haben, ihn für einen Teil seines Lebens begleitet zu haben, mit ihm gelacht und gestritten zu haben, ihn als Freund geliebt zu haben.
+
+Mit seiner positiven Art würde er jetzt von uns erwarten: Nicht um das zu trauern, was wir alle verloren haben, sondern dankbar dafür zu sein, was wir in den vergangenen Jahren teilen durften und dadurch gewonnen und gelernt haben.
+
+Wir haben einen unglaublich geschätzten Mitarbeiter, einen guten Kollegen verloren, der sich wirklich kümmerte und uns ein guter Freund war. Saša, wir vermissen dich sehr!
+

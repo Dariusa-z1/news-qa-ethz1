@@ -1,0 +1,564 @@
+{
+  "filename": "flu-viruses-disguised-as-waste.md",
+  "original_filename": "flu-viruses-disguised-as-waste.html",
+  "source_path": "en_news_events/2014/10/flu-viruses-disguised-as-waste.html",
+  "date": "2014-10",
+  "title": "Flu Viruses Disguised As Waste",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Capsid cracked open like a nut",
+      "text": "Viral infections always follow a similar course. The pathogen infiltrates the host cells and uses their replication and protein production machinery to multiply. The virus has to overcome the initial barrier by docking on the surface of the cell membrane. The cell engulfs the virus in a bubble and transports it towards the cell nucleus. During this journey, the solution inside the bubble becomes increasingly acidic. The acidic pH value is ultimately what causes the virus’s outer shell to melt into the membrane of the bubble."
+    },
+    {
+      "heading": "Capsid cracked open like a nut",
+      "text": "However, this is only the first part of the process. Like other RNA viruses, the flu virus has to overcome a further obstacle before releasing its genetic code: the few pieces of RNA that make up the genome of the flu virus are packed into a capsid, which keeps the virus stable when moving from cell to cell. The capsid also protects the viral genes against degradation.\n\nUntil now, very little has been known about how the capsid of the flu virus is cracked open. A team of researchers from the ETH Zurich, the Friedrich Miescher Institute for Biomedical Research in Basel and the Biological Research Center in Szeged (Hungary) has now discovered exactly how this key aspect of flu infection works: the capsid of the influenza A virus imitates a bundle of protein waste – called an aggresome – that the cell must disentangle and dispose. Deceived in such a way, the cellular waste pickup and disposal complex cracks open the capsid. This discovery has recently been published in the journal Science .\n\nThe virus capsid carries cellular waste ‘labels’ on its surface. These waste labels, called unanchored ubiquitin, call into action an enzyme known as histone deacetylase (HDAC6), which binds to ubiquitin. At the same time, HDAC6 also binds to scaffolding motor proteins, pulling the perceived “garbage bundle” apart so that it can be degraded. This mechanical stress causes the capsid to tear, releasing the genetic material of the virus. The viral RNA molecules pass through the pores of the cell nucleus, again with the help of cellular transport factors. Once within the nucleus, the cell starts to reproduce the viral genome and build new virus proteins."
+    },
+    {
+      "heading": "Tricking the waste pickup and disposal system",
+      "text": "This finding came as a great surprise to the researchers. The waste disposal system of a cell is essential for eliminating protein garbage. If the cell fails to dispose of these waste proteins (caused by stress or heat) quickly enough, the waste starts to aggregate. To get rid of these aggregates, the cell activates its machinery, which dismantles the clumps and breaks them down into smaller pieces, so that they can be degraded. It is precisely this mechanism that the influenza virus exploits."
+    },
+    {
+      "heading": "Quick mutations",
+      "text": "The flu virus gets close to the cell nucleus inside a bubble, opens its capsid (violet ball) using the cell’s waste pickup and disposal system, and then smuggles its genes into the cell nucleus (bottom left). (Graphic: from Banerjee et al., 2014)\n\nThe researchers were also surprised by how long the opening of the capsid takes, with the process lasting around 20-30 minutes. The total infection period – from docking onto the cell’s surface to the RNA entering the cell nucleus – is two hours. “The process is gradual and more complex than we thought,” says Yohei Yamauchi, former postdoc with ETH professor Ari Helenius, who detected HDAC6 by screening human proteins for their involvement in viral infection. In a follow-up study, lead author Indranil Banerjee confirmed how the flu virus is programmed to trick HDAC6 into opening its capsid.\n\nA mouse model provided encouraging proof. If the protein HDAC6 was absent, the flu infection was significantly weaker than in wild-type mice: the flu viruses did not have a central docking point for binding to the waste disposal system."
+    },
+    {
+      "heading": "Stopping waste labels from binding",
+      "text": "The researchers headed by Professor of Biochemistry, Ari Helenius have broken new ground with their study. Little research has previously been conducted on how an animal virus opens its capsid. This is one of the most important stages during infection, says the virologist. “We did, however, underestimate the complexity associated with unpacking the capsid,” admits Helenius. Although he wrote a paper on the subject 20 years ago, he did not further pursue his research at that time. He attributes the current breakthrough to new systemic approaches to researching complex systems.\n\nWhether there are therapeutic applications for the findings remains to be seen as an absence of HDAC6 merely moderates the infection rather than prevents it. The known HDAC6 inhibitors target its two active areas. Blocking the enzymatic activity does not help prevent HDAC6 from binding to ubiquitin, but rather supports the virus by stabilizing the cell’s framework.\n\n“We would need a substance that prevents HDAC6 from binding to ubiquitin, without touching the enzyme,” says Yamauchi. Nevertheless, the structure of HDAC6 indicates that this is possible and follow-up experiments are already planned. The researchers have already filed a patent for this purpose.\n\nThese new findings also underpin one of the main challenges of fighting viruses. Viruses make intelligent use of many processes that are essential for our cells. These processes cannot simply be “switched off”, as the side effects would be severe. Furthermore, viruses mutate very quickly. In the case of the flu medicine Tamiflu, the influenza virus evaded it by a mutation that changed the target protein of the active substance on its surface, thereby rendering the drug useless.\n\nIt is possible that other viruses might use the waste processing system to decapsidate or uncoat their DNA or RNA and to infect cells efficiently. Helenius does not plan to conduct further research in this field, however, as ETH Zurich will dissolve the research group upon his retirement.\n\nBanerjee I, Miyake Y, Nobs SP, Schneider C, Horvath P, Kopf M, Matthias P, Helenius A, Yamauchi Y. Influenza A virus uses the aggresome processing machinery for host cell entry. Science, 24 October 2014, doi: 10.1126/science.1257037"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Viruses Disguised As Waste",
+        "label": "ORG",
+        "start": 27,
+        "end": 53
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 26,
+        "end": 31
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 179,
+        "end": 182
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 492,
+        "end": 506
+      },
+      {
+        "text": "the Friedrich Miescher Institute for Biomedical Research",
+        "label": "ORG",
+        "start": 508,
+        "end": 564
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 568,
+        "end": 573
+      },
+      {
+        "text": "the Biological Research Center",
+        "label": "ORG",
+        "start": 578,
+        "end": 608
+      },
+      {
+        "text": "Hungary",
+        "label": "GPE",
+        "start": 620,
+        "end": 627
+      },
+      {
+        "text": "Science",
+        "label": "WORK_OF_ART",
+        "start": 992,
+        "end": 999
+      },
+      {
+        "text": "HDAC6",
+        "label": "ORG",
+        "start": 1173,
+        "end": 1178
+      },
+      {
+        "text": "HDAC6",
+        "label": "ORG",
+        "start": 1225,
+        "end": 1230
+      },
+      {
+        "text": "Banerjee",
+        "label": "ORG",
+        "start": 224,
+        "end": 232
+      },
+      {
+        "text": "20-30 minutes",
+        "label": "TIME",
+        "start": 360,
+        "end": 373
+      },
+      {
+        "text": "two hours",
+        "label": "TIME",
+        "start": 483,
+        "end": 492
+      },
+      {
+        "text": "Yohei Yamauchi",
+        "label": "PERSON",
+        "start": 558,
+        "end": 572
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 594,
+        "end": 597
+      },
+      {
+        "text": "Ari Helenius",
+        "label": "PERSON",
+        "start": 608,
+        "end": 620
+      },
+      {
+        "text": "HDAC6",
+        "label": "ORG",
+        "start": 635,
+        "end": 640
+      },
+      {
+        "text": "Indranil Banerjee",
+        "label": "PERSON",
+        "start": 745,
+        "end": 762
+      },
+      {
+        "text": "HDAC6",
+        "label": "ORG",
+        "start": 814,
+        "end": 819
+      },
+      {
+        "text": "HDAC6",
+        "label": "PRODUCT",
+        "start": 902,
+        "end": 907
+      },
+      {
+        "text": "Ari Helenius",
+        "label": "PERSON",
+        "start": 53,
+        "end": 65
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 202,
+        "end": 205
+      },
+      {
+        "text": "Helenius",
+        "label": "ORG",
+        "start": 367,
+        "end": 375
+      },
+      {
+        "text": "20 years ago",
+        "label": "DATE",
+        "start": 418,
+        "end": 430
+      },
+      {
+        "text": "HDAC6",
+        "label": "PRODUCT",
+        "start": 679,
+        "end": 684
+      },
+      {
+        "text": "HDAC6",
+        "label": "ORG",
+        "start": 751,
+        "end": 756
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 779,
+        "end": 782
+      },
+      {
+        "text": "HDAC6",
+        "label": "PRODUCT",
+        "start": 851,
+        "end": 856
+      },
+      {
+        "text": "HDAC6",
+        "label": "PRODUCT",
+        "start": 992,
+        "end": 997
+      },
+      {
+        "text": "Yamauchi",
+        "label": "PERSON",
+        "start": 1060,
+        "end": 1068
+      },
+      {
+        "text": "HDAC6",
+        "label": "ORG",
+        "start": 1101,
+        "end": 1106
+      },
+      {
+        "text": "Tamiflu",
+        "label": "ORG",
+        "start": 1570,
+        "end": 1577
+      },
+      {
+        "text": "RNA",
+        "label": "PERSON",
+        "start": 1841,
+        "end": 1844
+      },
+      {
+        "text": "Helenius",
+        "label": "ORG",
+        "start": 1878,
+        "end": 1886
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1956,
+        "end": 1966
+      },
+      {
+        "text": "Nobs SP",
+        "label": "ORG",
+        "start": 2043,
+        "end": 2050
+      },
+      {
+        "text": "Schneider C",
+        "label": "PERSON",
+        "start": 2052,
+        "end": 2063
+      },
+      {
+        "text": "Kopf M",
+        "label": "PERSON",
+        "start": 2076,
+        "end": 2082
+      },
+      {
+        "text": "Helenius A",
+        "label": "ORG",
+        "start": 2096,
+        "end": 2106
+      },
+      {
+        "text": "Yamauchi Y. Influenza",
+        "label": "PERSON",
+        "start": 2108,
+        "end": 2129
+      },
+      {
+        "text": "24 October 2014",
+        "label": "DATE",
+        "start": 2208,
+        "end": 2223
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 2230,
+        "end": 2237
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ari Helenius",
+        "ETH Zurich",
+        "Indranil Banerjee",
+        "Kopf M",
+        "RNA",
+        "Schneider C",
+        "Yamauchi",
+        "Yamauchi Y. Influenza",
+        "Yohei Yamauchi"
+      ],
+      "ORG": [
+        "Banerjee",
+        "ETH",
+        "HDAC6",
+        "Helenius",
+        "Helenius A",
+        "Nobs SP",
+        "RNA",
+        "Tamiflu",
+        "Viruses Disguised As Waste",
+        "the Biological Research Center",
+        "the ETH Zurich",
+        "the Friedrich Miescher Institute for Biomedical Research"
+      ],
+      "LOCATION": [
+        "Basel",
+        "Hungary"
+      ],
+      "DATE": [
+        "20 years ago",
+        "20-30 minutes",
+        "24 October 2014",
+        "two hours"
+      ],
+      "MISC": [
+        "10.1126",
+        "HDAC6",
+        "Science",
+        "first",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "HDAC6": 10,
+      "RNA": 2,
+      "Ari Helenius": 2,
+      "Helenius": 2,
+      "Viruses Disguised As Waste": 1,
+      "first": 1,
+      "the ETH Zurich": 1,
+      "the Friedrich Miescher Institute for Biomedical Research": 1,
+      "Basel": 1,
+      "the Biological Research Center": 1,
+      "Hungary": 1,
+      "Science": 1,
+      "Banerjee": 1,
+      "20-30 minutes": 1,
+      "two hours": 1,
+      "Yohei Yamauchi": 1,
+      "ETH": 1,
+      "Indranil Banerjee": 1,
+      "one": 1,
+      "20 years ago": 1
+    },
+    "total_entities": 43,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "flu-viruses-disguised-as-waste.md",
+      "title": "En News Events/2014/10/flu Viruses Disguised As Waste",
+      "language": "en",
+      "source_path": "en_news_events/2014/10/flu-viruses-disguised-as-waste.html"
+    },
+    "temporal": {
+      "publication_date": "2014-10",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Ari Helenius",
+        "ETH Zurich",
+        "Indranil Banerjee",
+        "Kopf M",
+        "RNA",
+        "Schneider C",
+        "Yamauchi",
+        "Yamauchi Y. Influenza",
+        "Yohei Yamauchi"
+      ],
+      "people_with_roles": {
+        "Ari Helenius": [
+          "researcher",
+          "head",
+          "professor"
+        ],
+        "ETH Zurich": [
+          "researcher"
+        ],
+        "Yamauchi": [
+          "professor"
+        ],
+        "Yohei Yamauchi": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "biology"
+      ],
+      "research_topics": [
+        "10.1126",
+        "HDAC6",
+        "Science",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Horvath P",
+        "Schneider C",
+        "As Waste",
+        "Banerjee I",
+        "Helenius A",
+        "Matthias P",
+        "Indranil Banerjee",
+        "Kopf M",
+        "Nobs SP",
+        "Yamauchi Y",
+        "Biomedical Research",
+        "Ari Helenius",
+        "Yohei Yamauchi",
+        "Influenza A",
+        "Viruses Disguised",
+        "En News",
+        "Biological Research",
+        "ETH Zurich",
+        "Miyake Y",
+        "Friedrich Miescher"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biomedical Research in Basel and the Biological Research Center in Szeged "
+      ],
+      "institutions": [
+        "Banerjee",
+        "ETH",
+        "HDAC6",
+        "Helenius",
+        "Helenius A",
+        "Nobs SP",
+        "RNA",
+        "Tamiflu",
+        "Viruses Disguised As Waste",
+        "the Biological Research Center",
+        "the ETH Zurich",
+        "the Friedrich Miescher Institute for Biomedical Research"
+      ],
+      "locations": [
+        "Basel",
+        "Hungary"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "HDAC6",
+        "RNA",
+        "Ari Helenius",
+        "Helenius",
+        "Viruses Disguised As Waste",
+        "first",
+        "the ETH Zurich",
+        "the Friedrich Miescher Institute for Biomedical Research",
+        "Basel",
+        "the Biological Research Center"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Capsid cracked open like a nut",
+          "Capsid cracked open like a nut",
+          "Tricking the waste pickup and disposal system",
+          "Quick mutations",
+          "Stopping waste labels from binding"
+        ],
+        "content_length": 6089
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Tamiflu",
+        "ETH",
+        "the ETH Zurich",
+        "Schneider C",
+        "ERC",
+        "Helenius A",
+        "Indranil Banerjee",
+        "Kopf M",
+        "the Friedrich Miescher Institute for Biomedical Research",
+        "Nobs SP",
+        "2014",
+        "RNA",
+        "Banerjee",
+        "Yamauchi",
+        "Ari Helenius",
+        "EU",
+        "Yohei Yamauchi",
+        "Viruses Disguised As Waste",
+        "HDAC6",
+        "Yamauchi Y. Influenza",
+        "the Biological Research Center",
+        "ETH Zurich",
+        "Helenius"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "HDAC6",
+        "who",
+        "Science",
+        "10.1126",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Ari Helenius_has_role_researcher",
+        "Ari Helenius_has_role_head",
+        "Ari Helenius_has_role_professor",
+        "ETH Zurich_has_role_researcher",
+        "Yamauchi_has_role_professor",
+        "Yohei Yamauchi_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology"
+      ]
+    }
+  }
+}

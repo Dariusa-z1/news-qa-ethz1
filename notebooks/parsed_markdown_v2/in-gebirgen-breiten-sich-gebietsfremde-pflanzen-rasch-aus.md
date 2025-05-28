@@ -1,0 +1,40 @@
+# in-gebirgen-breiten-sich-gebietsfremde-pflanzen-rasch-aus.html
+
+**Source:** de_news_events/2023/01/in-gebirgen-breiten-sich-gebietsfremde-pflanzen-rasch-aus.html
+
+## Invasive Pflanzen füllen ihre Nische
+
+Viele Gebirge sind naturnahe und durch den Menschen wenig beeinträchtigte Lebensräume. Sie beherbergen viele, teilweise hoch spezialisierte und endemische Tier- und Pflanzenarten. Auch von Invasionen durch gebietsfremde Pflanzenarten (Neophyten) sind Gebirge bisher weitgehend verschont geblieben.
+
+Doch nun zeigt eine neue Studie, dass der Druck von Neophyten auf Gebirge und ihre einmalige Vegetation weltweit steigt: Die Invasion von gebietsfremden Pflanzen in höhere Lagen hat in vielen Gebirgen der Erde zwischen 2007 und 2017 zugenommen. Die Studie unter Federführung der ETH Zürich ist soeben in der Fachzeitschrift Nature Ecology & Evolution erschienen.
+
+Die Forscher stellten fest, dass die Zahl der untersuchten gebietsfremden Pflanzenarten in jeder Region innerhalb von zehn Jahren im weltweiten Durchschnitt um 16 Prozent zugenommen hat. Zudem trafen die Wissenschaftler:innen in zehn von elf Untersuchungsgebieten Neophyten in deutlich grösseren Höhen an als noch vor zehn oder sogar fünf Jahren.
+
+## Invasive Pflanzen füllen ihre Nische
+
+Dass die Neophyten höher oben vorkommen, hat Erstautorin Evelin Iseli vom Institut für Integrative Biologie der ETH Zürich indes nicht überrascht. «Erstaunt waren wir aber, dass sich diese Pflanzen so schnell ausbreiten und dass die Zahl der gebietsfremden Arten innerhalb eines Jahrzehnts so stark gestiegen ist», sagt die Doktorandin. «Normalerweise dauert es mehrere Jahrzehnte, bis sich Arten in einem Gebiet etablieren und weit verbreiten können.»
+
+Dem Klimawandel könne dieser Trend jedoch nicht zugeschrieben werden. Gebietsfremde Pflanzen werden in der Regel im Tiefland eingeführt. Von da breiten sie sich so lange in höhere Lagen aus, bis es ihnen zu kalt wird, um sich fortzupflanzen. Die Neophyten besiedeln also lediglich die Nischen, die ihren klimatischen Vorlieben entsprechen. «Die Pflanzen schaffen dies auch ohne die Erderwärmung», betont Iseli.
+
+Zwar habe sich das Klima in einigen Gebieten während des Untersuchungszeitraums erwärmt. Die Temperaturzunahme deckt sich jedoch nicht mit dem Ausmass der Ausbreitung der Neophyten. «Steigende Temperaturen schaffen aber die Grundlage dafür, dass diese Arten künftig noch weiter hochsteigen können, weil sich ihre ökologische Nische ebenfalls nach oben verschiebt.»
+
+## Strassenränder als Einfallstor
+
+Gebietsfremde Pflanzen werden oft vom Menschen willentlich oder unbeabsichtigt im Tiefland eingeführt und breiten sich von da in grössere Höhen aus, besonders entlang von Strassen, weshalb sich die Forschenden auf Verkehrswege konzentrieren. Entlang von Strassen haben Neophyten leichtes Spiel, weil der Mensch unter anderem deren Samen verbreitet und die natürliche Vegetation gestört ist. Die Konkurrenz mit angestammten Arten, die sich an das vorherrschende Klima angepasst haben, ist deshalb geschwächt.
+
+In intakten Gebirgslebensräumen fernab von Strassen haben biologische Invasoren hingegen einen schweren Stand, wie Iseli betont. «Ist die ursprüngliche Vegetation intakt, dauert es viel länger, bis sich Neophyten durchsetzen und ausbreiten.»
+
+## Daten aus aller Welt
+
+Die Daten, die der Studie zugrunde liegen, umfassen fast 15'000 Beobachtungen von 616 nicht einheimischen Pflanzenarten aus 651 Untersuchungsflächen und werden weltweit nach dem gleichen Vorgehen erhoben. So erfassen die Forschenden die gebietsfremden Arten in T-förmigen Untersuchungsflächen, also einen 50 Meter langen Streifen entlang von Bergstrassen sowie einem dazu senkrecht stehenden 100 Meter langen Streifen, der von der Strasse wegführt. Die Untersuchungsflächen sind in regelmässigen Höhenabständen entlang verschiedener Bergstrassen in jeder Region verteilt.
+
+Vorgenommen wurden die Vegetationsaufnahmen in Süd- und Mittel-Chile, zwei Regionen in Australien, auf Teneriffa, in der Schweiz, zwei Gebieten im Westen der USA, auf Hawaii, in Kaschmir und in Norwegen.
+
+Im Jahr 2007 wurden die Vorkommen gebietsfremder Pflanzen in sechs Gebirgsregionen erstmals erhoben, 2012 in den restlichen fünf. Alle fünf bis zehn Jahre werden die Vegetationsaufnahmen wiederholt. Die Forschenden beteiligen sich freiwillig an diesem Projekt und finanzieren es aus eigenen Mitteln.
+
+Durchgeführt wird diese Studie durch das Mountain Invasion Research Network (MIREN), das 2005 gegründet wurde. Es hat zum Ziel, die die Neuverteilung von gebietsfremden und angestammten Pflanzenarten in Berggebieten wissenschaftlich zu untersuchen und Grundlagen für den Umgang mit Neophyten zu schaffen. Von 2015 bis 2019 war Jake Alexander, Senior Scientist in der Gruppe für Pflanzenökologie der ETH Zürich, Co-Vorsitzender des Netzwerks.
+
+«Die aktuelle Studie macht klar, dass wir Überwachungsprogramme für die Biodiversität weltweit ausdehnen und Massnahmen ergreifen müssen, um mögliche negative Folgen für Gebirgsökosysteme und ihre Flora und Fauna abzuwenden», betont Alexander. «Wir müssen jetzt handeln, denn wir können regelrecht dabei zuschauen, wie sich unsere Bergwelten verändern.»
+
+Iseli E, Chisholm C, Lenoir J, et al. Rapid upwards spread of non-native plants in mountains across continents. Nature Ecology and Evolution, Jan 26 th 2023. doi: externe Seite 10.1038/s41559-022-01979-6
+

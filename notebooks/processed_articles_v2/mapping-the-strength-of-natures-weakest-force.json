@@ -1,0 +1,770 @@
+{
+  "filename": "mapping-the-strength-of-natures-weakest-force.md",
+  "original_filename": "mapping-the-strength-of-natures-weakest-force.html",
+  "source_path": "en_news_events/2023/08/mapping-the-strength-of-natures-weakest-force.html",
+  "date": "2023-08",
+  "title": "Mapping The Strength Of Natures Weakest Force",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Keeping an eye on climate change",
+      "text": "- Exploring gravity: mysteries from space. external pageExhibition stand. Institute of Geodesy and Photogrammetry, ETH.call\\_made\n\nWhen a Falcon 9 rocket took off from Vandenberg Space Force Base in California in May 2018, a spellbound Benedikt Soja was there on the ground to see it. Back then, the researcher was employed by NASA, which had joined forces with the German Research Centre for Geosciences (GFZ) to launch two satellites into space. Today, Soja is Assistant Professor of Space Geodesy in the Department of Civil, Environmental and Geomatic Engineering at ETH Zurich, where he and his team analyse data from this satellite pair. “The GRACE Follow-On mission, or GRACE-FO, is designed to map Earth’s gravity field with unprecedented accuracy,” he says. “With its help, we can track the changing pull of gravity at every point on Earth.”\n\nIt is gravity that makes objects fall to the ground and holds the Earth at a distance from the Sun that is conducive to life. Yet the pull of Earth’s gravity actually varies from place to place: our planet is not a perfect sphere, and areas of greater mass exert a stronger gravitational pull. By measuring gravity, GRACE-FO can therefore determine how mass is distributed around the planet."
+    },
+    {
+      "heading": "Keeping an eye on climate change",
+      "text": "“We’re very interested in tracking changes in Earth’s mass distribution,” says Soja. “And that’s especially true in regard to water, now that climate change is such a major issue.” Using satellite measurements, researchers can monitor melting ice sheets in Greenland or Antarctica and dwindling levels of groundwater in parts of California or India. “Even heavy rainfall is enough to cause a perceptible change in the local gravitational field, because you suddenly have all this water accumulating in one place,” Soja explains. “We’ve seen some significant changes in mass redistribution over the recent years due to climate change.”\n\nEarth’s gravitational field can also be measured from the ground, but only in certain places. “Trying to use ground-based methods to cover the entire planet, including its oceans, would be impossible,” explains Soja. That’s why measurements taken from space are so important. A satellite’s orbit is partly determined by gravity, so Earth’s gravitational pull can be calculated by simply determining the precise position of each satellite along its orbit. “This method works, but the results aren’t detailed enough for scientific purposes,” says Soja. Fortunately, more accurate information is now available from the twin satellites of the GRACE-FO mission, a follow-up to the GRACE pair of satellites that launched in 2002 and have since burned up in Earth’s atmosphere.\n\nGRACE-FO’s twin satellites follow each other in orbit around the Earth, separated by about 220 kilometres. Measuring devices on board each spacecraft constantly monitor the distance between them. As they pass over areas of greater mass concentration, the gravity anomaly causes this distance to change. On the previous GRACE mission, a microwave ranging system calculated changes in intersatellite distance with a micrometre-per-second precision. But the follow-on mission has taken this tracking performance to a whole new level: by using a laser ranging interferometer, which uses superimposed light waves of a shorter wavelength, it delivers measurements in the nanometres-per-second range."
+    },
+    {
+      "heading": "Eliminating interference",
+      "text": "However, not all the variations in a satellite’s orbit are caused by Earth’s gravity field. At an altitude of about 500 kilometres, space is not a perfect vacuum, and satellites are constantly being slowed down by atmospheric particles. Variations in solar wind can also cause changes in orbit. The decision was therefore made to equip the GRACE-FO satellites with accelerometers. “These high-precision measuring devices enable us to determine all the non-gravitational effects, so we can be confident that we’re only measuring accelerations caused by gravity,” says Soja."
+    },
+    {
+      "heading": "About",
+      "text": "He and his group are investigating the best method of processing data from the accelerometers to ensure all the unwanted signals are removed. Artificial intelligence has proved to be a great help in this context. “Using traditional methods, it’s hard to find correlations in huge volumes of data, because you may only have a sketchy knowledge of the physical processes,” says Soja. “But methods such as machine learning can spot patterns in data and therefore extract the most important information much more efficiently.” The algorithms developed by the ETH researchers have so far yielded results that are up to 20 percent more accurate than those achieved by NASA using conventional methods.\n\nThe acceleration due to gravity (g) is a measure of the strength of Earth’s gravity field, while G is the gravitational constant used in Newton’s law of universal gravitation. “Big G is the least well-known natural constant,” says Jürg Dual, Professor Emeritus of Mechanics at ETH. Scientists have been able to measure the other natural constants, such as the speed of light, with much greater precision. “The problem is that gravity is much weaker than all the other fundamental forces,” says Dual. “So it’s very difficult to determine the gravitational constant by experimental means.”"
+    },
+    {
+      "heading": "Experiments with resonance",
+      "text": "Working in what was once a military fortress in the Swiss Alps, where they are shielded from noise and variations in temperature, Dual and his research group are developing a new method of measuring the gravitational constant. “Unlike previous experiments, ours relies on a dynamic system rather than a static one,” he says. The experimental setup consists of two vacuum chambers that are mechanically isolated from each other. In one chamber, two rods rotate at a defined frequency, causing a beam in the second chamber to vibrate due to the gravitational force. Central to this experiment is the phenomenon of resonance, which amplifies the vibrations to such a degree that they can be measured by a laser interferometer. Drawing on a wealth of theoretical knowledge, the researchers can use these tiny oscillations to calculate the gravitational constant.\n\nConventional experiments still have the edge in terms of accuracy, but since the first attempts the researchers have been able to increase the precision of their measurements by a significant degree. “This is where it gets exciting, because our dynamic system allows us to explore new kinds of questions that static experiments are unable to answer,” says Dual. Contrary to expectations, might there also be some kind of mutual interaction between gravity and the other fundamental forces? And is the generally held assumption that we can’t shield gravity actually true? The ETH researchers hope to put this to the test by suspending large metal plates between the two vacuum chambers while leaving everything else unchanged. “If we see any effect, that would be pretty revolutionary,” says Dual. Indeed, such a discovery might even require us to rethink some of the models we use to describe the universe and its evolution.\n\nBenedikt Soja is Professor of Space Geodesy at the Department of Civil, Environmental and Geomatic Engineering at ETH Zurich.\n\nJürg Dual is Professor Emeritus of Mechanics and Experimental Dynamics at ETH Zurich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Strength Of Natures Weakest Force",
+        "label": "WORK_OF_ART",
+        "start": 31,
+        "end": 68
+      },
+      {
+        "text": "- Exploring",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Institute of Geodesy",
+        "label": "ORG",
+        "start": 74,
+        "end": 94
+      },
+      {
+        "text": "Photogrammetry",
+        "label": "PERSON",
+        "start": 99,
+        "end": 113
+      },
+      {
+        "text": "Falcon",
+        "label": "ORG",
+        "start": 137,
+        "end": 143
+      },
+      {
+        "text": "Vandenberg Space Force Base",
+        "label": "PERSON",
+        "start": 167,
+        "end": 194
+      },
+      {
+        "text": "California",
+        "label": "GPE",
+        "start": 198,
+        "end": 208
+      },
+      {
+        "text": "May 2018",
+        "label": "DATE",
+        "start": 212,
+        "end": 220
+      },
+      {
+        "text": "Benedikt Soja",
+        "label": "WORK_OF_ART",
+        "start": 235,
+        "end": 248
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 326,
+        "end": 330
+      },
+      {
+        "text": "the German Research Centre for Geosciences",
+        "label": "ORG",
+        "start": 361,
+        "end": 403
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 420,
+        "end": 423
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 447,
+        "end": 452
+      },
+      {
+        "text": "Soja",
+        "label": "ORG",
+        "start": 454,
+        "end": 458
+      },
+      {
+        "text": "Space Geodesy",
+        "label": "PERSON",
+        "start": 485,
+        "end": 498
+      },
+      {
+        "text": "the Department of Civil, Environmental and",
+        "label": "ORG",
+        "start": 502,
+        "end": 544
+      },
+      {
+        "text": "Geomatic Engineering",
+        "label": "ORG",
+        "start": 545,
+        "end": 565
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 569,
+        "end": 579
+      },
+      {
+        "text": "GRACE-FO",
+        "label": "ORG",
+        "start": 675,
+        "end": 683
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 704,
+        "end": 709
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 841,
+        "end": 846
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 915,
+        "end": 920
+      },
+      {
+        "text": "Sun",
+        "label": "ORG",
+        "start": 944,
+        "end": 947
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 991,
+        "end": 996
+      },
+      {
+        "text": "GRACE-FO",
+        "label": "ORG",
+        "start": 1165,
+        "end": 1173
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 46,
+        "end": 51
+      },
+      {
+        "text": "Greenland",
+        "label": "GPE",
+        "start": 257,
+        "end": 266
+      },
+      {
+        "text": "Antarctica",
+        "label": "LOC",
+        "start": 270,
+        "end": 280
+      },
+      {
+        "text": "California",
+        "label": "GPE",
+        "start": 329,
+        "end": 339
+      },
+      {
+        "text": "India",
+        "label": "GPE",
+        "start": 343,
+        "end": 348
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 502,
+        "end": 505
+      },
+      {
+        "text": "the recent years",
+        "label": "DATE",
+        "start": 594,
+        "end": 610
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 635,
+        "end": 640
+      },
+      {
+        "text": "Soja",
+        "label": "ORG",
+        "start": 846,
+        "end": 850
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 967,
+        "end": 972
+      },
+      {
+        "text": "Soja",
+        "label": "ORG",
+        "start": 1180,
+        "end": 1184
+      },
+      {
+        "text": "GRACE-FO",
+        "label": "ORG",
+        "start": 1274,
+        "end": 1282
+      },
+      {
+        "text": "GRACE",
+        "label": "ORG",
+        "start": 1311,
+        "end": 1316
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1386,
+        "end": 1391
+      },
+      {
+        "text": "GRACE-FO’s",
+        "label": "ORG",
+        "start": 1406,
+        "end": 1416
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1471,
+        "end": 1476
+      },
+      {
+        "text": "about 220 kilometres",
+        "label": "QUANTITY",
+        "start": 1491,
+        "end": 1511
+      },
+      {
+        "text": "GRACE",
+        "label": "ORG",
+        "start": 1725,
+        "end": 1730
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1835,
+        "end": 1841
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 2086,
+        "end": 2092
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 69,
+        "end": 74
+      },
+      {
+        "text": "about 500 kilometres",
+        "label": "QUANTITY",
+        "start": 110,
+        "end": 130
+      },
+      {
+        "text": "GRACE-FO",
+        "label": "ORG",
+        "start": 340,
+        "end": 348
+      },
+      {
+        "text": "Soja",
+        "label": "ORG",
+        "start": 567,
+        "end": 571
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 555,
+        "end": 558
+      },
+      {
+        "text": "up to 20 percent",
+        "label": "PERCENT",
+        "start": 608,
+        "end": 624
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 662,
+        "end": 666
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 763,
+        "end": 768
+      },
+      {
+        "text": "Newton",
+        "label": "GPE",
+        "start": 832,
+        "end": 838
+      },
+      {
+        "text": "Jürg Dual",
+        "label": "PERSON",
+        "start": 926,
+        "end": 935
+      },
+      {
+        "text": "Emeritus of Mechanics",
+        "label": "PERSON",
+        "start": 947,
+        "end": 968
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 52,
+        "end": 57
+      },
+      {
+        "text": "Alps",
+        "label": "LOC",
+        "start": 58,
+        "end": 62
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 360,
+        "end": 363
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 431,
+        "end": 434
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 444,
+        "end": 447
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 506,
+        "end": 512
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 940,
+        "end": 945
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1434,
+        "end": 1437
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1524,
+        "end": 1527
+      },
+      {
+        "text": "Benedikt Soja",
+        "label": "PERSON",
+        "start": 1784,
+        "end": 1797
+      },
+      {
+        "text": "Space Geodesy",
+        "label": "PERSON",
+        "start": 1814,
+        "end": 1827
+      },
+      {
+        "text": "the Department of Civil, Environmental and",
+        "label": "ORG",
+        "start": 1831,
+        "end": 1873
+      },
+      {
+        "text": "Geomatic Engineering",
+        "label": "ORG",
+        "start": 1874,
+        "end": 1894
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 1898,
+        "end": 1908
+      },
+      {
+        "text": "Jürg Dual",
+        "label": "PERSON",
+        "start": 1910,
+        "end": 1919
+      },
+      {
+        "text": "Experimental Dynamics",
+        "label": "ORG",
+        "start": 1959,
+        "end": 1980
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1988,
+        "end": 1994
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Benedikt Soja",
+        "Emeritus of Mechanics",
+        "Jürg Dual",
+        "Photogrammetry",
+        "Space Geodesy",
+        "Vandenberg Space Force Base"
+      ],
+      "ORG": [
+        "- Exploring",
+        "ETH",
+        "Experimental Dynamics",
+        "Falcon",
+        "GRACE",
+        "GRACE-FO",
+        "GRACE-FO’s",
+        "Geomatic Engineering",
+        "Institute of Geodesy",
+        "NASA",
+        "Soja",
+        "Sun",
+        "the Department of Civil, Environmental and",
+        "the German Research Centre for Geosciences"
+      ],
+      "LOCATION": [
+        "Alps",
+        "Antarctica",
+        "California",
+        "ETH Zurich",
+        "Earth",
+        "Greenland",
+        "India",
+        "Newton",
+        "Zurich"
+      ],
+      "DATE": [
+        "May 2018",
+        "Today",
+        "the recent years"
+      ],
+      "MISC": [
+        "Benedikt Soja",
+        "Swiss",
+        "The Strength Of Natures Weakest Force",
+        "about 220 kilometres",
+        "about 500 kilometres",
+        "first",
+        "one",
+        "second",
+        "two",
+        "up to 20 percent"
+      ]
+    },
+    "entity_counts": {
+      "Earth": 11,
+      "two": 4,
+      "Soja": 4,
+      "GRACE-FO": 4,
+      "second": 3,
+      "California": 2,
+      "Benedikt Soja": 2,
+      "NASA": 2,
+      "Space Geodesy": 2,
+      "the Department of Civil, Environmental and": 2,
+      "Geomatic Engineering": 2,
+      "ETH Zurich": 2,
+      "one": 2,
+      "GRACE": 2,
+      "ETH": 2,
+      "Jürg Dual": 2,
+      "The Strength Of Natures Weakest Force": 1,
+      "- Exploring": 1,
+      "Institute of Geodesy": 1,
+      "Photogrammetry": 1
+    },
+    "total_entities": 73,
+    "unique_entities": 41
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mapping-the-strength-of-natures-weakest-force.md",
+      "title": "En News Events/2023/08/mapping The Strength Of Natures Weakest Force",
+      "language": "en",
+      "source_path": "en_news_events/2023/08/mapping-the-strength-of-natures-weakest-force.html"
+    },
+    "temporal": {
+      "publication_date": "2023-08",
+      "mentioned_years": [
+        "2002",
+        "2018",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Benedikt Soja",
+        "Emeritus of Mechanics",
+        "Jürg Dual",
+        "Photogrammetry",
+        "Space Geodesy",
+        "Vandenberg Space Force Base"
+      ],
+      "people_with_roles": {
+        "Benedikt Soja": [
+          "professor"
+        ],
+        "Emeritus of Mechanics": [
+          "Professor",
+          "professor"
+        ],
+        "Jürg Dual": [
+          "professor"
+        ],
+        "Space Geodesy": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering",
+        "physics",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Benedikt Soja",
+        "Swiss",
+        "The Strength Of Natures Weakest Force",
+        "about 220 kilometres",
+        "about 500 kilometres",
+        "first",
+        "second",
+        "up to 20 percent"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Space Geodesy",
+        "Weakest Force",
+        "Assistant Professor",
+        "Vandenberg Space",
+        "Experimental Dynamics",
+        "The ETH",
+        "GRACE-FO",
+        "German Research",
+        "The GRACE",
+        "Swiss Alps",
+        "Of Natures",
+        "Force Base",
+        "Professor Emeritus",
+        "En News",
+        "Big G",
+        "Follow-On",
+        "The Strength",
+        "Geomatic Engineering",
+        "ETH Zurich",
+        "Benedikt Soja"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Civil",
+        "Civil"
+      ],
+      "institutions": [
+        "- Exploring",
+        "ETH",
+        "Experimental Dynamics",
+        "Falcon",
+        "GRACE",
+        "GRACE-FO",
+        "GRACE-FO’s",
+        "Geomatic Engineering",
+        "Institute of Geodesy",
+        "NASA",
+        "Soja",
+        "Sun",
+        "the Department of Civil, Environmental and",
+        "the German Research Centre for Geosciences"
+      ],
+      "locations": [
+        "Alps",
+        "Antarctica",
+        "California",
+        "ETH Zurich",
+        "Earth",
+        "Greenland",
+        "India",
+        "Newton",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Earth",
+        "two",
+        "Soja",
+        "GRACE-FO",
+        "second",
+        "California",
+        "Benedikt Soja",
+        "NASA",
+        "Space Geodesy",
+        "the Department of Civil, Environmental and"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Keeping an eye on climate change",
+          "Keeping an eye on climate change",
+          "Eliminating interference",
+          "About",
+          "Experiments with resonance"
+        ],
+        "content_length": 7269
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Space Geodesy",
+        "Emeritus of Mechanics",
+        "2023",
+        "ERC",
+        "2002",
+        "2018",
+        "the Department of Civil, Environmental and",
+        "Falcon",
+        "Photogrammetry",
+        "Sun",
+        "Experimental Dynamics",
+        "Soja",
+        "Vandenberg Space Force Base",
+        "NASA",
+        "GRACE-FO",
+        "Institute of Geodesy",
+        "GRACE",
+        "the German Research Centre for Geosciences",
+        "Jürg Dual",
+        "- Exploring",
+        "Geomatic Engineering",
+        "GRACE-FO’s",
+        "Benedikt Soja"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "engineering",
+        "about 220 kilometres",
+        "The Strength Of Natures Weakest Force",
+        "who",
+        "what",
+        "about 500 kilometres",
+        "how",
+        "computer_science",
+        "climate_change",
+        "physics",
+        "first",
+        "Swiss",
+        "up to 20 percent",
+        "second",
+        "why",
+        "where",
+        "Benedikt Soja"
+      ],
+      "graph_relations": [
+        "Benedikt Soja_has_role_professor",
+        "Emeritus of Mechanics_has_role_Professor",
+        "Emeritus of Mechanics_has_role_professor",
+        "Jürg Dual_has_role_professor",
+        "Space Geodesy_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

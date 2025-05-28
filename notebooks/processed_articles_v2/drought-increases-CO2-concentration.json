@@ -1,0 +1,519 @@
+{
+  "filename": "drought-increases-CO2-concentration.md",
+  "original_filename": "drought-increases-CO2-concentration.html",
+  "source_path": "en_news_events/2018/08/drought-increases-CO2-concentration.html",
+  "date": "2018-08",
+  "title": "Drought Increases Co2 Concentration",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Using satellites to measure droughts",
+      "text": "Land ecosystems absorb on average 30% of anthropogenic CO 2 emissions, thereby tempering the increase of CO 2 concentration in the atmosphere. But plants need water to grow. When a drought occurs and soils dry out, plants reduce photosynthesis and breathe less in order to save water and preserve their tissues. As a consequence, they are no longer able to capture carbon dioxide from the surrounding air and more CO 2 remains in the air. While this effect can be easily observed in the lab, measuring its impact on the whole planet has proved quite difficult. One of the greatest challenges has been to measure where and how often droughts occur globally. In a new study, Vincent Humphrey, climate researcher in the lab of Sonia Seneviratne, Professor for Land-Climate Dynamics at ETH Zurich, used innovative satellite technology to measure the global sensitivity of ecosystems to water stress. The study was carried out in collaboration with the Laboratoire des Sciences du Climat et de l'Environnement (France) and the University of Exeter (United Kingdom)."
+    },
+    {
+      "heading": "Using satellites to measure droughts",
+      "text": "Plants are usually able to access water deep in the soil through their roots. However, conventional satellites only see what happens at the surface and cannot measure how much water is available underground. In the last few years, a new type of satellite mission has been used to measure extremely small changes in the Earth’s gravity field. It was found that some small perturbations of the gravity field are caused by changes in water storage. When there is a major drought in a given region, there is less water mass and gravity is consequently slightly weaker over that region. Such variations are so small that they are imperceptible to humans. But by measuring them with satellites, scientists are able to estimate large-scale changes in water storage to an accuracy of about four centimetres everywhere on the planet."
+    },
+    {
+      "heading": "A faster rise in drier years",
+      "text": "Using these new satellite observations of water storage, Vincent Humphrey and his colleagues were able to measure the overall impact of droughts on photosynthesis and ecosystem respiration. They compared year-to-year changes in total water mass over all continents against global measurements of CO 2 increase in the atmosphere. They found that during the driest years such as 2015, natural ecosystems removed about 30% percent less carbon from the atmosphere than during a normal year. As a result, the concentration of CO 2 in the atmosphere increased faster in 2015 compared to normal years. At the other end of the scale, during the wettest year on record in 2011, CO 2 concentrations increased at a much slower rate due to healthy vegetation. These results help us understand why atmospheric CO 2 growth can vary a lot from one year to the other, even though CO 2 emissions from human activities are comparatively stable."
+    },
+    {
+      "heading": "Crucial for monitoring emissions",
+      "text": "During the last century, the concentration of CO 2 in the atmosphere has been steadily increasing because of human activities. “Now that most countries around the world have agreed they should limit CO 2 emissions, we are facing the challenge of monitoring human CO 2 emissions to a level of accuracy higher than ever before,” says Vincent Humphrey. In order to precisely evaluate the impact of climate policies, researchers must first develop vegetation models that can quantify and predict the perturbations introduced each year by natural ecosystems. “Thanks to our new results, we can now prove that the effects of droughts are stronger than has so far been estimated by vegetation models,” emphasises Sonia Seneviratne. Ultimately, these observations will be integrated into the next generation of models. They should improve the ability to track CO 2 emissions and verify that they meet the targets set in international climate agreements.\n\nHumphrey V, Zscheischler J, Ciais P, Gudmundsson L, Sitch S, Seneviratne SI: Sensitivity of atmospheric CO 2 growth rate to observed changes in terrestrial water storage. Nature, 30 August 2018. doi: 10.1038/s41586-018-0424-4"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "30%",
+        "label": "PERCENT",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "CO 2 concentration",
+        "label": "LAW",
+        "start": 105,
+        "end": 123
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 561,
+        "end": 564
+      },
+      {
+        "text": "Vincent Humphrey",
+        "label": "PERSON",
+        "start": 673,
+        "end": 689
+      },
+      {
+        "text": "Sonia Seneviratne",
+        "label": "PERSON",
+        "start": 724,
+        "end": 741
+      },
+      {
+        "text": "Land-Climate Dynamics",
+        "label": "ORG",
+        "start": 757,
+        "end": 778
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 782,
+        "end": 792
+      },
+      {
+        "text": "the Laboratoire des Sciences du Climat et de l'Environnement",
+        "label": "ORG",
+        "start": 944,
+        "end": 1004
+      },
+      {
+        "text": "France",
+        "label": "GPE",
+        "start": 1006,
+        "end": 1012
+      },
+      {
+        "text": "the University of Exeter",
+        "label": "ORG",
+        "start": 1018,
+        "end": 1042
+      },
+      {
+        "text": "United Kingdom",
+        "label": "GPE",
+        "start": 1044,
+        "end": 1058
+      },
+      {
+        "text": "the last few years",
+        "label": "DATE",
+        "start": 211,
+        "end": 229
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 319,
+        "end": 324
+      },
+      {
+        "text": "about four",
+        "label": "CARDINAL",
+        "start": 776,
+        "end": 786
+      },
+      {
+        "text": "Vincent Humphrey",
+        "label": "PERSON",
+        "start": 57,
+        "end": 73
+      },
+      {
+        "text": "year-to-year",
+        "label": "DATE",
+        "start": 204,
+        "end": 216
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 296,
+        "end": 300
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 363,
+        "end": 368
+      },
+      {
+        "text": "about 30% percent",
+        "label": "PERCENT",
+        "start": 410,
+        "end": 427
+      },
+      {
+        "text": "a normal year",
+        "label": "DATE",
+        "start": 472,
+        "end": 485
+      },
+      {
+        "text": "CO 2",
+        "label": "PRODUCT",
+        "start": 521,
+        "end": 525
+      },
+      {
+        "text": "normal years",
+        "label": "DATE",
+        "start": 581,
+        "end": 593
+      },
+      {
+        "text": "the wettest year",
+        "label": "DATE",
+        "start": 633,
+        "end": 649
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 669,
+        "end": 673
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 797,
+        "end": 801
+      },
+      {
+        "text": "one year",
+        "label": "DATE",
+        "start": 829,
+        "end": 837
+      },
+      {
+        "text": "the last century",
+        "label": "DATE",
+        "start": 7,
+        "end": 23
+      },
+      {
+        "text": "CO 2",
+        "label": "PRODUCT",
+        "start": 46,
+        "end": 50
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 199,
+        "end": 203
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 263,
+        "end": 267
+      },
+      {
+        "text": "Vincent Humphrey",
+        "label": "PERSON",
+        "start": 332,
+        "end": 348
+      },
+      {
+        "text": "each year",
+        "label": "DATE",
+        "start": 521,
+        "end": 530
+      },
+      {
+        "text": "Sonia Seneviratne",
+        "label": "PERSON",
+        "start": 706,
+        "end": 723
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 852,
+        "end": 856
+      },
+      {
+        "text": "Humphrey V",
+        "label": "PERSON",
+        "start": 946,
+        "end": 956
+      },
+      {
+        "text": "Ciais P",
+        "label": "PERSON",
+        "start": 974,
+        "end": 981
+      },
+      {
+        "text": "Gudmundsson L",
+        "label": "ORG",
+        "start": 983,
+        "end": 996
+      },
+      {
+        "text": "Sitch S",
+        "label": "ORG",
+        "start": 998,
+        "end": 1005
+      },
+      {
+        "text": "Seneviratne SI: Sensitivity",
+        "label": "PERSON",
+        "start": 1007,
+        "end": 1034
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 1050,
+        "end": 1054
+      },
+      {
+        "text": "30 August 2018",
+        "label": "DATE",
+        "start": 1125,
+        "end": 1139
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1146,
+        "end": 1153
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ciais P",
+        "Humphrey V",
+        "Seneviratne SI: Sensitivity",
+        "Sonia Seneviratne",
+        "Vincent Humphrey"
+      ],
+      "ORG": [
+        "CO 2",
+        "ETH Zurich",
+        "Gudmundsson L",
+        "Land-Climate Dynamics",
+        "Sitch S",
+        "the Laboratoire des Sciences du Climat et de l'Environnement",
+        "the University of Exeter"
+      ],
+      "LOCATION": [
+        "Earth",
+        "France",
+        "United Kingdom"
+      ],
+      "DATE": [
+        "30 August 2018",
+        "a normal year",
+        "each year",
+        "normal years",
+        "one year",
+        "the last century",
+        "the last few years",
+        "the wettest year",
+        "year-to-year",
+        "years"
+      ],
+      "MISC": [
+        "10.1038",
+        "30%",
+        "CO 2",
+        "CO 2 concentration",
+        "One",
+        "about 30% percent",
+        "about four"
+      ]
+    },
+    "entity_counts": {
+      "CO 2": 9,
+      "Vincent Humphrey": 3,
+      "Sonia Seneviratne": 2,
+      "30%": 1,
+      "CO 2 concentration": 1,
+      "One": 1,
+      "Land-Climate Dynamics": 1,
+      "ETH Zurich": 1,
+      "the Laboratoire des Sciences du Climat et de l'Environnement": 1,
+      "France": 1,
+      "the University of Exeter": 1,
+      "United Kingdom": 1,
+      "the last few years": 1,
+      "Earth": 1,
+      "about four": 1,
+      "year-to-year": 1,
+      "years": 1,
+      "about 30% percent": 1,
+      "a normal year": 1,
+      "normal years": 1
+    },
+    "total_entities": 42,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "drought-increases-CO2-concentration.md",
+      "title": "En News Events/2018/08/drought Increases Co2 Concentration",
+      "language": "en",
+      "source_path": "en_news_events/2018/08/drought-increases-CO2-concentration.html"
+    },
+    "temporal": {
+      "publication_date": "2018-08",
+      "mentioned_years": [
+        "2011",
+        "2015",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Ciais P",
+        "Humphrey V",
+        "Seneviratne SI: Sensitivity",
+        "Sonia Seneviratne",
+        "Vincent Humphrey"
+      ],
+      "people_with_roles": {
+        "Sonia Seneviratne": [
+          "researcher",
+          "professor"
+        ],
+        "Vincent Humphrey": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "CO 2",
+        "CO 2 concentration",
+        "about 30% percent",
+        "about four"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Gudmundsson L",
+        "Land-Climate",
+        "Vincent Humphrey",
+        "En News",
+        "Humphrey V",
+        "United Kingdom",
+        "Sitch S",
+        "Seneviratne SI",
+        "Zscheischler J",
+        "Sonia Seneviratne",
+        "Concentration Land",
+        "Ciais P",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CO 2",
+        "ETH Zurich",
+        "Gudmundsson L",
+        "Land-Climate Dynamics",
+        "Sitch S",
+        "the Laboratoire des Sciences du Climat et de l'Environnement",
+        "the University of Exeter"
+      ],
+      "locations": [
+        "Earth",
+        "France",
+        "United Kingdom"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "CO 2",
+        "Vincent Humphrey",
+        "Sonia Seneviratne",
+        "30%",
+        "CO 2 concentration",
+        "One",
+        "Land-Climate Dynamics",
+        "ETH Zurich",
+        "the Laboratoire des Sciences du Climat et de l'Environnement",
+        "France"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Using satellites to measure droughts",
+          "Using satellites to measure droughts",
+          "A faster rise in drier years",
+          "Crucial for monitoring emissions"
+        ],
+        "content_length": 4044
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Laboratoire des Sciences du Climat et de l'Environnement",
+        "Gudmundsson L",
+        "Land-Climate Dynamics",
+        "Vincent Humphrey",
+        "2015",
+        "2018",
+        "2011",
+        "Seneviratne SI: Sensitivity",
+        "the University of Exeter",
+        "Humphrey V",
+        "Sitch S",
+        "Sonia Seneviratne",
+        "Ciais P",
+        "ETH Zurich",
+        "ERC",
+        "CO 2"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "CO 2 concentration",
+        "about 30% percent",
+        "about four",
+        "10.1038",
+        "chemistry",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "where",
+        "CO 2"
+      ],
+      "graph_relations": [
+        "Sonia Seneviratne_has_role_researcher",
+        "Sonia Seneviratne_has_role_professor",
+        "Vincent Humphrey_has_role_researcher",
+        "Vincent Humphrey_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

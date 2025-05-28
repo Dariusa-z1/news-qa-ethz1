@@ -1,0 +1,481 @@
+{
+  "filename": "generating-clean-electricity-with-chicken-feathers.md",
+  "original_filename": "generating-clean-electricity-with-chicken-feathers.html",
+  "source_path": "en_news_events/2023/10/generating-clean-electricity-with-chicken-feathers.html",
+  "date": "2023-10",
+  "title": "Generating Clean Electricity With Chicken Feathers",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- Annually, 40 million tons of chicken feathers are incinerated, causing adverse environmental effects.\n\n- Researchers have recently developed a method to repurpose this industrial waste.\n\n- They use the keratin found in chicken feathers to create an environmentally friendly and cost-effective membrane for fuel cells."
+    },
+    {
+      "heading": "Making good use of industrial waste",
+      "text": "The food industry generates enormous amounts of waste and by-products, including from poultry production. Each year, some 40 million tonnes of chicken feathers are incinerated. This not only releases large amounts of CO 2 , but also produces toxic gases such as sulphur dioxide.\n\nResearchers at ETH Zurich and Nanyang Technological University Singapore (NTU) have now found a way to put these feathers to good use. Using a simple and environmentally friendly process, they extract the protein keratin from the feathers and convert it into ultra-fine fibres known as amyloid fibrils. These keratin fibrils go on to be used in the membrane of a fuel cell.\n\nFuel cells generate CO 2 -free electricity from hydrogen and oxygen, releasing only heat and water. They could play an important role as a sustainable energy source in the future. At the heart of every fuel cell lies a semipermeable membrane. It allows protons to pass through but blocks electrons, forcing them to flow through an external circuit from the negatively charged anode to the positively charged cathode, thereby producing an electric current."
+    },
+    {
+      "heading": "Making good use of industrial waste",
+      "text": "In conventional fuel cells, these membranes have so far been made using highly toxic chemicals, or “forever chemicals”, which are expensive and don’t break down in the environment. The membrane developed by the ETH and NTU researchers, on the other hand, consists mainly of biological keratin, which is environmentally compatible and available in large quantities – chicken feathers are 90 percent keratin. This means the membrane manufactured in the laboratory is already up to three times cheaper than conventional membranes.\n\n“I’ve devoted a number of years to researching different ways we can use food waste for renewable energy systems,” says Raffaele Mezzenga, Professor of Food and Soft Materials at ETH Zurich. “Our latest development closes a cycle: we’re taking a substance that releases CO 2 and toxic gases when burned and used it in a different setting: with our new technology it not only replaces toxic substances, but also prevents the release of CO 2 , decreasing the overall carbon footprint cycle”, Mezzenga says."
+    },
+    {
+      "heading": "Versatile application",
+      "text": "However, there are further challenges to overcome before hydrogen can become established as a sustainable energy source. “Hydrogen is the most abundant element in the universe – just unfortunately not on Earth,” Mezzenga says. Since hydrogen doesn’t occur here in its pure form, it has to be produced, which requires a great deal of energy. Here, too, the new membrane could serve well in the future, because it can be used not only in fuel cells but also in water splitting.\n\nIn a process known as electrolysis, direct current is passed through water, causing oxygen to form at the (this time) positively charged anode, while hydrogen escapes at the negatively charged cathode. Pure water isn’t conductive enough for this process and often requires the addition of acids. The new membrane, however, is permeable to protons and thus enables the particle migration between anode and cathode necessary for efficient water splitting, even in pure water."
+    },
+    {
+      "heading": "Patent pending",
+      "text": "The researchers’ next step will be to investigate how stable and durable their keratin membrane is, and to improve it if necessary. The research team has already filed a joint patent for the membrane and is now looking for investors or companies to develop the technology further and bring it to market.\n\nSoon WL, Peydayesh M, de Wild T, Donat F, Saran R, Müller CR, Gubler L, Mezzenga R, Miserez A: Renewable Energy from Livestock Waste Valorization: Amyloid-Based Feather Keratin Fuel Cells. ACS Appl. Mater. Interfaces, September 26, 2023, doi: 10.1021/acsami.3c10218"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Clean Electricity With Chicken Feathers",
+        "label": "ORG",
+        "start": 34,
+        "end": 73
+      },
+      {
+        "text": "40 million tons",
+        "label": "QUANTITY",
+        "start": 12,
+        "end": 27
+      },
+      {
+        "text": "Each year",
+        "label": "DATE",
+        "start": 106,
+        "end": 115
+      },
+      {
+        "text": "some 40 million tonnes",
+        "label": "QUANTITY",
+        "start": 117,
+        "end": 139
+      },
+      {
+        "text": "CO 2",
+        "label": "PRODUCT",
+        "start": 217,
+        "end": 221
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 294,
+        "end": 304
+      },
+      {
+        "text": "Nanyang Technological University Singapore",
+        "label": "ORG",
+        "start": 309,
+        "end": 351
+      },
+      {
+        "text": "NTU",
+        "label": "ORG",
+        "start": 353,
+        "end": 356
+      },
+      {
+        "text": "CO 2",
+        "label": "PRODUCT",
+        "start": 673,
+        "end": 677
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 211,
+        "end": 214
+      },
+      {
+        "text": "NTU",
+        "label": "ORG",
+        "start": 219,
+        "end": 222
+      },
+      {
+        "text": "90 percent",
+        "label": "PERCENT",
+        "start": 387,
+        "end": 397
+      },
+      {
+        "text": "up to three",
+        "label": "CARDINAL",
+        "start": 473,
+        "end": 484
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 554,
+        "end": 559
+      },
+      {
+        "text": "Raffaele Mezzenga",
+        "label": "PERSON",
+        "start": 648,
+        "end": 665
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 707,
+        "end": 717
+      },
+      {
+        "text": "CO 2",
+        "label": "PRODUCT",
+        "start": 798,
+        "end": 802
+      },
+      {
+        "text": "CO 2",
+        "label": "PRODUCT",
+        "start": 963,
+        "end": 967
+      },
+      {
+        "text": "Mezzenga",
+        "label": "PERSON",
+        "start": 1018,
+        "end": 1026
+      },
+      {
+        "text": "Hydrogen",
+        "label": "ORG",
+        "start": 122,
+        "end": 130
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 204,
+        "end": 209
+      },
+      {
+        "text": "Mezzenga",
+        "label": "PERSON",
+        "start": 212,
+        "end": 220
+      },
+      {
+        "text": "anode",
+        "label": "ORG",
+        "start": 871,
+        "end": 876
+      },
+      {
+        "text": "Donat F",
+        "label": "PERSON",
+        "start": 337,
+        "end": 344
+      },
+      {
+        "text": "Saran",
+        "label": "ORG",
+        "start": 346,
+        "end": 351
+      },
+      {
+        "text": "Müller CR",
+        "label": "PERSON",
+        "start": 355,
+        "end": 364
+      },
+      {
+        "text": "Gubler L",
+        "label": "ORG",
+        "start": 366,
+        "end": 374
+      },
+      {
+        "text": "Mezzenga",
+        "label": "PERSON",
+        "start": 376,
+        "end": 384
+      },
+      {
+        "text": "Miserez",
+        "label": "PERSON",
+        "start": 388,
+        "end": 395
+      },
+      {
+        "text": "ACS Appl",
+        "label": "PERSON",
+        "start": 493,
+        "end": 501
+      },
+      {
+        "text": "Mater",
+        "label": "PERSON",
+        "start": 503,
+        "end": 508
+      },
+      {
+        "text": "September 26, 2023",
+        "label": "DATE",
+        "start": 522,
+        "end": 540
+      },
+      {
+        "text": "10.1021",
+        "label": "CARDINAL",
+        "start": 547,
+        "end": 554
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ACS Appl",
+        "Donat F",
+        "Mater",
+        "Mezzenga",
+        "Miserez",
+        "Müller CR",
+        "Raffaele Mezzenga"
+      ],
+      "ORG": [
+        "Clean Electricity With Chicken Feathers",
+        "ETH",
+        "ETH Zurich",
+        "Gubler L",
+        "Hydrogen",
+        "NTU",
+        "Nanyang Technological University Singapore",
+        "Saran",
+        "anode"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Earth"
+      ],
+      "DATE": [
+        "Each year",
+        "September 26, 2023",
+        "years"
+      ],
+      "MISC": [
+        "10.1021",
+        "40 million tons",
+        "90 percent",
+        "CO 2",
+        "some 40 million tonnes",
+        "up to three"
+      ]
+    },
+    "entity_counts": {
+      "CO 2": 4,
+      "Mezzenga": 3,
+      "ETH Zurich": 2,
+      "NTU": 2,
+      "Clean Electricity With Chicken Feathers": 1,
+      "40 million tons": 1,
+      "Each year": 1,
+      "some 40 million tonnes": 1,
+      "Nanyang Technological University Singapore": 1,
+      "ETH": 1,
+      "90 percent": 1,
+      "up to three": 1,
+      "years": 1,
+      "Raffaele Mezzenga": 1,
+      "Hydrogen": 1,
+      "Earth": 1,
+      "anode": 1,
+      "Donat F": 1,
+      "Saran": 1,
+      "Müller CR": 1
+    },
+    "total_entities": 33,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "generating-clean-electricity-with-chicken-feathers.md",
+      "title": "En News Events/2023/10/generating Clean Electricity With Chicken Feathers",
+      "language": "en",
+      "source_path": "en_news_events/2023/10/generating-clean-electricity-with-chicken-feathers.html"
+    },
+    "temporal": {
+      "publication_date": "2023-10",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ACS Appl",
+        "Donat F",
+        "Mater",
+        "Mezzenga",
+        "Miserez",
+        "Müller CR",
+        "Raffaele Mezzenga"
+      ],
+      "people_with_roles": {
+        "Mater": [
+          "professor"
+        ],
+        "Mezzenga": [
+          "professor"
+        ],
+        "Raffaele Mezzenga": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1021",
+        "40 million tons",
+        "90 percent",
+        "CO 2",
+        "some 40 million tonnes",
+        "up to three"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Saran R",
+        "Livestock Waste",
+        "ACS Appl",
+        "Miserez A",
+        "Nanyang Technological",
+        "Mezzenga R",
+        "Renewable Energy",
+        "University Singapore",
+        "Peydayesh M",
+        "Soft Materials",
+        "Donat F",
+        "Soon WL",
+        "Raffaele Mezzenga",
+        "Fuel Cells",
+        "Gubler L",
+        "With Chicken",
+        "Clean Electricity",
+        "Amyloid-Based",
+        "Wild T",
+        "En News",
+        "ETH Zurich",
+        "Feather Keratin"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Clean Electricity With Chicken Feathers",
+        "ETH",
+        "ETH Zurich",
+        "Gubler L",
+        "Hydrogen",
+        "NTU",
+        "Nanyang Technological University Singapore",
+        "Saran",
+        "anode"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Earth"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "CO 2",
+        "Mezzenga",
+        "ETH Zurich",
+        "NTU",
+        "Clean Electricity With Chicken Feathers",
+        "40 million tons",
+        "Each year",
+        "some 40 million tonnes",
+        "Nanyang Technological University Singapore",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "In brief",
+          "Making good use of industrial waste",
+          "Making good use of industrial waste",
+          "Versatile application",
+          "Patent pending"
+        ],
+        "content_length": 4060
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Mater",
+        "ETH",
+        "Raffaele Mezzenga",
+        "Nanyang Technological University Singapore",
+        "Clean Electricity With Chicken Feathers",
+        "ACS Appl",
+        "Miserez",
+        "Gubler L",
+        "Hydrogen",
+        "Donat F",
+        "Saran",
+        "NTU",
+        "ETH Zurich",
+        "Mezzenga",
+        "ERC",
+        "Müller CR",
+        "anode",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "40 million tons",
+        "some 40 million tonnes",
+        "who",
+        "up to three",
+        "chemistry",
+        "where",
+        "10.1021",
+        "90 percent",
+        "what",
+        "how",
+        "climate_change",
+        "why",
+        "when",
+        "engineering",
+        "CO 2"
+      ],
+      "graph_relations": [
+        "Mater_has_role_professor",
+        "Mezzenga_has_role_professor",
+        "Raffaele Mezzenga_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

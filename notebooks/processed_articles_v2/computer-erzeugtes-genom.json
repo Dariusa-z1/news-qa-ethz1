@@ -1,0 +1,721 @@
+{
+  "filename": "computer-erzeugtes-genom.md",
+  "original_filename": "computer-erzeugtes-genom.html",
+  "source_path": "de_news_events/2019/03/computer-erzeugtes-genom.html",
+  "date": "2019-03",
+  "title": "Computer Erzeugtes Genom",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Herstellungsprozess rationalisiert",
+      "text": "Alle weltweit bekannten Genomsequenzen von Organismen sind in einer Datenbank des amerikanischen Zentrums für Biotechnologie-Information gespeichert. Seit heute gibt es dort einen zusätzlichen Eintrag, jenen zu Caulobacter ethensis-2.0 . Es ist das weltweit erste komplett am Computer erzeugte Genom eines Lebewesens, erstellt von Wissenschaftlern der ETH Zürich. Betonen muss man allerdings: Von C. ethensis-2.0 existiert bisher nur das Genom – reell, in Form eines Chromosoms, also eines sehr grossen DNA-Moleküls. Einen dazugehörigen Organismus gibt es noch nicht.\n\nC. ethensis-2.0 fusst auf dem Genom eines gut untersuchten und harmlosen Süsswasserbakteriums: Das Bakterium Caulobacter crescentus kommt weltweit natürlicherweise in Gewässern vor, unter anderem im Zürichsee. Krankheiten verursacht es keine. Auch ist C. crescentus ein in Forschungslabors häufig verwendeter Modellorganismus, mit dem Wissenschaftler das Leben von Bakterien erforschen. Das Genom dieses Bakteriums umfasst 4000 Gene. Wissenschaftler haben vor Jahren gezeigt, dass davon nur rund 680 essenzielle Gene zwingend benötigt werden. Bakterien mit diesem Minimalgenom sind im Labor überlebensfähig."
+    },
+    {
+      "heading": "Herstellungsprozess rationalisiert",
+      "text": "Beat Christen, Professor für experimentelle Systembiologie an der ETH Zürich, und sein Bruder Matthias Christen, Chemiker an der ETH Zürich, nahmen dieses Minimalgenom von C. crescentus als Ausgangspunkt. Sie setzten sich zum Ziel, dieses als zusammenhängendes Chromosom von Grund auf chemisch zu synthetisieren. Eine solche Aufgabe war bisher mit einem immensen Aufwand verbunden: Für das vom amerikanischen Genetikpionier Craig Venter vor elf Jahren präsentierten chemisch synthetisierten bakteriellen Genom arbeiteten laut Medienberichten 20 Wissenschaftler während zehn Jahren. Die Projektkosten sollen 40 Millionen Dollar betragen haben.\n\nWährend Venter sein bakterielles Genom 1:1 kopierte, veränderten die ETH-Forscher ihr Genom bewusst mithilfe eines Computeralgorithmus wesentlich, einerseits um es sehr viel einfacher herstellen zu können, andererseits um damit grundlegenden Fragen der Biologie nachgehen zu können.\n\nUm ein so grosses DNA-Molekül wie ein Bakteriengenom herzustellen, müssen Wissenschaftler schrittweise vorgehen. Im Fall des Caulobacter -Genoms synthetisierten die ETH-Wissenschaftler 236 Genom-Teilstücke, welche sie anschliessend zusammensetzen. «Nicht immer ist die Synthese dieser Teilstücke einfach», erklärt Matthias Christen. «Denn DNA-Moleküle haben nicht nur die Fähigkeit, sich an andere DNA-Moleküle zu heften, sie können je nach Bausteinabfolge auch Schlaufen und Knäuel mit sich selbst bilden, was die Herstellung erschweren oder verunmöglichen kann.»"
+    },
+    {
+      "heading": "Vereinfachte DNA-Sequenz",
+      "text": "Um die Genom-Teilstücke möglichst einfach synthetisieren und um die Teilstücke anschliessend möglichst rationell zusammenfügen zu können, haben die Wissenschaftler die Genomsequenz vereinfacht, ohne dabei die eigentliche genetische Information (auf der Ebene der Proteine) zu verändern. Spielraum für Genom-Vereinfachungen ist vorhanden, weil die Biologie beim Speichern genetischer Information Redundanzen kennt. Beispielsweise gibt es für viele Proteinbausteine (Aminosäuren) zwei, vier oder noch mehr genetische Möglichkeiten, um die Proteinbaustein-Information zu definieren.\n\nDer von den ETH-Wissenschaftlern entwickelte Algorithmus nützt diesen Spielraum optimal aus. Mit ihm berechneten die Forscher die für Synthese und Zusammenbau ideale DNA-Sequenz, welche sie für ihre Arbeit schliesslich auch benutzten.\n\nDies führte dazu, dass die Wissenschaftler in der DNA-Baustein-Abfolge des Minimalgenoms sehr viele winzige Änderungen vornahmen, die in ihrer Gesamtheit jedoch beträchtlich sind: Mehr als ein Sechstel aller 800'000 DNA-Bausteine sind im künstlichen Genom gegenüber dem «natürlichen» Minimalgenom verändert. «In unserem Genom ist die Abfolge der DNA-Bausteine neu und gegenüber der ursprünglichen Abfolge nicht mehr wiederzuerkennen, die biologische Funktion auf Ebene der Proteine bleibt jedoch dieselbe», sagt Beat Christen."
+    },
+    {
+      "heading": "Lackmustest für die Genetik",
+      "text": "Das umgeschriebene Genom ist auch biologisch interessant. «Unsere Methode ist ein Lackmustest um zu überprüfen, ob wir Biologen die Genetik richtig verstanden haben, und sie erlaubt uns, allfällige Wissenslücken zu entdecken», erklärt Beat Christen. Denn in dem umgeschriebenen Genom ist zwangsläufig nur Information enthalten, welche die Forscher auch verstanden haben. Allfällige zusätzliche in der DNA-Sequenz «versteckte» und von der Wissenschaft noch nicht verstandene Information wäre durch die Neucodierung verloren gegangen.\n\nZu Testzwecken stellten die Wissenschaftler Bakterienstämme her, welche sowohl das natürliche Caulobacter -Genom als auch Teilbereiche des neuen künstlichen Genoms enthalten. Indem die Forscher in diesen Bakterien einzelne natürliche Gene funktionsunfähig machten, konnten sie die Funktion der künstlichen Gene überprüfen. Sie testeten in mehreren Schritten jedes der künstlichen Gene.\n\nIn diesen Experimenten fanden die Forscher, dass nur rund 580 der 680 künstlichen Gene funktionsfähig sind. «Mit dem gewonnenen Wissen wird es uns jedoch möglich sein, unseren Algorithmus zu verbessern und eine voll funktionsfähige Genom-Version 3.0 zu entwickeln», sagt Beat Christen."
+    },
+    {
+      "heading": "Grosses Potenzial in der Biotechnologie",
+      "text": "«Auch wenn die derzeitige Genom-Version noch nicht perfekt ist, so zeigt unsere Arbeit dennoch, dass biologische Systeme so einfach aufgebaut sind, dass wir sie in Zukunft am Computer nach unseren Zwecken definieren und anschliessend bauen können», sagt Matthias Christen. Und dies auf vergleichbar einfache Weise, wie Beat Christen betont: «Was mit Craig Venters Technologie zehn Jahre dauerte, erreichte unsere kleine Gruppe mit unserer neuen Technologie innerhalb eines Jahres mit Herstellungskosten von 120'000 Schweizer Franken.»\n\n«Wir glauben, dass es bald auch möglich sein wird, aus einem solchen Genom funktionsfähige bakterielle Zellen herzustellen», sagt Beat Christen. Das hat ein grosses Potenzial. Zu möglichen künftigen Anwendungen gehören synthetische Mikroorganismen, die in der Biotechnologie zum Einsatz kommen könnten, etwa zur Herstellung von komplexen pharmazeutisch wirksamen Molekülen oder Vitaminen. Die Technologie ist universell auf alle Mikroorganismen anwendbar, nicht nur Caulobacter . Auch die Herstellung von Impfstoffen auf DNA-Basis ist denkbar.\n\n«So vielversprechend die Forschungsresultate und möglichen Anwendungen auch sind, verlangen sie eine tiefgreifende gesellschaftliche Diskussion darüber, zu welchen Zwecken diese Technologie angewandt werden darf, und damit verbunden, wie Missbräuche verhindert werden können», sagt Beat Christen. Noch ist unklar, wann es das erste Bakterium mit künstlichem Genom geben wird – klar ist jetzt aber, dass es entwickelt werden kann und wird. «Diese Zeit müssen wir nun für intensive Diskussionen unter Wissenschaftlern, aber auch mit der ganzen Gesellschaft nutzen. Wir sind bereit, uns hier mit unserem ganzen Wissen intensiv einzubringen.»\n\nVenetz JE, Del Medico L, Wölfle A, Schächle P, Bucher Y, Appert D, Tschan F, Flores-Tinoco CE, van Kooten M, Guennoun R, Deutsch S, Christen M, Christen B: Chemical synthesis rewriting of a bacterial genome to achieve design flexibility and biological functionality, PNAS 2019, doi: externe Seite 10.1073/pnas.1818259116"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "amerikanischen",
+        "label": "MISC",
+        "start": 82,
+        "end": 96
+      },
+      {
+        "text": "Caulobacter ethensis-2.0",
+        "label": "ORG",
+        "start": 211,
+        "end": 235
+      },
+      {
+        "text": "Genom",
+        "label": "PER",
+        "start": 294,
+        "end": 299
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 352,
+        "end": 362
+      },
+      {
+        "text": "C. ethensis-2.0",
+        "label": "PER",
+        "start": 397,
+        "end": 412
+      },
+      {
+        "text": "C. ethensis-2.0",
+        "label": "PER",
+        "start": 568,
+        "end": 583
+      },
+      {
+        "text": "Gewässern",
+        "label": "LOC",
+        "start": 735,
+        "end": 744
+      },
+      {
+        "text": "Zürichsee",
+        "label": "LOC",
+        "start": 767,
+        "end": 776
+      },
+      {
+        "text": "C. crescentus",
+        "label": "PER",
+        "start": 820,
+        "end": 833
+      },
+      {
+        "text": "Forschungslabors",
+        "label": "LOC",
+        "start": 841,
+        "end": 857
+      },
+      {
+        "text": "Jahren",
+        "label": "PER",
+        "start": 1028,
+        "end": 1034
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 66,
+        "end": 76
+      },
+      {
+        "text": "Matthias Christen",
+        "label": "PER",
+        "start": 94,
+        "end": 111
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 129,
+        "end": 139
+      },
+      {
+        "text": "amerikanischen",
+        "label": "MISC",
+        "start": 394,
+        "end": 408
+      },
+      {
+        "text": "Craig Venter",
+        "label": "PER",
+        "start": 424,
+        "end": 436
+      },
+      {
+        "text": "Venter",
+        "label": "PER",
+        "start": 651,
+        "end": 657
+      },
+      {
+        "text": "ETH-Forscher",
+        "label": "MISC",
+        "start": 712,
+        "end": 724
+      },
+      {
+        "text": "DNA-Molekül",
+        "label": "ORG",
+        "start": 944,
+        "end": 955
+      },
+      {
+        "text": "Caulobacter -Genoms",
+        "label": "ORG",
+        "start": 1051,
+        "end": 1070
+      },
+      {
+        "text": "ETH-Wissenschaftler",
+        "label": "MISC",
+        "start": 1091,
+        "end": 1110
+      },
+      {
+        "text": "Matthias Christen",
+        "label": "PER",
+        "start": 1240,
+        "end": 1257
+      },
+      {
+        "text": "DNA-Moleküle",
+        "label": "MISC",
+        "start": 1265,
+        "end": 1277
+      },
+      {
+        "text": "DNA-Moleküle",
+        "label": "MISC",
+        "start": 1324,
+        "end": 1336
+      },
+      {
+        "text": "Bausteinabfolge",
+        "label": "PER",
+        "start": 1367,
+        "end": 1382
+      },
+      {
+        "text": "Genom-Teilstücke",
+        "label": "LOC",
+        "start": 7,
+        "end": 23
+      },
+      {
+        "text": "Proteine",
+        "label": "LOC",
+        "start": 263,
+        "end": 271
+      },
+      {
+        "text": "Genom-Vereinfachungen",
+        "label": "LOC",
+        "start": 301,
+        "end": 322
+      },
+      {
+        "text": "ETH-Wissenschaftlern",
+        "label": "MISC",
+        "start": 592,
+        "end": 612
+      },
+      {
+        "text": "DNA-Sequenz",
+        "label": "MISC",
+        "start": 746,
+        "end": 757
+      },
+      {
+        "text": "DNA-Baustein-Abfolge",
+        "label": "ORG",
+        "start": 865,
+        "end": 885
+      },
+      {
+        "text": "DNA-Bausteine",
+        "label": "ORG",
+        "start": 1161,
+        "end": 1174
+      },
+      {
+        "text": "Proteine",
+        "label": "LOC",
+        "start": 1288,
+        "end": 1296
+      },
+      {
+        "text": "Unsere Methode",
+        "label": "MISC",
+        "start": 59,
+        "end": 73
+      },
+      {
+        "text": "Wissenslücken",
+        "label": "LOC",
+        "start": 198,
+        "end": 211
+      },
+      {
+        "text": "Beat Christen",
+        "label": "PER",
+        "start": 235,
+        "end": 248
+      },
+      {
+        "text": "DNA-Sequenz",
+        "label": "MISC",
+        "start": 401,
+        "end": 412
+      },
+      {
+        "text": "Bakterienstämme",
+        "label": "MISC",
+        "start": 577,
+        "end": 592
+      },
+      {
+        "text": "Caulobacter -Genom",
+        "label": "MISC",
+        "start": 627,
+        "end": 645
+      },
+      {
+        "text": "Genom-Version",
+        "label": "MISC",
+        "start": 1151,
+        "end": 1164
+      },
+      {
+        "text": "Genom-Version",
+        "label": "MISC",
+        "start": 26,
+        "end": 39
+      },
+      {
+        "text": "Matthias Christen",
+        "label": "PER",
+        "start": 254,
+        "end": 271
+      },
+      {
+        "text": "Beat Christen",
+        "label": "MISC",
+        "start": 319,
+        "end": 332
+      },
+      {
+        "text": "Craig Venters",
+        "label": "PER",
+        "start": 350,
+        "end": 363
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 515,
+        "end": 524
+      },
+      {
+        "text": "Caulobacter",
+        "label": "MISC",
+        "start": 1001,
+        "end": 1012
+      },
+      {
+        "text": "Missbräuche",
+        "label": "PER",
+        "start": 1317,
+        "end": 1328
+      },
+      {
+        "text": "Venetz JE",
+        "label": "ORG",
+        "start": 1718,
+        "end": 1727
+      },
+      {
+        "text": "Del Medico L",
+        "label": "PER",
+        "start": 1729,
+        "end": 1741
+      },
+      {
+        "text": "Wölfle A",
+        "label": "PER",
+        "start": 1743,
+        "end": 1751
+      },
+      {
+        "text": "Schächle P",
+        "label": "PER",
+        "start": 1753,
+        "end": 1763
+      },
+      {
+        "text": "Bucher Y",
+        "label": "PER",
+        "start": 1765,
+        "end": 1773
+      },
+      {
+        "text": "Appert D",
+        "label": "PER",
+        "start": 1775,
+        "end": 1783
+      },
+      {
+        "text": "Tschan F",
+        "label": "PER",
+        "start": 1785,
+        "end": 1793
+      },
+      {
+        "text": "Flores-Tinoco CE",
+        "label": "ORG",
+        "start": 1795,
+        "end": 1811
+      },
+      {
+        "text": "Deutsch S",
+        "label": "MISC",
+        "start": 1839,
+        "end": 1848
+      },
+      {
+        "text": "Christen M",
+        "label": "MISC",
+        "start": 1850,
+        "end": 1860
+      },
+      {
+        "text": "Chemical",
+        "label": "ORG",
+        "start": 1874,
+        "end": 1882
+      },
+      {
+        "text": "PNAS 2019",
+        "label": "MISC",
+        "start": 1985,
+        "end": 1994
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Appert D",
+        "Bausteinabfolge",
+        "Beat Christen",
+        "Bucher Y",
+        "C. crescentus",
+        "C. ethensis-2.0",
+        "Craig Venter",
+        "Craig Venters",
+        "De News",
+        "Del Medico L",
+        "Genom",
+        "Jahren",
+        "Matthias Christen",
+        "Missbräuche",
+        "Schächle P",
+        "Tschan F",
+        "Venter",
+        "Wölfle A"
+      ],
+      "ORG": [
+        "Caulobacter -Genoms",
+        "Caulobacter ethensis-2.0",
+        "Chemical",
+        "DNA-Baustein-Abfolge",
+        "DNA-Bausteine",
+        "DNA-Molekül",
+        "ETH Zürich",
+        "Flores-Tinoco CE",
+        "Venetz JE"
+      ],
+      "LOCATION": [
+        "Forschungslabors",
+        "Genom-Teilstücke",
+        "Genom-Vereinfachungen",
+        "Gewässern",
+        "Proteine",
+        "Wissenslücken",
+        "Zürichsee"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Bakterienstämme",
+        "Beat Christen",
+        "Caulobacter",
+        "Caulobacter -Genom",
+        "Christen M",
+        "DNA-Moleküle",
+        "DNA-Sequenz",
+        "Deutsch S",
+        "ETH-Forscher",
+        "ETH-Wissenschaftler",
+        "ETH-Wissenschaftlern",
+        "Genom-Version",
+        "PNAS 2019",
+        "Schweizer",
+        "Unsere Methode",
+        "amerikanischen"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 3,
+      "Matthias Christen": 3,
+      "amerikanischen": 2,
+      "C. ethensis-2.0": 2,
+      "DNA-Moleküle": 2,
+      "Proteine": 2,
+      "DNA-Sequenz": 2,
+      "Beat Christen": 2,
+      "Genom-Version": 2,
+      "De News": 1,
+      "Caulobacter ethensis-2.0": 1,
+      "Genom": 1,
+      "Gewässern": 1,
+      "Zürichsee": 1,
+      "C. crescentus": 1,
+      "Forschungslabors": 1,
+      "Jahren": 1,
+      "Craig Venter": 1,
+      "Venter": 1,
+      "ETH-Forscher": 1
+    },
+    "total_entities": 60,
+    "unique_entities": 49
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "computer-erzeugtes-genom.md",
+      "title": "De News Events/2019/03/computer Erzeugtes Genom",
+      "language": "de",
+      "source_path": "de_news_events/2019/03/computer-erzeugtes-genom.html"
+    },
+    "temporal": {
+      "publication_date": "2019-03",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Appert D",
+        "Bausteinabfolge",
+        "Beat Christen",
+        "Bucher Y",
+        "C. crescentus",
+        "C. ethensis-2.0",
+        "Craig Venter",
+        "Craig Venters",
+        "De News",
+        "Del Medico L",
+        "Genom",
+        "Jahren",
+        "Matthias Christen",
+        "Missbräuche",
+        "Schächle P",
+        "Tschan F",
+        "Venter",
+        "Wölfle A"
+      ],
+      "people_with_roles": {
+        "Beat Christen": [
+          "professor"
+        ],
+        "Genom": [
+          "professor"
+        ],
+        "Matthias Christen": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "Bakterienstämme",
+        "Beat Christen",
+        "Caulobacter",
+        "Caulobacter -Genom",
+        "Christen M",
+        "DNA-Moleküle",
+        "DNA-Sequenz",
+        "Deutsch S",
+        "ETH-Forscher",
+        "ETH-Wissenschaftler",
+        "ETH-Wissenschaftlern",
+        "Genom-Version",
+        "PNAS 2019",
+        "Schweizer",
+        "Unsere Methode",
+        "amerikanischen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Bruder Matthias",
+        "Genom-Vereinfachungen",
+        "ETH-Wissenschaftlern",
+        "Bucher Y",
+        "Genetikpionier Craig",
+        "Beat Christen",
+        "Guennoun R",
+        "Das Bakterium",
+        "Zu Testzwecken",
+        "Diese Zeit",
+        "Das Genom",
+        "Millionen Dollar",
+        "Information Redundanzen",
+        "DNA-Bausteine",
+        "Venetz JE",
+        "DNA-Baustein",
+        "ETH-Forscher",
+        "ETH-Wissenschaftler",
+        "Genom-Version",
+        "Von C",
+        "DNA-Sequenz",
+        "Im Fall",
+        "Christen M",
+        "Kooten M",
+        "Unsere Methode",
+        "Appert D",
+        "Tschan F",
+        "Die Projektkosten",
+        "Del Medico",
+        "Christen B",
+        "Craig Venters",
+        "Denn DNA",
+        "Biotechnologie-Information",
+        "Flores-Tinoco",
+        "Matthias Christen",
+        "De News",
+        "Erzeugtes Genom",
+        "DNA-Basis",
+        "Proteinbaustein-Information",
+        "Deutsch S",
+        "Die Technologie",
+        "Schweizer Franken"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Caulobacter -Genoms",
+        "Caulobacter ethensis-2.0",
+        "Chemical",
+        "DNA-Baustein-Abfolge",
+        "DNA-Bausteine",
+        "DNA-Molekül",
+        "ETH Zürich",
+        "Flores-Tinoco CE",
+        "Venetz JE"
+      ],
+      "locations": [
+        "Forschungslabors",
+        "Genom-Teilstücke",
+        "Genom-Vereinfachungen",
+        "Gewässern",
+        "Proteine",
+        "Wissenslücken",
+        "Zürichsee"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "Matthias Christen",
+        "amerikanischen",
+        "C. ethensis-2.0",
+        "DNA-Moleküle",
+        "Proteine",
+        "DNA-Sequenz",
+        "Beat Christen",
+        "Genom-Version",
+        "De News"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Herstellungsprozess rationalisiert",
+          "Herstellungsprozess rationalisiert",
+          "Vereinfachte DNA-Sequenz",
+          "Lackmustest für die Genetik",
+          "Grosses Potenzial in der Biotechnologie"
+        ],
+        "content_length": 7310
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Bucher Y",
+        "Beat Christen",
+        "Venter",
+        "DNA-Baustein-Abfolge",
+        "Chemical",
+        "DNA-Bausteine",
+        "Venetz JE",
+        "Flores-Tinoco CE",
+        "2019",
+        "ETH Zürich",
+        "Missbräuche",
+        "C. crescentus",
+        "C. ethensis-2.0",
+        "EU",
+        "Jahren",
+        "Caulobacter -Genoms",
+        "Appert D",
+        "Del Medico L",
+        "Tschan F",
+        "Craig Venters",
+        "Craig Venter",
+        "Caulobacter ethensis-2.0",
+        "Schächle P",
+        "Genom",
+        "Wölfle A",
+        "Matthias Christen",
+        "De News",
+        "DNA-Molekül",
+        "Bausteinabfolge"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Wissenschaftlern",
+        "Schweizer",
+        "chemistry",
+        "Beat Christen",
+        "Caulobacter",
+        "when",
+        "Bakterienstämme",
+        "ETH-Forscher",
+        "ETH-Wissenschaftler",
+        "Genom-Version",
+        "Caulobacter -Genom",
+        "amerikanischen",
+        "DNA-Moleküle",
+        "who",
+        "DNA-Sequenz",
+        "Christen M",
+        "PNAS 2019",
+        "what",
+        "Unsere Methode",
+        "how",
+        "Deutsch S"
+      ],
+      "graph_relations": [
+        "Beat Christen_has_role_professor",
+        "Genom_has_role_professor",
+        "Matthias Christen_has_role_professor",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

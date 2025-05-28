@@ -1,0 +1,472 @@
+{
+  "filename": "surgent-hochschulmedizin-zurich.md",
+  "original_filename": "surgent-hochschulmedizin-zurich.html",
+  "source_path": "en_news_events/2018/11/surgent-hochschulmedizin-zurich.html",
+  "date": "2018-11",
+  "title": "Surgent Hochschulmedizin Zurich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Surgical landscapes",
+      "text": "Imaging tools have long been standard in surgical procedures. But the result is usually a picture on a screen which the doctors have to interpret and then transfer to the patient. New virtual processes in surgery, however, can convert data from imaging tools into three-dimensional representations which can help with diagnostics and with planning and carrying out operations.\n\nAt yesterday’s annual event, the platform for cooperation in medicine, Hochschulmedizin Zürich (see box), unveiled its new flagship project for 2018. Surgent (Surgeon Enhancing Technologies) aims to set new standards in precision surgery. Under the auspices of the project, new technologies to improve surgical skills, initially in spinal and brain surgery, will be developed and clinically tested.\n\nResearchers from different disciplines from ETH Zurich, the University of Zurich and the University’s hospitals will collaborate on the project. The project will be led by Mazda Farshad, a professor and director of Balgrist University Hospital, and Mirko Meboldt, professor of product development at ETH Zurich."
+    },
+    {
+      "heading": "Surgical landscapes",
+      "text": "Eight research groups are involved in total, and in the coming years they intend to revolutionize the way operations are planned and carried out. The first step is to survey and document the individual anatomy and tissue of patients by recording images. That will enable the researchers to create interactive maps of the “landscapes” in which the surgeons later have to work.\n\nSecondly, further models and simulations will be developed to enable optimal and patient-specific operation planning, as well as to make outcome prediction possible. This should make treatment results more reliable.\n\nThe third aim of Surgent is to use augmented reality (AR) to efficiently and effectively support navigation during an operation. With the AR, the surgeons will receive visual and acoustic information throughout the operation, expanding their senses. Artificial intelligence will also make it possible to analyze surgeons’ actions during operations in order to provide them with the right information at the right time."
+    },
+    {
+      "heading": "Operations usingmixed-reality glasses",
+      "text": "Mixed-reality glasses are already in use as part of clinical trials for some operations at Balgrist University Hospital. The new flagship project will build on these experiences.\n\nMixed-reality glasses allow virtual information to be fed back to the surgeon’s view – reality and virtuality thus interact with each other. This means the surgeons have more information available to them which it was previously not possible to provide. For example, a holographic navigation using 3-D simulation could be provided during an operation.\n\nIf several vertebrae need to be repaired in one operation, for instance, the glasses would aid the doctor in positioning the screws correctly. A navigation platform communicates wirelessly with the glasses, and the planned position of the screws is then projected into the view of the operator. The mixed reality view, as well as 3D-position tracking, means the surgeon can more quickly locate the screw position and better position the surgical instruments during the operation. The surgeons’ hands are thus guided better through this extension of their sensory and intellectual capabilities.\n\nThis article by Adrian Ritter and Marita Fuchs appeared in UZH News.\n\nHochschulmedizin Zürich (University Medicine Zurich) is a collaboration platform which aims to foster cooperation between the University of Zurich, ETH Zurich and the University’s hospitals in the overlapping areas of biomedical basic science, the natural sciences, engineering science, clinical research and healthcare.\n\nHochschulmedizin Zürich’s flagship projects are major projects with a wide vision. They bring together research groups from a variety of areas and have the potential to make groundbreaking developments with far-reaching impacts. Hochschulmedizin Zürich awards annual flagship grants and supports researchers in developing their project ideas."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Hochschulmedizin Zurich",
+        "label": "PERSON",
+        "start": 31,
+        "end": 54
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 264,
+        "end": 269
+      },
+      {
+        "text": "yesterday",
+        "label": "DATE",
+        "start": 380,
+        "end": 389
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 392,
+        "end": 398
+      },
+      {
+        "text": "Hochschulmedizin Zürich",
+        "label": "PERSON",
+        "start": 448,
+        "end": 471
+      },
+      {
+        "text": "Surgent (Surgeon Enhancing Technologies",
+        "label": "ORG",
+        "start": 527,
+        "end": 566
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 820,
+        "end": 830
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 832,
+        "end": 856
+      },
+      {
+        "text": "University’s",
+        "label": "ORG",
+        "start": 865,
+        "end": 877
+      },
+      {
+        "text": "Mazda Farshad",
+        "label": "ORG",
+        "start": 948,
+        "end": 961
+      },
+      {
+        "text": "Balgrist University Hospital",
+        "label": "ORG",
+        "start": 991,
+        "end": 1019
+      },
+      {
+        "text": "Mirko Meboldt",
+        "label": "PERSON",
+        "start": 1025,
+        "end": 1038
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 1076,
+        "end": 1086
+      },
+      {
+        "text": "Eight",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "the coming years",
+        "label": "DATE",
+        "start": 52,
+        "end": 68
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 150,
+        "end": 155
+      },
+      {
+        "text": "Secondly",
+        "label": "ORDINAL",
+        "start": 376,
+        "end": 384
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 596,
+        "end": 601
+      },
+      {
+        "text": "Surgent",
+        "label": "ORG",
+        "start": 609,
+        "end": 616
+      },
+      {
+        "text": "AR",
+        "label": "ORG",
+        "start": 730,
+        "end": 732
+      },
+      {
+        "text": "acoustic",
+        "label": "NORP",
+        "start": 771,
+        "end": 779
+      },
+      {
+        "text": "Balgrist University Hospital",
+        "label": "ORG",
+        "start": 91,
+        "end": 119
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 575,
+        "end": 578
+      },
+      {
+        "text": "Adrian Ritter",
+        "label": "ORG",
+        "start": 1141,
+        "end": 1154
+      },
+      {
+        "text": "Marita Fuchs",
+        "label": "GPE",
+        "start": 1159,
+        "end": 1171
+      },
+      {
+        "text": "UZH News",
+        "label": "ORG",
+        "start": 1184,
+        "end": 1192
+      },
+      {
+        "text": "Hochschulmedizin Zürich",
+        "label": "ORG",
+        "start": 1194,
+        "end": 1217
+      },
+      {
+        "text": "Medicine Zurich",
+        "label": "PERSON",
+        "start": 1230,
+        "end": 1245
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 1316,
+        "end": 1340
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1342,
+        "end": 1352
+      },
+      {
+        "text": "University’s",
+        "label": "ORG",
+        "start": 1361,
+        "end": 1373
+      },
+      {
+        "text": "Hochschulmedizin Zürich’s",
+        "label": "PERSON",
+        "start": 1515,
+        "end": 1540
+      },
+      {
+        "text": "Hochschulmedizin Zürich",
+        "label": "PERSON",
+        "start": 1744,
+        "end": 1767
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 1775,
+        "end": 1781
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Hochschulmedizin Zurich",
+        "Hochschulmedizin Zürich",
+        "Hochschulmedizin Zürich’s",
+        "Medicine Zurich",
+        "Mirko Meboldt"
+      ],
+      "ORG": [
+        "AR",
+        "Adrian Ritter",
+        "Balgrist University Hospital",
+        "ETH Zurich",
+        "Hochschulmedizin Zürich",
+        "Mazda Farshad",
+        "Surgent",
+        "Surgent (Surgeon Enhancing Technologies",
+        "UZH News",
+        "University’s",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Marita Fuchs"
+      ],
+      "DATE": [
+        "annual",
+        "the coming years",
+        "yesterday"
+      ],
+      "MISC": [
+        "Eight",
+        "Secondly",
+        "acoustic",
+        "first",
+        "one",
+        "third",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Hochschulmedizin Zürich": 3,
+      "ETH Zurich": 3,
+      "annual": 2,
+      "the University of Zurich": 2,
+      "University’s": 2,
+      "Balgrist University Hospital": 2,
+      "Hochschulmedizin Zurich": 1,
+      "three": 1,
+      "yesterday": 1,
+      "Surgent (Surgeon Enhancing Technologies": 1,
+      "Mazda Farshad": 1,
+      "Mirko Meboldt": 1,
+      "Eight": 1,
+      "the coming years": 1,
+      "first": 1,
+      "Secondly": 1,
+      "third": 1,
+      "Surgent": 1,
+      "AR": 1,
+      "acoustic": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "surgent-hochschulmedizin-zurich.md",
+      "title": "En News Events/2018/11/surgent Hochschulmedizin Zurich",
+      "language": "en",
+      "source_path": "en_news_events/2018/11/surgent-hochschulmedizin-zurich.html"
+    },
+    "temporal": {
+      "publication_date": "2018-11",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Hochschulmedizin Zurich",
+        "Hochschulmedizin Zürich",
+        "Hochschulmedizin Zürich’s",
+        "Medicine Zurich",
+        "Mirko Meboldt"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "professor",
+          "director",
+          "researcher",
+          "rector"
+        ],
+        "Hochschulmedizin Zürich": [
+          "researcher"
+        ],
+        "Mirko Meboldt": [
+          "professor",
+          "director",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "Eight",
+        "Secondly",
+        "acoustic",
+        "first",
+        "third",
+        "three"
+      ],
+      "grants_funding": [
+        "grant"
+      ],
+      "projects": [
+        "Mirko Meboldt",
+        "Mazda Farshad",
+        "Marita Fuchs",
+        "En News",
+        "UZH News",
+        "Balgrist University",
+        "Surgeon Enhancing",
+        "Adrian Ritter",
+        "ETH Zurich",
+        "University Medicine",
+        "Hochschulmedizin Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AR",
+        "Adrian Ritter",
+        "Balgrist University Hospital",
+        "ETH Zurich",
+        "Hochschulmedizin Zürich",
+        "Mazda Farshad",
+        "Surgent",
+        "Surgent (Surgeon Enhancing Technologies",
+        "UZH News",
+        "University’s",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Marita Fuchs"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Hochschulmedizin Zürich",
+        "ETH Zurich",
+        "annual",
+        "the University of Zurich",
+        "University’s",
+        "Balgrist University Hospital",
+        "Hochschulmedizin Zurich",
+        "three",
+        "yesterday",
+        "Surgent (Surgeon Enhancing Technologies"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Surgical landscapes",
+          "Surgical landscapes",
+          "Operations usingmixed-reality glasses"
+        ],
+        "content_length": 4020
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Medicine Zurich",
+        "Mirko Meboldt",
+        "Hochschulmedizin Zürich",
+        "Hochschulmedizin Zürich’s",
+        "grant",
+        "Mazda Farshad",
+        "UZH News",
+        "the University of Zurich",
+        "Surgent (Surgeon Enhancing Technologies",
+        "Surgent",
+        "Adrian Ritter",
+        "Balgrist University Hospital",
+        "ETH Zurich",
+        "University’s",
+        "AR",
+        "Hochschulmedizin Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Secondly",
+        "third",
+        "three",
+        "who",
+        "Eight",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "acoustic"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_professor",
+        "ETH Zurich_has_role_director",
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_rector",
+        "Hochschulmedizin Zürich_has_role_researcher",
+        "Mirko Meboldt_has_role_professor",
+        "Mirko Meboldt_has_role_director",
+        "Mirko Meboldt_has_role_rector",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

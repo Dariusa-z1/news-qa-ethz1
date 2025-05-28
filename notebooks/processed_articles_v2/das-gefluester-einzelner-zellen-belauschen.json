@@ -1,0 +1,527 @@
+{
+  "filename": "das-gefluester-einzelner-zellen-belauschen.md",
+  "original_filename": "das-gefluester-einzelner-zellen-belauschen.html",
+  "source_path": "de_news_events/2019/07/das-gefluester-einzelner-zellen-belauschen.html",
+  "date": "2019-07",
+  "title": "Das Gefluester Einzelner Zellen Belauschen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Ein neuartiger Nanosensor",
+      "text": "Damit die Zellen unseres Körpers als Einheit funktionieren, müssen sie ständig miteinander kommunizieren. Sie scheiden Signalstoffe aus, Ionen, Proteine oder Nukleinsäuren, die von Nachbarzellen registriert werden. Diese geben das Signal ihrerseits an andere Zellen weiter. Nur durch diese Kommunikation funktionieren beispielsweise unsere Muskeln, das Verdauungssystem oder das Gehirn. Und nur dadurch erkennt unser Immunsystem Krankheitserreger oder kranke Zellen und kann darauf reagieren – wiederum, indem es Signale aussendet, um die Immunabwehr zu mobilisieren. Wenn bei dieser Signalisation zwischen Zellen etwas falsch läuft, führt das zu Krankheiten, etwa Krebs oder Autoimmun­erkrankungen. «Deshalb ist es wichtig, zu erforschen, welche Signale die Zellen in welcher Situation aussenden», sagt Morteza Aramesh. Der Biophysiker im Labor für Biosensoren und Bioelektronik an der ETH Zürich hat eine neue Methode entwickelt, die genau das möglich macht: die Kommunikation einer einzelnen Zelle abhören."
+    },
+    {
+      "heading": "Ein neuartiger Nanosensor",
+      "text": "Zwar konnte man schon bisher solche Signale messen, doch nur für ganze Populationen von hunderten oder tausenden Zellen. Für einzelne Zellen waren die bisher genutzten Methoden nicht empfindlich genug. So gingen die Signalstoffe individueller Zellen im Durchschnitt der Population unter: «Es war unmöglich, Unterschiede zwischen den Zellen zu erkennen, etwa um kranke Zellen zu identifizieren», sagt Aramesh.\n\nAnders mit der neuen Methode, die vor Kurzem im Fachblatt externe Seite Nature Nanotechnology publiziert wurde. Dazu hat Morteza Aramesh zusammen mit seinen Kollegen ein sogenanntes Fluid-Force-Mikroskop mit einer speziellen Cantilever-Spitze ausgerüstet. Cantilever sind kleine Hebelarme mit einer feinen Spitze, die bei solchen Mikroskopen Oberflächen abtasten, zum Beispiel eben diejenige einer Zelle. Neu ist nun ein winziger Sensor an der Spitze des Hebelarms. Dieser besteht aus einer nur wenige Nano­meter messenden Pore aus Siliziumnitrid, die registriert, wenn die Zelle Moleküle absondert.\n\nDas funktioniert so: Für das Ausscheiden der Signalstoffe aus den Zellen sind Transportproteine zuständig, die in der Zellmembran sitzen. Die neu konstruierte Nanopore hat einen so kleinen Durchmesser, dass sie sich präzise über einem solchen Transportprotein positionieren lässt und dort die Stoffe abfängt, die hindurchfliessen. Dabei analysiert der Nanosensor den Ionenstrom. Denn dieser ändert sich, wenn Ionen oder grössere Biomoleküle wie Proteine oder Nukleinsäuren durch die Pore fliessen. Und anhand der Art und der Dauer der Veränderung des Ionenstroms lassen sich verschiedene Signalstoffe unterscheiden."
+    },
+    {
+      "heading": "Einzelne Zellen unter der Lupe",
+      "text": "Die Forschenden haben ihre Methode, die sie «Scanning Nanopore Microscopy» nennen, mit Nervenzellen aus dem Gehirn von Ratten getestet. Bisher können sie einzelne Signalstoffe wie Ionen und einige Proteine unterscheiden. Als nächstes wollen die Biophysiker ihre Nanosensoren weiterentwickeln, sodass sie zukünftig weitere Signalstoffe erkennen. «Unser Ziel ist, dass wir schliesslich alle Signale einer Zelle analysieren können», sagt Janos Vörös, Leiter des Labors für Biosensoren und Bioelektronik und Letztautor der Publikation. Schon jetzt aber lassen sich mit der Methode alle Transportproteine einer lebenden Zelle lokalisieren.\n\nMehr noch: Mit dem neu entwickelten Sensor können die Forschenden auch in Zellen hineinblicken. Denn die Spitze mit dem Nanosensor ist so fein, dass sie die Zellmembran durchstechen kann, ohne dauerhaften Schaden anzurichten. Im Inneren lässt sich dann analysieren, was aus dem Zellkern ausgeschieden wird. «Besonders interessant sind hier RNA-Fragmente», sagt Vörös. Diese geben Aufschluss darüber, welche Proteine eine Zelle gerade produziert – ein wichtiger Faktor bei der Entstehung vieler Krankheiten.\n\n«Unsere Methode verleiht Biologinnen und Biologen völlig neue Möglich­keiten, das Verhalten einzelner Zellen zu untersuchen», sagt Vörös. Nicht nur, wenn es um Unterschiede zwischen kranken und gesunden Zellen geht, sondern auch etwa bei der Entwicklung von Stammzellen oder bei der Frage, ob sich Zellen im Labor genauso verhalten wie im Körper. In Zukunft dürften sich viele weitere Fragestellungen mit dieser neuen Methode beantworten lassen.\n\nAramesh M, Forró C, Dorwling-Carter L, Lüchtefeld I, Schlotter T, Ihle SJ, Shorubalko I, Hosseini V, Momotenko D, Zambelli T, Klotzsch E, Vörös J: Localized detection of ions and biomolecules with a force-controlled scanning nanopore microscope. Nature Nanotechnology, 15. Juli 2019, doi: externe Seite 10.1038/s41565-019-0493-z"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Gefluester",
+        "label": "LOC",
+        "start": 27,
+        "end": 37
+      },
+      {
+        "text": "Einzelner",
+        "label": "LOC",
+        "start": 38,
+        "end": 47
+      },
+      {
+        "text": "Belauschen",
+        "label": "LOC",
+        "start": 55,
+        "end": 65
+      },
+      {
+        "text": "Körpers",
+        "label": "PER",
+        "start": 25,
+        "end": 32
+      },
+      {
+        "text": "Ionen",
+        "label": "LOC",
+        "start": 137,
+        "end": 142
+      },
+      {
+        "text": "Proteine",
+        "label": "LOC",
+        "start": 144,
+        "end": 152
+      },
+      {
+        "text": "Nachbarzellen",
+        "label": "LOC",
+        "start": 181,
+        "end": 194
+      },
+      {
+        "text": "Signal",
+        "label": "LOC",
+        "start": 231,
+        "end": 237
+      },
+      {
+        "text": "Signale",
+        "label": "PER",
+        "start": 513,
+        "end": 520
+      },
+      {
+        "text": "Signale",
+        "label": "PER",
+        "start": 747,
+        "end": 754
+      },
+      {
+        "text": "Morteza Aramesh",
+        "label": "PER",
+        "start": 804,
+        "end": 819
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 887,
+        "end": 897
+      },
+      {
+        "text": "Unterschiede",
+        "label": "LOC",
+        "start": 307,
+        "end": 319
+      },
+      {
+        "text": "Aramesh",
+        "label": "PER",
+        "start": 400,
+        "end": 407
+      },
+      {
+        "text": "Nature Nanotechnology",
+        "label": "PER",
+        "start": 481,
+        "end": 502
+      },
+      {
+        "text": "Morteza Aramesh",
+        "label": "PER",
+        "start": 530,
+        "end": 545
+      },
+      {
+        "text": "Fluid-Force-Mikroskop",
+        "label": "MISC",
+        "start": 591,
+        "end": 612
+      },
+      {
+        "text": "Cantilever-Spitze",
+        "label": "MISC",
+        "start": 634,
+        "end": 651
+      },
+      {
+        "text": "Oberflächen",
+        "label": "LOC",
+        "start": 751,
+        "end": 762
+      },
+      {
+        "text": "Hebelarms",
+        "label": "LOC",
+        "start": 864,
+        "end": 873
+      },
+      {
+        "text": "Siliziumnitrid",
+        "label": "PER",
+        "start": 941,
+        "end": 955
+      },
+      {
+        "text": "Transportproteine",
+        "label": "LOC",
+        "start": 1087,
+        "end": 1104
+      },
+      {
+        "text": "Ionenstroms",
+        "label": "ORG",
+        "start": 1560,
+        "end": 1571
+      },
+      {
+        "text": "Scanning Nanopore Microscopy",
+        "label": "MISC",
+        "start": 45,
+        "end": 73
+      },
+      {
+        "text": "Janos Vörös",
+        "label": "PER",
+        "start": 435,
+        "end": 446
+      },
+      {
+        "text": "Proteine",
+        "label": "PER",
+        "start": 1042,
+        "end": 1050
+      },
+      {
+        "text": "Unsere Methode",
+        "label": "MISC",
+        "start": 1143,
+        "end": 1157
+      },
+      {
+        "text": "Unterschiede",
+        "label": "LOC",
+        "start": 1302,
+        "end": 1314
+      },
+      {
+        "text": "Aramesh M",
+        "label": "PER",
+        "start": 1588,
+        "end": 1597
+      },
+      {
+        "text": "Forró C",
+        "label": "MISC",
+        "start": 1599,
+        "end": 1606
+      },
+      {
+        "text": "Dorwling-Carter",
+        "label": "LOC",
+        "start": 1608,
+        "end": 1623
+      },
+      {
+        "text": "Lüchtefeld I",
+        "label": "PER",
+        "start": 1627,
+        "end": 1639
+      },
+      {
+        "text": "Schlotter T",
+        "label": "PER",
+        "start": 1641,
+        "end": 1652
+      },
+      {
+        "text": "Ihle SJ",
+        "label": "MISC",
+        "start": 1654,
+        "end": 1661
+      },
+      {
+        "text": "Shorubalko I",
+        "label": "PER",
+        "start": 1663,
+        "end": 1675
+      },
+      {
+        "text": "Hosseini V",
+        "label": "PER",
+        "start": 1677,
+        "end": 1687
+      },
+      {
+        "text": "Momotenko D",
+        "label": "PER",
+        "start": 1689,
+        "end": 1700
+      },
+      {
+        "text": "Zambelli T",
+        "label": "PER",
+        "start": 1702,
+        "end": 1712
+      },
+      {
+        "text": "Klotzsch E",
+        "label": "MISC",
+        "start": 1714,
+        "end": 1724
+      },
+      {
+        "text": "Vörös J",
+        "label": "LOC",
+        "start": 1726,
+        "end": 1733
+      },
+      {
+        "text": "Localized detection of ions and biomolecules with a force-controlled scanning nanopore microscope",
+        "label": "MISC",
+        "start": 1735,
+        "end": 1832
+      },
+      {
+        "text": "Nature Nanotechnology",
+        "label": "PER",
+        "start": 1834,
+        "end": 1855
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Aramesh",
+        "Aramesh M",
+        "De News",
+        "Hosseini V",
+        "Janos Vörös",
+        "Körpers",
+        "Lüchtefeld I",
+        "Momotenko D",
+        "Morteza Aramesh",
+        "Nature Nanotechnology",
+        "Proteine",
+        "Schlotter T",
+        "Shorubalko I",
+        "Signale",
+        "Siliziumnitrid",
+        "Zambelli T"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Ionenstroms"
+      ],
+      "LOCATION": [
+        "Belauschen",
+        "Dorwling-Carter",
+        "Einzelner",
+        "Gefluester",
+        "Hebelarms",
+        "Ionen",
+        "Nachbarzellen",
+        "Oberflächen",
+        "Proteine",
+        "Signal",
+        "Transportproteine",
+        "Unterschiede",
+        "Vörös J"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Cantilever-Spitze",
+        "Fluid-Force-Mikroskop",
+        "Forró C",
+        "Ihle SJ",
+        "Klotzsch E",
+        "Localized detection of ions and biomolecules with a force-controlled scanning nanopore microscope",
+        "Scanning Nanopore Microscopy",
+        "Unsere Methode"
+      ]
+    },
+    "entity_counts": {
+      "Proteine": 2,
+      "Signale": 2,
+      "Morteza Aramesh": 2,
+      "Unterschiede": 2,
+      "Nature Nanotechnology": 2,
+      "De News": 1,
+      "Gefluester": 1,
+      "Einzelner": 1,
+      "Belauschen": 1,
+      "Körpers": 1,
+      "Ionen": 1,
+      "Nachbarzellen": 1,
+      "Signal": 1,
+      "ETH Zürich": 1,
+      "Aramesh": 1,
+      "Fluid-Force-Mikroskop": 1,
+      "Cantilever-Spitze": 1,
+      "Oberflächen": 1,
+      "Hebelarms": 1,
+      "Siliziumnitrid": 1
+    },
+    "total_entities": 43,
+    "unique_entities": 38
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "das-gefluester-einzelner-zellen-belauschen.md",
+      "title": "De News Events/2019/07/das Gefluester Einzelner Zellen Belauschen",
+      "language": "de",
+      "source_path": "de_news_events/2019/07/das-gefluester-einzelner-zellen-belauschen.html"
+    },
+    "temporal": {
+      "publication_date": "2019-07",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Aramesh",
+        "Aramesh M",
+        "De News",
+        "Hosseini V",
+        "Janos Vörös",
+        "Körpers",
+        "Lüchtefeld I",
+        "Momotenko D",
+        "Morteza Aramesh",
+        "Nature Nanotechnology",
+        "Proteine",
+        "Schlotter T",
+        "Shorubalko I",
+        "Signale",
+        "Siliziumnitrid",
+        "Zambelli T"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Cantilever-Spitze",
+        "Fluid-Force-Mikroskop",
+        "Forró C",
+        "Ihle SJ",
+        "Klotzsch E",
+        "Localized detection of ions and biomolecules with a force-controlled scanning nanopore microscope",
+        "Scanning Nanopore Microscopy",
+        "Unsere Methode"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Scanning Nanopore",
+        "Die Forschenden",
+        "Gefluester Einzelner",
+        "Hosseini V",
+        "Momotenko D",
+        "Aramesh M",
+        "Fluid-Force",
+        "Unser Ziel",
+        "Schlotter T",
+        "Nature Nanotechnology",
+        "Cantilever-Spitze",
+        "Ihle SJ",
+        "Der Biophysiker",
+        "Unsere Methode",
+        "Dorwling-Carter",
+        "In Zukunft",
+        "Im Inneren",
+        "RNA-Fragmente",
+        "Shorubalko I",
+        "Seite Nature",
+        "Klotzsch E",
+        "Morteza Aramesh",
+        "De News",
+        "Immunsystem Krankheitserreger",
+        "Zellen Belauschen",
+        "Zambelli T"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Ionenstroms"
+      ],
+      "locations": [
+        "Belauschen",
+        "Dorwling-Carter",
+        "Einzelner",
+        "Gefluester",
+        "Hebelarms",
+        "Ionen",
+        "Nachbarzellen",
+        "Oberflächen",
+        "Proteine",
+        "Signal",
+        "Transportproteine",
+        "Unterschiede",
+        "Vörös J"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Proteine",
+        "Signale",
+        "Morteza Aramesh",
+        "Unterschiede",
+        "Nature Nanotechnology",
+        "De News",
+        "Gefluester",
+        "Einzelner",
+        "Belauschen",
+        "Körpers"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Ein neuartiger Nanosensor",
+          "Ein neuartiger Nanosensor",
+          "Einzelne Zellen unter der Lupe"
+        ],
+        "content_length": 4622
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hosseini V",
+        "2019",
+        "Momotenko D",
+        "Aramesh M",
+        "Lüchtefeld I",
+        "ETH Zürich",
+        "Körpers",
+        "Ionenstroms",
+        "Janos Vörös",
+        "Schlotter T",
+        "Nature Nanotechnology",
+        "EU",
+        "Siliziumnitrid",
+        "Shorubalko I",
+        "Morteza Aramesh",
+        "De News",
+        "Signale",
+        "Proteine",
+        "Aramesh",
+        "Zambelli T"
+      ],
+      "semantic_concepts": [
+        "Cantilever-Spitze",
+        "Ihle SJ",
+        "Klotzsch E",
+        "Localized detection of ions and biomolecules with a force-controlled scanning nanopore microscope",
+        "Forró C",
+        "Fluid-Force-Mikroskop",
+        "what",
+        "Unsere Methode",
+        "how",
+        "Scanning Nanopore Microscopy"
+      ],
+      "graph_relations": []
+    }
+  }
+}

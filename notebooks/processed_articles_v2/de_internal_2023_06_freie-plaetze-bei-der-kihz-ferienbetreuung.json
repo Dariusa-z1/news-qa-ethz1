@@ -1,0 +1,177 @@
+{
+  "filename": "de_internal_2023_06_freie-plaetze-bei-der-kihz-ferienbetreuung.md",
+  "original_filename": "de_internal_2023_06_freie-plaetze-bei-der-kihz-ferienbetreuung.html",
+  "source_path": "de_internal/2023/06/freie-plaetze-bei-der-kihz-ferienbetreuung.html",
+  "date": "2023-06",
+  "title": "Freie Plaetze Bei Der Kihz Ferienbetreuung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Am 17. Juli 2023 beginnen in Zürich die Sommer-​Schulferien. Für Kinder von Hochschulangehörigen (ETH Zürich und Universität Zürich) bietet die externe Seite Stiftung kihz eine vom Einkommen abhängige, subventionierte Ferienbetreuung an. Kinder im Alter von vier bis sieben Jahren und sieben bis zehn Jahren werden in den einwöchigen Ferienkursen ganztägig betreut. So können sich die Kinder in den kommenden Sommerferien unter anderem auf eine Woche zum Thema « externe Seite Wir erfinden », « externe Seite U-Boote und versunkene Städte » oder « externe Seite Ponyreiten » freuen.\n\nFür alle Ferienangebote gibt es noch freie Plätze – es wird jedoch eine rasche externe Seite Anmeldungen empfohlen.\n\nDas gesamte Programm inkl. Anmeldemöglichkeiten findet sich auf der externe Seite kihz-​Programm-Webseite .\n\nWir wünschen schöne Ferien!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2023/06/freie Plaetze",
+        "label": "LOC",
+        "start": 0,
+        "end": 33
+      },
+      {
+        "text": "Kihz Ferienbetreuung",
+        "label": "MISC",
+        "start": 42,
+        "end": 62
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 29,
+        "end": 35
+      },
+      {
+        "text": "Sommer-​Schulferien",
+        "label": "ORG",
+        "start": 40,
+        "end": 59
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 98,
+        "end": 108
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 113,
+        "end": 131
+      },
+      {
+        "text": "wünschen",
+        "label": "MISC",
+        "start": 811,
+        "end": 819
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "Sommer-​Schulferien",
+        "Universität Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2023/06/freie Plaetze",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Kihz Ferienbetreuung",
+        "wünschen"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2023/06/freie Plaetze": 1,
+      "Kihz Ferienbetreuung": 1,
+      "Zürich": 1,
+      "Sommer-​Schulferien": 1,
+      "ETH Zürich": 1,
+      "Universität Zürich": 1,
+      "wünschen": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2023_06_freie-plaetze-bei-der-kihz-ferienbetreuung.md",
+      "title": "De Internal/2023/06/freie Plaetze bei der Kihz Ferienbetreuung",
+      "language": "de",
+      "source_path": "de_internal/2023/06/freie-plaetze-bei-der-kihz-ferienbetreuung.html"
+    },
+    "temporal": {
+      "publication_date": "2023-06",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Kihz Ferienbetreuung",
+        "wünschen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Seite U",
+        "Seite Wir",
+        "De Internal",
+        "Programm-Webseite",
+        "Seite Ponyreiten",
+        "Seite Anmeldungen",
+        "Kihz Ferienbetreuung",
+        "Seite Stiftung"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Sommer-​Schulferien",
+        "Universität Zürich"
+      ],
+      "locations": [
+        "De Internal/2023/06/freie Plaetze",
+        "Zürich"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2023/06/freie Plaetze",
+        "Kihz Ferienbetreuung",
+        "Zürich",
+        "Sommer-​Schulferien",
+        "ETH Zürich",
+        "Universität Zürich",
+        "wünschen"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 900
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "Sommer-​Schulferien",
+        "ETH Zürich",
+        "Universität Zürich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "Kihz Ferienbetreuung",
+        "wünschen"
+      ],
+      "graph_relations": []
+    }
+  }
+}

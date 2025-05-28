@@ -1,0 +1,126 @@
+{
+  "filename": "responsive-display-of-results-on-the-knowledge-portal.md",
+  "original_filename": "responsive-display-of-results-on-the-knowledge-portal.html",
+  "source_path": "en_internal/2015/05/responsive-display-of-results-on-the-knowledge-portal.html",
+  "date": "2015-05",
+  "title": "Responsive Display Of Results On The Knowledge Portal",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The entire Knowledge Portal has therefore been optimised for mobile devices.\n\nFor searches on Smartphones, we still recommend the ETH-Bibliothek's WebApp ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Smartphones",
+        "label": "PERSON",
+        "start": 93,
+        "end": 104
+      },
+      {
+        "text": "ETH-Bibliothek's",
+        "label": "ORG",
+        "start": 129,
+        "end": 145
+      },
+      {
+        "text": "WebApp",
+        "label": "ORG",
+        "start": 146,
+        "end": 152
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Smartphones"
+      ],
+      "ORG": [
+        "ETH-Bibliothek's",
+        "WebApp"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Smartphones": 1,
+      "ETH-Bibliothek's": 1,
+      "WebApp": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "responsive-display-of-results-on-the-knowledge-portal.md",
+      "title": "En Internal/2015/05/responsive Display Of Results On The Knowledge Portal",
+      "language": "en",
+      "source_path": "en_internal/2015/05/responsive-display-of-results-on-the-knowledge-portal.html"
+    },
+    "temporal": {
+      "publication_date": "2015-05",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Smartphones"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "The Knowledge",
+        "Portal The",
+        "En Internal",
+        "Results On",
+        "Knowledge Portal",
+        "Display Of"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek's",
+        "WebApp"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Smartphones",
+        "ETH-Bibliothek's",
+        "WebApp"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 229
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "WebApp",
+        "2015",
+        "ETH-Bibliothek's",
+        "Smartphones"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "filename": "quantum-aided-frequency-measurements.md",
+  "original_filename": "quantum-aided-frequency-measurements.html",
+  "source_path": "en_news_events/2017/05/quantum-aided-frequency-measurements.html",
+  "date": "2017-05",
+  "title": "Quantum Aided Frequency Measurements",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Quantum sensors in diamond",
+      "text": "Accurate frequency measurements are of crucial importance in many scientific and technological applications. To analyse biologically relevant molecules, for instance, one measures the frequencies at which the atomic nuclei react to electromagnetic waves. Using new measurement procedures based on quantum mechanics, it is now even possible to do such analyses with tiny probes that can be placed in the immediate vicinity of tissues and cells. A team of scientists at ETH Zurich led by Christian Degen, professor at the Laboratory for Solid State Physics, has now developed a method that will help to make future frequency measurements many times more accurate."
+    },
+    {
+      "heading": "Quantum sensors in diamond",
+      "text": "In recent years, researchers all over the world have tried to exploit quantum mechanics for the purposes of highly sensitive precision measurements. Quantum sensing is one of the pillars of the recently announced Flagship Project of the European Commission that aims to enhance funding for research on quantum technologies. Degen and his collaborators realise a quantum sensor using a so-called nitrogen vacancy centre in diamond. Such centres are slight defects of the precious stone, which in principle consists exclusively of carbon atoms.\n\nMore precisely, a nitrogen atom replaces a carbon atom in the crystal lattice, and at the same time there is a carbon atom missing at a nearby lattice site. The energy states of such a vacancy represent a quantum system with two levels (also known as a qubit) and can be controlled using microwaves and laser beams. By putting the quantum system into a superposition of the two energy states one can measure very weak magnetic or electric fields – but only for as long as the superposition or «coherence» lasts and is not destroyed by the environment (decoherence)."
+    },
+    {
+      "heading": "Accuracy through multiple measurements",
+      "text": "“To determine frequencies precisely, however, one should measure for as long as possible. It is here that our technology opens new avenues”, explains Jens Boss, a doctoral student in Degen’s laboratory.\n\nThe idea is simple: the more oscillations of a periodic signal one can count, the smaller will be the relative measurement error. In order not to be bound by the coherence time of the nitrogen vacancy centre, the researchers at ETH invented a trick. Instead of performing a single measurement within the coherence time they made several hundred such measurements back-to-back. Each time the quantum state of the nitrogen vacancy centre was put in a superposition state (or “initialized”) from scratch. From those measurements the phase (i.e., the instantaneous state) of the periodic signal at a particular instant could be determined. Finally, to reconstruct the complete oscillation from those snapshots at a later time, Degen and his co-workers synchronized the measurements using a highly precise clock that allowed them to record the exact time at which each snapshot was taken.\n\nIn this way, they researchers were able to measure a weak magnetic signal over several hours and to determine its frequencies to within less than a microhertz (a millionth of an oscillation per second, or roughly one oscillation every 300 hours). Even the researchers were a little surprised by the sensitivity of their sensor, as doctoral student Kristian Cujia states: “Even though the amplitude of the measured signal was only 170 nanotesla – that is less than a hundredth of the earth’s magnetic field – we found a signal-to-noise ratio of 10.000 to one. That’s huge for such small signals.”"
+    },
+    {
+      "heading": "Applications in nuclear magnetic resonance",
+      "text": "This combination of extremely precise and, at the same time, highly sensitive frequency measurements holds great promise for future quantum technologies. Degen sees possible applications, for instance, in nano-nuclear magnetic resonance. There, sensors like the one used at ETH are placed within a few nanometers of the material to be investigated. This enables a degree of spatial resolution that can normally be achieved only using very strong magnetic fields (such as can be found in devices used for medical applications). From exact measurements of the resonance frequencies the positions of the individual atoms inside a molecule of the material can then be inferred.\n\nWith the new method the accuracy of such frequency measurements can be improved from around 10 Hertz, which can currently be achieved, to less than a millihertz.\n\nBoss JM, Cujia KS, Zopes J, Degen CL: Quantum sensing with arbitrary frequency resolution. Science, 25 May 2017, doi: 10.1126/science.aam7009"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Accurate",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 167,
+        "end": 170
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 468,
+        "end": 478
+      },
+      {
+        "text": "Christian Degen",
+        "label": "PERSON",
+        "start": 486,
+        "end": 501
+      },
+      {
+        "text": "the Laboratory for Solid State Physics",
+        "label": "ORG",
+        "start": 516,
+        "end": 554
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 3,
+        "end": 15
+      },
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 149,
+        "end": 156
+      },
+      {
+        "text": "Flagship Project of the European Commission",
+        "label": "ORG",
+        "start": 213,
+        "end": 256
+      },
+      {
+        "text": "Degen",
+        "label": "PERSON",
+        "start": 324,
+        "end": 329
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 768,
+        "end": 771
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 917,
+        "end": 920
+      },
+      {
+        "text": "Jens Boss",
+        "label": "PERSON",
+        "start": 150,
+        "end": 159
+      },
+      {
+        "text": "Degen",
+        "label": "ORG",
+        "start": 183,
+        "end": 188
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 431,
+        "end": 434
+      },
+      {
+        "text": "several hundred",
+        "label": "CARDINAL",
+        "start": 532,
+        "end": 547
+      },
+      {
+        "text": "Degen",
+        "label": "PERSON",
+        "start": 926,
+        "end": 931
+      },
+      {
+        "text": "several hours",
+        "label": "TIME",
+        "start": 1166,
+        "end": 1179
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1281,
+        "end": 1287
+      },
+      {
+        "text": "roughly one",
+        "label": "CARDINAL",
+        "start": 1292,
+        "end": 1303
+      },
+      {
+        "text": "every 300 hours",
+        "label": "TIME",
+        "start": 1316,
+        "end": 1331
+      },
+      {
+        "text": "Kristian Cujia",
+        "label": "PERSON",
+        "start": 1435,
+        "end": 1449
+      },
+      {
+        "text": "only 170",
+        "label": "CARDINAL",
+        "start": 1512,
+        "end": 1520
+      },
+      {
+        "text": "10.000",
+        "label": "CARDINAL",
+        "start": 1631,
+        "end": 1637
+      },
+      {
+        "text": "Degen",
+        "label": "PERSON",
+        "start": 154,
+        "end": 159
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 274,
+        "end": 277
+      },
+      {
+        "text": "Hertz",
+        "label": "ORG",
+        "start": 769,
+        "end": 774
+      },
+      {
+        "text": "Cujia KS",
+        "label": "PERSON",
+        "start": 845,
+        "end": 853
+      },
+      {
+        "text": "Zopes J",
+        "label": "PERSON",
+        "start": 855,
+        "end": 862
+      },
+      {
+        "text": "Degen CL",
+        "label": "PERSON",
+        "start": 864,
+        "end": 872
+      },
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 874,
+        "end": 881
+      },
+      {
+        "text": "25 May 2017",
+        "label": "DATE",
+        "start": 936,
+        "end": 947
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 954,
+        "end": 961
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christian Degen",
+        "Cujia KS",
+        "Degen",
+        "Degen CL",
+        "Jens Boss",
+        "Kristian Cujia",
+        "Zopes J"
+      ],
+      "ORG": [
+        "Accurate",
+        "Degen",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Flagship Project of the European Commission",
+        "Hertz",
+        "Quantum",
+        "the Laboratory for Solid State Physics"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "25 May 2017",
+        "every 300 hours",
+        "recent years",
+        "several hours"
+      ],
+      "MISC": [
+        "10.000",
+        "10.1126",
+        "one",
+        "only 170",
+        "roughly one",
+        "second",
+        "several hundred",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Degen": 4,
+      "Quantum": 2,
+      "two": 2,
+      "ETH": 2,
+      "En News": 1,
+      "Accurate": 1,
+      "one": 1,
+      "ETH Zurich": 1,
+      "Christian Degen": 1,
+      "the Laboratory for Solid State Physics": 1,
+      "recent years": 1,
+      "Flagship Project of the European Commission": 1,
+      "Jens Boss": 1,
+      "several hundred": 1,
+      "several hours": 1,
+      "second": 1,
+      "roughly one": 1,
+      "every 300 hours": 1,
+      "Kristian Cujia": 1,
+      "only 170": 1
+    },
+    "total_entities": 33,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "quantum-aided-frequency-measurements.md",
+      "title": "En News Events/2017/05/quantum Aided Frequency Measurements",
+      "language": "en",
+      "source_path": "en_news_events/2017/05/quantum-aided-frequency-measurements.html"
+    },
+    "temporal": {
+      "publication_date": "2017-05",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christian Degen",
+        "Cujia KS",
+        "Degen",
+        "Degen CL",
+        "Jens Boss",
+        "Kristian Cujia",
+        "Zopes J"
+      ],
+      "people_with_roles": {
+        "Christian Degen": [
+          "scientist",
+          "professor"
+        ],
+        "Degen": [
+          "scientist",
+          "student",
+          "professor"
+        ],
+        "Jens Boss": [
+          "student"
+        ],
+        "Kristian Cujia": [
+          "researcher",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "physics"
+      ],
+      "research_topics": [
+        "10.000",
+        "10.1126",
+        "only 170",
+        "roughly one",
+        "second",
+        "several hundred"
+      ],
+      "grants_funding": [
+        "EU",
+        "funding"
+      ],
+      "projects": [
+        "Jens Boss",
+        "Flagship Project",
+        "European Commission",
+        "Kristian Cujia",
+        "Degen CL",
+        "Zopes J",
+        "Christian Degen",
+        "En News",
+        "Solid State",
+        "Aided Frequency",
+        "Measurements Accurate",
+        "Cujia KS",
+        "ETH Zurich",
+        "Boss JM"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Accurate",
+        "Degen",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Flagship Project of the European Commission",
+        "Hertz",
+        "Quantum",
+        "the Laboratory for Solid State Physics"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Degen",
+        "Quantum",
+        "two",
+        "ETH",
+        "En News",
+        "Accurate",
+        "one",
+        "ETH Zurich",
+        "Christian Degen",
+        "the Laboratory for Solid State Physics"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Quantum sensors in diamond",
+          "Quantum sensors in diamond",
+          "Accuracy through multiple measurements",
+          "Applications in nuclear magnetic resonance"
+        ],
+        "content_length": 4496
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Jens Boss",
+        "Degen CL",
+        "Kristian Cujia",
+        "ETH",
+        "Zopes J",
+        "Christian Degen",
+        "En News",
+        "Accurate",
+        "the Laboratory for Solid State Physics",
+        "EU",
+        "2017",
+        "Flagship Project of the European Commission",
+        "Cujia KS",
+        "funding",
+        "ETH Zurich",
+        "Hertz",
+        "Quantum",
+        "Degen"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "only 170",
+        "10.000",
+        "who",
+        "roughly one",
+        "10.1126",
+        "several hundred",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Christian Degen_has_role_scientist",
+        "Christian Degen_has_role_professor",
+        "Degen_has_role_scientist",
+        "Degen_has_role_student",
+        "Degen_has_role_professor",
+        "Jens Boss_has_role_student",
+        "Kristian Cujia_has_role_researcher",
+        "Kristian Cujia_has_role_student",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

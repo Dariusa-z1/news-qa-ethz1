@@ -1,0 +1,648 @@
+{
+  "filename": "electrons-at-the-speed-limit.md",
+  "original_filename": "electrons-at-the-speed-limit.html",
+  "source_path": "en_news_events/2016/08/electrons-at-the-speed-limit.html",
+  "date": "2016-08",
+  "title": "Electrons At The Speed Limit",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Groundwork from the 1990’s",
+      "text": "Speed may not be witchcraft, but it is the basis for technologies that often seem like magic. Modern computers, for instance, are as powerful as they are because tiny switches inside them steer electric currents in fractions of a billionth of a second. The incredible data flows of the internet, on the other hand, are only possible because extremely fast electro-optic modulators can send information through fibre-optic cables in the shape of very short light pulses. Today’s electronic circuits already routinely work at frequencies of several gigahertz (a billion oscillations per second) up to terahertz (a thousand billion oscillations). The next generation of electronics will therefore, sooner or later have to reach the realm of petahertz, which is a thousand times faster still. If and how electrons can be controlled that fast, however, is still largely unknown. In a groundbreaking experiment, a team led by ETH professor Ursula Keller has now investigated how electrons react to petahertz fields.\n\nIn their experiment, Keller and her collaborators exposed a tiny piece of diamond with a thickness of only 50 nanometres to an infrared laser pulse lasting a few femtoseconds (i.e., a millionth of a billionth of a second). The electric field of that laser light, having a frequency of about half a petahertz, oscillated back and forth five times in that short time and thus excited the electrons. Generally, the effect of electric fields on electrons in transparent materials can be measured indirectly by sending light through the material and then observing how strongly the material absorbs it. Whereas such measurements are easy for constant electric fields, the extremely rapidly oscillating fields of a laser beam pose a difficult challenge to the researchers. In principle, the light used for measuring the absorption should only be switched on for a fraction of the oscillation period of the electric field. That, in turn, means that a probe pulse may only last less than a femtosecond. Moreover, the oscillation phase of the electric field of the laser pulse has to be known exactly when the probe pulse is switched on."
+    },
+    {
+      "heading": "Groundwork from the 1990’s",
+      "text": "Keller’s team performed the groundwork for the solution of these problems already in the late 1990’s. “At the time we were the first to show how the oscillatory phase of a femtosecond laser pulse can be precisely stabilized”, Keller explains, “which, in turn, is a prerequisite for producing attosecond laser pulses”. That technique has since been refined and today allows the researchers to realize light pulses in the extreme ultraviolet, with wavelengths around 30 nanometres, that only last a fraction of a femtosecond and are also synchronized with the oscillatory phase of an infrared pulse. In their recent experiments the researchers at ETH used such a harnessed team of laser pulses to excite the electrons in the diamond with the electric field of the infrared pulse and, at the same time, to measure the resulting absorption changes with the ultraviolet attosecond pulse. They observed, indeed, that the absorption varied characteristically following the rhythm of the oscillating electric field of the infrared pulse.\n\nIn order to understand the details of what went on inside the diamond, however, some more detective work was necessary. First, a team of researchers led by Katsuhiro Yabana at Tsukuba University in Japan in collaboration with the physicists at ETH simulated the reaction of the electrons in diamond to the infrared pulse using a supercomputer, finding the same behaviour of the absorption that was measured in Zurich. Those simulations included the complex interplay between the electrons and the crystal lattice of diamond, which results in a large number of so-called energy bands which the electrons can occupy. “The advantage of the simulations compared to the experiment, however, is that several of the effects that occur in real diamond can be switched on or off”, says Matteo Lucchini, a postdoc in Keller’s group, “so that eventually we were able to ascribe the characteristic absorption behaviour of diamond to just two such energy bands.”"
+    },
+    {
+      "heading": "Speed limit in the petahertz realm",
+      "text": "It was that realization that, in the end, was crucial for the interpretation of the experimental data. The researchers were able to conclude that the dynamical Franz-Keldysh effect was responsible for the absorption in diamond under the influence of the infrared laser pulse. Whereas the Franz-Keldysh effect for static electric fields has been known and well understood for several years, its dynamical counterpart for extremely rapidly oscillating fields had not been observed until now. “The fact that we could still see that effect even at petahertz excitation frequencies confirmed that the electrons could, indeed, be influenced at the speed limit of the laser field”, explains Lukas Gallmann, a Senior Scientist in Keller’s lab. The dynamical interaction is also of fundamental interest as it appears in a regime that is neither dominated by quantum mechanical nor by classical light-matter interactions. This means that two kinds of physical effects simultaneously play a role: those in which light acts as energy quanta (photons), and those in which it is represented by a classical electromagnetic field. The work now published has shown that the reaction of the material to the optical field is dominated by the motion of the electrons in a single energy band rather than by transitions between different bands. In similar experiments it had been unclear up to now what exactly was going on, but the experiment at ETH has now settled that question.\n\nIt may still be a long way from this point to the realization of petahertz electronics, and other physical effects might still limit device performance. Gallmann points out, however, that the new results are relevant in several respects, showing, as they do, that at such high frequencies electrons can still be steered and switched with electric fields. “Diamond is an important material that is used in a variety of technologies ranging from opto-mechanics to biosensors”, Lucchini adds. “A detailed understanding of the interaction with light fields, which we have demonstrated now, is therefore fundamental.”\n\nLucchini M, Sato SA, Ludwig A, Herrmann J, Volkov M, Kasmi L, Shinohara Y, Yabana K, Gallmann L, Keller U. Attosecond dynamical Franz-Keldysh effect in polycrystalline diamond. Science 26 Aug 2016: Vol. 353, Issue 6302, pp. 916-919, DOI: 10.1126/science.aag1268"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Speed Limit",
+        "label": "WORK_OF_ART",
+        "start": 36,
+        "end": 51
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 245,
+        "end": 251
+      },
+      {
+        "text": "electro",
+        "label": "GPE",
+        "start": 356,
+        "end": 363
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 470,
+        "end": 475
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 585,
+        "end": 591
+      },
+      {
+        "text": "a thousand billion",
+        "label": "MONEY",
+        "start": 610,
+        "end": 628
+      },
+      {
+        "text": "a thousand",
+        "label": "CARDINAL",
+        "start": 758,
+        "end": 768
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 920,
+        "end": 923
+      },
+      {
+        "text": "Ursula Keller",
+        "label": "PERSON",
+        "start": 934,
+        "end": 947
+      },
+      {
+        "text": "Keller",
+        "label": "PERSON",
+        "start": 1031,
+        "end": 1037
+      },
+      {
+        "text": "only 50 nanometres",
+        "label": "QUANTITY",
+        "start": 1112,
+        "end": 1130
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1224,
+        "end": 1230
+      },
+      {
+        "text": "about half",
+        "label": "CARDINAL",
+        "start": 1295,
+        "end": 1305
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 1345,
+        "end": 1349
+      },
+      {
+        "text": "Keller",
+        "label": "PERSON",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "the late 1990",
+        "label": "DATE",
+        "start": 85,
+        "end": 98
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 127,
+        "end": 132
+      },
+      {
+        "text": "Keller",
+        "label": "PERSON",
+        "start": 226,
+        "end": 232
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 360,
+        "end": 365
+      },
+      {
+        "text": "around 30 nanometres",
+        "label": "QUANTITY",
+        "start": 458,
+        "end": 478
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 645,
+        "end": 648
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 1150,
+        "end": 1155
+      },
+      {
+        "text": "Katsuhiro",
+        "label": "GPE",
+        "start": 1186,
+        "end": 1195
+      },
+      {
+        "text": "Tsukuba University",
+        "label": "ORG",
+        "start": 1206,
+        "end": 1224
+      },
+      {
+        "text": "Japan",
+        "label": "GPE",
+        "start": 1228,
+        "end": 1233
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1274,
+        "end": 1277
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1440,
+        "end": 1446
+      },
+      {
+        "text": "Matteo Lucchini",
+        "label": "PERSON",
+        "start": 1807,
+        "end": 1822
+      },
+      {
+        "text": "Keller",
+        "label": "GPE",
+        "start": 1837,
+        "end": 1843
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1956,
+        "end": 1959
+      },
+      {
+        "text": "Franz-Keldysh",
+        "label": "PERSON",
+        "start": 160,
+        "end": 173
+      },
+      {
+        "text": "Franz",
+        "label": "ORG",
+        "start": 288,
+        "end": 293
+      },
+      {
+        "text": "several years",
+        "label": "DATE",
+        "start": 375,
+        "end": 388
+      },
+      {
+        "text": "Lukas Gallmann",
+        "label": "PERSON",
+        "start": 684,
+        "end": 698
+      },
+      {
+        "text": "Keller",
+        "label": "PERSON",
+        "start": 722,
+        "end": 728
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 928,
+        "end": 931
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1425,
+        "end": 1428
+      },
+      {
+        "text": "Gallmann",
+        "label": "PERSON",
+        "start": 1613,
+        "end": 1621
+      },
+      {
+        "text": "Diamond",
+        "label": "PERSON",
+        "start": 1816,
+        "end": 1823
+      },
+      {
+        "text": "Lucchini",
+        "label": "PERSON",
+        "start": 1935,
+        "end": 1943
+      },
+      {
+        "text": "Lucchini M",
+        "label": "PERSON",
+        "start": 2073,
+        "end": 2083
+      },
+      {
+        "text": "Ludwig A",
+        "label": "ORG",
+        "start": 2094,
+        "end": 2102
+      },
+      {
+        "text": "Herrmann J",
+        "label": "PERSON",
+        "start": 2104,
+        "end": 2114
+      },
+      {
+        "text": "Volkov M",
+        "label": "PERSON",
+        "start": 2116,
+        "end": 2124
+      },
+      {
+        "text": "Kasmi L",
+        "label": "PERSON",
+        "start": 2126,
+        "end": 2133
+      },
+      {
+        "text": "Shinohara Y",
+        "label": "PERSON",
+        "start": 2135,
+        "end": 2146
+      },
+      {
+        "text": "Yabana K",
+        "label": "PERSON",
+        "start": 2148,
+        "end": 2156
+      },
+      {
+        "text": "Gallmann L",
+        "label": "PERSON",
+        "start": 2158,
+        "end": 2168
+      },
+      {
+        "text": "Keller U. Attosecond",
+        "label": "PERSON",
+        "start": 2170,
+        "end": 2190
+      },
+      {
+        "text": "Franz-Keldysh",
+        "label": "PERSON",
+        "start": 2201,
+        "end": 2214
+      },
+      {
+        "text": "Issue 6302",
+        "label": "DATE",
+        "start": 2281,
+        "end": 2291
+      },
+      {
+        "text": "pp",
+        "label": "GPE",
+        "start": 2293,
+        "end": 2295
+      },
+      {
+        "text": "916-919",
+        "label": "CARDINAL",
+        "start": 2297,
+        "end": 2304
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 2311,
+        "end": 2318
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Diamond",
+        "Franz-Keldysh",
+        "Gallmann",
+        "Gallmann L",
+        "Herrmann J",
+        "Kasmi L",
+        "Keller",
+        "Keller U. Attosecond",
+        "Lucchini",
+        "Lucchini M",
+        "Lukas Gallmann",
+        "Matteo Lucchini",
+        "Shinohara Y",
+        "Ursula Keller",
+        "Volkov M",
+        "Yabana K"
+      ],
+      "ORG": [
+        "ETH",
+        "Franz",
+        "Ludwig A",
+        "Tsukuba University"
+      ],
+      "LOCATION": [
+        "Japan",
+        "Katsuhiro",
+        "Keller",
+        "Zurich",
+        "electro",
+        "pp"
+      ],
+      "DATE": [
+        "Issue 6302",
+        "Today",
+        "several years",
+        "the late 1990",
+        "today"
+      ],
+      "MISC": [
+        "10.1126",
+        "916-919",
+        "First",
+        "The Speed Limit",
+        "a thousand",
+        "a thousand billion",
+        "about half",
+        "around 30 nanometres",
+        "first",
+        "five",
+        "only 50 nanometres",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Keller": 5,
+      "ETH": 4,
+      "second": 3,
+      "two": 2,
+      "Franz-Keldysh": 2,
+      "The Speed Limit": 1,
+      "electro": 1,
+      "Today": 1,
+      "a thousand billion": 1,
+      "a thousand": 1,
+      "Ursula Keller": 1,
+      "only 50 nanometres": 1,
+      "about half": 1,
+      "five": 1,
+      "the late 1990": 1,
+      "first": 1,
+      "today": 1,
+      "around 30 nanometres": 1,
+      "First": 1,
+      "Katsuhiro": 1
+    },
+    "total_entities": 54,
+    "unique_entities": 43
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "electrons-at-the-speed-limit.md",
+      "title": "En News Events/2016/08/electrons At The Speed Limit",
+      "language": "en",
+      "source_path": "en_news_events/2016/08/electrons-at-the-speed-limit.html"
+    },
+    "temporal": {
+      "publication_date": "2016-08",
+      "mentioned_years": [
+        "1990",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Diamond",
+        "Franz-Keldysh",
+        "Gallmann",
+        "Gallmann L",
+        "Herrmann J",
+        "Kasmi L",
+        "Keller",
+        "Keller U. Attosecond",
+        "Lucchini",
+        "Lucchini M",
+        "Lukas Gallmann",
+        "Matteo Lucchini",
+        "Shinohara Y",
+        "Ursula Keller",
+        "Volkov M",
+        "Yabana K"
+      ],
+      "people_with_roles": {
+        "Diamond": [
+          "researcher"
+        ],
+        "Franz-Keldysh": [
+          "researcher"
+        ],
+        "Gallmann": [
+          "scientist"
+        ],
+        "Keller": [
+          "scientist",
+          "professor"
+        ],
+        "Lukas Gallmann": [
+          "scientist"
+        ],
+        "Ursula Keller": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1126",
+        "916-919",
+        "First",
+        "The Speed Limit",
+        "a thousand",
+        "a thousand billion",
+        "about half",
+        "around 30 nanometres",
+        "first",
+        "five",
+        "only 50 nanometres",
+        "second"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Tsukuba University",
+        "Volkov M",
+        "Katsuhiro Yabana",
+        "Lukas Gallmann",
+        "Yabana K",
+        "Shinohara Y",
+        "Franz-Keldysh",
+        "Matteo Lucchini",
+        "Senior Scientist",
+        "Lucchini M",
+        "Kasmi L",
+        "Ursula Keller",
+        "Herrmann J",
+        "Speed Limit",
+        "Sato SA",
+        "Ludwig A",
+        "At The",
+        "En News",
+        "Keller U",
+        "Gallmann L"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Franz",
+        "Ludwig A",
+        "Tsukuba University"
+      ],
+      "locations": [
+        "Japan",
+        "Katsuhiro",
+        "Keller",
+        "Zurich",
+        "electro",
+        "pp"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Keller",
+        "ETH",
+        "second",
+        "two",
+        "Franz-Keldysh",
+        "The Speed Limit",
+        "electro",
+        "Today",
+        "a thousand billion",
+        "a thousand"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Groundwork from the 1990’s",
+          "Groundwork from the 1990’s",
+          "Speed limit in the petahertz realm"
+        ],
+        "content_length": 6509
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Tsukuba University",
+        "2016",
+        "1990",
+        "Volkov M",
+        "ERC",
+        "Keller U. Attosecond",
+        "Lukas Gallmann",
+        "Yabana K",
+        "Shinohara Y",
+        "Franz-Keldysh",
+        "Matteo Lucchini",
+        "Gallmann",
+        "Lucchini M",
+        "Keller",
+        "Kasmi L",
+        "Herrmann J",
+        "Ursula Keller",
+        "Diamond",
+        "Lucchini",
+        "Ludwig A",
+        "Franz",
+        "Gallmann L"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "a thousand",
+        "The Speed Limit",
+        "a thousand billion",
+        "when",
+        "engineering",
+        "10.1126",
+        "about half",
+        "only 50 nanometres",
+        "who",
+        "916-919",
+        "what",
+        "how",
+        "five",
+        "physics",
+        "first",
+        "second",
+        "First",
+        "around 30 nanometres",
+        "where"
+      ],
+      "graph_relations": [
+        "Diamond_has_role_researcher",
+        "Franz-Keldysh_has_role_researcher",
+        "Gallmann_has_role_scientist",
+        "Keller_has_role_scientist",
+        "Keller_has_role_professor",
+        "Lukas Gallmann_has_role_scientist",
+        "Ursula Keller_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

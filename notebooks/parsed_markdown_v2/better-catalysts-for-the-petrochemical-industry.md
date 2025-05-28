@@ -1,0 +1,24 @@
+# better-catalysts-for-the-petrochemical-industry.html
+
+**Source:** en_news_events/2014/05/better-catalysts-for-the-petrochemical-industry.html
+
+## It all depends on the inner structure
+
+Zeolites are among the substances which can accelerate chemical reactions – they are known as catalysts. Usually applied in pellet form, the industrial production of gasoline from crude oil without zeolites is today inconceivable. The chemical reactions occur on their surface. Fortunately, these are very large for zeolites: the catalysts are interspersed with nano-sized pores and microscopic channels through which gaseous or liquid reactants penetrate and the products later can leave.
+
+One of the main industrial problems with the use of zeolites is that the reaction side products clog the pores or block the active sites of the catalyst. Experts call such hydrocarbon deposits ‘coke’. Consequently, the production needs to be interrupted at regular intervals to burn off the debris formed in the catalyst, thereby regenerating the latter. This reduces the efficiency of the process.
+
+## It all depends on the inner structure
+
+Researchers are therefore working to make zeolite catalysts more resistant to such deposits, thereby delaying the need for regeneration and thus, extending the production cycles. Researchers from ETH Zurich headed by Javier Pérez-Ramírez, a professor of catalysis engineering, have now identified the relation between this resistance and the internal structure of a new class of zeolite catalysts combining a complex network of pores of various sizes: “It is not only about the providing the greatest number of pores, as was previously thought”, says Sharon Mitchell, researcher in the group of Pérez-Ramírez. “Rather it is crucial that the nano-sized channels are well connected within the zeolite catalysts and has numerous openings to the outside.” This facilitates the penetration of the chemical compounds into the catalyst even when some of the pores are blocked.
+
+The researchers came to this realization by preparing catalysts with diverse pore structures in the laboratory. To achieve this they used different synthesis methods and conditions. The catalysts were subsequently studied in collaboration with Paolo Crivelli, researcher at the Department of Physics, with positron annihilation lifetime spectroscopy (PALS). This technique measures how long the positrons reside within the catalyst. The more connected the pores are, and the greater the number of openings, the faster the positrons can escape from the zeolite. In addition, the scientists assessed how quickly coke deposits formed within the various zeolite catalysts in their laboratory.
+
+## Not only better, but also cheaper
+
+“Interestingly, the method by which we could make the most resistant zeolites, was also the cheapest”, says Pérez-Ramírez. He expects that the results of the study, published in the journal Nature Communications, will animate industry to adopt their zeolite manufacturing process.
+
+Zeolite catalysts are currently used on a large scale in the petroleum industry to produce high-grade propellants, fuels and raw materials for the chemical industry. On the one hand, large hydrocarbon molecules in the crude oil can be broken down into more useful medium-sized molecules. On the other hand, zeolites can also be used to couple very small hydrocarbons – such as ethene and propene – to obtain higher quality products also of medium chain length. “Even as oil is gradually one day replaced by renewable feedstocks, such as biomass, zeolite catalysts will retain their importance,” says Pérez-Ramírez. Premium base chemicals could be produced in an efficient manner using zeolite catalysts.
+
+Milina M, Mitchell S, Crivelli P, Cooke D, Pérez-Ramírez J: Mesopore quality determines the lifetime of hierarchically-structured zeolite catalysts. Nature Communications, advance online publication 27 May 2014, doi: 10.1038/ncomms4922
+

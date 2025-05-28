@@ -1,0 +1,270 @@
+{
+  "filename": "from-data-sets-to-an-application.md",
+  "original_filename": "from-data-sets-to-an-application.html",
+  "source_path": "en_internal/2018/08/from-data-sets-to-an-application.html",
+  "date": "2018-08",
+  "title": "From Data Sets To An Application",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "None",
+      "text": "At the annual Swiss Open Cultural Data Hackathon, you have the opportunity to get together with other like-minded people and let your programming skills play. This year’s Hackathon will take place from 26-28 October 2018 at the National Museum Zurich.\n\nInterested? At the Pre-Event, we show you what happens at the Hackathon, who provides data sets and how you can get involved. The Pre-Event will take place on Tuesday 11 September 2018 from 14.00 -16.15 at ETH Zurich, building CLA, room J1(Tannenstrasse 3, 8092 Zurich). We are looking forward to seeing you! Further information and programme GLAM stands for galleries, libraries, archives, museums. The initiative openGLAM wants to help to make cultural treasures freely accessible and present them on the Internet."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Data Sets",
+        "label": "ORG",
+        "start": 25,
+        "end": 34
+      },
+      {
+        "text": "Application",
+        "label": "ORG",
+        "start": 41,
+        "end": 52
+      },
+      {
+        "text": "Swiss Open Cultural Data Hackathon",
+        "label": "EVENT",
+        "start": 14,
+        "end": 48
+      },
+      {
+        "text": "Hackathon",
+        "label": "GPE",
+        "start": 171,
+        "end": 180
+      },
+      {
+        "text": "October 2018",
+        "label": "DATE",
+        "start": 208,
+        "end": 220
+      },
+      {
+        "text": "the National Museum Zurich",
+        "label": "ORG",
+        "start": 224,
+        "end": 250
+      },
+      {
+        "text": "the Pre-Event",
+        "label": "FAC",
+        "start": 267,
+        "end": 280
+      },
+      {
+        "text": "Hackathon",
+        "label": "GPE",
+        "start": 314,
+        "end": 323
+      },
+      {
+        "text": "The Pre-Event",
+        "label": "ORG",
+        "start": 378,
+        "end": 391
+      },
+      {
+        "text": "Tuesday 11 September 2018",
+        "label": "DATE",
+        "start": 411,
+        "end": 436
+      },
+      {
+        "text": "14.00",
+        "label": "CARDINAL",
+        "start": 442,
+        "end": 447
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 458,
+        "end": 468
+      },
+      {
+        "text": "CLA",
+        "label": "ORG",
+        "start": 479,
+        "end": 482
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 514,
+        "end": 520
+      },
+      {
+        "text": "GLAM",
+        "label": "ORG",
+        "start": 595,
+        "end": 599
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Application",
+        "CLA",
+        "Data Sets",
+        "GLAM",
+        "The Pre-Event",
+        "the National Museum Zurich"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Hackathon",
+        "Zurich",
+        "the Pre-Event"
+      ],
+      "DATE": [
+        "October 2018",
+        "Tuesday 11 September 2018"
+      ],
+      "MISC": [
+        "14.00",
+        "Swiss Open Cultural Data Hackathon"
+      ]
+    },
+    "entity_counts": {
+      "Hackathon": 2,
+      "Data Sets": 1,
+      "Application": 1,
+      "Swiss Open Cultural Data Hackathon": 1,
+      "October 2018": 1,
+      "the National Museum Zurich": 1,
+      "the Pre-Event": 1,
+      "The Pre-Event": 1,
+      "Tuesday 11 September 2018": 1,
+      "14.00": 1,
+      "ETH Zurich": 1,
+      "CLA": 1,
+      "Zurich": 1,
+      "GLAM": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "from-data-sets-to-an-application.md",
+      "title": "En Internal/2018/08/from Data Sets To an Application",
+      "language": "en",
+      "source_path": "en_internal/2018/08/from-data-sets-to-an-application.html"
+    },
+    "temporal": {
+      "publication_date": "2018-08",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "14.00",
+        "Swiss Open Cultural Data Hackathon"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Data Sets",
+        "Cultural Data",
+        "The Pre",
+        "En Internal",
+        "National Museum",
+        "Swiss Open",
+        "Pre-Event",
+        "ETH Zurich",
+        "Application At"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Application",
+        "CLA",
+        "Data Sets",
+        "GLAM",
+        "The Pre-Event",
+        "the National Museum Zurich"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Hackathon",
+        "Zurich",
+        "the Pre-Event"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Hackathon",
+        "Data Sets",
+        "Application",
+        "Swiss Open Cultural Data Hackathon",
+        "October 2018",
+        "the National Museum Zurich",
+        "the Pre-Event",
+        "The Pre-Event",
+        "Tuesday 11 September 2018",
+        "14.00"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "None"
+        ],
+        "content_length": 822
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Application",
+        "2018",
+        "Data Sets",
+        "the National Museum Zurich",
+        "CLA",
+        "EU",
+        "The Pre-Event",
+        "GLAM"
+      ],
+      "semantic_concepts": [
+        "Swiss Open Cultural Data Hackathon",
+        "who",
+        "14.00",
+        "what",
+        "how",
+        "computer_science",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

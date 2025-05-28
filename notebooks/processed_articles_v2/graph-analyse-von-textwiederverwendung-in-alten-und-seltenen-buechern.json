@@ -1,0 +1,285 @@
+{
+  "filename": "graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern.md",
+  "original_filename": "graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern.html",
+  "source_path": "en_internal/2022/08/graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern.html",
+  "date": "2022-08",
+  "title": "Graph Analyse Von Textwiederverwendung In Alten Und Seltenen Buechern",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Pinpoint the origin of certain text passages with Graph",
+      "text": "- Find correlations between books in the graphical visualisation, which can be arranged chronologically and makes it possible to quickly identify works containing many passages that have been reused.\n\n- Filter or scroll through the full list of books and find out which other works they are related to, enabling you to switch between wider and more local contexts.\n\n- Use the comparator view for a side-by-side reading of text passages extracted from two different works.\n\n- New: Use the ‘overview’ to see how passages taken from one book are distributed in another.\n\nThe Plattform Graph , a collaboration between the ETH Library and the Chair of the History and Theory of Architecture at the Institute for the History and Theory of Architecture, visualises patterns of text reuse across a corpus of works to create a map outlining their various connections."
+    },
+    {
+      "heading": "Pinpoint the origin of certain text passages with Graph",
+      "text": "Tracing the relationships between books by finding out which sections of text they share helps us understand which books authors were referencing when writing their own texts and enables us to trace the genealogy, dissemination and transformation of certain ideas across various publications, both temporally and geographically. This means we are able to pinpoint the origin of certain formulations or constellations of words within the mass of printed material. Mapping the reuse of texts roots the circulation of ideas in material objects, each with its own history."
+    },
+    {
+      "heading": "Advantages of text reuse for architectural history",
+      "text": "Text reuse is particularly relevant to architectural history, with a great number of texts being rooted in Vitruvius’ De architectura, the only remaining architecture treatise from Antiquity. From the fifteenth century up to the present day, architects and authors have continuously been editing, translating, citing, commenting on, and adapting this key work. This growing body of texts itself also provides reference material for subsequent works. Exploring the connections within this body of texts may help to generate new insights into how ideas surrounding architecture were developed, and, perhaps more importantly, could raise new questions about the provenance, dissemination and transformation of architectural thought."
+    },
+    {
+      "heading": "How to use the Graph platform",
+      "text": "The extracted passages can be used in various ways:\n\nThe current dataset is based on roughly 1,300 rare architecture books from the holdings of the ETH Library. A total of 800,000 pages can be viewed on e-rara , the platform for digitised rare books from Swiss institutions.\n\nMore than just data – Benefit from know-how\n\n#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Analyse von Textwiederverwendung",
+        "label": "PERSON",
+        "start": 26,
+        "end": 58
+      },
+      {
+        "text": "Alten",
+        "label": "GPE",
+        "start": 62,
+        "end": 67
+      },
+      {
+        "text": "Seltenen Buechern",
+        "label": "PERSON",
+        "start": 72,
+        "end": 89
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 449,
+        "end": 452
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 527,
+        "end": 530
+      },
+      {
+        "text": "The Plattform Graph",
+        "label": "FAC",
+        "start": 564,
+        "end": 583
+      },
+      {
+        "text": "the Chair of the History and Theory of Architecture",
+        "label": "ORG",
+        "start": 630,
+        "end": 681
+      },
+      {
+        "text": "the Institute for the History and Theory of Architecture",
+        "label": "ORG",
+        "start": 685,
+        "end": 741
+      },
+      {
+        "text": "Vitruvius’ De architectura",
+        "label": "ORG",
+        "start": 107,
+        "end": 133
+      },
+      {
+        "text": "the fifteenth century",
+        "label": "DATE",
+        "start": 197,
+        "end": 218
+      },
+      {
+        "text": "the present day",
+        "label": "DATE",
+        "start": 225,
+        "end": 240
+      },
+      {
+        "text": "roughly 1,300",
+        "label": "CARDINAL",
+        "start": 84,
+        "end": 97
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 143,
+        "end": 158
+      },
+      {
+        "text": "800,000",
+        "label": "CARDINAL",
+        "start": 171,
+        "end": 178
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 254,
+        "end": 259
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 360,
+        "end": 375
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Analyse von Textwiederverwendung",
+        "Seltenen Buechern"
+      ],
+      "ORG": [
+        "Vitruvius’ De architectura",
+        "the Chair of the History and Theory of Architecture",
+        "the ETH Library",
+        "the Institute for the History and Theory of Architecture"
+      ],
+      "LOCATION": [
+        "Alten",
+        "The Plattform Graph"
+      ],
+      "DATE": [
+        "the fifteenth century",
+        "the present day"
+      ],
+      "MISC": [
+        "800,000",
+        "Swiss",
+        "one",
+        "roughly 1,300",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "the ETH Library": 2,
+      "Analyse von Textwiederverwendung": 1,
+      "Alten": 1,
+      "Seltenen Buechern": 1,
+      "two": 1,
+      "one": 1,
+      "The Plattform Graph": 1,
+      "the Chair of the History and Theory of Architecture": 1,
+      "the Institute for the History and Theory of Architecture": 1,
+      "Vitruvius’ De architectura": 1,
+      "the fifteenth century": 1,
+      "the present day": 1,
+      "roughly 1,300": 1,
+      "800,000": 1,
+      "Swiss": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern.md",
+      "title": "En Internal/2022/08/graph Analyse von Textwiederverwendung in Alten und Seltenen Buechern",
+      "language": "en",
+      "source_path": "en_internal/2022/08/graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Analyse von Textwiederverwendung",
+        "Seltenen Buechern"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "chair",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "800,000",
+        "Swiss",
+        "roughly 1,300"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "The Plattform",
+        "ETH Library",
+        "Seltenen Buechern",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "the History and Theory of Architecture"
+      ],
+      "institutions": [
+        "Vitruvius’ De architectura",
+        "the Chair of the History and Theory of Architecture",
+        "the ETH Library",
+        "the Institute for the History and Theory of Architecture"
+      ],
+      "locations": [
+        "Alten",
+        "The Plattform Graph"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "the ETH Library",
+        "Analyse von Textwiederverwendung",
+        "Alten",
+        "Seltenen Buechern",
+        "two",
+        "one",
+        "The Plattform Graph",
+        "the Chair of the History and Theory of Architecture",
+        "the Institute for the History and Theory of Architecture",
+        "Vitruvius’ De architectura"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Pinpoint the origin of certain text passages with Graph",
+          "Pinpoint the origin of certain text passages with Graph",
+          "Advantages of text reuse for architectural history",
+          "How to use the Graph platform"
+        ],
+        "content_length": 2680
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "Seltenen Buechern",
+        "2022",
+        "Analyse von Textwiederverwendung",
+        "the Chair of the History and Theory of Architecture",
+        "the ETH Library",
+        "Vitruvius’ De architectura",
+        "the Institute for the History and Theory of Architecture"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "roughly 1,300",
+        "Swiss",
+        "how",
+        "800,000",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

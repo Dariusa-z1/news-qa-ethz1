@@ -1,0 +1,203 @@
+{
+  "filename": "fair-algorithms.md",
+  "original_filename": "fair-algorithms.html",
+  "source_path": "en_news_events/2019/05/fair-algorithms.html",
+  "date": "2019-05",
+  "title": "Fair Algorithms",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "“Everything I do on the computer or smartphone is public to a certain extent,” says computer scientist Hoda Heidari. In the new ETH Podcast, she and Elliott Ash, Professor for Law, Economics, and Data Science, talk about the huge digital footprint that we leave behind us on a daily basis. They also discuss how big data is changing the world and our perceptions, why governments are still lagging behind this transformation and how algorithms can learn and become fairer in the process."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Algorithms",
+        "label": "PERSON",
+        "start": 28,
+        "end": 38
+      },
+      {
+        "text": "Hoda Heidari",
+        "label": "PERSON",
+        "start": 103,
+        "end": 115
+      },
+      {
+        "text": "ETH Podcast",
+        "label": "ORG",
+        "start": 128,
+        "end": 139
+      },
+      {
+        "text": "Elliott Ash",
+        "label": "PERSON",
+        "start": 149,
+        "end": 160
+      },
+      {
+        "text": "Law, Economics",
+        "label": "ORG",
+        "start": 176,
+        "end": 190
+      },
+      {
+        "text": "Data Science",
+        "label": "ORG",
+        "start": 196,
+        "end": 208
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 277,
+        "end": 282
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Algorithms",
+        "Elliott Ash",
+        "Hoda Heidari"
+      ],
+      "ORG": [
+        "Data Science",
+        "ETH Podcast",
+        "Law, Economics"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "daily"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Algorithms": 1,
+      "Hoda Heidari": 1,
+      "ETH Podcast": 1,
+      "Elliott Ash": 1,
+      "Law, Economics": 1,
+      "Data Science": 1,
+      "daily": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "fair-algorithms.md",
+      "title": "En News Events/2019/05/fair Algorithms",
+      "language": "en",
+      "source_path": "en_news_events/2019/05/fair-algorithms.html"
+    },
+    "temporal": {
+      "publication_date": "2019-05",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Algorithms",
+        "Elliott Ash",
+        "Hoda Heidari"
+      ],
+      "people_with_roles": {
+        "Algorithms": [
+          "scientist"
+        ],
+        "Elliott Ash": [
+          "professor"
+        ],
+        "Hoda Heidari": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Elliott Ash",
+        "En News",
+        "Everything I",
+        "ETH Podcast",
+        "Hoda Heidari",
+        "Data Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Data Science",
+        "ETH Podcast",
+        "Law, Economics"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Algorithms",
+        "Hoda Heidari",
+        "ETH Podcast",
+        "Elliott Ash",
+        "Law, Economics",
+        "Data Science",
+        "daily"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 526
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Elliott Ash",
+        "Law, Economics",
+        "ETH Podcast",
+        "2019",
+        "Hoda Heidari",
+        "Algorithms",
+        "Data Science",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "how",
+        "computer_science",
+        "why"
+      ],
+      "graph_relations": [
+        "Algorithms_has_role_scientist",
+        "Elliott Ash_has_role_professor",
+        "Hoda Heidari_has_role_scientist",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

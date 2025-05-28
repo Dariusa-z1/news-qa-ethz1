@@ -1,0 +1,208 @@
+{
+  "filename": "snsf-and-eu-funding-opportunities-and-regulations.md",
+  "original_filename": "snsf-and-eu-funding-opportunities-and-regulations.html",
+  "source_path": "en_internal/2018/01/snsf-and-eu-funding-opportunities-and-regulations.html",
+  "date": "2018-01",
+  "title": "Snsf And Eu Funding Opportunities And Regulations",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Representatives of Swiss National Science Foundation (SNSF) and EU GrantsAccess will be presenting funding opportunities, and representatives from ETH Library will talk about how to comply with the new open access and data management plan regulations from SNSF.\n\nThe event takes place on Monday 22 January at 10.00 at ETH Hönggerberg HCI G3 and will be followed by an apéro.\n\nIf interested, please register here until 19 January\n\nFor questions related to this event, please contact the .\n\nDuring the event, photos or video recordings of your person can be made. With your participation in the event, you agree that the recordings may be used by ETH Zurich without financial compensation nor temporal or local restrictions."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Eu Funding Opportunities",
+        "label": "ORG",
+        "start": 29,
+        "end": 53
+      },
+      {
+        "text": "Representatives of Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 0,
+        "end": 52
+      },
+      {
+        "text": "EU GrantsAccess",
+        "label": "ORG",
+        "start": 64,
+        "end": 79
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 147,
+        "end": 158
+      },
+      {
+        "text": "Monday 22 January",
+        "label": "DATE",
+        "start": 287,
+        "end": 304
+      },
+      {
+        "text": "10.00",
+        "label": "CARDINAL",
+        "start": 308,
+        "end": 313
+      },
+      {
+        "text": "Hönggerberg HCI G3",
+        "label": "PERSON",
+        "start": 321,
+        "end": 339
+      },
+      {
+        "text": "19 January",
+        "label": "DATE",
+        "start": 416,
+        "end": 426
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 641,
+        "end": 651
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hönggerberg HCI G3"
+      ],
+      "ORG": [
+        "ETH Library",
+        "ETH Zurich",
+        "EU GrantsAccess",
+        "Eu Funding Opportunities",
+        "Representatives of Swiss National Science Foundation"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "19 January",
+        "Monday 22 January"
+      ],
+      "MISC": [
+        "10.00"
+      ]
+    },
+    "entity_counts": {
+      "Eu Funding Opportunities": 1,
+      "Representatives of Swiss National Science Foundation": 1,
+      "EU GrantsAccess": 1,
+      "ETH Library": 1,
+      "Monday 22 January": 1,
+      "10.00": 1,
+      "Hönggerberg HCI G3": 1,
+      "19 January": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "snsf-and-eu-funding-opportunities-and-regulations.md",
+      "title": "En Internal/2018/01/snsf And Eu Funding Opportunities And Regulations",
+      "language": "en",
+      "source_path": "en_internal/2018/01/snsf-and-eu-funding-opportunities-and-regulations.html"
+    },
+    "temporal": {
+      "publication_date": "2018-01",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Hönggerberg HCI G3"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "10.00"
+      ],
+      "grants_funding": [
+        "EU",
+        "grant",
+        "funding"
+      ],
+      "projects": [
+        "Funding Opportunities",
+        "EU GrantsAccess",
+        "ETH Library",
+        "En Internal",
+        "Swiss National",
+        "Science Foundation",
+        "And Regulations",
+        "And Eu",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library",
+        "ETH Zurich",
+        "EU GrantsAccess",
+        "Eu Funding Opportunities",
+        "Representatives of Swiss National Science Foundation"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Eu Funding Opportunities",
+        "Representatives of Swiss National Science Foundation",
+        "EU GrantsAccess",
+        "ETH Library",
+        "Monday 22 January",
+        "10.00",
+        "Hönggerberg HCI G3",
+        "19 January",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 792
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Representatives of Swiss National Science Foundation",
+        "2018",
+        "grant",
+        "ETH Library",
+        "EU",
+        "EU GrantsAccess",
+        "Hönggerberg HCI G3",
+        "funding",
+        "Eu Funding Opportunities",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "who",
+        "10.00",
+        "how",
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

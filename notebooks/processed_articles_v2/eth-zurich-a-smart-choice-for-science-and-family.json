@@ -1,0 +1,247 @@
+{
+  "filename": "eth-zurich-a-smart-choice-for-science-and-family.md",
+  "original_filename": "eth-zurich-a-smart-choice-for-science-and-family.html",
+  "source_path": "en_internal/2013/12/eth-zurich-a-smart-choice-for-science-and-family.html",
+  "date": "2013-12",
+  "title": "Eth Zurich A Smart Choice For Science And Family",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "To maintain its position as a leading research and academic institution, ETH Zurich endeavours to attract the most highly qualified scientists. In recent years, recruitement has expanded to include international candidates. In fact, the number of non-Swiss professors has significantly increased over the last decade. Today, 34.7% of the ETH Zurich faculty are from abroad.\n\nBut what happens to them once they have arrived? And how have they responded to their new working and living environment in Zurich? By providing a range of integration services, the Office for Faculty Affairs at ETH Zurich makes sure newcoming professors and their families settle in nicely.\n\nThree professors and their families share their transition experience in the following video series:\n\nETH Zurich - a smart choice for science and family\n\nDespite having to make difficult choices, these international families believe relocating to Zurich has been an overall improvement to their professional and private lives."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 24,
+        "end": 30
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 73,
+        "end": 83
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 147,
+        "end": 159
+      },
+      {
+        "text": "non-Swiss",
+        "label": "NORP",
+        "start": 247,
+        "end": 256
+      },
+      {
+        "text": "the last decade",
+        "label": "DATE",
+        "start": 301,
+        "end": 316
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 318,
+        "end": 323
+      },
+      {
+        "text": "34.7%",
+        "label": "PERCENT",
+        "start": 325,
+        "end": 330
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 338,
+        "end": 348
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 498,
+        "end": 504
+      },
+      {
+        "text": "the Office for Faculty Affairs",
+        "label": "ORG",
+        "start": 552,
+        "end": 582
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 586,
+        "end": 596
+      },
+      {
+        "text": "Three",
+        "label": "CARDINAL",
+        "start": 666,
+        "end": 671
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 767,
+        "end": 777
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 911,
+        "end": 917
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "the Office for Faculty Affairs"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "Today",
+        "recent years",
+        "the last decade"
+      ],
+      "MISC": [
+        "34.7%",
+        "Three",
+        "non-Swiss"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 4,
+      "Zurich": 3,
+      "recent years": 1,
+      "non-Swiss": 1,
+      "the last decade": 1,
+      "Today": 1,
+      "34.7%": 1,
+      "the Office for Faculty Affairs": 1,
+      "Three": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-zurich-a-smart-choice-for-science-and-family.md",
+      "title": "En Internal/2013/12/eth Zurich A Smart Choice For Science And Family",
+      "language": "en",
+      "source_path": "en_internal/2013/12/eth-zurich-a-smart-choice-for-science-and-family.html"
+    },
+    "temporal": {
+      "publication_date": "2013-12",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "scientist",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "34.7%",
+        "Three",
+        "non-Swiss"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Faculty Affairs",
+        "En Internal",
+        "Zurich A",
+        "ETH Zurich",
+        "And Family",
+        "Smart Choice",
+        "For Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "the Office for Faculty Affairs"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Zurich",
+        "recent years",
+        "non-Swiss",
+        "the last decade",
+        "Today",
+        "34.7%",
+        "the Office for Faculty Affairs",
+        "Three"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1063
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "2013",
+        "the Office for Faculty Affairs"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "non-Swiss",
+        "who",
+        "Three",
+        "what",
+        "how",
+        "34.7%",
+        "when"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_scientist",
+        "ETH Zurich_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

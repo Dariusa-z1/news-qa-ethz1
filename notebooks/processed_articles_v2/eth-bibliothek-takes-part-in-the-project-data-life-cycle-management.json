@@ -1,0 +1,173 @@
+{
+  "filename": "eth-bibliothek-takes-part-in-the-project-data-life-cycle-management.md",
+  "original_filename": "eth-bibliothek-takes-part-in-the-project-data-life-cycle-management.html",
+  "source_path": "en_internal/2015/09/eth-bibliothek-takes-part-in-the-project-data-life-cycle-management.html",
+  "date": "2015-09",
+  "title": "Eth Bibliothek Takes Part In The Project Data Life Cycle Management",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Its main goal is to create sustainable and concrete solutions for the management of research data throughout its entire lifecycle.\n\nThis involves the following aspects:\n\nBesides effective technical solutions, standards for best practices are also developed.\n\nFrom ETH Zurich, the Digital Curation at ETH Zurich and the Department ID Scientific IT Services are involved in the project. Further information and partners are available on the swissuniversities website and on the blog Innovation@ETH-Bibliothek ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Project Data Life Cycle Management",
+        "label": "ORG",
+        "start": 49,
+        "end": 87
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 261,
+        "end": 271
+      },
+      {
+        "text": "the Digital Curation",
+        "label": "ORG",
+        "start": 273,
+        "end": 293
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 297,
+        "end": 307
+      },
+      {
+        "text": "the Department ID Scientific IT Services",
+        "label": "ORG",
+        "start": 312,
+        "end": 352
+      },
+      {
+        "text": "Innovation@ETH-Bibliothek",
+        "label": "PERSON",
+        "start": 478,
+        "end": 503
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Innovation@ETH-Bibliothek"
+      ],
+      "ORG": [
+        "The Project Data Life Cycle Management",
+        "the Department ID Scientific IT Services",
+        "the Digital Curation"
+      ],
+      "LOCATION": [
+        "ETH Zurich"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "The Project Data Life Cycle Management": 1,
+      "the Digital Curation": 1,
+      "the Department ID Scientific IT Services": 1,
+      "Innovation@ETH-Bibliothek": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-bibliothek-takes-part-in-the-project-data-life-cycle-management.md",
+      "title": "En Internal/2015/09/eth Bibliothek Takes Part in The Project Data Life Cycle Management",
+      "language": "en",
+      "source_path": "en_internal/2015/09/eth-bibliothek-takes-part-in-the-project-data-life-cycle-management.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Innovation@ETH-Bibliothek"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "From ETH",
+        "Digital Curation",
+        "Data Life",
+        "En Internal",
+        "ETH Zurich",
+        "Department ID",
+        "Scientific IT",
+        "The Project",
+        "Bibliothek Takes",
+        "Cycle Management"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "The Project Data Life Cycle Management",
+        "the Department ID Scientific IT Services",
+        "the Digital Curation"
+      ],
+      "locations": [
+        "ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "The Project Data Life Cycle Management",
+        "the Digital Curation",
+        "the Department ID Scientific IT Services",
+        "Innovation@ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 596
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "The Project Data Life Cycle Management",
+        "2015",
+        "the Digital Curation",
+        "the Department ID Scientific IT Services",
+        "ETH Zurich",
+        "Innovation@ETH-Bibliothek"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "why",
+        "what"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

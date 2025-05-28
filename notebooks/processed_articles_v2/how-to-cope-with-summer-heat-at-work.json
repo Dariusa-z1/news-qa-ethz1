@@ -1,0 +1,284 @@
+{
+  "filename": "how-to-cope-with-summer-heat-at-work.md",
+  "original_filename": "how-to-cope-with-summer-heat-at-work.html",
+  "source_path": "en_internal/2022/06/how-to-cope-with-summer-heat-at-work.html",
+  "date": "2022-06",
+  "title": "How To Cope With Summer Heat At Work",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "What you can do",
+      "text": "- Use night cooling: ventilate rooms well in the early morning hours\n\n- Prevent sunlight from entering the room: close blinds and shutters\n\n- Keep windows closed in hot weather, especially when the shutters are closed\n\n- If possible, choose more lightweight clothing; if necessary, adapt dress code (avoid ties as well as tight-fitting or long clothing)\n\n- Shade façades and windows (e.g. with a canopy, external blinds, plants)\n\n- Reduce sources of heat in the building (e.g. turn off lighting, office equipment or machinery when not in use)\n\n- Increase air circulation at the workplace (e.g. with fans)\n\n- Adjust work activities, working time and break arrangements: e.g. start work earlier; use flexitime arrangements or work from home; schedule rest breaks in cool places\n\n- Spend more time in cooler areas\n\n- Show consideration for vulnerable staff: adolescents, pregnant and breastfeeding women, and employees with health problems\n\n- Provide employees with information about heat effects such as thirst, dry mouth, weakness, confusion, dizziness, nausea, headache, muscle cramps or vomiting\n\nSummer is here, and many of us are now enjoying the long days and summer temperatures. But the summer heat doesn’t stop at the office door. The good news is that people tend to cope well with hot days of up to 28°C air temperature in the workplace and perceive them as pleasant, provided that the humidity is below 40%. However, once room temperatures top 30°C, more care should be taken, as heat complaints such as nausea, headaches or dizziness can occur quite quickly."
+    },
+    {
+      "heading": "What you can do",
+      "text": "One piece of advice is perhaps no surprise, but still immensely important: make sure you drink enough – in summer, drink at least 1.5 litres over the course of the day, preferably water or unsweetened tea at room temperature. By the time most of us notice that we’re thirsty, the body is already long overdue some fluids; thirst is a fairly late warning signal. That’s why you should drink regularly at work, even if you don’t feel thirsty.\n\nProper nutrition can also help you get through a hot day well: during breaks, you should eat cold, refreshing foods such as fruits, salads, vegetables and dairy products. Also, make sure you have an adequate intake of salt.\n\nSpecial consideration should be given to pregnant women: as soon as room temperatures exceed 28°C, they will need an individual risk analysis and protective measures. Supervisors should contact for more information.\n\nHere are some other ways to make the summer heat as bearable as possible:\n\nPrecautionary measures\n\nTechnical protective measures\n\nOrganisational measures\n\nFurther information (in German only) can be found in the fact sheet Office work in the heat prepared by the State Secretariat for Economic Affairs (SECO).\n\nYou can also call the SSHE first aid team on the internal number 888 or from outside / via mobile phone on +41 44 342 11 88."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the early morning hours",
+        "label": "TIME",
+        "start": 45,
+        "end": 68
+      },
+      {
+        "text": "Summer",
+        "label": "DATE",
+        "start": 1087,
+        "end": 1093
+      },
+      {
+        "text": "the long days",
+        "label": "DATE",
+        "start": 1135,
+        "end": 1148
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 1153,
+        "end": 1159
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 1182,
+        "end": 1188
+      },
+      {
+        "text": "days",
+        "label": "DATE",
+        "start": 1283,
+        "end": 1287
+      },
+      {
+        "text": "up to 28",
+        "label": "CARDINAL",
+        "start": 1291,
+        "end": 1299
+      },
+      {
+        "text": "below 40%",
+        "label": "PERCENT",
+        "start": 1396,
+        "end": 1405
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 107,
+        "end": 113
+      },
+      {
+        "text": "at least 1.5",
+        "label": "CARDINAL",
+        "start": 121,
+        "end": 133
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 160,
+        "end": 167
+      },
+      {
+        "text": "a hot day",
+        "label": "DATE",
+        "start": 488,
+        "end": 497
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 918,
+        "end": 924
+      },
+      {
+        "text": "Organisational",
+        "label": "ORG",
+        "start": 1008,
+        "end": 1022
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 1056,
+        "end": 1062
+      },
+      {
+        "text": "the State Secretariat for Economic Affairs",
+        "label": "ORG",
+        "start": 1136,
+        "end": 1178
+      },
+      {
+        "text": "11 88",
+        "label": "DATE",
+        "start": 1305,
+        "end": 1310
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Organisational",
+        "the State Secretariat for Economic Affairs"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "11 88",
+        "Summer",
+        "a hot day",
+        "days",
+        "summer",
+        "the day",
+        "the early morning hours",
+        "the long days"
+      ],
+      "MISC": [
+        "German",
+        "One",
+        "at least 1.5",
+        "below 40%",
+        "up to 28"
+      ]
+    },
+    "entity_counts": {
+      "summer": 4,
+      "the early morning hours": 1,
+      "Summer": 1,
+      "the long days": 1,
+      "days": 1,
+      "up to 28": 1,
+      "below 40%": 1,
+      "One": 1,
+      "at least 1.5": 1,
+      "the day": 1,
+      "a hot day": 1,
+      "Organisational": 1,
+      "German": 1,
+      "the State Secretariat for Economic Affairs": 1,
+      "11 88": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-to-cope-with-summer-heat-at-work.md",
+      "title": "En Internal/2022/06/how To Cope With Summer Heat At Work",
+      "language": "en",
+      "source_path": "en_internal/2022/06/how-to-cope-with-summer-heat-at-work.html"
+    },
+    "temporal": {
+      "publication_date": "2022-06",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "German",
+        "at least 1.5",
+        "below 40%",
+        "up to 28"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "With Summer",
+        "To Cope",
+        "En Internal",
+        "Heat At",
+        "State Secretariat",
+        "Economic Affairs"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Organisational",
+        "the State Secretariat for Economic Affairs"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "summer",
+        "the early morning hours",
+        "Summer",
+        "the long days",
+        "days",
+        "up to 28",
+        "below 40%",
+        "One",
+        "at least 1.5",
+        "the day"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "What you can do",
+          "What you can do"
+        ],
+        "content_length": 2946
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2022",
+        "ERC",
+        "Organisational",
+        "the State Secretariat for Economic Affairs"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "why",
+        "at least 1.5",
+        "where",
+        "how",
+        "German",
+        "medical_research",
+        "up to 28",
+        "when",
+        "below 40%"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

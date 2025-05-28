@@ -1,0 +1,350 @@
+{
+  "filename": "blog-jasper-machine-learning-in-architecture.md",
+  "original_filename": "blog-jasper-machine-learning-in-architecture.html",
+  "source_path": "en_news_events/2018/12/blog-jasper-machine-learning-in-architecture.html",
+  "date": "2018-12",
+  "title": "Blog Jasper Machine Learning In Architecture",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Architect of the money bag",
+      "text": "I recently accompanied a group of architecture students for a few days of a seminar week. We visited people in many different professions in order to understand how machine learning and artificial intelligence affect their working lives. Do the students have cause for concern?\n\nIf one thinks of a profession in terms of a set of skills honed for performing specialised tasks, then the threat posed by technology is real. It is difficult, even with constant retraining, to outpace the speed with which new platforms and new techniques render such skills redundant. But there are alternatives. One possibility for architecture is to broaden the definition of the architect’s role, rather than limit it through technology."
+    },
+    {
+      "heading": "Architect of the money bag",
+      "text": "In John Evelyn’s 17th century account of architects and architecture, the title of “architect” is given to multiple roles in the building industry. There’s the architectus ingenio, who has mastered all the arts, from geometry to hygiene, from history to optics. There’s the architectus manuarius, who does a lot of the actual building. And then there’s the architectus sumptuarius. This is the architect of the money bag – that much vilified figure of architectural history, who we today recognize as the property developer. Property developers are not greatly celebrated in architecture discourse, because a developer is motivated above all by the predicted return, and is notoriously prepared to erase all the creativity and spatial intelligence in an architectural project in order to maximise it. But up until now, developers have had only a very crude and unreliable set of tools for measuring the architectural quality of spaces."
+    },
+    {
+      "heading": "Blind algorithms",
+      "text": "Zillow, one of the largest real estate portals in the United States, with millions of transactions on its books, proudly noted in a press release in 2016 that it was capable of predicting prices within 6% accuracy, roughly half of the time. Hardly impressive considering the gigantic amount of data involved! A cursory look at the algorithm makes clear how blind the process is. Certain kinds of data are easy enough to gather: the number of square metres of interior space, the number of bedrooms, the year in which the house was built, the average price in the neighbourhood. None of this information says much about the house itself. Such predictive systems have no capacity to recognise the qualitative differences that are so influential in human decision making. Factors such as the proportions of rooms, ceiling height, the nature of the materials, ambient noise, or even such obvious facts as aspect and natural light – precisely those things a human would care about – are not included in calculations."
+    },
+    {
+      "heading": "Making smart use of data",
+      "text": "Imagine, however, if one could use the available data to infer whether an apartment would feel cosy or cramped, if rooms would seem spacious or cold. It is precisely this task that is at the centre of the work of an ETH startup called Archilyse. Archilyse does not gather more data than its competitors, but attempts to do so more intelligently, to provide developers and architects with better tools for predicting the final value of a property. Using floor plans and urban contextual data, the company attempts to infer the subjective qualities of a space. Archilyse can, for example, make visible where and how much noise to expect in an apartment."
+    },
+    {
+      "heading": "About the author",
+      "text": "If maximising profit could suddenly be understood not as maximising space, but as maximising the quality of space, development might suddenly take on a rather different aspect. It is here that machine learning comes in, for it can help develop tools with which predictions regarding the quality of space might be made. If ceiling heights can be proven to matter, if careful modulation of space can be shown to work, if natural light makes money, developers will pay attention to them. Such tools would change the metrics that constrain architecture, they would equip talented architects to make a case for intelligent designs. But it is up to the experts themselves to use these tools.\n\nOf all the professions that the students visited in the seminar week, it was a violin maker who was most optimistic about the future. Surrounded by violins, some of them made at the same time as John Evelyn’s account of architecture was first published, he also had a computer on his desk that he used as a matter of course for sensitive calibrations for the instruments. He wasn’t threatened by computation, because the ends that it served were always his own – to better make violins.\n\nPassivity is an attitude that even architects cannot afford. In spite of the hype, machine learning will not perform the task of good design. Artificial intelligence will not do the work of an architect, rather, it will enlarge it.\n\nAdam Jasper Assistant at the Institute for the History and Theory of Architecture (gta) of ETH Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Jasper Machine Learning in Architecture",
+        "label": "ORG",
+        "start": 28,
+        "end": 67
+      },
+      {
+        "text": "a few days",
+        "label": "DATE",
+        "start": 60,
+        "end": 70
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 592,
+        "end": 595
+      },
+      {
+        "text": "John Evelyn’s",
+        "label": "PERSON",
+        "start": 3,
+        "end": 16
+      },
+      {
+        "text": "17th century",
+        "label": "DATE",
+        "start": 17,
+        "end": 29
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 482,
+        "end": 487
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "the United States",
+        "label": "GPE",
+        "start": 50,
+        "end": 67
+      },
+      {
+        "text": "millions",
+        "label": "CARDINAL",
+        "start": 74,
+        "end": 82
+      },
+      {
+        "text": "6%",
+        "label": "PERCENT",
+        "start": 202,
+        "end": 204
+      },
+      {
+        "text": "roughly half",
+        "label": "CARDINAL",
+        "start": 215,
+        "end": 227
+      },
+      {
+        "text": "the year",
+        "label": "DATE",
+        "start": 499,
+        "end": 507
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 216,
+        "end": 219
+      },
+      {
+        "text": "Archilyse.",
+        "label": "WORK_OF_ART",
+        "start": 235,
+        "end": 245
+      },
+      {
+        "text": "Archilyse",
+        "label": "PERSON",
+        "start": 246,
+        "end": 255
+      },
+      {
+        "text": "Archilyse",
+        "label": "PERSON",
+        "start": 559,
+        "end": 568
+      },
+      {
+        "text": "the seminar week",
+        "label": "DATE",
+        "start": 738,
+        "end": 754
+      },
+      {
+        "text": "John Evelyn’s",
+        "label": "PERSON",
+        "start": 881,
+        "end": 894
+      },
+      {
+        "text": "Adam Jasper",
+        "label": "PERSON",
+        "start": 1405,
+        "end": 1416
+      },
+      {
+        "text": "the Institute for the History and Theory of Architecture",
+        "label": "ORG",
+        "start": 1430,
+        "end": 1486
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1496,
+        "end": 1506
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Adam Jasper",
+        "Archilyse",
+        "ETH Zurich",
+        "John Evelyn’s"
+      ],
+      "ORG": [
+        "ETH",
+        "En News",
+        "Jasper Machine Learning in Architecture",
+        "the Institute for the History and Theory of Architecture"
+      ],
+      "LOCATION": [
+        "the United States"
+      ],
+      "DATE": [
+        "17th century",
+        "a few days",
+        "the seminar week",
+        "the year",
+        "today"
+      ],
+      "MISC": [
+        "6%",
+        "Archilyse.",
+        "One",
+        "millions",
+        "one",
+        "roughly half"
+      ]
+    },
+    "entity_counts": {
+      "John Evelyn’s": 2,
+      "Archilyse": 2,
+      "En News": 1,
+      "Jasper Machine Learning in Architecture": 1,
+      "a few days": 1,
+      "One": 1,
+      "17th century": 1,
+      "today": 1,
+      "one": 1,
+      "the United States": 1,
+      "millions": 1,
+      "6%": 1,
+      "roughly half": 1,
+      "the year": 1,
+      "ETH": 1,
+      "Archilyse.": 1,
+      "the seminar week": 1,
+      "Adam Jasper": 1,
+      "the Institute for the History and Theory of Architecture": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 22,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "blog-jasper-machine-learning-in-architecture.md",
+      "title": "En News Events/2018/12/blog Jasper Machine Learning in Architecture",
+      "language": "en",
+      "source_path": "en_news_events/2018/12/blog-jasper-machine-learning-in-architecture.html"
+    },
+    "temporal": {
+      "publication_date": "2018-12",
+      "mentioned_years": [
+        "2016",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Adam Jasper",
+        "Archilyse",
+        "ETH Zurich",
+        "John Evelyn’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Archilyse.",
+        "millions",
+        "roughly half"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Jasper Machine",
+        "En News",
+        "Adam Jasper",
+        "In John",
+        "John Evelyn",
+        "ETH Zurich",
+        "Architecture I",
+        "United States"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "the History and Theory of Architecture "
+      ],
+      "institutions": [
+        "ETH",
+        "En News",
+        "Jasper Machine Learning in Architecture",
+        "the Institute for the History and Theory of Architecture"
+      ],
+      "locations": [
+        "the United States"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "John Evelyn’s",
+        "Archilyse",
+        "En News",
+        "Jasper Machine Learning in Architecture",
+        "a few days",
+        "One",
+        "17th century",
+        "today",
+        "one",
+        "the United States"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Architect of the money bag",
+          "Architect of the money bag",
+          "Blind algorithms",
+          "Making smart use of data",
+          "About the author"
+        ],
+        "content_length": 4898
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "En News",
+        "Adam Jasper",
+        "Jasper Machine Learning in Architecture",
+        "2016",
+        "John Evelyn’s",
+        "ETH Zurich",
+        "the Institute for the History and Theory of Architecture",
+        "Archilyse"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "where",
+        "what",
+        "how",
+        "roughly half",
+        "millions",
+        "Archilyse.",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

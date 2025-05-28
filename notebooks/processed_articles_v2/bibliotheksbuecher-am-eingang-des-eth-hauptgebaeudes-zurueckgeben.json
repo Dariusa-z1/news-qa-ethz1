@@ -1,0 +1,161 @@
+{
+  "filename": "bibliotheksbuecher-am-eingang-des-eth-hauptgebaeudes-zurueckgeben.md",
+  "original_filename": "bibliotheksbuecher-am-eingang-des-eth-hauptgebaeudes-zurueckgeben.html",
+  "source_path": "de_internal/2014/09/bibliotheksbuecher-am-eingang-des-eth-hauptgebaeudes-zurueckgeben.html",
+  "date": "2014-09",
+  "title": "Bibliotheksbuecher Am Eingang Des Eth Hauptgebaeudes Zurueckgeben",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Ausgenommen sind Dokumente von IDS- und Universitäts-Bibliotheken. Die Rückbuchung erfolgt zweimal pro Tag in der ETH-Bibliothek.\n\nDer Pilotversuch läuft vom 1. September 2014 bis 28. Februar 2015."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/09/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "bibliotheksbuecher",
+        "label": "MISC",
+        "start": 20,
+        "end": 38
+      },
+      {
+        "text": "Eth Hauptgebaeudes",
+        "label": "LOC",
+        "start": 54,
+        "end": 72
+      },
+      {
+        "text": "IDS-",
+        "label": "MISC",
+        "start": 31,
+        "end": 35
+      },
+      {
+        "text": "Universitäts-Bibliotheken",
+        "label": "LOC",
+        "start": 40,
+        "end": 65
+      },
+      {
+        "text": "Tag in der ETH-Bibliothek",
+        "label": "MISC",
+        "start": 103,
+        "end": 128
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2014/09/",
+        "Eth Hauptgebaeudes",
+        "Universitäts-Bibliotheken"
+      ],
+      "DATE": [],
+      "MISC": [
+        "IDS-",
+        "Tag in der ETH-Bibliothek",
+        "bibliotheksbuecher"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2014/09/": 1,
+      "bibliotheksbuecher": 1,
+      "Eth Hauptgebaeudes": 1,
+      "IDS-": 1,
+      "Universitäts-Bibliotheken": 1,
+      "Tag in der ETH-Bibliothek": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "bibliotheksbuecher-am-eingang-des-eth-hauptgebaeudes-zurueckgeben.md",
+      "title": "De Internal/2014/09/bibliotheksbuecher Am Eingang des Eth Hauptgebaeudes Zurueckgeben",
+      "language": "de",
+      "source_path": "de_internal/2014/09/bibliotheksbuecher-am-eingang-des-eth-hauptgebaeudes-zurueckgeben.html"
+    },
+    "temporal": {
+      "publication_date": "2014-09",
+      "mentioned_years": [
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "IDS-",
+        "Tag in der ETH-Bibliothek",
+        "bibliotheksbuecher"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Am Eingang",
+        "De Internal",
+        "Der Pilotversuch",
+        "Zurueckgeben Ausgenommen",
+        "Eth Hauptgebaeudes"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2014/09/",
+        "Eth Hauptgebaeudes",
+        "Universitäts-Bibliotheken"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2014/09/",
+        "bibliotheksbuecher",
+        "Eth Hauptgebaeudes",
+        "IDS-",
+        "Universitäts-Bibliotheken",
+        "Tag in der ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 283
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "2015",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "bibliotheksbuecher",
+        "Tag in der ETH-Bibliothek",
+        "IDS-"
+      ],
+      "graph_relations": []
+    }
+  }
+}

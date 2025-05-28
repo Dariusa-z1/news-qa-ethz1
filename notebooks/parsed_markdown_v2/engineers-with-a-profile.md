@@ -1,0 +1,28 @@
+# engineers-with-a-profile.html
+
+**Source:** en_news_events/2014/01/engineers-with-a-profile.html
+
+## Lots of practical experience
+
+Engineers are in demand in the labour market, and if they have an ETH degree all the more so. But in addition to an excellent education, having practical experience, social skills and a good network often decide whether graduates find jobs or not.
+
+## Lots of practical experience
+
+The Unitech programme offers preparation in this regard. With its network of leading European technical universities and international businesses, students can supplement their training as an engineer with international academic, professional or social skills. Nine ETH departments are involved in the programme, which consists of three modules: studying at a partner university for one to two semesters, completing a three- to six-month traineeship in a foreign country where a different language is spoken and attending three joint modules specifically developed for Unitech students. In these one-week workshops, topics such as project management, teamwork or career planning are discussed. What is more, all 60 students of the universities involved jointly develop practical business cases of the partner companies. The Unitech network currently consists of universities such as the Trinity College in Dublin, the Chalmers University in Goteborg or the TU Delft and businesses other such as ABB, Bühler, Hilti, Schindler or SKF.
+
+## Advice for management
+
+Tina Hovestadt is an ETH machine engineering student and studied one semester at the Chalmers University of Technology in Goteborg within the framework of Unitech. She completed her traineeship at Evonik, the fifth largest chemical company in Germany and one of the world's leading speciality chemicals manufacturers. Already after a short period of time, she was involved in strategic business matters: "I was involved in discussing the answers to questions like where does the company want to be in five years' time? Where are new product and market areas arising?". The department's suggestions went straight to the company management., Tina Hovestadt emphasised that she learnt a lot there, and the way the ETH operates helped her in particular. But what is typical "ETH thinking" in her opinion? She does not need to think long: "Analytical thinking during your studies provides the ability to quickly make a contribution to subjects in new areas."
+
+## International exchange
+
+Tina Hovestadt was particularly inspired by the joint modules. "Social skills are needed above all in the small international teams. You’re expected to figure out how to approach a task, how to split the project between team members, or how to work in a target-driven manner, even if there are different opinions." The projects that Tina Hovestadt worked on with her colleagues aimed at preparing proposals for strategic management decisions. Coaches and company representatives who gave the attendees feedback on their work and conduct were always involved too. "You learn to talk a lot about yourself", emphasises the 24-year-old. "Studying at ETH is very focused and time-consuming. In the Unitech program, I had the opportunity to see the bigger picture and I'm now far more confident in approaching new subjects."
+
+She also loves the fact that she has found new friends and can simultaneously establish an international network. All graduates have access to the entire Unitech alumni network after the programme. Tina Hovestadt recommends the programme to students wishing to expand their technical knowledge with management know-how, are open and curious and willing to travel for nearly a year. The programme was definitely worth it for her, she says. She now has a clearer picture of what she wants to do after university: "My interest is more in strategic management in a private industry company and less in the development department, where lots of my fellow students go."
+
+## Registering for the Unitech programme
+
+Anyone wanting to attend the Unitech programme can register with Unitech and at ETH Zurich by 31 January 2014. The students will be chosen at an assessment centre on 20 February. Tina Hovestadt advises: "Just be yourself. In addition to school achievements, social skills are particularly important here." Ten places are available to ETH students for the next programme. Unitech grants students a one-off stipend of EUR 1,000 in the 2014/15 academic year. This is meant to cover some of their travel expenses in the joint modules and other costs incurred. In addition, ETH supports students with a monthly stipend of CHF 1,500 per exchange semester. Further information is available on the Unitech International website .
+
+This programme offers exchange at universities within Europe. Students can register for this by 1 March 2014. Further information on the Erasmus programme.
+

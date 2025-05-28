@@ -1,0 +1,558 @@
+{
+  "filename": "how-micro-and-nanoplastics-are-infiltrating-the-arctic-ice.md",
+  "original_filename": "how-micro-and-nanoplastics-are-infiltrating-the-arctic-ice.html",
+  "source_path": "en_news_events/2024/03/how-micro-and-nanoplastics-are-infiltrating-the-arctic-ice.html",
+  "date": "2024-03",
+  "title": "How Micro And Nanoplastics Are Infiltrating The Arctic Ice",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Disintegrating into new properties",
+      "text": "“Beat the Microbead” is the name of a campaign launched in 2012 with the aim of reducing the use of microplastics in cosmetic products in order to minimise negative effects on the environment and people. For Alice Pradel, the campaign was a wake-up call. “As a young environmental scientist, I was shocked that we were putting all these chemicals into the environment without bothering to find out what became of them,” she recalls. At around the same time, images were going around of the Great Pacific Garbage Patch: a huge carpet of rubbish in the middle of the Pacific, consisting largely of plastic waste and symbolising anthropogenic plastic excess. In 2020, around 400 million tonnes of plastic were produced worldwide; of this total, 9 percent was recycled, 12 percent was incinerated and the rest ended up in landfill sites, the environment or the sea.\n\n“What fascinates me about environmental sciences is that they allow me to continuously learn more about our relationship with the environment,” Pradel says. “For me, caring about the Earth also means understanding it better.” In her Master’s studies at the University of Rennes in northwest France, she focused on how different chemicals such as pesticides accumulate in soils and other porous media. In 2018, she attended a lecture by Julien Gigault, a chemist at the French research centre CNRS. He told the students how plastic in the environment is broken down into ever smaller particles by biotic and abiotic processes and how the material takes on new properties as a result. This miniaturisation allows the particles to pervade all ecological systems – a fact that both fascinated and shocked Pradel."
+    },
+    {
+      "heading": "Postdoc work for better analytics",
+      "text": "She subsequently wrote her doctoral thesis, with Gigault as supervisor, on the subject of how and where micro- and nanoplastics accumulate in porous materials. As she neared the end of this project, she was astounded to discover that large quantities of microplastics had also accumulated in the Arctic sea ice. Studies had confirmed this shortly before. Ice is a porous substance; it has areas of higher and lower density, as well as cavities and microscopic saltwater flows between the ice crystals. As a result, there is a constant exchange between the seawater and the ice – and Pradel’s interest in this phenomenon began to grow. “Micro- and nanoparticles can get lodged between the ice crystals. This is highly problematic, as these are precisely the places where microalgae thrive best,” she explains. Other researchers have shown that these algae absorb toxic plastic additives, thereby granting them entry to the Arctic food chain.\n\nA study from 2018 showed that it is the smallest microplastic particles that are the most common in sea ice. By definition, microplastics are smaller than 5 centimeters, and nanoplastics smaller than 1 micrometre. Researchers can’t quantify plastic particles smaller than 10 micrometres, which is the analytical limit. “This suggests that we can neither see nor accurately measure the lion’s share of the plastic present in the sea ice,” Pradel says.\n\nWhile working on her doctoral thesis, Pradel developed a method for growing sea ice in the lab. Since April 2022, she has been cultivating these ice cores as part of a postdoctoral fellowship at the Department of Environmental Sciences at ETH Zurich. The first step of her method is to cool seawater in a glass column with a temperature gradient ranging from 1°C (lower end) to −5°C (upper end). After 19 hours, an ice core some 10 centimetres thick forms at the upper end. If micro- and nanoplastic particles are added to the seawater at the beginning, Pradel can track how the particles get from the water into the ice, where they remain.\n\nToday, Pradel conducts research within the group led by Professor Denise Mitrano, whom she met at a conference. Mitrano’s group researches anthropogenic particles and their toxicity and impact on the environment. Among other things, she has developed analytical methods that allow them to measure micro- and nanoplastics much more precisely – the ideal complement to Pradel’s research. A central problem in the quantification of micro- and nanoplastics is to distinguish the carbon in natural materials, such as algae, from that in plastic. The researchers can circumvent this problem by adding inorganic tracers to the plastic particles. These tracers are, fittingly, trace elements, which serve as proxies for the plastics and make it possible to effectively measure the plastic particles in the ice using standard environmental analysis methods, including inductively coupled plasma mass spectrometry."
+    },
+    {
+      "heading": "First Arctic expedition",
+      "text": "For her analyses, Pradel also collaborates with researchers from the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL). She uses tomography at the WSL laboratory in Davos to analyse her ice cores at −15°C, and the resulting images provide data on the porosity and structure of the ice. “This gives us important information about where micro- and nanoplastic particles accumulate,” Pradel says. Current experiments show that nanoplastic particles are transported through the ice in a similar way to salts dissolved in seawater. How microplastics accumulate in sea ice, by contrast, depends more on the particles’density.\n\nPradel believes her experiments can also open up new possibilities in other areas of research. “Global warming is making all the Arctic sea ice much more dynamic. The ice itself is becoming thinner, melting processes are getting faster, and the redistribution of salts and particles throughout the ice is picking up speed.” With Pradel’s experiments, such developments can be simulated in the lab without researchers having to fly to the Arctic. “This also makes sense because we aim to conduct environmental research in a climate-friendly way,” she says. However, her research won’t let her completely avoid trips to the far north: next winter, Pradel will be travelling to the Arctic Ocean for the first time to measure humanity’s “plastic footprint” in the ice there as accurately as possible."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Beat the Microbead",
+        "label": "WORK_OF_ART",
+        "start": 1,
+        "end": 19
+      },
+      {
+        "text": "Alice Pradel",
+        "label": "PERSON",
+        "start": 208,
+        "end": 220
+      },
+      {
+        "text": "the Great Pacific Garbage Patch",
+        "label": "FAC",
+        "start": 486,
+        "end": 517
+      },
+      {
+        "text": "Pacific",
+        "label": "LOC",
+        "start": 565,
+        "end": 572
+      },
+      {
+        "text": "around 400 million tonnes",
+        "label": "QUANTITY",
+        "start": 665,
+        "end": 690
+      },
+      {
+        "text": "9 percent",
+        "label": "PERCENT",
+        "start": 742,
+        "end": 751
+      },
+      {
+        "text": "12 percent",
+        "label": "PERCENT",
+        "start": 766,
+        "end": 776
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1045,
+        "end": 1050
+      },
+      {
+        "text": "the University of Rennes",
+        "label": "ORG",
+        "start": 1115,
+        "end": 1139
+      },
+      {
+        "text": "France",
+        "label": "GPE",
+        "start": 1153,
+        "end": 1159
+      },
+      {
+        "text": "Julien Gigault",
+        "label": "PERSON",
+        "start": 1298,
+        "end": 1312
+      },
+      {
+        "text": "French",
+        "label": "NORP",
+        "start": 1331,
+        "end": 1337
+      },
+      {
+        "text": "Gigault",
+        "label": "ORG",
+        "start": 49,
+        "end": 56
+      },
+      {
+        "text": "nanoplastics",
+        "label": "NORP",
+        "start": 115,
+        "end": 127
+      },
+      {
+        "text": "the Arctic sea ice",
+        "label": "LOC",
+        "start": 292,
+        "end": 310
+      },
+      {
+        "text": "Micro-",
+        "label": "PERSON",
+        "start": 636,
+        "end": 642
+      },
+      {
+        "text": "Arctic",
+        "label": "LOC",
+        "start": 922,
+        "end": 928
+      },
+      {
+        "text": "April 2022",
+        "label": "DATE",
+        "start": 1494,
+        "end": 1504
+      },
+      {
+        "text": "the Department of Environmental Sciences",
+        "label": "ORG",
+        "start": 1587,
+        "end": 1627
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1635,
+        "end": 1641
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1647,
+        "end": 1652
+      },
+      {
+        "text": "1°",
+        "label": "CARDINAL",
+        "start": 1751,
+        "end": 1753
+      },
+      {
+        "text": "19 hours",
+        "label": "TIME",
+        "start": 1794,
+        "end": 1802
+      },
+      {
+        "text": "some 10 centimetres thick",
+        "label": "QUANTITY",
+        "start": 1816,
+        "end": 1841
+      },
+      {
+        "text": "micro-",
+        "label": "PERSON",
+        "start": 1869,
+        "end": 1875
+      },
+      {
+        "text": "Pradel",
+        "label": "PERSON",
+        "start": 1946,
+        "end": 1952
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 2033,
+        "end": 2038
+      },
+      {
+        "text": "Denise Mitrano",
+        "label": "PERSON",
+        "start": 2099,
+        "end": 2113
+      },
+      {
+        "text": "Mitrano",
+        "label": "PERSON",
+        "start": 2145,
+        "end": 2152
+      },
+      {
+        "text": "Pradel’s",
+        "label": "ORG",
+        "start": 2400,
+        "end": 2408
+      },
+      {
+        "text": "Pradel",
+        "label": "PERSON",
+        "start": 18,
+        "end": 24
+      },
+      {
+        "text": "the Swiss Federal Institute for Forest",
+        "label": "ORG",
+        "start": 65,
+        "end": 103
+      },
+      {
+        "text": "Snow and Landscape Research",
+        "label": "WORK_OF_ART",
+        "start": 105,
+        "end": 132
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 167,
+        "end": 170
+      },
+      {
+        "text": "Davos",
+        "label": "GPE",
+        "start": 185,
+        "end": 190
+      },
+      {
+        "text": "micro-",
+        "label": "PERSON",
+        "start": 355,
+        "end": 361
+      },
+      {
+        "text": "Arctic",
+        "label": "LOC",
+        "start": 769,
+        "end": 775
+      },
+      {
+        "text": "Arctic",
+        "label": "LOC",
+        "start": 1078,
+        "end": 1084
+      },
+      {
+        "text": "next winter",
+        "label": "DATE",
+        "start": 1273,
+        "end": 1284
+      },
+      {
+        "text": "Pradel",
+        "label": "PERSON",
+        "start": 1286,
+        "end": 1292
+      },
+      {
+        "text": "the Arctic Ocean",
+        "label": "LOC",
+        "start": 1315,
+        "end": 1331
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1340,
+        "end": 1345
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alice Pradel",
+        "Denise Mitrano",
+        "Julien Gigault",
+        "Micro-",
+        "Mitrano",
+        "Pradel",
+        "micro-"
+      ],
+      "ORG": [
+        "Gigault",
+        "Pradel’s",
+        "WSL",
+        "the Department of Environmental Sciences",
+        "the Swiss Federal Institute for Forest",
+        "the University of Rennes"
+      ],
+      "LOCATION": [
+        "Arctic",
+        "Davos",
+        "Earth",
+        "France",
+        "Pacific",
+        "Zurich",
+        "the Arctic Ocean",
+        "the Arctic sea ice",
+        "the Great Pacific Garbage Patch"
+      ],
+      "DATE": [
+        "19 hours",
+        "April 2022",
+        "Today",
+        "next winter"
+      ],
+      "MISC": [
+        "12 percent",
+        "1°",
+        "9 percent",
+        "Beat the Microbead",
+        "French",
+        "Snow and Landscape Research",
+        "around 400 million tonnes",
+        "first",
+        "nanoplastics",
+        "some 10 centimetres thick"
+      ]
+    },
+    "entity_counts": {
+      "Arctic": 3,
+      "Pradel": 3,
+      "first": 2,
+      "micro-": 2,
+      "Beat the Microbead": 1,
+      "Alice Pradel": 1,
+      "the Great Pacific Garbage Patch": 1,
+      "Pacific": 1,
+      "around 400 million tonnes": 1,
+      "9 percent": 1,
+      "12 percent": 1,
+      "Earth": 1,
+      "the University of Rennes": 1,
+      "France": 1,
+      "Julien Gigault": 1,
+      "French": 1,
+      "Gigault": 1,
+      "nanoplastics": 1,
+      "the Arctic sea ice": 1,
+      "Micro-": 1
+    },
+    "total_entities": 42,
+    "unique_entities": 36
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-micro-and-nanoplastics-are-infiltrating-the-arctic-ice.md",
+      "title": "En News Events/2024/03/how Micro And Nanoplastics Are Infiltrating The Arctic Ice",
+      "language": "en",
+      "source_path": "en_news_events/2024/03/how-micro-and-nanoplastics-are-infiltrating-the-arctic-ice.html"
+    },
+    "temporal": {
+      "publication_date": "2024-03",
+      "mentioned_years": [
+        "2012",
+        "2018",
+        "2020",
+        "2022",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alice Pradel",
+        "Denise Mitrano",
+        "Julien Gigault",
+        "Micro-",
+        "Mitrano",
+        "Pradel",
+        "micro-"
+      ],
+      "people_with_roles": {
+        "Denise Mitrano": [
+          "Professor",
+          "professor"
+        ],
+        "Mitrano": [
+          "professor"
+        ],
+        "Pradel": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "12 percent",
+        "9 percent",
+        "Beat the Microbead",
+        "French",
+        "Snow and Landscape Research",
+        "around 400 million tonnes",
+        "first",
+        "nanoplastics",
+        "some 10 centimetres thick"
+      ],
+      "grants_funding": [
+        "ERC",
+        "fellowship",
+        "grant"
+      ],
+      "projects": [
+        "Micro And",
+        "Swiss Federal",
+        "Garbage Patch",
+        "Professor Denise",
+        "Landscape Research",
+        "Arctic Ocean",
+        "En News",
+        "Environmental Sciences",
+        "Arctic Ice",
+        "ETH Zurich",
+        "Since April",
+        "Great Pacific",
+        "Julien Gigault",
+        "Infiltrating The",
+        "For Alice",
+        "Nanoplastics Are",
+        "With Pradel"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Environmental Sciences at ETH Zurich",
+        "Forest"
+      ],
+      "institutions": [
+        "Gigault",
+        "Pradel’s",
+        "WSL",
+        "the Department of Environmental Sciences",
+        "the Swiss Federal Institute for Forest",
+        "the University of Rennes"
+      ],
+      "locations": [
+        "Arctic",
+        "Davos",
+        "Earth",
+        "France",
+        "Pacific",
+        "Zurich",
+        "the Arctic Ocean",
+        "the Arctic sea ice",
+        "the Great Pacific Garbage Patch"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Arctic",
+        "Pradel",
+        "first",
+        "micro-",
+        "Beat the Microbead",
+        "Alice Pradel",
+        "the Great Pacific Garbage Patch",
+        "Pacific",
+        "around 400 million tonnes",
+        "9 percent"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Disintegrating into new properties",
+          "Postdoc work for better analytics",
+          "First Arctic expedition"
+        ],
+        "content_length": 6132
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "grant",
+        "Pradel’s",
+        "2020",
+        "the University of Rennes",
+        "Pradel",
+        "ERC",
+        "2018",
+        "Gigault",
+        "Micro-",
+        "2022",
+        "Denise Mitrano",
+        "Alice Pradel",
+        "WSL",
+        "fellowship",
+        "2012",
+        "Mitrano",
+        "Julien Gigault",
+        "micro-",
+        "2024",
+        "the Department of Environmental Sciences",
+        "the Swiss Federal Institute for Forest"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "chemistry",
+        "12 percent",
+        "9 percent",
+        "when",
+        "engineering",
+        "French",
+        "where",
+        "some 10 centimetres thick",
+        "mathematics",
+        "who",
+        "nanoplastics",
+        "what",
+        "how",
+        "climate_change",
+        "first",
+        "Snow and Landscape Research",
+        "Beat the Microbead",
+        "around 400 million tonnes"
+      ],
+      "graph_relations": [
+        "Denise Mitrano_has_role_Professor",
+        "Denise Mitrano_has_role_professor",
+        "Mitrano_has_role_professor",
+        "Pradel_has_role_researcher",
+        "Pradel_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

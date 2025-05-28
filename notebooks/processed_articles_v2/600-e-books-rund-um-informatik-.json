@@ -1,0 +1,174 @@
+{
+  "filename": "600-e-books-rund-um-informatik-.md",
+  "original_filename": "600-e-books-rund-um-informatik-.html",
+  "source_path": "de_internal/2016/06/600-e-books-rund-um-informatik-.html",
+  "date": "2016-06",
+  "title": "600 E Books Rund Um Informatik",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das Angebot von Herdt Campus All-you-can-read bietet Angehörigen der ETH Zürich kostenfreien Zugang zu aktuellen Software-Handbüchern.\n\nDer Zugriff erfordert eine einmalige Registration und ist online im Netzwerk der ETH Zürich oder in den Räumen der ETH-Bibliothek möglich.\n\nZugriff über das Wissensportal der ETH-Bibliothek"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/06/600 E Books",
+        "label": "LOC",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "Herdt Campus All-you-can-read",
+        "label": "ORG",
+        "start": 16,
+        "end": 45
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 69,
+        "end": 79
+      },
+      {
+        "text": "Software-Handbüchern",
+        "label": "LOC",
+        "start": 113,
+        "end": 133
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 216,
+        "end": 226
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 250,
+        "end": 264
+      },
+      {
+        "text": "Wissensportal",
+        "label": "LOC",
+        "start": 291,
+        "end": 304
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 309,
+        "end": 323
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "Herdt Campus All-you-can-read"
+      ],
+      "LOCATION": [
+        "De Internal/2016/06/600 E Books",
+        "Software-Handbüchern",
+        "Wissensportal"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "ETH-Bibliothek": 2,
+      "De Internal/2016/06/600 E Books": 1,
+      "Herdt Campus All-you-can-read": 1,
+      "Software-Handbüchern": 1,
+      "Wissensportal": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "600-e-books-rund-um-informatik-.md",
+      "title": "De Internal/2016/06/600 E Books Rund Um Informatik",
+      "language": "de",
+      "source_path": "de_internal/2016/06/600-e-books-rund-um-informatik-.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Herdt Campus",
+        "ETH-Bibliothek",
+        "De Internal",
+        "Informatik Das",
+        "Der Zugriff",
+        "E Books",
+        "Rund Um"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "Herdt Campus All-you-can-read"
+      ],
+      "locations": [
+        "De Internal/2016/06/600 E Books",
+        "Software-Handbüchern",
+        "Wissensportal"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "De Internal/2016/06/600 E Books",
+        "Herdt Campus All-you-can-read",
+        "Software-Handbüchern",
+        "Wissensportal"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 376
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "2016",
+        "Herdt Campus All-you-can-read"
+      ],
+      "semantic_concepts": [
+        "computer_science"
+      ],
+      "graph_relations": [
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

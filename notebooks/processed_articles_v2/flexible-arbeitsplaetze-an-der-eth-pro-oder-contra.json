@@ -1,0 +1,163 @@
+{
+  "filename": "flexible-arbeitsplaetze-an-der-eth-pro-oder-contra.md",
+  "original_filename": "flexible-arbeitsplaetze-an-der-eth-pro-oder-contra.html",
+  "source_path": "en_internal/2021/04/flexible-arbeitsplaetze-an-der-eth-pro-oder-contra.html",
+  "date": "2021-04",
+  "title": "Flexible Arbeitsplaetze An Der Eth Pro Oder Contra",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "For many of us, working from home will remain part of our day-to-day lives even after the coronavirus crisis ends. This is leading to changes in the requirements that our work infrastructure has to meet. Flexible workstations could resolve the issue of empty desks in the office. Some major corporations had already introduced desk-sharing to their workplaces prior to the pandemic – and ETH is now planning to trial this concept among various teams in the new Octavo building.\n\nHow would you feel about no longer having a fixed workstation in the future? Do you believe changing desks and spaces more often could lead to greater creativity and innovation? Or do you think that trying to find the best workstation will lead to stress and tension? Do you have any experience of working under a desk-sharing model? If so, is there anything you’d like to share about it?\n\nWe are looking for voices in support of and opposing flexible workstations for our new by 30 April. We can help you put together your piece for publication. One “for” piece and one “against” piece will each be published in the next edition of life magazine on 24 June.\n\nWe look forward to hearing your arguments!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Arbeitsplaetze",
+        "label": "ORG",
+        "start": 29,
+        "end": 43
+      },
+      {
+        "text": "Contra",
+        "label": "ORG",
+        "start": 64,
+        "end": 70
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 388,
+        "end": 391
+      },
+      {
+        "text": "30 April",
+        "label": "DATE",
+        "start": 957,
+        "end": 965
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1024,
+        "end": 1027
+      },
+      {
+        "text": "24 June",
+        "label": "DATE",
+        "start": 1127,
+        "end": 1134
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Arbeitsplaetze",
+        "Contra",
+        "ETH"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "24 June",
+        "30 April"
+      ],
+      "MISC": [
+        "One"
+      ]
+    },
+    "entity_counts": {
+      "Arbeitsplaetze": 1,
+      "Contra": 1,
+      "ETH": 1,
+      "30 April": 1,
+      "One": 1,
+      "24 June": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "flexible-arbeitsplaetze-an-der-eth-pro-oder-contra.md",
+      "title": "En Internal/2021/04/flexible Arbeitsplaetze an der Eth Pro oder Contra",
+      "language": "en",
+      "source_path": "en_internal/2021/04/flexible-arbeitsplaetze-an-der-eth-pro-oder-contra.html"
+    },
+    "temporal": {
+      "publication_date": "2021-04",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Eth Pro",
+        "Contra For",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Arbeitsplaetze",
+        "Contra",
+        "ETH"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Arbeitsplaetze",
+        "Contra",
+        "ETH",
+        "30 April",
+        "One",
+        "24 June"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1252
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2021",
+        "Contra",
+        "Arbeitsplaetze"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "where",
+        "how",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "filename": "start-of-special-podcast-series-covid-19.md",
+  "original_filename": "start-of-special-podcast-series-covid-19.html",
+  "source_path": "en_internal/2020/03/start-of-special-podcast-series-covid-19.html",
+  "date": "2020-03",
+  "title": "Start Of Special Podcast Series Covid 19",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Are there health tips for boosting the immune system? How can genetic data support the real-time analysis of the COVID-19 pandemic? What does the overnight switch to online teaching involve – and how can we avoid going stir-crazy in the coming weeks while working at home? We discuss all these issues, and many more besides, with the help of our researchers in the new ETH Podcast #COVID-19 series.\n\nWe kick off with ETH President Joël Mesot, who talks about how he is personally dealing with this unique challenge, why it is so important that ETH leads by example as a scientific institution – and why he also sees a great opportunity for teaching and research in this highly unusual situation.\n\nAs usual, the podcast is in English, to make it availabe to an international audience and our whole community. You can subscribe to it through any of the usual podcast platforms or listen to it on the web .\n\nIf you have any suggestions or topics you would like us to consider, please use the email button on the podcast webpage ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 113,
+        "end": 121
+      },
+      {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 146,
+        "end": 155
+      },
+      {
+        "text": "the coming weeks",
+        "label": "DATE",
+        "start": 233,
+        "end": 249
+      },
+      {
+        "text": "ETH Podcast COVID-19",
+        "label": "ORG",
+        "start": 369,
+        "end": 389
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 415,
+        "end": 418
+      },
+      {
+        "text": "Joël Mesot",
+        "label": "PERSON",
+        "start": 429,
+        "end": 439
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 542,
+        "end": 545
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 722,
+        "end": 729
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Joël Mesot"
+      ],
+      "ORG": [
+        "COVID-19",
+        "ETH",
+        "ETH Podcast COVID-19"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "overnight",
+        "the coming weeks"
+      ],
+      "MISC": [
+        "English"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "COVID-19": 1,
+      "overnight": 1,
+      "the coming weeks": 1,
+      "ETH Podcast COVID-19": 1,
+      "Joël Mesot": 1,
+      "English": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "start-of-special-podcast-series-covid-19.md",
+      "title": "En Internal/2020/03/start Of Special Podcast Series Covid 19",
+      "language": "en",
+      "source_path": "en_internal/2020/03/start-of-special-podcast-series-covid-19.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Joël Mesot"
+      ],
+      "people_with_roles": {
+        "Joël Mesot": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "English"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH President",
+        "ETH Podcast",
+        "En Internal",
+        "Of Special",
+        "Podcast Series"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "ETH",
+        "ETH Podcast COVID-19"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "COVID-19",
+        "overnight",
+        "the coming weeks",
+        "ETH Podcast COVID-19",
+        "Joël Mesot",
+        "English"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1087
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Joël Mesot",
+        "2020",
+        "ETH Podcast COVID-19",
+        "COVID-19"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "who",
+        "English",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when"
+      ],
+      "graph_relations": [
+        "Joël Mesot_has_role_president",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

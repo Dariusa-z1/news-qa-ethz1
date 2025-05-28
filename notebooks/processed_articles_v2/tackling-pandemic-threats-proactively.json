@@ -1,0 +1,619 @@
+{
+  "filename": "tackling-pandemic-threats-proactively.md",
+  "original_filename": "tackling-pandemic-threats-proactively.html",
+  "source_path": "en_news_events/2020/11/tackling-pandemic-threats-proactively.html",
+  "date": "2020-11",
+  "title": "Tackling Pandemic Threats Proactively",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Disease outbreaks are inevitable",
+      "text": "(Photograph: ETH Zurich)\n\nThe marathon of COVID-19 vaccine development has reached the final sprint. Two leading vaccines have proven to protect 95% of vaccinated people from the disease. For the first time we can be confident that vaccines will put an end to this pandemic. However, emerging infectious diseases will continue to threaten us in the future. The question now is: How can we avoid the next pandemic?\n\nWhereas the COVID-19 pandemic is likely to be brought under control within a few years, diseases such as measles, polio and smallpox plagued human societies over centuries. It is only in the past few decades that vaccines have reduced, and even eliminated, the enormous burden of death and disability caused by these diseases. An unfortunate side-effect of this success is reduced public awareness of the danger posed by infectious diseases."
+    },
+    {
+      "heading": "Lessons learned from Ebola and SARS-1",
+      "text": "The current pandemic is a tough reminder that modern society remains vulnerable to emerging infectious diseases. Given that many long-known pathogens are now vaccine-preventable, the challenge in coming decades is to develop vaccines that protect us against future disease threats."
+    },
+    {
+      "heading": "Disease outbreaks are inevitable",
+      "text": "Time and again, diseases jump from animals to humans. COVID-19 is the third serious spillover of a coronavirus from bats into humans in the past 20 years, it follows SARS-1 in 2003 and the emergence of MERS in 2012. Wild and domestic animal populations provide an enormous reservoir where pathogens circulate and evolve new mechanisms to infect and spread to new hosts, including humans. It is not possible to prevent the emergence of pathogens into the human population, but good preparation will allow us to contain most outbreaks before they develop to epidemic or even pandemic levels.\n\nEpidemic preparedness includes three essential activities: first, identify emerging infectious diseases (surveillance and monitoring); second, study these pathogens and third, preemptive vaccine development.\n\nMostly we fail at this third point, and there are good reasons for this: The development of a vaccine from the initial design through to completion of clinical trials may take upwards of a decade and cost over US$500 million. The risk of failure is high. Finally, when an effective vaccine is developed, it has little chance of commercial success because a relatively small number of doses will be sufficient to end an outbreak. The unfortunate result is that these projects are rarely brought to completion."
+    },
+    {
+      "heading": "Lessons learned from Ebola and SARS-1",
+      "text": "A tragic example is the Ebola vaccine. Despite more than 10 years of development, the vaccine was not ready for deployment until a year into the 2014 outbreak in West Africa. 11'000 people died in that outbreak and we now know that the vaccine provides 100% protection against the disease.\n\nSimilarly, in the case of SARS-1, the financial incentives to develop a vaccine dried up after public health measures brought that outbreak under control. Laboratory studies published in April this year indicated that a SARS-1 vaccine could have provided some protection against COVID-19 infection 1 . If development had continued, a SARS-1 vaccine would have been tested in the early stages of the COVID-19 outbreak and may have halted the course of this pandemic."
+    },
+    {
+      "heading": "About the author",
+      "text": "On the other hand, preparedness efforts directed at MERS have dramatically shortened the timeline to produce a COVID-19 vaccine. It took years of basic and applied research for scientists to learn how to produce a good vaccine candidate targeting MERS. Importantly, several MERS vaccine projects were supported with long-term funding from the Coalition for Epidemic Preparedness Innovations (CEPI), a global partnership of public, private and philanthropic organizations. Fortunately, the strategies developed for MERS allowed vaccine developers to immediately produce promising COVID-19 candidates 2 . It is hard to overestimate the impact of MERS vaccine research on our current situation. Without this prior work, it might have taken years to develop an effictive COVID-19 vaccine.\n\nThe CEPI consortium aims to fund the development of at least one candidate vaccine for each of the emerging infectious diseases on the WHO “priority” list, and to stockpile doses for immediate efficacy testing in the event of an outbreak. The consortium estimates the cost of this to be US$4 billion 3 . This figure seems large, but it is tiny compared to the estimated US$10 trillion that the COVID-19 pandemic is expected to cost the global economy 4 – not to mention the human suffering.\n\nIf we are to minimize the consequences of future outbreaks, it is essential that society understands the true value of vaccines and governments invest in preemptive vaccine development.\n\n1 Walls CA et al.: Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein. Cell 2020, 181:281, doi: 10.1016/j.cell.2020.02.058\n\n2 Corbett KS et al.: SARS-CoV-2 mRNA vaccine design enabled by prototype pathogen preparedness. Nature 2020, 586: 567, doi: 10.1038/s41586-020-2622-0\n\n3 Gouglas D et al.: Estimating the cost of vaccine development against epidemic infectious diseases: a cost minimisation study. Lancet Global Health 2018, 6: e1386, doi: 10.1016/S2214-109X(18)30346-2\n\n4 Schwab J: Fighting COVID-19 could cost 500 times as much as pandemic prevention measures\n\nTim Keys Researcher at the Department of Health Sciences and Technology at ETH Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 13,
+        "end": 23
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 41,
+        "end": 49
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 100,
+        "end": 103
+      },
+      {
+        "text": "95%",
+        "label": "PERCENT",
+        "start": 144,
+        "end": 147
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 195,
+        "end": 200
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 425,
+        "end": 433
+      },
+      {
+        "text": "a few years",
+        "label": "DATE",
+        "start": 488,
+        "end": 499
+      },
+      {
+        "text": "centuries",
+        "label": "DATE",
+        "start": 575,
+        "end": 584
+      },
+      {
+        "text": "the past few decades",
+        "label": "DATE",
+        "start": 600,
+        "end": 620
+      },
+      {
+        "text": "coming decades",
+        "label": "DATE",
+        "start": 196,
+        "end": 210
+      },
+      {
+        "text": "COVID-19",
+        "label": "PERSON",
+        "start": 54,
+        "end": 62
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 70,
+        "end": 75
+      },
+      {
+        "text": "the past 20 years",
+        "label": "DATE",
+        "start": 136,
+        "end": 153
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 621,
+        "end": 626
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 649,
+        "end": 654
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 725,
+        "end": 731
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 759,
+        "end": 764
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 821,
+        "end": 826
+      },
+      {
+        "text": "over US$500 million",
+        "label": "MONEY",
+        "start": 1003,
+        "end": 1022
+      },
+      {
+        "text": "more than 10 years",
+        "label": "DATE",
+        "start": 47,
+        "end": 65
+      },
+      {
+        "text": "a year",
+        "label": "DATE",
+        "start": 129,
+        "end": 135
+      },
+      {
+        "text": "West Africa",
+        "label": "GPE",
+        "start": 162,
+        "end": 173
+      },
+      {
+        "text": "11'000",
+        "label": "CARDINAL",
+        "start": 175,
+        "end": 181
+      },
+      {
+        "text": "100%",
+        "label": "PERCENT",
+        "start": 253,
+        "end": 257
+      },
+      {
+        "text": "SARS-1",
+        "label": "GPE",
+        "start": 316,
+        "end": 322
+      },
+      {
+        "text": "April this year",
+        "label": "DATE",
+        "start": 477,
+        "end": 492
+      },
+      {
+        "text": "SARS-1",
+        "label": "NORP",
+        "start": 510,
+        "end": 516
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 569,
+        "end": 577
+      },
+      {
+        "text": "SARS-1",
+        "label": "NORP",
+        "start": 624,
+        "end": 630
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 689,
+        "end": 697
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 111,
+        "end": 119
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 137,
+        "end": 142
+      },
+      {
+        "text": "the Coalition for Epidemic Preparedness Innovations",
+        "label": "ORG",
+        "start": 339,
+        "end": 390
+      },
+      {
+        "text": "CEPI",
+        "label": "ORG",
+        "start": 392,
+        "end": 396
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 579,
+        "end": 587
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 737,
+        "end": 742
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 767,
+        "end": 775
+      },
+      {
+        "text": "CEPI",
+        "label": "ORG",
+        "start": 789,
+        "end": 793
+      },
+      {
+        "text": "at least one",
+        "label": "CARDINAL",
+        "start": 837,
+        "end": 849
+      },
+      {
+        "text": "WHO",
+        "label": "ORG",
+        "start": 920,
+        "end": 923
+      },
+      {
+        "text": "US$4 billion",
+        "label": "MONEY",
+        "start": 1072,
+        "end": 1084
+      },
+      {
+        "text": "the estimated US$10 trillion",
+        "label": "MONEY",
+        "start": 1141,
+        "end": 1169
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 1179,
+        "end": 1187
+      },
+      {
+        "text": "Structure, Function",
+        "label": "ORG",
+        "start": 1481,
+        "end": 1500
+      },
+      {
+        "text": "Antigenicity of the SARS-CoV-2 Spike",
+        "label": "ORG",
+        "start": 1506,
+        "end": 1542
+      },
+      {
+        "text": "10.1016",
+        "label": "CARDINAL",
+        "start": 1582,
+        "end": 1589
+      },
+      {
+        "text": "KS",
+        "label": "ORG",
+        "start": 1619,
+        "end": 1621
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1733,
+        "end": 1740
+      },
+      {
+        "text": "Lancet Global Health",
+        "label": "ORG",
+        "start": 1887,
+        "end": 1907
+      },
+      {
+        "text": "10.1016",
+        "label": "CARDINAL",
+        "start": 1929,
+        "end": 1936
+      },
+      {
+        "text": "Tim Keys Researcher",
+        "label": "PERSON",
+        "start": 2050,
+        "end": 2069
+      },
+      {
+        "text": "the Department of Health Sciences and Technology",
+        "label": "ORG",
+        "start": 2073,
+        "end": 2121
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 2125,
+        "end": 2135
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "COVID-19",
+        "ETH Zurich",
+        "Tim Keys Researcher"
+      ],
+      "ORG": [
+        "Antigenicity of the SARS-CoV-2 Spike",
+        "CEPI",
+        "COVID-19",
+        "ETH Zurich",
+        "KS",
+        "Lancet Global Health",
+        "Structure, Function",
+        "WHO",
+        "the Coalition for Epidemic Preparedness Innovations",
+        "the Department of Health Sciences and Technology"
+      ],
+      "LOCATION": [
+        "SARS-1",
+        "West Africa"
+      ],
+      "DATE": [
+        "April this year",
+        "a few years",
+        "a year",
+        "centuries",
+        "coming decades",
+        "more than 10 years",
+        "the past 20 years",
+        "the past few decades",
+        "years"
+      ],
+      "MISC": [
+        "10.1016",
+        "10.1038",
+        "100%",
+        "11'000",
+        "95%",
+        "SARS-1",
+        "Two",
+        "US$4 billion",
+        "at least one",
+        "first",
+        "over US$500 million",
+        "second",
+        "the estimated US$10 trillion",
+        "third",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "COVID-19": 9,
+      "third": 3,
+      "SARS-1": 3,
+      "ETH Zurich": 2,
+      "first": 2,
+      "years": 2,
+      "CEPI": 2,
+      "10.1016": 2,
+      "Two": 1,
+      "95%": 1,
+      "a few years": 1,
+      "centuries": 1,
+      "the past few decades": 1,
+      "coming decades": 1,
+      "the past 20 years": 1,
+      "three": 1,
+      "second": 1,
+      "over US$500 million": 1,
+      "more than 10 years": 1,
+      "a year": 1
+    },
+    "total_entities": 53,
+    "unique_entities": 36
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "tackling-pandemic-threats-proactively.md",
+      "title": "En News Events/2020/11/tackling Pandemic Threats Proactively",
+      "language": "en",
+      "source_path": "en_news_events/2020/11/tackling-pandemic-threats-proactively.html"
+    },
+    "temporal": {
+      "publication_date": "2020-11",
+      "mentioned_years": [
+        "2003",
+        "2012",
+        "2014",
+        "2018",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "COVID-19",
+        "ETH Zurich",
+        "Tim Keys Researcher"
+      ],
+      "people_with_roles": {
+        "COVID-19": [
+          "researcher"
+        ],
+        "ETH Zurich": [
+          "researcher"
+        ],
+        "Tim Keys Researcher": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "10.1016",
+        "10.1038",
+        "100%",
+        "11'000",
+        "SARS-1",
+        "US$4 billion",
+        "at least one",
+        "first",
+        "over US$500 million",
+        "second",
+        "the estimated US$10 trillion",
+        "third",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "funding"
+      ],
+      "projects": [
+        "Gouglas D",
+        "En News",
+        "Walls CA",
+        "Spike Glycoprotein",
+        "Lancet Global",
+        "SARS-CoV",
+        "Schwab J",
+        "Tim Keys",
+        "West Africa",
+        "Pandemic Threats",
+        "Corbett KS",
+        "Epidemic Preparedness",
+        "Fighting COVID",
+        "ETH Zurich",
+        "Health Sciences",
+        "The CEPI"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Health Sciences and Technology at ETH Zurich"
+      ],
+      "institutions": [
+        "Antigenicity of the SARS-CoV-2 Spike",
+        "CEPI",
+        "COVID-19",
+        "ETH Zurich",
+        "KS",
+        "Lancet Global Health",
+        "Structure, Function",
+        "WHO",
+        "the Coalition for Epidemic Preparedness Innovations",
+        "the Department of Health Sciences and Technology"
+      ],
+      "locations": [
+        "SARS-1",
+        "West Africa"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "COVID-19",
+        "third",
+        "SARS-1",
+        "ETH Zurich",
+        "first",
+        "years",
+        "CEPI",
+        "10.1016",
+        "Two",
+        "95%"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Disease outbreaks are inevitable",
+          "Lessons learned from Ebola and SARS-1",
+          "Disease outbreaks are inevitable",
+          "Lessons learned from Ebola and SARS-1",
+          "About the author"
+        ],
+        "content_length": 5408
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Antigenicity of the SARS-CoV-2 Spike",
+        "Structure, Function",
+        "2018",
+        "Tim Keys Researcher",
+        "WHO",
+        "2020",
+        "KS",
+        "Lancet Global Health",
+        "ETH Zurich",
+        "the Coalition for Epidemic Preparedness Innovations",
+        "2012",
+        "funding",
+        "CEPI",
+        "the Department of Health Sciences and Technology",
+        "2003",
+        "COVID-19",
+        "ERC",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1016",
+        "at least one",
+        "three",
+        "US$4 billion",
+        "when",
+        "third",
+        "10.1038",
+        "SARS-1",
+        "over US$500 million",
+        "100%",
+        "medical_research",
+        "11'000",
+        "who",
+        "what",
+        "how",
+        "first",
+        "the estimated US$10 trillion",
+        "second",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "COVID-19_has_role_researcher",
+        "ETH Zurich_has_role_researcher",
+        "Tim Keys Researcher_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

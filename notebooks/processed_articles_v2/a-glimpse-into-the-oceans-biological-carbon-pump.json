@@ -1,0 +1,403 @@
+{
+  "filename": "a-glimpse-into-the-oceans-biological-carbon-pump.md",
+  "original_filename": "a-glimpse-into-the-oceans-biological-carbon-pump.html",
+  "source_path": "en_news_events/2021/09/a-glimpse-into-the-oceans-biological-carbon-pump.html",
+  "date": "2021-09",
+  "title": "A Glimpse Into The Oceans Biological Carbon Pump",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A quiet trickle of snow",
+      "text": "Oceans play a key role in the global carbon dioxide balance. This is because billions of tiny algae live there, absorbing carbon dioxide through photosynthesis and incorporating it into their biomass. When these algae die, they trickle down – along with the excretions of microscopic creatures that feed on them – as “marine snow” into deeper zones. About one percent of their carbon dioxide then lies buried in the seafloor for thousands of years."
+    },
+    {
+      "heading": "A quiet trickle of snow",
+      "text": "Because this constant rain of marine snowflakes transports carbon into the ocean’s depths, experts call it a biological pump. It is driven by two opposing processes: the sinking of the organic flakes and their degradation by bacteria. Sinking flakes increase the flux of carbon to the depths, while bacteria decrease this flux by removing carbon from the particles. Current ocean models assume speed of sinking and rate of degradation to be independent of each other. “But we’ve now shown that the degradation processes are enhanced by sinking,” says Uria Alcolombri from the Institute of Environmental Engineering at ETH Zurich.\n\nAlcolombri is first author of a study by Roman Stocker’s research group just published in Nature Geoscience . For their investigations, the researchers used a clever method: instead of tracking sinking particles in the sea, they put individual millimetre-sized alginate particles into a microfluidic chamber and then pumped artificial seawater through it. “In our experiments, the marine snow didn’t move through the sea; rather the sea washed around the marine snow. But the relative speed is the same,” says Alcolombri."
+    },
+    {
+      "heading": "Washing away the by-products",
+      "text": "The researchers colonised the alginate particles with genetically modified, green-glowing bacteria. These broke down the particles much faster when water flowed through the chamber; the breakdown takes about ten times longer in still water. This is because the flowing water washes away the degradation products, leaving the bacteria’s enzymes to get to work directly on the particles, without having to spend time on decomposing molecules that have already split off.\n\nDrawing on these observations, Alcolombri and his colleague François Peaudecerf have designed a new model of the biological carbon pump that considers how the sinking influences the degradation of the marine snowflakes. The model calculations suggest two things: Firstly, that the enhancement of particle degradation due to sinking reduces the theoretical transport efficiency of the carbon pump twofold. And secondly, that much of the dead algae is decomposed in the uppermost layers of the ocean – which is consistent with measurements of real carbon flux in the sea."
+    },
+    {
+      "heading": "Tiny things, enormous impact",
+      "text": "The team’s research was not aimed at boosting the performance of the biological carbon pump: “We’re interested in gleaning a fundamental understanding of natural processes; we wanted to know how the biological pump works,” says Alcolombri. “For this is essential if we’re to predict more accurately how our oceans will respond to climate change”.\n\nIt turned out that the degradation rate of marine snow – and indirectly, the global carbon dioxide content in the atmosphere – is determined by microscopic transport dynamics. Which shows, once again, how even the tiniest things in the environment affect the big picture.\n\nAlcolombri U, Peaudecerf FJ, Fernandez VI, Behrendt L, Lee KS, and Stocker R. Sinking enhances the degradation of organic particles by marine bacteria. Nat. Geosci . (2021). doi: 10.1038/s41561-021-00817-x"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "billions",
+        "label": "CARDINAL",
+        "start": 77,
+        "end": 85
+      },
+      {
+        "text": "About one percent",
+        "label": "PERCENT",
+        "start": 350,
+        "end": 367
+      },
+      {
+        "text": "thousands of years",
+        "label": "DATE",
+        "start": 429,
+        "end": 447
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 142,
+        "end": 145
+      },
+      {
+        "text": "Uria Alcolombri",
+        "label": "PERSON",
+        "start": 551,
+        "end": 566
+      },
+      {
+        "text": "the Institute of Environmental Engineering",
+        "label": "ORG",
+        "start": 572,
+        "end": 614
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 618,
+        "end": 628
+      },
+      {
+        "text": "Alcolombri",
+        "label": "PERSON",
+        "start": 630,
+        "end": 640
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 644,
+        "end": 649
+      },
+      {
+        "text": "Roman Stocker’s",
+        "label": "PERSON",
+        "start": 671,
+        "end": 686
+      },
+      {
+        "text": "Nature Geoscience",
+        "label": "WORK_OF_ART",
+        "start": 720,
+        "end": 737
+      },
+      {
+        "text": "Alcolombri",
+        "label": "PERSON",
+        "start": 1140,
+        "end": 1150
+      },
+      {
+        "text": "about ten",
+        "label": "CARDINAL",
+        "start": 202,
+        "end": 211
+      },
+      {
+        "text": "Alcolombri",
+        "label": "PERSON",
+        "start": 500,
+        "end": 510
+      },
+      {
+        "text": "François Peaudecerf",
+        "label": "ORG",
+        "start": 529,
+        "end": 548
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 720,
+        "end": 723
+      },
+      {
+        "text": "Firstly",
+        "label": "ORDINAL",
+        "start": 732,
+        "end": 739
+      },
+      {
+        "text": "secondly",
+        "label": "ORDINAL",
+        "start": 878,
+        "end": 886
+      },
+      {
+        "text": "Alcolombri",
+        "label": "PERSON",
+        "start": 228,
+        "end": 238
+      },
+      {
+        "text": "Alcolombri U",
+        "label": "PERSON",
+        "start": 619,
+        "end": 631
+      },
+      {
+        "text": "Peaudecerf FJ",
+        "label": "ORG",
+        "start": 633,
+        "end": 646
+      },
+      {
+        "text": "Fernandez VI",
+        "label": "ORG",
+        "start": 648,
+        "end": 660
+      },
+      {
+        "text": "Behrendt L",
+        "label": "ORG",
+        "start": 662,
+        "end": 672
+      },
+      {
+        "text": "Lee KS",
+        "label": "PERSON",
+        "start": 674,
+        "end": 680
+      },
+      {
+        "text": "Stocker R. Sinking",
+        "label": "PERSON",
+        "start": 686,
+        "end": 704
+      },
+      {
+        "text": "Geosci",
+        "label": "PERSON",
+        "start": 776,
+        "end": 782
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 798,
+        "end": 805
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alcolombri",
+        "Alcolombri U",
+        "Geosci",
+        "Lee KS",
+        "Roman Stocker’s",
+        "Stocker R. Sinking",
+        "Uria Alcolombri"
+      ],
+      "ORG": [
+        "Behrendt L",
+        "ETH Zurich",
+        "Fernandez VI",
+        "François Peaudecerf",
+        "Peaudecerf FJ",
+        "the Institute of Environmental Engineering"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "thousands of years"
+      ],
+      "MISC": [
+        "10.1038",
+        "About one percent",
+        "Firstly",
+        "Nature Geoscience",
+        "about ten",
+        "billions",
+        "first",
+        "secondly",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Alcolombri": 4,
+      "two": 2,
+      "billions": 1,
+      "About one percent": 1,
+      "thousands of years": 1,
+      "Uria Alcolombri": 1,
+      "the Institute of Environmental Engineering": 1,
+      "ETH Zurich": 1,
+      "first": 1,
+      "Roman Stocker’s": 1,
+      "Nature Geoscience": 1,
+      "about ten": 1,
+      "François Peaudecerf": 1,
+      "Firstly": 1,
+      "secondly": 1,
+      "Alcolombri U": 1,
+      "Peaudecerf FJ": 1,
+      "Fernandez VI": 1,
+      "Behrendt L": 1,
+      "Lee KS": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-glimpse-into-the-oceans-biological-carbon-pump.md",
+      "title": "En News Events/2021/09/a Glimpse Into The Oceans Biological Carbon Pump",
+      "language": "en",
+      "source_path": "en_news_events/2021/09/a-glimpse-into-the-oceans-biological-carbon-pump.html"
+    },
+    "temporal": {
+      "publication_date": "2021-09",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alcolombri",
+        "Alcolombri U",
+        "Geosci",
+        "Lee KS",
+        "Roman Stocker’s",
+        "Stocker R. Sinking",
+        "Uria Alcolombri"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "About one percent",
+        "Firstly",
+        "Nature Geoscience",
+        "about ten",
+        "billions",
+        "first",
+        "secondly"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Stocker R",
+        "Behrendt L",
+        "The Oceans",
+        "Biological Carbon",
+        "Uria Alcolombri",
+        "Alcolombri U",
+        "Pump Oceans",
+        "En News",
+        "Nature Geoscience",
+        "Glimpse Into",
+        "Roman Stocker",
+        "Fernandez VI",
+        "Peaudecerf FJ",
+        "ETH Zurich",
+        "Environmental Engineering",
+        "Lee KS"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Behrendt L",
+        "ETH Zurich",
+        "Fernandez VI",
+        "François Peaudecerf",
+        "Peaudecerf FJ",
+        "the Institute of Environmental Engineering"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Alcolombri",
+        "two",
+        "billions",
+        "About one percent",
+        "thousands of years",
+        "Uria Alcolombri",
+        "the Institute of Environmental Engineering",
+        "ETH Zurich",
+        "first",
+        "Roman Stocker’s"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "A quiet trickle of snow",
+          "A quiet trickle of snow",
+          "Washing away the by-products",
+          "Tiny things, enormous impact"
+        ],
+        "content_length": 3540
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Behrendt L",
+        "Alcolombri U",
+        "Uria Alcolombri",
+        "Stocker R. Sinking",
+        "ETH Zurich",
+        "Fernandez VI",
+        "Geosci",
+        "Roman Stocker’s",
+        "François Peaudecerf",
+        "Peaudecerf FJ",
+        "Alcolombri",
+        "2021",
+        "ERC",
+        "the Institute of Environmental Engineering",
+        "Lee KS"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "About one percent",
+        "billions",
+        "secondly",
+        "who",
+        "Nature Geoscience",
+        "10.1038",
+        "chemistry",
+        "Firstly",
+        "about ten",
+        "what",
+        "how",
+        "climate_change",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

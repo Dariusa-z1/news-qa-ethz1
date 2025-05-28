@@ -1,0 +1,101 @@
+{
+  "filename": "open-data-in-the-image-archive.md",
+  "original_filename": "open-data-in-the-image-archive.html",
+  "source_path": "en_internal/2015/03/open-data-in-the-image-archive.html",
+  "date": "2015-03",
+  "title": "Open Data In The Image Archive",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "You can find further information on ETH E-Pics Image Archive Online ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH E-Pics Image Archive Online",
+        "label": "ORG",
+        "start": 36,
+        "end": 67
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH E-Pics Image Archive Online"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH E-Pics Image Archive Online": 1
+    },
+    "total_entities": 1,
+    "unique_entities": 1
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "open-data-in-the-image-archive.md",
+      "title": "En Internal/2015/03/open Data in The Image Archive",
+      "language": "en",
+      "source_path": "en_internal/2015/03/open-data-in-the-image-archive.html"
+    },
+    "temporal": {
+      "publication_date": "2015-03",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Archive You",
+        "The Image",
+        "En Internal",
+        "Archive Online",
+        "ETH E",
+        "Pics Image"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH E-Pics Image Archive Online"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH E-Pics Image Archive Online"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 120
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH E-Pics Image Archive Online",
+        "2015"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,42 @@
+# wo-struktur-und-ornamentik-verschmelzen.html
+
+**Source:** de_news_events/2018/07/wo-struktur-und-ornamentik-verschmelzen.html
+
+## Nur so viel Beton wie nötig
+
+An den dünnsten Stellen gerade einmal 20 Millimeter dick, dekorativ gerippt und nicht halb so schwer wie eine konventionelle Betondecke: Bei «Smart Slab», zu Deutsch «intelligente Decke», ist der Name Programm. Die Decke kombiniert die bautechnischen Stärken von Beton mit den flexiblen Gestaltungsmöglichkeiten des 3D-Drucks. Entwickelt wurde Smart Slab von der Gruppe von Benjamin Dillenburger, Assistenzprofessor für Digitale Bautechnologien an der ETH Zürich. Smart Slab ist eines der Kernelemente der Wohneinheit DFAB House (siehe Box) und wurde vor kurzem im Forschungs- und Innovationsgebäude NEST der Empa und Eawag in Dübendorf montiert. Die 80 m 2 -grosse und 15 Tonnen schwere Decke setzt sich aus insgesamt elf Betonsegmenten zusammen und verbindet das Untergeschoss mit dem darüber liegenden zweistöckigen Holzbau.
+
+## Nur so viel Beton wie nötig
+
+3D-Betondruck erlebt in der Architektur zurzeit grossen Aufschwung. Ganze Häuser werden bereits Schicht für Schicht gedruckt. Beim Projekt Smart Slab hingegen fertigten die Forschenden nicht die Bauelemente selbst mit 3D-Druck, sondern deren Schalung – also die Negativform. Sie arbeiteten dafür mit einem grossformatigen 3D-Sanddrucker; die Schalungselemente sind somit eine Art künstlicher Sandstein. Die Vorteile gegenüber dem Betondruckprozess liegen darin, dass leistungsfähiger, faserverstärkter Beton verwendet werden kann und sich die Struktur in millimetergenauer Feinheit herauslösen lässt.
+
+## Auf Knopfdruck in die Produktion
+
+Das Strukturprinzip von Smart Slab ist ein hierarchisches Raster von Rippen. Die Decke wird von der Mesh Mould Wand getragen und kragt seitlich aus. (Bild: ETH Zürich / Andrei Jipa)
+
+Die Produktion der Schalung ist der arbeitsintensivste Schritt im Betonbau, insbesondere bei nicht-standardisierten Bauteilen. Da Beton günstig und reichlich verfügbar ist, ist die Versuchung der Bauindustrie gross, die immer gleichen Massivdecken zu produzieren – die Kehrseite ist aber ein hoher Materialverbrauch und somit eine schlechte CO2-Bilanz. Digitale Fertigungsmethoden können hier einen zentralen Beitrag leisten: Sie optimieren die Bauteile so, dass die nötige Stabilität mit massiv weniger Material erreicht wird. Wie komplex die Geometrie eines Bauteils ist, macht im 3D-Druck keinen Unterschied und verursacht keine Mehrkosten – der Drucker druckt einfach, was man ihm befiehlt.
+
+## Neuentwickelte Software koordiniert Parameter
+
+Für die Fabrikation der Schalungselemente entwickelte Dillenburgers Forschungsgruppe eigens eine neue Planungssoftware. Diese vermag alle für die Produktion relevanten Parameter aufzunehmen und zu koordinieren. Nebst Basisdaten wie den Raumdimensionen gaben die Forschenden auch einen millimetergenauen Scan der geschwungenen Wand ein, die als Hauptträgerin der Betondecke fungiert. Mithilfe der Software wurde die Geometrie der Decke so adaptiert, dass an jeden Punkt gemäss Kräfteverlauf nur exakt so viel Beton kommt, wie strukturell nötig ist. «Wir haben die Decke nicht gezeichnet, sondern programmiert», sagt Mania Aghaei Meibodi, Senior Researcherin und Projektleiterin Smart Slab in Dillenburger’s Gruppe. «Mit analoger Planung wäre es niemals möglich, all diese Aspekte aufeinander abzustimmen, erst recht nicht in dieser Präzision.»
+
+Blickt man von unten an die Decke, sieht man eine organische Ornamentstruktur mit verschiedenen Hierarchien. Während die Hauptrippen die Lasten tragen, dienen die kleineren, filigranen Rippen vor allem dem architektonischen Ausdruck und der Raumakustik. Statik und Ornamentik gehen bei Smart Slab Hand in Hand.
+
+In die Deckenstruktur integriert sind zudem Anlagen für Beleuchtung und Sprinkler. Deren Grösse und Platzierung wurde ebenfalls mit der Planungssoftware erfasst und beim Druck an den definierten Stellen ausgespart. Auf diese Weise verschwindet die Gebäudetechnik elegant und platzsparend in der Decke. Beim DFAB-House macht das zwar nur ein paar Zentimeter aus, aber bei Hochhäusern könnten auf diese Weise dereinst ein paar zusätzliche Stockwerke in die gleiche Höhe passen.
+
+## Auf Knopfdruck in die Produktion
+
+## Beteiligte Partner an Smart Slab
+
+Ist die Planung am Computer abgeschlossen, lassen sich die Fabrikationsdaten quasi per Knopfdruck an die Maschinen exportieren. An dieser Stelle kamen bei Smart Slab gleich mehrere Industriepartner ins Spiel: Einer produzierte die hochaufgelösten 3D-Sanddruckscha­lungen, welche aus druck- und transporttechnischen Gründen in palettengrosse Abschnitte unterteilt wurden, ein anderer parallel dazu die Holzschalung mittels CNC-Lasercutter. Letztere gibt der oberen Seite der Smart Slab-Decke die Form und spart Hohlräume aus, um Material und Gewicht zu sparen und gleichzeitig Platz für elektrische Leitungen zu schaffen.
+
+Anschliessend kamen die beiden Schalungstypen für die Betonierung bei einer dritten Firma zusammen. Diese spritzte erst den faserverstärkten Beton in die Sanddruckschalungen, um die fein gerippte Oberfläche der unteren Betonschale herzustellen, und goss danach den restlichen Beton in die Holzschalung.
+
+Nach zweiwöchiger Aushärtung waren die elf individuellen Betonsegmente bereit für den Transport zum NEST. Dank der präzisen Planung und Vorfertigung reduzierte sich die Zeit auf der Baustelle auf ein Minimum. Ein Kran hievte die Betonelemente auf die tragende Wand, wo die Vorspannung an Ort und Stelle erfolgte: Handwerker zogen längs und quer durch die Betonträger Stahlkabel in die bereits in der Schalung eingelegten Röhren. Durch die Anspannung der Kabel lässt sich die Traglast des Systems massiv steigern. «Zu sehen, wie nahtlos sich unsere Elemente auf der Baustelle aneinander und an die bereits bestehenden Bestandteile des DFAB House fügten, war überwältigend» sagt Dillenburger. «Dies verdanken wir auch der grossartigen interdisziplinären Zusammenarbeit mit unseren Partnern. Die minuziöse Arbeit, die wir in die Planung investierten, hat sich voll ausbezahlt».
+
+Acht Professuren der ETH Zürich, die im Nationalen Forschungsschwerpunkt (NFS) Digitale Fabrikation vereint sind, bauen gemeinsam mit Industriepartnern das DFAB House. Die dreigeschossige Wohneinheit steht auf der Forschungs- und Innovationsplattform NEST der Empa und Eawag in Dübendorf. Mit der Fabrikation der «Mesh Mould» Wand erfolgte im Mai 2017 der Startschuss für dieses weltweit erste Gebäude, das gleich mehrere neuartige, digitale Bauprozesse unter einem Dach vereinigt. Die Fertigstellung ist für Anfang 2019 geplant. Danach soll das DFAB House Gastforschenden als temporäre Unterkunft dienen.
+
+Forschungsgruppen der ETH Zürich: Professur für Digitale Bautechnologien, Benjamin Dillenburger (Lead); Professur für Baustoffe, Robert Flatt; Professur für Tragwerksentwurf, Joseph Schwartz
+
+Industriepartner: Bürgin Creations; Frutiger AG; voxeljet AG; Georg Ackermann GmbH; Stahlton AG; Christenguss AG; Fischer Rista AG; Rudolf Glauser AG; Gom International AG
+

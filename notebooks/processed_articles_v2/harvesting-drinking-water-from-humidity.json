@@ -1,0 +1,399 @@
+{
+  "filename": "harvesting-drinking-water-from-humidity.md",
+  "original_filename": "harvesting-drinking-water-from-humidity.html",
+  "source_path": "en_news_events/2021/06/harvesting-drinking-water-from-humidity.html",
+  "date": "2021-06",
+  "title": "Harvesting Drinking Water From Humidity",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Self-cooling and protection from radiation",
+      "text": "Fresh water is scarce in many parts of the world and must be obtained at great expense. Communities near the ocean can desalinate sea water for this purpose, but doing so requires a large amount of energy. Further away from the coast, practically often the only remaining option is to condense atmospheric humidity through cooling, either through processes that similarly require high energy input or by using “passive” technologies that exploit the temperature swing between day and night. However, with current passive technologies, such as dew-collecting foils, water can be extracted only at night. This is because the sun heats the foils during the day, which makes condensation impossible."
+    },
+    {
+      "heading": "Self-cooling and protection from radiation",
+      "text": "Researchers at ETH Zurich have now developed a technology that, for the first time, allows them to harvest water 24 hours around the clock, with no energy input, even under the blazing sun. The new device essentially consists of a specially coated glass pane, which both reflects solar radiation and also radiates away its own heat through the atmosphere to the outer space. It thus cools itself down to as much as 15 degrees Celsius below the ambient temperature. On the underside of this pane, water vapour from the air condenses into water. The process is the same as can be observed on poorly insulated windows in winter.\n\nThe scientists coated the glass with specifically designed polymer and silver layers. This special coating approach causes the pane to emit infrared radiation at a specific wavelength window to the outer space, with no absorption by the atmosphere nor reflection back onto the pane. Another key element of the device is a novel cone-shaped radiation shield. It largely deflects heat radiation from the atmosphere and shields the pane from incoming solar radiation, while allowing the device to radiate the aforementioned heat outward and thus to self-cool, fully passively."
+    },
+    {
+      "heading": "Close to the theoretical optimum",
+      "text": "As tests of the new device under real-world conditions on the roof of an ETH building in Zurich showed, the new technology can produce at least twice as much water per area per day as the best current passive technologies based on foils: the small pilot system with a pane diameter of 10 centimetres delivered 4.6 millilitres of water per day under real-world conditions. Larger devices with larger panes would produce more water accordingly. The scientists were able to show that, under ideal conditions, they could harvest up to 0.53 decilitres of water per square metre of pane surface per hour. “This is close to the theoretical maximum value of 0.6 decilitres per hour, which is physically impossible to exceed,” says Iwan Hächler. He is a doctoral student in the group of Dimos Poulikakos, Professor of Thermodynamics at ETH Zurich.\n\nOther technologies usually require the condensed water to be wiped from a surface, which requires energy. Without this step, a significant portion of the condensed water would cling to the surface and remain unusable while hindering further condensation. The ETH Zurich researchers applied a novel superhydrophobic (extremely water-repellent) coating to the underside of the pane in their water condenser. This causes the condensed water to bead up and run or jump off on its own accord. “In contrast to other technologies, ours can really function without any additional energy, which is a key advantage,” Hächler said.\n\nThe researchers’ goal was to develop a technology for countries with water scarcity and, in particular, for developing and emerging countries. Now, they say, other scientists have the opportunity to further develop this technology or combine it with other methods, such as water desalination, to increase their yield. The production of the coated panes is relatively simple and building water condensers that are larger than the current pilot system ought to be possible. Similar to the way solar cells feature several modules set up next to each other, several water condensers could also be positioned side by side to piece together a large-scale system.\n\nHaechler I, Park H, Schnoering G, Gulich T, Rohner M, Tripathy A, Milionis A, Schutzius TM, Poulikakos D: Exploiting radiative cooling for uninterrupted 24-hour water harvesting from the atmosphere. Science Advances, 23 June 2021, doi: 10.1126/sciadv.abf3978"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Drinking Water From Humidity",
+        "label": "ORG",
+        "start": 34,
+        "end": 62
+      },
+      {
+        "text": "between day and night",
+        "label": "DATE",
+        "start": 468,
+        "end": 489
+      },
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 596,
+        "end": 601
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 650,
+        "end": 657
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 15,
+        "end": 25
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 72,
+        "end": 77
+      },
+      {
+        "text": "24 hours",
+        "label": "TIME",
+        "start": 113,
+        "end": 121
+      },
+      {
+        "text": "as much as",
+        "label": "PERCENT",
+        "start": 404,
+        "end": 414
+      },
+      {
+        "text": "15 degrees",
+        "label": "QUANTITY",
+        "start": 415,
+        "end": 425
+      },
+      {
+        "text": "winter",
+        "label": "DATE",
+        "start": 618,
+        "end": 624
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 73,
+        "end": 76
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 89,
+        "end": 95
+      },
+      {
+        "text": "4.6",
+        "label": "CARDINAL",
+        "start": 310,
+        "end": 313
+      },
+      {
+        "text": "0.53",
+        "label": "CARDINAL",
+        "start": 531,
+        "end": 535
+      },
+      {
+        "text": "0.6 decilitres per hour",
+        "label": "QUANTITY",
+        "start": 650,
+        "end": 673
+      },
+      {
+        "text": "Iwan Hächler",
+        "label": "PERSON",
+        "start": 723,
+        "end": 735
+      },
+      {
+        "text": "Dimos Poulikakos",
+        "label": "PERSON",
+        "start": 778,
+        "end": 794
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 827,
+        "end": 837
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1098,
+        "end": 1108
+      },
+      {
+        "text": "Hächler",
+        "label": "ORG",
+        "start": 1446,
+        "end": 1453
+      },
+      {
+        "text": "Tripathy A",
+        "label": "PERSON",
+        "start": 2171,
+        "end": 2181
+      },
+      {
+        "text": "Milionis A",
+        "label": "PERSON",
+        "start": 2183,
+        "end": 2193
+      },
+      {
+        "text": "Schutzius TM",
+        "label": "PERSON",
+        "start": 2195,
+        "end": 2207
+      },
+      {
+        "text": "24-hour",
+        "label": "TIME",
+        "start": 2270,
+        "end": 2277
+      },
+      {
+        "text": "Science Advances",
+        "label": "ORG",
+        "start": 2316,
+        "end": 2332
+      },
+      {
+        "text": "23 June 2021",
+        "label": "DATE",
+        "start": 2334,
+        "end": 2346
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 2353,
+        "end": 2360
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dimos Poulikakos",
+        "Iwan Hächler",
+        "Milionis A",
+        "Schutzius TM",
+        "Tripathy A"
+      ],
+      "ORG": [
+        "Drinking Water From Humidity",
+        "ETH",
+        "ETH Zurich",
+        "Hächler",
+        "Science Advances"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "23 June 2021",
+        "24 hours",
+        "24-hour",
+        "between day and night",
+        "night",
+        "the day",
+        "winter"
+      ],
+      "MISC": [
+        "0.53",
+        "0.6 decilitres per hour",
+        "10.1126",
+        "15 degrees",
+        "4.6",
+        "as much as",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "Drinking Water From Humidity": 1,
+      "between day and night": 1,
+      "night": 1,
+      "the day": 1,
+      "first": 1,
+      "24 hours": 1,
+      "as much as": 1,
+      "15 degrees": 1,
+      "winter": 1,
+      "ETH": 1,
+      "Zurich": 1,
+      "4.6": 1,
+      "0.53": 1,
+      "0.6 decilitres per hour": 1,
+      "Iwan Hächler": 1,
+      "Dimos Poulikakos": 1,
+      "Hächler": 1,
+      "Tripathy A": 1,
+      "Milionis A": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "harvesting-drinking-water-from-humidity.md",
+      "title": "En News Events/2021/06/harvesting Drinking Water From Humidity",
+      "language": "en",
+      "source_path": "en_news_events/2021/06/harvesting-drinking-water-from-humidity.html"
+    },
+    "temporal": {
+      "publication_date": "2021-06",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Dimos Poulikakos",
+        "Iwan Hächler",
+        "Milionis A",
+        "Schutzius TM",
+        "Tripathy A"
+      ],
+      "people_with_roles": {
+        "Dimos Poulikakos": [
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "0.53",
+        "0.6 decilitres per hour",
+        "10.1126",
+        "15 degrees",
+        "as much as",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Tripathy A",
+        "From Humidity",
+        "En News",
+        "Schnoering G",
+        "Park H",
+        "Milionis A",
+        "Rohner M",
+        "Schutzius TM",
+        "Science Advances",
+        "Drinking Water",
+        "Dimos Poulikakos",
+        "ETH Zurich",
+        "Gulich T",
+        "Haechler I",
+        "The ETH",
+        "Poulikakos D"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Drinking Water From Humidity",
+        "ETH",
+        "ETH Zurich",
+        "Hächler",
+        "Science Advances"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Drinking Water From Humidity",
+        "between day and night",
+        "night",
+        "the day",
+        "first",
+        "24 hours",
+        "as much as",
+        "15 degrees",
+        "winter"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Self-cooling and protection from radiation",
+          "Self-cooling and protection from radiation",
+          "Close to the theoretical optimum"
+        ],
+        "content_length": 4338
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Iwan Hächler",
+        "Schutzius TM",
+        "Milionis A",
+        "ETH Zurich",
+        "Dimos Poulikakos",
+        "Tripathy A",
+        "Hächler",
+        "2021",
+        "Drinking Water From Humidity",
+        "Science Advances"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "why",
+        "who",
+        "chemistry",
+        "10.1126",
+        "15 degrees",
+        "what",
+        "how",
+        "0.53",
+        "as much as",
+        "when",
+        "0.6 decilitres per hour"
+      ],
+      "graph_relations": [
+        "Dimos Poulikakos_has_role_student",
+        "Dimos Poulikakos_has_role_professor",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

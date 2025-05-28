@@ -1,0 +1,568 @@
+{
+  "filename": "3d-printing-of-silicone-components.md",
+  "original_filename": "3d-printing-of-silicone-components.html",
+  "source_path": "en_news_events/2019/08/3d-printing-of-silicone-components.html",
+  "date": "2019-08",
+  "title": "3D Printing Of Silicone Components",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Customised parts at the push of a button",
+      "text": "Their ultimate goal is to save lives: the founders of the ETH spin-off Spectroplast, Manuel Schaffner and Petar Stefanov, have developed a novel 3D printing process capable of making biocompatible silicone parts. “In the long term we hope to use the technology to offer medical implants,” says Schaffner, the young company’s CEO. “And not in standard sizes, as is the case with conventional off-the-shelf products, but customised to fit the individual patient perfectly.”\n\nUntil now, Additive Manufacturing has traditionally produced objects made of hard materials such as metal, ceramic, or plastic. On the other hand, soft elastic silicone is still being used exclusively with injection moulding, where different elements of the composite material are fused together at extremely high temperatures of around 300 degrees. Schaffner’s doctoral research came up with a novel method that makes it possible to create soft silicone parts with a 3D printer. He is naturally reluctant to go into more detail, for fear of encouraging copycat products.\n\n3D printing has two major advantages over the traditional injection moulding process: on the one hand this high-precision method is able to produce very complex shapes for the first time. ETH researchers recently used the new method to produce artificial heart valves made of silicone (see ETH News article ). On the other hand, it makes production simpler and cheaper, as no moulds are required: everything happens at the touch of a button. This paves the way for mass production of customised components."
+    },
+    {
+      "heading": "Investments fuel growth",
+      "text": "Manuel Schaffner and Petar Stefanov. (Photograph: Oliver Bartenschlager)\n\nEven so, it will take a few years before the young company is able to market artificial heart valves or implants created by 3D printing, as the relevant regulatory and approval processes for medical devices are very complex and time-consuming. This is why the company will initially concentrate on what Schaffner calls “life-improving” rather than “life-saving” products. Silicone components therefore make sense wherever customised parts are especially beneficial, such as hearing aids or breast prosthesis. “Women who have had a breast removed due to cancer, for example, often face the fate of only being able to choose from standardised breast prosthesis,” Schaffner explains. “So some even ask for the other breast to be removed and replaced with an identically shaped prosthesis, purely for the sake of symmetry.” One solution to this predicament would be to create a template on the computer with the help of an MRI or CT scan, providing a perfectly shaped model ready for 3D printing.\n\nThe joint founders of Spectroplast know each other from their time at ETH. Having completed his doctorate in interdisciplinary natural sciences at the Department of Materials, Manuel Schaffner was looking for an engineer for his project, and Petar Stefanov applied. At the time Stefanov was studying electrical engineering and information technology at ETH and was also interested in Additive Manufacturing. “While experimenting with plastic shapes, we found there is much greater interest in the market for 3D printing of silicone parts,” Schaffner explains. And so the pair decided to set up a new company to meet this demand.\n\nThe world’s first high-precision 3D silicone printer is currently still located in the young company’s laboratory on the Hönggerberg campus. Although Spectroplast has only been operating since last year, the printer has been running virtually non-stop. According to Schaffner, the customer base has already grown to around 200. “We are currently working in shifts,” he says. So far the 32-year-old has only been able to alternate shifts with co-founder Stefanov to complete the print orders. But now an end to the production stress is in sight: The German AM Ventures Holding GmbH has just injected 1.5 million Swiss francs into the start-up, which will allow the young entrepreneurs to recruit four new staff members by the end of the year. Up to now, the co-founders have managed to keep their heads above water thanks to funding from the ETH Pioneer Fellowship and the Swiss Innovation Agency, Innosuisse.\n\nOn top of that, the electrical engineer Stefanov is also experimenting with new printers that will allow production capacities to be ramped up. “The second generation should be ready to run by the end of the year,” the 27-year-old says. As with the first prototype, he is playing around with components from conventional printers which he modifies for printing silicone. In future, Spectroplast not only wants to make money from 3D printing jobs, but also from the sale of printers and consumables. This should be possible in two years’ time, according to their business plan."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 58,
+        "end": 61
+      },
+      {
+        "text": "Spectroplast",
+        "label": "ORG",
+        "start": 71,
+        "end": 83
+      },
+      {
+        "text": "Manuel Schaffner",
+        "label": "PERSON",
+        "start": 85,
+        "end": 101
+      },
+      {
+        "text": "Petar Stefanov",
+        "label": "PERSON",
+        "start": 106,
+        "end": 120
+      },
+      {
+        "text": "Schaffner",
+        "label": "ORG",
+        "start": 294,
+        "end": 303
+      },
+      {
+        "text": "Additive Manufacturing",
+        "label": "ORG",
+        "start": 483,
+        "end": 505
+      },
+      {
+        "text": "around 300 degrees",
+        "label": "QUANTITY",
+        "start": 802,
+        "end": 820
+      },
+      {
+        "text": "Schaffner",
+        "label": "ORG",
+        "start": 822,
+        "end": 831
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1060,
+        "end": 1063
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1220,
+        "end": 1225
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1232,
+        "end": 1235
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 1334,
+        "end": 1342
+      },
+      {
+        "text": "Manuel Schaffner",
+        "label": "PERSON",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "Petar Stefanov",
+        "label": "PERSON",
+        "start": 21,
+        "end": 35
+      },
+      {
+        "text": "Oliver Bartenschlager",
+        "label": "PERSON",
+        "start": 50,
+        "end": 71
+      },
+      {
+        "text": "a few years",
+        "label": "DATE",
+        "start": 95,
+        "end": 106
+      },
+      {
+        "text": "3D",
+        "label": "CARDINAL",
+        "start": 197,
+        "end": 199
+      },
+      {
+        "text": "Schaffner",
+        "label": "ORG",
+        "start": 376,
+        "end": 385
+      },
+      {
+        "text": "Schaffner",
+        "label": "ORG",
+        "start": 734,
+        "end": 743
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 893,
+        "end": 896
+      },
+      {
+        "text": "CT",
+        "label": "ORG",
+        "start": 999,
+        "end": 1001
+      },
+      {
+        "text": "Spectroplast",
+        "label": "LOC",
+        "start": 1088,
+        "end": 1100
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1136,
+        "end": 1139
+      },
+      {
+        "text": "the Department of Materials",
+        "label": "ORG",
+        "start": 1213,
+        "end": 1240
+      },
+      {
+        "text": "Manuel Schaffner",
+        "label": "PERSON",
+        "start": 1242,
+        "end": 1258
+      },
+      {
+        "text": "Petar Stefanov",
+        "label": "PERSON",
+        "start": 1308,
+        "end": 1322
+      },
+      {
+        "text": "Stefanov",
+        "label": "PERSON",
+        "start": 1344,
+        "end": 1352
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1419,
+        "end": 1422
+      },
+      {
+        "text": "Additive Manufacturing",
+        "label": "ORG",
+        "start": 1450,
+        "end": 1472
+      },
+      {
+        "text": "Schaffner",
+        "label": "ORG",
+        "start": 1606,
+        "end": 1615
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1707,
+        "end": 1712
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 1816,
+        "end": 1827
+      },
+      {
+        "text": "Spectroplast",
+        "label": "ORG",
+        "start": 1845,
+        "end": 1857
+      },
+      {
+        "text": "last year",
+        "label": "DATE",
+        "start": 1888,
+        "end": 1897
+      },
+      {
+        "text": "Schaffner",
+        "label": "ORG",
+        "start": 1961,
+        "end": 1970
+      },
+      {
+        "text": "around 200",
+        "label": "CARDINAL",
+        "start": 2011,
+        "end": 2021
+      },
+      {
+        "text": "32-year-old",
+        "label": "DATE",
+        "start": 2081,
+        "end": 2092
+      },
+      {
+        "text": "Stefanov",
+        "label": "PERSON",
+        "start": 2148,
+        "end": 2156
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 2244,
+        "end": 2250
+      },
+      {
+        "text": "1.5 million Swiss francs",
+        "label": "MONEY",
+        "start": 2294,
+        "end": 2318
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 2390,
+        "end": 2394
+      },
+      {
+        "text": "the end of the year",
+        "label": "DATE",
+        "start": 2416,
+        "end": 2435
+      },
+      {
+        "text": "the ETH Pioneer Fellowship",
+        "label": "ORG",
+        "start": 2532,
+        "end": 2558
+      },
+      {
+        "text": "the Swiss Innovation Agency",
+        "label": "ORG",
+        "start": 2563,
+        "end": 2590
+      },
+      {
+        "text": "Innosuisse",
+        "label": "ORG",
+        "start": 2592,
+        "end": 2602
+      },
+      {
+        "text": "Stefanov",
+        "label": "PERSON",
+        "start": 2644,
+        "end": 2652
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 2753,
+        "end": 2759
+      },
+      {
+        "text": "the end of the year",
+        "label": "DATE",
+        "start": 2797,
+        "end": 2816
+      },
+      {
+        "text": "27-year-old",
+        "label": "DATE",
+        "start": 2823,
+        "end": 2834
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2853,
+        "end": 2858
+      },
+      {
+        "text": "Spectroplast",
+        "label": "PERSON",
+        "start": 2986,
+        "end": 2998
+      },
+      {
+        "text": "two years",
+        "label": "DATE",
+        "start": 3130,
+        "end": 3139
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hönggerberg",
+        "Manuel Schaffner",
+        "Oliver Bartenschlager",
+        "Petar Stefanov",
+        "Spectroplast",
+        "Stefanov"
+      ],
+      "ORG": [
+        "Additive Manufacturing",
+        "CT",
+        "ETH",
+        "ETH News",
+        "Innosuisse",
+        "Schaffner",
+        "Spectroplast",
+        "the Department of Materials",
+        "the ETH Pioneer Fellowship",
+        "the Swiss Innovation Agency"
+      ],
+      "LOCATION": [
+        "Spectroplast"
+      ],
+      "DATE": [
+        "27-year-old",
+        "32-year-old",
+        "a few years",
+        "last year",
+        "the end of the year",
+        "two years"
+      ],
+      "MISC": [
+        "1.5 million Swiss francs",
+        "3D",
+        "German",
+        "One",
+        "around 200",
+        "around 300 degrees",
+        "first",
+        "four",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Schaffner": 6,
+      "ETH": 4,
+      "Spectroplast": 4,
+      "Manuel Schaffner": 3,
+      "Petar Stefanov": 3,
+      "first": 3,
+      "Stefanov": 3,
+      "Additive Manufacturing": 2,
+      "the end of the year": 2,
+      "around 300 degrees": 1,
+      "two": 1,
+      "ETH News": 1,
+      "Oliver Bartenschlager": 1,
+      "a few years": 1,
+      "3D": 1,
+      "One": 1,
+      "CT": 1,
+      "the Department of Materials": 1,
+      "Hönggerberg": 1,
+      "last year": 1
+    },
+    "total_entities": 52,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "3d-printing-of-silicone-components.md",
+      "title": "En News Events/2019/08/3d Printing Of Silicone Components",
+      "language": "en",
+      "source_path": "en_news_events/2019/08/3d-printing-of-silicone-components.html"
+    },
+    "temporal": {
+      "publication_date": "2019-08",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Hönggerberg",
+        "Manuel Schaffner",
+        "Oliver Bartenschlager",
+        "Petar Stefanov",
+        "Spectroplast",
+        "Stefanov"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "1.5 million Swiss francs",
+        "German",
+        "around 200",
+        "around 300 degrees",
+        "first",
+        "four",
+        "second"
+      ],
+      "grants_funding": [
+        "EU",
+        "fellowship",
+        "funding"
+      ],
+      "projects": [
+        "Additive Manufacturing",
+        "Holding GmbH",
+        "Swiss Innovation",
+        "Printing Of",
+        "En News",
+        "The German",
+        "Oliver Bartenschlager",
+        "ETH Pioneer",
+        "Silicone Components",
+        "Although Spectroplast",
+        "ETH News",
+        "AM Ventures",
+        "Petar Stefanov",
+        "Manuel Schaffner"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Materials"
+      ],
+      "institutions": [
+        "Additive Manufacturing",
+        "CT",
+        "ETH",
+        "ETH News",
+        "Innosuisse",
+        "Schaffner",
+        "Spectroplast",
+        "the Department of Materials",
+        "the ETH Pioneer Fellowship",
+        "the Swiss Innovation Agency"
+      ],
+      "locations": [
+        "Spectroplast"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Schaffner",
+        "ETH",
+        "Spectroplast",
+        "Manuel Schaffner",
+        "Petar Stefanov",
+        "first",
+        "Stefanov",
+        "Additive Manufacturing",
+        "the end of the year",
+        "around 300 degrees"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Customised parts at the push of a button",
+          "Investments fuel growth"
+        ],
+        "content_length": 4795
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "CT",
+        "Spectroplast",
+        "Oliver Bartenschlager",
+        "Petar Stefanov",
+        "the Swiss Innovation Agency",
+        "2019",
+        "funding",
+        "the ETH Pioneer Fellowship",
+        "Stefanov",
+        "Schaffner",
+        "Manuel Schaffner",
+        "Additive Manufacturing",
+        "fellowship",
+        "EU",
+        "Innosuisse",
+        "ETH News",
+        "Hönggerberg",
+        "the Department of Materials"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "four",
+        "who",
+        "when",
+        "where",
+        "what",
+        "second",
+        "German",
+        "1.5 million Swiss francs",
+        "medical_research",
+        "around 300 degrees",
+        "how",
+        "why",
+        "around 200",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

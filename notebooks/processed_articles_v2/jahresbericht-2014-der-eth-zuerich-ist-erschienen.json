@@ -1,0 +1,198 @@
+{
+  "filename": "jahresbericht-2014-der-eth-zuerich-ist-erschienen.md",
+  "original_filename": "jahresbericht-2014-der-eth-zuerich-ist-erschienen.html",
+  "source_path": "de_internal/2015/04/jahresbericht-2014-der-eth-zuerich-ist-erschienen.html",
+  "date": "2015-04",
+  "title": "Jahresbericht 2014 Der Eth Zuerich Ist Erschienen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das Wachstum der ETH Zürich hat sich im Jahr 2014 weiter fortgesetzt. Insgesamt haben Ende 2014 rund 18 500 Frauen und Männer an der ETH Zürich studiert, so viele wie noch nie zuvor.\n\nDas Wachstum der ETH Zürich widerspiegelt sich auch in den Finanzkennzahlen. Die Gesamtausgaben der Hochschule beliefen sich 2014 auf 1556 Millionen Franken, was einer Zunahme im Vergleich zum Vorjahr um 2,9 Prozent entspricht.\n\nDiese und weitere Fakten rund um die ETH Zürich finden sich in dem von der Schulleitung herausgegebenen und soeben erschienenen Jahresbericht 2014 der ETH Zürich. In kurzen Texten, attraktiven Fotografien und Grafiken stellt der ETH-Jahresbericht die wichtigsten Leistungen, Entwicklungen und Ereignisse des vergangenen Jahres vor.\n\nMitarbeitende der ETH Zürich können den Jahresbericht 2014 im ETH-Web als PDF zum Herunterladen oder als gedruckte Ausgaben bei der Versandzentrale der ETH Zürich bestellen: Die Bestellung kann online erfolgen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/04/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Eth Zuerich",
+        "label": "LOC",
+        "start": 43,
+        "end": 54
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 17,
+        "end": 27
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 133,
+        "end": 143
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 200,
+        "end": 210
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 448,
+        "end": 458
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 562,
+        "end": 572
+      },
+      {
+        "text": "ETH-Jahresbericht",
+        "label": "MISC",
+        "start": 640,
+        "end": 657
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 761,
+        "end": 771
+      },
+      {
+        "text": "ETH-Web",
+        "label": "MISC",
+        "start": 805,
+        "end": 812
+      },
+      {
+        "text": "PDF",
+        "label": "MISC",
+        "start": 817,
+        "end": 820
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 895,
+        "end": 905
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2015/04/",
+        "Eth Zuerich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Jahresbericht",
+        "ETH-Web",
+        "PDF"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 7,
+      "De Internal/2015/04/": 1,
+      "Eth Zuerich": 1,
+      "ETH-Jahresbericht": 1,
+      "ETH-Web": 1,
+      "PDF": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "jahresbericht-2014-der-eth-zuerich-ist-erschienen.md",
+      "title": "De Internal/2015/04/jahresbericht 2014 der Eth Zuerich Ist Erschienen",
+      "language": "de",
+      "source_path": "de_internal/2015/04/jahresbericht-2014-der-eth-zuerich-ist-erschienen.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Jahresbericht",
+        "ETH-Web"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Das Wachstum",
+        "De Internal",
+        "ETH-Jahresbericht",
+        "Die Bestellung",
+        "Ist Erschienen",
+        "Die Gesamtausgaben",
+        "Eth Zuerich",
+        "Millionen Franken",
+        "ETH-Web"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2015/04/",
+        "Eth Zuerich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2015/04/",
+        "Eth Zuerich",
+        "ETH-Jahresbericht",
+        "ETH-Web",
+        "PDF"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1026
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "2015",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "ETH-Jahresbericht",
+        "ETH-Web"
+      ],
+      "graph_relations": []
+    }
+  }
+}

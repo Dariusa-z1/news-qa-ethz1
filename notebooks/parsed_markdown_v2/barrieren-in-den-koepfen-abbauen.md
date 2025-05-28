@@ -1,0 +1,40 @@
+# barrieren-in-den-koepfen-abbauen.html
+
+**Source:** de_news_events/2016/09/barrieren-in-den-koepfen-abbauen.html
+
+## Integration schon in der Schule
+
+Technik allein ist nicht die Lösung. Darin waren sich alle Teilnehmenden der Podiumsdiskussion, die von Niklaus Walter, dem Ressortleiter Wissen bei der SonntagsZeitung und dem Tages-Anzeiger, moderiert wurde, einig. Genauso wichtig wie innovative Assistenztechnologien sei der Abbau von Alltagshindernissen und eine grössere Akzeptanz von Menschen mit Behinderung in der Gesellschaft. «Assistenztechnologien bergen sogar die Gefahr, dass die notwendigen Anpassungen der Umwelt vernachlässigt werden, da davon ausgegangen wird, dass sich der einzelne Mensch anpasst», warnte Brian McGowan, Präsident des Vereins Sensability.
+
+## Integration schon in der Schule
+
+Der seit seiner Kindheit an Muskelschwäche erkrankte McGowan setzt sich mit dem nahe Bern ansässigen Verein für die Verständigung zwischen behinderten und nicht-behinderten Menschen ein. Nicht das Individuum, sondern die Gesellschaft solle Lösungen finden, forderte er. «Gleichstellung ist für mich der Abbau von Behinderungen.»
+
+Integrative Schulen sind für McGowan ein gutes Mittel, um Menschen mit Behinderungen einen gleichwertigen Zugang zu Bildung und Beruf zu ermöglichen und zugleich mehr gesellschaftliche Akzeptanz zu erreichen. Wer schon als Kind mit Menschen mit Einschränkungen in Berührung käme, werde früh sensibilisiert für deren tägliche Herausforderungen.
+
+Bereits in seiner Begrüssungsrede an die rund 100 Besucherinnen und Besucher hatte ETH-Vizepräsident Ulrich Weidmann die Frage gestellt, ob die Unterteilung in behinderte und nicht-behinderte Menschen überhaupt sinnvoll sei. Vielfach, so Weidmann, würde von einem 25-jährigen gesunden Mann als Normmensch ausgegangen – dies beispielsweise bei der Planung baulicher Massnahmen. «Doch Kinder oder alte Menschen haben auch nicht die gleichen Fähigkeiten wie dieser Normmensch», betonte Weidemann, der an der ETH Zürich unter anderem für die Zugänglichkeit der Gebäude zuständig ist.
+
+## Alle Menschen benutzen Hilfsmittel
+
+Auch die Kultur- und Medienwissenschaftlerin Karin Harrasser von der Kunstuniversität Linz stellte die Grenze zwischen Behinderung und Nicht-Behinderung infrage. Sie plädierte dafür, radikal andere Lebensentwürfe zuzulassen und betonte, dass alle Menschen gewissermassen Prothesen nutzten, zu denen die Kulturwissenschaft auch Geräte wie Fernseher oder Smartphone zählt.
+
+Das Smartphone war dabei für alle Teilnehmenden der Diskussion ein gutes Beispiel für ein Hilfsmittel, dass allen Menschen diene – ob mit oder ohne Einschränkungen. «Es hat auch das Problem gelöst, dass Rollstuhlfahrende in Telefonzellen das Telefon nicht erreichen konnten, und Gehörlose können es über SMS verwenden», sagte der Zürcher Gemeinderat Joe Manser. Er leitet die Fachstelle für hindernisfreies Bauen und benutzt selbst einen Rollstuhl. Für Manser ist Hightech ein Element, um die Gleichstellung zu erreichen, sofern sie auf die Bedürfnisse der körperlich eingeschränkten Menschen abgestimmt sei. Dies, das zeigte die Diskussion sehr deutlich, ist jedoch oft noch nicht der Fall.
+
+## Betroffene in die Entwicklung einbinden
+
+So wünschten sich die meisten Diskussionsteilnehmenden, dass bei der Entwicklung von Assistenztechnologien die Betroffenen schon viel früher involviert würden. Robert Riener, ETH-Professor für Sensomotorische Systeme und Initiator des Cybathlon , berichtete, dass dies in seiner Forschungsgruppe bereits so gehandhabt wird. Am Forschungszentrum für Paraplegiologie der Universitätsklinik Balgrist testet er neue Technologien, unter anderem mit Reha-Patienten. «Die Technik ist allerdings noch lange nicht so gut, wie es die Menschen bräuchten», räumte er ein.
+
+Um weitere Fortschritte zu machen, wünscht er sich noch mehr interdisziplinären Austausch und hat auch deswegen den Cybathlon ins Leben gerufen. McGowan ergänzte, dass es zielführend sei, wenn auch Menschen mit Behinderungen schon bei der Konzeption von Lösungen und in der Forschung dabei wären. Und Andreas Rieder, Leiter des Eidgenössischen Büros für die Gleichstellung von Menschen mit Behinderungen, verwies darauf, dass man neben körperlichen Einschränkungen auch geistige oder psychische Behinderungen nicht aus dem Auge verlieren dürfe.
+
+Ein wichtiger Punkt für die Anwesenden war insbesondere, dass ihnen Leistungsträger wie die Invalidenversicherung (IV) ein grösseres Mitspracherecht bei der Auswahl einräumen. «Das Problem ist, wenn andere entscheiden, was für mich einfach und zweckmässig ist», brachte es Rüdiger Böhm auf den Punkt. Böhm verlor 1997 bei einem Verkehrsunfall beide Beine und arbeitet heute als Motivationstrainer und Coach.
+
+## Technik darf nicht zum Zwang werden
+
+Trotz der Verfügbarkeit von Assistenztechnologien sollte ihre Nutzung jedoch nicht zum Zwang werden – dies ein weiteres wichtiges Anliegen der Teilnehmenden an diesem Abend. Die Technik helfe nicht nur Alltagshindernisse zu überwinden, sondern sie baue auch neue Abhängigkeiten auf und verdränge zum Teil gar eigenständige Lösungen, wie zum Beispiel die Kultur der Gebärdensprache. Zum Abschluss wünschte sich Joe Manser auf die Frage von Moderator Walter eine Erfindung, mit der die Barrieren in den Köpfen der Menschen verschwinden.
+
+Seien Sie dabei, wenn sich am 8. Oktober entscheidet, welche Teams mit den ausgeklügeltsten Technologien und geschicktesten Testpiloten den Wettkampf für sich entscheiden.
+
+Tickets sind hier erhältlich: externe Seite www.ticketcorner.ch
+
+Für ETH-Mitarbeitende gibt es reduzierte Tickets, die an den Logen bezogen werden können. Mehr Informationen
+

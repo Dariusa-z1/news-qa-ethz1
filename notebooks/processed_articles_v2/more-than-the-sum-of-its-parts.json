@@ -1,0 +1,278 @@
+{
+  "filename": "more-than-the-sum-of-its-parts.md",
+  "original_filename": "more-than-the-sum-of-its-parts.html",
+  "source_path": "en_internal/2017/07/more-than-the-sum-of-its-parts.html",
+  "date": "2017-07",
+  "title": "More Than The Sum Of Its Parts",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Several times a week, the avid motorbike enthusiast roars along the motorway from ETH to his future workplace in Lindau. Agrovet-Strickhof, the new platform for livestock research, will open in September. Joël Bérard, the head of research, enjoys doing things at full throttle – whether it's on his Ducati or in his work. The keen mountain climber likes to challenge himself. And that helps in his professional role too: the platform involves three partners – ETH Zurich, UZH and the cantonal Strickhof centre of excellence – and brings together academics and practitioners, from the professor to the milker. Bérard works with all of these people, and that's precisely what he likes so much about his job. And perhaps it is his bilingual background – he comes from the French/Italian Aosta Valley – that enables him to translate so seamlessly between different disciplines and levels. As well as coordinating the institutions' research projects, he is also able to initiate new projects. “That's what I'm particularly looking forward to, because I think there's huge potential at the interface between agricultural and veterinary sciences,” says Bérard.\n\nAgrovet-Strickhof will be opening its doors to all interested visitors on 2 and 3 September 2017. www.agrovet-strickhof.ethz.ch\n\nThis article appears in the current issue of \" life\" ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Sum Of Its Parts",
+        "label": "WORK_OF_ART",
+        "start": 30,
+        "end": 50
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 82,
+        "end": 85
+      },
+      {
+        "text": "Lindau",
+        "label": "GPE",
+        "start": 113,
+        "end": 119
+      },
+      {
+        "text": "September",
+        "label": "DATE",
+        "start": 194,
+        "end": 203
+      },
+      {
+        "text": "Joël Bérard",
+        "label": "PERSON",
+        "start": 205,
+        "end": 216
+      },
+      {
+        "text": "Ducati",
+        "label": "GPE",
+        "start": 299,
+        "end": 305
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 443,
+        "end": 448
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 460,
+        "end": 470
+      },
+      {
+        "text": "UZH",
+        "label": "ORG",
+        "start": 472,
+        "end": 475
+      },
+      {
+        "text": "Strickhof",
+        "label": "GPE",
+        "start": 493,
+        "end": 502
+      },
+      {
+        "text": "Bérard",
+        "label": "PERSON",
+        "start": 609,
+        "end": 615
+      },
+      {
+        "text": "French",
+        "label": "NORP",
+        "start": 769,
+        "end": 775
+      },
+      {
+        "text": "Bérard",
+        "label": "PERSON",
+        "start": 1146,
+        "end": 1152
+      },
+      {
+        "text": "Agrovet-Strickhof",
+        "label": "PERSON",
+        "start": 1154,
+        "end": 1171
+      },
+      {
+        "text": "September 2017",
+        "label": "DATE",
+        "start": 1236,
+        "end": 1250
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Agrovet-Strickhof",
+        "Bérard",
+        "ETH Zurich",
+        "Joël Bérard"
+      ],
+      "ORG": [
+        "ETH",
+        "UZH"
+      ],
+      "LOCATION": [
+        "Ducati",
+        "Lindau",
+        "Strickhof"
+      ],
+      "DATE": [
+        "September",
+        "September 2017"
+      ],
+      "MISC": [
+        "French",
+        "The Sum Of Its Parts",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Bérard": 2,
+      "The Sum Of Its Parts": 1,
+      "ETH": 1,
+      "Lindau": 1,
+      "September": 1,
+      "Joël Bérard": 1,
+      "Ducati": 1,
+      "three": 1,
+      "ETH Zurich": 1,
+      "UZH": 1,
+      "Strickhof": 1,
+      "French": 1,
+      "Agrovet-Strickhof": 1,
+      "September 2017": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "more-than-the-sum-of-its-parts.md",
+      "title": "En Internal/2017/07/more Than The Sum Of Its Parts",
+      "language": "en",
+      "source_path": "en_internal/2017/07/more-than-the-sum-of-its-parts.html"
+    },
+    "temporal": {
+      "publication_date": "2017-07",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Agrovet-Strickhof",
+        "Bérard",
+        "ETH Zurich",
+        "Joël Bérard"
+      ],
+      "people_with_roles": {
+        "Bérard": [
+          "head"
+        ],
+        "ETH Zurich": [
+          "professor"
+        ],
+        "Joël Bérard": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "French",
+        "The Sum Of Its Parts",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Than The",
+        "Agrovet-Strickhof",
+        "En Internal",
+        "Sum Of",
+        "Its Parts",
+        "ETH Zurich",
+        "Italian Aosta"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "UZH"
+      ],
+      "locations": [
+        "Ducati",
+        "Lindau",
+        "Strickhof"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Bérard",
+        "The Sum Of Its Parts",
+        "ETH",
+        "Lindau",
+        "September",
+        "Joël Bérard",
+        "Ducati",
+        "three",
+        "ETH Zurich",
+        "UZH"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1389
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Agrovet-Strickhof",
+        "2017",
+        "Bérard",
+        "UZH",
+        "Joël Bérard",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "French",
+        "who",
+        "what",
+        "The Sum Of Its Parts",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Bérard_has_role_head",
+        "ETH Zurich_has_role_professor",
+        "Joël Bérard_has_role_head",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

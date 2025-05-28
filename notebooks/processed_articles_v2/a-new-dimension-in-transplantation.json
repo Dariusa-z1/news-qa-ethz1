@@ -1,0 +1,392 @@
+{
+  "filename": "a-new-dimension-in-transplantation.md",
+  "original_filename": "a-new-dimension-in-transplantation.html",
+  "source_path": "en_news_events/2022/03/a-new-dimension-in-transplantation.html",
+  "date": "2022-03",
+  "title": "A New Dimension In Transplantation",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "With the help of a nanosyringe",
+      "text": "Just as the human body can be divided into different organs - such as the heart, lungs, kidneys, intestine or liver - our cells also consist of several complementary and interdependent systems. These are referred to as organelles, meaning small organs. And much as we are sometimes able to add several decades to the life of a patient with kidney disease by transplanting a healthy kidney, we may one day also be able to rejuvenate individual cells by transplanting cell components."
+    },
+    {
+      "heading": "With the help of a nanosyringe",
+      "text": "This prospect may sound like science fiction, but new findings from the research group led by Julia Vorholt at the Institute of Microbiology at ETH Zurich suggest that it has now reached the point of technical feasibility. In their research, recently published in the journal PLOS Biology , the group successfully used a ‘nanosyringe’ they had previously developed to transplant mitochondria from one living cell to another .\n\nMitochondria are the tiny powerhouses of the cell where the processes of cellular respiration take place – processes that originally evolved in bacteria more than 2 billion years ago. Over time, some bacteria joined with other cells to form an interdependent community in a process called endosymbiosis, which played a major role in the evolutionary development of life on Earth. Endosymbiosis is ultimately what led to the evolution of all multicellular organisms that consist of complex cells – from fungi and plants to animals, including humans."
+    },
+    {
+      "heading": "From threads to strings of pearls",
+      "text": "Endosymbiosis caused ancient bacteria to gradually evolve into mitochondria, the organelles that are responsible for energy production in today’s complex cells. In human cells, mitochondria form a dynamic, threadlike network. “The threads respond to negative pressure and transform into something like a string of pearls, from which individual mitochondria subsequently pinch off,” says Christoph Gäbelein, lead author of the paper.\n\nUsing cylindrical nanosyringes that were specially developed for this study, the researchers pierced the cell membrane and sucked up the spherical mitochondria. They then pierced the membrane of a different cell and pumped the mitochondria back out of the nanosyringe into the recipient cell.\n\nThe position of the nanosyringe is controlled by laser light from a converted atomic force microscope. A pressure regulator adjusts the flow, allowing scientists to transfer incredibly small volumes of fluid in the femtolitre range (millionths of a millionth of a millilitre) during organelle transplants. “Both the donor and acceptor cells survive this minimally invasive procedure,” Gäbelein says."
+    },
+    {
+      "heading": "Cell rejuvenation",
+      "text": "The transplanted mitochondria also have a high survival rate – more than 80 percent. In most cells, the injected mitochondria begin to fuse with the filamentous network of the new cell 20 minutes after transplantation. “The host cell accepts them,” Vorholt says. This holds true in most cases, though in a few cells they fall victim to the host cell’s quality control system and are degraded.\n\nIn their paper, the researchers write that “the technique presented in this paper will facilitate applications in various areas of research in the future”. It is conceivable that it could be used to rejuvenate stem cells, which exhibit a decline in metabolic activity as they age. But Vorholt’s team is currently pursuing other plans: “We want to understand the processes that control how different cell compartments cooperate – and we hope to unravel how endosymbioses develop over evolutionary time,” Vorholt says.\n\nGäbelein CG, Feng Q, Sarajlic E, Zambelli T, Guillaume-Gentil O, Kornmann B, Vorholt JA. Mitochondria transplantation between living cells. PLoS Biol . 20: Published: March 23, 2022, doi: 10.1371/journal.pbio.3001576"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "several decades",
+        "label": "DATE",
+        "start": 294,
+        "end": 309
+      },
+      {
+        "text": "Julia Vorholt",
+        "label": "FAC",
+        "start": 94,
+        "end": 107
+      },
+      {
+        "text": "the Institute of Microbiology",
+        "label": "ORG",
+        "start": 111,
+        "end": 140
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 144,
+        "end": 154
+      },
+      {
+        "text": "PLOS Biology",
+        "label": "ORG",
+        "start": 276,
+        "end": 288
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 397,
+        "end": 400
+      },
+      {
+        "text": "Mitochondria",
+        "label": "PERSON",
+        "start": 426,
+        "end": 438
+      },
+      {
+        "text": "more than 2 billion years ago",
+        "label": "MONEY",
+        "start": 579,
+        "end": 608
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 799,
+        "end": 804
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 138,
+        "end": 143
+      },
+      {
+        "text": "Christoph Gäbelein",
+        "label": "PERSON",
+        "start": 387,
+        "end": 405
+      },
+      {
+        "text": "organelle",
+        "label": "GPE",
+        "start": 1009,
+        "end": 1018
+      },
+      {
+        "text": "Gäbelein",
+        "label": "PERSON",
+        "start": 1111,
+        "end": 1119
+      },
+      {
+        "text": "more than 80 percent",
+        "label": "PERCENT",
+        "start": 63,
+        "end": 83
+      },
+      {
+        "text": "20 minutes",
+        "label": "TIME",
+        "start": 185,
+        "end": 195
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 249,
+        "end": 256
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 678,
+        "end": 685
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 896,
+        "end": 903
+      },
+      {
+        "text": "Gäbelein CG",
+        "label": "PERSON",
+        "start": 910,
+        "end": 921
+      },
+      {
+        "text": "Feng Q",
+        "label": "PERSON",
+        "start": 923,
+        "end": 929
+      },
+      {
+        "text": "Zambelli",
+        "label": "PERSON",
+        "start": 943,
+        "end": 951
+      },
+      {
+        "text": "Kornmann B",
+        "label": "PERSON",
+        "start": 975,
+        "end": 985
+      },
+      {
+        "text": "Vorholt JA",
+        "label": "PERSON",
+        "start": 987,
+        "end": 997
+      },
+      {
+        "text": "Mitochondria",
+        "label": "PERSON",
+        "start": 999,
+        "end": 1011
+      },
+      {
+        "text": "March 23, 2022",
+        "label": "DATE",
+        "start": 1077,
+        "end": 1091
+      },
+      {
+        "text": "10.1371/journal.pbio.3001576",
+        "label": "CARDINAL",
+        "start": 1098,
+        "end": 1126
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christoph Gäbelein",
+        "Feng Q",
+        "Gäbelein",
+        "Gäbelein CG",
+        "Kornmann B",
+        "Mitochondria",
+        "Vorholt JA",
+        "Zambelli"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "PLOS Biology",
+        "the Institute of Microbiology"
+      ],
+      "LOCATION": [
+        "Earth",
+        "Julia Vorholt",
+        "Vorholt",
+        "organelle"
+      ],
+      "DATE": [
+        "20 minutes",
+        "March 23, 2022",
+        "several decades",
+        "today"
+      ],
+      "MISC": [
+        "10.1371/journal.pbio.3001576",
+        "more than 2 billion years ago",
+        "more than 80 percent",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "Vorholt": 3,
+      "Mitochondria": 2,
+      "several decades": 1,
+      "Julia Vorholt": 1,
+      "the Institute of Microbiology": 1,
+      "ETH Zurich": 1,
+      "PLOS Biology": 1,
+      "one": 1,
+      "more than 2 billion years ago": 1,
+      "Earth": 1,
+      "today": 1,
+      "Christoph Gäbelein": 1,
+      "organelle": 1,
+      "Gäbelein": 1,
+      "more than 80 percent": 1,
+      "20 minutes": 1,
+      "Gäbelein CG": 1,
+      "Feng Q": 1,
+      "Zambelli": 1,
+      "Kornmann B": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-new-dimension-in-transplantation.md",
+      "title": "En News Events/2022/03/a New Dimension in Transplantation",
+      "language": "en",
+      "source_path": "en_news_events/2022/03/a-new-dimension-in-transplantation.html"
+    },
+    "temporal": {
+      "publication_date": "2022-03",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christoph Gäbelein",
+        "Feng Q",
+        "Gäbelein",
+        "Gäbelein CG",
+        "Kornmann B",
+        "Mitochondria",
+        "Vorholt JA",
+        "Zambelli"
+      ],
+      "people_with_roles": {
+        "Mitochondria": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "biology"
+      ],
+      "research_topics": [
+        "10.1371/journal.pbio.3001576",
+        "more than 2 billion years ago",
+        "more than 80 percent"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "New Dimension",
+        "PLoS Biol",
+        "But Vorholt",
+        "En News",
+        "PLOS Biology",
+        "Guillaume-Gentil",
+        "Kornmann B",
+        "Vorholt JA",
+        "Feng Q",
+        "Julia Vorholt",
+        "Transplantation Just",
+        "ETH Zurich",
+        "Sarajlic E",
+        "Zambelli T"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "PLOS Biology",
+        "the Institute of Microbiology"
+      ],
+      "locations": [
+        "Earth",
+        "Julia Vorholt",
+        "Vorholt",
+        "organelle"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Vorholt",
+        "Mitochondria",
+        "several decades",
+        "Julia Vorholt",
+        "the Institute of Microbiology",
+        "ETH Zurich",
+        "PLOS Biology",
+        "one",
+        "more than 2 billion years ago",
+        "Earth"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "With the help of a nanosyringe",
+          "With the help of a nanosyringe",
+          "From threads to strings of pearls",
+          "Cell rejuvenation"
+        ],
+        "content_length": 3773
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Zambelli",
+        "Mitochondria",
+        "Christoph Gäbelein",
+        "Kornmann B",
+        "PLOS Biology",
+        "Vorholt JA",
+        "Gäbelein CG",
+        "Feng Q",
+        "ERC",
+        "2022",
+        "the Institute of Microbiology",
+        "ETH Zurich",
+        "Gäbelein"
+      ],
+      "semantic_concepts": [
+        "10.1371/journal.pbio.3001576",
+        "who",
+        "biology",
+        "what",
+        "how",
+        "more than 80 percent",
+        "medical_research",
+        "when",
+        "where",
+        "more than 2 billion years ago"
+      ],
+      "graph_relations": [
+        "Mitochondria_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_biology"
+      ]
+    }
+  }
+}

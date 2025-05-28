@@ -1,0 +1,188 @@
+{
+  "filename": "am-22-september-kurze-einschraenkung-in-eth-bibliothek-swisscovery.md",
+  "original_filename": "am-22-september-kurze-einschraenkung-in-eth-bibliothek-swisscovery.html",
+  "source_path": "en_internal/2022/09/am-22-september-kurze-einschraenkung-in-eth-bibliothek-swisscovery.html",
+  "date": "2022-09",
+  "title": "Am 22 September Kurze Einschraenkung In Eth Bibliothek Swisscovery",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "For reasons of ongoing improvements, your ordering options will be slightly restricted on Thursday, 22 September 2022, from 17.00 to 20.00. During this time, no other pick-up location can be selected for media at the locations “ETH Library” and “GESS Library”, as they pause participating in courier dispatch. When ordering media from other libraries, the libraries mentioned will not be offered as pick-up locations during this time slot.\n\nOur Recommendation: submit your order before or after this time slot so that all ordering options are available to you.\n\nMore than just data – Benefit from know-how\n\n#KnowHow – The ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Kurze Einschraenkung",
+        "label": "PERSON",
+        "start": 36,
+        "end": 56
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE",
+        "start": 90,
+        "end": 98
+      },
+      {
+        "text": "September 2022",
+        "label": "DATE",
+        "start": 103,
+        "end": 117
+      },
+      {
+        "text": "17.00",
+        "label": "CARDINAL",
+        "start": 124,
+        "end": 129
+      },
+      {
+        "text": "20.00",
+        "label": "CARDINAL",
+        "start": 133,
+        "end": 138
+      },
+      {
+        "text": "ETH Library",
+        "label": "WORK_OF_ART",
+        "start": 228,
+        "end": 239
+      },
+      {
+        "text": "GESS Library",
+        "label": "WORK_OF_ART",
+        "start": 246,
+        "end": 258
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Kurze Einschraenkung"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [
+        "September 2022",
+        "Thursday"
+      ],
+      "MISC": [
+        "17.00",
+        "20.00",
+        "ETH Library",
+        "GESS Library"
+      ]
+    },
+    "entity_counts": {
+      "Kurze Einschraenkung": 1,
+      "Thursday": 1,
+      "September 2022": 1,
+      "17.00": 1,
+      "20.00": 1,
+      "ETH Library": 1,
+      "GESS Library": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "am-22-september-kurze-einschraenkung-in-eth-bibliothek-swisscovery.md",
+      "title": "En Internal/2022/09/am 22 September Kurze Einschraenkung in Eth Bibliothek Swisscovery",
+      "language": "en",
+      "source_path": "en_internal/2022/09/am-22-september-kurze-einschraenkung-in-eth-bibliothek-swisscovery.html"
+    },
+    "temporal": {
+      "publication_date": "2022-09",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Kurze Einschraenkung"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "17.00",
+        "20.00",
+        "ETH Library",
+        "GESS Library"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "September Kurze",
+        "ETH Library",
+        "Swisscovery For",
+        "GESS Library",
+        "En Internal",
+        "Our Recommendation",
+        "The ETH",
+        "Eth Bibliothek"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Kurze Einschraenkung",
+        "Thursday",
+        "September 2022",
+        "17.00",
+        "20.00",
+        "ETH Library",
+        "GESS Library"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 770
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Kurze Einschraenkung",
+        "2022"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "20.00",
+        "17.00",
+        "who",
+        "ETH Library",
+        "GESS Library",
+        "where",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

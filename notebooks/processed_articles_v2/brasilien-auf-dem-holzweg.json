@@ -1,0 +1,267 @@
+{
+  "filename": "brasilien-auf-dem-holzweg.md",
+  "original_filename": "brasilien-auf-dem-holzweg.html",
+  "source_path": "de_news_events/2022/10/brasilien-auf-dem-holzweg.html",
+  "date": "2022-10",
+  "title": "Brasilien Auf Dem Holzweg",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Literaturhinweise",
+      "text": "Gollnow F, Cammelli F, Carlson K, Garrett R. Gaps in Adoption and Implementation Limit the Current and Potential Effectiveness of Zero-Deforestation Supply Chain Policies for Soy. Environmental Research Letters 28 October 2022, doi: externe Seite 10.1088/1748-9326/ac97f6\n\nVilloria N, Garrett R, Gollnow F, Carlson K. Leakage Does Not Fully Offset Soy Supply-Chain Efforts to Reduce Deforestation in Brazil. Nature Communications 13, 5476 (2022), doi: externe Seite 10.1038/s41467-022-33213-z"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "auf dem Holzweg",
+        "label": "ORG",
+        "start": 33,
+        "end": 48
+      },
+      {
+        "text": "Gollnow F",
+        "label": "PERSON",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Cammelli F",
+        "label": "PERSON",
+        "start": 11,
+        "end": 21
+      },
+      {
+        "text": "Carlson K",
+        "label": "PERSON",
+        "start": 23,
+        "end": 32
+      },
+      {
+        "text": "Garrett R. Gaps",
+        "label": "PERSON",
+        "start": 34,
+        "end": 49
+      },
+      {
+        "text": "Soy",
+        "label": "PERSON",
+        "start": 175,
+        "end": 178
+      },
+      {
+        "text": "28 October 2022",
+        "label": "DATE",
+        "start": 211,
+        "end": 226
+      },
+      {
+        "text": "Villoria N",
+        "label": "ORG",
+        "start": 272,
+        "end": 282
+      },
+      {
+        "text": "Gollnow F",
+        "label": "PERSON",
+        "start": 295,
+        "end": 304
+      },
+      {
+        "text": "Carlson K. Leakage",
+        "label": "PERSON",
+        "start": 306,
+        "end": 324
+      },
+      {
+        "text": "Supply-Chain Efforts to Reduce Deforestation",
+        "label": "ORG",
+        "start": 351,
+        "end": 395
+      },
+      {
+        "text": "Brazil",
+        "label": "GPE",
+        "start": 399,
+        "end": 405
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 407,
+        "end": 428
+      },
+      {
+        "text": "13, 5476",
+        "label": "DATE",
+        "start": 429,
+        "end": 437
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Cammelli F",
+        "Carlson K",
+        "Carlson K. Leakage",
+        "Garrett R. Gaps",
+        "Gollnow F",
+        "Soy"
+      ],
+      "ORG": [
+        "De News",
+        "Nature Communications",
+        "Supply-Chain Efforts to Reduce Deforestation",
+        "Villoria N",
+        "auf dem Holzweg"
+      ],
+      "LOCATION": [
+        "Brazil"
+      ],
+      "DATE": [
+        "13, 5476",
+        "28 October 2022"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Gollnow F": 2,
+      "De News": 1,
+      "auf dem Holzweg": 1,
+      "Cammelli F": 1,
+      "Carlson K": 1,
+      "Garrett R. Gaps": 1,
+      "Soy": 1,
+      "28 October 2022": 1,
+      "Villoria N": 1,
+      "Carlson K. Leakage": 1,
+      "Supply-Chain Efforts to Reduce Deforestation": 1,
+      "Brazil": 1,
+      "Nature Communications": 1,
+      "13, 5476": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "brasilien-auf-dem-holzweg.md",
+      "title": "De News Events/2022/10/brasilien auf dem Holzweg",
+      "language": "en",
+      "source_path": "de_news_events/2022/10/brasilien-auf-dem-holzweg.html"
+    },
+    "temporal": {
+      "publication_date": "2022-10",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Cammelli F",
+        "Carlson K",
+        "Carlson K. Leakage",
+        "Garrett R. Gaps",
+        "Gollnow F",
+        "Soy"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Gollnow F",
+        "Leakage Does",
+        "Potential Effectiveness",
+        "Villoria N",
+        "Holzweg Gollnow",
+        "Environmental Research",
+        "Cammelli F",
+        "Reduce Deforestation",
+        "Supply Chain",
+        "Not Fully",
+        "Offset Soy",
+        "Supply-Chain",
+        "De News",
+        "Garrett R",
+        "Zero-Deforestation",
+        "Nature Communications",
+        "Carlson K",
+        "Implementation Limit"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "De News",
+        "Nature Communications",
+        "Supply-Chain Efforts to Reduce Deforestation",
+        "Villoria N",
+        "auf dem Holzweg"
+      ],
+      "locations": [
+        "Brazil"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "Gollnow F",
+        "De News",
+        "auf dem Holzweg",
+        "Cammelli F",
+        "Carlson K",
+        "Garrett R. Gaps",
+        "Soy",
+        "28 October 2022",
+        "Villoria N",
+        "Carlson K. Leakage"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Literaturhinweise"
+        ],
+        "content_length": 541
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Gollnow F",
+        "Garrett R. Gaps",
+        "Villoria N",
+        "Carlson K. Leakage",
+        "Soy",
+        "Cammelli F",
+        "auf dem Holzweg",
+        "2022",
+        "De News",
+        "Nature Communications",
+        "Carlson K",
+        "Supply-Chain Efforts to Reduce Deforestation"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

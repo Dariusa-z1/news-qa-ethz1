@@ -1,0 +1,418 @@
+{
+  "filename": "real-time-observation-of-collective-quantum-modes.md",
+  "original_filename": "real-time-observation-of-collective-quantum-modes.html",
+  "source_path": "en_news_events/2017/12/real-time-observation-of-collective-quantum-modes.html",
+  "date": "2017-12",
+  "title": "Real Time Observation Of Collective Quantum Modes",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Phase transitions caused by symmetry breaking",
+      "text": "A cylindrical rod is rotationally symmetric – after any arbitrary rotation around its axis it always looks the same. If an increasingly large force is applied to it in the longitudinal direction, however, it will eventually buckle and lose its rotational symmetry. Such processes, known as “spontaneous symmetry breaking”, also occur in subtle ways in the microscopic quantum world, where they are responsible for a number of fundamental phenomena such as magnetism and superconductivity. A team of researchers led by ETH professor Tilman Esslinger and Senior Scientist Tobias Donner at the Institute for Quantum Electronics has now studied the consequences of spontaneous symmetry breaking in detail using a quantum simulator. The results of their research have recently been published in the scientific journal Science."
+    },
+    {
+      "heading": "Phase transitions caused by symmetry breaking",
+      "text": "In their new work, Esslinger and his collaborators took a particular interest in phase transitions – physical processes, that is, in which the properties of a material change drastically, such as the transition of a material from solid to liquid or the spontaneous magnetization of a solid. In a particular type of phase transition that is caused by spontaneous symmetry breaking, so-called Higgs and Goldstone modes appear. Those modes describe how the particles in a material react collectively to a perturbation from the outside. “Such collective excitations have only been detected indirectly so far,” explains Julian Léonard, who obtained his doctorate in Esslinger’s laboratory now works as a post-doc at Harvard University, “but now we have succeeded in directly observing the character of those modes, which is dictated by symmetry.”"
+    },
+    {
+      "heading": "Sombrero in the quantum simulator",
+      "text": "For that purpose, the physicists built a quantum simulator – a laboratory system, that is, in which quantum phenomena can be studied in their purest form and under controlled conditions. The quantum simulator used by the ETH researchers consists of extremely cold rubidium atoms that are exposed to several light waves. Using two optical resonators, a coupling between the atoms and the light waves is created that causes the shape of the potential energy of the rubidium atoms to look like a rotationally symmetric salad bowl. The coordinates of the energy surface correspond to the intensity of the light in the two resonators. A laser beam that creates a so-called optical lattice can then be used to change this salad bowl-like surface in such a way that, above a critical strength of the laser beam, it starts resembling a Mexican sombrero with a bulge in the centre.\n\nUnder those circumstances, much like in the case of the cylindrical rod, spontaneous symmetry breaking occurs: just as the rod suddenly buckled in a random spatial direction, the atoms in Esslinger’s experiment, which started out in the middle of the salad bowl, now all together look for a new energy minimum. That minimum can lie anywhere along the groove of the sombrero, as every point along the groove has the same energy. That also means, however, that (energetically speaking) the atoms can be moved collectively along the groove without any energy input – this corresponds to the so-called Goldstone mode. By contrast, if one wants to nudge them radially, away from the middle of the sombrero or towards it, one has to provide the energy necessary for this Higgs mode. Again, this can be compared to a buckled rod, which is easy to rotate but hard to bend further."
+    },
+    {
+      "heading": "Measuring modes in real time",
+      "text": "“Normally, Goldstone and Higgs modes are detected indirectly via that energy”, says Andrea Morales, a PhD student and member of the research team, “but we have now been able to study in real time how those modes behave when the system is perturbed”. To do so, the researchers sent a short laser pulse into one of the optical resonators and then measured the light intensity in both resonators as a function of time. This allowed them to calculate the position of the atoms inside the energy sombrero. As expected, after exciting a Goldstone mode, only the angular coordinate along the groove changed, whereas in the Higgs mode it was the radial position that varied.\n\nFor Tilman Esslinger, this direct observation of an important and widespread many-body phenomenon - which thus far could only be observed indirectly - represents one of the essential strengths of the quantum simulator: “In those synthetic quantum systems we have a pretty ideal realization of what occurs in nature - in solids and also in single molecules. The direct observation of the dynamics of the Goldstone and Higgs modes in the quantum simulator deepens our understanding of what happens in such natural systems.”\n\nLéonard J, Morales A, Zupancic P, Donner T, Esslinger T. Monitoring and manipulating Higgs and Goldstone modes in a supersolid quantum gas. Science, published online 14th December 2017. DOI: 10.1126/science.aan2608"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 518,
+        "end": 521
+      },
+      {
+        "text": "Tilman Esslinger",
+        "label": "PERSON",
+        "start": 532,
+        "end": 548
+      },
+      {
+        "text": "Tobias Donner",
+        "label": "PERSON",
+        "start": 570,
+        "end": 583
+      },
+      {
+        "text": "the Institute for Quantum Electronics",
+        "label": "ORG",
+        "start": 587,
+        "end": 624
+      },
+      {
+        "text": "Science",
+        "label": "WORK_OF_ART",
+        "start": 813,
+        "end": 820
+      },
+      {
+        "text": "Esslinger",
+        "label": "PERSON",
+        "start": 19,
+        "end": 28
+      },
+      {
+        "text": "Higgs and Goldstone",
+        "label": "WORK_OF_ART",
+        "start": 391,
+        "end": 410
+      },
+      {
+        "text": "Julian Léonard",
+        "label": "PERSON",
+        "start": 615,
+        "end": 629
+      },
+      {
+        "text": "Esslinger",
+        "label": "ORG",
+        "start": 661,
+        "end": 670
+      },
+      {
+        "text": "Harvard University",
+        "label": "ORG",
+        "start": 711,
+        "end": 729
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 221,
+        "end": 224
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 326,
+        "end": 329
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 614,
+        "end": 617
+      },
+      {
+        "text": "Mexican",
+        "label": "NORP",
+        "start": 828,
+        "end": 835
+      },
+      {
+        "text": "Esslinger",
+        "label": "ORG",
+        "start": 1061,
+        "end": 1070
+      },
+      {
+        "text": "Andrea Morales",
+        "label": "PERSON",
+        "start": 84,
+        "end": 98
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 102,
+        "end": 105
+      },
+      {
+        "text": "Tilman Esslinger",
+        "label": "PERSON",
+        "start": 671,
+        "end": 687
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 829,
+        "end": 832
+      },
+      {
+        "text": "Donner",
+        "label": "PERSON",
+        "start": 1223,
+        "end": 1229
+      },
+      {
+        "text": "Esslinger T. Monitoring",
+        "label": "PERSON",
+        "start": 1233,
+        "end": 1256
+      },
+      {
+        "text": "Higgs and Goldstone",
+        "label": "WORK_OF_ART",
+        "start": 1274,
+        "end": 1293
+      },
+      {
+        "text": "14th December 2017",
+        "label": "DATE",
+        "start": 1355,
+        "end": 1373
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 1380,
+        "end": 1387
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andrea Morales",
+        "Donner",
+        "Esslinger",
+        "Esslinger T. Monitoring",
+        "Julian Léonard",
+        "Tilman Esslinger",
+        "Tobias Donner"
+      ],
+      "ORG": [
+        "ETH",
+        "En News",
+        "Esslinger",
+        "Harvard University",
+        "the Institute for Quantum Electronics"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "14th December 2017"
+      ],
+      "MISC": [
+        "10.1126",
+        "Higgs and Goldstone",
+        "Mexican",
+        "PhD",
+        "Science",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Esslinger": 3,
+      "ETH": 2,
+      "Tilman Esslinger": 2,
+      "Higgs and Goldstone": 2,
+      "two": 2,
+      "En News": 1,
+      "Tobias Donner": 1,
+      "the Institute for Quantum Electronics": 1,
+      "Science": 1,
+      "Julian Léonard": 1,
+      "Harvard University": 1,
+      "Mexican": 1,
+      "Andrea Morales": 1,
+      "PhD": 1,
+      "one": 1,
+      "Donner": 1,
+      "Esslinger T. Monitoring": 1,
+      "14th December 2017": 1,
+      "10.1126": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "real-time-observation-of-collective-quantum-modes.md",
+      "title": "En News Events/2017/12/real Time Observation Of Collective Quantum Modes",
+      "language": "en",
+      "source_path": "en_news_events/2017/12/real-time-observation-of-collective-quantum-modes.html"
+    },
+    "temporal": {
+      "publication_date": "2017-12",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andrea Morales",
+        "Donner",
+        "Esslinger",
+        "Esslinger T. Monitoring",
+        "Julian Léonard",
+        "Tilman Esslinger",
+        "Tobias Donner"
+      ],
+      "people_with_roles": {
+        "Andrea Morales": [
+          "student"
+        ],
+        "Donner": [
+          "scientist",
+          "researcher",
+          "professor"
+        ],
+        "Esslinger": [
+          "scientist",
+          "researcher",
+          "professor"
+        ],
+        "Tilman Esslinger": [
+          "scientist",
+          "researcher",
+          "professor"
+        ],
+        "Tobias Donner": [
+          "scientist",
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1126",
+        "Higgs and Goldstone",
+        "Mexican",
+        "Science"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Andrea Morales",
+        "Quantum Modes",
+        "Of Collective",
+        "En News",
+        "Zupancic P",
+        "For Tilman",
+        "Quantum Electronics",
+        "Harvard University",
+        "Morales A",
+        "Senior Scientist",
+        "Esslinger T",
+        "Tobias Donner",
+        "Tilman Esslinger",
+        "Donner T",
+        "Time Observation"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Quantum Electronics has now studied the consequences of spontaneous symmetry breaking in detail using a quantum simulator"
+      ],
+      "institutions": [
+        "ETH",
+        "En News",
+        "Esslinger",
+        "Harvard University",
+        "the Institute for Quantum Electronics"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Esslinger",
+        "ETH",
+        "Tilman Esslinger",
+        "Higgs and Goldstone",
+        "two",
+        "En News",
+        "Tobias Donner",
+        "the Institute for Quantum Electronics",
+        "Science",
+        "Julian Léonard"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Phase transitions caused by symmetry breaking",
+          "Phase transitions caused by symmetry breaking",
+          "Sombrero in the quantum simulator",
+          "Measuring modes in real time"
+        ],
+        "content_length": 4889
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Andrea Morales",
+        "Esslinger T. Monitoring",
+        "En News",
+        "2017",
+        "Donner",
+        "the Institute for Quantum Electronics",
+        "Harvard University",
+        "Tobias Donner",
+        "Tilman Esslinger",
+        "Julian Léonard",
+        "Esslinger",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "who",
+        "Mexican",
+        "Science",
+        "10.1126",
+        "Higgs and Goldstone",
+        "what",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Andrea Morales_has_role_student",
+        "Donner_has_role_scientist",
+        "Donner_has_role_researcher",
+        "Donner_has_role_professor",
+        "Esslinger_has_role_scientist",
+        "Esslinger_has_role_researcher",
+        "Esslinger_has_role_professor",
+        "Tilman Esslinger_has_role_scientist",
+        "Tilman Esslinger_has_role_researcher",
+        "Tilman Esslinger_has_role_professor",
+        "Tobias Donner_has_role_scientist",
+        "Tobias Donner_has_role_researcher",
+        "Tobias Donner_has_role_professor",
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

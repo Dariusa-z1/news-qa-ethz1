@@ -1,0 +1,149 @@
+{
+  "filename": "600-e-books-on-everything-to-do-with-it%20.md",
+  "original_filename": "600-e-books-on-everything-to-do-with-it%20.html",
+  "source_path": "en_internal/2016/06/600-e-books-on-everything-to-do-with-it%20.html",
+  "date": "2016-06",
+  "title": "600 E Books On Everything To Do With It%20",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Herdt Campus All-you-can-read range offers members of ETH Zurich free access to the latest software handbooks.\n\nAccess requires a one-off registration and is possible online in ETH Zurich's network or on ETH-Bibliothek premises.\n\nAccess via the Knowledge Portal of ETH-Bibliothek"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 58,
+        "end": 68
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 133,
+        "end": 136
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "ORG",
+        "start": 180,
+        "end": 192
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 207,
+        "end": 221
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 267,
+        "end": 281
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zurich",
+        "ETH Zurich's",
+        "ETH-Bibliothek"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 2,
+      "ETH Zurich": 1,
+      "one": 1,
+      "ETH Zurich's": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "600-e-books-on-everything-to-do-with-it%20.md",
+      "title": "En Internal/2016/06/600 E Books On Everything To Do With It%20",
+      "language": "en",
+      "source_path": "en_internal/2016/06/600-e-books-on-everything-to-do-with-it%20.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Campus All",
+        "To Do",
+        "En Internal",
+        "ETH Zurich",
+        "Knowledge Portal",
+        "E Books",
+        "With It",
+        "The Herdt",
+        "On Everything"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "ETH Zurich's",
+        "ETH-Bibliothek"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "ETH Zurich",
+        "one",
+        "ETH Zurich's"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 346
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "ETH-Bibliothek",
+        "ETH Zurich's",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "computer_science"
+      ],
+      "graph_relations": [
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

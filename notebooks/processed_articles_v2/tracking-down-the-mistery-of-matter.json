@@ -1,0 +1,455 @@
+{
+  "filename": "tracking-down-the-mistery-of-matter.md",
+  "original_filename": "tracking-down-the-mistery-of-matter.html",
+  "source_path": "en_news_events/2020/02/tracking-down-the-mistery-of-matter.html",
+  "date": "2020-02",
+  "title": "Tracking Down The Mistery Of Matter",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "50,000 measurements",
+      "text": "The Big Bang created both the matter in the universe and the antimatter – at least according to the established theory. Since the two mutually annihilate each other, however, there must have been a surplus of matter, which has remained to this day. The cause of this excess of matter is one of the great mysteries of physics and astronomy. Researchers hope to find a clue to the underlying phenomenon with the help of neutrons, the electrically neutral elementary building blocks of atomic nuclei. The assumption: If the neutron had a so-called electric dipole moment (abbreviated nEDM) with a measurable non-zero value, this could be due to the same physical principle that would also explain the excess of matter after the Big Bang."
+    },
+    {
+      "heading": "50,000 measurements",
+      "text": "The search for the nEDM can be expressed in everyday language as the question of whether or not the neutron is an electric compass. It has long been clear that the neutron is a magnetic compass and reacts to a magnetic field, or, in technical jargon: has a magnetic dipole moment. If in addition the neutron also had an electric dipole moment, its value would be very much less – and thus much more difficult to measure, as previous measurements have shown.\n\nPhysicists from ETH Zurich, the Paul Scherrer Institute (PSI) in Villigen and the University of Bern have now - in collaboration with researchers from 13 other institutions in Europe and the USA - carried out a new study to remeasure the electric dipole moment of the neutron with unprecedented precision. They used the source of ultracold neutrons at PSI, which supplies neutrons at a comparatively slow speed. Over a period of two years, every 300 seconds, an 8 second long bundle with over 10,000 neutrons was directed to the experiment and examined. The researchers measured a total of 50,000 such bundles until they had a sufficiently large number of observed neutrons."
+    },
+    {
+      "heading": "Reference",
+      "text": "The measurements required a large effort to keep the local magnetic field constant. For example, trucks passing by on the highway next to the PSI disturbed the magnetic field to an extent relevant to this experiment and therefore had to be deducted from the experimental data as an interfering signal. \"Even for PSI with its large-scale research facilities, this was a rather extensive study\", explains Klaus Kirch, ETH Professor of Experimental Particle Physics and head of the study from 2005-18. \"But that's exactly what is needed today when we are looking for physics beyond the Standard Model.\"\n\nWith their latest experiment, the researchers have confirmed previous laboratory results. “Our current result too yielded a value for nEDM that is too small to measure with the instruments that have been used up to now – the value is too close to zero”, says Kirch. It has therefore become less likely that the neutron will help explain the excess of matter. But it still can't be completely ruled out. Therefore, the next, more precise measurement is already being planned. The researchers expect to start the next series of measurements of the nEDM by 2021 and, in turn, to surpass the current one in terms of accuracy.\n\nThis text was compiled on the basis of a press release by the Paul Scherrer Institute.\n\nAbel C et al. Measurement of the permanent electric dipole moment of the neutron. Physical Review Letters 28. Februar 2020 (online). doi: 10.1103/PhysRevLett.124.081803"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Down The Mistery Of Matter",
+        "label": "WORK_OF_ART",
+        "start": 32,
+        "end": 58
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 130,
+        "end": 133
+      },
+      {
+        "text": "this day",
+        "label": "DATE",
+        "start": 239,
+        "end": 247
+      },
+      {
+        "text": "non-zero",
+        "label": "NORP",
+        "start": 605,
+        "end": 613
+      },
+      {
+        "text": "the Big Bang",
+        "label": "ORG",
+        "start": 721,
+        "end": 733
+      },
+      {
+        "text": "jargon:",
+        "label": "ORG",
+        "start": 243,
+        "end": 250
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 474,
+        "end": 484
+      },
+      {
+        "text": "the Paul Scherrer Institute",
+        "label": "ORG",
+        "start": 486,
+        "end": 513
+      },
+      {
+        "text": "PSI",
+        "label": "ORG",
+        "start": 515,
+        "end": 518
+      },
+      {
+        "text": "Villigen",
+        "label": "ORG",
+        "start": 523,
+        "end": 531
+      },
+      {
+        "text": "the University of Bern",
+        "label": "ORG",
+        "start": 536,
+        "end": 558
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 634,
+        "end": 640
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 649,
+        "end": 652
+      },
+      {
+        "text": "PSI",
+        "label": "ORG",
+        "start": 810,
+        "end": 813
+      },
+      {
+        "text": "two years",
+        "label": "DATE",
+        "start": 887,
+        "end": 896
+      },
+      {
+        "text": "every 300 seconds",
+        "label": "TIME",
+        "start": 898,
+        "end": 915
+      },
+      {
+        "text": "8 second",
+        "label": "TIME",
+        "start": 920,
+        "end": 928
+      },
+      {
+        "text": "over 10,000",
+        "label": "CARDINAL",
+        "start": 946,
+        "end": 957
+      },
+      {
+        "text": "50,000",
+        "label": "CARDINAL",
+        "start": 1048,
+        "end": 1054
+      },
+      {
+        "text": "PSI",
+        "label": "ORG",
+        "start": 142,
+        "end": 145
+      },
+      {
+        "text": "PSI",
+        "label": "ORG",
+        "start": 312,
+        "end": 315
+      },
+      {
+        "text": "Klaus Kirch",
+        "label": "PERSON",
+        "start": 403,
+        "end": 414
+      },
+      {
+        "text": "ETH Professor",
+        "label": "ORG",
+        "start": 416,
+        "end": 429
+      },
+      {
+        "text": "Experimental Particle Physics",
+        "label": "ORG",
+        "start": 433,
+        "end": 462
+      },
+      {
+        "text": "2005-18",
+        "label": "DATE",
+        "start": 490,
+        "end": 497
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 534,
+        "end": 539
+      },
+      {
+        "text": "close to zero",
+        "label": "CARDINAL",
+        "start": 838,
+        "end": 851
+      },
+      {
+        "text": "Kirch",
+        "label": "PERSON",
+        "start": 859,
+        "end": 864
+      },
+      {
+        "text": "the Paul Scherrer Institute",
+        "label": "ORG",
+        "start": 1280,
+        "end": 1307
+      },
+      {
+        "text": "Abel C et al",
+        "label": "PERSON",
+        "start": 1309,
+        "end": 1321
+      },
+      {
+        "text": "Physical Review Letters",
+        "label": "ORG",
+        "start": 1391,
+        "end": 1414
+      },
+      {
+        "text": "10.1103",
+        "label": "CARDINAL",
+        "start": 1447,
+        "end": 1454
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Abel C et al",
+        "ETH Zurich",
+        "Kirch",
+        "Klaus Kirch"
+      ],
+      "ORG": [
+        "ETH Professor",
+        "Experimental Particle Physics",
+        "PSI",
+        "Physical Review Letters",
+        "Villigen",
+        "jargon:",
+        "the Big Bang",
+        "the Paul Scherrer Institute",
+        "the University of Bern"
+      ],
+      "LOCATION": [
+        "Europe",
+        "USA"
+      ],
+      "DATE": [
+        "2005-18",
+        "8 second",
+        "every 300 seconds",
+        "this day",
+        "today",
+        "two years"
+      ],
+      "MISC": [
+        "10.1103",
+        "50,000",
+        "Down The Mistery Of Matter",
+        "close to zero",
+        "non-zero",
+        "over 10,000",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "PSI": 4,
+      "the Paul Scherrer Institute": 2,
+      "Down The Mistery Of Matter": 1,
+      "two": 1,
+      "this day": 1,
+      "non-zero": 1,
+      "the Big Bang": 1,
+      "jargon:": 1,
+      "ETH Zurich": 1,
+      "Villigen": 1,
+      "the University of Bern": 1,
+      "Europe": 1,
+      "USA": 1,
+      "two years": 1,
+      "every 300 seconds": 1,
+      "8 second": 1,
+      "over 10,000": 1,
+      "50,000": 1,
+      "Klaus Kirch": 1,
+      "ETH Professor": 1
+    },
+    "total_entities": 32,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "tracking-down-the-mistery-of-matter.md",
+      "title": "En News Events/2020/02/tracking Down The Mistery Of Matter",
+      "language": "en",
+      "source_path": "en_news_events/2020/02/tracking-down-the-mistery-of-matter.html"
+    },
+    "temporal": {
+      "publication_date": "2020-02",
+      "mentioned_years": [
+        "2005",
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Abel C et al",
+        "ETH Zurich",
+        "Kirch",
+        "Klaus Kirch"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher"
+        ],
+        "Kirch": [
+          "head",
+          "professor"
+        ],
+        "Klaus Kirch": [
+          "head",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1103",
+        "50,000",
+        "Down The Mistery Of Matter",
+        "close to zero",
+        "non-zero",
+        "over 10,000"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "En News",
+        "Physical Review",
+        "Klaus Kirch",
+        "Paul Scherrer",
+        "Abel C",
+        "Matter The",
+        "ETH Professor",
+        "Big Bang",
+        "ETH Zurich",
+        "Experimental Particle",
+        "Standard Model",
+        "Mistery Of",
+        "Down The"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Professor",
+        "Experimental Particle Physics",
+        "PSI",
+        "Physical Review Letters",
+        "Villigen",
+        "jargon:",
+        "the Big Bang",
+        "the Paul Scherrer Institute",
+        "the University of Bern"
+      ],
+      "locations": [
+        "Europe",
+        "USA"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "PSI",
+        "the Paul Scherrer Institute",
+        "Down The Mistery Of Matter",
+        "two",
+        "this day",
+        "non-zero",
+        "the Big Bang",
+        "jargon:",
+        "ETH Zurich",
+        "Villigen"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "50,000 measurements",
+          "50,000 measurements",
+          "Reference"
+        ],
+        "content_length": 3408
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Abel C et al",
+        "the Big Bang",
+        "Kirch",
+        "the Paul Scherrer Institute",
+        "the University of Bern",
+        "Villigen",
+        "EU",
+        "2005",
+        "2020",
+        "Klaus Kirch",
+        "ETH Professor",
+        "Physical Review Letters",
+        "PSI",
+        "ETH Zurich",
+        "2021",
+        "jargon:",
+        "Experimental Particle Physics"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "who",
+        "close to zero",
+        "50,000",
+        "when",
+        "where",
+        "what",
+        "Down The Mistery Of Matter",
+        "over 10,000",
+        "how",
+        "10.1103",
+        "non-zero",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "Kirch_has_role_head",
+        "Kirch_has_role_professor",
+        "Klaus Kirch_has_role_head",
+        "Klaus Kirch_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

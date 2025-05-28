@@ -1,0 +1,641 @@
+{
+  "filename": "robot-team-on-lunar-exploration-tour.md",
+  "original_filename": "robot-team-on-lunar-exploration-tour.html",
+  "source_path": "en_news_events/2023/07/robot-team-on-lunar-exploration-tour.html",
+  "date": "2023-07",
+  "title": "Robot Team On Lunar Exploration Tour",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- Researchers equipped a trio of legged robots with measuring instruments for finding minerals on the Moon.\n\n- Teamwork makes the robots both efficient and robust in the event of a failure.\n\n- The scientists won the European Space Resources Challenge in Luxembourg."
+    },
+    {
+      "heading": "Insurance against failure",
+      "text": "On the Moon, there are raw materials that humanity could one day mine and use. Various space agencies, such as the European Space Agency (ESA), are already planning missions to better explore Earth’s satellite and find minerals. This calls for appropriate exploration vehicles. Swiss researchers led by ETH Zurich are now pursuing the idea of sending not just one solitary rover on an exploration tour, but rather an entire team of vehicles and flying devices that complement each other.\n\nThe researchers equipped three ANYmal – a type of legged robot developed at ETH – with a range of measuring and analysis instruments that would potentially make them suitable exploration devices in the future. They tested these robots on various terrains in Switzerland and at the European Space Resources Innovation Centre (ESRIC) in Luxembourg, where, a few months ago, the Swiss team won a European competition for lunar exploration robots together with colleagues from Germany. The competition involved finding and identifying minerals on a test site modelled after the surface of the Moon. In the latest issue of the journal Science Robotics , the scientists describe how they go about exploring an unknown terrain using a team of robots."
+    },
+    {
+      "heading": "Insurance against failure",
+      "text": "“Using multiple robots has two advantages,” explains Philip Arm, a doctoral student in the group led by ETH Professor Marco Hutter. “The individual robots can take on specialised tasks and perform them simultaneously. Moreover, thanks to its redundancy, a robot team is able to compensate for a teammate’s failure.” Redundancy in this case means that important measuring equipment is installed on several robots. In other words, redundancy and specialisation are opposing goals. “Getting the benefits of both is a matter of finding the right balance,” Arm says."
+    },
+    {
+      "heading": "Reference",
+      "text": "The researchers at ETH Zurich and the Universities of Basel, Bern and Zurich solved this problem by equipping two of the legged robots as specialists. One robot was programmed to be particularly good at mapping the terrain and classifying the geology. It used a laser scanner and several cameras – some of them capable of spectral analysis – to gather initial clues about the mineral composition of the rock. The other specialist robot was taught to precisely identify rocks using a Raman spectrometer and a microscopy camera.\n\nThe third robot was a generalist: it was able to both map the terrain and identify rocks, which meant that it had a broader range of tasks than the specialists. However, its equipment meant that it could perform these tasks with less precision. “This makes it possible to complete the mission should any one of the robots malfunction,” Arm says.\n\nAt the ESRIC and ESA Space Resources Challenge, the jury was particularly impressed that the researchers had built redundancy into their exploration system to make it resilient to potential failures. As a prize, the Swiss scientists and their colleagues from the FZI Research Center for Information Technology in Karlsruhe, were awarded a one-year research contract to further develop this technology. In addition to legged robots, this work will also involve robots with wheels, building on the FZI researchers’ experience with such robots.\n\n“Legged robots like our ANYmal cope well in rocky and steep terrain, for example when it comes to climbing down into a crater,” explains Hendrik Kolvenbach, a senior scientist in Professor Hutter’s group. Robots with wheels are at a disadvantage in these kinds of conditions, but they can move faster on less challenging terrain. For a future mission, it would therefore make sense to combine robots that differ in terms of their mode of locomotion. Flying robots could also be added to the team.\n\nThe researchers also plan to make the robots more autonomous. Presently, all data from the robots flows into a control centre, where an operator assigns tasks to the individual robots. In the future, semi-autonomous robots could directly assign certain tasks to each other, with control and intervention options for the operator.\n\nArm P, Waibel G, Preisig J, Tuna T, Zhou R, Bickel V, Ligeza G, Miki T, Kehl F, Kolvenbach H, Hutter M: Scientific Exploration of Challenging Planetary Analog Environments with a Team of Legged Robots. Science Robotics, 12 June 2023, doi: 10.1126/scirobotics.ade9548"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Team On Lunar Exploration Tour",
+        "label": "ORG",
+        "start": 29,
+        "end": 59
+      },
+      {
+        "text": "Moon",
+        "label": "PERSON",
+        "start": 102,
+        "end": 106
+      },
+      {
+        "text": "the European Space Resources Challenge",
+        "label": "ORG",
+        "start": 210,
+        "end": 248
+      },
+      {
+        "text": "Luxembourg",
+        "label": "GPE",
+        "start": 252,
+        "end": 262
+      },
+      {
+        "text": "Moon",
+        "label": "PERSON",
+        "start": 7,
+        "end": 11
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 57,
+        "end": 60
+      },
+      {
+        "text": "the European Space Agency",
+        "label": "ORG",
+        "start": 111,
+        "end": 136
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 138,
+        "end": 141
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 192,
+        "end": 197
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 278,
+        "end": 283
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 303,
+        "end": 313
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 360,
+        "end": 363
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 513,
+        "end": 518
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 564,
+        "end": 567
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 746,
+        "end": 757
+      },
+      {
+        "text": "the European Space Resources Innovation Centre",
+        "label": "ORG",
+        "start": 765,
+        "end": 811
+      },
+      {
+        "text": "Luxembourg",
+        "label": "GPE",
+        "start": 823,
+        "end": 833
+      },
+      {
+        "text": "a few months ago",
+        "label": "DATE",
+        "start": 842,
+        "end": 858
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 864,
+        "end": 869
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 881,
+        "end": 889
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 961,
+        "end": 968
+      },
+      {
+        "text": "Moon",
+        "label": "PERSON",
+        "start": 1077,
+        "end": 1081
+      },
+      {
+        "text": "Science Robotics",
+        "label": "ORG",
+        "start": 1118,
+        "end": 1134
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 27,
+        "end": 30
+      },
+      {
+        "text": "Philip Arm",
+        "label": "PERSON",
+        "start": 53,
+        "end": 63
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 104,
+        "end": 107
+      },
+      {
+        "text": "Marco Hutter",
+        "label": "PERSON",
+        "start": 118,
+        "end": 130
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 19,
+        "end": 29
+      },
+      {
+        "text": "the Universities of Basel",
+        "label": "ORG",
+        "start": 34,
+        "end": 59
+      },
+      {
+        "text": "Bern",
+        "label": "ORG",
+        "start": 61,
+        "end": 65
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 70,
+        "end": 76
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 110,
+        "end": 113
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 151,
+        "end": 154
+      },
+      {
+        "text": "Raman",
+        "label": "NORP",
+        "start": 483,
+        "end": 488
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 531,
+        "end": 536
+      },
+      {
+        "text": "ESRIC",
+        "label": "ORG",
+        "start": 880,
+        "end": 885
+      },
+      {
+        "text": "ESA Space Resources Challenge",
+        "label": "ORG",
+        "start": 890,
+        "end": 919
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1089,
+        "end": 1094
+      },
+      {
+        "text": "the FZI Research Center for Information Technology",
+        "label": "ORG",
+        "start": 1132,
+        "end": 1182
+      },
+      {
+        "text": "Karlsruhe",
+        "label": "GPE",
+        "start": 1186,
+        "end": 1195
+      },
+      {
+        "text": "one-year",
+        "label": "DATE",
+        "start": 1212,
+        "end": 1220
+      },
+      {
+        "text": "FZI",
+        "label": "ORG",
+        "start": 1369,
+        "end": 1372
+      },
+      {
+        "text": "Hendrik Kolvenbach",
+        "label": "PERSON",
+        "start": 1552,
+        "end": 1570
+      },
+      {
+        "text": "Hutter",
+        "label": "PERSON",
+        "start": 1604,
+        "end": 1610
+      },
+      {
+        "text": "Zhou",
+        "label": "PERSON",
+        "start": 2278,
+        "end": 2282
+      },
+      {
+        "text": "Miki",
+        "label": "PERSON",
+        "start": 2306,
+        "end": 2310
+      },
+      {
+        "text": "Kolvenbach H",
+        "label": "ORG",
+        "start": 2322,
+        "end": 2334
+      },
+      {
+        "text": "12 June 2023",
+        "label": "DATE",
+        "start": 2462,
+        "end": 2474
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 2481,
+        "end": 2488
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Hendrik Kolvenbach",
+        "Hutter",
+        "Marco Hutter",
+        "Miki",
+        "Moon",
+        "Philip Arm",
+        "Zhou"
+      ],
+      "ORG": [
+        "Bern",
+        "ESA",
+        "ESA Space Resources Challenge",
+        "ESRIC",
+        "ETH",
+        "ETH Zurich",
+        "FZI",
+        "Kolvenbach H",
+        "Science Robotics",
+        "Team On Lunar Exploration Tour",
+        "the European Space Agency",
+        "the European Space Resources Challenge",
+        "the European Space Resources Innovation Centre",
+        "the FZI Research Center for Information Technology",
+        "the Universities of Basel"
+      ],
+      "LOCATION": [
+        "Earth",
+        "Germany",
+        "Karlsruhe",
+        "Luxembourg",
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "12 June 2023",
+        "a few months ago",
+        "one-year"
+      ],
+      "MISC": [
+        "10.1126",
+        "European",
+        "One",
+        "Raman",
+        "Swiss",
+        "one",
+        "third",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Moon": 3,
+      "Swiss": 3,
+      "Luxembourg": 2,
+      "one": 2,
+      "ETH Zurich": 2,
+      "ETH": 2,
+      "two": 2,
+      "Team On Lunar Exploration Tour": 1,
+      "the European Space Resources Challenge": 1,
+      "the European Space Agency": 1,
+      "ESA": 1,
+      "Earth": 1,
+      "three": 1,
+      "Switzerland": 1,
+      "the European Space Resources Innovation Centre": 1,
+      "a few months ago": 1,
+      "European": 1,
+      "Germany": 1,
+      "Science Robotics": 1,
+      "Philip Arm": 1
+    },
+    "total_entities": 49,
+    "unique_entities": 40
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "robot-team-on-lunar-exploration-tour.md",
+      "title": "En News Events/2023/07/robot Team On Lunar Exploration Tour",
+      "language": "en",
+      "source_path": "en_news_events/2023/07/robot-team-on-lunar-exploration-tour.html"
+    },
+    "temporal": {
+      "publication_date": "2023-07",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Hendrik Kolvenbach",
+        "Hutter",
+        "Marco Hutter",
+        "Miki",
+        "Moon",
+        "Philip Arm",
+        "Zhou"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher"
+        ],
+        "Hendrik Kolvenbach": [
+          "scientist",
+          "professor"
+        ],
+        "Hutter": [
+          "Professor",
+          "scientist",
+          "student",
+          "professor"
+        ],
+        "Marco Hutter": [
+          "Professor",
+          "student",
+          "professor"
+        ],
+        "Moon": [
+          "researcher"
+        ],
+        "Philip Arm": [
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1126",
+        "European",
+        "Raman",
+        "Swiss",
+        "third",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Professor Hutter",
+        "Waibel G",
+        "Analog Environments",
+        "ESA Space",
+        "Resources Innovation",
+        "Kehl F",
+        "Ligeza G",
+        "Marco Hutter",
+        "Hendrik Kolvenbach",
+        "Resources Challenge",
+        "Kolvenbach H",
+        "Legged Robots",
+        "FZI Research",
+        "ETH Professor",
+        "Tuna T",
+        "Information Technology",
+        "Hutter M",
+        "Miki T",
+        "Zhou R",
+        "Challenging Planetary",
+        "Lunar Exploration",
+        "Team On",
+        "Arm P",
+        "European Space",
+        "En News",
+        "Scientific Exploration",
+        "ETH Zurich",
+        "Philip Arm",
+        "Preisig J",
+        "Science Robotics",
+        "Bickel V"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bern",
+        "ESA",
+        "ESA Space Resources Challenge",
+        "ESRIC",
+        "ETH",
+        "ETH Zurich",
+        "FZI",
+        "Kolvenbach H",
+        "Science Robotics",
+        "Team On Lunar Exploration Tour",
+        "the European Space Agency",
+        "the European Space Resources Challenge",
+        "the European Space Resources Innovation Centre",
+        "the FZI Research Center for Information Technology",
+        "the Universities of Basel"
+      ],
+      "locations": [
+        "Earth",
+        "Germany",
+        "Karlsruhe",
+        "Luxembourg",
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Moon",
+        "Swiss",
+        "Luxembourg",
+        "one",
+        "ETH Zurich",
+        "ETH",
+        "two",
+        "Team On Lunar Exploration Tour",
+        "the European Space Resources Challenge",
+        "the European Space Agency"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "In brief",
+          "Insurance against failure",
+          "Insurance against failure",
+          "Reference"
+        ],
+        "content_length": 4634
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Bern",
+        "the FZI Research Center for Information Technology",
+        "Marco Hutter",
+        "ESA Space Resources Challenge",
+        "Miki",
+        "Hendrik Kolvenbach",
+        "Kolvenbach H",
+        "Hutter",
+        "ESA",
+        "the Universities of Basel",
+        "Moon",
+        "EU",
+        "FZI",
+        "Team On Lunar Exploration Tour",
+        "the European Space Agency",
+        "Zhou",
+        "the European Space Resources Challenge",
+        "the European Space Resources Innovation Centre",
+        "Philip Arm",
+        "ESRIC",
+        "ETH Zurich",
+        "Science Robotics",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "third",
+        "three",
+        "who",
+        "Swiss",
+        "10.1126",
+        "where",
+        "what",
+        "how",
+        "Raman",
+        "European",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "Hendrik Kolvenbach_has_role_scientist",
+        "Hendrik Kolvenbach_has_role_professor",
+        "Hutter_has_role_Professor",
+        "Hutter_has_role_scientist",
+        "Hutter_has_role_student",
+        "Hutter_has_role_professor",
+        "Marco Hutter_has_role_Professor",
+        "Marco Hutter_has_role_student",
+        "Marco Hutter_has_role_professor",
+        "Moon_has_role_researcher",
+        "Philip Arm_has_role_student",
+        "Philip Arm_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

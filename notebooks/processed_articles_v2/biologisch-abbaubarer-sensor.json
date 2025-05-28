@@ -1,0 +1,396 @@
+{
+  "filename": "biologisch-abbaubarer-sensor.md",
+  "original_filename": "biologisch-abbaubarer-sensor.html",
+  "source_path": "de_news_events/2017/09/biologisch-abbaubarer-sensor.html",
+  "date": "2017-09",
+  "title": "Biologisch Abbaubarer Sensor",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Magnesiumdraht in kompostierbarem Polymer",
+      "text": "Mikrosensoren werden heute schon breit eingesetzt, zum Beispiel um giftige Gase zu erkennen. Auch in kleine Sender-Empfänger-Systeme, wie den weitverbreiteten RFID-Chips, werden sie eingebaut. Da solche Sensoren jedoch oft umwelt- und gesundheitsschädliche Edelmetalle enthalten, kommen sie für medizinische Anwendungen mit direktem Körperkontakt oder zum Anbringen an Lebensmitteln nicht infrage. Entsprechend gross ist das Interesse von Forschung und Industrie an Mikrosensoren aus nichttoxischen Materialien, die biologisch abbaubar sind."
+    },
+    {
+      "heading": "Magnesiumdraht in kompostierbarem Polymer",
+      "text": "Ein Team von Forschern um Giovanni Salvatore, Postdoktorand an der Professur für Elektronik, entwickelte nun gemeinsam mit Wissenschaftlern weiterer ETH-Institute einen solchen Bio-Mikrosensor für die Temperaturmessung. Sie berichten davon im Fachmagazin «Advanced Functional Materials». Für den Bio-Mikrosensore schweissten sie einen superfeinen, eng gewundenen Elektrodraht aus Magnesium, Siliziumdioxid und -nitrit in ein kompostierbares Polymer ein. Magnesium ist ein wichtiger Bestandteil unserer Ernährung; Siliziumdioxid und -nitrit sind biokompatibel und wasserlöslich. Das verwendete Polymer wird aus Mais- und Kartoffelstärke produziert und entspricht den EU- und US-Richtlinien für den Einsatz im Lebensmittelbereich.\n\nGiovanni Salvatore ist überzeugt, dass solchen Bio-Mikrosensoren eine grosse Zukunft bevorsteht. Er macht ein Anwendungsbeispiel: «Fische aus Japan könnten für den Transport nach Europa mit winzigen Temperatursensoren versehen werden. Dadurch könnte kontinuierlich überwacht werden, ob sie ausreichend gekühlt sind.» Dafür sind Sensoren nötig, die an Lebensmitteln angebracht sind und die Gesundheit der Konsumenten nicht gefährden. Damit die Sensoren in Containern voller Fisch oder anderer Lebensmittel eingesetzt werden können, müssen sie ausserdem genügend klein, robust und flexibel sein."
+    },
+    {
+      "heading": "Dünner als ein Haar",
+      "text": "Der von den Forschern entwickelte Sensor ist lediglich 16 Mikrometer dick, also wesentlich dünner als ein Haar (100 Mikrometer), und er wiegt in einer wenige Millimeter grossen Ausführung nur Bruchteile von einem Milligramm. In seiner jetzigen Form ist der Sensor in einer einprozentigen Salzlösung in 67 Tagen komplett aufgelöst. Funktionstüchtig bleibt er derzeit einen Tag lang, denn solange dauert es, bis das Wasser durchs Polymer diffundiert ist und es den Draht des Sensors aufgelöst hat. Das würde reichen, um beispielsweise eine Fischlieferung von Japan nach Europa zu überwachen.\n\n«Die Lebensdauer können wir durch die Polymerdicke aber relativ einfach anpassen», sagt Salvatore. Allerdings wäre ein dickerer Sensor weniger flexibel. Der derzeitige dünne Sensor funktioniert selbst dann noch, wenn er komplett zerknüllt oder gefaltet wird. Auch Zugkräften bis zur Ausdehnung von10 Prozent der Originalgrösse hält er stand.\n\nZur Energieversorgung haben die Forscher den Sensor mit ultradünnen, biologisch abbaubaren Zinkkabeln an eine externe Mikrobatterie gekoppelt. Auf demselben (nicht biologisch abbaubaren) Chip befindet sich ein Mikroprozessor sowie ein Sender, über den die Temperaturdaten mit Bluetooth an einen externen Computer gesendet werden. Dadurch kann die Temperatur eines Produkts über eine Reichweite von zehn bis zwanzig Metern kontinuierlich überprüft werden."
+    },
+    {
+      "heading": "Biosensoren ab der Rolle",
+      "text": "Derzeit ist die Herstellung des Bio-Mikrosensors noch sehr aufwendig und kostspielig. Salvatore ist jedoch überzeugt, dass die Sensoren dereinst für den Massenmarkt produziert werden könnten. Insbesondere, weil die Druckverfahren für Elektronik immer besser werden. «Sind die Biosensoren erst einmal genügend günstig, könnte man sie praktisch überall hinkleben», sagt Salvatore. Lebensmittel könnten dadurch Teil des «Internet der Dinge» werden, über welches die physische Welt mit der digitalen vernetzt wird. Dabei muss es nicht bei Temperaturmessungen bleiben: Ähnliche Mikrosensoren könnten Druck, Gasentwicklung oder UV-Strahlung messen.\n\nSalvatore prognostiziert, dass wir in fünf bis zehn Jahren erste solche biologisch abbaubaren Sensoren im Alltag antreffen werden, je nach Interesse der Industrie. Bis dann würden Batterie, Prozessor und Sender wahrscheinlich gleich im Mikrosensor integriert sein, sagt Salvatore. Damit auch diese Komponenten für Umwelt und Gesundheit unbedenklich sind, ist noch viel Forschung nötig. Das Team forscht deshalb aktuell an einem biokompatiblen Energieträger für seinen Sensor.\n\nSalvatore GA et al.: Biodegradable and Highly Deformable Temperature Sensors for the Internet of Things. Advanced Functional Materials 2017. 1702390. doi: externe Seite 10.1002/adfm.201702390"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Sender-Empfänger-Systeme",
+        "label": "LOC",
+        "start": 108,
+        "end": 132
+      },
+      {
+        "text": "RFID-Chips",
+        "label": "ORG",
+        "start": 159,
+        "end": 169
+      },
+      {
+        "text": "Körperkontakt",
+        "label": "MISC",
+        "start": 333,
+        "end": 346
+      },
+      {
+        "text": "Giovanni Salvatore",
+        "label": "PER",
+        "start": 26,
+        "end": 44
+      },
+      {
+        "text": "ETH-Institute",
+        "label": "MISC",
+        "start": 149,
+        "end": 162
+      },
+      {
+        "text": "Fachmagazin «Advanced Functional Materials",
+        "label": "LOC",
+        "start": 243,
+        "end": 285
+      },
+      {
+        "text": "Bio-Mikrosensore",
+        "label": "MISC",
+        "start": 296,
+        "end": 312
+      },
+      {
+        "text": "EU-",
+        "label": "ORG",
+        "start": 666,
+        "end": 669
+      },
+      {
+        "text": "Giovanni Salvatore",
+        "label": "PER",
+        "start": 729,
+        "end": 747
+      },
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 871,
+        "end": 876
+      },
+      {
+        "text": "Europa",
+        "label": "LOC",
+        "start": 908,
+        "end": 914
+      },
+      {
+        "text": "Containern",
+        "label": "LOC",
+        "start": 1184,
+        "end": 1194
+      },
+      {
+        "text": "Forschern",
+        "label": "ORG",
+        "start": 12,
+        "end": 21
+      },
+      {
+        "text": "Funktionstüchtig",
+        "label": "PER",
+        "start": 331,
+        "end": 347
+      },
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 557,
+        "end": 562
+      },
+      {
+        "text": "Europa",
+        "label": "LOC",
+        "start": 568,
+        "end": 574
+      },
+      {
+        "text": "Polymerdicke",
+        "label": "LOC",
+        "start": 628,
+        "end": 640
+      },
+      {
+        "text": "Mikroprozessor",
+        "label": "MISC",
+        "start": 1142,
+        "end": 1156
+      },
+      {
+        "text": "Bluetooth",
+        "label": "PER",
+        "start": 1208,
+        "end": 1217
+      },
+      {
+        "text": "Salvatore",
+        "label": "PER",
+        "start": 86,
+        "end": 95
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 418,
+        "end": 426
+      },
+      {
+        "text": "Temperaturmessungen",
+        "label": "LOC",
+        "start": 535,
+        "end": 554
+      },
+      {
+        "text": "UV-Strahlung",
+        "label": "ORG",
+        "start": 622,
+        "end": 634
+      },
+      {
+        "text": "Salvatore",
+        "label": "PER",
+        "start": 643,
+        "end": 652
+      },
+      {
+        "text": "Salvatore GA et al.",
+        "label": "MISC",
+        "start": 1119,
+        "end": 1138
+      },
+      {
+        "text": "Advanced Functional",
+        "label": "MISC",
+        "start": 1224,
+        "end": 1243
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bluetooth",
+        "De News",
+        "Funktionstüchtig",
+        "Giovanni Salvatore",
+        "Salvatore"
+      ],
+      "ORG": [
+        "EU-",
+        "Forschern",
+        "RFID-Chips",
+        "UV-Strahlung"
+      ],
+      "LOCATION": [
+        "Containern",
+        "Europa",
+        "Fachmagazin «Advanced Functional Materials",
+        "Japan",
+        "Polymerdicke",
+        "Sender-Empfänger-Systeme",
+        "Temperaturmessungen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Advanced Functional",
+        "Bio-Mikrosensore",
+        "ETH-Institute",
+        "Internet",
+        "Körperkontakt",
+        "Mikroprozessor",
+        "Salvatore GA et al."
+      ]
+    },
+    "entity_counts": {
+      "Giovanni Salvatore": 2,
+      "Japan": 2,
+      "Europa": 2,
+      "Salvatore": 2,
+      "De News": 1,
+      "Sender-Empfänger-Systeme": 1,
+      "RFID-Chips": 1,
+      "Körperkontakt": 1,
+      "ETH-Institute": 1,
+      "Fachmagazin «Advanced Functional Materials": 1,
+      "Bio-Mikrosensore": 1,
+      "EU-": 1,
+      "Containern": 1,
+      "Forschern": 1,
+      "Funktionstüchtig": 1,
+      "Polymerdicke": 1,
+      "Mikroprozessor": 1,
+      "Bluetooth": 1,
+      "Internet": 1,
+      "Temperaturmessungen": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "biologisch-abbaubarer-sensor.md",
+      "title": "De News Events/2017/09/biologisch Abbaubarer Sensor",
+      "language": "de",
+      "source_path": "de_news_events/2017/09/biologisch-abbaubarer-sensor.html"
+    },
+    "temporal": {
+      "publication_date": "2017-09",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bluetooth",
+        "De News",
+        "Funktionstüchtig",
+        "Giovanni Salvatore",
+        "Salvatore"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "Advanced Functional",
+        "Bio-Mikrosensore",
+        "ETH-Institute",
+        "Internet",
+        "Körperkontakt",
+        "Mikroprozessor",
+        "Salvatore GA et al."
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Temperature Sensors",
+        "Bio-Mikrosensoren",
+        "Ein Team",
+        "Bio-Mikrosensor",
+        "Salvatore GA",
+        "Die Lebensdauer",
+        "Abbaubarer Sensor",
+        "Advanced Functional",
+        "Giovanni Salvatore",
+        "UV-Strahlung",
+        "US-Richtlinien",
+        "Highly Deformable",
+        "Bio-Mikrosensors",
+        "Bio-Mikrosensore",
+        "Das Team",
+        "ETH-Institute",
+        "De News",
+        "Zur Energieversorgung",
+        "RFID-Chips"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "EU-",
+        "Forschern",
+        "RFID-Chips",
+        "UV-Strahlung"
+      ],
+      "locations": [
+        "Containern",
+        "Europa",
+        "Fachmagazin «Advanced Functional Materials",
+        "Japan",
+        "Polymerdicke",
+        "Sender-Empfänger-Systeme",
+        "Temperaturmessungen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Giovanni Salvatore",
+        "Japan",
+        "Europa",
+        "Salvatore",
+        "De News",
+        "Sender-Empfänger-Systeme",
+        "RFID-Chips",
+        "Körperkontakt",
+        "ETH-Institute",
+        "Fachmagazin «Advanced Functional Materials"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Magnesiumdraht in kompostierbarem Polymer",
+          "Magnesiumdraht in kompostierbarem Polymer",
+          "Dünner als ein Haar",
+          "Biosensoren ab der Rolle"
+        ],
+        "content_length": 4619
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2017",
+        "EU",
+        "Funktionstüchtig",
+        "EU-",
+        "Forschern",
+        "Giovanni Salvatore",
+        "De News",
+        "Bluetooth",
+        "UV-Strahlung",
+        "Salvatore",
+        "RFID-Chips"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Advanced Functional",
+        "Bio-Mikrosensore",
+        "Internet",
+        "ETH-Institute",
+        "Salvatore GA et al.",
+        "Mikroprozessor",
+        "chemistry",
+        "Körperkontakt",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

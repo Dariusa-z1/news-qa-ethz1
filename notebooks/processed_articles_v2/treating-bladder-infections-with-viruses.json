@@ -1,0 +1,468 @@
+{
+  "filename": "treating-bladder-infections-with-viruses.md",
+  "original_filename": "treating-bladder-infections-with-viruses.html",
+  "source_path": "en_news_events/2023/07/treating-bladder-infections-with-viruses.html",
+  "date": "2023-07",
+  "title": "Treating Bladder Infections With Viruses",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- ETH Zurich researchers have developed a new rapid test that uses bacteriophages – viruses that infect bacteria – to quickly and accurately identify the pathogens that cause urinary tract infections.\n\n- This enables the targeted use of a suitable antibiotic.\n\n- The researchers also genetically modified the phages to make them more efficient in destroying the pathogenic bacteria."
+    },
+    {
+      "heading": "Fast and reliable diagnosis",
+      "text": "About one in two women are affected by cystitis during her lifetime, and many suffer from recurrent urinary tract infections. Bladder infections are not only painful and potentially dangerous, but they also pose a significant dilemma for physicians. With antibiotic resistance becoming widespread in urinary tract infections and continually increasing, physicians are often forced to blindly prescribe antibiotics without knowing their effectiveness against the pathogen causing the infection. This is because it takes several days to identify a specific pathogen using conventional diagnostics.\n\nResearchers at ETH Zurich, in collaboration with Balgrist University Hospital, have now developed a rapid test that employs the natural viral predators of bacteria, bacteriophages. The researchers also genetically modified the phages to make them more efficient at destroying the pathogenic bacteria."
+    },
+    {
+      "heading": "Fast and reliable diagnosis",
+      "text": "Phages are highly specialised viruses. Each species of phage infects only one particular type or strain of bacteria. ETH Zurich scientists from the Food Microbiology research group led by Professor Martin Loessner are now taking advantage of this unique characteristic. The first step was to identify the phages that are effective against the three main types of bacteria implicated in urinary tract infections, namely Escherichia coli , Klebsiella and Enterococci . These natural phages were then modified in such a way that any bacteria they recognize and infect are propelled to produce an easy-to-measure light signal.\n\nUsing this method, the researchers were able to reliably detect the pathogenic bacteria directly from a urine sample in less than four hours. In the future, the method could make it possible to prescribe a suitable antibiotic immediately after diagnosis and thus minimize resistance development and improve antibiotic stewardship.\n\nThe method also has another advantage: it allows physicians to predict which patients are likely to respond particularly well to a tailored phage therapy, as the strength of the light signal produced in the assay already indicates how efficient the phages are in attacking the bacterium – the more the sample glows, the better the bacterium will respond to the therapy."
+    },
+    {
+      "heading": "Double-action sniper",
+      "text": "Phage therapies have been used for over 100 years but fell into oblivion in Western industrialised countries with the discovery of penicillin. In view of increasing antibiotic resistance, they are currently seeing a renaissance. They also have the decisive advantage of attacking only a single target bacterium, much like a sniper.\n\nHowever, previous therapeutic approaches have one problem: “Phages aren’t interested in completely killing their host, the pathogenic bacterium,” explains ETH researcher Samuel Kilcher, one of the study’s two final authors. To enhance the phages’ effectiveness, the researchers genetically modified them. The modified phages produce not only new phages inside the infected host bacterium, but also bacteriocins. Once they are released, these bacteria-killing proteins are particularly effective against bacterial strains that have altered parts of their surface in such a way that the phages no longer recognise them. This double-barrelled attack makes the treatment more effective."
+    },
+    {
+      "heading": "From the laboratory to the clinic",
+      "text": "In individual cases, such as the recent rescue of a lung patient at the University Hospital of Geneva, phage therapies have been successfully used experimentally. “There are also many academic and commercial clinical trials underway worldwide that are systematically investigating the potential of natural and genetically optimized phages,” says Matthew Dunne, one of the study's final authors. However, there is a long way to go before such therapies can be applied more widely in Western countries. In addition to extensive clinical studies, regulatory adjustments would also be useful, taking into account the fact that phages are biological entities that co-evolve with their bacterial hosts, i.e., they are constantly evolving.\n\nThe present study is a proof of concept. Next, the ETH Zurich researchers, together with their partners from Balgrist University Hospital, will test the efficacy of the new phage therapy in a clinical trial with selected patients.\n\nDu J, Meile S, Baggenstos J et al.: Enhancing bacteriophage therapeutics through in situ production and release of heterologous antimicrobial effectors, Nature Communications 2023, doi: 10.1038/s41467-023-39612-0\n\nMeile S, Du J, Staubli S et al.: Engineered reporter phages for rapid detection of Escherichia coli, Klebsiella spp., and Enterococcus spp. in urine, Nature Communications 2023, doi: 10.1038/s41467-023-39863-x"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "About one",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "Bladder",
+        "label": "ORG",
+        "start": 126,
+        "end": 133
+      },
+      {
+        "text": "several days",
+        "label": "DATE",
+        "start": 519,
+        "end": 531
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 611,
+        "end": 621
+      },
+      {
+        "text": "Balgrist University Hospital",
+        "label": "ORG",
+        "start": 645,
+        "end": 673
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 69,
+        "end": 77
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 117,
+        "end": 127
+      },
+      {
+        "text": "the Food Microbiology",
+        "label": "ORG",
+        "start": 144,
+        "end": 165
+      },
+      {
+        "text": "Martin Loessner",
+        "label": "PERSON",
+        "start": 198,
+        "end": 213
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 274,
+        "end": 279
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 343,
+        "end": 348
+      },
+      {
+        "text": "Escherichia",
+        "label": "NORP",
+        "start": 419,
+        "end": 430
+      },
+      {
+        "text": "Klebsiella",
+        "label": "ORG",
+        "start": 438,
+        "end": 448
+      },
+      {
+        "text": "Enterococci",
+        "label": "ORG",
+        "start": 453,
+        "end": 464
+      },
+      {
+        "text": "less than four hours",
+        "label": "TIME",
+        "start": 743,
+        "end": 763
+      },
+      {
+        "text": "100 years",
+        "label": "DATE",
+        "start": 40,
+        "end": 49
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 378,
+        "end": 381
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 487,
+        "end": 490
+      },
+      {
+        "text": "Samuel Kilcher",
+        "label": "PERSON",
+        "start": 502,
+        "end": 516
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 518,
+        "end": 521
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 537,
+        "end": 540
+      },
+      {
+        "text": "the University Hospital of Geneva",
+        "label": "ORG",
+        "start": 68,
+        "end": 101
+      },
+      {
+        "text": "Matthew Dunne",
+        "label": "PERSON",
+        "start": 346,
+        "end": 359
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 361,
+        "end": 364
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 784,
+        "end": 794
+      },
+      {
+        "text": "Balgrist University Hospital",
+        "label": "ORG",
+        "start": 842,
+        "end": 870
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1117,
+        "end": 1138
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1150,
+        "end": 1157
+      },
+      {
+        "text": "Escherichia",
+        "label": "NORP",
+        "start": 1260,
+        "end": 1271
+      },
+      {
+        "text": "Klebsiella spp.",
+        "label": "ORG",
+        "start": 1278,
+        "end": 1293
+      },
+      {
+        "text": "Enterococcus",
+        "label": "ORG",
+        "start": 1299,
+        "end": 1311
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1327,
+        "end": 1348
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1360,
+        "end": 1367
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Martin Loessner",
+        "Matthew Dunne",
+        "Samuel Kilcher"
+      ],
+      "ORG": [
+        "Balgrist University Hospital",
+        "Bladder",
+        "ETH",
+        "ETH Zurich",
+        "Enterococci",
+        "Enterococcus",
+        "Klebsiella",
+        "Klebsiella spp.",
+        "Nature Communications",
+        "the Food Microbiology",
+        "the University Hospital of Geneva"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "100 years",
+        "less than four hours",
+        "several days"
+      ],
+      "MISC": [
+        "10.1038",
+        "About one",
+        "Escherichia",
+        "first",
+        "one",
+        "only one",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "one": 3,
+      "two": 2,
+      "Balgrist University Hospital": 2,
+      "Escherichia": 2,
+      "Nature Communications": 2,
+      "10.1038": 2,
+      "About one": 1,
+      "Bladder": 1,
+      "several days": 1,
+      "only one": 1,
+      "the Food Microbiology": 1,
+      "Martin Loessner": 1,
+      "first": 1,
+      "three": 1,
+      "Klebsiella": 1,
+      "Enterococci": 1,
+      "less than four hours": 1,
+      "100 years": 1,
+      "ETH": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "treating-bladder-infections-with-viruses.md",
+      "title": "En News Events/2023/07/treating Bladder Infections With Viruses",
+      "language": "en",
+      "source_path": "en_news_events/2023/07/treating-bladder-infections-with-viruses.html"
+    },
+    "temporal": {
+      "publication_date": "2023-07",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Martin Loessner",
+        "Matthew Dunne",
+        "Samuel Kilcher"
+      ],
+      "people_with_roles": {
+        "Martin Loessner": [
+          "Professor",
+          "scientist",
+          "professor"
+        ],
+        "Samuel Kilcher": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "About one",
+        "Escherichia",
+        "first",
+        "only one",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Samuel Kilcher",
+        "With Viruses",
+        "En News",
+        "Food Microbiology",
+        "Balgrist University",
+        "Du J",
+        "University Hospital",
+        "Staubli S",
+        "Meile S",
+        "Bladder Infections",
+        "Nature Communications",
+        "Baggenstos J",
+        "ETH Zurich",
+        "Matthew Dunne",
+        "Professor Martin"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Balgrist University Hospital",
+        "Bladder",
+        "ETH",
+        "ETH Zurich",
+        "Enterococci",
+        "Enterococcus",
+        "Klebsiella",
+        "Klebsiella spp.",
+        "Nature Communications",
+        "the Food Microbiology",
+        "the University Hospital of Geneva"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "one",
+        "two",
+        "Balgrist University Hospital",
+        "Escherichia",
+        "Nature Communications",
+        "10.1038",
+        "About one",
+        "Bladder",
+        "several days"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "In brief",
+          "Fast and reliable diagnosis",
+          "Fast and reliable diagnosis",
+          "Double-action sniper",
+          "From the laboratory to the clinic"
+        ],
+        "content_length": 5076
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Samuel Kilcher",
+        "Klebsiella",
+        "the Food Microbiology",
+        "EU",
+        "Enterococci",
+        "Klebsiella spp.",
+        "Martin Loessner",
+        "Balgrist University Hospital",
+        "Bladder",
+        "Nature Communications",
+        "ETH Zurich",
+        "the University Hospital of Geneva",
+        "Matthew Dunne",
+        "ERC",
+        "Enterococcus",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "three",
+        "who",
+        "About one",
+        "10.1038",
+        "when",
+        "what",
+        "how",
+        "only one",
+        "medical_research",
+        "Escherichia",
+        "where"
+      ],
+      "graph_relations": [
+        "Martin Loessner_has_role_Professor",
+        "Martin Loessner_has_role_scientist",
+        "Martin Loessner_has_role_professor",
+        "Samuel Kilcher_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

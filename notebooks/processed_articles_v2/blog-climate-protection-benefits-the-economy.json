@@ -1,0 +1,126 @@
+{
+  "filename": "blog-climate-protection-benefits-the-economy.md",
+  "original_filename": "blog-climate-protection-benefits-the-economy.html",
+  "source_path": "en_news_events/2022/10/blog-climate-protection-benefits-the-economy.html",
+  "date": "2022-10",
+  "title": "Blog Climate Protection Benefits The Economy",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "About the author",
+      "text": "Anthony Patt is a Professor of Climate Policy at ETH Zurich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Anthony Patt",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 49,
+        "end": 59
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Anthony Patt"
+      ],
+      "ORG": [
+        "ETH Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Anthony Patt": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "blog-climate-protection-benefits-the-economy.md",
+      "title": "En News Events/2022/10/blog Climate Protection Benefits The Economy",
+      "language": "en",
+      "source_path": "en_news_events/2022/10/blog-climate-protection-benefits-the-economy.html"
+    },
+    "temporal": {
+      "publication_date": "2022-10",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Anthony Patt"
+      ],
+      "people_with_roles": {
+        "Anthony Patt": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Climate Protection",
+        "Benefits The",
+        "Climate Policy",
+        "En News",
+        "ETH Zurich",
+        "Economy Anthony"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Anthony Patt",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "About the author"
+        ],
+        "content_length": 128
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "2022",
+        "Anthony Patt"
+      ],
+      "semantic_concepts": [
+        "who"
+      ],
+      "graph_relations": [
+        "Anthony Patt_has_role_professor"
+      ]
+    }
+  }
+}

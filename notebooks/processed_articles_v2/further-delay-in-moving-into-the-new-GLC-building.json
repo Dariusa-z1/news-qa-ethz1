@@ -1,0 +1,260 @@
+{
+  "filename": "further-delay-in-moving-into-the-new-GLC-building.md",
+  "original_filename": "further-delay-in-moving-into-the-new-GLC-building.html",
+  "source_path": "en_internal/2022/07/further-delay-in-moving-into-the-new-GLC-building.html",
+  "date": "2022-07",
+  "title": "Further Delay In Moving Into The New Glc Building",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The repeated postponement of the handover of the building has become a great burden for teaching, research and cooperation at ETH Zurich in many respects. The Real Estate department is in constant contact with the affected departments and their research groups to keep the negative impact of the delays on teaching and research to a minimum. The main reason for the further delay is the slow progress of construction work. It will therefore not be possible to open the doors of this new building this year as planned. From the perspective of ETH Zurich as the client, this is the fault of the general contractor.\n\nA key aspect of the overdue work relates to verifying the complex interaction between building and laboratory technology on the approximately 12,000 square meters of laboratory, office and seminar space. “In order to ensure smooth operation in the new building, it is extremely important to carefully check the technology before the research groups move in and to thoroughly inspect how the technologies interact,” says Daniel Bucheli, Director of the Real Estate department. “Nevertheless, we are striving to make the building available for teaching and research as soon as possible. We regret any inconvenience these delays may cause.”\n\nThe GLC is being built as a research and laboratory building for health sciences and medical technology: the professors, their labs and a technology platform for clinical trials (digital Trial Intervention Platform, d TIP) will further expand ETH Zurich’s existing activities in medicine and build on the university’s leading role in medical technology. Various research groups will meet in the new building and work more closely on research projects with the University of Zurich, the University Hospital Zurich, other university hospitals and the industry."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Delay",
+        "label": "PERSON",
+        "start": 28,
+        "end": 33
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 126,
+        "end": 136
+      },
+      {
+        "text": "The Real Estate department",
+        "label": "ORG",
+        "start": 155,
+        "end": 181
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 496,
+        "end": 505
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 542,
+        "end": 552
+      },
+      {
+        "text": "approximately 12,000 square meters",
+        "label": "QUANTITY",
+        "start": 741,
+        "end": 775
+      },
+      {
+        "text": "Daniel Bucheli",
+        "label": "PERSON",
+        "start": 1033,
+        "end": 1047
+      },
+      {
+        "text": "the Real Estate department",
+        "label": "ORG",
+        "start": 1061,
+        "end": 1087
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 1494,
+        "end": 1506
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 1707,
+        "end": 1731
+      },
+      {
+        "text": "the University Hospital Zurich",
+        "label": "ORG",
+        "start": 1733,
+        "end": 1763
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Daniel Bucheli",
+        "Delay",
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "The Real Estate department",
+        "the Real Estate department",
+        "the University Hospital Zurich",
+        "the University of Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "this year"
+      ],
+      "MISC": [
+        "approximately 12,000 square meters"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Delay": 1,
+      "The Real Estate department": 1,
+      "this year": 1,
+      "approximately 12,000 square meters": 1,
+      "Daniel Bucheli": 1,
+      "the Real Estate department": 1,
+      "ETH Zurich’s": 1,
+      "the University of Zurich": 1,
+      "the University Hospital Zurich": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "further-delay-in-moving-into-the-new-GLC-building.md",
+      "title": "En Internal/2022/07/further Delay in Moving Into The New Glc Building",
+      "language": "en",
+      "source_path": "en_internal/2022/07/further-delay-in-moving-into-the-new-GLC-building.html"
+    },
+    "temporal": {
+      "publication_date": "2022-07",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Daniel Bucheli",
+        "Delay",
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "people_with_roles": {
+        "Daniel Bucheli": [
+          "director",
+          "rector"
+        ],
+        "ETH Zurich": [
+          "professor"
+        ],
+        "ETH Zurich’s": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "approximately 12,000 square meters"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Trial Intervention",
+        "The GLC",
+        "En Internal",
+        "University Hospital",
+        "The Real",
+        "Real Estate",
+        "Daniel Bucheli",
+        "ETH Zurich",
+        "Glc Building",
+        "The New",
+        "Moving Into"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "The Real Estate department",
+        "the Real Estate department",
+        "the University Hospital Zurich",
+        "the University of Zurich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Delay",
+        "The Real Estate department",
+        "this year",
+        "approximately 12,000 square meters",
+        "Daniel Bucheli",
+        "the Real Estate department",
+        "ETH Zurich’s",
+        "the University of Zurich",
+        "the University Hospital Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1881
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Real Estate department",
+        "the University of Zurich",
+        "2022",
+        "Daniel Bucheli",
+        "the University Hospital Zurich",
+        "The Real Estate department",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Delay"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "approximately 12,000 square meters",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Daniel Bucheli_has_role_director",
+        "Daniel Bucheli_has_role_rector",
+        "ETH Zurich_has_role_professor",
+        "ETH Zurich’s_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "filename": "snsf-project-funding-more-attractive-and-more-effective.md",
+  "original_filename": "snsf-project-funding-more-attractive-and-more-effective.html",
+  "source_path": "en_internal/2015/08/snsf-project-funding-more-attractive-and-more-effective.html",
+  "date": "2015-08",
+  "title": "Snsf Project Funding More Attractive And More Effective",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The SNSF is adapting the project funding scheme on the basis of a client survey that was evaluated in 2014 and the analyses of an internal working group. The aim is to make the most important SNSF funding scheme clearer and more attractive to researchers and to support research more effectively. The SNSF is also adopting rules that clearly define scientific responsibilities in research projects. As before, project funding will be open to all scientific fields, disciplines and research ideas. The changes will take effect as of 1 October 2016, together with the first dedicated regulations on project funding.\n\nThe key changes in project funding are as follows:\n\nAll the latest information regarding the innovations in project funding and their implementation are available on a dedicated website . A second round of information providing details of the innovations in project funding is planned for the end of February 2016."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Project Funding More Attractive And More Effective",
+        "label": "ORG",
+        "start": 25,
+        "end": 75
+      },
+      {
+        "text": "October 2016",
+        "label": "DATE",
+        "start": 534,
+        "end": 546
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 566,
+        "end": 571
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 803,
+        "end": 809
+      },
+      {
+        "text": "the end of February 2016",
+        "label": "DATE",
+        "start": 902,
+        "end": 926
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Project Funding More Attractive And More Effective"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "October 2016",
+        "the end of February 2016"
+      ],
+      "MISC": [
+        "first",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "Project Funding More Attractive And More Effective": 1,
+      "October 2016": 1,
+      "first": 1,
+      "second": 1,
+      "the end of February 2016": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "snsf-project-funding-more-attractive-and-more-effective.md",
+      "title": "En Internal/2015/08/snsf Project Funding More Attractive And More Effective",
+      "language": "en",
+      "source_path": "en_internal/2015/08/snsf-project-funding-more-attractive-and-more-effective.html"
+    },
+    "temporal": {
+      "publication_date": "2015-08",
+      "mentioned_years": [
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "first",
+        "second"
+      ],
+      "grants_funding": [
+        "funding"
+      ],
+      "projects": [
+        "And More",
+        "More Attractive",
+        "En Internal",
+        "Project Funding",
+        "Effective The",
+        "The SNSF"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Project Funding More Attractive And More Effective"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "Project Funding More Attractive And More Effective",
+        "October 2016",
+        "first",
+        "second",
+        "the end of February 2016"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1005
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Project Funding More Attractive And More Effective",
+        "2015",
+        "2016",
+        "funding",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "what",
+        "second"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

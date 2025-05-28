@@ -1,0 +1,356 @@
+{
+  "filename": "de_news_events_2014_05_mitsprache-ja-veto-nein.md",
+  "original_filename": "de_news_events_2014_05_mitsprache-ja-veto-nein.html",
+  "source_path": "de_news_events/2014/05/mitsprache-ja-veto-nein.html",
+  "date": "2014-05",
+  "title": "Mitsprache Ja Veto Nein",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der ETH-Rat hat in seiner Sitzung von gestern und heute unter anderem über die Mitsprache von Donatoren bei der Besetzung von Stiftungsprofessuren beraten. In den vergangenen Wochen war diese Thema in den externe Seite Medien . Anlass war die Frage, ob vor acht Jahren einem Donator – der Firma Nestlé – bei der Besetzung einer Professur an der EPFL vertraglich ein Vetorecht zugesichert wurde.\n\nIn einer externe Seite Medienmitteilung hält der ETH-Rat heute fest, dass die einzelnen Institutionen des ETH-Bereichs zuständig und verantwortlich seien für den korrekten Umgang mit Drittmitteln. Für den ETH-Rat, das strategische Führungsorgan des ETH-Bereichs, sei das oberste Gebot, dass die Institutionen die in der Verfassung verankerte wissenschaftliche Lehr- und Forschungsfreiheit einhielten.\n\nGemeinsam mit der ETH Zürich und der EPFL bekräftigt der ETH-Rat in der Mitteilung, dass die Mitsprache nicht nur von Partnern aus Wirtschaft und öffentlicher Verwaltung, sondern auch von Donatoren in Berufungskommissionen sinnvoll sei. Folglich könne Donatoren im Berufungsprozess vertraglich ein Mitspracherecht gewährt werden, jedoch keine über die Mitsprache hinausgehenden Rechte, insbesondere Vetorechte. Berufungsprozesse erfolgten strikt nach akademischen Grundsätzen. Sollte eine Ernennungskommission dem Präsident der ETH Zürich oder der EPFL eine Person vorschlagen, die nicht den Vorstellungen des Donators entspreche, habe dieser die Möglichkeit, die Professur nicht zu finanzieren. In diesem Fall werde die Institution die vorgeschlagene Person dem ETH-Rat dennoch als Professorin oder Professor zur Wahl unterbreiten und die Finanzierung anders sicherstellen.\n\nZur Praxis an der ETH Zürich sagt Präsident Ralph Eichler: «Die ETH Zürich lädt Donatoren ein, in der Berufungskommission Einsitz zu nehmen. Dort hat der Vertreter des Donators, wie alle übrigen Mitglieder der zehn bis zwölfköpfigen Kommission, ein Mitspracherecht, aber kein Vetorecht.» Die definitive Auswahl eines neuen Professors, einer neuen Professorin, liege in den Händen des ETH-Präsidenten. Dieser stelle dem ETH-Rat als Wahlbehörde neuer Professorinnen und Professoren einen entsprechenden Antrag."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Ja Veto Nein",
+        "label": "MISC",
+        "start": 34,
+        "end": 46
+      },
+      {
+        "text": "ETH-Rat",
+        "label": "ORG",
+        "start": 4,
+        "end": 11
+      },
+      {
+        "text": "Medien",
+        "label": "LOC",
+        "start": 219,
+        "end": 225
+      },
+      {
+        "text": "Nestlé",
+        "label": "ORG",
+        "start": 295,
+        "end": 301
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 345,
+        "end": 349
+      },
+      {
+        "text": "ETH-Rat",
+        "label": "ORG",
+        "start": 444,
+        "end": 451
+      },
+      {
+        "text": "ETH-Bereichs",
+        "label": "MISC",
+        "start": 501,
+        "end": 513
+      },
+      {
+        "text": "ETH-Rat",
+        "label": "MISC",
+        "start": 600,
+        "end": 607
+      },
+      {
+        "text": "ETH-Bereichs",
+        "label": "MISC",
+        "start": 644,
+        "end": 656
+      },
+      {
+        "text": "Institutionen",
+        "label": "MISC",
+        "start": 690,
+        "end": 703
+      },
+      {
+        "text": "Verfassung",
+        "label": "ORG",
+        "start": 715,
+        "end": 725
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 814,
+        "end": 824
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 833,
+        "end": 837
+      },
+      {
+        "text": "ETH-Rat",
+        "label": "MISC",
+        "start": 853,
+        "end": 860
+      },
+      {
+        "text": "Donatoren",
+        "label": "PER",
+        "start": 984,
+        "end": 993
+      },
+      {
+        "text": "Berufungskommissionen",
+        "label": "LOC",
+        "start": 997,
+        "end": 1018
+      },
+      {
+        "text": "Berufungsprozesse",
+        "label": "PER",
+        "start": 1207,
+        "end": 1224
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1324,
+        "end": 1334
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 1344,
+        "end": 1348
+      },
+      {
+        "text": "Person",
+        "label": "PER",
+        "start": 1548,
+        "end": 1554
+      },
+      {
+        "text": "ETH-Rat",
+        "label": "ORG",
+        "start": 1559,
+        "end": 1566
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1689,
+        "end": 1692
+      },
+      {
+        "text": "Ralph Eichler",
+        "label": "PER",
+        "start": 1715,
+        "end": 1728
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1735,
+        "end": 1745
+      },
+      {
+        "text": "Einsitz",
+        "label": "LOC",
+        "start": 1793,
+        "end": 1800
+      },
+      {
+        "text": "ETH-Präsidenten",
+        "label": "MISC",
+        "start": 2055,
+        "end": 2070
+      },
+      {
+        "text": "ETH-Rat",
+        "label": "MISC",
+        "start": 2090,
+        "end": 2097
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Berufungsprozesse",
+        "Donatoren",
+        "Person",
+        "Ralph Eichler"
+      ],
+      "ORG": [
+        "EPFL",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Rat",
+        "Nestlé",
+        "Verfassung"
+      ],
+      "LOCATION": [
+        "Berufungskommissionen",
+        "Einsitz",
+        "Medien"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bereichs",
+        "ETH-Präsidenten",
+        "ETH-Rat",
+        "Institutionen",
+        "Ja Veto Nein"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Rat": 6,
+      "EPFL": 3,
+      "ETH Zürich": 3,
+      "ETH-Bereichs": 2,
+      "Ja Veto Nein": 1,
+      "Medien": 1,
+      "Nestlé": 1,
+      "Institutionen": 1,
+      "Verfassung": 1,
+      "Donatoren": 1,
+      "Berufungskommissionen": 1,
+      "Berufungsprozesse": 1,
+      "Person": 1,
+      "ETH": 1,
+      "Ralph Eichler": 1,
+      "Einsitz": 1,
+      "ETH-Präsidenten": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2014_05_mitsprache-ja-veto-nein.md",
+      "title": "De News Events/2014/05/mitsprache Ja Veto Nein",
+      "language": "de",
+      "source_path": "de_news_events/2014/05/mitsprache-ja-veto-nein.html"
+    },
+    "temporal": {
+      "publication_date": "2014-05",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Berufungsprozesse",
+        "Donatoren",
+        "Person",
+        "Ralph Eichler"
+      ],
+      "people_with_roles": {
+        "Person": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bereichs",
+        "ETH-Präsidenten",
+        "ETH-Rat",
+        "Institutionen",
+        "Ja Veto Nein"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Seite Medien",
+        "Ralph Eichler",
+        "Berufungskommission Einsitz",
+        "ETH-Rat",
+        "ETH-Bereichs",
+        "Zur Praxis",
+        "De News",
+        "Die ETH",
+        "Seite Medienmitteilung",
+        "Ja Veto",
+        "Nein Der"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "EPFL",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Rat",
+        "Nestlé",
+        "Verfassung"
+      ],
+      "locations": [
+        "Berufungskommissionen",
+        "Einsitz",
+        "Medien"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "ETH-Rat",
+        "EPFL",
+        "ETH Zürich",
+        "ETH-Bereichs",
+        "Ja Veto Nein",
+        "Medien",
+        "Nestlé",
+        "Institutionen",
+        "Verfassung",
+        "Donatoren"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2229
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Berufungsprozesse",
+        "EPFL",
+        "ETH",
+        "Donatoren",
+        "Ralph Eichler",
+        "EU",
+        "Nestlé",
+        "ETH-Rat",
+        "ETH Zürich",
+        "Verfassung",
+        "2014",
+        "Person"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Institutionen",
+        "ETH-Präsidenten",
+        "Ja Veto Nein",
+        "ETH-Rat",
+        "ETH-Bereichs"
+      ],
+      "graph_relations": [
+        "Person_has_role_professor"
+      ]
+    }
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "filename": "game-technology-center-app.md",
+  "original_filename": "game-technology-center-app.html",
+  "source_path": "en_news_events/2017/11/game-technology-center-app.html",
+  "date": "2017-11",
+  "title": "Game Technology Center App",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Colouring books and crayons often have a hard time competing against smartphone games and YouTube videos, especially as children come into contact with mobile devices from a very early age. Researchers at the Game Technology Center have combined the advantages of classic toys with the potential of virtual reality to bring new life to the playroom.\n\nThe researchers are calling their new applications “augmented creativity”. They aim to make drawing, painting, music and play more fun by using augmented reality, which means blending the real environment with animated and virtual elements.\n\nThe AR Colouring book module lets children colour a character with regular paper and pens and then transfer this onto a 3D character shown on the display. The AR Band module allows budding musicians to arrange their own song, try out virtual musical instruments and combine different musical styles. The AR Museum module makes visiting museums an interactive experience; the software lets you change the shape and colour of paintings on the screen.\n\nThe three modules are all based on the same technology, which was presented by the scientists in a professional publication in 2016. In principle, augmented creativity can be applied to any kind of space, whether a book, a room or an entire city. “Our apps make use of children’s enthusiasm for digital devices, but at the same time encourage them to interact more deeply with their surroundings,” says Bob Sumner, head of the Game Technology Center.\n\nThe scientists will be presenting their app today at Zurich’s main station as part of the Digital Day. You can try out the app and talk with the researchers from 10.30 to 11.30 a.m. as well as from 12.30 p.m. to 1.30 p.m. ETH Zurich is taking part in the national Digital Day with a variety of exhibits relating to digitalisation as part of a large exhibition in Zurich’s main station, and will address selected aspects of digitalisation in a series of talks and live broadcasts."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "YouTube",
+        "label": "PRODUCT",
+        "start": 90,
+        "end": 97
+      },
+      {
+        "text": "a very early age",
+        "label": "DATE",
+        "start": 172,
+        "end": 188
+      },
+      {
+        "text": "the Game Technology Center",
+        "label": "ORG",
+        "start": 205,
+        "end": 231
+      },
+      {
+        "text": "AR Band",
+        "label": "ORG",
+        "start": 750,
+        "end": 757
+      },
+      {
+        "text": "The AR Museum",
+        "label": "ORG",
+        "start": 891,
+        "end": 904
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1044,
+        "end": 1049
+      },
+      {
+        "text": "Bob Sumner",
+        "label": "PERSON",
+        "start": 1443,
+        "end": 1453
+      },
+      {
+        "text": "the Game Technology Center",
+        "label": "ORG",
+        "start": 1463,
+        "end": 1489
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1535,
+        "end": 1540
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1544,
+        "end": 1550
+      },
+      {
+        "text": "the Digital Day",
+        "label": "EVENT",
+        "start": 1577,
+        "end": 1592
+      },
+      {
+        "text": "10.30",
+        "label": "CARDINAL",
+        "start": 1653,
+        "end": 1658
+      },
+      {
+        "text": "11.30 a.m.",
+        "label": "TIME",
+        "start": 1662,
+        "end": 1672
+      },
+      {
+        "text": "12.30 p.m. to",
+        "label": "TIME",
+        "start": 1689,
+        "end": 1702
+      },
+      {
+        "text": "1.30 p.m.",
+        "label": "TIME",
+        "start": 1703,
+        "end": 1712
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1713,
+        "end": 1723
+      },
+      {
+        "text": "Digital Day",
+        "label": "EVENT",
+        "start": 1755,
+        "end": 1766
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1854,
+        "end": 1860
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bob Sumner",
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "AR Band",
+        "The AR Museum",
+        "the Game Technology Center"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "1.30 p.m.",
+        "11.30 a.m.",
+        "12.30 p.m. to",
+        "a very early age",
+        "today"
+      ],
+      "MISC": [
+        "10.30",
+        "Digital Day",
+        "YouTube",
+        "the Digital Day",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "the Game Technology Center": 2,
+      "Zurich": 2,
+      "YouTube": 1,
+      "a very early age": 1,
+      "AR Band": 1,
+      "The AR Museum": 1,
+      "three": 1,
+      "Bob Sumner": 1,
+      "today": 1,
+      "the Digital Day": 1,
+      "10.30": 1,
+      "11.30 a.m.": 1,
+      "12.30 p.m. to": 1,
+      "1.30 p.m.": 1,
+      "ETH Zurich": 1,
+      "Digital Day": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "game-technology-center-app.md",
+      "title": "En News Events/2017/11/game Technology Center App",
+      "language": "en",
+      "source_path": "en_news_events/2017/11/game-technology-center-app.html"
+    },
+    "temporal": {
+      "publication_date": "2017-11",
+      "mentioned_years": [
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bob Sumner",
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "Bob Sumner": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10.30",
+        "Digital Day",
+        "YouTube",
+        "the Digital Day",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "The AR",
+        "En News",
+        "Digital Day",
+        "ETH Zurich",
+        "Game Technology",
+        "Bob Sumner",
+        "App Colouring",
+        "Technology Center"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AR Band",
+        "The AR Museum",
+        "the Game Technology Center"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "the Game Technology Center",
+        "Zurich",
+        "YouTube",
+        "a very early age",
+        "AR Band",
+        "The AR Museum",
+        "three",
+        "Bob Sumner",
+        "today",
+        "the Digital Day"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2024
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2017",
+        "EU",
+        "AR Band",
+        "2016",
+        "ETH Zurich",
+        "The AR Museum",
+        "Bob Sumner",
+        "the Game Technology Center"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.30",
+        "three",
+        "who",
+        "the Digital Day",
+        "Digital Day",
+        "YouTube",
+        "what",
+        "how",
+        "computer_science",
+        "when"
+      ],
+      "graph_relations": [
+        "Bob Sumner_has_role_head",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

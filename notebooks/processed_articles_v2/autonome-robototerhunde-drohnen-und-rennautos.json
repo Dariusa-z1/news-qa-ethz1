@@ -1,0 +1,202 @@
+{
+  "filename": "autonome-robototerhunde-drohnen-und-rennautos.md",
+  "original_filename": "autonome-robototerhunde-drohnen-und-rennautos.html",
+  "source_path": "de_news_events/2023/08/autonome-robototerhunde-drohnen-und-rennautos.html",
+  "date": "2023-08",
+  "title": "Autonome Robototerhunde Drohnen Und Rennautos",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das Video präsentiert drei dieser Projekte: Autonomer Rennsport, autonome Drohnen und Roboterhunde. Diese Projekte sind nicht nur eine gute Lernerfahrung für die Studierenden, sondern können auch in der Praxis angewandt werden, beispielsweise, um Sehbehinderte zu unterstützen oder bei Naturkatastrophen für Menschen schwer zugängliche Orte zu erreichen.\n\nDas D-ITET Center for Project-Based Learning ist an der diesjährigen Scientifica externe Seite vertreten :\n\nKommen Sie am 2. und 3. September auf den Campus Hönggerberg, den Campus Irchel oder in die Hauptgebäude von ETH Zürich und Universität Zürich, stellen Sie den Forschenden Ihre Fragen, und tauchen Sie ein in die faszinierende Welt der Wissenschaft.\n\nDas ganze Programm des Wissenschaftsfestivals finden Sie auf der externe Seite Scientifica Website ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "D-ITET Center for Project-Based Learning",
+        "label": "LOC",
+        "start": 359,
+        "end": 399
+      },
+      {
+        "text": "Scientifica",
+        "label": "LOC",
+        "start": 424,
+        "end": 435
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 511,
+        "end": 522
+      },
+      {
+        "text": "Irchel",
+        "label": "LOC",
+        "start": 535,
+        "end": 541
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 571,
+        "end": 581
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 586,
+        "end": 604
+      },
+      {
+        "text": "Forschenden Ihre Fragen",
+        "label": "MISC",
+        "start": 622,
+        "end": 645
+      },
+      {
+        "text": "Wissenschaftsfestivals",
+        "label": "LOC",
+        "start": 734,
+        "end": 756
+      },
+      {
+        "text": "Scientifica Website",
+        "label": "PER",
+        "start": 790,
+        "end": 809
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Scientifica Website"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Universität Zürich"
+      ],
+      "LOCATION": [
+        "D-ITET Center for Project-Based Learning",
+        "Hönggerberg",
+        "Irchel",
+        "Scientifica",
+        "Wissenschaftsfestivals"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Forschenden Ihre Fragen"
+      ]
+    },
+    "entity_counts": {
+      "D-ITET Center for Project-Based Learning": 1,
+      "Scientifica": 1,
+      "Hönggerberg": 1,
+      "Irchel": 1,
+      "ETH Zürich": 1,
+      "Universität Zürich": 1,
+      "Forschenden Ihre Fragen": 1,
+      "Wissenschaftsfestivals": 1,
+      "Scientifica Website": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "autonome-robototerhunde-drohnen-und-rennautos.md",
+      "title": "De News Events/2023/08/autonome Robototerhunde Drohnen und Rennautos",
+      "language": "de",
+      "source_path": "de_news_events/2023/08/autonome-robototerhunde-drohnen-und-rennautos.html"
+    },
+    "temporal": {
+      "publication_date": "2023-08",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Scientifica Website"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Forschenden Ihre Fragen"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Kommen Sie",
+        "Das D",
+        "Forschenden Ihre",
+        "Rennautos Das",
+        "Campus Irchel",
+        "Autonomer Rennsport",
+        "Seite Scientifica",
+        "Robototerhunde Drohnen",
+        "De News",
+        "Project-Based",
+        "ITET Center",
+        "Diese Projekte"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Universität Zürich"
+      ],
+      "locations": [
+        "D-ITET Center for Project-Based Learning",
+        "Hönggerberg",
+        "Irchel",
+        "Scientifica",
+        "Wissenschaftsfestivals"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "D-ITET Center for Project-Based Learning",
+        "Scientifica",
+        "Hönggerberg",
+        "Irchel",
+        "ETH Zürich",
+        "Universität Zürich",
+        "Forschenden Ihre Fragen",
+        "Wissenschaftsfestivals",
+        "Scientifica Website"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 883
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Scientifica Website",
+        "ETH Zürich",
+        "Universität Zürich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "what",
+        "Forschenden Ihre Fragen"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "filename": "de_internal_2014_07_neue-schulungstermine.md",
+  "original_filename": "de_internal_2014_07_neue-schulungstermine.html",
+  "source_path": "de_internal/2014/07/neue-schulungstermine.html",
+  "date": "2014-07",
+  "title": "Neue Schulungstermine",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Melden Sie sich schon heute an, und verbessern Sie Ihre Kompetenzen im Recherchieren und im Umgang mit Informationen.\n\nTermine und Anmeldung"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/07/neue Schulungstermine",
+        "label": "LOC",
+        "start": 0,
+        "end": 41
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2014/07/neue Schulungstermine"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2014/07/neue Schulungstermine": 1
+    },
+    "total_entities": 1,
+    "unique_entities": 1
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2014_07_neue-schulungstermine.md",
+      "title": "De Internal/2014/07/neue Schulungstermine",
+      "language": "de",
+      "source_path": "de_internal/2014/07/neue-schulungstermine.html"
+    },
+    "temporal": {
+      "publication_date": "2014-07",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Sie Ihre",
+        "De Internal",
+        "Schulungstermine Melden"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2014/07/neue Schulungstermine"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2014/07/neue Schulungstermine"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 182
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "ERC",
+        "2014"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

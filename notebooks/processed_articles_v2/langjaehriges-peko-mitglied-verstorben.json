@@ -1,0 +1,291 @@
+{
+  "filename": "langjaehriges-peko-mitglied-verstorben.md",
+  "original_filename": "langjaehriges-peko-mitglied-verstorben.html",
+  "source_path": "de_internal/2015/12/langjaehriges-peko-mitglied-verstorben.html",
+  "date": "2015-12",
+  "title": "Langjaehriges Peko Mitglied Verstorben",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Renate Amatore.\n\nDie Personalkommission der ETH Zürich (PeKo) trauert um ihr Ehrenmitglied Renate Amatore. Sie ist am 27. November 2015 nach langer Krankheit verstorben. Renate Amatore war langjähriges Mitglied der Personalkommission sowie der Hochschulversammlung der ETH Zürich.\n\nDie Abdankungsfeier hat am Freitag, 11. Dezember 2015 in der reformierten Kirche Unterdorf, Affoltern Zürich stattgefunden.\n\nMit dem Tod von Renate Amatore verliert die PeKo ein wertvolles und engagiertes Mitglied, welches die PeKo mit ihrem unermüdlichen Einsatz für das Personal an der ETH jahrelang geprägt hat. Renate Amatore gehörte ab 2008 dem Ausschuss der Personalkommission an und bekleidete ab 2009 bis zu ihrer Pensionierung im Jahre 2013 das Amt der Vizepräsidentin. Mit ihrer ruhigen und bedachten Art setzte sie sich auch seit 2005 in der Hochschulversammlung für die Belange des Personals ein.\n\nNeben Ihrer ehrenamtlichen Tätigkeit, war sie für die Führung des Sekretariats von Thomas Vogel, Professor für Baustatik und Konstruktion am gleichnamigen Institut der ETH Zürich, verantwortlich. Seit Ihrer Pensionierung war Renate Amatore Ehrenmitglied der PeKo."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/12/langjaehriges",
+        "label": "LOC",
+        "start": 0,
+        "end": 33
+      },
+      {
+        "text": "Peko Mitglied",
+        "label": "PER",
+        "start": 34,
+        "end": 47
+      },
+      {
+        "text": "Renate Amatore",
+        "label": "PER",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 43,
+        "end": 53
+      },
+      {
+        "text": "PeKo",
+        "label": "ORG",
+        "start": 55,
+        "end": 59
+      },
+      {
+        "text": "Renate Amatore",
+        "label": "PER",
+        "start": 90,
+        "end": 104
+      },
+      {
+        "text": "Renate Amatore",
+        "label": "PER",
+        "start": 169,
+        "end": 183
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 268,
+        "end": 278
+      },
+      {
+        "text": "Kirche Unterdorf",
+        "label": "LOC",
+        "start": 354,
+        "end": 370
+      },
+      {
+        "text": "Affoltern Zürich",
+        "label": "LOC",
+        "start": 372,
+        "end": 388
+      },
+      {
+        "text": "Renate Amatore",
+        "label": "PER",
+        "start": 420,
+        "end": 434
+      },
+      {
+        "text": "PeKo",
+        "label": "MISC",
+        "start": 448,
+        "end": 452
+      },
+      {
+        "text": "PeKo",
+        "label": "MISC",
+        "start": 506,
+        "end": 510
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 567,
+        "end": 570
+      },
+      {
+        "text": "Renate Amatore",
+        "label": "PER",
+        "start": 594,
+        "end": 608
+      },
+      {
+        "text": "Thomas Vogel",
+        "label": "PER",
+        "start": 971,
+        "end": 983
+      },
+      {
+        "text": "gleichnamigen Institut",
+        "label": "ORG",
+        "start": 1029,
+        "end": 1051
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1056,
+        "end": 1066
+      },
+      {
+        "text": "Renate Amatore",
+        "label": "PER",
+        "start": 1113,
+        "end": 1127
+      },
+      {
+        "text": "PeKo",
+        "label": "MISC",
+        "start": 1146,
+        "end": 1150
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Peko Mitglied",
+        "Renate Amatore",
+        "Thomas Vogel"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "PeKo",
+        "gleichnamigen Institut"
+      ],
+      "LOCATION": [
+        "Affoltern Zürich",
+        "De Internal/2015/12/langjaehriges",
+        "Kirche Unterdorf"
+      ],
+      "DATE": [],
+      "MISC": [
+        "PeKo"
+      ]
+    },
+    "entity_counts": {
+      "Renate Amatore": 6,
+      "PeKo": 4,
+      "ETH Zürich": 3,
+      "De Internal/2015/12/langjaehriges": 1,
+      "Peko Mitglied": 1,
+      "Kirche Unterdorf": 1,
+      "Affoltern Zürich": 1,
+      "ETH": 1,
+      "Thomas Vogel": 1,
+      "gleichnamigen Institut": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "langjaehriges-peko-mitglied-verstorben.md",
+      "title": "De Internal/2015/12/langjaehriges Peko Mitglied Verstorben",
+      "language": "de",
+      "source_path": "de_internal/2015/12/langjaehriges-peko-mitglied-verstorben.html"
+    },
+    "temporal": {
+      "publication_date": "2015-12",
+      "mentioned_years": [
+        "2005",
+        "2008",
+        "2009",
+        "2013",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Peko Mitglied",
+        "Renate Amatore",
+        "Thomas Vogel"
+      ],
+      "people_with_roles": {
+        "Thomas Vogel": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "PeKo"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Seit Ihrer",
+        "Verstorben Renate",
+        "Die Personalkommission",
+        "Ehrenmitglied Renate",
+        "De Internal",
+        "Neben Ihrer",
+        "Peko Mitglied",
+        "Kirche Unterdorf",
+        "Die Abdankungsfeier",
+        "Renate Amatore",
+        "Thomas Vogel"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "PeKo",
+        "gleichnamigen Institut"
+      ],
+      "locations": [
+        "Affoltern Zürich",
+        "De Internal/2015/12/langjaehriges",
+        "Kirche Unterdorf"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Renate Amatore",
+        "PeKo",
+        "ETH Zürich",
+        "De Internal/2015/12/langjaehriges",
+        "Peko Mitglied",
+        "Kirche Unterdorf",
+        "Affoltern Zürich",
+        "ETH",
+        "Thomas Vogel",
+        "gleichnamigen Institut"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1214
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2009",
+        "ETH",
+        "2015",
+        "2013",
+        "2005",
+        "2008",
+        "ETH Zürich",
+        "gleichnamigen Institut",
+        "Peko Mitglied",
+        "PeKo",
+        "Renate Amatore",
+        "Thomas Vogel"
+      ],
+      "semantic_concepts": [
+        "PeKo",
+        "who"
+      ],
+      "graph_relations": [
+        "Thomas Vogel_has_role_professor"
+      ]
+    }
+  }
+}

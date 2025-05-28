@@ -1,0 +1,389 @@
+{
+  "filename": "tiniest-color-picture-ever-printed.md",
+  "original_filename": "tiniest-color-picture-ever-printed.html",
+  "source_path": "en_news_events/2015/12/tiniest-color-picture-ever-printed.html",
+  "date": "2015-12",
+  "title": "Tiniest Color Picture Ever Printed",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Miniaturized clown fishes",
+      "text": "As of today Scrona Ltd. and the ETH Zurich have been announced official World Record Holders for the smallest inkjet-printed colour image. The Guinness World Records Limited achievement involved the use of the groundbreaking 3D NanoDrip printing technology, invented at ETH Zurich and now commercialized by the ETH spin-off company Scrona.\n\nThe printed image measures a minuscule 0.0092 mm 2 in area, or 80 μm x 115 μm. That’s about the cross-sectional area of a human hair or the area covered by a single pixel of a retina display. Being so small, the image is totally invisible to the naked eye. To see it, the official witnesses had to use a special microscope."
+    },
+    {
+      "heading": "Miniaturized clown fishes",
+      "text": "The printed image represents a scenery of clown fishes around sea anemones. The colorful little fishes that grow to a size of just about 10 cm (3.9 in.) in real life have been shrunk to approximately 30 μm (0.001 in.). But the fishes do not seem to feel any discomfort in their 3’333-fold miniaturization. Thanks to 24bit color depth in the printout the picturesque scene that depicts their home appears almost as colorful as in reality.\n\nWhat makes the image appear so lively is the result of so-called quantum-dots (QDs). QDs are nanoparticles that emit light of a very specific color. By tuning their size, this color can be freely engineered, for example from orange to yellow. QDs are known to be very intense in their color appearance, a reason why they currently make a strong debut in flat panel displays.\n\nTo create the clown fishes and their cozy sea anemone homes, layers of red, green and blue quantum dots were printed at a resolution of 25’000 DPI, i.e. at an inter-pixel distance of 500 nanometers. To define the 24bit color space the thickness of the deposited quantum dot layers had to be controlled with incredible sub-nanometer precision, at each pixel location.\n\nUntil now, even with cutting-edge semiconductor technology, it was not possible to handle these nanostructured materials with the incredible accuracy that is demonstrated by this Guinness World Records Ltd. achievement. Therefore, the image printed by Scrona and ETH Zurich is not only nice to look at. It highlights new avenues towards the use of nanostructured materials in future electronics and optics, particularly in the display sector.\n\nBut before hitting industry, Scrona is now providing a unique opportunity for everyone to experience the technology. Via Kickstarter they offer copies of the true-to-life micro-image, but instead of clown fishes they print the personal content provided by the buyers. In the package is also contained a powerful miniature microscope that is used to render the microscopic pictures visible. This offer is open until 9 th of January when their campaign ends."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Color Picture Ever Printed",
+        "label": "WORK_OF_ART",
+        "start": 31,
+        "end": 57
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 6,
+        "end": 11
+      },
+      {
+        "text": "Scrona Ltd.",
+        "label": "ORG",
+        "start": 12,
+        "end": 23
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 28,
+        "end": 42
+      },
+      {
+        "text": "World Record Holders",
+        "label": "ORG",
+        "start": 72,
+        "end": 92
+      },
+      {
+        "text": "The Guinness World Records Limited",
+        "label": "ORG",
+        "start": 139,
+        "end": 173
+      },
+      {
+        "text": "3D NanoDrip",
+        "label": "PRODUCT",
+        "start": 225,
+        "end": 236
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 270,
+        "end": 280
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 311,
+        "end": 314
+      },
+      {
+        "text": "Scrona",
+        "label": "GPE",
+        "start": 332,
+        "end": 338
+      },
+      {
+        "text": "0.0092 mm",
+        "label": "QUANTITY",
+        "start": 379,
+        "end": 388
+      },
+      {
+        "text": "80 μm x",
+        "label": "QUANTITY",
+        "start": 403,
+        "end": 410
+      },
+      {
+        "text": "115 μm",
+        "label": "QUANTITY",
+        "start": 411,
+        "end": 417
+      },
+      {
+        "text": "just about 10 cm",
+        "label": "CARDINAL",
+        "start": 126,
+        "end": 142
+      },
+      {
+        "text": "3.9",
+        "label": "CARDINAL",
+        "start": 144,
+        "end": 147
+      },
+      {
+        "text": "approximately 30",
+        "label": "CARDINAL",
+        "start": 186,
+        "end": 202
+      },
+      {
+        "text": "0.001",
+        "label": "CARDINAL",
+        "start": 207,
+        "end": 212
+      },
+      {
+        "text": "24bit",
+        "label": "CARDINAL",
+        "start": 316,
+        "end": 321
+      },
+      {
+        "text": "25’000",
+        "label": "CARDINAL",
+        "start": 949,
+        "end": 955
+      },
+      {
+        "text": "24bit",
+        "label": "CARDINAL",
+        "start": 1026,
+        "end": 1031
+      },
+      {
+        "text": "Guinness World Records Ltd.",
+        "label": "ORG",
+        "start": 1359,
+        "end": 1386
+      },
+      {
+        "text": "Scrona",
+        "label": "GPE",
+        "start": 1432,
+        "end": 1438
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1443,
+        "end": 1453
+      },
+      {
+        "text": "Scrona",
+        "label": "GPE",
+        "start": 1652,
+        "end": 1658
+      },
+      {
+        "text": "Via Kickstarter",
+        "label": "PERSON",
+        "start": 1740,
+        "end": 1755
+      },
+      {
+        "text": "9 th of January",
+        "label": "TIME",
+        "start": 2038,
+        "end": 2053
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Via Kickstarter"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Guinness World Records Ltd.",
+        "Scrona Ltd.",
+        "The Guinness World Records Limited",
+        "World Record Holders",
+        "the ETH Zurich"
+      ],
+      "LOCATION": [
+        "Scrona"
+      ],
+      "DATE": [
+        "9 th of January",
+        "today"
+      ],
+      "MISC": [
+        "0.001",
+        "0.0092 mm",
+        "115 μm",
+        "24bit",
+        "25’000",
+        "3.9",
+        "3D NanoDrip",
+        "80 μm x",
+        "Color Picture Ever Printed",
+        "approximately 30",
+        "just about 10 cm"
+      ]
+    },
+    "entity_counts": {
+      "Scrona": 3,
+      "ETH Zurich": 2,
+      "24bit": 2,
+      "En News": 1,
+      "Color Picture Ever Printed": 1,
+      "today": 1,
+      "Scrona Ltd.": 1,
+      "the ETH Zurich": 1,
+      "World Record Holders": 1,
+      "The Guinness World Records Limited": 1,
+      "3D NanoDrip": 1,
+      "ETH": 1,
+      "0.0092 mm": 1,
+      "80 μm x": 1,
+      "115 μm": 1,
+      "just about 10 cm": 1,
+      "3.9": 1,
+      "approximately 30": 1,
+      "0.001": 1,
+      "25’000": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "tiniest-color-picture-ever-printed.md",
+      "title": "En News Events/2015/12/tiniest Color Picture Ever Printed",
+      "language": "en",
+      "source_path": "en_news_events/2015/12/tiniest-color-picture-ever-printed.html"
+    },
+    "temporal": {
+      "publication_date": "2015-12",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Via Kickstarter"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "0.001",
+        "0.0092 mm",
+        "115 μm",
+        "24bit",
+        "25’000",
+        "3D NanoDrip",
+        "80 μm x",
+        "Color Picture Ever Printed",
+        "approximately 30",
+        "just about 10 cm"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Guinness World",
+        "World Record",
+        "En News",
+        "Scrona Ltd",
+        "The Guinness",
+        "Color Picture",
+        "Records Ltd",
+        "Via Kickstarter",
+        "ETH Zurich",
+        "Ever Printed",
+        "World Records"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Guinness World Records Ltd.",
+        "Scrona Ltd.",
+        "The Guinness World Records Limited",
+        "World Record Holders",
+        "the ETH Zurich"
+      ],
+      "locations": [
+        "Scrona"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "Scrona",
+        "ETH Zurich",
+        "24bit",
+        "En News",
+        "Color Picture Ever Printed",
+        "today",
+        "Scrona Ltd.",
+        "the ETH Zurich",
+        "World Record Holders",
+        "The Guinness World Records Limited"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Miniaturized clown fishes",
+          "Miniaturized clown fishes"
+        ],
+        "content_length": 2806
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "The Guinness World Records Limited",
+        "2015",
+        "World Record Holders",
+        "the ETH Zurich",
+        "En News",
+        "Scrona Ltd.",
+        "Guinness World Records Ltd.",
+        "Via Kickstarter",
+        "ETH Zurich",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "115 μm",
+        "24bit",
+        "3D NanoDrip",
+        "who",
+        "0.0092 mm",
+        "25’000",
+        "0.001",
+        "when",
+        "where",
+        "Color Picture Ever Printed",
+        "just about 10 cm",
+        "what",
+        "why",
+        "approximately 30",
+        "engineering",
+        "80 μm x"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

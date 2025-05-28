@@ -1,0 +1,699 @@
+{
+  "filename": "earthquake-in-turkey-was-an-earthquake-doublet.md",
+  "original_filename": "earthquake-in-turkey-was-an-earthquake-doublet.html",
+  "source_path": "en_news_events/2023/03/earthquake-in-turkey-was-an-earthquake-doublet.html",
+  "date": "2023-03",
+  "title": "Earthquake In Turkey Was An Earthquake Doublet",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Abstract",
+      "text": "- Researchers confirm that an earthquake doublet occurred in Turkey and Syria.\n\n- The first quake tipped the scales, triggering the second powerful earthquake very shortly thereafter on a neighbouring fault.\n\n- Experts suspect there is a “seismic gap” along the North Anatolian Fault south of Istanbul and under the Sea of Marmara, given the absence of a powerful earthquake in the past 250 years.\n\n- Earthquake hazard and risk for the Turkish metropolis are very high."
+    },
+    {
+      "heading": "About",
+      "text": "ETH News: You and your colleague Jean-Paul Ampuero from Geoazur have just published a commentary on the early February earthquakes in Turkey in a scientific journal. What’s new? Luca Dal Zilio: The two powerful earthquakes that hit Turkey and Syria on 6 February 2023 were of similar magnitude (7.8 and 7.6) and only nine hours apart. These events are referred to as an earthquake doublet because they are a pair of powerful earthquakes that have centroids closer than their rupture size and occur within a time frame that is shorter than the recurrence time inferred from the plate motion.\n\nThere was long talk of an exceptionally strong aftershock. The second earthquake in this case wasn’t a typical aftershock, as it was almost as strong as the first one and occurred on a different, nearby fault. According to Bath’s Law, the largest aftershock is usually about 1.2 magnitudes smaller than the main earthquake. A series of earthquakes like the recent events in Turkey and Syria has its own unique features. Studying these events helps us learn more about earthquakes and improves our ability to predict them."
+    },
+    {
+      "heading": "Reference",
+      "text": "Why did an earthquake doublet occur? The first earthquake probably contributed to an increase in static stress in the area where the second event occurred. While this increase may not have been substantial, it could have been sufficient to set off the second event just hours later. This suggests that both faults were under critical stress. The first earthquake might have given a final nudge to the second fault zone, which had accumulated stress over decades and was already critically loaded. Further research will help us better understand this aspect of earthquake interaction.\n\nWhat can be learnt from your analysis for the reconstruction of towns and villages in the regions affected? Significant damage cannot be avoided in earthquakes of this magnitude, especially when cities are located exactly on seismically active fault lines, causing large surface displacements of six to eight metres. This event underscores the need to better understand the strong ground motion near a fault and to update risk management practices – for instance, by calculating how stress transfer has changed the hazard probability in the region. Ideally, we should also find out to what extent strong mainshocks have changed the stability of buildings and increased their vulnerability to aftershocks.\n\nHaven’t we long been aware of the high seismic hazard and the associated extreme risk for this region? Yes, various European institutes – including ETH Zurich and the Swiss Seismological Service – have put a lot of effort into calculating the earthquake hazard across Europe in recent years. Thanks to these efforts, we now have an earthquake hazard map of Europe that everyone can access. This map shows that the North Anatolian Fault and the East Anatolian Fault – both of which run through Turkey – are two of the most active fault systems in Europe and the world and thus pose a major seismic hazard to the region. The North Anatolian Fault, on which Istanbul is located, also poses a significant risk. There were several earthquakes along this fault in the last century. These events have now left a seismic gap south of Istanbul and beneath the Sea of Marmara, a gap that has not been filled for 250 years. Seismologists often refer to such regions as seismic gaps because they are sections of a fault system where little or no seismic activity has occurred over an extended period of time, even though neighbouring sections have been affected by earthquakes. We assume that these are areas along a fault where stresses accumulate before releasing an enormous amount of energy all at once, which can result in powerful earthquakes.\n\nHow does the future look and what will happen next? In summary, the current focus is on dealing with the tremendous loss of life and property. In the months and years ahead, several follow-up studies to our report will provide a further insight into this catastrophic event. We hope to be able to learn from this to make buildings safer and to better prepare for such events. As scientists, we hope that this event can provide valuable insights into the mechanics of faults and the physics of earthquakes.\n\nLuca Dal Zilio is a senior scientist at the Institute of Geophysics at ETH Zurich. His research focuses on the development and applications of computer simulations. Among other things, he uses them to study the physics of earthquakes, fault mechanisms and seismicity.\n\nDal Zilio, L., Ampuero, JP. Earthquake doublet in Turkey and Syria. Commun Earth Environ 4 , 71 (2023). doi: 10.1038/s43247-023-00747-z"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Turkey",
+        "label": "GPE",
+        "start": 37,
+        "end": 43
+      },
+      {
+        "text": "Turkey",
+        "label": "GPE",
+        "start": 61,
+        "end": 67
+      },
+      {
+        "text": "Syria",
+        "label": "GPE",
+        "start": 72,
+        "end": 77
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 85,
+        "end": 90
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 131,
+        "end": 137
+      },
+      {
+        "text": "North Anatolian",
+        "label": "NORP",
+        "start": 260,
+        "end": 275
+      },
+      {
+        "text": "Istanbul",
+        "label": "GPE",
+        "start": 291,
+        "end": 299
+      },
+      {
+        "text": "the Sea of Marmara",
+        "label": "LOC",
+        "start": 310,
+        "end": 328
+      },
+      {
+        "text": "the past 250 years",
+        "label": "DATE",
+        "start": 376,
+        "end": 394
+      },
+      {
+        "text": "Turkish",
+        "label": "NORP",
+        "start": 433,
+        "end": 440
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Jean-Paul Ampuero",
+        "label": "PERSON",
+        "start": 33,
+        "end": 50
+      },
+      {
+        "text": "Geoazur",
+        "label": "PERSON",
+        "start": 56,
+        "end": 63
+      },
+      {
+        "text": "the early February",
+        "label": "DATE",
+        "start": 100,
+        "end": 118
+      },
+      {
+        "text": "Turkey",
+        "label": "GPE",
+        "start": 134,
+        "end": 140
+      },
+      {
+        "text": "Luca Dal Zilio",
+        "label": "PERSON",
+        "start": 178,
+        "end": 192
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 198,
+        "end": 201
+      },
+      {
+        "text": "Turkey",
+        "label": "GPE",
+        "start": 232,
+        "end": 238
+      },
+      {
+        "text": "Syria",
+        "label": "GPE",
+        "start": 243,
+        "end": 248
+      },
+      {
+        "text": "6 February 2023",
+        "label": "DATE",
+        "start": 252,
+        "end": 267
+      },
+      {
+        "text": "7.8",
+        "label": "CARDINAL",
+        "start": 295,
+        "end": 298
+      },
+      {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 303,
+        "end": 306
+      },
+      {
+        "text": "only nine hours",
+        "label": "TIME",
+        "start": 312,
+        "end": 327
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 654,
+        "end": 660
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 748,
+        "end": 753
+      },
+      {
+        "text": "Bath’s Law",
+        "label": "PERSON",
+        "start": 814,
+        "end": 824
+      },
+      {
+        "text": "about 1.2",
+        "label": "CARDINAL",
+        "start": 860,
+        "end": 869
+      },
+      {
+        "text": "Turkey",
+        "label": "GPE",
+        "start": 965,
+        "end": 971
+      },
+      {
+        "text": "Syria",
+        "label": "GPE",
+        "start": 976,
+        "end": 981
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 41,
+        "end": 46
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 133,
+        "end": 139
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 252,
+        "end": 258
+      },
+      {
+        "text": "just hours later",
+        "label": "TIME",
+        "start": 265,
+        "end": 281
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 346,
+        "end": 351
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 401,
+        "end": 407
+      },
+      {
+        "text": "decades",
+        "label": "DATE",
+        "start": 454,
+        "end": 461
+      },
+      {
+        "text": "six to eight metres",
+        "label": "QUANTITY",
+        "start": 880,
+        "end": 899
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 1405,
+        "end": 1413
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1437,
+        "end": 1447
+      },
+      {
+        "text": "the Swiss Seismological Service",
+        "label": "ORG",
+        "start": 1452,
+        "end": 1483
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1557,
+        "end": 1563
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 1567,
+        "end": 1579
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1646,
+        "end": 1652
+      },
+      {
+        "text": "the North Anatolian Fault",
+        "label": "ORG",
+        "start": 1699,
+        "end": 1724
+      },
+      {
+        "text": "the East Anatolian Fault",
+        "label": "LOC",
+        "start": 1729,
+        "end": 1753
+      },
+      {
+        "text": "Turkey",
+        "label": "GPE",
+        "start": 1782,
+        "end": 1788
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1795,
+        "end": 1798
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1835,
+        "end": 1841
+      },
+      {
+        "text": "The North Anatolian Fault",
+        "label": "ORG",
+        "start": 1908,
+        "end": 1933
+      },
+      {
+        "text": "Istanbul",
+        "label": "GPE",
+        "start": 1944,
+        "end": 1952
+      },
+      {
+        "text": "the last century",
+        "label": "DATE",
+        "start": 2047,
+        "end": 2063
+      },
+      {
+        "text": "Istanbul",
+        "label": "GPE",
+        "start": 2115,
+        "end": 2123
+      },
+      {
+        "text": "the Sea of Marmara",
+        "label": "LOC",
+        "start": 2136,
+        "end": 2154
+      },
+      {
+        "text": "250 years",
+        "label": "DATE",
+        "start": 2191,
+        "end": 2200
+      },
+      {
+        "text": "Seismologists",
+        "label": "NORP",
+        "start": 2202,
+        "end": 2215
+      },
+      {
+        "text": "the months and years ahead",
+        "label": "DATE",
+        "start": 2773,
+        "end": 2799
+      },
+      {
+        "text": "Luca Dal Zilio",
+        "label": "PERSON",
+        "start": 3133,
+        "end": 3147
+      },
+      {
+        "text": "the Institute of Geophysics",
+        "label": "ORG",
+        "start": 3173,
+        "end": 3200
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 3208,
+        "end": 3214
+      },
+      {
+        "text": "Dal Zilio",
+        "label": "PERSON",
+        "start": 3401,
+        "end": 3410
+      },
+      {
+        "text": "L.",
+        "label": "PERSON",
+        "start": 3412,
+        "end": 3414
+      },
+      {
+        "text": "Ampuero",
+        "label": "GPE",
+        "start": 3416,
+        "end": 3423
+      },
+      {
+        "text": "JP",
+        "label": "ORG",
+        "start": 3425,
+        "end": 3427
+      },
+      {
+        "text": "Turkey",
+        "label": "GPE",
+        "start": 3451,
+        "end": 3457
+      },
+      {
+        "text": "Syria",
+        "label": "GPE",
+        "start": 3462,
+        "end": 3467
+      },
+      {
+        "text": "Commun Earth Environ 4",
+        "label": "PERSON",
+        "start": 3469,
+        "end": 3491
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 3510,
+        "end": 3517
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bath’s Law",
+        "Commun Earth Environ 4",
+        "Dal Zilio",
+        "ETH Zurich",
+        "Geoazur",
+        "Jean-Paul Ampuero",
+        "L.",
+        "Luca Dal Zilio"
+      ],
+      "ORG": [
+        "ETH News",
+        "En News",
+        "JP",
+        "The North Anatolian Fault",
+        "the Institute of Geophysics",
+        "the North Anatolian Fault",
+        "the Swiss Seismological Service"
+      ],
+      "LOCATION": [
+        "Ampuero",
+        "Europe",
+        "Istanbul",
+        "Syria",
+        "Turkey",
+        "Zurich",
+        "the East Anatolian Fault",
+        "the Sea of Marmara"
+      ],
+      "DATE": [
+        "250 years",
+        "6 February 2023",
+        "decades",
+        "just hours later",
+        "only nine hours",
+        "recent years",
+        "the early February",
+        "the last century",
+        "the months and years ahead",
+        "the past 250 years"
+      ],
+      "MISC": [
+        "10.1038",
+        "7.6",
+        "7.8",
+        "European",
+        "North Anatolian",
+        "Seismologists",
+        "Turkish",
+        "about 1.2",
+        "first",
+        "second",
+        "six to eight metres",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Turkey": 7,
+      "second": 5,
+      "Syria": 4,
+      "first": 4,
+      "Istanbul": 3,
+      "Europe": 3,
+      "the Sea of Marmara": 2,
+      "Luca Dal Zilio": 2,
+      "two": 2,
+      "En News": 1,
+      "North Anatolian": 1,
+      "the past 250 years": 1,
+      "Turkish": 1,
+      "ETH News": 1,
+      "Jean-Paul Ampuero": 1,
+      "Geoazur": 1,
+      "the early February": 1,
+      "6 February 2023": 1,
+      "7.8": 1,
+      "7.6": 1
+    },
+    "total_entities": 68,
+    "unique_entities": 45
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "earthquake-in-turkey-was-an-earthquake-doublet.md",
+      "title": "En News Events/2023/03/earthquake in Turkey Was an Earthquake Doublet",
+      "language": "en",
+      "source_path": "en_news_events/2023/03/earthquake-in-turkey-was-an-earthquake-doublet.html"
+    },
+    "temporal": {
+      "publication_date": "2023-03",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bath’s Law",
+        "Commun Earth Environ 4",
+        "Dal Zilio",
+        "ETH Zurich",
+        "Geoazur",
+        "Jean-Paul Ampuero",
+        "L.",
+        "Luca Dal Zilio"
+      ],
+      "people_with_roles": {
+        "Dal Zilio": [
+          "scientist"
+        ],
+        "ETH Zurich": [
+          "scientist"
+        ],
+        "Luca Dal Zilio": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "European",
+        "North Anatolian",
+        "Seismologists",
+        "Turkish",
+        "about 1.2",
+        "first",
+        "second",
+        "six to eight metres"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "The North",
+        "En News",
+        "Turkey Was",
+        "Swiss Seismological",
+        "Commun Earth",
+        "Anatolian Fault",
+        "East Anatolian",
+        "North Anatolian",
+        "Jean-Paul",
+        "Dal Zilio",
+        "ETH News",
+        "ETH Zurich",
+        "Luca Dal",
+        "Earthquake Doublet"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH News",
+        "En News",
+        "JP",
+        "The North Anatolian Fault",
+        "the Institute of Geophysics",
+        "the North Anatolian Fault",
+        "the Swiss Seismological Service"
+      ],
+      "locations": [
+        "Ampuero",
+        "Europe",
+        "Istanbul",
+        "Syria",
+        "Turkey",
+        "Zurich",
+        "the East Anatolian Fault",
+        "the Sea of Marmara"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Turkey",
+        "second",
+        "Syria",
+        "first",
+        "Istanbul",
+        "Europe",
+        "the Sea of Marmara",
+        "Luca Dal Zilio",
+        "two",
+        "En News"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Abstract",
+          "About",
+          "Reference"
+        ],
+        "content_length": 5195
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Commun Earth Environ 4",
+        "the Swiss Seismological Service",
+        "Jean-Paul Ampuero",
+        "the Institute of Geophysics",
+        "En News",
+        "Geoazur",
+        "EU",
+        "The North Anatolian Fault",
+        "Luca Dal Zilio",
+        "JP",
+        "the North Anatolian Fault",
+        "Dal Zilio",
+        "ETH News",
+        "ETH Zurich",
+        "Bath’s Law",
+        "L.",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "Seismologists",
+        "about 1.2",
+        "who",
+        "10.1038",
+        "six to eight metres",
+        "Turkish",
+        "North Anatolian",
+        "where",
+        "what",
+        "second",
+        "how",
+        "European",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Dal Zilio_has_role_scientist",
+        "ETH Zurich_has_role_scientist",
+        "Luca Dal Zilio_has_role_scientist",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

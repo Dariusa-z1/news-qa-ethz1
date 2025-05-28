@@ -1,0 +1,519 @@
+{
+  "filename": "eth-continues-to-grow.md",
+  "original_filename": "eth-continues-to-grow.html",
+  "source_path": "en_news_events/2023/09/eth-continues-to-grow.html",
+  "date": "2023-09",
+  "title": "Eth Continues To Grow",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The most popular courses",
+      "text": "A total of around 25,000 students and doctoral candidates will start the Autumn Semester at ETH Zurich this coming Monday. Some 3,250 Bachelor’s students will be setting out on their studies, according to the current enrolment figures. This marks an increase in the number of new students at Bachelor’s level compared to the previous year (2022: around 3,100). “We’re delighted to welcome the next generation of scientists, engineers, architects and other professionals to our university, and we hope they all get off to a successful start,” says ETH Rector Günther Dissertori."
+    },
+    {
+      "heading": "The most popular courses",
+      "text": "As in previous years, the most popular courses among first-year students are in Mechanical Engineering, Computer Science and Architecture. The Bachelor’s degree programmes in Physics, Mathematics as well as Health Sciences and Technology are also attracting a lot of interest.\n\nAmong the Master’s degree programmes, Mechanical Engineering, Architecture and Environmental Sciences ranked high on the student popularity scale.\n\nMatriculation for the Autumn Semester of 2023 has not yet been concluded at ETH. The final figures are determined in November of each year."
+    },
+    {
+      "heading": "University with an international network",
+      "text": "Women account for about 33 percent of new students in the Autumn Semester. Of the Bachelor’s students enrolled by the start of the semester, 81 percent are from Switzerland while 19 percent acquired their previous education abroad. Among Master’s students, 43 percent are students with foreign entry qualifications. The most represented nationalities are Germany, Italy, China or the USA. Additionally, around 280 students from partner universities will study at ETH. Among them, students from Swiss, Swedish, and British universities are the most prominent. Approximately 170 students participating in mobility programs will also carry out study or project work at ETH. These students mostly come from German, Swiss, and Italian universities."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "around 25,000",
+        "label": "CARDINAL",
+        "start": 11,
+        "end": 24
+      },
+      {
+        "text": "the Autumn Semester",
+        "label": "ORG",
+        "start": 69,
+        "end": 88
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 92,
+        "end": 102
+      },
+      {
+        "text": "this coming Monday",
+        "label": "DATE",
+        "start": 103,
+        "end": 121
+      },
+      {
+        "text": "Some 3,250",
+        "label": "CARDINAL",
+        "start": 123,
+        "end": 133
+      },
+      {
+        "text": "Bachelor",
+        "label": "ORG",
+        "start": 134,
+        "end": 142
+      },
+      {
+        "text": "Bachelor",
+        "label": "ORG",
+        "start": 292,
+        "end": 300
+      },
+      {
+        "text": "the previous year",
+        "label": "DATE",
+        "start": 321,
+        "end": 338
+      },
+      {
+        "text": "around 3,100",
+        "label": "CARDINAL",
+        "start": 346,
+        "end": 358
+      },
+      {
+        "text": "ETH Rector Günther Dissertori",
+        "label": "ORG",
+        "start": 547,
+        "end": 576
+      },
+      {
+        "text": "previous years",
+        "label": "DATE",
+        "start": 6,
+        "end": 20
+      },
+      {
+        "text": "first-year",
+        "label": "DATE",
+        "start": 53,
+        "end": 63
+      },
+      {
+        "text": "Mechanical Engineering",
+        "label": "ORG",
+        "start": 80,
+        "end": 102
+      },
+      {
+        "text": "Bachelor",
+        "label": "ORG",
+        "start": 143,
+        "end": 151
+      },
+      {
+        "text": "Physics",
+        "label": "ORG",
+        "start": 175,
+        "end": 182
+      },
+      {
+        "text": "Health Sciences and Technology",
+        "label": "ORG",
+        "start": 207,
+        "end": 237
+      },
+      {
+        "text": "Mechanical Engineering",
+        "label": "ORG",
+        "start": 315,
+        "end": 337
+      },
+      {
+        "text": "Architecture and Environmental Sciences",
+        "label": "ORG",
+        "start": 339,
+        "end": 378
+      },
+      {
+        "text": "the Autumn Semester of 2023",
+        "label": "ORG",
+        "start": 442,
+        "end": 469
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 500,
+        "end": 503
+      },
+      {
+        "text": "November of each year",
+        "label": "DATE",
+        "start": 541,
+        "end": 562
+      },
+      {
+        "text": "about 33 percent",
+        "label": "PERCENT",
+        "start": 18,
+        "end": 34
+      },
+      {
+        "text": "the Autumn Semester",
+        "label": "EVENT",
+        "start": 54,
+        "end": 73
+      },
+      {
+        "text": "Bachelor",
+        "label": "ORG",
+        "start": 82,
+        "end": 90
+      },
+      {
+        "text": "the start of the semester",
+        "label": "DATE",
+        "start": 114,
+        "end": 139
+      },
+      {
+        "text": "81 percent",
+        "label": "PERCENT",
+        "start": 141,
+        "end": 151
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 161,
+        "end": 172
+      },
+      {
+        "text": "19 percent",
+        "label": "PERCENT",
+        "start": 179,
+        "end": 189
+      },
+      {
+        "text": "43 percent",
+        "label": "PERCENT",
+        "start": 257,
+        "end": 267
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 355,
+        "end": 362
+      },
+      {
+        "text": "Italy",
+        "label": "GPE",
+        "start": 364,
+        "end": 369
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 371,
+        "end": 376
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 384,
+        "end": 387
+      },
+      {
+        "text": "around 280",
+        "label": "CARDINAL",
+        "start": 403,
+        "end": 413
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 463,
+        "end": 466
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 494,
+        "end": 499
+      },
+      {
+        "text": "Swedish",
+        "label": "NORP",
+        "start": 501,
+        "end": 508
+      },
+      {
+        "text": "British",
+        "label": "NORP",
+        "start": 514,
+        "end": 521
+      },
+      {
+        "text": "Approximately 170",
+        "label": "CARDINAL",
+        "start": 559,
+        "end": 576
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 666,
+        "end": 669
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 703,
+        "end": 709
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 711,
+        "end": 716
+      },
+      {
+        "text": "Italian",
+        "label": "NORP",
+        "start": 722,
+        "end": 729
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Architecture and Environmental Sciences",
+        "Bachelor",
+        "ETH",
+        "ETH Rector Günther Dissertori",
+        "Health Sciences and Technology",
+        "Mechanical Engineering",
+        "Physics",
+        "the Autumn Semester",
+        "the Autumn Semester of 2023"
+      ],
+      "LOCATION": [
+        "China",
+        "ETH Zurich",
+        "Germany",
+        "Italy",
+        "Switzerland",
+        "USA"
+      ],
+      "DATE": [
+        "November of each year",
+        "first-year",
+        "previous years",
+        "the previous year",
+        "the start of the semester",
+        "this coming Monday"
+      ],
+      "MISC": [
+        "19 percent",
+        "43 percent",
+        "81 percent",
+        "Approximately 170",
+        "British",
+        "German",
+        "Italian",
+        "Some 3,250",
+        "Swedish",
+        "Swiss",
+        "about 33 percent",
+        "around 25,000",
+        "around 280",
+        "around 3,100",
+        "the Autumn Semester"
+      ]
+    },
+    "entity_counts": {
+      "Bachelor": 4,
+      "ETH": 3,
+      "the Autumn Semester": 2,
+      "Mechanical Engineering": 2,
+      "Swiss": 2,
+      "around 25,000": 1,
+      "ETH Zurich": 1,
+      "this coming Monday": 1,
+      "Some 3,250": 1,
+      "the previous year": 1,
+      "around 3,100": 1,
+      "ETH Rector Günther Dissertori": 1,
+      "previous years": 1,
+      "first-year": 1,
+      "Physics": 1,
+      "Health Sciences and Technology": 1,
+      "Architecture and Environmental Sciences": 1,
+      "the Autumn Semester of 2023": 1,
+      "November of each year": 1,
+      "about 33 percent": 1
+    },
+    "total_entities": 43,
+    "unique_entities": 35
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-continues-to-grow.md",
+      "title": "En News Events/2023/09/eth Continues To Grow",
+      "language": "en",
+      "source_path": "en_news_events/2023/09/eth-continues-to-grow.html"
+    },
+    "temporal": {
+      "publication_date": "2023-09",
+      "mentioned_years": [
+        "2022",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "rector",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "engineering"
+      ],
+      "research_topics": [
+        "19 percent",
+        "43 percent",
+        "81 percent",
+        "Approximately 170",
+        "British",
+        "German",
+        "Italian",
+        "Some 3,250",
+        "Swedish",
+        "Swiss",
+        "about 33 percent",
+        "around 25,000",
+        "around 280",
+        "around 3,100",
+        "the Autumn Semester"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Grow A",
+        "Continues To",
+        "En News",
+        "Environmental Sciences",
+        "ETH Rector",
+        "Among Master",
+        "Autumn Semester",
+        "Mechanical Engineering",
+        "ETH Zurich",
+        "Health Sciences",
+        "The Bachelor",
+        "Computer Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Architecture and Environmental Sciences",
+        "Bachelor",
+        "ETH",
+        "ETH Rector Günther Dissertori",
+        "Health Sciences and Technology",
+        "Mechanical Engineering",
+        "Physics",
+        "the Autumn Semester",
+        "the Autumn Semester of 2023"
+      ],
+      "locations": [
+        "China",
+        "ETH Zurich",
+        "Germany",
+        "Italy",
+        "Switzerland",
+        "USA"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Bachelor",
+        "ETH",
+        "the Autumn Semester",
+        "Mechanical Engineering",
+        "Swiss",
+        "around 25,000",
+        "ETH Zurich",
+        "this coming Monday",
+        "Some 3,250",
+        "the previous year"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "The most popular courses",
+          "The most popular courses",
+          "University with an international network"
+        ],
+        "content_length": 1932
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Physics",
+        "Architecture and Environmental Sciences",
+        "ETH Rector Günther Dissertori",
+        "Bachelor",
+        "the Autumn Semester",
+        "2022",
+        "2023",
+        "Health Sciences and Technology",
+        "Mechanical Engineering",
+        "ERC",
+        "the Autumn Semester of 2023"
+      ],
+      "semantic_concepts": [
+        "Swedish",
+        "about 33 percent",
+        "when",
+        "engineering",
+        "around 3,100",
+        "around 25,000",
+        "around 280",
+        "the Autumn Semester",
+        "19 percent",
+        "medical_research",
+        "43 percent",
+        "who",
+        "81 percent",
+        "British",
+        "what",
+        "Some 3,250",
+        "Italian",
+        "Swiss",
+        "Approximately 170",
+        "German",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

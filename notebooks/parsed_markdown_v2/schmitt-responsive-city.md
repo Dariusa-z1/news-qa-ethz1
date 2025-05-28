@@ -1,0 +1,34 @@
+# schmitt-responsive-city.html
+
+**Source:** en_news_events/2019/02/schmitt-responsive-city.html
+
+## Changing the way technology is used
+
+The term “smart cities” has dominated conversations about cities for some while, with urban planners and authorities in many parts of the world jumping on the bandwagon. In 2015, India launched the Smart Cities Mission and announced that it would transform 100 Indian cities into smart cities. New technologies such as sensors, artificial intelligence and virtual reality can now be harnessed to make city administration more efficient. The introduction of interactive voice response and chatbots to government call centres is just one example here.
+
+So far, discussion on smart cities has been driven primarily by technology. Yet a city is made of, and for its citizens. Can we take a more people-centric approach rather than a technology-centric one in planning, designing and managing cities? That is the essence of the term “responsive city”.
+
+## Changing the way technology is used
+
+The responsive city evolves from the smart city, with a fundamental difference: citizens move from being in the centre of observation to becoming the centre of action. In the responsive city, citizens are empowered to contribute to the design of the city, to engage in decisions that affect their daily lives, the spaces they live and move around in, and the delivery of essential services. And they use the smart technology to do it. The responsive city is in the hands of its citizens.
+
+The first smart cities were technology-driven, producing large amounts of data from fixed or centrally controlled sensors. With the Internet of Things and high mobile phone penetration rates, citizens in the responsive city are taking the lead in generating and sharing data – reporting infrastructure faults and incidents through apps, and submitting drafts and suggestions as to how the city should develop. The citizen’s ability and willingness to engage and act becomes a mainstay of a responsive city.
+
+## Finding a common language
+
+Communication in a responsive city is a two-way process between citizens and administrators; finding a common language here is vital. “A picture is worth a thousand words” the saying goes, and indeed the visual language is a powerful one: visualisation changes or reinforces our perception of everything we hear, taste, smell, see, read, plan or imagine. That’s why at the Singapore-ETH Centre we place strong emphasis on the visualisation of data and simulations as a means of communication.
+
+## About the author
+
+We use the “Singapore Views” visualisation tool developed at the centre to communicate the extent of the urban heat islands and the urgency for action to combat them. And user-friendly planning tools such as the “Quick Urban Analysis Kit” developed at the Chair of Information Architecture allow laypersons to model and visually present their design ideas to fellow citizens and urban planners. It’s not hard to imagine how citizens, uncoloured by political or commercial interests or constraints, could come up with different solutions from specialists and generate out-of-the-box, or even “disruptive” ideas to spark a paradigm change.
+
+Today, a google search of the term “smart cities” yields some 600 million search results; a search for “responsive cities” less than 60 million. So a lot more needs to be done. But there is hope: over 120,000 people from around the world have signed up for our online courses (MOOC) on Future Cities and Responsive Cities. Which goes to show there’s keen interest here.
+
+Cities such as Zurich, Vienna, Copenhagen and Barcelona are already role models in adopting a “responsive” approach. And even small Swiss towns and villages, which have been actively shaped by their citizens for centuries, can be considered as prototypes of a responsive city.
+
+There’s no one-size-fits-all formula for successful responsive cities; ultimately, what’s needed are solutions that are adapted to the specific location and context, backed by science, designed with the citizens in mind, and implemented with their support.
+
+This is a modified and abridged version of an article published on the Stars website.
+
+Gerhard Schmitt Professor of Information Architecture at ETH Zurich and Director of the Singapore-ETH Centre
+

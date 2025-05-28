@@ -1,0 +1,215 @@
+{
+  "filename": "pr-search-and-rescue.md",
+  "original_filename": "pr-search-and-rescue.html",
+  "source_path": "en_news_events/2020/05/pr-search-and-rescue.html",
+  "date": "2020-05",
+  "title": "Pr Search And Rescue",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Reference",
+      "text": "Serra M, Sathe P, Rypina I, Kirincich A, Ross SD, Lermusiaux P, Allen A, Peacock T, Haller G: Search and rescue at sea aided by hidden flow structures, Nature Communications, 26 May 2020, doi: 10.1038/s41467-020-16281-x"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Search And Rescue",
+        "label": "ORG",
+        "start": 26,
+        "end": 43
+      },
+      {
+        "text": "Serra M",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Kirincich A",
+        "label": "ORG",
+        "start": 28,
+        "end": 39
+      },
+      {
+        "text": "Ross SD",
+        "label": "PERSON",
+        "start": 41,
+        "end": 48
+      },
+      {
+        "text": "Allen A",
+        "label": "PERSON",
+        "start": 64,
+        "end": 71
+      },
+      {
+        "text": "Haller",
+        "label": "PERSON",
+        "start": 84,
+        "end": 90
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 152,
+        "end": 173
+      },
+      {
+        "text": "26 May 2020",
+        "label": "DATE",
+        "start": 175,
+        "end": 186
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 193,
+        "end": 200
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Allen A",
+        "Haller",
+        "Ross SD"
+      ],
+      "ORG": [
+        "En News",
+        "Kirincich A",
+        "Nature Communications",
+        "Search And Rescue",
+        "Serra M"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "26 May 2020"
+      ],
+      "MISC": [
+        "10.1038"
+      ]
+    },
+    "entity_counts": {
+      "En News": 1,
+      "Search And Rescue": 1,
+      "Serra M": 1,
+      "Kirincich A": 1,
+      "Ross SD": 1,
+      "Allen A": 1,
+      "Haller": 1,
+      "Nature Communications": 1,
+      "26 May 2020": 1,
+      "10.1038": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "pr-search-and-rescue.md",
+      "title": "En News Events/2020/05/pr Search And Rescue",
+      "language": "en",
+      "source_path": "en_news_events/2020/05/pr-search-and-rescue.html"
+    },
+    "temporal": {
+      "publication_date": "2020-05",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Allen A",
+        "Haller",
+        "Ross SD"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "10.1038"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Lermusiaux P",
+        "Allen A",
+        "En News",
+        "Sathe P",
+        "Ross SD",
+        "Search And",
+        "Kirincich A",
+        "Peacock T",
+        "Rescue Serra",
+        "Nature Communications",
+        "Haller G",
+        "Rypina I"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "En News",
+        "Kirincich A",
+        "Nature Communications",
+        "Search And Rescue",
+        "Serra M"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "En News",
+        "Search And Rescue",
+        "Serra M",
+        "Kirincich A",
+        "Ross SD",
+        "Allen A",
+        "Haller",
+        "Nature Communications",
+        "26 May 2020",
+        "10.1038"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Reference"
+        ],
+        "content_length": 263
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Allen A",
+        "En News",
+        "Serra M",
+        "2020",
+        "Ross SD",
+        "Kirincich A",
+        "Search And Rescue",
+        "Nature Communications",
+        "Haller"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1038"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

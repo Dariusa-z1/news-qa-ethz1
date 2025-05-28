@@ -1,0 +1,230 @@
+{
+  "filename": "autonome-weihnachten.md",
+  "original_filename": "autonome-weihnachten.html",
+  "source_path": "de_news_events/2013/12/autonome-weihnachten.html",
+  "date": "2013-12",
+  "title": "Autonome Weihnachten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Wenn Robo-Rudolf und Robo-Nikolaus zusammen mit einem Schwarm Robo-Elfen Geschenke ausliefern und die autonom im Wald gepflückte Tanne von einer Quadrokopter-Fee geschmückt wird, dann feiern die putzigen Kreaturen des Autonomous Systems Lab der ETH Zürich Weihnachten. Und sie lassen die Welt daran teilhaben in ihrem neusten externe Seite Video . Ob sie dieses auch schon autonom auf Youtube gestellt haben, war bis Redaktionsschluss nicht zweifelsfrei in Erfahrung zu bringen. Sicher aber ist, dass zahlreiche Forscherinnen und Forscher ihre Kreationen auf Weihnachten getrimmt – pardon, programmiert haben.\n\nFür ihr neustes Weihnachtsgruss-Video haben die Robotiker (quasi die Forschungs-Elfen) alles aufgeboten, was an Robotern in ihren Labors kreucht und fleucht, um fast schon traditionsgemäss Feiertagsgrüsse (mehr oder weniger) autonom zu überbringen. Da kann selbst ein Kurzschluss nicht verhindern, dass der einäugige Santa-Bot zum Schluss vor lauter Rührung feuchte Augen bekommt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Weihnachten",
+        "label": "MISC",
+        "start": 32,
+        "end": 43
+      },
+      {
+        "text": "Robo-Nikolaus",
+        "label": "LOC",
+        "start": 21,
+        "end": 34
+      },
+      {
+        "text": "Robo-Elfen",
+        "label": "LOC",
+        "start": 62,
+        "end": 72
+      },
+      {
+        "text": "Tanne",
+        "label": "LOC",
+        "start": 129,
+        "end": 134
+      },
+      {
+        "text": "Autonomous Systems Lab",
+        "label": "MISC",
+        "start": 218,
+        "end": 240
+      },
+      {
+        "text": "ETH Zürich Weihnachten",
+        "label": "ORG",
+        "start": 245,
+        "end": 267
+      },
+      {
+        "text": "Youtube",
+        "label": "MISC",
+        "start": 385,
+        "end": 392
+      },
+      {
+        "text": "Weihnachten",
+        "label": "MISC",
+        "start": 559,
+        "end": 570
+      },
+      {
+        "text": "pardon",
+        "label": "MISC",
+        "start": 582,
+        "end": 588
+      },
+      {
+        "text": "Forschungs-Elfen",
+        "label": "MISC",
+        "start": 679,
+        "end": 695
+      },
+      {
+        "text": "Santa-Bot",
+        "label": "LOC",
+        "start": 927,
+        "end": 936
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News"
+      ],
+      "ORG": [
+        "ETH Zürich Weihnachten"
+      ],
+      "LOCATION": [
+        "Robo-Elfen",
+        "Robo-Nikolaus",
+        "Santa-Bot",
+        "Tanne"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Autonomous Systems Lab",
+        "Forschungs-Elfen",
+        "Weihnachten",
+        "Youtube",
+        "pardon"
+      ]
+    },
+    "entity_counts": {
+      "Weihnachten": 2,
+      "De News": 1,
+      "Robo-Nikolaus": 1,
+      "Robo-Elfen": 1,
+      "Tanne": 1,
+      "Autonomous Systems Lab": 1,
+      "ETH Zürich Weihnachten": 1,
+      "Youtube": 1,
+      "pardon": 1,
+      "Forschungs-Elfen": 1,
+      "Santa-Bot": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "autonome-weihnachten.md",
+      "title": "De News Events/2013/12/autonome Weihnachten",
+      "language": "de",
+      "source_path": "de_news_events/2013/12/autonome-weihnachten.html"
+    },
+    "temporal": {
+      "publication_date": "2013-12",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Autonomous Systems Lab",
+        "Forschungs-Elfen",
+        "Weihnachten",
+        "Youtube",
+        "pardon"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Autonomous Systems",
+        "Weihnachtsgruss-Video",
+        "Robo-Rudolf",
+        "Weihnachten Wenn",
+        "Elfen Geschenke",
+        "Santa-Bot",
+        "De News",
+        "Forschungs-Elfen",
+        "Robo-Nikolaus",
+        "Schwarm Robo",
+        "Seite Video",
+        "Quadrokopter-Fee"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich Weihnachten"
+      ],
+      "locations": [
+        "Robo-Elfen",
+        "Robo-Nikolaus",
+        "Santa-Bot",
+        "Tanne"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Weihnachten",
+        "De News",
+        "Robo-Nikolaus",
+        "Robo-Elfen",
+        "Tanne",
+        "Autonomous Systems Lab",
+        "ETH Zürich Weihnachten",
+        "Youtube",
+        "pardon",
+        "Forschungs-Elfen"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1035
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2013",
+        "De News",
+        "EU",
+        "ETH Zürich Weihnachten"
+      ],
+      "semantic_concepts": [
+        "Youtube",
+        "pardon",
+        "Forschungs-Elfen",
+        "Weihnachten",
+        "Autonomous Systems Lab"
+      ],
+      "graph_relations": []
+    }
+  }
+}

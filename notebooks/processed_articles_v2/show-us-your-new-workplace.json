@@ -1,0 +1,155 @@
+{
+  "filename": "show-us-your-new-workplace.md",
+  "original_filename": "show-us-your-new-workplace.html",
+  "source_path": "en_internal/2020/03/show-us-your-new-workplace.html",
+  "date": "2020-03",
+  "title": "Show Us Your New Workplace",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "For some it is the dining table, for others it is the storage room, and some are lucky enough to enjoy a real office. But there is one thing that almost all of us have in common since two weeks: a completely new workplace. What does your workplace look like? Send us photos of you in your remote workplace to or share them on social media with the hashtag #ETHathome . We will publish the best and funniest photos on the next cover of the ETH community magazine \"life\" as well as on Internal news and share them on the ETH social media channels.\n\nBy the way: If you've received the \"life\" magazine in your office so far, you can change the delivery address to your home address."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Us",
+        "label": "GPE",
+        "start": 25,
+        "end": 27
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 131,
+        "end": 134
+      },
+      {
+        "text": "two weeks",
+        "label": "DATE",
+        "start": 184,
+        "end": 193
+      },
+      {
+        "text": "ETHathome",
+        "label": "ORG",
+        "start": 356,
+        "end": 365
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 438,
+        "end": 441
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 518,
+        "end": 521
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "ETHathome"
+      ],
+      "LOCATION": [
+        "Us"
+      ],
+      "DATE": [
+        "two weeks"
+      ],
+      "MISC": [
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Us": 1,
+      "one": 1,
+      "two weeks": 1,
+      "ETHathome": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "show-us-your-new-workplace.md",
+      "title": "En Internal/2020/03/show Us Your New Workplace",
+      "language": "en",
+      "source_path": "en_internal/2020/03/show-us-your-new-workplace.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Us Your",
+        "New Workplace",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETHathome"
+      ],
+      "locations": [
+        "Us"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Us",
+        "one",
+        "two weeks",
+        "ETHathome"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 725
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2020",
+        "ETHathome"
+      ],
+      "semantic_concepts": [
+        "what",
+        "where",
+        "how"
+      ],
+      "graph_relations": []
+    }
+  }
+}

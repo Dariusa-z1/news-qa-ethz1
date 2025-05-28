@@ -1,0 +1,177 @@
+{
+  "filename": "call-for-proposals-congressi-stefan-franscini.md",
+  "original_filename": "call-for-proposals-congressi-stefan-franscini.html",
+  "source_path": "en_internal/2014/07/call-for-proposals-congressi-stefan-franscini.html",
+  "date": "2014-07",
+  "title": "Call For Proposals Congressi Stefan Franscini",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "All researchers and university professors working in Switzerland are invited to submit their proposal for a meeting or an ETH Winter School to be held in 2016; international collaborations are welcome.\n\nThe applications will be evaluated by an interdisciplinary scientific board.\n\nThe Congressi Stefano Franscini offers:\n\nThe Congressi Stefano Franscini asks for:\n\nDeadline for submitting the applications 2016: January 15, 2015"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Stefan Franscini",
+        "label": "PERSON",
+        "start": 49,
+        "end": 65
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 53,
+        "end": 64
+      },
+      {
+        "text": "ETH Winter School",
+        "label": "ORG",
+        "start": 122,
+        "end": 139
+      },
+      {
+        "text": "The Congressi Stefano Franscini",
+        "label": "ORG",
+        "start": 279,
+        "end": 310
+      },
+      {
+        "text": "The Congressi Stefano Franscini",
+        "label": "ORG",
+        "start": 319,
+        "end": 350
+      },
+      {
+        "text": "January 15, 2015",
+        "label": "DATE",
+        "start": 408,
+        "end": 424
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Stefan Franscini"
+      ],
+      "ORG": [
+        "ETH Winter School",
+        "The Congressi Stefano Franscini"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [
+        "January 15, 2015"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "The Congressi Stefano Franscini": 2,
+      "Stefan Franscini": 1,
+      "Switzerland": 1,
+      "ETH Winter School": 1,
+      "January 15, 2015": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "call-for-proposals-congressi-stefan-franscini.md",
+      "title": "En Internal/2014/07/call For Proposals Congressi Stefan Franscini",
+      "language": "en",
+      "source_path": "en_internal/2014/07/call-for-proposals-congressi-stefan-franscini.html"
+    },
+    "temporal": {
+      "publication_date": "2014-07",
+      "mentioned_years": [
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Stefan Franscini"
+      ],
+      "people_with_roles": {
+        "Stefan Franscini": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Stefano Franscini",
+        "Congressi Stefan",
+        "Franscini All",
+        "ETH Winter",
+        "For Proposals",
+        "En Internal",
+        "The Congressi"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Winter School",
+        "The Congressi Stefano Franscini"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "The Congressi Stefano Franscini",
+        "Stefan Franscini",
+        "Switzerland",
+        "ETH Winter School",
+        "January 15, 2015"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 494
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "The Congressi Stefano Franscini",
+        "2016",
+        "ETH Winter School",
+        "Stefan Franscini",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "who",
+        "what",
+        "where"
+      ],
+      "graph_relations": [
+        "Stefan Franscini_has_role_researcher",
+        "Stefan Franscini_has_role_professor"
+      ]
+    }
+  }
+}

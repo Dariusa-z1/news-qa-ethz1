@@ -1,0 +1,198 @@
+{
+  "filename": "roger-gassert-eroeffnet-resc-lecture-series.md",
+  "original_filename": "roger-gassert-eroeffnet-resc-lecture-series.html",
+  "source_path": "de_internal/2022/11/roger-gassert-eroeffnet-resc-lecture-series.html",
+  "date": "2022-11",
+  "title": "Roger Gassert Eroeffnet Resc Lecture Series",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In der RESC-Online-Vorlesungsreihe geben Referenten aus dem Netzwerk des ETH-Kompetenzzentrums Rehabilitation Engineering and Science (RESC) Einblicke in Schlüsselthemen der Rehabilitation — von der Pflege über die Forschung bis hin zu persönlichen Erfahrungen. In der ersten Ausgabe wird Roger Gassert, Professor für Rehabilitationstechnik und Leiter des RELab an der ETH Zürich, über seinen persönlichen Weg als Patient berichten und die wichtigsten Herausforderungen in der Rehabilitation sowie die Meilensteine auf seinem Weg zur Genesung darlegen. Bitte merken Sie sich den Termin des Vortrags vor: Sie sind herzlich eingeladen. 28. November 2022, 12.00 - 13.00 Uhr.\n\nDer Zoom-Link zu der Vorlesung wird kurz vor dem Termin hier veröffentlicht"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/11/roger",
+        "label": "LOC",
+        "start": 0,
+        "end": 25
+      },
+      {
+        "text": "ETH-Kompetenzzentrums Rehabilitation Engineering and Science",
+        "label": "MISC",
+        "start": 73,
+        "end": 133
+      },
+      {
+        "text": "RESC",
+        "label": "ORG",
+        "start": 135,
+        "end": 139
+      },
+      {
+        "text": "Roger Gassert",
+        "label": "PER",
+        "start": 289,
+        "end": 302
+      },
+      {
+        "text": "RELab",
+        "label": "MISC",
+        "start": 356,
+        "end": 361
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 369,
+        "end": 379
+      },
+      {
+        "text": "Vortrags",
+        "label": "MISC",
+        "start": 590,
+        "end": 598
+      },
+      {
+        "text": "Zoom-Link",
+        "label": "ORG",
+        "start": 676,
+        "end": 685
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Roger Gassert"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "RESC",
+        "Zoom-Link"
+      ],
+      "LOCATION": [
+        "De Internal/2022/11/roger"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Kompetenzzentrums Rehabilitation Engineering and Science",
+        "RELab",
+        "Vortrags"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2022/11/roger": 1,
+      "ETH-Kompetenzzentrums Rehabilitation Engineering and Science": 1,
+      "RESC": 1,
+      "Roger Gassert": 1,
+      "RELab": 1,
+      "ETH Zürich": 1,
+      "Vortrags": 1,
+      "Zoom-Link": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "roger-gassert-eroeffnet-resc-lecture-series.md",
+      "title": "De Internal/2022/11/roger Gassert Eroeffnet Resc Lecture Series",
+      "language": "de",
+      "source_path": "de_internal/2022/11/roger-gassert-eroeffnet-resc-lecture-series.html"
+    },
+    "temporal": {
+      "publication_date": "2022-11",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Roger Gassert"
+      ],
+      "people_with_roles": {
+        "Roger Gassert": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Kompetenzzentrums Rehabilitation Engineering and Science",
+        "RELab",
+        "Vortrags"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Roger Gassert",
+        "Gassert Eroeffnet",
+        "Resc Lecture",
+        "RESC-Online",
+        "De Internal",
+        "ETH-Kompetenzzentrums",
+        "Series In",
+        "Der Zoom",
+        "Rehabilitation Engineering"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "RESC",
+        "Zoom-Link"
+      ],
+      "locations": [
+        "De Internal/2022/11/roger"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De Internal/2022/11/roger",
+        "ETH-Kompetenzzentrums Rehabilitation Engineering and Science",
+        "RESC",
+        "Roger Gassert",
+        "RELab",
+        "ETH Zürich",
+        "Vortrags",
+        "Zoom-Link"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 812
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Roger Gassert",
+        "RESC",
+        "Zoom-Link",
+        "ETH Zürich",
+        "2022"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Vortrags",
+        "RELab",
+        "ETH-Kompetenzzentrums Rehabilitation Engineering and Science"
+      ],
+      "graph_relations": [
+        "Roger Gassert_has_role_professor"
+      ]
+    }
+  }
+}

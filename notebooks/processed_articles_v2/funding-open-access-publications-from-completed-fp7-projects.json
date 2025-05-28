@@ -1,0 +1,169 @@
+{
+  "filename": "funding-open-access-publications-from-completed-fp7-projects.md",
+  "original_filename": "funding-open-access-publications-from-completed-fp7-projects.html",
+  "source_path": "en_internal/2016/07/funding-open-access-publications-from-completed-fp7-projects.html",
+  "date": "2016-07",
+  "title": "Funding Open Access Publications From Completed Fp7 Projects",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "A maximum of EUR 2,000 for articles, book chapters and conference papers, and EUR 6,000 for monographs can be applied for to OpenAIRE subject to the following conditions:\n\nWe especially recommend this funding option for open-access books and open-access journals with which ETH-Bibliothek does not have an agreement on the funding of publication fees , such as Nature CommunicationsorScientific Reports.\n\nETH-Bibliothek's gladly supports you in the application process.\n\nFP7 post-grant Open Access Pilot"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Open Access Publications",
+        "label": "ORG",
+        "start": 28,
+        "end": 52
+      },
+      {
+        "text": "EUR",
+        "label": "ORG",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "EUR",
+        "label": "ORG",
+        "start": 78,
+        "end": 81
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 273,
+        "end": 287
+      },
+      {
+        "text": "Nature CommunicationsorScientific Reports",
+        "label": "ORG",
+        "start": 360,
+        "end": 401
+      },
+      {
+        "text": "ETH-Bibliothek's",
+        "label": "ORG",
+        "start": 403,
+        "end": 419
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH-Bibliothek",
+        "ETH-Bibliothek's",
+        "EUR",
+        "Nature CommunicationsorScientific Reports",
+        "Open Access Publications"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "EUR": 2,
+      "Open Access Publications": 1,
+      "ETH-Bibliothek": 1,
+      "Nature CommunicationsorScientific Reports": 1,
+      "ETH-Bibliothek's": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "funding-open-access-publications-from-completed-fp7-projects.md",
+      "title": "En Internal/2016/07/funding Open Access Publications From Completed Fp7 Projects",
+      "language": "en",
+      "source_path": "en_internal/2016/07/funding-open-access-publications-from-completed-fp7-projects.html"
+    },
+    "temporal": {
+      "publication_date": "2016-07",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU",
+        "grant",
+        "funding"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Nature CommunicationsorScientific",
+        "En Internal",
+        "Projects A",
+        "Open Access",
+        "Publications From"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek",
+        "ETH-Bibliothek's",
+        "EUR",
+        "Nature CommunicationsorScientific Reports",
+        "Open Access Publications"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "EUR",
+        "Open Access Publications",
+        "ETH-Bibliothek",
+        "Nature CommunicationsorScientific Reports",
+        "ETH-Bibliothek's"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 584
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "EUR",
+        "grant",
+        "EU",
+        "Nature CommunicationsorScientific Reports",
+        "ETH-Bibliothek's",
+        "2016",
+        "funding",
+        "Open Access Publications"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "how"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

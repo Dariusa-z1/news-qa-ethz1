@@ -1,0 +1,133 @@
+{
+  "filename": "tauchroboter-fuer-gefaehrliche-einsaetze.md",
+  "original_filename": "tauchroboter-fuer-gefaehrliche-einsaetze.html",
+  "source_path": "de_news_events/2023/05/tauchroboter-fuer-gefaehrliche-einsaetze.html",
+  "date": "2023-05",
+  "title": "Tauchroboter Fuer Gefaehrliche Einsaetze",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der Tethys-Roboter ist ein autonomes Unterwasserfahrzeug, das für den Einsatz in schwierigen Umgebungen wie trüben Gewässern und Flüssen entwickelt wurde. Er kommt vor allem dann zum Einsatz, wenn herkömmliche Such- und Rettungstechniken zu schwierig oder zu riskant sind. Ausgestattet mit akustischen Sensoren und Kameras kann der Roboter grössere Gebiete unter Wasser autonom absuchen und so ein Objekt oder eine Person schnell lokalisieren. Dadurch können gefährliche Einsätze für Taucher und Rettungskräfte vermieden werden.\n\nSobald der Roboter sein Ziel geortet hat, übernimmt eine Person – ein sogenannter Operator – die Navigation und bringt den künstlichen Taucher an sein Ziel. Tethys kann bis zu 40 kg Gewicht zurück an die Oberfläche tragen. So können sich Einsatzkräfte auf andere wichtige Aufgaben konzentrieren und sicherstellen, dass ein Such- und Rettungseinsatz so effizient und sicher wie möglich verläuft.\n\nDas ETH-Spin-off Tethys wurde von den Pioneer Fellows Jonas Wüst und Pragash Sivananthaguru gegründet. Was ursprünglich als Studierendenprojekt an der ETH Zürich begann, ist heute ein gefragtes Jungunternehmen. So wird der Unterwasserroboter bereits von lokalen Behörden für die Unterwassersuche und -Rettung eingesetzt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Fellows Jonas Wüst",
+        "label": "PER",
+        "start": 970,
+        "end": 988
+      },
+      {
+        "text": "Pragash Sivananthaguru",
+        "label": "PER",
+        "start": 993,
+        "end": 1015
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1075,
+        "end": 1085
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fellows Jonas Wüst",
+        "Pragash Sivananthaguru"
+      ],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Fellows Jonas Wüst": 1,
+      "Pragash Sivananthaguru": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "tauchroboter-fuer-gefaehrliche-einsaetze.md",
+      "title": "De News Events/2023/05/tauchroboter Fuer Gefaehrliche Einsaetze",
+      "language": "de",
+      "source_path": "de_news_events/2023/05/tauchroboter-fuer-gefaehrliche-einsaetze.html"
+    },
+    "temporal": {
+      "publication_date": "2023-05",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Fellows Jonas Wüst",
+        "Pragash Sivananthaguru"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Einsaetze Der",
+        "Das ETH",
+        "Pragash Sivananthaguru",
+        "Tethys-Roboter",
+        "Fuer Gefaehrliche",
+        "De News",
+        "Pioneer Fellows"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Fellows Jonas Wüst",
+        "Pragash Sivananthaguru",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1310
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Pragash Sivananthaguru",
+        "Fellows Jonas Wüst",
+        "EU",
+        "ETH Zürich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "who"
+      ],
+      "graph_relations": []
+    }
+  }
+}

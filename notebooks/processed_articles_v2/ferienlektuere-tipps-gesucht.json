@@ -1,0 +1,143 @@
+{
+  "filename": "ferienlektuere-tipps-gesucht.md",
+  "original_filename": "ferienlektuere-tipps-gesucht.html",
+  "source_path": "de_internal/2021/04/ferienlektuere-tipps-gesucht.html",
+  "date": "2021-04",
+  "title": "Ferienlektuere Tipps Gesucht",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Für viele von uns bedeutet Ferienzeit auch endlich wieder Lesezeit – und die lässt sich zum Glück auf Balkonien (fast) genauso gut geniessen wie am Strand. Haben Sie in letzter Zeit ein Buch gelesen, das Ihnen besonders in Erinnerung geblieben ist? Oder gibt es vielleicht einen Klassiker, den sie immer wieder lesen könnten? Lassen Sie die anderen ETH-Angehörigen an Ihrem Lesevergnügen teilhaben und schicken Sie Ihre Buchempfehlung mit einer kurzen Begründung bis am 10. Mai an . Fünf Buchtipps werden im nächsten ETH-Mitarbeitermagazin «life» publiziert, die restlichen auf Intern aktuell ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2021/04",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Balkonien",
+        "label": "LOC",
+        "start": 102,
+        "end": 111
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "ORG",
+        "start": 349,
+        "end": 364
+      },
+      {
+        "text": "ETH-Mitarbeitermagazin",
+        "label": "ORG",
+        "start": 517,
+        "end": 539
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH-Angehörigen",
+        "ETH-Mitarbeitermagazin"
+      ],
+      "LOCATION": [
+        "Balkonien",
+        "De Internal/2021/04"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2021/04": 1,
+      "Balkonien": 1,
+      "ETH-Angehörigen": 1,
+      "ETH-Mitarbeitermagazin": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ferienlektuere-tipps-gesucht.md",
+      "title": "De Internal/2021/04/ferienlektuere Tipps Gesucht",
+      "language": "de",
+      "source_path": "de_internal/2021/04/ferienlektuere-tipps-gesucht.html"
+    },
+    "temporal": {
+      "publication_date": "2021-04",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Tipps Gesucht",
+        "De Internal",
+        "Haben Sie",
+        "Lassen Sie",
+        "Sie Ihre",
+        "ETH-Mitarbeitermagazin"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Angehörigen",
+        "ETH-Mitarbeitermagazin"
+      ],
+      "locations": [
+        "Balkonien",
+        "De Internal/2021/04"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2021/04",
+        "Balkonien",
+        "ETH-Angehörigen",
+        "ETH-Mitarbeitermagazin"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 643
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Angehörigen",
+        "EU",
+        "ETH-Mitarbeitermagazin",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

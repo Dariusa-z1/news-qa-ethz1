@@ -1,0 +1,420 @@
+{
+  "filename": "the-robot-that-grips-without-touching.md",
+  "original_filename": "the-robot-that-grips-without-touching.html",
+  "source_path": "en_news_events/2020/01/the-robot-that-grips-without-touching.html",
+  "date": "2020-01",
+  "title": "The Robot That Grips Without Touching",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Economic benefits as well",
+      "text": "The small installation that Marcel Schuck has assembled on his workbench is reminiscent of a school physics lesson: an arrangement, comprising two semi-spheres and resembling a pair of headphones, is connected to a circuit board carrying microchips. He is using the assembly to demonstrate a physical effect. A small sphere hovers between the two semi-spheres, held up by ultrasound waves. “This phenomenon is known as acoustic levitation,” the scientist explains.\n\nAs part of his ETH Pioneer Fellowship, the former ETH doctoral student is currently developing a method that makes it possible to lift and manipulate small objects entirely without touching them. This is particularly relevant in situations where damage to small components costs money, such as in the watchmaking or semiconductor industry.\n\nConventional robotic grippers are prone to damaging fragile objects. To counter this, soft, rubber-like grippers can be used. Although these cause no damage, they are easily contaminated, like a well-used rubber eraser. Additionally, these soft robotic grippers only offer limited positioning accuracy.\n\nGripping without touching: that is the principle behind Schuck’s project “No-Touch Robotics”. The technology is based on an effect that has been exploited for more than 80 years and was first used in space exploration. Ultrasound waves generate a pressure field that humans cannot see or hear. Pressure points are created as the acoustic waves overlay each other, and small objects can be trapped within these points. As a result, they seem to float freely in the air – in an acoustic trap."
+    },
+    {
+      "heading": "Economic benefits as well",
+      "text": "The installation in his laboratory is the prototype for the product that Schuck wants to develop: an electronically controlled robot gripper using ultrasound. The 31-year-old scientist has fitted numerous small loudspeakers into the two semi-spheres, created using a 3D printer. The associated software allows Schuck to control the loudspeakers such that the pressure points can be moved around. The goal is to change their position in real time without the suspended object falling to the ground. This particular aspect is being researched by the ETH doctoral student Marc Röthlisberger, who shares a laboratory at the Technopark Zurich with Schuck and Christian Burkard, a master’s student.\n\nJust using the existing technology, the scientists are able to move various small objects through space. The software adjusts the gripper to the shape of the object to be lifted, and a robot arm then transports the object to the target destination.\n\nThe principle of gripping without touching also has an economic benefit: when working with a conventional robot, a different gripper is required for almost every new shape. The acoustic gripper eliminates the need for an extensive set of expensive high-precision grippers. It is not even necessary for the robot arm itself to be extremely precise: “The exact positioning is determined by the acoustic waves controlled by the software,” Schuck explains.\n\nInitially, Schuck wants to use the funding from his ETH Pioneer Fellowship to determine how robot grippers are deployed in practice. “The main aim is to explore the potential fields of application and open doors within industry,” Schuck says. The innovation is likely to be of interest to the watchmaking industry, where highly precise micromechanics is essential for handling expensive minute components. “Toothed gearwheels, for example, are first coated with lubricant, and then the thickness of this lubricant layer is measured. Even the faintest touch could damage the thin film of lubricant.” Microchip production might be another attractive market for Schuck’s technology.\n\nSchuck is using some of the 150,000 Swiss francs from the fellowship to create a type of ‘development kit’ for potential clients. This contains a robot gripper, control software, and instructions. Schuck stresses that he still does not know how the end product will look. “That depends on the feedback I get from industry.” He hopes he will find a few interested parties who will collaborate with him on the further development of the acoustic gripper. On the one hand, this should help to satisfy existing market needs. On the other hand, Schuck is keen for the technology to work not just in the laboratory, but in the real world. If he can manage this by the spring of 2021, Schuck reckons he should be able to establish a start-up based on his ingenious business idea."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Marcel Schuck",
+        "label": "PERSON",
+        "start": 28,
+        "end": 41
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 143,
+        "end": 146
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 343,
+        "end": 346
+      },
+      {
+        "text": "ETH Pioneer Fellowship",
+        "label": "ORG",
+        "start": 480,
+        "end": 502
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 515,
+        "end": 518
+      },
+      {
+        "text": "Schuck",
+        "label": "PERSON",
+        "start": 1164,
+        "end": 1170
+      },
+      {
+        "text": "No-Touch Robotics",
+        "label": "WORK_OF_ART",
+        "start": 1182,
+        "end": 1199
+      },
+      {
+        "text": "more than 80 years",
+        "label": "DATE",
+        "start": 1267,
+        "end": 1285
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1294,
+        "end": 1299
+      },
+      {
+        "text": "acoustic",
+        "label": "NORP",
+        "start": 1437,
+        "end": 1445
+      },
+      {
+        "text": "acoustic",
+        "label": "NORP",
+        "start": 1584,
+        "end": 1592
+      },
+      {
+        "text": "Schuck",
+        "label": "PERSON",
+        "start": 73,
+        "end": 79
+      },
+      {
+        "text": "31-year-old",
+        "label": "DATE",
+        "start": 163,
+        "end": 174
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 233,
+        "end": 236
+      },
+      {
+        "text": "Schuck",
+        "label": "PERSON",
+        "start": 310,
+        "end": 316
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 548,
+        "end": 551
+      },
+      {
+        "text": "Marc Röthlisberger",
+        "label": "PERSON",
+        "start": 569,
+        "end": 587
+      },
+      {
+        "text": "the Technopark Zurich",
+        "label": "FAC",
+        "start": 616,
+        "end": 637
+      },
+      {
+        "text": "Schuck",
+        "label": "PERSON",
+        "start": 643,
+        "end": 649
+      },
+      {
+        "text": "Christian Burkard",
+        "label": "PERSON",
+        "start": 654,
+        "end": 671
+      },
+      {
+        "text": "acoustic",
+        "label": "NORP",
+        "start": 1334,
+        "end": 1342
+      },
+      {
+        "text": "Schuck",
+        "label": "PERSON",
+        "start": 1378,
+        "end": 1384
+      },
+      {
+        "text": "Schuck",
+        "label": "PERSON",
+        "start": 1406,
+        "end": 1412
+      },
+      {
+        "text": "ETH Pioneer Fellowship",
+        "label": "ORG",
+        "start": 1447,
+        "end": 1469
+      },
+      {
+        "text": "Schuck",
+        "label": "PERSON",
+        "start": 1625,
+        "end": 1631
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1839,
+        "end": 1844
+      },
+      {
+        "text": "Schuck",
+        "label": "PERSON",
+        "start": 2054,
+        "end": 2060
+      },
+      {
+        "text": "Schuck",
+        "label": "PERSON",
+        "start": 2075,
+        "end": 2081
+      },
+      {
+        "text": "the 150,000 Swiss francs",
+        "label": "MONEY",
+        "start": 2099,
+        "end": 2123
+      },
+      {
+        "text": "Schuck",
+        "label": "PERSON",
+        "start": 2615,
+        "end": 2621
+      },
+      {
+        "text": "the spring of 2021",
+        "label": "DATE",
+        "start": 2733,
+        "end": 2751
+      },
+      {
+        "text": "Schuck",
+        "label": "PERSON",
+        "start": 2753,
+        "end": 2759
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christian Burkard",
+        "Marc Röthlisberger",
+        "Marcel Schuck",
+        "Schuck"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Pioneer Fellowship",
+        "En News"
+      ],
+      "LOCATION": [
+        "the Technopark Zurich"
+      ],
+      "DATE": [
+        "31-year-old",
+        "more than 80 years",
+        "the spring of 2021"
+      ],
+      "MISC": [
+        "No-Touch Robotics",
+        "acoustic",
+        "first",
+        "the 150,000 Swiss francs",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Schuck": 11,
+      "two": 3,
+      "acoustic": 3,
+      "ETH Pioneer Fellowship": 2,
+      "ETH": 2,
+      "first": 2,
+      "En News": 1,
+      "Marcel Schuck": 1,
+      "No-Touch Robotics": 1,
+      "more than 80 years": 1,
+      "31-year-old": 1,
+      "Marc Röthlisberger": 1,
+      "the Technopark Zurich": 1,
+      "Christian Burkard": 1,
+      "the 150,000 Swiss francs": 1,
+      "the spring of 2021": 1
+    },
+    "total_entities": 33,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-robot-that-grips-without-touching.md",
+      "title": "En News Events/2020/01/the Robot That Grips Without Touching",
+      "language": "en",
+      "source_path": "en_news_events/2020/01/the-robot-that-grips-without-touching.html"
+    },
+    "temporal": {
+      "publication_date": "2020-01",
+      "mentioned_years": [
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christian Burkard",
+        "Marc Röthlisberger",
+        "Marcel Schuck",
+        "Schuck"
+      ],
+      "people_with_roles": {
+        "Christian Burkard": [
+          "student"
+        ],
+        "Marc Röthlisberger": [
+          "student"
+        ],
+        "Marcel Schuck": [
+          "head"
+        ],
+        "Schuck": [
+          "student",
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "No-Touch Robotics",
+        "acoustic",
+        "first",
+        "the 150,000 Swiss francs"
+      ],
+      "grants_funding": [
+        "fellowship",
+        "funding"
+      ],
+      "projects": [
+        "Marcel Schuck",
+        "No-Touch",
+        "En News",
+        "Robot That",
+        "Grips Without",
+        "Touching The",
+        "ETH Pioneer",
+        "Technopark Zurich",
+        "Christian Burkard"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Pioneer Fellowship",
+        "En News"
+      ],
+      "locations": [
+        "the Technopark Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Schuck",
+        "two",
+        "acoustic",
+        "ETH Pioneer Fellowship",
+        "ETH",
+        "first",
+        "En News",
+        "Marcel Schuck",
+        "No-Touch Robotics",
+        "more than 80 years"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Economic benefits as well",
+          "Economic benefits as well"
+        ],
+        "content_length": 4514
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Marcel Schuck",
+        "ETH",
+        "En News",
+        "fellowship",
+        "ETH Pioneer Fellowship",
+        "2020",
+        "Schuck",
+        "funding",
+        "2021",
+        "Marc Röthlisberger",
+        "Christian Burkard"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "where",
+        "No-Touch Robotics",
+        "the 150,000 Swiss francs",
+        "what",
+        "how",
+        "computer_science",
+        "why",
+        "when",
+        "acoustic"
+      ],
+      "graph_relations": [
+        "Christian Burkard_has_role_student",
+        "Marc Röthlisberger_has_role_student",
+        "Marcel Schuck_has_role_head",
+        "Schuck_has_role_student",
+        "Schuck_has_role_head",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

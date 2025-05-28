@@ -1,0 +1,380 @@
+{
+  "filename": "managing-rail-disruptions-more-effectively.md",
+  "original_filename": "managing-rail-disruptions-more-effectively.html",
+  "source_path": "en_news_events/2014/01/managing-rail-disruptions-more-effectively.html",
+  "date": "2014-01",
+  "title": "Managing Rail Disruptions More Effectively",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Predictable rail operations",
+      "text": "Last year, the trains of Swiss Federal Railways (SBB) were frequently late. Dense timetables and heavily used routes leave little leeway. As a result, even minor malfunctions or construction sites can throw the schedule out of sync – with negative consequences for the customer. \"It is almost impossible to avoid rail disruptions completely, but they can be managed more effectively,\" says Steffen Schranil, traffic engineer and, until recently, a doctoral student at ETH Zurich's Institute for Transport Planning and Systems. In his dissertation, Schranil tackled the issue of whether and how rail disruptions can be determined early and reliably – reliably enough to be able to draw conclusions about the expected duration of the disruption."
+    },
+    {
+      "heading": "Predictable rail operations",
+      "text": "Most rail disruptions are recurring events with a limited impact and duration, such as jammed doors or damaged tracks. More serious and longer incidents such as derailments are fairly rare in comparison. \"This is not just a fundamental requirement for stable rail operations – it also allows us to manage rail disruptions more effectively,\" explains the traffic engineer. In theory, this also makes it possible to predict disruptions.\n\nSchranil's method is based on a statistical analysis of previous incidents and the processes used to resolve them. The data was provided by SBB, Deutsche Bahn and a number of urban rail operators. Before being able to compare disruptions in the different rail systems, the researcher had to clarify the terminology. There are basically two types of disruptions: technical and operational disruptions. Examples of technical disruptions include broken air conditioning systems, faulty traction units and the notorious signal box malfunctions. These can affect the timetable and lead to delayed trains or missed connections: such deviations from the timetable are called operational disruptions. However, operational disruptions can also occur without technical causes, such as when a group of passengers is blocking a train that is ready to depart."
+    },
+    {
+      "heading": "Precise predictions",
+      "text": "On the basis of these two definitions, Schranil categorised numerous technical and operational disruptions according to their type and duration and looked for statistical patterns. He also analysed the time-related consequences of different disruptions, including the measures and processes that were needed to resolve the incidents. His aim: to calculate the probability of each event exceeding or falling below a certain duration. This has made it possible to draw conclusions such as: 80 percent of all traction unit malfunctions last for a maximum of 15 minutes. Specific information about a major disruption – such as the cause or the exact location – is also taken into account in the prediction process in order to increase the level of accuracy. This allows the duration of technical disruptions as well as the time-related consequences for rail operations to be predicted even more precisely."
+    },
+    {
+      "heading": "Relevant customer information",
+      "text": "These predictions also benefit the passengers, not just the staff who are assigned to resolve the disruptions as quickly as possible. \"In many cases, the level of uncertainty is particularly high at the start of the disruption, when railways tend to communicate too little and too imprecisely. There is potential for improvement in this area,\" says Schranil. His long-term objective is to only provide passengers with the information that is of interest to them – i.e. delays, timetable changes or connection problems affecting their journey.\n\nAccording to Schranil, who has been working for SBB since the late autumn of 2013, the rail operator is planning to use his prediction method in the future. A convenient way to implement it would be to incorporate the process into the existing rail management tools. However, a final decision has not yet been made. Nevertheless, there is a very good chance that Swiss rail passengers will some day benefit from more precise disruption predictions.\n\nSteffen Schranil: Prognose der Dauer von Störungen des Bahnbetriebs. Schriftenreihe Institut für Verkehrsplanung und Transportsysteme (IVT) ETH Zurich, number 164"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Last year",
+        "label": "DATE",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Swiss Federal Railways",
+        "label": "ORG",
+        "start": 25,
+        "end": 47
+      },
+      {
+        "text": "Steffen Schranil",
+        "label": "PERSON",
+        "start": 390,
+        "end": 406
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "ORG",
+        "start": 468,
+        "end": 480
+      },
+      {
+        "text": "Institute for Transport Planning and Systems",
+        "label": "ORG",
+        "start": 481,
+        "end": 525
+      },
+      {
+        "text": "Schranil",
+        "label": "GPE",
+        "start": 548,
+        "end": 556
+      },
+      {
+        "text": "Schranil",
+        "label": "GPE",
+        "start": 435,
+        "end": 443
+      },
+      {
+        "text": "SBB",
+        "label": "ORG",
+        "start": 575,
+        "end": 578
+      },
+      {
+        "text": "Deutsche Bahn",
+        "label": "ORG",
+        "start": 580,
+        "end": 593
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 771,
+        "end": 774
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "Schranil",
+        "label": "GPE",
+        "start": 39,
+        "end": 47
+      },
+      {
+        "text": "80 percent",
+        "label": "PERCENT",
+        "start": 488,
+        "end": 498
+      },
+      {
+        "text": "15 minutes",
+        "label": "TIME",
+        "start": 555,
+        "end": 565
+      },
+      {
+        "text": "Schranil",
+        "label": "PERSON",
+        "start": 349,
+        "end": 357
+      },
+      {
+        "text": "Schranil",
+        "label": "GPE",
+        "start": 556,
+        "end": 564
+      },
+      {
+        "text": "SBB",
+        "label": "ORG",
+        "start": 591,
+        "end": 594
+      },
+      {
+        "text": "the late autumn of",
+        "label": "DATE",
+        "start": 601,
+        "end": 619
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 906,
+        "end": 911
+      },
+      {
+        "text": "Steffen Schranil",
+        "label": "PERSON",
+        "start": 992,
+        "end": 1008
+      },
+      {
+        "text": "Dauer von Störungen",
+        "label": "PERSON",
+        "start": 1023,
+        "end": 1042
+      },
+      {
+        "text": "Transportsysteme",
+        "label": "GPE",
+        "start": 1109,
+        "end": 1125
+      },
+      {
+        "text": "IVT",
+        "label": "ORG",
+        "start": 1127,
+        "end": 1130
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1132,
+        "end": 1142
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dauer von Störungen",
+        "ETH Zurich",
+        "Schranil",
+        "Steffen Schranil"
+      ],
+      "ORG": [
+        "Deutsche Bahn",
+        "ETH Zurich's",
+        "IVT",
+        "Institute for Transport Planning and Systems",
+        "SBB",
+        "Swiss Federal Railways"
+      ],
+      "LOCATION": [
+        "Schranil",
+        "Transportsysteme"
+      ],
+      "DATE": [
+        "15 minutes",
+        "Last year",
+        "the late autumn of"
+      ],
+      "MISC": [
+        "80 percent",
+        "Swiss",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Schranil": 5,
+      "Steffen Schranil": 2,
+      "SBB": 2,
+      "two": 2,
+      "Last year": 1,
+      "Swiss Federal Railways": 1,
+      "ETH Zurich's": 1,
+      "Institute for Transport Planning and Systems": 1,
+      "Deutsche Bahn": 1,
+      "80 percent": 1,
+      "15 minutes": 1,
+      "the late autumn of": 1,
+      "Swiss": 1,
+      "Dauer von Störungen": 1,
+      "Transportsysteme": 1,
+      "IVT": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 24,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "managing-rail-disruptions-more-effectively.md",
+      "title": "En News Events/2014/01/managing Rail Disruptions More Effectively",
+      "language": "en",
+      "source_path": "en_news_events/2014/01/managing-rail-disruptions-more-effectively.html"
+    },
+    "temporal": {
+      "publication_date": "2014-01",
+      "mentioned_years": [
+        "2013",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Dauer von Störungen",
+        "ETH Zurich",
+        "Schranil",
+        "Steffen Schranil"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student"
+        ],
+        "Schranil": [
+          "student"
+        ],
+        "Steffen Schranil": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "mathematics"
+      ],
+      "research_topics": [
+        "80 percent",
+        "Swiss"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Swiss Federal",
+        "Schriftenreihe Institut",
+        "En News",
+        "Deutsche Bahn",
+        "Transport Planning",
+        "More Effectively",
+        "Steffen Schranil",
+        "ETH Zurich",
+        "Rail Disruptions"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Transport Planning and Systems"
+      ],
+      "institutions": [
+        "Deutsche Bahn",
+        "ETH Zurich's",
+        "IVT",
+        "Institute for Transport Planning and Systems",
+        "SBB",
+        "Swiss Federal Railways"
+      ],
+      "locations": [
+        "Schranil",
+        "Transportsysteme"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Schranil",
+        "Steffen Schranil",
+        "SBB",
+        "two",
+        "Last year",
+        "Swiss Federal Railways",
+        "ETH Zurich's",
+        "Institute for Transport Planning and Systems",
+        "Deutsche Bahn",
+        "80 percent"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Predictable rail operations",
+          "Predictable rail operations",
+          "Precise predictions",
+          "Relevant customer information"
+        ],
+        "content_length": 4151
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich's",
+        "IVT",
+        "Deutsche Bahn",
+        "Swiss Federal Railways",
+        "EU",
+        "2013",
+        "Institute for Transport Planning and Systems",
+        "SBB",
+        "Steffen Schranil",
+        "Dauer von Störungen",
+        "ETH Zurich",
+        "ERC",
+        "2014",
+        "Schranil"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "who",
+        "80 percent",
+        "Swiss",
+        "where",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "Schranil_has_role_student",
+        "Steffen Schranil_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

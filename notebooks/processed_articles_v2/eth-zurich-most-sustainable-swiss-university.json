@@ -1,0 +1,392 @@
+{
+  "filename": "eth-zurich-most-sustainable-swiss-university.md",
+  "original_filename": "eth-zurich-most-sustainable-swiss-university.html",
+  "source_path": "en_news_events/2021/08/eth-zurich-most-sustainable-swiss-university.html",
+  "date": "2021-08",
+  "title": "Eth Zurich Most Sustainable Swiss University",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Established in all areas",
+      "text": "Universities, universities of applied sciences and universities of teacher education play a pivotal role in the sustainable development of the economy and society. WWF Switzerland has conducted its third comparative study to assess just how sustainable the Swiss university landscape is. Ten criteria were examined in terms of strategy, processes, organisation and stakeholders, all of which play a key role in the extent to which sustainability is embedded in higher education in Switzerland.\n\nIn the rating study that has just been published, ETH Zurich ranks first place among 28 participating institutions, followed by the universities of Lausanne and Bern. The frontrunners all feature in the second-highest rating category of \"ambitious\". They pursue dedicated sustainability strategies and implement measures throughout their organisations.\n\nNo institution achieved the best possible classification of \"pioneer\". The authors write in their report, however, that ETH Zurich is on the verge of attaining pioneer status given its score of 89.92 out of a total possible 100 points."
+    },
+    {
+      "heading": "Established in all areas",
+      "text": "\"We are really pleased about this award and the great result,\" says Christine Bratrich, Director of ETH Sustainability. \"It shows that our long-standing commitment is also recognised outside the university and perceived as exemplary\". A large part of this success, she adds, can be attributed to the continued support of the entire Executive Board. \"Sustainability works when it is addressed by an institution's top administrative body,\" says Bratrich.\n\nThe study positively assessed the fact that sustainability has been an integral part of all relevant areas of ETH Zurich for over ten years. The university achieved the maximum number of points in each of the criteria – extent to which sustainability is embedded in university administration , strategic foundations and reporting and controlling . The inclusion of the sustainability committee, departmental chairs and professorial staff in strategic sustainability-related decisions was also emphasised.\n\nIn its research, the university develops the scientific and technical foundations for the sustainable development of the economy and society. The rating also recognises how ETH Zurich is continuously improving its sustainability performance in its capacity as a role model on campus and in dialogue with society.\n\n\"But educating students is perhaps the most important contribution a university can make to sustainable development,\" says Reto Knutti, climate physicist and delegate to the Executive Board for sustainability at ETH Zurich. \"Many of our students will go on to assume responsible leadership positions. Giving them solutions for a sustainable economy and society is enormously important and a huge responsibility.\"\n\nNevertheless, ETH Zurich does not intend to rest on its laurels. \"The next big challenge for Switzerland, as well as for us, is the net zero CO 2 target,\" Knutti notes. \"The federal government requires us to cut back our emissions – but we can think of the bigger picture. Through appropriate research projects and their implementation on campus, through teaching and policy dialogue, we have enormous potential to inspire other players in society outside our university.\""
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "WWF Switzerland",
+        "label": "ORG",
+        "start": 164,
+        "end": 179
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 198,
+        "end": 203
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 257,
+        "end": 262
+      },
+      {
+        "text": "Ten",
+        "label": "CARDINAL",
+        "start": 288,
+        "end": 291
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 481,
+        "end": 492
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 544,
+        "end": 554
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 561,
+        "end": 566
+      },
+      {
+        "text": "Lausanne and Bern",
+        "label": "FAC",
+        "start": 642,
+        "end": 659
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 697,
+        "end": 703
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 967,
+        "end": 977
+      },
+      {
+        "text": "89.92",
+        "label": "CARDINAL",
+        "start": 1041,
+        "end": 1046
+      },
+      {
+        "text": "Christine Bratrich",
+        "label": "PERSON",
+        "start": 68,
+        "end": 86
+      },
+      {
+        "text": "ETH Sustainability",
+        "label": "ORG",
+        "start": 100,
+        "end": 118
+      },
+      {
+        "text": "Executive Board",
+        "label": "ORG",
+        "start": 332,
+        "end": 347
+      },
+      {
+        "text": "Bratrich",
+        "label": "PERSON",
+        "start": 443,
+        "end": 451
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 563,
+        "end": 573
+      },
+      {
+        "text": "ten years",
+        "label": "DATE",
+        "start": 583,
+        "end": 592
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1131,
+        "end": 1141
+      },
+      {
+        "text": "Reto Knutti",
+        "label": "PERSON",
+        "start": 1394,
+        "end": 1405
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 1441,
+        "end": 1460
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1483,
+        "end": 1493
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1698,
+        "end": 1708
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1777,
+        "end": 1788
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 1820,
+        "end": 1824
+      },
+      {
+        "text": "Knutti",
+        "label": "PERSON",
+        "start": 1839,
+        "end": 1845
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bratrich",
+        "Christine Bratrich",
+        "ETH Zurich",
+        "Knutti",
+        "Reto Knutti"
+      ],
+      "ORG": [
+        "ETH Sustainability",
+        "ETH Zurich",
+        "Executive Board",
+        "WWF Switzerland",
+        "the Executive Board"
+      ],
+      "LOCATION": [
+        "Lausanne and Bern",
+        "Switzerland"
+      ],
+      "DATE": [
+        "ten years"
+      ],
+      "MISC": [
+        "89.92",
+        "Swiss",
+        "Ten",
+        "first",
+        "second",
+        "third",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 6,
+      "Switzerland": 2,
+      "WWF Switzerland": 1,
+      "third": 1,
+      "Swiss": 1,
+      "Ten": 1,
+      "first": 1,
+      "Lausanne and Bern": 1,
+      "second": 1,
+      "89.92": 1,
+      "Christine Bratrich": 1,
+      "ETH Sustainability": 1,
+      "Executive Board": 1,
+      "Bratrich": 1,
+      "ten years": 1,
+      "Reto Knutti": 1,
+      "the Executive Board": 1,
+      "zero": 1,
+      "Knutti": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-zurich-most-sustainable-swiss-university.md",
+      "title": "En News Events/2021/08/eth Zurich Most Sustainable Swiss University",
+      "language": "en",
+      "source_path": "en_news_events/2021/08/eth-zurich-most-sustainable-swiss-university.html"
+    },
+    "temporal": {
+      "publication_date": "2021-08",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bratrich",
+        "Christine Bratrich",
+        "ETH Zurich",
+        "Knutti",
+        "Reto Knutti"
+      ],
+      "people_with_roles": {
+        "Bratrich": [
+          "director",
+          "rector"
+        ],
+        "Christine Bratrich": [
+          "director",
+          "rector"
+        ],
+        "ETH Zurich": [
+          "student"
+        ],
+        "Knutti": [
+          "student"
+        ],
+        "Reto Knutti": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director",
+        "chair",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology"
+      ],
+      "research_topics": [
+        "89.92",
+        "Swiss",
+        "first",
+        "second",
+        "third",
+        "zero"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "University Universities",
+        "En News",
+        "Christine Bratrich",
+        "Reto Knutti",
+        "WWF Switzerland",
+        "Sustainable Swiss",
+        "Zurich Most",
+        "Executive Board",
+        "ETH Zurich",
+        "ETH Sustainability"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Sustainability",
+        "ETH Zurich",
+        "Executive Board",
+        "WWF Switzerland",
+        "the Executive Board"
+      ],
+      "locations": [
+        "Lausanne and Bern",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Switzerland",
+        "WWF Switzerland",
+        "third",
+        "Swiss",
+        "Ten",
+        "first",
+        "Lausanne and Bern",
+        "second",
+        "89.92"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Established in all areas",
+          "Established in all areas"
+        ],
+        "content_length": 3313
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Christine Bratrich",
+        "Reto Knutti",
+        "WWF Switzerland",
+        "Executive Board",
+        "Bratrich",
+        "the Executive Board",
+        "ETH Zurich",
+        "2021",
+        "ERC",
+        "Knutti",
+        "ETH Sustainability"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "third",
+        "zero",
+        "who",
+        "Swiss",
+        "what",
+        "second",
+        "how",
+        "climate_change",
+        "89.92",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Bratrich_has_role_director",
+        "Bratrich_has_role_rector",
+        "Christine Bratrich_has_role_director",
+        "Christine Bratrich_has_role_rector",
+        "ETH Zurich_has_role_student",
+        "Knutti_has_role_student",
+        "Reto Knutti_has_role_student",
+        "research_domain_climate_change",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

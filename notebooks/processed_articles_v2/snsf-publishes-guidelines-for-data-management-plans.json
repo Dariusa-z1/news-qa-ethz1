@@ -1,0 +1,147 @@
+{
+  "filename": "snsf-publishes-guidelines-for-data-management-plans.md",
+  "original_filename": "snsf-publishes-guidelines-for-data-management-plans.html",
+  "source_path": "en_internal/2017/05/snsf-publishes-guidelines-for-data-management-plans.html",
+  "date": "2017-05",
+  "title": "Snsf Publishes Guidelines For Data Management Plans",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The guidelines address researchers and give support in the creation of the data management plan:\n\nThe Digital Curation office at ETH Library is already offering guidance on this topic in their training courses and workshops .\n\nOn request, we give further tailor-made trainings for groups or advise ETH researchers individually."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Publishes Guidelines For Data Management",
+        "label": "ORG",
+        "start": 25,
+        "end": 65
+      },
+      {
+        "text": "Digital Curation",
+        "label": "ORG",
+        "start": 101,
+        "end": 117
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 128,
+        "end": 139
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 296,
+        "end": 299
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Digital Curation",
+        "ETH",
+        "ETH Library",
+        "Publishes Guidelines For Data Management"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Publishes Guidelines For Data Management": 1,
+      "Digital Curation": 1,
+      "ETH Library": 1,
+      "ETH": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "snsf-publishes-guidelines-for-data-management-plans.md",
+      "title": "En Internal/2017/05/snsf Publishes Guidelines For Data Management Plans",
+      "language": "en",
+      "source_path": "en_internal/2017/05/snsf-publishes-guidelines-for-data-management-plans.html"
+    },
+    "temporal": {
+      "publication_date": "2017-05",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "The Digital",
+        "For Data",
+        "ETH Library",
+        "Management Plans",
+        "En Internal",
+        "Publishes Guidelines"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Digital Curation",
+        "ETH",
+        "ETH Library",
+        "Publishes Guidelines For Data Management"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "Publishes Guidelines For Data Management",
+        "Digital Curation",
+        "ETH Library",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 399
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2017",
+        "ETH Library",
+        "Digital Curation",
+        "Publishes Guidelines For Data Management"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "filename": "ideen-eingeben-und-gewinnen.md",
+  "original_filename": "ideen-eingeben-und-gewinnen.html",
+  "source_path": "en_internal/2018/11/ideen-eingeben-und-gewinnen.html",
+  "date": "2018-11",
+  "title": "Ideen Eingeben Und Gewinnen",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Do you have any suggestions for one of the following questions?\n\nSubmit your ideas by 31 December 2018 at http://www.library.ethz.ch/ideas ! Enter the contests with your ideas and have the possibility of winning a voucher of your choice from ETH Store, Projekt Neptun, SBB or Swiss Book Vouchers worth up to CHF 300. This open innovation campaign enables ETH Library to garner opinions, requests and perspectives from the public with a view to creating added value and further developing its services together with its customers."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Eingeben",
+        "label": "ORG",
+        "start": 26,
+        "end": 34
+      },
+      {
+        "text": "31 December 2018",
+        "label": "DATE",
+        "start": 85,
+        "end": 101
+      },
+      {
+        "text": "ETH Store",
+        "label": "ORG",
+        "start": 241,
+        "end": 250
+      },
+      {
+        "text": "Projekt Neptun",
+        "label": "PERSON",
+        "start": 252,
+        "end": 266
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 307,
+        "end": 310
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 354,
+        "end": 365
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Projekt Neptun"
+      ],
+      "ORG": [
+        "CHF",
+        "ETH Library",
+        "ETH Store",
+        "Eingeben"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "31 December 2018"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Eingeben": 1,
+      "31 December 2018": 1,
+      "ETH Store": 1,
+      "Projekt Neptun": 1,
+      "CHF": 1,
+      "ETH Library": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ideen-eingeben-und-gewinnen.md",
+      "title": "En Internal/2018/11/ideen Eingeben und Gewinnen",
+      "language": "en",
+      "source_path": "en_internal/2018/11/ideen-eingeben-und-gewinnen.html"
+    },
+    "temporal": {
+      "publication_date": "2018-11",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Projekt Neptun"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Gewinnen Do",
+        "ETH Library",
+        "Projekt Neptun",
+        "ETH Store",
+        "En Internal",
+        "Swiss Book"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CHF",
+        "ETH Library",
+        "ETH Store",
+        "Eingeben"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Eingeben",
+        "31 December 2018",
+        "ETH Store",
+        "Projekt Neptun",
+        "CHF",
+        "ETH Library"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 577
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "CHF",
+        "ETH Library",
+        "Projekt Neptun",
+        "Eingeben",
+        "ETH Store"
+      ],
+      "semantic_concepts": [
+        "technology"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

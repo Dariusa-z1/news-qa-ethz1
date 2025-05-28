@@ -1,0 +1,123 @@
+{
+  "filename": "new-databases-web-of-science-core-collection.md",
+  "original_filename": "new-databases-web-of-science-core-collection.html",
+  "source_path": "en_internal/2015/01/new-databases-web-of-science-core-collection.html",
+  "date": "2015-01",
+  "title": "New Databases Web Of Science Core Collection",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "From 2015 on, the following additional databases are available:\n\nA new database category is the Data Citation Index. Research data in repositories of various disciplines can be searched with it.\n\nWeb of Science Core Collection"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Databases Web Of Science Core Collection",
+        "label": "WORK_OF_ART",
+        "start": 24,
+        "end": 64
+      },
+      {
+        "text": "Science Core Collection",
+        "label": "ORG",
+        "start": 201,
+        "end": 224
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Science Core Collection"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "Databases Web Of Science Core Collection"
+      ]
+    },
+    "entity_counts": {
+      "Databases Web Of Science Core Collection": 1,
+      "Science Core Collection": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-databases-web-of-science-core-collection.md",
+      "title": "En Internal/2015/01/new Databases Web Of Science Core Collection",
+      "language": "en",
+      "source_path": "en_internal/2015/01/new-databases-web-of-science-core-collection.html"
+    },
+    "temporal": {
+      "publication_date": "2015-01",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Databases Web Of Science Core Collection"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Core Collection",
+        "En Internal",
+        "Databases Web",
+        "Data Citation",
+        "Science Core",
+        "Of Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Science Core Collection"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "Databases Web Of Science Core Collection",
+        "Science Core Collection"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 291
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Science Core Collection",
+        "2015"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "Databases Web Of Science Core Collection"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

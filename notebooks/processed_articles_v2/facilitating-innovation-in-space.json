@@ -1,0 +1,628 @@
+{
+  "filename": "facilitating-innovation-in-space.md",
+  "original_filename": "facilitating-innovation-in-space.html",
+  "source_path": "en_news_events/2017/03/facilitating-innovation-in-space.html",
+  "date": "2017-03",
+  "title": "Facilitating Innovation In Space",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Environmental analyses from space",
+      "text": "There is still a cheerful atmosphere at the office of the spin-off \"IRsweep\", at the Institute for Quantum Electronics on the ETH Hönggerberg campus. The start-up founders – Andreas Hugi, Markus Geiser and Markus Mangold – and their three colleagues have every reason to celebrate: together with six other startups in the field of space technologies and applications – including four other ETH companies – IRsweep has been selected for the ESA BIC Switzerland programme. In the first phase, the companies will benefit from funding of EUR 50,000, and will also receive technological and business support from ESA BIC Switzerland’s extensive network of partners. The other start-ups are Pristem from EPFL and Skypull from Ticino as well as the ETH companies IRsweep , Anybotics , Diramics , Embotech und Fixposition . They all convinced the jury with ground-breaking technologies along with good business plans and commercial potential."
+    },
+    {
+      "heading": "Environmental analyses from space",
+      "text": "The core of IRsweep’s research activities is the “IRspectrometer” – a spectrometer that, in contrast to conventional infra-red spectrometers, uses laser radiation, which would allow it to be used for environmental analyses in space. “Satellite-based environmental analyses help to better understand global air pollution and its movement through the atmosphere,” explains Markus Mangold, Head of Technological Development at IRsweep. In practice, the IRspectrometer would be stationed on satellites and emit laser radiation towards the Earth. The radiation would cause molecules in the atmosphere to vibrate. Using the reflected spectrum, which is unique for each molecule, conclusions could be drawn about the material composition of the atmosphere. “Infra-red laser beams are a particularly intense light source and thus offer enormous precision,” says Mangold about the advantages of the device. However, it is still too big and above all too heavy for use in space. Thanks to the ESA BIC programme, the team now has the financial resources to adapt the device for use in the space industry."
+    },
+    {
+      "heading": "ESA BIC Switzerland",
+      "text": "Biological samples are mounted in the IRspectrometer’s chamber and irradiated with infra-red lasers. (Photography: IRsweep)\n\nWhen the team established their start-up in 2014, they were not focused on using their spectroscopy method for research projects in space. It was only after a call for projects that specifically asked for \"infra-red spectroscopy for biological samples in space\" that the team realised \"our products could also be useful in space,\" explains Mangold. The IRspectrometer was previously developed and used for medical and industrial research projects. The process offers one key advantage: speed, which is essential for biospectroscopy. Vital biological processes in the body, such as protein folding, occur so quickly that previous measuring methods could not record them. Infra-red laser beams now allow researchers to measure and observe these processes, which take place over a period of microseconds.\n\nThe use of the IRspectrometer could help to unravel the processes of proteopathies such as Alzheimer’s or Parkinson’s. IRsweep thus plans to develop applications for use in medicine as well as in space. \"In the coming weeks, we will intensify our collaboration with medical researchers and carry out initial test measurements,\" says Mangold.\n\nESA BIC is an initiative launched in 2003 by the European Space Agency (ESA). The Swiss-wide ESA BIC Switzerland programme, which is led by ETH Zurich, was launched in November 2016 and has since selected ten startups. Its goal is to promote startups in the field of space technologies and applications. ESA BIC Switzerland has the capacity to support up to ten startups every year. It collaborates with partners and sponsors to offer young entrepreneurs support for up to two years. In the first phase, the startups receive a total of EUR 50,000. The supported companies can then access up to EUR 450,000 of further funding in a second phase. The companies also benefit from individual coaching, networking activities and a Europe-wide network of industry and research contacts making ESA BIC one of the most attractive start-up programmes in Switzerland."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Innovation in Space",
+        "label": "WORK_OF_ART",
+        "start": 36,
+        "end": 55
+      },
+      {
+        "text": "the Institute for Quantum Electronics",
+        "label": "ORG",
+        "start": 81,
+        "end": 118
+      },
+      {
+        "text": "Andreas Hugi",
+        "label": "PERSON",
+        "start": 174,
+        "end": 186
+      },
+      {
+        "text": "Markus Geiser",
+        "label": "PERSON",
+        "start": 188,
+        "end": 201
+      },
+      {
+        "text": "Markus Mangold",
+        "label": "PERSON",
+        "start": 206,
+        "end": 220
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 233,
+        "end": 238
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 296,
+        "end": 299
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 379,
+        "end": 383
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 390,
+        "end": 393
+      },
+      {
+        "text": "IRsweep",
+        "label": "ORG",
+        "start": 406,
+        "end": 413
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 448,
+        "end": 459
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 478,
+        "end": 483
+      },
+      {
+        "text": "EUR 50,000",
+        "label": "ORG",
+        "start": 534,
+        "end": 544
+      },
+      {
+        "text": "ESA BIC",
+        "label": "ORG",
+        "start": 608,
+        "end": 615
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 616,
+        "end": 627
+      },
+      {
+        "text": "Pristem",
+        "label": "ORG",
+        "start": 685,
+        "end": 692
+      },
+      {
+        "text": "Skypull",
+        "label": "PERSON",
+        "start": 707,
+        "end": 714
+      },
+      {
+        "text": "Ticino",
+        "label": "PERSON",
+        "start": 720,
+        "end": 726
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 742,
+        "end": 745
+      },
+      {
+        "text": "IRsweep",
+        "label": "ORG",
+        "start": 756,
+        "end": 763
+      },
+      {
+        "text": "Diramics",
+        "label": "PERSON",
+        "start": 778,
+        "end": 786
+      },
+      {
+        "text": "Embotech",
+        "label": "GPE",
+        "start": 789,
+        "end": 797
+      },
+      {
+        "text": "IRsweep",
+        "label": "ORG",
+        "start": 12,
+        "end": 19
+      },
+      {
+        "text": "Markus Mangold",
+        "label": "PERSON",
+        "start": 371,
+        "end": 385
+      },
+      {
+        "text": "IRsweep",
+        "label": "ORG",
+        "start": 424,
+        "end": 431
+      },
+      {
+        "text": "IRspectrometer",
+        "label": "ORG",
+        "start": 450,
+        "end": 464
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 535,
+        "end": 540
+      },
+      {
+        "text": "Mangold",
+        "label": "GPE",
+        "start": 854,
+        "end": 861
+      },
+      {
+        "text": "IRspectrometer’s",
+        "label": "ORG",
+        "start": 38,
+        "end": 54
+      },
+      {
+        "text": "Mangold",
+        "label": "GPE",
+        "start": 464,
+        "end": 471
+      },
+      {
+        "text": "IRspectrometer",
+        "label": "ORG",
+        "start": 477,
+        "end": 491
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 591,
+        "end": 594
+      },
+      {
+        "text": "IRspectrometer",
+        "label": "ORG",
+        "start": 941,
+        "end": 955
+      },
+      {
+        "text": "IRsweep",
+        "label": "ORG",
+        "start": 1045,
+        "end": 1052
+      },
+      {
+        "text": "the coming weeks",
+        "label": "DATE",
+        "start": 1133,
+        "end": 1149
+      },
+      {
+        "text": "Mangold",
+        "label": "GPE",
+        "start": 1259,
+        "end": 1266
+      },
+      {
+        "text": "ESA BIC",
+        "label": "PERSON",
+        "start": 1268,
+        "end": 1275
+      },
+      {
+        "text": "the European Space Agency",
+        "label": "ORG",
+        "start": 1313,
+        "end": 1338
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 1340,
+        "end": 1343
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1350,
+        "end": 1355
+      },
+      {
+        "text": "BIC",
+        "label": "ORG",
+        "start": 1365,
+        "end": 1368
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1369,
+        "end": 1380
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1408,
+        "end": 1418
+      },
+      {
+        "text": "November 2016",
+        "label": "DATE",
+        "start": 1436,
+        "end": 1449
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 1473,
+        "end": 1476
+      },
+      {
+        "text": "ESA BIC Switzerland",
+        "label": "ORG",
+        "start": 1572,
+        "end": 1591
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 1626,
+        "end": 1629
+      },
+      {
+        "text": "every year",
+        "label": "DATE",
+        "start": 1639,
+        "end": 1649
+      },
+      {
+        "text": "up to two years",
+        "label": "DATE",
+        "start": 1735,
+        "end": 1750
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1759,
+        "end": 1764
+      },
+      {
+        "text": "EUR 50,000",
+        "label": "ORG",
+        "start": 1804,
+        "end": 1814
+      },
+      {
+        "text": "450,000",
+        "label": "CARDINAL",
+        "start": 1866,
+        "end": 1873
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1898,
+        "end": 1904
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1993,
+        "end": 1999
+      },
+      {
+        "text": "ESA BIC",
+        "label": "ORG",
+        "start": 2054,
+        "end": 2061
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2112,
+        "end": 2123
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andreas Hugi",
+        "Diramics",
+        "ESA BIC",
+        "ETH Zurich",
+        "Markus Geiser",
+        "Markus Mangold",
+        "Skypull",
+        "Ticino"
+      ],
+      "ORG": [
+        "BIC",
+        "ESA",
+        "ESA BIC",
+        "ESA BIC Switzerland",
+        "ETH",
+        "EUR 50,000",
+        "IRspectrometer",
+        "IRspectrometer’s",
+        "IRsweep",
+        "Pristem",
+        "the European Space Agency",
+        "the Institute for Quantum Electronics"
+      ],
+      "LOCATION": [
+        "Earth",
+        "Embotech",
+        "Europe",
+        "Mangold",
+        "Switzerland"
+      ],
+      "DATE": [
+        "November 2016",
+        "every year",
+        "the coming weeks",
+        "up to two years"
+      ],
+      "MISC": [
+        "450,000",
+        "Innovation in Space",
+        "Swiss",
+        "first",
+        "four",
+        "one",
+        "second",
+        "six",
+        "ten",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "IRsweep": 5,
+      "Switzerland": 4,
+      "ESA BIC": 3,
+      "IRspectrometer": 3,
+      "Mangold": 3,
+      "Markus Mangold": 2,
+      "ETH": 2,
+      "first": 2,
+      "EUR 50,000": 2,
+      "ten": 2,
+      "Innovation in Space": 1,
+      "the Institute for Quantum Electronics": 1,
+      "Andreas Hugi": 1,
+      "Markus Geiser": 1,
+      "three": 1,
+      "six": 1,
+      "four": 1,
+      "Pristem": 1,
+      "Skypull": 1,
+      "Ticino": 1
+    },
+    "total_entities": 56,
+    "unique_entities": 38
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "facilitating-innovation-in-space.md",
+      "title": "En News Events/2017/03/facilitating Innovation in Space",
+      "language": "en",
+      "source_path": "en_news_events/2017/03/facilitating-innovation-in-space.html"
+    },
+    "temporal": {
+      "publication_date": "2017-03",
+      "mentioned_years": [
+        "2003",
+        "2014",
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andreas Hugi",
+        "Diramics",
+        "ESA BIC",
+        "ETH Zurich",
+        "Markus Geiser",
+        "Markus Mangold",
+        "Skypull",
+        "Ticino"
+      ],
+      "people_with_roles": {
+        "Markus Mangold": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "physics"
+      ],
+      "research_topics": [
+        "450,000",
+        "Innovation in Space",
+        "Swiss",
+        "first",
+        "four",
+        "second",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "funding"
+      ],
+      "projects": [
+        "Markus Geiser",
+        "Markus Mangold",
+        "Technological Development",
+        "The IRspectrometer",
+        "European Space",
+        "En News",
+        "Space There",
+        "Andreas Hugi",
+        "Quantum Electronics",
+        "The Swiss",
+        "ETH Zurich",
+        "ESA BIC"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Quantum Electronics on the ETH H"
+      ],
+      "institutions": [
+        "BIC",
+        "ESA",
+        "ESA BIC",
+        "ESA BIC Switzerland",
+        "ETH",
+        "EUR 50,000",
+        "IRspectrometer",
+        "IRspectrometer’s",
+        "IRsweep",
+        "Pristem",
+        "the European Space Agency",
+        "the Institute for Quantum Electronics"
+      ],
+      "locations": [
+        "Earth",
+        "Embotech",
+        "Europe",
+        "Mangold",
+        "Switzerland"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "IRsweep",
+        "Switzerland",
+        "ESA BIC",
+        "IRspectrometer",
+        "Mangold",
+        "Markus Mangold",
+        "ETH",
+        "first",
+        "EUR 50,000",
+        "ten"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Environmental analyses from space",
+          "Environmental analyses from space",
+          "ESA BIC Switzerland"
+        ],
+        "content_length": 4212
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Pristem",
+        "ETH",
+        "Andreas Hugi",
+        "2016",
+        "2003",
+        "ERC",
+        "IRsweep",
+        "the Institute for Quantum Electronics",
+        "ESA",
+        "funding",
+        "EUR 50,000",
+        "Skypull",
+        "2014",
+        "EU",
+        "IRspectrometer",
+        "ESA BIC Switzerland",
+        "Diramics",
+        "ESA BIC",
+        "Markus Geiser",
+        "Markus Mangold",
+        "the European Space Agency",
+        "2017",
+        "Ticino",
+        "ETH Zurich",
+        "IRspectrometer’s",
+        "BIC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "three",
+        "Innovation in Space",
+        "four",
+        "who",
+        "Swiss",
+        "450,000",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Markus Mangold_has_role_head",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

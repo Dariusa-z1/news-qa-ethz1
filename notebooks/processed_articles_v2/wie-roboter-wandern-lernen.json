@@ -1,0 +1,517 @@
+{
+  "filename": "wie-roboter-wandern-lernen.md",
+  "original_filename": "wie-roboter-wandern-lernen.html",
+  "source_path": "de_news_events/2022/01/wie-roboter-wandern-lernen.html",
+  "date": "2022-01",
+  "title": "Wie Roboter Wandern Lernen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Die Umwelt richtig wahrnehmen",
+      "text": "Steile Passagen auf rutschigem Untergrund, hohe Stufen, Geröll und Waldwege mit Wurzeln: Der Weg auf den 1098 Meter hohen Berg Etzel am südlichen Ende des Zürichsees ist gepflastert mit zahlreichen Hindernissen. Doch ANYmal, der vierbeinige Laufroboter des Robotic Systems Lab der ETH Zürich, überwindet die 120 Höhenmeter mühelos und steht nach 31-minütigem Aufstieg auf dem Gipfel. Vier Minuten schneller, als für menschliche Wanderer vorgesehen. Und das ohne Sturz oder Fehler.\n\nMöglich wird dies durch eine neue Steuerungstechnologie, die Forschende der ETH Zürich um Robotik-Professor Marco Hutter kürzlich in der Fachzeitschrift Science Robotics präsentierten . «Der Roboter hat gelernt, die visuelle Wahrnehmung der Umwelt mit der auf direktem Beinkontakt beruhenden Tastwahrnehmung zu kombinieren. Er kann dadurch unwegsames Gelände schneller, effizienter und vor allem robuster bewältigen», sagt Hutter. In Zukunft kann ANYmal überall dort eingesetzt werden, wo es für Menschen zu gefährlich oder für andere Roboter zu unwegsam ist."
+    },
+    {
+      "heading": "Die Umwelt richtig wahrnehmen",
+      "text": "Um sich in schwierigem Gelände zu bewegen, kombinieren Menschen und Tiere ganz automatisch die visuelle Wahrnehmung ihrer Umwelt mit dem Tastsinn ihrer Beine und Hände. So können sie problemlos mit rutschigem oder nachgiebigem Untergrund umgehen und sich auch bei schlechten Sichtverhältnissen zuverlässig fortbewegen. Bis anhin waren Laufroboter nur bedingt dazu in der Lage.\n\n«Der Grund dafür ist, dass die von Laser-Sensoren und Kameras aufgezeichneten Informationen zur unmittelbaren Umgebung oft unvollständig und mehrdeutig sind», erklärt Takahiro Miki, Doktorand in Hutters Gruppe und Erstautor der Studie. So erscheinen etwa hohes Gras, seichte Pfützen oder Schnee als unüberwindbare Hindernisse oder sind teilweise unsichtbar, obwohl der Roboter eigentlich darüber hinweglaufen könnte. Zudem kann der Blick des Roboters im Einsatz durch schwierige Lichtverhältnisse, Staub oder Nebel gestört werden.\n\n«Roboter wie ANYmal müssen daher selbstständig entscheiden können, wann sie Bildern ihrer Umwelt vertrauen und zügig voranschreiten und wann sie sich besser vorsichtig und mit kleinen Schritten vorantasten», so Miki. «Darin liegt die grosse Herausforderung.»"
+    },
+    {
+      "heading": "Im virtuellen Trainingslager",
+      "text": "Durch ein neues Steuerungssystem, das auf einem neuronalen Netzwerk basiert, ist der von ETH-Forschenden entwickelte und vom ETH Spin-off externe Seite ANYbotics kommerzialisierte Laufroboter ANYmal nun erstmals in der Lage, Aussen- und Tastwahrnehmung zu kombinieren. Bevor der Roboter seine Fähigkeiten in der Natur unter Beweis stellen konnte, haben die Wissenschaftlerinnen und Wissenschaftler das System in einem virtuellen Trainingslager mit zahlreichen Hindernissen und Fehlerquellen konfrontiert. Dadurch lernte das Netzwerk, wie der Roboter optimal Hindernisse überwindet und wann er dabei auf Umweltdaten vertrauen kann, oder diese besser ignoriert.\n\n«Mit diesem Training ist der Roboter in der Lage, schwierigstes Gelände in der Natur zu bewältigen, ohne dieses vorher gesehen zu haben», sagt ETH-Professor Hutter. Dies funktioniert selbst dann, wenn die Sensordaten der unmittelbaren Umgebung mehrdeutig oder diffus sind. ANYmal geht dann auf Nummer sicher und verlässt sich auf seinen Tastsinn. Damit, so Hutter, kombiniere der Roboter das Beste aus beiden Welten: die Geschwindigkeit und Effizienz der Aussen- und die Sicherheit der Tastwahrnehmung."
+    },
+    {
+      "heading": "Einsatz unter Extrembedingungen",
+      "text": "Ob nach einem Erdbeben, nach einer nuklearen Katastrophe oder während eines Waldbrandes: Zur Anwendung kommen können Roboter wie ANYmal vor allem dort, wo es für Menschen zu gefährlich ist und wo andere Roboter auf Grund des schwierigen Geländes nicht mehr einsetzbar sind.\n\nWie gut die neue Steuerungstechnologie funktioniert, konnte ANYmal im September letzten Jahres an der Darpa Subterranean Challenge , dem bekanntesten Roboterwettbewerb der Welt, unter Beweis stellen. Der ETH-Roboter überwand in einem schmalen, unterirdischen Tunnel- und Höhlensystem automatisch und schnell zahlreiche Hindernisse und schwieriges Terrain. Dies trug massgeblich dazu bei, dass ETH-Forschende als Teil des Team Cerberus den ersten Platz erzielten und ein Preisgeld von 2 Millionen Dollar gewannen.\n\nMiki T, Lee J, Hwangbo J, Wellhausen L: Learning robust perceptive locomotion for quadrupedal robots in the wild, Science Robotics 2022, doi: externe Seite 10.1126/scirobotics.abk2822"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Wandern Lernen",
+        "label": "MISC",
+        "start": 35,
+        "end": 49
+      },
+      {
+        "text": "Waldwege",
+        "label": "LOC",
+        "start": 67,
+        "end": 75
+      },
+      {
+        "text": "Etzel",
+        "label": "LOC",
+        "start": 127,
+        "end": 132
+      },
+      {
+        "text": "Zürichsees",
+        "label": "LOC",
+        "start": 155,
+        "end": 165
+      },
+      {
+        "text": "ANYmal",
+        "label": "MISC",
+        "start": 217,
+        "end": 223
+      },
+      {
+        "text": "Robotic Systems Lab",
+        "label": "ORG",
+        "start": 257,
+        "end": 276
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 281,
+        "end": 291
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 557,
+        "end": 567
+      },
+      {
+        "text": "Marco Hutter",
+        "label": "PER",
+        "start": 589,
+        "end": 601
+      },
+      {
+        "text": "Science Robotics",
+        "label": "ORG",
+        "start": 634,
+        "end": 650
+      },
+      {
+        "text": "ANYmal",
+        "label": "MISC",
+        "start": 928,
+        "end": 934
+      },
+      {
+        "text": "Takahiro Miki",
+        "label": "PER",
+        "start": 544,
+        "end": 557
+      },
+      {
+        "text": "Hutters Gruppe",
+        "label": "ORG",
+        "start": 572,
+        "end": 586
+      },
+      {
+        "text": "Erstautor",
+        "label": "ORG",
+        "start": 591,
+        "end": 600
+      },
+      {
+        "text": "Nebel",
+        "label": "LOC",
+        "start": 886,
+        "end": 891
+      },
+      {
+        "text": "ANYmal",
+        "label": "MISC",
+        "start": 921,
+        "end": 927
+      },
+      {
+        "text": "Miki",
+        "label": "PER",
+        "start": 1119,
+        "end": 1123
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 89,
+        "end": 104
+      },
+      {
+        "text": "ETH Spin-off",
+        "label": "ORG",
+        "start": 125,
+        "end": 137
+      },
+      {
+        "text": "ANYbotics",
+        "label": "PER",
+        "start": 152,
+        "end": 161
+      },
+      {
+        "text": "ANYmal",
+        "label": "MISC",
+        "start": 192,
+        "end": 198
+      },
+      {
+        "text": "Wissenschaftlerinnen",
+        "label": "LOC",
+        "start": 357,
+        "end": 377
+      },
+      {
+        "text": "ETH-Professor Hutter",
+        "label": "PER",
+        "start": 803,
+        "end": 823
+      },
+      {
+        "text": "ANYmal",
+        "label": "MISC",
+        "start": 933,
+        "end": 939
+      },
+      {
+        "text": "Hutter",
+        "label": "PER",
+        "start": 1017,
+        "end": 1023
+      },
+      {
+        "text": "ANYmal",
+        "label": "MISC",
+        "start": 129,
+        "end": 135
+      },
+      {
+        "text": "Geländes",
+        "label": "PER",
+        "start": 237,
+        "end": 245
+      },
+      {
+        "text": "ANYmal",
+        "label": "MISC",
+        "start": 334,
+        "end": 340
+      },
+      {
+        "text": "Darpa Subterranean Challenge",
+        "label": "MISC",
+        "start": 376,
+        "end": 404
+      },
+      {
+        "text": "ETH-Roboter",
+        "label": "ORG",
+        "start": 478,
+        "end": 489
+      },
+      {
+        "text": "ETH-Forschende",
+        "label": "ORG",
+        "start": 667,
+        "end": 681
+      },
+      {
+        "text": "Miki T",
+        "label": "PER",
+        "start": 787,
+        "end": 793
+      },
+      {
+        "text": "Lee J",
+        "label": "PER",
+        "start": 795,
+        "end": 800
+      },
+      {
+        "text": "Hwangbo J",
+        "label": "PER",
+        "start": 802,
+        "end": 811
+      },
+      {
+        "text": "Wellhausen",
+        "label": "LOC",
+        "start": 813,
+        "end": 823
+      },
+      {
+        "text": "Learning",
+        "label": "LOC",
+        "start": 827,
+        "end": 835
+      },
+      {
+        "text": "Science Robotics 2022",
+        "label": "MISC",
+        "start": 901,
+        "end": 922
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ANYbotics",
+        "De News",
+        "ETH-Professor Hutter",
+        "Geländes",
+        "Hutter",
+        "Hwangbo J",
+        "Lee J",
+        "Marco Hutter",
+        "Miki",
+        "Miki T",
+        "Takahiro Miki"
+      ],
+      "ORG": [
+        "ETH Spin-off",
+        "ETH Zürich",
+        "ETH-Forschende",
+        "ETH-Forschenden",
+        "ETH-Roboter",
+        "Erstautor",
+        "Hutters Gruppe",
+        "Robotic Systems Lab",
+        "Science Robotics"
+      ],
+      "LOCATION": [
+        "Etzel",
+        "Learning",
+        "Nebel",
+        "Waldwege",
+        "Wellhausen",
+        "Wissenschaftlerinnen",
+        "Zürichsees"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ANYmal",
+        "Darpa Subterranean Challenge",
+        "Science Robotics 2022",
+        "Wandern Lernen"
+      ]
+    },
+    "entity_counts": {
+      "ANYmal": 7,
+      "ETH Zürich": 2,
+      "De News": 1,
+      "Wandern Lernen": 1,
+      "Waldwege": 1,
+      "Etzel": 1,
+      "Zürichsees": 1,
+      "Robotic Systems Lab": 1,
+      "Marco Hutter": 1,
+      "Science Robotics": 1,
+      "Takahiro Miki": 1,
+      "Hutters Gruppe": 1,
+      "Erstautor": 1,
+      "Nebel": 1,
+      "Miki": 1,
+      "ETH-Forschenden": 1,
+      "ETH Spin-off": 1,
+      "ANYbotics": 1,
+      "Wissenschaftlerinnen": 1,
+      "ETH-Professor Hutter": 1
+    },
+    "total_entities": 38,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "wie-roboter-wandern-lernen.md",
+      "title": "De News Events/2022/01/wie Roboter Wandern Lernen",
+      "language": "de",
+      "source_path": "de_news_events/2022/01/wie-roboter-wandern-lernen.html"
+    },
+    "temporal": {
+      "publication_date": "2022-01",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ANYbotics",
+        "De News",
+        "ETH-Professor Hutter",
+        "Geländes",
+        "Hutter",
+        "Hwangbo J",
+        "Lee J",
+        "Marco Hutter",
+        "Miki",
+        "Miki T",
+        "Takahiro Miki"
+      ],
+      "people_with_roles": {
+        "ETH-Professor Hutter": [
+          "professor"
+        ],
+        "Hutter": [
+          "Professor",
+          "professor"
+        ],
+        "Marco Hutter": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ANYmal",
+        "Darpa Subterranean Challenge",
+        "Science Robotics 2022",
+        "Wandern Lernen"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "ETH-Professor",
+        "Berg Etzel",
+        "Hutters Gruppe",
+        "Marco Hutter",
+        "Darpa Subterranean",
+        "Millionen Dollar",
+        "Lernen Steile",
+        "Robotic Systems",
+        "Doch ANYmal",
+        "Der ETH",
+        "Der Weg",
+        "Team Cerberus",
+        "Miki T",
+        "Robotik-Professor",
+        "Seite ANYbotics",
+        "Fachzeitschrift Science",
+        "Roboter Wandern",
+        "Laser-Sensoren",
+        "Lee J",
+        "Laufroboter ANYmal",
+        "Der Roboter",
+        "Zur Anwendung",
+        "Der Grund",
+        "In Zukunft",
+        "Hwangbo J",
+        "ETH Spin",
+        "Takahiro Miki",
+        "ETH-Forschenden",
+        "De News",
+        "Vier Minuten",
+        "ETH-Forschende",
+        "Science Robotics",
+        "Wellhausen L"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Spin-off",
+        "ETH Zürich",
+        "ETH-Forschende",
+        "ETH-Forschenden",
+        "ETH-Roboter",
+        "Erstautor",
+        "Hutters Gruppe",
+        "Robotic Systems Lab",
+        "Science Robotics"
+      ],
+      "locations": [
+        "Etzel",
+        "Learning",
+        "Nebel",
+        "Waldwege",
+        "Wellhausen",
+        "Wissenschaftlerinnen",
+        "Zürichsees"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "ANYmal",
+        "ETH Zürich",
+        "De News",
+        "Wandern Lernen",
+        "Waldwege",
+        "Etzel",
+        "Zürichsees",
+        "Robotic Systems Lab",
+        "Marco Hutter",
+        "Science Robotics"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Die Umwelt richtig wahrnehmen",
+          "Die Umwelt richtig wahrnehmen",
+          "Im virtuellen Trainingslager",
+          "Einsatz unter Extrembedingungen"
+        ],
+        "content_length": 4397
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hutters Gruppe",
+        "ERC",
+        "Marco Hutter",
+        "Erstautor",
+        "Miki",
+        "Hutter",
+        "ETH Zürich",
+        "2022",
+        "ETH-Professor Hutter",
+        "ETH-Roboter",
+        "ANYbotics",
+        "Miki T",
+        "ETH Spin-off",
+        "EU",
+        "Lee J",
+        "Robotic Systems Lab",
+        "Geländes",
+        "Hwangbo J",
+        "Takahiro Miki",
+        "ETH-Forschenden",
+        "De News",
+        "ETH-Forschende",
+        "Science Robotics"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ANYmal",
+        "Darpa Subterranean Challenge",
+        "who",
+        "Wandern Lernen",
+        "Science Robotics 2022",
+        "when"
+      ],
+      "graph_relations": [
+        "ETH-Professor Hutter_has_role_professor",
+        "Hutter_has_role_Professor",
+        "Hutter_has_role_professor",
+        "Marco Hutter_has_role_Professor",
+        "Marco Hutter_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

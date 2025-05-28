@@ -1,0 +1,193 @@
+{
+  "filename": "archive-in-bewegung-digitale-sammlungen-und-experimentale-museologie.md",
+  "original_filename": "archive-in-bewegung-digitale-sammlungen-und-experimentale-museologie.html",
+  "source_path": "en_internal/2019/05/archive-in-bewegung-digitale-sammlungen-und-experimentale-museologie.html",
+  "date": "2019-05",
+  "title": "Archive In Bewegung Digitale Sammlungen Und Experimentale Museologie",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Professor Sarah Kenderdine (EPFL) researches at the forefront of interactive and immersive experiences for archives, museums, galleries and libraries. Her presentation focuses on transdisciplinary initiatives at the intersection of immersive visualisation technologies, visual analytics, aesthetics as well as cultural (big) data to explore cultural heritage from scientific, artistic and humanistic perspectives.\n\nThe event language is English\n\nFurther information and registration\n\nThe 17:15 Colloquium offers a platform for further education and discussion on the subject matter presented. The formula is a 30-minute presentation + a 30-minute discussion + a subsequent drinks reception = inspiration for our daily working lives."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Bewegung Digitale Sammlungen",
+        "label": "ORG",
+        "start": 31,
+        "end": 59
+      },
+      {
+        "text": "Experimentale Museologie",
+        "label": "PERSON",
+        "start": 64,
+        "end": 88
+      },
+      {
+        "text": "Sarah Kenderdine",
+        "label": "PERSON",
+        "start": 10,
+        "end": 26
+      },
+      {
+        "text": "English",
+        "label": "NORP",
+        "start": 436,
+        "end": 443
+      },
+      {
+        "text": "30-minute",
+        "label": "TIME",
+        "start": 607,
+        "end": 616
+      },
+      {
+        "text": "30-minute",
+        "label": "TIME",
+        "start": 634,
+        "end": 643
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 709,
+        "end": 714
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Experimentale Museologie",
+        "Sarah Kenderdine"
+      ],
+      "ORG": [
+        "Bewegung Digitale Sammlungen"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "30-minute",
+        "daily"
+      ],
+      "MISC": [
+        "English"
+      ]
+    },
+    "entity_counts": {
+      "30-minute": 2,
+      "Bewegung Digitale Sammlungen": 1,
+      "Experimentale Museologie": 1,
+      "Sarah Kenderdine": 1,
+      "English": 1,
+      "daily": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "archive-in-bewegung-digitale-sammlungen-und-experimentale-museologie.md",
+      "title": "En Internal/2019/05/archive in Bewegung Digitale Sammlungen und Experimentale Museologie",
+      "language": "en",
+      "source_path": "en_internal/2019/05/archive-in-bewegung-digitale-sammlungen-und-experimentale-museologie.html"
+    },
+    "temporal": {
+      "publication_date": "2019-05",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Experimentale Museologie",
+        "Sarah Kenderdine"
+      ],
+      "people_with_roles": {
+        "Experimentale Museologie": [
+          "professor"
+        ],
+        "Sarah Kenderdine": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics"
+      ],
+      "research_topics": [
+        "English"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Professor Sarah",
+        "Experimentale Museologie",
+        "Bewegung Digitale",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bewegung Digitale Sammlungen"
+      ],
+      "locations": [],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "30-minute",
+        "Bewegung Digitale Sammlungen",
+        "Experimentale Museologie",
+        "Sarah Kenderdine",
+        "English",
+        "daily"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 821
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Experimentale Museologie",
+        "2019",
+        "EU",
+        "Sarah Kenderdine",
+        "Bewegung Digitale Sammlungen"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "who",
+        "English",
+        "what"
+      ],
+      "graph_relations": [
+        "Experimentale Museologie_has_role_professor",
+        "Sarah Kenderdine_has_role_Professor",
+        "Sarah Kenderdine_has_role_professor",
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

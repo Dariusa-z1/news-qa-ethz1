@@ -1,0 +1,840 @@
+{
+  "filename": "pr-global-glacier-retreat-has-accelerated.md",
+  "original_filename": "pr-global-glacier-retreat-has-accelerated.html",
+  "source_path": "en_news_events/2021/04/pr-global-glacier-retreat-has-accelerated.html",
+  "date": "2021-04",
+  "title": "Pr Global Glacier Retreat Has Accelerated",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Rising sea levels and water scarcity",
+      "text": "Glaciers are a sensitive indicator of climate change – and one that can be easily observed. Regardless of altitude or latitude, glaciers have been melting at a high rate since the mid-20th century. Until now, however, the full extent of ice loss has only been partially measured and understood. Now an international research team led by ETH Zurich and the University of Toulouse has authored a comprehensive study on global glacier retreat, which was published online in Nature on 28 April. This is the first study to include all the world’s glaciers – around 220,000 in total – excluding the Greenland and Antarctic ice sheets. The study’s spatial and temporal resolution is unprecedented – and shows how rapidly glaciers have lost thickness and mass over the past two decades."
+    },
+    {
+      "heading": "Rising sea levels and water scarcity",
+      "text": "Among the fastest melting glaciers are those in Alaska, Iceland and the Alps. The situation is also having a profound effect on mountain glaciers in the Pamir mountains, the Hindu Kush and the Himalayas. “The situation in the Himalayas is particularly worrying,” explains Romain Hugonnet, lead author of the study and researcher at ETH Zurich and the University of Toulouse. “During the dry season, glacial meltwater is an important source that feeds major waterways such as the Ganges, Brahmaputra and Indus rivers. Right now, this increased melting acts as a buffer for people living in the region, but if Himalayan glacier shrinkage keeps accelerating, populous countries like India and Bangladesh could face water or food shortages in a few decades.” The findings of this study can improve hydrological models and be used to make more accurate predictions on a global and local scales – for instance, to estimate how much Himalayan glacier meltwater one can anticipate over the next few decades.\n\nTo their surprise, the researchers also identified areas where melt rates slowed between 2000 and 2019, such as on Greenland’s east coast and in Iceland and Scandinavia. They attribute this divergent pattern to a weather anomaly in the North Atlantic that caused higher precipitation and lower temperatures between 2010 and 2019, thereby slowing ice loss. The researchers also discovered that the phenomenon known as the Karakoram anomaly is disappearing. Prior to 2010, glaciers in the Karakoram mountain range were stable – and in some cases, even growing. However, the researchers’ analysis revealed that Karakoram glaciers are now losing mass as well."
+    },
+    {
+      "heading": "Study based on stereo satellite images",
+      "text": "As a basis for the study, the research team used imagery captured on board NASA’s Terra satellite, which has been orbiting the Earth once every 100 minutes since 1999 at an altitude of nearly 700 kilometres. Terra is home to ASTER, a multispectral imager with two cameras that record pairs of stereo images, allowing researchers to create high-resolution digital elevation models of all the world’s glaciers. The team used the full archive of ASTER images to reconstruct a time series of glacial elevation, which enabled them to calculate changes in the thickness and mass of the ice over time.\n\nLead author Romain Hugonnet is a doctoral student at ETH Zurich and the University of Toulouse. He worked on this project for nearly three years and spent 18 months analysing the satellite data. To process the data, the researchers used a supercomputer at the University of Northern British Columbia. Their findings will be included in the next Assessment Report of the United Nations Intergovernmental Panel on Climate Change (IPCC), which is due to be published later this year. “Our findings are important on a political level. The world really needs to act now to prevent the worst-case climate change scenario,” says co-author Daniel Farinotti, head of the glaciology group at ETH Zurich and the Swiss Federal Institute for Forest, Snow and Landscape Research WSL.\n\nAlongside the University of Toulouse, ETH Zurich and WSL, other institutions that participated in the study include Ulster University in the UK, the University of Oslo in Norway and the University of Northern British Columbia in Canada (please refer to the study for a complete list)."
+    },
+    {
+      "heading": "Reference",
+      "text": "Hugonnet R, McNabb R, Berthier E, Menounos B, Nuth C, Girod L, Farinotti D, Huss M, Dussaillant I, Brun F, Kääb A. Accelerated global glacier mass loss in the early twenty-first century, Nature, published online April 28th 2021. DOI: 10.1038/s41586-021-03436-z"
+    },
+    {
+      "heading": "Contact",
+      "text": "ETH Zurich Media Relations Phone: +41 44 632 41 41"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Global Glacier Retreat",
+        "label": "ORG",
+        "start": 26,
+        "end": 48
+      },
+      {
+        "text": "the mid-20th century",
+        "label": "DATE",
+        "start": 176,
+        "end": 196
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 337,
+        "end": 347
+      },
+      {
+        "text": "the University of Toulouse",
+        "label": "ORG",
+        "start": 352,
+        "end": 378
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 471,
+        "end": 477
+      },
+      {
+        "text": "28 April",
+        "label": "DATE",
+        "start": 481,
+        "end": 489
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 503,
+        "end": 508
+      },
+      {
+        "text": "around 220,000",
+        "label": "CARDINAL",
+        "start": 553,
+        "end": 567
+      },
+      {
+        "text": "Greenland",
+        "label": "GPE",
+        "start": 593,
+        "end": 602
+      },
+      {
+        "text": "Antarctic",
+        "label": "LOC",
+        "start": 607,
+        "end": 616
+      },
+      {
+        "text": "the past two decades",
+        "label": "DATE",
+        "start": 757,
+        "end": 777
+      },
+      {
+        "text": "Alaska",
+        "label": "GPE",
+        "start": 48,
+        "end": 54
+      },
+      {
+        "text": "Iceland",
+        "label": "GPE",
+        "start": 56,
+        "end": 63
+      },
+      {
+        "text": "Alps",
+        "label": "LOC",
+        "start": 72,
+        "end": 76
+      },
+      {
+        "text": "the Pamir mountains",
+        "label": "LOC",
+        "start": 149,
+        "end": 168
+      },
+      {
+        "text": "the Hindu Kush",
+        "label": "ORG",
+        "start": 170,
+        "end": 184
+      },
+      {
+        "text": "Himalayas",
+        "label": "FAC",
+        "start": 226,
+        "end": 235
+      },
+      {
+        "text": "Romain Hugonnet",
+        "label": "PERSON",
+        "start": 272,
+        "end": 287
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 332,
+        "end": 342
+      },
+      {
+        "text": "the University of Toulouse",
+        "label": "ORG",
+        "start": 347,
+        "end": 373
+      },
+      {
+        "text": "the dry season",
+        "label": "DATE",
+        "start": 383,
+        "end": 397
+      },
+      {
+        "text": "Ganges",
+        "label": "ORG",
+        "start": 479,
+        "end": 485
+      },
+      {
+        "text": "Brahmaputra",
+        "label": "ORG",
+        "start": 487,
+        "end": 498
+      },
+      {
+        "text": "Himalayan",
+        "label": "NORP",
+        "start": 608,
+        "end": 617
+      },
+      {
+        "text": "India",
+        "label": "GPE",
+        "start": 680,
+        "end": 685
+      },
+      {
+        "text": "Bangladesh",
+        "label": "GPE",
+        "start": 690,
+        "end": 700
+      },
+      {
+        "text": "a few decades",
+        "label": "DATE",
+        "start": 739,
+        "end": 752
+      },
+      {
+        "text": "Himalayan",
+        "label": "NORP",
+        "start": 926,
+        "end": 935
+      },
+      {
+        "text": "meltwater one",
+        "label": "PERSON",
+        "start": 944,
+        "end": 957
+      },
+      {
+        "text": "the next few decades",
+        "label": "DATE",
+        "start": 978,
+        "end": 998
+      },
+      {
+        "text": "between 2000 and 2019",
+        "label": "DATE",
+        "start": 1081,
+        "end": 1102
+      },
+      {
+        "text": "Greenland",
+        "label": "GPE",
+        "start": 1115,
+        "end": 1124
+      },
+      {
+        "text": "Iceland",
+        "label": "GPE",
+        "start": 1145,
+        "end": 1152
+      },
+      {
+        "text": "Scandinavia",
+        "label": "LOC",
+        "start": 1157,
+        "end": 1168
+      },
+      {
+        "text": "the North Atlantic",
+        "label": "LOC",
+        "start": 1232,
+        "end": 1250
+      },
+      {
+        "text": "between 2010 and 2019",
+        "label": "DATE",
+        "start": 1307,
+        "end": 1328
+      },
+      {
+        "text": "Karakoram",
+        "label": "ORG",
+        "start": 1421,
+        "end": 1430
+      },
+      {
+        "text": "Karakoram",
+        "label": "GPE",
+        "start": 1487,
+        "end": 1496
+      },
+      {
+        "text": "Karakoram",
+        "label": "GPE",
+        "start": 1608,
+        "end": 1617
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 75,
+        "end": 79
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 127,
+        "end": 132
+      },
+      {
+        "text": "every 100 minutes",
+        "label": "TIME",
+        "start": 138,
+        "end": 155
+      },
+      {
+        "text": "nearly 700 kilometres",
+        "label": "QUANTITY",
+        "start": 185,
+        "end": 206
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 260,
+        "end": 263
+      },
+      {
+        "text": "Romain Hugonnet",
+        "label": "PERSON",
+        "start": 607,
+        "end": 622
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 648,
+        "end": 658
+      },
+      {
+        "text": "the University of Toulouse",
+        "label": "ORG",
+        "start": 663,
+        "end": 689
+      },
+      {
+        "text": "nearly three years",
+        "label": "DATE",
+        "start": 721,
+        "end": 739
+      },
+      {
+        "text": "18 months",
+        "label": "DATE",
+        "start": 750,
+        "end": 759
+      },
+      {
+        "text": "the University of Northern British Columbia",
+        "label": "ORG",
+        "start": 851,
+        "end": 894
+      },
+      {
+        "text": "the United Nations Intergovernmental Panel on Climate Change",
+        "label": "ORG",
+        "start": 961,
+        "end": 1021
+      },
+      {
+        "text": "later this year",
+        "label": "DATE",
+        "start": 1059,
+        "end": 1074
+      },
+      {
+        "text": "Daniel Farinotti",
+        "label": "PERSON",
+        "start": 1227,
+        "end": 1243
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1277,
+        "end": 1287
+      },
+      {
+        "text": "the Swiss Federal Institute for Forest",
+        "label": "ORG",
+        "start": 1292,
+        "end": 1330
+      },
+      {
+        "text": "Snow and Landscape Research WSL",
+        "label": "WORK_OF_ART",
+        "start": 1332,
+        "end": 1363
+      },
+      {
+        "text": "the University of Toulouse",
+        "label": "ORG",
+        "start": 1375,
+        "end": 1401
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1403,
+        "end": 1413
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 1418,
+        "end": 1421
+      },
+      {
+        "text": "Ulster University",
+        "label": "ORG",
+        "start": 1481,
+        "end": 1498
+      },
+      {
+        "text": "UK",
+        "label": "GPE",
+        "start": 1506,
+        "end": 1508
+      },
+      {
+        "text": "the University of Oslo",
+        "label": "ORG",
+        "start": 1510,
+        "end": 1532
+      },
+      {
+        "text": "Norway",
+        "label": "GPE",
+        "start": 1536,
+        "end": 1542
+      },
+      {
+        "text": "the University of Northern British Columbia",
+        "label": "ORG",
+        "start": 1547,
+        "end": 1590
+      },
+      {
+        "text": "Canada",
+        "label": "GPE",
+        "start": 1594,
+        "end": 1600
+      },
+      {
+        "text": "McNabb",
+        "label": "PERSON",
+        "start": 12,
+        "end": 18
+      },
+      {
+        "text": "Berthier E",
+        "label": "PERSON",
+        "start": 22,
+        "end": 32
+      },
+      {
+        "text": "Nuth C",
+        "label": "GPE",
+        "start": 46,
+        "end": 52
+      },
+      {
+        "text": "Girod L",
+        "label": "PERSON",
+        "start": 54,
+        "end": 61
+      },
+      {
+        "text": "Farinotti",
+        "label": "ORG",
+        "start": 63,
+        "end": 72
+      },
+      {
+        "text": "Huss M",
+        "label": "PERSON",
+        "start": 76,
+        "end": 82
+      },
+      {
+        "text": "Kääb A. Accelerated",
+        "label": "PERSON",
+        "start": 107,
+        "end": 126
+      },
+      {
+        "text": "the early twenty-first century",
+        "label": "DATE",
+        "start": 155,
+        "end": 185
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 187,
+        "end": 193
+      },
+      {
+        "text": "April 28th 2021",
+        "label": "DATE",
+        "start": 212,
+        "end": 227
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 234,
+        "end": 241
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Berthier E",
+        "Daniel Farinotti",
+        "ETH Zurich",
+        "Girod L",
+        "Huss M",
+        "Kääb A. Accelerated",
+        "McNabb",
+        "Romain Hugonnet",
+        "meltwater one"
+      ],
+      "ORG": [
+        "Brahmaputra",
+        "ETH Zurich",
+        "Farinotti",
+        "Ganges",
+        "Global Glacier Retreat",
+        "Karakoram",
+        "NASA",
+        "Ulster University",
+        "WSL",
+        "the Hindu Kush",
+        "the Swiss Federal Institute for Forest",
+        "the United Nations Intergovernmental Panel on Climate Change",
+        "the University of Northern British Columbia",
+        "the University of Oslo",
+        "the University of Toulouse"
+      ],
+      "LOCATION": [
+        "Alaska",
+        "Alps",
+        "Antarctic",
+        "Bangladesh",
+        "Canada",
+        "Earth",
+        "Greenland",
+        "Himalayas",
+        "Iceland",
+        "India",
+        "Karakoram",
+        "Norway",
+        "Nuth C",
+        "Scandinavia",
+        "UK",
+        "the North Atlantic",
+        "the Pamir mountains"
+      ],
+      "DATE": [
+        "18 months",
+        "28 April",
+        "April 28th 2021",
+        "a few decades",
+        "between 2000 and 2019",
+        "between 2010 and 2019",
+        "every 100 minutes",
+        "later this year",
+        "nearly three years",
+        "the dry season",
+        "the early twenty-first century",
+        "the mid-20th century",
+        "the next few decades",
+        "the past two decades"
+      ],
+      "MISC": [
+        "10.1038",
+        "Himalayan",
+        "Nature",
+        "Snow and Landscape Research WSL",
+        "around 220,000",
+        "first",
+        "nearly 700 kilometres",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 6,
+      "the University of Toulouse": 4,
+      "Karakoram": 3,
+      "Nature": 2,
+      "Greenland": 2,
+      "Iceland": 2,
+      "Romain Hugonnet": 2,
+      "Himalayan": 2,
+      "the University of Northern British Columbia": 2,
+      "Global Glacier Retreat": 1,
+      "the mid-20th century": 1,
+      "28 April": 1,
+      "first": 1,
+      "around 220,000": 1,
+      "Antarctic": 1,
+      "the past two decades": 1,
+      "Alaska": 1,
+      "Alps": 1,
+      "the Pamir mountains": 1,
+      "the Hindu Kush": 1
+    },
+    "total_entities": 77,
+    "unique_entities": 61
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "pr-global-glacier-retreat-has-accelerated.md",
+      "title": "En News Events/2021/04/pr Global Glacier Retreat Has Accelerated",
+      "language": "en",
+      "source_path": "en_news_events/2021/04/pr-global-glacier-retreat-has-accelerated.html"
+    },
+    "temporal": {
+      "publication_date": "2021-04",
+      "mentioned_years": [
+        "1999",
+        "2000",
+        "2010",
+        "2019",
+        "2021"
+      ],
+      "time_periods": [
+        [
+          "2000",
+          "2019"
+        ],
+        [
+          "2010",
+          "2019"
+        ]
+      ],
+      "temporal_context": "since, until, during, between"
+    },
+    "people": {
+      "mentioned_people": [
+        "Berthier E",
+        "Daniel Farinotti",
+        "ETH Zurich",
+        "Girod L",
+        "Huss M",
+        "Kääb A. Accelerated",
+        "McNabb",
+        "Romain Hugonnet",
+        "meltwater one"
+      ],
+      "people_with_roles": {
+        "Daniel Farinotti": [
+          "head"
+        ],
+        "ETH Zurich": [
+          "researcher",
+          "student",
+          "head"
+        ],
+        "Romain Hugonnet": [
+          "researcher",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Himalayan",
+        "Nature",
+        "Snow and Landscape Research WSL",
+        "around 220,000",
+        "first",
+        "nearly 700 kilometres"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Northern British",
+        "Nuth C",
+        "Landscape Research",
+        "Huss M",
+        "Brun F",
+        "Assessment Report",
+        "United Nations",
+        "Intergovernmental Panel",
+        "Ulster University",
+        "Climate Change",
+        "McNabb R",
+        "Farinotti D",
+        "Dussaillant I",
+        "Media Relations",
+        "Hindu Kush",
+        "Romain Hugonnet",
+        "North Atlantic",
+        "Accelerated Glaciers",
+        "Swiss Federal",
+        "En News",
+        "Hugonnet R",
+        "Global Glacier",
+        "Girod L",
+        "Berthier E",
+        "Retreat Has",
+        "Daniel Farinotti",
+        "ETH Zurich",
+        "Menounos B"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Forest"
+      ],
+      "institutions": [
+        "Brahmaputra",
+        "ETH Zurich",
+        "Farinotti",
+        "Ganges",
+        "Global Glacier Retreat",
+        "Karakoram",
+        "NASA",
+        "Ulster University",
+        "WSL",
+        "the Hindu Kush",
+        "the Swiss Federal Institute for Forest",
+        "the United Nations Intergovernmental Panel on Climate Change",
+        "the University of Northern British Columbia",
+        "the University of Oslo",
+        "the University of Toulouse"
+      ],
+      "locations": [
+        "Alaska",
+        "Alps",
+        "Antarctic",
+        "Bangladesh",
+        "Canada",
+        "Earth",
+        "Greenland",
+        "Himalayas",
+        "Iceland",
+        "India",
+        "Karakoram",
+        "Norway",
+        "Nuth C",
+        "Scandinavia",
+        "UK",
+        "the North Atlantic",
+        "the Pamir mountains"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "the University of Toulouse",
+        "Karakoram",
+        "Nature",
+        "Greenland",
+        "Iceland",
+        "Romain Hugonnet",
+        "Himalayan",
+        "the University of Northern British Columbia",
+        "Global Glacier Retreat"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Rising sea levels and water scarcity",
+          "Rising sea levels and water scarcity",
+          "Study based on stereo satellite images",
+          "Reference",
+          "Contact"
+        ],
+        "content_length": 4464
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Huss M",
+        "the University of Oslo",
+        "the University of Toulouse",
+        "Ulster University",
+        "ERC",
+        "the United Nations Intergovernmental Panel on Climate Change",
+        "2019",
+        "NASA",
+        "2021",
+        "Kääb A. Accelerated",
+        "Ganges",
+        "Brahmaputra",
+        "Farinotti",
+        "WSL",
+        "Romain Hugonnet",
+        "Global Glacier Retreat",
+        "2010",
+        "the Hindu Kush",
+        "Karakoram",
+        "2000",
+        "meltwater one",
+        "McNabb",
+        "Girod L",
+        "Berthier E",
+        "Daniel Farinotti",
+        "ETH Zurich",
+        "1999",
+        "the Swiss Federal Institute for Forest",
+        "the University of Northern British Columbia"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "Nature",
+        "nearly 700 kilometres",
+        "around 220,000",
+        "who",
+        "Himalayan",
+        "10.1038",
+        "what",
+        "how",
+        "Snow and Landscape Research WSL",
+        "climate_change",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Daniel Farinotti_has_role_head",
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_student",
+        "ETH Zurich_has_role_head",
+        "Romain Hugonnet_has_role_researcher",
+        "Romain Hugonnet_has_role_student",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

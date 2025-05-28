@@ -1,0 +1,204 @@
+{
+  "filename": "podcast-ungewissheit-klimawandel.md",
+  "original_filename": "podcast-ungewissheit-klimawandel.html",
+  "source_path": "de_news_events/2021/01/podcast-ungewissheit-klimawandel.html",
+  "date": "2021-01",
+  "title": "Podcast Ungewissheit Klimawandel",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Bedrohung durch den Klimawandel ist ähnlich wie die Corona-​Pandemie. Covid-​19 und Klima evozieren Unsicherheit auf vielen Ebenen und sind beides globale Probleme, die jeden einzelnen von uns betreffen. In der zweiten Folge unserer Uncertainty-​Serie sprechen wir mit den renommierten ETH Professoren Reto Knutti und Tony Patt und der Studentin und Klima-​Aktivistin Annabelle Ehmann. In dieser Folge des ETH-​Podcasts verraten alle, wie sie mit der Unsicherheit im Klimawandel umgehen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Klimawandel",
+        "label": "LOC",
+        "start": 44,
+        "end": 55
+      },
+      {
+        "text": "Corona-​Pandemie",
+        "label": "MISC",
+        "start": 56,
+        "end": 72
+      },
+      {
+        "text": "Covid-​19",
+        "label": "ORG",
+        "start": 74,
+        "end": 83
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 290,
+        "end": 293
+      },
+      {
+        "text": "Reto Knutti",
+        "label": "PER",
+        "start": 306,
+        "end": 317
+      },
+      {
+        "text": "Tony Patt",
+        "label": "PER",
+        "start": 322,
+        "end": 331
+      },
+      {
+        "text": "Annabelle Ehmann",
+        "label": "PER",
+        "start": 372,
+        "end": 388
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Annabelle Ehmann",
+        "Reto Knutti",
+        "Tony Patt"
+      ],
+      "ORG": [
+        "Covid-​19",
+        "ETH"
+      ],
+      "LOCATION": [
+        "Klimawandel"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Corona-​Pandemie"
+      ]
+    },
+    "entity_counts": {
+      "Klimawandel": 1,
+      "Corona-​Pandemie": 1,
+      "Covid-​19": 1,
+      "ETH": 1,
+      "Reto Knutti": 1,
+      "Tony Patt": 1,
+      "Annabelle Ehmann": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-ungewissheit-klimawandel.md",
+      "title": "De News Events/2021/01/podcast Ungewissheit Klimawandel",
+      "language": "de",
+      "source_path": "de_news_events/2021/01/podcast-ungewissheit-klimawandel.html"
+    },
+    "temporal": {
+      "publication_date": "2021-01",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Annabelle Ehmann",
+        "Reto Knutti",
+        "Tony Patt"
+      ],
+      "people_with_roles": {
+        "Annabelle Ehmann": [
+          "student",
+          "professor"
+        ],
+        "Reto Knutti": [
+          "student",
+          "professor"
+        ],
+        "Tony Patt": [
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Corona-​Pandemie"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Professoren",
+        "Ungewissheit Klimawandel",
+        "Aktivistin Annabelle",
+        "Reto Knutti",
+        "De News",
+        "Die Bedrohung",
+        "Tony Patt"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Covid-​19",
+        "ETH"
+      ],
+      "locations": [
+        "Klimawandel"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Klimawandel",
+        "Corona-​Pandemie",
+        "Covid-​19",
+        "ETH",
+        "Reto Knutti",
+        "Tony Patt",
+        "Annabelle Ehmann"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 547
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Reto Knutti",
+        "Annabelle Ehmann",
+        "2021",
+        "Tony Patt",
+        "Covid-​19"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Corona-​Pandemie",
+        "who"
+      ],
+      "graph_relations": [
+        "Annabelle Ehmann_has_role_student",
+        "Annabelle Ehmann_has_role_professor",
+        "Reto Knutti_has_role_student",
+        "Reto Knutti_has_role_professor",
+        "Tony Patt_has_role_student",
+        "Tony Patt_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "filename": "beginn-mit-brummschaedel--erster-schultag-1855.md",
+  "original_filename": "beginn-mit-brummschaedel--erster-schultag-1855.html",
+  "source_path": "de_internal/2015/10/beginn-mit-brummschaedel--erster-schultag-1855.html",
+  "date": "2015-10",
+  "title": "Beginn Mit Brummschaedel Erster Schultag 1855",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Vor 160 Jahren, am 16. Oktober 1855, begann für 68 Studierende das Studium am frisch gegründeten Eidgenössischen Polytechnikum, der heutigen ETH Zürich.\n\nMehr im Blogbeitrag auf ETHeritage und in dem Beitrag in den ETH Global News ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/10",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Brummschaedel",
+        "label": "LOC",
+        "start": 31,
+        "end": 44
+      },
+      {
+        "text": "Eidgenössischen Polytechnikum",
+        "label": "ORG",
+        "start": 97,
+        "end": 126
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 141,
+        "end": 151
+      },
+      {
+        "text": "Blogbeitrag",
+        "label": "MISC",
+        "start": 161,
+        "end": 172
+      },
+      {
+        "text": "ETHeritage",
+        "label": "MISC",
+        "start": 177,
+        "end": 187
+      },
+      {
+        "text": "ETH Global News",
+        "label": "ORG",
+        "start": 214,
+        "end": 229
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Global News",
+        "ETH Zürich",
+        "Eidgenössischen Polytechnikum"
+      ],
+      "LOCATION": [
+        "Brummschaedel",
+        "De Internal/2015/10"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Blogbeitrag",
+        "ETHeritage"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2015/10": 1,
+      "Brummschaedel": 1,
+      "Eidgenössischen Polytechnikum": 1,
+      "ETH Zürich": 1,
+      "Blogbeitrag": 1,
+      "ETHeritage": 1,
+      "ETH Global News": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "beginn-mit-brummschaedel--erster-schultag-1855.md",
+      "title": "De Internal/2015/10/beginn mit Brummschaedel Erster Schultag 1855",
+      "language": "de",
+      "source_path": "de_internal/2015/10/beginn-mit-brummschaedel--erster-schultag-1855.html"
+    },
+    "temporal": {
+      "publication_date": "2015-10",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Blogbeitrag",
+        "ETHeritage"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH Global",
+        "De Internal",
+        "Brummschaedel Erster"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Global News",
+        "ETH Zürich",
+        "Eidgenössischen Polytechnikum"
+      ],
+      "locations": [
+        "Brummschaedel",
+        "De Internal/2015/10"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2015/10",
+        "Brummschaedel",
+        "Eidgenössischen Polytechnikum",
+        "ETH Zürich",
+        "Blogbeitrag",
+        "ETHeritage",
+        "ETH Global News"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 298
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "ETH Global News",
+        "Eidgenössischen Polytechnikum",
+        "EU",
+        "ETH Zürich"
+      ],
+      "semantic_concepts": [
+        "Blogbeitrag",
+        "ETHeritage"
+      ],
+      "graph_relations": []
+    }
+  }
+}

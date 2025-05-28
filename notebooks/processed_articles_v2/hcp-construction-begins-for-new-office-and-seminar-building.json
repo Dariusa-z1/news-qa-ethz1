@@ -1,0 +1,243 @@
+{
+  "filename": "hcp-construction-begins-for-new-office-and-seminar-building.md",
+  "original_filename": "hcp-construction-begins-for-new-office-and-seminar-building.html",
+  "source_path": "en_news_events/2013/11/hcp-construction-begins-for-new-office-and-seminar-building.html",
+  "date": "2013-11",
+  "title": "Hcp Construction Begins For New Office And Seminar Building",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In the new, stair-shaped building in front of HCI, there will be 155 rooms offering space for 260 people. In addition, the 200 metre-long building will contain meeting and seminar rooms for 190 people. For students, there will be two study halls with 50 workspaces and a kitchen area, a coffee corner and outdoor seating. In autumn 2015, the Department of Materials Science (D-MATL) will move into this new building. The construction site will be accessed via Leopold-Ruzicka-Weg, which runs alongside HCI. Later, this will be the delivery access road for the new building. HCP is being built to provide much-needed space for teaching and research at ETH. When it is completed, many labs in HCI which currently have to be used as offices can again fulfil their original purpose."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Seminar Building",
+        "label": "PERSON",
+        "start": 66,
+        "end": 82
+      },
+      {
+        "text": "HCI",
+        "label": "PERSON",
+        "start": 46,
+        "end": 49
+      },
+      {
+        "text": "200 metre",
+        "label": "QUANTITY",
+        "start": 123,
+        "end": 132
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 230,
+        "end": 233
+      },
+      {
+        "text": "50 workspaces",
+        "label": "QUANTITY",
+        "start": 251,
+        "end": 264
+      },
+      {
+        "text": "autumn 2015",
+        "label": "DATE",
+        "start": 325,
+        "end": 336
+      },
+      {
+        "text": "the Department of Materials Science",
+        "label": "ORG",
+        "start": 338,
+        "end": 373
+      },
+      {
+        "text": "Leopold-Ruzicka-Weg",
+        "label": "ORG",
+        "start": 460,
+        "end": 479
+      },
+      {
+        "text": "HCI",
+        "label": "ORG",
+        "start": 502,
+        "end": 505
+      },
+      {
+        "text": "HCP",
+        "label": "ORG",
+        "start": 574,
+        "end": 577
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 651,
+        "end": 654
+      },
+      {
+        "text": "HCI",
+        "label": "GPE",
+        "start": 691,
+        "end": 694
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "HCI",
+        "Seminar Building"
+      ],
+      "ORG": [
+        "ETH",
+        "HCI",
+        "HCP",
+        "Leopold-Ruzicka-Weg",
+        "the Department of Materials Science"
+      ],
+      "LOCATION": [
+        "HCI"
+      ],
+      "DATE": [
+        "autumn 2015"
+      ],
+      "MISC": [
+        "200 metre",
+        "50 workspaces",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "HCI": 3,
+      "Seminar Building": 1,
+      "200 metre": 1,
+      "two": 1,
+      "50 workspaces": 1,
+      "autumn 2015": 1,
+      "the Department of Materials Science": 1,
+      "Leopold-Ruzicka-Weg": 1,
+      "HCP": 1,
+      "ETH": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "hcp-construction-begins-for-new-office-and-seminar-building.md",
+      "title": "En News Events/2013/11/hcp Construction Begins For New Office And Seminar Building",
+      "language": "en",
+      "source_path": "en_news_events/2013/11/hcp-construction-begins-for-new-office-and-seminar-building.html"
+    },
+    "temporal": {
+      "publication_date": "2013-11",
+      "mentioned_years": [
+        "2013",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "HCI",
+        "Seminar Building"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "200 metre",
+        "50 workspaces"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "D-MATL",
+        "Office And",
+        "Materials Science",
+        "Seminar Building",
+        "Leopold-Ruzicka",
+        "For New",
+        "Construction Begins"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Materials Science "
+      ],
+      "institutions": [
+        "ETH",
+        "HCI",
+        "HCP",
+        "Leopold-Ruzicka-Weg",
+        "the Department of Materials Science"
+      ],
+      "locations": [
+        "HCI"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "why"
+      ],
+      "key_concepts": [
+        "HCI",
+        "Seminar Building",
+        "200 metre",
+        "two",
+        "50 workspaces",
+        "autumn 2015",
+        "the Department of Materials Science",
+        "Leopold-Ruzicka-Weg",
+        "HCP",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 861
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "HCP",
+        "2015",
+        "Leopold-Ruzicka-Weg",
+        "the Department of Materials Science",
+        "2013",
+        "HCI",
+        "Seminar Building"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "200 metre",
+        "50 workspaces",
+        "what",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

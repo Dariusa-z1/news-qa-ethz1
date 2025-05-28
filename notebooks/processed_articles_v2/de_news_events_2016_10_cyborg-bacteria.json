@@ -1,0 +1,419 @@
+{
+  "filename": "de_news_events_2016_10_cyborg-bacteria.md",
+  "original_filename": "de_news_events_2016_10_cyborg-bacteria.html",
+  "source_path": "de_news_events/2016/10/cyborg-bacteria.html",
+  "date": "2016-10",
+  "title": "Cyborg Bacteria",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Äusserst präzise Steuerung",
+      "text": "Forschende des Departements Biosysteme (D-BSSE) der ETH Zürich in Basel haben einen Cyborg erschaffen – ein Mischwesen aus lebendem Organismus und Maschine. Beim beteiligten Lebewesen handelt sich um das Kolibakterium (Escherichia coli) , das in der biologischen Forschung häufig verwendet wird, bei der Maschine um einen Computer mit modernster Steuerungstechnik, die das Wachstum der Bakterien regelt. Verbunden sind Organismen und Maschine über zwei Schnittstellen: Der Computer kommuniziert mit rotem und grünem Licht, welches die biotechnologisch veränderten Bakterien wahrnehmen können. In der Gegenrichtung funktioniert die Kommunikation über eine optische Messung der Wachstumsrate der Bakterienkultur. Deren Ergebnis wird in Echtzeit in den Computer eingespeist."
+    },
+    {
+      "heading": "Äusserst präzise Steuerung",
+      "text": "Bereits vor fünf Jahren präsentierten die Forschenden gemeinsam mit Kollegen einen einfachen Machbarkeitsnachweis für eine auf Licht basierende Schnittstelle zwischen einem Computer und einer Hefezelle. Diese Schnittstelle funktionierte damals aber im Gegensatz zum jetzigen System noch nicht vollautomatisch. «Ausserdem regulieren wir jetzt erstmals das Wachstum von Mikroorganismen, und zwar auf sehr präzise und feinabstimmbare Weise», sagt Mustafa Khammash, Professor für Steuerungstheorie und Systembiologie. Mithilfe der Computersteuerung können die Wissenschaftler die Bakterienkultur so beeinflussen, dass sie genau nach einer vorgegebenen Kurve wächst.\n\nDas neue System ist zudem extrem zuverlässig und widerstandsfähig. Die Wissenschaftler testeten, wie die Cyborg-Bakterien auf plötzliche Störungen von aussen reagierten. Dazu veränderten sie im Experiment beispielsweise die Nährstoffzusammensetzung der Bakterienkultur oder die Temperatur. Auf solche Störungen konnte sich das System ausserordentlich gut einstellen. «Dies alles ist nur möglich, weil wir für die Steuerung modernste, feedback-gesteuerte Regelungsalgorithmen benutzen, wie sie auch in Linienflugzeugen zum Einsatz kommen, etwa um die Flughöhe stabil zu halten», erklärt Khammash."
+    },
+    {
+      "heading": "«Augen» für die Bakterien",
+      "text": "Damit sich die Kolibakterien überhaupt über Licht steuern lassen, mussten die Forschenden die Mikroorganismen biotechnologisch verändern. Sie verwendeten einen Bakterienstamm, dessen Bauplan unter anderem Gene von Cyanobakterien enthält. Cyanobakterien können ihren Stoffwechsel an Licht anpassen und – wie die Pflanzen – die Energie des Lichts nutzen. In den Kolibakterien koppelten die Basler Bioingenieure die genetischen Lichtmesssysteme der Cyanobakterien mit der zellulären Regulation für ein Enzym, das die für das Bakterienwachstum unerlässliche Aminosäure Methionin herstellt.\n\nLässt der Steuerungscomputer die Kolibakterienkultur mit rotem Licht beleuchten, führt das dazu, dass die Bakterien die Methionin-Produktion stoppen und dadurch weniger schnell wachsen. Beleuchtung mit grünem Licht hingegen regt die Methionin-Produktion und damit das Wachstum an."
+    },
+    {
+      "heading": "Biologische Systeme regeln",
+      "text": "ETH-Professor Khammashs ursprüngliches Fachgebiet ist die Regelungstechnik. Jetzt arbeitet er im Bereich der Systembiologie und der synthetischen Biologie. Seine wichtigste Forschungsfrage ist im Schnittbereich dieser Fachgebiete angesiedelt: Ist es möglich, Regelungstechnik für biologische Systeme von Grund auf zu konzipieren? Cybergenetics nennt er dieses Forschungsfeld.\n\n«Es gibt zwei Ansätze hierfür», sagt Khammash, «und beide haben Vor- und Nachteile, die je nach Anwendung zum Tragen kommen.» Zum einen könne man – wie in dieser Studie – Mikroorganismen mit einem Computer von aussen steuern. Dies bedinge eine Schnittstelle zwischen Computer und biologischem Organismus. Auch wenn die Kommunikationsmöglichkeiten über eine solche Schnittstelle derzeit noch einigermassen bescheiden sind, hat dieser Ansatz einen grossen Vorteil: Dank einem externen Computerprogramm können leistungsfähige Regelungsalgorithmen zum Einsatz kommen. Ausserdem kann das Programm den Bedarf sehr schnell anpassen.\n\nIn einem zweiten Ansatz versuchen Wissenschaftler – auch solche am D-BSSE – im Innern von Zellen künstliche Kontrollsysteme zu platzieren, solche mit molekularen, biochemischen Komponenten. «Meiner Meinung nach ist für therapeutische Anwendungen, beispielsweise in der Zelltherapie, die interne Zellsteuerung langfristig besser geeignet. Denn sie funktioniert ohne zusätzliche Hardware autonom», sagt Khammash. «Für die biotechnologische Herstellung von Molekülen in einem Bioreaktor hingegen dürfte die externe Steuerung über eine Schnittstelle, wie wir sie hier entwickelt haben, besser umsetzbar sein.»"
+    },
+    {
+      "heading": "Zusätzliche Farbkanäle",
+      "text": "Bislang benutzen die Basler Forscher für ihre Licht-Schnittstelle die zwei Farben Grün und Rot. Damit steuern sie die Aktivität eines einzigen Enzyms. «In einer Weiterentwicklung könnte man sich aber auch komplexere Steuerungen mit zusätzlichen Lichtkanälen vorstellen», sagt Khammash. So wäre es denkbar, gleichzeitig mehrere Enzyme zu regulieren. In der biotechnologischen Produktion von Molekülen könnte man damit die Wachstumsrate der herstellenden Bakterien und die Produktionsrate des gewünschten Moleküls optimal aufeinander abzustimmen. Dies mit dem Ziel, möglichst viel des gewünschten Produkts und möglichst wenige giftige Nebenprodukte zu erhalten.\n\nMilias-Argeitis A, Rullan M, Aoki SK, Buchmann P, Khammash M: Automated optogenetic feedback control for precise and robust regulation of gene expression. Nature Communications 2016, 7: 12546, doi: externe Seite 10.1038/ncomms12546"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Departements",
+        "label": "LOC",
+        "start": 15,
+        "end": 27
+      },
+      {
+        "text": "D-BSSE",
+        "label": "MISC",
+        "start": 40,
+        "end": 46
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 52,
+        "end": 62
+      },
+      {
+        "text": "Basel",
+        "label": "LOC",
+        "start": 66,
+        "end": 71
+      },
+      {
+        "text": "Mustafa Khammash",
+        "label": "PER",
+        "start": 444,
+        "end": 460
+      },
+      {
+        "text": "Cyborg-Bakterien",
+        "label": "LOC",
+        "start": 767,
+        "end": 783
+      },
+      {
+        "text": "Linienflugzeugen",
+        "label": "LOC",
+        "start": 1163,
+        "end": 1179
+      },
+      {
+        "text": "Khammash",
+        "label": "MISC",
+        "start": 1248,
+        "end": 1256
+      },
+      {
+        "text": "Gene von Cyanobakterien",
+        "label": "PER",
+        "start": 205,
+        "end": 228
+      },
+      {
+        "text": "Basler",
+        "label": "LOC",
+        "start": 388,
+        "end": 394
+      },
+      {
+        "text": "Cyanobakterien",
+        "label": "LOC",
+        "start": 446,
+        "end": 460
+      },
+      {
+        "text": "Methionin-Produktion",
+        "label": "LOC",
+        "start": 706,
+        "end": 726
+      },
+      {
+        "text": "Methionin-Produktion",
+        "label": "LOC",
+        "start": 819,
+        "end": 839
+      },
+      {
+        "text": "ETH-Professor Khammashs",
+        "label": "LOC",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "Khammash",
+        "label": "MISC",
+        "start": 413,
+        "end": 421
+      },
+      {
+        "text": "D-BSSE",
+        "label": "MISC",
+        "start": 1069,
+        "end": 1075
+      },
+      {
+        "text": "Meiner",
+        "label": "PER",
+        "start": 1193,
+        "end": 1199
+      },
+      {
+        "text": "Khammash",
+        "label": "MISC",
+        "start": 1403,
+        "end": 1411
+      },
+      {
+        "text": "Basler",
+        "label": "LOC",
+        "start": 21,
+        "end": 27
+      },
+      {
+        "text": "Licht-Schnittstelle",
+        "label": "MISC",
+        "start": 46,
+        "end": 65
+      },
+      {
+        "text": "Khammash",
+        "label": "LOC",
+        "start": 276,
+        "end": 284
+      },
+      {
+        "text": "Molekülen",
+        "label": "LOC",
+        "start": 390,
+        "end": 399
+      },
+      {
+        "text": "Milias-Argeitis A",
+        "label": "ORG",
+        "start": 660,
+        "end": 677
+      },
+      {
+        "text": "Rullan M",
+        "label": "PER",
+        "start": 679,
+        "end": 687
+      },
+      {
+        "text": "Aoki SK",
+        "label": "ORG",
+        "start": 689,
+        "end": 696
+      },
+      {
+        "text": "Buchmann P",
+        "label": "PER",
+        "start": 698,
+        "end": 708
+      },
+      {
+        "text": "Khammash M",
+        "label": "PER",
+        "start": 710,
+        "end": 720
+      },
+      {
+        "text": "Nature Communications",
+        "label": "MISC",
+        "start": 815,
+        "end": 836
+      },
+      {
+        "text": "ncomms12546",
+        "label": "MISC",
+        "start": 880,
+        "end": 891
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Buchmann P",
+        "Gene von Cyanobakterien",
+        "Khammash M",
+        "Meiner",
+        "Mustafa Khammash",
+        "Rullan M"
+      ],
+      "ORG": [
+        "Aoki SK",
+        "ETH Zürich",
+        "Milias-Argeitis A"
+      ],
+      "LOCATION": [
+        "Basel",
+        "Basler",
+        "Cyanobakterien",
+        "Cyborg-Bakterien",
+        "Departements",
+        "ETH-Professor Khammashs",
+        "Khammash",
+        "Linienflugzeugen",
+        "Methionin-Produktion",
+        "Molekülen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "D-BSSE",
+        "Khammash",
+        "Licht-Schnittstelle",
+        "Nature Communications",
+        "ncomms12546"
+      ]
+    },
+    "entity_counts": {
+      "Khammash": 4,
+      "D-BSSE": 2,
+      "Basler": 2,
+      "Methionin-Produktion": 2,
+      "Departements": 1,
+      "ETH Zürich": 1,
+      "Basel": 1,
+      "Mustafa Khammash": 1,
+      "Cyborg-Bakterien": 1,
+      "Linienflugzeugen": 1,
+      "Gene von Cyanobakterien": 1,
+      "Cyanobakterien": 1,
+      "ETH-Professor Khammashs": 1,
+      "Meiner": 1,
+      "Licht-Schnittstelle": 1,
+      "Molekülen": 1,
+      "Milias-Argeitis A": 1,
+      "Rullan M": 1,
+      "Aoki SK": 1,
+      "Buchmann P": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2016_10_cyborg-bacteria.md",
+      "title": "De News Events/2016/10/cyborg Bacteria",
+      "language": "de",
+      "source_path": "de_news_events/2016/10/cyborg-bacteria.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Buchmann P",
+        "Gene von Cyanobakterien",
+        "Khammash M",
+        "Meiner",
+        "Mustafa Khammash",
+        "Rullan M"
+      ],
+      "people_with_roles": {
+        "Mustafa Khammash": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "biology"
+      ],
+      "research_topics": [
+        "D-BSSE",
+        "Khammash",
+        "Licht-Schnittstelle",
+        "Nature Communications",
+        "ncomms12546"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Bacteria Forschende",
+        "Milias-Argeitis",
+        "Der Computer",
+        "ETH-Professor",
+        "Khammash M",
+        "Methionin-Produktion",
+        "Aoki SK",
+        "Licht-Schnittstelle",
+        "Cyborg-Bakterien",
+        "D-BSSE",
+        "Buchmann P",
+        "Basler Bioingenieure",
+        "Die Wissenschaftler",
+        "Departements Biosysteme",
+        "Deren Ergebnis",
+        "Nature Communications",
+        "Diese Schnittstelle",
+        "Rullan M",
+        "Basler Forscher",
+        "De News",
+        "Mustafa Khammash",
+        "Meiner Meinung"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Aoki SK",
+        "ETH Zürich",
+        "Milias-Argeitis A"
+      ],
+      "locations": [
+        "Basel",
+        "Basler",
+        "Cyanobakterien",
+        "Cyborg-Bakterien",
+        "Departements",
+        "ETH-Professor Khammashs",
+        "Khammash",
+        "Linienflugzeugen",
+        "Methionin-Produktion",
+        "Molekülen"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Khammash",
+        "D-BSSE",
+        "Basler",
+        "Methionin-Produktion",
+        "Departements",
+        "ETH Zürich",
+        "Basel",
+        "Mustafa Khammash",
+        "Cyborg-Bakterien",
+        "Linienflugzeugen"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Äusserst präzise Steuerung",
+          "Äusserst präzise Steuerung",
+          "«Augen» für die Bakterien",
+          "Biologische Systeme regeln",
+          "Zusätzliche Farbkanäle"
+        ],
+        "content_length": 5440
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Aoki SK",
+        "Gene von Cyanobakterien",
+        "Buchmann P",
+        "Rullan M",
+        "EU",
+        "2016",
+        "ETH Zürich",
+        "Mustafa Khammash",
+        "Milias-Argeitis A",
+        "Khammash M",
+        "Meiner"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Khammash",
+        "biology",
+        "Licht-Schnittstelle",
+        "Nature Communications",
+        "ncomms12546",
+        "D-BSSE"
+      ],
+      "graph_relations": [
+        "Mustafa Khammash_has_role_professor",
+        "research_domain_biology"
+      ]
+    }
+  }
+}

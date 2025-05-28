@@ -1,0 +1,30 @@
+# a-smart-camera-that-does-the-thinking.html
+
+**Source:** en_news_events/2021/03/a-smart-camera-that-does-the-thinking.html
+
+## Software that steers many cameras
+
+The coronavirus crisis has made video a powerful communication tool: meetings, presentations and even cultural events are all being broadcast online. But anyone looking to stand out in the crowd of live audiovisual offerings must deliver a high-end performance. Which is why more and more companies are investing in equipment and technologies that will provide excellent quality and experience. Seervision, an ETH Zurich spin-off, is feeling the impact.
+
+Seervision develops software that can automate cameras in any type of studio – meaning that one person can effortlessly operate and control several cameras at the same time. “In this way, companies can produce professional videos without worrying about the complexity of the task or the costs,” says co-founder and CEO Nikos Kariotoglou. It’s exactly what firms are looking for when so many people are working from home.
+
+The Seervision founders (from left): Reto Hofmann (CTO), Nikos Kariotoglou (CEO) and Conrad von Grebel (CMO). (Photograph: Seervision)
+
+“The world suddenly switched over to online and hybrid events – accelerating a trend that was expected to take longer,” he says, describing the shift. Up till then, the spin-off’s technology mainly served video production companies already familiar with cameras and live broadcasts. Since the beginning of the pandemic, there has been an upswing in interest from companies from a range of sectors and sizes looking to set up a studio – in order to present their company results online in a professional way, for instance. This meant that Seervision’s market suddenly expanded. “We were positively surprised by that and our sales pitch became much easier,” exclaims Kariotoglou.
+
+## Software that steers many cameras
+
+The core of the Seervision solution is the software, which combines artificial intelligence, image recognition and predictive mathematical models. It can anticipate a person’s movement in the image and pan the cameras as if they were operated by a cameraperson. The software works for various cameras from various manufacturers, which makes the technology flexible and versatile to use. One person can comfortably control the entire video recording, adjust the framing of a shot and integrate presentation slides or videos – all from a computer at any location. This means the application is an excellent choice if the budget won’t cover a camera crew, or technical expertise is lacking. A business presentation, a cultural event, or even a tennis match can all be recorded in this way.
+
+The prototype for recording lectures. (Photograph: Seervision)
+
+As a doctoral student, Kariotoglou worked on remote controlled cameras and had the idea to improve them with a better software. He wanted the cameras to react intelligently to the movement of a target. Reto Hofmann, a Master’s student at the time, took on the challenge of building such an intelligent system for recording lectures of the head of the Automatic Control Laboratory, Prof. John Lygeros. The clunky, heavy prototype was the cornerstone of the spin-off Kariotoglou and Hofmann founded together in 2016. A few months later as the system was maturing Conrad von Grebel, an owner of a video production company, heard about their idea. He decided to join the spin-off as a co-founder and contributed much needed expertise in the video industry.
+
+## Learning from failure
+
+In the company’s early days, the three founders developed an easy-to-handle camera, similar to an action camera, and an intelligent pivoting camera mount called Bungito. These could automatically recognise subjects in the image, track their movement and pan in that direction. However, the devices never made it past the prototype stage, as the team realised just how complicated and expensive it is to develop hardware for the consumer market. And so they decided to concentrate their efforts on the software and to further develop it.
+
+“I am glad that we have shifted our business idea,” says CEO Kariotoglou. He’s convinced that the detours via the hardware prototypes were necessary, and refers to an entrepreneurial saying: “You’re going to fail a few times, because that’s the only time you actually learn something.” Even though the spin-off now has a marketable product and has won several awards, the CEO still sees a long way before success can be claimed. What drives the team on is a keen desire “to get to the point where we’re growing while also making a profit.” The surge in the importance of online events may well bring Seervision closer to that goal.
+
+Seervision maintains close ties with ETH Zurich and its environment. The spin-off is based in the premises of Wyss Zurich, the accelerator which supports selected projects from the fields of regenerative medicine, robotics and hybrid projects on their way to the market.
+

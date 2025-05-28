@@ -1,0 +1,200 @@
+{
+  "filename": "informationsverstaltungen-zu-open-access-am-30-januar-2017.md",
+  "original_filename": "informationsverstaltungen-zu-open-access-am-30-januar-2017.html",
+  "source_path": "de_internal/2017/01/informationsverstaltungen-zu-open-access-am-30-januar-2017.html",
+  "date": "2017-01",
+  "title": "Informationsverstaltungen Zu Open Access Am 30 Januar 2017",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die ETH-Bibliothek führt im Februar 2017 eine Befragung zum Thema Open Access durch. Am 1. Februar erhalten alle wissenschaftlichen Mitarbeitenden der ETH Zürich per E-Mail einen persönlichen Link zum Online-Fragebogen.\n\nIm Vorfeld bietet die ETH-Bibliothek zwei Informationsveranstaltungen an, zu der alle Interessierten herzlich eingeladen sind:\n\nDatum Montag, 30. Januar 2017\n\nOrt Hönggerberg, HPV G 5: 12.00 – 13.00 Uhr Zentrum, HG E 3: 17.00 – 18.00 Uhr\n\nDie Veranstaltung findet auf Englisch statt. Eine Anmeldung ist nicht notwendig.\n\nWeiterführende Informationen"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2017/01/informationsverstaltungen",
+        "label": "LOC",
+        "start": 0,
+        "end": 45
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 4,
+        "end": 18
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 151,
+        "end": 161
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 242,
+        "end": 256
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 381,
+        "end": 392
+      },
+      {
+        "text": "HPV G 5",
+        "label": "MISC",
+        "start": 394,
+        "end": 401
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 421,
+        "end": 428
+      },
+      {
+        "text": "HG E 3",
+        "label": "MISC",
+        "start": 430,
+        "end": 436
+      },
+      {
+        "text": "Englisch",
+        "label": "MISC",
+        "start": 485,
+        "end": 493
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "Zentrum"
+      ],
+      "LOCATION": [
+        "De Internal/2017/01/informationsverstaltungen",
+        "Hönggerberg"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "Englisch",
+        "HG E 3",
+        "HPV G 5"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 2,
+      "De Internal/2017/01/informationsverstaltungen": 1,
+      "ETH Zürich": 1,
+      "Hönggerberg": 1,
+      "HPV G 5": 1,
+      "Zentrum": 1,
+      "HG E 3": 1,
+      "Englisch": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "informationsverstaltungen-zu-open-access-am-30-januar-2017.md",
+      "title": "De Internal/2017/01/informationsverstaltungen zu Open Access Am 30 Januar 2017",
+      "language": "de",
+      "source_path": "de_internal/2017/01/informationsverstaltungen-zu-open-access-am-30-januar-2017.html"
+    },
+    "temporal": {
+      "publication_date": "2017-01",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "Englisch",
+        "HG E 3",
+        "HPV G 5"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Uhr Zentrum",
+        "Eine Anmeldung",
+        "E-Mail",
+        "De Internal",
+        "HG E",
+        "HPV G",
+        "Die ETH",
+        "Online-Fragebogen",
+        "Im Vorfeld",
+        "Open Access",
+        "Datum Montag",
+        "Thema Open",
+        "Die Veranstaltung"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Zentrum"
+      ],
+      "locations": [
+        "De Internal/2017/01/informationsverstaltungen",
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2017/01/informationsverstaltungen",
+        "ETH Zürich",
+        "Hönggerberg",
+        "HPV G 5",
+        "Zentrum",
+        "HG E 3",
+        "Englisch"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 649
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "Zentrum",
+        "2017"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Bibliothek",
+        "HPV G 5",
+        "Englisch",
+        "HG E 3"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

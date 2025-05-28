@@ -1,0 +1,855 @@
+{
+  "filename": "martian-moons-have-a-common-ancestor.md",
+  "original_filename": "martian-moons-have-a-common-ancestor.html",
+  "source_path": "en_news_events/2021/02/martian-moons-have-a-common-ancestor.html",
+  "date": "2021-02",
+  "title": "Martian Moons Have A Common Ancestor",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Calculating the past",
+      "text": "Mars’s two moons, Phobos and Deimos, have puzzled researchers since their discovery in 1877. They are very small: Phobos’s diameter of 22 kilometres is 160 times smaller than that of our Moon, and Deimos is even smaller, with a diameter of only 12 kilometres. “Our moon is essentially spherical, while the moons of Mars are very irregularly shaped – like potatoes,” says Amirhossein Bagheri, a doctoral student at the Institute of Geophysics at ETH Zurich, adding: “Phobos and Deimos look more like asteroids than natural moons.”\n\nThis led people to suspect that they might in fact be asteroids that were captured in Mars’s gravity field. “But that’s where the problems started,” Bagheri says. Captured objects would be expected to follow an eccentric orbit around the planet, and that orbit would be at a random inclination. In contradiction to this hypothesis, the orbits of the Martian moons are almost circular and move in the equatorial plane of Mars. So, what is the explanation for the current orbits of Phobos and Deimos? To solve this dynamic problem, the researchers relied on computer simulations."
+    },
+    {
+      "heading": "Calculating the past",
+      "text": "“The idea was to trace the orbits and their changes back into the past,” says Amir Khan, a Senior Scientist at the Physics Institute of the University of Zurich and the Institute of Geophysics at ETH Zurich. As it turned out, the orbits of Phobos and Deimos appeared to have crossed in the past. “This means that the moons were very likely in the same place and therefore have the same origin,” Khan says. The researchers concluded that a larger celestial body was orbiting Mars back then. This original moon was probably hit by another body and disintegrated as a result. “Phobos and Deimos are the remainders of this lost moon,” says Bagheri, who is lead author of the study now published in the journal Nature Astronomy .\n\nWhile easy to follow, these conclusions required extensive preliminary work. First, the researchers had to refine the existing theory describing the interaction between the moons and Mars. “All the celestial bodies exert tidal forces on each other,” Khan explains. These forces lead to a form of energy conversion known as dissipation, the scale of which depends on the bodies’ size, their interior composition and not least the distances between them."
+    },
+    {
+      "heading": "Insights into the interior of Mars and its moons",
+      "text": "Mars is currently being explored by NASA’s InSight mission, with ETH Zurich’s involvement: the electronics for the mission’s seismometer, which is recording marsquakes and possibly meteorite impacts, were built at ETH. “These recordings let us look inside the Red Planet,” Khan says, “and this data is used to constrain the Mars model in our calculations and the dissipation occurring inside the red planet.”\n\nImages and measurements by other Mars probes have suggested that Phobos and Deimos are made of very porous material. At less than 2 grams per cubic centimetre, their density is much lower than the average density of Earth, which is 5.5 grams per cubic centimetre. “There are a lot of cavities inside Phobos, which might contain water ice,” Khan suspects, “and that’s where the tides are causing a lot of energy to dissipate.”\n\nUsing these findings and their refined theory on the tidal effects, the researchers ran hundreds of computer simulations to track the orbits of the moons backward in time until they reached the intersection – the moment Phobos and Deimos were born. Depending on the simulation, this point in time lies between 1 and 2.7 billion years in the past. “The exact time depends on the physical properties of Phobos and Deimos, that is, how porous they are” Bagheri says. A Japanese probe scheduled for launch in 2024 will explore Phobos and return samples to Earth. The researchers expect that these samples will provide the needed details about the interior of the Martian moons that will enable more precise calculations of their origin."
+    },
+    {
+      "heading": "The end of Phobos",
+      "text": "Another thing their calculations show is that the common ancestor of Phobos and Deimos was further away from Mars than Phobos is today. While the smaller Deimos has remained in the vicinity of where it came into being, tidal forces are causing the larger Phobos to approach Mars – and this process is ongoing, as the researchers explain. Their computer simulations also show the future development of the moons’ orbits. It seems Deimos will move away from Mars very slowly, just as our Moon is slowly receding from Earth. Phobos, however, will crash into Mars in less than 40 million years or be torn apart by the gravitational forces as it nears Mars.\n\nNote: The above article was corrected to include the contribution of the U.S. Naval Observatory and to correct the launch date of the Japanese probe to explore Phobos from 2025 to 2024. (23 February 2021 at 16:40 CET)\n\nAmirhossein Bagheri, Amir Khan, Michael Efroimsky, Mikhail Kruglyakov and Domenico Giardini: “Dynamical evidence for Phobos and Deimos as remnants of a disrupted common progenitor”, Nature Astronomy, published online 22 February 2021. doi: 10.1038/s41550-021-01306-2"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "Phobos",
+        "label": "PERSON",
+        "start": 18,
+        "end": 24
+      },
+      {
+        "text": "Deimos",
+        "label": "PERSON",
+        "start": 29,
+        "end": 35
+      },
+      {
+        "text": "22 kilometres",
+        "label": "QUANTITY",
+        "start": 135,
+        "end": 148
+      },
+      {
+        "text": "Moon",
+        "label": "PERSON",
+        "start": 187,
+        "end": 191
+      },
+      {
+        "text": "Deimos",
+        "label": "PERSON",
+        "start": 197,
+        "end": 203
+      },
+      {
+        "text": "only 12 kilometres",
+        "label": "QUANTITY",
+        "start": 240,
+        "end": 258
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 315,
+        "end": 319
+      },
+      {
+        "text": "Amirhossein Bagheri",
+        "label": "PERSON",
+        "start": 371,
+        "end": 390
+      },
+      {
+        "text": "the Institute of Geophysics",
+        "label": "ORG",
+        "start": 414,
+        "end": 441
+      },
+      {
+        "text": "Phobos and Deimos",
+        "label": "WORK_OF_ART",
+        "start": 466,
+        "end": 483
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 616,
+        "end": 620
+      },
+      {
+        "text": "Bagheri",
+        "label": "PERSON",
+        "start": 679,
+        "end": 686
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 880,
+        "end": 887
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 950,
+        "end": 954
+      },
+      {
+        "text": "Phobos and Deimos",
+        "label": "WORK_OF_ART",
+        "start": 1010,
+        "end": 1027
+      },
+      {
+        "text": "Amir Khan",
+        "label": "PERSON",
+        "start": 78,
+        "end": 87
+      },
+      {
+        "text": "the Physics Institute",
+        "label": "ORG",
+        "start": 111,
+        "end": 132
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 136,
+        "end": 160
+      },
+      {
+        "text": "the Institute of Geophysics",
+        "label": "ORG",
+        "start": 165,
+        "end": 192
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 200,
+        "end": 206
+      },
+      {
+        "text": "Phobos",
+        "label": "ORG",
+        "start": 240,
+        "end": 246
+      },
+      {
+        "text": "Deimos",
+        "label": "PERSON",
+        "start": 251,
+        "end": 257
+      },
+      {
+        "text": "Khan",
+        "label": "PERSON",
+        "start": 395,
+        "end": 399
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 474,
+        "end": 478
+      },
+      {
+        "text": "Phobos and Deimos are the remainders of this lost moon",
+        "label": "WORK_OF_ART",
+        "start": 574,
+        "end": 628
+      },
+      {
+        "text": "Bagheri",
+        "label": "PERSON",
+        "start": 636,
+        "end": 643
+      },
+      {
+        "text": "Nature Astronomy",
+        "label": "WORK_OF_ART",
+        "start": 706,
+        "end": 722
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 802,
+        "end": 807
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 908,
+        "end": 912
+      },
+      {
+        "text": "Khan",
+        "label": "PERSON",
+        "start": 975,
+        "end": 979
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 36,
+        "end": 40
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 65,
+        "end": 77
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 214,
+        "end": 217
+      },
+      {
+        "text": "the Red Planet",
+        "label": "LOC",
+        "start": 256,
+        "end": 270
+      },
+      {
+        "text": "Khan",
+        "label": "PERSON",
+        "start": 273,
+        "end": 277
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 324,
+        "end": 328
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 442,
+        "end": 446
+      },
+      {
+        "text": "Phobos",
+        "label": "PERSON",
+        "start": 474,
+        "end": 480
+      },
+      {
+        "text": "Deimos",
+        "label": "PERSON",
+        "start": 485,
+        "end": 491
+      },
+      {
+        "text": "less than 2 grams",
+        "label": "QUANTITY",
+        "start": 529,
+        "end": 546
+      },
+      {
+        "text": "cubic centimetre",
+        "label": "PERSON",
+        "start": 551,
+        "end": 567
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 625,
+        "end": 630
+      },
+      {
+        "text": "5.5 grams",
+        "label": "QUANTITY",
+        "start": 641,
+        "end": 650
+      },
+      {
+        "text": "cubic centimetre",
+        "label": "PERSON",
+        "start": 655,
+        "end": 671
+      },
+      {
+        "text": "Phobos",
+        "label": "ORG",
+        "start": 709,
+        "end": 715
+      },
+      {
+        "text": "Khan",
+        "label": "PERSON",
+        "start": 749,
+        "end": 753
+      },
+      {
+        "text": "hundreds",
+        "label": "CARDINAL",
+        "start": 923,
+        "end": 931
+      },
+      {
+        "text": "Phobos and",
+        "label": "WORK_OF_ART",
+        "start": 1055,
+        "end": 1065
+      },
+      {
+        "text": "Deimos",
+        "label": "PERSON",
+        "start": 1066,
+        "end": 1072
+      },
+      {
+        "text": "Phobos",
+        "label": "ORG",
+        "start": 1236,
+        "end": 1242
+      },
+      {
+        "text": "Deimos",
+        "label": "PERSON",
+        "start": 1247,
+        "end": 1253
+      },
+      {
+        "text": "Bagheri",
+        "label": "PERSON",
+        "start": 1285,
+        "end": 1292
+      },
+      {
+        "text": "Japanese",
+        "label": "NORP",
+        "start": 1301,
+        "end": 1309
+      },
+      {
+        "text": "Phobos",
+        "label": "PRODUCT",
+        "start": 1358,
+        "end": 1364
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1387,
+        "end": 1392
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 1494,
+        "end": 1501
+      },
+      {
+        "text": "Phobos",
+        "label": "ORG",
+        "start": 69,
+        "end": 75
+      },
+      {
+        "text": "Deimos",
+        "label": "PERSON",
+        "start": 80,
+        "end": 86
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 109,
+        "end": 113
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 129,
+        "end": 134
+      },
+      {
+        "text": "Deimos",
+        "label": "PERSON",
+        "start": 154,
+        "end": 160
+      },
+      {
+        "text": "Phobos",
+        "label": "PRODUCT",
+        "start": 255,
+        "end": 261
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 274,
+        "end": 278
+      },
+      {
+        "text": "Deimos",
+        "label": "PERSON",
+        "start": 429,
+        "end": 435
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 456,
+        "end": 460
+      },
+      {
+        "text": "Moon",
+        "label": "PERSON",
+        "start": 486,
+        "end": 490
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 515,
+        "end": 520
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 555,
+        "end": 559
+      },
+      {
+        "text": "less than 40 million years",
+        "label": "MONEY",
+        "start": 563,
+        "end": 589
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 647,
+        "end": 651
+      },
+      {
+        "text": "the U.S. Naval Observatory",
+        "label": "ORG",
+        "start": 722,
+        "end": 748
+      },
+      {
+        "text": "Japanese",
+        "label": "NORP",
+        "start": 787,
+        "end": 795
+      },
+      {
+        "text": "Phobos",
+        "label": "WORK_OF_ART",
+        "start": 813,
+        "end": 819
+      },
+      {
+        "text": "23 February 2021",
+        "label": "DATE",
+        "start": 840,
+        "end": 856
+      },
+      {
+        "text": "Amirhossein Bagheri",
+        "label": "PERSON",
+        "start": 871,
+        "end": 890
+      },
+      {
+        "text": "Amir Khan",
+        "label": "PERSON",
+        "start": 892,
+        "end": 901
+      },
+      {
+        "text": "Michael Efroimsky",
+        "label": "PERSON",
+        "start": 903,
+        "end": 920
+      },
+      {
+        "text": "Mikhail Kruglyakov",
+        "label": "PERSON",
+        "start": 922,
+        "end": 940
+      },
+      {
+        "text": "Domenico Giardini",
+        "label": "PERSON",
+        "start": 945,
+        "end": 962
+      },
+      {
+        "text": "Phobos",
+        "label": "PERSON",
+        "start": 988,
+        "end": 994
+      },
+      {
+        "text": "Deimos",
+        "label": "PERSON",
+        "start": 999,
+        "end": 1005
+      },
+      {
+        "text": "Nature Astronomy",
+        "label": "PERSON",
+        "start": 1053,
+        "end": 1069
+      },
+      {
+        "text": "22 February 2021",
+        "label": "DATE",
+        "start": 1088,
+        "end": 1104
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1111,
+        "end": 1118
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Amir Khan",
+        "Amirhossein Bagheri",
+        "Bagheri",
+        "Deimos",
+        "Domenico Giardini",
+        "ETH Zurich’s",
+        "Khan",
+        "Michael Efroimsky",
+        "Mikhail Kruglyakov",
+        "Moon",
+        "Nature Astronomy",
+        "Phobos",
+        "cubic centimetre"
+      ],
+      "ORG": [
+        "ETH",
+        "NASA",
+        "Phobos",
+        "the Institute of Geophysics",
+        "the Physics Institute",
+        "the U.S. Naval Observatory",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Earth",
+        "Mars",
+        "Zurich",
+        "the Red Planet"
+      ],
+      "DATE": [
+        "22 February 2021",
+        "23 February 2021",
+        "today"
+      ],
+      "MISC": [
+        "10.1038",
+        "22 kilometres",
+        "5.5 grams",
+        "First",
+        "Japanese",
+        "Martian",
+        "Nature Astronomy",
+        "Phobos",
+        "Phobos and",
+        "Phobos and Deimos",
+        "Phobos and Deimos are the remainders of this lost moon",
+        "hundreds",
+        "less than 2 grams",
+        "less than 40 million years",
+        "only 12 kilometres",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Mars": 14,
+      "Phobos": 10,
+      "Deimos": 10,
+      "Khan": 4,
+      "Bagheri": 3,
+      "Earth": 3,
+      "Moon": 2,
+      "Amirhossein Bagheri": 2,
+      "the Institute of Geophysics": 2,
+      "Phobos and Deimos": 2,
+      "Martian": 2,
+      "Amir Khan": 2,
+      "Nature Astronomy": 2,
+      "cubic centimetre": 2,
+      "Japanese": 2,
+      "two": 1,
+      "22 kilometres": 1,
+      "only 12 kilometres": 1,
+      "the Physics Institute": 1,
+      "the University of Zurich": 1
+    },
+    "total_entities": 87,
+    "unique_entities": 40
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "martian-moons-have-a-common-ancestor.md",
+      "title": "En News Events/2021/02/martian Moons Have A Common Ancestor",
+      "language": "en",
+      "source_path": "en_news_events/2021/02/martian-moons-have-a-common-ancestor.html"
+    },
+    "temporal": {
+      "publication_date": "2021-02",
+      "mentioned_years": [
+        "2021",
+        "2024",
+        "2025"
+      ],
+      "time_periods": [
+        [
+          "2025",
+          "2024"
+        ]
+      ],
+      "temporal_context": "since, until, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Amir Khan",
+        "Amirhossein Bagheri",
+        "Bagheri",
+        "Deimos",
+        "Domenico Giardini",
+        "ETH Zurich’s",
+        "Khan",
+        "Michael Efroimsky",
+        "Mikhail Kruglyakov",
+        "Moon",
+        "Nature Astronomy",
+        "Phobos",
+        "cubic centimetre"
+      ],
+      "people_with_roles": {
+        "Amir Khan": [
+          "scientist"
+        ],
+        "Amirhossein Bagheri": [
+          "student"
+        ],
+        "Bagheri": [
+          "student"
+        ],
+        "Deimos": [
+          "researcher",
+          "student"
+        ],
+        "Khan": [
+          "scientist"
+        ],
+        "Moon": [
+          "researcher",
+          "student"
+        ],
+        "Phobos": [
+          "researcher",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "10.1038",
+        "22 kilometres",
+        "5.5 grams",
+        "First",
+        "Japanese",
+        "Martian",
+        "Nature Astronomy",
+        "Phobos",
+        "Phobos and",
+        "Phobos and Deimos",
+        "Phobos and Deimos are the remainders of this lost moon",
+        "hundreds",
+        "less than 2 grams",
+        "less than 40 million years",
+        "only 12 kilometres"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Amirhossein Bagheri",
+        "Physics Institute",
+        "Naval Observatory",
+        "Nature Astronomy",
+        "Red Planet",
+        "Michael Efroimsky",
+        "En News",
+        "Ancestor Mars",
+        "Moons Have",
+        "Senior Scientist",
+        "A Japanese",
+        "Domenico Giardini",
+        "Amir Khan",
+        "ETH Zurich",
+        "A Common",
+        "Mikhail Kruglyakov"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "NASA",
+        "Phobos",
+        "the Institute of Geophysics",
+        "the Physics Institute",
+        "the U.S. Naval Observatory",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Earth",
+        "Mars",
+        "Zurich",
+        "the Red Planet"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Mars",
+        "Phobos",
+        "Deimos",
+        "Khan",
+        "Bagheri",
+        "Earth",
+        "Moon",
+        "Amirhossein Bagheri",
+        "the Institute of Geophysics",
+        "Phobos and Deimos"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Calculating the past",
+          "Calculating the past",
+          "Insights into the interior of Mars and its moons",
+          "The end of Phobos"
+        ],
+        "content_length": 5057
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2025",
+        "Khan",
+        "the Institute of Geophysics",
+        "cubic centimetre",
+        "the University of Zurich",
+        "Deimos",
+        "ETH Zurich’s",
+        "the Physics Institute",
+        "Amirhossein Bagheri",
+        "Phobos",
+        "Bagheri",
+        "Domenico Giardini",
+        "NASA",
+        "Nature Astronomy",
+        "Moon",
+        "the U.S. Naval Observatory",
+        "Mikhail Kruglyakov",
+        "2024",
+        "Michael Efroimsky",
+        "Amir Khan",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Japanese",
+        "5.5 grams",
+        "First",
+        "only 12 kilometres",
+        "when",
+        "Martian",
+        "Phobos",
+        "less than 2 grams",
+        "10.1038",
+        "Phobos and Deimos",
+        "hundreds",
+        "Nature Astronomy",
+        "Phobos and",
+        "who",
+        "what",
+        "how",
+        "22 kilometres",
+        "Phobos and Deimos are the remainders of this lost moon",
+        "less than 40 million years",
+        "where"
+      ],
+      "graph_relations": [
+        "Amir Khan_has_role_scientist",
+        "Amirhossein Bagheri_has_role_student",
+        "Bagheri_has_role_student",
+        "Deimos_has_role_researcher",
+        "Deimos_has_role_student",
+        "Khan_has_role_scientist",
+        "Moon_has_role_researcher",
+        "Moon_has_role_student",
+        "Phobos_has_role_researcher",
+        "Phobos_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

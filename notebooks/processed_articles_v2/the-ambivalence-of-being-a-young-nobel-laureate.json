@@ -1,0 +1,158 @@
+{
+  "filename": "the-ambivalence-of-being-a-young-nobel-laureate.md",
+  "original_filename": "the-ambivalence-of-being-a-young-nobel-laureate.html",
+  "source_path": "en_news_events/2021/07/the-ambivalence-of-being-a-young-nobel-laureate.html",
+  "date": "2021-07",
+  "title": "The Ambivalence Of Being A Young Nobel Laureate",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Didier Queloz is a highly passionate person with a broad sense of humour. Instead of becoming a storyteller, he chose to become an astrophysicist. While working on his PhD., he made a discovery that changed astronomy entirely. Together with his professor Michel Mayor, Didier Queloz received the Physics Nobel Prize for this discovery."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Queloz",
+        "label": "PERSON",
+        "start": 7,
+        "end": 13
+      },
+      {
+        "text": "Michel Mayor",
+        "label": "PERSON",
+        "start": 255,
+        "end": 267
+      },
+      {
+        "text": "Didier Queloz",
+        "label": "PERSON",
+        "start": 269,
+        "end": 282
+      },
+      {
+        "text": "the Physics Nobel Prize",
+        "label": "ORG",
+        "start": 292,
+        "end": 315
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Didier Queloz",
+        "Michel Mayor",
+        "Queloz"
+      ],
+      "ORG": [
+        "the Physics Nobel Prize"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Queloz": 1,
+      "Michel Mayor": 1,
+      "Didier Queloz": 1,
+      "the Physics Nobel Prize": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-ambivalence-of-being-a-young-nobel-laureate.md",
+      "title": "En News Events/2021/07/the Ambivalence Of Being A Young Nobel Laureate",
+      "language": "en",
+      "source_path": "en_news_events/2021/07/the-ambivalence-of-being-a-young-nobel-laureate.html"
+    },
+    "temporal": {
+      "publication_date": "2021-07",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Didier Queloz",
+        "Michel Mayor",
+        "Queloz"
+      ],
+      "people_with_roles": {
+        "Didier Queloz": [
+          "professor"
+        ],
+        "Michel Mayor": [
+          "professor"
+        ],
+        "Queloz": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Young Nobel",
+        "Ambivalence Of",
+        "En News",
+        "Physics Nobel",
+        "Michel Mayor",
+        "Being A",
+        "Didier Queloz",
+        "Laureate Didier"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "the Physics Nobel Prize"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Queloz",
+        "Michel Mayor",
+        "Didier Queloz",
+        "the Physics Nobel Prize"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 406
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Michel Mayor",
+        "the Physics Nobel Prize",
+        "Queloz",
+        "Didier Queloz",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "who"
+      ],
+      "graph_relations": [
+        "Didier Queloz_has_role_professor",
+        "Michel Mayor_has_role_professor",
+        "Queloz_has_role_professor"
+      ]
+    }
+  }
+}

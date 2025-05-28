@@ -1,0 +1,140 @@
+{
+  "filename": "26-november-tag-der-forschung.md",
+  "original_filename": "26-november-tag-der-forschung.html",
+  "source_path": "de_internal/2014/11/26-november-tag-der-forschung.html",
+  "date": "2014-11",
+  "title": "26 November Tag Der Forschung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Dann besuchen Sie den Stand der ETH-Bibliothek und lassen sich von unseren Fachpersonen beraten:\n\nWann: 11 bis 13 Uhr Wo: Hauptgebäude der ETH Zürich, Eingangshalle"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/11",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Tag der Forschung",
+        "label": "MISC",
+        "start": 32,
+        "end": 49
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 32,
+        "end": 46
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 138,
+        "end": 148
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2014/11"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "Tag der Forschung"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2014/11": 1,
+      "Tag der Forschung": 1,
+      "ETH-Bibliothek": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "26-november-tag-der-forschung.md",
+      "title": "De Internal/2014/11/26 November Tag der Forschung",
+      "language": "de",
+      "source_path": "de_internal/2014/11/26-november-tag-der-forschung.html"
+    },
+    "temporal": {
+      "publication_date": "2014-11",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "Tag der Forschung"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Uhr Wo",
+        "ETH-Bibliothek",
+        "De Internal",
+        "Forschung Dann",
+        "November Tag"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2014/11"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De Internal/2014/11",
+        "Tag der Forschung",
+        "ETH-Bibliothek",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 214
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "who",
+        "ETH-Bibliothek",
+        "Tag der Forschung"
+      ],
+      "graph_relations": []
+    }
+  }
+}

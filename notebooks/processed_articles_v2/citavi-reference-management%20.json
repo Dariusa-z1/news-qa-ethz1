@@ -1,0 +1,123 @@
+{
+  "filename": "citavi-reference-management%20.md",
+  "original_filename": "citavi-reference-management%20.html",
+  "source_path": "en_internal/2014/03/citavi-reference-management%20.html",
+  "date": "2014-03",
+  "title": "Citavi Reference Management%20",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "You will learn, for example:\n\nThe presentation will be in German. No registration necessary.\n\nVenue: Zentralbibliothek Zurich , seminar room B"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Reference Management%20",
+        "label": "PERSON",
+        "start": 27,
+        "end": 50
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 57,
+        "end": 63
+      },
+      {
+        "text": "Zentralbibliothek Zurich",
+        "label": "PERSON",
+        "start": 99,
+        "end": 123
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Reference Management%20",
+        "Zentralbibliothek Zurich"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "Reference Management%20": 1,
+      "German": 1,
+      "Zentralbibliothek Zurich": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "citavi-reference-management%20.md",
+      "title": "En Internal/2014/03/citavi Reference Management%20",
+      "language": "en",
+      "source_path": "en_internal/2014/03/citavi-reference-management%20.html"
+    },
+    "temporal": {
+      "publication_date": "2014-03",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Reference Management%20",
+        "Zentralbibliothek Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "German"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Zentralbibliothek Zurich",
+        "Reference Management",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Reference Management%20",
+        "German",
+        "Zentralbibliothek Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 193
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Zentralbibliothek Zurich",
+        "2014",
+        "Reference Management%20"
+      ],
+      "semantic_concepts": [
+        "German"
+      ],
+      "graph_relations": []
+    }
+  }
+}

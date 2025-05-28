@@ -1,0 +1,485 @@
+{
+  "filename": "how-robots-learn-to-hike.md",
+  "original_filename": "how-robots-learn-to-hike.html",
+  "source_path": "en_news_events/2022/01/how-robots-learn-to-hike.html",
+  "date": "2022-01",
+  "title": "How Robots Learn To Hike",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Perceiving the environment accurately",
+      "text": "Steep sections on slippery ground, high steps, scree and forest trails full of roots: the path up the 1,098-metre-high Mount Etzel at the southern end of Lake Zurich is peppered with numerous obstacles. But ANYmal, the quadrupedal robot from the Robotic Systems Lab at ETH Zurich, overcomes the 120 vertical metres effortlessly in a 31-minute hike. That’s 4 minutes faster than the estimated duration for human hikers – and with no falls or missteps.\n\nThis is made possible by a new control technology, which researchers at ETH Zurich led by robotics professor Marco Hutter recently presented in the journal Science Robotics . “The robot has learned to combine visual perception of its environment with proprioception – its sense of touch – based on direct leg contact. This allows it to tackle rough terrain faster, more efficiently and, above all, more robustly,” Hutter says. In the future, ANYmal can be used anywhere that is too dangerous for humans or too impassable for other robots."
+    },
+    {
+      "heading": "Perceiving the environment accurately",
+      "text": "To navigate difficult terrain, humans and animals quite automatically combine the visual perception of their environment with the proprioception of their legs and hands. This allows them to easily handle slippery or soft ground and move around with confidence, even when visibility is low. Until now, legged robots have been able to do this only to a limited extent.\n\n“The reason is that the information about the immediate environment recorded by laser sensors and cameras is often incomplete and ambiguous,” explains Takahiro Miki, a doctoral student in Hutter’s group and lead author of the study. For example, tall grass, shallow puddles or snow appear as insurmountable obstacles or are partially invisible, even though the robot could actually traverse them. In addition, the robot’s view can be obscured in the field by difficult lighting conditions, dust or fog.\n\n“That’s why robots like ANYmal have to be able to decide for themselves when to trust the visual perception of their environment and move forward briskly, and when it is better to proceed cautiously and with small steps,” Miki says. “And that’s the big challenge.”"
+    },
+    {
+      "heading": "A virtual training camp",
+      "text": "Thanks to a new controller based on a neural network, the legged robot ANYmal, which was developed by ETH Zurich researchers and commercialized by the ETH spin-off ANYbotics , is now able to combine external and proprioceptive perception for the first time. Before the robot could put its capabilities to the test in the real world, the scientists exposed the system to numerous obstacles and sources of error in a virtual training camp. This let the network learn the ideal way for the robot to overcome obstacles, as well as when it can rely on environmental data – and when it would do better to ignore that data.\n\n“With this training, the robot is able to master the most difficult natural terrain without having seen it before,” says ETH Zurich Professor Hutter. This works even if the sensor data on the immediate environment is ambiguous or vague. ANYmal then plays it safe and relies on its proprioception. According to Hutter, this allows the robot to combine the best of both worlds: the speed and efficiency of external sensing and the safety of proprioceptive sensing."
+    },
+    {
+      "heading": "Use under extreme conditions",
+      "text": "Whether after an earthquake, after a nuclear disaster, or during a forest fire, robots like ANYmal can be used primarily wherever it is too dangerous for humans and where other robots cannot cope with the difficult terrain.\n\nIn September of last year, ANYmal was able to demonstrate just how well the new control technology works at the DARPA Subterranean Challenge , the world’s best-known robotics competition. The ETH Zurich robot automatically and quickly overcame numerous obstacles and difficult terrain while autonomously exploring an underground system of narrow tunnels, caves, and urban infrastructure. This was a major part of why the ETH Zurich researchers, as part of the CERBERUS team, took first place with a prize of 2 million dollars.\n\nMiki T, Lee J, Hwangbo J, Wellhausen L: Learning robust perceptive locomotion for quadrupedal robots in the wild, Science Robotics 2022, doi: 10.1126/scirobotics.abk2822"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "1,098-metre",
+        "label": "QUANTITY",
+        "start": 102,
+        "end": 113
+      },
+      {
+        "text": "Mount Etzel",
+        "label": "PRODUCT",
+        "start": 119,
+        "end": 130
+      },
+      {
+        "text": "Lake Zurich",
+        "label": "GPE",
+        "start": 154,
+        "end": 165
+      },
+      {
+        "text": "the Robotic Systems Lab",
+        "label": "ORG",
+        "start": 242,
+        "end": 265
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 269,
+        "end": 279
+      },
+      {
+        "text": "120 vertical metres",
+        "label": "QUANTITY",
+        "start": 295,
+        "end": 314
+      },
+      {
+        "text": "31-minute",
+        "label": "TIME",
+        "start": 333,
+        "end": 342
+      },
+      {
+        "text": "4 minutes",
+        "label": "TIME",
+        "start": 356,
+        "end": 365
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 523,
+        "end": 533
+      },
+      {
+        "text": "Marco Hutter",
+        "label": "PERSON",
+        "start": 560,
+        "end": 572
+      },
+      {
+        "text": "Science Robotics",
+        "label": "ORG",
+        "start": 607,
+        "end": 623
+      },
+      {
+        "text": "Hutter",
+        "label": "PERSON",
+        "start": 865,
+        "end": 871
+      },
+      {
+        "text": "Takahiro Miki",
+        "label": "PERSON",
+        "start": 518,
+        "end": 531
+      },
+      {
+        "text": "Hutter",
+        "label": "GPE",
+        "start": 555,
+        "end": 561
+      },
+      {
+        "text": "Miki",
+        "label": "PERSON",
+        "start": 1092,
+        "end": 1096
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 102,
+        "end": 112
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 151,
+        "end": 154
+      },
+      {
+        "text": "ANYbotics",
+        "label": "ORG",
+        "start": 164,
+        "end": 173
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 246,
+        "end": 251
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 738,
+        "end": 748
+      },
+      {
+        "text": "Hutter",
+        "label": "PERSON",
+        "start": 759,
+        "end": 765
+      },
+      {
+        "text": "Hutter",
+        "label": "GPE",
+        "start": 927,
+        "end": 933
+      },
+      {
+        "text": "September of last year",
+        "label": "DATE",
+        "start": 227,
+        "end": 249
+      },
+      {
+        "text": "the DARPA Subterranean Challenge",
+        "label": "FAC",
+        "start": 332,
+        "end": 364
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "GPE",
+        "start": 416,
+        "end": 426
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 645,
+        "end": 655
+      },
+      {
+        "text": "CERBERUS",
+        "label": "NORP",
+        "start": 684,
+        "end": 692
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 704,
+        "end": 709
+      },
+      {
+        "text": "2 million dollars",
+        "label": "MONEY",
+        "start": 732,
+        "end": 749
+      },
+      {
+        "text": "Miki",
+        "label": "PERSON",
+        "start": 751,
+        "end": 755
+      },
+      {
+        "text": "Lee J",
+        "label": "PERSON",
+        "start": 759,
+        "end": 764
+      },
+      {
+        "text": "Science Robotics 2022",
+        "label": "ORG",
+        "start": 865,
+        "end": 886
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 893,
+        "end": 900
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Hutter",
+        "Lee J",
+        "Marco Hutter",
+        "Miki",
+        "Takahiro Miki"
+      ],
+      "ORG": [
+        "ANYbotics",
+        "ETH",
+        "ETH Zurich",
+        "Science Robotics",
+        "Science Robotics 2022",
+        "the Robotic Systems Lab"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Hutter",
+        "Lake Zurich",
+        "the DARPA Subterranean Challenge"
+      ],
+      "DATE": [
+        "31-minute",
+        "4 minutes",
+        "September of last year"
+      ],
+      "MISC": [
+        "1,098-metre",
+        "10.1126",
+        "120 vertical metres",
+        "2 million dollars",
+        "CERBERUS",
+        "Mount Etzel",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 6,
+      "Hutter": 4,
+      "Miki": 2,
+      "first": 2,
+      "1,098-metre": 1,
+      "Mount Etzel": 1,
+      "Lake Zurich": 1,
+      "the Robotic Systems Lab": 1,
+      "120 vertical metres": 1,
+      "31-minute": 1,
+      "4 minutes": 1,
+      "Marco Hutter": 1,
+      "Science Robotics": 1,
+      "Takahiro Miki": 1,
+      "ETH": 1,
+      "ANYbotics": 1,
+      "September of last year": 1,
+      "the DARPA Subterranean Challenge": 1,
+      "CERBERUS": 1,
+      "2 million dollars": 1
+    },
+    "total_entities": 33,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-robots-learn-to-hike.md",
+      "title": "En News Events/2022/01/how Robots Learn To Hike",
+      "language": "en",
+      "source_path": "en_news_events/2022/01/how-robots-learn-to-hike.html"
+    },
+    "temporal": {
+      "publication_date": "2022-01",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Hutter",
+        "Lee J",
+        "Marco Hutter",
+        "Miki",
+        "Takahiro Miki"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher",
+          "professor"
+        ],
+        "Hutter": [
+          "Professor",
+          "researcher",
+          "student",
+          "professor"
+        ],
+        "Marco Hutter": [
+          "researcher",
+          "professor"
+        ],
+        "Miki": [
+          "student"
+        ],
+        "Takahiro Miki": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "1,098-metre",
+        "10.1126",
+        "120 vertical metres",
+        "2 million dollars",
+        "CERBERUS",
+        "Mount Etzel",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Professor Hutter",
+        "In September",
+        "Marco Hutter",
+        "To Hike",
+        "Mount Etzel",
+        "But ANYmal",
+        "Robots Learn",
+        "Robotic Systems",
+        "Miki T",
+        "The ETH",
+        "Lake Zurich",
+        "Lee J",
+        "En News",
+        "Hwangbo J",
+        "Takahiro Miki",
+        "DARPA Subterranean",
+        "ETH Zurich",
+        "Science Robotics",
+        "Wellhausen L"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ANYbotics",
+        "ETH",
+        "ETH Zurich",
+        "Science Robotics",
+        "Science Robotics 2022",
+        "the Robotic Systems Lab"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Hutter",
+        "Lake Zurich",
+        "the DARPA Subterranean Challenge"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Hutter",
+        "Miki",
+        "first",
+        "1,098-metre",
+        "Mount Etzel",
+        "Lake Zurich",
+        "the Robotic Systems Lab",
+        "120 vertical metres",
+        "31-minute"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Perceiving the environment accurately",
+          "Perceiving the environment accurately",
+          "A virtual training camp",
+          "Use under extreme conditions"
+        ],
+        "content_length": 4179
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Miki",
+        "Hutter",
+        "EU",
+        "Lee J",
+        "Takahiro Miki",
+        "Science Robotics 2022",
+        "2022",
+        "ANYbotics",
+        "the Robotic Systems Lab",
+        "ETH Zurich",
+        "Science Robotics",
+        "ERC",
+        "Marco Hutter"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "Mount Etzel",
+        "1,098-metre",
+        "10.1126",
+        "where",
+        "2 million dollars",
+        "what",
+        "how",
+        "CERBERUS",
+        "why",
+        "when",
+        "engineering",
+        "120 vertical metres"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_professor",
+        "Hutter_has_role_Professor",
+        "Hutter_has_role_researcher",
+        "Hutter_has_role_student",
+        "Hutter_has_role_professor",
+        "Marco Hutter_has_role_researcher",
+        "Marco Hutter_has_role_professor",
+        "Miki_has_role_student",
+        "Takahiro Miki_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "filename": "quiz-bergwelt-im-klimawandel.md",
+  "original_filename": "quiz-bergwelt-im-klimawandel.html",
+  "source_path": "de_news_events/2019/10/quiz-bergwelt-im-klimawandel.html",
+  "date": "2019-10",
+  "title": "Quiz Bergwelt Im Klimawandel",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In unserer Quiz-Reihe nehmen wir Sie mit auf Erkundungstour durch bemerkenswerte, sonderbare und witzige Fakten aus Forschung und Lehre der ETH Zürich. Diese Folge widmet sich dem Thema Bergwelt im Klimawandel.\n\nAuch die diesjährige ETH-Klimarunde dreht sich um den Themenkreis «Klimawandel in der Bergwelt». Am Mittwoch 23. Oktober haben Besucherinnen und Besucher die Gelegenheit, sich an Vorträgen auf den neusten Wissensstand zu bringen und im Rahmen von Tischgesprächen direkt mit Fachleuten zu diskutieren.\n\nWeitere Informationen und Anmeldung"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Erkundungstour",
+        "label": "PER",
+        "start": 45,
+        "end": 59
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 140,
+        "end": 150
+      },
+      {
+        "text": "ETH-Klimarunde",
+        "label": "ORG",
+        "start": 232,
+        "end": 246
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Erkundungstour"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Klimarunde"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De News": 1,
+      "Erkundungstour": 1,
+      "ETH Zürich": 1,
+      "ETH-Klimarunde": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "quiz-bergwelt-im-klimawandel.md",
+      "title": "De News Events/2019/10/quiz Bergwelt Im Klimawandel",
+      "language": "de",
+      "source_path": "de_news_events/2019/10/quiz-bergwelt-im-klimawandel.html"
+    },
+    "temporal": {
+      "publication_date": "2019-10",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Erkundungstour"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Quiz-Reihe",
+        "Thema Bergwelt",
+        "Diese Folge",
+        "De News",
+        "Klimawandel In",
+        "Bergwelt Im",
+        "Weitere Informationen",
+        "ETH-Klimarunde",
+        "Am Mittwoch"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Klimarunde"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De News",
+        "Erkundungstour",
+        "ETH Zürich",
+        "ETH-Klimarunde"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 601
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "Erkundungstour",
+        "EU",
+        "ETH Zürich",
+        "De News",
+        "ETH-Klimarunde"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

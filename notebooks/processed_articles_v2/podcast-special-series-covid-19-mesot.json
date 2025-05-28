@@ -1,0 +1,262 @@
+{
+  "filename": "podcast-special-series-covid-19-mesot.md",
+  "original_filename": "podcast-special-series-covid-19-mesot.html",
+  "source_path": "en_news_events/2020/03/podcast-special-series-covid-19-mesot.html",
+  "date": "2020-03",
+  "title": "Podcast Special Series Covid 19 Mesot",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "President Mesot is working from home – like nearly all ETH members at the moment. ETH Zurich was one of the first universities to close all facilities and switch to online teaching in response to the coronavirus pandemic, including those in Singapore, Basel and Lugano. \"The main challenge is making sure that our students do not suffer from this situation,” he says. Mesot is navigating the university through this phase, together with his colleagues on the Executive Board. In the ETH Podcast, he talks about why ETH was so quick in deciding, how he has experienced the past few days, and what the most significant challenges are.\n\nYou can subscribe to it through any of the usual podcast platforms or listen to it on the Podcast-Website.\n\nThere, you will also find earlier episodes of the ETH Podcast."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Mesot",
+        "label": "PERSON",
+        "start": 10,
+        "end": 15
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 55,
+        "end": 58
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 82,
+        "end": 92
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 97,
+        "end": 100
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 108,
+        "end": 113
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 241,
+        "end": 250
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 252,
+        "end": 257
+      },
+      {
+        "text": "Lugano",
+        "label": "GPE",
+        "start": 262,
+        "end": 268
+      },
+      {
+        "text": "Mesot",
+        "label": "PERSON",
+        "start": 368,
+        "end": 373
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 455,
+        "end": 474
+      },
+      {
+        "text": "the ETH Podcast",
+        "label": "ORG",
+        "start": 479,
+        "end": 494
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 515,
+        "end": 518
+      },
+      {
+        "text": "the past few days",
+        "label": "DATE",
+        "start": 568,
+        "end": 585
+      },
+      {
+        "text": "the ETH Podcast",
+        "label": "ORG",
+        "start": 786,
+        "end": 801
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Mesot"
+      ],
+      "ORG": [
+        "ETH",
+        "En News",
+        "the ETH Podcast",
+        "the Executive Board"
+      ],
+      "LOCATION": [
+        "Basel",
+        "Lugano",
+        "Singapore"
+      ],
+      "DATE": [
+        "the past few days"
+      ],
+      "MISC": [
+        "first",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "Mesot": 2,
+      "ETH": 2,
+      "the ETH Podcast": 2,
+      "En News": 1,
+      "ETH Zurich": 1,
+      "one": 1,
+      "first": 1,
+      "Singapore": 1,
+      "Basel": 1,
+      "Lugano": 1,
+      "the Executive Board": 1,
+      "the past few days": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-special-series-covid-19-mesot.md",
+      "title": "En News Events/2020/03/podcast Special Series Covid 19 Mesot",
+      "language": "en",
+      "source_path": "en_news_events/2020/03/podcast-special-series-covid-19-mesot.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Mesot"
+      ],
+      "people_with_roles": {
+        "Mesot": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "Special Series",
+        "ETH Podcast",
+        "Mesot President",
+        "Executive Board",
+        "ETH Zurich",
+        "Podcast-Website"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "En News",
+        "the ETH Podcast",
+        "the Executive Board"
+      ],
+      "locations": [
+        "Basel",
+        "Lugano",
+        "Singapore"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Mesot",
+        "ETH",
+        "the ETH Podcast",
+        "En News",
+        "ETH Zurich",
+        "one",
+        "first",
+        "Singapore",
+        "Basel",
+        "Lugano"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 865
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Mesot",
+        "ETH",
+        "En News",
+        "2020",
+        "the ETH Podcast",
+        "the Executive Board",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "what",
+        "how",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Mesot_has_role_president",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

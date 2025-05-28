@@ -1,0 +1,203 @@
+{
+  "filename": "running-without-air-resistance.md",
+  "original_filename": "running-without-air-resistance.html",
+  "source_path": "en_news_events/2024/07/running-without-air-resistance.html",
+  "date": "2024-07",
+  "title": "Running Without Air Resistance",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "- Institute for Dynamic Systems and Control:\n\n- Institute of Human Movement Sciences and Sport:\n\nResearchers at ETH Zurich have developed an airshield within the space of a few months that facilitates a new type of high-speed training – running without air resistance. The Airshield is a U-shaped Plexiglas windscreen with wheels that is driven in front of the runner in a go-kart. Sensors regulate the speed, the driver in the go-kart only has to steer. This enables athletes to reach competition speeds during training that are otherwise only possible with an increased adrenaline level.\n\nThey can use the new technology to optimise and internalise movement sequences at high speeds. “Training with devices such as the airshield helps me to squeeze out every last percent from my training. And it’s fun,” says track and field athlete Mujinga Kambundji. You can see in the video how the airshield works and the challenges met by the researchers.\n\nThe development of the airshield is an example of interdisciplinary collaboration at ETH Zurich. The following professorships are involved:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Without Air Resistance",
+        "label": "ORG",
+        "start": 31,
+        "end": 53
+      },
+      {
+        "text": "Control: - Institute of Human Movement Sciences",
+        "label": "ORG",
+        "start": 36,
+        "end": 83
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 110,
+        "end": 120
+      },
+      {
+        "text": "a few months",
+        "label": "DATE",
+        "start": 169,
+        "end": 181
+      },
+      {
+        "text": "Airshield",
+        "label": "PERSON",
+        "start": 271,
+        "end": 280
+      },
+      {
+        "text": "Plexiglas",
+        "label": "PERSON",
+        "start": 295,
+        "end": 304
+      },
+      {
+        "text": "Mujinga Kambundji",
+        "label": "PERSON",
+        "start": 833,
+        "end": 850
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1029,
+        "end": 1039
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Airshield",
+        "Mujinga Kambundji",
+        "Plexiglas"
+      ],
+      "ORG": [
+        "Control: - Institute of Human Movement Sciences",
+        "ETH Zurich",
+        "Without Air Resistance"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "a few months"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Without Air Resistance": 1,
+      "Control: - Institute of Human Movement Sciences": 1,
+      "a few months": 1,
+      "Airshield": 1,
+      "Plexiglas": 1,
+      "Mujinga Kambundji": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "running-without-air-resistance.md",
+      "title": "En News Events/2024/07/running Without Air Resistance",
+      "language": "en",
+      "source_path": "en_news_events/2024/07/running-without-air-resistance.html"
+    },
+    "temporal": {
+      "publication_date": "2024-07",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Airshield",
+        "Mujinga Kambundji",
+        "Plexiglas"
+      ],
+      "people_with_roles": {
+        "Airshield": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Dynamic Systems",
+        "En News",
+        "Mujinga Kambundji",
+        "The Airshield",
+        "Human Movement",
+        "ETH Zurich",
+        "Without Air"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Dynamic Systems and Control"
+      ],
+      "institutions": [
+        "Control: - Institute of Human Movement Sciences",
+        "ETH Zurich",
+        "Without Air Resistance"
+      ],
+      "locations": [],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Without Air Resistance",
+        "Control: - Institute of Human Movement Sciences",
+        "a few months",
+        "Airshield",
+        "Plexiglas",
+        "Mujinga Kambundji"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1141
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Without Air Resistance",
+        "2024",
+        "Mujinga Kambundji",
+        "Airshield",
+        "Plexiglas",
+        "ETH Zurich",
+        "ERC",
+        "Control: - Institute of Human Movement Sciences"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "how",
+        "what",
+        "who"
+      ],
+      "graph_relations": [
+        "Airshield_has_role_researcher",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,509 @@
+{
+  "filename": "binding-sites-for-protein-making-machinery.md",
+  "original_filename": "binding-sites-for-protein-making-machinery.html",
+  "source_path": "en_news_events/2020/08/binding-sites-for-protein-making-machinery.html",
+  "date": "2020-08",
+  "title": "Binding Sites For Protein Making Machinery",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Precise control over protein production",
+      "text": "Genome sequencing of bacteria, plants and even humans has become a routine process, yet the genome still poses many unanswered questions. One of these concerns the sites on messenger RNAs (mRNAs) that ribosomes – the cellular structures responsible for protein synthesis – bind to in order to translate genetic information. Currently, the function of these ribosome binding sites is only partly understood.\n\nAn interdisciplinary team of researchers from the Department of Biosystems Science and Engineering (D-BSSE) at ETH Zurich in Basel has now developed a new approach that, for the first time, makes it possible to obtain detailed information on an incredibly large number of these binding sites in bacteria. The new approach combines experimental methods of synthetic biology with machine learning."
+    },
+    {
+      "heading": "Precise control over protein production",
+      "text": "Ribosome binding sites are short RNA sequences upstream of a gene’s coding sequence. In the past, biotechnologists also developed synthetic binding sites. The ribosomes bind extremely well to some of these, and less well to others. The tighter ribosomes are able to bind to a specific variant, the more often they translate the respective gene and the greater the amount of the corresponding protein they produce.\n\nBiotechnologists who use bacteria to produce chemicals of interest such as pharmaceuticals can influence the amount of involved proteins in the cell through their choice of ribosome binding sites. “Exerting this kind of control is particularly important and helpful when incorporating complex gene networks comprising multiple proteins at the same time. The key here is to establish an optimal balance amongst the different proteins,” says Markus Jeschek, senior scientist and group leader at D-BSSE."
+    },
+    {
+      "heading": "An experiment with 300,000 sequences",
+      "text": "Together with ETH professors Yaakov Benenson and Karsten Borgwardt and members of the respective groups, Jeschek has now developed a method to determine how tightly ribosomes bind to hundreds of thousands or more RNA sequences in a single experiment. Previously this was only possible for a few hundred sequences.\n\nThe ETH researchers’ approach harnesses deep sequencing, the latest technology used to sequence DNA and RNA. In the laboratory, the scientists produced over 300,000 different synthetic ribosome binding sites and fused each of these with a gene for an enzyme that modifies a piece of target DNA. They introduced the resulting gene constructs into bacteria in order to see how tightly the ribosomes bind to RNA in each individual case. The better the function of the binding site, the more enzyme is produced in the cell and the more rapidly the target DNA will be changed. At the end of the experiment, the researchers can read this change together with the binding site’s RNA sequence using deep sequencing."
+    },
+    {
+      "heading": "Universally applicable approach",
+      "text": "Since 300,000 represents only a small fraction of the many billions of theoretically possible ribosome binding sites, the scientists analysed their data using machine learning algorithms. “These algorithms can detect complex patterns in large datasets. With their help, we can predict how tightly ribosomes will bind to a specific RNA sequence,” says Karsten Borgwardt, Professor of Data Mining. The ETH researchers have made this prediction model freely available as software so that other scientists can make use of it, and they will soon be introducing an easy-to-use online service as well.\n\nThe approach developed by the scientists is universally applicable, Benenson and Jeschek emphasise, and the team is planning to extend it to other organisms including human cells. “We’re also keen to find out how genetic information influences the amount of protein that is produced in a human cell,” Benenson says. “This could be particularly useful for genetic diseases.”\n\nHöllerer S, Papaxanthos L, Gumpinger AC, Fischer K, Beisel C, Borgwardt K, Benenson Y, Jeschek M: Large-scale DNA-based phenotypic recording and deep learning enable highly accurate sequence-function mapping. Nature Communications 2020, doi: 10.1038/s41467-020-17222-4"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Sites For Protein Making Machinery",
+        "label": "ORG",
+        "start": 31,
+        "end": 65
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 138,
+        "end": 141
+      },
+      {
+        "text": "the Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 453,
+        "end": 505
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 518,
+        "end": 528
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 532,
+        "end": 537
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 585,
+        "end": 590
+      },
+      {
+        "text": "Ribosome",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "Markus Jeschek",
+        "label": "PERSON",
+        "start": 854,
+        "end": 868
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "Yaakov Benenson",
+        "label": "PERSON",
+        "start": 29,
+        "end": 44
+      },
+      {
+        "text": "Karsten Borgwardt",
+        "label": "PERSON",
+        "start": 49,
+        "end": 66
+      },
+      {
+        "text": "Jeschek",
+        "label": "PERSON",
+        "start": 105,
+        "end": 112
+      },
+      {
+        "text": "hundreds of thousands",
+        "label": "CARDINAL",
+        "start": 183,
+        "end": 204
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 213,
+        "end": 216
+      },
+      {
+        "text": "a few hundred",
+        "label": "CARDINAL",
+        "start": 289,
+        "end": 302
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 318,
+        "end": 321
+      },
+      {
+        "text": "over 300,000",
+        "label": "CARDINAL",
+        "start": 466,
+        "end": 478
+      },
+      {
+        "text": "300,000",
+        "label": "CARDINAL",
+        "start": 6,
+        "end": 13
+      },
+      {
+        "text": "the many billions",
+        "label": "CARDINAL",
+        "start": 50,
+        "end": 67
+      },
+      {
+        "text": "RNA",
+        "label": "PERSON",
+        "start": 331,
+        "end": 334
+      },
+      {
+        "text": "Karsten Borgwardt",
+        "label": "PERSON",
+        "start": 351,
+        "end": 368
+      },
+      {
+        "text": "Data Mining",
+        "label": "ORG",
+        "start": 383,
+        "end": 394
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 400,
+        "end": 403
+      },
+      {
+        "text": "Benenson",
+        "label": "PERSON",
+        "start": 663,
+        "end": 671
+      },
+      {
+        "text": "Jeschek",
+        "label": "PERSON",
+        "start": 676,
+        "end": 683
+      },
+      {
+        "text": "Benenson",
+        "label": "PERSON",
+        "start": 896,
+        "end": 904
+      },
+      {
+        "text": "Höllerer S",
+        "label": "ORG",
+        "start": 969,
+        "end": 979
+      },
+      {
+        "text": "Papaxanthos L",
+        "label": "PERSON",
+        "start": 981,
+        "end": 994
+      },
+      {
+        "text": "Fischer K",
+        "label": "ORG",
+        "start": 1010,
+        "end": 1019
+      },
+      {
+        "text": "Benenson Y",
+        "label": "PERSON",
+        "start": 1044,
+        "end": 1054
+      },
+      {
+        "text": "Jeschek M: Large",
+        "label": "PERSON",
+        "start": 1056,
+        "end": 1072
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1178,
+        "end": 1199
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1211,
+        "end": 1218
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Benenson",
+        "Benenson Y",
+        "Jeschek",
+        "Jeschek M: Large",
+        "Karsten Borgwardt",
+        "Markus Jeschek",
+        "Papaxanthos L",
+        "RNA",
+        "Yaakov Benenson"
+      ],
+      "ORG": [
+        "Data Mining",
+        "ETH",
+        "ETH Zurich",
+        "Fischer K",
+        "Höllerer S",
+        "Nature Communications",
+        "RNA",
+        "Ribosome",
+        "Sites For Protein Making Machinery",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "LOCATION": [
+        "Basel"
+      ],
+      "DATE": [],
+      "MISC": [
+        "10.1038",
+        "300,000",
+        "One",
+        "a few hundred",
+        "first",
+        "hundreds of thousands",
+        "over 300,000",
+        "the many billions"
+      ]
+    },
+    "entity_counts": {
+      "RNA": 3,
+      "ETH": 3,
+      "Karsten Borgwardt": 2,
+      "Jeschek": 2,
+      "Benenson": 2,
+      "Sites For Protein Making Machinery": 1,
+      "One": 1,
+      "the Department of Biosystems Science and Engineering": 1,
+      "ETH Zurich": 1,
+      "Basel": 1,
+      "first": 1,
+      "Ribosome": 1,
+      "Markus Jeschek": 1,
+      "Yaakov Benenson": 1,
+      "hundreds of thousands": 1,
+      "a few hundred": 1,
+      "over 300,000": 1,
+      "300,000": 1,
+      "the many billions": 1,
+      "Data Mining": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "binding-sites-for-protein-making-machinery.md",
+      "title": "En News Events/2020/08/binding Sites For Protein Making Machinery",
+      "language": "en",
+      "source_path": "en_news_events/2020/08/binding-sites-for-protein-making-machinery.html"
+    },
+    "temporal": {
+      "publication_date": "2020-08",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Benenson",
+        "Benenson Y",
+        "Jeschek",
+        "Jeschek M: Large",
+        "Karsten Borgwardt",
+        "Markus Jeschek",
+        "Papaxanthos L",
+        "RNA",
+        "Yaakov Benenson"
+      ],
+      "people_with_roles": {
+        "Benenson": [
+          "scientist",
+          "professor"
+        ],
+        "Jeschek": [
+          "scientist",
+          "professor"
+        ],
+        "Karsten Borgwardt": [
+          "professor"
+        ],
+        "Markus Jeschek": [
+          "scientist"
+        ],
+        "RNA": [
+          "researcher",
+          "professor"
+        ],
+        "Yaakov Benenson": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "physics",
+        "chemistry",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10.1038",
+        "300,000",
+        "a few hundred",
+        "first",
+        "hundreds of thousands",
+        "over 300,000",
+        "the many billions"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Markus Jeschek",
+        "Fischer K",
+        "Sites For",
+        "Biosystems Science",
+        "Jeschek M",
+        "Borgwardt K",
+        "Gumpinger AC",
+        "Beisel C",
+        "The ETH",
+        "D-BSSE",
+        "Benenson Y",
+        "Yaakov Benenson",
+        "Nature Communications",
+        "Machinery Genome",
+        "Karsten Borgwardt",
+        "En News",
+        "Data Mining",
+        "ETH Zurich",
+        "Papaxanthos L",
+        "Protein Making"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biosystems Science and Engineering "
+      ],
+      "institutions": [
+        "Data Mining",
+        "ETH",
+        "ETH Zurich",
+        "Fischer K",
+        "Höllerer S",
+        "Nature Communications",
+        "RNA",
+        "Ribosome",
+        "Sites For Protein Making Machinery",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "locations": [
+        "Basel"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "RNA",
+        "ETH",
+        "Karsten Borgwardt",
+        "Jeschek",
+        "Benenson",
+        "Sites For Protein Making Machinery",
+        "One",
+        "the Department of Biosystems Science and Engineering",
+        "ETH Zurich",
+        "Basel"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Precise control over protein production",
+          "Precise control over protein production",
+          "An experiment with 300,000 sequences",
+          "Universally applicable approach"
+        ],
+        "content_length": 4048
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Markus Jeschek",
+        "ETH",
+        "Fischer K",
+        "2020",
+        "the Department of Biosystems Science and Engineering",
+        "Benenson",
+        "Jeschek M: Large",
+        "RNA",
+        "Benenson Y",
+        "EU",
+        "Yaakov Benenson",
+        "Höllerer S",
+        "Nature Communications",
+        "Karsten Borgwardt",
+        "Data Mining",
+        "Sites For Protein Making Machinery",
+        "Jeschek",
+        "Ribosome",
+        "ETH Zurich",
+        "Papaxanthos L"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "computer_science",
+        "the many billions",
+        "who",
+        "hundreds of thousands",
+        "10.1038",
+        "a few hundred",
+        "chemistry",
+        "over 300,000",
+        "biology",
+        "300,000",
+        "what",
+        "how",
+        "medical_research",
+        "when"
+      ],
+      "graph_relations": [
+        "Benenson_has_role_scientist",
+        "Benenson_has_role_professor",
+        "Jeschek_has_role_scientist",
+        "Jeschek_has_role_professor",
+        "Karsten Borgwardt_has_role_professor",
+        "Markus Jeschek_has_role_scientist",
+        "RNA_has_role_researcher",
+        "RNA_has_role_professor",
+        "Yaakov Benenson_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

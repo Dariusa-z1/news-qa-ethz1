@@ -1,0 +1,121 @@
+{
+  "filename": "de_internal_2024_01_die-bibliothek-erdwissenschaften-schliesst-ihre-tueren-aber-nicht-ihr-angebot.md",
+  "original_filename": "de_internal_2024_01_die-bibliothek-erdwissenschaften-schliesst-ihre-tueren-aber-nicht-ihr-angebot.html",
+  "source_path": "de_internal/2024/01/die-bibliothek-erdwissenschaften-schliesst-ihre-tueren-aber-nicht-ihr-angebot.html",
+  "date": "2024-01",
+  "title": "Die Bibliothek Erdwissenschaften Schliesst Ihre Tueren Aber Nicht Ihr Angebot",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das Wichtigste zuerst: Wir sind für Sie da. Obwohl der Standort schliesst, können Sie weiterhin auf unsere umfangreiche Mediensammlung zugreifen, an Kursen teilnehmen und unsere Beratungsangebote in Anspruch nehmen.\n\nWir hoffen auf Ihr Verständnis und freuen uns darauf, Sie auch zukünftig mit unseren Angeboten bei Ihren Forschungs- und Studienvorhaben optimal zu unterstützen.\n\nE-Mail: Telefon: +41 44 632 21 35 Mehr Details zur Schliessung finden Sie auf unsere Website ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2024/01/die Bibliothek Erdwissenschaften",
+        "label": "LOC",
+        "start": 0,
+        "end": 52
+      },
+      {
+        "text": "Telefon",
+        "label": "LOC",
+        "start": 386,
+        "end": 393
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2024/01/die Bibliothek Erdwissenschaften",
+        "Telefon"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2024/01/die Bibliothek Erdwissenschaften": 1,
+      "Telefon": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2024_01_die-bibliothek-erdwissenschaften-schliesst-ihre-tueren-aber-nicht-ihr-angebot.md",
+      "title": "De Internal/2024/01/die Bibliothek Erdwissenschaften Schliesst Ihre Tueren aber Nicht Ihr Angebot",
+      "language": "de",
+      "source_path": "de_internal/2024/01/die-bibliothek-erdwissenschaften-schliesst-ihre-tueren-aber-nicht-ihr-angebot.html"
+    },
+    "temporal": {
+      "publication_date": "2024-01",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Mehr Details",
+        "Angebot Das",
+        "Bibliothek Erdwissenschaften",
+        "E-Mail",
+        "Schliesst Ihre",
+        "De Internal",
+        "Ihren Forschungs",
+        "Nicht Ihr"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2024/01/die Bibliothek Erdwissenschaften",
+        "Telefon"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2024/01/die Bibliothek Erdwissenschaften",
+        "Telefon"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 572
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "EU"
+      ],
+      "semantic_concepts": [
+        "technology"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

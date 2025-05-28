@@ -1,0 +1,34 @@
+# escaping-the-hamster-wheel.html
+
+**Source:** en_news_events/2017/07/escaping-the-hamster-wheel.html
+
+## Humans in the hamster wheel
+
+The invention of the wheel was one of humanity’s earliest cultural achievements. Another was the domestication of animals. The synthesis of the two – the hamster wheel – can therefore serve as the ideotype of a variety of complex cultural developments. Technology enables humanity to subjugate an animal, appeal to its instincts and give it a new occupation. Once it’s underway, the idea of stopping becomes unthinkable. The creature would stumble and fall victim to the uncontrollable effects of centrifugal force.
+
+## Humans in the hamster wheel
+
+It took a long time to get from the wheel to the hamster wheel. From the plough to glyphosate, from the steam engine to the assembly line, and from the first computer to the smartphone, these transitions got quicker – and increasingly quicker. There was no longer time to find hamsters, so humanity simply subjugated itself instead.
+
+Technology has given us a longer, more meaningful life, and enriched our understanding of the world. But it has also created centrifugal forces that drive us to the edge of the wheel and persuade us that the world would turn upside down – or maybe far worse – if we dared to stop running.
+
+## The hamster wheels of science
+
+The vast hamster wheel of science is made up of technological developments, publications, applications, competitions, and so on and so forth. A recent PNAS article, “ Science in the age of selfies ”, analysed this quite incisively: we may have more technology and information than ever before, but our creativity seems to be paralysed by all the hustle and bustle surrounding us – which we ourselves are encouraging.
+
+We invent and communicate, we publish articles at an ever-increasing rate, we create videos and we’re never offline. But how new are our insights, really? How revolutionary are our ideas? Are we perhaps so busy with details and distractions from our information bubble that we don’t notice we’re just focusing on ourselves rather than creating anything new?
+
+## Progress requires downtime too
+
+Creating new things, counteracting negative developments, helping to reduce hunger, disease and suffering: these all require time. Time for difficult development work – and time for reflection. New active substances for pesticides and medications undergo a series of tests which often take years. An equally protracted approval procedure is required before new varieties of plants can enter the market.
+
+Everyone agrees that this time and testing of side effects is necessary. Why should the process be different for radical new ideas? A flash of inspiration is electrifying – but electricity can be dangerous too. A study that hasn’t been replicated reliably can give a false image of reality. A hastily posted piece of information can trigger a shitstorm.
+
+In our era of constantly available information, we are no longer used to waiting. But waiting, checking and questioning are essential, both for the approval of potentially harmful chemicals and for the development of ideas. This is the only way to put ourselves in another person’s shoes, consider alternative plans and rigorously think through positions. Creative freedom is no longer a given; we need to make space for it ourselves. The hamster in us must learn to control its wheel.
+
+## Bringing the wheel to rest
+
+Using our hamster wheel is great – but bringing it to a stop at the right time is just as important. This may come at the price of victory, injure our personal pride and make us feel as though we’ve embarrassed ourselves in front of onlookers – but it’s worth it in the long run, and it’s less dangerous than we think. Our physics lessons should have taught us that centrifugal force is a fictitious force. Our observation of the hamster wheel should have shown us that the animal won’t break its neck when it stops running. Instead, it simply comes to a standstill, gives its paws a rest and can finally do what it always wanted to: simply eat something in peace.
+
+In this spirit, I, as an agricultural scientist, am now taking a break from the fields, attempting to enjoy my holidays and continue pondering creativity and hamster wheels. Right now, the only forms of centrifugal force I’ll allow are the swaying of the hammock and the rise and fall of the tides.
+

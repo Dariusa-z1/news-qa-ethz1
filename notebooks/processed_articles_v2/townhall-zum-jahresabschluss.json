@@ -1,0 +1,159 @@
+{
+  "filename": "townhall-zum-jahresabschluss.md",
+  "original_filename": "townhall-zum-jahresabschluss.html",
+  "source_path": "de_internal/2020/12/townhall-zum-jahresabschluss.html",
+  "date": "2020-12",
+  "title": "Townhall Zum Jahresabschluss",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Aufzeichnung der Townhall vom 17. Dezember 2020",
+      "text": "Im Dezember ist der Weihnachsapéro der Schulleitung für viele ETH-Angehörige ein fixer Termin im Kalender und ein schöner Ausklang des Jahres. Eine Gelegenheit mit ETH-Kolleginnen und Kollegen anzustossen, die man nicht immer sieht. Dieses Jahr war alles anders. Wie so viele Treffen musste auch der Weihnachtsapéro als Townhall in den virtuellen Raum verlegt werden.\n\nMit den Stichworten «Dankbar», «Gut gemacht!», «Wichtig», «Stolz», «Gemeinsam», «Resilient» und «Kreativ» schauten die sieben Schulleitungsmitglieder zurück auf die vergangenen zwölf Monate und lobten die ETH-Angehörigen für ihren ausserordentlichen Einsatz in diesem herausfordernden Jahr."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/12/townhall",
+        "label": "LOC",
+        "start": 0,
+        "end": 28
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 62,
+        "end": 76
+      },
+      {
+        "text": "Dieses Jahr",
+        "label": "MISC",
+        "start": 233,
+        "end": 244
+      },
+      {
+        "text": "Weihnachtsapéro",
+        "label": "MISC",
+        "start": 300,
+        "end": 315
+      },
+      {
+        "text": "Stichworten",
+        "label": "LOC",
+        "start": 376,
+        "end": 387
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "ORG",
+        "start": 573,
+        "end": 588
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH-Angehörigen"
+      ],
+      "LOCATION": [
+        "De Internal/2020/12/townhall",
+        "Stichworten"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Dieses Jahr",
+        "ETH-Angehörige",
+        "Weihnachtsapéro"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2020/12/townhall": 1,
+      "ETH-Angehörige": 1,
+      "Dieses Jahr": 1,
+      "Weihnachtsapéro": 1,
+      "Stichworten": 1,
+      "ETH-Angehörigen": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "townhall-zum-jahresabschluss.md",
+      "title": "De Internal/2020/12/townhall Zum Jahresabschluss",
+      "language": "de",
+      "source_path": "de_internal/2020/12/townhall-zum-jahresabschluss.html"
+    },
+    "temporal": {
+      "publication_date": "2020-12",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Dieses Jahr",
+        "ETH-Angehörige",
+        "Weihnachtsapéro"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Kolleginnen",
+        "De Internal",
+        "Dieses Jahr",
+        "Im Dezember",
+        "Eine Gelegenheit",
+        "Zum Jahresabschluss"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Angehörigen"
+      ],
+      "locations": [
+        "De Internal/2020/12/townhall",
+        "Stichworten"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2020/12/townhall",
+        "ETH-Angehörige",
+        "Dieses Jahr",
+        "Weihnachtsapéro",
+        "Stichworten",
+        "ETH-Angehörigen"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Aufzeichnung der Townhall vom 17. Dezember 2020"
+        ],
+        "content_length": 708
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Angehörigen",
+        "2020"
+      ],
+      "semantic_concepts": [
+        "ETH-Angehörige",
+        "Dieses Jahr",
+        "Weihnachtsapéro"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "filename": "mit-magnetischen-bakterien-tumore-bekaempfen.md",
+  "original_filename": "mit-magnetischen-bakterien-tumore-bekaempfen.html",
+  "source_path": "de_news_events/2022/10/mit-magnetischen-bakterien-tumore-bekaempfen.html",
+  "date": "2022-10",
+  "title": "Mit Magnetischen Bakterien Tumore Bekaempfen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Derzeit gibt es mehrere Forschungsprojekte, in denen die Wirksamkeit von Bakterien der Art Escherichia coli gegenüber Tumoren untersucht werden. Heute ist es möglich, die Bakterien mittels synthetischer Biologie zu verändern, um ihre therapeutische Wirkung zu optimieren, Nebenwirkungen zu reduzieren und die Sicherheit zu erhöhen.\n\nDoch auch wenn man die inhärenten Eigenschaften von Bakterien in der Krebstherapie nutzen möchte, stellt sich die Frage, wie diese Bakterien effizient zu einem Tumor gelangen. Bei Krebsgeschwüren nahe der Körperoberfläche ist es möglich, die Bakterien in den Tumor zu injizieren. Bei solchen tief im Köperinnern wird das schwierig. Hier kommt die Mikrorobotik von ETH-Professorin Schürle ins Spiel. «Wir denken, dass wir mit unserem Ingenieur-Ansatz die Wirksamkeit der bakteriellen Krebstherapie erhöhen können», sagt sie.\n\nDie in den Krebsstudien verwendeten Bakterien der Art Escherichia coli sind nicht magnetisch und lassen sich daher nicht über ein Magnetfeld antreiben und steuern. Überhaupt ist Magnetismus unter Bakterien ein sehr seltenes Phänomen. Magnetospirillum ist eine der wenigen Bakteriengattungen, welche diese Eigenschaft haben.\n\nSchürle möchte daher auch Escherichia-coli -Bakterien magnetisch machen. Damit könnte es dereinst möglich sein, medizinisch wirksame Bakterien ohne natürlichen Magnetismus über ein Magnetfeld zu steuern."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Tumore Bekaempfen",
+        "label": "PER",
+        "start": 50,
+        "end": 67
+      },
+      {
+        "text": "Köperinnern",
+        "label": "LOC",
+        "start": 632,
+        "end": 643
+      },
+      {
+        "text": "ETH-Professorin Schürle",
+        "label": "PER",
+        "start": 696,
+        "end": 719
+      },
+      {
+        "text": "Ingenieur-Ansatz",
+        "label": "LOC",
+        "start": 765,
+        "end": 781
+      },
+      {
+        "text": "Magnetismus",
+        "label": "PER",
+        "start": 1034,
+        "end": 1045
+      },
+      {
+        "text": "Schürle",
+        "label": "PER",
+        "start": 1180,
+        "end": 1187
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "ETH-Professorin Schürle",
+        "Magnetismus",
+        "Schürle",
+        "Tumore Bekaempfen"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "Ingenieur-Ansatz",
+        "Köperinnern"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De News": 1,
+      "Tumore Bekaempfen": 1,
+      "Köperinnern": 1,
+      "ETH-Professorin Schürle": 1,
+      "Ingenieur-Ansatz": 1,
+      "Magnetismus": 1,
+      "Schürle": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mit-magnetischen-bakterien-tumore-bekaempfen.md",
+      "title": "De News Events/2022/10/mit Magnetischen Bakterien Tumore Bekaempfen",
+      "language": "de",
+      "source_path": "de_news_events/2022/10/mit-magnetischen-bakterien-tumore-bekaempfen.html"
+    },
+    "temporal": {
+      "publication_date": "2022-10",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "ETH-Professorin Schürle",
+        "Magnetismus",
+        "Schürle",
+        "Tumore Bekaempfen"
+      ],
+      "people_with_roles": {
+        "ETH-Professorin Schürle": [
+          "professor"
+        ],
+        "Schürle": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Ingenieur-Ansatz",
+        "Magnetischen Bakterien",
+        "De News",
+        "Art Escherichia",
+        "ETH-Professorin",
+        "Tumore Bekaempfen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Ingenieur-Ansatz",
+        "Köperinnern"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De News",
+        "Tumore Bekaempfen",
+        "Köperinnern",
+        "ETH-Professorin Schürle",
+        "Ingenieur-Ansatz",
+        "Magnetismus",
+        "Schürle"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1454
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Magnetismus",
+        "EU",
+        "2022",
+        "De News",
+        "Schürle",
+        "ETH-Professorin Schürle",
+        "Tumore Bekaempfen"
+      ],
+      "semantic_concepts": [
+        "who"
+      ],
+      "graph_relations": [
+        "ETH-Professorin Schürle_has_role_professor",
+        "Schürle_has_role_professor"
+      ]
+    }
+  }
+}

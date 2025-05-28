@@ -1,0 +1,207 @@
+{
+  "filename": "de_internal_2016_07_finanzierung-von-open-access-publikationen-aus-abgeschlossenen-fp7-projekten.md",
+  "original_filename": "de_internal_2016_07_finanzierung-von-open-access-publikationen-aus-abgeschlossenen-fp7-projekten.html",
+  "source_path": "de_internal/2016/07/finanzierung-von-open-access-publikationen-aus-abgeschlossenen-fp7-projekten.html",
+  "date": "2016-07",
+  "title": "Finanzierung Von Open Access Publikationen Aus Abgeschlossenen Fp7 Projekten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Beträge von max. € 2 000 für Artikel, Buchkapitel und Konferenzbeiträge sowie max. € 6 000 für Monographien können unter folgenden Bedingungen bei OpenAIRE beantragt werden:\n\nWir empfehlen diese Finanzierungsoption speziell für Open-Access-Bücher sowie Open-Access-Zeitschriften, mit welchen die ETH-Bibliothek keine Vereinbarung zur Kostenübernahme hat, wie zum Beispiel Nature Communications oder Scientific Reports.\n\nDie der ETH-Bibliothek unterstützt Sie gerne beim Antragsprozess.\n\nexterne Seite FP7 post-grant Open Access Pilot"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/07",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Fp7 Projekten",
+        "label": "MISC",
+        "start": 83,
+        "end": 96
+      },
+      {
+        "text": "Konferenzbeiträge",
+        "label": "LOC",
+        "start": 54,
+        "end": 71
+      },
+      {
+        "text": "OpenAIRE",
+        "label": "MISC",
+        "start": 147,
+        "end": 155
+      },
+      {
+        "text": "Open-Access-Bücher",
+        "label": "LOC",
+        "start": 227,
+        "end": 245
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 295,
+        "end": 309
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 371,
+        "end": 392
+      },
+      {
+        "text": "Scientific Reports",
+        "label": "ORG",
+        "start": 398,
+        "end": 416
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 426,
+        "end": 440
+      },
+      {
+        "text": "FP7",
+        "label": "MISC",
+        "start": 498,
+        "end": 501
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH-Bibliothek",
+        "Nature Communications",
+        "Scientific Reports"
+      ],
+      "LOCATION": [
+        "De Internal/2016/07",
+        "Konferenzbeiträge",
+        "Open-Access-Bücher"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "FP7",
+        "Fp7 Projekten",
+        "OpenAIRE"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 2,
+      "De Internal/2016/07": 1,
+      "Fp7 Projekten": 1,
+      "Konferenzbeiträge": 1,
+      "OpenAIRE": 1,
+      "Open-Access-Bücher": 1,
+      "Nature Communications": 1,
+      "Scientific Reports": 1,
+      "FP7": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2016_07_finanzierung-von-open-access-publikationen-aus-abgeschlossenen-fp7-projekten.md",
+      "title": "De Internal/2016/07/finanzierung von Open Access Publikationen Aus Abgeschlossenen Fp7 Projekten",
+      "language": "de",
+      "source_path": "de_internal/2016/07/finanzierung-von-open-access-publikationen-aus-abgeschlossenen-fp7-projekten.html"
+    },
+    "temporal": {
+      "publication_date": "2016-07",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "Fp7 Projekten",
+        "OpenAIRE"
+      ],
+      "grants_funding": [
+        "grant"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Scientific Reports",
+        "De Internal",
+        "Publikationen Aus",
+        "Beispiel Nature",
+        "Open-Access",
+        "Open Access"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek",
+        "Nature Communications",
+        "Scientific Reports"
+      ],
+      "locations": [
+        "De Internal/2016/07",
+        "Konferenzbeiträge",
+        "Open-Access-Bücher"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2016/07",
+        "Fp7 Projekten",
+        "Konferenzbeiträge",
+        "OpenAIRE",
+        "Open-Access-Bücher",
+        "Nature Communications",
+        "Scientific Reports",
+        "FP7"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 630
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "grant",
+        "Scientific Reports",
+        "2016",
+        "Nature Communications"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Fp7 Projekten",
+        "ETH-Bibliothek",
+        "OpenAIRE"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

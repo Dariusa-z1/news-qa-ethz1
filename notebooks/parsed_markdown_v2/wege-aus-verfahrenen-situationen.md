@@ -1,0 +1,40 @@
+# wege-aus-verfahrenen-situationen.html
+
+**Source:** de_internal/2020/10/wege-aus-verfahrenen-situationen.html
+
+## Frühzeitig Beratung anfordern
+
+Markus T.* weiss nicht mehr weiter. Im Rahmen seiner Doktorarbeit nutzt der junge Wissenschaftler ein Labor der ETH. Seit gut einem Jahr geht er dort fast täglich ein und aus. An seiner Arbeit hat er Freude, er fühlt sich zunächst gut integriert. Als Markus eine Unachtsamkeit begeht und dadurch ein Set von Proben unbrauchbar wird, muss die Forschungsgruppe einen grösseren Sondereffort leisten, um den Schaden zu beheben.
+
+Einem Arbeitskollegen ist der Vorfall spürbar aufgestossen. Nach anfänglicher Zurückhaltung lässt er im Kollegenkreis kein gutes Haar an Markus und seiner Leistung. Auch ihm selbst gegenüber macht der Kollege immer häufiger abwertende Kommentare und gibt ihm zu verstehen, dass er seinem Auftrag nicht gewachsen sei und sich eine andere Beschäftigung suchen sollte. Unterstützung von anderen Gruppenmitgliedern bleibt aus, immer mehr Kollegen wenden sich von Markus ab. Seine Gespräche mit dem Teamleiter über die Situation verlaufen im Sand, er fühlt sich immer unwohler und zunehmend isoliert. Schliesslich konsultiert Markus die ETH-«Respekt»-Seite und vereinbart ein Gespräch mit der neu geschaffenen externen Ombudsstelle der ETH.
+
+## Frühzeitig Beratung anfordern
+
+«Markus T. geht richtig vor», meint Ernestine Hildbrand, Projektleiterin bei Human Resources. «Wer spürt, dass im Arbeitsumfeld etwas nicht mehr stimmt, sollte das Problem bei einer geeigneten Stelle zur Sprache bringen. Vor allem, wenn man sich ungerecht behandelt, belästigt oder sogar bedroht fühlt.» Dabei sollte, falls möglich, die oder der Vorgesetzte die erste Anlaufstelle sein, so ihre Empfehlung.
+
+Das Angebot der Anlauf- und Kontaktstellen an der ETH ist im letzten Jahr gewachsen. Ein Auslöser dafür waren Vorfälle in den vergangenen Jahren, bei denen es an Respekt gegenüber Mitarbeitenden mangelte und es zu Konflikten kam. So wurde die externe Ombudsstelle ins Leben gerufen sowie eine interne Beratungs- und Schlichtungsstelle Respekt, die spezifisch Beratung und Hilfe in Fällen von Mobbing, Belästigung und Diskriminierung anbietet. Auch diese Stelle wird durch eine externe, unabhängige Beratungsstelle ergänzt.
+
+«An der ETH Zürich erwarten wir in der Zusammenarbeit gegenseitigen Respekt und Wertschätzung», betont Lukas Vonesch, Leiter Human Resources. «Verstösse gegen den Verhaltenskodex der ETH tolerieren wir nicht, und wir gehen gemeinsam mit Betroffenen dagegen vor.» Wie das konkret abläuft, beschreibt nun das auf den 1. September 2020 in Kraft gesetzte Reglement betreffend Meldungen von Angehörigen der ETH Zürich über unangemessenes Verhalten.
+
+## Mitsprache aller Hochschulgruppen
+
+Der Reglementstext ist breit abgestützt: Einbezogen waren die Ombudspersonen, die Hochschulversammlung (HV) und alle Hochschulgruppen wie etwa die Mittelbauvereinigung AVETH und der Studierendenverband VSETH. Werner Wegscheider, Professor für Festkörperphysik und HV-Präsident, ist mit dem Erreichten zufrieden. «Die Rollen der verschiedenen Anlauf- und Beratungsstellen sind nun klar definiert.» Dies gilt auch für die Ombudspersonen. Dazu wurden parallel zur Entwicklung des Reglements die entsprechenden Bestimmungen der ETH-Organisationsverordnung (OV) geschärft.
+
+## Alle Wege führen zu Hilfe
+
+Die Arbeit an den Details war entscheidend: «Für Betroffene ist es zum Beispiel wichtig, dass die Fachpersonen im Rahmen ihrer Abklärungen nur mit Einverständnis der betroffenen Person deren Anonymität aufheben dürfen.» Hier habe es bisher Unsicherheiten gegeben. «Ich bin froh, dass jetzt präzise formuliert ist, wie der Umgang mit der Anonymität gehandhabt wird, wie beide Seiten geschützt werden und wie für einen vertraulichen und fairen Ablauf gesorgt wird», sagt Werner Wegscheider.
+
+## Klare Prozesse
+
+Hauptmerkmal des Meldeprozesses ist dessen zweiteilige Struktur. In einer ersten, informellen Phase wird versucht, gemeinsam mit der betroffenen Person möglichst rasch und einfach zu einer Lösung zu kommen. Wichtig in dieser Phase ist: Die meldende Person hat die nächsten Schritte in der Hand, wirkt aktiv mit und ihr Anliegen wird vertraulich behandelt. Meistens geht es in dieser Phase um persönliche Beratung und Unterstützung. Nur wenn die Person es wünscht, können die Fachpersonen eine Vermittlung angehen.
+
+Eine betroffene Person kann in einem nächsten Schritt eine schriftliche Meldung bei der Meldestelle Konfliktmanagement einreichen und so die formelle Phase einleiten. In dieser Phase müssen beide Konfliktparteien angehört werden, dazu erfolgt die Aufhebung der Anonymität. «Die HV findet diese Zweiteilung des Prozesses sehr sinnvoll», so Werner Wegscheider. «Insbesondere auch, dass an der Schnittstelle zwischen den Phasen ein Konfliktmanagement eingeführt wurde. Die damit betraute Person versucht noch einmal, eine frühzeitige Einigung zu erreichen.»
+
+## Alle Wege führen zu Hilfe
+
+Wie findet Markus T. nun heraus, welche Meldestelle sich für seine Situation am besten eignet? Mit anderen Worten: Beeinflusst es das Verfahren, wenn er statt der internen die externe Ombudsstelle oder die Fachstelle «Respekt» ansteuert? «Überhaupt nicht», betont Ernestine Hildbrand. «Alle Anlaufstellen sind für einen Erstkontakt offen und kümmern sich intensiv um die individuellen Anliegen.» Je nach den Kompetenzen, die ein Fall verlangt, würden sie die Ratsuchenden allenfalls weiterleiten. «Wichtig ist: Nutzen Sie frühzeitig eines der Angebote und lassen Sie sich beraten. Je früher, desto besser können Konfliktsituationen erkannt und entschärft werden», unterstreicht die Personalexpertin.
+
+Dem pflichtet HV-​Präsident Wegscheider bei: «Dass die ETH heute vielfältige und niederschwellige Anlaufstellen anbietet, ist erfreulich und mit das Wichtigste bei diesem Thema.» Notwendig sei ausserdem, dass Betroffene, die sich melden, rechtzeitig Schutzmassnahmen erhalten. Darauf hat die HV in der Diskussion über das Reglement deutlich hingewiesen. «So ist sichergestellt, dass Ratsuchende die Angebote auch wirklich nutzen», hält Werner Wegscheider fest. So wie im Fall von Markus T. Nach einigen Beratungsgesprächen willigt er ein, die Situation gemeinsam mit der ganzen Forschungsgruppe zu klären. In den Gesprächen ist das ganze Team gefordert. Sie führen aber schliesslich dazu, dass Missverständnisse geklärt werden und sich das Teamklima deutlich verbessert. Ein Reglement garantiert zwar noch keine Lösung. «Doch Betroffene wie Markus T. und auch alle weiteren Beteiligten haben jetzt die Sicherheit, dass es konkrete Angebote und Wege gibt, die zu einer Deeskalation führen können», sagt HR-​Chef Lukas Vonesch. «Ich denke, bereits dieses Wissen trägt dazu bei, dass der Faden nicht immer reissen muss.» * Name und Situation sind fiktiv.
+
+Dieser Text erschien in der Mitarbeiterzeitschrift "life" 3/20 ab Seite 11.
+

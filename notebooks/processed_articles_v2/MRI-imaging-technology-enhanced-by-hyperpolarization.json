@@ -1,0 +1,561 @@
+{
+  "filename": "MRI-imaging-technology-enhanced-by-hyperpolarization.md",
+  "original_filename": "MRI-imaging-technology-enhanced-by-hyperpolarization.html",
+  "source_path": "en_news_events/2014/09/MRI-imaging-technology-enhanced-by-hyperpolarization.html",
+  "date": "2014-09",
+  "title": "Mri Imaging Technology Enhanced By Hyperpolarization",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Imaging techniques such as MRI (magnetic resonance imaging) and CT (computerized tomography) are at the forefront of medical diagnosis, and the ability to see deeper into human tissue, leading to faster diagnoses has increased steeply over the last two decades. However, the persistent problems of resolving images with high quality still limit these techniques because of the nature of living tissue. In a collaborative effort between ETH Zurich, EPFL, CNRS, ENS Lyon and CPE Lyon researchers developed a novel approach (cf. press release EPFL) that considerably improves the capabilities of medical imaging with safer procedures for the patient.\n\nETH-News: What are these new HYPSO materials? Christophe Copéret: Hyperpolarizing Solids or HYPSOs are a new generation of solid materials that polarize solutions of molecules. HYPSOs are fine white powders made of silica, the major component of sand. We engineered these materials to contain large mesopores (5-10 nm), a material class that is often used in nanotechnology. In these large pores we included organic radicals, the polarization source, that are homogeneously distributed in the material. We used HPYSOs to polarize metabolites that are important for in carbon-13 magnetic resonance imaging (MRI).\n\nWhat is the major advantage of this method? Classical MRI techniques generate signals from the protons in water. This provides good sensitivity, but it is not perfect. For example, many solid tumors need to be fairly large to image using traditional proton-based MRI, which can lead to delayed diagnosis. Using carbon MRI it is possible to identify metabolites and measure their rates of transformation directly in the body. This allows faster diagnosis of tumors because many tumors, far smaller than can be seen by traditional MRI, have faster metabolic rates for certain metabolites. However, carbon MRI is much less sensitive than proton MRI. Only hyperpolarized carbon metabolites will be seen with carbon MRI. All the polarization techniques to date rely on solutions of organic radicals that must be removed before imaging because they might be harmful to the patient. The drawback of the current process is that removal of the radical takes time. Time is detrimental because the polarization decays after only a few seconds. With HYPSOs this problem is avoided by simply filtering the solid material away from the hyperpolarized solution. We were able to rapidly separate the hyperpolarized solution and obtain record hyperpolarization. We hope that carbon MRI will ultimately become a routine technique.\n\nHow does it work? The pores in HYPSO are filled with a solution containing a specific metabolite, in our case we used pyruvate because this metabolite is consumed at very high rates in prostate tumors. The radicals polarize the non-radioactive carbon-13 isotope of solutions of pyruvate. The solution is filtered out of HYPSO and can then be detected by carbon MRI.\n\nWhat was your contribution at ETH Zurich? ETH Zurich in collaboration with CPE Lyon developed HYPSOs. These materials required a homogeneous distribution of radicals along the pores of the silica materials, which needed the input of both chemists and material scientists. EPFL developed the instrumentation for this technique and ENS, a long time collaborator in NMR spectroscopy, coordinated the project.\n\nWho had the idea to use silica powder? We have been working with these types of silica for our work on well-defined heterogeneous catalysts. In this work we learned how to control the distribution of active sites in a porous materials. In parallel we recently developed a new technique to characterize by NMR the surface of materials (Surface Enhanced NMR spectroscopy – SENS), where we use a solution of radical to polarize the surface of these silica materials. From these studies we began to question, \"Could we reverse the process in using a solid to polarize a solution?\" This led us to the work on carbon MRI imaging.\n\nHow long did it take to find the right substance and processing? It took us approximately two years. Technologically, we were pretty fortunate because we had already developed this approach for catalysts. We “just” had to use this template for the development of polarizing matrixes and prove that they can polarize solutions on instruments being developed by EPFL.\n\nWhat are your next steps? Now that we have established the principle behind HYPSO we want to go further and use these materials for MRI imaging purposes. We are also looking at new forms of HYPSO that will give an even better polarization of properties than the current first generation material.\n\nWhen will HYPSOs become available for clinicians? We are looking into this now. We hope it will be in the next couple of years.\n\nAbout the person Christophe Copéret is full professor in Inorganic Chemistry since November 2010 at the departement of chemistry and applied bioscience of ETH Zurich. His scientific interest lies at the frontiers of molecular, material and surface chemistry, with the aims to design functional materials with applications in catalysis (sustainable chemistry and energy), molecular recognition, imaging and microelectronics.\n\nGajan D, Bornet A, Vuichoud B, Milani J, Melzi R, van Kalkeren HA, Veyre L, Thieuleux C, Conley MP, Grüning WR, Schwarzwälder M, Lesage A, Copéret C, Bodenhausen G, Emsley L, Jannin S. Hybrid polarizing solids for pure hyperpolarized liquids through dissolution dynamic nuclear polarization. PNAS 29 September 2014. DOI: 10.1073/pnas.1407730111"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Imaging Technology Enhanced By Hyperpolarization",
+        "label": "ORG",
+        "start": 27,
+        "end": 75
+      },
+      {
+        "text": "CT",
+        "label": "ORG",
+        "start": 64,
+        "end": 66
+      },
+      {
+        "text": "the last two decades",
+        "label": "DATE",
+        "start": 240,
+        "end": 260
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 436,
+        "end": 446
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 448,
+        "end": 452
+      },
+      {
+        "text": "CNRS",
+        "label": "ORG",
+        "start": 454,
+        "end": 458
+      },
+      {
+        "text": "ENS Lyon",
+        "label": "PERSON",
+        "start": 460,
+        "end": 468
+      },
+      {
+        "text": "CPE Lyon",
+        "label": "ORG",
+        "start": 473,
+        "end": 481
+      },
+      {
+        "text": "ETH-News",
+        "label": "ORG",
+        "start": 648,
+        "end": 656
+      },
+      {
+        "text": "HYPSO",
+        "label": "ORG",
+        "start": 677,
+        "end": 682
+      },
+      {
+        "text": "Copéret",
+        "label": "PERSON",
+        "start": 705,
+        "end": 712
+      },
+      {
+        "text": "5-10",
+        "label": "CARDINAL",
+        "start": 958,
+        "end": 962
+      },
+      {
+        "text": "carbon-13",
+        "label": "DATE",
+        "start": 1216,
+        "end": 1225
+      },
+      {
+        "text": "Time",
+        "label": "ORG",
+        "start": 2215,
+        "end": 2219
+      },
+      {
+        "text": "only a few seconds",
+        "label": "TIME",
+        "start": 2273,
+        "end": 2291
+      },
+      {
+        "text": "HYPSO",
+        "label": "ORG",
+        "start": 2604,
+        "end": 2609
+      },
+      {
+        "text": "carbon-13",
+        "label": "PRODUCT",
+        "start": 2817,
+        "end": 2826
+      },
+      {
+        "text": "HYPSO",
+        "label": "ORG",
+        "start": 2893,
+        "end": 2898
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 2969,
+        "end": 2979
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 2981,
+        "end": 2991
+      },
+      {
+        "text": "CPE Lyon",
+        "label": "ORG",
+        "start": 3014,
+        "end": 3022
+      },
+      {
+        "text": "ENS",
+        "label": "ORG",
+        "start": 3269,
+        "end": 3272
+      },
+      {
+        "text": "Surface Enhanced NMR",
+        "label": "ORG",
+        "start": 3680,
+        "end": 3700
+      },
+      {
+        "text": "approximately two years",
+        "label": "DATE",
+        "start": 4045,
+        "end": 4068
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 4329,
+        "end": 4333
+      },
+      {
+        "text": "HYPSO",
+        "label": "ORG",
+        "start": 4411,
+        "end": 4416
+      },
+      {
+        "text": "HYPSO",
+        "label": "ORG",
+        "start": 4525,
+        "end": 4530
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 4605,
+        "end": 4610
+      },
+      {
+        "text": "the next couple of years",
+        "label": "DATE",
+        "start": 4734,
+        "end": 4758
+      },
+      {
+        "text": "Christophe Copéret",
+        "label": "PERSON",
+        "start": 4777,
+        "end": 4795
+      },
+      {
+        "text": "Inorganic Chemistry",
+        "label": "ORG",
+        "start": 4817,
+        "end": 4836
+      },
+      {
+        "text": "November 2010",
+        "label": "DATE",
+        "start": 4843,
+        "end": 4856
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 4915,
+        "end": 4925
+      },
+      {
+        "text": "Bornet A",
+        "label": "ORG",
+        "start": 5193,
+        "end": 5201
+      },
+      {
+        "text": "Vuichoud B",
+        "label": "PERSON",
+        "start": 5203,
+        "end": 5213
+      },
+      {
+        "text": "van Kalkeren HA",
+        "label": "PERSON",
+        "start": 5234,
+        "end": 5249
+      },
+      {
+        "text": "Veyre L",
+        "label": "PERSON",
+        "start": 5251,
+        "end": 5258
+      },
+      {
+        "text": "Grüning WR",
+        "label": "ORG",
+        "start": 5284,
+        "end": 5294
+      },
+      {
+        "text": "Schwarzwälder M",
+        "label": "PERSON",
+        "start": 5296,
+        "end": 5311
+      },
+      {
+        "text": "Copéret C",
+        "label": "PERSON",
+        "start": 5323,
+        "end": 5332
+      },
+      {
+        "text": "Emsley L",
+        "label": "PERSON",
+        "start": 5349,
+        "end": 5357
+      },
+      {
+        "text": "Jannin S. Hybrid",
+        "label": "PERSON",
+        "start": 5359,
+        "end": 5375
+      },
+      {
+        "text": "29 September 2014",
+        "label": "DATE",
+        "start": 5481,
+        "end": 5498
+      },
+      {
+        "text": "10.1073",
+        "label": "CARDINAL",
+        "start": 5505,
+        "end": 5512
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christophe Copéret",
+        "Copéret",
+        "Copéret C",
+        "ENS Lyon",
+        "ETH Zurich",
+        "Emsley L",
+        "Jannin S. Hybrid",
+        "Schwarzwälder M",
+        "Veyre L",
+        "Vuichoud B",
+        "van Kalkeren HA"
+      ],
+      "ORG": [
+        "Bornet A",
+        "CNRS",
+        "CPE Lyon",
+        "CT",
+        "ENS",
+        "EPFL",
+        "ETH Zurich",
+        "ETH-News",
+        "Grüning WR",
+        "HYPSO",
+        "Imaging Technology Enhanced By Hyperpolarization",
+        "Inorganic Chemistry",
+        "Surface Enhanced NMR",
+        "Time"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "29 September 2014",
+        "November 2010",
+        "approximately two years",
+        "carbon-13",
+        "only a few seconds",
+        "the last two decades",
+        "the next couple of years"
+      ],
+      "MISC": [
+        "10.1073",
+        "5-10",
+        "carbon-13",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "HYPSO": 5,
+      "ETH Zurich": 4,
+      "EPFL": 2,
+      "CPE Lyon": 2,
+      "carbon-13": 2,
+      "Imaging Technology Enhanced By Hyperpolarization": 1,
+      "CT": 1,
+      "the last two decades": 1,
+      "CNRS": 1,
+      "ENS Lyon": 1,
+      "ETH-News": 1,
+      "Copéret": 1,
+      "5-10": 1,
+      "Time": 1,
+      "only a few seconds": 1,
+      "ENS": 1,
+      "Surface Enhanced NMR": 1,
+      "approximately two years": 1,
+      "first": 1,
+      "the next couple of years": 1
+    },
+    "total_entities": 44,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "MRI-imaging-technology-enhanced-by-hyperpolarization.md",
+      "title": "En News Events/2014/09/mri Imaging Technology Enhanced By Hyperpolarization",
+      "language": "en",
+      "source_path": "en_news_events/2014/09/MRI-imaging-technology-enhanced-by-hyperpolarization.html"
+    },
+    "temporal": {
+      "publication_date": "2014-09",
+      "mentioned_years": [
+        "2010",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christophe Copéret",
+        "Copéret",
+        "Copéret C",
+        "ENS Lyon",
+        "ETH Zurich",
+        "Emsley L",
+        "Jannin S. Hybrid",
+        "Schwarzwälder M",
+        "Veyre L",
+        "Vuichoud B",
+        "van Kalkeren HA"
+      ],
+      "people_with_roles": {
+        "Christophe Copéret": [
+          "professor"
+        ],
+        "Copéret": [
+          "professor"
+        ],
+        "ENS Lyon": [
+          "researcher"
+        ],
+        "ETH Zurich": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1073",
+        "5-10",
+        "carbon-13",
+        "first"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Gajan D",
+        "Bornet A",
+        "Veyre L",
+        "Classical MRI",
+        "Milani J",
+        "Melzi R",
+        "Hyperpolarization Imaging",
+        "Surface Enhanced",
+        "With HYPSOs",
+        "Enhanced By",
+        "Conley MP",
+        "Inorganic Chemistry",
+        "Imaging Technology",
+        "Vuichoud B",
+        "Thieuleux C",
+        "CPE Lyon",
+        "Jannin S",
+        "En News",
+        "ETH-News",
+        "Bodenhausen G",
+        "Hyperpolarizing Solids",
+        "ETH Zurich",
+        "ENS Lyon",
+        "Kalkeren HA",
+        "Lesage A",
+        "Emsley L"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bornet A",
+        "CNRS",
+        "CPE Lyon",
+        "CT",
+        "ENS",
+        "EPFL",
+        "ETH Zurich",
+        "ETH-News",
+        "Grüning WR",
+        "HYPSO",
+        "Imaging Technology Enhanced By Hyperpolarization",
+        "Inorganic Chemistry",
+        "Surface Enhanced NMR",
+        "Time"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "HYPSO",
+        "ETH Zurich",
+        "EPFL",
+        "CPE Lyon",
+        "carbon-13",
+        "Imaging Technology Enhanced By Hyperpolarization",
+        "CT",
+        "the last two decades",
+        "CNRS",
+        "ENS Lyon"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 5614
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EPFL",
+        "CT",
+        "HYPSO",
+        "Time",
+        "CNRS",
+        "Bornet A",
+        "Copéret",
+        "Veyre L",
+        "Christophe Copéret",
+        "ENS",
+        "Copéret C",
+        "2014",
+        "EU",
+        "2010",
+        "Inorganic Chemistry",
+        "Vuichoud B",
+        "Jannin S. Hybrid",
+        "Surface Enhanced NMR",
+        "CPE Lyon",
+        "Imaging Technology Enhanced By Hyperpolarization",
+        "van Kalkeren HA",
+        "ETH-News",
+        "ETH Zurich",
+        "Grüning WR",
+        "Schwarzwälder M",
+        "ENS Lyon",
+        "Emsley L"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "carbon-13",
+        "chemistry",
+        "5-10",
+        "where",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "10.1073",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Christophe Copéret_has_role_professor",
+        "Copéret_has_role_professor",
+        "ENS Lyon_has_role_researcher",
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

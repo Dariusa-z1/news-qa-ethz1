@@ -1,0 +1,291 @@
+{
+  "filename": "art-and-artificial-intelligence.md",
+  "original_filename": "art-and-artificial-intelligence.html",
+  "source_path": "en_internal/2022/09/art-and-artificial-intelligence.html",
+  "date": "2022-09",
+  "title": "Art And Artificial Intelligence",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Throughout European history, modern humans have grappled with the dichotomy between man and machine, aesthetics and rationality, the longing for nature and the indigenous as a contrast to industrial alienation. Artists, but also society in general, are taking an interest in this ancient topic.\n\nInterestingly, art’s calls for attention are resonating in the spheres of science and technology, and it is the development of artificial intelligence that has brought this encounter about. The technology appears to be a decisive factor in the future of the human race. The work of the AI+Art Initiative at the ETH AI Center in Zurich is dedicated to these very questions and topics, aiming to contribute a different type of intelligence through artistic interventions and strategies.\n\nThe 17:15 Colloquium will be held on location at the Alumni Pavillon (ETH Zurich, Campus Zentrum, Rämistrasse 101, 8092 Zurich, MM C 78.1) or online via live streaming on Thursday, 29 September 2022 at 17.15. Additional information and registration\n\nThe 17:15 Colloquium offers a platform for further education and discussion of topics related to libraries, museums and archives. The formula: a 30-minute lecture + a 30-minute discussion + small-group discussion = inspiration for our daily working lives.\n\nMoving forward together – Through the power of networking\n\n#FocusHuman – Be inspired by people and learn something new."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 11,
+        "end": 19
+      },
+      {
+        "text": "the AI+Art Initiative",
+        "label": "ORG",
+        "start": 577,
+        "end": 598
+      },
+      {
+        "text": "the ETH AI Center",
+        "label": "ORG",
+        "start": 602,
+        "end": 619
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 623,
+        "end": 629
+      },
+      {
+        "text": "the Alumni Pavillon",
+        "label": "ORG",
+        "start": 829,
+        "end": 848
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 850,
+        "end": 860
+      },
+      {
+        "text": "Campus Zentrum",
+        "label": "PERSON",
+        "start": 862,
+        "end": 876
+      },
+      {
+        "text": "Rämistrasse 101",
+        "label": "PERSON",
+        "start": 878,
+        "end": 893
+      },
+      {
+        "text": "8092 Zurich",
+        "label": "PERSON",
+        "start": 895,
+        "end": 906
+      },
+      {
+        "text": "MM",
+        "label": "GPE",
+        "start": 908,
+        "end": 910
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE",
+        "start": 951,
+        "end": 959
+      },
+      {
+        "text": "September 2022",
+        "label": "DATE",
+        "start": 964,
+        "end": 978
+      },
+      {
+        "text": "17.15",
+        "label": "CARDINAL",
+        "start": 982,
+        "end": 987
+      },
+      {
+        "text": "30-minute",
+        "label": "TIME",
+        "start": 1174,
+        "end": 1183
+      },
+      {
+        "text": "30-minute",
+        "label": "TIME",
+        "start": 1196,
+        "end": 1205
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 1264,
+        "end": 1269
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "8092 Zurich",
+        "Campus Zentrum",
+        "ETH Zurich",
+        "Rämistrasse 101"
+      ],
+      "ORG": [
+        "the AI+Art Initiative",
+        "the Alumni Pavillon",
+        "the ETH AI Center"
+      ],
+      "LOCATION": [
+        "MM",
+        "Zurich"
+      ],
+      "DATE": [
+        "30-minute",
+        "September 2022",
+        "Thursday",
+        "daily"
+      ],
+      "MISC": [
+        "17.15",
+        "European"
+      ]
+    },
+    "entity_counts": {
+      "30-minute": 2,
+      "European": 1,
+      "the AI+Art Initiative": 1,
+      "the ETH AI Center": 1,
+      "Zurich": 1,
+      "the Alumni Pavillon": 1,
+      "ETH Zurich": 1,
+      "Campus Zentrum": 1,
+      "Rämistrasse 101": 1,
+      "8092 Zurich": 1,
+      "MM": 1,
+      "Thursday": 1,
+      "September 2022": 1,
+      "17.15": 1,
+      "daily": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "art-and-artificial-intelligence.md",
+      "title": "En Internal/2022/09/art And Artificial Intelligence",
+      "language": "en",
+      "source_path": "en_internal/2022/09/art-and-artificial-intelligence.html"
+    },
+    "temporal": {
+      "publication_date": "2022-09",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "8092 Zurich",
+        "Campus Zentrum",
+        "ETH Zurich",
+        "Rämistrasse 101"
+      ],
+      "people_with_roles": {
+        "8092 Zurich": [
+          "alumni"
+        ],
+        "Campus Zentrum": [
+          "alumni"
+        ],
+        "ETH Zurich": [
+          "alumni"
+        ],
+        "Rämistrasse 101": [
+          "alumni"
+        ]
+      },
+      "institutional_roles": [
+        "alumni"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "17.15",
+        "European"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "MM C",
+        "Intelligence Throughout",
+        "ETH AI",
+        "En Internal",
+        "Alumni Pavillon",
+        "ETH Zurich",
+        "Campus Zentrum",
+        "Art Initiative",
+        "And Artificial"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "the AI+Art Initiative",
+        "the Alumni Pavillon",
+        "the ETH AI Center"
+      ],
+      "locations": [
+        "MM",
+        "Zurich"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "30-minute",
+        "European",
+        "the AI+Art Initiative",
+        "the ETH AI Center",
+        "Zurich",
+        "the Alumni Pavillon",
+        "ETH Zurich",
+        "Campus Zentrum",
+        "Rämistrasse 101",
+        "8092 Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1460
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the AI+Art Initiative",
+        "EU",
+        "Campus Zentrum",
+        "2022",
+        "the Alumni Pavillon",
+        "8092 Zurich",
+        "ETH Zurich",
+        "the ETH AI Center",
+        "Rämistrasse 101"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "17.15",
+        "what",
+        "European",
+        "where"
+      ],
+      "graph_relations": [
+        "8092 Zurich_has_role_alumni",
+        "Campus Zentrum_has_role_alumni",
+        "ETH Zurich_has_role_alumni",
+        "Rämistrasse 101_has_role_alumni",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

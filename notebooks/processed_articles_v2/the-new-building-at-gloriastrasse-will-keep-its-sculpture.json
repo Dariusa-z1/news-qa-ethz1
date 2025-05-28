@@ -1,0 +1,318 @@
+{
+  "filename": "the-new-building-at-gloriastrasse-will-keep-its-sculpture.md",
+  "original_filename": "the-new-building-at-gloriastrasse-will-keep-its-sculpture.html",
+  "source_path": "en_internal/2015/08/the-new-building-at-gloriastrasse-will-keep-its-sculpture.html",
+  "date": "2015-08",
+  "title": "The New Building At Gloriastrasse Will Keep Its Sculpture",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH Zurich is constructing the new GLC building for medical technology research and applications on Gloriastrasse. The building will include spaces for the Department of Health Science and Technology ( D-HEST ) and the Department of Information Technology and Electrical Engineering ( D-ITET ), which can also be used for collaborative projects with industry, hospitals and the University of Zurich.\n\nThe GLC will be built on the grounds of the former Laboratory of Hydraulics, Hydrology and Glaciology and the ETZ annex building, Gloriabar. Demolition has started, beginning the first phase of the construction project.\n\nInformation on the GLC project can be found on the ETH Zurich website under Infrastructure divisions > Real Estate > Current construction projects > Project GLC .\n\nThe annex to the ETZ building will be demolished during the construction of the GLC and the entrance will be relocated. Thus, the question arose as to what will happen to the concrete sculpture, created by Swiss artist Fredi Thalman, which currently stands in front of ETZ. While reviewing the project it became apparent that the sculpture could be integrated into the new building structure.\n\nThe artwork will remain in its original location, but it will effectively be repurposed: the concrete monument will serve as a separator, to accommodate a difference in ground levels. The artwork is also important to the identity of the place and is therefore worthy of preservation. As the sculpture’s surroundings are going to change, the organisers of the construction project are currently talking with the artist to discuss how exactly the artwork can later be integrated into the new building."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the New Building",
+        "label": "ORG",
+        "start": 20,
+        "end": 36
+      },
+      {
+        "text": "Will Keep",
+        "label": "PERSON",
+        "start": 54,
+        "end": 63
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Gloriastrasse",
+        "label": "ORG",
+        "start": 100,
+        "end": 113
+      },
+      {
+        "text": "the Department of Health Science and Technology",
+        "label": "ORG",
+        "start": 152,
+        "end": 199
+      },
+      {
+        "text": "the Department of Information Technology",
+        "label": "ORG",
+        "start": 215,
+        "end": 255
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 374,
+        "end": 398
+      },
+      {
+        "text": "GLC",
+        "label": "ORG",
+        "start": 404,
+        "end": 407
+      },
+      {
+        "text": "Laboratory of Hydraulics, Hydrology and Glaciology",
+        "label": "ORG",
+        "start": 451,
+        "end": 501
+      },
+      {
+        "text": "ETZ",
+        "label": "ORG",
+        "start": 510,
+        "end": 513
+      },
+      {
+        "text": "Gloriabar",
+        "label": "GPE",
+        "start": 530,
+        "end": 539
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 579,
+        "end": 584
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 667,
+        "end": 681
+      },
+      {
+        "text": "Infrastructure",
+        "label": "ORG",
+        "start": 696,
+        "end": 710
+      },
+      {
+        "text": "ETZ",
+        "label": "ORG",
+        "start": 800,
+        "end": 803
+      },
+      {
+        "text": "GLC",
+        "label": "ORG",
+        "start": 863,
+        "end": 866
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 989,
+        "end": 994
+      },
+      {
+        "text": "Fredi Thalman",
+        "label": "PERSON",
+        "start": 1002,
+        "end": 1015
+      },
+      {
+        "text": "ETZ",
+        "label": "ORG",
+        "start": 1052,
+        "end": 1055
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Fredi Thalman",
+        "Will Keep"
+      ],
+      "ORG": [
+        "ETZ",
+        "GLC",
+        "Gloriastrasse",
+        "Infrastructure",
+        "Laboratory of Hydraulics, Hydrology and Glaciology",
+        "the Department of Health Science and Technology",
+        "the Department of Information Technology",
+        "the ETH Zurich",
+        "the New Building",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Gloriabar"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Swiss",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "ETZ": 3,
+      "GLC": 2,
+      "the New Building": 1,
+      "Will Keep": 1,
+      "ETH Zurich": 1,
+      "Gloriastrasse": 1,
+      "the Department of Health Science and Technology": 1,
+      "the Department of Information Technology": 1,
+      "the University of Zurich": 1,
+      "Laboratory of Hydraulics, Hydrology and Glaciology": 1,
+      "Gloriabar": 1,
+      "first": 1,
+      "the ETH Zurich": 1,
+      "Infrastructure": 1,
+      "Swiss": 1,
+      "Fredi Thalman": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-new-building-at-gloriastrasse-will-keep-its-sculpture.md",
+      "title": "En Internal/2015/08/the New Building At Gloriastrasse Will Keep Its Sculpture",
+      "language": "en",
+      "source_path": "en_internal/2015/08/the-new-building-at-gloriastrasse-will-keep-its-sculpture.html"
+    },
+    "temporal": {
+      "publication_date": "2015-08",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Fredi Thalman",
+        "Will Keep"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Swiss",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "D-ITET",
+        "Electrical Engineering",
+        "The GLC",
+        "Fredi Thalman",
+        "Its Sculpture",
+        "Will Keep",
+        "En Internal",
+        "D-HEST",
+        "Real Estate",
+        "New Building",
+        "Information Technology",
+        "Project GLC",
+        "ETH Zurich",
+        "Health Science",
+        "At Gloriastrasse"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Health Science and Technology ",
+        "Information Technology and Electrical Engineering "
+      ],
+      "institutions": [
+        "ETZ",
+        "GLC",
+        "Gloriastrasse",
+        "Infrastructure",
+        "Laboratory of Hydraulics, Hydrology and Glaciology",
+        "the Department of Health Science and Technology",
+        "the Department of Information Technology",
+        "the ETH Zurich",
+        "the New Building",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Gloriabar"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETZ",
+        "GLC",
+        "the New Building",
+        "Will Keep",
+        "ETH Zurich",
+        "Gloriastrasse",
+        "the Department of Health Science and Technology",
+        "the Department of Information Technology",
+        "the University of Zurich",
+        "Laboratory of Hydraulics, Hydrology and Glaciology"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1757
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the New Building",
+        "2015",
+        "ETZ",
+        "Fredi Thalman",
+        "the ETH Zurich",
+        "Will Keep",
+        "the Department of Health Science and Technology",
+        "the University of Zurich",
+        "GLC",
+        "Laboratory of Hydraulics, Hydrology and Glaciology",
+        "the Department of Information Technology",
+        "ETH Zurich",
+        "Infrastructure",
+        "Gloriastrasse"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Swiss",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

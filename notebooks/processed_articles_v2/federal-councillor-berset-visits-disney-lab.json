@@ -1,0 +1,533 @@
+{
+  "filename": "federal-councillor-berset-visits-disney-lab.md",
+  "original_filename": "federal-councillor-berset-visits-disney-lab.html",
+  "source_path": "en_news_events/2017/02/federal-councillor-berset-visits-disney-lab.html",
+  "date": "2017-02",
+  "title": "Federal Councillor Berset Visits Disney Lab",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Culture inspired by science",
+      "text": "Yesterday’s visit by the head of the Federal Department of Home Affairs reflected the many close ties between science, technology and culture. ETH President Lino Guzzella, along with Sarah Springman, Ulrich Weidmann and Robert Perich, welcomed their guest to the Disney Research Zurich (DRZ) research laboratory, which offered a fitting backdrop as an intersection of these three areas."
+    },
+    {
+      "heading": "Culture inspired by science",
+      "text": "Guzzella used his opening remarks to emphasise the increasing importance of digitalisation, even for art and culture. He gave a number of architectural examples to show how innovative technology can create a greater range of opportunities and enable a new building culture, explaining that science and culture are not opposites but rather two mutually beneficial ways of expressing creativity."
+    },
+    {
+      "heading": "The technology behind the magic",
+      "text": "Markus Gross, Professor of Computer Science at ETH Zurich and Founding Director of DRZ, discussed the close cooperation with ETH Zurich and presented some projects from the Zurich-based computer scientists. The technology they have been developing has already been successfully used in a number of Disney films. The lab was founded in 2008 and is home to more than 100 scientists, including around 20 doctoral students, who work on the digital future of media and entertainment. “Disney Research is an example of university and industry working together for the benefit of both,” says Gross.\n\nDoctoral student Pascal Bérard gave a presentation on the digital capture and modelling of human faces and eyes, demonstrating the complexity of the science behind the technology created at DRZ. The same was true of the playful and poetic flying robots presented by Markus Hehn of Verity Studios. Verity Studios, an ETH spin-off, developed dancing drones for use by Cirque du Soleil in a Broadway show.\n\nBob Summer, Adjunct Professor and Head of the ETH Game Technology Center, introduced the concept of augmented creativity, using various apps that add a virtual dimension to classic children’s books.\n\nAlain Berset seemed interested in and impressed by the work of the ETH researchers, stating that the rapid development in areas such as artificial intelligence and robotics not only opens up fascinating new opportunities, but also raises the question of how the state, society and politics can make use of this development. All those involved in the conversation agreed that such new technologies can offer enormous benefits when used responsibly."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Councillor Berset Visits Disney Lab",
+        "label": "ORG",
+        "start": 31,
+        "end": 66
+      },
+      {
+        "text": "Yesterday",
+        "label": "DATE",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "the Federal Department of Home Affairs",
+        "label": "ORG",
+        "start": 33,
+        "end": 71
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 143,
+        "end": 146
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 157,
+        "end": 170
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PERSON",
+        "start": 183,
+        "end": 198
+      },
+      {
+        "text": "Ulrich Weidmann",
+        "label": "PERSON",
+        "start": 200,
+        "end": 215
+      },
+      {
+        "text": "Robert Perich",
+        "label": "PERSON",
+        "start": 220,
+        "end": 233
+      },
+      {
+        "text": "the Disney Research Zurich",
+        "label": "ORG",
+        "start": 259,
+        "end": 285
+      },
+      {
+        "text": "DRZ",
+        "label": "ORG",
+        "start": 287,
+        "end": 290
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 374,
+        "end": 379
+      },
+      {
+        "text": "Guzzella",
+        "label": "PERSON",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 339,
+        "end": 342
+      },
+      {
+        "text": "Markus Gross",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "DRZ",
+        "label": "ORG",
+        "start": 83,
+        "end": 86
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 125,
+        "end": 135
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 173,
+        "end": 179
+      },
+      {
+        "text": "Disney",
+        "label": "ORG",
+        "start": 298,
+        "end": 304
+      },
+      {
+        "text": "more than 100",
+        "label": "CARDINAL",
+        "start": 355,
+        "end": 368
+      },
+      {
+        "text": "around 20",
+        "label": "CARDINAL",
+        "start": 391,
+        "end": 400
+      },
+      {
+        "text": "Disney Research",
+        "label": "ORG",
+        "start": 480,
+        "end": 495
+      },
+      {
+        "text": "Gross",
+        "label": "PERSON",
+        "start": 585,
+        "end": 590
+      },
+      {
+        "text": "Pascal Bérard",
+        "label": "PERSON",
+        "start": 609,
+        "end": 622
+      },
+      {
+        "text": "DRZ",
+        "label": "ORG",
+        "start": 782,
+        "end": 785
+      },
+      {
+        "text": "Markus Hehn of Verity Studios",
+        "label": "ORG",
+        "start": 858,
+        "end": 887
+      },
+      {
+        "text": "Verity Studios",
+        "label": "ORG",
+        "start": 889,
+        "end": 903
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 908,
+        "end": 911
+      },
+      {
+        "text": "Cirque du Soleil",
+        "label": "ORG",
+        "start": 958,
+        "end": 974
+      },
+      {
+        "text": "Broadway",
+        "label": "FAC",
+        "start": 980,
+        "end": 988
+      },
+      {
+        "text": "Bob Summer",
+        "label": "PERSON",
+        "start": 995,
+        "end": 1005
+      },
+      {
+        "text": "the ETH Game Technology Center",
+        "label": "ORG",
+        "start": 1037,
+        "end": 1067
+      },
+      {
+        "text": "Alain Berset",
+        "label": "ORG",
+        "start": 1194,
+        "end": 1206
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1261,
+        "end": 1264
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bob Summer",
+        "ETH Zurich",
+        "Gross",
+        "Guzzella",
+        "Lino Guzzella",
+        "Markus Gross",
+        "Pascal Bérard",
+        "Robert Perich",
+        "Sarah Springman",
+        "Ulrich Weidmann"
+      ],
+      "ORG": [
+        "Alain Berset",
+        "Cirque du Soleil",
+        "Councillor Berset Visits Disney Lab",
+        "DRZ",
+        "Disney",
+        "Disney Research",
+        "ETH",
+        "En News",
+        "Markus Hehn of Verity Studios",
+        "Verity Studios",
+        "the Disney Research Zurich",
+        "the ETH Game Technology Center",
+        "the Federal Department of Home Affairs"
+      ],
+      "LOCATION": [
+        "Broadway",
+        "Zurich"
+      ],
+      "DATE": [
+        "Yesterday"
+      ],
+      "MISC": [
+        "around 20",
+        "more than 100",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "DRZ": 3,
+      "En News": 1,
+      "Councillor Berset Visits Disney Lab": 1,
+      "Yesterday": 1,
+      "the Federal Department of Home Affairs": 1,
+      "Lino Guzzella": 1,
+      "Sarah Springman": 1,
+      "Ulrich Weidmann": 1,
+      "Robert Perich": 1,
+      "the Disney Research Zurich": 1,
+      "three": 1,
+      "Guzzella": 1,
+      "two": 1,
+      "Markus Gross": 1,
+      "ETH Zurich": 1,
+      "Zurich": 1,
+      "Disney": 1,
+      "more than 100": 1,
+      "around 20": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "federal-councillor-berset-visits-disney-lab.md",
+      "title": "En News Events/2017/02/federal Councillor Berset Visits Disney Lab",
+      "language": "en",
+      "source_path": "en_news_events/2017/02/federal-councillor-berset-visits-disney-lab.html"
+    },
+    "temporal": {
+      "publication_date": "2017-02",
+      "mentioned_years": [
+        "2008",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bob Summer",
+        "ETH Zurich",
+        "Gross",
+        "Guzzella",
+        "Lino Guzzella",
+        "Markus Gross",
+        "Pascal Bérard",
+        "Robert Perich",
+        "Sarah Springman",
+        "Ulrich Weidmann"
+      ],
+      "people_with_roles": {
+        "Bob Summer": [
+          "head",
+          "professor"
+        ],
+        "ETH Zurich": [
+          "professor",
+          "director",
+          "scientist",
+          "rector"
+        ],
+        "Gross": [
+          "professor",
+          "director",
+          "scientist",
+          "rector"
+        ],
+        "Guzzella": [
+          "president"
+        ],
+        "Lino Guzzella": [
+          "president"
+        ],
+        "Markus Gross": [
+          "professor",
+          "director",
+          "scientist",
+          "rector"
+        ],
+        "Pascal Bérard": [
+          "student"
+        ],
+        "Robert Perich": [
+          "president"
+        ],
+        "Sarah Springman": [
+          "president"
+        ],
+        "Ulrich Weidmann": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "rector",
+        "professor",
+        "director",
+        "head",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "around 20",
+        "more than 100",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Markus Gross",
+        "Markus Hehn",
+        "Lab Yesterday",
+        "Home Affairs",
+        "Federal Department",
+        "Sarah Springman",
+        "Councillor Berset",
+        "Lino Guzzella",
+        "Technology Center",
+        "Visits Disney",
+        "Ulrich Weidmann",
+        "Alain Berset",
+        "Computer Science",
+        "Adjunct Professor",
+        "Disney Research",
+        "ETH President",
+        "En News",
+        "Robert Perich",
+        "Founding Director",
+        "Bob Summer",
+        "Verity Studios",
+        "ETH Game",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Home Affairs reflected the many close ties between science"
+      ],
+      "institutions": [
+        "Alain Berset",
+        "Cirque du Soleil",
+        "Councillor Berset Visits Disney Lab",
+        "DRZ",
+        "Disney",
+        "Disney Research",
+        "ETH",
+        "En News",
+        "Markus Hehn of Verity Studios",
+        "Verity Studios",
+        "the Disney Research Zurich",
+        "the ETH Game Technology Center",
+        "the Federal Department of Home Affairs"
+      ],
+      "locations": [
+        "Broadway",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "DRZ",
+        "En News",
+        "Councillor Berset Visits Disney Lab",
+        "Yesterday",
+        "the Federal Department of Home Affairs",
+        "Lino Guzzella",
+        "Sarah Springman",
+        "Ulrich Weidmann",
+        "Robert Perich"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Culture inspired by science",
+          "Culture inspired by science",
+          "The technology behind the magic"
+        ],
+        "content_length": 2492
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Markus Gross",
+        "ETH",
+        "Councillor Berset Visits Disney Lab",
+        "DRZ",
+        "Gross",
+        "the Disney Research Zurich",
+        "2008",
+        "Sarah Springman",
+        "Lino Guzzella",
+        "Ulrich Weidmann",
+        "the ETH Game Technology Center",
+        "Pascal Bérard",
+        "Disney",
+        "Alain Berset",
+        "Disney Research",
+        "En News",
+        "Robert Perich",
+        "the Federal Department of Home Affairs",
+        "2017",
+        "Guzzella",
+        "Bob Summer",
+        "Markus Hehn of Verity Studios",
+        "Verity Studios",
+        "ETH Zurich",
+        "Cirque du Soleil"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "more than 100",
+        "three",
+        "around 20",
+        "who",
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Bob Summer_has_role_head",
+        "Bob Summer_has_role_professor",
+        "ETH Zurich_has_role_professor",
+        "ETH Zurich_has_role_director",
+        "ETH Zurich_has_role_scientist",
+        "ETH Zurich_has_role_rector",
+        "Gross_has_role_professor",
+        "Gross_has_role_director",
+        "Gross_has_role_scientist",
+        "Gross_has_role_rector",
+        "Guzzella_has_role_president",
+        "Lino Guzzella_has_role_president",
+        "Markus Gross_has_role_professor",
+        "Markus Gross_has_role_director",
+        "Markus Gross_has_role_scientist",
+        "Markus Gross_has_role_rector",
+        "Pascal Bérard_has_role_student",
+        "Robert Perich_has_role_president",
+        "Sarah Springman_has_role_president",
+        "Ulrich Weidmann_has_role_president",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

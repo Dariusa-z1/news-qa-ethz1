@@ -1,0 +1,207 @@
+{
+  "filename": "from-oberstrass-to-mars.md",
+  "original_filename": "from-oberstrass-to-mars.html",
+  "source_path": "en_internal/2018/06/from-oberstrass-to-mars.html",
+  "date": "2018-06",
+  "title": "From Oberstrass To Mars",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "This year’s visitors experienced another close-up of ETH Zurich. Entertaining comics from the Expedition Solar System special exhibition at focusTerra attracted many space enthusiasts to the stand by Rigiplatz in Zurich. The comics tell the story of how and why space research is particularly relevant to ETH.\n\nVisitors saw a virtual Mars rover in an interactive app, they curved space time in an experiment (small picture) and started solar systems. A screen in the background showed the successful launch of the Mars mission at the start of May."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Oberstrass",
+        "label": "GPE",
+        "start": 25,
+        "end": 35
+      },
+      {
+        "text": "This year",
+        "label": "DATE",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 53,
+        "end": 63
+      },
+      {
+        "text": "the Expedition Solar System",
+        "label": "ORG",
+        "start": 90,
+        "end": 117
+      },
+      {
+        "text": "Rigiplatz",
+        "label": "NORP",
+        "start": 200,
+        "end": 209
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 213,
+        "end": 219
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 305,
+        "end": 308
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 333,
+        "end": 337
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 513,
+        "end": 517
+      },
+      {
+        "text": "the start of May",
+        "label": "DATE",
+        "start": 529,
+        "end": 545
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "the Expedition Solar System"
+      ],
+      "LOCATION": [
+        "Mars",
+        "Oberstrass",
+        "Zurich"
+      ],
+      "DATE": [
+        "This year",
+        "the start of May"
+      ],
+      "MISC": [
+        "Rigiplatz"
+      ]
+    },
+    "entity_counts": {
+      "Mars": 2,
+      "Oberstrass": 1,
+      "This year": 1,
+      "ETH Zurich": 1,
+      "the Expedition Solar System": 1,
+      "Rigiplatz": 1,
+      "Zurich": 1,
+      "ETH": 1,
+      "the start of May": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "from-oberstrass-to-mars.md",
+      "title": "En Internal/2018/06/from Oberstrass To Mars",
+      "language": "en",
+      "source_path": "en_internal/2018/06/from-oberstrass-to-mars.html"
+    },
+    "temporal": {
+      "publication_date": "2018-06",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Rigiplatz"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Mars This",
+        "Expedition Solar",
+        "Oberstrass To",
+        "En Internal",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "the Expedition Solar System"
+      ],
+      "locations": [
+        "Mars",
+        "Oberstrass",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Mars",
+        "Oberstrass",
+        "This year",
+        "ETH Zurich",
+        "the Expedition Solar System",
+        "Rigiplatz",
+        "Zurich",
+        "ETH",
+        "the start of May"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 591
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "ETH",
+        "2018",
+        "the Expedition Solar System"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Rigiplatz",
+        "what",
+        "how",
+        "why",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

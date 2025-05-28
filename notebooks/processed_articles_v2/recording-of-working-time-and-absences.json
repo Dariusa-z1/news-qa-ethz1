@@ -1,0 +1,283 @@
+{
+  "filename": "recording-of-working-time-and-absences.md",
+  "original_filename": "recording-of-working-time-and-absences.html",
+  "source_path": "en_internal/2016/12/recording-of-working-time-and-absences.html",
+  "date": "2016-12",
+  "title": "Recording Of Working Time And Absences",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Since the beginning of 2015, a new accounting standard based on the International Public Sector Accounting Standards IPSAS has been applied at ETH Zurich. In line with this changeover, there are new rules for time recording by ETH staff from 2017 onwards.\n\nOn 13 December 2016, the ETH Zurich Executive Board approved the Regulation for the recording of working time and absences .\n\nAccording to this regulation, as of 1 January 2017 all staff at ETH Zurich are obliged to record their daily working hours and specific absences either in the time logging system in ETHIS (ETH Information and Support System), or in an existing time logging system. The time-recording requirements vary according to the personnel category.\n\nThe table and text below show the absences to be recorded by the various personnel categories:\n\nScientific staff (excluding professors)\n\nAdministrative and technical staff, functional level 1-9\n\nAdministrative and technical staff, functional level 10-15\n\nEmployees on an hourly wage\n\nThe existing regulations for the recording of working time on projects will continue to apply.\n\nYou will find further information here .\n\nETH Zurich members of staff will be informed of this directly, according to their personnel category."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Working Time And Absences",
+        "label": "ORG",
+        "start": 33,
+        "end": 58
+      },
+      {
+        "text": "the beginning of 2015",
+        "label": "DATE",
+        "start": 6,
+        "end": 27
+      },
+      {
+        "text": "the International Public Sector Accounting Standards IPSAS",
+        "label": "ORG",
+        "start": 64,
+        "end": 122
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 143,
+        "end": 153
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 227,
+        "end": 230
+      },
+      {
+        "text": "13 December 2016",
+        "label": "DATE",
+        "start": 259,
+        "end": 275
+      },
+      {
+        "text": "the ETH Zurich Executive Board",
+        "label": "ORG",
+        "start": 277,
+        "end": 307
+      },
+      {
+        "text": "1 January 2017",
+        "label": "DATE",
+        "start": 417,
+        "end": 431
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 445,
+        "end": 455
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 484,
+        "end": 489
+      },
+      {
+        "text": "working hours",
+        "label": "TIME",
+        "start": 490,
+        "end": 503
+      },
+      {
+        "text": "ETHIS",
+        "label": "ORG",
+        "start": 563,
+        "end": 568
+      },
+      {
+        "text": "ETH Information and Support System",
+        "label": "ORG",
+        "start": 570,
+        "end": 604
+      },
+      {
+        "text": "1-9 Administrative",
+        "label": "PERCENT",
+        "start": 908,
+        "end": 926
+      },
+      {
+        "text": "10-15",
+        "label": "CARDINAL",
+        "start": 965,
+        "end": 970
+      },
+      {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 987,
+        "end": 993
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1135,
+        "end": 1145
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Information and Support System",
+        "ETH Zurich",
+        "ETHIS",
+        "Working Time And Absences",
+        "the ETH Zurich Executive Board",
+        "the International Public Sector Accounting Standards IPSAS"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "1 January 2017",
+        "13 December 2016",
+        "daily",
+        "hourly",
+        "the beginning of 2015",
+        "working hours"
+      ],
+      "MISC": [
+        "1-9 Administrative",
+        "10-15"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "Working Time And Absences": 1,
+      "the beginning of 2015": 1,
+      "the International Public Sector Accounting Standards IPSAS": 1,
+      "ETH": 1,
+      "13 December 2016": 1,
+      "the ETH Zurich Executive Board": 1,
+      "1 January 2017": 1,
+      "daily": 1,
+      "working hours": 1,
+      "ETHIS": 1,
+      "ETH Information and Support System": 1,
+      "1-9 Administrative": 1,
+      "10-15": 1,
+      "hourly": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "recording-of-working-time-and-absences.md",
+      "title": "En Internal/2016/12/recording Of Working Time And Absences",
+      "language": "en",
+      "source_path": "en_internal/2016/12/recording-of-working-time-and-absences.html"
+    },
+    "temporal": {
+      "publication_date": "2016-12",
+      "mentioned_years": [
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "1-9 Administrative",
+        "10-15"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Information",
+        "Of Working",
+        "International Public",
+        "Executive Board",
+        "En Internal",
+        "ETH Zurich",
+        "Absences Since",
+        "Standards IPSAS",
+        "Sector Accounting",
+        "Time And",
+        "Support System"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Information and Support System",
+        "ETH Zurich",
+        "ETHIS",
+        "Working Time And Absences",
+        "the ETH Zurich Executive Board",
+        "the International Public Sector Accounting Standards IPSAS"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Working Time And Absences",
+        "the beginning of 2015",
+        "the International Public Sector Accounting Standards IPSAS",
+        "ETH",
+        "13 December 2016",
+        "the ETH Zurich Executive Board",
+        "1 January 2017",
+        "daily",
+        "working hours"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1305
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Working Time And Absences",
+        "2015",
+        "2017",
+        "the ETH Zurich Executive Board",
+        "2016",
+        "the International Public Sector Accounting Standards IPSAS",
+        "ETH Information and Support System",
+        "ETH Zurich",
+        "ETHIS"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "1-9 Administrative",
+        "what",
+        "how",
+        "when",
+        "10-15"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

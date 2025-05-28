@@ -1,0 +1,367 @@
+{
+  "filename": "squeezed-quantum-cats.md",
+  "original_filename": "squeezed-quantum-cats.html",
+  "source_path": "en_news_events/2015/05/squeezed-quantum-cats.html",
+  "date": "2015-05",
+  "title": "Squeezed Quantum Cats",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Squeezing and shifting",
+      "text": "Quantum physics is full of fascinating phenomena. Take, for instance, the cat from the famous thought experiment by the physicist Erwin Schrodinger. The cat can be dead and alive at once, since its life depends on the quantum mechanically determined state of a radioactively decaying atom which, in turn, releases toxic gas into the cat’s cage. As long as one hasn’t measured the state of the atom, one knows nothing about the poor cat’s health either – atom and kitty are intimately “entangled” with each other.\n\nEqually striking, if less well known, are the so-called squeezed quantum states: Normally, Heisenberg’s uncertainty principle means that one cannot measure the values of certain pairs of physical quantities, such as the position and velocity of a quantum particle, with arbitrary precision. Nevertheless, nature allows a barter trade: If the particle has been appropriately prepared, then one of the quantities can be measured a little more exactly if one is willing to accept a less precise knowledge of the other quantity. In this case the preparation of the particle is known as “squeezing” because the uncertainty in one variable is reduced (squeezed).\n\nSchrödinger’s cat and squeezed quantum states are both important physical phenomena that lie at the heart of promising technologies of the future. Researchers at the ETH were now able successfully to combine both in a single experiment."
+    },
+    {
+      "heading": "Literature reference",
+      "text": "The scientists used this ion trap to create the new quantum states. (Photo: ETH Zurich)\n\nIn their laboratory, Jonathan Home, professor of experimental quantum optics and photonics, and his colleagues catch a single electrically charged calcium ion in a tiny cage made of electric fields. Using laser beams they cool the ion down until it hardly moves inside the cage. Now the researchers reach into their bag of tricks: they “squeeze” the state of motion of the ion by shining laser light on it and by skilfully using the spontaneous decay of its energy states. Eventually the ion’s wave function (which corresponds to the probability of finding it at a certain point in space) is literally squashed: now the physicists have a better idea of where the ion is located in space, but the uncertainty in its velocity has increased proportionately. “This state squeezing is an important tool for us”, Jonathan Home explains. “Together with a second tool – the so-called state-dependent forces – we are now able to produce a ‘squeezed Schrödinger cat’”.\n\nTo that end the ion is once more exposed to laser beams that move it to the left or to the right. The direction of the forces induced by the laser depends on the internal energy state of the ion. This energy state can be represented by an arrow pointing up or down, also called a spin. If the ion is in an energy superposition state composed of “spin up” and “spin down”, the force acts both to the left and to the right. In this way, a peculiar situation is created that is similar to Schrödinger’s cat: the ion now finds itself in a hybrid state of being on the right (cat is alive) and on the left (cat is dead) at the same time. Only when one measures the spin does the ion decide whether to be on the right or on the left.\n\nThe Schrödinger cat prepared by professor Home and his collaborators is special in that the initial squeezing makes the ion states “left” and “right” particularly easy to distinguish. At the same time, it is also pretty large as the two ion states are far apart. “Even without the squeezing our “cat” is the largest one produced to date”, Home points out. “With the squeezing, the states “left” and “right” are even more distinguishable – they are as much as sixty times narrower than the separation between them”. All this isn’t just about scientific records, however, but also about practical applications. Squeezed Schrödinger cats are particularly stable against certain types of disturbances that would normally cause the cats to lose their quantum properties and become ordinary felines. That stability could, for instance, be exploited in order to realize quantum computers, which use quantum superposition states to do their calculations. Furthermore, ultra-precise measurements could be made less sensitive to unwanted external influences.\n\nLo HY, Kienzler D, de Clercq L, Marinelli M, Negnevitsky V, Keitch, BC, Home JP: Spin–motion entanglement and state diagnosis with squeezed oscillator wavepackets. Nature, 21 May 2015, doi: 10.1038/nature14458"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Quantum Cats",
+        "label": "ORG",
+        "start": 32,
+        "end": 44
+      },
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Erwin Schrodinger",
+        "label": "PERSON",
+        "start": 130,
+        "end": 147
+      },
+      {
+        "text": "Heisenberg’s",
+        "label": "PERSON",
+        "start": 604,
+        "end": 616
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1134,
+        "end": 1137
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1336,
+        "end": 1339
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 76,
+        "end": 86
+      },
+      {
+        "text": "Jonathan Home",
+        "label": "PERSON",
+        "start": 109,
+        "end": 122
+      },
+      {
+        "text": "Jonathan Home",
+        "label": "PERSON",
+        "start": 895,
+        "end": 908
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 936,
+        "end": 942
+      },
+      {
+        "text": "Schrödinger’s",
+        "label": "ORG",
+        "start": 1533,
+        "end": 1546
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1690,
+        "end": 1693
+      },
+      {
+        "text": "Home",
+        "label": "PERSON",
+        "start": 1817,
+        "end": 1821
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2008,
+        "end": 2011
+      },
+      {
+        "text": "as much as",
+        "label": "CARDINAL",
+        "start": 2223,
+        "end": 2233
+      },
+      {
+        "text": "Lo HY",
+        "label": "PERSON",
+        "start": 2824,
+        "end": 2829
+      },
+      {
+        "text": "Kienzler",
+        "label": "PERSON",
+        "start": 2831,
+        "end": 2839
+      },
+      {
+        "text": "de Clercq L",
+        "label": "PERSON",
+        "start": 2843,
+        "end": 2854
+      },
+      {
+        "text": "Marinelli M",
+        "label": "PERSON",
+        "start": 2856,
+        "end": 2867
+      },
+      {
+        "text": "BC",
+        "label": "ORG",
+        "start": 2892,
+        "end": 2894
+      },
+      {
+        "text": "21 May 2015",
+        "label": "DATE",
+        "start": 2996,
+        "end": 3007
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 3014,
+        "end": 3021
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Erwin Schrodinger",
+        "Heisenberg’s",
+        "Home",
+        "Jonathan Home",
+        "Kienzler",
+        "Lo HY",
+        "Marinelli M",
+        "de Clercq L"
+      ],
+      "ORG": [
+        "BC",
+        "ETH",
+        "Quantum",
+        "Quantum Cats",
+        "Schrödinger’s"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "21 May 2015"
+      ],
+      "MISC": [
+        "10.1038",
+        "as much as",
+        "one",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "one": 2,
+      "Jonathan Home": 2,
+      "Quantum Cats": 1,
+      "Quantum": 1,
+      "Erwin Schrodinger": 1,
+      "Heisenberg’s": 1,
+      "ETH": 1,
+      "ETH Zurich": 1,
+      "second": 1,
+      "Schrödinger’s": 1,
+      "Home": 1,
+      "two": 1,
+      "as much as": 1,
+      "Lo HY": 1,
+      "Kienzler": 1,
+      "de Clercq L": 1,
+      "Marinelli M": 1,
+      "BC": 1,
+      "21 May 2015": 1,
+      "10.1038": 1
+    },
+    "total_entities": 22,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "squeezed-quantum-cats.md",
+      "title": "En News Events/2015/05/squeezed Quantum Cats",
+      "language": "en",
+      "source_path": "en_news_events/2015/05/squeezed-quantum-cats.html"
+    },
+    "temporal": {
+      "publication_date": "2015-05",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Erwin Schrodinger",
+        "Heisenberg’s",
+        "Home",
+        "Jonathan Home",
+        "Kienzler",
+        "Lo HY",
+        "Marinelli M",
+        "de Clercq L"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "professor"
+        ],
+        "Home": [
+          "professor"
+        ],
+        "Jonathan Home": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "as much as",
+        "second"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Home JP",
+        "Marinelli M",
+        "En News",
+        "Negnevitsky V",
+        "Quantum Cats",
+        "Erwin Schrodinger",
+        "Clercq L",
+        "Lo HY",
+        "ETH Zurich",
+        "Kienzler D",
+        "Jonathan Home"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BC",
+        "ETH",
+        "Quantum",
+        "Quantum Cats",
+        "Schrödinger’s"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "one",
+        "Jonathan Home",
+        "Quantum Cats",
+        "Quantum",
+        "Erwin Schrodinger",
+        "Heisenberg’s",
+        "ETH",
+        "ETH Zurich",
+        "second",
+        "Schrödinger’s"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Squeezing and shifting",
+          "Literature reference"
+        ],
+        "content_length": 4491
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Marinelli M",
+        "2015",
+        "Home",
+        "de Clercq L",
+        "Quantum Cats",
+        "BC",
+        "Erwin Schrodinger",
+        "Quantum",
+        "Lo HY",
+        "Kienzler",
+        "ETH Zurich",
+        "Heisenberg’s",
+        "ERC",
+        "Schrödinger’s",
+        "Jonathan Home"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "who",
+        "10.1038",
+        "where",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "as much as",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_professor",
+        "Home_has_role_professor",
+        "Jonathan Home_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

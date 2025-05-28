@@ -1,0 +1,221 @@
+{
+  "filename": "bautafel-fuer-student-project-house.md",
+  "original_filename": "bautafel-fuer-student-project-house.html",
+  "source_path": "de_internal/2016/06/bautafel-fuer-student-project-house.html",
+  "date": "2016-06",
+  "title": "Bautafel Fuer Student Project House",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "An der Ecke Tannenstrasse/Clausiusstrasse wird in diesen Tagen eine über sechs Meter breite Bautafel für das Student Project House-Projekt montiert, das bis Ende 2019 im ehemaligen Fernheizkraftwerk entsteht. In diesem können Studierende während ihres Studiums selbstständig und in interdisziplinären Gruppen eigene Projekte verfolgen. Mit einer Umgebung, die zum Ideenaustausch und zum Experimentieren einlädt, gibt die ETH Zürich ihren Studierenden Raum, um kreative Ideen zu entwickeln und umzusetzen.\n\nDer Hauptzugang erfolgt über einen neu gestalteten Eingang an der Clausiusstrasse. Wie alle Gebäudeteile bleibt der Zugang über die zentrale Maschinenhalle auf der Ebene bestehen. Die Maschinenhalle erhält das historische Glasdach zurück, über sie werden die autonomen Gebäudeteile im ML und FHK zusammengeführt und Begegnungen ermöglicht.\n\nDer voraussichtliche Start der Sanierungsarbeiten im FHK ist für das Jahr 2017 geplant. Die ersten Baumassnahmen beginnen im Herbst 2016. Eine Installationsplattform wird über der Clausiusstrasse für Baustelleneinrichtungen und Provisorien errichtet."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/06/bautafel",
+        "label": "LOC",
+        "start": 0,
+        "end": 28
+      },
+      {
+        "text": "Project House",
+        "label": "PER",
+        "start": 42,
+        "end": 55
+      },
+      {
+        "text": "Project House-Projekt",
+        "label": "PER",
+        "start": 117,
+        "end": 138
+      },
+      {
+        "text": "Ideenaustausch",
+        "label": "LOC",
+        "start": 364,
+        "end": 378
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 421,
+        "end": 431
+      },
+      {
+        "text": "Ebene",
+        "label": "LOC",
+        "start": 669,
+        "end": 674
+      },
+      {
+        "text": "Maschinenhalle",
+        "label": "LOC",
+        "start": 689,
+        "end": 703
+      },
+      {
+        "text": "ML",
+        "label": "MISC",
+        "start": 790,
+        "end": 792
+      },
+      {
+        "text": "FHK",
+        "label": "ORG",
+        "start": 797,
+        "end": 800
+      },
+      {
+        "text": "FHK",
+        "label": "ORG",
+        "start": 898,
+        "end": 901
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Project House",
+        "Project House-Projekt"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "FHK"
+      ],
+      "LOCATION": [
+        "De Internal/2016/06/bautafel",
+        "Ebene",
+        "Ideenaustausch",
+        "Maschinenhalle"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ML"
+      ]
+    },
+    "entity_counts": {
+      "FHK": 2,
+      "De Internal/2016/06/bautafel": 1,
+      "Project House": 1,
+      "Project House-Projekt": 1,
+      "Ideenaustausch": 1,
+      "ETH Zürich": 1,
+      "Ebene": 1,
+      "Maschinenhalle": 1,
+      "ML": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "bautafel-fuer-student-project-house.md",
+      "title": "De Internal/2016/06/bautafel Fuer Student Project House",
+      "language": "de",
+      "source_path": "de_internal/2016/06/bautafel-fuer-student-project-house.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2016",
+        "2017",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Project House",
+        "Project House-Projekt"
+      ],
+      "people_with_roles": {
+        "Project House": [
+          "student"
+        ],
+        "Project House-Projekt": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "House-Projekt",
+        "Project House",
+        "Eine Installationsplattform",
+        "De Internal",
+        "Der Hauptzugang",
+        "Ecke Tannenstrasse",
+        "Die Maschinenhalle",
+        "Fuer Student",
+        "Studierenden Raum",
+        "Student Project"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "FHK"
+      ],
+      "locations": [
+        "De Internal/2016/06/bautafel",
+        "Ebene",
+        "Ideenaustausch",
+        "Maschinenhalle"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "FHK",
+        "De Internal/2016/06/bautafel",
+        "Project House",
+        "Project House-Projekt",
+        "Ideenaustausch",
+        "ETH Zürich",
+        "Ebene",
+        "Maschinenhalle",
+        "ML"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1153
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Project House",
+        "2017",
+        "2019",
+        "EU",
+        "FHK",
+        "2016",
+        "ETH Zürich",
+        "Project House-Projekt"
+      ],
+      "semantic_concepts": [
+        "what"
+      ],
+      "graph_relations": [
+        "Project House_has_role_student",
+        "Project House-Projekt_has_role_student"
+      ]
+    }
+  }
+}

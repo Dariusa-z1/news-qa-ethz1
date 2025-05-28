@@ -1,0 +1,262 @@
+{
+  "filename": "oase-fuer-die-familie.md",
+  "original_filename": "oase-fuer-die-familie.html",
+  "source_path": "de_internal/2016/06/oase-fuer-die-familie.html",
+  "date": "2016-06",
+  "title": "Oase Fuer Die Familie",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Support fürs Multitasking",
+      "text": "Der Alltag zwingt einem manchmal seine eigene Agenda auf. Wenn die vorgesehene Betreuungsperson ausfällt, zum Beispiel krankheitsbedingt, stehen berufstätige Eltern mit Kindern vor einem Problem. Der neue Family Room im Gebäude NO des Departements Erdwissenschaften will Departementsangehörige in dieser Lage unterstützen. «Bei einem Betreuungsengpass können Mitarbeitende trotzdem an die ETH kommen, das eigene Kind mitnehmen und es im Family Room betreuen. Das Bedürfnis wurde im Departement schon länger artikuliert, mit dem Family Room können wir konkret darauf eingehen», freut sich Departementskoordinator Ernst Kreuzer."
+    },
+    {
+      "heading": "Support fürs Multitasking",
+      "text": "Die Einrichtung des Raums, den die Abteilung Betrieb entbehren konnte, ist einfach, aber zweckmässig: Ein grosser Tisch für sechs Laptop-Arbeitsplätze für die Eltern steht da, eine kleine Küchenzeile mit Koch- und Essgeschirr, ein abgetrennter Raum mit Wickeltisch, Kinderbett und einem kleinen Spielbereich."
+    },
+    {
+      "heading": "Keine Fremdbetreuung",
+      "text": "Der Family Room kann kostenlos genutzt werden, sagt Departemenscontrollerin Manuela Caprani. «Anmeldungen nimmt das Departement nach dem Prinzip ‹first come, first serve› entgegen.» Wichtig zu wissen ist: Das Kind muss in jedem Fall von einem Elternteil beaufsichtigt werden. Es steht keine Betreuungsperson zur Verfügung."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/06/oase",
+        "label": "LOC",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "text": "Fuer",
+        "label": "PER",
+        "start": 25,
+        "end": 29
+      },
+      {
+        "text": "Betreuungsperson",
+        "label": "PER",
+        "start": 79,
+        "end": 95
+      },
+      {
+        "text": "Family Room",
+        "label": "LOC",
+        "start": 205,
+        "end": 216
+      },
+      {
+        "text": "Departements",
+        "label": "LOC",
+        "start": 235,
+        "end": 247
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 389,
+        "end": 392
+      },
+      {
+        "text": "Family Room",
+        "label": "MISC",
+        "start": 437,
+        "end": 448
+      },
+      {
+        "text": "Departement",
+        "label": "LOC",
+        "start": 482,
+        "end": 493
+      },
+      {
+        "text": "Ernst Kreuzer",
+        "label": "PER",
+        "start": 612,
+        "end": 625
+      },
+      {
+        "text": "Raums",
+        "label": "MISC",
+        "start": 20,
+        "end": 25
+      },
+      {
+        "text": "Wickeltisch",
+        "label": "LOC",
+        "start": 253,
+        "end": 264
+      },
+      {
+        "text": "Kinderbett",
+        "label": "LOC",
+        "start": 266,
+        "end": 276
+      },
+      {
+        "text": "Family Room",
+        "label": "MISC",
+        "start": 4,
+        "end": 15
+      },
+      {
+        "text": "Manuela Caprani",
+        "label": "PER",
+        "start": 76,
+        "end": 91
+      },
+      {
+        "text": "Departement",
+        "label": "LOC",
+        "start": 116,
+        "end": 127
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Betreuungsperson",
+        "Ernst Kreuzer",
+        "Fuer",
+        "Manuela Caprani"
+      ],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [
+        "De Internal/2016/06/oase",
+        "Departement",
+        "Departements",
+        "Family Room",
+        "Kinderbett",
+        "Wickeltisch"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Family Room",
+        "Raums"
+      ]
+    },
+    "entity_counts": {
+      "Family Room": 3,
+      "Departement": 2,
+      "De Internal/2016/06/oase": 1,
+      "Fuer": 1,
+      "Betreuungsperson": 1,
+      "Departements": 1,
+      "ETH": 1,
+      "Ernst Kreuzer": 1,
+      "Raums": 1,
+      "Wickeltisch": 1,
+      "Kinderbett": 1,
+      "Manuela Caprani": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "oase-fuer-die-familie.md",
+      "title": "De Internal/2016/06/oase Fuer die Familie",
+      "language": "de",
+      "source_path": "de_internal/2016/06/oase-fuer-die-familie.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Betreuungsperson",
+        "Ernst Kreuzer",
+        "Fuer",
+        "Manuela Caprani"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Family Room",
+        "Raums"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Das Kind",
+        "Family Room",
+        "Departements Erdwissenschaften",
+        "Die Einrichtung",
+        "Departementskoordinator Ernst",
+        "Der Family",
+        "Familie Der",
+        "De Internal",
+        "Abteilung Betrieb",
+        "Departemenscontrollerin Manuela"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [
+        "De Internal/2016/06/oase",
+        "Departement",
+        "Departements",
+        "Family Room",
+        "Kinderbett",
+        "Wickeltisch"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Family Room",
+        "Departement",
+        "De Internal/2016/06/oase",
+        "Fuer",
+        "Betreuungsperson",
+        "Departements",
+        "ETH",
+        "Ernst Kreuzer",
+        "Raums",
+        "Wickeltisch"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Support fürs Multitasking",
+          "Support fürs Multitasking",
+          "Keine Fremdbetreuung"
+        ],
+        "content_length": 1300
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Ernst Kreuzer",
+        "EU",
+        "Betreuungsperson",
+        "2016",
+        "Fuer",
+        "Manuela Caprani"
+      ],
+      "semantic_concepts": [
+        "Raums",
+        "Family Room",
+        "who"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,32 @@
+# wo-im-gotthard-eth-drinsteckt.html
+
+**Source:** de_news_events/2016/05/wo-im-gotthard-eth-drinsteckt.html
+
+## Schwimmendes Gebirge durchstossen
+
+Vortrieb im Tavetscher Zwischenmassiv (Bild: Georgios Anagnostou / ETH Zürich)
+
+Die Anfänge der SBB und der ETH Zürich sind eng miteinander verknüpft. Der Eisenbahnunternehmer Alfred Escher braucht Ingenieure für ein ehrgeiziges Projekt: die Nord-Süd-Verbindung. Die Geburtsstunde der Gotthardlinie war somit auch die Geburtsstunde der ETH Zürich. 1855 wird das Polytechnikum in Zürich gegründet, 1872 beginnen die Arbeiten für den Gotthardtunnel. Seitdem haben Fachleute der ETH den Bahn- und Tunnelbau begleitet – auch im aktuellen Projekt. Es sind dies nicht nur Bauingenieure, sondern auch Geologen, Geomatiker, Raumplaner und Informatiker.
+
+## Gotthard treibt Forschung voran
+
+«Untertagebau wird seit fast 100 Jahren auf hohem Niveau an der ETH gelehrt.» Das sagt Georg Anagnostou, Professor für Untertagebau. «Ohne unsere Absolventen hätte dieses Projekt nicht realisiert werden können.» Sein Vorgänger Kalman Kovári war von 1990 bis zu seiner Emeritierung im Jahr 2002 Vorsitzender der Arbeitsgruppe Bautechnik-Basistunnel. Diese beurteilte einerseits übergeordnete planerische Fragestellungen, wie etwa die Linienführung oder die Wahl der optimalen Tunnel- und Röhrensysteme, andererseits auch bautechnische Schlüsselfragen.
+
+## Schwimmendes Gebirge durchstossen
+
+Eine solche Schlüsselfrage stellte sich in der frühen Planungsphase in der Piora-Mulde auf der Südseite des Gotthards. Diese Störzone war wegen ihrer geologischen Beschaffenheit von den Experten gefürchtet und sorgte jahrelang für Schlagzeilen: Es konnte nämlich nicht ausgeschlossen werden, dass der zuckerkörnige Dolomit an der Gebirgsoberfläche bis auf Tunnelniveau reicht. Das hätte bedeutet, dass der Tunnel über 30 bis 50 Meter so genanntes schwimmendes Gebirge hätte durchstossen müssen lockeres Gestein, das unter einem hohen Wasserdruck steht. Diese Gefahr veranlasste die Wissenschaftler der ETH zu umfangreichen tunnelstatischen Berechnungen. «Die Untersuchungen zeigten, welche Bedeutung etwa Ausbauwiderstand, Druckfestigkeit und Dicke des Injektionskörpers für die Überwindung von schwimmendem Gebirge haben», hält Anagnostou fest.
+
+Beim Tavetscher Zwischenmassiv im Nordosten untersuchten die ETH-Wissenschaftler die Verformbarkeit des Gebirges und lieferten die wissenschaftlichen Grundlagen, welche Bauverzögerungen verhindern halfen. «Druckhaftes Gebirge kann Tunnelbohrmaschinen blockieren. Das führt zu grossen Bauverzögerungen», erklärt Anagnostou. Dass solche Verzögerungen viel Geld kosten, liegt auf der Hand. Insofern sind die Erkenntnisse aus dem Gotthard-Basistunnel – dem weltweit längsten Eisenbahntunnel – nicht zuletzt auch von grosser ökonomischer Bedeutung für den Tunnelbau international.
+
+## Gotthard treibt Forschung voran
+
+«Die Arbeiten am Gotthard haben uns in vielerlei Hinsicht extrem wichtige Impulse für die Forschung gegeben, die im Tunnelbau weltweit Anwendung finden, beispielsweise in der Türkei oder den USA.» Die Erkenntnisse, die in diesem Jahrhundertprojekt gewonnen wurden, haben aber noch viel weitreichendere Folgen: Sie finden in Dissertationen Niederschlag und fliessen in die Lehre ein, wo künftige Tunnelbauer ihr Know-how erwerben.
+
+## Auf 0,001 Grad genau
+
+Auch Forschende des Instituts für Geodäsie und Photogrammmetrie haben mit ihren Arbeiten am Gotthard wesentlich zur erfolgreichen Realisierung des Tunnels beigetragen. Spezialisten für die Tunnelvermessung lieferten wissenschaftliche Grundlagen für die Planung und Projektierung des Alpentunnels. Die schwierigen Verhältnisse im Gotthardmassiv stellten die Geomatiker vor grosse Herausforderungen, welche mit Hilfe der Professoren Alessandro Carosio, bis zu seiner Emeritierung 2008 als Geodäsie-Experte für die AlpTransit Gottthard AG tätig, und ETH-Professor Alain Geiger bewältigt wurden: Für die Grundlagenplanung an der Oberfläche können sich die Geomatiker per GPS orientieren. Im Berg können sie dafür keine Signale empfangen. Deshalb wird die Richtung dort mit einem sogenannten Vermessungskreisel festgelegt, mit dem man die Richtung gegenüber der geografischen Nordrichtung auf 0,001 Grad genau messen kann. Das ist gerade genau genug für den Vortrieb langer Tunnel. Um diese Genauigkeit zu erreichen und auch um die Portale in der Höhe ausreichend genau miteinander zu verbinden, müssen die Einflüsse von Schwereanomalien und Lotabweichungen auf die Messungen korrigiert werden. Lokal gesehen sind sie insbesondere eine Folge der unterschiedlichen Dichte der Gesteine im Berg sowie der Topographie. Das erforderliche Modell (Geoid) des Erdschwerefeldes konnte nur mit Hilfe der Expertise und mit Hilfe von speziell entwickelten Messgeräten der ETH Zürich bestimmt werden.
+
+Auch methodisch leisteten die Forscher Pionierarbeit: Bei Sedrun kam neben dem oben erwähnten Vermessungskreisel weltweit erstmals zusätzlich inertiale Messtechnik für die Richtungsbestimmung im Tunnel zum Einsatz. Der ETH-Professor Hilmar Ingensand hatte diese gemeinsam mit seinen Kollegen von der TU München entwickelt. Mit den zusätzlichen Messdaten stellten die Vermessungsfachleute sicher, dass der am Fuss des 800 Meter tiefen Schachts begonnene Vortrieb in der richtigen Richtung erfolgt. Diese Forschungsanstrengungen zahlten sich aus: Beim finalen Durchschlag des Tunnels betrug die Abweichung lediglich acht Zentimeter seitlich und einen Zentimeter in der Höhe. Eine Meisterleistung der Ingenieurskunst. Und, wie Carosio betont, «die verantwortlichen Vermessungsingenieure waren ohne Ausnahme Absolventen der ETH.»
+
+Am Samstag 4. und Sonntag, 5. Juni wird der Gotthard-Basistunnel feierlich eröffnet. Die ETH Zürich ist an diesem Publikumsanlass der SBB mit sieben Projekten vertreten. In Rynächt können Besucherinnen und Besucher anhand von Experimenten konkret erleben, welche Kräfte einen Tunnelbogen zusammenhalten oder wie man es anstellt, dass man von zwei Seiten in einen Berg bohrt und sich in der Mitte auch trifft. Zudem demonstrieren Forschende aus dem Bereich Maschinenbau, wie einem künftig autonome Roboter in einer fremden Stadt Orientierung bieten. In Erstfeld dreht sich alles um Elektro-Boliden. Maschinenbaustudenten zeigen Rennwagen, mit denen sie seit drei Jahren die Weltrangliste der Formula Student anführen und Beschleunigungsrekorde brechen. Mehr Informationen und das Programm finden Sie externe Seite hier .
+

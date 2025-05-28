@@ -1,0 +1,210 @@
+{
+  "filename": "die-eth-am-nationalen-klimatag.md",
+  "original_filename": "die-eth-am-nationalen-klimatag.html",
+  "source_path": "de_news_events/2021/05/die-eth-am-nationalen-klimatag.html",
+  "date": "2021-05",
+  "title": "Die Eth Am Nationalen Klimatag",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Am 27. Mai findet der erste Nationale Klimatag statt. Die ETH Zürich ist mit spannenden Beiträgen dabei. So treten diverse Forschende in verschiedenen Themenblöcken zu Klimafakten, Ernährung und nachhaltigem Bauen und Wohnen auf – live vom Bundesplatz in Bern.\n\nDes Weiteren lanciert die ETH Zürich mit «Rethinking Living» ein neues Diskussionsformat, das sich essentiellen Fragen des Lebens widmet. In der ersten Sendung anlässlich des Klimatags diskutieren die ETH-Forschenden Rachael Garrett und Tom Crowther über das «Los der Wälder». Wie schützen wir diese Horte der Artenvielfalt? Und wie können wir die wertvollen Kohlenstoffspeicher wiederherstellen?"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Nationale Klimatag",
+        "label": "LOC",
+        "start": 28,
+        "end": 46
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 58,
+        "end": 68
+      },
+      {
+        "text": "Bundesplatz",
+        "label": "LOC",
+        "start": 240,
+        "end": 251
+      },
+      {
+        "text": "Bern",
+        "label": "LOC",
+        "start": 255,
+        "end": 259
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 287,
+        "end": 297
+      },
+      {
+        "text": "Rethinking Living",
+        "label": "MISC",
+        "start": 303,
+        "end": 320
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 462,
+        "end": 477
+      },
+      {
+        "text": "Rachael Garrett",
+        "label": "PER",
+        "start": 478,
+        "end": 493
+      },
+      {
+        "text": "Tom Crowther",
+        "label": "PER",
+        "start": 498,
+        "end": 510
+      },
+      {
+        "text": "Kohlenstoffspeicher",
+        "label": "LOC",
+        "start": 620,
+        "end": 639
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Rachael Garrett",
+        "Tom Crowther"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Forschenden"
+      ],
+      "LOCATION": [
+        "Bern",
+        "Bundesplatz",
+        "Kohlenstoffspeicher",
+        "Nationale Klimatag"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Rethinking Living"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "Nationale Klimatag": 1,
+      "Bundesplatz": 1,
+      "Bern": 1,
+      "Rethinking Living": 1,
+      "ETH-Forschenden": 1,
+      "Rachael Garrett": 1,
+      "Tom Crowther": 1,
+      "Kohlenstoffspeicher": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "die-eth-am-nationalen-klimatag.md",
+      "title": "De News Events/2021/05/die Eth Am Nationalen Klimatag",
+      "language": "de",
+      "source_path": "de_news_events/2021/05/die-eth-am-nationalen-klimatag.html"
+    },
+    "temporal": {
+      "publication_date": "2021-05",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Rachael Garrett",
+        "Tom Crowther"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Rethinking Living"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Nationale Klimatag",
+        "Tom Crowther",
+        "ETH-Forschenden",
+        "Die ETH",
+        "De News",
+        "Rethinking Living",
+        "Nationalen Klimatag",
+        "Rachael Garrett",
+        "Eth Am",
+        "Des Weiteren"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Forschenden"
+      ],
+      "locations": [
+        "Bern",
+        "Bundesplatz",
+        "Kohlenstoffspeicher",
+        "Nationale Klimatag"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "Nationale Klimatag",
+        "Bundesplatz",
+        "Bern",
+        "Rethinking Living",
+        "ETH-Forschenden",
+        "Rachael Garrett",
+        "Tom Crowther",
+        "Kohlenstoffspeicher"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 712
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Rachael Garrett",
+        "2021",
+        "Tom Crowther"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Rethinking Living"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

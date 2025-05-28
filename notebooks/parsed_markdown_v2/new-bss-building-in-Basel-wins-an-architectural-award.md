@@ -1,0 +1,16 @@
+# new-bss-building-in-Basel-wins-an-architectural-award.html
+
+**Source:** en_internal/2023/09/new-bss-building-in-Basel-wins-an-architectural-award.html
+
+## Main article
+
+Fortunately, there has been a lot of good news about the BSS in Basel lately: last week, the BSSE department was able to start teaching here, the move is going on as planned in parallel, and now the new research building has also been awarded an architecture prize.
+
+The six-storey atrium building designed by Munich-based Nickl & Partner Architekten AG received the "Iconic Award 2023" in the category "Innovative Architecture - Public / Culture / Education". The aim of the design for the new laboratory and research building was to create a building structure that would permanently withstand the functional demands of flexibility, meet the highest technical standards and give the new building a balanced yet characteristic appearance.
+
+It was a conscious decision by the architects, under the direction of Remo Burkhard, not to design a landmark in the form of a high-rise building, but to create a subtle sustainable urban addition to the Schällemätteli campus. In this way, the new building is oriented towards the neighbouring children's hospital and deliberately sets a quiet yet distinctive accent within the urban environment.
+
+The clear building form as an enclosed, compact structure, on the one hand, defines urban spatial edges and allows the best possible orientation of the functions organised in it, but on the other hand, creates a pleasant, light atmosphere with quality of stay.
+
+The award now confirms what the competition jury also recognised in its 2013 decision in favour of the design by Nickl & Partner: " The architecture and spatial permeability of the new building symbolises open, interdisciplinary and academic exchange whilst presenting a welcoming face of the campus to the city.
+

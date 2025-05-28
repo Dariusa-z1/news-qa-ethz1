@@ -1,0 +1,140 @@
+{
+  "filename": "the-complex-interplay-behind-great-heat.md",
+  "original_filename": "the-complex-interplay-behind-great-heat.html",
+  "source_path": "en_news_events/2023/02/the-complex-interplay-behind-great-heat.html",
+  "date": "2023-02",
+  "title": "The Complex Interplay Behind Great Heat",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Reference",
+      "text": "Röthlisberger M and Papritz L: Quantifying the physical processes leading to atmospheric hot extremes at a global scale. Nature Geoscience , 20 February 2023. doi: 10.1038/s41561-023-01126-1 ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Nature Geoscience",
+        "label": "PERSON",
+        "start": 121,
+        "end": 138
+      },
+      {
+        "text": "20 February 2023",
+        "label": "DATE",
+        "start": 141,
+        "end": 157
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 164,
+        "end": 171
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Nature Geoscience"
+      ],
+      "ORG": [
+        "En News"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "20 February 2023"
+      ],
+      "MISC": [
+        "10.1038"
+      ]
+    },
+    "entity_counts": {
+      "En News": 1,
+      "Nature Geoscience": 1,
+      "20 February 2023": 1,
+      "10.1038": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-complex-interplay-behind-great-heat.md",
+      "title": "En News Events/2023/02/the Complex Interplay Behind Great Heat",
+      "language": "en",
+      "source_path": "en_news_events/2023/02/the-complex-interplay-behind-great-heat.html"
+    },
+    "temporal": {
+      "publication_date": "2023-02",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Nature Geoscience"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "10.1038"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Complex Interplay",
+        "En News",
+        "Nature Geoscience",
+        "Papritz L",
+        "Behind Great"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "En News"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "how"
+      ],
+      "key_concepts": [
+        "En News",
+        "Nature Geoscience",
+        "20 February 2023",
+        "10.1038"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Reference"
+        ],
+        "content_length": 255
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Nature Geoscience",
+        "2023",
+        "En News"
+      ],
+      "semantic_concepts": [
+        "how",
+        "10.1038"
+      ],
+      "graph_relations": []
+    }
+  }
+}

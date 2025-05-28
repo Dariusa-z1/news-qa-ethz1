@@ -1,0 +1,416 @@
+{
+  "filename": "piz-daint-gehoert-zur-weltspitze.md",
+  "original_filename": "piz-daint-gehoert-zur-weltspitze.html",
+  "source_path": "de_news_events/2017/06/piz-daint-gehoert-zur-weltspitze.html",
+  "date": "2017-06",
+  "title": "Piz Daint Gehoert Zur Weltspitze",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Strategisches Vorgehen",
+      "text": "Seit November 2013 ist der Hochleistungsrechner «Piz Daint» am Nationalen Rechenzentrum (CSCS) in Lugano der leistungsstärkste Supercomputer Europas. Ende 2016 wurde seine Leistung durch ein umfassendes Hardware-Upgrade nochmals mehr als verdreifacht. Heute ist «Piz Daint» mit einer theoretischen Spitzenleistung von 25,3 Petaflops der schnellste Rechner ausserhalb Asiens, wie an der internationalen Fachtagung ISC High Performance in Frankfurt heute bestätigt wurde. Dank innovativer Architektur ist «Piz Daint» zudem auch einer der energieeffizientesten Grossrechner weltweit."
+    },
+    {
+      "heading": "Strategisches Vorgehen",
+      "text": "Der aufgerüstete Hochleistungsrechner ist ein energieeffizientes hybrides System, bestehend aus herkömmlichen Prozessoren (CPUs) und Graphikprozessoren (GPUs). Das ausgeklügelte System, das auf einem Cray XC40/XC50 basiert, ist das Ergebnis einer langjährigen Zusammenarbeit zwischen dem CSCS, verschiedenen Hardwareproduzenten sowie Informatikern, Mathematikern und weiteren Forschenden unterschiedlicher Disziplinen. Angestossen wurde diese erfolgreiche Kooperation durch die nationale Hochleistungsrechnen- und Vernetzungsstrategie (HPCN-Strategie), die vom ETH-Rat im Namen des Bundes 2009 lanciert wurde."
+    },
+    {
+      "heading": "Unterstützung der Forschung",
+      "text": "Hochleistungsrechner sind mittlerweile aus der Forschung nicht mehr wegzudenken: Simulationen, Datenanalysen und Visualisierungen liefern neben Theorie und Experimenten in den meisten Forschungsbereichen zentrale Beiträge. Leistungsstarke Systeme wie «Piz Daint» sind entscheidend für hochaufgelöste rechenintensive Simulationen, wie sie etwa in der Klima- und Materialforschung sowie in den Life Sciences gemacht werden.\n\nIn der Datenwissenschaft, die zunehmend an Bedeutung gewinnt und zu den strategischen Schwerpunkten der ETH Zürich gehört, ermöglichen Supercomputer die Analyse von enormen Datenmengen. Genau in diesem Bereich verfügt «Piz Daint» über eine besondere Stärke: Er ist in der Lage, bereits während den Berechnungen die resultierenden Daten zu analysieren.\n\nSchliesslich ist «Piz Daint» auch ein wichtiges Element in der internationalen Forschungszusammenarbeit: Das CSCS ist seit diesem Frühjahr in der «Partnership for Advanced Computing in Europe» (PRACE) mit «Piz Daint» einer der wichtigsten Anbieter von Rechenleistung. Dieses Engagement wiederum kommt den Schweizer Forschenden zugut: Sie erhalten durch die CSCS-Beteiligung an PRACE Zugang zu verschiedenen anderen europäischen Grossrechnern."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Hochleistungsrechner «Piz Daint",
+        "label": "LOC",
+        "start": 27,
+        "end": 58
+      },
+      {
+        "text": "CSCS",
+        "label": "MISC",
+        "start": 89,
+        "end": 93
+      },
+      {
+        "text": "Lugano",
+        "label": "LOC",
+        "start": 98,
+        "end": 104
+      },
+      {
+        "text": "Europas",
+        "label": "LOC",
+        "start": 141,
+        "end": 148
+      },
+      {
+        "text": "Piz Daint",
+        "label": "LOC",
+        "start": 263,
+        "end": 272
+      },
+      {
+        "text": "Asiens",
+        "label": "LOC",
+        "start": 367,
+        "end": 373
+      },
+      {
+        "text": "Frankfurt",
+        "label": "LOC",
+        "start": 437,
+        "end": 446
+      },
+      {
+        "text": "Piz Daint",
+        "label": "LOC",
+        "start": 504,
+        "end": 513
+      },
+      {
+        "text": "Hochleistungsrechner",
+        "label": "LOC",
+        "start": 17,
+        "end": 37
+      },
+      {
+        "text": "Prozessoren",
+        "label": "MISC",
+        "start": 110,
+        "end": 121
+      },
+      {
+        "text": "XC40",
+        "label": "MISC",
+        "start": 205,
+        "end": 209
+      },
+      {
+        "text": "XC50",
+        "label": "MISC",
+        "start": 210,
+        "end": 214
+      },
+      {
+        "text": "CSCS",
+        "label": "LOC",
+        "start": 288,
+        "end": 292
+      },
+      {
+        "text": "ETH-Rat",
+        "label": "ORG",
+        "start": 561,
+        "end": 568
+      },
+      {
+        "text": "Bundes 2009",
+        "label": "MISC",
+        "start": 582,
+        "end": 593
+      },
+      {
+        "text": "Hochleistungsrechner",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Datenanalysen",
+        "label": "LOC",
+        "start": 95,
+        "end": 108
+      },
+      {
+        "text": "Piz Daint",
+        "label": "LOC",
+        "start": 252,
+        "end": 261
+      },
+      {
+        "text": "Life Sciences",
+        "label": "MISC",
+        "start": 392,
+        "end": 405
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 526,
+        "end": 536
+      },
+      {
+        "text": "Piz Daint",
+        "label": "LOC",
+        "start": 641,
+        "end": 650
+      },
+      {
+        "text": "Piz Daint",
+        "label": "LOC",
+        "start": 792,
+        "end": 801
+      },
+      {
+        "text": "CSCS",
+        "label": "LOC",
+        "start": 883,
+        "end": 887
+      },
+      {
+        "text": "PRACE",
+        "label": "MISC",
+        "start": 968,
+        "end": 973
+      },
+      {
+        "text": "Piz Daint",
+        "label": "LOC",
+        "start": 980,
+        "end": 989
+      },
+      {
+        "text": "Rechenleistung",
+        "label": "ORG",
+        "start": 1026,
+        "end": 1040
+      },
+      {
+        "text": "Schweizer Forschenden",
+        "label": "MISC",
+        "start": 1079,
+        "end": 1100
+      },
+      {
+        "text": "CSCS-Beteiligung",
+        "label": "ORG",
+        "start": 1131,
+        "end": 1147
+      },
+      {
+        "text": "PRACE",
+        "label": "MISC",
+        "start": 1151,
+        "end": 1156
+      },
+      {
+        "text": "europäischen",
+        "label": "MISC",
+        "start": 1189,
+        "end": 1201
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News"
+      ],
+      "ORG": [
+        "CSCS-Beteiligung",
+        "ETH Zürich",
+        "ETH-Rat",
+        "Rechenleistung"
+      ],
+      "LOCATION": [
+        "Asiens",
+        "CSCS",
+        "Datenanalysen",
+        "Europas",
+        "Frankfurt",
+        "Hochleistungsrechner",
+        "Hochleistungsrechner «Piz Daint",
+        "Lugano",
+        "Piz Daint"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Bundes 2009",
+        "CSCS",
+        "Life Sciences",
+        "PRACE",
+        "Prozessoren",
+        "Schweizer Forschenden",
+        "XC40",
+        "XC50",
+        "europäischen"
+      ]
+    },
+    "entity_counts": {
+      "Piz Daint": 6,
+      "CSCS": 3,
+      "Hochleistungsrechner": 2,
+      "PRACE": 2,
+      "De News": 1,
+      "Hochleistungsrechner «Piz Daint": 1,
+      "Lugano": 1,
+      "Europas": 1,
+      "Asiens": 1,
+      "Frankfurt": 1,
+      "Prozessoren": 1,
+      "XC40": 1,
+      "XC50": 1,
+      "ETH-Rat": 1,
+      "Bundes 2009": 1,
+      "Datenanalysen": 1,
+      "Life Sciences": 1,
+      "ETH Zürich": 1,
+      "Rechenleistung": 1,
+      "Schweizer Forschenden": 1
+    },
+    "total_entities": 31,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "piz-daint-gehoert-zur-weltspitze.md",
+      "title": "De News Events/2017/06/piz Daint Gehoert Zur Weltspitze",
+      "language": "de",
+      "source_path": "de_news_events/2017/06/piz-daint-gehoert-zur-weltspitze.html"
+    },
+    "temporal": {
+      "publication_date": "2017-06",
+      "mentioned_years": [
+        "2009",
+        "2013",
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Bundes 2009",
+        "CSCS",
+        "Life Sciences",
+        "PRACE",
+        "Prozessoren",
+        "Schweizer Forschenden",
+        "XC40",
+        "XC50",
+        "europäischen"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Leistungsstarke Systeme",
+        "Life Sciences",
+        "Piz Daint",
+        "Hardware-Upgrade",
+        "PRACE Zugang",
+        "Nationalen Rechenzentrum",
+        "Advanced Computing",
+        "Das CSCS",
+        "ETH-Rat",
+        "Supercomputer Europas",
+        "Dieses Engagement",
+        "Daint Gehoert",
+        "HPCN-Strategie",
+        "Fachtagung ISC",
+        "Schweizer Forschenden",
+        "CSCS-Beteiligung",
+        "Zur Weltspitze",
+        "De News",
+        "Seit November",
+        "High Performance"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSCS-Beteiligung",
+        "ETH Zürich",
+        "ETH-Rat",
+        "Rechenleistung"
+      ],
+      "locations": [
+        "Asiens",
+        "CSCS",
+        "Datenanalysen",
+        "Europas",
+        "Frankfurt",
+        "Hochleistungsrechner",
+        "Hochleistungsrechner «Piz Daint",
+        "Lugano",
+        "Piz Daint"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Piz Daint",
+        "CSCS",
+        "Hochleistungsrechner",
+        "PRACE",
+        "De News",
+        "Hochleistungsrechner «Piz Daint",
+        "Lugano",
+        "Europas",
+        "Asiens",
+        "Frankfurt"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Strategisches Vorgehen",
+          "Strategisches Vorgehen",
+          "Unterstützung der Forschung"
+        ],
+        "content_length": 2465
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2009",
+        "CSCS-Beteiligung",
+        "2017",
+        "2013",
+        "EU",
+        "2016",
+        "ETH-Rat",
+        "ETH Zürich",
+        "De News",
+        "Rechenleistung",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "CSCS",
+        "XC40",
+        "Prozessoren",
+        "Life Sciences",
+        "europäischen",
+        "PRACE",
+        "Schweizer Forschenden",
+        "Bundes 2009",
+        "XC50",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

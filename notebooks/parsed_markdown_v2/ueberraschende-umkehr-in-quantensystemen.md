@@ -1,0 +1,38 @@
+# ueberraschende-umkehr-in-quantensystemen.html
+
+**Source:** de_news_events/2024/04/ueberraschende-umkehr-in-quantensystemen.html
+
+## In Kürze
+
+- Forschende haben topologisches Pumpen in einem künstlichen Festkörper aus kalten Atomen untersucht. Die Atome wurden mit Laserstrahlen gefangen.
+
+- Überraschenderweise kam es zu einer plötzlichen Umkehr der Atome an einer Wand aus Laserlicht die Richtung des topologischen Pumpens hatte sich also umgedreht. Bei einer abstossenden Wechselwirkung zwischen den Atomen passierte dies sogar schon vor Erreichen der Wand.
+
+- Solche Effekte, die durch die Topologie robust gegenüber Störungen sind, könnten in Zukunft in Quantentechnologien genutzt werden.
+
+## Transport durch Topologie
+
+Eigentlich sollte man ja Äpfel nicht mit Birnen vergleichen. In der Topologie allerdings, einem Teilgebiet der Mathematik, muss man das sogar: Dort nämlich gelten Äpfel und Birnen als topologisch gleich, weil beide kein Loch haben – im Gegensatz etwa zu Teigkringeln und Kaffeetassen, die beide eines aufweisen (bei der Tasse das Loch im Henkel) und damit ebenfalls topologisch gleich sind. Auf abstraktere Art können in der Physik auch Quantensysteme eine bestimmte Apfel- oder Teigkringel-Topologie haben, die sich in den Energiezuständen und der Bewegung von Teilchen äussert. Forschende sind an solchen Systemen sehr interessiert, da ihre Topologie sie robust gegenüber Unordnung und anderen störenden Einflüssen macht, die in natürlichen physikalischen Systemen immer vorhanden sind.
+
+Besonders interessant wird es, wenn die Teilchen in einem solchen System auch noch miteinander wechselwirken, sich also anziehen oder abstossen, wie etwa Elektronen in Festkörpern. Topologie und Wechselwirkungen in Festkörpern gemeinsam zu untersuchen, ist allerdings äusserst schwierig. ETH-Forschenden unter der Leitung von Tilman Esslinger ist es nun gelungen, topologische Effekte in einer Art künstlichem Festkörper nachzuweisen, in dem man die Wechselwirkungen mithilfe von Magnetfeldern an- und ausschalten kann. Ihre Ergebnisse, die sie soeben im Fachjournal Science veröffentlicht haben, könnten künftig in Quantentechnologien angewandt werden.
+
+## Transport durch Topologie
+
+Den künstlichen Festkörper konstruierten Zijie Zhu, Doktorand in Esslingers Labor und Erstautor der Studie, und seine Kolleg:innen aus extrem kalten Atomen (fermionischen Kaliumatomen), die mithilfe von Laserstrahlen in räumlich periodischen Gittern eingefangen wurden. Weitere Laserstrahlen sorgten dafür, dass die Tiefe benachbarter Gitterplätze im Gegenrhythmus zyklisch kleiner und grösser wurde. Nach einer bestimmten Zeit massen die Forschenden die Positionen der Atome im Gitter, zunächst ohne Wechselwirkung zwischen den Atomen. Dabei beobachteten sie, dass aufgrund der Teigkringel-Topologie der Energiezustände im periodischen Potenzial die Teilchen bei jeder Wiederholung des Zyklus um einen Gitterplatz in die gleiche Richtung weiterbefördert wurden.
+
+«Das kann man sich so wie bei einer Schraube vorstellen», sagt Konrad Viebahn, Senior Postdoc in Esslingers Team. Die Schraube dreht sich im Uhrzeigersinn um ihre eigene Achse, bewegt sich dabei aber vorwärts. Bei jeder Umdrehung legt die Schraube dabei eine festgelegte Distanz zurück – unabhängig davon, wie schnell man schraubt. Dieses Verhalten, auch topologisches Pumpen genannt, ist typisch für bestimmte topologische Systeme.
+
+## Qubit-Autobahn für Quantencomputer
+
+Was aber, wenn die Schraube auf ein Hindernis stösst? Im Experiment der ETH-Forschenden war dieses Hindernis ein zusätzlicher Laserstrahl, der die Bewegungsfreiheit der Atome in Längsrichtung einschränkte. Nach rund hundert Umdrehungen der Schraube prallten die Atome sozusagen gegen eine Wand. Diese Wand stellt, um im Bild zu bleiben, eine Apfeltopologie dar, in der das topologische Pumpen nicht mehr funktioniert.
+
+## Überraschende Umkehr
+
+Überraschenderweise blieben die Atome aber nicht einfach an der Wand stehen, sondern kehrten plötzlich um. Die Schraube bewegte sich also nun rückwärts, obwohl sie weiterhin im Uhrzeigersinn gedreht wurde. Esslinger und seine Mitarbeitenden erklären diese Umkehr dadurch, dass es im Gitter zwei Teigkringel-Topologien gibt – eine mit einem im Uhrzeigersinn drehenden Teigkringel und einen mit der entgegengesetzten Drehrichtung. An der Wand können die Atome von der einen in die andere Topologie wechseln und so ihre Bewegungsrichtung umdrehen.
+
+Nun schalteten die Forschenden eine abstossende Wechselwirkung zwischen den Atomen ein und beobachteten, was passierte. Auch hier erlebten sie eine Überraschung: Die Atome kehrten an einer unsichtbaren Barriere um, noch bevor sie die Laserwand erreicht hatten. «Durch Modellrechnungen konnten wir zeigen, dass diese unsichtbare Barriere von den Atomen selbst durch die Abstossung untereinander erzeugt wurde», erklärt Doktorandin Anne-Sophie Walter.
+
+«Mit diesen Beobachtungen sind wir auf dem Weg zu einem besseren Verständnis wechselwirkender topologischer Systeme einen grossen Schritt weitergekommen», sagt Esslinger, der solche Effekte im Rahmen eines Advanced Grant des Schweizerischen Nationalfonds (SNF) untersucht. Demnächst will er in weiteren Experimenten untersuchen, ob die topologische Schraube tatsächlich so robust gegenüber Unordnung ist wie vermutet und wie sich die Atome in zwei oder drei Raumdimensionen verhalten. Auch konkrete Anwendungen hat Esslinger bereits im Blick. So könnte der Transport von Atomen oder Ionen durch topologisches Pumpen als Qubit-Autobahn genutzt werden, um Qubits (Quantenbits) in Quantencomputern an die richtige Stelle zu bringen, ohne sie dabei aufzuheizen oder ihre Quantenzustände zu stören.
+
+Zhu Z, Gächter M, Walter A-S, Viebahn K, Esslinger T: Reversal of quantized Hall drifts at noninteractin and interactin topological boundries. Science, 18. April 2024, doi: externe Seite 10.1126/science.adg3848
+

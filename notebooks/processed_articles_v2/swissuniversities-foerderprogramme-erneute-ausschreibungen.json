@@ -1,0 +1,108 @@
+{
+  "filename": "swissuniversities-foerderprogramme-erneute-ausschreibungen.md",
+  "original_filename": "swissuniversities-foerderprogramme-erneute-ausschreibungen.html",
+  "source_path": "de_internal/2021/04/swissuniversities-foerderprogramme-erneute-ausschreibungen.html",
+  "date": "2021-04",
+  "title": "Swissuniversities Foerderprogramme Erneute Ausschreibungen",
+  "language": "unknown",
+  "paragraphs": [],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2021/04",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Foerderprogramme",
+        "label": "PER",
+        "start": 38,
+        "end": 54
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Foerderprogramme"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2021/04"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2021/04": 1,
+      "Foerderprogramme": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "swissuniversities-foerderprogramme-erneute-ausschreibungen.md",
+      "title": "De Internal/2021/04/swissuniversities Foerderprogramme Erneute Ausschreibungen",
+      "language": "unknown",
+      "source_path": "de_internal/2021/04/swissuniversities-foerderprogramme-erneute-ausschreibungen.html"
+    },
+    "temporal": {
+      "publication_date": "2021-04",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Foerderprogramme"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "De Internal",
+        "Foerderprogramme Erneute"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2021/04"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2021/04",
+        "Foerderprogramme"
+      ],
+      "document_structure": {
+        "total_sections": 0,
+        "section_titles": [],
+        "content_length": 79
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Foerderprogramme",
+        "2021",
+        "EU"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

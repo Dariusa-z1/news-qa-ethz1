@@ -1,0 +1,526 @@
+{
+  "filename": "the-beginnings-of-the-coronavirus-epidemic.md",
+  "original_filename": "the-beginnings-of-the-coronavirus-epidemic.html",
+  "source_path": "en_news_events/2020/02/the-beginnings-of-the-coronavirus-epidemic.html",
+  "date": "2020-02",
+  "title": "The Beginnings Of The Coronavirus Epidemic",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Rapid pre-quarantine spread",
+      "text": "Since the current coronavirus epidemic started, scientists and authorities have determined the genetic fingerprint of virus samples from numerous affected countries. More than 100 of these gene sequences, which are present in coronaviruses in the form of RNA, are available in public databases. Tanja Stadler, Professor of Computational Biology at the Department of Biosystems Science and Engineering at ETH Zurich in Basel and an expert in questions of molecular epidemiology, has now studied this data. Using a statistical model her group developed to analyse the genetic genealogy of pathogens, she gained new insights into the beginnings of the epidemic in China.\n\nProfessor Stadler’s analyses suggest that the epidemic in China began in the first half of November 2019, whereas most previous estimates assumed that the virus did not pass from an animal to the first human until the second half of November. “The widespread hypothesis that the first person was infected at an animal market in November is still plausible,” Stadler says. “Our data effectively rule out the scenario that the virus circulated in humans for a long time before that.”"
+    },
+    {
+      "heading": "Rapid pre-quarantine spread",
+      "text": "Stadler also analysed the dynamics of the epidemic before the city of Wuhan was quarantined on 23 January 2020. She used the genetic data to calculate the new coronavirus’s basic reproduction number, a figure that indicates the average number of people an infected person goes on to infect. According to Stadler’s estimates, it lies between 2 and 3.5 in the period in question. This corroborates the previous estimates based on the number of confirmed coronavirus cases, which suggested a figure between 2 and 4. What this means is that infections occur much more quickly than with seasonal influenza (which typically has a basic reproduction number below 1.5).\n\n“The basic reproduction number is one of the central parameters of an epidemic,” Stadler says. “It provides important information on the effectiveness of measures such as quarantine. Control measures are effective only if they are able to reduce this number.” That’s why Stadler wants to determine what this number is during the timespan of the Wuhan quarantine. However, she says, the data for this period in Wuhan are unclear, which makes a reliable analysis impossible for now."
+    },
+    {
+      "heading": "Determining the hidden figure",
+      "text": "Because viral genomes are constantly changing, Stadler could use these changes to reconstruct the evolutionary history of the virus. “Using statistical methods, we can calculate how many people were infected at any point in time in the past,” she explains. Her analysis showed that on 23 January, between 4,000 and 19,000 people must have been infected. At that time there were 581 confirmed cases of the disease. This means that in the most extreme case, only 1 in 33 infected persons appeared in the official statistics; in the best case 1 in 7.\n\nStadler emphasises that there are other methods than hers for determining epidemiological parameters. However, her method, which analyses the genomes, has a great advantage in that it allows reliable conclusions to be drawn even with data from relatively few patients. In particular, her method is beneficial in situations where it is no longer clear who infected whom. This is currently the case in our neighbouring country Italy, and has been the case in China for some time."
+    },
+    {
+      "heading": "Making real-time analysis possible",
+      "text": "Finally, Stadler’s method would even allow the real-time analysis of an epidemic, which would enable the authorities to continuously review and adjust the effectiveness of control measures. A prerequisite for this would be regular spot checks to examine the viral genome in newly infected persons. However, at present almost no sequence data is being published for new viral genomes from Wuhan.\n\nStadler and her colleagues have made their analysis available to other scientists on Virological, an online portal. The ETH researchers point out that their work has not been reviewed by other scientists, as is standard practice in research, as this would take too long in a situation like the current one. Stadler also stresses that the quality of her analysis can be only as good as the quality and quantity of genetic data published. In this study, her team analysed 93 RNA sequences – most of them from China, with 38 from other countries. Stadler will continue her analysis and expand it with newly published genome data.\n\nScire J, Vaughan T, Stadler T: Phylodynamic Analyses based on 93 genomes , uploaded to virology.org on 25 February 2020"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "More than 100",
+        "label": "CARDINAL",
+        "start": 166,
+        "end": 179
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 255,
+        "end": 258
+      },
+      {
+        "text": "Tanja Stadler",
+        "label": "PERSON",
+        "start": 295,
+        "end": 308
+      },
+      {
+        "text": "Computational Biology",
+        "label": "ORG",
+        "start": 323,
+        "end": 344
+      },
+      {
+        "text": "the Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 348,
+        "end": 400
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 404,
+        "end": 414
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 418,
+        "end": 423
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 661,
+        "end": 666
+      },
+      {
+        "text": "Stadler",
+        "label": "PERSON",
+        "start": 678,
+        "end": 685
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 726,
+        "end": 731
+      },
+      {
+        "text": "the first half of November 2019",
+        "label": "DATE",
+        "start": 741,
+        "end": 772
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 864,
+        "end": 869
+      },
+      {
+        "text": "the second half of November",
+        "label": "DATE",
+        "start": 882,
+        "end": 909
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 947,
+        "end": 952
+      },
+      {
+        "text": "November",
+        "label": "DATE",
+        "start": 996,
+        "end": 1004
+      },
+      {
+        "text": "Stadler",
+        "label": "PERSON",
+        "start": 1026,
+        "end": 1033
+      },
+      {
+        "text": "Stadler",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Wuhan",
+        "label": "GPE",
+        "start": 70,
+        "end": 75
+      },
+      {
+        "text": "23 January 2020",
+        "label": "DATE",
+        "start": 95,
+        "end": 110
+      },
+      {
+        "text": "Stadler",
+        "label": "PERSON",
+        "start": 304,
+        "end": 311
+      },
+      {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 347,
+        "end": 350
+      },
+      {
+        "text": "between 2 and 4",
+        "label": "CARDINAL",
+        "start": 496,
+        "end": 511
+      },
+      {
+        "text": "1.5",
+        "label": "CARDINAL",
+        "start": 656,
+        "end": 659
+      },
+      {
+        "text": "Stadler",
+        "label": "PERSON",
+        "start": 743,
+        "end": 750
+      },
+      {
+        "text": "Stadler",
+        "label": "PERSON",
+        "start": 933,
+        "end": 940
+      },
+      {
+        "text": "Wuhan",
+        "label": "GPE",
+        "start": 1007,
+        "end": 1012
+      },
+      {
+        "text": "Wuhan",
+        "label": "GPE",
+        "start": 1072,
+        "end": 1077
+      },
+      {
+        "text": "Stadler",
+        "label": "PERSON",
+        "start": 47,
+        "end": 54
+      },
+      {
+        "text": "23 January",
+        "label": "DATE",
+        "start": 285,
+        "end": 295
+      },
+      {
+        "text": "between 4,000 and 19,000",
+        "label": "CARDINAL",
+        "start": 297,
+        "end": 321
+      },
+      {
+        "text": "only 1",
+        "label": "CARDINAL",
+        "start": 456,
+        "end": 462
+      },
+      {
+        "text": "Stadler",
+        "label": "PERSON",
+        "start": 548,
+        "end": 555
+      },
+      {
+        "text": "Italy",
+        "label": "GPE",
+        "start": 973,
+        "end": 978
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 1005,
+        "end": 1010
+      },
+      {
+        "text": "Stadler",
+        "label": "PERSON",
+        "start": 9,
+        "end": 16
+      },
+      {
+        "text": "Wuhan",
+        "label": "GPE",
+        "start": 388,
+        "end": 393
+      },
+      {
+        "text": "Stadler",
+        "label": "PERSON",
+        "start": 395,
+        "end": 402
+      },
+      {
+        "text": "Virological",
+        "label": "ORG",
+        "start": 480,
+        "end": 491
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 515,
+        "end": 518
+      },
+      {
+        "text": "Stadler",
+        "label": "PERSON",
+        "start": 702,
+        "end": 709
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 868,
+        "end": 871
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 902,
+        "end": 907
+      },
+      {
+        "text": "Stadler",
+        "label": "PERSON",
+        "start": 939,
+        "end": 946
+      },
+      {
+        "text": "Stadler",
+        "label": "PERSON",
+        "start": 1042,
+        "end": 1049
+      },
+      {
+        "text": "25 February 2020",
+        "label": "DATE",
+        "start": 1125,
+        "end": 1141
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Stadler",
+        "Tanja Stadler"
+      ],
+      "ORG": [
+        "Computational Biology",
+        "ETH",
+        "RNA",
+        "Virological",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "LOCATION": [
+        "Basel",
+        "China",
+        "ETH Zurich",
+        "Italy",
+        "Wuhan"
+      ],
+      "DATE": [
+        "23 January",
+        "23 January 2020",
+        "25 February 2020",
+        "November",
+        "the first half of November 2019",
+        "the second half of November"
+      ],
+      "MISC": [
+        "1.5",
+        "3.5",
+        "More than 100",
+        "between 2 and 4",
+        "between 4,000 and 19,000",
+        "first",
+        "only 1"
+      ]
+    },
+    "entity_counts": {
+      "Stadler": 13,
+      "China": 4,
+      "Wuhan": 4,
+      "RNA": 2,
+      "first": 2,
+      "More than 100": 1,
+      "Tanja Stadler": 1,
+      "Computational Biology": 1,
+      "the Department of Biosystems Science and Engineering": 1,
+      "ETH Zurich": 1,
+      "Basel": 1,
+      "the first half of November 2019": 1,
+      "the second half of November": 1,
+      "November": 1,
+      "23 January 2020": 1,
+      "3.5": 1,
+      "between 2 and 4": 1,
+      "1.5": 1,
+      "23 January": 1,
+      "between 4,000 and 19,000": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-beginnings-of-the-coronavirus-epidemic.md",
+      "title": "En News Events/2020/02/the Beginnings Of The Coronavirus Epidemic",
+      "language": "en",
+      "source_path": "en_news_events/2020/02/the-beginnings-of-the-coronavirus-epidemic.html"
+    },
+    "temporal": {
+      "publication_date": "2020-02",
+      "mentioned_years": [
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Stadler",
+        "Tanja Stadler"
+      ],
+      "people_with_roles": {
+        "Stadler": [
+          "Professor",
+          "scientist",
+          "professor"
+        ],
+        "Tanja Stadler": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "More than 100",
+        "between 2 and 4",
+        "between 4,000 and 19,000",
+        "first",
+        "only 1"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Coronavirus",
+        "Computational Biology",
+        "Stadler T",
+        "En News",
+        "Epidemic Since",
+        "Tanja Stadler",
+        "Scire J",
+        "Biosystems Science",
+        "Beginnings Of",
+        "ETH Zurich",
+        "Phylodynamic Analyses",
+        "Professor Stadler",
+        "The ETH",
+        "Vaughan T"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biosystems Science and Engineering at ETH Zurich in Basel and an expert in questions of molecular epidemiology"
+      ],
+      "institutions": [
+        "Computational Biology",
+        "ETH",
+        "RNA",
+        "Virological",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "locations": [
+        "Basel",
+        "China",
+        "ETH Zurich",
+        "Italy",
+        "Wuhan"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Stadler",
+        "China",
+        "Wuhan",
+        "RNA",
+        "first",
+        "More than 100",
+        "Tanja Stadler",
+        "Computational Biology",
+        "the Department of Biosystems Science and Engineering",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Rapid pre-quarantine spread",
+          "Rapid pre-quarantine spread",
+          "Determining the hidden figure",
+          "Making real-time analysis possible"
+        ],
+        "content_length": 4531
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "RNA",
+        "Computational Biology",
+        "Stadler",
+        "Virological",
+        "2019",
+        "2020",
+        "Tanja Stadler",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "only 1",
+        "who",
+        "between 4,000 and 19,000",
+        "between 2 and 4",
+        "chemistry",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "More than 100",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Stadler_has_role_Professor",
+        "Stadler_has_role_scientist",
+        "Stadler_has_role_professor",
+        "Tanja Stadler_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

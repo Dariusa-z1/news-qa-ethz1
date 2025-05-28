@@ -1,0 +1,237 @@
+{
+  "filename": "false-alarm-at-eth-zurich-zentrum.md",
+  "original_filename": "false-alarm-at-eth-zurich-zentrum.html",
+  "source_path": "en_internal/2014/12/false-alarm-at-eth-zurich-zentrum.html",
+  "date": "2014-12",
+  "title": "False Alarm At Eth Zurich Zentrum",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Unfortunately there was an alarm in the buildings CHN , CAB and CNB of ETH Zurich, Zentrum. The plan was to test the new system in the background (various testings have been ongoing for a couple of days) without involving the users. Unfortunately, the test included a message in German via the loud speakers, which people believed to be real. In a real emergency situation, the alarm message will be given in both English and German. In the meantime the all-clear has been given. There was no danger to ETH members at any time.\n\nThe ETH Zurich Safety, Security, Health and Environment staff unit apologizes in the name of the Project team for the inconvenience."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Alarm",
+        "label": "PERSON",
+        "start": 26,
+        "end": 31
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "text": "CHN",
+        "label": "ORG",
+        "start": 50,
+        "end": 53
+      },
+      {
+        "text": "CAB",
+        "label": "ORG",
+        "start": 56,
+        "end": 59
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 71,
+        "end": 81
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 83,
+        "end": 90
+      },
+      {
+        "text": "a couple of days",
+        "label": "DATE",
+        "start": 186,
+        "end": 202
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 279,
+        "end": 285
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 414,
+        "end": 421
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 426,
+        "end": 432
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 503,
+        "end": 506
+      },
+      {
+        "text": "The ETH Zurich Safety",
+        "label": "ORG",
+        "start": 528,
+        "end": 549
+      },
+      {
+        "text": "Project",
+        "label": "NORP",
+        "start": 625,
+        "end": 632
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alarm",
+        "ETH Zurich",
+        "Zentrum"
+      ],
+      "ORG": [
+        "CAB",
+        "CHN",
+        "ETH",
+        "The ETH Zurich Safety"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "a couple of days"
+      ],
+      "MISC": [
+        "English",
+        "German",
+        "Project"
+      ]
+    },
+    "entity_counts": {
+      "Zentrum": 2,
+      "German": 2,
+      "Alarm": 1,
+      "CHN": 1,
+      "CAB": 1,
+      "ETH Zurich": 1,
+      "a couple of days": 1,
+      "English": 1,
+      "ETH": 1,
+      "The ETH Zurich Safety": 1,
+      "Project": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "false-alarm-at-eth-zurich-zentrum.md",
+      "title": "En Internal/2014/12/false Alarm At Eth Zurich Zentrum",
+      "language": "en",
+      "source_path": "en_internal/2014/12/false-alarm-at-eth-zurich-zentrum.html"
+    },
+    "temporal": {
+      "publication_date": "2014-12",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Alarm",
+        "ETH Zurich",
+        "Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "medical_research"
+      ],
+      "research_topics": [
+        "English",
+        "German",
+        "Project"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Zurich Safety",
+        "En Internal",
+        "Zentrum Unfortunately",
+        "Alarm At",
+        "ETH Zurich",
+        "Eth Zurich",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CAB",
+        "CHN",
+        "ETH",
+        "The ETH Zurich Safety"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Zentrum",
+        "German",
+        "Alarm",
+        "CHN",
+        "CAB",
+        "ETH Zurich",
+        "a couple of days",
+        "English",
+        "ETH",
+        "The ETH Zurich Safety"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 715
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Alarm",
+        "ETH",
+        "The ETH Zurich Safety",
+        "CHN",
+        "CAB",
+        "Zentrum",
+        "ETH Zurich",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "English",
+        "what",
+        "German",
+        "medical_research",
+        "Project",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research"
+      ]
+    }
+  }
+}

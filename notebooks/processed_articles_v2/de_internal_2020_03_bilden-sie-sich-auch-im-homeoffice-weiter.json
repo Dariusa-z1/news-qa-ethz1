@@ -1,0 +1,173 @@
+{
+  "filename": "de_internal_2020_03_bilden-sie-sich-auch-im-homeoffice-weiter.md",
+  "original_filename": "de_internal_2020_03_bilden-sie-sich-auch-im-homeoffice-weiter.html",
+  "source_path": "de_internal/2020/03/bilden-sie-sich-auch-im-homeoffice-weiter.html",
+  "date": "2020-03",
+  "title": "Bilden Sie Sich Auch Im Homeoffice Weiter",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Für einige ETH-Angehörige ist die Zeit im Homeoffice eine günstige Gelegenheit für Weiterbildungen. Zu diesem Zweck haben unsere Fachreferentinnen und Fachreferenten eine breite Auswahl an Angeboten für Sie getroffen:\n\nZur Übersicht frei zugänglicher E-Ressourcen\n\n#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.\n\n#ETHBibliothekDigital – Die ETH-Bibliothek ist nicht nur während der COVID-19-Schutzmassnahmen digital mit verschiedenen Angeboten und Dienstleistungen für Sie da."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/03/bilden",
+        "label": "LOC",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 11,
+        "end": 25
+      },
+      {
+        "text": "Homeoffice",
+        "label": "LOC",
+        "start": 42,
+        "end": 52
+      },
+      {
+        "text": "Weiterbildungen",
+        "label": "LOC",
+        "start": 83,
+        "end": 98
+      },
+      {
+        "text": "zugänglicher",
+        "label": "MISC",
+        "start": 237,
+        "end": 249
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 306,
+        "end": 320
+      },
+      {
+        "text": "ETHBibliothekDigital",
+        "label": "LOC",
+        "start": 377,
+        "end": 397
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 404,
+        "end": 418
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2020/03/bilden",
+        "ETHBibliothekDigital",
+        "Homeoffice",
+        "Weiterbildungen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige",
+        "ETH-Bibliothek",
+        "zugänglicher"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 2,
+      "De Internal/2020/03/bilden": 1,
+      "ETH-Angehörige": 1,
+      "Homeoffice": 1,
+      "Weiterbildungen": 1,
+      "zugänglicher": 1,
+      "ETHBibliothekDigital": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2020_03_bilden-sie-sich-auch-im-homeoffice-weiter.md",
+      "title": "De Internal/2020/03/bilden Sie Sich Auch Im Homeoffice Weiter",
+      "language": "de",
+      "source_path": "de_internal/2020/03/bilden-sie-sich-auch-im-homeoffice-weiter.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Angehörige",
+        "ETH-Bibliothek",
+        "zugänglicher"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Auch Im",
+        "De Internal",
+        "Die ETH",
+        "E-Ressourcen",
+        "Homeoffice Weiter",
+        "Sie Sich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2020/03/bilden",
+        "ETHBibliothekDigital",
+        "Homeoffice",
+        "Weiterbildungen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2020/03/bilden",
+        "ETH-Angehörige",
+        "Homeoffice",
+        "Weiterbildungen",
+        "zugänglicher",
+        "ETHBibliothekDigital"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 606
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2020"
+      ],
+      "semantic_concepts": [
+        "ETH-Angehörige",
+        "zugänglicher",
+        "ETH-Bibliothek"
+      ],
+      "graph_relations": []
+    }
+  }
+}

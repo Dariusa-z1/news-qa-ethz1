@@ -1,0 +1,484 @@
+{
+  "filename": "einem-computer-quantenphysik-beibringen.md",
+  "original_filename": "einem-computer-quantenphysik-beibringen.html",
+  "source_path": "de_news_events/2018/02/einem-computer-quantenphysik-beibringen.html",
+  "date": "2018-02",
+  "title": "Einem Computer Quantenphysik Beibringen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Quantenphysik und Handschriften",
+      "text": "Physikstudenten verbringen viele Jahre damit, die oft absurd erscheinenden Gesetze und Effekte der Quantenmechanik zu beherrschen. Der Quantenzustand eines physikalischen Systems kann, zum Beispiel, so lange unbestimmt sein, bis man ihn misst, und eine Messung an einem Teil des Systems kann den Zustand eines weit entfernten Teils beeinflussen, ohne dass zwischen den beiden Informationen ausgetauscht werden.\n\nDas ist alles schon verwirrend genug. Doch die Probleme gehen weiter, wenn die Studenten ihren Abschluss machen und mit der Forschung beginnen: Um den Zustand eines Quantensystems im Experiment exakt zu bestimmen, muss man diesen Zustand erst sorgfältig präparieren und dann viele Messungen an ihm durchführen, immer und immer wieder. Sehr oft kann man das, woran man interessiert ist, nicht einmal direkt messen.\n\nEin internationales Forscherteam unter Leitung von Giuseppe Carleo, Oberassistent am Institut für Theoretische Physik der ETH Zürich, hat nun eine Software für maschinelles Lernen entwickelt, mit deren Hilfe ein Computer den Quantenzustand eines komplexen physikalischen Systems aufgrund experimenteller Beobachtungen «lernen» und die Ergebnisse hypothetischer Messungen vorhersagen kann. In Zukunft könnten solche Computerprogramme dazu verwendet werden, die Genauigkeit von Quantencomputern zu testen."
+    },
+    {
+      "heading": "Quantenphysik und Handschriften",
+      "text": "Das Prinzip seines Ansatzes, erklärt Carleo, ist recht simpel. Er benutzt einen intuitiven Vergleich, der die komplizierten Details der Quantenmechanik elegant umschifft: «Was wir machen ist, grob gesagt, in etwa so, als würden wir einem Computer beibringen, meine Handschrift zu imitieren. Dazu zeigen wir ihm eine Reihe von Schriftproben, aus denen er dann nach und nach lernt, meine a’s, l’s und so weiter nachzuahmen.»\n\nDer Computer schafft das, indem er sich beispielsweise die Schreibweisen für ein «l» ansieht, das auf ein «a» folgt. Diese Schreibweisen sind nicht immer gleich, weshalb der Computer eine Wahrscheinlichkeitsverteilung berechnet, die mathematisch ausdrückt, wie oft ein Buchstabe auf eine bestimmte Art geschrieben wird, wenn ihm ein anderer Buchstabe vorausgeht. «Sobald der Computer diese Verteilung herausgefunden hat, könnte er damit etwas reproduzieren, das meiner Handschrift sehr ähnlich sieht», sagt Carleo."
+    },
+    {
+      "heading": "Tests für Quantencomputer",
+      "text": "Die Quantenphysik ist natürlich viel komplizierter als die Handschrift einer Person. Dennoch ist das Prinzip, das Carleo (der vor Kurzem an das Flatiron Institute in New York gewechselt ist) zusammen mit Matthias Troyer, Guglielmo Mazzola (beide an der ETH) und Giacomo Torlai von der Universität Waterloo sowie Kollegen vom Perimeter Institute und der Firma D-Wave in Kanada für ihren Maschinenlern-Algorithmus benutzt haben, ziemlich ähnlich.\n\nDer Quantenzustand des physikalischen Systems wird in einem so genannten neuronalen Netz kodiert, und das Lernen geschieht in kleinen Schritten, indem der aktuelle Zustand des Netzes in zu erwartende Messwahrscheinlichkeiten übersetzt wird. Diese Wahrscheinlichkeiten werden dann mit den echten Messdaten verglichen, und das Netz wird daraufhin so angepasst, dass die Übereinstimmung in der nächsten Runde besser wird. Wenn diese Übungsphase abgeschlossen ist, kann man den im neuronalen Netz gespeicherten Quantenzustand für «virtuelle» Experimente verwenden, ohne diese tatsächlich im Labor durchzuführen."
+    },
+    {
+      "heading": "Schnellere Tomographie für Quantenzustände",
+      "text": "«Maschinelles Lernen zur Rekonstruktion von Quantenzuständen aus Messergebnissen zu verwenden, hat eine Reihe von Vorteilen», erklärt Carleo. Er führt ein eindrucksvolles Beispiel an, in dem der Quantenzustand von nur acht zusammenhängenden Quantensystemen (gefangenen Ionen) experimentell bestimmt werden sollte. Mit einem als Quantentomographie bekannten Standardverfahren waren in etwa eine Million Messungen nötig, um die gewünschte Genauigkeit zu erreichen. Die neue Methode dagegen schaffte das mit wesentlich weniger Messungen, und zudem konnten auch deutlich grössere Systeme untersucht werden, die vorher nicht zugänglich waren.\n\nDas ist vielversprechend, denn für gewöhnlich geht man davon aus, dass die Zahl an Rechenschritten, die man benötigt, um ein komplexes Quantensystem auf einem klassischen Computer zu simulieren, exponentiell mit der Zahl der Quantenobjekte im System ansteigt. Der Hauptgrund dafür ist ein Phänomen namens Verschränkung, das dazu führt, dass weit voneinander entfernte Teile des Systems innig miteinander in Verbindung stehen, obwohl sie keine Informationen austauschen. Carleo und seine Kollegen verwenden eine Schicht aus «versteckten» Neuronen, um dies zu berücksichtigen. Dadurch schafft es der Computer, den korrekten Quantenzustand auf viel kompaktere Weise zu kodieren.\n\nDie Möglichkeit Quantensysteme zu untersuchen, die aus vielen Komponenten – oder «Qubits», wie sie häufig genannt werden – bestehen, ist zudem für künftige Quantentechnologien von Bedeutung, wie Carleo betont: «Wenn wir Quantencomputer testen wollen, die aus mehr als einer Handvoll an Qubits bestehen, werden wir das mit herkömmlichen Mitteln wegen der exponentiellen Skalierung nicht schaffen. Unser Ansatz über das maschinelle Lernen dagegen sollte es uns ermöglichen, Quantencomputer mit bis zu 100 Qubits zu testen.» Ausserdem kann die Maschinenenlern-Software Experimentalphysikern helfen, indem sie es ihnen erlaubt, virtuelle Messungen durchzuführen, die im Labor nur sehr schwierig zu realisieren wären.\n\nEin Beispiel dafür ist der Verschränkungsgrad eines Systems, das aus vielen miteinander wechselwirkenden Qubits besteht. Bislang ist die Methode nur an künstlich erzeugten Daten getestet worden, aber die Forscher planen, sie schon bald für die Analyse von echten experimentellen Daten zu benutzen.\n\nTorlai G, Mazzola G, Carrasquilla J, Troyer M, Melko R, Carleo G: Neural-network quantum state tomography. Nature Physics (2018), published online 26th Feb 2018. doi: externe Seite 10.1038/s41567-018-0048-5"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Beibringen",
+        "label": "LOC",
+        "start": 52,
+        "end": 62
+      },
+      {
+        "text": "Systems",
+        "label": "MISC",
+        "start": 279,
+        "end": 286
+      },
+      {
+        "text": "Giuseppe Carleo",
+        "label": "PER",
+        "start": 876,
+        "end": 891
+      },
+      {
+        "text": "Institut für Theoretische Physik",
+        "label": "ORG",
+        "start": 910,
+        "end": 942
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 947,
+        "end": 957
+      },
+      {
+        "text": "Der Computer",
+        "label": "MISC",
+        "start": 423,
+        "end": 435
+      },
+      {
+        "text": "Carleo",
+        "label": "LOC",
+        "start": 930,
+        "end": 936
+      },
+      {
+        "text": "Carleo",
+        "label": "LOC",
+        "start": 114,
+        "end": 120
+      },
+      {
+        "text": "Flatiron Institute",
+        "label": "ORG",
+        "start": 144,
+        "end": 162
+      },
+      {
+        "text": "New York",
+        "label": "LOC",
+        "start": 166,
+        "end": 174
+      },
+      {
+        "text": "Matthias Troyer",
+        "label": "PER",
+        "start": 204,
+        "end": 219
+      },
+      {
+        "text": "Guglielmo Mazzola",
+        "label": "PER",
+        "start": 221,
+        "end": 238
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 253,
+        "end": 256
+      },
+      {
+        "text": "Giacomo Torlai",
+        "label": "PER",
+        "start": 262,
+        "end": 276
+      },
+      {
+        "text": "Universität Waterloo",
+        "label": "ORG",
+        "start": 285,
+        "end": 305
+      },
+      {
+        "text": "Perimeter Institute",
+        "label": "ORG",
+        "start": 325,
+        "end": 344
+      },
+      {
+        "text": "D-Wave",
+        "label": "ORG",
+        "start": 359,
+        "end": 365
+      },
+      {
+        "text": "Kanada",
+        "label": "LOC",
+        "start": 369,
+        "end": 375
+      },
+      {
+        "text": "Netzes",
+        "label": "LOC",
+        "start": 621,
+        "end": 627
+      },
+      {
+        "text": "Maschinelles",
+        "label": "PER",
+        "start": 1,
+        "end": 13
+      },
+      {
+        "text": "Messergebnissen",
+        "label": "LOC",
+        "start": 65,
+        "end": 80
+      },
+      {
+        "text": "Carleo",
+        "label": "LOC",
+        "start": 134,
+        "end": 140
+      },
+      {
+        "text": "Carleo",
+        "label": "PER",
+        "start": 1108,
+        "end": 1114
+      },
+      {
+        "text": "Carleo",
+        "label": "LOC",
+        "start": 1509,
+        "end": 1515
+      },
+      {
+        "text": "Maschinenenlern-Software Experimentalphysikern",
+        "label": "ORG",
+        "start": 1855,
+        "end": 1901
+      },
+      {
+        "text": "Torlai G",
+        "label": "PER",
+        "start": 2325,
+        "end": 2333
+      },
+      {
+        "text": "Mazzola G",
+        "label": "PER",
+        "start": 2335,
+        "end": 2344
+      },
+      {
+        "text": "Carrasquilla J",
+        "label": "PER",
+        "start": 2346,
+        "end": 2360
+      },
+      {
+        "text": "Troyer M",
+        "label": "PER",
+        "start": 2362,
+        "end": 2370
+      },
+      {
+        "text": "Melko R",
+        "label": "PER",
+        "start": 2372,
+        "end": 2379
+      },
+      {
+        "text": "Carleo G",
+        "label": "PER",
+        "start": 2381,
+        "end": 2389
+      },
+      {
+        "text": "Nature Physics",
+        "label": "ORG",
+        "start": 2432,
+        "end": 2446
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Carleo",
+        "Carleo G",
+        "Carrasquilla J",
+        "De News",
+        "Giacomo Torlai",
+        "Giuseppe Carleo",
+        "Guglielmo Mazzola",
+        "Maschinelles",
+        "Matthias Troyer",
+        "Mazzola G",
+        "Melko R",
+        "Torlai G",
+        "Troyer M"
+      ],
+      "ORG": [
+        "D-Wave",
+        "ETH",
+        "ETH Zürich",
+        "Flatiron Institute",
+        "Institut für Theoretische Physik",
+        "Maschinenenlern-Software Experimentalphysikern",
+        "Nature Physics",
+        "Perimeter Institute",
+        "Universität Waterloo"
+      ],
+      "LOCATION": [
+        "Beibringen",
+        "Carleo",
+        "Kanada",
+        "Messergebnissen",
+        "Netzes",
+        "New York"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Der Computer",
+        "Systems"
+      ]
+    },
+    "entity_counts": {
+      "Carleo": 5,
+      "De News": 1,
+      "Beibringen": 1,
+      "Systems": 1,
+      "Giuseppe Carleo": 1,
+      "Institut für Theoretische Physik": 1,
+      "ETH Zürich": 1,
+      "Der Computer": 1,
+      "Flatiron Institute": 1,
+      "New York": 1,
+      "Matthias Troyer": 1,
+      "Guglielmo Mazzola": 1,
+      "ETH": 1,
+      "Giacomo Torlai": 1,
+      "Universität Waterloo": 1,
+      "Perimeter Institute": 1,
+      "D-Wave": 1,
+      "Kanada": 1,
+      "Netzes": 1,
+      "Maschinelles": 1
+    },
+    "total_entities": 33,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "einem-computer-quantenphysik-beibringen.md",
+      "title": "De News Events/2018/02/einem Computer Quantenphysik Beibringen",
+      "language": "de",
+      "source_path": "de_news_events/2018/02/einem-computer-quantenphysik-beibringen.html"
+    },
+    "temporal": {
+      "publication_date": "2018-02",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Carleo",
+        "Carleo G",
+        "Carrasquilla J",
+        "De News",
+        "Giacomo Torlai",
+        "Giuseppe Carleo",
+        "Guglielmo Mazzola",
+        "Maschinelles",
+        "Matthias Troyer",
+        "Mazzola G",
+        "Melko R",
+        "Torlai G",
+        "Troyer M"
+      ],
+      "people_with_roles": {
+        "De News": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Der Computer",
+        "Systems"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Million Messungen",
+        "Diese Schreibweisen",
+        "Die Quantenphysik",
+        "Der Computer",
+        "Giacomo Torlai",
+        "Beibringen Physikstudenten",
+        "Maschinenlern-Algorithmus",
+        "Theoretische Physik",
+        "Flatiron Institute",
+        "Perimeter Institute",
+        "Melko R",
+        "Diese Wahrscheinlichkeiten",
+        "Der Hauptgrund",
+        "Computer Quantenphysik",
+        "Maschinelles Lernen",
+        "Carrasquilla J",
+        "Firma D",
+        "Der Quantenzustand",
+        "In Zukunft",
+        "Nature Physics",
+        "Guglielmo Mazzola",
+        "Ein Beispiel",
+        "Das Prinzip",
+        "Unser Ansatz",
+        "Mazzola G",
+        "Troyer M",
+        "New York",
+        "De News",
+        "Carleo G",
+        "Torlai G",
+        "Matthias Troyer",
+        "Giuseppe Carleo",
+        "Maschinenenlern-Software"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "D-Wave",
+        "ETH",
+        "ETH Zürich",
+        "Flatiron Institute",
+        "Institut für Theoretische Physik",
+        "Maschinenenlern-Software Experimentalphysikern",
+        "Nature Physics",
+        "Perimeter Institute",
+        "Universität Waterloo"
+      ],
+      "locations": [
+        "Beibringen",
+        "Carleo",
+        "Kanada",
+        "Messergebnissen",
+        "Netzes",
+        "New York"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Carleo",
+        "De News",
+        "Beibringen",
+        "Systems",
+        "Giuseppe Carleo",
+        "Institut für Theoretische Physik",
+        "ETH Zürich",
+        "Der Computer",
+        "Flatiron Institute",
+        "New York"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Quantenphysik und Handschriften",
+          "Quantenphysik und Handschriften",
+          "Tests für Quantencomputer",
+          "Schnellere Tomographie für Quantenzustände"
+        ],
+        "content_length": 5922
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Carleo",
+        "Giacomo Torlai",
+        "2018",
+        "D-Wave",
+        "Flatiron Institute",
+        "Perimeter Institute",
+        "Melko R",
+        "ETH Zürich",
+        "Maschinelles",
+        "Maschinenenlern-Software Experimentalphysikern",
+        "Carrasquilla J",
+        "EU",
+        "Institut für Theoretische Physik",
+        "Nature Physics",
+        "Guglielmo Mazzola",
+        "Mazzola G",
+        "Troyer M",
+        "Universität Waterloo",
+        "De News",
+        "Carleo G",
+        "Torlai G",
+        "Matthias Troyer",
+        "Giuseppe Carleo"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "who",
+        "Der Computer",
+        "what",
+        "Systems",
+        "how",
+        "computer_science",
+        "when"
+      ],
+      "graph_relations": [
+        "De News_has_role_student",
+        "research_domain_technology",
+        "research_domain_physics",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

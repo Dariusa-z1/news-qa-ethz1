@@ -1,0 +1,18 @@
+# eth-zurich-in-africa.html
+
+**Source:** en_news_events/2014/08/eth-zurich-in-africa.html
+
+## Why a partnership in Africa?
+
+Lino Guzzella, Rector and ETH Zurich President Elect visited Stellenbosch University in South Africa to formalize an already prolific collaboration between researchers at both institutions. The memorandum of understanding signed this week is the result of ETH Zurich President Ralph Eichler's 2013 visit to South Africa and a subsequent joint workshop with the World Food System Center at ETH Zurich and the Stellenbosch Food Security Initiative. It establishes a formal cooperation and commitment to the advancement of science and technology for the benefit of society at large in areas of mutual interest such as: sustainable production systems, human nutrition, water, conservation ecology and invasive species, food science, mineralogy, and insect physiology.
+
+## Why a partnership in Africa?
+
+ETH Zurich seeks strategic international collaborations that align with its expertise and advance its research and educational interests, while contributing to solving some of the world's biggest challenges. According to a United Nations' report the world's population will increase by 1 billion over the next 12 years with more than half of this growth in Africa. This rapid growth in population presents some pivotal societal issues related to food production, health, environment, and sustainability for which ETH Zurich is able to contribute its resources and expertise. "South Africa, in particular, is a country with one of the largest biodiversity in the world and is, therefore, very interesting for agricultural research," says ETH President Eichler.
+
+Michelle Grant, Executive Director World Food System Center, ETH Zurich explained, "Around the world, the global population is facing pressing challenges at the nexus of food production, fresh water supply, the environment, and human health. These challenges are particularly pressing in the African continent, where food and nutrition insecurity remains widespread. Research and education play a critical role in addressing these challenges, by filling the knowledge gaps, driving the innovation pipeline and training the next generation of leaders and decision makers equipped to deal with these complex issues."
+
+Stellenbosch, a well-established research-intensive university, ranks highly in the region and values international quality standards. This is one reason why Jessica Farebrother, doctoral student at ETH Zurich's Institute of Food, Nutrition, and Health, led by Michael B. Zimmermann, Professor at the Department of Health Sciences and Technology, chose to collaborate with researchers at the Centre for Evidence Based Healthcare (CEBHC) at Stellenbosch. Farebrother is working on the project "STING" – a systematic review of the literature on the effects of the micronutrient iodine on growth, both prenatal and postnatal to the age of 18. STING will provide valuable support towards the drive to address stunting, which is prominent in today’s global agenda, being an indicator for the World Health Organizations first Millennium Development Goal to eradicate extreme poverty and hunger. "ETH Zurich brings subject expertise and the CEBHC, with its close links to the South African Cochrane Centre, strong technical skills, making this an ideal collaboration," says Farebrother.
+
+The memorandum of understanding with Stellenbosch facilitates new opportunities for research; a student exchange agreement for Master's degree seeking students; the expansion of ETH Excellence Scholarships; and potential summer school programs. Most importantly for the Swiss, it opens wider a network to African scholars and connections to other countries within the region.
+

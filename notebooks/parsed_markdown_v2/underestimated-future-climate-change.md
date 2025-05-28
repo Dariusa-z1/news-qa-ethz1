@@ -1,0 +1,24 @@
+# underestimated-future-climate-change.html
+
+**Source:** en_news_events/2013/11/underestimated-future-climate-change.html
+
+## A more realistic model
+
+Many scientists believe that global warming will come to an end if, some day, human succeeds in stopping the release of greenhouse gas emissions into the atmosphere. It would, indeed, be hotter on Earth than before industrialisation, but nonetheless it would not get even hotter. Climate physicist Thomas Frölicher questions this notion by using model calculations and creates a more pessimistic picture in a study published in the scientific journal Nature Climate Change. According to his model calculations, it is very possible that the Earth’s atmosphere could continue to warm for hundreds of years even after a complete stop of CO 2 emissions, and that temperature levels stabilise at an even higher level at a later stage. “In the long term, the temperature increase could be 25 per cent greater than assumed today,” says the scientist, who carries out research as an Ambizione Fellow of the Swiss National Science Foundation in ETH professor Nicolas Gruber’s group.
+
+## A more realistic model
+
+Frölicher and his co-authors from the USA use one of the world’s leading climate models for their calculations, the ESM2M model that was developed at the Geophysical Fluid Dynamics Laboratory in Princeton. It represents physical and biogeochemical processes – such as the exchange of greenhouse gases and heat with the oceans – at a far more detailed level than many previous models. “The model is closer to reality,” summarises Frölicher.
+
+In this model, the researchers simulated an Earth on which 1800 gigatons of carbon are emitted instantaneously into the atmosphere. By way of comparison: 1000 gigatons are believed to lead to a global warming of 2 degrees Celsius. Frölicher’s model calculation corresponds to an extremely simplified scenario. In reality, greenhouse gases are released over a period of several decades or centuries. The simulations, however, are well suited to illustrate fundamental principles, explains the climate scientist.
+
+## Regional ocean heat uptake is the key
+
+“Much of the CO 2 released into the atmosphere and the heat trapped by the CO 2 goes into the ocean sooner or later – approximately 90 per cent of the excess heat has been taken up by the ocean over the last 40 years,” explains Frölicher. The regional uptake of heat, however, is crucial. To date, not enough attention has been given to the regional heat uptake of the world’s oceans in climate research. With the help of the ESM2M climate model, the scientists are able to show that a change in ocean heat uptake in the polar regions has a greater effect on the global mean atmospheric temperature than a change near the equator. The researchers use these differences to explain why their calculations contradict a scientific consensus that global atmospheric temperature would remain constant if emission were suddenly stopped.
+
+Frölicher acknowledges that his calculations are based on a single climate model and it should not be ruled out that different results might be obtained if other climate models are used. However, it is evident to him that the magnitude of global warming in the next few centuries is less clear than previously thought. Rather, we should consider that climate change could turn out to be even greater than we have thought until now, says the scientist. “If our results stand up to a repetition with other modern and detailed models, this would mean that global warming considered beyond the end of this century has been significantly underestimated to date.”
+
+A 25 per cent increase in global warming would also mean that humans could release 25 per cent less greenhouse gases to achieve climate goals such as the two-degrees Celsius target. In its assessment report published a few months ago, the Intergovernmental Panel on Climate Change IPCC assumes that limiting the global warming to less than two-degrees Celsius will require cumulative CO 2 emissions to stay below 1000 gigatons of carbon. Since preindustrial times, humans have already consumed around half of this budget, i.e. 500 gigatons. If Frölicher’s results were correct, the “emissions cake” would be only three-quarters, i.e. 750 gigatons instead of 1000 billion tons of carbon. Thus, limiting the warming to 2 degrees would require keeping future cumulative carbon emission below 250 gigatons of carbon, only half of the already emitted amount of 500 gigatons.
+
+Frölicher TL, Winton M, Sarmiento JL: Continued global warming after CO 2 emissions stoppage. Nature Climate Change, Adavance Online Publication 24 November 2013, doi: 10.1038/nclimate2060
+

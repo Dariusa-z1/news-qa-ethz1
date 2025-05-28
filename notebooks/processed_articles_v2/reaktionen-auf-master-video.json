@@ -1,0 +1,296 @@
+{
+  "filename": "reaktionen-auf-master-video.md",
+  "original_filename": "reaktionen-auf-master-video.html",
+  "source_path": "de_news_events/2018/11/reaktionen-auf-master-video.html",
+  "date": "2018-11",
+  "title": "Reaktionen Auf Master Video",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "C-R-I-N-G-E, wörtlich übersetzt «zusammenzucken», freier übersetzt «fremdschämen», ist ein häufiger Kommentar auf externe Seite YouTube als Reaktion auf das Video, mit dem die ETH Zürich künftige Masterstudierende auf der ganzen Welt ansprechen will. Andere User finden das Video «cool» oder «grossartig». Innert der ersten 24 Stunden wurde das Video 60'000 Mal angeschaut. Insbesondere auf YouTube sind die Einschätzungen und Kommentare mehrheitlich negativ, während sich die positiven und negativen Kommentare auf anderen Plattformen, etwa Facebook, die Waage halten.\n\nWas aber steckt hinter den Schlagworten der Kommentare? Kochen auch auf dem Campus die Emotionen hoch? ETH-Studierende geben ihre Einschätzung zum Video und den Reaktionen.\n\n«Wir waren uns bewusst, dass der Masterclip stärker polarisieren wird als der ETH-Trailer, den wir vor zwei Jahren mit der gleichen Agentur produziert haben», sagt Rainer Borer, Kommunikationschef der ETH Zürich. «Das Ausmass der Reaktionen und insbesondere die Emotionalität haben uns aber überrascht.» Gleichzeitig betont er, dass das Video viele Diskussionen über das Studium an der ETH ausgelöst hat. Diskussionen, in denen auch der Studienalltag thematisiert wird und in denen ETH-Studierende ein realistisches Bild zeichnen. So findet zum Thema «cringe» etwa auf der Plattform externe Seite Reddit eine engagierte Diskussion statt mit 300 Kommentaren, darunter auch solche von ETH-Studierenden. «Solche Diskussionen sind wichtig. Wir kommen dadurch ins Gespräch. Und selbstverständlich gehen wir nicht davon aus, dass sich jemand nur wegen eines Videos für oder gegen ein Studium an der ETH entscheidet», sagt Borer."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "C-R-I-N-G-E",
+        "label": "MISC",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "YouTube",
+        "label": "MISC",
+        "start": 128,
+        "end": 135
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 176,
+        "end": 186
+      },
+      {
+        "text": "YouTube",
+        "label": "MISC",
+        "start": 391,
+        "end": 398
+      },
+      {
+        "text": "Facebook",
+        "label": "MISC",
+        "start": 542,
+        "end": 550
+      },
+      {
+        "text": "ETH-Studierende",
+        "label": "MISC",
+        "start": 673,
+        "end": 688
+      },
+      {
+        "text": "Masterclip",
+        "label": "PER",
+        "start": 776,
+        "end": 786
+      },
+      {
+        "text": "ETH-Trailer",
+        "label": "ORG",
+        "start": 821,
+        "end": 832
+      },
+      {
+        "text": "Rainer Borer",
+        "label": "PER",
+        "start": 907,
+        "end": 919
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 944,
+        "end": 954
+      },
+      {
+        "text": "Emotionalität",
+        "label": "ORG",
+        "start": 1005,
+        "end": 1018
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1129,
+        "end": 1132
+      },
+      {
+        "text": "ETH-Studierende",
+        "label": "MISC",
+        "start": 1225,
+        "end": 1240
+      },
+      {
+        "text": "Reddit",
+        "label": "LOC",
+        "start": 1340,
+        "end": 1346
+      },
+      {
+        "text": "ETH-Studierenden",
+        "label": "ORG",
+        "start": 1426,
+        "end": 1442
+      },
+      {
+        "text": "Videos",
+        "label": "MISC",
+        "start": 1595,
+        "end": 1601
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1636,
+        "end": 1639
+      },
+      {
+        "text": "Borer",
+        "label": "PER",
+        "start": 1659,
+        "end": 1664
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Borer",
+        "De News",
+        "Masterclip",
+        "Rainer Borer"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "ETH-Studierenden",
+        "ETH-Trailer",
+        "Emotionalität"
+      ],
+      "LOCATION": [
+        "Reddit"
+      ],
+      "DATE": [],
+      "MISC": [
+        "C-R-I-N-G-E",
+        "ETH-Studierende",
+        "Facebook",
+        "Videos",
+        "YouTube"
+      ]
+    },
+    "entity_counts": {
+      "YouTube": 2,
+      "ETH Zürich": 2,
+      "ETH-Studierende": 2,
+      "ETH": 2,
+      "De News": 1,
+      "C-R-I-N-G-E": 1,
+      "Facebook": 1,
+      "Masterclip": 1,
+      "ETH-Trailer": 1,
+      "Rainer Borer": 1,
+      "Emotionalität": 1,
+      "Reddit": 1,
+      "ETH-Studierenden": 1,
+      "Videos": 1,
+      "Borer": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "reaktionen-auf-master-video.md",
+      "title": "De News Events/2018/11/reaktionen auf Master Video",
+      "language": "de",
+      "source_path": "de_news_events/2018/11/reaktionen-auf-master-video.html"
+    },
+    "temporal": {
+      "publication_date": "2018-11",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Borer",
+        "De News",
+        "Masterclip",
+        "Rainer Borer"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "C-R-I-N-G-E",
+        "ETH-Studierende",
+        "Facebook",
+        "Videos",
+        "YouTube"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "G-E",
+        "C-R",
+        "ETH-Studierende",
+        "I-N",
+        "Andere User",
+        "Master Video",
+        "ETH-Trailer",
+        "Seite Reddit",
+        "Seite YouTube",
+        "ETH-Studierenden",
+        "De News",
+        "Rainer Borer",
+        "Das Ausmass",
+        "Solche Diskussionen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "ETH-Studierenden",
+        "ETH-Trailer",
+        "Emotionalität"
+      ],
+      "locations": [
+        "Reddit"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "YouTube",
+        "ETH Zürich",
+        "ETH-Studierende",
+        "ETH",
+        "De News",
+        "C-R-I-N-G-E",
+        "Facebook",
+        "Masterclip",
+        "ETH-Trailer",
+        "Rainer Borer"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1718
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Trailer",
+        "ETH",
+        "2018",
+        "Masterclip",
+        "ETH Zürich",
+        "ETH-Studierenden",
+        "De News",
+        "Rainer Borer",
+        "Borer",
+        "ERC",
+        "Emotionalität"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Studierende",
+        "Facebook",
+        "YouTube",
+        "C-R-I-N-G-E",
+        "Videos"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

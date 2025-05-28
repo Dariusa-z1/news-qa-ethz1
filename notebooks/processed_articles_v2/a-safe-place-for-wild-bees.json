@@ -1,0 +1,253 @@
+{
+  "filename": "a-safe-place-for-wild-bees.md",
+  "original_filename": "a-safe-place-for-wild-bees.html",
+  "source_path": "en_internal/2015/10/a-safe-place-for-wild-bees.html",
+  "date": "2015-10",
+  "title": "A Safe Place For Wild Bees",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "There are around 600 species of wild bees in Switzerland. These species vary greatly in their preferred flowers and nesting structures. While some like to nest in decaying old wood or in sandy soil, other bees prefer to live in empty snail shells. That said, almost half of all species of wild bees in Switzerland are under threat. The ETH Zurich spin-off “Wildbiene + Partner” has now created two havens for wild bees at ETH Zurich. These safe places are designed to meet the requirements of different species of wild bees and accommodate many of these little creatures over the coming spring.\n\nThe two areas are located on the Hönggerberg campus on Robert-Gnehm-Weg on the HPV side, and at ETH Zurich’s Zentrum campus behind the greenhouse on Häldeliweg. These areas are open to the public and signposted with information panels for visitors."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 45,
+        "end": 56
+      },
+      {
+        "text": "almost half",
+        "label": "CARDINAL",
+        "start": 259,
+        "end": 270
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 302,
+        "end": 313
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "GPE",
+        "start": 336,
+        "end": 346
+      },
+      {
+        "text": "Wildbiene + Partner",
+        "label": "WORK_OF_ART",
+        "start": 357,
+        "end": 376
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 394,
+        "end": 397
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 422,
+        "end": 432
+      },
+      {
+        "text": "the coming spring",
+        "label": "DATE",
+        "start": 576,
+        "end": 593
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 599,
+        "end": 602
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 628,
+        "end": 639
+      },
+      {
+        "text": "Robert-Gnehm-Weg",
+        "label": "PERSON",
+        "start": 650,
+        "end": 666
+      },
+      {
+        "text": "HPV",
+        "label": "ORG",
+        "start": 674,
+        "end": 677
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "ORG",
+        "start": 691,
+        "end": 703
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 704,
+        "end": 711
+      },
+      {
+        "text": "Häldeliweg",
+        "label": "ORG",
+        "start": 744,
+        "end": 754
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Robert-Gnehm-Weg",
+        "Zentrum"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "HPV",
+        "Häldeliweg"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Switzerland"
+      ],
+      "DATE": [
+        "the coming spring"
+      ],
+      "MISC": [
+        "Wildbiene + Partner",
+        "almost half",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 2,
+      "ETH Zurich": 2,
+      "two": 2,
+      "almost half": 1,
+      "Wildbiene + Partner": 1,
+      "the coming spring": 1,
+      "Hönggerberg": 1,
+      "Robert-Gnehm-Weg": 1,
+      "HPV": 1,
+      "ETH Zurich’s": 1,
+      "Zentrum": 1,
+      "Häldeliweg": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-safe-place-for-wild-bees.md",
+      "title": "En Internal/2015/10/a Safe Place For Wild Bees",
+      "language": "en",
+      "source_path": "en_internal/2015/10/a-safe-place-for-wild-bees.html"
+    },
+    "temporal": {
+      "publication_date": "2015-10",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Robert-Gnehm-Weg",
+        "Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Wildbiene + Partner",
+        "almost half"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Robert-Gnehm",
+        "Safe Place",
+        "For Wild",
+        "En Internal",
+        "Bees There",
+        "ETH Zurich",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "HPV",
+        "Häldeliweg"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "ETH Zurich",
+        "two",
+        "almost half",
+        "Wildbiene + Partner",
+        "the coming spring",
+        "Hönggerberg",
+        "Robert-Gnehm-Weg",
+        "HPV",
+        "ETH Zurich’s"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 891
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "Häldeliweg",
+        "HPV",
+        "Zentrum",
+        "ETH Zurich",
+        "Robert-Gnehm-Weg",
+        "ETH Zurich’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "almost half",
+        "Wildbiene + Partner",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "filename": "new-at-eth-jan-vermant.md",
+  "original_filename": "new-at-eth-jan-vermant.html",
+  "source_path": "en_internal/2014/10/new-at-eth-jan-vermant.html",
+  "date": "2014-10",
+  "title": "New At Eth Jan Vermant",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "What was your main motivation to come to ETH Zurich? I believe that ETH Zurich provides a unique environment that can foster innovative research. The best part of being a professor is working closely with students and young researchers, and I hope that here at ETH Zurich I can focus on research and teaching. I was impressed by the quality of staff and students.\n\nHow would you explain your research to a child? Young children are usually experts in dealing with soft materials – they know all about ice cream, but also slimy, gooey materials like mud. They also play with foams and soap bubbles. My research group and I try to understand why these soft, sticky materials behave as weirdly as they do. With this knowledge we try to improve their properties, for example how they flow and deform. The same science that created modelling compound is also used to make ultra-strong lightweight polymer parts. It is a bit like playing Lego on a small scale: by changing the building blocks or mixing in different shapes and compounds, you can make a variety of structures and functions. And, of course, we use cool instruments with lasers and high-speed cameras.\n\nWhat discovery would you like to make in your field? Currently I’m rather passionate about our work trying to learn from cellular materials in nature, such as cells and lipid vesicles. We have recently come up with a way to produce even bilayers on a large scale – combined with new experimental techniques, this offers us a platform to study a wide array of problems, for example the flow and deformation of these 2D systems. I’m curious to see how we will be able to use it in designing better synthetic materials. I hope we will be able to provide insights that shake things up.\n\nIf you hadn’t become scientist, what other profession would you have chosen? As a youngster, I was a competitive dinghy sailor. Many of my friends from that era are now either professional sailors or sailing coaches. Although my graduate students would have a difficult time imagining it, I could have ended up in a position like that. I do prefer my current job, though.\n\nJan Vermant joined D-MATL as a professor of soft materials in August. His research interests focus on soft materials (e.g. gels, polymer melts and rubber) and their interfaces. He also conducts research into composites made of soft matter as well as colloid systems and bacteria.\n\nBy appointing the Belgian, ETH Zurich has gained a top researcher with a global reputation. The professorship in soft materials has been endowed by specialty chemicals company Sika.\n\nProfessor Vermant will give his inaugural lecture , “Soft Materials: Where Physics, Chemistry and Biology Meet Engineering”, on Monday, 13 October 2014 at 17.15 hrs in the Audimax of ETH Zurich’s main building (HG F 30). The lecture will be in English."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 41,
+        "end": 51
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 68,
+        "end": 78
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 261,
+        "end": 271
+      },
+      {
+        "text": "Lego",
+        "label": "PERSON",
+        "start": 931,
+        "end": 935
+      },
+      {
+        "text": "2D",
+        "label": "CARDINAL",
+        "start": 1574,
+        "end": 1576
+      },
+      {
+        "text": "Jan Vermant",
+        "label": "PERSON",
+        "start": 2113,
+        "end": 2124
+      },
+      {
+        "text": "August",
+        "label": "DATE",
+        "start": 2175,
+        "end": 2181
+      },
+      {
+        "text": "Belgian",
+        "label": "NORP",
+        "start": 2411,
+        "end": 2418
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 2420,
+        "end": 2430
+      },
+      {
+        "text": "Vermant",
+        "label": "PERSON",
+        "start": 2585,
+        "end": 2592
+      },
+      {
+        "text": "Soft Materials: Where Physics, Chemistry and Biology Meet Engineering",
+        "label": "WORK_OF_ART",
+        "start": 2628,
+        "end": 2697
+      },
+      {
+        "text": "Monday",
+        "label": "DATE",
+        "start": 2703,
+        "end": 2709
+      },
+      {
+        "text": "13 October 2014",
+        "label": "DATE",
+        "start": 2711,
+        "end": 2726
+      },
+      {
+        "text": "17.15",
+        "label": "CARDINAL",
+        "start": 2730,
+        "end": 2735
+      },
+      {
+        "text": "the Audimax of ETH Zurich’s",
+        "label": "ORG",
+        "start": 2743,
+        "end": 2770
+      },
+      {
+        "text": "F 30",
+        "label": "PRODUCT",
+        "start": 2789,
+        "end": 2793
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 2819,
+        "end": 2826
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Jan Vermant",
+        "Lego",
+        "Vermant"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "the Audimax of ETH Zurich’s"
+      ],
+      "LOCATION": [
+        "ETH Zurich"
+      ],
+      "DATE": [
+        "13 October 2014",
+        "August",
+        "Monday"
+      ],
+      "MISC": [
+        "17.15",
+        "2D",
+        "Belgian",
+        "English",
+        "F 30",
+        "Soft Materials: Where Physics, Chemistry and Biology Meet Engineering"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 4,
+      "Lego": 1,
+      "2D": 1,
+      "Jan Vermant": 1,
+      "August": 1,
+      "Belgian": 1,
+      "Vermant": 1,
+      "Soft Materials: Where Physics, Chemistry and Biology Meet Engineering": 1,
+      "Monday": 1,
+      "13 October 2014": 1,
+      "17.15": 1,
+      "the Audimax of ETH Zurich’s": 1,
+      "F 30": 1,
+      "English": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-at-eth-jan-vermant.md",
+      "title": "En Internal/2014/10/new At Eth Jan Vermant",
+      "language": "en",
+      "source_path": "en_internal/2014/10/new-at-eth-jan-vermant.html"
+    },
+    "temporal": {
+      "publication_date": "2014-10",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Jan Vermant",
+        "Lego",
+        "Vermant"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher",
+          "student",
+          "professor"
+        ],
+        "Jan Vermant": [
+          "professor"
+        ],
+        "Vermant": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "biology",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "17.15",
+        "Belgian",
+        "English",
+        "F 30",
+        "Soft Materials: Where Physics, Chemistry and Biology Meet Engineering"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Currently I",
+        "Biology Meet",
+        "Professor Vermant",
+        "Where Physics",
+        "Soft Materials",
+        "D-MATL",
+        "HG F",
+        "Jan Vermant",
+        "En Internal",
+        "At Eth",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "the Audimax of ETH Zurich’s"
+      ],
+      "locations": [
+        "ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Lego",
+        "2D",
+        "Jan Vermant",
+        "August",
+        "Belgian",
+        "Vermant",
+        "Soft Materials: Where Physics, Chemistry and Biology Meet Engineering",
+        "Monday",
+        "13 October 2014"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2876
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Audimax of ETH Zurich’s",
+        "Jan Vermant",
+        "Vermant",
+        "ETH Zurich",
+        "Lego",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "Belgian",
+        "F 30",
+        "Soft Materials: Where Physics, Chemistry and Biology Meet Engineering",
+        "17.15",
+        "who",
+        "English",
+        "chemistry",
+        "where",
+        "biology",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_student",
+        "ETH Zurich_has_role_professor",
+        "Jan Vermant_has_role_professor",
+        "Vermant_has_role_Professor",
+        "Vermant_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

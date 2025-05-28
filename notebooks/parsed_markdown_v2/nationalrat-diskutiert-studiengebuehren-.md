@@ -1,0 +1,28 @@
+# nationalrat-diskutiert-studiengebuehren-.html
+
+**Source:** en_news_events/2013/11/nationalrat-diskutiert-studiengebuehren-.html
+
+## Fees based on tax liability?
+
+In recent years, the proportion of foreign students at ETH Zurich and EPFL has continuously increased. At ETH alone, the total number of students breached the level of 18,000 this autumn for the first-ever time. The Federal Council is also aware of this. With the general lack of skilled professionals in mind, it is generally pleased about this development: "It shows that the teaching at ETH is very attractive and creates a dynamic, international atmosphere at the university", wrote Switzerland's national government on Thursday (21.11.2013) in a statement on the National Council's motion calling for fair tuition fees at ETH and EPFL.
+
+However, the Federal Council also sees downsides: "On the other hand, foreign students are also causing considerable costs. As a rule, their parents are not liable to pay tax in Switzerland, so a higher contribution to the cost of their studies seems justified", reads the statement further. The Federal Council has therefore agreed to create possibilities for differentiated tuition fees.
+
+## Fees based on tax liability?
+
+At the end of October, the Committee for Science, Education and Culture of the National Council (CSEC-N) passed a motion requesting the Federal Council to amend the ETH Law to make it possible for ETH and EPFL to charge varying fees. Specifically, the committee suggested that students should pay lower fees if their parents pay tax in Switzerland, or have paid tax for a certain period in the past. The other students, however, should pay higher fees; the committee gave "no more than three-fold" as the upper limit.
+
+The Federal Council, however, rejects amending the ETH Law as requested in the motion, before analysing and considering the general and international legal framework as well as the practical feasibility of the measure. It has therefore requested parliament to reject the motion.
+
+## Controversial from an education policy perspective
+
+Instead, the Federal Council suggests presenting a draft act as part of the ERI dispatch for 2017-2020, which will take account of the motion as much as possible. It plans to draw up the draft in cooperation with the ETH Board. A decision has not yet been made. The motion will be debated by the National Council and the Council of States.
+
+Different fees are, however, controversial from an education policy perspective. According to media reports of Thursday, the opponents of the motion in parliament expect the number of talented students at ETH to fall if tuition fees for foreign students are raised.
+
+The Association of Students at ETH Zurich (VSETH) also takes the position that raising tuition fees three-fold for foreign students represents a dramatic, unequal financial treatment of students whose parents are not liable to pay tax in Switzerland. It has published a dossier with a fact sheet and additional information on its website.
+
+In the ERI dispatch , the Federal Council and parliament define every four years the general federal science policy, the payment framework and the strategic objectives of the ETH Domain.
+
+These objectives are aligned with the strategic planning of the ETH Board for the ETH domain (ETH, EPFL, PSI, WSL, Empa, Eawag).
+

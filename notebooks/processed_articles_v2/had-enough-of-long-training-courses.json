@@ -1,0 +1,119 @@
+{
+  "filename": "had-enough-of-long-training-courses.md",
+  "original_filename": "had-enough-of-long-training-courses.html",
+  "source_path": "en_internal/2014/10/had-enough-of-long-training-courses.html",
+  "date": "2014-10",
+  "title": "Had Enough Of Long Training Courses",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The events take place from 12.15 to 12.30:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "12.15",
+        "label": "CARDINAL",
+        "start": 27,
+        "end": 32
+      },
+      {
+        "text": "12.30",
+        "label": "CARDINAL",
+        "start": 36,
+        "end": 41
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "12.15",
+        "12.30"
+      ]
+    },
+    "entity_counts": {
+      "12.15": 1,
+      "12.30": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "had-enough-of-long-training-courses.md",
+      "title": "En Internal/2014/10/had Enough Of Long Training Courses",
+      "language": "en",
+      "source_path": "en_internal/2014/10/had-enough-of-long-training-courses.html"
+    },
+    "temporal": {
+      "publication_date": "2014-10",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "12.15",
+        "12.30"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Long Training",
+        "Courses The",
+        "Enough Of",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "12.15",
+        "12.30"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 98
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "12.30",
+        "12.15",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

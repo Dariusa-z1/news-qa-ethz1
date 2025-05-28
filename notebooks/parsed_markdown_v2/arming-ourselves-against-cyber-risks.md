@@ -1,0 +1,18 @@
+# arming-ourselves-against-cyber-risks.html
+
+**Source:** en_news_events/2017/10/arming-ourselves-against-cyber-risks.html
+
+## More powers for cyber defence
+
+“The university and the Federal Department of Defence (DDPS) have enjoyed a close relationship for decades,” said Lino Guzzella in his address to welcome the Federal Councillor to the Audimax. The university primarily works with the DDPS via two competence centres: the ETH Center for Security Studies, which supports Switzerland’s security policy with its socio-economic and political expertise, and the technically focussed Zurich Information Security & Privacy Center (ZISC), in which ETH works with industry and the government to develop solutions to the growing challenges in the field of information security. “And last but not least,” added Guzzella, “ETH Zurich’s military academy (MILAK) has forged a strong link between ETH and the Federal Department of Security.”
+
+Security has become an increasingly hot topic in recent years: “The international situation has worsened,” said Parmelin. “Terror attacks in European cities, war and the collapse of states in North Africa and the Middle East, war in Ukraine, the omnipresence of cyber attacks – all of these things also affect Switzerland and its population.” This sentiment is confirmed by the Council’s latest security report, which provides guidelines to the Federal Assembly and the government. Swiss security policy is therefore going through a period of change, explained Parmelin.
+
+## More powers for cyber defence
+
+For example, in 2018 the army will be streamlined to enable greater flexibility and swifter deployment. The intelligence service will acquire new resources and powers in order to respond to new threats. The Head of the DDPS also noted that “there’s a lot going on in the field of cyber risks too”. He believes that the opportunities for cyberspace abuse are far greater than we had assumed even a few years ago. “Today, everything is so closely interconnected that attackers could cause great damage with very little effort – and with very little chance of being detected.” Parmelin explained that an expertly executed attack on a state-owned enterprise at the start of his tenure as Defence Minister opened many people’s eyes. He is now planning to expand cyber defence resources in the army and intelligence service with around 100 new specialists by 2020.
+
+And, as we are well aware, cyber attacks know no borders, which is why Parmelin believes that international cooperation in this field is vitally important for Switzerland. Since entering office, he has observed that many countries are also grappling with the question of how to deal with the omnipresence of cyber threats. We therefore need to learn from each other. For Parmelin, the partnership with ETH Zurich and the ability to recruit ETH-trained specialists are crucial factors in the development of expertise in this field.
+
+In the subsequent Q&A, it was primarily young researchers and students who highlighted that, given the high demand for expertise, the army needs to increase its focus on talent management – a point with which Parmelin wholeheartedly agreed. He explained that, as part of its reform, the army is currently investigating how to use its personnel’s IT skills in more effective, flexible ways. However, he also highlighted that the army was in competition with powerful, attractive companies such as Google, which take on a large number of university graduates every year. “We are working on promoting cyber defence as an important and exciting career choice. Admittedly, this will take some time; however, the groundwork has now been laid to move things in the right direction.”
+

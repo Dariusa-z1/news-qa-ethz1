@@ -1,0 +1,174 @@
+{
+  "filename": "jahresbericht-2018-des-hochschularchivs-der-eth-zuerich.md",
+  "original_filename": "jahresbericht-2018-des-hochschularchivs-der-eth-zuerich.html",
+  "source_path": "en_internal/2019/11/jahresbericht-2018-des-hochschularchivs-der-eth-zuerich.html",
+  "date": "2019-11",
+  "title": "Jahresbericht 2018 Des Hochschularchivs Der Eth Zuerich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH Zurich University Archives belongs to ETH Library. It is responsible for preservation, cataloguing and accessibility of important documents of ETH Zurich and the ETH Board as well as personal papers of prominent former members of ETH.\n\n#KnowMore – The prepared content issued by ETH Library is at your free disposal and gives you a head start."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Eth Zuerich",
+        "label": "PERSON",
+        "start": 64,
+        "end": 75
+      },
+      {
+        "text": "ETH Zurich University Archives",
+        "label": "ORG",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 42,
+        "end": 53
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 147,
+        "end": 157
+      },
+      {
+        "text": "the ETH Board",
+        "label": "ORG",
+        "start": 162,
+        "end": 175
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 234,
+        "end": 237
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 281,
+        "end": 292
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Eth Zuerich"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Library",
+        "ETH Zurich University Archives",
+        "the ETH Board"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Library": 2,
+      "Eth Zuerich": 1,
+      "ETH Zurich University Archives": 1,
+      "ETH Zurich": 1,
+      "the ETH Board": 1,
+      "ETH": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "jahresbericht-2018-des-hochschularchivs-der-eth-zuerich.md",
+      "title": "En Internal/2019/11/jahresbericht 2018 des Hochschularchivs der Eth Zuerich",
+      "language": "en",
+      "source_path": "en_internal/2019/11/jahresbericht-2018-des-hochschularchivs-der-eth-zuerich.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2018",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Eth Zuerich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH Board",
+        "ETH Library",
+        "En Internal",
+        "University Archives",
+        "Eth Zuerich",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Library",
+        "ETH Zurich University Archives",
+        "the ETH Board"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH Library",
+        "Eth Zuerich",
+        "ETH Zurich University Archives",
+        "ETH Zurich",
+        "the ETH Board",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 423
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "2019",
+        "ETH Library",
+        "the ETH Board",
+        "Eth Zuerich",
+        "ETH Zurich",
+        "ETH Zurich University Archives"
+      ],
+      "semantic_concepts": [
+        "who",
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

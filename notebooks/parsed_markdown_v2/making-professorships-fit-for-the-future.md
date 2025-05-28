@@ -1,0 +1,98 @@
+# making-professorships-fit-for-the-future.html
+
+**Source:** en_internal/2021/02/making-professorships-fit-for-the-future.html
+
+## A comprehensive, broad-based analysis of the status quo
+
+- Markus Aebi
+
+- Stefan Bechtold
+
+- Nina Buchmann
+
+- Detlef Günther
+
+- Elisabeth Pöschl
+
+- Kathrin Ringger
+
+- Gabrielle Schlittler (ext.)
+
+- Annika Glauner (until the end of 2020)
+
+- Prof. Philippe Block, D-ARCH (also contributing Engineering Sciences perspective)
+
+- Alexander Caspar, D-MATH (representing senior scientists)
+
+- Prof. Rachel Grange, D-PHYS (Natural Sciences and Mathematics)
+
+- Prof. Volker Hoffmann, D-MTEC (sustainability and technology)
+
+- Stefan Karlen, D-GESS Coordinator (representing administrative-technical staff)
+
+- Nicole Kasielke (Corporate Communications)
+
+- Birgit Kessler (representing Office for Faculty Affairs)
+
+- Eva Lieberherr, D-USYS (representing senior scientists)
+
+- Prof. David Norris, D-MAVT  (Engineering Sciences and Tenure Committee member)
+
+- Olga Pardo, Personnel and Organisational Development (HR)
+
+- Corentin Pfister, VP of Association of Students at ETH Zurich (VSETH) (representing students)
+
+- Prof. André Studart, D-MATL (Materials Science/Complex Materials)
+
+- Christina Tsalicoglou, D-MAVT (representing doctoral students)
+
+A growing student body is placing increasing demands on teaching staff, and global challenges require ever more collaboration between disciplines. There are growing calls for more diversity and democratic approaches to management. And while the new media landscape has opened up more possibilities for professors to do their own outreach, these new possibilities also pose the inherent risk of reputational damage. Professorships are facing mounting challenges from inside and outside the academy. These challenges have risen sharply over the past few years, but the number of hours in a day has of course stayed the same. This is why there is a need for a shared and forward-looking understanding of what constitutes a professorship at ETH alongside an excellent environment and infrastructure. These factors will help professors achieve a healthy balance between the diverse expectations and time-consuming duties that comprise their role. Clearly defined guideposts should empower the various staff members working in professorships to concentrate on their core duties while also successfully responding to changing requirements. rETHink's Workstream 2: Professorships is working on developing models that can turn these goals into reality.
+
+## A comprehensive, broad-based analysis of the status quo
+
+In phase one, the Workstream 2 project team prioritised developing a shared understanding of the current situation surrounding professorships and identifying possible areas for action. Executive Board member and Vice President for Research Detflef Günther is heading the workstream along with workstream managers Nina Buchmann, Markus Aebi and Stefan Bechtold (see info box for all participants). Although the kick-off meeting was held last February, project participants were only able to truly start their work in July due to the demands of the coronavirus crisis. The project team began by using three working groups to arrive at a comprehensive analysis of the current situation. To this end they gathered the available data on professorships along with findings from previous surveys and could then also contribute their own experiences.
+
+At the heart of the analysis was a 360° view of the professorship, with 27 focus groups from all personnel categories taking part in open-ended discussions on the factors comprising the current situation. A total of 131 people participated in the process, naming what they perceive as the current strengths and weaknesses of professorships. Findings from these lively discussions were then carefully analysed and collated by the project team.
+
+## The university's beating heart
+
+During these discussions with staff from all personnel categories, two factors emerged as central to ETH Zurich's success: academic freedom and organisational autonomy. According to participants, these factors are a clear unique selling point for ETH when considered along with the university's globally competitive infrastructure. Focus group members also made it clear, however, that there is room for improvement when it comes to actually implementing the key value of autonomy. However, for most people, these problems do not call the principle of autonomy itself into question; the issue rather lies with the failure to sufficiently assume responsibility when implementing autonomy.
+
+## Striking a difficult balance
+
+One issue that came up repeatedly in the focus groups was the difficulty of balancing the various areas of responsibility that accompany a professorship, particularly on a managerial level.
+
+"Striking this balance – and finding the time to do so – looks different for assistant professors than it does for full professors, and it looks different for professors working in the life sciences compared to professors working in architecture," explains Nina Buchmann. Several priority tasks – such as outreach, knowledge and technology transfer and internal engagement – often end up getting insufficient attention. This is the case even though most participants see these tasks as increasingly important, as areas with mounting requirements, and as an important component of the performance mandate of the Federal Council for the ETH Domain. They commented that conditions in these areas are often not ideal and that they would appreciate more support from central services, for instance in dealing with technology transfer or social media.
+
+The need for new academic profiles and structures was also repeatedly discussed as a way of helping professors meet all these challenges. Further development in this area seems to be worth considering at the moment.
+
+There are many differences between the different academic departments, which became apparent over the course of the discussions. "This is an opportunity to learn from each other and exchange best practices, something that we should make more use of," says Stefan Bechtold.
+
+## Strengthening leadership and management skills
+
+Although previous surveys have given mostly good marks to the quality of leadership, respondents still expressed the need to strengthen professors' leadership and management skills. The focus group discussions confirmed this need: until now, professors have only received limited training for their leadership and management duties. This is despite the growing importance of these tasks, particularly when professors are in charge of large groups. The resulting gaps can affect professors' performance levels and carry a not insignificant reputation risk.
+
+Focus group members also criticised the fact that there is no holistic and effective assessment system covering the entire professorship and the leadership role of professors.
+
+## Good collaboration to grow further in importance
+
+Challenges like the coronavirus pandemic and climate change very clearly demonstrate the need for intense interdisciplinary collaboration. This is why the focus groups in Workstream 2 also tackled the question of how to better promote collaboration at ETH. With the needs of professorships constantly in flux, using resources efficiently will require identifying synergies when it comes to the use of space and infrastructures.
+
+"I know that everyone would like to have fast solutions, but it is important to precisely analyse the situation first in order to clarify the objectives. Only then can we devise the right measures. That's why the upcoming discussions to identify solutions are definitely going to be very exciting," says Detlef Günther.
+
+## 13 action areas for further analysis
+
+The focus groups' wide-ranging discussions yielded thirteen action areas, which have been placed in the following categories: strategy; organisation; and leadership, cooperation and culture.
+
+## Workstream 2 participants
+
+The Workstream 2 project team will be tackling these action areas over the next few months with the aim of having at least a general plan for further implementation by the end of the year.
+
+This second phase of the project will start by tackling the following action areas: academic autonomy (area 1), organisational autonomy (area 6), and leadership (area 8). The results of area 8 will then be passed on to Workstream 3: Support for Professors, which kicked off in January alongside Workstream 4: Academic Departments and Workstream 5: Central Administrative Units.
+
+## Summarised results of the analysis phase of WS2
+
+## Workstream 2 participants
+
+Workstream management:
+

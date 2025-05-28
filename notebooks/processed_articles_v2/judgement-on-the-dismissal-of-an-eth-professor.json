@@ -1,0 +1,247 @@
+{
+  "filename": "judgement-on-the-dismissal-of-an-eth-professor.md",
+  "original_filename": "judgement-on-the-dismissal-of-an-eth-professor.html",
+  "source_path": "en_internal/2022/04/judgement-on-the-dismissal-of-an-eth-professor.html",
+  "date": "2022-04",
+  "title": "Judgement On The Dismissal Of An Eth Professor",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH Zurich has taken note of the ruling of the Federal Administrative Court, which can still be appealed to the Federal Supreme Court.\n\nThe Executive Board recognises the importance of the court’s finding that the dismissal was\"neither unlawful nor gender discriminatory\" The Board also acknowledges the court’s criticisms of certain shortcomings on the part of the university.\n\nIn March 2019, the Executive Board launched a comprehensive set of measures to improve the leadership and supervision situation at ETH Zurich. Since then, the university has improved processes for dealing with conflict situations, introduced joint supervision of doctoral students across the board and created a new Executive Board domain to promote the development of leadership skills.\n\nETH Zurich will review whether the Federal Administrative Court's ruling contains additional insights for improving processes at the university."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Dismissal Of an Eth Professor",
+        "label": "WORK_OF_ART",
+        "start": 33,
+        "end": 66
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "the Federal Administrative Court",
+        "label": "ORG",
+        "start": 43,
+        "end": 75
+      },
+      {
+        "text": "the Federal Supreme Court",
+        "label": "ORG",
+        "start": 108,
+        "end": 133
+      },
+      {
+        "text": "The Executive Board",
+        "label": "ORG",
+        "start": 135,
+        "end": 154
+      },
+      {
+        "text": "The Board",
+        "label": "WORK_OF_ART",
+        "start": 271,
+        "end": 280
+      },
+      {
+        "text": "March 2019",
+        "label": "DATE",
+        "start": 380,
+        "end": 390
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 392,
+        "end": 411
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 508,
+        "end": 518
+      },
+      {
+        "text": "Executive Board",
+        "label": "ORG",
+        "start": 693,
+        "end": 708
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 765,
+        "end": 775
+      },
+      {
+        "text": "the Federal Administrative Court's",
+        "label": "ORG",
+        "start": 796,
+        "end": 830
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Executive Board",
+        "The Executive Board",
+        "the Executive Board",
+        "the Federal Administrative Court",
+        "the Federal Administrative Court's",
+        "the Federal Supreme Court"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "March 2019"
+      ],
+      "MISC": [
+        "The Board",
+        "The Dismissal Of an Eth Professor"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "The Dismissal Of an Eth Professor": 1,
+      "the Federal Administrative Court": 1,
+      "the Federal Supreme Court": 1,
+      "The Executive Board": 1,
+      "The Board": 1,
+      "March 2019": 1,
+      "the Executive Board": 1,
+      "Executive Board": 1,
+      "the Federal Administrative Court's": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "judgement-on-the-dismissal-of-an-eth-professor.md",
+      "title": "En Internal/2022/04/judgement On The Dismissal Of an Eth Professor",
+      "language": "en",
+      "source_path": "en_internal/2022/04/judgement-on-the-dismissal-of-an-eth-professor.html"
+    },
+    "temporal": {
+      "publication_date": "2022-04",
+      "mentioned_years": [
+        "2019",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "The Board",
+        "The Dismissal Of an Eth Professor"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Dismissal Of",
+        "Federal Administrative",
+        "In March",
+        "Executive Board",
+        "The Executive",
+        "En Internal",
+        "Eth Professor",
+        "The Board",
+        "On The",
+        "ETH Zurich",
+        "Federal Supreme"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "Executive Board",
+        "The Executive Board",
+        "the Executive Board",
+        "the Federal Administrative Court",
+        "the Federal Administrative Court's",
+        "the Federal Supreme Court"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "The Dismissal Of an Eth Professor",
+        "the Federal Administrative Court",
+        "the Federal Supreme Court",
+        "The Executive Board",
+        "The Board",
+        "March 2019",
+        "the Executive Board",
+        "Executive Board",
+        "the Federal Administrative Court's"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 979
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Federal Supreme Court",
+        "2019",
+        "Executive Board",
+        "The Executive Board",
+        "the Federal Administrative Court's",
+        "the Executive Board",
+        "2022",
+        "ETH Zurich",
+        "the Federal Administrative Court"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "The Board",
+        "The Dismissal Of an Eth Professor",
+        "how",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_Professor",
+        "ETH Zurich_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

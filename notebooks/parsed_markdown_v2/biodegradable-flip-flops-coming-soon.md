@@ -1,0 +1,30 @@
+# biodegradable-flip-flops-coming-soon.html
+
+**Source:** en_news_events/2020/10/biodegradable-flip-flops-coming-soon.html
+
+## Innovative propellant from gas and water
+
+Zuzana Sediva loves pistachios. "There was a time when I used to pick them in Sicily and bring them home to make ice cream," she recalls. Back then, she had no idea that this passion would later provide the inspiration for her dissertation – and ultimately for her business idea as well.
+
+But let's take it one step at a time: the ETH scientist is developing a method by which green waste can be processed into biodegradable foamed plastics which can be used in the auto industry or construction, but also to manufacture shoe soles, toys, yoga mats, packaging or mattresses. In other words: any product that requires the elastic, cushioning property provided by foam materials.
+
+At present these materials still tend to be made from fossil resources, with the addition of synthetic materials. The resulting products have a huge environmental impact, as it takes decades or even centuries for the plastics to break down into microparticles, and they will never degrade entirely. Furthermore, it is very challenging to recycle products made of foamed plastic.
+
+Sediva's solution is sustainable in two respects: first, the biomass used in her process is a natural waste product – coming partly from agriculture. So no additional land cultivation is necessary. Second, the organic foam material breaks down much faster than conventional foamed plastic.
+
+## Innovative propellant from gas and water
+
+Bioplastics are booming: global production volumes are growing by around 20 to 30 percent every year. But there are currently very few sustainable alternatives to foamed plastic, mainly because the chemical manufacturing process requires raw materials with very specific properties. Conventional plastic starts to foam when a propellant is added, usually under high temperature and pressure. By contrast, organic waste is usually heat sensitive and cannot be processed at such high temperatures. "It's very difficult to achieve the desired elasticity of foam using biomass," Sediva explains.
+
+Sediva's solution involves the use of a novel propellant that is added during the manufacturing process and enables the biomass to foam at lower temperatures. The bio-propellant is completely green, unlike the synthetic additives used in the production of foamed plastics. It is based on a mixture of gas and water which Sediva developed as part of her dissertation at ETH Zurich. Last year she filed a patent for it, in partnership with ETH.
+
+If foam materials made out of organic waste are to achieve a high level of elasticity, a precise "recipe" must be followed. That includes the specially designed propellant, an organic waste-based formulation, and a specific manufacturing process. Sediva is thinking about whether she should also patent this "recipe" in future.
+
+As part of her ETH Pioneer Fellowship, Sediva is now refining her method for industrial use. One thing she already knows, however, is that manufacturing the new propellant in large quantities will not be a problem. "We can make up to 60, perhaps even 100 litres of foam an hour," she says. She intends to prove this in the next few months. This would fulfil one of the requirements for bioplastic to become a success not only in the laboratory, but also on the market.
+
+Another advantage of Sediva's method is its compatibility with traditional processes used to manufacture foamed plastics, so potential customers do not require additional infrastructure.
+
+Prospective clients will depend on who is willing to be involved in pilot projects, she says. She is currently looking for industry partners. "I think packaging would be a good entry point." Here foamed materials are used to protect products, or for the design process. Later on, the shoe industry could be another potential client.
+
+Zuzana Sediva grew up in the Czech Republic and came to Switzerland to study biochemistry. Her interest in foam materials developed quite naturally: it followed on from her homemade pistachio ice cream. Ice cream is essentially edible foam. Generally speaking, foam is nothing more than a low-density material whose cells or pores are filled with air or gas. Bread – and even timber – could even be put in the same category. Sediva's weakness for pistachio gelato led to her scientific interest, which in turn led to her business idea. In her dissertation, Sediva was able to demonstrate that her propellant based on gas and water is an effective means of manufacturing foam material. Her experiments once again involved ice cream, this time vanilla flavour.
+

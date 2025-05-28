@@ -1,0 +1,185 @@
+{
+  "filename": "new-services-and-resources-platform.md",
+  "original_filename": "new-services-and-resources-platform.html",
+  "source_path": "en_internal/2015/07/new-services-and-resources-platform.html",
+  "date": "2015-07",
+  "title": "New Services And Resources Platform",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The existing intranet will be converted into this new ‘Services & Resources’ platform in early August. This is primarily intended for ETH staff, but will also include information for external visitors to the website.\n\nThe usual internal news, such as service information, news from the Executive Board and University Boards or announcements on work anniversaries will be found on the new platform in future. Just as before, this platform will also contain information that supports staff in their work and helps them find their way around the vast range of services provided by ETH Zurich. These include areas such as employment and work, finance and controlling, and IT services.\n\nThe design and structure of the new platform will match the main ETH website www.ethz.ch/en . The header will appear in the same corporate blue, and the navigation between the two websites will also be simplified using additional links. ‘Services & Resources’ will now be listed in the upper right menu on the main website. The new platform will also have its own dedicated URL at www.ethz.ch/services/en ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "early August",
+        "label": "DATE",
+        "start": 89,
+        "end": 101
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 134,
+        "end": 137
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 281,
+        "end": 300
+      },
+      {
+        "text": "University Boards",
+        "label": "ORG",
+        "start": 305,
+        "end": 322
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 577,
+        "end": 587
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 745,
+        "end": 748
+      },
+      {
+        "text": "www.ethz.ch/en",
+        "label": "GPE",
+        "start": 757,
+        "end": 771
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 856,
+        "end": 859
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH",
+        "University Boards",
+        "the Executive Board"
+      ],
+      "LOCATION": [
+        "www.ethz.ch/en"
+      ],
+      "DATE": [
+        "early August"
+      ],
+      "MISC": [
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "early August": 1,
+      "the Executive Board": 1,
+      "University Boards": 1,
+      "ETH Zurich": 1,
+      "www.ethz.ch/en": 1,
+      "two": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-services-and-resources-platform.md",
+      "title": "En Internal/2015/07/new Services And Resources Platform",
+      "language": "en",
+      "source_path": "en_internal/2015/07/new-services-and-resources-platform.html"
+    },
+    "temporal": {
+      "publication_date": "2015-07",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Executive Board",
+        "En Internal",
+        "University Boards",
+        "ETH Zurich",
+        "Services And",
+        "Resources Platform"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "University Boards",
+        "the Executive Board"
+      ],
+      "locations": [
+        "www.ethz.ch/en"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "early August",
+        "the Executive Board",
+        "University Boards",
+        "ETH Zurich",
+        "www.ethz.ch/en",
+        "two"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1144
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2015",
+        "the Executive Board",
+        "University Boards",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

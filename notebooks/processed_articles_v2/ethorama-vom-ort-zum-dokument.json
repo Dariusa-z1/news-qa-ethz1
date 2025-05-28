@@ -1,0 +1,155 @@
+{
+  "filename": "ethorama-vom-ort-zum-dokument.md",
+  "original_filename": "ethorama-vom-ort-zum-dokument.html",
+  "source_path": "de_internal/2014/12/ethorama-vom-ort-zum-dokument.html",
+  "date": "2014-12",
+  "title": "Ethorama Vom Ort Zum Dokument",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Wollen Sie wissen, wie sich Ihr Wohnort im Lauf der Zeit verändert hat, ob historische oder zeitgenössische Texte dazu vorhanden sind oder in welchen thematischen Bezügen er steht?\n\nETHorama ist eine neue Plattform, auf der Orte mit digitalisierten Dokumenten verbunden sind: Klicken Sie auf die Schweizer Karte und stöbern Sie in Bildern, Artikeln, alten Drucken und Karten. Diese sind mit anderen Plattformen verlinkt, wo Sie durch eine Fülle weiterer Dokumente browsen können.\n\nETHorama wird in einer Betaversion aufgeschaltet und kontinuierlich erweitert."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/12",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "ETHorama",
+        "label": "MISC",
+        "start": 181,
+        "end": 189
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 295,
+        "end": 304
+      },
+      {
+        "text": "Bildern",
+        "label": "LOC",
+        "start": 330,
+        "end": 337
+      },
+      {
+        "text": "Drucken",
+        "label": "LOC",
+        "start": 355,
+        "end": 362
+      },
+      {
+        "text": "ETHorama",
+        "label": "MISC",
+        "start": 479,
+        "end": 487
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "Bildern",
+        "De Internal/2014/12",
+        "Drucken"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETHorama",
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "ETHorama": 2,
+      "De Internal/2014/12": 1,
+      "Schweizer": 1,
+      "Bildern": 1,
+      "Drucken": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ethorama-vom-ort-zum-dokument.md",
+      "title": "De Internal/2014/12/ethorama Vom Ort Zum Dokument",
+      "language": "de",
+      "source_path": "de_internal/2014/12/ethorama-vom-ort-zum-dokument.html"
+    },
+    "temporal": {
+      "publication_date": "2014-12",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETHorama",
+        "Schweizer"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Schweizer Karte",
+        "Ihr Wohnort",
+        "De Internal",
+        "Zum Dokument",
+        "Klicken Sie",
+        "Vom Ort",
+        "Wollen Sie"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Bildern",
+        "De Internal/2014/12",
+        "Drucken"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETHorama",
+        "De Internal/2014/12",
+        "Schweizer",
+        "Bildern",
+        "Drucken"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 609
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "Schweizer",
+        "ETHorama"
+      ],
+      "graph_relations": []
+    }
+  }
+}

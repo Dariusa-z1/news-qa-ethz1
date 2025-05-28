@@ -1,0 +1,459 @@
+{
+  "filename": "digitale-zaehne-nach-natuerlichem-vorbild.md",
+  "original_filename": "digitale-zaehne-nach-natuerlichem-vorbild.html",
+  "source_path": "de_news_events/2017/02/digitale-zaehne-nach-natuerlichem-vorbild.html",
+  "date": "2017-02",
+  "title": "Digitale Zaehne Nach Natuerlichem Vorbild",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Digitalfoto statt Gips",
+      "text": "In den vergangenen Jahren haben Computerforscherinnen und -forscher ausgeklügelte bildbasierte digitale Rekonstruktionen für die Gesichter von Menschen entwickelt. Mit solchen Methoden lassen sich ein Gesicht oder Teile davon wie Haare, Lider oder Augen in hohem Detailgrad erfassen und digital abbilden. Ein wesentlicher Teil des Gesichts wurde bis anhin jedoch stiefmütterlich behandelt: der Mund und insbesondere die Zähne. Bildbasierte Ansätze, mit denen letztere möglichst natürlich dargestellt werden können, stecken in den Kinderschuhen. Um einem Gesicht einen lebensechten Ausdruck zu verleihen, ist es allerdings wesentlich, die Zähne naturgetreu abzubilden. Bis anhin griffen Forschende dazu auf handgefertigte Zahnreihenmodelle aus Gips zurück.\n\nEine Gruppe von Forschenden um Chenglei Wu, Postdoktorand am Computer Graphics Lab der ETH Zürich, dem Max-Planck Institut in Saarbrücken und sowie Disney Research haben nun eine Software entwickelt, mit welcher sie nicht-invasiv Zahnreihen und Gebisse rekonstruieren können. Dieses Programm stellten die Computerwissenschaftler an der SIGGRAPH Asia 2016 in Macao, China, vor."
+    },
+    {
+      "heading": "Digitalfoto statt Gips",
+      "text": "Für eine solch detaillierte digitale Rekonstruktion sind lediglich Digitalfotos nötig, auf denen das Gesicht einer Person zu sehen ist. Selbst Zähne, die teilweise oder ganz verdeckt sind, sowie die Zahnwurzeln kann das Programm vollständig rekonstruieren.\n\nAls Grundlage für Rekonstruktionen können Wu und seine Kollegen ausserdem auch kurze mit dem Smartphone aufgenommene Videos von Gesichtern verwenden. Der neue Ansatz lässt sich darüber hinaus in bestehende Methoden zur Erfassung von Gesichtern mit photogrammetrischen Messkameras integrieren."
+    },
+    {
+      "heading": "Literaturhinweis",
+      "text": "Als Erstes mussten die Forscher dem Programm die Grundzüge von Zahnstellungen, -formen und -reihen beibringen, indem sie dieses mit hochaufgelösten 3D-Scans von Mündern und Gebissen fütterten. Anhand dieser Daten «lernte» das Programm Gebisse zu erkennen, Zähne einzuschätzen und die fehlenden auf den Vorlagen nicht zu erkennender Teile sowie die Zahnstellung zu berechnen. Die Software berechnet darüber hinaus auch die Verfärbungen der Zähne und die Farbe des Zahnfleisches. Daraus resultieren digitale Zahn- und Gebissrekonstruktionen, die sehr natürlich wirken.\n\n«Dieser Ansatz eröffnet neue Wege zu individuellen Zahnrekonstruktionen in hoher Qualität», sagt Projektkoordinator Thabo Beeler von Disney Research. Verwendet werden könnte die neue Methode etwa für die Unterhaltungsindustrie, wo dieses Verfahren problemlos in bestehende photogrammetrische Systeme aus mehreren Kameras zur Gesichtserfassung integriert werden kann.\n\nAber auch Zahnmediziner sind daran interessiert. Sie möchten eine möglichst einfache Methode, mit der sie Zähne von Patienten möglichst natürlich digital rekonstruieren können, um beispielsweise einem Patienten einen visuellen Eindruck von Ersatzzähnen zu vermitteln. «Wir haben von Zahnmedizinern begeisterte Rückmeldungen erhalten», so Beeler. «Das zeigt, dass wir diese Methode nicht nur für digitale Charakteren in Filmen oder Games brauchen können, sondern auch für eine Anwendung in der realen Welt.»\n\nUm digitale dreidimensionale Gebissmodelle zu erstellen, setzen Zahnmediziner derzeit spezielle Scanner ein, mit denen sie die Mundhöhle und die Zähne eines Patienten erfassen. Beide Prozeduren sind umständlich, der Scanner ist zudem teuer und für die Patienten unangenehm, müssen sie doch den Mund während des Scannens die ganze Zeit aufsperren. Dank der ETH-Software rücken digitale Zahnrekonstruktionen für den Alltagsgebrauch in Griffweite, ohne dass dazu teure und spezielle Geräte benötigt werden.\n\nWu C, Bradley D, Garrido P, Zollhöfer M, Theobalt C, Gross M, Beeler T. Model-based Teeth Reconstruction. ACM Transactions on Graphics (TOG) - Proceedings of ACM SIGGRAPH Asia 2016: Volume 35 Issue 6, November 2016, doi: 10.1145/2980179.2980233"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Natuerlichem",
+        "label": "MISC",
+        "start": 44,
+        "end": 56
+      },
+      {
+        "text": "Haare",
+        "label": "PER",
+        "start": 230,
+        "end": 235
+      },
+      {
+        "text": "Kinderschuhen",
+        "label": "LOC",
+        "start": 530,
+        "end": 543
+      },
+      {
+        "text": "Chenglei Wu",
+        "label": "PER",
+        "start": 787,
+        "end": 798
+      },
+      {
+        "text": "Computer Graphics Lab",
+        "label": "MISC",
+        "start": 817,
+        "end": 838
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 843,
+        "end": 853
+      },
+      {
+        "text": "Max-Planck Institut",
+        "label": "ORG",
+        "start": 859,
+        "end": 878
+      },
+      {
+        "text": "Saarbrücken",
+        "label": "LOC",
+        "start": 882,
+        "end": 893
+      },
+      {
+        "text": "Disney Research",
+        "label": "ORG",
+        "start": 904,
+        "end": 919
+      },
+      {
+        "text": "SIGGRAPH Asia 2016",
+        "label": "MISC",
+        "start": 1092,
+        "end": 1110
+      },
+      {
+        "text": "Macao",
+        "label": "LOC",
+        "start": 1114,
+        "end": 1119
+      },
+      {
+        "text": "China",
+        "label": "LOC",
+        "start": 1121,
+        "end": 1126
+      },
+      {
+        "text": "Zähne",
+        "label": "ORG",
+        "start": 143,
+        "end": 148
+      },
+      {
+        "text": "Videos",
+        "label": "MISC",
+        "start": 374,
+        "end": 380
+      },
+      {
+        "text": "Beeler",
+        "label": "PER",
+        "start": 689,
+        "end": 695
+      },
+      {
+        "text": "Disney Research",
+        "label": "ORG",
+        "start": 700,
+        "end": 715
+      },
+      {
+        "text": "photogrammetrische",
+        "label": "MISC",
+        "start": 840,
+        "end": 858
+      },
+      {
+        "text": "Beeler",
+        "label": "PER",
+        "start": 1272,
+        "end": 1278
+      },
+      {
+        "text": "Scanner",
+        "label": "LOC",
+        "start": 1657,
+        "end": 1664
+      },
+      {
+        "text": "Scannens",
+        "label": "LOC",
+        "start": 1752,
+        "end": 1760
+      },
+      {
+        "text": "ETH-Software",
+        "label": "ORG",
+        "start": 1797,
+        "end": 1809
+      },
+      {
+        "text": "Wu C",
+        "label": "PER",
+        "start": 1945,
+        "end": 1949
+      },
+      {
+        "text": "Bradley D",
+        "label": "PER",
+        "start": 1951,
+        "end": 1960
+      },
+      {
+        "text": "Garrido P",
+        "label": "PER",
+        "start": 1962,
+        "end": 1971
+      },
+      {
+        "text": "Zollhöfer M",
+        "label": "MISC",
+        "start": 1973,
+        "end": 1984
+      },
+      {
+        "text": "Theobalt C",
+        "label": "LOC",
+        "start": 1986,
+        "end": 1996
+      },
+      {
+        "text": "Gross M",
+        "label": "PER",
+        "start": 1998,
+        "end": 2005
+      },
+      {
+        "text": "Beeler T. Model-based Teeth Reconstruction",
+        "label": "PER",
+        "start": 2007,
+        "end": 2049
+      },
+      {
+        "text": "ACM Transactions on Graphics",
+        "label": "MISC",
+        "start": 2051,
+        "end": 2079
+      },
+      {
+        "text": "TOG",
+        "label": "ORG",
+        "start": 2081,
+        "end": 2084
+      },
+      {
+        "text": "Issue 6",
+        "label": "MISC",
+        "start": 2137,
+        "end": 2144
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Beeler",
+        "Beeler T. Model-based Teeth Reconstruction",
+        "Bradley D",
+        "Chenglei Wu",
+        "De News",
+        "Garrido P",
+        "Gross M",
+        "Haare",
+        "Wu C"
+      ],
+      "ORG": [
+        "Disney Research",
+        "ETH Zürich",
+        "ETH-Software",
+        "Max-Planck Institut",
+        "TOG",
+        "Zähne"
+      ],
+      "LOCATION": [
+        "China",
+        "Kinderschuhen",
+        "Macao",
+        "Saarbrücken",
+        "Scannens",
+        "Scanner",
+        "Theobalt C"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ACM Transactions on Graphics",
+        "Computer Graphics Lab",
+        "Issue 6",
+        "Natuerlichem",
+        "SIGGRAPH Asia 2016",
+        "Videos",
+        "Zollhöfer M",
+        "photogrammetrische"
+      ]
+    },
+    "entity_counts": {
+      "Disney Research": 2,
+      "Beeler": 2,
+      "De News": 1,
+      "Natuerlichem": 1,
+      "Haare": 1,
+      "Kinderschuhen": 1,
+      "Chenglei Wu": 1,
+      "Computer Graphics Lab": 1,
+      "ETH Zürich": 1,
+      "Max-Planck Institut": 1,
+      "Saarbrücken": 1,
+      "SIGGRAPH Asia 2016": 1,
+      "Macao": 1,
+      "China": 1,
+      "Zähne": 1,
+      "Videos": 1,
+      "photogrammetrische": 1,
+      "Scanner": 1,
+      "Scannens": 1,
+      "ETH-Software": 1
+    },
+    "total_entities": 32,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "digitale-zaehne-nach-natuerlichem-vorbild.md",
+      "title": "De News Events/2017/02/digitale Zaehne nach Natuerlichem Vorbild",
+      "language": "de",
+      "source_path": "de_news_events/2017/02/digitale-zaehne-nach-natuerlichem-vorbild.html"
+    },
+    "temporal": {
+      "publication_date": "2017-02",
+      "mentioned_years": [
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Beeler",
+        "Beeler T. Model-based Teeth Reconstruction",
+        "Bradley D",
+        "Chenglei Wu",
+        "De News",
+        "Garrido P",
+        "Gross M",
+        "Haare",
+        "Wu C"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "ACM Transactions on Graphics",
+        "Computer Graphics Lab",
+        "Issue 6",
+        "Natuerlichem",
+        "SIGGRAPH Asia 2016",
+        "Videos",
+        "Zollhöfer M",
+        "photogrammetrische"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Wu C",
+        "Max-Planck",
+        "Dieses Programm",
+        "Als Erstes",
+        "Teeth Reconstruction",
+        "Garrido P",
+        "SIGGRAPH Asia",
+        "Computer Graphics",
+        "Theobalt C",
+        "Programm Gebisse",
+        "Beide Prozeduren",
+        "ACM Transactions",
+        "Gross M",
+        "Natuerlichem Vorbild",
+        "Beeler T",
+        "Dieser Ansatz",
+        "Bradley D",
+        "Chenglei Wu",
+        "Disney Research",
+        "ACM SIGGRAPH",
+        "ETH-Software",
+        "Als Grundlage",
+        "Die Software",
+        "Projektkoordinator Thabo",
+        "De News",
+        "Eine Gruppe"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Disney Research",
+        "ETH Zürich",
+        "ETH-Software",
+        "Max-Planck Institut",
+        "TOG",
+        "Zähne"
+      ],
+      "locations": [
+        "China",
+        "Kinderschuhen",
+        "Macao",
+        "Saarbrücken",
+        "Scannens",
+        "Scanner",
+        "Theobalt C"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Disney Research",
+        "Beeler",
+        "De News",
+        "Natuerlichem",
+        "Haare",
+        "Kinderschuhen",
+        "Chenglei Wu",
+        "Computer Graphics Lab",
+        "ETH Zürich",
+        "Max-Planck Institut"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Digitalfoto statt Gips",
+          "Digitalfoto statt Gips",
+          "Literaturhinweis"
+        ],
+        "content_length": 3943
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Chenglei Wu",
+        "Disney Research",
+        "Max-Planck Institut",
+        "Garrido P",
+        "Gross M",
+        "ETH-Software",
+        "TOG",
+        "EU",
+        "Beeler",
+        "2017",
+        "2016",
+        "Bradley D",
+        "ETH Zürich",
+        "Beeler T. Model-based Teeth Reconstruction",
+        "De News",
+        "Wu C",
+        "Zähne",
+        "Haare"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Natuerlichem",
+        "Computer Graphics Lab",
+        "who",
+        "ACM Transactions on Graphics",
+        "Videos",
+        "what",
+        "how",
+        "SIGGRAPH Asia 2016",
+        "Issue 6",
+        "computer_science",
+        "photogrammetrische",
+        "Zollhöfer M",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

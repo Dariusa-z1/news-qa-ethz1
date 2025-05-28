@@ -1,0 +1,565 @@
+{
+  "filename": "michelangelos-david-shrunk-to-millimeter-size.md",
+  "original_filename": "michelangelos-david-shrunk-to-millimeter-size.html",
+  "source_path": "en_news_events/2019/12/michelangelos-david-shrunk-to-millimeter-size.html",
+  "date": "2019-12",
+  "title": "Michelangelos David Shrunk To Millimeter Size",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Making complicated geometries printable",
+      "text": "There he is, standing upon his pedestal: David by Michelangelo. A world-famous statue that nearly every child can recognise. But this David is just 1 millimeter tall, pedestal included, and is made not of marble like the 5.17-meter original, but of pure copper.\n\nIt was created using 3D printing by Giorgio Ercolano from Exaddon, an offshoot of ETH spin-off Cytosurge, together with the team led by ETH Professor Tomaso Zambelli from the Laboratory of Biosensors and Bioelectronics. Zambelli and his team developed the 3D technique a few years ago. Scientists can use it to create metal structures at the nanometer and micrometer scale.\n\nThe core component of the process is a micropipette coupled to a cantilever; this makes it possible to monitor the force with which the point of the pipette touches the substrate. With this assembly, the researchers can electrochemically deposit dissolved metals onto an electrically conductive substrate with a high degree of precision. Thanks to the optical force measurement that automates the process, they can build minuscule metal structures layer by layer. Exaddon adopted this micrometal printing method and improved on it, particularly as regards its speed."
+    },
+    {
+      "heading": "Making complicated geometries printable",
+      "text": "Ercolano has now printed this micro-David to highlight the technology’s potential. Prior to that, the researchers had mostly created tiny columns or coils. “However, the process allows us to print structures or geometries of all levels of complexity,” Ercolano says. The sculpture was printed in one go, without supports or templates, and didn’t require any firing or tempering. Ercolano and his colleagues have just published their results in the journal Micromachines .\n\nThe data for the David sculpture is freely available on the internet. “I could even have printed the room that the statue is standing in – the data includes that as well!” says Ercolano with a laugh. But he chose to adjust the data set so he could reproduce David without the exhibition room."
+    },
+    {
+      "heading": "Lower size limit set by resolution",
+      "text": "Ercolano printed David in two sizes: first as a sculpture just 1 millimeter high, and then one ten times smaller. “The smaller figure is only as tall as the pedestal of the larger one,” he says. But with structures that small, achieving the required resolution becomes problematic. Printed metallic micro-objects typically starts at 1 micrometer (μm), and for more complex and detailed objects, sizes range from 100 μm to 1 mm. In terms of time, too, the 1 mm model is a world away from the one that is ten times smaller: the device needed 30 hours to create the “big” David but just 20 minutes for the smaller version.\n\nTheoretically, the system can print objects up to 5 mm in size, but the printer cartridge contains only a microliter of “ink” – just about enough for manufacturing the larger David. But it is also enough “ink” to print hundreds or even thousands of tiny objects, which represents the real strength of the process. The principle works\n\nZambelli is very pleased with the result. “We’re thrilled that a technology from our research lab has made its way into practical application,” the ETH professor says, continuing: “An independent group was able to adopt our 3D printing technology and even improve upon it – which shows that it really works.”\n\nThe printing process is of interest first and foremost to the electronics industry. With this method, manufacturers could connect computer chips together or precisely repair microelectronics systems. Although other metals can be printed, such as platinum, gold, nickel or silver, copper is in highest demand. “Nine out of ten enquiries are about copper,” Ercolano says.\n\nThis project is supported by Innosuisse, the Swiss Innovation Agency.\n\nErcolano G, van Nisselroy C, Merle T, Vörös J, Momotenko D, Koelmans WW, Zambelli T. Additive manufacturing of sub-micron to sub-mm metal structures with hollow AFM cantilevers. Micromachines 2020, 11(1), 6; https://doi.org/10.3390/mi11010006 (registering DOI), open access - 18 Dec 2019."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "michelangelos David Shrunk",
+        "label": "PERSON",
+        "start": 23,
+        "end": 49
+      },
+      {
+        "text": "David",
+        "label": "PERSON",
+        "start": 41,
+        "end": 46
+      },
+      {
+        "text": "Michelangelo",
+        "label": "PERSON",
+        "start": 50,
+        "end": 62
+      },
+      {
+        "text": "David",
+        "label": "PERSON",
+        "start": 134,
+        "end": 139
+      },
+      {
+        "text": "5.17-meter",
+        "label": "QUANTITY",
+        "start": 221,
+        "end": 231
+      },
+      {
+        "text": "Giorgio Ercolano",
+        "label": "PERSON",
+        "start": 298,
+        "end": 314
+      },
+      {
+        "text": "Exaddon",
+        "label": "GPE",
+        "start": 320,
+        "end": 327
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 344,
+        "end": 347
+      },
+      {
+        "text": "Cytosurge",
+        "label": "PRODUCT",
+        "start": 357,
+        "end": 366
+      },
+      {
+        "text": "ETH Professor",
+        "label": "ORG",
+        "start": 398,
+        "end": 411
+      },
+      {
+        "text": "Tomaso Zambelli",
+        "label": "PERSON",
+        "start": 412,
+        "end": 427
+      },
+      {
+        "text": "the Laboratory of Biosensors and Bioelectronics",
+        "label": "ORG",
+        "start": 433,
+        "end": 480
+      },
+      {
+        "text": "Zambelli",
+        "label": "PERSON",
+        "start": 482,
+        "end": 490
+      },
+      {
+        "text": "3D",
+        "label": "ORG",
+        "start": 518,
+        "end": 520
+      },
+      {
+        "text": "a few years ago",
+        "label": "DATE",
+        "start": 531,
+        "end": 546
+      },
+      {
+        "text": "Exaddon",
+        "label": "ORG",
+        "start": 1100,
+        "end": 1107
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 296,
+        "end": 299
+      },
+      {
+        "text": "Micromachines",
+        "label": "ORG",
+        "start": 456,
+        "end": 469
+      },
+      {
+        "text": "David",
+        "label": "PERSON",
+        "start": 489,
+        "end": 494
+      },
+      {
+        "text": "David",
+        "label": "PERSON",
+        "start": 730,
+        "end": 735
+      },
+      {
+        "text": "David",
+        "label": "PERSON",
+        "start": 17,
+        "end": 22
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 37,
+        "end": 42
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 95,
+        "end": 98
+      },
+      {
+        "text": "100 μm to 1 mm",
+        "label": "QUANTITY",
+        "start": 412,
+        "end": 426
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 503,
+        "end": 506
+      },
+      {
+        "text": "30 hours",
+        "label": "TIME",
+        "start": 540,
+        "end": 548
+      },
+      {
+        "text": "David",
+        "label": "PERSON",
+        "start": 569,
+        "end": 574
+      },
+      {
+        "text": "just 20 minutes",
+        "label": "TIME",
+        "start": 579,
+        "end": 594
+      },
+      {
+        "text": "5 mm",
+        "label": "QUANTITY",
+        "start": 670,
+        "end": 674
+      },
+      {
+        "text": "David",
+        "label": "PERSON",
+        "start": 795,
+        "end": 800
+      },
+      {
+        "text": "hundreds",
+        "label": "CARDINAL",
+        "start": 839,
+        "end": 847
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 856,
+        "end": 865
+      },
+      {
+        "text": "Zambelli",
+        "label": "PERSON",
+        "start": 954,
+        "end": 962
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1102,
+        "end": 1105
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1299,
+        "end": 1304
+      },
+      {
+        "text": "Nine",
+        "label": "CARDINAL",
+        "start": 1573,
+        "end": 1577
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 1585,
+        "end": 1588
+      },
+      {
+        "text": "Innosuisse",
+        "label": "ORG",
+        "start": 1662,
+        "end": 1672
+      },
+      {
+        "text": "the Swiss Innovation Agency",
+        "label": "ORG",
+        "start": 1674,
+        "end": 1701
+      },
+      {
+        "text": "van Nisselroy C",
+        "label": "PERSON",
+        "start": 1715,
+        "end": 1730
+      },
+      {
+        "text": "Merle",
+        "label": "PERSON",
+        "start": 1732,
+        "end": 1737
+      },
+      {
+        "text": "Koelmans",
+        "label": "NORP",
+        "start": 1763,
+        "end": 1771
+      },
+      {
+        "text": "Zambelli T. Additive",
+        "label": "PERSON",
+        "start": 1776,
+        "end": 1796
+      },
+      {
+        "text": "AFM",
+        "label": "ORG",
+        "start": 1864,
+        "end": 1867
+      },
+      {
+        "text": "11(1",
+        "label": "CARDINAL",
+        "start": 1901,
+        "end": 1905
+      },
+      {
+        "text": "Dec 2019",
+        "label": "DATE",
+        "start": 1982,
+        "end": 1990
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "David",
+        "Giorgio Ercolano",
+        "Merle",
+        "Michelangelo",
+        "Tomaso Zambelli",
+        "Zambelli",
+        "Zambelli T. Additive",
+        "michelangelos David Shrunk",
+        "van Nisselroy C"
+      ],
+      "ORG": [
+        "3D",
+        "AFM",
+        "ETH",
+        "ETH Professor",
+        "Exaddon",
+        "Innosuisse",
+        "Micromachines",
+        "the Laboratory of Biosensors and Bioelectronics",
+        "the Swiss Innovation Agency"
+      ],
+      "LOCATION": [
+        "Exaddon"
+      ],
+      "DATE": [
+        "30 hours",
+        "Dec 2019",
+        "a few years ago",
+        "just 20 minutes"
+      ],
+      "MISC": [
+        "100 μm to 1 mm",
+        "11(1",
+        "5 mm",
+        "5.17-meter",
+        "Cytosurge",
+        "Koelmans",
+        "Nine",
+        "first",
+        "hundreds",
+        "one",
+        "ten",
+        "thousands",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "David": 7,
+      "ten": 3,
+      "Exaddon": 2,
+      "ETH": 2,
+      "Zambelli": 2,
+      "first": 2,
+      "michelangelos David Shrunk": 1,
+      "Michelangelo": 1,
+      "5.17-meter": 1,
+      "Giorgio Ercolano": 1,
+      "Cytosurge": 1,
+      "ETH Professor": 1,
+      "Tomaso Zambelli": 1,
+      "the Laboratory of Biosensors and Bioelectronics": 1,
+      "3D": 1,
+      "a few years ago": 1,
+      "one": 1,
+      "Micromachines": 1,
+      "two": 1,
+      "100 μm to 1 mm": 1
+    },
+    "total_entities": 47,
+    "unique_entities": 35
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "michelangelos-david-shrunk-to-millimeter-size.md",
+      "title": "En News Events/2019/12/michelangelos David Shrunk To Millimeter Size",
+      "language": "en",
+      "source_path": "en_news_events/2019/12/michelangelos-david-shrunk-to-millimeter-size.html"
+    },
+    "temporal": {
+      "publication_date": "2019-12",
+      "mentioned_years": [
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "David",
+        "Giorgio Ercolano",
+        "Merle",
+        "Michelangelo",
+        "Tomaso Zambelli",
+        "Zambelli",
+        "Zambelli T. Additive",
+        "michelangelos David Shrunk",
+        "van Nisselroy C"
+      ],
+      "people_with_roles": {
+        "Giorgio Ercolano": [
+          "professor"
+        ],
+        "Tomaso Zambelli": [
+          "Professor",
+          "professor"
+        ],
+        "Zambelli": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "100 μm to 1 mm",
+        "11(1",
+        "5 mm",
+        "5.17-meter",
+        "Cytosurge",
+        "Koelmans",
+        "Nine",
+        "first",
+        "hundreds",
+        "thousands"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Tomaso Zambelli",
+        "Swiss Innovation",
+        "Merle T",
+        "Ercolano G",
+        "Giorgio Ercolano",
+        "En News",
+        "Nisselroy C",
+        "Size There",
+        "Momotenko D",
+        "ETH Professor",
+        "To Millimeter",
+        "David Shrunk",
+        "Koelmans WW",
+        "Zambelli T"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "3D",
+        "AFM",
+        "ETH",
+        "ETH Professor",
+        "Exaddon",
+        "Innosuisse",
+        "Micromachines",
+        "the Laboratory of Biosensors and Bioelectronics",
+        "the Swiss Innovation Agency"
+      ],
+      "locations": [
+        "Exaddon"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "David",
+        "ten",
+        "Exaddon",
+        "ETH",
+        "Zambelli",
+        "first",
+        "michelangelos David Shrunk",
+        "Michelangelo",
+        "5.17-meter",
+        "Giorgio Ercolano"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Making complicated geometries printable",
+          "Making complicated geometries printable",
+          "Lower size limit set by resolution"
+        ],
+        "content_length": 4036
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Merle",
+        "Giorgio Ercolano",
+        "2020",
+        "3D",
+        "van Nisselroy C",
+        "Michelangelo",
+        "ERC",
+        "the Swiss Innovation Agency",
+        "Tomaso Zambelli",
+        "2019",
+        "ETH Professor",
+        "David",
+        "michelangelos David Shrunk",
+        "Innosuisse",
+        "Zambelli",
+        "Zambelli T. Additive",
+        "the Laboratory of Biosensors and Bioelectronics",
+        "AFM",
+        "Exaddon",
+        "Micromachines"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "5.17-meter",
+        "11(1",
+        "5 mm",
+        "who",
+        "thousands",
+        "Koelmans",
+        "chemistry",
+        "hundreds",
+        "100 μm to 1 mm",
+        "Cytosurge",
+        "what",
+        "how",
+        "Nine",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Giorgio Ercolano_has_role_professor",
+        "Tomaso Zambelli_has_role_Professor",
+        "Tomaso Zambelli_has_role_professor",
+        "Zambelli_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

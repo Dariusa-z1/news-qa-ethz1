@@ -1,0 +1,337 @@
+{
+  "filename": "discovery-semester-for-refugees.md",
+  "original_filename": "discovery-semester-for-refugees.html",
+  "source_path": "en_internal/2016/08/discovery-semester-for-refugees.html",
+  "date": "2016-08",
+  "title": "Discovery Semester For Refugees",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Attending lectures at ETH",
+      "text": "The ‘Discovery semester for refugees’ is aimed at asylum seekers and refugees from crisis regions such as Eritrea, Somalia, Afghanistan and Syria, who have started or completed a degree in a technical or scientific field in their home country.\n\nThe programme is designed to offer the refugees an insight into the requirements and scope of an ETH course. The project is being run by the Association of Students at the ETH ( VSETH ) with support from the ETH Executive Board ."
+    },
+    {
+      "heading": "Attending lectures at ETH",
+      "text": "The refugees can attend certain lectures at ETH Zurich free of charge for a semester. They will be supported by student mentors from the same subject area.\n\nTo qualify for the programme, refugees must have an interest in technology and science, a sound knowledge of German and/or English (level B1/B2, cf. Common European Framework of Reference for Languages: Learning, Teaching, Assessment CEFR ), and be living in the Zurich region with a B, F or N permit (short-term or provisionally admitted foreigners and asylum seekers).\n\nThe refugees’ point of contact is the International Student Support office . In addition, ETH Zurich has made contact with regional coordination and counselling offices for asylum seekers, and has informed them about the discovery semester (see Information for Refugees ).\n\nOn a national level, the umbrella organisations for universities and students, swissuniversities and the Association of Swiss Student Bodies VSS , are also focusing on university access for refugees."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "Registration for the discovery semester\n\nAsylum seekers and refugees who are interested in the discovery semester can register online. The registration deadline is 19 September 2016 (semester start date).\n\nETH students who are interested in mentoring can email VSETH at or see the website https://vseth.ethz.ch/language/en/discovery-semester-for-refugees/ for more information."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Discovery",
+        "label": "PRODUCT",
+        "start": 5,
+        "end": 14
+      },
+      {
+        "text": "Eritrea",
+        "label": "GPE",
+        "start": 106,
+        "end": 113
+      },
+      {
+        "text": "Somalia",
+        "label": "GPE",
+        "start": 115,
+        "end": 122
+      },
+      {
+        "text": "Afghanistan",
+        "label": "GPE",
+        "start": 124,
+        "end": 135
+      },
+      {
+        "text": "Syria",
+        "label": "GPE",
+        "start": 140,
+        "end": 145
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 341,
+        "end": 344
+      },
+      {
+        "text": "the Association of Students",
+        "label": "ORG",
+        "start": 381,
+        "end": 408
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 416,
+        "end": 419
+      },
+      {
+        "text": "ETH Executive Board",
+        "label": "ORG",
+        "start": 452,
+        "end": 471
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 44,
+        "end": 54
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 265,
+        "end": 271
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 279,
+        "end": 286
+      },
+      {
+        "text": "Common European Framework",
+        "label": "PERSON",
+        "start": 305,
+        "end": 330
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 419,
+        "end": 425
+      },
+      {
+        "text": "the International Student Support",
+        "label": "ORG",
+        "start": 561,
+        "end": 594
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 617,
+        "end": 627
+      },
+      {
+        "text": "the Association of Swiss Student Bodies VSS",
+        "label": "ORG",
+        "start": 901,
+        "end": 944
+      },
+      {
+        "text": "Asylum",
+        "label": "ORG",
+        "start": 40,
+        "end": 46
+      },
+      {
+        "text": "19 September 2016",
+        "label": "DATE",
+        "start": 163,
+        "end": 180
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 204,
+        "end": 207
+      },
+      {
+        "text": "https://vseth.ethz.ch/language/en/discovery-semester-for-refugees/",
+        "label": "PERSON",
+        "start": 287,
+        "end": 353
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Common European Framework",
+        "ETH Zurich",
+        "https://vseth.ethz.ch/language/en/discovery-semester-for-refugees/"
+      ],
+      "ORG": [
+        "Asylum",
+        "ETH",
+        "ETH Executive Board",
+        "ETH Zurich",
+        "the Association of Students",
+        "the Association of Swiss Student Bodies VSS",
+        "the International Student Support"
+      ],
+      "LOCATION": [
+        "Afghanistan",
+        "Eritrea",
+        "Somalia",
+        "Syria",
+        "Zurich"
+      ],
+      "DATE": [
+        "19 September 2016"
+      ],
+      "MISC": [
+        "Discovery",
+        "English",
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "ETH Zurich": 2,
+      "Discovery": 1,
+      "Eritrea": 1,
+      "Somalia": 1,
+      "Afghanistan": 1,
+      "Syria": 1,
+      "the Association of Students": 1,
+      "ETH Executive Board": 1,
+      "German": 1,
+      "English": 1,
+      "Common European Framework": 1,
+      "Zurich": 1,
+      "the International Student Support": 1,
+      "the Association of Swiss Student Bodies VSS": 1,
+      "Asylum": 1,
+      "19 September 2016": 1,
+      "https://vseth.ethz.ch/language/en/discovery-semester-for-refugees/": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "discovery-semester-for-refugees.md",
+      "title": "En Internal/2016/08/discovery Semester For Refugees",
+      "language": "en",
+      "source_path": "en_internal/2016/08/discovery-semester-for-refugees.html"
+    },
+    "temporal": {
+      "publication_date": "2016-08",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Common European Framework",
+        "ETH Zurich",
+        "https://vseth.ethz.ch/language/en/discovery-semester-for-refugees/"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Discovery",
+        "English",
+        "German"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Assessment CEFR",
+        "Refugees The",
+        "Semester For",
+        "Swiss Student",
+        "En Internal",
+        "Bodies VSS",
+        "International Student",
+        "ETH Zurich",
+        "Common European",
+        "ETH Executive"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Asylum",
+        "ETH",
+        "ETH Executive Board",
+        "ETH Zurich",
+        "the Association of Students",
+        "the Association of Swiss Student Bodies VSS",
+        "the International Student Support"
+      ],
+      "locations": [
+        "Afghanistan",
+        "Eritrea",
+        "Somalia",
+        "Syria",
+        "Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Zurich",
+        "Discovery",
+        "Eritrea",
+        "Somalia",
+        "Afghanistan",
+        "Syria",
+        "the Association of Students",
+        "ETH Executive Board",
+        "German"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Attending lectures at ETH",
+          "Attending lectures at ETH",
+          "Staffnet"
+        ],
+        "content_length": 1907
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the Association of Students",
+        "the Association of Swiss Student Bodies VSS",
+        "ETH Executive Board",
+        "Common European Framework",
+        "EU",
+        "2016",
+        "https://vseth.ethz.ch/language/en/discovery-semester-for-refugees/",
+        "ETH Zurich",
+        "the International Student Support",
+        "Asylum"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Discovery",
+        "who",
+        "English",
+        "what",
+        "German",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

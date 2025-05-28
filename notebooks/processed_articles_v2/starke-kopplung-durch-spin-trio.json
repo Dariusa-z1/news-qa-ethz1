@@ -1,0 +1,564 @@
+{
+  "filename": "starke-kopplung-durch-spin-trio.md",
+  "original_filename": "starke-kopplung-durch-spin-trio.html",
+  "source_path": "de_news_events/2018/07/starke-kopplung-durch-spin-trio.html",
+  "date": "2018-07",
+  "title": "Starke Kopplung Durch Spin Trio",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Qubits mit Ladung oder Spin",
+      "text": "Quantencomputer rechnen mit Quanten-Bits oder «Qubits», also Quantenzuständen beispielsweise von Atomen oder Elektronen, die gleichzeitig die logischen Werte «0» und «1» annehmen können. Um viele solcher Qubits zu einem leistungsstarken Quantenrechner zusammenzuschliessen, muss man sie über Entfernungen von Millimetern oder gar mehreren Metern miteinander koppeln. Dies kann zum Beispiel, ganz ähnlich wie bei einer Radioantenne, über die Ladungsverschiebung durch eine elektromagnetische Welle erreicht werden. Allerdings setzt eine solche Kopplung das Qubit auch störenden Einflüssen von unerwünschten elektrischen Feldern aus, worunter die Qualität der logischen Qubit-Operationen stark leidet.\n\nForschende mehrerer Professuren der ETH Zürich haben nun mit Unterstützung durch theoretische Physiker der Universität von Sherbrooke in Kanada gezeigt, wie man dieses Problem umgehen kann. Dazu fanden sie einen Weg, um ein Mikrowellen-Photon an ein Spin-Qubit in einem Quantenpunkt zu koppeln."
+    },
+    {
+      "heading": "Qubits mit Ladung oder Spin",
+      "text": "In Quantenpunkten fängt man zunächst Elektronen in nur wenige Nanometer grossen Halbleiterstrukturen ein, die auf weniger als ein Grad über dem absoluten Nullpunkt abgekühlt werden. Die logischen Werte 0 und 1 können nun auf zweierlei Weise realisiert werden. Entweder man definiert ein Qubit dadurch, dass sich das Elektron auf der linken oder rechten Seite eines doppelten Quantenpunktes befindet, oder über den Spin des Elektrons, der nach oben oder unten zeigen kann.\n\nIm ersten Fall spricht man von einem Ladungs-Qubit, das durch die elektrische Ladungsverschiebung stark an elektromagnetische Wellen koppelt. Ein Spin-Qubit dagegen kann man sich als winzige Kompassnadel vorstellen, die nach oben oder unten zeigt. Wie eine Kompassnadel ist der Spin magnetisch und koppelt daher nicht an elektrische, sondern an magnetische Felder. Die Kopplung des Spin-Qubits an den magnetischen Anteil von elektromagnetischen Wellen ist dabei viel schwächer als diejenige eines Ladungs-Qubits an den elektrischen Anteil."
+    },
+    {
+      "heading": "Drei Spins für stärkere Kopplung",
+      "text": "Dadurch ist ein Spin-Qubit zwar einerseits weniger störanfällig und behält seine Kohärenz (auf der die Funktionsweise des Quantencomputers basiert) über einen längeren Zeitraum. Andererseits ist es aber auch deutlich schwieriger, Spin-Qubits mittels Photonen über lange Distanzen aneinander zu koppeln. Um dies trotzdem möglich zu machen, benutzt die Arbeitsgruppe einen Trick, wie Jonne Koski, Postdoktorand in der Gruppe von ETH-Professor Klaus Ensslin, erklärt: «Indem wir für die Realisierung des Qubits nicht einen, sondern gleich drei Spins verwenden, können wir die Vorteile eines Spin-Qubits mit denen eines Ladungs-Qubits verbinden.»\n\nIn der Praxis werden dafür auf einem Halbleiterchip drei Quantenpunkte hergestellt, die nahe beieinander liegen und mittels winziger Drähte durch angelegte Spannungen kontrolliert werden können. In jedem der Quantenpunkte können Elektronen mit nach oben oder unten ausgerichtetem Spin gefangen werden. Durch einen der Drähte ist das Spin-Trio zudem mit einem Mikrowellenresonator verbunden. Die Spannungen an den Quantenpunkten stellt man nun so ein, dass sich auf jedem der Quantenpunkte jeweils ein Elektron befindet und die Spins von zwei der Elektronen in die gleiche, der dritte dagegen in die entgegengesetzte Richtung zeigt."
+    },
+    {
+      "heading": "Ladungsverschiebung durch Tunneln",
+      "text": "Nach den Regeln der Quantenmechanik können die Elektronen zudem mit einer gewissen Wahrscheinlichkeit zwischen den Quantenpunkten hin und her tunneln. Dadurch kann es vorkommen, dass sich von den drei Elektronen zeitweise zwei in demselben Quantenpunkt befinden, wogegen einer leer bleibt. In dieser Konstellation ist die elektrische Ladung nun ungleich verteilt. Durch diese Ladungsverschiebung wiederum entsteht ein elektrischer Dipol, der stark an das elektrische Feld eines Mikrowellenphotons koppeln kann.\n\nDiese starke Kopplung konnten die ETH-Wissenschaftler durch eine Messung der Resonanzfrequenz des Mikrowellenresonators eindeutig nachweisen. Dabei beobachteten sie, wie sich die Resonanz des Resonators durch die Kopplung an das Spin-Trio aufspaltete. Aus den Daten konnten sie herleiten, dass die Kohärenz des Spin-Qubits über mehr als 10 Nanosekunden erhalten blieb."
+    },
+    {
+      "heading": "Spin-Trios für Quanten-Bus",
+      "text": "Die Forscher sind zuversichtlich, dass mit dieser Technik schon bald ein Übertragungsweg für Quanteninformation zwischen zwei Spin-Qubits (ein sogenannter Quanten-Bus) realisiert werden kann. «Dafür müssen wir zwei Spin-Trios an beiden Enden des Mikrowellenresonators platzieren und zeigen, dass die Qubits dann über ein Mikrowellenphoton miteinander gekoppelt sind», sagt der Erstautor der Studie Andreas Landig, Doktorand in Ensslins Gruppe. Damit wäre ein wichtiger Schritt in Richtung eines Netzwerks von räumlich verteilten Spin-Qubits getan. Zudem betonen die Forscher, dass sich ihre Methode problemlos auf andere Materialien wie zum Beispiel Graphen übertragen lässt und damit sehr vielseitig ist.\n\nDiese Arbeit wurde im Rahmen des Nationalen Forschungsschwerpunkts Quantum Science and Technology ( NCCR QSIT ) durchgeführt. Von der ETH Zürich waren daran Wissenschaftler der Professuren von Klaus Ensslin, Thomas Ihn, Werner Wegscheider und Andreas Wallraff beteiligt.\n\nLandig AJ, Koski JV, Scarlino P, Mendes UC, Blais A, Reichl C, Wegscheider W, Wallraff A, Ensslin K, Ihn T: Coherent spin–photon coupling using a resonant exchange qubit. Nature, 25. Juli 2018, doi: externe Seite 10.1038/s41586-018-0365-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Spin",
+        "label": "PER",
+        "start": 45,
+        "end": 49
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 736,
+        "end": 746
+      },
+      {
+        "text": "Universität von Sherbrooke",
+        "label": "ORG",
+        "start": 807,
+        "end": 833
+      },
+      {
+        "text": "Kanada",
+        "label": "LOC",
+        "start": 837,
+        "end": 843
+      },
+      {
+        "text": "Quantenpunkten",
+        "label": "LOC",
+        "start": 3,
+        "end": 17
+      },
+      {
+        "text": "Ladungsverschiebung",
+        "label": "ORG",
+        "start": 550,
+        "end": 569
+      },
+      {
+        "text": "Spin-Qubits",
+        "label": "MISC",
+        "start": 854,
+        "end": 865
+      },
+      {
+        "text": "Ladungs-Qubits",
+        "label": "MISC",
+        "start": 969,
+        "end": 983
+      },
+      {
+        "text": "Spin-Qubits",
+        "label": "MISC",
+        "start": 230,
+        "end": 241
+      },
+      {
+        "text": "Jonne Koski",
+        "label": "PER",
+        "start": 382,
+        "end": 393
+      },
+      {
+        "text": "ETH-Professor Klaus Ensslin",
+        "label": "PER",
+        "start": 427,
+        "end": 454
+      },
+      {
+        "text": "Ladungs-Qubits",
+        "label": "MISC",
+        "start": 616,
+        "end": 630
+      },
+      {
+        "text": "Spin-Trio",
+        "label": "PER",
+        "start": 976,
+        "end": 985
+      },
+      {
+        "text": "Spins",
+        "label": "LOC",
+        "start": 1170,
+        "end": 1175
+      },
+      {
+        "text": "ETH-Wissenschaftler",
+        "label": "MISC",
+        "start": 545,
+        "end": 564
+      },
+      {
+        "text": "Quanten-Bus",
+        "label": "MISC",
+        "start": 155,
+        "end": 166
+      },
+      {
+        "text": "Mikrowellenresonators",
+        "label": "LOC",
+        "start": 246,
+        "end": 267
+      },
+      {
+        "text": "Andreas Landig",
+        "label": "PER",
+        "start": 398,
+        "end": 412
+      },
+      {
+        "text": "Ensslins Gruppe",
+        "label": "ORG",
+        "start": 427,
+        "end": 442
+      },
+      {
+        "text": "Nationalen Forschungsschwerpunkts Quantum Science and Technology",
+        "label": "ORG",
+        "start": 739,
+        "end": 803
+      },
+      {
+        "text": "NCCR QSIT",
+        "label": "MISC",
+        "start": 806,
+        "end": 815
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 840,
+        "end": 850
+      },
+      {
+        "text": "Klaus Ensslin",
+        "label": "PER",
+        "start": 899,
+        "end": 912
+      },
+      {
+        "text": "Thomas Ihn",
+        "label": "PER",
+        "start": 914,
+        "end": 924
+      },
+      {
+        "text": "Werner Wegscheider",
+        "label": "PER",
+        "start": 926,
+        "end": 944
+      },
+      {
+        "text": "Andreas Wallraff",
+        "label": "PER",
+        "start": 949,
+        "end": 965
+      },
+      {
+        "text": "Landig AJ",
+        "label": "PER",
+        "start": 977,
+        "end": 986
+      },
+      {
+        "text": "Koski JV",
+        "label": "ORG",
+        "start": 988,
+        "end": 996
+      },
+      {
+        "text": "Scarlino P",
+        "label": "PER",
+        "start": 998,
+        "end": 1008
+      },
+      {
+        "text": "Mendes UC",
+        "label": "ORG",
+        "start": 1010,
+        "end": 1019
+      },
+      {
+        "text": "Blais A",
+        "label": "ORG",
+        "start": 1021,
+        "end": 1028
+      },
+      {
+        "text": "Reichl C",
+        "label": "PER",
+        "start": 1030,
+        "end": 1038
+      },
+      {
+        "text": "Wegscheider W",
+        "label": "PER",
+        "start": 1040,
+        "end": 1053
+      },
+      {
+        "text": "Wallraff A",
+        "label": "PER",
+        "start": 1055,
+        "end": 1065
+      },
+      {
+        "text": "Ensslin K",
+        "label": "PER",
+        "start": 1067,
+        "end": 1076
+      },
+      {
+        "text": "Ihn T",
+        "label": "MISC",
+        "start": 1078,
+        "end": 1083
+      },
+      {
+        "text": "Coherent spin–photon coupling using",
+        "label": "ORG",
+        "start": 1085,
+        "end": 1120
+      },
+      {
+        "text": "Nature",
+        "label": "MISC",
+        "start": 1148,
+        "end": 1154
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andreas Landig",
+        "Andreas Wallraff",
+        "De News",
+        "ETH-Professor Klaus Ensslin",
+        "Ensslin K",
+        "Jonne Koski",
+        "Klaus Ensslin",
+        "Landig AJ",
+        "Reichl C",
+        "Scarlino P",
+        "Spin",
+        "Spin-Trio",
+        "Thomas Ihn",
+        "Wallraff A",
+        "Wegscheider W",
+        "Werner Wegscheider"
+      ],
+      "ORG": [
+        "Blais A",
+        "Coherent spin–photon coupling using",
+        "ETH Zürich",
+        "Ensslins Gruppe",
+        "Koski JV",
+        "Ladungsverschiebung",
+        "Mendes UC",
+        "Nationalen Forschungsschwerpunkts Quantum Science and Technology",
+        "Universität von Sherbrooke"
+      ],
+      "LOCATION": [
+        "Kanada",
+        "Mikrowellenresonators",
+        "Quantenpunkten",
+        "Spins"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Wissenschaftler",
+        "Ihn T",
+        "Ladungs-Qubits",
+        "NCCR QSIT",
+        "Nature",
+        "Quanten-Bus",
+        "Spin-Qubits"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "Spin-Qubits": 2,
+      "Ladungs-Qubits": 2,
+      "De News": 1,
+      "Spin": 1,
+      "Universität von Sherbrooke": 1,
+      "Kanada": 1,
+      "Quantenpunkten": 1,
+      "Ladungsverschiebung": 1,
+      "Jonne Koski": 1,
+      "ETH-Professor Klaus Ensslin": 1,
+      "Spin-Trio": 1,
+      "Spins": 1,
+      "ETH-Wissenschaftler": 1,
+      "Quanten-Bus": 1,
+      "Mikrowellenresonators": 1,
+      "Andreas Landig": 1,
+      "Ensslins Gruppe": 1,
+      "Nationalen Forschungsschwerpunkts Quantum Science and Technology": 1,
+      "NCCR QSIT": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 36
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "starke-kopplung-durch-spin-trio.md",
+      "title": "De News Events/2018/07/starke Kopplung Durch Spin Trio",
+      "language": "de",
+      "source_path": "de_news_events/2018/07/starke-kopplung-durch-spin-trio.html"
+    },
+    "temporal": {
+      "publication_date": "2018-07",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Andreas Landig",
+        "Andreas Wallraff",
+        "De News",
+        "ETH-Professor Klaus Ensslin",
+        "Ensslin K",
+        "Jonne Koski",
+        "Klaus Ensslin",
+        "Landig AJ",
+        "Reichl C",
+        "Scarlino P",
+        "Spin",
+        "Spin-Trio",
+        "Thomas Ihn",
+        "Wallraff A",
+        "Wegscheider W",
+        "Werner Wegscheider"
+      ],
+      "people_with_roles": {
+        "ETH-Professor Klaus Ensslin": [
+          "professor"
+        ],
+        "Jonne Koski": [
+          "professor"
+        ],
+        "Klaus Ensslin": [
+          "Professor",
+          "professor"
+        ],
+        "Spin": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics"
+      ],
+      "research_topics": [
+        "ETH-Wissenschaftler",
+        "Ihn T",
+        "Ladungs-Qubits",
+        "NCCR QSIT",
+        "Nature",
+        "Quanten-Bus",
+        "Spin-Qubits"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Spin-Trios",
+        "Nationalen Forschungsschwerpunkts",
+        "Kopplung Durch",
+        "Koski JV",
+        "Quantum Science",
+        "Ladungs-Qubit",
+        "Ensslins Gruppe",
+        "NCCR QSIT",
+        "ETH-Professor",
+        "Wallraff A",
+        "In Quantenpunkten",
+        "Blais A",
+        "Beispiel Graphen",
+        "Diese Arbeit",
+        "Wegscheider W",
+        "Quanten-Bits",
+        "Spin Trio",
+        "Thomas Ihn",
+        "ETH-Wissenschaftler",
+        "Ladungs-Qubits",
+        "Ihn T",
+        "Spin-Qubits",
+        "Qubit-Operationen",
+        "Scarlino P",
+        "Klaus Ensslin",
+        "Jonne Koski",
+        "Reichl C",
+        "Quanten-Bus",
+        "Die Spannungen",
+        "Mendes UC",
+        "Ensslin K",
+        "Mikrowellen-Photon",
+        "Landig AJ",
+        "Spin-Qubit",
+        "Die Forscher",
+        "Studie Andreas",
+        "Andreas Wallraff",
+        "Die Kopplung",
+        "De News",
+        "Werner Wegscheider",
+        "Spin-Trio",
+        "Ein Spin"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Blais A",
+        "Coherent spin–photon coupling using",
+        "ETH Zürich",
+        "Ensslins Gruppe",
+        "Koski JV",
+        "Ladungsverschiebung",
+        "Mendes UC",
+        "Nationalen Forschungsschwerpunkts Quantum Science and Technology",
+        "Universität von Sherbrooke"
+      ],
+      "locations": [
+        "Kanada",
+        "Mikrowellenresonators",
+        "Quantenpunkten",
+        "Spins"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "Spin-Qubits",
+        "Ladungs-Qubits",
+        "De News",
+        "Spin",
+        "Universität von Sherbrooke",
+        "Kanada",
+        "Quantenpunkten",
+        "Ladungsverschiebung",
+        "Jonne Koski"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Qubits mit Ladung oder Spin",
+          "Qubits mit Ladung oder Spin",
+          "Drei Spins für stärkere Kopplung",
+          "Ladungsverschiebung durch Tunneln",
+          "Spin-Trios für Quanten-Bus"
+        ],
+        "content_length": 5438
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Koski JV",
+        "ETH-Professor Klaus Ensslin",
+        "Ensslins Gruppe",
+        "Nationalen Forschungsschwerpunkts Quantum Science and Technology",
+        "Wallraff A",
+        "Blais A",
+        "ERC",
+        "2018",
+        "Wegscheider W",
+        "Thomas Ihn",
+        "ETH Zürich",
+        "Coherent spin–photon coupling using",
+        "Scarlino P",
+        "Klaus Ensslin",
+        "Jonne Koski",
+        "Reichl C",
+        "EU",
+        "Andreas Landig",
+        "Ensslin K",
+        "Mendes UC",
+        "Ladungsverschiebung",
+        "Landig AJ",
+        "Andreas Wallraff",
+        "Werner Wegscheider",
+        "De News",
+        "Spin-Trio",
+        "Universität von Sherbrooke",
+        "Spin"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "Nature",
+        "who",
+        "Ihn T",
+        "ETH-Wissenschaftler",
+        "Ladungs-Qubits",
+        "NCCR QSIT",
+        "Quanten-Bus",
+        "Spin-Qubits",
+        "what",
+        "how",
+        "when"
+      ],
+      "graph_relations": [
+        "ETH-Professor Klaus Ensslin_has_role_professor",
+        "Jonne Koski_has_role_professor",
+        "Klaus Ensslin_has_role_Professor",
+        "Klaus Ensslin_has_role_professor",
+        "Spin_has_role_professor",
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

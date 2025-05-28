@@ -1,0 +1,88 @@
+{
+  "filename": "de_internal_2016_08_entsorgungswoche-betrieb.md",
+  "original_filename": "de_internal_2016_08_entsorgungswoche-betrieb.html",
+  "source_path": "de_internal/2016/08/entsorgungswoche-betrieb.html",
+  "date": "2016-08",
+  "title": "Entsorgungswoche Betrieb",
+  "language": "unknown",
+  "paragraphs": [],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/08/entsorgungswoche",
+        "label": "LOC",
+        "start": 0,
+        "end": 36
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2016/08/entsorgungswoche"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2016/08/entsorgungswoche": 1
+    },
+    "total_entities": 1,
+    "unique_entities": 1
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2016_08_entsorgungswoche-betrieb.md",
+      "title": "De Internal/2016/08/entsorgungswoche Betrieb",
+      "language": "unknown",
+      "source_path": "de_internal/2016/08/entsorgungswoche-betrieb.html"
+    },
+    "temporal": {
+      "publication_date": "2016-08",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "De Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2016/08/entsorgungswoche"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2016/08/entsorgungswoche"
+      ],
+      "document_structure": {
+        "total_sections": 0,
+        "section_titles": [],
+        "content_length": 45
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2016"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

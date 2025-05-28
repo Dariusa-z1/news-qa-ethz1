@@ -1,0 +1,264 @@
+{
+  "filename": "de_internal_2022_06_neuer-co-learning-space-in-der-gruenen-bibliothek.md",
+  "original_filename": "de_internal_2022_06_neuer-co-learning-space-in-der-gruenen-bibliothek.html",
+  "source_path": "de_internal/2022/06/neuer-co-learning-space-in-der-gruenen-bibliothek.html",
+  "date": "2022-06",
+  "title": "Neuer Co Learning Space In Der Gruenen Bibliothek",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Ein Tisch, eine Bank, ein Hocker, eine Tribüne oder alles gleichzeitig. Das modulare Möbelsystem PIXEL ergänzt seit Anfang Juni auf ca. 100 Quadratmetern die Lernumgebung in der Grünen Bibliothek optimal. Mit wenigen Handgriffen können Sie die handlichen Holzboxen umbauen. So passt sich der Raum Ihrem gerade benötigten Lern- oder Lehrsetting an, egal ob für individuelles Lernen, für eine Gruppenarbeit oder eine Veranstaltung mit bis zu 20 Personen. Besuchen Sie uns in der Grünen Bibliothek und lernen Sie den neuen Co-Learning-Space kennen!\n\nDiese Umgestaltung stellt einen weiteren Schritt im Paradigmenwechsel auf die Sicht der Anforderungen an Räume und Möbel an der ETH-Bibliothek dar. Lernumgebungen, die unterschiedlichen Lernanlässen gerecht werden können, werden an der ETH Zürich immer mehr an Bedeutung gewinnen. Haben Sie Rückfragen zum neuen Co-Learning-Space? Gerne steht Ihnen das Team Lernumgebungen via E-Mail zur Verfügung: ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/06/neuer",
+        "label": "LOC",
+        "start": 0,
+        "end": 25
+      },
+      {
+        "text": "Co Learning Space",
+        "label": "ORG",
+        "start": 26,
+        "end": 43
+      },
+      {
+        "text": "Gruenen Bibliothek",
+        "label": "LOC",
+        "start": 51,
+        "end": 69
+      },
+      {
+        "text": "Ein Tisch",
+        "label": "MISC",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Möbelsystem PIXEL",
+        "label": "ORG",
+        "start": 85,
+        "end": 102
+      },
+      {
+        "text": "Grünen Bibliothek",
+        "label": "LOC",
+        "start": 178,
+        "end": 195
+      },
+      {
+        "text": "Ihrem",
+        "label": "LOC",
+        "start": 297,
+        "end": 302
+      },
+      {
+        "text": "egal ob für individuelles Lernen",
+        "label": "ORG",
+        "start": 348,
+        "end": 380
+      },
+      {
+        "text": "Grünen Bibliothek",
+        "label": "LOC",
+        "start": 477,
+        "end": 494
+      },
+      {
+        "text": "Co-Learning-Space",
+        "label": "ORG",
+        "start": 520,
+        "end": 537
+      },
+      {
+        "text": "Paradigmenwechsel",
+        "label": "LOC",
+        "start": 598,
+        "end": 615
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 674,
+        "end": 688
+      },
+      {
+        "text": "Lernumgebungen",
+        "label": "PER",
+        "start": 694,
+        "end": 708
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 782,
+        "end": 792
+      },
+      {
+        "text": "Co-Learning-Space",
+        "label": "LOC",
+        "start": 858,
+        "end": 875
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Lernumgebungen"
+      ],
+      "ORG": [
+        "Co Learning Space",
+        "Co-Learning-Space",
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "Möbelsystem PIXEL",
+        "egal ob für individuelles Lernen"
+      ],
+      "LOCATION": [
+        "Co-Learning-Space",
+        "De Internal/2022/06/neuer",
+        "Gruenen Bibliothek",
+        "Grünen Bibliothek",
+        "Ihrem",
+        "Paradigmenwechsel"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Ein Tisch"
+      ]
+    },
+    "entity_counts": {
+      "Grünen Bibliothek": 2,
+      "Co-Learning-Space": 2,
+      "De Internal/2022/06/neuer": 1,
+      "Co Learning Space": 1,
+      "Gruenen Bibliothek": 1,
+      "Ein Tisch": 1,
+      "Möbelsystem PIXEL": 1,
+      "Ihrem": 1,
+      "egal ob für individuelles Lernen": 1,
+      "Paradigmenwechsel": 1,
+      "ETH-Bibliothek": 1,
+      "Lernumgebungen": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2022_06_neuer-co-learning-space-in-der-gruenen-bibliothek.md",
+      "title": "De Internal/2022/06/neuer Co Learning Space in der Gruenen Bibliothek",
+      "language": "de",
+      "source_path": "de_internal/2022/06/neuer-co-learning-space-in-der-gruenen-bibliothek.html"
+    },
+    "temporal": {
+      "publication_date": "2022-06",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Lernumgebungen"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Ein Tisch"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Gruenen Bibliothek",
+        "Co-Learning",
+        "Ein Tisch",
+        "ETH-Bibliothek",
+        "E-Mail",
+        "Team Lernumgebungen",
+        "Anfang Juni",
+        "De Internal",
+        "Raum Ihrem",
+        "Haben Sie",
+        "Besuchen Sie",
+        "Diese Umgestaltung",
+        "Co Learning"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Co Learning Space",
+        "Co-Learning-Space",
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "Möbelsystem PIXEL",
+        "egal ob für individuelles Lernen"
+      ],
+      "locations": [
+        "Co-Learning-Space",
+        "De Internal/2022/06/neuer",
+        "Gruenen Bibliothek",
+        "Grünen Bibliothek",
+        "Ihrem",
+        "Paradigmenwechsel"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Grünen Bibliothek",
+        "Co-Learning-Space",
+        "De Internal/2022/06/neuer",
+        "Co Learning Space",
+        "Gruenen Bibliothek",
+        "Ein Tisch",
+        "Möbelsystem PIXEL",
+        "Ihrem",
+        "egal ob für individuelles Lernen",
+        "Paradigmenwechsel"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1017
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "Lernumgebungen",
+        "Co Learning Space",
+        "EU",
+        "Co-Learning-Space",
+        "ETH Zürich",
+        "2022",
+        "Möbelsystem PIXEL",
+        "egal ob für individuelles Lernen"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Ein Tisch",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

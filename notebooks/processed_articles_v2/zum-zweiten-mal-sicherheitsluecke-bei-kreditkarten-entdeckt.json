@@ -1,0 +1,447 @@
+{
+  "filename": "zum-zweiten-mal-sicherheitsluecke-bei-kreditkarten-entdeckt.md",
+  "original_filename": "zum-zweiten-mal-sicherheitsluecke-bei-kreditkarten-entdeckt.html",
+  "source_path": "de_news_events/2021/02/zum-zweiten-mal-sicherheitsluecke-bei-kreditkarten-entdeckt.html",
+  "date": "2021-02",
+  "title": "Zum Zweiten Mal Sicherheitsluecke Bei Kreditkarten Entdeckt",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Sicherheitsschranke doppelt überlistet",
+      "text": "Das kontaktlose Bezahlen mit Kredit- und Debitkarten geht schnell und einfach – und bietet sich in Pandemiezeiten besonders an. Ab einem bestimmten Betrag, in der Schweiz meist 80 Franken, ist zur Sicherheit die Eingabe eines PIN-Codes fällig. Zumindest in der Theorie. Wie drei Forscher der Information Security Group der ETH Zürich zeigen konnten, lässt sich diese Sicherheitsschranke bei bestimmten Karten jedoch überlisten. Im Sommer 2020 dokumentierten sie erstmals am Beispiel von Visa-Karten, dass sich der PIN-Code überwinden lässt ( siehe ETH-News vom 1.9.2020 ). Nun geben die Forscher bekannt, dass das auch bei anderen Typen von Bezahlkarten, namentlich Mastercard und Maestro, möglich sei.\n\nDie von den Forschern genutzte Methode orientiert sich unter anderem am «man-in-the-middle»-Prinzip. Dabei manipuliert der Angreifer den Datenaustausch zwischen zwei Kommunikationspartnern, in diesem Fall zwischen Karte und Karten-Terminal. Die Forscher brauchten dafür eine eigens kreierte Android-App und zwei NFC-fähige Mobiltelefone. Die App signalisierte dem Karten-Terminal in unwahrer Weise, dass erstens kein PIN nötig sei, und dass zweitens der Karteninhaber verifiziert wurde. In einem ersten Schritt funktionierte die Methode nur bei Visa-Karten, da andere Anbieter ein anderes Protokoll verwenden (ein Protokoll regelt die Datenübertragung).\n\nDie Idee, die der zweiten erfolgreichen PIN-Code-Überlistung zugrundliegt, wirkt auf den ersten Blick simpel: «Unsere Methode lässt den Terminal annehmen, dass eine Mastercard-Karte eine VISA-Karte sei», erzählt Jorge Toro, Mitarbeiter bei der Professur für Informationssicherheit und einer der Autoren des Papers. Das sei in der Realität deutlich komplexer als es klingt, fügt der Informatiker an. Zwei Sitzungen müssen gleichzeitig laufen, damit es gelingt. Mit dem Karten-Terminal wird eine Visa-Transaktion durchgeführt, während mit der Karte eine Mastercard-Transaktion läuft. Die Forscher wendeten diese Methode bei zwei Mastercard-Kreditkarten sowie zwei Maestro-Debitkarten von vier verschiedenen Banken an."
+    },
+    {
+      "heading": "EMV-Standard als Fehlerquelle",
+      "text": "Die Forscher haben umgehend nach ihrer Entdeckung mit Mastercard Kontakt aufgenommen. Sie konnten auch experimentell nachweisen, dass die von Mastercard getroffenen Vorkehrungen wirksam sind. «Der Austausch mit der Firma war angenehm und spannend», erzählt Jorge Toro. Mastercard passte die betreffenden Sicherheitsvorkehrungen an und bat die Forscher, die Attacke erneut zu probieren. Diesmal scheiterte sie. Das Paper mit der genauen Beschreibung der Methode werden die Forscher im August am Symposium «USENIX Security ‘21» vorstellen.\n\nDie geschilderten Sicherheitslücken bei kontaktlosen Bezahlkarten hängen vor allem mit dem sogenannten EMV-Standard zusammen, einem internationalen Protokollstandard, der diesen Karten zugrundliegt. Logische Fehler in diesem Regelwerk sind schwer auffindbar, nur schon wegen seiner schieren Länge von über 2'000 Seiten. Die ETH-Forscher betonen auf ihrer Projektwebsite, dass solche Systeme vermehrt automatisch geprüft werden müssen, da sie für Menschen zu komplex seien."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Zweiten Mal Sicherheitsluecke",
+        "label": "MISC",
+        "start": 27,
+        "end": 56
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 163,
+        "end": 170
+      },
+      {
+        "text": "80 Franken",
+        "label": "MISC",
+        "start": 177,
+        "end": 187
+      },
+      {
+        "text": "PIN-Codes",
+        "label": "MISC",
+        "start": 226,
+        "end": 235
+      },
+      {
+        "text": "Information Security Group",
+        "label": "ORG",
+        "start": 292,
+        "end": 318
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 323,
+        "end": 333
+      },
+      {
+        "text": "Visa-Karten",
+        "label": "MISC",
+        "start": 487,
+        "end": 498
+      },
+      {
+        "text": "PIN-Code",
+        "label": "LOC",
+        "start": 514,
+        "end": 522
+      },
+      {
+        "text": "ETH-News vom 1.9.2020",
+        "label": "MISC",
+        "start": 548,
+        "end": 569
+      },
+      {
+        "text": "Mastercard",
+        "label": "PER",
+        "start": 666,
+        "end": 676
+      },
+      {
+        "text": "Maestro",
+        "label": "PER",
+        "start": 681,
+        "end": 688
+      },
+      {
+        "text": "Forschern",
+        "label": "ORG",
+        "start": 715,
+        "end": 724
+      },
+      {
+        "text": "man-in-the-middle»-Prinzip",
+        "label": "ORG",
+        "start": 776,
+        "end": 802
+      },
+      {
+        "text": "Datenaustausch",
+        "label": "MISC",
+        "start": 840,
+        "end": 854
+      },
+      {
+        "text": "Karten-Terminal",
+        "label": "LOC",
+        "start": 927,
+        "end": 942
+      },
+      {
+        "text": "Android-App",
+        "label": "LOC",
+        "start": 994,
+        "end": 1005
+      },
+      {
+        "text": "Karten-Terminal",
+        "label": "LOC",
+        "start": 1067,
+        "end": 1082
+      },
+      {
+        "text": "PIN",
+        "label": "ORG",
+        "start": 1120,
+        "end": 1123
+      },
+      {
+        "text": "PIN-Code-Überlistung",
+        "label": "MISC",
+        "start": 1397,
+        "end": 1417
+      },
+      {
+        "text": "VISA-Karte",
+        "label": "MISC",
+        "start": 1544,
+        "end": 1554
+      },
+      {
+        "text": "Jorge Toro",
+        "label": "PER",
+        "start": 1569,
+        "end": 1579
+      },
+      {
+        "text": "Papers",
+        "label": "MISC",
+        "start": 1664,
+        "end": 1670
+      },
+      {
+        "text": "Karten-Terminal",
+        "label": "LOC",
+        "start": 1825,
+        "end": 1840
+      },
+      {
+        "text": "Visa-Transaktion",
+        "label": "MISC",
+        "start": 1851,
+        "end": 1867
+      },
+      {
+        "text": "Mastercard-Kreditkarten",
+        "label": "MISC",
+        "start": 1984,
+        "end": 2007
+      },
+      {
+        "text": "Mastercard Kontakt",
+        "label": "PER",
+        "start": 54,
+        "end": 72
+      },
+      {
+        "text": "Mastercard",
+        "label": "PER",
+        "start": 142,
+        "end": 152
+      },
+      {
+        "text": "Jorge Toro",
+        "label": "PER",
+        "start": 257,
+        "end": 267
+      },
+      {
+        "text": "Mastercard",
+        "label": "PER",
+        "start": 269,
+        "end": 279
+      },
+      {
+        "text": "Attacke",
+        "label": "PER",
+        "start": 357,
+        "end": 364
+      },
+      {
+        "text": "EMV-Standard",
+        "label": "MISC",
+        "start": 641,
+        "end": 653
+      },
+      {
+        "text": "Logische Fehler",
+        "label": "LOC",
+        "start": 737,
+        "end": 752
+      },
+      {
+        "text": "ETH-Forscher",
+        "label": "MISC",
+        "start": 862,
+        "end": 874
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Attacke",
+        "Jorge Toro",
+        "Maestro",
+        "Mastercard",
+        "Mastercard Kontakt"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Forschern",
+        "Information Security Group",
+        "PIN",
+        "man-in-the-middle»-Prinzip"
+      ],
+      "LOCATION": [
+        "Android-App",
+        "Karten-Terminal",
+        "Logische Fehler",
+        "PIN-Code",
+        "Schweiz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "80 Franken",
+        "Datenaustausch",
+        "EMV-Standard",
+        "ETH-Forscher",
+        "ETH-News vom 1.9.2020",
+        "Mastercard-Kreditkarten",
+        "PIN-Code-Überlistung",
+        "PIN-Codes",
+        "Papers",
+        "VISA-Karte",
+        "Visa-Karten",
+        "Visa-Transaktion",
+        "Zweiten Mal Sicherheitsluecke"
+      ]
+    },
+    "entity_counts": {
+      "Mastercard": 3,
+      "Karten-Terminal": 3,
+      "Jorge Toro": 2,
+      "Zweiten Mal Sicherheitsluecke": 1,
+      "Schweiz": 1,
+      "80 Franken": 1,
+      "PIN-Codes": 1,
+      "Information Security Group": 1,
+      "ETH Zürich": 1,
+      "Visa-Karten": 1,
+      "PIN-Code": 1,
+      "ETH-News vom 1.9.2020": 1,
+      "Maestro": 1,
+      "Forschern": 1,
+      "man-in-the-middle»-Prinzip": 1,
+      "Datenaustausch": 1,
+      "Android-App": 1,
+      "PIN": 1,
+      "PIN-Code-Überlistung": 1,
+      "VISA-Karte": 1
+    },
+    "total_entities": 33,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "zum-zweiten-mal-sicherheitsluecke-bei-kreditkarten-entdeckt.md",
+      "title": "De News Events/2021/02/zum Zweiten Mal Sicherheitsluecke bei Kreditkarten Entdeckt",
+      "language": "de",
+      "source_path": "de_news_events/2021/02/zum-zweiten-mal-sicherheitsluecke-bei-kreditkarten-entdeckt.html"
+    },
+    "temporal": {
+      "publication_date": "2021-02",
+      "mentioned_years": [
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Attacke",
+        "Jorge Toro",
+        "Maestro",
+        "Mastercard",
+        "Mastercard Kontakt"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "80 Franken",
+        "Datenaustausch",
+        "EMV-Standard",
+        "ETH-Forscher",
+        "ETH-News vom 1.9.2020",
+        "Mastercard-Kreditkarten",
+        "PIN-Code-Überlistung",
+        "PIN-Codes",
+        "Papers",
+        "VISA-Karte",
+        "Visa-Karten",
+        "Visa-Transaktion",
+        "Zweiten Mal Sicherheitsluecke"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "VISA-Karte",
+        "PIN-Codes",
+        "Jorge Toro",
+        "PIN-Code",
+        "USENIX Security",
+        "Visa-Transaktion",
+        "Android-App",
+        "EMV-Standard",
+        "Im Sommer",
+        "Logische Fehler",
+        "Mastercard-Transaktion",
+        "Die ETH",
+        "Die App",
+        "Zweiten Mal",
+        "Der Austausch",
+        "Das Paper",
+        "Die Idee",
+        "Mastercard-Karte",
+        "Unsere Methode",
+        "Mastercard-Kreditkarten",
+        "Die Forscher",
+        "Information Security",
+        "Mastercard Kontakt",
+        "Visa-Karten",
+        "ETH-News",
+        "Maestro-Debitkarten",
+        "Kreditkarten Entdeckt",
+        "De News",
+        "Karten-Terminal",
+        "Zwei Sitzungen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Forschern",
+        "Information Security Group",
+        "PIN",
+        "man-in-the-middle»-Prinzip"
+      ],
+      "locations": [
+        "Android-App",
+        "Karten-Terminal",
+        "Logische Fehler",
+        "PIN-Code",
+        "Schweiz"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Mastercard",
+        "Karten-Terminal",
+        "Jorge Toro",
+        "Zweiten Mal Sicherheitsluecke",
+        "Schweiz",
+        "80 Franken",
+        "PIN-Codes",
+        "Information Security Group",
+        "ETH Zürich",
+        "Visa-Karten"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Sicherheitsschranke doppelt überlistet",
+          "EMV-Standard als Fehlerquelle"
+        ],
+        "content_length": 3169
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Attacke",
+        "man-in-the-middle»-Prinzip",
+        "Mastercard Kontakt",
+        "Maestro",
+        "EU",
+        "Forschern",
+        "Information Security Group",
+        "2020",
+        "ETH Zürich",
+        "PIN",
+        "Jorge Toro",
+        "2021",
+        "ERC",
+        "Mastercard"
+      ],
+      "semantic_concepts": [
+        "Visa-Transaktion",
+        "80 Franken",
+        "EMV-Standard",
+        "Visa-Karten",
+        "PIN-Code-Überlistung",
+        "ETH-Forscher",
+        "ETH-News vom 1.9.2020",
+        "Papers",
+        "VISA-Karte",
+        "what",
+        "Mastercard-Kreditkarten",
+        "Datenaustausch",
+        "how",
+        "when",
+        "PIN-Codes",
+        "Zweiten Mal Sicherheitsluecke"
+      ],
+      "graph_relations": []
+    }
+  }
+}

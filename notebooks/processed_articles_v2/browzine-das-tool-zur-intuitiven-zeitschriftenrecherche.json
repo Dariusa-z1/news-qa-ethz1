@@ -1,0 +1,128 @@
+{
+  "filename": "browzine-das-tool-zur-intuitiven-zeitschriftenrecherche.md",
+  "original_filename": "browzine-das-tool-zur-intuitiven-zeitschriftenrecherche.html",
+  "source_path": "de_internal/2017/01/browzine-das-tool-zur-intuitiven-zeitschriftenrecherche.html",
+  "date": "2017-01",
+  "title": "Browzine Das Tool Zur Intuitiven Zeitschriftenrecherche",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Dieses ist sowohl als Web-Anwendung als auch über eine App nutzbar:\n\nUm auf BrowZine zugreifen zu können, müssen Sie sich im Netzwerk der ETH Zürich befinden.\n\nProbieren Sie die neue Recherche-Möglichkeit aus und teilen Sie uns Ihre Meinung via Fragebogen mit . Sie tragen so massgeblich zur Entscheidung über die Lizenzierung von BrowZine bei."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2017/01/browzine",
+        "label": "LOC",
+        "start": 0,
+        "end": 28
+      },
+      {
+        "text": "Intuitiven",
+        "label": "LOC",
+        "start": 42,
+        "end": 52
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 137,
+        "end": 147
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2017/01/browzine",
+        "Intuitiven"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2017/01/browzine": 1,
+      "Intuitiven": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "browzine-das-tool-zur-intuitiven-zeitschriftenrecherche.md",
+      "title": "De Internal/2017/01/browzine das Tool Zur Intuitiven Zeitschriftenrecherche",
+      "language": "de",
+      "source_path": "de_internal/2017/01/browzine-das-tool-zur-intuitiven-zeitschriftenrecherche.html"
+    },
+    "temporal": {
+      "publication_date": "2017-01",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Intuitiven Zeitschriftenrecherche",
+        "Ihre Meinung",
+        "Web-Anwendung",
+        "De Internal",
+        "Tool Zur",
+        "Probieren Sie"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2017/01/browzine",
+        "Intuitiven"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2017/01/browzine",
+        "Intuitiven",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 420
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "EU",
+        "ERC",
+        "2017"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

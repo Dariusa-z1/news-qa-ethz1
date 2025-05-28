@@ -1,0 +1,207 @@
+{
+  "filename": "digitalisierung-digitale-transformation--disruption.md",
+  "original_filename": "digitalisierung-digitale-transformation--disruption.html",
+  "source_path": "en_internal/2018/11/digitalisierung-digitale-transformation--disruption.html",
+  "date": "2018-11",
+  "title": "Digitalisierung Digitale Transformation Disruption",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The speaker will examine the questions of WHY we must have digital transformation on our radar, how to pin it down and what disruption means in this context.\n\nRegistration via e-mail at\n\nVenue: ETH Zurich, LEE E 101, Leonhardstrasse 21, 8092 Zurich\n\nThe 17:15 Colloquium offers a platform for further education and discussion. The formula is a 30-minute presentation + a 30-minute discussion + a subsequent drinks reception = inspiration for our daily working lives. Dates for the spring semester 2019\n\nSave the dates in the spring semester 2019 now already! On the following Thursdays, at 17.15: • 28.03.2019 • 25.04.2019 • 23.05.2019"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Digitale Transformation Disruption",
+        "label": "ORG",
+        "start": 36,
+        "end": 70
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 192,
+        "end": 202
+      },
+      {
+        "text": "LEE",
+        "label": "GPE",
+        "start": 204,
+        "end": 207
+      },
+      {
+        "text": "30-minute",
+        "label": "TIME",
+        "start": 341,
+        "end": 350
+      },
+      {
+        "text": "30-minute",
+        "label": "TIME",
+        "start": 368,
+        "end": 377
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 443,
+        "end": 448
+      },
+      {
+        "text": "the spring semester",
+        "label": "DATE",
+        "start": 474,
+        "end": 493
+      },
+      {
+        "text": "the spring semester 2019",
+        "label": "DATE",
+        "start": 517,
+        "end": 541
+      },
+      {
+        "text": "Thursdays",
+        "label": "DATE",
+        "start": 572,
+        "end": 581
+      },
+      {
+        "text": "17.15",
+        "label": "CARDINAL",
+        "start": 586,
+        "end": 591
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "Digitale Transformation Disruption"
+      ],
+      "LOCATION": [
+        "LEE"
+      ],
+      "DATE": [
+        "30-minute",
+        "Thursdays",
+        "daily",
+        "the spring semester",
+        "the spring semester 2019"
+      ],
+      "MISC": [
+        "17.15"
+      ]
+    },
+    "entity_counts": {
+      "30-minute": 2,
+      "Digitale Transformation Disruption": 1,
+      "ETH Zurich": 1,
+      "LEE": 1,
+      "daily": 1,
+      "the spring semester": 1,
+      "the spring semester 2019": 1,
+      "Thursdays": 1,
+      "17.15": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "digitalisierung-digitale-transformation--disruption.md",
+      "title": "En Internal/2018/11/digitalisierung Digitale Transformation Disruption",
+      "language": "en",
+      "source_path": "en_internal/2018/11/digitalisierung-digitale-transformation--disruption.html"
+    },
+    "temporal": {
+      "publication_date": "2018-11",
+      "mentioned_years": [
+        "2018",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "17.15"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Digitale Transformation",
+        "En Internal",
+        "Disruption The",
+        "ETH Zurich",
+        "LEE E"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Digitale Transformation Disruption"
+      ],
+      "locations": [
+        "LEE"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "30-minute",
+        "Digitale Transformation Disruption",
+        "ETH Zurich",
+        "LEE",
+        "daily",
+        "the spring semester",
+        "the spring semester 2019",
+        "Thursdays",
+        "17.15"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 706
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "2018",
+        "Digitale Transformation Disruption",
+        "2019"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "17.15",
+        "how",
+        "what",
+        "why",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

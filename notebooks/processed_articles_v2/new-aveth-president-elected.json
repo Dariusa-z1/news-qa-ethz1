@@ -1,0 +1,268 @@
+{
+  "filename": "new-aveth-president-elected.md",
+  "original_filename": "new-aveth-president-elected.html",
+  "source_path": "en_internal/2015/02/new-aveth-president-elected.html",
+  "date": "2015-02",
+  "title": "New Aveth President Elected",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Having served as President of AVETH for one and a half years, Lars Büthe, a doctoral student from the Department of Information Technology and Electrical Engineering (D-ITET), has now stepped down from the post. The AVETH members thanked him for his efforts at the annual general assembly on the Hönggerberg campus on Tuesday evening, when they also elected his successor, Florian Thöle, a doctoral student from the Department of Materials (D-MATL). Thöle was already a member of the AVETH Board and leader of the association’s Politics Working Group (PoWoG).\n\nAlong with Florian Thöle, the following people have been elected to specific posts on the Board:\n\nThe following members have also been elected to the Board:\n\nFlorian Thöle. (Photo: Florian Thöle)\n\nThe AVETH members also noted the following milestones achieved during the past year:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Elected",
+        "label": "PERSON",
+        "start": 40,
+        "end": 47
+      },
+      {
+        "text": "one and a half years",
+        "label": "DATE",
+        "start": 40,
+        "end": 60
+      },
+      {
+        "text": "Lars Büthe",
+        "label": "PERSON",
+        "start": 62,
+        "end": 72
+      },
+      {
+        "text": "the Department of Information Technology",
+        "label": "ORG",
+        "start": 98,
+        "end": 138
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 265,
+        "end": 271
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 296,
+        "end": 307
+      },
+      {
+        "text": "Tuesday",
+        "label": "DATE",
+        "start": 318,
+        "end": 325
+      },
+      {
+        "text": "evening",
+        "label": "TIME",
+        "start": 326,
+        "end": 333
+      },
+      {
+        "text": "Florian Thöle",
+        "label": "PERSON",
+        "start": 373,
+        "end": 386
+      },
+      {
+        "text": "the Department of Materials",
+        "label": "ORG",
+        "start": 412,
+        "end": 439
+      },
+      {
+        "text": "the AVETH Board",
+        "label": "ORG",
+        "start": 480,
+        "end": 495
+      },
+      {
+        "text": "Politics Working Group",
+        "label": "ORG",
+        "start": 528,
+        "end": 550
+      },
+      {
+        "text": "Florian Thöle",
+        "label": "PERSON",
+        "start": 571,
+        "end": 584
+      },
+      {
+        "text": "the past year",
+        "label": "DATE",
+        "start": 824,
+        "end": 837
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Elected",
+        "Florian Thöle",
+        "Lars Büthe"
+      ],
+      "ORG": [
+        "Politics Working Group",
+        "the AVETH Board",
+        "the Department of Information Technology",
+        "the Department of Materials"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "Tuesday",
+        "annual",
+        "evening",
+        "one and a half years",
+        "the past year"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Florian Thöle": 2,
+      "Elected": 1,
+      "one and a half years": 1,
+      "Lars Büthe": 1,
+      "the Department of Information Technology": 1,
+      "annual": 1,
+      "Hönggerberg": 1,
+      "Tuesday": 1,
+      "evening": 1,
+      "the Department of Materials": 1,
+      "the AVETH Board": 1,
+      "Politics Working Group": 1,
+      "the past year": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-aveth-president-elected.md",
+      "title": "En Internal/2015/02/new Aveth President Elected",
+      "language": "en",
+      "source_path": "en_internal/2015/02/new-aveth-president-elected.html"
+    },
+    "temporal": {
+      "publication_date": "2015-02",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Elected",
+        "Florian Thöle",
+        "Lars Büthe"
+      ],
+      "people_with_roles": {
+        "Elected": [
+          "president",
+          "student"
+        ],
+        "Florian Thöle": [
+          "student"
+        ],
+        "Lars Büthe": [
+          "president",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "D-ITET",
+        "Electrical Engineering",
+        "AVETH Board",
+        "D-MATL",
+        "En Internal",
+        "Politics Working",
+        "Information Technology",
+        "The AVETH",
+        "Elected Having",
+        "Aveth President"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Information Technology and Electrical Engineering ",
+        "Materials "
+      ],
+      "institutions": [
+        "Politics Working Group",
+        "the AVETH Board",
+        "the Department of Information Technology",
+        "the Department of Materials"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Florian Thöle",
+        "Elected",
+        "one and a half years",
+        "Lars Büthe",
+        "the Department of Information Technology",
+        "annual",
+        "Hönggerberg",
+        "Tuesday",
+        "evening",
+        "the Department of Materials"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 890
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Florian Thöle",
+        "the Department of Materials",
+        "Elected",
+        "2015",
+        "Lars Büthe",
+        "Politics Working Group",
+        "the Department of Information Technology",
+        "the AVETH Board"
+      ],
+      "semantic_concepts": [
+        "when",
+        "what",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Elected_has_role_president",
+        "Elected_has_role_student",
+        "Florian Thöle_has_role_student",
+        "Lars Büthe_has_role_president",
+        "Lars Büthe_has_role_student",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

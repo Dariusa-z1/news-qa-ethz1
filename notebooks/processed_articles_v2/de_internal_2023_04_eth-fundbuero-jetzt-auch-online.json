@@ -1,0 +1,246 @@
+{
+  "filename": "de_internal_2023_04_eth-fundbuero-jetzt-auch-online.md",
+  "original_filename": "de_internal_2023_04_eth-fundbuero-jetzt-auch-online.html",
+  "source_path": "de_internal/2023/04/eth-fundbuero-jetzt-auch-online.html",
+  "date": "2023-04",
+  "title": "Eth Fundbuero Jetzt Auch Online",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Massenartikel weiterhin im ISC",
+      "text": "- Schirme\n\n- Mützen, Handschuhe, Halstücher, Kleidungsstücke\n\n- Getränkeflaschen, Mehrweggeschirr\n\n- Spielzeug\n\n- Sonnenbrillen (nicht korrigiert)\n\n- Schreibmaterial\n\nÄrgerlich, wenn man etwas verloren hat. Glücklicherweise wird auf dem ETH-Gelände Gefundenes in der Regel in unsere Fundbüros gebracht. Zuständig dafür sind die Info + Service Centers (ISC) .\n\nIn Zusammenarbeit mit der Fundservice-Plattform externe Seite easyfind.ch bietet die ETH neu eine online Suche für verlorene Wertgegenstände an. Damit können Sie jederzeit, auch ausserhalb der Öffnungszeiten, nach Verlorenem suchen. Zudem besteht die Möglichkeit, eine Verlustmeldung zu erstellen, die danach regelmässig mit den bei uns eintreffenden Fundgegenständen abgeglichen wird."
+    },
+    {
+      "heading": "Massenartikel weiterhin im ISC",
+      "text": "Auf dem ETH-Gelände aufgefundene Gegenstände können weiterhin direkt im ETH-Fundbüro, d. h. im Info + Service Center am jeweiligen ETH-Standort, abgegeben oder nachgefragt werden. Die folgenden Massenartikel werden nicht online erfasst und können nur im ISC-Fundbüro nachgefragt werden:\n\nZum Online-Fundbüro der ETH ›"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2023/04",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Getränkeflaschen",
+        "label": "LOC",
+        "start": 62,
+        "end": 78
+      },
+      {
+        "text": "Mehrweggeschirr",
+        "label": "LOC",
+        "start": 80,
+        "end": 95
+      },
+      {
+        "text": "Glücklicherweise",
+        "label": "LOC",
+        "start": 201,
+        "end": 217
+      },
+      {
+        "text": "ETH-Gelände Gefundenes",
+        "label": "LOC",
+        "start": 231,
+        "end": 253
+      },
+      {
+        "text": "Info + Service Centers",
+        "label": "ORG",
+        "start": 322,
+        "end": 344
+      },
+      {
+        "text": "ISC",
+        "label": "ORG",
+        "start": 346,
+        "end": 349
+      },
+      {
+        "text": "Fundservice-Plattform",
+        "label": "ORG",
+        "start": 379,
+        "end": 400
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 438,
+        "end": 441
+      },
+      {
+        "text": "ETH-Gelände",
+        "label": "MISC",
+        "start": 8,
+        "end": 19
+      },
+      {
+        "text": "ETH-Fundbüro",
+        "label": "ORG",
+        "start": 72,
+        "end": 84
+      },
+      {
+        "text": "Info + Service Center",
+        "label": "LOC",
+        "start": 95,
+        "end": 116
+      },
+      {
+        "text": "ISC-Fundbüro",
+        "label": "ORG",
+        "start": 254,
+        "end": 266
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 311,
+        "end": 314
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "ETH-Fundbüro",
+        "Fundservice-Plattform",
+        "ISC",
+        "ISC-Fundbüro",
+        "Info + Service Centers"
+      ],
+      "LOCATION": [
+        "De Internal/2023/04",
+        "ETH-Gelände Gefundenes",
+        "Getränkeflaschen",
+        "Glücklicherweise",
+        "Info + Service Center",
+        "Mehrweggeschirr"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Gelände"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "De Internal/2023/04": 1,
+      "Getränkeflaschen": 1,
+      "Mehrweggeschirr": 1,
+      "Glücklicherweise": 1,
+      "ETH-Gelände Gefundenes": 1,
+      "Info + Service Centers": 1,
+      "ISC": 1,
+      "Fundservice-Plattform": 1,
+      "ETH-Gelände": 1,
+      "ETH-Fundbüro": 1,
+      "Info + Service Center": 1,
+      "ISC-Fundbüro": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2023_04_eth-fundbuero-jetzt-auch-online.md",
+      "title": "De Internal/2023/04/eth Fundbuero Jetzt Auch Online",
+      "language": "de",
+      "source_path": "de_internal/2023/04/eth-fundbuero-jetzt-auch-online.html"
+    },
+    "temporal": {
+      "publication_date": "2023-04",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Gelände"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Fundservice-Plattform",
+        "ETH-Standort",
+        "Auch Online",
+        "In Zusammenarbeit",
+        "De Internal",
+        "Zum Online",
+        "Fundbuero Jetzt",
+        "Service Center",
+        "Service Centers"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH-Fundbüro",
+        "Fundservice-Plattform",
+        "ISC",
+        "ISC-Fundbüro",
+        "Info + Service Centers"
+      ],
+      "locations": [
+        "De Internal/2023/04",
+        "ETH-Gelände Gefundenes",
+        "Getränkeflaschen",
+        "Glücklicherweise",
+        "Info + Service Center",
+        "Mehrweggeschirr"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH",
+        "De Internal/2023/04",
+        "Getränkeflaschen",
+        "Mehrweggeschirr",
+        "Glücklicherweise",
+        "ETH-Gelände Gefundenes",
+        "Info + Service Centers",
+        "ISC",
+        "Fundservice-Plattform",
+        "ETH-Gelände"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Massenartikel weiterhin im ISC",
+          "Massenartikel weiterhin im ISC"
+        ],
+        "content_length": 1115
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Fundservice-Plattform",
+        "ISC",
+        "ISC-Fundbüro",
+        "EU",
+        "ETH-Fundbüro",
+        "Info + Service Centers",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "ETH-Gelände"
+      ],
+      "graph_relations": []
+    }
+  }
+}

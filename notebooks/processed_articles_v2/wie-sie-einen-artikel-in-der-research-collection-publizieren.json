@@ -1,0 +1,141 @@
+{
+  "filename": "wie-sie-einen-artikel-in-der-research-collection-publizieren.md",
+  "original_filename": "wie-sie-einen-artikel-in-der-research-collection-publizieren.html",
+  "source_path": "en_internal/2019/09/wie-sie-einen-artikel-in-der-research-collection-publizieren.html",
+  "date": "2019-09",
+  "title": "Wie Sie Einen Artikel In Der Research Collection Publizieren",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Research Collection is ETH Zurich’s publication platform, where members of the university can publish academic full texts open access and archive research data or make them publicly accessible.\n\nAnswers to further questions can be found in the Research Collection manual ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Sie Einen Artikel",
+        "label": "PERSON",
+        "start": 24,
+        "end": 41
+      },
+      {
+        "text": "The Research Collection",
+        "label": "ORG",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 27,
+        "end": 39
+      },
+      {
+        "text": "the Research Collection",
+        "label": "ORG",
+        "start": 243,
+        "end": 266
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich’s",
+        "Sie Einen Artikel"
+      ],
+      "ORG": [
+        "The Research Collection",
+        "the Research Collection"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Sie Einen Artikel": 1,
+      "The Research Collection": 1,
+      "ETH Zurich’s": 1,
+      "the Research Collection": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "wie-sie-einen-artikel-in-der-research-collection-publizieren.md",
+      "title": "En Internal/2019/09/wie Sie Einen Artikel in der Research Collection Publizieren",
+      "language": "en",
+      "source_path": "en_internal/2019/09/wie-sie-einen-artikel-in-der-research-collection-publizieren.html"
+    },
+    "temporal": {
+      "publication_date": "2019-09",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich’s",
+        "Sie Einen Artikel"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "En Internal",
+        "Research Collection",
+        "Sie Einen",
+        "ETH Zurich",
+        "Publizieren The"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "The Research Collection",
+        "the Research Collection"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "Sie Einen Artikel",
+        "The Research Collection",
+        "ETH Zurich’s",
+        "the Research Collection"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 357
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Sie Einen Artikel",
+        "2019",
+        "The Research Collection",
+        "the Research Collection",
+        "ETH Zurich’s"
+      ],
+      "semantic_concepts": [
+        "what",
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "filename": "paracetamol-poisonings-up.md",
+  "original_filename": "paracetamol-poisonings-up.html",
+  "source_path": "en_news_events/2020/10/paracetamol-poisonings-up.html",
+  "date": "2020-10",
+  "title": "Paracetamol Poisonings Up",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "It’s important to consult a professional",
+      "text": "Paracetamol (acetaminophen) is a popular source of pain relief. In Switzerland, it is available over the counter in 500 milligram tablets, but also in double the dose, in 1,000 milligram (1 gram) tablets when prescribed by a physician. Researchers at ETH Zurich have now investigated whether the availability of the higher-dose tablets could be linked to the increased incidence of paracetamol poisoning, concluding that it is.\n\nParacetamol is the most widely used painkiller in the world. “It is a very safe drug, but only for short-term pain relief and as long as the daily dosage does not go above the recommended range,” says Andrea Burden, Professor of Pharmacoepidemiology at ETH Zurich. For adults, the recommended maximum daily dosage is 4,000 milligrams (4 grams), which equates to a maximum of four of the high-dose tablets or eight of the lower-dose tablets. When overdosed, paracetamol can cause severe poisoning, even resulting in liver failure with fatal outcomes or the need for liver transplantation."
+    },
+    {
+      "heading": "It’s important to consult a professional",
+      "text": "“One problem with paracetamol is that it is not effective for all patients or against all forms of pain,” Burden explains. “If the drug doesn’t help to ease someone’s symptoms, they may be tempted to increase the dosage without consulting a medical professional. That’s the real problem,” she says. This is also where the size of the tablets comes into play. It’s very easy to exceed the maximum daily dosage by taking just a few extra of the 1,000 milligram tablets, whereas, with the lower-dose 500 milligram tablets, the risk of accidental overdose isn’t as great, Burden explains.\n\nHer recommendation is as follows: “We recognize that pain management is challenging, and other medications may have severe adverse effects. But, if paracetamol doesn’t have the desired effect, it’s important not to simply take more tablets. Instead, people should seek professional medical advice in order to find the best therapeutic option.”"
+    },
+    {
+      "heading": "Higher-dose tablets sell much better",
+      "text": "People in Switzerland have had access to the 1,000 milligram paracetamol tablets since October 2003. Prior to that, the highest available dose was the 500 milligram tablets. Burden and her team analysed sales figures from the Swiss pharmacists’ association Pharmasuisse and data from the Tox Info Suisse poison control centre on poisoning cases for the period before and after the higher-dose tablets were launched.\n\nFrom the sales data, the scientists observed that the 1,000 milligram tablets had rapidly grown in popularity since their introduction. In 2005, the 1,000 milligram tablets outsold the 500 milligram tablets for the first time. Today, sales of the 1,000 milligram tablets are ten times those of the 500 milligram ones."
+    },
+    {
+      "heading": "Poisonings could be avoided",
+      "text": "ETH professor Andrea Burden advocates for a critical review of how the 1,000 milligram tablets are prescribed and dispensed. “At the very least, packs of the 1,000 milligram tablets should contain a smaller number of tablets”, she says. As evidence grows that paracetamol is not suitable for chronic pain management, there is little need to have pack-sizes of 40 or 100 tablets. She also says that physicians should prescribe the lower 500 milligram dose, which can be dose adjusted to reach the 1,000 milligrams by taking two tablets when necessary. This could minimize the risk of accidentally exceeding the daily limit.\n\nBy reducing the availability of the high-dose formulation, Burden believes that some of the poisoning cases could be avoided. In the meantime, she says pharmacists can help draw attention to the dangers of exceeding the daily maximum when providing these the high-dose tablets to patients.\n\nMartinez-De la Torre A, Weiler S, Bräm DS, Allemann SS, Kupferschmidt H, Burden AM: National poison center calls before vs. after availability of high dose acetaminophen (paracetamol) tablets in Switzerland: an interrupted time series analysis. JAMA Network Open, 28 October 2020, doi: 10.1001/jamanetworkopen.2020.22897"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 67,
+        "end": 78
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 171,
+        "end": 176
+      },
+      {
+        "text": "1 gram",
+        "label": "CARDINAL",
+        "start": 188,
+        "end": 194
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 251,
+        "end": 261
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 569,
+        "end": 574
+      },
+      {
+        "text": "Andrea Burden",
+        "label": "PERSON",
+        "start": 629,
+        "end": 642
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 681,
+        "end": 691
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 729,
+        "end": 734
+      },
+      {
+        "text": "4,000 milligrams",
+        "label": "QUANTITY",
+        "start": 745,
+        "end": 761
+      },
+      {
+        "text": "4 grams",
+        "label": "QUANTITY",
+        "start": 763,
+        "end": 770
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 803,
+        "end": 807
+      },
+      {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 836,
+        "end": 841
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 396,
+        "end": 401
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 443,
+        "end": 448
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 10,
+        "end": 21
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 45,
+        "end": 50
+      },
+      {
+        "text": "October 2003",
+        "label": "DATE",
+        "start": 87,
+        "end": 99
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 226,
+        "end": 231
+      },
+      {
+        "text": "Pharmasuisse",
+        "label": "ORG",
+        "start": 257,
+        "end": 269
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 470,
+        "end": 475
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 565,
+        "end": 570
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 631,
+        "end": 636
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 643,
+        "end": 648
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 663,
+        "end": 668
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 691,
+        "end": 694
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Andrea Burden",
+        "label": "PERSON",
+        "start": 14,
+        "end": 27
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 71,
+        "end": 76
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 158,
+        "end": 163
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 496,
+        "end": 501
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 523,
+        "end": 526
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 610,
+        "end": 615
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 843,
+        "end": 848
+      },
+      {
+        "text": "Martinez-De la Torre",
+        "label": "PERSON",
+        "start": 913,
+        "end": 933
+      },
+      {
+        "text": "Weiler S",
+        "label": "ORG",
+        "start": 937,
+        "end": 945
+      },
+      {
+        "text": "Allemann SS",
+        "label": "PERSON",
+        "start": 956,
+        "end": 967
+      },
+      {
+        "text": "Kupferschmidt H",
+        "label": "PERSON",
+        "start": 969,
+        "end": 984
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1108,
+        "end": 1119
+      },
+      {
+        "text": "JAMA Network Open",
+        "label": "PERSON",
+        "start": 1158,
+        "end": 1175
+      },
+      {
+        "text": "October 2020",
+        "label": "DATE",
+        "start": 1180,
+        "end": 1192
+      },
+      {
+        "text": "10.1001",
+        "label": "CARDINAL",
+        "start": 1199,
+        "end": 1206
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Allemann SS",
+        "Andrea Burden",
+        "JAMA Network Open",
+        "Kupferschmidt H",
+        "Martinez-De la Torre"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Pharmasuisse",
+        "Weiler S"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [
+        "October 2003",
+        "October 2020",
+        "Today",
+        "daily"
+      ],
+      "MISC": [
+        "1 gram",
+        "1,000",
+        "10.1001",
+        "4 grams",
+        "4,000 milligrams",
+        "One",
+        "Swiss",
+        "eight",
+        "first",
+        "four",
+        "ten",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "1,000": 9,
+      "daily": 5,
+      "Switzerland": 3,
+      "ETH Zurich": 2,
+      "Andrea Burden": 2,
+      "1 gram": 1,
+      "4,000 milligrams": 1,
+      "4 grams": 1,
+      "four": 1,
+      "eight": 1,
+      "One": 1,
+      "October 2003": 1,
+      "Swiss": 1,
+      "Pharmasuisse": 1,
+      "first": 1,
+      "Today": 1,
+      "ten": 1,
+      "ETH": 1,
+      "two": 1,
+      "Martinez-De la Torre": 1
+    },
+    "total_entities": 42,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "paracetamol-poisonings-up.md",
+      "title": "En News Events/2020/10/paracetamol Poisonings Up",
+      "language": "en",
+      "source_path": "en_news_events/2020/10/paracetamol-poisonings-up.html"
+    },
+    "temporal": {
+      "publication_date": "2020-10",
+      "mentioned_years": [
+        "2003",
+        "2005",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Allemann SS",
+        "Andrea Burden",
+        "JAMA Network Open",
+        "Kupferschmidt H",
+        "Martinez-De la Torre"
+      ],
+      "people_with_roles": {
+        "Andrea Burden": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "1 gram",
+        "1,000",
+        "10.1001",
+        "4 grams",
+        "4,000 milligrams",
+        "Swiss",
+        "eight",
+        "first",
+        "four"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "In Switzerland",
+        "Tox Info",
+        "Torre A",
+        "En News",
+        "JAMA Network",
+        "Burden AM",
+        "Andrea Burden",
+        "Martinez-De",
+        "Poisonings Up",
+        "Kupferschmidt H",
+        "Allemann SS",
+        "ETH Zurich",
+        "Weiler S"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Pharmasuisse",
+        "Weiler S"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "1,000",
+        "daily",
+        "Switzerland",
+        "ETH Zurich",
+        "Andrea Burden",
+        "1 gram",
+        "4,000 milligrams",
+        "4 grams",
+        "four",
+        "eight"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "It’s important to consult a professional",
+          "It’s important to consult a professional",
+          "Higher-dose tablets sell much better",
+          "Poisonings could be avoided"
+        ],
+        "content_length": 3966
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "EU",
+        "2005",
+        "2020",
+        "ETH Zurich",
+        "Kupferschmidt H",
+        "Martinez-De la Torre",
+        "Allemann SS",
+        "Andrea Burden",
+        "Weiler S",
+        "2003",
+        "Pharmasuisse",
+        "JAMA Network Open"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "four",
+        "who",
+        "eight",
+        "Swiss",
+        "1 gram",
+        "when",
+        "4 grams",
+        "what",
+        "how",
+        "medical_research",
+        "10.1001",
+        "where",
+        "4,000 milligrams",
+        "1,000"
+      ],
+      "graph_relations": [
+        "Andrea Burden_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

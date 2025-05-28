@@ -1,0 +1,129 @@
+{
+  "filename": "es-ist-wichtig-an-sich-selbst-zu-glauben.md",
+  "original_filename": "es-ist-wichtig-an-sich-selbst-zu-glauben.html",
+  "source_path": "de_news_events/2023/09/es-ist-wichtig-an-sich-selbst-zu-glauben.html",
+  "date": "2023-09",
+  "title": "Es Ist Wichtig An Sich Selbst Zu Glauben",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Beratung für Studierende",
+      "text": "Lina De Windt erlebte eine komplett neue Welt, als sie ihr Studium an der ETH begann. Sie kam von einem Gymnasium, wo der Sport - in ihrem Fall das Ballett - im Vordergrund stand. An der ETH musste sie in vielen Fächern aufholen. Im Video erzählt sie, wie sie diese Umstellung erlebt hat und was sie neuen Studierenden rät."
+    },
+    {
+      "heading": "Beratung für Studierende",
+      "text": "Es stehen Ihnen Beratungsstellen für alle Situationen im Studium zur Verfügung."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Lina De Windt",
+        "label": "PER",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 74,
+        "end": 77
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 187,
+        "end": 190
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Lina De Windt"
+      ],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Lina De Windt": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "es-ist-wichtig-an-sich-selbst-zu-glauben.md",
+      "title": "De News Events/2023/09/es Ist Wichtig an Sich Selbst zu Glauben",
+      "language": "de",
+      "source_path": "de_news_events/2023/09/es-ist-wichtig-an-sich-selbst-zu-glauben.html"
+    },
+    "temporal": {
+      "publication_date": "2023-09",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Lina De Windt"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Sich Selbst",
+        "De Windt",
+        "Ihnen Beratungsstellen",
+        "Im Video",
+        "De News",
+        "Glauben Lina",
+        "Ist Wichtig"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH",
+        "Lina De Windt"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Beratung für Studierende",
+          "Beratung für Studierende"
+        ],
+        "content_length": 467
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "EU",
+        "Lina De Windt",
+        "2023"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

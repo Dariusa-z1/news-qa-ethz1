@@ -1,0 +1,352 @@
+{
+  "filename": "new-executive-board-and-website-for-peko.md",
+  "original_filename": "new-executive-board-and-website-for-peko.html",
+  "source_path": "en_internal/2015/05/new-executive-board-and-website-for-peko.html",
+  "date": "2015-05",
+  "title": "New Executive Board And Website For Peko",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "New Website",
+      "text": "In late April 2015, the Staff Commission (PeKo) of ETH Zurich elected and set up a new Executive Board, comprising the following members\n\nThe Executive Board prepares the agenda for PeKo’s monthly meetings.\n\nIn the PeKo elections at the start of the year, two new members were appointed to serve the term from 2015 to 2018:\n\nThe remaining members of PeKo are as follows:\n\nThe Secretary’s Office for PeKo is run by Christophe Schneble.\n\nPeKo represents the interests of administrative and technical staff in dealings with the Executive Board of ETH Zurich and plays an active role in tackling current issues relating to personnel and university policy at ETH."
+    },
+    {
+      "heading": "New Website",
+      "text": "To coincide with the start of the new term, PeKo has also revamped its website, which can be reached via “The ETH Zurich/Organisation/Boards, university groups and commissions” on the ETH website (quick link: www.peko.ethz.ch ).\n\nThe website offers members of ETH Zurich a wealth of useful information on issues and tasks in which PeKo is involved, as well as details of the individual members of the commission and its network across the 16 ETH departments and the ETH Domain. PeKo’s mission statement, bylaws and responsibilities (divisions) can also be found on the website, along with contact details for anyone who has questions or is interested in getting involved. PeKo serves as a point of contact for technical and administrative staff if they experience problems at work."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Executive Board",
+        "label": "ORG",
+        "start": 24,
+        "end": 39
+      },
+      {
+        "text": "late April 2015",
+        "label": "DATE",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "text": "the Staff Commission",
+        "label": "ORG",
+        "start": 20,
+        "end": 40
+      },
+      {
+        "text": "PeKo",
+        "label": "PERSON",
+        "start": 42,
+        "end": 46
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 51,
+        "end": 61
+      },
+      {
+        "text": "Executive Board",
+        "label": "ORG",
+        "start": 87,
+        "end": 102
+      },
+      {
+        "text": "The Executive Board",
+        "label": "ORG",
+        "start": 137,
+        "end": 156
+      },
+      {
+        "text": "PeKo",
+        "label": "PERSON",
+        "start": 181,
+        "end": 185
+      },
+      {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 188,
+        "end": 195
+      },
+      {
+        "text": "PeKo",
+        "label": "PERSON",
+        "start": 213,
+        "end": 217
+      },
+      {
+        "text": "the start of the year",
+        "label": "DATE",
+        "start": 231,
+        "end": 252
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 254,
+        "end": 257
+      },
+      {
+        "text": "PeKo",
+        "label": "PERSON",
+        "start": 347,
+        "end": 351
+      },
+      {
+        "text": "PeKo",
+        "label": "PERSON",
+        "start": 395,
+        "end": 399
+      },
+      {
+        "text": "Christophe Schneble",
+        "label": "ORG",
+        "start": 410,
+        "end": 429
+      },
+      {
+        "text": "PeKo",
+        "label": "PERSON",
+        "start": 431,
+        "end": 435
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 516,
+        "end": 535
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 539,
+        "end": 549
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 649,
+        "end": 652
+      },
+      {
+        "text": "PeKo",
+        "label": "PERSON",
+        "start": 44,
+        "end": 48
+      },
+      {
+        "text": "The ETH Zurich/Organisation/Boards",
+        "label": "ORG",
+        "start": 106,
+        "end": 140
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 184,
+        "end": 187
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 259,
+        "end": 269
+      },
+      {
+        "text": "PeKo",
+        "label": "PERSON",
+        "start": 330,
+        "end": 334
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 441,
+        "end": 444
+      },
+      {
+        "text": "the ETH Domain",
+        "label": "ORG",
+        "start": 461,
+        "end": 475
+      },
+      {
+        "text": "PeKo",
+        "label": "PERSON",
+        "start": 477,
+        "end": 481
+      },
+      {
+        "text": "PeKo",
+        "label": "PERSON",
+        "start": 671,
+        "end": 675
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "PeKo"
+      ],
+      "ORG": [
+        "Christophe Schneble",
+        "ETH",
+        "ETH Zurich",
+        "Executive Board",
+        "The ETH Zurich/Organisation/Boards",
+        "The Executive Board",
+        "the ETH Domain",
+        "the Executive Board",
+        "the Staff Commission"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "late April 2015",
+        "monthly",
+        "the start of the year"
+      ],
+      "MISC": [
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "PeKo": 10,
+      "ETH Zurich": 3,
+      "ETH": 3,
+      "Executive Board": 2,
+      "late April 2015": 1,
+      "the Staff Commission": 1,
+      "The Executive Board": 1,
+      "monthly": 1,
+      "the start of the year": 1,
+      "two": 1,
+      "Christophe Schneble": 1,
+      "the Executive Board": 1,
+      "The ETH Zurich/Organisation/Boards": 1,
+      "the ETH Domain": 1
+    },
+    "total_entities": 28,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-executive-board-and-website-for-peko.md",
+      "title": "En Internal/2015/05/new Executive Board And Website For Peko",
+      "language": "en",
+      "source_path": "en_internal/2015/05/new-executive-board-and-website-for-peko.html"
+    },
+    "temporal": {
+      "publication_date": "2015-05",
+      "mentioned_years": [
+        "2015",
+        "2018"
+      ],
+      "time_periods": [
+        [
+          "2015",
+          "2018"
+        ]
+      ],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "PeKo"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH Domain",
+        "Executive Board",
+        "The Executive",
+        "En Internal",
+        "And Website",
+        "Christophe Schneble",
+        "Staff Commission",
+        "ETH Zurich",
+        "For Peko",
+        "The ETH",
+        "The Secretary"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Christophe Schneble",
+        "ETH",
+        "ETH Zurich",
+        "Executive Board",
+        "The ETH Zurich/Organisation/Boards",
+        "The Executive Board",
+        "the ETH Domain",
+        "the Executive Board",
+        "the Staff Commission"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "PeKo",
+        "ETH Zurich",
+        "ETH",
+        "Executive Board",
+        "late April 2015",
+        "the Staff Commission",
+        "The Executive Board",
+        "monthly",
+        "the start of the year",
+        "two"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "New Website",
+          "New Website"
+        ],
+        "content_length": 1501
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "The ETH Zurich/Organisation/Boards",
+        "ETH",
+        "2018",
+        "2015",
+        "the Staff Commission",
+        "PeKo",
+        "Executive Board",
+        "the ETH Domain",
+        "The Executive Board",
+        "the Executive Board",
+        "Christophe Schneble",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "where",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

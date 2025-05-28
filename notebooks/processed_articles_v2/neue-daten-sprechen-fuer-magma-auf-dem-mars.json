@@ -1,0 +1,121 @@
+{
+  "filename": "neue-daten-sprechen-fuer-magma-auf-dem-mars.md",
+  "original_filename": "neue-daten-sprechen-fuer-magma-auf-dem-mars.html",
+  "source_path": "de_news_events/2022/10/neue-daten-sprechen-fuer-magma-auf-dem-mars.html",
+  "date": "2022-10",
+  "title": "Neue Daten Sprechen Fuer Magma Auf Dem Mars",
+  "language": "unknown",
+  "paragraphs": [],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Fuer Magma",
+        "label": "PER",
+        "start": 43,
+        "end": 53
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 62,
+        "end": 66
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Fuer Magma"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "Mars"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De News": 1,
+      "Fuer Magma": 1,
+      "Mars": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neue-daten-sprechen-fuer-magma-auf-dem-mars.md",
+      "title": "De News Events/2022/10/neue Daten Sprechen Fuer Magma auf dem Mars",
+      "language": "unknown",
+      "source_path": "de_news_events/2022/10/neue-daten-sprechen-fuer-magma-auf-dem-mars.html"
+    },
+    "temporal": {
+      "publication_date": "2022-10",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Fuer Magma"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Daten Sprechen",
+        "De News",
+        "Fuer Magma"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Mars"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "De News",
+        "Fuer Magma",
+        "Mars"
+      ],
+      "document_structure": {
+        "total_sections": 0,
+        "section_titles": [],
+        "content_length": 67
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2022",
+        "De News",
+        "EU",
+        "Fuer Magma"
+      ],
+      "semantic_concepts": [
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

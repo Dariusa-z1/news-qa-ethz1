@@ -1,0 +1,507 @@
+{
+  "filename": "preventing-cancer-cells-from-colonising-the-liver.md",
+  "original_filename": "preventing-cancer-cells-from-colonising-the-liver.html",
+  "source_path": "en_news_events/2024/07/preventing-cancer-cells-from-colonising-the-liver.html",
+  "date": "2024-07",
+  "title": "Preventing Cancer Cells From Colonising The Liver",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- ETH Zurich researchers have discovered proteins on the surface of colorectal cancer cells and liver cells that bind together and that play a major role in the formation of new metastases.\n\n- The binding of the proteins triggers fundamental changes in colorectal cancer cells that allow them to take root in the liver.\n\n- These new findings will help to develop future treatments that may hinder the formation of often fatal metastases."
+    },
+    {
+      "heading": "Molecular docking mechanism unlocked",
+      "text": "In cases where cancer is fatal, nine out of ten times the culprit is metastasis. This is when the primary tumour has sent out cells, like seeds, and invaded other organs of the body. While medicine has made great progress in treating primary tumours, it is still largely helpless in the face of metastasis. Currently, there are no medications that prevent this process.\n\nA team of researchers led by Andreas Moor in the Department of Biosystems Science and Engineering at ETH Zurich in Basel have now published results in the journal Nature showing how colorectal cancer cells colonise the liver. Their findings will help to develop treatments with which it may be possible to hinder the metastatic process."
+    },
+    {
+      "heading": "Molecular docking mechanism unlocked",
+      "text": "Cancer is said to metastasise when cells from the primary tumour break off and travel via the circulatory system to other parts of the body. “Colorectal cancer metastasises to the liver because of how our blood flows,” Moor says. Blood is first enriched with nutrients in the intestines before it goes to the liver, which metabolises the nutrients. For colorectal cancer cells, the liver is the last stop. “They get caught in the liver’s capillary network,” Moor says.\n\nCostanza Borrelli, a doctoral student, and other members of Moor’s team have now shown that the liver cells also play a large role in whether or not the cancer cells lodged there can colonise their new location. Science has known for over a century that, much like plant seeds in soil, cancer cells are dependent on their environment, yet it was previously unknown which molecular mechanisms play a role here."
+    },
+    {
+      "heading": "Return to sedentary state",
+      "text": "Using sophisticated tests on genetically modified mice, Moor and his team have discovered that the secret lies in certain proteins on the cell surface. When liver cells have a protein called Plexin-B2 and the colorectal cancer cells possess certain proteins from the semaphorin family, the colorectal cancer cells can attach themselves to the liver cells."
+    },
+    {
+      "heading": "Signposts in the nervous system",
+      "text": "Cancer cells that have semaphorins on their surface are especially dangerous, as attested by clinical studies cited by Moor’s researchers in their paper. The study data shows that colorectal cancer metastasises earlier and more frequently to the liver if the tumour has large amounts of semaphorin."
+    },
+    {
+      "heading": "Reference",
+      "text": "Plexin and its counterpart semaphorin were previously known to the research community for their function in the nervous system, where the two proteins steer growing nerve cells and ensure they form the right pathways. “Why liver cells also create plexin and what this protein does in healthy livers is anything but clear – and interests us immensely,” Moor says. In other words, the question of its function remains open.\n\nWhat Moor and his team have discovered, however, is that direct contact between plexin and semaphorin triggers fundamental changes in colorectal cancer cells. To break off from the primary tumour, the cancer cells have to change their identity: they free themselves from the surface layer of the intestine, or epithelium, severing their close connections to neighbouring cells.\n\nOnce in the bloodstream, the cancer cells resemble those from connective tissue called mesenchyme. Yet once they find their new niche – thanks to the plexin on some liver cells – the cancer cells turn back into their sedentary form. “An epithelisation process takes place,” the researchers wrote in their paper. Moor expands: “You can spot this immediately if you look at the cancer cells, as they form invaginations similar to the folds or crypts in the intestines.”\n\nThe researchers’ discovery will have an impact on more than colorectal cancer patients: further tests have shown that plexin also encourages the formation of metastases in melanoma and pancreatic cancer. For Moor and his team, this throws up many new research questions. One in particular is drawing their focus: when cancer cells cluster together to form a tumour, they also influence cells in their environment. “Cancer cells set up their own ecosystem,” Moor explains.\n\nIf efforts to inhibit the crucial interaction between plexin and semaphorin succeed, it may be possible to prevent the cancer from establishing new tumours in the first place. That’s because early on, when the relationships among the cells in this ecosystem have not yet been firmly established, tumour metastases are especially vulnerable, Moor explains. He appears confident that an answer lies within this “critical period of time in the development of metastases”, even though the path to any potential treatment is still long.\n\nBorrelli C, Roberts M, Eletto D, Hussherr MD, Fazilaty H, Valenta T, Lafzi A, Kretz JA, Guido Vinzoni E, Karakatsani A, Adivarahan S, Mannhart A, Kimura S, Meijs A, Baccouche Mhamedi F, Acar IE, Handler K, Ficht X, Platt RJ, Piscuoglio S Moor AE: In vivo interaction screening reveals liver-derived constraints to metastasis. Nature, 24 July 2024, doi: 10.1038/s41586-024-07715-3"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Liver",
+        "label": "WORK_OF_ART",
+        "start": 63,
+        "end": 72
+      },
+      {
+        "text": "nine",
+        "label": "CARDINAL",
+        "start": 32,
+        "end": 36
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 44,
+        "end": 47
+      },
+      {
+        "text": "Andreas Moor",
+        "label": "PERSON",
+        "start": 399,
+        "end": 411
+      },
+      {
+        "text": "the Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 415,
+        "end": 467
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 471,
+        "end": 481
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 485,
+        "end": 490
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 533,
+        "end": 539
+      },
+      {
+        "text": "Blood",
+        "label": "ORG",
+        "start": 230,
+        "end": 235
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 239,
+        "end": 244
+      },
+      {
+        "text": "Costanza Borrelli",
+        "label": "PERSON",
+        "start": 469,
+        "end": 486
+      },
+      {
+        "text": "Moor",
+        "label": "ORG",
+        "start": 529,
+        "end": 533
+      },
+      {
+        "text": "over a century",
+        "label": "DATE",
+        "start": 703,
+        "end": 717
+      },
+      {
+        "text": "Plexin-B2",
+        "label": "FAC",
+        "start": 191,
+        "end": 200
+      },
+      {
+        "text": "Moor’s",
+        "label": "ORG",
+        "start": 119,
+        "end": 125
+      },
+      {
+        "text": "Plexin",
+        "label": "GPE",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 138,
+        "end": 141
+      },
+      {
+        "text": "melanoma",
+        "label": "GPE",
+        "start": 1440,
+        "end": 1448
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1539,
+        "end": 1542
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1903,
+        "end": 1908
+      },
+      {
+        "text": "Borrelli C",
+        "label": "PERSON",
+        "start": 2272,
+        "end": 2282
+      },
+      {
+        "text": "Hussherr MD",
+        "label": "ORG",
+        "start": 2305,
+        "end": 2316
+      },
+      {
+        "text": "Fazilaty H",
+        "label": "PERSON",
+        "start": 2318,
+        "end": 2328
+      },
+      {
+        "text": "Valenta",
+        "label": "PERSON",
+        "start": 2330,
+        "end": 2337
+      },
+      {
+        "text": "Kretz JA",
+        "label": "PERSON",
+        "start": 2350,
+        "end": 2358
+      },
+      {
+        "text": "Adivarahan S",
+        "label": "PERSON",
+        "start": 2392,
+        "end": 2404
+      },
+      {
+        "text": "Kimura S",
+        "label": "PERSON",
+        "start": 2418,
+        "end": 2426
+      },
+      {
+        "text": "Meijs A",
+        "label": "PERSON",
+        "start": 2428,
+        "end": 2435
+      },
+      {
+        "text": "Baccouche Mhamedi F, Acar IE",
+        "label": "ORG",
+        "start": 2437,
+        "end": 2465
+      },
+      {
+        "text": "Handler K",
+        "label": "ORG",
+        "start": 2467,
+        "end": 2476
+      },
+      {
+        "text": "Platt RJ",
+        "label": "ORG",
+        "start": 2487,
+        "end": 2495
+      },
+      {
+        "text": "Piscuoglio S Moor AE",
+        "label": "ORG",
+        "start": 2497,
+        "end": 2517
+      },
+      {
+        "text": "24 July 2024",
+        "label": "DATE",
+        "start": 2606,
+        "end": 2618
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2625,
+        "end": 2632
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Adivarahan S",
+        "Andreas Moor",
+        "Borrelli C",
+        "Costanza Borrelli",
+        "Fazilaty H",
+        "Kimura S",
+        "Kretz JA",
+        "Meijs A",
+        "Valenta"
+      ],
+      "ORG": [
+        "Baccouche Mhamedi F, Acar IE",
+        "Blood",
+        "Handler K",
+        "Hussherr MD",
+        "Moor",
+        "Moor’s",
+        "Piscuoglio S Moor AE",
+        "Platt RJ",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "LOCATION": [
+        "Basel",
+        "ETH Zurich",
+        "Plexin",
+        "Plexin-B2",
+        "melanoma"
+      ],
+      "DATE": [
+        "24 July 2024",
+        "over a century"
+      ],
+      "MISC": [
+        "10.1038",
+        "Nature",
+        "One",
+        "The Liver",
+        "first",
+        "nine",
+        "ten",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "first": 2,
+      "The Liver": 1,
+      "nine": 1,
+      "ten": 1,
+      "Andreas Moor": 1,
+      "the Department of Biosystems Science and Engineering": 1,
+      "ETH Zurich": 1,
+      "Basel": 1,
+      "Nature": 1,
+      "Blood": 1,
+      "Costanza Borrelli": 1,
+      "Moor": 1,
+      "over a century": 1,
+      "Plexin-B2": 1,
+      "Moor’s": 1,
+      "Plexin": 1,
+      "two": 1,
+      "melanoma": 1,
+      "One": 1,
+      "Borrelli C": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 33
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "preventing-cancer-cells-from-colonising-the-liver.md",
+      "title": "En News Events/2024/07/preventing Cancer Cells From Colonising The Liver",
+      "language": "en",
+      "source_path": "en_news_events/2024/07/preventing-cancer-cells-from-colonising-the-liver.html"
+    },
+    "temporal": {
+      "publication_date": "2024-07",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Adivarahan S",
+        "Andreas Moor",
+        "Borrelli C",
+        "Costanza Borrelli",
+        "Fazilaty H",
+        "Kimura S",
+        "Kretz JA",
+        "Meijs A",
+        "Valenta"
+      ],
+      "people_with_roles": {
+        "Andreas Moor": [
+          "researcher"
+        ],
+        "Costanza Borrelli": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Nature",
+        "The Liver",
+        "first",
+        "nine"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Moor AE",
+        "Costanza Borrelli",
+        "Kretz JA",
+        "Valenta T",
+        "Biosystems Science",
+        "Platt RJ",
+        "Andreas Moor",
+        "Piscuoglio S",
+        "Karakatsani A",
+        "Borrelli C",
+        "What Moor",
+        "For Moor",
+        "Mannhart A",
+        "Kimura S",
+        "Adivarahan S",
+        "Roberts M",
+        "Meijs A",
+        "Fazilaty H",
+        "Eletto D",
+        "The Liver",
+        "Ficht X",
+        "Handler K",
+        "Guido Vinzoni",
+        "En News",
+        "Baccouche Mhamedi",
+        "Lafzi A",
+        "Hussherr MD",
+        "ETH Zurich",
+        "Cancer Cells",
+        "From Colonising",
+        "Acar IE"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biosystems Science and Engineering at ETH Zurich in Basel have now published results in the journal Nature showing how colorectal cancer cells colonise the liver"
+      ],
+      "institutions": [
+        "Baccouche Mhamedi F, Acar IE",
+        "Blood",
+        "Handler K",
+        "Hussherr MD",
+        "Moor",
+        "Moor’s",
+        "Piscuoglio S Moor AE",
+        "Platt RJ",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "locations": [
+        "Basel",
+        "ETH Zurich",
+        "Plexin",
+        "Plexin-B2",
+        "melanoma"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "first",
+        "The Liver",
+        "nine",
+        "ten",
+        "Andreas Moor",
+        "the Department of Biosystems Science and Engineering",
+        "ETH Zurich",
+        "Basel",
+        "Nature",
+        "Blood"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "In brief",
+          "Molecular docking mechanism unlocked",
+          "Molecular docking mechanism unlocked",
+          "Return to sedentary state",
+          "Signposts in the nervous system",
+          "Reference"
+        ],
+        "content_length": 5410
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Moor",
+        "Costanza Borrelli",
+        "Kretz JA",
+        "Platt RJ",
+        "Valenta",
+        "Andreas Moor",
+        "the Department of Biosystems Science and Engineering",
+        "Borrelli C",
+        "Baccouche Mhamedi F, Acar IE",
+        "Piscuoglio S Moor AE",
+        "Kimura S",
+        "Blood",
+        "Adivarahan S",
+        "Meijs A",
+        "Fazilaty H",
+        "Moor’s",
+        "Handler K",
+        "2024",
+        "Hussherr MD"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Nature",
+        "nine",
+        "who",
+        "10.1038",
+        "chemistry",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "The Liver",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Andreas Moor_has_role_researcher",
+        "Costanza Borrelli_has_role_student",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

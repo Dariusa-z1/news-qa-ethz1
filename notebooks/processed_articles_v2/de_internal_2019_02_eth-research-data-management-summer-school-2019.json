@@ -1,0 +1,201 @@
+{
+  "filename": "de_internal_2019_02_eth-research-data-management-summer-school-2019.md",
+  "original_filename": "de_internal_2019_02_eth-research-data-management-summer-school-2019.html",
+  "source_path": "de_internal/2019/02/eth-research-data-management-summer-school-2019.html",
+  "date": "2019-02",
+  "title": "Eth Research Data Management Summer School 2019",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Forschungsdatenmanagement (FDM) ist für Forschende unerlässlich. Es garantiert die sachgerechte Organisation von Forschungsdaten entlang des gesamten Lebenszyklus von der Erzeugung bis zur Erhaltung der Daten, inklusive des Teilens mit Dritten («FAIR Data»).\n\nDie Sessions decken folgende Themen ab:\n\nDie ETH Research Data Management Summer School findet vom 4. bis 7. Juni 2019 im ETH Alumni Pavillon statt. Doktorierende können 2 ECTS erlangen.\n\nWeitere Informationen zur ETH RDM Summer School"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/02",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "FDM",
+        "label": "ORG",
+        "start": 27,
+        "end": 30
+      },
+      {
+        "text": "Lebenszyklus",
+        "label": "MISC",
+        "start": 150,
+        "end": 162
+      },
+      {
+        "text": "FAIR Data",
+        "label": "MISC",
+        "start": 246,
+        "end": 255
+      },
+      {
+        "text": "ETH Research Data Management Summer School",
+        "label": "ORG",
+        "start": 303,
+        "end": 345
+      },
+      {
+        "text": "ETH Alumni Pavillon",
+        "label": "ORG",
+        "start": 380,
+        "end": 399
+      },
+      {
+        "text": "ECTS",
+        "label": "MISC",
+        "start": 430,
+        "end": 434
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 471,
+        "end": 474
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "ETH Alumni Pavillon",
+        "ETH Research Data Management Summer School",
+        "FDM"
+      ],
+      "LOCATION": [
+        "De Internal/2019/02"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ECTS",
+        "FAIR Data",
+        "Lebenszyklus"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2019/02": 1,
+      "FDM": 1,
+      "Lebenszyklus": 1,
+      "FAIR Data": 1,
+      "ETH Research Data Management Summer School": 1,
+      "ETH Alumni Pavillon": 1,
+      "ECTS": 1,
+      "ETH": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_02_eth-research-data-management-summer-school-2019.md",
+      "title": "De Internal/2019/02/eth Research Data Management Summer School 2019",
+      "language": "de",
+      "source_path": "de_internal/2019/02/eth-research-data-management-summer-school-2019.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "alumni"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ECTS",
+        "FAIR Data",
+        "Lebenszyklus"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Die Sessions",
+        "Research Data",
+        "De Internal",
+        "ETH Alumni",
+        "ETH RDM",
+        "Die ETH",
+        "Summer School",
+        "Management Summer",
+        "Weitere Informationen",
+        "FAIR Data"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Alumni Pavillon",
+        "ETH Research Data Management Summer School",
+        "FDM"
+      ],
+      "locations": [
+        "De Internal/2019/02"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2019/02",
+        "FDM",
+        "Lebenszyklus",
+        "FAIR Data",
+        "ETH Research Data Management Summer School",
+        "ETH Alumni Pavillon",
+        "ECTS",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 563
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "ETH Research Data Management Summer School",
+        "2019",
+        "EU",
+        "ETH Alumni Pavillon",
+        "FDM"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ECTS",
+        "when",
+        "what",
+        "FAIR Data",
+        "Lebenszyklus"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

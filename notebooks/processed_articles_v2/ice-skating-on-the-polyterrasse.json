@@ -1,0 +1,246 @@
+{
+  "filename": "ice-skating-on-the-polyterrasse.md",
+  "original_filename": "ice-skating-on-the-polyterrasse.html",
+  "source_path": "en_internal/2015/11/ice-skating-on-the-polyterrasse.html",
+  "date": "2015-11",
+  "title": "Ice Skating On The Polyterrasse",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Zurich's most beautifully situated ice rink with views of the city centre will be open for four weeks from Saturday. ETH Zurich invites staff, students and local residents to enjoy skating and refreshments at the ice rink on the Polyterrasse from 21 November to 18 December 2015. Ice skates are available to hire for six francs.\n\nOn Saturday and Sunday afternoons there will be storytelling for children and the Academic Sports Association Zurich (ASVZ) will be offering pond hockey training sessions. There will also be a Headphone Party, a quiz, and various ice shows. Delicious, traditional dishes will be served in the festival hall, and brunch will be available next to the ice rink at weekends.\n\nThe Polyterrasse ice rink is a project by the Office for Events and Services. Members of the various student societies and the Association of Students at ETH Zurich (VSETH) are responsible for running the ice rink.\n\nFor further information go to www.ethz.ch/eisfeld (in German only)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Polyterrasse",
+        "label": "WORK_OF_ART",
+        "start": 35,
+        "end": 51
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "four weeks",
+        "label": "DATE",
+        "start": 91,
+        "end": 101
+      },
+      {
+        "text": "Saturday",
+        "label": "DATE",
+        "start": 107,
+        "end": 115
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 117,
+        "end": 127
+      },
+      {
+        "text": "21 November to 18 December 2015",
+        "label": "DATE",
+        "start": 247,
+        "end": 278
+      },
+      {
+        "text": "six francs",
+        "label": "MONEY",
+        "start": 317,
+        "end": 327
+      },
+      {
+        "text": "Saturday",
+        "label": "DATE",
+        "start": 332,
+        "end": 340
+      },
+      {
+        "text": "the Academic Sports Association Zurich",
+        "label": "ORG",
+        "start": 407,
+        "end": 445
+      },
+      {
+        "text": "ASVZ",
+        "label": "ORG",
+        "start": 447,
+        "end": 451
+      },
+      {
+        "text": "the Office for Events and Services",
+        "label": "ORG",
+        "start": 742,
+        "end": 776
+      },
+      {
+        "text": "the Association of Students",
+        "label": "ORG",
+        "start": 823,
+        "end": 850
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 854,
+        "end": 864
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 969,
+        "end": 975
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ASVZ",
+        "ETH Zurich",
+        "the Academic Sports Association Zurich",
+        "the Association of Students",
+        "the Office for Events and Services"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "21 November to 18 December 2015",
+        "Saturday",
+        "four weeks"
+      ],
+      "MISC": [
+        "German",
+        "The Polyterrasse",
+        "six francs"
+      ]
+    },
+    "entity_counts": {
+      "Saturday": 2,
+      "ETH Zurich": 2,
+      "The Polyterrasse": 1,
+      "Zurich": 1,
+      "four weeks": 1,
+      "21 November to 18 December 2015": 1,
+      "six francs": 1,
+      "the Academic Sports Association Zurich": 1,
+      "ASVZ": 1,
+      "the Office for Events and Services": 1,
+      "the Association of Students": 1,
+      "German": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ice-skating-on-the-polyterrasse.md",
+      "title": "En Internal/2015/11/ice Skating On The Polyterrasse",
+      "language": "en",
+      "source_path": "en_internal/2015/11/ice-skating-on-the-polyterrasse.html"
+    },
+    "temporal": {
+      "publication_date": "2015-11",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "German",
+        "The Polyterrasse",
+        "six francs"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Association Zurich",
+        "On Saturday",
+        "En Internal",
+        "Skating On",
+        "The Polyterrasse",
+        "Academic Sports",
+        "ETH Zurich",
+        "Headphone Party"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ASVZ",
+        "ETH Zurich",
+        "the Academic Sports Association Zurich",
+        "the Association of Students",
+        "the Office for Events and Services"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Saturday",
+        "ETH Zurich",
+        "The Polyterrasse",
+        "Zurich",
+        "four weeks",
+        "21 November to 18 December 2015",
+        "six francs",
+        "the Academic Sports Association Zurich",
+        "ASVZ",
+        "the Office for Events and Services"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1037
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Association of Students",
+        "2015",
+        "the Office for Events and Services",
+        "ASVZ",
+        "ETH Zurich",
+        "the Academic Sports Association Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "six francs",
+        "what",
+        "how",
+        "The Polyterrasse",
+        "German"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

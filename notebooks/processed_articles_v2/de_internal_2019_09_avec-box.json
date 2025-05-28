@@ -1,0 +1,283 @@
+{
+  "filename": "de_internal_2019_09_avec-box.md",
+  "original_filename": "de_internal_2019_09_avec-box.html",
+  "source_path": "de_internal/2019/09/avec-box.html",
+  "date": "2019-09",
+  "title": "Avec Box",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Ein lang verfolgtes Ziel erreicht",
+      "text": "Die neue Einkaufsmöglichkeit der Firma Valora ist ein Containergebäude und wurde im Frühling 2019 lanciert. Sie steht nun allen ETH-Angehörigen sowie Besucherinnen und Besuchern des Campus vom 17. September bis zum 10. November zur Verfügung. Voraussetzung ist eine persönliche Identifizierung via App und die Hinterlegung eines Zahlungsmittels. Tagsüber ist Personal vor Ort, das die Kundinnen und Kunden beim Einkaufsprozess unterstützt. In der Nacht und am Wochenende kommt der Betrieb ohne Personal aus."
+    },
+    {
+      "heading": "Ein lang verfolgtes Ziel erreicht",
+      "text": "Das Sortiment umfasst rund 1’000 Artikel: Lebensmittel, Essen für unterwegs und das Wichtigste für den Haushalt. Angeliefert wird zweimal täglich. «Ich freue mich, dass wir den ETH-Angehörigen probeweise nun durchgehend eine Einkaufsmöglichkeit anbieten können», sagt Marcel Zurbuchen, der Verantwortliche der ETH für die Partnerbetriebe. Schon vor gut zehn Jahren habe man an der ETH das Ziel formuliert, dass man sich auch ausserhalb von normalen Ladenöffnungszeiten auf dem Campus verpflegen kann. «Heute studieren und arbeiten täglich rund 12'000 ETH-Angehörige auf dem Hönggerberg, und 900 Studierende wohnen hier. Insbesondere auch sie dürften an diesem Angebot Interesse zeigen», so Marcel Zurbuchen."
+    },
+    {
+      "heading": "Gemeinsame Entwicklungsarbeit",
+      "text": "Das aktuelle Projekt profitiert von einer 2016 gestarteten Zusammenarbeit zwischen der ETH-Forschenden und Valora zum Thema kassenloses Einkaufen. Zusammen mit dem Forschungsnetzwerk Auto-ID Labs von ETH und Universität St. Gallen, das sich Lösungen im Bereich Internet of Things widmet, entwickelte Valora eine erste App, mit der Produkte selbständig gescannt und mit einer hinterlegten Kreditkarte bezahlt werden konnten."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/09/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Valora",
+        "label": "ORG",
+        "start": 39,
+        "end": 45
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "ORG",
+        "start": 128,
+        "end": 143
+      },
+      {
+        "text": "Essen",
+        "label": "ORG",
+        "start": 56,
+        "end": 61
+      },
+      {
+        "text": "Angeliefert",
+        "label": "LOC",
+        "start": 113,
+        "end": 124
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "ORG",
+        "start": 177,
+        "end": 192
+      },
+      {
+        "text": "Marcel Zurbuchen",
+        "label": "PER",
+        "start": 268,
+        "end": 284
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 310,
+        "end": 313
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 381,
+        "end": 384
+      },
+      {
+        "text": "12'000 ETH-Angehörige auf dem Hönggerberg",
+        "label": "MISC",
+        "start": 544,
+        "end": 585
+      },
+      {
+        "text": "Marcel Zurbuchen",
+        "label": "PER",
+        "start": 690,
+        "end": 706
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 87,
+        "end": 102
+      },
+      {
+        "text": "Valora",
+        "label": "MISC",
+        "start": 107,
+        "end": 113
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 200,
+        "end": 203
+      },
+      {
+        "text": "Universität St. Gallen",
+        "label": "ORG",
+        "start": 208,
+        "end": 230
+      },
+      {
+        "text": "Internet of Things",
+        "label": "MISC",
+        "start": 261,
+        "end": 279
+      },
+      {
+        "text": "Valora",
+        "label": "MISC",
+        "start": 300,
+        "end": 306
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Marcel Zurbuchen"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH-Angehörigen",
+        "ETH-Forschenden",
+        "Essen",
+        "Universität St. Gallen",
+        "Valora"
+      ],
+      "LOCATION": [
+        "Angeliefert",
+        "De Internal/2019/09/"
+      ],
+      "DATE": [],
+      "MISC": [
+        "12'000 ETH-Angehörige auf dem Hönggerberg",
+        "Internet of Things",
+        "Valora"
+      ]
+    },
+    "entity_counts": {
+      "Valora": 3,
+      "ETH": 3,
+      "ETH-Angehörigen": 2,
+      "Marcel Zurbuchen": 2,
+      "De Internal/2019/09/": 1,
+      "Essen": 1,
+      "Angeliefert": 1,
+      "12'000 ETH-Angehörige auf dem Hönggerberg": 1,
+      "ETH-Forschenden": 1,
+      "Universität St. Gallen": 1,
+      "Internet of Things": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_09_avec-box.md",
+      "title": "De Internal/2019/09/avec Box",
+      "language": "de",
+      "source_path": "de_internal/2019/09/avec-box.html"
+    },
+    "temporal": {
+      "publication_date": "2019-09",
+      "mentioned_years": [
+        "2016",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Marcel Zurbuchen"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "12'000 ETH-Angehörige auf dem Hönggerberg",
+        "Internet of Things",
+        "Valora"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "De Internal",
+        "Das Sortiment",
+        "Firma Valora",
+        "Bereich Internet",
+        "ETH-Forschenden",
+        "Box Die",
+        "Marcel Zurbuchen",
+        "Angebot Interesse",
+        "Forschungsnetzwerk Auto",
+        "ID Labs"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH-Angehörigen",
+        "ETH-Forschenden",
+        "Essen",
+        "Universität St. Gallen",
+        "Valora"
+      ],
+      "locations": [
+        "Angeliefert",
+        "De Internal/2019/09/"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Valora",
+        "ETH",
+        "ETH-Angehörigen",
+        "Marcel Zurbuchen",
+        "De Internal/2019/09/",
+        "Essen",
+        "Angeliefert",
+        "12'000 ETH-Angehörige auf dem Hönggerberg",
+        "ETH-Forschenden",
+        "Universität St. Gallen"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Ein lang verfolgtes Ziel erreicht",
+          "Ein lang verfolgtes Ziel erreicht",
+          "Gemeinsame Entwicklungsarbeit"
+        ],
+        "content_length": 1668
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Essen",
+        "2019",
+        "EU",
+        "Universität St. Gallen",
+        "2016",
+        "ETH-Forschenden",
+        "ETH-Angehörigen",
+        "Marcel Zurbuchen",
+        "Valora"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "Internet of Things",
+        "12'000 ETH-Angehörige auf dem Hönggerberg",
+        "when",
+        "Valora"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

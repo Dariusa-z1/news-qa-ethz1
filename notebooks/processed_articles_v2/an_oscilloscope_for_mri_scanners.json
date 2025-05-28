@@ -1,0 +1,391 @@
+{
+  "filename": "an_oscilloscope_for_mri_scanners.md",
+  "original_filename": "an_oscilloscope_for_mri_scanners.html",
+  "source_path": "en_news_events/2015/02/an_oscilloscope_for_mri_scanners.html",
+  "date": "2015-02",
+  "title": "Oscilloscope For Mri Scanners",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "From students to entrepreneurs",
+      "text": "“Actually, I really wanted to work in the insurance industry,” explains Christoph Barmet with a sheepish smile. Ten years, an ETH Silver Medal and a spin-off later, however, the 37-year old is now confident that his decision to focus on MRI technology instead of the insurance industry was the right one.\n\nMRI (magnetic resonance imaging) is defined as the form of magnetic resonance spectroscopy that produces cross-section images in any desired spatial plane, with excellent contrast particularly for tissue and internal organs in the human body. Based on MR images, accurate medical diagnosis and detailed exploration of individual body parts are possible. MRI is based on the fact that nuclei of hydrogen atoms within the human body can be excited by radio waves and as a result emit radio waves themselves. These waves are received by special coils, encoded with the help of magnetic fields and reconstructed into images using software.\n\nThe former ETH student first got to know and love the technology while working on his master thesis. “In my thesis, I tried to make the heart vessels more visible through MRI. I found the technology so fascinating that I didn’t have to think twice when Professor Prüssmann offered me a doctoral dissertation in the MRI field,” recalls Barmet, who comes from Lucerne.\n\nAt almost the same time that he finished, David Brunner and Bertram Wilm also completed their doctorates in MRI technology at ETH Zurich’s Institute for Biomedical Engineering. Barmet and Brunner both received an ETH Medal for their work. Beside their enthusiasm for MRI technology, a further passion united the three physics wizards: the dream of their own business. “In 2011, the time had come. Two years following our dissertation, our spin-off named Skope was born,” says Barmet, beaming. “We had long considered the product we wanted to produce and eventually decided on a measurement instrument to improve MRI images, dubbed Dynamic Field Camera.”"
+    },
+    {
+      "heading": "More precise research results and early diagnosis",
+      "text": "This camera measures the encoding magnetic field dynamics present in the MR scanner with unprecedented accuracy and sensitivity, detecting encoding errors that are unavoidable even with the newest machines. These errors can be corrected either at the pre-emphasis level, in real time, or afterwards in the reconstruction of the data into images. Thus, more accurate, faster and more quantitative MRI images are possible.\n\nMeanwhile, the young entrepreneurs have also brought a second product, the Clip-on Camera, to market. It measures the dynamic magnetic fields during the actual MRI scan and allows a correction of the magnetic fields in real time; thereby perturbations are removed and the images turn more precise without involving additional signal post-processing.\n\nPotential users of this innovative device include primarily MRI researchers and manufacturers of MRI scanners. And despite the significant cost of about CHF 250,000 per device, the ETH graduates are pleased with sales so far. “Several research groups from around the world have bought our cameras, as well as Siemens, the largest manufacturer of MRI scanners. Philipps is currently testing it,” says Barmet. In the long run, the measurement devices will lead to more precise research results, and faster, more accurate medical diagnosis. For example, tumours can be detected earlier with the camera and blood flow measured more effectively than before. “If at some point the Dynamic Field Camera sensor technology were installed in every MRI scanner, it would mean faster, enhanced MRI diagnostics, and the realization of my dream” says Barmet."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Oscilloscope For Mri Scanners",
+        "label": "ORG",
+        "start": 0,
+        "end": 29
+      },
+      {
+        "text": "Christoph Barmet",
+        "label": "PERSON",
+        "start": 72,
+        "end": 88
+      },
+      {
+        "text": "Ten years",
+        "label": "DATE",
+        "start": 112,
+        "end": 121
+      },
+      {
+        "text": "37-year old",
+        "label": "DATE",
+        "start": 178,
+        "end": 189
+      },
+      {
+        "text": "MR",
+        "label": "GPE",
+        "start": 557,
+        "end": 559
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 952,
+        "end": 955
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 964,
+        "end": 969
+      },
+      {
+        "text": "Prüssmann",
+        "label": "PERSON",
+        "start": 1204,
+        "end": 1213
+      },
+      {
+        "text": "Lucerne",
+        "label": "GPE",
+        "start": 1299,
+        "end": 1306
+      },
+      {
+        "text": "David Brunner",
+        "label": "PERSON",
+        "start": 1350,
+        "end": 1363
+      },
+      {
+        "text": "Bertram Wilm",
+        "label": "PERSON",
+        "start": 1368,
+        "end": 1380
+      },
+      {
+        "text": "ETH Zurich’s Institute for Biomedical Engineering",
+        "label": "ORG",
+        "start": 1434,
+        "end": 1483
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1620,
+        "end": 1625
+      },
+      {
+        "text": "Two years",
+        "label": "DATE",
+        "start": 1705,
+        "end": 1714
+      },
+      {
+        "text": "Skope",
+        "label": "PERSON",
+        "start": 1762,
+        "end": 1767
+      },
+      {
+        "text": "Barmet",
+        "label": "PERSON",
+        "start": 1784,
+        "end": 1790
+      },
+      {
+        "text": "Dynamic Field Camera",
+        "label": "WORK_OF_ART",
+        "start": 1939,
+        "end": 1959
+      },
+      {
+        "text": "MR",
+        "label": "GPE",
+        "start": 73,
+        "end": 75
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 476,
+        "end": 482
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 924,
+        "end": 927
+      },
+      {
+        "text": "250,000",
+        "label": "CARDINAL",
+        "start": 928,
+        "end": 935
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 952,
+        "end": 955
+      },
+      {
+        "text": "Siemens",
+        "label": "ORG",
+        "start": 1080,
+        "end": 1087
+      },
+      {
+        "text": "Philipps",
+        "label": "GPE",
+        "start": 1131,
+        "end": 1139
+      },
+      {
+        "text": "the Dynamic Field Camera",
+        "label": "ORG",
+        "start": 1442,
+        "end": 1466
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Barmet",
+        "Bertram Wilm",
+        "Christoph Barmet",
+        "David Brunner",
+        "Prüssmann",
+        "Skope"
+      ],
+      "ORG": [
+        "CHF",
+        "ETH",
+        "ETH Zurich’s Institute for Biomedical Engineering",
+        "Oscilloscope For Mri Scanners",
+        "Siemens",
+        "the Dynamic Field Camera"
+      ],
+      "LOCATION": [
+        "Lucerne",
+        "MR",
+        "Philipps"
+      ],
+      "DATE": [
+        "37-year old",
+        "Ten years",
+        "Two years"
+      ],
+      "MISC": [
+        "250,000",
+        "Dynamic Field Camera",
+        "first",
+        "second",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "MR": 2,
+      "ETH": 2,
+      "Oscilloscope For Mri Scanners": 1,
+      "Christoph Barmet": 1,
+      "Ten years": 1,
+      "37-year old": 1,
+      "first": 1,
+      "Prüssmann": 1,
+      "Lucerne": 1,
+      "David Brunner": 1,
+      "Bertram Wilm": 1,
+      "ETH Zurich’s Institute for Biomedical Engineering": 1,
+      "three": 1,
+      "Two years": 1,
+      "Skope": 1,
+      "Barmet": 1,
+      "Dynamic Field Camera": 1,
+      "second": 1,
+      "CHF": 1,
+      "250,000": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "an_oscilloscope_for_mri_scanners.md",
+      "title": "Oscilloscope For Mri Scanners",
+      "language": "en",
+      "source_path": "en_news_events/2015/02/an_oscilloscope_for_mri_scanners.html"
+    },
+    "temporal": {
+      "publication_date": "2015-02",
+      "mentioned_years": [
+        "2011"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Barmet",
+        "Bertram Wilm",
+        "Christoph Barmet",
+        "David Brunner",
+        "Prüssmann",
+        "Skope"
+      ],
+      "people_with_roles": {
+        "Barmet": [
+          "professor"
+        ],
+        "Prüssmann": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "250,000",
+        "Dynamic Field Camera",
+        "first",
+        "second",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH Silver",
+        "Mri Scanners",
+        "Bertram Wilm",
+        "Oscilloscope For",
+        "Dynamic Field",
+        "ETH Zurich",
+        "David Brunner",
+        "Christoph Barmet",
+        "ETH Medal",
+        "Biomedical Engineering"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biomedical Engineering"
+      ],
+      "institutions": [
+        "CHF",
+        "ETH",
+        "ETH Zurich’s Institute for Biomedical Engineering",
+        "Oscilloscope For Mri Scanners",
+        "Siemens",
+        "the Dynamic Field Camera"
+      ],
+      "locations": [
+        "Lucerne",
+        "MR",
+        "Philipps"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "MR",
+        "ETH",
+        "Oscilloscope For Mri Scanners",
+        "Christoph Barmet",
+        "Ten years",
+        "37-year old",
+        "first",
+        "Prüssmann",
+        "Lucerne",
+        "David Brunner"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "From students to entrepreneurs",
+          "More precise research results and early diagnosis"
+        ],
+        "content_length": 3612
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich’s Institute for Biomedical Engineering",
+        "ETH",
+        "CHF",
+        "Barmet",
+        "the Dynamic Field Camera",
+        "2011",
+        "Oscilloscope For Mri Scanners",
+        "EU",
+        "Siemens",
+        "Bertram Wilm",
+        "Skope",
+        "Prüssmann",
+        "David Brunner",
+        "Christoph Barmet"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Dynamic Field Camera",
+        "first",
+        "computer_science",
+        "three",
+        "who",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "250,000",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Barmet_has_role_professor",
+        "Prüssmann_has_role_Professor",
+        "Prüssmann_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

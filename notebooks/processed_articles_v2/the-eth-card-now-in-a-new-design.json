@@ -1,0 +1,290 @@
+{
+  "filename": "the-eth-card-now-in-a-new-design.md",
+  "original_filename": "the-eth-card-now-in-a-new-design.html",
+  "source_path": "en_internal/2015/05/the-eth-card-now-in-a-new-design.html",
+  "date": "2015-05",
+  "title": "The Eth Card Now In A New Design",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Staff and students at ETH Zurich will receive a new ETH card this summer. This card will have a new design: the green look that was introduced back in 2008 will be replaced with a blue of the ETH Zurich corporate design.\n\nThe new card is fitted with an updated version of the RFID chip already in use. The electronic functions of the ETH card and the card management system are the same as before, and the information included on the card will also remain the same. The card will still feature the ETH logo, employee information, name, date of birth, validity period, professional role, organisational responsibilities, identification number and, if applicable, access to ASVZ facilities and services.\n\nThe old ETH card will be replaced by the new one from July for students and new employees. ETH Zurich employees who already have an ETH card will receive a new card by post from mid-August. They must then validate the card at one of the existing terminals. The old ETH cards will no longer be accepted from around October 2015.\n\nStarting now, employees who have not updated their photograph for more than three years will be asked to replace it. To do this, they can upload a new passport-sized photograph that is suitable for identification purposes at www.adresses.ethz.ch .\n\nLike ETH Zurich, the University of Zurich will also be launching a new UZH card for their staff and students this year, which will be similar in form and function to the new ETH card. Having the two universities use a similar card has proven effective since 2008."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 22,
+        "end": 32
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 52,
+        "end": 55
+      },
+      {
+        "text": "this summer",
+        "label": "DATE",
+        "start": 61,
+        "end": 72
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 192,
+        "end": 202
+      },
+      {
+        "text": "RFID",
+        "label": "ORG",
+        "start": 275,
+        "end": 279
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 333,
+        "end": 336
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 497,
+        "end": 500
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 709,
+        "end": 712
+      },
+      {
+        "text": "July",
+        "label": "DATE",
+        "start": 755,
+        "end": 759
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 792,
+        "end": 802
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 833,
+        "end": 836
+      },
+      {
+        "text": "mid-August",
+        "label": "DATE",
+        "start": 879,
+        "end": 889
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 966,
+        "end": 969
+      },
+      {
+        "text": "around October 2015",
+        "label": "DATE",
+        "start": 1008,
+        "end": 1027
+      },
+      {
+        "text": "more than three years",
+        "label": "DATE",
+        "start": 1095,
+        "end": 1116
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1282,
+        "end": 1292
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 1294,
+        "end": 1318
+      },
+      {
+        "text": "UZH",
+        "label": "ORG",
+        "start": 1348,
+        "end": 1351
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 1386,
+        "end": 1395
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1451,
+        "end": 1454
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1472,
+        "end": 1475
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "RFID",
+        "UZH",
+        "the University of Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "July",
+        "around October 2015",
+        "mid-August",
+        "more than three years",
+        "this summer",
+        "this year"
+      ],
+      "MISC": [
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 7,
+      "ETH Zurich": 4,
+      "this summer": 1,
+      "RFID": 1,
+      "July": 1,
+      "mid-August": 1,
+      "around October 2015": 1,
+      "more than three years": 1,
+      "the University of Zurich": 1,
+      "UZH": 1,
+      "this year": 1,
+      "two": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-eth-card-now-in-a-new-design.md",
+      "title": "En Internal/2015/05/the Eth Card Now in A New Design",
+      "language": "en",
+      "source_path": "en_internal/2015/05/the-eth-card-now-in-a-new-design.html"
+    },
+    "temporal": {
+      "publication_date": "2015-05",
+      "mentioned_years": [
+        "2008",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Design Staff",
+        "Eth Card",
+        "En Internal",
+        "Like ETH",
+        "A New",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "RFID",
+        "UZH",
+        "the University of Zurich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Zurich",
+        "this summer",
+        "RFID",
+        "July",
+        "mid-August",
+        "around October 2015",
+        "more than three years",
+        "the University of Zurich",
+        "UZH"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1597
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2015",
+        "2008",
+        "the University of Zurich",
+        "UZH",
+        "ETH Zurich",
+        "RFID"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

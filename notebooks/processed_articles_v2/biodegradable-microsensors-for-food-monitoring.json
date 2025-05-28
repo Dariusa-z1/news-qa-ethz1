@@ -1,0 +1,436 @@
+{
+  "filename": "biodegradable-microsensors-for-food-monitoring.md",
+  "original_filename": "biodegradable-microsensors-for-food-monitoring.html",
+  "source_path": "en_news_events/2017/09/biodegradable-microsensors-for-food-monitoring.html",
+  "date": "2017-09",
+  "title": "Biodegradable Microsensors For Food Monitoring",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Magnesium wire and compostable polymer",
+      "text": "Nowadays microsensors are already used in many different applications, such as the detection of poisonous gases. They are also integrated into miniaturised transmitter/receiver systems, such as the ubiquitous RFID chips. However, as the sensors often contain precious metals that are harmful to both the environment and human health, they are not suitable for medical applications involving direct contact with the human body or for inclusion in food products. There is therefore a high level of interest, both in research and industry, in developing microsensors made from non-toxic materials that are also biodegradable."
+    },
+    {
+      "heading": "Magnesium wire and compostable polymer",
+      "text": "A team of researchers led by Giovanni Salvatore, post-doc in the Electronics Laboratory, has been working with scientists from other ETH institutes on the development of biodegradable microsensors for temperature measurement. They have just reported their findings in the scientific journal “Advanced Functional Materials”. The biocompatible microsensors are created by encapsulating a superfine, tightly wound electrical filament made of magnesium, silicon dioxide and nitride in a compostable polymer. Magnesium is an important component of our diet, while silicon dioxide and nitride are biocompatible and dissolvable in water. The polymer in question is produced from corn and potato starch, and its composition complies with EU and US foodstuff legislation.\n\nGiovanni Salvatore, a postdoctoral researcher working in Professor Tröster’s group, is convinced that these biodegradable microsensors have a bright future. As an example, he cites one potential application: “In preparation for transport to Europe, fish from Japan could be fitted with tiny temperature sensors, allowing them to be continuously monitored to ensure they are kept at a cool enough temperature.” This requires sensors that are suitable for use in foodstuffs and are no threat to consumer health. The sensors also need to be small, robust and flexible enough to survive in containers full of fish or other food products."
+    },
+    {
+      "heading": "Thinner than a single hair filament",
+      "text": "The sensor developed by researchers is only 16 micrometres thick, making it much thinner than a human hair (100 micrometres), and – being only a few millimetres in length – weighs no more than a fraction of a milligram. In its current form, the sensor dissolves completely in a one-percent saline solution over the course of 67 days. At present, the sensor continues to function for one day when completely submersed in water. This time would be sufficient to monitor a shipment of fish from Japan to Europe. “But it’s relatively easy to extend the operating life by adjusting the thickness of the polymer,” Salvatore says. A thicker sensor would be less flexible, however. The current sensor is so thin that it continues to function even if it is completely crumpled or folded. Even when stretched by around 10% of its original size, the sensor remains intact.\n\nFor the power supply, researchers have connected the sensor to an external micro battery using ultra-thin, biodegradable zinc cables. On the same (non-biodegradable) chip there is a microprocessor and a transmitter that sends the temperature data via Bluetooth to an external computer. This makes it possible to monitor the temperature of a product over a range of 10 to 20 metres."
+    },
+    {
+      "heading": "Biosensors will become commonplace",
+      "text": "Producing biocompatible microsensors is currently a very time-consuming and expensive process. However, Salvatore is confident that it will soon be possible to produce such sensors for the mass market, especially as the methods of printing electronic circuits are becoming increasingly sophisticated. “Once the price of biosensors falls enough, they could be used virtually anywhere,” Salvatore says. Sensors would provide the link between the physical and digital world, bringing food products into the “Internet of Things”. Their use would not be limited to temperature measurement either: similar microsensors could be deployed to monitor pressure, gas build-up and UV exposure.\n\nSalvatore predicts that these biodegradable sensors will be part of our everyday lives within 5 to 10 years, depending on the level of interest shown by industry. By that time, the battery, processor and transmitter would probably be integrated into the microsensor, Salvatore explains. A lot more research is still required before these components can be used without concerns for human health or the environment. The team is therefore currently searching for a biocompatible energy source to power its sensor.\n\nSalvatore GA et al. Biodegradable and Highly Deformable Temperature Sensors for the Internet of Things. Advanced Functional Materials 2017. 1702390. doi: 10.1002/adfm.201702390"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Microsensors For Food Monitoring",
+        "label": "WORK_OF_ART",
+        "start": 37,
+        "end": 69
+      },
+      {
+        "text": "RFID",
+        "label": "ORG",
+        "start": 209,
+        "end": 213
+      },
+      {
+        "text": "Giovanni Salvatore",
+        "label": "PERSON",
+        "start": 29,
+        "end": 47
+      },
+      {
+        "text": "the Electronics Laboratory",
+        "label": "ORG",
+        "start": 61,
+        "end": 87
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 133,
+        "end": 136
+      },
+      {
+        "text": "Advanced Functional Materials",
+        "label": "WORK_OF_ART",
+        "start": 292,
+        "end": 321
+      },
+      {
+        "text": "Magnesium",
+        "label": "PERSON",
+        "start": 504,
+        "end": 513
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 730,
+        "end": 732
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 737,
+        "end": 739
+      },
+      {
+        "text": "Giovanni Salvatore",
+        "label": "PERSON",
+        "start": 763,
+        "end": 781
+      },
+      {
+        "text": "Tröster’s",
+        "label": "PERSON",
+        "start": 830,
+        "end": 839
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 944,
+        "end": 947
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1004,
+        "end": 1010
+      },
+      {
+        "text": "Japan",
+        "label": "GPE",
+        "start": 1022,
+        "end": 1027
+      },
+      {
+        "text": "only 16",
+        "label": "CARDINAL",
+        "start": 39,
+        "end": 46
+      },
+      {
+        "text": "one-percent",
+        "label": "PERCENT",
+        "start": 278,
+        "end": 289
+      },
+      {
+        "text": "67 days",
+        "label": "DATE",
+        "start": 325,
+        "end": 332
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 383,
+        "end": 390
+      },
+      {
+        "text": "Japan",
+        "label": "GPE",
+        "start": 492,
+        "end": 497
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 501,
+        "end": 507
+      },
+      {
+        "text": "Salvatore",
+        "label": "PERSON",
+        "start": 608,
+        "end": 617
+      },
+      {
+        "text": "around 10%",
+        "label": "PERCENT",
+        "start": 802,
+        "end": 812
+      },
+      {
+        "text": "10 to 20 metres",
+        "label": "QUANTITY",
+        "start": 1227,
+        "end": 1242
+      },
+      {
+        "text": "Salvatore",
+        "label": "PERSON",
+        "start": 104,
+        "end": 113
+      },
+      {
+        "text": "Salvatore",
+        "label": "PERSON",
+        "start": 385,
+        "end": 394
+      },
+      {
+        "text": "5 to 10 years",
+        "label": "DATE",
+        "start": 776,
+        "end": 789
+      },
+      {
+        "text": "Salvatore",
+        "label": "PERSON",
+        "start": 949,
+        "end": 958
+      },
+      {
+        "text": "10.1002",
+        "label": "CARDINAL",
+        "start": 1348,
+        "end": 1355
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Giovanni Salvatore",
+        "Magnesium",
+        "Salvatore",
+        "Tröster’s"
+      ],
+      "ORG": [
+        "ETH",
+        "EU",
+        "En News",
+        "RFID",
+        "the Electronics Laboratory"
+      ],
+      "LOCATION": [
+        "Europe",
+        "Japan",
+        "US"
+      ],
+      "DATE": [
+        "5 to 10 years",
+        "67 days",
+        "one day"
+      ],
+      "MISC": [
+        "10 to 20 metres",
+        "10.1002",
+        "Advanced Functional Materials",
+        "Microsensors For Food Monitoring",
+        "around 10%",
+        "one",
+        "one-percent",
+        "only 16"
+      ]
+    },
+    "entity_counts": {
+      "Salvatore": 4,
+      "Giovanni Salvatore": 2,
+      "Europe": 2,
+      "Japan": 2,
+      "En News": 1,
+      "Microsensors For Food Monitoring": 1,
+      "RFID": 1,
+      "the Electronics Laboratory": 1,
+      "ETH": 1,
+      "Advanced Functional Materials": 1,
+      "Magnesium": 1,
+      "EU": 1,
+      "US": 1,
+      "Tröster’s": 1,
+      "one": 1,
+      "only 16": 1,
+      "one-percent": 1,
+      "67 days": 1,
+      "one day": 1,
+      "around 10%": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "biodegradable-microsensors-for-food-monitoring.md",
+      "title": "En News Events/2017/09/biodegradable Microsensors For Food Monitoring",
+      "language": "en",
+      "source_path": "en_news_events/2017/09/biodegradable-microsensors-for-food-monitoring.html"
+    },
+    "temporal": {
+      "publication_date": "2017-09",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Giovanni Salvatore",
+        "Magnesium",
+        "Salvatore",
+        "Tröster’s"
+      ],
+      "people_with_roles": {
+        "Giovanni Salvatore": [
+          "scientist",
+          "researcher",
+          "professor"
+        ],
+        "Salvatore": [
+          "scientist",
+          "researcher",
+          "professor"
+        ],
+        "Tröster’s": [
+          "Professor",
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10 to 20 metres",
+        "10.1002",
+        "Advanced Functional Materials",
+        "Microsensors For Food Monitoring",
+        "around 10%",
+        "one-percent",
+        "only 16"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Temperature Sensors",
+        "Advanced Functional",
+        "Food Monitoring",
+        "En News",
+        "Electronics Laboratory",
+        "Highly Deformable",
+        "Salvatore GA",
+        "Giovanni Salvatore",
+        "Microsensors For"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "EU",
+        "En News",
+        "RFID",
+        "the Electronics Laboratory"
+      ],
+      "locations": [
+        "Europe",
+        "Japan",
+        "US"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Salvatore",
+        "Giovanni Salvatore",
+        "Europe",
+        "Japan",
+        "En News",
+        "Microsensors For Food Monitoring",
+        "RFID",
+        "the Electronics Laboratory",
+        "ETH",
+        "Advanced Functional Materials"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Magnesium wire and compostable polymer",
+          "Magnesium wire and compostable polymer",
+          "Thinner than a single hair filament",
+          "Biosensors will become commonplace"
+        ],
+        "content_length": 4708
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the Electronics Laboratory",
+        "En News",
+        "2017",
+        "Magnesium",
+        "EU",
+        "RFID",
+        "Giovanni Salvatore",
+        "Tröster’s",
+        "Salvatore",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10 to 20 metres",
+        "one-percent",
+        "only 16",
+        "who",
+        "Advanced Functional Materials",
+        "chemistry",
+        "10.1002",
+        "Microsensors For Food Monitoring",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "engineering",
+        "around 10%"
+      ],
+      "graph_relations": [
+        "Giovanni Salvatore_has_role_scientist",
+        "Giovanni Salvatore_has_role_researcher",
+        "Giovanni Salvatore_has_role_professor",
+        "Salvatore_has_role_scientist",
+        "Salvatore_has_role_researcher",
+        "Salvatore_has_role_professor",
+        "Tröster’s_has_role_Professor",
+        "Tröster’s_has_role_researcher",
+        "Tröster’s_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

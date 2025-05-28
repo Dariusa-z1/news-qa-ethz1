@@ -1,0 +1,228 @@
+{
+  "filename": "innovedum-launches-focal-point-themes.md",
+  "original_filename": "innovedum-launches-focal-point-themes.html",
+  "source_path": "en_internal/2015/01/innovedum-launches-focal-point-themes.html",
+  "date": "2015-01",
+  "title": "Innovedum Launches Focal Point Themes",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "1st focal point theme: “Interactive teaching which fosters personal responsibility”",
+      "text": "- Focal point projects can apply for up to 60,000 Swiss francs in funding. Their applications are examined in a fast-track assessment process.\n\n- As always, lecturers with regular teaching projects (in addition to focal point projects) can also apply. The deadlines for submitting focal point projects and teaching projects are 1 March 2015 and 1 October 2015 respectively.\n\nInnovedum is a fund established by the Rector to provide financing for lecturers’ initiatives which explore new ways to sustainably improve teaching and learning. Two new themes for focal point projects were introduced in January 2015."
+    },
+    {
+      "heading": "1st focal point theme: “Interactive teaching which fosters personal responsibility”",
+      "text": "Under this focal point theme, support is provided firstly for teaching projects which draw on possibilities to activate students in large-attendance or other courses in innovative ways, and secondly for those which create scope for independent acquisition of and reflection on knowledge."
+    },
+    {
+      "heading": "2nd focal point theme: “Interdisciplinary and transdisciplinary teaching projects”",
+      "text": "Under this focal point theme, funding is provided for projects which develop teaching on the basis of various different disciplinary perspectives and juxtapose these points of view. Support is also awarded to teaching concepts which pay particular attention to linking education, research, the world of employment and society.\n\nMore information can be found here ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Launches Focal Point Themes",
+        "label": "ORG",
+        "start": 30,
+        "end": 57
+      },
+      {
+        "text": "up to",
+        "label": "CARDINAL",
+        "start": 37,
+        "end": 42
+      },
+      {
+        "text": "60,000 Swiss francs",
+        "label": "MONEY",
+        "start": 43,
+        "end": 62
+      },
+      {
+        "text": "1 March 2015",
+        "label": "DATE",
+        "start": 327,
+        "end": 339
+      },
+      {
+        "text": "October 2015",
+        "label": "DATE",
+        "start": 346,
+        "end": 358
+      },
+      {
+        "text": "Innovedum",
+        "label": "PERSON",
+        "start": 373,
+        "end": 382
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 536,
+        "end": 539
+      },
+      {
+        "text": "January 2015",
+        "label": "DATE",
+        "start": 595,
+        "end": 607
+      },
+      {
+        "text": "firstly",
+        "label": "ORDINAL",
+        "start": 50,
+        "end": 57
+      },
+      {
+        "text": "secondly",
+        "label": "ORDINAL",
+        "start": 190,
+        "end": 198
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Innovedum"
+      ],
+      "ORG": [
+        "Launches Focal Point Themes"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "1 March 2015",
+        "January 2015",
+        "October 2015"
+      ],
+      "MISC": [
+        "60,000 Swiss francs",
+        "Two",
+        "firstly",
+        "secondly",
+        "up to"
+      ]
+    },
+    "entity_counts": {
+      "Launches Focal Point Themes": 1,
+      "up to": 1,
+      "60,000 Swiss francs": 1,
+      "1 March 2015": 1,
+      "October 2015": 1,
+      "Innovedum": 1,
+      "Two": 1,
+      "January 2015": 1,
+      "firstly": 1,
+      "secondly": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "innovedum-launches-focal-point-themes.md",
+      "title": "En Internal/2015/01/innovedum Launches Focal Point Themes",
+      "language": "en",
+      "source_path": "en_internal/2015/01/innovedum-launches-focal-point-themes.html"
+    },
+    "temporal": {
+      "publication_date": "2015-01",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Innovedum"
+      ],
+      "people_with_roles": {
+        "Innovedum": [
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "60,000 Swiss francs",
+        "firstly",
+        "secondly",
+        "up to"
+      ],
+      "grants_funding": [
+        "funding"
+      ],
+      "projects": [
+        "Point Themes",
+        "Launches Focal",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Launches Focal Point Themes"
+      ],
+      "locations": [],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Launches Focal Point Themes",
+        "up to",
+        "60,000 Swiss francs",
+        "1 March 2015",
+        "October 2015",
+        "Innovedum",
+        "Two",
+        "January 2015",
+        "firstly",
+        "secondly"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "1st focal point theme: “Interactive teaching which fosters personal responsibility”",
+          "1st focal point theme: “Interactive teaching which fosters personal responsibility”",
+          "2nd focal point theme: “Interdisciplinary and transdisciplinary teaching projects”"
+        ],
+        "content_length": 1321
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "funding",
+        "Launches Focal Point Themes",
+        "Innovedum",
+        "2015"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "up to",
+        "secondly",
+        "60,000 Swiss francs",
+        "what",
+        "how",
+        "firstly"
+      ],
+      "graph_relations": [
+        "Innovedum_has_role_rector",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

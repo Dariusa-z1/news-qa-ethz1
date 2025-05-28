@@ -1,0 +1,658 @@
+{
+  "filename": "federal-council-elects-three-new-members-to-eth-board.md",
+  "original_filename": "federal-council-elects-three-new-members-to-eth-board.html",
+  "source_path": "en_internal/2016/07/federal-council-elects-three-new-members-to-eth-board.html",
+  "date": "2016-07",
+  "title": "Federal Council Elects Three New Members To Eth Board",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Markus Stauffacher (Bild: Florian Meyer)\n\nAt the recommendation of the Federal Department of Economic Affairs, Education and Research (EAER), the Federal Council elected the following two new board members: political economist Christiane Leister (*1955), who is the owner and president/chair of the Leister Group in Kägiswil, Obwalden, and Marc Bürki (*1961), CEO of Swissquote and holder of a Master's degree in Electrical and Electronics Engineering from the EPFL. The third newly elected board member is environmental scientist Kristin Becker van Slooten (*1962), Senior Scientist at the EPFL. She was nominated by the university assemblies of the ETH Zurich and EPFL as their delegate.\n\nBeatrice Fasana, Barbara Haering and Beth Krasna were confirmed in office, along with Joël Mesot as delegate for the research institutes. Vice president Paul Herrling was re-elected for only one year due to the existing age limit for ETH Board members. The presidents of the ETH Zurich and the EPFL, Lino Guzzella and Martin Vetterli respectively, are ex officio members of the ETH Board. Martin Vetterli was elected president of the EPFL on 24 February; his term begins on 1 January 2017. The president of the ETH Board, Fritz Schiesser, who has held this position since 2008, was also re-elected.\n\nJasmin Staiblin, CEO of Alpiq Holding AG, Markus Stauffaucher, who is currently the delegate for the ETH Zurich and the EPFL's university assemblies, and Olivier Steimer, Chairman of the Board of Directors at Banque Cantonale Vaudoise, did not put themselves up for re-election. Patrick Aebischer will be stepping down as EPFL president at the end of the year and will therefore resign from the ETH Board."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Council",
+        "label": "ORG",
+        "start": 28,
+        "end": 35
+      },
+      {
+        "text": "Three",
+        "label": "CARDINAL",
+        "start": 43,
+        "end": 48
+      },
+      {
+        "text": "Eth Board",
+        "label": "ORG",
+        "start": 64,
+        "end": 73
+      },
+      {
+        "text": "Markus Stauffacher",
+        "label": "PERSON",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "the Federal Department of Economic Affairs",
+        "label": "ORG",
+        "start": 66,
+        "end": 108
+      },
+      {
+        "text": "Education",
+        "label": "ORG",
+        "start": 110,
+        "end": 119
+      },
+      {
+        "text": "EAER",
+        "label": "ORG",
+        "start": 134,
+        "end": 138
+      },
+      {
+        "text": "the Federal Council",
+        "label": "ORG",
+        "start": 141,
+        "end": 160
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 183,
+        "end": 186
+      },
+      {
+        "text": "Christiane Leister",
+        "label": "ORG",
+        "start": 226,
+        "end": 244
+      },
+      {
+        "text": "the Leister Group",
+        "label": "ORG",
+        "start": 293,
+        "end": 310
+      },
+      {
+        "text": "Kägiswil",
+        "label": "GPE",
+        "start": 314,
+        "end": 322
+      },
+      {
+        "text": "Obwalden",
+        "label": "GPE",
+        "start": 324,
+        "end": 332
+      },
+      {
+        "text": "Marc Bürki",
+        "label": "PERSON",
+        "start": 338,
+        "end": 348
+      },
+      {
+        "text": "Swissquote",
+        "label": "GPE",
+        "start": 364,
+        "end": 374
+      },
+      {
+        "text": "Electrical and Electronics Engineering",
+        "label": "ORG",
+        "start": 410,
+        "end": 448
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 458,
+        "end": 462
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 468,
+        "end": 473
+      },
+      {
+        "text": "Kristin Becker van Slooten",
+        "label": "PERSON",
+        "start": 528,
+        "end": 554
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 644,
+        "end": 658
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 663,
+        "end": 667
+      },
+      {
+        "text": "Beatrice Fasana",
+        "label": "PERSON",
+        "start": 687,
+        "end": 702
+      },
+      {
+        "text": "Barbara Haering",
+        "label": "PERSON",
+        "start": 704,
+        "end": 719
+      },
+      {
+        "text": "Beth Krasna",
+        "label": "PERSON",
+        "start": 724,
+        "end": 735
+      },
+      {
+        "text": "Joël Mesot",
+        "label": "PERSON",
+        "start": 773,
+        "end": 783
+      },
+      {
+        "text": "Paul Herrling",
+        "label": "PERSON",
+        "start": 840,
+        "end": 853
+      },
+      {
+        "text": "only one year",
+        "label": "DATE",
+        "start": 873,
+        "end": 886
+      },
+      {
+        "text": "ETH Board",
+        "label": "ORG",
+        "start": 921,
+        "end": 930
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 958,
+        "end": 972
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 987,
+        "end": 1000
+      },
+      {
+        "text": "Martin Vetterli",
+        "label": "PERSON",
+        "start": 1005,
+        "end": 1020
+      },
+      {
+        "text": "the ETH Board",
+        "label": "ORG",
+        "start": 1061,
+        "end": 1074
+      },
+      {
+        "text": "Martin Vetterli",
+        "label": "PERSON",
+        "start": 1076,
+        "end": 1091
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 1121,
+        "end": 1125
+      },
+      {
+        "text": "24 February",
+        "label": "DATE",
+        "start": 1129,
+        "end": 1140
+      },
+      {
+        "text": "1 January 2017",
+        "label": "DATE",
+        "start": 1161,
+        "end": 1175
+      },
+      {
+        "text": "the ETH Board",
+        "label": "ORG",
+        "start": 1194,
+        "end": 1207
+      },
+      {
+        "text": "Fritz Schiesser",
+        "label": "PERSON",
+        "start": 1209,
+        "end": 1224
+      },
+      {
+        "text": "Jasmin Staiblin",
+        "label": "PERSON",
+        "start": 1286,
+        "end": 1301
+      },
+      {
+        "text": "Alpiq Holding AG",
+        "label": "ORG",
+        "start": 1310,
+        "end": 1326
+      },
+      {
+        "text": "Markus Stauffaucher",
+        "label": "PERSON",
+        "start": 1328,
+        "end": 1347
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 1383,
+        "end": 1397
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 1406,
+        "end": 1410
+      },
+      {
+        "text": "Olivier Steimer",
+        "label": "PERSON",
+        "start": 1440,
+        "end": 1455
+      },
+      {
+        "text": "the Board of Directors",
+        "label": "ORG",
+        "start": 1469,
+        "end": 1491
+      },
+      {
+        "text": "Banque Cantonale Vaudoise",
+        "label": "ORG",
+        "start": 1495,
+        "end": 1520
+      },
+      {
+        "text": "Patrick Aebischer",
+        "label": "PERSON",
+        "start": 1565,
+        "end": 1582
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 1608,
+        "end": 1612
+      },
+      {
+        "text": "the end of the year",
+        "label": "DATE",
+        "start": 1626,
+        "end": 1645
+      },
+      {
+        "text": "the ETH Board",
+        "label": "ORG",
+        "start": 1677,
+        "end": 1690
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Barbara Haering",
+        "Beatrice Fasana",
+        "Beth Krasna",
+        "Fritz Schiesser",
+        "Jasmin Staiblin",
+        "Joël Mesot",
+        "Kristin Becker van Slooten",
+        "Lino Guzzella",
+        "Marc Bürki",
+        "Markus Stauffacher",
+        "Markus Stauffaucher",
+        "Martin Vetterli",
+        "Olivier Steimer",
+        "Patrick Aebischer",
+        "Paul Herrling"
+      ],
+      "ORG": [
+        "Alpiq Holding AG",
+        "Banque Cantonale Vaudoise",
+        "Christiane Leister",
+        "Council",
+        "EAER",
+        "EPFL",
+        "ETH Board",
+        "Education",
+        "Electrical and Electronics Engineering",
+        "Eth Board",
+        "the Board of Directors",
+        "the ETH Board",
+        "the ETH Zurich",
+        "the Federal Council",
+        "the Federal Department of Economic Affairs",
+        "the Leister Group"
+      ],
+      "LOCATION": [
+        "Kägiswil",
+        "Obwalden",
+        "Swissquote"
+      ],
+      "DATE": [
+        "1 January 2017",
+        "24 February",
+        "only one year",
+        "the end of the year"
+      ],
+      "MISC": [
+        "Three",
+        "third",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "EPFL": 5,
+      "the ETH Zurich": 3,
+      "the ETH Board": 3,
+      "Martin Vetterli": 2,
+      "Council": 1,
+      "Three": 1,
+      "Eth Board": 1,
+      "Markus Stauffacher": 1,
+      "the Federal Department of Economic Affairs": 1,
+      "Education": 1,
+      "EAER": 1,
+      "the Federal Council": 1,
+      "two": 1,
+      "Christiane Leister": 1,
+      "the Leister Group": 1,
+      "Kägiswil": 1,
+      "Obwalden": 1,
+      "Marc Bürki": 1,
+      "Swissquote": 1,
+      "Electrical and Electronics Engineering": 1
+    },
+    "total_entities": 50,
+    "unique_entities": 41
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "federal-council-elects-three-new-members-to-eth-board.md",
+      "title": "En Internal/2016/07/federal Council Elects Three New Members To Eth Board",
+      "language": "en",
+      "source_path": "en_internal/2016/07/federal-council-elects-three-new-members-to-eth-board.html"
+    },
+    "temporal": {
+      "publication_date": "2016-07",
+      "mentioned_years": [
+        "1955",
+        "1961",
+        "1962",
+        "2008",
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Barbara Haering",
+        "Beatrice Fasana",
+        "Beth Krasna",
+        "Fritz Schiesser",
+        "Jasmin Staiblin",
+        "Joël Mesot",
+        "Kristin Becker van Slooten",
+        "Lino Guzzella",
+        "Marc Bürki",
+        "Markus Stauffacher",
+        "Markus Stauffaucher",
+        "Martin Vetterli",
+        "Olivier Steimer",
+        "Patrick Aebischer",
+        "Paul Herrling"
+      ],
+      "people_with_roles": {
+        "Fritz Schiesser": [
+          "president"
+        ],
+        "Jasmin Staiblin": [
+          "director",
+          "chair",
+          "rector"
+        ],
+        "Kristin Becker van Slooten": [
+          "scientist"
+        ],
+        "Lino Guzzella": [
+          "president"
+        ],
+        "Marc Bürki": [
+          "president",
+          "chair"
+        ],
+        "Markus Stauffacher": [
+          "president",
+          "chair"
+        ],
+        "Markus Stauffaucher": [
+          "director",
+          "chair",
+          "rector"
+        ],
+        "Martin Vetterli": [
+          "president"
+        ],
+        "Olivier Steimer": [
+          "director",
+          "chair",
+          "rector"
+        ],
+        "Patrick Aebischer": [
+          "president"
+        ],
+        "Paul Herrling": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "rector",
+        "director",
+        "chair",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Three",
+        "third"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Olivier Steimer",
+        "Leister Group",
+        "Patrick Aebischer",
+        "ETH Board",
+        "Electronics Engineering",
+        "Barbara Haering",
+        "Economic Affairs",
+        "Martin Vetterli",
+        "Jasmin Staiblin",
+        "Federal Department",
+        "Beatrice Fasana",
+        "Banque Cantonale",
+        "Senior Scientist",
+        "Eth Board",
+        "Lino Guzzella",
+        "Christiane Leister",
+        "Paul Herrling",
+        "Council Elects",
+        "Federal Council",
+        "Alpiq Holding",
+        "Kristin Becker",
+        "En Internal",
+        "Beth Krasna",
+        "Florian Meyer",
+        "Markus Stauffaucher",
+        "Markus Stauffacher",
+        "Three New",
+        "ETH Zurich",
+        "Fritz Schiesser",
+        "Members To"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Economic Affairs"
+      ],
+      "institutions": [
+        "Alpiq Holding AG",
+        "Banque Cantonale Vaudoise",
+        "Christiane Leister",
+        "Council",
+        "EAER",
+        "EPFL",
+        "ETH Board",
+        "Education",
+        "Electrical and Electronics Engineering",
+        "Eth Board",
+        "the Board of Directors",
+        "the ETH Board",
+        "the ETH Zurich",
+        "the Federal Council",
+        "the Federal Department of Economic Affairs",
+        "the Leister Group"
+      ],
+      "locations": [
+        "Kägiswil",
+        "Obwalden",
+        "Swissquote"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "EPFL",
+        "the ETH Zurich",
+        "the ETH Board",
+        "Martin Vetterli",
+        "Council",
+        "Three",
+        "Eth Board",
+        "Markus Stauffacher",
+        "the Federal Department of Economic Affairs",
+        "Education"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1770
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Olivier Steimer",
+        "EPFL",
+        "Education",
+        "Patrick Aebischer",
+        "the ETH Zurich",
+        "ETH Board",
+        "2016",
+        "Banque Cantonale Vaudoise",
+        "Barbara Haering",
+        "1962",
+        "Marc Bürki",
+        "Alpiq Holding AG",
+        "Martin Vetterli",
+        "Jasmin Staiblin",
+        "2008",
+        "Beatrice Fasana",
+        "Eth Board",
+        "the ETH Board",
+        "Lino Guzzella",
+        "the Board of Directors",
+        "Christiane Leister",
+        "Paul Herrling",
+        "Joël Mesot",
+        "1961",
+        "the Federal Council",
+        "EAER",
+        "the Leister Group",
+        "Electrical and Electronics Engineering",
+        "the Federal Department of Economic Affairs",
+        "2017",
+        "Council",
+        "Beth Krasna",
+        "Markus Stauffaucher",
+        "Markus Stauffacher",
+        "1955",
+        "Fritz Schiesser",
+        "Kristin Becker van Slooten"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "third",
+        "who",
+        "Three",
+        "where",
+        "what",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Fritz Schiesser_has_role_president",
+        "Jasmin Staiblin_has_role_director",
+        "Jasmin Staiblin_has_role_chair",
+        "Jasmin Staiblin_has_role_rector",
+        "Kristin Becker van Slooten_has_role_scientist",
+        "Lino Guzzella_has_role_president",
+        "Marc Bürki_has_role_president",
+        "Marc Bürki_has_role_chair",
+        "Markus Stauffacher_has_role_president",
+        "Markus Stauffacher_has_role_chair",
+        "Markus Stauffaucher_has_role_director",
+        "Markus Stauffaucher_has_role_chair",
+        "Markus Stauffaucher_has_role_rector",
+        "Martin Vetterli_has_role_president",
+        "Olivier Steimer_has_role_director",
+        "Olivier Steimer_has_role_chair",
+        "Olivier Steimer_has_role_rector",
+        "Patrick Aebischer_has_role_president",
+        "Paul Herrling_has_role_president",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,621 @@
+{
+  "filename": "dont-attack-the-energy-strategy-with-simplified-assumptions.md",
+  "original_filename": "dont-attack-the-energy-strategy-with-simplified-assumptions.html",
+  "source_path": "en_news_events/2022/07/dont-attack-the-energy-strategy-with-simplified-assumptions.html",
+  "date": "2022-07",
+  "title": "Dont Attack The Energy Strategy With Simplified Assumptions",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Modelling issues",
+      "text": "Earlier this month, the Neue Zürcher Zeitung newspaper reported that huge dependence on electricity imports in winter was imminent if the Swiss federal government went through with the Energy Strategy including nuclear phase-out. A non-peer-reviewed working paper by ETH risk researcher Didier Sornette served as a reference for these statements. That paper forecasts an extremely high electricity import ratio of 69 percent for January 2050. There is nothing new about Switzerland importing electricity in winter. The research community has looked extensively into the power generation gap in winter and reaches different conclusions. Our reply aims to explain why the assumptions in that paper 1 are not correct and lead to estimates of future Swiss import demand that are much higher than the modelling performed in our competence centre shows. We have outlined our three main points below.\n\nFirst, the paper uses an extremely simplistic methodology that does not do justice to the complexity of the energy system. It merely scales up electricity consumption and production from 2017 by 37 percent for 2050. This completely ignores shifts in consumption and generation patterns. It is also entirely unclear why the paper refers to a single baseline year (2017) when production and demand fluctuate greatly from year to year. The justification that more recent data on electricity consumption and production was not available is simply wrong. There is publicly available data up to 2022."
+    },
+    {
+      "heading": "About the author",
+      "text": "Second, the potential for seasonal flexibility in domestic hydropower plants is greatly underestimated. The paper simply extrapolates today’s hydropower production patterns into the future, even though detailed models and experience show that these can be adjusted for winter production (keyword winter reserve). In addition, there is a significant shortcoming in the model: although it similarly scales up the electricity consumption of pumped-storage plants, it apparently neglects to take into account the power these plants feed back into the grid over the same period. It doesn’t take long to see that there is something amiss with this calculation.\n\nThird, the study assumes that additional installed capacity up to 2050 will almost exclusively comprise photovoltaics – and indeed PV systems that aren’t optimised for winter solar radiation. It omits all other aspects, such as seasonal storage technologies or imports of synthetic fuels, where great progress is being made. Instead, it assumes an extremely simplistic take on batteries, even though these were never intended for seasonal storage."
+    },
+    {
+      "heading": "Broad consensus on the energy transition",
+      "text": "Gabriela Hug is a professor at the Power Systems Laboratory and Chair of the Managing Board of the Energy Science Center (ESC) at ETH Zurich.\n\nResearch clearly shows the importance of a balanced technology mix, as is also envisaged in the Energy Strategy. This is where the study really falls down: if you exclude all other technologies bar photovoltaics, it’s easy to project an extreme shortage situation. But (fortunately) the Energy Strategy does nothing of the sort."
+    },
+    {
+      "heading": "Don't miss the latest posts",
+      "text": "Interestingly, the paper doesn’t even calculate the touted new construction of nuclear power plants as an alternative scenario; instead, the authors simply conclude that this must be the solution, given that it is the last alternative. Regardless of the fact that the construction of a new power plant is associated with countless uncertainties in terms of costs, construction time and social acceptance, this strategy would also lead to a cluster risk, since the failure of a power plant would in turn leave a huge gap in supply. I would like to emphasise here that, from a scientific point of view, it makes no sense to exclude a technology completely; we are not doing that. Instead, our calculations at the ESC show that the Energy Strategy has by no means failed and that it makes possible the implementation of a reliable, economical and sustainable energy system – even without building any new nuclear power plants.\n\nThe path to a secure and sustainable power supply is not easy – researchers at ETH and throughout Switzerland are busy working to develop models and scenarios based on facts and data and to provide viable solutions. The result of this research can be summarised as follows: the cheapest and most reliable way to guarantee electricity generation in Switzerland is through a mix of different renewable energy sources together with flexible resources such as various storage facilities, gas-fired power plants (if necessary, running on synthetic gas) or, for example, geothermal energy and a functioning exchange with neighbouring countries. In this process, we must be aware that Switzerland has never been energy self-sufficient: for example, we have always imported oil, which accounts for a large part of our energy consumption. The Energy Strategy takes these aspects into account.\n\nSo the fact that there is agreement here has nothing to do with a desire on the part of researchers to be politically compatible with any particular positions – as we are accused of in the article. It is simply the result of serious science.\n\nGabriela Hug co-authored this text with Christian Schaffner, Executive Director of the ESC, and Tobias Schmidt, Professor of Energy and Technology Policy, member of the ESC and Director of the Institute for Science, Technology and Policy (ISTP) at ETH Zurich. The article first appeared as a reply in the NZZ and has been slightly expanded.\n\n1 Swiss Electricity Supply and Demand in 2017 and 2050 . Is the Swiss 2050 energy plan viable? by Euan Mearns, Didier Sornette :: SSRN"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Attack The Energy Strategy With Simplified Assumptions",
+        "label": "ORG",
+        "start": 28,
+        "end": 82
+      },
+      {
+        "text": "Earlier this month",
+        "label": "DATE",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "Zürcher Zeitung",
+        "label": "ORG",
+        "start": 29,
+        "end": 44
+      },
+      {
+        "text": "winter",
+        "label": "DATE",
+        "start": 111,
+        "end": 117
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 138,
+        "end": 143
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 267,
+        "end": 270
+      },
+      {
+        "text": "Didier Sornette",
+        "label": "PERSON",
+        "start": 287,
+        "end": 302
+      },
+      {
+        "text": "69 percent",
+        "label": "PERCENT",
+        "start": 414,
+        "end": 424
+      },
+      {
+        "text": "January 2050",
+        "label": "DATE",
+        "start": 429,
+        "end": 441
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 470,
+        "end": 481
+      },
+      {
+        "text": "winter",
+        "label": "DATE",
+        "start": 507,
+        "end": 513
+      },
+      {
+        "text": "winter",
+        "label": "DATE",
+        "start": 594,
+        "end": 600
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 746,
+        "end": 751
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 869,
+        "end": 874
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 894,
+        "end": 899
+      },
+      {
+        "text": "37 percent",
+        "label": "PERCENT",
+        "start": 1089,
+        "end": 1099
+      },
+      {
+        "text": "a single baseline year",
+        "label": "DATE",
+        "start": 1233,
+        "end": 1255
+      },
+      {
+        "text": "year",
+        "label": "DATE",
+        "start": 1313,
+        "end": 1317
+      },
+      {
+        "text": "Second",
+        "label": "ORDINAL",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "seasonal",
+        "label": "DATE",
+        "start": 26,
+        "end": 34
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 134,
+        "end": 139
+      },
+      {
+        "text": "winter",
+        "label": "DATE",
+        "start": 269,
+        "end": 275
+      },
+      {
+        "text": "keyword winter reserve",
+        "label": "ORG",
+        "start": 288,
+        "end": 310
+      },
+      {
+        "text": "the same period",
+        "label": "DATE",
+        "start": 557,
+        "end": 572
+      },
+      {
+        "text": "Third",
+        "label": "ORDINAL",
+        "start": 655,
+        "end": 660
+      },
+      {
+        "text": "winter",
+        "label": "DATE",
+        "start": 823,
+        "end": 829
+      },
+      {
+        "text": "seasonal",
+        "label": "DATE",
+        "start": 1085,
+        "end": 1093
+      },
+      {
+        "text": "Gabriela Hug",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "the Power Systems Laboratory",
+        "label": "ORG",
+        "start": 31,
+        "end": 59
+      },
+      {
+        "text": "the Managing Board",
+        "label": "ORG",
+        "start": 73,
+        "end": 91
+      },
+      {
+        "text": "the Energy Science Center",
+        "label": "ORG",
+        "start": 95,
+        "end": 120
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 130,
+        "end": 140
+      },
+      {
+        "text": "the Energy Strategy",
+        "label": "ORG",
+        "start": 234,
+        "end": 253
+      },
+      {
+        "text": "the Energy Strategy",
+        "label": "ORG",
+        "start": 425,
+        "end": 444
+      },
+      {
+        "text": "ESC",
+        "label": "ORG",
+        "start": 711,
+        "end": 714
+      },
+      {
+        "text": "the Energy Strategy",
+        "label": "ORG",
+        "start": 725,
+        "end": 744
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1003,
+        "end": 1006
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1022,
+        "end": 1033
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1272,
+        "end": 1283
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1602,
+        "end": 1613
+      },
+      {
+        "text": "Gabriela Hug",
+        "label": "PERSON",
+        "start": 2050,
+        "end": 2062
+      },
+      {
+        "text": "Christian Schaffner",
+        "label": "PERSON",
+        "start": 2090,
+        "end": 2109
+      },
+      {
+        "text": "ESC",
+        "label": "ORG",
+        "start": 2137,
+        "end": 2140
+      },
+      {
+        "text": "Tobias Schmidt",
+        "label": "PERSON",
+        "start": 2146,
+        "end": 2160
+      },
+      {
+        "text": "Energy and Technology Policy",
+        "label": "ORG",
+        "start": 2175,
+        "end": 2203
+      },
+      {
+        "text": "ESC",
+        "label": "ORG",
+        "start": 2219,
+        "end": 2222
+      },
+      {
+        "text": "the Institute for Science, Technology and Policy (ISTP",
+        "label": "ORG",
+        "start": 2239,
+        "end": 2293
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 2298,
+        "end": 2308
+      },
+      {
+        "text": "NZZ",
+        "label": "ORG",
+        "start": 2355,
+        "end": 2358
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 2455,
+        "end": 2460
+      },
+      {
+        "text": "Euan Mearns",
+        "label": "PERSON",
+        "start": 2489,
+        "end": 2500
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christian Schaffner",
+        "Didier Sornette",
+        "Euan Mearns",
+        "Gabriela Hug",
+        "Tobias Schmidt"
+      ],
+      "ORG": [
+        "Attack The Energy Strategy With Simplified Assumptions",
+        "ESC",
+        "ETH",
+        "ETH Zurich",
+        "Energy and Technology Policy",
+        "NZZ",
+        "Zürcher Zeitung",
+        "keyword winter reserve",
+        "the Energy Science Center",
+        "the Energy Strategy",
+        "the Institute for Science, Technology and Policy (ISTP",
+        "the Managing Board",
+        "the Power Systems Laboratory"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [
+        "Earlier this month",
+        "January 2050",
+        "a single baseline year",
+        "seasonal",
+        "the same period",
+        "today",
+        "winter",
+        "year"
+      ],
+      "MISC": [
+        "37 percent",
+        "69 percent",
+        "First",
+        "Second",
+        "Swiss",
+        "Third",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "winter": 5,
+      "Switzerland": 4,
+      "Swiss": 3,
+      "the Energy Strategy": 3,
+      "ESC": 3,
+      "ETH": 2,
+      "seasonal": 2,
+      "Gabriela Hug": 2,
+      "ETH Zurich": 2,
+      "Attack The Energy Strategy With Simplified Assumptions": 1,
+      "Earlier this month": 1,
+      "Zürcher Zeitung": 1,
+      "Didier Sornette": 1,
+      "69 percent": 1,
+      "January 2050": 1,
+      "three": 1,
+      "First": 1,
+      "37 percent": 1,
+      "a single baseline year": 1,
+      "year": 1
+    },
+    "total_entities": 51,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "dont-attack-the-energy-strategy-with-simplified-assumptions.md",
+      "title": "En News Events/2022/07/dont Attack The Energy Strategy With Simplified Assumptions",
+      "language": "en",
+      "source_path": "en_news_events/2022/07/dont-attack-the-energy-strategy-with-simplified-assumptions.html"
+    },
+    "temporal": {
+      "publication_date": "2022-07",
+      "mentioned_years": [
+        "2017",
+        "2022"
+      ],
+      "time_periods": [
+        [
+          "2017",
+          "2050"
+        ]
+      ],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christian Schaffner",
+        "Didier Sornette",
+        "Euan Mearns",
+        "Gabriela Hug",
+        "Tobias Schmidt"
+      ],
+      "people_with_roles": {
+        "Christian Schaffner": [
+          "professor",
+          "director",
+          "rector"
+        ],
+        "Didier Sornette": [
+          "researcher"
+        ],
+        "Gabriela Hug": [
+          "rector",
+          "director",
+          "chair",
+          "professor"
+        ],
+        "Tobias Schmidt": [
+          "professor",
+          "director",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director",
+        "chair",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "37 percent",
+        "69 percent",
+        "First",
+        "Second",
+        "Swiss",
+        "Third",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Didier Sornette",
+        "The Energy",
+        "Assumptions Earlier",
+        "Technology Policy",
+        "Managing Board",
+        "En News",
+        "Power Systems",
+        "Christian Schaffner",
+        "Executive Director",
+        "Energy Science",
+        "Euan Mearns",
+        "With Simplified",
+        "Tobias Schmidt",
+        "ETH Zurich",
+        "Attack The",
+        "Swiss Electricity",
+        "Energy Strategy",
+        "Gabriela Hug"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Science"
+      ],
+      "institutions": [
+        "Attack The Energy Strategy With Simplified Assumptions",
+        "ESC",
+        "ETH",
+        "ETH Zurich",
+        "Energy and Technology Policy",
+        "NZZ",
+        "Zürcher Zeitung",
+        "keyword winter reserve",
+        "the Energy Science Center",
+        "the Energy Strategy",
+        "the Institute for Science, Technology and Policy (ISTP",
+        "the Managing Board",
+        "the Power Systems Laboratory"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "winter",
+        "Switzerland",
+        "Swiss",
+        "the Energy Strategy",
+        "ESC",
+        "ETH",
+        "seasonal",
+        "Gabriela Hug",
+        "ETH Zurich",
+        "Attack The Energy Strategy With Simplified Assumptions"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Modelling issues",
+          "About the author",
+          "Broad consensus on the energy transition",
+          "Don't miss the latest posts"
+        ],
+        "content_length": 5678
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Christian Schaffner",
+        "Zürcher Zeitung",
+        "ESC",
+        "Attack The Energy Strategy With Simplified Assumptions",
+        "the Power Systems Laboratory",
+        "ERC",
+        "Didier Sornette",
+        "the Energy Science Center",
+        "2022",
+        "Tobias Schmidt",
+        "the Institute for Science, Technology and Policy (ISTP",
+        "the Managing Board",
+        "Gabriela Hug",
+        "EU",
+        "NZZ",
+        "the Energy Strategy",
+        "2017",
+        "Energy and Technology Policy",
+        "keyword winter reserve",
+        "Euan Mearns",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Second",
+        "three",
+        "37 percent",
+        "who",
+        "Swiss",
+        "69 percent",
+        "where",
+        "Third",
+        "what",
+        "First",
+        "how",
+        "climate_change",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Christian Schaffner_has_role_professor",
+        "Christian Schaffner_has_role_director",
+        "Christian Schaffner_has_role_rector",
+        "Didier Sornette_has_role_researcher",
+        "Gabriela Hug_has_role_rector",
+        "Gabriela Hug_has_role_director",
+        "Gabriela Hug_has_role_chair",
+        "Gabriela Hug_has_role_professor",
+        "Tobias Schmidt_has_role_professor",
+        "Tobias Schmidt_has_role_director",
+        "Tobias Schmidt_has_role_rector",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

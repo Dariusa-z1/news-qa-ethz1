@@ -1,0 +1,363 @@
+{
+  "filename": "hologramme-auf-knopfdruck.md",
+  "original_filename": "hologramme-auf-knopfdruck.html",
+  "source_path": "de_internal/2022/06/hologramme-auf-knopfdruck.html",
+  "date": "2022-06",
+  "title": "Hologramme Auf Knopfdruck",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Computermodelle von bewegten Körpern bilden die Basis für zahlreiche Forschungsgebiete: Für die automatische Analyse und Erkennung menschlicher Aktivitäten (Computer Vision), die Arbeit an animierten Avataren , die Forschung an weichen Robotern oder für die Bewegungsanalyse.\n\nAb jetzt können ETH-Forschende solche Modelle schneller und einfacher erstellen: Ein neues Labor an der Heinrichstrasse in Zürich macht es möglich. Im Volumetric Capture Lab, das auf den ersten Blick wie ein Foto- oder Filmstudio aussieht, haben die ETH-Professoren Otmar Hilliges, Marc Pollefeys, Markus Gross, Stelian Coros (alle D-INFK) und William Taylor (D-HEST) Microsoft-Technologie mit speziellen Kameras in Betrieb genommen. Das System kommt an der ETH Zürich weltweit zum ersten Mal für Forschungszwecken zum Einsatz, zuvor wurde es vor allem in Filmstudios eingesetzt.\n\nBislang waren für solche Aufnahmen spezielle, dunkle Anzüge mit weissen Reflektorpunkten notwendig (Beispiel in einer ETH-News von 2018 ), wie man sie aus der Filmindustrie kennt.\n\nDas neue System verzichtet auf solche Anzüge und erfasst statt der Markerpunkte die Oberfläche des gesamten Körpers in einer hohen Auflösung, inklusive Textur und Farbe. Das von Microsoft lizenzierte System befindet sich in einem Grünraum und zeichnet die Körperbewegungen mit mehr als 100 sphärisch angeordneten Highspeed-RGB- und Infrarotkameras auf.\n\nDas neue ETH-Labor biete Möglichkeiten für die Zusammenarbeit über die Disziplinen hinweg, sagt Forschungsleiter Otmar Hilliges. Ausserdem könne er sich die Zusammenarbeit mit Industriepartnern aus dem Bereich Computer Vision vorstellen. Das Volumetric Capture Lab wurde vom Schweizerischen Nationalfonds mitfinanziert und am 29. Juni eröffnet."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/06/hologramme",
+        "label": "LOC",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "Knopfdruck",
+        "label": "PER",
+        "start": 35,
+        "end": 45
+      },
+      {
+        "text": "Computermodelle",
+        "label": "LOC",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 399,
+        "end": 405
+      },
+      {
+        "text": "Volumetric Capture Lab",
+        "label": "MISC",
+        "start": 427,
+        "end": 449
+      },
+      {
+        "text": "ETH-Professoren",
+        "label": "ORG",
+        "start": 526,
+        "end": 541
+      },
+      {
+        "text": "Otmar Hilliges",
+        "label": "PER",
+        "start": 542,
+        "end": 556
+      },
+      {
+        "text": "Marc Pollefeys",
+        "label": "PER",
+        "start": 558,
+        "end": 572
+      },
+      {
+        "text": "Markus Gross",
+        "label": "PER",
+        "start": 574,
+        "end": 586
+      },
+      {
+        "text": "Stelian Coros",
+        "label": "PER",
+        "start": 588,
+        "end": 601
+      },
+      {
+        "text": "D-INFK",
+        "label": "MISC",
+        "start": 608,
+        "end": 614
+      },
+      {
+        "text": "William Taylor",
+        "label": "PER",
+        "start": 620,
+        "end": 634
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 734,
+        "end": 744
+      },
+      {
+        "text": "Filmstudios",
+        "label": "LOC",
+        "start": 832,
+        "end": 843
+      },
+      {
+        "text": "ETH-News",
+        "label": "MISC",
+        "start": 974,
+        "end": 982
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 1214,
+        "end": 1223
+      },
+      {
+        "text": "Highspeed-RGB-",
+        "label": "ORG",
+        "start": 1349,
+        "end": 1363
+      },
+      {
+        "text": "Infrarotkameras",
+        "label": "LOC",
+        "start": 1368,
+        "end": 1383
+      },
+      {
+        "text": "ETH-Labor",
+        "label": "ORG",
+        "start": 1398,
+        "end": 1407
+      },
+      {
+        "text": "Otmar Hilliges",
+        "label": "PER",
+        "start": 1502,
+        "end": 1516
+      },
+      {
+        "text": "Volumetric Capture Lab",
+        "label": "MISC",
+        "start": 1631,
+        "end": 1653
+      },
+      {
+        "text": "Schweizerischen Nationalfonds",
+        "label": "ORG",
+        "start": 1664,
+        "end": 1693
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Knopfdruck",
+        "Marc Pollefeys",
+        "Markus Gross",
+        "Otmar Hilliges",
+        "Stelian Coros",
+        "William Taylor"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Labor",
+        "ETH-Professoren",
+        "Highspeed-RGB-",
+        "Microsoft",
+        "Schweizerischen Nationalfonds"
+      ],
+      "LOCATION": [
+        "Computermodelle",
+        "De Internal/2022/06/hologramme",
+        "Filmstudios",
+        "Infrarotkameras",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "D-INFK",
+        "ETH-News",
+        "Volumetric Capture Lab"
+      ]
+    },
+    "entity_counts": {
+      "Volumetric Capture Lab": 2,
+      "Otmar Hilliges": 2,
+      "De Internal/2022/06/hologramme": 1,
+      "Knopfdruck": 1,
+      "Computermodelle": 1,
+      "Zürich": 1,
+      "ETH-Professoren": 1,
+      "Marc Pollefeys": 1,
+      "Markus Gross": 1,
+      "Stelian Coros": 1,
+      "D-INFK": 1,
+      "William Taylor": 1,
+      "ETH Zürich": 1,
+      "Filmstudios": 1,
+      "ETH-News": 1,
+      "Microsoft": 1,
+      "Highspeed-RGB-": 1,
+      "Infrarotkameras": 1,
+      "ETH-Labor": 1,
+      "Schweizerischen Nationalfonds": 1
+    },
+    "total_entities": 22,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "hologramme-auf-knopfdruck.md",
+      "title": "De Internal/2022/06/hologramme auf Knopfdruck",
+      "language": "de",
+      "source_path": "de_internal/2022/06/hologramme-auf-knopfdruck.html"
+    },
+    "temporal": {
+      "publication_date": "2022-06",
+      "mentioned_years": [
+        "2018",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Knopfdruck",
+        "Marc Pollefeys",
+        "Markus Gross",
+        "Otmar Hilliges",
+        "Stelian Coros",
+        "William Taylor"
+      ],
+      "people_with_roles": {
+        "Marc Pollefeys": [
+          "professor"
+        ],
+        "Markus Gross": [
+          "professor"
+        ],
+        "Otmar Hilliges": [
+          "professor"
+        ],
+        "Stelian Coros": [
+          "professor"
+        ],
+        "William Taylor": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "D-INFK",
+        "ETH-News",
+        "Volumetric Capture Lab"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Highspeed-RGB",
+        "Markus Gross",
+        "D-INFK",
+        "Forschungsleiter Otmar",
+        "Bereich Computer",
+        "William Taylor",
+        "Capture Lab",
+        "ETH-Labor",
+        "Knopfdruck Computermodelle",
+        "Computer Vision",
+        "Im Volumetric",
+        "Das System",
+        "Das Volumetric",
+        "Otmar Hilliges",
+        "Schweizerischen Nationalfonds",
+        "ETH-Professoren",
+        "Marc Pollefeys",
+        "Stelian Coros",
+        "ETH-News",
+        "De Internal",
+        "D-HEST",
+        "ETH-Forschende",
+        "Microsoft-Technologie"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Labor",
+        "ETH-Professoren",
+        "Highspeed-RGB-",
+        "Microsoft",
+        "Schweizerischen Nationalfonds"
+      ],
+      "locations": [
+        "Computermodelle",
+        "De Internal/2022/06/hologramme",
+        "Filmstudios",
+        "Infrarotkameras",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Volumetric Capture Lab",
+        "Otmar Hilliges",
+        "De Internal/2022/06/hologramme",
+        "Knopfdruck",
+        "Computermodelle",
+        "Zürich",
+        "ETH-Professoren",
+        "Marc Pollefeys",
+        "Markus Gross",
+        "Stelian Coros"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1783
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Marc Pollefeys",
+        "Markus Gross",
+        "Stelian Coros",
+        "ETH-Labor",
+        "2018",
+        "EU",
+        "Otmar Hilliges",
+        "ETH Zürich",
+        "Highspeed-RGB-",
+        "Microsoft",
+        "Knopfdruck",
+        "2022",
+        "Schweizerischen Nationalfonds",
+        "William Taylor",
+        "ETH-Professoren"
+      ],
+      "semantic_concepts": [
+        "ETH-News",
+        "D-INFK",
+        "Volumetric Capture Lab",
+        "who"
+      ],
+      "graph_relations": [
+        "Marc Pollefeys_has_role_professor",
+        "Markus Gross_has_role_professor",
+        "Otmar Hilliges_has_role_professor",
+        "Stelian Coros_has_role_professor",
+        "William Taylor_has_role_professor"
+      ]
+    }
+  }
+}

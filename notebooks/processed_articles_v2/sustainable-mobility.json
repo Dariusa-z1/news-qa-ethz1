@@ -1,0 +1,299 @@
+{
+  "filename": "sustainable-mobility.md",
+  "original_filename": "sustainable-mobility.html",
+  "source_path": "en_internal/2016/12/sustainable-mobility.html",
+  "date": "2016-12",
+  "title": "Sustainable Mobility",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Transport and mobility are key topics for the future of ETH Zurich’s Zentrum and Hönggerberg locations. Resource consumption has been carefully considered along with easy accessibility to buildings for staff and students. The mobility platform launched this year aims to help reduce the carbon footprint and energy consumption of ETH Zurich associated with mobility. ‘ Life ’ also explores the question of how to reduce the large proportion of the carbon footprint caused by people flying on business.\n\nThe current issue also includes an interview with Max Rossmannek, president of the newly formed Hönggerberg neighbourhood commission (HöNK). He talks to us about living on campus and his activities on the committee.\n\nAlso in this issue, Adrian Meier, Head of Security at the Safety, Security, Health and Environment department (SSHE), offers insight into the work of his team; operations staff member Florian Genucchi and the bat protection foundation explain how they’re managing the unusually large number of bats in the ETH Zurich main building; and Simona Meiler, snowboarder and student at ETH Zurich, talks about her preparations for the 2018 Winter Olympic Games."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Mobility",
+        "label": "PERSON",
+        "start": 32,
+        "end": 40
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 56,
+        "end": 68
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 69,
+        "end": 76
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 81,
+        "end": 92
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 253,
+        "end": 262
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 330,
+        "end": 340
+      },
+      {
+        "text": "Max Rossmannek",
+        "label": "PERSON",
+        "start": 552,
+        "end": 566
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 598,
+        "end": 609
+      },
+      {
+        "text": "HöNK",
+        "label": "ORG",
+        "start": 636,
+        "end": 640
+      },
+      {
+        "text": "Adrian Meier",
+        "label": "PERSON",
+        "start": 738,
+        "end": 750
+      },
+      {
+        "text": "Health and Environment department",
+        "label": "ORG",
+        "start": 794,
+        "end": 827
+      },
+      {
+        "text": "Florian Genucchi",
+        "label": "PERSON",
+        "start": 902,
+        "end": 918
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1024,
+        "end": 1034
+      },
+      {
+        "text": "Simona Meiler",
+        "label": "PERSON",
+        "start": 1054,
+        "end": 1067
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1096,
+        "end": 1106
+      },
+      {
+        "text": "Winter Olympic Games",
+        "label": "EVENT",
+        "start": 1150,
+        "end": 1170
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Adrian Meier",
+        "ETH Zurich’s",
+        "Florian Genucchi",
+        "Max Rossmannek",
+        "Mobility",
+        "Simona Meiler",
+        "Zentrum"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Health and Environment department",
+        "HöNK"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "this year"
+      ],
+      "MISC": [
+        "Winter Olympic Games"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "Hönggerberg": 2,
+      "Mobility": 1,
+      "ETH Zurich’s": 1,
+      "Zentrum": 1,
+      "this year": 1,
+      "Max Rossmannek": 1,
+      "HöNK": 1,
+      "Adrian Meier": 1,
+      "Health and Environment department": 1,
+      "Florian Genucchi": 1,
+      "Simona Meiler": 1,
+      "Winter Olympic Games": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "sustainable-mobility.md",
+      "title": "En Internal/2016/12/sustainable Mobility",
+      "language": "en",
+      "source_path": "en_internal/2016/12/sustainable-mobility.html"
+    },
+    "temporal": {
+      "publication_date": "2016-12",
+      "mentioned_years": [
+        "2016",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Adrian Meier",
+        "ETH Zurich’s",
+        "Florian Genucchi",
+        "Max Rossmannek",
+        "Mobility",
+        "Simona Meiler",
+        "Zentrum"
+      ],
+      "people_with_roles": {
+        "Adrian Meier": [
+          "student",
+          "head"
+        ],
+        "Florian Genucchi": [
+          "student",
+          "head"
+        ],
+        "Max Rossmannek": [
+          "president"
+        ],
+        "Simona Meiler": [
+          "student",
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "head",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "Winter Olympic Games"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Max Rossmannek",
+        "En Internal",
+        "Adrian Meier",
+        "Florian Genucchi",
+        "Winter Olympic",
+        "ETH Zurich",
+        "Mobility Transport",
+        "Simona Meiler"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "Health and Environment department",
+        "HöNK"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Mobility",
+        "ETH Zurich’s",
+        "Zentrum",
+        "this year",
+        "Max Rossmannek",
+        "HöNK",
+        "Adrian Meier",
+        "Health and Environment department"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1214
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Health and Environment department",
+        "2018",
+        "HöNK",
+        "Mobility",
+        "Simona Meiler",
+        "Max Rossmannek",
+        "2016",
+        "Zentrum",
+        "Adrian Meier",
+        "Florian Genucchi",
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Winter Olympic Games",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Adrian Meier_has_role_student",
+        "Adrian Meier_has_role_head",
+        "Florian Genucchi_has_role_student",
+        "Florian Genucchi_has_role_head",
+        "Max Rossmannek_has_role_president",
+        "Simona Meiler_has_role_student",
+        "Simona Meiler_has_role_head",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

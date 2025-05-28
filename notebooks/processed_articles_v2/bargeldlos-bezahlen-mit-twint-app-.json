@@ -1,0 +1,246 @@
+{
+  "filename": "bargeldlos-bezahlen-mit-twint-app-.md",
+  "original_filename": "bargeldlos-bezahlen-mit-twint-app-.html",
+  "source_path": "de_internal/2016/02/bargeldlos-bezahlen-mit-twint-app-.html",
+  "date": "2016-02",
+  "title": "Bargeldlos Bezahlen Mit Twint App",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das lange Anstehen an den Kassen beim Mittagessen hat ein Ende: In den Gastronomiebetrieben der ETH kann künftig bargeldlos bezahlt werden. Mit der Twint-App von Postfinance müssen ETH-Angehörige nur noch das Smartphone zücken. Dank einer ETH-Schnittstelle können die Kassen der Caterer sogar automatisch erkennen, ob es sich beim Gast um einen Studierenden oder um einen Mitarbeitenden handelt – und so den korrekten Preis berechnen. So wird der Bezahlvorgang beschleunigt, zudem sind künftig separate Kassen für das Bezahlen mit Twint oder NFC-fähigen Kreditkarten vorgesehen. Schweizweit kann mit Twint auch bereits an 8000 Coop-Kassen bezahlt werden, auch in der Filiale auf dem Campus Hönggerberg.\n\nDie Neuerung wird vom 22. bis 24. Februar 2016 an verschiedenen Standorten der ETH beworben. Zum Start wird jedem ein Guthaben von 10 Franken geschenkt. Danach kann das Konto auf verschiedenen Wegen aufgeladen werden: Unter anderem am Postomat, per Einzahlungsschein oder mit dem Kauf eines Guthabencodes am Kiosk im MM-Gebäude unter der Polyterrasse sowie im Bistro auf dem Campus Hönggerberg."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/02/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Twint App",
+        "label": "PER",
+        "start": 44,
+        "end": 53
+      },
+      {
+        "text": "Mittagessen",
+        "label": "LOC",
+        "start": 38,
+        "end": 49
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 96,
+        "end": 99
+      },
+      {
+        "text": "Postfinance",
+        "label": "PER",
+        "start": 162,
+        "end": 173
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 181,
+        "end": 195
+      },
+      {
+        "text": "ETH-Schnittstelle",
+        "label": "MISC",
+        "start": 239,
+        "end": 256
+      },
+      {
+        "text": "Caterer",
+        "label": "LOC",
+        "start": 279,
+        "end": 286
+      },
+      {
+        "text": "Twint",
+        "label": "ORG",
+        "start": 531,
+        "end": 536
+      },
+      {
+        "text": "NFC-fähigen",
+        "label": "MISC",
+        "start": 542,
+        "end": 553
+      },
+      {
+        "text": "Twint",
+        "label": "LOC",
+        "start": 600,
+        "end": 605
+      },
+      {
+        "text": "Coop-Kassen",
+        "label": "LOC",
+        "start": 627,
+        "end": 638
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 690,
+        "end": 701
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 782,
+        "end": 785
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 1085,
+        "end": 1096
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Postfinance",
+        "Twint App"
+      ],
+      "ORG": [
+        "ETH",
+        "Twint"
+      ],
+      "LOCATION": [
+        "Caterer",
+        "Coop-Kassen",
+        "De Internal/2016/02/",
+        "Hönggerberg",
+        "Mittagessen",
+        "Twint"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige",
+        "ETH-Schnittstelle",
+        "NFC-fähigen"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Twint": 2,
+      "Hönggerberg": 2,
+      "De Internal/2016/02/": 1,
+      "Twint App": 1,
+      "Mittagessen": 1,
+      "Postfinance": 1,
+      "ETH-Angehörige": 1,
+      "ETH-Schnittstelle": 1,
+      "Caterer": 1,
+      "NFC-fähigen": 1,
+      "Coop-Kassen": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "bargeldlos-bezahlen-mit-twint-app-.md",
+      "title": "De Internal/2016/02/bargeldlos Bezahlen mit Twint App",
+      "language": "de",
+      "source_path": "de_internal/2016/02/bargeldlos-bezahlen-mit-twint-app-.html"
+    },
+    "temporal": {
+      "publication_date": "2016-02",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Postfinance",
+        "Twint App"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Angehörige",
+        "ETH-Schnittstelle",
+        "NFC-fähigen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Twint-App",
+        "De Internal",
+        "Coop-Kassen",
+        "Zum Start",
+        "ETH-Schnittstelle",
+        "Die Neuerung",
+        "Twint App"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Twint"
+      ],
+      "locations": [
+        "Caterer",
+        "Coop-Kassen",
+        "De Internal/2016/02/",
+        "Hönggerberg",
+        "Mittagessen",
+        "Twint"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH",
+        "Twint",
+        "Hönggerberg",
+        "De Internal/2016/02/",
+        "Twint App",
+        "Mittagessen",
+        "Postfinance",
+        "ETH-Angehörige",
+        "ETH-Schnittstelle",
+        "Caterer"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1152
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Twint",
+        "Postfinance",
+        "EU",
+        "2016",
+        "Twint App"
+      ],
+      "semantic_concepts": [
+        "ETH-Angehörige",
+        "NFC-fähigen",
+        "ETH-Schnittstelle"
+      ],
+      "graph_relations": []
+    }
+  }
+}

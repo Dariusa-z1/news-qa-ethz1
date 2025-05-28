@@ -1,0 +1,213 @@
+{
+  "filename": "roger-gassert-opens-the-lecture-series.md",
+  "original_filename": "roger-gassert-opens-the-lecture-series.html",
+  "source_path": "en_internal/2022/11/roger-gassert-opens-the-lecture-series.html",
+  "date": "2022-11",
+  "title": "Roger Gassert Opens The Lecture Series",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In the RESC online lecture series, speakers from the network of the ETH competence centre Rehabilitation Engineering and Science (RESC) provide insights into key topics in rehabilitation - from care to research to personal experiences. In the first edition, Roger Gassert, Professor of Rehabilitation Engineering and Head of RELab at ETH Zurich, will share his own personal journey as a patient and identify major challenges in rehabilitation as well as milestones along his path to recovery. Please save the date of the lecture: You are cordially invited. 28 November 2022, 12.00 - 13.00. Closer to the date, the zoom link to the lecture will be published here ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Gassert Opens The Lecture Series",
+        "label": "PERSON",
+        "start": 26,
+        "end": 58
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 68,
+        "end": 71
+      },
+      {
+        "text": "Rehabilitation Engineering and",
+        "label": "ORG",
+        "start": 90,
+        "end": 120
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 243,
+        "end": 248
+      },
+      {
+        "text": "Roger Gassert",
+        "label": "PERSON",
+        "start": 258,
+        "end": 271
+      },
+      {
+        "text": "Rehabilitation Engineering",
+        "label": "ORG",
+        "start": 286,
+        "end": 312
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 334,
+        "end": 344
+      },
+      {
+        "text": "28 November 2022",
+        "label": "DATE",
+        "start": 557,
+        "end": 573
+      },
+      {
+        "text": "12.00",
+        "label": "CARDINAL",
+        "start": 575,
+        "end": 580
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Gassert Opens The Lecture Series",
+        "Roger Gassert"
+      ],
+      "ORG": [
+        "ETH",
+        "Rehabilitation Engineering",
+        "Rehabilitation Engineering and"
+      ],
+      "LOCATION": [
+        "ETH Zurich"
+      ],
+      "DATE": [
+        "28 November 2022"
+      ],
+      "MISC": [
+        "12.00",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "Gassert Opens The Lecture Series": 1,
+      "ETH": 1,
+      "Rehabilitation Engineering and": 1,
+      "first": 1,
+      "Roger Gassert": 1,
+      "Rehabilitation Engineering": 1,
+      "ETH Zurich": 1,
+      "28 November 2022": 1,
+      "12.00": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "roger-gassert-opens-the-lecture-series.md",
+      "title": "En Internal/2022/11/roger Gassert Opens The Lecture Series",
+      "language": "en",
+      "source_path": "en_internal/2022/11/roger-gassert-opens-the-lecture-series.html"
+    },
+    "temporal": {
+      "publication_date": "2022-11",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Gassert Opens The Lecture Series",
+        "Roger Gassert"
+      ],
+      "people_with_roles": {
+        "Roger Gassert": [
+          "head",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "12.00",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Roger Gassert",
+        "Gassert Opens",
+        "The Lecture",
+        "En Internal",
+        "Series In",
+        "ETH Zurich",
+        "Rehabilitation Engineering"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Rehabilitation Engineering",
+        "Rehabilitation Engineering and"
+      ],
+      "locations": [
+        "ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Gassert Opens The Lecture Series",
+        "ETH",
+        "Rehabilitation Engineering and",
+        "first",
+        "Roger Gassert",
+        "Rehabilitation Engineering",
+        "ETH Zurich",
+        "28 November 2022",
+        "12.00"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 722
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Roger Gassert",
+        "Rehabilitation Engineering and",
+        "2022",
+        "Gassert Opens The Lecture Series",
+        "Rehabilitation Engineering"
+      ],
+      "semantic_concepts": [
+        "first",
+        "who",
+        "12.00",
+        "what",
+        "when"
+      ],
+      "graph_relations": [
+        "Roger Gassert_has_role_head",
+        "Roger Gassert_has_role_professor"
+      ]
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "filename": "automated-analysis-of-animal-behaviour.md",
+  "original_filename": "automated-analysis-of-animal-behaviour.html",
+  "source_path": "en_news_events/2022/04/automated-analysis-of-animal-behaviour.html",
+  "date": "2022-04",
+  "title": "Automated Analysis Of Animal Behaviour",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Suitable for all animal species",
+      "text": "Researchers engaged in animal behaviour studies often rely on hours upon hours of video footage which they manually analyse. Usually, this requires researchers to work their way through recordings spanning several weeks or months, laboriously noting down observations on the animals’ behaviour. Now researchers at ETH Zurich and University of Zurich have come up with an automated way to analyse these kinds of recordings. The image-analysis algorithm they have developed makes use of computer vision and machine learning. It can distinguish individual animals and identify specific behaviours, such as those that signal curiosity, fear, or harmonious social interactions with other members of their species.\n\nThe technology essentially offers scientists a one-click solution for automatically analysing video footage, however lengthy or detailed the recordings are. Another advantage of the new method is its reproducibility: if different groups of researchers use the same algorithm to analyse their video data, comparing results is easier because everything is based on the same standards. What’s more, the new algorithm is so sensitive that it can even identify subtle behavioural changes that develop very gradually over long periods of time. “Those are the kinds of changes that are often tricky to spot with the human eye,” says Markus Marks, lead author of the research study and a postdoc in the group headed by Professor of Neurotechnology Mehmet Fatih Yanik."
+    },
+    {
+      "heading": "Suitable for all animal species",
+      "text": "The researchers trained the machine-learning algorithm with video footage of mice and macaques in captivity. However, they stress that the method can be applied to all animal species. News of their new method has already spread through the scientific community. The researchers have made the algorithm available to other researchers on a public platform, and many of their colleagues around the world are already using it. “Interest has been particularly high among primate researchers, and our technology is already being used by a group that is researching wild chimpanzees in Uganda,” Marks says.\n\nThis is probably because the method can also be used to analyse complex social interactions in animal communities, such as identifying which animals groom other members of their group and how often this occurs. “Our method offers some major advantages over previous machine-learning-based behavioural analysis algorithms, especially when it comes to analysing social behaviour in complex settings,” Marks says."
+    },
+    {
+      "heading": "Improving conditions for animals",
+      "text": "The new method can also be used to improve animal husbandry, enabling round-the-clock monitoring to automatically single-out abnormal behaviours. By detecting adverse social interactions or the onset of disease early on, keepers can swiftly respond to improve conditions for the animals in their care.\n\nThe researchers are also currently collaborating with Zurich Zoo, which wants to further improve its animal husbandry and conduct automated behavioural research. For example, in a recently published study examining patterns of elephant sleep behaviour, zoo researchers had to manually annotate nocturnal video recordings. Their hope is that the new method would enable them to automate and upscale such findings in the future.\n\nFinally, the method is used in fundamental research in the fields of biology, neurobiology and medicine. \"Our method can recognise even subtle or rare behavioural changes in research animals, such as signs of stress, anxiety or discomfort,\" says Yanik. \"Therefore, it can not only help to improve the quality of animal studies but also helps to reduce the number of animals and the strain on them.\" The ETH Zurich professor is planning to use the method himself as part of his neurobiological research in the field of imitation learning.\n\nMarks M, Jin Q, Sturman O, von Ziegler L, Kollmorgen S, von der Behrens W, Mante V, Bohacek J, Yanik MF: Deep-learning-based identification, tracking, pose estimation and behaviour classification of interacting primates and mice in complex environments. Nature Machine Intelligence, 21 April 2022, doi: 10.1038/s42256-022-00477-5"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Analysis Of Animal Behaviour",
+        "label": "ORG",
+        "start": 33,
+        "end": 61
+      },
+      {
+        "text": "hours upon hours",
+        "label": "TIME",
+        "start": 62,
+        "end": 78
+      },
+      {
+        "text": "several weeks or",
+        "label": "DATE",
+        "start": 206,
+        "end": 222
+      },
+      {
+        "text": "months",
+        "label": "DATE",
+        "start": 223,
+        "end": 229
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 314,
+        "end": 324
+      },
+      {
+        "text": "University of Zurich",
+        "label": "ORG",
+        "start": 329,
+        "end": 349
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 756,
+        "end": 759
+      },
+      {
+        "text": "Markus Marks",
+        "label": "PERSON",
+        "start": 1335,
+        "end": 1347
+      },
+      {
+        "text": "Fatih Yanik",
+        "label": "PERSON",
+        "start": 1456,
+        "end": 1467
+      },
+      {
+        "text": "Uganda",
+        "label": "GPE",
+        "start": 579,
+        "end": 585
+      },
+      {
+        "text": "Marks",
+        "label": "PERSON",
+        "start": 588,
+        "end": 593
+      },
+      {
+        "text": "Marks",
+        "label": "PERSON",
+        "start": 999,
+        "end": 1004
+      },
+      {
+        "text": "Zurich Zoo",
+        "label": "ORG",
+        "start": 356,
+        "end": 366
+      },
+      {
+        "text": "Yanik",
+        "label": "PERSON",
+        "start": 975,
+        "end": 980
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1132,
+        "end": 1142
+      },
+      {
+        "text": "Marks M",
+        "label": "ORG",
+        "start": 1267,
+        "end": 1274
+      },
+      {
+        "text": "Jin Q",
+        "label": "PERSON",
+        "start": 1276,
+        "end": 1281
+      },
+      {
+        "text": "von Ziegler L",
+        "label": "PERSON",
+        "start": 1294,
+        "end": 1307
+      },
+      {
+        "text": "Kollmorgen S",
+        "label": "PERSON",
+        "start": 1309,
+        "end": 1321
+      },
+      {
+        "text": "Nature Machine Intelligence",
+        "label": "ORG",
+        "start": 1521,
+        "end": 1548
+      },
+      {
+        "text": "21 April 2022",
+        "label": "DATE",
+        "start": 1550,
+        "end": 1563
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1570,
+        "end": 1577
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fatih Yanik",
+        "Jin Q",
+        "Kollmorgen S",
+        "Marks",
+        "Markus Marks",
+        "Yanik",
+        "von Ziegler L"
+      ],
+      "ORG": [
+        "Analysis Of Animal Behaviour",
+        "ETH Zurich",
+        "En News",
+        "Marks M",
+        "Nature Machine Intelligence",
+        "University of Zurich",
+        "Zurich Zoo"
+      ],
+      "LOCATION": [
+        "Uganda"
+      ],
+      "DATE": [
+        "21 April 2022",
+        "hours upon hours",
+        "months",
+        "several weeks or"
+      ],
+      "MISC": [
+        "10.1038",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Marks": 2,
+      "En News": 1,
+      "Analysis Of Animal Behaviour": 1,
+      "hours upon hours": 1,
+      "several weeks or": 1,
+      "months": 1,
+      "University of Zurich": 1,
+      "one": 1,
+      "Markus Marks": 1,
+      "Fatih Yanik": 1,
+      "Uganda": 1,
+      "Zurich Zoo": 1,
+      "Yanik": 1,
+      "Marks M": 1,
+      "Jin Q": 1,
+      "von Ziegler L": 1,
+      "Kollmorgen S": 1,
+      "Nature Machine Intelligence": 1,
+      "21 April 2022": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "automated-analysis-of-animal-behaviour.md",
+      "title": "En News Events/2022/04/automated Analysis Of Animal Behaviour",
+      "language": "en",
+      "source_path": "en_news_events/2022/04/automated-analysis-of-animal-behaviour.html"
+    },
+    "temporal": {
+      "publication_date": "2022-04",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Fatih Yanik",
+        "Jin Q",
+        "Kollmorgen S",
+        "Marks",
+        "Markus Marks",
+        "Yanik",
+        "von Ziegler L"
+      ],
+      "people_with_roles": {
+        "Fatih Yanik": [
+          "head",
+          "professor"
+        ],
+        "Marks": [
+          "researcher",
+          "head",
+          "professor"
+        ],
+        "Markus Marks": [
+          "head",
+          "professor"
+        ],
+        "Yanik": [
+          "head",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Zurich Zoo",
+        "Sturman O",
+        "Fatih Yanik",
+        "Bohacek J",
+        "Mante V",
+        "Yanik MF",
+        "Ziegler L",
+        "Behrens W",
+        "Analysis Of",
+        "The ETH",
+        "Animal Behaviour",
+        "Nature Machine",
+        "Markus Marks",
+        "Marks M",
+        "En News",
+        "Kollmorgen S",
+        "Jin Q",
+        "ETH Zurich",
+        "Neurotechnology Mehmet"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Analysis Of Animal Behaviour",
+        "ETH Zurich",
+        "En News",
+        "Marks M",
+        "Nature Machine Intelligence",
+        "University of Zurich",
+        "Zurich Zoo"
+      ],
+      "locations": [
+        "Uganda"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Marks",
+        "En News",
+        "Analysis Of Animal Behaviour",
+        "hours upon hours",
+        "several weeks or",
+        "months",
+        "University of Zurich",
+        "one",
+        "Markus Marks"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Suitable for all animal species",
+          "Suitable for all animal species",
+          "Improving conditions for animals"
+        ],
+        "content_length": 4143
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "von Ziegler L",
+        "Marks",
+        "University of Zurich",
+        "En News",
+        "Yanik",
+        "Nature Machine Intelligence",
+        "EU",
+        "Zurich Zoo",
+        "Kollmorgen S",
+        "Jin Q",
+        "2022",
+        "Markus Marks",
+        "Analysis Of Animal Behaviour",
+        "ETH Zurich",
+        "Fatih Yanik",
+        "Marks M"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "computer_science",
+        "who",
+        "10.1038",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Fatih Yanik_has_role_head",
+        "Fatih Yanik_has_role_professor",
+        "Marks_has_role_researcher",
+        "Marks_has_role_head",
+        "Marks_has_role_professor",
+        "Markus Marks_has_role_head",
+        "Markus Marks_has_role_professor",
+        "Yanik_has_role_head",
+        "Yanik_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

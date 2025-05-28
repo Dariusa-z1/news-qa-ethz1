@@ -1,0 +1,261 @@
+{
+  "filename": "de_internal_2015_06_rector-sarah-springman-visits-the-personnel-commission.md",
+  "original_filename": "de_internal_2015_06_rector-sarah-springman-visits-the-personnel-commission.html",
+  "source_path": "de_internal/2015/06/rector-sarah-springman-visits-the-personnel-commission.html",
+  "date": "2015-06",
+  "title": "Rector Sarah Springman Visits The Personnel Commission",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Einmal im Monat trifft sich die Personalkommission der ETH Zürich (PeKo), um Personalgeschäfte zu besprechen (aktuell zum Beispiel Arbeitszeugnisse, Überzeitenkompensation, Umgang mit erfahrenen Mitarbeitenden, Jobfitness oder Mitarbeiterkommunikation bei Laborschliessungen).\n\nIn der Sitzung vom 11. Juni 2015 war Sarah Springman zu Gast. Die Professorin für Geotechnik (D-BAUG) ist seit Januar Rektorin der ETH Zürich und für die Lehre zuständig. «Die ETH ist eine fantastische Hochschule mit einer besonderen Stellung in der europäischen Hochschullandschaft», sagte Sarah Springman, «dass sie Europas beste technische Hochschule ist, verdankt sie nicht zuletzt ihren Mitarbeitenden. Dank ihnen funktioniert die ETH.»\n\nEin zentrales Führungsinstrument ist für die Rektorin das jährliche Personalgespräch: «Da können beide Seiten schwierige Dinge auf akzeptable Weise ansprechen. Das ist wichtig, damit die Mitarbeitenden mitwirken können.» Die Arbeit in der Schulleitung gefällt ihr: «Wir setzen gemeinsam die Prioritäten und entscheiden als Team - und wir lernen voneinander.» Ein Lernziel, das sich Sarah Springman für sich persönlich gesetzt hat, betrifft das ganze Schweizer Schulsystem.\n\nZu den Herausforderungen für die Lehre an der ETH Zürich zählt sie"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/06/rector",
+        "label": "LOC",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PER",
+        "start": 27,
+        "end": 42
+      },
+      {
+        "text": "The Personnel Commission",
+        "label": "MISC",
+        "start": 50,
+        "end": 74
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 55,
+        "end": 65
+      },
+      {
+        "text": "PeKo",
+        "label": "ORG",
+        "start": 67,
+        "end": 71
+      },
+      {
+        "text": "Laborschliessungen",
+        "label": "LOC",
+        "start": 256,
+        "end": 274
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PER",
+        "start": 314,
+        "end": 329
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 408,
+        "end": 418
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 453,
+        "end": 456
+      },
+      {
+        "text": "europäischen",
+        "label": "MISC",
+        "start": 527,
+        "end": 539
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PER",
+        "start": 568,
+        "end": 583
+      },
+      {
+        "text": "Europas",
+        "label": "LOC",
+        "start": 595,
+        "end": 602
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 713,
+        "end": 716
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PER",
+        "start": 1101,
+        "end": 1116
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 1169,
+        "end": 1178
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1238,
+        "end": 1248
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Sarah Springman"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "PeKo"
+      ],
+      "LOCATION": [
+        "De Internal/2015/06/rector",
+        "Europas",
+        "Laborschliessungen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Schweizer",
+        "The Personnel Commission",
+        "europäischen"
+      ]
+    },
+    "entity_counts": {
+      "Sarah Springman": 4,
+      "ETH Zürich": 3,
+      "ETH": 2,
+      "De Internal/2015/06/rector": 1,
+      "The Personnel Commission": 1,
+      "PeKo": 1,
+      "Laborschliessungen": 1,
+      "europäischen": 1,
+      "Europas": 1,
+      "Schweizer": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2015_06_rector-sarah-springman-visits-the-personnel-commission.md",
+      "title": "De Internal/2015/06/rector Sarah Springman Visits The Personnel Commission",
+      "language": "de",
+      "source_path": "de_internal/2015/06/rector-sarah-springman-visits-the-personnel-commission.html"
+    },
+    "temporal": {
+      "publication_date": "2015-06",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Sarah Springman"
+      ],
+      "people_with_roles": {
+        "Sarah Springman": [
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Schweizer",
+        "The Personnel Commission",
+        "europäischen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Personnel Commission",
+        "Januar Rektorin",
+        "Schweizer Schulsystem",
+        "De Internal",
+        "Visits The",
+        "Beispiel Arbeitszeugnisse",
+        "Sarah Springman",
+        "Die Professorin",
+        "Die Arbeit",
+        "Die ETH",
+        "D-BAUG",
+        "Ein Lernziel"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "PeKo"
+      ],
+      "locations": [
+        "De Internal/2015/06/rector",
+        "Europas",
+        "Laborschliessungen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Sarah Springman",
+        "ETH Zürich",
+        "ETH",
+        "De Internal/2015/06/rector",
+        "The Personnel Commission",
+        "PeKo",
+        "Laborschliessungen",
+        "europäischen",
+        "Europas",
+        "Schweizer"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1336
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2015",
+        "EU",
+        "Sarah Springman",
+        "ETH Zürich",
+        "PeKo"
+      ],
+      "semantic_concepts": [
+        "Schweizer",
+        "The Personnel Commission",
+        "who",
+        "europäischen"
+      ],
+      "graph_relations": [
+        "Sarah Springman_has_role_rector"
+      ]
+    }
+  }
+}

@@ -1,0 +1,727 @@
+{
+  "filename": "brain-game.md",
+  "original_filename": "brain-game.html",
+  "source_path": "en_news_events/2020/04/brain-game.html",
+  "date": "2020-04",
+  "title": "Brain Game",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Steered by the eeg",
+      "text": "Samuel Kunz is hard at work on his training regimen. In November, he will be up against nine other athletes at the Cybathlon 2020 Global Edition, competing in a virtual car race in which he controls the vehicle using only his thoughts. On a regular basis, Paulina Kratka – a Bachelor’s student from the Neural Control of Movement Lab – visits him in Frauenfeld to help him train. She starts by placing a cap on his head studded with 64 electrodes and filling each electrode cavity with an electrolyte gel to ensure good contact between the electrodes and his scalp. Then she plugs the cable from the cap into a signal amplifier. This is connected to a laptop on which the game runs. Samuel Kunz is the pilot of the ETH Zurich Brain Computer Interface (BCI) team. He has had tetraplegia since a swimming accident in the Limmat river in the summer of 2014. Despite his disability, he completed his degree in mechanical engineering at ZHAW and now works as a design engineer. “I’m a total technophile,” he says. “When my therapist told me about the Cybathlon, I was immediately keen to take part.”"
+    },
+    {
+      "heading": "Steered by the eeg",
+      "text": "For this year’s Cybathlon, Nicole Wenderoth, an ETH Professor at the Neural Control of Movement Lab, is working closely with Professor Cuntai Guan from Nanyang Technological University (NTU) in Singapore. Guan’s group specialises in electroencephalography (EEG) and neural signal processing. In neuroscience, EEG is used to measure the electrical activity of the brain. With the right algorithms, it can also be used to play computer games.\n\n“We use EEG to record all the signals from the cerebral cortex,” explains Rea Lehner, Senior Researcher in Future Health Technologies and manager of the ETH BCI team. “So we start out with a complete mess of different brain signals.” She says that the biggest challenge is to filter out the signals the pilot uses to control their avatar in the computer game and identify them using machine learning. In the case of Lehner’s BCI team, the signals of most interest come from the motor cortex in the rear portion of the frontal lobe. Published research has shown that these signals are suitable for establishing a brain-computer interface (BCI) due to their distinct activity."
+    },
+    {
+      "heading": "Victory Nap",
+      "text": "A virtual car race (Bild: Yves Bachmann / ETH Zurich)\n\nThe Cybathlon team, which is supported by Rehaklinik Zihlschlacht and the company Brain Products, spent almost two years optimising the signal processing algorithm. This is what converts the electrical signals from Samuel Kunz’s motor cortex into movements on the screen – and it has to be as consistent and accurate as possible. Four commands are required to play the game. To steer his vehicle left, Kunz thinks about moving his left hand. When the racetrack curves to the right, he thinks about his right hand. To drive straight ahead, he has to relax as much as possible – and when the game racetrack is plunged into darkness, he has to switch on the headlights by thinking about moving both hands at the same time. Different patterns are activated in the cortex region depending on his thoughts. These are recorded via EEG and converted into control signals using algorithms. “The training is exhausting,” says Kunz. “Trying to move my body in my thoughts is a bit like being trapped in a dense, sticky substance like honey,” he adds, though he emphasises that things have improved markedly since he first started, when he felt like he was encased in concrete. Gradually regaining a mental feel for his own body has taken a great deal of rehabilitation and training.\n\nWhile the Singapore team wrestles with the algorithm, training is in full swing in Zurich. Every session has a program running in the background that analyses the algorithm’s performance. “The number of training sessions we run with a specific algorithm is key, because the algorithm adapts to the pilot, and the pilot gets used to the algorithm,” says Lehner. Deciding when the time has come to stop developing the algorithm is a tricky business, she adds."
+    },
+    {
+      "heading": "Interest from tech companies",
+      "text": "Unlike other technologies showcased at the Cybathlon, the brain-computer interface is still a long way from its first practical application, one example of which might be controlling a wheelchair by thought alone. The problem is that preparing and using an electrode cap is a cumbersome task, and signal conversion is highly complex. Right now, it is easier to rely on signals from muscles that are still active, such as the eyelids. Signals produced in this way are considerably stronger than so-called thought signals.\n\nNevertheless, there is already huge interest in BCIs from businesses, with Google and Facebook already investing millions in the field. Voice recognition was a major leap forward for smartphones and tablets, but mind control is the next big thing. Tesla founder Elon Musk is also developing BCIs through his company Neuralink, where a team of over 90 researchers is working on projects such as tiny implantable electrodes. Making this tech safe for human use is still some way off, however, and Lehner has some concerns about this invasive form of BCIs: “Implanting electrodes directly in the brain obviously gives you much clearer signals than a cap,” she says. “But in terms of patient benefits, I think those kinds of interventions are only justified in exceptional cases.” The potential complications can be severe, and scientists have yet to carry out long-term studies on large cohorts. Lehner hopes rapid progress in the development of non-invasive BCI technologies will ensure invasive technologies are reserved for exceptional cases."
+    },
+    {
+      "heading": "Victory Nap",
+      "text": "On 13 November, Kunz will compete against nine international BCI teams. To complete the 500-metre race, he will have to execute each of the four commands four times, without knowing in advance in which order he will need to do so. The current favourite is the team led by former EPFL Professor José Millán, which won the 2016 Cybathlon. The biggest challenge we pilots face, says Kunz, is to avoid moving our face muscles, as this causes serious signal interference. His best result to date came after a post-lunch nap. “But I’m not sure I’ll be able to take that kind of nap right before the race, where there are thousands of people in the crowd,” says Kunz."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Samuel Kunz",
+        "label": "PERSON",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "November",
+        "label": "DATE",
+        "start": 56,
+        "end": 64
+      },
+      {
+        "text": "nine",
+        "label": "CARDINAL",
+        "start": 88,
+        "end": 92
+      },
+      {
+        "text": "the Cybathlon 2020 Global Edition",
+        "label": "ORG",
+        "start": 111,
+        "end": 144
+      },
+      {
+        "text": "Paulina Kratka",
+        "label": "PERSON",
+        "start": 256,
+        "end": 270
+      },
+      {
+        "text": "Bachelor",
+        "label": "ORG",
+        "start": 275,
+        "end": 283
+      },
+      {
+        "text": "the Neural Control of Movement Lab",
+        "label": "ORG",
+        "start": 299,
+        "end": 333
+      },
+      {
+        "text": "Frauenfeld",
+        "label": "GPE",
+        "start": 350,
+        "end": 360
+      },
+      {
+        "text": "Samuel Kunz",
+        "label": "PERSON",
+        "start": 683,
+        "end": 694
+      },
+      {
+        "text": "the ETH Zurich Brain",
+        "label": "ORG",
+        "start": 711,
+        "end": 731
+      },
+      {
+        "text": "Computer Interface",
+        "label": "PERSON",
+        "start": 732,
+        "end": 750
+      },
+      {
+        "text": "Limmat",
+        "label": "ORG",
+        "start": 819,
+        "end": 825
+      },
+      {
+        "text": "the summer of 2014",
+        "label": "DATE",
+        "start": 835,
+        "end": 853
+      },
+      {
+        "text": "ZHAW",
+        "label": "ORG",
+        "start": 932,
+        "end": 936
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 4,
+        "end": 13
+      },
+      {
+        "text": "Nicole Wenderoth",
+        "label": "PERSON",
+        "start": 27,
+        "end": 43
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 48,
+        "end": 51
+      },
+      {
+        "text": "the Neural Control of Movement Lab",
+        "label": "ORG",
+        "start": 65,
+        "end": 99
+      },
+      {
+        "text": "Cuntai Guan",
+        "label": "PERSON",
+        "start": 135,
+        "end": 146
+      },
+      {
+        "text": "Nanyang Technological University",
+        "label": "ORG",
+        "start": 152,
+        "end": 184
+      },
+      {
+        "text": "NTU",
+        "label": "ORG",
+        "start": 186,
+        "end": 189
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 194,
+        "end": 203
+      },
+      {
+        "text": "Guan’s",
+        "label": "ORG",
+        "start": 205,
+        "end": 211
+      },
+      {
+        "text": "EEG",
+        "label": "ORG",
+        "start": 309,
+        "end": 312
+      },
+      {
+        "text": "Rea Lehner",
+        "label": "PERSON",
+        "start": 515,
+        "end": 525
+      },
+      {
+        "text": "Future Health Technologies",
+        "label": "ORG",
+        "start": 548,
+        "end": 574
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 594,
+        "end": 597
+      },
+      {
+        "text": "Lehner’s",
+        "label": "ORG",
+        "start": 857,
+        "end": 865
+      },
+      {
+        "text": "Rehaklinik Zihlschlacht",
+        "label": "PERSON",
+        "start": 96,
+        "end": 119
+      },
+      {
+        "text": "Brain Products",
+        "label": "ORG",
+        "start": 136,
+        "end": 150
+      },
+      {
+        "text": "almost two years",
+        "label": "DATE",
+        "start": 158,
+        "end": 174
+      },
+      {
+        "text": "Samuel Kunz’s",
+        "label": "PERSON",
+        "start": 269,
+        "end": 282
+      },
+      {
+        "text": "Four",
+        "label": "CARDINAL",
+        "start": 384,
+        "end": 388
+      },
+      {
+        "text": "Kunz",
+        "label": "GPE",
+        "start": 456,
+        "end": 460
+      },
+      {
+        "text": "EEG",
+        "label": "ORG",
+        "start": 878,
+        "end": 881
+      },
+      {
+        "text": "Kunz",
+        "label": "PERSON",
+        "start": 970,
+        "end": 974
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1159,
+        "end": 1164
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 1336,
+        "end": 1345
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1409,
+        "end": 1415
+      },
+      {
+        "text": "Cybathlon",
+        "label": "ORG",
+        "start": 43,
+        "end": 52
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 112,
+        "end": 117
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 141,
+        "end": 144
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 596,
+        "end": 602
+      },
+      {
+        "text": "millions",
+        "label": "CARDINAL",
+        "start": 634,
+        "end": 642
+      },
+      {
+        "text": "Elon Musk",
+        "label": "PERSON",
+        "start": 783,
+        "end": 792
+      },
+      {
+        "text": "Neuralink",
+        "label": "PERSON",
+        "start": 837,
+        "end": 846
+      },
+      {
+        "text": "over 90",
+        "label": "CARDINAL",
+        "start": 864,
+        "end": 871
+      },
+      {
+        "text": "Lehner",
+        "label": "ORG",
+        "start": 1016,
+        "end": 1022
+      },
+      {
+        "text": "13 November",
+        "label": "DATE",
+        "start": 3,
+        "end": 14
+      },
+      {
+        "text": "Kunz",
+        "label": "GPE",
+        "start": 16,
+        "end": 20
+      },
+      {
+        "text": "nine",
+        "label": "CARDINAL",
+        "start": 42,
+        "end": 46
+      },
+      {
+        "text": "500-metre",
+        "label": "QUANTITY",
+        "start": 88,
+        "end": 97
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 140,
+        "end": 144
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 154,
+        "end": 158
+      },
+      {
+        "text": "José Millán",
+        "label": "PERSON",
+        "start": 294,
+        "end": 305
+      },
+      {
+        "text": "the 2016 Cybathlon",
+        "label": "EVENT",
+        "start": 317,
+        "end": 335
+      },
+      {
+        "text": "Kunz",
+        "label": "PERSON",
+        "start": 380,
+        "end": 384
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 615,
+        "end": 624
+      },
+      {
+        "text": "Kunz",
+        "label": "PERSON",
+        "start": 655,
+        "end": 659
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Computer Interface",
+        "Cuntai Guan",
+        "Elon Musk",
+        "José Millán",
+        "Kunz",
+        "Neuralink",
+        "Nicole Wenderoth",
+        "Paulina Kratka",
+        "Rea Lehner",
+        "Rehaklinik Zihlschlacht",
+        "Samuel Kunz",
+        "Samuel Kunz’s"
+      ],
+      "ORG": [
+        "Bachelor",
+        "Brain Products",
+        "Cybathlon",
+        "EEG",
+        "ETH",
+        "Future Health Technologies",
+        "Google",
+        "Guan’s",
+        "Lehner",
+        "Lehner’s",
+        "Limmat",
+        "NTU",
+        "Nanyang Technological University",
+        "ZHAW",
+        "the Cybathlon 2020 Global Edition",
+        "the ETH Zurich Brain",
+        "the Neural Control of Movement Lab"
+      ],
+      "LOCATION": [
+        "Frauenfeld",
+        "Kunz",
+        "Singapore",
+        "Zurich"
+      ],
+      "DATE": [
+        "13 November",
+        "November",
+        "almost two years",
+        "the summer of 2014",
+        "this year"
+      ],
+      "MISC": [
+        "500-metre",
+        "Four",
+        "first",
+        "four",
+        "millions",
+        "nine",
+        "one",
+        "over 90",
+        "the 2016 Cybathlon",
+        "thousands"
+      ]
+    },
+    "entity_counts": {
+      "Kunz": 5,
+      "Samuel Kunz": 2,
+      "nine": 2,
+      "the Neural Control of Movement Lab": 2,
+      "ETH": 2,
+      "Singapore": 2,
+      "EEG": 2,
+      "first": 2,
+      "four": 2,
+      "November": 1,
+      "the Cybathlon 2020 Global Edition": 1,
+      "Paulina Kratka": 1,
+      "Bachelor": 1,
+      "Frauenfeld": 1,
+      "the ETH Zurich Brain": 1,
+      "Computer Interface": 1,
+      "Limmat": 1,
+      "the summer of 2014": 1,
+      "ZHAW": 1,
+      "this year": 1
+    },
+    "total_entities": 59,
+    "unique_entities": 47
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "brain-game.md",
+      "title": "En News Events/2020/04/brain Game",
+      "language": "en",
+      "source_path": "en_news_events/2020/04/brain-game.html"
+    },
+    "temporal": {
+      "publication_date": "2020-04",
+      "mentioned_years": [
+        "2014",
+        "2016",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Computer Interface",
+        "Cuntai Guan",
+        "Elon Musk",
+        "José Millán",
+        "Kunz",
+        "Neuralink",
+        "Nicole Wenderoth",
+        "Paulina Kratka",
+        "Rea Lehner",
+        "Rehaklinik Zihlschlacht",
+        "Samuel Kunz",
+        "Samuel Kunz’s"
+      ],
+      "people_with_roles": {
+        "Computer Interface": [
+          "chair"
+        ],
+        "Cuntai Guan": [
+          "Professor",
+          "professor"
+        ],
+        "Elon Musk": [
+          "researcher"
+        ],
+        "José Millán": [
+          "Professor",
+          "professor"
+        ],
+        "Neuralink": [
+          "researcher"
+        ],
+        "Nicole Wenderoth": [
+          "professor"
+        ],
+        "Paulina Kratka": [
+          "student"
+        ],
+        "Rea Lehner": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "chair",
+        "head",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "500-metre",
+        "Four",
+        "first",
+        "four",
+        "millions",
+        "nine",
+        "over 90",
+        "the 2016 Cybathlon",
+        "thousands"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Professor Cuntai",
+        "Movement Lab",
+        "Nanyang Technological",
+        "ETH BCI",
+        "Senior Researcher",
+        "But I",
+        "ETH Professor",
+        "Brain Computer",
+        "Global Edition",
+        "Game Samuel",
+        "Brain Products",
+        "Neural Control",
+        "Rehaklinik Zihlschlacht",
+        "Paulina Kratka",
+        "Elon Musk",
+        "Future Health",
+        "In November",
+        "En News",
+        "Rea Lehner",
+        "EPFL Professor",
+        "ETH Zurich",
+        "Samuel Kunz",
+        "Nicole Wenderoth",
+        "Yves Bachmann",
+        "The Cybathlon"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bachelor",
+        "Brain Products",
+        "Cybathlon",
+        "EEG",
+        "ETH",
+        "Future Health Technologies",
+        "Google",
+        "Guan’s",
+        "Lehner",
+        "Lehner’s",
+        "Limmat",
+        "NTU",
+        "Nanyang Technological University",
+        "ZHAW",
+        "the Cybathlon 2020 Global Edition",
+        "the ETH Zurich Brain",
+        "the Neural Control of Movement Lab"
+      ],
+      "locations": [
+        "Frauenfeld",
+        "Kunz",
+        "Singapore",
+        "Zurich"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Kunz",
+        "Samuel Kunz",
+        "nine",
+        "the Neural Control of Movement Lab",
+        "ETH",
+        "Singapore",
+        "EEG",
+        "first",
+        "four",
+        "November"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Steered by the eeg",
+          "Steered by the eeg",
+          "Victory Nap",
+          "Interest from tech companies",
+          "Victory Nap"
+        ],
+        "content_length": 6257
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Guan’s",
+        "Cybathlon",
+        "Samuel Kunz’s",
+        "Bachelor",
+        "2020",
+        "2016",
+        "Future Health Technologies",
+        "NTU",
+        "the ETH Zurich Brain",
+        "José Millán",
+        "Lehner",
+        "Nanyang Technological University",
+        "the Neural Control of Movement Lab",
+        "EEG",
+        "2014",
+        "Brain Products",
+        "ZHAW",
+        "EU",
+        "Kunz",
+        "Cuntai Guan",
+        "Computer Interface",
+        "Lehner’s",
+        "Rehaklinik Zihlschlacht",
+        "Paulina Kratka",
+        "Elon Musk",
+        "Google",
+        "Rea Lehner",
+        "Neuralink",
+        "Limmat",
+        "Samuel Kunz",
+        "Nicole Wenderoth",
+        "the Cybathlon 2020 Global Edition"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "computer_science",
+        "nine",
+        "four",
+        "who",
+        "the 2016 Cybathlon",
+        "thousands",
+        "Four",
+        "millions",
+        "over 90",
+        "when",
+        "what",
+        "where",
+        "how",
+        "medical_research",
+        "500-metre",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Computer Interface_has_role_chair",
+        "Cuntai Guan_has_role_Professor",
+        "Cuntai Guan_has_role_professor",
+        "Elon Musk_has_role_researcher",
+        "José Millán_has_role_Professor",
+        "José Millán_has_role_professor",
+        "Neuralink_has_role_researcher",
+        "Nicole Wenderoth_has_role_professor",
+        "Paulina Kratka_has_role_student",
+        "Rea Lehner_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "filename": "elektroautos.md",
+  "original_filename": "elektroautos.html",
+  "source_path": "en_news_events/2017/11/elektroautos.html",
+  "date": "2017-11",
+  "title": "Elektroautos",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Are electric cars greener?",
+      "text": "The last year has been a good one for electric cars. Their market share has jumped upward, pushed by new models that are affordable and offer longer ranges. Several countries – China, India, France, and the UK – have announced policies aiming for a complete switch from gasoline to electric.\n\nYears ago, as scientific evidence for climate change was growing, the oil industry responded with misinformation designed to spread doubt and uncertainty in the media[1]. The implication was clear: society should wait a little longer to make sure climate change is real, before taking any action. Now it seems something similar is happening with electric cars. A large share of the news coverage on electric cars reflects doubt on their environmental benefits[2]. The result, among many people I talk to, is to question whether the growth in electric cars is really a good thing."
+    },
+    {
+      "heading": "Are electric cars greener?",
+      "text": "The most serious accusation against electric cars is that their CO 2 emissions actually exceed those of gasoline cars. Different studies have made a variety of assumptions (as far as I can see, all of them wrong) to reach this conclusion, but the simplest is to assume that the energy source for manufacturing and power generation is carbon intensive.\n\nCertainly there are countries where coal, the dirtiest of fuels, is still king. But economic factors already speak against building new coal infrastructure, and its share in the energy mix is falling. More fundamentally, saving the climate requires that all energy sector emissions will have to end quickly. The transition to 100% clean energy is already underway, although it remains to be seen whether it will accelerate fast enough. That means that electric cars will be getting greener every year, and can eventually become carbon neutral. A litre of gasoline, meanwhile, will always produce the same 2.3 kg of CO 2 ."
+    },
+    {
+      "heading": "Wait-and-see is not an option",
+      "text": "Some argue that we should focus now on greater gasoline efficiency, and switch to electric cars once the rest of the energy system has become greener. But this ignores the time that such transitions require. Completely switching to electric cars, and to clean energy, will each take decades. Undertaking them in parallel saves us valuable time.\n\nThe other argument for wait-and-see is that a better technology might be just around the corner. Two possibilities are hydrogen fuel cells and alternative liquid fuels. Are these like the LED lighting that appeared in stores just after all of us had switched over to compact fluorescent bulbs?"
+    },
+    {
+      "heading": "Other fuels can’t win the race",
+      "text": "Using hydrogen as an energy carrier is inherently less efficient than batteries, but arguing in hydrogen’s favour is that it offers the same driving range and refuelling time that we are used to with gasoline. Only a few years ago this argument mattered, but today it does not. New electric cars offer ranges over 400 km, enough for 99% of the trips people make. For the other 1%, there is already a network of fast charging stations at highway rest stops. By the time we could build a network of hydrogen pipelines, or retrofit our gas pipelines, electric cars and infrastructure will have improved even more. It’s a race that hydrogen can’t win.\n\nProducing enough biofuels to phase out gasoline would create havoc for biodiversity, water resources, and our food supply. But it is also possible to use renewable energy to synthesize liquid hydrocarbons from water and CO 2 . This power-to-fuel technology is relatively affordable if the CO 2 comes from the exhaust gas of a fossil-fuel combustion facility. But to get to zero emissions, the CO 2 must be concentrated from the ambient air. Direct air capture is expensive, primarily because of the energy required. I am convinced that this is how we will produce fuels for flying, where there is no other realistic option to go carbon neutral. But I see no way that these fuels can become cheap enough to compete against electricity in cars."
+    },
+    {
+      "heading": "If cars, then electric ones, and now",
+      "text": "We can do a lot of good by driving less. But for those cars that do remain on the road, far and away the best option to make them carbon neutral is to build them with batteries instead of gasoline engines. The faster we make this switch, and the sooner we have public policies that facilitate it, the better."
+    },
+    {
+      "heading": "Further information",
+      "text": "See also this blog post carbon-free mobility by Konstantinous Boulouchos.\n\n[1] Supran, G. & Oreskes, N. Assessing ExxonMobil’s climate change communications (1977–2014). Environmental Research Letters 12, 084019 (2017).\n\n[2] Szymkowski, S. Bizarre Swedish study claims electric cars are worse for the environment. Green Car Reports (2017)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The last year",
+        "label": "DATE",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 177,
+        "end": 182
+      },
+      {
+        "text": "India",
+        "label": "GPE",
+        "start": 184,
+        "end": 189
+      },
+      {
+        "text": "France",
+        "label": "GPE",
+        "start": 191,
+        "end": 197
+      },
+      {
+        "text": "UK",
+        "label": "GPE",
+        "start": 207,
+        "end": 209
+      },
+      {
+        "text": "Years ago",
+        "label": "DATE",
+        "start": 292,
+        "end": 301
+      },
+      {
+        "text": "100%",
+        "label": "PERCENT",
+        "start": 678,
+        "end": 682
+      },
+      {
+        "text": "every year",
+        "label": "DATE",
+        "start": 842,
+        "end": 852
+      },
+      {
+        "text": "2.3 kg",
+        "label": "QUANTITY",
+        "start": 957,
+        "end": 963
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 967,
+        "end": 971
+      },
+      {
+        "text": "decades",
+        "label": "DATE",
+        "start": 283,
+        "end": 290
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 442,
+        "end": 445
+      },
+      {
+        "text": "Only a few years ago",
+        "label": "DATE",
+        "start": 210,
+        "end": 230
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 259,
+        "end": 264
+      },
+      {
+        "text": "400 km",
+        "label": "QUANTITY",
+        "start": 314,
+        "end": 320
+      },
+      {
+        "text": "99%",
+        "label": "PERCENT",
+        "start": 333,
+        "end": 336
+      },
+      {
+        "text": "1%",
+        "label": "PERCENT",
+        "start": 377,
+        "end": 379
+      },
+      {
+        "text": "the CO 2",
+        "label": "PRODUCT",
+        "start": 933,
+        "end": 941
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 1021,
+        "end": 1025
+      },
+      {
+        "text": "the CO 2",
+        "label": "PRODUCT",
+        "start": 1037,
+        "end": 1045
+      },
+      {
+        "text": "Konstantinous Boulouchos",
+        "label": "PERSON",
+        "start": 48,
+        "end": 72
+      },
+      {
+        "text": "N. Assessing",
+        "label": "PERSON",
+        "start": 100,
+        "end": 112
+      },
+      {
+        "text": "12, 084019",
+        "label": "DATE",
+        "start": 200,
+        "end": 210
+      },
+      {
+        "text": "S. Bizarre Swedish",
+        "label": "PERSON",
+        "start": 235,
+        "end": 253
+      },
+      {
+        "text": "Green Car Reports",
+        "label": "PERSON",
+        "start": 312,
+        "end": 329
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Green Car Reports",
+        "Konstantinous Boulouchos",
+        "N. Assessing",
+        "S. Bizarre Swedish"
+      ],
+      "ORG": [
+        "CO 2"
+      ],
+      "LOCATION": [
+        "China",
+        "France",
+        "India",
+        "UK"
+      ],
+      "DATE": [
+        "12, 084019",
+        "Only a few years ago",
+        "The last year",
+        "Years ago",
+        "decades",
+        "every year",
+        "today"
+      ],
+      "MISC": [
+        "1%",
+        "100%",
+        "2.3 kg",
+        "400 km",
+        "99%",
+        "Two",
+        "the CO 2",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "the CO 2": 2,
+      "The last year": 1,
+      "China": 1,
+      "India": 1,
+      "France": 1,
+      "UK": 1,
+      "Years ago": 1,
+      "100%": 1,
+      "every year": 1,
+      "2.3 kg": 1,
+      "CO 2": 1,
+      "decades": 1,
+      "Two": 1,
+      "Only a few years ago": 1,
+      "today": 1,
+      "400 km": 1,
+      "99%": 1,
+      "1%": 1,
+      "zero": 1,
+      "Konstantinous Boulouchos": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "elektroautos.md",
+      "title": "En News Events/2017/11/elektroautos",
+      "language": "en",
+      "source_path": "en_news_events/2017/11/elektroautos.html"
+    },
+    "temporal": {
+      "publication_date": "2017-11",
+      "mentioned_years": [
+        "1977",
+        "2014",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Green Car Reports",
+        "Konstantinous Boulouchos",
+        "N. Assessing",
+        "S. Bizarre Swedish"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "100%",
+        "2.3 kg",
+        "400 km",
+        "the CO 2",
+        "zero"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "But I",
+        "Environmental Research",
+        "En News",
+        "Green Car",
+        "Bizarre Swedish",
+        "Assessing ExxonMobil",
+        "Konstantinous Boulouchos"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CO 2"
+      ],
+      "locations": [
+        "China",
+        "France",
+        "India",
+        "UK"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "the CO 2",
+        "The last year",
+        "China",
+        "India",
+        "France",
+        "UK",
+        "Years ago",
+        "100%",
+        "every year",
+        "2.3 kg"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Are electric cars greener?",
+          "Are electric cars greener?",
+          "Wait-and-see is not an option",
+          "Other fuels can’t win the race",
+          "If cars, then electric ones, and now",
+          "Further information"
+        ],
+        "content_length": 4564
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2017",
+        "S. Bizarre Swedish",
+        "N. Assessing",
+        "EU",
+        "1977",
+        "Green Car Reports",
+        "Konstantinous Boulouchos",
+        "2014",
+        "CO 2"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "2.3 kg",
+        "the CO 2",
+        "zero",
+        "400 km",
+        "where",
+        "what",
+        "how",
+        "100%",
+        "climate_change",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

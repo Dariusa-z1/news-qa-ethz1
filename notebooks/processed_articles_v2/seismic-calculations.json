@@ -1,0 +1,245 @@
+{
+  "filename": "seismic-calculations.md",
+  "original_filename": "seismic-calculations.html",
+  "source_path": "en_news_events/2018/05/seismic-calculations.html",
+  "date": "2018-05",
+  "title": "Seismic Calculations",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Atlas V rocket with the NASA InSight spacecraft left California on Saturday, May 5th, heading for Mars. ( ETH News has reported ). A new article on the website of CSCS, a service and research unit of ETH Zurich basid in Lugano, now shows which preparations have been made to calculate the data analysis of the motion of seismic waves on the surface of Mars.\n\nThe complete article is available on the website of CSCS."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Calculations",
+        "label": "ORG",
+        "start": 31,
+        "end": 43
+      },
+      {
+        "text": "Atlas",
+        "label": "PERSON",
+        "start": 4,
+        "end": 9
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 28,
+        "end": 32
+      },
+      {
+        "text": "InSight",
+        "label": "PRODUCT",
+        "start": 33,
+        "end": 40
+      },
+      {
+        "text": "California",
+        "label": "GPE",
+        "start": 57,
+        "end": 67
+      },
+      {
+        "text": "Saturday, May 5th",
+        "label": "DATE",
+        "start": 71,
+        "end": 88
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 102,
+        "end": 106
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 110,
+        "end": 118
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 167,
+        "end": 171
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 204,
+        "end": 214
+      },
+      {
+        "text": "Lugano",
+        "label": "GPE",
+        "start": 224,
+        "end": 230
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 356,
+        "end": 360
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 414,
+        "end": 418
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Atlas"
+      ],
+      "ORG": [
+        "CSCS",
+        "Calculations",
+        "ETH News",
+        "ETH Zurich",
+        "NASA"
+      ],
+      "LOCATION": [
+        "California",
+        "Lugano",
+        "Mars"
+      ],
+      "DATE": [
+        "Saturday, May 5th"
+      ],
+      "MISC": [
+        "InSight"
+      ]
+    },
+    "entity_counts": {
+      "Mars": 2,
+      "CSCS": 2,
+      "Calculations": 1,
+      "Atlas": 1,
+      "NASA": 1,
+      "InSight": 1,
+      "California": 1,
+      "Saturday, May 5th": 1,
+      "ETH News": 1,
+      "ETH Zurich": 1,
+      "Lugano": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "seismic-calculations.md",
+      "title": "En News Events/2018/05/seismic Calculations",
+      "language": "en",
+      "source_path": "en_news_events/2018/05/seismic-calculations.html"
+    },
+    "temporal": {
+      "publication_date": "2018-05",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Atlas"
+      ],
+      "people_with_roles": {
+        "Atlas": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "InSight"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "ETH News",
+        "ETH Zurich",
+        "Atlas V",
+        "NASA InSight",
+        "Calculations The"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSCS",
+        "Calculations",
+        "ETH News",
+        "ETH Zurich",
+        "NASA"
+      ],
+      "locations": [
+        "California",
+        "Lugano",
+        "Mars"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Mars",
+        "CSCS",
+        "Calculations",
+        "Atlas",
+        "NASA",
+        "InSight",
+        "California",
+        "Saturday, May 5th",
+        "ETH News",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 464
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "CSCS",
+        "Calculations",
+        "Atlas",
+        "NASA",
+        "ETH News",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "InSight",
+        "what",
+        "how"
+      ],
+      "graph_relations": [
+        "Atlas_has_role_head",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

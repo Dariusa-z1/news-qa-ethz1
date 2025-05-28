@@ -1,0 +1,187 @@
+{
+  "filename": "forschungsdaten-im-eth-data-archive-publizieren.md",
+  "original_filename": "forschungsdaten-im-eth-data-archive-publizieren.html",
+  "source_path": "de_internal/2016/02/forschungsdaten-im-eth-data-archive-publizieren.html",
+  "date": "2016-02",
+  "title": "Forschungsdaten Im Eth Data Archive Publizieren",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das ETH Data Archive bietet Angehörigen der ETH Zürich diese Dienstleistung für Daten, die zugleich langfristig verfügbar bleiben sollen. Zwei Möglichkeiten stehen zur Auswahl:\n\nZudem können Sie Ordnerstrukturen mit dem Tool docuteam packer erstellen und bearbeiten, mit Detailangaben versehen und so Daten strukturiert ins ETH Data Archive hochladen. Gerne beraten wir Sie zum geeigneten Vorgehen.\n\nWeitere Informationen zum digitalen Datenerhalt"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/02",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Eth Data Archive",
+        "label": "MISC",
+        "start": 39,
+        "end": 55
+      },
+      {
+        "text": "ETH Data Archive",
+        "label": "MISC",
+        "start": 4,
+        "end": 20
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 44,
+        "end": 54
+      },
+      {
+        "text": "docuteam packer",
+        "label": "ORG",
+        "start": 224,
+        "end": 239
+      },
+      {
+        "text": "ETH Data Archive",
+        "label": "MISC",
+        "start": 323,
+        "end": 339
+      },
+      {
+        "text": "Gerne",
+        "label": "PER",
+        "start": 351,
+        "end": 356
+      },
+      {
+        "text": "Datenerhalt",
+        "label": "LOC",
+        "start": 434,
+        "end": 445
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Gerne"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "docuteam packer"
+      ],
+      "LOCATION": [
+        "Datenerhalt",
+        "De Internal/2016/02"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH Data Archive",
+        "Eth Data Archive"
+      ]
+    },
+    "entity_counts": {
+      "ETH Data Archive": 2,
+      "De Internal/2016/02": 1,
+      "Eth Data Archive": 1,
+      "ETH Zürich": 1,
+      "docuteam packer": 1,
+      "Gerne": 1,
+      "Datenerhalt": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "forschungsdaten-im-eth-data-archive-publizieren.md",
+      "title": "De Internal/2016/02/forschungsdaten Im Eth Data Archive Publizieren",
+      "language": "de",
+      "source_path": "de_internal/2016/02/forschungsdaten-im-eth-data-archive-publizieren.html"
+    },
+    "temporal": {
+      "publication_date": "2016-02",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Gerne"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH Data Archive",
+        "Eth Data Archive"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Im Eth",
+        "De Internal",
+        "Data Archive",
+        "Publizieren Das",
+        "ETH Data",
+        "Sie Ordnerstrukturen",
+        "Weitere Informationen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "docuteam packer"
+      ],
+      "locations": [
+        "Datenerhalt",
+        "De Internal/2016/02"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Data Archive",
+        "De Internal/2016/02",
+        "Eth Data Archive",
+        "ETH Zürich",
+        "docuteam packer",
+        "Gerne",
+        "Datenerhalt"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 515
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Gerne",
+        "ETH Zürich",
+        "docuteam packer",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Eth Data Archive",
+        "when",
+        "ETH Data Archive"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

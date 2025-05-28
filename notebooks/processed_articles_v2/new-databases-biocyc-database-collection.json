@@ -1,0 +1,156 @@
+{
+  "filename": "new-databases-biocyc-database-collection.md",
+  "original_filename": "new-databases-biocyc-database-collection.html",
+  "source_path": "en_internal/2017/07/new-databases-biocyc-database-collection.html",
+  "date": "2017-07",
+  "title": "New Databases Biocyc Database Collection",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "BioCyc Database Collection is a comprehensive resource for data records on genes, metabolites, and metabolic pathways of thousands of microbes and other species. BioCyc curators summarize and synthesize information from publications and organize them into tiers according to the amount of manual updating they have received. Additionally, the website contains a variety of software tools for searching, visualizing, comparing, and analyzing these data.\n\nThe database can be accessed online on ETH Zurich's network or on ETH Library premises."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Databases Biocyc Database Collection",
+        "label": "ORG",
+        "start": 24,
+        "end": 60
+      },
+      {
+        "text": "BioCyc Database Collection",
+        "label": "ORG",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 121,
+        "end": 130
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "ORG",
+        "start": 492,
+        "end": 504
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 519,
+        "end": 530
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "BioCyc Database Collection",
+        "Databases Biocyc Database Collection",
+        "ETH Library",
+        "ETH Zurich's"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "thousands"
+      ]
+    },
+    "entity_counts": {
+      "Databases Biocyc Database Collection": 1,
+      "BioCyc Database Collection": 1,
+      "thousands": 1,
+      "ETH Zurich's": 1,
+      "ETH Library": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-databases-biocyc-database-collection.md",
+      "title": "En Internal/2017/07/new Databases Biocyc Database Collection",
+      "language": "en",
+      "source_path": "en_internal/2017/07/new-databases-biocyc-database-collection.html"
+    },
+    "temporal": {
+      "publication_date": "2017-07",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "thousands"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Library",
+        "En Internal",
+        "Databases Biocyc",
+        "ETH Zurich",
+        "Database Collection",
+        "BioCyc Database"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BioCyc Database Collection",
+        "Databases Biocyc Database Collection",
+        "ETH Library",
+        "ETH Zurich's"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Databases Biocyc Database Collection",
+        "BioCyc Database Collection",
+        "thousands",
+        "ETH Zurich's",
+        "ETH Library"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 602
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Databases Biocyc Database Collection",
+        "2017",
+        "ETH Library",
+        "BioCyc Database Collection",
+        "ETH Zurich's"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "computer_science",
+        "thousands"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

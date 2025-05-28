@@ -1,0 +1,231 @@
+{
+  "filename": "informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-21-februar-2022.md",
+  "original_filename": "informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-21-februar-2022.html",
+  "source_path": "en_internal/2022/02/informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-21-februar-2022.html",
+  "date": "2022-02",
+  "title": "Informationen Zu Corona Regelungen An Der Eth Bibliothek Ab Dem 21 Februar 2022",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Services",
+      "text": "- The Reading Room Collections and Archives and the exhibition of the Max Frisch Archive are regularly open Mon–Fri from 10.00–17.00. For the Reading Room pre-registration is kindly requested.\n\n- The Thomas Mann Archives are accessible by appointment. The exhibition of the Graphische Sammlung can be visited during regular opening hours Mon–Sun from 10.00–16.45.\n\nPlease note that a mask obligation applies at all ETH Library locations."
+    },
+    {
+      "heading": "Services",
+      "text": "The regular opening hours apply to all locations. All services and offers can be used as usual."
+    },
+    {
+      "heading": "Events",
+      "text": "Events are partly taking place on location again. A mask obligation applies. Please read the notes and details about upcoming events in the events calendar ."
+    },
+    {
+      "heading": "Face masks mandatory",
+      "text": "Face masks must be worn in all ETH buildings. This also applies to the study spaces. Please bear this in mind when visiting the ETH Library.\n\nYou can also continue to make use of our digital resources and contact options . Please do not visit the library if you are feeling unwell."
+    },
+    {
+      "heading": "Any questions? The ETH Library will be happy to help.",
+      "text": "E-mail: You can also get in touch with us via WhatsApp or our chat function."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Corona Regelungen",
+        "label": "ORG",
+        "start": 37,
+        "end": 54
+      },
+      {
+        "text": "Bibliothek Ab",
+        "label": "PERSON",
+        "start": 66,
+        "end": 79
+      },
+      {
+        "text": "the Max Frisch Archive",
+        "label": "ORG",
+        "start": 66,
+        "end": 88
+      },
+      {
+        "text": "the Graphische Sammlung",
+        "label": "FAC",
+        "start": 269,
+        "end": 292
+      },
+      {
+        "text": "regular opening hours",
+        "label": "TIME",
+        "start": 315,
+        "end": 336
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 413,
+        "end": 416
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "WhatsApp",
+        "label": "ORG",
+        "start": 46,
+        "end": 54
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 42,
+        "end": 57
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bibliothek Ab"
+      ],
+      "ORG": [
+        "Corona Regelungen",
+        "ETH",
+        "WhatsApp",
+        "the ETH Library",
+        "the Max Frisch Archive"
+      ],
+      "LOCATION": [
+        "the Graphische Sammlung"
+      ],
+      "DATE": [
+        "regular opening hours"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Corona Regelungen": 1,
+      "Bibliothek Ab": 1,
+      "the Max Frisch Archive": 1,
+      "the Graphische Sammlung": 1,
+      "regular opening hours": 1,
+      "WhatsApp": 1,
+      "the ETH Library": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-21-februar-2022.md",
+      "title": "En Internal/2022/02/informationen zu Corona Regelungen an der Eth Bibliothek Ab dem 21 Februar 2022",
+      "language": "en",
+      "source_path": "en_internal/2022/02/informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-21-februar-2022.html"
+    },
+    "temporal": {
+      "publication_date": "2022-02",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bibliothek Ab"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Corona Regelungen",
+        "The Reading",
+        "Mann Archives",
+        "Graphische Sammlung",
+        "ETH Library",
+        "The Thomas",
+        "Room Collections",
+        "En Internal",
+        "Reading Room",
+        "Max Frisch",
+        "Eth Bibliothek"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Corona Regelungen",
+        "ETH",
+        "WhatsApp",
+        "the ETH Library",
+        "the Max Frisch Archive"
+      ],
+      "locations": [
+        "the Graphische Sammlung"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Corona Regelungen",
+        "Bibliothek Ab",
+        "the Max Frisch Archive",
+        "the Graphische Sammlung",
+        "regular opening hours",
+        "WhatsApp",
+        "the ETH Library"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Services",
+          "Services",
+          "Events",
+          "Face masks mandatory",
+          "Any questions? The ETH Library will be happy to help.",
+          "Staffnet"
+        ],
+        "content_length": 1262
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Corona Regelungen",
+        "Bibliothek Ab",
+        "WhatsApp",
+        "ETH",
+        "the Max Frisch Archive",
+        "2022",
+        "the ETH Library"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "what",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

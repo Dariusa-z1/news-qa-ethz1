@@ -1,0 +1,259 @@
+{
+  "filename": "data-management-plans-for-snsf-grants.md",
+  "original_filename": "data-management-plans-for-snsf-grants.html",
+  "source_path": "en_internal/2017/06/data-management-plans-for-snsf-grants.html",
+  "date": "2017-06",
+  "title": "Data Management Plans For Snsf Grants",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Swiss National Science Foundation SNSF has published guidelines for Data Management Plans. As of October 2017 researchers are requested to submit a Data Management Plan as an integral part of their research application.\n\nWhat does this mean for researchers at ETH Zurich? What kind of requirements do they have to comply with in the future?\n\nThursday 6 July 2017\n\nZentrum, Room HG E 1.1: 13.00 to 14.00 Hönggerberg, Room HPV G 5: 17.00 to 18.00\n\nRegistration is not necessary. The event will be held in English.\n\nMore information on the topic of Data Management Plans can be found on the Digital Curation website ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 0,
+        "end": 37
+      },
+      {
+        "text": "Data Management",
+        "label": "ORG",
+        "start": 72,
+        "end": 87
+      },
+      {
+        "text": "October 2017",
+        "label": "DATE",
+        "start": 101,
+        "end": 113
+      },
+      {
+        "text": "Data Management Plan",
+        "label": "ORG",
+        "start": 152,
+        "end": 172
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 263,
+        "end": 273
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE",
+        "start": 344,
+        "end": 352
+      },
+      {
+        "text": "6 July 2017",
+        "label": "DATE",
+        "start": 353,
+        "end": 364
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 365,
+        "end": 372
+      },
+      {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 384,
+        "end": 387
+      },
+      {
+        "text": "13.00",
+        "label": "CARDINAL",
+        "start": 389,
+        "end": 394
+      },
+      {
+        "text": "14.00",
+        "label": "CARDINAL",
+        "start": 398,
+        "end": 403
+      },
+      {
+        "text": "17.00",
+        "label": "CARDINAL",
+        "start": 431,
+        "end": 436
+      },
+      {
+        "text": "18.00",
+        "label": "CARDINAL",
+        "start": 440,
+        "end": 445
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 503,
+        "end": 510
+      },
+      {
+        "text": "Data Management",
+        "label": "ORG",
+        "start": 545,
+        "end": 560
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Zentrum"
+      ],
+      "ORG": [
+        "Data Management",
+        "Data Management Plan",
+        "ETH Zurich",
+        "The Swiss National Science Foundation"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "6 July 2017",
+        "October 2017",
+        "Thursday"
+      ],
+      "MISC": [
+        "1.1",
+        "13.00",
+        "14.00",
+        "17.00",
+        "18.00",
+        "English"
+      ]
+    },
+    "entity_counts": {
+      "Data Management": 2,
+      "The Swiss National Science Foundation": 1,
+      "October 2017": 1,
+      "Data Management Plan": 1,
+      "ETH Zurich": 1,
+      "Thursday": 1,
+      "6 July 2017": 1,
+      "Zentrum": 1,
+      "1.1": 1,
+      "13.00": 1,
+      "14.00": 1,
+      "17.00": 1,
+      "18.00": 1,
+      "English": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "data-management-plans-for-snsf-grants.md",
+      "title": "En Internal/2017/06/data Management Plans For Snsf Grants",
+      "language": "en",
+      "source_path": "en_internal/2017/06/data-management-plans-for-snsf-grants.html"
+    },
+    "temporal": {
+      "publication_date": "2017-06",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "13.00",
+        "14.00",
+        "17.00",
+        "18.00",
+        "English"
+      ],
+      "grants_funding": [
+        "grant"
+      ],
+      "projects": [
+        "Data Management",
+        "Room HG",
+        "Digital Curation",
+        "Management Plans",
+        "En Internal",
+        "Swiss National",
+        "Science Foundation",
+        "For Snsf",
+        "ETH Zurich",
+        "Grants The",
+        "Room HPV"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Data Management",
+        "Data Management Plan",
+        "ETH Zurich",
+        "The Swiss National Science Foundation"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "Data Management",
+        "The Swiss National Science Foundation",
+        "October 2017",
+        "Data Management Plan",
+        "ETH Zurich",
+        "Thursday",
+        "6 July 2017",
+        "Zentrum",
+        "1.1",
+        "13.00"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 676
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Data Management",
+        "grant",
+        "2017",
+        "Zentrum",
+        "ETH Zurich",
+        "The Swiss National Science Foundation",
+        "Data Management Plan"
+      ],
+      "semantic_concepts": [
+        "17.00",
+        "13.00",
+        "who",
+        "English",
+        "14.00",
+        "18.00",
+        "what"
+      ],
+      "graph_relations": []
+    }
+  }
+}

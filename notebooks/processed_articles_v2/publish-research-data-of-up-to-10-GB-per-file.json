@@ -1,0 +1,180 @@
+{
+  "filename": "publish-research-data-of-up-to-10-GB-per-file.md",
+  "original_filename": "publish-research-data-of-up-to-10-GB-per-file.html",
+  "source_path": "en_internal/2018/08/publish-research-data-of-up-to-10-GB-per-file.html",
+  "date": "2018-08",
+  "title": "Publish Research Data Of Up To 10 Gb Per File",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH Library has increased the maximum file size from 2 GB to 10 GB. With this change, we can now meet the need many of our users have voiced regarding the deposit of larger files. Additionally, we are working on a solution for the deposit of files larger than 10 GB. Read more on how to prepare your files for uploading them into the Research Collection. The Research Collection is ETH Zurich's publication platform and contains the research output from its chairs, research groups and institutes."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Research Data",
+        "label": "ORG",
+        "start": 28,
+        "end": 41
+      },
+      {
+        "text": "ETH Library",
+        "label": "PERSON",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "larger than 10",
+        "label": "CARDINAL",
+        "start": 248,
+        "end": 262
+      },
+      {
+        "text": "the Research Collection",
+        "label": "ORG",
+        "start": 330,
+        "end": 353
+      },
+      {
+        "text": "The Research Collection",
+        "label": "ORG",
+        "start": 355,
+        "end": 378
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 382,
+        "end": 394
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library",
+        "ETH Zurich's"
+      ],
+      "ORG": [
+        "Research Data",
+        "The Research Collection",
+        "the Research Collection"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "larger than 10"
+      ]
+    },
+    "entity_counts": {
+      "Research Data": 1,
+      "ETH Library": 1,
+      "larger than 10": 1,
+      "the Research Collection": 1,
+      "The Research Collection": 1,
+      "ETH Zurich's": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "publish-research-data-of-up-to-10-GB-per-file.md",
+      "title": "En Internal/2018/08/publish Research Data Of Up To 10 Gb Per File",
+      "language": "en",
+      "source_path": "en_internal/2018/08/publish-research-data-of-up-to-10-GB-per-file.html"
+    },
+    "temporal": {
+      "publication_date": "2018-08",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library",
+        "ETH Zurich's"
+      ],
+      "people_with_roles": {
+        "ETH Zurich's": [
+          "chair"
+        ]
+      },
+      "institutional_roles": [
+        "chair"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "larger than 10"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "File ETH",
+        "Research Data",
+        "The Research",
+        "Gb Per",
+        "En Internal",
+        "Of Up",
+        "Research Collection",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Research Data",
+        "The Research Collection",
+        "the Research Collection"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Research Data",
+        "ETH Library",
+        "larger than 10",
+        "the Research Collection",
+        "The Research Collection",
+        "ETH Zurich's"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 563
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Research Data",
+        "ETH Library",
+        "The Research Collection",
+        "the Research Collection",
+        "ETH Zurich's"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "larger than 10",
+        "how"
+      ],
+      "graph_relations": [
+        "ETH Zurich's_has_role_chair",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "filename": "geovite--plattform-fuer-geodaten-in-lehre-und-forschung.md",
+  "original_filename": "geovite--plattform-fuer-geodaten-in-lehre-und-forschung.html",
+  "source_path": "en_internal/2019/07/geovite--plattform-fuer-geodaten-in-lehre-und-forschung.html",
+  "date": "2019-07",
+  "title": "Geovite Plattform Fuer Geodaten In Lehre Und Forschung",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "GeoVITe offers GIS beginners and experts fast, browser-based access to federal and cantonal geodata. The extensive range of data also includes Siegfried/Dufour maps as well as various data time stands.\n\nBased on initial developments within research projects, the platform has been operated by the Institute of Cartography and Geoinformation of ETH Zurich (IKG) since 2008. As part of a national funding programme, GeoVITe was integrated into the service geodata4edu.ch . Since 1 July 2019, GeoVITe has continued as an independent service, operated by IKG and ETH Library."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Lehre",
+        "label": "GPE",
+        "start": 55,
+        "end": 60
+      },
+      {
+        "text": "Siegfried/Dufour",
+        "label": "WORK_OF_ART",
+        "start": 143,
+        "end": 159
+      },
+      {
+        "text": "the Institute of Cartography and Geoinformation",
+        "label": "ORG",
+        "start": 292,
+        "end": 339
+      },
+      {
+        "text": "1 July 2019",
+        "label": "DATE",
+        "start": 476,
+        "end": 487
+      },
+      {
+        "text": "IKG",
+        "label": "ORG",
+        "start": 550,
+        "end": 553
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 558,
+        "end": 569
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Library",
+        "IKG",
+        "the Institute of Cartography and Geoinformation"
+      ],
+      "LOCATION": [
+        "Lehre"
+      ],
+      "DATE": [
+        "1 July 2019"
+      ],
+      "MISC": [
+        "Siegfried/Dufour"
+      ]
+    },
+    "entity_counts": {
+      "Lehre": 1,
+      "Siegfried/Dufour": 1,
+      "the Institute of Cartography and Geoinformation": 1,
+      "1 July 2019": 1,
+      "IKG": 1,
+      "ETH Library": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "geovite--plattform-fuer-geodaten-in-lehre-und-forschung.md",
+      "title": "En Internal/2019/07/geovite Plattform Fuer Geodaten in Lehre und Forschung",
+      "language": "en",
+      "source_path": "en_internal/2019/07/geovite--plattform-fuer-geodaten-in-lehre-und-forschung.html"
+    },
+    "temporal": {
+      "publication_date": "2019-07",
+      "mentioned_years": [
+        "2008",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Siegfried/Dufour"
+      ],
+      "grants_funding": [
+        "funding"
+      ],
+      "projects": [
+        "Forschung GeoVITe",
+        "ETH Library",
+        "En Internal",
+        "Plattform Fuer",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library",
+        "IKG",
+        "the Institute of Cartography and Geoinformation"
+      ],
+      "locations": [
+        "Lehre"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Lehre",
+        "Siegfried/Dufour",
+        "the Institute of Cartography and Geoinformation",
+        "1 July 2019",
+        "IKG",
+        "ETH Library"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 646
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "ETH Library",
+        "2008",
+        "the Institute of Cartography and Geoinformation",
+        "funding",
+        "IKG"
+      ],
+      "semantic_concepts": [
+        "when",
+        "what",
+        "Siegfried/Dufour"
+      ],
+      "graph_relations": []
+    }
+  }
+}

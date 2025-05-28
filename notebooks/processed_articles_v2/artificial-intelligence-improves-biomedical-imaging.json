@@ -1,0 +1,416 @@
+{
+  "filename": "artificial-intelligence-improves-biomedical-imaging.md",
+  "original_filename": "artificial-intelligence-improves-biomedical-imaging.html",
+  "source_path": "en_news_events/2019/09/artificial-intelligence-improves-biomedical-imaging.html",
+  "date": "2019-09",
+  "title": "Artificial Intelligence Improves Biomedical Imaging",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Correcting for image distortions",
+      "text": "Scientists at ETH Zurich and the University of Zurich have used machine learning methods to improve optoacoustic imaging. This relatively young medical imaging technique can be used for applications such as visualizing blood vessels, studying brain activity, characterizing skin lesions and diagnosing breast cancer. However, quality of the rendered images is very dependent on the number and distribution of sensors used by the device: the more of them, the better the image quality. The new approach developed by the ETH researchers allows for substantial reduction of the number of sensors without giving up on the resulting image quality. This makes it possible to reduce the device cost, increase imaging speed or improve diagnosis.\n\nOptoacoustics (see box) is similar in some respects to ultrasound imaging. In the latter, a probe sends ultrasonic waves into the body, which are reflected by the tissue. Sensors in the probe detect the returning sound waves and a picture of the inside of the body is subsequently generated. In optoacoustic imaging, very short laser pulses are instead sent into the tissue, where they are absorbed and converted into ultrasonic waves. Similarly to ultrasound imaging, the waves are detected and converted into images."
+    },
+    {
+      "heading": "Correcting for image distortions",
+      "text": "The team led by Daniel Razansky, Professor of Biomedical Imaging at the University of Zurich and ETH Zurich, searched for a way to enhance image quality of low-cost optoacoustic devices that possess only a small number of ultrasonic sensors.\n\nTo do this, they started off by using a self-developed high-end optoacoustic scanner having 512 sensors, which delivered superior-quality images. They had these pictures analysed by an artificial neural network, which was able to learn the features of the high-quality images.\n\nNext, the researchers discarded the majority of the sensors, so that only 128 or 32 sensors remained, with a detrimental effect on the image quality. Due to the lack of data, distortions known as streak type artefacts appeared in the images. It turned out, however, that the previously trained neural network was able to largely correct for these distortions, thus bringing the image quality closer to the measurements obtained with all the 512 sensors."
+    },
+    {
+      "heading": "Facilitating clinical decision making",
+      "text": "Scientists at ETH Zurich and the University of Zurich have used machine learning methods to improve optoacoustic imaging. This relatively young medical imaging technique can be used for applications such as visualizing blood vessels, studying brain activity, characterizing skin lesions and diagnosing breast cancer. However, quality of the rendered images is very dependent on the number and distribution of sensors used by the device: the more of them, the better the image quality. The new approach developed by the ETH researchers allows for substantial reduction of the number of sensors without giving up on the resulting image quality. This makes it possible to reduce the device cost, increase imaging speed or improve diagnosis.\n\nOptoacoustics (see box) is similar in some respects to ultrasound imaging. In the latter, a probe sends ultrasonic waves into the body, which are reflected by the tissue. Sensors in the probe detect the returning sound waves and a picture of the inside of the body is subsequently generated. In optoacoustic imaging, very short laser pulses are instead sent into the tissue, where they are absorbed and converted into ultrasonic waves. Similarly to ultrasound imaging, the waves are detected and converted into images."
+    },
+    {
+      "heading": "Correcting for image distortions",
+      "text": "The team led by Daniel Razansky, Professor of Biomedical Imaging at the University of Zurich and ETH Zurich, searched for a way to enhance image quality of low-cost optoacoustic devices that possess only a small number of ultrasonic sensors.\n\nTo do this, they started off by using a self-developed high-end optoacoustic scanner having 512 sensors, which delivered superior-quality images. They had these pictures analysed by an artificial neural network, which was able to learn the features of the high-quality images.\n\nNext, the researchers discarded the majority of the sensors, so that only 128 or 32 sensors remained, with a detrimental effect on the image quality. Due to the lack of data, distortions known as streak type artefacts appeared in the images. It turned out, however, that the previously trained neural network was able to largely correct for these distortions, thus bringing the image quality closer to the measurements obtained with all the 512 sensors."
+    },
+    {
+      "heading": "Reference",
+      "text": "In optoacoustics, the image quality increases not only with the number of sensors used, but also when the information is captured from as many directions as possible: the larger the sector in which the sensors are arranged around the object, the better the quality. The developed machine learning algorithm was also successful in improving quality of images that were recorded from just a narrowly circumscribed sector. “This is particularly important for clinical applications, as the laser pulses cannot penetrate the entire human body, hence the imaged region is normally only accessible from one direction,” according to Razansky.\n\nThe scientists stress that their approach is not limited to optoacoustic imaging. Because the method operates on the reconstructed images, not the raw recorded data, it is also applicable to other imaging techniques. “You can basically use the same methodology to produce high-quality images from any sort of sparse data,” Razansky says. He explains that physicians are often confronted with the challenge of interpreting poor quality images from patients. “We show that such images can be improved with AI methods, making it easier to attain more accurate diagnosis.”\n\nFor Razansky, this research work is a good example of what existing methods of artificial intelligence can be used for. “Many people think that AI could replace human intelligence. This is probably exaggerated, at least for the currently available AI technology,” he says. “It can’t replace human creativity, yet may release us from some laborious, repetitive tasks.”\n\nIn their current research, the scientists used an optoacoustic tomography device customised for small animals, and trained the machine learning algorithms with images from mice. The next step will be to apply the method to optoacoustic images from human patients, Razansky says.\n\nUnlike optoacoustics (also known as photoacoustics), many imaging techniques, such as ultrasound, X-ray or MRI, are mainly suitable for visualizing anatomical alterations in the body. To receive additional functional information, for instance concerning blood flow or metabolic changes, the patient has to be administered contrast agents or radioactive tracers before the imaging. In contrast, the optoacoustic method can visualize functional and molecular information without introducing contrast agents. One example is local changes in tissue oxygenation – an important landmark of cancer that can be used for early diagnosis. Lipid content in blood vessels is yet another potential disease marker, which can aid an early detection of cardiovascular diseases.\n\nIt should be noted, however, that because the light waves used in optoacoustic imaging, unlike other waves, do not fully penetrate the human body, the method is only suitable for investigating tissues to a depth of a few centimetres beneath the skin.\n\nDavoudi N, Deán-Ben XL, Razansky D: Deep learning optoacoustic tomography with sparse data, Nature Machine Intelligence, 16 September 2019, doi: 10.1038/s42256-019-0095-3"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Intelligence Improves Biomedical Imaging",
+        "label": "ORG",
+        "start": 34,
+        "end": 74
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 14,
+        "end": 24
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 29,
+        "end": 53
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 519,
+        "end": 522
+      },
+      {
+        "text": "Daniel Razansky",
+        "label": "PERSON",
+        "start": 16,
+        "end": 31
+      },
+      {
+        "text": "Biomedical Imaging",
+        "label": "ORG",
+        "start": 46,
+        "end": 64
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 68,
+        "end": 92
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 97,
+        "end": 107
+      },
+      {
+        "text": "only 128",
+        "label": "CARDINAL",
+        "start": 588,
+        "end": 596
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 14,
+        "end": 24
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 29,
+        "end": 53
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 519,
+        "end": 522
+      },
+      {
+        "text": "Daniel Razansky",
+        "label": "PERSON",
+        "start": 16,
+        "end": 31
+      },
+      {
+        "text": "Biomedical Imaging",
+        "label": "ORG",
+        "start": 46,
+        "end": 64
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 68,
+        "end": 92
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 97,
+        "end": 107
+      },
+      {
+        "text": "only 128",
+        "label": "CARDINAL",
+        "start": 588,
+        "end": 596
+      },
+      {
+        "text": "Razansky",
+        "label": "ORG",
+        "start": 625,
+        "end": 633
+      },
+      {
+        "text": "Razansky",
+        "label": "ORG",
+        "start": 958,
+        "end": 966
+      },
+      {
+        "text": "AI",
+        "label": "ORG",
+        "start": 1139,
+        "end": 1141
+      },
+      {
+        "text": "Razansky",
+        "label": "ORG",
+        "start": 1208,
+        "end": 1216
+      },
+      {
+        "text": "AI",
+        "label": "ORG",
+        "start": 1348,
+        "end": 1350
+      },
+      {
+        "text": "AI",
+        "label": "ORG",
+        "start": 1452,
+        "end": 1454
+      },
+      {
+        "text": "Razansky",
+        "label": "ORG",
+        "start": 1836,
+        "end": 1844
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 2357,
+        "end": 2360
+      },
+      {
+        "text": "Davoudi N",
+        "label": "PERSON",
+        "start": 2864,
+        "end": 2873
+      },
+      {
+        "text": "Deán-Ben XL",
+        "label": "PERSON",
+        "start": 2875,
+        "end": 2886
+      },
+      {
+        "text": "Nature Machine Intelligence",
+        "label": "ORG",
+        "start": 2956,
+        "end": 2983
+      },
+      {
+        "text": "16 September 2019",
+        "label": "DATE",
+        "start": 2985,
+        "end": 3002
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 3009,
+        "end": 3016
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Daniel Razansky",
+        "Davoudi N",
+        "Deán-Ben XL",
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "AI",
+        "Biomedical Imaging",
+        "ETH",
+        "Intelligence Improves Biomedical Imaging",
+        "Nature Machine Intelligence",
+        "Razansky",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "ETH Zurich"
+      ],
+      "DATE": [
+        "16 September 2019"
+      ],
+      "MISC": [
+        "10.1038",
+        "One",
+        "only 128"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 4,
+      "the University of Zurich": 4,
+      "Razansky": 4,
+      "AI": 3,
+      "ETH": 2,
+      "Daniel Razansky": 2,
+      "Biomedical Imaging": 2,
+      "only 128": 2,
+      "Intelligence Improves Biomedical Imaging": 1,
+      "One": 1,
+      "Davoudi N": 1,
+      "Deán-Ben XL": 1,
+      "Nature Machine Intelligence": 1,
+      "16 September 2019": 1,
+      "10.1038": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "artificial-intelligence-improves-biomedical-imaging.md",
+      "title": "En News Events/2019/09/artificial Intelligence Improves Biomedical Imaging",
+      "language": "en",
+      "source_path": "en_news_events/2019/09/artificial-intelligence-improves-biomedical-imaging.html"
+    },
+    "temporal": {
+      "publication_date": "2019-09",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Daniel Razansky",
+        "Davoudi N",
+        "Deán-Ben XL",
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "Daniel Razansky": [
+          "professor"
+        ],
+        "ETH Zurich": [
+          "scientist",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10.1038",
+        "only 128"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Biomedical Imaging",
+        "Davoudi N",
+        "Ben XL",
+        "En News",
+        "For Razansky",
+        "Intelligence Improves",
+        "Razansky D",
+        "Nature Machine",
+        "ETH Zurich",
+        "Daniel Razansky"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AI",
+        "Biomedical Imaging",
+        "ETH",
+        "Intelligence Improves Biomedical Imaging",
+        "Nature Machine Intelligence",
+        "Razansky",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "the University of Zurich",
+        "Razansky",
+        "AI",
+        "ETH",
+        "Daniel Razansky",
+        "Biomedical Imaging",
+        "only 128",
+        "Intelligence Improves Biomedical Imaging",
+        "One"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Correcting for image distortions",
+          "Correcting for image distortions",
+          "Facilitating clinical decision making",
+          "Correcting for image distortions",
+          "Reference"
+        ],
+        "content_length": 7581
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Davoudi N",
+        "Biomedical Imaging",
+        "2019",
+        "Nature Machine Intelligence",
+        "EU",
+        "the University of Zurich",
+        "AI",
+        "Intelligence Improves Biomedical Imaging",
+        "Deán-Ben XL",
+        "ETH Zurich",
+        "Razansky",
+        "Daniel Razansky"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "only 128",
+        "computer_science",
+        "who",
+        "10.1038",
+        "chemistry",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Daniel Razansky_has_role_professor",
+        "ETH Zurich_has_role_scientist",
+        "ETH Zurich_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

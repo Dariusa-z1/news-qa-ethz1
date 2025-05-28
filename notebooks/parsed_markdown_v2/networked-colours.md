@@ -1,0 +1,40 @@
+# networked-colours.html
+
+**Source:** en_news_events/2016/11/networked-colours.html
+
+## Colour depends on the thickness of the coating
+
+An international team of researchers has developed a novel means of producing coloured coatings for metals. The colours are produced by a special nanometre-sized structure in the coating material. In contrast to other existing structural colours (see box), this new production process can be applied very simply over a large area. The colours are also particularly intense and the material highly scratch-proof.
+
+The material in question is a double-layer designer material. The lower layer is a metallic network perforated by tiny cavities and made of an alloy of platinum, yttrium and aluminium. The researchers used a simple etching process to create the cavities and then placed a very thin oxide layer on top of this “nano-sponge network”.
+
+## Colour depends on the thickness of the coating
+
+It’s interesting to note that the impression of the colour depends on the thickness of the aluminium oxide coating: a 12-nanometre layer makes the material appear green, a 24-nanometre layer yellow, a 28-nanomatre layer orange, a 48-nanometre layer blue and a 53-nanometre layer purple
+
+## Banknotes and planes
+
+“The colour arises from the interaction between the ambient light and both layers of the material, and in particular with the randomly organised boundary layer between the two materials,” explains physicist Henning Galinski. “We are able to capture and concentrate particular wavelengths of light in a very targeted manner.” Galinski is co-lead author of the recent study and works in the laboratory of ETH Zurich professor Ralph Spolenak and Harvard University professor Federico Capasso. Andrea Fratalocchi, professor at King Abdullah University of Science and Technology (KAUST) in Saudi Arabia, and his group contributed to the theoretical explanation of the functional principle through their comprehensive computer simulations.
+
+## Chaotic network structure
+
+Until now, structural colours have generally possessed a repetitive structure that determines the colour we perceive. The disadvantage is that even tiny flaws can cause huge changes in the optical properties.
+
+In contrast, the networks developed by Galinski and his colleagues do not follow a clear structure: the cavities in the networks are a similar size, but not exactly the same. The physical characteristics are determined by the average cavity size, not by the size of each individual cavity.
+
+“Our approach is based on disorder, rather than on the precise production of millions of repeating sub-units. This makes it extremely error-tolerant,” says Galinski. “The etching and coating process can also be used on a large scale over surfaces of several square metres.” Until now, structural colours have been restricted to a smaller scale due to their difficult and expensive manufacture.
+
+Colourful networked materials also exist in nature; for example, keratin networks are responsible for the colour of the plumage in some bird species native to South America. “However, we are the first to demonstrate that these networked materials can be used technically as structural colours and thus influence which colour is perceived,” says Galinski.
+
+## Banknotes and planes
+
+The new structural colours could be used to create very thin security features in banknotes, for example, or to colour vehicles and aircraft, also for camouflage paint in military applications. “However, we also see our system as a platform from which many further developments are possible,” says Galinski.
+
+The new metamaterial – the scientific term for man-made materials with optical, electrical or magnetic properties that do not occur in nature – could also prove interesting for energy systems, such as thin-film solar cells. “We have developed an extremely thin material that concentrates and perfectly absorbs light at individual points,” says Galinski. This effect could be used to develop highly efficient light-harvesting systems. In addition, the light concentration is largely independent of its angle of incidence – another advantage for applications in solar cells.
+
+Most wall paints and artists’ colours contain coloured pigments. These are chemical compounds that absorb light of particular wavelengths. The portion of ambient light that is not absorbed by the pigment is reflected, determining the colour we perceive. Physically, the colour originates from attenuation of light at the individual colour pigments.
+
+Structural colours, in contrast, arise from the specific surface structure of a material. Materials of this type have a sophisticated and often multi-layered design. The colour impression comes from the targeted extinction of light within the material layers and their boundary layers.
+
+Galinski H, Favraud G, Dong H, Totero Gongora JS, Favaro G, Döbeli M, Spolenak R, Fratalocchi A, Capasso F: Scalable, ultra-resistant structural colors based on network metamaterials. Light: Science & Applications , published ahead of advance online publication 27 September 2016
+

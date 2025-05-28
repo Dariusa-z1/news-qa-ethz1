@@ -1,0 +1,148 @@
+{
+  "filename": "how-to-continue-using-swisscovid-app.md",
+  "original_filename": "how-to-continue-using-swisscovid-app.html",
+  "source_path": "en_internal/2020/06/how-to-continue-using-swisscovid-app.html",
+  "date": "2020-06",
+  "title": "How To Continue Using Swisscovid App",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "If you're a pilot user of the SwissCovid app and want to carry on using it, you need to install the official version from the App Store or Google Play Store. This will automatically update the pilot version. The data already captured will be copied over to the new app version so that proximity tracing is uninterrupted.\n\nIf you no longer want to use the SwissCovid app, simply delete the pilot version from your mobile phone. All the data captured up to that point will be deleted as well.\n\nIf you have any questions on the installation you can contact the technical hotline on +41 (0) 58 466 07 99."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Swisscovid App",
+        "label": "PERSON",
+        "start": 42,
+        "end": 56
+      },
+      {
+        "text": "SwissCovid",
+        "label": "ORG",
+        "start": 30,
+        "end": 40
+      },
+      {
+        "text": "the App Store",
+        "label": "FAC",
+        "start": 122,
+        "end": 135
+      },
+      {
+        "text": "SwissCovid",
+        "label": "ORG",
+        "start": 354,
+        "end": 364
+      },
+      {
+        "text": "07 99",
+        "label": "DATE",
+        "start": 592,
+        "end": 597
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Swisscovid App"
+      ],
+      "ORG": [
+        "SwissCovid"
+      ],
+      "LOCATION": [
+        "the App Store"
+      ],
+      "DATE": [
+        "07 99"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "SwissCovid": 2,
+      "Swisscovid App": 1,
+      "the App Store": 1,
+      "07 99": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-to-continue-using-swisscovid-app.md",
+      "title": "En Internal/2020/06/how To Continue Using Swisscovid App",
+      "language": "en",
+      "source_path": "en_internal/2020/06/how-to-continue-using-swisscovid-app.html"
+    },
+    "temporal": {
+      "publication_date": "2020-06",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Swisscovid App"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "App Store",
+        "Using Swisscovid",
+        "En Internal",
+        "App If",
+        "To Continue",
+        "Google Play"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "SwissCovid"
+      ],
+      "locations": [
+        "the App Store"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "SwissCovid",
+        "Swisscovid App",
+        "the App Store",
+        "07 99"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 657
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Swisscovid App",
+        "2020",
+        "SwissCovid"
+      ],
+      "semantic_concepts": [
+        "when",
+        "how"
+      ],
+      "graph_relations": []
+    }
+  }
+}

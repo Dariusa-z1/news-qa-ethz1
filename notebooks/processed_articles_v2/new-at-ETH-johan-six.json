@@ -1,0 +1,351 @@
+{
+  "filename": "new-at-ETH-johan-six.md",
+  "original_filename": "new-at-ETH-johan-six.html",
+  "source_path": "en_internal/2013/11/new-at-ETH-johan-six.html",
+  "date": "2013-11",
+  "title": "New At Eth Johan Six",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "How would you explain your research to a child? Johan Six: By saying: “I try to get the best food onto your plate and want to make sure that the food you get on a daily basis is of really high quality – that means, healthy and produced in a good way. With this kind of food, not only you stay healthy, but also the environment.”\n\nWhat was your main motivation to come to ETH Zurich? I was ready for a change after ten years at the University of California in Davis. ETH Zurich was my first choice because in many ways, ETH represents what I think a University should be these days: not only research, but an environment where education enjoys a high status and broad public support. Moreover, in my research I started to focus more and more on Africa, and here in Switzerland, or in Europe in general, there seems to be more interest in this area than in the US. So, I really think that ETH Zurich with its World Food System Center is an ideal opportunity.\n\nWhat are you most looking forward to at ETH? I’m mainly looking forward to setting up a research program that is relevant to the whole world, with some special focus on Africa. I am also keen on expanding the interdisciplinary work with colleagues, especially with economists and sociologists. In doing so, we can truly address sustainable agriculture from a biophysical, economic and social perspective.\n\nJohan Six has been a full professor for Sustainable Agroecosystems at Institute of Agricultural Sciences, D-USYS, since March 2013. He was born in Belgium in 1972. His research focuses on the interplay between ecosystem management approaches, global change, and biogeochemical cycles. More specifically, he studies the complex interactions between soil, plants, soil biota and the carbon and nitrogen cycles in agricultural, grassland, and forest ecosystems.\n\nRead Johan Six‘s blog post at the ′′Zukunftsblog′′: ′′Is chocolate sustainable?′′"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 163,
+        "end": 168
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 370,
+        "end": 380
+      },
+      {
+        "text": "ten years",
+        "label": "DATE",
+        "start": 413,
+        "end": 422
+      },
+      {
+        "text": "the University of California",
+        "label": "ORG",
+        "start": 426,
+        "end": 454
+      },
+      {
+        "text": "Davis",
+        "label": "PERSON",
+        "start": 458,
+        "end": 463
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 465,
+        "end": 475
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 483,
+        "end": 488
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 518,
+        "end": 521
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 743,
+        "end": 749
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 763,
+        "end": 774
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 782,
+        "end": 788
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 858,
+        "end": 860
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 886,
+        "end": 896
+      },
+      {
+        "text": "World Food System Center",
+        "label": "ORG",
+        "start": 906,
+        "end": 930
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 996,
+        "end": 999
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 1125,
+        "end": 1131
+      },
+      {
+        "text": "Johan Six",
+        "label": "PERSON",
+        "start": 1361,
+        "end": 1370
+      },
+      {
+        "text": "Sustainable Agroecosystems",
+        "label": "ORG",
+        "start": 1401,
+        "end": 1427
+      },
+      {
+        "text": "Institute of Agricultural Sciences",
+        "label": "ORG",
+        "start": 1431,
+        "end": 1465
+      },
+      {
+        "text": "March 2013",
+        "label": "DATE",
+        "start": 1481,
+        "end": 1491
+      },
+      {
+        "text": "Belgium",
+        "label": "GPE",
+        "start": 1508,
+        "end": 1515
+      },
+      {
+        "text": "Johan Six‘s",
+        "label": "ORG",
+        "start": 1825,
+        "end": 1836
+      },
+      {
+        "text": "′′Is",
+        "label": "PERSON",
+        "start": 1872,
+        "end": 1876
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Davis",
+        "ETH Zurich",
+        "Johan Six",
+        "′′Is"
+      ],
+      "ORG": [
+        "ETH",
+        "Institute of Agricultural Sciences",
+        "Johan Six‘s",
+        "Sustainable Agroecosystems",
+        "World Food System Center",
+        "the University of California"
+      ],
+      "LOCATION": [
+        "Africa",
+        "Belgium",
+        "Europe",
+        "Switzerland",
+        "US"
+      ],
+      "DATE": [
+        "March 2013",
+        "daily",
+        "ten years"
+      ],
+      "MISC": [
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "ETH": 2,
+      "Africa": 2,
+      "daily": 1,
+      "ten years": 1,
+      "the University of California": 1,
+      "Davis": 1,
+      "first": 1,
+      "Switzerland": 1,
+      "Europe": 1,
+      "US": 1,
+      "World Food System Center": 1,
+      "Johan Six": 1,
+      "Sustainable Agroecosystems": 1,
+      "Institute of Agricultural Sciences": 1,
+      "March 2013": 1,
+      "Belgium": 1,
+      "Johan Six‘s": 1,
+      "′′Is": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-at-ETH-johan-six.md",
+      "title": "En Internal/2013/11/new At Eth Johan Six",
+      "language": "en",
+      "source_path": "en_internal/2013/11/new-at-ETH-johan-six.html"
+    },
+    "temporal": {
+      "publication_date": "2013-11",
+      "mentioned_years": [
+        "1972",
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Davis",
+        "ETH Zurich",
+        "Johan Six",
+        "′′Is"
+      ],
+      "people_with_roles": {
+        "Johan Six": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "first"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "D-USYS",
+        "System Center",
+        "Sustainable Agroecosystems",
+        "World Food",
+        "Read Johan",
+        "En Internal",
+        "Agricultural Sciences",
+        "At Eth",
+        "Johan Six",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Institute of Agricultural Sciences",
+        "Johan Six‘s",
+        "Sustainable Agroecosystems",
+        "World Food System Center",
+        "the University of California"
+      ],
+      "locations": [
+        "Africa",
+        "Belgium",
+        "Europe",
+        "Switzerland",
+        "US"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "ETH",
+        "Africa",
+        "daily",
+        "ten years",
+        "the University of California",
+        "Davis",
+        "first",
+        "Switzerland",
+        "Europe"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1946
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the University of California",
+        "ETH",
+        "Davis",
+        "Johan Six‘s",
+        "2013",
+        "EU",
+        "Sustainable Agroecosystems",
+        "′′Is",
+        "Johan Six",
+        "Institute of Agricultural Sciences",
+        "ETH Zurich",
+        "World Food System Center",
+        "1972"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "chemistry",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Johan Six_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

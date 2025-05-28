@@ -1,0 +1,528 @@
+{
+  "filename": "new-app-unmasks-forged-documents.md",
+  "original_filename": "new-app-unmasks-forged-documents.html",
+  "source_path": "en_news_events/2024/03/new-app-unmasks-forged-documents.html",
+  "date": "2024-03",
+  "title": "New App Unmasks Forged Documents",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- The app from ETH spin-off Thenti can be used to authenticate physical documents. Any deviations from the original are immediately displayed on the screen.\n\n- Thenti is carrying out a pilot project together with the city of Zurich. From now on, debt collection register extracts from the city's debt collection offices can be checked for authenticity.\n\n- Soon, the app will also be able to check the authenticity of three-dimensional objects such as luxury watches."
+    },
+    {
+      "heading": "Digital authentication for the real world",
+      "text": "Expensive watches, bank statements, degree certificates and official documents: there are many things that can be forged and even more reasons for forging them. Researchers from the Information Security group under David Basin have developed a smartphone app to put a spoke in the wheel of forgers. While the principle is simple, the technology behind it is complex. The organisation that issues a document provides it with a QR code, saves the original in encrypted form on a server and sends a printed copy to the recipient. Anyone wishing to check the authenticity of the printed document then opens the organisation’s verification app, scans the QR code and films the document until the app gives the green light. This normally lasts little more than a second. The app compares the individual images of the film sequence with the original and flags any changes, even the smallest, in real time on the screen. For reasons of data protection, the filmed document is not stored on the smartphone. The challenge for the researchers lay in ensuring that only relevant differences were displayed and not things such as coffee stains, creases or worn bits of paper. The app also works if someone directly films a scanned version of the document on a computer screen."
+    },
+    {
+      "heading": "Digital authentication for the real world",
+      "text": "Despite all promises in the past, technological progress has not resulted in the paperless office. “The digital and physical worlds complement each other,” says Martín Ochoa, lead author of the underlying research article. “Today the authentication of digital documents is very highly developed. It therefore made perfect sense to us to extend the principles of digital authentication to the physical world.” In order to leverage the technology, he founded ETH spin-off thenti together with David Basin. “Paper is the link between the digital and the real world,” adds Basin. “There are more and more QR codes and augmented reality applications that are merging the two areas with each other.” It is therefore important to develop authentication technologies that do justice to both areas. The need is there at any rate. According to reports in the media, a so-called “degree mill” sold more than 200,000 forged pseudo-academic certificates for around USD 50 million in 2015 alone."
+    },
+    {
+      "heading": "Pilot project in Zurich aims to protect extracts from the debt enforcement register.",
+      "text": "The City of Zurich is also aware of this problem. Anyone in Switzerland wishing, for example, to rent an apartment or lease a car will generally be asked for an extract from the debt enforcement register. This provides information about whether debt enforcement proceedings have been initiated against such person in the past five years. As those with an entry must expect significant disadvantages, document forgery is a common occurrence. The debt enforcement offices of the City of Zurich alone therefore receive several enquiries each day as to whether information submitted is forged, which is estimated to be the case once or twice per week. The number of unrecorded cases is likely to be considerably higher. This is not only annoying for landlords but also causes unnecessary outlay for debt enforcement offices as well as high costs and expenses for prosecution authorities and courts.\n\n“When we heard about the technology, we knew immediately that this was something of potential interest for us,” says Alejandra Itel, Organisational and IT Project Manager at Zurich City Council: “On the one hand, because it could solve an expensive problem for us, and, on the other, because it would enable us to contribute to strengthening trust and security.” The debt enforcement offices immediately registered their interest and will be deploying the solution from March 2024. If the pilot proves successful, other areas of application in the city could follow. Further debt enforcement offices throughout Switzerland can soon be expected to deploy the new technology."
+    },
+    {
+      "heading": "Three-dimensional objects can also be checked",
+      "text": "The research underlying the app is funded by the Centre for Cyber Trust of the Werner Siemens Foundation. The City of Zurich is implementing the pilot project and using its experience to support the final development of the solution. The thenti business model envisages free use of the app for a given number of checks, after which a subscription must be taken out. “We naturally hope that the example of the City of Zurich attracts further interested parties,” says Martín Ochoa. The team is simultaneously working on further potential applications. For instance, the app is soon not only to be able to identify differences with two-dimensional documents but also with three-dimensional objects. This could, for example, enable manufacturers of luxury watches to register their products in the system so that customers are able to compare their watch with the registered specimens and thus eliminate any forgery. “Even top precision and quality products display small idiosyncracies that our system is able to recognise,” promises David Basin."
+    },
+    {
+      "heading": "“Artificial intelligence for Switzerland” series",
+      "text": "Artificial intelligence (AI) is having an impact on every aspect of our lives. ETH researchers are not only developing the technical, formal and ethical principles of AI but are also investigating its applicability – developments that will benefit Switzerland. Working in collaboration with EPFL, ETH Zurich has also launched the Swiss AI Initiative. This aims to position Switzerland as a leading global location in which to develop and use transparent and trustworthy AI. This series is a summary of AI-related articles for Switzerland written by ETH Zurich .\n\nOchoa, M., Toro-Pozo, J., Basin, d. SealClub: Computer-aided Paper Document Authentication. https://arxiv.org/pdf/2210.07884.pdf"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "Thenti",
+        "label": "ORG",
+        "start": 28,
+        "end": 34
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 224,
+        "end": 230
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 415,
+        "end": 420
+      },
+      {
+        "text": "the Information Security",
+        "label": "ORG",
+        "start": 178,
+        "end": 202
+      },
+      {
+        "text": "David Basin",
+        "label": "PERSON",
+        "start": 215,
+        "end": 226
+      },
+      {
+        "text": "Martín Ochoa",
+        "label": "PERSON",
+        "start": 161,
+        "end": 173
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 224,
+        "end": 229
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 457,
+        "end": 460
+      },
+      {
+        "text": "David Basin",
+        "label": "PERSON",
+        "start": 491,
+        "end": 502
+      },
+      {
+        "text": "Basin",
+        "label": "GPE",
+        "start": 569,
+        "end": 574
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 666,
+        "end": 669
+      },
+      {
+        "text": "more than 200,000",
+        "label": "CARDINAL",
+        "start": 887,
+        "end": 904
+      },
+      {
+        "text": "around USD 50 million",
+        "label": "MONEY",
+        "start": 945,
+        "end": 966
+      },
+      {
+        "text": "The City of",
+        "label": "GPE",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 12,
+        "end": 18
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 60,
+        "end": 71
+      },
+      {
+        "text": "the past five years",
+        "label": "DATE",
+        "start": 317,
+        "end": 336
+      },
+      {
+        "text": "the City of Zurich",
+        "label": "GPE",
+        "start": 473,
+        "end": 491
+      },
+      {
+        "text": "each day",
+        "label": "DATE",
+        "start": 534,
+        "end": 542
+      },
+      {
+        "text": "Alejandra Itel",
+        "label": "PERSON",
+        "start": 1012,
+        "end": 1026
+      },
+      {
+        "text": "Organisational",
+        "label": "ORG",
+        "start": 1028,
+        "end": 1042
+      },
+      {
+        "text": "Zurich City Council",
+        "label": "ORG",
+        "start": 1069,
+        "end": 1088
+      },
+      {
+        "text": "March 2024",
+        "label": "DATE",
+        "start": 1365,
+        "end": 1375
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1506,
+        "end": 1517
+      },
+      {
+        "text": "the Centre for Cyber Trust of the Werner Siemens Foundation",
+        "label": "FAC",
+        "start": 45,
+        "end": 104
+      },
+      {
+        "text": "The City of Zurich",
+        "label": "GPE",
+        "start": 106,
+        "end": 124
+      },
+      {
+        "text": "the City of Zurich",
+        "label": "GPE",
+        "start": 405,
+        "end": 423
+      },
+      {
+        "text": "Martín Ochoa",
+        "label": "PERSON",
+        "start": 467,
+        "end": 479
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 630,
+        "end": 633
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 670,
+        "end": 675
+      },
+      {
+        "text": "David Basin",
+        "label": "PERSON",
+        "start": 1032,
+        "end": 1043
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 79,
+        "end": 82
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 167,
+        "end": 169
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 248,
+        "end": 259
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 297,
+        "end": 307
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 330,
+        "end": 335
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 373,
+        "end": 384
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 470,
+        "end": 472
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 502,
+        "end": 504
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 526,
+        "end": 537
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 549,
+        "end": 559
+      },
+      {
+        "text": "Ochoa",
+        "label": "PERSON",
+        "start": 562,
+        "end": 567
+      },
+      {
+        "text": "Toro-Pozo",
+        "label": "ORG",
+        "start": 573,
+        "end": 582
+      },
+      {
+        "text": "Basin",
+        "label": "GPE",
+        "start": 588,
+        "end": 593
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alejandra Itel",
+        "David Basin",
+        "ETH Zurich",
+        "Martín Ochoa",
+        "Ochoa"
+      ],
+      "ORG": [
+        "ETH",
+        "Organisational",
+        "Thenti",
+        "Toro-Pozo",
+        "Zurich City Council",
+        "the Information Security"
+      ],
+      "LOCATION": [
+        "AI",
+        "Basin",
+        "Switzerland",
+        "The City of",
+        "The City of Zurich",
+        "Zurich",
+        "the Centre for Cyber Trust of the Werner Siemens Foundation",
+        "the City of Zurich"
+      ],
+      "DATE": [
+        "March 2024",
+        "Today",
+        "each day",
+        "the past five years"
+      ],
+      "MISC": [
+        "Swiss",
+        "around USD 50 million",
+        "more than 200,000",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 5,
+      "ETH": 3,
+      "David Basin": 3,
+      "AI": 3,
+      "Zurich": 2,
+      "three": 2,
+      "Martín Ochoa": 2,
+      "Basin": 2,
+      "two": 2,
+      "the City of Zurich": 2,
+      "ETH Zurich": 2,
+      "Thenti": 1,
+      "the Information Security": 1,
+      "Today": 1,
+      "more than 200,000": 1,
+      "around USD 50 million": 1,
+      "The City of": 1,
+      "the past five years": 1,
+      "each day": 1,
+      "Alejandra Itel": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-app-unmasks-forged-documents.md",
+      "title": "En News Events/2024/03/new App Unmasks Forged Documents",
+      "language": "en",
+      "source_path": "en_news_events/2024/03/new-app-unmasks-forged-documents.html"
+    },
+    "temporal": {
+      "publication_date": "2024-03",
+      "mentioned_years": [
+        "2015",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alejandra Itel",
+        "David Basin",
+        "ETH Zurich",
+        "Martín Ochoa",
+        "Ochoa"
+      ],
+      "people_with_roles": {
+        "David Basin": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Swiss",
+        "around USD 50 million",
+        "more than 200,000",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Swiss AI",
+        "Information Security",
+        "En News",
+        "Paper Document",
+        "Forged Documents",
+        "Alejandra Itel",
+        "Zurich City",
+        "The City",
+        "IT Project",
+        "App Unmasks",
+        "Cyber Trust",
+        "Werner Siemens",
+        "David Basin",
+        "Toro-Pozo",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Organisational",
+        "Thenti",
+        "Toro-Pozo",
+        "Zurich City Council",
+        "the Information Security"
+      ],
+      "locations": [
+        "AI",
+        "Basin",
+        "Switzerland",
+        "The City of",
+        "The City of Zurich",
+        "Zurich",
+        "the Centre for Cyber Trust of the Werner Siemens Foundation",
+        "the City of Zurich"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "ETH",
+        "David Basin",
+        "AI",
+        "Zurich",
+        "three",
+        "Martín Ochoa",
+        "Basin",
+        "two",
+        "the City of Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "In brief",
+          "Digital authentication for the real world",
+          "Digital authentication for the real world",
+          "Pilot project in Zurich aims to protect extracts from the debt enforcement register.",
+          "Three-dimensional objects can also be checked",
+          "“Artificial intelligence for Switzerland” series"
+        ],
+        "content_length": 6075
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "ETH",
+        "Martín Ochoa",
+        "2015",
+        "Organisational",
+        "Ochoa",
+        "the Information Security",
+        "Thenti",
+        "EU",
+        "Alejandra Itel",
+        "David Basin",
+        "Toro-Pozo",
+        "ETH Zurich",
+        "Zurich City Council"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "who",
+        "Swiss",
+        "where",
+        "what",
+        "more than 200,000",
+        "why",
+        "when",
+        "around USD 50 million"
+      ],
+      "graph_relations": [
+        "David Basin_has_role_researcher",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

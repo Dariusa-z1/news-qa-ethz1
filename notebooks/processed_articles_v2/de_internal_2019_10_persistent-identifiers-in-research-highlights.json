@@ -1,0 +1,176 @@
+{
+  "filename": "de_internal_2019_10_persistent-identifiers-in-research-highlights.md",
+  "original_filename": "de_internal_2019_10_persistent-identifiers-in-research-highlights.html",
+  "source_path": "de_internal/2019/10/persistent-identifiers-in-research-highlights.html",
+  "date": "2019-10",
+  "title": "Persistent Identifiers In Research Highlights",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Seit der Veranstaltung « Persistent Identifiers in Research – Celebrating 10 Years of DOI Desk at ETH Zurich » am 13. September ist bereits etwas Zeit vergangen. Experten aus unterschiedlichen Fachrichtungen referierten über verschiedene Aspekte von persistenten Identifikatoren: von derzeitigen Anwendungen und Entwicklungen bis hin zu künftigen Initiativen.\n\nDie Vortragsfolien der Veranstaltung sind über die ETH Research Collection verfügbar:\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/10/persistent",
+        "label": "LOC",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "Research",
+        "label": "LOC",
+        "start": 46,
+        "end": 54
+      },
+      {
+        "text": "Research",
+        "label": "LOC",
+        "start": 51,
+        "end": 59
+      },
+      {
+        "text": "Celebrating 10 Years of DOI Desk at ETH Zurich",
+        "label": "MISC",
+        "start": 62,
+        "end": 108
+      },
+      {
+        "text": "ETH Research Collection",
+        "label": "ORG",
+        "start": 411,
+        "end": 434
+      },
+      {
+        "text": "GewusstWie",
+        "label": "MISC",
+        "start": 446,
+        "end": 456
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 495,
+        "end": 509
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Research Collection"
+      ],
+      "LOCATION": [
+        "De Internal/2019/10/persistent",
+        "Research"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Celebrating 10 Years of DOI Desk at ETH Zurich",
+        "ETH-Bibliothek",
+        "GewusstWie"
+      ]
+    },
+    "entity_counts": {
+      "Research": 2,
+      "De Internal/2019/10/persistent": 1,
+      "Celebrating 10 Years of DOI Desk at ETH Zurich": 1,
+      "ETH Research Collection": 1,
+      "GewusstWie": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_10_persistent-identifiers-in-research-highlights.md",
+      "title": "De Internal/2019/10/persistent Identifiers in Research Highlights",
+      "language": "de",
+      "source_path": "de_internal/2019/10/persistent-identifiers-in-research-highlights.html"
+    },
+    "temporal": {
+      "publication_date": "2019-10",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Celebrating 10 Years of DOI Desk at ETH Zurich",
+        "ETH-Bibliothek",
+        "GewusstWie"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Die Infrastruktur",
+        "De Internal",
+        "Persistent Identifiers",
+        "ETH Research",
+        "DOI Desk",
+        "Die Vortragsfolien",
+        "ETH Zurich",
+        "Ihrem Ziel",
+        "Research Highlights"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Research Collection"
+      ],
+      "locations": [
+        "De Internal/2019/10/persistent",
+        "Research"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Research",
+        "De Internal/2019/10/persistent",
+        "Celebrating 10 Years of DOI Desk at ETH Zurich",
+        "ETH Research Collection",
+        "GewusstWie",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 604
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Research Collection",
+        "2019"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "Celebrating 10 Years of DOI Desk at ETH Zurich",
+        "what",
+        "GewusstWie",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

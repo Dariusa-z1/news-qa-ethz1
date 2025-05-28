@@ -1,0 +1,70 @@
+# talent-and-team-spirit-at-the-heart-of-artificial-intelligence.html
+
+**Source:** en_news_events/2021/10/talent-and-team-spirit-at-the-heart-of-artificial-intelligence.html
+
+## More than 100 researchers at the ETH AI Center
+
+- Benjamin Dillenburger (D-ARCH)
+
+- Ueli Angst (D-BAUG)
+
+- Sai Reddy (D-BSSE)
+
+- Jean-Christophe Leroux (D-CHAB)
+
+- Elliott Ash (D-GESS)
+
+- Ralph Müller (D-HEST)
+
+- Markus Gross (D-INFK)
+
+- Luc Van Gool (D-ITET)
+
+- Patrick Cheridito (D-MATH)
+
+- André R. Studart (D-MATL)
+
+- Roland Siegwart (D-MAVT)
+
+- Elgar Fleisch (D-MTEC)
+
+- Günther Dissertori (D-PHYS)
+
+- Thomas W. Crowther (D-​USYS)
+
+Artificial intelligence (AI) will transform the way people and computers share their work. In the case of very large, complex or heterogeneous datasets, machine learning techniques help to facilitate solutions to previously unsolvable challenges. This transformation opens up huge potential in research, development and start-ups. In principle, AI methods can be applied to all research disciplines and sectors.
+
+Interest was thus correspondingly high when the ETH AI Center and ETH Entrepreneur Club invited participants to a full-day double event (with Covid certificates required from attendees) at StageOne event hall in Oerlikon on 15 October. Both the AI+X Summit and Launch by ETH Entrepreneur Club focused on discussion and networking among basic researchers, specialists and start-up founders. Illustrating the versatility of AI, the ETH research projects ranged from control of swimming robots and road traffic to applications for sustainable nutrition and monitoring of COVID-19. In the process, they also raised some ethical questions we need to ask ourselves as a society. What, for example, will it take to make us trust AI in areas such as medicine? And how can we separate fact from fiction in the virtual domain?
+
+## More than 100 researchers at the ETH AI Center
+
+A systematic and creative use of this diversity, which often arises at the interface between the disciplines, is a declared goal of the ETH AI Center, as its chair Andreas Krause explained in the summer (see ETH News, 1 July 2021 ). New interdisciplinary connections point the way to innovative and useful AI systems that are reliable, trustworthy and widely accessible, and which do not exclude anyone unfairly.
+
+For exactly a year now, the ETH AI Center has fostered interdisciplinary exchange and facilitated networking among AI researchers at ETH and more widely (see ETH press release, 20 October 2020 ). With 29 professorships participating at the start, the research centre now comprises 102 professors – almost a fifth of all ETH professorships – as of last week. The 100 th member of the ETH AI Center is Judit Szulágyi, Professor of Computational Astrophysics.
+
+“AI will have an impact on every sector and aspect of our lives. This is why we want to bring science, industry and start-ups together to actively shape our future,” says Alex Ilic, managing director of the ETH AI Center. Together with the ETH Foresight Hub, the ETH AI Center organised the AI+X event series last year, which culminated in the AI+X Summit on Friday. More than 900 representatives from industry and research discussed the possibilities of AI application in areas such as climate change, industrial production and retail trade, data protection and privacy, automation of legal activities, and engineering, construction, architecture and art.
+
+## Supporting talent and involving artists
+
+The conclusion of one of the AI+X workshops was that from an entrepreneurial perspective, talent and leadership are the key factors in determining a successful development of the AI sector in Zurich and Switzerland. These factors could make all the difference once other success factors, such as access to data and availability of the latest technology, are in place.
+
+In the area of talent development, the ETH AI Center awards special fellowships on an annual basis to doctoral candidates and postdoc researchers in order to promote interdisciplinary AI research. All fellows participate in two research groups with a view to building bridges between disciplines and departments in a targeted approach. The first 25 fellows – 17 doctoral students and eight postdoc researchers – started work this year, and the application process for 2022 has just begun.
+
+## New prize to promote entrepreneurship at ETH Zurich
+
+Artist Nora Al-Badri and curator Adrian Notz have also started work at the centre. Supported by a foundation, they will investigate how art engages with AI. Existing AI applications in the arts and sciences show that AI-generated art or art that interacts with AI can broaden perspectives to an extent that it provokes new questions and addresses people who otherwise have no access to AI. Examples include the art video Learning To See: True Colors (see above) and the work of the Robotics Aesthetics & Usability Center (RAUC), which combines robotics with fine arts at ETH.
+
+## The team makes all the difference
+
+In the evening, the focus was on company founders, marking the tenth anniversary of ETH Entrepreneur Club in which entrepreneurial students come together to support each other in establishing their own companies. Experienced founders commented that talented individuals, diverse interdisciplinary teams and hands-on experience are essential to successful start-ups. Viviana Gropengiesser, head of the entrepreneurship programme at the ETH AI Center, has made entrepreneurial training the Center's permanent feature through initiatives such as Talent Kick.
+
+AI-related entrepreneurial training forms part of a broad range of training and support for innovative talent that ETH and the ETH Foundation have systematically expanded in recent years, such as the Student Project House , the Innovation & Entrepreneurship Lab , the Pioneer Fellowships and the Spin-​off Support from ETH transfer .
+
+“Professors who encourage talented people to take the leap into the market play an important role for start-ups and for innovation in general in Switzerland,” says Ilic. ETH Entrepreneur Club and the ETH AI Center have launched the Dandelion Entrepreneurship Award for ETH professors to honour this commitment. In similar way to the Golden Owl , the student award for excellent teaching, the departmental nominations are made by students, doctoral candidates and postdoc researchers.
+
+The special prize for promotion of interdisciplinary cooperation and entrepreneurship went to Inge Hermann, Professor of Nanoparticular Systems (D-MAVT/Empa).
+
+The Dandelion Entrepreneurship Award for ETH professors is an annual award launched by ETH Entrepreneur Club and the ETH AI Center that recognises professors in each department at ETH Zurich who promote and facilitate the career path to entrepreneurship for students and researchers. The first winners are:
+
+The ETH AI Center awards its own fellowships in order to support interdisciplinary AI research. These special scholarships include funding for full-time doctoral and postdoc positions. The application process for fellowships in 2022 is currently underway.
+

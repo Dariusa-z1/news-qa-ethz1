@@ -1,0 +1,286 @@
+{
+  "filename": "ernst-hafen-midata.md",
+  "original_filename": "ernst-hafen-midata.html",
+  "source_path": "en_news_events/2018/04/ernst-hafen-midata.html",
+  "date": "2018-04",
+  "title": "Ernst Hafen Midata",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "MIDATA is leading the way",
+      "text": "As digitalisation continues to progress, personal data is becoming a precious resource. The consolidation of this data and the analysis of data pools promise to open up new opportunities for medical research. Smartphones and sensors (e.g. measuring blood sugar or blood pressure), for instance, can provide real-life data for preventative health, therapy and research.\n\nIt is important that this data consolidation is done by citizens themselves. Only they can combine so many relevant datasets, and it is precisely this combination that increases the value of a data pool. Neither a physician nor Google or Facebook will ever be able to achieve such an extensive aggregation of health, environmental, nutritional and medical data than the actual data subjects themselves, namely each individual.\n\nMoreover, it is time for people to take back control of their personal data. As the recent scandal involving Facebook and Cambridge Analytica has shown, we have become dependent on the providers of supposedly free services, for which we pay with our data. We have largely relinquished control of our data.\n\nThere is a way out of this digital dependency, however, since data can be copied. The EU General Data Protection Regulation will go into effect next month. Its article on data portability stipulates that every company must provide individuals with a digital copy of their personal data, giving people a power they did not have before. Everyone will be able to decide independently whether and with whom they share data and how it may be used."
+    },
+    {
+      "heading": "MIDATA is leading the way",
+      "text": "Together with other scientists, three years ago I founded the non-profit cooperative MIDATA. It operates a data platform, serves as a trustee for data collection and guarantees people’s sovereignty over the use of their data (including in anonymised form).\n\nPeople can collect their health data and use various data services on the platform. They can grant research projects access to their datasets in order to actively contribute to medical research as “citizen scientists”. As cooperative members, users also contribute to the monitoring and development of the cooperative, whereby an internal ethics commission monitors the data ethics quality of the services and associated projects.\n\nMIDATA and the cooperative model show how data can be used for the common good while at the same time meeting standards for safeguarding people’s sovereignty over their personal data. The cooperative’s democratic one-member, one-vote principle is perfect for managing personal data. After all, this type of data is among the few forms of value distributed equally throughout the world. In addition, the value of data is not attached to the dataset of a single person, but rather the aggregation of many datasets. This value should not only benefit large multinational corporations, as hitherto has been the case, but above all society – something made possible by the non-profit, cooperative-based model.\n\nThe data platform used by MIDATA was developed at ETH Zurich and Bern University of Applied Sciences. The model allows the IT platform (data storage, access and consent management) to be separated from the data applications (mobile applications), thus creating an open innovation ecosystem. Start-ups, IT service providers and research groups can offer mobile apps on the platform – for example, health apps or apps for managing chronic illnesses. The IT platform is operational and is currently being used in several data science projects."
+    },
+    {
+      "heading": "Contribute to the pollen allergy mapping project",
+      "text": "Ernst Hafen Professor at the Institute for Molecular Systems Biology"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Hafen Midata",
+        "label": "PERSON",
+        "start": 29,
+        "end": 41
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 597,
+        "end": 603
+      },
+      {
+        "text": "Facebook and Cambridge Analytica",
+        "label": "WORK_OF_ART",
+        "start": 905,
+        "end": 937
+      },
+      {
+        "text": "EU General Data Protection Regulation",
+        "label": "ORG",
+        "start": 1188,
+        "end": 1225
+      },
+      {
+        "text": "next month",
+        "label": "DATE",
+        "start": 1246,
+        "end": 1256
+      },
+      {
+        "text": "three years ago",
+        "label": "DATE",
+        "start": 32,
+        "end": 47
+      },
+      {
+        "text": "MIDATA",
+        "label": "ORG",
+        "start": 85,
+        "end": 91
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 901,
+        "end": 904
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 913,
+        "end": 916
+      },
+      {
+        "text": "MIDATA",
+        "label": "ORG",
+        "start": 1419,
+        "end": 1425
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1443,
+        "end": 1453
+      },
+      {
+        "text": "Bern University of Applied Sciences",
+        "label": "ORG",
+        "start": 1458,
+        "end": 1493
+      },
+      {
+        "text": "the Institute for Molecular Systems Biology",
+        "label": "ORG",
+        "start": 25,
+        "end": 68
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hafen Midata"
+      ],
+      "ORG": [
+        "Bern University of Applied Sciences",
+        "ETH Zurich",
+        "EU General Data Protection Regulation",
+        "En News",
+        "Google",
+        "MIDATA",
+        "the Institute for Molecular Systems Biology"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "next month",
+        "three years ago"
+      ],
+      "MISC": [
+        "Facebook and Cambridge Analytica",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "MIDATA": 2,
+      "one": 2,
+      "En News": 1,
+      "Hafen Midata": 1,
+      "Google": 1,
+      "Facebook and Cambridge Analytica": 1,
+      "EU General Data Protection Regulation": 1,
+      "next month": 1,
+      "three years ago": 1,
+      "ETH Zurich": 1,
+      "Bern University of Applied Sciences": 1,
+      "the Institute for Molecular Systems Biology": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ernst-hafen-midata.md",
+      "title": "En News Events/2018/04/ernst Hafen Midata",
+      "language": "en",
+      "source_path": "en_news_events/2018/04/ernst-hafen-midata.html"
+    },
+    "temporal": {
+      "publication_date": "2018-04",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Hafen Midata"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "biology",
+        "chemistry",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Facebook and Cambridge Analytica"
+      ],
+      "grants_funding": [
+        "EU",
+        "grant"
+      ],
+      "projects": [
+        "Cambridge Analytica",
+        "Hafen Midata",
+        "Protection Regulation",
+        "Applied Sciences",
+        "En News",
+        "The IT",
+        "The EU",
+        "Ernst Hafen",
+        "Bern University",
+        "ETH Zurich",
+        "General Data",
+        "Molecular Systems"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Molecular Systems Biology"
+      ],
+      "institutions": [
+        "Bern University of Applied Sciences",
+        "ETH Zurich",
+        "EU General Data Protection Regulation",
+        "En News",
+        "Google",
+        "MIDATA",
+        "the Institute for Molecular Systems Biology"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "MIDATA",
+        "one",
+        "En News",
+        "Hafen Midata",
+        "Google",
+        "Facebook and Cambridge Analytica",
+        "EU General Data Protection Regulation",
+        "next month",
+        "three years ago",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "MIDATA is leading the way",
+          "MIDATA is leading the way",
+          "Contribute to the pollen allergy mapping project"
+        ],
+        "content_length": 3595
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Google",
+        "Hafen Midata",
+        "grant",
+        "En News",
+        "EU",
+        "EU General Data Protection Regulation",
+        "the Institute for Molecular Systems Biology",
+        "ETH Zurich",
+        "Bern University of Applied Sciences",
+        "MIDATA"
+      ],
+      "semantic_concepts": [
+        "mathematics",
+        "computer_science",
+        "Facebook and Cambridge Analytica",
+        "who",
+        "chemistry",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

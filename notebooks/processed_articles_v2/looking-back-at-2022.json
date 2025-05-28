@@ -1,0 +1,351 @@
+{
+  "filename": "looking-back-at-2022.md",
+  "original_filename": "looking-back-at-2022.html",
+  "source_path": "en_news_events/2022/12/looking-back-at-2022.html",
+  "date": "2022-12",
+  "title": "Looking Back At 2022",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "January",
+      "text": "Robot ANYmal can walk over hill and dale – thanks to its visual perception and sense of touch, made possible by artificial intelligence."
+    },
+    {
+      "heading": "February",
+      "text": "Drawing inspiration from a butterfly, ETH researchers create structural colours using a nano 3D printer ."
+    },
+    {
+      "heading": "April",
+      "text": "ETH spin-off Climeworks raises 600 million Swiss francs in a financing round, which it will use to build large CO 2 filter plants worldwide."
+    },
+    {
+      "heading": "May",
+      "text": "For the first time ever, a multidisciplinary research team successfully transplants a donor liver that had been treated in a machine for three days."
+    },
+    {
+      "heading": "June",
+      "text": "Breast cancer tumours metastasize mostly when people are asleep . This finding could greatly change future diagnoses and treatment."
+    },
+    {
+      "heading": "July",
+      "text": "With the help of satellite data , researchers at ETH Zurich develop a method to quantify the amount of carbon released from Arctic permafrost."
+    },
+    {
+      "heading": "September",
+      "text": "ETH Zurich opens a new research and teaching centre with a focus on exploring the origin and prevalence of life on Earth and beyond."
+    },
+    {
+      "heading": "October",
+      "text": "Mars has been generally considered a geologically dead planet . An international team of researchers led by ETH Zurich reports that seismic signals indicate vulcanism still plays an active role in shaping the Martian surface."
+    },
+    {
+      "heading": "December",
+      "text": "Researchers from ETH Zurich have developed a new transparent gold nanocoating that harnesses sunlight to heat the lenses of glasses, thereby preventing them from fogging in humid conditions."
+    },
+    {
+      "heading": "Most read articles",
+      "text": "The above selection is hand-picked by the editors. But which articles covering ETH research were read most often last year? Here are the top 3:\n\nThe ETH News editorial team wishes you merry christmas and a happy new year."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 38,
+        "end": 41
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Climeworks",
+        "label": "GPE",
+        "start": 13,
+        "end": 23
+      },
+      {
+        "text": "600 million Swiss francs",
+        "label": "MONEY",
+        "start": 31,
+        "end": 55
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 111,
+        "end": 115
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 8,
+        "end": 13
+      },
+      {
+        "text": "three days",
+        "label": "DATE",
+        "start": 137,
+        "end": 147
+      },
+      {
+        "text": "Breast",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 49,
+        "end": 59
+      },
+      {
+        "text": "Arctic",
+        "label": "LOC",
+        "start": 124,
+        "end": 130
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 115,
+        "end": 120
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 108,
+        "end": 118
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 209,
+        "end": 216
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 17,
+        "end": 27
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 79,
+        "end": 82
+      },
+      {
+        "text": "last year",
+        "label": "DATE",
+        "start": 113,
+        "end": 122
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 148,
+        "end": 156
+      },
+      {
+        "text": "new year",
+        "label": "DATE",
+        "start": 211,
+        "end": 219
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "Breast",
+        "CO 2",
+        "ETH",
+        "ETH News",
+        "ETH Zurich"
+      ],
+      "LOCATION": [
+        "Arctic",
+        "Climeworks",
+        "Earth",
+        "Mars"
+      ],
+      "DATE": [
+        "last year",
+        "new year",
+        "three days"
+      ],
+      "MISC": [
+        "600 million Swiss francs",
+        "Martian",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 4,
+      "ETH": 3,
+      "Climeworks": 1,
+      "600 million Swiss francs": 1,
+      "CO 2": 1,
+      "first": 1,
+      "three days": 1,
+      "Breast": 1,
+      "Arctic": 1,
+      "Earth": 1,
+      "Mars": 1,
+      "Martian": 1,
+      "last year": 1,
+      "ETH News": 1,
+      "new year": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "looking-back-at-2022.md",
+      "title": "En News Events/2022/12/looking Back At 2022",
+      "language": "en",
+      "source_path": "en_news_events/2022/12/looking-back-at-2022.html"
+    },
+    "temporal": {
+      "publication_date": "2022-12",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "600 million Swiss francs",
+        "Martian",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "En News",
+        "Back At",
+        "Robot ANYmal",
+        "ETH Zurich",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Breast",
+        "CO 2",
+        "ETH",
+        "ETH News",
+        "ETH Zurich"
+      ],
+      "locations": [
+        "Arctic",
+        "Climeworks",
+        "Earth",
+        "Mars"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "ETH",
+        "Climeworks",
+        "600 million Swiss francs",
+        "CO 2",
+        "first",
+        "three days",
+        "Breast",
+        "Arctic",
+        "Earth"
+      ],
+      "document_structure": {
+        "total_sections": 10,
+        "section_titles": [
+          "January",
+          "February",
+          "April",
+          "May",
+          "June",
+          "July",
+          "September",
+          "October",
+          "December",
+          "Most read articles"
+        ],
+        "content_length": 1623
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "ERC",
+        "2022",
+        "ETH News",
+        "ETH Zurich",
+        "Breast",
+        "CO 2"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "600 million Swiss francs",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "Martian"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

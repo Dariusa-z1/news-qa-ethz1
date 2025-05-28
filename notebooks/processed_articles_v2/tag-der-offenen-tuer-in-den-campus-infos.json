@@ -1,0 +1,260 @@
+{
+  "filename": "tag-der-offenen-tuer-in-den-campus-infos.md",
+  "original_filename": "tag-der-offenen-tuer-in-den-campus-infos.html",
+  "source_path": "de_internal/2016/03/tag-der-offenen-tuer-in-den-campus-infos.html",
+  "date": "2016-03",
+  "title": "Tag Der Offenen Tuer In Den Campus Infos",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Ob Orientierung, Ticketverkauf oder Autovermietung: Die beiden Campus Infos der ETH Zürich sind die neuen zentralen Anlaufstellen für Information und Services für Besucher und ETH-Angehörige. Im Hauptgebäude besteht die Campus Info aus dem Empfang in der Haupthalle und dem Servicebereich im D-Stock (HG D 34), auf dem Campus Hönggerberg finden sich alle Angebote im Gebäude HIL im Raum D 25.9.\n\nAm Mittwoch, 23. März, ist Tag der offenen Tür: An sechs Stationen erfahren die Besucher etwa, wie dynamisch die neuen elektronischen Postfachanlagen sind oder was es mit der historischen Gewölbedecke der Campus Info im Zentrum auf sich hat. Die Veranstaltung findet von 8 bis 16 Uhr statt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/03",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Offenen Tuer",
+        "label": "LOC",
+        "start": 28,
+        "end": 40
+      },
+      {
+        "text": "Infos",
+        "label": "LOC",
+        "start": 55,
+        "end": 60
+      },
+      {
+        "text": "Infos",
+        "label": "LOC",
+        "start": 70,
+        "end": 75
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 80,
+        "end": 90
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 176,
+        "end": 190
+      },
+      {
+        "text": "Info",
+        "label": "LOC",
+        "start": 227,
+        "end": 231
+      },
+      {
+        "text": "Haupthalle",
+        "label": "LOC",
+        "start": 255,
+        "end": 265
+      },
+      {
+        "text": "D-Stock",
+        "label": "MISC",
+        "start": 292,
+        "end": 299
+      },
+      {
+        "text": "HG D 34",
+        "label": "MISC",
+        "start": 301,
+        "end": 308
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 326,
+        "end": 337
+      },
+      {
+        "text": "HIL",
+        "label": "ORG",
+        "start": 375,
+        "end": 378
+      },
+      {
+        "text": "D 25.9.",
+        "label": "LOC",
+        "start": 387,
+        "end": 394
+      },
+      {
+        "text": "Tag der offenen Tür",
+        "label": "MISC",
+        "start": 422,
+        "end": 441
+      },
+      {
+        "text": "Campus Info",
+        "label": "LOC",
+        "start": 600,
+        "end": 611
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 615,
+        "end": 622
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "HIL",
+        "Zentrum"
+      ],
+      "LOCATION": [
+        "Campus Info",
+        "D 25.9.",
+        "De Internal/2016/03",
+        "Haupthalle",
+        "Hönggerberg",
+        "Info",
+        "Infos",
+        "Offenen Tuer"
+      ],
+      "DATE": [],
+      "MISC": [
+        "D-Stock",
+        "ETH-Angehörige",
+        "HG D 34",
+        "Tag der offenen Tür"
+      ]
+    },
+    "entity_counts": {
+      "Infos": 2,
+      "De Internal/2016/03": 1,
+      "Offenen Tuer": 1,
+      "ETH Zürich": 1,
+      "ETH-Angehörige": 1,
+      "Info": 1,
+      "Haupthalle": 1,
+      "D-Stock": 1,
+      "HG D 34": 1,
+      "Hönggerberg": 1,
+      "HIL": 1,
+      "D 25.9.": 1,
+      "Tag der offenen Tür": 1,
+      "Campus Info": 1,
+      "Zentrum": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "tag-der-offenen-tuer-in-den-campus-infos.md",
+      "title": "De Internal/2016/03/tag der Offenen Tuer in den Campus Infos",
+      "language": "de",
+      "source_path": "de_internal/2016/03/tag-der-offenen-tuer-in-den-campus-infos.html"
+    },
+    "temporal": {
+      "publication_date": "2016-03",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "D-Stock",
+        "ETH-Angehörige",
+        "HG D 34",
+        "Tag der offenen Tür"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "D-Stock",
+        "Am Mittwoch",
+        "De Internal",
+        "Die Veranstaltung",
+        "Raum D",
+        "HG D",
+        "Offenen Tuer",
+        "Campus Infos",
+        "Campus Info",
+        "Ob Orientierung"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "HIL",
+        "Zentrum"
+      ],
+      "locations": [
+        "Campus Info",
+        "D 25.9.",
+        "De Internal/2016/03",
+        "Haupthalle",
+        "Hönggerberg",
+        "Info",
+        "Infos",
+        "Offenen Tuer"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Infos",
+        "De Internal/2016/03",
+        "Offenen Tuer",
+        "ETH Zürich",
+        "ETH-Angehörige",
+        "Info",
+        "Haupthalle",
+        "D-Stock",
+        "HG D 34",
+        "Hönggerberg"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 747
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "2016",
+        "ETH Zürich",
+        "Zentrum",
+        "HIL"
+      ],
+      "semantic_concepts": [
+        "ETH-Angehörige",
+        "HG D 34",
+        "D-Stock",
+        "Tag der offenen Tür"
+      ],
+      "graph_relations": []
+    }
+  }
+}

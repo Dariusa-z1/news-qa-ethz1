@@ -1,0 +1,22 @@
+# this-bottle-makes-sparkling-water-on-the-go.html
+
+**Source:** en_news_events/2023/10/this-bottle-makes-sparkling-water-on-the-go.html
+
+## Main article
+
+Like many other people, former ETH students Christian Käser and Linus Lingg love to drink sparkling water. There are dozens of convenient and well-designed reusable bottles for transporting tap water. But when it comes to sparkling water, there are only the conventional systems for home use. Both inventors agreed that it ought to be feasible to design a portable system. They quickly found their first investors after appearing on the German version of the TV show Die Höhle der Löwen Schweiz . This is no wonder, as their product has obvious benefits: it’s sustainable, practical and fills a gap in the market. But it’s a long way from idea to market, as they explain in this interview.
+
+What makes your water bottle different from systems for making sparkling water at home? Christian Käser : Our water bottle makes sparkling water on the go at the touch of a button. There’s a CO 2 tank – the carboniser – built into the base of the bottle. One full tank makes up to ten bottles of sparkling water. When the carboniser is empty, you can simply refill it at your base station at home using the same gas cylinders available for existing carbonisation systems.
+
+How did you make this work? The carboniser had to be as small and lightweight as possible but still contain enough gas to refill the bottle several times a day. So, we chose to use liquid CO 2 to maximise the filling quantity. The base station is designed with this goal in mind. For optimum gas flow, we’ve also developed a miniature control unit.
+
+What were the biggest challenges? Most certainly large-scale production. Everything from the bottle to the carboniser to the base station had to be designed from scratch and prepared for large-scale production. At the same time, we had to consider all the regulations and safety aspects and find suitable manufacturers. To be as sustainable as possible, we’re planning to produce locally, which will also make it easier to communicate with the manufacturers.
+
+When can we buy your bottles? We’re not quite sure yet, but we’re almost ready to launch. We just need a few more certifications.
+
+Where will bottleplus be available? Initially, from our website and from Amazon. We’re also talking with Swiss retailers interested in selling our system in their shops.
+
+How have you benefited from the environment at ETH Zurich? As ETH students, we found ourselves in an ideal environment to start our project. The ETH course “Lean Startup Academy” helped us take our first steps, including validating our idea. After that, we continued at the Student Project House, where we received coaching and financial support. We also used the infrastructure there to build the first prototype. Now you can find us in the Rocket Hub of the ETH Entrepreneur Club, where we have access to a coworking space at favourable conditions and benefit from an extensive network.
+
+What are your next steps? At the moment, we’re focusing on the large-scale production of our sparkling water bottle and we hope to start selling it soon. However, we’re already thinking one step further and would like to offer people flavours for their water. Initial tests are already underway. We also have a filter system in mind in case no clean drinking water is available. To achieve all this, we’re still looking for investors to help us optimise production and develop future products.
+

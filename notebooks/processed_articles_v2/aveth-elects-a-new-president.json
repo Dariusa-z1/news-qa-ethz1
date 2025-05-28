@@ -1,0 +1,290 @@
+{
+  "filename": "aveth-elects-a-new-president.md",
+  "original_filename": "aveth-elects-a-new-president.html",
+  "source_path": "en_internal/2016/03/aveth-elects-a-new-president.html",
+  "date": "2016-03",
+  "title": "Aveth Elects A New President",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Arik Jung is the new president of the Academic Association of Scientific Staff at ETH Zurich (AVETH). AVETH members convened on the evening of Wednesday, 2 March 2016, at Hönggerberg, where they voted on the successor to Florian Thöle.\n\nArik Jung is a doctoral student in the Laboratory for Solid State Physics (D-PHYS) and is the former treasurer of AVETH. In front of AVETH members, he expressed his intention to continue the good work done in recent years and maintain the excellent relationship with specialist associations and other university groups. He also commented that AVETH can make ETH an even better workplace.\n\nHis predecessor, Florian Thöle, was thanked for his hard work and dedication. He will now focus on his doctoral thesis in the Department of Materials (D-MATL).\n\nAVETH members also elected the following board positions:\n\nAVETH members also noted, inter alia, that the scientific staff association"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Arik Jung",
+        "label": "PERSON",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "the Academic Association of Scientific Staff",
+        "label": "ORG",
+        "start": 34,
+        "end": 78
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 82,
+        "end": 92
+      },
+      {
+        "text": "the evening",
+        "label": "TIME",
+        "start": 128,
+        "end": 139
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE",
+        "start": 143,
+        "end": 152
+      },
+      {
+        "text": "2 March 2016",
+        "label": "DATE",
+        "start": 154,
+        "end": 166
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 171,
+        "end": 182
+      },
+      {
+        "text": "Florian",
+        "label": "NORP",
+        "start": 221,
+        "end": 228
+      },
+      {
+        "text": "Arik Jung",
+        "label": "PERSON",
+        "start": 236,
+        "end": 245
+      },
+      {
+        "text": "the Laboratory for Solid State Physics",
+        "label": "ORG",
+        "start": 271,
+        "end": 309
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 445,
+        "end": 457
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 594,
+        "end": 597
+      },
+      {
+        "text": "Florian Thöle",
+        "label": "PERSON",
+        "start": 641,
+        "end": 654
+      },
+      {
+        "text": "the Department of Materials",
+        "label": "ORG",
+        "start": 746,
+        "end": 773
+      },
+      {
+        "text": "AVETH",
+        "label": "PERSON",
+        "start": 784,
+        "end": 789
+      },
+      {
+        "text": "inter alia",
+        "label": "ORG",
+        "start": 868,
+        "end": 878
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "AVETH",
+        "Arik Jung",
+        "Florian Thöle"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "inter alia",
+        "the Academic Association of Scientific Staff",
+        "the Department of Materials",
+        "the Laboratory for Solid State Physics"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "2 March 2016",
+        "Wednesday",
+        "recent years",
+        "the evening"
+      ],
+      "MISC": [
+        "Florian"
+      ]
+    },
+    "entity_counts": {
+      "Arik Jung": 2,
+      "the Academic Association of Scientific Staff": 1,
+      "ETH Zurich": 1,
+      "the evening": 1,
+      "Wednesday": 1,
+      "2 March 2016": 1,
+      "Hönggerberg": 1,
+      "Florian": 1,
+      "the Laboratory for Solid State Physics": 1,
+      "recent years": 1,
+      "ETH": 1,
+      "Florian Thöle": 1,
+      "the Department of Materials": 1,
+      "AVETH": 1,
+      "inter alia": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "aveth-elects-a-new-president.md",
+      "title": "En Internal/2016/03/aveth Elects A New President",
+      "language": "en",
+      "source_path": "en_internal/2016/03/aveth-elects-a-new-president.html"
+    },
+    "temporal": {
+      "publication_date": "2016-03",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "AVETH",
+        "Arik Jung",
+        "Florian Thöle"
+      ],
+      "people_with_roles": {
+        "AVETH": [
+          "president",
+          "student"
+        ],
+        "Arik Jung": [
+          "president",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Florian"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Arik Jung",
+        "D-PHYS",
+        "Academic Association",
+        "D-MATL",
+        "Solid State",
+        "New President",
+        "En Internal",
+        "ETH Zurich",
+        "Elects A",
+        "Scientific Staff"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Materials "
+      ],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "inter alia",
+        "the Academic Association of Scientific Staff",
+        "the Department of Materials",
+        "the Laboratory for Solid State Physics"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Arik Jung",
+        "the Academic Association of Scientific Staff",
+        "ETH Zurich",
+        "the evening",
+        "Wednesday",
+        "2 March 2016",
+        "Hönggerberg",
+        "Florian",
+        "the Laboratory for Solid State Physics",
+        "recent years"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 970
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Florian Thöle",
+        "ETH",
+        "the Department of Materials",
+        "Arik Jung",
+        "the Academic Association of Scientific Staff",
+        "the Laboratory for Solid State Physics",
+        "2016",
+        "inter alia",
+        "ETH Zurich",
+        "AVETH"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Florian",
+        "engineering",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "AVETH_has_role_president",
+        "AVETH_has_role_student",
+        "Arik Jung_has_role_president",
+        "Arik Jung_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

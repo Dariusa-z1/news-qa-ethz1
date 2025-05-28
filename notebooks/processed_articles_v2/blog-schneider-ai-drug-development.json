@@ -1,0 +1,401 @@
+{
+  "filename": "blog-schneider-ai-drug-development.md",
+  "original_filename": "blog-schneider-ai-drug-development.html",
+  "source_path": "en_news_events/2019/03/blog-schneider-ai-drug-development.html",
+  "date": "2019-03",
+  "title": "Blog Schneider Ai Drug Development",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The perfect partner?",
+      "text": "(Photograph: ETH Zurich)\n\nDesigning drugs is a complex and challenging task. How do you create effective new medicines without adverse side effects to address the world’s most pressing health issues? Medical chemists have to consider an array of interactions: drugs interact with cells and organs in the human body in many ways, and these often differ widely from one patient to another. While iterative, often automated, testing methods in the lab have yielded numerous potential starting points for drug development, there are limitations when it comes to designing and selecting the most promising drug candidates. The drug designer must choose from an estimated 10 60 druglike molecules that could – only theoretically – be synthesized. What’s more, it takes years of on-the-job-training to become a knowledgeable expert in medicinal chemistry."
+    },
+    {
+      "heading": "Automating discovery",
+      "text": "This is where artificial intelligence (AI) and machine learning could come in. Deploying AI to assist chemists in the drug design process holds promise for making better decisions: It is much more efficient than the human mind when it comes to sieving through “big” data, AI generates reproducible results and supports the discovery process by considering many project targets in parallel."
+    },
+    {
+      "heading": "The perfect partner?",
+      "text": "Better drugs, discovered and delivered faster – AI sounds like an ideal partner in the lab. But while a chemistry-savvy AI system might outperform a human chemist in some respects by processing problems the human mind struggles with, it’s no silver bullet. In fact our expectations regarding AI-assisted drug design may be too high: we have to concede our imperfect understanding of human disease mechanisms. Only when presented with appropriate data will a machine intelligence learn meaningful relationships between drug molecules and their physiological effects."
+    },
+    {
+      "heading": "References",
+      "text": "This is why our scientists need not fear that computers will replace them altogether – in fact more medicinal chemists will be needed if we’re to continue making advances in this field. Already, AI models support our decision-making in drug discovery, but integrating AI into an automated drug design process will require new thinking: it will change the setting, just as the software and technology of recent years has done in predicting properties to a high degree of accuracy much faster than in a lab without automation."
+    },
+    {
+      "heading": "Automating discovery",
+      "text": "With ongoing automation, we can foresee computers conducting experiments productively and autonomously with the help of robotics in three to five years’ time. This is indeed already being tested in certain places, particularly at ETH Zurich and in industry. We can also expect AI to predict the effects of substances at an earlier stage of development and suggest new chemical structures with the desired properties. This would mean that fewer substances that turn out not to be effective would need to be tested.\n\nIn the long run, AI may hold the key to unlocking the door to more effective and more accessible personalised medicine. But it will take continuing research and investment in this field, and fresh interdisciplinary thinking from experts in the AI, chemistry, pharmaceuticals and biotech domain.\n\nRETHINK is a new ETH Zurich interdisciplinary think tank addressing how artificial intelligence can be deployed in design processes. Design-related issues occur in many areas of modern science, from robotics and biology to chemical engineering and healthcare. At RETHINK, experts from science and industry have joined forces to investigate the impact of AI on science and scientific processes, and how it can contribute to science and society.\n\nYou can find more about this at rethink.ethz.ch\n\nSchneider G: Mind and machine in drug design, Nature Machine Intelligence 2019, 1: 128-130. doi: 10.1038/s42256-019-0030-7\n\nSchneider G: Automating drug discovery, Nature Reviews Drug Discovery 2018, 17: 97-113. doi: 10.1038/nrd.2017.232\n\nGisbert Schneider Professor of Computer-Assisted Drug Design at ETH Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Schneider Ai Drug Development",
+        "label": "ORG",
+        "start": 28,
+        "end": 57
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 13,
+        "end": 23
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 363,
+        "end": 366
+      },
+      {
+        "text": "an estimated 10",
+        "label": "CARDINAL",
+        "start": 652,
+        "end": 667
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 762,
+        "end": 767
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 272,
+        "end": 274
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 120,
+        "end": 122
+      },
+      {
+        "text": "AI",
+        "label": "ORG",
+        "start": 195,
+        "end": 197
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 268,
+        "end": 270
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 403,
+        "end": 415
+      },
+      {
+        "text": "three to five years",
+        "label": "DATE",
+        "start": 132,
+        "end": 151
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 230,
+        "end": 240
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 277,
+        "end": 279
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 531,
+        "end": 533
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 758,
+        "end": 760
+      },
+      {
+        "text": "RETHINK",
+        "label": "ORG",
+        "start": 809,
+        "end": 816
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 826,
+        "end": 836
+      },
+      {
+        "text": "RETHINK",
+        "label": "ORG",
+        "start": 1072,
+        "end": 1079
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 1163,
+        "end": 1165
+      },
+      {
+        "text": "Schneider G",
+        "label": "PERSON",
+        "start": 1301,
+        "end": 1312
+      },
+      {
+        "text": "Nature Machine Intelligence",
+        "label": "ORG",
+        "start": 1347,
+        "end": 1374
+      },
+      {
+        "text": "128-130",
+        "label": "CARDINAL",
+        "start": 1384,
+        "end": 1391
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1398,
+        "end": 1405
+      },
+      {
+        "text": "Nature Reviews Drug Discovery 2018",
+        "label": "ORG",
+        "start": 1464,
+        "end": 1498
+      },
+      {
+        "text": "10.1038/nrd.2017.232",
+        "label": "CARDINAL",
+        "start": 1517,
+        "end": 1537
+      },
+      {
+        "text": "Computer-Assisted Drug Design",
+        "label": "ORG",
+        "start": 1569,
+        "end": 1598
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 1602,
+        "end": 1612
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Schneider G"
+      ],
+      "ORG": [
+        "AI",
+        "Computer-Assisted Drug Design",
+        "ETH Zurich",
+        "Nature Machine Intelligence",
+        "Nature Reviews Drug Discovery 2018",
+        "RETHINK",
+        "Schneider Ai Drug Development"
+      ],
+      "LOCATION": [
+        "AI",
+        "ETH Zurich"
+      ],
+      "DATE": [
+        "recent years",
+        "three to five years",
+        "years"
+      ],
+      "MISC": [
+        "10.1038",
+        "10.1038/nrd.2017.232",
+        "128-130",
+        "an estimated 10",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "AI": 8,
+      "ETH Zurich": 4,
+      "RETHINK": 2,
+      "Schneider Ai Drug Development": 1,
+      "one": 1,
+      "an estimated 10": 1,
+      "years": 1,
+      "recent years": 1,
+      "three to five years": 1,
+      "Schneider G": 1,
+      "Nature Machine Intelligence": 1,
+      "128-130": 1,
+      "10.1038": 1,
+      "Nature Reviews Drug Discovery 2018": 1,
+      "10.1038/nrd.2017.232": 1,
+      "Computer-Assisted Drug Design": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "blog-schneider-ai-drug-development.md",
+      "title": "En News Events/2019/03/blog Schneider Ai Drug Development",
+      "language": "en",
+      "source_path": "en_news_events/2019/03/blog-schneider-ai-drug-development.html"
+    },
+    "temporal": {
+      "publication_date": "2019-03",
+      "mentioned_years": [
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Schneider G"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "chemistry",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10.1038",
+        "10.1038/nrd.2017.232",
+        "128-130",
+        "an estimated 10"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Computer-Assisted",
+        "Nature Reviews",
+        "Schneider G",
+        "En News",
+        "Drug Discovery",
+        "At RETHINK",
+        "Drug Design",
+        "Deploying AI",
+        "Nature Machine",
+        "Drug Development",
+        "ETH Zurich",
+        "Gisbert Schneider",
+        "Schneider Ai"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AI",
+        "Computer-Assisted Drug Design",
+        "ETH Zurich",
+        "Nature Machine Intelligence",
+        "Nature Reviews Drug Discovery 2018",
+        "RETHINK",
+        "Schneider Ai Drug Development"
+      ],
+      "locations": [
+        "AI",
+        "ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "AI",
+        "ETH Zurich",
+        "RETHINK",
+        "Schneider Ai Drug Development",
+        "one",
+        "an estimated 10",
+        "years",
+        "recent years",
+        "three to five years",
+        "Schneider G"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "The perfect partner?",
+          "Automating discovery",
+          "The perfect partner?",
+          "References",
+          "Automating discovery"
+        ],
+        "content_length": 4006
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Nature Reviews Drug Discovery 2018",
+        "Computer-Assisted Drug Design",
+        "Schneider G",
+        "2017",
+        "2019",
+        "Nature Machine Intelligence",
+        "EU",
+        "RETHINK",
+        "AI",
+        "ETH Zurich",
+        "Schneider Ai Drug Development"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "computer_science",
+        "who",
+        "an estimated 10",
+        "10.1038",
+        "10.1038/nrd.2017.232",
+        "chemistry",
+        "128-130",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_chemistry",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

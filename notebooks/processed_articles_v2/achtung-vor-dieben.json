@@ -1,0 +1,273 @@
+{
+  "filename": "achtung-vor-dieben.md",
+  "original_filename": "achtung-vor-dieben.html",
+  "source_path": "de_internal/2016/04/achtung-vor-dieben.html",
+  "date": "2016-04",
+  "title": "Achtung Vor Dieben",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "SGU-Jahresbericht 2015 erschienen",
+      "text": "2015 wurden an der ETH Zürich 69 Diebstähle von Eigentum der ETH und Privateigentum verzeichnet. Aus diesem Anlass ruft die Abteilung Sicherheit, Gesundheit und Umwelt (SGU) in Erinnerung, wie wichtig es ist, Wertgegenstände vor dem Zugriff Dritter zu schützen, ein Portemonnaie nicht offen auf dem Bürotisch oder dem Mensa-Tablett liegen zu lassen. Auch verschlossene Türen und Fenster erschweren Dieben ihr Handwerk. Ein Diebstahl verursacht immer Aufwand, der sich in manchem Fall durch Prävention vermeiden lässt.\n\nSollten ETH-Angehörige trotz aller Vorsichtsmassnahmen Opfer eines Diebstahls werden, sollen sie ein Delikt so rasch wie möglich der Abteilung SGU melden . Damit können rechtzeitig entsprechende Massnahmen in die Wege geleitet werden – zum Beispiel, wenn sich Diebstähle innerhalb eines Gebäudebereichs häufen.\n\nSehr gerne ist SGU auch bereit, Sensibilisierungen und Sicherheitsbeurteilungen für ETH-Angehörige vor Ort durchzuführen."
+    },
+    {
+      "heading": "SGU-Jahresbericht 2015 erschienen",
+      "text": "Der Jahresbericht 2015 der Abteilung Gesundheit, Sicherheit und Umwelt ist erschienen und online zum Herunterladen bereitgestellt (Link). Er informiert über die Schwerpunkte der Abteilung und die wichtigsten Entwicklungen in den Themenbereichen Aus- und Weiterbildung, Chemie-Erstintervention, Arbeits-, Biosicherheit und Sonderabfallentsorgung (CABS), Gebäudeschadstoffe, Risikomanagement und Kommissionen, Brand- und Explosionsschutz, Security, Ausbildung Labortierkunde und SGU-Projekte sowie Alarmorganisation (Alarmzentrale und Sicherheitsdienst)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/04/achtung",
+        "label": "LOC",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "Dieben",
+        "label": "LOC",
+        "start": 32,
+        "end": 38
+      },
+      {
+        "text": "ETH Zürich 69 Diebstähle",
+        "label": "ORG",
+        "start": 19,
+        "end": 43
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 61,
+        "end": 64
+      },
+      {
+        "text": "SGU",
+        "label": "ORG",
+        "start": 169,
+        "end": 172
+      },
+      {
+        "text": "Bürotisch",
+        "label": "LOC",
+        "start": 299,
+        "end": 308
+      },
+      {
+        "text": "Mensa-Tablett",
+        "label": "LOC",
+        "start": 318,
+        "end": 331
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 526,
+        "end": 540
+      },
+      {
+        "text": "SGU",
+        "label": "ORG",
+        "start": 661,
+        "end": 664
+      },
+      {
+        "text": "Diebstähle",
+        "label": "LOC",
+        "start": 778,
+        "end": 788
+      },
+      {
+        "text": "SGU",
+        "label": "ORG",
+        "start": 844,
+        "end": 847
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 913,
+        "end": 927
+      },
+      {
+        "text": "Link",
+        "label": "PER",
+        "start": 131,
+        "end": 135
+      },
+      {
+        "text": "Chemie-Erstintervention",
+        "label": "MISC",
+        "start": 269,
+        "end": 292
+      },
+      {
+        "text": "CABS",
+        "label": "MISC",
+        "start": 346,
+        "end": 350
+      },
+      {
+        "text": "Sicherheitsdienst",
+        "label": "LOC",
+        "start": 533,
+        "end": 550
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Link"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich 69 Diebstähle",
+        "SGU"
+      ],
+      "LOCATION": [
+        "Bürotisch",
+        "De Internal/2016/04/achtung",
+        "Dieben",
+        "Diebstähle",
+        "Mensa-Tablett",
+        "Sicherheitsdienst"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CABS",
+        "Chemie-Erstintervention",
+        "ETH-Angehörige"
+      ]
+    },
+    "entity_counts": {
+      "SGU": 3,
+      "ETH-Angehörige": 2,
+      "De Internal/2016/04/achtung": 1,
+      "Dieben": 1,
+      "ETH Zürich 69 Diebstähle": 1,
+      "ETH": 1,
+      "Bürotisch": 1,
+      "Mensa-Tablett": 1,
+      "Diebstähle": 1,
+      "Link": 1,
+      "Chemie-Erstintervention": 1,
+      "CABS": 1,
+      "Sicherheitsdienst": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "achtung-vor-dieben.md",
+      "title": "De Internal/2016/04/achtung Vor Dieben",
+      "language": "de",
+      "source_path": "de_internal/2016/04/achtung-vor-dieben.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Link"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "CABS",
+        "Chemie-Erstintervention",
+        "ETH-Angehörige"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Abteilung SGU",
+        "Ein Diebstahl",
+        "Ausbildung Labortierkunde",
+        "Abteilung Sicherheit",
+        "Vor Dieben",
+        "Mensa-Tablett",
+        "Zugriff Dritter",
+        "De Internal",
+        "Vorsichtsmassnahmen Opfer",
+        "Chemie-Erstintervention",
+        "Abteilung Gesundheit",
+        "Der Jahresbericht",
+        "Themenbereichen Aus",
+        "SGU-Projekte",
+        "Sollten ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich 69 Diebstähle",
+        "SGU"
+      ],
+      "locations": [
+        "Bürotisch",
+        "De Internal/2016/04/achtung",
+        "Dieben",
+        "Diebstähle",
+        "Mensa-Tablett",
+        "Sicherheitsdienst"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "SGU",
+        "ETH-Angehörige",
+        "De Internal/2016/04/achtung",
+        "Dieben",
+        "ETH Zürich 69 Diebstähle",
+        "ETH",
+        "Bürotisch",
+        "Mensa-Tablett",
+        "Diebstähle",
+        "Link"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "SGU-Jahresbericht 2015 erschienen",
+          "SGU-Jahresbericht 2015 erschienen"
+        ],
+        "content_length": 1544
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2015",
+        "EU",
+        "2016",
+        "Link",
+        "SGU",
+        "ETH Zürich 69 Diebstähle"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Chemie-Erstintervention",
+        "ETH-Angehörige",
+        "CABS"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

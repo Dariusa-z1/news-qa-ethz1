@@ -1,0 +1,533 @@
+{
+  "filename": "making-cryptocurrency-payments-fast-and-secure.md",
+  "original_filename": "making-cryptocurrency-payments-fast-and-secure.html",
+  "source_path": "en_news_events/2020/04/making-cryptocurrency-payments-fast-and-secure.html",
+  "date": "2020-04",
+  "title": "Making Cryptocurrency Payments Fast And Secure",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The nature of blockchain",
+      "text": "Cryptocurrencies such as Bitcoin, Ethereum or Ripple used to be nothing more than an experimental platform for critics of the system, but this has long ceased to be the case. These currencies have now become an established investment strategy. Today, some 5,000 digital currencies are available. The most popular is Bitcoin, which now has over 18 million units in circulation – that’s equivalent to more than 126 billion euros. Ethereum, or Ether for short, is the second-largest digital currency and has a total value of around 20 billion euros.\n\nHowever, transactions with cryptocurrencies are still very slow and therefore not suitable for everyday purchases. Bitcoin users, for example, have to wait up to a whole hour for a payment to be approved. In the case of Ether, which was developed as a full-value substitute for conventional money from the outset, things move faster, with a payment taking three minutes to be confirmed. “This is still too long for many everyday purchases,” says Srdjan Capkun, Professor of Information Security at ETH Zurich. “When people are shopping online or buying a coffee to go, not many want to wait a whole three minutes for their payment to process,” he says. To address this issue, Capkun and his team have developed a system that speeds up transactions with Ether. They aptly named their solution “Snappy” because it enables payments to go through fast, like a snap of the fingers."
+    },
+    {
+      "heading": "The nature of blockchain",
+      "text": "But why is it that transactions with digital currencies still take so long? “It’s down to the nature of the blockchains on which the cryptocurrencies are based,” Capkun explains. In a blockchain, information is stored on a shared data register. The data isn’t available on one centralised server; instead it is continuously synchronised on thousands of participating servers that form a huge worldwide network. That’s why communication and the confirmation of transactions take a while. But what this does mean is that the data is transparent and secure: because the information is stored on so many servers at the same time, it is visible to all members of the network and can’t be manipulated by one party. In the blockchain, the same automated rules apply to everyone without the need for trusted authorities, such as banks, credit card companies, or governments, to act as intermediaries.\n\nSome attempts have already been made to accelerate transactions with cryptocurrencies, but these involved removing the payment process from the blockchain and simply synchronising with the network beforehand and afterwards. Although this approach worked, it went against the ideas of security, transparency and freedom from authority that are inherent to blockchain. “We wanted to find a way to do the same thing but without removing the blockchain element,” Capkun says."
+    },
+    {
+      "heading": "Smart deposits and guarantees",
+      "text": "Capkun and Vasilios Mavroudis, a doctoral student at University College London who was visiting Capkun’s group at the time, designed a digital deposit system that runs in the background to the payment process. In addition to their purchase amount, customers place a deposit of the same value – but only for as long as it takes to confirm the payment. So, for the cryptocurrency Ether, the deposit would be held for three minutes – the latency of the Ethereum blockchain.\n\nAnd because this deposit is active for only three minutes, it doesn’t show in the user’s own virtual wallet. “However, it allows the seller to immediately confirm the payment without running the risk of losing the sum,” Capkun explains. After all, it’s only after the blockchain’s latency period has expired that the seller sees if the purchase price has been covered. This is where the deposit comes in. If there’s something suspicious about the payment, the seller can retrieve the deposit instead. And owing to the fact that nothing can be manipulated within blockchain, the seller doesn’t need to make a special claim – if something is amiss, it automatically shows in the blockchain and is plain for everyone to see."
+    },
+    {
+      "heading": "All eventualities covered",
+      "text": "But not only do customers have to provide deposits when using Snappy – sellers do, too. The deposits they pay are higher than those of the buyers and are equal to the sum of all the individual sellers’ transactions that take place in the same timeframe. For a small vendor, such as a kiosk, the deposit is low; for a large vendor, it is commensurately higher. Just like the customers’ deposit, the deposit the sellers pay also serves as a safeguard against any malicious behaviour, this time on the part of the seller. In this way, Snappy protects against all risks. “And that’s why our solution can process payments so quickly and yet securely,” Capkun says.\n\nWhen using Snappy, customers and sellers don’t even notice the deposit security system running in the background. Everything is automated thanks to what are known as smart contracts – computer protocols that represent digital contracts. They define processes and rules that everyone in the blockchain automatically complies with.\n\nTo use Snappy, its algorithms and protocols can simply be deployed on the Ethereum blockchain. The system is not yet being used in practice, but Capkun envisages Snappy becoming a feature of smartphone apps. In shops or restaurants, for example, a connection to the seller’s account could be established via a QR code. The payment process itself would be just as fast and straightforward as with a conventional payment app.\n\nIn his working group, security expert Capkun is participating in a number of other projects on blockchain security and privacy. He is also conducting research into trusted hardware. This involves developing computers and devices based on technology that is completely secure, impossible to manipulate and therefore completely trustworthy. Here, the idea is that people don’t have to place their trust in a third party or the manufacturer.\n\nBlockchain and trusted hardware are therefore both approaches that offer an alternative to the current system, which sees authorities acting as intermediaries – be it banks, economic giants or governments. Sitting in his tidy office with his diplomas hanging on the wall, Capkun doesn’t look much like a system disruptor. Maybe he’s just an anarchist at heart? “No, not at all,” he responds with a smile, “it’s just that I find these systems intellectually challenging.” It perhaps comes as no surprise that he owns Bitcoin and Ether himself, but he’s no crypto millionaire.\n\nAnd that certainly wasn’t his intention back when he wrote his doctoral thesis on communication systems. However, Capkun soon came to realise what a key role system and network security play. Since his appointment as a professor at ETH in 2006, he has co-founded two ETH spin-offs, both of which are developing products to improve network security.\n\nCapkun is also prudent when it comes to online privacy and security in his private life. “I’m not a fan of social media,” he says. Although Capkun does have a Twitter account, he’s rather reluctant to curate it and tends to post only scientific contributions. When the topic of social media comes up with his two daughters, now aged 11 and 8, he’ll take the time to talk to them about appropriate conduct in these networks. “Although the social media world appears to be very fast-paced, it’s important to remember that once something has been posted online, it remains there forever,” he says. “Many people still don’t realise that.”"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Bitcoin, Ethereum or Ripple",
+        "label": "ORG",
+        "start": 25,
+        "end": 52
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 244,
+        "end": 249
+      },
+      {
+        "text": "some 5,000",
+        "label": "CARDINAL",
+        "start": 251,
+        "end": 261
+      },
+      {
+        "text": "Bitcoin",
+        "label": "PERSON",
+        "start": 316,
+        "end": 323
+      },
+      {
+        "text": "over 18 million",
+        "label": "CARDINAL",
+        "start": 339,
+        "end": 354
+      },
+      {
+        "text": "more than 126 billion euros",
+        "label": "MONEY",
+        "start": 399,
+        "end": 426
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 465,
+        "end": 471
+      },
+      {
+        "text": "around 20 billion euros",
+        "label": "MONEY",
+        "start": 522,
+        "end": 545
+      },
+      {
+        "text": "a whole hour",
+        "label": "TIME",
+        "start": 709,
+        "end": 721
+      },
+      {
+        "text": "three minutes",
+        "label": "TIME",
+        "start": 903,
+        "end": 916
+      },
+      {
+        "text": "Srdjan Capkun",
+        "label": "PERSON",
+        "start": 993,
+        "end": 1006
+      },
+      {
+        "text": "a whole three minutes",
+        "label": "TIME",
+        "start": 1138,
+        "end": 1159
+      },
+      {
+        "text": "Capkun",
+        "label": "GPE",
+        "start": 1223,
+        "end": 1229
+      },
+      {
+        "text": "Capkun",
+        "label": "PERSON",
+        "start": 162,
+        "end": 168
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 273,
+        "end": 276
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 340,
+        "end": 349
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 698,
+        "end": 701
+      },
+      {
+        "text": "Capkun",
+        "label": "PERSON",
+        "start": 1352,
+        "end": 1358
+      },
+      {
+        "text": "Capkun",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Vasilios Mavroudis",
+        "label": "PERSON",
+        "start": 11,
+        "end": 29
+      },
+      {
+        "text": "University College London",
+        "label": "ORG",
+        "start": 53,
+        "end": 78
+      },
+      {
+        "text": "Capkun’s",
+        "label": "ORG",
+        "start": 96,
+        "end": 104
+      },
+      {
+        "text": "three minutes",
+        "label": "TIME",
+        "start": 415,
+        "end": 428
+      },
+      {
+        "text": "Ethereum",
+        "label": "ORG",
+        "start": 450,
+        "end": 458
+      },
+      {
+        "text": "only three minutes",
+        "label": "TIME",
+        "start": 510,
+        "end": 528
+      },
+      {
+        "text": "Capkun",
+        "label": "PERSON",
+        "start": 691,
+        "end": 697
+      },
+      {
+        "text": "Capkun",
+        "label": "PERSON",
+        "start": 647,
+        "end": 653
+      },
+      {
+        "text": "Snappy",
+        "label": "ORG",
+        "start": 671,
+        "end": 677
+      },
+      {
+        "text": "Snappy",
+        "label": "ORG",
+        "start": 997,
+        "end": 1003
+      },
+      {
+        "text": "Ethereum",
+        "label": "ORG",
+        "start": 1064,
+        "end": 1072
+      },
+      {
+        "text": "Capkun",
+        "label": "GPE",
+        "start": 1135,
+        "end": 1141
+      },
+      {
+        "text": "Capkun",
+        "label": "GPE",
+        "start": 1452,
+        "end": 1458
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 1820,
+        "end": 1825
+      },
+      {
+        "text": "Blockchain",
+        "label": "PERSON",
+        "start": 1853,
+        "end": 1863
+      },
+      {
+        "text": "Capkun",
+        "label": "GPE",
+        "start": 2125,
+        "end": 2131
+      },
+      {
+        "text": "Bitcoin",
+        "label": "PERSON",
+        "start": 2369,
+        "end": 2376
+      },
+      {
+        "text": "Capkun",
+        "label": "ORG",
+        "start": 2542,
+        "end": 2548
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2660,
+        "end": 2663
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2691,
+        "end": 2694
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2695,
+        "end": 2698
+      },
+      {
+        "text": "Capkun",
+        "label": "ORG",
+        "start": 2777,
+        "end": 2783
+      },
+      {
+        "text": "Capkun",
+        "label": "ORG",
+        "start": 2917,
+        "end": 2923
+      },
+      {
+        "text": "Twitter",
+        "label": "PERSON",
+        "start": 2936,
+        "end": 2943
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 3086,
+        "end": 3089
+      },
+      {
+        "text": "11 and 8",
+        "label": "DATE",
+        "start": 3110,
+        "end": 3118
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bitcoin",
+        "Blockchain",
+        "Capkun",
+        "Srdjan Capkun",
+        "Twitter",
+        "Vasilios Mavroudis"
+      ],
+      "ORG": [
+        "Bitcoin, Ethereum or Ripple",
+        "Capkun",
+        "Capkun’s",
+        "ETH",
+        "Ethereum",
+        "Snappy",
+        "University College London"
+      ],
+      "LOCATION": [
+        "Capkun"
+      ],
+      "DATE": [
+        "11 and 8",
+        "Today",
+        "a whole hour",
+        "a whole three minutes",
+        "only three minutes",
+        "three minutes"
+      ],
+      "MISC": [
+        "around 20 billion euros",
+        "more than 126 billion euros",
+        "one",
+        "over 18 million",
+        "second",
+        "some 5,000",
+        "third",
+        "thousands",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Capkun": 12,
+      "Bitcoin": 2,
+      "three minutes": 2,
+      "one": 2,
+      "Ethereum": 2,
+      "Snappy": 2,
+      "ETH": 2,
+      "two": 2,
+      "Bitcoin, Ethereum or Ripple": 1,
+      "Today": 1,
+      "some 5,000": 1,
+      "over 18 million": 1,
+      "more than 126 billion euros": 1,
+      "second": 1,
+      "around 20 billion euros": 1,
+      "a whole hour": 1,
+      "Srdjan Capkun": 1,
+      "a whole three minutes": 1,
+      "thousands": 1,
+      "Vasilios Mavroudis": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "making-cryptocurrency-payments-fast-and-secure.md",
+      "title": "En News Events/2020/04/making Cryptocurrency Payments Fast And Secure",
+      "language": "en",
+      "source_path": "en_news_events/2020/04/making-cryptocurrency-payments-fast-and-secure.html"
+    },
+    "temporal": {
+      "publication_date": "2020-04",
+      "mentioned_years": [
+        "2006",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bitcoin",
+        "Blockchain",
+        "Capkun",
+        "Srdjan Capkun",
+        "Twitter",
+        "Vasilios Mavroudis"
+      ],
+      "people_with_roles": {
+        "Capkun": [
+          "student",
+          "professor"
+        ],
+        "Srdjan Capkun": [
+          "professor"
+        ],
+        "Vasilios Mavroudis": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics",
+        "computer_science"
+      ],
+      "research_topics": [
+        "around 20 billion euros",
+        "more than 126 billion euros",
+        "over 18 million",
+        "second",
+        "some 5,000",
+        "third",
+        "thousands"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Although Capkun",
+        "Information Security",
+        "En News",
+        "University College",
+        "Secure Cryptocurrencies",
+        "Vasilios Mavroudis",
+        "Fast And",
+        "ETH Zurich",
+        "Cryptocurrency Payments",
+        "Srdjan Capkun"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bitcoin, Ethereum or Ripple",
+        "Capkun",
+        "Capkun’s",
+        "ETH",
+        "Ethereum",
+        "Snappy",
+        "University College London"
+      ],
+      "locations": [
+        "Capkun"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Capkun",
+        "Bitcoin",
+        "three minutes",
+        "one",
+        "Ethereum",
+        "Snappy",
+        "ETH",
+        "two",
+        "Bitcoin, Ethereum or Ripple",
+        "Today"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "The nature of blockchain",
+          "The nature of blockchain",
+          "Smart deposits and guarantees",
+          "All eventualities covered"
+        ],
+        "content_length": 7472
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Twitter",
+        "ETH",
+        "Blockchain",
+        "Ethereum",
+        "Bitcoin, Ethereum or Ripple",
+        "University College London",
+        "Capkun",
+        "EU",
+        "2020",
+        "Vasilios Mavroudis",
+        "Bitcoin",
+        "Capkun’s",
+        "2006",
+        "Snappy",
+        "Srdjan Capkun"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "third",
+        "who",
+        "thousands",
+        "some 5,000",
+        "around 20 billion euros",
+        "more than 126 billion euros",
+        "second",
+        "what",
+        "how",
+        "computer_science",
+        "over 18 million",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Capkun_has_role_student",
+        "Capkun_has_role_professor",
+        "Srdjan Capkun_has_role_professor",
+        "Vasilios Mavroudis_has_role_student",
+        "research_domain_technology",
+        "research_domain_physics",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

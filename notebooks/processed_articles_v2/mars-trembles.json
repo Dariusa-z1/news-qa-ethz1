@@ -1,0 +1,517 @@
+{
+  "filename": "mars-trembles.md",
+  "original_filename": "mars-trembles.html",
+  "source_path": "en_news_events/2019/04/mars-trembles.html",
+  "date": "2019-04",
+  "title": "Mars Trembles",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Mars is seismically active",
+      "text": "The InSight probe (see box) has already transmitted a range of signals from Mars to Earth. This is good news for ETH Zurich. The detection of these signals is due, at least in part, to the highly sensitive electronics of the seismometer developed at the university's Aerospace Electronic and Instrument Laboratory. \"The measurements show that our electronics are running smoothly up there,\" says Domenico Giardini with a smile. The Professor of Seismology and Geophysics coordinates the activities at ETH for the InSight mission. Seismic signals recorded on Mars are relatively quiet and and therefore difficult to assess. Do they come from the wind? Were they a result of meteorite collisions? Or, are they in fact caused by geological processes inside the planet? Researchers at the ETH Marsquake Service have interpreted a seismic event that reached Earth on 6 April 2019 as a possible marsquake."
+    },
+    {
+      "heading": "Mars is seismically active",
+      "text": "\"The signal seems to come from within the planet,\" says Simon Stähler of the Seismology and Geodynamics Group that operates the Marsquake Service at ETH Zurich together with researchers from the Swiss Seismological Service. However, it is not yet clear exactly what caused the tremor.\n\nFor the scientists, it comes as a surprise that the measurements indicate that marsquakes are much more like moonquakes than earthquakes. \"So far, we have assumed that the crust of Mars is similar to the Earth's crust,\" says Stähler. While the Earth's crust consists of solidified rock, the moon's crust is heavily rugged due to continuous meteorite collisions. \"The fact that the wave form of the marsquakes resembles the moonquakes gives us for the first time a picture of how the Martian crust is internally structured. Until now, we could only look at it from the outside,\" explains Stähler.\n\nWhile the measurements support the assumption that Mars is seismically active, the signals are still too quiet to give any indication of the inner geological structure of the planet beneath the crust - one of the goals of the InSight mission. The researchers now hope that stronger quakes will allow them to draw even further conclusions in the future about the deep interior of Mars.\n\nInSight, short for Interior Exploration using Seismic Investigations, Geodesy and Heat Transport, is a Mars lander designed to give the Red Planet its first thorough checkup since it formed 4.5 billion years ago. It is the first outer space robotic explorer to study in-depth the \"inner space\" of Mars: its crust, mantle, and core.\n\nStudying Mars' interior structure answers key questions about the early formation of rocky planets in our inner solar system - Mercury, Venus, Earth, and Mars - more than 4 billion years ago, as well as rocky exoplanets. InSight also measures tectonic activity and meteorite impacts on Mars today.\n\nThe lander uses cutting edge instruments, to delve deep beneath the surface and seek the fingerprints of the processes that formed the terrestrial planets. It does so by measuring the planet's \"vital signs\": its \"pulse\" (seismology), \"temperature\" (heat flow), and \"reflexes\" (precision tracking). The InSight mission is part of NASA's Discovery Program.\n\nFurther information: www.insight.ethz.ch"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Trembles",
+        "label": "PERSON",
+        "start": 28,
+        "end": 36
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 4,
+        "end": 11
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 76,
+        "end": 80
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 84,
+        "end": 89
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 113,
+        "end": 123
+      },
+      {
+        "text": "Aerospace Electronic and Instrument Laboratory",
+        "label": "ORG",
+        "start": 267,
+        "end": 313
+      },
+      {
+        "text": "Domenico Giardini",
+        "label": "PERSON",
+        "start": 396,
+        "end": 413
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 501,
+        "end": 504
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 513,
+        "end": 520
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 558,
+        "end": 562
+      },
+      {
+        "text": "the ETH Marsquake Service",
+        "label": "ORG",
+        "start": 781,
+        "end": 806
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 853,
+        "end": 858
+      },
+      {
+        "text": "6 April 2019",
+        "label": "DATE",
+        "start": 862,
+        "end": 874
+      },
+      {
+        "text": "Simon Stähler",
+        "label": "PERSON",
+        "start": 56,
+        "end": 69
+      },
+      {
+        "text": "the Marsquake Service",
+        "label": "ORG",
+        "start": 124,
+        "end": 145
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 149,
+        "end": 159
+      },
+      {
+        "text": "the Swiss Seismological Service",
+        "label": "ORG",
+        "start": 191,
+        "end": 222
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 466,
+        "end": 470
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 489,
+        "end": 494
+      },
+      {
+        "text": "Stähler",
+        "label": "PERSON",
+        "start": 510,
+        "end": 517
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 529,
+        "end": 534
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 736,
+        "end": 741
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 768,
+        "end": 775
+      },
+      {
+        "text": "Stähler",
+        "label": "PERSON",
+        "start": 872,
+        "end": 879
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 932,
+        "end": 936
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 1107,
+        "end": 1114
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1260,
+        "end": 1264
+      },
+      {
+        "text": "Interior Exploration",
+        "label": "ORG",
+        "start": 1285,
+        "end": 1305
+      },
+      {
+        "text": "Geodesy",
+        "label": "PERSON",
+        "start": 1336,
+        "end": 1343
+      },
+      {
+        "text": "Heat Transport",
+        "label": "PERSON",
+        "start": 1348,
+        "end": 1362
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1369,
+        "end": 1373
+      },
+      {
+        "text": "the Red Planet",
+        "label": "LOC",
+        "start": 1398,
+        "end": 1412
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1417,
+        "end": 1422
+      },
+      {
+        "text": "4.5 billion years ago",
+        "label": "MONEY",
+        "start": 1456,
+        "end": 1477
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1489,
+        "end": 1494
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1563,
+        "end": 1567
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1607,
+        "end": 1611
+      },
+      {
+        "text": "Venus",
+        "label": "GPE",
+        "start": 1734,
+        "end": 1739
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1741,
+        "end": 1746
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1752,
+        "end": 1756
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 1819,
+        "end": 1826
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1884,
+        "end": 1888
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 2198,
+        "end": 2205
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 2225,
+        "end": 2229
+      },
+      {
+        "text": "Discovery Program",
+        "label": "ORG",
+        "start": 2232,
+        "end": 2249
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Domenico Giardini",
+        "Geodesy",
+        "Heat Transport",
+        "Simon Stähler",
+        "Stähler",
+        "Trembles"
+      ],
+      "ORG": [
+        "Aerospace Electronic and Instrument Laboratory",
+        "Discovery Program",
+        "ETH",
+        "ETH Zurich",
+        "InSight",
+        "Interior Exploration",
+        "NASA",
+        "the ETH Marsquake Service",
+        "the Marsquake Service",
+        "the Swiss Seismological Service"
+      ],
+      "LOCATION": [
+        "Earth",
+        "Mars",
+        "Venus",
+        "the Red Planet"
+      ],
+      "DATE": [
+        "6 April 2019"
+      ],
+      "MISC": [
+        "4.5 billion years ago",
+        "Martian",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "Mars": 10,
+      "InSight": 5,
+      "Earth": 5,
+      "first": 3,
+      "ETH Zurich": 2,
+      "Stähler": 2,
+      "Trembles": 1,
+      "Aerospace Electronic and Instrument Laboratory": 1,
+      "Domenico Giardini": 1,
+      "ETH": 1,
+      "the ETH Marsquake Service": 1,
+      "6 April 2019": 1,
+      "Simon Stähler": 1,
+      "the Marsquake Service": 1,
+      "the Swiss Seismological Service": 1,
+      "Martian": 1,
+      "Interior Exploration": 1,
+      "Geodesy": 1,
+      "Heat Transport": 1,
+      "the Red Planet": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mars-trembles.md",
+      "title": "En News Events/2019/04/mars Trembles",
+      "language": "en",
+      "source_path": "en_news_events/2019/04/mars-trembles.html"
+    },
+    "temporal": {
+      "publication_date": "2019-04",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Domenico Giardini",
+        "Geodesy",
+        "Heat Transport",
+        "Simon Stähler",
+        "Stähler",
+        "Trembles"
+      ],
+      "people_with_roles": {
+        "Simon Stähler": [
+          "researcher"
+        ],
+        "Stähler": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "4.5 billion years ago",
+        "Martian",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Discovery Program",
+        "Red Planet",
+        "Heat Transport",
+        "En News",
+        "The Professor",
+        "Swiss Seismological",
+        "The InSight",
+        "Studying Mars",
+        "Instrument Laboratory",
+        "Aerospace Electronic",
+        "Domenico Giardini",
+        "Seismic Investigations",
+        "Interior Exploration",
+        "Geodynamics Group",
+        "ETH Zurich",
+        "Marsquake Service",
+        "Trembles The",
+        "ETH Marsquake"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Aerospace Electronic and Instrument Laboratory",
+        "Discovery Program",
+        "ETH",
+        "ETH Zurich",
+        "InSight",
+        "Interior Exploration",
+        "NASA",
+        "the ETH Marsquake Service",
+        "the Marsquake Service",
+        "the Swiss Seismological Service"
+      ],
+      "locations": [
+        "Earth",
+        "Mars",
+        "Venus",
+        "the Red Planet"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Mars",
+        "InSight",
+        "Earth",
+        "first",
+        "ETH Zurich",
+        "Stähler",
+        "Trembles",
+        "Aerospace Electronic and Instrument Laboratory",
+        "Domenico Giardini",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Mars is seismically active",
+          "Mars is seismically active"
+        ],
+        "content_length": 3234
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Discovery Program",
+        "ETH",
+        "the Swiss Seismological Service",
+        "Geodesy",
+        "Simon Stähler",
+        "Aerospace Electronic and Instrument Laboratory",
+        "InSight",
+        "2019",
+        "Trembles",
+        "the ETH Marsquake Service",
+        "Domenico Giardini",
+        "Stähler",
+        "NASA",
+        "Interior Exploration",
+        "ETH Zurich",
+        "the Marsquake Service",
+        "ERC",
+        "Heat Transport"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "what",
+        "how",
+        "4.5 billion years ago",
+        "why",
+        "when",
+        "where",
+        "Martian"
+      ],
+      "graph_relations": [
+        "Simon Stähler_has_role_researcher",
+        "Stähler_has_role_researcher",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

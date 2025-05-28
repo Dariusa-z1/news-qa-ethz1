@@ -1,0 +1,335 @@
+{
+  "filename": "smallest-steerable-catheter.md",
+  "original_filename": "smallest-steerable-catheter.html",
+  "source_path": "en_news_events/2018/10/smallest-steerable-catheter.html",
+  "date": "2018-10",
+  "title": "Smallest Steerable Catheter",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Variable stiffness",
+      "text": "For patients with cardiac arrhythmia, surgeons routinely perform a minimally invasive procedure to ablate the sections of the heart that cause unwanted electrical impulses. The physician inserts a catheter through a vein into the heart that locally generates heat to ablate the relevant sections. To navigate the catheter tip through the blood vessels with a high level of precision, the surgeon can bend the tip manually using a pull wire inside the catheter. However, the catheter can be moved in only two directions: to the left and to the right.\n\nIn cooperation with their EPFL colleagues, ETH Zurich researchers working under Brad Nelson, Professor of Robotics and Intelligent Systems, have now developed a catheter with a magnetic head. Rather than being steered manually, it is operated from a computer via an external magnetic field. This enables the front part of the catheter to be bent in any direction with the highest level of precision. “As a result, the new catheter can be steered through more complex blood vessels better than a conventional catheter,” says Christophe Chautems, a doctoral student in Nelson’s group. Since the magnetic catheter does not require a pull wire, it can be made much thinner. The scientists have thus developed the smallest ever steerable catheter."
+    },
+    {
+      "heading": "Variable stiffness",
+      "text": "With the new catheter, the stiffness of the front part can be adjusted too, thanks to a low melting point alloy placed in three of its sections. With power supplied through fine copper wires inside the catheter, these sections can be heated and thus made flexible."
+    },
+    {
+      "heading": "Reference",
+      "text": "A magnetic navigation system in the ETH Zurich laboratory. Newer developments will be much smaller. (Photograph: ETH Zurich / Christophe Chautems)\n\nIf the front part of the catheter is relatively rigid, applying an external magnetic field lets it bend only slightly. In contrast, a soft catheter allows for bends in very tight curves. This allows surgeons to navigate through blood vessels with much greater precision, and also reduces the risk of accidentally injuring vessels from the inside.\n\nFor surgeons to work with these magnetic catheters, patients must lie on a magnetic navigation system, an apparatus used to produce directed magnetic fields. Such devices have already been developed by ETH Zurich and an ETH spin-off. Today, commercial providers also offer these devices, which are currently in use at some 100 hospitals around the world.\n\nMagnetic catheter navigation has another advantage: in contrast to manual navigation, the surgeon is not next to the patient, but in a control room next door. This provides better protection from the radiation of the X-ray machine used to generate images for navigating inside the patient’s body. It is also possible to remotely perform the operation across large distances. There are even efforts underway to automate such procedures completely in the medium term.\n\nFor their proof of concept, ETH researchers focused on using the catheter to treat cardiac arrhythmia. They had the system patented and are looking for partners from industry to further develop the catheter and bring it to market. They are also working on catheter applications in eye and gastrointestinal surgery.\n\nChautems C, Tonazzini A, Floreano D, Nelson BJ: A Variable Stiffness Catheter Controlled with an External Magnetic Field. IEEE/RSJ International Conference on Intelligent Robots and Systems 2017, doi: 10.1109/IROS.2017.8202155"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "only two",
+        "label": "CARDINAL",
+        "start": 499,
+        "end": 507
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 593,
+        "end": 603
+      },
+      {
+        "text": "Brad Nelson",
+        "label": "PERSON",
+        "start": 630,
+        "end": 641
+      },
+      {
+        "text": "Robotics and Intelligent Systems",
+        "label": "ORG",
+        "start": 656,
+        "end": 688
+      },
+      {
+        "text": "Christophe Chautems",
+        "label": "ORG",
+        "start": 1074,
+        "end": 1093
+      },
+      {
+        "text": "Nelson’s",
+        "label": "ORG",
+        "start": 1117,
+        "end": 1125
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 122,
+        "end": 127
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 36,
+        "end": 46
+      },
+      {
+        "text": "ETH Zurich / Christophe Chautems",
+        "label": "ORG",
+        "start": 113,
+        "end": 145
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 696,
+        "end": 706
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 714,
+        "end": 717
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 728,
+        "end": 733
+      },
+      {
+        "text": "some 100",
+        "label": "CARDINAL",
+        "start": 812,
+        "end": 820
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1343,
+        "end": 1346
+      },
+      {
+        "text": "Nelson BJ",
+        "label": "PERSON",
+        "start": 1667,
+        "end": 1676
+      },
+      {
+        "text": "External Magnetic Field",
+        "label": "ORG",
+        "start": 1727,
+        "end": 1750
+      },
+      {
+        "text": "IEEE",
+        "label": "ORG",
+        "start": 1752,
+        "end": 1756
+      },
+      {
+        "text": "10.1109/IROS.2017.8202155",
+        "label": "QUANTITY",
+        "start": 1831,
+        "end": 1856
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Brad Nelson",
+        "ETH Zurich",
+        "Nelson BJ"
+      ],
+      "ORG": [
+        "Christophe Chautems",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich / Christophe Chautems",
+        "External Magnetic Field",
+        "IEEE",
+        "Nelson’s",
+        "Robotics and Intelligent Systems"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Today"
+      ],
+      "MISC": [
+        "10.1109/IROS.2017.8202155",
+        "only two",
+        "some 100",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "ETH": 2,
+      "only two": 1,
+      "Brad Nelson": 1,
+      "Robotics and Intelligent Systems": 1,
+      "Christophe Chautems": 1,
+      "Nelson’s": 1,
+      "three": 1,
+      "ETH Zurich / Christophe Chautems": 1,
+      "Today": 1,
+      "some 100": 1,
+      "Nelson BJ": 1,
+      "External Magnetic Field": 1,
+      "IEEE": 1,
+      "10.1109/IROS.2017.8202155": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "smallest-steerable-catheter.md",
+      "title": "En News Events/2018/10/smallest Steerable Catheter",
+      "language": "en",
+      "source_path": "en_news_events/2018/10/smallest-steerable-catheter.html"
+    },
+    "temporal": {
+      "publication_date": "2018-10",
+      "mentioned_years": [
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Brad Nelson",
+        "ETH Zurich",
+        "Nelson BJ"
+      ],
+      "people_with_roles": {
+        "Brad Nelson": [
+          "researcher",
+          "head",
+          "professor"
+        ],
+        "ETH Zurich": [
+          "researcher",
+          "head",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1109/IROS.2017.8202155",
+        "only two",
+        "some 100",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "En News",
+        "RSJ International",
+        "Brad Nelson",
+        "Christophe Chautems",
+        "Chautems C",
+        "Floreano D",
+        "Nelson BJ",
+        "Intelligent Robots",
+        "Tonazzini A",
+        "A Variable",
+        "External Magnetic",
+        "ETH Zurich",
+        "Stiffness Catheter",
+        "Steerable Catheter",
+        "Intelligent Systems"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Christophe Chautems",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich / Christophe Chautems",
+        "External Magnetic Field",
+        "IEEE",
+        "Nelson’s",
+        "Robotics and Intelligent Systems"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "ETH",
+        "only two",
+        "Brad Nelson",
+        "Robotics and Intelligent Systems",
+        "Christophe Chautems",
+        "Nelson’s",
+        "three",
+        "ETH Zurich / Christophe Chautems",
+        "Today"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Variable stiffness",
+          "Variable stiffness",
+          "Reference"
+        ],
+        "content_length": 3471
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "External Magnetic Field",
+        "Robotics and Intelligent Systems",
+        "2017",
+        "Christophe Chautems",
+        "Brad Nelson",
+        "Nelson BJ",
+        "IEEE",
+        "ETH Zurich",
+        "ETH Zurich / Christophe Chautems",
+        "ERC",
+        "Nelson’s"
+      ],
+      "semantic_concepts": [
+        "three",
+        "who",
+        "only two",
+        "where",
+        "some 100",
+        "what",
+        "how",
+        "engineering",
+        "10.1109/IROS.2017.8202155"
+      ],
+      "graph_relations": [
+        "Brad Nelson_has_role_researcher",
+        "Brad Nelson_has_role_head",
+        "Brad Nelson_has_role_professor",
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_head",
+        "ETH Zurich_has_role_professor",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

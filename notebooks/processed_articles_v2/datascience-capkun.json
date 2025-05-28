@@ -1,0 +1,437 @@
+{
+  "filename": "datascience-capkun.md",
+  "original_filename": "datascience-capkun.html",
+  "source_path": "en_news_events/2017/07/datascience-capkun.html",
+  "date": "2017-07",
+  "title": "Datascience Capkun",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "About Srdjan Capkun",
+      "text": "- Lino Guzzella: “We have to seize this opportunity” (ETH News 20.06.2017)\n\nProfessor Capkun, you recently said in an interview: “A little paranoia doesn’t hurt when it comes to IT security.” How paranoid should we be, ideally? With regard to IT security, it’s a good idea to stay wary and constantly question the technology. But then the question arises, what do you do about it? You can only have full security by giving up some benefits, so you have to find the right balance between function and security.\n\nBut to question things you need to know something about IT systems. That’s the basis, sure. This also applies to attackers. If you want to steal data, manipulate a car, drone or nuclear power plant, you need to understand exactly how the systems work. The question is, what do attackers want? Do they have a specific goal, or do they just want to create chaos?\n\nSo as a security expert, you have to always consider attackers’ interests? Yes, you need to think ahead. Defenders’ abilities are always limited. Take a mobile phone for example – how do you make it secure? The chips in the device, the operating system, the apps – they’re all manufactured by different companies over which you have no control. It is very difficult to make the device truly secure without changing the operating system or hardware.\n\nHas the way systems are attacked changed in recent years? A new development is ransomware, which is used to encrypt data and then blackmail the victim. This is a well known attack, but thanks to virtual currencies such as bitcoin, blackmailers are now able to remain unidentified, as the ransom money can be transferred anonymously. Without this, such attempts at blackmail wouldn’t work.\n\nWhat devices are particularly easy to crack? There is a broad spectrum of devices that are attacked, since so many are poorly protected. It often depends on the price. If you want to produce a cheap wifi camera, you can’t invest much in security, which creates vulnerabilities.\n\nYou carry out research into the protection of medical devices, among other things. How well are our hospitals protected from attacks? The situation is complex, For example, there are limitations on how you can distribute cryptographic keys for medical implants. That raises the question, who has access to these keys? The doctor? What happens when they’re on holiday? How well protected are the devices that are used to program the pacemakers? These are questions that we are currently researching.\n\nA few months ago, several hospitals – particularly in England – were attacked by hackers. What was the problem there? Medical devices in many hospitals are run using outdated operating systems, sometimes even Windows 98, although it hasn’t been supported for years now. If this software is to be upgraded, the devices might stop working due to software/hardware incompatibility. This needs dedicated software development, new certification – which costs both time and money. And simply replacing the devices is often not a solution.\n\nSo you have to compromise? You can see how complex the situation is when you run a risk assessment. For example, how dangerous is it when a CT scan lands in the wrong hands? This depends, among other things, on how healthcare is regulated. Again, protecting a hospital from hacker attacks might be a technical task, but that’s not all it is.\n\nAnother topic that has attracted a lot of attention recently is the question of whether cyberattacks have the ability to undermine our democracy. What is your assessment of the situation? The problem isn’t just that elections can be manipulated; there is also the risk that people could lose trust in democratic processes. Swiss e-voting system is currently being developed by the Swiss Post. One can demonstrate that this system is cryptographically secure, but what does someone who isn’t familiar with cryptology do with that information? How do you convince people that there isn’t something fishy going on when they vote? It’s an exciting topic that I’m thinking about a lot at the moment.\n\nETH recently hosted the Cyber Risks Summit, which was organised by the Zurich Information Security and Privacy Center (ZISC). What were your conclusions? I’m happy that the issue is resonating with so many people. The event also showed that not only is research in this area strong at ETH, but also that education in this area has tangible impact - many of our students are founding their own companies. This makes us proud, since it shows that ETH is doing a lot right in this domain.\n\nHow will the ZISC develop over the coming years? We want to expand the Center. We were recently able to gain some new partners, such as Swiss Post, Zurich Cantonal Bank and Zurich Insurance. It’s remarkable that we can also implement exciting projects with companies that are active in more traditional business areas. These companies are also changing rapidly as a result of digitalisation, and encountering new challenges in the field of information security.\n\nSo research at the ZISC is becoming more focussed on concrete problems? Not just that. We’re also conducting fundamental research by working on things out of curiosity, without knowing in advance whether they will work. This aspect is very important to us."
+    },
+    {
+      "heading": "About Srdjan Capkun",
+      "text": "Srdjan Capkun is Professor for Information Security and Director of the Zurich Information Security Center (ZISC) at ETH Zurich. His research focusses on the design and analysis of security protocols for radio and fixed networks.\n\nData is playing an increasingly important role in our society, and is an issue on which ETH Zurich will focus more closely in the coming years. In a series of interviews, ETH News asks researchers at ETH Zurich about the specific topics they are focussed on, and how they see societal development in their field.\n\nPrevious interviews in this series:\n\n- Lino Guzzella: “We have to seize this opportunity” (ETH News 20.06.2017)"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Capkun",
+        "label": "GPE",
+        "start": 35,
+        "end": 41
+      },
+      {
+        "text": "ETH News 20.06.2017",
+        "label": "ORG",
+        "start": 54,
+        "end": 73
+      },
+      {
+        "text": "Capkun",
+        "label": "PERSON",
+        "start": 85,
+        "end": 91
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 1363,
+        "end": 1375
+      },
+      {
+        "text": "A few months ago",
+        "label": "DATE",
+        "start": 2485,
+        "end": 2501
+      },
+      {
+        "text": "England",
+        "label": "GPE",
+        "start": 2539,
+        "end": 2546
+      },
+      {
+        "text": "Windows 98",
+        "label": "PRODUCT",
+        "start": 2694,
+        "end": 2704
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 2744,
+        "end": 2749
+      },
+      {
+        "text": "CT",
+        "label": "ORG",
+        "start": 3158,
+        "end": 3160
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 3683,
+        "end": 3688
+      },
+      {
+        "text": "the Swiss Post",
+        "label": "ORG",
+        "start": 3737,
+        "end": 3751
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 4055,
+        "end": 4058
+      },
+      {
+        "text": "the Cyber Risks Summit",
+        "label": "ORG",
+        "start": 4075,
+        "end": 4097
+      },
+      {
+        "text": "the Zurich Information Security",
+        "label": "ORG",
+        "start": 4122,
+        "end": 4153
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 4340,
+        "end": 4343
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 4500,
+        "end": 4503
+      },
+      {
+        "text": "ZISC",
+        "label": "GPE",
+        "start": 4554,
+        "end": 4558
+      },
+      {
+        "text": "the coming years",
+        "label": "DATE",
+        "start": 4572,
+        "end": 4588
+      },
+      {
+        "text": "Swiss Post",
+        "label": "ORG",
+        "start": 4677,
+        "end": 4687
+      },
+      {
+        "text": "Zurich Cantonal Bank",
+        "label": "ORG",
+        "start": 4689,
+        "end": 4709
+      },
+      {
+        "text": "Zurich Insurance",
+        "label": "ORG",
+        "start": 4714,
+        "end": 4730
+      },
+      {
+        "text": "ZISC",
+        "label": "EVENT",
+        "start": 5022,
+        "end": 5026
+      },
+      {
+        "text": "Srdjan Capkun",
+        "label": "PERSON",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "the Zurich Information Security Center",
+        "label": "ORG",
+        "start": 68,
+        "end": 106
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 117,
+        "end": 127
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 318,
+        "end": 328
+      },
+      {
+        "text": "the coming years",
+        "label": "DATE",
+        "start": 356,
+        "end": 372
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 401,
+        "end": 409
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 430,
+        "end": 440
+      },
+      {
+        "text": "ETH News 20.06.2017",
+        "label": "ORG",
+        "start": 633,
+        "end": 652
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Capkun",
+        "Srdjan Capkun"
+      ],
+      "ORG": [
+        "CT",
+        "ETH",
+        "ETH News",
+        "ETH News 20.06.2017",
+        "ETH Zurich",
+        "Swiss Post",
+        "Zurich Cantonal Bank",
+        "Zurich Insurance",
+        "the Cyber Risks Summit",
+        "the Swiss Post",
+        "the Zurich Information Security",
+        "the Zurich Information Security Center"
+      ],
+      "LOCATION": [
+        "Capkun",
+        "ETH Zurich",
+        "England",
+        "ZISC"
+      ],
+      "DATE": [
+        "A few months ago",
+        "recent years",
+        "the coming years",
+        "years"
+      ],
+      "MISC": [
+        "Swiss",
+        "Windows 98",
+        "ZISC"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "ETH Zurich": 3,
+      "Capkun": 2,
+      "ETH News 20.06.2017": 2,
+      "ZISC": 2,
+      "the coming years": 2,
+      "recent years": 1,
+      "A few months ago": 1,
+      "England": 1,
+      "Windows 98": 1,
+      "years": 1,
+      "CT": 1,
+      "Swiss": 1,
+      "the Swiss Post": 1,
+      "the Cyber Risks Summit": 1,
+      "the Zurich Information Security": 1,
+      "Swiss Post": 1,
+      "Zurich Cantonal Bank": 1,
+      "Zurich Insurance": 1,
+      "Srdjan Capkun": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "datascience-capkun.md",
+      "title": "En News Events/2017/07/datascience Capkun",
+      "language": "en",
+      "source_path": "en_news_events/2017/07/datascience-capkun.html"
+    },
+    "temporal": {
+      "publication_date": "2017-07",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Capkun",
+        "Srdjan Capkun"
+      ],
+      "people_with_roles": {
+        "Capkun": [
+          "rector",
+          "director",
+          "Professor",
+          "professor"
+        ],
+        "Srdjan Capkun": [
+          "professor",
+          "director",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director",
+        "head",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Swiss",
+        "Windows 98",
+        "ZISC"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Professor Capkun",
+        "Zurich Cantonal",
+        "Information Security",
+        "En News",
+        "Swiss Post",
+        "Security Center",
+        "Cyber Risks",
+        "ETH Zurich",
+        "Privacy Center",
+        "ETH News",
+        "Lino Guzzella",
+        "Zurich Information",
+        "Zurich Insurance",
+        "Srdjan Capkun"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CT",
+        "ETH",
+        "ETH News",
+        "ETH News 20.06.2017",
+        "ETH Zurich",
+        "Swiss Post",
+        "Zurich Cantonal Bank",
+        "Zurich Insurance",
+        "the Cyber Risks Summit",
+        "the Swiss Post",
+        "the Zurich Information Security",
+        "the Zurich Information Security Center"
+      ],
+      "locations": [
+        "Capkun",
+        "ETH Zurich",
+        "England",
+        "ZISC"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Zurich",
+        "Capkun",
+        "ETH News 20.06.2017",
+        "ZISC",
+        "the coming years",
+        "recent years",
+        "A few months ago",
+        "England",
+        "Windows 98"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "About Srdjan Capkun",
+          "About Srdjan Capkun"
+        ],
+        "content_length": 5970
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "CT",
+        "the Swiss Post",
+        "ETH News 20.06.2017",
+        "Zurich Cantonal Bank",
+        "the Zurich Information Security",
+        "Capkun",
+        "Swiss Post",
+        "2017",
+        "the Zurich Information Security Center",
+        "ETH News",
+        "ETH Zurich",
+        "the Cyber Risks Summit",
+        "Zurich Insurance",
+        "Srdjan Capkun"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "computer_science",
+        "Windows 98",
+        "who",
+        "Swiss",
+        "what",
+        "how",
+        "ZISC",
+        "medical_research",
+        "why",
+        "when"
+      ],
+      "graph_relations": [
+        "Capkun_has_role_rector",
+        "Capkun_has_role_director",
+        "Capkun_has_role_Professor",
+        "Capkun_has_role_professor",
+        "Srdjan Capkun_has_role_professor",
+        "Srdjan Capkun_has_role_director",
+        "Srdjan Capkun_has_role_rector",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

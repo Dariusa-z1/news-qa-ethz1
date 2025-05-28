@@ -1,0 +1,131 @@
+{
+  "filename": "checklist-data-management-for-research-projects.md",
+  "original_filename": "checklist-data-management-for-research-projects.html",
+  "source_path": "en_internal/2016/04/checklist-data-management-for-research-projects.html",
+  "date": "2016-04",
+  "title": "Checklist Data Management For Research Projects",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In our newest blog post, we present the checklist \" Data Management \" (pdf, 281 kB) and show the advantages of a sound data management.\n\nBlog Innovation@ETH-Bibliothek"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Data Management For Research Projects",
+        "label": "ORG",
+        "start": 30,
+        "end": 67
+      },
+      {
+        "text": "Data Management",
+        "label": "ORG",
+        "start": 52,
+        "end": 67
+      },
+      {
+        "text": "Blog Innovation@ETH-Bibliothek",
+        "label": "PERSON",
+        "start": 136,
+        "end": 166
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Blog Innovation@ETH-Bibliothek"
+      ],
+      "ORG": [
+        "Data Management",
+        "Data Management For Research Projects"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Data Management For Research Projects": 1,
+      "Data Management": 1,
+      "Blog Innovation@ETH-Bibliothek": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "checklist-data-management-for-research-projects.md",
+      "title": "En Internal/2016/04/checklist Data Management For Research Projects",
+      "language": "en",
+      "source_path": "en_internal/2016/04/checklist-data-management-for-research-projects.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Blog Innovation@ETH-Bibliothek"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Projects In",
+        "For Research",
+        "Data Management",
+        "ETH-Bibliothek",
+        "Blog Innovation",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Data Management",
+        "Data Management For Research Projects"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Data Management For Research Projects",
+        "Data Management",
+        "Blog Innovation@ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 235
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Data Management For Research Projects",
+        "Blog Innovation@ETH-Bibliothek",
+        "Data Management",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "what",
+        "how"
+      ],
+      "graph_relations": []
+    }
+  }
+}

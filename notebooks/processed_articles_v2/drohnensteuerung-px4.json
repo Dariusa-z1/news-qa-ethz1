@@ -1,0 +1,742 @@
+{
+  "filename": "drohnensteuerung-px4.md",
+  "original_filename": "drohnensteuerung-px4.html",
+  "source_path": "de_news_events/2016/01/drohnensteuerung-px4.html",
+  "date": "2016-01",
+  "title": "Drohnensteuerung Px4",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Goldstandard in den nächsten Jahren",
+      "text": "Vor kurzem ging in Las Vegas die Consumer Electronics Show, die weltweit grösste Messe für Unterhaltungs- und Heimelektronik, zu Ende. Auf besonderes Interesse stiessen dabei die neusten Drohnenmodelle. Für die meisten unsichtbar mit an Bord von vielen neuen Geräten: die neuste Steuerungs-Plattform von Qualcomm Technologies, des Marktführers bei Drohnen-Prozessoren.\n\nSchon im Oktober 2015 kündigte der Elektronik-Konzern unter dem Namen «Snapdragon Flight» die Plattform an. Wesentlicher Bestandteil davon ist die Software externe Seite PX4 , deren Entwicklung der Informatik-Doktorand Lorenz Meier von der ETH Zürich initiiert und massgeblich vorangetrieben hat."
+    },
+    {
+      "heading": "Goldstandard in den nächsten Jahren",
+      "text": "Dieses Programm wird deshalb wohl in den kommenden Jahren der Gold-Standard für Drohnensteuerungen sein. «PX4 hat das Potential zum Rückgrat der rasant wachsenden Drohnen-Industrie zu werden. Was für viele Smartphones Android ist, wird für Drohnen die Software PX4 sein», sagt Meier, der sein Doktorat in der Computer Vision and Geometry Group von Professor Marc Pollefeys absolviert.\n\nMeier begründet die guten Erfolgsaussichten wie folgt: Bereits jetzt bildet PX4 auf tausenden Systemen die Infrastruktur für die Flugsteuerung, «und mit der Partnerschaft mit Qualcomm wird dieses Erfolgsmodell auf die nächste Technologiegeneration ausgeweitet», sagt er. In den kommenden Jahren werden Drohnen deutlich komplexere Fähigkeiten haben und Hindernissen ausweichen können. Dazu werde der Funktionsumfang von PX4 ständig erweitert. «Künftig wird es also immer mehr Drohnen am Himmel geben, die mit der ETH-Entwicklung abheben, und zwar weltweit», ist Meier überzeugt."
+    },
+    {
+      "heading": "Modularer Aufbau ist Erfolgsfaktor",
+      "text": "Die Parallele zu Android kommt nicht von ungefähr: Der Quellcode von PX4 ist Open Source, also für alle Interessierte offen zugänglich. Jeder Drohnenhersteller kann den Code unentgeltlich nutzen und auf seine eigenen Bedürfnisse zuschneiden, so wie es Smartphone-Hersteller mit Android auch können. Darüber hinaus kann jeder Anwender PX4 mit eigener Software wie Apps erweitern, um Spezialfunktionen, etwa Kamerasteuerungen, hinzuzufügen. «Die Modularität mit dem App-Konzept ist ein Alleinstellungsmerkmal und einer der Hauptgründe, warum Hersteller wie Qualcomm auf PX4 setzen», ist der Informatiker überzeugt.\n\nGegenüber bisherigen Software-Steuerungen für Drohnen hat PX4 zwei wesentliche Vorteile: Das Programm vereinfacht das Fliegen von Drohnen massiv und macht es gleichzeitig viel sicherer. Unter anderem erlaubt die Software den Drohnen autonom zu starten oder zu landen sowie eigenständig bestimmten Objekten zu folgen, etwa Surfern in den Wellen oder Downhill-Mountainbikern auf ihrem wilden Ritt ins Tal."
+    },
+    {
+      "heading": "Ein Wurf des ETH-Ökosystems",
+      "text": "Meier ist zwar Initiant von Pixhawk und Chefentwickler von PX4, beileibe aber nicht der einzige, der an der Software gearbeitet hat. Entstanden ist diese durch ein weltweites Entwicklerteam unter Federführung des ETH-Doktoranden. «Viele Köpfe haben sich an der Entwicklung von PX4 beteiligt», betont er. In der Programmierung der Software steckten unzählige Mannjahre Arbeit, die eine Einzelperson niemals leisten könne. «Dennoch darf man mit gutem Gewissen sagen, dass PX4 wesentlich aus dem Ökosystem ETH Zürich hervorgegangen ist.»\n\nMit PX4 ist Meier und seinen Mitstreitern ein grosser Wurf gelungen, was in der heutigen Zeit beinahe an ein Wunder grenzt: Einen Standard zu setzen, wie es vor dreissig Jahren der Uni Berkeley mit Berkeley Software Distribution – der Basis von Unix- Systemen – gelungen ist."
+    },
+    {
+      "heading": "Aus Nebenher-Projekt wurde Grossbaustelle",
+      "text": "«Das Projekt hat über die vergangenen sieben Jahre eine wahnsinnige Evolution durchlaufen», sagt Meier. Er begann das Projekt Pixhawk, aus dem die PX4 Software hervorgegangen ist, im Jahr 2008 – «nebenher», aus eigenem Antrieb und parallel zu seinem Masterstudium, wie er sagt. Vom ETH Excellence Scholarship Opportunities Program (ESOP) erhielt er ein Stipendium, was dies ermöglichte. Im Laufe seines anschliessenden Doktorats wurde das Projekt immer grösser, Meier baute eine weltweite Community auf, um das Ziel einer professionellen Drohnen Plattform erreichen zu können.\n\nPX4 ist seit 2011 verfügbar, «seit 2014 würde ich das System als ‹fertig› bezeichnen», ergänzt der Forscher. Mittlerweile ist die dritte Generation von PX4 zur Nutzung parat.\n\nIm Laufe der Zeit wurde auch die Industrie auf dieses Projekt aufmerksam. Mit einer Donation finanzierte etwa der Internethandelsriese Amazon Prime Air die Fortführung von Meiers Doktorat. Und mit der Übernahme des Quellcodes durch Qualcomm hat PX4 den Durchbruch endgültig geschafft.\n\nAuch die Forschung arbeitet mit PX4. So verwenden mehrere ETH-Labors die Software, etwa das Autonomous Systems Lab für Atlantik Solar , das Institut für dynamische Systeme in der externe Seite Flying Machine Arena , ebenso die Robotics and Perception Group an der Universität Zürich. Aber auch Wissenschaftlerinnen und Wissenschaftler an anderen renommierten Hochschulen wie dem MIT oder Stanford benutzen PX4 für ihre Forschungsdrohnen.\n\nZwei Erfolgsfaktoren macht der Nachwuchsforscher geltend, welche zum Gelingen des Projekts beigetragen: «Einerseits unterstützt mein Professor Marc Pollefeys und die ETH insgesamt Zürich Open-Source-Bestrebungen, andererseits auch das unternehmerische Denken bei ihren Forschern, weswegen stets der Nutzen für die Industrie als Richtschnur für die Entwicklung von PX4 gewesen ist.»"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Px4",
+        "label": "ORG",
+        "start": 40,
+        "end": 43
+      },
+      {
+        "text": "Las Vegas",
+        "label": "LOC",
+        "start": 19,
+        "end": 28
+      },
+      {
+        "text": "Consumer Electronics Show",
+        "label": "MISC",
+        "start": 33,
+        "end": 58
+      },
+      {
+        "text": "Qualcomm Technologies",
+        "label": "ORG",
+        "start": 304,
+        "end": 325
+      },
+      {
+        "text": "Marktführers",
+        "label": "ORG",
+        "start": 331,
+        "end": 343
+      },
+      {
+        "text": "Drohnen-Prozessoren",
+        "label": "LOC",
+        "start": 348,
+        "end": 367
+      },
+      {
+        "text": "Elektronik-Konzern",
+        "label": "MISC",
+        "start": 404,
+        "end": 422
+      },
+      {
+        "text": "Snapdragon Flight",
+        "label": "MISC",
+        "start": 440,
+        "end": 457
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 539,
+        "end": 542
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 609,
+        "end": 619
+      },
+      {
+        "text": "Gold-Standard für Drohnensteuerungen",
+        "label": "ORG",
+        "start": 62,
+        "end": 98
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 106,
+        "end": 109
+      },
+      {
+        "text": "Android",
+        "label": "MISC",
+        "start": 218,
+        "end": 225
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 261,
+        "end": 264
+      },
+      {
+        "text": "Computer Vision and Geometry Group",
+        "label": "MISC",
+        "start": 309,
+        "end": 343
+      },
+      {
+        "text": "Marc Pollefeys",
+        "label": "PER",
+        "start": 358,
+        "end": 372
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 461,
+        "end": 464
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 804,
+        "end": 807
+      },
+      {
+        "text": "Android",
+        "label": "MISC",
+        "start": 17,
+        "end": 24
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 69,
+        "end": 72
+      },
+      {
+        "text": "Smartphone-Hersteller",
+        "label": "PER",
+        "start": 252,
+        "end": 273
+      },
+      {
+        "text": "Android",
+        "label": "PER",
+        "start": 278,
+        "end": 285
+      },
+      {
+        "text": "Anwender PX4",
+        "label": "MISC",
+        "start": 325,
+        "end": 337
+      },
+      {
+        "text": "Spezialfunktionen",
+        "label": "LOC",
+        "start": 382,
+        "end": 399
+      },
+      {
+        "text": "Kamerasteuerungen",
+        "label": "LOC",
+        "start": 406,
+        "end": 423
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 568,
+        "end": 571
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 671,
+        "end": 674
+      },
+      {
+        "text": "Initiant",
+        "label": "PER",
+        "start": 15,
+        "end": 23
+      },
+      {
+        "text": "Pixhawk",
+        "label": "LOC",
+        "start": 28,
+        "end": 35
+      },
+      {
+        "text": "Chefentwickler",
+        "label": "LOC",
+        "start": 40,
+        "end": 54
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 59,
+        "end": 62
+      },
+      {
+        "text": "ETH-Doktoranden",
+        "label": "ORG",
+        "start": 213,
+        "end": 228
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 277,
+        "end": 280
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 470,
+        "end": 473
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 503,
+        "end": 513
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 539,
+        "end": 542
+      },
+      {
+        "text": "Uni Berkeley",
+        "label": "ORG",
+        "start": 716,
+        "end": 728
+      },
+      {
+        "text": "Berkeley",
+        "label": "ORG",
+        "start": 733,
+        "end": 741
+      },
+      {
+        "text": "Distribution",
+        "label": "MISC",
+        "start": 751,
+        "end": 763
+      },
+      {
+        "text": "Pixhawk",
+        "label": "MISC",
+        "start": 126,
+        "end": 133
+      },
+      {
+        "text": "PX4 Software",
+        "label": "MISC",
+        "start": 147,
+        "end": 159
+      },
+      {
+        "text": "Jahr 2008",
+        "label": "MISC",
+        "start": 183,
+        "end": 192
+      },
+      {
+        "text": "ETH Excellence Scholarship Opportunities Program",
+        "label": "ORG",
+        "start": 282,
+        "end": 330
+      },
+      {
+        "text": "ESOP",
+        "label": "ORG",
+        "start": 332,
+        "end": 336
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 577,
+        "end": 580
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 729,
+        "end": 732
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 765,
+        "end": 769
+      },
+      {
+        "text": "Amazon Prime Air",
+        "label": "ORG",
+        "start": 887,
+        "end": 903
+      },
+      {
+        "text": "Meiers Doktorat",
+        "label": "PER",
+        "start": 924,
+        "end": 939
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 997,
+        "end": 1000
+      },
+      {
+        "text": "PX4. So",
+        "label": "PER",
+        "start": 1069,
+        "end": 1076
+      },
+      {
+        "text": "Atlantik Solar",
+        "label": "ORG",
+        "start": 1156,
+        "end": 1170
+      },
+      {
+        "text": "Institut für dynamische Systeme",
+        "label": "ORG",
+        "start": 1177,
+        "end": 1208
+      },
+      {
+        "text": "Flying Machine Arena",
+        "label": "MISC",
+        "start": 1230,
+        "end": 1250
+      },
+      {
+        "text": "Robotics and Perception Group",
+        "label": "ORG",
+        "start": 1264,
+        "end": 1293
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 1301,
+        "end": 1319
+      },
+      {
+        "text": "MIT",
+        "label": "ORG",
+        "start": 1416,
+        "end": 1419
+      },
+      {
+        "text": "Stanford",
+        "label": "ORG",
+        "start": 1425,
+        "end": 1433
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 1443,
+        "end": 1446
+      },
+      {
+        "text": "Nachwuchsforscher",
+        "label": "LOC",
+        "start": 1506,
+        "end": 1523
+      },
+      {
+        "text": "Marc Pollefeys",
+        "label": "PER",
+        "start": 1618,
+        "end": 1632
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1641,
+        "end": 1644
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 1655,
+        "end": 1661
+      },
+      {
+        "text": "PX4",
+        "label": "MISC",
+        "start": 1839,
+        "end": 1842
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Android",
+        "Initiant",
+        "Marc Pollefeys",
+        "Meiers Doktorat",
+        "PX4. So",
+        "Smartphone-Hersteller"
+      ],
+      "ORG": [
+        "Amazon Prime Air",
+        "Atlantik Solar",
+        "Berkeley",
+        "ESOP",
+        "ETH",
+        "ETH Excellence Scholarship Opportunities Program",
+        "ETH Zürich",
+        "ETH-Doktoranden",
+        "Gold-Standard für Drohnensteuerungen",
+        "Institut für dynamische Systeme",
+        "MIT",
+        "Marktführers",
+        "Px4",
+        "Qualcomm Technologies",
+        "Robotics and Perception Group",
+        "Stanford",
+        "Uni Berkeley",
+        "Universität Zürich"
+      ],
+      "LOCATION": [
+        "Chefentwickler",
+        "Drohnen-Prozessoren",
+        "Kamerasteuerungen",
+        "Las Vegas",
+        "Nachwuchsforscher",
+        "Pixhawk",
+        "Spezialfunktionen",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Android",
+        "Anwender PX4",
+        "Computer Vision and Geometry Group",
+        "Consumer Electronics Show",
+        "Distribution",
+        "Elektronik-Konzern",
+        "Flying Machine Arena",
+        "Jahr 2008",
+        "PX4",
+        "PX4 Software",
+        "Pixhawk",
+        "Snapdragon Flight",
+        "Zeit"
+      ]
+    },
+    "entity_counts": {
+      "PX4": 17,
+      "Android": 3,
+      "ETH Zürich": 2,
+      "Marc Pollefeys": 2,
+      "Pixhawk": 2,
+      "Px4": 1,
+      "Las Vegas": 1,
+      "Consumer Electronics Show": 1,
+      "Qualcomm Technologies": 1,
+      "Marktführers": 1,
+      "Drohnen-Prozessoren": 1,
+      "Elektronik-Konzern": 1,
+      "Snapdragon Flight": 1,
+      "Gold-Standard für Drohnensteuerungen": 1,
+      "Computer Vision and Geometry Group": 1,
+      "Smartphone-Hersteller": 1,
+      "Anwender PX4": 1,
+      "Spezialfunktionen": 1,
+      "Kamerasteuerungen": 1,
+      "Initiant": 1
+    },
+    "total_entities": 64,
+    "unique_entities": 43
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "drohnensteuerung-px4.md",
+      "title": "De News Events/2016/01/drohnensteuerung Px4",
+      "language": "de",
+      "source_path": "de_news_events/2016/01/drohnensteuerung-px4.html"
+    },
+    "temporal": {
+      "publication_date": "2016-01",
+      "mentioned_years": [
+        "2008",
+        "2011",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Android",
+        "Initiant",
+        "Marc Pollefeys",
+        "Meiers Doktorat",
+        "PX4. So",
+        "Smartphone-Hersteller"
+      ],
+      "people_with_roles": {
+        "Android": [
+          "professor"
+        ],
+        "Marc Pollefeys": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Android",
+        "Anwender PX4",
+        "Computer Vision and Geometry Group",
+        "Consumer Electronics Show",
+        "Distribution",
+        "Elektronik-Konzern",
+        "Flying Machine Arena",
+        "Jahr 2008",
+        "PX4 Software",
+        "Pixhawk",
+        "Snapdragon Flight",
+        "Zeit"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "App-Konzept",
+        "Jeder Drohnenhersteller",
+        "Der Quellcode",
+        "Opportunities Program",
+        "Lorenz Meier",
+        "Internethandelsriese Amazon",
+        "Machine Arena",
+        "Steuerungs-Plattform",
+        "Berkeley Software",
+        "Dieses Programm",
+        "Informatik-Doktorand",
+        "Geometry Group",
+        "Perception Group",
+        "Open Source",
+        "Mannjahre Arbeit",
+        "Die Parallele",
+        "Computer Vision",
+        "ETH-Labors",
+        "Downhill-Mountainbikern",
+        "Consumer Electronics",
+        "Qualcomm Technologies",
+        "Smartphone-Hersteller",
+        "Drohnen-Prozessoren",
+        "Professor Marc",
+        "Zwei Erfolgsfaktoren",
+        "Elektronik-Konzern",
+        "Gold-Standard",
+        "Einen Standard",
+        "Vom ETH",
+        "Software-Steuerungen",
+        "Atlantik Solar",
+        "Das Programm",
+        "Projekt Pixhawk",
+        "ETH-Doktoranden",
+        "Uni Berkeley",
+        "Meiers Doktorat",
+        "Smartphones Android",
+        "Im Laufe",
+        "Seite Flying",
+        "Autonomous Systems",
+        "Snapdragon Flight",
+        "Excellence Scholarship",
+        "Open-Source",
+        "Drohnen-Industrie",
+        "Wesentlicher Bestandteil",
+        "Drohnen Plattform",
+        "De News",
+        "Prime Air",
+        "Das Projekt",
+        "Las Vegas",
+        "ETH-Entwicklung"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Amazon Prime Air",
+        "Atlantik Solar",
+        "Berkeley",
+        "ESOP",
+        "ETH",
+        "ETH Excellence Scholarship Opportunities Program",
+        "ETH Zürich",
+        "ETH-Doktoranden",
+        "Gold-Standard für Drohnensteuerungen",
+        "Institut für dynamische Systeme",
+        "MIT",
+        "Marktführers",
+        "Px4",
+        "Qualcomm Technologies",
+        "Robotics and Perception Group",
+        "Stanford",
+        "Uni Berkeley",
+        "Universität Zürich"
+      ],
+      "locations": [
+        "Chefentwickler",
+        "Drohnen-Prozessoren",
+        "Kamerasteuerungen",
+        "Las Vegas",
+        "Nachwuchsforscher",
+        "Pixhawk",
+        "Spezialfunktionen",
+        "Zürich"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "how"
+      ],
+      "key_concepts": [
+        "PX4",
+        "Android",
+        "ETH Zürich",
+        "Marc Pollefeys",
+        "Pixhawk",
+        "Px4",
+        "Las Vegas",
+        "Consumer Electronics Show",
+        "Qualcomm Technologies",
+        "Marktführers"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Goldstandard in den nächsten Jahren",
+          "Goldstandard in den nächsten Jahren",
+          "Modularer Aufbau ist Erfolgsfaktor",
+          "Ein Wurf des ETH-Ökosystems",
+          "Aus Nebenher-Projekt wurde Grossbaustelle"
+        ],
+        "content_length": 5365
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2016",
+        "ERC",
+        "Robotics and Perception Group",
+        "2008",
+        "Gold-Standard für Drohnensteuerungen",
+        "ETH Zürich",
+        "Qualcomm Technologies",
+        "Smartphone-Hersteller",
+        "2014",
+        "Marktführers",
+        "2015",
+        "2011",
+        "ESOP",
+        "EU",
+        "Berkeley",
+        "Atlantik Solar",
+        "Meiers Doktorat",
+        "ETH-Doktoranden",
+        "Uni Berkeley",
+        "Amazon Prime Air",
+        "Initiant",
+        "Marc Pollefeys",
+        "ETH Excellence Scholarship Opportunities Program",
+        "Android",
+        "Stanford",
+        "Px4",
+        "MIT",
+        "PX4. So",
+        "Institut für dynamische Systeme",
+        "Universität Zürich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Flying Machine Arena",
+        "Consumer Electronics Show",
+        "Snapdragon Flight",
+        "Pixhawk",
+        "who",
+        "Android",
+        "Jahr 2008",
+        "Anwender PX4",
+        "how",
+        "computer_science",
+        "PX4 Software",
+        "Zeit",
+        "Computer Vision and Geometry Group",
+        "Distribution",
+        "Elektronik-Konzern"
+      ],
+      "graph_relations": [
+        "Android_has_role_professor",
+        "Marc Pollefeys_has_role_Professor",
+        "Marc Pollefeys_has_role_professor",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

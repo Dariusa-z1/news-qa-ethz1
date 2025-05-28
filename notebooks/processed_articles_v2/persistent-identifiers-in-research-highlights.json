@@ -1,0 +1,177 @@
+{
+  "filename": "persistent-identifiers-in-research-highlights.md",
+  "original_filename": "persistent-identifiers-in-research-highlights.html",
+  "source_path": "en_internal/2019/10/persistent-identifiers-in-research-highlights.html",
+  "date": "2019-10",
+  "title": "Persistent Identifiers In Research Highlights",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Already some time has passed since the event “ Persistent Identifiers in Research – Celebrating 10 Years of DOI Desk at ETH Zurich ” took place on 13 September 2019. Speakers from different fields of expertise talked about the various aspects of persistent identifiers: from current applications, developments to future initiatives.\n\n#KnowHow – ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Identifiers",
+        "label": "NORP",
+        "start": 31,
+        "end": 42
+      },
+      {
+        "text": "Persistent Identifiers in Research – Celebrating",
+        "label": "WORK_OF_ART",
+        "start": 47,
+        "end": 95
+      },
+      {
+        "text": "10 Years",
+        "label": "DATE",
+        "start": 96,
+        "end": 104
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 124,
+        "end": 130
+      },
+      {
+        "text": "13 September 2019",
+        "label": "DATE",
+        "start": 147,
+        "end": 164
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 343,
+        "end": 356
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library’s"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "10 Years",
+        "13 September 2019"
+      ],
+      "MISC": [
+        "Identifiers",
+        "Persistent Identifiers in Research – Celebrating"
+      ]
+    },
+    "entity_counts": {
+      "Identifiers": 1,
+      "Persistent Identifiers in Research – Celebrating": 1,
+      "10 Years": 1,
+      "Zurich": 1,
+      "13 September 2019": 1,
+      "ETH Library’s": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "persistent-identifiers-in-research-highlights.md",
+      "title": "En Internal/2019/10/persistent Identifiers in Research Highlights",
+      "language": "en",
+      "source_path": "en_internal/2019/10/persistent-identifiers-in-research-highlights.html"
+    },
+    "temporal": {
+      "publication_date": "2019-10",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "Identifiers",
+        "Persistent Identifiers in Research – Celebrating"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Persistent Identifiers",
+        "ETH Library",
+        "En Internal",
+        "DOI Desk",
+        "ETH Zurich",
+        "Research Highlights"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Identifiers",
+        "Persistent Identifiers in Research – Celebrating",
+        "10 Years",
+        "Zurich",
+        "13 September 2019",
+        "ETH Library’s"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 472
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "Persistent Identifiers in Research – Celebrating",
+        "who",
+        "where",
+        "what",
+        "how",
+        "Identifiers",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "filename": "this-researcher-reads-rivers.md",
+  "original_filename": "this-researcher-reads-rivers.html",
+  "source_path": "en_news_events/2024/06/this-researcher-reads-rivers.html",
+  "date": "2024-06",
+  "title": "This Researcher Reads Rivers",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A sensor to measure water quality",
+      "text": "Jessica Droujko is passionate about water – and rivers in particular. The Canadian scientist was born along the Niagara River, spent her summers on the Ottawa River and earned her Bachelor‘s degree in Montreal, where two rivers merge to create the great St. Lawrence River. She came to ETH Zurich for her Master’s studies and fell in love with Switzerland and its rivers, prompting her to do her doctorate at the Department Of Civil, Environmental and Geomatic Engineering. During this time, she developed the foundation for her start-up Riverkin, which measures and analyses the quality of river water.\n\nIt was a pure coincidence, says Droujko: “I studied combustion engines and reactive flows but wasn’t sure if that was the right topic for me. At that time, I felt very drawn to climate and environmental topics.” As a longtime kayaker, she had many friends in fields such as geomorphology, river biodiversity and biogeochemistry. “I asked some of them what they would need for their research, and they told me I should develop a turbidity sensor,” she says. It soon became apparent that turbidity had nothing to do with turbulence, as Droujko first suspected. She would have known quite a bit about turbulence, but the turbidity of rivers was something she had never thought about."
+    },
+    {
+      "heading": "A sensor to measure water quality",
+      "text": "Rivers become cloudy – or turbid – when the water transports a lot of fine sediment. This means that turbid river water can be an indicator of disruptions to river systems, for instance, via heavy precipitation or from mining or agriculture. However, fine suspended sediment from rivers is also important in regulating the balance of nutrients such as phosphorous, nitrogen and silica. The balance of material in a river therefore serves as a measure of the ecological quality of the water and the health of the river. As part of her doctoral thesis, Droujko developed a sensor that can measure turbidity of this kind.\n\nHer sensor is not only robust and energy efficient but is also easy to install compared to conventional measuring stations that have to be attached to the riverbed with cement. The sensors measure water flow, temperature and fine sediment concentration. Unlike most commercial sensors, which are capable of measuring 0 to 1.5 grams of sediment per litre of water, Droujko’s model can measure up to 20 grams per litre. “Rivers are living, unpredictable ecosystems,” she explains. “In the event of heavy rainfall or strong releases from power plants, the water parameters often change abruptly. That’s why we need a large but precise range of measurement.”"
+    },
+    {
+      "heading": "Holistic approach for intelligent water management",
+      "text": "Measuring water quality using the hardware developed by Droujko – the sensor Ecosystem – is just the first step. She also wants to aggregate all of the data from her sensors into a central database, which is currently under development, and ultimately use her start-up Riverkin to change peoples’ perception of rivers and enable positive change in our water systems and the communities around them.\n\nIn the future, Droujko plans to analyse this water data to support customers with intelligent water management and decision-making where customers would feel empowered to work with the water cycle and not against it. This can take the form of understanding and reacting to the effects of natural disasters such as landslides, complying with environmental regulations or successfully integrating restoration targets. The market potential is great, as rivers and water management issues are everywhere, and some of these issues are set to intensify in the future. Droujko’s first target group is the hydroelectric sector. Mining, agriculture and irrigation are also of interest for Riverkin. Surface and groundwater are poised to be the biggest growth sector over the next decade.\n\nDroujko also licences the data to up-and-coming companies that are specialised in AI-supported biodiversity monitoring. “Many use satellite images but don’t have any data taken on site,” she says. “Here we can help and create extra added value.” For example, historical temperature, water level and turbidity data provide insights into the complex interactions between land cover and water quality that affect terrestrial and freshwater ecosystems. Droujko’s start-up can help these companies enable stakeholders to make more informed decisions that promote sustainable land use and conservation practices."
+    },
+    {
+      "heading": "Student Project House as a springboard",
+      "text": "During her time at ETH, Droujko had a particularly valuable experience at the Student Project House, where she developed her first sensor. “I’m still excited about what was on offer,” she states. “Students not only receive coaching but also get a lot of opportunities to learn the ropes of entrepreneurship.”\n\nThe Student Project House is always on the hunt for doctoral students who want to turn their research into a marketable idea, she says. According to Droujko, many doctoral students find the idea of developing a product or service from their PhD research almost impossible. However, she encourages them to explore their options, noting that the Student Project House could help with this process."
+    },
+    {
+      "heading": "Curiosity and openness as cornerstones of success",
+      "text": "“Of course, you need the right mentors,” says Droujko. In her case, it was Peter Molnár, her PhD supervisor at the Institute of Environmental Engineering, who played a decisive role in her journey. Molnár believed in the potential of her idea and helped her win an ETH Research Grant to conduct her PhD and develop the sensor. “There’s always room for innovation,” she says. “You just have to be brave and take the first step.”\n\nShe advises Bachelor’s students to be fearless and inquisitive when it comes to their interests. “I’ve learned that opportunities arise from a combination of preparation and openness to new possibilities,” she says.\n\nDroujko J, Molnar P: Open-source, low-cost, in-situ turbidity sensor for river network monitoring. Scientific Reports, 20. Juni 2022, doi: 10.1038/s41598-022-14228-4"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Jessica Droujko",
+        "label": "PERSON",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Canadian",
+        "label": "NORP",
+        "start": 74,
+        "end": 82
+      },
+      {
+        "text": "the Niagara River",
+        "label": "LOC",
+        "start": 108,
+        "end": 125
+      },
+      {
+        "text": "the Ottawa River",
+        "label": "LOC",
+        "start": 148,
+        "end": 164
+      },
+      {
+        "text": "Bachelor‘s degree",
+        "label": "QUANTITY",
+        "start": 180,
+        "end": 197
+      },
+      {
+        "text": "Montreal",
+        "label": "GPE",
+        "start": 201,
+        "end": 209
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 217,
+        "end": 220
+      },
+      {
+        "text": "St. Lawrence River",
+        "label": "LOC",
+        "start": 254,
+        "end": 272
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 286,
+        "end": 296
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 344,
+        "end": 355
+      },
+      {
+        "text": "the Department Of Civil, Environmental and",
+        "label": "ORG",
+        "start": 409,
+        "end": 451
+      },
+      {
+        "text": "Geomatic Engineering",
+        "label": "ORG",
+        "start": 452,
+        "end": 472
+      },
+      {
+        "text": "Riverkin",
+        "label": "PERSON",
+        "start": 538,
+        "end": 546
+      },
+      {
+        "text": "Droujko",
+        "label": "PERSON",
+        "start": 636,
+        "end": 643
+      },
+      {
+        "text": "Droujko",
+        "label": "PERSON",
+        "start": 1138,
+        "end": 1145
+      },
+      {
+        "text": "Droujko",
+        "label": "PERSON",
+        "start": 551,
+        "end": 558
+      },
+      {
+        "text": "0 to 1.5 grams",
+        "label": "QUANTITY",
+        "start": 936,
+        "end": 950
+      },
+      {
+        "text": "Droujko",
+        "label": "PERSON",
+        "start": 983,
+        "end": 990
+      },
+      {
+        "text": "20 grams",
+        "label": "QUANTITY",
+        "start": 1017,
+        "end": 1025
+      },
+      {
+        "text": "Droujko",
+        "label": "PERSON",
+        "start": 56,
+        "end": 63
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 101,
+        "end": 106
+      },
+      {
+        "text": "Riverkin",
+        "label": "PERSON",
+        "start": 269,
+        "end": 277
+      },
+      {
+        "text": "Droujko",
+        "label": "PERSON",
+        "start": 414,
+        "end": 421
+      },
+      {
+        "text": "Droujko",
+        "label": "PERSON",
+        "start": 961,
+        "end": 968
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 971,
+        "end": 976
+      },
+      {
+        "text": "Riverkin",
+        "label": "PERSON",
+        "start": 1079,
+        "end": 1087
+      },
+      {
+        "text": "the next decade",
+        "label": "DATE",
+        "start": 1161,
+        "end": 1176
+      },
+      {
+        "text": "Droujko",
+        "label": "PERSON",
+        "start": 1178,
+        "end": 1185
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 1260,
+        "end": 1262
+      },
+      {
+        "text": "Droujko",
+        "label": "PERSON",
+        "start": 1627,
+        "end": 1634
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "Droujko",
+        "label": "PERSON",
+        "start": 24,
+        "end": 31
+      },
+      {
+        "text": "the Student Project House",
+        "label": "ORG",
+        "start": 74,
+        "end": 99
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 125,
+        "end": 130
+      },
+      {
+        "text": "The Student Project House",
+        "label": "ORG",
+        "start": 309,
+        "end": 334
+      },
+      {
+        "text": "Droujko",
+        "label": "PERSON",
+        "start": 458,
+        "end": 465
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 550,
+        "end": 553
+      },
+      {
+        "text": "the Student Project House",
+        "label": "ORG",
+        "start": 649,
+        "end": 674
+      },
+      {
+        "text": "Droujko",
+        "label": "PERSON",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "text": "Peter Molnár",
+        "label": "PERSON",
+        "start": 75,
+        "end": 87
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 93,
+        "end": 96
+      },
+      {
+        "text": "the Institute of Environmental Engineering",
+        "label": "ORG",
+        "start": 111,
+        "end": 153
+      },
+      {
+        "text": "Molnár",
+        "label": "PERSON",
+        "start": 198,
+        "end": 204
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 299,
+        "end": 302
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 415,
+        "end": 420
+      },
+      {
+        "text": "Bachelor",
+        "label": "ORG",
+        "start": 440,
+        "end": 448
+      },
+      {
+        "text": "Droujko J",
+        "label": "PERSON",
+        "start": 644,
+        "end": 653
+      },
+      {
+        "text": "Scientific Reports",
+        "label": "ORG",
+        "start": 743,
+        "end": 761
+      },
+      {
+        "text": "Juni 2022",
+        "label": "DATE",
+        "start": 767,
+        "end": 776
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 783,
+        "end": 790
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Droujko",
+        "Droujko J",
+        "ETH Zurich",
+        "Jessica Droujko",
+        "Molnár",
+        "Peter Molnár",
+        "Riverkin"
+      ],
+      "ORG": [
+        "Bachelor",
+        "ETH",
+        "Geomatic Engineering",
+        "Scientific Reports",
+        "The Student Project House",
+        "the Department Of Civil, Environmental and",
+        "the Institute of Environmental Engineering",
+        "the Student Project House"
+      ],
+      "LOCATION": [
+        "AI",
+        "Montreal",
+        "St. Lawrence River",
+        "Switzerland",
+        "the Niagara River",
+        "the Ottawa River"
+      ],
+      "DATE": [
+        "Juni 2022",
+        "the next decade"
+      ],
+      "MISC": [
+        "0 to 1.5 grams",
+        "10.1038",
+        "20 grams",
+        "Bachelor‘s degree",
+        "Canadian",
+        "PhD",
+        "first",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Droujko": 12,
+      "first": 4,
+      "Riverkin": 3,
+      "PhD": 3,
+      "the Student Project House": 2,
+      "Jessica Droujko": 1,
+      "Canadian": 1,
+      "the Niagara River": 1,
+      "the Ottawa River": 1,
+      "Bachelor‘s degree": 1,
+      "Montreal": 1,
+      "two": 1,
+      "St. Lawrence River": 1,
+      "ETH Zurich": 1,
+      "Switzerland": 1,
+      "the Department Of Civil, Environmental and": 1,
+      "Geomatic Engineering": 1,
+      "0 to 1.5 grams": 1,
+      "20 grams": 1,
+      "the next decade": 1
+    },
+    "total_entities": 50,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "this-researcher-reads-rivers.md",
+      "title": "En News Events/2024/06/this Researcher Reads Rivers",
+      "language": "en",
+      "source_path": "en_news_events/2024/06/this-researcher-reads-rivers.html"
+    },
+    "temporal": {
+      "publication_date": "2024-06",
+      "mentioned_years": [
+        "2022",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Droujko",
+        "Droujko J",
+        "ETH Zurich",
+        "Jessica Droujko",
+        "Molnár",
+        "Peter Molnár",
+        "Riverkin"
+      ],
+      "people_with_roles": {
+        "Droujko": [
+          "researcher",
+          "student"
+        ],
+        "Jessica Droujko": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "0 to 1.5 grams",
+        "10.1038",
+        "20 grams",
+        "Bachelor‘s degree",
+        "Canadian",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "grant"
+      ],
+      "projects": [
+        "Lawrence River",
+        "Project House",
+        "Researcher Reads",
+        "En News",
+        "Molnar P",
+        "Niagara River",
+        "Scientific Reports",
+        "Ottawa River",
+        "Rivers Jessica",
+        "The Student",
+        "The Canadian",
+        "Geomatic Engineering",
+        "ETH Zurich",
+        "Droujko J",
+        "Department Of",
+        "Student Project",
+        "ETH Research",
+        "Environmental Engineering"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Civil"
+      ],
+      "institutions": [
+        "Bachelor",
+        "ETH",
+        "Geomatic Engineering",
+        "Scientific Reports",
+        "The Student Project House",
+        "the Department Of Civil, Environmental and",
+        "the Institute of Environmental Engineering",
+        "the Student Project House"
+      ],
+      "locations": [
+        "AI",
+        "Montreal",
+        "St. Lawrence River",
+        "Switzerland",
+        "the Niagara River",
+        "the Ottawa River"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Droujko",
+        "first",
+        "Riverkin",
+        "PhD",
+        "the Student Project House",
+        "Jessica Droujko",
+        "Canadian",
+        "the Niagara River",
+        "the Ottawa River",
+        "Bachelor‘s degree"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "A sensor to measure water quality",
+          "A sensor to measure water quality",
+          "Holistic approach for intelligent water management",
+          "Student Project House as a springboard",
+          "Curiosity and openness as cornerstones of success"
+        ],
+        "content_length": 5917
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "grant",
+        "the Department Of Civil, Environmental and",
+        "Bachelor",
+        "Molnár",
+        "ERC",
+        "Scientific Reports",
+        "2022",
+        "The Student Project House",
+        "Droujko",
+        "EU",
+        "the Student Project House",
+        "Droujko J",
+        "2024",
+        "Riverkin",
+        "Peter Molnár",
+        "Geomatic Engineering",
+        "ETH Zurich",
+        "Jessica Droujko",
+        "the Institute of Environmental Engineering"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "0 to 1.5 grams",
+        "who",
+        "10.1038",
+        "when",
+        "what",
+        "how",
+        "medical_research",
+        "Bachelor‘s degree",
+        "Canadian",
+        "why",
+        "20 grams",
+        "where"
+      ],
+      "graph_relations": [
+        "Droujko_has_role_researcher",
+        "Droujko_has_role_student",
+        "Jessica Droujko_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1214 @@
+{
+  "filename": "eth-forschende-entwickeln-den-schnellstmoeglichen-fluss-algorithmus.md",
+  "original_filename": "eth-forschende-entwickeln-den-schnellstmoeglichen-fluss-algorithmus.html",
+  "source_path": "de_news_events/2024/06/eth-forschende-entwickeln-den-schnellstmoeglichen-fluss-algorithmus.html",
+  "date": "2024-06",
+  "title": "Eth Forschende Entwickeln Den Schnellstmoeglichen Fluss Algorithmus",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "In Kürze",
+      "text": "- Informatiker der ETH Zürich haben einen Netzwerkfluss-Algorithmus geschrieben, der fast so schnell rechnet wie das mathematisch überhaupt möglich ist.\n\n- Dieser Algorithmus berechnet den maximalen Verkehrsfluss bei minimalen Transportkosten für jegliche Art von Netzwerk. Damit löst er eine umfassende Schlüsselfrage der Theoretischen Informatik.\n\n- Der superschnelle Algorithmus legt auch eine Grundlage, um künftig sehr grosse und dynamisch wandelbare Netzwerke effizient zu berechnen."
+    },
+    {
+      "heading": "Er rechnet so schnell wie ein Netz gross ist",
+      "text": "Dieser Durchbruch klingt fast nach Lucky Luke, dem Mann, der schneller schiesst als sein Schatten. Rasmus Kyng und sein Team haben einen superschnellen Algorithmus entwickelt, der ein ganzes Forschungsgebiet verändern dürfte. Genau genommen hat Kyngs Team einen so genannten Netzwerkfluss-Algorithmus geschrieben, der die Frage beantwortet: «Wie lässt sich in einem Netzwerk ein maximaler Verkehrsfluss bei zugleich minimalen Transportkosten erreichen?»\n\nStellen Sie sich vor, Sie benutzen das europäische Verkehrsnetz und wollen den schnellsten und billigsten Weg finden, um möglichst viele Güter von Kopenhagen nach Mailand zu transportieren. Für solche Fälle berechnet Kyngs Algorithmus den optimalen und kostengünstigsten Verkehrsfluss, und zwar für jede Art von Netzwerk, egal, ob Schiene, Strasse, Wasser oder Internet. Sein Algorithmus rechnet nun so schnell, dass er bereits im selben Moment, in dem ein Computer überhaupt erst die Daten gelesen hat, die das Netzwerk beschreiben, auch schon die Lösung präsentiert."
+    },
+    {
+      "heading": "Er rechnet so schnell wie ein Netz gross ist",
+      "text": "Das hat vor Rasmus Kyng noch niemand geschafft. Obwohl seit rund 90 Jahren an diesem Problem geforscht wird. Bislang dauerte die Berechnung des optimalen Verkehrsflusses immer deutlich länger als die Verarbeitung der Netzwerkdaten. Es war sogar so, dass die benötigte Rechenzeit mit zunehmender Grösse und Komplexität eines Netzwerks vergleichsweise noch viel stärker anwuchs als die eigentliche Grösse des jeweiligen Rechenproblems. Deshalb gibt es auch Flussprobleme in Netzwerken, die zu gross sind, als dass sie ein Computer überhaupt berechnen könnte.\n\nBei Rasmus Kyng ist das nicht so: bei seinem Algorithmus wächst die Rechenzeit im selben Mass an, wie die Grösse des Netzwerks zunimmt – das ist etwa so, wie wenn Sie sich auf eine Bergwanderung begeben und ihr Schritttempo lässt keine Minute nach, selbst wenn der Wanderweg immer steiler wird! Diese Leistung spiegelt sich in den nackten Zahlen: Bis zur Jahrtausendwende schaffte es kein Algorithmus schneller zu rechnen als m 1,5 , wobei m für die Anzahl Verbindungen in einem Netz steht, die der Computer berechnen muss – und nur schon die Netzwerkdaten einmal zu lesen, nimmt m Zeit in Anspruch. Ab 2004 gelang es, die zur Problemlösung benötigte Rechenzeit auf m 1,33 zu senken. Mit dem Algorithmus von Kyng ist nun die «zusätzliche» erforderliche Rechenzeit, um nach dem Lesen der Netzdaten eine Lösung zu erhalten, schlicht vernachlässigbar."
+    },
+    {
+      "heading": "Wie ein Porsche gegen Pferdekutschen",
+      "text": "Damit haben die ETH-Forschenden den theoretisch schnellstmöglichen Netzwerkfluss-Algorithmus entwickelt. Den mathematischen Beweis dafür haben Rasmus Kyng und sein Team vor zwei Jahren in einem bahnbrechenden Paper erbracht. In der Fachsprache heissen die neuartigen, nahezu optimal schnellen Algorithmen auch «fast-linearzeitliche Algorithmen». Die Gemeinschaft der theoretischen Informatiker:innen jedenfalls hat positiv überrascht und begeistert auf Kyngs Durchbruch reagiert.\n\nKyngs Doktorvater Daniel A. Spielman, Mathematik- und Informatikprofessor in Yale und selbst ein Pionier und Doyen auf diesem Gebiet, verglich den «absurd schnellen» Algorithmus mit einem Porsche, der Pferdekutschen überholt. Ihre Arbeit wurde 2022 am «Annual IEEE Symposium on Foundations of Computer Science» als das beste Paper ausgezeichnet sowie vom Informatik-Journal «Communications of the ACM» als Highlight gewürdigt, und das populärwissenschaftliche «Quanta Magazine» zählte Kyngs Algorithmus zu den externe Seite zehn grössten Entdeckungen des Jahres 2022 in der Informatik .\n\nSeither haben die ETH-Forschenden ihren Ansatz verfeinert und weitere fast-linearzeitliche Algorithmen entwickelt. Zum Beispiel bezog sich der erste Algorithmus noch auf unveränderliche, statische Netze, deren Verbindungen gerichtet sind, also wie Einbahnstrassen in städtischen Strassennetzen funktionieren. Die in diesem Jahr veröffentlichten Algorithmen können nun auch optimale Flüsse für Netzwerke berechnen, die sich schrittweise mit der Zeit verändern. Namentlich für sehr komplexe und sehr datenreiche Netzwerke, die sich – wie in der Biologie etwa Moleküle oder das Hirn oder wie menschliche Freundschaftsbeziehungen – dynamisch und sehr schnell verändern, wird eine blitzschnelle Berechnung ein wichtiger Schritt."
+    },
+    {
+      "heading": "Blitzschnelle Algorithmen für wandelbare Netzwerke",
+      "text": "Am Donnerstag nun hat Simon Meierhans aus Kyngs Team in Vancouver am «Annual ACM Symposium on Theory of Computing (STOC)» einen neuen fast-linearzeitlichen Algorithmen vorgestellt. Dieser löst das Minimum-Cost-Maximum-Flow-Problem auch für Netzwerke, die sich schrittweise verändern, indem neue Verbindungen dazukommen. In einem zweiten Paper, das das «IEEE Symposium on Foundations of Computer Science (FOCS)» vom nächsten Oktober angenommen hat, haben die ETH-Forscher zudem einen weiteren Algorithmus entwickelt, der auch das Entfernen von Verbindungen berücksichtigt.\n\nDiese Algorithmen ermitteln die kürzesten Routen namentlich in Netzen, in denen Verbindungen hinzugefügt oder entfernt werden. In realen Verkehrsnetzen treten solche Veränderungen zum Beispiel dann auf, wenn wie seit dem Sommer 2023 der Gotthard-Basistunnel zunächst ganz und dann teilweise gesperrt ist oder wenn aktuell ein Erdrutsch einen Teil der Nationalstrasse A13 zerstört, welche die wichtigste Alternativroute zum Gotthard-Strassentunnel ist.\n\nWie berechnet in solchen Fällen ein Computer, ein Online-Kartendienst oder Verkehrsroutenplaner die schnellste und günstigste Verbindung zwischen Mailand und Kopenhagen? Kyngs neue Algorithmen berechnen die optimale Route für diese schrittweise sich verändernden Netzwerke ebenfalls in fast linearer Zeit, also so schnell, dass die Rechenzeit für jede neu – durch Umleitung oder Neubau – hinzukommende Verbindung wiederum vernachlässigbar ist."
+    },
+    {
+      "heading": "Nicht nur schnell, sondern auch umfassend",
+      "text": "Was genau macht nun Kyngs Berechnungsmethode so viel schneller als alle anderen Netzwerkfluss-Algorithmen? Im Prinzip kennen alle Berechnungsansätze die Herausforderung, dass sie das Netzwerk in mehreren Iterationen durchrechnen müssen, um den optimalen Fluss und die günstigste Route zu finden. Dabei rechnen sie jeweils die verschiedenen Varianten durch, welche Verbindungen offen, gesperrt oder verstopft sind, wenn sie ihre Kapazitätsgrenze erreicht haben."
+    },
+    {
+      "heading": "Was berechnen? Das Ganze oder seine Teile?",
+      "text": "Vor Rasmus Kyng gab es hauptsächlich zwei Lösungsstrategien: die eine orientierte sich am Eisenbahnnetz und berechnete jeweils pro Iteration eine ganze Teilstrecke mit verändertem Verkehrsfluss. Die andere war vom elektrischen Fluss im Stromnetz inspiriert. Sie berechnete pro Iteration jeweils das gesamte Netzwerk, verwendete jedoch für den veränderten Fluss einer Teilstrecke jeweils statistische Mittelwerte, um schneller zu rechnen."
+    },
+    {
+      "heading": "Am Wendepunkt der theoretischen Grundlagen",
+      "text": "Rasmus Kyngs Team berücksichtigt nun die jeweiligen Vorzüge von beiden Vorgehensweisen und verbindet sie zu einem radikal neuen Ansatz. «Unser Ansatz beruht auf sehr vielen kleinen, effizienten und günstigen Rechenschritten, die insgesamt viel schneller sind als wenige grosse», sagt Maximilian Probst Gutenberg, Dozent und Mitarbeiter in Kyngs Gruppe, der massgeblich zur Entwicklung der fast-linearzeitlichen Algorithmen beigetragen hat.\n\nDer Blick in die Fachgeschichte offenbart zusätzliche Dimensionen der Tragweite von Rasmus Kyngs Durchbruch: Immerhin zählten Flussprobleme in Netzwerken zu den ersten, die in den 1950er-Jahren mit Hilfe von Algorithmen systematisch gelöst wurden, und Fluss-Algorithmen spielten eine wichtige Rolle, dass sich die theoretische Informatik als eigenes Forschungsgebiet etablierte. Aus dieser Zeit stammt der bekannte Algorithmus der Mathematiker Lester R. Ford Jr. und Delbert R. Fulkerson, der das Problem des maximalen Flusses effizient löst, d.h. wie sich möglichst viele Güter durch ein Netzwerk transportieren lassen, ohne die Kapazitätsgrenzen der einzelnen Routen zu überschreiten."
+    },
+    {
+      "heading": "Nicht nur schnell, sondern auch umfassend",
+      "text": "Seit damals ist bekannt, dass die wichtigen Netzwerkflussprobleme wie das Maximalfluss-Problem, das Minimalkosten-Problem (sog. Umlade- oder Transportproblem) und weitere im Prinzip Spezialfälle des umfassenden Minimum-cost flow-Problems darstellen. Vor Rasmus Kyng schafften es die meisten Algorithmen nur, eines dieser Teilprobleme effizient zu lösen. Sie waren jedoch weder besonders schnell noch liessen sie sich auf das umfassendere Min-Cost-Flow-Problem ausweiten. Das gilt auch für die wegweisenden Flussalgorithmen der 1970er-Jahre, für die die theoretischen Informatiker John Edward Hopcroft, Richard Manning Karp und Robert Endre Tarjan 1985 und 1986 den Turing-Award gewannen, der als Nobelpreis der Informatik gilt.\n\nErst 2004 gelang es den Mathematikern und Informatikern Daniel Spielman und Shang-Hua Teng sowie später Samuel Daitch solche Algorithmen zu schreiben, die auch das Minimum-Cost Flow Problem schnell und effizient lösten. Sie waren es auch, die sich am elektrischen Fluss im Stromnetz orientierten. Ihr Perspektivenwechsel von der Schiene zum Strom führte mathematisch zu einem erheblichen Unterschied: Wird im Eisenbahnnetz ein Zug umgeleitet, weil eine Strecke ausfällt, kann es vorkommen, dass die nächstbeste Strecke laut Fahrplan bereits von einem anderen Zug belegt ist. Im Stromnetz hingegen ist es möglich, dass die Elektronen, die den Stromfluss bilden, teilweise auf eine Netzverbindung umgeleitet werden, durch die bereits anderer Strom fliesst. Im Unterschied zu den Zügen lässt sich der Strom somit mathematisch «teilweise» auf eine neue Verbindung verlegen.\n\nDiese partielle Umleitung ermöglichte es Spielman und seinen Kollegen, solche Streckenänderungen viel schneller zu berechnen und zugleich bei jeder Änderung auch das ganze Netzwerk zu rechnen. «Wir verwarfen Spielmans Ansatz, möglichst leistungsstarke Algorithmen für das ganze Netzwerk zu entwerfen», sagt Rasmus Kyng, «vielmehr übertrugen wir seine Idee der teilweisen Streckenberechnung auf die früheren Ansätze von Hopcroft und Karp.» Diese partielle Streckenberechnung pro Iteration trug viel dazu bei, die Gesamtflussberechnung zu beschleunigen.\n\nEntscheidend für den Fortschritt der ETH-Forschenden ist, dass er sich nicht auf die Entwicklung neuer Algorithmen beschränkt. Vielmehr nutzen und entwerfen sie auch neue mathematische Tools, die ihre Algorithmen zusätzlich beschleunigen. Namentlich entwickelten sie eine neue Datenstruktur, die die Netzwerkdaten so organisiert, dass sich jede Änderung einer Verbindung im Netzwerk extrem schnell finden lässt und so zu der superschnellen algorithmischen Lösung beiträgt. Da es für die fast-linearzeitlichen Algorithmen und für Tools wie die neue Datenstruktur viele Anwendungen gibt, dürfte sich die Innovationsspirale auch insgesamt schon bald viel schneller drehen als bisher.\n\nDie deutlich schnelleren Fluss-Algorithmen legen jedenfalls nicht nur den Grund, um auch sehr grosse, bislang oft nicht effizient berechenbare Probleme zu lösen, sondern sie verändern auch die Art und Weise, wie Computer überhaupt komplexe Aufgaben berechnen. «In den letzten zehn Jahren gab es eine Revolution in den theoretischen Grundlagen für erwiesenermassen schnelle Algorithmen für grundlegende Probleme der theoretischen Informatik», externe Seite schreibt dazu eine internationale Gruppe von Forschenden der Berkeley Universität, der auch Rasmus Kyng und Deeksha Adil, Forscherin am Institut für Theoretische Studien der ETH Zürich, angehören.\n\nvan den Brand, J, Chen, L, Kyng, R, Liu, YP, Meierhans, S, Probst Gutenberg, M, Sachdeva, S. Almost-Linear Time Algorithms for Decremental Graphs: Min-Cost Flow and More via Duality. 65th IEEE Symposium on Foundations of Computer Science (FOCS) 2024. externe Seite https://focs.computer.org/2024/accepted-papers-for-focs-2024/\n\nChen, L, Kyng, R, Liu, YP, Meierhans, S, Probst Gutenberg, M. Almost-Linear Time Algorithms for Incremental Graphs: Cycle Detection, SCCs, s-t Shortest Path, and Minimum-Cost Flow. Proceedings of the 56th Annual ACM Symposium on Theory of Computing, June 2024 (STOC 2024). doi: externe Seite https://doi.org/10.1145/3618260.3649745 .\n\nChen, L, Kyng, R, Liu, YP, Peng, R, Probst Gutenberg, M, Sachdeva, S, Kyng, R. Maximum Flow and Minimum-Cost Flow in Almost-Linear Time. 2022 IEEE 63rd Annual Symposium on Foundations of Computer Science (FOCS), Denver, CO, USA, 2022. doi: externe Seite 10.1109/FOCS54457.2022.00064 ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Entwickeln",
+        "label": "LOC",
+        "start": 38,
+        "end": 48
+      },
+      {
+        "text": "Schnellstmoeglichen",
+        "label": "LOC",
+        "start": 53,
+        "end": 72
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 19,
+        "end": 29
+      },
+      {
+        "text": "Der superschnelle Algorithmus",
+        "label": "MISC",
+        "start": 350,
+        "end": 379
+      },
+      {
+        "text": "Lucky Luke",
+        "label": "MISC",
+        "start": 35,
+        "end": 45
+      },
+      {
+        "text": "Mann",
+        "label": "PER",
+        "start": 51,
+        "end": 55
+      },
+      {
+        "text": "Rasmus Kyng",
+        "label": "PER",
+        "start": 99,
+        "end": 110
+      },
+      {
+        "text": "Kyngs Team",
+        "label": "ORG",
+        "start": 245,
+        "end": 255
+      },
+      {
+        "text": "europäische",
+        "label": "MISC",
+        "start": 493,
+        "end": 504
+      },
+      {
+        "text": "Kopenhagen",
+        "label": "LOC",
+        "start": 601,
+        "end": 611
+      },
+      {
+        "text": "Mailand",
+        "label": "LOC",
+        "start": 617,
+        "end": 624
+      },
+      {
+        "text": "Kyngs",
+        "label": "PER",
+        "start": 671,
+        "end": 676
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 815,
+        "end": 823
+      },
+      {
+        "text": "Rasmus Kyng",
+        "label": "PER",
+        "start": 12,
+        "end": 23
+      },
+      {
+        "text": "Netzwerken",
+        "label": "LOC",
+        "start": 472,
+        "end": 482
+      },
+      {
+        "text": "Rasmus Kyng",
+        "label": "MISC",
+        "start": 561,
+        "end": 572
+      },
+      {
+        "text": "m Zeit",
+        "label": "LOC",
+        "start": 1137,
+        "end": 1143
+      },
+      {
+        "text": "Netzdaten",
+        "label": "LOC",
+        "start": 1344,
+        "end": 1353
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 16,
+        "end": 31
+      },
+      {
+        "text": "Rasmus Kyng",
+        "label": "PER",
+        "start": 143,
+        "end": 154
+      },
+      {
+        "text": "Fachsprache",
+        "label": "LOC",
+        "start": 232,
+        "end": 243
+      },
+      {
+        "text": "Kyngs",
+        "label": "ORG",
+        "start": 480,
+        "end": 485
+      },
+      {
+        "text": "Daniel A. Spielman",
+        "label": "PER",
+        "start": 498,
+        "end": 516
+      },
+      {
+        "text": "Yale",
+        "label": "ORG",
+        "start": 557,
+        "end": 561
+      },
+      {
+        "text": "Doyen",
+        "label": "LOC",
+        "start": 589,
+        "end": 594
+      },
+      {
+        "text": "Porsche",
+        "label": "ORG",
+        "start": 668,
+        "end": 675
+      },
+      {
+        "text": "Informatik-Journal",
+        "label": "MISC",
+        "start": 835,
+        "end": 853
+      },
+      {
+        "text": "Quanta Magazine",
+        "label": "ORG",
+        "start": 941,
+        "end": 956
+      },
+      {
+        "text": "Kyngs",
+        "label": "PER",
+        "start": 965,
+        "end": 970
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 1085,
+        "end": 1100
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 1511,
+        "end": 1515
+      },
+      {
+        "text": "Simon Meierhans",
+        "label": "PER",
+        "start": 22,
+        "end": 37
+      },
+      {
+        "text": "Kyngs Team",
+        "label": "ORG",
+        "start": 42,
+        "end": 52
+      },
+      {
+        "text": "Vancouver",
+        "label": "LOC",
+        "start": 56,
+        "end": 65
+      },
+      {
+        "text": "STOC",
+        "label": "ORG",
+        "start": 115,
+        "end": 119
+      },
+      {
+        "text": "IEEE Symposium on Foundations of Computer Science",
+        "label": "MISC",
+        "start": 353,
+        "end": 402
+      },
+      {
+        "text": "FOCS",
+        "label": "ORG",
+        "start": 404,
+        "end": 408
+      },
+      {
+        "text": "ETH-Forscher",
+        "label": "MISC",
+        "start": 458,
+        "end": 470
+      },
+      {
+        "text": "Netzen",
+        "label": "LOC",
+        "start": 635,
+        "end": 641
+      },
+      {
+        "text": "Gotthard-Basistunnel",
+        "label": "LOC",
+        "start": 809,
+        "end": 829
+      },
+      {
+        "text": "Nationalstrasse A13",
+        "label": "LOC",
+        "start": 923,
+        "end": 942
+      },
+      {
+        "text": "Gotthard-Strassentunnel",
+        "label": "LOC",
+        "start": 995,
+        "end": 1018
+      },
+      {
+        "text": "Online-Kartendienst",
+        "label": "MISC",
+        "start": 1074,
+        "end": 1093
+      },
+      {
+        "text": "Mailand",
+        "label": "LOC",
+        "start": 1170,
+        "end": 1177
+      },
+      {
+        "text": "Kopenhagen",
+        "label": "LOC",
+        "start": 1182,
+        "end": 1192
+      },
+      {
+        "text": "Kyngs",
+        "label": "ORG",
+        "start": 20,
+        "end": 25
+      },
+      {
+        "text": "Netzwerkfluss-Algorithmen",
+        "label": "MISC",
+        "start": 80,
+        "end": 105
+      },
+      {
+        "text": "Berechnungsansätze",
+        "label": "LOC",
+        "start": 130,
+        "end": 148
+      },
+      {
+        "text": "Rasmus Kyng",
+        "label": "PER",
+        "start": 4,
+        "end": 15
+      },
+      {
+        "text": "Maximilian Probst Gutenberg",
+        "label": "PER",
+        "start": 284,
+        "end": 311
+      },
+      {
+        "text": "Kyngs Gruppe",
+        "label": "ORG",
+        "start": 339,
+        "end": 351
+      },
+      {
+        "text": "Rasmus Kyngs",
+        "label": "PER",
+        "start": 524,
+        "end": 536
+      },
+      {
+        "text": "Netzwerken",
+        "label": "LOC",
+        "start": 583,
+        "end": 593
+      },
+      {
+        "text": "Lester R. Ford Jr.",
+        "label": "PER",
+        "start": 884,
+        "end": 902
+      },
+      {
+        "text": "Delbert R. Fulkerson",
+        "label": "PER",
+        "start": 907,
+        "end": 927
+      },
+      {
+        "text": "Minimalkosten-Problem",
+        "label": "LOC",
+        "start": 100,
+        "end": 121
+      },
+      {
+        "text": "Minimum-cost flow-Problems",
+        "label": "ORG",
+        "start": 211,
+        "end": 237
+      },
+      {
+        "text": "Rasmus Kyng",
+        "label": "MISC",
+        "start": 254,
+        "end": 265
+      },
+      {
+        "text": "John Edward Hopcroft",
+        "label": "PER",
+        "start": 580,
+        "end": 600
+      },
+      {
+        "text": "Richard Manning Karp",
+        "label": "PER",
+        "start": 602,
+        "end": 622
+      },
+      {
+        "text": "Robert Endre Tarjan",
+        "label": "PER",
+        "start": 627,
+        "end": 646
+      },
+      {
+        "text": "Turing-Award",
+        "label": "LOC",
+        "start": 665,
+        "end": 677
+      },
+      {
+        "text": "Daniel Spielman",
+        "label": "PER",
+        "start": 784,
+        "end": 799
+      },
+      {
+        "text": "Shang-Hua Teng",
+        "label": "PER",
+        "start": 804,
+        "end": 818
+      },
+      {
+        "text": "Samuel Daitch",
+        "label": "PER",
+        "start": 832,
+        "end": 845
+      },
+      {
+        "text": "Minimum-Cost Flow Problem",
+        "label": "ORG",
+        "start": 892,
+        "end": 917
+      },
+      {
+        "text": "mathematisch",
+        "label": "PER",
+        "start": 1082,
+        "end": 1094
+      },
+      {
+        "text": "Fahrplan",
+        "label": "PER",
+        "start": 1252,
+        "end": 1260
+      },
+      {
+        "text": "Spielman",
+        "label": "PER",
+        "start": 1639,
+        "end": 1647
+      },
+      {
+        "text": "Spielmans",
+        "label": "PER",
+        "start": 1806,
+        "end": 1815
+      },
+      {
+        "text": "Rasmus Kyng",
+        "label": "PER",
+        "start": 1905,
+        "end": 1916
+      },
+      {
+        "text": "Hopcroft",
+        "label": "PER",
+        "start": 2017,
+        "end": 2025
+      },
+      {
+        "text": "Karp",
+        "label": "MISC",
+        "start": 2030,
+        "end": 2034
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 2187,
+        "end": 2202
+      },
+      {
+        "text": "Berkeley Universität",
+        "label": "ORG",
+        "start": 3348,
+        "end": 3368
+      },
+      {
+        "text": "Rasmus Kyng",
+        "label": "PER",
+        "start": 3379,
+        "end": 3390
+      },
+      {
+        "text": "Deeksha Adil",
+        "label": "PER",
+        "start": 3395,
+        "end": 3407
+      },
+      {
+        "text": "Institut für Theoretische Studien",
+        "label": "ORG",
+        "start": 3423,
+        "end": 3456
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 3461,
+        "end": 3471
+      },
+      {
+        "text": "Chen",
+        "label": "PER",
+        "start": 3502,
+        "end": 3506
+      },
+      {
+        "text": "Liu",
+        "label": "ORG",
+        "start": 3520,
+        "end": 3523
+      },
+      {
+        "text": "YP",
+        "label": "LOC",
+        "start": 3525,
+        "end": 3527
+      },
+      {
+        "text": "Meierhans",
+        "label": "ORG",
+        "start": 3529,
+        "end": 3538
+      },
+      {
+        "text": "Probst Gutenberg",
+        "label": "LOC",
+        "start": 3543,
+        "end": 3559
+      },
+      {
+        "text": "Sachdeva",
+        "label": "LOC",
+        "start": 3564,
+        "end": 3572
+      },
+      {
+        "text": "S. Almost-Linear Time Algorithms for Decremental Graphs",
+        "label": "LOC",
+        "start": 3574,
+        "end": 3629
+      },
+      {
+        "text": "Min-Cost Flow and More",
+        "label": "MISC",
+        "start": 3631,
+        "end": 3653
+      },
+      {
+        "text": "Duality",
+        "label": "MISC",
+        "start": 3658,
+        "end": 3665
+      },
+      {
+        "text": "FOCS",
+        "label": "ORG",
+        "start": 3723,
+        "end": 3727
+      },
+      {
+        "text": "Chen",
+        "label": "PER",
+        "start": 3811,
+        "end": 3815
+      },
+      {
+        "text": "Liu",
+        "label": "ORG",
+        "start": 3829,
+        "end": 3832
+      },
+      {
+        "text": "YP",
+        "label": "LOC",
+        "start": 3834,
+        "end": 3836
+      },
+      {
+        "text": "Meierhans",
+        "label": "ORG",
+        "start": 3838,
+        "end": 3847
+      },
+      {
+        "text": "Probst Gutenberg",
+        "label": "LOC",
+        "start": 3852,
+        "end": 3868
+      },
+      {
+        "text": "M. Almost-Linear Time Algorithms for Incremental Graphs",
+        "label": "ORG",
+        "start": 3870,
+        "end": 3925
+      },
+      {
+        "text": "Cycle Detection",
+        "label": "LOC",
+        "start": 3927,
+        "end": 3942
+      },
+      {
+        "text": "SCCs",
+        "label": "ORG",
+        "start": 3944,
+        "end": 3948
+      },
+      {
+        "text": "s-t Shortest Path",
+        "label": "MISC",
+        "start": 3950,
+        "end": 3967
+      },
+      {
+        "text": "Proceedings of the 56th Annual",
+        "label": "MISC",
+        "start": 3992,
+        "end": 4022
+      },
+      {
+        "text": "June 2024",
+        "label": "MISC",
+        "start": 4061,
+        "end": 4070
+      },
+      {
+        "text": "STOC 2024",
+        "label": "MISC",
+        "start": 4072,
+        "end": 4081
+      },
+      {
+        "text": "Chen",
+        "label": "PER",
+        "start": 4145,
+        "end": 4149
+      },
+      {
+        "text": "Liu",
+        "label": "ORG",
+        "start": 4163,
+        "end": 4166
+      },
+      {
+        "text": "YP",
+        "label": "LOC",
+        "start": 4168,
+        "end": 4170
+      },
+      {
+        "text": "Peng",
+        "label": "ORG",
+        "start": 4172,
+        "end": 4176
+      },
+      {
+        "text": "Probst Gutenberg",
+        "label": "LOC",
+        "start": 4181,
+        "end": 4197
+      },
+      {
+        "text": "Sachdeva",
+        "label": "LOC",
+        "start": 4202,
+        "end": 4210
+      },
+      {
+        "text": "Kyng",
+        "label": "LOC",
+        "start": 4215,
+        "end": 4219
+      },
+      {
+        "text": "R. Maximum Flow",
+        "label": "PER",
+        "start": 4221,
+        "end": 4236
+      },
+      {
+        "text": "Almost-Linear Time",
+        "label": "MISC",
+        "start": 4262,
+        "end": 4280
+      },
+      {
+        "text": "IEEE",
+        "label": "ORG",
+        "start": 4287,
+        "end": 4291
+      },
+      {
+        "text": "FOCS",
+        "label": "ORG",
+        "start": 4350,
+        "end": 4354
+      },
+      {
+        "text": "Denver",
+        "label": "ORG",
+        "start": 4357,
+        "end": 4363
+      },
+      {
+        "text": "CO",
+        "label": "LOC",
+        "start": 4365,
+        "end": 4367
+      },
+      {
+        "text": "USA",
+        "label": "LOC",
+        "start": 4369,
+        "end": 4372
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chen",
+        "Daniel A. Spielman",
+        "Daniel Spielman",
+        "Deeksha Adil",
+        "Delbert R. Fulkerson",
+        "Fahrplan",
+        "Hopcroft",
+        "John Edward Hopcroft",
+        "Kyngs",
+        "Lester R. Ford Jr.",
+        "Mann",
+        "Maximilian Probst Gutenberg",
+        "R. Maximum Flow",
+        "Rasmus Kyng",
+        "Rasmus Kyngs",
+        "Richard Manning Karp",
+        "Robert Endre Tarjan",
+        "Samuel Daitch",
+        "Shang-Hua Teng",
+        "Simon Meierhans",
+        "Spielman",
+        "Spielmans",
+        "mathematisch"
+      ],
+      "ORG": [
+        "Berkeley Universität",
+        "Denver",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "FOCS",
+        "IEEE",
+        "Institut für Theoretische Studien",
+        "Kyngs",
+        "Kyngs Gruppe",
+        "Kyngs Team",
+        "Liu",
+        "M. Almost-Linear Time Algorithms for Incremental Graphs",
+        "Meierhans",
+        "Minimum-Cost Flow Problem",
+        "Minimum-cost flow-Problems",
+        "Peng",
+        "Porsche",
+        "Quanta Magazine",
+        "SCCs",
+        "STOC",
+        "Yale"
+      ],
+      "LOCATION": [
+        "Berechnungsansätze",
+        "CO",
+        "Cycle Detection",
+        "Doyen",
+        "Entwickeln",
+        "Fachsprache",
+        "Gotthard-Basistunnel",
+        "Gotthard-Strassentunnel",
+        "Kopenhagen",
+        "Kyng",
+        "Mailand",
+        "Minimalkosten-Problem",
+        "Nationalstrasse A13",
+        "Netzdaten",
+        "Netzen",
+        "Netzwerken",
+        "Probst Gutenberg",
+        "S. Almost-Linear Time Algorithms for Decremental Graphs",
+        "Sachdeva",
+        "Schnellstmoeglichen",
+        "Turing-Award",
+        "USA",
+        "Vancouver",
+        "YP",
+        "m Zeit"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Almost-Linear Time",
+        "Der superschnelle Algorithmus",
+        "Duality",
+        "ETH-Forscher",
+        "IEEE Symposium on Foundations of Computer Science",
+        "Informatik-Journal",
+        "Internet",
+        "June 2024",
+        "Karp",
+        "Lucky Luke",
+        "Min-Cost Flow and More",
+        "Netzwerkfluss-Algorithmen",
+        "Online-Kartendienst",
+        "Proceedings of the 56th Annual",
+        "Rasmus Kyng",
+        "STOC 2024",
+        "Zeit",
+        "europäische",
+        "s-t Shortest Path"
+      ]
+    },
+    "entity_counts": {
+      "Rasmus Kyng": 8,
+      "Kyngs": 4,
+      "ETH-Forschenden": 3,
+      "FOCS": 3,
+      "Chen": 3,
+      "Liu": 3,
+      "YP": 3,
+      "Probst Gutenberg": 3,
+      "ETH Zürich": 2,
+      "Kyngs Team": 2,
+      "Kopenhagen": 2,
+      "Mailand": 2,
+      "Netzwerken": 2,
+      "Meierhans": 2,
+      "Sachdeva": 2,
+      "Entwickeln": 1,
+      "Schnellstmoeglichen": 1,
+      "Der superschnelle Algorithmus": 1,
+      "Lucky Luke": 1,
+      "Mann": 1
+    },
+    "total_entities": 115,
+    "unique_entities": 86
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-forschende-entwickeln-den-schnellstmoeglichen-fluss-algorithmus.md",
+      "title": "De News Events/2024/06/eth Forschende Entwickeln den Schnellstmoeglichen Fluss Algorithmus",
+      "language": "de",
+      "source_path": "de_news_events/2024/06/eth-forschende-entwickeln-den-schnellstmoeglichen-fluss-algorithmus.html"
+    },
+    "temporal": {
+      "publication_date": "2024-06",
+      "mentioned_years": [
+        "1985",
+        "1986",
+        "2004",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "time_periods": [
+        [
+          "1985",
+          "1986"
+        ]
+      ],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Chen",
+        "Daniel A. Spielman",
+        "Daniel Spielman",
+        "Deeksha Adil",
+        "Delbert R. Fulkerson",
+        "Fahrplan",
+        "Hopcroft",
+        "John Edward Hopcroft",
+        "Kyngs",
+        "Lester R. Ford Jr.",
+        "Mann",
+        "Maximilian Probst Gutenberg",
+        "R. Maximum Flow",
+        "Rasmus Kyng",
+        "Rasmus Kyngs",
+        "Richard Manning Karp",
+        "Robert Endre Tarjan",
+        "Samuel Daitch",
+        "Shang-Hua Teng",
+        "Simon Meierhans",
+        "Spielman",
+        "Spielmans",
+        "mathematisch"
+      ],
+      "people_with_roles": {
+        "Chen": [
+          "professor"
+        ],
+        "Spielman": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Almost-Linear Time",
+        "Der superschnelle Algorithmus",
+        "Duality",
+        "ETH-Forscher",
+        "IEEE Symposium on Foundations of Computer Science",
+        "Informatik-Journal",
+        "Internet",
+        "June 2024",
+        "Karp",
+        "Lucky Luke",
+        "Min-Cost Flow and More",
+        "Netzwerkfluss-Algorithmen",
+        "Online-Kartendienst",
+        "Proceedings of the 56th Annual",
+        "Rasmus Kyng",
+        "STOC 2024",
+        "Zeit",
+        "europäische",
+        "s-t Shortest Path"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Lucky Luke",
+        "Dieser Durchbruch",
+        "Zum Beispiel",
+        "Rasmus Kyng",
+        "Delbert R",
+        "Shang-Hua",
+        "Maximalfluss-Problem",
+        "Decremental Graphs",
+        "Annual IEEE",
+        "Informatiker John",
+        "Sein Algorithmus",
+        "Simon Meierhans",
+        "Minimum-Cost",
+        "Vor Rasmus",
+        "Incremental Graphs",
+        "Deeksha Adil",
+        "Forschende Entwickeln",
+        "Samuel Daitch",
+        "Schnellstmoeglichen Fluss",
+        "Turing-Award",
+        "Kyngs Gruppe",
+        "Min-Cost",
+        "Diese Algorithmen",
+        "Netzwerkfluss-Algorithmus",
+        "Annual ACM",
+        "Kyngs Doktorvater",
+        "Minimalkosten-Problem",
+        "Theoretischen Informatik",
+        "Kyngs Berechnungsmethode",
+        "Daniel A",
+        "Spielmans Ansatz",
+        "Netzwerkfluss-Algorithmen",
+        "Informatikern Daniel",
+        "Fluss-Algorithmen",
+        "ETH-Forschenden",
+        "De News",
+        "Online-Kartendienst",
+        "Kyngs Algorithmus",
+        "Ihre Arbeit",
+        "Almost-Linear",
+        "Richard Manning",
+        "Shortest Path",
+        "Quanta Magazine",
+        "Am Donnerstag",
+        "Ihr Perspektivenwechsel",
+        "Gotthard-Strassentunnel",
+        "Edward Hopcroft",
+        "Informatik-Journal",
+        "Rasmus Kyngs",
+        "Dieser Algorithmus",
+        "Maximilian Probst",
+        "Cycle Detection",
+        "Kyngs Team",
+        "Flow Problem",
+        "Kyngs Durchbruch",
+        "Annual Symposium",
+        "Diese Leistung",
+        "Im Prinzip",
+        "Die Gemeinschaft",
+        "Stellen Sie",
+        "Der Blick",
+        "Time Algorithms",
+        "ETH-Forscher",
+        "Bei Rasmus",
+        "Flow-Problem",
+        "Maximum Flow",
+        "Gotthard-Basistunnel",
+        "Probst Gutenberg",
+        "IEEE Symposium",
+        "Anzahl Verbindungen",
+        "Ford Jr",
+        "Computer Science",
+        "Im Stromnetz",
+        "Im Unterschied",
+        "Unser Ansatz",
+        "Mathematiker Lester",
+        "Maximum-Flow",
+        "Theoretische Studien",
+        "Robert Endre"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Berkeley Universität",
+        "Denver",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "FOCS",
+        "IEEE",
+        "Institut für Theoretische Studien",
+        "Kyngs",
+        "Kyngs Gruppe",
+        "Kyngs Team",
+        "Liu",
+        "M. Almost-Linear Time Algorithms for Incremental Graphs",
+        "Meierhans",
+        "Minimum-Cost Flow Problem",
+        "Minimum-cost flow-Problems",
+        "Peng",
+        "Porsche",
+        "Quanta Magazine",
+        "SCCs",
+        "STOC",
+        "Yale"
+      ],
+      "locations": [
+        "Berechnungsansätze",
+        "CO",
+        "Cycle Detection",
+        "Doyen",
+        "Entwickeln",
+        "Fachsprache",
+        "Gotthard-Basistunnel",
+        "Gotthard-Strassentunnel",
+        "Kopenhagen",
+        "Kyng",
+        "Mailand",
+        "Minimalkosten-Problem",
+        "Nationalstrasse A13",
+        "Netzdaten",
+        "Netzen",
+        "Netzwerken",
+        "Probst Gutenberg",
+        "S. Almost-Linear Time Algorithms for Decremental Graphs",
+        "Sachdeva",
+        "Schnellstmoeglichen",
+        "Turing-Award",
+        "USA",
+        "Vancouver",
+        "YP",
+        "m Zeit"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Rasmus Kyng",
+        "Kyngs",
+        "ETH-Forschenden",
+        "FOCS",
+        "Chen",
+        "Liu",
+        "YP",
+        "Probst Gutenberg",
+        "ETH Zürich",
+        "Kyngs Team"
+      ],
+      "document_structure": {
+        "total_sections": 9,
+        "section_titles": [
+          "In Kürze",
+          "Er rechnet so schnell wie ein Netz gross ist",
+          "Er rechnet so schnell wie ein Netz gross ist",
+          "Wie ein Porsche gegen Pferdekutschen",
+          "Blitzschnelle Algorithmen für wandelbare Netzwerke",
+          "Nicht nur schnell, sondern auch umfassend",
+          "Was berechnen? Das Ganze oder seine Teile?",
+          "Am Wendepunkt der theoretischen Grundlagen",
+          "Nicht nur schnell, sondern auch umfassend"
+        ],
+        "content_length": 12738
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Chen",
+        "Liu",
+        "Daniel A. Spielman",
+        "Fahrplan",
+        "Kyngs",
+        "FOCS",
+        "IEEE",
+        "2004",
+        "M. Almost-Linear Time Algorithms for Incremental Graphs",
+        "Denver",
+        "R. Maximum Flow",
+        "Rasmus Kyng",
+        "Meierhans",
+        "1985",
+        "ETH Zürich",
+        "Quanta Magazine",
+        "2022",
+        "Hopcroft",
+        "Richard Manning Karp",
+        "Minimum-Cost Flow Problem",
+        "Porsche",
+        "SCCs",
+        "1986",
+        "Maximilian Probst Gutenberg",
+        "John Edward Hopcroft",
+        "EU",
+        "Simon Meierhans",
+        "Rasmus Kyngs",
+        "Spielman",
+        "Peng",
+        "Delbert R. Fulkerson",
+        "mathematisch",
+        "Shang-Hua Teng",
+        "Kyngs Team",
+        "Minimum-cost flow-Problems",
+        "Berkeley Universität",
+        "2024",
+        "Deeksha Adil",
+        "Institut für Theoretische Studien",
+        "Spielmans",
+        "Samuel Daitch",
+        "Robert Endre Tarjan",
+        "ETH-Forschenden",
+        "Yale",
+        "STOC",
+        "Lester R. Ford Jr.",
+        "Mann",
+        "Kyngs Gruppe",
+        "Daniel Spielman",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Online-Kartendienst",
+        "Lucky Luke",
+        "when",
+        "Karp",
+        "Der superschnelle Algorithmus",
+        "Rasmus Kyng",
+        "ETH-Forscher",
+        "s-t Shortest Path",
+        "Min-Cost Flow and More",
+        "Duality",
+        "Informatik-Journal",
+        "who",
+        "IEEE Symposium on Foundations of Computer Science",
+        "STOC 2024",
+        "what",
+        "how",
+        "computer_science",
+        "June 2024",
+        "Proceedings of the 56th Annual",
+        "Zeit",
+        "Netzwerkfluss-Algorithmen",
+        "Almost-Linear Time",
+        "europäische",
+        "Internet"
+      ],
+      "graph_relations": [
+        "Chen_has_role_professor",
+        "Spielman_has_role_professor",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

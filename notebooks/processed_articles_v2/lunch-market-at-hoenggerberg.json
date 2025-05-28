@@ -1,0 +1,158 @@
+{
+  "filename": "lunch-market-at-hoenggerberg.md",
+  "original_filename": "lunch-market-at-hoenggerberg.html",
+  "source_path": "en_internal/2015/04/lunch-market-at-hoenggerberg.html",
+  "date": "2015-04",
+  "title": "Lunch Market At Hoenggerberg",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "This spring, food vans, market stalls and mobile food stands will once again be offering their delicacies both savoury and sweet at the Hönggerberg Campus. The selection available will range from soups and salads to grilled food, Asian specialities and pizzas to confectionary of all kinds.\n\nThe Lunch Market will take place on the following Thursdays from 11 a.m. to 3 p.m. in each case:\n\nYou can find a list of the vendors here ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Hoenggerberg",
+        "label": "GPE",
+        "start": 36,
+        "end": 48
+      },
+      {
+        "text": "This spring",
+        "label": "DATE",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "the Hönggerberg Campus",
+        "label": "FAC",
+        "start": 132,
+        "end": 154
+      },
+      {
+        "text": "Asian",
+        "label": "NORP",
+        "start": 230,
+        "end": 235
+      },
+      {
+        "text": "Thursdays",
+        "label": "DATE",
+        "start": 341,
+        "end": 350
+      },
+      {
+        "text": "11 a.m. to 3 p.m.",
+        "label": "TIME",
+        "start": 356,
+        "end": 373
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "Hoenggerberg",
+        "the Hönggerberg Campus"
+      ],
+      "DATE": [
+        "11 a.m. to 3 p.m.",
+        "This spring",
+        "Thursdays"
+      ],
+      "MISC": [
+        "Asian"
+      ]
+    },
+    "entity_counts": {
+      "Hoenggerberg": 1,
+      "This spring": 1,
+      "the Hönggerberg Campus": 1,
+      "Asian": 1,
+      "Thursdays": 1,
+      "11 a.m. to 3 p.m.": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "lunch-market-at-hoenggerberg.md",
+      "title": "En Internal/2015/04/lunch Market At Hoenggerberg",
+      "language": "en",
+      "source_path": "en_internal/2015/04/lunch-market-at-hoenggerberg.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Asian"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Hoenggerberg This",
+        "Market At",
+        "The Lunch",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Hoenggerberg",
+        "the Hönggerberg Campus"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "Hoenggerberg",
+        "This spring",
+        "the Hönggerberg Campus",
+        "Asian",
+        "Thursdays",
+        "11 a.m. to 3 p.m."
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 480
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Asian",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

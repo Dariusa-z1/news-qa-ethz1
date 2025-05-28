@@ -1,0 +1,240 @@
+{
+  "filename": "de_internal_2023_09_fulbright-grant-webinar.md",
+  "original_filename": "de_internal_2023_09_fulbright-grant-webinar.html",
+  "source_path": "de_internal/2023/09/fulbright-grant-webinar.html",
+  "date": "2023-09",
+  "title": "Fulbright Grant Webinar",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Fulbright Webinar,Montag, 30. October 2023, 16.00–17.00 Uhr.",
+      "text": "- develop curricula and workforce\n\n- engage in strategic or institutional planning\n\n- give lectures and workshops\n\n- Grants for studying or doing research in the U.S. for 4 to 10 months\n\n- Any university and faculty in the United States.\n\n- Support with your university application and J1 visa\n\n- Become part of the global alumni network"
+    },
+    {
+      "heading": "Fulbright Specialist Program",
+      "text": "Invite a U.S. academic or professional for 2 to 6 weeks to your institute to:\n\nexterne Seite https://fulbrightspecialist.worldlearning.org"
+    },
+    {
+      "heading": "Fulbright Student & Scholar Grant",
+      "text": "externe Seite https://ch.usembassy.gov/education-culture/fulbright/\n\nFür die Teilnahme, bitte senden Sie eine E-Mail an für den Webinar-Link."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Grant Webinar",
+        "label": "PERSON",
+        "start": 30,
+        "end": 43
+      },
+      {
+        "text": "U.S.",
+        "label": "GPE",
+        "start": 159,
+        "end": 163
+      },
+      {
+        "text": "4 to 10 months -",
+        "label": "DATE",
+        "start": 168,
+        "end": 184
+      },
+      {
+        "text": "the United States",
+        "label": "GPE",
+        "start": 215,
+        "end": 232
+      },
+      {
+        "text": "J1",
+        "label": "CARDINAL",
+        "start": 281,
+        "end": 283
+      },
+      {
+        "text": "U.S.",
+        "label": "GPE",
+        "start": 9,
+        "end": 13
+      },
+      {
+        "text": "2 to 6 weeks",
+        "label": "DATE",
+        "start": 43,
+        "end": 55
+      },
+      {
+        "text": "Seite https://fulbrightspecialist.worldlearning.org",
+        "label": "ORG",
+        "start": 86,
+        "end": 137
+      },
+      {
+        "text": "Teilnahme",
+        "label": "ORG",
+        "start": 76,
+        "end": 85
+      },
+      {
+        "text": "Sie",
+        "label": "ORG",
+        "start": 100,
+        "end": 103
+      },
+      {
+        "text": "E-Mail",
+        "label": "ORG",
+        "start": 109,
+        "end": 115
+      },
+      {
+        "text": "Webinar-Link",
+        "label": "EVENT",
+        "start": 127,
+        "end": 139
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Grant Webinar"
+      ],
+      "ORG": [
+        "E-Mail",
+        "Seite https://fulbrightspecialist.worldlearning.org",
+        "Sie",
+        "Teilnahme"
+      ],
+      "LOCATION": [
+        "U.S.",
+        "the United States"
+      ],
+      "DATE": [
+        "2 to 6 weeks",
+        "4 to 10 months -"
+      ],
+      "MISC": [
+        "J1",
+        "Webinar-Link"
+      ]
+    },
+    "entity_counts": {
+      "U.S.": 2,
+      "Grant Webinar": 1,
+      "4 to 10 months -": 1,
+      "the United States": 1,
+      "J1": 1,
+      "2 to 6 weeks": 1,
+      "Seite https://fulbrightspecialist.worldlearning.org": 1,
+      "Teilnahme": 1,
+      "Sie": 1,
+      "E-Mail": 1,
+      "Webinar-Link": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2023_09_fulbright-grant-webinar.md",
+      "title": "De Internal/2023/09/fulbright Grant Webinar",
+      "language": "en",
+      "source_path": "de_internal/2023/09/fulbright-grant-webinar.html"
+    },
+    "temporal": {
+      "publication_date": "2023-09",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Grant Webinar"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "alumni"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Webinar-Link"
+      ],
+      "grants_funding": [
+        "grant"
+      ],
+      "projects": [
+        "E-Mail",
+        "De Internal",
+        "Grant Webinar",
+        "United States",
+        "Webinar-Link"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "E-Mail",
+        "Seite https://fulbrightspecialist.worldlearning.org",
+        "Sie",
+        "Teilnahme"
+      ],
+      "locations": [
+        "U.S.",
+        "the United States"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "U.S.",
+        "Grant Webinar",
+        "4 to 10 months -",
+        "the United States",
+        "J1",
+        "2 to 6 weeks",
+        "Seite https://fulbrightspecialist.worldlearning.org",
+        "Teilnahme",
+        "Sie",
+        "E-Mail"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Fulbright Webinar,Montag, 30. October 2023, 16.00–17.00 Uhr.",
+          "Fulbright Specialist Program",
+          "Fulbright Student & Scholar Grant"
+        ],
+        "content_length": 662
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Sie",
+        "Seite https://fulbrightspecialist.worldlearning.org",
+        "E-Mail",
+        "grant",
+        "2023",
+        "Teilnahme",
+        "Grant Webinar"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "where",
+        "Webinar-Link"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

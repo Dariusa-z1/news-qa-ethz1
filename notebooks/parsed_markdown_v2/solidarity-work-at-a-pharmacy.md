@@ -1,0 +1,32 @@
+# solidarity-work-at-a-pharmacy.html
+
+**Source:** en_internal/2020/04/solidarity-work-at-a-pharmacy.html
+
+## In the lab and out on the bike
+
+Ilario Scapozza is studying for a Master’s degree in Pharmacy at ETH Zurich. The 22-year-old has been working in the Rigi Apotheke in Zurich for a good four weeks now. He’s on duty five days a week helping the pharmacy cope with its heavy workload during the crisis. Scapozza explains how this came about: “I was already in contact with the pharmacy at the beginning of the year, as it’s there I’m going to be working as an assistant for the compulsory practical training year of my degree.” Shortly after ETH announced the shift to emergency operation, the pharmacy approached him for the mission. Scapozza agreed right away.
+
+He doesn’t receive any pay: “If you’re allowed to work at such a time and can do something to help, then I consider it a privilege.” Only later did Scapozza discover that the assignment directly benefits his studies. ETH Zurich counts student solidarity work during the corona crisis as academic input, if it’s related to the degree course. This means his mission can replace a part of his practical Master’s thesis that wouldn’t have been feasible in emergency operation. So his graduation won’t need to be delayed. The one regular lecture course that Scapozza attends takes place every other week – and that fits in well with his job at the pharmacy.
+
+## In the lab and out on the bike
+
+Scapozza handles various tasks, including working in the lab, helping with internal logistics and delivering products. As well as selling products over the counter, the pharmacy delivers to old people’s and care homes, and a number of private customers in the surrounding area. At the beginning of his assignment, Scapozza was mainly out and about on the cargo bike. Nowadays, he’s often at work in the pharmacy lab, putting into practice the skills he has gained on his degree course and an earlier internship.
+
+Disinfectant is still very much in demand. “This is fairly simple to produce,” explains Scapozza, “I just need to mix the ingredients in the correct proportions.” He also makes up products where demand is unrelated to the pandemic – for example, a patient may need a drug in capsule form, but the pharmacy only stocks it as a tablet, and in another dosage. So, using a machine designed for the purpose, Scapozza transforms pulverised tablets into swallowable capsules. He also produces ointments, creams and suppositories to order in the lab.
+
+Another important task is analysing products before they’re sold – “determining their identity”, as Scapozza puts it. For certain substances, an analysis is required by law, so he runs various physicochemical tests for these. When it comes to herbal products such as tea though, a visual or olfactory check is what’s needed.
+
+## As the situation settles
+
+## Subscribe to Newsletter
+
+Pharmacy student Scapozza prepares drugs for delivery. (Image: ETH Zürich/Nicola Pitaro)
+
+According to Scapozza, things at the pharmacy aren’t quite as acute as at the beginning of the crisis. “It was really dire then: suddenly we were no longer able to order products that had always been available.” And people were queuing up outside the pharmacy. All this has subsided somewhat, but nonetheless his input still helps take some of the strain off the business: “Overall, there’s more work to be done than before the crisis. Older customers, in particular, are having products delivered more often. And our suppliers are still faced with bottlenecks, which means more for us to do.”
+
+Of course, the rigorous safety precautions still apply at the Rigi Apotheke. No more than four customers are allowed in the store at any one time, and employees keep their distance from one other. Keyboards and shelves are disinfected every half hour. The same goes for deliveries – messengers have no physical contact with customers; parcels, hands and even the cargo bike are disinfected regularly. Scapozza is reassured that the risk of infection for customers is kept to a minimum like this. And he feels safe too, because he notices that both customers and employees take great pains to comply with these measures.
+
+## Brimming with enthusiasm
+
+The posting is a thoroughly positive experience for Scapozza, and a great chance to build on the knowledge he’s amassed during his studies: “It’s great to see the point of what you’ve been learning in the lecture hall for years. I now realise there are people who benefit directly from what I do, and that’s a tremendous motivation.” He warmly recommends solidarity work: “It doesn't have to be a full-time job at a pharmacy or a hospital; there are certainly people in the neighbourhood who’d be grateful for some help too.” There as well, the protective measures must be observed at all times, Scapozza concludes.
+

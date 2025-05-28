@@ -1,0 +1,171 @@
+{
+  "filename": "abendfuehrungen--einblicke-in-die-eth-zuerich.md",
+  "original_filename": "abendfuehrungen--einblicke-in-die-eth-zuerich.html",
+  "source_path": "de_internal/2016/01/abendfuehrungen--einblicke-in-die-eth-zuerich.html",
+  "date": "2016-01",
+  "title": "Abendfuehrungen Einblicke In Die Eth Zuerich",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Diese und weitere Fragen stehen im Zentrum bei den Abendführungen der Sammlungen und Archive sowie der Abteilung Services der ETH Zürich. Zudem können Sie den Spuren von Albert Einstein folgen oder auch den ETH-Campus Hönggerberg kennenlernen.\n\nDie kostenlosen Führungen finden jeweils dienstags von 18.15 bis 19.15 Uhr statt.\n\nInformieren Sie sich über die Themen und Termine"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/01/abendfuehrungen Einblicke",
+        "label": "LOC",
+        "start": 0,
+        "end": 45
+      },
+      {
+        "text": "Eth Zuerich",
+        "label": "LOC",
+        "start": 53,
+        "end": 64
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 35,
+        "end": 42
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 126,
+        "end": 136
+      },
+      {
+        "text": "Albert Einstein",
+        "label": "PER",
+        "start": 170,
+        "end": 185
+      },
+      {
+        "text": "ETH-Campus Hönggerberg",
+        "label": "MISC",
+        "start": 207,
+        "end": 229
+      },
+      {
+        "text": "Informieren",
+        "label": "LOC",
+        "start": 326,
+        "end": 337
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Albert Einstein"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Zentrum"
+      ],
+      "LOCATION": [
+        "De Internal/2016/01/abendfuehrungen Einblicke",
+        "Eth Zuerich",
+        "Informieren"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Campus Hönggerberg"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2016/01/abendfuehrungen Einblicke": 1,
+      "Eth Zuerich": 1,
+      "Zentrum": 1,
+      "ETH Zürich": 1,
+      "Albert Einstein": 1,
+      "ETH-Campus Hönggerberg": 1,
+      "Informieren": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "abendfuehrungen--einblicke-in-die-eth-zuerich.md",
+      "title": "De Internal/2016/01/abendfuehrungen Einblicke in die Eth Zuerich",
+      "language": "de",
+      "source_path": "de_internal/2016/01/abendfuehrungen--einblicke-in-die-eth-zuerich.html"
+    },
+    "temporal": {
+      "publication_date": "2016-01",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Albert Einstein"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Campus Hönggerberg"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Abteilung Services",
+        "Albert Einstein",
+        "De Internal",
+        "ETH-Campus",
+        "Eth Zuerich",
+        "Informieren Sie"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Zentrum"
+      ],
+      "locations": [
+        "De Internal/2016/01/abendfuehrungen Einblicke",
+        "Eth Zuerich",
+        "Informieren"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2016/01/abendfuehrungen Einblicke",
+        "Eth Zuerich",
+        "Zentrum",
+        "ETH Zürich",
+        "Albert Einstein",
+        "ETH-Campus Hönggerberg",
+        "Informieren"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 441
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "Zentrum",
+        "Albert Einstein",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "ETH-Campus Hönggerberg"
+      ],
+      "graph_relations": []
+    }
+  }
+}

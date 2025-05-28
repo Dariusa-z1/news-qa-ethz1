@@ -1,0 +1,102 @@
+{
+  "filename": "annette-oxenius-erhaelt-cloetta-preis.md",
+  "original_filename": "annette-oxenius-erhaelt-cloetta-preis.html",
+  "source_path": "de_news_events/2022/10/annette-oxenius-erhaelt-cloetta-preis.html",
+  "date": "2022-10",
+  "title": "Annette Oxenius Erhaelt Cloetta Preis",
+  "language": "unknown",
+  "paragraphs": [],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Oxenius Erhaelt Cloetta",
+        "label": "PER",
+        "start": 31,
+        "end": 54
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Oxenius Erhaelt Cloetta"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De News": 1,
+      "Oxenius Erhaelt Cloetta": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "annette-oxenius-erhaelt-cloetta-preis.md",
+      "title": "De News Events/2022/10/annette Oxenius Erhaelt Cloetta Preis",
+      "language": "unknown",
+      "source_path": "de_news_events/2022/10/annette-oxenius-erhaelt-cloetta-preis.html"
+    },
+    "temporal": {
+      "publication_date": "2022-10",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Oxenius Erhaelt Cloetta"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "De News",
+        "Oxenius Erhaelt",
+        "Cloetta Preis"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De News",
+        "Oxenius Erhaelt Cloetta"
+      ],
+      "document_structure": {
+        "total_sections": 0,
+        "section_titles": [],
+        "content_length": 61
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2022",
+        "De News",
+        "Oxenius Erhaelt Cloetta"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

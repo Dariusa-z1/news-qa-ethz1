@@ -1,0 +1,139 @@
+{
+  "filename": "eth-zurichs-mobile-website-is-now-live.md",
+  "original_filename": "eth-zurichs-mobile-website-is-now-live.html",
+  "source_path": "en_internal/2015/09/eth-zurichs-mobile-website-is-now-live.html",
+  "date": "2015-09",
+  "title": "Eth Zurichs Mobile Website Is Now Live",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Starting this week, visitors using smartphones to access the ETH Zurich website will no longer have to view a website designed for large screens: they will now be automatically redirected to the new mobile website. This clear and user-friendly website provides access to ETH News as well as information on events, catering services, buildings, and courses, among other things.\n\nThe main navigation of the mobile website is simpler than the desktop version; it contains only the most important and useful information. Of course, mobile visitors also have the option of switching back to the classic desktop version if they wish to do so."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "this week",
+        "label": "DATE",
+        "start": 9,
+        "end": 18
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 57,
+        "end": 71
+      },
+      {
+        "text": "the new mobile",
+        "label": "ORG",
+        "start": 191,
+        "end": 205
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 271,
+        "end": 279
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH News",
+        "the ETH Zurich",
+        "the new mobile"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "this week"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "this week": 1,
+      "the ETH Zurich": 1,
+      "the new mobile": 1,
+      "ETH News": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-zurichs-mobile-website-is-now-live.md",
+      "title": "En Internal/2015/09/eth Zurichs Mobile Website Is Now Live",
+      "language": "en",
+      "source_path": "en_internal/2015/09/eth-zurichs-mobile-website-is-now-live.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "En Internal",
+        "Website Is",
+        "ETH News",
+        "ETH Zurich",
+        "Now Live",
+        "Zurichs Mobile"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH News",
+        "the ETH Zurich",
+        "the new mobile"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "this week",
+        "the ETH Zurich",
+        "the new mobile",
+        "ETH News"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 695
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the new mobile",
+        "2015",
+        "the ETH Zurich",
+        "ETH News"
+      ],
+      "semantic_concepts": [
+        "technology"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

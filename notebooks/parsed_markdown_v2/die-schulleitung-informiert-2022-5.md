@@ -1,0 +1,60 @@
+# die-schulleitung-informiert-2022-5.html
+
+**Source:** de_internal/2022/06/die-schulleitung-informiert-2022-5.html
+
+## Sozial- und Leadershipkompetenzen für ETH-Mitarbeitende
+
+- Verantwortungsbewusst handeln
+
+- Innovation antreiben
+
+- Brücken bauen
+
+- Wohlbefinden fördern
+
+- Inklusion leben
+
+- Menschen befähigen
+
+Die Mitarbeitenden sind der Schlüssel zum Erfolg der ETH. Diese Aussage ist so im Strategie- und Entwicklungsplan der ETH Zürich für die Jahre 2021-2024 verankert. In diesem Zusammenhang legt die Strategie unter anderem einen starken Fokus auf die Entwicklung von Sozial- und Leadershipkompetenzen. Sie sollen innerhalb der ETH Zürich ein gemeinsames Verständnis ermöglichen, welches zwischenmenschliche Verhalten wir voneinander erwarten, was gute Leadership bedeutet und welche Kompetenzen für die Ausgestaltung einer guten Leadership notwendig sind. Sie komplementieren die Fachkompetenzen der ETH-Angehörigen und vermitteln somit ein ganzheitlicheres Bild dessen, woran wir uns ausrichten und wie wir uns entwickeln wollen.
+
+Die Schulleitung hat an ihrer letzten Sitzung folgende sechs Sozial- und Leadershipkompetenzen, die vom Vizepräsidium für Personalentwicklung und Leadership mithilfe eines breiten Einbezugs der ETH-Community und in Abstimmung mit mehreren rETHink-Workstreams erarbeitet und formuliert worden waren, gutgeheissen:
+
+Diese Kompetenzen werden zukünftig in verschiedenste personalbezogene Prozesse, Massnahmen und Produkte einfliessen. Weiterführende Informationen sowie die konkrete Umsetzung folgen ab dem zweiten Halbjahr 2022. Wie die Sozial- und Leadershipkompetenzen mit der Vision, der Mission und den neuen ETH-Werten zusammenspielen, lesen Sie im rETHink-Interview mit Joël Mesot .
+
+## Vorprojekt zu Programm «Digitaler Campus»
+
+An der ETH sind Lehrbetriebsapplikationen (LBA) für alle Nutzergruppen (Studierende aller Stufen, Dozierende, Administration, interessierte Öffentlichkeit) im Einsatz. Diese LBA sind im Wesentlichen zwischen 1998 und 2005 entstanden und werden seither im Projekt WELBA laufend weiterentwickelt. Die technologische Basis der LBA kann mittelfristig die Anforderungen betreffend Wirtschaftlichkeit, Sicherheit und Erweiterbarkeit jedoch nicht mehr effektiv und effizient unterstützen. Gleichzeitig hat sich die Erwartung der Nutzenden an die Systeme in der Lehre und im Lehrbetrieb stark verändert.
+
+Aus diesem Grund sieht die Schulleitung ein mehrjähriges Programm «Digitaler Campus» vor. Dieses soll einerseits die technische Erneuerung der Lehrbetriebsapplikationen umsetzen und andererseits sicherstellen, dass neue Anforderungen berücksichtigt werden. Ein transparentes Portfolio wird die korrekte Priorisierung der diversen Projekte im Bereich der Lehre sicherstellen.
+
+Um ein Vorhaben dieser Grössenordnung und Komplexität optimal vorzubereiten, hat die Schulleitung nun der Durchführung eines Vorprojekts für das Programm «Digitaler Campus» zugestimmt. Dieses betrachtet eine mögliche Governance, die Programmstruktur beziehungsweise Projekte, die Zielarchitektur und schliesslich die Roadmap, die Planung der Arbeitspakete.
+
+Durchgeführt werden sowohl das Vorprojekt als auch das Programm «Digitaler Campus» in enger Zusammenarbeit von den Abteilungen Akademische Dienste, Lehrentwicklung und Technologie, Informatikdienste und Controlling.
+
+## ETH-Hauptgebäude muss saniert werden
+
+Im kommenden Herbst werden die Arbeiten an der Einstellgarage beim ETH-Hauptgebäude (HG) abgeschlossen, sodass ETH-Angehörige diese voraussichtlich ab November 2022 wieder benutzen können (detailliertere Informationen dazu folgen später). Die Sanierung des Hauptgebäudes selbst geht danach weiter. Im Rahmen einer langfristigen Gesamtstrategie für das Gebäude hat die Abteilung Immobilien die Bausubstanz und die Umgebung des HG untersucht. Dabei hat sie 14 Handlungsfelder und zwei Phasen der Gebäudesanierung bestimmt. Ziel ist es, das repräsentative HG aufzuwerten und als Lern-, Lehr-, Arbeits- und Begegnungsort zu stärken.
+
+Für Massnahmen der ersten Phase «Instandsetzung und Substanzerhalt» hat die Schulleitung nun dem erbrachten Bedarfsnachweis zugestimmt. Dieser wird im nächsten Schritt dem ETH-Rat zur Genehmigung vorgelegt, der als das Bau- und Liegenschaftsorgan des Bundes für das strategische Immobilienmanagement im ETH-Bereich verantwortlich ist. Die veranschlagten Kosten für die Handlungsfelder der Phase 1 betragen rund 64 Mio. Schweizer Franken – bei einer Kostengenauigkeit von +/- 30 Prozent. Die Handlungsfelder der Phase 2 «Nutzungsorientierte Weiterentwicklung» werden zu gegebener Zeit in einem zweiten Bedarfsnachweis eingereicht.
+
+## Direktor des Instituts für Theoretische Studien wiederernannt
+
+Rahul Pandharipande, ETH- Professor für Mathematik und ein Experte der Algebraischen Geometrie und ihrer Verbindungen zur Stringtheorie, wird das Institut für Theoretische Studien (ETH-ITS) für drei weitere Jahre leiten. In Absprache mit dem Vorsteher des Departements Mathematik, dem Vorsteher des Instituts für Theoretische Physik und der Vorsteherin des Instituts für Theoretische Informatik hat der Vizepräsident Forschung, Detlef Günther, Rahul Pandharipande per 1. Juni 2022 für eine zweite Amtsdauer bis 2025 zum ITS-Direktor ernannt. Die ETH-Schulleitung hat der Wiederernennung zugestimmt. Pandharipande leitet das ETH-ITS seit 2019 als dessen zweiter Direktor. Sein Vorgänger war Giovanni Felder, Experte für Mathematische Physik.
+
+Das 2013 gegründete Institut widmet sich der Grundlagenforschung in Mathematik, Theoretischer Physik, Theoretischer Informatik und verwandter Gebiete. Es fördert sowohl arrivierte Forscher als auch Nachwuchsforschende.
+
+## Ein neuer Prorektor für Weiterbildung
+
+In ihrer Sitzung von Ende Mai hat die ETH-Schulleitung den Rücktritt von Prof. Paolo Ermanni als Prorektor Weiterbildung zur Kenntnis genommen. Paolo Ermanni, Professor für Strukturtechnologien (D-MAVT), ist seit dem 1. Mai 2015 Prorektor Weiterbildung und wurde am 31. Oktober 2018 für eine zweite vierjährige Amtszeit wiedergewählt. Er tritt auf eigenen Wunsch per 31. Juli 2022 von diesem Amt zurück. Die Schulleitung hat Paolo Ermanni ihren Dank ausgesprochen für die grossartigen Verdienste im Rahmen der Weiterbildung.
+
+Sein Nachfolger wird Prof. Stefano Brusoni, Professor für Technologie und Innovationsmanagement (D-MTEC). Er wird per 1. August 2022 das Amt des Prorektors Weiterbildung übernehmen. Die Schulleitung hat ihn für eine vierjährige Amtszeit bis zum 31. Dezember 2026 gewählt.
+
+Der Prorektor Weiterbildung unterstützt den Rektor in Belangen der universitären Weiterbildung an der ETH Zürich. Er ist in Zusammenarbeit mit der School for Continuing Education verantwortlich für die Förderung, den Aufbau und die Qualitätssicherung der Weiterbildung.
+
+## Regelmässige Informationen aus der Schulleitung
+
+Die Schulleitung der ETH Zürich trifft sich alle zwei Wochen zur ordentlichen Schulleitungssitzung. In dieser Rubrik wird über die wichtigsten Entscheide aus diesen Sitzungen informiert.
+
+## Immer aktuell informiert
+

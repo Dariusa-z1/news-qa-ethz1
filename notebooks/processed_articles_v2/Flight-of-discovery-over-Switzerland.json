@@ -1,0 +1,222 @@
+{
+  "filename": "Flight-of-discovery-over-Switzerland.md",
+  "original_filename": "Flight-of-discovery-over-Switzerland.html",
+  "source_path": "en_internal/2014/09/Flight-of-discovery-over-Switzerland.html",
+  "date": "2014-09",
+  "title": "Flight Of Discovery Over Switzerland",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Switzerland's transformation from intact agricultural land with scattered factories to the heavily built-up country it is today is particularly striking from the air.\n\nThe holding curated by ETH-Bibliothek's Image Archive contains around 135,000 aerial photographs spanning almost a century, from which 150 impressive oblique and vertical views were selected for the book from the \"Pictorial Worlds\" series.\n\nYou can browse through a selection of the photographs on the Bildarchiv Online platform.\n\nWe have also compiled some additional information and photos on the ETHeritage blog.\n\nThe book can be purchased from ETH-Bibliothek's Collections and Archives reading room or book shops."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Discovery",
+        "label": "PRODUCT",
+        "start": 30,
+        "end": 39
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 45,
+        "end": 56
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 122,
+        "end": 127
+      },
+      {
+        "text": "ETH-Bibliothek's",
+        "label": "ORG",
+        "start": 190,
+        "end": 206
+      },
+      {
+        "text": "Image Archive",
+        "label": "ORG",
+        "start": 207,
+        "end": 220
+      },
+      {
+        "text": "135,000",
+        "label": "CARDINAL",
+        "start": 237,
+        "end": 244
+      },
+      {
+        "text": "almost a century",
+        "label": "DATE",
+        "start": 273,
+        "end": 289
+      },
+      {
+        "text": "Pictorial Worlds",
+        "label": "WORK_OF_ART",
+        "start": 381,
+        "end": 397
+      },
+      {
+        "text": "ETHeritage",
+        "label": "ORG",
+        "start": 564,
+        "end": 574
+      },
+      {
+        "text": "ETH-Bibliothek's",
+        "label": "ORG",
+        "start": 612,
+        "end": 628
+      },
+      {
+        "text": "Collections and Archives",
+        "label": "ORG",
+        "start": 629,
+        "end": 653
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Collections and Archives",
+        "ETH-Bibliothek's",
+        "ETHeritage",
+        "Image Archive"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [
+        "almost a century",
+        "today"
+      ],
+      "MISC": [
+        "135,000",
+        "Discovery",
+        "Pictorial Worlds"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 2,
+      "ETH-Bibliothek's": 2,
+      "Discovery": 1,
+      "today": 1,
+      "Image Archive": 1,
+      "135,000": 1,
+      "almost a century": 1,
+      "Pictorial Worlds": 1,
+      "ETHeritage": 1,
+      "Collections and Archives": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "Flight-of-discovery-over-Switzerland.md",
+      "title": "En Internal/2014/09/flight Of Discovery Over Switzerland",
+      "language": "en",
+      "source_path": "en_internal/2014/09/Flight-of-discovery-over-Switzerland.html"
+    },
+    "temporal": {
+      "publication_date": "2014-09",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "135,000",
+        "Discovery",
+        "Pictorial Worlds"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Over Switzerland",
+        "Image Archive",
+        "ETH-Bibliothek",
+        "Pictorial Worlds",
+        "En Internal",
+        "Of Discovery",
+        "Bildarchiv Online"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Collections and Archives",
+        "ETH-Bibliothek's",
+        "ETHeritage",
+        "Image Archive"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "ETH-Bibliothek's",
+        "Discovery",
+        "today",
+        "Image Archive",
+        "135,000",
+        "almost a century",
+        "Pictorial Worlds",
+        "ETHeritage",
+        "Collections and Archives"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 742
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Image Archive",
+        "ETHeritage",
+        "Collections and Archives",
+        "ETH-Bibliothek's",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Discovery",
+        "Pictorial Worlds",
+        "135,000",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

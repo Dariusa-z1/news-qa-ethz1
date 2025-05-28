@@ -1,0 +1,906 @@
+{
+  "filename": "neural-network-can-read-tree-heights-from-satellite-images.md",
+  "original_filename": "neural-network-can-read-tree-heights-from-satellite-images.html",
+  "source_path": "en_news_events/2022/04/neural-network-can-read-tree-heights-from-satellite-images.html",
+  "date": "2022-04",
+  "title": "Neural Network Can Read Tree Heights From Satellite Images",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Trained with laser scanning data from space",
+      "text": "Last year marked the beginning of the UN Decade on Ecosystem Restoration. This initiative is aimed at halting the degradation of ecosystems by 2030, preventing it going forward and, if possible, remedying the damage that has already been done. Delivering on these kinds of projects calls for accurate foundations, such as surveys and maps of the existing vegetation.\n\nIn an interview, Ralph Dubayah, the Principal Investigator of NASA’s Global Ecosystem Dynamics Investigation (GEDI) mission, explains: “We simply do not know how tall trees are globally. [...] We need good global maps of where trees are. Because whenever we cut down trees, we release carbon into the atmosphere, and we don’t know how much carbon we are releasing.”\n\nAnalysing and preparing precisely this kind of environmental data is what the EcoVision Lab in the ETH Zurich Department of Civil, Environmental and Geomatic Engineering specialises in. Founded by ETH Zurich Professor Konrad Schindler and University of Zurich Professor Jan Dirk Wegner in 2017, this lab is where researchers are developing machine learning algorithms that enable automatic analysis of large-scale environmental data. One of those researchers is Nico Lang. In his doctoral thesis, he developed an approach – based on neural networks – for deriving vegetation height from optical satellite images. Using this approach, he was able to create the first vegetation height map that covers the entire Earth: the Global Canopy Height Map .\n\nThe map’s high resolution is another first: thanks to Lang’s work, users can zoom in to as little as 10x10 metres of any piece of woodland on Earth and check the tree height. A forest survey of this kind could lead the way forward particularly in dealing with carbon emissions, as tree height is a key indicator of biomass and the amount of carbon stored. “Around 95 percent of the biomass in forests is made up of wood, not leaves. Thus, biomass strongly correlates with height,” explains Konrad Schindler, Professor of Photogrammetry and Remote Sensing."
+    },
+    {
+      "heading": "Trained with laser scanning data from space",
+      "text": "But how does a computer read tree height from a satellite image? “Since we don’t know which patterns the computer needs to look out for to estimate height, we let it learn the best image filters itself,” Lang says. He shows his neural network millions of examples – courtesy of the images from the two Copernicus Sentinel-2 satellites operated by the European Space Agency (ESA). These satellites capture every location on Earth every five days with a resolution of 10x10 metres per pixel. They are the highest-quality images currently available to the public."
+    },
+    {
+      "heading": "Foundation for future ecological research",
+      "text": "The algorithm must also have access to the correct answer – that is, the tree height derived from space laser measurements from NASA’s GEDI mission . “The GEDI mission delivers globally distributed, sparse data on the vegetation height between the latitudes of 51 degrees north and south, so the computer sees many different vegetation types in the training process,” Lang explains. With the input and answer, the algorithm can acquire the filters for textural and spectral patterns itself. Once the neural network has been trained, it can automatically estimate the vegetation height from the more than 250,000 images (some 160 terabytes of data) needed for the global map.\n\nIn specialist jargon, Lang’s neural network is known as a convolutional neural network (CNN). The “convolution” is a mathematical operation in which the algorithm slides a 3x3 pixel filter mask over the satellite image to obtain information on brightness patterns in the image. “The trick here is that we stack the image filters. This gives the algorithm contextual information, since every pixel, from the previous convolution layer, already includes information about its neighbours,” Schindler says. As a result, the EcoVision Lab was the first to successfully use satellite maps to also reliably estimate tree heights of up to 55 metres.\n\nBecause their many layers make these neural networks “deep”, this method is also called “deep learning”. It heralded a major revolution in image processing around ten years ago. However, dealing with the sheer amount of data remains very challenging: calculating the global vegetation height map would take a single powerful computer three years. “Fortunately, we have access to the ETH Zurich high-performance computing cluster, so we didn’t have to wait three years for the map to be calculated,” Lang says with a laugh."
+    },
+    {
+      "heading": "Transparency by estimating uncertainties",
+      "text": "Lang didn’t prepare just one CNN for this task, but several. This is known as an ensemble. “An important aspect for us was also letting users know the uncertainty of the estimate,” he says. The neural networks – five altogether – were trained independently of each other, with each one returning its own estimate of tree height. “If all the models agree, then the answer is clear based on the training data. If the models arrive at different answers, it means there is a higher uncertainty in the estimate,” Lang explains. The models also incorporate uncertainties in the data itself: if a satellite image is hazy, for instance, the uncertainty is greater than when atmospheric conditions are good.\n\nThanks to its high resolution, Lang’s global map provides detailed insights: “We have already discovered interesting patterns,” Schindler says. “In the Rocky Mountains, for example, forests are managed in fixed sections, and the rainforest also forms interesting structures that can’t be coincidental.” Now ecologists can interpret these captured patterns and data globally.\n\nTo allow this research to continue, the map and its source code will be made publicly accessible (see link). The first interested parties have already been in touch: Walter Jetz, a professor at Yale University, wants to use the Global Canopy Height Map for biodiversity modelling. However, the map could also be of interest to governments, administrative bodies and NGOs. “Thanks to Sentinel-2, vegetation height can be recalculated every five days, making it possible to monitor rainforest deforestation,” Lang says.\n\nIn addition, he adds, it is now also possible to globally validate regional findings, such as the way tropical leaf canopies act as a climate buffer. Coupled with the High Carbon Stock Approach , which classifies forests according to their carbon storage and biodiversity value, the vegetation height map is an important foundation for maintaining and strengthening ecosystems. According to Lang’s calculations, vegetation with a height of more than 30 metres is found on only 5 percent of the landmass, and only 34 percent of it is located in protected areas.\n\nWith the GEDI mission set to end in 2023, Lang’s newly developed approach offers the possibility to continue mapping vegetation height in future. However, getting the GEDI mission extended – something that is currently also being discussed in the media internationally – is key to comparing its data with future satellite missions such as the ESA Biomass mission and calibrating the model for changes.\n\nLang, N, Jetz, W, Schindler, K, Wegner, JD. A high-resolution canopy height model of the Earth. Nature Ecology & Evolution, 28 September 2023, doi: 10.1038/s41559-023-02206-6"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Network Can Read Tree Heights From Satellite Images",
+        "label": "WORK_OF_ART",
+        "start": 30,
+        "end": 81
+      },
+      {
+        "text": "Last year",
+        "label": "DATE",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Ralph Dubayah",
+        "label": "PERSON",
+        "start": 384,
+        "end": 397
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 429,
+        "end": 433
+      },
+      {
+        "text": "Global Ecosystem Dynamics Investigation",
+        "label": "ORG",
+        "start": 436,
+        "end": 475
+      },
+      {
+        "text": "GEDI",
+        "label": "ORG",
+        "start": 477,
+        "end": 481
+      },
+      {
+        "text": "the ETH Zurich Department of Civil, Environmental and",
+        "label": "ORG",
+        "start": 828,
+        "end": 881
+      },
+      {
+        "text": "Geomatic Engineering",
+        "label": "ORG",
+        "start": 882,
+        "end": 902
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 930,
+        "end": 940
+      },
+      {
+        "text": "Konrad Schindler",
+        "label": "PERSON",
+        "start": 951,
+        "end": 967
+      },
+      {
+        "text": "University of Zurich",
+        "label": "ORG",
+        "start": 972,
+        "end": 992
+      },
+      {
+        "text": "Jan Dirk Wegner",
+        "label": "PERSON",
+        "start": 1003,
+        "end": 1018
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1167,
+        "end": 1170
+      },
+      {
+        "text": "Nico Lang",
+        "label": "PERSON",
+        "start": 1195,
+        "end": 1204
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1393,
+        "end": 1398
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1444,
+        "end": 1449
+      },
+      {
+        "text": "Height Map",
+        "label": "PERSON",
+        "start": 1469,
+        "end": 1479
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1519,
+        "end": 1524
+      },
+      {
+        "text": "Lang’s",
+        "label": "ORG",
+        "start": 1536,
+        "end": 1542
+      },
+      {
+        "text": "as little as 10x10",
+        "label": "CARDINAL",
+        "start": 1570,
+        "end": 1588
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1624,
+        "end": 1629
+      },
+      {
+        "text": "Around 95 percent",
+        "label": "PERCENT",
+        "start": 1839,
+        "end": 1856
+      },
+      {
+        "text": "Konrad Schindler",
+        "label": "PERSON",
+        "start": 1972,
+        "end": 1988
+      },
+      {
+        "text": "Remote Sensing",
+        "label": "PERSON",
+        "start": 2022,
+        "end": 2036
+      },
+      {
+        "text": "Lang",
+        "label": "PERSON",
+        "start": 204,
+        "end": 208
+      },
+      {
+        "text": "millions",
+        "label": "CARDINAL",
+        "start": 243,
+        "end": 251
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 298,
+        "end": 301
+      },
+      {
+        "text": "Copernicus",
+        "label": "ORG",
+        "start": 302,
+        "end": 312
+      },
+      {
+        "text": "the European Space Agency",
+        "label": "ORG",
+        "start": 347,
+        "end": 372
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 374,
+        "end": 377
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 423,
+        "end": 428
+      },
+      {
+        "text": "10x10 metres",
+        "label": "QUANTITY",
+        "start": 466,
+        "end": 478
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 128,
+        "end": 132
+      },
+      {
+        "text": "GEDI",
+        "label": "ORG",
+        "start": 155,
+        "end": 159
+      },
+      {
+        "text": "51 degrees",
+        "label": "QUANTITY",
+        "start": 261,
+        "end": 271
+      },
+      {
+        "text": "Lang",
+        "label": "PERSON",
+        "start": 368,
+        "end": 372
+      },
+      {
+        "text": "more than 250,000",
+        "label": "CARDINAL",
+        "start": 594,
+        "end": 611
+      },
+      {
+        "text": "some 160",
+        "label": "CARDINAL",
+        "start": 620,
+        "end": 628
+      },
+      {
+        "text": "jargon",
+        "label": "ORG",
+        "start": 689,
+        "end": 695
+      },
+      {
+        "text": "Lang’s",
+        "label": "ORG",
+        "start": 697,
+        "end": 703
+      },
+      {
+        "text": "CNN",
+        "label": "ORG",
+        "start": 763,
+        "end": 766
+      },
+      {
+        "text": "3x3",
+        "label": "CARDINAL",
+        "start": 847,
+        "end": 850
+      },
+      {
+        "text": "Schindler",
+        "label": "PERSON",
+        "start": 1162,
+        "end": 1171
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1217,
+        "end": 1222
+      },
+      {
+        "text": "up to 55 metres",
+        "label": "QUANTITY",
+        "start": 1300,
+        "end": 1315
+      },
+      {
+        "text": "deep learning",
+        "label": "WORK_OF_ART",
+        "start": 1406,
+        "end": 1419
+      },
+      {
+        "text": "ten years ago",
+        "label": "DATE",
+        "start": 1480,
+        "end": 1493
+      },
+      {
+        "text": "three years",
+        "label": "DATE",
+        "start": 1651,
+        "end": 1662
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "GPE",
+        "start": 1700,
+        "end": 1710
+      },
+      {
+        "text": "three years",
+        "label": "DATE",
+        "start": 1773,
+        "end": 1784
+      },
+      {
+        "text": "Lang",
+        "label": "PERSON",
+        "start": 1816,
+        "end": 1820
+      },
+      {
+        "text": "Lang",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "CNN",
+        "label": "ORG",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 212,
+        "end": 216
+      },
+      {
+        "text": "Lang",
+        "label": "PERSON",
+        "start": 508,
+        "end": 512
+      },
+      {
+        "text": "Lang",
+        "label": "ORG",
+        "start": 730,
+        "end": 734
+      },
+      {
+        "text": "Schindler",
+        "label": "PERSON",
+        "start": 827,
+        "end": 836
+      },
+      {
+        "text": "the Rocky Mountains",
+        "label": "LOC",
+        "start": 847,
+        "end": 866
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1187,
+        "end": 1192
+      },
+      {
+        "text": "Walter Jetz",
+        "label": "PERSON",
+        "start": 1240,
+        "end": 1251
+      },
+      {
+        "text": "Yale University",
+        "label": "ORG",
+        "start": 1268,
+        "end": 1283
+      },
+      {
+        "text": "Height Map",
+        "label": "PERSON",
+        "start": 1316,
+        "end": 1326
+      },
+      {
+        "text": "every five days",
+        "label": "DATE",
+        "start": 1507,
+        "end": 1522
+      },
+      {
+        "text": "Lang",
+        "label": "PERSON",
+        "start": 1581,
+        "end": 1585
+      },
+      {
+        "text": "the High Carbon Stock Approach",
+        "label": "ORG",
+        "start": 1755,
+        "end": 1785
+      },
+      {
+        "text": "Lang’s",
+        "label": "ORG",
+        "start": 1983,
+        "end": 1989
+      },
+      {
+        "text": "more than 30 metres",
+        "label": "QUANTITY",
+        "start": 2032,
+        "end": 2051
+      },
+      {
+        "text": "only 5 percent",
+        "label": "PERCENT",
+        "start": 2064,
+        "end": 2078
+      },
+      {
+        "text": "only 34 percent",
+        "label": "PERCENT",
+        "start": 2100,
+        "end": 2115
+      },
+      {
+        "text": "GEDI",
+        "label": "ORG",
+        "start": 2162,
+        "end": 2166
+      },
+      {
+        "text": "Lang’s",
+        "label": "ORG",
+        "start": 2195,
+        "end": 2201
+      },
+      {
+        "text": "GEDI",
+        "label": "ORG",
+        "start": 2320,
+        "end": 2324
+      },
+      {
+        "text": "ESA Biomass",
+        "label": "PERSON",
+        "start": 2496,
+        "end": 2507
+      },
+      {
+        "text": "Lang, N, Jetz, W,",
+        "label": "ORG",
+        "start": 2555,
+        "end": 2572
+      },
+      {
+        "text": "Schindler, K,",
+        "label": "ORG",
+        "start": 2573,
+        "end": 2586
+      },
+      {
+        "text": "Wegner",
+        "label": "GPE",
+        "start": 2587,
+        "end": 2593
+      },
+      {
+        "text": "JD",
+        "label": "PERSON",
+        "start": 2595,
+        "end": 2597
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 2644,
+        "end": 2649
+      },
+      {
+        "text": "Nature Ecology & Evolution",
+        "label": "ORG",
+        "start": 2651,
+        "end": 2677
+      },
+      {
+        "text": "September 2023",
+        "label": "DATE",
+        "start": 2682,
+        "end": 2696
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2703,
+        "end": 2710
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ESA Biomass",
+        "Height Map",
+        "JD",
+        "Jan Dirk Wegner",
+        "Konrad Schindler",
+        "Lang",
+        "Nico Lang",
+        "Ralph Dubayah",
+        "Remote Sensing",
+        "Schindler",
+        "Walter Jetz"
+      ],
+      "ORG": [
+        "CNN",
+        "Copernicus",
+        "ESA",
+        "ETH Zurich",
+        "En News",
+        "GEDI",
+        "Geomatic Engineering",
+        "Global Ecosystem Dynamics Investigation",
+        "Lang",
+        "Lang, N, Jetz, W,",
+        "Lang’s",
+        "NASA",
+        "Nature Ecology & Evolution",
+        "Schindler, K,",
+        "University of Zurich",
+        "Yale University",
+        "jargon",
+        "the ETH Zurich Department of Civil, Environmental and",
+        "the European Space Agency",
+        "the High Carbon Stock Approach"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Earth",
+        "Wegner",
+        "the Rocky Mountains"
+      ],
+      "DATE": [
+        "Last year",
+        "September 2023",
+        "every five days",
+        "ten years ago",
+        "three years"
+      ],
+      "MISC": [
+        "10.1038",
+        "10x10 metres",
+        "3x3",
+        "51 degrees",
+        "Around 95 percent",
+        "Network Can Read Tree Heights From Satellite Images",
+        "One",
+        "as little as 10x10",
+        "deep learning",
+        "first",
+        "five",
+        "millions",
+        "more than 250,000",
+        "more than 30 metres",
+        "only 34 percent",
+        "only 5 percent",
+        "some 160",
+        "two",
+        "up to 55 metres"
+      ]
+    },
+    "entity_counts": {
+      "Lang": 7,
+      "GEDI": 4,
+      "first": 4,
+      "Earth": 4,
+      "Lang’s": 4,
+      "NASA": 2,
+      "ETH Zurich": 2,
+      "Konrad Schindler": 2,
+      "Height Map": 2,
+      "CNN": 2,
+      "Schindler": 2,
+      "three years": 2,
+      "En News": 1,
+      "Network Can Read Tree Heights From Satellite Images": 1,
+      "Last year": 1,
+      "Ralph Dubayah": 1,
+      "Global Ecosystem Dynamics Investigation": 1,
+      "the ETH Zurich Department of Civil, Environmental and": 1,
+      "Geomatic Engineering": 1,
+      "University of Zurich": 1
+    },
+    "total_entities": 82,
+    "unique_entities": 57
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neural-network-can-read-tree-heights-from-satellite-images.md",
+      "title": "En News Events/2022/04/neural Network Can Read Tree Heights From Satellite Images",
+      "language": "en",
+      "source_path": "en_news_events/2022/04/neural-network-can-read-tree-heights-from-satellite-images.html"
+    },
+    "temporal": {
+      "publication_date": "2022-04",
+      "mentioned_years": [
+        "2017",
+        "2022",
+        "2023",
+        "2030"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ESA Biomass",
+        "Height Map",
+        "JD",
+        "Jan Dirk Wegner",
+        "Konrad Schindler",
+        "Lang",
+        "Nico Lang",
+        "Ralph Dubayah",
+        "Remote Sensing",
+        "Schindler",
+        "Walter Jetz"
+      ],
+      "people_with_roles": {
+        "Height Map": [
+          "professor"
+        ],
+        "Jan Dirk Wegner": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Konrad Schindler": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Lang": [
+          "researcher"
+        ],
+        "Nico Lang": [
+          "researcher"
+        ],
+        "Remote Sensing": [
+          "professor"
+        ],
+        "Schindler": [
+          "researcher",
+          "professor"
+        ],
+        "Walter Jetz": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "biology",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "10x10 metres",
+        "51 degrees",
+        "Around 95 percent",
+        "Network Can Read Tree Heights From Satellite Images",
+        "as little as 10x10",
+        "deep learning",
+        "first",
+        "five",
+        "millions",
+        "more than 250,000",
+        "more than 30 metres",
+        "only 34 percent",
+        "only 5 percent",
+        "some 160",
+        "up to 55 metres"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Heights From",
+        "Nature Ecology",
+        "Satellite Images",
+        "Ecosystem Restoration",
+        "EcoVision Lab",
+        "The GEDI",
+        "Dynamics Investigation",
+        "Yale University",
+        "Walter Jetz",
+        "Stock Approach",
+        "Rocky Mountains",
+        "Remote Sensing",
+        "Principal Investigator",
+        "Network Can",
+        "Jan Dirk",
+        "Read Tree",
+        "Professor Konrad",
+        "Copernicus Sentinel",
+        "Ralph Dubayah",
+        "Global Canopy",
+        "Global Ecosystem",
+        "Konrad Schindler",
+        "European Space",
+        "En News",
+        "ESA Biomass",
+        "Height Map",
+        "UN Decade",
+        "Geomatic Engineering",
+        "ETH Zurich",
+        "Nico Lang",
+        "Zurich Professor",
+        "High Carbon"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Civil"
+      ],
+      "institutions": [
+        "CNN",
+        "Copernicus",
+        "ESA",
+        "ETH Zurich",
+        "En News",
+        "GEDI",
+        "Geomatic Engineering",
+        "Global Ecosystem Dynamics Investigation",
+        "Lang",
+        "Lang, N, Jetz, W,",
+        "Lang’s",
+        "NASA",
+        "Nature Ecology & Evolution",
+        "Schindler, K,",
+        "University of Zurich",
+        "Yale University",
+        "jargon",
+        "the ETH Zurich Department of Civil, Environmental and",
+        "the European Space Agency",
+        "the High Carbon Stock Approach"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Earth",
+        "Wegner",
+        "the Rocky Mountains"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Lang",
+        "GEDI",
+        "first",
+        "Earth",
+        "Lang’s",
+        "NASA",
+        "ETH Zurich",
+        "Konrad Schindler",
+        "Height Map",
+        "CNN"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Trained with laser scanning data from space",
+          "Trained with laser scanning data from space",
+          "Foundation for future ecological research",
+          "Transparency by estimating uncertainties"
+        ],
+        "content_length": 7260
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Copernicus",
+        "Lang, N, Jetz, W,",
+        "Jan Dirk Wegner",
+        "ERC",
+        "Yale University",
+        "Walter Jetz",
+        "Remote Sensing",
+        "the High Carbon Stock Approach",
+        "ESA",
+        "2022",
+        "NASA",
+        "Schindler, K,",
+        "CNN",
+        "University of Zurich",
+        "Ralph Dubayah",
+        "Lang",
+        "EU",
+        "GEDI",
+        "Nature Ecology & Evolution",
+        "Konrad Schindler",
+        "JD",
+        "Schindler",
+        "the European Space Agency",
+        "2030",
+        "ESA Biomass",
+        "En News",
+        "2017",
+        "Height Map",
+        "jargon",
+        "Geomatic Engineering",
+        "Global Ecosystem Dynamics Investigation",
+        "ETH Zurich",
+        "Nico Lang",
+        "Lang’s",
+        "the ETH Zurich Department of Civil, Environmental and",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "only 34 percent",
+        "millions",
+        "Network Can Read Tree Heights From Satellite Images",
+        "when",
+        "Around 95 percent",
+        "51 degrees",
+        "10.1038",
+        "more than 30 metres",
+        "biology",
+        "only 5 percent",
+        "as little as 10x10",
+        "mathematics",
+        "10x10 metres",
+        "who",
+        "what",
+        "how",
+        "computer_science",
+        "five",
+        "climate_change",
+        "first",
+        "up to 55 metres",
+        "deep learning",
+        "some 160",
+        "more than 250,000",
+        "where"
+      ],
+      "graph_relations": [
+        "Height Map_has_role_professor",
+        "Jan Dirk Wegner_has_role_Professor",
+        "Jan Dirk Wegner_has_role_researcher",
+        "Jan Dirk Wegner_has_role_professor",
+        "Konrad Schindler_has_role_Professor",
+        "Konrad Schindler_has_role_researcher",
+        "Konrad Schindler_has_role_professor",
+        "Lang_has_role_researcher",
+        "Nico Lang_has_role_researcher",
+        "Remote Sensing_has_role_professor",
+        "Schindler_has_role_researcher",
+        "Schindler_has_role_professor",
+        "Walter Jetz_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+# de_news_events_2017_07_datascience-capkun.html
+
+**Source:** de_news_events/2017/07/datascience-capkun.html
+
+## Zur Person
+
+- Lino Guzzella: «Diese Chance müssen wir packen» (ETH-News 20.06.2017)
+
+Herr Capkun, Sie sagten kürzlich in einem Interview: «Ein bisschen Paranoia schadet bei der IT-Sicherheit nicht.» Wie paranoid sollte man idealerweise sein? Bei der IT-Sicherheit ist es tatsächlich gut, etwas paranoid zu sein und die Technik immer wieder zu hinterfragen. Aber dann stellt sich sofort die Frage: Was macht man damit? Vollständige Sicherheit gibt es nur, wenn man auf viele Vorteile verzichtet. Es geht also um die richtige Balance zwischen Funktionalität und Sicherheit.
+
+Das Hinterfragen setzt aber voraus, dass man eine gewisse Ahnung von IT-Systemen hat. Das ist die Basis, ja. Das gilt auch für die Angreifer: Wenn man ein Auto, eine Drohne oder ein Kernkraftwerk manipulieren will, muss man genau verstehen, wie die Systeme funktionieren. Die Frage ist: Was wollen die Angreifer? Geht es ihnen um ein bestimmtes Ziel oder wollen sie nur Chaos anrichten?
+
+Als Sicherheitsexperte müssen Sie also die Interessen der Angreifer stets mitbedenken? Ja, man muss vorausschauen. Die Möglichkeiten des Verteidigers sind stets limitiert. Nehmen Sie ein Mobiltelefon: Wie können Sie dieses sicher machen? Die Chips in diesem Gerät, das Betriebssystem, die Apps – all dies wurde von verschiedenen Firmen hergestellt, die Sie nicht kontrollieren können. Es ist sehr schwierig, das Gerät wirklich sicher zu machen, ohne das Betriebssystem oder die Hardware zu ändern.
+
+Hat sich die Art, wie Systeme angegriffen werden, in den letzten Jahren verändert? Eine neue Entwicklung ist die sogenannte Ransomware. Mit ihr kann man Daten verschlüsseln und die Opfer anschliessend erpressen. Solche Attacken gibt es schon länger. Neu ist, dass Erpresser mit virtuellen Währungen wie Bitcoin die Möglichkeit haben, unerkannt zu bleiben, wenn sie sich das Lösegeld anonym überweisen lassen. Ohne dies würden solche Erpressungen nicht funktionieren.
+
+Welche Geräte sind besonders leicht zu knacken? Das Spektrum an Geräten, die angegriffen werden, ist gross, weil viele Geräte schlecht geschützt sind. Das hängt oft mit dem Preis zusammen. Wer eine günstige Wifi-Kamera produzieren will, kann nicht viel Geld in die Sicherheit investieren. So entstehen Schlupflöcher.
+
+Sie selbst forschen unter anderem am Schutz von medizinischen Geräten. Wie gut sind unsere Spitäler vor Angriffen geschützt? Die Situation ist komplex. Bei einem Herzschrittmacher zum Beispiel lässt sich die Steuerungssoftware nur beschränkt verschlüsseln. So stellt sich die Frage: Wer hat den Schlüssel zu dieser Software? Der Arzt? Was ist, wenn er in den Ferien ist? Und wie gut geschützt sind die Geräte, mit denen man den Herzschrittmacher programmiert? Solche Fragen untersuchen wir momentan in unserer Forschung.
+
+Vor wenigen Monaten wurden – vor allem in England – etliche Spitäler von Hackern angegriffen. Was war da das Problem? In vielen Spitälern gibt medizinische Geräte mit veralteten Betriebssystemen, teilweise sogar mit Windows 98, obwohl das schon seit Jahren nicht mehr unterstützt wird. Wenn man die Software aktualisieren will, könnte es sein, dass die Geräte nicht mehr richtig funktionieren, weil zum Beispiel Hard- und Software nicht mehr kompatibel sind. Es braucht also eine aufwändige Softwareentwicklung, und die Geräte müssen neu zertifiziert werden. Beides kostet Zeit und Geld. Und die Geräte einfach durch neue zu ersetzen, ist oft keine Lösung.
+
+Man muss also einen Kompromiss finden? Die Komplexität zeigt sich, wenn man eine Risikoeinschätzung durchführt. Wie heikel ist es beispielsweise, wenn ein CT-Scan in falsche Hände gerät? Das hängt – unter anderem – auch davon ab, wie das Gesundheitswesen reguliert ist. Nochmals: Ein Spital vor Hackerangriffen zu schützen, ist zwar eine technische Aufgabe, aber eben nicht nur.
+
+Ein anderes Thema, das die Öffentlichkeit gegenwärtig stark interessiert, ist die Frage, ob Cyber-Attacken unsere Demokratie unterwandern. Wie schätzen Sie die Situation ein? Problematisch ist nicht nur, dass Wahlen manipuliert werden könnten, sondern auch, dass die Menschen das Vertrauen in die demokratischen Prozesse verlieren könnten. Die Post entwickelt gegenwärtig ein E-Voting-System für die Schweiz. Man kann zwar zeigen, dass dieses System kryptografisch sicher ist. Aber was kann jemand, der mit Kryptografie nicht vertraut ist, mit dieser Information anfangen? Wie überzeugt man die Menschen, dass bei einer Abstimmung oder Wahl alles mit rechten Dingen zuging? Das ist ein spannendes Thema, über das ich im Moment viel nachdenke.
+
+Vor kurzem fand an der ETH der Cyber Risk Summit statt, der vom Zurich Information Security and Privacy Center (ZISC) organisiert wurde. Was ist Ihr Fazit? Ich bin erfreut, dass wir auf eine so grosse Resonanz stiessen. Der Anlass bestätigte auch, dass wir in diesem Bereich an der ETH nicht nur in der Forschung stark sind, sondern dass auch unsere Lehre eine grosse Wirkung hat. Viele unserer Studierenden ihre eigene Firma gründen. Darauf sollten wir stolz sein, denn es zeigt, dass die ETH vieles richtig macht.
+
+Wie wird sich das ZISC in den nächsten Jahren entwickeln? Wir wollen das Zentrum ausbauen. Kürzlich konnten wir weitere Partner gewinnen, beispielsweise die Post, die Zürcher Kantonalbank oder die Versicherungsgesellschaft Zurich. Bemerkenswert ist, dass wir auch mit Firmen, die in einem traditionellen Geschäftsbereich tätig sind, spannende Projekte realisieren können. Denn auch diese Firmen erleben durch die Digitalisierung einen rasanten Wandel – mit entsprechenden neuen Herausforderungen im Bereich Informationssicherheit.
+
+Die Forschung am ZISC orientiert sich also stark an konkreten Problemen? Nicht nur. Wir machen auch Grundlagenforschung, indem wir aus Neugier Sachen ausprobieren, ohne im Vornherein zu wissen, ob das funktionieren wird. Dieser Teil ist sehr wichtig für uns.
+
+## Zur Person
+
+Srdjan Capkun ist Professor für Informationssicherheit und Direktor des Zurich Information Security Center (ZISC) an der ETH Zürich. In seiner Forschung befasst er sich schwergewichtig mit dem Entwurf und der Analyse von Sicherheitsprotokollen für Funk- und Festnetze.
+
+Daten spielen in unserer Gesellschaft eine immer wichtigere Rolle. Die ETH Zürich wird sich deshalb in den kommenden Jahren vertieft mit diesem Themenschwerpunkt befassen. ETH News zeigt in einer Serie von Interviews exemplarisch auf, mit welchen Themen sich Forschende der ETH Zürich konkret befassen und wie sie die gesellschaftliche Entwicklung in ihrem Bereich einschätzen.
+
+Bisherige Beiträge in dieser Serie: - Lino Guzzella: «Diese Chance müssen wir packen» (ETH-News 20.06.2017)
+

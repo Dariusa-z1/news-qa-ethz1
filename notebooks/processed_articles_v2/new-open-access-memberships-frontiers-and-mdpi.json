@@ -1,0 +1,169 @@
+{
+  "filename": "new-open-access-memberships-frontiers-and-mdpi.md",
+  "original_filename": "new-open-access-memberships-frontiers-and-mdpi.html",
+  "source_path": "en_internal/2015/01/new-open-access-memberships-frontiers-and-mdpi.html",
+  "date": "2015-01",
+  "title": "New Open Access Memberships Frontiers And Mdpi",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The condition is that the corresponding or primary author of the article concerned is employed by ETH Zurich.\n\nIn order to take advantage of this memberships, please select ETH Zurich from the drop-down menu when submitting your manuscript via Frontiers or MDPI .\n\nFor any questions about the new arrangement please contact the E-Publishing Office at ETH-Bibliothek: ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Mdpi",
+        "label": "ORG",
+        "start": 62,
+        "end": 66
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 98,
+        "end": 108
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 172,
+        "end": 182
+      },
+      {
+        "text": "Frontiers",
+        "label": "ORG",
+        "start": 243,
+        "end": 252
+      },
+      {
+        "text": "MDPI",
+        "label": "ORG",
+        "start": 256,
+        "end": 260
+      },
+      {
+        "text": "the E-Publishing Office",
+        "label": "ORG",
+        "start": 322,
+        "end": 345
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 349,
+        "end": 363
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH-Bibliothek",
+        "Frontiers",
+        "MDPI",
+        "Mdpi",
+        "the E-Publishing Office"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Mdpi": 1,
+      "Frontiers": 1,
+      "MDPI": 1,
+      "the E-Publishing Office": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-open-access-memberships-frontiers-and-mdpi.md",
+      "title": "En Internal/2015/01/new Open Access Memberships Frontiers And Mdpi",
+      "language": "en",
+      "source_path": "en_internal/2015/01/new-open-access-memberships-frontiers-and-mdpi.html"
+    },
+    "temporal": {
+      "publication_date": "2015-01",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "And Mdpi",
+        "En Internal",
+        "Memberships Frontiers",
+        "ETH Zurich",
+        "Open Access",
+        "E-Publishing"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek",
+        "Frontiers",
+        "MDPI",
+        "Mdpi",
+        "the E-Publishing Office"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Mdpi",
+        "Frontiers",
+        "MDPI",
+        "the E-Publishing Office",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 435
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the E-Publishing Office",
+        "Frontiers",
+        "ETH-Bibliothek",
+        "2015",
+        "MDPI",
+        "ETH Zurich",
+        "Mdpi"
+      ],
+      "semantic_concepts": [
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

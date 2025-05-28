@@ -1,0 +1,170 @@
+{
+  "filename": "de_internal_2019_09_kundenzufriedenheitsumfrage-der-abteilung-betrieb.md",
+  "original_filename": "de_internal_2019_09_kundenzufriedenheitsumfrage-der-abteilung-betrieb.html",
+  "source_path": "de_internal/2019/09/kundenzufriedenheitsumfrage-der-abteilung-betrieb.html",
+  "date": "2019-09",
+  "title": "Kundenzufriedenheitsumfrage Der Abteilung Betrieb",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Abteilung Betrieb ist verantwortlich für die Medienversorgung und das Gebäudemanagement aller Gebäude und Anlagen an der ETH. Die durch die Online-Umfrage gewonnenen Informationen bilden eine wichtige Grundlage für die Planung von Massnahmen zur weiteren Steigerung von Vertrauen und Zufriedenheit der Nutzenden. Die Umfrage wird vom LINK Institut Zürich bearbeitet. Die Anonymität der Befragten und der Datenschutz sind jederzeit gewährleistet. Eine Beteiligung an der Umfrage ist während vier Wochen möglich. Eine allgemeine Übersicht der Resultate wird im ersten Quartal 2020 publiziert. Die Detailauswertungen der Umfrage bleiben der Abteilung Betrieb vorbehalten."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/09/kundenzufriedenheitsumfrage",
+        "label": "LOC",
+        "start": 0,
+        "end": 47
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 125,
+        "end": 128
+      },
+      {
+        "text": "Online-Umfrage",
+        "label": "MISC",
+        "start": 144,
+        "end": 158
+      },
+      {
+        "text": "Massnahmen",
+        "label": "LOC",
+        "start": 235,
+        "end": 245
+      },
+      {
+        "text": "Nutzenden",
+        "label": "LOC",
+        "start": 306,
+        "end": 315
+      },
+      {
+        "text": "LINK Institut Zürich",
+        "label": "ORG",
+        "start": 338,
+        "end": 358
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "LINK Institut Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2019/09/kundenzufriedenheitsumfrage",
+        "Massnahmen",
+        "Nutzenden"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Online-Umfrage"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2019/09/kundenzufriedenheitsumfrage": 1,
+      "ETH": 1,
+      "Online-Umfrage": 1,
+      "Massnahmen": 1,
+      "Nutzenden": 1,
+      "LINK Institut Zürich": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_09_kundenzufriedenheitsumfrage-der-abteilung-betrieb.md",
+      "title": "De Internal/2019/09/kundenzufriedenheitsumfrage der Abteilung Betrieb",
+      "language": "de",
+      "source_path": "de_internal/2019/09/kundenzufriedenheitsumfrage-der-abteilung-betrieb.html"
+    },
+    "temporal": {
+      "publication_date": "2019-09",
+      "mentioned_years": [
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Online-Umfrage"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "LINK Institut",
+        "Online-Umfrage",
+        "De Internal",
+        "Die Detailauswertungen",
+        "Die Umfrage",
+        "Abteilung Betrieb",
+        "Die Abteilung",
+        "Eine Beteiligung"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "LINK Institut Zürich"
+      ],
+      "locations": [
+        "De Internal/2019/09/kundenzufriedenheitsumfrage",
+        "Massnahmen",
+        "Nutzenden"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2019/09/kundenzufriedenheitsumfrage",
+        "ETH",
+        "Online-Umfrage",
+        "Massnahmen",
+        "Nutzenden",
+        "LINK Institut Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 742
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "LINK Institut Zürich",
+        "ETH",
+        "2020",
+        "2019"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Online-Umfrage",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

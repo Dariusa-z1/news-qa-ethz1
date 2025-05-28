@@ -1,0 +1,479 @@
+{
+  "filename": "automatically-filter-and-block-cookies.md",
+  "original_filename": "automatically-filter-and-block-cookies.html",
+  "source_path": "en_news_events/2022/03/automatically-filter-and-block-cookies.html",
+  "date": "2022-03",
+  "title": "Automatically Filter And Block Cookies",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The illusion of control through cookie consent banners",
+      "text": "As soon as we visit a website, much of the content is obscured by a large banner asking us to consent to the use of cookies. Cookies are small blocks of data that a browser stores to enable a website to identify a particular user without having to rely on personal data like an e-mail address. This enables browsers to, say, store personal settings or login information, or provide data on when and for how long someone visited a site.\n\nBut cookies can also collect data on user behaviour, opening the door to personalised ads, which is why legislators regulate how cookies are used. The European Union’s General Data Protection Regulation (GDPR) stipulates that website operators must obtain the user’s consent before setting cookies that collect data on user behaviour."
+    },
+    {
+      "heading": "The illusion of control through cookie consent banners",
+      "text": "They comply with this requirement by way of cookie consent banners, which should ensure that users can choose freely if they want to allow cookies and which ones.\n\nBut the reality of cookie consent banners is rather different: several studies have shown that they only appear to give users control over their data. Banners might be given a visual design that leads users to accept all cookies, or they might inadequately explain the functions of cookies or fail to declare their use altogether."
+    },
+    {
+      "heading": "Giving users control",
+      "text": "In response to this situation, ETH researchers are proposing a solution that would mean users no longer had to rely on the information provided by website operators. Dino Bollinger, Karel Kubíček and Carlos Cotrini from the group led by ETH Professor David Basin have developed a browser extension that can automatically categorise and delete cookies. They are presenting their study at a renowned security conference in august.\n\nNamed Cookieblock, this tool uses machine learning (ML) to sort cookies into the data protection categories “essential”, “functional”, “analytics” and “advertising”. With this browser extension, users will have to state only once which cookies they want to allow, and Cookieblock will do the rest. It will then proceed to delete all other cookies, irrespective of any cookie consent banners. Although these will continue to appear, they will be rendered obsolete by the browser extension. Browser extensions from other providers can hide them completely.\n\nCookieblock is available for browsers Chrome, Firefox, Edge and Opera. Tests show that it can delete more than 90 percent of cookies that collect user data. In the case of 85 percent of websites, it did so without any impairment in website functionality. In the case of 8 percent, the authors detected minor impairments in connection with “non-essential website functions”, while in the case of 7 percent, the browser interfered with website use by, for example, losing login information. Users can still use such websites by granting exceptions to them in the extension."
+    },
+    {
+      "heading": "Widespread lack of data protection",
+      "text": "As part of their study, the researchers visited more than 30,000 websites to check whether or not the cookie consent banners they encountered there met GDPR criteria. Specifically, they analysed whether the banners fully and correctly declared the cookies set, and whether only those cookies consented to had indeed been activated.\n\nOn almost 95 percent of the websites, they found at least one problem that they considered a potential GDPR violation. More than 20 percent of the websites set cookies that the user had explicitly rejected, and 70 percent already activated cookies before the user had had a chance to interact with the consent banner. “This shows how important it is for users to have control,” Kubíček says.\n\nBollinger D, Kubicek K, Cotrini C, Basin D: Automating Cookie Consent and GDPR Violation Detection , 31st USENIX Security Symposium, August 2022, (Preprint)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Filter And Block Cookies",
+        "label": "ORG",
+        "start": 37,
+        "end": 61
+      },
+      {
+        "text": "The European Union’s",
+        "label": "ORG",
+        "start": 583,
+        "end": 603
+      },
+      {
+        "text": "General Data Protection Regulation",
+        "label": "ORG",
+        "start": 604,
+        "end": 638
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "Dino Bollinger",
+        "label": "PERSON",
+        "start": 166,
+        "end": 180
+      },
+      {
+        "text": "Karel Kubíček",
+        "label": "PERSON",
+        "start": 182,
+        "end": 195
+      },
+      {
+        "text": "Carlos Cotrini",
+        "label": "PERSON",
+        "start": 200,
+        "end": 214
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 237,
+        "end": 240
+      },
+      {
+        "text": "David Basin",
+        "label": "PERSON",
+        "start": 251,
+        "end": 262
+      },
+      {
+        "text": "august",
+        "label": "DATE",
+        "start": 421,
+        "end": 427
+      },
+      {
+        "text": "Cookieblock",
+        "label": "PERSON",
+        "start": 435,
+        "end": 446
+      },
+      {
+        "text": "ML",
+        "label": "ORG",
+        "start": 481,
+        "end": 483
+      },
+      {
+        "text": "Cookieblock",
+        "label": "ORG",
+        "start": 697,
+        "end": 708
+      },
+      {
+        "text": "Chrome",
+        "label": "PERSON",
+        "start": 1022,
+        "end": 1028
+      },
+      {
+        "text": "Firefox",
+        "label": "PERSON",
+        "start": 1030,
+        "end": 1037
+      },
+      {
+        "text": "Edge",
+        "label": "ORG",
+        "start": 1039,
+        "end": 1043
+      },
+      {
+        "text": "Opera",
+        "label": "GPE",
+        "start": 1048,
+        "end": 1053
+      },
+      {
+        "text": "more than 90 percent",
+        "label": "PERCENT",
+        "start": 1085,
+        "end": 1105
+      },
+      {
+        "text": "85 percent",
+        "label": "PERCENT",
+        "start": 1156,
+        "end": 1166
+      },
+      {
+        "text": "8 percent",
+        "label": "PERCENT",
+        "start": 1254,
+        "end": 1263
+      },
+      {
+        "text": "7 percent",
+        "label": "PERCENT",
+        "start": 1379,
+        "end": 1388
+      },
+      {
+        "text": "more than 30,000",
+        "label": "CARDINAL",
+        "start": 48,
+        "end": 64
+      },
+      {
+        "text": "almost 95 percent",
+        "label": "PERCENT",
+        "start": 335,
+        "end": 352
+      },
+      {
+        "text": "at least one",
+        "label": "CARDINAL",
+        "start": 381,
+        "end": 393
+      },
+      {
+        "text": "More than 20 percent",
+        "label": "PERCENT",
+        "start": 451,
+        "end": 471
+      },
+      {
+        "text": "70 percent",
+        "label": "PERCENT",
+        "start": 543,
+        "end": 553
+      },
+      {
+        "text": "Kubíček",
+        "label": "ORG",
+        "start": 710,
+        "end": 717
+      },
+      {
+        "text": "Bollinger D",
+        "label": "PERSON",
+        "start": 724,
+        "end": 735
+      },
+      {
+        "text": "Kubicek K",
+        "label": "PERSON",
+        "start": 737,
+        "end": 746
+      },
+      {
+        "text": "31st",
+        "label": "ORDINAL",
+        "start": 825,
+        "end": 829
+      },
+      {
+        "text": "USENIX Security Symposium",
+        "label": "ORG",
+        "start": 830,
+        "end": 855
+      },
+      {
+        "text": "August 2022",
+        "label": "DATE",
+        "start": 857,
+        "end": 868
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bollinger D",
+        "Carlos Cotrini",
+        "Chrome",
+        "Cookieblock",
+        "David Basin",
+        "Dino Bollinger",
+        "Firefox",
+        "Karel Kubíček",
+        "Kubicek K"
+      ],
+      "ORG": [
+        "Cookieblock",
+        "ETH",
+        "Edge",
+        "Filter And Block Cookies",
+        "General Data Protection Regulation",
+        "Kubíček",
+        "ML",
+        "The European Union’s",
+        "USENIX Security Symposium"
+      ],
+      "LOCATION": [
+        "Opera"
+      ],
+      "DATE": [
+        "August 2022",
+        "august"
+      ],
+      "MISC": [
+        "31st",
+        "7 percent",
+        "70 percent",
+        "8 percent",
+        "85 percent",
+        "More than 20 percent",
+        "almost 95 percent",
+        "at least one",
+        "more than 30,000",
+        "more than 90 percent"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Cookieblock": 2,
+      "Filter And Block Cookies": 1,
+      "The European Union’s": 1,
+      "General Data Protection Regulation": 1,
+      "Dino Bollinger": 1,
+      "Karel Kubíček": 1,
+      "Carlos Cotrini": 1,
+      "David Basin": 1,
+      "august": 1,
+      "ML": 1,
+      "Chrome": 1,
+      "Firefox": 1,
+      "Edge": 1,
+      "Opera": 1,
+      "more than 90 percent": 1,
+      "85 percent": 1,
+      "8 percent": 1,
+      "7 percent": 1,
+      "more than 30,000": 1
+    },
+    "total_entities": 32,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "automatically-filter-and-block-cookies.md",
+      "title": "En News Events/2022/03/automatically Filter And Block Cookies",
+      "language": "en",
+      "source_path": "en_news_events/2022/03/automatically-filter-and-block-cookies.html"
+    },
+    "temporal": {
+      "publication_date": "2022-03",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bollinger D",
+        "Carlos Cotrini",
+        "Chrome",
+        "Cookieblock",
+        "David Basin",
+        "Dino Bollinger",
+        "Firefox",
+        "Karel Kubíček",
+        "Kubicek K"
+      ],
+      "people_with_roles": {
+        "Carlos Cotrini": [
+          "professor"
+        ],
+        "David Basin": [
+          "Professor",
+          "professor"
+        ],
+        "Dino Bollinger": [
+          "professor"
+        ],
+        "Karel Kubíček": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "31st",
+        "7 percent",
+        "70 percent",
+        "8 percent",
+        "85 percent",
+        "More than 20 percent",
+        "almost 95 percent",
+        "at least one",
+        "more than 30,000",
+        "more than 90 percent"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "grant"
+      ],
+      "projects": [
+        "Protection Regulation",
+        "Named Cookieblock",
+        "En News",
+        "Automating Cookie",
+        "Cotrini C",
+        "Filter And",
+        "GDPR Violation",
+        "USENIX Security",
+        "Dino Bollinger",
+        "Carlos Cotrini",
+        "Bollinger D",
+        "ETH Professor",
+        "Kubicek K",
+        "The European",
+        "David Basin",
+        "General Data",
+        "Basin D",
+        "Block Cookies"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cookieblock",
+        "ETH",
+        "Edge",
+        "Filter And Block Cookies",
+        "General Data Protection Regulation",
+        "Kubíček",
+        "ML",
+        "The European Union’s",
+        "USENIX Security Symposium"
+      ],
+      "locations": [
+        "Opera"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Cookieblock",
+        "Filter And Block Cookies",
+        "The European Union’s",
+        "General Data Protection Regulation",
+        "Dino Bollinger",
+        "Karel Kubíček",
+        "Carlos Cotrini",
+        "David Basin",
+        "august"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "The illusion of control through cookie consent banners",
+          "The illusion of control through cookie consent banners",
+          "Giving users control",
+          "Widespread lack of data protection"
+        ],
+        "content_length": 3770
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "grant",
+        "Carlos Cotrini",
+        "Kubicek K",
+        "Cookieblock",
+        "Karel Kubíček",
+        "Kubíček",
+        "General Data Protection Regulation",
+        "ERC",
+        "2022",
+        "USENIX Security Symposium",
+        "ML",
+        "Filter And Block Cookies",
+        "EU",
+        "Dino Bollinger",
+        "Bollinger D",
+        "Edge",
+        "The European Union’s",
+        "Chrome",
+        "Firefox",
+        "David Basin"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "at least one",
+        "why",
+        "85 percent",
+        "more than 30,000",
+        "who",
+        "31st",
+        "7 percent",
+        "More than 20 percent",
+        "what",
+        "70 percent",
+        "how",
+        "8 percent",
+        "when",
+        "almost 95 percent",
+        "more than 90 percent"
+      ],
+      "graph_relations": [
+        "Carlos Cotrini_has_role_professor",
+        "David Basin_has_role_Professor",
+        "David Basin_has_role_professor",
+        "Dino Bollinger_has_role_professor",
+        "Karel Kubíček_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

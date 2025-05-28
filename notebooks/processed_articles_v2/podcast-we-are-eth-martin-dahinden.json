@@ -1,0 +1,269 @@
+{
+  "filename": "podcast-we-are-eth-martin-dahinden.md",
+  "original_filename": "podcast-we-are-eth-martin-dahinden.html",
+  "source_path": "en_news_events/2022/04/podcast-we-are-eth-martin-dahinden.html",
+  "date": "2022-04",
+  "title": "Podcast We Are Eth Martin Dahinden",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In this episode, Susan Kish talks to Swiss diplomat Martin Dahinden. Having studied economics, Martin held various positions in the diplomatic service, including Swiss Missions to the UN and NATO. Before becoming the Swiss Ambassador to the US in 2014, he was Director of the Swiss Agency for Development and Cooperation. He is an expert on Swiss security policy in an international context, and currently lectures on this topic at the neighbouring University of Zurich. A keen cook and great storyteller, he is also the author of a book highlighting the Swiss contribution to culinary history, entitled: “Beyond Muesli and Fondue”.\n\nYou can read the ETH Circle portrait here: Martin Dahinden – ETH CIRCLE (ethz.ch) , This is his story."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Susan Kish",
+        "label": "PERSON",
+        "start": 17,
+        "end": 27
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 37,
+        "end": 42
+      },
+      {
+        "text": "Martin Dahinden",
+        "label": "PERSON",
+        "start": 52,
+        "end": 67
+      },
+      {
+        "text": "Martin",
+        "label": "ORG",
+        "start": 95,
+        "end": 101
+      },
+      {
+        "text": "Swiss Missions",
+        "label": "ORG",
+        "start": 162,
+        "end": 176
+      },
+      {
+        "text": "UN",
+        "label": "ORG",
+        "start": 184,
+        "end": 186
+      },
+      {
+        "text": "NATO",
+        "label": "ORG",
+        "start": 191,
+        "end": 195
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 217,
+        "end": 222
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 241,
+        "end": 243
+      },
+      {
+        "text": "the Swiss Agency for Development and Cooperation",
+        "label": "ORG",
+        "start": 272,
+        "end": 320
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 341,
+        "end": 346
+      },
+      {
+        "text": "University of Zurich",
+        "label": "ORG",
+        "start": 449,
+        "end": 469
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 555,
+        "end": 560
+      },
+      {
+        "text": "Beyond Muesli and Fondue",
+        "label": "WORK_OF_ART",
+        "start": 606,
+        "end": 630
+      },
+      {
+        "text": "Martin Dahinden",
+        "label": "PERSON",
+        "start": 676,
+        "end": 691
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Martin Dahinden",
+        "Susan Kish"
+      ],
+      "ORG": [
+        "En News",
+        "Martin",
+        "NATO",
+        "Swiss Missions",
+        "UN",
+        "University of Zurich",
+        "the Swiss Agency for Development and Cooperation"
+      ],
+      "LOCATION": [
+        "US"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Beyond Muesli and Fondue",
+        "Swiss"
+      ]
+    },
+    "entity_counts": {
+      "Swiss": 4,
+      "Martin Dahinden": 2,
+      "En News": 1,
+      "Susan Kish": 1,
+      "Martin": 1,
+      "Swiss Missions": 1,
+      "UN": 1,
+      "NATO": 1,
+      "US": 1,
+      "the Swiss Agency for Development and Cooperation": 1,
+      "University of Zurich": 1,
+      "Beyond Muesli and Fondue": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-we-are-eth-martin-dahinden.md",
+      "title": "En News Events/2022/04/podcast We Are Eth Martin Dahinden",
+      "language": "en",
+      "source_path": "en_news_events/2022/04/podcast-we-are-eth-martin-dahinden.html"
+    },
+    "temporal": {
+      "publication_date": "2022-04",
+      "mentioned_years": [
+        "2014",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Martin Dahinden",
+        "Susan Kish"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "rector",
+        "director"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Beyond Muesli and Fondue",
+        "Swiss"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Swiss Ambassador",
+        "En News",
+        "Swiss Agency",
+        "ETH CIRCLE",
+        "We Are",
+        "Martin Dahinden",
+        "ETH Circle",
+        "Eth Martin",
+        "Swiss Missions",
+        "Dahinden In",
+        "Susan Kish",
+        "Beyond Muesli"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "En News",
+        "Martin",
+        "NATO",
+        "Swiss Missions",
+        "UN",
+        "University of Zurich",
+        "the Swiss Agency for Development and Cooperation"
+      ],
+      "locations": [
+        "US"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "Swiss",
+        "Martin Dahinden",
+        "En News",
+        "Susan Kish",
+        "Martin",
+        "Swiss Missions",
+        "UN",
+        "NATO",
+        "US",
+        "the Swiss Agency for Development and Cooperation"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 794
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "University of Zurich",
+        "En News",
+        "Martin",
+        "NATO",
+        "UN",
+        "Martin Dahinden",
+        "2022",
+        "Swiss Missions",
+        "the Swiss Agency for Development and Cooperation",
+        "Susan Kish",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "where",
+        "Swiss",
+        "Beyond Muesli and Fondue"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

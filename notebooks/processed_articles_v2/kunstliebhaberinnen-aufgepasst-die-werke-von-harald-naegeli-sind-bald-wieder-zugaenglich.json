@@ -1,0 +1,214 @@
+{
+  "filename": "kunstliebhaberinnen-aufgepasst-die-werke-von-harald-naegeli-sind-bald-wieder-zugaenglich.md",
+  "original_filename": "kunstliebhaberinnen-aufgepasst-die-werke-von-harald-naegeli-sind-bald-wieder-zugaenglich.html",
+  "source_path": "en_internal/2022/10/kunstliebhaberinnen-aufgepasst-die-werke-von-harald-naegeli-sind-bald-wieder-zugaenglich.html",
+  "date": "2022-10",
+  "title": "Kunstliebhaberinnen Aufgepasst Die Werke Von Harald Naegeli Sind Bald Wieder Zugaenglich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Department of Real Estate Management recently announced the planned reopening of the parking garage on 7 November 2022.\n\nThis is sure to be welcome news for all art lovers, as the reopening will once again allow access to the spray-painted artworks of Harald Naegeli located in this garage.\n\nMore information about these works and their preservation can be found in this ETHeritage blog article.\n\nJoin our Art Walkabout to discover more public artworks at ETH Zurich.\n\n#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start.\n\nRoom for more – Experience variety and exchange"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "kunstliebhaberinnen Aufgepasst",
+        "label": "PERSON",
+        "start": 20,
+        "end": 50
+      },
+      {
+        "text": "Werke von",
+        "label": "PERSON",
+        "start": 55,
+        "end": 64
+      },
+      {
+        "text": "Bald Wieder Zugaenglich",
+        "label": "PERSON",
+        "start": 85,
+        "end": 108
+      },
+      {
+        "text": "The Department of Real Estate Management",
+        "label": "ORG",
+        "start": 0,
+        "end": 40
+      },
+      {
+        "text": "7 November 2022",
+        "label": "DATE",
+        "start": 107,
+        "end": 122
+      },
+      {
+        "text": "Harald Naegeli",
+        "label": "PERSON",
+        "start": 255,
+        "end": 269
+      },
+      {
+        "text": "ETHeritage",
+        "label": "ORG",
+        "start": 373,
+        "end": 383
+      },
+      {
+        "text": "Art Walkabout",
+        "label": "PERSON",
+        "start": 407,
+        "end": 420
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 457,
+        "end": 467
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 511,
+        "end": 526
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Art Walkabout",
+        "Bald Wieder Zugaenglich",
+        "Harald Naegeli",
+        "Werke von",
+        "kunstliebhaberinnen Aufgepasst"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "ETHeritage",
+        "The Department of Real Estate Management",
+        "the ETH Library"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "7 November 2022"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "kunstliebhaberinnen Aufgepasst": 1,
+      "Werke von": 1,
+      "Bald Wieder Zugaenglich": 1,
+      "The Department of Real Estate Management": 1,
+      "7 November 2022": 1,
+      "Harald Naegeli": 1,
+      "ETHeritage": 1,
+      "Art Walkabout": 1,
+      "ETH Zurich": 1,
+      "the ETH Library": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "kunstliebhaberinnen-aufgepasst-die-werke-von-harald-naegeli-sind-bald-wieder-zugaenglich.md",
+      "title": "En Internal/2022/10/kunstliebhaberinnen Aufgepasst die Werke von Harald Naegeli Sind Bald Wieder Zugaenglich",
+      "language": "en",
+      "source_path": "en_internal/2022/10/kunstliebhaberinnen-aufgepasst-die-werke-von-harald-naegeli-sind-bald-wieder-zugaenglich.html"
+    },
+    "temporal": {
+      "publication_date": "2022-10",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Art Walkabout",
+        "Bald Wieder Zugaenglich",
+        "Harald Naegeli",
+        "Werke von",
+        "kunstliebhaberinnen Aufgepasst"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "The Department",
+        "Sind Bald",
+        "ETH Library",
+        "Harald Naegeli",
+        "En Internal",
+        "Real Estate",
+        "Wieder Zugaenglich",
+        "ETH Zurich",
+        "Art Walkabout"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Real Estate Management recently announced the planned reopening of the parking garage on "
+      ],
+      "institutions": [
+        "ETH Zurich",
+        "ETHeritage",
+        "The Department of Real Estate Management",
+        "the ETH Library"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "kunstliebhaberinnen Aufgepasst",
+        "Werke von",
+        "Bald Wieder Zugaenglich",
+        "The Department of Real Estate Management",
+        "7 November 2022",
+        "Harald Naegeli",
+        "ETHeritage",
+        "Art Walkabout",
+        "ETH Zurich",
+        "the ETH Library"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 742
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Bald Wieder Zugaenglich",
+        "kunstliebhaberinnen Aufgepasst",
+        "ETHeritage",
+        "Harald Naegeli",
+        "the ETH Library",
+        "2022",
+        "Werke von",
+        "ETH Zurich",
+        "The Department of Real Estate Management",
+        "Art Walkabout"
+      ],
+      "semantic_concepts": [
+        "technology"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

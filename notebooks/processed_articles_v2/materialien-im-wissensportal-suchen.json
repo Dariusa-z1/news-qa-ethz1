@@ -1,0 +1,164 @@
+{
+  "filename": "materialien-im-wissensportal-suchen.md",
+  "original_filename": "materialien-im-wissensportal-suchen.html",
+  "source_path": "de_internal/2016/05/materialien-im-wissensportal-suchen.html",
+  "date": "2016-05",
+  "title": "Materialien Im Wissensportal Suchen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Somit befinden sich rund 1000 Werkstoffe der Materialgruppen Holz, Papier, Metall, Kunststoff, Stein, Glas, Keramik und Farbmittel auch im Katalog der ETH-Bibliothek.\n\nexterne Seite Material-Archiv ist ein Netzwerk von Mustersammlungen aus den Bereichen Architektur, Kunst und Design. Die Materialsammlung in der Baubibliothek ist einer der acht Standorte, wo die physischen Materialmuster vor Ort zugänglich sind."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/05",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Wissensportal",
+        "label": "LOC",
+        "start": 35,
+        "end": 48
+      },
+      {
+        "text": "Kunststoff",
+        "label": "LOC",
+        "start": 83,
+        "end": 93
+      },
+      {
+        "text": "Stein",
+        "label": "LOC",
+        "start": 95,
+        "end": 100
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 151,
+        "end": 165
+      },
+      {
+        "text": "Material-Archiv",
+        "label": "PER",
+        "start": 181,
+        "end": 196
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Material-Archiv"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2016/05",
+        "Kunststoff",
+        "Stein",
+        "Wissensportal"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2016/05": 1,
+      "Wissensportal": 1,
+      "Kunststoff": 1,
+      "Stein": 1,
+      "ETH-Bibliothek": 1,
+      "Material-Archiv": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "materialien-im-wissensportal-suchen.md",
+      "title": "De Internal/2016/05/materialien Im Wissensportal Suchen",
+      "language": "de",
+      "source_path": "de_internal/2016/05/materialien-im-wissensportal-suchen.html"
+    },
+    "temporal": {
+      "publication_date": "2016-05",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Material-Archiv"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "ETH-Bibliothek"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Die Materialsammlung",
+        "ETH-Bibliothek",
+        "Im Wissensportal",
+        "Seite Material",
+        "Materialgruppen Holz",
+        "De Internal",
+        "Bereichen Architektur",
+        "Suchen Somit"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2016/05",
+        "Kunststoff",
+        "Stein",
+        "Wissensportal"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2016/05",
+        "Wissensportal",
+        "Kunststoff",
+        "Stein",
+        "ETH-Bibliothek",
+        "Material-Archiv"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 470
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Material-Archiv",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

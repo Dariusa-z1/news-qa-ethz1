@@ -1,0 +1,22 @@
+# global-university-leaders-forum.html
+
+**Source:** en_news_events/2018/01/global-university-leaders-forum.html
+
+## Top universities with top publication performance
+
+Oxford, Cambridge, Imperial, Harvard, Stanford, MIT, Columbia, Princeton, Harvard, Yale and China’s Tsinghua University: they are all members of the WEF's Global University Leaders Forum (GULF), as are ETH Zurich and EPFL, the group’s only Swiss members. GULF meets annually in Davos during the World Economic Forum to exchange views on higher education policy issues. A new study by THE/Elsevier shows the remarkable scientific achievement, economic impact and social involvement of this association of the two dozen best universities in the world.
+
+## Top universities with top publication performance
+
+The ranking organisation Times Higher Education (THE) and Elsevier, one of the world’s largest scientific publishers, presented the results at an event in ETH Zurich’s public pavilion on the fringes of the WEF. The 27 GULF universities together account for more than seven percent of the world's scientific output. If you were to combine the GULF universities into a fictitious nation, the publication performance of these universities would rank third globally: behind the USA and China, but ahead of all other important research nations such as the UK, Japan and Germany. All GULF universities together invest nearly 20 billion US dollars annually in their top-class research.
+
+## High social relevance
+
+The GULF's current account is also impressive in terms of transfers in business and society. Each year, the 27 universities attract more than 3 billion dollars in third-party funding. According to the study, this is approximately 62,000 dollars for each researcher and teacher at these institutions. The remaining 1,000 THE-ranked institutions receive an average of 27,000 dollars in third-party funding per member of scientific staff. The GULF universities are also responsible for every eighth research citation in all patent applications worldwide.
+
+## Good economic networking
+
+Finally, the study shows that the GULF universities enter into partnerships primarily with large high-tech corporations. Microsoft, IBM, the pharmaceutical companies GSK and Pfizer as well as Google are the companies that collaborate most with the top universities. Researchers from GULF universities have published some 45,000 scientific papers over the past five years working in collaboration with private companies. Once again, the two Swiss GULF members were shown to be among the most internationally connected universities.
+
+For Lino Guzzella, President of ETH Zurich, the results of this study show the social relevance of the world's best universities: "It is all the more important that we are able to hold our top position in international rankings despite increasing competition. To do this, we need autonomy, continued solid and long-term funding from the federal government, and the innovative ideas of our researchers and teachers." Phil Baty, editorial director of the THE World University Rankings, also underlines the importance of public funding: "Many of our most ground-breaking innovations have come from publicly funded blue-skies research carried out in universities by academics who did not have a clear sense of any future commercial applications for their work."
+

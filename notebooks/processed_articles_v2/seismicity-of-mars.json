@@ -1,0 +1,810 @@
+{
+  "filename": "seismicity-of-mars.md",
+  "original_filename": "seismicity-of-mars.html",
+  "source_path": "en_news_events/2020/02/seismicity-of-mars.html",
+  "date": "2020-02",
+  "title": "Seismicity Of Mars",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Interpreting marsquake data is challenging",
+      "text": "On 26 November 2018, the NASA InSight lander successfully set down on Mars in the Elysium Planitia region. Seventy Martian days later, the mission’s seismometer SEIS began recording the planet’s vibrations. A team of researchers and engineers at ETH Zurich, led by ETH Professor Domenico Giardini, had delivered the SEIS control electronics and is responsible for the Marsquake Service. The latter is in charge for the daily interpretation of the data transmitted from Mars, in collaboration with the Swiss Seismological Service at ETH Zurich. Now, the journal Nature Geoscience published a series of articles on the results of the mission in the first months of operation on Mars.\n\nAs reported in these articles, InSight recorded 174 events until the end of September 2019. Since then, the measurements have continued leading to more than 450 observed marsquakes as of today, which have not yet been analysed in detail. This accounts for one event a day on average.\n\nThe data allows researchers observing how seismic waves travel through the planet and unveiling its internal characteristics – similar to how x-rays are used in medical tomography. Before InSight landed, researchers had developed a wide range of possible models to represent the internal structure of the red planet. The recorded marsquakes, already after few months, enable refining the understanding of the structure of the planet and to reduce the uncertainties."
+    },
+    {
+      "heading": "Interpreting marsquake data is challenging",
+      "text": "Marsquakes are similar to the seismic events we see on Earth, although they are generally of smaller magnitude. The 174 registered marsquakes can be categorized in two families: One includes 24 low-frequency events with magnitudes between 3 and 4, as documented in the papers, with waves propagating through the Martian mantle. A second family of marsquakes comprises 150 events with smaller magnitudes, shallower hypocentral depth and high frequency waves trapped in the Martian crust.\n\n“Marsquakes have characteristics already observed on the Moon during the Apollo era, with a long signal duration (10 to 20 minutes) due to the scattering properties of the Martian crust”, explains ETH Professor Giardini. In general, however, he says, interpreting marsquake data is very challenging and in most cases, it is only possible to identify the distance but not the direction from which the waves are arriving."
+    },
+    {
+      "heading": "InSight landed on a thin, sandy layer",
+      "text": "InSight opens a new era for planetary seismology. The SEIS performance exceeded so far expectations, considering the harsh conditions on Mars, characterized by temperatures ranging from minus 80 to 0 degrees Celsius every day and by strong wind oscillations. Indeed wind shakes the InSight lander and its instrumentation during the day leading to a high level of ambient noise. However, at sunset, the winds calm down allowing recording the quietest seismic data ever collected in the solar system. As a result, most seismic events detected on Mars by SEIS occurred in the quiet night hours. The challenging environment also requires to carefully distinguishing between seismic events and signals originating from movements of the lander, other instruments or atmospheric-induced perturbances. The hammering by the HP3 instrument (another InSight experiment) and the close passage of whirlwinds (dust devils), recorded by SEIS, allow to map the physical properties of the shallow soil layers just below the station. We now know that SEIS landed on a thin, sandy layer reaching a few meters deep, in the middle of a 20 meter-wide ancient impact crater. At greater depths, the Martian crust has properties comparable to Earth’s crystalline massifs but appears to be more fractured. The propagation of the seismic waves suggest that the upper mantle has a stronger attenuation compared to the lower mantle."
+    },
+    {
+      "heading": "Seismic activity also induced by tectonic stress",
+      "text": "InSight landed in a rather quiet region of Mars, as no events near the station have been recorded up to now. The three biggest events were located in the Cerberus Fossae region about 1’500 km away. It is a tectonic graben system, caused by the weight of the Elysium Mons, the biggest volcano in the Elysium Planitia area. This provides strong evidence that seismic activity on Mars is not only a consequence of the cooling and therewith the shrinking of the planet but also induced by tectonic stress. The total seismic energy released on Mars lies between the one of Earth and of the Moon.\n\nSEIS, complementary to other InSight measurements, also meaningfully contributed data to better understand the meteorological processes on Mars. The instrument’s sensitivity to both wind and atmospheric pressure allowed identifying meteorological phenomena characteristic of Mars, including the many dust devils that pass by the spacecraft every afternoon.\n\nThis article first appeared on the website of the Swiss Seismological Service .\n\nBanerdt B et al.: Initial results from the InSight mission on Mars, Nature Geoscience, 24 February 2020, doi: 10.1038/s41561-020-0544-y\n\nGiardini D et al.: The seismicity of Mars. Nature Geoscience, 24 February 2020, doi: 10.1038/s41561-020-0539-8\n\nLognonné P et al.: Constraints on the shallow elastic and anelastic structure of Mars from InSight seismic data. Nature Geoscience, 24 February 2020, doi: 10.1038/s41561-020-0536-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 37,
+        "end": 41
+      },
+      {
+        "text": "26 November 2018",
+        "label": "DATE",
+        "start": 3,
+        "end": 19
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 25,
+        "end": 29
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 70,
+        "end": 74
+      },
+      {
+        "text": "Seventy Martian days later",
+        "label": "DATE",
+        "start": 107,
+        "end": 133
+      },
+      {
+        "text": "SEIS",
+        "label": "ORG",
+        "start": 161,
+        "end": 165
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 246,
+        "end": 256
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 265,
+        "end": 268
+      },
+      {
+        "text": "Domenico Giardini",
+        "label": "PERSON",
+        "start": 279,
+        "end": 296
+      },
+      {
+        "text": "SEIS",
+        "label": "ORG",
+        "start": 316,
+        "end": 320
+      },
+      {
+        "text": "the Marsquake Service",
+        "label": "ORG",
+        "start": 364,
+        "end": 385
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 419,
+        "end": 424
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 469,
+        "end": 473
+      },
+      {
+        "text": "the Swiss Seismological Service",
+        "label": "ORG",
+        "start": 497,
+        "end": 528
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 532,
+        "end": 542
+      },
+      {
+        "text": "Nature Geoscience",
+        "label": "WORK_OF_ART",
+        "start": 561,
+        "end": 578
+      },
+      {
+        "text": "the first months",
+        "label": "DATE",
+        "start": 643,
+        "end": 659
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 676,
+        "end": 680
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 713,
+        "end": 720
+      },
+      {
+        "text": "the end of September 2019",
+        "label": "DATE",
+        "start": 747,
+        "end": 772
+      },
+      {
+        "text": "more than 450",
+        "label": "CARDINAL",
+        "start": 829,
+        "end": 842
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 869,
+        "end": 874
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 938,
+        "end": 941
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 1154,
+        "end": 1161
+      },
+      {
+        "text": "few months",
+        "label": "DATE",
+        "start": 1322,
+        "end": 1332
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 55,
+        "end": 60
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 164,
+        "end": 167
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 178,
+        "end": 181
+      },
+      {
+        "text": "between 3 and 4",
+        "label": "CARDINAL",
+        "start": 231,
+        "end": 246
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 312,
+        "end": 319
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 330,
+        "end": 336
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 472,
+        "end": 479
+      },
+      {
+        "text": "Moon",
+        "label": "PERSON",
+        "start": 544,
+        "end": 548
+      },
+      {
+        "text": "Apollo",
+        "label": "ORG",
+        "start": 560,
+        "end": 566
+      },
+      {
+        "text": "10 to 20 minutes",
+        "label": "TIME",
+        "start": 601,
+        "end": 617
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 659,
+        "end": 666
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 684,
+        "end": 687
+      },
+      {
+        "text": "Giardini",
+        "label": "PERSON",
+        "start": 698,
+        "end": 706
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "SEIS",
+        "label": "NORP",
+        "start": 54,
+        "end": 58
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 137,
+        "end": 141
+      },
+      {
+        "text": "0 degrees Celsius",
+        "label": "QUANTITY",
+        "start": 198,
+        "end": 215
+      },
+      {
+        "text": "every day",
+        "label": "DATE",
+        "start": 216,
+        "end": 225
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 282,
+        "end": 289
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 328,
+        "end": 335
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 544,
+        "end": 548
+      },
+      {
+        "text": "SEIS",
+        "label": "ORG",
+        "start": 552,
+        "end": 556
+      },
+      {
+        "text": "the quiet night hours",
+        "label": "TIME",
+        "start": 569,
+        "end": 590
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 839,
+        "end": 846
+      },
+      {
+        "text": "SEIS",
+        "label": "ORG",
+        "start": 922,
+        "end": 926
+      },
+      {
+        "text": "SEIS",
+        "label": "ORG",
+        "start": 1033,
+        "end": 1037
+      },
+      {
+        "text": "a few meters",
+        "label": "QUANTITY",
+        "start": 1077,
+        "end": 1089
+      },
+      {
+        "text": "20 meter",
+        "label": "QUANTITY",
+        "start": 1115,
+        "end": 1123
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 1175,
+        "end": 1182
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1218,
+        "end": 1223
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 43,
+        "end": 47
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 113,
+        "end": 118
+      },
+      {
+        "text": "Cerberus Fossae",
+        "label": "PERSON",
+        "start": 154,
+        "end": 169
+      },
+      {
+        "text": "about 1’500 km",
+        "label": "QUANTITY",
+        "start": 177,
+        "end": 191
+      },
+      {
+        "text": "the Elysium Mons",
+        "label": "ORG",
+        "start": 254,
+        "end": 270
+      },
+      {
+        "text": "Elysium Planitia",
+        "label": "LOC",
+        "start": 299,
+        "end": 315
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 377,
+        "end": 381
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 539,
+        "end": 543
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 568,
+        "end": 573
+      },
+      {
+        "text": "SEIS",
+        "label": "ORG",
+        "start": 591,
+        "end": 595
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 620,
+        "end": 627
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 730,
+        "end": 734
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 866,
+        "end": 870
+      },
+      {
+        "text": "every afternoon",
+        "label": "TIME",
+        "start": 931,
+        "end": 946
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 961,
+        "end": 966
+      },
+      {
+        "text": "the Swiss Seismological Service",
+        "label": "ORG",
+        "start": 994,
+        "end": 1025
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 1071,
+        "end": 1078
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1090,
+        "end": 1094
+      },
+      {
+        "text": "24 February 2020",
+        "label": "DATE",
+        "start": 1115,
+        "end": 1131
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1138,
+        "end": 1145
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1201,
+        "end": 1205
+      },
+      {
+        "text": "Nature Geoscience",
+        "label": "PERSON",
+        "start": 1207,
+        "end": 1224
+      },
+      {
+        "text": "24 February 2020",
+        "label": "DATE",
+        "start": 1226,
+        "end": 1242
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1249,
+        "end": 1256
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1356,
+        "end": 1360
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 1366,
+        "end": 1373
+      },
+      {
+        "text": "Nature Geoscience",
+        "label": "PERSON",
+        "start": 1388,
+        "end": 1405
+      },
+      {
+        "text": "24 February 2020",
+        "label": "DATE",
+        "start": 1407,
+        "end": 1423
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1430,
+        "end": 1437
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Cerberus Fossae",
+        "Domenico Giardini",
+        "Giardini",
+        "Moon",
+        "Nature Geoscience"
+      ],
+      "ORG": [
+        "Apollo",
+        "ETH",
+        "ETH Zurich",
+        "InSight",
+        "NASA",
+        "SEIS",
+        "the Elysium Mons",
+        "the Marsquake Service",
+        "the Swiss Seismological Service"
+      ],
+      "LOCATION": [
+        "Earth",
+        "Elysium Planitia",
+        "Mars"
+      ],
+      "DATE": [
+        "10 to 20 minutes",
+        "24 February 2020",
+        "26 November 2018",
+        "Seventy Martian days later",
+        "daily",
+        "every afternoon",
+        "every day",
+        "few months",
+        "the day",
+        "the end of September 2019",
+        "the first months",
+        "the quiet night hours",
+        "today"
+      ],
+      "MISC": [
+        "0 degrees Celsius",
+        "10.1038",
+        "20 meter",
+        "Martian",
+        "Nature Geoscience",
+        "One",
+        "SEIS",
+        "a few meters",
+        "about 1’500 km",
+        "between 3 and 4",
+        "first",
+        "more than 450",
+        "one",
+        "second",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Mars": 14,
+      "InSight": 9,
+      "SEIS": 7,
+      "Martian": 4,
+      "Nature Geoscience": 3,
+      "Earth": 3,
+      "24 February 2020": 3,
+      "10.1038": 3,
+      "ETH Zurich": 2,
+      "ETH": 2,
+      "the Swiss Seismological Service": 2,
+      "26 November 2018": 1,
+      "NASA": 1,
+      "Seventy Martian days later": 1,
+      "Domenico Giardini": 1,
+      "the Marsquake Service": 1,
+      "daily": 1,
+      "the first months": 1,
+      "the end of September 2019": 1,
+      "more than 450": 1
+    },
+    "total_entities": 85,
+    "unique_entities": 44
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "seismicity-of-mars.md",
+      "title": "En News Events/2020/02/seismicity Of Mars",
+      "language": "en",
+      "source_path": "en_news_events/2020/02/seismicity-of-mars.html"
+    },
+    "temporal": {
+      "publication_date": "2020-02",
+      "mentioned_years": [
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Cerberus Fossae",
+        "Domenico Giardini",
+        "Giardini",
+        "Moon",
+        "Nature Geoscience"
+      ],
+      "people_with_roles": {
+        "Domenico Giardini": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Giardini": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Moon": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "0 degrees Celsius",
+        "10.1038",
+        "20 meter",
+        "Martian",
+        "Nature Geoscience",
+        "SEIS",
+        "a few meters",
+        "about 1’500 km",
+        "between 3 and 4",
+        "first",
+        "more than 450",
+        "second",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Banerdt B",
+        "En News",
+        "Elysium Planitia",
+        "Swiss Seismological",
+        "Nature Geoscience",
+        "Cerberus Fossae",
+        "Before InSight",
+        "Elysium Mons",
+        "The SEIS",
+        "Seventy Martian",
+        "Of Mars",
+        "ETH Professor",
+        "Domenico Giardini",
+        "Giardini D",
+        "Marsquake Service",
+        "ETH Zurich",
+        "NASA InSight"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Apollo",
+        "ETH",
+        "ETH Zurich",
+        "InSight",
+        "NASA",
+        "SEIS",
+        "the Elysium Mons",
+        "the Marsquake Service",
+        "the Swiss Seismological Service"
+      ],
+      "locations": [
+        "Earth",
+        "Elysium Planitia",
+        "Mars"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Mars",
+        "InSight",
+        "SEIS",
+        "Martian",
+        "Nature Geoscience",
+        "Earth",
+        "24 February 2020",
+        "10.1038",
+        "ETH Zurich",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Interpreting marsquake data is challenging",
+          "Interpreting marsquake data is challenging",
+          "InSight landed on a thin, sandy layer",
+          "Seismic activity also induced by tectonic stress"
+        ],
+        "content_length": 5248
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "the Swiss Seismological Service",
+        "Moon",
+        "Nature Geoscience",
+        "InSight",
+        "Cerberus Fossae",
+        "2019",
+        "Giardini",
+        "SEIS",
+        "the Elysium Mons",
+        "2020",
+        "Apollo",
+        "Domenico Giardini",
+        "NASA",
+        "ETH Zurich",
+        "the Marsquake Service"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "0 degrees Celsius",
+        "20 meter",
+        "a few meters",
+        "between 3 and 4",
+        "about 1’500 km",
+        "three",
+        "Nature Geoscience",
+        "more than 450",
+        "who",
+        "10.1038",
+        "SEIS",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "Martian"
+      ],
+      "graph_relations": [
+        "Domenico Giardini_has_role_Professor",
+        "Domenico Giardini_has_role_researcher",
+        "Domenico Giardini_has_role_professor",
+        "Giardini_has_role_Professor",
+        "Giardini_has_role_researcher",
+        "Giardini_has_role_professor",
+        "Moon_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

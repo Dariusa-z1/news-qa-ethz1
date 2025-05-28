@@ -1,0 +1,237 @@
+{
+  "filename": "eth-link-mit-zusaetzlichen-abfahrtszeiten.md",
+  "original_filename": "eth-link-mit-zusaetzlichen-abfahrtszeiten.html",
+  "source_path": "de_internal/2016/09/eth-link-mit-zusaetzlichen-abfahrtszeiten.html",
+  "date": "2016-09",
+  "title": "Eth Link Mit Zusaetzlichen Abfahrtszeiten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der Shuttlebus, der die Standorte Zentrum und Hönggerberg verbindet.\n\nVom 19.9. bis 23.12.2016 vereinfacht ein zusätzlicher Bus das Pendeln zwischen den Standorten Zentrum und Hönggerberg. Neben den gewohnten Abfahrtszeiten um x.14, x.34 und x.54 Uhr verkehrt der ETH Link während des Herbstsemesters neu ab Zentrum auch um x.04 und ab Hönggerberg um x.44 Uhr. Im Gegensatz zu den bereits im Einsatz befindlichen Bussen ist das Zusatzfahrzeug mit Ausnahme des ETH Zürich-Schriftzugs am Heck vorerst ohne Branding unterwegs. Über eine Fortführung des Testbetriebs wird nach Abschluss des Semesters entschieden.\n\nNeu fahren ausserdem die ersten vier Busse ab Hönggerberg (07.30, 07.40, 07.50 und 8.10 Uhr) jetzt via Zentrum weiter bis nach Zürich HB.\n\nWeitere Informationen sowie die neuen Fahrpläne finden Sie auf der Webseite des ETH Link ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/09/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Link",
+        "label": "PER",
+        "start": 24,
+        "end": 28
+      },
+      {
+        "text": "Zentrum",
+        "label": "LOC",
+        "start": 34,
+        "end": 41
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 46,
+        "end": 57
+      },
+      {
+        "text": "Pendeln",
+        "label": "LOC",
+        "start": 131,
+        "end": 138
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 163,
+        "end": 170
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 175,
+        "end": 186
+      },
+      {
+        "text": "ETH Link",
+        "label": "ORG",
+        "start": 263,
+        "end": 271
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 307,
+        "end": 314
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 335,
+        "end": 346
+      },
+      {
+        "text": "ETH Zürich-Schriftzugs",
+        "label": "ORG",
+        "start": 459,
+        "end": 481
+      },
+      {
+        "text": "Semesters",
+        "label": "LOC",
+        "start": 586,
+        "end": 595
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 655,
+        "end": 666
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 712,
+        "end": 719
+      },
+      {
+        "text": "Zürich HB",
+        "label": "LOC",
+        "start": 736,
+        "end": 745
+      },
+      {
+        "text": "ETH Link",
+        "label": "ORG",
+        "start": 827,
+        "end": 835
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Link"
+      ],
+      "ORG": [
+        "ETH Link",
+        "ETH Zürich-Schriftzugs",
+        "Zentrum"
+      ],
+      "LOCATION": [
+        "De Internal/2016/09/",
+        "Hönggerberg",
+        "Pendeln",
+        "Semesters",
+        "Zentrum",
+        "Zürich HB"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Zentrum": 4,
+      "Hönggerberg": 4,
+      "ETH Link": 2,
+      "De Internal/2016/09/": 1,
+      "Link": 1,
+      "Pendeln": 1,
+      "ETH Zürich-Schriftzugs": 1,
+      "Semesters": 1,
+      "Zürich HB": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-link-mit-zusaetzlichen-abfahrtszeiten.md",
+      "title": "De Internal/2016/09/eth Link mit Zusaetzlichen Abfahrtszeiten",
+      "language": "de",
+      "source_path": "de_internal/2016/09/eth-link-mit-zusaetzlichen-abfahrtszeiten.html"
+    },
+    "temporal": {
+      "publication_date": "2016-09",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Link"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Im Gegensatz",
+        "Standorten Zentrum",
+        "De Internal",
+        "Standorte Zentrum",
+        "ETH Link",
+        "Der Shuttlebus",
+        "Weitere Informationen",
+        "Zusaetzlichen Abfahrtszeiten"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Link",
+        "ETH Zürich-Schriftzugs",
+        "Zentrum"
+      ],
+      "locations": [
+        "De Internal/2016/09/",
+        "Hönggerberg",
+        "Pendeln",
+        "Semesters",
+        "Zentrum",
+        "Zürich HB"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Zentrum",
+        "Hönggerberg",
+        "ETH Link",
+        "De Internal/2016/09/",
+        "Link",
+        "Pendeln",
+        "ETH Zürich-Schriftzugs",
+        "Semesters",
+        "Zürich HB"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 902
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "2016",
+        "Zentrum",
+        "ETH Link",
+        "Link",
+        "ETH Zürich-Schriftzugs"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

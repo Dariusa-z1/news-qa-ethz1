@@ -1,0 +1,315 @@
+{
+  "filename": "how-cells-create-free-space.md",
+  "original_filename": "how-cells-create-free-space.html",
+  "source_path": "en_news_events/2015/11/how-cells-create-free-space.html",
+  "date": "2015-11",
+  "title": "How Cells Create Free Space",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Membrane proteins inflate the cells",
+      "text": "The human body is constantly regenerating itself. Trillions of cells die in our bodies each day. During this same period of time, many new ones are formed as other cells divide. In order to divide, cells undergo a process known as cell rounding, which allows the chromosomes to be copied and then to be incorporated into two daughter cells. The following spectacle occurs in our bodies trillions of times each day: a cell changes the shape typical for its function by rounding into a sphere and before dividing. The daughter cells once again assume the characteristic cell shape.\n\nCell rounding is especially drastic and difficult for columnar cells that are stacked next to one another, for example the epithelial cells that form the lining of the intestines and other mucous membranes and vascular walls. These cells are similar to toothpicks in a box, tightly packed side by side with neighbouring cells. These cells have barely any space in the wall tissue to round up for cell division. Researchers at the ETH Zurich Department of Biosystems Science and Engineering (D-BSSE) in Basel have now uncovered the associated mechanism."
+    },
+    {
+      "heading": "Test environment for diseases",
+      "text": "Epithelial cells migrate to the surface to divide. (Visualisations: Sorce B et al. Nature Communications 2015)\n\nThe basic mechanism of cell rounding is already understood. Several years ago, Daniel Müller, Professor of Biophysics, and his team showed how cells activate the molecular pumps in their outer membranes, which transport sodium ions into the cell's interior. The increased ion concentration in the interior of the cell creates what is known as osmotic pressure, causing water to flow into the cell and the cell to round.\n\nA microscope can be used to observe where the rod-shaped epithelial cells find space to round. “The cells migrate from the epithelial layer to the surface, where they then divide before migrating back to the epithelial layer,” explains Müller."
+    },
+    {
+      "heading": "Cells squeeze themselves out of the wall",
+      "text": "But how do the cells make their way to the surface? In a new study, members of Müller's group working together with other research groups at D-BSSE have now shown that the epithelial cells use the same mechanism as all other cells. \"The cells pump themselves full of sodium ions and become taut as a result of the osmotic pressure. The cell's internal skeleton also contracts. The cells can then generate the force they need to virtually squeeze their way out of the epithelial layer, despite external resistance, and pop to the surface,\" says Müller.\n\nElectron micrograph of the \"micro bed of nails\". The columns are around 8 micrometres high with around 7 micrometres between them. (Photo: Sorce B et al. Nature Communications 2015)\n\nThe researchers detected the process in a cell culture. Together with the group of Andreas Hierlemann, Professor of Biosystems Engineering, they developed a rubber micro bed of nails in which they grew epithelial cells between the elastic \"nails\" (or, more accurately, pillars). This allowed the researchers to observe cellular behaviour and measure the related forces under the microscope: the cellular forces that were generated led to a deformation or bending of the pillars, which could then be readily detected.\n\nWhen the scientists inhibited the cells’ ion transport proteins, they found that the cells’ salt content increase was not only responsible for cell rounding, it was also decisive for the cells getting \"squeezed out\" of the epithelial layer. By measuring the deflection of the rubber columns, the scientists were also able to calculate the forces that the cells produced to migrate to the epithelial surface.\n\nThe researchers even used the micro bed of nails as a test environment for specific diseases. For example, it is known that epithelial cells that do not reach the surface of the epithelial layer for cell division – and therefore cannot divide undisturbed – may cause the epithelial layer to detach. This in turn may lead to tumours forming and spreading, for example in the stomach, intestines, kidneys or gall bladder. \"With our microscopic bed of nails, we can now examine the conditions under which cells are no longer able to haul themselves up to the surface,\" says Müller. The researchers have already begun to search for the genetic causes of certain diseases in this test environment. They can also use the methodology they developed to test the efficacy of new drugs.\n\nSorce B et al.: Mitotic cell contract actomyosin cortex and generate pressure to round against or escape epithelial confinement. Nature Communications, 25 November 2015, doi: 10.1038/ncomms9872"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "each day",
+        "label": "DATE",
+        "start": 87,
+        "end": 95
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 321,
+        "end": 324
+      },
+      {
+        "text": "trillions",
+        "label": "CARDINAL",
+        "start": 386,
+        "end": 395
+      },
+      {
+        "text": "the ETH Zurich Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 1006,
+        "end": 1069
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 1082,
+        "end": 1087
+      },
+      {
+        "text": "Several years ago",
+        "label": "DATE",
+        "start": 171,
+        "end": 188
+      },
+      {
+        "text": "Daniel Müller",
+        "label": "PERSON",
+        "start": 190,
+        "end": 203
+      },
+      {
+        "text": "Müller",
+        "label": "PERSON",
+        "start": 767,
+        "end": 773
+      },
+      {
+        "text": "Müller",
+        "label": "PERSON",
+        "start": 79,
+        "end": 85
+      },
+      {
+        "text": "Müller",
+        "label": "PERSON",
+        "start": 544,
+        "end": 550
+      },
+      {
+        "text": "Andreas Hierlemann",
+        "label": "PERSON",
+        "start": 817,
+        "end": 835
+      },
+      {
+        "text": "Biosystems Engineering",
+        "label": "ORG",
+        "start": 850,
+        "end": 872
+      },
+      {
+        "text": "Müller",
+        "label": "PERSON",
+        "start": 2230,
+        "end": 2236
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 2565,
+        "end": 2586
+      },
+      {
+        "text": "25 November 2015",
+        "label": "DATE",
+        "start": 2588,
+        "end": 2604
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2611,
+        "end": 2618
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andreas Hierlemann",
+        "Daniel Müller",
+        "Müller"
+      ],
+      "ORG": [
+        "Biosystems Engineering",
+        "En News",
+        "Nature Communications",
+        "the ETH Zurich Department of Biosystems Science and Engineering"
+      ],
+      "LOCATION": [
+        "Basel"
+      ],
+      "DATE": [
+        "25 November 2015",
+        "Several years ago",
+        "each day"
+      ],
+      "MISC": [
+        "10.1038",
+        "trillions",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Müller": 4,
+      "En News": 1,
+      "each day": 1,
+      "two": 1,
+      "trillions": 1,
+      "the ETH Zurich Department of Biosystems Science and Engineering": 1,
+      "Basel": 1,
+      "Several years ago": 1,
+      "Daniel Müller": 1,
+      "Andreas Hierlemann": 1,
+      "Biosystems Engineering": 1,
+      "Nature Communications": 1,
+      "25 November 2015": 1,
+      "10.1038": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-cells-create-free-space.md",
+      "title": "En News Events/2015/11/how Cells Create Free Space",
+      "language": "en",
+      "source_path": "en_news_events/2015/11/how-cells-create-free-space.html"
+    },
+    "temporal": {
+      "publication_date": "2015-11",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andreas Hierlemann",
+        "Daniel Müller",
+        "Müller"
+      ],
+      "people_with_roles": {
+        "Andreas Hierlemann": [
+          "professor"
+        ],
+        "Daniel Müller": [
+          "professor"
+        ],
+        "Müller": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "trillions"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "Cells Create",
+        "Free Space",
+        "Biosystems Engineering",
+        "Biosystems Science",
+        "Nature Communications",
+        "ETH Zurich",
+        "Andreas Hierlemann",
+        "Sorce B",
+        "D-BSSE"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biosystems Science and Engineering "
+      ],
+      "institutions": [
+        "Biosystems Engineering",
+        "En News",
+        "Nature Communications",
+        "the ETH Zurich Department of Biosystems Science and Engineering"
+      ],
+      "locations": [
+        "Basel"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Müller",
+        "En News",
+        "each day",
+        "two",
+        "trillions",
+        "the ETH Zurich Department of Biosystems Science and Engineering",
+        "Basel",
+        "Several years ago",
+        "Daniel Müller",
+        "Andreas Hierlemann"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Membrane proteins inflate the cells",
+          "Test environment for diseases",
+          "Cells squeeze themselves out of the wall"
+        ],
+        "content_length": 4596
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the ETH Zurich Department of Biosystems Science and Engineering",
+        "2015",
+        "En News",
+        "Müller",
+        "Daniel Müller",
+        "Biosystems Engineering",
+        "Nature Communications",
+        "Andreas Hierlemann"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "trillions",
+        "who",
+        "10.1038",
+        "chemistry",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Andreas Hierlemann_has_role_professor",
+        "Daniel Müller_has_role_professor",
+        "Müller_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

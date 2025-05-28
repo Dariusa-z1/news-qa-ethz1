@@ -1,0 +1,569 @@
+{
+  "filename": "new-online-courses.md",
+  "original_filename": "new-online-courses.html",
+  "source_path": "en_news_events/2013/09/new-online-courses.html",
+  "date": "2013-09",
+  "title": "New Online Courses",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Benefitting ETH students first and foremost",
+      "text": "The future is online. Does this also apply to education? “Yes” is the response from a number of universities around the world that are currently investing considerable resources in the development of new online courses. Everyone is talking about MOOCs, massive open online courses, a type of online distance learning which is intended to address the needs of a large number of students. The students complete the courses remotely, anywhere in the world in front of a computer screen, and when they pass an online examination they receive a corresponding certificate.\n\nETH Zurich also believes that online teaching has a future in education. However, in a pilot phase running through the end of 2014, it is not focussing on MOOCs but instead on online activities intended to complement traditional classroom instruction based on lectures and exercises. This autumn semester, for the first time, ETH is offering three online courses called TORQUEs – tiny, open-with-restriction courses focussed on quality and effectiveness. In other words, online courses with the goal of improving the quality and efficiency of instruction."
+    },
+    {
+      "heading": "Benefitting ETH students first and foremost",
+      "text": "The first two TORQUEs are part of ETH professor Renate Schubert’s lectures in economics and Materials Science and Computational Science and Engineering study programmes’ lectures in physics II respectively. The third TORQUE is part of an introductory course in R, a statistics program frequently used at ETH Zurich.\n\n“It is ETH Zurich’s strategy to ensure that our own students are the primary beneficiaries of these online activities in teaching,” says TORQUE Project Manager Andreas Reinhardt from the Educational Development and Technology (LET) staff unit. Furthermore, all members of Swiss universities have access to the TORQUEs’ password-protected area, with a single exception. The courses, though, are tailored to ETH students."
+    },
+    {
+      "heading": "The ‘flipped’ classroom",
+      "text": "TORQUEs consist of video sequences in which knowledge is imparted plus online exercises. Students can exchange information about course content among themselves and with tutors in an online forum. The idea is that students can prepare themselves for the associated lecture by using self-study techniques with the TORQUE learning sequences.\n\nThe online courses at ETH follow the concept of the ‘flipped’ classroom. Traditionally, knowledge is imparted during a lecture and then exercises are done at home. In the ‘flipped’ classroom, it is just the opposite: the knowledge is imparted to a large extent during self-study, and classroom time is used for exercises, in-depth study and critical reflection on the material. “Through TORQUEs, we can shift the imparting of knowledge to self-study with videos, which leaves more time in the classroom for interactions between the lecturers and the students. This is enhances the quality of time spent in the classroom”, says Reinhardt.\n\nIn the next few months, ETH intends to gather experience with this process. “We are, however, not ruling out that the TORQUEs we have today could be converted into publically accessible MOOCs in future,” adds Reinhardt. There are plans to offer three to four additional courses in the upcoming spring semester.\n\nFor the past year, ETH Zurich has offered the EduApp to its students and lecturers. It presents students with timetables and building floor plans on a smartphone, and it helps instructors design their lectures more interactively. Using the app, for instance, it is possible to conduct exercises which include online voting during a lecture.\n\nAs of this autumn semester, the app has been upgraded based on feedback and first user experiences. Ease of use in particular has been improved with Version 2.0. In addition to new features such as the use of images and mathematical formulas in online voting, the app has been simplified for lecturers and some features such as schedules and building floor plans are also available offline. The app was used by 25 lecturers in their classes during the 2012/2013 academic year, and more than 6,000 ETH students have installed it on their smartphones.\n\nJust a few weeks ago, the ETH EduApp was honoured with the Best Paper Award at the annual Gesellschaft für Medien in der Wissenschaft (GMW, Society for Media in Science) meeting in Frankfurt, Germany. The GMW annual meeting is the largest German-language conference in the field of digital media and universities."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 567,
+        "end": 577
+      },
+      {
+        "text": "the end of 2014",
+        "label": "DATE",
+        "start": 682,
+        "end": 697
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 881,
+        "end": 886
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 893,
+        "end": 896
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 909,
+        "end": 914
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 4,
+        "end": 9
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "Renate Schubert",
+        "label": "PERSON",
+        "start": 48,
+        "end": 63
+      },
+      {
+        "text": "Materials Science and Computational Science",
+        "label": "ORG",
+        "start": 92,
+        "end": 135
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 211,
+        "end": 216
+      },
+      {
+        "text": "TORQUE",
+        "label": "ORG",
+        "start": 217,
+        "end": 223
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 304,
+        "end": 314
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 323,
+        "end": 335
+      },
+      {
+        "text": "TORQUE",
+        "label": "ORG",
+        "start": 453,
+        "end": 459
+      },
+      {
+        "text": "the Educational Development and Technology",
+        "label": "ORG",
+        "start": 499,
+        "end": 541
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 588,
+        "end": 593
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 722,
+        "end": 725
+      },
+      {
+        "text": "TORQUE",
+        "label": "ORG",
+        "start": 313,
+        "end": 319
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 362,
+        "end": 365
+      },
+      {
+        "text": "Reinhardt",
+        "label": "PERSON",
+        "start": 967,
+        "end": 976
+      },
+      {
+        "text": "the next few months",
+        "label": "DATE",
+        "start": 981,
+        "end": 1000
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1002,
+        "end": 1005
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1112,
+        "end": 1117
+      },
+      {
+        "text": "Reinhardt",
+        "label": "PERSON",
+        "start": 1187,
+        "end": 1196
+      },
+      {
+        "text": "three to four",
+        "label": "CARDINAL",
+        "start": 1223,
+        "end": 1236
+      },
+      {
+        "text": "the past year",
+        "label": "DATE",
+        "start": 1293,
+        "end": 1306
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1308,
+        "end": 1318
+      },
+      {
+        "text": "EduApp",
+        "label": "ORG",
+        "start": 1335,
+        "end": 1341
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1706,
+        "end": 1711
+      },
+      {
+        "text": "Version 2.0",
+        "label": "FAC",
+        "start": 1779,
+        "end": 1790
+      },
+      {
+        "text": "the 2012/2013 academic year",
+        "label": "DATE",
+        "start": 2078,
+        "end": 2105
+      },
+      {
+        "text": "more than 6,000",
+        "label": "CARDINAL",
+        "start": 2111,
+        "end": 2126
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2127,
+        "end": 2130
+      },
+      {
+        "text": "Just a few weeks ago",
+        "label": "DATE",
+        "start": 2180,
+        "end": 2200
+      },
+      {
+        "text": "the ETH EduApp",
+        "label": "ORG",
+        "start": 2202,
+        "end": 2216
+      },
+      {
+        "text": "the Best Paper Award",
+        "label": "ORG",
+        "start": 2235,
+        "end": 2255
+      },
+      {
+        "text": "Gesellschaft",
+        "label": "ORG",
+        "start": 2270,
+        "end": 2282
+      },
+      {
+        "text": "Medien",
+        "label": "PERSON",
+        "start": 2287,
+        "end": 2293
+      },
+      {
+        "text": "Wissenschaft",
+        "label": "PERSON",
+        "start": 2301,
+        "end": 2313
+      },
+      {
+        "text": "GMW",
+        "label": "ORG",
+        "start": 2315,
+        "end": 2318
+      },
+      {
+        "text": "Society for Media",
+        "label": "ORG",
+        "start": 2320,
+        "end": 2337
+      },
+      {
+        "text": "Frankfurt",
+        "label": "GPE",
+        "start": 2361,
+        "end": 2370
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 2372,
+        "end": 2379
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 2389,
+        "end": 2395
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 2419,
+        "end": 2425
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Medien",
+        "Reinhardt",
+        "Renate Schubert",
+        "Wissenschaft"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "EduApp",
+        "En News",
+        "GMW",
+        "Gesellschaft",
+        "Materials Science and Computational Science",
+        "Society for Media",
+        "TORQUE",
+        "the Best Paper Award",
+        "the ETH EduApp",
+        "the Educational Development and Technology"
+      ],
+      "LOCATION": [
+        "Frankfurt",
+        "Germany",
+        "Version 2.0"
+      ],
+      "DATE": [
+        "Just a few weeks ago",
+        "annual",
+        "the 2012/2013 academic year",
+        "the end of 2014",
+        "the next few months",
+        "the past year",
+        "today"
+      ],
+      "MISC": [
+        "German",
+        "Swiss",
+        "first",
+        "more than 6,000",
+        "third",
+        "three",
+        "three to four",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 6,
+      "ETH Zurich": 3,
+      "first": 3,
+      "TORQUE": 3,
+      "Reinhardt": 2,
+      "En News": 1,
+      "the end of 2014": 1,
+      "three": 1,
+      "two": 1,
+      "Renate Schubert": 1,
+      "Materials Science and Computational Science": 1,
+      "third": 1,
+      "ETH Zurich’s": 1,
+      "the Educational Development and Technology": 1,
+      "Swiss": 1,
+      "the next few months": 1,
+      "today": 1,
+      "three to four": 1,
+      "the past year": 1,
+      "EduApp": 1
+    },
+    "total_entities": 47,
+    "unique_entities": 35
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-online-courses.md",
+      "title": "En News Events/2013/09/new Online Courses",
+      "language": "en",
+      "source_path": "en_news_events/2013/09/new-online-courses.html"
+    },
+    "temporal": {
+      "publication_date": "2013-09",
+      "mentioned_years": [
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Medien",
+        "Reinhardt",
+        "Renate Schubert",
+        "Wissenschaft"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student"
+        ],
+        "ETH Zurich’s": [
+          "student"
+        ],
+        "Reinhardt": [
+          "student"
+        ],
+        "Renate Schubert": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "mathematics"
+      ],
+      "research_topics": [
+        "German",
+        "Swiss",
+        "first",
+        "more than 6,000",
+        "third",
+        "three",
+        "three to four"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Online Courses",
+        "En News",
+        "Through TORQUEs",
+        "ETH EduApp",
+        "Educational Development",
+        "TORQUE Project",
+        "Materials Science",
+        "Best Paper",
+        "The GMW",
+        "ETH Zurich",
+        "Renate Schubert",
+        "Computational Science",
+        "Manager Andreas"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "EduApp",
+        "En News",
+        "GMW",
+        "Gesellschaft",
+        "Materials Science and Computational Science",
+        "Society for Media",
+        "TORQUE",
+        "the Best Paper Award",
+        "the ETH EduApp",
+        "the Educational Development and Technology"
+      ],
+      "locations": [
+        "Frankfurt",
+        "Germany",
+        "Version 2.0"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Zurich",
+        "first",
+        "TORQUE",
+        "Reinhardt",
+        "En News",
+        "the end of 2014",
+        "three",
+        "two",
+        "Renate Schubert"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Benefitting ETH students first and foremost",
+          "Benefitting ETH students first and foremost",
+          "The ‘flipped’ classroom"
+        ],
+        "content_length": 4401
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Materials Science and Computational Science",
+        "Gesellschaft",
+        "ETH Zurich’s",
+        "ERC",
+        "EduApp",
+        "the Best Paper Award",
+        "2014",
+        "Medien",
+        "Renate Schubert",
+        "2012",
+        "TORQUE",
+        "Wissenschaft",
+        "the Educational Development and Technology",
+        "En News",
+        "Society for Media",
+        "2013",
+        "the ETH EduApp",
+        "ETH Zurich",
+        "GMW",
+        "Reinhardt"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "third",
+        "three",
+        "who",
+        "Swiss",
+        "three to four",
+        "where",
+        "what",
+        "how",
+        "German",
+        "more than 6,000",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "ETH Zurich’s_has_role_student",
+        "Reinhardt_has_role_student",
+        "Renate Schubert_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

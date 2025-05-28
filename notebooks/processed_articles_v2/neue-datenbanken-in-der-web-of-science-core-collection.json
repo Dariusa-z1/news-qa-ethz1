@@ -1,0 +1,120 @@
+{
+  "filename": "neue-datenbanken-in-der-web-of-science-core-collection.md",
+  "original_filename": "neue-datenbanken-in-der-web-of-science-core-collection.html",
+  "source_path": "de_internal/2015/01/neue-datenbanken-in-der-web-of-science-core-collection.html",
+  "date": "2015-01",
+  "title": "Neue Datenbanken In Der Web Of Science Core Collection",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Ab 2015 stehen zusätzlich folgende Datenbanken zur Verfügung:\n\nEine neue Datenbankkategorie ist der Data Citation Index. Damit können Forschungsdaten aus Repositorien diverser Fachgebiete durchsucht werden.\n\nexterne Seite Web of Science Core Collection"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/01/neue Datenbanken",
+        "label": "LOC",
+        "start": 0,
+        "end": 36
+      },
+      {
+        "text": "Data Citation Index",
+        "label": "MISC",
+        "start": 99,
+        "end": 118
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2015/01/neue Datenbanken"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Data Citation Index"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2015/01/neue Datenbanken": 1,
+      "Data Citation Index": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neue-datenbanken-in-der-web-of-science-core-collection.md",
+      "title": "De Internal/2015/01/neue Datenbanken in der Web Of Science Core Collection",
+      "language": "de",
+      "source_path": "de_internal/2015/01/neue-datenbanken-in-der-web-of-science-core-collection.html"
+    },
+    "temporal": {
+      "publication_date": "2015-01",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Data Citation Index"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Seite Web",
+        "Collection Ab",
+        "De Internal",
+        "Science Core",
+        "Data Citation",
+        "Web Of"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2015/01/neue Datenbanken"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2015/01/neue Datenbanken",
+        "Data Citation Index"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 327
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "2015"
+      ],
+      "semantic_concepts": [
+        "Data Citation Index",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

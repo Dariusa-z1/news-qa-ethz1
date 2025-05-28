@@ -1,0 +1,535 @@
+{
+  "filename": "sportwoche-windkanal.md",
+  "original_filename": "sportwoche-windkanal.html",
+  "source_path": "de_news_events/2017/10/sportwoche-windkanal.html",
+  "date": "2017-10",
+  "title": "Sportwoche Windkanal",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Kein Blindflug mehr",
+      "text": "Die Skirennfahrerin schliesst die Schnallen ihres Skischuhs, greift ihre Stöcke und montiert die Skibrille. Sie ist startbereit – doch nicht etwa auf der Skipiste, sondern im Maschinenlabor der ETH Zürich. Der ungewohnte Anblick hat seinen Grund: Eine ganze Woche testeten Nachwuchsathletinnen und -athleten eine am Institut für Fluiddynamik entwickelte Messmethode im Windkanal der ETH. Neben Skirennfahrern suchten auch Ski-Crosser und Radrennradfahrer im Tunnel die windschnittigste Ausrüstung und eine möglichst aerodynamische Fahrposition."
+    },
+    {
+      "heading": "Kein Blindflug mehr",
+      "text": "Zur Testwoche eingeladen haben das ETH-Spin-off «streamwise» und die Forschungsgruppe von Professor Thomas Rösgen. Sie alle haben in den vergangenen Jahren an der Entwicklung des neuen, ProCap genannten Messverfahrens mitgearbeitet. «Herkömmliche Messungen im Windkanal geben nur Auskunft über den gesamten Luftwiderstand eines Testobjekts. Um aber zu erkennen, wo der Luftwiderstand entsteht, ist es entscheidend, das Strömungsfeld zu verstehen», erklärt Andreas Müller, Postdoktorand an der ETH Zürich.\n\nDieses liess sich in der Vergangenheit nur über aufwändige quantitative Methoden erfassen oder über optische Hilfsmittel wie Rauch qualitativ darstellen. «Ein klassischer Test im Windkanal ist für Sportlerinnen und Sportler ein Blindflug. Sie müssen im Nachhinein selber mutmassen, wie und wo Luftwiderstand entstand», so Müller. Genau hier setzt die neue Methode an: Sie erfasst das gesamte Strömungsumfeld rund um das Testobjekt und visualisiert die Windströme in Echtzeit auf dem Bildschirm."
+    },
+    {
+      "heading": "Pfeile und Farben zeigen Windströme",
+      "text": "Während des Tests wird mit einer Messsonde im Windkanal jener Bereich gescannt, über den man mehr erfahren möchte. Die Sonde misst Geschwindigkeit, Richtung und Druck der Windströme und liefert diese Informationen direkt an den Computer. Dank der von der ETH entwickelten Software werden die Informationen sofort auf dem Bildschirm visualisiert – kleine Pfeile zeigen die Richtung der Windströme, unterschiedliche Farbtöne die Stärke.\n\n«Mit der Methode sehen Athleten, Trainer und Techniker sofort am Bildschirm, an welchen Stellen wie viel Luftwiderstand entsteht», erklärt Andrin Landolt, ehemaliger Postdoktorand an der ETH Zürich und Gründer von streamwise. Auf diese Weise können sie vor Ort unterschiedliche Ausrüstungen und Positionen ausprobieren und die Auswirkung auf die Strömung direkt analysieren. Damit lässt sich viel Zeit und Geld sparen.\n\n«Die Testwoche ist für uns ein wichtiger Schritt, um die Methode bei realen Kunden einzusetzen und sie von der rein wissenschaftlichen Anwendung in die Geschäftswelt zu übertragen», so Landolt. Dass dies auf Interesse stösst, belegt die illustre Gästeschar während der Testwoche: Neben den Nachwuchsathleten schauten auch die Ski-Legende Karl Frehsner und der mehrfache Zeitfahr-Weltmeister Tony Martin im ETH-Windkanal vorbei. Sie konnten – wie alle anderen Trainer, Athleten und Techniker – auf dem Grossbildschirm die Messungen verfolgen und gemeinsam über Optimierungen diskutieren. Dieser Dialog ist nur dank der Live-Visualisierung der Luftströme möglich."
+    },
+    {
+      "heading": "Windströme in Augmented Reality",
+      "text": "Während für streamwise die Kommerzialisierung der Methode im Vordergrund steht, forscht die ETH an möglichen Weiterentwicklungen. Das nächste Projekt: Die Windströme sollen in Zukunft über eine Augmented Reality Brille dargestellt werden. «Dies wird vor allem jener Person helfen, die mit der Messsonde die Scans vornimmt. Sie wird dank Augmented Reality die Windströme gleich am ‘lebenden’ Objekt wahrnehmen können.»\n\nMotion Capture of Manually Operated Flow Probes.\n\nMueller, A., Landolt, A., Roesgen, T., Probe Capture for Quantitative Flow Visualization in Large Scale Wind Tunnels, Proc. of the 28th AIAA Conference, 2012. -> Weiterlesen"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "sportwoche",
+        "label": "MISC",
+        "start": 23,
+        "end": 33
+      },
+      {
+        "text": "Skischuhs",
+        "label": "LOC",
+        "start": 50,
+        "end": 59
+      },
+      {
+        "text": "Skibrille",
+        "label": "LOC",
+        "start": 97,
+        "end": 106
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 194,
+        "end": 204
+      },
+      {
+        "text": "Anblick",
+        "label": "LOC",
+        "start": 221,
+        "end": 228
+      },
+      {
+        "text": "Institut für Fluiddynamik",
+        "label": "ORG",
+        "start": 316,
+        "end": 341
+      },
+      {
+        "text": "Windkanal",
+        "label": "ORG",
+        "start": 369,
+        "end": 378
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 383,
+        "end": 386
+      },
+      {
+        "text": "Ski-Crosser",
+        "label": "PER",
+        "start": 422,
+        "end": 433
+      },
+      {
+        "text": "Thomas Rösgen",
+        "label": "PER",
+        "start": 100,
+        "end": 113
+      },
+      {
+        "text": "ProCap",
+        "label": "MISC",
+        "start": 186,
+        "end": 192
+      },
+      {
+        "text": "Messverfahrens",
+        "label": "LOC",
+        "start": 203,
+        "end": 217
+      },
+      {
+        "text": "Windkanal",
+        "label": "ORG",
+        "start": 260,
+        "end": 269
+      },
+      {
+        "text": "Luftwiderstand",
+        "label": "LOC",
+        "start": 307,
+        "end": 321
+      },
+      {
+        "text": "Luftwiderstand",
+        "label": "LOC",
+        "start": 369,
+        "end": 383
+      },
+      {
+        "text": "Andreas Müller",
+        "label": "PER",
+        "start": 456,
+        "end": 470
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 493,
+        "end": 503
+      },
+      {
+        "text": "Windkanal",
+        "label": "LOC",
+        "start": 684,
+        "end": 693
+      },
+      {
+        "text": "Luftwiderstand",
+        "label": "PER",
+        "start": 798,
+        "end": 812
+      },
+      {
+        "text": "Strömungsumfeld",
+        "label": "LOC",
+        "start": 897,
+        "end": 912
+      },
+      {
+        "text": "Windkanal",
+        "label": "LOC",
+        "start": 46,
+        "end": 55
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 255,
+        "end": 258
+      },
+      {
+        "text": "Andrin Landolt",
+        "label": "PER",
+        "start": 574,
+        "end": 588
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 622,
+        "end": 632
+      },
+      {
+        "text": "Landolt",
+        "label": "PER",
+        "start": 1039,
+        "end": 1046
+      },
+      {
+        "text": "Gästeschar",
+        "label": "LOC",
+        "start": 1100,
+        "end": 1110
+      },
+      {
+        "text": "Karl Frehsner",
+        "label": "PER",
+        "start": 1192,
+        "end": 1205
+      },
+      {
+        "text": "mehrfache",
+        "label": "MISC",
+        "start": 1214,
+        "end": 1223
+      },
+      {
+        "text": "Tony Martin",
+        "label": "PER",
+        "start": 1245,
+        "end": 1256
+      },
+      {
+        "text": "ETH-Windkanal",
+        "label": "MISC",
+        "start": 1260,
+        "end": 1273
+      },
+      {
+        "text": "Optimierungen",
+        "label": "LOC",
+        "start": 1414,
+        "end": 1427
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 92,
+        "end": 95
+      },
+      {
+        "text": "Scans",
+        "label": "ORG",
+        "start": 307,
+        "end": 312
+      },
+      {
+        "text": "Mueller",
+        "label": "PER",
+        "start": 467,
+        "end": 474
+      },
+      {
+        "text": "A.",
+        "label": "PER",
+        "start": 476,
+        "end": 478
+      },
+      {
+        "text": "Landolt",
+        "label": "LOC",
+        "start": 480,
+        "end": 487
+      },
+      {
+        "text": "A.",
+        "label": "LOC",
+        "start": 489,
+        "end": 491
+      },
+      {
+        "text": "Roesgen",
+        "label": "LOC",
+        "start": 493,
+        "end": 500
+      },
+      {
+        "text": "Probe Capture for Quantitative Flow",
+        "label": "MISC",
+        "start": 506,
+        "end": 541
+      },
+      {
+        "text": "Large Scale Wind Tunnels",
+        "label": "LOC",
+        "start": 559,
+        "end": 583
+      },
+      {
+        "text": "Proc",
+        "label": "PER",
+        "start": 585,
+        "end": 589
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "A.",
+        "Andreas Müller",
+        "Andrin Landolt",
+        "De News",
+        "Karl Frehsner",
+        "Landolt",
+        "Luftwiderstand",
+        "Mueller",
+        "Proc",
+        "Ski-Crosser",
+        "Thomas Rösgen",
+        "Tony Martin"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "Institut für Fluiddynamik",
+        "Scans",
+        "Windkanal"
+      ],
+      "LOCATION": [
+        "A.",
+        "Anblick",
+        "Gästeschar",
+        "Landolt",
+        "Large Scale Wind Tunnels",
+        "Luftwiderstand",
+        "Messverfahrens",
+        "Optimierungen",
+        "Roesgen",
+        "Skibrille",
+        "Skischuhs",
+        "Strömungsumfeld",
+        "Windkanal"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Windkanal",
+        "ProCap",
+        "Probe Capture for Quantitative Flow",
+        "mehrfache",
+        "sportwoche"
+      ]
+    },
+    "entity_counts": {
+      "Windkanal": 4,
+      "ETH Zürich": 3,
+      "ETH": 3,
+      "Luftwiderstand": 3,
+      "Landolt": 2,
+      "A.": 2,
+      "De News": 1,
+      "sportwoche": 1,
+      "Skischuhs": 1,
+      "Skibrille": 1,
+      "Anblick": 1,
+      "Institut für Fluiddynamik": 1,
+      "Ski-Crosser": 1,
+      "Thomas Rösgen": 1,
+      "ProCap": 1,
+      "Messverfahrens": 1,
+      "Andreas Müller": 1,
+      "Strömungsumfeld": 1,
+      "Andrin Landolt": 1,
+      "Gästeschar": 1
+    },
+    "total_entities": 42,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "sportwoche-windkanal.md",
+      "title": "De News Events/2017/10/sportwoche Windkanal",
+      "language": "de",
+      "source_path": "de_news_events/2017/10/sportwoche-windkanal.html"
+    },
+    "temporal": {
+      "publication_date": "2017-10",
+      "mentioned_years": [
+        "2012",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "A.",
+        "Andreas Müller",
+        "Andrin Landolt",
+        "De News",
+        "Karl Frehsner",
+        "Landolt",
+        "Luftwiderstand",
+        "Mueller",
+        "Proc",
+        "Ski-Crosser",
+        "Thomas Rösgen",
+        "Tony Martin"
+      ],
+      "people_with_roles": {
+        "Thomas Rösgen": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "ETH-Windkanal",
+        "ProCap",
+        "Probe Capture for Quantitative Flow",
+        "mehrfache",
+        "sportwoche"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Die Testwoche",
+        "Flow Probes",
+        "Augmented Reality",
+        "Live-Visualisierung",
+        "Ski-Crosser",
+        "ETH-Spin",
+        "Dieser Dialog",
+        "Andrin Landolt",
+        "ETH-Windkanal",
+        "Zeitfahr-Weltmeister",
+        "Die Sonde",
+        "Quantitative Flow",
+        "Professor Thomas",
+        "Tony Martin",
+        "Windkanal Die",
+        "Motion Capture",
+        "Large Scale",
+        "AIAA Conference",
+        "Wind Tunnels",
+        "Manually Operated",
+        "Ski-Legende",
+        "Neben Skirennfahrern",
+        "Probe Capture",
+        "De News",
+        "Karl Frehsner",
+        "Zur Testwoche"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "Institut für Fluiddynamik",
+        "Scans",
+        "Windkanal"
+      ],
+      "locations": [
+        "A.",
+        "Anblick",
+        "Gästeschar",
+        "Landolt",
+        "Large Scale Wind Tunnels",
+        "Luftwiderstand",
+        "Messverfahrens",
+        "Optimierungen",
+        "Roesgen",
+        "Skibrille",
+        "Skischuhs",
+        "Strömungsumfeld",
+        "Windkanal"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Windkanal",
+        "ETH Zürich",
+        "ETH",
+        "Luftwiderstand",
+        "Landolt",
+        "A.",
+        "De News",
+        "sportwoche",
+        "Skischuhs",
+        "Skibrille"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Kein Blindflug mehr",
+          "Kein Blindflug mehr",
+          "Pfeile und Farben zeigen Windströme",
+          "Windströme in Augmented Reality"
+        ],
+        "content_length": 3750
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Mueller",
+        "ETH",
+        "Institut für Fluiddynamik",
+        "Ski-Crosser",
+        "Andreas Müller",
+        "Andrin Landolt",
+        "ETH Zürich",
+        "Scans",
+        "Proc",
+        "Tony Martin",
+        "Thomas Rösgen",
+        "EU",
+        "2012",
+        "Windkanal",
+        "2017",
+        "De News",
+        "Luftwiderstand",
+        "Karl Frehsner",
+        "A.",
+        "Landolt"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mehrfache",
+        "who",
+        "sportwoche",
+        "ETH-Windkanal",
+        "what",
+        "ProCap",
+        "how",
+        "computer_science",
+        "Probe Capture for Quantitative Flow"
+      ],
+      "graph_relations": [
+        "Thomas Rösgen_has_role_Professor",
+        "Thomas Rösgen_has_role_professor",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

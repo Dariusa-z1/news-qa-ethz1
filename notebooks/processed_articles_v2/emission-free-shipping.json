@@ -1,0 +1,320 @@
+{
+  "filename": "emission-free-shipping.md",
+  "original_filename": "emission-free-shipping.html",
+  "source_path": "en_news_events/2019/10/emission-free-shipping.html",
+  "date": "2019-10",
+  "title": "Emission Free Shipping",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "North and Baltic Sea region drives innovation",
+      "text": "Shipping currently accounts for around three percent of global CO 2 emissions, which makes it one of the largest polluters in the transport industry alongside road and air transport. International merchant ships and large freighters are responsible for the lion’s share of these emissions. In response, various organisations, shipping companies and governments have set themselves the joint goal of establishing water transport to be carbon-neutral in the coming years. What has never been quite clear, however, is how to make this transition effectively.\n\nNow, a group from the Department of Management, Technology and Economics at ETH Zurich has mapped out possible ways to achieve emission-free shipping as part of the sus.lab project which, in collaboration with partners from industry, aims to translate scientific findings into sustainable practices. Christian Oldendorff, entrepreneur and co-owner of German shipping company Reederei Nord, commissioned the team to undertake the study."
+    },
+    {
+      "heading": "North and Baltic Sea region drives innovation",
+      "text": "The report is based on shipping activities in the North and Baltic Seas. According to lead author Petrissa Eckle, this region has already made a name for itself as a driver of innovation in the industry. As a relatively small area, it’s also well suited for testing which solutions actually work in practice. Using external studies and interviews with innovators and industry experts as a basis, Eckle and her team investigated routes, the existing infrastructure, sustainability and the cost of new fuel options.\n\nThey focused their efforts on alternative energy sources that will be available in the next five to ten years and that don’t emit CO 2 as the ships travel. Another key requirement of the solutions they proposed was that they be scalable for international shipping. Although the study did not include measures to enhance efficiency, such as optimised hull design or operational improvements, these would result in even greater energy savings and would, in turn, further reduce carbon dioxide emissions.\n\nPetrissa Eckle and her team therefore see zero-emission propulsion systems in the form of electric motors, fuel cells or combustion engines powered by ammonia as holding the greatest potential in the near future. What makes the most suitable source of energy depends on the type of ship and length of the route. “In the North and Baltic Seas, ships with electric propulsion systems are already being used for short distances, which makes sense,” Eckle says.\n\nFor long distances, the report contends that ammonia would be a suitable option but due to its toxicity, its use as a fuel is not currently permitted. As for hydrogen, there is still a lack of capacity for liquifying and transporting; testing will soon begin on the first cargo vessels. “The next step is to run pilot projects to find answers to all the unresolved questions. We need shipping companies to test vessels with emission-free propulsion systems,” Eckle says.\n\nThe report is part of an initiative by Christian Oldendorff, the shipping company co-owner who commissioned the study. His aim is to unite important stakeholders – such as shipping companies, ship operators, investors and political decision-makers – behind a common vision for a more sustainable future for shipping. According to Oldendorff, the time has come to take action: as one of the largest generators of emissions in the transport sector, the shipping industry must find new ways of operating that are both economically and ecologically sustainable. It’s time to change our mindset and make it our mission to pursue alternative fuels and greater efficiency, he says.\n\nAs part of the initiative, eight ship operators active in the North and Baltic Seas will convene on 28 October to discuss the results of the report."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "around three percent",
+        "label": "PERCENT",
+        "start": 32,
+        "end": 52
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 63,
+        "end": 67
+      },
+      {
+        "text": "the coming years",
+        "label": "DATE",
+        "start": 452,
+        "end": 468
+      },
+      {
+        "text": "the Department of Management, Technology and Economics",
+        "label": "ORG",
+        "start": 574,
+        "end": 628
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 632,
+        "end": 642
+      },
+      {
+        "text": "Christian Oldendorff",
+        "label": "PERSON",
+        "start": 856,
+        "end": 876
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 907,
+        "end": 913
+      },
+      {
+        "text": "Reederei Nord",
+        "label": "PERSON",
+        "start": 931,
+        "end": 944
+      },
+      {
+        "text": "Petrissa Eckle",
+        "label": "PERSON",
+        "start": 98,
+        "end": 112
+      },
+      {
+        "text": "Eckle",
+        "label": "ORG",
+        "start": 396,
+        "end": 401
+      },
+      {
+        "text": "the next five to ten years",
+        "label": "DATE",
+        "start": 597,
+        "end": 623
+      },
+      {
+        "text": "CO 2",
+        "label": "PRODUCT",
+        "start": 644,
+        "end": 648
+      },
+      {
+        "text": "Petrissa Eckle",
+        "label": "PERSON",
+        "start": 1016,
+        "end": 1030
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 1058,
+        "end": 1062
+      },
+      {
+        "text": "Eckle",
+        "label": "ORG",
+        "start": 1462,
+        "end": 1467
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1740,
+        "end": 1745
+      },
+      {
+        "text": "Eckle",
+        "label": "ORG",
+        "start": 1933,
+        "end": 1938
+      },
+      {
+        "text": "Christian Oldendorff",
+        "label": "PERSON",
+        "start": 1984,
+        "end": 2004
+      },
+      {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 2647,
+        "end": 2652
+      },
+      {
+        "text": "28 October",
+        "label": "DATE",
+        "start": 2720,
+        "end": 2730
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christian Oldendorff",
+        "Petrissa Eckle",
+        "Reederei Nord"
+      ],
+      "ORG": [
+        "CO 2",
+        "ETH Zurich",
+        "Eckle",
+        "the Department of Management, Technology and Economics"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "28 October",
+        "the coming years",
+        "the next five to ten years"
+      ],
+      "MISC": [
+        "CO 2",
+        "German",
+        "around three percent",
+        "eight",
+        "first",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "Eckle": 3,
+      "CO 2": 2,
+      "Christian Oldendorff": 2,
+      "Petrissa Eckle": 2,
+      "around three percent": 1,
+      "the coming years": 1,
+      "the Department of Management, Technology and Economics": 1,
+      "ETH Zurich": 1,
+      "German": 1,
+      "Reederei Nord": 1,
+      "the next five to ten years": 1,
+      "zero": 1,
+      "first": 1,
+      "eight": 1,
+      "28 October": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "emission-free-shipping.md",
+      "title": "En News Events/2019/10/emission Free Shipping",
+      "language": "en",
+      "source_path": "en_news_events/2019/10/emission-free-shipping.html"
+    },
+    "temporal": {
+      "publication_date": "2019-10",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christian Oldendorff",
+        "Petrissa Eckle",
+        "Reederei Nord"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "CO 2",
+        "German",
+        "around three percent",
+        "eight",
+        "first",
+        "zero"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "En News",
+        "Petrissa Eckle",
+        "Reederei Nord",
+        "ETH Zurich",
+        "Baltic Seas",
+        "Free Shipping",
+        "Christian Oldendorff"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Management"
+      ],
+      "institutions": [
+        "CO 2",
+        "ETH Zurich",
+        "Eckle",
+        "the Department of Management, Technology and Economics"
+      ],
+      "locations": [],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Eckle",
+        "CO 2",
+        "Christian Oldendorff",
+        "Petrissa Eckle",
+        "around three percent",
+        "the coming years",
+        "the Department of Management, Technology and Economics",
+        "ETH Zurich",
+        "German",
+        "Reederei Nord"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "North and Baltic Sea region drives innovation",
+          "North and Baltic Sea region drives innovation"
+        ],
+        "content_length": 3812
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Petrissa Eckle",
+        "2019",
+        "EU",
+        "Eckle",
+        "Christian Oldendorff",
+        "ETH Zurich",
+        "the Department of Management, Technology and Economics",
+        "ERC",
+        "CO 2",
+        "Reederei Nord"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "zero",
+        "who",
+        "eight",
+        "what",
+        "how",
+        "German",
+        "climate_change",
+        "why",
+        "when",
+        "engineering",
+        "CO 2",
+        "around three percent"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

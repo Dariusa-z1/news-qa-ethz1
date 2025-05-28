@@ -1,0 +1,198 @@
+{
+  "filename": "fire-at-hia-building.md",
+  "original_filename": "fire-at-hia-building.html",
+  "source_path": "en_internal/2023/03/fire-at-hia-building.html",
+  "date": "2023-03",
+  "title": "Fire At Hia Building",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "A fire broke out in a van in the delivery area of the HIA building (hydraulic engineering research/laboratory building) on the Hönggerberg campus today afternoon. The fire brigade was able to extinguish the fire quickly and assumes that it was caused by an engine fire.\n\nThe HIA building was evacuated. A good 30 minutes later, the all-clear was given and the evacuation was lifted. There was no personal injury, but the fire caused damage to the façade of the HIF construction hall and the HIA North building as well as to the windows in the HIA."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Hia Building",
+        "label": "FAC",
+        "start": 28,
+        "end": 40
+      },
+      {
+        "text": "HIA",
+        "label": "ORG",
+        "start": 54,
+        "end": 57
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 127,
+        "end": 138
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 146,
+        "end": 151
+      },
+      {
+        "text": "afternoon",
+        "label": "TIME",
+        "start": 152,
+        "end": 161
+      },
+      {
+        "text": "HIA",
+        "label": "ORG",
+        "start": 274,
+        "end": 277
+      },
+      {
+        "text": "A good 30 minutes later",
+        "label": "TIME",
+        "start": 302,
+        "end": 325
+      },
+      {
+        "text": "HIF",
+        "label": "ORG",
+        "start": 460,
+        "end": 463
+      },
+      {
+        "text": "HIA North",
+        "label": "ORG",
+        "start": 490,
+        "end": 499
+      },
+      {
+        "text": "HIA",
+        "label": "ORG",
+        "start": 542,
+        "end": 545
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hönggerberg"
+      ],
+      "ORG": [
+        "HIA",
+        "HIA North",
+        "HIF"
+      ],
+      "LOCATION": [
+        "Hia Building"
+      ],
+      "DATE": [
+        "A good 30 minutes later",
+        "afternoon",
+        "today"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "HIA": 3,
+      "Hia Building": 1,
+      "Hönggerberg": 1,
+      "today": 1,
+      "afternoon": 1,
+      "A good 30 minutes later": 1,
+      "HIF": 1,
+      "HIA North": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "fire-at-hia-building.md",
+      "title": "En Internal/2023/03/fire At Hia Building",
+      "language": "en",
+      "source_path": "en_internal/2023/03/fire-at-hia-building.html"
+    },
+    "temporal": {
+      "publication_date": "2023-03",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Hönggerberg"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "At Hia",
+        "The HIA",
+        "HIA North",
+        "En Internal",
+        "Building A"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "HIA",
+        "HIA North",
+        "HIF"
+      ],
+      "locations": [
+        "Hia Building"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "HIA",
+        "Hia Building",
+        "Hönggerberg",
+        "today",
+        "afternoon",
+        "A good 30 minutes later",
+        "HIF",
+        "HIA North"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 588
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "HIA",
+        "HIA North",
+        "HIF",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "who",
+        "what",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

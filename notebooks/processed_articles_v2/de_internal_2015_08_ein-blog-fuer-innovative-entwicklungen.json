@@ -1,0 +1,140 @@
+{
+  "filename": "de_internal_2015_08_ein-blog-fuer-innovative-entwicklungen.md",
+  "original_filename": "de_internal_2015_08_ein-blog-fuer-innovative-entwicklungen.html",
+  "source_path": "de_internal/2015/08/ein-blog-fuer-innovative-entwicklungen.html",
+  "date": "2015-08",
+  "title": "Ein Blog Fuer Innovative Entwicklungen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Im Deliscope-Blog beschreiben und publizieren die Lehrspezialistinnen und Lehrspezialisten regelmässig «good practice»-Beispiele aus der Lehre und stellen innovative Entwicklungen in der Lehre vor.\n\nLehrspezialistinnen und Lehrspezialisten sind Ansprechpersonen in den Departementen für Fragen rund um die Lehre. Sie unterstützen Dozierende, koordinieren Entwicklungen innerhalb der Studiengänge und in Zusammenarbeit mit dem Stabsbereich Lehrentwicklung und -technologie (LET). Sie pflegen den direkten Kontakt zu den Dozierenden und erfahren dabei, welche Unterstützung die Dozierenden in ihrer Lehrtätigkeit brauchen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/08/ein Blog Fuer",
+        "label": "LOC",
+        "start": 0,
+        "end": 33
+      },
+      {
+        "text": "practice»-Beispiele",
+        "label": "PER",
+        "start": 109,
+        "end": 128
+      },
+      {
+        "text": "Stabsbereich Lehrentwicklung und -technologie",
+        "label": "ORG",
+        "start": 425,
+        "end": 470
+      },
+      {
+        "text": "LET",
+        "label": "ORG",
+        "start": 472,
+        "end": 475
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "practice»-Beispiele"
+      ],
+      "ORG": [
+        "LET",
+        "Stabsbereich Lehrentwicklung und -technologie"
+      ],
+      "LOCATION": [
+        "De Internal/2015/08/ein Blog Fuer"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2015/08/ein Blog Fuer": 1,
+      "practice»-Beispiele": 1,
+      "Stabsbereich Lehrentwicklung und -technologie": 1,
+      "LET": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2015_08_ein-blog-fuer-innovative-entwicklungen.md",
+      "title": "De Internal/2015/08/ein Blog Fuer Innovative Entwicklungen",
+      "language": "de",
+      "source_path": "de_internal/2015/08/ein-blog-fuer-innovative-entwicklungen.html"
+    },
+    "temporal": {
+      "publication_date": "2015-08",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "practice»-Beispiele"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Innovative Entwicklungen",
+        "De Internal",
+        "Blog Fuer",
+        "Stabsbereich Lehrentwicklung",
+        "Im Deliscope"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "LET",
+        "Stabsbereich Lehrentwicklung und -technologie"
+      ],
+      "locations": [
+        "De Internal/2015/08/ein Blog Fuer"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De Internal/2015/08/ein Blog Fuer",
+        "practice»-Beispiele",
+        "Stabsbereich Lehrentwicklung und -technologie",
+        "LET"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 679
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Stabsbereich Lehrentwicklung und -technologie",
+        "practice»-Beispiele",
+        "2015",
+        "LET"
+      ],
+      "semantic_concepts": [
+        "who"
+      ],
+      "graph_relations": []
+    }
+  }
+}

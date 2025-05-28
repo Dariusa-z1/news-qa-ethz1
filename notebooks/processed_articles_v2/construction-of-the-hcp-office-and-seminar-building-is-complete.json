@@ -1,0 +1,266 @@
+{
+  "filename": "construction-of-the-hcp-office-and-seminar-building-is-complete.md",
+  "original_filename": "construction-of-the-hcp-office-and-seminar-building-is-complete.html",
+  "source_path": "en_internal/2015/09/construction-of-the-hcp-office-and-seminar-building-is-complete.html",
+  "date": "2015-09",
+  "title": "Construction Of The Hcp Office And Seminar Building Is Complete",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Between 11 a.m. and 1 p.m. on Wednesday 16 September, staff and students of ETH Zurich can visit the new building and learn more about it on a guided tour. This will be followed by a special event for invited guests.\n\nThe HCP on Leopold-Ruzicka-Weg provides space for the Department of Materials (D-MATL), the Department of Health Sciences and Technology (D-HEST), and the Institute of Microbiology of the Department of Biology (D-BIOL), for interdisciplinary work.\n\nWith this new construction, the Real Estate infrastructure division at ETH Zurich has created a modern and architecturally ambitious building. The welcoming interior offers bright, work-friendly office spaces complemented by seminar rooms and communal areas, as well as spaces for student work. Three terraces provide space for people to meet and relax. In total, the HCP has 230 workstations and four seminar rooms."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Hcp Office",
+        "label": "ORG",
+        "start": 36,
+        "end": 50
+      },
+      {
+        "text": "Seminar Building",
+        "label": "PERSON",
+        "start": 55,
+        "end": 71
+      },
+      {
+        "text": "Between 11 a.m. and 1 p.m.",
+        "label": "TIME",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "Wednesday 16 September",
+        "label": "DATE",
+        "start": 30,
+        "end": 52
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 76,
+        "end": 86
+      },
+      {
+        "text": "HCP",
+        "label": "ORG",
+        "start": 221,
+        "end": 224
+      },
+      {
+        "text": "Leopold-Ruzicka-Weg",
+        "label": "ORG",
+        "start": 228,
+        "end": 247
+      },
+      {
+        "text": "the Department of Materials",
+        "label": "ORG",
+        "start": 267,
+        "end": 294
+      },
+      {
+        "text": "the Department of Health Sciences and Technology",
+        "label": "ORG",
+        "start": 305,
+        "end": 353
+      },
+      {
+        "text": "the Institute of Microbiology of the Department of Biology",
+        "label": "ORG",
+        "start": 368,
+        "end": 426
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 536,
+        "end": 546
+      },
+      {
+        "text": "Three",
+        "label": "CARDINAL",
+        "start": 760,
+        "end": 765
+      },
+      {
+        "text": "HCP",
+        "label": "ORG",
+        "start": 833,
+        "end": 836
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 862,
+        "end": 866
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Seminar Building"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "HCP",
+        "Leopold-Ruzicka-Weg",
+        "The Hcp Office",
+        "the Department of Health Sciences and Technology",
+        "the Department of Materials",
+        "the Institute of Microbiology of the Department of Biology"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Between 11 a.m. and 1 p.m.",
+        "Wednesday 16 September"
+      ],
+      "MISC": [
+        "Three",
+        "four"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "HCP": 2,
+      "The Hcp Office": 1,
+      "Seminar Building": 1,
+      "Between 11 a.m. and 1 p.m.": 1,
+      "Wednesday 16 September": 1,
+      "Leopold-Ruzicka-Weg": 1,
+      "the Department of Materials": 1,
+      "the Department of Health Sciences and Technology": 1,
+      "the Institute of Microbiology of the Department of Biology": 1,
+      "Three": 1,
+      "four": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "construction-of-the-hcp-office-and-seminar-building-is-complete.md",
+      "title": "En Internal/2015/09/construction Of The Hcp Office And Seminar Building Is Complete",
+      "language": "en",
+      "source_path": "en_internal/2015/09/construction-of-the-hcp-office-and-seminar-building-is-complete.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Seminar Building"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "engineering"
+      ],
+      "research_topics": [
+        "Three",
+        "four"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Building Is",
+        "And Seminar",
+        "Complete Between",
+        "D-MATL",
+        "Hcp Office",
+        "D-BIOL",
+        "En Internal",
+        "D-HEST",
+        "Real Estate",
+        "The HCP",
+        "Of The",
+        "Leopold-Ruzicka",
+        "ETH Zurich",
+        "Health Sciences"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Materials ",
+        "Health Sciences and Technology ",
+        "Biology "
+      ],
+      "institutions": [
+        "ETH Zurich",
+        "HCP",
+        "Leopold-Ruzicka-Weg",
+        "The Hcp Office",
+        "the Department of Health Sciences and Technology",
+        "the Department of Materials",
+        "the Institute of Microbiology of the Department of Biology"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "HCP",
+        "The Hcp Office",
+        "Seminar Building",
+        "Between 11 a.m. and 1 p.m.",
+        "Wednesday 16 September",
+        "Leopold-Ruzicka-Weg",
+        "the Department of Materials",
+        "the Department of Health Sciences and Technology",
+        "the Institute of Microbiology of the Department of Biology"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 967
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "HCP",
+        "the Department of Materials",
+        "2015",
+        "Leopold-Ruzicka-Weg",
+        "The Hcp Office",
+        "the Department of Health Sciences and Technology",
+        "Seminar Building",
+        "ETH Zurich",
+        "the Institute of Microbiology of the Department of Biology"
+      ],
+      "semantic_concepts": [
+        "four",
+        "Three",
+        "what",
+        "medical_research",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "research_domain_medical_research",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

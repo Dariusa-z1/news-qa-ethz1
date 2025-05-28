@@ -1,0 +1,184 @@
+{
+  "filename": "millions-of-years-for-plants-to-recover-from-global-warming.md",
+  "original_filename": "millions-of-years-for-plants-to-recover-from-global-warming.html",
+  "source_path": "en_news_events/2024/08/millions-of-years-for-plants-to-recover-from-global-warming.html",
+  "date": "2024-08",
+  "title": "Millions Of Years For Plants To Recover From Global Warming",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Reference",
+      "text": "Rogger J, Judd EJ, Mills BJW, Goddéris Y, Gerya TV, Pellissier L: Biogeographic climate sensitivity controls Earth system response to large igneous province carbon degassing. Science, 8. August 2024, doi: 10.1126/science.adn3450"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "BJW",
+        "label": "ORG",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "Goddéris Y",
+        "label": "PERSON",
+        "start": 30,
+        "end": 40
+      },
+      {
+        "text": "Gerya TV",
+        "label": "ORG",
+        "start": 42,
+        "end": 50
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 109,
+        "end": 114
+      },
+      {
+        "text": "August 2024",
+        "label": "DATE",
+        "start": 187,
+        "end": 198
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 205,
+        "end": 212
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Goddéris Y"
+      ],
+      "ORG": [
+        "BJW",
+        "En News",
+        "Gerya TV"
+      ],
+      "LOCATION": [
+        "Earth"
+      ],
+      "DATE": [
+        "August 2024"
+      ],
+      "MISC": [
+        "10.1126"
+      ]
+    },
+    "entity_counts": {
+      "En News": 1,
+      "BJW": 1,
+      "Goddéris Y": 1,
+      "Gerya TV": 1,
+      "Earth": 1,
+      "August 2024": 1,
+      "10.1126": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "millions-of-years-for-plants-to-recover-from-global-warming.md",
+      "title": "En News Events/2024/08/millions Of Years For Plants To Recover From Global Warming",
+      "language": "en",
+      "source_path": "en_news_events/2024/08/millions-of-years-for-plants-to-recover-from-global-warming.html"
+    },
+    "temporal": {
+      "publication_date": "2024-08",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Goddéris Y"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "climate_change"
+      ],
+      "research_topics": [
+        "10.1126"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Mills BJW",
+        "For Plants",
+        "En News",
+        "Warming Rogger",
+        "To Recover",
+        "Of Years",
+        "Judd EJ",
+        "From Global",
+        "Gerya TV",
+        "Pellissier L"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BJW",
+        "En News",
+        "Gerya TV"
+      ],
+      "locations": [
+        "Earth"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "En News",
+        "BJW",
+        "Goddéris Y",
+        "Gerya TV",
+        "Earth",
+        "August 2024",
+        "10.1126"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Reference"
+        ],
+        "content_length": 311
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "En News",
+        "BJW",
+        "Gerya TV",
+        "Goddéris Y"
+      ],
+      "semantic_concepts": [
+        "10.1126",
+        "climate_change",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change"
+      ]
+    }
+  }
+}

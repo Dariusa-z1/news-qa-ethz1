@@ -1,0 +1,272 @@
+{
+  "filename": "calling-all-cinema-lovers--you-can-now-stream-the-ava-home-library.md",
+  "original_filename": "calling-all-cinema-lovers--you-can-now-stream-the-ava-home-library.html",
+  "source_path": "en_internal/2020/07/calling-all-cinema-lovers--you-can-now-stream-the-ava-home-library.html",
+  "date": "2020-07",
+  "title": "Calling All Cinema Lovers You Can Now Stream The Ava Home Library",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Have you ever dreamed of being programme director, audience member and jury member at the same time? Film aficionados now have something to look forward to during a time when they have been unable to watch films at the cinema – you can put on your very own film festival and make that dream come true at home! In cooperation with AVA, ETH Zurich is now offering a huge selection of ambitious cinema. The AVA streaming service specialises in European and international art-house films. In order to provide cinema fans with enough material to keep them going during the coronavirus crisis, the AVA Home Library is offering users the chance to stream a selection of around 200 films from the Documentary, Feature Film and Short Film categories until the end of the year. There are also a number of exclusive film collections to discover, including the Berlinale Collection, the Cannes Collection, Focus: LGBTQ and Focus: Africa. A collection of French-language films is also available. The AVA Home Library can be accessed via the ETH Zurich network or at the ETH Library until 28 December 2020.\n\n#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "All Cinema Lovers You Can Now",
+        "label": "ORG",
+        "start": 28,
+        "end": 57
+      },
+      {
+        "text": "AVA",
+        "label": "ORG",
+        "start": 330,
+        "end": 333
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 335,
+        "end": 345
+      },
+      {
+        "text": "AVA",
+        "label": "ORG",
+        "start": 404,
+        "end": 407
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 441,
+        "end": 449
+      },
+      {
+        "text": "AVA Home Library",
+        "label": "ORG",
+        "start": 592,
+        "end": 608
+      },
+      {
+        "text": "around 200",
+        "label": "CARDINAL",
+        "start": 663,
+        "end": 673
+      },
+      {
+        "text": "the end of the year",
+        "label": "DATE",
+        "start": 747,
+        "end": 766
+      },
+      {
+        "text": "the Berlinale Collection",
+        "label": "ORG",
+        "start": 845,
+        "end": 869
+      },
+      {
+        "text": "the Cannes Collection",
+        "label": "ORG",
+        "start": 871,
+        "end": 892
+      },
+      {
+        "text": "Focus: Africa",
+        "label": "ORG",
+        "start": 911,
+        "end": 924
+      },
+      {
+        "text": "French",
+        "label": "LANGUAGE",
+        "start": 942,
+        "end": 948
+      },
+      {
+        "text": "AVA Home Library",
+        "label": "ORG",
+        "start": 987,
+        "end": 1003
+      },
+      {
+        "text": "28 December 2020",
+        "label": "DATE",
+        "start": 1075,
+        "end": 1091
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 1135,
+        "end": 1150
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "AVA",
+        "AVA Home Library",
+        "All Cinema Lovers You Can Now",
+        "Focus: Africa",
+        "the Berlinale Collection",
+        "the Cannes Collection",
+        "the ETH Library"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "28 December 2020",
+        "the end of the year"
+      ],
+      "MISC": [
+        "European",
+        "French",
+        "around 200"
+      ]
+    },
+    "entity_counts": {
+      "AVA": 2,
+      "AVA Home Library": 2,
+      "All Cinema Lovers You Can Now": 1,
+      "ETH Zurich": 1,
+      "European": 1,
+      "around 200": 1,
+      "the end of the year": 1,
+      "the Berlinale Collection": 1,
+      "the Cannes Collection": 1,
+      "Focus: Africa": 1,
+      "French": 1,
+      "28 December 2020": 1,
+      "the ETH Library": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "calling-all-cinema-lovers--you-can-now-stream-the-ava-home-library.md",
+      "title": "En Internal/2020/07/calling All Cinema Lovers You Can Now Stream The Ava Home Library",
+      "language": "en",
+      "source_path": "en_internal/2020/07/calling-all-cinema-lovers--you-can-now-stream-the-ava-home-library.html"
+    },
+    "temporal": {
+      "publication_date": "2020-07",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "rector",
+        "director",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "European",
+        "French",
+        "around 200"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Library Have",
+        "Home Library",
+        "Can Now",
+        "The AVA",
+        "ETH Library",
+        "Feature Film",
+        "Short Film",
+        "En Internal",
+        "Lovers You",
+        "Ava Home",
+        "Berlinale Collection",
+        "All Cinema",
+        "Cannes Collection",
+        "ETH Zurich",
+        "AVA Home",
+        "Stream The"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AVA",
+        "AVA Home Library",
+        "All Cinema Lovers You Can Now",
+        "Focus: Africa",
+        "the Berlinale Collection",
+        "the Cannes Collection",
+        "the ETH Library"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "AVA",
+        "AVA Home Library",
+        "All Cinema Lovers You Can Now",
+        "ETH Zurich",
+        "European",
+        "around 200",
+        "the end of the year",
+        "the Berlinale Collection",
+        "the Cannes Collection",
+        "Focus: Africa"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1291
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "All Cinema Lovers You Can Now",
+        "AVA Home Library",
+        "EU",
+        "the Berlinale Collection",
+        "2020",
+        "Focus: Africa",
+        "ETH Zurich",
+        "AVA",
+        "the ETH Library",
+        "the Cannes Collection"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "French",
+        "when",
+        "European",
+        "around 200"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

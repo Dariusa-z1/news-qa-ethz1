@@ -1,0 +1,265 @@
+{
+  "filename": "unlocking-good-health-through-social-connections.md",
+  "original_filename": "unlocking-good-health-through-social-connections.html",
+  "source_path": "en_internal/2023/09/unlocking-good-health-through-social-connections.html",
+  "date": "2023-09",
+  "title": "Unlocking Good Health Through Social Connections",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "“Health” lunchtime event",
+      "text": "Recent research shows that we are healthier when we feel like we belong to a group. Harnessing the power of team spirit and a sense of belonging can significantly reduce burnout and enhance overall well-being.\n\nAt the next\" Health\" lunchtime event, hosted by the Vice-Presidency for Personnel Development and Leadership (VPPL), Rolf van Dick , professor of social psychology at Goethe University in Frankfurt, will illuminate the link between social integration and our well-being. Experience the practical benefits of togetherness!"
+    },
+    {
+      "heading": "Always up to date",
+      "text": "The one-hour online event will be held in English. Following an input presentation of about 30 minutes, Prof. van Dick will engage you in an exercise that will help you identify your own group belonging as a potential source of support. The session will be followed by an opportunity for you to ask Rolf van Dick your own questions on the topic.\n\nThursday, 5 October 2023, 1 p.m. to 2 p.m. Zoom link: https://ethz.zoom.us/j/68278041464 Language: English"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Good Health Through Social Connections",
+        "label": "ORG",
+        "start": 30,
+        "end": 68
+      },
+      {
+        "text": "Personnel Development and Leadership (VPPL",
+        "label": "ORG",
+        "start": 282,
+        "end": 324
+      },
+      {
+        "text": "Rolf van Dick",
+        "label": "PERSON",
+        "start": 327,
+        "end": 340
+      },
+      {
+        "text": "Goethe University",
+        "label": "ORG",
+        "start": 377,
+        "end": 394
+      },
+      {
+        "text": "Frankfurt",
+        "label": "GPE",
+        "start": 398,
+        "end": 407
+      },
+      {
+        "text": "one-hour",
+        "label": "TIME",
+        "start": 4,
+        "end": 12
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 42,
+        "end": 49
+      },
+      {
+        "text": "about 30 minutes",
+        "label": "TIME",
+        "start": 86,
+        "end": 102
+      },
+      {
+        "text": "van Dick",
+        "label": "PERSON",
+        "start": 110,
+        "end": 118
+      },
+      {
+        "text": "Rolf van Dick",
+        "label": "PERSON",
+        "start": 299,
+        "end": 312
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE",
+        "start": 346,
+        "end": 354
+      },
+      {
+        "text": "October 2023",
+        "label": "DATE",
+        "start": 358,
+        "end": 370
+      },
+      {
+        "text": "1 p.m. to 2 p.m. Zoom",
+        "label": "TIME",
+        "start": 372,
+        "end": 393
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 445,
+        "end": 452
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Rolf van Dick",
+        "van Dick"
+      ],
+      "ORG": [
+        "Goethe University",
+        "Good Health Through Social Connections",
+        "Personnel Development and Leadership (VPPL"
+      ],
+      "LOCATION": [
+        "Frankfurt"
+      ],
+      "DATE": [
+        "1 p.m. to 2 p.m. Zoom",
+        "October 2023",
+        "Thursday",
+        "about 30 minutes",
+        "one-hour"
+      ],
+      "MISC": [
+        "English"
+      ]
+    },
+    "entity_counts": {
+      "Rolf van Dick": 2,
+      "English": 2,
+      "Good Health Through Social Connections": 1,
+      "Personnel Development and Leadership (VPPL": 1,
+      "Goethe University": 1,
+      "Frankfurt": 1,
+      "one-hour": 1,
+      "about 30 minutes": 1,
+      "van Dick": 1,
+      "Thursday": 1,
+      "October 2023": 1,
+      "1 p.m. to 2 p.m. Zoom": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "unlocking-good-health-through-social-connections.md",
+      "title": "En Internal/2023/09/unlocking Good Health Through Social Connections",
+      "language": "en",
+      "source_path": "en_internal/2023/09/unlocking-good-health-through-social-connections.html"
+    },
+    "temporal": {
+      "publication_date": "2023-09",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "Rolf van Dick",
+        "van Dick"
+      ],
+      "people_with_roles": {
+        "Rolf van Dick": [
+          "professor"
+        ],
+        "van Dick": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research"
+      ],
+      "research_topics": [
+        "English"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Good Health",
+        "Connections Recent",
+        "Through Social",
+        "En Internal",
+        "Vice-Presidency",
+        "Personnel Development",
+        "Goethe University"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Goethe University",
+        "Good Health Through Social Connections",
+        "Personnel Development and Leadership (VPPL"
+      ],
+      "locations": [
+        "Frankfurt"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Rolf van Dick",
+        "English",
+        "Good Health Through Social Connections",
+        "Personnel Development and Leadership (VPPL",
+        "Goethe University",
+        "Frankfurt",
+        "one-hour",
+        "about 30 minutes",
+        "van Dick",
+        "Thursday"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "“Health” lunchtime event",
+          "Always up to date"
+        ],
+        "content_length": 1055
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Rolf van Dick",
+        "van Dick",
+        "2023",
+        "Good Health Through Social Connections",
+        "Goethe University",
+        "ERC",
+        "Personnel Development and Leadership (VPPL"
+      ],
+      "semantic_concepts": [
+        "who",
+        "English",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Rolf van Dick_has_role_professor",
+        "van Dick_has_role_professor",
+        "research_domain_medical_research"
+      ]
+    }
+  }
+}

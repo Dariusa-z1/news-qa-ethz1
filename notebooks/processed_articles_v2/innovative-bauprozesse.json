@@ -1,0 +1,195 @@
+{
+  "filename": "innovative-bauprozesse.md",
+  "original_filename": "innovative-bauprozesse.html",
+  "source_path": "de_news_events/2018/05/innovative-bauprozesse.html",
+  "date": "2018-05",
+  "title": "Innovative Bauprozesse",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Kürzlich hat der NFS Digitale Fabrikation Vertreter des Schweizerischen Nationalfonds (SNF) und seines Überprüfungsausschussses zu seiner vierten Jahresrevision eingeladen. Während der zweitägigen Veranstaltung bewertete das internationale Expertengremium die Fortschritte des NFS und diskutierte seine zukünftigen Forschungspläne. In den kommenden Monaten wird der Forschungsrat des SNF über die künftige Finanzierung des NFS entscheiden.\n\nDer externe Seite gesamte Bericht zur vierten Jahresrevision findet sich auf der Webseite des NFS Digitale Fabrikation. (auf Englisch)"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Kürzlich",
+        "label": "PER",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "NFS Digitale Fabrikation Vertreter",
+        "label": "ORG",
+        "start": 17,
+        "end": 51
+      },
+      {
+        "text": "Schweizerischen Nationalfonds",
+        "label": "ORG",
+        "start": 56,
+        "end": 85
+      },
+      {
+        "text": "SNF",
+        "label": "ORG",
+        "start": 87,
+        "end": 90
+      },
+      {
+        "text": "NFS",
+        "label": "ORG",
+        "start": 277,
+        "end": 280
+      },
+      {
+        "text": "SNF",
+        "label": "ORG",
+        "start": 384,
+        "end": 387
+      },
+      {
+        "text": "NFS",
+        "label": "ORG",
+        "start": 423,
+        "end": 426
+      },
+      {
+        "text": "NFS Digitale Fabrikation",
+        "label": "ORG",
+        "start": 534,
+        "end": 558
+      },
+      {
+        "text": "Englisch",
+        "label": "MISC",
+        "start": 565,
+        "end": 573
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Kürzlich"
+      ],
+      "ORG": [
+        "NFS",
+        "NFS Digitale Fabrikation",
+        "NFS Digitale Fabrikation Vertreter",
+        "SNF",
+        "Schweizerischen Nationalfonds"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "Englisch"
+      ]
+    },
+    "entity_counts": {
+      "SNF": 2,
+      "NFS": 2,
+      "De News": 1,
+      "Kürzlich": 1,
+      "NFS Digitale Fabrikation Vertreter": 1,
+      "Schweizerischen Nationalfonds": 1,
+      "NFS Digitale Fabrikation": 1,
+      "Englisch": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "innovative-bauprozesse.md",
+      "title": "De News Events/2018/05/innovative Bauprozesse",
+      "language": "de",
+      "source_path": "de_news_events/2018/05/innovative-bauprozesse.html"
+    },
+    "temporal": {
+      "publication_date": "2018-05",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Kürzlich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Englisch"
+      ],
+      "grants_funding": [
+        "SNF"
+      ],
+      "projects": [
+        "Fabrikation Vertreter",
+        "De News",
+        "Schweizerischen Nationalfonds",
+        "NFS Digitale"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "NFS",
+        "NFS Digitale Fabrikation",
+        "NFS Digitale Fabrikation Vertreter",
+        "SNF",
+        "Schweizerischen Nationalfonds"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "SNF",
+        "NFS",
+        "De News",
+        "Kürzlich",
+        "NFS Digitale Fabrikation Vertreter",
+        "Schweizerischen Nationalfonds",
+        "NFS Digitale Fabrikation",
+        "Englisch"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 621
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "SNF",
+        "NFS",
+        "De News",
+        "Schweizerischen Nationalfonds",
+        "NFS Digitale Fabrikation Vertreter",
+        "NFS Digitale Fabrikation",
+        "Kürzlich"
+      ],
+      "semantic_concepts": [
+        "Englisch"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "filename": "fit-for-the-it-future-with-a-new-computer-centre.md",
+  "original_filename": "fit-for-the-it-future-with-a-new-computer-centre.html",
+  "source_path": "en_internal/2022/11/fit-for-the-it-future-with-a-new-computer-centre.html",
+  "date": "2022-11",
+  "title": "Fit For The It Future With A New Computer Centre",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Meeting computing capacity demand",
+      "text": "Stakes marking out the height and extent of the new data centre have just been erected, and are visible from far and wide. This is a customary step in Swiss construction projects, indicating the space the future structure will occupy. Construction will start in autumn 2023. The new building will form the western end of the Hönggerberg campus, and it will be integrated into the energy centre (HEZ) group, which serves as the heating and cooling centre for the campus. The new building was designed by the Zurich architectural firm Penzel Valier AG. The design, coordinated with the existing buildings, pays particular attention to the exposed location in the transitional space between the campus and the neighbouring residential area."
+    },
+    {
+      "heading": "Meeting computing capacity demand",
+      "text": "The new Hönggerberg computing centre (HRZ) is intended to fulfil various goals. For ETH Zurich, HRZ will be a secure, long-term data repository and will also provide enough computing capacity to meet steadily rising demand. The new building will take on some or all of the functions of several ETH Zurich computing centres on the Hönggerberg campus, currently distributed across various locations, some of them provisional.\n\nHRZ will accommodate server, storage and communication systems for computing services and for departments of ETH Zurich. Complementing the computing centres of the Zentrum campus, HRZ is an important building block in the long-term strategy of high availability of information and communication technologies at the university. According to this strategy, users will be able to access the IT services they need at any time."
+    },
+    {
+      "heading": "Special features of the building and sustainability",
+      "text": "The new building will consist of four interlocking wings, each with its own function. One wing will house the servers; another will be used for cooling. The other two wings will provide access through a staircase and corridors. Requirements for computing centres are changing all the time, so the new building allows for maximum flexibility of use. The servers can be relocated at a later date with no major difficulties, and capacities can be easily expanded if necessary.\n\nETH Zurich is committed to environmentally friendly and sustainable construction. Wood is used for the supporting structure, while the concrete is recycled, with carbon dioxide permanently stored in the concrete of the façade.\n\nThe data centre is designed to be highly energy-efficient. The server rooms, for example, are cooled indirectly with outside air rather than cooling equipment. This technique uses heat exchangers, where environmental air meets the exhaust air from the server rooms, resulting in “heat exchange”. As outdoor temperatures rise, the external air will be additionally humidified using processed rainwater. This water then evaporates and cools the air. Waste heat from the server rooms can also be put to further use. The photovoltaic systems on the roof will allow the building to generate its own electricity. Consideration will also be given during the building’s construction to animals such as bats and swifts, which will find shelter and space for breeding."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The It Future With A New Computer Centre",
+        "label": "WORK_OF_ART",
+        "start": 28,
+        "end": 68
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 151,
+        "end": 156
+      },
+      {
+        "text": "autumn 2023",
+        "label": "DATE",
+        "start": 262,
+        "end": 273
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 325,
+        "end": 336
+      },
+      {
+        "text": "HEZ",
+        "label": "ORG",
+        "start": 395,
+        "end": 398
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 507,
+        "end": 513
+      },
+      {
+        "text": "Penzel Valier AG",
+        "label": "ORG",
+        "start": 533,
+        "end": 549
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 8,
+        "end": 19
+      },
+      {
+        "text": "HRZ",
+        "label": "ORG",
+        "start": 38,
+        "end": 41
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 84,
+        "end": 94
+      },
+      {
+        "text": "HRZ",
+        "label": "ORG",
+        "start": 96,
+        "end": 99
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 294,
+        "end": 304
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 330,
+        "end": 341
+      },
+      {
+        "text": "HRZ",
+        "label": "ORG",
+        "start": 424,
+        "end": 427
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 533,
+        "end": 543
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 588,
+        "end": 595
+      },
+      {
+        "text": "HRZ",
+        "label": "ORG",
+        "start": 604,
+        "end": 607
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 33,
+        "end": 37
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 86,
+        "end": 89
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 163,
+        "end": 166
+      },
+      {
+        "text": "a later date",
+        "label": "DATE",
+        "start": 381,
+        "end": 393
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 474,
+        "end": 484
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Zentrum"
+      ],
+      "ORG": [
+        "HEZ",
+        "HRZ",
+        "Penzel Valier AG"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "a later date",
+        "autumn 2023"
+      ],
+      "MISC": [
+        "One",
+        "Swiss",
+        "The It Future With A New Computer Centre",
+        "four",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "HRZ": 4,
+      "ETH Zurich": 4,
+      "Hönggerberg": 3,
+      "The It Future With A New Computer Centre": 1,
+      "Swiss": 1,
+      "autumn 2023": 1,
+      "HEZ": 1,
+      "Zurich": 1,
+      "Penzel Valier AG": 1,
+      "Zentrum": 1,
+      "four": 1,
+      "One": 1,
+      "two": 1,
+      "a later date": 1
+    },
+    "total_entities": 22,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "fit-for-the-it-future-with-a-new-computer-centre.md",
+      "title": "En Internal/2022/11/fit For The It Future With A New Computer Centre",
+      "language": "en",
+      "source_path": "en_internal/2022/11/fit-for-the-it-future-with-a-new-computer-centre.html"
+    },
+    "temporal": {
+      "publication_date": "2022-11",
+      "mentioned_years": [
+        "2022",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Swiss",
+        "The It Future With A New Computer Centre",
+        "four"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Centre Stakes",
+        "With A",
+        "For ETH",
+        "It Future",
+        "En Internal",
+        "ETH Zurich",
+        "New Computer",
+        "Penzel Valier",
+        "For The"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "HEZ",
+        "HRZ",
+        "Penzel Valier AG"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "HRZ",
+        "ETH Zurich",
+        "Hönggerberg",
+        "The It Future With A New Computer Centre",
+        "Swiss",
+        "autumn 2023",
+        "HEZ",
+        "Zurich",
+        "Penzel Valier AG",
+        "Zentrum"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Meeting computing capacity demand",
+          "Meeting computing capacity demand",
+          "Special features of the building and sustainability"
+        ],
+        "content_length": 3116
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "HRZ",
+        "HEZ",
+        "Penzel Valier AG",
+        "Zentrum",
+        "2022",
+        "ETH Zurich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "four",
+        "Swiss",
+        "where",
+        "The It Future With A New Computer Centre",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "filename": "new-year-cards-up-for-graps.md",
+  "original_filename": "new-year-cards-up-for-graps.html",
+  "source_path": "en_news_events/2013/11/new-year-cards-up-for-graps.html",
+  "date": "2013-11",
+  "title": "New Year Cards Up For Graps",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The six versions of the 2014 New Year card combine festive motifs with soft colours, modern designs and a touch of technical flair. One of the highlights of this year’s selection is an image showing the northern lights tracing the outline of a Christmas tree against a dark-blue sky. The New Year cards are designed and produced by the graphic design team in the ETH Zurich Printing Centre.\n\nMembers of ETH Zurich can purchase the 2014 New Year cards for 3 Swiss francs each (including an envelope). For an additional charge, you can now add a personal printed greeting too. The Printing Centre will accept orders up to and including 23 December. You can order cards over the counter at the printing centres on the Hönggerberg campus (HIL C45) and on the Zentrum campus (HG D48.2), by e-mail ( , , ) or online via the ETH Zurich Intranet ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "New Year",
+        "label": "EVENT",
+        "start": 29,
+        "end": 37
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 132,
+        "end": 135
+      },
+      {
+        "text": "year",
+        "label": "DATE",
+        "start": 162,
+        "end": 166
+      },
+      {
+        "text": "Christmas",
+        "label": "DATE",
+        "start": 244,
+        "end": 253
+      },
+      {
+        "text": "New Year",
+        "label": "EVENT",
+        "start": 288,
+        "end": 296
+      },
+      {
+        "text": "the ETH Zurich Printing Centre",
+        "label": "ORG",
+        "start": 359,
+        "end": 389
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 402,
+        "end": 412
+      },
+      {
+        "text": "New Year",
+        "label": "EVENT",
+        "start": 435,
+        "end": 443
+      },
+      {
+        "text": "3 Swiss francs",
+        "label": "MONEY",
+        "start": 454,
+        "end": 468
+      },
+      {
+        "text": "The Printing Centre",
+        "label": "ORG",
+        "start": 574,
+        "end": 593
+      },
+      {
+        "text": "23 December",
+        "label": "DATE",
+        "start": 633,
+        "end": 644
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 714,
+        "end": 725
+      },
+      {
+        "text": "HIL C45",
+        "label": "ORG",
+        "start": 734,
+        "end": 741
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 754,
+        "end": 761
+      },
+      {
+        "text": "the ETH Zurich Intranet",
+        "label": "ORG",
+        "start": 813,
+        "end": 836
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Zentrum"
+      ],
+      "ORG": [
+        "HIL C45",
+        "The Printing Centre",
+        "the ETH Zurich Intranet",
+        "the ETH Zurich Printing Centre"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "23 December",
+        "Christmas",
+        "year"
+      ],
+      "MISC": [
+        "3 Swiss francs",
+        "New Year",
+        "One",
+        "six"
+      ]
+    },
+    "entity_counts": {
+      "New Year": 3,
+      "six": 1,
+      "One": 1,
+      "year": 1,
+      "Christmas": 1,
+      "the ETH Zurich Printing Centre": 1,
+      "ETH Zurich": 1,
+      "3 Swiss francs": 1,
+      "The Printing Centre": 1,
+      "23 December": 1,
+      "Hönggerberg": 1,
+      "HIL C45": 1,
+      "Zentrum": 1,
+      "the ETH Zurich Intranet": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-year-cards-up-for-graps.md",
+      "title": "En News Events/2013/11/new Year Cards Up For Graps",
+      "language": "en",
+      "source_path": "en_news_events/2013/11/new-year-cards-up-for-graps.html"
+    },
+    "temporal": {
+      "publication_date": "2013-11",
+      "mentioned_years": [
+        "2013",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "3 Swiss francs",
+        "New Year"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "New Year",
+        "En News",
+        "Up For",
+        "The Printing",
+        "Printing Centre",
+        "ETH Zurich",
+        "The New",
+        "Graps The",
+        "Year Cards"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "HIL C45",
+        "The Printing Centre",
+        "the ETH Zurich Intranet",
+        "the ETH Zurich Printing Centre"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "New Year",
+        "six",
+        "One",
+        "year",
+        "Christmas",
+        "the ETH Zurich Printing Centre",
+        "ETH Zurich",
+        "3 Swiss francs",
+        "The Printing Centre",
+        "23 December"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 890
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "the ETH Zurich Intranet",
+        "the ETH Zurich Printing Centre",
+        "2013",
+        "Zentrum",
+        "The Printing Centre",
+        "HIL C45",
+        "ETH Zurich",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "New Year",
+        "who",
+        "how",
+        "3 Swiss francs",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

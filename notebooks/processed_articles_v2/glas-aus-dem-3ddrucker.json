@@ -1,0 +1,384 @@
+{
+  "filename": "glas-aus-dem-3ddrucker.md",
+  "original_filename": "glas-aus-dem-3ddrucker.html",
+  "source_path": "de_news_events/2019/11/glas-aus-dem-3ddrucker.html",
+  "date": "2019-11",
+  "title": "Glas Aus Dem 3Ddrucker",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Licht lässt das Objekt wachsen",
+      "text": "Glasobjekte mit einem 3D-Druckverfahren herzustellen, ist nicht einfach. Erst wenige Forschungsgruppen weltweit haben versucht, Glas mithilfe additiver Verfahren zu produzieren. Einige davon schufen Objekte, indem sie geschmolzenes Glas ausdruckten. Das hat den Nachteil, dass dafür sehr hohe Temperaturen und hitzebeständige Apparaturen nötig sind. Andere verwendeten pulverförmige Keramikpartikel, die sich bei Raumtemperatur drucken und später zu Glas sintern lassen. Allerdings war die Komplexität der daraus gefertigten Objekte bisher eher gering.\n\nForscher der ETH Zürich haben nun einen anderen Weg gewählt, um mit 3D-Druck komplexe Glasobjekte herzustellen. Grundlage ihres neuen Verfahrens ist die Stereolithografie, eine der ersten 3D-Drucktechniken aus den 1980er-Jahren. Die Forscher David Moore, Lorenzo Barbera und Kunal Masania aus der Gruppe für Komplexe Materialien von ETH-Professor André Studart entwickelten ein spezielles Harz. Dieses ist aus flüssigem Kunststoff und einem Siloxan zusammengesetzt. Darüber berichten sie in der jüngsten Ausgabe der Fachzeitschrift «Nature Materials»."
+    },
+    {
+      "heading": "Licht lässt das Objekt wachsen",
+      "text": "Das Harz lässt sich mit einem kommerziell erhältlichen Stereolithografiegerät verarbeiten. Dabei werden UV-Lichtmuster auf das Harz gestrahlt. Dort, wo das Licht auftrifft, wird das Harz hart. Dies geschieht deshalb, weil sich an den belichteten Stellen die beiden Harzkomponenten vollständig auftrennen: die Kunststoffmonomere formieren sich zu einem labyrinthähnlichen Polymergerüst, die Moleküle des Siloxans füllen die Zwischenräume des Labyrinths aus.\n\nEin Objekt kann so Schicht für Schicht aufgebaut werden. Dabei können die Forscher bei jeder Schicht verschiedene Parameter verändern, etwa die Porengrösse: Schwache Lichtintensität erzeugt grosse Poren, starke Einstrahlung kleine Poren. «Wir haben das per Zufall entdeckt, können es aber nutzen, um die Porengrösse in den Objekten gezielt zu verändern», sagt Masania.\n\nEbenfalls schichtweise verändern können die Forscher die Mikrostruktur des Objekts, indem sie dem Harz auch Borat oder Phosphat beimengen. Dadurch lassen sich Objekte herstellen, die aus verschiedenen Glastypen aufgebaut sind.\n\nEinen so hergestellten Rohling müssen die Forschenden anschliessend bei zwei unterschiedlichen Temperaturen brennen: Bei 600 Grad Celsius, um das Polymergerüst zu verbrennen, und anschliessend bei rund 1000 Grad Celsius, um die Objekte zu Glas zu verdichten. Beim Brennen schrumpfen sie erheblich, werden aber transparent und hart wie Fensterglas."
+    },
+    {
+      "heading": "Spezialanwendung im Visier",
+      "text": "Noch sind die 3D-gedruckten Glasobjekte höchstens so gross wie ein Spielwürfel. Grosse Glasobjekte wie Flaschen, Gläser oder Fensterscheiben können auf diese Weise nicht erzeugt werden, was auch nicht das Ziel dieser Arbeit gewesen sei, betont Masania.\n\nZiel sei vielmehr gewesen, den Machbarkeitsnachweis zu erbringen, dass man mit einem 3D-Druckverfahren Glasgegenstände von komplexer Geometrie herstellen. Reine Spielerei ist die neue Technik dennoch nicht. Die Forscher meldeten sie zum Patent an und verhandeln derzeit mit einem Schweizer Glaswarenhändler, der die Technologie in seinem Unternehmen einsetzen möchte.\n\nMoore DG, Barbera L, Masania K, Studart AR. Three-dimensional printing of multicomponent glasses using phase-separating resins. Nature Materials. (2019) doi: externe Seite 10.1038/s41563-019-0525-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 566,
+        "end": 576
+      },
+      {
+        "text": "1980er-Jahren",
+        "label": "MISC",
+        "start": 767,
+        "end": 780
+      },
+      {
+        "text": "David Moore",
+        "label": "PER",
+        "start": 795,
+        "end": 806
+      },
+      {
+        "text": "Lorenzo Barbera",
+        "label": "PER",
+        "start": 808,
+        "end": 823
+      },
+      {
+        "text": "ETH-Professor André Studart",
+        "label": "PER",
+        "start": 886,
+        "end": 913
+      },
+      {
+        "text": "Nature",
+        "label": "MISC",
+        "start": 1086,
+        "end": 1092
+      },
+      {
+        "text": "Harz",
+        "label": "LOC",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "Harz",
+        "label": "LOC",
+        "start": 127,
+        "end": 131
+      },
+      {
+        "text": "Harz",
+        "label": "LOC",
+        "start": 182,
+        "end": 186
+      },
+      {
+        "text": "Kunststoffmonomere",
+        "label": "MISC",
+        "start": 309,
+        "end": 327
+      },
+      {
+        "text": "Siloxans",
+        "label": "LOC",
+        "start": 403,
+        "end": 411
+      },
+      {
+        "text": "Labyrinths",
+        "label": "LOC",
+        "start": 441,
+        "end": 451
+      },
+      {
+        "text": "Schwache",
+        "label": "LOC",
+        "start": 614,
+        "end": 622
+      },
+      {
+        "text": "Masania",
+        "label": "LOC",
+        "start": 817,
+        "end": 824
+      },
+      {
+        "text": "Harz",
+        "label": "LOC",
+        "start": 924,
+        "end": 928
+      },
+      {
+        "text": "Borat",
+        "label": "MISC",
+        "start": 934,
+        "end": 939
+      },
+      {
+        "text": "Phosphat",
+        "label": "PER",
+        "start": 945,
+        "end": 953
+      },
+      {
+        "text": "Grad Celsius",
+        "label": "PER",
+        "start": 1260,
+        "end": 1272
+      },
+      {
+        "text": "Grosse",
+        "label": "PER",
+        "start": 80,
+        "end": 86
+      },
+      {
+        "text": "Masania",
+        "label": "LOC",
+        "start": 244,
+        "end": 251
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 533,
+        "end": 542
+      },
+      {
+        "text": "Masania K",
+        "label": "ORG",
+        "start": 642,
+        "end": 651
+      },
+      {
+        "text": "Studart AR",
+        "label": "ORG",
+        "start": 653,
+        "end": 663
+      },
+      {
+        "text": "Nature",
+        "label": "MISC",
+        "start": 749,
+        "end": 755
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "David Moore",
+        "De News",
+        "ETH-Professor André Studart",
+        "Grad Celsius",
+        "Grosse",
+        "Lorenzo Barbera",
+        "Phosphat"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Masania K",
+        "Studart AR"
+      ],
+      "LOCATION": [
+        "Harz",
+        "Labyrinths",
+        "Masania",
+        "Schwache",
+        "Siloxans"
+      ],
+      "DATE": [],
+      "MISC": [
+        "1980er-Jahren",
+        "Borat",
+        "Kunststoffmonomere",
+        "Nature",
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "Harz": 4,
+      "Nature": 2,
+      "Masania": 2,
+      "De News": 1,
+      "ETH Zürich": 1,
+      "1980er-Jahren": 1,
+      "David Moore": 1,
+      "Lorenzo Barbera": 1,
+      "ETH-Professor André Studart": 1,
+      "Kunststoffmonomere": 1,
+      "Siloxans": 1,
+      "Labyrinths": 1,
+      "Schwache": 1,
+      "Borat": 1,
+      "Phosphat": 1,
+      "Grad Celsius": 1,
+      "Grosse": 1,
+      "Schweizer": 1,
+      "Masania K": 1,
+      "Studart AR": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "glas-aus-dem-3ddrucker.md",
+      "title": "De News Events/2019/11/glas Aus dem 3ddrucker",
+      "language": "de",
+      "source_path": "de_news_events/2019/11/glas-aus-dem-3ddrucker.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "David Moore",
+        "De News",
+        "ETH-Professor André Studart",
+        "Grad Celsius",
+        "Grosse",
+        "Lorenzo Barbera",
+        "Phosphat"
+      ],
+      "people_with_roles": {
+        "David Moore": [
+          "professor"
+        ],
+        "ETH-Professor André Studart": [
+          "professor"
+        ],
+        "Lorenzo Barbera": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "1980er-Jahren",
+        "Borat",
+        "Kunststoffmonomere",
+        "Nature",
+        "Schweizer"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Barbera L",
+        "Studart AR",
+        "ETH-Professor",
+        "Masania K",
+        "UV-Lichtmuster",
+        "David Moore",
+        "Kunal Masania",
+        "Grad Celsius",
+        "Komplexe Materialien",
+        "Grosse Glasobjekte",
+        "Nature Materials",
+        "Die Forscher",
+        "Beim Brennen",
+        "Ein Objekt",
+        "Moore DG",
+        "Lorenzo Barbera",
+        "De News",
+        "Reine Spielerei",
+        "Das Harz"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Masania K",
+        "Studart AR"
+      ],
+      "locations": [
+        "Harz",
+        "Labyrinths",
+        "Masania",
+        "Schwache",
+        "Siloxans"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Harz",
+        "Nature",
+        "Masania",
+        "De News",
+        "ETH Zürich",
+        "1980er-Jahren",
+        "David Moore",
+        "Lorenzo Barbera",
+        "ETH-Professor André Studart",
+        "Kunststoffmonomere"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Licht lässt das Objekt wachsen",
+          "Licht lässt das Objekt wachsen",
+          "Spezialanwendung im Visier"
+        ],
+        "content_length": 3376
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Grosse",
+        "Grad Celsius",
+        "2019",
+        "Studart AR",
+        "Phosphat",
+        "EU",
+        "Lorenzo Barbera",
+        "ETH Zürich",
+        "De News",
+        "ETH-Professor André Studart",
+        "David Moore",
+        "Masania K"
+      ],
+      "semantic_concepts": [
+        "Nature",
+        "Schweizer",
+        "who",
+        "Kunststoffmonomere",
+        "chemistry",
+        "1980er-Jahren",
+        "Borat",
+        "engineering"
+      ],
+      "graph_relations": [
+        "David Moore_has_role_professor",
+        "ETH-Professor André Studart_has_role_professor",
+        "Lorenzo Barbera_has_role_professor",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

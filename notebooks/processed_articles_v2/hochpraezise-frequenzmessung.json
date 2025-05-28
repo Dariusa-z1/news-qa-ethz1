@@ -1,0 +1,701 @@
+{
+  "filename": "hochpraezise-frequenzmessung.md",
+  "original_filename": "hochpraezise-frequenzmessung.html",
+  "source_path": "de_news_events/2021/07/hochpraezise-frequenzmessung.html",
+  "date": "2021-07",
+  "title": "Hochpraezise Frequenzmessung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Kontinuierliche Korrektur",
+      "text": "Für viele wissenschaftliche Experimente benötigen die Forschenden heute eine präzise Referenzfrequenz, mit der sie die Zeitmessung ihrer Geräte kalibrieren können. Zu diesen Experimenten gehören beispielsweise Spektroskopie-Untersuchungen, bei denen chemische Reaktionen zwischen Molekülen in Echtzeit untersucht werden, oder physikalische Studien zu Naturkonstanten.\n\nSchon bald könnte nun die Verfügbarkeit einer solchen hochpräzisen Referenzfrequenz zur Grundausstattung von Schweizer Forschungsinstitutionen gehören. Forschende der ETH Zürich, der Universität Basel, des Eidgenössischen Instituts für Metrologie (Metas), der «Hüterin der Masseinheiten für die Schweiz», sowie der Stiftung Switch, die das akademische Datennetz der Schweiz betreibt, haben in einem gemeinsamen Projekt, das vom Sinergia-Programm des Schweizerischen Nationalfonds gefördert wird, zeigen können, dass ein solches präzises Referenzsignal über die herkömmliche Telekommunikations-Infrastruktur übermittelt werden kann.\n\n«Die ersten Erfahrungen zeigen, dass chemische Spektroskopie-Analysen damit mit einer um einen Faktor 100 höheren Genauigkeit durchgeführt werden können als bisher», berichtet Stefan Willitsch, Professor für Physikalische Chemie an der Universität Basel und Koordinator des Projekts. «Mit dieser Genauigkeit werden die Gesetze der Natur durch spektroskopische Messungen an Molekülen mit noch nie erreichter Genauigkeit überprüft», ergänzt Frédéric Merkt, Professor für Physikalische Chemie an der ETH Zürich."
+    },
+    {
+      "heading": "Kontinuierliche Korrektur",
+      "text": "Konkret wurde im Projekt ein Versuchsnetz aufgebaut, das den Sitz von Metas in Bern-Wabern mit der Universität Basel und der ETH Zürich verbindet. Das Ausgangssignal, das über ein ausgeklügeltes Verfahren mit der Atomuhr von Metas synchronisiert wird, wird dabei über das Glasfasernetz von Switch nach Basel und Zürich übermittelt, wo es die Forschenden dann zum Kalibrieren ihrer Messgeräte verwenden können.\n\n«Damit das Signal tatsächlich bei den Forschenden mit der gewünschten Präzision ankommt, muss die Übertragung laufend nachjustiert werden. Bereits kleinste Längenveränderungen des Glasfaserkabels, etwa durch Erschütterungen oder Temperaturveränderungen, wirken sich auf die Frequenz aus», erklärt Jacques Morel, Leiter des Labors Photonik, Zeit und Frequenz bei Metas. Deshalb wird das Signal in Basel und Zürich nach Bern zurückgespiegelt, wo das Ausgangssignal dann entsprechend korrigiert wird."
+    },
+    {
+      "heading": "Hohe Qualität, tiefere Kosten",
+      "text": "«In der Schweiz stehen wir beim Aufbau eines solchen Netzwerkes erst am Anfang», erläutert Jérôme Faist, der als Professor am Institut für Quantenelektronik der ETH Zürich seine Fachkenntnisse in Lasertechnik einbrachte. «In anderen Ländern wie Italien, Deutschland und Frankreich ist man diesbezüglich bereits einen Schritt weiter.»\n\nIn diesen Ländern werden die Referenzfrequenzen bisher auf zwei Arten übermittelt, die beide ihre spezifischen Nachteile haben: Entweder wird das Signal über eine spezielle Leitung verschickt; das führt zwar zu einem physikalisch optimalen Resultat, ist aber kostspielig. Oder man nutzt zur Übermittlung die bestehende Infrastruktur der Telekommunikationsanbieter. Das ist zwar wesentlich günstiger, aber technisch nicht optimal. Denn das Referenzsignal für die Zeitmessung wird dabei ebenfalls im sogenannten C-Band übermittelt, also mit einer ähnlichen Grundfrequenz wie der Datenverkehr. Dadurch wird zum einen das Referenzsignal potenziell durch den übrigen Datenverkehr gestört. Gleichzeitig wird ein Kanal, der normalerweise für die Datenübermittlung genutzt wird, blockiert, was den Betrieb kompliziert."
+    },
+    {
+      "heading": "Auch für andere Disziplinen interessant",
+      "text": "«Wir haben nun einen dritten Weg entwickelt», erläutert Fabian Mauchle, Projektverantwortlicher bei Switch: «Wir nutzen aus Kostengründen das bereits existierende Netz von Switch, weichen aber für die Übermittlung des Referenzsignals vom physikalisch optimalen C-Band, das eben durch den Datenverkehr bereits stark belegt ist, auf das noch weitgehend freie L-Band aus, das eine abweichende Grundfrequenz hat.» Die Resultate zeigen nun, dass auch im L-Band das Referenzsignal mit einer sehr guten Qualität übermittelt werden kann und dass es dabei nicht durch den Datenverkehr gestört wird. Dazu war es jedoch notwendig, dass Switch gewisse Modifikation an der Netzinfrastruktur vornahm."
+    },
+    {
+      "heading": "Internationale Vernetzung",
+      "text": "In einem nächsten Schritt geht es nun darum, das Netz weiter auszubauen und auch andere Institutionen in der Schweiz anzuschliessen, etwa das Cern in Genf, die EPFL oder die Universität Neuenburg. Auch auf internationaler Ebene wird eine Vernetzung angestrebt. Ziel ist es, einen länderübergreifenden Verbund aufzubauen, mit dem die Signale von verschiedenen Atomuhren miteinander verglichen werden können.\n\nDamit würde auch die Realisierung einer noch präziseren Zeitmessung als SI-Einheit Sekunde ermöglicht. Die heutigen Atomuhren, welche die einheitliche Zeitmessung weltweit sicherstellen, werden mit Satellitensignalen im Gigahertz-Bereich verglichen. Atomuhren, die mit optischen Signalen im Terahertz-Bereich aufeinander abgestimmt werden, könnten die Sekunde nicht mehr «nur» bis zu 16. Nachkommastelle genau messen, sondern sogar bis zur 18. Nachkommastelle. Doch das geht eben nur, wenn die Signale zum Vergleich dieser optischen Uhren mit Licht über Glasfasern übermittelt werden.\n\nDas neue Netzwerk könnte übrigens nicht nur für Chemiker und Physiker von Nutzen sein, wie Faist ergänzt. Auch den Erdwissenschaftlern könnte es neue Einsichten ermöglichen. Diese benötigen zwar kein hochpräzises Zeitsignal für ihre Experimente. Doch weil sich bereits kleinste Störungen auf die Frequenz auswirken, könnte man auf diese Weise möglicherweise feine Erschütterungen im Untergrund ausfindig machen, die man mit den bisherigen Messgeräten noch nicht entdecken kann.\n\nHusmann D et.al.: SI-traceable frequency dissemination at 1572.06 nm in a stabilized fiber network with ring topology. Vol. 29, No. 16 /2 August 2021. doi: externe Seite 10.1364/OE.427921"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Molekülen",
+        "label": "LOC",
+        "start": 280,
+        "end": 289
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 477,
+        "end": 486
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 535,
+        "end": 545
+      },
+      {
+        "text": "Universität Basel",
+        "label": "ORG",
+        "start": 551,
+        "end": 568
+      },
+      {
+        "text": "Eidgenössischen Instituts für Metrologie",
+        "label": "ORG",
+        "start": 574,
+        "end": 614
+      },
+      {
+        "text": "Metas",
+        "label": "ORG",
+        "start": 616,
+        "end": 621
+      },
+      {
+        "text": "Masseinheiten für die Schweiz",
+        "label": "ORG",
+        "start": 641,
+        "end": 670
+      },
+      {
+        "text": "Stiftung Switch",
+        "label": "ORG",
+        "start": 683,
+        "end": 698
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 730,
+        "end": 741
+      },
+      {
+        "text": "Schweizerischen Nationalfonds",
+        "label": "ORG",
+        "start": 818,
+        "end": 847
+      },
+      {
+        "text": "Stefan Willitsch",
+        "label": "PER",
+        "start": 1176,
+        "end": 1192
+      },
+      {
+        "text": "Universität Basel",
+        "label": "ORG",
+        "start": 1236,
+        "end": 1253
+      },
+      {
+        "text": "Molekülen",
+        "label": "LOC",
+        "start": 1373,
+        "end": 1382
+      },
+      {
+        "text": "Frédéric Merkt",
+        "label": "PER",
+        "start": 1439,
+        "end": 1453
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1497,
+        "end": 1507
+      },
+      {
+        "text": "Konkret",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Metas",
+        "label": "LOC",
+        "start": 70,
+        "end": 75
+      },
+      {
+        "text": "Bern-Wabern",
+        "label": "LOC",
+        "start": 79,
+        "end": 90
+      },
+      {
+        "text": "Universität Basel",
+        "label": "ORG",
+        "start": 99,
+        "end": 116
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 125,
+        "end": 135
+      },
+      {
+        "text": "Ausgangssignal",
+        "label": "LOC",
+        "start": 151,
+        "end": 165
+      },
+      {
+        "text": "Metas",
+        "label": "ORG",
+        "start": 225,
+        "end": 230
+      },
+      {
+        "text": "Switch",
+        "label": "ORG",
+        "start": 290,
+        "end": 296
+      },
+      {
+        "text": "Basel",
+        "label": "LOC",
+        "start": 302,
+        "end": 307
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 312,
+        "end": 318
+      },
+      {
+        "text": "Signal",
+        "label": "LOC",
+        "start": 421,
+        "end": 427
+      },
+      {
+        "text": "Jacques Morel",
+        "label": "PER",
+        "start": 707,
+        "end": 720
+      },
+      {
+        "text": "Metas",
+        "label": "ORG",
+        "start": 772,
+        "end": 777
+      },
+      {
+        "text": "Signal",
+        "label": "LOC",
+        "start": 796,
+        "end": 802
+      },
+      {
+        "text": "Basel",
+        "label": "LOC",
+        "start": 806,
+        "end": 811
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 816,
+        "end": 822
+      },
+      {
+        "text": "Bern",
+        "label": "LOC",
+        "start": 828,
+        "end": 832
+      },
+      {
+        "text": "Ausgangssignal",
+        "label": "LOC",
+        "start": 858,
+        "end": 872
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 4,
+        "end": 15
+      },
+      {
+        "text": "Jérôme Faist",
+        "label": "PER",
+        "start": 91,
+        "end": 103
+      },
+      {
+        "text": "Institut für Quantenelektronik",
+        "label": "ORG",
+        "start": 126,
+        "end": 156
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 161,
+        "end": 171
+      },
+      {
+        "text": "Italien",
+        "label": "LOC",
+        "start": 245,
+        "end": 252
+      },
+      {
+        "text": "Deutschland",
+        "label": "LOC",
+        "start": 254,
+        "end": 265
+      },
+      {
+        "text": "Frankreich",
+        "label": "LOC",
+        "start": 270,
+        "end": 280
+      },
+      {
+        "text": "Signal",
+        "label": "LOC",
+        "start": 480,
+        "end": 486
+      },
+      {
+        "text": "Telekommunikationsanbieter",
+        "label": "LOC",
+        "start": 671,
+        "end": 697
+      },
+      {
+        "text": "Referenzsignal",
+        "label": "LOC",
+        "start": 773,
+        "end": 787
+      },
+      {
+        "text": "Datenverkehr",
+        "label": "ORG",
+        "start": 911,
+        "end": 923
+      },
+      {
+        "text": "Referenzsignal",
+        "label": "LOC",
+        "start": 952,
+        "end": 966
+      },
+      {
+        "text": "Fabian Mauchle",
+        "label": "PER",
+        "start": 56,
+        "end": 70
+      },
+      {
+        "text": "Projektverantwortlicher",
+        "label": "PER",
+        "start": 72,
+        "end": 95
+      },
+      {
+        "text": "Switch",
+        "label": "LOC",
+        "start": 100,
+        "end": 106
+      },
+      {
+        "text": "Kostengründen",
+        "label": "LOC",
+        "start": 124,
+        "end": 137
+      },
+      {
+        "text": "Switch",
+        "label": "ORG",
+        "start": 172,
+        "end": 178
+      },
+      {
+        "text": "Referenzsignal",
+        "label": "LOC",
+        "start": 460,
+        "end": 474
+      },
+      {
+        "text": "Switch",
+        "label": "PER",
+        "start": 625,
+        "end": 631
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 105,
+        "end": 116
+      },
+      {
+        "text": "Cern",
+        "label": "LOC",
+        "start": 142,
+        "end": 146
+      },
+      {
+        "text": "Genf",
+        "label": "LOC",
+        "start": 150,
+        "end": 154
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 160,
+        "end": 164
+      },
+      {
+        "text": "Universität Neuenburg",
+        "label": "ORG",
+        "start": 174,
+        "end": 195
+      },
+      {
+        "text": "Gigahertz-Bereich",
+        "label": "LOC",
+        "start": 627,
+        "end": 644
+      },
+      {
+        "text": "Terahertz-Bereich",
+        "label": "LOC",
+        "start": 698,
+        "end": 715
+      },
+      {
+        "text": "Glasfasern",
+        "label": "LOC",
+        "start": 961,
+        "end": 971
+      },
+      {
+        "text": "Erdwissenschaftlern",
+        "label": "MISC",
+        "start": 1107,
+        "end": 1126
+      },
+      {
+        "text": "Husmann D",
+        "label": "PER",
+        "start": 1470,
+        "end": 1479
+      },
+      {
+        "text": "SI-traceable",
+        "label": "MISC",
+        "start": 1488,
+        "end": 1500
+      },
+      {
+        "text": "with ring topology",
+        "label": "MISC",
+        "start": 1569,
+        "end": 1587
+      },
+      {
+        "text": "No",
+        "label": "LOC",
+        "start": 1598,
+        "end": 1600
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fabian Mauchle",
+        "Frédéric Merkt",
+        "Husmann D",
+        "Jacques Morel",
+        "Jérôme Faist",
+        "Konkret",
+        "Projektverantwortlicher",
+        "Stefan Willitsch",
+        "Switch"
+      ],
+      "ORG": [
+        "Datenverkehr",
+        "EPFL",
+        "ETH Zürich",
+        "Eidgenössischen Instituts für Metrologie",
+        "Institut für Quantenelektronik",
+        "Masseinheiten für die Schweiz",
+        "Metas",
+        "Schweizerischen Nationalfonds",
+        "Stiftung Switch",
+        "Switch",
+        "Universität Basel",
+        "Universität Neuenburg"
+      ],
+      "LOCATION": [
+        "Ausgangssignal",
+        "Basel",
+        "Bern",
+        "Bern-Wabern",
+        "Cern",
+        "Deutschland",
+        "Frankreich",
+        "Genf",
+        "Gigahertz-Bereich",
+        "Glasfasern",
+        "Italien",
+        "Kostengründen",
+        "Metas",
+        "Molekülen",
+        "No",
+        "Referenzsignal",
+        "Signal",
+        "Switch",
+        "Telekommunikationsanbieter",
+        "Terahertz-Bereich",
+        "Zürich",
+        "der Schweiz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Erdwissenschaftlern",
+        "SI-traceable",
+        "Schweizer",
+        "with ring topology"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 4,
+      "Metas": 4,
+      "Switch": 4,
+      "Universität Basel": 3,
+      "der Schweiz": 3,
+      "Signal": 3,
+      "Referenzsignal": 3,
+      "Molekülen": 2,
+      "Ausgangssignal": 2,
+      "Basel": 2,
+      "Zürich": 2,
+      "Schweizer": 1,
+      "Eidgenössischen Instituts für Metrologie": 1,
+      "Masseinheiten für die Schweiz": 1,
+      "Stiftung Switch": 1,
+      "Schweizerischen Nationalfonds": 1,
+      "Stefan Willitsch": 1,
+      "Frédéric Merkt": 1,
+      "Konkret": 1,
+      "Bern-Wabern": 1
+    },
+    "total_entities": 65,
+    "unique_entities": 44
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "hochpraezise-frequenzmessung.md",
+      "title": "De News Events/2021/07/hochpraezise Frequenzmessung",
+      "language": "de",
+      "source_path": "de_news_events/2021/07/hochpraezise-frequenzmessung.html"
+    },
+    "temporal": {
+      "publication_date": "2021-07",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Fabian Mauchle",
+        "Frédéric Merkt",
+        "Husmann D",
+        "Jacques Morel",
+        "Jérôme Faist",
+        "Konkret",
+        "Projektverantwortlicher",
+        "Stefan Willitsch",
+        "Switch"
+      ],
+      "people_with_roles": {
+        "Frédéric Merkt": [
+          "professor"
+        ],
+        "Jérôme Faist": [
+          "professor"
+        ],
+        "Stefan Willitsch": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Erdwissenschaftlern",
+        "SI-traceable",
+        "Schweizer",
+        "with ring topology"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Fabian Mauchle",
+        "Labors Photonik",
+        "Sinergia-Programm",
+        "Telekommunikations-Infrastruktur",
+        "C-Band",
+        "Die Resultate",
+        "Das Ausgangssignal",
+        "Physikalische Chemie",
+        "Spektroskopie-Analysen",
+        "Schweizer Forschungsinstitutionen",
+        "Terahertz-Bereich",
+        "Gigahertz-Bereich",
+        "Stiftung Switch",
+        "Jacques Morel",
+        "Schweizerischen Nationalfonds",
+        "SI-Einheit",
+        "L-Band",
+        "Bern-Wabern",
+        "De News",
+        "Spektroskopie-Untersuchungen",
+        "Husmann D",
+        "Stefan Willitsch"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Datenverkehr",
+        "EPFL",
+        "ETH Zürich",
+        "Eidgenössischen Instituts für Metrologie",
+        "Institut für Quantenelektronik",
+        "Masseinheiten für die Schweiz",
+        "Metas",
+        "Schweizerischen Nationalfonds",
+        "Stiftung Switch",
+        "Switch",
+        "Universität Basel",
+        "Universität Neuenburg"
+      ],
+      "locations": [
+        "Ausgangssignal",
+        "Basel",
+        "Bern",
+        "Bern-Wabern",
+        "Cern",
+        "Deutschland",
+        "Frankreich",
+        "Genf",
+        "Gigahertz-Bereich",
+        "Glasfasern",
+        "Italien",
+        "Kostengründen",
+        "Metas",
+        "Molekülen",
+        "No",
+        "Referenzsignal",
+        "Signal",
+        "Switch",
+        "Telekommunikationsanbieter",
+        "Terahertz-Bereich",
+        "Zürich",
+        "der Schweiz"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "Metas",
+        "Switch",
+        "Universität Basel",
+        "der Schweiz",
+        "Signal",
+        "Referenzsignal",
+        "Molekülen",
+        "Ausgangssignal",
+        "Basel"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Kontinuierliche Korrektur",
+          "Kontinuierliche Korrektur",
+          "Hohe Qualität, tiefere Kosten",
+          "Auch für andere Disziplinen interessant",
+          "Internationale Vernetzung"
+        ],
+        "content_length": 5965
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EPFL",
+        "Fabian Mauchle",
+        "Konkret",
+        "Metas",
+        "Frédéric Merkt",
+        "Universität Basel",
+        "Projektverantwortlicher",
+        "Universität Neuenburg",
+        "ETH Zürich",
+        "2021",
+        "Masseinheiten für die Schweiz",
+        "EU",
+        "Stiftung Switch",
+        "Eidgenössischen Instituts für Metrologie",
+        "Jacques Morel",
+        "Schweizerischen Nationalfonds",
+        "Datenverkehr",
+        "Jérôme Faist",
+        "Switch",
+        "Husmann D",
+        "Stefan Willitsch",
+        "Institut für Quantenelektronik"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "SI-traceable",
+        "Schweizer",
+        "who",
+        "with ring topology",
+        "when",
+        "Erdwissenschaftlern"
+      ],
+      "graph_relations": [
+        "Frédéric Merkt_has_role_professor",
+        "Jérôme Faist_has_role_professor",
+        "Stefan Willitsch_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

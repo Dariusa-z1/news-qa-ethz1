@@ -1,0 +1,355 @@
+{
+  "filename": "venture-2014-submit-your-business-idea-until-1-december.md",
+  "original_filename": "venture-2014-submit-your-business-idea-until-1-december.html",
+  "source_path": "en_internal/2013/11/venture-2014-submit-your-business-idea-until-1-december.html",
+  "date": "2013-11",
+  "title": "Venture 2014 Submit Your Business Idea Until 1 December",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The ten best proposals will be awarded CHF 2,500 each. In a second phase, the authors of the best business plans will be invited to present them to the jury. In this phase, the total prize money is at least CHF 125,000.\n\nParticipation is open to individuals who are domiciled in Switzerland or the Principality of Liechtenstein and are at least 18 years of age, and also to teams, so long as at least one member of the team is domiciled in Switzerland or the Principality of Liechtenstein and is at least 18 years of age. Participation is also open to individuals and teams that enter their business idea via a Swiss House (Bangalore, Boston, New York, Rio de Janeiro, San Francisco, Shanghai or Singapore), provided that such teams contain at least one Swiss national resident abroad.\n\n»venture» 2014 is an initiative of the ETH Zurich, Knecht Holding, the innovation promotion agency CTI and McKinsey & Company, Switzerland. The Swiss-wide business plan competition supports young entrepreneurs in founding a company.\n\nMore information on the webpage."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Submit Your Business Idea",
+        "label": "ORG",
+        "start": 33,
+        "end": 58
+      },
+      {
+        "text": "1 December",
+        "label": "DATE",
+        "start": 65,
+        "end": 75
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "text": "2,500",
+        "label": "CARDINAL",
+        "start": 43,
+        "end": 48
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 60,
+        "end": 66
+      },
+      {
+        "text": "125,000",
+        "label": "CARDINAL",
+        "start": 211,
+        "end": 218
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 278,
+        "end": 289
+      },
+      {
+        "text": "at least 18 years of age",
+        "label": "DATE",
+        "start": 335,
+        "end": 359
+      },
+      {
+        "text": "at least one",
+        "label": "CARDINAL",
+        "start": 391,
+        "end": 403
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 439,
+        "end": 450
+      },
+      {
+        "text": "at least 18 years of age",
+        "label": "DATE",
+        "start": 495,
+        "end": 519
+      },
+      {
+        "text": "Bangalore, Boston",
+        "label": "ORG",
+        "start": 623,
+        "end": 640
+      },
+      {
+        "text": "New York",
+        "label": "GPE",
+        "start": 642,
+        "end": 650
+      },
+      {
+        "text": "Rio de Janeiro",
+        "label": "GPE",
+        "start": 652,
+        "end": 666
+      },
+      {
+        "text": "San Francisco",
+        "label": "GPE",
+        "start": 668,
+        "end": 681
+      },
+      {
+        "text": "Shanghai",
+        "label": "GPE",
+        "start": 683,
+        "end": 691
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 695,
+        "end": 704
+      },
+      {
+        "text": "at least one",
+        "label": "CARDINAL",
+        "start": 740,
+        "end": 752
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 753,
+        "end": 758
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 820,
+        "end": 834
+      },
+      {
+        "text": "Knecht Holding",
+        "label": "ORG",
+        "start": 836,
+        "end": 850
+      },
+      {
+        "text": "CTI",
+        "label": "ORG",
+        "start": 884,
+        "end": 887
+      },
+      {
+        "text": "McKinsey & Company",
+        "label": "ORG",
+        "start": 892,
+        "end": 910
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 912,
+        "end": 923
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 929,
+        "end": 934
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Bangalore, Boston",
+        "CHF",
+        "CTI",
+        "Knecht Holding",
+        "McKinsey & Company",
+        "Submit Your Business Idea",
+        "the ETH Zurich"
+      ],
+      "LOCATION": [
+        "New York",
+        "Rio de Janeiro",
+        "San Francisco",
+        "Shanghai",
+        "Singapore",
+        "Switzerland"
+      ],
+      "DATE": [
+        "1 December",
+        "at least 18 years of age"
+      ],
+      "MISC": [
+        "125,000",
+        "2,500",
+        "Swiss",
+        "at least one",
+        "second",
+        "ten"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 3,
+      "at least 18 years of age": 2,
+      "at least one": 2,
+      "Swiss": 2,
+      "Submit Your Business Idea": 1,
+      "1 December": 1,
+      "ten": 1,
+      "CHF": 1,
+      "2,500": 1,
+      "second": 1,
+      "125,000": 1,
+      "Bangalore, Boston": 1,
+      "New York": 1,
+      "Rio de Janeiro": 1,
+      "San Francisco": 1,
+      "Shanghai": 1,
+      "Singapore": 1,
+      "the ETH Zurich": 1,
+      "Knecht Holding": 1,
+      "CTI": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "venture-2014-submit-your-business-idea-until-1-december.md",
+      "title": "En Internal/2013/11/venture 2014 Submit Your Business Idea Until 1 December",
+      "language": "en",
+      "source_path": "en_internal/2013/11/venture-2014-submit-your-business-idea-until-1-december.html"
+    },
+    "temporal": {
+      "publication_date": "2013-11",
+      "mentioned_years": [
+        "2013",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "until"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "125,000",
+        "2,500",
+        "Swiss",
+        "at least one",
+        "second"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Submit Your",
+        "Swiss House",
+        "December The",
+        "En Internal",
+        "Business Idea",
+        "New York",
+        "Knecht Holding",
+        "San Francisco",
+        "The Swiss",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bangalore, Boston",
+        "CHF",
+        "CTI",
+        "Knecht Holding",
+        "McKinsey & Company",
+        "Submit Your Business Idea",
+        "the ETH Zurich"
+      ],
+      "locations": [
+        "New York",
+        "Rio de Janeiro",
+        "San Francisco",
+        "Shanghai",
+        "Singapore",
+        "Switzerland"
+      ],
+      "programs": [
+        "initiative",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "at least 18 years of age",
+        "at least one",
+        "Swiss",
+        "Submit Your Business Idea",
+        "1 December",
+        "ten",
+        "CHF",
+        "2,500",
+        "second"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1129
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "CHF",
+        "CTI",
+        "the ETH Zurich",
+        "2013",
+        "McKinsey & Company",
+        "EU",
+        "Knecht Holding",
+        "Bangalore, Boston",
+        "Submit Your Business Idea",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "at least one",
+        "who",
+        "Swiss",
+        "second",
+        "125,000",
+        "2,500",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

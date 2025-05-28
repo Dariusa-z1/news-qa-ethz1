@@ -1,0 +1,601 @@
+{
+  "filename": "creation-of-shangri-la.md",
+  "original_filename": "creation-of-shangri-la.html",
+  "source_path": "en_news_events/2015/04/creation-of-shangri-la.html",
+  "date": "2015-04",
+  "title": "Creation Of Shangri La",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Elevation of the lowlands in dispute",
+      "text": "Located in Tibet and the Chinese province of Yunnan, the southeast Tibetan plateau is an extraordinary mountainous region. The high peaks are rugged and steep, reaching more than 7,000 meters in height. Major rivers, including the Yangtze, Mekong and Salween, have significantly eroded the bedrock. Nestled amongst the mountain ridges, however, are beautiful high valleys with gentle hills, large lakes and meandering rivers. This landscape inspired James Hilton's mystical Shangri-La, a heavenly, peaceful spot that became firmly entrenched in the minds of Westerners through his book, Lost Horizons .\n\nGeoscientists take a somewhat less romantic approach to this area. Given that the geology is extremely interesting, they wish to find out how high valleys with the characteristics of Shangri-La came into being."
+    },
+    {
+      "heading": "The Engadin – another Shangri–La?",
+      "text": "This map shows the study site in the Eastern Himalayas and Yunnan, China. (Map: Wikimedia Commons)\n\nIt was previously assumed that these high valleys were relict landscapes, originating in the lowlands that lie at the foot of the Himalayas. According to this model, the continental collision and corresponding rise of the Tibetan plateau led to parts of the lowlands being lifted to their current elevation of between 2,000 and 5,000 metres above sea level. The characteristics of the landscape are thus thought to be preserved there.\n\nUsing a new computer model, geologists at ETH Zurich have now simulated the formation of these high-lying valleys. The simulations are a type of time lapse that enables the geologists to track the geological processes of the past 50 million years. As they recently disclosed in the journal Nature , the results of the study led them to a completely different conclusion."
+    },
+    {
+      "heading": "Faults disrupt the network of rivers",
+      "text": "In their simulation, they were not able to track preserved lowlands being uplifted into the highlands. In contrast, they demonstrated that the gentle, high valleys developed in place (in situ). This is due to a process of disruption of the river network induced by tectonic movement.\n\nA video still taken from the simulation shows where deformation changed the course of rivers and river networks. This changed the rate of erosion dramatically. Weak erosion (in light blue color) leads to the formation of high, low-relief valleys. Strong erosion (in red) carves deep ravines in the bedrock. (from Yang et al., 2015)\n\nIn this simulation (and, by inference, in reality), the north-eastern corner of the Indian Plate – today located in the province of Yunnan – pushes against the Asian plate and strongly \"indents\" the eastern Himalaya and Tibetan plateau. This results in large strain, accommodated by a succession of earthquakes that deform the Earth's surface along faults that cut across the landscape.\n\nThe deformation forces rivers to change course, shifting flow direction, and in some cases, disrupting watercourses such that rivers lose part of their catchment area. If, for example, a tributary disappears, the remaining river will carry less water. The river’s capacity for erosion, or for the transport of sediment, are diminished, resulting in a lower steepness to the river. The rate of erosion is also reduced along the adjacent slopes, because the river undercuts hillslopes less aggressively. As a result, they erode less quickly, with hillslopes being less steep and landslides becoming a less frequent occurrence. Over the course of millions of years, this process leads to the formation of landscapes in the mountains that resemble those in the lowlands at lower elevation. For ETH Professor Sean Willett, co-author of the study, the results are clear: \"Our simulations explicitly show that the high-lying valleys must have developed in place. They are not remnants of former lowlands.\"\n\nAs for glaciers creating the gentle shapes, Willett rules this possibility out as well. According to Willett, glaciation in the study region was limited to the highest summits. Although he states that this may have assisted in the erosion of high mountains and slopes, he concludes that rivers are solely responsible for the formation of the valleys.\n\nThe results of the study do not apply exclusively to the eastern Himalayas; they offer revealing insights into other mountainous regions as well. The ETH Professor highlights the Engadin as an example from the Swiss Alps. The valley floor is high above sea level, but is flatter than would be expected from a purely glacial valley. There is much to suggest that the high-lying valley in the Engadin could have been formed in place at high altitudes, just like those in the highlands of south-eastern Tibet. \"The Maloja Pass is not a normal pass because there is no incline, no steep headwall, on the Engadin side,\" Willett states. “It is as if the head of the valley has been cut off.”\n\nWhether the Engadin and other high-lying alpine valleys actually conform to the geoscientists' current model will be clarified in an upcoming study.\n\nYang R, Willett S, Goren L. In situ low-relief landscape formation as a result of river network disruption. Nature, published online 22. April 2015; DOI: 10.1038/nature14354"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Shangri La",
+        "label": "LOC",
+        "start": 35,
+        "end": 45
+      },
+      {
+        "text": "Tibet",
+        "label": "GPE",
+        "start": 11,
+        "end": 16
+      },
+      {
+        "text": "Chinese",
+        "label": "NORP",
+        "start": 25,
+        "end": 32
+      },
+      {
+        "text": "Yunnan",
+        "label": "GPE",
+        "start": 45,
+        "end": 51
+      },
+      {
+        "text": "Tibetan",
+        "label": "LOC",
+        "start": 67,
+        "end": 74
+      },
+      {
+        "text": "more than 7,000 meters",
+        "label": "QUANTITY",
+        "start": 169,
+        "end": 191
+      },
+      {
+        "text": "Yangtze",
+        "label": "LOC",
+        "start": 231,
+        "end": 238
+      },
+      {
+        "text": "Mekong",
+        "label": "GPE",
+        "start": 240,
+        "end": 246
+      },
+      {
+        "text": "Salween",
+        "label": "DATE",
+        "start": 251,
+        "end": 258
+      },
+      {
+        "text": "James Hilton's",
+        "label": "PERSON",
+        "start": 450,
+        "end": 464
+      },
+      {
+        "text": "Shangri-La",
+        "label": "PERSON",
+        "start": 474,
+        "end": 484
+      },
+      {
+        "text": "Westerners",
+        "label": "NORP",
+        "start": 558,
+        "end": 568
+      },
+      {
+        "text": "Lost Horizons",
+        "label": "ORG",
+        "start": 587,
+        "end": 600
+      },
+      {
+        "text": "Shangri-La",
+        "label": "ORG",
+        "start": 786,
+        "end": 796
+      },
+      {
+        "text": "the Eastern Himalayas",
+        "label": "LOC",
+        "start": 33,
+        "end": 54
+      },
+      {
+        "text": "Yunnan",
+        "label": "GPE",
+        "start": 59,
+        "end": 65
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 67,
+        "end": 72
+      },
+      {
+        "text": "Wikimedia Commons",
+        "label": "ORG",
+        "start": 80,
+        "end": 97
+      },
+      {
+        "text": "Tibetan",
+        "label": "NORP",
+        "start": 321,
+        "end": 328
+      },
+      {
+        "text": "between 2,000 and 5,000 metres",
+        "label": "QUANTITY",
+        "start": 409,
+        "end": 439
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 576,
+        "end": 586
+      },
+      {
+        "text": "the past 50 million years",
+        "label": "DATE",
+        "start": 755,
+        "end": 780
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 824,
+        "end": 830
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 597,
+        "end": 601
+      },
+      {
+        "text": "the Indian Plate",
+        "label": "ORG",
+        "start": 696,
+        "end": 712
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 715,
+        "end": 720
+      },
+      {
+        "text": "Yunnan",
+        "label": "GPE",
+        "start": 748,
+        "end": 754
+      },
+      {
+        "text": "Asian",
+        "label": "NORP",
+        "start": 776,
+        "end": 781
+      },
+      {
+        "text": "Himalaya",
+        "label": "GPE",
+        "start": 823,
+        "end": 831
+      },
+      {
+        "text": "Tibetan",
+        "label": "NORP",
+        "start": 836,
+        "end": 843
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 943,
+        "end": 948
+      },
+      {
+        "text": "millions of years",
+        "label": "DATE",
+        "start": 1647,
+        "end": 1664
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1793,
+        "end": 1796
+      },
+      {
+        "text": "Sean Willett",
+        "label": "PERSON",
+        "start": 1807,
+        "end": 1819
+      },
+      {
+        "text": "Willett",
+        "label": "PERSON",
+        "start": 2046,
+        "end": 2053
+      },
+      {
+        "text": "Willett",
+        "label": "PERSON",
+        "start": 2103,
+        "end": 2110
+      },
+      {
+        "text": "Himalayas",
+        "label": "PRODUCT",
+        "start": 2418,
+        "end": 2427
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2503,
+        "end": 2506
+      },
+      {
+        "text": "Engadin",
+        "label": "GPE",
+        "start": 2532,
+        "end": 2539
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 2563,
+        "end": 2568
+      },
+      {
+        "text": "Alps",
+        "label": "LOC",
+        "start": 2569,
+        "end": 2573
+      },
+      {
+        "text": "Engadin",
+        "label": "GPE",
+        "start": 2744,
+        "end": 2751
+      },
+      {
+        "text": "Tibet",
+        "label": "GPE",
+        "start": 2853,
+        "end": 2858
+      },
+      {
+        "text": "The Maloja Pass",
+        "label": "WORK_OF_ART",
+        "start": 2861,
+        "end": 2876
+      },
+      {
+        "text": "Engadin",
+        "label": "ORG",
+        "start": 2953,
+        "end": 2960
+      },
+      {
+        "text": "Willett",
+        "label": "PERSON",
+        "start": 2968,
+        "end": 2975
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 3188,
+        "end": 3192
+      },
+      {
+        "text": "Willett S",
+        "label": "PERSON",
+        "start": 3196,
+        "end": 3205
+      },
+      {
+        "text": "Goren L.",
+        "label": "PERSON",
+        "start": 3207,
+        "end": 3215
+      },
+      {
+        "text": "April 2015",
+        "label": "DATE",
+        "start": 3325,
+        "end": 3335
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 3342,
+        "end": 3349
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Goren L.",
+        "James Hilton's",
+        "Sean Willett",
+        "Shangri-La",
+        "Willett",
+        "Willett S",
+        "Yang"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Engadin",
+        "Lost Horizons",
+        "Shangri-La",
+        "Wikimedia Commons",
+        "the Indian Plate"
+      ],
+      "LOCATION": [
+        "Alps",
+        "China",
+        "Earth",
+        "Engadin",
+        "Himalaya",
+        "Mekong",
+        "Shangri La",
+        "Tibet",
+        "Tibetan",
+        "Yangtze",
+        "Yunnan",
+        "the Eastern Himalayas"
+      ],
+      "DATE": [
+        "April 2015",
+        "Salween",
+        "millions of years",
+        "the past 50 million years",
+        "today"
+      ],
+      "MISC": [
+        "10.1038",
+        "Asian",
+        "Chinese",
+        "Himalayas",
+        "Nature",
+        "Swiss",
+        "The Maloja Pass",
+        "Tibetan",
+        "Westerners",
+        "between 2,000 and 5,000 metres",
+        "more than 7,000 meters"
+      ]
+    },
+    "entity_counts": {
+      "Yunnan": 3,
+      "Tibetan": 3,
+      "Willett": 3,
+      "Engadin": 3,
+      "Tibet": 2,
+      "Shangri-La": 2,
+      "Yang": 2,
+      "ETH": 2,
+      "Shangri La": 1,
+      "Chinese": 1,
+      "more than 7,000 meters": 1,
+      "Yangtze": 1,
+      "Mekong": 1,
+      "Salween": 1,
+      "James Hilton's": 1,
+      "Westerners": 1,
+      "Lost Horizons": 1,
+      "the Eastern Himalayas": 1,
+      "China": 1,
+      "Wikimedia Commons": 1
+    },
+    "total_entities": 51,
+    "unique_entities": 39
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "creation-of-shangri-la.md",
+      "title": "En News Events/2015/04/creation Of Shangri La",
+      "language": "en",
+      "source_path": "en_news_events/2015/04/creation-of-shangri-la.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Goren L.",
+        "James Hilton's",
+        "Sean Willett",
+        "Shangri-La",
+        "Willett",
+        "Willett S",
+        "Yang"
+      ],
+      "people_with_roles": {
+        "Sean Willett": [
+          "Professor",
+          "professor"
+        ],
+        "Willett": [
+          "head",
+          "professor"
+        ],
+        "Willett S": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Asian",
+        "Chinese",
+        "Himalayas",
+        "Nature",
+        "Swiss",
+        "The Maloja Pass",
+        "Tibetan",
+        "Westerners",
+        "between 2,000 and 5,000 metres",
+        "more than 7,000 meters"
+      ],
+      "grants_funding": [
+        "ERC",
+        "Horizon"
+      ],
+      "projects": [
+        "La Located",
+        "Shangri-La",
+        "Wikimedia Commons",
+        "James Hilton",
+        "Indian Plate",
+        "En News",
+        "For ETH",
+        "Eastern Himalayas",
+        "Yang R",
+        "Professor Sean",
+        "Lost Horizons",
+        "Goren L",
+        "The Maloja",
+        "Swiss Alps",
+        "ETH Zurich",
+        "Of Shangri",
+        "Willett S",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Engadin",
+        "Lost Horizons",
+        "Shangri-La",
+        "Wikimedia Commons",
+        "the Indian Plate"
+      ],
+      "locations": [
+        "Alps",
+        "China",
+        "Earth",
+        "Engadin",
+        "Himalaya",
+        "Mekong",
+        "Shangri La",
+        "Tibet",
+        "Tibetan",
+        "Yangtze",
+        "Yunnan",
+        "the Eastern Himalayas"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Yunnan",
+        "Tibetan",
+        "Willett",
+        "Engadin",
+        "Tibet",
+        "Shangri-La",
+        "Yang",
+        "ETH",
+        "Shangri La",
+        "Chinese"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Elevation of the lowlands in dispute",
+          "The Engadin – another Shangri–La?",
+          "Faults disrupt the network of rivers"
+        ],
+        "content_length": 5136
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Goren L.",
+        "Shangri-La",
+        "Sean Willett",
+        "Wikimedia Commons",
+        "Willett",
+        "2015",
+        "James Hilton's",
+        "Horizon",
+        "the Indian Plate",
+        "Engadin",
+        "Lost Horizons",
+        "Yang",
+        "ETH Zurich",
+        "Willett S",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Nature",
+        "who",
+        "Tibetan",
+        "10.1038",
+        "Swiss",
+        "Westerners",
+        "Chinese",
+        "Asian",
+        "where",
+        "The Maloja Pass",
+        "what",
+        "Himalayas",
+        "more than 7,000 meters",
+        "how",
+        "when",
+        "between 2,000 and 5,000 metres"
+      ],
+      "graph_relations": [
+        "Sean Willett_has_role_Professor",
+        "Sean Willett_has_role_professor",
+        "Willett_has_role_head",
+        "Willett_has_role_professor",
+        "Willett S_has_role_head",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

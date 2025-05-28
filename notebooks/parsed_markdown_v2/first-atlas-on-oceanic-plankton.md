@@ -1,0 +1,32 @@
+# first-atlas-on-oceanic-plankton.html
+
+**Source:** en_news_events/2013/07/first-atlas-on-oceanic-plankton.html
+
+## From bacteria to small crustaceans
+
+Now, they have brought together this data in a global atlas. The publication was released recently under the name of MAREDAT in a special edition of the journal "Earth System Science Data" and provides information on organisms ranging from phytoplankton and bacteria of just one picometre (one billionth of a metre) in size to centimetre-large zooplankton such as krill and other small crustaceans. In spite of the tininess of individual organisms, plankton play a crucial role in the oceans: on the one hand, plankton are an important driver of global biogeochemical cycles, and on the other hand, they form the basis of the food chains in marine ecosystems.
+
+For example, phytoplankton absorb CO2 for photosynthesis, release oxygen into the atmosphere and carry a good portion of the absorbed carbon into the depths of the oceans when they die and sink to the ground. In this way, phytoplankton remove CO2 from the atmosphere and contribute to the regulation of the global climate. Plankton also control the marine nitrogen cycle and can even influence cloud formation through the sulphur cycle. Zooplankton such as krill are an important source of food for whales, fishes and other marine species higher up in the food chain, which in turn are exploited by humans.
+
+## Global puzzle out of hundreds of thousands of data entries
+
+Meike Vogt, senior scientist at the Institute of Biogeochemistry and Pollutant Dynamics at ETH Zurich, coordinated the project together with her British colleagues at the University of East Anglia. "Analysing data from half a million survey stations was an incredibly ambitious undertaking and would have been impossible without international collaboration," says Vogt. The scientists combed through databases and publications and even extracted data from hand-written notes. The data were carefully quality-controlled before they were used to calcu-late biomass. What took especially long was persuading the various research institutes that gather such data to participate, and standardising the various con-tributions, some of which were historical.
+
+## Plankton data for climate science
+
+The data help us to understand how planktonic organisms are organised in eco-systems. For example, they can provide insight into the biodiversity of different oceanic regions. Something that the scientists are particularly interested in is knowing which species occur together and whether they indicate certain habitats and biogeographical regions with similar biogeochemical functions. The researchers hope that these data will shed light on the role that plankton play in different oceanic regions as a driver of the earth's various biogeochemical cycles.
+
+This is why the data are also valuable for climate scientists, who now have a more solid foundation of data to validate their models. Until now, they have worked with simple ocean ecosystem models that differentiate between two kinds of zoo- and phytoplankton at most. If the scientists succeed in mapping ecological diversity more accurately by taking into account more plankton types, then this would allow more precise predictions with regard to the role of the ocean as a carbon sink.
+
+## A disrupted ecosystem
+
+"Humans disrupt the ocean system in diverse ways and on various levels of the food chain," says Meike Vogt. Since the oceanic ecosystems are very complex, she explains, we still have only a vague idea about the future impact of overfish-ing and ocean acidification, for instance, especially if we do not know which species occur where. What initial analyses of MAREDAT do show is that there are far more organisms in the deep sea than has been assumed so far. In addition, it seems that across the world's oceans, zooplankton have at least as much biomass as phytoplankton. "This is surprising, since it is usually just the other way round in the terrestrial systems, where there are more plants than animals," says Meike Vogt. Her group also uses MAREDAT to form fundamental hypotheses about ecological diversity and to verify their models with the newly obtained data.
+
+"At the moment, we can generate initial rudimentary distribution maps with sta-tistical models. These maps, however, will change greatly in the next ten years, because we have too few samples from some regions to map them accurately," says Meike Vogt. The South Pacific and some regions in the Southern Ocean have hardly been studied. This is why the scientists want to revise MAREDAT for the first time in 2015. The aim is to collect even more data in order to document changes in plankton communities later on.
+
+## Contacts
+
+ETH Zurich Dr. Meike Vogt Institute of Biogeochemistry and Pollutant Dynamics Tel. +41 44 632 84 99
+
+ETH Zurich Media Relations Tel. +41 44 632 41 41
+

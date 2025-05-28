@@ -1,0 +1,734 @@
+{
+  "filename": "10-millionen-fuer-auterion.md",
+  "original_filename": "10-millionen-fuer-auterion.html",
+  "source_path": "en_news_events/2018/09/10-millionen-fuer-auterion.html",
+  "date": "2018-09",
+  "title": "10 Millionen Fuer Auterion",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A well-timed idea",
+      "text": "Auterion, the world’s largest open-source drone software company, announced 10 million (USD) in seed funding earlier this month. Founded just over a year ago by ETH Zurich Alumni, Lorenz Meier and Kevin Sartori. Auterion’s seed round surpasses the current European average of 1.17 million (Venture Beat 1 ). It even tops the latest Silicon Valley average seed round of 6.3 million (Tech Crunch 2 ). So how has this Swiss start-up attracted some of the world’s top investors? Could Auterion’s success be attributed to just 3 success factors?"
+    },
+    {
+      "heading": "A well-timed idea",
+      "text": "Goldman Sachs predicts a market demand for commercial drone products and services to grow to $13 billion by 2020, but the industry is still highly fragmented according to Meier. Responding to the call of the market, Auterion recently launched a new open-source operating system that unifies standards and provides a cyber-secure, compliant operating system specifically designed for commercial drone enterprises. The operating system sits on top of the open-source PX4 software that Meier developed 10 years ago as a graduate student in the Computer Vision and Geometry Lab at ETH Zurich.\n\nToday, developers and companies from around the world use PX4. Companies including Intel, Sony, and Yuneec use the open software and hardware to operate consumer and commercial drones. Surprisingly the PX4 computer vision algorithms, autopilot hardware design, communication protocol, and ground station software are available to anyone as an open-source via Github and the Dronecode community, organized as a collaborative project by the Linux Foundation.\n\nAuterion takes PX4 one-step further. Serving the commercial enterprise market, it is the first to create a compatible ecosystem. A cloud solution allows developers to deploy machine learning, computer vision applications, monitor devices, upload data directly to the cloud, as well as, receive technological support. “Every successful open-source ecosystem needs enterprise software vendors to make the work of the community accessible to the industry...,” says Chris Anderson, CEO 3D Robotics."
+    },
+    {
+      "heading": "A balance of talent",
+      "text": "Meier and Sartori met about a decade ago in Roland Siegwart’s Autonomous Systems Lab at ETH Zurich. While Sartori holds a graduate degree in Robotics from ETH Zurich his path led him to an MBA at UC Berkeley and positions in industry, including a stint in Silicon Valley at 3D Robotics. Meanwhile, Meier completed his doctorate in Drone Software Architecture, also at ETH, and further developed not only PX4 and Pixhawk, but also other UAV protocols.\n\nMeier values collaboration and Sartori’s industry background made their partnership a natural one. Both co-founders believe in really listening to the market. Sartori says, “I have literally climbed telephone poles with inspectors to see if drone technologies can make life in these industries easier and safer.”\n\n“Finding solutions to today’s problems requires global collaboration and deep expertise across many fields. As a world-class institution at the vanguard of science and technology, ETH Zurich is able to bring together talented individuals across diverse sectors. As such, we have found ETH Zurich to be a rich source of innovation. We believe Auterion’s software will be at the forefront of the growing drone and autonomous robot industry,” says Klaus Hommels, Lakestar."
+    },
+    {
+      "heading": "Strategic support",
+      "text": "With venture capitalists clamoring for the opportunity to invest at the ground level, Meier and Sartori approached the opportunity strategically. Already a well-established and trusted entity in the open-source community and working with global companies, not to mention, access to ETH Zurich’s talent pool, Auterion presented a limited risk for investors. Meier and Sartori intentionally sought out international investors who focus on developing European technology. They accepted seed round funding from Lakestar, Mosaic Ventures, Costanoa Ventures, and Tectonic Ventures.\n\n1 Article on Venture Beat\n\n2 Article on TechCrunch"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "10 million",
+        "label": "CARDINAL",
+        "start": 76,
+        "end": 86
+      },
+      {
+        "text": "USD",
+        "label": "ORG",
+        "start": 88,
+        "end": 91
+      },
+      {
+        "text": "earlier this month",
+        "label": "DATE",
+        "start": 109,
+        "end": 127
+      },
+      {
+        "text": "just over a year ago",
+        "label": "DATE",
+        "start": 137,
+        "end": 157
+      },
+      {
+        "text": "ETH Zurich Alumni",
+        "label": "ORG",
+        "start": 161,
+        "end": 178
+      },
+      {
+        "text": "Lorenz Meier",
+        "label": "PERSON",
+        "start": 180,
+        "end": 192
+      },
+      {
+        "text": "Kevin Sartori",
+        "label": "PERSON",
+        "start": 197,
+        "end": 210
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 256,
+        "end": 264
+      },
+      {
+        "text": "1.17 million",
+        "label": "CARDINAL",
+        "start": 276,
+        "end": 288
+      },
+      {
+        "text": "Venture Beat 1",
+        "label": "PERSON",
+        "start": 290,
+        "end": 304
+      },
+      {
+        "text": "Silicon Valley",
+        "label": "LOC",
+        "start": 332,
+        "end": 346
+      },
+      {
+        "text": "6.3 million",
+        "label": "CARDINAL",
+        "start": 369,
+        "end": 380
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 415,
+        "end": 420
+      },
+      {
+        "text": "Goldman Sachs",
+        "label": "ORG",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "$13 billion",
+        "label": "MONEY",
+        "start": 93,
+        "end": 104
+      },
+      {
+        "text": "Meier",
+        "label": "PERSON",
+        "start": 171,
+        "end": 176
+      },
+      {
+        "text": "Meier",
+        "label": "PERSON",
+        "start": 483,
+        "end": 488
+      },
+      {
+        "text": "10 years ago",
+        "label": "DATE",
+        "start": 499,
+        "end": 511
+      },
+      {
+        "text": "the Computer Vision and Geometry Lab",
+        "label": "ORG",
+        "start": 537,
+        "end": 573
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 577,
+        "end": 587
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 589,
+        "end": 594
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 672,
+        "end": 677
+      },
+      {
+        "text": "Sony",
+        "label": "ORG",
+        "start": 679,
+        "end": 683
+      },
+      {
+        "text": "Yuneec",
+        "label": "PERSON",
+        "start": 689,
+        "end": 695
+      },
+      {
+        "text": "PX4",
+        "label": "NORP",
+        "start": 791,
+        "end": 794
+      },
+      {
+        "text": "Github",
+        "label": "GPE",
+        "start": 948,
+        "end": 954
+      },
+      {
+        "text": "Dronecode",
+        "label": "PERSON",
+        "start": 963,
+        "end": 972
+      },
+      {
+        "text": "the Linux Foundation",
+        "label": "ORG",
+        "start": 1024,
+        "end": 1044
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1065,
+        "end": 1068
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1135,
+        "end": 1140
+      },
+      {
+        "text": "Chris Anderson",
+        "label": "PERSON",
+        "start": 1508,
+        "end": 1522
+      },
+      {
+        "text": "3D Robotics",
+        "label": "PERSON",
+        "start": 1528,
+        "end": 1539
+      },
+      {
+        "text": "Meier and Sartori",
+        "label": "ORG",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "about a decade ago",
+        "label": "DATE",
+        "start": 22,
+        "end": 40
+      },
+      {
+        "text": "Roland Siegwart’s",
+        "label": "GPE",
+        "start": 44,
+        "end": 61
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 88,
+        "end": 98
+      },
+      {
+        "text": "Sartori",
+        "label": "ORG",
+        "start": 106,
+        "end": 113
+      },
+      {
+        "text": "Robotics",
+        "label": "LOC",
+        "start": 141,
+        "end": 149
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 155,
+        "end": 165
+      },
+      {
+        "text": "UC Berkeley",
+        "label": "ORG",
+        "start": 196,
+        "end": 207
+      },
+      {
+        "text": "Silicon Valley",
+        "label": "LOC",
+        "start": 256,
+        "end": 270
+      },
+      {
+        "text": "Meier",
+        "label": "PERSON",
+        "start": 298,
+        "end": 303
+      },
+      {
+        "text": "Drone Software Architecture",
+        "label": "ORG",
+        "start": 331,
+        "end": 358
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 368,
+        "end": 371
+      },
+      {
+        "text": "PX4 and Pixhawk",
+        "label": "WORK_OF_ART",
+        "start": 404,
+        "end": 419
+      },
+      {
+        "text": "Sartori",
+        "label": "PRODUCT",
+        "start": 482,
+        "end": 489
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 786,
+        "end": 791
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 944,
+        "end": 954
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1049,
+        "end": 1059
+      },
+      {
+        "text": "Klaus Hommels",
+        "label": "ORG",
+        "start": 1209,
+        "end": 1222
+      },
+      {
+        "text": "Lakestar",
+        "label": "GPE",
+        "start": 1224,
+        "end": 1232
+      },
+      {
+        "text": "Meier",
+        "label": "PERSON",
+        "start": 86,
+        "end": 91
+      },
+      {
+        "text": "Sartori",
+        "label": "PRODUCT",
+        "start": 96,
+        "end": 103
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 282,
+        "end": 294
+      },
+      {
+        "text": "Meier and Sartori",
+        "label": "PERSON",
+        "start": 357,
+        "end": 374
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 448,
+        "end": 456
+      },
+      {
+        "text": "Lakestar",
+        "label": "GPE",
+        "start": 507,
+        "end": 515
+      },
+      {
+        "text": "Mosaic Ventures",
+        "label": "PERSON",
+        "start": 517,
+        "end": 532
+      },
+      {
+        "text": "Costanoa Ventures",
+        "label": "PERSON",
+        "start": 534,
+        "end": 551
+      },
+      {
+        "text": "Tectonic Ventures",
+        "label": "ORG",
+        "start": 557,
+        "end": 574
+      },
+      {
+        "text": "Venture Beat 2 Article",
+        "label": "PERSON",
+        "start": 589,
+        "end": 611
+      },
+      {
+        "text": "TechCrunch",
+        "label": "ORG",
+        "start": 615,
+        "end": 625
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "3D Robotics",
+        "Chris Anderson",
+        "Costanoa Ventures",
+        "Dronecode",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Kevin Sartori",
+        "Lorenz Meier",
+        "Meier",
+        "Meier and Sartori",
+        "Mosaic Ventures",
+        "Venture Beat 1",
+        "Venture Beat 2 Article",
+        "Yuneec"
+      ],
+      "ORG": [
+        "Drone Software Architecture",
+        "ETH",
+        "ETH Zurich Alumni",
+        "En News",
+        "Goldman Sachs",
+        "Intel",
+        "Klaus Hommels",
+        "Meier and Sartori",
+        "Sartori",
+        "Sony",
+        "TechCrunch",
+        "Tectonic Ventures",
+        "UC Berkeley",
+        "USD",
+        "the Computer Vision and Geometry Lab",
+        "the Linux Foundation"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Github",
+        "Lakestar",
+        "Robotics",
+        "Roland Siegwart’s",
+        "Silicon Valley"
+      ],
+      "DATE": [
+        "10 years ago",
+        "Today",
+        "about a decade ago",
+        "earlier this month",
+        "just over a year ago",
+        "today"
+      ],
+      "MISC": [
+        "$13 billion",
+        "1.17 million",
+        "10 million",
+        "6.3 million",
+        "European",
+        "PX4",
+        "PX4 and Pixhawk",
+        "Sartori",
+        "Swiss",
+        "first",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 5,
+      "Meier": 4,
+      "Sartori": 3,
+      "European": 2,
+      "Silicon Valley": 2,
+      "Meier and Sartori": 2,
+      "Lakestar": 2,
+      "En News": 1,
+      "10 million": 1,
+      "USD": 1,
+      "earlier this month": 1,
+      "just over a year ago": 1,
+      "ETH Zurich Alumni": 1,
+      "Lorenz Meier": 1,
+      "Kevin Sartori": 1,
+      "1.17 million": 1,
+      "Venture Beat 1": 1,
+      "6.3 million": 1,
+      "Swiss": 1,
+      "Goldman Sachs": 1
+    },
+    "total_entities": 63,
+    "unique_entities": 50
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "10-millionen-fuer-auterion.md",
+      "title": "En News Events/2018/09/10 Millionen Fuer Auterion",
+      "language": "en",
+      "source_path": "en_news_events/2018/09/10-millionen-fuer-auterion.html"
+    },
+    "temporal": {
+      "publication_date": "2018-09",
+      "mentioned_years": [
+        "2018",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "3D Robotics",
+        "Chris Anderson",
+        "Costanoa Ventures",
+        "Dronecode",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Kevin Sartori",
+        "Lorenz Meier",
+        "Meier",
+        "Meier and Sartori",
+        "Mosaic Ventures",
+        "Venture Beat 1",
+        "Venture Beat 2 Article",
+        "Yuneec"
+      ],
+      "people_with_roles": {
+        "3D Robotics": [
+          "graduate"
+        ],
+        "ETH Zurich": [
+          "alumni",
+          "student",
+          "graduate"
+        ],
+        "Kevin Sartori": [
+          "alumni"
+        ],
+        "Lorenz Meier": [
+          "alumni"
+        ],
+        "Meier": [
+          "alumni",
+          "student",
+          "graduate"
+        ]
+      },
+      "institutional_roles": [
+        "alumni",
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "$13 billion",
+        "1.17 million",
+        "10 million",
+        "6.3 million",
+        "European",
+        "PX4 and Pixhawk",
+        "Sartori",
+        "Swiss",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "funding"
+      ],
+      "projects": [
+        "Kevin Sartori",
+        "Lorenz Meier",
+        "Klaus Hommels",
+        "Costanoa Ventures",
+        "Goldman Sachs",
+        "Linux Foundation",
+        "Venture Beat",
+        "Could Auterion",
+        "Computer Vision",
+        "Roland Siegwart",
+        "Tech Crunch",
+        "Silicon Valley",
+        "UC Berkeley",
+        "While Sartori",
+        "Geometry Lab",
+        "Tectonic Ventures",
+        "Chris Anderson",
+        "Autonomous Systems",
+        "Auterion Auterion",
+        "Mosaic Ventures",
+        "En News",
+        "Millionen Fuer",
+        "Drone Software",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Drone Software Architecture",
+        "ETH",
+        "ETH Zurich Alumni",
+        "En News",
+        "Goldman Sachs",
+        "Intel",
+        "Klaus Hommels",
+        "Meier and Sartori",
+        "Sartori",
+        "Sony",
+        "TechCrunch",
+        "Tectonic Ventures",
+        "UC Berkeley",
+        "USD",
+        "the Computer Vision and Geometry Lab",
+        "the Linux Foundation"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Github",
+        "Lakestar",
+        "Robotics",
+        "Roland Siegwart’s",
+        "Silicon Valley"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Meier",
+        "Sartori",
+        "European",
+        "Silicon Valley",
+        "Meier and Sartori",
+        "Lakestar",
+        "En News",
+        "10 million",
+        "USD"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "A well-timed idea",
+          "A well-timed idea",
+          "A balance of talent",
+          "Strategic support"
+        ],
+        "content_length": 3997
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "TechCrunch",
+        "ETH",
+        "Kevin Sartori",
+        "2020",
+        "Lorenz Meier",
+        "Venture Beat 2 Article",
+        "the Linux Foundation",
+        "Klaus Hommels",
+        "ETH Zurich’s",
+        "ERC",
+        "Yuneec",
+        "Costanoa Ventures",
+        "2018",
+        "Goldman Sachs",
+        "Sony",
+        "Intel",
+        "3D Robotics",
+        "funding",
+        "the Computer Vision and Geometry Lab",
+        "USD",
+        "Dronecode",
+        "EU",
+        "UC Berkeley",
+        "Meier and Sartori",
+        "Venture Beat 1",
+        "Tectonic Ventures",
+        "Chris Anderson",
+        "Mosaic Ventures",
+        "En News",
+        "Meier",
+        "ETH Zurich Alumni",
+        "Drone Software Architecture",
+        "ETH Zurich",
+        "Sartori"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "European",
+        "6.3 million",
+        "Swiss",
+        "10 million",
+        "when",
+        "$13 billion",
+        "what",
+        "how",
+        "PX4 and Pixhawk",
+        "computer_science",
+        "1.17 million",
+        "Sartori"
+      ],
+      "graph_relations": [
+        "3D Robotics_has_role_graduate",
+        "ETH Zurich_has_role_alumni",
+        "ETH Zurich_has_role_student",
+        "ETH Zurich_has_role_graduate",
+        "Kevin Sartori_has_role_alumni",
+        "Lorenz Meier_has_role_alumni",
+        "Meier_has_role_alumni",
+        "Meier_has_role_student",
+        "Meier_has_role_graduate",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

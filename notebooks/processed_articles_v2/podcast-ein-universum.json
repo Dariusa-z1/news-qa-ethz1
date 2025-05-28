@@ -1,0 +1,112 @@
+{
+  "filename": "podcast-ein-universum.md",
+  "original_filename": "podcast-ein-universum.html",
+  "source_path": "de_news_events/2021/06/podcast-ein-universum.html",
+  "date": "2021-06",
+  "title": "Podcast Ein Universum",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In Episode 29 des ETH-Podcasts sprechen die beiden Forscher über ihre Arbeit und machen sich Gedanken über die Zeitdimension des Universums auf dem Planeten Erde."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH-Podcasts",
+        "label": "MISC",
+        "start": 18,
+        "end": 30
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 157,
+        "end": 161
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "Erde"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Podcasts"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Podcasts": 1,
+      "Erde": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-ein-universum.md",
+      "title": "De News Events/2021/06/podcast ein Universum",
+      "language": "de",
+      "source_path": "de_news_events/2021/06/podcast-ein-universum.html"
+    },
+    "temporal": {
+      "publication_date": "2021-06",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Podcasts"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Planeten Erde",
+        "De News",
+        "ETH-Podcasts",
+        "Universum In"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Erde"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH-Podcasts",
+        "Erde"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 207
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2021"
+      ],
+      "semantic_concepts": [
+        "ETH-Podcasts"
+      ],
+      "graph_relations": []
+    }
+  }
+}

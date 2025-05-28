@@ -1,0 +1,221 @@
+{
+  "filename": "de_internal_2019_07_geovite--plattform-fuer-geodaten-in-lehre-und-forschung.md",
+  "original_filename": "de_internal_2019_07_geovite--plattform-fuer-geodaten-in-lehre-und-forschung.html",
+  "source_path": "de_internal/2019/07/geovite--plattform-fuer-geodaten-in-lehre-und-forschung.html",
+  "date": "2019-07",
+  "title": "Geovite Plattform Fuer Geodaten In Lehre Und Forschung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "GIS-Anfängern und -Experten bietet GeoVITe einen browserbasierten, schnellen Zugang zu Geodaten von Bund und Kantonen. Das umfangreiche Datenangebot umfasst daneben auch Siegfried-/ Dufourkarten sowie unterschiedliche Zeitstände der Daten.\n\nBasierend auf ersten Entwicklungen innerhalb von Forschungsprojekten wurde die Plattform seit 2008 vom Institut für Kartografie und Geoinformation der ETH Zürich (IKG) betrieben. Im Rahmen eines nationalen Förderprogramms wurde GeoVITe in den Dienst geodata4edu.ch integriert. Seit dem 1. Juli 2019 wird GeoVITe wieder als unabhängiger Dienst des IKG und der ETH-Bibliothek angeboten."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/07/geovite Plattform",
+        "label": "LOC",
+        "start": 0,
+        "end": 37
+      },
+      {
+        "text": "Fuer Geodaten",
+        "label": "MISC",
+        "start": 38,
+        "end": 51
+      },
+      {
+        "text": "Bund",
+        "label": "LOC",
+        "start": 100,
+        "end": 104
+      },
+      {
+        "text": "Kantonen",
+        "label": "LOC",
+        "start": 109,
+        "end": 117
+      },
+      {
+        "text": "Siegfried-/",
+        "label": "LOC",
+        "start": 170,
+        "end": 181
+      },
+      {
+        "text": "Institut für Kartografie und Geoinformation",
+        "label": "ORG",
+        "start": 343,
+        "end": 386
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 391,
+        "end": 401
+      },
+      {
+        "text": "IKG",
+        "label": "ORG",
+        "start": 403,
+        "end": 406
+      },
+      {
+        "text": "GeoVITe",
+        "label": "PER",
+        "start": 468,
+        "end": 475
+      },
+      {
+        "text": "GeoVITe",
+        "label": "PER",
+        "start": 544,
+        "end": 551
+      },
+      {
+        "text": "IKG",
+        "label": "ORG",
+        "start": 587,
+        "end": 590
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 599,
+        "end": 613
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "GeoVITe"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "IKG",
+        "Institut für Kartografie und Geoinformation"
+      ],
+      "LOCATION": [
+        "Bund",
+        "De Internal/2019/07/geovite Plattform",
+        "Kantonen",
+        "Siegfried-/"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Fuer Geodaten"
+      ]
+    },
+    "entity_counts": {
+      "IKG": 2,
+      "GeoVITe": 2,
+      "De Internal/2019/07/geovite Plattform": 1,
+      "Fuer Geodaten": 1,
+      "Bund": 1,
+      "Kantonen": 1,
+      "Siegfried-/": 1,
+      "Institut für Kartografie und Geoinformation": 1,
+      "ETH Zürich": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_07_geovite--plattform-fuer-geodaten-in-lehre-und-forschung.md",
+      "title": "De Internal/2019/07/geovite Plattform Fuer Geodaten in Lehre und Forschung",
+      "language": "de",
+      "source_path": "de_internal/2019/07/geovite--plattform-fuer-geodaten-in-lehre-und-forschung.html"
+    },
+    "temporal": {
+      "publication_date": "2019-07",
+      "mentioned_years": [
+        "2008",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "GeoVITe"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Fuer Geodaten"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Forschung GIS",
+        "De Internal",
+        "Plattform Fuer",
+        "Im Rahmen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "IKG",
+        "Institut für Kartografie und Geoinformation"
+      ],
+      "locations": [
+        "Bund",
+        "De Internal/2019/07/geovite Plattform",
+        "Kantonen",
+        "Siegfried-/"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "IKG",
+        "GeoVITe",
+        "De Internal/2019/07/geovite Plattform",
+        "Fuer Geodaten",
+        "Bund",
+        "Kantonen",
+        "Siegfried-/",
+        "Institut für Kartografie und Geoinformation",
+        "ETH Zürich",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 700
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "GeoVITe",
+        "2019",
+        "Institut für Kartografie und Geoinformation",
+        "2008",
+        "ETH Zürich",
+        "IKG"
+      ],
+      "semantic_concepts": [
+        "when",
+        "Fuer Geodaten"
+      ],
+      "graph_relations": []
+    }
+  }
+}

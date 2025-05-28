@@ -1,0 +1,141 @@
+{
+  "filename": "its-okay-to-take-your-time.md",
+  "original_filename": "its-okay-to-take-your-time.html",
+  "source_path": "en_news_events/2024/02/its-okay-to-take-your-time.html",
+  "date": "2024-02",
+  "title": "Its Okay To Take Your Time",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Advice for students",
+      "text": "Damla Ortac already had a job as a software engineer when she graduated with a Bachelor’s Degree in Computer Science. But she began to have doubts about her chosen career and decided to do something totally different."
+    },
+    {
+      "heading": "Advice for students",
+      "text": "ETH Zurich offers advice centres for any situation that may arise during your studies."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Damla Ortac",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "Damla Ortac",
+        "En News"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "En News": 1,
+      "Damla Ortac": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "its-okay-to-take-your-time.md",
+      "title": "En News Events/2024/02/its Okay To Take Your Time",
+      "language": "en",
+      "source_path": "en_news_events/2024/02/its-okay-to-take-your-time.html"
+    },
+    "temporal": {
+      "publication_date": "2024-02",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "Take Your",
+        "Okay To",
+        "Time Damla",
+        "ETH Zurich",
+        "Computer Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Damla Ortac",
+        "En News"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "En News",
+        "Damla Ortac",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Advice for students",
+          "Advice for students"
+        ],
+        "content_length": 354
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "Damla Ortac",
+        "2024",
+        "En News"
+      ],
+      "semantic_concepts": [
+        "computer_science",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

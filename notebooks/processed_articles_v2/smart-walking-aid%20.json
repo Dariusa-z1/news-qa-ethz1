@@ -1,0 +1,544 @@
+{
+  "filename": "smart-walking-aid%20.md",
+  "original_filename": "smart-walking-aid%20.html",
+  "source_path": "en_news_events/2016/02/smart-walking-aid%20.html",
+  "date": "2016-02",
+  "title": "Smart Walking Aid%20",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Underdeveloped technology",
+      "text": "When walking becomes increasingly difficult and arduous, many elderly people use walkers. These walking aids are frames mounted on four wheels that senior citizens can lean on and push along in front of them. The front wheels are steerable, while the rear wheels are fixed in position. Add a basket for groceries and brakes so that the walker does not roll off down a hill and presto! There is not really much more to conventional walkers.\n\nNow a team of computer scientists and roboticists at ETH Zurich have turned a walker into an autonomous robot that goes by the name of SmartWalker. Their goal is to make walking even easier for elderly people than ordinary walkers can do."
+    },
+    {
+      "heading": "Underdeveloped technology",
+      "text": "The original impetus for developing a robotic walker came from Bertrand Meyer, Professor for Software Engineering at ETH Zurich. “The idea came to me when my mother was very old and had to use a walker,” says the researcher, who explains that walkers are underdeveloped devices and not ideal for people who are frail or have severe mobility problems.\n\nIn response, a group of scientists began working on a better solution in 2012 as part of the Roboscoop initiative. Roboscoop is a research project by the Chair of Software Engineering at ETH Zurich and the iHomeLab at Lucerne University of Applied Sciences and Arts; the Autonomous Systems Lab (ASL) at ETH is also involved as an advisory body. The work was funded by Hasler foundation, as part of its Smart World initiative.\n\nThe goal of Roboscoop is to improve technologies and tools for developing robotics programmes – and SmartWalker is one of the most important applications to emerge from this project. Four years after the project began, the prototype is now advanced enough for the researchers to start seeking out industrial partners to further develop their vehicle and get it ready for a commercial launch."
+    },
+    {
+      "heading": "Sensors, drive and processing unit",
+      "text": "Although SmartWalker still looks like a walker, it is crammed with processors and sensors that control its behaviour.\n\nFor example, fitted to the underside of the steering rod is a 3D camera that can swivel 360 degrees to probe the environment and measure the distance between the user and the walker. Because this sensor also recognises gestures, users can give their SmartWalker a hand signal and it will autonomously roll over to them the right way round for them to get into it.\n\nSensors are also fitted to the underside of the frame. A laser sensor constantly measures the distance from the user’s legs and monitors the ground in order to detect obstacles. Electric motors from e-bikes, which are installed in the hubs of the rear wheels, provide power so that users do not have to put any effort into pushing SmartWalker along in front of them. The speed adjusts automatically to the user’s pace.\n\nAnother sensor measures the walker’s inclination. When going uphill, for example, the electric motors then know to give more power.\n\nThe walker is controlled via a simple user interface. A tablet computer on the steering rod allows users to switch between two modes, making it very easy for them to set how they want to use their robotic walker. In assistance mode, the walker helps the user to turn and to walk uphill, minimising the amount of energy they have to expend. In autonomous mode, SmartWalker acts like an autonomous robot: it responds to users’ gestures and rolls over to them without any outside assistance."
+    },
+    {
+      "heading": "Parallel computing as the cornerstone",
+      "text": "As simple as the device looks, its programming is actually very complex, because it can – and indeed must – do several things at once. “SmartWalker is controlled by software that is based on parallel computing,” emphasises Andrey Rusakov, a doctoral student under the supervision of Meyer. In normal computing, the individual computing tasks are performed successively; in parallel computing they overlap in time. The programming involved in parallel computing is extremely challenging.\n\nAll these electronics need space. Like ordinary walkers, SmartWalker has a basket. The difference is that SmartWalker’s basket houses electronics and a battery. There is not much space left for shopping."
+    },
+    {
+      "heading": "Good test result",
+      "text": "The research group tested its robotic walker in five retirement homes in the city of Zurich, which Dr. Jiwon Shin, a postdoc at the Chair and one of the key designers of SmartWalker, approached with a request to present the device to their residents. Some of the 23 test subjects not only had restricted mobility but were also partially sighted or even blind. Four of the test subjects were upwards of 90 years old.\n\nThe feedback from these voluntary test participants was encouraging for the researchers. “Most of the test subjects were enthusiastic about SmartWalker,” says Meyer. In particular, a majority of them found walking with the control system activated to be comfortable. Overall, SmartWalker scored slightly higher in a comparison with a regular walker. Amongst the few criticisms were the size and weight of the new device. It is quite bulky, and the test subjects found it awkward to move around in narrow retirement home corridors or in public transport. This is something the researchers now plan to tackle.\n\nCurrently they are searching for an industrial partner to further develop the prototype and get it market-ready. The price for such a walker would be around 3,000 Swiss francs. The researchers also mention another potential target user group apart from senior citizens: “The device is perfectly suited for use on the golf course,” says Meyer.\n\nChair of Software Engineering"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Walking Aid%20",
+        "label": "PERSON",
+        "start": 29,
+        "end": 43
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 131,
+        "end": 135
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 493,
+        "end": 503
+      },
+      {
+        "text": "SmartWalker",
+        "label": "ORG",
+        "start": 575,
+        "end": 586
+      },
+      {
+        "text": "Bertrand Meyer",
+        "label": "ORG",
+        "start": 63,
+        "end": 77
+      },
+      {
+        "text": "Software Engineering",
+        "label": "ORG",
+        "start": 93,
+        "end": 113
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 117,
+        "end": 127
+      },
+      {
+        "text": "Roboscoop",
+        "label": "PERSON",
+        "start": 444,
+        "end": 453
+      },
+      {
+        "text": "the Chair of Software Engineering",
+        "label": "ORG",
+        "start": 501,
+        "end": 534
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 538,
+        "end": 548
+      },
+      {
+        "text": "Lucerne University of Applied Sciences and Arts",
+        "label": "ORG",
+        "start": 569,
+        "end": 616
+      },
+      {
+        "text": "the Autonomous Systems Lab",
+        "label": "ORG",
+        "start": 618,
+        "end": 644
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 654,
+        "end": 657
+      },
+      {
+        "text": "Hasler foundation",
+        "label": "ORG",
+        "start": 719,
+        "end": 736
+      },
+      {
+        "text": "Smart World",
+        "label": "ORG",
+        "start": 753,
+        "end": 764
+      },
+      {
+        "text": "Roboscoop",
+        "label": "PERSON",
+        "start": 789,
+        "end": 798
+      },
+      {
+        "text": "SmartWalker",
+        "label": "ORG",
+        "start": 877,
+        "end": 888
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 892,
+        "end": 895
+      },
+      {
+        "text": "Four years",
+        "label": "DATE",
+        "start": 960,
+        "end": 970
+      },
+      {
+        "text": "SmartWalker",
+        "label": "ORG",
+        "start": 9,
+        "end": 20
+      },
+      {
+        "text": "360 degrees",
+        "label": "QUANTITY",
+        "start": 206,
+        "end": 217
+      },
+      {
+        "text": "SmartWalker",
+        "label": "ORG",
+        "start": 368,
+        "end": 379
+      },
+      {
+        "text": "SmartWalker",
+        "label": "ORG",
+        "start": 813,
+        "end": 824
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1156,
+        "end": 1159
+      },
+      {
+        "text": "SmartWalker",
+        "label": "ORG",
+        "start": 1393,
+        "end": 1404
+      },
+      {
+        "text": "SmartWalker",
+        "label": "ORG",
+        "start": 136,
+        "end": 147
+      },
+      {
+        "text": "Andrey Rusakov",
+        "label": "PERSON",
+        "start": 223,
+        "end": 237
+      },
+      {
+        "text": "Meyer",
+        "label": "ORG",
+        "start": 283,
+        "end": 288
+      },
+      {
+        "text": "SmartWalker",
+        "label": "ORG",
+        "start": 544,
+        "end": 555
+      },
+      {
+        "text": "SmartWalker",
+        "label": "ORG",
+        "start": 593,
+        "end": 604
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 48,
+        "end": 52
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 85,
+        "end": 91
+      },
+      {
+        "text": "Jiwon Shin",
+        "label": "PERSON",
+        "start": 103,
+        "end": 113
+      },
+      {
+        "text": "Chair",
+        "label": "ORG",
+        "start": 132,
+        "end": 137
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 142,
+        "end": 145
+      },
+      {
+        "text": "SmartWalker",
+        "label": "ORG",
+        "start": 170,
+        "end": 181
+      },
+      {
+        "text": "Four",
+        "label": "CARDINAL",
+        "start": 360,
+        "end": 364
+      },
+      {
+        "text": "90 years old",
+        "label": "DATE",
+        "start": 402,
+        "end": 414
+      },
+      {
+        "text": "SmartWalker",
+        "label": "ORG",
+        "start": 556,
+        "end": 567
+      },
+      {
+        "text": "Meyer",
+        "label": "ORG",
+        "start": 575,
+        "end": 580
+      },
+      {
+        "text": "SmartWalker",
+        "label": "ORG",
+        "start": 692,
+        "end": 703
+      },
+      {
+        "text": "around 3,000 Swiss francs",
+        "label": "MONEY",
+        "start": 1174,
+        "end": 1199
+      },
+      {
+        "text": "Meyer",
+        "label": "PERSON",
+        "start": 1360,
+        "end": 1365
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andrey Rusakov",
+        "Jiwon Shin",
+        "Meyer",
+        "Roboscoop",
+        "Walking Aid%20"
+      ],
+      "ORG": [
+        "Bertrand Meyer",
+        "Chair",
+        "ETH",
+        "ETH Zurich",
+        "Hasler foundation",
+        "Lucerne University of Applied Sciences and Arts",
+        "Meyer",
+        "Smart World",
+        "SmartWalker",
+        "Software Engineering",
+        "the Autonomous Systems Lab",
+        "the Chair of Software Engineering"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Zurich"
+      ],
+      "DATE": [
+        "90 years old",
+        "Four years"
+      ],
+      "MISC": [
+        "360 degrees",
+        "Four",
+        "around 3,000 Swiss francs",
+        "five",
+        "four",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "SmartWalker": 12,
+      "ETH Zurich": 3,
+      "Meyer": 3,
+      "Roboscoop": 2,
+      "one": 2,
+      "Walking Aid%20": 1,
+      "four": 1,
+      "Bertrand Meyer": 1,
+      "Software Engineering": 1,
+      "the Chair of Software Engineering": 1,
+      "Lucerne University of Applied Sciences and Arts": 1,
+      "the Autonomous Systems Lab": 1,
+      "ETH": 1,
+      "Hasler foundation": 1,
+      "Smart World": 1,
+      "Four years": 1,
+      "360 degrees": 1,
+      "two": 1,
+      "Andrey Rusakov": 1,
+      "five": 1
+    },
+    "total_entities": 43,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "smart-walking-aid%20.md",
+      "title": "En News Events/2016/02/smart Walking Aid%20",
+      "language": "en",
+      "source_path": "en_news_events/2016/02/smart-walking-aid%20.html"
+    },
+    "temporal": {
+      "publication_date": "2016-02",
+      "mentioned_years": [
+        "2012",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andrey Rusakov",
+        "Jiwon Shin",
+        "Meyer",
+        "Roboscoop",
+        "Walking Aid%20"
+      ],
+      "people_with_roles": {
+        "Andrey Rusakov": [
+          "student"
+        ],
+        "Jiwon Shin": [
+          "chair"
+        ],
+        "Meyer": [
+          "researcher",
+          "student",
+          "professor"
+        ],
+        "Roboscoop": [
+          "scientist",
+          "chair"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "chair",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "360 degrees",
+        "Four",
+        "around 3,000 Swiss francs",
+        "five",
+        "four"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Walking Aid",
+        "Autonomous Systems",
+        "Applied Sciences",
+        "Software Engineering",
+        "Jiwon Shin",
+        "En News",
+        "Lucerne University",
+        "Andrey Rusakov",
+        "Although SmartWalker",
+        "Bertrand Meyer",
+        "ETH Zurich",
+        "Smart World"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bertrand Meyer",
+        "Chair",
+        "ETH",
+        "ETH Zurich",
+        "Hasler foundation",
+        "Lucerne University of Applied Sciences and Arts",
+        "Meyer",
+        "Smart World",
+        "SmartWalker",
+        "Software Engineering",
+        "the Autonomous Systems Lab",
+        "the Chair of Software Engineering"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "SmartWalker",
+        "ETH Zurich",
+        "Meyer",
+        "Roboscoop",
+        "one",
+        "Walking Aid%20",
+        "four",
+        "Bertrand Meyer",
+        "Software Engineering",
+        "the Chair of Software Engineering"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Underdeveloped technology",
+          "Underdeveloped technology",
+          "Sensors, drive and processing unit",
+          "Parallel computing as the cornerstone",
+          "Good test result"
+        ],
+        "content_length": 5512
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "SmartWalker",
+        "Jiwon Shin",
+        "Software Engineering",
+        "2016",
+        "ERC",
+        "Walking Aid%20",
+        "the Chair of Software Engineering",
+        "Andrey Rusakov",
+        "the Autonomous Systems Lab",
+        "2012",
+        "Bertrand Meyer",
+        "Smart World",
+        "Meyer",
+        "Hasler foundation",
+        "Chair",
+        "ETH Zurich",
+        "Lucerne University of Applied Sciences and Arts",
+        "Roboscoop"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "around 3,000 Swiss francs",
+        "four",
+        "who",
+        "Four",
+        "360 degrees",
+        "what",
+        "how",
+        "computer_science",
+        "five",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Andrey Rusakov_has_role_student",
+        "Jiwon Shin_has_role_chair",
+        "Meyer_has_role_researcher",
+        "Meyer_has_role_student",
+        "Meyer_has_role_professor",
+        "Roboscoop_has_role_scientist",
+        "Roboscoop_has_role_chair",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

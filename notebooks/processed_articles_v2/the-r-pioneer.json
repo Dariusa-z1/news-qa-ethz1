@@ -1,0 +1,1025 @@
+{
+  "filename": "the-r-pioneer.md",
+  "original_filename": "the-r-pioneer.html",
+  "source_path": "en_internal/2014/01/the-r-pioneer.html",
+  "date": "2014-01",
+  "title": "The R Pioneer",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Something meaningful for mankind",
+      "text": "While others wanted to become train drivers in the 1960s, one thing was always clear to Martin Mächler: he wanted to become a researcher. And that also did not change while he was at secondary school. If he was not learning mathematics, he was tinkering with computer programs. And that at a time when hardly anyone had a computer.\n\n\"Only very few nerds were interested in computer sciences back then,\" he remembers. When the time came to decide on what to study, it soon became clear: \"I wanted to go to ETH.\" Computers were already being used at that time there on mathematics degree courses. \"That wouldn't have been possible at university.\"\n\nAlthough he later wrote his diploma thesis in mathematical numerics, Mächler was attracted to statistics for his doctorate. This choice was again triggered by the possibility of working with computer programs. But there were other reasons, too: \"I have always been fascinated by the fact that statistics enable me to come into contact with a wide range of other areas such as biology or medicine.\""
+    },
+    {
+      "heading": "Something meaningful for mankind",
+      "text": "More than 30 years have passed since he started writing his doctorate. He has come a long way since that time. Having been to the US for two years with his wife and two boys to conduct research, he returned to the Seminar for Statistics and subsequently examined the areas of robust statistics and curve estimates. Another achievement made him world famous: the co-development of R, a programming language for statistical calculation and statistical graphics.\n\nToday, R is one of the best-known tools of statistical research in the world. Not least because it is free of charge and its source code is available to everyone, which is known as open source. This was one of the reasons why the statistician joined the R project in 1995: \"Because I was on the pioneering team and it was open source, we were able to carry out analyses with R already at an early stage.\" His pioneering work did not make him rich.\n\nIt was more important to him that everyone should have open access to the source code. \"I wanted to create something meaningful for mankind.\" And he has: today, universities in the poorest countries benefit from the open source access in particular. Martin Mächler is 54 years old. Currently, he is occupied with his teaching of computational statistics."
+    },
+    {
+      "heading": "Anniversaries",
+      "text": "October/November 2013 30 years Dr. Martin Mächler, Seminar for Statistics (SfS) Dr. Erich Christian Meister, Laboratory of Physical Chemistry Rudolf Pfenninger, Laboratory of Ion Beam Physics (LIP) Johannes Schlaefli, Rectorate 25 years Madeleine Völlmin, ETH library (ETH Bibliothek) Dr. Diethelm Würtz, Institute for Theoretical Physics 20 years Sagrario Ares-Bande, Facility Management Harald Lehmann, Institute of Polymer Physics Dr. Pia Wyrsch, Student Administration (Studienadministation) 15 years Dr. Sabina Yolanda Keller, Institute of Agricultural Sciences Dr. Jan Laue, Institute for Geotechnical Engineering Corina Niescher, Human Resources Consulting Thomas Richter, ITS User Services 10 years Gabrielle Ruth Attinger, Department of Environmental Systems Science Walter Bachmann, Laboratory for Solid State Physics Thomas Bähler, Laboratory for Solid State Physics Dr. Werner Eugster, Institute of Agricultural Sciences Dr. Marcel Guillong, Chair of Magmatic Petrology Emil Haefliger, Facility Management Roy Hunziker, Physics Mechanical Workshop (Werkstatt HPF) Claudia Marianne Jenny, Chair of Sociology Maria Carmela Monaldo, Material Administration D-CHEM (Materialverwaltung D-CHEM) Giovanni Salemme, Department of Health Sciences and Technology Irene Urbanetti, Institute for Theoretical Physics Frank Gunther Wienhold, Institute for Atmospheric and Climate Science\n\nRetirements Dr. Ulrich Max Bangerter, Department of Environmental Systems Science, ETH library Marcel Brunner, Services Heidi Demuth, Chair of Entrepreneurial Risks Karl Joos, Events and Location Development, Coordination and Administration Juraj Lipscher, Empirical Research on Learning and Instruction Rajni Malhotra, Institute for Astronomy Patrick Ochsner, Accounting Rudolf Seiler, Department of Architecture Paul Studerus, Laboratory for Solid State Physics\n\nDeaths Mr Werner Lechthaler, Facility Management, passed away on 17.08.2013."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Pioneer",
+        "label": "ORG",
+        "start": 26,
+        "end": 33
+      },
+      {
+        "text": "the 1960s",
+        "label": "DATE",
+        "start": 47,
+        "end": 56
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 58,
+        "end": 61
+      },
+      {
+        "text": "Martin Mächler",
+        "label": "PERSON",
+        "start": 88,
+        "end": 102
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 504,
+        "end": 507
+      },
+      {
+        "text": "Mächler",
+        "label": "PERSON",
+        "start": 713,
+        "end": 720
+      },
+      {
+        "text": "More than 30 years",
+        "label": "DATE",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 130,
+        "end": 132
+      },
+      {
+        "text": "two years",
+        "label": "DATE",
+        "start": 137,
+        "end": 146
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 165,
+        "end": 168
+      },
+      {
+        "text": "the Seminar for Statistics",
+        "label": "WORK_OF_ART",
+        "start": 210,
+        "end": 236
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 460,
+        "end": 465
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1062,
+        "end": 1067
+      },
+      {
+        "text": "Martin Mächler",
+        "label": "PERSON",
+        "start": 1158,
+        "end": 1172
+      },
+      {
+        "text": "54 years old",
+        "label": "DATE",
+        "start": 1176,
+        "end": 1188
+      },
+      {
+        "text": "October/November 2013 30 years",
+        "label": "DATE",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "Martin Mächler",
+        "label": "PERSON",
+        "start": 35,
+        "end": 49
+      },
+      {
+        "text": "Seminar for Statistics (SfS",
+        "label": "WORK_OF_ART",
+        "start": 51,
+        "end": 78
+      },
+      {
+        "text": "Erich Christian Meister",
+        "label": "PERSON",
+        "start": 84,
+        "end": 107
+      },
+      {
+        "text": "Laboratory of Physical Chemistry",
+        "label": "ORG",
+        "start": 109,
+        "end": 141
+      },
+      {
+        "text": "Rudolf Pfenninger",
+        "label": "PERSON",
+        "start": 142,
+        "end": 159
+      },
+      {
+        "text": "Laboratory of Ion Beam Physics",
+        "label": "ORG",
+        "start": 161,
+        "end": 191
+      },
+      {
+        "text": "Johannes Schlaefli",
+        "label": "ORG",
+        "start": 198,
+        "end": 216
+      },
+      {
+        "text": "25 years",
+        "label": "DATE",
+        "start": 228,
+        "end": 236
+      },
+      {
+        "text": "Madeleine Völlmin",
+        "label": "PERSON",
+        "start": 237,
+        "end": 254
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 256,
+        "end": 259
+      },
+      {
+        "text": "ETH Bibliothek",
+        "label": "PERSON",
+        "start": 269,
+        "end": 283
+      },
+      {
+        "text": "Diethelm Würtz",
+        "label": "PERSON",
+        "start": 289,
+        "end": 303
+      },
+      {
+        "text": "Institute for Theoretical Physics",
+        "label": "ORG",
+        "start": 305,
+        "end": 338
+      },
+      {
+        "text": "20 years",
+        "label": "DATE",
+        "start": 339,
+        "end": 347
+      },
+      {
+        "text": "Sagrario Ares-Bande",
+        "label": "PERSON",
+        "start": 348,
+        "end": 367
+      },
+      {
+        "text": "Facility Management",
+        "label": "ORG",
+        "start": 369,
+        "end": 388
+      },
+      {
+        "text": "Harald Lehmann",
+        "label": "PERSON",
+        "start": 389,
+        "end": 403
+      },
+      {
+        "text": "Institute of Polymer Physics Dr.",
+        "label": "ORG",
+        "start": 405,
+        "end": 437
+      },
+      {
+        "text": "Pia Wyrsch",
+        "label": "PERSON",
+        "start": 438,
+        "end": 448
+      },
+      {
+        "text": "Student Administration (Studienadministation",
+        "label": "ORG",
+        "start": 450,
+        "end": 494
+      },
+      {
+        "text": "15 years",
+        "label": "DATE",
+        "start": 496,
+        "end": 504
+      },
+      {
+        "text": "Sabina Yolanda Keller",
+        "label": "PERSON",
+        "start": 509,
+        "end": 530
+      },
+      {
+        "text": "Institute of Agricultural Sciences Dr. Jan Laue",
+        "label": "ORG",
+        "start": 532,
+        "end": 579
+      },
+      {
+        "text": "Institute for Geotechnical Engineering Corina Niescher, Human Resources Consulting",
+        "label": "ORG",
+        "start": 581,
+        "end": 663
+      },
+      {
+        "text": "Thomas Richter",
+        "label": "PERSON",
+        "start": 664,
+        "end": 678
+      },
+      {
+        "text": "10 years",
+        "label": "DATE",
+        "start": 698,
+        "end": 706
+      },
+      {
+        "text": "Gabrielle Ruth Attinger",
+        "label": "PERSON",
+        "start": 707,
+        "end": 730
+      },
+      {
+        "text": "Department of Environmental Systems",
+        "label": "ORG",
+        "start": 732,
+        "end": 767
+      },
+      {
+        "text": "Solid State Physics",
+        "label": "ORG",
+        "start": 808,
+        "end": 827
+      },
+      {
+        "text": "Thomas Bähler",
+        "label": "PERSON",
+        "start": 828,
+        "end": 841
+      },
+      {
+        "text": "Solid State Physics",
+        "label": "ORG",
+        "start": 858,
+        "end": 877
+      },
+      {
+        "text": "Werner Eugster",
+        "label": "PERSON",
+        "start": 882,
+        "end": 896
+      },
+      {
+        "text": "Institute of Agricultural Sciences Dr.",
+        "label": "ORG",
+        "start": 898,
+        "end": 936
+      },
+      {
+        "text": "Marcel Guillong",
+        "label": "PERSON",
+        "start": 937,
+        "end": 952
+      },
+      {
+        "text": "Chair of Magmatic Petrology",
+        "label": "ORG",
+        "start": 954,
+        "end": 981
+      },
+      {
+        "text": "Emil Haefliger",
+        "label": "PERSON",
+        "start": 982,
+        "end": 996
+      },
+      {
+        "text": "Facility Management Roy Hunziker",
+        "label": "ORG",
+        "start": 998,
+        "end": 1030
+      },
+      {
+        "text": "Physics Mechanical Workshop",
+        "label": "ORG",
+        "start": 1032,
+        "end": 1059
+      },
+      {
+        "text": "Werkstatt",
+        "label": "ORG",
+        "start": 1061,
+        "end": 1070
+      },
+      {
+        "text": "Claudia Marianne Jenny",
+        "label": "PERSON",
+        "start": 1076,
+        "end": 1098
+      },
+      {
+        "text": "Maria Carmela Monaldo",
+        "label": "PERSON",
+        "start": 1119,
+        "end": 1140
+      },
+      {
+        "text": "Material Administration",
+        "label": "ORG",
+        "start": 1142,
+        "end": 1165
+      },
+      {
+        "text": "Giovanni Salemme",
+        "label": "PERSON",
+        "start": 1201,
+        "end": 1217
+      },
+      {
+        "text": "Department of Health Sciences and Technology",
+        "label": "ORG",
+        "start": 1219,
+        "end": 1263
+      },
+      {
+        "text": "Irene Urbanetti",
+        "label": "PERSON",
+        "start": 1264,
+        "end": 1279
+      },
+      {
+        "text": "Institute for Theoretical Physics",
+        "label": "ORG",
+        "start": 1281,
+        "end": 1314
+      },
+      {
+        "text": "Frank Gunther Wienhold",
+        "label": "PERSON",
+        "start": 1315,
+        "end": 1337
+      },
+      {
+        "text": "Institute for Atmospheric and Climate Science",
+        "label": "ORG",
+        "start": 1339,
+        "end": 1384
+      },
+      {
+        "text": "Ulrich Max Bangerter",
+        "label": "PERSON",
+        "start": 1401,
+        "end": 1421
+      },
+      {
+        "text": "Department of Environmental Systems Science",
+        "label": "ORG",
+        "start": 1423,
+        "end": 1466
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1468,
+        "end": 1471
+      },
+      {
+        "text": "Marcel Brunner",
+        "label": "PERSON",
+        "start": 1480,
+        "end": 1494
+      },
+      {
+        "text": "Heidi Demuth",
+        "label": "PERSON",
+        "start": 1505,
+        "end": 1517
+      },
+      {
+        "text": "Chair of Entrepreneurial Risks",
+        "label": "ORG",
+        "start": 1519,
+        "end": 1549
+      },
+      {
+        "text": "Karl Joos",
+        "label": "PERSON",
+        "start": 1550,
+        "end": 1559
+      },
+      {
+        "text": "Location Development, Coordination and Administration",
+        "label": "ORG",
+        "start": 1572,
+        "end": 1625
+      },
+      {
+        "text": "Juraj Lipscher",
+        "label": "PERSON",
+        "start": 1626,
+        "end": 1640
+      },
+      {
+        "text": "Empirical Research on",
+        "label": "ORG",
+        "start": 1642,
+        "end": 1663
+      },
+      {
+        "text": "Malhotra",
+        "label": "ORG",
+        "start": 1695,
+        "end": 1703
+      },
+      {
+        "text": "Institute for Astronomy Patrick Ochsner,",
+        "label": "ORG",
+        "start": 1705,
+        "end": 1745
+      },
+      {
+        "text": "Rudolf Seiler",
+        "label": "PERSON",
+        "start": 1757,
+        "end": 1770
+      },
+      {
+        "text": "Department of Architecture Paul Studerus",
+        "label": "ORG",
+        "start": 1772,
+        "end": 1812
+      },
+      {
+        "text": "Solid State Physics",
+        "label": "ORG",
+        "start": 1829,
+        "end": 1848
+      },
+      {
+        "text": "Werner Lechthaler",
+        "label": "PERSON",
+        "start": 1859,
+        "end": 1876
+      },
+      {
+        "text": "Facility Management",
+        "label": "ORG",
+        "start": 1878,
+        "end": 1897
+      },
+      {
+        "text": "17.08.2013",
+        "label": "CARDINAL",
+        "start": 1914,
+        "end": 1924
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Claudia Marianne Jenny",
+        "Diethelm Würtz",
+        "ETH Bibliothek",
+        "Emil Haefliger",
+        "Erich Christian Meister",
+        "Frank Gunther Wienhold",
+        "Gabrielle Ruth Attinger",
+        "Giovanni Salemme",
+        "Harald Lehmann",
+        "Heidi Demuth",
+        "Irene Urbanetti",
+        "Juraj Lipscher",
+        "Karl Joos",
+        "Madeleine Völlmin",
+        "Marcel Brunner",
+        "Marcel Guillong",
+        "Maria Carmela Monaldo",
+        "Martin Mächler",
+        "Mächler",
+        "Pia Wyrsch",
+        "Rudolf Pfenninger",
+        "Rudolf Seiler",
+        "Sabina Yolanda Keller",
+        "Sagrario Ares-Bande",
+        "Thomas Bähler",
+        "Thomas Richter",
+        "Ulrich Max Bangerter",
+        "Werner Eugster",
+        "Werner Lechthaler"
+      ],
+      "ORG": [
+        "Chair of Entrepreneurial Risks",
+        "Chair of Magmatic Petrology",
+        "Department of Architecture Paul Studerus",
+        "Department of Environmental Systems",
+        "Department of Environmental Systems Science",
+        "Department of Health Sciences and Technology",
+        "ETH",
+        "Empirical Research on",
+        "Facility Management",
+        "Facility Management Roy Hunziker",
+        "Institute for Astronomy Patrick Ochsner,",
+        "Institute for Atmospheric and Climate Science",
+        "Institute for Geotechnical Engineering Corina Niescher, Human Resources Consulting",
+        "Institute for Theoretical Physics",
+        "Institute of Agricultural Sciences Dr.",
+        "Institute of Agricultural Sciences Dr. Jan Laue",
+        "Institute of Polymer Physics Dr.",
+        "Johannes Schlaefli",
+        "Laboratory of Ion Beam Physics",
+        "Laboratory of Physical Chemistry",
+        "Location Development, Coordination and Administration",
+        "Malhotra",
+        "Material Administration",
+        "Physics Mechanical Workshop",
+        "Pioneer",
+        "Solid State Physics",
+        "Student Administration (Studienadministation",
+        "Werkstatt"
+      ],
+      "LOCATION": [
+        "US"
+      ],
+      "DATE": [
+        "10 years",
+        "15 years",
+        "20 years",
+        "25 years",
+        "54 years old",
+        "More than 30 years",
+        "October/November 2013 30 years",
+        "Today",
+        "the 1960s",
+        "today",
+        "two years"
+      ],
+      "MISC": [
+        "17.08.2013",
+        "Seminar for Statistics (SfS",
+        "one",
+        "the Seminar for Statistics",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Martin Mächler": 3,
+      "ETH": 3,
+      "Solid State Physics": 3,
+      "Institute for Theoretical Physics": 2,
+      "Facility Management": 2,
+      "Pioneer": 1,
+      "the 1960s": 1,
+      "one": 1,
+      "Mächler": 1,
+      "More than 30 years": 1,
+      "US": 1,
+      "two years": 1,
+      "two": 1,
+      "the Seminar for Statistics": 1,
+      "Today": 1,
+      "today": 1,
+      "54 years old": 1,
+      "October/November 2013 30 years": 1,
+      "Seminar for Statistics (SfS": 1,
+      "Erich Christian Meister": 1
+    },
+    "total_entities": 82,
+    "unique_entities": 74
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-r-pioneer.md",
+      "title": "En Internal/2014/01/the R Pioneer",
+      "language": "en",
+      "source_path": "en_internal/2014/01/the-r-pioneer.html"
+    },
+    "temporal": {
+      "publication_date": "2014-01",
+      "mentioned_years": [
+        "1995",
+        "2013",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Claudia Marianne Jenny",
+        "Diethelm Würtz",
+        "ETH Bibliothek",
+        "Emil Haefliger",
+        "Erich Christian Meister",
+        "Frank Gunther Wienhold",
+        "Gabrielle Ruth Attinger",
+        "Giovanni Salemme",
+        "Harald Lehmann",
+        "Heidi Demuth",
+        "Irene Urbanetti",
+        "Juraj Lipscher",
+        "Karl Joos",
+        "Madeleine Völlmin",
+        "Marcel Brunner",
+        "Marcel Guillong",
+        "Maria Carmela Monaldo",
+        "Martin Mächler",
+        "Mächler",
+        "Pia Wyrsch",
+        "Rudolf Pfenninger",
+        "Rudolf Seiler",
+        "Sabina Yolanda Keller",
+        "Sagrario Ares-Bande",
+        "Thomas Bähler",
+        "Thomas Richter",
+        "Ulrich Max Bangerter",
+        "Werner Eugster",
+        "Werner Lechthaler"
+      ],
+      "people_with_roles": {
+        "Claudia Marianne Jenny": [
+          "chair"
+        ],
+        "ETH Bibliothek": [
+          "rector"
+        ],
+        "Emil Haefliger": [
+          "chair"
+        ],
+        "Erich Christian Meister": [
+          "rector"
+        ],
+        "Frank Gunther Wienhold": [
+          "chair"
+        ],
+        "Giovanni Salemme": [
+          "chair"
+        ],
+        "Heidi Demuth": [
+          "chair"
+        ],
+        "Irene Urbanetti": [
+          "chair"
+        ],
+        "Juraj Lipscher": [
+          "chair"
+        ],
+        "Karl Joos": [
+          "chair"
+        ],
+        "Madeleine Völlmin": [
+          "rector"
+        ],
+        "Marcel Brunner": [
+          "chair"
+        ],
+        "Marcel Guillong": [
+          "chair"
+        ],
+        "Maria Carmela Monaldo": [
+          "chair"
+        ],
+        "Martin Mächler": [
+          "researcher"
+        ],
+        "Mächler": [
+          "researcher"
+        ],
+        "Pia Wyrsch": [
+          "student"
+        ],
+        "Rudolf Pfenninger": [
+          "rector"
+        ],
+        "Rudolf Seiler": [
+          "chair"
+        ],
+        "Ulrich Max Bangerter": [
+          "chair"
+        ],
+        "Werner Lechthaler": [
+          "chair"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "chair",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "physics",
+        "chemistry",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "17.08.2013",
+        "Seminar for Statistics (SfS",
+        "the Seminar for Statistics"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Sagrario Ares",
+        "ITS User",
+        "Polymer Physics",
+        "Technology Irene",
+        "Corina Niescher",
+        "Magmatic Petrology",
+        "Facility Management",
+        "Johannes Schlaefli",
+        "Werkstatt HPF",
+        "Harald Lehmann",
+        "Emil Haefliger",
+        "Claudia Marianne",
+        "Theoretical Physics",
+        "Because I",
+        "Instruction Rajni",
+        "Architecture Paul",
+        "Jan Laue",
+        "Physics Dr",
+        "Physics Mechanical",
+        "Rudolf Pfenninger",
+        "Pia Wyrsch",
+        "Karl Joos",
+        "Agricultural Sciences",
+        "Deaths Mr",
+        "Carmela Monaldo",
+        "ETH Bibliothek",
+        "Human Resources",
+        "Gabrielle Ruth",
+        "Erich Christian",
+        "Health Sciences",
+        "Science Walter",
+        "Retirements Dr",
+        "Solid State",
+        "Physics Thomas",
+        "Student Administration",
+        "D-CHEM",
+        "Ulrich Max",
+        "Astronomy Patrick",
+        "Marcel Guillong",
+        "Climate Science",
+        "R Pioneer",
+        "Werner Eugster",
+        "Location Development",
+        "Sociology Maria",
+        "Marcel Brunner",
+        "Administration Juraj",
+        "Giovanni Salemme",
+        "Ion Beam",
+        "Werner Lechthaler",
+        "Environmental Systems",
+        "Frank Gunther",
+        "Entrepreneurial Risks",
+        "Materialverwaltung D",
+        "Physical Chemistry",
+        "Consulting Thomas",
+        "En Internal",
+        "Geotechnical Engineering",
+        "Services Heidi",
+        "Accounting Rudolf",
+        "Roy Hunziker",
+        "Material Administration",
+        "Empirical Research",
+        "Sabina Yolanda"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Environmental Systems Science Walter Bachmann",
+        "Health Sciences and Technology Irene Urbanetti",
+        "Environmental Systems Science",
+        "Architecture Paul Studerus",
+        "Theoretical Physics ",
+        "Geotechnical Engineering Corina Niescher",
+        "Theoretical Physics Frank Gunther Wienhold",
+        "Atmospheric and Climate Science\n\nRetirements Dr",
+        "Astronomy Patrick Ochsner"
+      ],
+      "institutions": [
+        "Chair of Entrepreneurial Risks",
+        "Chair of Magmatic Petrology",
+        "Department of Architecture Paul Studerus",
+        "Department of Environmental Systems",
+        "Department of Environmental Systems Science",
+        "Department of Health Sciences and Technology",
+        "ETH",
+        "Empirical Research on",
+        "Facility Management",
+        "Facility Management Roy Hunziker",
+        "Institute for Astronomy Patrick Ochsner,",
+        "Institute for Atmospheric and Climate Science",
+        "Institute for Geotechnical Engineering Corina Niescher, Human Resources Consulting",
+        "Institute for Theoretical Physics",
+        "Institute of Agricultural Sciences Dr.",
+        "Institute of Agricultural Sciences Dr. Jan Laue",
+        "Institute of Polymer Physics Dr.",
+        "Johannes Schlaefli",
+        "Laboratory of Ion Beam Physics",
+        "Laboratory of Physical Chemistry",
+        "Location Development, Coordination and Administration",
+        "Malhotra",
+        "Material Administration",
+        "Physics Mechanical Workshop",
+        "Pioneer",
+        "Solid State Physics",
+        "Student Administration (Studienadministation",
+        "Werkstatt"
+      ],
+      "locations": [
+        "US"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "Martin Mächler",
+        "ETH",
+        "Solid State Physics",
+        "Institute for Theoretical Physics",
+        "Facility Management",
+        "Pioneer",
+        "the 1960s",
+        "one",
+        "Mächler",
+        "More than 30 years"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Something meaningful for mankind",
+          "Something meaningful for mankind",
+          "Anniversaries"
+        ],
+        "content_length": 4270
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Department of Environmental Systems",
+        "Thomas Bähler",
+        "1995",
+        "Facility Management Roy Hunziker",
+        "Pioneer",
+        "Student Administration (Studienadministation",
+        "Laboratory of Physical Chemistry",
+        "Chair of Magmatic Petrology",
+        "Sagrario Ares-Bande",
+        "Facility Management",
+        "Institute for Theoretical Physics",
+        "Emil Haefliger",
+        "Harald Lehmann",
+        "Johannes Schlaefli",
+        "Solid State Physics",
+        "Frank Gunther Wienhold",
+        "Madeleine Völlmin",
+        "Location Development, Coordination and Administration",
+        "Laboratory of Ion Beam Physics",
+        "Institute for Astronomy Patrick Ochsner,",
+        "Mächler",
+        "Karl Joos",
+        "Pia Wyrsch",
+        "Rudolf Pfenninger",
+        "Empirical Research on",
+        "Maria Carmela Monaldo",
+        "ETH Bibliothek",
+        "Juraj Lipscher",
+        "Chair of Entrepreneurial Risks",
+        "2014",
+        "Department of Environmental Systems Science",
+        "Ulrich Max Bangerter",
+        "Claudia Marianne Jenny",
+        "EU",
+        "Department of Architecture Paul Studerus",
+        "Department of Health Sciences and Technology",
+        "Physics Mechanical Workshop",
+        "Marcel Guillong",
+        "Institute for Geotechnical Engineering Corina Niescher, Human Resources Consulting",
+        "Institute of Agricultural Sciences Dr.",
+        "Werner Eugster",
+        "Institute of Polymer Physics Dr.",
+        "Marcel Brunner",
+        "Diethelm Würtz",
+        "Erich Christian Meister",
+        "Giovanni Salemme",
+        "Rudolf Seiler",
+        "Werner Lechthaler",
+        "Werkstatt",
+        "2013",
+        "Institute of Agricultural Sciences Dr. Jan Laue",
+        "Material Administration",
+        "Institute for Atmospheric and Climate Science",
+        "Martin Mächler",
+        "Sabina Yolanda Keller",
+        "Heidi Demuth",
+        "Irene Urbanetti",
+        "Gabrielle Ruth Attinger",
+        "Malhotra",
+        "Thomas Richter"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "computer_science",
+        "the Seminar for Statistics",
+        "who",
+        "chemistry",
+        "17.08.2013",
+        "Seminar for Statistics (SfS",
+        "where",
+        "what",
+        "medical_research",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Claudia Marianne Jenny_has_role_chair",
+        "ETH Bibliothek_has_role_rector",
+        "Emil Haefliger_has_role_chair",
+        "Erich Christian Meister_has_role_rector",
+        "Frank Gunther Wienhold_has_role_chair",
+        "Giovanni Salemme_has_role_chair",
+        "Heidi Demuth_has_role_chair",
+        "Irene Urbanetti_has_role_chair",
+        "Juraj Lipscher_has_role_chair",
+        "Karl Joos_has_role_chair",
+        "Madeleine Völlmin_has_role_rector",
+        "Marcel Brunner_has_role_chair",
+        "Marcel Guillong_has_role_chair",
+        "Maria Carmela Monaldo_has_role_chair",
+        "Martin Mächler_has_role_researcher",
+        "Mächler_has_role_researcher",
+        "Pia Wyrsch_has_role_student",
+        "Rudolf Pfenninger_has_role_rector",
+        "Rudolf Seiler_has_role_chair",
+        "Ulrich Max Bangerter_has_role_chair",
+        "Werner Lechthaler_has_role_chair",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_chemistry",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

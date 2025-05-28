@@ -1,0 +1,430 @@
+{
+  "filename": "using-google-to-map-our-ecosystem.md",
+  "original_filename": "using-google-to-map-our-ecosystem.html",
+  "source_path": "en_news_events/2017/02/using-google-to-map-our-ecosystem.html",
+  "date": "2017-02",
+  "title": "Using Google To Map Our Ecosystem",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Street trees – keeping it cool",
+      "text": "Do you remember the last time you escaped the hot summer sun to enjoy a cool reprieve in the shade beneath a broad-leafed tree? While sizzling summer days may seem far away right now in the northern hemisphere, tropical cities like Singapore deal with solar radiation on a daily basis."
+    },
+    {
+      "heading": "Street trees – keeping it cool",
+      "text": "Trees and plants offer some relief, especially in urban areas with higher ambient temperatures, by providing shade and increasing evaporative cooling. Urban green spaces such as parks, gardens, and urban river networks deliver ecosystem services to cities reducing flood risk, cooling urban micro-climates, and creating recreational spaces. While it is generally accepted that trees and plants benefit urban environments, until now researchers have had very little data to work with in order to quantify the extent that street trees regulate urban ecosystems. Most of the research has been conducted in the temperate zones of Europe and North America, but little is known about how trees contribute to urban ecosystems in tropical regions. With urban populations exploding in megacities like Tokyo, Shanghai, and Delhi to well over 20 million people - it is important to understand how green spaces contribute to urban sustainability."
+    },
+    {
+      "heading": "Google Street View as an environmental dataset",
+      "text": "Researchers in the Future Cities Laboratory at the Singapore-ETH Centre , a research outpost of ETH Zurich, developed a method to map and quantify how street trees regulate ecosystem services. Using nearly 100,000 images extracted from Google Street View, they analysed hemispherical photographs using an algorithm to quantify the proportion of green canopy coverage at 50 metre intervals across more than 80% of Singapore’s road network. Google Street View’s technology allowed researchers to tap into a standard dataset of panoramic photographs and streetscapes that use a global positioning system (GPS) to map images to specific locations. The high spatial resolution of the images allowed researchers to estimate the amount of solar radiation that reaches the earth’s surface. “In addition to cooling urban microclimates, these trees, which are integrated within dense urban street networks, also provide other benefits, such as reducing the risk of flash flooding and cleaning the air,” says Peter Edwards, Principal Investigator at the Future Cities Laboratory and Director of the Singapore-ETH Centre. Researchers on the project concluded that increasing the cover of the street tree canopy could reduce ground surface and air temperatures on Singapore’s streets. In addition, the relative quantity of the canopy may also serve as an indicator of evaporative cooling from leaves and rainfall interception."
+    },
+    {
+      "heading": "Thermal comfort in green cities",
+      "text": "“The study shows that trees are extremely important in providing shade in Singapore, and this shade could improve thermal comfort for people. Providing trees to help cool the environment is particularly important in tropical cities like Singapore, which suffers heavily from the urban heat island effect,” says Dan Richards, a postdoctoral researcher at the Future Cities Laboratory and the project’s coordinator. This new and relatively inexpensive method of rapidly estimating the amount of shade provided by street trees could help urban planners to identify areas of a city with low shade and prioritise the planting of new trees. Since Google Street View covers many of the world’s cities, the method could be readily applied to quantify the proportion of canopy coverage and solar radiation in other tropical cities. If Google Street View images were collected during the growing season, the method may also be adapted to assess cities in temperate zones that experience a seasonal loss of tree leaves – enabling the possibility of creating strategically greener and more sustainable urban environments.\n\nRichards DR, Edwards PJ. Quantifying street tree regulating ecosystem services using Google Street View. Ecological Indicators 2017. 10.1016/j.ecolind.2017.01.028"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "summer days",
+        "label": "DATE",
+        "start": 143,
+        "end": 154
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 232,
+        "end": 241
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 273,
+        "end": 278
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 626,
+        "end": 632
+      },
+      {
+        "text": "North America",
+        "label": "LOC",
+        "start": 637,
+        "end": 650
+      },
+      {
+        "text": "Tokyo",
+        "label": "GPE",
+        "start": 792,
+        "end": 797
+      },
+      {
+        "text": "Shanghai",
+        "label": "GPE",
+        "start": 799,
+        "end": 807
+      },
+      {
+        "text": "Delhi",
+        "label": "GPE",
+        "start": 813,
+        "end": 818
+      },
+      {
+        "text": "20 million",
+        "label": "CARDINAL",
+        "start": 832,
+        "end": 842
+      },
+      {
+        "text": "the Future Cities Laboratory",
+        "label": "ORG",
+        "start": 15,
+        "end": 43
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 96,
+        "end": 106
+      },
+      {
+        "text": "nearly 100,000",
+        "label": "CARDINAL",
+        "start": 199,
+        "end": 213
+      },
+      {
+        "text": "Google Street View",
+        "label": "FAC",
+        "start": 236,
+        "end": 254
+      },
+      {
+        "text": "50 metre",
+        "label": "QUANTITY",
+        "start": 370,
+        "end": 378
+      },
+      {
+        "text": "more than 80%",
+        "label": "PERCENT",
+        "start": 396,
+        "end": 409
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 413,
+        "end": 422
+      },
+      {
+        "text": "Google Street View’s",
+        "label": "FAC",
+        "start": 439,
+        "end": 459
+      },
+      {
+        "text": "Peter Edwards",
+        "label": "PERSON",
+        "start": 998,
+        "end": 1011
+      },
+      {
+        "text": "the Future Cities Laboratory",
+        "label": "ORG",
+        "start": 1039,
+        "end": 1067
+      },
+      {
+        "text": "the Singapore-ETH Centre",
+        "label": "ORG",
+        "start": 1084,
+        "end": 1108
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 1251,
+        "end": 1260
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 74,
+        "end": 83
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 237,
+        "end": 246
+      },
+      {
+        "text": "Dan Richards",
+        "label": "PERSON",
+        "start": 311,
+        "end": 323
+      },
+      {
+        "text": "the Future Cities Laboratory",
+        "label": "ORG",
+        "start": 354,
+        "end": 382
+      },
+      {
+        "text": "Google Street View",
+        "label": "FAC",
+        "start": 826,
+        "end": 844
+      },
+      {
+        "text": "the growing season",
+        "label": "DATE",
+        "start": 874,
+        "end": 892
+      },
+      {
+        "text": "Edwards PJ",
+        "label": "PERSON",
+        "start": 1123,
+        "end": 1133
+      },
+      {
+        "text": "Google Street View",
+        "label": "FAC",
+        "start": 1195,
+        "end": 1213
+      },
+      {
+        "text": "10.1016",
+        "label": "CARDINAL",
+        "start": 1243,
+        "end": 1250
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dan Richards",
+        "ETH Zurich",
+        "Edwards PJ",
+        "Peter Edwards"
+      ],
+      "ORG": [
+        "the Future Cities Laboratory",
+        "the Singapore-ETH Centre"
+      ],
+      "LOCATION": [
+        "Delhi",
+        "Europe",
+        "Google Street View",
+        "Google Street View’s",
+        "North America",
+        "Shanghai",
+        "Singapore",
+        "Tokyo"
+      ],
+      "DATE": [
+        "daily",
+        "summer days",
+        "the growing season"
+      ],
+      "MISC": [
+        "10.1016",
+        "20 million",
+        "50 metre",
+        "more than 80%",
+        "nearly 100,000"
+      ]
+    },
+    "entity_counts": {
+      "Singapore": 5,
+      "the Future Cities Laboratory": 3,
+      "Google Street View": 3,
+      "summer days": 1,
+      "daily": 1,
+      "Europe": 1,
+      "North America": 1,
+      "Tokyo": 1,
+      "Shanghai": 1,
+      "Delhi": 1,
+      "20 million": 1,
+      "ETH Zurich": 1,
+      "nearly 100,000": 1,
+      "50 metre": 1,
+      "more than 80%": 1,
+      "Google Street View’s": 1,
+      "Peter Edwards": 1,
+      "the Singapore-ETH Centre": 1,
+      "Dan Richards": 1,
+      "the growing season": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "using-google-to-map-our-ecosystem.md",
+      "title": "En News Events/2017/02/using Google To Map Our Ecosystem",
+      "language": "en",
+      "source_path": "en_news_events/2017/02/using-google-to-map-our-ecosystem.html"
+    },
+    "temporal": {
+      "publication_date": "2017-02",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Dan Richards",
+        "ETH Zurich",
+        "Edwards PJ",
+        "Peter Edwards"
+      ],
+      "people_with_roles": {
+        "Dan Richards": [
+          "researcher"
+        ],
+        "ETH Zurich": [
+          "researcher"
+        ],
+        "Peter Edwards": [
+          "director",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "director",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology"
+      ],
+      "research_topics": [
+        "10.1016",
+        "20 million",
+        "50 metre",
+        "more than 80%",
+        "nearly 100,000"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Google Street",
+        "Edwards PJ",
+        "Ecological Indicators",
+        "North America",
+        "En News",
+        "Richards DR",
+        "Future Cities",
+        "Singapore-ETH",
+        "Principal Investigator",
+        "Street View",
+        "Peter Edwards",
+        "Since Google",
+        "Dan Richards",
+        "ETH Zurich",
+        "Ecosystem Do",
+        "Google To",
+        "If Google",
+        "Map Our"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "the Future Cities Laboratory",
+        "the Singapore-ETH Centre"
+      ],
+      "locations": [
+        "Delhi",
+        "Europe",
+        "Google Street View",
+        "Google Street View’s",
+        "North America",
+        "Shanghai",
+        "Singapore",
+        "Tokyo"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Singapore",
+        "the Future Cities Laboratory",
+        "Google Street View",
+        "summer days",
+        "daily",
+        "Europe",
+        "North America",
+        "Tokyo",
+        "Shanghai",
+        "Delhi"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Street trees – keeping it cool",
+          "Street trees – keeping it cool",
+          "Google Street View as an environmental dataset",
+          "Thermal comfort in green cities"
+        ],
+        "content_length": 3965
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Edwards PJ",
+        "the Future Cities Laboratory",
+        "2017",
+        "the Singapore-ETH Centre",
+        "EU",
+        "Peter Edwards",
+        "Dan Richards",
+        "ETH Zurich",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1016",
+        "20 million",
+        "who",
+        "when",
+        "what",
+        "how",
+        "50 metre",
+        "climate_change",
+        "nearly 100,000",
+        "where",
+        "more than 80%"
+      ],
+      "graph_relations": [
+        "Dan Richards_has_role_researcher",
+        "ETH Zurich_has_role_researcher",
+        "Peter Edwards_has_role_director",
+        "Peter Edwards_has_role_rector",
+        "research_domain_climate_change",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

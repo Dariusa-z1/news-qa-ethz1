@@ -1,0 +1,28 @@
+# aris-aiming-high.html
+
+**Source:** en_news_events/2019/06/aris-aiming-high.html
+
+## Special air brakes
+
+They’re aiming high: a team of 30 students from ETH Zurich, the Lucerne University of Applied Sciences and Arts and the Zurich University of Applied Sciences (ZHAW) are hoping that the rocket they have developed will win them a top spot among the 50 or so teams competing in the Spaceport America Cup 2019. For that, their rocket has to reach an altitude of 10,000 feet (3,048 metres) as precisely as possible and then use a parachute to loft gently back to the ground. Only then do they have a shot at winning the world’s largest student competition in rocketry.
+
+Since last autumn, the students have devoted every free minute to working on their rocket. The project was launched by the Akademische Raumfahrt Initiative Schweiz (ARIS). It was founded in 2017 by Oliver Kirchhoff, then a Master's student at the Department of Mechanical and Process Engineering at ETH Zurich. Today, the space enthusiast is active as president of the initiative. “It’s a purely voluntary project,” explains Felix Dannert, a Master’s student in his second semester of physics at ETH. “We’re not earning any credits towards our degrees with this, but we are learning plenty that we can apply both in our studies and then out in the real world.”
+
+One thing they’re learning is technical know-how. To qualify for the Spaceport America Cup, the rockets have to meet certain requirements. Engineering expertise, an understanding of material properties and control technology, plus knowledge of programming or electrical engineering are indispensable in building such rockets. For example, not only do the rockets have to attain an altitude of 10,000 feet and have a parachute for the landing, but they also have to carry small scientific experiments that are to be conducted during the approximately 25-second flight. “One of the experiments we have on board is testing whether it’s possible to harness energy from the rocket’s vibration,” Dannert says. In addition the rocket features special air brakes that allow it to attain the required 10,000-foot altitude as precisely as possible.
+
+## Applying knowledge and soft skills
+
+To maximise their efficiency, the students split into two groups: the RHEA team is developing the engine, and the HEIDI team is in charge of the rocket itself. HEIDI is also the name of this year’s rocket. Each team has clearly defined tasks, such as control hardware or the recovery system, which are implemented by specific team members. “Our hierarchies are flat, but everyone knows what their job is,” Dannert says.
+
+Alongside the technology, the students are also learning a lot about teamwork and project and time management. “ARIS members gave us extra coaching on team building and how to deal with stress,” reports Andreas Walker, an ETH Master’s student in his second semester of mechanical engineering. Other ETH Zurich members are studying computer science, materials science, physics, civil engineering and electrical engineering. The project's 30 participants come from a total of ten different fields of study. The youngest, and one of the few women on the team, is Mirela Minkova, who is studying for her Bachelor’s in mechanical engineering. She finds the project has made her more assertive: “I’ve learned to speak up for myself so that the others listen to me and take my ideas seriously.”
+
+## Given up months of free time
+
+In addition to a fascination for rocketry and space exploration, what drew Dannert, Minkova and others to ARIS was the chance to learn these soft skills and the opportunity to apply their knowledge in a hands-on way. Walker says, “I took part in a practical project – one of the Focus projects – back when I was an undergrad at ETH. That gave me lots of valuable experience, and I was excited to find a way to do something similar again.”
+
+The team members have given up months of free time to take part in the Spaceport competition. Once the event is over, they all have a couple of days’ holiday planned. But before they can relax, this week demands their full concentration one last time. A few days ago, the components were carefully packed up and sent on their way to the middle of the New Mexico desert. “Fortunately, one of our sponsors is a logistics company with experience in shipping and importing technical equipment,” Dannert says. The competition officially kicked off on 19 June, and the 21 students who have travelled from Switzerland to the US have until Saturday morning at the latest to reassemble the rocket and successfully launch it.
+
+If everything goes according to plan, they have a good chance at finishing near the top. “Because Europe is so densely populated, we have fewer opportunities to practise rocket launches than the teams from American universities do, but our control and braking technology is highly sophisticated,” Dannert explains. Under no circumstances must last year’s disappointment be allowed to repeat itself: that time, the engine exploded after just a few seconds. But Minkova is confident: “We have confidence in one another, and I believe that together we can resolve anything.”
+
+Amendment dated 23.06.2019 Team ARIS reached with its rocket HEIDI the 2nd place in its category at the Spaceport America Cup 2019.
+

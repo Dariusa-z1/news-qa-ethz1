@@ -1,0 +1,187 @@
+{
+  "filename": "new-search-portal-for-library-resources.md",
+  "original_filename": "new-search-portal-for-library-resources.html",
+  "source_path": "en_internal/2018/05/new-search-portal-for-library-resources.html",
+  "date": "2018-05",
+  "title": "New Search Portal For Library Resources",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The following functionalities organise your searches and access to the library’s resources more efficiently:\n\nA special service for members of ETH Zurich: Wherever possible, a link leads to the platform BrowZine , where the latest journal contents are listed clearly, independently of the publisher platforms.\n\nFor the E-Lending service, the electronic borrowing of academic eBooks for non-members of ETH Zurich, the access mode is indicated more clearly.\n\nAs usual, all the information on ETH Library’s holdings, services, collections and archives is available on the website at www.library.ethz.ch/en .\n\nETH Library's Search Portal"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Search Portal For Library Resources",
+        "label": "ORG",
+        "start": 24,
+        "end": 59
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 142,
+        "end": 152
+      },
+      {
+        "text": "eBooks",
+        "label": "ORG",
+        "start": 373,
+        "end": 379
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 399,
+        "end": 409
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "ORG",
+        "start": 487,
+        "end": 500
+      },
+      {
+        "text": "www.library.ethz.ch/en",
+        "label": "NORP",
+        "start": 577,
+        "end": 599
+      },
+      {
+        "text": "ETH Library's",
+        "label": "ORG",
+        "start": 602,
+        "end": 615
+      },
+      {
+        "text": "Search Portal",
+        "label": "ORG",
+        "start": 616,
+        "end": 629
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH Library's",
+        "ETH Library’s",
+        "Search Portal",
+        "Search Portal For Library Resources",
+        "eBooks"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "www.library.ethz.ch/en"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Search Portal For Library Resources": 1,
+      "eBooks": 1,
+      "ETH Library’s": 1,
+      "www.library.ethz.ch/en": 1,
+      "ETH Library's": 1,
+      "Search Portal": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-search-portal-for-library-resources.md",
+      "title": "En Internal/2018/05/new Search Portal For Library Resources",
+      "language": "en",
+      "source_path": "en_internal/2018/05/new-search-portal-for-library-resources.html"
+    },
+    "temporal": {
+      "publication_date": "2018-05",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "www.library.ethz.ch/en"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Search Portal",
+        "ETH Library",
+        "En Internal",
+        "ETH Zurich",
+        "E-Lending",
+        "For Library",
+        "Resources The"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library's",
+        "ETH Library’s",
+        "Search Portal",
+        "Search Portal For Library Resources",
+        "eBooks"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Search Portal For Library Resources",
+        "eBooks",
+        "ETH Library’s",
+        "www.library.ethz.ch/en",
+        "ETH Library's",
+        "Search Portal"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 693
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Search Portal",
+        "Search Portal For Library Resources",
+        "eBooks",
+        "ETH Library's",
+        "ETH Zurich",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "where",
+        "www.library.ethz.ch/en"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

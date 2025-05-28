@@ -1,0 +1,569 @@
+{
+  "filename": "3d-gedruckter-miniatur-david.md",
+  "original_filename": "3d-gedruckter-miniatur-david.html",
+  "source_path": "de_news_events/2019/12/3d-gedruckter-miniatur-david.html",
+  "date": "2019-12",
+  "title": "3D Gedruckter Miniatur David",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Komplizierte Geometrien druckbar",
+      "text": "Da steht er auf seinem Sockel: David von Michelangelo. Weltberühmt ist die Skulptur, fast jedes Kind kennt sie. Doch dieser David ist samt Sockel nur ein Millimeter gross und besteht nicht aus Marmor wie das über fünf Meter grosse Original, sondern aus reinem Kupfer.\n\nGeschaffen wurde die Miniatur mittels 3D-Druck von Giorgio Ercolano von der Firma Exaddon, einer Ausgliederung des ETH-Spin-offs Cytosurge, zusammen mit dem Team von ETH-Professor Tomaso Zambelli vom Labor für Biosensorik und Bioelektronik. Zambelli und sein Team entwickelten das genutzte 3D-Druckverfahren vor wenigen Jahren. Es ist damit möglich, Metallstrukturen im Nano- und Mikrometermassstab herzustellen.\n\nZentraler Bestandteil des Verfahrens ist eine Mikropipette, die an eine Blattfeder (Cantilever) gekoppelt ist, wobei die Kraft beobachtet wird, mit welcher die Spitze der Pipette das Substrat berührt. Damit können die Forscher hochpräzise in Lösung befindliche Metalle auf einer leitenden Grundplatte elektrochemisch abscheiden. Schicht für Schicht können sie so, dank der optischen Kraftmessung automatisiert, in einem Arbeitsgang winzige Metallstrukturen aufbauen. Die Firma Exaddon hat das Mikrometall-Druckverfahren übernommen und verbessert, insbesondere beschleunigt."
+    },
+    {
+      "heading": "Komplizierte Geometrien druckbar",
+      "text": "Um das Potenzial der Technologie aufzuzeigen, druckte Ercolano nun den Mikro-David. Bislang hätten sie vor allem winzige Säulen oder Spiralen gedruckt. «Das Verfahren erlaubt aber, auch beliebige komplexe Strukturen und Geometrien zu drucken», sagt Ercolano. Die Skulptur wurde in einem einzigen Durchgang, ohne Stützstruktur oder Schablone, gedruckt. Auch mussten die Forscher das Figürchen nach der Fabrikation weder brennen noch härten. Die Resultate präsentierten Ercolano und Kollegen soeben in der Fachzeitschrift Micromachines.\n\nDie Daten der Davidskulptur, die den Drucker steuern, sind frei im Internet verfügbar. «Ich hätte sogar den Raum mitdrucken können, in dem die Statue ausgestellt ist, denn der Datensatz umfasst auch diesen», schmunzelt Ercolano. Um David ohne Ausstellungsraum herzustellen, habe er deshalb den Datensatz bereinigen müssen."
+    },
+    {
+      "heading": "Auflösung setzt untere Grenze",
+      "text": "Ercolano druckte David in zwei Grössen: primär als Skulptur von einem Millimeter Grösse und eine, die zehnmal kleiner ist. «Die kleinere Figur ist nur so hoch wie der Sockel der grösseren», sagt der Forscher. Mit der Auflösung stosse man aber bei solch kleinen Strukturen an Grenzen. Das Drucken von metallischen Mikroobjekten beginnt bei einem Mikrometer. Der Hauptbereich für den Druck von komplexeren und detailreichen Mikroobjekten liegt zwischen 100 Mikrometer und einem Millimeter. Auch zeitlich liegen Welten zwischen dem ein Millimeter grossen und dem 10mal kleineren Modell: Um den «grossen» David zu erzeugen, brauchte das Gerät 30 Stunden, für die kleinere Ausgabe 20 Minuten.\n\nTheoretisch lassen sich bis zu fünf Millimeter grosse Objekte mit diesem Drucksystem fabrizieren. Allerdings fasst die Druckpatrone nur einen Mikroliter «Tinte», was gerade für die Herstellung des grösseren Davids reicht. Mit einer Füllung können allerdings hunderte bis tausende von winzigen Objekten gedruckt werden, was der Stärke des Druckverfahrens entspricht."
+    },
+    {
+      "heading": "Funktionierendes Prinzip",
+      "text": "Sehr zufrieden mit dem Resultat ist auch Tomaso Zambelli. «Es freut uns, dass eine Technologie aus unserem Forschungslabor den Weg in die Praxis gefunden hat», sagt der ETH-Professor. «Die Tatsache, dass eine unabhängige Gruppe unser 3D-Druckverfahren übernehmen und gar verbessern konnte zeigt, dass es wirklich funktioniert», sagt er.\n\nInteressiert an diesem Druckverfahren ist in erster Linie die Elektronikbranche. Mit der Methode können beispielsweise Computerchips miteinander verbunden oder Mikroelektronik punktgenau repariert werden. Obwohl sich auch andere Metalle drucken lassen, wie Platin, Gold, Nickel oder Silber, fragen Kunden Kupfer am stärksten nach. «Neun von zehn Anfragen betreffen Kupfer», sagt Ercolano.\n\nDieses Projekt wurde unterstützt von Innosuisse, der schweizerischen Agentur für Innovationsförderung.\n\nErcolano G, van Nisselroy C, Merle T, Vörös J, Momotenko D, Koelmans WW, Zambelli T. Additive manufacturing of sub-micron to sub-mm metal structures with hollow AFM cantilevers. externe Seite Micromachines 2020, 11(1), 6; externe Seite https://doi.org/10.3390/mi11010006 (registering DOI), open access - 18 Dec 2019."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "David",
+        "label": "PER",
+        "start": 46,
+        "end": 51
+      },
+      {
+        "text": "David von Michelangelo",
+        "label": "PER",
+        "start": 31,
+        "end": 53
+      },
+      {
+        "text": "Geschaffen",
+        "label": "PER",
+        "start": 268,
+        "end": 278
+      },
+      {
+        "text": "Giorgio Ercolano",
+        "label": "PER",
+        "start": 319,
+        "end": 335
+      },
+      {
+        "text": "Exaddon",
+        "label": "ORG",
+        "start": 350,
+        "end": 357
+      },
+      {
+        "text": "Cytosurge",
+        "label": "PER",
+        "start": 397,
+        "end": 406
+      },
+      {
+        "text": "ETH-Professor Tomaso Zambelli",
+        "label": "PER",
+        "start": 434,
+        "end": 463
+      },
+      {
+        "text": "Zambelli",
+        "label": "PER",
+        "start": 509,
+        "end": 517
+      },
+      {
+        "text": "Verfahrens",
+        "label": "LOC",
+        "start": 707,
+        "end": 717
+      },
+      {
+        "text": "Blattfeder",
+        "label": "MISC",
+        "start": 753,
+        "end": 763
+      },
+      {
+        "text": "Exaddon",
+        "label": "ORG",
+        "start": 1158,
+        "end": 1165
+      },
+      {
+        "text": "Ercolano",
+        "label": "PER",
+        "start": 54,
+        "end": 62
+      },
+      {
+        "text": "Mikro-David",
+        "label": "MISC",
+        "start": 71,
+        "end": 82
+      },
+      {
+        "text": "Ercolano",
+        "label": "PER",
+        "start": 249,
+        "end": 257
+      },
+      {
+        "text": "Figürchen",
+        "label": "LOC",
+        "start": 382,
+        "end": 391
+      },
+      {
+        "text": "Micromachines",
+        "label": "ORG",
+        "start": 520,
+        "end": 533
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 602,
+        "end": 610
+      },
+      {
+        "text": "Ercolano",
+        "label": "PER",
+        "start": 754,
+        "end": 762
+      },
+      {
+        "text": "David",
+        "label": "PER",
+        "start": 767,
+        "end": 772
+      },
+      {
+        "text": "Ercolano",
+        "label": "PER",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "David",
+        "label": "PER",
+        "start": 17,
+        "end": 22
+      },
+      {
+        "text": "David",
+        "label": "PER",
+        "start": 601,
+        "end": 606
+      },
+      {
+        "text": "Theoretisch",
+        "label": "MISC",
+        "start": 688,
+        "end": 699
+      },
+      {
+        "text": "Druckpatrone",
+        "label": "PER",
+        "start": 807,
+        "end": 819
+      },
+      {
+        "text": "Druckverfahrens",
+        "label": "LOC",
+        "start": 1026,
+        "end": 1041
+      },
+      {
+        "text": "Tomaso Zambelli",
+        "label": "PER",
+        "start": 41,
+        "end": 56
+      },
+      {
+        "text": "Forschungslabor",
+        "label": "ORG",
+        "start": 107,
+        "end": 122
+      },
+      {
+        "text": "ETH-Professor",
+        "label": "MISC",
+        "start": 169,
+        "end": 182
+      },
+      {
+        "text": "Interessiert",
+        "label": "PER",
+        "start": 337,
+        "end": 349
+      },
+      {
+        "text": "Ercolano",
+        "label": "PER",
+        "start": 716,
+        "end": 724
+      },
+      {
+        "text": "schweizerischen Agentur",
+        "label": "ORG",
+        "start": 779,
+        "end": 802
+      },
+      {
+        "text": "Ercolano G",
+        "label": "PER",
+        "start": 829,
+        "end": 839
+      },
+      {
+        "text": "van Nisselroy C",
+        "label": "PER",
+        "start": 841,
+        "end": 856
+      },
+      {
+        "text": "Merle T",
+        "label": "PER",
+        "start": 858,
+        "end": 865
+      },
+      {
+        "text": "Vörös J",
+        "label": "PER",
+        "start": 867,
+        "end": 874
+      },
+      {
+        "text": "Momotenko D",
+        "label": "ORG",
+        "start": 876,
+        "end": 887
+      },
+      {
+        "text": "Koelmans WW",
+        "label": "LOC",
+        "start": 889,
+        "end": 900
+      },
+      {
+        "text": "Zambelli T. Additive",
+        "label": "PER",
+        "start": 902,
+        "end": 922
+      },
+      {
+        "text": "AFM cantilevers",
+        "label": "ORG",
+        "start": 990,
+        "end": 1005
+      },
+      {
+        "text": "Micromachines",
+        "label": "PER",
+        "start": 1021,
+        "end": 1034
+      },
+      {
+        "text": "https://doi.org/10.3390/mi11010006",
+        "label": "PER",
+        "start": 1065,
+        "end": 1099
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Cytosurge",
+        "David",
+        "David von Michelangelo",
+        "De News",
+        "Druckpatrone",
+        "ETH-Professor Tomaso Zambelli",
+        "Ercolano",
+        "Ercolano G",
+        "Geschaffen",
+        "Giorgio Ercolano",
+        "Interessiert",
+        "Merle T",
+        "Micromachines",
+        "Tomaso Zambelli",
+        "Vörös J",
+        "Zambelli",
+        "Zambelli T. Additive",
+        "https://doi.org/10.3390/mi11010006",
+        "van Nisselroy C"
+      ],
+      "ORG": [
+        "AFM cantilevers",
+        "Exaddon",
+        "Forschungslabor",
+        "Micromachines",
+        "Momotenko D",
+        "schweizerischen Agentur"
+      ],
+      "LOCATION": [
+        "Druckverfahrens",
+        "Figürchen",
+        "Koelmans WW",
+        "Verfahrens"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Blattfeder",
+        "ETH-Professor",
+        "Internet",
+        "Mikro-David",
+        "Theoretisch"
+      ]
+    },
+    "entity_counts": {
+      "Ercolano": 5,
+      "David": 4,
+      "Exaddon": 2,
+      "Micromachines": 2,
+      "De News": 1,
+      "David von Michelangelo": 1,
+      "Geschaffen": 1,
+      "Giorgio Ercolano": 1,
+      "Cytosurge": 1,
+      "ETH-Professor Tomaso Zambelli": 1,
+      "Zambelli": 1,
+      "Verfahrens": 1,
+      "Blattfeder": 1,
+      "Mikro-David": 1,
+      "Figürchen": 1,
+      "Internet": 1,
+      "Theoretisch": 1,
+      "Druckpatrone": 1,
+      "Druckverfahrens": 1,
+      "Tomaso Zambelli": 1
+    },
+    "total_entities": 42,
+    "unique_entities": 33
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "3d-gedruckter-miniatur-david.md",
+      "title": "De News Events/2019/12/3d Gedruckter Miniatur David",
+      "language": "de",
+      "source_path": "de_news_events/2019/12/3d-gedruckter-miniatur-david.html"
+    },
+    "temporal": {
+      "publication_date": "2019-12",
+      "mentioned_years": [
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Cytosurge",
+        "David",
+        "David von Michelangelo",
+        "De News",
+        "Druckpatrone",
+        "ETH-Professor Tomaso Zambelli",
+        "Ercolano",
+        "Ercolano G",
+        "Geschaffen",
+        "Giorgio Ercolano",
+        "Interessiert",
+        "Merle T",
+        "Micromachines",
+        "Tomaso Zambelli",
+        "Vörös J",
+        "Zambelli",
+        "Zambelli T. Additive",
+        "https://doi.org/10.3390/mi11010006",
+        "van Nisselroy C"
+      ],
+      "people_with_roles": {
+        "Cytosurge": [
+          "professor"
+        ],
+        "ETH-Professor Tomaso Zambelli": [
+          "professor"
+        ],
+        "Ercolano": [
+          "professor"
+        ],
+        "Geschaffen": [
+          "professor"
+        ],
+        "Giorgio Ercolano": [
+          "professor"
+        ],
+        "Tomaso Zambelli": [
+          "Professor",
+          "professor"
+        ],
+        "Zambelli": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Blattfeder",
+        "ETH-Professor",
+        "Internet",
+        "Mikro-David",
+        "Theoretisch"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Dieses Projekt",
+        "Das Verfahren",
+        "Zentraler Bestandteil",
+        "Um David",
+        "Giorgio Ercolano",
+        "Mikrometall-Druckverfahren",
+        "ETH-Professor",
+        "Der Hauptbereich",
+        "Die Resultate",
+        "ETH-Spin",
+        "Tomaso Zambelli",
+        "Mikro-David",
+        "Die Skulptur",
+        "Merle T",
+        "Kunden Kupfer",
+        "Momotenko D",
+        "Die Tatsache",
+        "Gedruckter Miniatur",
+        "Ercolano G",
+        "Die Firma",
+        "Seite Micromachines",
+        "Fachzeitschrift Micromachines",
+        "Firma Exaddon",
+        "Das Drucken",
+        "Nisselroy C",
+        "Die Daten",
+        "De News",
+        "David Da",
+        "Koelmans WW",
+        "Zambelli T"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AFM cantilevers",
+        "Exaddon",
+        "Forschungslabor",
+        "Micromachines",
+        "Momotenko D",
+        "schweizerischen Agentur"
+      ],
+      "locations": [
+        "Druckverfahrens",
+        "Figürchen",
+        "Koelmans WW",
+        "Verfahrens"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Ercolano",
+        "David",
+        "Exaddon",
+        "Micromachines",
+        "De News",
+        "David von Michelangelo",
+        "Geschaffen",
+        "Giorgio Ercolano",
+        "Cytosurge",
+        "ETH-Professor Tomaso Zambelli"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Komplizierte Geometrien druckbar",
+          "Komplizierte Geometrien druckbar",
+          "Auflösung setzt untere Grenze",
+          "Funktionierendes Prinzip"
+        ],
+        "content_length": 4371
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Giorgio Ercolano",
+        "2020",
+        "Interessiert",
+        "Druckpatrone",
+        "Cytosurge",
+        "van Nisselroy C",
+        "Vörös J",
+        "ERC",
+        "Tomaso Zambelli",
+        "Merle T",
+        "2019",
+        "Momotenko D",
+        "schweizerischen Agentur",
+        "https://doi.org/10.3390/mi11010006",
+        "David",
+        "Geschaffen",
+        "Forschungslabor",
+        "Ercolano G",
+        "EU",
+        "Ercolano",
+        "ETH-Professor Tomaso Zambelli",
+        "Zambelli",
+        "Zambelli T. Additive",
+        "AFM cantilevers",
+        "Exaddon",
+        "Micromachines",
+        "De News",
+        "David von Michelangelo"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Mikro-David",
+        "who",
+        "Internet",
+        "Blattfeder",
+        "Theoretisch",
+        "ETH-Professor",
+        "what",
+        "how",
+        "when"
+      ],
+      "graph_relations": [
+        "Cytosurge_has_role_professor",
+        "ETH-Professor Tomaso Zambelli_has_role_professor",
+        "Ercolano_has_role_professor",
+        "Geschaffen_has_role_professor",
+        "Giorgio Ercolano_has_role_professor",
+        "Tomaso Zambelli_has_role_Professor",
+        "Tomaso Zambelli_has_role_professor",
+        "Zambelli_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

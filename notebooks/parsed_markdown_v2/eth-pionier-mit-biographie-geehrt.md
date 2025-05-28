@@ -1,0 +1,16 @@
+# eth-pionier-mit-biographie-geehrt.html
+
+**Source:** de_news_events/2015/01/eth-pionier-mit-biographie-geehrt.html
+
+## Main article
+
+Er wurde bereits mit 24 Jahren zum ETH-Professor ernannt, war entscheidend mitverantwortlich für die Modernisierung und den Ausbau der ETH, vermittelte zwischen Hochschule und Industrie und berief Albert Einstein an unsere Hochschule: Die Rede ist von Robert Gnehm (1852-1926).
+
+Seine Büste steht zwar prominent vor dem Eingang der Semper-Aula im Hauptgebäude, doch wenige wissen, um wen es sich dabei handelt. Dabei war der ehemalige Chemieprofessor und Schulratspräsident eine wichtige Person in der Geschichte der ETH Zürich. Sein Leben wird nun erstmals in einer Biographie dargestellt, die in der Reihe « externe Seite Schweizer Pioniere der Wirtschaft und Technik » erscheint. Am Freitag wurde das Buch an einer Vernissage im Gebäude LEE vorgestellt. Das passt: «Robert Gnehm steht für die räumliche Expansion der ETH und das LEE ist deren neuestes Gebäude», sagte Bernhard Ruetz, Herausgeber der Buchreihe, einleitend.
+
+Autor Adrian Knoepfli erläutert in seinem Buch «Robert Gnehm: Brückenbauer zwischen Hochschule und Industrie», wie Gnehm zu einer Schlüsselfigur für die Beziehungen zwischen der ETH Zürich und der Industrie wurde. Besonders als Brückenbauer zwischen der Hochschule und der chemischen Industrie in Basel habe er Geschichte geschrieben und die Basis für den unabdingbaren Wissenstransfer zwischen Wissenschaft und Praxis geschaffen.
+
+Gnehm wechselte in jungen Jahren von der ETH in die Industrie und war unter anderem in hohen Positionen bei Ciba und Sandoz tätig, bevor er an die ETH zurückkehrte. «Als Direktor, Verwaltungsrat, Professor und Hochschulpolitiker half er entscheidend mit, die junge, noch unstete Chemieindustrie in einen starken, dauerhaften Wirtschaftszweig umzuformen», sagt Wirtschaftshistoriker Tobias Straumann von der Universität Zürich.
+
+Illustriert wurden das Buch und die Vorträge an der Vernissage mit zahlreichen historischen Fotografien aus dem Hochschularchiv der ETH-Bibliothek. Diese zeigen etwa den Bau der Kuppel, die 1918 im Rohbau fertig war oder auch Albert Einsteins Reaktion auf seine Berufung durch Robert Gnehm. Er freute sich darüber dermassen, dass er damals in einem Brief schrieb: «Halleluja!»
+

@@ -1,0 +1,681 @@
+{
+  "filename": "how-planets-like-jupiter-form.md",
+  "original_filename": "how-planets-like-jupiter-form.html",
+  "source_path": "en_news_events/2016/10/how-planets-like-jupiter-form.html",
+  "date": "2016-10",
+  "title": "How Planets Like Jupiter Form",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Luminous shock front detected",
+      "text": "Astronomers set up two theories explaining how gaseous giant planets like Jupiter or Saturn could be born. A bottom-up formation mechanism states that first, a solid core is aggregated of roughly ten times the size of the Earth. «Then, this core is massive enough to attract a significant amount of gas and keep it,» explains Judit Szulágyi, post-doctoral fellow at the ETH Zürich and member of the Swiss NCCR PlanetS. The second theory is a top-down formation scenario: Here the gaseous disk around the young star is so massive, that due to self-gravity of the gas-dust, spiral arms are forming with clumps inside. Then, these clumps collapse via their own gravity directly into a gaseous planet, similar to how stars form. The first mechanism is called «core-accretion», the second one «disk instability». In both cases, a disk forms around the gas-giants, called the circumplanetary disk, which will serve as a birth-nest for satellites to form.\n\nTo find out which mechanism actually takes place in the Universe, Judit Szulágyi and Lucio Mayer, Professor at the University of Zürich, simulated the scenarios on Piz Daint supercomputer at the Swiss National Supercomputing Centre (CSCS) in Lugano. «We pushed our simulations to the limits in terms of the complexity of the physics added to the models,» explains Judit Szulágyi: «And we achieved higher resolution than anybody before.» In their studies published in the «Monthly Notices of the Royal Astronomical Society» the researchers found a big difference between the two formation mechanisms: In the disk instability scenario the gas in the planet’s vicinity remained very cold, around 50 Kelvins, whereas in the core accretion case the circumplanetary disk was heated to several hundreds of Kelvins. «The disk instability simulations are the first that can resolve the circumplanetary disk around multiple protoplanets, using tens of millions of resolution elements in the computational domain. We exploited Piz Daint to accelerate the calculations using Graphics Processing Units (GPUs)” adds Mayer.\n\nThis huge temperature difference is easily observable. «When astronomers look into new forming planetary systems, just measuring the temperatures in the planet’s vicinity will be enough to tell which formation mechanism built the given planet,» explains Judit Szulágyi. A first comparison of the calculated and observed data seems to favour the core accretion theory. Another difference that was expected didn’t show up in the computer simulation. Before, astrophysics thought that the circumplanetary disk significantly differs in mass in the two formation scenarios. «We showed that this is not true,» says the PlanetS member.\n\nRegarding the size of the new born planet, observations can be misleading as the astrophysicist found in a second study together with Christoph Mordasini, Professor at the University of Bern. In the core accretion model the researchers had a closer look at the disk around planets with masses three to ten times bigger than Jupiter’s. The computer simulations showed that gas falling on the disk from the outside heats up and creates a very luminous shock front on the disk’s upper layer. This significantly alters the observational appearance of young, forming planets.\n\n«When we see a luminous spot inside a circumplanetary disk, we cannot be sure whether we see the planet luminosity, or also the surrounding disk luminosity,» says Judit Szulágyi. This may lead to an overestimation of the planet’s mass of up to four times. «So maybe an observed planet has only the same mass as Saturn instead of some Jupiter masses,» concludes the scientist.\n\nIn their simulations the astrophysicists mimicked the formation processes by using the basic physical laws such as gravity or the hydrodynamical equations of the gas. Because of the complexity of the physical models the simulations were very time consuming, even on Europe’s fastest supercomputer at CSCS: «On the order of nine months running time on hundreds to several thousands of computing cores» estimates Judit Szulágyi: «This means that on one computing core it would have taken longer than my entire lifetime.»\n\nYet there are still challenges ahead. Simulations of disk instability still do not cover a long timescale. It is possible that after the protoplanet has collapsed to the density of Jupiter its disk will heat up more like in core-accretion. Likewise, the hotter gas found in the core-accretion case would be partially ionized, a favourable environment for effects of magnetic fields, completely neglected so far. Running even more expensive simulations with a richer description of the physics will be the next step."
+    },
+    {
+      "heading": "References",
+      "text": "The author of this text, Barbara Vonarburg, is in charge is in charge of public outreach at the National Competence Center in Research PlanetS .\n\nSzulagyi J, Mayer L, Quinn T. Circumplanetary disks around young giant planets: a comparison between core-accretion and disk instability, Monthly Notices of the Royal Astronomical Society 2016; doi: 10.1093/mnras/stw2617\n\nSzulagyi J, Mordasini C: Thermodynamics of Giant Planet Formation: Shocking Hot Surfaces on Circumplanetary Disks, Monthly Notices of the Royal Astronomical Society: Letters 2016; doi: 10.1093/mnrasl/slw212"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "Jupiter",
+        "label": "LOC",
+        "start": 74,
+        "end": 81
+      },
+      {
+        "text": "Saturn",
+        "label": "PRODUCT",
+        "start": 85,
+        "end": 91
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 151,
+        "end": 156
+      },
+      {
+        "text": "roughly ten",
+        "label": "CARDINAL",
+        "start": 188,
+        "end": 199
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 222,
+        "end": 227
+      },
+      {
+        "text": "Judit Szulágyi",
+        "label": "PRODUCT",
+        "start": 326,
+        "end": 340
+      },
+      {
+        "text": "the ETH Zürich",
+        "label": "FAC",
+        "start": 366,
+        "end": 380
+      },
+      {
+        "text": "the Swiss NCCR PlanetS.",
+        "label": "ORG",
+        "start": 395,
+        "end": 418
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 423,
+        "end": 429
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 729,
+        "end": 734
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 777,
+        "end": 783
+      },
+      {
+        "text": "Universe",
+        "label": "ORG",
+        "start": 1005,
+        "end": 1013
+      },
+      {
+        "text": "Judit Szulágyi",
+        "label": "ORG",
+        "start": 1015,
+        "end": 1029
+      },
+      {
+        "text": "Lucio Mayer",
+        "label": "PERSON",
+        "start": 1034,
+        "end": 1045
+      },
+      {
+        "text": "the University of Zürich",
+        "label": "ORG",
+        "start": 1060,
+        "end": 1084
+      },
+      {
+        "text": "Piz Daint",
+        "label": "ORG",
+        "start": 1113,
+        "end": 1122
+      },
+      {
+        "text": "the Swiss National Supercomputing Centre",
+        "label": "ORG",
+        "start": 1140,
+        "end": 1180
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 1182,
+        "end": 1186
+      },
+      {
+        "text": "Lugano",
+        "label": "GPE",
+        "start": 1191,
+        "end": 1197
+      },
+      {
+        "text": "Judit Szulágyi",
+        "label": "PRODUCT",
+        "start": 1313,
+        "end": 1327
+      },
+      {
+        "text": "Monthly Notices of the Royal Astronomical Society",
+        "label": "WORK_OF_ART",
+        "start": 1421,
+        "end": 1470
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1523,
+        "end": 1526
+      },
+      {
+        "text": "Kelvins",
+        "label": "PERSON",
+        "start": 1645,
+        "end": 1652
+      },
+      {
+        "text": "several hundreds",
+        "label": "CARDINAL",
+        "start": 1728,
+        "end": 1744
+      },
+      {
+        "text": "Kelvins",
+        "label": "PERSON",
+        "start": 1748,
+        "end": 1755
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1799,
+        "end": 1804
+      },
+      {
+        "text": "tens of millions",
+        "label": "MONEY",
+        "start": 1883,
+        "end": 1899
+      },
+      {
+        "text": "Piz Daint",
+        "label": "PERSON",
+        "start": 1965,
+        "end": 1974
+      },
+      {
+        "text": "Graphics Processing Units",
+        "label": "ORG",
+        "start": 2012,
+        "end": 2037
+      },
+      {
+        "text": "Mayer",
+        "label": "PERSON",
+        "start": 2051,
+        "end": 2056
+      },
+      {
+        "text": "Judit Szulágyi",
+        "label": "ORG",
+        "start": 2312,
+        "end": 2326
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2330,
+        "end": 2335
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2602,
+        "end": 2605
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 2794,
+        "end": 2800
+      },
+      {
+        "text": "Christoph Mordasini",
+        "label": "PERSON",
+        "start": 2821,
+        "end": 2840
+      },
+      {
+        "text": "the University of Bern",
+        "label": "ORG",
+        "start": 2855,
+        "end": 2877
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 2980,
+        "end": 2985
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 2989,
+        "end": 2992
+      },
+      {
+        "text": "Jupiter",
+        "label": "NORP",
+        "start": 3011,
+        "end": 3018
+      },
+      {
+        "text": "Judit Szulágyi",
+        "label": "PERSON",
+        "start": 3421,
+        "end": 3435
+      },
+      {
+        "text": "up to four",
+        "label": "CARDINAL",
+        "start": 3496,
+        "end": 3506
+      },
+      {
+        "text": "Saturn",
+        "label": "PRODUCT",
+        "start": 3569,
+        "end": 3575
+      },
+      {
+        "text": "Jupiter",
+        "label": "LOC",
+        "start": 3592,
+        "end": 3599
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 3900,
+        "end": 3906
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 3934,
+        "end": 3938
+      },
+      {
+        "text": "nine months",
+        "label": "DATE",
+        "start": 3957,
+        "end": 3968
+      },
+      {
+        "text": "hundreds to several thousands",
+        "label": "CARDINAL",
+        "start": 3985,
+        "end": 4014
+      },
+      {
+        "text": "Judit Szulágyi",
+        "label": "PRODUCT",
+        "start": 4045,
+        "end": 4059
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 4081,
+        "end": 4084
+      },
+      {
+        "text": "Jupiter",
+        "label": "LOC",
+        "start": 4334,
+        "end": 4341
+      },
+      {
+        "text": "Barbara Vonarburg",
+        "label": "PERSON",
+        "start": 25,
+        "end": 42
+      },
+      {
+        "text": "the National Competence Center in Research",
+        "label": "ORG",
+        "start": 92,
+        "end": 134
+      },
+      {
+        "text": "Szulagyi J",
+        "label": "PERSON",
+        "start": 145,
+        "end": 155
+      },
+      {
+        "text": "Mayer L",
+        "label": "PERSON",
+        "start": 157,
+        "end": 164
+      },
+      {
+        "text": "Quinn T. Circumplanetary",
+        "label": "ORG",
+        "start": 166,
+        "end": 190
+      },
+      {
+        "text": "Monthly Notices",
+        "label": "ORG",
+        "start": 283,
+        "end": 298
+      },
+      {
+        "text": "10.1093",
+        "label": "CARDINAL",
+        "start": 344,
+        "end": 351
+      },
+      {
+        "text": "Monthly",
+        "label": "DATE",
+        "start": 481,
+        "end": 488
+      },
+      {
+        "text": "10.1093/mnrasl/",
+        "label": "CARDINAL",
+        "start": 551,
+        "end": 566
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Barbara Vonarburg",
+        "Christoph Mordasini",
+        "Judit Szulágyi",
+        "Kelvins",
+        "Lucio Mayer",
+        "Mayer",
+        "Mayer L",
+        "Piz Daint",
+        "Szulagyi J"
+      ],
+      "ORG": [
+        "CSCS",
+        "Graphics Processing Units",
+        "Judit Szulágyi",
+        "Monthly Notices",
+        "Piz Daint",
+        "Quinn T. Circumplanetary",
+        "Universe",
+        "the National Competence Center in Research",
+        "the Swiss NCCR PlanetS.",
+        "the Swiss National Supercomputing Centre",
+        "the University of Bern",
+        "the University of Zürich"
+      ],
+      "LOCATION": [
+        "Earth",
+        "Europe",
+        "Jupiter",
+        "Lugano",
+        "the ETH Zürich"
+      ],
+      "DATE": [
+        "Monthly",
+        "nine months"
+      ],
+      "MISC": [
+        "10.1093",
+        "10.1093/mnrasl/",
+        "Judit Szulágyi",
+        "Jupiter",
+        "Monthly Notices of the Royal Astronomical Society",
+        "Saturn",
+        "first",
+        "hundreds to several thousands",
+        "one",
+        "roughly ten",
+        "second",
+        "several hundreds",
+        "ten",
+        "tens of millions",
+        "three",
+        "two",
+        "up to four"
+      ]
+    },
+    "entity_counts": {
+      "Judit Szulágyi": 6,
+      "Jupiter": 4,
+      "first": 4,
+      "two": 3,
+      "second": 3,
+      "Saturn": 2,
+      "Piz Daint": 2,
+      "CSCS": 2,
+      "Kelvins": 2,
+      "roughly ten": 1,
+      "Earth": 1,
+      "the ETH Zürich": 1,
+      "the Swiss NCCR PlanetS.": 1,
+      "Universe": 1,
+      "Lucio Mayer": 1,
+      "the University of Zürich": 1,
+      "the Swiss National Supercomputing Centre": 1,
+      "Lugano": 1,
+      "Monthly Notices of the Royal Astronomical Society": 1,
+      "several hundreds": 1
+    },
+    "total_entities": 60,
+    "unique_entities": 41
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-planets-like-jupiter-form.md",
+      "title": "En News Events/2016/10/how Planets Like Jupiter Form",
+      "language": "en",
+      "source_path": "en_news_events/2016/10/how-planets-like-jupiter-form.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Barbara Vonarburg",
+        "Christoph Mordasini",
+        "Judit Szulágyi",
+        "Kelvins",
+        "Lucio Mayer",
+        "Mayer",
+        "Mayer L",
+        "Piz Daint",
+        "Szulagyi J"
+      ],
+      "people_with_roles": {
+        "Christoph Mordasini": [
+          "professor"
+        ],
+        "Judit Szulágyi": [
+          "professor"
+        ],
+        "Kelvins": [
+          "researcher"
+        ],
+        "Lucio Mayer": [
+          "professor"
+        ],
+        "Mayer": [
+          "professor"
+        ],
+        "Piz Daint": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1093",
+        "10.1093/mnrasl/",
+        "Judit Szulágyi",
+        "Jupiter",
+        "Monthly Notices of the Royal Astronomical Society",
+        "Saturn",
+        "first",
+        "hundreds to several thousands",
+        "roughly ten",
+        "second",
+        "several hundreds",
+        "tens of millions",
+        "three",
+        "up to four"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Graphics Processing",
+        "Piz Daint",
+        "Barbara Vonarburg",
+        "Supercomputing Centre",
+        "Szulagyi J",
+        "Quinn T",
+        "Christoph Mordasini",
+        "Lucio Mayer",
+        "Jupiter Form",
+        "Swiss National",
+        "Giant Planet",
+        "Monthly Notices",
+        "Circumplanetary Disks",
+        "Research PlanetS",
+        "National Competence",
+        "Swiss NCCR",
+        "Royal Astronomical",
+        "En News",
+        "Shocking Hot",
+        "Mordasini C",
+        "Mayer L",
+        "Planets Like"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSCS",
+        "Graphics Processing Units",
+        "Judit Szulágyi",
+        "Monthly Notices",
+        "Piz Daint",
+        "Quinn T. Circumplanetary",
+        "Universe",
+        "the National Competence Center in Research",
+        "the Swiss NCCR PlanetS.",
+        "the Swiss National Supercomputing Centre",
+        "the University of Bern",
+        "the University of Zürich"
+      ],
+      "locations": [
+        "Earth",
+        "Europe",
+        "Jupiter",
+        "Lugano",
+        "the ETH Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Judit Szulágyi",
+        "Jupiter",
+        "first",
+        "two",
+        "second",
+        "Saturn",
+        "Piz Daint",
+        "CSCS",
+        "Kelvins",
+        "roughly ten"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Luminous shock front detected",
+          "References"
+        ],
+        "content_length": 5302
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Barbara Vonarburg",
+        "Piz Daint",
+        "2016",
+        "ERC",
+        "Szulagyi J",
+        "Universe",
+        "Quinn T. Circumplanetary",
+        "the Swiss National Supercomputing Centre",
+        "Christoph Mordasini",
+        "Lucio Mayer",
+        "Kelvins",
+        "the National Competence Center in Research",
+        "Monthly Notices",
+        "the University of Bern",
+        "the Swiss NCCR PlanetS.",
+        "Judit Szulágyi",
+        "EU",
+        "the University of Zürich",
+        "CSCS",
+        "Mayer",
+        "Graphics Processing Units",
+        "Mayer L"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "roughly ten",
+        "10.1093",
+        "hundreds to several thousands",
+        "Monthly Notices of the Royal Astronomical Society",
+        "when",
+        "several hundreds",
+        "Jupiter",
+        "tens of millions",
+        "mathematics",
+        "Judit Szulágyi",
+        "who",
+        "what",
+        "how",
+        "first",
+        "Saturn",
+        "10.1093/mnrasl/",
+        "second",
+        "where",
+        "up to four"
+      ],
+      "graph_relations": [
+        "Christoph Mordasini_has_role_professor",
+        "Judit Szulágyi_has_role_professor",
+        "Kelvins_has_role_researcher",
+        "Lucio Mayer_has_role_professor",
+        "Mayer_has_role_professor",
+        "Piz Daint_has_role_professor",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

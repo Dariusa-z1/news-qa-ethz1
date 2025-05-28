@@ -1,0 +1,125 @@
+{
+  "filename": "swissuniversities-funding-programmes-renewed-calls-for-proposals.md",
+  "original_filename": "swissuniversities-funding-programmes-renewed-calls-for-proposals.html",
+  "source_path": "en_internal/2021/04/swissuniversities-funding-programmes-renewed-calls-for-proposals.html",
+  "date": "2021-04",
+  "title": "Swissuniversities Funding Programmes Renewed Calls For Proposals",
+  "language": "unknown",
+  "paragraphs": [],
+  "ner": {
+    "entities": [
+      {
+        "text": "En Internal/2021/04",
+        "label": "MISC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Funding",
+        "label": "PER",
+        "start": 38,
+        "end": 45
+      },
+      {
+        "text": "Calls For Proposals",
+        "label": "ORG",
+        "start": 65,
+        "end": 84
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Funding"
+      ],
+      "ORG": [
+        "Calls For Proposals"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "En Internal/2021/04"
+      ]
+    },
+    "entity_counts": {
+      "En Internal/2021/04": 1,
+      "Funding": 1,
+      "Calls For Proposals": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "swissuniversities-funding-programmes-renewed-calls-for-proposals.md",
+      "title": "En Internal/2021/04/swissuniversities Funding Programmes Renewed Calls For Proposals",
+      "language": "unknown",
+      "source_path": "en_internal/2021/04/swissuniversities-funding-programmes-renewed-calls-for-proposals.html"
+    },
+    "temporal": {
+      "publication_date": "2021-04",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Funding"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "En Internal/2021/04"
+      ],
+      "grants_funding": [
+        "funding"
+      ],
+      "projects": [
+        "Renewed Calls",
+        "Funding Programmes",
+        "For Proposals",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Calls For Proposals"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "En Internal/2021/04",
+        "Funding",
+        "Calls For Proposals"
+      ],
+      "document_structure": {
+        "total_sections": 0,
+        "section_titles": [],
+        "content_length": 85
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Calls For Proposals",
+        "2021",
+        "funding",
+        "Funding"
+      ],
+      "semantic_concepts": [
+        "En Internal/2021/04"
+      ],
+      "graph_relations": []
+    }
+  }
+}

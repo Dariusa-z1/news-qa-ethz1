@@ -1,0 +1,503 @@
+{
+  "filename": "a-new-theory-for-semiconductors-made-of-nanocrystals.md",
+  "original_filename": "a-new-theory-for-semiconductors-made-of-nanocrystals.html",
+  "source_path": "en_news_events/2020/06/a-new-theory-for-semiconductors-made-of-nanocrystals.html",
+  "date": "2020-06",
+  "title": "A New Theory For Semiconductors Made Of Nanocrystals",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Spring mattress vs table top",
+      "text": "A few years ago, we were introduced to TV screens featuring QLED technology that produces brilliant colours. The “Q” here stands for “quantum dot”. Quantum dots are crystals of a semiconductor material only a few nanometres in size that consist of a couple of thousand atoms. Those nanocrystals are so tiny that the electrons in them can only take on certain well-defined quantum mechanical energy levels. As a consequence, when quantum dots are illuminated by the backlight of a TV, light of a particular colour is emitted by quantum jumps between those levels.\n\nIn next generation QLED TVs, the hope is to use electricity to make the quantum dots glow on their own instead of needing a backlight. Up to now, however, the theoretical understanding of how electrical current moves through a thin film of nanocrystals was lacking. A team of researchers from the Department for Information Technology and Electrical Engineering of ETH Zurich led by Vanessa Wood have now closed that gap, as they report in the scientific journal Nature Communications."
+    },
+    {
+      "heading": "Spring mattress vs table top",
+      "text": "The theory of how electric current moves in semiconductors that aren’t nanosized has been known for more than ninety years and software tools exist to model their behaviour. Industry can control the electronic properties of semiconductors by deliberately adding impurity atoms (doping), which changes the number of free charge carriers (electrons). By contrast, semiconductors consisting of many small nanocrystal quantum dots cannot be treated with those methods.\n\nIn nanocrystals, adding impurity atoms doesn’t necessarily lead to free charge carriers. Furthermore, free charges don’t behave in the same way. “Charge carriers in a normal semiconductors move like bowling balls rolling on a smooth table top, whereas in a nanocrystal material they act like bowling balls on a soft mattress, sinking in and deforming it”, Wood illustrates the problem."
+    },
+    {
+      "heading": "Demanding modelling",
+      "text": "For the theoretical modelling this means that the atoms in the crystal lattice of the nanocrystal semiconductor cannot simply be looked at as stationary points, which is what is usually done with normal semiconductors. “Rather, we had to mathematically describe every one of the several hundred thousand atoms in the many nanocrystals of the material, and how each atom interacts with charge carriers”, explains Nuri Yazdani, who worked in Wood’s research group as a PhD student and is first author of the recently published study.\n\nUsing the Swiss Supercomputing Centre CSCS in Lugano, Yazdani ran a complex code in which all the details of the problem – the motion of the electrons and the atoms as well as the interactions between them – were taken into account. “In particular, we wanted to understand how charge carriers move between the single nanocrystals and why they get ‘trapped’ and can’t go on”, says Yazdani."
+    },
+    {
+      "heading": "Reference",
+      "text": "In a nanocrystal semiconductor, electrical current is transmitted by electrons hopping from nanocrystal to nanocrystal. With each hop, the charge of the electron deforms the nanocrystal (top left), forming a polaron (top right).\n\nThe results of those computer simulations were extremely revealing. It turned out that the determining factor in how a material composed of many nanocrystals conducts electrical current are the tiniest deformations of the crystals, only a few thousandths of a nanometer, that lead to a huge change in electrostatic energy. When charge deforms the material around it, this is known as a polaron, and Yazdani’s simulations show that current flows through polarons hopping from one nanocrystal to the next.\n\nThe model explains how the electronic properties of the nanocrystal-based semiconductors are changed by varying the size of the nanocrystals and how they pack in the film. To test the predictions of their simulations, the team produced thin films of nanocrystals in the laboratory and measured the electric response for different applied voltages and temperatures. In those experiments, they created free electrons at one end of the material using a short laser pulse and then observed when they arrived at the other end. The result: for each of the several hundred different tests, the computer simulation perfectly predicted the electrical properties.\n\n“After eight years of intense work, we have now created a model that can finally quantitatively explain not just our experiments, but also those of many other research groups over the past years”, says Wood. “Such a model will enable researchers and engineers in the future to calculate the properties of a nanocrystal semiconductor even before it is produced.” This should make it possible to optimize such materials for particular applications. “So far, this had to be done by trial and error”, Wood adds.\n\nUsing the results of the ETH researchers, in the future useful semiconductors could be developed from nanocrystal materials for various applications in sensors, lasers or LEDs – also for TV screens. As the composition, size, and arrangement of the nanocrystals can be controlled during their production, such materials promise a much broader variety of electrical properties than traditional semiconductors.\n\nYazdani, N., Andermatt, S., Yarema, M., Wood, V. et al. Charge transport in semiconductors assembled from nanocrystal quantum dots. Nature Communications 11, 2852 (2020). DOI: 10.1038/s41467-020-16560-7 ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "A few years ago",
+        "label": "DATE",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 148,
+        "end": 155
+      },
+      {
+        "text": "a couple of thousand",
+        "label": "CARDINAL",
+        "start": 248,
+        "end": 268
+      },
+      {
+        "text": "quantum",
+        "label": "ORG",
+        "start": 527,
+        "end": 534
+      },
+      {
+        "text": "the Department for Information Technology",
+        "label": "ORG",
+        "start": 856,
+        "end": 897
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 928,
+        "end": 938
+      },
+      {
+        "text": "Vanessa Wood",
+        "label": "ORG",
+        "start": 946,
+        "end": 958
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1026,
+        "end": 1047
+      },
+      {
+        "text": "more than ninety years",
+        "label": "DATE",
+        "start": 100,
+        "end": 122
+      },
+      {
+        "text": "Wood",
+        "label": "ORG",
+        "start": 821,
+        "end": 825
+      },
+      {
+        "text": "several hundred thousand",
+        "label": "CARDINAL",
+        "start": 279,
+        "end": 303
+      },
+      {
+        "text": "Nuri Yazdani",
+        "label": "PERSON",
+        "start": 412,
+        "end": 424
+      },
+      {
+        "text": "Wood",
+        "label": "ORG",
+        "start": 440,
+        "end": 444
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 467,
+        "end": 470
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 486,
+        "end": 491
+      },
+      {
+        "text": "the Swiss Supercomputing Centre CSCS",
+        "label": "ORG",
+        "start": 538,
+        "end": 574
+      },
+      {
+        "text": "Lugano",
+        "label": "GPE",
+        "start": 578,
+        "end": 584
+      },
+      {
+        "text": "Yazdani",
+        "label": "ORG",
+        "start": 586,
+        "end": 593
+      },
+      {
+        "text": "Yazdani",
+        "label": "PERSON",
+        "start": 912,
+        "end": 919
+      },
+      {
+        "text": "only a few thousandths",
+        "label": "CARDINAL",
+        "start": 461,
+        "end": 483
+      },
+      {
+        "text": "Yazdani",
+        "label": "ORG",
+        "start": 628,
+        "end": 635
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 704,
+        "end": 707
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1151,
+        "end": 1154
+      },
+      {
+        "text": "several hundred",
+        "label": "CARDINAL",
+        "start": 1283,
+        "end": 1298
+      },
+      {
+        "text": "eight years",
+        "label": "DATE",
+        "start": 1394,
+        "end": 1405
+      },
+      {
+        "text": "the past years",
+        "label": "DATE",
+        "start": 1567,
+        "end": 1581
+      },
+      {
+        "text": "Wood",
+        "label": "ORG",
+        "start": 1589,
+        "end": 1593
+      },
+      {
+        "text": "Wood",
+        "label": "ORG",
+        "start": 1884,
+        "end": 1888
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1920,
+        "end": 1923
+      },
+      {
+        "text": "Yazdani",
+        "label": "ORG",
+        "start": 2303,
+        "end": 2310
+      },
+      {
+        "text": "N.",
+        "label": "PERSON",
+        "start": 2312,
+        "end": 2314
+      },
+      {
+        "text": "Andermatt",
+        "label": "GPE",
+        "start": 2316,
+        "end": 2325
+      },
+      {
+        "text": "S.",
+        "label": "ORG",
+        "start": 2327,
+        "end": 2329
+      },
+      {
+        "text": "Yarema",
+        "label": "GPE",
+        "start": 2331,
+        "end": 2337
+      },
+      {
+        "text": "V. et al",
+        "label": "PERSON",
+        "start": 2349,
+        "end": 2357
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 2435,
+        "end": 2456
+      },
+      {
+        "text": "11, 2852",
+        "label": "DATE",
+        "start": 2457,
+        "end": 2465
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2479,
+        "end": 2486
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "N.",
+        "Nuri Yazdani",
+        "V. et al",
+        "Yazdani"
+      ],
+      "ORG": [
+        "ETH",
+        "Nature Communications",
+        "Quantum",
+        "S.",
+        "Vanessa Wood",
+        "Wood",
+        "Yazdani",
+        "quantum",
+        "the Department for Information Technology",
+        "the Swiss Supercomputing Centre CSCS"
+      ],
+      "LOCATION": [
+        "Andermatt",
+        "Lugano",
+        "Yarema"
+      ],
+      "DATE": [
+        "11, 2852",
+        "A few years ago",
+        "eight years",
+        "more than ninety years",
+        "the past years"
+      ],
+      "MISC": [
+        "10.1038",
+        "PhD",
+        "a couple of thousand",
+        "first",
+        "one",
+        "only a few thousandths",
+        "several hundred",
+        "several hundred thousand"
+      ]
+    },
+    "entity_counts": {
+      "Wood": 4,
+      "Yazdani": 4,
+      "Nature Communications": 2,
+      "one": 2,
+      "A few years ago": 1,
+      "Quantum": 1,
+      "a couple of thousand": 1,
+      "quantum": 1,
+      "the Department for Information Technology": 1,
+      "ETH Zurich": 1,
+      "Vanessa Wood": 1,
+      "more than ninety years": 1,
+      "several hundred thousand": 1,
+      "Nuri Yazdani": 1,
+      "PhD": 1,
+      "first": 1,
+      "the Swiss Supercomputing Centre CSCS": 1,
+      "Lugano": 1,
+      "only a few thousandths": 1,
+      "several hundred": 1
+    },
+    "total_entities": 38,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-new-theory-for-semiconductors-made-of-nanocrystals.md",
+      "title": "En News Events/2020/06/a New Theory For Semiconductors Made Of Nanocrystals",
+      "language": "en",
+      "source_path": "en_news_events/2020/06/a-new-theory-for-semiconductors-made-of-nanocrystals.html"
+    },
+    "temporal": {
+      "publication_date": "2020-06",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "N.",
+        "Nuri Yazdani",
+        "V. et al",
+        "Yazdani"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher"
+        ],
+        "Nuri Yazdani": [
+          "student"
+        ],
+        "Yazdani": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "a couple of thousand",
+        "first",
+        "only a few thousandths",
+        "several hundred",
+        "several hundred thousand"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Electrical Engineering",
+        "Made Of",
+        "En News",
+        "For Semiconductors",
+        "Nuri Yazdani",
+        "QLED TVs",
+        "Centre CSCS",
+        "Information Technology",
+        "Vanessa Wood",
+        "Nature Communications",
+        "ETH Zurich",
+        "Nanocrystals A",
+        "New Theory",
+        "Swiss Supercomputing"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Nature Communications",
+        "Quantum",
+        "S.",
+        "Vanessa Wood",
+        "Wood",
+        "Yazdani",
+        "quantum",
+        "the Department for Information Technology",
+        "the Swiss Supercomputing Centre CSCS"
+      ],
+      "locations": [
+        "Andermatt",
+        "Lugano",
+        "Yarema"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Wood",
+        "Yazdani",
+        "Nature Communications",
+        "one",
+        "A few years ago",
+        "Quantum",
+        "a couple of thousand",
+        "quantum",
+        "the Department for Information Technology",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Spring mattress vs table top",
+          "Spring mattress vs table top",
+          "Demanding modelling",
+          "Reference"
+        ],
+        "content_length": 5412
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the Department for Information Technology",
+        "Yazdani",
+        "the Swiss Supercomputing Centre CSCS",
+        "2020",
+        "Wood",
+        "Quantum",
+        "N.",
+        "Nature Communications",
+        "Nuri Yazdani",
+        "ETH Zurich",
+        "Vanessa Wood",
+        "quantum",
+        "S.",
+        "ERC",
+        "V. et al"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "first",
+        "only a few thousandths",
+        "who",
+        "10.1038",
+        "several hundred thousand",
+        "where",
+        "several hundred",
+        "what",
+        "how",
+        "computer_science",
+        "a couple of thousand",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "Nuri Yazdani_has_role_student",
+        "Yazdani_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

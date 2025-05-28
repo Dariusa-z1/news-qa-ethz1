@@ -1,0 +1,531 @@
+{
+  "filename": "den-quasiteilchen-auf-der-spur.md",
+  "original_filename": "den-quasiteilchen-auf-der-spur.html",
+  "source_path": "en_news_events/2016/10/den-quasiteilchen-auf-der-spur.html",
+  "date": "2016-10",
+  "title": "Den Quasiteilchen Auf Der Spur",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Excitons and polarons",
+      "text": "If one tries to understand weather phenomena, it’s not much use looking at the behaviour of single water droplets or air molecules. Instead, meteorologists (and also laymen) speak of clouds, winds and precipitation – objects that result from the complex interplay between small particles. Physicists dealing with the optical properties or the conductivity of solids use much the same approach. Again, tiny particles – electrons and atoms – are responsible for a multitude of phenomena, but an illuminating picture only emerges when many of them are grouped into “quasiparticles”.\n\nHowever, finding out precisely what quasiparticles arise inside a material and how they influence one another is not a simple task, but more akin to a large puzzle whose pieces fit together, little by little, through arduous research. In a combination of experimental and theoretical studies, Ataç Imamoğlu and his collaborators at the Institute for Quantum Electronics at the ETH in Zurich have now succeeded in finding a new piece of the puzzle, which also helps to put a previously misplaced piece in its correct position."
+    },
+    {
+      "heading": "Excitons and polarons",
+      "text": "In solids quasiparticles can be created, for instance, when a photon is absorbed. The motional energy of electrons teeming about in a solid can only take values within well-defined ranges known as bands. A photon can promote an electron from a low-lying to a high-lying energy band, thus leaving behind a “hole” in the lower band.\n\nThe excited electron and the resulting hole attract each other through the electrostatic Coulomb force, and if that attraction is strong enough, the electron-hole pair can be viewed as a quasiparticle – an “exciton” is born. Two electrons and a hole can bind together to form a trion. When excitons and a large number of free electrons are simultaneously present however, the description of the qualitatively new – or “emergent” – properties of the material requires the introduction of new type of quasiparticles called Fermi polarons."
+    },
+    {
+      "heading": "Quasiparticles in a semiconductor",
+      "text": "Imamoğlu and his colleagues wanted to find out the nature of quasiparticles that appear in a certain type of semiconductors in which electrons can only move in two dimensions. To do so, they took a single layer of molybdenum diselenide that is thousand times thinner than a micrometer and sandwiched it between two disks of boron nitride. They then added a layer of graphene in order to apply an electric voltage with which the density of electrons in the material could be controlled. Finally, everything was placed between two mirrors that formed an optical cavity.\n\nWith this complex experimental setup the physicists in Zurich could now study in detail how strongly the material absorbs light under different conditions. They found that when the semiconductor structure is optically excited, Fermi-polarons are formed – and not, as previously thought, excitons or trions. “So far, researchers – myself included – have misinterpreted the data available at the time in that respect”, admits Imamoğlu. “With our new experiments we are now able to rectify that picture.”"
+    },
+    {
+      "heading": "Team effort with a guest scientist",
+      "text": "“This was a team effort with essential contributions by Harvard professor Eugene Demler, who collaborated with us over several months when he was an ITS fellow”, says Meinrad Sidler who is a doctoral student in Imamoğlus group. Since 2013 the Institute for Theoretical Studies ( ETH-ITS ) of the ETH has endeavoured to foster interdisciplinary research at the intersection between mathematics, theoretical physics and computer science. In particular, it wants to facilitate curiosity-driven research with the aim of finding the best ideas in unexpected places.\n\nThe study by Imamoğlu and his colleagues, now published in “Nature Physics”, is a good example for how this principle can be successful. In his own research, Eugene Demler deals with ultracold atoms, studying how mixtures of bosonic and fermionic atoms behave. “His insight into polarons in atomic gases and solids have given our research important and interesting impulses, which we may not have come up with on our own”, says Imamoğlu."
+    },
+    {
+      "heading": "Light induced superconductivity",
+      "text": "The insights they have gathered will most likely keep Imamoğlu and his collaborators busy for some time to come, as the interactions between bosonic (such as excitons) and fermionic (electrons) particles are the topic of a large research project for which Imamoğlu won an Advanced Grant of the European Research Council (ERC) last year, and is also supported by the National Centre of Competence in Research Quantum Science and Technology ( NCCR QSIT ). A better understanding of such mixtures would have important implications for basic research, but exciting applications also beckon. For instance, a key goal of the ERC project is the demonstration of control of superconductivity using lasers.\n\nSidler M, Back P, Cotlet O, Srivastava A, Fink T, Kroner M, Demler E, Imamoglu A: Fermi polaron-polaritons in charge-tunable atomically thin semiconductors. Nature Physics, 31 Oktober 2016, doi: 10.1038/nphys3949"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Quasiteilchen",
+        "label": "PERSON",
+        "start": 27,
+        "end": 40
+      },
+      {
+        "text": "Spur",
+        "label": "PERSON",
+        "start": 49,
+        "end": 53
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "Ataç Imamoğlu",
+        "label": "ORG",
+        "start": 873,
+        "end": 886
+      },
+      {
+        "text": "the Institute for Quantum Electronics",
+        "label": "ORG",
+        "start": 912,
+        "end": 949
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 957,
+        "end": 960
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 964,
+        "end": 970
+      },
+      {
+        "text": "Coulomb",
+        "label": "NORP",
+        "start": 420,
+        "end": 427
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 556,
+        "end": 559
+      },
+      {
+        "text": "Fermi",
+        "label": "GPE",
+        "start": 852,
+        "end": 857
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 160,
+        "end": 163
+      },
+      {
+        "text": "thousand",
+        "label": "CARDINAL",
+        "start": 244,
+        "end": 252
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 311,
+        "end": 314
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 525,
+        "end": 528
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 623,
+        "end": 629
+      },
+      {
+        "text": "Fermi",
+        "label": "GPE",
+        "start": 795,
+        "end": 800
+      },
+      {
+        "text": "Imamoğlu",
+        "label": "PRODUCT",
+        "start": 992,
+        "end": 1000
+      },
+      {
+        "text": "Harvard",
+        "label": "ORG",
+        "start": 56,
+        "end": 63
+      },
+      {
+        "text": "Eugene Demler",
+        "label": "PERSON",
+        "start": 74,
+        "end": 87
+      },
+      {
+        "text": "several months",
+        "label": "DATE",
+        "start": 119,
+        "end": 133
+      },
+      {
+        "text": "Meinrad Sidler",
+        "label": "PERSON",
+        "start": 167,
+        "end": 181
+      },
+      {
+        "text": "Imamoğlus",
+        "label": "ORG",
+        "start": 211,
+        "end": 220
+      },
+      {
+        "text": "the Institute for Theoretical Studies",
+        "label": "ORG",
+        "start": 239,
+        "end": 276
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 296,
+        "end": 299
+      },
+      {
+        "text": "Nature Physics",
+        "label": "WORK_OF_ART",
+        "start": 621,
+        "end": 635
+      },
+      {
+        "text": "Eugene Demler",
+        "label": "PERSON",
+        "start": 719,
+        "end": 732
+      },
+      {
+        "text": "Imamoğlu",
+        "label": "PRODUCT",
+        "start": 54,
+        "end": 62
+      },
+      {
+        "text": "Imamoğlu",
+        "label": "ORG",
+        "start": 256,
+        "end": 264
+      },
+      {
+        "text": "the European Research Council",
+        "label": "ORG",
+        "start": 290,
+        "end": 319
+      },
+      {
+        "text": "ERC",
+        "label": "ORG",
+        "start": 321,
+        "end": 324
+      },
+      {
+        "text": "last year",
+        "label": "DATE",
+        "start": 326,
+        "end": 335
+      },
+      {
+        "text": "the National Centre of Competence",
+        "label": "ORG",
+        "start": 362,
+        "end": 395
+      },
+      {
+        "text": "ERC",
+        "label": "ORG",
+        "start": 619,
+        "end": 622
+      },
+      {
+        "text": "Srivastava A",
+        "label": "PERSON",
+        "start": 726,
+        "end": 738
+      },
+      {
+        "text": "Kroner M",
+        "label": "ORG",
+        "start": 748,
+        "end": 756
+      },
+      {
+        "text": "Imamoglu",
+        "label": "PERSON",
+        "start": 768,
+        "end": 776
+      },
+      {
+        "text": "Fermi",
+        "label": "GPE",
+        "start": 780,
+        "end": 785
+      },
+      {
+        "text": "Nature Physics",
+        "label": "ORG",
+        "start": 855,
+        "end": 869
+      },
+      {
+        "text": "Oktober 2016",
+        "label": "DATE",
+        "start": 874,
+        "end": 886
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 893,
+        "end": 900
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Eugene Demler",
+        "Imamoglu",
+        "Meinrad Sidler",
+        "Quasiteilchen",
+        "Spur",
+        "Srivastava A"
+      ],
+      "ORG": [
+        "Ataç Imamoğlu",
+        "ERC",
+        "ETH",
+        "Harvard",
+        "Imamoğlu",
+        "Imamoğlus",
+        "Kroner M",
+        "Nature Physics",
+        "the European Research Council",
+        "the Institute for Quantum Electronics",
+        "the Institute for Theoretical Studies",
+        "the National Centre of Competence"
+      ],
+      "LOCATION": [
+        "Fermi",
+        "Zurich"
+      ],
+      "DATE": [
+        "Oktober 2016",
+        "last year",
+        "several months"
+      ],
+      "MISC": [
+        "10.1038",
+        "Coulomb",
+        "Imamoğlu",
+        "Nature Physics",
+        "Two",
+        "one",
+        "thousand",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Fermi": 3,
+      "two": 3,
+      "Imamoğlu": 3,
+      "ETH": 2,
+      "Zurich": 2,
+      "Eugene Demler": 2,
+      "Nature Physics": 2,
+      "ERC": 2,
+      "Quasiteilchen": 1,
+      "Spur": 1,
+      "one": 1,
+      "Ataç Imamoğlu": 1,
+      "the Institute for Quantum Electronics": 1,
+      "Coulomb": 1,
+      "Two": 1,
+      "thousand": 1,
+      "Harvard": 1,
+      "several months": 1,
+      "Meinrad Sidler": 1,
+      "Imamoğlus": 1
+    },
+    "total_entities": 40,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "den-quasiteilchen-auf-der-spur.md",
+      "title": "En News Events/2016/10/den Quasiteilchen auf der Spur",
+      "language": "en",
+      "source_path": "en_news_events/2016/10/den-quasiteilchen-auf-der-spur.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2013",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Eugene Demler",
+        "Imamoglu",
+        "Meinrad Sidler",
+        "Quasiteilchen",
+        "Spur",
+        "Srivastava A"
+      ],
+      "people_with_roles": {
+        "Eugene Demler": [
+          "student",
+          "professor"
+        ],
+        "Meinrad Sidler": [
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Coulomb",
+        "Imamoğlu",
+        "Nature Physics",
+        "thousand"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "grant"
+      ],
+      "projects": [
+        "Eugene Demler",
+        "Demler E",
+        "NCCR QSIT",
+        "Srivastava A",
+        "Meinrad Sidler",
+        "Theoretical Studies",
+        "European Research",
+        "Research Quantum",
+        "ETH-ITS",
+        "Spur If",
+        "Kroner M",
+        "Sidler M",
+        "Advanced Grant",
+        "Quantum Electronics",
+        "National Centre",
+        "Cotlet O",
+        "Nature Physics",
+        "Fink T",
+        "En News",
+        "Imamoglu A",
+        "Back P"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Quantum Electronics at the ETH in Zurich have now succeeded in finding a new piece of the puzzle",
+        "Theoretical Studies "
+      ],
+      "institutions": [
+        "Ataç Imamoğlu",
+        "ERC",
+        "ETH",
+        "Harvard",
+        "Imamoğlu",
+        "Imamoğlus",
+        "Kroner M",
+        "Nature Physics",
+        "the European Research Council",
+        "the Institute for Quantum Electronics",
+        "the Institute for Theoretical Studies",
+        "the National Centre of Competence"
+      ],
+      "locations": [
+        "Fermi",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Fermi",
+        "two",
+        "Imamoğlu",
+        "ETH",
+        "Zurich",
+        "Eugene Demler",
+        "Nature Physics",
+        "ERC",
+        "Quasiteilchen",
+        "Spur"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Excitons and polarons",
+          "Excitons and polarons",
+          "Quasiparticles in a semiconductor",
+          "Team effort with a guest scientist",
+          "Light induced superconductivity"
+        ],
+        "content_length": 5012
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Eugene Demler",
+        "Quasiteilchen",
+        "grant",
+        "Imamoğlus",
+        "Spur",
+        "Imamoglu",
+        "2016",
+        "Srivastava A",
+        "the Institute for Theoretical Studies",
+        "Meinrad Sidler",
+        "ERC",
+        "the Institute for Quantum Electronics",
+        "the National Centre of Competence",
+        "Ataç Imamoğlu",
+        "Kroner M",
+        "EU",
+        "Imamoğlu",
+        "the European Research Council",
+        "Harvard",
+        "Nature Physics",
+        "2013"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "Coulomb",
+        "Nature Physics",
+        "thousand",
+        "who",
+        "10.1038",
+        "Imamoğlu",
+        "what",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Eugene Demler_has_role_student",
+        "Eugene Demler_has_role_professor",
+        "Meinrad Sidler_has_role_student",
+        "Meinrad Sidler_has_role_professor",
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

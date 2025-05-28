@@ -1,0 +1,448 @@
+{
+  "filename": "monitoring-the-corrosion-of-bioresorbable-magnesium.md",
+  "original_filename": "monitoring-the-corrosion-of-bioresorbable-magnesium.html",
+  "source_path": "en_news_events/2019/10/monitoring-the-corrosion-of-bioresorbable-magnesium.html",
+  "date": "2019-10",
+  "title": "Monitoring The Corrosion Of Bioresorbable Magnesium",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Implementing a new family of alloys",
+      "text": "Magnesium and its alloys are increasingly being deployed in bone surgery, in particular as osteosynthesis implants such as screws or plates, and as cardiovascular stents to expand narrowed coronary blood vessels.\n\nThis light metal has the great advantage of being bioresorbable – in contrast to the behavior of conventional implant materials such as stainless steel, titanium or polymers. This renders a second surgery to remove an implant from the body unnecessary. Additionally attractive is the fact that magnesium promotes bone growth and therefore actively supports the healing of fractures.\n\nPure magnesium as such, however, is too soft for deployment in surgical applications, and alloying elements must be added to strengthen it. These are generally rare-earth elements such as yttrium or neodymium. However, these elements are foreign to the human body and can accumulate in organs during implant degradation, with so far unknown consequences. They are thus particularly inadequate for applications in pediatric surgery."
+    },
+    {
+      "heading": "Implementing a new family of alloys",
+      "text": "Researchers at ETH Zurich’s Laboratory of Metal Physics and Technology, headed by Professor Jörg F. Löffler, have therefore developed a new family of alloys that besides magnesium contain only the alloying elements zinc and calcium, intentionally in contents of less than 1%.\n\nZinc and calcium are just like magnesium also biocompatible and can be resorbed by the human body. Upon specific processing, the new alloys form precipitates of varying size and density, which are composed of all three elements. These precipitates, which are only a few tens of nanometers in size, are essential to improve mechanical properties and may influence the degradation rate.\n\nDespite these promising results, an important factor still hinders broad deployment of these biocompatible magnesium alloys in surgical applications: too little is known about the mechanisms via which these materials degrade in the body under so-called physiological conditions, and viable predictions of how long such an implant will remain in the human body have thus been impossible."
+    },
+    {
+      "heading": "Monitoring changes at the nanoscale",
+      "text": "Using analytical transmission electron microscopy (TEM), Jörg Löffler and his colleagues Martina Cihova and Robin Schäublin have now managed to monitor in detail the structural and chemical changes in magnesium alloys under simulated physiological conditions over time scales of a few seconds to many hours, with so far unreached resolutions of a few nanometers. They recently published their results in Advanced Materials .\n\nWith the help of modern TEM technology, provided by ETH’s competence center “ScopeM”, and the support of Patrik Schmutz from Empa Dübendorf, the researchers were able to document a so far unobserved dealloying mechanism that significantly governs the precipitates’ dissolution in the magnesium matrix. They observed – practically in real time – how calcium and magnesium ions dissolve from the precipitates once in contact with simulated body fluid, while zinc ions remain stable and accumulate. The resulting ongoing change in the precipitates’ chemical composition, termed “dealloying”, generates a dynamic change in their electrochemical activity and accelerates the magnesium alloy degradation overall.\n\n“This finding overturns a prevailing dogma, which assumed that the precipitates’ chemical composition in magnesium alloys remains unchanged,” says Löffler. That previous assumption had led to mostly false predictions regarding degradation times. “The mechanism we report seems to be universally valid, and we expect it to occur in both other magnesium alloys and other active materials that contain intermetallic precipitates,” adds Martina Cihova, doctoral student of Jörg Löffler and first author of the study.\n\nThanks to the new insights described above, it is now possible to design magnesium alloys such that their degradation rate in the body can be better predicted and more precisely controlled. This is an essential advancement considering that magnesium implants can degrade much faster in children than in adults, and that the degradation of stents needs to be significantly slower than that of bone plates or screws. “By gathering detailed knowledge of the acting corrosion mechanisms, we have taken a key step towards tailoring magnesium alloys to different patients and medical applications”, comments Cihova. To strengthen the understanding of corrosion mechanisms further, her postdoctoral research will now focus on electron microscopy analyses of in vivo magnesium implants.\n\nM. Cihova, P. Schmutz, R. Schäublin, J. F. Löffler, Biocorrosion Zoomed In: Evidence for Dealloying of Nanometric Intermetallic Particles in Magnesium Alloys. Adv. Mater. 31 (42), 1903080 (2019). DOI: 10.1002/adma.201903080"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Corrosion Of Bioresorbable Magnesium",
+        "label": "ORG",
+        "start": 34,
+        "end": 74
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 403,
+        "end": 409
+      },
+      {
+        "text": "ETH Zurich’s Laboratory of Metal Physics and Technology",
+        "label": "ORG",
+        "start": 15,
+        "end": 70
+      },
+      {
+        "text": "Jörg F. Löffler",
+        "label": "PERSON",
+        "start": 92,
+        "end": 107
+      },
+      {
+        "text": "less than 1%",
+        "label": "PERCENT",
+        "start": 262,
+        "end": 274
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 489,
+        "end": 494
+      },
+      {
+        "text": "only a few tens",
+        "label": "CARDINAL",
+        "start": 535,
+        "end": 550
+      },
+      {
+        "text": "TEM",
+        "label": "ORG",
+        "start": 51,
+        "end": 54
+      },
+      {
+        "text": "Jörg Löffler",
+        "label": "PERSON",
+        "start": 57,
+        "end": 69
+      },
+      {
+        "text": "Martina Cihova",
+        "label": "PERSON",
+        "start": 89,
+        "end": 103
+      },
+      {
+        "text": "Robin Schäublin",
+        "label": "PERSON",
+        "start": 108,
+        "end": 123
+      },
+      {
+        "text": "a few seconds",
+        "label": "TIME",
+        "start": 279,
+        "end": 292
+      },
+      {
+        "text": "Advanced Materials",
+        "label": "ORG",
+        "start": 404,
+        "end": 422
+      },
+      {
+        "text": "TEM",
+        "label": "ORG",
+        "start": 449,
+        "end": 452
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 477,
+        "end": 480
+      },
+      {
+        "text": "Patrik Schmutz",
+        "label": "PERSON",
+        "start": 530,
+        "end": 544
+      },
+      {
+        "text": "Empa Dübendorf",
+        "label": "ORG",
+        "start": 550,
+        "end": 564
+      },
+      {
+        "text": "Löffler",
+        "label": "PERSON",
+        "start": 1279,
+        "end": 1286
+      },
+      {
+        "text": "Martina Cihova",
+        "label": "PERSON",
+        "start": 1565,
+        "end": 1579
+      },
+      {
+        "text": "Jörg Löffler",
+        "label": "PERSON",
+        "start": 1601,
+        "end": 1613
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1618,
+        "end": 1623
+      },
+      {
+        "text": "Cihova",
+        "label": "ORG",
+        "start": 2247,
+        "end": 2253
+      },
+      {
+        "text": "Cihova",
+        "label": "ORG",
+        "start": 2427,
+        "end": 2433
+      },
+      {
+        "text": "P. Schmutz",
+        "label": "PERSON",
+        "start": 2435,
+        "end": 2445
+      },
+      {
+        "text": "R. Schäublin",
+        "label": "PERSON",
+        "start": 2447,
+        "end": 2459
+      },
+      {
+        "text": "J. F. Löffler",
+        "label": "PERSON",
+        "start": 2461,
+        "end": 2474
+      },
+      {
+        "text": "Biocorrosion Zoomed",
+        "label": "PERSON",
+        "start": 2476,
+        "end": 2495
+      },
+      {
+        "text": "Magnesium Alloys",
+        "label": "FAC",
+        "start": 2565,
+        "end": 2581
+      },
+      {
+        "text": "Mater",
+        "label": "PERSON",
+        "start": 2588,
+        "end": 2593
+      },
+      {
+        "text": "10.1002",
+        "label": "CARDINAL",
+        "start": 2625,
+        "end": 2632
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Biocorrosion Zoomed",
+        "J. F. Löffler",
+        "Jörg F. Löffler",
+        "Jörg Löffler",
+        "Löffler",
+        "Martina Cihova",
+        "Mater",
+        "P. Schmutz",
+        "Patrik Schmutz",
+        "R. Schäublin",
+        "Robin Schäublin"
+      ],
+      "ORG": [
+        "Advanced Materials",
+        "Cihova",
+        "ETH",
+        "ETH Zurich’s Laboratory of Metal Physics and Technology",
+        "Empa Dübendorf",
+        "TEM",
+        "The Corrosion Of Bioresorbable Magnesium"
+      ],
+      "LOCATION": [
+        "Magnesium Alloys"
+      ],
+      "DATE": [
+        "a few seconds"
+      ],
+      "MISC": [
+        "10.1002",
+        "first",
+        "less than 1%",
+        "only a few tens",
+        "second",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "TEM": 2,
+      "Jörg Löffler": 2,
+      "Martina Cihova": 2,
+      "Cihova": 2,
+      "The Corrosion Of Bioresorbable Magnesium": 1,
+      "second": 1,
+      "ETH Zurich’s Laboratory of Metal Physics and Technology": 1,
+      "Jörg F. Löffler": 1,
+      "less than 1%": 1,
+      "three": 1,
+      "only a few tens": 1,
+      "Robin Schäublin": 1,
+      "a few seconds": 1,
+      "Advanced Materials": 1,
+      "ETH": 1,
+      "Patrik Schmutz": 1,
+      "Empa Dübendorf": 1,
+      "Löffler": 1,
+      "first": 1,
+      "P. Schmutz": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "monitoring-the-corrosion-of-bioresorbable-magnesium.md",
+      "title": "En News Events/2019/10/monitoring The Corrosion Of Bioresorbable Magnesium",
+      "language": "en",
+      "source_path": "en_news_events/2019/10/monitoring-the-corrosion-of-bioresorbable-magnesium.html"
+    },
+    "temporal": {
+      "publication_date": "2019-10",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Biocorrosion Zoomed",
+        "J. F. Löffler",
+        "Jörg F. Löffler",
+        "Jörg Löffler",
+        "Löffler",
+        "Martina Cihova",
+        "Mater",
+        "P. Schmutz",
+        "Patrik Schmutz",
+        "R. Schäublin",
+        "Robin Schäublin"
+      ],
+      "people_with_roles": {
+        "Jörg Löffler": [
+          "student"
+        ],
+        "Löffler": [
+          "student"
+        ],
+        "Martina Cihova": [
+          "student"
+        ],
+        "Mater": [
+          "student"
+        ],
+        "Patrik Schmutz": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1002",
+        "first",
+        "less than 1%",
+        "only a few tens",
+        "second",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Corrosion",
+        "En News",
+        "Martina Cihova",
+        "Advanced Materials",
+        "Of Bioresorbable",
+        "Patrik Schmutz",
+        "Magnesium Alloys",
+        "Magnesium Magnesium",
+        "ETH Zurich",
+        "Biocorrosion Zoomed",
+        "Nanometric Intermetallic",
+        "Metal Physics"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Advanced Materials",
+        "Cihova",
+        "ETH",
+        "ETH Zurich’s Laboratory of Metal Physics and Technology",
+        "Empa Dübendorf",
+        "TEM",
+        "The Corrosion Of Bioresorbable Magnesium"
+      ],
+      "locations": [
+        "Magnesium Alloys"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "TEM",
+        "Jörg Löffler",
+        "Martina Cihova",
+        "Cihova",
+        "The Corrosion Of Bioresorbable Magnesium",
+        "second",
+        "ETH Zurich’s Laboratory of Metal Physics and Technology",
+        "Jörg F. Löffler",
+        "less than 1%",
+        "three"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Implementing a new family of alloys",
+          "Implementing a new family of alloys",
+          "Monitoring changes at the nanoscale"
+        ],
+        "content_length": 4806
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Empa Dübendorf",
+        "Martina Cihova",
+        "P. Schmutz",
+        "Jörg Löffler",
+        "The Corrosion Of Bioresorbable Magnesium",
+        "R. Schäublin",
+        "2019",
+        "Robin Schäublin",
+        "TEM",
+        "Cihova",
+        "Mater",
+        "ETH Zurich’s Laboratory of Metal Physics and Technology",
+        "Löffler",
+        "Biocorrosion Zoomed",
+        "Advanced Materials",
+        "Jörg F. Löffler",
+        "J. F. Löffler",
+        "Patrik Schmutz"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "three",
+        "who",
+        "chemistry",
+        "10.1002",
+        "less than 1%",
+        "what",
+        "only a few tens",
+        "second",
+        "how",
+        "medical_research",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Jörg Löffler_has_role_student",
+        "Löffler_has_role_student",
+        "Martina Cihova_has_role_student",
+        "Mater_has_role_student",
+        "Patrik Schmutz_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

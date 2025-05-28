@@ -1,0 +1,242 @@
+{
+  "filename": "information-events-on-open-access-on-30-january-2017.md",
+  "original_filename": "information-events-on-open-access-on-30-january-2017.html",
+  "source_path": "en_internal/2017/01/information-events-on-open-access-on-30-january-2017.html",
+  "date": "2017-01",
+  "title": "Information Events On Open Access On 30 January 2017",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH-Bibliothek will be conducting a survey on open access in February 2017. On 1 February, all academic staff members at ETH Zurich will receive a personal link to the online questionnaire via email.\n\nBeforehand, however, ETH-Bibliothek is holding two information events, which anyone interested is more than welcome to attend:\n\nDate Monday 30 January 2017\n\nVenue Hönggerberg, HPV G 5: 12:00 – 1:00 p.m. Zentrum, HG E 3: 5:00 – 6:00 p.m.\n\nThe event will be held in English. There is no need to register."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "30 January 2017",
+        "label": "DATE",
+        "start": 57,
+        "end": 72
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "February 2017",
+        "label": "DATE",
+        "start": 61,
+        "end": 74
+      },
+      {
+        "text": "1 February",
+        "label": "DATE",
+        "start": 79,
+        "end": 89
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 121,
+        "end": 131
+      },
+      {
+        "text": "Beforehand",
+        "label": "ORG",
+        "start": 200,
+        "end": 210
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 221,
+        "end": 235
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 247,
+        "end": 250
+      },
+      {
+        "text": "Monday 30 January 2017",
+        "label": "DATE",
+        "start": 332,
+        "end": 354
+      },
+      {
+        "text": "Venue Hönggerberg",
+        "label": "PERSON",
+        "start": 355,
+        "end": 372
+      },
+      {
+        "text": "12:00 – 1:00 p.m.",
+        "label": "TIME",
+        "start": 383,
+        "end": 400
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 401,
+        "end": 408
+      },
+      {
+        "text": "5:00 – 6:00 p.m.",
+        "label": "TIME",
+        "start": 418,
+        "end": 434
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 461,
+        "end": 468
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Venue Hönggerberg",
+        "Zentrum"
+      ],
+      "ORG": [
+        "Beforehand",
+        "ETH Zurich",
+        "ETH-Bibliothek"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "1 February",
+        "12:00 – 1:00 p.m.",
+        "30 January 2017",
+        "5:00 – 6:00 p.m.",
+        "February 2017",
+        "Monday 30 January 2017"
+      ],
+      "MISC": [
+        "English",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 2,
+      "30 January 2017": 1,
+      "February 2017": 1,
+      "1 February": 1,
+      "ETH Zurich": 1,
+      "Beforehand": 1,
+      "two": 1,
+      "Monday 30 January 2017": 1,
+      "Venue Hönggerberg": 1,
+      "12:00 – 1:00 p.m.": 1,
+      "Zentrum": 1,
+      "5:00 – 6:00 p.m.": 1,
+      "English": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "information-events-on-open-access-on-30-january-2017.md",
+      "title": "En Internal/2017/01/information Events On Open Access On 30 January 2017",
+      "language": "en",
+      "source_path": "en_internal/2017/01/information-events-on-open-access-on-30-january-2017.html"
+    },
+    "temporal": {
+      "publication_date": "2017-01",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Venue Hönggerberg",
+        "Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "English"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Date Monday",
+        "HG E",
+        "En Internal",
+        "HPV G",
+        "ETH Zurich",
+        "Open Access",
+        "Events On"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Beforehand",
+        "ETH Zurich",
+        "ETH-Bibliothek"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "30 January 2017",
+        "February 2017",
+        "1 February",
+        "ETH Zurich",
+        "Beforehand",
+        "two",
+        "Monday 30 January 2017",
+        "Venue Hönggerberg",
+        "12:00 – 1:00 p.m."
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 576
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "2017",
+        "Zentrum",
+        "Venue Hönggerberg",
+        "ETH Zurich",
+        "Beforehand"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "English",
+        "how",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

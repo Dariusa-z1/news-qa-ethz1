@@ -1,0 +1,438 @@
+{
+  "filename": "solarjet.md",
+  "original_filename": "solarjet.html",
+  "source_path": "en_news_events/2014/04/solarjet.html",
+  "date": "2014-04",
+  "title": "Solarjet",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Several notable research organizations from academia through to industry (ETH Zürich, Bauhaus Luftfahrt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), ARTTIC and Shell Global Solutions) have explored a thermochemical pathway driven by concentrated solar energy. A new solar reactor technology has been pioneered to produce liquid hydrocarbon fuels suitable for more sustainable transportation.\n\n“Increasing environmental and supply security issues are leading the aviation sector to seek alternative fuels which can be used interchangeably with today’s jet fuel, so-called drop-in solutions”, states Dr. Andreas Sizmann, the project coordinator at Bauhaus Luftfahrt. “With this first-ever proof-of-concept for ‘solar’ kerosene, the SOLAR-JET project has made a major step towards truly sustainable fuels with virtually unlimited feedstocks in the future.\n\nThe SOLAR-JET project demonstrated an innovative process technology using concentrated sunlight to convert carbon dioxide and water to a so-called synthesis gas (syngas). This is accomplished by means of a redox cycle with metal-oxide based materials at high temperatures. The syngas, a mixture of hydrogen and carbon monoxide, is finally converted into kerosene by using commercial Fischer-Tropsch technology.\n\n“The solar reactor technology features enhanced radiative heat transfer and fast reaction kinetics, which are crucial for maximizing the solar-to-fuel energy conversion efficiency” said Professor Aldo Steinfeld, leading the fundamental research and development of the solar reactor at ETH Zürich.\n\nAlthough the solar-driven redox cycle for syngas production is still at an early stage of development, the processing of syngas to kerosene is already being deployed by companies, including Shell, on a global scale. This combined approach has the potential to provide a secure, sustainable and scalable supply of renewable aviation fuel and more generally for transport applications. Moreover, Fischer-Tropsch derived kerosene is already approved for commercial aviation.\n\n“This is potentially a very interesting novel pathway to liquid hydrocarbon fuels using focussed solar power”, said Professor Hans Geerlings at Shell. “Although the individual steps of the process have previously been demonstrated at various scales, no attempt had been made previously to integrate the end-to-end system. We look forward to working with the project partners to drive forward research and development in the next phase of the project on such an ambitious emerging technology.”\n\nSOLAR-JET (Solar chemical reactor demonstration and Optimization for Long-term Availability of Renewable JET fuel) was launched in June 2011 and is receiving financial support from the European Union within the 7th Framework Programme for a duration of four years. In a first step, the technical feasibility of producing solar kerosene was proven. &nbsp;In the next phase of the project, the partners will optimise the solar reactor and assess the techno-economic potential of industrial scale implementation. The outcomes of SOLAR-JET will put Europe to the forefront of research, innovation and production of sustainable fuels directly from concentrated solar energy.\n\nETH Zurich Prof. Aldo Steinfeld Professorship of Renewable Energy Carriers Tel. +41 44 632 7929\n\nETH Zurich Media relations Tel. +41 44 632 41 41"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zürich",
+        "label": "PERSON",
+        "start": 74,
+        "end": 84
+      },
+      {
+        "text": "Bauhaus Luftfahrt",
+        "label": "PERSON",
+        "start": 86,
+        "end": 103
+      },
+      {
+        "text": "Deutsches Zentrum",
+        "label": "PERSON",
+        "start": 105,
+        "end": 122
+      },
+      {
+        "text": "Raumfahrt",
+        "label": "FAC",
+        "start": 137,
+        "end": 146
+      },
+      {
+        "text": "Shell Global Solutions",
+        "label": "ORG",
+        "start": 165,
+        "end": 187
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 547,
+        "end": 552
+      },
+      {
+        "text": "Andreas Sizmann",
+        "label": "PERSON",
+        "start": 606,
+        "end": 621
+      },
+      {
+        "text": "Bauhaus Luftfahrt",
+        "label": "ORG",
+        "start": 650,
+        "end": 667
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 680,
+        "end": 685
+      },
+      {
+        "text": "Fischer-Tropsch",
+        "label": "ORG",
+        "start": 1240,
+        "end": 1255
+      },
+      {
+        "text": "Aldo Steinfeld",
+        "label": "PERSON",
+        "start": 1464,
+        "end": 1478
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1553,
+        "end": 1563
+      },
+      {
+        "text": "kerosene",
+        "label": "PERSON",
+        "start": 1696,
+        "end": 1704
+      },
+      {
+        "text": "Shell",
+        "label": "ORG",
+        "start": 1755,
+        "end": 1760
+      },
+      {
+        "text": "Fischer-Tropsch",
+        "label": "ORG",
+        "start": 1959,
+        "end": 1974
+      },
+      {
+        "text": "Hans Geerlings",
+        "label": "PERSON",
+        "start": 2163,
+        "end": 2177
+      },
+      {
+        "text": "Shell",
+        "label": "ORG",
+        "start": 2181,
+        "end": 2186
+      },
+      {
+        "text": "Solar",
+        "label": "ORG",
+        "start": 2541,
+        "end": 2546
+      },
+      {
+        "text": "Optimization for Long",
+        "label": "ORG",
+        "start": 2582,
+        "end": 2603
+      },
+      {
+        "text": "Availability of Renewable",
+        "label": "ORG",
+        "start": 2609,
+        "end": 2634
+      },
+      {
+        "text": "June 2011",
+        "label": "DATE",
+        "start": 2661,
+        "end": 2670
+      },
+      {
+        "text": "the European Union",
+        "label": "ORG",
+        "start": 2711,
+        "end": 2729
+      },
+      {
+        "text": "7th",
+        "label": "ORDINAL",
+        "start": 2741,
+        "end": 2744
+      },
+      {
+        "text": "four years",
+        "label": "DATE",
+        "start": 2783,
+        "end": 2793
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2800,
+        "end": 2805
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 3075,
+        "end": 3081
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 3200,
+        "end": 3210
+      },
+      {
+        "text": "Aldo Steinfeld",
+        "label": "PERSON",
+        "start": 3217,
+        "end": 3231
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 3296,
+        "end": 3306
+      },
+      {
+        "text": "Tel",
+        "label": "PERSON",
+        "start": 3323,
+        "end": 3326
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Aldo Steinfeld",
+        "Andreas Sizmann",
+        "Bauhaus Luftfahrt",
+        "Deutsches Zentrum",
+        "ETH Zürich",
+        "Hans Geerlings",
+        "Tel",
+        "kerosene"
+      ],
+      "ORG": [
+        "Availability of Renewable",
+        "Bauhaus Luftfahrt",
+        "ETH Zurich",
+        "ETH Zürich",
+        "Fischer-Tropsch",
+        "Optimization for Long",
+        "Shell",
+        "Shell Global Solutions",
+        "Solar",
+        "the European Union"
+      ],
+      "LOCATION": [
+        "Europe",
+        "Raumfahrt"
+      ],
+      "DATE": [
+        "June 2011",
+        "four years",
+        "today"
+      ],
+      "MISC": [
+        "7th",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "Bauhaus Luftfahrt": 2,
+      "first": 2,
+      "Fischer-Tropsch": 2,
+      "Aldo Steinfeld": 2,
+      "Shell": 2,
+      "ETH Zurich": 2,
+      "Deutsches Zentrum": 1,
+      "Raumfahrt": 1,
+      "Shell Global Solutions": 1,
+      "today": 1,
+      "Andreas Sizmann": 1,
+      "kerosene": 1,
+      "Hans Geerlings": 1,
+      "Solar": 1,
+      "Optimization for Long": 1,
+      "Availability of Renewable": 1,
+      "June 2011": 1,
+      "the European Union": 1,
+      "7th": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "solarjet.md",
+      "title": "En News Events/2014/04/solarjet",
+      "language": "en",
+      "source_path": "en_news_events/2014/04/solarjet.html"
+    },
+    "temporal": {
+      "publication_date": "2014-04",
+      "mentioned_years": [
+        "2011",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Aldo Steinfeld",
+        "Andreas Sizmann",
+        "Bauhaus Luftfahrt",
+        "Deutsches Zentrum",
+        "ETH Zürich",
+        "Hans Geerlings",
+        "Tel",
+        "kerosene"
+      ],
+      "people_with_roles": {
+        "Aldo Steinfeld": [
+          "Professor",
+          "professor"
+        ],
+        "ETH Zürich": [
+          "professor"
+        ],
+        "Hans Geerlings": [
+          "Professor",
+          "professor"
+        ],
+        "Tel": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "first"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Renewable Energy",
+        "Professor Hans",
+        "Deutsches Zentrum",
+        "En News",
+        "Carriers Tel",
+        "The SOLAR",
+        "Fischer-Tropsch",
+        "SOLAR-JET",
+        "Professor Aldo",
+        "ETH Zurich",
+        "European Union",
+        "Aldo Steinfeld",
+        "Renewable JET",
+        "Shell Global",
+        "Andreas Sizmann",
+        "Bauhaus Luftfahrt",
+        "Framework Programme"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Availability of Renewable",
+        "Bauhaus Luftfahrt",
+        "ETH Zurich",
+        "ETH Zürich",
+        "Fischer-Tropsch",
+        "Optimization for Long",
+        "Shell",
+        "Shell Global Solutions",
+        "Solar",
+        "the European Union"
+      ],
+      "locations": [
+        "Europe",
+        "Raumfahrt"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "Bauhaus Luftfahrt",
+        "first",
+        "Fischer-Tropsch",
+        "Aldo Steinfeld",
+        "Shell",
+        "ETH Zurich",
+        "Deutsches Zentrum",
+        "Raumfahrt",
+        "Shell Global Solutions"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 3384
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Tel",
+        "Fischer-Tropsch",
+        "Andreas Sizmann",
+        "ERC",
+        "Shell",
+        "the European Union",
+        "ETH Zürich",
+        "Aldo Steinfeld",
+        "Solar",
+        "Bauhaus Luftfahrt",
+        "2014",
+        "2011",
+        "EU",
+        "Shell Global Solutions",
+        "kerosene",
+        "Optimization for Long",
+        "Deutsches Zentrum",
+        "ETH Zurich",
+        "Availability of Renewable",
+        "Hans Geerlings"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "chemistry",
+        "what",
+        "how",
+        "climate_change",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Aldo Steinfeld_has_role_Professor",
+        "Aldo Steinfeld_has_role_professor",
+        "ETH Zürich_has_role_professor",
+        "Hans Geerlings_has_role_Professor",
+        "Hans Geerlings_has_role_professor",
+        "Tel_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

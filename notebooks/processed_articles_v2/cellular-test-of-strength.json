@@ -1,0 +1,543 @@
+{
+  "filename": "cellular-test-of-strength.md",
+  "original_filename": "cellular-test-of-strength.html",
+  "source_path": "en_news_events/2016/09/cellular-test-of-strength.html",
+  "date": "2016-09",
+  "title": "Cellular Test Of Strength",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Regular pattern",
+      "text": "Microscopy image of a red fluorescent grid and a cell (upper left), whose interaction with the substrate is visible at its edges in green. The same image is shown on the right and below in different colours. (Photograph: ETH Zurich / Martin Bergert)\n\nAn interdisciplinary team of scientists from ETH Zurich has developed a new microscopy technique that allows researchers to measure in great detail the forces exerted by biological cells when they grow, change shape or move around. The new technique is an advancement of traction force microscopy (TFM). With it, researchers are able to measure cell forces readily, directly and at a higher resolution than with previous methods.\n\n“The most common forms of traction force microscopy in use today utilise an elastically deformable substrate with microscopic fluorescent reference points embedded in it,” says Dimos Poulikakos, a Professor of Thermodynamics at ETH Zurich and coordinator of the research project. Scientists are able to study cells on this substrate in laboratory experiments. When these cells change shape, or simply due to their motion, the substrate also changes shape, shifting the reference points.\n\nThe scientists first photograph the cells and the reference point layer in this state under the microscope, and then remove the cells – at which point the substrate moves back to its original shape – and photograph the elastic layer at the exact location of the cells a second time. In a computer-assisted comparison of the dot pattern in the two pictures, they are able to determine how far each point in the cell was able to shift the elastic substrate. As the physical properties of the substrate are already known, this makes it possible to determine which forces are acting on each point."
+    },
+    {
+      "heading": "More accurate and in 3D",
+      "text": "A regular pattern with quantum dots (red) printed on an elastic silicon substrate (grey). Cells (green) can move the substrate. Microscopy observation of the deformation takes place from below. (Visualisations: Bergert et al. Nature Communications 2016, edited)\n\nUntil now, the fluorescent reference points could be only randomly embedded in the substrate material in TFM applications. The researchers under Poulikakos have now succeeded to orderly arrange these points in a regular grid pattern on a silicon substrate for the first time. To accomplish this, they used Nanodrip, a 3D nano-printing technology developed a few years ago in the laboratory of ETH professor Poulikakos.\n\nThe regular and clearly defined arrangement of the orientation points offers advantages. “We no longer have to remove cells and compare before and after images. Instead, we can determine the forces using a single microscopy image,” says Aldo Ferrari, a senior assistant in Poulikakos’ group. This allows scientists to observe cells over a longer period of time and, among other applications, to repeatedly measure the cell’s forces at various times."
+    },
+    {
+      "heading": "Cooperation between of several research groups",
+      "text": "The technical development was possible thanks to the close cooperation of many ETH researchers: Scientists from the laboratory of ETH professor Edoardo Mazza determined the physical properties of the silicone substrate and developed numerical models which allowed them to calculate the forces that corresponded to each deformation of the surface. ETH professor Olga Sorkine-Hornung and Daniele Panozzo, a professor at the New York University, contributed to the computer-assisted calculations of the effective displacement of the points in the microscopy images.\n\nMoreover, the scientists used blue, green and red luminescent quantum dots as fluorescent dyes obtained from the group under ETH professor and quantum dot expert David Norris. Quantum dots are nanostructures made of semiconductor material with a customised geometry."
+    },
+    {
+      "heading": "More accurate and in 3D",
+      "text": "The new technique has further advantages: It is more accurate than previous methods, and it is possible for the first time to combine traction force microscopy (and therefore cellular force measurements) with immunohistochemistry, a common cellular biological technique that uses fluorescent antibodies to make specific cell components visible. “In a single microscopy image, we can simultaneously display both the presence of a particular protein and the forces acting, allowing us to identify interrelationships,” says Ferrrari. “This enables new types of experiments in cell biology.”\n\nFinally, with this development it is also possible to determine cell-generated forces in three rather than two dimensions. “We use confocal microscopy, which allows us to record multiple images of the silicon substrate and the cell, layer by layer, and assemble them into a 3D image with the assistance of a computer,” says Ferrari.\n\n“The new system is easy to use and ready for implementation,” says Poulikakos. The software developed for it is open source, and the ETH researchers have made it available to colleagues free of charge. Interested scientists must, however, be able to use nanoprinting technology in the laboratory in order to produce the quantum dot silicon substrate.\n\nThe new system can be used in cell biology and biomedical research to study the movements of cells or to measure interactions between cells and implants. Poulikakos’ group, for instance, is collaborating with researchers from Politecnico di Milano to explore how the activities of individual genes, the mobility of cells of a particular type of carcinoma and the thereby acting forces are interrelated.\n\nBergert M et al.: Confocal reference free traction force microscopy, Nature Communications 2016, doi: 10.1038/ncomms12814"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Microscopy",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "ETH Zurich / Martin Bergert",
+        "label": "PERSON",
+        "start": 221,
+        "end": 248
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 295,
+        "end": 305
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 739,
+        "end": 744
+      },
+      {
+        "text": "Dimos Poulikakos",
+        "label": "PERSON",
+        "start": 857,
+        "end": 873
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 908,
+        "end": 918
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1182,
+        "end": 1187
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1437,
+        "end": 1443
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1510,
+        "end": 1513
+      },
+      {
+        "text": "Bergert et al",
+        "label": "PERSON",
+        "start": 211,
+        "end": 224
+      },
+      {
+        "text": "Poulikakos",
+        "label": "PERSON",
+        "start": 407,
+        "end": 417
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 526,
+        "end": 531
+      },
+      {
+        "text": "Nanodrip",
+        "label": "GPE",
+        "start": 568,
+        "end": 576
+      },
+      {
+        "text": "a few years ago",
+        "label": "DATE",
+        "start": 618,
+        "end": 633
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 655,
+        "end": 658
+      },
+      {
+        "text": "Poulikakos",
+        "label": "PERSON",
+        "start": 669,
+        "end": 679
+      },
+      {
+        "text": "Aldo Ferrari",
+        "label": "PERSON",
+        "start": 918,
+        "end": 930
+      },
+      {
+        "text": "Poulikakos’",
+        "label": "ORG",
+        "start": 954,
+        "end": 965
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 79,
+        "end": 82
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 130,
+        "end": 133
+      },
+      {
+        "text": "Edoardo Mazza",
+        "label": "PERSON",
+        "start": 144,
+        "end": 157
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 347,
+        "end": 350
+      },
+      {
+        "text": "Olga Sorkine-Hornung",
+        "label": "PERSON",
+        "start": 361,
+        "end": 381
+      },
+      {
+        "text": "Daniele Panozzo",
+        "label": "PERSON",
+        "start": 386,
+        "end": 401
+      },
+      {
+        "text": "the New York University",
+        "label": "ORG",
+        "start": 418,
+        "end": 441
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 688,
+        "end": 691
+      },
+      {
+        "text": "David Norris",
+        "label": "PERSON",
+        "start": 725,
+        "end": 737
+      },
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 739,
+        "end": 746
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 112,
+        "end": 117
+      },
+      {
+        "text": "Ferrrari",
+        "label": "PERSON",
+        "start": 521,
+        "end": 529
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 677,
+        "end": 682
+      },
+      {
+        "text": "3D",
+        "label": "CARDINAL",
+        "start": 862,
+        "end": 864
+      },
+      {
+        "text": "Ferrari",
+        "label": "ORG",
+        "start": 912,
+        "end": 919
+      },
+      {
+        "text": "Poulikakos",
+        "label": "PERSON",
+        "start": 988,
+        "end": 998
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1054,
+        "end": 1057
+      },
+      {
+        "text": "Politecnico di Milano",
+        "label": "ORG",
+        "start": 1498,
+        "end": 1519
+      },
+      {
+        "text": "Bergert M et al",
+        "label": "PERSON",
+        "start": 1675,
+        "end": 1690
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1744,
+        "end": 1765
+      },
+      {
+        "text": "10.1038/ncomms12814",
+        "label": "CARDINAL",
+        "start": 1777,
+        "end": 1796
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Aldo Ferrari",
+        "Bergert M et al",
+        "Bergert et al",
+        "Daniele Panozzo",
+        "David Norris",
+        "Dimos Poulikakos",
+        "ETH Zurich / Martin Bergert",
+        "Edoardo Mazza",
+        "Ferrrari",
+        "Olga Sorkine-Hornung",
+        "Poulikakos"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Ferrari",
+        "Microscopy",
+        "Nature Communications",
+        "Politecnico di Milano",
+        "Poulikakos’",
+        "Quantum",
+        "the New York University"
+      ],
+      "LOCATION": [
+        "Nanodrip"
+      ],
+      "DATE": [
+        "a few years ago",
+        "today"
+      ],
+      "MISC": [
+        "10.1038/ncomms12814",
+        "3D",
+        "first",
+        "second",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 6,
+      "first": 3,
+      "Poulikakos": 3,
+      "ETH Zurich": 2,
+      "En News": 1,
+      "Microscopy": 1,
+      "ETH Zurich / Martin Bergert": 1,
+      "today": 1,
+      "Dimos Poulikakos": 1,
+      "second": 1,
+      "two": 1,
+      "Bergert et al": 1,
+      "Nanodrip": 1,
+      "a few years ago": 1,
+      "Aldo Ferrari": 1,
+      "Poulikakos’": 1,
+      "Edoardo Mazza": 1,
+      "Olga Sorkine-Hornung": 1,
+      "Daniele Panozzo": 1,
+      "the New York University": 1
+    },
+    "total_entities": 40,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "cellular-test-of-strength.md",
+      "title": "En News Events/2016/09/cellular Test Of Strength",
+      "language": "en",
+      "source_path": "en_news_events/2016/09/cellular-test-of-strength.html"
+    },
+    "temporal": {
+      "publication_date": "2016-09",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Aldo Ferrari",
+        "Bergert M et al",
+        "Bergert et al",
+        "Daniele Panozzo",
+        "David Norris",
+        "Dimos Poulikakos",
+        "ETH Zurich / Martin Bergert",
+        "Edoardo Mazza",
+        "Ferrrari",
+        "Olga Sorkine-Hornung",
+        "Poulikakos"
+      ],
+      "people_with_roles": {
+        "Daniele Panozzo": [
+          "professor"
+        ],
+        "David Norris": [
+          "scientist",
+          "professor"
+        ],
+        "Dimos Poulikakos": [
+          "professor"
+        ],
+        "ETH Zurich / Martin Bergert": [
+          "scientist",
+          "researcher"
+        ],
+        "Edoardo Mazza": [
+          "scientist",
+          "researcher",
+          "professor"
+        ],
+        "Olga Sorkine-Hornung": [
+          "professor"
+        ],
+        "Poulikakos": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "physics",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10.1038/ncomms12814",
+        "first",
+        "second",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Edoardo Mazza",
+        "En News",
+        "Test Of",
+        "Strength Microscopy",
+        "Daniele Panozzo",
+        "New York",
+        "Bergert M",
+        "David Norris",
+        "Nature Communications",
+        "Dimos Poulikakos",
+        "ETH Zurich",
+        "Olga Sorkine",
+        "Aldo Ferrari",
+        "Martin Bergert"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Ferrari",
+        "Microscopy",
+        "Nature Communications",
+        "Politecnico di Milano",
+        "Poulikakos’",
+        "Quantum",
+        "the New York University"
+      ],
+      "locations": [
+        "Nanodrip"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "first",
+        "Poulikakos",
+        "ETH Zurich",
+        "En News",
+        "Microscopy",
+        "ETH Zurich / Martin Bergert",
+        "today",
+        "Dimos Poulikakos",
+        "second"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Regular pattern",
+          "More accurate and in 3D",
+          "Cooperation between of several research groups",
+          "More accurate and in 3D"
+        ],
+        "content_length": 5577
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2016",
+        "Ferrrari",
+        "Politecnico di Milano",
+        "Bergert M et al",
+        "Poulikakos",
+        "Bergert et al",
+        "Poulikakos’",
+        "Ferrari",
+        "Nature Communications",
+        "Dimos Poulikakos",
+        "Quantum",
+        "the New York University",
+        "Edoardo Mazza",
+        "Microscopy",
+        "En News",
+        "Olga Sorkine-Hornung",
+        "Daniele Panozzo",
+        "David Norris",
+        "ETH Zurich / Martin Bergert",
+        "ETH Zurich",
+        "Aldo Ferrari"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "computer_science",
+        "three",
+        "who",
+        "biology",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "10.1038/ncomms12814",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Daniele Panozzo_has_role_professor",
+        "David Norris_has_role_scientist",
+        "David Norris_has_role_professor",
+        "Dimos Poulikakos_has_role_professor",
+        "ETH Zurich / Martin Bergert_has_role_scientist",
+        "ETH Zurich / Martin Bergert_has_role_researcher",
+        "Edoardo Mazza_has_role_scientist",
+        "Edoardo Mazza_has_role_researcher",
+        "Edoardo Mazza_has_role_professor",
+        "Olga Sorkine-Hornung_has_role_professor",
+        "Poulikakos_has_role_researcher",
+        "Poulikakos_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

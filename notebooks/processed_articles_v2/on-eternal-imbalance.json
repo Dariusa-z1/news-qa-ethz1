@@ -1,0 +1,321 @@
+{
+  "filename": "on-eternal-imbalance.md",
+  "original_filename": "on-eternal-imbalance.html",
+  "source_path": "en_news_events/2021/07/on-eternal-imbalance.html",
+  "date": "2021-07",
+  "title": "On Eternal Imbalance",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A more distant influence",
+      "text": "If you put a bottle of beer in a big bathtub full of ice-cold water, it won’t be long before you can enjoy a cold beer. Physicists discovered how this works more than a hundred years ago. Heat exchange takes place through the glass bottle until equilibrium is reached.\n\nHowever, there are other systems, especially quantum systems, that don’t find equilibrium. They resemble a hypothetical beer bottle in a bath of ice-cold water that doesn’t always and inevitably cool to the temperature of the bath water, but rather reaches different states depending on its own initial temperature. Until now, such systems have puzzled physicists. But Nicolò Defenu, a postdoc at the ETH Zurich Institute for Theoretical Physics, has now found a way to elegantly explain this behaviour."
+    },
+    {
+      "heading": "A more distant influence",
+      "text": "Specifically, we are talking about systems in which the individual building blocks influence not only their immediate neighbours, but also objects further away. One example would be a galaxy: the gravitational force of their individual stars and planetary systems acts not only on the neighbouring celestial bodies, but far beyond that – albeit ever more weakly – on the other components of the galaxy.\n\nDefenu’s approach begins by simplifying the problem to a world with a single dimension. In it, there is a single quantum particle that can reside only in very specific locations along a line. This world resembles a board game like Ludo, where a little token hops from square to square. Suppose there is a game die whose sides are all marked “one” or “minus one”, and suppose the player whose token it is now rolls the die over and over again in succession. The token will hop to a neighbouring square, and from there it will either hop back or else on to the next square. And so on.\n\nThe question is, What happens if the player rolls the die an infinite number of times? If there are only a few squares in the game, the token will return to its starting point every now and then. However, it is impossible to predict exactly where it will be at any given time because the throws of the die are unknown."
+    },
+    {
+      "heading": "Back to square one",
+      "text": "It’s a similar situation with particles that are subject to the laws of quantum mechanics: there’s no way to know exactly where they are at any given time. However, it is possible to establish their whereabouts using probability distributions. Each distribution results from a different superposition of the probabilities for the individual locations and corresponds to a particular energy state of the particle. It turns out that the number of stable energy states coincides with the number of degrees of freedom of the system and thus corresponds exactly to the number of allowed locations. The important point is that all the stable probability distributions are non-zero at the starting point. So at some point, the token returns to its starting square.\n\nThe more squares there are, the less often the token will return to its starting point; eventually, with an infinite number of possible squares, it will never return. For the quantum particle, this means there are an infinite number of ways in which the probabilities of the individual locations can be combined to form distributions. Thus, it can no longer occupy only certain discrete energy states, but all possible ones in a continuous spectrum.\n\nNone of this is new knowledge. There are, however, variants of the game or physical systems where the die can also contain numbers larger than one and smaller than minus one, i.e. the steps allowed per move can be larger – to be precise, even infinitely large. This fundamentally changes the situation, as Defenu has now been able to show: in these systems, the energy spectrum always remains discrete, even when there are infinite squares. This means that from time to time, the particle will return to its starting point."
+    },
+    {
+      "heading": "Peculiar phenomena",
+      "text": "This new theory explains what scientists have already observed many times in experiments: systems in which long-range interactions occur do not reach a stable equilibrium, but rather a meta-stable state in which they always return to their initial position. In the case of galaxies, this is one reason they develop spiral arms rather than being uniform clouds. The density of stars is higher inside these arms than outside.\n\nAn example of quantum systems that can be described with Defenu’s theory are ions, which are charged atoms trapped in electric fields. Using such ion traps to build quantum computers is currently one of the largest research projects worldwide. However, for these computers to really deliver a step change in terms of computational power, they will need a very large number of simultaneously trapped ions – and that is exactly the point at which the new theory becomes interesting. “In systems with a hundred or more ions, you would see peculiar effects that we can now explain,” says Defenu, who is a member of ETH Professor Gian Michele Graf’s group. His colleagues in experimental physics are getting closer every day to the goal of being able to realise such formations. And once they’ve got there, it might be worth their while to have a cold beer with Defenu.\n\nDefenu N: Metastability and discrete spectrum of long-range systems. Proceedings of the National Academy of Sciences, July 26 2021: doi: 10.1073/pnas.2101785118"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "more than a hundred years ago",
+        "label": "DATE",
+        "start": 157,
+        "end": 186
+      },
+      {
+        "text": "Nicolò Defenu",
+        "label": "PERSON",
+        "start": 638,
+        "end": 651
+      },
+      {
+        "text": "the ETH Zurich Institute for Theoretical Physics",
+        "label": "ORG",
+        "start": 666,
+        "end": 714
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 161,
+        "end": 164
+      },
+      {
+        "text": "Ludo",
+        "label": "PERSON",
+        "start": 634,
+        "end": 638
+      },
+      {
+        "text": "non-zero",
+        "label": "NORP",
+        "start": 666,
+        "end": 674
+      },
+      {
+        "text": "Defenu",
+        "label": "PERSON",
+        "start": 1514,
+        "end": 1520
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 291,
+        "end": 294
+      },
+      {
+        "text": "Defenu",
+        "label": "PERSON",
+        "start": 481,
+        "end": 487
+      },
+      {
+        "text": "a hundred",
+        "label": "CARDINAL",
+        "start": 922,
+        "end": 931
+      },
+      {
+        "text": "Defenu",
+        "label": "PERSON",
+        "start": 1008,
+        "end": 1014
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1035,
+        "end": 1038
+      },
+      {
+        "text": "Gian Michele Graf’s",
+        "label": "PERSON",
+        "start": 1049,
+        "end": 1068
+      },
+      {
+        "text": "every day",
+        "label": "DATE",
+        "start": 1134,
+        "end": 1143
+      },
+      {
+        "text": "Defenu",
+        "label": "PERSON",
+        "start": 1281,
+        "end": 1287
+      },
+      {
+        "text": "the National Academy of Sciences",
+        "label": "ORG",
+        "start": 1373,
+        "end": 1405
+      },
+      {
+        "text": "July 26 2021",
+        "label": "DATE",
+        "start": 1407,
+        "end": 1419
+      },
+      {
+        "text": "10.1073/pnas.2101785118",
+        "label": "QUANTITY",
+        "start": 1426,
+        "end": 1449
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Defenu",
+        "Gian Michele Graf’s",
+        "Ludo",
+        "Nicolò Defenu"
+      ],
+      "ORG": [
+        "ETH",
+        "the ETH Zurich Institute for Theoretical Physics",
+        "the National Academy of Sciences"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "July 26 2021",
+        "every day",
+        "more than a hundred years ago"
+      ],
+      "MISC": [
+        "10.1073/pnas.2101785118",
+        "One",
+        "a hundred",
+        "non-zero",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "Defenu": 4,
+      "more than a hundred years ago": 1,
+      "Nicolò Defenu": 1,
+      "the ETH Zurich Institute for Theoretical Physics": 1,
+      "One": 1,
+      "Ludo": 1,
+      "non-zero": 1,
+      "one": 1,
+      "a hundred": 1,
+      "ETH": 1,
+      "Gian Michele Graf’s": 1,
+      "every day": 1,
+      "the National Academy of Sciences": 1,
+      "July 26 2021": 1,
+      "10.1073/pnas.2101785118": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "on-eternal-imbalance.md",
+      "title": "En News Events/2021/07/on Eternal Imbalance",
+      "language": "en",
+      "source_path": "en_news_events/2021/07/on-eternal-imbalance.html"
+    },
+    "temporal": {
+      "publication_date": "2021-07",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Defenu",
+        "Gian Michele Graf’s",
+        "Ludo",
+        "Nicolò Defenu"
+      ],
+      "people_with_roles": {
+        "Defenu": [
+          "professor"
+        ],
+        "Gian Michele Graf’s": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1073/pnas.2101785118",
+        "a hundred",
+        "non-zero"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Gian Michele",
+        "Defenu N",
+        "En News",
+        "National Academy",
+        "ETH Professor",
+        "Eternal Imbalance",
+        "ETH Zurich",
+        "Theoretical Physics"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Theoretical Physics"
+      ],
+      "institutions": [
+        "ETH",
+        "the ETH Zurich Institute for Theoretical Physics",
+        "the National Academy of Sciences"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Defenu",
+        "more than a hundred years ago",
+        "Nicolò Defenu",
+        "the ETH Zurich Institute for Theoretical Physics",
+        "One",
+        "Ludo",
+        "non-zero",
+        "one",
+        "a hundred",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "A more distant influence",
+          "A more distant influence",
+          "Back to square one",
+          "Peculiar phenomena"
+        ],
+        "content_length": 5310
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Defenu",
+        "Nicolò Defenu",
+        "the National Academy of Sciences",
+        "Gian Michele Graf’s",
+        "Ludo",
+        "2021",
+        "the ETH Zurich Institute for Theoretical Physics"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "who",
+        "a hundred",
+        "when",
+        "what",
+        "how",
+        "why",
+        "non-zero",
+        "where",
+        "10.1073/pnas.2101785118"
+      ],
+      "graph_relations": [
+        "Defenu_has_role_professor",
+        "Gian Michele Graf’s_has_role_Professor",
+        "Gian Michele Graf’s_has_role_professor",
+        "research_domain_technology",
+        "research_domain_physics",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

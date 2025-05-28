@@ -1,0 +1,125 @@
+{
+  "filename": "open-access-diskutieren-sie-mit.md",
+  "original_filename": "open-access-diskutieren-sie-mit.html",
+  "source_path": "de_internal/2014/10/open-access-diskutieren-sie-mit.html",
+  "date": "2014-10",
+  "title": "Open Access Diskutieren Sie Mit",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Veranstaltungen finden im Rahmen der externe Seite Open Access Week vom 20. bis 26. Oktober statt. Die ETH-Bibliothek beteiligt sich auch dieses Jahr wieder an dieser weltweiten Aktionswoche."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/10/open Access",
+        "label": "LOC",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "Open Access Week",
+        "label": "MISC",
+        "start": 55,
+        "end": 71
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 107,
+        "end": 121
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2014/10/open Access"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "Open Access Week"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2014/10/open Access": 1,
+      "Open Access Week": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "open-access-diskutieren-sie-mit.md",
+      "title": "De Internal/2014/10/open Access Diskutieren Sie mit",
+      "language": "de",
+      "source_path": "de_internal/2014/10/open-access-diskutieren-sie-mit.html"
+    },
+    "temporal": {
+      "publication_date": "2014-10",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "Open Access Week"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Seite Open",
+        "De Internal",
+        "Access Week",
+        "Die ETH",
+        "Die Veranstaltungen",
+        "Access Diskutieren"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2014/10/open Access"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2014/10/open Access",
+        "Open Access Week",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 247
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2014"
+      ],
+      "semantic_concepts": [
+        "Open Access Week",
+        "ETH-Bibliothek"
+      ],
+      "graph_relations": []
+    }
+  }
+}

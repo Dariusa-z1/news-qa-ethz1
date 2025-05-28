@@ -1,0 +1,247 @@
+{
+  "filename": "wanted-your-favourite-biscuits-and-pastries-for-the-festive-season.md",
+  "original_filename": "wanted-your-favourite-biscuits-and-pastries-for-the-festive-season.html",
+  "source_path": "en_internal/2021/10/wanted-your-favourite-biscuits-and-pastries-for-the-festive-season.html",
+  "date": "2021-10",
+  "title": "Wanted Your Favourite Biscuits And Pastries For The Festive Season",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "People from more than 120 nations work and study at ETH. No matter how different their cultures are, a lot of them have one thing in common: baking rituals at the turn of the year are a tradition in a lot of countries. Whether spice biscuits from Greece, gingerbread cookies from the USA, lussekatter yeast buns from Sweden, Jewish lekach New Year's cake or our local Brunsli – tell us your favourite baking recipe from your country and share it with the ETH community.\n\nSend the recipe along with a short explanation of what you associate with the biscuit or pastry and why you like it so much to by Friday, 30 October. We will publish a selection of them in the December issue of the ETH staff magazine life ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Festive Season",
+        "label": "ORG",
+        "start": 68,
+        "end": 86
+      },
+      {
+        "text": "more than 120",
+        "label": "CARDINAL",
+        "start": 12,
+        "end": 25
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 52,
+        "end": 55
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 120,
+        "end": 123
+      },
+      {
+        "text": "the turn of the year",
+        "label": "DATE",
+        "start": 159,
+        "end": 179
+      },
+      {
+        "text": "Greece",
+        "label": "GPE",
+        "start": 247,
+        "end": 253
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 284,
+        "end": 287
+      },
+      {
+        "text": "Sweden",
+        "label": "GPE",
+        "start": 317,
+        "end": 323
+      },
+      {
+        "text": "Jewish",
+        "label": "NORP",
+        "start": 325,
+        "end": 331
+      },
+      {
+        "text": "New Year's",
+        "label": "EVENT",
+        "start": 339,
+        "end": 349
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 455,
+        "end": 458
+      },
+      {
+        "text": "Friday",
+        "label": "DATE",
+        "start": 600,
+        "end": 606
+      },
+      {
+        "text": "October",
+        "label": "DATE",
+        "start": 611,
+        "end": 618
+      },
+      {
+        "text": "December",
+        "label": "DATE",
+        "start": 663,
+        "end": 671
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 685,
+        "end": 688
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "The Festive Season"
+      ],
+      "LOCATION": [
+        "Greece",
+        "Sweden",
+        "USA"
+      ],
+      "DATE": [
+        "December",
+        "Friday",
+        "October",
+        "the turn of the year"
+      ],
+      "MISC": [
+        "Jewish",
+        "New Year's",
+        "more than 120",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "The Festive Season": 1,
+      "more than 120": 1,
+      "one": 1,
+      "the turn of the year": 1,
+      "Greece": 1,
+      "USA": 1,
+      "Sweden": 1,
+      "Jewish": 1,
+      "New Year's": 1,
+      "Friday": 1,
+      "October": 1,
+      "December": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "wanted-your-favourite-biscuits-and-pastries-for-the-festive-season.md",
+      "title": "En Internal/2021/10/wanted Your Favourite Biscuits And Pastries For The Festive Season",
+      "language": "en",
+      "source_path": "en_internal/2021/10/wanted-your-favourite-biscuits-and-pastries-for-the-festive-season.html"
+    },
+    "temporal": {
+      "publication_date": "2021-10",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Jewish",
+        "New Year's",
+        "more than 120"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "New Year",
+        "Pastries For",
+        "The Festive",
+        "En Internal",
+        "Season People",
+        "Biscuits And",
+        "Your Favourite"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "The Festive Season"
+      ],
+      "locations": [
+        "Greece",
+        "Sweden",
+        "USA"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "The Festive Season",
+        "more than 120",
+        "one",
+        "the turn of the year",
+        "Greece",
+        "USA",
+        "Sweden",
+        "Jewish",
+        "New Year's"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 798
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2021",
+        "The Festive Season"
+      ],
+      "semantic_concepts": [
+        "Jewish",
+        "why",
+        "what",
+        "how",
+        "more than 120",
+        "when",
+        "where",
+        "New Year's"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "filename": "wanted-eth-employees-from-other-continents.md",
+  "original_filename": "wanted-eth-employees-from-other-continents.html",
+  "source_path": "en_internal/2024/02/wanted-eth-employees-from-other-continents.html",
+  "date": "2024-02",
+  "title": "Wanted Eth Employees From Other Continents",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Promoting an open organizational culture",
+      "text": "Whether it's how openly and directly you communicate or when unpunctuality begins - our cultural background shapes our behavior and how we perceive the behavior of others.\n\nThis is why cultural diversity can sometimes lead to difficulties - but at the same time to more creativity, more unconventional ideas and better solutions. The prerequisite for this is an organizational culture in which cultural differences are perceived and used as an opportunity."
+    },
+    {
+      "heading": "Promoting an open organizational culture",
+      "text": "We want to promote this with the next issue of \"life\" magazine and portray people who come from very different national cultures. We want to show how they perceive the culture in Switzerland and at ETH, how it differs from that in their home country, what prejudices they encounter, what nice moments and anecdotes they experience in this context and much more.\n\nDid you grow up on another continent and want to participate? Then please contact by March 4."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Eth Employees From",
+        "label": "ORG",
+        "start": 27,
+        "end": 45
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 179,
+        "end": 190
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 198,
+        "end": 201
+      },
+      {
+        "text": "March 4",
+        "label": "DATE",
+        "start": 447,
+        "end": 454
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "Eth Employees From"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [
+        "March 4"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Eth Employees From": 1,
+      "Switzerland": 1,
+      "ETH": 1,
+      "March 4": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "wanted-eth-employees-from-other-continents.md",
+      "title": "En Internal/2024/02/wanted Eth Employees From Other Continents",
+      "language": "en",
+      "source_path": "en_internal/2024/02/wanted-eth-employees-from-other-continents.html"
+    },
+    "temporal": {
+      "publication_date": "2024-02",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Continents Whether",
+        "From Other",
+        "Eth Employees",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Eth Employees From"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Eth Employees From",
+        "Switzerland",
+        "ETH",
+        "March 4"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Promoting an open organizational culture",
+          "Promoting an open organizational culture"
+        ],
+        "content_length": 976
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "ETH",
+        "Eth Employees From",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "who",
+        "what",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

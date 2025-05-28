@@ -1,0 +1,241 @@
+{
+  "filename": "klare-wege-zum-ziel.md",
+  "original_filename": "klare-wege-zum-ziel.html",
+  "source_path": "de_news_events/2013/10/klare-wege-zum-ziel.html",
+  "date": "2013-10",
+  "title": "Klare Wege Zum Ziel",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Neue Signaletik",
+      "text": "Der Standort Hönggerberg dient nicht nur der Forschung und der Lehre, sondern ist auch ein Campus, der durch Vorträge und Führungen Jahr für Jahr Tausende von Besucherinnen und Besuchern anzieht. Mit dem Bau von neuen Büro- und Forschungsgebäuden und zwei neuen Studierendenwohnheimen wird es immer wichtiger, dass sich Mitarbeitende, Studierende und Besucher einfach und rasch orientieren können. Während ETH-Angehörige sich nach kurzer Zeit mit den bestehenden Gebäudekürzeln, wie HIT, HXE oder HIL auskennen, können sich Gäste, die oft nur für eine Veranstaltung kommen, nur schwer orientieren."
+    },
+    {
+      "heading": "Neue Signaletik",
+      "text": "Dies ändert sich nun. Ab Dezember 2013 führt die ETH auf dem Hönggerberg ein neues Leitsystem ein. Konzepte dieser Art werden als Signaletik bezeichnet. Auf Strassen und Plätzen bieten dann 90 Stelen eine übersichtliche Orientierung. Mit der Benennung von Strassen und Plätzen ändern sich auch die Gebäude- und Anlieferadressen. Dies hat Auswirkungen von einzelnen Postadressen über die Adressen auf der Visitenkarte bis hin zur Anlieferung.\n\nWas sich wie ändert, welche Auswirkungen dies auf Adressen und Dokumente hat und wie lange die bisherigen Unterlagen noch gelten, erfahren Sie an einer Informationsveranstaltung am 18. November 2013, von 13:30 bis 14.30 Uhr im Gebäude HPV, Raum G 4 .\n\nBitte melden Sie sich bis zum 11. November 2013 unter der Adresse an. Neben Informationen erhalten Sie dort Unterlagen zum neuen Konzept."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 13,
+        "end": 24
+      },
+      {
+        "text": "Führungen Jahr für Jahr Tausende von Besucherinnen und Besuchern",
+        "label": "MISC",
+        "start": 122,
+        "end": 186
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 406,
+        "end": 420
+      },
+      {
+        "text": "HIT",
+        "label": "ORG",
+        "start": 483,
+        "end": 486
+      },
+      {
+        "text": "HXE",
+        "label": "ORG",
+        "start": 488,
+        "end": 491
+      },
+      {
+        "text": "HIL",
+        "label": "ORG",
+        "start": 497,
+        "end": 500
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 49,
+        "end": 52
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 61,
+        "end": 72
+      },
+      {
+        "text": "Strassen",
+        "label": "LOC",
+        "start": 157,
+        "end": 165
+      },
+      {
+        "text": "Plätzen",
+        "label": "LOC",
+        "start": 170,
+        "end": 177
+      },
+      {
+        "text": "Strassen",
+        "label": "LOC",
+        "start": 256,
+        "end": 264
+      },
+      {
+        "text": "Plätzen",
+        "label": "LOC",
+        "start": 269,
+        "end": 276
+      },
+      {
+        "text": "HPV",
+        "label": "LOC",
+        "start": 677,
+        "end": 680
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News"
+      ],
+      "ORG": [
+        "ETH",
+        "HIL",
+        "HIT",
+        "HXE"
+      ],
+      "LOCATION": [
+        "HPV",
+        "Hönggerberg",
+        "Plätzen",
+        "Strassen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige",
+        "Führungen Jahr für Jahr Tausende von Besucherinnen und Besuchern"
+      ]
+    },
+    "entity_counts": {
+      "Hönggerberg": 2,
+      "Strassen": 2,
+      "Plätzen": 2,
+      "De News": 1,
+      "Führungen Jahr für Jahr Tausende von Besucherinnen und Besuchern": 1,
+      "ETH-Angehörige": 1,
+      "HIT": 1,
+      "HXE": 1,
+      "HIL": 1,
+      "ETH": 1,
+      "HPV": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "klare-wege-zum-ziel.md",
+      "title": "De News Events/2013/10/klare Wege Zum Ziel",
+      "language": "de",
+      "source_path": "de_news_events/2013/10/klare-wege-zum-ziel.html"
+    },
+    "temporal": {
+      "publication_date": "2013-10",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Angehörige",
+        "Führungen Jahr für Jahr Tausende von Besucherinnen und Besuchern"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Auf Strassen",
+        "Ab Dezember",
+        "Jahr Tausende",
+        "Ziel Der",
+        "De News",
+        "Neben Informationen",
+        "Wege Zum",
+        "Raum G"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "HIL",
+        "HIT",
+        "HXE"
+      ],
+      "locations": [
+        "HPV",
+        "Hönggerberg",
+        "Plätzen",
+        "Strassen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Hönggerberg",
+        "Strassen",
+        "Plätzen",
+        "De News",
+        "Führungen Jahr für Jahr Tausende von Besucherinnen und Besuchern",
+        "ETH-Angehörige",
+        "HIT",
+        "HXE",
+        "HIL",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Neue Signaletik",
+          "Neue Signaletik"
+        ],
+        "content_length": 1473
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2013",
+        "EU",
+        "De News",
+        "HIT",
+        "HIL",
+        "HXE"
+      ],
+      "semantic_concepts": [
+        "ETH-Angehörige",
+        "Führungen Jahr für Jahr Tausende von Besucherinnen und Besuchern"
+      ],
+      "graph_relations": []
+    }
+  }
+}

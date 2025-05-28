@@ -1,0 +1,295 @@
+{
+  "filename": "scientifica-2015-was-die-welt-erhellt.md",
+  "original_filename": "scientifica-2015-was-die-welt-erhellt.html",
+  "source_path": "en_internal/2015/07/scientifica-2015-was-die-welt-erhellt.html",
+  "date": "2015-07",
+  "title": "Scientifica 2015 Was Die Welt Erhellt",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Scientifica 2015 on 5 and 6 September 2015",
+      "text": "2015 is the International Year of Light. Inspired by this theme, Scientifica 2015 will focus on light and enlightenment from 5 to 6 September.\n\nWithout light there would be no imaging, no high-speed internet, no tattoo removal, no visual recognition – and no life. Researchers will be presenting their projects in short talks and at more than 60 exhibition booths. Laser experiments, a chemistry show and a flying robot show, magic physics, science slams and family-friendly activities round out the varied programme.\n\nThe exhibition kicks off with a private viewing from 6 to 9 pm on Friday, 4 September in the main buildings of ETH Zurich and the University of Zurich. Current staff and students of both universities as well as alumni and friends are cordially invited to this special preview.\n\nBe inspired by science! The programme (in German) is now available on the Scientifica website, with details of all the events in chronological order: www.scientifica.ch."
+    },
+    {
+      "heading": "Scientifica 2015 on 5 and 6 September 2015",
+      "text": "ETH Zurich main hall\n\nAtrium and foyer of the University of Zurich\n\nCentre for Dentistry\n\nExhibition opening times\n\nSaturday: 1 – 7 pm Sunday: 11 am – 5 pm"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Welt Erhellt",
+        "label": "PERSON",
+        "start": 45,
+        "end": 57
+      },
+      {
+        "text": "the International Year of Light",
+        "label": "EVENT",
+        "start": 8,
+        "end": 39
+      },
+      {
+        "text": "Scientifica 2015",
+        "label": "DATE",
+        "start": 65,
+        "end": 81
+      },
+      {
+        "text": "5 to 6 September",
+        "label": "DATE",
+        "start": 125,
+        "end": 141
+      },
+      {
+        "text": "more than 60",
+        "label": "CARDINAL",
+        "start": 332,
+        "end": 344
+      },
+      {
+        "text": "6 to 9 pm",
+        "label": "TIME",
+        "start": 570,
+        "end": 579
+      },
+      {
+        "text": "Friday",
+        "label": "DATE",
+        "start": 583,
+        "end": 589
+      },
+      {
+        "text": "4 September",
+        "label": "DATE",
+        "start": 591,
+        "end": 602
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 628,
+        "end": 638
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 643,
+        "end": 667
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 836,
+        "end": 842
+      },
+      {
+        "text": "Scientifica",
+        "label": "LOC",
+        "start": 868,
+        "end": 879
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Atrium",
+        "label": "NORP",
+        "start": 21,
+        "end": 27
+      },
+      {
+        "text": "the University of Zurich Centre for Dentistry Exhibition",
+        "label": "ORG",
+        "start": 41,
+        "end": 97
+      },
+      {
+        "text": "Saturday",
+        "label": "DATE",
+        "start": 112,
+        "end": 120
+      },
+      {
+        "text": "Sunday",
+        "label": "DATE",
+        "start": 131,
+        "end": 137
+      },
+      {
+        "text": "11 am – 5 pm",
+        "label": "QUANTITY",
+        "start": 139,
+        "end": 151
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Welt Erhellt"
+      ],
+      "ORG": [
+        "the University of Zurich",
+        "the University of Zurich Centre for Dentistry Exhibition"
+      ],
+      "LOCATION": [
+        "Scientifica"
+      ],
+      "DATE": [
+        "4 September",
+        "5 to 6 September",
+        "6 to 9 pm",
+        "Friday",
+        "Saturday",
+        "Scientifica 2015",
+        "Sunday"
+      ],
+      "MISC": [
+        "11 am – 5 pm",
+        "Atrium",
+        "German",
+        "more than 60",
+        "the International Year of Light"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Welt Erhellt": 1,
+      "the International Year of Light": 1,
+      "Scientifica 2015": 1,
+      "5 to 6 September": 1,
+      "more than 60": 1,
+      "6 to 9 pm": 1,
+      "Friday": 1,
+      "4 September": 1,
+      "the University of Zurich": 1,
+      "German": 1,
+      "Scientifica": 1,
+      "Atrium": 1,
+      "the University of Zurich Centre for Dentistry Exhibition": 1,
+      "Saturday": 1,
+      "Sunday": 1,
+      "11 am – 5 pm": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "scientifica-2015-was-die-welt-erhellt.md",
+      "title": "En Internal/2015/07/scientifica 2015 Was die Welt Erhellt",
+      "language": "en",
+      "source_path": "en_internal/2015/07/scientifica-2015-was-die-welt-erhellt.html"
+    },
+    "temporal": {
+      "publication_date": "2015-07",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Welt Erhellt"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher",
+        "alumni",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "11 am – 5 pm",
+        "Atrium",
+        "German",
+        "more than 60",
+        "the International Year of Light"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Zurich",
+        "International Year",
+        "Welt Erhellt",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "the University of Zurich",
+        "the University of Zurich Centre for Dentistry Exhibition"
+      ],
+      "locations": [
+        "Scientifica"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Welt Erhellt",
+        "the International Year of Light",
+        "Scientifica 2015",
+        "5 to 6 September",
+        "more than 60",
+        "6 to 9 pm",
+        "Friday",
+        "4 September",
+        "the University of Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Scientifica 2015 on 5 and 6 September 2015",
+          "Scientifica 2015 on 5 and 6 September 2015"
+        ],
+        "content_length": 1180
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "the University of Zurich",
+        "the University of Zurich Centre for Dentistry Exhibition",
+        "ETH Zurich",
+        "Welt Erhellt"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Atrium",
+        "who",
+        "the International Year of Light",
+        "what",
+        "11 am – 5 pm",
+        "German",
+        "how",
+        "when",
+        "where",
+        "more than 60"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

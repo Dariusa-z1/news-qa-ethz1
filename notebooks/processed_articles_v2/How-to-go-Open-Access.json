@@ -1,0 +1,179 @@
+{
+  "filename": "How-to-go-Open-Access.md",
+  "original_filename": "how-to-go-open-access.html",
+  "source_path": "en_internal/2022/11/how-to-go-open-access.html",
+  "date": "2022-11",
+  "title": "How To Go Open Access",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Learn about all the important key points regarding open-access publishing, publishing contracts, author’s rights and publishing licenses and what new funding opportunities ETH Zurich offers in 2022. Open-access requirements of research funding bodies and especially the new SNSF rules for 2023 will be topics of the online course.\n\nThe online course will take place on Thursday, 24 November 2022 from 10.30–11.30 and is aimed at members of ETH Zurich, especially doctoral students, postdocs, and scientific and administrative staff. We are looking forward to your registration!\n\nThe ETH Library advises ETH Zurich researchers regarding\n\nMore than just data – Benefit from know-how\n\n#KnowHow – The ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 172,
+        "end": 182
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE",
+        "start": 368,
+        "end": 376
+      },
+      {
+        "text": "24 November 2022",
+        "label": "DATE",
+        "start": 378,
+        "end": 394
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 439,
+        "end": 449
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 581,
+        "end": 592
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 601,
+        "end": 611
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH Library"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "24 November 2022",
+        "Thursday"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "Thursday": 1,
+      "24 November 2022": 1,
+      "ETH Library": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "How-to-go-Open-Access.md",
+      "title": "En Internal/2022/11/how To Go Open Access",
+      "language": "en",
+      "source_path": "en_internal/2022/11/how-to-go-open-access.html"
+    },
+    "temporal": {
+      "publication_date": "2022-11",
+      "mentioned_years": [
+        "2022",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "funding"
+      ],
+      "projects": [
+        "To Go",
+        "En Internal",
+        "ETH Zurich",
+        "Open Access",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Thursday",
+        "24 November 2022",
+        "ETH Library"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 800
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Library",
+        "2022",
+        "funding",
+        "ETH Zurich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "how",
+        "engineering",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

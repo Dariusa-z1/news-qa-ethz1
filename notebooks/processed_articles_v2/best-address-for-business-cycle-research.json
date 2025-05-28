@@ -1,0 +1,139 @@
+{
+  "filename": "best-address-for-business-cycle-research.md",
+  "original_filename": "best-address-for-business-cycle-research.html",
+  "source_path": "en_news_events/2013/09/best-address-for-business-cycle-research.html",
+  "date": "2013-09",
+  "title": "Best Address For Business Cycle Research",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "This article is published in German only.\n\n«Beste Adresse für Konjunkturforschung»"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Address For Business Cycle Research",
+        "label": "ORG",
+        "start": 28,
+        "end": 63
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 29,
+        "end": 35
+      },
+      {
+        "text": "Beste Adresse",
+        "label": "ORG",
+        "start": 43,
+        "end": 56
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Address For Business Cycle Research",
+        "Beste Adresse",
+        "En News"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "En News": 1,
+      "Address For Business Cycle Research": 1,
+      "German": 1,
+      "Beste Adresse": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "best-address-for-business-cycle-research.md",
+      "title": "En News Events/2013/09/best Address For Business Cycle Research",
+      "language": "en",
+      "source_path": "en_news_events/2013/09/best-address-for-business-cycle-research.html"
+    },
+    "temporal": {
+      "publication_date": "2013-09",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "German"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Business Cycle",
+        "En News",
+        "Address For",
+        "Beste Adresse",
+        "Research This"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Address For Business Cycle Research",
+        "Beste Adresse",
+        "En News"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "En News",
+        "Address For Business Cycle Research",
+        "German",
+        "Beste Adresse"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 146
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2013",
+        "Address For Business Cycle Research",
+        "En News",
+        "Beste Adresse"
+      ],
+      "semantic_concepts": [
+        "what",
+        "German"
+      ],
+      "graph_relations": []
+    }
+  }
+}

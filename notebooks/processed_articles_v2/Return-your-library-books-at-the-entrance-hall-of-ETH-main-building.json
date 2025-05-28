@@ -1,0 +1,158 @@
+{
+  "filename": "Return-your-library-books-at-the-entrance-hall-of-ETH-main-building.md",
+  "original_filename": "Return-your-library-books-at-the-entrance-hall-of-ETH-main-building.html",
+  "source_path": "en_internal/2014/09/Return-your-library-books-at-the-entrance-hall-of-ETH-main-building.html",
+  "date": "2014-09",
+  "title": "Return Your Library Books At The Entrance Hall Of Eth Main Building",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Documents from IDS and university libraries cannot be returned. The books are checked in at ETH-Bibliothek twice daily.\n\nThe pilot project lasts from 1 September 2014 to 28 February 2015."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Entrance Hall Of Eth Main Building",
+        "label": "FAC",
+        "start": 49,
+        "end": 87
+      },
+      {
+        "text": "IDS",
+        "label": "ORG",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 92,
+        "end": 106
+      },
+      {
+        "text": "September 2014",
+        "label": "DATE",
+        "start": 151,
+        "end": 165
+      },
+      {
+        "text": "February 2015",
+        "label": "DATE",
+        "start": 172,
+        "end": 185
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH-Bibliothek",
+        "IDS"
+      ],
+      "LOCATION": [
+        "The Entrance Hall Of Eth Main Building"
+      ],
+      "DATE": [
+        "February 2015",
+        "September 2014"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "The Entrance Hall Of Eth Main Building": 1,
+      "IDS": 1,
+      "ETH-Bibliothek": 1,
+      "September 2014": 1,
+      "February 2015": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "Return-your-library-books-at-the-entrance-hall-of-ETH-main-building.md",
+      "title": "En Internal/2014/09/return Your Library Books At The Entrance Hall Of Eth Main Building",
+      "language": "en",
+      "source_path": "en_internal/2014/09/Return-your-library-books-at-the-entrance-hall-of-ETH-main-building.html"
+    },
+    "temporal": {
+      "publication_date": "2014-09",
+      "mentioned_years": [
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Hall Of",
+        "Your Library",
+        "En Internal",
+        "Eth Main",
+        "Building Documents",
+        "Books At",
+        "The Entrance"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek",
+        "IDS"
+      ],
+      "locations": [
+        "The Entrance Hall Of Eth Main Building"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "The Entrance Hall Of Eth Main Building",
+        "IDS",
+        "ETH-Bibliothek",
+        "September 2014",
+        "February 2015"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 275
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2014",
+        "ETH-Bibliothek",
+        "2015",
+        "IDS"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

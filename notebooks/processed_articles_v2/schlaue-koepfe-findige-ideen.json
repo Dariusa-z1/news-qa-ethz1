@@ -1,0 +1,238 @@
+{
+  "filename": "schlaue-koepfe-findige-ideen.md",
+  "original_filename": "schlaue-koepfe-findige-ideen.html",
+  "source_path": "en_internal/2014/11/schlaue-koepfe-findige-ideen.html",
+  "date": "2014-11",
+  "title": "Schlaue Koepfe Findige Ideen",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The publication presents a total of 60 personalities from the worlds of science, technology, culture and society. Twelve of them had held professorships at ETH Zurich, while one was once a student here. Most of them would not have made it into the book at all had it not been for their groundbreaking work at ETH:\n\n«Zürcher Pioniergeist» (\"Zurich's pioneering spirit\")\n\nThis book presents 60 pioneering personalities who came from or lived and worked in the canton of Zurich after 1900: men and women whose ideas and initiative broke new ground in technology, science, society and culture.\n\nEditor: Beat Glogger\n\nPublisher: Lehrmittelverlag Zürich\n\nwww.zuercher-pioniergeist.ch\n\nWe have three copies of “Zürcher Pioniergeist” to give away. To take part in the prize draw, all you need to do is enter your name here .\n\nThe competition will run until 4.00 p.m. on Friday 7 November 2014. The winners will be notified by e-mail.\n\nThe result of the draw is final."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Koepfe Findige Ideen",
+        "label": "PERSON",
+        "start": 28,
+        "end": 48
+      },
+      {
+        "text": "Twelve",
+        "label": "CARDINAL",
+        "start": 114,
+        "end": 120
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 309,
+        "end": 312
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 339,
+        "end": 345
+      },
+      {
+        "text": "canton",
+        "label": "GPE",
+        "start": 456,
+        "end": 462
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 466,
+        "end": 472
+      },
+      {
+        "text": "Beat Glogger",
+        "label": "ORG",
+        "start": 596,
+        "end": 608
+      },
+      {
+        "text": "Lehrmittelverlag Zürich",
+        "label": "PERSON",
+        "start": 620,
+        "end": 643
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 681,
+        "end": 686
+      },
+      {
+        "text": "4.00 p.m.",
+        "label": "TIME",
+        "start": 842,
+        "end": 851
+      },
+      {
+        "text": "Friday 7 November 2014",
+        "label": "DATE",
+        "start": 855,
+        "end": 877
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Koepfe Findige Ideen",
+        "Lehrmittelverlag Zürich"
+      ],
+      "ORG": [
+        "Beat Glogger",
+        "ETH",
+        "ETH Zurich"
+      ],
+      "LOCATION": [
+        "Zurich",
+        "canton"
+      ],
+      "DATE": [
+        "4.00 p.m.",
+        "Friday 7 November 2014"
+      ],
+      "MISC": [
+        "Twelve",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Zurich": 2,
+      "Koepfe Findige Ideen": 1,
+      "Twelve": 1,
+      "ETH Zurich": 1,
+      "ETH": 1,
+      "canton": 1,
+      "Beat Glogger": 1,
+      "Lehrmittelverlag Zürich": 1,
+      "three": 1,
+      "4.00 p.m.": 1,
+      "Friday 7 November 2014": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "schlaue-koepfe-findige-ideen.md",
+      "title": "En Internal/2014/11/schlaue Koepfe Findige Ideen",
+      "language": "en",
+      "source_path": "en_internal/2014/11/schlaue-koepfe-findige-ideen.html"
+    },
+    "temporal": {
+      "publication_date": "2014-11",
+      "mentioned_years": [
+        "1900",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Koepfe Findige Ideen",
+        "Lehrmittelverlag Zürich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Twelve",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Koepfe Findige",
+        "En Internal",
+        "Ideen The",
+        "ETH Zurich",
+        "Beat Glogger"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Beat Glogger",
+        "ETH",
+        "ETH Zurich"
+      ],
+      "locations": [
+        "Zurich",
+        "canton"
+      ],
+      "programs": [
+        "initiative",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "Zurich",
+        "Koepfe Findige Ideen",
+        "Twelve",
+        "ETH Zurich",
+        "ETH",
+        "canton",
+        "Beat Glogger",
+        "Lehrmittelverlag Zürich",
+        "three",
+        "4.00 p.m."
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1008
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Lehrmittelverlag Zürich",
+        "1900",
+        "Koepfe Findige Ideen",
+        "ETH Zurich",
+        "Beat Glogger",
+        "ERC",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "who",
+        "Twelve",
+        "what"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

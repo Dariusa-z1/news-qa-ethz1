@@ -1,0 +1,386 @@
+{
+  "filename": "battery-with-a-twist.md",
+  "original_filename": "battery-with-a-twist.html",
+  "source_path": "en_news_events/2019/09/battery-with-a-twist.html",
+  "date": "2019-09",
+  "title": "Battery With A Twist",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Systematically employing bendable components",
+      "text": "Today’s electronics industry is increasingly focusing on computers or smartphones with screens that can be folded or rolled. Smart clothing items make use of wearable micro-devices or sensors to monitor bodily functions, for example. However, all these devices need an energy source, which is usually a lithium-ion battery. Unfortunately, commercial batteries are typically heavy and rigid, making it fundamentally unsuitable for applications in flexible electronics or textiles.\n\nA remedy for this problem is now being created by Markus Niederberger, Professor for Multifunctional Materials at ETH Zurich, and his team. The researchers have developed a prototype for a flexible thin-film battery that can be bent, stretched and even twisted without interrupting the supply of power.\n\nWhat makes this new battery special is its electrolyte – that part of the battery through which lithium-ions move when the battery is charged or discharged. This electrolyte was discovered by ETH doctoral student Xi Chen, lead author of the study that recently appeared in the scientific journal Advanced Materials ."
+    },
+    {
+      "heading": "Systematically employing bendable components",
+      "text": "Following the design of commercial batteries, this new type of battery is built in layers like a sandwich. However, it marks the first time that researchers have used flexible components to keep the whole battery bendable and stretchable. “To date, no one has employed exclusively flexible components as systematically as we have in creating a lithium-ion battery,” Niederberger says.\n\nThe two current collectors for the anode and the cathode consist of bendable polymer composite that contains electrically conductive carbon and that also serves as the outer shell. On the interior surface of the composite, the researchers applied a thin layer of micronsized silver flakes. Due to the way the flakes overlap like roof tiles, they don’t lose contact with one another when the elastomer is stretched. This guarantees the conductivity of the current collector even if it is subjected to extensive stretching. And in the event that the silver flakes do in fact lose contact with each other, the electrical current can still flow through the carbon-containing composite, albeit more weakly.\n\nWith the help of a mask, the researchers then sprayed anode and cathode powder onto a precisely defined area of the silver layer. The cathode is composed of lithium manganese oxide and the anode is a vanadium oxide."
+    },
+    {
+      "heading": "Water-based gel electrolyte",
+      "text": "In the final step, the scientists stacked the two current collectors with the applied electrodes on top of each other, separated by a barrier layer similar to a picture frame, while the gap in the frame was filled with the electrolyte gel.\n\nNiederberger emphasises that this gel is environmentally more friendly than the commercial electrolytes: “Liquid electrolyte in today’s batteries are flammable and toxic.” In contrast, the gel electrolyte that his doctoral student Chen developed contains water with a high concentration of a lithium salt, which not only facilitates the flow of lithium ions between cathode and anode while the battery is charging or discharging, but also keeps the water from electrochemical decomposition.\n\nThe scientists joined the various parts of their prototype together with adhesive. “If we want to market the battery commercially, we’ll have to find another process that will keep it sealed tight for a longer period of time,” Niederberger says."
+    },
+    {
+      "heading": "Numerous potential applications",
+      "text": "More and more applications for a battery like this are emerging every day. Well-known manufacturers of mobile phones are vying with each other to produce devices with foldable screens. Other possibilities include rollable displays for computers, smartwatches and tablets, or functional textiles that contain bendable electronics – and all of these require a flexible power supply. “For instance, you could sew our battery right into the clothing,” Niederberger says. What’s important is, in the event of battery leakage, to ensure that the liquids that come out cause no damage. This is where the team’s electrolyte offers a considerable advantage.\n\nHowever, Niederberger stresses that more research is necessary to optimise the flexible battery before they consider commercialising it. Above all, the team has to increase the amount of electrode material it can hold. A new doctoral student has recently begun refining the stretchable power supply. The inventor of the initial prototype, Xi Chen, returned to his homeland of China after completing his doctoral thesis to take up a new job – as a consultant for the battery industry.\n\nChen X, Huang H, Pan L, Liu T, Niederberger M. Fully Integrated Design of a Stretchable Solid‐State Lithium‐Ion Full Battery. Adv.Mater.2019, first published: 06 September 2019 doi: 10.1002/adma.201904648"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Twist",
+        "label": "NORP",
+        "start": 38,
+        "end": 43
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Markus Niederberger",
+        "label": "PERSON",
+        "start": 530,
+        "end": 549
+      },
+      {
+        "text": "Multifunctional Materials",
+        "label": "ORG",
+        "start": 565,
+        "end": 590
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 975,
+        "end": 978
+      },
+      {
+        "text": "Xi Chen",
+        "label": "PERSON",
+        "start": 996,
+        "end": 1003
+      },
+      {
+        "text": "Advanced Materials",
+        "label": "ORG",
+        "start": 1079,
+        "end": 1097
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 129,
+        "end": 134
+      },
+      {
+        "text": "Niederberger",
+        "label": "PERSON",
+        "start": 366,
+        "end": 378
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 389,
+        "end": 392
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 46,
+        "end": 49
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 368,
+        "end": 373
+      },
+      {
+        "text": "Chen",
+        "label": "PERSON",
+        "start": 471,
+        "end": 475
+      },
+      {
+        "text": "anode",
+        "label": "ORG",
+        "start": 618,
+        "end": 623
+      },
+      {
+        "text": "Niederberger",
+        "label": "PERSON",
+        "start": 958,
+        "end": 970
+      },
+      {
+        "text": "Niederberger",
+        "label": "PERSON",
+        "start": 448,
+        "end": 460
+      },
+      {
+        "text": "Xi Chen",
+        "label": "PERSON",
+        "start": 988,
+        "end": 995
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 1025,
+        "end": 1030
+      },
+      {
+        "text": "Chen X",
+        "label": "PERSON",
+        "start": 1133,
+        "end": 1139
+      },
+      {
+        "text": "Huang H",
+        "label": "PERSON",
+        "start": 1141,
+        "end": 1148
+      },
+      {
+        "text": "Pan L",
+        "label": "PERSON",
+        "start": 1150,
+        "end": 1155
+      },
+      {
+        "text": "September 2019",
+        "label": "DATE",
+        "start": 1295,
+        "end": 1309
+      },
+      {
+        "text": "10.1002",
+        "label": "CARDINAL",
+        "start": 1315,
+        "end": 1322
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chen",
+        "Chen X",
+        "Huang H",
+        "Markus Niederberger",
+        "Niederberger",
+        "Pan L",
+        "Xi Chen"
+      ],
+      "ORG": [
+        "Advanced Materials",
+        "ETH",
+        "Multifunctional Materials",
+        "anode"
+      ],
+      "LOCATION": [
+        "China"
+      ],
+      "DATE": [
+        "September 2019",
+        "Today",
+        "today"
+      ],
+      "MISC": [
+        "10.1002",
+        "Twist",
+        "first",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Niederberger": 3,
+      "Xi Chen": 2,
+      "two": 2,
+      "Twist": 1,
+      "Today": 1,
+      "Markus Niederberger": 1,
+      "Multifunctional Materials": 1,
+      "ETH": 1,
+      "Advanced Materials": 1,
+      "first": 1,
+      "today": 1,
+      "Chen": 1,
+      "anode": 1,
+      "China": 1,
+      "Chen X": 1,
+      "Huang H": 1,
+      "Pan L": 1,
+      "September 2019": 1,
+      "10.1002": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "battery-with-a-twist.md",
+      "title": "En News Events/2019/09/battery With A Twist",
+      "language": "en",
+      "source_path": "en_news_events/2019/09/battery-with-a-twist.html"
+    },
+    "temporal": {
+      "publication_date": "2019-09",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chen",
+        "Chen X",
+        "Huang H",
+        "Markus Niederberger",
+        "Niederberger",
+        "Pan L",
+        "Xi Chen"
+      ],
+      "people_with_roles": {
+        "Chen": [
+          "student"
+        ],
+        "Markus Niederberger": [
+          "professor"
+        ],
+        "Niederberger": [
+          "professor"
+        ],
+        "Xi Chen": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1002",
+        "Twist",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "With A",
+        "Pan L",
+        "Fully Integrated",
+        "Xi Chen",
+        "Multifunctional Materials",
+        "Twist Today",
+        "En News",
+        "Chen X",
+        "Ion Full",
+        "Advanced Materials",
+        "Niederberger M",
+        "Stretchable Solid",
+        "Huang H",
+        "State Lithium",
+        "Liu T",
+        "ETH Zurich",
+        "Markus Niederberger"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Advanced Materials",
+        "ETH",
+        "Multifunctional Materials",
+        "anode"
+      ],
+      "locations": [
+        "China"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Niederberger",
+        "Xi Chen",
+        "two",
+        "Twist",
+        "Today",
+        "Markus Niederberger",
+        "Multifunctional Materials",
+        "ETH",
+        "Advanced Materials",
+        "first"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Systematically employing bendable components",
+          "Systematically employing bendable components",
+          "Water-based gel electrolyte",
+          "Numerous potential applications"
+        ],
+        "content_length": 4769
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Chen",
+        "Pan L",
+        "Xi Chen",
+        "Multifunctional Materials",
+        "2019",
+        "Chen X",
+        "Advanced Materials",
+        "Huang H",
+        "anode",
+        "ERC",
+        "Niederberger",
+        "Markus Niederberger"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "chemistry",
+        "10.1002",
+        "where",
+        "what",
+        "how",
+        "when",
+        "engineering",
+        "Twist"
+      ],
+      "graph_relations": [
+        "Chen_has_role_student",
+        "Markus Niederberger_has_role_professor",
+        "Niederberger_has_role_professor",
+        "Xi Chen_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

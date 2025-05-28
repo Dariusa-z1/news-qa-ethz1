@@ -1,0 +1,566 @@
+{
+  "filename": "de_news_events_2015_04_virtueller-pruefstand-nanoelektronik.md",
+  "original_filename": "de_news_events_2015_04_virtueller-pruefstand-nanoelektronik.html",
+  "source_path": "de_news_events/2015/04/virtueller-pruefstand-nanoelektronik.html",
+  "date": "2015-04",
+  "title": "Virtueller Pruefstand Nanoelektronik",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Computer-Vorhersage",
+      "text": "Elektronische Bauelemente sind heute oft nur noch wenige Nanometer (Milliardstel Meter) gross. Gemäss dem sogenannten Mooreschen Gesetz halbiert sich beispielsweise die Grösse eines Transistors alle zwei Jahre. Nur so ist es möglich, heute auf dem Chip eines Smartphones zwei Milliarden Transistoren im Nanoformat zu platzieren. Die Winzlinge garantieren, dass das Smartphone die ständig wachsenden Anforderungen erfüllen kann – Telefon und Fotoapparat zu sein so wie Videokamera, Suchmaschine, persönlicher Gesundheitswächter und Entertainer auf hohem Niveau. Dabei müssen die Bauteile energieeffizient arbeiten und günstig produzierbar sein.\n\nUmso winziger elektronische Bauteile werden, umso schwieriger ist jedoch ihre Herstellung. Zum Vergleich: ein rotes Blutkörperchen hat einen Durchmesser von 7000 Nanometer und ein menschliches Haar 80.000 Nanometer. Einen Transistor von der Grösse von 20 Nanometern und kleiner aus Halbleitern wie dem Element Silizium herzustellen, ist deshalb nicht nur eine technische Herausforderung. Auch physikalische Effekte, sogenannte quantenmechanische Gesetzmässigkeiten führen dazu, dass sich im Nanometer-Massstab die Eigenschaften der Materialien verändern. Das macht Designern und Ingenieuren bei der Entwicklung und dem Bau von Nano-Bauelementen das Leben schwer. Unterstützung finden diese nun bei ETH-Professor Mathieu Luisier vom Institut für Integrierte Systeme der ETH Zürich."
+    },
+    {
+      "heading": "Computer-Vorhersage",
+      "text": "Luisier entwickelt seit über zehn Jahren eine Software weiter, die Transistoren der Zukunft simuliert, die nur noch wenige Nanometer gross sind. Unterstützt wird er dabei vom CSCS-Supercomputer «Piz Daint», der vorherzusagen hilft, was passiert, wenn sich in der Welt der Nanomassstäbe Materialzusammensetzung, Form und Grösse verändern. Für Luisier ist «Piz Daint» derzeit die beste und effizienteste Simulationsmaschine bei der Suche nach neuen, idealen Materialkombinationen. Die Arbeit des ETH-Professors stösst bei der Industrie auf grosses Interesse, da die Simulationen Experimentierzeit und Kosten im Entwicklungsprozess neuer effizienter elektronischer Bauelemente einspart.\n\nEin Problem, wenn Milliarden herkömmlicher Transistoren auf einem Chip platziert werden, ist, dass sie sehr viel Wärme erzeugen und deshalb leicht überhitzen. Grund dafür ist, dass die Elektronen auf ihrem Weg durch den Transistor Energie abgeben. Luisier und sein Team simulieren mit ihrer Software OMEN – einem sogenannten Quantensimulator – auf atomarer Ebene den Transport der Elektronen, um zu untersuchen, was genau geschieht. Der simulierte Transistor besteht aus einem Nano-Draht aus Siliziumkristallen. «Fliessen die Elektronen durch den Draht, besitzen sie anfangs noch eine hohe, konstante Energie, die dann aber allmählich abnimmt und vom Kristallgitter des Siliziums in Form von sogenannten Phononen aufgenommen wird», erklärt Luisier. Indem die Elektronen und Phononen miteinander wechselwirken wird der Kristall erhitzt, die Gesamtenergie bleibt erhalten – ein Beweis für die Forscher, dass ihr Modell den Prozess korrekt wiedergibt. Ziel ist, den Transistor auf der Grundlage der durch die Simulationen gewonnen Erkenntnisse nun so zu bauen, dass die Elektronen auf ihrem Weg möglichst wenig Energie verlieren."
+    },
+    {
+      "heading": "Mit den Kristallen spielen",
+      "text": "In ihren Simulationen können die Forscher einerseits mit der Anordnung unterschiedlicher Kristallebenen im Kristall «spielen» und die Kristallstruktur verändern, oder Silizium durch ein anderes Halbleitermaterial ersetzen. Andererseits können sie die Funktionalitäten und unterschiedlichen Eigenschaften der simulierten Kristalle überprüfen.\n\nBeispielsweise simulierten die Forscher einen Nanodraht, dessen Kanal umhüllt ist von einem Oxyd und von einem metallischen Kontakt (Gate). In diesem sind die von den Elektronen abgegebenen Phononen sozusagen gefangen. Die Phononen können nur punktuell, am Anfang und am Ende des Nanodrahts, die Struktur verlassen. «Ersetzt man die Hülle um den Draht durch eine Struktur, die wie ein Omega-Buchstabe aussieht, ergibt sich eine grössere Fläche, über die die Phononen entweichen können», sagt Luisier. Steht die Fläche zudem in direktem Kontakt mit einem Kühlsegment, erhitzt der Transistor weniger stark.\n\nDie Halbleiter würden aber auch weniger Hitze produzieren, wenn sie aus Materialien wie Indium-Gallium-Arsenid oder Germanium gebaut werden würden. Denn durch diese Materialien können sich die Elektronen schneller hindurchbewegen. Allerdings sind sie viel teurer als Silizium.\n\nWährend den Simulationen erzeugen die Forscher Atom für Atom der entworfenen Strukturen. Wie in der herkömmlichen sogenannten «ab-initio»-Methode, die intensiv verwendet wird, um die Eigenschaften von Materialien zu analysieren, wird auch in den Simulationen der Forscher um Luisier die Schrödinger-Gleichung gelöst. Dadurch können sie untersuchen, wie Elektron und Phonon miteinander interagieren.\n\nEs gibt aber zwei Hauptunterschiede: Während die «ab-initio»-Methode die Wellenbewegung der Elektronen in einem geschlossenen System oder in einem sich periodisch wiederholenden System löst, ergänzt die Gruppe von Luisier die Methode mit offenen Randbedingungen. Dadurch ist es möglich, Transport zu simulieren. Die Wissenschaftler können dann sowohl die Elektronenströme wie auch die thermischen Ströme beobachten und zudem die Kopplung mit der Umgebung beschreiben, die Wechselwirkung des Elektronenflusses mit den thermischen Flüssen. Ein weiterer Unterschied ist, dass die Berechnungen mit OMEN derzeit noch anhand empirischer Modelle durchgeführt werden, da sie «ab-initio» noch zu komplex und rechenintensiver sind.\n\nIn Zusammenarbeit in einem PASC-Projekt mit Wissenschaftlern der Università della Svizzera italiana und der EPF Lausanne werden derzeit jedoch neue Algorithmen entwickelt, damit die Berechnungen effizienter werden. «Mittelfristig wollen wir alle empirische durch „ab-initio“-Modelle ersetzen, damit wir Strukturen aus unterschiedlichen Materialien leichter und genauer berechnen können», sagt Luisier. «Dafür brauchen wir die optimierten Algorithmen und Maschinen wie Piz Daint».\n\nLuisier betont aber, dass ihre empirische Vorgehensweise absolut state-of-the-art sei, wie es sie seines Wissens bisher bei der Entwicklung von elektronischen Nano-Bauelementen nicht gebe. Ein weiterer Forschungsschwerpunkt seiner Gruppe liegt auf der Simulation von Lithium-Ionen-Batterien. «Wenn wir die Wärmeentwicklung in Transistoren oder Batterien genauer verstehen, können wir entsprechend bessere Designs vorschlagen», sagt Luisier. «OMEN ist ein Bauelement-Simulator der neuen Generation, bei dem Ingenieure Konzepte verwenden, die zuvor nur in den Materialwissenschaften, Chemie oder Physik verwendet wurden.»\n\nSimone Ulmer ist Science Writer am externe Seite CSCS ,wo dieser Artikel zuerst publiziert wurde."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Nanoelektronik",
+        "label": "LOC",
+        "start": 45,
+        "end": 59
+      },
+      {
+        "text": "Smartphone",
+        "label": "MISC",
+        "start": 365,
+        "end": 375
+      },
+      {
+        "text": "Videokamera",
+        "label": "PER",
+        "start": 468,
+        "end": 479
+      },
+      {
+        "text": "Suchmaschine",
+        "label": "PER",
+        "start": 481,
+        "end": 493
+      },
+      {
+        "text": "Umso",
+        "label": "PER",
+        "start": 644,
+        "end": 648
+      },
+      {
+        "text": "schwieriger",
+        "label": "PER",
+        "start": 694,
+        "end": 705
+      },
+      {
+        "text": "Nanometer-Massstab",
+        "label": "MISC",
+        "start": 1135,
+        "end": 1153
+      },
+      {
+        "text": "Designern",
+        "label": "MISC",
+        "start": 1209,
+        "end": 1218
+      },
+      {
+        "text": "Nano-Bauelementen",
+        "label": "LOC",
+        "start": 1271,
+        "end": 1288
+      },
+      {
+        "text": "ETH-Professor Mathieu Luisier",
+        "label": "PER",
+        "start": 1342,
+        "end": 1371
+      },
+      {
+        "text": "Institut für Integrierte Systeme",
+        "label": "ORG",
+        "start": 1376,
+        "end": 1408
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1413,
+        "end": 1423
+      },
+      {
+        "text": "Luisier",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "CSCS-Supercomputer «Piz Daint",
+        "label": "ORG",
+        "start": 175,
+        "end": 204
+      },
+      {
+        "text": "Luisier",
+        "label": "LOC",
+        "start": 342,
+        "end": 349
+      },
+      {
+        "text": "Piz Daint",
+        "label": "LOC",
+        "start": 355,
+        "end": 364
+      },
+      {
+        "text": "ETH-Professors",
+        "label": "ORG",
+        "start": 494,
+        "end": 508
+      },
+      {
+        "text": "Transistor Energie",
+        "label": "MISC",
+        "start": 904,
+        "end": 922
+      },
+      {
+        "text": "Luisier",
+        "label": "PER",
+        "start": 932,
+        "end": 939
+      },
+      {
+        "text": "OMEN",
+        "label": "ORG",
+        "start": 984,
+        "end": 988
+      },
+      {
+        "text": "Luisier",
+        "label": "LOC",
+        "start": 1424,
+        "end": 1431
+      },
+      {
+        "text": "Omega-Buchstabe",
+        "label": "LOC",
+        "start": 727,
+        "end": 742
+      },
+      {
+        "text": "Luisier",
+        "label": "LOC",
+        "start": 834,
+        "end": 841
+      },
+      {
+        "text": "Atom",
+        "label": "LOC",
+        "start": 1271,
+        "end": 1275
+      },
+      {
+        "text": "Atom der entworfenen Strukturen",
+        "label": "MISC",
+        "start": 1280,
+        "end": 1311
+      },
+      {
+        "text": "ab-initio»-Methode",
+        "label": "ORG",
+        "start": 1351,
+        "end": 1369
+      },
+      {
+        "text": "Luisier",
+        "label": "LOC",
+        "start": 1499,
+        "end": 1506
+      },
+      {
+        "text": "Schrödinger-Gleichung",
+        "label": "ORG",
+        "start": 1511,
+        "end": 1532
+      },
+      {
+        "text": "ab-initio»-Methode",
+        "label": "ORG",
+        "start": 1673,
+        "end": 1691
+      },
+      {
+        "text": "Luisier",
+        "label": "LOC",
+        "start": 1837,
+        "end": 1844
+      },
+      {
+        "text": "Elektronenflusses",
+        "label": "LOC",
+        "start": 2114,
+        "end": 2131
+      },
+      {
+        "text": "OMEN",
+        "label": "ORG",
+        "start": 2217,
+        "end": 2221
+      },
+      {
+        "text": "Università della Svizzera italiana",
+        "label": "ORG",
+        "start": 2410,
+        "end": 2444
+      },
+      {
+        "text": "EPF Lausanne",
+        "label": "ORG",
+        "start": 2453,
+        "end": 2465
+      },
+      {
+        "text": "ab-initio“-Modelle",
+        "label": "LOC",
+        "start": 2609,
+        "end": 2627
+      },
+      {
+        "text": "Luisier",
+        "label": "LOC",
+        "start": 2738,
+        "end": 2745
+      },
+      {
+        "text": "Piz Daint",
+        "label": "ORG",
+        "start": 2813,
+        "end": 2822
+      },
+      {
+        "text": "Luisier",
+        "label": "PER",
+        "start": 2825,
+        "end": 2832
+      },
+      {
+        "text": "Nano-Bauelementen",
+        "label": "MISC",
+        "start": 2984,
+        "end": 3001
+      },
+      {
+        "text": "Lithium-Ionen-Batterien",
+        "label": "LOC",
+        "start": 3092,
+        "end": 3115
+      },
+      {
+        "text": "Luisier",
+        "label": "LOC",
+        "start": 3257,
+        "end": 3264
+      },
+      {
+        "text": "OMEN",
+        "label": "ORG",
+        "start": 3267,
+        "end": 3271
+      },
+      {
+        "text": "Science Writer",
+        "label": "MISC",
+        "start": 3462,
+        "end": 3476
+      },
+      {
+        "text": "CSCS",
+        "label": "PER",
+        "start": 3494,
+        "end": 3498
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "CSCS",
+        "De News",
+        "ETH-Professor Mathieu Luisier",
+        "Luisier",
+        "Suchmaschine",
+        "Umso",
+        "Videokamera",
+        "schwieriger"
+      ],
+      "ORG": [
+        "CSCS-Supercomputer «Piz Daint",
+        "EPF Lausanne",
+        "ETH Zürich",
+        "ETH-Professors",
+        "Institut für Integrierte Systeme",
+        "OMEN",
+        "Piz Daint",
+        "Schrödinger-Gleichung",
+        "Università della Svizzera italiana",
+        "ab-initio»-Methode"
+      ],
+      "LOCATION": [
+        "Atom",
+        "Elektronenflusses",
+        "Lithium-Ionen-Batterien",
+        "Luisier",
+        "Nano-Bauelementen",
+        "Nanoelektronik",
+        "Omega-Buchstabe",
+        "Piz Daint",
+        "ab-initio“-Modelle"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Atom der entworfenen Strukturen",
+        "Designern",
+        "Nano-Bauelementen",
+        "Nanometer-Massstab",
+        "Science Writer",
+        "Smartphone",
+        "Transistor Energie"
+      ]
+    },
+    "entity_counts": {
+      "Luisier": 10,
+      "OMEN": 3,
+      "Nano-Bauelementen": 2,
+      "Piz Daint": 2,
+      "ab-initio»-Methode": 2,
+      "De News": 1,
+      "Nanoelektronik": 1,
+      "Smartphone": 1,
+      "Videokamera": 1,
+      "Suchmaschine": 1,
+      "Umso": 1,
+      "schwieriger": 1,
+      "Nanometer-Massstab": 1,
+      "Designern": 1,
+      "ETH-Professor Mathieu Luisier": 1,
+      "Institut für Integrierte Systeme": 1,
+      "ETH Zürich": 1,
+      "CSCS-Supercomputer «Piz Daint": 1,
+      "ETH-Professors": 1,
+      "Transistor Energie": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2015_04_virtueller-pruefstand-nanoelektronik.md",
+      "title": "De News Events/2015/04/virtueller Pruefstand Nanoelektronik",
+      "language": "de",
+      "source_path": "de_news_events/2015/04/virtueller-pruefstand-nanoelektronik.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "CSCS",
+        "De News",
+        "ETH-Professor Mathieu Luisier",
+        "Luisier",
+        "Suchmaschine",
+        "Umso",
+        "Videokamera",
+        "schwieriger"
+      ],
+      "people_with_roles": {
+        "ETH-Professor Mathieu Luisier": [
+          "professor"
+        ],
+        "Luisier": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Atom der entworfenen Strukturen",
+        "Designern",
+        "Nano-Bauelementen",
+        "Nanometer-Massstab",
+        "Science Writer",
+        "Smartphone",
+        "Transistor Energie"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Zum Vergleich",
+        "Die Phononen",
+        "Omega-Buchstabe",
+        "Einen Transistor",
+        "Piz Daint",
+        "Die Halbleiter",
+        "Die Arbeit",
+        "Nano-Draht",
+        "Nano-Bauelementen",
+        "Elektronische Bauelemente",
+        "Simone Ulmer",
+        "ETH-Professor",
+        "Simulationen Experimentierzeit",
+        "Element Silizium",
+        "Nanometer-Massstab",
+        "In Zusammenarbeit",
+        "CSCS-Supercomputer",
+        "ETH-Professors",
+        "Ingenieure Konzepte",
+        "Indium-Gallium",
+        "Mooreschen Gesetz",
+        "Die Wissenschaftler",
+        "Science Writer",
+        "Pruefstand Nanoelektronik",
+        "Milliardstel Meter",
+        "Ein Problem",
+        "EPF Lausanne",
+        "Seite CSCS",
+        "Integrierte Systeme",
+        "Milliarden Transistoren",
+        "Die Winzlinge",
+        "Mathieu Luisier",
+        "Transistor Energie",
+        "Forscher Atom",
+        "De News",
+        "Bauelement-Simulator",
+        "Lithium-Ionen",
+        "PASC-Projekt",
+        "Software OMEN"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSCS-Supercomputer «Piz Daint",
+        "EPF Lausanne",
+        "ETH Zürich",
+        "ETH-Professors",
+        "Institut für Integrierte Systeme",
+        "OMEN",
+        "Piz Daint",
+        "Schrödinger-Gleichung",
+        "Università della Svizzera italiana",
+        "ab-initio»-Methode"
+      ],
+      "locations": [
+        "Atom",
+        "Elektronenflusses",
+        "Lithium-Ionen-Batterien",
+        "Luisier",
+        "Nano-Bauelementen",
+        "Nanoelektronik",
+        "Omega-Buchstabe",
+        "Piz Daint",
+        "ab-initio“-Modelle"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Luisier",
+        "OMEN",
+        "Nano-Bauelementen",
+        "Piz Daint",
+        "ab-initio»-Methode",
+        "De News",
+        "Nanoelektronik",
+        "Smartphone",
+        "Videokamera",
+        "Suchmaschine"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Computer-Vorhersage",
+          "Computer-Vorhersage",
+          "Mit den Kristallen spielen"
+        ],
+        "content_length": 6847
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "OMEN",
+        "Institut für Integrierte Systeme",
+        "ETH-Professor Mathieu Luisier",
+        "Piz Daint",
+        "ERC",
+        "Umso",
+        "ETH Zürich",
+        "Videokamera",
+        "ETH-Professors",
+        "ab-initio»-Methode",
+        "2015",
+        "schwieriger",
+        "EU",
+        "Università della Svizzera italiana",
+        "EPF Lausanne",
+        "Schrödinger-Gleichung",
+        "CSCS",
+        "Luisier",
+        "Suchmaschine",
+        "CSCS-Supercomputer «Piz Daint",
+        "De News"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Nanometer-Massstab",
+        "Atom der entworfenen Strukturen",
+        "Science Writer",
+        "who",
+        "Smartphone",
+        "Transistor Energie",
+        "Designern",
+        "Nano-Bauelementen",
+        "what",
+        "how",
+        "computer_science",
+        "when"
+      ],
+      "graph_relations": [
+        "ETH-Professor Mathieu Luisier_has_role_professor",
+        "Luisier_has_role_professor",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

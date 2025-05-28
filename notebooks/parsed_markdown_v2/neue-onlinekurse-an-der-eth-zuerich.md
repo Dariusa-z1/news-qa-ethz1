@@ -1,0 +1,32 @@
+# neue-onlinekurse-an-der-eth-zuerich.html
+
+**Source:** de_news_events/2013/09/neue-onlinekurse-an-der-eth-zuerich.html
+
+## Eigene Studierende sollen profitieren
+
+Online ist die Zukunft. Gilt das auch für die Lehre? Ja, findet eine Reihe von Hochschulen weltweit, die derzeit viele Ressourcen in die Entwicklung von neuen Onlinekursen investiert. In aller Munde sind die MOOCs, die «massive open online courses», eine Art Online-Fernstudien, die eine grosse Zahl von Studierenden ansprechen sollen. Diese absolvieren die Kurse dezentral, irgendwo auf der Welt vor einem Bildschirm, und erhalten bei bestandenem Onlinetest ein entsprechendes Zertifikat.
+
+Ja, Onlineangebote in der Lehre haben eine Zukunft, findet auch die ETH Zürich. Sie setzt in einer Pilotphase, die bis Ende 2014 dauert, jedoch nicht auf MOOCs, sondern auf Onlineangebote, welche die klassische Präsenzlehre mit Vorlesungen und Übungen ergänzen sollen. In diesem Herbstsemester bietet die ETH erstmals drei Onlinekurse an. Genannt werden sie TORQUEs. Das Akronym steht für «tiny, open-with-restictions courses focussed on quality and effectivness», also für kleine, begrenzt offene Onlinekurse mit dem Ziel, die Qualität und die Effizienz in der Lehre zu steigern.
+
+## Eigene Studierende sollen profitieren
+
+Die ersten TORQUEs sind Kurse im Rahmen der Vorlesung Ökonomie von ETH-Professorin Renate Schubert und der Vorlesung Physik II für die Studiengänge Materialwissenschaft und Rechnergestützte Wissenschaften. Beim dritten TORQUE handelt es sich um einen Einführungskurs in die an der ETH Zürich oft verwendete Statistiksoftware R.
+
+«Es ist die Strategie der ETH Zürich, dass von den Onlineaktivitäten in der Lehre primär die eigenen Studierenden profitieren sollen», sagt TORQUEs-Projektleiter Andreas Reinhardt vom Stabsbereich Lehrentwicklung und -technologie (LET). Mit einer Ausnahme können zwar alle Angehörigen von Schweizer Hochschulen auf den passwortgeschützen Bereich, auf dem die TORQUEs angeboten werden, zugreifen. Zugeschnitten sind die Kurse jedoch auf die ETH-Studierenden.
+
+## «Umgedrehtes Klassenzimmer»
+
+Die TORQUEs bestehen aus Videosequenzen, in denen Wissen vermittelt wird, sowie aus Online-Übungsaufgaben. Ausserdem können sich Studierende in einem Online-Forum untereinander und mit Tutoren über den Lerninhalt austauschen. Die Idee ist, dass sich die Studierenden als Vorbereitung auf die entsprechende Vorlesung im Selbststudium mit den TORQUE-Lernsequenzen auseinandersetzen.
+
+Die Onlinekurse der ETH orientieren sich am Konzept des «flipped classroom». Klassischerweise wird Wissen in einer Vorlesung vermittelt; Übungen werden zu Hause gelöst. Im «umgedrehten Klassenzimmer» ist es umgekehrt: Die Wissensvermittlung findet zu einem grossen Teil im Selbststudium statt, die Präsenzveranstaltung wird für Übungen, Vertiefung und kritisches Reflektieren des Stoffs genutzt. «Indem wir mit den TORQUEs einen Teil der Wissensvermittlung ins Selbststudium mit Videos auslagern, bleibt in der Präsenzveranstaltung mehr Zeit für Interaktionen zwischen Dozierenden und Studierenden. Das ist auch die Stärke von Präsenzveranstaltungen», sagt Reinhardt.
+
+In den nächsten Monaten möchte die ETH mit diesem Format Erfahrung sammeln. «Es ist jedoch nicht ausgeschlossen, dass aus den heutigen TORQUEs in Zukunft öffentlich zugängliche MOOCs werden», sagt Reinhardt. Für das nächste Frühlingssemester ist geplant, drei bis vier weitere Kurse anzubieten.
+
+Seit einem Jahr bietet die ETH Zürich ihren Studierenden und Dozierenden die EduApp an. Sie zeigt Studierenden auf dem Smartphone Stundenpläne und Gebäudepläne an und hilft den Dozierenden, ihre Vorlesungen interaktiver zu gestalten. So ist es beispielsweise möglich, während einer Vorlesung über die App Übungen mit Online-Abstimmungen durchzuführen.
+
+Auf dieses Herbstsemester hin wurde die App aufgrund von Rückmeldungen und ersten Erfahrungen überarbeitet. Insbesondere die Benutzerfreundlichkeit wurde in der Version 2.0 erhöht. Neben Vereinfachungen für Dozierende, wie der Möglichkeit, in den Online-Abstimmungen auch Bilder und mathematische Formeln zu verwenden, sind nun beispielsweise Stundenpläne und Gebäudepläne auch offline verfügbar. Die App wurde im Schuljahr 2012/13 von 25 Dozierenden in Lehrveranstaltungen verwendet, über Sechstausend ETH-Studierende haben sie auf ihrem Smartphone installiert.
+
+Vor wenigen Wochen wurde die ETH-EduApp an der Jahrestagung der deutschen Gesellschaft für Medien in der Wissenschaft (GMW) in Frankfurt mit dem «Best Paper Award» ausgezeichnet. Bei der Jahrestagung der GMW handelt es sich um die grösste deutschsprachige Konferenz im Fachbereich digitale Medien und Hochschule.
+
+Weitere Informationen zur EduApp mit Links zum Herunterladen unter eduapp.ethz.ch
+

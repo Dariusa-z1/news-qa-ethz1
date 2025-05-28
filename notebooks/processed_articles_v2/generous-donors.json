@@ -1,0 +1,432 @@
+{
+  "filename": "generous-donors.md",
+  "original_filename": "generous-donors.html",
+  "source_path": "en_news_events/2017/03/generous-donors.html",
+  "date": "2017-03",
+  "title": "Generous Donors",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Milestones 2016",
+      "text": "In 2016, 500 new donors were added to the existing 4,400 supporters of the ETH Zurich Foundation. Together, they supported ETH Zurich’s unique projects with gifts amounting to CHF 48 million.\n\nTwo aspects of the private individuals among that number stand out: their generous relationship to the university and the age spectrum. The youngest donor was just 22 years old, while the oldest alumni sponsor already celebrated his 105th birthday. Private donors were particularly interested in the promotion of talent and also favoured innovations in teaching.\n\nFoundations and organisations supported ETH Week and the Cybathlon, among other projects. Large business partners were involved mainly in the new ETH strategic initiatives: media technology and information security. They also supported long-term ETH priorities, such as personalised medicine, sustainable construction and global nutrition.\n\nUnrestricted donations, an important funding instrument, made up a pleasing 4% of donations. These provide ETH with funds that it can use freely and according to the urgency of current research topics.\n\nAll the funding stories and highlights from 2016 can be found in the ETH Zurich Foundation’s annual report ."
+    },
+    {
+      "heading": "Milestones 2016",
+      "text": "Innovations in teaching : donations to the field of teaching have enabled ETH to implement bold projects adapted to the current moment, such as the new Rector’s Impulse Fund and innovative teaching and learning methods. Further information\n\nPromoting talent : thanks to funding commitments for the Excellence Scholarship & Opportunity Programme and the Pioneer Fellowship Program , talented Master’s students and young prospective entrepreneurs receive creative freedom and financial support.\n\nMedia tech initiative : the support from external partners has allowed ETH to establish a new professorship and a centre for media technology, which will help the Swiss media sector to make the most of technological advances. Further information\n\nOpen Lab for information security : the commitment of external partners has enabled the Zurich Information Security and Privacy Center (ZISC) to put the Open Lab into operation. The innovative work environment supports open exchange between ETH researchers and business partners. Further information\n\nNew professorship for innovative and industrial construction : support for a new ETH professorship in the field of innovative and industrial construction will contribute to process optimisation along the entire value-added chain in the construction industry. Further information\n\nMethods of food production : two new professorships in the field of sustainable food processing and molecular plant breeding will focus on sustainable processes in food production and food security through the continuous improvement of crop plants. Further information\n\nCollaboration in medicine : in the field of medicine, donations have helped to establish a new professorship in pharmacoepidemiology and the development of a digital biobank for prostate cancer. Further information (only in German)\n\nWorld’s first Cybathlon : countless private individuals, organisations, foundations and companies contributed with their donations to the successful implementation of this major event, which showed how modern assistance technologies can help people with disabilities in everyday life. Further information\n\nThe ETH Zurich Foundation is an independent, private and non-profit organisation with the mission of promoting teaching and research at ETH Zurich. Through its activities, the ETH Zurich Foundation supports ETH Zurich in maintaining and developing its leading international position. The aim is to supplement federal contributions with private financial resources."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Donors",
+        "label": "ORG",
+        "start": 32,
+        "end": 38
+      },
+      {
+        "text": "4,400",
+        "label": "CARDINAL",
+        "start": 51,
+        "end": 56
+      },
+      {
+        "text": "the ETH Zurich Foundation",
+        "label": "ORG",
+        "start": 71,
+        "end": 96
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 123,
+        "end": 135
+      },
+      {
+        "text": "48 million",
+        "label": "CARDINAL",
+        "start": 180,
+        "end": 190
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 192,
+        "end": 195
+      },
+      {
+        "text": "just 22 years old",
+        "label": "DATE",
+        "start": 351,
+        "end": 368
+      },
+      {
+        "text": "105th",
+        "label": "ORDINAL",
+        "start": 425,
+        "end": 430
+      },
+      {
+        "text": "ETH Week",
+        "label": "ORG",
+        "start": 595,
+        "end": 603
+      },
+      {
+        "text": "Cybathlon",
+        "label": "ORG",
+        "start": 612,
+        "end": 621
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 701,
+        "end": 704
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 801,
+        "end": 804
+      },
+      {
+        "text": "4%",
+        "label": "PERCENT",
+        "start": 971,
+        "end": 973
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1002,
+        "end": 1005
+      },
+      {
+        "text": "the ETH Zurich Foundation’s",
+        "label": "ORG",
+        "start": 1162,
+        "end": 1189
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 1190,
+        "end": 1196
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 74,
+        "end": 77
+      },
+      {
+        "text": "Rector’s Impulse Fund",
+        "label": "ORG",
+        "start": 152,
+        "end": 173
+      },
+      {
+        "text": "the Excellence Scholarship & Opportunity Programme",
+        "label": "ORG",
+        "start": 293,
+        "end": 343
+      },
+      {
+        "text": "the Pioneer Fellowship Program",
+        "label": "ORG",
+        "start": 348,
+        "end": 378
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 563,
+        "end": 566
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 655,
+        "end": 660
+      },
+      {
+        "text": "the Zurich Information Security",
+        "label": "ORG",
+        "start": 822,
+        "end": 853
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 979,
+        "end": 982
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1119,
+        "end": 1122
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1346,
+        "end": 1349
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 1810,
+        "end": 1816
+      },
+      {
+        "text": "The ETH Zurich Foundation",
+        "label": "ORG",
+        "start": 2123,
+        "end": 2148
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 2259,
+        "end": 2269
+      },
+      {
+        "text": "the ETH Zurich Foundation",
+        "label": "ORG",
+        "start": 2295,
+        "end": 2320
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 2330,
+        "end": 2340
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "ORG": [
+        "Cybathlon",
+        "Donors",
+        "ETH",
+        "ETH Week",
+        "ETH Zurich",
+        "Rector’s Impulse Fund",
+        "The ETH Zurich Foundation",
+        "the ETH Zurich Foundation",
+        "the ETH Zurich Foundation’s",
+        "the Excellence Scholarship & Opportunity Programme",
+        "the Pioneer Fellowship Program",
+        "the Zurich Information Security"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "annual",
+        "just 22 years old"
+      ],
+      "MISC": [
+        "105th",
+        "4%",
+        "4,400",
+        "48 million",
+        "German",
+        "Swiss",
+        "Two",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 7,
+      "the ETH Zurich Foundation": 2,
+      "ETH Zurich": 2,
+      "Donors": 1,
+      "4,400": 1,
+      "ETH Zurich’s": 1,
+      "48 million": 1,
+      "Two": 1,
+      "just 22 years old": 1,
+      "105th": 1,
+      "ETH Week": 1,
+      "Cybathlon": 1,
+      "4%": 1,
+      "the ETH Zurich Foundation’s": 1,
+      "annual": 1,
+      "Rector’s Impulse Fund": 1,
+      "the Excellence Scholarship & Opportunity Programme": 1,
+      "the Pioneer Fellowship Program": 1,
+      "Swiss": 1,
+      "the Zurich Information Security": 1
+    },
+    "total_entities": 31,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "generous-donors.md",
+      "title": "En News Events/2017/03/generous Donors",
+      "language": "en",
+      "source_path": "en_news_events/2017/03/generous-donors.html"
+    },
+    "temporal": {
+      "publication_date": "2017-03",
+      "mentioned_years": [
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "researcher",
+        "alumni",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "105th",
+        "4,400",
+        "48 million",
+        "German",
+        "Swiss"
+      ],
+      "grants_funding": [
+        "EU",
+        "fellowship",
+        "funding"
+      ],
+      "projects": [
+        "Zurich Foundation",
+        "En News",
+        "Excellence Scholarship",
+        "Impulse Fund",
+        "Pioneer Fellowship",
+        "Open Lab",
+        "Opportunity Programme",
+        "ETH Week",
+        "Privacy Center",
+        "Zurich Information",
+        "ETH Zurich",
+        "Donors In",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cybathlon",
+        "Donors",
+        "ETH",
+        "ETH Week",
+        "ETH Zurich",
+        "Rector’s Impulse Fund",
+        "The ETH Zurich Foundation",
+        "the ETH Zurich Foundation",
+        "the ETH Zurich Foundation’s",
+        "the Excellence Scholarship & Opportunity Programme",
+        "the Pioneer Fellowship Program",
+        "the Zurich Information Security"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "the ETH Zurich Foundation",
+        "ETH Zurich",
+        "Donors",
+        "4,400",
+        "ETH Zurich’s",
+        "48 million",
+        "Two",
+        "just 22 years old",
+        "105th"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Milestones 2016",
+          "Milestones 2016"
+        ],
+        "content_length": 3744
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Cybathlon",
+        "the ETH Zurich Foundation",
+        "the ETH Zurich Foundation’s",
+        "2017",
+        "fellowship",
+        "the Excellence Scholarship & Opportunity Programme",
+        "EU",
+        "The ETH Zurich Foundation",
+        "Donors",
+        "the Zurich Information Security",
+        "Rector’s Impulse Fund",
+        "2016",
+        "funding",
+        "ETH Week",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "the Pioneer Fellowship Program"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "4,400",
+        "who",
+        "Swiss",
+        "chemistry",
+        "when",
+        "where",
+        "biology",
+        "105th",
+        "what",
+        "German",
+        "how",
+        "medical_research",
+        "48 million",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

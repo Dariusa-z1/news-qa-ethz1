@@ -1,0 +1,237 @@
+{
+  "filename": "en_internal_2016_10_how-to-go-open-access.md",
+  "original_filename": "en_internal_2016_10_how-to-go-open-access.html",
+  "source_path": "en_internal/2016/10/how-to-go-open-access.html",
+  "date": "2016-10",
+  "title": "How To Go Open Access",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The webinar will be held in English on Wednesday, 25 October from 11.00 to 12.00. The topics covered will be the legal, financial and political parameters of open access publishing.\n\nFurther information and registration for the webinar\n\nThe event takes place against the backdrop of the Open Access Week from 24 to 27 October.\n\nThe initiative OpenAIRE offers daily webinars at 12 a.m. as well during the Open Access Week: Topics stretch from Open Science to EC’s Horizon 2020 programme.\n\nFurther information and registration for the webinars"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 28,
+        "end": 35
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE",
+        "start": 39,
+        "end": 48
+      },
+      {
+        "text": "25 October",
+        "label": "DATE",
+        "start": 50,
+        "end": 60
+      },
+      {
+        "text": "11.00",
+        "label": "CARDINAL",
+        "start": 66,
+        "end": 71
+      },
+      {
+        "text": "12.00",
+        "label": "CARDINAL",
+        "start": 75,
+        "end": 80
+      },
+      {
+        "text": "the Open Access Week",
+        "label": "EVENT",
+        "start": 281,
+        "end": 301
+      },
+      {
+        "text": "24 to 27 October",
+        "label": "DATE",
+        "start": 307,
+        "end": 323
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 356,
+        "end": 361
+      },
+      {
+        "text": "12 a.m.",
+        "label": "TIME",
+        "start": 374,
+        "end": 381
+      },
+      {
+        "text": "the Open Access Week",
+        "label": "EVENT",
+        "start": 397,
+        "end": 417
+      },
+      {
+        "text": "Open Science",
+        "label": "WORK_OF_ART",
+        "start": 439,
+        "end": 451
+      },
+      {
+        "text": "EC",
+        "label": "ORG",
+        "start": 455,
+        "end": 457
+      },
+      {
+        "text": "Horizon 2020",
+        "label": "EVENT",
+        "start": 460,
+        "end": 472
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "EC"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "12 a.m.",
+        "24 to 27 October",
+        "25 October",
+        "Wednesday",
+        "daily"
+      ],
+      "MISC": [
+        "11.00",
+        "12.00",
+        "English",
+        "Horizon 2020",
+        "Open Science",
+        "the Open Access Week"
+      ]
+    },
+    "entity_counts": {
+      "the Open Access Week": 2,
+      "English": 1,
+      "Wednesday": 1,
+      "25 October": 1,
+      "11.00": 1,
+      "12.00": 1,
+      "24 to 27 October": 1,
+      "daily": 1,
+      "12 a.m.": 1,
+      "Open Science": 1,
+      "EC": 1,
+      "Horizon 2020": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "en_internal_2016_10_how-to-go-open-access.md",
+      "title": "En Internal/2016/10/how To Go Open Access",
+      "language": "en",
+      "source_path": "en_internal/2016/10/how-to-go-open-access.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2016",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "11.00",
+        "12.00",
+        "English",
+        "Horizon 2020",
+        "Open Science",
+        "the Open Access Week"
+      ],
+      "grants_funding": [
+        "Horizon"
+      ],
+      "projects": [
+        "Open Science",
+        "Open Access",
+        "To Go",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "EC"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "the Open Access Week",
+        "English",
+        "Wednesday",
+        "25 October",
+        "11.00",
+        "12.00",
+        "24 to 27 October",
+        "daily",
+        "12 a.m.",
+        "Open Science"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 583
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EC",
+        "Horizon",
+        "2020",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "the Open Access Week",
+        "Open Science",
+        "11.00",
+        "Horizon 2020",
+        "English",
+        "12.00",
+        "how",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

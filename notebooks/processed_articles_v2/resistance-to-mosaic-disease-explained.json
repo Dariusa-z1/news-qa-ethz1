@@ -1,0 +1,634 @@
+{
+  "filename": "resistance-to-mosaic-disease-explained.md",
+  "original_filename": "resistance-to-mosaic-disease-explained.html",
+  "source_path": "en_news_events/2022/07/resistance-to-mosaic-disease-explained.html",
+  "date": "2022-07",
+  "title": "Resistance To Mosaic Disease Explained",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Research consortium tracks down resistance gene",
+      "text": "Cassava, also known as manioc, is a staple food for nearly one billion people and an important source of raw materials. It secures an income for smallholder farmers, especially in Africa. Cassava is an undemanding crop; it does not need fertiliser and grows even in dry areas.\n\nHowever, cassava cultivation is impacted by many pests and diseases. Cassava mosaic disease (CMD) in particular is often damaging the crop. CMD is caused by DNA geminiviruses that are transmitted to plants by sap-sucking whiteflies (Bemisia tabaci) and can destroy entire fields and decimate yields.\n\nCassava mosaic disease is a particularly severe problem in Africa and India. However, the virus is now also spreading through cassava fields in Southeast Asia. Growers and farmers are in urgent need of CMD-resistant cassava cultivars."
+    },
+    {
+      "heading": "Research consortium tracks down resistance gene",
+      "text": "Help may be on the way thanks to a discovery by an international research team led by Wilhelm Gruissem, Professor of Plant Biotechnology at ETH Zurich. Working with several resistant and susceptible West African cassava cultivars, the team used elaborate and time-consuming genome analyses to identify the gene responsible for a specific resistance to cassava mosaic virus.\n\nThe resistance was originally found by farmers in West Africa, who observed that while the majority of their cassava plants in the field had died as a result of the viral infection, a few plants survived. This attracted the attention of researchers, who then tried to identify the cause of this resistance."
+    },
+    {
+      "heading": "Targeted virus resistant breeding with genome editing",
+      "text": "In their study, which has just been published in Nature Communications , the team led by Wilhelm Gruissem shows that the resistance is caused by a single gene that is the blueprint for a DNA polymerase – an enzyme responsible for replicating DNA within a cell. However, the DNA polymerase not only replicates DNA, it also performs “proofreading” to correct errors in the sequence of DNA building blocks that may occur during replication. And it is precisely this enzyme that the geminiviruses require to replicate their own DNA and consequently to reproduce."
+    },
+    {
+      "heading": "Is the DNA polymerase no working correctly?",
+      "text": "Since cassava has a double set of chromosomes, the plant has two copies of each gene. If one copy of the DNA polymerase gene is mutated, the viruses cannot multiply and the infection stops. In plants that are susceptible to the disease, however, both copies of the DNA polymerase gene do not have the mutation that gives rise to the CMD resistance.\n\n“We don’t know yet exactly how the resistance mechanism works,” Gruissem says. “This is something that will need to be investigated in future studies.” But he suspects that the mutations affect an area of the enzyme responsible for error correction during DNA replication. These changes could affect the way the DNA polymerase works, causing it to fail correcting errors in the replicating viral DNA; these errors ultimately stop the virus from replicating and spreading in the plant.\n\nBy pinning down the gene responsible for what is known as CMD2 resistance, the researchers are playing an important part in enhancing food security in tropical and subtropical regions. The gene they have identified now serves as a genetic marker for breeders, indicating whether or not the resistance is present in their plants.\n\nA woman peels a cassava root to prepare it for dinner. In Africa and many other tropical regions, cassava is one of the staple foods. (Photograph: W.Gruissem / ETH Zurich)\n\nFor economic and agronomic reasons, exporting stems from virus-resistant cassava plants from West Africa to Asia for field propagation is not feasible. That means Asian breeders have to find another way to introduce the resistance into their plants. “One possibility is to use a modern CRISPR-Cas technology to precisely edit the DNA polymerase gene and activate the disease resistance,” Gruissem says.\n\nThis project marks the end of Gruissem’s research activities at ETH Zurich; the 70-year-old is retiring at the end of July. For the next three years, he will continue his research in Taiwan, where he has been awarded a prestigious fellowship. However, he will not be able to continue working on the CMD virus there, as it is not present in Taiwan and importing it for laboratory studies is not permitted. He therefore hopes that his US colleagues will be able to answer the open questions.\n\nThe research project involved researchers from ETH Zurich as well as from the Donald Danforth Plant Science Center in St. Louis, the University of California Los Angeles and the National Crops Resources Research Institute in Uganda. A substantial portion of the research funding was provided by the Bill & Melinda Gates Foundation.\n\nLim YW, Mansfeld BN, Schläpfer P et al. Mutations in DNA polymerase δ subunit 1 co-segregate with CMD2-type resistance to Cassava Mosaic Geminiviruses. Nat Commun 13, 3933 (2022). Doi: 10.1038/s41467-022-31414-0"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Mosaic Disease Explained",
+        "label": "PERSON",
+        "start": 37,
+        "end": 61
+      },
+      {
+        "text": "Cassava",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "nearly one billion",
+        "label": "CARDINAL",
+        "start": 52,
+        "end": 70
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 180,
+        "end": 186
+      },
+      {
+        "text": "Cassava",
+        "label": "ORG",
+        "start": 188,
+        "end": 195
+      },
+      {
+        "text": "Cassava mosaic",
+        "label": "ORG",
+        "start": 346,
+        "end": 360
+      },
+      {
+        "text": "Bemisia",
+        "label": "PERSON",
+        "start": 510,
+        "end": 517
+      },
+      {
+        "text": "Cassava mosaic",
+        "label": "ORG",
+        "start": 577,
+        "end": 591
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 636,
+        "end": 642
+      },
+      {
+        "text": "India",
+        "label": "GPE",
+        "start": 647,
+        "end": 652
+      },
+      {
+        "text": "Southeast Asia",
+        "label": "LOC",
+        "start": 721,
+        "end": 735
+      },
+      {
+        "text": "Wilhelm Gruissem",
+        "label": "PERSON",
+        "start": 86,
+        "end": 102
+      },
+      {
+        "text": "Plant Biotechnology",
+        "label": "ORG",
+        "start": 117,
+        "end": 136
+      },
+      {
+        "text": "West African",
+        "label": "NORP",
+        "start": 199,
+        "end": 211
+      },
+      {
+        "text": "cassava mosaic virus",
+        "label": "ORG",
+        "start": 352,
+        "end": 372
+      },
+      {
+        "text": "West Africa",
+        "label": "GPE",
+        "start": 424,
+        "end": 435
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 49,
+        "end": 70
+      },
+      {
+        "text": "Wilhelm Gruissem",
+        "label": "PERSON",
+        "start": 89,
+        "end": 105
+      },
+      {
+        "text": "cassava",
+        "label": "ORG",
+        "start": 6,
+        "end": 13
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 61,
+        "end": 64
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 89,
+        "end": 92
+      },
+      {
+        "text": "CMD",
+        "label": "ORG",
+        "start": 333,
+        "end": 336
+      },
+      {
+        "text": "Gruissem",
+        "label": "PERSON",
+        "start": 413,
+        "end": 421
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 1221,
+        "end": 1227
+      },
+      {
+        "text": "cassava",
+        "label": "ORG",
+        "start": 1261,
+        "end": 1268
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1323,
+        "end": 1333
+      },
+      {
+        "text": "West Africa",
+        "label": "GPE",
+        "start": 1428,
+        "end": 1439
+      },
+      {
+        "text": "Asia",
+        "label": "LOC",
+        "start": 1443,
+        "end": 1447
+      },
+      {
+        "text": "Asian",
+        "label": "NORP",
+        "start": 1498,
+        "end": 1503
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1586,
+        "end": 1589
+      },
+      {
+        "text": "CRISPR-Cas",
+        "label": "ORG",
+        "start": 1621,
+        "end": 1631
+      },
+      {
+        "text": "Gruissem",
+        "label": "PERSON",
+        "start": 1723,
+        "end": 1731
+      },
+      {
+        "text": "Gruissem",
+        "label": "GPE",
+        "start": 1768,
+        "end": 1776
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1802,
+        "end": 1812
+      },
+      {
+        "text": "70-year-old",
+        "label": "DATE",
+        "start": 1818,
+        "end": 1829
+      },
+      {
+        "text": "the end of July",
+        "label": "DATE",
+        "start": 1845,
+        "end": 1860
+      },
+      {
+        "text": "the next three years",
+        "label": "DATE",
+        "start": 1866,
+        "end": 1886
+      },
+      {
+        "text": "Taiwan",
+        "label": "GPE",
+        "start": 1921,
+        "end": 1927
+      },
+      {
+        "text": "Taiwan",
+        "label": "GPE",
+        "start": 2078,
+        "end": 2084
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 2171,
+        "end": 2173
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 2275,
+        "end": 2285
+      },
+      {
+        "text": "the Donald Danforth Plant Science Center",
+        "label": "ORG",
+        "start": 2302,
+        "end": 2342
+      },
+      {
+        "text": "St. Louis",
+        "label": "GPE",
+        "start": 2346,
+        "end": 2355
+      },
+      {
+        "text": "the University of California Los Angeles",
+        "label": "ORG",
+        "start": 2357,
+        "end": 2397
+      },
+      {
+        "text": "the National Crops Resources Research Institute",
+        "label": "ORG",
+        "start": 2402,
+        "end": 2449
+      },
+      {
+        "text": "Uganda",
+        "label": "GPE",
+        "start": 2453,
+        "end": 2459
+      },
+      {
+        "text": "the Bill & Melinda Gates Foundation",
+        "label": "ORG",
+        "start": 2523,
+        "end": 2558
+      },
+      {
+        "text": "Lim YW",
+        "label": "PERSON",
+        "start": 2560,
+        "end": 2566
+      },
+      {
+        "text": "Mansfeld BN",
+        "label": "ORG",
+        "start": 2568,
+        "end": 2579
+      },
+      {
+        "text": "Cassava Mosaic Geminiviruses",
+        "label": "ORG",
+        "start": 2682,
+        "end": 2710
+      },
+      {
+        "text": "Nat Commun",
+        "label": "PERSON",
+        "start": 2712,
+        "end": 2722
+      },
+      {
+        "text": "13, 3933",
+        "label": "DATE",
+        "start": 2723,
+        "end": 2731
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2745,
+        "end": 2752
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bemisia",
+        "ETH Zurich",
+        "Gruissem",
+        "Lim YW",
+        "Mosaic Disease Explained",
+        "Nat Commun",
+        "Wilhelm Gruissem"
+      ],
+      "ORG": [
+        "CMD",
+        "CRISPR-Cas",
+        "Cassava",
+        "Cassava Mosaic Geminiviruses",
+        "Cassava mosaic",
+        "ETH Zurich",
+        "Mansfeld BN",
+        "Nature Communications",
+        "Plant Biotechnology",
+        "cassava",
+        "cassava mosaic virus",
+        "the Bill & Melinda Gates Foundation",
+        "the Donald Danforth Plant Science Center",
+        "the National Crops Resources Research Institute",
+        "the University of California Los Angeles"
+      ],
+      "LOCATION": [
+        "Africa",
+        "Asia",
+        "Gruissem",
+        "India",
+        "Southeast Asia",
+        "St. Louis",
+        "Taiwan",
+        "US",
+        "Uganda",
+        "West Africa"
+      ],
+      "DATE": [
+        "13, 3933",
+        "70-year-old",
+        "the end of July",
+        "the next three years"
+      ],
+      "MISC": [
+        "10.1038",
+        "Asian",
+        "One",
+        "West African",
+        "nearly one billion",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Africa": 3,
+      "Gruissem": 3,
+      "ETH Zurich": 3,
+      "Cassava": 2,
+      "Cassava mosaic": 2,
+      "Wilhelm Gruissem": 2,
+      "West Africa": 2,
+      "cassava": 2,
+      "Taiwan": 2,
+      "Mosaic Disease Explained": 1,
+      "nearly one billion": 1,
+      "Bemisia": 1,
+      "India": 1,
+      "Southeast Asia": 1,
+      "Plant Biotechnology": 1,
+      "West African": 1,
+      "cassava mosaic virus": 1,
+      "Nature Communications": 1,
+      "two": 1,
+      "one": 1
+    },
+    "total_entities": 53,
+    "unique_entities": 41
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "resistance-to-mosaic-disease-explained.md",
+      "title": "En News Events/2022/07/resistance To Mosaic Disease Explained",
+      "language": "en",
+      "source_path": "en_news_events/2022/07/resistance-to-mosaic-disease-explained.html"
+    },
+    "temporal": {
+      "publication_date": "2022-07",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bemisia",
+        "ETH Zurich",
+        "Gruissem",
+        "Lim YW",
+        "Mosaic Disease Explained",
+        "Nat Commun",
+        "Wilhelm Gruissem"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher",
+          "professor"
+        ],
+        "Gruissem": [
+          "professor"
+        ],
+        "Wilhelm Gruissem": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Asian",
+        "West African",
+        "nearly one billion"
+      ],
+      "grants_funding": [
+        "fellowship",
+        "funding"
+      ],
+      "projects": [
+        "California Los",
+        "Plant Science",
+        "CRISPR-Cas",
+        "Plant Biotechnology",
+        "Southeast Asia",
+        "West Africa",
+        "Melinda Gates",
+        "To Mosaic",
+        "Cassava Mosaic",
+        "Disease Explained",
+        "National Crops",
+        "Nat Commun",
+        "Resources Research",
+        "Wilhelm Gruissem",
+        "Nature Communications",
+        "In Africa",
+        "Donald Danforth",
+        "Mansfeld BN",
+        "Lim YW",
+        "En News",
+        "West African",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CMD",
+        "CRISPR-Cas",
+        "Cassava",
+        "Cassava Mosaic Geminiviruses",
+        "Cassava mosaic",
+        "ETH Zurich",
+        "Mansfeld BN",
+        "Nature Communications",
+        "Plant Biotechnology",
+        "cassava",
+        "cassava mosaic virus",
+        "the Bill & Melinda Gates Foundation",
+        "the Donald Danforth Plant Science Center",
+        "the National Crops Resources Research Institute",
+        "the University of California Los Angeles"
+      ],
+      "locations": [
+        "Africa",
+        "Asia",
+        "Gruissem",
+        "India",
+        "Southeast Asia",
+        "St. Louis",
+        "Taiwan",
+        "US",
+        "Uganda",
+        "West Africa"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Africa",
+        "Gruissem",
+        "ETH Zurich",
+        "Cassava",
+        "Cassava mosaic",
+        "Wilhelm Gruissem",
+        "West Africa",
+        "cassava",
+        "Taiwan",
+        "Mosaic Disease Explained"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Research consortium tracks down resistance gene",
+          "Research consortium tracks down resistance gene",
+          "Targeted virus resistant breeding with genome editing",
+          "Is the DNA polymerase no working correctly?"
+        ],
+        "content_length": 4895
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "CRISPR-Cas",
+        "Cassava",
+        "Plant Biotechnology",
+        "cassava",
+        "Mosaic Disease Explained",
+        "the National Crops Resources Research Institute",
+        "the University of California Los Angeles",
+        "Cassava mosaic",
+        "2022",
+        "funding",
+        "Gruissem",
+        "Cassava Mosaic Geminiviruses",
+        "Nat Commun",
+        "fellowship",
+        "the Donald Danforth Plant Science Center",
+        "the Bill & Melinda Gates Foundation",
+        "CMD",
+        "Wilhelm Gruissem",
+        "Nature Communications",
+        "Mansfeld BN",
+        "Bemisia",
+        "cassava mosaic virus",
+        "Lim YW",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "nearly one billion",
+        "West African",
+        "10.1038",
+        "chemistry",
+        "Asian",
+        "where",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_professor",
+        "Gruissem_has_role_professor",
+        "Wilhelm Gruissem_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

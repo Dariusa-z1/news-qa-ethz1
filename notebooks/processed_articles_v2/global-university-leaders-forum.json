@@ -1,0 +1,687 @@
+{
+  "filename": "global-university-leaders-forum.md",
+  "original_filename": "global-university-leaders-forum.html",
+  "source_path": "en_news_events/2018/01/global-university-leaders-forum.html",
+  "date": "2018-01",
+  "title": "Global University Leaders Forum",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Top universities with top publication performance",
+      "text": "Oxford, Cambridge, Imperial, Harvard, Stanford, MIT, Columbia, Princeton, Harvard, Yale and China’s Tsinghua University: they are all members of the WEF's Global University Leaders Forum (GULF), as are ETH Zurich and EPFL, the group’s only Swiss members. GULF meets annually in Davos during the World Economic Forum to exchange views on higher education policy issues. A new study by THE/Elsevier shows the remarkable scientific achievement, economic impact and social involvement of this association of the two dozen best universities in the world."
+    },
+    {
+      "heading": "Top universities with top publication performance",
+      "text": "The ranking organisation Times Higher Education (THE) and Elsevier, one of the world’s largest scientific publishers, presented the results at an event in ETH Zurich’s public pavilion on the fringes of the WEF. The 27 GULF universities together account for more than seven percent of the world's scientific output. If you were to combine the GULF universities into a fictitious nation, the publication performance of these universities would rank third globally: behind the USA and China, but ahead of all other important research nations such as the UK, Japan and Germany. All GULF universities together invest nearly 20 billion US dollars annually in their top-class research."
+    },
+    {
+      "heading": "High social relevance",
+      "text": "The GULF's current account is also impressive in terms of transfers in business and society. Each year, the 27 universities attract more than 3 billion dollars in third-party funding. According to the study, this is approximately 62,000 dollars for each researcher and teacher at these institutions. The remaining 1,000 THE-ranked institutions receive an average of 27,000 dollars in third-party funding per member of scientific staff. The GULF universities are also responsible for every eighth research citation in all patent applications worldwide."
+    },
+    {
+      "heading": "Good economic networking",
+      "text": "Finally, the study shows that the GULF universities enter into partnerships primarily with large high-tech corporations. Microsoft, IBM, the pharmaceutical companies GSK and Pfizer as well as Google are the companies that collaborate most with the top universities. Researchers from GULF universities have published some 45,000 scientific papers over the past five years working in collaboration with private companies. Once again, the two Swiss GULF members were shown to be among the most internationally connected universities.\n\nFor Lino Guzzella, President of ETH Zurich, the results of this study show the social relevance of the world's best universities: \"It is all the more important that we are able to hold our top position in international rankings despite increasing competition. To do this, we need autonomy, continued solid and long-term funding from the federal government, and the innovative ideas of our researchers and teachers.\" Phil Baty, editorial director of the THE World University Rankings, also underlines the importance of public funding: \"Many of our most ground-breaking innovations have come from publicly funded blue-skies research carried out in universities by academics who did not have a clear sense of any future commercial applications for their work.\""
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Oxford",
+        "label": "GPE",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Cambridge",
+        "label": "GPE",
+        "start": 8,
+        "end": 17
+      },
+      {
+        "text": "Imperial",
+        "label": "ORG",
+        "start": 19,
+        "end": 27
+      },
+      {
+        "text": "Harvard",
+        "label": "ORG",
+        "start": 29,
+        "end": 36
+      },
+      {
+        "text": "Stanford",
+        "label": "ORG",
+        "start": 38,
+        "end": 46
+      },
+      {
+        "text": "MIT",
+        "label": "ORG",
+        "start": 48,
+        "end": 51
+      },
+      {
+        "text": "Columbia",
+        "label": "GPE",
+        "start": 53,
+        "end": 61
+      },
+      {
+        "text": "Princeton",
+        "label": "GPE",
+        "start": 63,
+        "end": 72
+      },
+      {
+        "text": "Harvard",
+        "label": "ORG",
+        "start": 74,
+        "end": 81
+      },
+      {
+        "text": "Yale",
+        "label": "ORG",
+        "start": 83,
+        "end": 87
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 92,
+        "end": 97
+      },
+      {
+        "text": "WEF",
+        "label": "ORG",
+        "start": 149,
+        "end": 152
+      },
+      {
+        "text": "Global University Leaders Forum",
+        "label": "ORG",
+        "start": 155,
+        "end": 186
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 202,
+        "end": 212
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 217,
+        "end": 221
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 240,
+        "end": 245
+      },
+      {
+        "text": "GULF",
+        "label": "ORG",
+        "start": 255,
+        "end": 259
+      },
+      {
+        "text": "annually",
+        "label": "DATE",
+        "start": 266,
+        "end": 274
+      },
+      {
+        "text": "Davos",
+        "label": "GPE",
+        "start": 278,
+        "end": 283
+      },
+      {
+        "text": "the World Economic Forum",
+        "label": "EVENT",
+        "start": 291,
+        "end": 315
+      },
+      {
+        "text": "two dozen",
+        "label": "CARDINAL",
+        "start": 508,
+        "end": 517
+      },
+      {
+        "text": "Times Higher Education",
+        "label": "ORG",
+        "start": 25,
+        "end": 47
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 68,
+        "end": 71
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 159,
+        "end": 165
+      },
+      {
+        "text": "WEF",
+        "label": "ORG",
+        "start": 206,
+        "end": 209
+      },
+      {
+        "text": "GULF",
+        "label": "ORG",
+        "start": 218,
+        "end": 222
+      },
+      {
+        "text": "more than seven percent",
+        "label": "PERCENT",
+        "start": 257,
+        "end": 280
+      },
+      {
+        "text": "GULF",
+        "label": "LOC",
+        "start": 342,
+        "end": 346
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 447,
+        "end": 452
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 474,
+        "end": 477
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 482,
+        "end": 487
+      },
+      {
+        "text": "UK",
+        "label": "GPE",
+        "start": 551,
+        "end": 553
+      },
+      {
+        "text": "Japan",
+        "label": "GPE",
+        "start": 555,
+        "end": 560
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 565,
+        "end": 572
+      },
+      {
+        "text": "GULF",
+        "label": "LOC",
+        "start": 578,
+        "end": 582
+      },
+      {
+        "text": "nearly 20 billion US dollars",
+        "label": "MONEY",
+        "start": 612,
+        "end": 640
+      },
+      {
+        "text": "annually",
+        "label": "DATE",
+        "start": 641,
+        "end": 649
+      },
+      {
+        "text": "GULF",
+        "label": "ORG",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "Each year",
+        "label": "DATE",
+        "start": 93,
+        "end": 102
+      },
+      {
+        "text": "more than 3 billion dollars",
+        "label": "MONEY",
+        "start": 132,
+        "end": 159
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 163,
+        "end": 168
+      },
+      {
+        "text": "approximately 62,000 dollars",
+        "label": "MONEY",
+        "start": 216,
+        "end": 244
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 314,
+        "end": 319
+      },
+      {
+        "text": "27,000 dollars",
+        "label": "MONEY",
+        "start": 366,
+        "end": 380
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 384,
+        "end": 389
+      },
+      {
+        "text": "GULF",
+        "label": "LOC",
+        "start": 440,
+        "end": 444
+      },
+      {
+        "text": "eighth",
+        "label": "ORDINAL",
+        "start": 489,
+        "end": 495
+      },
+      {
+        "text": "GULF",
+        "label": "LOC",
+        "start": 34,
+        "end": 38
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 121,
+        "end": 130
+      },
+      {
+        "text": "IBM",
+        "label": "ORG",
+        "start": 132,
+        "end": 135
+      },
+      {
+        "text": "GSK",
+        "label": "ORG",
+        "start": 166,
+        "end": 169
+      },
+      {
+        "text": "Pfizer",
+        "label": "PERSON",
+        "start": 174,
+        "end": 180
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 192,
+        "end": 198
+      },
+      {
+        "text": "GULF",
+        "label": "ORG",
+        "start": 283,
+        "end": 287
+      },
+      {
+        "text": "some 45,000",
+        "label": "CARDINAL",
+        "start": 316,
+        "end": 327
+      },
+      {
+        "text": "the past five years",
+        "label": "DATE",
+        "start": 351,
+        "end": 370
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 436,
+        "end": 439
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 535,
+        "end": 548
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 563,
+        "end": 573
+      },
+      {
+        "text": "Phil Baty",
+        "label": "PERSON",
+        "start": 947,
+        "end": 956
+      },
+      {
+        "text": "the THE World University Rankings",
+        "label": "ORG",
+        "start": 980,
+        "end": 1013
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Lino Guzzella",
+        "Pfizer",
+        "Phil Baty"
+      ],
+      "ORG": [
+        "EPFL",
+        "GSK",
+        "GULF",
+        "Global University Leaders Forum",
+        "Google",
+        "Harvard",
+        "IBM",
+        "Imperial",
+        "MIT",
+        "Microsoft",
+        "Stanford",
+        "Times Higher Education",
+        "WEF",
+        "Yale",
+        "the THE World University Rankings"
+      ],
+      "LOCATION": [
+        "Cambridge",
+        "China",
+        "Columbia",
+        "Davos",
+        "GULF",
+        "Germany",
+        "Japan",
+        "Oxford",
+        "Princeton",
+        "UK",
+        "USA",
+        "Zurich"
+      ],
+      "DATE": [
+        "Each year",
+        "annually",
+        "the past five years"
+      ],
+      "MISC": [
+        "1,000",
+        "27,000 dollars",
+        "Swiss",
+        "approximately 62,000 dollars",
+        "eighth",
+        "more than 3 billion dollars",
+        "more than seven percent",
+        "nearly 20 billion US dollars",
+        "one",
+        "some 45,000",
+        "the World Economic Forum",
+        "third",
+        "two",
+        "two dozen"
+      ]
+    },
+    "entity_counts": {
+      "GULF": 8,
+      "third": 3,
+      "Harvard": 2,
+      "China": 2,
+      "WEF": 2,
+      "ETH Zurich": 2,
+      "annually": 2,
+      "Oxford": 1,
+      "Cambridge": 1,
+      "Imperial": 1,
+      "Stanford": 1,
+      "MIT": 1,
+      "Columbia": 1,
+      "Princeton": 1,
+      "Yale": 1,
+      "Global University Leaders Forum": 1,
+      "EPFL": 1,
+      "Swiss": 1,
+      "Davos": 1,
+      "the World Economic Forum": 1
+    },
+    "total_entities": 61,
+    "unique_entities": 47
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "global-university-leaders-forum.md",
+      "title": "En News Events/2018/01/global University Leaders Forum",
+      "language": "en",
+      "source_path": "en_news_events/2018/01/global-university-leaders-forum.html"
+    },
+    "temporal": {
+      "publication_date": "2018-01",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Lino Guzzella",
+        "Pfizer",
+        "Phil Baty"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "president"
+        ],
+        "Lino Guzzella": [
+          "president"
+        ],
+        "Phil Baty": [
+          "director",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "rector",
+        "director",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "1,000",
+        "27,000 dollars",
+        "Swiss",
+        "approximately 62,000 dollars",
+        "eighth",
+        "more than 3 billion dollars",
+        "more than seven percent",
+        "nearly 20 billion US dollars",
+        "some 45,000",
+        "the World Economic Forum",
+        "third",
+        "two dozen"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "funding"
+      ],
+      "projects": [
+        "Tsinghua University",
+        "En News",
+        "The GULF",
+        "THE World",
+        "World Economic",
+        "All GULF",
+        "Times Higher",
+        "Swiss GULF",
+        "Phil Baty",
+        "For Lino",
+        "University Rankings",
+        "Forum Oxford",
+        "ETH Zurich",
+        "Global University",
+        "University Leaders",
+        "Leaders Forum"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "EPFL",
+        "GSK",
+        "GULF",
+        "Global University Leaders Forum",
+        "Google",
+        "Harvard",
+        "IBM",
+        "Imperial",
+        "MIT",
+        "Microsoft",
+        "Stanford",
+        "Times Higher Education",
+        "WEF",
+        "Yale",
+        "the THE World University Rankings"
+      ],
+      "locations": [
+        "Cambridge",
+        "China",
+        "Columbia",
+        "Davos",
+        "GULF",
+        "Germany",
+        "Japan",
+        "Oxford",
+        "Princeton",
+        "UK",
+        "USA",
+        "Zurich"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "GULF",
+        "third",
+        "Harvard",
+        "China",
+        "WEF",
+        "ETH Zurich",
+        "annually",
+        "Oxford",
+        "Cambridge",
+        "Imperial"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Top universities with top publication performance",
+          "Top universities with top publication performance",
+          "High social relevance",
+          "Good economic networking"
+        ],
+        "content_length": 3125
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EPFL",
+        "ERC",
+        "2018",
+        "GULF",
+        "IBM",
+        "Global University Leaders Forum",
+        "funding",
+        "Lino Guzzella",
+        "the THE World University Rankings",
+        "WEF",
+        "EU",
+        "Harvard",
+        "Google",
+        "Stanford",
+        "Phil Baty",
+        "Yale",
+        "Microsoft",
+        "GSK",
+        "MIT",
+        "ETH Zurich",
+        "Imperial",
+        "Pfizer",
+        "Times Higher Education"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "third",
+        "approximately 62,000 dollars",
+        "more than 3 billion dollars",
+        "who",
+        "nearly 20 billion US dollars",
+        "the World Economic Forum",
+        "Swiss",
+        "more than seven percent",
+        "two dozen",
+        "what",
+        "how",
+        "27,000 dollars",
+        "eighth",
+        "some 45,000",
+        "when",
+        "where",
+        "1,000"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_president",
+        "Lino Guzzella_has_role_president",
+        "Phil Baty_has_role_director",
+        "Phil Baty_has_role_rector",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

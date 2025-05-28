@@ -1,0 +1,40 @@
+# artificial-muscles-lighter-softer-more-robust.html
+
+**Source:** en_news_events/2024/01/artificial-muscles-lighter-softer-more-robust.html
+
+## In brief
+
+- Researchers at ETH Zurich have developed artificial muscles that are lighter, safer and more robust than their predecessors.
+
+- The newly developed actuators have a novel type of shell structure and use a high-permittivity ferroelectric material that can store relatively large amounts of electrical energy.
+
+- They therefore work with relatively low electrical voltage, are waterproof, more robust and safer to touch.
+
+## Voltage too high
+
+Many roboticists dream of building robots that are not just a combination of metal or other hard materials and motors but also softer and more adaptable. Soft robots could interact with their environment in a completely different way; for example, they could cushion impacts the way human limbs do, or grasp an object delicately. This would also offer benefits regarding energy consumption: robot motion today usually requires a lot of energy to maintain a position, whereas soft systems could store energy well, too. So, what could be more obvious than to take the human muscle as a model and attempt to recreate it?
+
+The functioning of artificial muscles is thus based on biology. Like their natural counterparts, artificial muscles contract in response to an electrical impulse. However, the artificial muscles consist not of cells and fibres but of a pouch filled with a liquid (usually oil), the shell of which is partially covered in electrodes. When these electrodes receive an electrical voltage, they draw together and push the liquid into the rest of the pouch, which flexes and is thus capable of lifting a weight. A single pouch is analogous to a short bundle of muscle fibres; several of these can be connected to form a complete propulsion element, which is also referred to as an actuator or simply as an artificial muscle.
+
+## Voltage too high
+
+The idea of developing artificial muscles is not new, but until now, there has been a major obstacle to realising it: electrostatic actuators worked only with extremely high voltages of around 6,000 to 10,000 volts. This requirement had several ramifications: for instance, the muscles had to be connected to large, heavy voltage amplifiers; they did not work in water; and they weren’t entirely safe for humans. A new solution has now been developed by Robert Katzschmann, a robotics professor at ETH Zurich, together with Stephan-Daniel Gravert, Elia Varini and further colleagues. They have published their version of an artificial muscle that offers several advantages in Science Advances .
+
+## Waterproof and self-sealing
+
+Gravert, who works as a scientific assistant in Katzschmann’s lab, has designed a shell for the pouch. The researchers call the new artificial muscles HALVE actuators, where HALVE stands for “hydraulically amplified low-voltage electrostatic”. “In other actuators, the electrodes are on the outside of the shell. In ours, the shell consists of different layers. We took a high-permittivity ferroelectric material, i.e. one that can store relatively large amounts of electrical energy, and combined it with a layer of electrodes. Next, we coated it with a polymer shell that has excellent mechanical properties and makes the pouch more stable,” Gravert explains. This meant the researchers could reduce the required voltage, because the much higher permittivity of the ferroelectric material allows large forces despite low voltage. Not only did Gravert and Varini develop the shell for the HALVE actuators together, but they also built the actuators themselves in the lab to use in two robots.
+
+## Grippers and fish show what the muscle can do
+
+One of these robotic examples is an 11-centimetre-tall gripper with two fingers. Each finger is moved by three series-connected pouches of the HALVE actuator. A small battery-operated power supply provides the robot with 900 volts. Together, the battery and power supply weigh just 15 grams. The entire gripper, including the power and control electronics, weighs 45 grams. The gripper can grip a smooth plastic object firmly enough to support its own weight when the object is lifted into the air with a cord. “This example excellently demonstrates how small, light and efficient the HALVE actuators are. It also means that we’ve taken a huge step closer to our goal of creating integrated muscle-operated systems,” Katzschmann says with satisfaction.
+
+The second object is a fish-like swimmer, almost 30 centimetres long, that can move smoothly through the water. It consists of a “head” containing the electronics and a flexible “body” to which the HALVE actuators are attached. These actuators move alternately in a rhythm that produces the swimming motion. The autonomous fish can go from a standstill to a speed of three centimetres per second in 14 seconds – and that’s in normal tap water.
+
+This second example is important because it demonstrates another new feature of the HALVE actuators: as the electrodes no longer sit unprotected outside the shell, the artificial muscles are now waterproof and can also be used in conductive liquids. “The fish illustrates a general advantage of these actuators – the electrodes are protected from the environment and, conversely, the environment is protected from the electrodes. So, you can operate these electrostatic actuators in water or touch them, for example,” Katzschmann explains. And the layered structure of the pouches has another advantage: the new actuators are much more robust than other artificial muscles.
+
+Ideally, the pouches should be able to achieve a great deal of motion and do it quickly. However, even the smallest production error, such as a speck of dust between the electrodes, can lead to an electrical breakdown – a kind of mini lightning strike. “When this happened in earlier models, the electrode would burn, creating a hole in the shell. This allowed the liquid to escape and rendered the actuator useless,” Gravert says. This problem is solved in the HALVE actuators because a single hole essentially closes itself due to the protective plastic outer layer. As a result, the pouch usually remains fully functional even after an electrical breakdown.
+
+The two researchers are clearly delighted to have taken the development of artificial muscles a decisive step forward, but they are also realistic. As Katzschmann says, “Now we have to ready this technology for larger-scale production, and we can’t do that here in the ETH lab. Without giving too much away, I can say that we’re already registering interest from companies that would like to work with us.” For example, artificial muscles could one day be used in novel robots, prostheses or wearables; in other words, in technologies that are worn on the human body.
+
+Gravert SD, Varini E, Kazemipour A, Michelis MY, Buchner T, Hinchet R, Katzschmann RK: Low-voltage electrohydraulic actuators for untethered robotics. Science Advances, 5. Januar 2024, doi: 10.1126/sciadv.adi9319
+

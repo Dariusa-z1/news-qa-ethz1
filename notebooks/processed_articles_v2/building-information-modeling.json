@@ -1,0 +1,519 @@
+{
+  "filename": "building-information-modeling.md",
+  "original_filename": "building-information-modeling.html",
+  "source_path": "en_internal/2019/06/building-information-modeling.html",
+  "date": "2019-06",
+  "title": "Building Information Modeling",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Video",
+      "text": "Construction of the HI distribution centre is currently underway with a view to bringing about significant reductions in CO2 emissions from heating and cooling on the Hönggerberg campus. As part of the Anergy grid on the Hönggerberg, it is one of a total of five distribution centres and will in future heat and cool the HI buildings, and ensure that waste heat from individual buildings is redistributed directly to other buildings.\n\nThe development of the energy supply and the Anergy grid is leading the way in sustainable operation of the buildings and research infrastructure on the Hönggerberg campus. In terms of measurable values, Wolfgang Seifert, strategic head of the Anergy grid, says: “The HI centre is capable of delivering an addi-tional 3.8 gigawatt hours of heating and 5.1 gigawatt hours of cooling from the Anergy grid. This will take the place of heat from fossil fuels and mechanical cooling from the HEZ energy production site.” ETH Zurich is aiming for further reductions in CO2 emissions, with a view to reducing its fossil fuel (gas) consumption by 50% by 2020, 65% by 2030 and 80% by 2040, relative to 2006 levels.\n\nThe successive expansion of the Anergy grid will have a positive impact on both fossil fuel use and operating costs, and is an important pillar of the energy efficiency target set out in the “Confederation: exemplary in energy” initiative (VBE) for implementation of the Federal Council’s Energy Strategy 2050."
+    },
+    {
+      "heading": "Subscribe to Newsletter",
+      "text": "ETH Zurich is working with the optimised planning method BIM (building information modelling) both for the HI distribution centre and the HIF renovation and extension . The data and information created during the planning process are digitally recorded, combined and cross-referenced. According to Ueli Fergg, BIM Manager at ETH Zurich, this produces a database of object-oriented, geometric and alphanumeric information relating to all aspects of the building. BIM delivers far greater benefits than conventional CAD planning and can be advantageous over the entire lifecycle of a building – for example, in terms of quality assurance, project planning and building management.\n\nAccording to Professor Ulrich Weidmann, Vice President Human Resources and Infrastructure, the Real Estate Management department recognised the potential of BIM in 2014, and accordingly launched the pilot projects and developed a set of guidelines. This laid the foundation for widespread introduction in new builds and other suitable projects.\n\nBy combining the 3D specialist models, it is possible to give the building owner or users visualised access to the project even in its early stages, as shown in the following video about the HI distribution centre."
+    },
+    {
+      "heading": "Video",
+      "text": "After taking part in a tour of the building shell of the HI distribution centre, Walter Iten, Head of Facility Management, said: “That was the first time I have experienced BIM first-hand. The tour of the HI distribution centre with 3D glasses made the importance of BIM in a building’s planning and maintenance quality tangible.” He added: “I’m excited to see how work involving BIM will change in the coming years.”"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Information Modeling",
+        "label": "PRODUCT",
+        "start": 29,
+        "end": 49
+      },
+      {
+        "text": "CO2",
+        "label": "PRODUCT",
+        "start": 121,
+        "end": 124
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 167,
+        "end": 178
+      },
+      {
+        "text": "Anergy",
+        "label": "GPE",
+        "start": 202,
+        "end": 208
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 221,
+        "end": 232
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 258,
+        "end": 262
+      },
+      {
+        "text": "Anergy",
+        "label": "GPE",
+        "start": 479,
+        "end": 485
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 587,
+        "end": 598
+      },
+      {
+        "text": "Wolfgang Seifert",
+        "label": "PERSON",
+        "start": 638,
+        "end": 654
+      },
+      {
+        "text": "Anergy",
+        "label": "GPE",
+        "start": 678,
+        "end": 684
+      },
+      {
+        "text": "3.8 gigawatt hours",
+        "label": "QUANTITY",
+        "start": 752,
+        "end": 770
+      },
+      {
+        "text": "5.1 gigawatt hours",
+        "label": "QUANTITY",
+        "start": 786,
+        "end": 804
+      },
+      {
+        "text": "Anergy",
+        "label": "GPE",
+        "start": 825,
+        "end": 831
+      },
+      {
+        "text": "HEZ",
+        "label": "ORG",
+        "start": 921,
+        "end": 924
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 950,
+        "end": 960
+      },
+      {
+        "text": "CO2",
+        "label": "PRODUCT",
+        "start": 997,
+        "end": 1000
+      },
+      {
+        "text": "50%",
+        "label": "PERCENT",
+        "start": 1073,
+        "end": 1076
+      },
+      {
+        "text": "65%",
+        "label": "PERCENT",
+        "start": 1086,
+        "end": 1089
+      },
+      {
+        "text": "80%",
+        "label": "PERCENT",
+        "start": 1102,
+        "end": 1105
+      },
+      {
+        "text": "Anergy",
+        "label": "GPE",
+        "start": 1172,
+        "end": 1178
+      },
+      {
+        "text": "VBE",
+        "label": "ORG",
+        "start": 1380,
+        "end": 1383
+      },
+      {
+        "text": "the Federal Council’s Energy Strategy",
+        "label": "ORG",
+        "start": 1407,
+        "end": 1444
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "BIM",
+        "label": "ORG",
+        "start": 57,
+        "end": 60
+      },
+      {
+        "text": "HIF",
+        "label": "ORG",
+        "start": 138,
+        "end": 141
+      },
+      {
+        "text": "Ueli Fergg",
+        "label": "PERSON",
+        "start": 298,
+        "end": 308
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 325,
+        "end": 335
+      },
+      {
+        "text": "BIM",
+        "label": "ORG",
+        "start": 462,
+        "end": 465
+      },
+      {
+        "text": "CAD",
+        "label": "ORG",
+        "start": 514,
+        "end": 517
+      },
+      {
+        "text": "Ulrich Weidmann",
+        "label": "PERSON",
+        "start": 702,
+        "end": 717
+      },
+      {
+        "text": "the Real Estate Management",
+        "label": "ORG",
+        "start": 770,
+        "end": 796
+      },
+      {
+        "text": "BIM",
+        "label": "GPE",
+        "start": 836,
+        "end": 839
+      },
+      {
+        "text": "3D",
+        "label": "ORG",
+        "start": 1041,
+        "end": 1043
+      },
+      {
+        "text": "Walter Iten",
+        "label": "PERSON",
+        "start": 81,
+        "end": 92
+      },
+      {
+        "text": "Facility Management",
+        "label": "ORG",
+        "start": 102,
+        "end": 121
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 143,
+        "end": 148
+      },
+      {
+        "text": "BIM",
+        "label": "ORG",
+        "start": 173,
+        "end": 176
+      },
+      {
+        "text": "3D",
+        "label": "ORG",
+        "start": 233,
+        "end": 235
+      },
+      {
+        "text": "BIM",
+        "label": "GPE",
+        "start": 267,
+        "end": 270
+      },
+      {
+        "text": "BIM",
+        "label": "ORG",
+        "start": 380,
+        "end": 383
+      },
+      {
+        "text": "the coming years",
+        "label": "DATE",
+        "start": 399,
+        "end": 415
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Ueli Fergg",
+        "Ulrich Weidmann",
+        "Walter Iten",
+        "Wolfgang Seifert"
+      ],
+      "ORG": [
+        "3D",
+        "BIM",
+        "CAD",
+        "ETH Zurich",
+        "Facility Management",
+        "HEZ",
+        "HIF",
+        "VBE",
+        "the Federal Council’s Energy Strategy",
+        "the Real Estate Management"
+      ],
+      "LOCATION": [
+        "Anergy",
+        "BIM",
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "the coming years"
+      ],
+      "MISC": [
+        "3.8 gigawatt hours",
+        "5.1 gigawatt hours",
+        "50%",
+        "65%",
+        "80%",
+        "CO2",
+        "Information Modeling",
+        "first",
+        "five"
+      ]
+    },
+    "entity_counts": {
+      "BIM": 6,
+      "Anergy": 5,
+      "Hönggerberg": 3,
+      "ETH Zurich": 3,
+      "CO2": 2,
+      "3D": 2,
+      "Information Modeling": 1,
+      "five": 1,
+      "Wolfgang Seifert": 1,
+      "3.8 gigawatt hours": 1,
+      "5.1 gigawatt hours": 1,
+      "HEZ": 1,
+      "50%": 1,
+      "65%": 1,
+      "80%": 1,
+      "VBE": 1,
+      "the Federal Council’s Energy Strategy": 1,
+      "HIF": 1,
+      "Ueli Fergg": 1,
+      "CAD": 1
+    },
+    "total_entities": 41,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "building-information-modeling.md",
+      "title": "En Internal/2019/06/building Information Modeling",
+      "language": "en",
+      "source_path": "en_internal/2019/06/building-information-modeling.html"
+    },
+    "temporal": {
+      "publication_date": "2019-06",
+      "mentioned_years": [
+        "2006",
+        "2014",
+        "2019",
+        "2020",
+        "2030"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Ueli Fergg",
+        "Ulrich Weidmann",
+        "Walter Iten",
+        "Wolfgang Seifert"
+      ],
+      "people_with_roles": {
+        "Ulrich Weidmann": [
+          "Professor",
+          "president",
+          "professor"
+        ],
+        "Walter Iten": [
+          "head"
+        ],
+        "Wolfgang Seifert": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "mathematics"
+      ],
+      "research_topics": [
+        "3.8 gigawatt hours",
+        "5.1 gigawatt hours",
+        "Information Modeling",
+        "first",
+        "five"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Walter Iten",
+        "Vice President",
+        "BIM Manager",
+        "The HI",
+        "Information Modeling",
+        "Wolfgang Seifert",
+        "En Internal",
+        "Ueli Fergg",
+        "Professor Ulrich",
+        "Human Resources",
+        "Federal Council",
+        "Real Estate",
+        "Facility Management",
+        "ETH Zurich",
+        "Energy Strategy"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "3D",
+        "BIM",
+        "CAD",
+        "ETH Zurich",
+        "Facility Management",
+        "HEZ",
+        "HIF",
+        "VBE",
+        "the Federal Council’s Energy Strategy",
+        "the Real Estate Management"
+      ],
+      "locations": [
+        "Anergy",
+        "BIM",
+        "Hönggerberg"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "BIM",
+        "Anergy",
+        "Hönggerberg",
+        "ETH Zurich",
+        "CO2",
+        "3D",
+        "Information Modeling",
+        "five",
+        "Wolfgang Seifert",
+        "3.8 gigawatt hours"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Video",
+          "Subscribe to Newsletter",
+          "Video"
+        ],
+        "content_length": 3161
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "HEZ",
+        "BIM",
+        "2020",
+        "Facility Management",
+        "3D",
+        "CAD",
+        "2019",
+        "2014",
+        "the Real Estate Management",
+        "Ulrich Weidmann",
+        "Ueli Fergg",
+        "Wolfgang Seifert",
+        "VBE",
+        "Walter Iten",
+        "2006",
+        "HIF",
+        "Hönggerberg",
+        "2030",
+        "ETH Zurich",
+        "the Federal Council’s Energy Strategy"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "3.8 gigawatt hours",
+        "who",
+        "5.1 gigawatt hours",
+        "Information Modeling",
+        "where",
+        "what",
+        "how",
+        "five",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Ulrich Weidmann_has_role_Professor",
+        "Ulrich Weidmann_has_role_president",
+        "Ulrich Weidmann_has_role_professor",
+        "Walter Iten_has_role_head",
+        "Wolfgang Seifert_has_role_head",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

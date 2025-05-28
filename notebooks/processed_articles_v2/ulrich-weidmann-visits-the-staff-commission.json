@@ -1,0 +1,296 @@
+{
+  "filename": "ulrich-weidmann-visits-the-staff-commission.md",
+  "original_filename": "ulrich-weidmann-visits-the-staff-commission.html",
+  "source_path": "en_internal/2016/04/ulrich-weidmann-visits-the-staff-commission.html",
+  "date": "2016-04",
+  "title": "Ulrich Weidmann Visits The Staff Commission",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Salaries in the spotlight",
+      "text": "As Vice President for Human Resources and Infrastructure , Ulrich Weidmann is responsible for human resources policy as well as personnel development and management at ETH Zurich. Recently he visited the Staff Commission (PeKo), which represents the interests of the administrative and technical personnel with respect to the Executive Board.\n\nWeidmann praised both the teamwork within the Executive Board and the flexibility of ETH Zurich. “Colleagues at ETH distinguish themselves through a high degree of professionalism and commitment – they are talented people who complement each other.”\n\nETH Zurich offers favourable terms of employment and a high level of job security. No one is left behind during periods of change, while flexibility is a key factor in success at all levels.\n\nWeidmann reiterated that leadership is a matter of collaboration between staff and management, but that management have a responsibility to adequately fulfil their leadership duties."
+    },
+    {
+      "heading": "Salaries in the spotlight",
+      "text": "The evaluated salary system meets fundamental requirements, though Weidmann sees scope for adjustments to job descriptions , which serve to determine function levels as well as individual salaries.\n\nIn the long term, said Weidmann, he is personally more inclined to increase the performance-related components of salaries – in whatever form – than to reduce them. “In so doing, we’re motivating for the future, rather than just rewarding the past. There is still a great deal to think over in this area.” A reduction in performance-related components from 1.2% to 0.6% of the salary total is currently under discussion."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ulrich Weidmann",
+        "label": "PERSON",
+        "start": 20,
+        "end": 35
+      },
+      {
+        "text": "The Staff Commission",
+        "label": "ORG",
+        "start": 43,
+        "end": 63
+      },
+      {
+        "text": "Human Resources and Infrastructure",
+        "label": "ORG",
+        "start": 22,
+        "end": 56
+      },
+      {
+        "text": "Ulrich Weidmann",
+        "label": "PERSON",
+        "start": 59,
+        "end": 74
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 168,
+        "end": 178
+      },
+      {
+        "text": "the Staff Commission",
+        "label": "ORG",
+        "start": 200,
+        "end": 220
+      },
+      {
+        "text": "PeKo",
+        "label": "PERSON",
+        "start": 222,
+        "end": 226
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 322,
+        "end": 341
+      },
+      {
+        "text": "Weidmann",
+        "label": "PERSON",
+        "start": 343,
+        "end": 351
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 385,
+        "end": 404
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 428,
+        "end": 438
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 455,
+        "end": 458
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 593,
+        "end": 603
+      },
+      {
+        "text": "Weidmann",
+        "label": "PERSON",
+        "start": 784,
+        "end": 792
+      },
+      {
+        "text": "Weidmann",
+        "label": "PERSON",
+        "start": 67,
+        "end": 75
+      },
+      {
+        "text": "Weidmann",
+        "label": "PERSON",
+        "start": 221,
+        "end": 229
+      },
+      {
+        "text": "1.2% to 0.6%",
+        "label": "PERCENT",
+        "start": 555,
+        "end": 567
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "PeKo",
+        "Ulrich Weidmann",
+        "Weidmann",
+        "ulrich Weidmann"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Human Resources and Infrastructure",
+        "The Staff Commission",
+        "the Executive Board",
+        "the Staff Commission"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "1.2% to 0.6%"
+      ]
+    },
+    "entity_counts": {
+      "Weidmann": 4,
+      "ETH Zurich": 3,
+      "the Executive Board": 2,
+      "ulrich Weidmann": 1,
+      "The Staff Commission": 1,
+      "Human Resources and Infrastructure": 1,
+      "Ulrich Weidmann": 1,
+      "the Staff Commission": 1,
+      "PeKo": 1,
+      "ETH": 1,
+      "1.2% to 0.6%": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ulrich-weidmann-visits-the-staff-commission.md",
+      "title": "En Internal/2016/04/ulrich Weidmann Visits The Staff Commission",
+      "language": "en",
+      "source_path": "en_internal/2016/04/ulrich-weidmann-visits-the-staff-commission.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "PeKo",
+        "Ulrich Weidmann",
+        "Weidmann",
+        "ulrich Weidmann"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "president"
+        ],
+        "Ulrich Weidmann": [
+          "president"
+        ],
+        "Weidmann": [
+          "president"
+        ],
+        "ulrich Weidmann": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "1.2% to 0.6%"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Ulrich Weidmann",
+        "The Staff",
+        "Vice President",
+        "Commission As",
+        "Weidmann Visits",
+        "Executive Board",
+        "En Internal",
+        "Human Resources",
+        "Staff Commission",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Human Resources and Infrastructure",
+        "The Staff Commission",
+        "the Executive Board",
+        "the Staff Commission"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Weidmann",
+        "ETH Zurich",
+        "the Executive Board",
+        "ulrich Weidmann",
+        "The Staff Commission",
+        "Human Resources and Infrastructure",
+        "Ulrich Weidmann",
+        "the Staff Commission",
+        "PeKo",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Salaries in the spotlight",
+          "Salaries in the spotlight"
+        ],
+        "content_length": 1653
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Ulrich Weidmann",
+        "ETH",
+        "the Staff Commission",
+        "ulrich Weidmann",
+        "PeKo",
+        "The Staff Commission",
+        "2016",
+        "the Executive Board",
+        "ETH Zurich",
+        "Human Resources and Infrastructure",
+        "Weidmann"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "1.2% to 0.6%",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_president",
+        "Ulrich Weidmann_has_role_president",
+        "Weidmann_has_role_president",
+        "ulrich Weidmann_has_role_president",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

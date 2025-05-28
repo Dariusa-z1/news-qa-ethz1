@@ -1,0 +1,152 @@
+{
+  "filename": "i-try-not-to-sacrifice-my-private-life.md",
+  "original_filename": "i-try-not-to-sacrifice-my-private-life.html",
+  "source_path": "en_news_events/2023/09/i-try-not-to-sacrifice-my-private-life.html",
+  "date": "2023-09",
+  "title": "I Try Not To Sacrifice My Private Life",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Advice for students",
+      "text": "Eren Akbiyik worked as a software developer at IBM and is now pursuing a Master's degree at ETH. In the video he talks about how he finds relaxation in his packed daily study routine."
+    },
+    {
+      "heading": "Advice for students",
+      "text": "ETH Zurich offers advice centres for any situation that may arise during your studies."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "IBM",
+        "label": "ORG",
+        "start": 47,
+        "end": 50
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 92,
+        "end": 95
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 163,
+        "end": 168
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH",
+        "IBM"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "daily"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "IBM": 1,
+      "ETH": 1,
+      "daily": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "i-try-not-to-sacrifice-my-private-life.md",
+      "title": "En News Events/2023/09/i Try Not To Sacrifice My Private Life",
+      "language": "en",
+      "source_path": "en_news_events/2023/09/i-try-not-to-sacrifice-my-private-life.html"
+    },
+    "temporal": {
+      "publication_date": "2023-09",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "To Sacrifice",
+        "En News",
+        "Life Eren",
+        "My Private",
+        "ETH Zurich",
+        "Try Not"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "IBM"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "how"
+      ],
+      "key_concepts": [
+        "IBM",
+        "ETH",
+        "daily",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Advice for students",
+          "Advice for students"
+        ],
+        "content_length": 332
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "ETH",
+        "IBM",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "computer_science",
+        "how"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

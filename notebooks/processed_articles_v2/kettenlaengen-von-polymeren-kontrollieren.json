@@ -1,0 +1,488 @@
+{
+  "filename": "kettenlaengen-von-polymeren-kontrollieren.md",
+  "original_filename": "kettenlaengen-von-polymeren-kontrollieren.html",
+  "source_path": "de_news_events/2020/06/kettenlaengen-von-polymeren-kontrollieren.html",
+  "date": "2020-06",
+  "title": "Kettenlaengen Von Polymeren Kontrollieren",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Polymerisationsverfahren mit Grenzen",
+      "text": "Aus unserem Alltag sind Materialien aus synthetischen Polymeren kaum mehr wegzudenken. Kleider, Autoteile, Computer oder Verpackungen – sie alle bestehen aus Polymermaterialien. Auch in der Natur gibt es eine Reihe von Polymeren, wie etwa die DNA oder Proteine.\n\nDie Architektur von Polymeren ist universell: Sie sind aus Grundbausteinen, die Monomere genannt werden, zusammengesetzt. Bei der Synthese von Polymeren werden Monomere zu langen Ketten verknüpft. Eine einfache Vorstellung davon ist, dass man Glasperlen an einer Schnur aufreiht und so Ketten von unterschiedlicher Länge (und unterschiedlichem Gewicht) erstellt."
+    },
+    {
+      "heading": "Polymerisationsverfahren mit Grenzen",
+      "text": "Ein wichtiges industrielles Verfahren, um Polymere zu erzeugen, ist die radikalische Polymerisation (engl. Free Radical Polymerisation, FRP). Damit produziert die chemische Industrie jährlich 200 Millionen Tonnen Polymere verschiedenster Art, wie etwa Polyacryl, Polyvinylchlorid (PVC) oder Polystyrol.\n\nObwohl diese Herstellungsweise zahlreiche Vorteile hat, so hat sie auch ihre Grenzen. Bei der radikalischen Polymerisation entsteht auf unkontrollierbare Weise ein Gemisch, das aus unzähligen, verschieden langen Polymerspezies besteht, also eine hohe Dispersität aufweist. Die Dispersität ist ein Mass dafür, wie einheitlich respektive uneinheitlich die Länge der Polymerketten in einem Material ist. Die Dispersität bestimmt auch wesentlich, welche Eigenschaften dieses aufweist.\n\nFür alltägliche Polymermaterialien sind Polymere mit sowohl hoher als auch niedriger Dispersität erforderlich. Tatsächlich kann für viele High-Tech-Anwendungen wie Pharmazeutika oder beim 3D-Druck, eine hohe Dispersität sogar von Vorteil sein."
+    },
+    {
+      "heading": "Polymere mit neuen Eigenschaften",
+      "text": "Wollen Chemiker jedoch gezielt Polymermaterialien mit ganz bestimmten Eigenschaften produzieren, dann müssen sie in erster Linie die Dispersität wunschgemäss einstellen können. So können sie eine grosse Bandbreite von Polymermaterialien erzeugen, die entweder einheitliche Polymerspezies, also eine tiefe Dispersität haben, oder eben hoch dispers sind mit einer hohen Zahl verschieden langer Polymere. Bis anhin war das kaum möglich.\n\nNun hat aber eine Gruppe von Forschenden um Athina Anastasaki, Professorin für Polymermaterialien am Departement Materialwissenschaft, eine Methode der radikalischen Polymerisation entwickelt, die es erlaubt, die Dispersität von Polymermaterialien systematisch und vollständig zu kontrollieren. Die Forschungsergebnisse wurden soeben in der Fachzeitschrift «Chem» veröffentlicht.\n\nUm die radikalische Polymerisation wenigstens einigermassen kontrollieren zu können, verwendeten Chemikerinnen nur einen Katalysator. Dieser sorgt dafür, dass die entstehenden Polymerketten einheitlich lang werden. Dadurch liess sich die Dispersität insgesamt aber nicht nach Wunsch steuern."
+    },
+    {
+      "heading": "Zwei Katalysatoren einsetzen",
+      "text": "Neu setzten die ETH-Forschenden gleichzeitig zwei Katalysatoren von unterschiedlicher Wirkung ein – der eine ist hochaktiv, der andere wenig aktiv. Über das Mischverhältnis der beiden Katalysatoren gelang es ihnen, die Dispersität genau einstellen. Lag es zugunsten des aktiveren, entstanden mehr einheitliche Polymere und damit ein Material von geringer Dispersität. War hingegen der weniger aktive Katalysator in der Mehrheit, dann entstand eine Vielzahl verschiedener Polymermoleküle.\n\nDamit haben Anastasaki und ihre Mitarbeitenden eine Grundlage geschaffen für die Entwicklung neuer Materialien aus Polymeren. Der Prozess ist zudem skalierbar, er funktioniert nicht nur im Labor, sondern lässt sich auch auf grössere Stoffmengen anwenden. Ein weiterer Vorteil dieser Methode: Selbst Polymere von hoher Dispersität können nach erfolgter Polymerisation weiterwachsen, was bisher für unmöglich gehalten wurde.\n\nDie hohe Effizienz und Skalierbarkeit des Ansatzes haben bereits das Interesse der Industrie geweckt. Polymere, die mit dem neuen Verfahren erzeugt werden, könnten in der Medizin, bei Impfstoffen, in Kosmetika oder im 3D-Druck verwendet werden.\n\nWhitfield R, Parkatzidis K, Truong NP, Junkers T, Anastasaki A: Tailoring Polymer Dispersity by RAFT Polymerization: A Versatile Approach. Chem, Vol. 6, Issue 6, P 1340-1352, 11. Juni 2020. doi: externe Seite 10.1016/j.chempr.2020.04.020"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Polymermaterialien",
+        "label": "LOC",
+        "start": 158,
+        "end": 176
+      },
+      {
+        "text": "DNA",
+        "label": "MISC",
+        "start": 243,
+        "end": 246
+      },
+      {
+        "text": "Proteine",
+        "label": "ORG",
+        "start": 252,
+        "end": 260
+      },
+      {
+        "text": "Grundbausteinen",
+        "label": "LOC",
+        "start": 321,
+        "end": 336
+      },
+      {
+        "text": "Monomere",
+        "label": "LOC",
+        "start": 342,
+        "end": 350
+      },
+      {
+        "text": "Polymere",
+        "label": "PER",
+        "start": 42,
+        "end": 50
+      },
+      {
+        "text": "radikalische",
+        "label": "MISC",
+        "start": 72,
+        "end": 84
+      },
+      {
+        "text": "engl.",
+        "label": "MISC",
+        "start": 101,
+        "end": 106
+      },
+      {
+        "text": "Free Radical Polymerisation",
+        "label": "MISC",
+        "start": 107,
+        "end": 134
+      },
+      {
+        "text": "FRP",
+        "label": "ORG",
+        "start": 136,
+        "end": 139
+      },
+      {
+        "text": "Polymere",
+        "label": "PER",
+        "start": 213,
+        "end": 221
+      },
+      {
+        "text": "Polyacryl",
+        "label": "PER",
+        "start": 252,
+        "end": 261
+      },
+      {
+        "text": "Polyvinylchlorid",
+        "label": "PER",
+        "start": 263,
+        "end": 279
+      },
+      {
+        "text": "PVC",
+        "label": "MISC",
+        "start": 281,
+        "end": 284
+      },
+      {
+        "text": "Polystyrol",
+        "label": "LOC",
+        "start": 291,
+        "end": 301
+      },
+      {
+        "text": "Polymerisation",
+        "label": "LOC",
+        "start": 411,
+        "end": 425
+      },
+      {
+        "text": "Polymere",
+        "label": "PER",
+        "start": 824,
+        "end": 832
+      },
+      {
+        "text": "Polymermaterialien",
+        "label": "LOC",
+        "start": 218,
+        "end": 236
+      },
+      {
+        "text": "Athina Anastasaki",
+        "label": "PER",
+        "start": 478,
+        "end": 495
+      },
+      {
+        "text": "Departement Materialwissenschaft",
+        "label": "ORG",
+        "start": 535,
+        "end": 567
+      },
+      {
+        "text": "radikalische",
+        "label": "MISC",
+        "start": 821,
+        "end": 833
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 16,
+        "end": 31
+      },
+      {
+        "text": "Anastasaki",
+        "label": "PER",
+        "start": 500,
+        "end": 510
+      },
+      {
+        "text": "Polymere",
+        "label": "PER",
+        "start": 787,
+        "end": 795
+      },
+      {
+        "text": "Polymere",
+        "label": "PER",
+        "start": 1013,
+        "end": 1021
+      },
+      {
+        "text": "Impfstoffen",
+        "label": "LOC",
+        "start": 1095,
+        "end": 1106
+      },
+      {
+        "text": "Kosmetika",
+        "label": "LOC",
+        "start": 1111,
+        "end": 1120
+      },
+      {
+        "text": "Whitfield R",
+        "label": "LOC",
+        "start": 1156,
+        "end": 1167
+      },
+      {
+        "text": "Parkatzidis K",
+        "label": "LOC",
+        "start": 1169,
+        "end": 1182
+      },
+      {
+        "text": "Truong NP",
+        "label": "ORG",
+        "start": 1184,
+        "end": 1193
+      },
+      {
+        "text": "Junkers T",
+        "label": "PER",
+        "start": 1195,
+        "end": 1204
+      },
+      {
+        "text": "Anastasaki A",
+        "label": "ORG",
+        "start": 1206,
+        "end": 1218
+      },
+      {
+        "text": "Tailoring Polymer",
+        "label": "PER",
+        "start": 1220,
+        "end": 1237
+      },
+      {
+        "text": "Vol. 6",
+        "label": "MISC",
+        "start": 1301,
+        "end": 1307
+      },
+      {
+        "text": "Issue 6",
+        "label": "MISC",
+        "start": 1309,
+        "end": 1316
+      },
+      {
+        "text": "P 1340-1352",
+        "label": "MISC",
+        "start": 1318,
+        "end": 1329
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Anastasaki",
+        "Athina Anastasaki",
+        "De News",
+        "Junkers T",
+        "Polyacryl",
+        "Polymere",
+        "Polyvinylchlorid",
+        "Tailoring Polymer"
+      ],
+      "ORG": [
+        "Anastasaki A",
+        "Departement Materialwissenschaft",
+        "ETH-Forschenden",
+        "FRP",
+        "Proteine",
+        "Truong NP"
+      ],
+      "LOCATION": [
+        "Grundbausteinen",
+        "Impfstoffen",
+        "Kosmetika",
+        "Monomere",
+        "Parkatzidis K",
+        "Polymerisation",
+        "Polymermaterialien",
+        "Polystyrol",
+        "Whitfield R"
+      ],
+      "DATE": [],
+      "MISC": [
+        "DNA",
+        "Free Radical Polymerisation",
+        "Issue 6",
+        "P 1340-1352",
+        "PVC",
+        "Vol. 6",
+        "engl.",
+        "radikalische"
+      ]
+    },
+    "entity_counts": {
+      "Polymere": 5,
+      "Polymermaterialien": 2,
+      "radikalische": 2,
+      "De News": 1,
+      "DNA": 1,
+      "Proteine": 1,
+      "Grundbausteinen": 1,
+      "Monomere": 1,
+      "engl.": 1,
+      "Free Radical Polymerisation": 1,
+      "FRP": 1,
+      "Polyacryl": 1,
+      "Polyvinylchlorid": 1,
+      "PVC": 1,
+      "Polystyrol": 1,
+      "Polymerisation": 1,
+      "Athina Anastasaki": 1,
+      "Departement Materialwissenschaft": 1,
+      "ETH-Forschenden": 1,
+      "Anastasaki": 1
+    },
+    "total_entities": 37,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "kettenlaengen-von-polymeren-kontrollieren.md",
+      "title": "De News Events/2020/06/kettenlaengen von Polymeren Kontrollieren",
+      "language": "de",
+      "source_path": "de_news_events/2020/06/kettenlaengen-von-polymeren-kontrollieren.html"
+    },
+    "temporal": {
+      "publication_date": "2020-06",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Anastasaki",
+        "Athina Anastasaki",
+        "De News",
+        "Junkers T",
+        "Polyacryl",
+        "Polymere",
+        "Polyvinylchlorid",
+        "Tailoring Polymer"
+      ],
+      "people_with_roles": {
+        "Anastasaki": [
+          "professor"
+        ],
+        "Athina Anastasaki": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "Free Radical Polymerisation",
+        "Issue 6",
+        "P 1340-1352",
+        "Vol. 6",
+        "engl.",
+        "radikalische"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Die Forschungsergebnisse",
+        "RAFT Polymerization",
+        "Junkers T",
+        "Millionen Tonnen",
+        "Whitfield R",
+        "Selbst Polymere",
+        "Parkatzidis K",
+        "Polymeren Kontrollieren",
+        "Anastasaki A",
+        "Tailoring Polymer",
+        "Wollen Chemiker",
+        "Free Radical",
+        "Athina Anastasaki",
+        "A Versatile",
+        "Departement Materialwissenschaft",
+        "Truong NP",
+        "ETH-Forschenden",
+        "De News",
+        "High-Tech",
+        "Die Architektur",
+        "Der Prozess"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Anastasaki A",
+        "Departement Materialwissenschaft",
+        "ETH-Forschenden",
+        "FRP",
+        "Proteine",
+        "Truong NP"
+      ],
+      "locations": [
+        "Grundbausteinen",
+        "Impfstoffen",
+        "Kosmetika",
+        "Monomere",
+        "Parkatzidis K",
+        "Polymerisation",
+        "Polymermaterialien",
+        "Polystyrol",
+        "Whitfield R"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Polymere",
+        "Polymermaterialien",
+        "radikalische",
+        "De News",
+        "DNA",
+        "Proteine",
+        "Grundbausteinen",
+        "Monomere",
+        "engl.",
+        "Free Radical Polymerisation"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Polymerisationsverfahren mit Grenzen",
+          "Polymerisationsverfahren mit Grenzen",
+          "Polymere mit neuen Eigenschaften",
+          "Zwei Katalysatoren einsetzen"
+        ],
+        "content_length": 4225
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Polymere",
+        "Anastasaki",
+        "Polyacryl",
+        "Departement Materialwissenschaft",
+        "EU",
+        "2020",
+        "Truong NP",
+        "Anastasaki A",
+        "Tailoring Polymer",
+        "ETH-Forschenden",
+        "De News",
+        "Polyvinylchlorid",
+        "FRP",
+        "Athina Anastasaki",
+        "Junkers T",
+        "Proteine"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "P 1340-1352",
+        "who",
+        "Vol. 6",
+        "chemistry",
+        "radikalische",
+        "engl.",
+        "what",
+        "how",
+        "Issue 6",
+        "Free Radical Polymerisation"
+      ],
+      "graph_relations": [
+        "Anastasaki_has_role_professor",
+        "Athina Anastasaki_has_role_professor",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

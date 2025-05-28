@@ -1,0 +1,528 @@
+{
+  "filename": "mit-elektronischer-schaltung-teleportiert.md",
+  "original_filename": "mit-elektronischer-schaltung-teleportiert.html",
+  "source_path": "de_news_events/2013/08/mit-elektronischer-schaltung-teleportiert.html",
+  "date": "2013-08",
+  "title": "Mit Elektronischer Schaltung Teleportiert",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "«Wie beim Beamen»",
+      "text": "Physikern der ETH Zürich ist es erstmals gelungen, eine Information in einem sogenannten Festkörpersystem zu teleportieren. Dies gelang den Forschern auf einem Chip. Er unterscheidet sich von einem herkömmlichen Computerchip dadurch, dass die Informationen darauf nicht nach den Gesetzen der klassischen Physik, sondern nach jenen der Quantenphysik gespeichert und verarbeitet werden. In einer in der jüngsten Ausgabe der Fachzeitschrift «Nature» publizierten Studie gelang es den Forschenden, Information über sechs Millimeter zu teleportieren, von einer Ecke des Chips in die gegenüberliegende Ecke. Dies nota bene ohne dass bei der Informationsübertragung physikalische Teilchen den Weg von der Sender-Ecke in die Empfänger-Ecke zurückgelegt hätten.\n\n«Bei der gewöhnlichen Telekommunikation wird die Information über elektro-magnetische Impulse übertragen. Beispielsweise transportiert man im Mobilfunk gepulste Radiowellen und in Glasfaserverbindungen gepulste Lichtwellen», erklärt Andreas Wallraff, Professor am Laboratorium für Festkörperphysik und Leiter der Studie. Bei der Quantenteleportation hingegen transportiere man nicht den Informationsträger selbst, sondern ausschliesslich die Information. Dies, indem man quantenmechanische Eigenschaften des Systems nutze, ins-besondere die Verschränkung von Sende- und Empfängereinheit. Damit ist eine für Nicht-Physiker «magisch» anmutende Verbindung gemeint, die die Gesetze der Quantenphysik nutzt."
+    },
+    {
+      "heading": "«Wie beim Beamen»",
+      "text": "Zur Vorbereitung der Quantenteleportation bringt man Sende- und Empfängereinheit in einen verschränkten Zustand. Anschliessend können die beiden Einheiten physikalisch voneinander getrennt werden, denn der verschränkte Zustand bleibt erhalten. Beim Experiment programmieren die Physiker in der Sendeeinheit eine quantenmechanische Information. Weil die beiden Einheiten miteinander verschränkt sind, kann man diese Information auch in der Empfängereinheit ablesen. «Quantenteleportation ist vergleichbar mit dem Beamen in der Science-Fiction-Serie Star Trek», sagt Wallraff. «Die Information reist nicht von Punkt A zu Punkt B. Vielmehr erscheint sie an Punkt B und verschwindet an Punkt A, wenn man sie an Punkt B abliest.»"
+    },
+    {
+      "heading": "Hohe Übertragungsrate",
+      "text": "Die Distanz von sechs Millimetern, über die die ETH-Forscher teleportierten, mag im Vergleich mit anderen Teleportationsexperimenten kurz erscheinen. Vor einem Jahr ist es beispielsweise österreichischen Wissenschaftlern gelungen, eine Information über mehr als hundert Kilometer zwischen den beiden Kanarischen Inseln La Palma und Teneriffa zu teleportieren. Dieser und ähnliche Versuche waren jedoch grundlegend anders, da es sich dabei um optische Systeme mit sichtbarem Licht handelte. Den ETH-Forschenden ist es hingegen zum ersten Mal gelungen, Informationen in einem System mit supraleitenden elektronischen Schaltungen zu teleportieren. «Das ist interessant, weil solche Schaltungen wichtige Elemente für den Bau von zukünftigen Quantencomputern sind», sagt Wallraff. Ein weiterer Vorteil des Systems der ETH-Wissenschaftler: Es ist extrem schnell und deutlich schneller als die meisten bisherigen Teleportationssysteme. Pro Sekunde lassen sich damit etwa 10'000 Quantenbits übertragen."
+    },
+    {
+      "heading": "«Wichtige Zukunftstechnologie»",
+      "text": "Als nächstes möchten die Forschenden mit ihrem System den Abstand zwischen Sender und Empfänger vergrössern. Zunächst möchten sie versuchen, Information von einem Chip auf einen anderen zu teleportieren. Und langfristig geht es darum zu erforschen, ob man mit elektronischen Schaltungen auch über grössere Distanzen Quantenkommunikation betreiben kann, so wie das jetzt mit optischen Systemen gemacht wird.\n\n«Teleportation ist eine wichtige Zukunftstechnologie auf dem Gebiet der Quanteninformationsverarbeitung», sagt Wallraff. Damit lasse sich beispielsweise Information auf einem Quantenchip oder in einem zukünftigen Quantenprozessor von einem Punkt zu einem anderen transportieren. Gegenüber den heutigen Informations- und Kommunikationstechnologien, die auf der klassischen Physik beruhen, hat quantenphysikalische Information den Vorteil, dass die Informationsdichte viel höher ist: In Quantenbits lässt sich mehr Information speichern und effizienter verarbeiten als in der gleichen Anzahl klassischer Bits."
+    },
+    {
+      "heading": "Publikation",
+      "text": "Original: Steffen L, Salathe Y, Oppliger M, Kurpiers P, Baur M, Lang C, Eichler C, Puebla-Hellmann G, Fe-dorov A, Wallraff A: Deterministic quantum teleportation with feed-forward in a solid state system. Nature, 2013, 500: 319-322, doi: externe Seite 10.1038/nature12422 .\n\nETH Zürich Prof. Andreas Wallraff Laboratorium für Festkörperphysik\n\nETH Zürich Medienstelle Tel. +41 44 632 41 41"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Elektronischer",
+        "label": "PER",
+        "start": 27,
+        "end": 41
+      },
+      {
+        "text": "Teleportiert",
+        "label": "PER",
+        "start": 52,
+        "end": 64
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 14,
+        "end": 24
+      },
+      {
+        "text": "Forschern",
+        "label": "ORG",
+        "start": 140,
+        "end": 149
+      },
+      {
+        "text": "Nature",
+        "label": "MISC",
+        "start": 439,
+        "end": 445
+      },
+      {
+        "text": "nota",
+        "label": "MISC",
+        "start": 607,
+        "end": 611
+      },
+      {
+        "text": "Sender-Ecke",
+        "label": "LOC",
+        "start": 698,
+        "end": 709
+      },
+      {
+        "text": "Empfänger-Ecke",
+        "label": "LOC",
+        "start": 717,
+        "end": 731
+      },
+      {
+        "text": "Glasfaserverbindungen",
+        "label": "LOC",
+        "start": 933,
+        "end": 954
+      },
+      {
+        "text": "Andreas Wallraff",
+        "label": "PER",
+        "start": 986,
+        "end": 1002
+      },
+      {
+        "text": "Star Trek",
+        "label": "MISC",
+        "start": 548,
+        "end": 557
+      },
+      {
+        "text": "B abliest",
+        "label": "LOC",
+        "start": 713,
+        "end": 722
+      },
+      {
+        "text": "ETH-Forscher",
+        "label": "MISC",
+        "start": 48,
+        "end": 60
+      },
+      {
+        "text": "österreichischen",
+        "label": "MISC",
+        "start": 187,
+        "end": 203
+      },
+      {
+        "text": "Kanarischen Inseln",
+        "label": "LOC",
+        "start": 300,
+        "end": 318
+      },
+      {
+        "text": "La Palma",
+        "label": "LOC",
+        "start": 319,
+        "end": 327
+      },
+      {
+        "text": "Teneriffa",
+        "label": "LOC",
+        "start": 332,
+        "end": 341
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 494,
+        "end": 509
+      },
+      {
+        "text": "ETH-Wissenschaftler",
+        "label": "MISC",
+        "start": 813,
+        "end": 832
+      },
+      {
+        "text": "Quantenbits",
+        "label": "LOC",
+        "start": 892,
+        "end": 903
+      },
+      {
+        "text": "Steffen L",
+        "label": "PER",
+        "start": 10,
+        "end": 19
+      },
+      {
+        "text": "Salathe Y",
+        "label": "PER",
+        "start": 21,
+        "end": 30
+      },
+      {
+        "text": "Oppliger M",
+        "label": "MISC",
+        "start": 32,
+        "end": 42
+      },
+      {
+        "text": "Kurpiers P",
+        "label": "PER",
+        "start": 44,
+        "end": 54
+      },
+      {
+        "text": "Baur M",
+        "label": "ORG",
+        "start": 56,
+        "end": 62
+      },
+      {
+        "text": "Lang C",
+        "label": "PER",
+        "start": 64,
+        "end": 70
+      },
+      {
+        "text": "Eichler C",
+        "label": "ORG",
+        "start": 72,
+        "end": 81
+      },
+      {
+        "text": "Puebla-Hellmann G",
+        "label": "PER",
+        "start": 83,
+        "end": 100
+      },
+      {
+        "text": "Fe-dorov A",
+        "label": "ORG",
+        "start": 102,
+        "end": 112
+      },
+      {
+        "text": "Wallraff A",
+        "label": "PER",
+        "start": 114,
+        "end": 124
+      },
+      {
+        "text": "Deterministic",
+        "label": "LOC",
+        "start": 126,
+        "end": 139
+      },
+      {
+        "text": "with feed-forward",
+        "label": "PER",
+        "start": 162,
+        "end": 179
+      },
+      {
+        "text": "a solid state system",
+        "label": "ORG",
+        "start": 183,
+        "end": 203
+      },
+      {
+        "text": "Nature",
+        "label": "MISC",
+        "start": 205,
+        "end": 211
+      },
+      {
+        "text": "nature12422",
+        "label": "MISC",
+        "start": 260,
+        "end": 271
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 274,
+        "end": 284
+      },
+      {
+        "text": "Andreas Wallraff Laboratorium",
+        "label": "PER",
+        "start": 291,
+        "end": 320
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 342,
+        "end": 352
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andreas Wallraff",
+        "Andreas Wallraff Laboratorium",
+        "De News",
+        "Elektronischer",
+        "Kurpiers P",
+        "Lang C",
+        "Puebla-Hellmann G",
+        "Salathe Y",
+        "Steffen L",
+        "Teleportiert",
+        "Wallraff A",
+        "with feed-forward"
+      ],
+      "ORG": [
+        "Baur M",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Eichler C",
+        "Fe-dorov A",
+        "Forschern",
+        "a solid state system"
+      ],
+      "LOCATION": [
+        "B abliest",
+        "Deterministic",
+        "Empfänger-Ecke",
+        "Glasfaserverbindungen",
+        "Kanarischen Inseln",
+        "La Palma",
+        "Quantenbits",
+        "Sender-Ecke",
+        "Teneriffa"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Forscher",
+        "ETH-Wissenschaftler",
+        "Nature",
+        "Oppliger M",
+        "Star Trek",
+        "nature12422",
+        "nota",
+        "österreichischen"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 3,
+      "Nature": 2,
+      "De News": 1,
+      "Elektronischer": 1,
+      "Teleportiert": 1,
+      "Forschern": 1,
+      "nota": 1,
+      "Sender-Ecke": 1,
+      "Empfänger-Ecke": 1,
+      "Glasfaserverbindungen": 1,
+      "Andreas Wallraff": 1,
+      "Star Trek": 1,
+      "B abliest": 1,
+      "ETH-Forscher": 1,
+      "österreichischen": 1,
+      "Kanarischen Inseln": 1,
+      "La Palma": 1,
+      "Teneriffa": 1,
+      "ETH-Forschenden": 1,
+      "ETH-Wissenschaftler": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 36
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mit-elektronischer-schaltung-teleportiert.md",
+      "title": "De News Events/2013/08/mit Elektronischer Schaltung Teleportiert",
+      "language": "de",
+      "source_path": "de_news_events/2013/08/mit-elektronischer-schaltung-teleportiert.html"
+    },
+    "temporal": {
+      "publication_date": "2013-08",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Andreas Wallraff",
+        "Andreas Wallraff Laboratorium",
+        "De News",
+        "Elektronischer",
+        "Kurpiers P",
+        "Lang C",
+        "Puebla-Hellmann G",
+        "Salathe Y",
+        "Steffen L",
+        "Teleportiert",
+        "Wallraff A",
+        "with feed-forward"
+      ],
+      "people_with_roles": {
+        "Andreas Wallraff": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "physics"
+      ],
+      "research_topics": [
+        "ETH-Forscher",
+        "ETH-Wissenschaftler",
+        "Nature",
+        "Oppliger M",
+        "Star Trek",
+        "nature12422",
+        "nota",
+        "österreichischen"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Teleportiert Physikern",
+        "Punkt B",
+        "Wallraff A",
+        "Medienstelle Tel",
+        "Zur Vorbereitung",
+        "Oppliger M",
+        "Nicht-Physiker",
+        "La Palma",
+        "Die Information",
+        "ETH-Forscher",
+        "ETH-Wissenschaftler",
+        "In Quantenbits",
+        "Pro Sekunde",
+        "Eichler C",
+        "Serie Star",
+        "Kurpiers P",
+        "Distanzen Quantenkommunikation",
+        "Kanarischen Inseln",
+        "Salathe Y",
+        "Baur M",
+        "Elektronischer Schaltung",
+        "Lang C",
+        "Beim Experiment",
+        "Die Distanz",
+        "Punkt A",
+        "Puebla-Hellmann",
+        "Den ETH",
+        "Sender-Ecke",
+        "Andreas Wallraff",
+        "Science-Fiction",
+        "Steffen L",
+        "De News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Baur M",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Eichler C",
+        "Fe-dorov A",
+        "Forschern",
+        "a solid state system"
+      ],
+      "locations": [
+        "B abliest",
+        "Deterministic",
+        "Empfänger-Ecke",
+        "Glasfaserverbindungen",
+        "Kanarischen Inseln",
+        "La Palma",
+        "Quantenbits",
+        "Sender-Ecke",
+        "Teneriffa"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "Nature",
+        "De News",
+        "Elektronischer",
+        "Teleportiert",
+        "Forschern",
+        "nota",
+        "Sender-Ecke",
+        "Empfänger-Ecke",
+        "Glasfaserverbindungen"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "«Wie beim Beamen»",
+          "«Wie beim Beamen»",
+          "Hohe Übertragungsrate",
+          "«Wichtige Zukunftstechnologie»",
+          "Publikation"
+        ],
+        "content_length": 4647
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "with feed-forward",
+        "Wallraff A",
+        "ERC",
+        "Puebla-Hellmann G",
+        "Forschern",
+        "ETH Zürich",
+        "Eichler C",
+        "Kurpiers P",
+        "Salathe Y",
+        "Baur M",
+        "EU",
+        "Lang C",
+        "Elektronischer",
+        "Andreas Wallraff Laboratorium",
+        "Fe-dorov A",
+        "Andreas Wallraff",
+        "2013",
+        "Steffen L",
+        "ETH-Forschenden",
+        "De News",
+        "Teleportiert",
+        "a solid state system"
+      ],
+      "semantic_concepts": [
+        "physics",
+        "Oppliger M",
+        "Nature",
+        "nature12422",
+        "who",
+        "ETH-Forscher",
+        "nota",
+        "ETH-Wissenschaftler",
+        "Star Trek",
+        "österreichischen"
+      ],
+      "graph_relations": [
+        "Andreas Wallraff_has_role_professor",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

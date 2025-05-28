@@ -1,0 +1,630 @@
+{
+  "filename": "a-solution-to-treat-radioactive-effluents.md",
+  "original_filename": "a-solution-to-treat-radioactive-effluents.html",
+  "source_path": "en_news_events/2020/09/a-solution-to-treat-radioactive-effluents.html",
+  "date": "2020-09",
+  "title": "A Solution To Treat Radioactive Effluents",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Filter also suitable for radioactive isotopes",
+      "text": "The nuclear accident in Fukushima remains etched into people’s memories. It was a catastrophe that caused huge amounts of radioactively contaminated water to be released, which the operators of the nuclear power plant subsequently had to clean up. One of the methods they used was reverse osmosis but it wasn’t particularly effective. Although it is possible to purify up to 70 percent of the contaminated water this way, radioactive elements accumulate in the remaining 30 percent. Some of these elements are highly radioactive and remain so for thousands of years. As things stand, the Japanese government is planning to dump this water – over one million litres in total – in the Pacific Ocean come 2022.\n\n“If they used our filter, they wouldn’t need to,” says Raffaele Mezzenga, Professor of Food & Soft Materials at ETH Zurich. It was four years ago that he and his Senior Scientist Sreenath Bolisetty unveiled their invention of a filter membrane made primarily of denatured whey protein and activated carbon.\n\nIn a publication at the time, the researchers demonstrated how efficiently their product removes heavy metals, some radioactive elements such as uranium, and precious metals such as gold or platinum from water (see ETH News 09.06.2017 )."
+    },
+    {
+      "heading": "Filter also suitable for radioactive isotopes",
+      "text": "Now, Mezzenga and Bolisetty have used their membrane to purify hospital effluents contaminated with radioactive elements. Over the course of their investigation, the two researchers discovered that their filter is efficient at removing these substances as well. Their study was recently published in the journal Environmental Science: Water Research & Technology .\n\nLaboratory tests show that the membrane is able to remove radionuclides used in the medical field – technetium-99m, iodine-123 and gallium-68 – from water with efficiencies of over 99.8% in just one filtration step.\n\nThe researchers also tested their filter membrane with a sample of real effluents from a Swiss hospital, which contained radioactive iodine-131 and lutetium-177. It removed both elements almost completely from the water."
+    },
+    {
+      "heading": "Filter membrane effective on a broad scale",
+      "text": "Hospitals need special storage facilities where radioactively contaminated wastewater can be safely stored. (Photo: Inselspital Berne)\n\nMedical professionals use radionuclides to treat cancer, for example, or as a contrast agent in imaging procedures. In most cases, these materials are only slightly radioactive and have a short half-life of just a few hours or days.\n\nNevertheless, disposal in the sewerage system is not permitted either for hospital effluents that contain these substances or for human waste from patients treated with them. Hospitals must therefore store the effluents safely and securely in special containers until the radioactivity has dropped to a harmless level. This creates problems with space. But that’s not the only issue. It’s also necessary to ensure that personnel and the environment are protected from radiation."
+    },
+    {
+      "heading": "Membrane massively reduces volumes of waste",
+      "text": "“Thanks to our membrane, it’s possible to enormously reduce the amount of waste and to store the radiating elements as compact, dry solids,” Mezzenga says. Once the membrane has reached its full absorption capacity, it can be replaced and stored in a way that doesn’t take up much space, he explains. The filtered liquids can then be discharged safely into the sewerage system.\n\nThe study’s co-author Bolisetty co-founded BluAct Technologies GmbH four years ago. Now his company is preparing a pilot project with a large Swiss hospital that is keen to test the filtration of radioactive effluents. He is confident that the project will soon be up and running. Negotiations are currently underway to establish a safe way to implement the filters.\n\nBolisetty is also holding negotiations with a Japanese company involved in the Fukushima clean-up operation about using the filter membrane to treat a sample of the contaminated water. His aim is to find out if it reliably removes most of the radioactive elements and if it is suitable for treating large volumes.\n\nBased on the results of their current study, ETH Professor Mezzenga believes the product has what it takes. “The filter membrane eliminates radioactive isotopes on a broad scale,” he says. In principle, all radioactive isotopes in the periodic table that lie between the extremes tested, i.e. technetium and uranium, bind to the membrane. These include radioactive caesium, iodine, silver and cobalt, all of which are present in the water leaked from Fukushima. Large quantities of tritium are also present; this is the only element that will likely not bind to the membrane because it is too small.\n\n“If our assumption is correct, the filter membrane could massively reduce the volume of wastewater in Fukushima, meaning that no radioactive water would have to be dumped into the Pacific Ocean,” Bolisetty says. He explains that the filters saturated with the highly radioactive elements can be stored as solids, for example in the same place as used fuel rods from nuclear power plants.\n\nIt is not particularly difficult to produce the filter membrane. The whey protein used is a waste product of the dairy industry, cheap and available everywhere. The activated carbon component is also readily available. “I’m positive that Japan could start using the filter membrane right now and, in doing so, solve a serious environmental problem,” Bolisetty says.\n\nBolisetty S, Coray NM, Pailka A, Prenosil GA, Mezzenga R. Amyloid Hybrid Membranes for Removal of Clinical and Nuclear Radioactive Wastewater. Environ. Sci.: Water Res. Technol., 2020, Advance Article, DOI: 10.1039/D0EW00693A"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Fukushima",
+        "label": "GPE",
+        "start": 24,
+        "end": 33
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 248,
+        "end": 251
+      },
+      {
+        "text": "up to 70 percent",
+        "label": "PERCENT",
+        "start": 369,
+        "end": 385
+      },
+      {
+        "text": "the remaining 30 percent",
+        "label": "PERCENT",
+        "start": 457,
+        "end": 481
+      },
+      {
+        "text": "thousands of years",
+        "label": "DATE",
+        "start": 547,
+        "end": 565
+      },
+      {
+        "text": "Japanese",
+        "label": "NORP",
+        "start": 588,
+        "end": 596
+      },
+      {
+        "text": "the Pacific Ocean",
+        "label": "LOC",
+        "start": 679,
+        "end": 696
+      },
+      {
+        "text": "Raffaele Mezzenga",
+        "label": "PERSON",
+        "start": 763,
+        "end": 780
+      },
+      {
+        "text": "Food & Soft Materials",
+        "label": "ORG",
+        "start": 795,
+        "end": 816
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 820,
+        "end": 830
+      },
+      {
+        "text": "four years ago",
+        "label": "DATE",
+        "start": 839,
+        "end": 853
+      },
+      {
+        "text": "Sreenath Bolisetty",
+        "label": "PERSON",
+        "start": 887,
+        "end": 905
+      },
+      {
+        "text": "ETH News 09.06.2017",
+        "label": "ORG",
+        "start": 1230,
+        "end": 1249
+      },
+      {
+        "text": "Mezzenga",
+        "label": "PERSON",
+        "start": 5,
+        "end": 13
+      },
+      {
+        "text": "Bolisetty",
+        "label": "PERSON",
+        "start": 18,
+        "end": 27
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 166,
+        "end": 169
+      },
+      {
+        "text": "Environmental Science: Water Research & Technology",
+        "label": "WORK_OF_ART",
+        "start": 312,
+        "end": 362
+      },
+      {
+        "text": "technetium-99",
+        "label": "DATE",
+        "start": 465,
+        "end": 478
+      },
+      {
+        "text": "gallium-68",
+        "label": "DATE",
+        "start": 496,
+        "end": 506
+      },
+      {
+        "text": "99.8%",
+        "label": "PERCENT",
+        "start": 546,
+        "end": 551
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 560,
+        "end": 563
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 670,
+        "end": 675
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 329,
+        "end": 333
+      },
+      {
+        "text": "just a few hours or",
+        "label": "TIME",
+        "start": 342,
+        "end": 361
+      },
+      {
+        "text": "Mezzenga",
+        "label": "PERSON",
+        "start": 141,
+        "end": 149
+      },
+      {
+        "text": "Bolisetty",
+        "label": "PERSON",
+        "start": 400,
+        "end": 409
+      },
+      {
+        "text": "BluAct Technologies GmbH",
+        "label": "ORG",
+        "start": 421,
+        "end": 445
+      },
+      {
+        "text": "four years ago",
+        "label": "DATE",
+        "start": 446,
+        "end": 460
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 520,
+        "end": 525
+      },
+      {
+        "text": "Bolisetty",
+        "label": "PERSON",
+        "start": 745,
+        "end": 754
+      },
+      {
+        "text": "Japanese",
+        "label": "NORP",
+        "start": 791,
+        "end": 799
+      },
+      {
+        "text": "Fukushima",
+        "label": "PERSON",
+        "start": 824,
+        "end": 833
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1104,
+        "end": 1107
+      },
+      {
+        "text": "Mezzenga",
+        "label": "PERSON",
+        "start": 1118,
+        "end": 1126
+      },
+      {
+        "text": "Fukushima",
+        "label": "PERSON",
+        "start": 1510,
+        "end": 1519
+      },
+      {
+        "text": "Fukushima",
+        "label": "GPE",
+        "start": 1761,
+        "end": 1770
+      },
+      {
+        "text": "the Pacific Ocean",
+        "label": "LOC",
+        "start": 1835,
+        "end": 1852
+      },
+      {
+        "text": "Bolisetty",
+        "label": "PERSON",
+        "start": 1855,
+        "end": 1864
+      },
+      {
+        "text": "Japan",
+        "label": "GPE",
+        "start": 2285,
+        "end": 2290
+      },
+      {
+        "text": "Bolisetty",
+        "label": "PERSON",
+        "start": 2397,
+        "end": 2406
+      },
+      {
+        "text": "Bolisetty S",
+        "label": "PERSON",
+        "start": 2413,
+        "end": 2424
+      },
+      {
+        "text": "Coray NM",
+        "label": "PERSON",
+        "start": 2426,
+        "end": 2434
+      },
+      {
+        "text": "Pailka A",
+        "label": "ORG",
+        "start": 2436,
+        "end": 2444
+      },
+      {
+        "text": "Prenosil GA",
+        "label": "PERSON",
+        "start": 2446,
+        "end": 2457
+      },
+      {
+        "text": "Mezzenga R. Amyloid Hybrid Membranes for Removal of Clinical",
+        "label": "PERSON",
+        "start": 2459,
+        "end": 2519
+      },
+      {
+        "text": "Environ",
+        "label": "PERSON",
+        "start": 2556,
+        "end": 2563
+      },
+      {
+        "text": "Sci",
+        "label": "PERSON",
+        "start": 2565,
+        "end": 2568
+      },
+      {
+        "text": "Water Res",
+        "label": "PERSON",
+        "start": 2571,
+        "end": 2580
+      },
+      {
+        "text": "Technol",
+        "label": "ORG",
+        "start": 2582,
+        "end": 2589
+      },
+      {
+        "text": "Advance Article",
+        "label": "ORG",
+        "start": 2598,
+        "end": 2613
+      },
+      {
+        "text": "10.1039/D0EW00693A",
+        "label": "CARDINAL",
+        "start": 2620,
+        "end": 2638
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bolisetty",
+        "Bolisetty S",
+        "Coray NM",
+        "Environ",
+        "Fukushima",
+        "Mezzenga",
+        "Mezzenga R. Amyloid Hybrid Membranes for Removal of Clinical",
+        "Prenosil GA",
+        "Raffaele Mezzenga",
+        "Sci",
+        "Sreenath Bolisetty",
+        "Water Res"
+      ],
+      "ORG": [
+        "Advance Article",
+        "BluAct Technologies GmbH",
+        "ETH",
+        "ETH News 09.06.2017",
+        "En News",
+        "Food & Soft Materials",
+        "Pailka A",
+        "Technol"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Fukushima",
+        "Japan",
+        "the Pacific Ocean"
+      ],
+      "DATE": [
+        "four years ago",
+        "gallium-68",
+        "just a few hours or",
+        "technetium-99",
+        "thousands of years"
+      ],
+      "MISC": [
+        "10.1039/D0EW00693A",
+        "99.8%",
+        "Environmental Science: Water Research & Technology",
+        "Japanese",
+        "One",
+        "Swiss",
+        "half",
+        "one",
+        "the remaining 30 percent",
+        "two",
+        "up to 70 percent"
+      ]
+    },
+    "entity_counts": {
+      "Bolisetty": 5,
+      "Fukushima": 4,
+      "Mezzenga": 3,
+      "Japanese": 2,
+      "the Pacific Ocean": 2,
+      "four years ago": 2,
+      "Swiss": 2,
+      "En News": 1,
+      "One": 1,
+      "up to 70 percent": 1,
+      "the remaining 30 percent": 1,
+      "thousands of years": 1,
+      "Raffaele Mezzenga": 1,
+      "Food & Soft Materials": 1,
+      "ETH Zurich": 1,
+      "Sreenath Bolisetty": 1,
+      "ETH News 09.06.2017": 1,
+      "two": 1,
+      "Environmental Science: Water Research & Technology": 1,
+      "technetium-99": 1
+    },
+    "total_entities": 52,
+    "unique_entities": 39
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-solution-to-treat-radioactive-effluents.md",
+      "title": "En News Events/2020/09/a Solution To Treat Radioactive Effluents",
+      "language": "en",
+      "source_path": "en_news_events/2020/09/a-solution-to-treat-radioactive-effluents.html"
+    },
+    "temporal": {
+      "publication_date": "2020-09",
+      "mentioned_years": [
+        "2017",
+        "2020",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bolisetty",
+        "Bolisetty S",
+        "Coray NM",
+        "Environ",
+        "Fukushima",
+        "Mezzenga",
+        "Mezzenga R. Amyloid Hybrid Membranes for Removal of Clinical",
+        "Prenosil GA",
+        "Raffaele Mezzenga",
+        "Sci",
+        "Sreenath Bolisetty",
+        "Water Res"
+      ],
+      "people_with_roles": {
+        "Bolisetty": [
+          "scientist"
+        ],
+        "Mezzenga": [
+          "Professor",
+          "professor"
+        ],
+        "Raffaele Mezzenga": [
+          "professor"
+        ],
+        "Sci": [
+          "scientist"
+        ],
+        "Sreenath Bolisetty": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1039/D0EW00693A",
+        "99.8%",
+        "Environmental Science: Water Research & Technology",
+        "Japanese",
+        "Swiss",
+        "half",
+        "the remaining 30 percent",
+        "up to 70 percent"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Coray NM",
+        "Effluents The",
+        "Advance Article",
+        "Pailka A",
+        "Mezzenga R",
+        "Soft Materials",
+        "Sreenath Bolisetty",
+        "BluAct Technologies",
+        "ETH Professor",
+        "Senior Scientist",
+        "Solution To",
+        "Amyloid Hybrid",
+        "Raffaele Mezzenga",
+        "Nuclear Radioactive",
+        "Inselspital Berne",
+        "Treat Radioactive",
+        "Water Research",
+        "ETH News",
+        "Bolisetty S",
+        "Pacific Ocean",
+        "Water Res",
+        "En News",
+        "Environmental Science",
+        "Prenosil GA",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Advance Article",
+        "BluAct Technologies GmbH",
+        "ETH",
+        "ETH News 09.06.2017",
+        "En News",
+        "Food & Soft Materials",
+        "Pailka A",
+        "Technol"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Fukushima",
+        "Japan",
+        "the Pacific Ocean"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Bolisetty",
+        "Fukushima",
+        "Mezzenga",
+        "Japanese",
+        "the Pacific Ocean",
+        "four years ago",
+        "Swiss",
+        "En News",
+        "One",
+        "up to 70 percent"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Filter also suitable for radioactive isotopes",
+          "Filter also suitable for radioactive isotopes",
+          "Filter membrane effective on a broad scale",
+          "Membrane massively reduces volumes of waste"
+        ],
+        "content_length": 5617
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Environ",
+        "Coray NM",
+        "2020",
+        "Advance Article",
+        "Pailka A",
+        "ERC",
+        "Sreenath Bolisetty",
+        "2022",
+        "BluAct Technologies GmbH",
+        "Mezzenga",
+        "Raffaele Mezzenga",
+        "Food & Soft Materials",
+        "Fukushima",
+        "Bolisetty S",
+        "ETH News 09.06.2017",
+        "Technol",
+        "Mezzenga R. Amyloid Hybrid Membranes for Removal of Clinical",
+        "Sci",
+        "Water Res",
+        "En News",
+        "2017",
+        "Prenosil GA",
+        "Bolisetty"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Environmental Science: Water Research & Technology",
+        "half",
+        "who",
+        "Japanese",
+        "Swiss",
+        "up to 70 percent",
+        "where",
+        "10.1039/D0EW00693A",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "engineering",
+        "99.8%",
+        "the remaining 30 percent"
+      ],
+      "graph_relations": [
+        "Bolisetty_has_role_scientist",
+        "Mezzenga_has_role_Professor",
+        "Mezzenga_has_role_professor",
+        "Raffaele Mezzenga_has_role_professor",
+        "Sci_has_role_scientist",
+        "Sreenath Bolisetty_has_role_scientist",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

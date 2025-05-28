@@ -1,0 +1,460 @@
+{
+  "filename": "stroke.md",
+  "original_filename": "stroke.html",
+  "source_path": "en_news_events/2014/02/stroke.html",
+  "date": "2014-02",
+  "title": "Stroke",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The healthy half of the brain assumes control",
+      "text": "After a stroke, the brain stem (purple) plays an important role in the recovery of motor functions. (Graph: iStockphoto – Yakobchuk)\n\nAround 16,000 people in Switzerland suffer a stroke every year. Often the result of a sudden occlusion of a vessel supplying the brain, it is the most frequent live-threatening neurological disorder. In most cases, it has far-reaching consequences for survivors. Often the stroke sufferers have to cope with handicaps and rehabilitation is a long process. The brain does, however, have a “considerable capacity for regeneration” explains Lukas Bachmann, a member of Professor Martin Schwab’s research team . He found that the brainstem, the oldest region in the brain, could play an important role in recovery. The results have now been published in “The Journal of Neuroscience”."
+    },
+    {
+      "heading": "The healthy half of the brain assumes control",
+      "text": "A stroke in the cerebral cortex frequently leads to motor constraints of one half of the body, to what is known as hemiparesis. This is due to the loss of neuron pathways which transmit signals from the cortex to the spinal cord. As these pathways are crossed, the side of the body contralateral to the affected half of the brain is affected. The major impairments at the beginning are often only temporary and stroke sufferers can sometimes stage an amazing recovery. “The side of the body affected is increasingly controlled by the ipsilateral side of the cortex, i.e. the healthy side”, explains Lukas Bachmann. As the neuron pathways are crossed, this raised the following question for the neuroscientists: by which pathway are the signals rerouted from the motor cortex to the ipsilateral parts of the spinal cor"
+    },
+    {
+      "heading": "Sprouting of neurons from the brainstem",
+      "text": "In their study in mice the researchers in Martin Schwab’s team now demonstrate that the brainstem probably plays a key role in the rerouting of neural impulses. Images of the brain show that after a major stroke nerve fibers from specific core regions of the brain sprout into the area of the spinal cord that had lost its input after a stroke. “At the same time, more fibers sprout from the intact cortex into these same regions of the brainstem”, continues Lukas Bachmann. These changes in the neuronal circuits may mediate the non-crossed flow of nerve impulses after a stroke. “This could turn out to be a key mechanism which facilitates recovery after a stroke”, says the brain researcher. The scientists now want to use these findings to steer the sprouting of neurons in various areas of the brain by means of targeted therapy to maximise the recovery of motor functions.\n\nThis text was written by Media Relations of the University of Zurich and first published under www.mediadesk.uzh.ch ."
+    },
+    {
+      "heading": "Further reading",
+      "text": "Bachmann LC, Lindau NT, Felder P, Schwab ME: Sprouting of Brainstem–Spinal Tracts in Response to Unilateral Motor Cortex Stroke in Mice. The Journal of Neuroscience, February 25, 2014. DOI: 10.1523/JNEUROSCI.4384-13.2014\n\nThis year’s Brain Fair with the theme “Angst im Gehirn (fear in the brain)” kicks off with a presentation entitled “Angst: Gefühl, Symptom, Krankheit? Die psychiatrische Perspektive” by neurologist Paul Hoff. Discussion forums where experts shed light on the various facets of fear – from neurobiology to the treatment of anxiety disorders – will take place every evening until 15 March, examining what happens in the brain when a person is frightened, why healthy fear can also become irrational and how pathological fear is treated today.\n\nThe Brain Fair has been organised by the Neuroscience Centre Zurich , a joint competence centre of ETH Zurich and the University of Zurich, since 1998 with a view to keeping the general public abreast of the latest developments in neuroscience research."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Around 16,000",
+        "label": "CARDINAL",
+        "start": 133,
+        "end": 146
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 157,
+        "end": 168
+      },
+      {
+        "text": "every year",
+        "label": "DATE",
+        "start": 185,
+        "end": 195
+      },
+      {
+        "text": "Lukas Bachmann",
+        "label": "PERSON",
+        "start": 571,
+        "end": 585
+      },
+      {
+        "text": "Martin Schwab",
+        "label": "PERSON",
+        "start": 609,
+        "end": 622
+      },
+      {
+        "text": "The Journal of Neuroscience",
+        "label": "WORK_OF_ART",
+        "start": 784,
+        "end": 811
+      },
+      {
+        "text": "one half",
+        "label": "CARDINAL",
+        "start": 73,
+        "end": 81
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 312,
+        "end": 316
+      },
+      {
+        "text": "Lukas Bachmann",
+        "label": "PERSON",
+        "start": 599,
+        "end": 613
+      },
+      {
+        "text": "cor",
+        "label": "ORG",
+        "start": 814,
+        "end": 817
+      },
+      {
+        "text": "Martin Schwab’s",
+        "label": "ORG",
+        "start": 42,
+        "end": 57
+      },
+      {
+        "text": "Lukas Bachmann",
+        "label": "PERSON",
+        "start": 459,
+        "end": 473
+      },
+      {
+        "text": "Media Relations of the University of Zurich",
+        "label": "ORG",
+        "start": 904,
+        "end": 947
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 952,
+        "end": 957
+      },
+      {
+        "text": "Bachmann LC",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Response to Unilateral Motor Cortex Stroke",
+        "label": "ORG",
+        "start": 85,
+        "end": 127
+      },
+      {
+        "text": "Mice",
+        "label": "GPE",
+        "start": 131,
+        "end": 135
+      },
+      {
+        "text": "The Journal of Neuroscience",
+        "label": "ORG",
+        "start": 137,
+        "end": 164
+      },
+      {
+        "text": "February 25, 2014",
+        "label": "DATE",
+        "start": 166,
+        "end": 183
+      },
+      {
+        "text": "10.1523",
+        "label": "CARDINAL",
+        "start": 190,
+        "end": 197
+      },
+      {
+        "text": "Gehirn",
+        "label": "PERSON",
+        "start": 269,
+        "end": 275
+      },
+      {
+        "text": "Krankheit",
+        "label": "GPE",
+        "start": 361,
+        "end": 370
+      },
+      {
+        "text": "Paul Hoff",
+        "label": "PERSON",
+        "start": 419,
+        "end": 428
+      },
+      {
+        "text": "every evening",
+        "label": "TIME",
+        "start": 579,
+        "end": 592
+      },
+      {
+        "text": "15 March",
+        "label": "DATE",
+        "start": 599,
+        "end": 607
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 755,
+        "end": 760
+      },
+      {
+        "text": "The Brain Fair",
+        "label": "ORG",
+        "start": 762,
+        "end": 776
+      },
+      {
+        "text": "the Neuroscience Centre Zurich",
+        "label": "ORG",
+        "start": 799,
+        "end": 829
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 861,
+        "end": 871
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 876,
+        "end": 900
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Gehirn",
+        "Lukas Bachmann",
+        "Martin Schwab",
+        "Paul Hoff"
+      ],
+      "ORG": [
+        "Bachmann LC",
+        "En News",
+        "Martin Schwab’s",
+        "Media Relations of the University of Zurich",
+        "Response to Unilateral Motor Cortex Stroke",
+        "The Brain Fair",
+        "The Journal of Neuroscience",
+        "cor",
+        "the Neuroscience Centre Zurich",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Krankheit",
+        "Mice",
+        "Switzerland"
+      ],
+      "DATE": [
+        "15 March",
+        "February 25, 2014",
+        "every evening",
+        "every year",
+        "today"
+      ],
+      "MISC": [
+        "10.1523",
+        "Around 16,000",
+        "The Journal of Neuroscience",
+        "first",
+        "half",
+        "one half"
+      ]
+    },
+    "entity_counts": {
+      "Lukas Bachmann": 3,
+      "The Journal of Neuroscience": 2,
+      "En News": 1,
+      "Around 16,000": 1,
+      "Switzerland": 1,
+      "every year": 1,
+      "Martin Schwab": 1,
+      "one half": 1,
+      "half": 1,
+      "cor": 1,
+      "Martin Schwab’s": 1,
+      "Media Relations of the University of Zurich": 1,
+      "first": 1,
+      "Bachmann LC": 1,
+      "Response to Unilateral Motor Cortex Stroke": 1,
+      "Mice": 1,
+      "February 25, 2014": 1,
+      "10.1523": 1,
+      "Gehirn": 1,
+      "Krankheit": 1
+    },
+    "total_entities": 31,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "stroke.md",
+      "title": "En News Events/2014/02/stroke",
+      "language": "en",
+      "source_path": "en_news_events/2014/02/stroke.html"
+    },
+    "temporal": {
+      "publication_date": "2014-02",
+      "mentioned_years": [
+        "1998",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Gehirn",
+        "Lukas Bachmann",
+        "Martin Schwab",
+        "Paul Hoff"
+      ],
+      "people_with_roles": {
+        "Lukas Bachmann": [
+          "professor"
+        ],
+        "Martin Schwab": [
+          "scientist",
+          "Professor",
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "10.1523",
+        "Around 16,000",
+        "The Journal of Neuroscience",
+        "first",
+        "half",
+        "one half"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Media Relations",
+        "Martin Schwab",
+        "En News",
+        "The Brain",
+        "Bachmann LC",
+        "Felder P",
+        "Neuroscience Centre",
+        "Cortex Stroke",
+        "ETH Zurich",
+        "Schwab ME",
+        "Unilateral Motor",
+        "The Journal",
+        "Lindau NT",
+        "Brain Fair",
+        "Lukas Bachmann",
+        "Spinal Tracts",
+        "Professor Martin",
+        "Paul Hoff"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bachmann LC",
+        "En News",
+        "Martin Schwab’s",
+        "Media Relations of the University of Zurich",
+        "Response to Unilateral Motor Cortex Stroke",
+        "The Brain Fair",
+        "The Journal of Neuroscience",
+        "cor",
+        "the Neuroscience Centre Zurich",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Krankheit",
+        "Mice",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Lukas Bachmann",
+        "The Journal of Neuroscience",
+        "En News",
+        "Around 16,000",
+        "Switzerland",
+        "every year",
+        "Martin Schwab",
+        "one half",
+        "half",
+        "cor"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "The healthy half of the brain assumes control",
+          "The healthy half of the brain assumes control",
+          "Sprouting of neurons from the brainstem",
+          "Further reading"
+        ],
+        "content_length": 3678
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Response to Unilateral Motor Cortex Stroke",
+        "2014",
+        "Martin Schwab",
+        "En News",
+        "EU",
+        "the Neuroscience Centre Zurich",
+        "the University of Zurich",
+        "Bachmann LC",
+        "The Brain Fair",
+        "cor",
+        "1998",
+        "Gehirn",
+        "Media Relations of the University of Zurich",
+        "ETH Zurich",
+        "Lukas Bachmann",
+        "The Journal of Neuroscience",
+        "Martin Schwab’s",
+        "Paul Hoff"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Around 16,000",
+        "half",
+        "who",
+        "what",
+        "10.1523",
+        "how",
+        "medical_research",
+        "The Journal of Neuroscience",
+        "why",
+        "when",
+        "where",
+        "one half"
+      ],
+      "graph_relations": [
+        "Lukas Bachmann_has_role_professor",
+        "Martin Schwab_has_role_scientist",
+        "Martin Schwab_has_role_Professor",
+        "Martin Schwab_has_role_researcher",
+        "Martin Schwab_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

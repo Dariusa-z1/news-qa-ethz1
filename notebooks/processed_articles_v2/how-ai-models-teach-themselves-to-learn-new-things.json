@@ -1,0 +1,428 @@
+{
+  "filename": "how-ai-models-teach-themselves-to-learn-new-things.md",
+  "original_filename": "how-ai-models-teach-themselves-to-learn-new-things.html",
+  "source_path": "en_news_events/2023/07/how-ai-models-teach-themselves-to-learn-new-things.html",
+  "date": "2023-07",
+  "title": "How Ai Models Teach Themselves To Learn New Things",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Despite their huge success, the inner workings of large language models such as OpenAI’s GPT model family and Google Bard remain a mystery, even to their developers. Researchers at ETH and Google have uncovered a potential key mechanism behind their ability to learn on-the-fly and fine-tune their answers based on interactions with their users. Johannes von Oswald is a doctoral student in the group headed by Angelika Steger, ETH Professor for Theoretical Computer Science, and researches learning algorithms for neural networks. His new paper will be presented at the International Conference on Machine Learning (ICML) in late July.\n\nThe T in GPT stands for transformers. What are transformers and why did they become so prevalent in modern AI? Johannes von Oswald: Transformers are a particular artificial neural network architecture. It is for example used by large language models such as ChatGPT, but was put on the map in 2017 by researchers at Google, where it led to state-of-the-art performance in language translation. Intriguingly, a slightly modified version of this architecture was already developed by the AI-Pioneer Jürgen Schmidhuber back in 1991.\n\nAnd what distinguishes this architecture? Before the recent breakthrough of Transformers, different tasks, e.g. image classification and language translation, had used different model architectures that were each specialised on these specific domains. A crucial aspect that sets transformers apart from these previous AI models is that they seem to work extremely well on any kind of task. Because of their widespread use, it is important to understand how they work.\n\nWhat did your research reveal? While neural networks are generally regarded a black box that spit out output when provided with input, we showed that transformers can learn on their own to implement algorithms within their architecture. We were able to show that they can implement a classic and powerful machine learning algorithm that learns from the recent information it receives.\n\nCan you give an example when this type of learning can occur? You might, for instance, provide the language model with several texts and the sentiment – either positive or negative – associated with each of them. You can go on to present the model with a text it hasn’t seen before, and it will predict whether it is positive or negative based on the examples you have provided.\n\nSo, you’re saying that the model teaches itself a technique to learn new things? Yes, it’s surprising but true. Driven simply by the pressure to improve on its training objective, namely to predict the immediate future, it develops a technique that enables it to learn from the conversations it has with its users, for example. This type of learning is what we refer to as in-context learning.\n\nAll these models get is text input. Can you describe how transformers use this minimal information to optimise their output? One way to achieve this – and our paper shows that it’s a likely possibility – is to learn what you might call a world model that allows you to make predictions. What is interesting is that this learning takes place inside the transformer that has already been trained. Learning would normally involve changing the connections in the model’s neural network. We showed that the transformer model is somehow able to simulate the same learning process within its fixed neural architecture instead.\n\nHow does this capability emerge in transformers? We hypothesised in our paper that the transformer architecture has an inductive bias towards learning. This means that its ability to develop these learning mechanisms is implicitly built into its basic design, even before the model is trained.\n\nGPT-3, the model behind ChatGPT, has 175 billion parameters. How do you study such a large system? There are different ways to try to understand these systems. Some researchers take a psychological approach and analyse how the models respond when confronted with standardised tests or conflicting situations such as moral dilemmas. We studied this system mechanistically – as neuroscientists you could say. Taking this analogy further, because our model runs on a computer, we were able to record every neuron and every connection in its neural network – something that would be unthinkable when studying the biological brains of animals or humans. Investigating these systems at the level of individual neurons is currently only feasible when studying very specific phenomena on relatively small architectures.\n\nCan you provide more information on the system you used in your paper? The transformer we used in our study is roughly identical to the commonly used transformer architecture. Rather than training our system on all the texts on the internet, we trained it on examples of a simple problem known as linear regression. Because this problem and its solution are so well understood, we were able to compare the known solution with what we observed inside the transformer. We confirmed that it implements a very well-known and powerful learning algorithm within itself called gradient descent.\n\nWould you expect other behaviour to emerge that is entirely new to computer science? That is possible. In our case, we were able to show that the transformer was not simply performing plain gradient descent but an improved version of it. Two independent studies from MIT and UC Berkeley have now analysed the algorithm that the transformer learned. A long-term goal of this line of research could be to determine whether transformers can discover algorithms or even prove theorems and develop mathematics that we are not yet familiar with. This would be truly remarkable and groundbreaking.\n\nvon Oswald J, Niklasson E, Randazzo E, Sacramento J, Mordvintsev A, Zhmoginov A, Vladymyrov M: Transformers learn in-context by gradient descent. Conference Paper International Conference on Machine Learning (ICML), July 2023, doi: 10.48550/arXiv.2212.07677"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "OpenAI",
+        "label": "ORG",
+        "start": 80,
+        "end": 86
+      },
+      {
+        "text": "GPT",
+        "label": "ORG",
+        "start": 89,
+        "end": 92
+      },
+      {
+        "text": "Google Bard",
+        "label": "PRODUCT",
+        "start": 110,
+        "end": 121
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 181,
+        "end": 184
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 189,
+        "end": 195
+      },
+      {
+        "text": "von Oswald",
+        "label": "PERSON",
+        "start": 355,
+        "end": 365
+      },
+      {
+        "text": "Angelika Steger",
+        "label": "PERSON",
+        "start": 411,
+        "end": 426
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 428,
+        "end": 431
+      },
+      {
+        "text": "Theoretical Computer Science",
+        "label": "ORG",
+        "start": 446,
+        "end": 474
+      },
+      {
+        "text": "the International Conference on Machine Learning",
+        "label": "ORG",
+        "start": 567,
+        "end": 615
+      },
+      {
+        "text": "late July",
+        "label": "DATE",
+        "start": 626,
+        "end": 635
+      },
+      {
+        "text": "GPT",
+        "label": "ORG",
+        "start": 646,
+        "end": 649
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 744,
+        "end": 746
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 953,
+        "end": 959
+      },
+      {
+        "text": "the AI-Pioneer Jürgen Schmidhuber",
+        "label": "ORG",
+        "start": 1119,
+        "end": 1152
+      },
+      {
+        "text": "AI",
+        "label": "ORG",
+        "start": 1485,
+        "end": 1487
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 2918,
+        "end": 2921
+      },
+      {
+        "text": "175 billion",
+        "label": "CARDINAL",
+        "start": 3744,
+        "end": 3755
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 5345,
+        "end": 5348
+      },
+      {
+        "text": "MIT",
+        "label": "ORG",
+        "start": 5374,
+        "end": 5377
+      },
+      {
+        "text": "UC Berkeley",
+        "label": "ORG",
+        "start": 5382,
+        "end": 5393
+      },
+      {
+        "text": "von Oswald J",
+        "label": "PERSON",
+        "start": 5698,
+        "end": 5710
+      },
+      {
+        "text": "Sacramento",
+        "label": "GPE",
+        "start": 5737,
+        "end": 5747
+      },
+      {
+        "text": "Mordvintsev A",
+        "label": "PERSON",
+        "start": 5751,
+        "end": 5764
+      },
+      {
+        "text": "Zhmoginov A",
+        "label": "PERSON",
+        "start": 5766,
+        "end": 5777
+      },
+      {
+        "text": "Conference Paper International Conference on Machine Learning",
+        "label": "ORG",
+        "start": 5844,
+        "end": 5905
+      },
+      {
+        "text": "July 2023",
+        "label": "DATE",
+        "start": 5914,
+        "end": 5923
+      },
+      {
+        "text": "10.48550",
+        "label": "CARDINAL",
+        "start": 5930,
+        "end": 5938
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Angelika Steger",
+        "Mordvintsev A",
+        "Zhmoginov A",
+        "von Oswald",
+        "von Oswald J"
+      ],
+      "ORG": [
+        "AI",
+        "Conference Paper International Conference on Machine Learning",
+        "ETH",
+        "GPT",
+        "Google",
+        "MIT",
+        "OpenAI",
+        "Theoretical Computer Science",
+        "UC Berkeley",
+        "the AI-Pioneer Jürgen Schmidhuber",
+        "the International Conference on Machine Learning"
+      ],
+      "LOCATION": [
+        "AI",
+        "Sacramento"
+      ],
+      "DATE": [
+        "July 2023",
+        "late July"
+      ],
+      "MISC": [
+        "10.48550",
+        "175 billion",
+        "Google Bard",
+        "One",
+        "Two"
+      ]
+    },
+    "entity_counts": {
+      "GPT": 2,
+      "ETH": 2,
+      "Google": 2,
+      "AI": 2,
+      "OpenAI": 1,
+      "Google Bard": 1,
+      "von Oswald": 1,
+      "Angelika Steger": 1,
+      "Theoretical Computer Science": 1,
+      "the International Conference on Machine Learning": 1,
+      "late July": 1,
+      "the AI-Pioneer Jürgen Schmidhuber": 1,
+      "One": 1,
+      "175 billion": 1,
+      "Two": 1,
+      "MIT": 1,
+      "UC Berkeley": 1,
+      "von Oswald J": 1,
+      "Sacramento": 1,
+      "Mordvintsev A": 1
+    },
+    "total_entities": 28,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-ai-models-teach-themselves-to-learn-new-things.md",
+      "title": "En News Events/2023/07/how Ai Models Teach Themselves To Learn New Things",
+      "language": "en",
+      "source_path": "en_news_events/2023/07/how-ai-models-teach-themselves-to-learn-new-things.html"
+    },
+    "temporal": {
+      "publication_date": "2023-07",
+      "mentioned_years": [
+        "1991",
+        "2017",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Angelika Steger",
+        "Mordvintsev A",
+        "Zhmoginov A",
+        "von Oswald",
+        "von Oswald J"
+      ],
+      "people_with_roles": {
+        "Angelika Steger": [
+          "student",
+          "head",
+          "professor"
+        ],
+        "von Oswald": [
+          "student",
+          "head",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10.48550",
+        "175 billion",
+        "Google Bard"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "International Conference",
+        "Niklasson E",
+        "To Learn",
+        "Sacramento J",
+        "Ai Models",
+        "Zhmoginov A",
+        "AI-Pioneer",
+        "Google Bard",
+        "Theoretical Computer",
+        "Oswald J",
+        "Machine Learning",
+        "ETH Professor",
+        "Vladymyrov M",
+        "Conference Paper",
+        "Mordvintsev A",
+        "UC Berkeley",
+        "Angelika Steger",
+        "En News",
+        "Teach Themselves",
+        "Randazzo E",
+        "New Things",
+        "The T"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AI",
+        "Conference Paper International Conference on Machine Learning",
+        "ETH",
+        "GPT",
+        "Google",
+        "MIT",
+        "OpenAI",
+        "Theoretical Computer Science",
+        "UC Berkeley",
+        "the AI-Pioneer Jürgen Schmidhuber",
+        "the International Conference on Machine Learning"
+      ],
+      "locations": [
+        "AI",
+        "Sacramento"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "GPT",
+        "ETH",
+        "Google",
+        "AI",
+        "OpenAI",
+        "Google Bard",
+        "von Oswald",
+        "Angelika Steger",
+        "Theoretical Computer Science",
+        "the International Conference on Machine Learning"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 6040
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "GPT",
+        "von Oswald",
+        "Zhmoginov A",
+        "AI",
+        "the International Conference on Machine Learning",
+        "von Oswald J",
+        "OpenAI",
+        "Conference Paper International Conference on Machine Learning",
+        "EU",
+        "Mordvintsev A",
+        "UC Berkeley",
+        "Angelika Steger",
+        "Google",
+        "1991",
+        "2017",
+        "Theoretical Computer Science",
+        "the AI-Pioneer Jürgen Schmidhuber",
+        "MIT",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.48550",
+        "who",
+        "Google Bard",
+        "when",
+        "what",
+        "how",
+        "computer_science",
+        "why",
+        "175 billion",
+        "where"
+      ],
+      "graph_relations": [
+        "Angelika Steger_has_role_student",
+        "Angelika Steger_has_role_head",
+        "Angelika Steger_has_role_professor",
+        "von Oswald_has_role_student",
+        "von Oswald_has_role_head",
+        "von Oswald_has_role_professor",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

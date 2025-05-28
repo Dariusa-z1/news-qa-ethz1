@@ -1,0 +1,38 @@
+# neue-ideen-aus-usa.html
+
+**Source:** de_news_events/2014/02/neue-ideen-aus-usa.html
+
+## Neue Lernmethoden
+
+Wie lernen Studierende an anderen Hochschulen? Wie evaluieren ausländische Universitäten ihre Lehre? Welche Infrastruktur ist für eine innovative Lehre notwendig? Antworten auf diese und andere Lehr-Fragen zu finden, ist das Ziel des Projektes «Raus aus den vier Wänden», kurz «Rad4W». Das Projekt ging als Sieger aus einem Innovedum-Wettbewerb hervor. Innovedum ist der Fonds des Rektors zur Finanzierung von Initiativen. Damit werden innovative Ideen gefördert, welche das Lernen und Lehren an der ETH Zürich nachhaltig verbessern.
+
+## Neue Lernmethoden
+
+Die Idee für Rad4W hatte der Maschinenbaustudent Benedikt Ummen, im Februar 2014 auch Gewinner des « Ideenwettbwerbs13 », als er die TU Delft besuchte: «Vor allem die Infrastruktur der grossen Universitätsbibliothek in Delft hat mich begeistert. Dort findet jeder Student während der Prüfungsphase rund um die Uhr einen ruhigen Ort zum Arbeiten. Am liebsten hätte ich die Baupläne gleich an die ETH mitgenommen.»
+
+Seiner Idee nach sollen ETH-Delegationen aus Professoren und Studierenden, Mittelbau und Stäben regelmässig andere exzellente Universitäten besuchen und dort Lehrmethoden und -infrastrukturen studieren und vergleichen, ob sie sich auch an der ETH anwenden lassen.
+
+## Workshops zur Vorbereitung
+
+Die erste Delegation unter Leitung von Rektor Lino Guzzella besuchte die kalifornische Universität Stanford. Diese liegt rund 60 Kilometer von San Franzisco entfernt. Doktorand Andreas Steiger war auf der Reise dabei: «Stanford bietet sich zum Vergleich an, da sie mit rund 15000 Studierenden der ETH ähnelt, und auch das Verhältnis von Studierenden im Grundstudium zu solchen im Vertiefungsstudium ist vergleichbar.» Im Gegensatz zur Bundeshochschule ETH Zürich ist Stanford eine privat finanzierte Hochschule und eine Volluniversität. Von den Bewerbern erhalten nur rund sieben Prozent die Zulassung zum Studium. Mit vier Workshops bereitete sich die Vertretung der ETH vor und bestimmte dabei die Themenschwerpunkte des Besuchs, wie neue Unterrichtskonzepte, studentisches Wohnen auf dem Campus oder die Lehrinfrastruktur. Über einen Blog konnten Interessierte ihre Fragen einbringen und die Reise begleiten. In ihrem Bericht, der jetzt vorliegt, werden die Erfahrungen der Reise vertieft und auf eine mögliche Umsetzung hin geprüft.
+
+## Erste Ergebnisse
+
+Stanfort setzt auf Massive Open Online Course (MOOCs) und Small Private Online Courses (SPOCs). Diese sind eingebettet in einen sogenannten Flipped-Classroom. Bei dieser integrierten Lehrmethode wird nicht mehr nur auf Frontalunterricht mit anschliessenden Übungen gesetzt. Das Konzept sieht vielmehr vor, dass die Studierenden den theoretischen Stoff vor der Vorlesung zugestellt erhalten (als Video, Skript, oder interaktive SPOC-Inhalte, etc.). Die ETH-Delegation findet, dass die ETH mit ihrem TORQUEs -Konzept (Tiny, Open-with-Restrictions courses focused on QUality and Effectiveness) auf dem richtigen Weg ist. Die Unterrichtsqualität für ETH-Studierende steht damit im Vordergrund, während MOOCs vorwiegend auf eine grosse Anzahl Teilnehmer ausserhalb einer Hochschule ausgerichtet sind. Die Delegation empfiehlt die TORQUEs-Initiative aktiv zu bewerben und die Departemente zu überzeugen, dass sie interaktive Unterrichtsformate anstelle der klassischen Vorlesungen einsetzen.
+
+## Flexible Arbeitsräume
+
+Im Gegensatz zur ETH sind Lernplätze in Stanford reichlich vorhanden. Ein Teil der Räume sind als flexible Auditorien eingerichtet, so dass innerhalb weniger Minuten von einem Vorlesungsraum in einen Raum für Übungsstunden, Gruppenarbeiten oder Präsentationen umgebaut werden kann. Die Delegation schlägt vor, dass auch an der ETH flexible Arbeitsräume geschaffen werden. Ausserdem sollten sich Studierende schnell über freie Räume informieren können, um so das vorhandene Raumangebot effizient nutzen zu können. Im Gegensatz zur ETH findet das studentische Leben nur auf dem Campus statt. Studierende wohnen, lernen und verbringen ihre Freizeit vor Ort. Den Studierenden stehen dort zwei Gebäude mit sechs Konferenz-, Sitzungsräumen sowie weiteren Büro- und Aufenthaltsräumen zur Verfügung.
+
+Im Vergleich dazu erfüllt das HXE-Gebäude auf dem Hönggerberg nicht mehr die Anforderungen, die rund 6000 Studierende und neun Fachvereine benötigen. Daher sollte die ETH die Räume für Fachvereine und die Arbeitsplätze für Studierende ausbauen.
+
+## Atmosphäre des Ausprobierens
+
+Beeindruckt zeigte sich die Delegation von der Art, wie Stanford mit Projekten umgeht. Zu Beginn werden sie als Prototypen deklariert. Die Delegation schreibt in ihrem Bericht: «Fehlversuche werden nicht verurteilt, sondern gehören zur Natur des Ausprobierens und Entwickelns.» Für diese Idee stellt die Hochschule eine spezielle Infrastruktur zur Verfügung. Auch der ETH täte eine «offene Atmosphäre des Ausprobierens» gut. Spezielle Räume könnten dazu animieren, dass Studierende und Forschende früh etwas ausprobieren und entwickeln. Darüber hinaus schlägt die Delegation vor Lehrprogramme zu entwickeln, die dieses Vorgehen unterstützen.
+
+Beim Thema Nachhaltigkeit unterstützt die Universität Stanford den Ausbau der Velo-Infrastruktur mit Veloständern und einem Veloladen. Ein extra eingerichtetes Büro will das Energie- und Umweltbewusstsein der Studierenden und Mitarbeitenden verstärken.
+
+Aus Sicht der Delegation ist die ETH mit ihren Nachhaltigkeitsinitiativen Stanford um einiges voraus. Sie schlägt vor die bestehende E-Velolink-Initiative weiter auszubauen und Veloträger an den Science City Link-Bussen zu montieren, damit auch Velo-Fahrer motiviert werden, die bisher den Anstieg zum Hönggerberg scheuten.
+
+Für Rektor Lino Guzzella war die Reise ein Erfolg: «Wir haben einige neue Ideen erhalten. Diese wird die Schulleitung nun besprechen und beschliessen, welche davon an der ETH umgesetzt werden.»
+

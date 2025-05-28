@@ -1,0 +1,498 @@
+{
+  "filename": "helium-nucleus-measured-more-precisely-than-ever-before.md",
+  "original_filename": "helium-nucleus-measured-more-precisely-than-ever-before.html",
+  "source_path": "en_news_events/2021/01/helium-nucleus-measured-more-precisely-than-ever-before.html",
+  "date": "2021-01",
+  "title": "Helium Nucleus Measured More Precisely Than Ever Before",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Slow muons, complicated laser system",
+      "text": "After hydrogen, helium is the second most abundant element in the universe. Around one-fourth of the atomic nuclei that formed in the first few minutes after the Big Bang were helium nuclei. These consist of four building blocks: two protons and two neutrons. For fundamental physics, it is crucial to know the properties of the helium nucleus, among other things to understand the processes in other atomic nuclei that are heavier than helium. \"The helium nucleus is a very fundamental nucleus\", says Aldo Antognini, a physicist at PSI and ETH Zurich.\n\nWith this, the international research collaboration succeeded in determining the size of the helium nucleus around five times more precisely than was possible in previous measurements. The group is publishing its results today in the renowned scientific journal \"Nature\" . According to their findings, the so-called mean charge radius of the helium nucleus is 1.67824 femtometers (there are 1 quadrillion femtometers in 1 meter).\n\n\"The idea behind our experiments is simple\", explains Antognini. \"Normally two negatively charged electrons orbit the positively charged helium nucleus. In our experiments we didn't work with normal atoms, but with exotic atoms in which both electrons have been replaced by a single muon.\" The muon is considered to be the electron's heavier brother; it resembles it, but it's around 200 times heavier. A muon is much more strongly bound to the atomic nucleus than an electron and encircles it in much narrower orbits. Compared to electrons, a muon is much more likely to stay in the nucleus itself. \"So with muonic helium, we can draw conclusions about the structure of the atomic nucleus and measure its properties\", Antognini explains."
+    },
+    {
+      "heading": "Slow muons, complicated laser system",
+      "text": "The muons are produced at PSI using a particle accelerator. The specialty of the facility: generating muons with low energy. These particles are slow and can be stopped in the apparatus for experiments. This is the only way researchers can form the exotic atoms in which a muon throws an electron out of its orbit and replaces it. Fast muons, in contrast, would fly right through the apparatus. The PSI system delivers more low-energy muons than all other comparable systems worldwide. \"That is why the experiment with muonic helium can only be carried out here\", says Franz Kottmann, who for 40 years has been pressing ahead with the necessary preliminary studies and technical developments for this experiment.\n\nThe muons hit a small chamber filled with helium gas. If the conditions are right, muonic helium is created, where the muon is in an energy state in which it often stays in the atomic nucleus. \"Now the second important component for the experiment comes into play: the laser system\", Pohl explains. The complicated system shoots a laser pulse at the helium gas. If the laser light has the right frequency, it excites the muon and advances it to a higher energy state, in which its path is practically always outside the nucleus. When it falls from this to the ground state, it emits X-rays. Detectors register these X-ray signals.\n\nIn the experiment, the laser frequency is varied until a large number of X-ray signals arrive. Physicists then speak of the so-called resonance frequency. With its help, then, the difference between the two energetic states of the muon in the atom can be determined. According to theory, the measured energy difference depends on how large the atomic nucleus is. Hence, using the theoretical equation, the radius can be determined from the measured resonance. The necessary data analysis was carried out by Randolf Pohl's group at the Johannes Gutenberg University in Mainz."
+    },
+    {
+      "heading": "Touchstone for nuclear physics",
+      "text": "\"Our measurement can be used in different ways\", says Julian Krauth, first author of the study: \"The radius of the helium nucleus is an important touchstone for nuclear physics.\" Atomic nuclei are held together by the so-called strong interaction, one of the four fundamental forces in physics. With the theory of strong interaction, known as quantum chromodynamics, physicists would like to be able to predict the radius of the helium nucleus and other light atomic nuclei with a few protons and neutrons. The extremely precisely measured value for the radius of the helium nucleus puts these predictions to the test. This also makes it possible to test new theoretical models of the nuclear structure and to understand atomic nuclei even better.\n\nThe measurements on muonic helium can also be compared with experiments using normal helium atoms and ions. In experiments on these, too, energy transitions can be triggered and measured with laser systems – here, though, with electrons instead of muons. Measurements on electronic helium are under way right now. By comparing the results of the two measurements, one can draw conclusions about fundamental natural constants such as the Rydberg constant, which plays an important role in quantum mechanics."
+    },
+    {
+      "heading": "Reference",
+      "text": "Krauth JJ et al.: Measuring the α-particle charge radius with muonic helium-4 ions. Nature. January 27 2021. DOI: 10.1038/s41586-021-03183-1\n\nDetailed media release of the Paul Scherrer Institute"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Nucleus Measured More",
+        "label": "FAC",
+        "start": 30,
+        "end": 51
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 30,
+        "end": 36
+      },
+      {
+        "text": "Around one-fourth",
+        "label": "CARDINAL",
+        "start": 76,
+        "end": 93
+      },
+      {
+        "text": "the first few minutes",
+        "label": "TIME",
+        "start": 130,
+        "end": 151
+      },
+      {
+        "text": "Big Bang",
+        "label": "GPE",
+        "start": 162,
+        "end": 170
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 208,
+        "end": 212
+      },
+      {
+        "text": "two protons and",
+        "label": "MONEY",
+        "start": 230,
+        "end": 245
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 246,
+        "end": 249
+      },
+      {
+        "text": "Aldo Antognini",
+        "label": "PERSON",
+        "start": 502,
+        "end": 516
+      },
+      {
+        "text": "PSI",
+        "label": "ORG",
+        "start": 533,
+        "end": 536
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 541,
+        "end": 551
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 668,
+        "end": 672
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 774,
+        "end": 779
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 816,
+        "end": 822
+      },
+      {
+        "text": "1.67824",
+        "label": "CARDINAL",
+        "start": 913,
+        "end": 920
+      },
+      {
+        "text": "1 meter",
+        "label": "QUANTITY",
+        "start": 973,
+        "end": 980
+      },
+      {
+        "text": "Antognini",
+        "label": "PERSON",
+        "start": 1037,
+        "end": 1046
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1058,
+        "end": 1061
+      },
+      {
+        "text": "Antognini",
+        "label": "PERSON",
+        "start": 1702,
+        "end": 1711
+      },
+      {
+        "text": "PSI",
+        "label": "ORG",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "PSI",
+        "label": "ORG",
+        "start": 399,
+        "end": 402
+      },
+      {
+        "text": "Franz Kottmann",
+        "label": "PERSON",
+        "start": 569,
+        "end": 583
+      },
+      {
+        "text": "40 years",
+        "label": "DATE",
+        "start": 593,
+        "end": 601
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 915,
+        "end": 921
+      },
+      {
+        "text": "Pohl",
+        "label": "PERSON",
+        "start": 997,
+        "end": 1001
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1547,
+        "end": 1550
+      },
+      {
+        "text": "Randolf Pohl's",
+        "label": "PERSON",
+        "start": 1851,
+        "end": 1865
+      },
+      {
+        "text": "the Johannes Gutenberg University",
+        "label": "ORG",
+        "start": 1875,
+        "end": 1908
+      },
+      {
+        "text": "Mainz",
+        "label": "GPE",
+        "start": 1912,
+        "end": 1917
+      },
+      {
+        "text": "Julian Krauth",
+        "label": "PERSON",
+        "start": 54,
+        "end": 67
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 69,
+        "end": 74
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 248,
+        "end": 251
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 259,
+        "end": 263
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1094,
+        "end": 1097
+      },
+      {
+        "text": "Rydberg",
+        "label": "ORG",
+        "start": 1185,
+        "end": 1192
+      },
+      {
+        "text": "Krauth",
+        "label": "GPE",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "January 27 2021",
+        "label": "DATE",
+        "start": 92,
+        "end": 107
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 114,
+        "end": 121
+      },
+      {
+        "text": "the Paul Scherrer Institute",
+        "label": "ORG",
+        "start": 167,
+        "end": 194
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Aldo Antognini",
+        "Antognini",
+        "ETH Zurich",
+        "Franz Kottmann",
+        "Julian Krauth",
+        "Pohl",
+        "Randolf Pohl's"
+      ],
+      "ORG": [
+        "PSI",
+        "Rydberg",
+        "the Johannes Gutenberg University",
+        "the Paul Scherrer Institute"
+      ],
+      "LOCATION": [
+        "Big Bang",
+        "Krauth",
+        "Mainz",
+        "Nucleus Measured More"
+      ],
+      "DATE": [
+        "40 years",
+        "January 27 2021",
+        "the first few minutes",
+        "today"
+      ],
+      "MISC": [
+        "1 meter",
+        "1.67824",
+        "10.1038",
+        "Around one-fourth",
+        "Nature",
+        "first",
+        "five",
+        "four",
+        "one",
+        "second",
+        "two",
+        "two protons and"
+      ]
+    },
+    "entity_counts": {
+      "two": 4,
+      "PSI": 3,
+      "second": 2,
+      "four": 2,
+      "Antognini": 2,
+      "Nucleus Measured More": 1,
+      "Around one-fourth": 1,
+      "the first few minutes": 1,
+      "Big Bang": 1,
+      "two protons and": 1,
+      "Aldo Antognini": 1,
+      "ETH Zurich": 1,
+      "five": 1,
+      "today": 1,
+      "Nature": 1,
+      "1.67824": 1,
+      "1 meter": 1,
+      "Franz Kottmann": 1,
+      "40 years": 1,
+      "Pohl": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "helium-nucleus-measured-more-precisely-than-ever-before.md",
+      "title": "En News Events/2021/01/helium Nucleus Measured More Precisely Than Ever Before",
+      "language": "en",
+      "source_path": "en_news_events/2021/01/helium-nucleus-measured-more-precisely-than-ever-before.html"
+    },
+    "temporal": {
+      "publication_date": "2021-01",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Aldo Antognini",
+        "Antognini",
+        "ETH Zurich",
+        "Franz Kottmann",
+        "Julian Krauth",
+        "Pohl",
+        "Randolf Pohl's"
+      ],
+      "people_with_roles": {
+        "Franz Kottmann": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics",
+        "mathematics"
+      ],
+      "research_topics": [
+        "1 meter",
+        "1.67824",
+        "10.1038",
+        "Around one-fourth",
+        "Nature",
+        "first",
+        "five",
+        "four",
+        "second",
+        "two protons and"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Before After",
+        "Franz Kottmann",
+        "More Precisely",
+        "Randolf Pohl",
+        "Johannes Gutenberg",
+        "En News",
+        "Nucleus Measured",
+        "Paul Scherrer",
+        "The PSI",
+        "Than Ever",
+        "Aldo Antognini",
+        "Julian Krauth",
+        "Big Bang",
+        "ETH Zurich",
+        "Krauth JJ"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "PSI",
+        "Rydberg",
+        "the Johannes Gutenberg University",
+        "the Paul Scherrer Institute"
+      ],
+      "locations": [
+        "Big Bang",
+        "Krauth",
+        "Mainz",
+        "Nucleus Measured More"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "two",
+        "PSI",
+        "second",
+        "four",
+        "Antognini",
+        "Nucleus Measured More",
+        "Around one-fourth",
+        "the first few minutes",
+        "Big Bang",
+        "two protons and"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Slow muons, complicated laser system",
+          "Slow muons, complicated laser system",
+          "Touchstone for nuclear physics",
+          "Reference"
+        ],
+        "content_length": 5175
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Johannes Gutenberg University",
+        "Franz Kottmann",
+        "Antognini",
+        "Pohl",
+        "Randolf Pohl's",
+        "the Paul Scherrer Institute",
+        "EU",
+        "Aldo Antognini",
+        "Rydberg",
+        "Julian Krauth",
+        "PSI",
+        "ETH Zurich",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Around one-fourth",
+        "when",
+        "four",
+        "10.1038",
+        "mathematics",
+        "Nature",
+        "who",
+        "what",
+        "how",
+        "five",
+        "1.67824",
+        "physics",
+        "first",
+        "1 meter",
+        "second",
+        "why",
+        "where",
+        "two protons and"
+      ],
+      "graph_relations": [
+        "Franz Kottmann_has_role_head",
+        "research_domain_technology",
+        "research_domain_physics",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

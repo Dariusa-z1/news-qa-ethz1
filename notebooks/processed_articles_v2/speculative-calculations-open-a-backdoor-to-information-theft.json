@@ -1,0 +1,828 @@
+{
+  "filename": "speculative-calculations-open-a-backdoor-to-information-theft.md",
+  "original_filename": "speculative-calculations-open-a-backdoor-to-information-theft.html",
+  "source_path": "en_news_events/2022/07/speculative-calculations-open-a-backdoor-to-information-theft.html",
+  "date": "2022-07",
+  "title": "Speculative Calculations Open A Backdoor To Information Theft",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Speculative computing makes computers faster",
+      "text": "Sometimes a computer bleeds from its heart and reveals droplets of private information. That's the case with the \"Retbleed\" hardware vulnerability made public today: This vulnerability occurs in the microprocessors that execute the instructions of a computer program and perform the corresponding calculations. In some cases, the processors - namely the central processing units (CPU) - also perform special calculations that shorten the computing time and speed up the overall computing process. In the process, they leave traces in the memory that hackers could exploit to gain unauthorized access to any information in the system - for example, they could steal encryption keys or security-relevant passwords. This is especially risky in cloud environments where multiple companies share computer systems. The National Center for Cyber Security in Bern, Switzerland considers the vulnerability serious because the affected processors are in use worldwide. However, the manufacturers have already taken initial measures to close the vulnerability.\n\nThe vulnerability was discovered by the doctoral student Johannes Wikner and Kaveh Razavi, ETH Zurich professor for computer security. The name \"Retbleed\" refers to a certain type of program instructions, called returns. A computer program consists of sequences of instructions or commands organised into functions with which the processors execute the desired calculations. Once a function has executed, a return instruction causes the processor to return to the point in the computer program immediately after the original instruction that used the function."
+    },
+    {
+      "heading": "Speculative computing makes computers faster",
+      "text": "You can think of the flow of a computer program as a river with various branches. At the branches, computer programs often make decisions about which branch to choose. Sometimes these decisions take a long time and may slow down execution. What is needed, however, are fast computational processes. Traditionally, a computer program executes instructions sequentially and in the program order - that is, one computational step-at-a-time."
+    },
+    {
+      "heading": "Solution approach for mitigation measures",
+      "text": "Today's CPU processor architectures, however, allow computations to be brought forward and executed simultaneously. \"A CPU can execute instructions in a different order than the program order to improve computational performance,\" says Razavi. In computing circles, this is referred to as \"out-of-order execution.\" Since January 2018, it has been known that there can be security vulnerabilities with this type of execution. During instruction execution, unauthorized access to the CPU's cache could occur, allowing hackers to steal sensitive information from the operating system. This vulnerability is known as \"Meltdown\" and affects specific issues in Intel CPUs.\n\nClosely related to out-of-order execution is \"speculative execution,\" for which similar security issues have also been known since 2018. \"'Retbleed' is a speculative execution problem,\" says Johannes Wikner. Such speculative execution is used to avoid slowing down computations by bringing forward certain computational steps before it is clear whether they are actually needed. Speculative calculations take place, for example, when a processor tries to guess which path the chain of instructions will take at a branch before this is known. \"In this process, CPUs 'guess' which direction to take at a branch and speculatively execute instructions based on their guess,\" Razavi explains."
+    },
+    {
+      "heading": "Vulnerable return instructions",
+      "text": "With the help of such speculations, the flow of the instruction chain is improved and the computing power of the processors is increased. If the speculative calculations are not needed, they are undone. These speculations also leave traces in the cache, which open a backdoor for hackers. This vulnerability was also made public in January 2018 under the name \"Spectre\" and affects processors from the manufacturers Intel and AMD. Since then, Intel and AMD, as well as major software manufacturers such as Microsoft, have taken mitigation measures. However, the vulnerabilities of the speculative executions have not been conclusively researched or remedied to date."
+    },
+    {
+      "heading": "Reference",
+      "text": "As Wikner and Razavi have now discovered, there is indeed a security problem that has not yet been resolved, \"We have shown that with speculative execution, a particularly large number of return statements are vulnerable and can be hijacked,\" says Wikner. In principle, \"Retbleed\" works like variant 2 of \"Spectre\" and affects Intel and AMD microprocessors. \"Since the mitigation measures taken so far did not take the return instructions into account, most existing microprocessor computer systems are vulnerable to 'Retbleed',\" Razavi adds. \"However, it takes some computer expertise to gain memory access and steal information,\" Wikner says.\n\nIn February, Wikner and Razavi provided a proof of concept that “Retbleed” is a serious problem. They have since published their findings in a scientific paper that has been accepted as a USENIX Security 2022 conference paper . In this article, Wikner and Razavi have evaluated Intel and AMD’s first approach to solve the problem. This starts from the fact that when the microprocessor speculates at a branch, the instructions are sometimes executed incorrectly. Then the computation does not lead to the correct destination and opens a leak through which hackers might gain access to the information in the memory. The current solution is to prevent hackers from influencing the microprocessors’ decision on return destinations. Unfortunately, this comes with a substantial performance cost that makes computer 12 to 28 percent slower.\n\nAs is usual in such cases, the security researchers first informed the affected manufacturers AMD and Intel before the vulnerability was published. Since the specific security risks also depend on the company-specific processor architecture, the manufacturers got their time to take more in-depth mitigation measures. Since then, Microsoft, Oracle, Google, Linux, Intel, AMD, ARM, among others, have worked on protective measures before \"Retbleed\" was made public today. An Intel microprocessor that is 3 to 6 years old, or an AMD processor that is 1 to 11 years old, is likely to be affected.\n\nThe National Cyber Security Center (NCSC) in Bern, Switzerland has today assigned the CVE numbers CVE-2022-29900 (for processors from the manufacturer AMD) and CVE-2022-29901 (for processors from the manufacturer Intel) for the security vulnerability \"Retbleed\" in cooperation and in consultation with researchers from ETH Zurich. The assignment of a CVE (Common Vulnerabilities and Exposure) enables a globally unique identification of vulnerabilities. Since September 2021, the NCSC has been recognized as the Swiss approval authority that assigns CVE numbers.\n\nFor more information, see the report posted on the NSCS website under the \"Advisories\" section .\n\nWikner, J; Razavi, K. RETBLEED: Arbitrary Speculative Code Execution with Return Instructions. Paper accepted at the 31st USENIX Security Symposium, August 10–12, 2022, at the Boston Marriott Copley Place in Boston, MA, USA.\n\nWikner’s and Razavi’s will present their findings at the USENIX Security '22 on 12 August 2022, 1.30 pm-2.30 pm."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Calculations Open A Backdoor To Information Theft",
+        "label": "ORG",
+        "start": 35,
+        "end": 84
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 159,
+        "end": 164
+      },
+      {
+        "text": "CPU",
+        "label": "ORG",
+        "start": 380,
+        "end": 383
+      },
+      {
+        "text": "The National Center for Cyber Security",
+        "label": "ORG",
+        "start": 809,
+        "end": 847
+      },
+      {
+        "text": "Bern",
+        "label": "GPE",
+        "start": 851,
+        "end": 855
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 857,
+        "end": 868
+      },
+      {
+        "text": "Johannes Wikner",
+        "label": "PERSON",
+        "start": 1107,
+        "end": 1122
+      },
+      {
+        "text": "Kaveh Razavi",
+        "label": "PERSON",
+        "start": 1127,
+        "end": 1139
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1141,
+        "end": 1151
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 404,
+        "end": 407
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "CPU",
+        "label": "ORG",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "CPU",
+        "label": "ORG",
+        "start": 119,
+        "end": 122
+      },
+      {
+        "text": "Razavi",
+        "label": "PERSON",
+        "start": 236,
+        "end": 242
+      },
+      {
+        "text": "January 2018",
+        "label": "DATE",
+        "start": 321,
+        "end": 333
+      },
+      {
+        "text": "CPU",
+        "label": "ORG",
+        "start": 482,
+        "end": 485
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 655,
+        "end": 660
+      },
+      {
+        "text": "Johannes Wikner",
+        "label": "PERSON",
+        "start": 858,
+        "end": 873
+      },
+      {
+        "text": "Razavi",
+        "label": "PERSON",
+        "start": 1338,
+        "end": 1344
+      },
+      {
+        "text": "January 2018",
+        "label": "DATE",
+        "start": 332,
+        "end": 344
+      },
+      {
+        "text": "Spectre",
+        "label": "WORK_OF_ART",
+        "start": 361,
+        "end": 368
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 416,
+        "end": 421
+      },
+      {
+        "text": "AMD",
+        "label": "ORG",
+        "start": 426,
+        "end": 429
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 443,
+        "end": 448
+      },
+      {
+        "text": "AMD",
+        "label": "ORG",
+        "start": 453,
+        "end": 456
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 506,
+        "end": 515
+      },
+      {
+        "text": "Wikner",
+        "label": "PERSON",
+        "start": 3,
+        "end": 9
+      },
+      {
+        "text": "Razavi",
+        "label": "PERSON",
+        "start": 14,
+        "end": 20
+      },
+      {
+        "text": "Wikner",
+        "label": "PERSON",
+        "start": 248,
+        "end": 254
+      },
+      {
+        "text": "Spectre",
+        "label": "WORK_OF_ART",
+        "start": 306,
+        "end": 313
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 327,
+        "end": 332
+      },
+      {
+        "text": "AMD",
+        "label": "ORG",
+        "start": 337,
+        "end": 340
+      },
+      {
+        "text": "Razavi",
+        "label": "PERSON",
+        "start": 530,
+        "end": 536
+      },
+      {
+        "text": "Wikner",
+        "label": "PERSON",
+        "start": 632,
+        "end": 638
+      },
+      {
+        "text": "February",
+        "label": "DATE",
+        "start": 648,
+        "end": 656
+      },
+      {
+        "text": "Wikner",
+        "label": "PERSON",
+        "start": 658,
+        "end": 664
+      },
+      {
+        "text": "Razavi",
+        "label": "PERSON",
+        "start": 669,
+        "end": 675
+      },
+      {
+        "text": "USENIX",
+        "label": "ORG",
+        "start": 833,
+        "end": 839
+      },
+      {
+        "text": "Wikner",
+        "label": "PERSON",
+        "start": 890,
+        "end": 896
+      },
+      {
+        "text": "Razavi",
+        "label": "PERSON",
+        "start": 901,
+        "end": 907
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 923,
+        "end": 928
+      },
+      {
+        "text": "AMD",
+        "label": "ORG",
+        "start": 933,
+        "end": 936
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 939,
+        "end": 944
+      },
+      {
+        "text": "28 percent",
+        "label": "PERCENT",
+        "start": 1463,
+        "end": 1473
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1534,
+        "end": 1539
+      },
+      {
+        "text": "AMD",
+        "label": "ORG",
+        "start": 1576,
+        "end": 1579
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 1584,
+        "end": 1589
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 1812,
+        "end": 1821
+      },
+      {
+        "text": "Oracle",
+        "label": "ORG",
+        "start": 1823,
+        "end": 1829
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 1831,
+        "end": 1837
+      },
+      {
+        "text": "Linux",
+        "label": "GPE",
+        "start": 1839,
+        "end": 1844
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 1846,
+        "end": 1851
+      },
+      {
+        "text": "AMD",
+        "label": "ORG",
+        "start": 1853,
+        "end": 1856
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1946,
+        "end": 1951
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 1956,
+        "end": 1961
+      },
+      {
+        "text": "3 to 6 years old",
+        "label": "DATE",
+        "start": 1985,
+        "end": 2001
+      },
+      {
+        "text": "AMD",
+        "label": "ORG",
+        "start": 2009,
+        "end": 2012
+      },
+      {
+        "text": "1 to 11 years old",
+        "label": "DATE",
+        "start": 2031,
+        "end": 2048
+      },
+      {
+        "text": "The National Cyber Security Center",
+        "label": "ORG",
+        "start": 2076,
+        "end": 2110
+      },
+      {
+        "text": "Bern",
+        "label": "GPE",
+        "start": 2121,
+        "end": 2125
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2127,
+        "end": 2138
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 2143,
+        "end": 2148
+      },
+      {
+        "text": "CVE",
+        "label": "ORG",
+        "start": 2162,
+        "end": 2165
+      },
+      {
+        "text": "CVE-2022-29900",
+        "label": "ORG",
+        "start": 2174,
+        "end": 2188
+      },
+      {
+        "text": "AMD",
+        "label": "ORG",
+        "start": 2227,
+        "end": 2230
+      },
+      {
+        "text": "CVE-2022-29901",
+        "label": "ORG",
+        "start": 2236,
+        "end": 2250
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 2289,
+        "end": 2294
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 2395,
+        "end": 2405
+      },
+      {
+        "text": "September 2021",
+        "label": "DATE",
+        "start": 2536,
+        "end": 2550
+      },
+      {
+        "text": "NCSC",
+        "label": "ORG",
+        "start": 2556,
+        "end": 2560
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 2588,
+        "end": 2593
+      },
+      {
+        "text": "NSCS",
+        "label": "ORG",
+        "start": 2690,
+        "end": 2694
+      },
+      {
+        "text": "Razavi",
+        "label": "PERSON",
+        "start": 2747,
+        "end": 2753
+      },
+      {
+        "text": "31st",
+        "label": "ORDINAL",
+        "start": 2853,
+        "end": 2857
+      },
+      {
+        "text": "August 10–12, 2022",
+        "label": "DATE",
+        "start": 2885,
+        "end": 2903
+      },
+      {
+        "text": "the Boston Marriott Copley Place",
+        "label": "ORG",
+        "start": 2908,
+        "end": 2940
+      },
+      {
+        "text": "Boston",
+        "label": "GPE",
+        "start": 2944,
+        "end": 2950
+      },
+      {
+        "text": "MA",
+        "label": "GPE",
+        "start": 2952,
+        "end": 2954
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 2956,
+        "end": 2959
+      },
+      {
+        "text": "Razavi",
+        "label": "PERSON",
+        "start": 2974,
+        "end": 2980
+      },
+      {
+        "text": "the USENIX Security '",
+        "label": "ORG",
+        "start": 3014,
+        "end": 3035
+      },
+      {
+        "text": "12 August 2022",
+        "label": "DATE",
+        "start": 3041,
+        "end": 3055
+      },
+      {
+        "text": "1.30",
+        "label": "DATE",
+        "start": 3057,
+        "end": 3061
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Johannes Wikner",
+        "Kaveh Razavi",
+        "Razavi",
+        "Wikner"
+      ],
+      "ORG": [
+        "AMD",
+        "CPU",
+        "CVE",
+        "CVE-2022-29900",
+        "CVE-2022-29901",
+        "Calculations Open A Backdoor To Information Theft",
+        "ETH Zurich",
+        "Google",
+        "Intel",
+        "Microsoft",
+        "NCSC",
+        "NSCS",
+        "Oracle",
+        "The National Center for Cyber Security",
+        "The National Cyber Security Center",
+        "USENIX",
+        "the Boston Marriott Copley Place",
+        "the USENIX Security '"
+      ],
+      "LOCATION": [
+        "Bern",
+        "Boston",
+        "Linux",
+        "MA",
+        "Switzerland",
+        "USA"
+      ],
+      "DATE": [
+        "1 to 11 years old",
+        "1.30",
+        "12 August 2022",
+        "3 to 6 years old",
+        "August 10–12, 2022",
+        "February",
+        "January 2018",
+        "September 2021",
+        "Today",
+        "today"
+      ],
+      "MISC": [
+        "28 percent",
+        "31st",
+        "Spectre",
+        "Swiss",
+        "first",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "Intel": 9,
+      "Razavi": 8,
+      "AMD": 8,
+      "Wikner": 5,
+      "CPU": 4,
+      "today": 3,
+      "Bern": 2,
+      "Switzerland": 2,
+      "Johannes Wikner": 2,
+      "ETH Zurich": 2,
+      "January 2018": 2,
+      "Spectre": 2,
+      "Microsoft": 2,
+      "first": 2,
+      "Calculations Open A Backdoor To Information Theft": 1,
+      "The National Center for Cyber Security": 1,
+      "Kaveh Razavi": 1,
+      "one": 1,
+      "Today": 1,
+      "February": 1
+    },
+    "total_entities": 83,
+    "unique_entities": 44
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "speculative-calculations-open-a-backdoor-to-information-theft.md",
+      "title": "En News Events/2022/07/speculative Calculations Open A Backdoor To Information Theft",
+      "language": "en",
+      "source_path": "en_news_events/2022/07/speculative-calculations-open-a-backdoor-to-information-theft.html"
+    },
+    "temporal": {
+      "publication_date": "2022-07",
+      "mentioned_years": [
+        "2018",
+        "2021",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Johannes Wikner",
+        "Kaveh Razavi",
+        "Razavi",
+        "Wikner"
+      ],
+      "people_with_roles": {
+        "Johannes Wikner": [
+          "student",
+          "professor"
+        ],
+        "Kaveh Razavi": [
+          "student",
+          "professor"
+        ],
+        "Razavi": [
+          "student",
+          "professor"
+        ],
+        "Wikner": [
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "28 percent",
+        "31st",
+        "Spectre",
+        "Swiss",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "An Intel",
+        "Theft Sometimes",
+        "As Wikner",
+        "To Information",
+        "Since September",
+        "Kaveh Razavi",
+        "Return Instructions",
+        "USENIX Security",
+        "Johannes Wikner",
+        "Since January",
+        "Cyber Security",
+        "Boston Marriott",
+        "In February",
+        "A Backdoor",
+        "The National",
+        "Arbitrary Speculative",
+        "Copley Place",
+        "Common Vulnerabilities",
+        "En News",
+        "Calculations Open",
+        "Code Execution",
+        "A CPU",
+        "Intel CPUs",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AMD",
+        "CPU",
+        "CVE",
+        "CVE-2022-29900",
+        "CVE-2022-29901",
+        "Calculations Open A Backdoor To Information Theft",
+        "ETH Zurich",
+        "Google",
+        "Intel",
+        "Microsoft",
+        "NCSC",
+        "NSCS",
+        "Oracle",
+        "The National Center for Cyber Security",
+        "The National Cyber Security Center",
+        "USENIX",
+        "the Boston Marriott Copley Place",
+        "the USENIX Security '"
+      ],
+      "locations": [
+        "Bern",
+        "Boston",
+        "Linux",
+        "MA",
+        "Switzerland",
+        "USA"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Intel",
+        "Razavi",
+        "AMD",
+        "Wikner",
+        "CPU",
+        "today",
+        "Bern",
+        "Switzerland",
+        "Johannes Wikner",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Speculative computing makes computers faster",
+          "Speculative computing makes computers faster",
+          "Solution approach for mitigation measures",
+          "Vulnerable return instructions",
+          "Reference"
+        ],
+        "content_length": 7237
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "NCSC",
+        "Oracle",
+        "Razavi",
+        "CVE-2022-29900",
+        "Kaveh Razavi",
+        "ERC",
+        "Johannes Wikner",
+        "2018",
+        "Intel",
+        "CVE",
+        "NSCS",
+        "2022",
+        "USENIX",
+        "the USENIX Security '",
+        "Google",
+        "Wikner",
+        "The National Center for Cyber Security",
+        "the Boston Marriott Copley Place",
+        "Microsoft",
+        "Calculations Open A Backdoor To Information Theft",
+        "AMD",
+        "ETH Zurich",
+        "CPU",
+        "2021",
+        "The National Cyber Security Center",
+        "CVE-2022-29901"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Spectre",
+        "mathematics",
+        "first",
+        "who",
+        "28 percent",
+        "Swiss",
+        "31st",
+        "what",
+        "how",
+        "computer_science",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Johannes Wikner_has_role_student",
+        "Johannes Wikner_has_role_professor",
+        "Kaveh Razavi_has_role_student",
+        "Kaveh Razavi_has_role_professor",
+        "Razavi_has_role_student",
+        "Razavi_has_role_professor",
+        "Wikner_has_role_student",
+        "Wikner_has_role_professor",
+        "research_domain_technology",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "filename": "neu-an-der-eth-joern-piel.md",
+  "original_filename": "neu-an-der-eth-joern-piel.html",
+  "source_path": "de_internal/2013/11/neu-an-der-eth-joern-piel.html",
+  "date": "2013-11",
+  "title": "Neu An Der Eth Joern Piel",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Zur Person",
+      "text": "Was hat sie dazu motiviert, an die ETH Zürich zu kommen? Jörn Piel: Ich kenne keinen Ort, an dem die Forschungsbedingungen besser wären. Besonders attraktiv ist, dass dank der guten Grundfinanzierung auch schwierigere und innovative Pionierprojekte durchgeführt werden können, die über den meist recht kurzen Zeitraum von typischen Drittmittel-geförderten Projekten hinausgehen.\n\nUnd Ihre Bilanz nach den ersten paar Monaten an der ETH? Ich bin beeindruckt von der hervorragenden Infrastruktur, den zahlreichen Kooperationsmöglichkeiten, den engagierten Studentinnen und Studenten und der ausgesprochen kollegialen Arbeitsatmosphäre.\n\nWo finden Sie Ausgleich zu Ihrer Arbeit? Ausgleich finde ich beim Kochen, Lernen von Sprachen und ganz besonders beim Spielen mit unserer kleinen Tochter.\n\nWelches ist der erste Begriff, den Sie mit der ETH Zürich assoziieren? Exzellenz"
+    },
+    {
+      "heading": "Zur Person",
+      "text": "Jörn Piel ist seit Februar dieses Jahres Professor für Mikrobiologische Interaktionen am Institut für Mikrobiologie, D-BIOL. Der 46-jährige Deutsche forscht über Naturstoffe. Diese Stoffe kommen in der Natur nur in geringen Mengen vor, sind aber sehr wertvoll für die Entwicklung von Arzneimitteln. Mit biologischen und chemischen Methoden untersucht seine Forschungsgruppe, wie diese oft komplexen Stoffe produziert werden. Mittels synthetischer Biologie gelingt es Piel und seinen Mitarbeitenden, sie auch selber herzustellen.\n\nWeitere Informationen"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2013/11",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Eth Joern Piel",
+        "label": "LOC",
+        "start": 31,
+        "end": 45
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 35,
+        "end": 45
+      },
+      {
+        "text": "Jörn Piel",
+        "label": "PER",
+        "start": 57,
+        "end": 66
+      },
+      {
+        "text": "Drittmittel-geförderten",
+        "label": "LOC",
+        "start": 332,
+        "end": 355
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 431,
+        "end": 434
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 835,
+        "end": 845
+      },
+      {
+        "text": "Jörn Piel",
+        "label": "PER",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Institut für Mikrobiologie, D-BIOL",
+        "label": "ORG",
+        "start": 89,
+        "end": 123
+      },
+      {
+        "text": "Deutsche",
+        "label": "MISC",
+        "start": 140,
+        "end": 148
+      },
+      {
+        "text": "Naturstoffe",
+        "label": "MISC",
+        "start": 162,
+        "end": 173
+      },
+      {
+        "text": "Piel",
+        "label": "PER",
+        "start": 467,
+        "end": 471
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Jörn Piel",
+        "Piel"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "Institut für Mikrobiologie, D-BIOL"
+      ],
+      "LOCATION": [
+        "De Internal/2013/11",
+        "Drittmittel-geförderten",
+        "Eth Joern Piel"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Deutsche",
+        "Naturstoffe"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "Jörn Piel": 2,
+      "De Internal/2013/11": 1,
+      "Eth Joern Piel": 1,
+      "Drittmittel-geförderten": 1,
+      "ETH": 1,
+      "Institut für Mikrobiologie, D-BIOL": 1,
+      "Deutsche": 1,
+      "Naturstoffe": 1,
+      "Piel": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neu-an-der-eth-joern-piel.md",
+      "title": "De Internal/2013/11/neu an der Eth Joern Piel",
+      "language": "de",
+      "source_path": "de_internal/2013/11/neu-an-der-eth-joern-piel.html"
+    },
+    "temporal": {
+      "publication_date": "2013-11",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Jörn Piel",
+        "Piel"
+      ],
+      "people_with_roles": {
+        "Jörn Piel": [
+          "professor"
+        ],
+        "Piel": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Deutsche",
+        "Naturstoffe"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Ihrer Arbeit",
+        "Und Ihre",
+        "De Internal",
+        "D-BIOL",
+        "Sie Ausgleich",
+        "Diese Stoffe",
+        "Mikrobiologische Interaktionen",
+        "Weitere Informationen",
+        "Eth Joern",
+        "Piel Was",
+        "Jahres Professor"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "Institut für Mikrobiologie, D-BIOL"
+      ],
+      "locations": [
+        "De Internal/2013/11",
+        "Drittmittel-geförderten",
+        "Eth Joern Piel"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "Jörn Piel",
+        "De Internal/2013/11",
+        "Eth Joern Piel",
+        "Drittmittel-geförderten",
+        "ETH",
+        "Institut für Mikrobiologie, D-BIOL",
+        "Deutsche",
+        "Naturstoffe",
+        "Piel"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Zur Person",
+          "Zur Person"
+        ],
+        "content_length": 1469
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2013",
+        "EU",
+        "ETH Zürich",
+        "Institut für Mikrobiologie, D-BIOL",
+        "Jörn Piel",
+        "Piel"
+      ],
+      "semantic_concepts": [
+        "Naturstoffe",
+        "who",
+        "how",
+        "what",
+        "Deutsche"
+      ],
+      "graph_relations": [
+        "Jörn Piel_has_role_professor",
+        "Piel_has_role_professor"
+      ]
+    }
+  }
+}

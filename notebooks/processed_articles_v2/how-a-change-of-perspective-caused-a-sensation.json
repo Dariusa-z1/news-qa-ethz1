@@ -1,0 +1,1061 @@
+{
+  "filename": "how-a-change-of-perspective-caused-a-sensation.md",
+  "original_filename": "how-a-change-of-perspective-caused-a-sensation.html",
+  "source_path": "en_news_events/2023/06/how-a-change-of-perspective-caused-a-sensation.html",
+  "date": "2023-06",
+  "title": "How A Change Of Perspective Caused A Sensation",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Minimising costs",
+      "text": "Inverse problems are Yunan Yang’s specialty. “Our everyday life is full of them,” she explains. “Ultrasound, for example, is an inverse problem.” Medical ultrasound devices emit sound waves outside our range of hearing that travel through the body and then record the reflected waves. A software program processes the wave signals and shows what’s going on in the body. “Deriving the image of a baby from the waves is an inverse problem,” says the 32-year-old mathematician, who has been an Advanced Fellow at the ETH Institute for Theoretical Studies (ETH-ITS) since January 2022. “I grew up in China and then lived in the US for eight years, but I’d never lived in Europe,” Yang says. “That’s why I wanted to come to Zurich and collaborate with researchers across the Continent.”\n\nEarthquake detection can also be viewed as an inverse problem. The seismic signals measured by earthquake stations indicate where the source of the quake is located and how deep it is below the surface. “This, too, is an issue of signal processing,” Yang says. With the help of another mathematical theory, her solution to the inverse problem in seismic waves caused a sensation among experts. That theory is called “optimal transport”."
+    },
+    {
+      "heading": "Minimising costs",
+      "text": "“This is a very beautiful theory that goes back to 1781,” Yang explains. “The French mathematician Gaspard Monge asked himself, ‘How can a pile of sand be transported from one place to another at the lowest possible cost?’” To determine the optimal transport map, you add up the cost of all movements – in other words, mass times distance – and try to minimise this value.\n\n“Optimal transport is a problem that is easy to formulate but very difficult to solve,” Yang says. “Monge was unable to find the answer.” It wasn’t until the 1940s that the problem was simplified enough to be solved 20 years later, thanks to more efficient computers. “Since the 1990s, we’ve been adding the finishing touches to the theory; there are extensions, fast algorithms, and applications,” Yang says.\n\nBack to seismic waves. “We can’t look at the focus of an earthquake 200 kilometres below ground,” Yang says. However, seismic data can be simulated with measurements and physical models. The simulated earthquake waves are compared with the real measured ones, and attempts are made to match them and minimise the differences between the two. “To solve the problem, I changed the way we measure these differences,” Yang explains. “I imagine the measured waves are a pile of sand. Then I simulate a second pile of sand and try to find the optimal way to match them up.” In mathematical terms, Yang uses a different metric to measure the waves, namely the one that arises from the theory of optimal transport."
+    },
+    {
+      "heading": "A chance encounter",
+      "text": "Yang says she owes her mathematical career to a chance encounter. She started studying science at China’s Zhejiang University. After a year, she discovered that, even though mathematics was her most difficult subject, it was also the most fascinating, so she chose it as her main course of study. As an undergraduate student, she volunteered to pick up guests from the Shanghai airport. Two of them were Luis Caffarelli and his wife, Irene Gamba, both Argentinian-American mathematics professors at the University of Texas at Austin. At that time, Caffarelli was already a luminary in the field of partial differential equations; he recently received the Abel Prize, the most prestigious award for mathematicians over 40.\n\n“I was very excited and peppered them with questions on the two-hour drive from the airport to the university, which was pretty inconsiderate now thinking back,” Yang says. Caffarelli and Gamba patiently answered her questions and encouraged her to apply for a Ph.D. program in Austin. Yang’s application was successful: “A year later, I was in Austin to start my doctorate and renewed my acquaintance with both of them there.”"
+    },
+    {
+      "heading": "ETH: A mecca for mathematicians",
+      "text": "On the Austin faculty at the time was Italian mathematician Alessio Figalli, who began teaching at ETH Zurich in 2016 and received the Fields Medal in 2018 – a kind of Nobel Prize for mathematicians under the age of 40. In 2015 at UT Austin, Yang attended classes taught by Figalli, who also works in the field of optimal transportation. After completing her Ph.D., Yang moved to the Courant Institute at New York University, the top school for applied mathematics in the United States. There she met Afonso Bandeira, who joined ETH in 2019. When her postdoc in the US came to a close, ETH seemed the obvious next step, and Yang successfully applied to become an Advanced Fellow at ETH-ITS.\n\nETH is one of the best places in the world to do research, Yang says. Together with Figalli and a colleague from EPF Lausanne, she recently organised an international workshop in Zurich on the theory and application of optimal transport.\n\nChanging the metric for measuring waves so as to solve inverse problems using optimal transport has now become a fairly widespread technique. The tools from this theory are used today for a broad range of applications. For example, they can be used in machine learning – another area where researchers seek to match data – or in determining the structure of molecules through cryogenic electron microscopy."
+    },
+    {
+      "heading": "Running away from frustration",
+      "text": "Mathematical work can be frustrating. “Ninety percent of the time, you’re stuck; it’s not a good feeling,” Yang says. To clear the cobwebs, she goes out running in the fresh air. After completing a few half-marathons, she ran the full marathon distance for the first time this year in Zurich. She also enjoys hiking in the mountains. “It’s so convenient here – I just take the train like the Swiss do,” she says. Teaching is also a good distraction, she says, because it involves talking about things she knows: “It’s a confidence booster.” In July, she’ll be starting a tenure-track professorship at Cornell University in the US, which includes teaching.\n\nThe move to the US also had personal reasons: “I’m getting married, and my fiancé is a professor at Cornell.” Compared to Zurich, the university’s town is small but also pretty, with many nearby finger lakes – an ideal place for family life. “Working at ETH has given me a great opportunity to build relationships and work with people from different parts of Europe,” Yang says. “I want to continue these collaborations in the future.”\n\nMolinaro R, Yang Y, Engquist, Mishra, S. Neural Inverse Operators for Solving PDE Inverse Problems. ETH Zurich Research Collection (2023). https://www.research-collection.ethz.ch/handle/20.500.11850/596104\n\nEngquist, B, Ren, K, Yang, Y. The quadratic Wasserstein metric for inverse data matching. Inverse Problems 36 (2020) 055001. DOI: https://doi.org/10.1088/1361-6420/ab7e04\n\nYang, Y, Engquist, B, Sun, J, Hamfeldt B F. Application of optimal transport and the quadratic Wasserstein metric to full-waveform inversion. Geophysics 83 (2018) 1. DOI: https://doi.org/10.1190/geo2016-0663.1\n\nEngquist, B, Froese, B D, Yang, Y. Optimal transport for seismic full waveform inversion. Communications in Mathematical Sciences 14 (2016) 8 DOI: https://dx.doi.org/10.4310/CMS.2016.v14.n8.a9"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Yunan Yang’s",
+        "label": "PERSON",
+        "start": 21,
+        "end": 33
+      },
+      {
+        "text": "32-year-old",
+        "label": "DATE",
+        "start": 448,
+        "end": 459
+      },
+      {
+        "text": "the ETH Institute for Theoretical Studies",
+        "label": "ORG",
+        "start": 510,
+        "end": 551
+      },
+      {
+        "text": "January 2022",
+        "label": "DATE",
+        "start": 568,
+        "end": 580
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 596,
+        "end": 601
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 624,
+        "end": 626
+      },
+      {
+        "text": "eight years",
+        "label": "DATE",
+        "start": 631,
+        "end": 642
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 667,
+        "end": 673
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 676,
+        "end": 680
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 719,
+        "end": 725
+      },
+      {
+        "text": "Continent",
+        "label": "LOC",
+        "start": 770,
+        "end": 779
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 1032,
+        "end": 1036
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 58,
+        "end": 62
+      },
+      {
+        "text": "French",
+        "label": "NORP",
+        "start": 78,
+        "end": 84
+      },
+      {
+        "text": "Gaspard Monge",
+        "label": "ORG",
+        "start": 99,
+        "end": 112
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 172,
+        "end": 175
+      },
+      {
+        "text": "Optimal",
+        "label": "NORP",
+        "start": 374,
+        "end": 381
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 461,
+        "end": 465
+      },
+      {
+        "text": "the 1940s",
+        "label": "DATE",
+        "start": 527,
+        "end": 536
+      },
+      {
+        "text": "20 years later",
+        "label": "DATE",
+        "start": 589,
+        "end": 603
+      },
+      {
+        "text": "the 1990s",
+        "label": "DATE",
+        "start": 648,
+        "end": 657
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 772,
+        "end": 776
+      },
+      {
+        "text": "200 kilometres",
+        "label": "QUANTITY",
+        "start": 851,
+        "end": 865
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 881,
+        "end": 885
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1120,
+        "end": 1123
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 1197,
+        "end": 1201
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1280,
+        "end": 1286
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 1374,
+        "end": 1378
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "China’s Zhejiang University",
+        "label": "ORG",
+        "start": 98,
+        "end": 125
+      },
+      {
+        "text": "a year",
+        "label": "DATE",
+        "start": 133,
+        "end": 139
+      },
+      {
+        "text": "Shanghai",
+        "label": "GPE",
+        "start": 369,
+        "end": 377
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 387,
+        "end": 390
+      },
+      {
+        "text": "Luis Caffarelli",
+        "label": "PERSON",
+        "start": 404,
+        "end": 419
+      },
+      {
+        "text": "Irene Gamba",
+        "label": "PERSON",
+        "start": 434,
+        "end": 445
+      },
+      {
+        "text": "Argentinian-American",
+        "label": "NORP",
+        "start": 452,
+        "end": 472
+      },
+      {
+        "text": "the University of Texas",
+        "label": "ORG",
+        "start": 499,
+        "end": 522
+      },
+      {
+        "text": "Austin",
+        "label": "GPE",
+        "start": 526,
+        "end": 532
+      },
+      {
+        "text": "Caffarelli",
+        "label": "PERSON",
+        "start": 548,
+        "end": 558
+      },
+      {
+        "text": "the Abel Prize",
+        "label": "WORK_OF_ART",
+        "start": 651,
+        "end": 665
+      },
+      {
+        "text": "two-hour",
+        "label": "TIME",
+        "start": 782,
+        "end": 790
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 884,
+        "end": 888
+      },
+      {
+        "text": "Caffarelli",
+        "label": "PERSON",
+        "start": 895,
+        "end": 905
+      },
+      {
+        "text": "Gamba",
+        "label": "PERSON",
+        "start": 910,
+        "end": 915
+      },
+      {
+        "text": "Ph.D.",
+        "label": "WORK_OF_ART",
+        "start": 983,
+        "end": 988
+      },
+      {
+        "text": "Austin",
+        "label": "GPE",
+        "start": 1000,
+        "end": 1006
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 1008,
+        "end": 1012
+      },
+      {
+        "text": "A year later",
+        "label": "DATE",
+        "start": 1044,
+        "end": 1056
+      },
+      {
+        "text": "Austin",
+        "label": "GPE",
+        "start": 1067,
+        "end": 1073
+      },
+      {
+        "text": "Austin",
+        "label": "PERSON",
+        "start": 7,
+        "end": 13
+      },
+      {
+        "text": "Italian",
+        "label": "NORP",
+        "start": 38,
+        "end": 45
+      },
+      {
+        "text": "Alessio Figalli",
+        "label": "PERSON",
+        "start": 60,
+        "end": 75
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 99,
+        "end": 109
+      },
+      {
+        "text": "Nobel Prize",
+        "label": "WORK_OF_ART",
+        "start": 168,
+        "end": 179
+      },
+      {
+        "text": "the age of 40",
+        "label": "DATE",
+        "start": 205,
+        "end": 218
+      },
+      {
+        "text": "Austin",
+        "label": "PERSON",
+        "start": 234,
+        "end": 240
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 242,
+        "end": 246
+      },
+      {
+        "text": "Figalli",
+        "label": "PERSON",
+        "start": 274,
+        "end": 281
+      },
+      {
+        "text": "Ph.D.",
+        "label": "WORK_OF_ART",
+        "start": 359,
+        "end": 364
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 366,
+        "end": 370
+      },
+      {
+        "text": "the Courant Institute",
+        "label": "ORG",
+        "start": 380,
+        "end": 401
+      },
+      {
+        "text": "New York University",
+        "label": "ORG",
+        "start": 405,
+        "end": 424
+      },
+      {
+        "text": "the United States",
+        "label": "GPE",
+        "start": 468,
+        "end": 485
+      },
+      {
+        "text": "Afonso Bandeira",
+        "label": "PERSON",
+        "start": 501,
+        "end": 516
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 529,
+        "end": 532
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 566,
+        "end": 568
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 586,
+        "end": 589
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 624,
+        "end": 628
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 691,
+        "end": 694
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 750,
+        "end": 754
+      },
+      {
+        "text": "Figalli",
+        "label": "PERSON",
+        "start": 775,
+        "end": 782
+      },
+      {
+        "text": "Lausanne",
+        "label": "PERSON",
+        "start": 808,
+        "end": 816
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 870,
+        "end": 876
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1107,
+        "end": 1112
+      },
+      {
+        "text": "cryogenic",
+        "label": "CARDINAL",
+        "start": 1305,
+        "end": 1314
+      },
+      {
+        "text": "Ninety percent",
+        "label": "PERCENT",
+        "start": 39,
+        "end": 53
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 107,
+        "end": 111
+      },
+      {
+        "text": "a few",
+        "label": "CARDINAL",
+        "start": 196,
+        "end": 201
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 261,
+        "end": 266
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 272,
+        "end": 281
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 285,
+        "end": 291
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 392,
+        "end": 397
+      },
+      {
+        "text": "July",
+        "label": "DATE",
+        "start": 544,
+        "end": 548
+      },
+      {
+        "text": "Cornell University",
+        "label": "ORG",
+        "start": 601,
+        "end": 619
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 627,
+        "end": 629
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 672,
+        "end": 674
+      },
+      {
+        "text": "Cornell",
+        "label": "ORG",
+        "start": 756,
+        "end": 763
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 778,
+        "end": 784
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 910,
+        "end": 913
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1015,
+        "end": 1021
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 1024,
+        "end": 1028
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 1104,
+        "end": 1108
+      },
+      {
+        "text": "Engquist",
+        "label": "ORG",
+        "start": 1112,
+        "end": 1120
+      },
+      {
+        "text": "Mishra",
+        "label": "GPE",
+        "start": 1122,
+        "end": 1128
+      },
+      {
+        "text": "S. Neural Inverse Operators for Solving PDE Inverse Problems",
+        "label": "ORG",
+        "start": 1130,
+        "end": 1190
+      },
+      {
+        "text": "ETH Zurich Research Collection",
+        "label": "ORG",
+        "start": 1192,
+        "end": 1222
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 1319,
+        "end": 1323
+      },
+      {
+        "text": "Wasserstein",
+        "label": "PERSON",
+        "start": 1342,
+        "end": 1353
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 1469,
+        "end": 1473
+      },
+      {
+        "text": "Engquist",
+        "label": "ORG",
+        "start": 1478,
+        "end": 1486
+      },
+      {
+        "text": "Wasserstein",
+        "label": "PERSON",
+        "start": 1564,
+        "end": 1575
+      },
+      {
+        "text": "Froese",
+        "label": "NORP",
+        "start": 1692,
+        "end": 1698
+      },
+      {
+        "text": "Yang",
+        "label": "PERSON",
+        "start": 1705,
+        "end": 1709
+      },
+      {
+        "text": "Y. Optimal",
+        "label": "PERSON",
+        "start": 1711,
+        "end": 1721
+      },
+      {
+        "text": "Mathematical Sciences",
+        "label": "ORG",
+        "start": 1787,
+        "end": 1808
+      },
+      {
+        "text": "14 (2016",
+        "label": "DATE",
+        "start": 1809,
+        "end": 1817
+      },
+      {
+        "text": "https://dx.doi.org/10.4310/CMS.2016.v14.n8.a9",
+        "label": "ORG",
+        "start": 1826,
+        "end": 1871
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Afonso Bandeira",
+        "Alessio Figalli",
+        "Austin",
+        "Caffarelli",
+        "Figalli",
+        "Gamba",
+        "Irene Gamba",
+        "Lausanne",
+        "Luis Caffarelli",
+        "Wasserstein",
+        "Y. Optimal",
+        "Yang",
+        "Yunan Yang’s"
+      ],
+      "ORG": [
+        "China’s Zhejiang University",
+        "Cornell",
+        "Cornell University",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich Research Collection",
+        "Engquist",
+        "Gaspard Monge",
+        "Mathematical Sciences",
+        "New York University",
+        "S. Neural Inverse Operators for Solving PDE Inverse Problems",
+        "https://dx.doi.org/10.4310/CMS.2016.v14.n8.a9",
+        "the Courant Institute",
+        "the ETH Institute for Theoretical Studies",
+        "the University of Texas"
+      ],
+      "LOCATION": [
+        "Austin",
+        "China",
+        "Continent",
+        "Europe",
+        "Mishra",
+        "Shanghai",
+        "US",
+        "Zurich",
+        "the United States"
+      ],
+      "DATE": [
+        "14 (2016",
+        "20 years later",
+        "32-year-old",
+        "A year later",
+        "January 2022",
+        "July",
+        "a year",
+        "eight years",
+        "the 1940s",
+        "the 1990s",
+        "the age of 40",
+        "this year",
+        "today",
+        "two-hour"
+      ],
+      "MISC": [
+        "200 kilometres",
+        "Argentinian-American",
+        "French",
+        "Froese",
+        "Italian",
+        "Ninety percent",
+        "Nobel Prize",
+        "Optimal",
+        "Ph.D.",
+        "Swiss",
+        "Two",
+        "a few",
+        "cryogenic",
+        "first",
+        "one",
+        "second",
+        "the Abel Prize",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Yang": 21,
+      "Austin": 5,
+      "US": 4,
+      "Zurich": 4,
+      "ETH": 4,
+      "Europe": 2,
+      "Caffarelli": 2,
+      "Ph.D.": 2,
+      "Figalli": 2,
+      "Engquist": 2,
+      "Wasserstein": 2,
+      "Yunan Yang’s": 1,
+      "32-year-old": 1,
+      "the ETH Institute for Theoretical Studies": 1,
+      "January 2022": 1,
+      "China": 1,
+      "eight years": 1,
+      "Continent": 1,
+      "French": 1,
+      "Gaspard Monge": 1
+    },
+    "total_entities": 107,
+    "unique_entities": 68
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-a-change-of-perspective-caused-a-sensation.md",
+      "title": "En News Events/2023/06/how A Change Of Perspective Caused A Sensation",
+      "language": "en",
+      "source_path": "en_news_events/2023/06/how-a-change-of-perspective-caused-a-sensation.html"
+    },
+    "temporal": {
+      "publication_date": "2023-06",
+      "mentioned_years": [
+        "2015",
+        "2016",
+        "2018",
+        "2019",
+        "2020",
+        "2022",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Afonso Bandeira",
+        "Alessio Figalli",
+        "Austin",
+        "Caffarelli",
+        "Figalli",
+        "Gamba",
+        "Irene Gamba",
+        "Lausanne",
+        "Luis Caffarelli",
+        "Wasserstein",
+        "Y. Optimal",
+        "Yang",
+        "Yunan Yang’s"
+      ],
+      "people_with_roles": {
+        "Austin": [
+          "professor"
+        ],
+        "Caffarelli": [
+          "professor"
+        ],
+        "Gamba": [
+          "professor"
+        ],
+        "Irene Gamba": [
+          "professor"
+        ],
+        "Luis Caffarelli": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "200 kilometres",
+        "Argentinian-American",
+        "French",
+        "Froese",
+        "Italian",
+        "Ninety percent",
+        "Nobel Prize",
+        "Optimal",
+        "Ph.D.",
+        "Swiss",
+        "a few",
+        "cryogenic",
+        "first",
+        "second",
+        "the Abel Prize"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Zhejiang University",
+        "Afonso Bandeira",
+        "Advanced Fellow",
+        "Irene Gamba",
+        "Argentinian-American",
+        "Solving PDE",
+        "Research Collection",
+        "Cornell University",
+        "Abel Prize",
+        "ETH Institute",
+        "Mathematical Sciences",
+        "Neural Inverse",
+        "Theoretical Studies",
+        "Luis Caffarelli",
+        "ETH-ITS",
+        "The French",
+        "A Change",
+        "Of Perspective",
+        "In July",
+        "Alessio Figalli",
+        "UT Austin",
+        "Yang Y",
+        "EPF Lausanne",
+        "United States",
+        "Caused A",
+        "En News",
+        "Nobel Prize",
+        "Molinaro R",
+        "Fields Medal",
+        "Then I",
+        "Yunan Yang",
+        "ETH Zurich",
+        "New York",
+        "Inverse Problems",
+        "Hamfeldt B",
+        "Gaspard Monge",
+        "B D",
+        "Sensation Inverse",
+        "Courant Institute"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Theoretical Studies "
+      ],
+      "institutions": [
+        "China’s Zhejiang University",
+        "Cornell",
+        "Cornell University",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich Research Collection",
+        "Engquist",
+        "Gaspard Monge",
+        "Mathematical Sciences",
+        "New York University",
+        "S. Neural Inverse Operators for Solving PDE Inverse Problems",
+        "https://dx.doi.org/10.4310/CMS.2016.v14.n8.a9",
+        "the Courant Institute",
+        "the ETH Institute for Theoretical Studies",
+        "the University of Texas"
+      ],
+      "locations": [
+        "Austin",
+        "China",
+        "Continent",
+        "Europe",
+        "Mishra",
+        "Shanghai",
+        "US",
+        "Zurich",
+        "the United States"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Yang",
+        "Austin",
+        "US",
+        "Zurich",
+        "ETH",
+        "Europe",
+        "Caffarelli",
+        "Ph.D.",
+        "Figalli",
+        "Engquist"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Minimising costs",
+          "Minimising costs",
+          "A chance encounter",
+          "ETH: A mecca for mathematicians",
+          "Running away from frustration"
+        ],
+        "content_length": 7147
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Afonso Bandeira",
+        "Irene Gamba",
+        "2020",
+        "Caffarelli",
+        "2016",
+        "the ETH Institute for Theoretical Studies",
+        "2023",
+        "Cornell University",
+        "Cornell",
+        "ERC",
+        "2018",
+        "Mathematical Sciences",
+        "the Courant Institute",
+        "Wasserstein",
+        "New York University",
+        "Yunan Yang’s",
+        "ETH Zurich Research Collection",
+        "2019",
+        "Luis Caffarelli",
+        "2022",
+        "the University of Texas",
+        "https://dx.doi.org/10.4310/CMS.2016.v14.n8.a9",
+        "Alessio Figalli",
+        "2015",
+        "Gamba",
+        "EU",
+        "Austin",
+        "China’s Zhejiang University",
+        "Gaspard Monge",
+        "Yang",
+        "Figalli",
+        "Lausanne",
+        "Engquist",
+        "ETH Zurich",
+        "S. Neural Inverse Operators for Solving PDE Inverse Problems",
+        "Y. Optimal"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Ninety percent",
+        "Argentinian-American",
+        "cryogenic",
+        "when",
+        "French",
+        "Froese",
+        "medical_research",
+        "Optimal",
+        "mathematics",
+        "a few",
+        "200 kilometres",
+        "who",
+        "what",
+        "how",
+        "Ph.D.",
+        "computer_science",
+        "first",
+        "the Abel Prize",
+        "Nobel Prize",
+        "Italian",
+        "Swiss",
+        "second",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Austin_has_role_professor",
+        "Caffarelli_has_role_professor",
+        "Gamba_has_role_professor",
+        "Irene Gamba_has_role_professor",
+        "Luis Caffarelli_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+# opioid-poisoning-on-the-rise.html
+
+**Source:** en_news_events/2022/06/opioid-poisoning-on-the-rise.html
+
+## Sales doubled
+
+Since the early 2000’s the US has been in the grip of an opioid crisis that has been exacerbated by the Covid pandemic – in 2021, more than 100,000 people died of an opioid overdose in the country. There are increasing signs that the same crisis is taking hold in Europe. Initial studies from the Netherlands and Denmark have drawn attention to the rise in the use of the strong opioid oxycodone. This substance, originally sold under the name OxyContin, was the major driver of the opioid crisis in the USA.
+
+However, hardly any figures are available on the use of opioids in Switzerland in recent years – particularly related to the potential harm. A research group led by Andrea Burden, Professor of Pharmacoepidemiology at ETH Zurich, has now analysed Swiss data in order to assess the trend in Switzerland.
+
+The researchers evaluated the development in the number of emergency calls concerning opioid poisoning to Tox Info Suisse, the Swiss information centre for poisoning, between 2000 and 2019. They also used data from IQVIA and provided by PharmaSuisse, the Swiss pharmacists' association, on opioid sales from Swiss pharmacies and dispensing physicians.
+
+The data makes it clear that the problem is becoming increasingly severe. The number of calls made to Tox Info Suisse due to cases of opioid poisoning increased by 177 percent during this period. The centre received 1.4 calls per 100,000 inhabitants in 2000, but 20 years later the number of calls had risen by more than two and a half as many.
+
+## Sales doubled
+
+Sales figures also almost doubled (+92%), from 14,300 units sold per 100,000 inhabitants to 27,400. Importantly, the increase in strong opioids was greater than in weaker forms, both in terms of calls to Tox Info Suisse and sales figures.
+
+In absolute terms, the painkiller tramadol appeared most frequently in 2019, both in Tox Info Suisse and in sales (40%). Tramadol is a weak opioid prescribed for moderate to severe pain.
+
+The second most common is oxycodone, a strong opioid that is the subject of more than a third of all calls to Tox Info Suisse and accounts for almost a quarter of sales. The figures relating to cases of poisoning and sales figures for oxycodone increased markedly between 2009 and 2016, with both more than doubling.
+
+"Our study clearly shows that opioid use is rising sharply in Switzerland," Burden summarises the situation. "The increase in sales is similar to those seen in the Netherlands and Denmark, however, our per capita sales are substantially higher in recent years". While, we are still a long way from the current situation in the USA or Canada, we have to keep an eye on the situation as the high sales of oxycodone in Switzerland is similar to what we saw in Canada in the early 2000’s” says Burden.
+
+## Averting a fentanyl crisis
+
+The study says very little about the use of illicit opioids, including fentanyl, an opioid that is administered for very severe pain; it is about ten times more potent than oxycodone and has a high potential for illicit use and fatal overdoses.
+
+In the USA, Canada, and Australia, illicit heroin and fentanyl use spiked following the removal of OxyContin, and fentanyl is the major driver of the current opioid crisis in those countries.
+
+## Reference
+
+As no figures are available, Burden cannot comment on the current number of illicit fentanyl users in Switzerland. Considered a narcotic, fentanyl is subject to stricter prescription requirements in Switzerland. However, Burden says that “if strong opioids like oxcycodone are suddenly restricted, patients who have a dependency to these medications may turn to the illicit market, and this is a danger we need to avoid moving forward”.
+
+In the sales, fentanyl was the third most sold opioid, but this may be largely to care homes for end-stage cancer management. In the Tox Info Suisse data, very few calls were received for fentanyl. However, for opioids, and particularly, fentanyl, it is possible that users (or their caregivers) turn directly to emergency services in the event of poisoning in order to obtain an antidote quickly. Therefore, it is likely that the Tox Info Suisse would not capture the majority of severe opioid poisonings.
+
+With data for the pandemic years 2020 and 2021 not yet known, it is unclear whether the use of opioids has risen dramatically, as in the US. The picture provided by the figures from PharmaSuisse and Tox Info Suisse is not complete either, and Burden is convinced that “the figures presented in the study on the harms with opioids in Switzerland are just the tip of the iceberg. We need more data to understand harms associated with opioid use in Switzerland – this includes the number who have developed a dependency to prescription opioids and the number of opioid-related deaths” Burden continues. She is now embarking on a follow-up study to address these questions.
+
+Burden believes it is important to remain vigilant, regardless of further studies: “We are not at the current scale of the opioid epidemic seen in North America or other countries such as UK or Australia. However, those countries are grappling with fentanyl use that developed following the restrictions on oxycodone. In Switzerland, we do not yet have the data to understand the full scale of opioid use and harms. Therefore, it is important that we collect this data so we can make informed policy decisions,” says the researcher. "We are in a lucky position in Switzerland, as we have the opportunity to learn from the situation in other countries, and hopefully avoid a fentanyl epidemic.”
+
+Hooijman MF, Martinez-De la Torre A, Weiler S, Burden AM. Opioid sales and opioid-related poisonings in Switzerland: a descriptive population-based time-series analysis. The Lancet Regional Health - Europe, published online 27.6.2022. DOI: 10.1016/j.lanepe.2022.100437
+

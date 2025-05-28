@@ -1,0 +1,258 @@
+{
+  "filename": "de_internal_2024_01_fit-im-forschungsdatenmanagement-workshop-reihe-im-fruehjahrssemester-2024.md",
+  "original_filename": "de_internal_2024_01_fit-im-forschungsdatenmanagement-workshop-reihe-im-fruehjahrssemester-2024.html",
+  "source_path": "de_internal/2024/01/fit-im-forschungsdatenmanagement-workshop-reihe-im-fruehjahrssemester-2024.html",
+  "date": "2024-01",
+  "title": "Fit Im Forschungsdatenmanagement Workshop Reihe Im Fruehjahrssemester 2024",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In sieben individuellen Online-Workshops thematisiert die ETH-Bibliothek zusammen mit Scientific IT Services die verschiedenen Elemente des Forschungsdatenmanagements (FDM) entlang des Forschungsdaten-Lebenszyklus. Ob Sie an einzelnen oder an allen Workshops teilnehmen, können Sie frei entscheiden.\n\nAnmeldung und weitere Details\n\nSie können sich ab sofort auf unserer Webseite für die einzelnen Online-Workshops oder für die gesamte Workshop-Reihe anmelden. Sie finden dort auch weitere Details zu Inhalt und Format.\n\nDie Workshop-​Reihe wird auf Englisch und virtuell über Zoom durchgeführt. Die Workshops finden vom 21. Februar 2024 bis zum 03. April 2024 jeweils mittwochvormittags statt. Sie richten sich an Doktorierende, Postdocs sowie an wissenschaftliches Personal und andere Mitglieder der ETH Zürich.\n\nGut zu wissen: Wir bieten Ihnen die Workshops nach Vereinbarung auch als individuelle Termine für Gruppen ab fünf Personen an. Sie können hierzu einen Termin über unsere Webseite vereinbaren.\n\nHaben Sie Fragen? Dann kontaktieren Sie uns gerne per ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2024/01",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Im Fruehjahrssemester 2024",
+        "label": "MISC",
+        "start": 68,
+        "end": 94
+      },
+      {
+        "text": "Online-Workshops",
+        "label": "MISC",
+        "start": 24,
+        "end": 40
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 58,
+        "end": 72
+      },
+      {
+        "text": "Scientific IT Services",
+        "label": "ORG",
+        "start": 86,
+        "end": 108
+      },
+      {
+        "text": "FDM",
+        "label": "ORG",
+        "start": 168,
+        "end": 171
+      },
+      {
+        "text": "Forschungsdaten-Lebenszyklus",
+        "label": "LOC",
+        "start": 185,
+        "end": 213
+      },
+      {
+        "text": "Online-Workshops",
+        "label": "MISC",
+        "start": 395,
+        "end": 411
+      },
+      {
+        "text": "Workshop-Reihe",
+        "label": "MISC",
+        "start": 433,
+        "end": 447
+      },
+      {
+        "text": "Workshop-​Reihe",
+        "label": "MISC",
+        "start": 521,
+        "end": 536
+      },
+      {
+        "text": "Englisch",
+        "label": "MISC",
+        "start": 546,
+        "end": 554
+      },
+      {
+        "text": "Zoom",
+        "label": "PER",
+        "start": 573,
+        "end": 577
+      },
+      {
+        "text": "Postdocs",
+        "label": "MISC",
+        "start": 726,
+        "end": 734
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 798,
+        "end": 808
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Zoom"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "FDM",
+        "Scientific IT Services"
+      ],
+      "LOCATION": [
+        "De Internal/2024/01",
+        "Forschungsdaten-Lebenszyklus"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "Englisch",
+        "Im Fruehjahrssemester 2024",
+        "Online-Workshops",
+        "Postdocs",
+        "Workshop-Reihe",
+        "Workshop-​Reihe"
+      ]
+    },
+    "entity_counts": {
+      "Online-Workshops": 2,
+      "De Internal/2024/01": 1,
+      "Im Fruehjahrssemester 2024": 1,
+      "ETH-Bibliothek": 1,
+      "Scientific IT Services": 1,
+      "FDM": 1,
+      "Forschungsdaten-Lebenszyklus": 1,
+      "Workshop-Reihe": 1,
+      "Workshop-​Reihe": 1,
+      "Englisch": 1,
+      "Zoom": 1,
+      "Postdocs": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2024_01_fit-im-forschungsdatenmanagement-workshop-reihe-im-fruehjahrssemester-2024.md",
+      "title": "De Internal/2024/01/fit Im Forschungsdatenmanagement Workshop Reihe Im Fruehjahrssemester 2024",
+      "language": "de",
+      "source_path": "de_internal/2024/01/fit-im-forschungsdatenmanagement-workshop-reihe-im-fruehjahrssemester-2024.html"
+    },
+    "temporal": {
+      "publication_date": "2024-01",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Zoom"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "Englisch",
+        "Im Fruehjahrssemester 2024",
+        "Online-Workshops",
+        "Postdocs",
+        "Workshop-Reihe",
+        "Workshop-​Reihe"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Ob Sie",
+        "Online-Workshops",
+        "Workshop Reihe",
+        "De Internal",
+        "Forschungsdaten-Lebenszyklus",
+        "Die Workshops",
+        "Im Forschungsdatenmanagement",
+        "Die Workshop",
+        "Scientific IT",
+        "Haben Sie",
+        "Workshop-Reihe",
+        "Im Fruehjahrssemester"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "FDM",
+        "Scientific IT Services"
+      ],
+      "locations": [
+        "De Internal/2024/01",
+        "Forschungsdaten-Lebenszyklus"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Online-Workshops",
+        "De Internal/2024/01",
+        "Im Fruehjahrssemester 2024",
+        "ETH-Bibliothek",
+        "Scientific IT Services",
+        "FDM",
+        "Forschungsdaten-Lebenszyklus",
+        "Workshop-Reihe",
+        "Workshop-​Reihe",
+        "Englisch"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1157
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "ETH Zürich",
+        "FDM",
+        "Scientific IT Services",
+        "Zoom"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Bibliothek",
+        "Postdocs",
+        "Workshop-​Reihe",
+        "Online-Workshops",
+        "who",
+        "Englisch",
+        "Workshop-Reihe",
+        "Im Fruehjahrssemester 2024",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "filename": "gastro-betriebe-beschliessen-verbesserungsmassnahmen.md",
+  "original_filename": "gastro-betriebe-beschliessen-verbesserungsmassnahmen.html",
+  "source_path": "de_internal/2015/09/gastro-betriebe-beschliessen-verbesserungsmassnahmen.html",
+  "date": "2015-09",
+  "title": "Gastro Betriebe Beschliessen Verbesserungsmassnahmen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Grössere Vielfalt gewünscht",
+      "text": "Besonders gute Noten verteilten die Befragten dem Personal sowie dem Ambiente (Mobiliar, Geschirr). Auch die Getränke, insbesondere die Kaffee- und Teequalität, kommen gut an. Verbesserungen gegenüber der Befragung von 2012 sehen die Befragten beim Salatangebot, den warmen Menüs, dem Snack- und Sandwichangebot sowie dem Preis-Leistungsverhältnis. Am zufriedensten sind die Gäste in den Verpflegungsbetrieben Clausiusbar, bQm und Dozentenfoyer.\n\nDie Zufriedenheit zeigt sich auch an der Anzahl Besuche: 95 Prozent der ETH-Community besuchen die Gastronomiebetriebe der ETH, zwei Drittel der Befragten mehr als zwei Mal in der Woche. Das entspricht gegenüber der letzten Gästebefragung von 2012 einer starken Zunahme an Loyalität."
+    },
+    {
+      "heading": "Grössere Vielfalt gewünscht",
+      "text": "Den grössten Bedarf an Verbesserungen sehen die Gäste bei der Vielfalt des Speisenangebots, bei der Nachhaltigkeit sowie bei der Verkürzung der Wartezeiten. Die Caterer SV, Compass und Eldora haben deshalb im Auftrag der Gastronomiekommission, welche die Befragung durchgeführt hat, für jeden ihrer Betriebe individuelle Massnahmen beschlossen, um den Wünschen der Befragten nachzukommen. Was diese Massnahmen sind, erfahren die Gäste ab Mitte September auf Plakaten, welche in den jeweiligen Gastronomiebetrieben aushängen.\n\nDie Befragung fand in den Monaten November und Dezember 2014 statt. Von den bei der Vollerhebung angeschriebenen 27‘934 Personen nahmen 6371 Personen, also 22.8 Prozent, teil. Unter den Befragten waren 6 Prozent Vegetarier und 1 Prozent Veganer."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/09/gastro Betriebe Beschliessen",
+        "label": "LOC",
+        "start": 0,
+        "end": 48
+      },
+      {
+        "text": "Geschirr",
+        "label": "LOC",
+        "start": 89,
+        "end": 97
+      },
+      {
+        "text": "Preis-Leistungsverhältnis",
+        "label": "LOC",
+        "start": 322,
+        "end": 347
+      },
+      {
+        "text": "Verpflegungsbetrieben Clausiusbar",
+        "label": "LOC",
+        "start": 388,
+        "end": 421
+      },
+      {
+        "text": "bQm",
+        "label": "LOC",
+        "start": 423,
+        "end": 426
+      },
+      {
+        "text": "Dozentenfoyer",
+        "label": "LOC",
+        "start": 431,
+        "end": 444
+      },
+      {
+        "text": "ETH-Community",
+        "label": "MISC",
+        "start": 518,
+        "end": 531
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 569,
+        "end": 572
+      },
+      {
+        "text": "Caterer SV",
+        "label": "ORG",
+        "start": 161,
+        "end": 171
+      },
+      {
+        "text": "Compass",
+        "label": "PER",
+        "start": 173,
+        "end": 180
+      },
+      {
+        "text": "Eldora",
+        "label": "PER",
+        "start": 185,
+        "end": 191
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Compass",
+        "Eldora"
+      ],
+      "ORG": [
+        "Caterer SV",
+        "ETH"
+      ],
+      "LOCATION": [
+        "De Internal/2015/09/gastro Betriebe Beschliessen",
+        "Dozentenfoyer",
+        "Geschirr",
+        "Preis-Leistungsverhältnis",
+        "Verpflegungsbetrieben Clausiusbar",
+        "bQm"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Community"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2015/09/gastro Betriebe Beschliessen": 1,
+      "Geschirr": 1,
+      "Preis-Leistungsverhältnis": 1,
+      "Verpflegungsbetrieben Clausiusbar": 1,
+      "bQm": 1,
+      "Dozentenfoyer": 1,
+      "ETH-Community": 1,
+      "ETH": 1,
+      "Caterer SV": 1,
+      "Compass": 1,
+      "Eldora": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "gastro-betriebe-beschliessen-verbesserungsmassnahmen.md",
+      "title": "De Internal/2015/09/gastro Betriebe Beschliessen Verbesserungsmassnahmen",
+      "language": "de",
+      "source_path": "de_internal/2015/09/gastro-betriebe-beschliessen-verbesserungsmassnahmen.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "2012",
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Compass",
+        "Eldora"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Community"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Betriebe Beschliessen",
+        "ETH-Community",
+        "Monaten November",
+        "De Internal",
+        "Anzahl Besuche",
+        "Die Caterer",
+        "Verpflegungsbetrieben Clausiusbar",
+        "Verbesserungsmassnahmen Besonders",
+        "Prozent Vegetarier",
+        "Prozent Veganer",
+        "Mitte September",
+        "Die Befragung",
+        "Die Zufriedenheit"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Caterer SV",
+        "ETH"
+      ],
+      "locations": [
+        "De Internal/2015/09/gastro Betriebe Beschliessen",
+        "Dozentenfoyer",
+        "Geschirr",
+        "Preis-Leistungsverhältnis",
+        "Verpflegungsbetrieben Clausiusbar",
+        "bQm"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De Internal/2015/09/gastro Betriebe Beschliessen",
+        "Geschirr",
+        "Preis-Leistungsverhältnis",
+        "Verpflegungsbetrieben Clausiusbar",
+        "bQm",
+        "Dozentenfoyer",
+        "ETH-Community",
+        "ETH",
+        "Caterer SV",
+        "Compass"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Grössere Vielfalt gewünscht",
+          "Grössere Vielfalt gewünscht"
+        ],
+        "content_length": 1575
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Caterer SV",
+        "ETH",
+        "2015",
+        "Eldora",
+        "2012",
+        "Compass",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "who",
+        "ETH-Community"
+      ],
+      "graph_relations": []
+    }
+  }
+}

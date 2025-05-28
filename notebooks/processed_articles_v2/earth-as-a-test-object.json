@@ -1,0 +1,627 @@
+{
+  "filename": "earth-as-a-test-object.md",
+  "original_filename": "earth-as-a-test-object.html",
+  "source_path": "en_news_events/2024/02/earth-as-a-test-object.html",
+  "date": "2024-02",
+  "title": "Earth As A Test Object",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- The technology planned for the future LIFE space mission is capable of recognising habitable exoplanets. This has been demonstrated in a study conducted by researchers at ETH Zurich and the University of Zurich.\n\n- They used the measurement procedure intended for LIFE to analyse the Earth as if it were an exoplanet.\n\n- The researchers were able to measure the concentrations of atmospheric gases such as ozone and methane and detect surface conditions that favour the occurrence of water."
+    },
+    {
+      "heading": "Searching for life",
+      "text": "Life is indeed possible on Earth. This has been demonstrated in a study conducted by the Institute of Particle Physics and Astrophysics at ETH Zurich. Of course, the researchers’ intention wasn’t to answer the question itself. Instead, they used the Earth as an example to prove that the planned LIFE (Large Interferometer for Exoplanets) space mission can be a success – and that the planned measurement procedure works."
+    },
+    {
+      "heading": "Searching for life",
+      "text": "With a network of five satellites, the international LIFE initiative led by ETH Zurich hopes to one day detect traces of life on exoplanets. It aims to undertake a more detailed study of Earth-like exoplanets – rocky planets that are similar to Earth in size and temperature but orbit other stars.\n\nThe plan is to position five smaller satellites in space close to the James Webb Space Telescope. Together, these satellites will form a large telescope that will act as an interferometer to pick up exoplanets’ infrared thermal radiation. The spectrum of the light can then be used to deduce the composition of those exoplanets and their atmospheres. “Our goal is to detect chemical compounds in the light spectrum that hint at life on the exoplanets,” explains Sascha Quanz, who is leading the LIFE initiative."
+    },
+    {
+      "heading": "Earth as an unassuming speck",
+      "text": "In the study, which has just been published in The Astrophysical Journal , the researchers Jean-​Noël Mettler, Björn S. Konrad, Sascha P. Quanz and Ravit Helled investigated how well a LIFE mission could characterise an exoplanet’s habitability. To this end, they decided to treat the Earth as if it were an exoplanet and make observations on our home planet.\n\nWhat’s unique about the study is that the team tested the future LIFE mission’s capabilities on real rather than simulated spectra. Using data from one of the atmospheric measuring devices on NASA’s Aqua Earth observation satellite, they generated the Earth’s emission spectra in the mid-infrared range, as might be recorded in future observations of exoplanets.\n\nTwo considerations were central to the project. First, if a large space telescope were to observe the Earth from space, what kind of infrared spectrum would it record? Because the Earth would be observed from a great distance, it would look like an unassuming speck, without recognisable features such as the sea or mountains. This means the spectra would then be spatial and temporal averages that depended on which views of the planet the telescope would capture and for how long."
+    },
+    {
+      "heading": "How do perspective and seasons affect observations?",
+      "text": "From this, the physicists derived the second consideration in their study: if these averaged spectra were analysed to obtain information about the Earth’s atmosphere and surface conditions, in what ways would the results depend on factors such as observational geometry and seasonal fluctuations?\n\nThe researchers considered three observation geometries – the two views from the poles and an additional equatorial view – and focused on data recorded in January and July to account for the largest seasonal variations."
+    },
+    {
+      "heading": "Successful identification as a habitable planet",
+      "text": "The study’s key finding is encouraging: if a space telescope like LIFE were to observe planet Earth from a distance of around 30 light years, it would find signs of a temperate, habitable world. The team was able to detect concentrations of the atmospheric gases CO 2 , water, ozone and methane in the infrared spectra of the Earth’s atmosphere, as well as surface conditions that favour the occurrence of water. Evidence of ozone and methane is particularly important as these gases are produced by the Earth’s biosphere.\n\nThese results are independent of the observation geometry, as the researchers showed. This is good news, because the exact observation geometry for future observations of Earth-like exoplanets will probably be unknown.\n\nWhen comparing seasonal fluctuations, however, the result was less revealing. “Even if atmospheric seasonality is not easily observed, our study demonstrates that next generation space missions can assess whether nearby temperate terrestrial exoplanets are habitable or even inhabited,” Quanz says.\n\nExcerpts from this article are taken from the text \"If Earth were an exoplanet\" by science writer Gaia Donati.\n\nMettler J-N, Konrad BS, Quanz SP, Helled R: Earth as an Exoplanet. III. Using Empirical Thermal Emission Spectra as Input for Atmospheric Retrieval of an Earth-Twin Exoplanet. The Astrophysical Journal, February 26, 2024. DOI: 10.3847/1538-4357/ad198b"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 173,
+        "end": 183
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 188,
+        "end": 212
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 285,
+        "end": 290
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 27,
+        "end": 32
+      },
+      {
+        "text": "the Institute of Particle Physics",
+        "label": "ORG",
+        "start": 85,
+        "end": 118
+      },
+      {
+        "text": "Astrophysics",
+        "label": "EVENT",
+        "start": 123,
+        "end": 135
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 139,
+        "end": 149
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 250,
+        "end": 255
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 18,
+        "end": 22
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 76,
+        "end": 86
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 96,
+        "end": 103
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 187,
+        "end": 192
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 245,
+        "end": 250
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 322,
+        "end": 326
+      },
+      {
+        "text": "James Webb Space Telescope",
+        "label": "PERSON",
+        "start": 368,
+        "end": 394
+      },
+      {
+        "text": "Sascha Quanz",
+        "label": "PERSON",
+        "start": 760,
+        "end": 772
+      },
+      {
+        "text": "The Astrophysical Journal",
+        "label": "ORG",
+        "start": 47,
+        "end": 72
+      },
+      {
+        "text": "Jean-​Noël Mettler",
+        "label": "PERSON",
+        "start": 91,
+        "end": 109
+      },
+      {
+        "text": "Björn S. Konrad",
+        "label": "PERSON",
+        "start": 111,
+        "end": 126
+      },
+      {
+        "text": "Sascha P. Quanz",
+        "label": "PERSON",
+        "start": 128,
+        "end": 143
+      },
+      {
+        "text": "Ravit Helled",
+        "label": "PERSON",
+        "start": 148,
+        "end": 160
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 285,
+        "end": 290
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 552,
+        "end": 556
+      },
+      {
+        "text": "Aqua Earth",
+        "label": "PRODUCT",
+        "start": 559,
+        "end": 569
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 612,
+        "end": 617
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 723,
+        "end": 726
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 771,
+        "end": 776
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 825,
+        "end": 830
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 903,
+        "end": 908
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 38,
+        "end": 44
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 147,
+        "end": 152
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 324,
+        "end": 329
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 359,
+        "end": 362
+      },
+      {
+        "text": "poles",
+        "label": "NORP",
+        "start": 378,
+        "end": 383
+      },
+      {
+        "text": "January and July",
+        "label": "DATE",
+        "start": 452,
+        "end": 468
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 94,
+        "end": 99
+      },
+      {
+        "text": "around 30 light years",
+        "label": "DATE",
+        "start": 119,
+        "end": 140
+      },
+      {
+        "text": "CO 2",
+        "label": "PRODUCT",
+        "start": 263,
+        "end": 267
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 326,
+        "end": 331
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 504,
+        "end": 509
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 694,
+        "end": 699
+      },
+      {
+        "text": "Quanz",
+        "label": "ORG",
+        "start": 1029,
+        "end": 1034
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1096,
+        "end": 1101
+      },
+      {
+        "text": "Gaia Donati",
+        "label": "PERSON",
+        "start": 1139,
+        "end": 1150
+      },
+      {
+        "text": "J-N",
+        "label": "ORG",
+        "start": 1160,
+        "end": 1163
+      },
+      {
+        "text": "Konrad BS",
+        "label": "PERSON",
+        "start": 1165,
+        "end": 1174
+      },
+      {
+        "text": "Quanz SP",
+        "label": "ORG",
+        "start": 1176,
+        "end": 1184
+      },
+      {
+        "text": "Helled",
+        "label": "PERSON",
+        "start": 1186,
+        "end": 1192
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1196,
+        "end": 1201
+      },
+      {
+        "text": "Input for Atmospheric Retrieval",
+        "label": "ORG",
+        "start": 1268,
+        "end": 1299
+      },
+      {
+        "text": "The Astrophysical Journal",
+        "label": "ORG",
+        "start": 1328,
+        "end": 1353
+      },
+      {
+        "text": "February 26, 2024",
+        "label": "DATE",
+        "start": 1355,
+        "end": 1372
+      },
+      {
+        "text": "10.3847/1538-4357",
+        "label": "CARDINAL",
+        "start": 1379,
+        "end": 1396
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Björn S. Konrad",
+        "ETH Zurich",
+        "Gaia Donati",
+        "Helled",
+        "James Webb Space Telescope",
+        "Jean-​Noël Mettler",
+        "Konrad BS",
+        "Ravit Helled",
+        "Sascha P. Quanz",
+        "Sascha Quanz"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "En News",
+        "Input for Atmospheric Retrieval",
+        "J-N",
+        "NASA",
+        "Quanz",
+        "Quanz SP",
+        "The Astrophysical Journal",
+        "the Institute of Particle Physics",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Earth"
+      ],
+      "DATE": [
+        "February 26, 2024",
+        "January and July",
+        "around 30 light years",
+        "one day"
+      ],
+      "MISC": [
+        "10.3847/1538-4357",
+        "Aqua Earth",
+        "Astrophysics",
+        "CO 2",
+        "First",
+        "Two",
+        "five",
+        "poles",
+        "second",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Earth": 16,
+      "ETH Zurich": 3,
+      "five": 2,
+      "The Astrophysical Journal": 2,
+      "En News": 1,
+      "the University of Zurich": 1,
+      "the Institute of Particle Physics": 1,
+      "Astrophysics": 1,
+      "one day": 1,
+      "James Webb Space Telescope": 1,
+      "Sascha Quanz": 1,
+      "Jean-​Noël Mettler": 1,
+      "Björn S. Konrad": 1,
+      "Sascha P. Quanz": 1,
+      "Ravit Helled": 1,
+      "NASA": 1,
+      "Aqua Earth": 1,
+      "Two": 1,
+      "First": 1,
+      "second": 1
+    },
+    "total_entities": 54,
+    "unique_entities": 35
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "earth-as-a-test-object.md",
+      "title": "En News Events/2024/02/earth As A Test Object",
+      "language": "en",
+      "source_path": "en_news_events/2024/02/earth-as-a-test-object.html"
+    },
+    "temporal": {
+      "publication_date": "2024-02",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Björn S. Konrad",
+        "ETH Zurich",
+        "Gaia Donati",
+        "Helled",
+        "James Webb Space Telescope",
+        "Jean-​Noël Mettler",
+        "Konrad BS",
+        "Ravit Helled",
+        "Sascha P. Quanz",
+        "Sascha Quanz"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher"
+        ],
+        "Jean-​Noël Mettler": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.3847/1538-4357",
+        "Aqua Earth",
+        "Astrophysics",
+        "CO 2",
+        "First",
+        "five",
+        "poles",
+        "second",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Helled R",
+        "Ravit Helled",
+        "Sascha Quanz",
+        "Atmospheric Retrieval",
+        "Gaia Donati",
+        "Large Interferometer",
+        "The Astrophysical",
+        "As A",
+        "Quanz SP",
+        "James Webb",
+        "If Earth",
+        "Thermal Emission",
+        "Sascha P",
+        "Mettler J",
+        "Earth-Twin",
+        "Test Object",
+        "Particle Physics",
+        "Aqua Earth",
+        "Konrad BS",
+        "En News",
+        "Using Empirical",
+        "ETH Zurich",
+        "Space Telescope"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "En News",
+        "Input for Atmospheric Retrieval",
+        "J-N",
+        "NASA",
+        "Quanz",
+        "Quanz SP",
+        "The Astrophysical Journal",
+        "the Institute of Particle Physics",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Earth"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Earth",
+        "ETH Zurich",
+        "five",
+        "The Astrophysical Journal",
+        "En News",
+        "the University of Zurich",
+        "the Institute of Particle Physics",
+        "Astrophysics",
+        "one day",
+        "James Webb Space Telescope"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "In brief",
+          "Searching for life",
+          "Searching for life",
+          "Earth as an unassuming speck",
+          "How do perspective and seasons affect observations?",
+          "Successful identification as a habitable planet"
+        ],
+        "content_length": 4905
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Ravit Helled",
+        "Helled",
+        "Sascha Quanz",
+        "Input for Atmospheric Retrieval",
+        "the University of Zurich",
+        "Gaia Donati",
+        "Quanz SP",
+        "Björn S. Konrad",
+        "The Astrophysical Journal",
+        "the Institute of Particle Physics",
+        "NASA",
+        "Jean-​Noël Mettler",
+        "2024",
+        "James Webb Space Telescope",
+        "Konrad BS",
+        "En News",
+        "Sascha P. Quanz",
+        "Quanz",
+        "J-N",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "Aqua Earth",
+        "three",
+        "who",
+        "Astrophysics",
+        "chemistry",
+        "what",
+        "second",
+        "First",
+        "poles",
+        "how",
+        "five",
+        "10.3847/1538-4357",
+        "why",
+        "when",
+        "where",
+        "CO 2"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "Jean-​Noël Mettler_has_role_researcher",
+        "research_domain_technology",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

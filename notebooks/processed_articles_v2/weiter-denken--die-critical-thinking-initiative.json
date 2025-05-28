@@ -1,0 +1,145 @@
+{
+  "filename": "weiter-denken--die-critical-thinking-initiative.md",
+  "original_filename": "weiter-denken--die-critical-thinking-initiative.html",
+  "source_path": "de_internal/2016/02/weiter-denken--die-critical-thinking-initiative.html",
+  "date": "2016-02",
+  "title": "Weiter Denken Die Critical Thinking Initiative",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die \"Critical Thinking\" Initiative motiviert Angehörige der ETH Zürich, Dinge zu hinterfragen, Verantwortung für das eigene Tun zu übernehmen und interdisziplinär zu denken. Die Veranstaltungen der ETH-Bibliothek thematisieren hierbei Fragestellungen rund um Recherche, Publikation und Datenerhalt.\n\n\"Critical Thinking\" Initiative"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/02",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Critical Thinking Initiative",
+        "label": "ORG",
+        "start": 38,
+        "end": 66
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 60,
+        "end": 70
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 198,
+        "end": 212
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Critical Thinking Initiative",
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2016/02"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2016/02": 1,
+      "Critical Thinking Initiative": 1,
+      "ETH Zürich": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "weiter-denken--die-critical-thinking-initiative.md",
+      "title": "De Internal/2016/02/weiter Denken die Critical Thinking Initiative",
+      "language": "de",
+      "source_path": "de_internal/2016/02/weiter-denken--die-critical-thinking-initiative.html"
+    },
+    "temporal": {
+      "publication_date": "2016-02",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Critical Thinking",
+        "De Internal",
+        "Initiative Die",
+        "Die Veranstaltungen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Critical Thinking Initiative",
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2016/02"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2016/02",
+        "Critical Thinking Initiative",
+        "ETH Zürich",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 397
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "ERC",
+        "Critical Thinking Initiative",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

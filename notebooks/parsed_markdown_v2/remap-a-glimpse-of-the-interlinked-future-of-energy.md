@@ -1,0 +1,58 @@
+# remap-a-glimpse-of-the-interlinked-future-of-energy.html
+
+**Source:** en_news_events/2019/05/remap-a-glimpse-of-the-interlinked-future-of-energy.html
+
+## Flexible consumption and local intelligence
+
+- Detlef Günther, Vice President Research and Corporate Relations, ETH Zurich
+
+- Peter Richner, Deputy CEO Empa and head of the strategic focus area Energy Research
+
+- Peter Jansohn, Director of ESI Platform, PSI
+
+- Christian Dürr, CEO, WEW Walenstadt
+
+- Romeo Deplazes, Head of Energy Services, Energie360°
+
+What will be more important in the future: privacy or cost efficiency? Gabriela Hug, Professor of Electric Power Systems at ETH, has investigated this issue with a focus on long-term changes in the energy supply system. Her approach shows how electricity consumers will be able to take advantage of local storage systems to optimise the overall grid load, reduce their energy bills and protect their privacy.
+
+The increasing significance of renewable energies poses new challenges for the grid, which must always provide the amount of energy required by consumers at any given time. As greater quantities of electricity are generated from wind and solar energy, it becomes more difficult to compensate output fluctuations compared to the current production mix dominated by fossil fuels, hydroelectric and nuclear power production.
+
+On the other hand, in the future technical developments such as battery storage units and smart meters will allow consumers to offset fluctuations in the available electricity themselves. However, this requires access to a storage system at home or in the neighbourhood that can be used to provide electricity when production is too low – on windless or cloudy days, for instance.
+
+## Flexible consumption and local intelligence
+
+Digital devices may help to optimise the network load, particularly in the distribution grid that supplies private households and consumers. Smart meters, for example, measure energy consumption regularly at brief intervals. They generate a data bases that will enable energy consumers to obtain electricity more flexibly.
+
+Electricity consumption usually peaks in the evening, as people return home from work, cook dinner and use appliances such as a washing machine, television or computer. It is highly likely that this peak period will become even more energy-intensive in the future, as more people switch to electric vehicles and charge them at home. Digital devices would allow this consumption to be staggered and could thus break the peak load: If an electric car is connected to the charging station in the evening, for instance, the battery would not be charged immediately but instead later at night.
+
+Energy researchers refer to this staggered approach as a “flexible load” or a “flexible consumer”. Hug investigates how to use this with “distributed optimisation” and “local intelligence”. To some extent, it is still the local consumer who decides how much electricity is needed and when. Hug explains: “With the new technologies, consumers can use energy more efficiently and simultaneously contribute to distributing the grid load.” This could ultimately level the total consumption and spread it more evenly.
+
+## Cost-efficiency or protective algorithm?
+
+Price plays a crucial role, as it has a major impact on consumer behaviour. Hug says that electricity prices could be more variable in future. Today, there are only peak and off-peak tariffs; more variable tariffs would allow customers to select their preferred tariff and lower their energy bills. Those with an energy storage unit at home could take optimal advantage of the variable tariffs. But the smart meters that allow this have risks.
+
+Ultimately, the data collected by the meters and storage systems can also disclose consumers’ behaviour. In addition to revealing energy consumption profiles, they might also uncover lifestyle patterns. This puts the privacy of consumers at risk. As part of the European research initiative CHIST-ERA , one of Hug’s doctoral students has developed a model that would allow energy companies to protect the privacy of their customers while still taking advantage of the benefits that smart meters offer for the power grid. The approach developed within the project, which was completed in spring 2019, relies on local storage systems that store the surplus energy.
+
+Hug’s group created a “protective” algorithm that alters the consumption data such that a consumer’s consumption patterns is concealed. In the theoretical model, the energy storage system has a switch that consumers can use to choose their preference: either their privacy is fully protected but they sacrifice some flexibility in the tariffs available — or they can optimise their energy bills but their consumption data is more visible. The example highlights the multitude of levels and interdependencies involved in the transition of the energy system. That is why Hug is keen to put the theoretical model of the switch into practice during a realistic trial run, and the same goes for the concept of “local intelligence”.
+
+A new platform – ReMaP , the Renewable Management and Real-time Control Platform – built for this purpose consolidates a variety of research projects and platforms. The goal is to better understand how the interdependencies between energy production, conversion and storage technologies influence the transition of the energy system and how these interdependencies can be optimised.
+
+## ReMaP – prompt verification of findings
+
+ReMaP is a research platform operated jointly by ETH Zurich, PSI and Empa. It was launched in late 2018 under the auspices of the Energy Science Centre at ETH Zurich and is now being expanded step-by-step. To achieve the most realistic research environment possible and to investigate the relationships between districts, the distribution grid, energy management, buildings and mobility, ReMaP is connected to the research infrastructures of PSI in Villigen and Empa in Dübendorf. This includes PSI’s energy system integration (ESI) platform , the energy research platform “ ehub ”, the mobility platform “ move ” and Empa’s research and innovation centre “ NEST ”. ReMaP is supported by the Swiss Federal Office of Energy (SFOE) and the ETH Foundation. The platform is also open to other universities, institutes of higher education and industry.
+
+## Reference
+
+Hug, who is the researcher responsible for the ReMaP project, explains: “Connecting the platforms allows us to test innovative ideas in a realistic environment, and thus support the implementation in the actual grid.” The “storage system with a switch”, for instance, can be tested at NEST and fed with grid-fluctuation data from the ESI platform.
+
+“ReMaP bridges the gap between research and industrial application in the energy sector that is so important for Switzerland,” comments Detlef Günther, ETH Vice President for Research and Corporate Relations. “I am particularly pleased that the energy researchers from ETH, PSI and Empa are tackling this task together.”
+
+Günther believes that ReMaP reflects the ETH Domain's strong commitment: “We need complementary investment and a concerted effort to make a significant contribution to this very important issue.”
+
+The ReMaP platform was presented to Swiss industry and future partners and users during a launch event at ETH Zurich on 5 June 2019.
+
+The following speakers were present:
+
+Chin, J. X., Tinoco De Rubira T., Hug, G.: Privacy Protecting Energy Management Unit through Model-Distribution Predictive Control. Special Issue on Distributed Control and Efficient Optimization Methods for Smart Grid, IEEE Transactions on Smart Grids, Vol. 8, No. 6, pp. 3084 – 3093, 2017, doi: 10.1109/TSG.2017.2703158
+

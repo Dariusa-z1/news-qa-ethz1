@@ -1,0 +1,260 @@
+{
+  "filename": "die-eth-karte-erhaelt-ein-neues-design.md",
+  "original_filename": "die-eth-karte-erhaelt-ein-neues-design.html",
+  "source_path": "de_internal/2015/05/die-eth-karte-erhaelt-ein-neues-design.html",
+  "date": "2015-05",
+  "title": "Die Eth Karte Erhaelt Ein Neues Design",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In diesem Sommer erhalten Angehörige der ETH Zürich eine neue ETH-Karte. Die Karte erscheint dabei im neuen Design: Das 2008 eingeführte, grüne Erscheinungsbild wird ersetzt durch ein Blau aus dem Corporate Design der ETH Zürich.\n\nDie Karte ist mit einer weiterentwickelten Version des bisher verwendeten RFID-Chips ausgestattet. Die elektronischen Funktionen der ETH-Karte und das Kartenmanagementsystem sind dieselben wie bisher. Ebenso bleiben die Informationen auf der ETH-Karte gleich: ETH-Logo, Mitarbeiterfoto, Name, Geburtsdatum, Gültigkeitsdauer, berufliche Rolle, organisationale Zuordnung, Identifikationsnummer und eventuell ASVZ-Berechtigung.\n\nDer Austausch der alten durch die neue ETH-Karte beginnt ab Juli für Studierende und neu eintretende Mitarbeitende. ETH-Mitarbeitende, die bereits im Besitz einer ETH-Karte sind, erhalten die neue Karte per Post ab Mitte August. Sie müssen die neue Karte danach an einem der bestehenden Terminals validieren. Ab voraussichtlich Oktober 2015 werden ETH-Karten im alten Design nicht mehr akzeptiert.\n\nBereits ab jetzt sind Mitarbeitende, die ihr Foto seit mehr als drei Jahren nicht mehr aktualisiert haben, aufgerufen, dieses zu ersetzen und ein neues, ausweistaugliches Passfoto auf www.adressen.ethz.ch heraufzuladen.\n\nWie die ETH Zürich lanciert auch die Universität Zürich in diesem Jahr eine visuell und funktionell gleichartige UZH-Karte für ihre Studierenden und Mitarbeitenden. Dass beide Hochschulen eine gleichartige Karte haben, hat sich seit 2008 bewährt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/05",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 41,
+        "end": 51
+      },
+      {
+        "text": "ETH-Karte",
+        "label": "MISC",
+        "start": 62,
+        "end": 71
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 218,
+        "end": 228
+      },
+      {
+        "text": "RFID-Chips",
+        "label": "ORG",
+        "start": 304,
+        "end": 314
+      },
+      {
+        "text": "ETH-Karte",
+        "label": "MISC",
+        "start": 363,
+        "end": 372
+      },
+      {
+        "text": "ETH-Karte",
+        "label": "MISC",
+        "start": 472,
+        "end": 481
+      },
+      {
+        "text": "ETH-Logo",
+        "label": "LOC",
+        "start": 490,
+        "end": 498
+      },
+      {
+        "text": "Mitarbeiterfoto",
+        "label": "LOC",
+        "start": 500,
+        "end": 515
+      },
+      {
+        "text": "ASVZ-Berechtigung",
+        "label": "MISC",
+        "start": 636,
+        "end": 653
+      },
+      {
+        "text": "ETH-Karte",
+        "label": "MISC",
+        "start": 694,
+        "end": 703
+      },
+      {
+        "text": "ETH-Mitarbeitende",
+        "label": "ORG",
+        "start": 771,
+        "end": 788
+      },
+      {
+        "text": "ETH-Karte",
+        "label": "MISC",
+        "start": 818,
+        "end": 827
+      },
+      {
+        "text": "ETH-Karten",
+        "label": "MISC",
+        "start": 1003,
+        "end": 1013
+      },
+      {
+        "text": "www.adressen.ethz.ch",
+        "label": "LOC",
+        "start": 1237,
+        "end": 1257
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1281,
+        "end": 1291
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 1310,
+        "end": 1328
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Mitarbeitende",
+        "RFID-Chips",
+        "Universität Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2015/05",
+        "ETH-Logo",
+        "Mitarbeiterfoto",
+        "www.adressen.ethz.ch"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ASVZ-Berechtigung",
+        "ETH-Karte",
+        "ETH-Karten"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Karte": 5,
+      "ETH Zürich": 3,
+      "De Internal/2015/05": 1,
+      "RFID-Chips": 1,
+      "ETH-Logo": 1,
+      "Mitarbeiterfoto": 1,
+      "ASVZ-Berechtigung": 1,
+      "ETH-Mitarbeitende": 1,
+      "ETH-Karten": 1,
+      "www.adressen.ethz.ch": 1,
+      "Universität Zürich": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "die-eth-karte-erhaelt-ein-neues-design.md",
+      "title": "De Internal/2015/05/die Eth Karte Erhaelt ein Neues Design",
+      "language": "de",
+      "source_path": "de_internal/2015/05/die-eth-karte-erhaelt-ein-neues-design.html"
+    },
+    "temporal": {
+      "publication_date": "2015-05",
+      "mentioned_years": [
+        "2008",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ASVZ-Berechtigung",
+        "ETH-Karte",
+        "ETH-Karten"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "RFID-Chips",
+        "Der Austausch",
+        "UZH-Karte",
+        "Corporate Design",
+        "De Internal",
+        "Neues Design",
+        "ASVZ-Berechtigung",
+        "ETH-Karten",
+        "ETH-Logo",
+        "ETH-Mitarbeitende",
+        "ETH-Karte",
+        "Eth Karte",
+        "Mitte August",
+        "Die Karte"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Mitarbeitende",
+        "RFID-Chips",
+        "Universität Zürich"
+      ],
+      "locations": [
+        "De Internal/2015/05",
+        "ETH-Logo",
+        "Mitarbeiterfoto",
+        "www.adressen.ethz.ch"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH-Karte",
+        "ETH Zürich",
+        "De Internal/2015/05",
+        "RFID-Chips",
+        "ETH-Logo",
+        "Mitarbeiterfoto",
+        "ASVZ-Berechtigung",
+        "ETH-Mitarbeitende",
+        "ETH-Karten",
+        "www.adressen.ethz.ch"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1582
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "EU",
+        "2008",
+        "ETH Zürich",
+        "ETH-Mitarbeitende",
+        "Universität Zürich",
+        "RFID-Chips"
+      ],
+      "semantic_concepts": [
+        "ETH-Karten",
+        "ASVZ-Berechtigung",
+        "ETH-Karte"
+      ],
+      "graph_relations": []
+    }
+  }
+}

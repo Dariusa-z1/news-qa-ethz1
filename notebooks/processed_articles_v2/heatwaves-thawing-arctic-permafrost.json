@@ -1,0 +1,597 @@
+{
+  "filename": "heatwaves-thawing-arctic-permafrost.md",
+  "original_filename": "heatwaves-thawing-arctic-permafrost.html",
+  "source_path": "en_news_events/2022/07/heatwaves-thawing-arctic-permafrost.html",
+  "date": "2022-07",
+  "title": "Heatwaves Thawing Arctic Permafrost",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Risk for release of organic carbon",
+      "text": "In the northernmost region of the earth the arctic permafrost is melting at an accelerated rate. For more than a decade, an international team of researchers from ETH Zurich, the University of Alaska Fairbanks, and the German Aerospace Center have observed topographical pock marks – large depressions referred to as, “retrogressive thaw slumps”. The slumps occur when permanently frozen layers of soil (ice-rich permafrost) melt leaving arctic hillslopes vulnerable to landslides. The landslides signal a risk for the potential release of carbon that has been stored in the permafrost for tens of thousands of years."
+    },
+    {
+      "heading": "Measuring changes to Arctic permafrost",
+      "text": "Their findings, recently published in the European Geosciences Union journal, The Cryosphere , reveal substantial changes to the topography of Siberia’s Taymyr peninsula, in northern Russia. The study’s results reveal a strong, 43-fold increase in retrogressive thaw slump activity and a 28-fold increase in carbon mobilisation. The increase also happens to coincide with an extreme heatwave that occurred in northern Siberia in 2020 in which temperatures reportedly reached 38 degrees Celsius (more than 100 degrees Fahrenheit) – record-breaking temperatures for the Arctic region.\n\n\"The strong increase in thaw slump activity due to the Siberian heatwave shows that carbon mobilisation from permafrost soils can respond sharply and non-linearly to increasing temperatures,\" asserts the paper’s lead author, Philipp Bernhard, Institute of Environmental Engineering, ETH Zurich."
+    },
+    {
+      "heading": "Neglected part of Arctic carbon cycle",
+      "text": "Using satellite data, the research team has been able to develop a new method to quantify carbon mobilisation in permafrost soil. Currently no other large-scale method exists that measures, to such a high level of spatial and vertical resolution, the changes in permafrost regions. This method allows researchers to provide a more accurate estimate of the state of the carbon cycle to the global carbon budget.\n\nBuilding on an earlier field and airborne flight study conducted in Canada’s Mackenzie River Delta, the researchers collected pre-study data that they later used to compare and analyse with satellite acquired data over the same region. Since 2010, the German Aerospace Center has been operating an innovative satellite mission using single-pass synthetic aperture radar, the TanDEM-X mission, to collect 3-dimensional elevation data over the earth surface. In addition to the radar data, from 2015, researchers analysed data obtained from the optical Sentinel-2 satellites deployed as part of the European Space Agency’s Earth Observation mission, Copernicus Programme with the focus on the arctic landscape."
+    },
+    {
+      "heading": "Neglected part of Arctic carbon cycle",
+      "text": "Siberia’s Taymyr peninsula, like many areas of the arctic, is a remote and nearly inaccessible region making scientific field studies a challenging, if not impossible, operation. The findings of this study indicate; however, that summer heatwaves and warming arctic regions pose a significant environmental risk that are worth monitoring.\n\nThe Arctic permafrost reportedly encases approximately 1.5 trillion metric tons of organic carbon, about twice as much as currently contained in the atmosphere. Bernhard agrees that the potential risks associated with this type of carbon mobilisation is \"a major, but largely neglected component of the Arctic carbon cycle\". The research team anticipates that satellite remote sensing will be an indispensable tool for continuous monitoring of carbon mobilisation resulting from melting permafrost across the Arctic.\n\nBernhard, P., Zwieback, S., and Hajnsek, I.: Accelerated mobilization of organic carbon from retrogressive thaw slumps on the northern Taymyr Peninsula, European Geosciences Union, The Cryosphere, 16, 2819–2835, 2022. DOI: 10.5194/tc-16-2819-2022 .\n\nBernhard P., Zwieback S., Leinss S. L and Hajnsek, I.: Mapping Retrogressive Thaw Slumps Using Single-Pass TanDEM-X Observations, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 13, pp. 3263-3280, 2020, DOI: 10.1109/JSTARS.2020.3000648."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Thawing Arctic Permafrost",
+        "label": "ORG",
+        "start": 33,
+        "end": 58
+      },
+      {
+        "text": "arctic",
+        "label": "LOC",
+        "start": 44,
+        "end": 50
+      },
+      {
+        "text": "more than a decade",
+        "label": "DATE",
+        "start": 101,
+        "end": 119
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 163,
+        "end": 173
+      },
+      {
+        "text": "the University of Alaska Fairbanks",
+        "label": "ORG",
+        "start": 175,
+        "end": 209
+      },
+      {
+        "text": "the German Aerospace Center",
+        "label": "ORG",
+        "start": 215,
+        "end": 242
+      },
+      {
+        "text": "arctic",
+        "label": "LOC",
+        "start": 438,
+        "end": 444
+      },
+      {
+        "text": "tens of thousands",
+        "label": "CARDINAL",
+        "start": 590,
+        "end": 607
+      },
+      {
+        "text": "the European Geosciences Union",
+        "label": "ORG",
+        "start": 38,
+        "end": 68
+      },
+      {
+        "text": "Siberia’s Taymyr",
+        "label": "ORG",
+        "start": 143,
+        "end": 159
+      },
+      {
+        "text": "Russia",
+        "label": "GPE",
+        "start": 183,
+        "end": 189
+      },
+      {
+        "text": "43-fold",
+        "label": "CARDINAL",
+        "start": 228,
+        "end": 235
+      },
+      {
+        "text": "Siberia",
+        "label": "LOC",
+        "start": 418,
+        "end": 425
+      },
+      {
+        "text": "38 degrees",
+        "label": "QUANTITY",
+        "start": 475,
+        "end": 485
+      },
+      {
+        "text": "more than",
+        "label": "CARDINAL",
+        "start": 495,
+        "end": 504
+      },
+      {
+        "text": "Arctic",
+        "label": "LOC",
+        "start": 568,
+        "end": 574
+      },
+      {
+        "text": "Siberian",
+        "label": "NORP",
+        "start": 638,
+        "end": 646
+      },
+      {
+        "text": "Philipp Bernhard",
+        "label": "PERSON",
+        "start": 808,
+        "end": 824
+      },
+      {
+        "text": "Institute of Environmental Engineering",
+        "label": "ORG",
+        "start": 826,
+        "end": 864
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 866,
+        "end": 876
+      },
+      {
+        "text": "Canada",
+        "label": "GPE",
+        "start": 479,
+        "end": 485
+      },
+      {
+        "text": "Mackenzie River Delta",
+        "label": "LOC",
+        "start": 488,
+        "end": 509
+      },
+      {
+        "text": "the German Aerospace Center",
+        "label": "ORG",
+        "start": 659,
+        "end": 686
+      },
+      {
+        "text": "the European Space Agency’s",
+        "label": "ORG",
+        "start": 1004,
+        "end": 1031
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1032,
+        "end": 1037
+      },
+      {
+        "text": "Copernicus Programme",
+        "label": "ORG",
+        "start": 1059,
+        "end": 1079
+      },
+      {
+        "text": "Siberia’s Taymyr",
+        "label": "ORG",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "arctic",
+        "label": "LOC",
+        "start": 51,
+        "end": 57
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 230,
+        "end": 236
+      },
+      {
+        "text": "arctic",
+        "label": "LOC",
+        "start": 259,
+        "end": 265
+      },
+      {
+        "text": "Arctic",
+        "label": "LOC",
+        "start": 343,
+        "end": 349
+      },
+      {
+        "text": "approximately 1.5 trillion metric tons",
+        "label": "QUANTITY",
+        "start": 380,
+        "end": 418
+      },
+      {
+        "text": "Arctic",
+        "label": "LOC",
+        "start": 642,
+        "end": 648
+      },
+      {
+        "text": "Arctic",
+        "label": "LOC",
+        "start": 848,
+        "end": 854
+      },
+      {
+        "text": "S.",
+        "label": "ORG",
+        "start": 880,
+        "end": 882
+      },
+      {
+        "text": "Hajnsek",
+        "label": "ORG",
+        "start": 888,
+        "end": 895
+      },
+      {
+        "text": "Taymyr Peninsula",
+        "label": "LOC",
+        "start": 991,
+        "end": 1007
+      },
+      {
+        "text": "European Geosciences Union",
+        "label": "ORG",
+        "start": 1009,
+        "end": 1035
+      },
+      {
+        "text": "2819–2835",
+        "label": "DATE",
+        "start": 1057,
+        "end": 1066
+      },
+      {
+        "text": "10.5194/tc-16-2819",
+        "label": "CARDINAL",
+        "start": 1079,
+        "end": 1097
+      },
+      {
+        "text": "Bernhard P.",
+        "label": "PERSON",
+        "start": 1105,
+        "end": 1116
+      },
+      {
+        "text": "Zwieback S.",
+        "label": "PERSON",
+        "start": 1118,
+        "end": 1129
+      },
+      {
+        "text": "Leinss S. L",
+        "label": "PERSON",
+        "start": 1131,
+        "end": 1142
+      },
+      {
+        "text": "Hajnsek",
+        "label": "ORG",
+        "start": 1147,
+        "end": 1154
+      },
+      {
+        "text": "IEEE Journal of Selected Topics",
+        "label": "ORG",
+        "start": 1235,
+        "end": 1266
+      },
+      {
+        "text": "Remote Sensing",
+        "label": "PERSON",
+        "start": 1301,
+        "end": 1315
+      },
+      {
+        "text": "pp",
+        "label": "GPE",
+        "start": 1326,
+        "end": 1328
+      },
+      {
+        "text": "3263-3280",
+        "label": "DATE",
+        "start": 1330,
+        "end": 1339
+      },
+      {
+        "text": "10.1109/JSTARS.2020.3000648",
+        "label": "CARDINAL",
+        "start": 1352,
+        "end": 1379
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bernhard P.",
+        "ETH Zurich",
+        "Leinss S. L",
+        "Philipp Bernhard",
+        "Remote Sensing",
+        "Zwieback S."
+      ],
+      "ORG": [
+        "Copernicus Programme",
+        "ETH Zurich",
+        "European Geosciences Union",
+        "Hajnsek",
+        "IEEE Journal of Selected Topics",
+        "Institute of Environmental Engineering",
+        "S.",
+        "Siberia’s Taymyr",
+        "Thawing Arctic Permafrost",
+        "the European Geosciences Union",
+        "the European Space Agency’s",
+        "the German Aerospace Center",
+        "the University of Alaska Fairbanks"
+      ],
+      "LOCATION": [
+        "Arctic",
+        "Canada",
+        "Earth",
+        "Mackenzie River Delta",
+        "Russia",
+        "Siberia",
+        "Taymyr Peninsula",
+        "arctic",
+        "pp"
+      ],
+      "DATE": [
+        "2819–2835",
+        "3263-3280",
+        "more than a decade",
+        "summer"
+      ],
+      "MISC": [
+        "10.1109/JSTARS.2020.3000648",
+        "10.5194/tc-16-2819",
+        "38 degrees",
+        "43-fold",
+        "Siberian",
+        "approximately 1.5 trillion metric tons",
+        "more than",
+        "tens of thousands"
+      ]
+    },
+    "entity_counts": {
+      "arctic": 4,
+      "Arctic": 4,
+      "ETH Zurich": 2,
+      "the German Aerospace Center": 2,
+      "Siberia’s Taymyr": 2,
+      "Hajnsek": 2,
+      "Thawing Arctic Permafrost": 1,
+      "more than a decade": 1,
+      "the University of Alaska Fairbanks": 1,
+      "tens of thousands": 1,
+      "the European Geosciences Union": 1,
+      "Russia": 1,
+      "43-fold": 1,
+      "Siberia": 1,
+      "38 degrees": 1,
+      "more than": 1,
+      "Siberian": 1,
+      "Philipp Bernhard": 1,
+      "Institute of Environmental Engineering": 1,
+      "Canada": 1
+    },
+    "total_entities": 49,
+    "unique_entities": 39
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "heatwaves-thawing-arctic-permafrost.md",
+      "title": "En News Events/2022/07/heatwaves Thawing Arctic Permafrost",
+      "language": "en",
+      "source_path": "en_news_events/2022/07/heatwaves-thawing-arctic-permafrost.html"
+    },
+    "temporal": {
+      "publication_date": "2022-07",
+      "mentioned_years": [
+        "2010",
+        "2015",
+        "2020",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bernhard P.",
+        "ETH Zurich",
+        "Leinss S. L",
+        "Philipp Bernhard",
+        "Remote Sensing",
+        "Zwieback S."
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "10.1109/JSTARS.2020.3000648",
+        "10.5194/tc-16-2819",
+        "38 degrees",
+        "43-fold",
+        "Siberian",
+        "approximately 1.5 trillion metric tons",
+        "more than",
+        "tens of thousands"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Bernhard P",
+        "IEEE Journal",
+        "Pass TanDEM",
+        "Applied Earth",
+        "Alaska Fairbanks",
+        "Copernicus Programme",
+        "Taymyr Peninsula",
+        "Earth Observation",
+        "Thaw Slumps",
+        "X Observations",
+        "Remote Sensing",
+        "Mackenzie River",
+        "German Aerospace",
+        "Philipp Bernhard",
+        "The Arctic",
+        "Leinss S",
+        "Zwieback S",
+        "The Cryosphere",
+        "TanDEM-X",
+        "Environmental Engineering",
+        "Permafrost In",
+        "Selected Topics",
+        "Thawing Arctic",
+        "European Space",
+        "En News",
+        "Using Single",
+        "Mapping Retrogressive",
+        "ETH Zurich",
+        "European Geosciences"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Copernicus Programme",
+        "ETH Zurich",
+        "European Geosciences Union",
+        "Hajnsek",
+        "IEEE Journal of Selected Topics",
+        "Institute of Environmental Engineering",
+        "S.",
+        "Siberia’s Taymyr",
+        "Thawing Arctic Permafrost",
+        "the European Geosciences Union",
+        "the European Space Agency’s",
+        "the German Aerospace Center",
+        "the University of Alaska Fairbanks"
+      ],
+      "locations": [
+        "Arctic",
+        "Canada",
+        "Earth",
+        "Mackenzie River Delta",
+        "Russia",
+        "Siberia",
+        "Taymyr Peninsula",
+        "arctic",
+        "pp"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "arctic",
+        "Arctic",
+        "ETH Zurich",
+        "the German Aerospace Center",
+        "Siberia’s Taymyr",
+        "Hajnsek",
+        "Thawing Arctic Permafrost",
+        "more than a decade",
+        "the University of Alaska Fairbanks",
+        "tens of thousands"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Risk for release of organic carbon",
+          "Measuring changes to Arctic permafrost",
+          "Neglected part of Arctic carbon cycle",
+          "Neglected part of Arctic carbon cycle"
+        ],
+        "content_length": 4060
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2020",
+        "Copernicus Programme",
+        "Hajnsek",
+        "Remote Sensing",
+        "IEEE Journal of Selected Topics",
+        "Leinss S. L",
+        "2022",
+        "Philipp Bernhard",
+        "S.",
+        "2015",
+        "EU",
+        "2010",
+        "Bernhard P.",
+        "the German Aerospace Center",
+        "Zwieback S.",
+        "European Geosciences Union",
+        "the European Geosciences Union",
+        "the University of Alaska Fairbanks",
+        "the European Space Agency’s",
+        "Siberia’s Taymyr",
+        "Institute of Environmental Engineering",
+        "ETH Zurich",
+        "Thawing Arctic Permafrost"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Siberian",
+        "38 degrees",
+        "more than",
+        "who",
+        "10.5194/tc-16-2819",
+        "where",
+        "tens of thousands",
+        "what",
+        "how",
+        "43-fold",
+        "when",
+        "approximately 1.5 trillion metric tons",
+        "10.1109/JSTARS.2020.3000648"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

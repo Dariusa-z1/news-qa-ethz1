@@ -1,0 +1,508 @@
+{
+  "filename": "perfect-inversion.md",
+  "original_filename": "perfect-inversion.html",
+  "source_path": "en_news_events/2018/08/perfect-inversion.html",
+  "date": "2018-08",
+  "title": "Perfect Inversion",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Magnetic and electric at once",
+      "text": "Whenever it gets unpleasantly loud, active noise reduction has been used in earphones or luxury cars in recent years. A microphone picks up the disturbing noise, from which a computer chip calculates the appropriate countermeasures: sound waves whose phases are exactly opposite to those of the ambient sound. The interference between those waves effectively erases the noise. Physicists and engineers would be all too happy to apply this principle of perfect inversion to other technologies, too, for instance to the magnetic structure of a material. ETH professor Manfred Fiebig and his collaborators at the Department of Materials in Zurich have now succeeded in doing just that, with support from scientists in Europe, Japan and Russia. Their results are published this week in the scientific journal Nature."
+    },
+    {
+      "heading": "Magnetic and electric at once",
+      "text": "Fiebig’s team used so-called multiferroics for their experiments. Differently from many other materials that have either magnetic or electric order, multiferroics possess both: they are magnetically and, at the same time, electrically polarized and, as a consequence, align themselves both along magnetic and along electric fields. The physical mechanisms that bring about the magnetic and electric order inside the material are subtly coupled to each other. This makes it possible, among other things, to influence the magnetization not through magnetic fields, as is usually done, but using electric fields. “That’s much more efficient, as one needs electric current to create magnetic fields, and that costs a lot of energy and creates annoying waste heat”, explains Naëmi Leo, a former PhD student in Fiebig’s laboratory. In computers, for instance, where data have to be constantly written on magnetic hard drives, multiferroics could be the key materials for significant energy savings."
+    },
+    {
+      "heading": "Inspiration from Tangram shapes",
+      "text": "At ETH, which has been an international leader in multiferroics research for quite some time, scientists immediately took this idea one step further. “A material that allows one to control its magnetization using electric fields must necessarily have a rather complex structure”, says Fiebig. He uses the Chinese Tangram puzzle to illustrate that principle: the more pieces one has– triangles, squares and a parallelogram –, the more elaborate shapes one can compose with them. In the case of multiferroics, the shapes correspond to the symmetries of the material, which determine its physical properties. The more complex those symmetries, the more varied are the so-called order parameters. They describe the direction in which the magnetization points inside a multiferroic, and how the magnetization is coupled to the electric order."
+    },
+    {
+      "heading": "Unexpected properties",
+      "text": "Now, if the atoms inside a material are arranged in such a complicated way, it is also very likely that it has other properties that are not obvious at first sight. “That’s why we didn’t want to limit ourselves to the well-known phenomena that have been studied for a long time, but rather try to see what other useful things multiferroics can do”, Fiebig explains and illustrates his research approach: “How can we recombine the pieces of the puzzle – that is, the order parameters – in different ways than those already known and thus obtain new and useful properties?”\n\nThis openness towards the unexpected has paid off. Fiebig and his co-workers eventually found a multiferroic in which the overall magnetization is not just, as usual, evenly oriented by an applied field. Clearly, that would erase any magnetically stored information – the distribution of positively and negatively magnetized regions inside the material. Rather, they used the field to invert the magnetization in each individual region of the material. Positively magnetized regions were, therefore, turned into negatively magnetized ones, and vice versa. The magnetic information contained in the arrangement of the regions, however, remained intact in the process. “That’s as if we inverted every single bit on a hard disk in one go”, Fiebig explains. “Normally, one would have to re-write each bit individually, but we can do it with a single magnetic field pulse.”"
+    },
+    {
+      "heading": "Inversion in a single go",
+      "text": "The researchers at ETH found this magnetic equivalent of active noise reduction in a multiferroic composed of cobalt, tellurium and oxygen. Owing to its complex crystal structure, not only can that material at once be magnetically and electrically polarized, but it can also have several order parameters describing its magnetization: one that determines the magnetic orientation of a single region, and another one that “remembers” the shape and arrangement of those regions inside the whole material.\n\nUsing a specialized imaging technique, whereby polarized laser light is sent through the crystal and changes its colour in the process, the researchers could directly make the inversion process spatially visible."
+    },
+    {
+      "heading": "Role reversal",
+      "text": "As if that was not enough, the physicists were also able to accomplish a similar feat with reversed roles. In a multiferroic containing atoms of manganese, germanium and oxygen, the magnetic field now inverted not the magnetization, but the electric polarization of the material. For the researchers, that is further proof that multiferroics still hold many surprises. “There is probably much more to be discovered that we can’t even imagine today”, Fiebig says.\n\nLeo N, Carolus V, White JS, Kenzelmann M, Hudl M, Toledano P, Honda T, Kimura T, Ivanov SA, Weil M, Lottermoser T, Meier D and Fiebig M: Magnetoelectric inversion of a domain pattern. Nature, 23. August 2018. DOI: 10.1038/s41586-018-0432-4"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 104,
+        "end": 116
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 552,
+        "end": 555
+      },
+      {
+        "text": "Manfred Fiebig",
+        "label": "PERSON",
+        "start": 566,
+        "end": 580
+      },
+      {
+        "text": "the Department of Materials",
+        "label": "ORG",
+        "start": 606,
+        "end": 633
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 637,
+        "end": 643
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 715,
+        "end": 721
+      },
+      {
+        "text": "Japan",
+        "label": "GPE",
+        "start": 723,
+        "end": 728
+      },
+      {
+        "text": "Russia",
+        "label": "GPE",
+        "start": 733,
+        "end": 739
+      },
+      {
+        "text": "this week",
+        "label": "DATE",
+        "start": 769,
+        "end": 778
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 805,
+        "end": 811
+      },
+      {
+        "text": "Fiebig’s",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 642,
+        "end": 645
+      },
+      {
+        "text": "Naëmi Leo",
+        "label": "PERSON",
+        "start": 770,
+        "end": 779
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 790,
+        "end": 793
+      },
+      {
+        "text": "Fiebig’s",
+        "label": "ORG",
+        "start": 805,
+        "end": 813
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 132,
+        "end": 135
+      },
+      {
+        "text": "Fiebig",
+        "label": "PERSON",
+        "start": 285,
+        "end": 291
+      },
+      {
+        "text": "Chinese",
+        "label": "NORP",
+        "start": 305,
+        "end": 312
+      },
+      {
+        "text": "Tangram",
+        "label": "PRODUCT",
+        "start": 313,
+        "end": 320
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 152,
+        "end": 157
+      },
+      {
+        "text": "Fiebig",
+        "label": "PERSON",
+        "start": 349,
+        "end": 355
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1300,
+        "end": 1303
+      },
+      {
+        "text": "Fiebig",
+        "label": "PERSON",
+        "start": 1309,
+        "end": 1315
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 442,
+        "end": 447
+      },
+      {
+        "text": "Fiebig",
+        "label": "PERSON",
+        "start": 450,
+        "end": 456
+      },
+      {
+        "text": "Leo N",
+        "label": "ORG",
+        "start": 463,
+        "end": 468
+      },
+      {
+        "text": "Kenzelmann M",
+        "label": "ORG",
+        "start": 491,
+        "end": 503
+      },
+      {
+        "text": "Hudl M",
+        "label": "PERSON",
+        "start": 505,
+        "end": 511
+      },
+      {
+        "text": "Honda",
+        "label": "ORG",
+        "start": 525,
+        "end": 530
+      },
+      {
+        "text": "Kimura",
+        "label": "PERSON",
+        "start": 534,
+        "end": 540
+      },
+      {
+        "text": "Ivanov SA",
+        "label": "PERSON",
+        "start": 544,
+        "end": 553
+      },
+      {
+        "text": "Lottermoser",
+        "label": "PERSON",
+        "start": 563,
+        "end": 574
+      },
+      {
+        "text": "Fiebig M: Magnetoelectric",
+        "label": "PERSON",
+        "start": 590,
+        "end": 615
+      },
+      {
+        "text": "August 2018",
+        "label": "DATE",
+        "start": 659,
+        "end": 670
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 677,
+        "end": 684
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fiebig",
+        "Fiebig M: Magnetoelectric",
+        "Hudl M",
+        "Ivanov SA",
+        "Kimura",
+        "Lottermoser",
+        "Manfred Fiebig",
+        "Naëmi Leo"
+      ],
+      "ORG": [
+        "ETH",
+        "Fiebig’s",
+        "Honda",
+        "Kenzelmann M",
+        "Leo N",
+        "the Department of Materials"
+      ],
+      "LOCATION": [
+        "Europe",
+        "Japan",
+        "Russia",
+        "Zurich"
+      ],
+      "DATE": [
+        "August 2018",
+        "recent years",
+        "this week",
+        "today"
+      ],
+      "MISC": [
+        "10.1038",
+        "Chinese",
+        "Nature",
+        "PhD",
+        "Tangram",
+        "first",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "Fiebig": 4,
+      "ETH": 3,
+      "one": 3,
+      "Fiebig’s": 2,
+      "recent years": 1,
+      "Manfred Fiebig": 1,
+      "the Department of Materials": 1,
+      "Zurich": 1,
+      "Europe": 1,
+      "Japan": 1,
+      "Russia": 1,
+      "this week": 1,
+      "Nature": 1,
+      "Naëmi Leo": 1,
+      "PhD": 1,
+      "Chinese": 1,
+      "Tangram": 1,
+      "first": 1,
+      "today": 1,
+      "Leo N": 1
+    },
+    "total_entities": 37,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "perfect-inversion.md",
+      "title": "En News Events/2018/08/perfect Inversion",
+      "language": "en",
+      "source_path": "en_news_events/2018/08/perfect-inversion.html"
+    },
+    "temporal": {
+      "publication_date": "2018-08",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Fiebig",
+        "Fiebig M: Magnetoelectric",
+        "Hudl M",
+        "Ivanov SA",
+        "Kimura",
+        "Lottermoser",
+        "Manfred Fiebig",
+        "Naëmi Leo"
+      ],
+      "people_with_roles": {
+        "Fiebig": [
+          "scientist",
+          "student",
+          "professor"
+        ],
+        "Manfred Fiebig": [
+          "scientist",
+          "professor"
+        ],
+        "Naëmi Leo": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Chinese",
+        "Nature",
+        "Tangram",
+        "first"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "At ETH",
+        "Weil M",
+        "Inversion Whenever",
+        "Ivanov SA",
+        "En News",
+        "Toledano P",
+        "Meier D",
+        "Chinese Tangram",
+        "Kenzelmann M",
+        "Honda T",
+        "Manfred Fiebig",
+        "Kimura T",
+        "Leo N",
+        "White JS",
+        "Lottermoser T",
+        "Carolus V",
+        "Fiebig M",
+        "Hudl M"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Materials in Zurich have now succeeded in doing just that"
+      ],
+      "institutions": [
+        "ETH",
+        "Fiebig’s",
+        "Honda",
+        "Kenzelmann M",
+        "Leo N",
+        "the Department of Materials"
+      ],
+      "locations": [
+        "Europe",
+        "Japan",
+        "Russia",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Fiebig",
+        "ETH",
+        "one",
+        "Fiebig’s",
+        "recent years",
+        "Manfred Fiebig",
+        "the Department of Materials",
+        "Zurich",
+        "Europe",
+        "Japan"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Magnetic and electric at once",
+          "Magnetic and electric at once",
+          "Inspiration from Tangram shapes",
+          "Unexpected properties",
+          "Inversion in a single go",
+          "Role reversal"
+        ],
+        "content_length": 5547
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "the Department of Materials",
+        "Lottermoser",
+        "Ivanov SA",
+        "Fiebig",
+        "EU",
+        "Fiebig M: Magnetoelectric",
+        "Kenzelmann M",
+        "Manfred Fiebig",
+        "Leo N",
+        "Kimura",
+        "Naëmi Leo",
+        "Fiebig’s",
+        "Honda",
+        "Hudl M"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Nature",
+        "who",
+        "Tangram",
+        "10.1038",
+        "Chinese",
+        "where",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Fiebig_has_role_scientist",
+        "Fiebig_has_role_student",
+        "Fiebig_has_role_professor",
+        "Manfred Fiebig_has_role_scientist",
+        "Manfred Fiebig_has_role_professor",
+        "Naëmi Leo_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

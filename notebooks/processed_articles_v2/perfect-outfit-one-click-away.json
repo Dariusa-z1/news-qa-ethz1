@@ -1,0 +1,503 @@
+{
+  "filename": "perfect-outfit-one-click-away.md",
+  "original_filename": "perfect-outfit-one-click-away.html",
+  "source_path": "en_news_events/2015/10/perfect-outfit-one-click-away.html",
+  "date": "2015-10",
+  "title": "Perfect Outfit One Click Away",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Every outfit on Instagram can now be bought",
+      "text": "Anyone who thinks fashion and computer science are two irreconcilable concepts and that fashion is inherently out of place in a technical course would quickly change their opinion with a single visit to the ETH spin-off Fashwell . Three graduates, two from computer science and one from electrical engineering, share a spacious office on Sternwartestrasse. All three are dressed in shirts and skinny jeans and have stylish haircuts. You can’t miss the fact that the young founders place a high priority on fashion and appearance – but you wouldn’t suspect that they also develop complex algorithms that could soon set every fashion lover’s heart racing."
+    },
+    {
+      "heading": "Every outfit on Instagram can now be bought",
+      "text": "This is exactly what the three graduates wanted to achieve with their new app, which is available free for iOS. “Our goal is to make possible to buy every fashion photo on the internet,” explains co-founder Matthias Dantone. He is referring to the ability to instantly order articles of clothing online from any image on the web. Although the app works only for Instagram photos so far, the young entrepreneur is excited about the new product. “You just have to ‘like’ a photo on Instagram or comment on it with the hash tag #wtfash (short for ‘what the fash’) and you immediately receive a message with the outfit and similar articles of clothing. With one click, you are then directed to the online shop that offers the product. I can purchase any outfit I like from any Instagram photo or I can order a similar, less expensive outfit,” says the 28-year-old Dantone.\n\nAlthough their target group is millennial shoppers – fashion lovers and app enthusiasts between 16 and 25 years of age – the co-founder is responsible for the original idea. “I have been a passionate collector of trainers for a long time,” explains the former ETH doctoral student. “Whenever I saw cool shoes in a photo, I wanted them and I was annoyed that I had no idea what they were or where I could buy them. After many conversations with friends, I was convinced that we could address a gap in the market with this solution.”"
+    },
+    {
+      "heading": "Adaptive algorithms make it possible",
+      "text": "He was also able to persuade his two co-founders, Lukas Bossard and Michael Emmersberger, who he met at ETH Zurich’s Computer Vision Lab. For a year and a half they tinkered on a solution, trying out various product versions until the official launch of Fashwell and the decision to go forward with the Fashwell app in August 2014. Since then, the three have been working intensively on the development of the smartphone application. The young entrepreneurs’ business model and planned app won over the Pioneer Fellowship jury led by Professor Roland Siegwart, former vice president for research and corporate relations. The jury awarded them 12 months of funding that started in September 2014.\n\nAdaptive algorithms serve as the basis for the app. As soon as someone posts a photo on Instagram – which, according to the founders, occurs more than 140 million times a day – the algorithm registers it and immediately detects whether it’s a fashion photo. “With the help of many sample photos, we taught the algorithm that all photos in which there is clothing are fashion photos. Now the app immediately recognises them and can make all the articles of clothing purchasable,” explains Dantone. This requires an enormous clothing databank, which the three young entrepreneurs compiled in cooperation with more than 70 Swiss online shops."
+    },
+    {
+      "heading": "Great expectations for the future",
+      "text": "The database contains all the garments in the online stores and constantly adds new products. The algorithm assigns certain number combinations for each particular clothing attribute, such as “white colour”, “short sleeves”, “cotton”, etc. The same thing happens automatically with every fashion photo on Instagram, which allows the algorithm to find identical or very similar articles of clothing on the basis of many similar number combinations. As soon as a photo is liked or a comment with #wtfash is made, the algorithm automatically searches for similar pieces in the databank and sends the online shop and price to the app user. They can choose if they wish to receive the information immediately as a push notification, once a week as an email, or less frequently. “We want to make our users happy, not flood them with spam,” laughs Dantone.\n\nAlthough their first product has just been launched, the three young entrepreneurs want to hire up to 10 new employees in order to achieve their ambitious goals. After they launch an identical Android app in the coming months, they plan to expand the app across Europe and eventually around the world."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 51,
+        "end": 54
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 207,
+        "end": 210
+      },
+      {
+        "text": "Fashwell",
+        "label": "ORG",
+        "start": 220,
+        "end": 228
+      },
+      {
+        "text": "Three",
+        "label": "CARDINAL",
+        "start": 231,
+        "end": 236
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 248,
+        "end": 251
+      },
+      {
+        "text": "Sternwartestrasse",
+        "label": "GPE",
+        "start": 338,
+        "end": 355
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 361,
+        "end": 366
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 25,
+        "end": 30
+      },
+      {
+        "text": "Matthias Dantone",
+        "label": "PERSON",
+        "start": 207,
+        "end": 223
+      },
+      {
+        "text": "Instagram",
+        "label": "PERSON",
+        "start": 362,
+        "end": 371
+      },
+      {
+        "text": "Instagram",
+        "label": "PERSON",
+        "start": 480,
+        "end": 489
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 653,
+        "end": 656
+      },
+      {
+        "text": "Instagram",
+        "label": "ORG",
+        "start": 772,
+        "end": 781
+      },
+      {
+        "text": "28-year-old",
+        "label": "DATE",
+        "start": 847,
+        "end": 858
+      },
+      {
+        "text": "between 16 and 25 years of age",
+        "label": "DATE",
+        "start": 956,
+        "end": 986
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1128,
+        "end": 1131
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "Lukas Bossard",
+        "label": "PERSON",
+        "start": 50,
+        "end": 63
+      },
+      {
+        "text": "Michael Emmersberger",
+        "label": "PERSON",
+        "start": 68,
+        "end": 88
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "ORG",
+        "start": 104,
+        "end": 116
+      },
+      {
+        "text": "a year and a half",
+        "label": "DATE",
+        "start": 142,
+        "end": 159
+      },
+      {
+        "text": "Fashwell",
+        "label": "ORG",
+        "start": 254,
+        "end": 262
+      },
+      {
+        "text": "Fashwell",
+        "label": "ORG",
+        "start": 303,
+        "end": 311
+      },
+      {
+        "text": "August 2014",
+        "label": "DATE",
+        "start": 319,
+        "end": 330
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 348,
+        "end": 353
+      },
+      {
+        "text": "Roland Siegwart",
+        "label": "PERSON",
+        "start": 544,
+        "end": 559
+      },
+      {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 643,
+        "end": 652
+      },
+      {
+        "text": "September 2014",
+        "label": "DATE",
+        "start": 680,
+        "end": 694
+      },
+      {
+        "text": "Instagram",
+        "label": "ORG",
+        "start": 784,
+        "end": 793
+      },
+      {
+        "text": "more than 140 million",
+        "label": "CARDINAL",
+        "start": 837,
+        "end": 858
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1248,
+        "end": 1253
+      },
+      {
+        "text": "more than 70",
+        "label": "CARDINAL",
+        "start": 1303,
+        "end": 1315
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1316,
+        "end": 1321
+      },
+      {
+        "text": "Instagram",
+        "label": "ORG",
+        "start": 305,
+        "end": 314
+      },
+      {
+        "text": "a week",
+        "label": "DATE",
+        "start": 732,
+        "end": 738
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 864,
+        "end": 869
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 906,
+        "end": 911
+      },
+      {
+        "text": "up to 10",
+        "label": "CARDINAL",
+        "start": 945,
+        "end": 953
+      },
+      {
+        "text": "Android",
+        "label": "PERSON",
+        "start": 1042,
+        "end": 1049
+      },
+      {
+        "text": "the coming months",
+        "label": "DATE",
+        "start": 1057,
+        "end": 1074
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1111,
+        "end": 1117
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Android",
+        "Instagram",
+        "Lukas Bossard",
+        "Matthias Dantone",
+        "Michael Emmersberger",
+        "Roland Siegwart"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich’s",
+        "Fashwell",
+        "Instagram"
+      ],
+      "LOCATION": [
+        "Europe",
+        "Sternwartestrasse"
+      ],
+      "DATE": [
+        "12 months",
+        "28-year-old",
+        "August 2014",
+        "September 2014",
+        "a week",
+        "a year and a half",
+        "between 16 and 25 years of age",
+        "the coming months"
+      ],
+      "MISC": [
+        "Swiss",
+        "Three",
+        "first",
+        "more than 140 million",
+        "more than 70",
+        "one",
+        "three",
+        "two",
+        "up to 10"
+      ]
+    },
+    "entity_counts": {
+      "three": 5,
+      "Instagram": 5,
+      "two": 3,
+      "Fashwell": 3,
+      "ETH": 2,
+      "Three": 1,
+      "Sternwartestrasse": 1,
+      "Matthias Dantone": 1,
+      "one": 1,
+      "28-year-old": 1,
+      "between 16 and 25 years of age": 1,
+      "Lukas Bossard": 1,
+      "Michael Emmersberger": 1,
+      "ETH Zurich’s": 1,
+      "a year and a half": 1,
+      "August 2014": 1,
+      "Roland Siegwart": 1,
+      "12 months": 1,
+      "September 2014": 1,
+      "more than 140 million": 1
+    },
+    "total_entities": 41,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "perfect-outfit-one-click-away.md",
+      "title": "En News Events/2015/10/perfect Outfit One Click Away",
+      "language": "en",
+      "source_path": "en_news_events/2015/10/perfect-outfit-one-click-away.html"
+    },
+    "temporal": {
+      "publication_date": "2015-10",
+      "mentioned_years": [
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Android",
+        "Instagram",
+        "Lukas Bossard",
+        "Matthias Dantone",
+        "Michael Emmersberger",
+        "Roland Siegwart"
+      ],
+      "people_with_roles": {
+        "Roland Siegwart": [
+          "Professor",
+          "president",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Swiss",
+        "Three",
+        "first",
+        "more than 140 million",
+        "more than 70",
+        "three",
+        "up to 10"
+      ],
+      "grants_funding": [
+        "EU",
+        "fellowship",
+        "funding"
+      ],
+      "projects": [
+        "Michael Emmersberger",
+        "Professor Roland",
+        "En News",
+        "Pioneer Fellowship",
+        "Whenever I",
+        "Computer Vision",
+        "Matthias Dantone",
+        "ETH Zurich",
+        "Click Away",
+        "Lukas Bossard",
+        "Outfit One"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich’s",
+        "Fashwell",
+        "Instagram"
+      ],
+      "locations": [
+        "Europe",
+        "Sternwartestrasse"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "three",
+        "Instagram",
+        "two",
+        "Fashwell",
+        "ETH",
+        "Three",
+        "Sternwartestrasse",
+        "Matthias Dantone",
+        "one",
+        "28-year-old"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Every outfit on Instagram can now be bought",
+          "Every outfit on Instagram can now be bought",
+          "Adaptive algorithms make it possible",
+          "Great expectations for the future"
+        ],
+        "content_length": 4598
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Michael Emmersberger",
+        "ETH",
+        "2015",
+        "Fashwell",
+        "fellowship",
+        "Android",
+        "EU",
+        "Roland Siegwart",
+        "funding",
+        "Matthias Dantone",
+        "Instagram",
+        "Lukas Bossard",
+        "ETH Zurich’s",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "three",
+        "more than 140 million",
+        "who",
+        "Three",
+        "Swiss",
+        "up to 10",
+        "more than 70",
+        "where",
+        "what",
+        "computer_science",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Roland Siegwart_has_role_Professor",
+        "Roland Siegwart_has_role_president",
+        "Roland Siegwart_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

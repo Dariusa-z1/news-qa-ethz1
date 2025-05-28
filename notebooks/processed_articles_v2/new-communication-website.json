@@ -1,0 +1,110 @@
+{
+  "filename": "new-communication-website.md",
+  "original_filename": "new-communication-website.html",
+  "source_path": "en_internal/2015/07/new-communication-website.html",
+  "date": "2015-07",
+  "title": "New Communication Website",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Do you need report templates in the university’s corporate design, or guidelines on using logos or creating a social media presence? Or perhaps you would like to get in touch with our media relations team or arrange for individualised consulting services. The new communication website www.ethz.ch/communication brings together the most important information and contact details you need for all your communications work.\n\nWhat can you find on the new website?\n\nWe hope you’ll take some time to visit the new communication website, and we’d love to hear your feedback: send your questions and suggestions to ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Communication",
+        "label": "ORG",
+        "start": 24,
+        "end": 37
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Communication"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Communication": 1
+    },
+    "total_entities": 1,
+    "unique_entities": 1
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-communication-website.md",
+      "title": "En Internal/2015/07/new Communication Website",
+      "language": "en",
+      "source_path": "en_internal/2015/07/new-communication-website.html"
+    },
+    "temporal": {
+      "publication_date": "2015-07",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Communication Website",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Communication"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Communication"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 655
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "Communication"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "what",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "filename": "thomas-meyer-is-the-new-managing-director-at-the-singapore-eth-centre.md",
+  "original_filename": "thomas-meyer-is-the-new-managing-director-at-the-singapore-eth-centre.html",
+  "source_path": "en_internal/2022/03/thomas-meyer-is-the-new-managing-director-at-the-singapore-eth-centre.html",
+  "date": "2022-03",
+  "title": "Thomas Meyer Is The New Managing Director At The Singapore Eth Centre",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Prior to joining the SEC, Thomas Meyer has been working in various countries and domains in Europe and Asia, covering research, start-ups, IT consulting and foreign affairs. Thomas Meyer’s previous roles and job disciplines ranged from software engineering, project management and delivery, sales, business and process consulting up to the level of managing director.\n\nIn his capacity as the managing director, Thomas Meyer will oversee the human resources, finance, information technology, communications, operations, and legal and compliance functions at the SEC.\n\nWith SEC marking 12 years since its establishment by ETH Zurich and Singapore’s National Research Foundation in 2010, Thomas brings fresh perspectives and new insights to the centre. He will partner with Prof. Gisbert Schneider, director of the SEC, to take the SEC to more expansive horizons.\n\nSEC also extends its gratitude to Mr Thomas Rufener, who stepped down as managing director in early 2022, for his dedication in overseeing the SEC and shepherding it through the unpredictability of the Covid-19 pandemic."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Singapore Eth Centre",
+        "label": "ORG",
+        "start": 65,
+        "end": 89
+      },
+      {
+        "text": "SEC",
+        "label": "ORG",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "Thomas Meyer",
+        "label": "PERSON",
+        "start": 26,
+        "end": 38
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 92,
+        "end": 98
+      },
+      {
+        "text": "Asia",
+        "label": "LOC",
+        "start": 103,
+        "end": 107
+      },
+      {
+        "text": "Thomas Meyer’s",
+        "label": "PERSON",
+        "start": 174,
+        "end": 188
+      },
+      {
+        "text": "Thomas Meyer",
+        "label": "PERSON",
+        "start": 410,
+        "end": 422
+      },
+      {
+        "text": "SEC",
+        "label": "ORG",
+        "start": 560,
+        "end": 563
+      },
+      {
+        "text": "SEC",
+        "label": "ORG",
+        "start": 570,
+        "end": 573
+      },
+      {
+        "text": "12 years",
+        "label": "DATE",
+        "start": 582,
+        "end": 590
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 618,
+        "end": 628
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 633,
+        "end": 642
+      },
+      {
+        "text": "National Research Foundation",
+        "label": "ORG",
+        "start": 645,
+        "end": 673
+      },
+      {
+        "text": "Thomas",
+        "label": "PERSON",
+        "start": 683,
+        "end": 689
+      },
+      {
+        "text": "Gisbert Schneider",
+        "label": "PERSON",
+        "start": 775,
+        "end": 792
+      },
+      {
+        "text": "SEC",
+        "label": "ORG",
+        "start": 810,
+        "end": 813
+      },
+      {
+        "text": "SEC",
+        "label": "ORG",
+        "start": 827,
+        "end": 830
+      },
+      {
+        "text": "SEC",
+        "label": "ORG",
+        "start": 859,
+        "end": 862
+      },
+      {
+        "text": "Thomas Rufener",
+        "label": "PERSON",
+        "start": 896,
+        "end": 910
+      },
+      {
+        "text": "early 2022",
+        "label": "DATE",
+        "start": 953,
+        "end": 963
+      },
+      {
+        "text": "SEC",
+        "label": "ORG",
+        "start": 1002,
+        "end": 1005
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Gisbert Schneider",
+        "Thomas",
+        "Thomas Meyer",
+        "Thomas Meyer’s",
+        "Thomas Rufener"
+      ],
+      "ORG": [
+        "National Research Foundation",
+        "SEC",
+        "The Singapore Eth Centre"
+      ],
+      "LOCATION": [
+        "Asia",
+        "Europe",
+        "Singapore"
+      ],
+      "DATE": [
+        "12 years",
+        "early 2022"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "SEC": 7,
+      "Thomas Meyer": 2,
+      "The Singapore Eth Centre": 1,
+      "Europe": 1,
+      "Asia": 1,
+      "Thomas Meyer’s": 1,
+      "12 years": 1,
+      "ETH Zurich": 1,
+      "Singapore": 1,
+      "National Research Foundation": 1,
+      "Thomas": 1,
+      "Gisbert Schneider": 1,
+      "Thomas Rufener": 1,
+      "early 2022": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "thomas-meyer-is-the-new-managing-director-at-the-singapore-eth-centre.md",
+      "title": "En Internal/2022/03/thomas Meyer Is The New Managing Director At The Singapore Eth Centre",
+      "language": "en",
+      "source_path": "en_internal/2022/03/thomas-meyer-is-the-new-managing-director-at-the-singapore-eth-centre.html"
+    },
+    "temporal": {
+      "publication_date": "2022-03",
+      "mentioned_years": [
+        "2010",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Gisbert Schneider",
+        "Thomas",
+        "Thomas Meyer",
+        "Thomas Meyer’s",
+        "Thomas Rufener"
+      ],
+      "people_with_roles": {
+        "Gisbert Schneider": [
+          "director",
+          "rector"
+        ],
+        "Thomas": [
+          "director",
+          "rector"
+        ],
+        "Thomas Meyer": [
+          "director",
+          "rector"
+        ],
+        "Thomas Meyer’s": [
+          "director",
+          "rector"
+        ],
+        "Thomas Rufener": [
+          "director",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "director"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU",
+        "Horizon"
+      ],
+      "projects": [
+        "National Research",
+        "At The",
+        "Meyer Is",
+        "Singapore Eth",
+        "Centre Prior",
+        "En Internal",
+        "Mr Thomas",
+        "With SEC",
+        "ETH Zurich",
+        "Gisbert Schneider",
+        "The New",
+        "Thomas Meyer",
+        "Managing Director"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "National Research Foundation",
+        "SEC",
+        "The Singapore Eth Centre"
+      ],
+      "locations": [
+        "Asia",
+        "Europe",
+        "Singapore"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "SEC",
+        "Thomas Meyer",
+        "The Singapore Eth Centre",
+        "Europe",
+        "Asia",
+        "Thomas Meyer’s",
+        "12 years",
+        "ETH Zurich",
+        "Singapore",
+        "National Research Foundation"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1172
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Thomas",
+        "Thomas Rufener",
+        "National Research Foundation",
+        "The Singapore Eth Centre",
+        "EU",
+        "2010",
+        "SEC",
+        "2022",
+        "Thomas Meyer’s",
+        "ETH Zurich",
+        "Gisbert Schneider",
+        "Horizon",
+        "Thomas Meyer"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "how",
+        "computer_science",
+        "when"
+      ],
+      "graph_relations": [
+        "Gisbert Schneider_has_role_director",
+        "Gisbert Schneider_has_role_rector",
+        "Thomas_has_role_director",
+        "Thomas_has_role_rector",
+        "Thomas Meyer_has_role_director",
+        "Thomas Meyer_has_role_rector",
+        "Thomas Meyer’s_has_role_director",
+        "Thomas Meyer’s_has_role_rector",
+        "Thomas Rufener_has_role_director",
+        "Thomas Rufener_has_role_rector",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

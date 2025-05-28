@@ -1,0 +1,36 @@
+# beige-fat-cells-with-a-sisyphos-mechanism.html
+
+**Source:** en_news_events/2024/08/beige-fat-cells-with-a-sisyphos-mechanism.html
+
+## In brief
+
+- A newly described type of beige fat cell consumes energy and generates heat by running biochemical processes back and forth, seemingly without purpose.
+
+- Almost all people have this cell type. The more of it a person has, the leaner they tend to be and the better their metabolic health.
+
+- The new findings could help to develop therapies for obesity and metabolic disorders such as diabetes.
+
+Fat cells come in three colours: white, brown, and beige. White fat cells store fat in our body as an energy reserve. We need these cells, but having too many creates health problems. Brown fat cells are particularly active in infants. They produce heat and thus maintain the baby’s body temperature. However, the amount of brown adipose tissue decreases over a person’s lifetime; adults have very little of it. Then, finally, the beige fat cells. These can also produce heat, albeit somewhat less well than brown fat cells. Beige fat cells occur in adults as well: scattered throughout the white fatty tissue, especially in the neck and shoulder area, they help in using up excess energy.
+
+Now an international research team has discovered and described a new type of beige fat cells, which differ from the ones that were already known. “Fat cells of this new beige type play an important role in energy metabolism in the human body and have a positive effect on metabolic diseases and obesity,” says Anand Sharma, a postdoc in ETH Professor Christian Wolfrum’s group and coauthor of the study. “That’s why it’s so important to understand in detail how they work.” The study was led by ETH Zurich, the University of Basel, the University of Leipzig Medical Center and the Dana-Farber Cancer Institute in Boston. Numerous other hospitals and research institutions around the world were involved in the project.
+
+## Independent of a known protein
+
+The beige fat cells that researchers were already familiar with generate heat in the same way as brown fat cells: via a protein called UCP1. This protein is located in the inner of two membranes that surround the mitochondria, the structural units often referred to as the powerhouse of the cell. As part of their normal function, mitochondria pump protons into the space between the two membranes. Protons are electrically charged elementary particles that generally play an important role in energy conversion processes in cells. Bown fat cells and the classic beige fat cells described earlier have the protein UCP1. It forms a very narrow channel in the inner membrane through which the protons flow back into the mitochondria, thereby generating heat from friction.
+
+In recent years, scientists have discovered that there are also beige fat cells without the UCP1 protein, and that these also consume energy and thus produce heat. The research team from ETH Zurich and the participating institutions has now precisely characterised the new class of beige fat cells and shown how they do this: by means of a “Sisyphus mechanism”.
+
+## Preventing diabetes and obesity
+
+Here’s how it works: All biochemical processes that take place in cells always generate some heat. The new class of beige fat cells takes advantage of this and allows individual processes to run back and forth, seemingly without purpose. This primarily involves two conversion processes. In one, the cells break fats down into their components (fatty acids) at full speed and then assemble them into new fats just as quickly. In the other, they apply an enzyme to convert molecules of creatine into creatine phosphate, a related molecule, only to immediately convert it back into creatine. Scientists call these back-and-forth processes “futile cycles”. They don’t add anything to the biochemical budget overall, but they consume energy and generate heat.
+
+The research team first described the new type of beige fat cells in mice. They then examined human adipose tissue and were able to show that these fat cells occur there, too. While less than half the population has the previously known type of classical beige fat cells, almost all humans have the new futile-cycle type, albeit in differing amounts.
+
+As the researchers were able to show, people with a high number of beige fat cells – of either the previously known type or this new type – are slimmer and tend to have better metabolic health. That makes them less prone to obesity and metabolic disorders such as diabetes. “Because beige fat cells convert energy into heat, they help to break down excess fat,” explains Tongtong Wang, an ETH doctoral student in ETH Professor Wolfrum’s group and lead author of the study.
+
+## Reference
+
+The researchers also explain how the new findings could be used medically in the future. For example, it may be possible to transplant beige fat cells into people who have only a few of them and suffer from metabolic diseases or weight problems. It would also be conceivable to develop drugs that activate the beige fat cells, which are often inactive. Such drugs could be used to treat people with high blood sugar levels or formerly overweight people who have reduced their weight through surgery or other means. “Activating their beige fat cells could help them to maintain their lower body weight in the long term,” Sharma says.
+
+Wang T, Sharma AK, Wu C et al.: Single Nucleus Transcriptomics Identifies Separate Classes of UCP1 and Futile Cycle Beige Cells. Cell Metabolism, 30. Juli 2024, doi: 10.1016/j.cmet.2024.07.005
+

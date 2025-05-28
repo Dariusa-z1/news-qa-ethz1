@@ -1,0 +1,472 @@
+{
+  "filename": "methan-oxybromierung.md",
+  "original_filename": "methan-oxybromierung.html",
+  "source_path": "de_news_events/2016/05/methan-oxybromierung.html",
+  "date": "2016-05",
+  "title": "Methan Oxybromierung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Interne Bromrückführung",
+      "text": "Erdgas als Rohstoff für Chemikalien zu nutzen, ist ein intensiv verfolgtes Ziel der chemischen Forschung. Wissenschaftlern unter der Leitung von Javier Pérez-Ramírez, Professor für Katalyse-Engineering, ist es nun gelungen, ein Vorgehen zu optimieren, mit dem Erdgasbestandteile in höherwertige Chemikalien überführt werden können. «Wir ersetzen bei einem Molekül des Erdgasbestandteils Methan (CH 4 ) ein Wasserstoff-Atom durch ein Brom-Atom, wodurch Brommethan (CH 3 Br) entsteht», erklärt Pérez-Ramírez. «Dieses kann die chemische Industrie als Ausgangsstoff zur Produktion von Treibstoffen und einer Reihe von Chemikalien wie Polymeren und Medikamenten verwenden.»"
+    },
+    {
+      "heading": "Interne Bromrückführung",
+      "text": "Wenn das Brommethan in Treibstoffe und Chemikalien verwandelt wird, wird Brom in Form von Bromwasserstoff (HBr) freigesetzt. «Das Schöne an unserer Reaktion ist, dass sie das Brom von Bromwasserstoff mithilfe von Sauerstoff wieder in Brommethan einbauen kann. Der Brom-Zyklus ist geschlossen, kein Brom geht dabei verloren», sagt Pérez-Ramírez."
+    },
+    {
+      "heading": "Weniger korrosionsanfällig",
+      "text": "Bereits heute ist die Oxybromierung von Methan, wie die Reaktion genannt wird, mithilfe von Katalysatoren (Reaktionsbeschleunigern) möglich. Allerdings entstehen dabei oft grosse Mengen an unerwünschten Nebenprodukten. Die ETH-Katalysespezialisten suchten daher nach einem Weg, die Selektivität der Reaktion zu erhöhen. In einem mehrstufigen Auswahlverfahren verglichen sie eine Vielzahl verschiedener Katalysatormaterialien. Vanadiumphosphat erwies sich dabei als das geeignetste."
+    },
+    {
+      "heading": "Einfacher als via Synthesegas",
+      "text": "Vanadiumphosphat ist ein verhältnismässig milder Oxidationskatalysator, und das ist genau das, was sich die Chemiker für die Oxybromierung von Methan wünschen. Einerseits ist der Katalysator ausreichend stark, sodass Bromwasserstoff an seiner Oberfläche mit Sauerstoff reagieren kann. Andererseits ist die katalytische Wirkung von Vanadiumphosphat zu schwach als dass es unerwünscht Methan und die bromierten Reaktionsprodukte oxidieren würde.\n\n«Unsere Methode erlaubt es, die Oxybromierung von Methan in einem einzigen Schritt und bei Umgebungsdruck sowie Temperaturen unter 500 Grad Celsius durchzuführen. Dies macht sie auch interessant für die Industrie», sagt Vladimir Paunović, Doktorand in der Gruppe von Pérez-Ramírez. Um Methan in höhere Chemikalien zu überführen, verwendet die Industrie derzeit eine indirekte Methode mit Synthesegas als Zwischenprodukt. Diese Methode ist jedoch äusserst energieintensiv und findet bei hohen Drücken (bis zu 30 bar) und hohen Temperaturen (bis zu 1000 Grad) statt.\n\nDer neue Katalysator ist ausserdem stabiler und langlebiger als die bisherigen. «Brom ist ein Halogen. Einerseits reagieren Halogene sehr leicht mit dem Ausgangsstoff, was hier gewünscht ist. Andererseits greifen sie jedoch den Katalysator an», erklärt ETH-Doktorand Paunović. «Unser Katalysator widersteht der Korrosion durch Halogene viel besser als bisherige, weshalb er länger verwendet werden kann.»\n\nDas Bestreben der chemischen Forschung, Erdgas vermehrt als Rohstoff für die Synthese zu nutzen, hat vor allem damit zu tun, dass es in grossen Mengen vorkommt. «Derzeit herrscht ein Boom in der Suche nach Erdgas. Zählt man unkonventionelle, schwieriger erreichbare Lagerstätten wie Schiefergas oder Kohleflözgas dazu, reichen die Gasvorkommen Schätzungen zufolge für mindestens 100 Jahre», sagt ETH-Professor Pérez-Ramírez. Heute dient meist Erdöl als Rohstoff für chemische Produkte. Dessen Vorkommen nehmen jedoch ab. In Erdgas sehen Chemiker eine geeignete Alternative.\n\nPaunović V, Zichittella G, Moser M, Amrute AP, Pérez-Ramírez J: Catalyst design for natural-gas upgrading through oxybromination chemistry. Nature Chemistry, 23. Mai 2016, doi: externe Seite 10.1038/nchem.2522"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Javier Pérez-Ramírez",
+        "label": "PER",
+        "start": 145,
+        "end": 165
+      },
+      {
+        "text": "CH 4",
+        "label": "MISC",
+        "start": 395,
+        "end": 399
+      },
+      {
+        "text": "Wasserstoff-Atom",
+        "label": "LOC",
+        "start": 406,
+        "end": 422
+      },
+      {
+        "text": "Brommethan",
+        "label": "LOC",
+        "start": 452,
+        "end": 462
+      },
+      {
+        "text": "CH 3 Br",
+        "label": "MISC",
+        "start": 464,
+        "end": 471
+      },
+      {
+        "text": "Pérez-Ramírez",
+        "label": "PER",
+        "start": 492,
+        "end": 505
+      },
+      {
+        "text": "Treibstoffe",
+        "label": "LOC",
+        "start": 23,
+        "end": 34
+      },
+      {
+        "text": "Chemikalien",
+        "label": "LOC",
+        "start": 39,
+        "end": 50
+      },
+      {
+        "text": "Das Schöne an unserer Reaktion",
+        "label": "MISC",
+        "start": 126,
+        "end": 156
+      },
+      {
+        "text": "Sauerstoff",
+        "label": "PER",
+        "start": 213,
+        "end": 223
+      },
+      {
+        "text": "Brommethan",
+        "label": "LOC",
+        "start": 234,
+        "end": 244
+      },
+      {
+        "text": "Pérez-Ramírez",
+        "label": "LOC",
+        "start": 330,
+        "end": 343
+      },
+      {
+        "text": "Nebenprodukten",
+        "label": "ORG",
+        "start": 203,
+        "end": 217
+      },
+      {
+        "text": "ETH-Katalysespezialisten",
+        "label": "MISC",
+        "start": 223,
+        "end": 247
+      },
+      {
+        "text": "Vanadiumphosphat",
+        "label": "PER",
+        "start": 426,
+        "end": 442
+      },
+      {
+        "text": "Bromwasserstoff",
+        "label": "PER",
+        "start": 217,
+        "end": 232
+      },
+      {
+        "text": "Vanadiumphosphat",
+        "label": "PER",
+        "start": 331,
+        "end": 347
+      },
+      {
+        "text": "Unsere Methode",
+        "label": "MISC",
+        "start": 445,
+        "end": 459
+      },
+      {
+        "text": "Vladimir Paunović",
+        "label": "PER",
+        "start": 664,
+        "end": 681
+      },
+      {
+        "text": "Pérez-Ramírez",
+        "label": "LOC",
+        "start": 711,
+        "end": 724
+      },
+      {
+        "text": "Methan",
+        "label": "LOC",
+        "start": 729,
+        "end": 735
+      },
+      {
+        "text": "Synthesegas",
+        "label": "PER",
+        "start": 832,
+        "end": 843
+      },
+      {
+        "text": "ETH-Doktorand Paunović",
+        "label": "MISC",
+        "start": 1262,
+        "end": 1284
+      },
+      {
+        "text": "Erdgas",
+        "label": "LOC",
+        "start": 1620,
+        "end": 1626
+      },
+      {
+        "text": "Schiefergas",
+        "label": "LOC",
+        "start": 1697,
+        "end": 1708
+      },
+      {
+        "text": "Kohleflözgas",
+        "label": "LOC",
+        "start": 1714,
+        "end": 1726
+      },
+      {
+        "text": "ETH-Professor Pérez-Ramírez",
+        "label": "PER",
+        "start": 1810,
+        "end": 1837
+      },
+      {
+        "text": "Paunović V",
+        "label": "PER",
+        "start": 1988,
+        "end": 1998
+      },
+      {
+        "text": "Zichittella G",
+        "label": "PER",
+        "start": 2000,
+        "end": 2013
+      },
+      {
+        "text": "Moser M",
+        "label": "ORG",
+        "start": 2015,
+        "end": 2022
+      },
+      {
+        "text": "Amrute AP",
+        "label": "ORG",
+        "start": 2024,
+        "end": 2033
+      },
+      {
+        "text": "Pérez-Ramírez J",
+        "label": "ORG",
+        "start": 2035,
+        "end": 2050
+      },
+      {
+        "text": "Nature Chemistry",
+        "label": "PER",
+        "start": 2128,
+        "end": 2144
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bromwasserstoff",
+        "ETH-Professor Pérez-Ramírez",
+        "Javier Pérez-Ramírez",
+        "Nature Chemistry",
+        "Paunović V",
+        "Pérez-Ramírez",
+        "Sauerstoff",
+        "Synthesegas",
+        "Vanadiumphosphat",
+        "Vladimir Paunović",
+        "Zichittella G"
+      ],
+      "ORG": [
+        "Amrute AP",
+        "Moser M",
+        "Nebenprodukten",
+        "Pérez-Ramírez J"
+      ],
+      "LOCATION": [
+        "Brommethan",
+        "Chemikalien",
+        "Erdgas",
+        "Kohleflözgas",
+        "Methan",
+        "Pérez-Ramírez",
+        "Schiefergas",
+        "Treibstoffe",
+        "Wasserstoff-Atom"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CH 3 Br",
+        "CH 4",
+        "Das Schöne an unserer Reaktion",
+        "ETH-Doktorand Paunović",
+        "ETH-Katalysespezialisten",
+        "Unsere Methode"
+      ]
+    },
+    "entity_counts": {
+      "Pérez-Ramírez": 3,
+      "Brommethan": 2,
+      "Vanadiumphosphat": 2,
+      "Javier Pérez-Ramírez": 1,
+      "CH 4": 1,
+      "Wasserstoff-Atom": 1,
+      "CH 3 Br": 1,
+      "Treibstoffe": 1,
+      "Chemikalien": 1,
+      "Das Schöne an unserer Reaktion": 1,
+      "Sauerstoff": 1,
+      "Nebenprodukten": 1,
+      "ETH-Katalysespezialisten": 1,
+      "Bromwasserstoff": 1,
+      "Unsere Methode": 1,
+      "Vladimir Paunović": 1,
+      "Methan": 1,
+      "Synthesegas": 1,
+      "ETH-Doktorand Paunović": 1,
+      "Erdgas": 1
+    },
+    "total_entities": 33,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "methan-oxybromierung.md",
+      "title": "De News Events/2016/05/methan Oxybromierung",
+      "language": "de",
+      "source_path": "de_news_events/2016/05/methan-oxybromierung.html"
+    },
+    "temporal": {
+      "publication_date": "2016-05",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bromwasserstoff",
+        "ETH-Professor Pérez-Ramírez",
+        "Javier Pérez-Ramírez",
+        "Nature Chemistry",
+        "Paunović V",
+        "Pérez-Ramírez",
+        "Sauerstoff",
+        "Synthesegas",
+        "Vanadiumphosphat",
+        "Vladimir Paunović",
+        "Zichittella G"
+      ],
+      "people_with_roles": {
+        "ETH-Professor Pérez-Ramírez": [
+          "professor"
+        ],
+        "Javier Pérez-Ramírez": [
+          "professor"
+        ],
+        "Pérez-Ramírez": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "CH 3 Br",
+        "CH 4",
+        "Das Schöne an unserer Reaktion",
+        "ETH-Doktorand Paunović",
+        "ETH-Katalysespezialisten",
+        "Unsere Methode"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Oxybromierung Erdgas",
+        "Dessen Vorkommen",
+        "ETH-Professor",
+        "Nature Chemistry",
+        "Der Brom",
+        "Erdgasbestandteils Methan",
+        "Unser Katalysator",
+        "Die ETH",
+        "Zichittella G",
+        "Diese Methode",
+        "Grad Celsius",
+        "Katalyse-Engineering",
+        "Unsere Methode",
+        "ETH-Doktorand",
+        "Wasserstoff-Atom",
+        "Moser M",
+        "Amrute AP",
+        "In Erdgas",
+        "De News",
+        "Brom-Atom",
+        "Um Methan",
+        "Das Bestreben"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Amrute AP",
+        "Moser M",
+        "Nebenprodukten",
+        "Pérez-Ramírez J"
+      ],
+      "locations": [
+        "Brommethan",
+        "Chemikalien",
+        "Erdgas",
+        "Kohleflözgas",
+        "Methan",
+        "Pérez-Ramírez",
+        "Schiefergas",
+        "Treibstoffe",
+        "Wasserstoff-Atom"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Pérez-Ramírez",
+        "Brommethan",
+        "Vanadiumphosphat",
+        "Javier Pérez-Ramírez",
+        "CH 4",
+        "Wasserstoff-Atom",
+        "CH 3 Br",
+        "Treibstoffe",
+        "Chemikalien",
+        "Das Schöne an unserer Reaktion"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Interne Bromrückführung",
+          "Interne Bromrückführung",
+          "Weniger korrosionsanfällig",
+          "Einfacher als via Synthesegas"
+        ],
+        "content_length": 3741
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Nature Chemistry",
+        "ETH-Professor Pérez-Ramírez",
+        "Synthesegas",
+        "Pérez-Ramírez",
+        "Moser M",
+        "Pérez-Ramírez J",
+        "Paunović V",
+        "Bromwasserstoff",
+        "EU",
+        "Amrute AP",
+        "Nebenprodukten",
+        "2016",
+        "Vladimir Paunović",
+        "Sauerstoff",
+        "Zichittella G",
+        "Javier Pérez-Ramírez",
+        "Vanadiumphosphat"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Das Schöne an unserer Reaktion",
+        "ETH-Katalysespezialisten",
+        "who",
+        "chemistry",
+        "CH 3 Br",
+        "ETH-Doktorand Paunović",
+        "Unsere Methode",
+        "what",
+        "how",
+        "CH 4"
+      ],
+      "graph_relations": [
+        "ETH-Professor Pérez-Ramírez_has_role_professor",
+        "Javier Pérez-Ramírez_has_role_professor",
+        "Pérez-Ramírez_has_role_Professor",
+        "Pérez-Ramírez_has_role_professor",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

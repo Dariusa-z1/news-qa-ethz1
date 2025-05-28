@@ -1,0 +1,229 @@
+{
+  "filename": "durch-die-haupthalle-stolpern.md",
+  "original_filename": "durch-die-haupthalle-stolpern.html",
+  "source_path": "de_internal/2015/04/durch-die-haupthalle-stolpern.html",
+  "date": "2015-04",
+  "title": "Durch Die Haupthalle Stolpern",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Stock und Stein, Treppen mit Hindernissen und Wege mit beweglichen Elementen: Im Stolperparcours der SUVA können ETH-Angehörige in den nächsten Tagen testen, wie trittsicher sie sind – und das in einem sicheren Rahmen.\n\nDen Stolperparcours in der Haupthalle des ETH-Hauptgebäudes hat der Stab SGU anlässlich des Welttags für Sicherheit und Gesundheit am Arbeitsplatz aufgestellt. Anmelden können Sie sich hier . Auch eine spontane Anmeldung vor Ort ist möglich, die Anzahl Plätze ist jedoch begrenzt.\n\nVon Dienstag, 28. April bis Donnerstag, 30. April findet auch eine Standaktion statt. Dort finden interessierte Mitarbeitende Informationen und Material zu diversen Sicherheitsthemen wie Ausrüstungen, Bewegung im Alltag, Mutterschutz oder Sicherheit im Haushalt sowie eine Übersicht zu den SGU-Sicherheitskursen.\n\nDer Welttag ist eine Initiative der International Labour Organization (ILO), einer Sonderorganisation der Vereinten Nationen (UNO). Diese setzt sich unter anderem für weltweit bessere Arbeitsbedingungen ein."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/04",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Stolpern",
+        "label": "LOC",
+        "start": 41,
+        "end": 49
+      },
+      {
+        "text": "SUVA",
+        "label": "ORG",
+        "start": 101,
+        "end": 105
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 113,
+        "end": 127
+      },
+      {
+        "text": "ETH-Hauptgebäudes",
+        "label": "ORG",
+        "start": 261,
+        "end": 278
+      },
+      {
+        "text": "SGU",
+        "label": "ORG",
+        "start": 292,
+        "end": 295
+      },
+      {
+        "text": "Arbeitsplatz",
+        "label": "LOC",
+        "start": 353,
+        "end": 365
+      },
+      {
+        "text": "SGU-Sicherheitskursen",
+        "label": "MISC",
+        "start": 790,
+        "end": 811
+      },
+      {
+        "text": "International Labour Organization",
+        "label": "ORG",
+        "start": 849,
+        "end": 882
+      },
+      {
+        "text": "ILO",
+        "label": "ORG",
+        "start": 884,
+        "end": 887
+      },
+      {
+        "text": "Vereinten Nationen",
+        "label": "ORG",
+        "start": 919,
+        "end": 937
+      },
+      {
+        "text": "UNO",
+        "label": "ORG",
+        "start": 939,
+        "end": 942
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH-Hauptgebäudes",
+        "ILO",
+        "International Labour Organization",
+        "SGU",
+        "SUVA",
+        "UNO",
+        "Vereinten Nationen"
+      ],
+      "LOCATION": [
+        "Arbeitsplatz",
+        "De Internal/2015/04",
+        "Stolpern"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige",
+        "SGU-Sicherheitskursen"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2015/04": 1,
+      "Stolpern": 1,
+      "SUVA": 1,
+      "ETH-Angehörige": 1,
+      "ETH-Hauptgebäudes": 1,
+      "SGU": 1,
+      "Arbeitsplatz": 1,
+      "SGU-Sicherheitskursen": 1,
+      "International Labour Organization": 1,
+      "ILO": 1,
+      "Vereinten Nationen": 1,
+      "UNO": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "durch-die-haupthalle-stolpern.md",
+      "title": "De Internal/2015/04/durch die Haupthalle Stolpern",
+      "language": "de",
+      "source_path": "de_internal/2015/04/durch-die-haupthalle-stolpern.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Angehörige",
+        "SGU-Sicherheitskursen"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Vereinten Nationen",
+        "Den Stolperparcours",
+        "Im Stolperparcours",
+        "De Internal",
+        "SGU-Sicherheitskursen",
+        "Haupthalle Stolpern",
+        "International Labour",
+        "Von Dienstag",
+        "Stab SGU",
+        "Mitarbeitende Informationen",
+        "Der Welttag"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Hauptgebäudes",
+        "ILO",
+        "International Labour Organization",
+        "SGU",
+        "SUVA",
+        "UNO",
+        "Vereinten Nationen"
+      ],
+      "locations": [
+        "Arbeitsplatz",
+        "De Internal/2015/04",
+        "Stolpern"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2015/04",
+        "Stolpern",
+        "SUVA",
+        "ETH-Angehörige",
+        "ETH-Hauptgebäudes",
+        "SGU",
+        "Arbeitsplatz",
+        "SGU-Sicherheitskursen",
+        "International Labour Organization",
+        "ILO"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1073
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "Vereinten Nationen",
+        "ILO",
+        "UNO",
+        "International Labour Organization",
+        "SGU",
+        "SUVA",
+        "ETH-Hauptgebäudes"
+      ],
+      "semantic_concepts": [
+        "ETH-Angehörige",
+        "SGU-Sicherheitskursen"
+      ],
+      "graph_relations": []
+    }
+  }
+}

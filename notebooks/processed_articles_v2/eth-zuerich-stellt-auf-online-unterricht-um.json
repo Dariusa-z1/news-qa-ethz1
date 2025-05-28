@@ -1,0 +1,398 @@
+{
+  "filename": "eth-zuerich-stellt-auf-online-unterricht-um.md",
+  "original_filename": "eth-zuerich-stellt-auf-online-unterricht-um.html",
+  "source_path": "en_news_events/2020/10/eth-zuerich-stellt-auf-online-unterricht-um.html",
+  "date": "2020-10",
+  "title": "Eth Zuerich Stellt Auf Online Unterricht Um",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Finishing out the semester as planned",
+      "text": "The Executive Board of ETH Zurich has decided to extensively restrict classroom teaching starting on 2 November, with all lectures and nearly all exercise groups to be held online. \"In light of the rapid increase of infections in Switzerland, we see no choice but to take this step,\" explains Rector Sarah Springman. \"This is despite the fact that our safety concept for the Autumn Semester has proven very effective thus far.\" She adds that ETH Zurich must do its part to contain the second wave of the coronavirus. By holding most courses online, the number of students on campus will be reduced by 90%. It is essential for everyone in the ETH community to exercise personal responsibility and adhere to all coronavirus regulations."
+    },
+    {
+      "heading": "Finishing out the semester as planned",
+      "text": "It is not possible for ETH Zurich to completely transition to distance learning, however. “In order to ensure that all students have the chance to finish out the semester as planned, we will have to continue holding some courses in person,” says Springman. Because close contact between research and teaching is a cornerstone of ETH Zurich, students rely on the use of campus infrastructure for lab courses, certain exercise groups, Bachelor’s and Master’s theses, semester projects and design studio work. Students also need to report to campus in order to take their exams.\n\nStudent workplaces will continue to be available. Please note that everyone must strictly adhere to all rules regarding distancing, hygiene and masks – both at the workplaces and everywhere else on campus."
+    },
+    {
+      "heading": "Specific measures subject to the Federal Council's decision",
+      "text": "A detailed plan for the switch to online teaching is currently in the works. \"Once the Federal Council announces its decisions next week, we will inform the ETH community of all relevant measures,\" says Springman. Before putting any plans into place, the Executive Board will wait and see if the Federal Council announces any further measures next Wednesday.\n\nExperimental research activities – including technology platforms and workshops – will continue to operate without restriction. The same applies to all spin-off activities on campus. \"It's essential for ETH to continue carrying out its core activities despite the pandemic,\" says Vice President Ueli Weidmann, who heads the university's COVID-19 task force. \"We've seen that this is possible from the sound safety concepts and rigorous adherence in place within our research groups.\" This means that unlike in spring, there are no plans to require special approval for conducting laboratory research or spin-off activities on campus."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Zuerich Stellt",
+        "label": "PERSON",
+        "start": 27,
+        "end": 41
+      },
+      {
+        "text": "The Executive Board",
+        "label": "ORG",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 27,
+        "end": 33
+      },
+      {
+        "text": "2 November",
+        "label": "DATE",
+        "start": 101,
+        "end": 111
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 230,
+        "end": 241
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PERSON",
+        "start": 300,
+        "end": 315
+      },
+      {
+        "text": "the Autumn Semester",
+        "label": "ORG",
+        "start": 371,
+        "end": 390
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 442,
+        "end": 452
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 485,
+        "end": 491
+      },
+      {
+        "text": "90%",
+        "label": "PERCENT",
+        "start": 601,
+        "end": 604
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 642,
+        "end": 645
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 23,
+        "end": 33
+      },
+      {
+        "text": "Springman",
+        "label": "PERSON",
+        "start": 246,
+        "end": 255
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 329,
+        "end": 339
+      },
+      {
+        "text": "Bachelor’s",
+        "label": "ORG",
+        "start": 433,
+        "end": 443
+      },
+      {
+        "text": "the Federal Council",
+        "label": "ORG",
+        "start": 83,
+        "end": 102
+      },
+      {
+        "text": "next week",
+        "label": "DATE",
+        "start": 127,
+        "end": 136
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 157,
+        "end": 160
+      },
+      {
+        "text": "Springman",
+        "label": "PERSON",
+        "start": 203,
+        "end": 212
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 251,
+        "end": 270
+      },
+      {
+        "text": "the Federal Council",
+        "label": "ORG",
+        "start": 292,
+        "end": 311
+      },
+      {
+        "text": "next Wednesday",
+        "label": "DATE",
+        "start": 343,
+        "end": 357
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 562,
+        "end": 565
+      },
+      {
+        "text": "Ueli Weidmann",
+        "label": "PERSON",
+        "start": 654,
+        "end": 667
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 696,
+        "end": 704
+      },
+      {
+        "text": "spring",
+        "label": "DATE",
+        "start": 869,
+        "end": 875
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Sarah Springman",
+        "Springman",
+        "Ueli Weidmann",
+        "Zuerich Stellt"
+      ],
+      "ORG": [
+        "Bachelor’s",
+        "COVID-19",
+        "ETH",
+        "ETH Zurich",
+        "The Executive Board",
+        "the Autumn Semester",
+        "the Executive Board",
+        "the Federal Council"
+      ],
+      "LOCATION": [
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "2 November",
+        "next Wednesday",
+        "next week",
+        "spring"
+      ],
+      "MISC": [
+        "90%",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "ETH": 3,
+      "Springman": 2,
+      "the Federal Council": 2,
+      "Zuerich Stellt": 1,
+      "The Executive Board": 1,
+      "Zurich": 1,
+      "2 November": 1,
+      "Switzerland": 1,
+      "Sarah Springman": 1,
+      "the Autumn Semester": 1,
+      "second": 1,
+      "90%": 1,
+      "Bachelor’s": 1,
+      "next week": 1,
+      "the Executive Board": 1,
+      "next Wednesday": 1,
+      "Ueli Weidmann": 1,
+      "COVID-19": 1,
+      "spring": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-zuerich-stellt-auf-online-unterricht-um.md",
+      "title": "En News Events/2020/10/eth Zuerich Stellt auf Online Unterricht Um",
+      "language": "en",
+      "source_path": "en_news_events/2020/10/eth-zuerich-stellt-auf-online-unterricht-um.html"
+    },
+    "temporal": {
+      "publication_date": "2020-10",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Sarah Springman",
+        "Springman",
+        "Ueli Weidmann",
+        "Zuerich Stellt"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student"
+        ],
+        "Sarah Springman": [
+          "rector"
+        ],
+        "Springman": [
+          "student",
+          "rector"
+        ],
+        "Ueli Weidmann": [
+          "president",
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "rector",
+        "head",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "second"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Rector Sarah",
+        "Vice President",
+        "En News",
+        "Ueli Weidmann",
+        "Zuerich Stellt",
+        "Executive Board",
+        "Autumn Semester",
+        "Federal Council",
+        "ETH Zurich",
+        "Online Unterricht",
+        "Um The"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bachelor’s",
+        "COVID-19",
+        "ETH",
+        "ETH Zurich",
+        "The Executive Board",
+        "the Autumn Semester",
+        "the Executive Board",
+        "the Federal Council"
+      ],
+      "locations": [
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "ETH",
+        "Springman",
+        "the Federal Council",
+        "Zuerich Stellt",
+        "The Executive Board",
+        "Zurich",
+        "2 November",
+        "Switzerland",
+        "Sarah Springman"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Finishing out the semester as planned",
+          "Finishing out the semester as planned",
+          "Specific measures subject to the Federal Council's decision"
+        ],
+        "content_length": 2578
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Ueli Weidmann",
+        "Zuerich Stellt",
+        "Bachelor’s",
+        "2020",
+        "Sarah Springman",
+        "the Autumn Semester",
+        "The Executive Board",
+        "COVID-19",
+        "the Executive Board",
+        "ETH Zurich",
+        "the Federal Council",
+        "ERC",
+        "Springman"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "who",
+        "where",
+        "what",
+        "second",
+        "how",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "Sarah Springman_has_role_rector",
+        "Springman_has_role_student",
+        "Springman_has_role_rector",
+        "Ueli Weidmann_has_role_president",
+        "Ueli Weidmann_has_role_head",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

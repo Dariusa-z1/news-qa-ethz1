@@ -1,0 +1,32 @@
+# automatically-filter-and-block-cookies.html
+
+**Source:** en_news_events/2022/03/automatically-filter-and-block-cookies.html
+
+## The illusion of control through cookie consent banners
+
+As soon as we visit a website, much of the content is obscured by a large banner asking us to consent to the use of cookies. Cookies are small blocks of data that a browser stores to enable a website to identify a particular user without having to rely on personal data like an e-mail address. This enables browsers to, say, store personal settings or login information, or provide data on when and for how long someone visited a site.
+
+But cookies can also collect data on user behaviour, opening the door to personalised ads, which is why legislators regulate how cookies are used. The European Union’s General Data Protection Regulation (GDPR) stipulates that website operators must obtain the user’s consent before setting cookies that collect data on user behaviour.
+
+## The illusion of control through cookie consent banners
+
+They comply with this requirement by way of cookie consent banners, which should ensure that users can choose freely if they want to allow cookies and which ones.
+
+But the reality of cookie consent banners is rather different: several studies have shown that they only appear to give users control over their data. Banners might be given a visual design that leads users to accept all cookies, or they might inadequately explain the functions of cookies or fail to declare their use altogether.
+
+## Giving users control
+
+In response to this situation, ETH researchers are proposing a solution that would mean users no longer had to rely on the information provided by website operators. Dino Bollinger, Karel Kubíček and Carlos Cotrini from the group led by ETH Professor David Basin have developed a browser extension that can automatically categorise and delete cookies. They are presenting their study at a renowned security conference in august.
+
+Named Cookieblock, this tool uses machine learning (ML) to sort cookies into the data protection categories “essential”, “functional”, “analytics” and “advertising”. With this browser extension, users will have to state only once which cookies they want to allow, and Cookieblock will do the rest. It will then proceed to delete all other cookies, irrespective of any cookie consent banners. Although these will continue to appear, they will be rendered obsolete by the browser extension. Browser extensions from other providers can hide them completely.
+
+Cookieblock is available for browsers Chrome, Firefox, Edge and Opera. Tests show that it can delete more than 90 percent of cookies that collect user data. In the case of 85 percent of websites, it did so without any impairment in website functionality. In the case of 8 percent, the authors detected minor impairments in connection with “non-essential website functions”, while in the case of 7 percent, the browser interfered with website use by, for example, losing login information. Users can still use such websites by granting exceptions to them in the extension.
+
+## Widespread lack of data protection
+
+As part of their study, the researchers visited more than 30,000 websites to check whether or not the cookie consent banners they encountered there met GDPR criteria. Specifically, they analysed whether the banners fully and correctly declared the cookies set, and whether only those cookies consented to had indeed been activated.
+
+On almost 95 percent of the websites, they found at least one problem that they considered a potential GDPR violation. More than 20 percent of the websites set cookies that the user had explicitly rejected, and 70 percent already activated cookies before the user had had a chance to interact with the consent banner. “This shows how important it is for users to have control,” Kubíček says.
+
+Bollinger D, Kubicek K, Cotrini C, Basin D: Automating Cookie Consent and GDPR Violation Detection , 31st USENIX Security Symposium, August 2022, (Preprint).
+

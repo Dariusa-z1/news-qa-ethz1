@@ -1,0 +1,524 @@
+{
+  "filename": "welcome-to-the-future.md",
+  "original_filename": "welcome-to-the-future.html",
+  "source_path": "en_internal/2018/10/welcome-to-the-future.html",
+  "date": "2018-10",
+  "title": "Welcome To The Future",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Mixed reality on the rise",
+      "text": "Since mid-September, the rooms of ETH Zurich have once again been filled with students – teaching has begun. And this year, the university is introducing new methods to modernise the concept of studying and make it a more attractive prospect. Educational Development and Technology (LET) is constantly working to develop and improve teaching at ETH. The 40-strong LET team is supported by 11 Educational Developers in the departments, who are in direct contact with the lecturers and coordinate developments within the degree programmes."
+    },
+    {
+      "heading": "“Roles are changing”",
+      "text": "One of the biggest innovations is “mixed reality”, which enables students to study virtual objects using 3D glasses. The HoloLens from Microsoft was used for the first time at ETH at the start of the year – students on the Computer-Assisted Drug Design course in the Department of Chemistry and Applied Biosciences used it to study proteins. When you look through the HoloLens you can see the actual room you are standing in as well as a hologram – in this case, a protein – which you can walk round, explore and even step right through."
+    },
+    {
+      "heading": "Mixed reality on the rise",
+      "text": "The project was initiated by LET, who asked for suggestions on how the glasses could be used for teaching. Thanks to a donation from an ETH alumnus, 12 pairs of glasses were purchased last year. Andreas Reinhardt, Head of Innovation Management for LET, says: “We are currently evaluating where mixed reality can provide added value in the context of teaching.” His team plans and assesses the use of new technologies and methods and supports lecturers when it comes to implementation. Reinhardt is convinced: “Virtual teaching situations are going to take off in a big way in future.”\n\nThis opinion is shared by Sarah Frédérickx, Educational Developer in the Department of Health Sciences and Technology (D-HEST). “I believe that, in 30 years’ time, teaching will take place in virtual space rather than in a physical location,” she says. “It is possible that we will interact with each other as holograms rather than in person.” Benno Volk, Deputy Head of LET, says it is difficult to look so far into the future. But he is confident that ETH Zurich will still be an important physical site in 2050. “However, the rooms will be designed more for practical learning than traditional teacher-centred teaching.”\n\nStudents in D-HEST can already carry out laboratory work in a 2D environment on a computer. In the Labster simulations, they can put on virtual gloves, work with samples and use machines. “And they are not dependent on the availability of rooms or personnel,” says Frédérickx. Furthermore, the simulations can be used to conduct experiments that would be too dangerous or expensive in real life. The Department of Materials Science has also been using the program since the start of the Autumn Semester. There are already 3D glasses available for Labster which immerse users completely in the virtual laboratories. “My aim is for us to be using these glasses in our department soon too,” says Frédérickx."
+    },
+    {
+      "heading": "“Roles are changing”",
+      "text": "Virtual reality isn’t the only innovation in studying – other technologies such as interactive, electronic teaching materials are also increasingly replacing traditional teacher-centred teaching. A good example of this is a platform that Frédérickx developed for D-HEST in 2014. eSkript allows lecturers to incorporate elements such as videos or multiple-choice questionnaires into their documents. Students can assess the material, comment on it or point out errors. The approach has proved so popular that LET is now gradually adopting it with the intention of offering it on an ETH-wide basis. “eSkript is a classic bottom-up innovation,” says Reinhardt. “When something is developed in the departments that is relevant to all of ETH, we adopt it wherever circumstances and capacities allow. Other projects, meanwhile, are developed centrally from the outset.”\n\nInteractive, digital teaching materials allow students to learn the basics of their subject by themselves. For many, says Reinhardt, this cultural change will take some getting used to. “Roles are changing: in the future, lecturers will spend more time coaching and less time giving presentations.” Volk adds: “Some students are used to sitting in lectures and then cramming for the exams at the end of the semester.” In the future there will be more of a focus on active learning over the course of the entire semester. This is a good idea from a learning psychology perspective: “When we take the theory out of the face-to-face teaching, we can use that time for practical applications such as discussions or group work,” says Volk. “This makes university a more social, and therefore attractive, place for learning.”\n\nThis article appeared in the current ETH magazine \" life\" ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "mid-September",
+        "label": "DATE",
+        "start": 6,
+        "end": 19
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 34,
+        "end": 44
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 113,
+        "end": 122
+      },
+      {
+        "text": "Educational Development and Technology",
+        "label": "ORG",
+        "start": 243,
+        "end": 281
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 345,
+        "end": 348
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "3D",
+        "label": "ORG",
+        "start": 105,
+        "end": 107
+      },
+      {
+        "text": "HoloLens",
+        "label": "GPE",
+        "start": 121,
+        "end": 129
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 135,
+        "end": 144
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 162,
+        "end": 167
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 176,
+        "end": 179
+      },
+      {
+        "text": "the start of the year",
+        "label": "DATE",
+        "start": 183,
+        "end": 204
+      },
+      {
+        "text": "the Computer-Assisted Drug Design",
+        "label": "ORG",
+        "start": 219,
+        "end": 252
+      },
+      {
+        "text": "the Department of Chemistry and Applied Biosciences",
+        "label": "ORG",
+        "start": 263,
+        "end": 314
+      },
+      {
+        "text": "HoloLens",
+        "label": "GPE",
+        "start": 368,
+        "end": 376
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 136,
+        "end": 139
+      },
+      {
+        "text": "last year",
+        "label": "DATE",
+        "start": 184,
+        "end": 193
+      },
+      {
+        "text": "Reinhardt",
+        "label": "PERSON",
+        "start": 485,
+        "end": 494
+      },
+      {
+        "text": "Sarah Frédérickx",
+        "label": "PERSON",
+        "start": 611,
+        "end": 627
+      },
+      {
+        "text": "the Department of Health Sciences and Technology",
+        "label": "ORG",
+        "start": 654,
+        "end": 702
+      },
+      {
+        "text": "30 years",
+        "label": "DATE",
+        "start": 733,
+        "end": 741
+      },
+      {
+        "text": "Benno Volk",
+        "label": "PERSON",
+        "start": 929,
+        "end": 939
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1039,
+        "end": 1049
+      },
+      {
+        "text": "2D",
+        "label": "CARDINAL",
+        "start": 1271,
+        "end": 1273
+      },
+      {
+        "text": "Labster",
+        "label": "NORP",
+        "start": 1308,
+        "end": 1315
+      },
+      {
+        "text": "Frédérickx",
+        "label": "PERSON",
+        "start": 1474,
+        "end": 1484
+      },
+      {
+        "text": "The Department of Materials Science",
+        "label": "ORG",
+        "start": 1605,
+        "end": 1640
+      },
+      {
+        "text": "the start of the Autumn Semester",
+        "label": "DATE",
+        "start": 1679,
+        "end": 1711
+      },
+      {
+        "text": "3D",
+        "label": "ORG",
+        "start": 1731,
+        "end": 1733
+      },
+      {
+        "text": "Labster",
+        "label": "ORG",
+        "start": 1756,
+        "end": 1763
+      },
+      {
+        "text": "Frédérickx",
+        "label": "PERSON",
+        "start": 1902,
+        "end": 1912
+      },
+      {
+        "text": "Frédérickx",
+        "label": "ORG",
+        "start": 238,
+        "end": 248
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 581,
+        "end": 584
+      },
+      {
+        "text": "eSkript",
+        "label": "ORG",
+        "start": 598,
+        "end": 605
+      },
+      {
+        "text": "Reinhardt",
+        "label": "PERSON",
+        "start": 647,
+        "end": 656
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 733,
+        "end": 736
+      },
+      {
+        "text": "Reinhardt",
+        "label": "PERSON",
+        "start": 986,
+        "end": 995
+      },
+      {
+        "text": "Volk",
+        "label": "PERSON",
+        "start": 1163,
+        "end": 1167
+      },
+      {
+        "text": "the end of the semester",
+        "label": "DATE",
+        "start": 1256,
+        "end": 1279
+      },
+      {
+        "text": "Volk",
+        "label": "PERSON",
+        "start": 1593,
+        "end": 1597
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1721,
+        "end": 1724
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Benno Volk",
+        "ETH Zurich",
+        "Frédérickx",
+        "Reinhardt",
+        "Sarah Frédérickx",
+        "Volk"
+      ],
+      "ORG": [
+        "3D",
+        "ETH",
+        "Educational Development and Technology",
+        "Frédérickx",
+        "Labster",
+        "Microsoft",
+        "The Department of Materials Science",
+        "eSkript",
+        "the Computer-Assisted Drug Design",
+        "the Department of Chemistry and Applied Biosciences",
+        "the Department of Health Sciences and Technology"
+      ],
+      "LOCATION": [
+        "HoloLens"
+      ],
+      "DATE": [
+        "30 years",
+        "last year",
+        "mid-September",
+        "the end of the semester",
+        "the start of the Autumn Semester",
+        "the start of the year",
+        "this year"
+      ],
+      "MISC": [
+        "2D",
+        "Labster",
+        "One",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 6,
+      "Reinhardt": 3,
+      "Frédérickx": 3,
+      "ETH Zurich": 2,
+      "3D": 2,
+      "HoloLens": 2,
+      "Labster": 2,
+      "Volk": 2,
+      "mid-September": 1,
+      "this year": 1,
+      "Educational Development and Technology": 1,
+      "One": 1,
+      "Microsoft": 1,
+      "first": 1,
+      "the start of the year": 1,
+      "the Computer-Assisted Drug Design": 1,
+      "the Department of Chemistry and Applied Biosciences": 1,
+      "last year": 1,
+      "Sarah Frédérickx": 1,
+      "the Department of Health Sciences and Technology": 1
+    },
+    "total_entities": 41,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "welcome-to-the-future.md",
+      "title": "En Internal/2018/10/welcome To The Future",
+      "language": "en",
+      "source_path": "en_internal/2018/10/welcome-to-the-future.html"
+    },
+    "temporal": {
+      "publication_date": "2018-10",
+      "mentioned_years": [
+        "2014",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Benno Volk",
+        "ETH Zurich",
+        "Frédérickx",
+        "Reinhardt",
+        "Sarah Frédérickx",
+        "Volk"
+      ],
+      "people_with_roles": {
+        "Benno Volk": [
+          "head"
+        ],
+        "ETH Zurich": [
+          "student"
+        ],
+        "Reinhardt": [
+          "head"
+        ],
+        "Volk": [
+          "student",
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "alumnus",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Labster",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Innovation Management",
+        "Autumn Semester",
+        "Educational Developer",
+        "Deputy Head",
+        "Applied Biosciences",
+        "Andreas Reinhardt",
+        "Educational Development",
+        "Materials Science",
+        "Benno Volk",
+        "Health Sciences",
+        "Future Since",
+        "Educational Developers",
+        "Drug Design",
+        "To The",
+        "Computer-Assisted",
+        "The Department",
+        "En Internal",
+        "D-HEST",
+        "The HoloLens",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Chemistry and Applied Biosciences used it to study proteins",
+        "Health Sciences and Technology ",
+        "Materials Science has also been using the program since the start of the Autumn Semester"
+      ],
+      "institutions": [
+        "3D",
+        "ETH",
+        "Educational Development and Technology",
+        "Frédérickx",
+        "Labster",
+        "Microsoft",
+        "The Department of Materials Science",
+        "eSkript",
+        "the Computer-Assisted Drug Design",
+        "the Department of Chemistry and Applied Biosciences",
+        "the Department of Health Sciences and Technology"
+      ],
+      "locations": [
+        "HoloLens"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Reinhardt",
+        "Frédérickx",
+        "ETH Zurich",
+        "3D",
+        "HoloLens",
+        "Labster",
+        "Volk",
+        "mid-September",
+        "this year"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Mixed reality on the rise",
+          "“Roles are changing”",
+          "Mixed reality on the rise",
+          "“Roles are changing”"
+        ],
+        "content_length": 4779
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "the Department of Chemistry and Applied Biosciences",
+        "Educational Development and Technology",
+        "Labster",
+        "Frédérickx",
+        "Sarah Frédérickx",
+        "3D",
+        "Microsoft",
+        "The Department of Materials Science",
+        "Benno Volk",
+        "ETH Zurich",
+        "the Computer-Assisted Drug Design",
+        "eSkript",
+        "the Department of Health Sciences and Technology",
+        "Volk",
+        "2014",
+        "Reinhardt"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "Labster",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Benno Volk_has_role_head",
+        "ETH Zurich_has_role_student",
+        "Reinhardt_has_role_head",
+        "Volk_has_role_student",
+        "Volk_has_role_head",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

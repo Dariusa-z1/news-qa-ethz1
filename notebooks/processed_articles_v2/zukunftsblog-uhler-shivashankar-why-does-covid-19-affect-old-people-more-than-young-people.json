@@ -1,0 +1,374 @@
+{
+  "filename": "zukunftsblog-uhler-shivashankar-why-does-covid-19-affect-old-people-more-than-young-people.md",
+  "original_filename": "zukunftsblog-uhler-shivashankar-why-does-covid-19-affect-old-people-more-than-young-people.html",
+  "source_path": "en_news_events/2020/04/zukunftsblog-uhler-shivashankar-why-does-covid-19-affect-old-people-more-than-young-people.html",
+  "date": "2020-04",
+  "title": "Zukunftsblog Uhler Shivashankar Why Does Covid 19 Affect Old People More Than Young People",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Stiffening of the lung tissue with age",
+      "text": "The new coronavirus strikes both young and old. But the more severe cases and the higher rates of death are among the elderly. The reason for this is as yet unknown. Some scientists suspect that this may be related to the weakening of the immune system in the elderly – indeed, senior citizens are known to be more susceptible to many infectious diseases.\n\nHowever, there may be other explanations. As we grow older, the structure, mechanical properties and functions of the cells in our body change. It’s conceivable that SARS-CoV-2 takes advantage of these conditions and reproduces better in cells of older people, which in turn would lead to a more severe disease progression. 1 In our opinion, it’s worthwhile examining this hypothesis more closely. For if we can ascertain exactly how the virus behaves in the cells of older people, we will know which cell functions to target with drugs. This information could be critical in the search for drugs against COVID-19."
+    },
+    {
+      "heading": "Stiffening of the lung tissue with age",
+      "text": "When the new coronavirus infects humans, it first attacks the mucosal cells of the respiratory tract. Once the virus gets inside a cell, it hijacks its cellular processes to produce masses of new viruses, which the cell eventually releases – ready to infect the next cell in the body or other people via droplets from sneezing or coughing. While the new coronavirus has been observed to invade cells in both young and old people, the outcome is often different. Why should this be so?\n\nIt’s known that the lung and respiratory tract tissue stiffens with age. This is partly due to the connective tissue cells in these organs, which deposit more protein fibres in the tissue with age. The stiffening in turn has an influence on the mechanical properties and processes inside the mucosal cells, and even on the genetic control of their cell functions. In recent years, we have demonstrated this connection between mechanics and cell function. 2"
+    },
+    {
+      "heading": "References",
+      "text": "Since coronaviruses depend on the functions of their host cells in order to multiply, and these functions in turn depend on the mechanical properties of the cell, we suspect that the mechanics and functions of cells in older people may favour the multiplication of the virus. Biopsies or cell culture experiments could now be used to determine whether this is indeed the case."
+    },
+    {
+      "heading": "Keeping an eye on behaviour",
+      "text": "Our reasoning can also indicate where to concentrate additional efforts in the quest for drugs to combat COVID-19. One focus of research is to stall the viral entry into a cell. Scientists are currently looking to develop inhibitors to prevent the virus from infecting cells in this way. Given our hypothesis, and that coronavirus entry into a cell is similar even in those with mild symptoms, the quest for drugs should also include inhibitors that intersect with coronavirus replication and the mechanical properties of cells.\n\nWe plan to develop in-vitro models and machine learning methodology that will be well-suited for testing the effectiveness of small molecules, both approved drugs that could be repurposed and newly developed ones. It’s essential that research on SARS-CoV-2 focus not just on the virus itself, but also on how the virus behaves in the cells of young and old people. And we should look not only at the genomic differences between these cells, but also at their mechanical differences.\n\n1 Uhler C, Shivashankar GV: Mechano-genomic regulation of coronaviruses and its interplay with ageing. Nature Reviews Molecular Cell Biology 2020, doi: 10.1038/s41580-020-0242-z\n\n2 Uhler C, Shivashankar GV: Regulation of genome organization and gene expression by nuclear mechanotransduction. Nature Reviews Molecular Cell Biology 2017. 18: 717, doi: 10.1038/nrm.2017.101\n\nCaroline Uhler Professor for Machine Learning, Statistics and Genomics at the Department of Biosystems Science and Engineering, ETH Zurich in Basel\n\nG. V. Shivashankar Professor for Mechano-Genomics at the Department of Health Sciences and Technology, ETH Zurich, and at the Paul Scherrer Institute"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Uhler Shivashankar Why Does",
+        "label": "PERSON",
+        "start": 36,
+        "end": 63
+      },
+      {
+        "text": "Covid 19",
+        "label": "PERSON",
+        "start": 64,
+        "end": 72
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 961,
+        "end": 969
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 44,
+        "end": 49
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 852,
+        "end": 864
+      },
+      {
+        "text": "COVID-19",
+        "label": "PERSON",
+        "start": 105,
+        "end": 113
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 115,
+        "end": 118
+      },
+      {
+        "text": "Nature Reviews Molecular Cell Biology",
+        "label": "PERSON",
+        "start": 1115,
+        "end": 1152
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1164,
+        "end": 1171
+      },
+      {
+        "text": "Nature Reviews Molecular Cell Biology",
+        "label": "PERSON",
+        "start": 1304,
+        "end": 1341
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1362,
+        "end": 1369
+      },
+      {
+        "text": "Machine Learning, Statistics",
+        "label": "ORG",
+        "start": 1412,
+        "end": 1440
+      },
+      {
+        "text": "Genomics",
+        "label": "ORG",
+        "start": 1445,
+        "end": 1453
+      },
+      {
+        "text": "the Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 1457,
+        "end": 1509
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1511,
+        "end": 1521
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 1525,
+        "end": 1530
+      },
+      {
+        "text": "G. V. Shivashankar Professor",
+        "label": "PERSON",
+        "start": 1531,
+        "end": 1559
+      },
+      {
+        "text": "Mechano-Genomics",
+        "label": "ORG",
+        "start": 1564,
+        "end": 1580
+      },
+      {
+        "text": "the Department of Health Sciences and Technology",
+        "label": "ORG",
+        "start": 1584,
+        "end": 1632
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1634,
+        "end": 1644
+      },
+      {
+        "text": "the Paul Scherrer Institute",
+        "label": "ORG",
+        "start": 1653,
+        "end": 1680
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "COVID-19",
+        "Covid 19",
+        "ETH Zurich",
+        "G. V. Shivashankar Professor",
+        "Nature Reviews Molecular Cell Biology",
+        "Uhler Shivashankar Why Does"
+      ],
+      "ORG": [
+        "COVID-19",
+        "Genomics",
+        "Machine Learning, Statistics",
+        "Mechano-Genomics",
+        "the Department of Biosystems Science and Engineering",
+        "the Department of Health Sciences and Technology",
+        "the Paul Scherrer Institute"
+      ],
+      "LOCATION": [
+        "Basel"
+      ],
+      "DATE": [
+        "recent years"
+      ],
+      "MISC": [
+        "10.1038",
+        "One",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "COVID-19": 2,
+      "Nature Reviews Molecular Cell Biology": 2,
+      "10.1038": 2,
+      "ETH Zurich": 2,
+      "Uhler Shivashankar Why Does": 1,
+      "Covid 19": 1,
+      "first": 1,
+      "recent years": 1,
+      "One": 1,
+      "Machine Learning, Statistics": 1,
+      "Genomics": 1,
+      "the Department of Biosystems Science and Engineering": 1,
+      "Basel": 1,
+      "G. V. Shivashankar Professor": 1,
+      "Mechano-Genomics": 1,
+      "the Department of Health Sciences and Technology": 1,
+      "the Paul Scherrer Institute": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "zukunftsblog-uhler-shivashankar-why-does-covid-19-affect-old-people-more-than-young-people.md",
+      "title": "En News Events/2020/04/zukunftsblog Uhler Shivashankar Why Does Covid 19 Affect Old People More Than Young People",
+      "language": "en",
+      "source_path": "en_news_events/2020/04/zukunftsblog-uhler-shivashankar-why-does-covid-19-affect-old-people-more-than-young-people.html"
+    },
+    "temporal": {
+      "publication_date": "2020-04",
+      "mentioned_years": [
+        "2017",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "COVID-19",
+        "Covid 19",
+        "ETH Zurich",
+        "G. V. Shivashankar Professor",
+        "Nature Reviews Molecular Cell Biology",
+        "Uhler Shivashankar Why Does"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Nature Reviews",
+        "SARS-CoV",
+        "Mechano-Genomics",
+        "Biosystems Science",
+        "Caroline Uhler",
+        "Machine Learning",
+        "Health Sciences",
+        "Uhler Shivashankar",
+        "Molecular Cell",
+        "Uhler C",
+        "People The",
+        "Paul Scherrer",
+        "En News",
+        "Than Young",
+        "Affect Old",
+        "Shivashankar Professor",
+        "People More",
+        "Why Does",
+        "Shivashankar GV",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biosystems Science and Engineering",
+        "Health Sciences and Technology"
+      ],
+      "institutions": [
+        "COVID-19",
+        "Genomics",
+        "Machine Learning, Statistics",
+        "Mechano-Genomics",
+        "the Department of Biosystems Science and Engineering",
+        "the Department of Health Sciences and Technology",
+        "the Paul Scherrer Institute"
+      ],
+      "locations": [
+        "Basel"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "COVID-19",
+        "Nature Reviews Molecular Cell Biology",
+        "10.1038",
+        "ETH Zurich",
+        "Uhler Shivashankar Why Does",
+        "Covid 19",
+        "first",
+        "recent years",
+        "One",
+        "Machine Learning, Statistics"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Stiffening of the lung tissue with age",
+          "Stiffening of the lung tissue with age",
+          "References",
+          "Keeping an eye on behaviour"
+        ],
+        "content_length": 4091
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Machine Learning, Statistics",
+        "Nature Reviews Molecular Cell Biology",
+        "the Paul Scherrer Institute",
+        "2017",
+        "Uhler Shivashankar Why Does",
+        "G. V. Shivashankar Professor",
+        "2020",
+        "Mechano-Genomics",
+        "ETH Zurich",
+        "the Department of Health Sciences and Technology",
+        "Covid 19",
+        "COVID-19",
+        "Genomics",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "who",
+        "10.1038",
+        "chemistry",
+        "where",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

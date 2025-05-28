@@ -1,0 +1,272 @@
+{
+  "filename": "vom-forum-zum-netzwerk-fuer-frauen-in-der-informatik.md",
+  "original_filename": "vom-forum-zum-netzwerk-fuer-frauen-in-der-informatik.html",
+  "source_path": "de_internal/2016/10/vom-forum-zum-netzwerk-fuer-frauen-in-der-informatik.html",
+  "date": "2016-10",
+  "title": "Vom Forum Zum Netzwerk Fuer Frauen In Der Informatik",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "CSNOW (Network of Women in Computer Science, bisher: Forum für Frauen in der Informatik) lädt alle interessierten Studentinnen und Studenten, Fakultätsmitglieder und Angestellte ein, mit uns einen Schritt vorwärts in Richtung mehr Diversität in der Informatik zu machen.\n\nWir vernetzen und unterstützen Frauen vor, während und nach ihrem Informatikstudium an der ETH Zürich. Um dies zu erreichen, bieten wir verschiedenste Events an: Von Informatik Einführungen für Maturandinnen und Maturanden bis zum Career Coaching für Masterstudierende und Doktorierende ist alles dabei.\n\nAm Mittwoch, 2. November um 17.00 Uhr im CAB G51 werden wir den neuen Namen und das neue Logo unserer Organisation präsentieren. Unter anderem werden der Vorsteher des Informatik Departements, Prof. Dr. Emo Welzl, und die Rektorin der ETH Zürich, Prof. Dr. Sarah Springman, ihre Gedanken zum Thema «Diversität in den MINT-Fächern» erläutern. Im Anschluss wartet ein Apéro riche.\n\nMehr Informationen finden Sie unter: www.frauen.inf.ethz.ch/archiv/2016/csnowlaunch ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/10",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Netzwerk Fuer",
+        "label": "ORG",
+        "start": 34,
+        "end": 47
+      },
+      {
+        "text": "CSNOW",
+        "label": "ORG",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Network of Women",
+        "label": "ORG",
+        "start": 7,
+        "end": 23
+      },
+      {
+        "text": "Forum für Frauen",
+        "label": "ORG",
+        "start": 53,
+        "end": 69
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 362,
+        "end": 372
+      },
+      {
+        "text": "Career Coaching für Masterstudierende und Doktorierende",
+        "label": "ORG",
+        "start": 502,
+        "end": 557
+      },
+      {
+        "text": "Mittwoch",
+        "label": "LOC",
+        "start": 578,
+        "end": 586
+      },
+      {
+        "text": "CAB G51",
+        "label": "MISC",
+        "start": 616,
+        "end": 623
+      },
+      {
+        "text": "Departements",
+        "label": "LOC",
+        "start": 754,
+        "end": 766
+      },
+      {
+        "text": "Dr. Emo Welzl",
+        "label": "PER",
+        "start": 774,
+        "end": 787
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 810,
+        "end": 820
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PER",
+        "start": 832,
+        "end": 847
+      },
+      {
+        "text": "MINT-Fächern",
+        "label": "MISC",
+        "start": 892,
+        "end": 904
+      },
+      {
+        "text": "Anschluss",
+        "label": "MISC",
+        "start": 920,
+        "end": 929
+      },
+      {
+        "text": "www.frauen.inf.ethz.ch/archiv/2016/csnowlaunch",
+        "label": "MISC",
+        "start": 991,
+        "end": 1037
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dr. Emo Welzl",
+        "Sarah Springman"
+      ],
+      "ORG": [
+        "CSNOW",
+        "Career Coaching für Masterstudierende und Doktorierende",
+        "ETH Zürich",
+        "Forum für Frauen",
+        "Network of Women",
+        "Netzwerk Fuer"
+      ],
+      "LOCATION": [
+        "De Internal/2016/10",
+        "Departements",
+        "Mittwoch"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Anschluss",
+        "CAB G51",
+        "MINT-Fächern",
+        "www.frauen.inf.ethz.ch/archiv/2016/csnowlaunch"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "De Internal/2016/10": 1,
+      "Netzwerk Fuer": 1,
+      "CSNOW": 1,
+      "Network of Women": 1,
+      "Forum für Frauen": 1,
+      "Career Coaching für Masterstudierende und Doktorierende": 1,
+      "Mittwoch": 1,
+      "CAB G51": 1,
+      "Departements": 1,
+      "Dr. Emo Welzl": 1,
+      "Sarah Springman": 1,
+      "MINT-Fächern": 1,
+      "Anschluss": 1,
+      "www.frauen.inf.ethz.ch/archiv/2016/csnowlaunch": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "vom-forum-zum-netzwerk-fuer-frauen-in-der-informatik.md",
+      "title": "De Internal/2016/10/vom Forum Zum Netzwerk Fuer Frauen in der Informatik",
+      "language": "de",
+      "source_path": "de_internal/2016/10/vom-forum-zum-netzwerk-fuer-frauen-in-der-informatik.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Dr. Emo Welzl",
+        "Sarah Springman"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Anschluss",
+        "CAB G51",
+        "MINT-Fächern",
+        "www.frauen.inf.ethz.ch/archiv/2016/csnowlaunch"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Informatik CSNOW",
+        "Career Coaching",
+        "Informatik Departements",
+        "Am Mittwoch",
+        "Forum Zum",
+        "De Internal",
+        "Netzwerk Fuer",
+        "Im Anschluss",
+        "Sarah Springman",
+        "Emo Welzl",
+        "Von Informatik",
+        "Mehr Informationen",
+        "Computer Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSNOW",
+        "Career Coaching für Masterstudierende und Doktorierende",
+        "ETH Zürich",
+        "Forum für Frauen",
+        "Network of Women",
+        "Netzwerk Fuer"
+      ],
+      "locations": [
+        "De Internal/2016/10",
+        "Departements",
+        "Mittwoch"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2016/10",
+        "Netzwerk Fuer",
+        "CSNOW",
+        "Network of Women",
+        "Forum für Frauen",
+        "Career Coaching für Masterstudierende und Doktorierende",
+        "Mittwoch",
+        "CAB G51",
+        "Departements"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1115
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Network of Women",
+        "Career Coaching für Masterstudierende und Doktorierende",
+        "EU",
+        "Sarah Springman",
+        "CSNOW",
+        "ETH Zürich",
+        "2016",
+        "Forum für Frauen",
+        "Dr. Emo Welzl",
+        "Netzwerk Fuer"
+      ],
+      "semantic_concepts": [
+        "CAB G51",
+        "MINT-Fächern",
+        "Anschluss",
+        "www.frauen.inf.ethz.ch/archiv/2016/csnowlaunch"
+      ],
+      "graph_relations": []
+    }
+  }
+}

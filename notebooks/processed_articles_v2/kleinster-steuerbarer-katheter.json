@@ -1,0 +1,362 @@
+{
+  "filename": "kleinster-steuerbarer-katheter.md",
+  "original_filename": "kleinster-steuerbarer-katheter.html",
+  "source_path": "de_news_events/2018/10/kleinster-steuerbarer-katheter.html",
+  "date": "2018-10",
+  "title": "Kleinster Steuerbarer Katheter",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Veränderbare Steifigkeit",
+      "text": "Es ist ein gängiges Prozedere bei Patienten mit Herzrhythmusstörungen: Ein Chirurg verödet im Herzen jene Regionen, welche unerwünschte elektrische Impulse verursachen. Die entsprechende Operation ist minimalinvasiv. Der Arzt führt über eine Körpervene einen Katheter bis ins Herz und erzeugt damit lokal Wärme, so dass die entsprechenden Stellen veröden. Um die Katheterspitze präzise durch die Blutgefässe und das Herz navigieren zu können, kann der Chirurg manuell über einen im Innern des Katheters verlaufenden Zugdraht dessen Spitze biegen. Allerdings nur in zwei Richtungen: nach links und nach rechts.\n\nForschende der Gruppe von Brad Nelson, Professor für Robotik und Intelligente Systeme an der ETH Zürich, entwickelten nun gemeinsam mit Kollegen der EPFL einen Katheter mit einem magnetischen Kopf, der nicht manuell, sondern von einem Computer aus über ein externes Magnetfeld gesteuert werden kann. Dies ermöglicht das exakte Biegen des vorderen Teils des Katheters in alle Richtungen. «Dadurch kann der Katheter präziser und durch komplexere Gefässe gesteuert werden als mit einem herkömmlichen Katheter», erklärt Christophe Chautems, Doktorand in Nelsons Gruppe. Weil der magnetische Katheter keinen Zugdraht benötigt, kann er auch deutlich dünner gebaut werden. Die Wissenschaftler habe den kleinsten steuerbaren Katheter hergestellt."
+    },
+    {
+      "heading": "Veränderbare Steifigkeit",
+      "text": "Beim neuen Katheter ist es ausserdem möglich, die Steifigkeit des vorderen Teils zu verändern. Die Wissenschaftler platzierten dazu in diesem Teil drei Segmente einer Legierung, die bei niedrigen Temperaturen weich wird. Mit über feinste Kupferdrähte im Innern des Katheters zugeführtem Strom können diese Segmente erwärmt und so biegsam gemacht werden.\n\nIst der vordere Teil des Katheters verhältnismässig steif, führt das Anlegen eines äusseren Magnetfelds zu einer schwachen Biegung. Ein weicher Katheter hingegen lässt Biegungen mit sehr engen Kurvenradien zu. Dadurch können Chirurgen wesentlich präziser durch die Gefässe navigieren. Das Risiko, Gefässe unbeabsichtigt von innen zu verletzen, ist geringer."
+    },
+    {
+      "heading": "Literaturhinweis",
+      "text": "Ein magnetisches Navigationssytem in den Labors der ETH Zürich. Neuere Entwicklungen werden deutlich kleiner sein. (Bild: ETH Zürich / Christophe Chautems)\n\nDamit Chirurgen mit solchen magnetischen Kathetern arbeiten können, müssen die Patienten auf einem «magnetischen Navigationssystem» liegen, einer Apparatur, mit welcher gerichtete Magnetfelder erzeugt werden. Solche Geräte wurden früher schon an der ETH und in einem ETH-Spin-off entwickelt. Ausserdem gibt es mittlerweile auch kommerzielle Anbieter solcher Apparate, die weltweit in rund 100 Spitälern im Einsatz sind.\n\nEin weiterer Vorteil der magnetischen Katheternavigation: Der Chirurg befindet sich nicht wie bei der manuellen Navigation unmittelbar neben dem Patienten, sondern an einem Computer in einem Kontrollraum nebenan. Der Arzt kann so besser vor der Strahlung des Röntgengeräts geschützt werden, dank dessen Bildgebung er sich im Körperinnern des Patienten zurechtfindet. Es wäre auch möglich, dass ein Operateur aus der Distanz den Eingriff durchführt. Schliesslich gibt es sogar Bestrebungen, solche Eingriffe mittelfristig ganz zu automatisieren. Für ihren Machbarkeitsnachweis fokussierten sich die ETH-Forschenden auf die Anwendung der Behandlung von Herzrhythmusstörungen. Sie liessen das System patentieren und suchen nun nach Industriepartnern, um den Katheter zur Marktreife weiterzuentwickeln. Parallel dazu arbeiten sie an weiteren Anwendungen des Katheters für Operationen im Auge und im Magen.\n\nChautems C, Tonazzini A, Floreano D, Nelson BJ: A Variable Stiffness Catheter Controlled with an External Magnetic Field. IEEE/RSJ International Conference on Intelligent Robots and Systems 2017, doi: externe Seite 10.1109/IROS.2017.8202155"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Operation",
+        "label": "MISC",
+        "start": 187,
+        "end": 196
+      },
+      {
+        "text": "Blutgefässe",
+        "label": "LOC",
+        "start": 396,
+        "end": 407
+      },
+      {
+        "text": "Brad Nelson",
+        "label": "PER",
+        "start": 636,
+        "end": 647
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 703,
+        "end": 713
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 759,
+        "end": 763
+      },
+      {
+        "text": "Katheters",
+        "label": "LOC",
+        "start": 967,
+        "end": 976
+      },
+      {
+        "text": "Christophe Chautems",
+        "label": "PER",
+        "start": 1126,
+        "end": 1145
+      },
+      {
+        "text": "Nelsons Gruppe",
+        "label": "MISC",
+        "start": 1160,
+        "end": 1174
+      },
+      {
+        "text": "Katheters",
+        "label": "LOC",
+        "start": 379,
+        "end": 388
+      },
+      {
+        "text": "Gefässe",
+        "label": "LOC",
+        "start": 651,
+        "end": 658
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 52,
+        "end": 62
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 122,
+        "end": 132
+      },
+      {
+        "text": "Christophe Chautems",
+        "label": "PER",
+        "start": 135,
+        "end": 154
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 406,
+        "end": 409
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 1174,
+        "end": 1189
+      },
+      {
+        "text": "Katheters für Operationen",
+        "label": "MISC",
+        "start": 1430,
+        "end": 1455
+      },
+      {
+        "text": "Chautems C",
+        "label": "PER",
+        "start": 1478,
+        "end": 1488
+      },
+      {
+        "text": "Tonazzini A",
+        "label": "PER",
+        "start": 1490,
+        "end": 1501
+      },
+      {
+        "text": "Floreano D",
+        "label": "PER",
+        "start": 1503,
+        "end": 1513
+      },
+      {
+        "text": "Nelson BJ",
+        "label": "ORG",
+        "start": 1515,
+        "end": 1524
+      },
+      {
+        "text": "IEEE",
+        "label": "ORG",
+        "start": 1600,
+        "end": 1604
+      },
+      {
+        "text": "RSJ International Conference on Intelligent Robots",
+        "label": "ORG",
+        "start": 1605,
+        "end": 1655
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Brad Nelson",
+        "Chautems C",
+        "Christophe Chautems",
+        "De News",
+        "Floreano D",
+        "Tonazzini A"
+      ],
+      "ORG": [
+        "EPFL",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "IEEE",
+        "Nelson BJ",
+        "RSJ International Conference on Intelligent Robots"
+      ],
+      "LOCATION": [
+        "Blutgefässe",
+        "Gefässe",
+        "Katheters"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Katheters für Operationen",
+        "Nelsons Gruppe",
+        "Operation"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 3,
+      "Katheters": 2,
+      "Christophe Chautems": 2,
+      "De News": 1,
+      "Operation": 1,
+      "Blutgefässe": 1,
+      "Brad Nelson": 1,
+      "EPFL": 1,
+      "Nelsons Gruppe": 1,
+      "Gefässe": 1,
+      "ETH": 1,
+      "ETH-Forschenden": 1,
+      "Katheters für Operationen": 1,
+      "Chautems C": 1,
+      "Tonazzini A": 1,
+      "Floreano D": 1,
+      "Nelson BJ": 1,
+      "IEEE": 1,
+      "RSJ International Conference on Intelligent Robots": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "kleinster-steuerbarer-katheter.md",
+      "title": "De News Events/2018/10/kleinster Steuerbarer Katheter",
+      "language": "de",
+      "source_path": "de_news_events/2018/10/kleinster-steuerbarer-katheter.html"
+    },
+    "temporal": {
+      "publication_date": "2018-10",
+      "mentioned_years": [
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Brad Nelson",
+        "Chautems C",
+        "Christophe Chautems",
+        "De News",
+        "Floreano D",
+        "Tonazzini A"
+      ],
+      "people_with_roles": {
+        "Brad Nelson": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Katheters für Operationen",
+        "Nelsons Gruppe",
+        "Operation"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Chautems C",
+        "Intelligente Systeme",
+        "Neuere Entwicklungen",
+        "A Variable",
+        "Der Arzt",
+        "ETH-Spin",
+        "Der Chirurg",
+        "Intelligent Robots",
+        "Nelson BJ",
+        "Das Risiko",
+        "Stiffness Catheter",
+        "Die Wissenschaftler",
+        "RSJ International",
+        "Brad Nelson",
+        "Ein Chirurg",
+        "Damit Chirurgen",
+        "Steuerbarer Katheter",
+        "Christophe Chautems",
+        "ETH-Forschenden",
+        "De News",
+        "Nelsons Gruppe",
+        "Tonazzini A",
+        "External Magnetic",
+        "Floreano D"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "EPFL",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "IEEE",
+        "Nelson BJ",
+        "RSJ International Conference on Intelligent Robots"
+      ],
+      "locations": [
+        "Blutgefässe",
+        "Gefässe",
+        "Katheters"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "Katheters",
+        "Christophe Chautems",
+        "De News",
+        "Operation",
+        "Blutgefässe",
+        "Brad Nelson",
+        "EPFL",
+        "Nelsons Gruppe",
+        "Gefässe"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Veränderbare Steifigkeit",
+          "Veränderbare Steifigkeit",
+          "Literaturhinweis"
+        ],
+        "content_length": 3838
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "EPFL",
+        "ETH",
+        "2017",
+        "EU",
+        "Christophe Chautems",
+        "Brad Nelson",
+        "Chautems C",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "De News",
+        "IEEE",
+        "Nelson BJ",
+        "Tonazzini A",
+        "Floreano D",
+        "RSJ International Conference on Intelligent Robots"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Nelsons Gruppe",
+        "Operation",
+        "Katheters für Operationen"
+      ],
+      "graph_relations": [
+        "Brad Nelson_has_role_professor"
+      ]
+    }
+  }
+}

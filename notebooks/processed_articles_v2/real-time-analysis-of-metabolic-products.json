@@ -1,0 +1,502 @@
+{
+  "filename": "real-time-analysis-of-metabolic-products.md",
+  "original_filename": "real-time-analysis-of-metabolic-products.html",
+  "source_path": "en_news_events/2015/09/real-time-analysis-of-metabolic-products.html",
+  "date": "2015-09",
+  "title": "Real Time Analysis Of Metabolic Products",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "High-throughput metabolomics",
+      "text": "Genomics, proteomics, metabolomics. Scientists who work in a field that ends with the suffix -omics analyse the totality of something. In the case of metabolomics, it is the totality of all metabolites of a cell or organism. The research groups of Uwe Sauer, professor of Systems Biology at ETH Zurich, and Nicola Zamboni, group leader at the Institute of Molecular Systems Biology, are among the leaders in this field. They have now developed a method by which they can identify the concentration of hundreds of metabolites simultaneously and almost in real time.\n\nThe analysis of all metabolites in one go is not particularly easy since metabolites are a very diverse class of biological substances. “Various sugars, fats, messenger materials and amino acids belong to this group – thus, completely different molecules. Their only similarity is that they are small, at least compared with proteins and RNA molecules that occur on a mass scale in cells,” explains Sauer."
+    },
+    {
+      "heading": "High-throughput metabolomics",
+      "text": "For a long time, the simultaneous measurement of hundreds of metabolites in a fluid – for instance, urine or blood – or in cells was very time consuming. Most biologists used methods in which the substance mixture was first separated by chromatography and then the separated ingredients were identified in a mass spectrometer.\n\nA few years ago Sauer, Zamboni and their colleagues developed a method that made chromatographic separation unnecessary. “We can now analyse a sample directly in a mass spectrometer and filter out information about the ingredients from a huge amount of data using a software that we developed,” says Sauer. Identification of 300 to 800 different metabolites in a sample takes only a minute, which means that analysis of thousands of samples in one day – previously only a dream – has now become a reality."
+    },
+    {
+      "heading": "Helpful in the development of medication",
+      "text": "“The success of this high-throughput measurement method brought us to the idea of real-time measurements,” says Sauer. This is helpful because metabolism responds very quickly to stimulus changes: “If, for example, you shine a light on a plant in the dark, the concentrations of its metabolites change in just a few seconds.” The precise timing of a concentration change in response to new stimuli is important and meaningful information in biology.\n\nThe ETH scientists implemented their real-time measurement idea by using different cells in a culture: two bacterial species, a yeast species and mice cells. The researchers let the cells grow in a growth medium directly next to a measuring instrument. An automatic pump system extracted a tiny amount from the cell culture every 10 seconds in order to analyse it in the instrument."
+    },
+    {
+      "heading": "Bacteria on stand-by",
+      "text": "The researchers not only managed to prove that, in principle, such on-line measurements are possible with all types of cell cultures; thanks to their technology, they also gained new insights into how E. coli bacteria switch from a ‘stand-by’ mode into a growth phase. They let the bacteria starve for two hours by keeping them in the growth medium without sugar. As a consequence the bacteria switch to the ‘stand-by’ programme by stopping production of most metabolites and breaking down the existing ones in order to gain energy for survival. Following this starvation phase, the scientists again provided the bacteria with sugar. Within one minute, the cells resumed production of metabolites in order to grow and divide.\n\nHowever, the scientists were baffled by the behaviour of 10 of the nearly 300 metabolites studied, which behaved differently from the majority: their concentration increased during the starvation phase and decreased during the optimal supply phase. The researchers believe that these are key metabolites that influence the extremely fast switch of the overall metabolism between the two phases. These 10 metabolites are eight specific amino acids – the building blocks of proteins – and two molecules, from which the cells produce DNA and RNA building blocks. And they have one thing in common: the cells have to expend a large amount of energy to produce them. “We assume that the cells do not break down such valuable building blocks during the starvation phase, but instead save them to have the best possible starting conditions for the subsequent growth phase,” says Sauer.\n\nUsing a systems biological computer model, the scientists were able to show how the regulation works: the 10 metabolites saved during the starvation phase prevent the cells from producing more of them at the beginning of the growth phase by means of a feedback mechanism. As a result, the cells do not waste energy in the expensive construction of the 10 metabolites, but put their resources entirely into the synthesis of the other molecules.\n\nSauer is currently making the new real-time method known to the scientific community. “It is a very useful method to get a first overview of how cells react to an external stimulus. This makes it suitable for the analysis of all metabolic processes that take place over a period of time of half an hour to several hours,” he says. He sees possible applications not only in basic biological research, but also, for example, in the screening of potential new pharmaceutical agents. This would make it possible to discover how a drug alters metabolism – a method that Sauer’s group now uses for such investigations.\n\nLink H, Fuhrer T, Gerosa L, Zamboni N, Sauer U: Real-time metabolome profiling of the metabolic switch between starvation and growth, Nature Methods, 14 September 2015, doi: 10.1038/nmeth.3584"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "suffix",
+        "label": "NORP",
+        "start": 86,
+        "end": 92
+      },
+      {
+        "text": "Uwe Sauer",
+        "label": "ORG",
+        "start": 248,
+        "end": 257
+      },
+      {
+        "text": "Systems Biology",
+        "label": "ORG",
+        "start": 272,
+        "end": 287
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 291,
+        "end": 301
+      },
+      {
+        "text": "Nicola Zamboni",
+        "label": "ORG",
+        "start": 307,
+        "end": 321
+      },
+      {
+        "text": "the Institute of Molecular Systems Biology",
+        "label": "ORG",
+        "start": 339,
+        "end": 381
+      },
+      {
+        "text": "hundreds",
+        "label": "CARDINAL",
+        "start": 501,
+        "end": 509
+      },
+      {
+        "text": "Sauer",
+        "label": "PERSON",
+        "start": 964,
+        "end": 969
+      },
+      {
+        "text": "hundreds",
+        "label": "CARDINAL",
+        "start": 49,
+        "end": 57
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 218,
+        "end": 223
+      },
+      {
+        "text": "A few years ago",
+        "label": "DATE",
+        "start": 327,
+        "end": 342
+      },
+      {
+        "text": "Sauer",
+        "label": "PERSON",
+        "start": 343,
+        "end": 348
+      },
+      {
+        "text": "Zamboni",
+        "label": "PERSON",
+        "start": 350,
+        "end": 357
+      },
+      {
+        "text": "Sauer",
+        "label": "PERSON",
+        "start": 627,
+        "end": 632
+      },
+      {
+        "text": "only a minute",
+        "label": "TIME",
+        "start": 703,
+        "end": 716
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 747,
+        "end": 756
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 771,
+        "end": 778
+      },
+      {
+        "text": "Sauer",
+        "label": "PERSON",
+        "start": 112,
+        "end": 117
+      },
+      {
+        "text": "just a few seconds",
+        "label": "TIME",
+        "start": 305,
+        "end": 323
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 454,
+        "end": 457
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 553,
+        "end": 556
+      },
+      {
+        "text": "every 10 seconds",
+        "label": "TIME",
+        "start": 774,
+        "end": 790
+      },
+      {
+        "text": "two hours",
+        "label": "TIME",
+        "start": 302,
+        "end": 311
+      },
+      {
+        "text": "one minute",
+        "label": "TIME",
+        "start": 641,
+        "end": 651
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1109,
+        "end": 1112
+      },
+      {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 1146,
+        "end": 1151
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1213,
+        "end": 1216
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1300,
+        "end": 1303
+      },
+      {
+        "text": "Sauer",
+        "label": "PERSON",
+        "start": 1598,
+        "end": 1603
+      },
+      {
+        "text": "Sauer",
+        "label": "ORG",
+        "start": 2049,
+        "end": 2054
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2172,
+        "end": 2177
+      },
+      {
+        "text": "half an hour",
+        "label": "TIME",
+        "start": 2339,
+        "end": 2351
+      },
+      {
+        "text": "Sauer",
+        "label": "ORG",
+        "start": 2614,
+        "end": 2619
+      },
+      {
+        "text": "Fuhrer T",
+        "label": "ORG",
+        "start": 2670,
+        "end": 2678
+      },
+      {
+        "text": "Gerosa L",
+        "label": "PERSON",
+        "start": 2680,
+        "end": 2688
+      },
+      {
+        "text": "Sauer U: Real",
+        "label": "PERSON",
+        "start": 2701,
+        "end": 2714
+      },
+      {
+        "text": "Nature Methods",
+        "label": "PERSON",
+        "start": 2796,
+        "end": 2810
+      },
+      {
+        "text": "14 September 2015",
+        "label": "DATE",
+        "start": 2812,
+        "end": 2829
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2836,
+        "end": 2843
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Gerosa L",
+        "Nature Methods",
+        "Sauer",
+        "Sauer U: Real",
+        "Zamboni"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Fuhrer T",
+        "Nicola Zamboni",
+        "Sauer",
+        "Systems Biology",
+        "Uwe Sauer",
+        "the Institute of Molecular Systems Biology"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "14 September 2015",
+        "A few years ago",
+        "every 10 seconds",
+        "half an hour",
+        "just a few seconds",
+        "one day",
+        "one minute",
+        "only a minute",
+        "two hours"
+      ],
+      "MISC": [
+        "10.1038",
+        "eight",
+        "first",
+        "hundreds",
+        "one",
+        "suffix",
+        "thousands",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Sauer": 7,
+      "two": 3,
+      "hundreds": 2,
+      "first": 2,
+      "suffix": 1,
+      "Uwe Sauer": 1,
+      "Systems Biology": 1,
+      "ETH Zurich": 1,
+      "Nicola Zamboni": 1,
+      "the Institute of Molecular Systems Biology": 1,
+      "A few years ago": 1,
+      "Zamboni": 1,
+      "only a minute": 1,
+      "thousands": 1,
+      "one day": 1,
+      "just a few seconds": 1,
+      "ETH": 1,
+      "every 10 seconds": 1,
+      "two hours": 1,
+      "one minute": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "real-time-analysis-of-metabolic-products.md",
+      "title": "En News Events/2015/09/real Time Analysis Of Metabolic Products",
+      "language": "en",
+      "source_path": "en_news_events/2015/09/real-time-analysis-of-metabolic-products.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Gerosa L",
+        "Nature Methods",
+        "Sauer",
+        "Sauer U: Real",
+        "Zamboni"
+      ],
+      "people_with_roles": {
+        "Sauer": [
+          "professor"
+        ],
+        "Zamboni": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "eight",
+        "first",
+        "hundreds",
+        "suffix",
+        "thousands"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Nicola Zamboni",
+        "Link H",
+        "Of Metabolic",
+        "En News",
+        "Uwe Sauer",
+        "Gerosa L",
+        "Systems Biology",
+        "ETH Zurich",
+        "Nature Methods",
+        "Products Genomics",
+        "Fuhrer T",
+        "Time Analysis",
+        "Zamboni N",
+        "The ETH",
+        "Sauer U",
+        "Molecular Systems"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Fuhrer T",
+        "Nicola Zamboni",
+        "Sauer",
+        "Systems Biology",
+        "Uwe Sauer",
+        "the Institute of Molecular Systems Biology"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Sauer",
+        "two",
+        "hundreds",
+        "first",
+        "suffix",
+        "Uwe Sauer",
+        "Systems Biology",
+        "ETH Zurich",
+        "Nicola Zamboni",
+        "the Institute of Molecular Systems Biology"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "High-throughput metabolomics",
+          "High-throughput metabolomics",
+          "Helpful in the development of medication",
+          "Bacteria on stand-by"
+        ],
+        "content_length": 5562
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Nicola Zamboni",
+        "2015",
+        "Gerosa L",
+        "Uwe Sauer",
+        "EU",
+        "Zamboni",
+        "Systems Biology",
+        "Nature Methods",
+        "the Institute of Molecular Systems Biology",
+        "Sauer U: Real",
+        "Fuhrer T",
+        "ETH Zurich",
+        "Sauer"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "who",
+        "thousands",
+        "eight",
+        "10.1038",
+        "suffix",
+        "chemistry",
+        "where",
+        "hundreds",
+        "biology",
+        "what",
+        "how",
+        "computer_science",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Sauer_has_role_professor",
+        "Zamboni_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

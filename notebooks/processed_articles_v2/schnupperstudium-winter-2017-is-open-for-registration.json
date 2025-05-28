@@ -1,0 +1,236 @@
+{
+  "filename": "schnupperstudium-winter-2017-is-open-for-registration.md",
+  "original_filename": "schnupperstudium-winter-2017-is-open-for-registration.html",
+  "source_path": "en_internal/2017/01/schnupperstudium-winter-2017-is-open-for-registration.html",
+  "date": "2017-01",
+  "title": "Schnupperstudium Winter 2017 Is Open For Registration",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Participants will spend three days on campus at ETH, and will learn to program and write their own Android apps, immerse in different areas of computer science, will attend lectures by ETH lecturers and meet computer science students. They will learn about their career options via a visit to the local industry.\n\nThe upcoming Schnupperstudium will take place on February 13-15th, 2017 on the ETH main Campus. The participation is free. All instruction is in German.\n\nPlease register at: http://www.frauen.inf.ethz.ch/fuer-schuelerinnen/schnupperstudium.html Places are limited.\n\nSchnupperstudium Informatik is organized by CSNOW, the Network of Women in Computer Science. It takes place twice a year, in February and September. Visit the website for more information: http://www.frauen.inf.ethz.ch"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Winter 2017",
+        "label": "DATE",
+        "start": 37,
+        "end": 48
+      },
+      {
+        "text": "three days",
+        "label": "DATE",
+        "start": 24,
+        "end": 34
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 48,
+        "end": 51
+      },
+      {
+        "text": "Android",
+        "label": "PRODUCT",
+        "start": 99,
+        "end": 106
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 185,
+        "end": 188
+      },
+      {
+        "text": "Schnupperstudium",
+        "label": "PERSON",
+        "start": 326,
+        "end": 342
+      },
+      {
+        "text": "February 13-15th",
+        "label": "DATE",
+        "start": 362,
+        "end": 378
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 392,
+        "end": 395
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 458,
+        "end": 464
+      },
+      {
+        "text": "Schnupperstudium Informatik",
+        "label": "PERSON",
+        "start": 577,
+        "end": 604
+      },
+      {
+        "text": "the Network of Women in Computer Science",
+        "label": "ORG",
+        "start": 628,
+        "end": 668
+      },
+      {
+        "text": "February",
+        "label": "DATE",
+        "start": 702,
+        "end": 710
+      },
+      {
+        "text": "September",
+        "label": "DATE",
+        "start": 715,
+        "end": 724
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Schnupperstudium",
+        "Schnupperstudium Informatik"
+      ],
+      "ORG": [
+        "ETH",
+        "the Network of Women in Computer Science"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "February",
+        "February 13-15th",
+        "September",
+        "Winter 2017",
+        "three days"
+      ],
+      "MISC": [
+        "Android",
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "Winter 2017": 1,
+      "three days": 1,
+      "Android": 1,
+      "Schnupperstudium": 1,
+      "February 13-15th": 1,
+      "German": 1,
+      "Schnupperstudium Informatik": 1,
+      "the Network of Women in Computer Science": 1,
+      "February": 1,
+      "September": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "schnupperstudium-winter-2017-is-open-for-registration.md",
+      "title": "En Internal/2017/01/schnupperstudium Winter 2017 Is Open For Registration",
+      "language": "en",
+      "source_path": "en_internal/2017/01/schnupperstudium-winter-2017-is-open-for-registration.html"
+    },
+    "temporal": {
+      "publication_date": "2017-01",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Schnupperstudium",
+        "Schnupperstudium Informatik"
+      ],
+      "people_with_roles": {
+        "Schnupperstudium": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Android",
+        "German"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Schnupperstudium Informatik",
+        "Is Open",
+        "For Registration",
+        "En Internal",
+        "Computer Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "the Network of Women in Computer Science"
+      ],
+      "locations": [],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Winter 2017",
+        "three days",
+        "Android",
+        "Schnupperstudium",
+        "February 13-15th",
+        "German",
+        "Schnupperstudium Informatik",
+        "the Network of Women in Computer Science",
+        "February"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 872
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Schnupperstudium Informatik",
+        "ETH",
+        "2017",
+        "the Network of Women in Computer Science",
+        "Schnupperstudium"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Android",
+        "German",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Schnupperstudium_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

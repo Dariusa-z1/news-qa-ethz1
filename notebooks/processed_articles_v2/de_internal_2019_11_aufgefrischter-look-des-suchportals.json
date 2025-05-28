@@ -1,0 +1,183 @@
+{
+  "filename": "de_internal_2019_11_aufgefrischter-look-des-suchportals.md",
+  "original_filename": "de_internal_2019_11_aufgefrischter-look-des-suchportals.html",
+  "source_path": "de_internal/2019/11/aufgefrischter-look-des-suchportals.html",
+  "date": "2019-11",
+  "title": "Aufgefrischter Look Des Suchportals",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das Suchfeld befindet sich in allen Ansichten und unabhängig von der Grösse Ihres Endgerätes im Zentrum der Seite. Gleich geblieben ist die breite Palette an Medien, die Sie mit nur einer Suche durchstöbern. Seien dies Bücher aus dem NEBIS-Bibliothekskatalog, digitalisierte Bilder und Zeitschriften aus den Beständen der ETH-Bibliothek, Karten, Videos oder auch Druckgrafiken und Informationen zu Baumaterialien und Werkstoffen. Entdecken Sie das umfassende Ressourcenangebot der ETH-Bibliothek.\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/11/aufgefrischter Look",
+        "label": "LOC",
+        "start": 0,
+        "end": 39
+      },
+      {
+        "text": "Suchportals",
+        "label": "LOC",
+        "start": 44,
+        "end": 55
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 96,
+        "end": 103
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 322,
+        "end": 336
+      },
+      {
+        "text": "Videos",
+        "label": "MISC",
+        "start": 346,
+        "end": 352
+      },
+      {
+        "text": "Ressourcenangebot",
+        "label": "MISC",
+        "start": 459,
+        "end": 476
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 481,
+        "end": 495
+      },
+      {
+        "text": "GewusstWie",
+        "label": "MISC",
+        "start": 497,
+        "end": 507
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 546,
+        "end": 560
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Zentrum"
+      ],
+      "LOCATION": [
+        "De Internal/2019/11/aufgefrischter Look",
+        "Suchportals"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "GewusstWie",
+        "Ressourcenangebot",
+        "Videos"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 3,
+      "De Internal/2019/11/aufgefrischter Look": 1,
+      "Suchportals": 1,
+      "Zentrum": 1,
+      "Videos": 1,
+      "Ressourcenangebot": 1,
+      "GewusstWie": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_11_aufgefrischter-look-des-suchportals.md",
+      "title": "De Internal/2019/11/aufgefrischter Look des Suchportals",
+      "language": "de",
+      "source_path": "de_internal/2019/11/aufgefrischter-look-des-suchportals.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "GewusstWie",
+        "Ressourcenangebot",
+        "Videos"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "NEBIS-Bibliothekskatalog",
+        "Die Infrastruktur",
+        "De Internal",
+        "Suchportals Das",
+        "Entdecken Sie",
+        "Ihrem Ziel"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Zentrum"
+      ],
+      "locations": [
+        "De Internal/2019/11/aufgefrischter Look",
+        "Suchportals"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2019/11/aufgefrischter Look",
+        "Suchportals",
+        "Zentrum",
+        "Videos",
+        "Ressourcenangebot",
+        "GewusstWie"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 644
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Zentrum",
+        "2019"
+      ],
+      "semantic_concepts": [
+        "Ressourcenangebot",
+        "GewusstWie",
+        "ETH-Bibliothek",
+        "Videos"
+      ],
+      "graph_relations": []
+    }
+  }
+}

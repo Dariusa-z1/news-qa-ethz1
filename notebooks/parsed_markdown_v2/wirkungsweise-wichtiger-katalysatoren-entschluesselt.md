@@ -1,0 +1,30 @@
+# wirkungsweise-wichtiger-katalysatoren-entschluesselt.html
+
+**Source:** en_news_events/2020/11/wirkungsweise-wichtiger-katalysatoren-entschluesselt.html
+
+## Surface chemistry plays a decisive role
+
+Hydrogen is a key element for achieving sustainable mobility in the future, especially “green” hydrogen produced by splitting water using renewable power. In fuel cells, hydrogen can be used in chemical reactions to generate electrical energy, which in turn can power electric motors. It is also used in the production of synthetic liquid fuels.
+
+The process of using electricity to split water (electrolysis) involves two reactions that cannot take place independently: the formation of hydrogen at one electrode and oxygen at the other. Chemists call these two partial reactions hydrogen evolution and oxygen evolution. To make the whole process more energy-efficient, scientists are researching the use of new materials that act as catalysts and thus facilitate these partial reactions.
+
+## Surface chemistry plays a decisive role
+
+“By far the biggest challenge in developing catalysts for these two partial reactions is the oxygen evolution reaction,” says Javier Pérez-Ramírez, Professor of Catalysis Engineering at ETH Zurich. An international research team led by the Fritz Haber Institute of the Max Planck Society in Berlin and involving the participation of ETH Zurich has now conducted a study that has yielded fundamentally new insights into catalyst materials for this oxygen evolution reaction. The researchers have been able to show that good catalytic performance is driven chiefly by processes that occur on the surface of the catalyst – and not electrochemical processes.
+
+“We studied a special form of catalysis, namely electrocatalysis, and we found that it obeys the known laws of conventional catalytic reactions,” says Guido Zichittella, a scientist in Pérez-Ramírez’s group. This finding is new because scientists previously thought that electrocatalytic reactions are primarily determined by electrochemical processes.
+
+## Specific catalytic activity
+
+In their study, the researchers used catalysts made from the material most commonly used today by research labs to carry out this reaction: iridium oxide. ETH professor Pérez-Ramírez and his group produced catalysts with varying degrees of activity, replacing different amounts of catalytically active oxygen atoms with catalytically inactive chlorine atoms. These catalysts enabled the researchers to examine the effects of surface chemistry separately from electrochemistry.
+
+This new insight could help in the development of higher-performance electrocatalysts and the search for new, cheaper catalytic materials, paving the way for sustainable, energy-efficient and cost-effective hydrogen production.
+
+This research work was undertaken by researchers from the Fritz Haber Institute of the Max Planck Society, the Technische Universität Berlin, the Max Planck Institute for Chemical Energy Conversion, ETH Zurich and the Istituto officina dei materiali in Trieste.
+
+## Literaturhinweis
+
+Nong HN et al.: Key role of chemistry versus bias in electrocatalytic oxygen evolution. Nature, October 18 2020, doi: 10.1038/s41586-020-2908-2
+
+Fritz Haber Institute press release
+

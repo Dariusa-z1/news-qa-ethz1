@@ -1,0 +1,164 @@
+{
+  "filename": "forschungsdaten-bis-zu-10-gb-pro-datei-publizieren.md",
+  "original_filename": "forschungsdaten-bis-zu-10-gb-pro-datei-publizieren.html",
+  "source_path": "de_internal/2018/08/forschungsdaten-bis-zu-10-gb-pro-datei-publizieren.html",
+  "date": "2018-08",
+  "title": "Forschungsdaten Bis Zu 10 Gb Pro Datei Publizieren",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die bisher gültige maximale Dateigrösse wurde von 2 GB auf 10 GB erhöht. Damit kommt die ETH-Bibliothek einem oft geäusserten Wunsch ihrer Nutzerinnen und Nutzer, auch grössere Dateien zu hinterlegen, nach. Wir arbeiten zudem an einer Lösung für die Publikation von Dateien, die grösser als 10 GB sind.\n\nWeitere Informationen zum Vorbereiten von Daten für den Upload in die Research Collection\n\nDie Research Collection ist die Publikationsplattform der ETH Zürich und beinhaltet den Forschungsoutput ihrer Professuren, Forschungsgruppen und Institute."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/08",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 89,
+        "end": 103
+      },
+      {
+        "text": "Research Collection",
+        "label": "ORG",
+        "start": 373,
+        "end": 392
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 451,
+        "end": 461
+      },
+      {
+        "text": "Forschungsgruppen",
+        "label": "LOC",
+        "start": 517,
+        "end": 534
+      },
+      {
+        "text": "Institute",
+        "label": "LOC",
+        "start": 539,
+        "end": 548
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "Research Collection"
+      ],
+      "LOCATION": [
+        "De Internal/2018/08",
+        "Forschungsgruppen",
+        "Institute"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2018/08": 1,
+      "ETH-Bibliothek": 1,
+      "Research Collection": 1,
+      "ETH Zürich": 1,
+      "Forschungsgruppen": 1,
+      "Institute": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "forschungsdaten-bis-zu-10-gb-pro-datei-publizieren.md",
+      "title": "De Internal/2018/08/forschungsdaten Bis zu 10 Gb Pro Datei Publizieren",
+      "language": "de",
+      "source_path": "de_internal/2018/08/forschungsdaten-bis-zu-10-gb-pro-datei-publizieren.html"
+    },
+    "temporal": {
+      "publication_date": "2018-08",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Datei Publizieren",
+        "Gb Pro",
+        "Die Research",
+        "De Internal",
+        "Research Collection",
+        "Weitere Informationen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Research Collection"
+      ],
+      "locations": [
+        "De Internal/2018/08",
+        "Forschungsgruppen",
+        "Institute"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2018/08",
+        "ETH-Bibliothek",
+        "Research Collection",
+        "ETH Zürich",
+        "Forschungsgruppen",
+        "Institute"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 622
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "2018",
+        "Research Collection"
+      ],
+      "semantic_concepts": [
+        "when",
+        "ETH-Bibliothek",
+        "what"
+      ],
+      "graph_relations": []
+    }
+  }
+}

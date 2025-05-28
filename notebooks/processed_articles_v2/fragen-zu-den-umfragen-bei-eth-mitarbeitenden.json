@@ -1,0 +1,178 @@
+{
+  "filename": "fragen-zu-den-umfragen-bei-eth-mitarbeitenden.md",
+  "original_filename": "fragen-zu-den-umfragen-bei-eth-mitarbeitenden.html",
+  "source_path": "de_internal/2021/03/fragen-zu-den-umfragen-bei-eth-mitarbeitenden.html",
+  "date": "2021-03",
+  "title": "Fragen Zu Den Umfragen Bei Eth Mitarbeitenden",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH-Präsident Joël Mesot hatte sie in einer E-Mail angekündigt: die zwei Umfragen, die innert Wochenfrist lanciert wurden. Am 23. März kam vom Beratungsunternehmen Empiricon eine E-Mail mit dem Link auf die Mitarbeitendenbefragung, gestern Dienstag, 30. März rief das Markt- und Sozialforschungsinstitut gfs-zürich auf, an einer Befragung zur internen Kommunikation teilzunehmen.\n\nDiese zweite E-Mail hat manchenorts Fragen ausgelöst und bei den Informatikdiensten zu Anfragen geführt, ob es sich um eine Phishing-Mail handelt. «Darum handelt es sich nicht», sagt Rainer Borer, Leiter der Hochschulkommunikation, der die zweite E-Mail mitunterzeichnet hat. «In der Umfrage zur internen Kommunikation möchten wir die Bedürfnisse der Mitarbeitenden etwas genauer erheben, als dies in den Fragen der regelmässig stattfindenden Mitarbeitendenbefragung möglich ist», erklärt er.\n\nDas bedeutet: Alle Mitarbeitenden sind aufgerufen, an beiden Umfragen teilzunehmen. Mit ihrem Feedback helfen sie mit, die Arbeitssituation im Allgemeinen und die interne Kommunikation im Besonderen weiterzuentwickeln."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2021/03/fragen",
+        "label": "LOC",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "Eth Mitarbeitenden",
+        "label": "ORG",
+        "start": 47,
+        "end": 65
+      },
+      {
+        "text": "ETH-Präsident",
+        "label": "LOC",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Wochenfrist",
+        "label": "LOC",
+        "start": 94,
+        "end": 105
+      },
+      {
+        "text": "Empiricon",
+        "label": "ORG",
+        "start": 164,
+        "end": 173
+      },
+      {
+        "text": "Rainer Borer",
+        "label": "PER",
+        "start": 563,
+        "end": 575
+      },
+      {
+        "text": "Arbeitssituation im Allgemeinen",
+        "label": "ORG",
+        "start": 996,
+        "end": 1027
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Rainer Borer"
+      ],
+      "ORG": [
+        "Arbeitssituation im Allgemeinen",
+        "Empiricon",
+        "Eth Mitarbeitenden"
+      ],
+      "LOCATION": [
+        "De Internal/2021/03/fragen",
+        "ETH-Präsident",
+        "Wochenfrist"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2021/03/fragen": 1,
+      "Eth Mitarbeitenden": 1,
+      "ETH-Präsident": 1,
+      "Wochenfrist": 1,
+      "Empiricon": 1,
+      "Rainer Borer": 1,
+      "Arbeitssituation im Allgemeinen": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "fragen-zu-den-umfragen-bei-eth-mitarbeitenden.md",
+      "title": "De Internal/2021/03/fragen zu den Umfragen bei Eth Mitarbeitenden",
+      "language": "de",
+      "source_path": "de_internal/2021/03/fragen-zu-den-umfragen-bei-eth-mitarbeitenden.html"
+    },
+    "temporal": {
+      "publication_date": "2021-03",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Rainer Borer"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Alle Mitarbeitenden",
+        "E-Mail",
+        "Eth Mitarbeitenden",
+        "De Internal",
+        "Beratungsunternehmen Empiricon",
+        "Phishing-Mail",
+        "Rainer Borer"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Arbeitssituation im Allgemeinen",
+        "Empiricon",
+        "Eth Mitarbeitenden"
+      ],
+      "locations": [
+        "De Internal/2021/03/fragen",
+        "ETH-Präsident",
+        "Wochenfrist"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2021/03/fragen",
+        "Eth Mitarbeitenden",
+        "ETH-Präsident",
+        "Wochenfrist",
+        "Empiricon",
+        "Rainer Borer",
+        "Arbeitssituation im Allgemeinen"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1159
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Eth Mitarbeitenden",
+        "EU",
+        "Empiricon",
+        "Rainer Borer",
+        "2021",
+        "Arbeitssituation im Allgemeinen"
+      ],
+      "semantic_concepts": [
+        "technology"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

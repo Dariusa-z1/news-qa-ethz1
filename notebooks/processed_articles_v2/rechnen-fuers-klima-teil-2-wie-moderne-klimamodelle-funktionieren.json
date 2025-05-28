@@ -1,0 +1,775 @@
+{
+  "filename": "rechnen-fuers-klima-teil-2-wie-moderne-klimamodelle-funktionieren.md",
+  "original_filename": "rechnen-fuers-klima-teil-2-wie-moderne-klimamodelle-funktionieren.html",
+  "source_path": "de_news_events/2015/10/rechnen-fuers-klima-teil-2-wie-moderne-klimamodelle-funktionieren.html",
+  "date": "2015-10",
+  "title": "Rechnen Fuers Klima Teil 2 Wie Moderne Klimamodelle Funktionieren",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Rechnen auf dreidimensionalen Gittern",
+      "text": "Computersimulationen ermöglichen die tägliche Wettervorhersage und sind enorm wichtig, wenn es darum geht, den Herausforderungen des Klimawandels zu begegnen. Um das Verhalten des Klimasystems verstehen und vorhersagen zu können, konstruieren und nutzen Wissenschaftler komplexe Rechenmodelle, welche die relevanten chemischen und physikalischen Eigenschaften der Erdoberfläche (Land und Ozeane) in vereinfachter Form berücksichtigen. Aber wie funktionieren Klimamodelle genau, und welche Implikationen für die Informatik bringen sie mit sich?"
+    },
+    {
+      "heading": "Rechnen auf dreidimensionalen Gittern",
+      "text": "Ähnlich den frühen Bemühungen von Richardson (siehe Teil 1 dieses Zweiteilers) spannen moderne Klimamodelle ein dreidimensionales Rechengitter über die Erde. Das erlaubt es, die physikalischen Gesetze zu berechnen, welche die Atmosphäre beeinflussen: In jeder Gitterzelle gibt es Werte für Windgeschwindigkeit, Temperatur, Druck, relative Luftfeuchtigkeit und Konzentrationen atmosphärischer Bestandteile (insbesondere Wasserdampf, aber auch andere Gase und Aerosole), die zusammen den aktuellen Zustand der Atmosphäre in diesem Bereich definieren. Je kleiner die Gitterzelle, desto höher ist die Auflösung des Modells. Unter Berücksichtigung der physikalischen Gesetze berechnet ein Computerprogramm dann Schritt für Schritt alle Werte für zukünftige atmosphärische Zustände. Um die Werte in einer bestimmten Zelle zu aktualisieren, benötigt die Software auch Informationen aus den benachbarten Zellen. Solche Programme werden oft als Stencilprogramme bezeichnet [1]. Da die Berechnungszeit und der Speicherbedarf linear mit der Anzahl Gitterzellen wachsen, ist die effiziente parallele Implementierungen von Stencilprogrammen ein wichtiges Forschungsthema des Scalable Parallel Computing Laboratory SPCL . Unter den folgenden Referenzen findet sich eine Einführung zu Klimamodellen sowie eine Tornado-Simulation: [2], [3]."
+    },
+    {
+      "heading": "Millionen von Prozessoren auf Trab halten",
+      "text": "Wenn wir einen Klima- und Wettercode auf einer hochskalierenden Maschine wie dem Piz Daint am Centro Svizzero di Calcolo Scientifico externe Seite CSCS implementieren, müssen wir das Stencilprogramm so parallelisieren, dass es auf Millionen von Verarbeitungselementen ausgeführt werden kann. In Zusammenarbeit mit MeteoSchweiz und dem CSCS hat ein Student am SPCL, Tobias Gysi, eine spezialisierte Programmiersprache entwickelt, die es Meteorologen erlaubt, Stencilprogramme sehr einfach anzupassen, und es Informatikern gleichzeitig ermöglicht, die Ausführung der Programme zu parallelisieren und zu optimieren. Diese domänenspezifische Sprache (DSL, «domain-specific language») trennt so die Arbeit des Meteorologen, der das eigentliche wissenschaftliche Rechenproblem definiert, von jener des Informatikers, der die auszuführende Berechnung optimiert. Solche domänenspezifische Sprachen effizient und automatisch für heterogene Hardware zu optimieren stellt eine wichtige Forschungsaufgabe für die Informatik dar.\n\nEine weiteres Forschungsgebiet ist das Speichern und Verwalten der gewaltigen Datenmengen, die schon während einer einzigen Simulation anfallen. Parameter wie Druck und Windgeschwindigkeit werden für jeden Gitterpunkt und jeden Zeitschritt gespeichert. Man geht davon aus, dass das Datenvolumen in naher Zukunft Exabytes erreichen könnte (10 18 Bytes, das entspricht 1’000’000 1-TB-Festplatten). Dafür sind neue leistungsstarke Techniken für die Datenerzeugung und -verwaltung sowie für Online-Analysen nötig. Diese Herausforderungen gehen MeteoSchweiz, das CSCS und die ETH Zürich in einer Kollaboration an, die der Schweizerische Nationalfonds im Rahmen des Programms Sinergia finanziert. [4]"
+    },
+    {
+      "heading": "Den Klimawandel über den Alpen und Europa modellieren",
+      "text": "Kürzlich wurde eine umfangreiche Simulation des europäischen Sommers fertiggestellt [5], [4]. Sie verwendet ein Rechennetz von 500 x 500 x 60 Gitterpunkten bei einer horizontalen Auflösung von 2,2 km und deckt einen Zeitraum von 30 Jahren ab. Um die damit verbundenen enormen Datenmengen effizient zu verwalten, wurde nur ein kleiner Teil der Ausgabe gespeichert. Dennoch umfasst das Archiv mehr als 120 TB. Die Simulation erfolgte mit einer konventionellen Version des COSMO-Modells und konsumierte über eineinhalb Jahre Rechenzeit auf dem Supercomputer Monte Rosa am CSCS.\n\nAls nächstes wollen wir ähnliche Simulationen mit der GPU-fähigen Version von COSMO durchführen; diesmal aber soll die Modellierung den gesamten europäischen Kontinent mit einem zehnmal grösseren Rechengebiet abdecken (siehe Abbildung und Animation in Teil 1 ). Dabei soll auch eine neuere Hardware-Architektur zum Einsatz kommen (Cray XC30, Piz Daint) [3]. Piz Daint weist eine beachtliche Spitzenleistung von 6 x 10 15 Flop/s (Gleitkommaoperationen pro Sekunde, «floating point operations per second») auf und verfügt über insgesamt 5‘272 Rechenknoten. Da unsere aktuelle Implementierung der COSMO-GPU-Version nur 144 Knoten benötigt (das heisst drei Prozent), ist die geplante Ausdehnung des Rechengebietes ein sehr realistisches Ziel.\n\nMit diesen Berechnungen möchten wir den Wasserzyklus einschliesslich extremer Starkniederschlagsereignisse besser verstehen und vorhersagen. Simulationen im alpinen Raum haben bereits interessante Ergebnisse zu Tage gebracht, die kaum glaubhaft wären, wenn sie auf semi-empirischen Annahmen basieren würden. Die Resultate deuten nämlich darauf hin, dass die durchschnittliche Sommerniederschlagsmenge bis Ende des Jahrhunderts um rund 30 Prozent sinken wird, während die Häufigkeit heftiger Gewitter und Regenschauer erheblich ansteigen wird. Anders gesagt geht man davon aus, dass Extremfälle an beiden Enden des Spektrums, also sowohl Dürren wie auch Sturzfluten, zunehmen werden. Erkenntnisse aus solchen Experimenten können für die Anpassung an den Klimawandel interessant sein: Denn kurzfristige Starkniederschlagsereignisse haben Konsequenzen für die Art und Weise, wie wir Wasservorräte verwalten und uns vor Hochwasser schützen sollten."
+    },
+    {
+      "heading": "Kooperation fördert Klimawissenschaften",
+      "text": "Für die Vorhersage des Wetters und des Klimas sind nicht nur leistungsfähige Computer nötig, es bedarf auch einer engen Zusammenarbeit zwischen den Klimawissenschaften und der Informatik. Heterogene Hardware-Architekturen sind unerlässlich für moderne Simulationen, sie erfordern aber einen grundlegend neuen Ansatz in der Softwareentwicklung. Die aktuelle Version des COSMO-Modells ist das weltweit einzige verfügbare regionale Wetter- und Klimamodell, das vollständig auf GPUs laufen kann. Dieser Fortschritt und die daraus entstandenen Perspektiven sind die Früchte einer engen interdisziplinäre Zusammenarbeit zwischen dem CSCS, MeteoSchweiz, dem C2SM und der Departemente Informatik und Umweltsystemwissenschaften der ETH Zürich.\n\nTorsten Hoefler hat diesen Blogbeitrag zusammen mit Christoph Schär (ETH Zürich) und Oliver Fuhrer (MeteoSchweiz) geschrieben."
+    },
+    {
+      "heading": "Weiterführende Informationen",
+      "text": "[1] externe Seite Stencil code\n\n[2] An introduction to externe Seite climate models\n\n[3] Tornado externe Seite simulation\n\n[4] crCLIM : Convection-resolving climate modeling on future supercomputing platforms. A Sinergia project funded by the SNF.\n\n[5] Ban N., J. Schmidli and C. Schär, 2015: Heavy precipitation in a changing climate: Does short-term summer precipitation increase faster? Geophys. Res. Lett. , 42 (4), 1165–1172 externe Seite doi .\n\n[6] Fuhrer, O., C. Osuna, X. Lapillonne, T. Gysi, B. Cumming, M. Bianco, A. Arteaga and T. C. Schulthess, 2014. Towards a performance portable, architecture agnostic implementation strategy for weather and climate models. Supercomputing Frontiers and Innovations, 1 (1), 45-62\n\nAssistenzprofessor für Informatik, Scalable Parallel Computing Laboratory (SPCL), ETH Zürich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Klimamodelle",
+        "label": "PER",
+        "start": 62,
+        "end": 74
+      },
+      {
+        "text": "Computersimulationen",
+        "label": "PER",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Richardson",
+        "label": "PER",
+        "start": 34,
+        "end": 44
+      },
+      {
+        "text": "Teil 1",
+        "label": "MISC",
+        "start": 52,
+        "end": 58
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 152,
+        "end": 156
+      },
+      {
+        "text": "Scalable Parallel Computing Laboratory SPCL",
+        "label": "MISC",
+        "start": 1162,
+        "end": 1205
+      },
+      {
+        "text": "Tornado-Simulation",
+        "label": "MISC",
+        "start": 1295,
+        "end": 1313
+      },
+      {
+        "text": "Piz Daint am Centro Svizzero di Calcolo Scientifico",
+        "label": "LOC",
+        "start": 81,
+        "end": 132
+      },
+      {
+        "text": "CSCS",
+        "label": "PER",
+        "start": 147,
+        "end": 151
+      },
+      {
+        "text": "MeteoSchweiz",
+        "label": "ORG",
+        "start": 314,
+        "end": 326
+      },
+      {
+        "text": "CSCS",
+        "label": "LOC",
+        "start": 335,
+        "end": 339
+      },
+      {
+        "text": "SPCL",
+        "label": "ORG",
+        "start": 359,
+        "end": 363
+      },
+      {
+        "text": "Tobias Gysi",
+        "label": "PER",
+        "start": 365,
+        "end": 376
+      },
+      {
+        "text": "Meteorologen",
+        "label": "LOC",
+        "start": 436,
+        "end": 448
+      },
+      {
+        "text": "Exabytes",
+        "label": "LOC",
+        "start": 1329,
+        "end": 1337
+      },
+      {
+        "text": "Online-Analysen",
+        "label": "LOC",
+        "start": 1504,
+        "end": 1519
+      },
+      {
+        "text": "MeteoSchweiz",
+        "label": "ORG",
+        "start": 1557,
+        "end": 1569
+      },
+      {
+        "text": "CSCS",
+        "label": "MISC",
+        "start": 1575,
+        "end": 1579
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1588,
+        "end": 1598
+      },
+      {
+        "text": "Schweizerische Nationalfonds",
+        "label": "ORG",
+        "start": 1634,
+        "end": 1662
+      },
+      {
+        "text": "Kürzlich",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "europäischen",
+        "label": "MISC",
+        "start": 48,
+        "end": 60
+      },
+      {
+        "text": "COSMO-Modells",
+        "label": "ORG",
+        "start": 470,
+        "end": 483
+      },
+      {
+        "text": "Supercomputer Monte Rosa",
+        "label": "LOC",
+        "start": 541,
+        "end": 565
+      },
+      {
+        "text": "CSCS",
+        "label": "LOC",
+        "start": 569,
+        "end": 573
+      },
+      {
+        "text": "GPU-fähigen",
+        "label": "MISC",
+        "start": 629,
+        "end": 640
+      },
+      {
+        "text": "COSMO",
+        "label": "MISC",
+        "start": 653,
+        "end": 658
+      },
+      {
+        "text": "europäischen",
+        "label": "MISC",
+        "start": 720,
+        "end": 732
+      },
+      {
+        "text": "Cray XC30",
+        "label": "MISC",
+        "start": 906,
+        "end": 915
+      },
+      {
+        "text": "Piz Daint",
+        "label": "LOC",
+        "start": 917,
+        "end": 926
+      },
+      {
+        "text": "Piz Daint",
+        "label": "LOC",
+        "start": 933,
+        "end": 942
+      },
+      {
+        "text": "COSMO-GPU-Version",
+        "label": "MISC",
+        "start": 1169,
+        "end": 1186
+      },
+      {
+        "text": "Rechengebietes",
+        "label": "ORG",
+        "start": 1270,
+        "end": 1284
+      },
+      {
+        "text": "Spektrums",
+        "label": "LOC",
+        "start": 1928,
+        "end": 1937
+      },
+      {
+        "text": "Heterogene Hardware-Architekturen",
+        "label": "PER",
+        "start": 188,
+        "end": 221
+      },
+      {
+        "text": "COSMO-Modells",
+        "label": "ORG",
+        "start": 369,
+        "end": 382
+      },
+      {
+        "text": "GPUs",
+        "label": "MISC",
+        "start": 474,
+        "end": 478
+      },
+      {
+        "text": "CSCS",
+        "label": "LOC",
+        "start": 627,
+        "end": 631
+      },
+      {
+        "text": "MeteoSchweiz",
+        "label": "ORG",
+        "start": 633,
+        "end": 645
+      },
+      {
+        "text": "C2SM",
+        "label": "MISC",
+        "start": 651,
+        "end": 655
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 723,
+        "end": 733
+      },
+      {
+        "text": "Hoefler",
+        "label": "PER",
+        "start": 743,
+        "end": 750
+      },
+      {
+        "text": "Christoph Schär",
+        "label": "PER",
+        "start": 787,
+        "end": 802
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 804,
+        "end": 814
+      },
+      {
+        "text": "Oliver Fuhrer",
+        "label": "PER",
+        "start": 820,
+        "end": 833
+      },
+      {
+        "text": "MeteoSchweiz",
+        "label": "ORG",
+        "start": 835,
+        "end": 847
+      },
+      {
+        "text": "Stencil code",
+        "label": "PER",
+        "start": 18,
+        "end": 30
+      },
+      {
+        "text": "An introduction to externe",
+        "label": "MISC",
+        "start": 35,
+        "end": 61
+      },
+      {
+        "text": "Tornado",
+        "label": "MISC",
+        "start": 87,
+        "end": 94
+      },
+      {
+        "text": "crCLIM",
+        "label": "ORG",
+        "start": 124,
+        "end": 130
+      },
+      {
+        "text": "A Sinergia",
+        "label": "MISC",
+        "start": 207,
+        "end": 217
+      },
+      {
+        "text": "Ban N.",
+        "label": "PER",
+        "start": 249,
+        "end": 255
+      },
+      {
+        "text": "J. Schmidli and C. Schär",
+        "label": "MISC",
+        "start": 257,
+        "end": 281
+      },
+      {
+        "text": "Heavy",
+        "label": "ORG",
+        "start": 289,
+        "end": 294
+      },
+      {
+        "text": "Does",
+        "label": "PER",
+        "start": 332,
+        "end": 336
+      },
+      {
+        "text": "O.",
+        "label": "PER",
+        "start": 458,
+        "end": 460
+      },
+      {
+        "text": "C. Osuna",
+        "label": "PER",
+        "start": 462,
+        "end": 470
+      },
+      {
+        "text": "X. Lapillonne",
+        "label": "PER",
+        "start": 472,
+        "end": 485
+      },
+      {
+        "text": "T. Gysi",
+        "label": "PER",
+        "start": 487,
+        "end": 494
+      },
+      {
+        "text": "B. Cumming",
+        "label": "PER",
+        "start": 496,
+        "end": 506
+      },
+      {
+        "text": "M. Bianco",
+        "label": "ORG",
+        "start": 508,
+        "end": 517
+      },
+      {
+        "text": "A. Arteaga and T. C. Schulthess",
+        "label": "MISC",
+        "start": 519,
+        "end": 550
+      },
+      {
+        "text": "Supercomputing Frontiers and Innovations",
+        "label": "ORG",
+        "start": 668,
+        "end": 708
+      },
+      {
+        "text": "SPCL",
+        "label": "ORG",
+        "start": 798,
+        "end": 802
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 805,
+        "end": 815
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "B. Cumming",
+        "Ban N.",
+        "C. Osuna",
+        "CSCS",
+        "Christoph Schär",
+        "Computersimulationen",
+        "De News",
+        "Does",
+        "Heterogene Hardware-Architekturen",
+        "Hoefler",
+        "Klimamodelle",
+        "O.",
+        "Oliver Fuhrer",
+        "Richardson",
+        "Stencil code",
+        "T. Gysi",
+        "Tobias Gysi",
+        "X. Lapillonne"
+      ],
+      "ORG": [
+        "COSMO-Modells",
+        "ETH Zürich",
+        "Heavy",
+        "M. Bianco",
+        "MeteoSchweiz",
+        "Rechengebietes",
+        "SPCL",
+        "Schweizerische Nationalfonds",
+        "Supercomputing Frontiers and Innovations",
+        "crCLIM"
+      ],
+      "LOCATION": [
+        "CSCS",
+        "Erde",
+        "Exabytes",
+        "Kürzlich",
+        "Meteorologen",
+        "Online-Analysen",
+        "Piz Daint",
+        "Piz Daint am Centro Svizzero di Calcolo Scientifico",
+        "Spektrums",
+        "Supercomputer Monte Rosa"
+      ],
+      "DATE": [],
+      "MISC": [
+        "A Sinergia",
+        "A. Arteaga and T. C. Schulthess",
+        "An introduction to externe",
+        "C2SM",
+        "COSMO",
+        "COSMO-GPU-Version",
+        "CSCS",
+        "Cray XC30",
+        "GPU-fähigen",
+        "GPUs",
+        "J. Schmidli and C. Schär",
+        "Scalable Parallel Computing Laboratory SPCL",
+        "Teil 1",
+        "Tornado",
+        "Tornado-Simulation",
+        "europäischen"
+      ]
+    },
+    "entity_counts": {
+      "CSCS": 5,
+      "MeteoSchweiz": 4,
+      "ETH Zürich": 4,
+      "SPCL": 2,
+      "europäischen": 2,
+      "COSMO-Modells": 2,
+      "Piz Daint": 2,
+      "De News": 1,
+      "Klimamodelle": 1,
+      "Computersimulationen": 1,
+      "Richardson": 1,
+      "Teil 1": 1,
+      "Erde": 1,
+      "Scalable Parallel Computing Laboratory SPCL": 1,
+      "Tornado-Simulation": 1,
+      "Piz Daint am Centro Svizzero di Calcolo Scientifico": 1,
+      "Tobias Gysi": 1,
+      "Meteorologen": 1,
+      "Exabytes": 1,
+      "Online-Analysen": 1
+    },
+    "total_entities": 66,
+    "unique_entities": 52
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "rechnen-fuers-klima-teil-2-wie-moderne-klimamodelle-funktionieren.md",
+      "title": "De News Events/2015/10/rechnen Fuers Klima Teil 2 Wie Moderne Klimamodelle Funktionieren",
+      "language": "de",
+      "source_path": "de_news_events/2015/10/rechnen-fuers-klima-teil-2-wie-moderne-klimamodelle-funktionieren.html"
+    },
+    "temporal": {
+      "publication_date": "2015-10",
+      "mentioned_years": [
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "B. Cumming",
+        "Ban N.",
+        "C. Osuna",
+        "CSCS",
+        "Christoph Schär",
+        "Computersimulationen",
+        "De News",
+        "Does",
+        "Heterogene Hardware-Architekturen",
+        "Hoefler",
+        "Klimamodelle",
+        "O.",
+        "Oliver Fuhrer",
+        "Richardson",
+        "Stencil code",
+        "T. Gysi",
+        "Tobias Gysi",
+        "X. Lapillonne"
+      ],
+      "people_with_roles": {
+        "CSCS": [
+          "student"
+        ],
+        "Tobias Gysi": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "A Sinergia",
+        "A. Arteaga and T. C. Schulthess",
+        "An introduction to externe",
+        "C2SM",
+        "COSMO",
+        "COSMO-GPU-Version",
+        "CSCS",
+        "Cray XC30",
+        "GPU-fähigen",
+        "GPUs",
+        "J. Schmidli and C. Schär",
+        "Scalable Parallel Computing Laboratory SPCL",
+        "Teil 1",
+        "Tornado",
+        "Tornado-Simulation",
+        "europäischen"
+      ],
+      "grants_funding": [
+        "ERC",
+        "SNF",
+        "EU",
+        "Horizon"
+      ],
+      "projects": [
+        "Heterogene Hardware",
+        "COSMO-GPU",
+        "Tornado-Simulation",
+        "Zukunft Exabytes",
+        "Piz Daint",
+        "Solche Programme",
+        "Diese Herausforderungen",
+        "Die Resultate",
+        "Departemente Informatik",
+        "Die Simulation",
+        "Programms Sinergia",
+        "Ban N",
+        "Scalable Parallel",
+        "In Zusammenarbeit",
+        "Tobias Gysi",
+        "Schweizerische Nationalfonds",
+        "Hardware-Architektur",
+        "Calcolo Scientifico",
+        "Oliver Fuhrer",
+        "Seite Stencil",
+        "Online-Analysen",
+        "Supercomputer Monte",
+        "TB-Festplatten",
+        "Jahre Rechenzeit",
+        "Fuers Klima",
+        "COSMO-Modells",
+        "Supercomputing Frontiers",
+        "Klimamodelle Funktionieren",
+        "Seite CSCS",
+        "Centro Svizzero",
+        "Dieser Fortschritt",
+        "Anzahl Gitterzellen",
+        "De News",
+        "Torsten Hoefler",
+        "A Sinergia",
+        "Wie Moderne",
+        "Computing Laboratory"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COSMO-Modells",
+        "ETH Zürich",
+        "Heavy",
+        "M. Bianco",
+        "MeteoSchweiz",
+        "Rechengebietes",
+        "SPCL",
+        "Schweizerische Nationalfonds",
+        "Supercomputing Frontiers and Innovations",
+        "crCLIM"
+      ],
+      "locations": [
+        "CSCS",
+        "Erde",
+        "Exabytes",
+        "Kürzlich",
+        "Meteorologen",
+        "Online-Analysen",
+        "Piz Daint",
+        "Piz Daint am Centro Svizzero di Calcolo Scientifico",
+        "Spektrums",
+        "Supercomputer Monte Rosa"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "CSCS",
+        "MeteoSchweiz",
+        "ETH Zürich",
+        "SPCL",
+        "europäischen",
+        "COSMO-Modells",
+        "Piz Daint",
+        "De News",
+        "Klimamodelle",
+        "Computersimulationen"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Rechnen auf dreidimensionalen Gittern",
+          "Rechnen auf dreidimensionalen Gittern",
+          "Millionen von Prozessoren auf Trab halten",
+          "Den Klimawandel über den Alpen und Europa modellieren",
+          "Kooperation fördert Klimawissenschaften",
+          "Weiterführende Informationen"
+        ],
+        "content_length": 7616
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "crCLIM",
+        "Computersimulationen",
+        "M. Bianco",
+        "Stencil code",
+        "SNF",
+        "Supercomputing Frontiers and Innovations",
+        "Richardson",
+        "T. Gysi",
+        "Christoph Schär",
+        "ERC",
+        "Klimamodelle",
+        "Heavy",
+        "X. Lapillonne",
+        "Tobias Gysi",
+        "B. Cumming",
+        "ETH Zürich",
+        "Rechengebietes",
+        "Schweizerische Nationalfonds",
+        "2014",
+        "O.",
+        "Hoefler",
+        "Oliver Fuhrer",
+        "SPCL",
+        "2015",
+        "EU",
+        "COSMO-Modells",
+        "Heterogene Hardware-Architekturen",
+        "CSCS",
+        "Ban N.",
+        "MeteoSchweiz",
+        "C. Osuna",
+        "De News",
+        "Does",
+        "Horizon"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Scalable Parallel Computing Laboratory SPCL",
+        "Tornado-Simulation",
+        "Teil 1",
+        "when",
+        "An introduction to externe",
+        "C2SM",
+        "A. Arteaga and T. C. Schulthess",
+        "J. Schmidli and C. Schär",
+        "mathematics",
+        "GPU-fähigen",
+        "who",
+        "europäischen",
+        "Tornado",
+        "what",
+        "computer_science",
+        "COSMO-GPU-Version",
+        "CSCS",
+        "Cray XC30",
+        "GPUs",
+        "COSMO",
+        "A Sinergia"
+      ],
+      "graph_relations": [
+        "CSCS_has_role_student",
+        "Tobias Gysi_has_role_student",
+        "research_domain_technology",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "filename": "de_news_events_2020_04_effy-vayena-podcast-covid19.md",
+  "original_filename": "de_news_events_2020_04_effy-vayena-podcast-covid19.html",
+  "source_path": "de_news_events/2020/04/effy-vayena-podcast-covid19.html",
+  "date": "2020-04",
+  "title": "Effy Vayena Podcast Covid19",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Gestern haben sich über 300 Forschende in einem externe Seite offenen Brief dafür ausgesprochen, dass bei der Umsetzung einer digitalen Kontaktverfolgung unbedingt ein «Privacy by Design» Ansatz befolgt werden sollte. Denn auch wenn Apps als notwendiges Mittel gesehen werden, um die Coronavirus-Infektionen einzudämmen, werfen sie gleichzeitig viele ethische Fragen auf. Effy Vayena, Professorin für Bioethik, ist trotzdem weiterhin optimistisch, dass digitale Technologien helfen können, die Ausbreitungsgeschwindigkeit des Virus zu reduzieren. «Wir haben es im Moment mit einer Vielzahl verschiedener Technologien zu tun, die in der Lage sind, unsere Privatsphäre zu schützen und gleichzeitig ihren Zweck zu erfüllen», sagt sie.\n\nAbonnieren Sie den ETH Podcast auf allen gängigen Podcastplattformen oder hören Sie ihn im Web auf der Podcast-Webseite. Dort finden Sie auch frühere Folgen des ETH-Podcast."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "effy Vayena",
+        "label": "PER",
+        "start": 23,
+        "end": 34
+      },
+      {
+        "text": "Coronavirus-Infektionen",
+        "label": "LOC",
+        "start": 284,
+        "end": 307
+      },
+      {
+        "text": "Effy Vayena",
+        "label": "PER",
+        "start": 372,
+        "end": 383
+      },
+      {
+        "text": "Virus",
+        "label": "MISC",
+        "start": 526,
+        "end": 531
+      },
+      {
+        "text": "ETH Podcast",
+        "label": "MISC",
+        "start": 751,
+        "end": 762
+      },
+      {
+        "text": "Podcast-Webseite",
+        "label": "MISC",
+        "start": 835,
+        "end": 851
+      },
+      {
+        "text": "ETH-Podcast",
+        "label": "ORG",
+        "start": 893,
+        "end": 904
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Effy Vayena",
+        "effy Vayena"
+      ],
+      "ORG": [
+        "ETH-Podcast"
+      ],
+      "LOCATION": [
+        "Coronavirus-Infektionen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH Podcast",
+        "Podcast-Webseite",
+        "Virus"
+      ]
+    },
+    "entity_counts": {
+      "De News": 1,
+      "effy Vayena": 1,
+      "Coronavirus-Infektionen": 1,
+      "Effy Vayena": 1,
+      "Virus": 1,
+      "ETH Podcast": 1,
+      "Podcast-Webseite": 1,
+      "ETH-Podcast": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2020_04_effy-vayena-podcast-covid19.md",
+      "title": "De News Events/2020/04/effy Vayena Podcast Covid19",
+      "language": "de",
+      "source_path": "de_news_events/2020/04/effy-vayena-podcast-covid19.html"
+    },
+    "temporal": {
+      "publication_date": "2020-04",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Effy Vayena",
+        "effy Vayena"
+      ],
+      "people_with_roles": {
+        "Effy Vayena": [
+          "professor"
+        ],
+        "effy Vayena": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH Podcast",
+        "Podcast-Webseite",
+        "Virus"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Vayena Podcast",
+        "ETH Podcast",
+        "Coronavirus-Infektionen",
+        "Abonnieren Sie",
+        "De News",
+        "Podcast-Webseite",
+        "Effy Vayena",
+        "ETH-Podcast"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Podcast"
+      ],
+      "locations": [
+        "Coronavirus-Infektionen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De News",
+        "effy Vayena",
+        "Coronavirus-Infektionen",
+        "Effy Vayena",
+        "Virus",
+        "ETH Podcast",
+        "Podcast-Webseite",
+        "ETH-Podcast"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 957
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2020",
+        "De News",
+        "effy Vayena",
+        "Effy Vayena",
+        "ETH-Podcast"
+      ],
+      "semantic_concepts": [
+        "who",
+        "ETH Podcast",
+        "Virus",
+        "Podcast-Webseite"
+      ],
+      "graph_relations": [
+        "Effy Vayena_has_role_professor",
+        "effy Vayena_has_role_professor"
+      ]
+    }
+  }
+}

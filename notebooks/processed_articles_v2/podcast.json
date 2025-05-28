@@ -1,0 +1,205 @@
+{
+  "filename": "podcast.md",
+  "original_filename": "podcast.html",
+  "source_path": "en_news_events/2019/12/podcast.html",
+  "date": "2019-12",
+  "title": "Podcast",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Renana and Roi Poranne are both senior scientists at ETH Zurich: Renana in Chemistry, Roi, in Computer Sciences. But they are not only committed researchers, they are also parents to two little children. In the current episode of the ETH Podcast, Roi and Renana talk about how they manage life between research and family. They tell us their secrets of how to bring everything under one roof and give advice to young researchers thinking about starting a family."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Renana",
+        "label": "GPE",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Roi Poranne",
+        "label": "PERSON",
+        "start": 11,
+        "end": 22
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 53,
+        "end": 63
+      },
+      {
+        "text": "Renana",
+        "label": "GPE",
+        "start": 65,
+        "end": 71
+      },
+      {
+        "text": "Chemistry",
+        "label": "GPE",
+        "start": 75,
+        "end": 84
+      },
+      {
+        "text": "Computer Sciences",
+        "label": "ORG",
+        "start": 94,
+        "end": 111
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 183,
+        "end": 186
+      },
+      {
+        "text": "the ETH Podcast",
+        "label": "ORG",
+        "start": 230,
+        "end": 245
+      },
+      {
+        "text": "Renana",
+        "label": "GPE",
+        "start": 255,
+        "end": 261
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 383,
+        "end": 386
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Roi Poranne"
+      ],
+      "ORG": [
+        "Computer Sciences",
+        "ETH Zurich",
+        "the ETH Podcast"
+      ],
+      "LOCATION": [
+        "Chemistry",
+        "Renana"
+      ],
+      "DATE": [],
+      "MISC": [
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Renana": 3,
+      "Roi Poranne": 1,
+      "ETH Zurich": 1,
+      "Chemistry": 1,
+      "Computer Sciences": 1,
+      "two": 1,
+      "the ETH Podcast": 1,
+      "one": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast.md",
+      "title": "En News Events/2019/12/podcast",
+      "language": "en",
+      "source_path": "en_news_events/2019/12/podcast.html"
+    },
+    "temporal": {
+      "publication_date": "2019-12",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "Roi Poranne"
+      ],
+      "people_with_roles": {
+        "Roi Poranne": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "ETH Podcast",
+        "Computer Sciences",
+        "ETH Zurich",
+        "Roi Poranne"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Computer Sciences",
+        "ETH Zurich",
+        "the ETH Podcast"
+      ],
+      "locations": [
+        "Chemistry",
+        "Renana"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Renana",
+        "Roi Poranne",
+        "ETH Zurich",
+        "Chemistry",
+        "Computer Sciences",
+        "two",
+        "the ETH Podcast",
+        "one"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 493
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "the ETH Podcast",
+        "Computer Sciences",
+        "ETH Zurich",
+        "Roi Poranne"
+      ],
+      "semantic_concepts": [
+        "who",
+        "what",
+        "how"
+      ],
+      "graph_relations": [
+        "Roi Poranne_has_role_scientist"
+      ]
+    }
+  }
+}

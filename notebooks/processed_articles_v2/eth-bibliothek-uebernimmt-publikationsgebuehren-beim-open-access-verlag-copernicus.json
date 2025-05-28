@@ -1,0 +1,169 @@
+{
+  "filename": "eth-bibliothek-uebernimmt-publikationsgebuehren-beim-open-access-verlag-copernicus.md",
+  "original_filename": "eth-bibliothek-uebernimmt-publikationsgebuehren-beim-open-access-verlag-copernicus.html",
+  "source_path": "en_internal/2014/10/eth-bibliothek-uebernimmt-publikationsgebuehren-beim-open-access-verlag-copernicus.html",
+  "date": "2014-10",
+  "title": "Eth Bibliothek Uebernimmt Publikationsgebuehren Beim Open Access Verlag Copernicus",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The condition is that the corresponding author of the article concerned is employed by ETH Zurich.\n\nWhen submitting the manuscript via the online form for the specific Copernicus journal, in the section 'Manuscript Registration' choose ETH Zurich from the drop-down menu.\n\nFor any questions about the new arrangement please contact the E-Publishing Office at ETH-Bibliothek: .\n\nMore information on funding Open-access publisher Copernicus"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Bibliothek Uebernimmt",
+        "label": "PERSON",
+        "start": 24,
+        "end": 45
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 87,
+        "end": 97
+      },
+      {
+        "text": "Copernicus",
+        "label": "ORG",
+        "start": 167,
+        "end": 177
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 235,
+        "end": 245
+      },
+      {
+        "text": "the E-Publishing Office",
+        "label": "ORG",
+        "start": 330,
+        "end": 353
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 357,
+        "end": 371
+      },
+      {
+        "text": "Copernicus",
+        "label": "ORG",
+        "start": 425,
+        "end": 435
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bibliothek Uebernimmt",
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "Copernicus",
+        "ETH-Bibliothek",
+        "the E-Publishing Office"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Copernicus": 2,
+      "Bibliothek Uebernimmt": 1,
+      "the E-Publishing Office": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-bibliothek-uebernimmt-publikationsgebuehren-beim-open-access-verlag-copernicus.md",
+      "title": "En Internal/2014/10/eth Bibliothek Uebernimmt Publikationsgebuehren Beim Open Access Verlag Copernicus",
+      "language": "en",
+      "source_path": "en_internal/2014/10/eth-bibliothek-uebernimmt-publikationsgebuehren-beim-open-access-verlag-copernicus.html"
+    },
+    "temporal": {
+      "publication_date": "2014-10",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bibliothek Uebernimmt",
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "funding"
+      ],
+      "projects": [
+        "Bibliothek Uebernimmt",
+        "Publikationsgebuehren Beim",
+        "ETH-Bibliothek",
+        "Manuscript Registration",
+        "En Internal",
+        "Verlag Copernicus",
+        "ETH Zurich",
+        "Open Access",
+        "E-Publishing"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Copernicus",
+        "ETH-Bibliothek",
+        "the E-Publishing Office"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Copernicus",
+        "Bibliothek Uebernimmt",
+        "the E-Publishing Office",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 541
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the E-Publishing Office",
+        "Bibliothek Uebernimmt",
+        "Copernicus",
+        "ETH-Bibliothek",
+        "funding",
+        "ETH Zurich",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

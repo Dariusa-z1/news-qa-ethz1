@@ -1,0 +1,225 @@
+{
+  "filename": "safely-disposing-of-hazardous-waste.md",
+  "original_filename": "safely-disposing-of-hazardous-waste.html",
+  "source_path": "en_internal/2019/04/safely-disposing-of-hazardous-waste.html",
+  "date": "2019-04",
+  "title": "Safely Disposing Of Hazardous Waste",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Even the tiniest amounts of antibiotics count as hazardous waste",
+      "text": "ETH Zurich is growing. The number of students and staff increased by more than 3,000 people in total between 2015 and 2018. This also means that more chemicals and research materials are being used in the laboratories – and so more waste is being produced. Compared to 2015, around 30 percent more solvents, acids, alkalis and batteries were disposed of in 2018."
+    },
+    {
+      "heading": "Even the tiniest amounts of antibiotics count as hazardous waste",
+      "text": "In addition to the growth of the university, various developments are also contributing to the increase in waste, such as stricter legal requirements. Heat-resistant antibiotics must now also be disposed of as hazardous waste, even in tiny quantities. An additional factor is that the number of materials and technologies that must be specially disposed of is increasing in research. For example, the number of lithium ion accumulators has grown in recent years. Finally, the annual results show that in 2018, there was a focus on the disposal of older chemicals."
+    },
+    {
+      "heading": "Digital records for a complete overview",
+      "text": "This is the background against which the SSHE’s adjustment of the university’s disposal process should be seen. In future, hazardous waste will be recorded electronically at ETH. The goal is to make things easier for both researchers and the responsible employees in the disposal facilities, and to make disposal safer overall. Electronic recording of hazardous waste enables traceability for chemicals and more accurate data collection, as well as providing information about the flow of materials."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "more than 3,000",
+        "label": "CARDINAL",
+        "start": 69,
+        "end": 84
+      },
+      {
+        "text": "between 2015 and 2018",
+        "label": "DATE",
+        "start": 101,
+        "end": 122
+      },
+      {
+        "text": "around 30 percent",
+        "label": "PERCENT",
+        "start": 275,
+        "end": 292
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 449,
+        "end": 461
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 476,
+        "end": 482
+      },
+      {
+        "text": "SSHE",
+        "label": "ORG",
+        "start": 41,
+        "end": 45
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 174,
+        "end": 177
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH",
+        "SSHE"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "annual",
+        "between 2015 and 2018",
+        "recent years"
+      ],
+      "MISC": [
+        "around 30 percent",
+        "more than 3,000"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 1,
+      "more than 3,000": 1,
+      "between 2015 and 2018": 1,
+      "around 30 percent": 1,
+      "recent years": 1,
+      "annual": 1,
+      "SSHE": 1,
+      "ETH": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "safely-disposing-of-hazardous-waste.md",
+      "title": "En Internal/2019/04/safely Disposing Of Hazardous Waste",
+      "language": "en",
+      "source_path": "en_internal/2019/04/safely-disposing-of-hazardous-waste.html"
+    },
+    "temporal": {
+      "publication_date": "2019-04",
+      "mentioned_years": [
+        "2015",
+        "2018",
+        "2019"
+      ],
+      "time_periods": [
+        [
+          "2015",
+          "2018"
+        ]
+      ],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "around 30 percent",
+        "more than 3,000"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Disposing Of",
+        "ETH Zurich",
+        "Hazardous Waste",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "SSHE"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "more than 3,000",
+        "between 2015 and 2018",
+        "around 30 percent",
+        "recent years",
+        "annual",
+        "SSHE",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Even the tiniest amounts of antibiotics count as hazardous waste",
+          "Even the tiniest amounts of antibiotics count as hazardous waste",
+          "Digital records for a complete overview"
+        ],
+        "content_length": 1482
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "2015",
+        "SSHE",
+        "2019",
+        "ETH Zurich",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "around 30 percent",
+        "who",
+        "chemistry",
+        "where",
+        "what",
+        "how",
+        "more than 3,000",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

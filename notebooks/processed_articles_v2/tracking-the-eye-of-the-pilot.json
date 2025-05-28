@@ -1,0 +1,663 @@
+{
+  "filename": "tracking-the-eye-of-the-pilot.md",
+  "original_filename": "tracking-the-eye-of-the-pilot.html",
+  "source_path": "en_news_events/2019/11/tracking-the-eye-of-the-pilot.html",
+  "date": "2019-11",
+  "title": "Tracking The Eye Of The Pilot",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Seeing what the pilot sees",
+      "text": "Anyone who has ever sat in a cockpit will know how mentally challenging it is to pilot an aircraft. During a flight, pilots and copilots have to process an enormous quantity of visual, acoustic and spatial information. Keeping a constant eye on the numerous instruments in the cockpit is a strenuous task, as pilots must check the correct indicators during a manoeuvre – often in a specific order.\n\nThis process of “scanning” the flight systems is something that pilots internalise during their training. But even for experienced instructors, it is hard to judge whether a student pilot is looking at the right instruments at the crucial moment. Now, in collaboration with Swiss International Air Lines, researchers led by ETH Zurich Professor Martin Raubal have used eye-tracking technology for the first time to understand how pilots monitor the automatic systems of a modern passenger aircraft."
+    },
+    {
+      "heading": "Seeing what the pilot sees",
+      "text": "Camera-based eye-tracking technology allows precise monitoring of a person’s eye movements. “Since eye movements allow conclusions to be drawn about a person’s thought processes, Swiss came to us with the idea of using eye-tracking in pilot training,” says Martin Raubal, Professor of Geoinformation Engineering at ETH Zurich.\n\nThe idea developed into a several-year economic partnership involving NASA, Lufthansa Aviation Training and the University of Oregon in addition to ETH Zurich. Here, the common goal was to improve flight simulator training and thereby cockpit safety. Raubal’s team developed software by the name of “iAssyst” that assists flight instructors as they train budding pilots. The researchers recently wrote about their work in the journal Ergonomics ."
+    },
+    {
+      "heading": "Reducing the burden on instructors",
+      "text": "“iAssyst” stands for “Instructor Assistant System”. The program integrates video, audio and simulator recordings while simultaneously displaying the pilots’ gaze patterns. To avoid distracting the pilots, an eye-tracking system consisting of fixed cameras and infrared sensors was specially installed in the cockpit of an A320 flight simulator. “Setting up and calibrating the system for each trainee pilot is more laborious than with eye-tracking glasses, but it provided us with better results,” explains David Rudi, who implemented the application as part of his doctorate at the Chair of Geoinformation Engineering’s Geogaze Lab.\n\nThe ETH Zurich researchers designed their software in close cooperation with aviation experts from the project partners before evaluating it with the help of seven active instructors from Swiss. During a training flight, the instructor sits in the rear of the cockpit, from where they operate the simulator and play the role of flight controller while also keeping a close eye on the pilot. “As a result, instructors sometimes miss – or misjudge – relevant information that is vital for analysing the pilot’s training session,” says Rudi."
+    },
+    {
+      "heading": "One tool – many possibilities",
+      "text": "The feedback from the study showed that iAssyst actually allowed the instructors to analyse the pilots’ flying performance more precisely. “The tool helps us to recognise weaknesses in systematic scanning and to spot gaps in perception during certain phases of flight,” confirms Swiss Air Lines pilot Benedikt Wagner, who is an instructor himself and supervised the eye-tracking project on the part of Swiss. Using the software, trainers were able to assess the causes of potential pilot errors better and adapt the training accordingly."
+    },
+    {
+      "heading": "Focused on individual aims",
+      "text": "This is the first time that a research project has analysed the gaze-based interactions of pilots in a flight simulator. As part of the collaboration, it was important to Raubal’s team to generate a stand-alone scientific benefit, because optimized pilot training was not sufficient for ETH as an aim in itself. “We therefore placed our focus on software development,” says Rudi.\n\nFor Swiss, on the other hand, the project was primarily about the scanning process in the cockpit. Thanks to the eye-tracking system, they were able to study this aspect separately alongside aviation psychologists from Nasa and the University of Oregon. The resulting insights have led to new guidelines for the visual monitoring of automatic flight systems. Lufthansa Aviation Training provided the consortium with technical expertise and the infrastructure in the simulator. Lastly, the Federal Office of Civil Aviation (FOCA) met around 40 percent of the project costs."
+    },
+    {
+      "heading": "One tool – many possibilities",
+      "text": "Raubal and Rudi see an obvious application of iAssyst in the evaluation discussions conducted after training flights in a simulator. In the long term, the program could also be used in real cockpits – although that possibility remains a long way off.\n\nBut aviation isn’t the only research field in which eye tracking can contribute to improving the interactions between users and technical systems. According to Raubal and Rudi, their software could conceivably also be used in medical training, for example, where doctors use simulators to practise performing operations on an artificial body.\n\nRudi D, Kiefer P, & Raubal M. (2019). The Instructor Assistant System (iASSYST) Utilizing Eye Tracking for Aviation Training Purposes . Ergonomics 08 Nov 2019. DOI: 10.1080/00140139.2019.1685132\n\nRudi D, Kiefer P, Giannopoulos I, & Raubal M (2019). Gaze-based interactions in the cockpit of the future: a survey . Journal of Multimodal User Interfaces. 19 July 2019. DOI: 10.1007/s12193-019-00309-8\n\nThe eye of the pilot (News for Industry, 19.04.2018)"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Eye Of The Pilot",
+        "label": "WORK_OF_ART",
+        "start": 32,
+        "end": 52
+      },
+      {
+        "text": "acoustic",
+        "label": "ORG",
+        "start": 185,
+        "end": 193
+      },
+      {
+        "text": "Swiss International Air Lines",
+        "label": "ORG",
+        "start": 672,
+        "end": 701
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 722,
+        "end": 732
+      },
+      {
+        "text": "Martin Raubal",
+        "label": "PERSON",
+        "start": 743,
+        "end": 756
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 799,
+        "end": 804
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 179,
+        "end": 184
+      },
+      {
+        "text": "Martin Raubal",
+        "label": "PERSON",
+        "start": 257,
+        "end": 270
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 315,
+        "end": 325
+      },
+      {
+        "text": "several-year",
+        "label": "DATE",
+        "start": 353,
+        "end": 365
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 397,
+        "end": 401
+      },
+      {
+        "text": "Lufthansa Aviation Training",
+        "label": "ORG",
+        "start": 403,
+        "end": 430
+      },
+      {
+        "text": "the University of Oregon",
+        "label": "ORG",
+        "start": 435,
+        "end": 459
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 475,
+        "end": 485
+      },
+      {
+        "text": "Raubal",
+        "label": "PERSON",
+        "start": 578,
+        "end": 584
+      },
+      {
+        "text": "Ergonomics",
+        "label": "ORG",
+        "start": 761,
+        "end": 771
+      },
+      {
+        "text": "Instructor Assistant System",
+        "label": "WORK_OF_ART",
+        "start": 22,
+        "end": 49
+      },
+      {
+        "text": "A320",
+        "label": "PRODUCT",
+        "start": 322,
+        "end": 326
+      },
+      {
+        "text": "David Rudi",
+        "label": "PERSON",
+        "start": 507,
+        "end": 517
+      },
+      {
+        "text": "the Chair of Geoinformation Engineering’s Geogaze Lab",
+        "label": "FAC",
+        "start": 579,
+        "end": 632
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 638,
+        "end": 648
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 792,
+        "end": 797
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 822,
+        "end": 827
+      },
+      {
+        "text": "Rudi",
+        "label": "PERSON",
+        "start": 1167,
+        "end": 1171
+      },
+      {
+        "text": "iAssyst",
+        "label": "ORG",
+        "start": 40,
+        "end": 47
+      },
+      {
+        "text": "Swiss Air Lines",
+        "label": "ORG",
+        "start": 279,
+        "end": 294
+      },
+      {
+        "text": "Benedikt Wagner",
+        "label": "PERSON",
+        "start": 301,
+        "end": 316
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 402,
+        "end": 407
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 12,
+        "end": 17
+      },
+      {
+        "text": "Raubal",
+        "label": "PERSON",
+        "start": 171,
+        "end": 177
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 287,
+        "end": 290
+      },
+      {
+        "text": "Rudi",
+        "label": "PERSON",
+        "start": 374,
+        "end": 378
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 384,
+        "end": 389
+      },
+      {
+        "text": "Nasa",
+        "label": "ORG",
+        "start": 599,
+        "end": 603
+      },
+      {
+        "text": "the University of Oregon",
+        "label": "ORG",
+        "start": 608,
+        "end": 632
+      },
+      {
+        "text": "Lufthansa Aviation Training",
+        "label": "ORG",
+        "start": 739,
+        "end": 766
+      },
+      {
+        "text": "the Federal Office of Civil Aviation",
+        "label": "ORG",
+        "start": 865,
+        "end": 901
+      },
+      {
+        "text": "around 40 percent",
+        "label": "PERCENT",
+        "start": 913,
+        "end": 930
+      },
+      {
+        "text": "Raubal",
+        "label": "PERSON",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Rudi",
+        "label": "PERSON",
+        "start": 11,
+        "end": 15
+      },
+      {
+        "text": "Raubal",
+        "label": "PERSON",
+        "start": 411,
+        "end": 417
+      },
+      {
+        "text": "Rudi",
+        "label": "PERSON",
+        "start": 422,
+        "end": 426
+      },
+      {
+        "text": "Kiefer P, & Raubal M.",
+        "label": "ORG",
+        "start": 602,
+        "end": 623
+      },
+      {
+        "text": "The Instructor Assistant System",
+        "label": "LAW",
+        "start": 632,
+        "end": 663
+      },
+      {
+        "text": "Ergonomics 08",
+        "label": "LAW",
+        "start": 730,
+        "end": 743
+      },
+      {
+        "text": "10.1080/00140139.2019.1685132",
+        "label": "CARDINAL",
+        "start": 759,
+        "end": 788
+      },
+      {
+        "text": "Kiefer P",
+        "label": "PERSON",
+        "start": 797,
+        "end": 805
+      },
+      {
+        "text": "Giannopoulos I, & Raubal M",
+        "label": "ORG",
+        "start": 807,
+        "end": 833
+      },
+      {
+        "text": "Journal of Multimodal User Interfaces",
+        "label": "ORG",
+        "start": 907,
+        "end": 944
+      },
+      {
+        "text": "19 July 2019",
+        "label": "DATE",
+        "start": 946,
+        "end": 958
+      },
+      {
+        "text": "10.1007/s12193-019-00309-8",
+        "label": "CARDINAL",
+        "start": 965,
+        "end": 991
+      },
+      {
+        "text": "19.04.2018",
+        "label": "DATE",
+        "start": 1033,
+        "end": 1043
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Benedikt Wagner",
+        "David Rudi",
+        "ETH Zurich",
+        "Kiefer P",
+        "Martin Raubal",
+        "Raubal",
+        "Rudi"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Ergonomics",
+        "Giannopoulos I, & Raubal M",
+        "Journal of Multimodal User Interfaces",
+        "Kiefer P, & Raubal M.",
+        "Lufthansa Aviation Training",
+        "NASA",
+        "Nasa",
+        "Swiss Air Lines",
+        "Swiss International Air Lines",
+        "acoustic",
+        "iAssyst",
+        "the Federal Office of Civil Aviation",
+        "the University of Oregon"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "the Chair of Geoinformation Engineering’s Geogaze Lab"
+      ],
+      "DATE": [
+        "19 July 2019",
+        "19.04.2018",
+        "several-year"
+      ],
+      "MISC": [
+        "10.1007/s12193-019-00309-8",
+        "10.1080/00140139.2019.1685132",
+        "A320",
+        "Ergonomics 08",
+        "Instructor Assistant System",
+        "Swiss",
+        "The Eye Of The Pilot",
+        "The Instructor Assistant System",
+        "around 40 percent",
+        "first",
+        "seven"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 4,
+      "Swiss": 4,
+      "Raubal": 4,
+      "Rudi": 4,
+      "Martin Raubal": 2,
+      "first": 2,
+      "Lufthansa Aviation Training": 2,
+      "the University of Oregon": 2,
+      "The Eye Of The Pilot": 1,
+      "acoustic": 1,
+      "Swiss International Air Lines": 1,
+      "several-year": 1,
+      "NASA": 1,
+      "Ergonomics": 1,
+      "Instructor Assistant System": 1,
+      "A320": 1,
+      "David Rudi": 1,
+      "the Chair of Geoinformation Engineering’s Geogaze Lab": 1,
+      "seven": 1,
+      "iAssyst": 1
+    },
+    "total_entities": 52,
+    "unique_entities": 36
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "tracking-the-eye-of-the-pilot.md",
+      "title": "En News Events/2019/11/tracking The Eye Of The Pilot",
+      "language": "en",
+      "source_path": "en_news_events/2019/11/tracking-the-eye-of-the-pilot.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2018",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Benedikt Wagner",
+        "David Rudi",
+        "ETH Zurich",
+        "Kiefer P",
+        "Martin Raubal",
+        "Raubal",
+        "Rudi"
+      ],
+      "people_with_roles": {
+        "David Rudi": [
+          "chair"
+        ],
+        "ETH Zurich": [
+          "researcher",
+          "professor"
+        ],
+        "Martin Raubal": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Raubal": [
+          "researcher",
+          "professor"
+        ],
+        "Rudi": [
+          "chair"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "chair",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10.1007/s12193-019-00309-8",
+        "10.1080/00140139.2019.1685132",
+        "A320",
+        "Ergonomics 08",
+        "Instructor Assistant System",
+        "Swiss",
+        "The Eye Of The Pilot",
+        "The Instructor Assistant System",
+        "around 40 percent",
+        "first",
+        "seven"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Pilot Anyone",
+        "Air Lines",
+        "Kiefer P",
+        "For Swiss",
+        "Giannopoulos I",
+        "Of The",
+        "Martin Raubal",
+        "The ETH",
+        "Instructor Assistant",
+        "Raubal M",
+        "David Rudi",
+        "The Instructor",
+        "Civil Aviation",
+        "Federal Office",
+        "Rudi D",
+        "Utilizing Eye",
+        "Multimodal User",
+        "Aviation Training",
+        "Benedikt Wagner",
+        "Geogaze Lab",
+        "Professor Martin",
+        "The Eye",
+        "Lufthansa Aviation",
+        "En News",
+        "Swiss Air",
+        "Swiss International",
+        "Geoinformation Engineering",
+        "ETH Zurich",
+        "Assistant System"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Ergonomics",
+        "Giannopoulos I, & Raubal M",
+        "Journal of Multimodal User Interfaces",
+        "Kiefer P, & Raubal M.",
+        "Lufthansa Aviation Training",
+        "NASA",
+        "Nasa",
+        "Swiss Air Lines",
+        "Swiss International Air Lines",
+        "acoustic",
+        "iAssyst",
+        "the Federal Office of Civil Aviation",
+        "the University of Oregon"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "the Chair of Geoinformation Engineering’s Geogaze Lab"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Swiss",
+        "Raubal",
+        "Rudi",
+        "Martin Raubal",
+        "first",
+        "Lufthansa Aviation Training",
+        "the University of Oregon",
+        "The Eye Of The Pilot",
+        "acoustic"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Seeing what the pilot sees",
+          "Seeing what the pilot sees",
+          "Reducing the burden on instructors",
+          "One tool – many possibilities",
+          "Focused on individual aims",
+          "One tool – many possibilities"
+        ],
+        "content_length": 5440
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Journal of Multimodal User Interfaces",
+        "Raubal",
+        "the Federal Office of Civil Aviation",
+        "Lufthansa Aviation Training",
+        "iAssyst",
+        "Kiefer P",
+        "ERC",
+        "Ergonomics",
+        "2018",
+        "2019",
+        "NASA",
+        "Martin Raubal",
+        "David Rudi",
+        "Nasa",
+        "Swiss Air Lines",
+        "EU",
+        "Swiss International Air Lines",
+        "Benedikt Wagner",
+        "Giannopoulos I, & Raubal M",
+        "Rudi",
+        "the University of Oregon",
+        "ETH Zurich",
+        "Kiefer P, & Raubal M.",
+        "acoustic"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "seven",
+        "The Eye Of The Pilot",
+        "Ergonomics 08",
+        "when",
+        "engineering",
+        "A320",
+        "The Instructor Assistant System",
+        "10.1080/00140139.2019.1685132",
+        "medical_research",
+        "why",
+        "who",
+        "what",
+        "how",
+        "computer_science",
+        "first",
+        "Swiss",
+        "around 40 percent",
+        "Instructor Assistant System",
+        "10.1007/s12193-019-00309-8",
+        "where"
+      ],
+      "graph_relations": [
+        "David Rudi_has_role_chair",
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_professor",
+        "Martin Raubal_has_role_Professor",
+        "Martin Raubal_has_role_researcher",
+        "Martin Raubal_has_role_professor",
+        "Raubal_has_role_researcher",
+        "Raubal_has_role_professor",
+        "Rudi_has_role_chair",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

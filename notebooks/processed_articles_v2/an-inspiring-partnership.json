@@ -1,0 +1,628 @@
+{
+  "filename": "an-inspiring-partnership.md",
+  "original_filename": "an-inspiring-partnership.html",
+  "source_path": "en_news_events/2017/10/an-inspiring-partnership.html",
+  "date": "2017-10",
+  "title": "An Inspiring Partnership",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH News: Professor Hierold, a symposium will take place tomorrow, Tuesday, at ETH Zurich on the Binnig and Rohrer Nanotechnology Center (BRNC), which is run jointly by ETH Zurich and IBM in Rüschlikon. What is the background to this event? Christofer Hierold: We started talks with IBM about ten years ago to jointly build a new research platform in the field of semiconductor nanotechnology. The result was the BRNC, which opened in Rüschlikon more than six years ago. The centrepiece is a large cleanroom facility, which we share; in addition, there are laboratories and offices for research groups from ETH Zurich and IBM. Empa is also a partner in the BRNC. Now is the ideal time for us to take stock and look to the future.\n\nWhat expectations did you have of the centre back then? At the time, the ETH cleanroom laboratory FIRST was already reaching the limits of its capacity after only five years in operation. Thanks to the partnership with IBM, we were able to build another large cleanroom laboratory under attractive conditions. As the building belongs to IBM and is being rented to ETH Zurich for ten years, we were able to implement the project quickly. Today, it is clear that this calculation has paid off: both partners use the laboratory equally and very intensively.\n\nWhere does the centre stand today? At the time the contract was signed, we agreed on an investment budget of CHF 25 million for equipment of the cleanroom facility, to be borne equally by ETH Zurich and IBM. Over the past few weeks, we have ordered the last equipment with this budget and the cleanroom facility is now fully equipped.\n\nHow many ETH professors are active in the centre? In total, 34 groups with about 170 researchers have access to the cleanroom laboratory. Some use the technologies in the BRNC for specific research questions; others are interested in the development of advanced technologies.\n\nWhat are the most important research topics in the BRNC? We explore a wide range of topics: nanostructured materials and components for quantum information technology, data and energy storage, photonic and plasmonic effects on nanostructured surfaces, nanomechanical resonators and carbon as a functional material for special membranes, nanotubes for novel sensors – the range is diverse.\n\nAnd how are these translated into practical applications? This of course differs from group to group. Some spin-offs have already emerged from research at the BRNC, or they are using the technology platform; for example, ETH spin-offs Battrion, which develops energy storage, and Diramics, which manufactures ultra-low noise transistors, and IBM start-up SwissLitho, which provides thermal processes for nanolithography. There are also a few third-party companies and other institutes that use the BRNC.\n\nHow is the BRNC positioned on the international stage? We are very well positioned internationally. Although we have not installed a standard CMOS process for chip production, as it would not make sense for a research laboratory, we have the most advanced unit processes, such as 3D nanoprinting and chemical vapour deposition for 2D crystals. However, we must be careful to maintain our position. Other universities and institutes – for example, in China and the US – are currently investing in new technology platforms. The BRNC was opened ten years after FIRST and has been in operation for six years now. We therefore should urgently clarify our needs for the time in five or ten years.\n\nHow do you see the future? In the longer term, we will need cleanrooms and laboratories that can do more than they do today; for example, where a wide variety of materials can be combined, including functional polymers and biological materials, which are not well tolerated in cleanrooms today. Some processes and analysis tools also require a particularly low noise environment; i.e. shielding from mechanical, acoustic and electromagnetic interference in order to achieve control on an atomic scale. We have also found that it is a bit short-term to plan a cleanroom facility of a fixed size; possible extensions should be taken into account from the beginning.\n\nChristofer Hierold is a Professor of Micro and Nanosystems at the Department of Mechanical and Process Engineering. His research focuses on the evaluation of new materials for micro-electromechanical systems and sensors made from carbon nanotubes. He is part of the FIRST lab’s management team and represents ETH Zurich on the BRNC’s management team as coordinator."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Hierold",
+        "label": "PERSON",
+        "start": 20,
+        "end": 27
+      },
+      {
+        "text": "tomorrow, Tuesday",
+        "label": "DATE",
+        "start": 57,
+        "end": 74
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 79,
+        "end": 89
+      },
+      {
+        "text": "Binnig",
+        "label": "ORG",
+        "start": 97,
+        "end": 103
+      },
+      {
+        "text": "Rohrer Nanotechnology Center",
+        "label": "ORG",
+        "start": 108,
+        "end": 136
+      },
+      {
+        "text": "BRNC",
+        "label": "ORG",
+        "start": 138,
+        "end": 142
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 169,
+        "end": 179
+      },
+      {
+        "text": "IBM",
+        "label": "ORG",
+        "start": 184,
+        "end": 187
+      },
+      {
+        "text": "Rüschlikon",
+        "label": "ORG",
+        "start": 191,
+        "end": 201
+      },
+      {
+        "text": "Christofer Hierold",
+        "label": "PERSON",
+        "start": 241,
+        "end": 259
+      },
+      {
+        "text": "IBM",
+        "label": "ORG",
+        "start": 283,
+        "end": 286
+      },
+      {
+        "text": "about ten years ago",
+        "label": "DATE",
+        "start": 287,
+        "end": 306
+      },
+      {
+        "text": "BRNC",
+        "label": "ORG",
+        "start": 413,
+        "end": 417
+      },
+      {
+        "text": "Rüschlikon",
+        "label": "NORP",
+        "start": 435,
+        "end": 445
+      },
+      {
+        "text": "more than six years ago",
+        "label": "DATE",
+        "start": 446,
+        "end": 469
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 607,
+        "end": 617
+      },
+      {
+        "text": "IBM",
+        "label": "ORG",
+        "start": 622,
+        "end": 625
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 627,
+        "end": 631
+      },
+      {
+        "text": "BRNC",
+        "label": "ORG",
+        "start": 657,
+        "end": 661
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 803,
+        "end": 806
+      },
+      {
+        "text": "only five years",
+        "label": "DATE",
+        "start": 888,
+        "end": 903
+      },
+      {
+        "text": "IBM",
+        "label": "ORG",
+        "start": 949,
+        "end": 952
+      },
+      {
+        "text": "IBM",
+        "label": "ORG",
+        "start": 1067,
+        "end": 1070
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1094,
+        "end": 1104
+      },
+      {
+        "text": "ten years",
+        "label": "DATE",
+        "start": 1109,
+        "end": 1118
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 1167,
+        "end": 1172
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1313,
+        "end": 1318
+      },
+      {
+        "text": "25 million",
+        "label": "CARDINAL",
+        "start": 1398,
+        "end": 1408
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1473,
+        "end": 1483
+      },
+      {
+        "text": "IBM",
+        "label": "ORG",
+        "start": 1488,
+        "end": 1491
+      },
+      {
+        "text": "the past few weeks",
+        "label": "DATE",
+        "start": 1498,
+        "end": 1516
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1629,
+        "end": 1632
+      },
+      {
+        "text": "about 170",
+        "label": "CARDINAL",
+        "start": 1695,
+        "end": 1704
+      },
+      {
+        "text": "BRNC",
+        "label": "ORG",
+        "start": 1791,
+        "end": 1795
+      },
+      {
+        "text": "BRNC",
+        "label": "ORG",
+        "start": 1947,
+        "end": 1951
+      },
+      {
+        "text": "BRNC",
+        "label": "ORG",
+        "start": 2444,
+        "end": 2448
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2506,
+        "end": 2509
+      },
+      {
+        "text": "Battrion",
+        "label": "ORG",
+        "start": 2520,
+        "end": 2528
+      },
+      {
+        "text": "Diramics",
+        "label": "PERSON",
+        "start": 2565,
+        "end": 2573
+      },
+      {
+        "text": "IBM",
+        "label": "ORG",
+        "start": 2627,
+        "end": 2630
+      },
+      {
+        "text": "SwissLitho",
+        "label": "ORG",
+        "start": 2640,
+        "end": 2650
+      },
+      {
+        "text": "a few",
+        "label": "CARDINAL",
+        "start": 2721,
+        "end": 2726
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 2727,
+        "end": 2732
+      },
+      {
+        "text": "BRNC",
+        "label": "ORG",
+        "start": 2783,
+        "end": 2787
+      },
+      {
+        "text": "BRNC",
+        "label": "ORG",
+        "start": 2800,
+        "end": 2804
+      },
+      {
+        "text": "2D",
+        "label": "CARDINAL",
+        "start": 3120,
+        "end": 3122
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 3239,
+        "end": 3244
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 3253,
+        "end": 3255
+      },
+      {
+        "text": "BRNC",
+        "label": "ORG",
+        "start": 3315,
+        "end": 3319
+      },
+      {
+        "text": "ten years",
+        "label": "DATE",
+        "start": 3331,
+        "end": 3340
+      },
+      {
+        "text": "six years",
+        "label": "DATE",
+        "start": 3383,
+        "end": 3392
+      },
+      {
+        "text": "five or ten years",
+        "label": "DATE",
+        "start": 3461,
+        "end": 3478
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 3598,
+        "end": 3603
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 3768,
+        "end": 3773
+      },
+      {
+        "text": "Christofer Hierold",
+        "label": "PERSON",
+        "start": 4144,
+        "end": 4162
+      },
+      {
+        "text": "Micro",
+        "label": "ORG",
+        "start": 4181,
+        "end": 4186
+      },
+      {
+        "text": "the Department of Mechanical and Process Engineering",
+        "label": "ORG",
+        "start": 4206,
+        "end": 4258
+      },
+      {
+        "text": "FIRST",
+        "label": "ORDINAL",
+        "start": 4410,
+        "end": 4415
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 4453,
+        "end": 4463
+      },
+      {
+        "text": "BRNC",
+        "label": "ORG",
+        "start": 4471,
+        "end": 4475
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christofer Hierold",
+        "Diramics",
+        "ETH Zurich",
+        "Hierold"
+      ],
+      "ORG": [
+        "BRNC",
+        "Battrion",
+        "Binnig",
+        "ETH",
+        "ETH News",
+        "ETH Zurich",
+        "Empa",
+        "IBM",
+        "Micro",
+        "Rohrer Nanotechnology Center",
+        "Rüschlikon",
+        "SwissLitho",
+        "the Department of Mechanical and Process Engineering"
+      ],
+      "LOCATION": [
+        "China",
+        "US"
+      ],
+      "DATE": [
+        "Today",
+        "about ten years ago",
+        "five or ten years",
+        "more than six years ago",
+        "only five years",
+        "six years",
+        "ten years",
+        "the past few weeks",
+        "today",
+        "tomorrow, Tuesday"
+      ],
+      "MISC": [
+        "25 million",
+        "2D",
+        "FIRST",
+        "Rüschlikon",
+        "a few",
+        "about 170",
+        "third"
+      ]
+    },
+    "entity_counts": {
+      "BRNC": 10,
+      "IBM": 7,
+      "ETH Zurich": 6,
+      "ETH": 3,
+      "today": 3,
+      "Rüschlikon": 2,
+      "Christofer Hierold": 2,
+      "ten years": 2,
+      "ETH News": 1,
+      "Hierold": 1,
+      "tomorrow, Tuesday": 1,
+      "Binnig": 1,
+      "Rohrer Nanotechnology Center": 1,
+      "about ten years ago": 1,
+      "more than six years ago": 1,
+      "Empa": 1,
+      "only five years": 1,
+      "Today": 1,
+      "25 million": 1,
+      "the past few weeks": 1
+    },
+    "total_entities": 61,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "an-inspiring-partnership.md",
+      "title": "En News Events/2017/10/an Inspiring Partnership",
+      "language": "en",
+      "source_path": "en_news_events/2017/10/an-inspiring-partnership.html"
+    },
+    "temporal": {
+      "publication_date": "2017-10",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christofer Hierold",
+        "Diramics",
+        "ETH Zurich",
+        "Hierold"
+      ],
+      "people_with_roles": {
+        "Christofer Hierold": [
+          "professor"
+        ],
+        "ETH Zurich": [
+          "professor"
+        ],
+        "Hierold": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "25 million",
+        "FIRST",
+        "Rüschlikon",
+        "a few",
+        "about 170",
+        "third"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "Process Engineering",
+        "Inspiring Partnership",
+        "Rohrer Nanotechnology",
+        "Professor Hierold",
+        "Christofer Hierold",
+        "ETH News",
+        "ETH Zurich",
+        "The BRNC"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Mechanical and Process Engineering"
+      ],
+      "institutions": [
+        "BRNC",
+        "Battrion",
+        "Binnig",
+        "ETH",
+        "ETH News",
+        "ETH Zurich",
+        "Empa",
+        "IBM",
+        "Micro",
+        "Rohrer Nanotechnology Center",
+        "Rüschlikon",
+        "SwissLitho",
+        "the Department of Mechanical and Process Engineering"
+      ],
+      "locations": [
+        "China",
+        "US"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "BRNC",
+        "IBM",
+        "ETH Zurich",
+        "ETH",
+        "today",
+        "Rüschlikon",
+        "Christofer Hierold",
+        "ten years",
+        "ETH News",
+        "Hierold"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 4565
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Rohrer Nanotechnology Center",
+        "Binnig",
+        "Empa",
+        "the Department of Mechanical and Process Engineering",
+        "BRNC",
+        "IBM",
+        "2017",
+        "Rüschlikon",
+        "Christofer Hierold",
+        "Hierold",
+        "Battrion",
+        "ETH Zurich",
+        "ETH News",
+        "Diramics",
+        "SwissLitho",
+        "Micro"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "a few",
+        "third",
+        "25 million",
+        "who",
+        "chemistry",
+        "where",
+        "Rüschlikon",
+        "what",
+        "about 170",
+        "how",
+        "when",
+        "engineering",
+        "FIRST"
+      ],
+      "graph_relations": [
+        "Christofer Hierold_has_role_professor",
+        "ETH Zurich_has_role_professor",
+        "Hierold_has_role_Professor",
+        "Hierold_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "filename": "zugriff-auf-aktuelle-inhalte-aus-zeitschriften-von-oxford-university-press.md",
+  "original_filename": "zugriff-auf-aktuelle-inhalte-aus-zeitschriften-von-oxford-university-press.html",
+  "source_path": "en_internal/2022/04/zugriff-auf-aktuelle-inhalte-aus-zeitschriften-von-oxford-university-press.html",
+  "date": "2022-04",
+  "title": "Zugriff Auf Aktuelle Inhalte Aus Zeitschriften Von Oxford University Press",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Without an existing read & publish agreement with the publisher Oxford University Press (OUP), it is possible that articles which have not been published as open-access articles in the current year 2022 will soon be only available if ordered. Access to articles published by the end of 2021 will continue to work as usual.\n\nTo find open-access articles in OUP journals and those of other publishers more easily, it is best to alternatively use the free browser extensions of www.unpaywall.org , www.openaccessbutton.org as well as LibKey Nomad and Google Scholar, or you can contact the author directly.\n\nThe Consortium of Swiss Academic Libraries negotiated with OUP in accordance with the swissuniversities guidelines . The negotiating parties were unable to agree on the terms for a transformative read & publish licence from 2022.\n\nIt was possible to reach agreements with numerous other publishers that allow members of ETH Zurich to read and publish in their journals without further costs.\n\nAny questions? The will be happy to help. For detailed information on open-access publishing, please visit the information page on APC financing .\n\n#KnowHow – The ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Aktuelle Inhalte Aus Zeitschriften von Oxford University Press",
+        "label": "ORG",
+        "start": 32,
+        "end": 94
+      },
+      {
+        "text": "Oxford University Press",
+        "label": "ORG",
+        "start": 64,
+        "end": 87
+      },
+      {
+        "text": "OUP",
+        "label": "ORG",
+        "start": 89,
+        "end": 92
+      },
+      {
+        "text": "the current year 2022",
+        "label": "DATE",
+        "start": 181,
+        "end": 202
+      },
+      {
+        "text": "the end of 2021",
+        "label": "DATE",
+        "start": 275,
+        "end": 290
+      },
+      {
+        "text": "OUP",
+        "label": "ORG",
+        "start": 355,
+        "end": 358
+      },
+      {
+        "text": "LibKey Nomad",
+        "label": "PERSON",
+        "start": 530,
+        "end": 542
+      },
+      {
+        "text": "Google Scholar",
+        "label": "ORG",
+        "start": 547,
+        "end": 561
+      },
+      {
+        "text": "The Consortium of Swiss Academic Libraries",
+        "label": "ORG",
+        "start": 603,
+        "end": 645
+      },
+      {
+        "text": "OUP",
+        "label": "ORG",
+        "start": 662,
+        "end": 665
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 922,
+        "end": 932
+      },
+      {
+        "text": "APC",
+        "label": "ORG",
+        "start": 1125,
+        "end": 1128
+      },
+      {
+        "text": "KnowHow",
+        "label": "PERSON",
+        "start": 1141,
+        "end": 1148
+      },
+      {
+        "text": "The ETH Library’s",
+        "label": "ORG",
+        "start": 1151,
+        "end": 1168
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "KnowHow",
+        "LibKey Nomad"
+      ],
+      "ORG": [
+        "APC",
+        "Aktuelle Inhalte Aus Zeitschriften von Oxford University Press",
+        "Google Scholar",
+        "OUP",
+        "Oxford University Press",
+        "The Consortium of Swiss Academic Libraries",
+        "The ETH Library’s"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "the current year 2022",
+        "the end of 2021"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "OUP": 3,
+      "Aktuelle Inhalte Aus Zeitschriften von Oxford University Press": 1,
+      "Oxford University Press": 1,
+      "the current year 2022": 1,
+      "the end of 2021": 1,
+      "LibKey Nomad": 1,
+      "Google Scholar": 1,
+      "The Consortium of Swiss Academic Libraries": 1,
+      "ETH Zurich": 1,
+      "APC": 1,
+      "KnowHow": 1,
+      "The ETH Library’s": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "zugriff-auf-aktuelle-inhalte-aus-zeitschriften-von-oxford-university-press.md",
+      "title": "En Internal/2022/04/zugriff auf Aktuelle Inhalte Aus Zeitschriften von Oxford University Press",
+      "language": "en",
+      "source_path": "en_internal/2022/04/zugriff-auf-aktuelle-inhalte-aus-zeitschriften-von-oxford-university-press.html"
+    },
+    "temporal": {
+      "publication_date": "2022-04",
+      "mentioned_years": [
+        "2021",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "KnowHow",
+        "LibKey Nomad"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Aktuelle Inhalte",
+        "Oxford University",
+        "Google Scholar",
+        "LibKey Nomad",
+        "The Consortium",
+        "En Internal",
+        "Press Without",
+        "Swiss Academic",
+        "Aus Zeitschriften",
+        "ETH Zurich",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "APC",
+        "Aktuelle Inhalte Aus Zeitschriften von Oxford University Press",
+        "Google Scholar",
+        "OUP",
+        "Oxford University Press",
+        "The Consortium of Swiss Academic Libraries",
+        "The ETH Library’s"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "OUP",
+        "Aktuelle Inhalte Aus Zeitschriften von Oxford University Press",
+        "Oxford University Press",
+        "the current year 2022",
+        "the end of 2021",
+        "LibKey Nomad",
+        "Google Scholar",
+        "The Consortium of Swiss Academic Libraries",
+        "ETH Zurich",
+        "APC"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1317
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "The Consortium of Swiss Academic Libraries",
+        "Oxford University Press",
+        "Google Scholar",
+        "LibKey Nomad",
+        "OUP",
+        "The ETH Library’s",
+        "2022",
+        "KnowHow",
+        "ETH Zurich",
+        "2021",
+        "APC",
+        "Aktuelle Inhalte Aus Zeitschriften von Oxford University Press"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "how",
+        "engineering",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

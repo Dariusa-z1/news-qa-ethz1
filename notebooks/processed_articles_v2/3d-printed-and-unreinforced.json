@@ -1,0 +1,233 @@
+{
+  "filename": "3d-printed-and-unreinforced.md",
+  "original_filename": "3d-printed-and-unreinforced.html",
+  "source_path": "en_news_events/2021/07/3d-printed-and-unreinforced.html",
+  "date": "2021-07",
+  "title": "3D Printed And Unreinforced",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Millions of new buildings all over the world are being constructed with reinforced concrete, even though this type of construction generates large amounts of CO 2 emissions. The steel used for the reinforcement and the cement for the concrete are especially problematic in this regard. ETH researchers have now presented a way to reduce both, in a real project.\n\nThe Block Research Group teamed up with the Computation and Design Group at Zaha Hadid Architects to build a 12-by-16-metre arched footbridge in a park in Venice – entirely without reinforcement.\n\nUsing an additive process, the construction dubbed “Striatus” was built with concrete blocks that form an arch much like traditional masonry bridges. This compression-only structure allows the forces to travel to the footings, which are tied together on the ground. The dry-assembled construction is stable due to its geometry only.\n\nWhat is completely new is the type of 3D-printed concrete, which the researchers developed together with the company Incremental3D. The concrete is not applied horizontally in the usual way but instead at specific angles such that they are orthogonal to the flow of compressive forces. This keeps the printed layers in the blocks nicely pressed together, without the need for reinforcement or post-tensioning. The special concrete ink for the 3D printer was developed by the company Holcim precisely for this purpose.\n\nETH professor Philippe Block said: “This precise method of 3D concrete printing allows us to combine the principles of traditional vaulted construction with digital concrete fabrication to use material only where it is structurally necessary without producing waste.”\n\nBecause the construction does not need mortar, the blocks can be dismantled, and the bridge reassembled again at a different location. If the construction is no longer needed, the materials can simply be separated and recycled."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 158,
+        "end": 162
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 286,
+        "end": 289
+      },
+      {
+        "text": "The Block Research Group",
+        "label": "ORG",
+        "start": 362,
+        "end": 386
+      },
+      {
+        "text": "the Computation and Design Group",
+        "label": "ORG",
+        "start": 402,
+        "end": 434
+      },
+      {
+        "text": "12-by-16-metre",
+        "label": "QUANTITY",
+        "start": 471,
+        "end": 485
+      },
+      {
+        "text": "Venice",
+        "label": "GPE",
+        "start": 517,
+        "end": 523
+      },
+      {
+        "text": "3D",
+        "label": "ORG",
+        "start": 1334,
+        "end": 1336
+      },
+      {
+        "text": "Holcim",
+        "label": "PERSON",
+        "start": 1374,
+        "end": 1380
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1409,
+        "end": 1412
+      },
+      {
+        "text": "Philippe Block",
+        "label": "PERSON",
+        "start": 1423,
+        "end": 1437
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Holcim",
+        "Philippe Block"
+      ],
+      "ORG": [
+        "3D",
+        "CO 2",
+        "ETH",
+        "The Block Research Group",
+        "the Computation and Design Group"
+      ],
+      "LOCATION": [
+        "Venice"
+      ],
+      "DATE": [],
+      "MISC": [
+        "12-by-16-metre"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "CO 2": 1,
+      "The Block Research Group": 1,
+      "the Computation and Design Group": 1,
+      "12-by-16-metre": 1,
+      "Venice": 1,
+      "3D": 1,
+      "Holcim": 1,
+      "Philippe Block": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "3d-printed-and-unreinforced.md",
+      "title": "En News Events/2021/07/3d Printed And Unreinforced",
+      "language": "en",
+      "source_path": "en_news_events/2021/07/3d-printed-and-unreinforced.html"
+    },
+    "temporal": {
+      "publication_date": "2021-07",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Holcim",
+        "Philippe Block"
+      ],
+      "people_with_roles": {
+        "Philippe Block": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "12-by-16-metre"
+      ],
+      "grants_funding": [
+        "Horizon"
+      ],
+      "projects": [
+        "Zaha Hadid",
+        "Printed And",
+        "The Block",
+        "Unreinforced Millions",
+        "En News",
+        "Research Group",
+        "Philippe Block",
+        "Design Group"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "3D",
+        "CO 2",
+        "ETH",
+        "The Block Research Group",
+        "the Computation and Design Group"
+      ],
+      "locations": [
+        "Venice"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "CO 2",
+        "The Block Research Group",
+        "the Computation and Design Group",
+        "12-by-16-metre",
+        "Venice",
+        "3D",
+        "Holcim",
+        "Philippe Block"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1960
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Holcim",
+        "The Block Research Group",
+        "3D",
+        "Philippe Block",
+        "2021",
+        "the Computation and Design Group",
+        "Horizon",
+        "CO 2"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "12-by-16-metre",
+        "where",
+        "what",
+        "how",
+        "why",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Philippe Block_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

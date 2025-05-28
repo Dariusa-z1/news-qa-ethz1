@@ -1,0 +1,529 @@
+{
+  "filename": "recording-thousands-of-nerve-cell-impulses-at-high-resolution.md",
+  "original_filename": "recording-thousands-of-nerve-cell-impulses-at-high-resolution.html",
+  "source_path": "en_news_events/2020/09/recording-thousands-of-nerve-cell-impulses-at-high-resolution.html",
+  "date": "2020-09",
+  "title": "Recording Thousands Of Nerve Cell Impulses At High Resolution",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Stronger signal required",
+      "text": "For over 15 years, ETH Professor Andreas Hierlemann and his group have been developing microelectrode-array chips that can be used to precisely excite nerve cells in cell cultures and to measure electrical cell activity. These developments make it possible to grow nerve cells in cell-culture dishes and use chips located at the bottom of the dish to examine each individual cell in a connected nerve tissue in detail. Alternative methods for conducting such measurements have some clear limitations. They are either very time-consuming - because contact to each cell has to be individually established - or they require the use of fluorescent dyes, which influence the behaviour of the cells and hence the outcome of the experiments.\n\nNow, researchers from Hierlemann’s group at the Department of Biosystems Science and Engineering of ETH Zurich in Basel, together with Urs Frey and his colleagues from the ETH spin-off MaxWell Biosystems, developed a new generation of microelectrode-array chips. These chips enable detailed recordings of considerably more electrodes than previous systems, which opens up new applications."
+    },
+    {
+      "heading": "Stronger signal required",
+      "text": "As with previous chip generations, the new chips have around 20,000 microelectrodes in an area measuring 2 by 4 millimetres. To ensure that these electrodes pick up the relatively weak nerve impulses, the signals need to be amplified. Examples of weak signals that the scientists want to detect include those of nerve cells, derived from human pluripotent stem cells (iPS cells). These are currently used in many cell-culture disease models. Another reason to significantly amplify the signals is if the researchers want to track nerve impulses in axons (fine, very thin fibrous extensions of a nerve cell).\n\nHowever, high-performance amplification electronics take up space, which is why the previous chip was able to simultaneously amplify and read out signals from only 1,000 of the 20,000 electrodes. Although the 1,000 electrodes could be arbitrarily selected, they had to be determined prior to every measurement. This meant that it was possible to make detailed recordings over only a fraction of the chip area during a measurement."
+    },
+    {
+      "heading": "Background noise reduced",
+      "text": "In the new chip, the amplifiers are smaller, permitting the signals of all 20,000 electrodes to be amplified and measured at the same time. However, the smaller amplifiers have higher noise levels. So, to make sure they capture even the weakest nerve impulses, the researchers included some of the larger and more powerful amplifiers into the new chips and employ a nifty trick: they use these powerful amplifiers to identify the time points, at which nerve impulses occur in the cell culture dish. At these time points, they then can search for signals on the other electrodes, and by taking the average of several successive signals, they can reduce the background noise. This procedure yields a clear image of the signal activity over the entire area being measured.\n\nIn first experiments, which the researchers published in the journal Nature Communications , they demonstrated their method on human iPS-derived neuronal cells as well as on brain sections, retina pieces, cardiac cells and neuronal spheroids."
+    },
+    {
+      "heading": "Application in drug development",
+      "text": "With the new chip, the scientists can produce electrical images of not only the cells but also the extension of their axons, and they can determine how fast a nerve impulse is transmitted to the farthest reaches of the axons. “The previous generations of microelectrode array chips let us measure up to 50 nerve cells. With the new chip, we can perform detailed measurements of more than 1,000 cells in a culture all at once,” Hierlemann says.\n\nSuch comprehensive measurements are suitable for testing the effects of drugs, meaning that scientists can now conduct research and experiments with human cell cultures instead of relying on lab animals. The technology thus also helps to reduce the number of animal experiments.\n\nThe ETH spin-off MaxWell Biosystems is already marketing the existing microelectrode technology, which is now in use around the world by over a hundred research groups at universities and in industry. At present, the company is looking into a potential commercialisation of the new chip.\n\nYuan X, Schröter M, Obien MEJ, Fiscella M, Gong W, Kikuchi T, Odawara A, Noji S, Suzuki I, Takahashi J, Hierlemann A, Frey U: Versatile live-cell activity analysis platform for characterization of neuronal dynamics at single-cell and network level, Nature Communications, 25 September 2020, doi: 10.1038/s41467-020-18620-4"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Thousands",
+        "label": "CARDINAL",
+        "start": 33,
+        "end": 42
+      },
+      {
+        "text": "over 15 years",
+        "label": "DATE",
+        "start": 4,
+        "end": 17
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "Andreas Hierlemann",
+        "label": "PERSON",
+        "start": 33,
+        "end": 51
+      },
+      {
+        "text": "Hierlemann’s",
+        "label": "ORG",
+        "start": 757,
+        "end": 769
+      },
+      {
+        "text": "the Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 779,
+        "end": 831
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 835,
+        "end": 845
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 849,
+        "end": 854
+      },
+      {
+        "text": "Urs Frey",
+        "label": "ORG",
+        "start": 870,
+        "end": 878
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 907,
+        "end": 910
+      },
+      {
+        "text": "MaxWell Biosystems",
+        "label": "ORG",
+        "start": 920,
+        "end": 938
+      },
+      {
+        "text": "around 20,000",
+        "label": "CARDINAL",
+        "start": 54,
+        "end": 67
+      },
+      {
+        "text": "4 millimetres",
+        "label": "QUANTITY",
+        "start": 110,
+        "end": 123
+      },
+      {
+        "text": "only 1,000",
+        "label": "CARDINAL",
+        "start": 767,
+        "end": 777
+      },
+      {
+        "text": "20,000",
+        "label": "CARDINAL",
+        "start": 785,
+        "end": 791
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 817,
+        "end": 822
+      },
+      {
+        "text": "20,000",
+        "label": "CARDINAL",
+        "start": 75,
+        "end": 81
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 773,
+        "end": 778
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 839,
+        "end": 860
+      },
+      {
+        "text": "more than 1,000",
+        "label": "CARDINAL",
+        "start": 378,
+        "end": 393
+      },
+      {
+        "text": "Hierlemann",
+        "label": "ORG",
+        "start": 427,
+        "end": 437
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 727,
+        "end": 730
+      },
+      {
+        "text": "MaxWell Biosystems",
+        "label": "ORG",
+        "start": 740,
+        "end": 758
+      },
+      {
+        "text": "over a hundred",
+        "label": "CARDINAL",
+        "start": 860,
+        "end": 874
+      },
+      {
+        "text": "Yuan X",
+        "label": "PERSON",
+        "start": 1011,
+        "end": 1017
+      },
+      {
+        "text": "Schröter M",
+        "label": "PERSON",
+        "start": 1019,
+        "end": 1029
+      },
+      {
+        "text": "Obien MEJ",
+        "label": "PERSON",
+        "start": 1031,
+        "end": 1040
+      },
+      {
+        "text": "Fiscella M",
+        "label": "ORG",
+        "start": 1042,
+        "end": 1052
+      },
+      {
+        "text": "Kikuchi",
+        "label": "GPE",
+        "start": 1062,
+        "end": 1069
+      },
+      {
+        "text": "Odawara A",
+        "label": "PERSON",
+        "start": 1073,
+        "end": 1082
+      },
+      {
+        "text": "Noji S",
+        "label": "PERSON",
+        "start": 1084,
+        "end": 1090
+      },
+      {
+        "text": "Suzuki",
+        "label": "PERSON",
+        "start": 1092,
+        "end": 1098
+      },
+      {
+        "text": "Takahashi J",
+        "label": "PERSON",
+        "start": 1102,
+        "end": 1113
+      },
+      {
+        "text": "Frey U:",
+        "label": "PERSON",
+        "start": 1129,
+        "end": 1136
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1260,
+        "end": 1281
+      },
+      {
+        "text": "September 2020",
+        "label": "DATE",
+        "start": 1286,
+        "end": 1300
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1307,
+        "end": 1314
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andreas Hierlemann",
+        "ETH Zurich",
+        "Frey U:",
+        "Noji S",
+        "Obien MEJ",
+        "Odawara A",
+        "Schröter M",
+        "Suzuki",
+        "Takahashi J",
+        "Yuan X"
+      ],
+      "ORG": [
+        "ETH",
+        "En News",
+        "Fiscella M",
+        "Hierlemann",
+        "Hierlemann’s",
+        "MaxWell Biosystems",
+        "Nature Communications",
+        "Urs Frey",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "LOCATION": [
+        "Basel",
+        "Kikuchi"
+      ],
+      "DATE": [
+        "September 2020",
+        "over 15 years"
+      ],
+      "MISC": [
+        "1,000",
+        "10.1038",
+        "20,000",
+        "4 millimetres",
+        "Thousands",
+        "around 20,000",
+        "first",
+        "more than 1,000",
+        "only 1,000",
+        "over a hundred"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "MaxWell Biosystems": 2,
+      "20,000": 2,
+      "Nature Communications": 2,
+      "En News": 1,
+      "Thousands": 1,
+      "over 15 years": 1,
+      "Andreas Hierlemann": 1,
+      "Hierlemann’s": 1,
+      "the Department of Biosystems Science and Engineering": 1,
+      "ETH Zurich": 1,
+      "Basel": 1,
+      "Urs Frey": 1,
+      "around 20,000": 1,
+      "4 millimetres": 1,
+      "only 1,000": 1,
+      "1,000": 1,
+      "first": 1,
+      "more than 1,000": 1,
+      "Hierlemann": 1
+    },
+    "total_entities": 38,
+    "unique_entities": 33
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "recording-thousands-of-nerve-cell-impulses-at-high-resolution.md",
+      "title": "En News Events/2020/09/recording Thousands Of Nerve Cell Impulses At High Resolution",
+      "language": "en",
+      "source_path": "en_news_events/2020/09/recording-thousands-of-nerve-cell-impulses-at-high-resolution.html"
+    },
+    "temporal": {
+      "publication_date": "2020-09",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andreas Hierlemann",
+        "ETH Zurich",
+        "Frey U:",
+        "Noji S",
+        "Obien MEJ",
+        "Odawara A",
+        "Schröter M",
+        "Suzuki",
+        "Takahashi J",
+        "Yuan X"
+      ],
+      "people_with_roles": {
+        "Andreas Hierlemann": [
+          "Professor",
+          "professor"
+        ],
+        "ETH Zurich": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "mathematics"
+      ],
+      "research_topics": [
+        "1,000",
+        "10.1038",
+        "20,000",
+        "4 millimetres",
+        "Thousands",
+        "around 20,000",
+        "first",
+        "more than 1,000",
+        "only 1,000",
+        "over a hundred"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Odawara A",
+        "Nerve Cell",
+        "Yuan X",
+        "Biosystems Science",
+        "Gong W",
+        "ETH Professor",
+        "Andreas Hierlemann",
+        "The ETH",
+        "Frey U",
+        "Noji S",
+        "Takahashi J",
+        "Kikuchi T",
+        "Urs Frey",
+        "Nature Communications",
+        "High Resolution",
+        "Suzuki I",
+        "Thousands Of",
+        "Hierlemann A",
+        "Impulses At",
+        "En News",
+        "MaxWell Biosystems",
+        "ETH Zurich",
+        "Fiscella M",
+        "Obien MEJ"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biosystems Science and Engineering of ETH Zurich in Basel"
+      ],
+      "institutions": [
+        "ETH",
+        "En News",
+        "Fiscella M",
+        "Hierlemann",
+        "Hierlemann’s",
+        "MaxWell Biosystems",
+        "Nature Communications",
+        "Urs Frey",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "locations": [
+        "Basel",
+        "Kikuchi"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "MaxWell Biosystems",
+        "20,000",
+        "Nature Communications",
+        "En News",
+        "Thousands",
+        "over 15 years",
+        "Andreas Hierlemann",
+        "Hierlemann’s",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Stronger signal required",
+          "Stronger signal required",
+          "Background noise reduced",
+          "Application in drug development"
+        ],
+        "content_length": 4601
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Odawara A",
+        "Suzuki",
+        "2020",
+        "Yuan X",
+        "the Department of Biosystems Science and Engineering",
+        "ERC",
+        "Andreas Hierlemann",
+        "Hierlemann’s",
+        "Hierlemann",
+        "Noji S",
+        "Frey U:",
+        "Takahashi J",
+        "EU",
+        "Urs Frey",
+        "Nature Communications",
+        "Schröter M",
+        "En News",
+        "MaxWell Biosystems",
+        "ETH Zurich",
+        "Fiscella M",
+        "Obien MEJ"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "20,000",
+        "when",
+        "engineering",
+        "1,000",
+        "Thousands",
+        "around 20,000",
+        "10.1038",
+        "4 millimetres",
+        "medical_research",
+        "over a hundred",
+        "mathematics",
+        "who",
+        "what",
+        "how",
+        "more than 1,000",
+        "first",
+        "only 1,000",
+        "why"
+      ],
+      "graph_relations": [
+        "Andreas Hierlemann_has_role_Professor",
+        "Andreas Hierlemann_has_role_professor",
+        "ETH Zurich_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

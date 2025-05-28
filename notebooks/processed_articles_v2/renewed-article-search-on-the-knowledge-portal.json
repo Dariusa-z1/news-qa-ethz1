@@ -1,0 +1,154 @@
+{
+  "filename": "renewed-article-search-on-the-knowledge-portal.md",
+  "original_filename": "renewed-article-search-on-the-knowledge-portal.html",
+  "source_path": "en_internal/2014/10/renewed-article-search-on-the-knowledge-portal.html",
+  "date": "2014-10",
+  "title": "Renewed Article Search On The Knowledge Portal",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "For the article search the metadata from scientific information resources is integrated in one single search.\n\nThis results in the following changes in the second search tab \"Articles and more\" on the Knowledge Portal:\n\nThe search for NTIS reports is no longer integrated in the search tab \"Articles and more\". Use the NTIS database for this purpose. Access is only possible in the ETH Zurich network."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Article Search On The Knowledge Portal",
+        "label": "ORG",
+        "start": 28,
+        "end": 66
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 91,
+        "end": 94
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 155,
+        "end": 161
+      },
+      {
+        "text": "NTIS",
+        "label": "ORG",
+        "start": 233,
+        "end": 237
+      },
+      {
+        "text": "NTIS",
+        "label": "ORG",
+        "start": 317,
+        "end": 321
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 380,
+        "end": 390
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Article Search On The Knowledge Portal",
+        "ETH Zurich",
+        "NTIS"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "one",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "NTIS": 2,
+      "Article Search On The Knowledge Portal": 1,
+      "one": 1,
+      "second": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "renewed-article-search-on-the-knowledge-portal.md",
+      "title": "En Internal/2014/10/renewed Article Search On The Knowledge Portal",
+      "language": "en",
+      "source_path": "en_internal/2014/10/renewed-article-search-on-the-knowledge-portal.html"
+    },
+    "temporal": {
+      "publication_date": "2014-10",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Article Search",
+        "En Internal",
+        "Knowledge Portal",
+        "On The",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Article Search On The Knowledge Portal",
+        "ETH Zurich",
+        "NTIS"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "why"
+      ],
+      "key_concepts": [
+        "NTIS",
+        "Article Search On The Knowledge Portal",
+        "one",
+        "second",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 468
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "NTIS",
+        "2014",
+        "Article Search On The Knowledge Portal"
+      ],
+      "semantic_concepts": [
+        "why",
+        "second"
+      ],
+      "graph_relations": []
+    }
+  }
+}

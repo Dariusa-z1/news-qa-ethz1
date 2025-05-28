@@ -1,0 +1,26 @@
+# continents-set-the-pace.html
+
+**Source:** en_news_events/2014/01/continents-set-the-pace.html
+
+## Coupled three-dimensional representation
+
+The seafloor opens up on the mid-ocean ridges (MOR), which stretch through the world’s oceans for 10,000 kilometres. Here, hot magma material transported by the convection of the earth’s mantle reaches the surface and creates new oceanic crust. How these processes were triggered in Earth’s early history, however, is the subject of ongoing debate. Researchers from ETH Zurich and the University of Lyon have now reignited the discussion with new computer simulations.
+
+## Crustal differences influence dynamics
+
+The researchers simulated how the local age distribution of the seafloor looks like under the assumption that the global share of the continental curst is 30 per cent. (Coltice N et al., Geology 2014)
+
+According to the scientists the simulations reveal that the continental crust influences the rate at which the oceanic crust is formed and thus the dynamics of the entire earth. Moreover, the scientists’ calculations indicate that while the continents were growing to their present size, the thermal output of the earth’s mantle varied greatly. The results also support the theory that around 90 per cent of the continental crust that exists today formed no later than 2.5 billion years ago. While computer models have greatly improved our understanding of the earth’s dynamics, how much and how quickly continental crust formed in the planet’s early history is not entirely clear.
+
+## Coupled three-dimensional representation
+
+Paul Tackley, a professor of geophysics at ETH Zurich, and his team have spent the last few years developing and refining a model that can be used to illustrate physical processes on Earth in a coupled, three-dimensional manner. Although it is a heavily simplified model that does not reproduce all the conditions on Earth realistically, it is sufficient to simulate the fundamental mechanisms for its issues, stresses Tobias Rolf. During his doctorate under Tackley, the geophysicist used the model to examine the impact of the world’s entire existing continental crust on convection in the earth’s interior and the formation of oceanic crust. The results of the study, which Rolf achieved in collaboration with Nicolas Coltice from the University of Lyon, were recently published online in the journal Geology.
+
+Today, continental crust makes up around thirty percent of the earth’s surface. The continent crusts differ greatly from the oceanic crust in terms of thickness, density and their deformation and flow properties. This contrast influences plate-tectonic processes and the heat flow through the earth’s surface: while the MOR heat is conducted away from the earth’s interior, by comparison continents have a thermally insulating effect.
+
+Consequently, the scientists calculated the heat flow through the oceanic crust for a ten, thirty, fifty and seventy-per-cent continental crust cover of the earth’s surface on the supercomputer “Monte Rosa” at the Swiss National Supercomputing Centre (CSCS) in Lugano. Via the local heat flow, they used a standard method to determine the approximate age of the seafloor and the statistical age distribution in the ocean basin. Based on the calculations, the scientists were able to extrapolate the production rate of the oceanic crust depending on the individual continent size and determine how this production rate varied.
+
+The results reveal that as the size of the continents increases, the production rate of the oceanic crust can as much as double. “As a consequence, the mean age of the seafloor found in the ocean basin decreases,” says Rolf. Today’s ocean beds are a maximum of 200 million years old, the reason being that the basaltic seafloor solidifies over millions of years and becomes so heavy that it sinks back into the earth’s mantle: the oceanic plate mostly becomes submerged beneath the less dense continental plate and a so-called subduction zone is formed.
+
+Coltice N, Rolf T, Tackley PJ: Seafloor spreading evolution in response to continental growth, Geology, online publication 10 January 2014, doi: 10.1130/G35062.1
+

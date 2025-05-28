@@ -1,0 +1,131 @@
+{
+  "filename": "summer-quiz-environment.md",
+  "original_filename": "summer-quiz-environment.html",
+  "source_path": "en_news_events/2019/07/summer-quiz-environment.html",
+  "date": "2019-07",
+  "title": "Summer Quiz Environment",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Would you have believed it? In the summer quiz series, we take you on a tour of discovery through remarkable, peculiar and fun facts from ETH Zurich’s research and teaching. This issue addresses research in connection with sustainability."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 35,
+        "end": 41
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "ORG",
+        "start": 138,
+        "end": 150
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zurich’s",
+        "En News"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "summer"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "En News": 1,
+      "summer": 1,
+      "ETH Zurich’s": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "summer-quiz-environment.md",
+      "title": "En News Events/2019/07/summer Quiz Environment",
+      "language": "en",
+      "source_path": "en_news_events/2019/07/summer-quiz-environment.html"
+    },
+    "temporal": {
+      "publication_date": "2019-07",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH Zurich",
+        "Quiz Environment",
+        "En News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich’s",
+        "En News"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "En News",
+        "summer",
+        "ETH Zurich’s"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 285
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "ETH Zurich’s",
+        "En News"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "climate_change",
+        "what"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

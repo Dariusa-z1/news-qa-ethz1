@@ -1,0 +1,44 @@
+# implant-acts-as-a-countermeasure.html
+
+**Source:** en_news_events/2015/12/implant-acts-as-a-countermeasure.html
+
+## Prosthesis supports the immune system
+
+ETH Professor Martin Fussenegger calls them molecular prosthetics: cells with specially developed gene circuits that can be implanted into an organism, where they take over metabolic functions that the organism cannot perform itself. Fussenegger and his team at ETH Zurich’s Department of Biosystems Science and Engineering in Basel have now succeeded in developing a molecular prosthesis of this kind where the functions are far more complex than before. The prosthesis is tailored to the treatment of psoriasis, a complex and chronic inflammatory disease of the skin.
+
+Gene circuits created in the past typically monitored only whether a metabolic molecule A was present in their environment; if so, they produced a metabolic molecule X as a response. The new, more complex circuit can detect two molecules, A and B, simultaneously, and only if both are present does it produce the molecules X and Y. “We have used cellular components to build an AND logic gate, as is familiar in electronics and without which computers could not function,” says Fussenegger. When researchers implanted a circuit with an AND gate of this kind into mice, the circuit was able to successfully suppress phases of psoriasis in the mouse model.
+
+The new molecular prosthesis uses the language by which immune cells in the body communicate with one another: the language of the numerous messenger molecules that the immune cells can both produce and detect.
+
+## Prosthesis supports the immune system
+
+The different cells of the immune system are involved in two ways during a psoriasis phase: first, they are responsible for triggering an inflammatory response by increasing the production of various messengers, including those referred to as TNF and IL-22. Second, at a later point, they produce a series of messengers that cause the inflammation to fade away again, among them IL-4 and IL-10.
+
+The circuit developed by the ETH researchers can detect the inflammatory molecules TNF and IL-22. If (and only if) these two messengers are present simultaneously, the circuit produces the anti-inflammatory molecules IL-4 and IL-10. “In this way, our molecular prosthesis helps the immune system to suppress the inflammatory response,” explains Fussenegger.
+
+## Designer cells in a porous capsule
+
+The scientists took tiny porous capsules made of algal gelatine and encased 200 cells of a human cell line with this gene circuit in each capsule. They then injected 6,000 of these minute capsules into the abdomens of mice. New blood vessels formed naturally and connected the capsules to the bloodstream.
+
+Using a medicine, the scientists triggered an inflammatory response, similar to psoriasis, in the skin of the mice. They then compared the mice into which ‘designer cell capsules’ had been implanted with those without capsules. Only the latter showed symptoms of inflammation. The implant suppressed the inflammatory disease successfully.
+
+## Circuits as an early-warning system
+
+Nowadays, the symptoms of psoriasis – inflamed, itchy and sometimes flaky areas of skin – are usually combated with an ointment that is applied locally. In addition, there are pharmacological having an effect throughout the body.
+
+Therapies of this kind are typically commenced when a phase of psoriasis flares up. “This means that with the existing therapies, we are practically always lagging behind the symptoms,” says Fussenegger. The gene circuit implants, on the other hand, lend themselves well to prevention: “The circuit begins producing anti-inflammatory messengers at an early stage – when a phase is looming at the level of inflammatory messengers, instead of waiting until skin rashes appear.”
+
+## Other inflammatory diseases
+
+The successful experiments in mice were a feasibility study, says Fussenegger. Whether and when designer cells of this kind can be used in humans remains to be seen. However, he says it is conceivable that such cells will one day also be implanted into psoriasis patients. Since growth in connective tissue could cut the implant off from the bloodstream over time, a doctor would probably have to replace it every few months.
+
+Biological circuits of this kind with AND gates may also be suitable for other diseases. Fussenegger says: “Chronic inflammatory diseases are a good example of the type of disease that cannot be diagnosed by measuring a single molecule.” However, generally such diseases could be diagnosed using a designer cell that measures the profile of several messengers in the bloodstream. And if this designer cell were also to produce therapeutic molecules, it would open up promising treatment options for a wide range of diseases in the future.
+
+## Reference
+
+Schukur L, Geering B, Charpin-El Hamri G, Fussenegger M: Implantable synthetic cytokine converter cells with AND-gate logic treat experimental psoriasis. Science Translational Medicine 2015, 7: 318ra201, doi: 10.1126/scitranslmed.aac4964
+
+ETH Zurich Medienstelle Phone: +41 44 632 41 41
+
+ETH Zurich Prof. Martin Fussenegger Phone: +41 61 387 31 60
+

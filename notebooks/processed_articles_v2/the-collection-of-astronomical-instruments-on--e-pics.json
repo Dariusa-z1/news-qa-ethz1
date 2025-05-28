@@ -1,0 +1,200 @@
+{
+  "filename": "the-collection-of-astronomical-instruments-on--e-pics.md",
+  "original_filename": "the-collection-of-astronomical-instruments-on--e-pics.html",
+  "source_path": "en_internal/2016/06/the-collection-of-astronomical-instruments-on--e-pics.html",
+  "date": "2016-06",
+  "title": "The Collection Of Astronomical Instruments On E Pics",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The collection is centred on the holdings of Rudolf Wolf, the first professor of astronomy at the Eidgenössisches Polytechnikum in Zurich and founder and first Director of the Eidgenössische Sternwarte Zurich. The instruments from the fields of astronomy, geodesy, chronometry and mathematics stem from the sixteenth to the twentieth centuries.\n\nThe online catalogue also contains instruments that we still do not know much about. We would be delighted if you could provide any feedback via the function \"Do you know more?\" Help us to complete the datasets by dating or describing the objects more accurately.\n\nE-Pics Collection of Astronomical Instruments"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Rudolf Wolf",
+        "label": "PERSON",
+        "start": 45,
+        "end": 56
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 62,
+        "end": 67
+      },
+      {
+        "text": "the Eidgenössisches Polytechnikum",
+        "label": "FAC",
+        "start": 94,
+        "end": 127
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 131,
+        "end": 137
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 154,
+        "end": 159
+      },
+      {
+        "text": "the Eidgenössische Sternwarte Zurich",
+        "label": "ORG",
+        "start": 172,
+        "end": 208
+      },
+      {
+        "text": "the sixteenth to the twentieth centuries",
+        "label": "DATE",
+        "start": 303,
+        "end": 343
+      },
+      {
+        "text": "E-Pics Collection of Astronomical Instruments",
+        "label": "ORG",
+        "start": 609,
+        "end": 654
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Rudolf Wolf"
+      ],
+      "ORG": [
+        "E-Pics Collection of Astronomical Instruments",
+        "the Eidgenössische Sternwarte Zurich"
+      ],
+      "LOCATION": [
+        "Zurich",
+        "the Eidgenössisches Polytechnikum"
+      ],
+      "DATE": [
+        "the sixteenth to the twentieth centuries"
+      ],
+      "MISC": [
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "first": 2,
+      "Rudolf Wolf": 1,
+      "the Eidgenössisches Polytechnikum": 1,
+      "Zurich": 1,
+      "the Eidgenössische Sternwarte Zurich": 1,
+      "the sixteenth to the twentieth centuries": 1,
+      "E-Pics Collection of Astronomical Instruments": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-collection-of-astronomical-instruments-on--e-pics.md",
+      "title": "En Internal/2016/06/the Collection Of Astronomical Instruments On E Pics",
+      "language": "en",
+      "source_path": "en_internal/2016/06/the-collection-of-astronomical-instruments-on--e-pics.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Rudolf Wolf"
+      ],
+      "people_with_roles": {
+        "Rudolf Wolf": [
+          "professor",
+          "director",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En Internal",
+        "Sternwarte Zurich",
+        "Collection Of",
+        "On E",
+        "Rudolf Wolf",
+        "Astronomical Instruments",
+        "E-Pics",
+        "Pics The"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "E-Pics Collection of Astronomical Instruments",
+        "the Eidgenössische Sternwarte Zurich"
+      ],
+      "locations": [
+        "Zurich",
+        "the Eidgenössisches Polytechnikum"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "first",
+        "Rudolf Wolf",
+        "the Eidgenössisches Polytechnikum",
+        "Zurich",
+        "the Eidgenössische Sternwarte Zurich",
+        "the sixteenth to the twentieth centuries",
+        "E-Pics Collection of Astronomical Instruments"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 729
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "E-Pics Collection of Astronomical Instruments",
+        "Rudolf Wolf",
+        "the Eidgenössische Sternwarte Zurich",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who"
+      ],
+      "graph_relations": [
+        "Rudolf Wolf_has_role_professor",
+        "Rudolf Wolf_has_role_director",
+        "Rudolf Wolf_has_role_rector",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

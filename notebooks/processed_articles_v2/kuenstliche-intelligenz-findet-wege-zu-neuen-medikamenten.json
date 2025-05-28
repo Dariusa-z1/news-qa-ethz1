@@ -1,0 +1,723 @@
+{
+  "filename": "kuenstliche-intelligenz-findet-wege-zu-neuen-medikamenten.md",
+  "original_filename": "kuenstliche-intelligenz-findet-wege-zu-neuen-medikamenten.html",
+  "source_path": "de_news_events/2023/11/kuenstliche-intelligenz-findet-wege-zu-neuen-medikamenten.html",
+  "date": "2023-11",
+  "title": "Kuenstliche Intelligenz Findet Wege Zu Neuen Medikamenten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "In Kürze",
+      "text": "- Das Finden und Herstellen von neuen Medikamenten ist bisher aufwendig. Forschende der ETH Zürich haben ein KI-Modell entwickelt, das mithilft, geeignete Molekülstellen für die Entwicklung neuer Wirkstoffe zu finden.\n\n- Ausgetestet haben die Chemiker:innen das Verfahren an einer Reaktion zur Aktivierung von Kohlenwasserstoffgerüsten – der sogenannten Borylierung.\n\n- Durch die KI-Methode kann die Entwicklung neuer und die Optimierung von bestehenden Medikamentenwirkstoffe beschleunigt werden."
+    },
+    {
+      "heading": "Chemische Funktionen einführen",
+      "text": "Neue Wirkstoffmoleküle legen die Grundlage für innovative und bessere medizinische Therapien. Sie zu finden und vor allem auch sie herzustellen, in dem man sie im Labor chemisch synthetisiert, ist aber alles andere als trivial. Um das optimale Herstellungsverfahren zu finden, gehen die Chemiker:innen normalerweise nach einem Trial-and-Error-Verfahren vor: Sie leiten aus bekannten chemischen Reaktionen mögliche Wege für die Laborherstellung ab und testen dann jeden einzelnen mit Experimenten aus. Das ist aufwendig und von vielen Fehlschlägen geprägt.\n\nWissenschaftlerinnen und Wissenschaftler der ETH Zürich haben jetzt gemeinsam mit Forschenden von Roche Pharma Research and Early Development ein Verfahren entwickelt, das auf Künstlicher Intelligenz (KI) basiert und dabei hilft, die beste Synthesemethode inklusive ihrer Erfolgswahrscheinlichkeit zu bestimmen. «Mit unserer Methode lässt sich die Anzahl der Experimente im Labor markant verringern», erklärt Kenneth Atz. Er hat das KI-Modell als Doktorand gemeinsam mit Professor Gisbert Schneider am Institut für Pharmazeutische Wissenschaften der ETH Zürich entwickelt.\n\nPharmazeutische Wirkstoffe bestehen in der Regel aus einem Gerüst, an das sogenannte funktionelle Gruppen gebunden sind, welche eine ganz bestimmte biologische Funktion ermöglichen. Die Aufgabe des Gerüsts besteht darin, die funktionellen Gruppen in eine definierte geometrische Ausrichtung zueinander zu bringen, damit diese gezielt wirken können. Das Prinzip ist mit einem Kranbaukasten vergleichbar, bei dem ein Gerüst aus Verbindungselementen so zusammengeschraubt wird, dass funktionelle Baugruppen wie Rollen, Seilwinden, Räder und Führerkabine richtig zueinander angeordnet sind."
+    },
+    {
+      "heading": "Chemische Funktionen einführen",
+      "text": "Um Arzneistoffe mit einer besseren oder neuen medizinischen Wirkung herzustellen, werden unter anderem funktionelle Gruppen an neuen Stellen der Gerüste platziert. Was einfach tönt und bei einem Modellbaukran auch kein Problem wäre, ist in der Chemie besonders schwierig. Weil die vor allem aus Kohlenstoff- und Wasserstoffatomen aufgebauten Gerüste selbst praktisch nicht reaktiv sind, lassen sie sich auch nur schwer mit funktionellen Atomen wie Sauerstoff, Stickstoff oder Chlor verbinden. Damit dies gelingt, müssen die Gerüste zuerst über Umweg-Reaktionen chemisch aktiviert werden."
+    },
+    {
+      "heading": "Hohe Vorhersagekraft vor allem mit 3D-Daten",
+      "text": "Eine Aktivierungsmethode, die auf dem Papier sehr viele Möglichkeiten für unterschiedliche funktionelle Gruppen eröffnet, ist die sogenannte Borylierung. Dabei wird eine chemische Gruppe, die das Element Bor enthält, an ein Gerüst-Kohlenstoff-Atom gebunden. Die Bor-Gruppe lässt sich dann in einem zweiten Schritt einfach durch eine ganze Reihe von medizinisch wirksamen Gruppen ersetzen."
+    },
+    {
+      "heading": "Daten aus vertrauenswürdigen Quellen",
+      "text": "«Die Borylierung hat zwar ein grosses Potenzial, die Reaktion ist im Labor aber nur schwer zu kontrollieren. Deshalb haben wir bei einer umfassenden weltweiten Literaturrecherche auch nur etwas mehr als 1700 wissenschaftliche Arbeiten dazu gefunden», beschreibt Atz die Ausganglage seiner Arbeit.\n\nDie in der wissenschaftlichen Literatur beschriebenen Reaktionen sollten die Daten für das Training eines KI-Modells liefern, mit dem das Forscherteam möglichst alle Stellen in neuen Molekülen finden wollte, an denen eine Borylierung überhaupt möglich ist. Für das Modell konnten die Forscher:innen allerdings nur einen Bruchteil der gefundenen Literatur nutzen. Damit es nicht durch falsche Ergebnisse aus unsorgfältigen Forschungsarbeiten in die Irre geleitet wird, hat man sich auf 38 besonders vertrauenswürdige Arbeiten beschränkt. In diesen wurden insgesamt 1380 Borylierungs-Reaktionen beschrieben.\n\nUm den Trainingsdatensatz zu erweitern, wurden die Literatur-Ergebnisse durch die Auswertungen von 1000 Reaktionen ergänzt, die im automatisierten Labor der medizinal-chemischen Forschung von Roche durchgeführt wurden. In diesem lassen sich viele chemische Reaktionen gleichzeitig im Milligramm-Massstab durchführen und analysieren. «Die Kombination von Laborautomatisierung und KI hat enormes Potenzial, die Effizienz in der chemischen Synthese massgeblich zu erhöhen und gleichzeitig nachhaltiger zu agieren», erläutert David Nippa, der als Doktorand vonseiten Roche gemeinsam mit Atz das Projekt realisiert hat."
+    },
+    {
+      "heading": "Hohe Vorhersagekraft vor allem mit 3D-Daten",
+      "text": "Verifiziert wurden die Vorhersagefähigkeiten des aus diesem Datenpool generierten Modells anhand von sechs bekannten Wirkstoffmolekülen. Dabei liessen sich die prognostizierten zusätzlichen Stellen in fünf von sechs Fällen durch die experimentelle Überprüfung im Labor bestätigen. Stellen, an denen in den Gerüsten keine Aktivierung möglich ist, wurden genauso zuverlässig identifiziert. Zusätzlich lieferte das Modell die jeweils optimalen Bedingungen für die Aktivierungsreaktionen.\n\nInteressanterweise wurden die Vorhersagen besser, wenn auch die 3D-Informationen der Ausgangsstoffe und nicht nur ihre zweidimensionalen chemischen Formeln miteinbezogen wurden. «Das Modell scheint eine Art von dreidimensionalem chemischem Verständnis zu entwickeln», vermutet Atz.\n\nÜberzeugt hat die Erfolgsrate der Vorhersagen auch die Forschenden von Roche Pharma Research and Early Development. Sie haben die Methode inzwischen bereits erfolgreich eingesetzt, um in bestehenden Wirkstoffen Stellen zu finden, an denen zusätzliche aktive Gruppen eingeführt werden können. Dies hilft ihnen, schneller neue und wirkungsvollere Varianten von bekannten Medikamentenwirkstoffen zu entwickeln.\n\nAtz und Schneider sehen zahlreiche weitere Anwendungsmöglichkeiten von KI-Modellen, die auf einer Kombination von Daten aus vertrauenswürdiger Literatur und aus Experimenten eines automatisierten Labors beruhen. Auf diese Weise sollten sich beispielsweise auch effektive Modelle für andere Aktivierungsreaktionen als der Borylierung finden lassen. Zudem erhofft sich das Team eine grössere Palette an Reaktionen, um die borylierten Stellen weiter zu funktionalisieren.\n\nAn dieser Weiterentwicklung ist Atz nun als KI-Wissenschaftler in der medizinal-chemischen Forschung von Roche beteiligt: «Es ist unglaublich spannend, an der Schnittstelle von akademischer KI-Forschung und Laborautomatisierung zu arbeiten. Und es bereitet Freude, diese mit den jeweils besten Inhalten und Methoden weiterentwickeln zu können.» Schneider ergänzt: «Dieses innovative Projekt ist ein gelungener Brückenschlag zwischen Akademie und Industrie, der das enorme Potenzial von Public-Private Partnerships für die Schweiz aufzeigt.»\n\nNippa DF, Atz K, Hohler R, Müller AT, Marx A, Bartelmus C, Wuitschik G, Marzuoli I, Jost V, Wolfard J, Binder M, Stepan AF, Konrad DB, Grether U, Martin RE, Schneider G: Enabling Late-Stage Drug Diversification by High-Throughput Experimentation with Geometric Deep Learning. Nature Chemistry, 23. November 2023, doi: externe Seite 10.1038/s41557-023-01360-5"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Findet Wege zu Neuen Medikamenten",
+        "label": "MISC",
+        "start": 47,
+        "end": 80
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 88,
+        "end": 98
+      },
+      {
+        "text": "Kohlenwasserstoffgerüsten",
+        "label": "PER",
+        "start": 309,
+        "end": 334
+      },
+      {
+        "text": "KI-Methode",
+        "label": "MISC",
+        "start": 378,
+        "end": 388
+      },
+      {
+        "text": "Neue Wirkstoffmoleküle",
+        "label": "PER",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 601,
+        "end": 611
+      },
+      {
+        "text": "Roche Pharma Research and Early Development",
+        "label": "ORG",
+        "start": 654,
+        "end": 697
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 757,
+        "end": 759
+      },
+      {
+        "text": "Kenneth Atz",
+        "label": "PER",
+        "start": 965,
+        "end": 976
+      },
+      {
+        "text": "KI-Modell",
+        "label": "ORG",
+        "start": 989,
+        "end": 998
+      },
+      {
+        "text": "Gisbert Schneider",
+        "label": "PER",
+        "start": 1037,
+        "end": 1054
+      },
+      {
+        "text": "Institut für Pharmazeutische Wissenschaften",
+        "label": "ORG",
+        "start": 1058,
+        "end": 1101
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1106,
+        "end": 1116
+      },
+      {
+        "text": "Pharmazeutische Wirkstoffe",
+        "label": "ORG",
+        "start": 1129,
+        "end": 1155
+      },
+      {
+        "text": "Führerkabine",
+        "label": "PER",
+        "start": 1667,
+        "end": 1679
+      },
+      {
+        "text": "Gerüste",
+        "label": "LOC",
+        "start": 145,
+        "end": 152
+      },
+      {
+        "text": "Gerüste",
+        "label": "PER",
+        "start": 342,
+        "end": 349
+      },
+      {
+        "text": "Gerüst-Kohlenstoff-Atom",
+        "label": "MISC",
+        "start": 224,
+        "end": 247
+      },
+      {
+        "text": "Atz",
+        "label": "PER",
+        "start": 262,
+        "end": 265
+      },
+      {
+        "text": "KI-Modells",
+        "label": "ORG",
+        "start": 403,
+        "end": 413
+      },
+      {
+        "text": "Irre",
+        "label": "LOC",
+        "start": 745,
+        "end": 749
+      },
+      {
+        "text": "Literatur-Ergebnisse",
+        "label": "MISC",
+        "start": 954,
+        "end": 974
+      },
+      {
+        "text": "medizinal-chemischen",
+        "label": "MISC",
+        "start": 1060,
+        "end": 1080
+      },
+      {
+        "text": "Roche",
+        "label": "PER",
+        "start": 1095,
+        "end": 1100
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 1282,
+        "end": 1284
+      },
+      {
+        "text": "David Nippa",
+        "label": "PER",
+        "start": 1425,
+        "end": 1436
+      },
+      {
+        "text": "Atz",
+        "label": "ORG",
+        "start": 1486,
+        "end": 1489
+      },
+      {
+        "text": "Atz",
+        "label": "PER",
+        "start": 762,
+        "end": 765
+      },
+      {
+        "text": "Überzeugt",
+        "label": "PER",
+        "start": 767,
+        "end": 776
+      },
+      {
+        "text": "Roche Pharma Research and Early Development",
+        "label": "ORG",
+        "start": 838,
+        "end": 881
+      },
+      {
+        "text": "Schneider",
+        "label": "PER",
+        "start": 1183,
+        "end": 1192
+      },
+      {
+        "text": "KI-Modellen",
+        "label": "ORG",
+        "start": 1246,
+        "end": 1257
+      },
+      {
+        "text": "Atz",
+        "label": "MISC",
+        "start": 1676,
+        "end": 1679
+      },
+      {
+        "text": "KI-Wissenschaftler",
+        "label": "ORG",
+        "start": 1688,
+        "end": 1706
+      },
+      {
+        "text": "medizinal-chemischen",
+        "label": "MISC",
+        "start": 1714,
+        "end": 1734
+      },
+      {
+        "text": "Roche",
+        "label": "PER",
+        "start": 1749,
+        "end": 1754
+      },
+      {
+        "text": "KI-Forschung",
+        "label": "ORG",
+        "start": 1834,
+        "end": 1846
+      },
+      {
+        "text": "Freude",
+        "label": "MISC",
+        "start": 1901,
+        "end": 1907
+      },
+      {
+        "text": "Schneider",
+        "label": "PER",
+        "start": 1989,
+        "end": 1998
+      },
+      {
+        "text": "Public-Private Partnerships",
+        "label": "ORG",
+        "start": 2130,
+        "end": 2157
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 2166,
+        "end": 2173
+      },
+      {
+        "text": "Nippa DF",
+        "label": "ORG",
+        "start": 2185,
+        "end": 2193
+      },
+      {
+        "text": "Atz K",
+        "label": "MISC",
+        "start": 2195,
+        "end": 2200
+      },
+      {
+        "text": "Müller AT",
+        "label": "ORG",
+        "start": 2212,
+        "end": 2221
+      },
+      {
+        "text": "Marx A",
+        "label": "PER",
+        "start": 2223,
+        "end": 2229
+      },
+      {
+        "text": "Bartelmus C",
+        "label": "PER",
+        "start": 2231,
+        "end": 2242
+      },
+      {
+        "text": "Wuitschik G",
+        "label": "PER",
+        "start": 2244,
+        "end": 2255
+      },
+      {
+        "text": "Marzuoli I",
+        "label": "PER",
+        "start": 2257,
+        "end": 2267
+      },
+      {
+        "text": "Jost V",
+        "label": "PER",
+        "start": 2269,
+        "end": 2275
+      },
+      {
+        "text": "Wolfard J",
+        "label": "PER",
+        "start": 2277,
+        "end": 2286
+      },
+      {
+        "text": "Binder M",
+        "label": "MISC",
+        "start": 2288,
+        "end": 2296
+      },
+      {
+        "text": "Stepan AF",
+        "label": "ORG",
+        "start": 2298,
+        "end": 2307
+      },
+      {
+        "text": "Konrad DB",
+        "label": "ORG",
+        "start": 2309,
+        "end": 2318
+      },
+      {
+        "text": "Grether U",
+        "label": "ORG",
+        "start": 2320,
+        "end": 2329
+      },
+      {
+        "text": "Martin RE",
+        "label": "PER",
+        "start": 2331,
+        "end": 2340
+      },
+      {
+        "text": "Schneider G",
+        "label": "PER",
+        "start": 2342,
+        "end": 2353
+      },
+      {
+        "text": "Deep Learning",
+        "label": "LOC",
+        "start": 2446,
+        "end": 2459
+      },
+      {
+        "text": "Nature Chemistry",
+        "label": "PER",
+        "start": 2461,
+        "end": 2477
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Atz",
+        "Bartelmus C",
+        "David Nippa",
+        "Führerkabine",
+        "Gerüste",
+        "Gisbert Schneider",
+        "Jost V",
+        "Kenneth Atz",
+        "Kohlenwasserstoffgerüsten",
+        "Martin RE",
+        "Marx A",
+        "Marzuoli I",
+        "Nature Chemistry",
+        "Neue Wirkstoffmoleküle",
+        "Roche",
+        "Schneider",
+        "Schneider G",
+        "Wolfard J",
+        "Wuitschik G",
+        "Überzeugt"
+      ],
+      "ORG": [
+        "Atz",
+        "ETH Zürich",
+        "Grether U",
+        "Institut für Pharmazeutische Wissenschaften",
+        "KI",
+        "KI-Forschung",
+        "KI-Modell",
+        "KI-Modellen",
+        "KI-Modells",
+        "KI-Wissenschaftler",
+        "Konrad DB",
+        "Müller AT",
+        "Nippa DF",
+        "Pharmazeutische Wirkstoffe",
+        "Public-Private Partnerships",
+        "Roche Pharma Research and Early Development",
+        "Stepan AF"
+      ],
+      "LOCATION": [
+        "Deep Learning",
+        "Gerüste",
+        "Irre",
+        "Schweiz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Atz",
+        "Atz K",
+        "Binder M",
+        "Findet Wege zu Neuen Medikamenten",
+        "Freude",
+        "Gerüst-Kohlenstoff-Atom",
+        "KI-Methode",
+        "Literatur-Ergebnisse",
+        "medizinal-chemischen"
+      ]
+    },
+    "entity_counts": {
+      "Atz": 4,
+      "ETH Zürich": 3,
+      "Roche Pharma Research and Early Development": 2,
+      "KI": 2,
+      "Gerüste": 2,
+      "medizinal-chemischen": 2,
+      "Roche": 2,
+      "Schneider": 2,
+      "Findet Wege zu Neuen Medikamenten": 1,
+      "Kohlenwasserstoffgerüsten": 1,
+      "KI-Methode": 1,
+      "Neue Wirkstoffmoleküle": 1,
+      "Kenneth Atz": 1,
+      "KI-Modell": 1,
+      "Gisbert Schneider": 1,
+      "Institut für Pharmazeutische Wissenschaften": 1,
+      "Pharmazeutische Wirkstoffe": 1,
+      "Führerkabine": 1,
+      "Gerüst-Kohlenstoff-Atom": 1,
+      "KI-Modells": 1
+    },
+    "total_entities": 58,
+    "unique_entities": 47
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "kuenstliche-intelligenz-findet-wege-zu-neuen-medikamenten.md",
+      "title": "De News Events/2023/11/kuenstliche Intelligenz Findet Wege zu Neuen Medikamenten",
+      "language": "de",
+      "source_path": "de_news_events/2023/11/kuenstliche-intelligenz-findet-wege-zu-neuen-medikamenten.html"
+    },
+    "temporal": {
+      "publication_date": "2023-11",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Atz",
+        "Bartelmus C",
+        "David Nippa",
+        "Führerkabine",
+        "Gerüste",
+        "Gisbert Schneider",
+        "Jost V",
+        "Kenneth Atz",
+        "Kohlenwasserstoffgerüsten",
+        "Martin RE",
+        "Marx A",
+        "Marzuoli I",
+        "Nature Chemistry",
+        "Neue Wirkstoffmoleküle",
+        "Roche",
+        "Schneider",
+        "Schneider G",
+        "Wolfard J",
+        "Wuitschik G",
+        "Überzeugt"
+      ],
+      "people_with_roles": {
+        "Gisbert Schneider": [
+          "Professor",
+          "professor"
+        ],
+        "Schneider": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Atz K",
+        "Binder M",
+        "Findet Wege zu Neuen Medikamenten",
+        "Freude",
+        "Gerüst-Kohlenstoff-Atom",
+        "KI-Methode",
+        "Literatur-Ergebnisse",
+        "medizinal-chemischen"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Das Modell",
+        "KI-Modellen",
+        "Marzuoli I",
+        "Das Finden",
+        "Konrad DB",
+        "Jost V",
+        "Geometric Deep",
+        "KI-Modell",
+        "Martin RE",
+        "Nature Chemistry",
+        "David Nippa",
+        "Wolfard J",
+        "Schneider G",
+        "Hohler R",
+        "Die Borylierung",
+        "Pharmazeutische Wirkstoffe",
+        "Atz K",
+        "KI-Modells",
+        "Die Kombination",
+        "Neuen Medikamenten",
+        "Roche Pharma",
+        "Marx A",
+        "Nippa DF",
+        "KI-Wissenschaftler",
+        "Stepan AF",
+        "Professor Gisbert",
+        "Grether U",
+        "Literatur-Ergebnisse",
+        "Bartelmus C",
+        "Intelligenz Findet",
+        "Enabling Late",
+        "Stage Drug",
+        "Public-Private",
+        "Milligramm-Massstab",
+        "KI-Forschung",
+        "Pharmazeutische Wissenschaften",
+        "Kenneth Atz",
+        "Borylierungs-Reaktionen",
+        "Die Aufgabe",
+        "Wirkstoffen Stellen",
+        "Element Bor",
+        "Die Bor",
+        "Das Prinzip",
+        "Um Arzneistoffe",
+        "High-Throughput",
+        "Error-Verfahren",
+        "KI-Methode",
+        "Early Development",
+        "Wuitschik G",
+        "De News",
+        "Umweg-Reaktionen",
+        "Binder M",
+        "Eine Aktivierungsmethode",
+        "Kohlenstoff-Atom"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Atz",
+        "ETH Zürich",
+        "Grether U",
+        "Institut für Pharmazeutische Wissenschaften",
+        "KI",
+        "KI-Forschung",
+        "KI-Modell",
+        "KI-Modellen",
+        "KI-Modells",
+        "KI-Wissenschaftler",
+        "Konrad DB",
+        "Müller AT",
+        "Nippa DF",
+        "Pharmazeutische Wirkstoffe",
+        "Public-Private Partnerships",
+        "Roche Pharma Research and Early Development",
+        "Stepan AF"
+      ],
+      "locations": [
+        "Deep Learning",
+        "Gerüste",
+        "Irre",
+        "Schweiz"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Atz",
+        "ETH Zürich",
+        "Roche Pharma Research and Early Development",
+        "KI",
+        "Gerüste",
+        "medizinal-chemischen",
+        "Roche",
+        "Schneider",
+        "Findet Wege zu Neuen Medikamenten",
+        "Kohlenwasserstoffgerüsten"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "In Kürze",
+          "Chemische Funktionen einführen",
+          "Chemische Funktionen einführen",
+          "Hohe Vorhersagekraft vor allem mit 3D-Daten",
+          "Daten aus vertrauenswürdigen Quellen",
+          "Hohe Vorhersagekraft vor allem mit 3D-Daten"
+        ],
+        "content_length": 7342
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Public-Private Partnerships",
+        "KI-Modellen",
+        "Marzuoli I",
+        "Konrad DB",
+        "Kohlenwasserstoffgerüsten",
+        "Neue Wirkstoffmoleküle",
+        "Jost V",
+        "Schneider",
+        "Gisbert Schneider",
+        "Atz",
+        "ERC",
+        "Martin RE",
+        "KI-Modell",
+        "Nature Chemistry",
+        "David Nippa",
+        "Wolfard J",
+        "Schneider G",
+        "Überzeugt",
+        "Pharmazeutische Wirkstoffe",
+        "Führerkabine",
+        "ETH Zürich",
+        "KI-Modells",
+        "Marx A",
+        "Nippa DF",
+        "Roche",
+        "KI-Wissenschaftler",
+        "Stepan AF",
+        "Grether U",
+        "Bartelmus C",
+        "EU",
+        "Müller AT",
+        "KI-Forschung",
+        "Institut für Pharmazeutische Wissenschaften",
+        "Roche Pharma Research and Early Development",
+        "Wuitschik G",
+        "KI",
+        "Kenneth Atz",
+        "Gerüste",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "Freude",
+        "Literatur-Ergebnisse",
+        "Atz K",
+        "Gerüst-Kohlenstoff-Atom",
+        "KI-Methode",
+        "when",
+        "what",
+        "how",
+        "Binder M",
+        "Findet Wege zu Neuen Medikamenten",
+        "medizinal-chemischen"
+      ],
+      "graph_relations": [
+        "Gisbert Schneider_has_role_Professor",
+        "Gisbert Schneider_has_role_professor",
+        "Schneider_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "filename": "archiv-fuer-zeitgeschichte-hat-wieder-geoeffnet.md",
+  "original_filename": "archiv-fuer-zeitgeschichte-hat-wieder-geoeffnet.html",
+  "source_path": "de_internal/2015/09/archiv-fuer-zeitgeschichte-hat-wieder-geoeffnet.html",
+  "date": "2015-09",
+  "title": "Archiv Fuer Zeitgeschichte Hat Wieder Geoeffnet",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das 1862 erbaute und 1977 total sanierte Gebäude ist in den letzten zwölf Monaten grundlegend renoviert und umgebaut worden.\n\nNach dem erfolgreichen Abschluss des Projekts erhält die ETH-Community die Gelegenheit, sich vor Ort ein Bild vom Ergebnis zu machen. Alle, die an der Arbeit des Archivs interessiert sind und alle, die beim Umbau mitgewirkt haben, sind herzlich eingeladen.\n\nBei Kaffee und Gipfeli, Wurst und Brot, Wasser und Wein können Sie mit dem Team des Archivs und seinen Gästen ins Gespräch kommen, das Gebäude besichtigen und sich durch die Magazine führen lassen.\n\nHerzlich willkommen am Sonntag, 27. September 2015, zwischen 11.00 Uhr und 17.00 Uhr am Hirschengraben 62 im Haus der Zeitgeschichte!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/09/archiv Fuer",
+        "label": "LOC",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "total",
+        "label": "LOC",
+        "start": 26,
+        "end": 31
+      },
+      {
+        "text": "ETH-Community",
+        "label": "MISC",
+        "start": 182,
+        "end": 195
+      },
+      {
+        "text": "Archivs",
+        "label": "MISC",
+        "start": 287,
+        "end": 294
+      },
+      {
+        "text": "Kaffee",
+        "label": "LOC",
+        "start": 386,
+        "end": 392
+      },
+      {
+        "text": "Herzlich",
+        "label": "PER",
+        "start": 580,
+        "end": 588
+      },
+      {
+        "text": "Haus der Zeitgeschichte!",
+        "label": "LOC",
+        "start": 689,
+        "end": 713
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Herzlich"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2015/09/archiv Fuer",
+        "Haus der Zeitgeschichte!",
+        "Kaffee",
+        "total"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Archivs",
+        "ETH-Community"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2015/09/archiv Fuer": 1,
+      "total": 1,
+      "ETH-Community": 1,
+      "Archivs": 1,
+      "Kaffee": 1,
+      "Herzlich": 1,
+      "Haus der Zeitgeschichte!": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "archiv-fuer-zeitgeschichte-hat-wieder-geoeffnet.md",
+      "title": "De Internal/2015/09/archiv Fuer Zeitgeschichte Hat Wieder Geoeffnet",
+      "language": "de",
+      "source_path": "de_internal/2015/09/archiv-fuer-zeitgeschichte-hat-wieder-geoeffnet.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "1977",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Herzlich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Archivs",
+        "ETH-Community"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Community",
+        "Hat Wieder",
+        "De Internal",
+        "Fuer Zeitgeschichte",
+        "Geoeffnet Das",
+        "Bei Kaffee"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2015/09/archiv Fuer",
+        "Haus der Zeitgeschichte!",
+        "Kaffee",
+        "total"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2015/09/archiv Fuer",
+        "total",
+        "ETH-Community",
+        "Archivs",
+        "Kaffee",
+        "Herzlich",
+        "Haus der Zeitgeschichte!"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 784
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "1977",
+        "Herzlich",
+        "2015"
+      ],
+      "semantic_concepts": [
+        "Archivs",
+        "ETH-Community"
+      ],
+      "graph_relations": []
+    }
+  }
+}

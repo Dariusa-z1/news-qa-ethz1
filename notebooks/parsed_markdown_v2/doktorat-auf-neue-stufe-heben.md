@@ -1,0 +1,56 @@
+# doktorat-auf-neue-stufe-heben.html
+
+**Source:** de_news_events/2019/01/doktorat-auf-neue-stufe-heben.html
+
+## Doktorat im Wandel
+
+200 ETH-Dozierende, davon knapp die Hälfte Professorinnen und Professoren aller Stufen, gut 80 Doktorierende und 60 Administrationsmitarbeitende sowie 40 Gäste von Universitäten im In- und Ausland haben die Einladung zum Symposium «Doctoral Supervision» angenommen. Das Thema bewegt. Und dies zurecht, ist doch das Doktorat eine zentrale Institution einer Forschungsuniversität.
+
+An der ETH Zürich forschen – und lehren – gut 4000 Doktorierende. Das ist ein Fünftel aller Studierenden, ein auch im internationalen Vergleich sehr hoher Anteil. Doktorierende leisten einen wesentlichen Beitrag zum Renommee, das die Hochschule weltweit geniesst. Gleichzeitig gehören sie zur Gruppe der ETH-Angehörigen, bei denen Befragungen eher niedrige Zufriedenheitsraten feststellen.
+
+## Doktorat im Wandel
+
+Das Doktorat hat sich in den letzten Jahrzehnten stark gewandelt. Was einst als Einstieg in die akademische Karriere galt, hat sich zunehmend auch zu einem Weg für eine Laufbahn in der Industrie entwickelt. Praktische Projekte gewannen an Bedeutung. Durch die Internationalisierung des Doktorats kamen interkulturelle Aspekte hinzu. Damit änderten sich auch Ansprüche und Erwartungen der Doktorierenden an ihre Betreuerinnen und Betreuer – und umgekehrt.
+
+## Die bedeutende Rolle ethischer Fragen
+
+«Es gibt keine Patentrezepte, um das Doktorat auf eine neue Stufe zu heben», sagt ETH-Rektorin Sarah Springman. «Es gilt, die Ansprüche verschiedener Persönlichkeiten zu berücksichtigen, und gleichzeitig müssen wir uns mit der Kultur und den Werten unserer Hochschule auseinandersetzen», führt sie aus. «Das ist ein andauernder Prozess. Das Ziel ist insbesondere, das gegenseitige Verständnis zwischen Doktorierenden und Betreuenden zu fördern». Das Symposium über «Doctoral Supervision» versteht sie als Schritt in diese Richtung.
+
+Die Idee zum Symposium hatte Professor Antonio Togni, Prorektor Doktorat an der ETH Zürich. Als er vor gut zwei Jahren sein Amt antrat, tat sich für den langjährigen Professor für Metallorganische Chemie und erfahrenen Betreuer von Doktorierenden eine ganz neue Welt auf: «Mir war vorher nicht bewusst, dass es ein eigentliches Forschungsgebiet «Doctoral Supervision» gibt», erzählt er. Für das Symposium konnte Togni fünf internationale Expertinnen und Experten gewinnen.
+
+## Herausforderungen im Doktorat
+
+Anne Lee, Professorin an der Universität Stavanger in Norwegen und Honorary Research Fellow an der Universität Bristol in England, vermittelte einen systematischen Überblick über die Herausforderungen im Doktorat. Im Kern geht es um unterschiedliche Erwartungen oder gar Interessen von Betreuenden und Doktorierenden und deren Beziehung. Basierend auf ihrem Standardwerk «Successful Research Supervision», das in Doctoral Schools, Graduate Schools und bei Betreuenden von Dissertationen weltweit verbreitet ist, zeigte sie die unterschiedlichen Dimensionen auf, die ein Doktorat beinhalten.
+
+## Betreuung lehren und lernen
+
+Da geht es zunächst um funktionelle Fragen: Wie ist der Austausch zwischen Betreuungspersonen und Doktorierenden strukturiert? Sind Meilensteine festgelegt? Werden Fortschritte diskutiert? Werden auch Risiken angesprochen, etwa was passiert, wenn Experimente keine brauchbaren Resultate hervorbringen, Daten verloren gehen oder die Betreuungsperson die Institution verlässt?
+
+Es geht aber auch darum, die Doktorierenden in die Gemeinschaft der Forschenden («Enculturation») einzuführen, indem sie beispielsweise ermuntert werden, an Konferenzen teilzunehmen. Dann sollen sie ein Umfeld vorfinden, in dem sie sich persönlich entfalten können: Sie sollen kritisches Reflektieren lernen und sich im Laufe des Doktorats von der Betreuungsperson emanzipieren. Schliesslich sind Betreuende auch persönliche Bezugspersonen und werden oft auch als Ratgeber für Probleme ausserhalb des Doktorats geschätzt.
+
+## Die bedeutende Rolle ethischer Fragen
+
+Erika Löfström, Professorin für Erziehungswissenschaften an der Universität Helsinki und Mitglied des Finnish National Board on Research Integrity, zeigte in ihrem Referat auf, welche Bedeutung im Verhältnis von Betreuenden zu Doktorierenden ethischen Prinzipien zukommen: die Autonomie respektieren, niemanden benachteiligen, Unterstützung bieten, gerecht sein und ehrlich bleiben.
+
+## Doktorat weiter verbessern
+
+Betreuende und Studierende gewichten diese Prinzipien unterschiedlich, so Löfström, was sich belastend auf die Beziehung auswirken kann. Während Erstere vor allem darauf achten, dass sie niemanden benachteiligen, gewichten Letztere Gerechtigkeit, Ehrlichkeit und die Unterstützung, die sie erfahren, höher. Weiter hat Löfström herausgefunden, dass eine Missachtung oder besondere Beachtung der ethischen Prinzipien unterschiedliche Folgen hat. So können etwa das Autonomie- und Unterstützungsprinzip besonders motivieren oder bei Missachtung bis zum Burnout führen.
+
+Die verborgenen Seiten im Leben von Doktorierenden beleuchtete Søren S. E. Bengtsen, Professor am Centre for Teaching Development and Digital Media der Aarhus Universität in Dänemark. Er stellt fest, dass auf der einen Seite die Ausbildung zunehmend formalisiert wird, indem etwa «Doctoral Schools» an Grösse und Komplexität zunehmen und den Doktorierenden immer mehr fachliche, technische und praktische Unterstützung bieten. Auf der anderen Seite beobachtet er eine wachsende Anzahl von Doktorierenden, die sich in diesen Systemen gestresst oder verloren fühlen. Denn Doktorierende sind mehr als Forschende, es sind Menschen, die beispielsweise auch ein Privatleben haben.
+
+Bengtsen betonte die Bedeutung von informellen Netzwerken – auch ausserhalb der Universitäten –, die hier eine wichtige Rolle spielen. Das können selbst gewählte Betreuer sein, Peers, die beispielsweise eine Arbeit gegenlesen, Mitarbeitende in der Administration, aber auch Freunde und Familienangehörige, mit denen man Sorgen teilen kann. Doktorväter und -mütter müssen sich dieser Bedürfnisse bewusst sein, können da selbst eine Funktion übernehmen oder Doktorierende gezielt dabei unterstützen, sich in soziale Gemeinschaften einzubringen und ihr eigenes professionelles Netzwerk aufzubauen.
+
+Wie Kurse für Betreuende zu einem grossen Erfolg werden können, berichteten die zwei Referenten von der Universität Lund in Schweden: Anders Sonesson, Senior Lecturer in Erziehungswissenschaften und Leiter der Abteilung für Hochschulentwicklung, sowie Anders Ahlberg, Professor in der Fakultät für Ingenieurwissenschaften. Die beiden wurden 2003 beauftragt, an ihrer Universität Pflichtkurse zu «Doctoral Supervision» durchzuführen, zwei Jahre bevor solche Kurse in ganz Schweden gesetzlich vorgeschrieben wurden. Es war ein harziger Start, mit zweitägigen Kursen, die sie in grosser Zahl durchführten und als wenig befriedigend empfanden. So haben sie die Kurse grundlegend neu aufgestellt.
+
+Heute tauschen sich die Teilnehmenden zu praktischen Herausforderungen rund um die Betreuung von Doktorierenden aus, ähnlich wie in den Workshops dieses Symposiums. Sie gehen darüber hinaus auch eigentlichen Forschungsfragen nach und halten ihre Erkenntnisse schriftlich fest. Diese Dokumente dienen wiederum als Inputs für die Teilnehmenden der nächsten Kurse, die die Themen weiterentwickeln. Manche dieser Resultate werden in Fachzeitschriften publiziert und fanden Eingang in ein Buch, das gemeinsam mit anderen Universitäten produziert wurde und in vielen schwedischen Universitäten zum Einsatz kommt. Obwohl die Kurse nun viel länger dauern – insgesamt zwei bis drei Wochen – werden sie sehr geschätzt. Auch von den beiden Referenten, die beim Lehren gleichzeitig lernen.
+
+Im Anschluss an die Referate diskutierten die Teilnehmenden die unterschiedlichen Aspekte in Workshops – über 40 an der Zahl über die zwei Tage. Dozierende, Doktorierende, Lehrspezialistinnen und weitere Mitarbeiter aus der Administration tauschten Erfahrungen aus, benannten Herausforderungen und diskutierten Lösungsansätze. Und hielten ihre Erkenntnisse auf hunderten von Flipchartblättern und Post-its fest.
+
+Wie aber sieht es mit Massnahmen aus? «Erwartungen an bestimmte Ergebnisse standen nicht im Vordergrund des Symposiums», relativiert Antonio Togni die Frage. Als Chemiker ist er die Veranstaltung als eine Art Experiment angegangen, bei dem die Beschäftigung mit dem Thema und der Austausch der verschiedenen Gruppen im Zentrum steht. «Ich bin aber hocherfreut, wie produktiv die Diskussionen abgelaufen sind, und die schriftlichen Dokumente sind eine immense Quelle an Anregungen», sagt er. Diese sollen nun in den nächsten Wochen ausgewertet und den Departementen zur Verfügung gestellt werden.
+
+«Das Symposium hat wichtige Fragen zu diesem komplexen Thema aufgeworfen und Lösungsansätze gezeigt», resümiert Rektorin Sarah Springman. Die Ergebnisse würden in den bereits laufenden Prozess, wie das Doktorat an der ETH strukturell noch besser werden kann, mit einfliessen. «Doch wir alle werden uns immer wieder mit dem Thema beschäftigen müssen. Denn wer Doktorierende betreut, muss einen Weg finden, ihren Ansprüchen und Bedürfnissen gerecht zu werden», so die ETH-Rektorin. «Doch auch die Doktorierenden müssen sich mit dem Thema auseinandersetzen und ihrerseits Verantwortung übernehmen», ergänzt sie. Nur so werde die ETH auch beim Doktorat zu den führenden Hochschulen gehören.
+
+Und wie haben die Doktorierenden die zwei Tage erlebt? «Es war für uns eine äusserst wertvolle Erfahrung, uns zusammen mit allen Personengruppen, die für Doktorierende eine Rolle spielen, über das Doktorat auszutauschen und persönliche Einblicke zu erhalten», sagt Martin Roszkowski, Präsident der Akademischen Vereinigung des Mittelbaus der ETH Zürich (AVETH). Das Symposium habe gezeigt, dass sich einzelne Friktionen zwischen Doktorierenden und Betreuenden auch in Zukunft nicht vermeiden liessen, weil es so viele unterschiedliche Ansprüche und Dispositionen gebe. «Doch ein vertrauensvolles Verhältnis zwischen allen Involvierten trägt dazu bei, dass man sich über Erfahrungen austauschen und eine Lösung finden kann», sagt Roszkowski.
+
+Die Vorträge sind alle auf dem Multimedia-Portal der ETH Zürich abrufbar: https://www.video.ethz.ch/events/2019/supervision
+

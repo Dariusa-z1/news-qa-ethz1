@@ -1,0 +1,582 @@
+{
+  "filename": "embryonic-development-in-slow-motion.md",
+  "original_filename": "embryonic-development-in-slow-motion.html",
+  "source_path": "en_news_events/2021/08/embryonic-development-in-slow-motion.html",
+  "date": "2021-08",
+  "title": "Embryonic Development In Slow Motion",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Gene transcripts and signalling molecules studied",
+      "text": "Everyone is familiar with the roe deer, either from crossword puzzles or from real-life encounters during a jog or a hike in the forest: majestic creatures with elegant big black eyes.\n\nAs common as roe deer may seem in Swiss forests, one of their characteristics is unique among deer species. After mating and fertilisation of the egg in midsummer, the pinhead-sized embryo does not implant in the uterus, but enters into a period of dormancy, called embryonic diapause. This period lasts for over four months until December. Only then does the embryo continue its development at normal pace and implants in the uterus. In May, after four and a half months of “real” gestation, the doe gives birth to one to three fawns.\n\nAlthough the phenomenon has been known for more than 150 years, it still puzzles. Various forms of embryonic diapause are known to occur in over 130 mammalian species. However, they rarely last as long as observed in the roe deer. And, most importantly, almost no other species shows such a pronounced, continuous deceleration instead of a complete halt. In mice, scientists can artificially induce diapause. However, in roe deer it is still unclear which factors control diapause while keeping the embryo alive.\n\nThe research group led by Susanne Ulbrich, Professor of Animal Physiology at ETH Zurich, has been investigating the mystery of roe deer diapause for some time. In a new study, the researchers show which molecular processes take place in the embryo while it is dormant: embryonic cells continue to divide during diapause, albeit very slowly. The number of cells, including embryonic stem cells, doubles only every two to three weeks. The study, which has just been published in the journal PNAS , involved not only the ETH group, but also researchers from the Universities of Zurich and Bern, as well as German and French research institutions."
+    },
+    {
+      "heading": "Gene transcripts and signalling molecules studied",
+      "text": "To answer the question of what prevents the embryonic cells from dividing at a normal pace, the researchers first examined the molecular composition of the uterine fluid. Next, they took a closer look at the transcriptome, i.e., the sum of all messenger RNA molecules, of the embryos and the uterine epithelial cells."
+    },
+    {
+      "heading": "Reference",
+      "text": "In the uterine fluid, the researchers found signalling substances that could regulate the cell division rate. The amino acid serine was particularly conspicuous. The ETH researchers showed that towards the end of diapause, the concentration of certain amino acids in the uterine fluid changes. The cell proliferation rate then concomitantly returns to a normal rate.\n\nThis process involves the molecular complex mammalian target of rapamycin (mTOR). mTOR reacts to amino acids and plays a crucial role in many metabolic signalling pathways in mammalian cells, including those associated with cancer. mTORC1, for example, regulates protein synthesis and thus cell growth and division.\n\nAccording to the new findings, the activity of only mTORC1, but not mTORC2, is suppressed in roe deer embryos throughout diapause. This is in contrast to diapausing mice, where cell division is completely halted upon inhibition of both mTORC1 and mTORC2.\n\nTowards the end of diapause, the significant increase in the amino acid level in the uterine fluid activates mTORC1. This, in turn, increases the expression of metabolic and cell cycle genes, driving embryo development forwards. Meanwhile, since mTORC2 is not inhibited during diapause in roe deer embryos, the researchers hypothesise that this could explain why cell division slowly continues.\n\nIn this study, the researchers did not investigate whether other signalling molecules are involved alongside the various amino acids. It also remains unclear whether the amino acids are actually responsible for the resumption of embryonic development or whether the embryo itself also secretes molecules that act on maternal cells and signalling pathways. The embryo may indicate its presence to its mother through specific signalling molecules. Ulbrich would like to close this knowledge gap in future studies.\n\nThese new findings shed light on reproductive and developmental biology in general. One fundamental question is how pregnancy is established in mammals. For example, in women and in domestic cattle, embryos often fail to implant in the uterus and die. “This has to do with complex interactions between the embryo and the mother,” Ulbrich says.\n\nShe adds that a successful pregnancy calls for precise timing. The embryo must make itself known at the right time through appropriate (molecular) signals and interrupt the mother’s cycle. “We want to better understand this interaction between embryo and mother,” Ulbrich explains. For this, she says, the roe deer is an ideal model. Embryonic development in roe deer is very similar to that of cattle but takes place in slow motion. “This allows us to better temporally resolve the sequence of events and find causal relationships.”\n\nThe findings could also help improve in vitro fertilisation in humans so that embryos may no longer need to be frozen. Moreover, natural factors could be used to control the rate at which cells, including embryonic stem cells, divide.\n\nvan der Weijden VA, Bick JT, Bauersachs S, Rueegg AB, Hildebrandt TB, Goeritz F, Jewgenow K, Giesbertz P, Daniel H, Derisoud E, Chavatte-Palmer P, Bruckmaier RM, Drews B, Ulbrich SE (2021). Amino acids activate mTORC1 to release roe deer embryos from decelerated proliferation during diapause. PNAS, publiziert 27.8.2021. DOI: 10.1073/pnas.2100500118\n\nRüegg AB, Bernal S, Moser FN, Rutzen I, Ulbrich SE (2020). Trophectoderm and embryoblast proliferate at slow pace in the course of embryonic diapause in the roe deer (Capreolus capreolus) (2020). Bioscientifica Proceedings 10 ISEDISED13 | DOI: 10.1530/biosciprocs.10.013"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 219,
+        "end": 224
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 234,
+        "end": 237
+      },
+      {
+        "text": "midsummer",
+        "label": "DATE",
+        "start": 338,
+        "end": 347
+      },
+      {
+        "text": "embryonic diapause",
+        "label": "WORK_OF_ART",
+        "start": 451,
+        "end": 469
+      },
+      {
+        "text": "four months",
+        "label": "DATE",
+        "start": 498,
+        "end": 509
+      },
+      {
+        "text": "December",
+        "label": "DATE",
+        "start": 516,
+        "end": 524
+      },
+      {
+        "text": "May",
+        "label": "DATE",
+        "start": 623,
+        "end": 626
+      },
+      {
+        "text": "four and a half months",
+        "label": "DATE",
+        "start": 634,
+        "end": 656
+      },
+      {
+        "text": "one to three",
+        "label": "CARDINAL",
+        "start": 701,
+        "end": 713
+      },
+      {
+        "text": "more than 150 years",
+        "label": "DATE",
+        "start": 764,
+        "end": 783
+      },
+      {
+        "text": "over 130",
+        "label": "CARDINAL",
+        "start": 861,
+        "end": 869
+      },
+      {
+        "text": "Susanne Ulbrich",
+        "label": "PERSON",
+        "start": 1260,
+        "end": 1275
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1311,
+        "end": 1321
+      },
+      {
+        "text": "only every two to",
+        "label": "CARDINAL",
+        "start": 1636,
+        "end": 1653
+      },
+      {
+        "text": "PNAS",
+        "label": "ORG",
+        "start": 1723,
+        "end": 1727
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1752,
+        "end": 1755
+      },
+      {
+        "text": "the Universities of Zurich",
+        "label": "ORG",
+        "start": 1789,
+        "end": 1815
+      },
+      {
+        "text": "Bern",
+        "label": "ORG",
+        "start": 1820,
+        "end": 1824
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 1837,
+        "end": 1843
+      },
+      {
+        "text": "French",
+        "label": "NORP",
+        "start": 1848,
+        "end": 1854
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 108,
+        "end": 113
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 166,
+        "end": 169
+      },
+      {
+        "text": "mTORC1",
+        "label": "ORG",
+        "start": 1047,
+        "end": 1053
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1929,
+        "end": 1932
+      },
+      {
+        "text": "Ulbrich",
+        "label": "PERSON",
+        "start": 2175,
+        "end": 2182
+      },
+      {
+        "text": "Ulbrich",
+        "label": "PERSON",
+        "start": 2453,
+        "end": 2460
+      },
+      {
+        "text": "van der Weijden VA",
+        "label": "PERSON",
+        "start": 2958,
+        "end": 2976
+      },
+      {
+        "text": "Bick JT",
+        "label": "PERSON",
+        "start": 2978,
+        "end": 2985
+      },
+      {
+        "text": "Bauersachs S",
+        "label": "ORG",
+        "start": 2987,
+        "end": 2999
+      },
+      {
+        "text": "Hildebrandt TB",
+        "label": "ORG",
+        "start": 3012,
+        "end": 3026
+      },
+      {
+        "text": "Goeritz F",
+        "label": "PERSON",
+        "start": 3028,
+        "end": 3037
+      },
+      {
+        "text": "Jewgenow K",
+        "label": "ORG",
+        "start": 3039,
+        "end": 3049
+      },
+      {
+        "text": "Daniel H",
+        "label": "PERSON",
+        "start": 3064,
+        "end": 3072
+      },
+      {
+        "text": "Chavatte-Palmer P",
+        "label": "ORG",
+        "start": 3086,
+        "end": 3103
+      },
+      {
+        "text": "Bruckmaier RM",
+        "label": "PERSON",
+        "start": 3105,
+        "end": 3118
+      },
+      {
+        "text": "Drews B",
+        "label": "ORG",
+        "start": 3120,
+        "end": 3127
+      },
+      {
+        "text": "Amino",
+        "label": "NORP",
+        "start": 3148,
+        "end": 3153
+      },
+      {
+        "text": "27.8.2021",
+        "label": "CARDINAL",
+        "start": 3269,
+        "end": 3278
+      },
+      {
+        "text": "10.1073/pnas.2100500118",
+        "label": "CARDINAL",
+        "start": 3285,
+        "end": 3308
+      },
+      {
+        "text": "Bernal S, Moser FN",
+        "label": "ORG",
+        "start": 3319,
+        "end": 3337
+      },
+      {
+        "text": "Rutzen I",
+        "label": "PERSON",
+        "start": 3339,
+        "end": 3347
+      },
+      {
+        "text": "Trophectoderm",
+        "label": "GPE",
+        "start": 3368,
+        "end": 3381
+      },
+      {
+        "text": "Bioscientifica Proceedings 10",
+        "label": "ORG",
+        "start": 3505,
+        "end": 3534
+      },
+      {
+        "text": "10.1530",
+        "label": "CARDINAL",
+        "start": 3553,
+        "end": 3560
+      },
+      {
+        "text": "biosciprocs.10.013",
+        "label": "ORG",
+        "start": 3561,
+        "end": 3579
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bick JT",
+        "Bruckmaier RM",
+        "Daniel H",
+        "Goeritz F",
+        "Rutzen I",
+        "Susanne Ulbrich",
+        "Ulbrich",
+        "van der Weijden VA"
+      ],
+      "ORG": [
+        "Bauersachs S",
+        "Bern",
+        "Bernal S, Moser FN",
+        "Bioscientifica Proceedings 10",
+        "Chavatte-Palmer P",
+        "Drews B",
+        "ETH",
+        "ETH Zurich",
+        "Hildebrandt TB",
+        "Jewgenow K",
+        "PNAS",
+        "biosciprocs.10.013",
+        "mTORC1",
+        "the Universities of Zurich"
+      ],
+      "LOCATION": [
+        "Trophectoderm"
+      ],
+      "DATE": [
+        "December",
+        "May",
+        "four and a half months",
+        "four months",
+        "midsummer",
+        "more than 150 years"
+      ],
+      "MISC": [
+        "10.1073/pnas.2100500118",
+        "10.1530",
+        "27.8.2021",
+        "Amino",
+        "French",
+        "German",
+        "One",
+        "Swiss",
+        "embryonic diapause",
+        "first",
+        "one",
+        "one to three",
+        "only every two to",
+        "over 130"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Ulbrich": 2,
+      "Swiss": 1,
+      "one": 1,
+      "midsummer": 1,
+      "embryonic diapause": 1,
+      "four months": 1,
+      "December": 1,
+      "May": 1,
+      "four and a half months": 1,
+      "one to three": 1,
+      "more than 150 years": 1,
+      "over 130": 1,
+      "Susanne Ulbrich": 1,
+      "ETH Zurich": 1,
+      "only every two to": 1,
+      "PNAS": 1,
+      "the Universities of Zurich": 1,
+      "Bern": 1,
+      "German": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 43
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "embryonic-development-in-slow-motion.md",
+      "title": "En News Events/2021/08/embryonic Development in Slow Motion",
+      "language": "en",
+      "source_path": "en_news_events/2021/08/embryonic-development-in-slow-motion.html"
+    },
+    "temporal": {
+      "publication_date": "2021-08",
+      "mentioned_years": [
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bick JT",
+        "Bruckmaier RM",
+        "Daniel H",
+        "Goeritz F",
+        "Rutzen I",
+        "Susanne Ulbrich",
+        "Ulbrich",
+        "van der Weijden VA"
+      ],
+      "people_with_roles": {
+        "Susanne Ulbrich": [
+          "professor"
+        ],
+        "Ulbrich": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1073/pnas.2100500118",
+        "10.1530",
+        "27.8.2021",
+        "Amino",
+        "French",
+        "German",
+        "Swiss",
+        "embryonic diapause",
+        "first",
+        "one to three",
+        "only every two to",
+        "over 130"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Susanne Ulbrich",
+        "Weijden VA",
+        "Jewgenow K",
+        "Ulbrich SE",
+        "Chavatte-Palmer",
+        "Derisoud E",
+        "Daniel H",
+        "Slow Motion",
+        "Bernal S",
+        "Bruckmaier RM",
+        "Bauersachs S",
+        "Rutzen I",
+        "Giesbertz P",
+        "Bick JT",
+        "In May",
+        "Rueegg AB",
+        "The ETH",
+        "Goeritz F",
+        "Drews B",
+        "Animal Physiology",
+        "En News",
+        "Hildebrandt TB",
+        "Bioscientifica Proceedings",
+        "Moser FN",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bauersachs S",
+        "Bern",
+        "Bernal S, Moser FN",
+        "Bioscientifica Proceedings 10",
+        "Chavatte-Palmer P",
+        "Drews B",
+        "ETH",
+        "ETH Zurich",
+        "Hildebrandt TB",
+        "Jewgenow K",
+        "PNAS",
+        "biosciprocs.10.013",
+        "mTORC1",
+        "the Universities of Zurich"
+      ],
+      "locations": [
+        "Trophectoderm"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Ulbrich",
+        "Swiss",
+        "one",
+        "midsummer",
+        "embryonic diapause",
+        "four months",
+        "December",
+        "May",
+        "four and a half months"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Gene transcripts and signalling molecules studied",
+          "Gene transcripts and signalling molecules studied",
+          "Reference"
+        ],
+        "content_length": 5847
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Susanne Ulbrich",
+        "ETH",
+        "Bern",
+        "Chavatte-Palmer P",
+        "Jewgenow K",
+        "mTORC1",
+        "2020",
+        "the Universities of Zurich",
+        "Bioscientifica Proceedings 10",
+        "Daniel H",
+        "Bernal S, Moser FN",
+        "Bruckmaier RM",
+        "Bauersachs S",
+        "Rutzen I",
+        "Ulbrich",
+        "Bick JT",
+        "Goeritz F",
+        "Drews B",
+        "biosciprocs.10.013",
+        "Hildebrandt TB",
+        "ETH Zurich",
+        "van der Weijden VA",
+        "2021",
+        "PNAS"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "chemistry",
+        "when",
+        "French",
+        "10.1073/pnas.2100500118",
+        "biology",
+        "over 130",
+        "medical_research",
+        "who",
+        "what",
+        "how",
+        "first",
+        "10.1530",
+        "only every two to",
+        "27.8.2021",
+        "Swiss",
+        "embryonic diapause",
+        "one to three",
+        "German",
+        "Amino",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Susanne Ulbrich_has_role_professor",
+        "Ulbrich_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

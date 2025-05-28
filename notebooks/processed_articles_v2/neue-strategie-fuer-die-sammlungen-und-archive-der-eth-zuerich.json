@@ -1,0 +1,282 @@
+{
+  "filename": "neue-strategie-fuer-die-sammlungen-und-archive-der-eth-zuerich.md",
+  "original_filename": "neue-strategie-fuer-die-sammlungen-und-archive-der-eth-zuerich.html",
+  "source_path": "en_internal/2020/06/neue-strategie-fuer-die-sammlungen-und-archive-der-eth-zuerich.html",
+  "date": "2020-06",
+  "title": "Neue Strategie Fuer Die Sammlungen Und Archive Der Eth Zuerich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In March 2020, the Executive Board agreed on the “ Strategy Collections and Archives 2021 to 2024 ”. This document lays out the strategic principles in the following seven areas:\n\nAreas of action and priority measures to be taken were identified for each of the strategic principles.\n\nOver the course of the coming years, there will be a stronger focus on fostering dialogue between the university and the public, improving cooperation with the departments in research and teaching, and ensuring the information science expertise of ETH Library is used to further develop the Collections and Archives of ETH Zurich.\n\nThe “Strategy Collections and Archives 2021 to 2024” document was drafted in 2019 and 2020 as part of a project headed up by ETH Library on behalf of the Vice President of Infrastructure.\n\n#KnowHow – ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Strategie Fuer",
+        "label": "ORG",
+        "start": 25,
+        "end": 39
+      },
+      {
+        "text": "Sammlungen",
+        "label": "ORG",
+        "start": 44,
+        "end": 54
+      },
+      {
+        "text": "Archive",
+        "label": "ORG",
+        "start": 59,
+        "end": 66
+      },
+      {
+        "text": "Eth Zuerich",
+        "label": "PERSON",
+        "start": 71,
+        "end": 82
+      },
+      {
+        "text": "March 2020",
+        "label": "DATE",
+        "start": 3,
+        "end": 13
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 15,
+        "end": 34
+      },
+      {
+        "text": "the “ Strategy Collections and",
+        "label": "ORG",
+        "start": 45,
+        "end": 75
+      },
+      {
+        "text": "2021 to",
+        "label": "DATE",
+        "start": 85,
+        "end": 92
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 166,
+        "end": 171
+      },
+      {
+        "text": "the coming years",
+        "label": "DATE",
+        "start": 302,
+        "end": 318
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 531,
+        "end": 542
+      },
+      {
+        "text": "Collections",
+        "label": "ORG",
+        "start": 574,
+        "end": 585
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 739,
+        "end": 750
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 812,
+        "end": 825
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library’s",
+        "Eth Zuerich"
+      ],
+      "ORG": [
+        "Archive",
+        "Collections",
+        "ETH Library",
+        "Sammlungen",
+        "Strategie Fuer",
+        "the Executive Board",
+        "the “ Strategy Collections and"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "2021 to",
+        "March 2020",
+        "the coming years"
+      ],
+      "MISC": [
+        "seven"
+      ]
+    },
+    "entity_counts": {
+      "ETH Library": 2,
+      "Strategie Fuer": 1,
+      "Sammlungen": 1,
+      "Archive": 1,
+      "Eth Zuerich": 1,
+      "March 2020": 1,
+      "the Executive Board": 1,
+      "the “ Strategy Collections and": 1,
+      "2021 to": 1,
+      "seven": 1,
+      "the coming years": 1,
+      "Collections": 1,
+      "ETH Library’s": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neue-strategie-fuer-die-sammlungen-und-archive-der-eth-zuerich.md",
+      "title": "En Internal/2020/06/neue Strategie Fuer die Sammlungen und Archive der Eth Zuerich",
+      "language": "en",
+      "source_path": "en_internal/2020/06/neue-strategie-fuer-die-sammlungen-und-archive-der-eth-zuerich.html"
+    },
+    "temporal": {
+      "publication_date": "2020-06",
+      "mentioned_years": [
+        "2019",
+        "2020",
+        "2021",
+        "2024"
+      ],
+      "time_periods": [
+        [
+          "2021",
+          "2024"
+        ],
+        [
+          "2021",
+          "2024"
+        ],
+        [
+          "2019",
+          "2020"
+        ]
+      ],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library’s",
+        "Eth Zuerich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "president",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "seven"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Vice President",
+        "Strategie Fuer",
+        "In March",
+        "Strategy Collections",
+        "ETH Library",
+        "Executive Board",
+        "En Internal",
+        "Eth Zuerich",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Archive",
+        "Collections",
+        "ETH Library",
+        "Sammlungen",
+        "Strategie Fuer",
+        "the Executive Board",
+        "the “ Strategy Collections and"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Library",
+        "Strategie Fuer",
+        "Sammlungen",
+        "Archive",
+        "Eth Zuerich",
+        "March 2020",
+        "the Executive Board",
+        "the “ Strategy Collections and",
+        "2021 to",
+        "seven"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 961
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "Collections",
+        "Strategie Fuer",
+        "2019",
+        "EU",
+        "ETH Library",
+        "Sammlungen",
+        "2020",
+        "the “ Strategy Collections and",
+        "the Executive Board",
+        "Eth Zuerich",
+        "Archive",
+        "2021",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "seven",
+        "who",
+        "where",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

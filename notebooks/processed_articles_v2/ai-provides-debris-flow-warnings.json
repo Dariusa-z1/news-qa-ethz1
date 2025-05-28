@@ -1,0 +1,780 @@
+{
+  "filename": "ai-provides-debris-flow-warnings.md",
+  "original_filename": "ai-provides-debris-flow-warnings.html",
+  "source_path": "en_news_events/2021/03/ai-provides-debris-flow-warnings.html",
+  "date": "2021-03",
+  "title": "Ai Provides Debris Flow Warnings",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Measurements at the Illgraben test site",
+      "text": "Debris flows are a mixture of boulders, sediments and water. They often occur during heavy precipitation events in steep alpine terrain and plow through gorges and mountain streams towards the valley in an uncontrolled fashion. In Switzerland alone, there are several hundred occurrences every year. Climate change facilitates this natural phenomenon as permafrost is becoming increasingly unstable and extreme weather events are on the rise. If debris flows are particularly large or if they occur in unexpected areas, they develop a considerable destructive potential that threatens human lives, infrastructure and the environment.\n\nWarning systems play an important role in reducing the risk in exposed areas. It is crucial to be able to detect the approaching mud and debris as early and reliably as possible. Alarm systems are currently based on equipment that typically has to be installed in accessible, low-elevation valley sections. They register debris flows relatively late – a widespread problem in debris flow detection.\n\nResearchers at ETH Zurich and the Swiss Federal Institute for Forest, Snow and Landscape Research WSL have now developed a new type of detector that can recognize debris flows earlier. From a safe distance, it identifies even the smallest vibrations induced by debris flows shortly after they are mobilized. The scientists led by Fabian Walter, ETH Professor of Glacier Seismology, presented their novel approach in the scientific journal Geophysical Research Letters ."
+    },
+    {
+      "heading": "The crux: automatic detection",
+      "text": "The upper catchment of Illgraben. (Photograph: Werkstattgespräche / ETH Zurich)\n\nFor their study, the scientists selected Illgraben in the canton of Valais. On the steep slopes of the upper catchment area, boulders and sediment often detach and are deposited in the channel. Episodically, these deposits are mobilized as debris and mud avalanches and move for two to three kilometres through the deeply cut Illgraben gorge. They then reach the main Rhone valley and cover another two to three kilometres before reaching the Rhone river. WSL has operated an observatory with measuring stations at Illgraben for more than 20 years in order to study the formation and movement of debris flows and to determine their mass, density and speed.\n\nIn the 1960s, the lower Illgraben channel was stabilized and secured through the installation of check dams to keep the debris flows in the channel without endangering the surrounding area. Since various hiking trails run close to or cross the channel, an early warning system has been in operation since 2007.\n\nThis system is based on sensors within the channel bed, including geophones, radar and laser devices as well as video cameras. Although the equipment reliably records passing debris flows, it can only be used in the lower section of the valley where the torrent is accessible. This restricts the warning time to just a few minutes."
+    },
+    {
+      "heading": "Detecting debris flows with seismic sensors",
+      "text": "The new study addresses this shortcoming. \"We want to detect falling rocks and debris flows as early as possible, so we can warn the population in risk areas with sufficient notice,\" explains Małgorzata Chmiel, lead author of the paper and postdoc in Walter's research group at the Laboratory of Hydraulics, Hydrology and Glaciology (VAW) at ETH Zurich. Instead of monitoring debris flows using conventional equipment, Walter and his team use seismic sensors that are normally used to measure earthquakes.\n\nSeismometers can also be used to record vibrations from debris flows; depending on the event magnitude, the seismometers can be installed at distances of several kilometres. \"This means that debris flows can potentially be detected while they are still in higher-elevation and inaccessible areas,\" says Walter. For this purpose, the researchers installed a network of seismometers around the Illgraben catchment."
+    },
+    {
+      "heading": "The crux: automatic detection",
+      "text": "The real challenge, however, was to develop a detector that could specifically distinguish the vibrations of a debris flow from other ground vibrations in a continuous stream of seismic data. After all, even herds of cows, distant construction sites or rail and road traffic can make the earth tremble.\n\nWalter's team relied on machine learning – a method of artificial intelligence in which a computer learns, from training data, how to recognise patterns in large data sets. The researchers trained the learning algorithm using signals from past mass movements that they had previously recorded at Illgraben – a total of 22 occurrences. They then tested their system under real conditions with seismic monitoring data in real time."
+    },
+    {
+      "heading": "Workshop talk with Fabian Walter",
+      "text": "The lower section of Illgraben leads into the Rhone Valley. (Photograph: Werkstattgespräche / ETH Zurich)\n\nThe result: of the 13 debris flows and smaller flood events that occurred at Illgraben in the summer of 2020, the AI​ algorithm reliably detected every single one, without generating any false alarms. \"The algorithm recorded even the first seismic signals of debris flows high up in the catchment,\" says Walter. At Illgraben, this increased the warning time by at least 20 minutes compared with existing detection systems. \"This is a huge improvement,\" he says."
+    },
+    {
+      "heading": "Generalist or specialist?",
+      "text": "The study provided evidence that debris flows can be detected at an early stage using seismic data and machine learning. Illgraben offers an ideal natural laboratory for this and the method works well there. However, it requires a large set of debris flow signals to train the algorithm. \"Such training data are almost never available at other sites,\" admits the specialist in seismic mass movements.\n\nIt is still unclear to what extent the detector trained at Illgraben can also detect debris flows in other catchment areas. The scientists want to further develop the algorithm so that it can function with less or perhaps even with no location-specific training data.\n\nThe ambitions of the researchers go even further. The innovative detector is the first milestone in a higher-level project conducted by WSL and Swisscom Broadcast. The research collaboration, in which Walter's group is also significantly involved, aims to improve the monitoring of mass movements in Alpine regions. To this end, Swisscom Broadcast is developing a platform that brings together data streams from various sources, and analyses them in real time to identify natural hazards at an early stage.\n\nThe natural hazards platform is currently fed primarily by Walter's seismic sensors and seismographs from the Swiss Seismological Service. The researchers are working on integrating other relevant data sources in the future – from precipitation data and permafrost measurements to seismic monitoring using fibre optic cables and even numerous Internet of Things sensors. \"In order to process such huge amounts of data, you need big data approaches and intelligent algorithms,\" says Walter. The AI detector for debris flows is the first step in this direction.\n\nSince 2015, Fabian Walter holds an assistant professorship in glacier seismology at ETH Zurich, supported by the Swiss National Science Foundation (SNSF). This study was supported by the Canton of Valais, WSL, SNSF, the Swiss Seismological Service and Swisscom Broadcast.\n\nChmiel M, Walter F, Wenner M, Zhang Z, McArdell BW, Hibert C: Machine Learning Improves Debris Flow Warning . Geophysical Research Letters (2021), doi: 10.1029/2020GL090874"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 231,
+        "end": 242
+      },
+      {
+        "text": "several hundred",
+        "label": "CARDINAL",
+        "start": 260,
+        "end": 275
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1048,
+        "end": 1058
+      },
+      {
+        "text": "the Swiss Federal Institute for Forest",
+        "label": "ORG",
+        "start": 1063,
+        "end": 1101
+      },
+      {
+        "text": "Snow and Landscape Research WSL",
+        "label": "WORK_OF_ART",
+        "start": 1103,
+        "end": 1134
+      },
+      {
+        "text": "Fabian Walter",
+        "label": "ORG",
+        "start": 1363,
+        "end": 1376
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1378,
+        "end": 1381
+      },
+      {
+        "text": "Glacier Seismology",
+        "label": "ORG",
+        "start": 1395,
+        "end": 1413
+      },
+      {
+        "text": "Geophysical Research Letters",
+        "label": "ORG",
+        "start": 1472,
+        "end": 1500
+      },
+      {
+        "text": "Illgraben",
+        "label": "ORG",
+        "start": 23,
+        "end": 32
+      },
+      {
+        "text": "Werkstattgespräche / ETH Zurich",
+        "label": "ORG",
+        "start": 47,
+        "end": 78
+      },
+      {
+        "text": "Illgraben",
+        "label": "NORP",
+        "start": 121,
+        "end": 130
+      },
+      {
+        "text": "canton",
+        "label": "GPE",
+        "start": 138,
+        "end": 144
+      },
+      {
+        "text": "Valais",
+        "label": "GPE",
+        "start": 148,
+        "end": 154
+      },
+      {
+        "text": "two to",
+        "label": "CARDINAL",
+        "start": 359,
+        "end": 365
+      },
+      {
+        "text": "Illgraben",
+        "label": "NORP",
+        "start": 406,
+        "end": 415
+      },
+      {
+        "text": "Rhone valley",
+        "label": "LOC",
+        "start": 448,
+        "end": 460
+      },
+      {
+        "text": "another two to three",
+        "label": "CARDINAL",
+        "start": 471,
+        "end": 491
+      },
+      {
+        "text": "Rhone",
+        "label": "ORG",
+        "start": 523,
+        "end": 528
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 536,
+        "end": 539
+      },
+      {
+        "text": "Illgraben",
+        "label": "ORG",
+        "start": 595,
+        "end": 604
+      },
+      {
+        "text": "more than 20 years",
+        "label": "DATE",
+        "start": 609,
+        "end": 627
+      },
+      {
+        "text": "the 1960s",
+        "label": "DATE",
+        "start": 740,
+        "end": 749
+      },
+      {
+        "text": "Illgraben",
+        "label": "NORP",
+        "start": 761,
+        "end": 770
+      },
+      {
+        "text": "just a few minutes",
+        "label": "TIME",
+        "start": 1360,
+        "end": 1378
+      },
+      {
+        "text": "Małgorzata Chmiel",
+        "label": "PERSON",
+        "start": 192,
+        "end": 209
+      },
+      {
+        "text": "Walter",
+        "label": "ORG",
+        "start": 251,
+        "end": 257
+      },
+      {
+        "text": "the Laboratory of Hydraulics, Hydrology and Glaciology",
+        "label": "ORG",
+        "start": 278,
+        "end": 332
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 342,
+        "end": 352
+      },
+      {
+        "text": "Walter",
+        "label": "PERSON",
+        "start": 419,
+        "end": 425
+      },
+      {
+        "text": "several kilometres",
+        "label": "QUANTITY",
+        "start": 660,
+        "end": 678
+      },
+      {
+        "text": "Walter",
+        "label": "PERSON",
+        "start": 809,
+        "end": 815
+      },
+      {
+        "text": "Illgraben",
+        "label": "NORP",
+        "start": 898,
+        "end": 907
+      },
+      {
+        "text": "Walter",
+        "label": "PERSON",
+        "start": 303,
+        "end": 309
+      },
+      {
+        "text": "Illgraben",
+        "label": "ORG",
+        "start": 599,
+        "end": 608
+      },
+      {
+        "text": "Illgraben",
+        "label": "NORP",
+        "start": 21,
+        "end": 30
+      },
+      {
+        "text": "the Rhone Valley",
+        "label": "GPE",
+        "start": 42,
+        "end": 58
+      },
+      {
+        "text": "Werkstattgespräche / ETH Zurich",
+        "label": "ORG",
+        "start": 73,
+        "end": 104
+      },
+      {
+        "text": "13 debris",
+        "label": "QUANTITY",
+        "start": 125,
+        "end": 134
+      },
+      {
+        "text": "Illgraben",
+        "label": "ORG",
+        "start": 183,
+        "end": 192
+      },
+      {
+        "text": "the summer of 2020",
+        "label": "DATE",
+        "start": 196,
+        "end": 214
+      },
+      {
+        "text": "AI​",
+        "label": "GPE",
+        "start": 220,
+        "end": 223
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 340,
+        "end": 345
+      },
+      {
+        "text": "Walter",
+        "label": "PERSON",
+        "start": 410,
+        "end": 416
+      },
+      {
+        "text": "Illgraben",
+        "label": "ORG",
+        "start": 421,
+        "end": 430
+      },
+      {
+        "text": "at least 20 minutes",
+        "label": "CARDINAL",
+        "start": 467,
+        "end": 486
+      },
+      {
+        "text": "Illgraben",
+        "label": "NORP",
+        "start": 121,
+        "end": 130
+      },
+      {
+        "text": "Illgraben",
+        "label": "ORG",
+        "start": 460,
+        "end": 469
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 750,
+        "end": 755
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 805,
+        "end": 808
+      },
+      {
+        "text": "Swisscom Broadcast",
+        "label": "PERSON",
+        "start": 813,
+        "end": 831
+      },
+      {
+        "text": "Walter's",
+        "label": "ORG",
+        "start": 870,
+        "end": 878
+      },
+      {
+        "text": "Alpine",
+        "label": "ORG",
+        "start": 969,
+        "end": 975
+      },
+      {
+        "text": "Swisscom Broadcast",
+        "label": "PERSON",
+        "start": 998,
+        "end": 1016
+      },
+      {
+        "text": "Walter",
+        "label": "PERSON",
+        "start": 1235,
+        "end": 1241
+      },
+      {
+        "text": "the Swiss Seismological Service",
+        "label": "ORG",
+        "start": 1282,
+        "end": 1313
+      },
+      {
+        "text": "Walter",
+        "label": "PERSON",
+        "start": 1658,
+        "end": 1664
+      },
+      {
+        "text": "AI",
+        "label": "ORG",
+        "start": 1670,
+        "end": 1672
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1706,
+        "end": 1711
+      },
+      {
+        "text": "Fabian Walter",
+        "label": "ORG",
+        "start": 1748,
+        "end": 1761
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1820,
+        "end": 1830
+      },
+      {
+        "text": "the Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 1845,
+        "end": 1882
+      },
+      {
+        "text": "Canton",
+        "label": "GPE",
+        "start": 1923,
+        "end": 1929
+      },
+      {
+        "text": "Valais",
+        "label": "GPE",
+        "start": 1933,
+        "end": 1939
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 1941,
+        "end": 1944
+      },
+      {
+        "text": "the Swiss Seismological Service",
+        "label": "ORG",
+        "start": 1952,
+        "end": 1983
+      },
+      {
+        "text": "Swisscom Broadcast",
+        "label": "PERSON",
+        "start": 1988,
+        "end": 2006
+      },
+      {
+        "text": "Chmiel M",
+        "label": "ORG",
+        "start": 2008,
+        "end": 2016
+      },
+      {
+        "text": "Walter F",
+        "label": "PERSON",
+        "start": 2018,
+        "end": 2026
+      },
+      {
+        "text": "Wenner M",
+        "label": "ORG",
+        "start": 2028,
+        "end": 2036
+      },
+      {
+        "text": "McArdell BW",
+        "label": "ORG",
+        "start": 2047,
+        "end": 2058
+      },
+      {
+        "text": "Hibert C",
+        "label": "PERSON",
+        "start": 2060,
+        "end": 2068
+      },
+      {
+        "text": "10.1029/2020GL090874",
+        "label": "CARDINAL",
+        "start": 2160,
+        "end": 2180
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hibert C",
+        "Małgorzata Chmiel",
+        "Swisscom Broadcast",
+        "Walter",
+        "Walter F"
+      ],
+      "ORG": [
+        "AI",
+        "Alpine",
+        "Chmiel M",
+        "ETH",
+        "ETH Zurich",
+        "Fabian Walter",
+        "Geophysical Research Letters",
+        "Glacier Seismology",
+        "Illgraben",
+        "McArdell BW",
+        "Rhone",
+        "WSL",
+        "Walter",
+        "Walter's",
+        "Wenner M",
+        "Werkstattgespräche / ETH Zurich",
+        "the Laboratory of Hydraulics, Hydrology and Glaciology",
+        "the Swiss Federal Institute for Forest",
+        "the Swiss National Science Foundation",
+        "the Swiss Seismological Service"
+      ],
+      "LOCATION": [
+        "AI​",
+        "Canton",
+        "Rhone valley",
+        "Switzerland",
+        "Valais",
+        "canton",
+        "the Rhone Valley"
+      ],
+      "DATE": [
+        "just a few minutes",
+        "more than 20 years",
+        "the 1960s",
+        "the summer of 2020"
+      ],
+      "MISC": [
+        "10.1029/2020GL090874",
+        "13 debris",
+        "Illgraben",
+        "Snow and Landscape Research WSL",
+        "another two to three",
+        "at least 20 minutes",
+        "first",
+        "several hundred",
+        "several kilometres",
+        "two to"
+      ]
+    },
+    "entity_counts": {
+      "Illgraben": 12,
+      "Walter": 7,
+      "ETH Zurich": 3,
+      "WSL": 3,
+      "first": 3,
+      "Swisscom Broadcast": 3,
+      "Fabian Walter": 2,
+      "Werkstattgespräche / ETH Zurich": 2,
+      "Valais": 2,
+      "the Swiss Seismological Service": 2,
+      "Switzerland": 1,
+      "several hundred": 1,
+      "the Swiss Federal Institute for Forest": 1,
+      "Snow and Landscape Research WSL": 1,
+      "ETH": 1,
+      "Glacier Seismology": 1,
+      "Geophysical Research Letters": 1,
+      "canton": 1,
+      "two to": 1,
+      "Rhone valley": 1
+    },
+    "total_entities": 73,
+    "unique_entities": 44
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ai-provides-debris-flow-warnings.md",
+      "title": "En News Events/2021/03/ai Provides Debris Flow Warnings",
+      "language": "en",
+      "source_path": "en_news_events/2021/03/ai-provides-debris-flow-warnings.html"
+    },
+    "temporal": {
+      "publication_date": "2021-03",
+      "mentioned_years": [
+        "2007",
+        "2015",
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Hibert C",
+        "Małgorzata Chmiel",
+        "Swisscom Broadcast",
+        "Walter",
+        "Walter F"
+      ],
+      "people_with_roles": {
+        "Walter": [
+          "scientist",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10.1029/2020GL090874",
+        "13 debris",
+        "Illgraben",
+        "Snow and Landscape Research WSL",
+        "another two to three",
+        "at least 20 minutes",
+        "first",
+        "several hundred",
+        "several kilometres",
+        "two to"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Geophysical Research",
+        "Landscape Research",
+        "Flow Warning",
+        "Flow Warnings",
+        "In Switzerland",
+        "Swisscom Broadcast",
+        "Glacier Seismology",
+        "Walter F",
+        "At Illgraben",
+        "Swiss National",
+        "ETH Professor",
+        "Machine Learning",
+        "Rhone Valley",
+        "The AI",
+        "Improves Debris",
+        "Chmiel M",
+        "Provides Debris",
+        "McArdell BW",
+        "Fabian Walter",
+        "Science Foundation",
+        "Zhang Z",
+        "Swiss Federal",
+        "En News",
+        "Swiss Seismological",
+        "Wenner M",
+        "Hibert C",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Forest"
+      ],
+      "institutions": [
+        "AI",
+        "Alpine",
+        "Chmiel M",
+        "ETH",
+        "ETH Zurich",
+        "Fabian Walter",
+        "Geophysical Research Letters",
+        "Glacier Seismology",
+        "Illgraben",
+        "McArdell BW",
+        "Rhone",
+        "WSL",
+        "Walter",
+        "Walter's",
+        "Wenner M",
+        "Werkstattgespräche / ETH Zurich",
+        "the Laboratory of Hydraulics, Hydrology and Glaciology",
+        "the Swiss Federal Institute for Forest",
+        "the Swiss National Science Foundation",
+        "the Swiss Seismological Service"
+      ],
+      "locations": [
+        "AI​",
+        "Canton",
+        "Rhone valley",
+        "Switzerland",
+        "Valais",
+        "canton",
+        "the Rhone Valley"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Illgraben",
+        "Walter",
+        "ETH Zurich",
+        "WSL",
+        "first",
+        "Swisscom Broadcast",
+        "Fabian Walter",
+        "Werkstattgespräche / ETH Zurich",
+        "Valais",
+        "the Swiss Seismological Service"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Measurements at the Illgraben test site",
+          "The crux: automatic detection",
+          "Detecting debris flows with seismic sensors",
+          "The crux: automatic detection",
+          "Workshop talk with Fabian Walter",
+          "Generalist or specialist?"
+        ],
+        "content_length": 7352
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Geophysical Research Letters",
+        "2020",
+        "Rhone",
+        "Swisscom Broadcast",
+        "2007",
+        "the Swiss National Science Foundation",
+        "Walter F",
+        "Glacier Seismology",
+        "AI",
+        "Alpine",
+        "Chmiel M",
+        "WSL",
+        "2015",
+        "Werkstattgespräche / ETH Zurich",
+        "McArdell BW",
+        "Fabian Walter",
+        "the Laboratory of Hydraulics, Hydrology and Glaciology",
+        "Walter's",
+        "the Swiss Seismological Service",
+        "Małgorzata Chmiel",
+        "Wenner M",
+        "Hibert C",
+        "Illgraben",
+        "ETH Zurich",
+        "Walter",
+        "2021",
+        "the Swiss Federal Institute for Forest"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "several kilometres",
+        "10.1029/2020GL090874",
+        "two to",
+        "when",
+        "engineering",
+        "at least 20 minutes",
+        "another two to three",
+        "who",
+        "13 debris",
+        "several hundred",
+        "what",
+        "how",
+        "computer_science",
+        "climate_change",
+        "first",
+        "Illgraben",
+        "Snow and Landscape Research WSL",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Walter_has_role_scientist",
+        "Walter_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

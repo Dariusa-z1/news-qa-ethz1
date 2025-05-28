@@ -1,0 +1,186 @@
+{
+  "filename": "Calculating-without-electricity-the-new-story-on-Explora%20.md",
+  "original_filename": "Calculating-without-electricity-the-new-story-on-Explora%20.html",
+  "source_path": "en_internal/2018/06/Calculating-without-electricity-the-new-story-on-Explora%20.html",
+  "date": "2018-06",
+  "title": "Calculating Without Electricity The New Story On Explora%20",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Ever since time immemorial, humans have been trying to simplify the calculation process. The development of calculation aids over centuries has left numerous traces on ETH Library’s holdings: take the Collection of Astronomical Instruments, for instance, which also contains various historical calculating devices and machines. The latest story on Explora traces the path that inventors and scientists took for centuries to simplify calculation, avoid mistakes and accomplish ever larger calculation quantities. Delve into the story “Calculating without electricity – calculating machines as forerunners of the computer”\n\nExplora is ETH Library’s storytelling platform."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Without Electricity The New Story",
+        "label": "ORG",
+        "start": 32,
+        "end": 65
+      },
+      {
+        "text": "centuries",
+        "label": "DATE",
+        "start": 130,
+        "end": 139
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "ORG",
+        "start": 168,
+        "end": 181
+      },
+      {
+        "text": "the Collection of Astronomical Instruments",
+        "label": "ORG",
+        "start": 197,
+        "end": 239
+      },
+      {
+        "text": "Explora",
+        "label": "PERSON",
+        "start": 348,
+        "end": 355
+      },
+      {
+        "text": "centuries",
+        "label": "DATE",
+        "start": 411,
+        "end": 420
+      },
+      {
+        "text": "Explora",
+        "label": "PERSON",
+        "start": 621,
+        "end": 628
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 632,
+        "end": 645
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library’s",
+        "Explora"
+      ],
+      "ORG": [
+        "ETH Library’s",
+        "Without Electricity The New Story",
+        "the Collection of Astronomical Instruments"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "centuries"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "centuries": 2,
+      "ETH Library’s": 2,
+      "Explora": 2,
+      "Without Electricity The New Story": 1,
+      "the Collection of Astronomical Instruments": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "Calculating-without-electricity-the-new-story-on-Explora%20.md",
+      "title": "En Internal/2018/06/calculating Without Electricity The New Story On Explora%20",
+      "language": "en",
+      "source_path": "en_internal/2018/06/Calculating-without-electricity-the-new-story-on-Explora%20.html"
+    },
+    "temporal": {
+      "publication_date": "2018-06",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library’s",
+        "Explora"
+      ],
+      "people_with_roles": {
+        "Explora": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Without Electricity",
+        "ETH Library",
+        "En Internal",
+        "Astronomical Instruments",
+        "Story On",
+        "The New"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library’s",
+        "Without Electricity The New Story",
+        "the Collection of Astronomical Instruments"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "centuries",
+        "ETH Library’s",
+        "Explora",
+        "Without Electricity The New Story",
+        "the Collection of Astronomical Instruments"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 749
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "the Collection of Astronomical Instruments",
+        "Explora",
+        "ETH Library’s",
+        "Without Electricity The New Story"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "how",
+        "when",
+        "who"
+      ],
+      "graph_relations": [
+        "Explora_has_role_scientist",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

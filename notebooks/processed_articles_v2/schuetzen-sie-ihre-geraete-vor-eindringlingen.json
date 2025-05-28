@@ -1,0 +1,184 @@
+{
+  "filename": "schuetzen-sie-ihre-geraete-vor-eindringlingen.md",
+  "original_filename": "schuetzen-sie-ihre-geraete-vor-eindringlingen.html",
+  "source_path": "de_internal/2019/03/schuetzen-sie-ihre-geraete-vor-eindringlingen.html",
+  "date": "2019-03",
+  "title": "Schuetzen Sie Ihre Geraete Vor Eindringlingen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "IT-Geräte vereinfachen unser Leben und begleiten uns fast überallhin. Mit jedem Klick und jeder Interaktion auf dem Smartphone, Laptop oder Tablet verraten wir mehr über unsere digitale Identität.\n\nForschungsdaten, Hobbys, Geburtsdatum: Welche Daten werden auf Ihren Geräten gespeichert?\n\nUnd wer hat Zugriff auf diese Daten? Die neue Kampagne «Keep Intruder out» informiert über Risiken im digitalen Alltag und liefert praktische Sicherheits-Tipps.\n\nLesen Sie mehr dazu auf itsecurity.ethz.ch: PROTECT YOUR BRAINWORK ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/03/schuetzen",
+        "label": "LOC",
+        "start": 0,
+        "end": 29
+      },
+      {
+        "text": "Vor Eindringlingen",
+        "label": "MISC",
+        "start": 47,
+        "end": 65
+      },
+      {
+        "text": "Tablet",
+        "label": "PER",
+        "start": 140,
+        "end": 146
+      },
+      {
+        "text": "Hobbys",
+        "label": "MISC",
+        "start": 214,
+        "end": 220
+      },
+      {
+        "text": "Keep Intruder",
+        "label": "MISC",
+        "start": 343,
+        "end": 356
+      },
+      {
+        "text": "Risiken",
+        "label": "LOC",
+        "start": 378,
+        "end": 385
+      },
+      {
+        "text": "Sicherheits-Tipps",
+        "label": "MISC",
+        "start": 429,
+        "end": 446
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Tablet"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2019/03/schuetzen",
+        "Risiken"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Hobbys",
+        "Keep Intruder",
+        "Sicherheits-Tipps",
+        "Vor Eindringlingen"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2019/03/schuetzen": 1,
+      "Vor Eindringlingen": 1,
+      "Tablet": 1,
+      "Hobbys": 1,
+      "Keep Intruder": 1,
+      "Risiken": 1,
+      "Sicherheits-Tipps": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "schuetzen-sie-ihre-geraete-vor-eindringlingen.md",
+      "title": "De Internal/2019/03/schuetzen Sie Ihre Geraete Vor Eindringlingen",
+      "language": "de",
+      "source_path": "de_internal/2019/03/schuetzen-sie-ihre-geraete-vor-eindringlingen.html"
+    },
+    "temporal": {
+      "publication_date": "2019-03",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Tablet"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Hobbys",
+        "Keep Intruder",
+        "Sicherheits-Tipps",
+        "Vor Eindringlingen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Keep Intruder",
+        "PROTECT YOUR",
+        "De Internal",
+        "Welche Daten",
+        "Sicherheits-Tipps",
+        "Geraete Vor",
+        "Lesen Sie",
+        "Eindringlingen IT",
+        "Sie Ihre"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2019/03/schuetzen",
+        "Risiken"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2019/03/schuetzen",
+        "Vor Eindringlingen",
+        "Tablet",
+        "Hobbys",
+        "Keep Intruder",
+        "Risiken",
+        "Sicherheits-Tipps"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 585
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "EU",
+        "Tablet"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Keep Intruder",
+        "Vor Eindringlingen",
+        "Sicherheits-Tipps",
+        "Hobbys",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

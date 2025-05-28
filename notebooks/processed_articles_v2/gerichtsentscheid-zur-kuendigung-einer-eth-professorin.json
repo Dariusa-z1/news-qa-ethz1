@@ -1,0 +1,155 @@
+{
+  "filename": "gerichtsentscheid-zur-kuendigung-einer-eth-professorin.md",
+  "original_filename": "gerichtsentscheid-zur-kuendigung-einer-eth-professorin.html",
+  "source_path": "de_internal/2022/04/gerichtsentscheid-zur-kuendigung-einer-eth-professorin.html",
+  "date": "2022-04",
+  "title": "Gerichtsentscheid Zur Kuendigung Einer Eth Professorin",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die ETH Zürich nimmt das Urteil des Bundesverwaltungsgerichts, das noch ans Bundesgericht weitergezogen werden kann, zur Kenntnis.\n\nFür die Schulleitung ist die Feststellung des Bundesverwaltungsgerichts zentral, dass die ausgesprochene Kündigung «weder missbräuchlich noch geschlechterdiskriminierend» war. Sie kann die gerichtliche Kritik an gewissen Versäumnissen der Hochschule nachvollziehen.\n\nDie Schulleitung hat im März 2019 ein umfangreiches Massnahmenpaket zur Verbesserung der Führungs- und Betreuungssituation an der ETH Zürich lanciert. Seither wurden unter anderem die Prozesse im Umgang mit Konfliktsituationen verbessert, flächendeckend die Zweitbetreuung von Doktorierenden eingeführt und ein neuer Schulleitungsbereich geschaffen, der die Entwicklung von Führungskompetenzen vorantreibt.\n\nDie ETH Zürich wird analysieren, ob sich aus dem Urteil des Bundesverwaltungsgerichts zusätzliche Erkenntnisse zur Verbesserung ihrer Prozesse ergeben."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/04/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 4,
+        "end": 14
+      },
+      {
+        "text": "Bundesgericht",
+        "label": "LOC",
+        "start": 76,
+        "end": 89
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 527,
+        "end": 537
+      },
+      {
+        "text": "Doktorierenden",
+        "label": "LOC",
+        "start": 674,
+        "end": 688
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 808,
+        "end": 818
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "Bundesgericht",
+        "De Internal/2022/04/",
+        "Doktorierenden"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zürich": 3,
+      "De Internal/2022/04/": 1,
+      "Bundesgericht": 1,
+      "Doktorierenden": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "gerichtsentscheid-zur-kuendigung-einer-eth-professorin.md",
+      "title": "De Internal/2022/04/gerichtsentscheid Zur Kuendigung einer Eth Professorin",
+      "language": "de",
+      "source_path": "de_internal/2022/04/gerichtsentscheid-zur-kuendigung-einer-eth-professorin.html"
+    },
+    "temporal": {
+      "publication_date": "2022-04",
+      "mentioned_years": [
+        "2019",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "De Internal",
+        "Die Schulleitung",
+        "Eth Professorin",
+        "Die ETH",
+        "Zur Kuendigung"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "Bundesgericht",
+        "De Internal/2022/04/",
+        "Doktorierenden"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2022/04/",
+        "Bundesgericht",
+        "Doktorierenden"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1033
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "2022",
+        "EU",
+        "2019"
+      ],
+      "semantic_concepts": [
+        "who"
+      ],
+      "graph_relations": []
+    }
+  }
+}
