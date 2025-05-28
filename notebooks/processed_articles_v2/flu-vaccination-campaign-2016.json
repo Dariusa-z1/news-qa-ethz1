@@ -1,0 +1,255 @@
+{
+  "filename": "flu-vaccination-campaign-2016.md",
+  "original_filename": "flu-vaccination-campaign-2016.html",
+  "source_path": "en_internal/2016/09/flu-vaccination-campaign-2016.html",
+  "date": "2016-09",
+  "title": "Flu Vaccination Campaign 2016",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Vaccination appointments",
+      "text": "All members of ETH Zurich can get a vaccination: For all employees and students the vaccination is free of charge. The vaccination is optional.\n\nRegistration compulsory The vaccination is for ETH-members only. Registration is open now on the ."
+    },
+    {
+      "heading": "Vaccination appointments",
+      "text": "ETH Zurich, Zentrum, GEP Pavillon 20 October 2016, 08.30–11.30 h 15 November 2016, 08.30–11.30 h\n\nETH Zurich, Hönggerberg, HIT-building, E 51 25 October 2016, 13.30–16.30 h 24 November 2016, 08.30–11.30 h\n\nETH Zurich, D-BSSE, Basel 17 October 2016, 15.00–17.00 h"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En Internal/2016/09/flu Vaccination Campaign",
+        "label": "MISC",
+        "start": 0,
+        "end": 44
+      },
+      {
+        "text": "All members of ETH",
+        "label": "MISC",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "For all employees and students the vaccination is free of charge",
+        "label": "MISC",
+        "start": 49,
+        "end": 113
+      },
+      {
+        "text": "The vaccination is optional",
+        "label": "MISC",
+        "start": 115,
+        "end": 142
+      },
+      {
+        "text": "The vaccination is for ETH-members",
+        "label": "MISC",
+        "start": 168,
+        "end": 202
+      },
+      {
+        "text": "Registration is open",
+        "label": "MISC",
+        "start": 209,
+        "end": 229
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 12,
+        "end": 19
+      },
+      {
+        "text": "GEP",
+        "label": "ORG",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 97,
+        "end": 107
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 109,
+        "end": 120
+      },
+      {
+        "text": "HIT-building",
+        "label": "LOC",
+        "start": 122,
+        "end": 134
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 204,
+        "end": 214
+      },
+      {
+        "text": "D-BSSE",
+        "label": "ORG",
+        "start": 216,
+        "end": 222
+      },
+      {
+        "text": "Basel",
+        "label": "LOC",
+        "start": 224,
+        "end": 229
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "D-BSSE",
+        "ETH Zurich",
+        "GEP",
+        "Zentrum"
+      ],
+      "LOCATION": [
+        "Basel",
+        "HIT-building",
+        "Hönggerberg"
+      ],
+      "DATE": [],
+      "MISC": [
+        "All members of ETH",
+        "En Internal/2016/09/flu Vaccination Campaign",
+        "For all employees and students the vaccination is free of charge",
+        "Registration is open",
+        "The vaccination is for ETH-members",
+        "The vaccination is optional"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "En Internal/2016/09/flu Vaccination Campaign": 1,
+      "All members of ETH": 1,
+      "For all employees and students the vaccination is free of charge": 1,
+      "The vaccination is optional": 1,
+      "The vaccination is for ETH-members": 1,
+      "Registration is open": 1,
+      "Zentrum": 1,
+      "GEP": 1,
+      "Hönggerberg": 1,
+      "HIT-building": 1,
+      "D-BSSE": 1,
+      "Basel": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "flu-vaccination-campaign-2016.md",
+      "title": "En Internal/2016/09/flu Vaccination Campaign 2016",
+      "language": "de",
+      "source_path": "en_internal/2016/09/flu-vaccination-campaign-2016.html"
+    },
+    "temporal": {
+      "publication_date": "2016-09",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "All members of ETH",
+        "En Internal/2016/09/flu Vaccination Campaign",
+        "For all employees and students the vaccination is free of charge",
+        "Registration is open",
+        "The vaccination is for ETH-members",
+        "The vaccination is optional"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "GEP Pavillon",
+        "En Internal",
+        "Vaccination Campaign",
+        "ETH Zurich",
+        "D-BSSE"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "D-BSSE",
+        "ETH Zurich",
+        "GEP",
+        "Zentrum"
+      ],
+      "locations": [
+        "Basel",
+        "HIT-building",
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zurich",
+        "En Internal/2016/09/flu Vaccination Campaign",
+        "All members of ETH",
+        "For all employees and students the vaccination is free of charge",
+        "The vaccination is optional",
+        "The vaccination is for ETH-members",
+        "Registration is open",
+        "Zentrum",
+        "GEP",
+        "Hönggerberg"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Vaccination appointments",
+          "Vaccination appointments"
+        ],
+        "content_length": 556
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "GEP",
+        "2016",
+        "Zentrum",
+        "ETH Zurich",
+        "D-BSSE"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Registration is open",
+        "En Internal/2016/09/flu Vaccination Campaign",
+        "All members of ETH",
+        "For all employees and students the vaccination is free of charge",
+        "The vaccination is optional",
+        "The vaccination is for ETH-members"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

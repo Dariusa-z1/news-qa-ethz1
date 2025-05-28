@@ -1,0 +1,189 @@
+{
+  "filename": "individuelle-beratung-zu-ihren-fragen.md",
+  "original_filename": "individuelle-beratung-zu-ihren-fragen.html",
+  "source_path": "en_internal/2020/03/individuelle-beratung-zu-ihren-fragen.html",
+  "date": "2020-03",
+  "title": "Individuelle Beratung Zu Ihren Fragen",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "We now also offer Book a Librarian via Skype for Business. Make an appointment with us today if you have any questions about a database, if you need help with information research, or if you want to know more about the services offered by ETH Library, such as the Image Archive, open access publishing and research data management.\n\nWe will be happy to help!\n\nContact: You can also get in touch with us via WhatsApp or our chat function.\n\n#FocusHuman – Be inspired by people and learn something new.\n\n#ETHLibraryDigital – ETH Library is there for you digitally with various offers and services , not only during the COVID-19 protective measures."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Beratung zu Ihren Fragen",
+        "label": "PERSON",
+        "start": 33,
+        "end": 57
+      },
+      {
+        "text": "Librarian",
+        "label": "PERSON",
+        "start": 25,
+        "end": 34
+      },
+      {
+        "text": "Skype for Business",
+        "label": "ORG",
+        "start": 39,
+        "end": 57
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 87,
+        "end": 92
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 239,
+        "end": 250
+      },
+      {
+        "text": "the Image Archive",
+        "label": "ORG",
+        "start": 260,
+        "end": 277
+      },
+      {
+        "text": "WhatsApp",
+        "label": "ORG",
+        "start": 405,
+        "end": 413
+      },
+      {
+        "text": "ETH Library",
+        "label": "PERSON",
+        "start": 516,
+        "end": 527
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 610,
+        "end": 618
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Beratung zu Ihren Fragen",
+        "ETH Library",
+        "Librarian"
+      ],
+      "ORG": [
+        "COVID-19",
+        "ETH Library",
+        "Skype for Business",
+        "WhatsApp",
+        "the Image Archive"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "today"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Library": 2,
+      "Beratung zu Ihren Fragen": 1,
+      "Librarian": 1,
+      "Skype for Business": 1,
+      "today": 1,
+      "the Image Archive": 1,
+      "WhatsApp": 1,
+      "COVID-19": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "individuelle-beratung-zu-ihren-fragen.md",
+      "title": "En Internal/2020/03/individuelle Beratung zu Ihren Fragen",
+      "language": "en",
+      "source_path": "en_internal/2020/03/individuelle-beratung-zu-ihren-fragen.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "Beratung zu Ihren Fragen",
+        "ETH Library",
+        "Librarian"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH Library",
+        "Image Archive",
+        "Ihren Fragen",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "ETH Library",
+        "Skype for Business",
+        "WhatsApp",
+        "the Image Archive"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "ETH Library",
+        "Beratung zu Ihren Fragen",
+        "Librarian",
+        "Skype for Business",
+        "today",
+        "the Image Archive",
+        "WhatsApp",
+        "COVID-19"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 703
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Librarian",
+        "WhatsApp",
+        "ETH Library",
+        "2020",
+        "the Image Archive",
+        "Beratung zu Ihren Fragen",
+        "COVID-19",
+        "Skype for Business"
+      ],
+      "semantic_concepts": [
+        "what"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,88 @@
+# interview-juraj-hromkovic.html
+
+**Source:** en_news_events/2017/11/interview-juraj-hromkovic.html
+
+## About Juraj Hromkovic
+
+- Lino Guzzella:“We have to seize this opportunity” (ETH-News 20.06.2017)
+
+- Srdjan Capkun:“It’s always a compromise” (ETH-News 19.07.2017)
+
+- Joachim Buhmann“Medicine is becoming model-driven” (ETH-News 28.08.2017)
+
+- Roger Wattenhofer“Blockchain has been hyped up” (ETH-News 29.09.2017)
+
+- Nicolai Meinshausen “Our Master’s programme is in great demand” (ETH-News 17.10.2017)
+
+ETH News: Professor Hromkovic, in late October, the Swiss Conference of Cantonal Ministers of Education (EDK) came out in favour of introducing computer science as a compulsory subject in secondary schools. Are you pleased?
+
+Juraj Hromkovic: I would have been delighted five years ago. Today, I’m a bit disappointed. I would have preferred the EDK to say it wanted to introduce computer science as a basic subject. Well, at least we now have something to go on. If it proves a success, the second step will follow.
+
+Why should schools attach greater importance to computer science?
+
+A good school education should enable pupils to understand the world they live in, and it should prepare them for the world of work. Without computer science, schools are not meeting either of these aims.
+
+If I don’t understand technology, then I don’t understand the man-made world that I live in. On top of that, when it comes to the world of work, no one knows how this will look 10 to 15 years from now. Our job therefore is to teach young people about fundamental concepts: how do you create knowledge and develop technology? How do you convert knowledge into algorithms and use coding to delegate the execution of these algorithms to machines? If young people understand these things, they will have an opportunity to shape the future when they become adults. We must educate them to be inventors and producers rather than simply consumers.
+
+Juraj Hromkovic has been a Professor of Information Technology and Education at ETH Zurich since January 2004. In addition to his research into complexity theory and the design of algorithms for hard optimisation problems, his work focuses heavily on teaching methods in computer science. In order to promote the introduction of computer science as a school subject in Switzerland, he founded the Centre for Computer Science Education in 2005 and currently serves as the centre’s director. He is also in charge of teacher training for the teaching diploma in computer science at ETH Zurich.
+
+## ETH at Digitaltag
+
+Apple’s CEO, Tim Cook, recently said it would be more important for French people to be able to code in future than to speak English. Do you share this view?
+
+That statement was simply to make a media splash. For me, it isn’t just a question of programming; I’m talking about computer science as a whole.
+
+So what’s the difference?
+
+Programming is just one part of computer science. To put it simply, there would be no mathematics without arithmetic, but mathematics is about more than just arithmetic. Information technology, as a way of thinking, looks back on a 5,000-year history.
+
+But computers didn’t exist back then…
+
+Mesopotamia experienced the first big data crisis. How was this kingdom of millions of people supposed to keep track of who owned what and what taxes they owed, if all the information was stored only in people’s heads? They therefore developed the first writing system and created the first databases. This marked the birth of digitalisation, as digitalisation refers to the representation of information as discrete sequences of symbols. This was a far bigger revolution than the one we are experiencing today. The first secret codes, the foundations of today’s data security, were developed 3,500 years ago. And even before computer science evolved into a scientific discipline, people were developing data-compression procedures and error-correcting codes.
+
+Algorithmics is older still: humankind became efficient because it managed to convert knowledge into algorithms. Algorithms can be executed in bulk by people without the qualifications of the inventor. Computer science emerged after algorithms were formulated so precisely that they no longer required a capability for improvisation and technology had become so advanced that their execution could be delegated to it.
+
+In other words, computer science as a subject aims to impart fundamental concepts?
+
+Yes. In physics, you don’t start by looking at quantum physics. Physics teachers start with Archimedes and Newton, and little by little give their students an understanding of how the world works. This is exactly what we have to do in computer science. If we present children with highly complex systems right from the outset, it’s no wonder the teaching doesn’t sink in.
+
+How would you define good teaching?
+
+Rather than teaching a specific programming language, for example, we teach the origins and development of language. Initially, we give the children ten basic commands that they are allowed to use. Of course, expressing yourself in only ten terms is quite tedious. This helps the children understand the need for new terms. Then, we show them how they can teach the computer new words. Each child develops their own programming language and at the same time learns how languages develop and steadily evolve.
+
+In a previous interview, you stated that computer science has been taught wrongly in secondary schools for the last 20 years…
+
+…that’s a good way of putting it.
+
+In short, we need to teach children not about the finished products of science and technology, but rather about the processes involved in creating them.
+
+And that isn’t taught in secondary schools?
+
+No, they teach children only how to use computers and how to operate specific software systems. There is no attempt to provide depth or sustainability since the software systems are constantly being replaced. What children learn in IT in schools today has as much to do with computer science as driving a car has to do with mechanical engineering. Driving a car is a useful activity – there’s no doubt about that – but it’s not something you need to learn at school. Not all countries made this mistake. Switzerland unfortunately did.
+
+But we need not only mechanical engineers but also people who can drive cars.
+
+Yes, but for how much longer? The way development is going, all low-skilled tasks will one day be automated. Of course word processing and spreadsheets are important skills, but that doesn’t mean they should be given a dedicated subject at school.
+
+Do we have enough teachers for the sort of computer science education you describe?
+
+ETH has been training teachers who could teach computer science in this way for more than 15 years. So we’re not starting from zero.
+
+Earlier, you mentioned that computer science is taught differently in other countries. Which countries did you mean?
+
+Predominantly eastern European countries. I’m from the former Czechoslovakia, where I enjoyed four hours a week of proper computer science teaching for four years in the 1970s. In eastern Europe, on the whole, greater value has been attached to the STEM subjects than in the west. In Switzerland, the 1990s saw not only the replacement of computer science with IT, but also a downgrading of mathematics and the natural sciences. Now, we’re complaining that we don’t have enough engineers, mathematicians or scientists…
+
+What is the role of ETH in this debate?
+
+ETH should make every effort to ensure that schools once again attach greater importance to the STEM subjects. Young people want to achieve things in life, and these areas provide them with excellent opportunities to contribute to society. We should adopt a rule of thumb that says: people can reach happiness only when they offer exceptional performance in order to reach excellent achievements and which they believe is worthwhile. We have to bring this attitude back into schools.
+
+## ETH at Digitaltag
+
+Today is Switzerland’s national Digitaltag, with events being held throughout the country as well as at ETH Zurich. The university is presenting various exhibits relating to digitalisation as part of a large exhibition in Zurich’s main railway station, and will address selected aspects of digitalisation in a series of talks and live broadcasts. One of the highlights from ETH’s perspective will be the programming workshop organised by the Centre for Computer Science Education. In the morning, 180 schoolchildren from across Switzerland will visit ETH’s main building to learn the basics of programming.
+
+The full schedule for Digitaltag can be found on the event's website: http://digitaltag.swiss (German, French and Italian)
+
+Data is playing an increasingly important role in our society, and is an issue on which ETH Zurich will focus more closely in the coming years. In a series of interviews, ETH News asks researchers at ETH Zurich about the specific topics they are focussed on, and how they see societal development in their field.
+
+Previous interviews in this series:
+

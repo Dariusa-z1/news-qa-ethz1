@@ -1,0 +1,38 @@
+# tanja-stadler-erhaelt-roessler-preis.html
+
+**Source:** de_news_events/2022/06/tanja-stadler-erhaelt-roessler-preis.html
+
+## Mathematiker:innen unter sich
+
+Tanja Stadler erklärt ihr Forschungsgebiet mit Hilfe eines Baums. Bei der Fortpflanzung verändern sich die genetischen Informationen – sie verästeln sich wie die Zweige eines Baums. «Ich beantworte biologische Fragen, indem ich aus genetischen Sequenzen den Baum rekonstruiere und dann die biologischen Prozesse daraus berechne.» Gekonnt erklärt Tanja Stadler, wie sich diese Herangehensweise praktisch auf alle Bereiche der Biologie übertragen lässt und gibt sich Mühe, besonders anschauliche Beispiele zu finden. Seien es Viren, die mutieren, Krebszellen, die sich vermehren bis hin zum Ökosystem, das sich stetig entwickelt. Die ETH-Professorin hat an diesem Tag auch einen prominenten Zuhörer – der Wissenschaftsmäzen Max Rössler besucht sie in ihrem Labor am ETH-Departement für Biosysteme in Basel.
+
+Rössler stiftet jedes Jahr einen Preis an ETH-Forschende, die Ausserordentliches leisten und ihre Forschungsgruppe noch weiter ausbauen möchten. Bereits zum 14. Mal wird der Rössler-Preis vergeben. «Wenn ich mir die Liste der Kolleginnen und Kollegen ansehe, die vor mir den Preis erhalten haben, erfüllt mich das mit Stolz. Es ist eine Ehre und zudem eine sehr grosszügige Unterstützung von jemandem, der aus persönlicher Überzeugung die Wissenschaft aus privaten Mitteln fördert», sagt Tanja Stadler.
+
+## Mathematiker:innen unter sich
+
+Der Besuch ist gleich aus mehreren Gründen speziell: Nicht nur geht der Preis zum ersten Mal ans Departement für Biosysteme, er geht auch zum ersten Mal an eine Mathematikerin. Der St. Galler Max Rössler studierte selbst Mathematik an der ETH Zürich und doktorierte 1966 über Bahnberechnungen in der Raumfahrt. Nach einem Forschungsaufenthalt an der Harvard University kehrte er an die ETH zurück und war von 1967 bis 1978 Senior Scientist und Lehrbeauftragter am Institut für Operations-​Research. Tanja Stadler nutzt deshalb auch die Chance und zeigte Max Rössler ein paar Formeln. «Es kommt schliesslich nicht alle Tage vor, dass sich jemand auch für die Statistik hinter unserer Forschung interessiert.», kommentierte die Preisträgerin, schmunzelnd.
+
+Worauf Tanja Stadler anspielt: Bekannt wurde die ETH-Forscherin während der Coronapandemie vor allem als Präsidentin der Nationalen Science Task Force. In dieser Funktion stand sie fast rund um die Uhr im Rampenlicht und versuchte die neusten wissenschaftlichen Erkenntnisse für die Politik und die Bevölkerung einzuordnen. Doch: Den Preis erhält Tanja Stadler nicht für ihr grosses Engagement in der Task Force, sondern für ihre grossartigen wissenschaftlichen Leistungen, wie die Preiskommission der ETH ausdrücklich betont.
+
+## R-Wert neu erklärt
+
+Eine mathematische Grösse – der R-Wert, der angibt, wie viele andere Menschen von einer Person angesteckt werden – war über Monate in aller Munde. Wie einst in den Medien erklärt Tanja Stadler zwar auch bei diesem Besuch, wie sie und ihr Team den R-Wert ermitteln, aber sie nutzt auch die Gelegenheit, zu differenzieren: «Während der Pandemie haben wir oft über den R-Wert gesprochen, den wir aus den Fallzahlen ermittelt haben. Dafür brauchen wir zuverlässiges und konsistentes Testen. Was wir aber primär in unserer Forschung machen, ist den R-Wert aufgrund der genetischen Informationen eines Virus zu berechnen. Dies hat den Vorteil, dass wir zu Beginn von Ausbrüchen, wenn wir noch keine vollständigen Daten haben, den R-Wert ermitteln können. Das hilft uns abzuschätzen, wie gefährlich ein neuer Erreger sein könnte.» Um diese Art von Fragestellung kümmert sich die ETH-Forscherin übrigens nicht erst seit Corona – bereits 2014 forschte Tanja Stadler, daran, wie sich Ebola verbreitet.
+
+Ihre Dissertation hat die Mathematikerin über «evolutionäre Bäume» an der TU München geschrieben, bevor sie 2008 als Postdoc in die Gruppe Theoretische Biologie von ETH-Professor Sebastian Bonhoeffer kam. In dieser Zeit fing sie an, sich speziell für Infektionskrankheiten zu interessieren. Im Jahr 2014 wurde sie Assistenzprofessorin am D-BSSE in Basel. Unterdessen ist ordentliche Professorin für «Computergestützte Evolution» und hat 15 Mitglieder in ihrer Gruppe.
+
+## Viele Daten selber erheben
+
+Ohne entsprechende Daten und Datenmengen geht in der Forschung gar nichts. Und so besucht die Preisträgerin mit Max Rössler zusammen auch das Sequenzierungslabor im Departement, wo ihre Forschungsgruppe - nicht nur, aber auch während Corona - unglaublich viele eigene Daten erhoben hat. Auch diese technische Komponente fasziniert Max Rössler sehr: Welche genetischen Daten können diese Maschinen liefern? Wie leistungsfähig sind sie? Wie kommen die Daten von der Maschine ins statistische Tool? Und was kostet ein solches Gerät überhaupt?
+
+Es ist genau diese Mischung aus Biologie, der Fähigkeit Genome zu sequenzieren und den statistischen Methoden, welche Stadler entwickelt, die diese Forschung so spannend macht. «Wir haben viele Möglichkeiten, genetische Daten zu erheben, aber es geht darum, diese nutzbar zu machen. Genau dafür brauchen wir die Mathematik. Wir eliminieren das Rauschen in den Daten und können sie eindeutiger zu- und besser einordnen. Im Endeffekt können wir damit relevantere Aussagen zu Epidemien machen», so Stadler.
+
+## Der Virenbericht der Zukunft
+
+Das Gefühl, Forschung zu machen, die von hohem gesellschaftlichem Nutzen ist, hat die Forscherin und ihre ganze Gruppe nachhaltig geprägt. Das zeigt sich auch darin, wie das Geld aus dem Rössler-Preis eingesetzt werden soll. Auf einem grossen Retreat wird die Gruppe gemeinsam genau analysieren, was bei einer erneuten pandemischen Bedrohung aus der Statistik am dringlichsten gebraucht wird. Das Preisgeld soll dann verwendet werden, um die identifizierte Wissenslücke zu schliessen.
+
+Und wo wäre Tanja Stadler gerne in zehn Jahren? «Ich setze mich dafür ein, dass wir weltweit die zentralen Daten erheben, uns besser vernetzen, diese gemeinsam auswerten und den Menschen auf einfache Art und Weise zugänglich machen. Ich stelle mir das als eine Art «Infektionsbericht» vor ähnlich dem Wetterbericht, bei dem die Menschen sehen können – «oh aufpassen, Influenza zirkuliert jetzt gerade in Basel etwas stärker – na da schütze ich mich doch lieber.»
+
+Max Rössler vermachte 2008 der ETH Zürich Foundation zehn Millionen Franken. Mit dem Zins aus diesem Vermögen stiftet er einen jährlichen Förderpreis für ETH-​Professor:innen in der Expansionsphase ihrer Forschungskarriere. Der Preis ist mit 200‘000 Franken die höchstdotierte Auszeichnung für Forschung an der ETH Zürich und wird jeweils am «Thanks Giving»-​Anlass der externe Seite ETH Foundation verliehen. Der Preisstifter studierte an der ETH Zürich Mathematik und doktorierte über Bahnberechnungen in der Raumfahrt. Nach einem Forschungsaufenthalt an der Harvard University kehrte er an die ETH zurück und war von 1967 bis 1978 Senior Scientist und Lehrbeauftragter am Institut für Operations-​Research. Später war er in der Vermögensverwaltung tätig, ehe er sich aus dem Geschäftsleben zurückzog. 2013 wurde ihm von der ETH Zürich der Titel eines Ehrenrats verliehen.
+
+Weitere Informationen zum externe Seite Rössler-Preis
+

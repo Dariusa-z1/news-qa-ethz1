@@ -1,0 +1,299 @@
+{
+  "filename": "en_internal_2023_01_coffee-lectures-das-neue-programm-ist-da.md",
+  "original_filename": "en_internal_2023_01_coffee-lectures-das-neue-programm-ist-da.html",
+  "source_path": "en_internal/2023/01/coffee-lectures-das-neue-programm-ist-da.html",
+  "date": "2023-01",
+  "title": "Coffee Lectures Das Neue Programm Ist Da",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "How it works",
+      "text": "- New options for open-access publications in 2023 – 8 February 2023\n\n- swisscovery: a brief guide to ordering documents – 15 February 2023\n\n- Get to know the Data Stewardship Network – 22 February 2023\n\n- Research in Dimensions – 1 March 2023\n\n- Compressed Knowledge – Insights into the getAbstract database – 8 March 2023\n\nAt our events, you can find out about your open-access publishing options, take a crash course in the new swisscovery ordering system, or learn about the Data Stewardship Network. The new events programme is now online."
+    },
+    {
+      "heading": "How it works",
+      "text": "Each session lasts 15 minutes. You will receive concise, condensed information on a particular topic and have time to ask questions at the end. Just the right length of time to enjoy a coffee while you listen and get to know the people behind the ETH Library.\n\nThe online events are held via Zoom at 3.15 p.m. on Wednesday afternoons from 8 February to 8 March 2023. We host the events in English.\n\nYou can take part without registering. For browser-based Zoom sessions, we recommend using Chrome."
+    },
+    {
+      "heading": "Always up to date",
+      "text": "Good to know: if you miss an event, you can still access it. We record the sessions and provide access to the presentation slides.\n\nAre you interested in a particular topic? Then we look forward to receiving your suggestion. Whether you have questions regarding a certain tool or want information on a topic relating to information searches, academic writing or publishing – send us your suggested topic at and we will see whether it is suitable for this event series.\n\nMore than just data – Benefit from know-how\n\n#KnowHow – The ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Lectures",
+        "label": "PERSON",
+        "start": 27,
+        "end": 35
+      },
+      {
+        "text": "February 2023",
+        "label": "DATE",
+        "start": 55,
+        "end": 68
+      },
+      {
+        "text": "February 2023 - Get",
+        "label": "DATE",
+        "start": 125,
+        "end": 144
+      },
+      {
+        "text": "the Data Stewardship Network",
+        "label": "ORG",
+        "start": 153,
+        "end": 181
+      },
+      {
+        "text": "February 2023 - Research",
+        "label": "DATE",
+        "start": 187,
+        "end": 211
+      },
+      {
+        "text": "Dimensions",
+        "label": "ORG",
+        "start": 215,
+        "end": 225
+      },
+      {
+        "text": "March 2023 - Compressed Knowledge – Insights",
+        "label": "DATE",
+        "start": 230,
+        "end": 274
+      },
+      {
+        "text": "getAbstract",
+        "label": "FAC",
+        "start": 284,
+        "end": 295
+      },
+      {
+        "text": "8 March 2023",
+        "label": "DATE",
+        "start": 307,
+        "end": 319
+      },
+      {
+        "text": "the Data Stewardship Network",
+        "label": "ORG",
+        "start": 470,
+        "end": 498
+      },
+      {
+        "text": "15 minutes",
+        "label": "TIME",
+        "start": 19,
+        "end": 29
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 243,
+        "end": 258
+      },
+      {
+        "text": "3.15 p.m.",
+        "label": "TIME",
+        "start": 299,
+        "end": 308
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE",
+        "start": 312,
+        "end": 321
+      },
+      {
+        "text": "8 February to",
+        "label": "DATE",
+        "start": 338,
+        "end": 351
+      },
+      {
+        "text": "March 2023",
+        "label": "DATE",
+        "start": 354,
+        "end": 364
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 388,
+        "end": 395
+      },
+      {
+        "text": "Chrome",
+        "label": "PERSON",
+        "start": 488,
+        "end": 494
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chrome",
+        "Lectures"
+      ],
+      "ORG": [
+        "Dimensions",
+        "the Data Stewardship Network",
+        "the ETH Library"
+      ],
+      "LOCATION": [
+        "getAbstract"
+      ],
+      "DATE": [
+        "15 minutes",
+        "3.15 p.m.",
+        "8 February to",
+        "8 March 2023",
+        "February 2023",
+        "February 2023 - Get",
+        "February 2023 - Research",
+        "March 2023",
+        "March 2023 - Compressed Knowledge – Insights",
+        "Wednesday"
+      ],
+      "MISC": [
+        "English"
+      ]
+    },
+    "entity_counts": {
+      "the Data Stewardship Network": 2,
+      "Lectures": 1,
+      "February 2023": 1,
+      "February 2023 - Get": 1,
+      "February 2023 - Research": 1,
+      "Dimensions": 1,
+      "March 2023 - Compressed Knowledge – Insights": 1,
+      "getAbstract": 1,
+      "8 March 2023": 1,
+      "15 minutes": 1,
+      "the ETH Library": 1,
+      "3.15 p.m.": 1,
+      "Wednesday": 1,
+      "8 February to": 1,
+      "March 2023": 1,
+      "English": 1,
+      "Chrome": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "en_internal_2023_01_coffee-lectures-das-neue-programm-ist-da.md",
+      "title": "En Internal/2023/01/coffee Lectures das Neue Programm Ist Da",
+      "language": "en",
+      "source_path": "en_internal/2023/01/coffee-lectures-das-neue-programm-ist-da.html"
+    },
+    "temporal": {
+      "publication_date": "2023-01",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chrome",
+        "Lectures"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "English"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH Library",
+        "Neue Programm",
+        "Compressed Knowledge",
+        "En Internal",
+        "Data Stewardship",
+        "The ETH",
+        "Ist Da"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Dimensions",
+        "the Data Stewardship Network",
+        "the ETH Library"
+      ],
+      "locations": [
+        "getAbstract"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "the Data Stewardship Network",
+        "Lectures",
+        "February 2023",
+        "February 2023 - Get",
+        "February 2023 - Research",
+        "Dimensions",
+        "March 2023 - Compressed Knowledge – Insights",
+        "getAbstract",
+        "8 March 2023",
+        "15 minutes"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "How it works",
+          "How it works",
+          "Always up to date"
+        ],
+        "content_length": 1695
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Lectures",
+        "Chrome",
+        "the Data Stewardship Network",
+        "EU",
+        "Dimensions",
+        "the ETH Library",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "English",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

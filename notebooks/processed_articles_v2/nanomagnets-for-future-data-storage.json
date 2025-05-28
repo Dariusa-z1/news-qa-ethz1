@@ -1,0 +1,393 @@
+{
+  "filename": "nanomagnets-for-future-data-storage.md",
+  "original_filename": "nanomagnets-for-future-data-storage.html",
+  "source_path": "en_news_events/2017/03/nanomagnets-for-future-data-storage.html",
+  "date": "2017-03",
+  "title": "Nanomagnets For Future Data Storage",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Fusing atoms to the surface",
+      "text": "The idea is intriguing: if only a single atom or small molecule was needed for a single unit of data (a zero or a one in the case of binary digital technology), massive volumes of data could be stored in the tiniest amount of space. This is theoretically possible, because certain atoms can be magnetised in only one of two possible directions: “spin up” or “spin down”. Information could then be stored and read by the sequence of the molecules’ magnetisation directions.\n\nHowever, several obstacles still need to be overcome before single-molecule magnet data storage becomes a reality. Finding molecules that can store the magnetic information permanently and not just fleetingly is a challenge, and it is even more difficult to arrange these molecules on a solid surface to build data storage carriers. To address the latter problem, an international team of researchers led by chemists from ETH Zurich has now developed a new method that offers numerous advantages over other approaches."
+    },
+    {
+      "heading": "Fusing atoms to the surface",
+      "text": "Christophe Copéret, a professor at the Laboratory of Inorganic Chemistry at ETH Zurich, and his team developed a molecule with a dysprosium atom at its centre (dysprosium is a metal belonging to the rare-earth elements). This atom is surrounded by a molecular scaffold that serves as a vehicle. The scientists also developed a method for depositing such molecules on the surface of silica nanoparticles and fusing them by annealing at 400 degrees Celsius. The molecular structure used as a vehicle disintegrates in the process, yielding nanoparticles with dysprosium atoms well-dispersed at their surface. The scientists showed that these atoms can be magnetised and maintain their magnetic information."
+    },
+    {
+      "heading": "Reference",
+      "text": "The magnetisation process currently only works at around minus 270 degrees Celsius (near absolute zero), and the magnetisation can be maintained for up to one and a half minute. The scientists are therefore looking for methods that will allow the magnetisation to be stabilised at higher temperatures and for longer periods of time. They are also looking for ways to fuse atoms to a flat surface instead of to nanoparticles.\n\nOne of the advantages of the new method is its simplicity. “Nanoparticles bonded with dysprosium can be made in any chemical laboratory. No cleanroom and complex equipment are required,” says Florian Allouche, a doctoral student in Copéret’s group. In addition, the magnetisable nanoparticles can be stored at room temperature and re-utilized.\n\nOther preparation methods include the direct deposition of individual atoms onto a surface, yet the materials obtained are only stable at very low temperatures mainly due to the agglomeration of these individual atoms. Alternatively, molecules with ideal magnetic properties can be deposited onto a surface, but this immobilization often negatively affects the structure and the magnetic properties of the final object.\n\nFor this research project, ETH scientists worked with colleagues from the Universities of Lyon and Rennes, Collège de France in Paris, Paul Scherrer Institute in Switzerland, and Berkeley National Laboratory in the USA.\n\nAllouche F et al.: Magnetic Memory from Site Isolated Dy(III) on Silica Materials. ACS Central Science 2017, doi: 10.1021/acscentsci.7b00035"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Future Data Storage",
+        "label": "ORG",
+        "start": 39,
+        "end": 58
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 104,
+        "end": 108
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 308,
+        "end": 316
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 320,
+        "end": 323
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 895,
+        "end": 905
+      },
+      {
+        "text": "Christophe Copéret",
+        "label": "PERSON",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "the Laboratory of Inorganic Chemistry",
+        "label": "ORG",
+        "start": 35,
+        "end": 72
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 76,
+        "end": 86
+      },
+      {
+        "text": "400 degrees Celsius",
+        "label": "QUANTITY",
+        "start": 435,
+        "end": 454
+      },
+      {
+        "text": "270 degrees",
+        "label": "QUANTITY",
+        "start": 63,
+        "end": 74
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 98,
+        "end": 102
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 425,
+        "end": 428
+      },
+      {
+        "text": "Florian Allouche",
+        "label": "PERSON",
+        "start": 617,
+        "end": 633
+      },
+      {
+        "text": "Copéret",
+        "label": "PERSON",
+        "start": 657,
+        "end": 664
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1216,
+        "end": 1219
+      },
+      {
+        "text": "the Universities of Lyon and Rennes",
+        "label": "ORG",
+        "start": 1259,
+        "end": 1294
+      },
+      {
+        "text": "Paris",
+        "label": "GPE",
+        "start": 1317,
+        "end": 1322
+      },
+      {
+        "text": "Paul Scherrer Institute",
+        "label": "ORG",
+        "start": 1324,
+        "end": 1347
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1351,
+        "end": 1362
+      },
+      {
+        "text": "Berkeley National Laboratory",
+        "label": "ORG",
+        "start": 1368,
+        "end": 1396
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 1404,
+        "end": 1407
+      },
+      {
+        "text": "Allouche F et al",
+        "label": "PRODUCT",
+        "start": 1409,
+        "end": 1425
+      },
+      {
+        "text": "Silica Materials",
+        "label": "ORG",
+        "start": 1474,
+        "end": 1490
+      },
+      {
+        "text": "10.1021/acscentsci.7b00035",
+        "label": "PERCENT",
+        "start": 1523,
+        "end": 1549
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christophe Copéret",
+        "Copéret",
+        "Florian Allouche"
+      ],
+      "ORG": [
+        "Berkeley National Laboratory",
+        "ETH",
+        "ETH Zurich",
+        "Future Data Storage",
+        "Paul Scherrer Institute",
+        "Silica Materials",
+        "the Laboratory of Inorganic Chemistry",
+        "the Universities of Lyon and Rennes"
+      ],
+      "LOCATION": [
+        "Paris",
+        "Switzerland",
+        "USA"
+      ],
+      "DATE": [],
+      "MISC": [
+        "10.1021/acscentsci.7b00035",
+        "270 degrees",
+        "400 degrees Celsius",
+        "Allouche F et al",
+        "One",
+        "only one",
+        "two",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "zero": 2,
+      "ETH Zurich": 2,
+      "Future Data Storage": 1,
+      "only one": 1,
+      "two": 1,
+      "Christophe Copéret": 1,
+      "the Laboratory of Inorganic Chemistry": 1,
+      "400 degrees Celsius": 1,
+      "270 degrees": 1,
+      "One": 1,
+      "Florian Allouche": 1,
+      "Copéret": 1,
+      "ETH": 1,
+      "the Universities of Lyon and Rennes": 1,
+      "Paris": 1,
+      "Paul Scherrer Institute": 1,
+      "Switzerland": 1,
+      "Berkeley National Laboratory": 1,
+      "USA": 1,
+      "Allouche F et al": 1
+    },
+    "total_entities": 24,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "nanomagnets-for-future-data-storage.md",
+      "title": "En News Events/2017/03/nanomagnets For Future Data Storage",
+      "language": "en",
+      "source_path": "en_news_events/2017/03/nanomagnets-for-future-data-storage.html"
+    },
+    "temporal": {
+      "publication_date": "2017-03",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christophe Copéret",
+        "Copéret",
+        "Florian Allouche"
+      ],
+      "people_with_roles": {
+        "Christophe Copéret": [
+          "professor"
+        ],
+        "Copéret": [
+          "student",
+          "professor"
+        ],
+        "Florian Allouche": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1021/acscentsci.7b00035",
+        "270 degrees",
+        "400 degrees Celsius",
+        "Allouche F et al",
+        "only one",
+        "zero"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "En News",
+        "Florian Allouche",
+        "Berkeley National",
+        "Paul Scherrer",
+        "ETH Zurich",
+        "Allouche F",
+        "Site Isolated",
+        "Data Storage",
+        "Inorganic Chemistry",
+        "ACS Central",
+        "For Future",
+        "Silica Materials",
+        "Magnetic Memory"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Berkeley National Laboratory",
+        "ETH",
+        "ETH Zurich",
+        "Future Data Storage",
+        "Paul Scherrer Institute",
+        "Silica Materials",
+        "the Laboratory of Inorganic Chemistry",
+        "the Universities of Lyon and Rennes"
+      ],
+      "locations": [
+        "Paris",
+        "Switzerland",
+        "USA"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "zero",
+        "ETH Zurich",
+        "Future Data Storage",
+        "only one",
+        "two",
+        "Christophe Copéret",
+        "the Laboratory of Inorganic Chemistry",
+        "400 degrees Celsius",
+        "270 degrees",
+        "One"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Fusing atoms to the surface",
+          "Fusing atoms to the surface",
+          "Reference"
+        ],
+        "content_length": 3309
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Future Data Storage",
+        "Berkeley National Laboratory",
+        "Christophe Copéret",
+        "Florian Allouche",
+        "2017",
+        "Paul Scherrer Institute",
+        "Silica Materials",
+        "the Universities of Lyon and Rennes",
+        "ETH Zurich",
+        "the Laboratory of Inorganic Chemistry",
+        "ERC",
+        "Copéret"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1021/acscentsci.7b00035",
+        "zero",
+        "400 degrees Celsius",
+        "who",
+        "chemistry",
+        "only one",
+        "biology",
+        "Allouche F et al",
+        "what",
+        "how",
+        "270 degrees",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Christophe Copéret_has_role_professor",
+        "Copéret_has_role_student",
+        "Copéret_has_role_professor",
+        "Florian Allouche_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

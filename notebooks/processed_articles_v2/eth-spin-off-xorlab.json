@@ -1,0 +1,605 @@
+{
+  "filename": "eth-spin-off-xorlab.md",
+  "original_filename": "eth-spin-off-xorlab.html",
+  "source_path": "de_news_events/2016/08/eth-spin-off-xorlab.html",
+  "date": "2016-08",
+  "title": "Eth Spin Off Xorlab",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Hohe Sensibilität für gutartiges Verhalten",
+      "text": "Es braucht eine Menge Selbstvertrauen, wenn man als fünfköpfiges Jungunternehmen antritt, um den grossen Entwicklern von IT-Sicherheitslösungen, wie IBM, Intel Security oder Cisco die Innovationsführerschaft streitig zu machen. Antonio Barresi (CEO), Matthias Ganz (CTO) und Marco Nembrini (COO) von Xorlab haben genau das vor. Der im Juli 2015 gegründete ETH-Spin-off hat ein System entwickelt, das Hackerangriffe auf Unternehmen und Regierungen verlässlicher und günstiger abwehren soll, als herkömmliche Lösungen."
+    },
+    {
+      "heading": "Hohe Sensibilität für gutartiges Verhalten",
+      "text": "«Cyberkriminelle passen ihr Verhalten ähnlich wie Einbrecher ständig an veränderte Umweltbedingungen an», erklärt Antonio Barresi, CEO von xorlab. «Das macht es so schwierig, ihr Eindringen in ein System zu detektieren.» Die meisten herkömmlichen Systeme sind auf der Lauer nach Störgeräuschen innerhalb eines IT-Systems, die auf ein bösartiges Eindringen hinweisen. Xorlab hingegen konzentriert sich auf die Detektion von gutartigem Verhalten in Applikationen. Und dies dermassen genau, dass plötzliche Störungen sofort auffallen. Dadurch können bösartige Dateien und Webseiten ausgemerzt werden, bevor sie die IT-Infrastruktur eines Unternehmens lahmlegen.\n\nDie von Xorlab entwickelte Hardware, ein 31 Kilogramm schwerer Miniserver, wird vor die eigentliche Serverinfrastruktur eines Unternehmens geschaltet, um mögliche Hackerangriffe via E-Mails, PDFs, Word- oder Excel-Dokumenten sowie Websites abzufangen. Erkennt das Gerät zum Beispiel einen PDF-Anhang, der Software einschleusen will, um ein IT-Netzwerk auszuspionieren, so wird der Anhang in einem vom Netzwerk abgekoppelten Bereich geöffnet und auf seine Schädlichkeit hin getestet. Erweist er sich als schädlich, wird er sofort ausgemerzt.\n\n«Beim ersten Proof of concept vor einem Jahr konnten wir sämtliche, auf ein geschütztes System losgelassenen Angriffe detektieren – und dies bei Null Fehlermeldungen», erzählt Barresi. Letzteres ist für Unternehmen sehr attraktiv, denn jede Fehlermeldung und unexakte Detektion führt zu hohen Mehrkosten. Ist die von Xorlab entwickelte Softwarelösung also eine Art heiliger Gral der Hackerbekämpfung? Barresi relativiert: «Unser Gerät ist eine wichtige Komponente in einer Gesamt-IT-Sicherheitsinfrastruktur. Aber wir können damit natürlich längst nicht alle Angriffe abdecken.»"
+    },
+    {
+      "heading": "Mit der Venture Challenge zum Startkapital",
+      "text": "Die Gründer von xorlab bringen viel Know-How und Wissen ins Unternehmen ein. Barresi hat an der ETH Computerwissenschaften studiert und daraufhin als IT-Riskmanager bei einer Grossbank sowie als Sicherheitsberater und Softwareentwickler gearbeitet. 2013 kehrte er als wissenschaftlicher Mitarbeiter ans Laboratory for Software Technology der ETH Zürich zurück. Zusammen mit Matthias Ganz, ebenfalls ein ETH-Computerwissenschaftler und Marco Nembrini, ein ETH-Mathematiker, nahm er 2014 am Start-up-Kurs Venture Challenge teil und erarbeitete einen ersten Business Plan. «Wir hatten schlicht das Gefühl, dass wir auf etwas gestossen waren, dass in dieser Art noch niemand vor uns gemacht hat», erklärt Barresi die Motivation zur Unternehmensgründung. Anfangs Jahr gewann das Unternehmen schliesslich den Start-up-Wettbewerb von externe Seite Venture Kick und sicherte sich dadurch 130'000 Schweizerfranken Startkapital.\n\nXorlab könnte mit seinem Produkt bald offene Türen einrennen: Cyber-Attacken auf Unternehmen und Regierungen haben in den letzten Jahren massiv zugenommen. Der Deutsche Bundestag war davon betroffen, das US-Aussenministerium, die HSBC Bank und vor wenigen Monaten auch die Ruag. Oft entstehen dabei Millionenschäden. In einer Studie von Frost & Sullivan wurde der Markt für Security-Netzwerkanwendungen, wozu auch das System von Xorlab gehört, für das Jahr 2014 auf über 500 Millionen US Dollar beziffert. Bis 2019 soll er gar auf 3,5 Milliarden wachsen.\n\nOb Xorlab bald zum Partner von multinationalen Grossunternehmen und Regierungen sowie zum Liebling von Investoren wird, hängt nun von den ersten Versuchen in einem realen Arbeitsumfeld ab. Laut Barresi steht der Spin-off dafür aktuell mit Banken, Finanzinstituten und Institutionen aus dem Bildungsbereich in Kontakt. Und auch Swisscom hat kürzlich angekündigt, einen möglichen Pilotbetrieb mit Xorlab zu evaluieren. Die ersten Praxiserfahrungen werden darüber entscheiden, ob das Jungunternehmen tatsächlich bald die Grossen der Branche konkurrenzieren wird."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "IT-Sicherheitslösungen",
+        "label": "ORG",
+        "start": 121,
+        "end": 143
+      },
+      {
+        "text": "IBM",
+        "label": "ORG",
+        "start": 149,
+        "end": 152
+      },
+      {
+        "text": "Intel Security",
+        "label": "ORG",
+        "start": 154,
+        "end": 168
+      },
+      {
+        "text": "Cisco",
+        "label": "ORG",
+        "start": 174,
+        "end": 179
+      },
+      {
+        "text": "Antonio Barresi",
+        "label": "PER",
+        "start": 228,
+        "end": 243
+      },
+      {
+        "text": "Matthias Ganz",
+        "label": "PER",
+        "start": 251,
+        "end": 264
+      },
+      {
+        "text": "CTO",
+        "label": "ORG",
+        "start": 266,
+        "end": 269
+      },
+      {
+        "text": "Marco Nembrini",
+        "label": "PER",
+        "start": 275,
+        "end": 289
+      },
+      {
+        "text": "COO",
+        "label": "MISC",
+        "start": 291,
+        "end": 294
+      },
+      {
+        "text": "Xorlab",
+        "label": "PER",
+        "start": 300,
+        "end": 306
+      },
+      {
+        "text": "Cyberkriminelle",
+        "label": "PER",
+        "start": 1,
+        "end": 16
+      },
+      {
+        "text": "Einbrecher",
+        "label": "PER",
+        "start": 50,
+        "end": 60
+      },
+      {
+        "text": "Antonio Barresi",
+        "label": "PER",
+        "start": 114,
+        "end": 129
+      },
+      {
+        "text": "xorlab",
+        "label": "MISC",
+        "start": 139,
+        "end": 145
+      },
+      {
+        "text": "Lauer",
+        "label": "LOC",
+        "start": 268,
+        "end": 273
+      },
+      {
+        "text": "Störgeräuschen",
+        "label": "LOC",
+        "start": 279,
+        "end": 293
+      },
+      {
+        "text": "Xorlab",
+        "label": "PER",
+        "start": 367,
+        "end": 373
+      },
+      {
+        "text": "Xorlab",
+        "label": "PER",
+        "start": 667,
+        "end": 673
+      },
+      {
+        "text": "PDF-Anhang",
+        "label": "MISC",
+        "start": 948,
+        "end": 958
+      },
+      {
+        "text": "IT-Netzwerk",
+        "label": "ORG",
+        "start": 999,
+        "end": 1010
+      },
+      {
+        "text": "Proof of concept",
+        "label": "ORG",
+        "start": 1213,
+        "end": 1229
+      },
+      {
+        "text": "Null Fehlermeldungen",
+        "label": "PER",
+        "start": 1345,
+        "end": 1365
+      },
+      {
+        "text": "Barresi",
+        "label": "PER",
+        "start": 1376,
+        "end": 1383
+      },
+      {
+        "text": "Xorlab",
+        "label": "PER",
+        "start": 1517,
+        "end": 1523
+      },
+      {
+        "text": "Barresi",
+        "label": "PER",
+        "start": 1601,
+        "end": 1608
+      },
+      {
+        "text": "Unser Gerät",
+        "label": "MISC",
+        "start": 1623,
+        "end": 1634
+      },
+      {
+        "text": "xorlab",
+        "label": "MISC",
+        "start": 16,
+        "end": 22
+      },
+      {
+        "text": "Barresi",
+        "label": "LOC",
+        "start": 77,
+        "end": 84
+      },
+      {
+        "text": "ETH Computerwissenschaften",
+        "label": "ORG",
+        "start": 96,
+        "end": 122
+      },
+      {
+        "text": "Laboratory for Software Technology",
+        "label": "ORG",
+        "start": 303,
+        "end": 337
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 342,
+        "end": 352
+      },
+      {
+        "text": "Matthias Ganz",
+        "label": "PER",
+        "start": 374,
+        "end": 387
+      },
+      {
+        "text": "ETH-Computerwissenschaftler",
+        "label": "MISC",
+        "start": 403,
+        "end": 430
+      },
+      {
+        "text": "Marco Nembrini",
+        "label": "PER",
+        "start": 435,
+        "end": 449
+      },
+      {
+        "text": "Start-up-Kurs Venture Challenge",
+        "label": "ORG",
+        "start": 489,
+        "end": 520
+      },
+      {
+        "text": "Barresi",
+        "label": "PER",
+        "start": 701,
+        "end": 708
+      },
+      {
+        "text": "Anfangs Jahr",
+        "label": "MISC",
+        "start": 750,
+        "end": 762
+      },
+      {
+        "text": "Start-up-Wettbewerb",
+        "label": "MISC",
+        "start": 803,
+        "end": 822
+      },
+      {
+        "text": "Venture Kick",
+        "label": "PER",
+        "start": 841,
+        "end": 853
+      },
+      {
+        "text": "Xorlab",
+        "label": "PER",
+        "start": 919,
+        "end": 925
+      },
+      {
+        "text": "Cyber-Attacken",
+        "label": "ORG",
+        "start": 981,
+        "end": 995
+      },
+      {
+        "text": "Deutsche Bundestag",
+        "label": "ORG",
+        "start": 1079,
+        "end": 1097
+      },
+      {
+        "text": "US-Aussenministerium",
+        "label": "ORG",
+        "start": 1123,
+        "end": 1143
+      },
+      {
+        "text": "HSBC Bank",
+        "label": "ORG",
+        "start": 1149,
+        "end": 1158
+      },
+      {
+        "text": "Frost & Sullivan",
+        "label": "ORG",
+        "start": 1256,
+        "end": 1272
+      },
+      {
+        "text": "Xorlab",
+        "label": "PER",
+        "start": 1348,
+        "end": 1354
+      },
+      {
+        "text": "Xorlab",
+        "label": "PER",
+        "start": 1477,
+        "end": 1483
+      },
+      {
+        "text": "Barresi",
+        "label": "PER",
+        "start": 1668,
+        "end": 1675
+      },
+      {
+        "text": "Swisscom",
+        "label": "ORG",
+        "start": 1801,
+        "end": 1809
+      },
+      {
+        "text": "Xorlab",
+        "label": "PER",
+        "start": 1869,
+        "end": 1875
+      },
+      {
+        "text": "Grossen der Branche",
+        "label": "MISC",
+        "start": 1992,
+        "end": 2011
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Antonio Barresi",
+        "Barresi",
+        "Cyberkriminelle",
+        "Einbrecher",
+        "Marco Nembrini",
+        "Matthias Ganz",
+        "Null Fehlermeldungen",
+        "Venture Kick",
+        "Xorlab"
+      ],
+      "ORG": [
+        "CTO",
+        "Cisco",
+        "Cyber-Attacken",
+        "Deutsche Bundestag",
+        "ETH Computerwissenschaften",
+        "ETH Zürich",
+        "Frost & Sullivan",
+        "HSBC Bank",
+        "IBM",
+        "IT-Netzwerk",
+        "IT-Sicherheitslösungen",
+        "Intel Security",
+        "Laboratory for Software Technology",
+        "Proof of concept",
+        "Start-up-Kurs Venture Challenge",
+        "Swisscom",
+        "US-Aussenministerium"
+      ],
+      "LOCATION": [
+        "Barresi",
+        "Lauer",
+        "Störgeräuschen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Anfangs Jahr",
+        "COO",
+        "ETH-Computerwissenschaftler",
+        "Grossen der Branche",
+        "PDF-Anhang",
+        "Start-up-Wettbewerb",
+        "Unser Gerät",
+        "xorlab"
+      ]
+    },
+    "entity_counts": {
+      "Xorlab": 8,
+      "Barresi": 5,
+      "Antonio Barresi": 2,
+      "Matthias Ganz": 2,
+      "Marco Nembrini": 2,
+      "xorlab": 2,
+      "IT-Sicherheitslösungen": 1,
+      "IBM": 1,
+      "Intel Security": 1,
+      "Cisco": 1,
+      "CTO": 1,
+      "COO": 1,
+      "Cyberkriminelle": 1,
+      "Einbrecher": 1,
+      "Lauer": 1,
+      "Störgeräuschen": 1,
+      "PDF-Anhang": 1,
+      "IT-Netzwerk": 1,
+      "Proof of concept": 1,
+      "Null Fehlermeldungen": 1
+    },
+    "total_entities": 51,
+    "unique_entities": 36
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-spin-off-xorlab.md",
+      "title": "De News Events/2016/08/eth Spin Off Xorlab",
+      "language": "de",
+      "source_path": "de_news_events/2016/08/eth-spin-off-xorlab.html"
+    },
+    "temporal": {
+      "publication_date": "2016-08",
+      "mentioned_years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Antonio Barresi",
+        "Barresi",
+        "Cyberkriminelle",
+        "Einbrecher",
+        "Marco Nembrini",
+        "Matthias Ganz",
+        "Null Fehlermeldungen",
+        "Venture Kick",
+        "Xorlab"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Anfangs Jahr",
+        "ETH-Computerwissenschaftler",
+        "Grossen der Branche",
+        "PDF-Anhang",
+        "Start-up-Wettbewerb",
+        "Unser Gerät",
+        "xorlab"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Matthias Ganz",
+        "IT-Systems",
+        "US-Aussenministerium",
+        "Anfangs Jahr",
+        "Ob Xorlab",
+        "Business Plan",
+        "Der Deutsche",
+        "Security-Netzwerkanwendungen",
+        "Antonio Barresi",
+        "IT-Riskmanager",
+        "ETH-Spin",
+        "Spin Off",
+        "IT-Infrastruktur",
+        "Schweizerfranken Startkapital",
+        "ETH Computerwissenschaften",
+        "Menge Selbstvertrauen",
+        "IT-Netzwerk",
+        "Cyber-Attacken",
+        "Marco Nembrini",
+        "Xorlab Es",
+        "Kurs Venture",
+        "Null Fehlermeldungen",
+        "Seite Venture",
+        "ETH-Computerwissenschaftler",
+        "Software Technology",
+        "Excel-Dokumenten",
+        "HSBC Bank",
+        "Gesamt-IT",
+        "Millionen US",
+        "PDF-Anhang",
+        "Intel Security",
+        "E-Mails",
+        "Know-How",
+        "Laut Barresi",
+        "De News",
+        "ETH-Mathematiker"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CTO",
+        "Cisco",
+        "Cyber-Attacken",
+        "Deutsche Bundestag",
+        "ETH Computerwissenschaften",
+        "ETH Zürich",
+        "Frost & Sullivan",
+        "HSBC Bank",
+        "IBM",
+        "IT-Netzwerk",
+        "IT-Sicherheitslösungen",
+        "Intel Security",
+        "Laboratory for Software Technology",
+        "Proof of concept",
+        "Start-up-Kurs Venture Challenge",
+        "Swisscom",
+        "US-Aussenministerium"
+      ],
+      "locations": [
+        "Barresi",
+        "Lauer",
+        "Störgeräuschen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Xorlab",
+        "Barresi",
+        "Antonio Barresi",
+        "Matthias Ganz",
+        "Marco Nembrini",
+        "xorlab",
+        "IT-Sicherheitslösungen",
+        "IBM",
+        "Intel Security",
+        "Cisco"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Hohe Sensibilität für gutartiges Verhalten",
+          "Hohe Sensibilität für gutartiges Verhalten",
+          "Mit der Venture Challenge zum Startkapital"
+        ],
+        "content_length": 4376
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Matthias Ganz",
+        "US-Aussenministerium",
+        "Cisco",
+        "Frost & Sullivan",
+        "2016",
+        "Antonio Barresi",
+        "Cyberkriminelle",
+        "ETH Computerwissenschaften",
+        "Einbrecher",
+        "Laboratory for Software Technology",
+        "2019",
+        "IBM",
+        "IT-Netzwerk",
+        "Cyber-Attacken",
+        "CTO",
+        "Marco Nembrini",
+        "Deutsche Bundestag",
+        "ETH Zürich",
+        "2014",
+        "Start-up-Kurs Venture Challenge",
+        "2015",
+        "Barresi",
+        "Null Fehlermeldungen",
+        "IT-Sicherheitslösungen",
+        "EU",
+        "Venture Kick",
+        "HSBC Bank",
+        "Swisscom",
+        "Proof of concept",
+        "Intel Security",
+        "2013",
+        "Xorlab"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "PDF-Anhang",
+        "ETH-Computerwissenschaftler",
+        "Unser Gerät",
+        "Grossen der Branche",
+        "Anfangs Jahr",
+        "what",
+        "how",
+        "Start-up-Wettbewerb",
+        "computer_science",
+        "when",
+        "xorlab"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

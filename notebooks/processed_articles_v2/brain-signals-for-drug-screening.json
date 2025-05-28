@@ -1,0 +1,414 @@
+{
+  "filename": "brain-signals-for-drug-screening.md",
+  "original_filename": "brain-signals-for-drug-screening.html",
+  "source_path": "en_news_events/2018/01/brain-signals-for-drug-screening.html",
+  "date": "2018-01",
+  "title": "Brain Signals For Drug Screening",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Looking into the brain",
+      "text": "There are still comparatively few treatments available for brain diseases. Among other reasons, this is due to the difficulty of developing new drugs, as it is not easy to establish the effects and side effects of a substance on the brain. The standard in medical research is behavioural studies involving rodents, in which researchers give the animals a new drug and document their patterns of behaviour. These studies are important, but they are not suitable for use in the search for new drugs via high-throughput screening. This method is used in the pharmaceutical industry, among other, and involves testing tens of thousands of substances in parallel, which is not possible when making behavioural observations of rodents.\n\nMehmet Fatih Yanik, professor of neurotechnology, has therefore developed a new test model together with an international working group. This will enable the effects and side effects of multiple substances to be examined at the same time and in large numbers. The researchers reported their findings in the journal Nature Communications ."
+    },
+    {
+      "heading": "Looking into the brain",
+      "text": "“The brain is made up of highly complex connected structures that communicate with each other on many different levels,” explains physicist and engineer Yanik. In humans, these signals can be detected at the surface of the skull. Information from numerous nerve cells is assembled into a brain wave curve known as an electroencephalogram (EEG). Doctors use this wave pattern to analyse sleep, detect diseases such as epilepsy and test the effectiveness of medication. The early development of new drugs to combat brain diseases has so far lacked a comparable tool.\n\nYanik and his team therefore looked for a way to use electrophysiological signals to read and analyse brain activity. They found what they were looking for in the larvae of zebrafish. These almost-transparent larvae are tiny – only two millimetres long – which makes it possible to examine large numbers of them in parallel. The researchers placed the larvae in a gel in thin glass tubes to prevent them from moving for the duration of the experiment. This trick enabled the researchers to attach the electrodes that conduct electrical brain signals directly from the brains of the larvae, which meant that they could extract the information directly from where it originated."
+    },
+    {
+      "heading": "Epilepsy trigger re-enacted",
+      "text": "In their experiments, the scientists used larvae with a mutation on the SCN1A gene. In humans, this mutation is linked to various forms of epilepsy in childhood, such as Dravet syndrome. Children with Dravet syndrome suffer from severe epileptic seizures from the first year of their life, and often have delayed mental development. The seizures are difficult to treat using medication and can be triggered by light.\n\nYanik and his team have now demonstrated the same light sensitivity in the larvae with the SCN1A gene mutation. In the experiment, the researchers exposed the larvae to flashes of light and recorded the electrical signals that originate from the intercellular spaces of nerve cells close to each other. In principle, it is the same as sitting at a telephone switchboard and eavesdropping on the communications between the nearby phones.\n\nThe researchers used a newly-developed algorithm to evaluate the signals from the brain. “In our experiments on the larvae with the gene defect, we found the typical signals that arise during seizures. That was not the case in the healthy larvae,” reports Yanik."
+    },
+    {
+      "heading": "Healthy variety in the brain",
+      "text": "While the healthy zebrafish larvae showed complex local brain activity patterns, these were of a much simpler nature in the larvae with the gene defect. This corresponds to observations of humans; brain waves in patients with Parkinson’s or schizophrenia have been observed to be less complex. The more complexly the nerve cells communicate with each other, the healthier the brain seems to be.\n\nYanik is convinced that if drugs could be used to increase the complexity of brain signals and if this were defined as a therapeutic goal, we would finally have a measurement parameter coming directly from the brain to determine the effects and side-effects of chemical substances. This would be a major advance in pharmaceutical research.\n\nThe experiments run by Yanik’s group are a highly promising step in this direction: in their test model, the scientists also showed how 31 pharmacological substances influence brain waves and that with some drugs, the complexity of the brain activity patterns actually increased. The researchers validated their new brain signal-based model using an improved behavioural test."
+    },
+    {
+      "heading": "High-throughput for the pharmaceutical industry",
+      "text": "But can the results from the brain activity of zebrafish larvae be carried over to humans? “Although the brain anatomy of humans and zebrafish differs greatly, there are also similarities from a biophysical point of view. The electrical signals generated by nerve cells are a very fundamental parameter,” says Yanik. If drugs that currently help people also have an effect on these larvae, this suggests that this model could also map diseases in humans. It is possible that the results can be carried over at least in part.\n\nThe scientists have developed their test model to such an extent that it is also suitable for high-throughput screening. Yanik wants nothing less than to inspire a new branch of pharmaceutical research that includes the effects and side effects on the brain during drug screening.\n\nEimon PM, Ghannad-Rezaie M, De Rienzo G, Allalou A, Wu Y, Gao M, Roy A, Skolnick J, Yanik MF. Brain activity patterns in high-throughput electrophysiology screen predict both drug efficacies and side effects. Nature Communications 2018. 9:219. doi: 10.1038/s41467-017-02404-4"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Signals For Drug Screening",
+        "label": "ORG",
+        "start": 29,
+        "end": 55
+      },
+      {
+        "text": "tens of thousands",
+        "label": "CARDINAL",
+        "start": 614,
+        "end": 631
+      },
+      {
+        "text": "Fatih Yanik",
+        "label": "PERSON",
+        "start": 737,
+        "end": 748
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1045,
+        "end": 1066
+      },
+      {
+        "text": "Yanik",
+        "label": "PERSON",
+        "start": 153,
+        "end": 158
+      },
+      {
+        "text": "Yanik",
+        "label": "PERSON",
+        "start": 565,
+        "end": 570
+      },
+      {
+        "text": "only two millimetres",
+        "label": "QUANTITY",
+        "start": 792,
+        "end": 812
+      },
+      {
+        "text": "Dravet",
+        "label": "ORG",
+        "start": 170,
+        "end": 176
+      },
+      {
+        "text": "Dravet",
+        "label": "ORG",
+        "start": 201,
+        "end": 207
+      },
+      {
+        "text": "the first year",
+        "label": "DATE",
+        "start": 260,
+        "end": 274
+      },
+      {
+        "text": "Yanik",
+        "label": "PERSON",
+        "start": 417,
+        "end": 422
+      },
+      {
+        "text": "Yanik",
+        "label": "PERSON",
+        "start": 1110,
+        "end": 1115
+      },
+      {
+        "text": "Yanik",
+        "label": "PERSON",
+        "start": 395,
+        "end": 400
+      },
+      {
+        "text": "Yanik",
+        "label": "PERSON",
+        "start": 758,
+        "end": 763
+      },
+      {
+        "text": "Yanik",
+        "label": "PERSON",
+        "start": 310,
+        "end": 315
+      },
+      {
+        "text": "Yanik",
+        "label": "PERSON",
+        "start": 646,
+        "end": 651
+      },
+      {
+        "text": "Eimon PM",
+        "label": "TIME",
+        "start": 806,
+        "end": 814
+      },
+      {
+        "text": "Ghannad-Rezaie M",
+        "label": "ORG",
+        "start": 816,
+        "end": 832
+      },
+      {
+        "text": "De Rienzo G",
+        "label": "PERSON",
+        "start": 834,
+        "end": 845
+      },
+      {
+        "text": "Allalou A",
+        "label": "PERSON",
+        "start": 847,
+        "end": 856
+      },
+      {
+        "text": "Wu Y",
+        "label": "PERSON",
+        "start": 858,
+        "end": 862
+      },
+      {
+        "text": "Gao M",
+        "label": "PERSON",
+        "start": 864,
+        "end": 869
+      },
+      {
+        "text": "Roy A",
+        "label": "PERSON",
+        "start": 871,
+        "end": 876
+      },
+      {
+        "text": "Skolnick J",
+        "label": "PERSON",
+        "start": 878,
+        "end": 888
+      },
+      {
+        "text": "Yanik MF",
+        "label": "PERSON",
+        "start": 890,
+        "end": 898
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1015,
+        "end": 1036
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1055,
+        "end": 1062
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Allalou A",
+        "De Rienzo G",
+        "Fatih Yanik",
+        "Gao M",
+        "Roy A",
+        "Skolnick J",
+        "Wu Y",
+        "Yanik",
+        "Yanik MF"
+      ],
+      "ORG": [
+        "Dravet",
+        "Ghannad-Rezaie M",
+        "Nature Communications",
+        "Signals For Drug Screening"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Eimon PM",
+        "the first year"
+      ],
+      "MISC": [
+        "10.1038",
+        "only two millimetres",
+        "tens of thousands"
+      ]
+    },
+    "entity_counts": {
+      "Yanik": 8,
+      "Nature Communications": 2,
+      "Dravet": 2,
+      "Signals For Drug Screening": 1,
+      "tens of thousands": 1,
+      "Fatih Yanik": 1,
+      "only two millimetres": 1,
+      "the first year": 1,
+      "Eimon PM": 1,
+      "Ghannad-Rezaie M": 1,
+      "De Rienzo G": 1,
+      "Allalou A": 1,
+      "Wu Y": 1,
+      "Gao M": 1,
+      "Roy A": 1,
+      "Skolnick J": 1,
+      "Yanik MF": 1,
+      "10.1038": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "brain-signals-for-drug-screening.md",
+      "title": "En News Events/2018/01/brain Signals For Drug Screening",
+      "language": "en",
+      "source_path": "en_news_events/2018/01/brain-signals-for-drug-screening.html"
+    },
+    "temporal": {
+      "publication_date": "2018-01",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Allalou A",
+        "De Rienzo G",
+        "Fatih Yanik",
+        "Gao M",
+        "Roy A",
+        "Skolnick J",
+        "Wu Y",
+        "Yanik",
+        "Yanik MF"
+      ],
+      "people_with_roles": {
+        "Fatih Yanik": [
+          "professor"
+        ],
+        "Yanik": [
+          "scientist",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "only two millimetres",
+        "tens of thousands"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Mehmet Fatih",
+        "En News",
+        "Yanik MF",
+        "Skolnick J",
+        "Gao M",
+        "Allalou A",
+        "Ghannad-Rezaie",
+        "De Rienzo",
+        "Roy A",
+        "Nature Communications",
+        "Eimon PM",
+        "Signals For",
+        "Drug Screening",
+        "Wu Y"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Dravet",
+        "Ghannad-Rezaie M",
+        "Nature Communications",
+        "Signals For Drug Screening"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Yanik",
+        "Nature Communications",
+        "Dravet",
+        "Signals For Drug Screening",
+        "tens of thousands",
+        "Fatih Yanik",
+        "only two millimetres",
+        "the first year",
+        "Eimon PM",
+        "Ghannad-Rezaie M"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Looking into the brain",
+          "Looking into the brain",
+          "Epilepsy trigger re-enacted",
+          "Healthy variety in the brain",
+          "High-throughput for the pharmaceutical industry"
+        ],
+        "content_length": 5685
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Yanik MF",
+        "Yanik",
+        "Skolnick J",
+        "EU",
+        "Allalou A",
+        "Signals For Drug Screening",
+        "Roy A",
+        "Nature Communications",
+        "Dravet",
+        "De Rienzo G",
+        "Fatih Yanik",
+        "Ghannad-Rezaie M",
+        "ERC",
+        "Gao M",
+        "Wu Y"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "why",
+        "who",
+        "10.1038",
+        "chemistry",
+        "where",
+        "biology",
+        "tens of thousands",
+        "what",
+        "how",
+        "medical_research",
+        "only two millimetres",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Fatih Yanik_has_role_professor",
+        "Yanik_has_role_scientist",
+        "Yanik_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

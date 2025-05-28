@@ -1,0 +1,583 @@
+{
+  "filename": "mehr-sicherheit-fuer-die-it-infrastruktur-an-der-eth.md",
+  "original_filename": "mehr-sicherheit-fuer-die-it-infrastruktur-an-der-eth.html",
+  "source_path": "de_internal/2021/07/mehr-sicherheit-fuer-die-it-infrastruktur-an-der-eth.html",
+  "date": "2021-07",
+  "title": "Mehr Sicherheit Fuer Die It Infrastruktur An Der Eth",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Wenn der eigene Computer zum Risiko wird",
+      "text": "- Installieren Sie auf allen Geräten regelmässig die Aktualisierungen (Updates) der Firmware, des Betriebssystems und aller installierten Anwendungen und Apps immer möglichst sofort.\n\n- Nutzen Sie ein Virenschutzprogramm, und achten Sie darauf, dass das Programm regelmässig, mindestens stündlich, aktualisiert wird.\n\n- Gehen Sie sicher, dass für Ihre Daten immer Backups ausgeführt werden, die möglichst regelmässig durchgeführt, sowie an unterschiedlichen Orten abgelegt sind. Prüfen Sie sporadisch, ob Sie die Daten aus dem Backup wiederherstellen und nutzen können. Nutzen Sie möglichst einen professionell verwalteten Backup-​​Service (von den Informatikdiensten oder Ihrer Informatiksupportgruppe). Dies ist die beste und zuverlässigste Art und Weise, um Ihre Daten zu sichern.\n\n- Nutzen Sie sichere Passwörter und ändern sie diese sofort (auf einem sicheren Computer), wenn sie den Verdacht haben, Schadsoftware auf Ihrem Computer zu haben! Nutzen sie niemals dieselben Passwörter!\n\nEs ist schnell passiert, eine auf den ersten Blick harmlos aussehende Mail, man drückt auf den Link darin, und schon installiert sich im Hintergrund eine Ransomware auf dem Computer, die die Daten des Computers oder im schlimmsten Fall grosser Teile der IT-Geräte und Speichersysteme verschlüsselt. Dahinter stehen Cyberkriminelle, die damit die Einzelperson oder die entsprechende Organisation zu erpressen versuchen, und gegen hohe Geldsummen die angeblich passende Entschlüsselungssoftware anbieten. Im Normalfall können über Back-Ups und Sicherungstools die Daten wieder gerettet werden, aber dafür müssen sie zuvor entsprechend gesichert worden sein."
+    },
+    {
+      "heading": "Wenn der eigene Computer zum Risiko wird",
+      "text": "Wenn der eigene Computer auf dem neuesten Stand der Virenschutz-Software ist und alle Updates und Patches der Apps und des Betriebssystems aktuell sind, dann sind die Chancen gut, dass gängige Ransomware-Angriffe, und natürlich andere Schadsoftware, erkannt werden und sich gar nicht erst installieren können.\n\nIst das aber nicht der Fall, sind nicht nur die eigenen Daten in Gefahr, sondern auch die aller anderen, die in der gleichen Netzwerkzone arbeiten. Ein Rechner, der mit Ransomware oder einer anderen Malware infiziert und im ETH-Netz ist (sei es direkt oder via VPN (Virtual Private Network)), ist eine ernsthafte Gefahr für andere IT-Geräte und die Daten der ETH-Angehörigen. Dies ist unabhängig davon, ob es sich um ein privates IT-Gerät wie Laptop, Handy oder Tablet handelt oder eines, das der ETH gehört.\n\nWie können solche Schwachstellen in der IT-Infrastruktur erkannt werden, bevor Angreifer*innen diese grossflächig ausnutzen? Nur wenn diese potenziellen Einfallstore für Attacken schnell identifiziert und geschlossen werden können, kann das Risiko, Opfer einer Cyberattacke zu werden, deutlich verringert werden."
+    },
+    {
+      "heading": "Wie soll die IT-Infrastruktur an der ETH besser geschützt werden?",
+      "text": "Um Schwachstellen durch nicht gepatchte IT-Geräte im ETH-Netzwerk zu erkennen, und mit dem Stand der Technik und den Anforderungen der IT-Sicherheit auf der Höhe zu bleiben, wird an der ETH nun untersucht, wie ein technisches System zum Auffinden solcher Schwachstellen eingeführt werden kann.\n\nUm dies rechtlich entsprechend abzustützen, wurde die «Benutzungsordnung für Informations- und Kommunikationstechnologie an der ETH Zürich» (BOT) einer Teilrevision unterzogen. Sie ist seit 1. Juni 2021 in Kraft und enthält Regelungen, die es möglich machen, den technischen Stand der IT-Infrastruktur besser auf Schwachstellen zu überprüfen (Abschnitt 6, Art. 18-20 bis BOT).\n\nWerden solche Schwachstellen identifiziert, können die zuständigen IT-Betreiber (z.B. die IT-Supportgruppe des Departements) oder die IT-Security Officer der Informatikdienste in akuten Bedrohungslagen die sofortige Sicherheitsaktualisierung von IT-Systemen im Auftrag des Chief Information Security Officers (CISO) anordnen. Dies ist in der BOT ausdrücklich so geregelt (Art. 20 bis Abs. 3 BOT), um die IT-Infrastruktur an der ETH Zürich vor gefährlichen Angriffen zu schützen.\n\nKontrolliert die ETH also zukünftig, was ich auf meinem Computer tue?\n\nNein. Schwachstellenmanagement hat nichts mit einer Einsicht in Ihre privaten Daten oder der Kontrolle Ihrer Arbeitsaktivitäten zu tun. Es wird ausschliesslich der technische Zustand der IT-Geräte überprüft, die im ETH-Netzwerk unterwegs sind.\n\nWie kann in Zukunft überprüft werden, ob ein IT-Gerät mit Schwachstellen ans ETH-System angeschlossen wird?\n\nGemäss der neuen Bestimmung, Anhang BOT Ziffer 3 Abs. 1 bis , dürfen die Informatikdienste permanent nicht personenbezogene (anonyme, pseudonyme) Auswertungen zur Überprüfung des technischen Zustands der IKT-Mittel im Auftrag des CISO vornehmen (z.B. Patch-Stände, Virenschutzmeldungen, Schwachstellenscans) und zur Gewährleistung der IKT-Sicherheit Randdaten über deren Nutzung aufzeichnen.\n\nMuss ich sonst noch etwas wissen?\n\nDie revidierte BOT gilt nicht nur die Nutzung der gesamten ETH-eigenen IT-Infrastruktur und alle -Geräte, sondern auch für ausgelagerte Dienstleistungen, z.B. Cloud-Lösungen (Art. 3 BOT). Ausserdem für private IT-Geräte jedweder Art, die im Datennetz der ETH genutzt werden."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2021/07/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Fuer",
+        "label": "PER",
+        "start": 36,
+        "end": 40
+      },
+      {
+        "text": "Eth",
+        "label": "LOC",
+        "start": 69,
+        "end": 72
+      },
+      {
+        "text": "Backup-​​Service",
+        "label": "ORG",
+        "start": 621,
+        "end": 637
+      },
+      {
+        "text": "Ihrer Informatiksupportgruppe",
+        "label": "MISC",
+        "start": 671,
+        "end": 700
+      },
+      {
+        "text": "Passwörter!",
+        "label": "ORG",
+        "start": 974,
+        "end": 985
+      },
+      {
+        "text": "Cyberkriminelle",
+        "label": "PER",
+        "start": 1301,
+        "end": 1316
+      },
+      {
+        "text": "Back-Ups",
+        "label": "LOC",
+        "start": 1515,
+        "end": 1523
+      },
+      {
+        "text": "Sicherungstools",
+        "label": "LOC",
+        "start": 1528,
+        "end": 1543
+      },
+      {
+        "text": "Virenschutz-Software",
+        "label": "LOC",
+        "start": 52,
+        "end": 72
+      },
+      {
+        "text": "Ransomware-Angriffe",
+        "label": "MISC",
+        "start": 193,
+        "end": 212
+      },
+      {
+        "text": "Netzwerkzone",
+        "label": "LOC",
+        "start": 435,
+        "end": 447
+      },
+      {
+        "text": "ETH-Netz",
+        "label": "MISC",
+        "start": 534,
+        "end": 542
+      },
+      {
+        "text": "VPN",
+        "label": "ORG",
+        "start": 571,
+        "end": 574
+      },
+      {
+        "text": "Virtual Private Network",
+        "label": "ORG",
+        "start": 576,
+        "end": 599
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "ORG",
+        "start": 669,
+        "end": 684
+      },
+      {
+        "text": "Handy",
+        "label": "PER",
+        "start": 761,
+        "end": 766
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 807,
+        "end": 810
+      },
+      {
+        "text": "IT-Infrastruktur",
+        "label": "ORG",
+        "start": 859,
+        "end": 875
+      },
+      {
+        "text": "Angreifer*innen",
+        "label": "PER",
+        "start": 898,
+        "end": 913
+      },
+      {
+        "text": "Risiko",
+        "label": "LOC",
+        "start": 1060,
+        "end": 1066
+      },
+      {
+        "text": "ETH-Netzwerk",
+        "label": "MISC",
+        "start": 53,
+        "end": 65
+      },
+      {
+        "text": "IT-Sicherheit",
+        "label": "MISC",
+        "start": 135,
+        "end": 148
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 186,
+        "end": 189
+      },
+      {
+        "text": "Auffinden",
+        "label": "MISC",
+        "start": 237,
+        "end": 246
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 422,
+        "end": 432
+      },
+      {
+        "text": "BOT",
+        "label": "ORG",
+        "start": 435,
+        "end": 438
+      },
+      {
+        "text": "IT-Infrastruktur",
+        "label": "ORG",
+        "start": 579,
+        "end": 595
+      },
+      {
+        "text": "BOT",
+        "label": "ORG",
+        "start": 665,
+        "end": 668
+      },
+      {
+        "text": "IT-Betreiber",
+        "label": "ORG",
+        "start": 738,
+        "end": 750
+      },
+      {
+        "text": "Departements",
+        "label": "LOC",
+        "start": 782,
+        "end": 794
+      },
+      {
+        "text": "IT-Security",
+        "label": "ORG",
+        "start": 805,
+        "end": 816
+      },
+      {
+        "text": "IT-Systemen",
+        "label": "ORG",
+        "start": 917,
+        "end": 928
+      },
+      {
+        "text": "CISO",
+        "label": "ORG",
+        "start": 981,
+        "end": 985
+      },
+      {
+        "text": "BOT",
+        "label": "ORG",
+        "start": 1013,
+        "end": 1016
+      },
+      {
+        "text": "BOT",
+        "label": "ORG",
+        "start": 1062,
+        "end": 1065
+      },
+      {
+        "text": "IT-Infrastruktur",
+        "label": "ORG",
+        "start": 1075,
+        "end": 1091
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1099,
+        "end": 1109
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1167,
+        "end": 1170
+      },
+      {
+        "text": "ETH-Netzwerk",
+        "label": "MISC",
+        "start": 1435,
+        "end": 1447
+      },
+      {
+        "text": "ETH-System",
+        "label": "ORG",
+        "start": 1541,
+        "end": 1551
+      },
+      {
+        "text": "IKT-Mittel",
+        "label": "ORG",
+        "start": 1776,
+        "end": 1786
+      },
+      {
+        "text": "Virenschutzmeldungen",
+        "label": "LOC",
+        "start": 1837,
+        "end": 1857
+      },
+      {
+        "text": "Schwachstellenscans",
+        "label": "LOC",
+        "start": 1859,
+        "end": 1878
+      },
+      {
+        "text": "IKT-Sicherheit Randdaten",
+        "label": "ORG",
+        "start": 1907,
+        "end": 1931
+      },
+      {
+        "text": "BOT",
+        "label": "ORG",
+        "start": 2013,
+        "end": 2016
+      },
+      {
+        "text": "ETH-eigenen IT-Infrastruktur",
+        "label": "ORG",
+        "start": 2057,
+        "end": 2085
+      },
+      {
+        "text": "Cloud-Lösungen",
+        "label": "LOC",
+        "start": 2157,
+        "end": 2171
+      },
+      {
+        "text": "BOT",
+        "label": "ORG",
+        "start": 2180,
+        "end": 2183
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2253,
+        "end": 2256
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Angreifer*innen",
+        "Cyberkriminelle",
+        "Fuer",
+        "Handy"
+      ],
+      "ORG": [
+        "BOT",
+        "Backup-​​Service",
+        "CISO",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Angehörigen",
+        "ETH-System",
+        "ETH-eigenen IT-Infrastruktur",
+        "IKT-Mittel",
+        "IKT-Sicherheit Randdaten",
+        "IT-Betreiber",
+        "IT-Infrastruktur",
+        "IT-Security",
+        "IT-Systemen",
+        "Passwörter!",
+        "VPN",
+        "Virtual Private Network"
+      ],
+      "LOCATION": [
+        "Back-Ups",
+        "Cloud-Lösungen",
+        "De Internal/2021/07/",
+        "Departements",
+        "Eth",
+        "Netzwerkzone",
+        "Risiko",
+        "Schwachstellenscans",
+        "Sicherungstools",
+        "Virenschutz-Software",
+        "Virenschutzmeldungen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Auffinden",
+        "ETH-Netz",
+        "ETH-Netzwerk",
+        "IT-Sicherheit",
+        "Ihrer Informatiksupportgruppe",
+        "Ransomware-Angriffe"
+      ]
+    },
+    "entity_counts": {
+      "BOT": 6,
+      "ETH": 4,
+      "IT-Infrastruktur": 3,
+      "ETH-Netzwerk": 2,
+      "ETH Zürich": 2,
+      "De Internal/2021/07/": 1,
+      "Fuer": 1,
+      "Eth": 1,
+      "Backup-​​Service": 1,
+      "Ihrer Informatiksupportgruppe": 1,
+      "Passwörter!": 1,
+      "Cyberkriminelle": 1,
+      "Back-Ups": 1,
+      "Sicherungstools": 1,
+      "Virenschutz-Software": 1,
+      "Ransomware-Angriffe": 1,
+      "Netzwerkzone": 1,
+      "ETH-Netz": 1,
+      "VPN": 1,
+      "Virtual Private Network": 1
+    },
+    "total_entities": 50,
+    "unique_entities": 38
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mehr-sicherheit-fuer-die-it-infrastruktur-an-der-eth.md",
+      "title": "De Internal/2021/07/mehr Sicherheit Fuer die It Infrastruktur an der Eth",
+      "language": "de",
+      "source_path": "de_internal/2021/07/mehr-sicherheit-fuer-die-it-infrastruktur-an-der-eth.html"
+    },
+    "temporal": {
+      "publication_date": "2021-07",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Angreifer*innen",
+        "Cyberkriminelle",
+        "Fuer",
+        "Handy"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Auffinden",
+        "ETH-Netz",
+        "ETH-Netzwerk",
+        "IT-Sicherheit",
+        "Ihrer Informatiksupportgruppe",
+        "Ransomware-Angriffe"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Ransomware-Angriffe",
+        "IKT-Mittel",
+        "ETH-System",
+        "Nutzen Sie",
+        "Back-Ups",
+        "Sicherheit Fuer",
+        "Virenschutz-Software",
+        "IT-Infrastruktur",
+        "IT-Sicherheit",
+        "Ihrer Informatiksupportgruppe",
+        "ETH-Netzwerk",
+        "ETH-Netz",
+        "IT-Systemen",
+        "Kontrolle Ihrer",
+        "Virtual Private",
+        "Ihre Daten",
+        "Im Normalfall",
+        "It Infrastruktur",
+        "Installieren Sie",
+        "Ihrem Computer",
+        "Anhang BOT",
+        "Um Schwachstellen",
+        "De Internal",
+        "IT-Betreiber",
+        "IT-Security",
+        "Security Officers",
+        "Chief Information",
+        "Gehen Sie",
+        "Ein Rechner",
+        "IKT-Sicherheit",
+        "IT-Supportgruppe"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BOT",
+        "Backup-​​Service",
+        "CISO",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Angehörigen",
+        "ETH-System",
+        "ETH-eigenen IT-Infrastruktur",
+        "IKT-Mittel",
+        "IKT-Sicherheit Randdaten",
+        "IT-Betreiber",
+        "IT-Infrastruktur",
+        "IT-Security",
+        "IT-Systemen",
+        "Passwörter!",
+        "VPN",
+        "Virtual Private Network"
+      ],
+      "locations": [
+        "Back-Ups",
+        "Cloud-Lösungen",
+        "De Internal/2021/07/",
+        "Departements",
+        "Eth",
+        "Netzwerkzone",
+        "Risiko",
+        "Schwachstellenscans",
+        "Sicherungstools",
+        "Virenschutz-Software",
+        "Virenschutzmeldungen"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "BOT",
+        "ETH",
+        "IT-Infrastruktur",
+        "ETH-Netzwerk",
+        "ETH Zürich",
+        "De Internal/2021/07/",
+        "Fuer",
+        "Eth",
+        "Backup-​​Service",
+        "Ihrer Informatiksupportgruppe"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Wenn der eigene Computer zum Risiko wird",
+          "Wenn der eigene Computer zum Risiko wird",
+          "Wie soll die IT-Infrastruktur an der ETH besser geschützt werden?"
+        ],
+        "content_length": 5133
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "IKT-Mittel",
+        "ETH",
+        "ETH-System",
+        "VPN",
+        "Cyberkriminelle",
+        "IT-Infrastruktur",
+        "Backup-​​Service",
+        "ETH-eigenen IT-Infrastruktur",
+        "Angreifer*innen",
+        "IKT-Sicherheit Randdaten",
+        "ETH Zürich",
+        "Fuer",
+        "IT-Systemen",
+        "EU",
+        "ETH-Angehörigen",
+        "Handy",
+        "IT-Betreiber",
+        "BOT",
+        "IT-Security",
+        "Passwörter!",
+        "CISO",
+        "Virtual Private Network",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Ransomware-Angriffe",
+        "IT-Sicherheit",
+        "Ihrer Informatiksupportgruppe",
+        "ETH-Netzwerk",
+        "who",
+        "ETH-Netz",
+        "computer_science",
+        "Auffinden",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

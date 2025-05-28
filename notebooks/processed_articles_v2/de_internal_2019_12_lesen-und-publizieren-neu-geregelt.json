@@ -1,0 +1,166 @@
+{
+  "filename": "de_internal_2019_12_lesen-und-publizieren-neu-geregelt.md",
+  "original_filename": "de_internal_2019_12_lesen-und-publizieren-neu-geregelt.html",
+  "source_path": "de_internal/2019/12/lesen-und-publizieren-neu-geregelt.html",
+  "date": "2019-12",
+  "title": "Lesen Und Publizieren Neu Geregelt",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Trotz vertragslosem Zustand mit Springer Nature ist der Zugang zu allen Zeitschrifteninhalten bis auf weiteres sichergestellt.\n\nWeitere Informationen finden Sie auf der Website der ETH-Bibliothek und in einer ETH News zu diesem Thema."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/12",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Publizieren Neu Geregelt",
+        "label": "ORG",
+        "start": 30,
+        "end": 54
+      },
+      {
+        "text": "Springer",
+        "label": "PER",
+        "start": 32,
+        "end": 40
+      },
+      {
+        "text": "Nature",
+        "label": "MISC",
+        "start": 41,
+        "end": 47
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 180,
+        "end": 194
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 208,
+        "end": 216
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Springer"
+      ],
+      "ORG": [
+        "ETH News",
+        "Publizieren Neu Geregelt"
+      ],
+      "LOCATION": [
+        "De Internal/2019/12"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "Nature"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2019/12": 1,
+      "Publizieren Neu Geregelt": 1,
+      "Springer": 1,
+      "Nature": 1,
+      "ETH-Bibliothek": 1,
+      "ETH News": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_12_lesen-und-publizieren-neu-geregelt.md",
+      "title": "De Internal/2019/12/lesen und Publizieren Neu Geregelt",
+      "language": "de",
+      "source_path": "de_internal/2019/12/lesen-und-publizieren-neu-geregelt.html"
+    },
+    "temporal": {
+      "publication_date": "2019-12",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Springer"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "Nature"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Geregelt Trotz",
+        "De Internal",
+        "ETH News",
+        "Springer Nature",
+        "Weitere Informationen",
+        "Publizieren Neu"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH News",
+        "Publizieren Neu Geregelt"
+      ],
+      "locations": [
+        "De Internal/2019/12"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2019/12",
+        "Publizieren Neu Geregelt",
+        "Springer",
+        "Nature",
+        "ETH-Bibliothek",
+        "ETH News"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 289
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Publizieren Neu Geregelt",
+        "2019",
+        "EU",
+        "ETH News",
+        "Springer"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "Nature"
+      ],
+      "graph_relations": []
+    }
+  }
+}

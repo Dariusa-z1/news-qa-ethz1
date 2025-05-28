@@ -1,0 +1,460 @@
+{
+  "filename": "microagents-with-revolutionary-potential.md",
+  "original_filename": "microagents-with-revolutionary-potential.html",
+  "source_path": "en_news_events/2016/03/microagents-with-revolutionary-potential.html",
+  "date": "2016-03",
+  "title": "Microagents With Revolutionary Potential",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Like the layers of a lasagne",
+      "text": "Salvador Pané was on a trolleybus in Zurich one day after work. He was deep in thought when the bus came to a sudden stop because the cable was disrupted. He was struck by an idea: “Why can’t we create a microrobot that generates an electric field wirelessly?” The idea stayed with him and, as a result, the ETH researcher and his colleagues have since succeeded in creating tiny particles that can be precisely controlled by magnetic fields and also generate electric fields.\n\nThis may sound relatively unspectacular to the uninitiated, but it is a breakthrough. What makes it unique is that a microstructure with a single source of energy is not only moved, but also can be brought to exercise another functionality. Until now, this had been possible only independently of each other. Pané and his team from the Institute of Robotics and Intelligent Systems have published their research results in the scientific journal Materials Horizons. Their findings could one day revolutionise medicine."
+    },
+    {
+      "heading": "Like the layers of a lasagne",
+      "text": "Pané, a chemist, has spent the past few years dealing with magnetoelectric micro and nanorobots, which can be stimulated by electromagnetic fields. Some of these materials are composed of different layers, with each exhibiting a different reaction to the magnetic field. “You have to imagine it like a lasagne with two layers: one layer responds to the field by changing its volume. These materials are magnetostrictive,” explains Pané. “Due to the stress transferred, the second piezoelectric layer becomes electrically polarized.\n\nThe scientists have made good use of this effect: they coated the microparticles on one side with two different metal layers, one of cobalt ferrite (magnetostrictive) and the other of barium titanate (piezoelectric) – two layers of the lasagne. When a magnetic field is generated around the particles, the inner layer of cobalt ferrite expands and the outer layer of barium titanate deforms, generating an electric field around the microparticles. The magnetoelectric effect was demonstrated by inducing electrochemical reactions."
+    },
+    {
+      "heading": "Bringing drugs to their targets",
+      "text": "The microrobots are named after Janus, the two-headed Roman god, because they are also composed of two halves. The Janus particles move by means of rotating magnetic fields. If the magnetic field is then altered, the microrobots generate an electric field. This opens up a wide range of applications, particularly in the field of medicine. “We could equip the microrobots with drugs, for example, and target them directly at cancerous tumours in the body, where they would then unload their cargo via the stimulus of the generated electric field,” explains Pané. \"This would virtually eliminate the side-effects of cancer drugs because only the cancer cells would be attacked. In addition, the precise application would significantly increase the efficacy of cancer therapies.” However, other applications, such as the wireless electrical stimulation of cells, could expand regenerative medicine in a revolutionary way."
+    },
+    {
+      "heading": "Much research before application",
+      "text": "Many questions still have to be answered before the microrobots can actually be used as a vehicle to transport drugs. For example, it is not yet clear which is the most efficient structure of material combination with the highest magnetoelectric properties. In addition, the microrobots have to be tested for their compatibility with the human body. “A lot of experiments still need to be done,” says Pané. He cites corrosion as an example: “This is often overlooked at the micro and nanoscale, but it needs to be thoroughly investigated.” Corrosion is capable of affecting not only the function of a device but can also cause contamination.\n\n“We have to look very carefully if we want to use a technology for a medical application,” emphasises the researcher. For this reason, in the development of micro and nanorobots his team is not limiting itself to technical feasibility alone, but is also exploring the compatibility, toxicity and efficiency of the robots. Pané is convinced that the microrobots will one day have the potential to make an important contribution in the field of biomedicine. It would be the (provisional) end of a journey that began on a Zurich trolleybus.\n\nChen X-Z, Shamsudhin N, Hoop M, Pieters R, Siringil E, Sakar MS, Nelson BJ, Pané S: Magnetoelectric micromachines with wirelessly controlled navigation and functionality. Materials Horizons 2016, 3: 113-118, doi: 10.1039/C5MH00259A"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Revolutionary Potential",
+        "label": "ORG",
+        "start": 40,
+        "end": 63
+      },
+      {
+        "text": "Pané",
+        "label": "PERSON",
+        "start": 9,
+        "end": 13
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 37,
+        "end": 43
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 44,
+        "end": 51
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 308,
+        "end": 311
+      },
+      {
+        "text": "the Institute of Robotics and Intelligent Systems",
+        "label": "ORG",
+        "start": 809,
+        "end": 858
+      },
+      {
+        "text": "Materials Horizons",
+        "label": "WORK_OF_ART",
+        "start": 923,
+        "end": 941
+      },
+      {
+        "text": "Pané",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "the past few years",
+        "label": "DATE",
+        "start": 27,
+        "end": 45
+      },
+      {
+        "text": "magnetoelectric micro",
+        "label": "ORG",
+        "start": 59,
+        "end": 80
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 315,
+        "end": 318
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 327,
+        "end": 330
+      },
+      {
+        "text": "Pané",
+        "label": "PERSON",
+        "start": 431,
+        "end": 435
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 473,
+        "end": 479
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 616,
+        "end": 619
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 630,
+        "end": 633
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 658,
+        "end": 661
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 750,
+        "end": 753
+      },
+      {
+        "text": "Janus",
+        "label": "LOC",
+        "start": 32,
+        "end": 37
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 43,
+        "end": 46
+      },
+      {
+        "text": "Roman",
+        "label": "NORP",
+        "start": 54,
+        "end": 59
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 99,
+        "end": 102
+      },
+      {
+        "text": "Janus",
+        "label": "LOC",
+        "start": 115,
+        "end": 120
+      },
+      {
+        "text": "Pané",
+        "label": "PERSON",
+        "start": 557,
+        "end": 561
+      },
+      {
+        "text": "Pané",
+        "label": "PERSON",
+        "start": 401,
+        "end": 405
+      },
+      {
+        "text": "Pané",
+        "label": "ORG",
+        "start": 964,
+        "end": 968
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 1008,
+        "end": 1015
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1161,
+        "end": 1167
+      },
+      {
+        "text": "Chen X-Z",
+        "label": "PERSON",
+        "start": 1180,
+        "end": 1188
+      },
+      {
+        "text": "Hoop M",
+        "label": "ORG",
+        "start": 1204,
+        "end": 1210
+      },
+      {
+        "text": "Siringil",
+        "label": "PERSON",
+        "start": 1223,
+        "end": 1231
+      },
+      {
+        "text": "Sakar",
+        "label": "NORP",
+        "start": 1235,
+        "end": 1240
+      },
+      {
+        "text": "Nelson BJ",
+        "label": "PERSON",
+        "start": 1245,
+        "end": 1254
+      },
+      {
+        "text": "Pané S: Magnetoelectric",
+        "label": "ORG",
+        "start": 1256,
+        "end": 1279
+      },
+      {
+        "text": "10.1039",
+        "label": "CARDINAL",
+        "start": 1393,
+        "end": 1400
+      },
+      {
+        "text": "C5MH00259A",
+        "label": "ORG",
+        "start": 1401,
+        "end": 1411
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chen X-Z",
+        "Nelson BJ",
+        "Pané",
+        "Siringil"
+      ],
+      "ORG": [
+        "C5MH00259A",
+        "ETH",
+        "Hoop M",
+        "Pané",
+        "Pané S: Magnetoelectric",
+        "Revolutionary Potential",
+        "magnetoelectric micro",
+        "the Institute of Robotics and Intelligent Systems"
+      ],
+      "LOCATION": [
+        "Janus",
+        "Zurich"
+      ],
+      "DATE": [
+        "one day",
+        "the past few years"
+      ],
+      "MISC": [
+        "10.1039",
+        "Materials Horizons",
+        "Roman",
+        "Sakar",
+        "one",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Pané": 6,
+      "two": 5,
+      "one": 3,
+      "Zurich": 2,
+      "one day": 2,
+      "Janus": 2,
+      "Revolutionary Potential": 1,
+      "ETH": 1,
+      "the Institute of Robotics and Intelligent Systems": 1,
+      "Materials Horizons": 1,
+      "the past few years": 1,
+      "magnetoelectric micro": 1,
+      "second": 1,
+      "Roman": 1,
+      "Chen X-Z": 1,
+      "Hoop M": 1,
+      "Siringil": 1,
+      "Sakar": 1,
+      "Nelson BJ": 1,
+      "Pané S: Magnetoelectric": 1
+    },
+    "total_entities": 36,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "microagents-with-revolutionary-potential.md",
+      "title": "En News Events/2016/03/microagents With Revolutionary Potential",
+      "language": "en",
+      "source_path": "en_news_events/2016/03/microagents-with-revolutionary-potential.html"
+    },
+    "temporal": {
+      "publication_date": "2016-03",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chen X-Z",
+        "Nelson BJ",
+        "Pané",
+        "Siringil"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1039",
+        "Materials Horizons",
+        "Roman",
+        "Sakar",
+        "second"
+      ],
+      "grants_funding": [
+        "ERC",
+        "Horizon"
+      ],
+      "projects": [
+        "With Revolutionary",
+        "The Janus",
+        "Materials Horizons",
+        "En News",
+        "Siringil E",
+        "Hoop M",
+        "Chen X",
+        "Sakar MS",
+        "Nelson BJ",
+        "Shamsudhin N",
+        "Potential Salvador",
+        "Pieters R",
+        "Intelligent Systems"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "C5MH00259A",
+        "ETH",
+        "Hoop M",
+        "Pané",
+        "Pané S: Magnetoelectric",
+        "Revolutionary Potential",
+        "magnetoelectric micro",
+        "the Institute of Robotics and Intelligent Systems"
+      ],
+      "locations": [
+        "Janus",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Pané",
+        "two",
+        "one",
+        "Zurich",
+        "one day",
+        "Janus",
+        "Revolutionary Potential",
+        "ETH",
+        "the Institute of Robotics and Intelligent Systems",
+        "Materials Horizons"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Like the layers of a lasagne",
+          "Like the layers of a lasagne",
+          "Bringing drugs to their targets",
+          "Much research before application"
+        ],
+        "content_length": 4458
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Pané",
+        "Hoop M",
+        "Nelson BJ",
+        "Chen X-Z",
+        "2016",
+        "Pané S: Magnetoelectric",
+        "C5MH00259A",
+        "Revolutionary Potential",
+        "the Institute of Robotics and Intelligent Systems",
+        "Horizon",
+        "ERC",
+        "magnetoelectric micro",
+        "Siringil"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Sakar",
+        "Materials Horizons",
+        "why",
+        "who",
+        "chemistry",
+        "where",
+        "what",
+        "10.1039",
+        "second",
+        "how",
+        "medical_research",
+        "Roman",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

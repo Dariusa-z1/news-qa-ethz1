@@ -1,0 +1,368 @@
+{
+  "filename": "en_internal_2018_01_peko-is-looking-for-new-members.md",
+  "original_filename": "en_internal_2018_01_peko-is-looking-for-new-members.html",
+  "source_path": "en_internal/2018/01/peko-is-looking-for-new-members.html",
+  "date": "2018-01",
+  "title": "Peko Is Looking For New Members",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Further Information",
+      "text": "Do you want to play an active role in representing the interests of the ETH staff? As a member of the ETH Zurich Staff Commission, you can do just that. For the upcoming term of office, the Commission is looking for committed, innovative ETH employees from the administrative and technical areas who are prepared to play an active role in representing the interests and concerns of the staff. Existing members may be re-elected for the new term.\n\nMembers must play an ongoing, active role in the Commission and be willing to invest time in the position. Anyone who has been working at ETH Zurich in an ongoing, permanent position for at least six months and with an employment level of at least 50% is eligible to apply. The Commission language is German. The next term of office will run from August 2018 to 2021.\n\nAre you interested? If so, please send your application to the election office by 2 May 2018 and include the heading “Staff Commission reelections”. Please include your personal details, a photo, a short CV, your place of work and your position, together with a brief cover letter.\n\nETH Zurich Election office “Staff Commission reelections ” Lukas Vonesch Head of Human Resources HR department Turnerstrasse 1 8092 Zurich"
+    },
+    {
+      "heading": "Further Information",
+      "text": "The Staff Commission represents the interests of the administrative and technical staff to the Executive Board. It acts as a link and promotes collaboration between the Executive Board and ETH employees. More information can be found at: www.peko.ethz.ch\n\nAbout the elections: www.peko.ethz.ch/infos/reglement\n\nIf you have any questions, please contact:\n\nAndré Blanchard, President of PeKo Tel.: +41 44 633 26 03 E-Mail:"
+    },
+    {
+      "heading": "Further information",
+      "text": "ETH Zurich Staff Commission\n\nHR: Employment and Work News"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 72,
+        "end": 75
+      },
+      {
+        "text": "the ETH Zurich Staff Commission",
+        "label": "ORG",
+        "start": 98,
+        "end": 129
+      },
+      {
+        "text": "Commission",
+        "label": "ORG",
+        "start": 190,
+        "end": 200
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 238,
+        "end": 241
+      },
+      {
+        "text": "Commission",
+        "label": "ORG",
+        "start": 495,
+        "end": 505
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 584,
+        "end": 594
+      },
+      {
+        "text": "at least six months",
+        "label": "DATE",
+        "start": 633,
+        "end": 652
+      },
+      {
+        "text": "at least 50%",
+        "label": "PERCENT",
+        "start": 685,
+        "end": 697
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 747,
+        "end": 753
+      },
+      {
+        "text": "August 2018 to 2021",
+        "label": "DATE",
+        "start": 793,
+        "end": 812
+      },
+      {
+        "text": "May 2018",
+        "label": "DATE",
+        "start": 898,
+        "end": 906
+      },
+      {
+        "text": "CV",
+        "label": "GPE",
+        "start": 1018,
+        "end": 1020
+      },
+      {
+        "text": "ETH Zurich Election",
+        "label": "ORG",
+        "start": 1096,
+        "end": 1115
+      },
+      {
+        "text": "Lukas Vonesch Head",
+        "label": "ORG",
+        "start": 1155,
+        "end": 1173
+      },
+      {
+        "text": "Human Resources HR",
+        "label": "ORG",
+        "start": 1177,
+        "end": 1195
+      },
+      {
+        "text": "Turnerstrasse 1 8092 Zurich",
+        "label": "ORG",
+        "start": 1207,
+        "end": 1234
+      },
+      {
+        "text": "The Staff Commission",
+        "label": "ORG",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 91,
+        "end": 110
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 165,
+        "end": 184
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 189,
+        "end": 192
+      },
+      {
+        "text": "André Blanchard",
+        "label": "PERSON",
+        "start": 352,
+        "end": 367
+      },
+      {
+        "text": "PeKo Tel",
+        "label": "PERSON",
+        "start": 382,
+        "end": 390
+      },
+      {
+        "text": "26 03",
+        "label": "DATE",
+        "start": 404,
+        "end": 409
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "André Blanchard",
+        "PeKo Tel"
+      ],
+      "ORG": [
+        "Commission",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich Election",
+        "Human Resources HR",
+        "Lukas Vonesch Head",
+        "The Staff Commission",
+        "Turnerstrasse 1 8092 Zurich",
+        "the ETH Zurich Staff Commission",
+        "the Executive Board"
+      ],
+      "LOCATION": [
+        "CV"
+      ],
+      "DATE": [
+        "26 03",
+        "August 2018 to 2021",
+        "May 2018",
+        "at least six months"
+      ],
+      "MISC": [
+        "German",
+        "at least 50%"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "Commission": 2,
+      "ETH Zurich": 2,
+      "the Executive Board": 2,
+      "the ETH Zurich Staff Commission": 1,
+      "at least six months": 1,
+      "at least 50%": 1,
+      "German": 1,
+      "August 2018 to 2021": 1,
+      "May 2018": 1,
+      "CV": 1,
+      "ETH Zurich Election": 1,
+      "Lukas Vonesch Head": 1,
+      "Human Resources HR": 1,
+      "Turnerstrasse 1 8092 Zurich": 1,
+      "The Staff Commission": 1,
+      "André Blanchard": 1,
+      "PeKo Tel": 1,
+      "26 03": 1
+    },
+    "total_entities": 24,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "en_internal_2018_01_peko-is-looking-for-new-members.md",
+      "title": "En Internal/2018/01/peko Is Looking For New Members",
+      "language": "en",
+      "source_path": "en_internal/2018/01/peko-is-looking-for-new-members.html"
+    },
+    "temporal": {
+      "publication_date": "2018-01",
+      "mentioned_years": [
+        "2018",
+        "2021"
+      ],
+      "time_periods": [
+        [
+          "2018",
+          "2021"
+        ]
+      ],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "André Blanchard",
+        "PeKo Tel"
+      ],
+      "people_with_roles": {
+        "André Blanchard": [
+          "president"
+        ],
+        "PeKo Tel": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "German",
+        "at least 50%"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Is Looking",
+        "Work News",
+        "E-Mail",
+        "Executive Board",
+        "Members Do",
+        "En Internal",
+        "Zurich The",
+        "PeKo Tel",
+        "Lukas Vonesch",
+        "Human Resources",
+        "The Commission",
+        "Staff Commission",
+        "ETH Zurich",
+        "For New"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Commission",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich Election",
+        "Human Resources HR",
+        "Lukas Vonesch Head",
+        "The Staff Commission",
+        "Turnerstrasse 1 8092 Zurich",
+        "the ETH Zurich Staff Commission",
+        "the Executive Board"
+      ],
+      "locations": [
+        "CV"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Commission",
+        "ETH Zurich",
+        "the Executive Board",
+        "the ETH Zurich Staff Commission",
+        "at least six months",
+        "at least 50%",
+        "German",
+        "August 2018 to 2021",
+        "May 2018"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Further Information",
+          "Further Information",
+          "Further information"
+        ],
+        "content_length": 1768
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "Commission",
+        "Human Resources HR",
+        "Lukas Vonesch Head",
+        "PeKo Tel",
+        "the ETH Zurich Staff Commission",
+        "André Blanchard",
+        "the Executive Board",
+        "ETH Zurich",
+        "The Staff Commission",
+        "2021",
+        "ETH Zurich Election",
+        "Turnerstrasse 1 8092 Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "at least 50%",
+        "who",
+        "German",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "André Blanchard_has_role_president",
+        "PeKo Tel_has_role_president",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

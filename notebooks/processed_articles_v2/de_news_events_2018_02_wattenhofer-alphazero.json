@@ -1,0 +1,498 @@
+{
+  "filename": "de_news_events_2018_02_wattenhofer-alphazero.md",
+  "original_filename": "de_news_events_2018_02_wattenhofer-alphazero.html",
+  "source_path": "de_news_events/2018/02/wattenhofer-alphazero.html",
+  "date": "2018-02",
+  "title": "Wattenhofer Alphazero",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Ein Auf und Ab in der Geschichte",
+      "text": "In den vergangenen 60 Jahren haben die Forschenden der Künstlichen Intelligenz immer wieder futuristische Prognosen gewagt. Zum Beispiel wurde angekündigt, dass ein Computer Schachweltmeister wird. Erwartet wurde das bis ins Jahr 1968, eingetreten ist es etwa 30 Jahre später. Noch optimistischer war die Vorhersage, dass Computer bis 1985 gar beliebige menschliche Arbeiten erledigen können; davon sind wir heute noch ziemlich weit entfernt."
+    },
+    {
+      "heading": "Ein Auf und Ab in der Geschichte",
+      "text": "Die Ernüchterung folgte oft auf dem Fuss, die gross angelegten Forschungsprogramme wurden eingestampft, es folgte der « externe Seite Winter der Künstlichen Intelligenz ». Zwischenzeitlich mochten die Forscher nicht einmal mehr von Künstlicher Intelligenz sprechen, man wurde bescheidener und studierte stattdessen Maschinelles Lernen (Machine Learning).\n\nUm die Jahrtausendwende gab es dann einige Erfolge: IBM’s Deep Blue bezwang Garry Kasparov im Schach. Kritiker monierten, dass Schach sowieso kein richtiger Intelligenztest sei, und wiederholten das sogenannte externe Seite Chinesische Zimmer -Argument von John Searle: Deep Blue verstehe das Spiel nicht wirklich, er rechne nur sehr schnell. Ein paar Jahre später schaffte es ein Auto von Stanford autonom zu navigieren. Aber auch das gelang nur in der Wüste. Und schliesslich gewann IBM’s Watson in der Quizshow Jeopardy! – doch war das wirklich intelligent, oder einfach nur googeln für Fortgeschrittene?"
+    },
+    {
+      "heading": "Zu oft «Wolf!» gebrüllt?",
+      "text": "Ich vermute mal, dass die KI-Forschung und ihre Exponenten zu oft «Wolf!» gebrüllt haben. Mit dem Resultat, dass jetzt Erfolge und echte Durchbrüche nicht mehr wirklich ernst genommen werden. Doch der Wolf ist hier, und er hat einen Namen: externe Seite AlphaZero ."
+    },
+    {
+      "heading": "Zum Autor",
+      "text": "AlphaZero, ein Computerprogramm von DeepMind, kann autodidaktisch lernen, zum Beispiel auch Schach. Seit Deep Blue haben sich die Schachprogramme stetig weiterentwickelt. Die besten Programme wie Stockfish haben seit vielen Jahren ein so hohes Niveau, dass Menschen gegen sie chancenlos sind.\n\nStockfish hat viel Schachtheorie intus, kennt jede jemals gespielte Partie. AlphaZero kannte nur die Schachregeln, es lernte das Spiel, indem es einige Stunden gegen sich selbst spielte. Zuerst wird es dabei sehr viele Anfängerfehler gemacht haben, aber nach vier Stunden autodidaktischem Training bezwang AlphaZero Stockfish. (Es gibt allerdings einige externe Seite berechtigte Einwände bezüglich Hardwareeinsatz und unfairen Wettkampfregeln.)\n\nAllen, die etwas von Schach verstehen, empfehle ich, sich die externe Seite zehnte Partie gegen Stockfish anschauen. AlphaZero spielt sehr ungewöhnlich, nicht wie ein Mensch, aber auch nicht wie ein typischer Computer, sondern mit «echter künstlicher» Intelligenz. Da AlphaZero zu Beginn keine Schachtheorie kannte, musste es seine eigene Theorie entwickeln. Grossmeister Daniel King behauptet, dass AlphaZero die Schachtheorie und das Spiel der Profis ändern werde, sobald es öffentlich zugänglich ist.\n\nAlphaZero ist gewissermassen «menschlicher» als normale Computer. Die Deep Network Struktur erinnert an das menschliche Gehirn, und es rechnet langsamer. Es wertet pro Partie tausendmal weniger Stellungen aus als Stockfish. Es wäre interessant zu sehen, wie eine Partie Mensch gegen AlphaZero ausgeht, wenn AlphaZero auf «Menschen-Geschwindigkeit» gebremst würde. Und AlphaZero kann nicht nur Schach. Es kann auch andere Spiele, die es sich selber beigebracht hat.\n\nIch jedenfalls bin beeindruckt. AlphaZero's Leistung zeigt, dass wir die Künstliche Intelligenz ernst nehmen müssen. Sie beweist, dass wir Zeitzeugen eines gewaltigen Wandels sind. Ich bin überzeugt: AlphaZero & Co. werden die Gesellschaft nachhaltig verändern.\n\nRoger Wattenhofer Professor für Verteilte Systeme an der ETH Zürich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Jahr 1968",
+        "label": "MISC",
+        "start": 225,
+        "end": 234
+      },
+      {
+        "text": "Maschinelles Lernen",
+        "label": "PER",
+        "start": 315,
+        "end": 334
+      },
+      {
+        "text": "Machine Learning",
+        "label": "PER",
+        "start": 336,
+        "end": 352
+      },
+      {
+        "text": "IBM’s Deep Blue",
+        "label": "MISC",
+        "start": 407,
+        "end": 422
+      },
+      {
+        "text": "Garry Kasparov",
+        "label": "PER",
+        "start": 431,
+        "end": 445
+      },
+      {
+        "text": "Chinesische",
+        "label": "MISC",
+        "start": 579,
+        "end": 590
+      },
+      {
+        "text": "John Searle",
+        "label": "PER",
+        "start": 612,
+        "end": 623
+      },
+      {
+        "text": "Deep Blue",
+        "label": "MISC",
+        "start": 625,
+        "end": 634
+      },
+      {
+        "text": "paar Jahre später",
+        "label": "MISC",
+        "start": 702,
+        "end": 719
+      },
+      {
+        "text": "Stanford",
+        "label": "PER",
+        "start": 745,
+        "end": 753
+      },
+      {
+        "text": "IBM’s Watson",
+        "label": "ORG",
+        "start": 840,
+        "end": 852
+      },
+      {
+        "text": "Quizshow Jeopardy!",
+        "label": "ORG",
+        "start": 860,
+        "end": 878
+      },
+      {
+        "text": "KI-Forschung",
+        "label": "ORG",
+        "start": 26,
+        "end": 38
+      },
+      {
+        "text": "AlphaZero",
+        "label": "MISC",
+        "start": 254,
+        "end": 263
+      },
+      {
+        "text": "AlphaZero",
+        "label": "MISC",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "DeepMind",
+        "label": "MISC",
+        "start": 36,
+        "end": 44
+      },
+      {
+        "text": "Deep Blue",
+        "label": "MISC",
+        "start": 105,
+        "end": 114
+      },
+      {
+        "text": "Schachprogramme",
+        "label": "LOC",
+        "start": 130,
+        "end": 145
+      },
+      {
+        "text": "Stockfish",
+        "label": "MISC",
+        "start": 196,
+        "end": 205
+      },
+      {
+        "text": "Stockfish",
+        "label": "PER",
+        "start": 293,
+        "end": 302
+      },
+      {
+        "text": "AlphaZero",
+        "label": "ORG",
+        "start": 369,
+        "end": 378
+      },
+      {
+        "text": "AlphaZero Stockfish",
+        "label": "PER",
+        "start": 599,
+        "end": 618
+      },
+      {
+        "text": "Stockfish",
+        "label": "MISC",
+        "start": 835,
+        "end": 844
+      },
+      {
+        "text": "AlphaZero",
+        "label": "MISC",
+        "start": 856,
+        "end": 865
+      },
+      {
+        "text": "AlphaZero",
+        "label": "MISC",
+        "start": 1007,
+        "end": 1016
+      },
+      {
+        "text": "Daniel King",
+        "label": "PER",
+        "start": 1111,
+        "end": 1122
+      },
+      {
+        "text": "AlphaZero",
+        "label": "MISC",
+        "start": 1139,
+        "end": 1148
+      },
+      {
+        "text": "AlphaZero",
+        "label": "MISC",
+        "start": 1243,
+        "end": 1252
+      },
+      {
+        "text": "Deep Network",
+        "label": "ORG",
+        "start": 1313,
+        "end": 1325
+      },
+      {
+        "text": "AlphaZero",
+        "label": "ORG",
+        "start": 1526,
+        "end": 1535
+      },
+      {
+        "text": "AlphaZero",
+        "label": "MISC",
+        "start": 1550,
+        "end": 1559
+      },
+      {
+        "text": "Menschen-Geschwindigkeit",
+        "label": "ORG",
+        "start": 1565,
+        "end": 1589
+      },
+      {
+        "text": "AlphaZero",
+        "label": "MISC",
+        "start": 1611,
+        "end": 1620
+      },
+      {
+        "text": "Zeitzeugen",
+        "label": "LOC",
+        "start": 1847,
+        "end": 1857
+      },
+      {
+        "text": "AlphaZero & Co.",
+        "label": "ORG",
+        "start": 1908,
+        "end": 1923
+      },
+      {
+        "text": "Roger Wattenhofer",
+        "label": "PER",
+        "start": 1970,
+        "end": 1987
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 2027,
+        "end": 2037
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "AlphaZero Stockfish",
+        "Daniel King",
+        "De News",
+        "Garry Kasparov",
+        "John Searle",
+        "Machine Learning",
+        "Maschinelles Lernen",
+        "Roger Wattenhofer",
+        "Stanford",
+        "Stockfish"
+      ],
+      "ORG": [
+        "AlphaZero",
+        "AlphaZero & Co.",
+        "Deep Network",
+        "ETH Zürich",
+        "IBM’s Watson",
+        "KI-Forschung",
+        "Menschen-Geschwindigkeit",
+        "Quizshow Jeopardy!"
+      ],
+      "LOCATION": [
+        "Schachprogramme",
+        "Zeitzeugen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "AlphaZero",
+        "Chinesische",
+        "Deep Blue",
+        "DeepMind",
+        "IBM’s Deep Blue",
+        "Jahr 1968",
+        "Stockfish",
+        "paar Jahre später"
+      ]
+    },
+    "entity_counts": {
+      "AlphaZero": 10,
+      "Stockfish": 3,
+      "Deep Blue": 2,
+      "De News": 1,
+      "Jahr 1968": 1,
+      "Maschinelles Lernen": 1,
+      "Machine Learning": 1,
+      "IBM’s Deep Blue": 1,
+      "Garry Kasparov": 1,
+      "Chinesische": 1,
+      "John Searle": 1,
+      "paar Jahre später": 1,
+      "Stanford": 1,
+      "IBM’s Watson": 1,
+      "Quizshow Jeopardy!": 1,
+      "KI-Forschung": 1,
+      "DeepMind": 1,
+      "Schachprogramme": 1,
+      "AlphaZero Stockfish": 1,
+      "Daniel King": 1
+    },
+    "total_entities": 38,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2018_02_wattenhofer-alphazero.md",
+      "title": "De News Events/2018/02/wattenhofer Alphazero",
+      "language": "de",
+      "source_path": "de_news_events/2018/02/wattenhofer-alphazero.html"
+    },
+    "temporal": {
+      "publication_date": "2018-02",
+      "mentioned_years": [
+        "1968",
+        "1985",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "AlphaZero Stockfish",
+        "Daniel King",
+        "De News",
+        "Garry Kasparov",
+        "John Searle",
+        "Machine Learning",
+        "Maschinelles Lernen",
+        "Roger Wattenhofer",
+        "Stanford",
+        "Stockfish"
+      ],
+      "people_with_roles": {
+        "Roger Wattenhofer": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "AlphaZero",
+        "Chinesische",
+        "Deep Blue",
+        "DeepMind",
+        "IBM’s Deep Blue",
+        "Jahr 1968",
+        "Stockfish",
+        "paar Jahre später"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Alphazero In",
+        "AlphaZero Stockfish",
+        "Zum Beispiel",
+        "Seit Deep",
+        "Machine Learning",
+        "Quizshow Jeopardy",
+        "Deep Blue",
+        "Die Deep",
+        "Seite AlphaZero",
+        "Partie Mensch",
+        "Maschinelles Lernen",
+        "John Searle",
+        "Seite Chinesische",
+        "Grossmeister Daniel",
+        "Roger Wattenhofer",
+        "KI-Forschung",
+        "Computer Schachweltmeister",
+        "Garry Kasparov",
+        "Verteilte Systeme",
+        "Seite Winter",
+        "Network Struktur",
+        "De News",
+        "Da AlphaZero",
+        "Menschen-Geschwindigkeit",
+        "Und AlphaZero"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AlphaZero",
+        "AlphaZero & Co.",
+        "Deep Network",
+        "ETH Zürich",
+        "IBM’s Watson",
+        "KI-Forschung",
+        "Menschen-Geschwindigkeit",
+        "Quizshow Jeopardy!"
+      ],
+      "locations": [
+        "Schachprogramme",
+        "Zeitzeugen"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "how"
+      ],
+      "key_concepts": [
+        "AlphaZero",
+        "Stockfish",
+        "Deep Blue",
+        "De News",
+        "Jahr 1968",
+        "Maschinelles Lernen",
+        "Machine Learning",
+        "IBM’s Deep Blue",
+        "Garry Kasparov",
+        "Chinesische"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Ein Auf und Ab in der Geschichte",
+          "Ein Auf und Ab in der Geschichte",
+          "Zu oft «Wolf!» gebrüllt?",
+          "Zum Autor"
+        ],
+        "content_length": 3760
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "IBM’s Watson",
+        "1968",
+        "AlphaZero Stockfish",
+        "Deep Network",
+        "2018",
+        "1985",
+        "Machine Learning",
+        "ETH Zürich",
+        "AlphaZero & Co.",
+        "Maschinelles Lernen",
+        "John Searle",
+        "EU",
+        "Quizshow Jeopardy!",
+        "Stockfish",
+        "Roger Wattenhofer",
+        "KI-Forschung",
+        "Garry Kasparov",
+        "Stanford",
+        "De News",
+        "Menschen-Geschwindigkeit",
+        "Daniel King",
+        "AlphaZero"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "IBM’s Deep Blue",
+        "who",
+        "Deep Blue",
+        "Chinesische",
+        "paar Jahre später",
+        "Jahr 1968",
+        "how",
+        "Stockfish",
+        "AlphaZero",
+        "DeepMind"
+      ],
+      "graph_relations": [
+        "Roger Wattenhofer_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

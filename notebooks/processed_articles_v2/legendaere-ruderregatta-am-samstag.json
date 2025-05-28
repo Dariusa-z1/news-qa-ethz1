@@ -1,0 +1,281 @@
+{
+  "filename": "legendaere-ruderregatta-am-samstag.md",
+  "original_filename": "legendaere-ruderregatta-am-samstag.html",
+  "source_path": "de_news_events/2013/10/legendaere-ruderregatta-am-samstag.html",
+  "date": "2013-10",
+  "title": "Legendaere Ruderregatta Am Samstag",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Am Samstag heisst es wieder Daumen drücken für die Rudersportler der ETH. Dann startet um 15 Uhr die UNI-POLY Ruderregatta . Zwischen Quaibrücke und Rathaus treten die jeweiligen Hochschulteams in vier Kategorien gegeneinander an. Start ist im unteren Seebecken. Die Ziellinie befindet sich zwischen Münster- und Rathausbrücke. Neben den Achtern der Studentinnen und Studenten kämpfen die Professoren sowie erstmals die Alumni von Universität und ETH Zürich in best-of-three-Serien um Sieg und Ehre ihrer Hochschule.\n\nDer Ruderwettkampf zwischen den Zürcher Hochschulen wird seit 1945 ausgetragen. In den ersten Jahren auf dem Zürichsee und seit 2001 auf der Limmat. Als Vorbild gilt das legendäre Rennen zwischen den britischen Universitäten Oxford und Cambridge auf der Themse. Studenten beider Hochschulen treten im Achter über eine Strecke von 600 Metern gegeneinander an. Im Jahr 2001 starteten erstmals auch die Studentinnen; 2005 folgten die Professorenschaften. In diesem Jahr gehen erstmals Boote der Alumni an den Start."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 69,
+        "end": 72
+      },
+      {
+        "text": "UNI-POLY",
+        "label": "MISC",
+        "start": 101,
+        "end": 109
+      },
+      {
+        "text": "Ruderregatta",
+        "label": "LOC",
+        "start": 110,
+        "end": 122
+      },
+      {
+        "text": "Quaibrücke",
+        "label": "LOC",
+        "start": 134,
+        "end": 144
+      },
+      {
+        "text": "Rathaus",
+        "label": "LOC",
+        "start": 149,
+        "end": 156
+      },
+      {
+        "text": "Universität",
+        "label": "ORG",
+        "start": 431,
+        "end": 442
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 447,
+        "end": 457
+      },
+      {
+        "text": "Zürcher",
+        "label": "MISC",
+        "start": 549,
+        "end": 556
+      },
+      {
+        "text": "Zürichsee",
+        "label": "LOC",
+        "start": 626,
+        "end": 635
+      },
+      {
+        "text": "Limmat",
+        "label": "LOC",
+        "start": 658,
+        "end": 664
+      },
+      {
+        "text": "britischen",
+        "label": "MISC",
+        "start": 717,
+        "end": 727
+      },
+      {
+        "text": "Oxford",
+        "label": "ORG",
+        "start": 742,
+        "end": 748
+      },
+      {
+        "text": "Cambridge",
+        "label": "ORG",
+        "start": 753,
+        "end": 762
+      },
+      {
+        "text": "Themse",
+        "label": "LOC",
+        "start": 771,
+        "end": 777
+      },
+      {
+        "text": "Im Jahr 2001",
+        "label": "MISC",
+        "start": 876,
+        "end": 888
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News"
+      ],
+      "ORG": [
+        "Cambridge",
+        "ETH",
+        "ETH Zürich",
+        "Oxford",
+        "Universität"
+      ],
+      "LOCATION": [
+        "Limmat",
+        "Quaibrücke",
+        "Rathaus",
+        "Ruderregatta",
+        "Themse",
+        "Zürichsee"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Im Jahr 2001",
+        "UNI-POLY",
+        "Zürcher",
+        "britischen"
+      ]
+    },
+    "entity_counts": {
+      "De News": 1,
+      "ETH": 1,
+      "UNI-POLY": 1,
+      "Ruderregatta": 1,
+      "Quaibrücke": 1,
+      "Rathaus": 1,
+      "Universität": 1,
+      "ETH Zürich": 1,
+      "Zürcher": 1,
+      "Zürichsee": 1,
+      "Limmat": 1,
+      "britischen": 1,
+      "Oxford": 1,
+      "Cambridge": 1,
+      "Themse": 1,
+      "Im Jahr 2001": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "legendaere-ruderregatta-am-samstag.md",
+      "title": "De News Events/2013/10/legendaere Ruderregatta Am Samstag",
+      "language": "de",
+      "source_path": "de_news_events/2013/10/legendaere-ruderregatta-am-samstag.html"
+    },
+    "temporal": {
+      "publication_date": "2013-10",
+      "mentioned_years": [
+        "1945",
+        "2001",
+        "2005",
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor",
+        "alumni",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Im Jahr 2001",
+        "UNI-POLY",
+        "Zürcher",
+        "britischen"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Samstag Am",
+        "Der Ruderwettkampf",
+        "UNI-POLY",
+        "Als Vorbild",
+        "Im Jahr",
+        "De News",
+        "Die Ziellinie",
+        "Ruderregatta Am"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cambridge",
+        "ETH",
+        "ETH Zürich",
+        "Oxford",
+        "Universität"
+      ],
+      "locations": [
+        "Limmat",
+        "Quaibrücke",
+        "Rathaus",
+        "Ruderregatta",
+        "Themse",
+        "Zürichsee"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De News",
+        "ETH",
+        "UNI-POLY",
+        "Ruderregatta",
+        "Quaibrücke",
+        "Rathaus",
+        "Universität",
+        "ETH Zürich",
+        "Zürcher",
+        "Zürichsee"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1088
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Universität",
+        "ETH",
+        "Oxford",
+        "2013",
+        "1945",
+        "2001",
+        "ETH Zürich",
+        "De News",
+        "Cambridge",
+        "2005"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Zürcher",
+        "britischen",
+        "who",
+        "UNI-POLY",
+        "Im Jahr 2001"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

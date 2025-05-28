@@ -1,0 +1,20 @@
+# concern-for-switzerlands-academic-competitiveness.html
+
+**Source:** en_internal/2016/02/concern-for-switzerlands-academic-competitiveness.html
+
+## Safeguarding academic competitiveness
+
+swissuniversities, the common voice for higher education institutions in Switzerland, announced today that if the enforcement initiative is voted in on 28 February 2016, there will be far-reaching consequences for Swiss education and research.
+
+Switzerland would violate its obligations under international law and contravene the Agreement on the Free Movement of Persons. This would place a considerable burden on the already complex negotiations with the EU regarding the research agreement. In the worst case scenario, the EU could exercise what is called a guillotine clause and terminate all agreements between the two countries – including the agreement on scientific and technical cooperation.
+
+## Safeguarding academic competitiveness
+
+In its manifesto titled “Manifesto of Swiss universities for a Switzerland at the heart of the European education and research landscape”, Swiss universities voice their concerns about Switzerland's future as a research centre. If Switzerland cannot come to an agreement with the EU by the end of 2016, university rectors and presidents, including ETH President Lino Guzzella, are warning that it will be formally excluded from European education and research agreements.
+
+And this will have far-reaching consequences for the economy, as today, more research money flows from Europe into Switzerland than vice-versa: according to the latest study from the EU’s State Secretariat for Education, Research and Innovation, Switzerland transferred a total of CHF 2,263 million between 2007 and 2013 and received CHF 2,482 million from the EU in return. Of this, 39% went to institutions with links to ETH (ETH, EPFL, PSI, WSL, Empa, Eawag), 28% to other universities, 3% to universities of applied sciences and 22% to the corporate sector. However, the available data shows that Switzerland’s participation in the European research programmes has declined for the first time since the launch of Horizon 2020.
+
+The framework for education and research in Switzerland is therefore in urgent need of safeguarding. Swiss universities must have the opportunity to attract the best talent and participate fully in the European exchange and research programmes.
+
+## Staffnet
+

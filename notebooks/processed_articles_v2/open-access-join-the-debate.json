@@ -1,0 +1,161 @@
+{
+  "filename": "open-access-join-the-debate.md",
+  "original_filename": "open-access-join-the-debate.html",
+  "source_path": "en_internal/2014/10/open-access-join-the-debate.html",
+  "date": "2014-10",
+  "title": "Open Access Join The Debate",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The events are being held as part of the Open Access Week from 20 to 26 October. ETH-Bibliothek is also involved in the global campaign week again this year."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Access Join The Debate",
+        "label": "ORG",
+        "start": 25,
+        "end": 47
+      },
+      {
+        "text": "the Open Access Week",
+        "label": "EVENT",
+        "start": 37,
+        "end": 57
+      },
+      {
+        "text": "20 to 26 October",
+        "label": "DATE",
+        "start": 63,
+        "end": 79
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 81,
+        "end": 95
+      },
+      {
+        "text": "week",
+        "label": "DATE",
+        "start": 136,
+        "end": 140
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 147,
+        "end": 156
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Access Join The Debate",
+        "ETH-Bibliothek"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "20 to 26 October",
+        "this year",
+        "week"
+      ],
+      "MISC": [
+        "the Open Access Week"
+      ]
+    },
+    "entity_counts": {
+      "Access Join The Debate": 1,
+      "the Open Access Week": 1,
+      "20 to 26 October": 1,
+      "ETH-Bibliothek": 1,
+      "week": 1,
+      "this year": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "open-access-join-the-debate.md",
+      "title": "En Internal/2014/10/open Access Join The Debate",
+      "language": "en",
+      "source_path": "en_internal/2014/10/open-access-join-the-debate.html"
+    },
+    "temporal": {
+      "publication_date": "2014-10",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "the Open Access Week"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "The Debate",
+        "Access Join",
+        "En Internal",
+        "Open Access"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Access Join The Debate",
+        "ETH-Bibliothek"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Access Join The Debate",
+        "the Open Access Week",
+        "20 to 26 October",
+        "ETH-Bibliothek",
+        "week",
+        "this year"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 205
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "2014",
+        "Access Join The Debate"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "the Open Access Week",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

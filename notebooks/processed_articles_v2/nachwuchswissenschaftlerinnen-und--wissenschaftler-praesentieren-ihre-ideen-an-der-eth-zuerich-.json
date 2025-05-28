@@ -1,0 +1,347 @@
+{
+  "filename": "nachwuchswissenschaftlerinnen-und--wissenschaftler-praesentieren-ihre-ideen-an-der-eth-zuerich-.md",
+  "original_filename": "nachwuchswissenschaftlerinnen-und--wissenschaftler-praesentieren-ihre-ideen-an-der-eth-zuerich-.html",
+  "source_path": "en_internal/2016/09/nachwuchswissenschaftlerinnen-und--wissenschaftler-praesentieren-ihre-ideen-an-der-eth-zuerich-.html",
+  "date": "2016-09",
+  "title": "Nachwuchswissenschaftlerinnen Und Wissenschaftler Praesentieren Ihre Ideen An Der Eth Zuerich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Three minutes, three PowerPoint slides, one goal: impress the jury with your research project. Young innovators from various countries took up this challenge last week at the Falling Walls Lab in Zurich. An interdisciplinary jury assessed the presentations while the audience selected their favourite: Anna Lisa Martin-Niedecken from the Zurich University of the Arts (ZHdK).\n\nEtienne Jeoffroy impressed the jury with his project to significantly improve road surfaces, Denis Schapiro was a hit with his new technology for more targeted and effective treatment of cancer, and Joshua Urieli wants to make clean toilets around the world a reality.\n\nOn 8 November, the three will present their projects again at the final of the Falling Walls Lab in Berlin to a distinguished jury made up of high-calibre experts from academia and industry, competing against the other 93 finalists from all over the world. The three young researchers with the best ideas will receive a cash prize and the opportunity to present their project again the next day at the international Falling Walls Conference in front of around 600 guests.\n\nThe Falling Walls conference has been held every year since 2009, on the day of the fall of the Berlin Wall. The event is organised by the Falling Walls Foundation. The goal is to promote academic and entrepreneurial vision and spur on and encourage the exchange of ideas between young researchers and young professionals across different disciplines."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Wissenschaftler Praesentieren Ihre Ideen",
+        "label": "ORG",
+        "start": 54,
+        "end": 94
+      },
+      {
+        "text": "Eth Zuerich",
+        "label": "PERSON",
+        "start": 102,
+        "end": 113
+      },
+      {
+        "text": "Three minutes",
+        "label": "TIME",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 15,
+        "end": 20
+      },
+      {
+        "text": "PowerPoint",
+        "label": "ORG",
+        "start": 21,
+        "end": 31
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 40,
+        "end": 43
+      },
+      {
+        "text": "last week",
+        "label": "DATE",
+        "start": 158,
+        "end": 167
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 196,
+        "end": 202
+      },
+      {
+        "text": "Lisa Martin-Niedecken",
+        "label": "PERSON",
+        "start": 307,
+        "end": 328
+      },
+      {
+        "text": "the Zurich University of the Arts (ZHdK",
+        "label": "ORG",
+        "start": 334,
+        "end": 373
+      },
+      {
+        "text": "Etienne Jeoffroy",
+        "label": "PERSON",
+        "start": 376,
+        "end": 392
+      },
+      {
+        "text": "Denis Schapiro",
+        "label": "PERSON",
+        "start": 469,
+        "end": 483
+      },
+      {
+        "text": "Joshua Urieli",
+        "label": "PERSON",
+        "start": 575,
+        "end": 588
+      },
+      {
+        "text": "8 November",
+        "label": "DATE",
+        "start": 648,
+        "end": 658
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 664,
+        "end": 669
+      },
+      {
+        "text": "Berlin",
+        "label": "GPE",
+        "start": 745,
+        "end": 751
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 906,
+        "end": 911
+      },
+      {
+        "text": "the next day",
+        "label": "DATE",
+        "start": 1027,
+        "end": 1039
+      },
+      {
+        "text": "Falling Walls Conference",
+        "label": "WORK_OF_ART",
+        "start": 1061,
+        "end": 1085
+      },
+      {
+        "text": "around 600",
+        "label": "CARDINAL",
+        "start": 1098,
+        "end": 1108
+      },
+      {
+        "text": "the day of the fall",
+        "label": "DATE",
+        "start": 1186,
+        "end": 1205
+      },
+      {
+        "text": "the Berlin Wall",
+        "label": "FAC",
+        "start": 1209,
+        "end": 1224
+      },
+      {
+        "text": "the Falling Walls Foundation",
+        "label": "ORG",
+        "start": 1252,
+        "end": 1280
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Denis Schapiro",
+        "Eth Zuerich",
+        "Etienne Jeoffroy",
+        "Joshua Urieli",
+        "Lisa Martin-Niedecken"
+      ],
+      "ORG": [
+        "PowerPoint",
+        "Wissenschaftler Praesentieren Ihre Ideen",
+        "the Falling Walls Foundation",
+        "the Zurich University of the Arts (ZHdK"
+      ],
+      "LOCATION": [
+        "Berlin",
+        "Zurich",
+        "the Berlin Wall"
+      ],
+      "DATE": [
+        "8 November",
+        "Three minutes",
+        "last week",
+        "the day of the fall",
+        "the next day"
+      ],
+      "MISC": [
+        "Falling Walls Conference",
+        "around 600",
+        "one",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "three": 3,
+      "Wissenschaftler Praesentieren Ihre Ideen": 1,
+      "Eth Zuerich": 1,
+      "Three minutes": 1,
+      "PowerPoint": 1,
+      "one": 1,
+      "last week": 1,
+      "Zurich": 1,
+      "Lisa Martin-Niedecken": 1,
+      "the Zurich University of the Arts (ZHdK": 1,
+      "Etienne Jeoffroy": 1,
+      "Denis Schapiro": 1,
+      "Joshua Urieli": 1,
+      "8 November": 1,
+      "Berlin": 1,
+      "the next day": 1,
+      "Falling Walls Conference": 1,
+      "around 600": 1,
+      "the day of the fall": 1,
+      "the Berlin Wall": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "nachwuchswissenschaftlerinnen-und--wissenschaftler-praesentieren-ihre-ideen-an-der-eth-zuerich-.md",
+      "title": "En Internal/2016/09/nachwuchswissenschaftlerinnen und Wissenschaftler Praesentieren Ihre Ideen an der Eth Zuerich",
+      "language": "en",
+      "source_path": "en_internal/2016/09/nachwuchswissenschaftlerinnen-und--wissenschaftler-praesentieren-ihre-ideen-an-der-eth-zuerich-.html"
+    },
+    "temporal": {
+      "publication_date": "2016-09",
+      "mentioned_years": [
+        "2009",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Denis Schapiro",
+        "Eth Zuerich",
+        "Etienne Jeoffroy",
+        "Joshua Urieli",
+        "Lisa Martin-Niedecken"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "Falling Walls Conference",
+        "around 600",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Falling Walls",
+        "Joshua Urieli",
+        "Zurich University",
+        "Berlin Wall",
+        "Etienne Jeoffroy",
+        "The Falling",
+        "Anna Lisa",
+        "En Internal",
+        "Denis Schapiro",
+        "Martin-Niedecken",
+        "Eth Zuerich",
+        "Wissenschaftler Praesentieren",
+        "Ihre Ideen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "PowerPoint",
+        "Wissenschaftler Praesentieren Ihre Ideen",
+        "the Falling Walls Foundation",
+        "the Zurich University of the Arts (ZHdK"
+      ],
+      "locations": [
+        "Berlin",
+        "Zurich",
+        "the Berlin Wall"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "three",
+        "Wissenschaftler Praesentieren Ihre Ideen",
+        "Eth Zuerich",
+        "Three minutes",
+        "PowerPoint",
+        "one",
+        "last week",
+        "Zurich",
+        "Lisa Martin-Niedecken",
+        "the Zurich University of the Arts (ZHdK"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1585
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2009",
+        "the Falling Walls Foundation",
+        "Joshua Urieli",
+        "PowerPoint",
+        "EU",
+        "Etienne Jeoffroy",
+        "Denis Schapiro",
+        "2016",
+        "the Zurich University of the Arts (ZHdK",
+        "Lisa Martin-Niedecken",
+        "Wissenschaftler Praesentieren Ihre Ideen",
+        "Eth Zuerich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "around 600",
+        "three",
+        "who",
+        "what",
+        "medical_research",
+        "Falling Walls Conference",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

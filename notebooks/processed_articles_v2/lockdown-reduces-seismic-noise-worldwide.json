@@ -1,0 +1,435 @@
+{
+  "filename": "lockdown-reduces-seismic-noise-worldwide.md",
+  "original_filename": "lockdown-reduces-seismic-noise-worldwide.html",
+  "source_path": "en_news_events/2020/07/lockdown-reduces-seismic-noise-worldwide.html",
+  "date": "2020-07",
+  "title": "Lockdown Reduces Seismic Noise Worldwide",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Noise reduction in urban areas",
+      "text": "By analysing month-to-years long datasets from over 300 seismic stations around the world, the study, led by Thomas Lecocq from the Royal Observatory of Belgium, was able to show how the seismic noise decreased in many countries and regions since the start of the lockdown measures. Researchers from the Swiss Seismological Service at ETH Zurich also took part in the international study.\n\nThe strongest seismic noise reductions from the COVID-19 lockdown were found in urban areas, but the study also observed signs of the lockdown on sensors installed hundreds of meters below the surface and in more remote areas, such as in sub-Saharan Africa. Furthermore, the researchers found a strong correlation between seismic noise reduction and human mobility datasets."
+    },
+    {
+      "heading": "Noise reduction in urban areas",
+      "text": "In Switzerland, in particular the stations belonging to the Swiss Strong Motion Network (SSMNet) did show similar effects. Many of these measuring stations are located in urban areas and a significant reduction in seismic noise was recorded in Lugano, Martigny, Zurich, Basel and Geneva, among others. Since the lockdown was declared in mid-March, levels of seismic noise in these towns and cities have been nearly as low on working days as they were during weekends before the lockdown began. Meanwhile, the seismic noise is back to almost normal levels in Switzerland and in most countries analysed in the study.\n\nThe researchers could visualise the resulting \"wave of quiet” moving through China, then to Italy, and around the rest of the world. The seismic lockdown sees the total effect of physical and social distancing measures, reduced economic and industrial activity and drops in tourism and travel. The 2020 seismic noise quiet period is the longest and most prominent global anthropogenic seismic noise reduction on record."
+    },
+    {
+      "heading": "Finding hidden signals",
+      "text": "Traditionally, seismology focuses on measuring and analysing seismic waves arising from earthquakes. High-frequency vibrations (“buzz”) of human activity, however, contaminate the seismic records from natural sources. Walking around, driving cars, and getting the train, but also heavy industry and construction work generate unique seismic signals in the subsurface that influence the recordings of natural phenomena.\n\nSED seismologist Frédérick Massin, one of the co-authors of the study, says that the researchers hope that their work will spawn further research on the seismic lockdown. Finding previously hidden signals from earthquakes and volcanoes will be one key goal. Due to the growing urbanisation and increasing populations, it becomes more important than ever to characterise the anthropogenic noise humans cause so that seismologists can better listen to the Earth, especially in cities, and monitor the ground movements beneath our feet.\n\nThis article is based on a news report of Swiss Seismological Service .\n\nLecocq T, Hicks SP, Van Noten K et al.: Global quieting of high-frequency seismic noise due to COVID-19 pandemic lockdown measures. Science 23 Jul 2020: eabd2438. DOI: 10.1126/science.abd2438"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "month-to-years",
+        "label": "DATE",
+        "start": 13,
+        "end": 27
+      },
+      {
+        "text": "over 300",
+        "label": "CARDINAL",
+        "start": 47,
+        "end": 55
+      },
+      {
+        "text": "Thomas Lecocq",
+        "label": "PERSON",
+        "start": 109,
+        "end": 122
+      },
+      {
+        "text": "the Royal Observatory",
+        "label": "FAC",
+        "start": 128,
+        "end": 149
+      },
+      {
+        "text": "Belgium",
+        "label": "GPE",
+        "start": 153,
+        "end": 160
+      },
+      {
+        "text": "the Swiss Seismological Service",
+        "label": "ORG",
+        "start": 300,
+        "end": 331
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 335,
+        "end": 345
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 437,
+        "end": 445
+      },
+      {
+        "text": "hundreds of meters",
+        "label": "QUANTITY",
+        "start": 553,
+        "end": 571
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 639,
+        "end": 645
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 3,
+        "end": 14
+      },
+      {
+        "text": "the Swiss Strong Motion Network",
+        "label": "ORG",
+        "start": 56,
+        "end": 87
+      },
+      {
+        "text": "Lugano",
+        "label": "GPE",
+        "start": 244,
+        "end": 250
+      },
+      {
+        "text": "Martigny",
+        "label": "PERSON",
+        "start": 252,
+        "end": 260
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 262,
+        "end": 268
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 270,
+        "end": 275
+      },
+      {
+        "text": "Geneva",
+        "label": "GPE",
+        "start": 280,
+        "end": 286
+      },
+      {
+        "text": "mid-March",
+        "label": "DATE",
+        "start": 337,
+        "end": 346
+      },
+      {
+        "text": "working days",
+        "label": "DATE",
+        "start": 425,
+        "end": 437
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 558,
+        "end": 569
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 692,
+        "end": 697
+      },
+      {
+        "text": "Italy",
+        "label": "GPE",
+        "start": 707,
+        "end": 712
+      },
+      {
+        "text": "SED",
+        "label": "ORG",
+        "start": 419,
+        "end": 422
+      },
+      {
+        "text": "Frédérick Massin",
+        "label": "PERSON",
+        "start": 436,
+        "end": 452
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 454,
+        "end": 457
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 663,
+        "end": 666
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 873,
+        "end": 878
+      },
+      {
+        "text": "Swiss Seismological Service",
+        "label": "ORG",
+        "start": 995,
+        "end": 1022
+      },
+      {
+        "text": "Lecocq T",
+        "label": "PERSON",
+        "start": 1025,
+        "end": 1033
+      },
+      {
+        "text": "Hicks SP",
+        "label": "ORG",
+        "start": 1035,
+        "end": 1043
+      },
+      {
+        "text": "Van Noten K",
+        "label": "PERSON",
+        "start": 1045,
+        "end": 1056
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 1193,
+        "end": 1200
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Frédérick Massin",
+        "Lecocq T",
+        "Martigny",
+        "Thomas Lecocq",
+        "Van Noten K"
+      ],
+      "ORG": [
+        "COVID-19",
+        "ETH Zurich",
+        "Hicks SP",
+        "SED",
+        "Swiss Seismological Service",
+        "the Swiss Seismological Service",
+        "the Swiss Strong Motion Network"
+      ],
+      "LOCATION": [
+        "Africa",
+        "Basel",
+        "Belgium",
+        "China",
+        "Earth",
+        "Geneva",
+        "Italy",
+        "Lugano",
+        "Switzerland",
+        "Zurich",
+        "the Royal Observatory"
+      ],
+      "DATE": [
+        "mid-March",
+        "month-to-years",
+        "working days"
+      ],
+      "MISC": [
+        "10.1126",
+        "hundreds of meters",
+        "one",
+        "over 300"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 2,
+      "one": 2,
+      "month-to-years": 1,
+      "over 300": 1,
+      "Thomas Lecocq": 1,
+      "the Royal Observatory": 1,
+      "Belgium": 1,
+      "the Swiss Seismological Service": 1,
+      "ETH Zurich": 1,
+      "COVID-19": 1,
+      "hundreds of meters": 1,
+      "Africa": 1,
+      "the Swiss Strong Motion Network": 1,
+      "Lugano": 1,
+      "Martigny": 1,
+      "Zurich": 1,
+      "Basel": 1,
+      "Geneva": 1,
+      "mid-March": 1,
+      "working days": 1
+    },
+    "total_entities": 32,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "lockdown-reduces-seismic-noise-worldwide.md",
+      "title": "En News Events/2020/07/lockdown Reduces Seismic Noise Worldwide",
+      "language": "en",
+      "source_path": "en_news_events/2020/07/lockdown-reduces-seismic-noise-worldwide.html"
+    },
+    "temporal": {
+      "publication_date": "2020-07",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Frédérick Massin",
+        "Lecocq T",
+        "Martigny",
+        "Thomas Lecocq",
+        "Van Noten K"
+      ],
+      "people_with_roles": {
+        "Frédérick Massin": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1126",
+        "hundreds of meters",
+        "over 300"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "In Switzerland",
+        "Lecocq T",
+        "Hicks SP",
+        "Van Noten",
+        "Reduces Seismic",
+        "En News",
+        "Swiss Seismological",
+        "Noise Worldwide",
+        "Saharan Africa",
+        "Swiss Strong",
+        "Thomas Lecocq",
+        "ETH Zurich",
+        "Motion Network",
+        "Royal Observatory"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "ETH Zurich",
+        "Hicks SP",
+        "SED",
+        "Swiss Seismological Service",
+        "the Swiss Seismological Service",
+        "the Swiss Strong Motion Network"
+      ],
+      "locations": [
+        "Africa",
+        "Basel",
+        "Belgium",
+        "China",
+        "Earth",
+        "Geneva",
+        "Italy",
+        "Lugano",
+        "Switzerland",
+        "Zurich",
+        "the Royal Observatory"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "one",
+        "month-to-years",
+        "over 300",
+        "Thomas Lecocq",
+        "the Royal Observatory",
+        "Belgium",
+        "the Swiss Seismological Service",
+        "ETH Zurich",
+        "COVID-19"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Noise reduction in urban areas",
+          "Noise reduction in urban areas",
+          "Finding hidden signals"
+        ],
+        "content_length": 3084
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hicks SP",
+        "Lecocq T",
+        "the Swiss Seismological Service",
+        "Frédérick Massin",
+        "the Swiss Strong Motion Network",
+        "2020",
+        "ETH Zurich",
+        "Van Noten K",
+        "Thomas Lecocq",
+        "SED",
+        "COVID-19",
+        "Swiss Seismological Service",
+        "Martigny"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "10.1126",
+        "over 300",
+        "what",
+        "how",
+        "hundreds of meters",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Frédérick Massin_has_role_researcher",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

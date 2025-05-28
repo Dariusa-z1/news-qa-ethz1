@@ -1,0 +1,242 @@
+{
+  "filename": "sind-ihre-elektrischen-geraete-sicher.md",
+  "original_filename": "sind-ihre-elektrischen-geraete-sicher.html",
+  "source_path": "de_internal/2023/04/sind-ihre-elektrischen-geraete-sicher.html",
+  "date": "2023-04",
+  "title": "Sind Ihre Elektrischen Geraete Sicher",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Mitarbeit ist gefragt",
+      "text": "Lötkolben, Magnetrührer oder Zentrifugen: Insbesondere in Laboren und Werkstätten stehen viele elektrischen Geräte, darunter manche Eigenbauten von Forschungsgruppen. Hinzu kommen Geräte in den Büros, die am Stromnetz hängen. Auch wenn diese Geräte im Alltag tadellos funktionieren, kann von ihnen eine potenzielle Gefahr ausgehen. Deshalb sind alle Arbeitgeber verpflichtet, die elektrischen Geräte sporadisch zu überprüfen.\n\nAn der ETH unterstützt die Abteilung Sicherheit, Gesundheit und Umwelt (SGU) alle Forschungsgruppen bei der wiederkehrenden Prüfung der Geräte in den Laboren und Werkstätten. «Um den Aufwand für die Gruppen möglichst gering zu halten, kombinieren wir diese Prüfung mit der Kontrolle der Elektroinstallationen der Gebäude», sagt Bruno Meni, Projektleiter bei der Fachstelle Elektro."
+    },
+    {
+      "heading": "Mitarbeit ist gefragt",
+      "text": "Die Fachstelle Elektro beauftragt externe Partner mit der Prüfung. Diese sind auf die Mitarbeitenden der Forschungsgruppen angewiesen. «Wenn alle Geräte ausgeschaltet an einem Ort bereitstehen, geht alles sehr speditiv», sagt Meni. «Oder wenn zumindest jemand da ist, der oder die weiss, wo sich die ausgeschalteten Geräte befinden», ergänzt er. Sonst kann diese Prüfung für beide Seiten zeitaufwendig und aufreibend werden.\n\nDie Prüfenden markieren intakte Geräte mit einem grünen Aufkleber, auf dem ersichtlich ist, wann die Überprüfung stattfand. Kleinere Mängel beheben sie gleich während der Kontrolle. «So etwa, wenn statt eines Fixadapters ein Reiseadapter verwendet wurde», erklärt Meni. Wenn ein Gerät repariert werden muss, wird es mit einem orangen oder roten Aufkleber versehen, je nach Schwere des Mangels. In beiden Fällen dürfen die Geräte nicht mehr benutzt werden, bis sie repariert sind."
+    },
+    {
+      "heading": "Eigene Prüfung der Geräte möglich",
+      "text": "Die Prüfung durch Externe ist nicht nur aufwendig, sondern auch nicht besonders flexibel, was die zeitliche Beanspruchung angeht. Deshalb können Nutzer:innen ihre Geräte auch selbst prüfen. «Gerade bei Geräten, die beispielsweise bei Feldversuchen genutzt oder solchen, die verliehen werden, bietet sich dies an», sagt Meni. Denn diese müssten nach jeder Messkampagne bzw. vor jeder Ausleihe geprüft werden.\n\nUm ETH-Angehörigen das entsprechende Know-how zu vermitteln, plant die ETH entsprechende Kurse und wird zum Thema GeP auch noch weitere Informationen bereitstellen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2023/04",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Lötkolben",
+        "label": "PER",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 433,
+        "end": 436
+      },
+      {
+        "text": "SGU",
+        "label": "ORG",
+        "start": 498,
+        "end": 501
+      },
+      {
+        "text": "Bruno Meni",
+        "label": "PER",
+        "start": 754,
+        "end": 764
+      },
+      {
+        "text": "Meni",
+        "label": "LOC",
+        "start": 226,
+        "end": 230
+      },
+      {
+        "text": "weiss",
+        "label": "MISC",
+        "start": 281,
+        "end": 286
+      },
+      {
+        "text": "Meni",
+        "label": "PER",
+        "start": 689,
+        "end": 693
+      },
+      {
+        "text": "Externe",
+        "label": "MISC",
+        "start": 18,
+        "end": 25
+      },
+      {
+        "text": "Meni",
+        "label": "LOC",
+        "start": 319,
+        "end": 323
+      },
+      {
+        "text": "Messkampagne",
+        "label": "PER",
+        "start": 355,
+        "end": 367
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "MISC",
+        "start": 411,
+        "end": 426
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 479,
+        "end": 482
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bruno Meni",
+        "Lötkolben",
+        "Meni",
+        "Messkampagne"
+      ],
+      "ORG": [
+        "ETH",
+        "SGU"
+      ],
+      "LOCATION": [
+        "De Internal/2023/04",
+        "Meni"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörigen",
+        "Externe",
+        "weiss"
+      ]
+    },
+    "entity_counts": {
+      "Meni": 3,
+      "ETH": 2,
+      "De Internal/2023/04": 1,
+      "Lötkolben": 1,
+      "SGU": 1,
+      "Bruno Meni": 1,
+      "weiss": 1,
+      "Externe": 1,
+      "Messkampagne": 1,
+      "ETH-Angehörigen": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "sind-ihre-elektrischen-geraete-sicher.md",
+      "title": "De Internal/2023/04/sind Ihre Elektrischen Geraete Sicher",
+      "language": "de",
+      "source_path": "de_internal/2023/04/sind-ihre-elektrischen-geraete-sicher.html"
+    },
+    "temporal": {
+      "publication_date": "2023-04",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bruno Meni",
+        "Lötkolben",
+        "Meni",
+        "Messkampagne"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Angehörigen",
+        "Externe",
+        "weiss"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Um ETH",
+        "Ihre Elektrischen",
+        "Fachstelle Elektro",
+        "Abteilung Sicherheit",
+        "Geraete Sicher",
+        "De Internal",
+        "Bruno Meni",
+        "Thema GeP",
+        "Die Fachstelle"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "SGU"
+      ],
+      "locations": [
+        "De Internal/2023/04",
+        "Meni"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "how"
+      ],
+      "key_concepts": [
+        "Meni",
+        "ETH",
+        "De Internal/2023/04",
+        "Lötkolben",
+        "SGU",
+        "Bruno Meni",
+        "weiss",
+        "Externe",
+        "Messkampagne",
+        "ETH-Angehörigen"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Mitarbeit ist gefragt",
+          "Mitarbeit ist gefragt",
+          "Eigene Prüfung der Geräte möglich"
+        ],
+        "content_length": 2346
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Messkampagne",
+        "Lötkolben",
+        "Bruno Meni",
+        "2023",
+        "SGU",
+        "Meni"
+      ],
+      "semantic_concepts": [
+        "ETH-Angehörigen",
+        "how",
+        "Externe",
+        "weiss"
+      ],
+      "graph_relations": []
+    }
+  }
+}

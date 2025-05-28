@@ -1,0 +1,36 @@
+# anspruch-und-wirklichkeit.html
+
+**Source:** en_internal/2021/03/anspruch-und-wirklichkeit.html
+
+## An outlier in the value assessment
+
+Responsibility, openness, diversity, team spirit and excellence: how important do ETH members consider these values from the new ETH Charter? How are they experienced in everyday life? And are there any other values that are important to good and successful collaboration? The issue was addressed by those responsible for rETHink Workstream 6 (cultural development) in an internal news article, with readers asked to take part in a survey. About 300 ETH members responded.
+
+## An outlier in the value assessment
+
+Survey respondents were able to use a slider with a scale of 1-10 to visually represent the importance they attach to the individual values in terms of the future success of ETH. On average, the respondents rated all values at 8 and above, with the exception of excellence, which came in at 7.5. Responsibility, on the other hand, scored 9. The same picture emerged in the standard deviation, with responsibility the lowest and excellence the highest. This issue of excellence appears to be rather controversial among ETH members.
+
+“The survey was not aimed at obtaining a representative picture of the situation at ETH, but to capture personal impressions,” says Gudela Grote, Professor of Work and Organisational Psychology and member of the operational management of Workstream 6. She sees this first major feedback on the values as an introduction to a broad-based culture and values discussion to be launched soon by workstream under the leadership of the ETH President and Rector. The feedback certainly provides plenty of food for thought.
+
+## Disparity between expectation and reality
+
+Unsurprisingly, a comparison between the assessment of the values’ importance and how they are actually put into practice in everyday life reveals a significant difference across the board. It is interesting to note, however, that the difference is smallest in terms of excellence, meaning that the value perceived as the least important is experienced the most. The biggest contrast between expectation and reality is most evident in the “openness” value, with a difference of three points.
+
+## Respect named as a central value
+
+In addition to assessing existing values, respondents were also asked an open question about any other values that may be important to them. For Ulrike Lohmann, President of the Lecturers’ Conference and member of the core team of rETHink Workstream 6, these additional values are significant. “They show me what’s important to people at ETH beyond the five values; for us in the Department of Environmental Systems Science, it’s the value of sustainability, of course,” she says.
+
+The additional value stated most frequently across ETH was respect, followed by trust, sustainability and integrity, all of which were mentioned more than 20 times each. “The mention of respect in particular shows me that either the respect campaign has succeeded in raising awareness, or this value is not yet being put into practice in the way people would like – or both,” comments Lohmann.
+
+## Plenty of food for thought
+
+The responses have been summarised in a report, which will be used as input for the broad-based culture discussion. What lies behind the difference between expectation and reality? How can we close the gap? Which values are actually important to us in the way we work together? And do we all agree on what is important?
+
+On behalf of the workstream, Gudela Grote would like to thank all survey respondents for their valuable contribution to the culture and values discussion. As already announced, ETH President Joël Mesot and Rector Sarah Springman will invite all ETH members to take part in the discussion. “We hope as many people as possible take up this invitation and actively engage others in a discussion of how we want to shape our future together,” says Grote.
+
+## Further information
+
+The five values discussed are taken from the ETH Charter, which forms part of the Strategy and Development Plan 2021-2024 .
+
+## Staffnet
+

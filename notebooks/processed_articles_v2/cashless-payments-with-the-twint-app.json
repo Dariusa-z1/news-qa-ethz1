@@ -1,0 +1,280 @@
+{
+  "filename": "cashless-payments-with-the-twint-app.md",
+  "original_filename": "cashless-payments-with-the-twint-app.html",
+  "source_path": "en_internal/2016/02/cashless-payments-with-the-twint-app.html",
+  "date": "2016-02",
+  "title": "Cashless Payments With The Twint App",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Finally, an end to the long queues at the cash registers at lunchtime is in sight: in future people will be able to make cashless payments in ETH Zurich’s restaurants. With the Postfinance-powered Twint app, all staff and students at ETH Zurich have to do is pull out their smartphones. Thanks to an interface with ETH Zurich’s systems, the caterer’s cash registers can automatically identify whether a customer is a guest, student, or member of staff – and charge them the right price. This speeds up the entire payment process, and separate cash registers for payment via Twint or NFC-enabled credit cards are also planned for the future. Twint can already be used to pay at 8,000 Coop cash registers across Switzerland, including the branch on the Hönggerberg campus.\n\nThe new payment method will be promoted between 22 and 24 February 2016 at various locations across ETH Zurich. Everyone will also receive an initial 10 francs in free credit. Users can then top up their accounts in various ways once the initial credit is used up. For example, at a Postomat, via payment slip, or by purchasing a credit code at the kiosk in the MM building under the Polyterasse or at the bistro on the Hönggerberg campus."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 146,
+        "end": 152
+      },
+      {
+        "text": "Twint",
+        "label": "ORG",
+        "start": 197,
+        "end": 202
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 234,
+        "end": 244
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 315,
+        "end": 327
+      },
+      {
+        "text": "NFC",
+        "label": "ORG",
+        "start": 583,
+        "end": 586
+      },
+      {
+        "text": "8,000",
+        "label": "CARDINAL",
+        "start": 677,
+        "end": 682
+      },
+      {
+        "text": "Coop",
+        "label": "ORG",
+        "start": 683,
+        "end": 687
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 710,
+        "end": 721
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 751,
+        "end": 762
+      },
+      {
+        "text": "between 22 and 24 February 2016",
+        "label": "DATE",
+        "start": 811,
+        "end": 842
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 871,
+        "end": 881
+      },
+      {
+        "text": "an initial 10 francs",
+        "label": "MONEY",
+        "start": 910,
+        "end": 930
+      },
+      {
+        "text": "Postomat",
+        "label": "ORG",
+        "start": 1054,
+        "end": 1062
+      },
+      {
+        "text": "MM",
+        "label": "GPE",
+        "start": 1133,
+        "end": 1135
+      },
+      {
+        "text": "Polyterasse",
+        "label": "NORP",
+        "start": 1155,
+        "end": 1166
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 1191,
+        "end": 1202
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Hönggerberg"
+      ],
+      "ORG": [
+        "Coop",
+        "ETH Zurich",
+        "NFC",
+        "Postomat",
+        "Twint"
+      ],
+      "LOCATION": [
+        "MM",
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "between 22 and 24 February 2016"
+      ],
+      "MISC": [
+        "8,000",
+        "Polyterasse",
+        "an initial 10 francs"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Hönggerberg": 2,
+      "Zurich": 1,
+      "Twint": 1,
+      "ETH Zurich’s": 1,
+      "NFC": 1,
+      "8,000": 1,
+      "Coop": 1,
+      "Switzerland": 1,
+      "between 22 and 24 February 2016": 1,
+      "an initial 10 francs": 1,
+      "Postomat": 1,
+      "MM": 1,
+      "Polyterasse": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "cashless-payments-with-the-twint-app.md",
+      "title": "En Internal/2016/02/cashless Payments With The Twint App",
+      "language": "en",
+      "source_path": "en_internal/2016/02/cashless-payments-with-the-twint-app.html"
+    },
+    "temporal": {
+      "publication_date": "2016-02",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Hönggerberg"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student"
+        ],
+        "ETH Zurich’s": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "8,000",
+        "Polyterasse",
+        "an initial 10 francs"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "The Twint",
+        "Payments With",
+        "En Internal",
+        "App Finally",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Coop",
+        "ETH Zurich",
+        "NFC",
+        "Postomat",
+        "Twint"
+      ],
+      "locations": [
+        "MM",
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Zurich",
+        "Twint",
+        "ETH Zurich’s",
+        "NFC",
+        "8,000",
+        "Coop",
+        "Switzerland",
+        "between 22 and 24 February 2016"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1268
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "Coop",
+        "Twint",
+        "Postomat",
+        "EU",
+        "2016",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "NFC"
+      ],
+      "semantic_concepts": [
+        "8,000",
+        "what",
+        "Polyterasse",
+        "how",
+        "an initial 10 francs",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "ETH Zurich’s_has_role_student"
+      ]
+    }
+  }
+}

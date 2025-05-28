@@ -1,0 +1,203 @@
+{
+  "filename": "de_internal_2020_03_individuelle-beratung-zu-ihren-fragen.md",
+  "original_filename": "de_internal_2020_03_individuelle-beratung-zu-ihren-fragen.html",
+  "source_path": "de_internal/2020/03/individuelle-beratung-zu-ihren-fragen.html",
+  "date": "2020-03",
+  "title": "Individuelle Beratung Zu Ihren Fragen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Ab sofort bieten wir Book a Librarian auch via Skype for Business an. Vereinbaren Sie noch heute einen Termin mit uns, falls Sie Fragen zu einer Datenbank, Rechercheunterstützung oder den Dienstleistungen der ETH-Bibliothek, wie z.B. zum Bildarchiv, dem Open-Access-Publizieren oder dem Forschungsdatenmanagement haben.\n\nWir sind gerne für Sie da!\n\nKontakt: Sie können uns auch über externe Seite WhatsApp und unseren Chat kontaktieren.\n\n#FokusMensch – Lassen Sie sich von Menschen inspirieren und lernen Sie Neues.\n\n#ETHBibliothekDigital – Die ETH-Bibliothek ist nicht nur während der COVID-19-Schutzmassnahmen digital mit verschiedenen Angeboten und Dienstleistungen für Sie da."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/03/individuelle Beratung",
+        "label": "LOC",
+        "start": 0,
+        "end": 41
+      },
+      {
+        "text": "Book a Librarian",
+        "label": "MISC",
+        "start": 21,
+        "end": 37
+      },
+      {
+        "text": "Skype for Business",
+        "label": "ORG",
+        "start": 47,
+        "end": 65
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 209,
+        "end": 223
+      },
+      {
+        "text": "Open-Access-Publizieren",
+        "label": "LOC",
+        "start": 254,
+        "end": 277
+      },
+      {
+        "text": "WhatsApp",
+        "label": "MISC",
+        "start": 395,
+        "end": 403
+      },
+      {
+        "text": "Chat",
+        "label": "PER",
+        "start": 416,
+        "end": 420
+      },
+      {
+        "text": "FokusMensch",
+        "label": "MISC",
+        "start": 435,
+        "end": 446
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 539,
+        "end": 553
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chat"
+      ],
+      "ORG": [
+        "Skype for Business"
+      ],
+      "LOCATION": [
+        "De Internal/2020/03/individuelle Beratung",
+        "Open-Access-Publizieren"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Book a Librarian",
+        "ETH-Bibliothek",
+        "FokusMensch",
+        "WhatsApp"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 2,
+      "De Internal/2020/03/individuelle Beratung": 1,
+      "Book a Librarian": 1,
+      "Skype for Business": 1,
+      "Open-Access-Publizieren": 1,
+      "WhatsApp": 1,
+      "Chat": 1,
+      "FokusMensch": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2020_03_individuelle-beratung-zu-ihren-fragen.md",
+      "title": "De Internal/2020/03/individuelle Beratung zu Ihren Fragen",
+      "language": "de",
+      "source_path": "de_internal/2020/03/individuelle-beratung-zu-ihren-fragen.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Chat"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Book a Librarian",
+        "ETH-Bibliothek",
+        "FokusMensch",
+        "WhatsApp"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Vereinbaren Sie",
+        "ETH-Bibliothek",
+        "Ihren Fragen",
+        "Sie Neues",
+        "De Internal",
+        "Die ETH",
+        "Lassen Sie",
+        "Open-Access",
+        "Sie Fragen",
+        "Seite WhatsApp"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Skype for Business"
+      ],
+      "locations": [
+        "De Internal/2020/03/individuelle Beratung",
+        "Open-Access-Publizieren"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2020/03/individuelle Beratung",
+        "Book a Librarian",
+        "Skype for Business",
+        "Open-Access-Publizieren",
+        "WhatsApp",
+        "Chat",
+        "FokusMensch"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 738
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Chat",
+        "EU",
+        "2020",
+        "Skype for Business",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "WhatsApp",
+        "ETH-Bibliothek",
+        "FokusMensch",
+        "what",
+        "Book a Librarian",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

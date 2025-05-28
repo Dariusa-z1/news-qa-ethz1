@@ -1,0 +1,517 @@
+{
+  "filename": "the-eyes-have-it.md",
+  "original_filename": "the-eyes-have-it.html",
+  "source_path": "en_news_events/2017/06/the-eyes-have-it.html",
+  "date": "2017-06",
+  "title": "The Eyes Have It",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Injections at the touch of a button",
+      "text": "In Switzerland, the most frequent cause of serious visual impairment among older people is macular degeneration, affecting one fifth of those over 80. The condition rarely leads to complete blindness, but it severely worsens a person’s vision. Those who suffer from it are often left with blurred vision and can no longer read or drive. In serious cases, they can only distinguish between light and dark.\n\nMacular degeneration is incurable, but its advanced stages are manageable with medication. This slows the progress of the disease and in some cases even helps the patient regain some visual acuity. The treatment calls for injections every four to six weeks – directly into the eye. “The procedure is unpleasant, but not painful for most people,” says Professor Stephan Michels, Deputy Chief Physician of the eye clinic at Triemli Hospital in Zurich. Triemli alone carries out 7,500 eye injections every year, and when looking at Switzerland as a whole, that figure climbs to some 100,000. “Sometimes I treat up to 60 patients in one day,” Michels says."
+    },
+    {
+      "heading": "Better use of doctors’ time",
+      "text": "If a patient is about to move their eye, sensors help the robot to react more quickly than a doctor ever could. (Image: Ophthorobotics)\n\nIn future, he and his colleagues may get support from a robot currently in development at ETH start-up Ophthorobotics. The company was founded by researchers from ETH’s Multi-Scale Robotics Lab together with retinal specialists from Triemli Hospital. “Our robot will be the first to help in administering eye injections,” says Franziska Ullrich, a mechanical engineer at ETH and the CEO of Ophthorobotics.\n\nThanks to the robot, doctors no longer need to give the injections themselves. Instead, the robot – a mobile device – is positioned above the head of the patient, who is lying down. Using two cameras, the robot produces a 3D image of the eye to be injected. It then calculates where the injection site should be and independently positions the needle. The ophthalmologist initiates and monitors everything on a screen in real time; they must only briefly check the settings and then press a button to start the injection. “The robot makes the injection more precise and thus safer,” says Ullrich. She is working on refining the device, which currently exists only as a prototype in the lab.\n\nAt present, doctors give the eye injections by hand in an operating room. There, the nursing staff first prep the patient by numbing the eye with a local anaesthetic and disinfecting it. The eyelid is carefully held open with a lid speculum. Then, the doctor fits the syringe with a very fine needle. The injection site is comprised of a very narrow band between the iris and the outermost corner of the eye. During the actual injection, the patient must hold their eye still in order to avoid the risk of injuring it, although “that happens extremely rarely,” says Michels.\n\nThe robot will nevertheless offer an even greater degree of safety. That’s because it uses sensors to detect whether the patient is about to move their eye just before the injection begins. If that happens, the device immediately halts the procedure. “It can react faster than we can as doctors,” Michels says.\n\nA further advantage is that the robot can identify every patient with certainty by means of an iris scan, which in turn should prevent injections being given to the wrong patient or in the wrong eye. The system is also designed to be able to automatically retrieve the patient’s file, which contains a record of all previous treatments – as well as information on which of the two eyes is to receive the injection and with what dosage of medication, for example. It even records the exact injection site of every treatment and then calculates a slightly different position for the next time. This is important, as too many injections on the same site could lead to thinning of the sclera."
+    },
+    {
+      "heading": "Better use of doctors’ time",
+      "text": "However, Michels believes the robot’s greatest advantage will be in that it saves doctors time and grants them more flexibility. The current procedure requires them to wait around in the operating room until the next patient has been prepped and they can set up the injection: unused time that quickly adds up to several hours a day. Yet the injection itself lasts just 30 seconds. “With the robot, doctors will no longer have to be physically present in the operating room,” Ullrich says. Instead, they can control the device from another location, such as their consultation room. Thus, as Ullrich points out, they can use the time between injections for other tasks.\n\nTo ensure that doctors can still communicate with their patients, Ophthorobotics is integrating a screen, microphone and loudspeaker into the device. As a result, doctor and patient can see and speak to each other during the procedure, similar to a Skype conversation. The screen also serves as a point for the patient to focus their gaze on during the injection, so the eye is less likely to move. Exactly which images should be displayed on the screen to achieve this is currently being tested in collaboration with the University of Applied Sciences HTW Chur.\n\nOphthorobotics has already conducted an initial survey of 15 people with macular degeneration. Non-representative results from this survey indicate that patients will genuinely trust the robot. “We were surprised at how positive the response was,” says Ullrich. Most patients reported that they would let the robot treat them, even if the doctor is out of the room – provided they could still communicate.\n\nEye specialists were equally positive in their response: five eye clinics have already expressed interest in purchasing the injection robot. First, however, the researchers have to develop their existing prototype into a device suitable for clinical use, then test it and have it certified. To achieve this, they are currently seeking the necessary funding. They have had one success in this respect already: the start-up is receiving a sponsorship award from the Swiss National Science Foundation and the Commission for Technology and Innovation. Endowed with 130,000 Swiss francs, the award is intended to accelerate the transfer of research findings into industry."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 3,
+        "end": 14
+      },
+      {
+        "text": "one fifth",
+        "label": "CARDINAL",
+        "start": 123,
+        "end": 132
+      },
+      {
+        "text": "every four to six weeks",
+        "label": "DATE",
+        "start": 638,
+        "end": 661
+      },
+      {
+        "text": "Stephan Michels",
+        "label": "PERSON",
+        "start": 766,
+        "end": 781
+      },
+      {
+        "text": "Triemli Hospital",
+        "label": "ORG",
+        "start": 827,
+        "end": 843
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 847,
+        "end": 853
+      },
+      {
+        "text": "7,500",
+        "label": "CARDINAL",
+        "start": 881,
+        "end": 886
+      },
+      {
+        "text": "every year",
+        "label": "DATE",
+        "start": 902,
+        "end": 912
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 934,
+        "end": 945
+      },
+      {
+        "text": "some 100,000",
+        "label": "CARDINAL",
+        "start": 980,
+        "end": 992
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 1034,
+        "end": 1041
+      },
+      {
+        "text": "Michels",
+        "label": "ORG",
+        "start": 1044,
+        "end": 1051
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 226,
+        "end": 229
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 299,
+        "end": 302
+      },
+      {
+        "text": "Multi-Scale Robotics Lab",
+        "label": "ORG",
+        "start": 305,
+        "end": 329
+      },
+      {
+        "text": "Triemli Hospital",
+        "label": "ORG",
+        "start": 369,
+        "end": 385
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 410,
+        "end": 415
+      },
+      {
+        "text": "Franziska Ullrich",
+        "label": "PERSON",
+        "start": 463,
+        "end": 480
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 507,
+        "end": 510
+      },
+      {
+        "text": "Ophthorobotics",
+        "label": "ORG",
+        "start": 526,
+        "end": 540
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 730,
+        "end": 733
+      },
+      {
+        "text": "3D",
+        "label": "CARDINAL",
+        "start": 764,
+        "end": 766
+      },
+      {
+        "text": "Ullrich",
+        "label": "PERSON",
+        "start": 1130,
+        "end": 1137
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1332,
+        "end": 1337
+      },
+      {
+        "text": "iris",
+        "label": "PERSON",
+        "start": 1600,
+        "end": 1604
+      },
+      {
+        "text": "Michels",
+        "label": "ORG",
+        "start": 1799,
+        "end": 1806
+      },
+      {
+        "text": "Michels",
+        "label": "ORG",
+        "start": 2105,
+        "end": 2112
+      },
+      {
+        "text": "iris scan",
+        "label": "PERSON",
+        "start": 2214,
+        "end": 2223
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2496,
+        "end": 2499
+      },
+      {
+        "text": "Michels",
+        "label": "ORG",
+        "start": 9,
+        "end": 16
+      },
+      {
+        "text": "several hours",
+        "label": "TIME",
+        "start": 313,
+        "end": 326
+      },
+      {
+        "text": "just 30 seconds",
+        "label": "TIME",
+        "start": 365,
+        "end": 380
+      },
+      {
+        "text": "Ullrich",
+        "label": "PERSON",
+        "start": 476,
+        "end": 483
+      },
+      {
+        "text": "Ophthorobotics",
+        "label": "ORG",
+        "start": 736,
+        "end": 750
+      },
+      {
+        "text": "Skype",
+        "label": "ORG",
+        "start": 919,
+        "end": 924
+      },
+      {
+        "text": "the University of Applied Sciences HTW Chur. Ophthorobotics",
+        "label": "ORG",
+        "start": 1188,
+        "end": 1247
+      },
+      {
+        "text": "Ullrich",
+        "label": "PERSON",
+        "start": 1486,
+        "end": 1493
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 1696,
+        "end": 1700
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 1780,
+        "end": 1785
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 2011,
+        "end": 2014
+      },
+      {
+        "text": "the Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 2099,
+        "end": 2136
+      },
+      {
+        "text": "the Commission for Technology and Innovation",
+        "label": "ORG",
+        "start": 2141,
+        "end": 2185
+      },
+      {
+        "text": "130,000 Swiss francs",
+        "label": "MONEY",
+        "start": 2200,
+        "end": 2220
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Franziska Ullrich",
+        "Stephan Michels",
+        "Ullrich",
+        "iris",
+        "iris scan"
+      ],
+      "ORG": [
+        "ETH",
+        "Michels",
+        "Multi-Scale Robotics Lab",
+        "Ophthorobotics",
+        "Skype",
+        "Triemli Hospital",
+        "the Commission for Technology and Innovation",
+        "the Swiss National Science Foundation",
+        "the University of Applied Sciences HTW Chur. Ophthorobotics"
+      ],
+      "LOCATION": [
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "every four to six weeks",
+        "every year",
+        "just 30 seconds",
+        "one day",
+        "several hours"
+      ],
+      "MISC": [
+        "130,000 Swiss francs",
+        "3D",
+        "7,500",
+        "First",
+        "first",
+        "five",
+        "one",
+        "one fifth",
+        "some 100,000",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Michels": 4,
+      "ETH": 3,
+      "Ullrich": 3,
+      "Switzerland": 2,
+      "Triemli Hospital": 2,
+      "first": 2,
+      "Ophthorobotics": 2,
+      "two": 2,
+      "one fifth": 1,
+      "every four to six weeks": 1,
+      "Stephan Michels": 1,
+      "Zurich": 1,
+      "7,500": 1,
+      "every year": 1,
+      "some 100,000": 1,
+      "one day": 1,
+      "Multi-Scale Robotics Lab": 1,
+      "Franziska Ullrich": 1,
+      "3D": 1,
+      "iris": 1
+    },
+    "total_entities": 43,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-eyes-have-it.md",
+      "title": "En News Events/2017/06/the Eyes Have It",
+      "language": "en",
+      "source_path": "en_news_events/2017/06/the-eyes-have-it.html"
+    },
+    "temporal": {
+      "publication_date": "2017-06",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Franziska Ullrich",
+        "Stephan Michels",
+        "Ullrich",
+        "iris",
+        "iris scan"
+      ],
+      "people_with_roles": {
+        "Stephan Michels": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "130,000 Swiss francs",
+        "7,500",
+        "First",
+        "first",
+        "five",
+        "one fifth",
+        "some 100,000"
+      ],
+      "grants_funding": [
+        "grant",
+        "funding"
+      ],
+      "projects": [
+        "Sometimes I",
+        "Triemli Hospital",
+        "Franziska Ullrich",
+        "Applied Sciences",
+        "It In",
+        "En News",
+        "Deputy Chief",
+        "Multi-Scale",
+        "Robotics Lab",
+        "Swiss National",
+        "Professor Stephan",
+        "Science Foundation",
+        "Eyes Have",
+        "HTW Chur"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Michels",
+        "Multi-Scale Robotics Lab",
+        "Ophthorobotics",
+        "Skype",
+        "Triemli Hospital",
+        "the Commission for Technology and Innovation",
+        "the Swiss National Science Foundation",
+        "the University of Applied Sciences HTW Chur. Ophthorobotics"
+      ],
+      "locations": [
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Michels",
+        "ETH",
+        "Ullrich",
+        "Switzerland",
+        "Triemli Hospital",
+        "first",
+        "Ophthorobotics",
+        "two",
+        "one fifth",
+        "every four to six weeks"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Injections at the touch of a button",
+          "Better use of doctors’ time",
+          "Better use of doctors’ time"
+        ],
+        "content_length": 6221
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Triemli Hospital",
+        "Franziska Ullrich",
+        "iris scan",
+        "grant",
+        "Michels",
+        "Ullrich",
+        "the Swiss National Science Foundation",
+        "2017",
+        "Stephan Michels",
+        "Multi-Scale Robotics Lab",
+        "the University of Applied Sciences HTW Chur. Ophthorobotics",
+        "Ophthorobotics",
+        "funding",
+        "the Commission for Technology and Innovation",
+        "Skype",
+        "iris"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "7,500",
+        "130,000 Swiss francs",
+        "first",
+        "one fifth",
+        "some 100,000",
+        "who",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "five",
+        "First",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Stephan Michels_has_role_Professor",
+        "Stephan Michels_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

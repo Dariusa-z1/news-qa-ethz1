@@ -1,0 +1,506 @@
+{
+  "filename": "high-speed-motor-for-satellites.md",
+  "original_filename": "high-speed-motor-for-satellites.html",
+  "source_path": "en_news_events/2016/07/high-speed-motor-for-satellites.html",
+  "date": "2016-07",
+  "title": "High Speed Motor For Satellites",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Existing systems have numerous disadvantages",
+      "text": "“Actually, there is nothing particularly new about it,” is the modest line taken by Arda Tüysüz, a postdoc at ETH Zurich’s Power Electronic Systems Laboratory (PES). “The electronics, the magnetic bearings, understanding of the basic physical principle – it was all there already.” However, the engineering skill of the PES researchers is evident in their ability to combine these fundamentals into high-speed motor, which can run 20 times faster than the state of the art, and which is vastly smaller and more energy-efficient. In collaboration with the ETH spin-off Celeroton, Tüysüz and colleagues have developed a new kind of magnetically levitated reaction wheel motor that reaches speeds of more than 150,000 revolutions per minute.\n\nElectrically driven reaction wheels of this kind are used within satellites to change the satellite’s attitude. Here, the reaction wheel is connected to an electric motor via a shaft (rotor). As soon as the flywheel driven by this motor rotates in one direction about its own axis, a torque is transmitted to the satellite, which then rotates in the opposite direction and thus a new orientation."
+    },
+    {
+      "heading": "Existing systems have numerous disadvantages",
+      "text": "In existing systems, the rotors and reaction wheels are typically mounted on ball bearings that wear down relatively quickly. In order to minimise mechanical wear, motors of this kind are usually operated slower than 6,000 revolutions per minute. They also have to be stored in a hermetically sealed housing in a low-pressure nitrogen atmosphere, in order to avoid oxidisation of the materials and evaporation of the lubricant.\n\nFurthermore, the balls in a ball bearing are not exactly identical, giving rise to forces that together with the imbalance of the rotor transfer microvibrations to the satellite’s housing. This reduces the positioning accuracy, which satellites must exhibit in order to allow, for example, laser measurement or inter-satellite communication. In other words, enough reasons for ETH Zurich and Celeroton to design a new, magnetically levitated electric drive system."
+    },
+    {
+      "heading": "References",
+      "text": "Components of the reaction wheel motor and their assemblage. (Photo: from Zwyssig et al., 2014)\n\nThe development work began a few years ago with a doctoral thesis at PES. An initial demonstration unit was presented by the researchers two years ago at a specialist conference in Japan. More recently, at an international symposium in June this year, they presented an initial prototype of a new kind of motor for small satellites.\n\nThis prototype can be operated at up to 150,000 rpm – faster than comparable models in the past, as the rotor floats in a magnetic field. The high rotational speed has allowed the researchers to achieve a marked reduction in the size of the drive system, since it delivers the same angular momentum as a large motor despite its smaller dimensions. This makes it attractive for use in small satellites with sizes on the scale of a shoebox.\n\n“Magnetic support also allows us to avoid the vibrations,” says Tüysüz. As the system does not require lubrication, it can be operated in a vacuum, which makes it perfect for use in space. In addition, magnetic support also enables the reaction wheel to rotate softly and smoothly, as there is no frictional resistance when the system starts to move.\n\n“Viewed as a whole, the new system we have developed is complex,” says Tüysüz. Sophisticated power electronics are needed to steer and control it. “This ties in perfectly with another core area of the Power Electronic Systems Laboratory’s expertise,” says the electrical engineer. Tüysüz is currently working on how to further develop and improve the system’s control electronics.\n\nThe system developed by the ETH researchers and their colleagues at Celerotron is only a prototype that was used to demonstrate the operating principle. The results have been presented on conferences, but the system is not yet commercially available. Nevertheless, initial interest has already been expressed by various parties, chiefly the European Space Agency (ESA).\n\nThis project was supported financially by the State Secretariat for Education, Research and Innovation (SERI).\n\nKaufmann M, Tüysüz A, Kolar JW, Zwyssig C: High-Speed Magnetically Levitated Reaction Wheels for Small Satellites , Proceedings of the 23rd International Symposium on Power Electronics, Electrical Drives, Automation and Motion (SPEEDAM 2016), Anacapri, Capri, Italy, June 22-24, 2016.\n\nZwyssig C, Baumgartner T, Kolar JW: High-Speed Magnetically Levitated Reaction Wheel Demonstrator . Proceedings of the International Power Electronics Conference - ECCE Asia (IPEC 2014), Hiroshima, Japan, May 18-21, 2014."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Arda Tüysüz",
+        "label": "PERSON",
+        "start": 84,
+        "end": 95
+      },
+      {
+        "text": "ETH Zurich’s Power Electronic Systems Laboratory",
+        "label": "ORG",
+        "start": 110,
+        "end": 158
+      },
+      {
+        "text": "PES",
+        "label": "ORG",
+        "start": 160,
+        "end": 163
+      },
+      {
+        "text": "PES",
+        "label": "ORG",
+        "start": 320,
+        "end": 323
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 555,
+        "end": 558
+      },
+      {
+        "text": "Celeroton",
+        "label": "GPE",
+        "start": 568,
+        "end": 577
+      },
+      {
+        "text": "Tüysüz",
+        "label": "ORG",
+        "start": 579,
+        "end": 585
+      },
+      {
+        "text": "more than 150,000",
+        "label": "CARDINAL",
+        "start": 697,
+        "end": 714
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 987,
+        "end": 990
+      },
+      {
+        "text": "6,000",
+        "label": "CARDINAL",
+        "start": 217,
+        "end": 222
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 805,
+        "end": 815
+      },
+      {
+        "text": "Celeroton",
+        "label": "GPE",
+        "start": 820,
+        "end": 829
+      },
+      {
+        "text": "Zwyssig",
+        "label": "GPE",
+        "start": 74,
+        "end": 81
+      },
+      {
+        "text": "a few years ago",
+        "label": "DATE",
+        "start": 123,
+        "end": 138
+      },
+      {
+        "text": "PES",
+        "label": "ORG",
+        "start": 165,
+        "end": 168
+      },
+      {
+        "text": "two years ago",
+        "label": "DATE",
+        "start": 233,
+        "end": 246
+      },
+      {
+        "text": "Japan",
+        "label": "GPE",
+        "start": 277,
+        "end": 282
+      },
+      {
+        "text": "June this year",
+        "label": "DATE",
+        "start": 332,
+        "end": 346
+      },
+      {
+        "text": "up to 150,000",
+        "label": "CARDINAL",
+        "start": 463,
+        "end": 476
+      },
+      {
+        "text": "Tüysüz",
+        "label": "PERSON",
+        "start": 932,
+        "end": 938
+      },
+      {
+        "text": "Tüysüz",
+        "label": "PERSON",
+        "start": 1290,
+        "end": 1296
+      },
+      {
+        "text": "the Power Electronic Systems Laboratory’s",
+        "label": "ORG",
+        "start": 1416,
+        "end": 1457
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1628,
+        "end": 1631
+      },
+      {
+        "text": "Celerotron",
+        "label": "ORG",
+        "start": 1668,
+        "end": 1678
+      },
+      {
+        "text": "the European Space Agency",
+        "label": "ORG",
+        "start": 1937,
+        "end": 1962
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 1964,
+        "end": 1967
+      },
+      {
+        "text": "the State Secretariat for Education",
+        "label": "ORG",
+        "start": 2012,
+        "end": 2047
+      },
+      {
+        "text": "Research and Innovation",
+        "label": "ORG",
+        "start": 2049,
+        "end": 2072
+      },
+      {
+        "text": "Kaufmann M",
+        "label": "PERSON",
+        "start": 2081,
+        "end": 2091
+      },
+      {
+        "text": "Kolar JW",
+        "label": "ORG",
+        "start": 2103,
+        "end": 2111
+      },
+      {
+        "text": "International Symposium on Power Electronics",
+        "label": "ORG",
+        "start": 2221,
+        "end": 2265
+      },
+      {
+        "text": "Automation and Motion",
+        "label": "ORG",
+        "start": 2286,
+        "end": 2307
+      },
+      {
+        "text": "Anacapri",
+        "label": "NORP",
+        "start": 2324,
+        "end": 2332
+      },
+      {
+        "text": "Capri",
+        "label": "GPE",
+        "start": 2334,
+        "end": 2339
+      },
+      {
+        "text": "Italy",
+        "label": "GPE",
+        "start": 2341,
+        "end": 2346
+      },
+      {
+        "text": "June 22-24, 2016",
+        "label": "DATE",
+        "start": 2348,
+        "end": 2364
+      },
+      {
+        "text": "the International Power Electronics Conference - ECCE Asia",
+        "label": "ORG",
+        "start": 2481,
+        "end": 2539
+      },
+      {
+        "text": "Hiroshima",
+        "label": "GPE",
+        "start": 2553,
+        "end": 2562
+      },
+      {
+        "text": "Japan",
+        "label": "GPE",
+        "start": 2564,
+        "end": 2569
+      },
+      {
+        "text": "May 18-21, 2014",
+        "label": "DATE",
+        "start": 2571,
+        "end": 2586
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Arda Tüysüz",
+        "Kaufmann M",
+        "Tüysüz"
+      ],
+      "ORG": [
+        "Automation and Motion",
+        "Celerotron",
+        "ESA",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s Power Electronic Systems Laboratory",
+        "International Symposium on Power Electronics",
+        "Kolar JW",
+        "PES",
+        "Research and Innovation",
+        "Tüysüz",
+        "the European Space Agency",
+        "the International Power Electronics Conference - ECCE Asia",
+        "the Power Electronic Systems Laboratory’s",
+        "the State Secretariat for Education"
+      ],
+      "LOCATION": [
+        "Capri",
+        "Celeroton",
+        "Hiroshima",
+        "Italy",
+        "Japan",
+        "Zwyssig"
+      ],
+      "DATE": [
+        "June 22-24, 2016",
+        "June this year",
+        "May 18-21, 2014",
+        "a few years ago",
+        "two years ago"
+      ],
+      "MISC": [
+        "6,000",
+        "Anacapri",
+        "more than 150,000",
+        "one",
+        "up to 150,000"
+      ]
+    },
+    "entity_counts": {
+      "PES": 3,
+      "Tüysüz": 3,
+      "ETH": 2,
+      "Celeroton": 2,
+      "Japan": 2,
+      "Arda Tüysüz": 1,
+      "ETH Zurich’s Power Electronic Systems Laboratory": 1,
+      "more than 150,000": 1,
+      "one": 1,
+      "6,000": 1,
+      "ETH Zurich": 1,
+      "Zwyssig": 1,
+      "a few years ago": 1,
+      "two years ago": 1,
+      "June this year": 1,
+      "up to 150,000": 1,
+      "the Power Electronic Systems Laboratory’s": 1,
+      "Celerotron": 1,
+      "the European Space Agency": 1,
+      "ESA": 1
+    },
+    "total_entities": 40,
+    "unique_entities": 33
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "high-speed-motor-for-satellites.md",
+      "title": "En News Events/2016/07/high Speed Motor For Satellites",
+      "language": "en",
+      "source_path": "en_news_events/2016/07/high-speed-motor-for-satellites.html"
+    },
+    "temporal": {
+      "publication_date": "2016-07",
+      "mentioned_years": [
+        "2014",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Arda Tüysüz",
+        "Kaufmann M",
+        "Tüysüz"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "6,000",
+        "Anacapri",
+        "more than 150,000",
+        "up to 150,000"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Speed Motor",
+        "Zwyssig C",
+        "State Secretariat",
+        "Small Satellites",
+        "Electronics Conference",
+        "Baumgartner T",
+        "High-Speed",
+        "For Satellites",
+        "Systems Laboratory",
+        "Electrical Drives",
+        "Power Electronics",
+        "International Power",
+        "Magnetically Levitated",
+        "Power Electronic",
+        "Kolar JW",
+        "European Space",
+        "International Symposium",
+        "En News",
+        "ECCE Asia",
+        "Kaufmann M",
+        "Reaction Wheels",
+        "ETH Zurich",
+        "Reaction Wheel"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Automation and Motion",
+        "Celerotron",
+        "ESA",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s Power Electronic Systems Laboratory",
+        "International Symposium on Power Electronics",
+        "Kolar JW",
+        "PES",
+        "Research and Innovation",
+        "Tüysüz",
+        "the European Space Agency",
+        "the International Power Electronics Conference - ECCE Asia",
+        "the Power Electronic Systems Laboratory’s",
+        "the State Secretariat for Education"
+      ],
+      "locations": [
+        "Capri",
+        "Celeroton",
+        "Hiroshima",
+        "Italy",
+        "Japan",
+        "Zwyssig"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "PES",
+        "Tüysüz",
+        "ETH",
+        "Celeroton",
+        "Japan",
+        "Arda Tüysüz",
+        "ETH Zurich’s Power Electronic Systems Laboratory",
+        "more than 150,000",
+        "one",
+        "6,000"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Existing systems have numerous disadvantages",
+          "Existing systems have numerous disadvantages",
+          "References"
+        ],
+        "content_length": 4681
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "PES",
+        "Arda Tüysüz",
+        "Tüysüz",
+        "2016",
+        "Celerotron",
+        "the Power Electronic Systems Laboratory’s",
+        "ERC",
+        "ESA",
+        "ETH Zurich’s Power Electronic Systems Laboratory",
+        "Automation and Motion",
+        "Research and Innovation",
+        "2014",
+        "EU",
+        "the State Secretariat for Education",
+        "the European Space Agency",
+        "Kolar JW",
+        "the International Power Electronics Conference - ECCE Asia",
+        "Kaufmann M",
+        "ETH Zurich",
+        "International Symposium on Power Electronics"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Anacapri",
+        "who",
+        "more than 150,000",
+        "6,000",
+        "what",
+        "how",
+        "up to 150,000",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

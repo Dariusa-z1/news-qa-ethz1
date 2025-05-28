@@ -1,0 +1,223 @@
+{
+  "filename": "erster-lunch-market-auf-der-polyterrasse.md",
+  "original_filename": "erster-lunch-market-auf-der-polyterrasse.html",
+  "source_path": "de_internal/2015/09/erster-lunch-market-auf-der-polyterrasse.html",
+  "date": "2015-09",
+  "title": "Erster Lunch Market Auf Der Polyterrasse",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Von salzig bis süss: Am Mittwoch, 23. September 2015 kann man sich von 11 bis 15 Uhr an diversen mobilen Verpflegungsständen auf der Polyterrasse verköstigen. Nebst den ETH-Angehörigen sind externe Gäste gerne willkommen.\n\nVom smoked Burger über asiatische Gerichte bis zu süssen Köstlichkeiten wie Crêpes oder Frozen Yogurt: das Angebot auf der Polyterrasse ist breit und lädt zum Mitnehmen oder kurzen Verweilen.\n\nBereits ab dem 17. September findet der Lunch Market auch an seinem gewohnten Platz auf dem Campus Hönggerberg statt. «Unser Ziel war es, ein trendiges wie auch gesundes Angebot zusammenzustellen», sagt Projektleiterin Karin Emmenegger. «Essen, dass die Sinne anspricht und Leute – im Freien – zusammenbringt.» Weitere Daten für den Markt auf dem Hönggerberg sind der 24. September sowie der 1., 8., 15. und 22. Oktober."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/09/erster",
+        "label": "LOC",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "Lunch Market",
+        "label": "LOC",
+        "start": 27,
+        "end": 39
+      },
+      {
+        "text": "Polyterrasse",
+        "label": "LOC",
+        "start": 48,
+        "end": 60
+      },
+      {
+        "text": "salzig",
+        "label": "LOC",
+        "start": 4,
+        "end": 10
+      },
+      {
+        "text": "Polyterrasse",
+        "label": "LOC",
+        "start": 133,
+        "end": 145
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "MISC",
+        "start": 169,
+        "end": 184
+      },
+      {
+        "text": "Crêpes",
+        "label": "ORG",
+        "start": 298,
+        "end": 304
+      },
+      {
+        "text": "Frozen Yogurt",
+        "label": "MISC",
+        "start": 310,
+        "end": 323
+      },
+      {
+        "text": "Polyterrasse",
+        "label": "LOC",
+        "start": 345,
+        "end": 357
+      },
+      {
+        "text": "Lunch Market",
+        "label": "LOC",
+        "start": 454,
+        "end": 466
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 513,
+        "end": 524
+      },
+      {
+        "text": "Karin Emmenegger",
+        "label": "PER",
+        "start": 633,
+        "end": 649
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 761,
+        "end": 772
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Karin Emmenegger"
+      ],
+      "ORG": [
+        "Crêpes"
+      ],
+      "LOCATION": [
+        "De Internal/2015/09/erster",
+        "Hönggerberg",
+        "Lunch Market",
+        "Polyterrasse",
+        "salzig"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörigen",
+        "Frozen Yogurt"
+      ]
+    },
+    "entity_counts": {
+      "Polyterrasse": 3,
+      "Lunch Market": 2,
+      "Hönggerberg": 2,
+      "De Internal/2015/09/erster": 1,
+      "salzig": 1,
+      "ETH-Angehörigen": 1,
+      "Crêpes": 1,
+      "Frozen Yogurt": 1,
+      "Karin Emmenegger": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "erster-lunch-market-auf-der-polyterrasse.md",
+      "title": "De Internal/2015/09/erster Lunch Market auf der Polyterrasse",
+      "language": "de",
+      "source_path": "de_internal/2015/09/erster-lunch-market-auf-der-polyterrasse.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Karin Emmenegger"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Angehörigen",
+        "Frozen Yogurt"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Weitere Daten",
+        "Unser Ziel",
+        "De Internal",
+        "Frozen Yogurt",
+        "Projektleiterin Karin",
+        "Polyterrasse Von",
+        "Lunch Market",
+        "Am Mittwoch"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Crêpes"
+      ],
+      "locations": [
+        "De Internal/2015/09/erster",
+        "Hönggerberg",
+        "Lunch Market",
+        "Polyterrasse",
+        "salzig"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Polyterrasse",
+        "Lunch Market",
+        "Hönggerberg",
+        "De Internal/2015/09/erster",
+        "salzig",
+        "ETH-Angehörigen",
+        "Crêpes",
+        "Frozen Yogurt",
+        "Karin Emmenegger"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 897
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Crêpes",
+        "EU",
+        "2015",
+        "Karin Emmenegger"
+      ],
+      "semantic_concepts": [
+        "Frozen Yogurt",
+        "ETH-Angehörigen",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

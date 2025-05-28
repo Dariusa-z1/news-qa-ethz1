@@ -1,0 +1,242 @@
+{
+  "filename": "de_internal_2022_04_elektronische-karten-inklusive-geodaten-in-der-vorschau-und-zum-download.md",
+  "original_filename": "de_internal_2022_04_elektronische-karten-inklusive-geodaten-in-der-vorschau-und-zum-download.html",
+  "source_path": "de_internal/2022/04/elektronische-karten-inklusive-geodaten-in-der-vorschau-und-zum-download.html",
+  "date": "2022-04",
+  "title": "Elektronische Karten Inklusive Geodaten In Der Vorschau Und Zum Download",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Nutzen Sie moderne und historische Karten",
+      "text": "Suchen Sie Karten für Ihre Forschung, die Lehre oder die private Urlaubsreise? Benötigen Sie hochaufgelöste und georeferenzierte Daten, möglichst als Open Data zur Weiterverwendung in einer GIS-Software? Dann recherchieren Sie im neuen Angebot elektronischer Karten . Zum wachsenden Angebot digitaler Karten rund um die Themen Gewässer, Küsten und mehr gehören beispielsweise die externe Seite Geologische Küstenkarte von Niedersachsen: Relief der Holozänbasis (2006) und die externe Seite Häfen des Schwarzen Meeres an der asiatischen Küste (nach 1855) .\n\nDas neue und laufend erweiterte Angebot umfasst sowohl Schweizer als auch internationale Neuerwerbungen elektronischer Karten. Daneben finden Sie Hunderte von digitalisierten Karten aus dem historischen Bestand der ETH-Bibliothek, die dank Georeferenzierung eine vielfältige, einfache Verwendung gestatten."
+    },
+    {
+      "heading": "Schnell finden – einfach herunterladen",
+      "text": "Alle elektronischen Karten sind über eine Recherche in gerne zur Verfügung. Karten – Bestand und Service: Die aktuell rund 400 000 Karten der ETH-Bibliothek bieten ein umfassendes Angebot an historischen sowie modernen wissenschaftlich-thematischen Karten und Geodaten inklusive der dazugehörigen Infrastruktur und Beratungskompetenz.\n\nMehr als nur Daten – Vom Know-how profitieren\n\n#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/04/elektronische Karten",
+        "label": "LOC",
+        "start": 0,
+        "end": 40
+      },
+      {
+        "text": "Vorschau",
+        "label": "LOC",
+        "start": 67,
+        "end": 75
+      },
+      {
+        "text": "GIS-Software",
+        "label": "ORG",
+        "start": 190,
+        "end": 202
+      },
+      {
+        "text": "Geologische",
+        "label": "PER",
+        "start": 394,
+        "end": 405
+      },
+      {
+        "text": "Niedersachsen",
+        "label": "LOC",
+        "start": 422,
+        "end": 435
+      },
+      {
+        "text": "Schwarzen Meeres",
+        "label": "LOC",
+        "start": 500,
+        "end": 516
+      },
+      {
+        "text": "asiatischen Küste",
+        "label": "LOC",
+        "start": 524,
+        "end": 541
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 611,
+        "end": 620
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 771,
+        "end": 785
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 142,
+        "end": 156
+      },
+      {
+        "text": "MehrWissen",
+        "label": "MISC",
+        "start": 381,
+        "end": 391
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 424,
+        "end": 438
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Geologische"
+      ],
+      "ORG": [
+        "GIS-Software"
+      ],
+      "LOCATION": [
+        "De Internal/2022/04/elektronische Karten",
+        "Niedersachsen",
+        "Schwarzen Meeres",
+        "Vorschau",
+        "asiatischen Küste"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "MehrWissen",
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 3,
+      "De Internal/2022/04/elektronische Karten": 1,
+      "Vorschau": 1,
+      "GIS-Software": 1,
+      "Geologische": 1,
+      "Niedersachsen": 1,
+      "Schwarzen Meeres": 1,
+      "asiatischen Küste": 1,
+      "Schweizer": 1,
+      "MehrWissen": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2022_04_elektronische-karten-inklusive-geodaten-in-der-vorschau-und-zum-download.md",
+      "title": "De Internal/2022/04/elektronische Karten Inklusive Geodaten in der Vorschau und Zum Download",
+      "language": "de",
+      "source_path": "de_internal/2022/04/elektronische-karten-inklusive-geodaten-in-der-vorschau-und-zum-download.html"
+    },
+    "temporal": {
+      "publication_date": "2022-04",
+      "mentioned_years": [
+        "2006",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Geologische"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "MehrWissen",
+        "Schweizer"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Karten Inklusive",
+        "ETH-Bibliothek",
+        "Ihre Forschung",
+        "De Internal",
+        "Suchen Sie",
+        "Open Data",
+        "Vom Know",
+        "Schwarzen Meeres",
+        "Zum Download",
+        "GIS-Software",
+        "Seite Geologische",
+        "Sie Hunderte"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "GIS-Software"
+      ],
+      "locations": [
+        "De Internal/2022/04/elektronische Karten",
+        "Niedersachsen",
+        "Schwarzen Meeres",
+        "Vorschau",
+        "asiatischen Küste"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2022/04/elektronische Karten",
+        "Vorschau",
+        "GIS-Software",
+        "Geologische",
+        "Niedersachsen",
+        "Schwarzen Meeres",
+        "asiatischen Küste",
+        "Schweizer",
+        "MehrWissen"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Nutzen Sie moderne und historische Karten",
+          "Schnell finden – einfach herunterladen"
+        ],
+        "content_length": 1454
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "Geologische",
+        "2022",
+        "GIS-Software",
+        "2006",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "MehrWissen",
+        "Schweizer",
+        "how",
+        "computer_science",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

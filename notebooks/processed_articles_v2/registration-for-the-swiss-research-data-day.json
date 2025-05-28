@@ -1,0 +1,163 @@
+{
+  "filename": "registration-for-the-swiss-research-data-day.md",
+  "original_filename": "registration-for-the-swiss-research-data-day.html",
+  "source_path": "en_internal/2018/05/registration-for-the-swiss-research-data-day.html",
+  "date": "2018-05",
+  "title": "Registration For The Swiss Research Data Day",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Registration for the Swiss Research Data Day 2018 (SRDD2018) is now open. #SRDD2018 will gather notable speakers to discuss practices around handling, managing, and sharing research data. In addition, you can showcase your own work as a poster and network with colleagues.\n\nAs a project partner in DLCM (Digital Lifecycle Management) ETH Library's Digital Curation Office supports this event in terms of content and organization."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Swiss Research Data Day",
+        "label": "ORG",
+        "start": 37,
+        "end": 64
+      },
+      {
+        "text": "the Swiss Research Data Day 2018",
+        "label": "ORG",
+        "start": 17,
+        "end": 49
+      },
+      {
+        "text": "DLCM",
+        "label": "ORG",
+        "start": 296,
+        "end": 300
+      },
+      {
+        "text": "Digital Lifecycle Management",
+        "label": "ORG",
+        "start": 302,
+        "end": 330
+      },
+      {
+        "text": "ETH Library's",
+        "label": "ORG",
+        "start": 332,
+        "end": 345
+      },
+      {
+        "text": "Digital Curation Office",
+        "label": "ORG",
+        "start": 346,
+        "end": 369
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "DLCM",
+        "Digital Curation Office",
+        "Digital Lifecycle Management",
+        "ETH Library's",
+        "The Swiss Research Data Day",
+        "the Swiss Research Data Day 2018"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "The Swiss Research Data Day": 1,
+      "the Swiss Research Data Day 2018": 1,
+      "DLCM": 1,
+      "Digital Lifecycle Management": 1,
+      "ETH Library's": 1,
+      "Digital Curation Office": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "registration-for-the-swiss-research-data-day.md",
+      "title": "En Internal/2018/05/registration For The Swiss Research Data Day",
+      "language": "en",
+      "source_path": "en_internal/2018/05/registration-for-the-swiss-research-data-day.html"
+    },
+    "temporal": {
+      "publication_date": "2018-05",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Data Day",
+        "Swiss Research",
+        "Digital Lifecycle",
+        "ETH Library",
+        "Digital Curation",
+        "En Internal",
+        "For The"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DLCM",
+        "Digital Curation Office",
+        "Digital Lifecycle Management",
+        "ETH Library's",
+        "The Swiss Research Data Day",
+        "the Swiss Research Data Day 2018"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "The Swiss Research Data Day",
+        "the Swiss Research Data Day 2018",
+        "DLCM",
+        "Digital Lifecycle Management",
+        "ETH Library's",
+        "Digital Curation Office"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 494
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Digital Lifecycle Management",
+        "DLCM",
+        "The Swiss Research Data Day",
+        "the Swiss Research Data Day 2018",
+        "ETH Library's",
+        "Digital Curation Office"
+      ],
+      "semantic_concepts": [
+        "what",
+        "how"
+      ],
+      "graph_relations": []
+    }
+  }
+}

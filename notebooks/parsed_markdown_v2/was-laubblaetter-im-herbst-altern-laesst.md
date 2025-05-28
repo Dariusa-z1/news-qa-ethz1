@@ -1,0 +1,52 @@
+# was-laubblaetter-im-herbst-altern-laesst.html
+
+**Source:** de_news_events/2020/11/was-laubblaetter-im-herbst-altern-laesst.html
+
+## Limitierte Senken als Seneszenztreiber
+
+An seinem Lebensende leuchtet das Laub in prächtigen gelb-roten Farben: Es ist Herbst. Laubbäume in den gemässigten Zonen bereiten sich auf den nahenden Winter vor. Sie stellen das Wachstum ein und entziehen dem Laub die Nährstoffe. Die Blätter fallen allmählich ab und sterben. Dieser Alterungsprozess der Blätter wird Seneszenz genannt. Er markiert im phänologischen Zyklus der Bäume das Ende der Vegetationsperiode, in der sie CO 2 aufnehmen und Photosynthese betreiben.
+
+Mit der Klimaerwärmung hat sich die Vegetationsperiode in den vergangenen Jahrzehnten verlängert: Europäische Bäume treiben im Frühling rund zwei Wochen früher aus als noch vor hundert Jahren. Im Herbst fallen die Blätter heute gut sechs Tage später. Es wird allgemein erwartet, dass sich die Seneszenz in einem künftig wärmeren Klima weiter verspätet. Bäume könnten so mehr CO 2 aus der Atmosphäre aufnehmen.
+
+Forschende der ETH Zürich gelangen nun zu einem gegenteiligen Befund: In einer Studie im Fachmagazin externe Seite Science weisen sie bei Laubbäumen einen selbstregulierenden Mechanismus nach, der die Vegetationsperiode begrenzt: Eine erhöhte Photosynthese im Frühjahr und Sommer lässt die Blätter im Herbst früher altern. Damit dürfte sich der herbstliche Blattfall in Zukunft wider Erwarten verfrühen – und nicht weiter verspäten.
+
+## Limitierte Senken als Seneszenztreiber
+
+«Präzise Prognosen über die Wachstumssaison von Bäumen waren bislang kaum möglich, weil man die Ursachen der Blattseneszenz nicht genügend verstand», sagt Constantin Zohner, Studienleiter und Senior Scientist am Crowther Lab der ETH Zürich.
+
+Bislang ging die Wissenschaft generell davon aus, dass hauptsächlich die abnehmende Temperatur und Tageslänge im Herbst den Zeitpunkt der Blattseneszenz bestimmen. Zwar gab es bereits verschiedene Hinweise, dass der Blattaustrieb im Frühling mit dem Blattfall im Herbst verbunden sein muss. «Weil die Mechanismen aber unklar waren, berücksichtigen phänologische Modelle solche Effekte bestenfalls teilweise», sagt der Biologe.
+
+Zohner vermutete, dass das Bindeglied zwischen Frühling und Herbst mit der saisonalen Photosynthese zu tun haben könnte – genauer: mit dem Phänomen der limitierten Kohlenstoffsenke. Dabei begrenzen unter anderem knappe Bodennährstoffe wie etwa Stickstoff die CO 2 -Menge, die eine Pflanze während der Saison aufnehmen kann. Ist die maximale CO 2 -Menge erreicht, setzt die Blattalterung entsprechend früher ein.
+
+Diese Rolle der Photosynthese bei der Steuerung der Blattseneszenz ist beispielsweise bei Getreide seit langem bekannt, wurde aber nie an Bäumen getestet. So machten sich die ETH-Forschenden daran, die Treiber des herbstlichen Blattfalls mit einem kombinierten Ansatz von Feldbeobachtungen, Laborversuchen und Modellierung zu ergründen.
+
+## Deutlicher Effekt der Photosynthese
+
+Die Basis der Studie bildeten Langzeitbeobachtungen von sechs europäischen Laubbaumarten während der letzten sechs Jahrzehnte. Anhand der Daten testete Zohners Team den relativen Einfluss verschiedener Faktoren auf den Zeitpunkt der Herbstseneszenz, darunter den Blattaustrieb im Frühling, die saisonale Photosynthese, CO 2 -Konzentration, Temperatur und Niederschlag.
+
+Ergänzend führten die Forschenden eine Reihe von Experimenten mit jungen Bäumen in Klimakammern und im Freien durch. So konnten sie Temperatur, Tageslicht und CO 2 -Gehalt variieren und die jeweiligen Effekte auf Photosynthese und Blattseneszenz untersuchen.
+
+Tatsächlich offenbarten die Baumbeobachtungen einen deutlichen Einfluss der saisonalen Photosynthese: Bei allen untersuchten Arten trat in den Jahren mit erhöhter Photosynthese im Frühjahr und Sommer auch die Seneszenz im Herbst früher ein, wobei eine zehn Prozent höhere Aktivität die Blattalterung um acht Tage vorzog. Die Experimente stützten den Befund aus den Beobachtungen.
+
+## Mechanik des Herbstes modelliert
+
+«Unsere Analysen legen nahe, dass die saisonale Photosynthese, die Herbsttemperatur und die Tageslänge primäre Treiber der Seneszenz sind», sagt Erstautorin Deborah Zani. Anders die restlichen Faktoren: «CO 2 -Gehalt, Sommertemperaturen, Lichtstärke und Niederschlag beeinflussen zwar die Photosynthese ganz direkt, wirken sich aber nur indirekt auf die Herbstseneszenz aus», erklärt sie das Zusammenspiel der Kräfte.
+
+Wärmere Herbste verzögern die Seneszenz tendenziell. Doch steigende CO 2 -Konzentration, wärmere Sommerperioden und ein früherer Blattaustrieb erhöhen zusehends die Photosynthese im Frühling und Sommer. Dadurch füllen sich die limitierten Kohlenstoffspeicher – sind sie vorzeitig gesättigt, verfrüht das die Seneszenz, was der Verzögerungstendenz aufgrund höherer Herbsttemperaturen entgegen wirkt.
+
+Zani und Zohner entwickelten ein neues Modell der Herbstphänologie, das alle Faktoren nach ihrem relativen Gewicht berücksichtigt. Dieses vermag den Zeitpunkt der Seneszenz der letzten sechs Jahrzehnte um bis zu 42 Prozent präziser zu datieren als frühere Modelle.
+
+Zudem kehrt es deren Prognosen um: Bis anhin erwartete man, dass die Seneszenz bis Ende Jahrhundert zwei bis drei Wochen später auftritt. «Unser neues Modell legt das Gegenteil nahe: Wenn die Photosynthese weiter steigt, werden die Blätter im Lauf des Jahrhunderts um drei bis sechs Tage früher als heute altern – und nicht später», erklärt Zani. Das bedeutet, dass sich die Wachstumssaison bis Ende des Jahrhunderts nur um 8 bis 12 Tage verlängern wird. «Das ist rund zwei bis drei Mal weniger als bisher gedacht», ergänzt Zani. Sie war im Rahmen ihrer Masterarbeit am Crowhter Lab massgeblich an Datenanalyse und Modellierung beteiligt.
+
+## Saisondauer beeinflusst Kohlenstoffbilanz
+
+Für ihre Forschung verwendeten die Wissenschaftler Daten des Pan European Phenology Project. Insgesamt werteten sie 434’000 phänologische Beobachtungen an 3800 Standorten in Mitteleuropa im Zeitraum von 1948 bis 2015 aus. Untersucht wurden sechs repräsentative Arten: Gewöhnliche Rosskastanie, Hänge-Birke, Rotbuche, Europäische Lärche, Stieleiche und Vogelbeerbaum.
+
+Die Autoren verstehen ihre Studie als weiteren Hinweis darauf, dass Wälder der gemässigten Zone begrenzt CO 2 aufnehmen könnten: «Die CO 2 -Aufnahme wird mit steigenden Temperaturen wahrscheinlich weniger stark ansteigen, als ältere Modelle voraussagten», sagt Zohner. Die Forschenden wollen nun besser verstehen, wie verbreitet limitierte Kohlenstoffsenken in den Wäldern der Erde sind.
+
+## Literaturhinweis
+
+Zani D, Crowther TW, Mo L, Renner S, Zohner CM: Increased growing-season productivity drives earlier autumn leaf senescence in temperate trees. Science (2020), 26. November 2020, doi: externe Seite 10.1126/science.abd8911
+
+externe Seite Homepage Crowther Lab
+

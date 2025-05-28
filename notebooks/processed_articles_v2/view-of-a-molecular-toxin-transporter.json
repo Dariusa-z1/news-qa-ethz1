@@ -1,0 +1,453 @@
+{
+  "filename": "view-of-a-molecular-toxin-transporter.md",
+  "original_filename": "view-of-a-molecular-toxin-transporter.html",
+  "source_path": "en_news_events/2017/05/view-of-a-molecular-toxin-transporter.html",
+  "date": "2017-05",
+  "title": "View Of A Molecular Toxin Transporter",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Double-edged sword",
+      "text": "Almost all living creatures have evolved mechanisms to remove toxins that have entered their cells: molecular pumps located in the cell membrane recognise harmful substances in the cell interior and transport them outside. Researchers from ETH Zurich and the Biozentrum of the University of Basel have now defined the three-dimensional structure of such a transport protein in humans (the protein ABCG2) at the atomic level. This is the first time such a structure has been defined for a human multi-drug transporter. The scientists published their work in the latest issue of the scientific journal Nature.\n\n“The protein ABCG2 recognises and transports at least 200 known substances,” explains Kaspar Locher, Professor of Molecular Membrane Biology at ETH Zurich and head of the study. These substances include alkaloids – plant substances that we ingest with our food – but also substances produced by the body itself, such as uric acid or bilirubin (a metabolite of haemoglobin).\n\nThe protein is active in the intestinal wall, for example, where it prevents harmful substances from entering the blood; it is also found in the cells of the blood-brain barrier, where it keeps toxins away from the brain. Proteins such as ABCG2 also play an important role in mammary glands and in the placenta, where they ensure that toxins do not enter the breast milk or the bloodstream of an unborn child."
+    },
+    {
+      "heading": "Double-edged sword",
+      "text": "The role of multi-drug transporters does have a downside, however: the proteins also pump some medications out of cells, preventing them from acting in those cells. “This means that when developing medications, it is always important to investigate whether they are recognised by transport proteins such as ABCG2,” says Locher. Medicines administered orally have to penetrate the intestinal wall, and those meant for the brain must pass the blood-brain barrier – which they can only do if ABCG2 doesn’t recognise them.\n\nIt is well known, however, that ABCG2 recognises some cancer drugs (chemotherapeutics). This is particularly serious because certain tumour cells are able to increase the number of ABCG2 proteins in their cell membranes. Such cells efficiently pump the chemotherapeutic substance outwards – meaning they are resistant to the drug."
+    },
+    {
+      "heading": "Developing drugs with computers",
+      "text": "Now that scientists know the structure of ABCG2, in future they may be able to simulate on a computer whether new drugs will be recognised by the transport protein. Researchers could also use computer modelling to develop better antibodies for the diagnosis of drug-resistant cancer cells, or drugs that inhibit the transport protein. Such substances could help to overcome resistances to particular chemotherapeutics. “The contributions of our research to medicine, particularly cancer medicine, should really be seen in the longer term. We are primarily building the foundations,” emphasises Locher.\n\nABCG2 is a very mobile molecule, which made it difficult to determine its atomic structure. By using stabilising antibodies, however, the scientists succeeded in immobilising the protein. The three-dimensional structure was determined using cryo-electron microscopy by the ETH researchers in collaboration with Henning Stahlberg, a professor at the Biozentrum of the University of Basel, and his group. “We have recently been working intensively on optimising the resolution capacity of our electron microscopes, and substantially automating them at the same time. This has now resulted in an incredibly fast structure determination pipeline,” says Stahlberg.\n\nCryo-electron microscopy is a comparatively new technology for determining atomic molecular structures. “This technology has triggered a revolution in structural biology,” says Locher. In view of its importance, ETH Zurich will continue to invest in the method and will acquire a second high-end cryo-electron microscope for the ScopeM microscopy centre. It will be available to all life sciences researchers to study molecules and structures with atomic resolution.\n\nThe study was financed by the National Centre of Competence in Research (NCCR) TransCure .\n\nTaylor NMI, Manolaridis I, Jackson SM, Kowal J, Stahlberg H, Locher KP: Structure of the human multidrug transporter ABCG2. Nature, 29. Mai 2017, doi: 10.1038/nature22345"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 240,
+        "end": 250
+      },
+      {
+        "text": "the Biozentrum of the University of Basel",
+        "label": "ORG",
+        "start": 255,
+        "end": 296
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 318,
+        "end": 323
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 437,
+        "end": 442
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 600,
+        "end": 606
+      },
+      {
+        "text": "at least 200",
+        "label": "CARDINAL",
+        "start": 653,
+        "end": 665
+      },
+      {
+        "text": "Kaspar Locher",
+        "label": "PERSON",
+        "start": 694,
+        "end": 707
+      },
+      {
+        "text": "Molecular Membrane Biology",
+        "label": "ORG",
+        "start": 722,
+        "end": 748
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 752,
+        "end": 762
+      },
+      {
+        "text": "Locher",
+        "label": "PERSON",
+        "start": 320,
+        "end": 326
+      },
+      {
+        "text": "Locher",
+        "label": "PERSON",
+        "start": 594,
+        "end": 600
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 794,
+        "end": 799
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 875,
+        "end": 878
+      },
+      {
+        "text": "Henning Stahlberg",
+        "label": "PERSON",
+        "start": 913,
+        "end": 930
+      },
+      {
+        "text": "the Biozentrum of the University of Basel",
+        "label": "ORG",
+        "start": 947,
+        "end": 988
+      },
+      {
+        "text": "Stahlberg",
+        "label": "PERSON",
+        "start": 1251,
+        "end": 1260
+      },
+      {
+        "text": "Locher",
+        "label": "PERSON",
+        "start": 1439,
+        "end": 1445
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1474,
+        "end": 1484
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1542,
+        "end": 1548
+      },
+      {
+        "text": "the National Centre of Competence in Research (NCCR) TransCure",
+        "label": "ORG",
+        "start": 1755,
+        "end": 1817
+      },
+      {
+        "text": "Taylor NMI",
+        "label": "PERSON",
+        "start": 1820,
+        "end": 1830
+      },
+      {
+        "text": "Manolaridis",
+        "label": "PERSON",
+        "start": 1832,
+        "end": 1843
+      },
+      {
+        "text": "Kowal J",
+        "label": "PERSON",
+        "start": 1859,
+        "end": 1866
+      },
+      {
+        "text": "Locher KP",
+        "label": "PERSON",
+        "start": 1881,
+        "end": 1890
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 1944,
+        "end": 1950
+      },
+      {
+        "text": "Mai 2017",
+        "label": "DATE",
+        "start": 1956,
+        "end": 1964
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1971,
+        "end": 1978
+      },
+      {
+        "text": "nature22345",
+        "label": "ORG",
+        "start": 1979,
+        "end": 1990
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Henning Stahlberg",
+        "Kaspar Locher",
+        "Kowal J",
+        "Locher",
+        "Locher KP",
+        "Manolaridis",
+        "Stahlberg",
+        "Taylor NMI"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Molecular Membrane Biology",
+        "nature22345",
+        "the Biozentrum of the University of Basel",
+        "the National Centre of Competence in Research (NCCR) TransCure"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Mai 2017"
+      ],
+      "MISC": [
+        "10.1038",
+        "Nature",
+        "at least 200",
+        "first",
+        "second",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "Locher": 3,
+      "the Biozentrum of the University of Basel": 2,
+      "three": 2,
+      "Nature": 2,
+      "En News": 1,
+      "first": 1,
+      "at least 200": 1,
+      "Kaspar Locher": 1,
+      "Molecular Membrane Biology": 1,
+      "ETH": 1,
+      "Henning Stahlberg": 1,
+      "Stahlberg": 1,
+      "second": 1,
+      "the National Centre of Competence in Research (NCCR) TransCure": 1,
+      "Taylor NMI": 1,
+      "Manolaridis": 1,
+      "Kowal J": 1,
+      "Locher KP": 1,
+      "Mai 2017": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "view-of-a-molecular-toxin-transporter.md",
+      "title": "En News Events/2017/05/view Of A Molecular Toxin Transporter",
+      "language": "en",
+      "source_path": "en_news_events/2017/05/view-of-a-molecular-toxin-transporter.html"
+    },
+    "temporal": {
+      "publication_date": "2017-05",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Henning Stahlberg",
+        "Kaspar Locher",
+        "Kowal J",
+        "Locher",
+        "Locher KP",
+        "Manolaridis",
+        "Stahlberg",
+        "Taylor NMI"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher",
+          "head",
+          "professor"
+        ],
+        "Henning Stahlberg": [
+          "researcher",
+          "professor"
+        ],
+        "Kaspar Locher": [
+          "head",
+          "professor"
+        ],
+        "Locher": [
+          "head",
+          "professor"
+        ],
+        "Stahlberg": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Nature",
+        "at least 200",
+        "first",
+        "second",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Kowal J",
+        "Molecular Toxin",
+        "En News",
+        "Manolaridis I",
+        "Taylor NMI",
+        "Jackson SM",
+        "Locher KP",
+        "Molecular Membrane",
+        "Of A",
+        "Kaspar Locher",
+        "Henning Stahlberg",
+        "National Centre",
+        "ETH Zurich",
+        "Stahlberg H",
+        "Transporter Almost"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Molecular Membrane Biology",
+        "nature22345",
+        "the Biozentrum of the University of Basel",
+        "the National Centre of Competence in Research (NCCR) TransCure"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Locher",
+        "the Biozentrum of the University of Basel",
+        "three",
+        "Nature",
+        "En News",
+        "first",
+        "at least 200",
+        "Kaspar Locher",
+        "Molecular Membrane Biology"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Double-edged sword",
+          "Double-edged sword",
+          "Developing drugs with computers"
+        ],
+        "content_length": 4300
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Manolaridis",
+        "Stahlberg",
+        "Locher KP",
+        "En News",
+        "Taylor NMI",
+        "nature22345",
+        "EU",
+        "the Biozentrum of the University of Basel",
+        "2017",
+        "ERC",
+        "Molecular Membrane Biology",
+        "Kaspar Locher",
+        "Henning Stahlberg",
+        "Kowal J",
+        "ETH Zurich",
+        "the National Centre of Competence in Research (NCCR) TransCure",
+        "Locher"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Nature",
+        "at least 200",
+        "three",
+        "who",
+        "10.1038",
+        "chemistry",
+        "biology",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_head",
+        "ETH Zurich_has_role_professor",
+        "Henning Stahlberg_has_role_researcher",
+        "Henning Stahlberg_has_role_professor",
+        "Kaspar Locher_has_role_head",
+        "Kaspar Locher_has_role_professor",
+        "Locher_has_role_head",
+        "Locher_has_role_professor",
+        "Stahlberg_has_role_researcher",
+        "Stahlberg_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

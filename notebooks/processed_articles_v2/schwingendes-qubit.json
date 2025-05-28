@@ -1,0 +1,434 @@
+{
+  "filename": "schwingendes-qubit.md",
+  "original_filename": "schwingendes-qubit.html",
+  "source_path": "de_news_events/2019/02/schwingendes-qubit.html",
+  "date": "2019-02",
+  "title": "Schwingendes Qubit",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Periodische Schwingungszustände",
+      "text": "Wer einen Quantencomputer bauen will, muss – im doppelten Wortsinn – mit Fehlern rechnen. Die Quanten-Bits oder Qubits nämlich, die gleichzeitig die logischen Zustände 0 und 1 annehmen können und dadurch für schnellere Rechnungen sorgen, sind äusserst störanfällig. Abhilfe kann die Quanten-Fehlerkorrektur schaffen, bei der jedes Qubit in mehrfacher Ausführung, also «redundant» vorhanden ist und Fehler so nachgewiesen und später berichtigt werden können, ohne den fragilen Qubit-Quantenzustand selbst zu stören. Das ist technisch sehr aufwendig.\n\nSeit einigen Jahren gibt es einen Alternativvorschlag, bei dem die Information nicht in mehreren redundanten Qubits gespeichert wird, sondern in den vielen Schwingungszuständen eines einzigen quantenphysikalischen harmonischen Oszillators. Ein solches, in einem Oszillator kodiertes Qubit hat nun die Forschungsgruppe von Jonathan Home, Professor am Institut für Quantenelektronik der ETH Zürich, im Labor realisiert. Ihre Ergebnisse wurden im Wissenschaftsjournal externe Seite Nature veröffentlicht."
+    },
+    {
+      "heading": "Periodische Schwingungszustände",
+      "text": "In Homes Labor arbeiten die Doktorandin Christa Flühmann und ihre Kollegen mit elektrisch geladenen Kalziumatomen, die mit Hilfe elektrischer Felder eingefangen werden. Durch den gezielten Einsatz von Laserstrahlen werden sie so stark abgekühlt, dass ihre Oszillationen in den elektrischen Feldern (in denen die Ionen wie Murmeln in einer Schüssel schwingen) als sogenannte Wellenfunktionen von der Quantenmechanik beschrieben werden. «An diesem Punkt wird es spannend», sagt Flühmann, die Erstautorin des Nature-Papers ist. «Wir können nämlich die Schwingungszustände der Ionen so manipulieren, dass sich ihre Orts- und Impulsunschärfe auf viele periodisch angeordnete Zustände verteilt.»\n\nDie «Unschärfe» bezieht sich dabei auf die berühmte Formel von Werner Heisenberg, nach der in der Quantenphysik das Produkt aus den Messunsicherheiten der Position und der Geschwindigkeit (genauer: des Impulses) eines Teilchens eine bestimmte Mindestgrenze nie unterschreiten kann. Will man also beispielsweise das Teilchen so manipulieren, dass man seinen Aufenthaltsort sehr genau kennt – Physiker nennen das «quetschen» –, so ist dadurch automatisch sein Impuls unsicherer."
+    },
+    {
+      "heading": "Reduzierte Unsicherheit",
+      "text": "Ein solches Quetschen eines Quantenzustands allein hat also nur einen begrenzten Nutzen, wenn man genaue Messungen machen will. Doch es gibt einen pfiffigen Ausweg: Stellt man zusätzlich zum Quetschen einen Schwingungszustand her, bei dem die Wellenfunktion des Teilchens auf viele periodisch angeordnete Positionen verteilt ist, so kann die Messunsicherheit jeder dieser Positionen und der entsprechenden Impulse kleiner sein, als es Heisenberg erlaubt. Eine solche räumliche Aufteilung der Wellenfunktion – das Teilchen kann an vielen Orten gleichzeitig sein, und erst eine Messung entscheidet, wo man es tatsächlich findet – erinnert an Erwin Schrödingers berühmte Katze, die zugleich tot und lebendig ist.\n\nDie stark reduzierte Messunsicherheit bedeutet nun, dass kleinste Änderungen der Wellenfunktion, etwa durch Störungen von ausserhalb, sehr genau bestimmt – und dadurch prinzipiell auch korrigiert – werden können. «Unsere Realisierung dieser periodischen oder kammartigen Schwingungszustände des Ions stellt einen wichtigen Schritt in Richtung einer solchen eventuellen Fehlerbestimmung dar», erklärt Flühmann. «Zudem können wir beliebige Zustande des Ions präparieren und alle logischen Operationen am Ion durchführen. All dies ist nötig für den Bau eines Quantencomputers. In einem nächsten Schritt wollen wir das dann mit einer Fehlerbestimmung und Fehlerkorrektur kombinieren.»"
+    },
+    {
+      "heading": "Anwendungen in Quantensensoren",
+      "text": "Dazu müssen allerdings noch einige experimentelle Hürden genommen werden, räumt Flühmann ein. So muss das Kalziumion zunächst über elektrische Kräfte an ein anderes Ion gekoppelt werden, damit der Schwingungszustand ausgelesen werden kann, ohne ihn zu stören. Doch schon in ihrer jetzigen Form ist die Methode der ETH-Forscher für Anwendungen höchst interessant, erläutert Flühmann: «Dadurch, dass diese Schwingungszustände so empfindlich auf Störungen sind, kann man sie wunderbar einsetzen, um kleinste elektrische Felder oder andere physikalische Grössen genau zu messen.»\n\nFlühmann C, Nyuyen TL, Marinelli M, Negnevitsky V, Mehta K, Home J: Encoding a qubit in a trapped-ion mechanical oscillator. Nature, 27. Februar 2019, doi: externe Seite 10.1038/s41586-019-0960-6"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Quanten-Bits",
+        "label": "MISC",
+        "start": 94,
+        "end": 106
+      },
+      {
+        "text": "Quanten-Fehlerkorrektur",
+        "label": "MISC",
+        "start": 283,
+        "end": 306
+      },
+      {
+        "text": "Qubit-Quantenzustand",
+        "label": "MISC",
+        "start": 476,
+        "end": 496
+      },
+      {
+        "text": "quantenphysikalischen",
+        "label": "MISC",
+        "start": 741,
+        "end": 762
+      },
+      {
+        "text": "Jonathan Home",
+        "label": "PER",
+        "start": 871,
+        "end": 884
+      },
+      {
+        "text": "Institut für Quantenelektronik",
+        "label": "ORG",
+        "start": 899,
+        "end": 929
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 934,
+        "end": 944
+      },
+      {
+        "text": "Nature",
+        "label": "MISC",
+        "start": 1028,
+        "end": 1034
+      },
+      {
+        "text": "Homes",
+        "label": "LOC",
+        "start": 3,
+        "end": 8
+      },
+      {
+        "text": "Christa Flühmann",
+        "label": "PER",
+        "start": 40,
+        "end": 56
+      },
+      {
+        "text": "Ionen wie Murmeln",
+        "label": "MISC",
+        "start": 312,
+        "end": 329
+      },
+      {
+        "text": "Flühmann",
+        "label": "MISC",
+        "start": 476,
+        "end": 484
+      },
+      {
+        "text": "Ionen",
+        "label": "LOC",
+        "start": 573,
+        "end": 578
+      },
+      {
+        "text": "Werner Heisenberg",
+        "label": "PER",
+        "start": 753,
+        "end": 770
+      },
+      {
+        "text": "Impulses",
+        "label": "LOC",
+        "start": 892,
+        "end": 900
+      },
+      {
+        "text": "Heisenberg",
+        "label": "PER",
+        "start": 435,
+        "end": 445
+      },
+      {
+        "text": "Erwin Schrödingers",
+        "label": "PER",
+        "start": 640,
+        "end": 658
+      },
+      {
+        "text": "Flühmann",
+        "label": "MISC",
+        "start": 1110,
+        "end": 1118
+      },
+      {
+        "text": "Flühmann",
+        "label": "MISC",
+        "start": 80,
+        "end": 88
+      },
+      {
+        "text": "ETH-Forscher",
+        "label": "MISC",
+        "start": 314,
+        "end": 326
+      },
+      {
+        "text": "Flühmann",
+        "label": "MISC",
+        "start": 373,
+        "end": 381
+      },
+      {
+        "text": "Flühmann C",
+        "label": "MISC",
+        "start": 576,
+        "end": 586
+      },
+      {
+        "text": "Nyuyen TL",
+        "label": "ORG",
+        "start": 588,
+        "end": 597
+      },
+      {
+        "text": "Marinelli M",
+        "label": "PER",
+        "start": 599,
+        "end": 610
+      },
+      {
+        "text": "Negnevitsky V",
+        "label": "PER",
+        "start": 612,
+        "end": 625
+      },
+      {
+        "text": "Mehta K",
+        "label": "MISC",
+        "start": 627,
+        "end": 634
+      },
+      {
+        "text": "Home J",
+        "label": "MISC",
+        "start": 636,
+        "end": 642
+      },
+      {
+        "text": "Encoding a",
+        "label": "MISC",
+        "start": 644,
+        "end": 654
+      },
+      {
+        "text": "Nature",
+        "label": "MISC",
+        "start": 701,
+        "end": 707
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christa Flühmann",
+        "De News",
+        "Erwin Schrödingers",
+        "Heisenberg",
+        "Jonathan Home",
+        "Marinelli M",
+        "Negnevitsky V",
+        "Werner Heisenberg"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Institut für Quantenelektronik",
+        "Nyuyen TL"
+      ],
+      "LOCATION": [
+        "Homes",
+        "Impulses",
+        "Ionen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Forscher",
+        "Encoding a",
+        "Flühmann",
+        "Flühmann C",
+        "Home J",
+        "Ionen wie Murmeln",
+        "Mehta K",
+        "Nature",
+        "Quanten-Bits",
+        "Quanten-Fehlerkorrektur",
+        "Qubit-Quantenzustand",
+        "quantenphysikalischen"
+      ]
+    },
+    "entity_counts": {
+      "Flühmann": 4,
+      "Nature": 2,
+      "De News": 1,
+      "Quanten-Bits": 1,
+      "Quanten-Fehlerkorrektur": 1,
+      "Qubit-Quantenzustand": 1,
+      "quantenphysikalischen": 1,
+      "Jonathan Home": 1,
+      "Institut für Quantenelektronik": 1,
+      "ETH Zürich": 1,
+      "Homes": 1,
+      "Christa Flühmann": 1,
+      "Ionen wie Murmeln": 1,
+      "Ionen": 1,
+      "Werner Heisenberg": 1,
+      "Impulses": 1,
+      "Heisenberg": 1,
+      "Erwin Schrödingers": 1,
+      "ETH-Forscher": 1,
+      "Flühmann C": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "schwingendes-qubit.md",
+      "title": "De News Events/2019/02/schwingendes Qubit",
+      "language": "de",
+      "source_path": "de_news_events/2019/02/schwingendes-qubit.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Christa Flühmann",
+        "De News",
+        "Erwin Schrödingers",
+        "Heisenberg",
+        "Jonathan Home",
+        "Marinelli M",
+        "Negnevitsky V",
+        "Werner Heisenberg"
+      ],
+      "people_with_roles": {
+        "Jonathan Home": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "ETH-Forscher",
+        "Encoding a",
+        "Flühmann",
+        "Flühmann C",
+        "Home J",
+        "Ionen wie Murmeln",
+        "Mehta K",
+        "Nature",
+        "Quanten-Bits",
+        "Quanten-Fehlerkorrektur",
+        "Qubit-Quantenzustand",
+        "quantenphysikalischen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Marinelli M",
+        "Nature-Papers",
+        "Ihre Ergebnisse",
+        "Doktorandin Christa",
+        "Nyuyen TL",
+        "ETH-Forscher",
+        "Quanten-Fehlerkorrektur",
+        "Mehta K",
+        "Die Quanten",
+        "Unsere Realisierung",
+        "Negnevitsky V",
+        "Home J",
+        "Werner Heisenberg",
+        "Qubit Wer",
+        "Seite Nature",
+        "In Homes",
+        "De News",
+        "Qubit-Quantenzustand",
+        "Jonathan Home"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Institut für Quantenelektronik",
+        "Nyuyen TL"
+      ],
+      "locations": [
+        "Homes",
+        "Impulses",
+        "Ionen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Flühmann",
+        "Nature",
+        "De News",
+        "Quanten-Bits",
+        "Quanten-Fehlerkorrektur",
+        "Qubit-Quantenzustand",
+        "quantenphysikalischen",
+        "Jonathan Home",
+        "Institut für Quantenelektronik",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Periodische Schwingungszustände",
+          "Periodische Schwingungszustände",
+          "Reduzierte Unsicherheit",
+          "Anwendungen in Quantensensoren"
+        ],
+        "content_length": 4426
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Marinelli M",
+        "Nyuyen TL",
+        "Erwin Schrödingers",
+        "Negnevitsky V",
+        "EU",
+        "2019",
+        "ETH Zürich",
+        "De News",
+        "Christa Flühmann",
+        "Heisenberg",
+        "Institut für Quantenelektronik",
+        "Werner Heisenberg",
+        "Jonathan Home"
+      ],
+      "semantic_concepts": [
+        "Mehta K",
+        "Nature",
+        "who",
+        "Flühmann C",
+        "Quanten-Bits",
+        "ETH-Forscher",
+        "Ionen wie Murmeln",
+        "Qubit-Quantenzustand",
+        "quantenphysikalischen",
+        "Home J",
+        "what",
+        "how",
+        "Encoding a",
+        "Quanten-Fehlerkorrektur",
+        "when",
+        "engineering",
+        "Flühmann"
+      ],
+      "graph_relations": [
+        "Jonathan Home_has_role_professor",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

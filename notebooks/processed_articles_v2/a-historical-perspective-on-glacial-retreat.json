@@ -1,0 +1,707 @@
+{
+  "filename": "a-historical-perspective-on-glacial-retreat.md",
+  "original_filename": "a-historical-perspective-on-glacial-retreat.html",
+  "source_path": "en_news_events/2022/08/a-historical-perspective-on-glacial-retreat.html",
+  "date": "2022-08",
+  "title": "A Historical Perspective On Glacial Retreat",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Old data – new insights",
+      "text": "Glaciers are melting rapidly – and since the 2000s, scientists have been recording and researching changes in their volume more and more precisely. In contrast, hardly anything is known about how glaciers changed during the 20th century. Although there are a handful of studies that reconstruct the surface topography of individual glaciers in the late 19th and early 20th centuries, these partially show large discrepancies with existing models when it comes to estimating the corresponding glacier volume.\n\nIn a study that has just been published in the scientific journal The Cryosphere , a team of researchers from ETH Zurich and the Swiss Federal Institute for Forest, Snow and Landscape Research WSL have reconstructed the topography of all Swiss glaciers in 1931. Based on these reconstructions and comparisons with data from the 2000s, the researchers conclude that the glacier volume halved between 1931 and 2016.\n\nFor their reconstruction, the glaciologists turned to what is known as stereophotogrammetry, a technique that can be used to determine the nature, shape and position of any object on the basis of image pairs. This technique has long been in use in Switzerland: from the First World War until the end of the 1940s, engineers from the Swiss National Survey – today swisstopo – surveyed large swathes of the Swiss Alps from some 7,000 locations using phototheodolites (a combination of a camera and an angle measuring device)."
+    },
+    {
+      "heading": "Not all glaciers are under observation",
+      "text": "The resulting glass plate images, which swisstopo has digitised and enriched with metadata from field books, are now available to the public through the TerrA image archive. The researchers used the material from this image archive, which covers about 86 percent of the glacierised area of Switzerland. They analysed around 21,700 photographs taken between 1916 and 1947. “Based on these photos, we determined the glacier surface topography. If we know the surface topography of a glacier at two different points in time, we can calculate the difference in ice volume,” explains lead author Erik Schytt Mannerfelt of ETH Zurich and WSL. Since the images were taken in different years, the researchers decided to use the mean year 1931 as a reference and reconstructed the surface topography of all glaciers for that year.\n\nTo date, the picture of glacier changes during the last century has been largely based on a combination of long-term glacier observations, measurements performed in the field and aerial photographs taken after 1960. From this information, glaciologists reconstructed the mass balance of individual glaciers – that is, the difference between mass gain and mass loss."
+    },
+    {
+      "heading": "Not all glaciers are equally affected",
+      "text": "One way to determine a glacier’s mass balance is through on-site measurements. But only a few Swiss glaciers – the Claridenfirn, for example – have been the subject of regular measurements. This means that long time series stretching over several decades are very rare. In addition, older mass balance series can accumulate errors from earlier, inaccurate or uncertain measurements, which can lead to large distortions.\n\nThe study further shows that not all glaciers are losing mass at the same rate. The extent to which they have decreased in volume depends primarily on three factors: first, the altitude at which a glacier is located; second, how flat the glacier snout is; and third, the amount of debris on the glacier."
+    },
+    {
+      "heading": "Reference",
+      "text": "So have the glaciers just been receding every year? No. While the climate in the 20th century was generally unfavourable for glaciers, in the 1920s and 1980s there was sporadic glacier mass growth, with individual glaciers advancing. “While there may have been growth over short-term periods, it’s important to keep the big picture in mind. Our comparison between the years 1931 and 2016 clearly shows that there was significant glacial retreat during this period,” says Daniel Farinotti, Professor of Glaciology at ETH Zurich and WSL, and co-author of the study. What’s more, the total glacier volume is decreasing at an ever faster rate, as confirmed by the glacier monitoring network GLAMOS, which is managed by ETH Zurich. By way of comparison, while glaciers lost half their volume between 1931 and 2016, they lost a further 12 percent between 2016 and 2021 – i.e. in just six years.\n\n“Glacier retreat is accelerating. Closely observing this phenomenon and quantifying its historical dimensions is important because it allows us to infer the glaciers’ responses to a changing climate. This information is needed to develop reliable scenarios for future glacier changes,” Farinotti says.\n\nSchytt Mannerfelt E, Dehecq A, Hugonnet R, Hodel E, Huss M, Bauder A, Farinotti D. Halving of Swiss glacier volume since 1931 observed from terrestrial image photogrammetry. The Cryosphere, 16, 3249–3268, 2022, doi: 10.5194/tc-16-3249-2022"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the 2000s",
+        "label": "DATE",
+        "start": 41,
+        "end": 50
+      },
+      {
+        "text": "the 20th century",
+        "label": "DATE",
+        "start": 220,
+        "end": 236
+      },
+      {
+        "text": "the late 19th and",
+        "label": "DATE",
+        "start": 344,
+        "end": 361
+      },
+      {
+        "text": "early 20th centuries",
+        "label": "DATE",
+        "start": 362,
+        "end": 382
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 618,
+        "end": 628
+      },
+      {
+        "text": "the Swiss Federal Institute for Forest",
+        "label": "ORG",
+        "start": 633,
+        "end": 671
+      },
+      {
+        "text": "Snow and Landscape Research WSL",
+        "label": "WORK_OF_ART",
+        "start": 673,
+        "end": 704
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 746,
+        "end": 751
+      },
+      {
+        "text": "the 2000s",
+        "label": "DATE",
+        "start": 832,
+        "end": 841
+      },
+      {
+        "text": "between 1931 and 2016",
+        "label": "DATE",
+        "start": 899,
+        "end": 920
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1170,
+        "end": 1181
+      },
+      {
+        "text": "the First World War",
+        "label": "EVENT",
+        "start": 1188,
+        "end": 1207
+      },
+      {
+        "text": "the end of the 1940s",
+        "label": "DATE",
+        "start": 1214,
+        "end": 1234
+      },
+      {
+        "text": "the Swiss National Survey",
+        "label": "ORG",
+        "start": 1251,
+        "end": 1276
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1279,
+        "end": 1284
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1327,
+        "end": 1332
+      },
+      {
+        "text": "some 7,000",
+        "label": "CARDINAL",
+        "start": 1343,
+        "end": 1353
+      },
+      {
+        "text": "about 86 percent",
+        "label": "PERCENT",
+        "start": 246,
+        "end": 262
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 290,
+        "end": 301
+      },
+      {
+        "text": "around 21,700",
+        "label": "CARDINAL",
+        "start": 317,
+        "end": 330
+      },
+      {
+        "text": "between 1916 and 1947",
+        "label": "DATE",
+        "start": 349,
+        "end": 370
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 492,
+        "end": 495
+      },
+      {
+        "text": "Erik Schytt",
+        "label": "PERSON",
+        "start": 591,
+        "end": 602
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 617,
+        "end": 627
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 632,
+        "end": 635
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 678,
+        "end": 683
+      },
+      {
+        "text": "the mean year 1931",
+        "label": "DATE",
+        "start": 716,
+        "end": 734
+      },
+      {
+        "text": "that year",
+        "label": "DATE",
+        "start": 811,
+        "end": 820
+      },
+      {
+        "text": "the last century",
+        "label": "DATE",
+        "start": 869,
+        "end": 885
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 94,
+        "end": 99
+      },
+      {
+        "text": "Claridenfirn",
+        "label": "GPE",
+        "start": 115,
+        "end": 127
+      },
+      {
+        "text": "several decades",
+        "label": "DATE",
+        "start": 239,
+        "end": 254
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 571,
+        "end": 576
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 586,
+        "end": 591
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 637,
+        "end": 643
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 680,
+        "end": 685
+      },
+      {
+        "text": "every year",
+        "label": "DATE",
+        "start": 40,
+        "end": 50
+      },
+      {
+        "text": "the 20th century",
+        "label": "DATE",
+        "start": 77,
+        "end": 93
+      },
+      {
+        "text": "the 1920s",
+        "label": "DATE",
+        "start": 138,
+        "end": 147
+      },
+      {
+        "text": "1980s",
+        "label": "DATE",
+        "start": 152,
+        "end": 157
+      },
+      {
+        "text": "the years 1931",
+        "label": "DATE",
+        "start": 364,
+        "end": 378
+      },
+      {
+        "text": "Daniel Farinotti",
+        "label": "PERSON",
+        "start": 471,
+        "end": 487
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 516,
+        "end": 526
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 531,
+        "end": 534
+      },
+      {
+        "text": "GLAMOS",
+        "label": "ORG",
+        "start": 687,
+        "end": 693
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 715,
+        "end": 725
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 769,
+        "end": 773
+      },
+      {
+        "text": "between 1931 and 2016",
+        "label": "DATE",
+        "start": 787,
+        "end": 808
+      },
+      {
+        "text": "12 percent",
+        "label": "PERCENT",
+        "start": 830,
+        "end": 840
+      },
+      {
+        "text": "between 2016 and 2021",
+        "label": "DATE",
+        "start": 841,
+        "end": 862
+      },
+      {
+        "text": "just six years",
+        "label": "DATE",
+        "start": 873,
+        "end": 887
+      },
+      {
+        "text": "Glacier",
+        "label": "PERSON",
+        "start": 890,
+        "end": 897
+      },
+      {
+        "text": "Farinotti",
+        "label": "ORG",
+        "start": 1175,
+        "end": 1184
+      },
+      {
+        "text": "Schytt Mannerfelt E",
+        "label": "ORG",
+        "start": 1191,
+        "end": 1210
+      },
+      {
+        "text": "Hugonnet",
+        "label": "PERSON",
+        "start": 1222,
+        "end": 1230
+      },
+      {
+        "text": "Bauder A",
+        "label": "PERSON",
+        "start": 1251,
+        "end": 1259
+      },
+      {
+        "text": "Farinotti D. Halving",
+        "label": "ORG",
+        "start": 1261,
+        "end": 1281
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1285,
+        "end": 1290
+      },
+      {
+        "text": "3249–3268",
+        "label": "DATE",
+        "start": 1385,
+        "end": 1394
+      },
+      {
+        "text": "10.5194/tc-16-3249-2022",
+        "label": "CARDINAL",
+        "start": 1407,
+        "end": 1430
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bauder A",
+        "Daniel Farinotti",
+        "ETH Zurich",
+        "Erik Schytt",
+        "Glacier",
+        "Hugonnet"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Farinotti",
+        "Farinotti D. Halving",
+        "GLAMOS",
+        "Schytt Mannerfelt E",
+        "WSL",
+        "the Swiss Federal Institute for Forest",
+        "the Swiss National Survey"
+      ],
+      "LOCATION": [
+        "Claridenfirn",
+        "Switzerland"
+      ],
+      "DATE": [
+        "1980s",
+        "3249–3268",
+        "between 1916 and 1947",
+        "between 1931 and 2016",
+        "between 2016 and 2021",
+        "early 20th centuries",
+        "every year",
+        "just six years",
+        "several decades",
+        "that year",
+        "the 1920s",
+        "the 2000s",
+        "the 20th century",
+        "the end of the 1940s",
+        "the last century",
+        "the late 19th and",
+        "the mean year 1931",
+        "the years 1931",
+        "today",
+        "years"
+      ],
+      "MISC": [
+        "10.5194/tc-16-3249-2022",
+        "12 percent",
+        "One",
+        "Snow and Landscape Research WSL",
+        "Swiss",
+        "about 86 percent",
+        "around 21,700",
+        "first",
+        "half",
+        "second",
+        "some 7,000",
+        "the First World War",
+        "third",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 4,
+      "Swiss": 4,
+      "the 2000s": 2,
+      "the 20th century": 2,
+      "between 1931 and 2016": 2,
+      "Switzerland": 2,
+      "WSL": 2,
+      "the late 19th and": 1,
+      "early 20th centuries": 1,
+      "the Swiss Federal Institute for Forest": 1,
+      "Snow and Landscape Research WSL": 1,
+      "the First World War": 1,
+      "the end of the 1940s": 1,
+      "the Swiss National Survey": 1,
+      "today": 1,
+      "some 7,000": 1,
+      "about 86 percent": 1,
+      "around 21,700": 1,
+      "between 1916 and 1947": 1,
+      "two": 1
+    },
+    "total_entities": 61,
+    "unique_entities": 50
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-historical-perspective-on-glacial-retreat.md",
+      "title": "En News Events/2022/08/a Historical Perspective On Glacial Retreat",
+      "language": "en",
+      "source_path": "en_news_events/2022/08/a-historical-perspective-on-glacial-retreat.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "1916",
+        "1931",
+        "1947",
+        "1960",
+        "2016",
+        "2021",
+        "2022"
+      ],
+      "time_periods": [
+        [
+          "1931",
+          "2016"
+        ],
+        [
+          "1916",
+          "1947"
+        ],
+        [
+          "1931",
+          "2016"
+        ],
+        [
+          "1931",
+          "2016"
+        ],
+        [
+          "2016",
+          "2021"
+        ]
+      ],
+      "temporal_context": "since, until, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bauder A",
+        "Daniel Farinotti",
+        "ETH Zurich",
+        "Erik Schytt",
+        "Glacier",
+        "Hugonnet"
+      ],
+      "people_with_roles": {
+        "Daniel Farinotti": [
+          "professor"
+        ],
+        "ETH Zurich": [
+          "researcher",
+          "professor"
+        ],
+        "Glacier": [
+          "scientist",
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10.5194/tc-16-3249-2022",
+        "12 percent",
+        "Snow and Landscape Research WSL",
+        "Swiss",
+        "about 86 percent",
+        "around 21,700",
+        "first",
+        "half",
+        "second",
+        "some 7,000",
+        "the First World War",
+        "third",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Huss M",
+        "Dehecq A",
+        "Landscape Research",
+        "Farinotti D",
+        "Schytt Mannerfelt",
+        "Swiss National",
+        "Historical Perspective",
+        "Erik Schytt",
+        "Hodel E",
+        "The Cryosphere",
+        "Retreat Glaciers",
+        "First World",
+        "Swiss Alps",
+        "Swiss Federal",
+        "Bauder A",
+        "En News",
+        "Hugonnet R",
+        "On Glacial",
+        "Daniel Farinotti",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Forest"
+      ],
+      "institutions": [
+        "ETH Zurich",
+        "Farinotti",
+        "Farinotti D. Halving",
+        "GLAMOS",
+        "Schytt Mannerfelt E",
+        "WSL",
+        "the Swiss Federal Institute for Forest",
+        "the Swiss National Survey"
+      ],
+      "locations": [
+        "Claridenfirn",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Swiss",
+        "the 2000s",
+        "the 20th century",
+        "between 1931 and 2016",
+        "Switzerland",
+        "WSL",
+        "the late 19th and",
+        "early 20th centuries",
+        "the Swiss Federal Institute for Forest"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Old data – new insights",
+          "Not all glaciers are under observation",
+          "Not all glaciers are equally affected",
+          "Reference"
+        ],
+        "content_length": 4861
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Schytt Mannerfelt E",
+        "GLAMOS",
+        "Hugonnet",
+        "2016",
+        "the Swiss National Survey",
+        "ERC",
+        "Glacier",
+        "1947",
+        "2022",
+        "1916",
+        "Erik Schytt",
+        "Farinotti",
+        "WSL",
+        "Farinotti D. Halving",
+        "Bauder A",
+        "1960",
+        "1931",
+        "Daniel Farinotti",
+        "ETH Zurich",
+        "2021",
+        "the Swiss Federal Institute for Forest"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "half",
+        "12 percent",
+        "some 7,000",
+        "when",
+        "about 86 percent",
+        "engineering",
+        "third",
+        "around 21,700",
+        "10.5194/tc-16-3249-2022",
+        "the First World War",
+        "who",
+        "what",
+        "how",
+        "first",
+        "Swiss",
+        "second",
+        "Snow and Landscape Research WSL",
+        "where"
+      ],
+      "graph_relations": [
+        "Daniel Farinotti_has_role_professor",
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_professor",
+        "Glacier_has_role_scientist",
+        "Glacier_has_role_researcher",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

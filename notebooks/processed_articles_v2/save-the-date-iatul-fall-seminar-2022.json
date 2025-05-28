@@ -1,0 +1,218 @@
+{
+  "filename": "save-the-date-iatul-fall-seminar-2022.md",
+  "original_filename": "save-the-date-iatul-fall-seminar-2022.html",
+  "source_path": "en_internal/2022/07/save-the-date-iatul-fall-seminar-2022.html",
+  "date": "2022-07",
+  "title": "Save The Date Iatul Fall Seminar 2022",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The ETH Library is the host and organiser of this year's Fall Seminar of the International Association of University Libraries (IATUL). For once, the event is also open to non-members of IATUL! Please save the date now: 13–15 December 2022.\n\nUnder the title \"Breaking new ground: scholarly communication and libraries\", speakers from libraries, science and publishing houses will shed light on the following topics over the course of three days:\n\nWe are pleased to offer you a perfect background and stage for the IATUL Fall Seminar in the surroundings of ETH Zurich and serve as an inspiring site for all participants.\n\nMore details about the IATUL Fall Seminar will be made available on our website in September 2022. We are looking forward to welcoming you to this inspiring event!\n\nWould you like to become a sponsoring partner for this year’s IATUL Fall Seminar? Please contact us via email at .\n\nMoving forward together – Through the power of networking #FocusHuman – Be inspired by people and learn something new."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Date Iatul Fall Seminar 2022",
+        "label": "ORG",
+        "start": 25,
+        "end": 57
+      },
+      {
+        "text": "The ETH Library",
+        "label": "ORG",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "year",
+        "label": "DATE",
+        "start": 50,
+        "end": 54
+      },
+      {
+        "text": "Fall Seminar",
+        "label": "FAC",
+        "start": 57,
+        "end": 69
+      },
+      {
+        "text": "the International Association of University Libraries",
+        "label": "ORG",
+        "start": 73,
+        "end": 126
+      },
+      {
+        "text": "13–15",
+        "label": "CARDINAL",
+        "start": 220,
+        "end": 225
+      },
+      {
+        "text": "December 2022",
+        "label": "DATE",
+        "start": 226,
+        "end": 239
+      },
+      {
+        "text": "three days",
+        "label": "DATE",
+        "start": 433,
+        "end": 443
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 554,
+        "end": 564
+      },
+      {
+        "text": "September 2022",
+        "label": "DATE",
+        "start": 701,
+        "end": 715
+      },
+      {
+        "text": "year",
+        "label": "DATE",
+        "start": 837,
+        "end": 841
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "The Date Iatul Fall Seminar 2022",
+        "The ETH Library",
+        "the International Association of University Libraries"
+      ],
+      "LOCATION": [
+        "Fall Seminar"
+      ],
+      "DATE": [
+        "December 2022",
+        "September 2022",
+        "three days",
+        "year"
+      ],
+      "MISC": [
+        "13–15"
+      ]
+    },
+    "entity_counts": {
+      "year": 2,
+      "The Date Iatul Fall Seminar 2022": 1,
+      "The ETH Library": 1,
+      "Fall Seminar": 1,
+      "the International Association of University Libraries": 1,
+      "13–15": 1,
+      "December 2022": 1,
+      "three days": 1,
+      "ETH Zurich": 1,
+      "September 2022": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "save-the-date-iatul-fall-seminar-2022.md",
+      "title": "En Internal/2022/07/save The Date Iatul Fall Seminar 2022",
+      "language": "en",
+      "source_path": "en_internal/2022/07/save-the-date-iatul-fall-seminar-2022.html"
+    },
+    "temporal": {
+      "publication_date": "2022-07",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "13–15"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "International Association",
+        "Iatul Fall",
+        "The Date",
+        "En Internal",
+        "Fall Seminar",
+        "IATUL Fall",
+        "ETH Zurich",
+        "University Libraries",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "The Date Iatul Fall Seminar 2022",
+        "The ETH Library",
+        "the International Association of University Libraries"
+      ],
+      "locations": [
+        "Fall Seminar"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "year",
+        "The Date Iatul Fall Seminar 2022",
+        "The ETH Library",
+        "Fall Seminar",
+        "the International Association of University Libraries",
+        "13–15",
+        "December 2022",
+        "three days",
+        "ETH Zurich",
+        "September 2022"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1078
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "The Date Iatul Fall Seminar 2022",
+        "2022",
+        "The ETH Library",
+        "ETH Zurich",
+        "the International Association of University Libraries"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "13–15",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

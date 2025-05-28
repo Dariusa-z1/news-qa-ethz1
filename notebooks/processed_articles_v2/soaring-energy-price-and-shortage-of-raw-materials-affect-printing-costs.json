@@ -1,0 +1,244 @@
+{
+  "filename": "soaring-energy-price-and-shortage-of-raw-materials-affect-printing-costs.md",
+  "original_filename": "soaring-energy-price-and-shortage-of-raw-materials-affect-printing-costs.html",
+  "source_path": "en_internal/2023/01/soaring-energy-price-and-shortage-of-raw-materials-affect-printing-costs.html",
+  "date": "2023-01",
+  "title": "Soaring Energy Price And Shortage Of Raw Materials Affect Printing Costs",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Low prices no longer viable",
+      "text": "- Cost of paper, films and packaging material up to 70% higher\n\n- Sharp increase in transport and energy costs\n\n- General cost-cutting measures at ETH Zurich\n\n- Internal contribution margin to be increased\n\n- Print offer must remain viable\n\nThe pandemic and the war in Ukraine have led to a surge in the costs of energy and raw materials, and a worldwide shortage of freight capacity. The impact of this is being felt everywhere, not least at the ETH printing centre."
+    },
+    {
+      "heading": "Low prices no longer viable",
+      "text": "Our previous pricing structure was extensively analysed in the face of the rising costs and ETH Zurich’s cost-cutting measures. Given the changed circumstances, our trademark very low prices are no longer economically viable. Accordingly, we are adjusting our prices at the start of the spring semester; in future, postage and shipping costs will be charged in full, based on actual expenditure."
+    },
+    {
+      "heading": "Still cheaper than outside providers",
+      "text": "The good news for ETH members is that even after the price adjustment, you can still print more cheaply in-house than with third-party providers. For example, printing a colour A0 poster yourself via the Plot on Demand webshop will cost 11.50 Swiss francs, which is still significantly less than most online printers, who also often do not offer single prints or small quantities."
+    },
+    {
+      "heading": "Sustaining our high-quality service",
+      "text": "The new pricing structure will enable us to continue to execute print jobs in-house using the latest printing and production equipment. It will mean we can keep our promise of high quality and safeguard the jobs of our colleagues who work so enthusiastically at the ETH printing centre for you.\n\nDo you need to know anything more, or do you have any questions about the price adjustment? We welcome suggestions or feedback; simply write an email to:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "up to 70%",
+        "label": "PERCENT",
+        "start": 46,
+        "end": 55
+      },
+      {
+        "text": "ETH Zurich - Internal",
+        "label": "ORG",
+        "start": 145,
+        "end": 166
+      },
+      {
+        "text": "Ukraine",
+        "label": "GPE",
+        "start": 264,
+        "end": 271
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 442,
+        "end": 445
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 92,
+        "end": 104
+      },
+      {
+        "text": "the start of the spring semester",
+        "label": "DATE",
+        "start": 270,
+        "end": 302
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 123,
+        "end": 128
+      },
+      {
+        "text": "A0",
+        "label": "CARDINAL",
+        "start": 177,
+        "end": 179
+      },
+      {
+        "text": "the Plot on Demand",
+        "label": "ORG",
+        "start": 200,
+        "end": 218
+      },
+      {
+        "text": "11.50 Swiss francs",
+        "label": "MONEY",
+        "start": 237,
+        "end": 255
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 266,
+        "end": 269
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich’s"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich - Internal",
+        "the Plot on Demand"
+      ],
+      "LOCATION": [
+        "Ukraine"
+      ],
+      "DATE": [
+        "the start of the spring semester"
+      ],
+      "MISC": [
+        "11.50 Swiss francs",
+        "A0",
+        "third",
+        "up to 70%"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "up to 70%": 1,
+      "ETH Zurich - Internal": 1,
+      "Ukraine": 1,
+      "ETH Zurich’s": 1,
+      "the start of the spring semester": 1,
+      "third": 1,
+      "A0": 1,
+      "the Plot on Demand": 1,
+      "11.50 Swiss francs": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "soaring-energy-price-and-shortage-of-raw-materials-affect-printing-costs.md",
+      "title": "En Internal/2023/01/soaring Energy Price And Shortage Of Raw Materials Affect Printing Costs",
+      "language": "en",
+      "source_path": "en_internal/2023/01/soaring-energy-price-and-shortage-of-raw-materials-affect-printing-costs.html"
+    },
+    "temporal": {
+      "publication_date": "2023-01",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "11.50 Swiss francs",
+        "third",
+        "up to 70%"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "And Shortage",
+        "Energy Price",
+        "Materials Affect",
+        "Printing Costs",
+        "En Internal",
+        "Of Raw",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich - Internal",
+        "the Plot on Demand"
+      ],
+      "locations": [
+        "Ukraine"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "up to 70%",
+        "ETH Zurich - Internal",
+        "Ukraine",
+        "ETH Zurich’s",
+        "the start of the spring semester",
+        "third",
+        "A0",
+        "the Plot on Demand",
+        "11.50 Swiss francs"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Low prices no longer viable",
+          "Low prices no longer viable",
+          "Still cheaper than outside providers",
+          "Sustaining our high-quality service"
+        ],
+        "content_length": 1787
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the Plot on Demand",
+        "ETH Zurich - Internal",
+        "ETH Zurich’s",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "third",
+        "who",
+        "where",
+        "11.50 Swiss francs",
+        "engineering",
+        "up to 70%"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

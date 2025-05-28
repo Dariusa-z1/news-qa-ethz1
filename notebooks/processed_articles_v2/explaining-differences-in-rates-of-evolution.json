@@ -1,0 +1,344 @@
+{
+  "filename": "explaining-differences-in-rates-of-evolution.md",
+  "original_filename": "explaining-differences-in-rates-of-evolution.html",
+  "source_path": "en_news_events/2018/12/explaining-differences-in-rates-of-evolution.html",
+  "date": "2018-12",
+  "title": "Explaining Differences In Rates Of Evolution",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Mysterious discrepancy",
+      "text": "The rate at which evolution produces new species of plants and animals, or at which existing species die out, is a subject of much interest – and not only to scientists. That’s because the rates of speciation and extinction can tell us much about the history of our planet. If lots of new species emerge during an interval, this would indicate favourable conditions for life on earth. In contrast, extraordinary events can trigger mass extinctions, the most famous example of which was the event that wiped out the dinosaurs 66 million years ago, probably caused by a meteorite impact."
+    },
+    {
+      "heading": "Mysterious discrepancy",
+      "text": "It is difficult to determine the frequency with which species in the past emerged and then went extinct again. “There was no one there to witness these processes as they occurred,” says Rachel Warnock, a postdoc in the Computational Evolution research group at ETH Zurich. This is why scientists attempt to deduce the rates of speciation and extinction through indirect methods. Some information comes from fossils dated to different geological eras.\n\nAnother source of information comes from species that exist today. In particular, from what are known as phylogenetic (or evolutionary) trees of living species, which are based on DNA analysis. By applying statistical methods to these trees, scientists can determine how often new species emerged and old ones died off in the past. However, these two approaches are problematic in that they often produce conflicting results: the speciation and extinction rates derived from the fossil record are often much higher than those calculated through phylogenetic methods. To date, it has been unclear what was responsible for this discrepancy."
+    },
+    {
+      "heading": "Combining different approaches",
+      "text": "But now, in collaboration with other scientists, Rachel Warnock and head of the Computational Evolution research group Tanja Stadler have found an explanation. “The two methods are based on different assumptions about how new species are formed,” Warnock says. This is why they arrive at different conclusions. But if they account for these different assumptions, then it is possible to harmonise the results.\n\nThe researchers were able to demonstrate this by looking at various groups of animals, such as whales, canines and bovines. Their success was due in part to a computer model they developed themselves: “Now we’re able to unify both perspectives,” says Warnock. The results of their work were published in the respected journal Nature Communications ."
+    },
+    {
+      "heading": "Insights into speciation",
+      "text": "Current thinking maintains that there is not one, but rather multiple mechanisms by which new species emerge (see box). Each mechanism leads to different results; the process may produce one or two new species, while the original species either continues to exist or dies out. “When using the statistical methods to analyse phylogenies and fossils, scientists have thus far not taken these different possibilities explicitly into account,” Warnock says. The new model now incorporates them, thus ensuring that fossil-based and phylogenetic information produce compatible speciation and extinction rates.\n\nIt also provides indications as to which speciation mechanism predominated in a particular animal or plant group. For example, the evolutionary tree and the fossil record of whales reveals that the most frequent mode may be anagenesis; that is, original species are gradually transformed into new ones (mode 3; see box). In consequence, the model could be used in future studies to gain new insights into the evolution of organisms. It also helps to harmonise the results of fossil‐based and phylogenetic analysis better than before.\n\nSilvestro D, Warnock RCM, Gavryushkina A, Stadler T. Closing the gap between palaeontological and neontological speciation and extinction rate estimates. Nature Communications, volume 9, Article number: 5237 (2018). doi: 10.1038/s41467-018-07622-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "66 million years ago",
+        "label": "DATE",
+        "start": 525,
+        "end": 545
+      },
+      {
+        "text": "Rachel Warnock",
+        "label": "PERSON",
+        "start": 186,
+        "end": 200
+      },
+      {
+        "text": "the Computational Evolution",
+        "label": "ORG",
+        "start": 215,
+        "end": 242
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 261,
+        "end": 271
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 511,
+        "end": 516
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 798,
+        "end": 801
+      },
+      {
+        "text": "Rachel Warnock",
+        "label": "PERSON",
+        "start": 49,
+        "end": 63
+      },
+      {
+        "text": "the Computational Evolution",
+        "label": "ORG",
+        "start": 76,
+        "end": 103
+      },
+      {
+        "text": "Tanja Stadler",
+        "label": "PERSON",
+        "start": 119,
+        "end": 132
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 165,
+        "end": 168
+      },
+      {
+        "text": "Warnock",
+        "label": "PERSON",
+        "start": 661,
+        "end": 668
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 736,
+        "end": 757
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 187,
+        "end": 190
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 194,
+        "end": 197
+      },
+      {
+        "text": "Silvestro",
+        "label": "PERSON",
+        "start": 1138,
+        "end": 1147
+      },
+      {
+        "text": "Gavryushkina A",
+        "label": "ORG",
+        "start": 1164,
+        "end": 1178
+      },
+      {
+        "text": "Stadler T. Closing",
+        "label": "PERSON",
+        "start": 1180,
+        "end": 1198
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1292,
+        "end": 1313
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1359,
+        "end": 1366
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Rachel Warnock",
+        "Silvestro",
+        "Stadler T. Closing",
+        "Tanja Stadler",
+        "Warnock"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "En News",
+        "Gavryushkina A",
+        "Nature Communications",
+        "the Computational Evolution"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "66 million years ago",
+        "today"
+      ],
+      "MISC": [
+        "10.1038",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "two": 3,
+      "Rachel Warnock": 2,
+      "the Computational Evolution": 2,
+      "Nature Communications": 2,
+      "En News": 1,
+      "66 million years ago": 1,
+      "ETH Zurich": 1,
+      "today": 1,
+      "Tanja Stadler": 1,
+      "Warnock": 1,
+      "one": 1,
+      "Silvestro": 1,
+      "Gavryushkina A": 1,
+      "Stadler T. Closing": 1,
+      "10.1038": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "explaining-differences-in-rates-of-evolution.md",
+      "title": "En News Events/2018/12/explaining Differences in Rates Of Evolution",
+      "language": "en",
+      "source_path": "en_news_events/2018/12/explaining-differences-in-rates-of-evolution.html"
+    },
+    "temporal": {
+      "publication_date": "2018-12",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Rachel Warnock",
+        "Silvestro",
+        "Stadler T. Closing",
+        "Tanja Stadler",
+        "Warnock"
+      ],
+      "people_with_roles": {
+        "Rachel Warnock": [
+          "scientist",
+          "head"
+        ],
+        "Tanja Stadler": [
+          "scientist",
+          "head"
+        ],
+        "Warnock": [
+          "scientist",
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Warnock RCM",
+        "Computational Evolution",
+        "Rates Of",
+        "Rachel Warnock",
+        "En News",
+        "Tanja Stadler",
+        "Nature Communications",
+        "Silvestro D",
+        "ETH Zurich",
+        "Stadler T",
+        "Evolution The",
+        "Gavryushkina A"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "En News",
+        "Gavryushkina A",
+        "Nature Communications",
+        "the Computational Evolution"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "two",
+        "Rachel Warnock",
+        "the Computational Evolution",
+        "Nature Communications",
+        "En News",
+        "66 million years ago",
+        "ETH Zurich",
+        "today",
+        "Tanja Stadler",
+        "Warnock"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Mysterious discrepancy",
+          "Mysterious discrepancy",
+          "Combining different approaches",
+          "Insights into speciation"
+        ],
+        "content_length": 3893
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Warnock",
+        "Rachel Warnock",
+        "En News",
+        "ETH Zurich",
+        "Tanja Stadler",
+        "Nature Communications",
+        "the Computational Evolution",
+        "Stadler T. Closing",
+        "Gavryushkina A",
+        "Silvestro"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "who",
+        "10.1038",
+        "biology",
+        "what",
+        "how",
+        "why",
+        "when"
+      ],
+      "graph_relations": [
+        "Rachel Warnock_has_role_scientist",
+        "Rachel Warnock_has_role_head",
+        "Tanja Stadler_has_role_scientist",
+        "Tanja Stadler_has_role_head",
+        "Warnock_has_role_scientist",
+        "Warnock_has_role_head",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

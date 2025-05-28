@@ -1,0 +1,271 @@
+{
+  "filename": "coffee-lectures-in-10-minuten-zu-neuem-knowhow.md",
+  "original_filename": "coffee-lectures-in-10-minuten-zu-neuem-knowhow.html",
+  "source_path": "en_internal/2021/05/coffee-lectures-in-10-minuten-zu-neuem-knowhow.html",
+  "date": "2021-05",
+  "title": "Coffee Lectures In 10 Minuten Zu Neuem Knowhow",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "How the Coffee Lectures work",
+      "text": "- Statista: statistics research made easy! – 2 June (in German)\n\n- What are Persistent Identifiers (PIDs) and why should I use them? – 9 June\n\n- Searching and citing images and icons in presentations – 16 June\n\n- Research data documentation: best practices in file naming and folder structure organisation – 23 June\n\n- What do I have to consider when entering research data into the Research Collection (file formats, preparation of data) – 30 June\n\nGet to know a new tool in our Coffee Lectures that assists you in your academic work or learn important tips and tricks on topics such as persistent identifier, searching and citing images or statistical research."
+    },
+    {
+      "heading": "How the Coffee Lectures work",
+      "text": "Each session lasts ten minutes. You will receive concise, condensed information on a particular topic and have time to ask questions at the end. Just the right length of time to enjoy a coffee while you listen.\n\nThe online events will be held via Zoom at 3.15 p.m. on Wednesday afternoons from 2 to 30 Juni 2021. Event language is English.\n\nRegistration is not required. For browser-based Zoom sessions, we recommend using Chrome."
+    },
+    {
+      "heading": "Subscribe to Newsletter",
+      "text": "Good to know : For many of the past Coffee Lectures , a recording and/or the slides of the presentations are available on our website."
+    },
+    {
+      "heading": "New topics are welcome!",
+      "text": "Do you have any questions about a tool or would you like more in-depth information on a topic related to information search, scientific writing and publishing or archiving? Send us your proposed topic to and we will see if it is suitable for a Coffee Lecture.\n\nMore than just data – Benefit from know-how\n\n#KnowHow – The ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Lectures",
+        "label": "PERSON",
+        "start": 27,
+        "end": 35
+      },
+      {
+        "text": "2 June",
+        "label": "DATE",
+        "start": 45,
+        "end": 51
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 56,
+        "end": 62
+      },
+      {
+        "text": "23 June",
+        "label": "DATE",
+        "start": 305,
+        "end": 312
+      },
+      {
+        "text": "the Research Collection",
+        "label": "ORG",
+        "start": 375,
+        "end": 398
+      },
+      {
+        "text": "30 June",
+        "label": "DATE",
+        "start": 437,
+        "end": 444
+      },
+      {
+        "text": "Coffee Lectures",
+        "label": "PERSON",
+        "start": 475,
+        "end": 490
+      },
+      {
+        "text": "ten minutes",
+        "label": "TIME",
+        "start": 19,
+        "end": 30
+      },
+      {
+        "text": "3.15 p.m.",
+        "label": "TIME",
+        "start": 254,
+        "end": 263
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE",
+        "start": 267,
+        "end": 276
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 330,
+        "end": 337
+      },
+      {
+        "text": "Chrome",
+        "label": "PERSON",
+        "start": 421,
+        "end": 427
+      },
+      {
+        "text": "Coffee Lectures",
+        "label": "PERSON",
+        "start": 36,
+        "end": 51
+      },
+      {
+        "text": "a Coffee Lecture",
+        "label": "PERSON",
+        "start": 242,
+        "end": 258
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chrome",
+        "Coffee Lectures",
+        "Lectures",
+        "a Coffee Lecture"
+      ],
+      "ORG": [
+        "the Research Collection"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "2 June",
+        "23 June",
+        "3.15 p.m.",
+        "30 June",
+        "Wednesday",
+        "ten minutes"
+      ],
+      "MISC": [
+        "English",
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "Coffee Lectures": 2,
+      "Lectures": 1,
+      "2 June": 1,
+      "German": 1,
+      "23 June": 1,
+      "the Research Collection": 1,
+      "30 June": 1,
+      "ten minutes": 1,
+      "3.15 p.m.": 1,
+      "Wednesday": 1,
+      "English": 1,
+      "Chrome": 1,
+      "a Coffee Lecture": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "coffee-lectures-in-10-minuten-zu-neuem-knowhow.md",
+      "title": "En Internal/2021/05/coffee Lectures in 10 Minuten zu Neuem Knowhow",
+      "language": "en",
+      "source_path": "en_internal/2021/05/coffee-lectures-in-10-minuten-zu-neuem-knowhow.html"
+    },
+    "temporal": {
+      "publication_date": "2021-05",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chrome",
+        "Coffee Lectures",
+        "Lectures",
+        "a Coffee Lecture"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "mathematics"
+      ],
+      "research_topics": [
+        "English",
+        "German"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Coffee Lecture",
+        "Neuem Knowhow",
+        "Persistent Identifiers",
+        "En Internal",
+        "Research Collection",
+        "Coffee Lectures",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "the Research Collection"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Coffee Lectures",
+        "Lectures",
+        "2 June",
+        "German",
+        "23 June",
+        "the Research Collection",
+        "30 June",
+        "ten minutes",
+        "3.15 p.m.",
+        "Wednesday"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "How the Coffee Lectures work",
+          "How the Coffee Lectures work",
+          "Subscribe to Newsletter",
+          "New topics are welcome!"
+        ],
+        "content_length": 1679
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Lectures",
+        "Chrome",
+        "EU",
+        "a Coffee Lecture",
+        "Coffee Lectures",
+        "the Research Collection",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "who",
+        "English",
+        "what",
+        "how",
+        "German",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "filename": "research-collection-eth-zurich-new-publication-platform.md",
+  "original_filename": "research-collection-eth-zurich-new-publication-platform.html",
+  "source_path": "en_internal/2017/06/research-collection-eth-zurich-new-publication-platform.html",
+  "date": "2017-06",
+  "title": "Research Collection Eth Zurich New Publication Platform",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Users of the AEM publications component",
+      "text": "The Research Collection is therefore simultaneously:\n\nThe Research Collection replaces the Open Access repository ETH E-Collection and the institutional bibliography ETH E-Citations, and contains all data from the two previous applications.\n\nHere are some of the features that members of ETH Zurich who publish in the Research Collection will benefit from:\n\nAn overview of all the functions is provided on the ETH Library website and in the Flyer Research Collection (pdf, 176.98 kB) .\n\nWe have also condensed the most important advantages into a short video (1:05 min.)."
+    },
+    {
+      "heading": "Subscribe to Newsletter",
+      "text": "Youtube – ETH Library"
+    },
+    {
+      "heading": "Users of the AEM publications component",
+      "text": "Please note the information provided by Corporate Communications on the AEM release planning .\n\nThe Research Collection is an ETH Library service."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Research Collection",
+        "label": "ORG",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "The Research Collection",
+        "label": "ORG",
+        "start": 53,
+        "end": 76
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 165,
+        "end": 168
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 213,
+        "end": 216
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 286,
+        "end": 296
+      },
+      {
+        "text": "the Research Collection",
+        "label": "ORG",
+        "start": 312,
+        "end": 335
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 403,
+        "end": 418
+      },
+      {
+        "text": "the Flyer Research Collection",
+        "label": "ORG",
+        "start": 434,
+        "end": 463
+      },
+      {
+        "text": "176.98",
+        "label": "CARDINAL",
+        "start": 470,
+        "end": 476
+      },
+      {
+        "text": "1:05",
+        "label": "TIME",
+        "start": 556,
+        "end": 560
+      },
+      {
+        "text": "Corporate Communications",
+        "label": "ORG",
+        "start": 40,
+        "end": 64
+      },
+      {
+        "text": "AEM",
+        "label": "ORG",
+        "start": 72,
+        "end": 75
+      },
+      {
+        "text": "The Research Collection",
+        "label": "ORG",
+        "start": 95,
+        "end": 118
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 125,
+        "end": 136
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "AEM",
+        "Corporate Communications",
+        "ETH",
+        "ETH Library",
+        "The Research Collection",
+        "the ETH Library",
+        "the Flyer Research Collection",
+        "the Research Collection"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "1:05"
+      ],
+      "MISC": [
+        "176.98",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "The Research Collection": 3,
+      "ETH": 1,
+      "two": 1,
+      "ETH Zurich": 1,
+      "the Research Collection": 1,
+      "the ETH Library": 1,
+      "the Flyer Research Collection": 1,
+      "176.98": 1,
+      "1:05": 1,
+      "Corporate Communications": 1,
+      "AEM": 1,
+      "ETH Library": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "research-collection-eth-zurich-new-publication-platform.md",
+      "title": "En Internal/2017/06/research Collection Eth Zurich New Publication Platform",
+      "language": "en",
+      "source_path": "en_internal/2017/06/research-collection-eth-zurich-new-publication-platform.html"
+    },
+    "temporal": {
+      "publication_date": "2017-06",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "176.98"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Corporate Communications",
+        "ETH E",
+        "The Research",
+        "Collection Eth",
+        "ETH Library",
+        "Zurich New",
+        "En Internal",
+        "Research Collection",
+        "Publication Platform",
+        "ETH Zurich",
+        "Open Access",
+        "Flyer Research"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AEM",
+        "Corporate Communications",
+        "ETH",
+        "ETH Library",
+        "The Research Collection",
+        "the ETH Library",
+        "the Flyer Research Collection",
+        "the Research Collection"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "The Research Collection",
+        "ETH",
+        "two",
+        "ETH Zurich",
+        "the Research Collection",
+        "the ETH Library",
+        "the Flyer Research Collection",
+        "176.98",
+        "1:05",
+        "Corporate Communications"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Users of the AEM publications component",
+          "Subscribe to Newsletter",
+          "Users of the AEM publications component"
+        ],
+        "content_length": 816
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Corporate Communications",
+        "ETH",
+        "2017",
+        "the Research Collection",
+        "ETH Library",
+        "AEM",
+        "The Research Collection",
+        "ETH Zurich",
+        "the ETH Library",
+        "the Flyer Research Collection"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "176.98",
+        "who",
+        "what",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

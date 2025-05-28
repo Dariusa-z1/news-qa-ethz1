@@ -1,0 +1,360 @@
+{
+  "filename": "retrospektive-eth-zurich-met-new-york.md",
+  "original_filename": "retrospektive-eth-zurich-met-new-york.html",
+  "source_path": "en_internal/2014/07/retrospektive-eth-zurich-met-new-york.html",
+  "date": "2014-07",
+  "title": "Retrospektive Eth Zurich Met New York",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Retrospect ETH Zurich Met New York",
+      "text": "Building on Zurich’s role as a 21st-century hub for scientific and technological innovation, Zürich Meets New York: A Festival of Swiss Ingenuity took place from 16 to 23 May 2014. It highlighted the contemporary relevance of visionary movements and ideas born in Zurich and their impact on American culture. The festival featured more than 25 events, 11 of which were hosted by ETH Zurich and its partners at venues across New York City. The retrospect, ETH Zurich Met New York will look back at ETH Zurich’s public appearance in New York City as part of the Zürich Meets New York festival. A festive setting will feature photographs, poster column designs and videos, showcasing ETH Zurich’s contribution to the Zürich Meets New York festival.\n\nETH Zurich Met New York 22 July – 12 August 2014 Main Hall\n\nETH Zurich Rämistrasse 101 8092 Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Eth Zurich Met",
+        "label": "ORG",
+        "start": 34,
+        "end": 48
+      },
+      {
+        "text": "New York",
+        "label": "GPE",
+        "start": 49,
+        "end": 57
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 12,
+        "end": 18
+      },
+      {
+        "text": "21st-century",
+        "label": "DATE",
+        "start": 31,
+        "end": 43
+      },
+      {
+        "text": "Zürich Meets",
+        "label": "PERSON",
+        "start": 93,
+        "end": 105
+      },
+      {
+        "text": "New York",
+        "label": "GPE",
+        "start": 106,
+        "end": 114
+      },
+      {
+        "text": "A Festival of",
+        "label": "EVENT",
+        "start": 116,
+        "end": 129
+      },
+      {
+        "text": "Swiss Ingenuity",
+        "label": "ORG",
+        "start": 130,
+        "end": 145
+      },
+      {
+        "text": "16 to 23 May 2014",
+        "label": "DATE",
+        "start": 162,
+        "end": 179
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 264,
+        "end": 270
+      },
+      {
+        "text": "American",
+        "label": "NORP",
+        "start": 291,
+        "end": 299
+      },
+      {
+        "text": "more than 25",
+        "label": "CARDINAL",
+        "start": 331,
+        "end": 343
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 379,
+        "end": 389
+      },
+      {
+        "text": "New York City",
+        "label": "GPE",
+        "start": 424,
+        "end": 437
+      },
+      {
+        "text": "ETH Zurich Met",
+        "label": "ORG",
+        "start": 455,
+        "end": 469
+      },
+      {
+        "text": "New York",
+        "label": "GPE",
+        "start": 470,
+        "end": 478
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "FAC",
+        "start": 497,
+        "end": 509
+      },
+      {
+        "text": "New York City",
+        "label": "GPE",
+        "start": 531,
+        "end": 544
+      },
+      {
+        "text": "the Zürich Meets",
+        "label": "ORG",
+        "start": 556,
+        "end": 572
+      },
+      {
+        "text": "New York",
+        "label": "GPE",
+        "start": 573,
+        "end": 581
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 681,
+        "end": 693
+      },
+      {
+        "text": "the Zürich Meets",
+        "label": "ORG",
+        "start": 710,
+        "end": 726
+      },
+      {
+        "text": "New York",
+        "label": "GPE",
+        "start": 727,
+        "end": 735
+      },
+      {
+        "text": "ETH Zurich Met",
+        "label": "ORG",
+        "start": 746,
+        "end": 760
+      },
+      {
+        "text": "New York",
+        "label": "GPE",
+        "start": 761,
+        "end": 769
+      },
+      {
+        "text": "22 July – 12 August 2014",
+        "label": "DATE",
+        "start": 770,
+        "end": 794
+      },
+      {
+        "text": "Main Hall",
+        "label": "FAC",
+        "start": 795,
+        "end": 804
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 809,
+        "end": 815
+      },
+      {
+        "text": "101 8092 Zurich",
+        "label": "PERCENT",
+        "start": 828,
+        "end": 843
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Zürich Meets"
+      ],
+      "ORG": [
+        "ETH Zurich Met",
+        "Eth Zurich Met",
+        "Swiss Ingenuity",
+        "the Zürich Meets"
+      ],
+      "LOCATION": [
+        "ETH Zurich’s",
+        "Main Hall",
+        "New York",
+        "New York City",
+        "Zurich"
+      ],
+      "DATE": [
+        "16 to 23 May 2014",
+        "21st-century",
+        "22 July – 12 August 2014"
+      ],
+      "MISC": [
+        "101 8092 Zurich",
+        "A Festival of",
+        "American",
+        "more than 25"
+      ]
+    },
+    "entity_counts": {
+      "New York": 6,
+      "Zurich": 3,
+      "New York City": 2,
+      "ETH Zurich Met": 2,
+      "ETH Zurich’s": 2,
+      "the Zürich Meets": 2,
+      "Eth Zurich Met": 1,
+      "21st-century": 1,
+      "Zürich Meets": 1,
+      "A Festival of": 1,
+      "Swiss Ingenuity": 1,
+      "16 to 23 May 2014": 1,
+      "American": 1,
+      "more than 25": 1,
+      "ETH Zurich": 1,
+      "22 July – 12 August 2014": 1,
+      "Main Hall": 1,
+      "101 8092 Zurich": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "retrospektive-eth-zurich-met-new-york.md",
+      "title": "En Internal/2014/07/retrospektive Eth Zurich Met New York",
+      "language": "en",
+      "source_path": "en_internal/2014/07/retrospektive-eth-zurich-met-new-york.html"
+    },
+    "temporal": {
+      "publication_date": "2014-07",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Zürich Meets"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "101 8092 Zurich",
+        "A Festival of",
+        "American",
+        "more than 25"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Meets New",
+        "Main Hall",
+        "Swiss Ingenuity",
+        "En Internal",
+        "New York",
+        "York Building",
+        "A Festival",
+        "ETH Zurich",
+        "Eth Zurich",
+        "Met New"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich Met",
+        "Eth Zurich Met",
+        "Swiss Ingenuity",
+        "the Zürich Meets"
+      ],
+      "locations": [
+        "ETH Zurich’s",
+        "Main Hall",
+        "New York",
+        "New York City",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "New York",
+        "Zurich",
+        "New York City",
+        "ETH Zurich Met",
+        "ETH Zurich’s",
+        "the Zürich Meets",
+        "Eth Zurich Met",
+        "21st-century",
+        "Zürich Meets",
+        "A Festival of"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Retrospect ETH Zurich Met New York"
+        ],
+        "content_length": 903
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich Met",
+        "Swiss Ingenuity",
+        "Zürich Meets",
+        "the Zürich Meets",
+        "Eth Zurich Met",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "American",
+        "more than 25",
+        "101 8092 Zurich",
+        "how",
+        "A Festival of",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

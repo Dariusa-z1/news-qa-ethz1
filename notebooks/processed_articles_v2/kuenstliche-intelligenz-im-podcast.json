@@ -1,0 +1,230 @@
+{
+  "filename": "kuenstliche-intelligenz-im-podcast.md",
+  "original_filename": "kuenstliche-intelligenz-im-podcast.html",
+  "source_path": "de_news_events/2019/08/kuenstliche-intelligenz-im-podcast.html",
+  "date": "2019-08",
+  "title": "Kuenstliche Intelligenz Im Podcast",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Künstliche Intelligenz und maschinelles Lernen lassen uns die menschliche Intelligenz in einem neuen Licht sehen. Im Podcast sprechen wir mit den ETH-Professoren Benjamin Grewe, Simone Schürle und Thomas Hofmann über Vorteile und auch Gefahren der Künstlichen Intelligenz. Wir werfen einen Blick in die Zukunft und sprechen über neue Technologien, wie z. B. kleine Implantate zur Verbesserung des menschlichen Gehirns. Wie nah ist die Fiktion bereits der Realität?\n\nMit dem Thema Science Fiction – Science Facts befasst sich auch die diesjährige externe Seite Scientifica , die Wissenschaftstage von Universität und ETH Zürich, vom 30. August bis 1. September."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Im Podcast",
+        "label": "MISC",
+        "start": 47,
+        "end": 57
+      },
+      {
+        "text": "ETH-Professoren",
+        "label": "ORG",
+        "start": 146,
+        "end": 161
+      },
+      {
+        "text": "Benjamin Grewe",
+        "label": "PER",
+        "start": 162,
+        "end": 176
+      },
+      {
+        "text": "Simone Schürle",
+        "label": "PER",
+        "start": 178,
+        "end": 192
+      },
+      {
+        "text": "Thomas Hofmann",
+        "label": "PER",
+        "start": 197,
+        "end": 211
+      },
+      {
+        "text": "z. B.",
+        "label": "PER",
+        "start": 352,
+        "end": 357
+      },
+      {
+        "text": "Scientifica",
+        "label": "PER",
+        "start": 559,
+        "end": 570
+      },
+      {
+        "text": "Universität",
+        "label": "ORG",
+        "start": 599,
+        "end": 610
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 615,
+        "end": 625
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Benjamin Grewe",
+        "De News",
+        "Scientifica",
+        "Simone Schürle",
+        "Thomas Hofmann",
+        "z. B."
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Professoren",
+        "Universität"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "Im Podcast"
+      ]
+    },
+    "entity_counts": {
+      "De News": 1,
+      "Im Podcast": 1,
+      "ETH-Professoren": 1,
+      "Benjamin Grewe": 1,
+      "Simone Schürle": 1,
+      "Thomas Hofmann": 1,
+      "z. B.": 1,
+      "Scientifica": 1,
+      "Universität": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "kuenstliche-intelligenz-im-podcast.md",
+      "title": "De News Events/2019/08/kuenstliche Intelligenz Im Podcast",
+      "language": "de",
+      "source_path": "de_news_events/2019/08/kuenstliche-intelligenz-im-podcast.html"
+    },
+    "temporal": {
+      "publication_date": "2019-08",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Benjamin Grewe",
+        "De News",
+        "Scientifica",
+        "Simone Schürle",
+        "Thomas Hofmann",
+        "z. B."
+      ],
+      "people_with_roles": {
+        "Benjamin Grewe": [
+          "professor"
+        ],
+        "Simone Schürle": [
+          "professor"
+        ],
+        "Thomas Hofmann": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Im Podcast"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Science Facts",
+        "Thomas Hofmann",
+        "Seite Scientifica",
+        "Intelligenz Im",
+        "De News",
+        "Thema Science",
+        "Benjamin Grewe",
+        "Im Podcast",
+        "ETH-Professoren"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Professoren",
+        "Universität"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De News",
+        "Im Podcast",
+        "ETH-Professoren",
+        "Benjamin Grewe",
+        "Simone Schürle",
+        "Thomas Hofmann",
+        "z. B.",
+        "Scientifica",
+        "Universität",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 718
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Universität",
+        "Scientifica",
+        "Simone Schürle",
+        "Thomas Hofmann",
+        "2019",
+        "EU",
+        "ETH Zürich",
+        "De News",
+        "Benjamin Grewe",
+        "ETH-Professoren",
+        "z. B."
+      ],
+      "semantic_concepts": [
+        "who",
+        "Im Podcast"
+      ],
+      "graph_relations": [
+        "Benjamin Grewe_has_role_professor",
+        "Simone Schürle_has_role_professor",
+        "Thomas Hofmann_has_role_professor"
+      ]
+    }
+  }
+}

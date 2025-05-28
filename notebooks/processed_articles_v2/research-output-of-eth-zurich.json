@@ -1,0 +1,163 @@
+{
+  "filename": "research-output-of-eth-zurich.md",
+  "original_filename": "research-output-of-eth-zurich.html",
+  "source_path": "en_internal/2016/03/research-output-of-eth-zurich.html",
+  "date": "2016-03",
+  "title": "Research Output Of Eth Zurich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Of these, 61 % are journal articles and 24 % conference reports.\n\nETH E-Citations provides details on a long-term basis of the academic publications that have originated at ETH Zurich and comprises a total of about 120,000 entries. With this, the platform gives a broad overview over the research activities und results at ETH Zurich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "61 %",
+        "label": "PERCENT",
+        "start": 10,
+        "end": 14
+      },
+      {
+        "text": "24 %",
+        "label": "PERCENT",
+        "start": 40,
+        "end": 44
+      },
+      {
+        "text": "ETH E-Citations",
+        "label": "PERSON",
+        "start": 65,
+        "end": 80
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 172,
+        "end": 182
+      },
+      {
+        "text": "about 120,000",
+        "label": "CARDINAL",
+        "start": 208,
+        "end": 221
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 322,
+        "end": 332
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH E-Citations"
+      ],
+      "ORG": [
+        "ETH Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "24 %",
+        "61 %",
+        "about 120,000"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "61 %": 1,
+      "24 %": 1,
+      "ETH E-Citations": 1,
+      "about 120,000": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "research-output-of-eth-zurich.md",
+      "title": "En Internal/2016/03/research Output Of Eth Zurich",
+      "language": "en",
+      "source_path": "en_internal/2016/03/research-output-of-eth-zurich.html"
+    },
+    "temporal": {
+      "publication_date": "2016-03",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH E-Citations"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "24 %",
+        "61 %",
+        "about 120,000"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH E",
+        "En Internal",
+        "ETH Zurich",
+        "Eth Zurich",
+        "Output Of"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "61 %",
+        "24 %",
+        "ETH E-Citations",
+        "about 120,000"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 384
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "ETH E-Citations",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "24 %",
+        "what",
+        "61 %",
+        "about 120,000"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

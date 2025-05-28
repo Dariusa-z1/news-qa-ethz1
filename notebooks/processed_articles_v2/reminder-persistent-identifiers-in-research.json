@@ -1,0 +1,257 @@
+{
+  "filename": "reminder-persistent-identifiers-in-research.md",
+  "original_filename": "reminder-persistent-identifiers-in-research.html",
+  "source_path": "de_internal/2019/08/reminder-persistent-identifiers-in-research.html",
+  "date": "2019-08",
+  "title": "Reminder Persistent Identifiers In Research",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Es hat noch freie Plätze: Die Anmeldung läuft bis 31. August!\n\nZu seinem 10-jährigen Bestehen lädt der DOI-Desk der ETH Zürich zu einem eintägigen Event zum Thema « Persistent Identifiers in Research » ein. Persistent Identifiers (PID) leisten einen zentralen Beitrag dazu, die Auffindbarkeit von digitalen Objekten aus Wissenschaft und Forschung im Internet sicherzustellen.\n\nWir freuen uns deshalb sehr, am Freitag, 13. September 2019 Referentinnen und Referenten präsentieren zu können, die dieses aktuelle Thema von ganz unterschiedlicher Seite beleuchten werden.\n\nDer Fokus der Präsentationen liegt auf aktuellen Anwendungsfällen für Persistent Identifiers in der Forschung, sowie neuen Ideen, Entwicklungen und Initiativen für die Zukunft. Sei dies aus Provider-Sicht wie DataCite und ORCID, oder in laufenden Projekten. Als Ausblick werden wir einen Blick auf die Möglichkeiten werfen, die der Einsatz von Blockchaintechnologien in diesem Bereich bietet.\n\nDer Event richtet sich nicht nur an PID-Provider, sondern auch an Anwenderinnen und Anwender sowie am Thema Interessierte. Veranstaltungssprache ist Englisch.\n\nWeitere Informationen und Anmeldung"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/08/reminder",
+        "label": "LOC",
+        "start": 0,
+        "end": 28
+      },
+      {
+        "text": "Research",
+        "label": "LOC",
+        "start": 55,
+        "end": 63
+      },
+      {
+        "text": "DOI-Desk",
+        "label": "ORG",
+        "start": 102,
+        "end": 110
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 115,
+        "end": 125
+      },
+      {
+        "text": "Research",
+        "label": "LOC",
+        "start": 190,
+        "end": 198
+      },
+      {
+        "text": "Persistent Identifiers",
+        "label": "ORG",
+        "start": 206,
+        "end": 228
+      },
+      {
+        "text": "PID",
+        "label": "ORG",
+        "start": 230,
+        "end": 233
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 349,
+        "end": 357
+      },
+      {
+        "text": "Provider-Sicht",
+        "label": "LOC",
+        "start": 756,
+        "end": 770
+      },
+      {
+        "text": "DataCite",
+        "label": "ORG",
+        "start": 775,
+        "end": 783
+      },
+      {
+        "text": "ORCID",
+        "label": "ORG",
+        "start": 788,
+        "end": 793
+      },
+      {
+        "text": "PID-Provider",
+        "label": "ORG",
+        "start": 995,
+        "end": 1007
+      },
+      {
+        "text": "Veranstaltungssprache",
+        "label": "MISC",
+        "start": 1082,
+        "end": 1103
+      },
+      {
+        "text": "Englisch",
+        "label": "MISC",
+        "start": 1108,
+        "end": 1116
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "DOI-Desk",
+        "DataCite",
+        "ETH Zürich",
+        "ORCID",
+        "PID",
+        "PID-Provider",
+        "Persistent Identifiers"
+      ],
+      "LOCATION": [
+        "De Internal/2019/08/reminder",
+        "Provider-Sicht",
+        "Research"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Englisch",
+        "Internet",
+        "Veranstaltungssprache"
+      ]
+    },
+    "entity_counts": {
+      "Research": 2,
+      "De Internal/2019/08/reminder": 1,
+      "DOI-Desk": 1,
+      "ETH Zürich": 1,
+      "Persistent Identifiers": 1,
+      "PID": 1,
+      "Internet": 1,
+      "Provider-Sicht": 1,
+      "DataCite": 1,
+      "ORCID": 1,
+      "PID-Provider": 1,
+      "Veranstaltungssprache": 1,
+      "Englisch": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "reminder-persistent-identifiers-in-research.md",
+      "title": "De Internal/2019/08/reminder Persistent Identifiers in Research",
+      "language": "de",
+      "source_path": "de_internal/2019/08/reminder-persistent-identifiers-in-research.html"
+    },
+    "temporal": {
+      "publication_date": "2019-08",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Englisch",
+        "Internet",
+        "Veranstaltungssprache"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Die Anmeldung",
+        "Der Event",
+        "Als Ausblick",
+        "Der Fokus",
+        "PID-Provider",
+        "De Internal",
+        "Persistent Identifiers",
+        "DOI-Desk",
+        "Provider-Sicht",
+        "Research Es",
+        "Thema Interessierte",
+        "Weitere Informationen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DOI-Desk",
+        "DataCite",
+        "ETH Zürich",
+        "ORCID",
+        "PID",
+        "PID-Provider",
+        "Persistent Identifiers"
+      ],
+      "locations": [
+        "De Internal/2019/08/reminder",
+        "Provider-Sicht",
+        "Research"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "Research",
+        "De Internal/2019/08/reminder",
+        "DOI-Desk",
+        "ETH Zürich",
+        "Persistent Identifiers",
+        "PID",
+        "Internet",
+        "Provider-Sicht",
+        "DataCite",
+        "ORCID"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1222
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "PID-Provider",
+        "PID",
+        "2019",
+        "EU",
+        "Persistent Identifiers",
+        "DOI-Desk",
+        "ETH Zürich",
+        "DataCite",
+        "ORCID"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Internet",
+        "what",
+        "Englisch",
+        "Veranstaltungssprache"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "filename": "praezisere-und-programmierbare-bio-schaltkreise.md",
+  "original_filename": "praezisere-und-programmierbare-bio-schaltkreise.html",
+  "source_path": "de_news_events/2014/10/praezisere-und-programmierbare-bio-schaltkreise.html",
+  "date": "2014-10",
+  "title": "Praezisere Und Programmierbare Bio Schaltkreise",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Biosensor, der nicht «leckt»",
+      "text": "Bioingenieure arbeiten an der Entwicklung von biologischen Computern. Zu ihren Zielen gehört, kleine, aus biologischem Material aufgebaute Schaltkreise zu entwickeln, die in Zellen eingeschleust werden können, um deren Funktion zu verändern. Auf diese Weise könnte es in Zukunft möglich sein, Krebszellen soweit umzuprogrammieren, dass sie sich nicht mehr unkontrolliert teilen. Auch könnten Stammzellen in ausdifferenzierte Zellen von Organen umprogrammiert werden.\n\nNoch sind die Forschenden nicht so weit. Zwar haben sie in den vergangenen zwanzig Jahren einzelne Bausteine sowie Prototypen von biologischen Computern entwickelt. Doch heutige Biocomputer unterscheiden sich noch immer wesentlich von ihren Gegenstücken aus Silizium, und Bioingenieure stehen vor einigen hohen Hürden.\n\nSo rechnet ein Silizium-Chip mit Einsen und Nullen – es fliesst Strom oder eben nicht –, und zwischen diesen Zuständen kann blitzschnell hin und her geschaltet werden. Biologische Signale hingegen sind weniger deutlich: Neben «Signal» und «kein Signal» gibt es auch noch eine Vielzahl von Übergangszuständen mit «ein bisschen Signal». Ein besonderer Nachteil ist dies bei jenen Biocomputer-Bausteinen, die als Sensoren für ein bestimmtes Biomolekül dienen und das entsprechende Signal im Schaltkreis weiterleiten sollen. Manchmal senden sie auch dann ein Ausgangssignal, wenn kein Eingangssignal vorliegt. Besonders oft ist dies der Fall, wenn in einem Schaltkreis mehrere solche Bausteine nacheinander geschaltet sind."
+    },
+    {
+      "heading": "Biosensor, der nicht «leckt»",
+      "text": "ETH-Doktorand Nicolas Lapique aus der Gruppe von Yaakov Benenson, Professor für Synthetische Biologie am Departement Biosysteme der ETH Zürich in Basel, hat nun einen biologischen Schalter entwickelt, mit dem sich die Aktivität von einzelnen Sensorbausteinen zeitlich steuern lässt. Damit können Schaltkreise so gebaut werden, dass ein Sensor nicht aktiv ist, solange er im System nicht gebraucht wird. Wird er benötigt, kann er über ein Steuerungssignal aktiviert werden. Die Wissenschaftler haben ihre Arbeit jüngst in der Fachzeitschrift Nature Chemical Biology veröffentlicht.\n\nUm die dahinterliegende Technik zu verstehen, muss man wissen, dass diese biologischen Sensoren aus Genen bestehen, die von Enzymen abgelesen und in RNA und allenfalls zusätzlich auch in Proteine umgesetzt werden. Im steuerbaren Biosensor von Lapique ist das für das Ausgangssignal verantwortliche Gen im Grundzustand nicht aktiv, da es in falscher Orientierung in die Schaltkreis-DNA eingebaut ist. Aktiviert wird das Gen über ein spezielles Enzym, eine Rekombinase, welche das Gen aus der Schaltkreis-DNA ausschneidet und in richtiger Orientierung wieder einbaut. So wird es aktiv. «Dadurch können Eingangssignale viel präziser als bisher und auf Wunsch auch zeitlich verzögert weitergeleitet werden», sagt Benenson.\n\nBisher haben die Wissenschaftler die Funktion ihres aktivierbaren Sensors in Zellkultur von menschlichen Nierenzellen und Krebszellen getestet. Bereits sind sie jedoch daran, den Sensor so weiterzuentwickeln, dass er in einem komplexeren Biocomputer eingesetzt werden kann, der Krebszellen erkennt und diese abtötet. Dazu wird er dahingehend angepasst, dass er für Krebs typische Moleküle erkennt. Sind in einer Zelle solche Krebsmarker vorhanden, könnte der Schaltkreis beispielsweise ein zelluläres Selbstmord-Programm auslösen. Normale Zellen ohne Krebsmarker blieben davon unbehelligt."
+    },
+    {
+      "heading": "Neuer Signalwandler entwickelt",
+      "text": "Das Zusammenfügen verschiedener biologischer Bausteine zu einem komplexeren Biocomputer ist jedoch eine grosse Herausforderung für Bioingenieure. «In der Elektronik sind verschiedene Komponenten eines Schaltkreises immer gleich verbunden: mit einem Draht, durch den Strom fliesst oder nicht», erklärt Benenson. In der Biologie gibt es hingegen eine Vielzahl unterschiedlicher Signale – zahlreiche unterschiedliche Proteine etwa oder ebenso zahlreiche Mikro-RNA-Moleküle. Damit biologische Komponenten beliebig miteinander kombiniert werden können, müssen Signalwandler dazwischen geschaltet werden.\n\nEinen vielseitig einsetzbareren Signalwandler hat Laura Prochazka, ebenfalls Doktorandin von Benenson, entwickelt und jüngst in der Zeitschrift Nature Communications veröffentlicht. Als Besonderheit wandelt die neue Komponente nicht nur ein Signal in ein anderes um. Vielmehr können die Wissenschaftler damit mehrere biologische Eingangssignale in mehrere Ausgangssignale umwandeln.\n\nMit dieser neuen biologischen Plattform werden die Anwendungen von biologischen Schaltkreisen massiv erweitert. Benenson: «Indem biologische Schaltkreise beliebig kombinierbar sind, kann man nun bei biologischen Computern von Programmieren sprechen – Bioingenieure werden in Zukunft also buchstäblich programmieren können.»\n\nLapique N, Benenson Y: Digital switching in a biosensor circuit via programmable timing of gene availability. Nature Chemical Biology, Online-Publikation vom 14. Oktober 2014, doi: externe Seite 10.1038/nchembio.1680\n\nProchazka L, Angelici B, Häfliger B, Benenson Y: Highly modular bow-tie gene circuits with programmable dynamic behavior, Online-Publikation vom 14. Oktober 2014, doi: externe Seite 10.1038/ncomms5729"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Programmierbare Bio",
+        "label": "ORG",
+        "start": 38,
+        "end": 57
+      },
+      {
+        "text": "Bioingenieure",
+        "label": "PER",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Organen",
+        "label": "LOC",
+        "start": 436,
+        "end": 443
+      },
+      {
+        "text": "Computern",
+        "label": "MISC",
+        "start": 610,
+        "end": 619
+      },
+      {
+        "text": "Zuständen",
+        "label": "LOC",
+        "start": 895,
+        "end": 904
+      },
+      {
+        "text": "Signal",
+        "label": "LOC",
+        "start": 1264,
+        "end": 1270
+      },
+      {
+        "text": "Ausgangssignal",
+        "label": "LOC",
+        "start": 1341,
+        "end": 1355
+      },
+      {
+        "text": "ETH-Doktorand",
+        "label": "ORG",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Nicolas Lapique",
+        "label": "PER",
+        "start": 14,
+        "end": 29
+      },
+      {
+        "text": "Yaakov Benenson",
+        "label": "PER",
+        "start": 49,
+        "end": 64
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 132,
+        "end": 142
+      },
+      {
+        "text": "Basel",
+        "label": "LOC",
+        "start": 146,
+        "end": 151
+      },
+      {
+        "text": "Nature Chemical Biology",
+        "label": "MISC",
+        "start": 541,
+        "end": 564
+      },
+      {
+        "text": "Proteine",
+        "label": "LOC",
+        "start": 768,
+        "end": 776
+      },
+      {
+        "text": "Lapique",
+        "label": "PER",
+        "start": 824,
+        "end": 831
+      },
+      {
+        "text": "Ausgangssignal",
+        "label": "LOC",
+        "start": 848,
+        "end": 862
+      },
+      {
+        "text": "Gen",
+        "label": "MISC",
+        "start": 879,
+        "end": 882
+      },
+      {
+        "text": "Schaltkreis-DNA",
+        "label": "ORG",
+        "start": 950,
+        "end": 965
+      },
+      {
+        "text": "Gen",
+        "label": "MISC",
+        "start": 1000,
+        "end": 1003
+      },
+      {
+        "text": "Gen",
+        "label": "MISC",
+        "start": 1060,
+        "end": 1063
+      },
+      {
+        "text": "Schaltkreis-DNA",
+        "label": "ORG",
+        "start": 1072,
+        "end": 1087
+      },
+      {
+        "text": "Benenson",
+        "label": "PER",
+        "start": 1290,
+        "end": 1298
+      },
+      {
+        "text": "Benenson",
+        "label": "PER",
+        "start": 301,
+        "end": 309
+      },
+      {
+        "text": "Signalwandler",
+        "label": "PER",
+        "start": 555,
+        "end": 568
+      },
+      {
+        "text": "Laura Prochazka",
+        "label": "PER",
+        "start": 649,
+        "end": 664
+      },
+      {
+        "text": "Benenson",
+        "label": "PER",
+        "start": 692,
+        "end": 700
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 743,
+        "end": 764
+      },
+      {
+        "text": "Benenson",
+        "label": "PER",
+        "start": 1094,
+        "end": 1102
+      },
+      {
+        "text": "Lapique N",
+        "label": "PER",
+        "start": 1306,
+        "end": 1315
+      },
+      {
+        "text": "Benenson Y",
+        "label": "PER",
+        "start": 1317,
+        "end": 1327
+      },
+      {
+        "text": "Nature Chemical Biology",
+        "label": "MISC",
+        "start": 1416,
+        "end": 1439
+      },
+      {
+        "text": "Online-Publikation",
+        "label": "MISC",
+        "start": 1441,
+        "end": 1459
+      },
+      {
+        "text": "Angelici B",
+        "label": "LOC",
+        "start": 1536,
+        "end": 1546
+      },
+      {
+        "text": "Häfliger B",
+        "label": "PER",
+        "start": 1548,
+        "end": 1558
+      },
+      {
+        "text": "Benenson Y",
+        "label": "PER",
+        "start": 1560,
+        "end": 1570
+      },
+      {
+        "text": "Online-Publikation",
+        "label": "MISC",
+        "start": 1645,
+        "end": 1663
+      },
+      {
+        "text": "ncomms5729",
+        "label": "LOC",
+        "start": 1713,
+        "end": 1723
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Benenson",
+        "Benenson Y",
+        "Bioingenieure",
+        "Häfliger B",
+        "Lapique",
+        "Lapique N",
+        "Laura Prochazka",
+        "Nicolas Lapique",
+        "Signalwandler",
+        "Yaakov Benenson"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Doktorand",
+        "Nature Communications",
+        "Programmierbare Bio",
+        "Schaltkreis-DNA"
+      ],
+      "LOCATION": [
+        "Angelici B",
+        "Ausgangssignal",
+        "Basel",
+        "Organen",
+        "Proteine",
+        "Signal",
+        "Zuständen",
+        "ncomms5729"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Computern",
+        "Gen",
+        "Nature Chemical Biology",
+        "Online-Publikation"
+      ]
+    },
+    "entity_counts": {
+      "Benenson": 4,
+      "Gen": 3,
+      "Ausgangssignal": 2,
+      "Nature Chemical Biology": 2,
+      "Schaltkreis-DNA": 2,
+      "Benenson Y": 2,
+      "Online-Publikation": 2,
+      "Programmierbare Bio": 1,
+      "Bioingenieure": 1,
+      "Organen": 1,
+      "Computern": 1,
+      "Zuständen": 1,
+      "Signal": 1,
+      "ETH-Doktorand": 1,
+      "Nicolas Lapique": 1,
+      "Yaakov Benenson": 1,
+      "ETH Zürich": 1,
+      "Basel": 1,
+      "Proteine": 1,
+      "Lapique": 1
+    },
+    "total_entities": 37,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "praezisere-und-programmierbare-bio-schaltkreise.md",
+      "title": "De News Events/2014/10/praezisere und Programmierbare Bio Schaltkreise",
+      "language": "de",
+      "source_path": "de_news_events/2014/10/praezisere-und-programmierbare-bio-schaltkreise.html"
+    },
+    "temporal": {
+      "publication_date": "2014-10",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Benenson",
+        "Benenson Y",
+        "Bioingenieure",
+        "Häfliger B",
+        "Lapique",
+        "Lapique N",
+        "Laura Prochazka",
+        "Nicolas Lapique",
+        "Signalwandler",
+        "Yaakov Benenson"
+      ],
+      "people_with_roles": {
+        "Benenson": [
+          "professor"
+        ],
+        "Lapique": [
+          "professor"
+        ],
+        "Nicolas Lapique": [
+          "professor"
+        ],
+        "Yaakov Benenson": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "Computern",
+        "Nature Chemical Biology",
+        "Online-Publikation"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Schaltkreis-DNA",
+        "Programmierbare Bio",
+        "Zeitschrift Nature",
+        "Fachzeitschrift Nature",
+        "Prochazka L",
+        "Selbstmord-Programm",
+        "Biocomputer-Bausteinen",
+        "Silizium-Chip",
+        "Lapique N",
+        "Mikro-RNA",
+        "Benenson Y",
+        "Nature Chemical",
+        "Die Wissenschaftler",
+        "Online-Publikation",
+        "Yaakov Benenson",
+        "Synthetische Biologie",
+        "Als Besonderheit",
+        "Chemical Biology",
+        "Nicolas Lapique",
+        "ETH-Doktorand",
+        "Angelici B",
+        "Normale Zellen",
+        "Departement Biosysteme",
+        "De News",
+        "Schaltkreise Bioingenieure",
+        "Biologische Signale",
+        "Laura Prochazka"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Doktorand",
+        "Nature Communications",
+        "Programmierbare Bio",
+        "Schaltkreis-DNA"
+      ],
+      "locations": [
+        "Angelici B",
+        "Ausgangssignal",
+        "Basel",
+        "Organen",
+        "Proteine",
+        "Signal",
+        "Zuständen",
+        "ncomms5729"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Benenson",
+        "Gen",
+        "Ausgangssignal",
+        "Nature Chemical Biology",
+        "Schaltkreis-DNA",
+        "Benenson Y",
+        "Online-Publikation",
+        "Programmierbare Bio",
+        "Bioingenieure",
+        "Organen"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Biosensor, der nicht «leckt»",
+          "Biosensor, der nicht «leckt»",
+          "Neuer Signalwandler entwickelt"
+        ],
+        "content_length": 5198
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Benenson Y",
+        "Benenson",
+        "Schaltkreis-DNA",
+        "Programmierbare Bio",
+        "EU",
+        "Bioingenieure",
+        "Häfliger B",
+        "ETH Zürich",
+        "Yaakov Benenson",
+        "Signalwandler",
+        "Lapique",
+        "Nature Communications",
+        "Lapique N",
+        "Nicolas Lapique",
+        "ETH-Doktorand",
+        "Laura Prochazka",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Nature Chemical Biology",
+        "who",
+        "Online-Publikation",
+        "chemistry",
+        "Computern"
+      ],
+      "graph_relations": [
+        "Benenson_has_role_professor",
+        "Lapique_has_role_professor",
+        "Nicolas Lapique_has_role_professor",
+        "Yaakov Benenson_has_role_professor",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+# einzigartiges-lehmgewoelbe-am-hoenggerberg.html
+
+**Source:** de_news_events/2014/11/einzigartiges-lehmgewoelbe-am-hoenggerberg.html
+
+## Rehabilitierung eines Materials
+
+Die Professur für Architektur und Konstruktion von Annette Spiro ist für praxisnahe Lehre und vertiefte Auseinandersetzung mit Baumaterialien bekannt. 2010 baute sie gemeinsam mit der ETH-Baubibliothek eine Materialsammlung für Architekten und Bauingenieure auf und 2012 bot sie erstmals das Wahlfach «Material-Werkstatt» an. «Wir wollen den Studierenden die Möglichkeit geben, sich nicht nur theoretisch, sondern auch praktisch mit Baumaterialien auseinanderzusetzen», sagt Gian Salis, Dozent am Lehrstuhl und verantwortlich für das Wahlfach.
+
+Im Frühjahr 2012 haben sich Architektur-Studierende erstmals eingehend mit dem Baustoff Lehm auseinandergesetzt. Gestern präsentierten sie in Anwesenheit von ETH-Rektor Lino Guzzella und Verantwortlichen des Departements Architektur die Frucht ihrer Studien: ein fünf Meter hoher, multifunktionaler Unterstand, der sich durch sechs weite Bögen und sechs gegen aussen hin geöffnete Gewölbe definiert. Das schnörkellose Bauwerk zeichnet sich aus durch ein einzigartiges Konstruktionsprinzip, gelang es doch zum ersten Mal, ein Gewölbe mit vorgefertigten Elementen aus nicht stabilisiertem Stampflehm zu bauen.
+
+## Rehabilitierung eines Materials
+
+Lehm gehört zu den ältesten Baumaterialien überhaupt. Seit Jahrhunderten werden damit in Afrika und im mittleren Osten Häuser, Ställe, Moscheen und Paläste gebaut. Infolge der Industrialisierung und des Siegeszuges von Beton ging er aber praktisch vergessen und bis heute haftet dem Baustoff der Ruf der Minderwertigkeit und Vergänglichkeit an. Lange Zeit waren auch die Möglichkeiten der Konstruktion und Gestaltung mit Lehm stark beschränkt: Lehm kann lediglich Druck- aber keine Zugkräfte aufnehmen. Er wird erst beim Trocknen fest und braucht dafür relativ lange. Gewölbte Formen direkt auf der Baustelle zu stampfen, ist deshalb unmöglich.
+
+Der Bau von Decken oder Bögen war bislang nur über den Umweg von Lehmziegeln und Mörtel möglich. «Durch die Möglichkeit der Vorfabrikation von Stampflehm-Elementen haben wir heute jedoch komplett neue Möglichkeiten», erklärt Salis. «Und dank innovativer Konstruktion kann Lehm durchaus als dauerhaftes Baumaterial eingesetzt werden.» Dies mit Vorteilen gegenüber Beton: Lehm ist praktisch überall verfügbar, braucht keine Chemikalien zum Aushärten, beinhaltet praktisch keine graue Energie, bietet ein hervorragendes Raumklima und kann durch Auflösen mit Wasser in den natürlichen Kreislauf rückgeführt werden.
+
+Die Seminarteilnehmer sollten deshalb die neuen Konstruktionsmöglichkeiten mit Lehm während zwei Seminaren ausloten. Nachdem eine erste Gruppe 2012 eine Stampflehm-Mauer in Österreich gebaut hatte, erarbeiteten im Frühjahr 2013 weitere 26 Studierende in 3er- und 4er-Gruppen sieben unterschiedliche Entwürfe für eine ganze spezielle Konstruktion: ein Stampflehm-Gewölbe. Mit Lehm vom Hönggerberg bauten sie erste Modelle. Martin Rauch, der sich seit über 30 Jahren mit dem Material Lehm auseinandersetzt, stand ihnen dabei mit seiner Expertise zur Seite. Ein Entwurf wurde schliesslich zur Umsetzung ausgewählt.
+
+## Schreinern und Stampfen
+
+## Keine News verpassen
+
+ETH-Studierende beim Bau der Kuppel. (Foto: Gian Salis / ETH Zürich)
+
+Während eines zweiwöchigen, vom ETH Innovedum-Fonds unterstützten Workshops in der Werkhalle von Martin Rauchs Firma «LehmTonErde GmbH» fertigten die Studierenden 19 Stampflehm-Elemente, aus welchen später die Kuppeln und Bögen zusammengesetzt wurden. Dafür schreinerten sie zuerst robuste Schalungen aus Holz, in die schichtweise Lehm aus der Umgebung von Laufen gefüllt und mit druckluftbetriebenen Stampfern verdichtet wurde. «Die Studierenden erfuhren vor Ort mit eigenen Händen, wie sich das zuvor Geplante nun auch tatsächlich praktisch umsetzen liess», erzählt Salis.
+
+Nach zweimonatiger Trocknung setzten die Studenten die Elemente diesen Sommer auf dem Hönggerberg mithilfe eines Pneukranen zusammen. Ganz ohne herkömmliche Materialien kamen aber auch die Lehmbauer nicht aus: Zuvor war nämlich ein Fundament betoniert worden. Zudem schützt ein Metallblech das Dach vor Regen. «Für die Stabilität muss der Kern des Stamplehm-Baus unbedingt trocken bleiben», erklärt Salis. Die Vision sei denn auch nicht, den Beton vollumfänglich von der Baustelle zu verbannen, sondern vielmehr diesen nur noch dort einzusetzen, wo er unverzichtbar ist.
+
+Georg Bachmann, Student am Departement Architektur half während dem zweiwöchigen Aufbau die bis zu drei Tonnen schweren Stampflehm-Elemente zu platzieren und anschliessend Fugen, Kanten und Löcher der Kranaufhängung mit Lehm zu verputzen. Was den Masterstudenten besonders faszinierte: Fehlerhafte Stellen, wie zum Beispiel abgebrochene Kanten, konnten sehr einfach retouchiert werden, indem man sie anfeuchtet, Lehm hineindrückt und diesen mit einem Hartholzbrett und Hammer leicht anklopft. «Das man den Lehm so unmittelbar formen und reparieren kann, ist eine unglaubliche Qualität des Materials», erzählt er. Zudem fand er Gefallen an der Struktur des Materials. Die Leichtigkeit und Wärme von Lehmmauern und –decken sind für ihn ein schöner Kontrast zu den oft sauberen und glatten Flächen in der modernen Architektur. Die praktische Arbeit – zuerst in der Fabrikhalle und später auf der Baustelle – empfand Bachmann als besonders wertvoll: «Es ist wichtig, dass Architekten wissen, wie Dinge verbaut werden, die sie tagtäglich zeichnen. Das ist ein Aspekt, der sonst in der Ausbildung meist zu kurz kommt.»
+
+Für Gian Salis ist noch ein weiterer Lehraspekt wichtig: «Wir wollen die Studierenden für den Zusammenhang von Material, Konstruktion, Form und architektonischem Ausdruck sensibilisieren und hoffen, dass sich dies in innovativen Konstruktionen einer jungen Generation manifestieren wird.» Zugleich dient das Gewölbe während der kommenden Jahre als Forschungsobjekt, an welchem man die Verwitterung von vorgefertigten Stampflehm-Elementen studieren und neue Erkenntnisse zur Materialstabilität gewinnen kann. Und wer weiss: Vielleicht mausert sich der neue Unterstand zu einem Begegnungsort auf dem Campus Hönggerberg.
+

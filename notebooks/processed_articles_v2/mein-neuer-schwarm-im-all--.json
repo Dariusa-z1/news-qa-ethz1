@@ -1,0 +1,647 @@
+{
+  "filename": "mein-neuer-schwarm-im-all--.md",
+  "original_filename": "mein-neuer-schwarm-im-all--.html",
+  "source_path": "en_internal/2014/02/mein-neuer-schwarm-im-all--.html",
+  "date": "2014-02",
+  "title": "Mein Neuer Schwarm Im All",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The Earth from space",
+      "text": "Everyone's attention is focused on the monitors on the wall. 10 – 9 – 8 - ... . For the last 18 months, the launch has been repeatedly postponed. Initially, the launch was going to be on the 14th November, then on the 21st, now on the 22nd. And now we are really here, in the control centre of the European Space Operations Centre ESOC at the European Space Agency ESA in Darmstadt, and we're getting close to countdown. After some comfort food to calm my nerves, I am waiting with about 200 people in the conference hall for the launch, the moment which the Director General of ESA, the scientists involved in the project and all the technicians and engineers have been yearning for for years. The three satellites of the SWARM mission are due to launch today. Their journey into space begins from the spaceport at Plesetsk in northern Russia, a voyage of discovery through the Earth's magnetic field. The three high-tech passengers, with the unusual names of Alpha, Bravo and Charlie, are to be carried into space by an SS-19 intercontinental missile that has been specially enlarged and converted into a 3-stage Rockot launch vehicle - how refreshing to see this former nuclear missile being used for a peaceful purpose! Once they arrive in space, A, B and C are due to spend at least four years measuring the Earth's magnetic field with an unprecedented degree of accuracy. 7 – 6 – 5 - ... . It's starting! We are welcomed by Thomas Reiter. Nowadays, Thomas Reiter is the Director for Human Space Flight and Operations at ESOC in Darmstadt, but we know him from the time he has spent in space – including on \"Mir\" and the ISS. It is really fascinating to meet a genuine astronaut in the flesh. He and all the other speakers look happy, excited and tense. And so, incidentally, do we. We - that is the scientists from ETH Zurich and their colleagues from umpteen European and other countries who together submitted the project to the ESA eleven years ago, plus me – a very recent SWARM groupie. focusTerra is currently showing an exhibition about satellites which features the three SWARM satellites and their mission, including a 1:5 model, so I was receiving daily emails from the ESA whipping up my excitement about the launch, such as \"The engineers signed off the satellites today; now the satellites are packed inside their launcher like sardines; now they are being driven to the launch pad etc.\". So I became really infected by SWARM fever! And now all the lights are green. 4 – 3 – 2 -... Nearly 13.00 hrs. Lift-off is planned for 13:02 hrs our time. We are switching over now to the spaceport in Plesetsk. And we see...nothing. Or nearly nothing. The thickest fog imaginable is lying over the cosmodrome. Vaguely, through the pea soup, looms something that looks like a launch tower. Two lights are glowing ... uhh.... To be on the safe side, I check the record button again on my new video camera. And while I'm still looking for it and twiddling the knobs, suddenly we hear a mighty roar. Quickly, I look at the screen and again see...nothing. Apart from the swirling grey clouds, of course. That was it. What was that? That was ... ... - 1 - Lift-off? Where was the countdown? Why isn't anybody saying anything? Quickly, I take photographs of the miserable foggy screen in Russia. The \"Rockot\" is already on its way, heading out of the grey of the fog into the blackness of space. Now the screen shows computer simulations of the flight, the release from the first stage, and then the second. Soon we can expect the first signals – you can still feel the tension in the room. Then, after a good 90 minutes and their first orbit of the Earth, Alpha and Bravo report in via the satellite ground station in Kiruna and, a few minutes later, Charlie does the same via the station in Svalbard! Huge sighs of relief, applause, beaming smiles! Over the next few days, they will continue to unfold, position and orientate themselves, but down here we can celebrate already with champagne and pieces of smoked salmon in the shape of satellites - a nice touch. And afterwards, they show the launch again and at last I see the two seconds of ignition with the orange fireballs and the lift-off! And now I can even send a message to the right control room. \"Darmstadt – we have no problem!\""
+    },
+    {
+      "heading": "The Earth from space",
+      "text": "focusTerra's special exhibition called \" The Earth in our sights – Observing the Earth system from space \" continues until 23 February. The exhibition also introduces the SWARM mission, in which researchers from the Institute of Geophysics at ETH Zurich have been involved."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "10 – 9",
+        "label": "TIME",
+        "start": 61,
+        "end": 67
+      },
+      {
+        "text": "the last 18 months",
+        "label": "DATE",
+        "start": 84,
+        "end": 102
+      },
+      {
+        "text": "the 14th November",
+        "label": "DATE",
+        "start": 187,
+        "end": 204
+      },
+      {
+        "text": "the 21st",
+        "label": "DATE",
+        "start": 214,
+        "end": 222
+      },
+      {
+        "text": "the 22nd",
+        "label": "DATE",
+        "start": 231,
+        "end": 239
+      },
+      {
+        "text": "the European Space Operations Centre ESOC",
+        "label": "ORG",
+        "start": 294,
+        "end": 335
+      },
+      {
+        "text": "the European Space Agency",
+        "label": "ORG",
+        "start": 339,
+        "end": 364
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 365,
+        "end": 368
+      },
+      {
+        "text": "Darmstadt",
+        "label": "GPE",
+        "start": 372,
+        "end": 381
+      },
+      {
+        "text": "about 200",
+        "label": "CARDINAL",
+        "start": 482,
+        "end": 491
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 579,
+        "end": 582
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 688,
+        "end": 693
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 699,
+        "end": 704
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 755,
+        "end": 760
+      },
+      {
+        "text": "Plesetsk",
+        "label": "ORG",
+        "start": 816,
+        "end": 824
+      },
+      {
+        "text": "Russia",
+        "label": "GPE",
+        "start": 837,
+        "end": 843
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 879,
+        "end": 884
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 907,
+        "end": 912
+      },
+      {
+        "text": "Alpha",
+        "label": "GPE",
+        "start": 961,
+        "end": 966
+      },
+      {
+        "text": "Bravo",
+        "label": "PERSON",
+        "start": 968,
+        "end": 973
+      },
+      {
+        "text": "Charlie",
+        "label": "PERSON",
+        "start": 978,
+        "end": 985
+      },
+      {
+        "text": "SS-19",
+        "label": "PRODUCT",
+        "start": 1022,
+        "end": 1027
+      },
+      {
+        "text": "at least four years",
+        "label": "DATE",
+        "start": 1279,
+        "end": 1298
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1313,
+        "end": 1318
+      },
+      {
+        "text": "Thomas Reiter",
+        "label": "PERSON",
+        "start": 1430,
+        "end": 1443
+      },
+      {
+        "text": "Thomas Reiter",
+        "label": "PERSON",
+        "start": 1455,
+        "end": 1468
+      },
+      {
+        "text": "ESOC",
+        "label": "ORG",
+        "start": 1526,
+        "end": 1530
+      },
+      {
+        "text": "Darmstadt",
+        "label": "GPE",
+        "start": 1534,
+        "end": 1543
+      },
+      {
+        "text": "Mir",
+        "label": "FAC",
+        "start": 1613,
+        "end": 1616
+      },
+      {
+        "text": "ISS",
+        "label": "ORG",
+        "start": 1626,
+        "end": 1629
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1821,
+        "end": 1831
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 1866,
+        "end": 1874
+      },
+      {
+        "text": "eleven years ago",
+        "label": "DATE",
+        "start": 1941,
+        "end": 1957
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 2080,
+        "end": 2085
+      },
+      {
+        "text": "1:5",
+        "label": "CARDINAL",
+        "start": 2134,
+        "end": 2137
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 2164,
+        "end": 2169
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 2186,
+        "end": 2189
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 2283,
+        "end": 2288
+      },
+      {
+        "text": "Nearly 13.00",
+        "label": "CARDINAL",
+        "start": 2501,
+        "end": 2513
+      },
+      {
+        "text": "13:02",
+        "label": "CARDINAL",
+        "start": 2543,
+        "end": 2548
+      },
+      {
+        "text": "Plesetsk",
+        "label": "ORG",
+        "start": 2609,
+        "end": 2617
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 2797,
+        "end": 2800
+      },
+      {
+        "text": "Russia",
+        "label": "GPE",
+        "start": 3289,
+        "end": 3295
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 3475,
+        "end": 3480
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 3501,
+        "end": 3507
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 3532,
+        "end": 3537
+      },
+      {
+        "text": "a good 90 minutes",
+        "label": "TIME",
+        "start": 3604,
+        "end": 3621
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 3632,
+        "end": 3637
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 3651,
+        "end": 3656
+      },
+      {
+        "text": "Alpha",
+        "label": "PERSON",
+        "start": 3658,
+        "end": 3663
+      },
+      {
+        "text": "Bravo",
+        "label": "NORP",
+        "start": 3668,
+        "end": 3673
+      },
+      {
+        "text": "Kiruna",
+        "label": "GPE",
+        "start": 3720,
+        "end": 3726
+      },
+      {
+        "text": "a few minutes later",
+        "label": "TIME",
+        "start": 3732,
+        "end": 3751
+      },
+      {
+        "text": "Charlie",
+        "label": "PERSON",
+        "start": 3753,
+        "end": 3760
+      },
+      {
+        "text": "Svalbard",
+        "label": "PERSON",
+        "start": 3794,
+        "end": 3802
+      },
+      {
+        "text": "the next few days",
+        "label": "DATE",
+        "start": 3857,
+        "end": 3874
+      },
+      {
+        "text": "Darmstadt",
+        "label": "PERSON",
+        "start": 4261,
+        "end": 4270
+      },
+      {
+        "text": "The Earth in",
+        "label": "WORK_OF_ART",
+        "start": 41,
+        "end": 53
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 81,
+        "end": 86
+      },
+      {
+        "text": "23 February",
+        "label": "DATE",
+        "start": 123,
+        "end": 134
+      },
+      {
+        "text": "the Institute of Geophysics",
+        "label": "ORG",
+        "start": 212,
+        "end": 239
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alpha",
+        "Bravo",
+        "Charlie",
+        "Darmstadt",
+        "Svalbard",
+        "Thomas Reiter"
+      ],
+      "ORG": [
+        "ESA",
+        "ESOC",
+        "ETH Zurich",
+        "ISS",
+        "Plesetsk",
+        "the European Space Agency",
+        "the European Space Operations Centre ESOC",
+        "the Institute of Geophysics"
+      ],
+      "LOCATION": [
+        "Alpha",
+        "Darmstadt",
+        "Earth",
+        "Kiruna",
+        "Mir",
+        "Russia"
+      ],
+      "DATE": [
+        "10 – 9",
+        "23 February",
+        "a few minutes later",
+        "a good 90 minutes",
+        "at least four years",
+        "daily",
+        "eleven years ago",
+        "the 14th November",
+        "the 21st",
+        "the 22nd",
+        "the last 18 months",
+        "the next few days",
+        "today",
+        "years"
+      ],
+      "MISC": [
+        "13:02",
+        "1:5",
+        "Bravo",
+        "European",
+        "Nearly 13.00",
+        "SS-19",
+        "The Earth in",
+        "Two",
+        "about 200",
+        "first",
+        "second",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Earth": 4,
+      "ESA": 3,
+      "Darmstadt": 3,
+      "three": 3,
+      "first": 3,
+      "today": 2,
+      "Plesetsk": 2,
+      "Russia": 2,
+      "Alpha": 2,
+      "Bravo": 2,
+      "Charlie": 2,
+      "Thomas Reiter": 2,
+      "10 – 9": 1,
+      "the last 18 months": 1,
+      "the 14th November": 1,
+      "the 21st": 1,
+      "the 22nd": 1,
+      "the European Space Operations Centre ESOC": 1,
+      "the European Space Agency": 1,
+      "about 200": 1
+    },
+    "total_entities": 61,
+    "unique_entities": 43
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mein-neuer-schwarm-im-all--.md",
+      "title": "En Internal/2014/02/mein Neuer Schwarm Im All",
+      "language": "en",
+      "source_path": "en_internal/2014/02/mein-neuer-schwarm-im-all--.html"
+    },
+    "temporal": {
+      "publication_date": "2014-02",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alpha",
+        "Bravo",
+        "Charlie",
+        "Darmstadt",
+        "Svalbard",
+        "Thomas Reiter"
+      ],
+      "people_with_roles": {
+        "Darmstadt": [
+          "director",
+          "rector"
+        ],
+        "Thomas Reiter": [
+          "director",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "director",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "13:02",
+        "Bravo",
+        "European",
+        "Nearly 13.00",
+        "SS-19",
+        "The Earth in",
+        "about 200",
+        "first",
+        "second",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "European Space",
+        "Im All",
+        "En Internal",
+        "ETH Zurich",
+        "So I",
+        "Neuer Schwarm",
+        "The Earth",
+        "Human Space",
+        "Director General",
+        "Operations Centre",
+        "Agency ESA",
+        "Thomas Reiter"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ESA",
+        "ESOC",
+        "ETH Zurich",
+        "ISS",
+        "Plesetsk",
+        "the European Space Agency",
+        "the European Space Operations Centre ESOC",
+        "the Institute of Geophysics"
+      ],
+      "locations": [
+        "Alpha",
+        "Darmstadt",
+        "Earth",
+        "Kiruna",
+        "Mir",
+        "Russia"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Earth",
+        "ESA",
+        "Darmstadt",
+        "three",
+        "first",
+        "today",
+        "Plesetsk",
+        "Russia",
+        "Alpha",
+        "Bravo"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "The Earth from space",
+          "The Earth from space"
+        ],
+        "content_length": 4613
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the European Space Agency",
+        "the Institute of Geophysics",
+        "Bravo",
+        "Svalbard",
+        "EU",
+        "ISS",
+        "Charlie",
+        "Alpha",
+        "ESOC",
+        "ESA",
+        "Plesetsk",
+        "Darmstadt",
+        "the European Space Operations Centre ESOC",
+        "ETH Zurich",
+        "ERC",
+        "2014",
+        "Thomas Reiter"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "about 200",
+        "Bravo",
+        "three",
+        "who",
+        "Nearly 13.00",
+        "where",
+        "13:02",
+        "second",
+        "what",
+        "how",
+        "The Earth in",
+        "European",
+        "why",
+        "when",
+        "SS-19"
+      ],
+      "graph_relations": [
+        "Darmstadt_has_role_director",
+        "Darmstadt_has_role_rector",
+        "Thomas Reiter_has_role_director",
+        "Thomas Reiter_has_role_rector",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

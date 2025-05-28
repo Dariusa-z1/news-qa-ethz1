@@ -1,0 +1,908 @@
+{
+  "filename": "algorithms-take-the-wheel.md",
+  "original_filename": "algorithms-take-the-wheel.html",
+  "source_path": "en_news_events/2018/12/algorithms-take-the-wheel.html",
+  "date": "2018-12",
+  "title": "Algorithms Take The Wheel",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Rethinking urban mobility",
+      "text": "The future of mobility is measured in milestones: this February, Google subsidiary Waymo announced that its fleet of self-driving cars had covered over 8 million kilometres on public roads. This came shortly after Uber’s announcement that it had completed 3 million kilometres of autonomous driving. If industry has its way, then we will soon be sharing all our streets with vehicles controlled by algorithms instead of drivers. But is that a realistic scenario? Or simply a rose-tinted vision of a tech-driven future?\n\nWe asked one of the leading experts in this field, Italian researcher Emilio Frazzoli, Professor of Dynamic Systems and Control at ETH Zurich since October 2016. “It all depends what level of autonomous mobility you have in mind,” he replies. “I would say it will be at least another 15 years before you can buy a self-driving car from a dealer. But if you mean a limit- ed kind of car sharing, then it’s already happening.” In fact, this latter concept is a core part of Frazzoli’s own research. In mid-2018, the ride sharing company Lyft launched a service on the Las Vegas Strip that allows anyone to book one of a fleet of 30 BMWs through its app. The driverless cars are controlled by algorithms developed by vehicle technology company Aptiv, which acquired NuTonomy – the start-up founded by Frazzoli – in October 2017."
+    },
+    {
+      "heading": "Rethinking urban mobility",
+      "text": "Before joining ETH, Frazzoli spent ten years as a professor at the prestig- ious MIT in Boston. Autonomous systems – initially aircraft and drones – were the focus of his work right from the start. “The technical side of that was generally pretty cool, but it wasn’t really doing much to help solve the challenges society is facing.” In 2009, he found himself pondering a fundamental question: “Back then, the main argument for conducting research into self-driving cars was the idea that they would make road traffic safer.” While acknowledging the truth of that statement, at least in the long term, Frazzoli realised there was potentially a much larger, medium-term benefit to be gained from completely rethinking the issue of individual mobility for city dwellers.\n\n“The goal of my research group is a form of mobility that combines the convenience of a private car with the sustainability of public transport.” In other words, a kind of Uber, but driverless and therefore much more economical and available. Plus – thanks to electrification and better capacity utilisation – a solution that offers significantly lower energy consumption and CO 2 emissions. Right now, people use private cars, on average, just 5 percent of the time, which means the cars spend the remaining 95 percent of the time standing idle in car parks and garages or on the street. This makes no sense in terms of sustainability, urban development or resource efficiency.\n\nFrazzoli’s start-up NuTonomy, which develops control software for autonomous vehicles, began drawing up plans to test self-driving cars in Singapore back in 2014. At around the same time, the professor published an article in which he investigated how replacing all the private vehicles in the 719-square-kilometre city-state with shared, self-driving vehicles would affect traffic volumes. His results showed that the mobility needs of Singapore’s entire population could be met with some 40 percent of the vehicles (350,000 instead of 800,000).\n\nOne year later, Prime Minister Lee Hsien Loong unveiled his vision of a “car-lite future” based on autonomous vehicles, the expansion of public transport and the fostering of slow traffic such as walking and cycling. With 5.5 million inhabitants and a population density of 7,697 people per square kilometre – compared with Switzerland’s figure of 203 – Singapore is more dependent on efficient transport than any other major metropolitan area.\n\nThat is why Singapore has spent years trying to crack down on demand for private cars by imposing high taxes and charging up to 70,000 dollars for the certificates of entitlement required to own a vehicle. More than ten companies are current- ly testing their systems in a 2-hectare test facility at Nanyang Technological University in the western part of Singapore Island. And plans are already in place to operate the first self- driving buses outside rush hours in three of the city’s suburbs starting in 2022."
+    },
+    {
+      "heading": "Simulating transformation",
+      "text": "Pieter Fourie’s “laboratory” is located in the western part of Singapore. He works in a sunlit office on the sixth floor of the CREATE Tower, a building encased in vertical foliage at the National University of Singapore (NUS). Here, he conducts research into the cities of the future on behalf of ETH Zurich’s Future Cities Laboratory. Fourie heads up the Engaging Mobility project, which brought together government authorities and universities at a preliminary workshop in July 2017. The goal was to define the basic conditions required to implement city-wide, on-demand mobility using autonomous cars and buses.\n\nThe researchers used the results of the workshop to formulate key research questions such as: What do we do with the current supply of parking spaces if the majority of vehicles are constantly on the road? Do we need to redefine the layout of our roads? And what effect will auto- mated, electrified transport have on existing public transport, energy requirements and safety?\n\nFourie explores these and similar issues using the MATSim simulation platform developed by a group led by Professor Kay Axhausen at ETH Zurich’s Institute for Transport Planning and Systems. MATSim is agent-based, which means the simulation is driven by the behaviour of individual agents rather than by overarching rules. “On the basis of Singapore’s most recent demographics, we are modelling a synthetic population that is as close as possible to the real one,” Fourie says.\n\nWithin this population, each individual agent exhibits a certain mobility behaviour and has a specific destination based on real-life traffic data. Fourie is now at the stage of tinkering with the underlying conditions, including the number of vehicles employed, their size, the maximum permissible waiting times for passengers, the availability of parking spaces and a variety of different traffic flows. He then lets the synthetic population loose on the simulation for 24 hours. The system automatically evaluates how efficiently the individual agents were able to reach their destinations in each scenario.\n\nRight now, Fourie’s team is programming these kinds of simulations for the waterfront area of Tanjong ­Pagar, a district of some 2 square kilometres in the western part of Singapore. This site is currently being converted from a container terminal into a residential and commercial area. Fourie has already simulated more than 200,000 trips involving 60,000 individual agents. This included calculating how big the fleet of autonomous vehicles would need to be and how many kilometres the vehicles would have to cover to achieve an equivalent level of service in three different street typologies.\n\nThe researchers also simulated four different parking strategies for a fleet of 4-, 10- and 20-seater vehicles. Preliminary results suggest that the transport system is at its most efficient if the shared vehicles are allowed to park in the street when they stop receiving requests for pick-ups. That holds true even if it means temporarily reducing the roadway capacity by one lane. The researchers’ findings also suggest that having fewer, but correspondingly larger, pick-up and drop-off stations has a favourable impact on traffic flow by reducing the detours cars have to take to collect passengers. The stations also need to be big enough to accommodate different vehicle sizes. Fourie is hoping to have these kinds of simulations up and running for the entire island as early as next year."
+    },
+    {
+      "heading": "Decision-making dilemmas",
+      "text": "Despite these rapid developments in Singapore and the fledgling services coming online in Las Vegas, Emilio Frazzoli still sees plenty of challenges ahead, especially when it comes to dealing with chaotic environments. “We still don’t know exactly how autonomous vehicles should behave in traffic,” he says, explaining that this involves dozens of decision-making dilemmas that are an integral part of everyday traffic situations. For example, should a self-driving car cross a double line in order to avoid a potential collision? And what if an innocent road user is injured as a result of a manoeuvre designed to save a culpable driver from a fatal crash? These are the kinds of decisions that have to be defined when programming control algorithms. One key focus of Frazzoli’s current research is therefore the “rulebooks” that should be used to prioritise these various decision- making criteria in control algorithms. At the top of the hierarchy are rules designed to ensure road users’ safety. At the bottom are rules designed to enhance passenger comfort.\n\nIn a recent article, Frazzoli and his team estimated that it would take 200 rules in 12 hierarchy groups to prepare vehicles for every possible scenario, including low-priority rules such as not frightening animals on the edge of the road. Frazzoli feels the time has come for a broader public ­debate on autonomous driving: “The coding of safety and liability rules is not something we should simply leave in the hands of engineers working for private companies”. Ultimately, he argues, it is in everyone’s interest to incorporate our new, virtual drivers into urban traffic as smoothly as possible – much like we do with new human drivers, but with the greater levels of safety, predictability and efficiency that autonomous vehicles offer."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Take The Wheel",
+        "label": "WORK_OF_ART",
+        "start": 34,
+        "end": 48
+      },
+      {
+        "text": "this February",
+        "label": "DATE",
+        "start": 50,
+        "end": 63
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 65,
+        "end": 71
+      },
+      {
+        "text": "Waymo",
+        "label": "WORK_OF_ART",
+        "start": 83,
+        "end": 88
+      },
+      {
+        "text": "over 8 million kilometres",
+        "label": "QUANTITY",
+        "start": 147,
+        "end": 172
+      },
+      {
+        "text": "3 million kilometres",
+        "label": "QUANTITY",
+        "start": 256,
+        "end": 276
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 528,
+        "end": 531
+      },
+      {
+        "text": "Italian",
+        "label": "NORP",
+        "start": 570,
+        "end": 577
+      },
+      {
+        "text": "Emilio Frazzoli",
+        "label": "PERSON",
+        "start": 589,
+        "end": 604
+      },
+      {
+        "text": "Dynamic Systems",
+        "label": "ORG",
+        "start": 619,
+        "end": 634
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 650,
+        "end": 660
+      },
+      {
+        "text": "October 2016",
+        "label": "DATE",
+        "start": 667,
+        "end": 679
+      },
+      {
+        "text": "at least another 15 years",
+        "label": "DATE",
+        "start": 786,
+        "end": 811
+      },
+      {
+        "text": "ed kind",
+        "label": "PERSON",
+        "start": 890,
+        "end": 897
+      },
+      {
+        "text": "Frazzoli",
+        "label": "GPE",
+        "start": 991,
+        "end": 999
+      },
+      {
+        "text": "mid-2018",
+        "label": "DATE",
+        "start": 1019,
+        "end": 1027
+      },
+      {
+        "text": "the Las Vegas Strip",
+        "label": "GPE",
+        "start": 1081,
+        "end": 1100
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1128,
+        "end": 1131
+      },
+      {
+        "text": "BMWs",
+        "label": "ORG",
+        "start": 1149,
+        "end": 1153
+      },
+      {
+        "text": "Aptiv",
+        "label": "ORG",
+        "start": 1260,
+        "end": 1265
+      },
+      {
+        "text": "NuTonomy",
+        "label": "ORG",
+        "start": 1282,
+        "end": 1290
+      },
+      {
+        "text": "Frazzoli",
+        "label": "PERSON",
+        "start": 1317,
+        "end": 1325
+      },
+      {
+        "text": "October 2017",
+        "label": "DATE",
+        "start": 1331,
+        "end": 1343
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "Frazzoli",
+        "label": "PERSON",
+        "start": 20,
+        "end": 28
+      },
+      {
+        "text": "ten years",
+        "label": "DATE",
+        "start": 35,
+        "end": 44
+      },
+      {
+        "text": "MIT",
+        "label": "ORG",
+        "start": 81,
+        "end": 84
+      },
+      {
+        "text": "Boston",
+        "label": "GPE",
+        "start": 88,
+        "end": 94
+      },
+      {
+        "text": "Frazzoli",
+        "label": "PERSON",
+        "start": 602,
+        "end": 610
+      },
+      {
+        "text": "CO 2",
+        "label": "PRODUCT",
+        "start": 1145,
+        "end": 1149
+      },
+      {
+        "text": "just 5 percent",
+        "label": "PERCENT",
+        "start": 1209,
+        "end": 1223
+      },
+      {
+        "text": "the remaining 95 percent",
+        "label": "PERCENT",
+        "start": 1264,
+        "end": 1288
+      },
+      {
+        "text": "Frazzoli’s",
+        "label": "PERSON",
+        "start": 1448,
+        "end": 1458
+      },
+      {
+        "text": "NuTonomy",
+        "label": "ORG",
+        "start": 1468,
+        "end": 1476
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 1587,
+        "end": 1596
+      },
+      {
+        "text": "719-square-kilometre",
+        "label": "QUANTITY",
+        "start": 1742,
+        "end": 1762
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 1885,
+        "end": 1894
+      },
+      {
+        "text": "some 40 percent",
+        "label": "PERCENT",
+        "start": 1933,
+        "end": 1948
+      },
+      {
+        "text": "350,000",
+        "label": "CARDINAL",
+        "start": 1966,
+        "end": 1973
+      },
+      {
+        "text": "800,000",
+        "label": "CARDINAL",
+        "start": 1985,
+        "end": 1992
+      },
+      {
+        "text": "One year later",
+        "label": "DATE",
+        "start": 1995,
+        "end": 2009
+      },
+      {
+        "text": "Lee Hsien Loong",
+        "label": "PERSON",
+        "start": 2026,
+        "end": 2041
+      },
+      {
+        "text": "5.5 million",
+        "label": "CARDINAL",
+        "start": 2217,
+        "end": 2228
+      },
+      {
+        "text": "7,697",
+        "label": "CARDINAL",
+        "start": 2269,
+        "end": 2274
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2319,
+        "end": 2330
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 2349,
+        "end": 2358
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 2452,
+        "end": 2461
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 2472,
+        "end": 2477
+      },
+      {
+        "text": "up to 70,000 dollars",
+        "label": "MONEY",
+        "start": 2562,
+        "end": 2582
+      },
+      {
+        "text": "More than ten",
+        "label": "CARDINAL",
+        "start": 2646,
+        "end": 2659
+      },
+      {
+        "text": "Nanyang Technological University",
+        "label": "ORG",
+        "start": 2740,
+        "end": 2772
+      },
+      {
+        "text": "Singapore Island",
+        "label": "GPE",
+        "start": 2796,
+        "end": 2812
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2860,
+        "end": 2865
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 2908,
+        "end": 2913
+      },
+      {
+        "text": "Pieter Fourie’s",
+        "label": "PERSON",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 63,
+        "end": 72
+      },
+      {
+        "text": "sixth",
+        "label": "ORDINAL",
+        "start": 109,
+        "end": 114
+      },
+      {
+        "text": "the CREATE Tower",
+        "label": "FAC",
+        "start": 124,
+        "end": 140
+      },
+      {
+        "text": "the National University of Singapore (NUS",
+        "label": "ORG",
+        "start": 184,
+        "end": 225
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "ORG",
+        "start": 298,
+        "end": 310
+      },
+      {
+        "text": "Future Cities Laboratory",
+        "label": "ORG",
+        "start": 311,
+        "end": 335
+      },
+      {
+        "text": "July 2017",
+        "label": "DATE",
+        "start": 476,
+        "end": 485
+      },
+      {
+        "text": "Kay Axhausen",
+        "label": "PERSON",
+        "start": 1109,
+        "end": 1121
+      },
+      {
+        "text": "ETH Zurich’s Institute for Transport Planning and Systems",
+        "label": "ORG",
+        "start": 1125,
+        "end": 1182
+      },
+      {
+        "text": "MATSim",
+        "label": "PERSON",
+        "start": 1184,
+        "end": 1190
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 1333,
+        "end": 1342
+      },
+      {
+        "text": "24 hours",
+        "label": "TIME",
+        "start": 1943,
+        "end": 1951
+      },
+      {
+        "text": "Tanjong",
+        "label": "GPE",
+        "start": 2176,
+        "end": 2183
+      },
+      {
+        "text": "some 2 square kilometres",
+        "label": "QUANTITY",
+        "start": 2206,
+        "end": 2230
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 2254,
+        "end": 2263
+      },
+      {
+        "text": "more than 200,000",
+        "label": "CARDINAL",
+        "start": 2399,
+        "end": 2416
+      },
+      {
+        "text": "60,000",
+        "label": "CARDINAL",
+        "start": 2433,
+        "end": 2439
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 2645,
+        "end": 2650
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 2711,
+        "end": 2715
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 3054,
+        "end": 3057
+      },
+      {
+        "text": "as early as next year",
+        "label": "DATE",
+        "start": 3454,
+        "end": 3475
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 36,
+        "end": 45
+      },
+      {
+        "text": "Las Vegas",
+        "label": "GPE",
+        "start": 90,
+        "end": 99
+      },
+      {
+        "text": "Emilio Frazzoli",
+        "label": "PERSON",
+        "start": 101,
+        "end": 116
+      },
+      {
+        "text": "dozens",
+        "label": "CARDINAL",
+        "start": 338,
+        "end": 344
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 752,
+        "end": 755
+      },
+      {
+        "text": "Frazzoli",
+        "label": "GPE",
+        "start": 769,
+        "end": 777
+      },
+      {
+        "text": "Frazzoli",
+        "label": "PERSON",
+        "start": 1084,
+        "end": 1092
+      },
+      {
+        "text": "Frazzoli",
+        "label": "PERSON",
+        "start": 1303,
+        "end": 1311
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Emilio Frazzoli",
+        "Frazzoli",
+        "Frazzoli’s",
+        "Kay Axhausen",
+        "Lee Hsien Loong",
+        "MATSim",
+        "Pieter Fourie’s",
+        "ed kind"
+      ],
+      "ORG": [
+        "Aptiv",
+        "BMWs",
+        "Dynamic Systems",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "ETH Zurich’s Institute for Transport Planning and Systems",
+        "En News",
+        "Future Cities Laboratory",
+        "Google",
+        "MIT",
+        "Nanyang Technological University",
+        "NuTonomy",
+        "the National University of Singapore (NUS"
+      ],
+      "LOCATION": [
+        "Boston",
+        "Frazzoli",
+        "Las Vegas",
+        "Singapore",
+        "Singapore Island",
+        "Switzerland",
+        "Tanjong",
+        "the CREATE Tower",
+        "the Las Vegas Strip"
+      ],
+      "DATE": [
+        "24 hours",
+        "July 2017",
+        "October 2016",
+        "October 2017",
+        "One year later",
+        "as early as next year",
+        "at least another 15 years",
+        "mid-2018",
+        "ten years",
+        "this February",
+        "years"
+      ],
+      "MISC": [
+        "3 million kilometres",
+        "350,000",
+        "5.5 million",
+        "60,000",
+        "7,697",
+        "719-square-kilometre",
+        "800,000",
+        "CO 2",
+        "Italian",
+        "More than ten",
+        "One",
+        "Take The Wheel",
+        "Waymo",
+        "dozens",
+        "first",
+        "four",
+        "just 5 percent",
+        "more than 200,000",
+        "one",
+        "over 8 million kilometres",
+        "sixth",
+        "some 2 square kilometres",
+        "some 40 percent",
+        "the remaining 95 percent",
+        "three",
+        "up to 70,000 dollars"
+      ]
+    },
+    "entity_counts": {
+      "Singapore": 8,
+      "Frazzoli": 7,
+      "one": 3,
+      "Emilio Frazzoli": 2,
+      "NuTonomy": 2,
+      "three": 2,
+      "En News": 1,
+      "Take The Wheel": 1,
+      "this February": 1,
+      "Google": 1,
+      "Waymo": 1,
+      "over 8 million kilometres": 1,
+      "3 million kilometres": 1,
+      "Italian": 1,
+      "Dynamic Systems": 1,
+      "ETH Zurich": 1,
+      "October 2016": 1,
+      "at least another 15 years": 1,
+      "ed kind": 1,
+      "mid-2018": 1
+    },
+    "total_entities": 85,
+    "unique_entities": 67
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "algorithms-take-the-wheel.md",
+      "title": "En News Events/2018/12/algorithms Take The Wheel",
+      "language": "en",
+      "source_path": "en_news_events/2018/12/algorithms-take-the-wheel.html"
+    },
+    "temporal": {
+      "publication_date": "2018-12",
+      "mentioned_years": [
+        "2009",
+        "2014",
+        "2016",
+        "2017",
+        "2018",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Emilio Frazzoli",
+        "Frazzoli",
+        "Frazzoli’s",
+        "Kay Axhausen",
+        "Lee Hsien Loong",
+        "MATSim",
+        "Pieter Fourie’s",
+        "ed kind"
+      ],
+      "people_with_roles": {
+        "Emilio Frazzoli": [
+          "researcher",
+          "head",
+          "professor"
+        ],
+        "Frazzoli": [
+          "researcher",
+          "head",
+          "professor"
+        ],
+        "Kay Axhausen": [
+          "Professor",
+          "professor"
+        ],
+        "MATSim": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "3 million kilometres",
+        "350,000",
+        "5.5 million",
+        "60,000",
+        "7,697",
+        "719-square-kilometre",
+        "800,000",
+        "CO 2",
+        "Italian",
+        "More than ten",
+        "Take The Wheel",
+        "Waymo",
+        "dozens",
+        "first",
+        "four",
+        "just 5 percent",
+        "more than 200,000",
+        "over 8 million kilometres",
+        "sixth",
+        "some 2 square kilometres",
+        "some 40 percent",
+        "the remaining 95 percent",
+        "three",
+        "up to 70,000 dollars"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Wheel The",
+        "Dynamic Systems",
+        "En News",
+        "Emilio Frazzoli",
+        "Future Cities",
+        "Engaging Mobility",
+        "Professor Kay",
+        "CREATE Tower",
+        "Transport Planning",
+        "Pieter Fourie",
+        "National University",
+        "Lee Hsien",
+        "Nanyang Technological",
+        "ETH Zurich",
+        "Singapore Island",
+        "Take The",
+        "Las Vegas",
+        "Prime Minister"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Transport Planning and Systems"
+      ],
+      "institutions": [
+        "Aptiv",
+        "BMWs",
+        "Dynamic Systems",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "ETH Zurich’s Institute for Transport Planning and Systems",
+        "En News",
+        "Future Cities Laboratory",
+        "Google",
+        "MIT",
+        "Nanyang Technological University",
+        "NuTonomy",
+        "the National University of Singapore (NUS"
+      ],
+      "locations": [
+        "Boston",
+        "Frazzoli",
+        "Las Vegas",
+        "Singapore",
+        "Singapore Island",
+        "Switzerland",
+        "Tanjong",
+        "the CREATE Tower",
+        "the Las Vegas Strip"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Singapore",
+        "Frazzoli",
+        "one",
+        "Emilio Frazzoli",
+        "NuTonomy",
+        "three",
+        "En News",
+        "Take The Wheel",
+        "this February",
+        "Google"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Rethinking urban mobility",
+          "Rethinking urban mobility",
+          "Simulating transformation",
+          "Decision-making dilemmas"
+        ],
+        "content_length": 9641
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "BMWs",
+        "ETH",
+        "Dynamic Systems",
+        "ETH Zurich’s Institute for Transport Planning and Systems",
+        "MATSim",
+        "2016",
+        "the National University of Singapore (NUS",
+        "Lee Hsien Loong",
+        "ed kind",
+        "ETH Zurich’s",
+        "ERC",
+        "2009",
+        "2018",
+        "Emilio Frazzoli",
+        "Future Cities Laboratory",
+        "NuTonomy",
+        "Frazzoli",
+        "2022",
+        "Frazzoli’s",
+        "Nanyang Technological University",
+        "2014",
+        "Pieter Fourie’s",
+        "EU",
+        "Aptiv",
+        "Google",
+        "En News",
+        "2017",
+        "MIT",
+        "ETH Zurich",
+        "Kay Axhausen"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "7,697",
+        "Waymo",
+        "three",
+        "some 40 percent",
+        "sixth",
+        "when",
+        "dozens",
+        "the remaining 95 percent",
+        "just 5 percent",
+        "four",
+        "350,000",
+        "719-square-kilometre",
+        "800,000",
+        "who",
+        "up to 70,000 dollars",
+        "what",
+        "more than 200,000",
+        "how",
+        "computer_science",
+        "climate_change",
+        "More than ten",
+        "CO 2",
+        "3 million kilometres",
+        "first",
+        "5.5 million",
+        "some 2 square kilometres",
+        "Italian",
+        "over 8 million kilometres",
+        "Take The Wheel",
+        "why",
+        "60,000",
+        "where"
+      ],
+      "graph_relations": [
+        "Emilio Frazzoli_has_role_researcher",
+        "Emilio Frazzoli_has_role_head",
+        "Emilio Frazzoli_has_role_professor",
+        "Frazzoli_has_role_researcher",
+        "Frazzoli_has_role_head",
+        "Frazzoli_has_role_professor",
+        "Kay Axhausen_has_role_Professor",
+        "Kay Axhausen_has_role_professor",
+        "MATSim_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

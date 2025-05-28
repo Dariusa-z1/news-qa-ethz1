@@ -1,0 +1,38 @@
+# surprising-reversal-in-quantum-systems.html
+
+**Source:** en_news_events/2024/04/surprising-reversal-in-quantum-systems.html
+
+## In brief
+
+- Researchers have studied topological pumping in an artificial solid made of cold atoms. The atoms were trapped using laser beams.
+
+- Surprisingly, the atoms suddenly turned around at a wall made of laser light, meaning that the direction of the topological pumping had changed. When the atoms interacted repulsively, these happened even before they reached the wall.
+
+- Effects like these, which are robust against disturbances, could be used in quantum technologies in the future.
+
+## Transport by topology
+
+In principle, one shouldn’t compare apples to oranges. However, in topology, which is a branch of mathematics, one has to do just that. Apples and oranges, it turns out, are said to be topologically the same since they both lack a hole – in contrast to doughnuts or coffee cups, for instance, which both have one (the handle in the case of the cup) and, hence, are topologically equal. In a more abstract way, quantum systems in physics can also have a specific apple or doughnut topology, which manifests itself in the energy states and motion of particles. Researchers are very interested in such systems as their topology makes them robust against disorder and other disturbing influences, which are always present in natural physical systems.
+
+Things get particularly interesting if, in addition, the particles in such a system interact, meaning that they attract or repel each other, like electrons in solids. Studying topology and interactions together in solids, however, is extremely difficult. A team of researchers at ETH led by Tilman Esslinger have now managed to detect topological effects in an artificial solid, in which the interactions can be switched on or off using magnetic fields. Their results, which have just been published in the scientific journal Science, could be used in quantum technologies in the future.
+
+## Transport by topology
+
+Zijie Zhu, a PhD student in Esslinger’s lab and first author of the study, and his colleagues constructed the artificial solid using extremely cold atoms (fermionic potassium atoms), which were trapped in spatially periodic lattices using laser beams. Additional laser beams caused the energy levels of adjacent lattice sites to move up and down periodically, out-of-sync with respect to each other. After some time, the researchers measured the positions of the atoms in the lattice, initially without interactions between the atoms. In this experiment they observed that the doughnut topology of the energy states caused the particles to be transported by one lattice site, always in the same direction, at each repetition of the cycle.
+
+“This can be imagined as the action of a screw”, says Konrad Viebahn, Senior Postdoc in Esslinger’s team. The screwing motion is a clockwise rotation around its axis, but the screw itself moves in the forward direction as a result. With each revolution the screw advances a certain distance, which is independent of the speed at which one turns the screw. Such a behaviour, also known as topological pumping, is typical of certain topological systems.
+
+## Qubit highway for quantum computers
+
+But what if the screw hits an obstacle? In the experiment of the ETH researchers, that obstacle was an additional laser beam that restricted the freedom of movement of the atoms in the longitudinal direction. After around 100 revolutions of the screw, the atoms ran into a wall, as it were. In the analogy used above, the wall represents an apple topology in which topological pumping cannot take place.
+
+## Surprising return
+
+Surprisingly, the atoms didn’t simply stop at the wall, but suddenly turned around. The screw was thus moving backwards, although it kept being turned clockwise. Esslinger and his team explain this return by the two doughnut topologies that exist in the lattice – one with a clockwise-turning doughnut and another one that turns in the opposite direction. At the wall, the atoms can change from one topology to the other, thus inverting their direction of motion.
+
+Now the researchers switched on a repulsive interaction between the atoms and watched what happened. Again, they were in for a surprise: The atoms now turned around at an invisible barrier even before reaching the laser wall. “Using model calculations, we were able to show that the invisible barrier was created by the atoms themselves through their mutual repulsion”, explains PhD student Anne-Sophie Walter.
+
+“With these observations we have taken a big step towards a better understanding of interacting topological systems”, says Esslinger, who studies such effects in the framework of an Advanced Grant of the Swiss National Science Foundation (SNF). As a next step he wants to perform further experiments to investigate whether the topological screw is as robust as expected with respect to disorder, and how the atoms behave in two or three spatial dimensions. Esslinger also has some practical applications in mind. For instance, the transport of atoms or ions by topological pumping could be used as a qubit highway to take the qubits (quantum bits) in quantum computers to the right places without heating them up or disturbing their quantum states.
+
+Zhu Z, Gächter M, Walter A-S, Viebahn K, Esslinger T: Reversal of quantized Hall drifts at noninteractin and interactin topological boundries. Science, 18. April 2024, doi: 10.1126/science.adg3848
+

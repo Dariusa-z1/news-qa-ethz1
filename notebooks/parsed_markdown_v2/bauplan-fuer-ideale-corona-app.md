@@ -1,0 +1,36 @@
+# bauplan-fuer-ideale-corona-app.html
+
+**Source:** de_news_events/2020/07/bauplan-fuer-ideale-corona-app.html
+
+## Es gibt keine Wunderlösung
+
+Händewaschen, Abstandhalten, Maskentragen: All diese Massnahmen haben sich in der gegenwärtigen Covid-19-Pandemie als wirksame Massnahmen erwiesen – so wie vor 100 Jahren, als die Spanische Grippe wütete. Doch im Gegensatz zu damals stehen uns heute weitere Instrumente zur Verfügung. Zahlreiche Länder setzen inzwischen digitale Werkzeuge wie Tracing-Apps ein, welche die altbewährten Mittel ergänzen sollen.
+
+Ob diese tatsächlich die gewünschte Wirkung erzielen werden, muss sich allerdings erst noch weisen. Gründe, warum der erhoffte Erfolg ausbleiben könnte, gibt es einige: Technische Mängel, fehlende Akzeptanz in der Bevölkerung oder fehlerhafte Daten sind Faktoren, die dazu führen können, dass die Instrumente letztlich wirkungslos bleiben. Im ungünstigsten Fall werden die digitalen Helfer sogar zu einem Albtraum für den Datenschutz oder führen zur Stigmatisierung bestimmter Bevölkerungsgruppen.
+
+## Es gibt keine Wunderlösung
+
+Genau das gilt es nach Ansicht von Effy Vayena, Professorin für Bioethik der ETH Zürich, zu verhindern. Mit ihrer Gruppe hat sie kürzlich eine Tour d'Horizon publiziert, welche ethischen und rechtlichen Aspekte bei der Entwicklung und Implementierung digitaler Hilfsmittel berücksichtigt werden müssen. «Natürlich können diese Instrumente sehr nützliche Dienste leisten», erklärt sie. «Aber man darf von ihnen keine Wunder erwarten.»
+
+Die Autoren und Autorinnen der Studie haben vier Kategorien von Tools näher angeschaut: Contact-Tracing-Apps, zu denen auch die von der EPFL und ETH Zürich mitentwickelte Swiss-Covid-App gehört; Programme, mit denen sich anhand der Symptome einschätzen lässt, ob eine Infektion vorliegt; Apps zur Kontrolle, ob Quarantänevorschriften eingehalten werden; sowie Flow-Models, die beispielsweise Google für die Mobilitätsberichte verwendet.
+
+## Unsorgfältiges Vorgehen rächt sich
+
+So unterschiedlich die Tools auch sind: Zentral ist stets, dass der öffentliche Nutzen, den man sich von der entsprechenden Technologie verspricht, sorgfältig gegen die möglichen Nachteile – beispielsweise in Bezug auf den Datenschutz – abgewogen wird. Das tönt im Prinzip einleuchtend. Doch gerade in akuten Phasen, wenn Politik und Bevölkerung rasch Werkzeuge zur Hand haben möchten, scheint die Zeit für langwierige Abklärungen zu fehlen – ein Trugschluss, ist Vayena überzeugt: «Die Leute haben teilweise völlig überzogene Erwartungen, was eine App leisten kann», meint sie. «Eine einzelne Technologie kann nie die Lösung für das ganze Problem sein. Und wenn wir eine schlechte Lösung haben, weil wir zu wenig sorgfältig vorgegangen sind, unterminiert das den längerfristigen Erfolg.»
+
+Eine strenge wissenschaftliche Validierung sei daher unabdingbar, ist Vayena überzeugt. «Funktioniert die Technologie wirklich wie gewünscht? Ist sie effektiv genug? Liefert sie genügend zuverlässige Daten? All das müssen wir laufend überprüfen.» Auch zur sozialen Akzeptanz gebe es viele Fragen: «Im April sagten noch über 70 Prozent der Schweizerinnen und Schweizer, sie würden die Corona-App installieren, sobald sie da ist», ruft die Forscherin in Erinnerung. «Nun, Ende Juni, sagt über die Hälfte, sie wolle sie nicht installieren. Woher kommt dieser Gesinnungswandel?»
+
+## Unerwünschte Nebeneffekte mitdenken
+
+Die Forschenden erwähnen eine ganze Reihe von ethischen Fragen, die es bei der Entwicklung zu bedenken gilt. So muss beispielsweise verhindert werden, dass die von einer App erhobenen Daten über den eigentlichen Zweck hinaus verwendet werden, ohne dass dies den Nutzern bewusst ist. Ein abschreckendes Beispiel dazu ist eine chinesische App zur Einschätzung von Quarantänemassnahmen, die offenbar Informationen direkt an die Polizei weiterleitet. Die ETH-Forschenden halten zudem fest, dass der Einsatz der digitalen Tools zeitlich limitiert werden muss, damit diese später von den Behörden nicht zur Überwachung der Bevölkerung missbraucht werden.
+
+Schliesslich sprechen die Autorinnen und Autoren auch Fragen der Zugänglichkeit und Diskriminierung an. So erheben einige Apps soziodemografische Daten. Diese sind für die Gesundheitsbehörden zwar aufschlussreich, bergen jedoch die Gefahr, dass sie zu Diskriminierung führen. Wie schnell in einer Krise Menschen bereit sind, andere anzuschwärzen, zeigte sich zu Beginn der Krise, als asiatisch-stämmige Menschen zu Unrecht pauschal als mögliche Corona-Träger verdächtigt wurden. «An solche Nebeneffekte muss man von Anfang an denken», erklärt Vayena.
+
+## Überall die gleichen Prinzipien
+
+Wie also sollen die Entwickler solcher Apps vorgehen? Die Forschenden zeigen Schritt für Schritt auf, welche Fragen in welcher Phase von der Planung bis zur Implementierung jeweils beantwortet werden müssen. «Natürlich gibt es immer länderspezifische Besonderheiten» erklärt Vayena. «Doch die grundlegenden Prinzipien – Respektieren der Autonomie und Privatsphäre, Förderung der Gesundheitsvorsorge und Solidarität sowie Verhindern von neuen Infektionen und böswilligen Handlungen – sind überall die gleichen. Wenn man diese berücksichtigt, findet man Lösungen, die nicht nur technisch, sondern auch ethisch überzeugen und einen nützlichen Beitrag leisten, um die Krise zu bewältigen.»
+
+Gasser U, Ienca M, Scheibner J, Sleigh J, Vayena E. Digital tools against COVID-19: taxonomy, ethical challenges, and navigation aid. The Lancet Digital Health. 29. June 2020. DOI: externe Seite 10.1016/S2589-7500(20)30137-0
+
+Ethical considerations to guide the use of digital proximity tracking technologies for COVID-19 contact tracing. Richtlinie (Interim guidance) der WHO vom 28. Mai 2020: Das Dokument wurde von einer Arbeitsgruppe unter der Leitung von ETH-Professorin Effy Vayena erarbeitet. externe Seite https://www.who.int/publications/i/item/WHO-2019-nCoV-Ethics_Contact_tracing_apps-2020.1
+

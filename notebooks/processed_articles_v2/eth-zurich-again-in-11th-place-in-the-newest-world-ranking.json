@@ -1,0 +1,605 @@
+{
+  "filename": "eth-zurich-again-in-11th-place-in-the-newest-world-ranking.md",
+  "original_filename": "eth-zurich-again-in-11th-place-in-the-newest-world-ranking.html",
+  "source_path": "en_news_events/2023/09/eth-zurich-again-in-11th-place-in-the-newest-world-ranking.html",
+  "date": "2023-09",
+  "title": "Eth Zurich Again In 11Th Place In The Newest World Ranking",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Finding meaning in the data",
+      "text": "Ranked among the best universities in the world, ETH Zurich once again takes a top position in 11th place out of the 1,904 institutions measured in the Times Higher Education World University Rankings for 2024. While the university maintained its position in the rankings for a second year in a row, its cumulative score rose by nearly four points up to 93.1. Scores for teaching, research, citations, and industry, improved and international outlook dropped only slightly. In a new metric that measures its research environment, ETH Zurich ranks in the top ten worldwide.\n\nPresident Joël Mesot commenting on the latest results said, “Our mission is to serve society. On this basis, it is the daily commitment of our people to education, research, and knowledge sharing that makes ETH Zurich one of the best universities in the world.”\n\nTwo areas where ETH Zurich’s scores fall short, compared to other top-ranked institutions, are in its student/faculty ratio and industry income. This is due, in part, to its culturally valued, open access admissions policy and the fact that ETH Zurich is one of the few publicly funded institutions among the world’s top-ranked universities. The changes, however, in THE’s methodology have also contributed to some changes in the scores across the metrics."
+    },
+    {
+      "heading": "Finding meaning in the data",
+      "text": "Times Higher Education (THE) indicates that it has “significantly updated” its methodology for the 2024 World University Rankings. In addition to “teaching” and “international outlook,” THE has reconfigured and renamed three of its metrics that evaluate “research quality,” the “research environment,” and knowledge transfer to “industry.” The 2024 ranking aims to focus less on the numbers and more on quality. For example, the number of citations formerly accounted for 30 percent of the research metric, but in the new methodology category: “research quality,” citations are balanced by placing a stronger emphasis on research strength, excellence, and influence. The industry pillar has also changed. It now includes a new metric that measures university research citations mentioned in patents.\n\nIt is important to note, however, that even with a carefully crafted methodology and purposefully collected data points, rankings carry significant limitations. The 2024 THE World University Ranking relies, for example, on some subjective elements such as its reputational surveys that make up 33 percent of the ranking score. “While they do not reflect the full value that universities generate for the societies which they serve, rankings can offer thought-provoking perspectives on research, teaching, knowledge transfer, and beyond.” said Paul Cross, Institutional Research, ETH Zurich.\n\nIn addition to the 2024 Times Higher Education World University Ranking, ETH Zurich ranked highly in other comparison rankings this year based on diverse criteria, methodology, and timing. The university achieved its highest global ranking when Quacquarelli Symonds (QS) placed ETH Zurich 7 th in the world for 2024. The Shanghai Academic Ranking of World Universities, however, places ETH in 20 th place for 2023. It is also worth noting that ETH Zurich continues to be the top-ranked university in Switzerland and maintains its ranking among the top universities in Europe according to QS, THE, and Shanghai ranking portals.\n\nTimes Higher Education, QS, and the Shanghai ranking portals also published academic subject-based rankings. In these rankings, ETH Zurich was named first in the world for Earth and Marine Science, Geology, and Geophysics according to QS. The university also placed among the top five in all three ranking portals for comparable subjects in Architecture, Computer Science, Environmental and related sciences, and Engineering (automation and control, chemical, civil and structural, electrical and electronic, as well as mechanical engineering). A further nine subjects were ranked among the top 10 in the world."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Zurich Again",
+        "label": "ORG",
+        "start": 27,
+        "end": 39
+      },
+      {
+        "text": "11th",
+        "label": "ORDINAL",
+        "start": 43,
+        "end": 47
+      },
+      {
+        "text": "The Newest World Ranking",
+        "label": "ORG",
+        "start": 57,
+        "end": 81
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 49,
+        "end": 59
+      },
+      {
+        "text": "11th",
+        "label": "ORDINAL",
+        "start": 95,
+        "end": 99
+      },
+      {
+        "text": "1,904",
+        "label": "CARDINAL",
+        "start": 117,
+        "end": 122
+      },
+      {
+        "text": "a second year in a row",
+        "label": "DATE",
+        "start": 276,
+        "end": 298
+      },
+      {
+        "text": "nearly four",
+        "label": "CARDINAL",
+        "start": 329,
+        "end": 340
+      },
+      {
+        "text": "93.1",
+        "label": "CARDINAL",
+        "start": 354,
+        "end": 358
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 530,
+        "end": 540
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 558,
+        "end": 561
+      },
+      {
+        "text": "Joël Mesot",
+        "label": "PERSON",
+        "start": 583,
+        "end": 593
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 692,
+        "end": 697
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 780,
+        "end": 790
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 835,
+        "end": 838
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "ORG",
+        "start": 851,
+        "end": 863
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1076,
+        "end": 1086
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1090,
+        "end": 1093
+      },
+      {
+        "text": "Times Higher Education",
+        "label": "ORG",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "text": "World University Rankings",
+        "label": "EVENT",
+        "start": 104,
+        "end": 129
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 219,
+        "end": 224
+      },
+      {
+        "text": "30 percent",
+        "label": "PERCENT",
+        "start": 472,
+        "end": 482
+      },
+      {
+        "text": "THE World University Ranking",
+        "label": "ORG",
+        "start": 970,
+        "end": 998
+      },
+      {
+        "text": "33 percent",
+        "label": "PERCENT",
+        "start": 1094,
+        "end": 1104
+      },
+      {
+        "text": "Paul Cross",
+        "label": "ORG",
+        "start": 1343,
+        "end": 1353
+      },
+      {
+        "text": "Institutional Research",
+        "label": "ORG",
+        "start": 1355,
+        "end": 1377
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1379,
+        "end": 1389
+      },
+      {
+        "text": "Times Higher Education World University Ranking",
+        "label": "ORG",
+        "start": 1415,
+        "end": 1462
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1464,
+        "end": 1474
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 1518,
+        "end": 1527
+      },
+      {
+        "text": "Quacquarelli Symonds",
+        "label": "PERSON",
+        "start": 1636,
+        "end": 1656
+      },
+      {
+        "text": "QS",
+        "label": "ORG",
+        "start": 1658,
+        "end": 1660
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1669,
+        "end": 1679
+      },
+      {
+        "text": "The Shanghai Academic Ranking of World Universities",
+        "label": "ORG",
+        "start": 1708,
+        "end": 1759
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1777,
+        "end": 1780
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1835,
+        "end": 1845
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1891,
+        "end": 1902
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1959,
+        "end": 1965
+      },
+      {
+        "text": "QS",
+        "label": "ORG",
+        "start": 1979,
+        "end": 1981
+      },
+      {
+        "text": "Shanghai",
+        "label": "GPE",
+        "start": 1992,
+        "end": 2000
+      },
+      {
+        "text": "Times Higher Education",
+        "label": "ORG",
+        "start": 2018,
+        "end": 2040
+      },
+      {
+        "text": "QS",
+        "label": "ORG",
+        "start": 2042,
+        "end": 2044
+      },
+      {
+        "text": "Shanghai",
+        "label": "GPE",
+        "start": 2054,
+        "end": 2062
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 2146,
+        "end": 2156
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2167,
+        "end": 2172
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 2190,
+        "end": 2195
+      },
+      {
+        "text": "Geophysics",
+        "label": "NORP",
+        "start": 2229,
+        "end": 2239
+      },
+      {
+        "text": "QS",
+        "label": "ORG",
+        "start": 2253,
+        "end": 2255
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 2298,
+        "end": 2302
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 2310,
+        "end": 2315
+      },
+      {
+        "text": "Architecture, Computer Science, Environmental",
+        "label": "ORG",
+        "start": 2359,
+        "end": 2404
+      },
+      {
+        "text": "Engineering",
+        "label": "PERSON",
+        "start": 2431,
+        "end": 2442
+      },
+      {
+        "text": "nine",
+        "label": "CARDINAL",
+        "start": 2573,
+        "end": 2577
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Engineering",
+        "Joël Mesot",
+        "Quacquarelli Symonds"
+      ],
+      "ORG": [
+        "Architecture, Computer Science, Environmental",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Institutional Research",
+        "Paul Cross",
+        "QS",
+        "THE World University Ranking",
+        "The Newest World Ranking",
+        "The Shanghai Academic Ranking of World Universities",
+        "Times Higher Education",
+        "Times Higher Education World University Ranking",
+        "Zurich Again"
+      ],
+      "LOCATION": [
+        "Earth",
+        "Europe",
+        "Shanghai",
+        "Switzerland"
+      ],
+      "DATE": [
+        "a second year in a row",
+        "daily",
+        "this year"
+      ],
+      "MISC": [
+        "1,904",
+        "11th",
+        "30 percent",
+        "33 percent",
+        "93.1",
+        "Geophysics",
+        "Two",
+        "World University Rankings",
+        "first",
+        "five",
+        "nearly four",
+        "nine",
+        "one",
+        "ten",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 9,
+      "QS": 4,
+      "11th": 2,
+      "Times Higher Education": 2,
+      "three": 2,
+      "Shanghai": 2,
+      "Zurich Again": 1,
+      "The Newest World Ranking": 1,
+      "1,904": 1,
+      "a second year in a row": 1,
+      "nearly four": 1,
+      "93.1": 1,
+      "ten": 1,
+      "Joël Mesot": 1,
+      "daily": 1,
+      "Two": 1,
+      "ETH Zurich’s": 1,
+      "one": 1,
+      "World University Rankings": 1,
+      "30 percent": 1
+    },
+    "total_entities": 53,
+    "unique_entities": 38
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-zurich-again-in-11th-place-in-the-newest-world-ranking.md",
+      "title": "En News Events/2023/09/eth Zurich Again in 11th Place in The Newest World Ranking",
+      "language": "en",
+      "source_path": "en_news_events/2023/09/eth-zurich-again-in-11th-place-in-the-newest-world-ranking.html"
+    },
+    "temporal": {
+      "publication_date": "2023-09",
+      "mentioned_years": [
+        "2023",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Engineering",
+        "Joël Mesot",
+        "Quacquarelli Symonds"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student"
+        ],
+        "Joël Mesot": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "1,904",
+        "11th",
+        "30 percent",
+        "33 percent",
+        "93.1",
+        "Geophysics",
+        "World University Rankings",
+        "first",
+        "five",
+        "nearly four",
+        "nine",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Marine Science",
+        "World University",
+        "Times Higher",
+        "University Ranking",
+        "THE World",
+        "Institutional Research",
+        "Zurich Again",
+        "University Rankings",
+        "The Shanghai",
+        "World Ranking",
+        "Academic Ranking",
+        "Computer Science",
+        "Education World",
+        "The Newest",
+        "World Universities",
+        "En News",
+        "Quacquarelli Symonds",
+        "ETH Zurich",
+        "Paul Cross"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Architecture, Computer Science, Environmental",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Institutional Research",
+        "Paul Cross",
+        "QS",
+        "THE World University Ranking",
+        "The Newest World Ranking",
+        "The Shanghai Academic Ranking of World Universities",
+        "Times Higher Education",
+        "Times Higher Education World University Ranking",
+        "Zurich Again"
+      ],
+      "locations": [
+        "Earth",
+        "Europe",
+        "Shanghai",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "QS",
+        "11th",
+        "Times Higher Education",
+        "three",
+        "Shanghai",
+        "Zurich Again",
+        "The Newest World Ranking",
+        "1,904",
+        "a second year in a row"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Finding meaning in the data",
+          "Finding meaning in the data"
+        ],
+        "content_length": 4008
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "QS",
+        "THE World University Ranking",
+        "ETH Zurich’s",
+        "ERC",
+        "Architecture, Computer Science, Environmental",
+        "Institutional Research",
+        "Zurich Again",
+        "The Newest World Ranking",
+        "Joël Mesot",
+        "EU",
+        "2024",
+        "ETH Zurich",
+        "The Shanghai Academic Ranking of World Universities",
+        "Quacquarelli Symonds",
+        "Engineering",
+        "Times Higher Education World University Ranking",
+        "Times Higher Education",
+        "Paul Cross",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "11th",
+        "chemistry",
+        "World University Rankings",
+        "when",
+        "engineering",
+        "Geophysics",
+        "33 percent",
+        "1,904",
+        "30 percent",
+        "what",
+        "how",
+        "five",
+        "93.1",
+        "first",
+        "nine",
+        "nearly four",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "Joël Mesot_has_role_president",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

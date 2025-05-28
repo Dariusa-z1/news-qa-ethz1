@@ -1,0 +1,376 @@
+{
+  "filename": "in-13-fachgebieten-in-den-top-ten.md",
+  "original_filename": "in-13-fachgebieten-in-den-top-ten.html",
+  "source_path": "de_news_events/2019/02/in-13-fachgebieten-in-den-top-ten.html",
+  "date": "2019-02",
+  "title": "In 13 Fachgebieten In Den Top Ten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Die Rangierung der ETH Zürich in den einzelnen Fachgebieten im QS Ranking der letzten drei Jahre",
+      "text": "Bereits im Juni 2018 publizierte Quacquarelli Symonds (QS) das allgemeine World University Ranking 2019. Dort verbesserte sich die ETH gegenüber dem Vorjahr um drei Positionen und erreichte neu den siebten Rang. Nun hat QS das Ranking zu den unterschiedlichen Fachgebieten nachgeliefert. Da zeigt sich ein ähnlich positives Bild für die ETH: In 22 Fachgebieten wird die ETH rangiert. Dabei kann sie sich in 15 Disziplinen gegenüber dem Vorjahr verbessern, in sechs hält sie die Position und lediglich in einem Fachgebiet verliert sie einen Rang.\n\nSeit jeher ganz vorne dabei ist die ETH in den Ingenieurs-Disziplinen. Im übergeordneten Overall-Ranking für «Engineering & Technology» gehört die ETH neuerdings weltweit zu den besten drei Hochschulen. Dabei machte sie in den Fachgebieten «Chemical Engineering» (von 12 auf 5), «Electrical & Electronic Engineering» (von 11 auf 3) und «Civil & Structural Engineering» (von 17 auf 8) die grössten Sprünge nach vorne. Zu den besten zehn Universitäten der Welt gehört die ETH zudem im übergeordneten Ranking der Naturwissenschaften. Am besten schneidet sie dabei in den Erd- und Meereswissenschaften ab. Dort ist sie gemäss QS-Ranking seit mehreren Jahren die unangefochtene Nummer Eins. Neu schafft sie es zudem in den Umweltwissenschaften auf das Podium.\n\n«Auch wenn Hochschulvergleiche mit einer gewissen Vorsicht zu geniessen sind, freut mich die Konstanz, mit welcher sich die ETH an der weltweiten Spitze hält. Und dies in sehr unterschiedlichen Disziplinen», kommentiert ETH-Präsident Joël Mesot das neuste QS Subject Ranking."
+    },
+    {
+      "heading": "Über das QS-Ranking nach Fachgebieten",
+      "text": "Quelle: externe Seite QS Ranking by Subject 2019\n\nDas QS-Ranking erscheint seit 2004 und berücksichtigt mittlerweile 1222 Universitäten. Im Ranking nach Fachgebieten vergleicht QS die Hochschulen in insgesamt 48 unterschiedlichen Disziplinen. Im Vergleich zu anderen Rankings gewichtet das «QS World University Ranking» den Ruf, den eine Hochschule in der Fachwelt geniesst, besonders stark. Dieser trägt je nach Fachgebiet zwischen 40 und 60 Prozent zum Gesamtergebnis bei. Weiter befragen die Ranking-Macher auch Arbeitgeber darüber, wie gut sie die Absolventen der jeweiligen Hochschulen einschätzen (Reputation bei Arbeitgebern), was zwischen 10 bis 30 Prozent zum Gesamt-Score pro Fachgebiet beiträgt. Weitere Indikatoren sind die Zitationen pro Publikation (10 bis 25 Prozent) sowie der so genannte H-Index (zwischen 10 und 25 Prozent). Dieser H-Index versucht, sowohl die Produktivität als auch den Einfluss der Wissenschaftler zu messen. Der Index basiert dabei auf einer Auswahl der am häufigsten zitierten Arbeiten der Hochschule und der Anzahl der Zitate, die sie in anderen Publikationen erhalten haben."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Top Ten",
+        "label": "MISC",
+        "start": 49,
+        "end": 56
+      },
+      {
+        "text": "Quacquarelli Symonds",
+        "label": "PER",
+        "start": 33,
+        "end": 53
+      },
+      {
+        "text": "QS",
+        "label": "ORG",
+        "start": 55,
+        "end": 57
+      },
+      {
+        "text": "World University Ranking",
+        "label": "ORG",
+        "start": 74,
+        "end": 98
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 131,
+        "end": 134
+      },
+      {
+        "text": "QS",
+        "label": "ORG",
+        "start": 220,
+        "end": 222
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 337,
+        "end": 340
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 370,
+        "end": 373
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 582,
+        "end": 585
+      },
+      {
+        "text": "Ingenieurs-Disziplinen",
+        "label": "LOC",
+        "start": 593,
+        "end": 615
+      },
+      {
+        "text": "Engineering & Technology",
+        "label": "ORG",
+        "start": 656,
+        "end": 680
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 693,
+        "end": 696
+      },
+      {
+        "text": "Chemical Engineering",
+        "label": "ORG",
+        "start": 787,
+        "end": 807
+      },
+      {
+        "text": "Civil & Structural Engineering",
+        "label": "ORG",
+        "start": 883,
+        "end": 913
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1016,
+        "end": 1019
+      },
+      {
+        "text": "QS-Ranking",
+        "label": "MISC",
+        "start": 1168,
+        "end": 1178
+      },
+      {
+        "text": "Konstanz",
+        "label": "LOC",
+        "start": 1394,
+        "end": 1402
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1425,
+        "end": 1428
+      },
+      {
+        "text": "QS Subject Ranking",
+        "label": "ORG",
+        "start": 1557,
+        "end": 1575
+      },
+      {
+        "text": "QS-Ranking",
+        "label": "MISC",
+        "start": 53,
+        "end": 63
+      },
+      {
+        "text": "QS",
+        "label": "ORG",
+        "start": 176,
+        "end": 178
+      },
+      {
+        "text": "QS World University Ranking",
+        "label": "ORG",
+        "start": 290,
+        "end": 317
+      },
+      {
+        "text": "Ranking-Macher",
+        "label": "LOC",
+        "start": 494,
+        "end": 508
+      },
+      {
+        "text": "Gesamt-Score",
+        "label": "LOC",
+        "start": 668,
+        "end": 680
+      },
+      {
+        "text": "H-Index",
+        "label": "MISC",
+        "start": 804,
+        "end": 811
+      },
+      {
+        "text": "H-Index",
+        "label": "MISC",
+        "start": 849,
+        "end": 856
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Quacquarelli Symonds"
+      ],
+      "ORG": [
+        "Chemical Engineering",
+        "Civil & Structural Engineering",
+        "ETH",
+        "Engineering & Technology",
+        "QS",
+        "QS Subject Ranking",
+        "QS World University Ranking",
+        "World University Ranking"
+      ],
+      "LOCATION": [
+        "Gesamt-Score",
+        "Ingenieurs-Disziplinen",
+        "Konstanz",
+        "Ranking-Macher"
+      ],
+      "DATE": [],
+      "MISC": [
+        "H-Index",
+        "QS-Ranking",
+        "Top Ten"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 7,
+      "QS": 3,
+      "QS-Ranking": 2,
+      "H-Index": 2,
+      "De News": 1,
+      "Top Ten": 1,
+      "Quacquarelli Symonds": 1,
+      "World University Ranking": 1,
+      "Ingenieurs-Disziplinen": 1,
+      "Engineering & Technology": 1,
+      "Chemical Engineering": 1,
+      "Civil & Structural Engineering": 1,
+      "Konstanz": 1,
+      "QS Subject Ranking": 1,
+      "QS World University Ranking": 1,
+      "Ranking-Macher": 1,
+      "Gesamt-Score": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "in-13-fachgebieten-in-den-top-ten.md",
+      "title": "De News Events/2019/02/in 13 Fachgebieten in den Top Ten",
+      "language": "de",
+      "source_path": "de_news_events/2019/02/in-13-fachgebieten-in-den-top-ten.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2004",
+        "2018",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Quacquarelli Symonds"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "H-Index",
+        "QS-Ranking",
+        "Top Ten"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Structural Engineering",
+        "Weitere Indikatoren",
+        "Chemical Engineering",
+        "World University",
+        "University Ranking",
+        "QS World",
+        "Overall-Ranking",
+        "Dieser H",
+        "Top Ten",
+        "QS Subject",
+        "Im Vergleich",
+        "Nummer Eins",
+        "H-Index",
+        "Ranking-Macher",
+        "Der Index",
+        "QS-Ranking",
+        "Gesamt-Score",
+        "Ingenieurs-Disziplinen",
+        "Electronic Engineering",
+        "Im Ranking",
+        "De News",
+        "Seite QS",
+        "Quacquarelli Symonds",
+        "Das QS"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Chemical Engineering",
+        "Civil & Structural Engineering",
+        "ETH",
+        "Engineering & Technology",
+        "QS",
+        "QS Subject Ranking",
+        "QS World University Ranking",
+        "World University Ranking"
+      ],
+      "locations": [
+        "Gesamt-Score",
+        "Ingenieurs-Disziplinen",
+        "Konstanz",
+        "Ranking-Macher"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "QS",
+        "QS-Ranking",
+        "H-Index",
+        "De News",
+        "Top Ten",
+        "Quacquarelli Symonds",
+        "World University Ranking",
+        "Ingenieurs-Disziplinen",
+        "Engineering & Technology"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Die Rangierung der ETH Zürich in den einzelnen Fachgebieten im QS Ranking der letzten drei Jahre",
+          "Über das QS-Ranking nach Fachgebieten"
+        ],
+        "content_length": 2751
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "QS Subject Ranking",
+        "2019",
+        "Chemical Engineering",
+        "EU",
+        "Civil & Structural Engineering",
+        "World University Ranking",
+        "De News",
+        "2004",
+        "QS",
+        "Quacquarelli Symonds",
+        "Engineering & Technology",
+        "QS World University Ranking"
+      ],
+      "semantic_concepts": [
+        "Top Ten",
+        "H-Index",
+        "chemistry",
+        "where",
+        "what",
+        "QS-Ranking",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+# nitrogen-build-up-in-the-oceans.html
+
+**Source:** en_news_events/2014/11/nitrogen-build-up-in-the-oceans.html
+
+## Transported thousands of kilometres
+
+When fossil fuels are burned at high temperatures, such as in coal and gas-fired power stations, nitrogen oxide and other reactive nitrogen compounds are formed and released into the atmosphere. Agricultural activities also have the same effect, when a part of the nitrogen found in fertiliser is lost into the atmosphere in the form of nitrogen oxide or ammonia. These emissions have risen dramatically in the past decades, particularly in East Asia where they have grown by 40 per cent in the past 10 years.
+
+Scientists have long assumed that nitrogen emissions lead at most to regional problems, such as poor air quality, and have been less concerned about the global consequences. The reason is that rain is very effective at washing out most of the reactive nitrogen, typically returning it back to from where it was emitted.
+
+## Transported thousands of kilometres
+
+An international research team with the participation of ETH Zurich now reveals a different picture. In a recently published study in the journal Science, the team reported an increase in the nitrate content – the most stable form of reactive nitrogen in the ocean – in the North Pacific. The team attributes this increase to anthropogenic nitrogen emissions in East Asia. “We have conclusively demonstrated in this study for the very first time that humans are directly intervening in the nitrogen cycle of the oceans and it is happening thousands of kilometres away from the source,” says Nicolas Gruber, professor of environmental physics at ETH Zurich and co-author of the study.
+
+According to the study, the increase of the nitrate concentration in the North Pacific is mostly attributable to combustion processes in East Asia and to a lesser extent from agricultural activities in that region. The prevailing westerly winds carry these substances across the Pacific, where the rain flushes them from the air into the sea.
+
+## A look into the past
+
+## Literature reference
+
+Scientists on a research vessel taking water samples – here in the Atlantic Ocean. (Photo: Nicolas Gruber / ETH Zürich)
+
+The researchers used nutrient data from the past 20 years from different ocean depths for the study. “The ocean mixes at a slow pace and the water in the deeper ocean is older than that on the surface,” explains Gruber. The result is that samples taken from the deeper ocean allow conclusions to be drawn about the past chemical composition of the ocean surface – up to 40 years back.
+
+Until now, researchers had assumed that the man-induced increase in nitrogen build-up in the oceans via the atmosphere was too small to be detected, mainly because large amounts of nitrate are present in the ocean, especially at depth.
+
+A method developed by Gruber, which uses the ratio of nitrate to phosphate, enabled detection of the man-induced nitrogen build-up and the researchers could clearly identify the anthropogenic signal in the upper 500 metres of the ocean. The increase in the nitrate concentration, particularly in the vicinity of the surface, corresponds to almost a doubling of the local concentration. ETH doctoral student Simon Yang confirmed the detected nitrate increase by computer calculations using an Earth system model. The model calculations show a similar picture.
+
+The researchers can only speculate about the consequences of such a build-up of reactive nitrogen in the ocean. “Since the biologically available nitrogen in the North Pacific is relatively scarce in comparison with other nutrients, the build-up of nitrate may fertilize the growth of algae,” says Gruber. It is also conceivable that certain types of bacterial species may become rarer as a result, namely those that focus on nitrogen fixation. These bacteria can transform molecular nitrogen into biologically available nitrogen compounds. But when such nitrogen compounds accumulate due to the addition from the atmosphere, these microorganisms lose their ecological niche and are outcompeted by other organisms.
+
+The scientists plan to conduct a detailed investigation of the effects of nitrogen build-up in the ocean. This is particularly important as emissions are likely to continue increasing globally, causing a further increase in the atmospheric deposition of reactive nitrogen to the oceans.
+
+Kim IN, Lee K, Gruber N, Karl DM, Bullister JL, Yang S, Kim TW: Increasing anthropogenic nitrogen in the North Pacific Ocean. Science, online publication 27 November 2014, doi: 10.1126/science.1258396
+

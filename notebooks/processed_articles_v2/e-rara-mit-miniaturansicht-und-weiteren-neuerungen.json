@@ -1,0 +1,172 @@
+{
+  "filename": "e-rara-mit-miniaturansicht-und-weiteren-neuerungen.md",
+  "original_filename": "e-rara-mit-miniaturansicht-und-weiteren-neuerungen.html",
+  "source_path": "de_internal/2023/02/e-rara-mit-miniaturansicht-und-weiteren-neuerungen.html",
+  "date": "2023-02",
+  "title": "E Rara Mit Miniaturansicht Und Weiteren Neuerungen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "e-rara ist die Plattform für digitalisierte Drucke aus Schweizer Bibliotheken und verfügt derzeit über 98 815 Titel aus 26 Bibliotheken. Alle Inhalte können als PDF oder JPEG heruntergeladen werden und sind mit dem Public Domain Mark gekennzeichnet.\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.\n\nMehr als nur Daten – Vom Know-how profitieren"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2023/02/e Rara",
+        "label": "LOC",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 55,
+        "end": 64
+      },
+      {
+        "text": "PDF",
+        "label": "MISC",
+        "start": 161,
+        "end": 164
+      },
+      {
+        "text": "Public Domain Mark",
+        "label": "MISC",
+        "start": 215,
+        "end": 233
+      },
+      {
+        "text": "GewusstWie",
+        "label": "MISC",
+        "start": 250,
+        "end": 260
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 299,
+        "end": 313
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2023/02/e Rara"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "GewusstWie",
+        "PDF",
+        "Public Domain Mark",
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2023/02/e Rara": 1,
+      "Schweizer": 1,
+      "PDF": 1,
+      "Public Domain Mark": 1,
+      "GewusstWie": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "e-rara-mit-miniaturansicht-und-weiteren-neuerungen.md",
+      "title": "De Internal/2023/02/e Rara mit Miniaturansicht und Weiteren Neuerungen",
+      "language": "de",
+      "source_path": "de_internal/2023/02/e-rara-mit-miniaturansicht-und-weiteren-neuerungen.html"
+    },
+    "temporal": {
+      "publication_date": "2023-02",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "GewusstWie",
+        "Public Domain Mark",
+        "Schweizer"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Weiteren Neuerungen",
+        "Alle Inhalte",
+        "Die Infrastruktur",
+        "De Internal",
+        "Vom Know",
+        "Ihrem Ziel",
+        "Public Domain",
+        "Schweizer Bibliotheken"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2023/02/e Rara"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "De Internal/2023/02/e Rara",
+        "Schweizer",
+        "PDF",
+        "Public Domain Mark",
+        "GewusstWie",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 459
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Bibliothek",
+        "Schweizer",
+        "Public Domain Mark",
+        "how",
+        "GewusstWie",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

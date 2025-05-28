@@ -1,0 +1,181 @@
+{
+  "filename": "materialien-erforschen.md",
+  "original_filename": "materialien-erforschen.html",
+  "source_path": "de_internal/2014/08/materialien-erforschen.html",
+  "date": "2014-08",
+  "title": "Materialien Erforschen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Begleitend bietet die Website des Material-Archivs eine Fülle an Informationen zu Materialbeschrieb, Eigenschaften, Bearbeitungstechniken und Herstellungsverfahren. Fotos illustrieren darüber hinaus traditionelle und innovative Materialmuster und Anwendungsbeispiele.\n\nDie Sammlung steht Studierenden, Wissenschaftlern aus allen Disziplinen und allgemein interessierten Personen offen.\n\nWollen Sie mehr zu Calanca, Juglans oder Raku wissen? Dann browsen Sie durch das Material-Archiv oder besuchen Sie die Baubibliothek. Vielleicht entdecken Sie ja ein neues Lieblingsmaterial.\n\nMaterialsammlung externe Seite Material-Archiv Baubibliothek"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/08",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Material-Archivs",
+        "label": "LOC",
+        "start": 34,
+        "end": 50
+      },
+      {
+        "text": "Calanca",
+        "label": "PER",
+        "start": 404,
+        "end": 411
+      },
+      {
+        "text": "Raku",
+        "label": "LOC",
+        "start": 426,
+        "end": 430
+      },
+      {
+        "text": "Material-Archiv",
+        "label": "MISC",
+        "start": 466,
+        "end": 481
+      },
+      {
+        "text": "Baubibliothek",
+        "label": "LOC",
+        "start": 504,
+        "end": 517
+      },
+      {
+        "text": "Material-Archiv Baubibliothek",
+        "label": "PER",
+        "start": 607,
+        "end": 636
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Calanca",
+        "Material-Archiv Baubibliothek"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "Baubibliothek",
+        "De Internal/2014/08",
+        "Material-Archivs",
+        "Raku"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Material-Archiv"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2014/08": 1,
+      "Material-Archivs": 1,
+      "Calanca": 1,
+      "Raku": 1,
+      "Material-Archiv": 1,
+      "Baubibliothek": 1,
+      "Material-Archiv Baubibliothek": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "materialien-erforschen.md",
+      "title": "De Internal/2014/08/materialien Erforschen",
+      "language": "de",
+      "source_path": "de_internal/2014/08/materialien-erforschen.html"
+    },
+    "temporal": {
+      "publication_date": "2014-08",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Calanca",
+        "Material-Archiv Baubibliothek"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "Material-Archiv"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Material-Archivs",
+        "Seite Material",
+        "Die Sammlung",
+        "De Internal",
+        "Erforschen Begleitend",
+        "Archiv Baubibliothek",
+        "Material-Archiv",
+        "Wollen Sie"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Baubibliothek",
+        "De Internal/2014/08",
+        "Material-Archivs",
+        "Raku"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De Internal/2014/08",
+        "Material-Archivs",
+        "Calanca",
+        "Raku",
+        "Material-Archiv",
+        "Baubibliothek",
+        "Material-Archiv Baubibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 682
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2014",
+        "Calanca",
+        "EU",
+        "Material-Archiv Baubibliothek"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Material-Archiv",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "filename": "new-salary-system-evaluated.md",
+  "original_filename": "new-salary-system-evaluated.html",
+  "source_path": "en_internal/2016/03/new-salary-system-evaluated.html",
+  "date": "2016-03",
+  "title": "New Salary System Evaluated",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Since 1 January 2006, the salaries of non-academic staff and senior scientists in permanent employment within the ETH Domain have been based on the New Salary System (NSS). Employees are assigned to function levels in the NSS. Within the confines of available resources, individual salary increments take into account both the employee’s experience and the supervisor’s assessment of the employee’s performance.\n\nAccording to the external evaluation, the NSS is a serviceable instrument for defining salaries appropriate to roles and managing them based on performance and experience. The New Salary System should be retained. The ETH Board has come to this conclusion despite considerable criticism of the evaluation coming from the university assemblies, staff commissions and staff associations (link to \" Stellungnahme der Hochschulversammlung der ETH Zürich \").\n\nThe absence of wage differentials between men and women in the ETH Domain was worthy of special mention. The NSS should be retained. The institutions will now work to refine the system to meet their specific circumstances and needs."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Salary System Evaluated",
+        "label": "ORG",
+        "start": 24,
+        "end": 47
+      },
+      {
+        "text": "1 January 2006",
+        "label": "DATE",
+        "start": 6,
+        "end": 20
+      },
+      {
+        "text": "the ETH Domain",
+        "label": "ORG",
+        "start": 110,
+        "end": 124
+      },
+      {
+        "text": "the New Salary System",
+        "label": "ORG",
+        "start": 144,
+        "end": 165
+      },
+      {
+        "text": "NSS",
+        "label": "ORG",
+        "start": 167,
+        "end": 170
+      },
+      {
+        "text": "NSS",
+        "label": "ORG",
+        "start": 222,
+        "end": 225
+      },
+      {
+        "text": "NSS",
+        "label": "ORG",
+        "start": 454,
+        "end": 457
+      },
+      {
+        "text": "The New Salary System",
+        "label": "ORG",
+        "start": 584,
+        "end": 605
+      },
+      {
+        "text": "The ETH Board",
+        "label": "ORG",
+        "start": 626,
+        "end": 639
+      },
+      {
+        "text": "Stellungnahme der Hochschulversammlung der",
+        "label": "WORK_OF_ART",
+        "start": 808,
+        "end": 850
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "PERSON",
+        "start": 851,
+        "end": 861
+      },
+      {
+        "text": "the ETH Domain",
+        "label": "FAC",
+        "start": 925,
+        "end": 939
+      },
+      {
+        "text": "NSS",
+        "label": "ORG",
+        "start": 975,
+        "end": 978
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zürich"
+      ],
+      "ORG": [
+        "NSS",
+        "Salary System Evaluated",
+        "The ETH Board",
+        "The New Salary System",
+        "the ETH Domain",
+        "the New Salary System"
+      ],
+      "LOCATION": [
+        "the ETH Domain"
+      ],
+      "DATE": [
+        "1 January 2006"
+      ],
+      "MISC": [
+        "Stellungnahme der Hochschulversammlung der"
+      ]
+    },
+    "entity_counts": {
+      "NSS": 4,
+      "the ETH Domain": 2,
+      "Salary System Evaluated": 1,
+      "1 January 2006": 1,
+      "the New Salary System": 1,
+      "The New Salary System": 1,
+      "The ETH Board": 1,
+      "Stellungnahme der Hochschulversammlung der": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-salary-system-evaluated.md",
+      "title": "En Internal/2016/03/new Salary System Evaluated",
+      "language": "en",
+      "source_path": "en_internal/2016/03/new-salary-system-evaluated.html"
+    },
+    "temporal": {
+      "publication_date": "2016-03",
+      "mentioned_years": [
+        "2006",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zürich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Stellungnahme der Hochschulversammlung der"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Domain",
+        "The NSS",
+        "New Salary",
+        "En Internal",
+        "Salary System",
+        "Evaluated Since",
+        "The New",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "NSS",
+        "Salary System Evaluated",
+        "The ETH Board",
+        "The New Salary System",
+        "the ETH Domain",
+        "the New Salary System"
+      ],
+      "locations": [
+        "the ETH Domain"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "where"
+      ],
+      "key_concepts": [
+        "NSS",
+        "the ETH Domain",
+        "Salary System Evaluated",
+        "1 January 2006",
+        "the New Salary System",
+        "The New Salary System",
+        "The ETH Board",
+        "Stellungnahme der Hochschulversammlung der",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1148
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "The ETH Board",
+        "The New Salary System",
+        "Salary System Evaluated",
+        "2016",
+        "the ETH Domain",
+        "ETH Zürich",
+        "NSS",
+        "the New Salary System",
+        "2006"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Stellungnahme der Hochschulversammlung der",
+        "where",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

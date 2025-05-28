@@ -1,0 +1,233 @@
+{
+  "filename": "townhall-rethink.md",
+  "original_filename": "townhall-rethink.html",
+  "source_path": "de_internal/2021/06/townhall-rethink.html",
+  "date": "2021-06",
+  "title": "Townhall Rethink",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Aufzeichnung der Townhall vom 29. Juni 2021",
+      "text": "«Wir wollen uns mit rETHink mehr Zeit und Ressourcen für unsere Kernaufgaben schaffen», eröffnete Joël Mesot die virtuelle Townhall. Wo die ETH dazu die Hebel ansetzen muss, haben über 600 ETH-Angehörige aus allen Bereichen in sechs sogenannten Workstreams über die letzten Monate erarbeitet.\n\nAn der Townhall haben die Verantwortlichen der Workstreams die Ergebnisse ihrer detaillierten Analyse sowie die Handlungsfelder, die sie daraus ableiteten, präsentiert. Die grosse Anzahl an Rednerinnen und Rednern – 13 an der Zahl – demonstrierte eindrücklich, dass rETHink von einem Projekt der Schulleitung zu einem ETH-Projekt geworden ist. Dazu Joël Mesot: «Ich bin beeindruckt wie viele Kolleginnen und Kollegen mittlerweile bei rETHink mitgewirkt haben und mit welch grossem Engagement sie sich für die Zukunft unserer Hochschule einsetzen. Da kommt unsere kollektive Intelligenz so richtig zum Tragen.»\n\nIn den kommenden Monaten wird weiter über den Projektfortschritt informiert – schliesslich geht es nun in die Umsetzung von Massnahmen. Oder wie es Joël Mesot in seinem Schlusswort formuliert hat: «Jetzt beginnt die eigentliche Arbeit.»"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2021/06/townhall Rethink",
+        "label": "LOC",
+        "start": 0,
+        "end": 36
+      },
+      {
+        "text": "rETHink",
+        "label": "MISC",
+        "start": 20,
+        "end": 27
+      },
+      {
+        "text": "Joël",
+        "label": "PER",
+        "start": 98,
+        "end": 102
+      },
+      {
+        "text": "Mesot",
+        "label": "PER",
+        "start": 103,
+        "end": 108
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 140,
+        "end": 143
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 189,
+        "end": 203
+      },
+      {
+        "text": "Workstreams",
+        "label": "MISC",
+        "start": 245,
+        "end": 256
+      },
+      {
+        "text": "Workstreams",
+        "label": "ORG",
+        "start": 340,
+        "end": 351
+      },
+      {
+        "text": "Handlungsfelder",
+        "label": "PER",
+        "start": 405,
+        "end": 420
+      },
+      {
+        "text": "rETHink",
+        "label": "MISC",
+        "start": 559,
+        "end": 566
+      },
+      {
+        "text": "Joël",
+        "label": "PER",
+        "start": 642,
+        "end": 646
+      },
+      {
+        "text": "rETHink",
+        "label": "MISC",
+        "start": 727,
+        "end": 734
+      },
+      {
+        "text": "Massnahmen",
+        "label": "LOC",
+        "start": 1027,
+        "end": 1037
+      },
+      {
+        "text": "Joël Mesot",
+        "label": "PER",
+        "start": 1051,
+        "end": 1061
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Handlungsfelder",
+        "Joël",
+        "Joël Mesot",
+        "Mesot"
+      ],
+      "ORG": [
+        "ETH",
+        "Workstreams"
+      ],
+      "LOCATION": [
+        "De Internal/2021/06/townhall Rethink",
+        "Massnahmen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige",
+        "Workstreams",
+        "rETHink"
+      ]
+    },
+    "entity_counts": {
+      "rETHink": 3,
+      "Joël": 2,
+      "Workstreams": 2,
+      "De Internal/2021/06/townhall Rethink": 1,
+      "Mesot": 1,
+      "ETH": 1,
+      "ETH-Angehörige": 1,
+      "Handlungsfelder": 1,
+      "Massnahmen": 1,
+      "Joël Mesot": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "townhall-rethink.md",
+      "title": "De Internal/2021/06/townhall Rethink",
+      "language": "de",
+      "source_path": "de_internal/2021/06/townhall-rethink.html"
+    },
+    "temporal": {
+      "publication_date": "2021-06",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Handlungsfelder",
+        "Joël",
+        "Joël Mesot",
+        "Mesot"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Angehörige",
+        "Workstreams",
+        "rETHink"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "De Internal",
+        "ETH-Projekt"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Workstreams"
+      ],
+      "locations": [
+        "De Internal/2021/06/townhall Rethink",
+        "Massnahmen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "rETHink",
+        "Joël",
+        "Workstreams",
+        "De Internal/2021/06/townhall Rethink",
+        "Mesot",
+        "ETH",
+        "ETH-Angehörige",
+        "Handlungsfelder",
+        "Massnahmen",
+        "Joël Mesot"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Aufzeichnung der Townhall vom 29. Juni 2021"
+        ],
+        "content_length": 1178
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Mesot",
+        "ETH",
+        "Joël Mesot",
+        "Handlungsfelder",
+        "Workstreams",
+        "Joël",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Angehörige",
+        "rETHink",
+        "Workstreams"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

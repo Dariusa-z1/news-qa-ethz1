@@ -1,0 +1,164 @@
+{
+  "filename": "power-is-not-intrinsically-good-or-bad.md",
+  "original_filename": "power-is-not-intrinsically-good-or-bad.html",
+  "source_path": "en_news_events/2023/08/power-is-not-intrinsically-good-or-bad.html",
+  "date": "2023-08",
+  "title": "Power Is Not Intrinsically Good Or Bad",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "About",
+      "text": "You study the effects of social power on human behaviour. What does that involve? Social power is about asserting control over coveted resources. Not just money or food, but also things like affection or knowledge. Yet it’s not enough to simply have control over those resources – you only become socially powerful if someone else desires them.\n\nWhich of your findings has surprised you most? Power was long regarded as something that sets us free, enabling us to do whatever we choose, regardless of social constraints. This gave rise to the idea that power inevitably leads people to process information rapidly and automatically and to behave in uninhibited ways. But my research has shown that people who feel powerful actually do a better job of controlling their behaviour and their cognitive processes, which is why they are more likely to achieve their goals than people who feel powerless.\n\nAre there any situations where you feel powerless? Whenever my work gets peer-reviewed by “Reviewer 2”! That’s the jokey term we use for the kind of arrogant, condescending peer reviewers who deploy a barrage of destructive and biased criticism when evaluating academic papers.\n\nDo we have any control over our own social power? You can gain social power by climbing the hierarchical ladder. But power is also a psychological state; in other words, people exhibit different feelings of power independently of their social ranking. These feelings are determined by a person’s character or mood, but are also influenced by external factors such as the situation or interaction partner.\n\nDo people who feel powerful make better workers? Power is not intrinsically good or bad. Those who feel powerful get less distracted and find it easier to prioritise things, which could certainly be beneficial in a work context. But my research shows that people who feel powerful are also more likely to stereotype and have prejudices against other groups.\n\nWhat’s the best way to motivate employees? Show your appreciation. People want their work to be acknowledged and appreciated."
+    },
+    {
+      "heading": "About",
+      "text": "Petra Schmid is Professor of Organisational Behaviour in the Department of Management, Technology and Economics at ETH Zurich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Petra Schmid",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Organisational Behaviour",
+        "label": "ORG",
+        "start": 29,
+        "end": 53
+      },
+      {
+        "text": "the Department of Management, Technology and Economics",
+        "label": "ORG",
+        "start": 57,
+        "end": 111
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "GPE",
+        "start": 115,
+        "end": 125
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Organisational Behaviour",
+        "Petra Schmid",
+        "the Department of Management, Technology and Economics"
+      ],
+      "LOCATION": [
+        "ETH Zurich"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Petra Schmid": 1,
+      "Organisational Behaviour": 1,
+      "the Department of Management, Technology and Economics": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "power-is-not-intrinsically-good-or-bad.md",
+      "title": "En News Events/2023/08/power Is Not Intrinsically Good Or Bad",
+      "language": "en",
+      "source_path": "en_news_events/2023/08/power-is-not-intrinsically-good-or-bad.html"
+    },
+    "temporal": {
+      "publication_date": "2023-08",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Intrinsically Good",
+        "En News",
+        "Petra Schmid",
+        "Or Bad",
+        "Organisational Behaviour",
+        "ETH Zurich",
+        "Is Not"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Management"
+      ],
+      "institutions": [
+        "Organisational Behaviour",
+        "Petra Schmid",
+        "the Department of Management, Technology and Economics"
+      ],
+      "locations": [
+        "ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Petra Schmid",
+        "Organisational Behaviour",
+        "the Department of Management, Technology and Economics",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "About",
+          "About"
+        ],
+        "content_length": 2258
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Petra Schmid",
+        "the Department of Management, Technology and Economics",
+        "Organisational Behaviour",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

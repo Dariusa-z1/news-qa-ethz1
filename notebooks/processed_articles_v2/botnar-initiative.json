@@ -1,0 +1,280 @@
+{
+  "filename": "botnar-initiative.md",
+  "original_filename": "botnar-initiative.html",
+  "source_path": "de_news_events/2020/03/botnar-initiative.html",
+  "date": "2020-03",
+  "title": "Botnar Initiative",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das Botnar Research Center for Child Health (BRCCH), das 2019 gemeinsam von der ETH Zürich und der Universität Basel gegründet wurde, entwickelt neue pädiatrische Ansätze, um weltweit die Gesundheit von Kindern und Jugendlichen zu fördern. Am Zentrum engagieren sich auch Forschende des Universitätskinderspitals Basel sowie des Schweizerisches Tropen- und Public Health-Instituts.\n\nAngesicht der globalen Covid-19-Krise lanciert das BRCCH nun zum erstem Mal eine Notfallinitiative, um möglichst rasch praktikable Ansätze zu entwickeln, wie diese aussergewöhnliche Situation gemeistert werden kann. Dazu hat die Fondation Botnar, welche die Gründung dieses Zentrums mit einer Donation ermöglicht hat, nun zusätzliche Mittel in der Höhe von 15 Millionen Franken gesprochen. Mit den Geldern werden Projekte der vier beteiligten Institutionen über einen Zeitraum von zweieinhalb Jahren unterstützt. Gefördert werden Vorhaben, die sich mit der Diagnose und der menschlichen Immunantwort auf Covid-19 befassen, aber auch Projekte in den Bereichen medizinische Interventionen und Krankheitsmanagement.\n\nZiel dieser kurzfristig lancierten Initiative ist es, mit Hilfe der Kompetenzen der beteiligten Partner dringende Probleme bei der Bekämpfung der Covid-19-Pandemie zu lösen. Gleichzeitig sollen auch längerfristige Ansätze entwickelt werden, damit ähnliche Situationen künftig weltweit besser gemeistert werden können."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Botnar Research Center for Child Health",
+        "label": "ORG",
+        "start": 4,
+        "end": 43
+      },
+      {
+        "text": "BRCCH",
+        "label": "ORG",
+        "start": 45,
+        "end": 50
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 80,
+        "end": 90
+      },
+      {
+        "text": "Universität Basel",
+        "label": "ORG",
+        "start": 99,
+        "end": 116
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 243,
+        "end": 250
+      },
+      {
+        "text": "Basel",
+        "label": "LOC",
+        "start": 313,
+        "end": 318
+      },
+      {
+        "text": "Schweizerisches Tropen- und Public Health-Instituts",
+        "label": "ORG",
+        "start": 329,
+        "end": 380
+      },
+      {
+        "text": "Covid-19-Krise",
+        "label": "MISC",
+        "start": 405,
+        "end": 419
+      },
+      {
+        "text": "BRCCH",
+        "label": "MISC",
+        "start": 433,
+        "end": 438
+      },
+      {
+        "text": "Botnar",
+        "label": "LOC",
+        "start": 621,
+        "end": 627
+      },
+      {
+        "text": "Zentrums",
+        "label": "ORG",
+        "start": 656,
+        "end": 664
+      },
+      {
+        "text": "Geldern",
+        "label": "LOC",
+        "start": 780,
+        "end": 787
+      },
+      {
+        "text": "Covid-19",
+        "label": "LOC",
+        "start": 986,
+        "end": 994
+      },
+      {
+        "text": "Krankheitsmanagement",
+        "label": "MISC",
+        "start": 1073,
+        "end": 1093
+      },
+      {
+        "text": "Covid-19-Pandemie",
+        "label": "MISC",
+        "start": 1241,
+        "end": 1258
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News"
+      ],
+      "ORG": [
+        "BRCCH",
+        "Botnar Research Center for Child Health",
+        "ETH Zürich",
+        "Schweizerisches Tropen- und Public Health-Instituts",
+        "Universität Basel",
+        "Zentrum",
+        "Zentrums"
+      ],
+      "LOCATION": [
+        "Basel",
+        "Botnar",
+        "Covid-19",
+        "Geldern"
+      ],
+      "DATE": [],
+      "MISC": [
+        "BRCCH",
+        "Covid-19-Krise",
+        "Covid-19-Pandemie",
+        "Krankheitsmanagement"
+      ]
+    },
+    "entity_counts": {
+      "BRCCH": 2,
+      "De News": 1,
+      "Botnar Research Center for Child Health": 1,
+      "ETH Zürich": 1,
+      "Universität Basel": 1,
+      "Zentrum": 1,
+      "Basel": 1,
+      "Schweizerisches Tropen- und Public Health-Instituts": 1,
+      "Covid-19-Krise": 1,
+      "Botnar": 1,
+      "Zentrums": 1,
+      "Geldern": 1,
+      "Covid-19": 1,
+      "Krankheitsmanagement": 1,
+      "Covid-19-Pandemie": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "botnar-initiative.md",
+      "title": "De News Events/2020/03/botnar Initiative",
+      "language": "de",
+      "source_path": "de_news_events/2020/03/botnar-initiative.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "medical_research"
+      ],
+      "research_topics": [
+        "BRCCH",
+        "Covid-19-Krise",
+        "Covid-19-Pandemie",
+        "Krankheitsmanagement"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Initiative Das",
+        "Child Health",
+        "Schweizerisches Tropen",
+        "Public Health",
+        "De News",
+        "Am Zentrum",
+        "Millionen Franken",
+        "Botnar Research",
+        "Fondation Botnar"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BRCCH",
+        "Botnar Research Center for Child Health",
+        "ETH Zürich",
+        "Schweizerisches Tropen- und Public Health-Instituts",
+        "Universität Basel",
+        "Zentrum",
+        "Zentrums"
+      ],
+      "locations": [
+        "Basel",
+        "Botnar",
+        "Covid-19",
+        "Geldern"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "BRCCH",
+        "De News",
+        "Botnar Research Center for Child Health",
+        "ETH Zürich",
+        "Universität Basel",
+        "Zentrum",
+        "Basel",
+        "Schweizerisches Tropen- und Public Health-Instituts",
+        "Covid-19-Krise",
+        "Botnar"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1455
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Universität Basel",
+        "Zentrums",
+        "2019",
+        "EU",
+        "2020",
+        "ETH Zürich",
+        "Zentrum",
+        "De News",
+        "Schweizerisches Tropen- und Public Health-Instituts",
+        "Botnar Research Center for Child Health",
+        "BRCCH"
+      ],
+      "semantic_concepts": [
+        "Krankheitsmanagement",
+        "Covid-19-Pandemie",
+        "what",
+        "medical_research",
+        "Covid-19-Krise",
+        "BRCCH"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research"
+      ]
+    }
+  }
+}

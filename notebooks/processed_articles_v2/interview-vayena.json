@@ -1,0 +1,360 @@
+{
+  "filename": "interview-vayena.md",
+  "original_filename": "interview-vayena.html",
+  "source_path": "en_news_events/2018/03/interview-vayena.html",
+  "date": "2018-03",
+  "title": "Interview Vayena",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Globe: Tailor-made medicine",
+      "text": "ETH News: Switzerland is hoping to set up a national database infrastructure for personalised medicine over the next four years. Are we ready to take that step? Effy Vayena: I would say we’re getting ready. This is the phase where we need to set up systems for handling data from patients and healthy individuals responsibly. Generating and processing this kind of data raises technological, scientific and societal questions that we must address.\n\nWhat’s your take on the public debate about these issues? My impression is that there’s plenty of enthusiasm for new data technologies among the general public. But people are also concerned and even worried. For example, many people are anxious about excessive surveillance and monitoring by social media and internet companies, which is perfectly reasonable; they disapprove of personal data being used in a non-transparent way. People have similar concerns about their health data, however, in health care and health research there has always been serious effort for responsible and transparent use of health data.\n\nBut in January we learned that hackers had managed to breach the IT systems of one of Norway’s health authorities. That’s right. Unfortunately, cybercrime is an issue that affects health data in the same way as other types of personal data. That’s why it’s so important to have a secure data infrastructure. In fact, people are already making major efforts to protect health data from misuse and, like many other countries, Switzerland sees the establishment of a secure infrastructure as one of its top priorities. But it’s clear that our institutions need to demonstrate to the general public that they are meeting strict standards and deserve people’s trust."
+    },
+    {
+      "heading": "Magazin Globe",
+      "text": "What’s the level of trust like at the moment? People trust healthcare institutions. They feel safe when they go to hospitals. It’s true that some studies highlight a lack of trust in public institutions all over the world, but they also show that healthcare institutions tend to inspire more trust than other kinds of organisations. Maintaining that trust is something that matters to all of us – institutions and researchers alike. Trust really is essential.\n\nHow do you go about maintaining or even increasing that trust? We have an obligation to handle people’s data very carefully. Clarifying responsibilities across all aspects of data processing is crucial too. Everyone needs to know who’s responsible for what, and such responsibilities should be taken seriously. What’s more, we need to be transparent and communicate clearly with the public – and by that I mean a frank dialogue, not just PR. The public must understand why their data is needed and what it’s used for. And those of us working in research institutions need to listen more and find out what people’s concerns are. The data used in personalised medicine stems from patients and healthy citizens, and many of the activities involved are funded by taxpayers. It’s a matter of respect to engage people in discussions about what we’re doing.\n\nHealth data is generally held by hospitals. But researchers from other institutions would like to make use of it, too. That means they need access to the data. What conditions need to be in place for that to happen? Anyone who provides access to data has to ensure that the recipient fulfils a series of requirements in regard to data privacy, data security and other issues. The recipient also needs to have a well-justified reason for requesting access to data – one that shows some social value. And, obviously, access to personal data may be given only if the person it concerns has authorised this.\n\nThere was quite a controversy in the UK when the National Health Service (NHS) gave Google DeepMind access to patients’ medical records. That didn’t exactly inspire trust. This agreement seemed poorly thought out; an excel­lent example of how not to do things! UK citizens felt that their privacy had been violated. When a public institution grants a private company access to per­sonal data, they may well have a good reason. But that reason needs to be out in the open, and they need to be fully upfront about who is going to benefit from sharing the data. The events in the UK have had negative repercussions. We have similar concerns in Switzerland, even though our institutions weren’t implicated in those controversies.\n\nThe right to privacy runs counter to society’s interest in using data to eradicate diseases. Do you think we’ll reach a point where we have a moral obligation to make our health data publicly available? It can’t just be about a duty on one side. The moment you talk about an individual duty to share, then you also need a duty on the insti­tutional side to respect individual rights and interests. I would therefore be cautious about putting forward an unconditional moral obligation to share personal data. There are some areas, however, in which giv­ing up some of our privacy could offer genu­ine advantages to society as a whole. But the condition is that the benefit be fairly distrib­uted to all, and might also reach the person who contributed in the first place. Some have argued that we would have to negotiate a new social contract similar to the model we’ve used in taxation – in other words, everyone making an individual contribution to the common good for the benefit of all.\n\nPersonalised medicine will transform our society. It could even shift the boundary between being healthy or sick. If a person has a gene that increases their risk of cancer, are they healthy or sick? That’s a point that’s being debated. I recently participated in an event entitled “Are we all sick?”, but I don’t see personal­ised medicine leading us to that. Right now, we’re busy gaining a better understanding of why we get sick. That could lead to the development of new concepts of health and sickness; we might start to view sickness more as a progressive process.\n\nWhat do we need to focus on to make the personalised medicine project a success over the course of the next few years? Two crucial points: Firstly, there are lots of databases that contain health data. Opening them up to researchers could yield some major benefits. It could enable us to generate knowledge that would improve individuals’ quality of life and the healthcare system as a whole. But if we do open them up, we need to proceed very carefully and pay plenty of attention to the ethical challenges involved. Secondly, once we develop this knowledge, we need to ensure that medicine doesn’t head in a direction that would be financially unsustainable. This new knowledge should benefit people and society; it is then that it will increase their trust in personalised medicine. But trust is fragile and can easily evaporate; then it’s hard to win it back. My job as a bioethicist is to consider these kinds of questions – not just theoretically, but also in practice. Based on my research, I also formulate recommendations that inform policy stakeholders in Switzerland and abroad.\n\nEffy Vayena is Professor of Bioethics at the Institute of Translational Medicine at ETH Zurich. She deals with ethical, legal and societal issues in personalised medicine"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Vayena",
+        "label": "WORK_OF_ART",
+        "start": 33,
+        "end": 39
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 10,
+        "end": 21
+      },
+      {
+        "text": "the next four years",
+        "label": "DATE",
+        "start": 108,
+        "end": 127
+      },
+      {
+        "text": "Vayena",
+        "label": "PERSON",
+        "start": 166,
+        "end": 172
+      },
+      {
+        "text": "January",
+        "label": "DATE",
+        "start": 1073,
+        "end": 1080
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1145,
+        "end": 1148
+      },
+      {
+        "text": "Norway",
+        "label": "GPE",
+        "start": 1152,
+        "end": 1158
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1490,
+        "end": 1501
+      },
+      {
+        "text": "UK",
+        "label": "GPE",
+        "start": 1952,
+        "end": 1954
+      },
+      {
+        "text": "the National Health Service",
+        "label": "ORG",
+        "start": 1960,
+        "end": 1987
+      },
+      {
+        "text": "Google DeepMind",
+        "label": "ORG",
+        "start": 1999,
+        "end": 2014
+      },
+      {
+        "text": "UK",
+        "label": "GPE",
+        "start": 2176,
+        "end": 2178
+      },
+      {
+        "text": "UK",
+        "label": "GPE",
+        "start": 2492,
+        "end": 2494
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2556,
+        "end": 2567
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 2877,
+        "end": 2880
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 3399,
+        "end": 3404
+      },
+      {
+        "text": "the next few years",
+        "label": "DATE",
+        "start": 4302,
+        "end": 4320
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 4322,
+        "end": 4325
+      },
+      {
+        "text": "Firstly",
+        "label": "ORDINAL",
+        "start": 4342,
+        "end": 4349
+      },
+      {
+        "text": "Secondly",
+        "label": "ORDINAL",
+        "start": 4721,
+        "end": 4729
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 5269,
+        "end": 5280
+      },
+      {
+        "text": "Vayena",
+        "label": "PERSON",
+        "start": 5298,
+        "end": 5304
+      },
+      {
+        "text": "the Institute of Translational Medicine",
+        "label": "ORG",
+        "start": 5334,
+        "end": 5373
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 5377,
+        "end": 5387
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Vayena"
+      ],
+      "ORG": [
+        "ETH News",
+        "ETH Zurich",
+        "Google DeepMind",
+        "the Institute of Translational Medicine",
+        "the National Health Service"
+      ],
+      "LOCATION": [
+        "Norway",
+        "Switzerland",
+        "UK"
+      ],
+      "DATE": [
+        "January",
+        "the next few years",
+        "the next four years"
+      ],
+      "MISC": [
+        "Firstly",
+        "Secondly",
+        "Two",
+        "Vayena",
+        "first",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 4,
+      "Vayena": 3,
+      "UK": 3,
+      "one": 2,
+      "ETH News": 1,
+      "the next four years": 1,
+      "January": 1,
+      "Norway": 1,
+      "the National Health Service": 1,
+      "Google DeepMind": 1,
+      "first": 1,
+      "the next few years": 1,
+      "Two": 1,
+      "Firstly": 1,
+      "Secondly": 1,
+      "the Institute of Translational Medicine": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "interview-vayena.md",
+      "title": "En News Events/2018/03/interview Vayena",
+      "language": "en",
+      "source_path": "en_news_events/2018/03/interview-vayena.html"
+    },
+    "temporal": {
+      "publication_date": "2018-03",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Vayena"
+      ],
+      "people_with_roles": {
+        "Vayena": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Firstly",
+        "Secondly",
+        "Vayena",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC",
+        "grant"
+      ],
+      "projects": [
+        "Google DeepMind",
+        "En News",
+        "Effy Vayena",
+        "Translational Medicine",
+        "National Health",
+        "Vayena ETH",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH News",
+        "ETH Zurich",
+        "Google DeepMind",
+        "the Institute of Translational Medicine",
+        "the National Health Service"
+      ],
+      "locations": [
+        "Norway",
+        "Switzerland",
+        "UK"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "Vayena",
+        "UK",
+        "one",
+        "ETH News",
+        "the next four years",
+        "January",
+        "Norway",
+        "the National Health Service",
+        "Google DeepMind"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Globe: Tailor-made medicine",
+          "Magazin Globe"
+        ],
+        "content_length": 7240
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "the National Health Service",
+        "grant",
+        "Google DeepMind",
+        "ETH Zurich",
+        "the Institute of Translational Medicine",
+        "ETH News",
+        "Vayena",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Secondly",
+        "who",
+        "Vayena",
+        "Firstly",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Vayena_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

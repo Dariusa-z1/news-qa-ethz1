@@ -1,0 +1,549 @@
+{
+  "filename": "a-key-experiment-for-the-life-space-mission.md",
+  "original_filename": "a-key-experiment-for-the-life-space-mission.html",
+  "source_path": "en_news_events/2023/04/a-key-experiment-for-the-life-space-mission.html",
+  "date": "2023-04",
+  "title": "A Key Experiment For The Life Space Mission",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Abstract",
+      "text": "- The international LIFE initiative led by ETH Zurich hopes to one day detect traces of life on exoplanets.\n\n- A laboratory experiment under realistic conditions is now set to demonstrate the technical feasibility.\n\n- It can be realised thanks to a funding contribution of three million euros."
+    },
+    {
+      "heading": "The hunt for traces of life",
+      "text": "“It’s an important step on a very long road,” says Adrian Glauser, a senior scientist at the Institute for Particle Physics and Astrophysics at ETH Zurich. In late March, he and Sascha Quanz, a professor of astrophysics at ETH Zurich and head of the Exoplanets and Habitability Group, learned that the Swiss government will contribute nearly three million euros to support the NICE project as part of PRODEX (PROgramme de Développement d’EXpériences scientifiques), a European Space Agency (ESA) programme. This funding will enable ETH researchers to develop important technological foundations that are indispensable to realising the ambitious LIFE space mission."
+    },
+    {
+      "heading": "The hunt for traces of life",
+      "text": "The LIFE (Large Interferometer for Exoplanets) initiative is aimed at undertaking a more detailed study of Earth-like exoplanets – planets that are similar to Earth in size and temperature but orbit other stars. It will focus particularly on planetary systems within a distance of up to 65 light years from our solar system. The plan is to position five smaller satellites at L2, the Lagrange point that is home to the James Webb Space Telescope. Together, these satellites will form a large telescope that will act as an interferometer to pick up the exoplanets’ infrared thermal radiation. The spectrum of the light can then be used to deduce the composition of those exoplanets and their atmospheres. “Our goal is to detect chemical compounds in the light spectrum that hint at life on these exoplanets. Earth’s atmosphere, for example, contains oxygen and methane produced by biological activity,” explains Quanz, who leads the LIFE initiative."
+    },
+    {
+      "heading": "Technology suitable for space",
+      "text": "ESA has made the mission a high priority – LIFE is considered a candidate for a future major ESA science mission. However, today’s futuristic images showing how the five satellites will operate in space must not obscure the fact that the project relies on a major feat of technology and that many questions remain unanswered. One key question, for instance, is whether the measurements can even be carried out in the way the researchers have in mind.\n\nThe main problem in exoplanet research is that the much brighter light from the host star makes it difficult to detect the faint light its exoplanets reflect or emit. “The instruments have to be able to see the light of a firefly that’s next to a lighthouse 4,000 kilometres away,” Glauser says, explaining the demands on the measuring instruments.\n\nSince it isn’t possible to mechanically block out the host star when using the LIFE telescope, the researchers plan to use what is known as nulling interferometry to eliminate this source of interference. For this, the light that the individual satellites pick up from the host star is phase shifted combined in a way that it effectively cancels it out. The light from the exoplanet, on the other hand, which hits the satellites coming from a slightly different angle from the plane of the sky, is not cancelled out by this superposition. This makes it possible to see the faint objects next to the bright star – which is the first step towards detecting any clues of chemical compounds in their atmospheres.\n\nPlanetary researchers have already demonstrated in earlier experiments that nulling interferometry generally works in the infrared range. The question now is whether this measurement principle can also be used for faint Earth-like planets. “To ensure that ambient heat doesn’t interfere with the already weak infrared signals, we have to carry out the measurements under the extremely cold conditions that prevail at Lagrange point L2,” Glauser explains.\n\nIn NICE, the Nulling Interferometer Cryogenic Experiment, the measurement apparatus is placed in a so-called cryostat that is cooled to a temperature of −260°C. Here, too, there are a few fundamental questions that need to be answered: How can the instrument in the cryostat be adjusted to nanometre precision from the outside for optimum suppression of the simulated starlight? And what materials are suitable for this? “We’ll be working on this project with industry partners who have experience with space technologies,” Glauser says. “Our goal with this experiment is to develop a measurement method that can then later also be used in space.” This brings the realisation of the LIFE mission and the search for life beyond Earth a big step closer."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Life Space Mission",
+        "label": "WORK_OF_ART",
+        "start": 44,
+        "end": 66
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 43,
+        "end": 53
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 63,
+        "end": 70
+      },
+      {
+        "text": "three million",
+        "label": "CARDINAL",
+        "start": 271,
+        "end": 284
+      },
+      {
+        "text": "Adrian Glauser",
+        "label": "PERSON",
+        "start": 51,
+        "end": 65
+      },
+      {
+        "text": "the Institute for Particle Physics",
+        "label": "ORG",
+        "start": 89,
+        "end": 123
+      },
+      {
+        "text": "Astrophysics",
+        "label": "EVENT",
+        "start": 128,
+        "end": 140
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 144,
+        "end": 154
+      },
+      {
+        "text": "late March",
+        "label": "DATE",
+        "start": 159,
+        "end": 169
+      },
+      {
+        "text": "Sascha Quanz",
+        "label": "PERSON",
+        "start": 178,
+        "end": 190
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 223,
+        "end": 233
+      },
+      {
+        "text": "Exoplanets",
+        "label": "ORG",
+        "start": 250,
+        "end": 260
+      },
+      {
+        "text": "Habitability Group",
+        "label": "ORG",
+        "start": 265,
+        "end": 283
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 302,
+        "end": 307
+      },
+      {
+        "text": "nearly three million",
+        "label": "CARDINAL",
+        "start": 335,
+        "end": 355
+      },
+      {
+        "text": "NICE",
+        "label": "ORG",
+        "start": 377,
+        "end": 381
+      },
+      {
+        "text": "PRODEX",
+        "label": "PERSON",
+        "start": 401,
+        "end": 407
+      },
+      {
+        "text": "PROgramme de Développement",
+        "label": "ORG",
+        "start": 409,
+        "end": 435
+      },
+      {
+        "text": "a European Space Agency",
+        "label": "ORG",
+        "start": 466,
+        "end": 489
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 491,
+        "end": 494
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 532,
+        "end": 535
+      },
+      {
+        "text": "The LIFE (Large Interferometer for Exoplanets",
+        "label": "ORG",
+        "start": 0,
+        "end": 45
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 107,
+        "end": 112
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 159,
+        "end": 164
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 349,
+        "end": 353
+      },
+      {
+        "text": "Lagrange",
+        "label": "ORG",
+        "start": 384,
+        "end": 392
+      },
+      {
+        "text": "James Webb Space Telescope",
+        "label": "PERSON",
+        "start": 419,
+        "end": 445
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 807,
+        "end": 812
+      },
+      {
+        "text": "Quanz",
+        "label": "ORG",
+        "start": 911,
+        "end": 916
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 93,
+        "end": 96
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 123,
+        "end": 128
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 165,
+        "end": 169
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 326,
+        "end": 329
+      },
+      {
+        "text": "4,000 kilometres",
+        "label": "QUANTITY",
+        "start": 709,
+        "end": 725
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1426,
+        "end": 1431
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1729,
+        "end": 1734
+      },
+      {
+        "text": "Lagrange",
+        "label": "ORG",
+        "start": 1926,
+        "end": 1934
+      },
+      {
+        "text": "the Nulling Interferometer Cryogenic Experiment",
+        "label": "ORG",
+        "start": 1973,
+        "end": 2020
+      },
+      {
+        "text": "nanometre",
+        "label": "GPE",
+        "start": 2254,
+        "end": 2263
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Adrian Glauser",
+        "ETH Zurich",
+        "James Webb Space Telescope",
+        "PRODEX",
+        "Sascha Quanz"
+      ],
+      "ORG": [
+        "ESA",
+        "ETH",
+        "ETH Zurich",
+        "Exoplanets",
+        "Habitability Group",
+        "Lagrange",
+        "NICE",
+        "PROgramme de Développement",
+        "Quanz",
+        "The LIFE (Large Interferometer for Exoplanets",
+        "a European Space Agency",
+        "the Institute for Particle Physics",
+        "the Nulling Interferometer Cryogenic Experiment"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Earth",
+        "nanometre"
+      ],
+      "DATE": [
+        "late March",
+        "one day",
+        "today"
+      ],
+      "MISC": [
+        "4,000 kilometres",
+        "Astrophysics",
+        "One",
+        "Swiss",
+        "The Life Space Mission",
+        "first",
+        "five",
+        "nearly three million",
+        "three million"
+      ]
+    },
+    "entity_counts": {
+      "Earth": 4,
+      "ETH Zurich": 3,
+      "ESA": 3,
+      "five": 2,
+      "Lagrange": 2,
+      "The Life Space Mission": 1,
+      "one day": 1,
+      "three million": 1,
+      "Adrian Glauser": 1,
+      "the Institute for Particle Physics": 1,
+      "Astrophysics": 1,
+      "late March": 1,
+      "Sascha Quanz": 1,
+      "Exoplanets": 1,
+      "Habitability Group": 1,
+      "Swiss": 1,
+      "nearly three million": 1,
+      "NICE": 1,
+      "PRODEX": 1,
+      "PROgramme de Développement": 1
+    },
+    "total_entities": 40,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-key-experiment-for-the-life-space-mission.md",
+      "title": "En News Events/2023/04/a Key Experiment For The Life Space Mission",
+      "language": "en",
+      "source_path": "en_news_events/2023/04/a-key-experiment-for-the-life-space-mission.html"
+    },
+    "temporal": {
+      "publication_date": "2023-04",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Adrian Glauser",
+        "ETH Zurich",
+        "James Webb Space Telescope",
+        "PRODEX",
+        "Sascha Quanz"
+      ],
+      "people_with_roles": {
+        "Adrian Glauser": [
+          "scientist"
+        ],
+        "ETH Zurich": [
+          "scientist",
+          "head",
+          "professor"
+        ],
+        "PRODEX": [
+          "head",
+          "professor"
+        ],
+        "Sascha Quanz": [
+          "head",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "4,000 kilometres",
+        "Astrophysics",
+        "Swiss",
+        "The Life Space Mission",
+        "first",
+        "five",
+        "nearly three million",
+        "three million"
+      ],
+      "grants_funding": [
+        "EU",
+        "funding"
+      ],
+      "projects": [
+        "James Webb",
+        "Particle Physics",
+        "European Space",
+        "En News",
+        "Sascha Quanz",
+        "Nulling Interferometer",
+        "Life Space",
+        "The LIFE",
+        "Habitability Group",
+        "Large Interferometer",
+        "Cryogenic Experiment",
+        "ETH Zurich",
+        "In NICE",
+        "Space Telescope",
+        "For The",
+        "Key Experiment",
+        "Adrian Glauser"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Particle Physics and Astrophysics at ETH Zurich"
+      ],
+      "institutions": [
+        "ESA",
+        "ETH",
+        "ETH Zurich",
+        "Exoplanets",
+        "Habitability Group",
+        "Lagrange",
+        "NICE",
+        "PROgramme de Développement",
+        "Quanz",
+        "The LIFE (Large Interferometer for Exoplanets",
+        "a European Space Agency",
+        "the Institute for Particle Physics",
+        "the Nulling Interferometer Cryogenic Experiment"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Earth",
+        "nanometre"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Earth",
+        "ETH Zurich",
+        "ESA",
+        "five",
+        "Lagrange",
+        "The Life Space Mission",
+        "one day",
+        "three million",
+        "Adrian Glauser",
+        "the Institute for Particle Physics"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Abstract",
+          "The hunt for traces of life",
+          "The hunt for traces of life",
+          "Technology suitable for space"
+        ],
+        "content_length": 4694
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Sascha Quanz",
+        "the Institute for Particle Physics",
+        "PROgramme de Développement",
+        "ESA",
+        "funding",
+        "PRODEX",
+        "Lagrange",
+        "Exoplanets",
+        "a European Space Agency",
+        "NICE",
+        "EU",
+        "The LIFE (Large Interferometer for Exoplanets",
+        "the Nulling Interferometer Cryogenic Experiment",
+        "Adrian Glauser",
+        "James Webb Space Telescope",
+        "Habitability Group",
+        "Quanz",
+        "ETH Zurich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "why",
+        "three million",
+        "who",
+        "The Life Space Mission",
+        "Astrophysics",
+        "Swiss",
+        "4,000 kilometres",
+        "chemistry",
+        "where",
+        "what",
+        "how",
+        "five",
+        "nearly three million",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Adrian Glauser_has_role_scientist",
+        "ETH Zurich_has_role_scientist",
+        "ETH Zurich_has_role_head",
+        "ETH Zurich_has_role_professor",
+        "PRODEX_has_role_head",
+        "PRODEX_has_role_professor",
+        "Sascha Quanz_has_role_head",
+        "Sascha Quanz_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

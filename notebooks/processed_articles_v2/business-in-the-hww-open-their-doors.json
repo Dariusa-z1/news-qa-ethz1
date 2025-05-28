@@ -1,0 +1,351 @@
+{
+  "filename": "business-in-the-hww-open-their-doors.md",
+  "original_filename": "business-in-the-hww-open-their-doors.html",
+  "source_path": "en_internal/2017/05/business-in-the-hww-open-their-doors.html",
+  "date": "2017-05",
+  "title": "Business In The Hww Open Their Doors",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "For mind, body...",
+      "text": "Living on campus as well as studying there dramatically reduces your commute, yet mobility remains a key issue for campus residents. That's why Zurich startup Ego Movement has set up shop in the HWW, offering E-Bikes and a variety of other bike-related services. Visitors will get the chance to test the E-Bikes at the open day, which the HWW service providers are organising together on 17 May. ETH members can also bring along their own bikes for an affordable spring overhaul."
+    },
+    {
+      "heading": "For mind, body...",
+      "text": "Other firms that have set up shop in the HWW include Projekt Neptun , a hardware and software consulting service that offers mobile devices tailored to students; a hairdressing salon; and the \"Äss Bar\", which sells high-quality baked goods from the previous day at significantly reduced prices. The HWW is the first place that the Äss Bar has set down roots at ETH, supplementing its existing mobile food stand on the Zentrum campus."
+    },
+    {
+      "heading": "... and soul",
+      "text": "The ASVZ will also be presenting its new service on 17 May – a relaxation room. Visitors, including non-ETH members, will have the opportunity to take part in a lunchtime meditation session at the HWW.\n\nVarious competitions will also be held on the day, with total prizes up for grabs of more than CHF 1,000 – another great incentive to come and take a look around the HWW. The event organisers and employees of the HWW businesses are looking forward to an exciting day."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Hww Open Their Doors",
+        "label": "WORK_OF_ART",
+        "start": 32,
+        "end": 56
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 144,
+        "end": 150
+      },
+      {
+        "text": "Ego Movement",
+        "label": "ORG",
+        "start": 159,
+        "end": 171
+      },
+      {
+        "text": "HWW",
+        "label": "ORG",
+        "start": 195,
+        "end": 198
+      },
+      {
+        "text": "HWW",
+        "label": "ORG",
+        "start": 339,
+        "end": 342
+      },
+      {
+        "text": "17 May",
+        "label": "DATE",
+        "start": 388,
+        "end": 394
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 396,
+        "end": 399
+      },
+      {
+        "text": "HWW",
+        "label": "ORG",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "Projekt Neptun",
+        "label": "ORG",
+        "start": 53,
+        "end": 67
+      },
+      {
+        "text": "the \"Äss Bar",
+        "label": "ORG",
+        "start": 188,
+        "end": 200
+      },
+      {
+        "text": "the previous day",
+        "label": "DATE",
+        "start": 245,
+        "end": 261
+      },
+      {
+        "text": "HWW",
+        "label": "ORG",
+        "start": 299,
+        "end": 302
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 310,
+        "end": 315
+      },
+      {
+        "text": "the Äss Bar",
+        "label": "ORG",
+        "start": 327,
+        "end": 338
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 361,
+        "end": 364
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 418,
+        "end": 425
+      },
+      {
+        "text": "ASVZ",
+        "label": "ORG",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "17 May",
+        "label": "DATE",
+        "start": 52,
+        "end": 58
+      },
+      {
+        "text": "non-ETH",
+        "label": "NORP",
+        "start": 100,
+        "end": 107
+      },
+      {
+        "text": "HWW",
+        "label": "ORG",
+        "start": 197,
+        "end": 200
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 244,
+        "end": 251
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 297,
+        "end": 300
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 301,
+        "end": 306
+      },
+      {
+        "text": "HWW",
+        "label": "ORG",
+        "start": 368,
+        "end": 371
+      },
+      {
+        "text": "HWW",
+        "label": "ORG",
+        "start": 415,
+        "end": 418
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Zentrum"
+      ],
+      "ORG": [
+        "ASVZ",
+        "CHF",
+        "ETH",
+        "Ego Movement",
+        "HWW",
+        "Projekt Neptun",
+        "the \"Äss Bar",
+        "the Äss Bar"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "17 May",
+        "the day",
+        "the previous day"
+      ],
+      "MISC": [
+        "1,000",
+        "The Hww Open Their Doors",
+        "first",
+        "non-ETH"
+      ]
+    },
+    "entity_counts": {
+      "HWW": 7,
+      "17 May": 2,
+      "ETH": 2,
+      "The Hww Open Their Doors": 1,
+      "Zurich": 1,
+      "Ego Movement": 1,
+      "Projekt Neptun": 1,
+      "the \"Äss Bar": 1,
+      "the previous day": 1,
+      "first": 1,
+      "the Äss Bar": 1,
+      "Zentrum": 1,
+      "ASVZ": 1,
+      "non-ETH": 1,
+      "the day": 1,
+      "CHF": 1,
+      "1,000": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "business-in-the-hww-open-their-doors.md",
+      "title": "En Internal/2017/05/business in The Hww Open Their Doors",
+      "language": "en",
+      "source_path": "en_internal/2017/05/business-in-the-hww-open-their-doors.html"
+    },
+    "temporal": {
+      "publication_date": "2017-05",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "1,000",
+        "The Hww Open Their Doors",
+        "first",
+        "non-ETH"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "E-Bikes",
+        "The Hww",
+        "Doors Living",
+        "Open Their",
+        "The ASVZ",
+        "Ego Movement",
+        "Projekt Neptun",
+        "En Internal",
+        "The HWW"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ASVZ",
+        "CHF",
+        "ETH",
+        "Ego Movement",
+        "HWW",
+        "Projekt Neptun",
+        "the \"Äss Bar",
+        "the Äss Bar"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "HWW",
+        "17 May",
+        "ETH",
+        "The Hww Open Their Doors",
+        "Zurich",
+        "Ego Movement",
+        "Projekt Neptun",
+        "the \"Äss Bar",
+        "the previous day",
+        "first"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "For mind, body...",
+          "For mind, body...",
+          "... and soul"
+        ],
+        "content_length": 1441
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "CHF",
+        "the Äss Bar",
+        "2017",
+        "Ego Movement",
+        "Projekt Neptun",
+        "Zentrum",
+        "the \"Äss Bar",
+        "ASVZ",
+        "HWW"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "The Hww Open Their Doors",
+        "non-ETH",
+        "computer_science",
+        "why",
+        "when",
+        "where",
+        "1,000"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

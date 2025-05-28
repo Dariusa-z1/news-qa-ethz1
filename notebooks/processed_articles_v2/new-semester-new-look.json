@@ -1,0 +1,283 @@
+{
+  "filename": "new-semester-new-look.md",
+  "original_filename": "new-semester-new-look.html",
+  "source_path": "en_internal/2014/09/new-semester-new-look.html",
+  "date": "2014-09",
+  "title": "New Semester New Look",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "How do I subscribe to \"Polykum\" for free?",
+      "text": "The Polykum team had a creative spurt instead of summer holidays this year – and it was worth it! After three highly productive summer months, Polykum, the periodical of the student association of ETH Zurich, appears in a new format starting this semester: after years as a tabloid in the sense of a students’ newspaper, Polykum is now published as a magazine since the changeover to Vogt-Schild Druck AG. Besides the switch to A4 format and offset paper, Polykum now also includes English texts to cater to the high percentage of international students at ETH.\n\nAs much as has changed on the outside, much remains the same when it comes to the content. Polykum will continue to report on student life, campus events and key topics nine times a year. As before, it will be sent to students of ETH Zurich directly by post."
+    },
+    {
+      "heading": "How do I subscribe to \"Polykum\" for free?",
+      "text": "Are you interested in receiving Polykum too?\n\nAs a member of ETH Zurich you can subscribe to \"Polykum\" at any time via www.adresses.ethz.ch : Select delivery by \"email\" or \"by post\". You can cancel your subscription at any time by selecting \"no postal delivery\". However, the delivery addresses are sent to the printer on certain deadline days.\n\n\"Polykum\" is published every month except for January, July and August."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "summer holidays this year",
+        "label": "DATE",
+        "start": 49,
+        "end": 74
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 104,
+        "end": 109
+      },
+      {
+        "text": "summer months",
+        "label": "DATE",
+        "start": 128,
+        "end": 141
+      },
+      {
+        "text": "Polykum",
+        "label": "GPE",
+        "start": 143,
+        "end": 150
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 197,
+        "end": 207
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 263,
+        "end": 268
+      },
+      {
+        "text": "Polykum",
+        "label": "GPE",
+        "start": 321,
+        "end": 328
+      },
+      {
+        "text": "Vogt-Schild Druck AG",
+        "label": "ORG",
+        "start": 384,
+        "end": 404
+      },
+      {
+        "text": "Polykum",
+        "label": "GPE",
+        "start": 456,
+        "end": 463
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 482,
+        "end": 489
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 557,
+        "end": 560
+      },
+      {
+        "text": "nine",
+        "label": "CARDINAL",
+        "start": 731,
+        "end": 735
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 792,
+        "end": 802
+      },
+      {
+        "text": "Polykum",
+        "label": "GPE",
+        "start": 32,
+        "end": 39
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 60,
+        "end": 70
+      },
+      {
+        "text": "Polykum",
+        "label": "WORK_OF_ART",
+        "start": 93,
+        "end": 100
+      },
+      {
+        "text": "January, July and",
+        "label": "DATE",
+        "start": 390,
+        "end": 407
+      },
+      {
+        "text": "August",
+        "label": "DATE",
+        "start": 408,
+        "end": 414
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Vogt-Schild Druck AG"
+      ],
+      "LOCATION": [
+        "Polykum"
+      ],
+      "DATE": [
+        "August",
+        "January, July and",
+        "summer holidays this year",
+        "summer months",
+        "years"
+      ],
+      "MISC": [
+        "English",
+        "Polykum",
+        "nine",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Polykum": 5,
+      "ETH Zurich": 3,
+      "summer holidays this year": 1,
+      "three": 1,
+      "summer months": 1,
+      "years": 1,
+      "Vogt-Schild Druck AG": 1,
+      "English": 1,
+      "ETH": 1,
+      "nine": 1,
+      "January, July and": 1,
+      "August": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-semester-new-look.md",
+      "title": "En Internal/2014/09/new Semester New Look",
+      "language": "en",
+      "source_path": "en_internal/2014/09/new-semester-new-look.html"
+    },
+    "temporal": {
+      "publication_date": "2014-09",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "English",
+        "Polykum",
+        "nine",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Semester New",
+        "Vogt-Schild",
+        "En Internal",
+        "ETH Zurich",
+        "Look The",
+        "Druck AG"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Vogt-Schild Druck AG"
+      ],
+      "locations": [
+        "Polykum"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Polykum",
+        "ETH Zurich",
+        "summer holidays this year",
+        "three",
+        "summer months",
+        "years",
+        "Vogt-Schild Druck AG",
+        "English",
+        "ETH",
+        "nine"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "How do I subscribe to \"Polykum\" for free?",
+          "How do I subscribe to \"Polykum\" for free?"
+        ],
+        "content_length": 1281
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Vogt-Schild Druck AG",
+        "ETH Zurich",
+        "ERC",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "nine",
+        "English",
+        "how",
+        "Polykum",
+        "when"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

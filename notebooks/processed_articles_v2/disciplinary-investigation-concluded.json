@@ -1,0 +1,245 @@
+{
+  "filename": "disciplinary-investigation-concluded.md",
+  "original_filename": "disciplinary-investigation-concluded.html",
+  "source_path": "en_news_events/2019/01/disciplinary-investigation-concluded.html",
+  "date": "2019-01",
+  "title": "Disciplinary Investigation Concluded",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In September 2018 ETH Zurich launched a disciplinary investigation into a professor in the Department of Architecture. This investigation, conducted and since completed by an external independent investigator, concluded that the professor did not effectively separate his personal and professional relationships. As a result, his conduct was in breach of ETH Zurich’s Compliance Guide .\n\nIn view of the protracted proceedings and the associated personal and professional pressure, the professor in question has decided to leave ETH Zurich on 31 July 2019 and seek a new challenge. At his request, the university has released him from his teaching duties up to the end of the semester to allow him to devote his full attention to winding up his research projects.\n\nThe President of ETH Zurich has acknowledged the professor’s decision and forwarded it to the ETH Board, which is in charge of employment relationships for professors. This concludes the disciplinary investigation.\n\nETH Zurich Media relations Phone: +41 44 632 41 41"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Investigation Concluded",
+        "label": "PERSON",
+        "start": 36,
+        "end": 59
+      },
+      {
+        "text": "September 2018",
+        "label": "DATE",
+        "start": 3,
+        "end": 17
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 18,
+        "end": 28
+      },
+      {
+        "text": "the Department of Architecture",
+        "label": "ORG",
+        "start": 87,
+        "end": 117
+      },
+      {
+        "text": "ETH Zurich’s Compliance Guide",
+        "label": "ORG",
+        "start": 355,
+        "end": 384
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 527,
+        "end": 537
+      },
+      {
+        "text": "31 July 2019",
+        "label": "DATE",
+        "start": 541,
+        "end": 553
+      },
+      {
+        "text": "the end of the semester",
+        "label": "DATE",
+        "start": 659,
+        "end": 682
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 779,
+        "end": 789
+      },
+      {
+        "text": "the ETH Board",
+        "label": "ORG",
+        "start": 852,
+        "end": 865
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 977,
+        "end": 987
+      },
+      {
+        "text": "Phone",
+        "label": "ORG",
+        "start": 1004,
+        "end": 1009
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Investigation Concluded"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "ETH Zurich’s Compliance Guide",
+        "En News",
+        "Phone",
+        "the Department of Architecture",
+        "the ETH Board"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "31 July 2019",
+        "September 2018",
+        "the end of the semester"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zurich": 4,
+      "En News": 1,
+      "Investigation Concluded": 1,
+      "September 2018": 1,
+      "the Department of Architecture": 1,
+      "ETH Zurich’s Compliance Guide": 1,
+      "31 July 2019": 1,
+      "the end of the semester": 1,
+      "the ETH Board": 1,
+      "Phone": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "disciplinary-investigation-concluded.md",
+      "title": "En News Events/2019/01/disciplinary Investigation Concluded",
+      "language": "en",
+      "source_path": "en_news_events/2019/01/disciplinary-investigation-concluded.html"
+    },
+    "temporal": {
+      "publication_date": "2019-01",
+      "mentioned_years": [
+        "2018",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Investigation Concluded"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "president",
+          "professor"
+        ],
+        "Investigation Concluded": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Investigation Concluded",
+        "Compliance Guide",
+        "En News",
+        "ETH Board",
+        "The President",
+        "ETH Zurich",
+        "In September"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Architecture"
+      ],
+      "institutions": [
+        "ETH Zurich",
+        "ETH Zurich’s Compliance Guide",
+        "En News",
+        "Phone",
+        "the Department of Architecture",
+        "the ETH Board"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "En News",
+        "Investigation Concluded",
+        "September 2018",
+        "the Department of Architecture",
+        "ETH Zurich’s Compliance Guide",
+        "31 July 2019",
+        "the end of the semester",
+        "the ETH Board",
+        "Phone"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1090
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Investigation Concluded",
+        "ETH Zurich’s Compliance Guide",
+        "En News",
+        "2019",
+        "Phone",
+        "the ETH Board",
+        "ETH Zurich",
+        "the Department of Architecture"
+      ],
+      "semantic_concepts": [
+        "who",
+        "what",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_president",
+        "ETH Zurich_has_role_professor",
+        "Investigation Concluded_has_role_professor"
+      ]
+    }
+  }
+}

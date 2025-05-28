@@ -1,0 +1,145 @@
+{
+  "filename": "broader-range-of-digital-textbooks-from-all-subject-areas.md",
+  "original_filename": "broader-range-of-digital-textbooks-from-all-subject-areas.html",
+  "source_path": "en_internal/2017/05/broader-range-of-digital-textbooks-from-all-subject-areas.html",
+  "date": "2017-05",
+  "title": "Broader Range Of Digital Textbooks From All Subject Areas",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Including the following titles:\n\nFor mathematics students:\n\nFor people interested in biology:\n\nFor students of the economics sciences the following are now available online:\n\nOther essential textbooks include:\n\nYou can find more digital textbooks via our website Digital textbook collection .\n\nAccess is possible online within ETH Zurich's network or on ETH Library premises."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Range Of Digital Textbooks From All Subject Areas",
+        "label": "ORG",
+        "start": 28,
+        "end": 77
+      },
+      {
+        "text": "Digital",
+        "label": "ORG",
+        "start": 258,
+        "end": 265
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 321,
+        "end": 333
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 348,
+        "end": 359
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich's"
+      ],
+      "ORG": [
+        "Digital",
+        "ETH Library",
+        "Range Of Digital Textbooks From All Subject Areas"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Range Of Digital Textbooks From All Subject Areas": 1,
+      "Digital": 1,
+      "ETH Zurich's": 1,
+      "ETH Library": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "broader-range-of-digital-textbooks-from-all-subject-areas.md",
+      "title": "En Internal/2017/05/broader Range Of Digital Textbooks From All Subject Areas",
+      "language": "en",
+      "source_path": "en_internal/2017/05/broader-range-of-digital-textbooks-from-all-subject-areas.html"
+    },
+    "temporal": {
+      "publication_date": "2017-05",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich's"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "From All",
+        "Digital Textbooks",
+        "ETH Library",
+        "Subject Areas",
+        "Range Of",
+        "En Internal",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Digital",
+        "ETH Library",
+        "Range Of Digital Textbooks From All Subject Areas"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Range Of Digital Textbooks From All Subject Areas",
+        "Digital",
+        "ETH Zurich's",
+        "ETH Library"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 453
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2017",
+        "Digital",
+        "ETH Library",
+        "Range Of Digital Textbooks From All Subject Areas",
+        "ETH Zurich's"
+      ],
+      "semantic_concepts": [
+        "technology"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

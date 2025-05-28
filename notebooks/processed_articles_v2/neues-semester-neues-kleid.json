@@ -1,0 +1,257 @@
+{
+  "filename": "neues-semester-neues-kleid.md",
+  "original_filename": "neues-semester-neues-kleid.html",
+  "source_path": "de_internal/2014/09/neues-semester-neues-kleid.html",
+  "date": "2014-09",
+  "title": "Neues Semester Neues Kleid",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Wie kann man «Polykum» abonnieren?",
+      "text": "Kreativ-Spurt statt Semesterferien? Und wie sich das gelohnt hat! Nach drei hochproduktiven Sommermonaten kann sich das Polykum, die Zeitschrift des Verbands der Studierenden an der ETH Zürich, ab diesem Semester in neuem Kleid präsentieren: Nach Jahren als Tabloid – ganz im Sinne der Studierendenzeitung – erscheint das Polykum nach dem Wechsel zur Vogt-Schild Druck AG neu als Magazin.\n\nNeben dem Wechsel auf Format A4 und Offsetpapier enthält das Polykum erstmals auch englischsprachige Texte, um dem hohen Anteil internationaler Studierender an der ETH Rechnung zu tragen.\n\nSo viel äusserlich auch geschieht: Inhaltlich bleibt vieles beim Alten. Weiterhin will das Polykum neunmal jährlich über das Studentenleben, das Campusgeschehen und Themenschwerpunkte berichten. Wie gehabt wird es den Studierenden der ETH Zürich direkt nach Hause geschickt."
+    },
+    {
+      "heading": "Wie kann man «Polykum» abonnieren?",
+      "text": "Haben auch Sie Interesse, das Polykum zu erhalten?\n\nMitarbeitende, die «Polykum» abonnieren möchten, können auf www.adressen.ethz.ch zwischen einer Zustellung per «E-Mail» (PDF-Format) und «Per Post an ETH-Büroadresse» (Druckausgabe) auswählen.\n\nETH-Angehörige das «Polykum» können jederzeit online bestellen und abbestellen («keine Zustellung per Post» auswählen). Die Adressen für den Versand werden jedoch an bestimmten Stichtagen an die Druckerei geliefert."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/09/neues Semester",
+        "label": "LOC",
+        "start": 0,
+        "end": 34
+      },
+      {
+        "text": "Kreativ-Spurt",
+        "label": "LOC",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 182,
+        "end": 192
+      },
+      {
+        "text": "Jahren",
+        "label": "PER",
+        "start": 247,
+        "end": 253
+      },
+      {
+        "text": "Vogt-Schild Druck AG",
+        "label": "ORG",
+        "start": 351,
+        "end": 371
+      },
+      {
+        "text": "A4",
+        "label": "LOC",
+        "start": 418,
+        "end": 420
+      },
+      {
+        "text": "Offsetpapier",
+        "label": "LOC",
+        "start": 425,
+        "end": 437
+      },
+      {
+        "text": "ETH Rechnung",
+        "label": "ORG",
+        "start": 553,
+        "end": 565
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 812,
+        "end": 822
+      },
+      {
+        "text": "Hause",
+        "label": "LOC",
+        "start": 835,
+        "end": 840
+      },
+      {
+        "text": "www.adressen.ethz.ch",
+        "label": "LOC",
+        "start": 111,
+        "end": 131
+      },
+      {
+        "text": "ETH-Büroadresse",
+        "label": "ORG",
+        "start": 201,
+        "end": 216
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 244,
+        "end": 258
+      },
+      {
+        "text": "Polykum",
+        "label": "LOC",
+        "start": 264,
+        "end": 271
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Jahren"
+      ],
+      "ORG": [
+        "ETH Rechnung",
+        "ETH Zürich",
+        "ETH-Büroadresse",
+        "Vogt-Schild Druck AG"
+      ],
+      "LOCATION": [
+        "A4",
+        "De Internal/2014/09/neues Semester",
+        "Hause",
+        "Kreativ-Spurt",
+        "Offsetpapier",
+        "Polykum",
+        "www.adressen.ethz.ch"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "De Internal/2014/09/neues Semester": 1,
+      "Kreativ-Spurt": 1,
+      "Jahren": 1,
+      "Vogt-Schild Druck AG": 1,
+      "A4": 1,
+      "Offsetpapier": 1,
+      "ETH Rechnung": 1,
+      "Hause": 1,
+      "www.adressen.ethz.ch": 1,
+      "ETH-Büroadresse": 1,
+      "ETH-Angehörige": 1,
+      "Polykum": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neues-semester-neues-kleid.md",
+      "title": "De Internal/2014/09/neues Semester Neues Kleid",
+      "language": "de",
+      "source_path": "de_internal/2014/09/neues-semester-neues-kleid.html"
+    },
+    "temporal": {
+      "publication_date": "2014-09",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Jahren"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Angehörige"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Nach Jahren",
+        "Per Post",
+        "ETH Rechnung",
+        "Sie Interesse",
+        "E-Mail",
+        "Vogt-Schild",
+        "De Internal",
+        "Kleid Kreativ",
+        "Semester Neues",
+        "PDF-Format",
+        "Druck AG",
+        "Die Adressen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Rechnung",
+        "ETH Zürich",
+        "ETH-Büroadresse",
+        "Vogt-Schild Druck AG"
+      ],
+      "locations": [
+        "A4",
+        "De Internal/2014/09/neues Semester",
+        "Hause",
+        "Kreativ-Spurt",
+        "Offsetpapier",
+        "Polykum",
+        "www.adressen.ethz.ch"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2014/09/neues Semester",
+        "Kreativ-Spurt",
+        "Jahren",
+        "Vogt-Schild Druck AG",
+        "A4",
+        "Offsetpapier",
+        "ETH Rechnung",
+        "Hause",
+        "www.adressen.ethz.ch"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Wie kann man «Polykum» abonnieren?",
+          "Wie kann man «Polykum» abonnieren?"
+        ],
+        "content_length": 1362
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Rechnung",
+        "EU",
+        "Vogt-Schild Druck AG",
+        "Jahren",
+        "ETH Zürich",
+        "ETH-Büroadresse",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Angehörige"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

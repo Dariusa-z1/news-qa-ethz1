@@ -1,0 +1,260 @@
+{
+  "filename": "podcast-uncertainty.md",
+  "original_filename": "podcast-uncertainty.html",
+  "source_path": "en_news_events/2020/12/podcast-uncertainty.html",
+  "date": "2020-12",
+  "title": "Podcast Uncertainty",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "This past year has been strange and strenuous. Patience and endurance are what all of us need on many levels. The Corona-Virus-Pandemic not only changed the way we interact, work, and study, it also brought out Uncertainty in many aspects.\n\nIn the December Episode of the ETH-Podcast, we talk to Tierry Hörmann, the old, and Luca Dahle the new president of VSETH, the umbrella organisation of all students, and how they reach out to fellow students. ETH-Rector Sarah Springman joins the talk and compares this phase with competing in a triathlon without the finishing line in sight. All three guests also talk about the few positive aspects of the crisis.\n\nThis year's end episode marks the beginning of a Podcast-series touching on the topic of Uncertainty. In our next episodes, we will talk to scientists and students about Uncertainty regarding the field of Climate as well as Cyber Security."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "This past year",
+        "label": "DATE",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "The Corona-Virus-Pandemic",
+        "label": "ORG",
+        "start": 110,
+        "end": 135
+      },
+      {
+        "text": "December",
+        "label": "DATE",
+        "start": 247,
+        "end": 255
+      },
+      {
+        "text": "Tierry Hörmann",
+        "label": "PERSON",
+        "start": 295,
+        "end": 309
+      },
+      {
+        "text": "Luca Dahle",
+        "label": "PERSON",
+        "start": 324,
+        "end": 334
+      },
+      {
+        "text": "VSETH",
+        "label": "ORG",
+        "start": 356,
+        "end": 361
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 449,
+        "end": 452
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PERSON",
+        "start": 460,
+        "end": 475
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 586,
+        "end": 591
+      },
+      {
+        "text": "year's end",
+        "label": "DATE",
+        "start": 660,
+        "end": 670
+      },
+      {
+        "text": "Uncertainty",
+        "label": "ORG",
+        "start": 825,
+        "end": 836
+      },
+      {
+        "text": "Cyber Security",
+        "label": "ORG",
+        "start": 879,
+        "end": 893
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Luca Dahle",
+        "Sarah Springman",
+        "Tierry Hörmann"
+      ],
+      "ORG": [
+        "Cyber Security",
+        "ETH",
+        "The Corona-Virus-Pandemic",
+        "Uncertainty",
+        "VSETH"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "December",
+        "This past year",
+        "year's end"
+      ],
+      "MISC": [
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "This past year": 1,
+      "The Corona-Virus-Pandemic": 1,
+      "December": 1,
+      "Tierry Hörmann": 1,
+      "Luca Dahle": 1,
+      "VSETH": 1,
+      "ETH": 1,
+      "Sarah Springman": 1,
+      "three": 1,
+      "year's end": 1,
+      "Uncertainty": 1,
+      "Cyber Security": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-uncertainty.md",
+      "title": "En News Events/2020/12/podcast Uncertainty",
+      "language": "en",
+      "source_path": "en_news_events/2020/12/podcast-uncertainty.html"
+    },
+    "temporal": {
+      "publication_date": "2020-12",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Luca Dahle",
+        "Sarah Springman",
+        "Tierry Hörmann"
+      ],
+      "people_with_roles": {
+        "Luca Dahle": [
+          "president",
+          "student"
+        ],
+        "Sarah Springman": [
+          "rector"
+        ],
+        "Tierry Hörmann": [
+          "president",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "rector",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Virus-Pandemic",
+        "Uncertainty This",
+        "En News",
+        "December Episode",
+        "Luca Dahle",
+        "Cyber Security",
+        "Sarah Springman",
+        "ETH-Rector",
+        "The Corona",
+        "ETH-Podcast"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cyber Security",
+        "ETH",
+        "The Corona-Virus-Pandemic",
+        "Uncertainty",
+        "VSETH"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "This past year",
+        "The Corona-Virus-Pandemic",
+        "December",
+        "Tierry Hörmann",
+        "Luca Dahle",
+        "VSETH",
+        "ETH",
+        "Sarah Springman",
+        "three",
+        "year's end"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 939
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Uncertainty",
+        "The Corona-Virus-Pandemic",
+        "Cyber Security",
+        "Luca Dahle",
+        "Tierry Hörmann",
+        "Sarah Springman",
+        "2020",
+        "VSETH"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "who",
+        "what",
+        "how",
+        "when"
+      ],
+      "graph_relations": [
+        "Luca Dahle_has_role_president",
+        "Luca Dahle_has_role_student",
+        "Sarah Springman_has_role_rector",
+        "Tierry Hörmann_has_role_president",
+        "Tierry Hörmann_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

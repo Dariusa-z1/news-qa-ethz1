@@ -1,0 +1,238 @@
+{
+  "filename": "are-your-electrical-devices-safe.md",
+  "original_filename": "are-your-electrical-devices-safe.html",
+  "source_path": "en_internal/2023/04/are-your-electrical-devices-safe.html",
+  "date": "2023-04",
+  "title": "Are Your Electrical Devices Safe",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The need for cooperation",
+      "text": "Soldering irons, magnetic stirrers and centrifuges: laboratories and workshops in particular have a lot of electrical devices, some of which are made by the research groups themselves. And of course there are also devices in the offices that are connected to the power grid. Even if all these devices are working flawlessly in the course of normal work, they can still pose a danger, which is why all employers are required to occasionally check their electrical devices for safety.\n\nAt ETH, the Safety, Security, Health and Environment (SSHE) department supports all research groups with regular testing of devices in the laboratories and workshops. “To minimise work for the research groups, we combine these checks with our maintenance of the electrical systems in the buildings,” says Bruno Meni, Project Director in the Electrical Department."
+    },
+    {
+      "heading": "The need for cooperation",
+      "text": "The Electrical Department contracts outside companies to carry out the checks, which they do at the direction of research group staff. “If all the devices are already turned off and in one spot, it all goes very quickly,” Meni says. “Or at the very least if someone is there who knows where the inactive devices are located.” Otherwise, the checks can be time-consuming and stressful for both parties.\n\nThe testers mark devices that are in safe working order with a green sticker that displays the date of the most recent check. They are often able to resolve minor issues in the course of the check itself: “if a travel adapter was used instead of a permanent adapter, for example,” explains Meni. If a device requires repair, it is marked with an orange or red sticker, depending on the severity of the problem. In either case, the device can no longer be used until it is repaired."
+    },
+    {
+      "heading": "Testing your own devices",
+      "text": "Checks by external technicians can be time-consuming and disruptive, and there is often little scheduling flexibility. An alternative is for users to check their own devices. “This option is especially suitable for devices that are used in fieldwork, for example, or that are loaned out,” Meni explains, “since these devices have to be tested before each field use or new borrower.”\n\nETH is planning courses to ensure members of the ETH community have the knowledge and skills they need to test their devices, and will also be releasing additional information on the topic of device testing."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 486,
+        "end": 489
+      },
+      {
+        "text": "the Safety, Security, Health and Environment",
+        "label": "ORG",
+        "start": 491,
+        "end": 535
+      },
+      {
+        "text": "Bruno Meni",
+        "label": "PERSON",
+        "start": 788,
+        "end": 798
+      },
+      {
+        "text": "the Electrical Department",
+        "label": "ORG",
+        "start": 820,
+        "end": 845
+      },
+      {
+        "text": "The Electrical Department",
+        "label": "ORG",
+        "start": 0,
+        "end": 25
+      },
+      {
+        "text": "Meni",
+        "label": "PERSON",
+        "start": 222,
+        "end": 226
+      },
+      {
+        "text": "Meni",
+        "label": "NORP",
+        "start": 692,
+        "end": 696
+      },
+      {
+        "text": "Meni",
+        "label": "NORP",
+        "start": 289,
+        "end": 293
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 383,
+        "end": 386
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 432,
+        "end": 435
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bruno Meni",
+        "Meni"
+      ],
+      "ORG": [
+        "ETH",
+        "The Electrical Department",
+        "the Electrical Department",
+        "the Safety, Security, Health and Environment"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "Meni"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "Meni": 3,
+      "the Safety, Security, Health and Environment": 1,
+      "Bruno Meni": 1,
+      "the Electrical Department": 1,
+      "The Electrical Department": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "are-your-electrical-devices-safe.md",
+      "title": "En Internal/2023/04/are Your Electrical Devices Safe",
+      "language": "en",
+      "source_path": "en_internal/2023/04/are-your-electrical-devices-safe.html"
+    },
+    "temporal": {
+      "publication_date": "2023-04",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bruno Meni",
+        "Meni"
+      ],
+      "people_with_roles": {
+        "Bruno Meni": [
+          "director",
+          "rector"
+        ],
+        "Meni": [
+          "director",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "director"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Meni"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "At ETH",
+        "Project Director",
+        "Devices Safe",
+        "Bruno Meni",
+        "En Internal",
+        "The Electrical",
+        "Electrical Department",
+        "Your Electrical"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "The Electrical Department",
+        "the Electrical Department",
+        "the Safety, Security, Health and Environment"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Meni",
+        "the Safety, Security, Health and Environment",
+        "Bruno Meni",
+        "the Electrical Department",
+        "The Electrical Department"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "The need for cooperation",
+          "The need for cooperation",
+          "Testing your own devices"
+        ],
+        "content_length": 2377
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Electrical Department",
+        "ETH",
+        "the Safety, Security, Health and Environment",
+        "Bruno Meni",
+        "The Electrical Department",
+        "2023",
+        "Meni"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "where",
+        "what",
+        "medical_research",
+        "why",
+        "when",
+        "engineering",
+        "Meni"
+      ],
+      "graph_relations": [
+        "Bruno Meni_has_role_director",
+        "Bruno Meni_has_role_rector",
+        "Meni_has_role_director",
+        "Meni_has_role_rector",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

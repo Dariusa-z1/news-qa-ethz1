@@ -1,0 +1,344 @@
+{
+  "filename": "farbwechsel-zeigt-schaeden-im-material-an.md",
+  "original_filename": "farbwechsel-zeigt-schaeden-im-material-an.html",
+  "source_path": "de_news_events/2021/08/farbwechsel-zeigt-schaeden-im-material-an.html",
+  "date": "2021-08",
+  "title": "Farbwechsel Zeigt Schaeden Im Material An",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Künstliches Perlmutt mit Polymer kombiniert",
+      "text": "In vielen Bereichen hat die Leichtbauweise Einzug gehalten, insbesondere im Fahrzeug-, Schiff- und Flugzeugbau. Nebst klassischen Leichtmetallen wie Aluminium, Magnesium oder Titan werden zunehmend auch Verbundmaterialien, sogenannte Komposite, in tragenden Anwendungen verbaut. Das hat zur Folge, dass gleichzeitig neue Techniken und Methoden entwickelt werden müssen, um Schäden oder gar ein mögliches Versagen solcher noch wenig erprobter Materialien frühzeitig zu erkennen.\n\nForschende der ETH Zürich aus der Gruppe für Komplexe Materialien in Zusammenarbeit mit Forschern der Universität Fribourg haben nun einen Ansatz gewählt, über den in der Materialforschung schon viel nachgedacht wurde: Sie haben einen Leichtgewichts-Werkstoff geschaffen, der durch eine Farbänderung innere Verformungen und damit ein mögliches Materialversagen frühzeitig anzeigt. Das aus einzelnen Schichten zusammengesetzte Laminat ist transparent, bruchfest und trotzdem sehr leicht."
+    },
+    {
+      "heading": "Künstliches Perlmutt mit Polymer kombiniert",
+      "text": "Aufgebaut ist das Laminat aus sich abwechselnden Schichten aus einem Kunststoff (Polymer) und künstlichem Perlmutt. Letzteres ist eine Spezialität des Labors für Komplexe Materialien und ist dem biologischen Vorbild der Muschelschale nachempfunden. Es besteht aus unzähligen, parallel angeordneten Glasplättchen, die verdichtet, gesintert und durch ein Polymer-Harz verfestigt werden. Dadurch wird es äusserst hart und bruchfest.\n\nDie zweite Schicht besteht aus einem Polymer, dem die Forschenden ein eigens für diese Anwendung an der Universität Fribourg synthetisiertes Indikatormolekül beimengten. Dieses Molekül wird durch Dehnungskräfte, die im Polymer auftreten, aktiviert. Dadurch verändert sich dessen Fluoreszenz. Je stärker die Materialdehnung und je mehr dieser Moleküle aktiviert werden, desto intensiver wird die Fluoreszenz."
+    },
+    {
+      "heading": "Fluoreszenz zeigt überbeanspruchte Teile an",
+      "text": "«Wir haben fluoreszierende Moleküle verwendet, weil man die Zunahme der Fluoreszenz sehr gut messen kann und nicht auf die subjektive Wahrnehmung angewiesen ist», sagt Tommaso Magrini, Erstautor einer entsprechenden Studie, die vor kurzem in der Fachzeitschrift «ACS Applied Materials and Interfaces» erschienen ist. Man hätte das System auch mit einem von aussen direkt wahrnehmbaren Farbumschlag aufbauen können. Aber: «Die Wahrnehmung von Farben ist subjektiv und Rückschlüsse auf Veränderung im Material schwierig», betont der Forscher.\n\nMithilfe der Fluoreszenz können die Forschenden nun überbeanspruchte Bereiche innerhalb des Verbundwerkstoff bereits dann identifizieren, bevor sich Brüche ausbilden. Dadurch lassen sich anfällige Stellen in einer Struktur frühzeitig erkennen, ehe ein katastrophales Versagen auftritt. Eine mögliche Anwendung des neuartigen Laminats sind denn auch Bauteile in tragenden Strukturen, etwa von Bauten, Flugzeugen oder Fahrzeugen, und deren Versagen unbedingt frühzeitig erkannt werden muss.\n\nEine offene Frage ist allerdings noch, ob und wie das Material im industriellen Massstab produziert werden kann. Bis jetzt gibt es dieses erst im Labormassstab als Machbarkeitsnachweis.\n\nMagrini T, Kiebala D, Grimm D, Nelson A, Schrettl S, Bouville F, Weder C, Studart AR. Tough Bioinspired Composites That Self-Report Damage, ACS Appl. Mater. Interfaces 2021, 13, 23, 7481–27490. DOI: externe Seite 10.1021/acsami.1c05964"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 493,
+        "end": 503
+      },
+      {
+        "text": "Universität Fribourg",
+        "label": "ORG",
+        "start": 580,
+        "end": 600
+      },
+      {
+        "text": "Universität Fribourg",
+        "label": "ORG",
+        "start": 534,
+        "end": 554
+      },
+      {
+        "text": "Tommaso Magrini",
+        "label": "PER",
+        "start": 168,
+        "end": 183
+      },
+      {
+        "text": "Erstautor",
+        "label": "LOC",
+        "start": 185,
+        "end": 194
+      },
+      {
+        "text": "Applied Materials and Interfaces",
+        "label": "MISC",
+        "start": 267,
+        "end": 299
+      },
+      {
+        "text": "Verbundwerkstoff",
+        "label": "MISC",
+        "start": 633,
+        "end": 649
+      },
+      {
+        "text": "Laminats",
+        "label": "MISC",
+        "start": 866,
+        "end": 874
+      },
+      {
+        "text": "Magrini T",
+        "label": "PER",
+        "start": 1216,
+        "end": 1225
+      },
+      {
+        "text": "Kiebala D",
+        "label": "ORG",
+        "start": 1227,
+        "end": 1236
+      },
+      {
+        "text": "Grimm D",
+        "label": "PER",
+        "start": 1238,
+        "end": 1245
+      },
+      {
+        "text": "Nelson A",
+        "label": "PER",
+        "start": 1247,
+        "end": 1255
+      },
+      {
+        "text": "Schrettl S",
+        "label": "ORG",
+        "start": 1257,
+        "end": 1267
+      },
+      {
+        "text": "Bouville F",
+        "label": "PER",
+        "start": 1269,
+        "end": 1279
+      },
+      {
+        "text": "Weder C",
+        "label": "PER",
+        "start": 1281,
+        "end": 1288
+      },
+      {
+        "text": "Studart AR",
+        "label": "ORG",
+        "start": 1290,
+        "end": 1300
+      },
+      {
+        "text": "Tough Bioinspired Composites",
+        "label": "ORG",
+        "start": 1302,
+        "end": 1330
+      },
+      {
+        "text": "That Self-Report Damage",
+        "label": "PER",
+        "start": 1331,
+        "end": 1354
+      },
+      {
+        "text": "Interfaces",
+        "label": "ORG",
+        "start": 1373,
+        "end": 1383
+      },
+      {
+        "text": "DOI",
+        "label": "ORG",
+        "start": 1410,
+        "end": 1413
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bouville F",
+        "Grimm D",
+        "Magrini T",
+        "Nelson A",
+        "That Self-Report Damage",
+        "Tommaso Magrini",
+        "Weder C"
+      ],
+      "ORG": [
+        "DOI",
+        "ETH Zürich",
+        "Interfaces",
+        "Kiebala D",
+        "Schrettl S",
+        "Studart AR",
+        "Tough Bioinspired Composites",
+        "Universität Fribourg"
+      ],
+      "LOCATION": [
+        "Erstautor"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Applied Materials and Interfaces",
+        "Laminats",
+        "Verbundwerkstoff"
+      ]
+    },
+    "entity_counts": {
+      "Universität Fribourg": 2,
+      "ETH Zürich": 1,
+      "Tommaso Magrini": 1,
+      "Erstautor": 1,
+      "Applied Materials and Interfaces": 1,
+      "Verbundwerkstoff": 1,
+      "Laminats": 1,
+      "Magrini T": 1,
+      "Kiebala D": 1,
+      "Grimm D": 1,
+      "Nelson A": 1,
+      "Schrettl S": 1,
+      "Bouville F": 1,
+      "Weder C": 1,
+      "Studart AR": 1,
+      "Tough Bioinspired Composites": 1,
+      "That Self-Report Damage": 1,
+      "Interfaces": 1,
+      "DOI": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "farbwechsel-zeigt-schaeden-im-material-an.md",
+      "title": "De News Events/2021/08/farbwechsel Zeigt Schaeden Im Material an",
+      "language": "de",
+      "source_path": "de_news_events/2021/08/farbwechsel-zeigt-schaeden-im-material-an.html"
+    },
+    "temporal": {
+      "publication_date": "2021-08",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bouville F",
+        "Grimm D",
+        "Magrini T",
+        "Nelson A",
+        "That Self-Report Damage",
+        "Tommaso Magrini",
+        "Weder C"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "Applied Materials and Interfaces",
+        "Laminats",
+        "Verbundwerkstoff"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ACS Applied",
+        "Nelson A",
+        "Studart AR",
+        "ACS Appl",
+        "Die Wahrnehmung",
+        "Composites That",
+        "Grimm D",
+        "Bouville F",
+        "Tommaso Magrini",
+        "Leichtbauweise Einzug",
+        "Polymer-Harz",
+        "Self-Report",
+        "Schrettl S",
+        "Komplexe Materialien",
+        "Zeigt Schaeden",
+        "Magrini T",
+        "Tough Bioinspired",
+        "Leichtgewichts-Werkstoff",
+        "Kiebala D",
+        "Im Material",
+        "De News",
+        "Weder C"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DOI",
+        "ETH Zürich",
+        "Interfaces",
+        "Kiebala D",
+        "Schrettl S",
+        "Studart AR",
+        "Tough Bioinspired Composites",
+        "Universität Fribourg"
+      ],
+      "locations": [
+        "Erstautor"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Universität Fribourg",
+        "ETH Zürich",
+        "Tommaso Magrini",
+        "Erstautor",
+        "Applied Materials and Interfaces",
+        "Verbundwerkstoff",
+        "Laminats",
+        "Magrini T",
+        "Kiebala D",
+        "Grimm D"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Künstliches Perlmutt mit Polymer kombiniert",
+          "Künstliches Perlmutt mit Polymer kombiniert",
+          "Fluoreszenz zeigt überbeanspruchte Teile an"
+        ],
+        "content_length": 3324
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "DOI",
+        "That Self-Report Damage",
+        "Grimm D",
+        "Kiebala D",
+        "Studart AR",
+        "Bouville F",
+        "Nelson A",
+        "EU",
+        "Tommaso Magrini",
+        "ETH Zürich",
+        "Interfaces",
+        "Schrettl S",
+        "Tough Bioinspired Composites",
+        "Universität Fribourg",
+        "2021",
+        "Weder C",
+        "Magrini T"
+      ],
+      "semantic_concepts": [
+        "chemistry",
+        "what",
+        "how",
+        "Verbundwerkstoff",
+        "Applied Materials and Interfaces",
+        "engineering",
+        "Laminats"
+      ],
+      "graph_relations": [
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

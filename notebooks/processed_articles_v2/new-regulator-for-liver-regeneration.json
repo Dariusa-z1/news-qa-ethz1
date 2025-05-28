@@ -1,0 +1,511 @@
+{
+  "filename": "new-regulator-for-liver-regeneration.md",
+  "original_filename": "new-regulator-for-liver-regeneration.html",
+  "source_path": "en_news_events/2017/09/new-regulator-for-liver-regeneration.html",
+  "date": "2017-09",
+  "title": "New Regulator For Liver Regeneration",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Advances with proteomics",
+      "text": "The liver is a wonderful thing: it’s the only organ able to fully regenerate with no scar tissue formation, even after major injury. In the case of organ donation, it is therefore generally possible to remove part of the donor’s liver and implant it into another patient. Within the space of just a few weeks, the liver grows back to its original size, unless more than two thirds of it is removed. But whenever a donor gives part of the liver to someone else, the sizes of the liver mass are on the threshold of the liver’s regenerative capacity, both for the donor and the recipient. Researchers and medical professionals are therefore keen to discover how to optimise the liver’s unique ability to regenerate. The key to the achievement of this goal is a mechanistic understanding of the repair process, and the identification and functional characterization of the genes involved in the regenerative process."
+    },
+    {
+      "heading": "Advances with proteomics",
+      "text": "ETH researchers in the group led by Sabine Werner, Professor of Cell Biology, have joined forces with the proteomics expert Ulrich auf dem Keller to explore a new approach to identifying previously unknown molecular regulators and signalling pathways in liver regeneration. The researchers were particularly interested in proteins that trigger the regeneration during the first 24 hours after an injury – before the liver cells start to multiply, in other words.\n\nBy performing a large-scale proteomics analysis, scientists were able to identify over 2,500 proteins in the cytoplasm and the nuclei of mouse liver cells. This was the case both with intact livers and those from which two thirds had previously been surgically removed. This partial hepatectomy resembles the procedure for removing a liver tumour in human patients, for example."
+    },
+    {
+      "heading": "Central regulator discovered",
+      "text": "Researchers narrowed down the selection of proteins found with the help of statistical methods and existing biological knowledge. Nedd4-1 stood out from the other proteins. Subsequent analysis eventually confirmed that Nedd4-1 plays a key role in liver regeneration.\n\nSabine Werner and her colleagues were already familiar with Nedd4-1, an enzyme that ubiquitinates other proteins, in other words modifies them by attaching the small protein ubiquitin. “What surprises us, however, was that very little was known to date about the ubiquination process during liver regeneration, and nothing at all about the role of Nedd4-1 in this process,” the ETH professor explains.\n\nThe scientists used knock-down experiments to show that this enzyme does indeed play a pivotal role. Using special forms of ribonucleic acid known as small interfering RNA (siRNA), they were able to silence Nedd4-1 in the livers of mice. The hepatocytes affected were no longer able to divide efficiently, so that the livers from which the tissue had been removed were slow to regenerate, if at all. After a few days, this led to liver failure in the laboratory mice, which had to be euthanised. The knock-down of Nedd4-1 had no effect on the cells of an intact liver."
+    },
+    {
+      "heading": "Key receptors affected",
+      "text": "ETH scientists were also able to demonstrate how Nedd4-1 functions. The enzyme has an indirect action, through activating the downstream signalling by growth factor receptors located in the hepatocyte membrane.\n\nWhen there is an injury – irrespective of the tissue – large quantities of growth factors enter the circulation. To stimulate cell proliferation, these growth factors need to attach to specific receptors on the cell’s surface. This triggers a signalling cascade, at the end of which the cell receives the command to divide. Here Nedd4-1 activates an adapter molecule that is attached to such a receptor. Only if Nedd4-1 has provided this adapter with an ubiquitin molecule will the signal be given for cell division and liver regeneration.\n\nWithout Nedd4-1, the adapter is not activated efficiently – if at all – and the signalling chain is severely impaired. “We have now been able to observe this process in vivo for the first time,” Ulrich auf dem Keller is pleased to report."
+    },
+    {
+      "heading": "Potential pharmaceutical application",
+      "text": "Nedd4-1 could possibly be of interest for pharmaceutical treatments, for example as a suitable target for the development of a medication to promote liver regeneration. On the other hand, Nedd4-1 could be inhibited in the case of tumours. “This protein is a key regulator of growth factor function,” auf dem Keller confirms. Although the study was performed with mice, the findings are transferable to humans. The hepatocytes of human livers contain more or less the same proteins as mice. The regeneration process is comparable in both.\n\n“The results to date are still only fundamental research,” Werner emphasises. Whether the latest knowledge can now be put to practical use is therefore not entirely certain, partly because of the rather delicate situation: excessive cell growth can trigger tumor formation - in the liver and in other organs. “There are a number of parallels between regeneration and cancer,” the ETH professor cautions. There is evidence to suggest that increased amounts of Nedd4-1 are produced in liver cancer. “Too much is therefore not good, nor is too little. We need to establish the right balance. To do so, we need to acquire a better understanding of the interplay between the different factors before we can think about influencing specific proteins in order to make a direct impact on liver regeneration,” Werner explains.\n\nBachofner M, Speicher T, et al.: Large-scale quantitative proteomics identifies the ubiquitin ligase Nedd4-1 as an essential regulator of liver regeneration. Developmental Cell, 7 September 2017, doi: 10.1016/j.devcel.2017.07.025"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "just a few weeks",
+        "label": "DATE",
+        "start": 292,
+        "end": 308
+      },
+      {
+        "text": "more than two thirds",
+        "label": "CARDINAL",
+        "start": 360,
+        "end": 380
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Sabine Werner",
+        "label": "PERSON",
+        "start": 36,
+        "end": 49
+      },
+      {
+        "text": "Cell Biology",
+        "label": "ORG",
+        "start": 64,
+        "end": 76
+      },
+      {
+        "text": "Ulrich",
+        "label": "ORG",
+        "start": 124,
+        "end": 130
+      },
+      {
+        "text": "dem Keller",
+        "label": "PERSON",
+        "start": 135,
+        "end": 145
+      },
+      {
+        "text": "the first 24 hours",
+        "label": "TIME",
+        "start": 368,
+        "end": 386
+      },
+      {
+        "text": "2,500",
+        "label": "CARDINAL",
+        "start": 550,
+        "end": 555
+      },
+      {
+        "text": "two thirds",
+        "label": "CARDINAL",
+        "start": 682,
+        "end": 692
+      },
+      {
+        "text": "Nedd4",
+        "label": "ORG",
+        "start": 130,
+        "end": 135
+      },
+      {
+        "text": "Nedd4",
+        "label": "ORG",
+        "start": 219,
+        "end": 224
+      },
+      {
+        "text": "Sabine Werner",
+        "label": "PERSON",
+        "start": 267,
+        "end": 280
+      },
+      {
+        "text": "Nedd4-1",
+        "label": "ORG",
+        "start": 327,
+        "end": 334
+      },
+      {
+        "text": "Nedd4",
+        "label": "GPE",
+        "start": 615,
+        "end": 620
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 645,
+        "end": 648
+      },
+      {
+        "text": "Nedd4-1",
+        "label": "ORG",
+        "start": 876,
+        "end": 883
+      },
+      {
+        "text": "a few days",
+        "label": "DATE",
+        "start": 1075,
+        "end": 1085
+      },
+      {
+        "text": "Nedd4",
+        "label": "GPE",
+        "start": 1183,
+        "end": 1188
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Nedd4",
+        "label": "ORG",
+        "start": 49,
+        "end": 54
+      },
+      {
+        "text": "Nedd4",
+        "label": "GPE",
+        "start": 540,
+        "end": 545
+      },
+      {
+        "text": "Nedd4-1",
+        "label": "ORG",
+        "start": 623,
+        "end": 630
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 933,
+        "end": 938
+      },
+      {
+        "text": "Ulrich",
+        "label": "PERSON",
+        "start": 946,
+        "end": 952
+      },
+      {
+        "text": "dem Keller",
+        "label": "PERSON",
+        "start": 957,
+        "end": 967
+      },
+      {
+        "text": "Nedd4",
+        "label": "ORG",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Nedd4",
+        "label": "GPE",
+        "start": 188,
+        "end": 193
+      },
+      {
+        "text": "dem Keller",
+        "label": "PERSON",
+        "start": 304,
+        "end": 314
+      },
+      {
+        "text": "Werner",
+        "label": "PERSON",
+        "start": 597,
+        "end": 603
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 918,
+        "end": 921
+      },
+      {
+        "text": "Nedd4-1",
+        "label": "ORG",
+        "start": 997,
+        "end": 1004
+      },
+      {
+        "text": "Werner",
+        "label": "PERSON",
+        "start": 1339,
+        "end": 1345
+      },
+      {
+        "text": "Bachofner M",
+        "label": "PERSON",
+        "start": 1356,
+        "end": 1367
+      },
+      {
+        "text": "al",
+        "label": "PERSON",
+        "start": 1384,
+        "end": 1386
+      },
+      {
+        "text": "Nedd4-1",
+        "label": "PRODUCT",
+        "start": 1457,
+        "end": 1464
+      },
+      {
+        "text": "September 2017",
+        "label": "DATE",
+        "start": 1536,
+        "end": 1550
+      },
+      {
+        "text": "10.1016/j.devcel.2017.07.025",
+        "label": "CARDINAL",
+        "start": 1557,
+        "end": 1585
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bachofner M",
+        "Sabine Werner",
+        "Ulrich",
+        "Werner",
+        "al",
+        "dem Keller"
+      ],
+      "ORG": [
+        "Cell Biology",
+        "ETH",
+        "En News",
+        "Nedd4",
+        "Nedd4-1",
+        "Ulrich"
+      ],
+      "LOCATION": [
+        "Nedd4"
+      ],
+      "DATE": [
+        "September 2017",
+        "a few days",
+        "just a few weeks",
+        "the first 24 hours"
+      ],
+      "MISC": [
+        "10.1016/j.devcel.2017.07.025",
+        "2,500",
+        "Nedd4-1",
+        "first",
+        "more than two thirds",
+        "two thirds"
+      ]
+    },
+    "entity_counts": {
+      "Nedd4": 8,
+      "Nedd4-1": 5,
+      "ETH": 4,
+      "dem Keller": 3,
+      "Sabine Werner": 2,
+      "Ulrich": 2,
+      "Werner": 2,
+      "En News": 1,
+      "just a few weeks": 1,
+      "more than two thirds": 1,
+      "Cell Biology": 1,
+      "the first 24 hours": 1,
+      "2,500": 1,
+      "two thirds": 1,
+      "a few days": 1,
+      "first": 1,
+      "Bachofner M": 1,
+      "al": 1,
+      "September 2017": 1,
+      "10.1016/j.devcel.2017.07.025": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-regulator-for-liver-regeneration.md",
+      "title": "En News Events/2017/09/new Regulator For Liver Regeneration",
+      "language": "en",
+      "source_path": "en_news_events/2017/09/new-regulator-for-liver-regeneration.html"
+    },
+    "temporal": {
+      "publication_date": "2017-09",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bachofner M",
+        "Sabine Werner",
+        "Ulrich",
+        "Werner",
+        "al",
+        "dem Keller"
+      ],
+      "people_with_roles": {
+        "Sabine Werner": [
+          "researcher",
+          "professor"
+        ],
+        "Ulrich": [
+          "researcher",
+          "professor"
+        ],
+        "Werner": [
+          "researcher",
+          "professor"
+        ],
+        "al": [
+          "scientist",
+          "researcher",
+          "professor"
+        ],
+        "dem Keller": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1016/j.devcel.2017.07.025",
+        "2,500",
+        "Nedd4-1",
+        "first",
+        "more than two thirds",
+        "two thirds"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Cell Biology",
+        "Bachofner M",
+        "En News",
+        "Speicher T",
+        "Sabine Werner",
+        "Developmental Cell",
+        "Liver Regeneration",
+        "Regulator For"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cell Biology",
+        "ETH",
+        "En News",
+        "Nedd4",
+        "Nedd4-1",
+        "Ulrich"
+      ],
+      "locations": [
+        "Nedd4"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Nedd4",
+        "Nedd4-1",
+        "ETH",
+        "dem Keller",
+        "Sabine Werner",
+        "Ulrich",
+        "Werner",
+        "En News",
+        "just a few weeks",
+        "more than two thirds"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Advances with proteomics",
+          "Advances with proteomics",
+          "Central regulator discovered",
+          "Key receptors affected",
+          "Potential pharmaceutical application"
+        ],
+        "content_length": 5635
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Cell Biology",
+        "ETH",
+        "Bachofner M",
+        "En News",
+        "dem Keller",
+        "2017",
+        "Sabine Werner",
+        "EU",
+        "Werner",
+        "al",
+        "Nedd4",
+        "Ulrich",
+        "Nedd4-1"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "more than two thirds",
+        "10.1016/j.devcel.2017.07.025",
+        "why",
+        "who",
+        "chemistry",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "two thirds",
+        "2,500",
+        "Nedd4-1",
+        "when"
+      ],
+      "graph_relations": [
+        "Sabine Werner_has_role_researcher",
+        "Sabine Werner_has_role_professor",
+        "Ulrich_has_role_researcher",
+        "Ulrich_has_role_professor",
+        "Werner_has_role_researcher",
+        "Werner_has_role_professor",
+        "al_has_role_scientist",
+        "al_has_role_researcher",
+        "al_has_role_professor",
+        "dem Keller_has_role_researcher",
+        "dem Keller_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

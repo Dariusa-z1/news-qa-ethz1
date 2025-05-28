@@ -1,0 +1,391 @@
+{
+  "filename": "climate-conscious-catering.md",
+  "original_filename": "climate-conscious-catering.html",
+  "source_path": "en_internal/2018/01/climate-conscious-catering.html",
+  "date": "2018-01",
+  "title": "Climate Conscious Catering",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Unifying CO2 calculation methods",
+      "text": "- They will calculate the CO2 footprint of their annual produce\n\n- They will clearly provide this to ETH Zurich\n\n- They will commit to a target agreement to reduce their CO2 footprint.\n\n- They will produce an action plan for how to reach the agreed reduction target\n\nThousands of students, employees and guests make use of ETH’s catering options every day. The catering facilities produce an equivalent of about 8,000 tonnes of CO 2 every year, accounting for about a fifth of all of ETH Zurich’s greenhouse gas emissions. The University’s Catering Commission therefore launched a project in 2013 to identify a healthy, affordable and environmentally friendly way to provide catering for ETH members. It was primarily conducted by students using real-world conditions, and combined research work, training and the practical optimisation of sustainability on campus."
+    },
+    {
+      "heading": "Unifying CO2calculation methods",
+      "text": "The results show that as expected, vegetarian menus are more climate-friendly than those with meat. When guests are informed about the environmental and health effects of their own menu choices, the demand for climate-friendly menus significantly increases. Better information for consumers and a choice of smaller plates can also help to reduce food waste. And climate-friendliness and taste are not linked: the climate-friendly menus examined did not taste any better or worse than equivalent menus with a significantly higher CO 2 footprint.\n\nFinally, the results established a need for unified calculation methods: the providers calculated their CO 2 declarations differently, making it difficult to compare them.\n\nGuided by the project results, the university has now launched the ETH Climate Programme. It began in January 2018, with the aim of significantly reducing the CO 2 footprint of the catering outlets over the next three years."
+    },
+    {
+      "heading": "Reduction target: 10 percent",
+      "text": "The programme is based on voluntary participation and a self-binding commitment from ETH’s catering partners. Caterers who wish to participate in ETH’s Climate Programme must fulfil the following criteria:\n\nIn collaboration with ETH and its research expertise, the catering partners have the opportunity to develop measures to reach the target figures. An independent audit process will then check the action plan and level of attainment.\n\nThe SV Group and the Compass Group have both agreed to participate as pioneers in the ETH Climate Programme. Both want to reduce their greenhouse gas emissions by a total of 10 percent over the next three years."
+    },
+    {
+      "heading": "Comprehensive sustainability goal",
+      "text": "But that’s not all: the ETH Climate Programme aims to build on this beginning to create a comprehensive sustainability programme for catering on campus. In future, aspects such as animal welfare, water usage, fair working conditions, salaries and nutritional content will be taken into account when planning menus.\n\nThe ways in which these aspects will be included in ETH’s future catering options will be clarified in discussions with catering partners. The plan is to include students and ETH researchers in this process, so that the key sustainability aspects of ETH’s catering can be determined long-term as a community."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Conscious Catering",
+        "label": "PERSON",
+        "start": 28,
+        "end": 46
+      },
+      {
+        "text": "CO2",
+        "label": "PRODUCT",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 49,
+        "end": 55
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 100,
+        "end": 110
+      },
+      {
+        "text": "CO2",
+        "label": "PRODUCT",
+        "start": 168,
+        "end": 171
+      },
+      {
+        "text": "Thousands",
+        "label": "CARDINAL",
+        "start": 263,
+        "end": 272
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 319,
+        "end": 322
+      },
+      {
+        "text": "every day",
+        "label": "DATE",
+        "start": 342,
+        "end": 351
+      },
+      {
+        "text": "about 8,000 tonnes",
+        "label": "QUANTITY",
+        "start": 402,
+        "end": 420
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 424,
+        "end": 428
+      },
+      {
+        "text": "about a fifth",
+        "label": "CARDINAL",
+        "start": 456,
+        "end": 469
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 480,
+        "end": 492
+      },
+      {
+        "text": "The University’s Catering Commission",
+        "label": "ORG",
+        "start": 519,
+        "end": 555
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 684,
+        "end": 687
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 529,
+        "end": 533
+      },
+      {
+        "text": "the ETH Climate Programme",
+        "label": "ORG",
+        "start": 780,
+        "end": 805
+      },
+      {
+        "text": "January 2018",
+        "label": "DATE",
+        "start": 819,
+        "end": 831
+      },
+      {
+        "text": "the next three years",
+        "label": "DATE",
+        "start": 920,
+        "end": 940
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 85,
+        "end": 88
+      },
+      {
+        "text": "ETH’s Climate Programme",
+        "label": "ORG",
+        "start": 146,
+        "end": 169
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 228,
+        "end": 231
+      },
+      {
+        "text": "The SV Group",
+        "label": "ORG",
+        "start": 438,
+        "end": 450
+      },
+      {
+        "text": "the Compass Group",
+        "label": "ORG",
+        "start": 455,
+        "end": 472
+      },
+      {
+        "text": "10 percent",
+        "label": "PERCENT",
+        "start": 612,
+        "end": 622
+      },
+      {
+        "text": "the next three years",
+        "label": "DATE",
+        "start": 628,
+        "end": 648
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 367,
+        "end": 370
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 490,
+        "end": 493
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 565,
+        "end": 568
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Conscious Catering",
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "ORG": [
+        "CO 2",
+        "ETH",
+        "ETH’s Climate Programme",
+        "The SV Group",
+        "The University’s Catering Commission",
+        "the Compass Group",
+        "the ETH Climate Programme"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "January 2018",
+        "annual",
+        "every day",
+        "the next three years"
+      ],
+      "MISC": [
+        "10 percent",
+        "CO2",
+        "Thousands",
+        "about 8,000 tonnes",
+        "about a fifth"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 7,
+      "CO2": 2,
+      "CO 2": 2,
+      "the next three years": 2,
+      "Conscious Catering": 1,
+      "annual": 1,
+      "ETH Zurich": 1,
+      "Thousands": 1,
+      "every day": 1,
+      "about 8,000 tonnes": 1,
+      "about a fifth": 1,
+      "ETH Zurich’s": 1,
+      "The University’s Catering Commission": 1,
+      "the ETH Climate Programme": 1,
+      "January 2018": 1,
+      "ETH’s Climate Programme": 1,
+      "The SV Group": 1,
+      "the Compass Group": 1,
+      "10 percent": 1
+    },
+    "total_entities": 28,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "climate-conscious-catering.md",
+      "title": "En Internal/2018/01/climate Conscious Catering",
+      "language": "en",
+      "source_path": "en_internal/2018/01/climate-conscious-catering.html"
+    },
+    "temporal": {
+      "publication_date": "2018-01",
+      "mentioned_years": [
+        "2013",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Conscious Catering",
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "10 percent",
+        "Thousands",
+        "about 8,000 tonnes",
+        "about a fifth"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Catering Commission",
+        "ETH Climate",
+        "The University",
+        "Climate Programme",
+        "Conscious Catering",
+        "En Internal",
+        "The SV",
+        "ETH Zurich",
+        "Compass Group"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CO 2",
+        "ETH",
+        "ETH’s Climate Programme",
+        "The SV Group",
+        "The University’s Catering Commission",
+        "the Compass Group",
+        "the ETH Climate Programme"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "CO2",
+        "CO 2",
+        "the next three years",
+        "Conscious Catering",
+        "annual",
+        "ETH Zurich",
+        "Thousands",
+        "every day",
+        "about 8,000 tonnes"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Unifying CO2 calculation methods",
+          "Unifying CO2calculation methods",
+          "Reduction target: 10 percent",
+          "Comprehensive sustainability goal"
+        ],
+        "content_length": 3133
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "The SV Group",
+        "ETH",
+        "2018",
+        "the Compass Group",
+        "ETH’s Climate Programme",
+        "The University’s Catering Commission",
+        "2013",
+        "Conscious Catering",
+        "the ETH Climate Programme",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "ERC",
+        "CO 2"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10 percent",
+        "who",
+        "Thousands",
+        "about a fifth",
+        "what",
+        "how",
+        "medical_research",
+        "about 8,000 tonnes",
+        "climate_change",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "filename": "a-piece-of-eth-accompanies-diesel-cars.md",
+  "original_filename": "a-piece-of-eth-accompanies-diesel-cars.html",
+  "source_path": "en_news_events/2013/11/a-piece-of-eth-accompanies-diesel-cars.html",
+  "date": "2013-11",
+  "title": "A Piece Of Eth Accompanies Diesel Cars",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "“Diesel cars have become acceptable”",
+      "text": "A good piece of ETH research can be found in practically every diesel engine used in cars and trucks today, but also in generators or other modern ocean-going vessels. From the 1970s onwards, engineers in the university’s research laboratories were significantly involved in the development of a then revolutionary system to inject fuel into the engine: the common rail injection system. Over time, this has become standard in the industry.\n\nTwenty years ago, on 9 November 1993, scientists presented the first modern, roadworthy automobile using this technology and a filling ratio adjusting high-pressure pump at an ETH conference to conclude a vehicle field test. The precise, electronic control of the diesel injection was new to the engine. In addition to electronically controlled injection nozzles, a fuel pressure tank was also necessary for this. This extends in the form of a tube – the common rail – across the engine block and supplies the injection nozzles of all the cylinders with diesel. In previous engines, the injection nozzle of every cylinder was preceded by its own pumping element. The nozzles opened when the fuel pressure was sufficiently high and not electronically."
+    },
+    {
+      "heading": "High-pressure pump developed at the ETH",
+      "text": "A glimpse under the bonnet. The common rail (crosswise pipe), four electronically controlled injector nozzles (behind it) and the high-pressure pump (yellow, front) can be seen. (Photo: ETH Zurich)\n\n“The common rail technology enabled the diesel injection to be divided into several injection processes for the first time,” explains Thomas Lutz. The now retired mechanical engineer was project manager of the field test at the time. In this way, a single injection process was turned into pre-, main and post injection processes. Today, there are even motors with up to five successive and precisely controlled injection processes. This division not only leads to better fuel combustion – whereby the exhaust gas contains less soot – but the engine has also become quieter.\n\n“This has revolutionised the diesel automobile sector. Previously, diesel cars were loud and they pinged. Thanks to the common rail technology, they have become acceptable,” says Lutz. Finally, the technology enabled efficient exhaust gas recirculation, so nitrogen oxides in the waste gas could be reduced. “At the same time, fuel consumption was very economical,” adds Lutz.\n\nThe toughest nut to crack during the project was the development of an efficient high-pressure pump that could also be precisely regulated to generate the fuel pressure in the common rail, says Lutz. Existing pumps were designed so that they deliberately generated excessive pressure and controlled pressure via an outlet valve. “This was inefficient and had an impact on fuel consumption,” says Lutz. Former ETH doctoral student Wolfgang Schneider developed a pump with a controllable admission valve. His pump generated exactly the pressure desired. The ETH took out a patent for this valve at the time.\n\nIn the demo car from 1993, the ETH engineers in principle converted a series diesel engine into a common rail engine. The project came to its end as scheduled in 1994. After the ETH had developed a serviceable pump and had demonstrated its practical suitability, it was time to pass the technology onto the industry for development for mass production, says Lutz. Which is what happened. And if acronyms such as CDI, CDTI or TDCi can be seen today on the tails of diesel cars – where the C stands for common rail – then a piece of ETH’s expertise also accompanies each of these cars.\n\nLutz does not expect this technology to be replaced by a completely different one in the near future. Indeed, there may now be diesel engines in which the cylinders are not supplied with a single pressure tank but where every cylinder has its own pressure tank. “The principle that a pump generates a preselected pressure defined by load, engine speed or also the operating temperature should, however, remain.”\n\nThe Aerothermochemistry and Combustion Systems Laboratory and Inspire, a competence centre for technology transfer with close ties to the ETH Zurich, are currently organising a specialist conference titled “20 years of the ETH common rail injection system”."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 101,
+        "end": 106
+      },
+      {
+        "text": "the 1970s",
+        "label": "DATE",
+        "start": 173,
+        "end": 182
+      },
+      {
+        "text": "Twenty years ago",
+        "label": "DATE",
+        "start": 441,
+        "end": 457
+      },
+      {
+        "text": "9 November 1993",
+        "label": "DATE",
+        "start": 462,
+        "end": 477
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 504,
+        "end": 509
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 617,
+        "end": 620
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 62,
+        "end": 66
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 186,
+        "end": 196
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 310,
+        "end": 315
+      },
+      {
+        "text": "Thomas Lutz",
+        "label": "PERSON",
+        "start": 332,
+        "end": 343
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 529,
+        "end": 534
+      },
+      {
+        "text": "up to five",
+        "label": "CARDINAL",
+        "start": 563,
+        "end": 573
+      },
+      {
+        "text": "Lutz",
+        "label": "PERSON",
+        "start": 952,
+        "end": 956
+      },
+      {
+        "text": "Lutz",
+        "label": "PERSON",
+        "start": 1144,
+        "end": 1148
+      },
+      {
+        "text": "Lutz",
+        "label": "PERSON",
+        "start": 1344,
+        "end": 1348
+      },
+      {
+        "text": "Lutz",
+        "label": "PERSON",
+        "start": 1546,
+        "end": 1550
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1559,
+        "end": 1562
+      },
+      {
+        "text": "Wolfgang Schneider",
+        "label": "PERSON",
+        "start": 1580,
+        "end": 1598
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1706,
+        "end": 1709
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1787,
+        "end": 1790
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1934,
+        "end": 1937
+      },
+      {
+        "text": "Lutz",
+        "label": "PERSON",
+        "start": 2114,
+        "end": 2118
+      },
+      {
+        "text": "CDI",
+        "label": "ORG",
+        "start": 2168,
+        "end": 2171
+      },
+      {
+        "text": "CDTI",
+        "label": "ORG",
+        "start": 2173,
+        "end": 2177
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 2198,
+        "end": 2203
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2287,
+        "end": 2290
+      },
+      {
+        "text": "Lutz",
+        "label": "ORG",
+        "start": 2340,
+        "end": 2344
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 2418,
+        "end": 2421
+      },
+      {
+        "text": "The Aerothermochemistry and Combustion Systems Laboratory",
+        "label": "ORG",
+        "start": 2752,
+        "end": 2809
+      },
+      {
+        "text": "Inspire",
+        "label": "ORG",
+        "start": 2814,
+        "end": 2821
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 2886,
+        "end": 2900
+      },
+      {
+        "text": "20 years",
+        "label": "DATE",
+        "start": 2959,
+        "end": 2967
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2975,
+        "end": 2978
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Lutz",
+        "Thomas Lutz",
+        "Wolfgang Schneider"
+      ],
+      "ORG": [
+        "CDI",
+        "CDTI",
+        "ETH",
+        "Inspire",
+        "Lutz",
+        "The Aerothermochemistry and Combustion Systems Laboratory",
+        "the ETH Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "20 years",
+        "9 November 1993",
+        "Today",
+        "Twenty years ago",
+        "the 1970s",
+        "today"
+      ],
+      "MISC": [
+        "first",
+        "four",
+        "one",
+        "up to five"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 8,
+      "Lutz": 6,
+      "today": 2,
+      "first": 2,
+      "the 1970s": 1,
+      "Twenty years ago": 1,
+      "9 November 1993": 1,
+      "four": 1,
+      "ETH Zurich": 1,
+      "Thomas Lutz": 1,
+      "Today": 1,
+      "up to five": 1,
+      "Wolfgang Schneider": 1,
+      "CDI": 1,
+      "CDTI": 1,
+      "one": 1,
+      "The Aerothermochemistry and Combustion Systems Laboratory": 1,
+      "Inspire": 1,
+      "the ETH Zurich": 1,
+      "20 years": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-piece-of-eth-accompanies-diesel-cars.md",
+      "title": "En News Events/2013/11/a Piece Of Eth Accompanies Diesel Cars",
+      "language": "en",
+      "source_path": "en_news_events/2013/11/a-piece-of-eth-accompanies-diesel-cars.html"
+    },
+    "temporal": {
+      "publication_date": "2013-11",
+      "mentioned_years": [
+        "1993",
+        "1994",
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Lutz",
+        "Thomas Lutz",
+        "Wolfgang Schneider"
+      ],
+      "people_with_roles": {
+        "Wolfgang Schneider": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "first",
+        "four",
+        "up to five"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Aerothermochemistry",
+        "Thomas Lutz",
+        "En News",
+        "Diesel Cars",
+        "Wolfgang Schneider",
+        "Piece Of",
+        "Former ETH",
+        "ETH Zurich",
+        "The ETH",
+        "Combustion Systems",
+        "Eth Accompanies"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CDI",
+        "CDTI",
+        "ETH",
+        "Inspire",
+        "Lutz",
+        "The Aerothermochemistry and Combustion Systems Laboratory",
+        "the ETH Zurich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Lutz",
+        "today",
+        "first",
+        "the 1970s",
+        "Twenty years ago",
+        "9 November 1993",
+        "four",
+        "ETH Zurich",
+        "Thomas Lutz"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "“Diesel cars have become acceptable”",
+          "High-pressure pump developed at the ETH"
+        ],
+        "content_length": 4270
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Inspire",
+        "Thomas Lutz",
+        "the ETH Zurich",
+        "1993",
+        "2013",
+        "CDTI",
+        "1994",
+        "CDI",
+        "Wolfgang Schneider",
+        "Lutz",
+        "ETH Zurich",
+        "The Aerothermochemistry and Combustion Systems Laboratory"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "up to five",
+        "four",
+        "who",
+        "where",
+        "what",
+        "how",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Wolfgang Schneider_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

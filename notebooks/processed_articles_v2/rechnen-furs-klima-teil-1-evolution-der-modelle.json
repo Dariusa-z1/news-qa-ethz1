@@ -1,0 +1,580 @@
+{
+  "filename": "rechnen-furs-klima-teil-1-evolution-der-modelle.md",
+  "original_filename": "rechnen-furs-klima-teil-1-evolution-der-modelle.html",
+  "source_path": "de_news_events/2015/10/rechnen-furs-klima-teil-1-evolution-der-modelle.html",
+  "date": "2015-10",
+  "title": "Rechnen Furs Klima Teil 1 Evolution Der Modelle",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Eine Frage der Auflösung",
+      "text": "Prognosen des Wetters und – in einem grösseren Rahmen – des Klimas sind ein komplexer Prozess. Dabei fliessen aktuelle lokale und globale Beobachtungen in spezialisierte Computerprogramme ein, die dann die künftigen meteorologischen Bedingungen modellieren. Die Ergebnisse solcher Simulationen sind nicht nur wichtig für den täglichen Wetterbericht; sie geben auch Antworten auf Fragen des Klimawandels, etwa bezüglich Anpassung (wie sollen wir mit dem künftigen Klima umgehen?) und Schutzmassnahmen (wie können wir den Klimawandel eindämmen?).\n\nDer britische Mathematiker und Meteorologe Lewis F. Richardson versuchte schon 1917, das Wetter «zu berechnen». Seine Rechenleistung bestand aus einem gedachten Mitarbeiterbestand von 64’000 Personen, die zusammen den ersten massiv-parallelen «Computer» darstellten. Richardson entwickelte einen umfangreichen Satz an Tabellen, die als einfacher verteilter Speicher dienten (wobei die einzelnen «Computer» die Zahlen handschriftlich eintragen sollten). Dazu befasste er sich mit Parallelisierung, Kommunikation und Synchronisation – alles zentrale Themen der modernen Klimasimulation."
+    },
+    {
+      "heading": "Bessere Rechenmodelle entwickeln",
+      "text": "Bereits Richardson bildete die Atmosphäre mit einem dreidimensionalen Rechengitter ab, um eine vereinfachte Form der fluid-dynamischen Gleichungen auf einem rotierenden Planeten zu lösen – sprich: das Wetter zu berechnen – ganz ähnlich, wie wir das heute tun. Die ersten realistischen Simulationen kamen aber erst später, in den 50er-Jahren. Man arbeitete damals noch mit einer Auflösung von rund 800 km. Ein grosser Durchbruch gelang in den späten 70er-Jahren, als die Auflösung in globalen Modellen auf ungefähr 100 km verfeinert wurde. Das ermöglichte Wettervorhersagen von bis zu fünf Tagen, weil man zum ersten Mal Hoch- und Tiefdrucksysteme angemessen behandeln konnte. Davor waren nur Vorhersagen für einen Tag möglich.\n\nHeute stehen wir nun vor der nächsten Herausforderung: Ab einer Auflösung von 1 km wird es möglich, konvektive Wolken (die Gewitter und Regenschauer verursachen) eindeutig abzubilden. Die Dynamik dieser feinskalierten atmosphärischen Systeme repräsentieren wir nunmehr mit physikalischen Gesetzen statt wie früher mit halb-empirischen Näherungsverfahren. Solche kilometergenaue Simulationen kommen bereits bei der operativen Wettervorhersage und vermehrt auch in der Klimaforschung zum Einsatz. Zahlreiche Studien zeigen, dass damit der Wasserzyklus und seine Extremerscheinungen angemessen dargestellt werden können. Zudem hofft man, dass die kilometergenaue Auflösung die Genauigkeit der Klimamodelle erhöhen wird. Jüngste Resultate einer Simulation über Europa [1] verdeutlichen die Vorteile hoher Auflösung und untermauern diese Zukunftsperspektiven (siehe Abbildung).\n\nDiese Simulationen wurden mit dem Modell COSMO durchgeführt [2]. COSMO ist ein komplexes Computerprogramm, das hunderte Forscher in internationaler Zusammenarbeit über Jahrzehnte hinweg entwickelten. Das Programm läuft auf Hochleistungsrechnern und umfasst über 300 ’ 000 Zeilen Quellode. Es wird von vielen europäischen Wetterzentren – einschliesslich MeteoSchweiz – sowie von rund 200 Wissenschaftlern an verschiedenen Universitäten und Klimazentren eingesetzt, etwa dem Center for Climate Systems Modelling C2SM an der ETH Zürich."
+    },
+    {
+      "heading": "Bessere Rechenmodelle entwickeln",
+      "text": "Hochleistungsrechner, auch Supercomputer genannt, reizen die Möglichkeiten dessen aus, was wir berechnen können. Dabei nutzen sie spezialisierte Mehrkernprozessoren und Grafikprozessoren (GPUs). Auf solchen massiv-parallelen Systemen höchste Leistung zu erreichen, ist eine zentrale Herausforderung in der Informatik. Durch Spezialisierung lässt sich zudem sehr viel Geld und Energie einsparen: Mit der Umstellung auf eine heterogene GPU-basierte Architektur im Piz-Kesch-System [3] konnte der Schweizerische Wetterdienst MeteoSchweiz beispielsweise die Energieeffizienz seiner operativen Vorhersagen um mehr als den Faktor drei verbessern. Diese Rechenmaschine wird nun für die tägliche Wetterprognose eingesetzt.\n\nDennoch: Heterogene Rechnersysteme effizient zu programmieren, stellt nach wie vor eine grosse Herausforderung dar – neue Erkenntnisse und Instrumente sind dafür nötig. Die GPU-Architektur folgt komplett anderen Designprinzipien als traditionelle Prozessoren und zwingt den Programmierer, die massive Parallelität in einer spezialisierten Sprache wie etwa CUDA auszudrücken. Das unterscheidet sich grundlegend von der Art und Weise, wie wir in den letzten 30 Jahren Code geschrieben haben. Meine Gruppe, das «Scalable Parallel Computing Laboratory» SPCL , will die erzielte Leistung weiter steigern und arbeitet an Methoden, um im Rahmen des Projekts «Platform for Advanced Scientific Computing» (PASC) [4] hochskalierende heterogene Supercomputer zu programmieren. PASC hat zum Ziel, das Hochleistungsrechnen (High-Performance Computing, HPC) in der Schweiz zu modernisieren. Die Resultate werden an der jährlichen, gleichnamigen Konferenz diskutiert. [5]\n\nTorsten Hoefler hat diesen Blogbeitrag zusammen mit Christoph Schär (ETH Zürich) und Oliver Fuhrer (MeteoSchweiz) geschrieben. In ihrem nächsten Beitrag, « Rechnen fürs Klima (Teil 2) », erklären die Autoren, wie moderne Klimamodelle funktionieren."
+    },
+    {
+      "heading": "Weiterführende Informationen",
+      "text": "[1] Leutwyler, D., O. Fuhrer, X. Lapillonne, D. Lüthi, C. Schär, 2015: Continental-Scale Climate Simulation at Kilometer-Resolution. ETH Zurich online resource. externe Seite Short description and animation , Climate Science Visuals: externe Seite Online video .\n\n[2] externe Seite COSMO model\n\n[3] externe Seite Piz Kesch\n\n[4] externe Seite PASC\n\n[5] externe Seite PASC Konferenz\n\nAssistenzprofessor für Informatik, Scalable Parallel Computing Laboratory (SPCL), ETH Zürich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Klima",
+        "label": "PER",
+        "start": 36,
+        "end": 41
+      },
+      {
+        "text": "Schutzmassnahmen",
+        "label": "LOC",
+        "start": 483,
+        "end": 499
+      },
+      {
+        "text": "britische",
+        "label": "MISC",
+        "start": 549,
+        "end": 558
+      },
+      {
+        "text": "Lewis F. Richardson",
+        "label": "PER",
+        "start": 588,
+        "end": 607
+      },
+      {
+        "text": "Richardson",
+        "label": "PER",
+        "start": 812,
+        "end": 822
+      },
+      {
+        "text": "Richardson",
+        "label": "PER",
+        "start": 8,
+        "end": 18
+      },
+      {
+        "text": "Europa",
+        "label": "LOC",
+        "start": 1484,
+        "end": 1490
+      },
+      {
+        "text": "COSMO",
+        "label": "MISC",
+        "start": 1641,
+        "end": 1646
+      },
+      {
+        "text": "COSMO",
+        "label": "MISC",
+        "start": 1665,
+        "end": 1670
+      },
+      {
+        "text": "europäischen",
+        "label": "MISC",
+        "start": 1908,
+        "end": 1920
+      },
+      {
+        "text": "MeteoSchweiz",
+        "label": "MISC",
+        "start": 1953,
+        "end": 1965
+      },
+      {
+        "text": "Center for Climate Systems Modelling C2SM",
+        "label": "LOC",
+        "start": 2073,
+        "end": 2114
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 2122,
+        "end": 2132
+      },
+      {
+        "text": "Hochleistungsrechner",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "GPU-basierte",
+        "label": "MISC",
+        "start": 434,
+        "end": 446
+      },
+      {
+        "text": "Schweizerische Wetterdienst",
+        "label": "ORG",
+        "start": 494,
+        "end": 521
+      },
+      {
+        "text": "Heterogene Rechnersysteme",
+        "label": "PER",
+        "start": 724,
+        "end": 749
+      },
+      {
+        "text": "GPU-Architektur",
+        "label": "ORG",
+        "start": 888,
+        "end": 903
+      },
+      {
+        "text": "CUDA",
+        "label": "MISC",
+        "start": 1071,
+        "end": 1075
+      },
+      {
+        "text": "Meine Gruppe",
+        "label": "ORG",
+        "start": 1205,
+        "end": 1217
+      },
+      {
+        "text": "Scalable Parallel Computing Laboratory",
+        "label": "MISC",
+        "start": 1224,
+        "end": 1262
+      },
+      {
+        "text": "SPCL",
+        "label": "MISC",
+        "start": 1264,
+        "end": 1268
+      },
+      {
+        "text": "Platform for Advanced Scientific Computing",
+        "label": "MISC",
+        "start": 1367,
+        "end": 1409
+      },
+      {
+        "text": "PASC",
+        "label": "PER",
+        "start": 1481,
+        "end": 1485
+      },
+      {
+        "text": "High-Performance Computing",
+        "label": "PER",
+        "start": 1526,
+        "end": 1552
+      },
+      {
+        "text": "HPC",
+        "label": "ORG",
+        "start": 1554,
+        "end": 1557
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 1566,
+        "end": 1573
+      },
+      {
+        "text": "gleichnamigen Konferenz",
+        "label": "MISC",
+        "start": 1632,
+        "end": 1655
+      },
+      {
+        "text": "Christoph Schär",
+        "label": "PER",
+        "start": 1724,
+        "end": 1739
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1741,
+        "end": 1751
+      },
+      {
+        "text": "Oliver Fuhrer",
+        "label": "PER",
+        "start": 1757,
+        "end": 1770
+      },
+      {
+        "text": "MeteoSchweiz",
+        "label": "ORG",
+        "start": 1772,
+        "end": 1784
+      },
+      {
+        "text": "O. Fuhrer",
+        "label": "PER",
+        "start": 19,
+        "end": 28
+      },
+      {
+        "text": "X. Lapillonne",
+        "label": "PER",
+        "start": 30,
+        "end": 43
+      },
+      {
+        "text": "D. Lüthi",
+        "label": "PER",
+        "start": 45,
+        "end": 53
+      },
+      {
+        "text": "C. Schär",
+        "label": "PER",
+        "start": 55,
+        "end": 63
+      },
+      {
+        "text": "Continental-Scale Climate Simulation at Kilometer-Resolution",
+        "label": "ORG",
+        "start": 71,
+        "end": 131
+      },
+      {
+        "text": "Short",
+        "label": "LOC",
+        "start": 175,
+        "end": 180
+      },
+      {
+        "text": "Online",
+        "label": "ORG",
+        "start": 248,
+        "end": 254
+      },
+      {
+        "text": "COSMO",
+        "label": "MISC",
+        "start": 281,
+        "end": 286
+      },
+      {
+        "text": "Piz Kesch",
+        "label": "PER",
+        "start": 311,
+        "end": 320
+      },
+      {
+        "text": "SPCL",
+        "label": "ORG",
+        "start": 452,
+        "end": 456
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 459,
+        "end": 469
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "C. Schär",
+        "Christoph Schär",
+        "D. Lüthi",
+        "De News",
+        "Heterogene Rechnersysteme",
+        "High-Performance Computing",
+        "Klima",
+        "Lewis F. Richardson",
+        "O. Fuhrer",
+        "Oliver Fuhrer",
+        "PASC",
+        "Piz Kesch",
+        "Richardson",
+        "X. Lapillonne"
+      ],
+      "ORG": [
+        "Continental-Scale Climate Simulation at Kilometer-Resolution",
+        "ETH Zürich",
+        "GPU-Architektur",
+        "HPC",
+        "Meine Gruppe",
+        "MeteoSchweiz",
+        "Online",
+        "SPCL",
+        "Schweizerische Wetterdienst"
+      ],
+      "LOCATION": [
+        "Center for Climate Systems Modelling C2SM",
+        "Europa",
+        "Hochleistungsrechner",
+        "Schutzmassnahmen",
+        "Schweiz",
+        "Short"
+      ],
+      "DATE": [],
+      "MISC": [
+        "COSMO",
+        "CUDA",
+        "GPU-basierte",
+        "MeteoSchweiz",
+        "Platform for Advanced Scientific Computing",
+        "SPCL",
+        "Scalable Parallel Computing Laboratory",
+        "britische",
+        "europäischen",
+        "gleichnamigen Konferenz"
+      ]
+    },
+    "entity_counts": {
+      "COSMO": 3,
+      "ETH Zürich": 3,
+      "Richardson": 2,
+      "MeteoSchweiz": 2,
+      "SPCL": 2,
+      "De News": 1,
+      "Klima": 1,
+      "Schutzmassnahmen": 1,
+      "britische": 1,
+      "Lewis F. Richardson": 1,
+      "Europa": 1,
+      "europäischen": 1,
+      "Center for Climate Systems Modelling C2SM": 1,
+      "Hochleistungsrechner": 1,
+      "GPU-basierte": 1,
+      "Schweizerische Wetterdienst": 1,
+      "Heterogene Rechnersysteme": 1,
+      "GPU-Architektur": 1,
+      "CUDA": 1,
+      "Meine Gruppe": 1
+    },
+    "total_entities": 44,
+    "unique_entities": 37
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "rechnen-furs-klima-teil-1-evolution-der-modelle.md",
+      "title": "De News Events/2015/10/rechnen Furs Klima Teil 1 Evolution der Modelle",
+      "language": "de",
+      "source_path": "de_news_events/2015/10/rechnen-furs-klima-teil-1-evolution-der-modelle.html"
+    },
+    "temporal": {
+      "publication_date": "2015-10",
+      "mentioned_years": [
+        "1917",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "C. Schär",
+        "Christoph Schär",
+        "D. Lüthi",
+        "De News",
+        "Heterogene Rechnersysteme",
+        "High-Performance Computing",
+        "Klima",
+        "Lewis F. Richardson",
+        "O. Fuhrer",
+        "Oliver Fuhrer",
+        "PASC",
+        "Piz Kesch",
+        "Richardson",
+        "X. Lapillonne"
+      ],
+      "people_with_roles": {
+        "PASC": [
+          "professor"
+        ],
+        "Piz Kesch": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "COSMO",
+        "CUDA",
+        "GPU-basierte",
+        "MeteoSchweiz",
+        "Platform for Advanced Scientific Computing",
+        "SPCL",
+        "Scalable Parallel Computing Laboratory",
+        "britische",
+        "europäischen",
+        "gleichnamigen Konferenz"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Seite PASC",
+        "Diese Rechenmaschine",
+        "Modelle Prognosen",
+        "Die Resultate",
+        "Zeilen Quellode",
+        "Zahlreiche Studien",
+        "Seite Online",
+        "Schweizerische Wetterdienst",
+        "Scalable Parallel",
+        "Piz-Kesch",
+        "Modell COSMO",
+        "Die Dynamik",
+        "Computing Laboratory",
+        "Jahren Code",
+        "Seine Rechenleistung",
+        "Oliver Fuhrer",
+        "Advanced Scientific",
+        "Climate Simulation",
+        "Kilometer-Resolution",
+        "Seite Short",
+        "Meine Gruppe",
+        "Bereits Richardson",
+        "Seite COSMO",
+        "Seite Piz",
+        "Das Programm",
+        "Climate Systems",
+        "Durch Spezialisierung",
+        "Climate Science",
+        "Die GPU",
+        "Mal Hoch",
+        "Meteorologe Lewis",
+        "Continental-Scale",
+        "Furs Klima",
+        "High-Performance",
+        "Die Ergebnisse",
+        "Diese Simulationen",
+        "De News",
+        "Torsten Hoefler",
+        "ETH Zurich",
+        "Heterogene Rechnersysteme"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Continental-Scale Climate Simulation at Kilometer-Resolution",
+        "ETH Zürich",
+        "GPU-Architektur",
+        "HPC",
+        "Meine Gruppe",
+        "MeteoSchweiz",
+        "Online",
+        "SPCL",
+        "Schweizerische Wetterdienst"
+      ],
+      "locations": [
+        "Center for Climate Systems Modelling C2SM",
+        "Europa",
+        "Hochleistungsrechner",
+        "Schutzmassnahmen",
+        "Schweiz",
+        "Short"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "COSMO",
+        "ETH Zürich",
+        "Richardson",
+        "MeteoSchweiz",
+        "SPCL",
+        "De News",
+        "Klima",
+        "Schutzmassnahmen",
+        "britische",
+        "Lewis F. Richardson"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Eine Frage der Auflösung",
+          "Bessere Rechenmodelle entwickeln",
+          "Bessere Rechenmodelle entwickeln",
+          "Weiterführende Informationen"
+        ],
+        "content_length": 5735
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "D. Lüthi",
+        "GPU-Architektur",
+        "C. Schär",
+        "1917",
+        "Richardson",
+        "Online",
+        "O. Fuhrer",
+        "Christoph Schär",
+        "ERC",
+        "Lewis F. Richardson",
+        "Schweizerische Wetterdienst",
+        "X. Lapillonne",
+        "HPC",
+        "ETH Zürich",
+        "Piz Kesch",
+        "High-Performance Computing",
+        "Oliver Fuhrer",
+        "SPCL",
+        "2015",
+        "EU",
+        "Meine Gruppe",
+        "Continental-Scale Climate Simulation at Kilometer-Resolution",
+        "PASC",
+        "Klima",
+        "MeteoSchweiz",
+        "De News",
+        "Heterogene Rechnersysteme"
+      ],
+      "semantic_concepts": [
+        "SPCL",
+        "Scalable Parallel Computing Laboratory",
+        "who",
+        "britische",
+        "MeteoSchweiz",
+        "gleichnamigen Konferenz",
+        "europäischen",
+        "COSMO",
+        "Platform for Advanced Scientific Computing",
+        "what",
+        "GPU-basierte",
+        "how",
+        "CUDA"
+      ],
+      "graph_relations": [
+        "PASC_has_role_professor",
+        "Piz Kesch_has_role_professor"
+      ]
+    }
+  }
+}

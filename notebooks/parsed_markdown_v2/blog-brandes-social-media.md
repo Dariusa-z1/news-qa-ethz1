@@ -1,0 +1,50 @@
+# blog-brandes-social-media.html
+
+**Source:** en_news_events/2019/03/blog-brandes-social-media.html
+
+## Network effects and monopolisation
+
+Within just a few years, social media has risen from a peripheral phenomenon to an integral part of our everyday lives. In contrast to what followed the mass availability of cars, televisions and the internet, this rise is accompanied by a strong tendency toward monopolisation. If we exclude Chinese services such as WeChat, QQ or Tik Tok, Facebook (including Instagram and WhatsApp), YouTube, LinkedIn and Twitter have achieved primacy within their respective product niches.
+
+## Network effects and monopolisation
+
+These services may well face competition in the early stages. However, the appeal of a platform increases with the number of people who can be reached there. Economists refer to the phenomenon where both the provider and the customer benefit from a higher market share as a network effect. A concentration on the largest provider is then virtually inevitable. Even Google with Google+ was no longer able to assert itself against Facebook and will be ceasing the service in April.
+
+But what is the problem with a monopoly if the product is offered for free? Or if – as shamelessly asserted, for example, by Mark Zuckerberg, the founder, main shareholder and chairman of Facebook – the aim of a company was simply “to help people stay in touch with family, friends and communities”. This then begs the question of why Facebook and other services have recently faced such bad press.
+
+## Advertising, manipulation and price discrimination
+
+The business models of (Western) social media channels depend primarily on advertising. It is therefore fitting that, again according to Zuckerberg, users enjoy receiving targeted messages. Surveys may arrive at different conclusions, but personalised advertising is still easier to sell. Turnover has been increasing at double-digit rates for years and will exceed CHF 100 billion by next year at the latest.
+
+Two factors drive this growth: the extent of media usage and the effectiveness of advertising. Both factors are served by knowing as much as possible about user behaviour, and better yet, being able to control it.
+
+The fact that short messages can be sent and read alongside or in between other activities leads to imminent rewards and thus higher usage. The right product presentation at the right time is more likely to trigger a buying stimulus. And both effects are strengthened by social incentives.
+
+## Alternatives and acceptance
+
+However, the attention economy and targeted advertising are only the beginning. Behaviour-related information such as search queries, preferences or movement profiles are analysed as well, and sold on to other interested parties.
+
+Political influence, for instance, takes place via micro targeting, whereby personally tailored messages are created based on inferred inclinations. Interestingly, the outrage surrounding Cambridge Analytica was focused less on the influence on the American presidential campaign than on the fact that the company had unlawful access to data from millions of Facebook profiles. Data to which Facebook itself naturally always has access.
+
+You don’t need to be a cynic to have fundamental doubts about the consistently benevolent intentions of profit-making companies. It should also come as no surprise if the knowledge gained through behavioural observation is soon used on a large-scale basis to develop premium pricing for insurance offers. Although regulation could replace trust, it does not keep pace with the rapid development of social media.
+
+## Protocols and standards
+
+The well-known social media channels benefit from network effects because they are isolated systems to which you either belong or don’t belong. Mobile phones, email and the World Wide Web show that this needn’t be the case. Communication is possible here through a range of providers because it is carried out via a standardised exchange instead of a central platform.
+
+The World Wide Web Consortium (W3C) is the international body for continuous advancement of the Web and develops proposals for open standards. This includes protocols and formats for the exchange of content and activities such as those customary in social media.
+
+In federated systems, different providers can supply variants of the same services because they are based on open standards. There may thus exist differences in the rules when it comes to access, deleting content, and even taking your own data to another provider.
+
+Standards therefore keep market access as well as options for changing providers open. While problems such as spam and data security are not removed, they are no longer in the hands of a single provider.
+
+For network effects to act in reverse, a critical mass of users would first need to switch to open systems.
+
+The most successful software of this type at present is Mastodon, a service comparable to Twitter but adhering to W3C standards.
+
+Mastodon instances play the same role as servers do for websites, wikis or email, and several thousand are now in use following its launch in 2016. These interact with one another in the same way as with other servers such as GNU social. This federated system has now greatly exceeded the first one million accounts.
+
+Whether the trend toward open systems will last or end with a group of pioneers remains to be seen. At the very least, a lack of alternatives is no longer an excuse.
+
+Ulrik Brandes Professor of Social Networks at ETH Zurich
+

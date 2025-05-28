@@ -1,0 +1,554 @@
+{
+  "filename": "special-e-bike-rates-for-members-of-the-eth-community.md",
+  "original_filename": "special-e-bike-rates-for-members-of-the-eth-community.html",
+  "source_path": "en_internal/2022/05/special-e-bike-rates-for-members-of-the-eth-community.html",
+  "date": "2022-05",
+  "title": "Special E Bike Rates For Members Of The Eth Community",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Book through the app",
+      "text": "The provider Urban Connect has installed a fleet of 25 high-quality e-bikes as well as an e-cargo bike in stations at four ETH Zurich buildings. The hirable electric bikes and their charging stations are located on the Hönggerberg campus near the HCI office and lab building (“ Fünffinger dock ”), on the Zentrum campus near the CHN building (Universitätstrasse 8- 22, easily accessible from the ETH/Universitätsspital and Haldenbach tram stops), and near ETH’s ONA and Octavo buildings in Zurich-Oerlikon."
+    },
+    {
+      "heading": "Book through the app",
+      "text": "ETH community members who opt to hire one of these e-bikes benefit from attractive rates – they pay much less than the standard market prices. The bikes cost 50 Swiss centimes per hour and a maximum of 3 Swiss francs per day (24 hours). The electric drives enable average speeds of around 25 km/h. Unlike the models offered by Bond, the previous provider, these bikes do not require a moped driving licence.\n\nBikes can be hired through the Urban Connect app by completing a one-time registration with an ETH e-mail address (ETH username followed by @ethz.ch) and a credit card number to enable direct billing. Then simply select a bike and go! Use of the e-bikes is not restricted to the ETH campus – users can also ride them home. Every booking must start and end at an Urban​Connect charging station, and some bikes have to be returned to the same charging station they were checked out from (this applies specifically to the Hönggerberg station and is explained in detail in the app)."
+    },
+    {
+      "heading": "One thousand new e-bikers by July",
+      "text": "The goal is to get 1,000 users by the end of July, before the e-bikes ideally become part of daily operations (but first the pilot project will have to be evaluated). User number development is promising: while January saw more than 250 ETH community members using Urban Connect e-bikes, this figure increased disproportionately through March and April to more than 450 users. In May, as of this week, the total number of users is 630. The warm spring weather undoubtedly played a part in this – usage on sunny days is around 25 percent higher than on windy, rainy or snowy days. Demand for the e-bikes is highest on the Hönggerberg campus, so the number of e-bikes available at HCI has already been increased."
+    },
+    {
+      "heading": "Pilot programme for sustainable campus mobility",
+      "text": "The current e-bike offering at ETH is still in the pilot stage. ETH Zurich launched the programme in partnership with e-bike provider Urban Connect after Bond, the previous provider, withdrew from the market. The evaluation results will determine whether the offering will become part of daily operations. From a purely technological standpoint, the app could also be expanded to include other vehicles (e-scooters, e-cars, bikes) and public transportation, and be developed into a comprehensive mobility app. The e-bike offering is part of ETH Zurich's mobility strategy which is currently being developed. In addition to the e-bikes, members of the ETH community can also use the city of Zurich’s “PubliBike” bicycles."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Eth Community",
+        "label": "ORG",
+        "start": 56,
+        "end": 73
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 118,
+        "end": 122
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "GPE",
+        "start": 123,
+        "end": 133
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 219,
+        "end": 230
+      },
+      {
+        "text": "HCI",
+        "label": "PERSON",
+        "start": 247,
+        "end": 250
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 305,
+        "end": 312
+      },
+      {
+        "text": "CHN",
+        "label": "ORG",
+        "start": 329,
+        "end": 332
+      },
+      {
+        "text": "Universitätstrasse",
+        "label": "GPE",
+        "start": 343,
+        "end": 361
+      },
+      {
+        "text": "ETH/Universitätsspital",
+        "label": "ORG",
+        "start": 396,
+        "end": 418
+      },
+      {
+        "text": "ETH’s ONA",
+        "label": "ORG",
+        "start": 456,
+        "end": 465
+      },
+      {
+        "text": "Zurich-Oerlikon",
+        "label": "ORG",
+        "start": 490,
+        "end": 505
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 38,
+        "end": 41
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 161,
+        "end": 166
+      },
+      {
+        "text": "centimes per hour",
+        "label": "TIME",
+        "start": 167,
+        "end": 184
+      },
+      {
+        "text": "3 Swiss francs",
+        "label": "MONEY",
+        "start": 202,
+        "end": 216
+      },
+      {
+        "text": "24 hours",
+        "label": "TIME",
+        "start": 226,
+        "end": 234
+      },
+      {
+        "text": "around 25 km/h.",
+        "label": "QUANTITY",
+        "start": 282,
+        "end": 297
+      },
+      {
+        "text": "Bond",
+        "label": "ORG",
+        "start": 327,
+        "end": 331
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 473,
+        "end": 476
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 503,
+        "end": 506
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 523,
+        "end": 526
+      },
+      {
+        "text": "@ethz.ch",
+        "label": "ORG",
+        "start": 548,
+        "end": 556
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 687,
+        "end": 690
+      },
+      {
+        "text": "Urban​Connect",
+        "label": "ORG",
+        "start": 770,
+        "end": 783
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 927,
+        "end": 938
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 19,
+        "end": 24
+      },
+      {
+        "text": "the end of July",
+        "label": "DATE",
+        "start": 34,
+        "end": 49
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 93,
+        "end": 98
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 115,
+        "end": 120
+      },
+      {
+        "text": "January",
+        "label": "DATE",
+        "start": 211,
+        "end": 218
+      },
+      {
+        "text": "more than 250",
+        "label": "CARDINAL",
+        "start": 223,
+        "end": 236
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 237,
+        "end": 240
+      },
+      {
+        "text": "Urban Connect",
+        "label": "ORG",
+        "start": 265,
+        "end": 278
+      },
+      {
+        "text": "March",
+        "label": "DATE",
+        "start": 337,
+        "end": 342
+      },
+      {
+        "text": "April",
+        "label": "DATE",
+        "start": 347,
+        "end": 352
+      },
+      {
+        "text": "more than 450",
+        "label": "CARDINAL",
+        "start": 356,
+        "end": 369
+      },
+      {
+        "text": "May",
+        "label": "DATE",
+        "start": 380,
+        "end": 383
+      },
+      {
+        "text": "this week",
+        "label": "DATE",
+        "start": 391,
+        "end": 400
+      },
+      {
+        "text": "spring",
+        "label": "DATE",
+        "start": 445,
+        "end": 451
+      },
+      {
+        "text": "around 25 percent",
+        "label": "PERCENT",
+        "start": 519,
+        "end": 536
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 621,
+        "end": 632
+      },
+      {
+        "text": "HCI",
+        "label": "ORG",
+        "start": 679,
+        "end": 682
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 64,
+        "end": 74
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 288,
+        "end": 293
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 541,
+        "end": 553
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 651,
+        "end": 654
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 690,
+        "end": 696
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich's",
+        "HCI",
+        "Hönggerberg",
+        "Zentrum"
+      ],
+      "ORG": [
+        "@ethz.ch",
+        "Bond",
+        "CHN",
+        "ETH",
+        "ETH/Universitätsspital",
+        "ETH’s ONA",
+        "HCI",
+        "The Eth Community",
+        "Urban Connect",
+        "Urban​Connect",
+        "Zurich-Oerlikon"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Universitätstrasse",
+        "Zurich"
+      ],
+      "DATE": [
+        "24 hours",
+        "April",
+        "January",
+        "March",
+        "May",
+        "centimes per hour",
+        "daily",
+        "spring",
+        "the end of July",
+        "this week"
+      ],
+      "MISC": [
+        "1,000",
+        "3 Swiss francs",
+        "Swiss",
+        "around 25 km/h.",
+        "around 25 percent",
+        "first",
+        "four",
+        "more than 250",
+        "more than 450",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 7,
+      "Hönggerberg": 3,
+      "ETH Zurich": 2,
+      "HCI": 2,
+      "one": 2,
+      "daily": 2,
+      "The Eth Community": 1,
+      "four": 1,
+      "Zentrum": 1,
+      "CHN": 1,
+      "Universitätstrasse": 1,
+      "ETH/Universitätsspital": 1,
+      "ETH’s ONA": 1,
+      "Zurich-Oerlikon": 1,
+      "Swiss": 1,
+      "centimes per hour": 1,
+      "3 Swiss francs": 1,
+      "24 hours": 1,
+      "around 25 km/h.": 1,
+      "Bond": 1
+    },
+    "total_entities": 49,
+    "unique_entities": 37
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "special-e-bike-rates-for-members-of-the-eth-community.md",
+      "title": "En Internal/2022/05/special E Bike Rates For Members Of The Eth Community",
+      "language": "en",
+      "source_path": "en_internal/2022/05/special-e-bike-rates-for-members-of-the-eth-community.html"
+    },
+    "temporal": {
+      "publication_date": "2022-05",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich's",
+        "HCI",
+        "Hönggerberg",
+        "Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "1,000",
+        "3 Swiss francs",
+        "Swiss",
+        "around 25 km/h.",
+        "around 25 percent",
+        "first",
+        "four",
+        "more than 250",
+        "more than 450"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "The Eth",
+        "E Bike",
+        "Urban Connect",
+        "Rates For",
+        "Members Of",
+        "Zurich-Oerlikon",
+        "En Internal",
+        "Community The",
+        "In May",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "@ethz.ch",
+        "Bond",
+        "CHN",
+        "ETH",
+        "ETH/Universitätsspital",
+        "ETH’s ONA",
+        "HCI",
+        "The Eth Community",
+        "Urban Connect",
+        "Urban​Connect",
+        "Zurich-Oerlikon"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Universitätstrasse",
+        "Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Hönggerberg",
+        "ETH Zurich",
+        "HCI",
+        "one",
+        "daily",
+        "The Eth Community",
+        "four",
+        "Zentrum",
+        "CHN"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Book through the app",
+          "Book through the app",
+          "One thousand new e-bikers by July",
+          "Pilot programme for sustainable campus mobility"
+        ],
+        "content_length": 3000
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "ETH",
+        "Bond",
+        "Urban​Connect",
+        "CHN",
+        "ETH/Universitätsspital",
+        "Urban Connect",
+        "Zurich-Oerlikon",
+        "Zentrum",
+        "2022",
+        "@ethz.ch",
+        "HCI",
+        "ETH Zurich",
+        "ETH’s ONA",
+        "The Eth Community",
+        "ERC",
+        "ETH Zurich's"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "four",
+        "more than 450",
+        "who",
+        "Swiss",
+        "around 25 percent",
+        "more than 250",
+        "what",
+        "around 25 km/h.",
+        "3 Swiss francs",
+        "why",
+        "when",
+        "1,000"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

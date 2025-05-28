@@ -1,0 +1,686 @@
+{
+  "filename": "c2d2-auf-korrosionskurs.md",
+  "original_filename": "c2d2-auf-korrosionskurs.html",
+  "source_path": "de_news_events/2014/08/c2d2-auf-korrosionskurs.html",
+  "date": "2014-08",
+  "title": "C2D2 Auf Korrosionskurs",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Korrosion gefährdet die Schweizer Infrastruktur",
+      "text": "Über 3500 Autobahnbrücken in der Schweiz bringen uns jederzeit sicher und schnell über Taleinschnitte, Bäche, Flüsse oder Verkehrswege. Hinzu kommen Tausende von Brücken von Kantonsstrassen. Zwei Eigenschaften haben die meisten von ihnen gemeinsam: Sie sind unabdingbar für die Schweizer Verkehrsinfrastruktur und sie bestehen aus Stahlbeton. Dadurch sind sie sicher und langlebig – zumindest solange, bis die Korrosion einsetzt."
+    },
+    {
+      "heading": "Ein Roboter soll Korrosion aufspüren",
+      "text": "Unter Korrosion wird die Zerstörung des Bewehrungsstahls im Beton aufgrund von eindringendem Chlorid aus dem Tausalz oder die Neutralisation des Betons durch CO 2 aus der Atmosphäre verstanden. Die Zerstörung schreitet mit der Zeit immer stärker voran und ist meist erst dann sichtbar, wenn sie schon sehr fortgeschritten ist. Dies kann auf Dauer die Gebrauchstauglichkeit und die Sicherheit der Brücken und anderer Stahlbetontragwerke gefährden. Ausserdem verschlingt die Sanierung dieser Brücken grosse Summen, denn je grösser die Schäden aufgrund der Korrosion, desto teurer ist die Reparatur. «Hinzu kommt, dass viele Brücken in der Schweiz mittlerweile über 50 Jahre alt sind, wodurch die Korrosion zu einem immer grösseren Problem für die Schweizer Infrastruktur wird», erklärt Bernhard Elsener, Professor am Institut für Baustoffe der ETH Zürich.\n\nZusammen mit einem Forscherteam entwickelte er deshalb schon vor 25 Jahren eine Technologie, um die Korrosion frühzeitig zu erkennen: Sie befestigten eine Elektrode auf einem Rad und fuhren damit über die Oberfläche des Stahlbetons. Dabei misst der Sensor das unterschiedliche elektrische Potenzial des geprüften Stahlbetons. Grössere Differenzen des Potenzials bedeuten, dass die Bewehrung des Betons in diesen Bereichen bereits begonnen hat zu korrodieren. Die Messdaten werden an einen Rechner übertragen und ausgewertet.\n\nDiese Technologie, die Potenzialfeldmessung, werde schon seit Längerem erfolgreich bei der Inspektion von Brücken angewandt, sagt Elsener. Ein Problem besteht jedoch weiterhin: «Die Radelektrode ist an einem Stock befestigt und muss mit der Hand geführt werden. Dadurch können viele Bereiche wie beispielsweise Stützen und Unterseiten von hohen Brücken nicht erfasst werden», erklärt Elsener."
+    },
+    {
+      "heading": "Aus Paraswift wird C2D2",
+      "text": "Oliver Glauser, Prof. Bernhard Elsener und Prof. Robert Flatt mit C2D2 (v.l.n.r.).\n\nUm dieses Problem zu lösen, schloss sich das Institut für Baustoffe mit dem Institut für Robotik und Intelligente Systeme zusammen und bildete ein Projektteam bestehend aus Bernhard Elsener, Alexis Leibbrandt, Oliver Glauser, Ueli Angst und Robert Flatt vom Institut für Baustoffe, sowie Gilles Caprari vom Autonomous Systems Lab der ETH Zürich. Das Ziel war es, einen Roboter zu entwickeln, der in der Lage ist, Korrosion im frühsten Stadium und auch an für Menschen unzugänglichen Stellen aufzuspüren. Die Forscher mussten indes nicht lange nach einer Lösung suchen: «In einem unserer Fokusprojekte haben Studierende vor vier Jahren einen Roboter entwickelt, der in der Lage ist, sich sowohl am Boden als auch an Wänden und Decken fortzubewegen. Für das geplante Projekt war er deshalb ideal», erzählt Roland Siegwart, Professor am Institut für Robotik und Intelligente Systeme und Vizepräsident Forschung und Wirtschaftsbeziehungen der ETH Zürich.\n\nDie Fortbewegung dieses Roboters basiert auf der sogenannten Vortex-Technologie: Auf der Unterseite des Roboters befindet sich eine Art Propeller, der sich so schnell dreht, dass der Roboter durch den entstehenden Unterdruck an Wänden und Decken angesaugt wird und sich mit Hilfe seiner Räder fortbewegen kann. Gesteuert wird er mittels Fern- oder Computersteuerung."
+    },
+    {
+      "heading": "Erste Tests waren erfolgreich",
+      "text": "«Ursprünglich hiess der Roboter Paraswift und wurde mit Hinblick auf die Nutzung durch Disney entwickelt. Wenn an dem Roboter eine Kamera angeschraubt wird, kann ein Raum problemlos aus allen Perspektiven gefilmt werden», erklärt Siegwart. Für das neue Projekt der beiden Institute wurde Paraswift in C2D2 («Climbing Corrosion Detecting Device») umgetauft und an die neue Nutzung als Korrosions-Entdecker angepasst: «Wir haben das Gehäuse und die Räder robuster gestaltet und die Technologie zur Erkennung von Korrosion eingebaut», so Elsener, der das Projekt leitet.\n\nDie Elektrode befindet sich auf der Unterseite des Roboters und misst die Potenzialdifferenz des Stahlbetons während sich der Roboter auf dem Bauwerk fortbewegt. Diese Daten muss ein Spezialist anschliessend auswerten. Zudem montierten die Ingenieure eine rosa Kugel auf der Oberseite des Roboters, damit ihn Kameras leicht erkennen und die Forscher ihn somit orten und besser steuern können. In dieser Kugel befindet sich eine weitere Kamera, welche die Umgebung aufnimmt. Dadurch können mögliche Hindernisse erkannt und umfahren werden.\n\nC2D2 wird an der Einsteinbrücke am ETH Standort Hönggerberg getestet.\n\nBis zum Ende des Projekts Mitte 2015 soll der Roboter solche Hindernisse selbst erkennen und umfahren können. Ausserdem wollen die Forscher die manuelle Steuerung des Roboters durch ein Navigationssystem ersetzen, welches den Roboter autonom werden lässt. Und sie sind daran, eine Software zu entwickeln, welche die vielen Messdaten zum grossen Teil selbst auswertet.\n\nBereits im Jahr 2012 meldete das Projektteam den Roboter zum Patent an. Firmen, die sich für eine externe Seite Lizenz interessieren, können sich bei ETH transfer, der Technologietransferstelle der ETH, melden. Bislang wurde C2D2 schon an verschiedenen Brücken in der Schweiz getestet, und er hat sich weitgehend bewährt. Einzig das Fahren auf vertikalen Ebenen müssen die Ingenieure noch optimieren. Bis zum Ende des Projekts werden weitere Tests folgen. Auf Grundlage der Ergebnisse wird das Bundesamt für Strassen (Astra), das das Projekt finanziert, entscheiden, ob C2D2 künftig für die regelmässigen Inspektionen der Brücken eingesetzt werden soll. Dazu würde Professor Elsener in jedem Fall raten: «C2D2 kann mit relativ geringen Kosten zu einer sicheren und nachhaltigen Infrastruktur verhelfen – und das war auch die Motivation für das Projekt.»\n\nAm 13. Juni 2014 wurde C2D2 in einem internationalen Wettbewerb auf der externe Seite Concrete Innovation Conference (COIN) mit einem Award in der Kategorie «Prolongation of service life» ausgezeichnet. Dieser Wettbewerb fand dieses Jahr zum ersten Mal statt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Autobahnbrücken",
+        "label": "LOC",
+        "start": 10,
+        "end": 25
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 33,
+        "end": 40
+      },
+      {
+        "text": "Kantonsstrassen",
+        "label": "LOC",
+        "start": 174,
+        "end": 189
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 278,
+        "end": 287
+      },
+      {
+        "text": "Stahlbeton",
+        "label": "LOC",
+        "start": 331,
+        "end": 341
+      },
+      {
+        "text": "Korrosion",
+        "label": "MISC",
+        "start": 410,
+        "end": 419
+      },
+      {
+        "text": "Chlorid",
+        "label": "PER",
+        "start": 93,
+        "end": 100
+      },
+      {
+        "text": "Betons",
+        "label": "LOC",
+        "start": 145,
+        "end": 151
+      },
+      {
+        "text": "CO",
+        "label": "MISC",
+        "start": 158,
+        "end": 160
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 227,
+        "end": 231
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 637,
+        "end": 644
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 745,
+        "end": 754
+      },
+      {
+        "text": "Bernhard Elsener",
+        "label": "PER",
+        "start": 784,
+        "end": 800
+      },
+      {
+        "text": "Institut für Baustoffe",
+        "label": "ORG",
+        "start": 815,
+        "end": 837
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 842,
+        "end": 852
+      },
+      {
+        "text": "Potenzials",
+        "label": "MISC",
+        "start": 1205,
+        "end": 1215
+      },
+      {
+        "text": "Betons",
+        "label": "PER",
+        "start": 1249,
+        "end": 1255
+      },
+      {
+        "text": "Elsener",
+        "label": "PER",
+        "start": 1509,
+        "end": 1516
+      },
+      {
+        "text": "Elsener",
+        "label": "PER",
+        "start": 1763,
+        "end": 1770
+      },
+      {
+        "text": "Oliver Glauser",
+        "label": "PER",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Bernhard Elsener",
+        "label": "PER",
+        "start": 22,
+        "end": 38
+      },
+      {
+        "text": "Robert Flatt",
+        "label": "PER",
+        "start": 49,
+        "end": 61
+      },
+      {
+        "text": "C2D2",
+        "label": "MISC",
+        "start": 66,
+        "end": 70
+      },
+      {
+        "text": "Institut für Baustoffe",
+        "label": "ORG",
+        "start": 128,
+        "end": 150
+      },
+      {
+        "text": "Institut für Robotik und Intelligente",
+        "label": "ORG",
+        "start": 159,
+        "end": 196
+      },
+      {
+        "text": "Bernhard Elsener",
+        "label": "PER",
+        "start": 256,
+        "end": 272
+      },
+      {
+        "text": "Alexis Leibbrandt",
+        "label": "PER",
+        "start": 274,
+        "end": 291
+      },
+      {
+        "text": "Oliver Glauser",
+        "label": "PER",
+        "start": 293,
+        "end": 307
+      },
+      {
+        "text": "Ueli Angst",
+        "label": "PER",
+        "start": 309,
+        "end": 319
+      },
+      {
+        "text": "Robert Flatt",
+        "label": "PER",
+        "start": 324,
+        "end": 336
+      },
+      {
+        "text": "Institut für Baustoffe",
+        "label": "ORG",
+        "start": 341,
+        "end": 363
+      },
+      {
+        "text": "Gilles Caprari",
+        "label": "PER",
+        "start": 371,
+        "end": 385
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 417,
+        "end": 427
+      },
+      {
+        "text": "Roland Siegwart",
+        "label": "PER",
+        "start": 887,
+        "end": 902
+      },
+      {
+        "text": "Institut für Robotik und Intelligente",
+        "label": "ORG",
+        "start": 917,
+        "end": 954
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1022,
+        "end": 1032
+      },
+      {
+        "text": "Roboters",
+        "label": "LOC",
+        "start": 1138,
+        "end": 1146
+      },
+      {
+        "text": "Disney",
+        "label": "ORG",
+        "start": 87,
+        "end": 93
+      },
+      {
+        "text": "Paraswift",
+        "label": "PER",
+        "start": 288,
+        "end": 297
+      },
+      {
+        "text": "C2D2",
+        "label": "MISC",
+        "start": 301,
+        "end": 305
+      },
+      {
+        "text": "Climbing Corrosion Detecting Device",
+        "label": "MISC",
+        "start": 308,
+        "end": 343
+      },
+      {
+        "text": "Korrosion",
+        "label": "MISC",
+        "start": 510,
+        "end": 519
+      },
+      {
+        "text": "Elsener",
+        "label": "PER",
+        "start": 535,
+        "end": 542
+      },
+      {
+        "text": "C2D2",
+        "label": "MISC",
+        "start": 1107,
+        "end": 1111
+      },
+      {
+        "text": "Einsteinbrücke",
+        "label": "LOC",
+        "start": 1124,
+        "end": 1138
+      },
+      {
+        "text": "ETH Standort Hönggerberg",
+        "label": "ORG",
+        "start": 1142,
+        "end": 1166
+      },
+      {
+        "text": "Projekts Mitte",
+        "label": "LOC",
+        "start": 1194,
+        "end": 1208
+      },
+      {
+        "text": "Roboters",
+        "label": "ORG",
+        "start": 1344,
+        "end": 1352
+      },
+      {
+        "text": "Jahr 2012",
+        "label": "MISC",
+        "start": 1556,
+        "end": 1565
+      },
+      {
+        "text": "Projektteam",
+        "label": "ORG",
+        "start": 1578,
+        "end": 1589
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1695,
+        "end": 1698
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1743,
+        "end": 1746
+      },
+      {
+        "text": "C2D2",
+        "label": "MISC",
+        "start": 1770,
+        "end": 1774
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 1813,
+        "end": 1820
+      },
+      {
+        "text": "Bundesamt für Strassen",
+        "label": "ORG",
+        "start": 2039,
+        "end": 2061
+      },
+      {
+        "text": "Astra",
+        "label": "MISC",
+        "start": 2063,
+        "end": 2068
+      },
+      {
+        "text": "C2D2",
+        "label": "MISC",
+        "start": 2115,
+        "end": 2119
+      },
+      {
+        "text": "Elsener",
+        "label": "PER",
+        "start": 2220,
+        "end": 2227
+      },
+      {
+        "text": "C2D2",
+        "label": "MISC",
+        "start": 2250,
+        "end": 2254
+      },
+      {
+        "text": "C2D2",
+        "label": "MISC",
+        "start": 2422,
+        "end": 2426
+      },
+      {
+        "text": "Concrete Innovation Conference",
+        "label": "ORG",
+        "start": 2485,
+        "end": 2515
+      },
+      {
+        "text": "COIN",
+        "label": "ORG",
+        "start": 2517,
+        "end": 2521
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alexis Leibbrandt",
+        "Bernhard Elsener",
+        "Betons",
+        "Chlorid",
+        "Elsener",
+        "Gilles Caprari",
+        "Oliver Glauser",
+        "Paraswift",
+        "Robert Flatt",
+        "Roland Siegwart",
+        "Ueli Angst"
+      ],
+      "ORG": [
+        "Bundesamt für Strassen",
+        "COIN",
+        "Concrete Innovation Conference",
+        "Disney",
+        "ETH",
+        "ETH Standort Hönggerberg",
+        "ETH Zürich",
+        "Institut für Baustoffe",
+        "Institut für Robotik und Intelligente",
+        "Projektteam",
+        "Roboters"
+      ],
+      "LOCATION": [
+        "Autobahnbrücken",
+        "Betons",
+        "Einsteinbrücke",
+        "Kantonsstrassen",
+        "Projekts Mitte",
+        "Roboters",
+        "Schweiz",
+        "Stahlbeton"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Astra",
+        "C2D2",
+        "CO",
+        "Climbing Corrosion Detecting Device",
+        "Jahr 2012",
+        "Korrosion",
+        "Potenzials",
+        "Schweizer",
+        "Zeit"
+      ]
+    },
+    "entity_counts": {
+      "C2D2": 7,
+      "Elsener": 4,
+      "Schweiz": 3,
+      "Bernhard Elsener": 3,
+      "Institut für Baustoffe": 3,
+      "ETH Zürich": 3,
+      "Schweizer": 2,
+      "Korrosion": 2,
+      "Betons": 2,
+      "Oliver Glauser": 2,
+      "Robert Flatt": 2,
+      "Institut für Robotik und Intelligente": 2,
+      "Roboters": 2,
+      "ETH": 2,
+      "Autobahnbrücken": 1,
+      "Kantonsstrassen": 1,
+      "Stahlbeton": 1,
+      "Chlorid": 1,
+      "CO": 1,
+      "Zeit": 1
+    },
+    "total_entities": 62,
+    "unique_entities": 37
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "c2d2-auf-korrosionskurs.md",
+      "title": "De News Events/2014/08/c2d2 auf Korrosionskurs",
+      "language": "de",
+      "source_path": "de_news_events/2014/08/c2d2-auf-korrosionskurs.html"
+    },
+    "temporal": {
+      "publication_date": "2014-08",
+      "mentioned_years": [
+        "2012",
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Alexis Leibbrandt",
+        "Bernhard Elsener",
+        "Betons",
+        "Chlorid",
+        "Elsener",
+        "Gilles Caprari",
+        "Oliver Glauser",
+        "Paraswift",
+        "Robert Flatt",
+        "Roland Siegwart",
+        "Ueli Angst"
+      ],
+      "people_with_roles": {
+        "Bernhard Elsener": [
+          "professor"
+        ],
+        "Elsener": [
+          "Professor",
+          "professor"
+        ],
+        "Roland Siegwart": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "Astra",
+        "C2D2",
+        "Climbing Corrosion Detecting Device",
+        "Jahr 2012",
+        "Korrosion",
+        "Potenzials",
+        "Schweizer",
+        "Zeit"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Professor Elsener",
+        "Robert Flatt",
+        "Vortex-Technologie",
+        "Dieser Wettbewerb",
+        "Auf Grundlage",
+        "Intelligente Systeme",
+        "Projekts Mitte",
+        "Das Ziel",
+        "Die Elektrode",
+        "Diese Daten",
+        "Climbing Corrosion",
+        "Schweizer Infrastruktur",
+        "Korrosions-Entdecker",
+        "Zwei Eigenschaften",
+        "Roland Siegwart",
+        "Seite Concrete",
+        "Oliver Glauser",
+        "Roboter Paraswift",
+        "Detecting Device",
+        "Schweizer Verkehrsinfrastruktur",
+        "Seite Lizenz",
+        "Die Radelektrode",
+        "Ein Problem",
+        "Gilles Caprari",
+        "Ueli Angst",
+        "ETH Standort",
+        "Innovation Conference",
+        "Autonomous Systems",
+        "Die Fortbewegung",
+        "Die Forscher",
+        "Alexis Leibbrandt",
+        "Unter Korrosion",
+        "De News",
+        "Bernhard Elsener",
+        "Diese Technologie",
+        "Art Propeller",
+        "Die Messdaten"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bundesamt für Strassen",
+        "COIN",
+        "Concrete Innovation Conference",
+        "Disney",
+        "ETH",
+        "ETH Standort Hönggerberg",
+        "ETH Zürich",
+        "Institut für Baustoffe",
+        "Institut für Robotik und Intelligente",
+        "Projektteam",
+        "Roboters"
+      ],
+      "locations": [
+        "Autobahnbrücken",
+        "Betons",
+        "Einsteinbrücke",
+        "Kantonsstrassen",
+        "Projekts Mitte",
+        "Roboters",
+        "Schweiz",
+        "Stahlbeton"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "C2D2",
+        "Elsener",
+        "Schweiz",
+        "Bernhard Elsener",
+        "Institut für Baustoffe",
+        "ETH Zürich",
+        "Schweizer",
+        "Korrosion",
+        "Betons",
+        "Oliver Glauser"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Korrosion gefährdet die Schweizer Infrastruktur",
+          "Ein Roboter soll Korrosion aufspüren",
+          "Aus Paraswift wird C2D2",
+          "Erste Tests waren erfolgreich"
+        ],
+        "content_length": 6317
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Robert Flatt",
+        "Betons",
+        "Chlorid",
+        "Institut für Robotik und Intelligente",
+        "ETH Standort Hönggerberg",
+        "ETH Zürich",
+        "Projektteam",
+        "Roland Siegwart",
+        "Oliver Glauser",
+        "Bundesamt für Strassen",
+        "2014",
+        "2015",
+        "Concrete Innovation Conference",
+        "Paraswift",
+        "EU",
+        "2012",
+        "Gilles Caprari",
+        "Disney",
+        "Ueli Angst",
+        "COIN",
+        "Alexis Leibbrandt",
+        "Elsener",
+        "Bernhard Elsener",
+        "Institut für Baustoffe",
+        "Roboters"
+      ],
+      "semantic_concepts": [
+        "Zeit",
+        "Korrosion",
+        "Jahr 2012",
+        "Schweizer",
+        "who",
+        "C2D2",
+        "Astra",
+        "Climbing Corrosion Detecting Device",
+        "computer_science",
+        "Potenzials",
+        "when"
+      ],
+      "graph_relations": [
+        "Bernhard Elsener_has_role_professor",
+        "Elsener_has_role_Professor",
+        "Elsener_has_role_professor",
+        "Roland Siegwart_has_role_professor",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

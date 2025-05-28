@@ -1,0 +1,257 @@
+{
+  "filename": "de_news_events_2018_04_meet-the-talent.md",
+  "original_filename": "de_news_events_2018_04_meet-the-talent.html",
+  "source_path": "de_news_events/2018/04/meet-the-talent.html",
+  "date": "2018-04",
+  "title": "Meet The Talent",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Mit dem jährlichen «Meet the Talent»-Anlass danken die ETH Rektorin und Schirmherrin des Programms, Sarah M. Springman, und die externe Seite ETH Zürich Foundation all jenen, die sich für das Stipendienprogramm «Excellence Scholarship & Opportunity Programme» (ESOP) engagieren. So können in diesem Jahr dank der Unterstützung von Privatpersonen, Unternehmen und Stiftungen erneut 57 Stipendien an besonders talentierte Studierende vergeben werden.\n\nAn diversen Ständen berichteten die Studierenden von ihren Visionen und Ideen und profitierten gleichzeitig vom grossen Erfahrungsschatz ihrer Gäste. Rektorin Sarah M. Springman sprach in ihrer Rede über neue Entwicklungen in der Lehre und machte deutlich, dass das ESOP-Programm, das allein durch Donationen realisiert wird, auch weiterhin nur dank dem grossartigen Engagement von privaten Gönnerinnen und Gönnern bestehen kann.\n\nSeit 2007 konnten durch Donationen an die ETH Zürich Foundation bereits 448 exzellente Studierende während ihres Masterstudiums unterstützt werden. Mit dem «Excellence Scholarship and Opportunity Programme» erhalten die besten zwei bis drei Prozent aller neueintretenden Masterstudierenden ein Stipendium, welches Studien- und Lebenshaltungskosten sowie den Erlass der Studiengebühren umfasst. Die jungen Zukunftsträger profitieren jedoch nicht nur von der massgeblichen finanziellen Unterstützung, sondern auch von einem ausgesuchten Förderprogramm mit Mentoring und speziellen Anlässen.\n\nWeitere Informationen zum Programm finden Sie externe Seite hier ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "The Talent",
+        "label": "MISC",
+        "start": 28,
+        "end": 38
+      },
+      {
+        "text": "Meet the Talent»-Anlass",
+        "label": "MISC",
+        "start": 20,
+        "end": 43
+      },
+      {
+        "text": "ETH Rektorin und Schirmherrin des Programms",
+        "label": "ORG",
+        "start": 55,
+        "end": 98
+      },
+      {
+        "text": "Sarah M. Springman",
+        "label": "PER",
+        "start": 100,
+        "end": 118
+      },
+      {
+        "text": "Excellence Scholarship & Opportunity",
+        "label": "ORG",
+        "start": 212,
+        "end": 248
+      },
+      {
+        "text": "ESOP",
+        "label": "ORG",
+        "start": 261,
+        "end": 265
+      },
+      {
+        "text": "Sarah M. Springman",
+        "label": "PER",
+        "start": 608,
+        "end": 626
+      },
+      {
+        "text": "ESOP-Programm",
+        "label": "MISC",
+        "start": 715,
+        "end": 728
+      },
+      {
+        "text": "ETH Zürich Foundation",
+        "label": "ORG",
+        "start": 921,
+        "end": 942
+      },
+      {
+        "text": "Excellence Scholarship and Opportunity",
+        "label": "ORG",
+        "start": 1036,
+        "end": 1074
+      },
+      {
+        "text": "Studiengebühren",
+        "label": "MISC",
+        "start": 1248,
+        "end": 1263
+      },
+      {
+        "text": "Zukunftsträger",
+        "label": "PER",
+        "start": 1284,
+        "end": 1298
+      },
+      {
+        "text": "Mentoring",
+        "label": "LOC",
+        "start": 1433,
+        "end": 1442
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Sarah M. Springman",
+        "Zukunftsträger"
+      ],
+      "ORG": [
+        "ESOP",
+        "ETH Rektorin und Schirmherrin des Programms",
+        "ETH Zürich Foundation",
+        "Excellence Scholarship & Opportunity",
+        "Excellence Scholarship and Opportunity"
+      ],
+      "LOCATION": [
+        "Mentoring"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ESOP-Programm",
+        "Meet the Talent»-Anlass",
+        "Studiengebühren",
+        "The Talent"
+      ]
+    },
+    "entity_counts": {
+      "Sarah M. Springman": 2,
+      "De News": 1,
+      "The Talent": 1,
+      "Meet the Talent»-Anlass": 1,
+      "ETH Rektorin und Schirmherrin des Programms": 1,
+      "Excellence Scholarship & Opportunity": 1,
+      "ESOP": 1,
+      "ESOP-Programm": 1,
+      "ETH Zürich Foundation": 1,
+      "Excellence Scholarship and Opportunity": 1,
+      "Studiengebühren": 1,
+      "Zukunftsträger": 1,
+      "Mentoring": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2018_04_meet-the-talent.md",
+      "title": "De News Events/2018/04/meet The Talent",
+      "language": "de",
+      "source_path": "de_news_events/2018/04/meet-the-talent.html"
+    },
+    "temporal": {
+      "publication_date": "2018-04",
+      "mentioned_years": [
+        "2007",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Sarah M. Springman",
+        "Zukunftsträger"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ESOP-Programm",
+        "Meet the Talent»-Anlass",
+        "Studiengebühren",
+        "The Talent"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Seite ETH",
+        "The Talent",
+        "Excellence Scholarship",
+        "ESOP-Programm",
+        "Sarah M",
+        "Rektorin Sarah",
+        "ETH Rektorin",
+        "De News",
+        "Opportunity Programme",
+        "Weitere Informationen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ESOP",
+        "ETH Rektorin und Schirmherrin des Programms",
+        "ETH Zürich Foundation",
+        "Excellence Scholarship & Opportunity",
+        "Excellence Scholarship and Opportunity"
+      ],
+      "locations": [
+        "Mentoring"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Sarah M. Springman",
+        "De News",
+        "The Talent",
+        "Meet the Talent»-Anlass",
+        "ETH Rektorin und Schirmherrin des Programms",
+        "Excellence Scholarship & Opportunity",
+        "ESOP",
+        "ESOP-Programm",
+        "ETH Zürich Foundation",
+        "Excellence Scholarship and Opportunity"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1576
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "2007",
+        "Excellence Scholarship & Opportunity",
+        "Zukunftsträger",
+        "Sarah M. Springman",
+        "ETH Zürich Foundation",
+        "ESOP",
+        "EU",
+        "ETH Rektorin und Schirmherrin des Programms",
+        "Excellence Scholarship and Opportunity",
+        "De News"
+      ],
+      "semantic_concepts": [
+        "The Talent",
+        "Meet the Talent»-Anlass",
+        "who",
+        "ESOP-Programm",
+        "Studiengebühren"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,22 @@
+# eth-zurich-joins-alliance-of-european-universities.html
+
+**Source:** en_news_events/2022/11/eth-zurich-joins-alliance-of-european-universities.html
+
+## Contribution to European educational area
+
+As of today, ETH is part of the Enhance Alliance. ETH Rector Günther Dissertori signed a memorandum of understanding to that effect today in Aachen at a meeting of the rectors.
+
+The Enhance Alliance aims to promote mobility among students and teaching staff by removing administrative hurdles and trying out new forms of mobility and cooperation.
+
+Member institutions to date include TU Berlin, Chalmers University of Technology, NTNU Trondheim, Politecnico di Milano, RWTH Aachen, Warsaw University of Technology and Universitat Politècnica de València. Together with ETH, new members TU Delft and Gdańsk University of Technology joined the alliance today.
+
+## Contribution to European educational area
+
+The alliance was founded as part of the European Commission’s “European Universities” initiative. This initiative was launched in order to strengthen strategic partnerships between European universities and thereby increase the global competitiveness of European higher education in the long term. According to Günther Dissertori, “We can only shape the future of university education in Europe by working together. Thanks to Enhance, ETH can play an active role in that work.”
+
+One goal is to make it easier for students to study at partner universities. As a first step, existing members of the alliance have begun to open existing courses to partner universities. A catalogue lists courses that are open to a limited number of students from partner universities and which count toward their programmes of study. Enhance’s current educational offerings also include summer schools and language exchanges.
+
+Before Enhance’s programmes can be opened up to ETH students, the required financing must be secured. While Enhance is applying to the Erasmus+ programme for around 14 million euros to expand its offerings for the 2023-2026 period, ETH Zurich is applying to Movetia, the Swiss agency for exchange and mobility, for its portion. This is because Swiss universities remain excluded from Erasmus+ following failed attempts to negotiate a framework agreement. Decisions on both applications are expected by the summer of 2023, after which the first courses and activities will be offered.
+
+However, work to establish a basis for improved mobility and the exchange of expertise has already begun. For example, ETH is participating in a working group that is reviewing whether and how a decentralised digital system for course credit can be developed using verifiable credentials. It is also in conversation with partner institutions about the possibility of supplementary, compact “micro-credentials” on defined topics such as data literacy or sustainability. In turn, ETH will bring its experience with promoting interdisciplinary skills and problem-based teaching and learning to the alliance.
+

@@ -1,0 +1,384 @@
+{
+  "filename": "how-local-forces-deform-lipid-membranes.md",
+  "original_filename": "how-local-forces-deform-lipid-membranes.html",
+  "source_path": "en_news_events/2020/09/how-local-forces-deform-lipid-membranes.html",
+  "date": "2020-09",
+  "title": "How Local Forces Deform Lipid Membranes",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Microswimmers are key to biometic systems",
+      "text": "Spiny projections, long flagella or fibres, misshapen bulges: biological cells can form almost any complex membrane structure. These structures help the cells to perceive external stimuli, make contact with other cells, or actively explore their environment.\n\nIn order for such diverse shapes to come about, local forces are required to act on the outer lipid membrane from within. In cells, it is the job of components of the cytoskeleton (e.g. actin filaments, and microtubules) to exert such forces on the membrane that deformations occur. However, disease-causing bacteria that invade cells can also produce similar phenomena. Listeria , the pathogens that cause intestinal inflammation, are one known example. Deforming the membrane in this way would ultimately enable the bacteria to infect healthy neighbouring cells.\n\nResearchers have long been using large vesicles surrounded by a double lipid membrane to investigate such processes. In other words, a simple, manageable system that imitates biological cells. The mechanical response of such lipid membranes is fascinating, as at the same time it provides a stable shell regulating the interactions of a cell with the environment, but on the other hand, it is quite deformable. Interrogating the fascinating mechanical properties of such membranes is of both practical but also fundamental interest, especially from a materials science perspective. Until now, however, it has not been possible to exert controlled forces from the inside of such vesicles in a way that leads to the structures observed in natural cells."
+    },
+    {
+      "heading": "Microswimmers are key to biometic systems",
+      "text": "Now a group of researchers led by Jan Vermant, Professor of Soft Materials at ETH Zurich, has found a solution to this previously unsolved problem. They filled the vesicles with micrometre-sized particles that have the ability to move around independently within the vesicle. When these particles collide randomly with the membrane, they generate local forces that lead to the formation of tethers, antennae and other structures.\n\n“Not only have we succeeded in creating an artificial, greatly simplified system that imitates cells very well,” says Rao Vutukuri, a Marie Skłodowska-Curie fellow in Vermant’s group, “but, thanks to this approach, we’ve also been able to clarify the material physics and mechanics of membranes made of double lipid layers.” Their study was recently published in the journal Nature , with Vutukuri as the lead author.\n\nIn collaboration with researchers at the Forschungszentrum Jülich, Germany, the ETH researchers also combined their experiments with large-scale computer simulations to better understand the exact underlying mechanism for the observed large membrane deformations. In doing so, they were able to show how the self-propelled particles produce a variety of unusual shapes. The experimental observations and simulations matched up well."
+    },
+    {
+      "heading": "Local forces trigger a variety of shapes",
+      "text": "Both approaches show that the particles first collide with the membrane of the vesicles at random points – and in doing so trigger effects similar to those of Listeria in a real cell. The point where a particle hits the surface creates a local membrane curvature that attracts other particles. The membrane bulges more and more and soon form thorn-like projections or flagella.\n\nHowever, whether vesicles deform or not depends on the extent to which they are filled with particles. “Less is more in this case,” Vutukuri says. In fact, the more particles the vesicles contained, the less the membrane reacted to the point forces exerted by the particles. The most conducive conditions were when particles filled about 3 % of the vesicle, leading to the formation of the craziest membrane structures. Deformations of this kind can also regress. “The system is very dynamic,” Vutukuri says, ‘yet now the shape transitions can be predicted.\n\n“Even though our vesicles don’t fully represent the complexity of a real cell, the way a self-assembled structure such as a membrane reacts to large, localized deformations is fascinating. Its response to active forces is something that has been underestimated to date,” says ETH Professor Vermant. The ETH researchers believe that the study paves the way for the development of new artificial membrane systems, artificial cells or tiny robots made of soft materials.\n\nVutukuri HR, et al. Active particles induce large shape deformations in giant lipid vesicles. Nature, online publiziert 30.09.2020; doi: 10.1038/s41586-020-2730-x"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "cytoskeleton",
+        "label": "ORG",
+        "start": 426,
+        "end": 438
+      },
+      {
+        "text": "Listeria",
+        "label": "PERSON",
+        "start": 630,
+        "end": 638
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 695,
+        "end": 698
+      },
+      {
+        "text": "Jan Vermant",
+        "label": "ORG",
+        "start": 34,
+        "end": 45
+      },
+      {
+        "text": "Soft Materials",
+        "label": "ORG",
+        "start": 60,
+        "end": 74
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 78,
+        "end": 88
+      },
+      {
+        "text": "Rao Vutukuri",
+        "label": "PERSON",
+        "start": 548,
+        "end": 560
+      },
+      {
+        "text": "Marie Skłodowska-Curie",
+        "label": "PERSON",
+        "start": 564,
+        "end": 586
+      },
+      {
+        "text": "Vermant’s",
+        "label": "ORG",
+        "start": 597,
+        "end": 606
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 805,
+        "end": 811
+      },
+      {
+        "text": "Vutukuri",
+        "label": "GPE",
+        "start": 819,
+        "end": 827
+      },
+      {
+        "text": "the Forschungszentrum Jülich",
+        "label": "ORG",
+        "start": 885,
+        "end": 913
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 915,
+        "end": 922
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 928,
+        "end": 931
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 40,
+        "end": 45
+      },
+      {
+        "text": "Listeria",
+        "label": "PERSON",
+        "start": 159,
+        "end": 167
+      },
+      {
+        "text": "Vutukuri",
+        "label": "PERSON",
+        "start": 510,
+        "end": 518
+      },
+      {
+        "text": "about 3 %",
+        "label": "PERCENT",
+        "start": 710,
+        "end": 719
+      },
+      {
+        "text": "Vutukuri",
+        "label": "PERSON",
+        "start": 872,
+        "end": 880
+      },
+      {
+        "text": "ETH Professor Vermant",
+        "label": "ORG",
+        "start": 1212,
+        "end": 1233
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1239,
+        "end": 1242
+      },
+      {
+        "text": "Vutukuri HR",
+        "label": "WORK_OF_ART",
+        "start": 1404,
+        "end": 1415
+      },
+      {
+        "text": "30.09.2020",
+        "label": "CARDINAL",
+        "start": 1524,
+        "end": 1534
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1541,
+        "end": 1548
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Listeria",
+        "Marie Skłodowska-Curie",
+        "Rao Vutukuri",
+        "Vutukuri"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Professor Vermant",
+        "En News",
+        "Jan Vermant",
+        "Soft Materials",
+        "Vermant’s",
+        "cytoskeleton",
+        "the Forschungszentrum Jülich"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Germany",
+        "Vutukuri"
+      ],
+      "DATE": [],
+      "MISC": [
+        "10.1038",
+        "30.09.2020",
+        "Nature",
+        "Vutukuri HR",
+        "about 3 %",
+        "first",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "Vutukuri": 3,
+      "Listeria": 2,
+      "ETH": 2,
+      "En News": 1,
+      "cytoskeleton": 1,
+      "one": 1,
+      "Jan Vermant": 1,
+      "Soft Materials": 1,
+      "ETH Zurich": 1,
+      "Rao Vutukuri": 1,
+      "Marie Skłodowska-Curie": 1,
+      "Vermant’s": 1,
+      "Nature": 1,
+      "the Forschungszentrum Jülich": 1,
+      "Germany": 1,
+      "first": 1,
+      "about 3 %": 1,
+      "ETH Professor Vermant": 1,
+      "Vutukuri HR": 1,
+      "30.09.2020": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-local-forces-deform-lipid-membranes.md",
+      "title": "En News Events/2020/09/how Local Forces Deform Lipid Membranes",
+      "language": "en",
+      "source_path": "en_news_events/2020/09/how-local-forces-deform-lipid-membranes.html"
+    },
+    "temporal": {
+      "publication_date": "2020-09",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Listeria",
+        "Marie Skłodowska-Curie",
+        "Rao Vutukuri",
+        "Vutukuri"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "30.09.2020",
+        "Nature",
+        "Vutukuri HR",
+        "about 3 %",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Membranes Spiny",
+        "Deform Lipid",
+        "Local Forces",
+        "En News",
+        "Soft Materials",
+        "Vutukuri HR",
+        "Rao Vutukuri",
+        "Jan Vermant",
+        "ETH Professor",
+        "ETH Zurich",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Professor Vermant",
+        "En News",
+        "Jan Vermant",
+        "Soft Materials",
+        "Vermant’s",
+        "cytoskeleton",
+        "the Forschungszentrum Jülich"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Germany",
+        "Vutukuri"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Vutukuri",
+        "Listeria",
+        "ETH",
+        "En News",
+        "cytoskeleton",
+        "one",
+        "Jan Vermant",
+        "Soft Materials",
+        "ETH Zurich",
+        "Rao Vutukuri"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Microswimmers are key to biometic systems",
+          "Microswimmers are key to biometic systems",
+          "Local forces trigger a variety of shapes"
+        ],
+        "content_length": 4493
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "cytoskeleton",
+        "En News",
+        "the Forschungszentrum Jülich",
+        "Soft Materials",
+        "Rao Vutukuri",
+        "2020",
+        "Jan Vermant",
+        "Vutukuri",
+        "Marie Skłodowska-Curie",
+        "Listeria",
+        "ETH Professor Vermant",
+        "Vermant’s",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "Nature",
+        "who",
+        "Vutukuri HR",
+        "10.1038",
+        "about 3 %",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "30.09.2020",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "filename": "im-rueckblick-eth-research-data-management-summer-school-2019.md",
+  "original_filename": "im-rueckblick-eth-research-data-management-summer-school-2019.html",
+  "source_path": "en_internal/2019/06/im-rueckblick-eth-research-data-management-summer-school-2019.html",
+  "date": "2019-06",
+  "title": "Im Rueckblick Eth Research Data Management Summer School 2019",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The 29 participants from the ETH domain (mostly doctoral students plus a few postdocs) attended lectures and workshops covering a broad range of topics concerning research data management (RDM), led by specialists from ETH Library, ETH Scientific IT Services and ETH Zurich Corporate Communications. The invited guest speakers Prof. Detlef Günther (Vice President for Research and Corporate Relations), Prof. Ernst Hafen, Prof. Nicolas Gruber (chairing the Commission for Good Scientific Practice), Prof. Reto Knutti und Dr. Patrick Pedrioli completed the program by presenting their (also critical) views on diverse RDM topics. At the close of the summer school, the marketplace offered a last possibility for exchange between participants and experts from various departments, e.g. ETH transfer and EU GrantsAccess. Please find the complete program and additional information on our website. The course was organised and conducted by ETH Library in collaboration with ETH Scientific IT Services. Doctoral students could earn two ECTS credit points."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Rueckblick Eth Research Data Management Summer School",
+        "label": "ORG",
+        "start": 23,
+        "end": 76
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 219,
+        "end": 230
+      },
+      {
+        "text": "ETH Scientific IT Services",
+        "label": "ORG",
+        "start": 232,
+        "end": 258
+      },
+      {
+        "text": "ETH Zurich Corporate Communications",
+        "label": "ORG",
+        "start": 263,
+        "end": 298
+      },
+      {
+        "text": "Detlef Günther",
+        "label": "PERSON",
+        "start": 333,
+        "end": 347
+      },
+      {
+        "text": "Corporate Relations",
+        "label": "ORG",
+        "start": 381,
+        "end": 400
+      },
+      {
+        "text": "Ernst Hafen",
+        "label": "PERSON",
+        "start": 409,
+        "end": 420
+      },
+      {
+        "text": "Nicolas Gruber",
+        "label": "PERSON",
+        "start": 428,
+        "end": 442
+      },
+      {
+        "text": "Reto Knutti",
+        "label": "PERSON",
+        "start": 505,
+        "end": 516
+      },
+      {
+        "text": "Patrick Pedrioli",
+        "label": "PERSON",
+        "start": 525,
+        "end": 541
+      },
+      {
+        "text": "RDM",
+        "label": "ORG",
+        "start": 617,
+        "end": 620
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 649,
+        "end": 655
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 784,
+        "end": 787
+      },
+      {
+        "text": "EU GrantsAccess",
+        "label": "ORG",
+        "start": 801,
+        "end": 816
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 936,
+        "end": 947
+      },
+      {
+        "text": "ETH Scientific IT Services",
+        "label": "ORG",
+        "start": 970,
+        "end": 996
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1027,
+        "end": 1030
+      },
+      {
+        "text": "ECTS",
+        "label": "ORG",
+        "start": 1031,
+        "end": 1035
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Detlef Günther",
+        "Ernst Hafen",
+        "Nicolas Gruber",
+        "Patrick Pedrioli",
+        "Reto Knutti"
+      ],
+      "ORG": [
+        "Corporate Relations",
+        "ECTS",
+        "ETH",
+        "ETH Library",
+        "ETH Scientific IT Services",
+        "ETH Zurich Corporate Communications",
+        "EU GrantsAccess",
+        "RDM",
+        "Rueckblick Eth Research Data Management Summer School"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "summer"
+      ],
+      "MISC": [
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "ETH Library": 2,
+      "ETH Scientific IT Services": 2,
+      "Rueckblick Eth Research Data Management Summer School": 1,
+      "ETH Zurich Corporate Communications": 1,
+      "Detlef Günther": 1,
+      "Corporate Relations": 1,
+      "Ernst Hafen": 1,
+      "Nicolas Gruber": 1,
+      "Reto Knutti": 1,
+      "Patrick Pedrioli": 1,
+      "RDM": 1,
+      "summer": 1,
+      "EU GrantsAccess": 1,
+      "two": 1,
+      "ECTS": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "im-rueckblick-eth-research-data-management-summer-school-2019.md",
+      "title": "En Internal/2019/06/im Rueckblick Eth Research Data Management Summer School 2019",
+      "language": "en",
+      "source_path": "en_internal/2019/06/im-rueckblick-eth-research-data-management-summer-school-2019.html"
+    },
+    "temporal": {
+      "publication_date": "2019-06",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Detlef Günther",
+        "Ernst Hafen",
+        "Nicolas Gruber",
+        "Patrick Pedrioli",
+        "Reto Knutti"
+      ],
+      "people_with_roles": {
+        "Detlef Günther": [
+          "president"
+        ],
+        "Nicolas Gruber": [
+          "chair"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "chair",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU",
+        "grant"
+      ],
+      "projects": [
+        "Corporate Communications",
+        "Research Data",
+        "Vice President",
+        "ETH Library",
+        "Corporate Relations",
+        "IT Services",
+        "Rueckblick Eth",
+        "En Internal",
+        "ETH Scientific",
+        "ETH Zurich",
+        "Ernst Hafen",
+        "Reto Knutti",
+        "EU GrantsAccess",
+        "Nicolas Gruber",
+        "Management Summer",
+        "Patrick Pedrioli",
+        "Good Scientific"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Corporate Relations",
+        "ECTS",
+        "ETH",
+        "ETH Library",
+        "ETH Scientific IT Services",
+        "ETH Zurich Corporate Communications",
+        "EU GrantsAccess",
+        "RDM",
+        "Rueckblick Eth Research Data Management Summer School"
+      ],
+      "locations": [],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Library",
+        "ETH Scientific IT Services",
+        "Rueckblick Eth Research Data Management Summer School",
+        "ETH Zurich Corporate Communications",
+        "Detlef Günther",
+        "Corporate Relations",
+        "Ernst Hafen",
+        "Nicolas Gruber",
+        "Reto Knutti"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1132
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Detlef Günther",
+        "ETH Scientific IT Services",
+        "grant",
+        "ETH Zurich Corporate Communications",
+        "2019",
+        "Reto Knutti",
+        "EU",
+        "Corporate Relations",
+        "Ernst Hafen",
+        "ECTS",
+        "ETH Library",
+        "EU GrantsAccess",
+        "Rueckblick Eth Research Data Management Summer School",
+        "RDM",
+        "Nicolas Gruber",
+        "Patrick Pedrioli"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "where"
+      ],
+      "graph_relations": [
+        "Detlef Günther_has_role_president",
+        "Nicolas Gruber_has_role_chair",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

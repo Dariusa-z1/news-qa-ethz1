@@ -1,0 +1,306 @@
+{
+  "filename": "eth-forschende-ausgezeichnet.md",
+  "original_filename": "eth-forschende-ausgezeichnet.html",
+  "source_path": "de_news_events/2016/02/eth-forschende-ausgezeichnet.html",
+  "date": "2016-02",
+  "title": "Eth Forschende Ausgezeichnet",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH-Professorin Petra Dittrich entwickelt unter dem Schlüsselbegriff «Lab-on-a-Chip-Technologie» winzige Analysesysteme für die Biologie und die Chemie. In ihrem ERC-Projekt möchte sie diese Technologie weiterentwickeln, um darauf basierend einfach aufgebaute künstliche Zellen herzustellen mit ähnlichen Funktionalitäten wie lebende Zellen. In einem ersten Schritt wird es darum gehen, standardisierte Zellen mit einer festgelegten Zusammensetzung aus verschiedenen synthetischen Bestandteilen herzustellen. Sie werden der biologischen Forschung als Modellsysteme dienen, etwa um die Funktion der Zellmembran eingehend untersuchen zu können. Hybride Zellen aus natürlichen und synthetischen Bestandteilen, deren Entwicklung Dittrich im Rahmen des Projekts ebenfalls anstrebt, könnten dereinst in der Lab-on-Chip-Analytik als Biosensoren zum Einsatz kommen sowie zur Herstellung von Proteinen und anderen Biomolekülen.\n\nNachdem ETH-News im Dezember letzten Jahres kommuniziert hat, dass sieben ETH-Forscherinnen und -Forscher sich erfolgreich um einen ERC Starting Grant beworben haben, wurde nun bekannt, das noch ein weiterer Wissenschaftler der ETH Zürich in den Genuss von EU-Fördermitteln kommt: Martin Vechev erhält nachträglich einen ERC Starting Grant zugesprochen.\n\nMartin Vechev , Assistenzprofessor am Departement Informatik, entwickelt neue Methoden, die helfen, Software zuverlässiger, sicherer und effizienter zu machen. Weil Computerprogramme und die damit gelösten Aufgaben immer umfangreicher und komplexer werden, kommen die bisher dazu genutzten Methoden an ihre Grenzen. In seinem ERC-Projekt möchte Vechev diese Grenzen sprengen, indem er sich riesige, «Big Code» genannte Open-Source-Software-Datenbanken zunutze macht. Es geht darum, die darin enthaltene Information mit Methoden des maschinellen Lernens semantisch herauszufiltern und sie anschliessend statistisch auszuwerten. Die damit gewonnenen Erkenntnisse sollen helfen, neue Programmiermethoden zu entwickeln, allenfalls sogar solche, mit denen sich Teilbereiche des Programmierens automatisieren lassen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH-Professorin",
+        "label": "ORG",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Petra Dittrich",
+        "label": "PER",
+        "start": 16,
+        "end": 30
+      },
+      {
+        "text": "Dittrich",
+        "label": "PER",
+        "start": 725,
+        "end": 733
+      },
+      {
+        "text": "Lab-on-Chip-Analytik",
+        "label": "MISC",
+        "start": 801,
+        "end": 821
+      },
+      {
+        "text": "ETH-News",
+        "label": "PER",
+        "start": 927,
+        "end": 935
+      },
+      {
+        "text": "ETH-Forscherinnen",
+        "label": "MISC",
+        "start": 993,
+        "end": 1010
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1147,
+        "end": 1157
+      },
+      {
+        "text": "EU-Fördermitteln",
+        "label": "ORG",
+        "start": 1176,
+        "end": 1192
+      },
+      {
+        "text": "Martin Vechev",
+        "label": "PER",
+        "start": 1200,
+        "end": 1213
+      },
+      {
+        "text": "Martin Vechev",
+        "label": "PER",
+        "start": 1273,
+        "end": 1286
+      },
+      {
+        "text": "Computerprogramme",
+        "label": "PER",
+        "start": 1438,
+        "end": 1455
+      },
+      {
+        "text": "Vechev",
+        "label": "PER",
+        "start": 1618,
+        "end": 1624
+      },
+      {
+        "text": "Big Code",
+        "label": "MISC",
+        "start": 1673,
+        "end": 1681
+      },
+      {
+        "text": "Open-Source-Software-Datenbanken",
+        "label": "LOC",
+        "start": 1692,
+        "end": 1724
+      },
+      {
+        "text": "Programmiermethoden",
+        "label": "LOC",
+        "start": 1954,
+        "end": 1973
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Computerprogramme",
+        "Dittrich",
+        "ETH-News",
+        "Martin Vechev",
+        "Petra Dittrich",
+        "Vechev"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Professorin",
+        "EU-Fördermitteln"
+      ],
+      "LOCATION": [
+        "Open-Source-Software-Datenbanken",
+        "Programmiermethoden"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Big Code",
+        "ETH-Forscherinnen",
+        "Lab-on-Chip-Analytik"
+      ]
+    },
+    "entity_counts": {
+      "Martin Vechev": 2,
+      "ETH-Professorin": 1,
+      "Petra Dittrich": 1,
+      "Dittrich": 1,
+      "Lab-on-Chip-Analytik": 1,
+      "ETH-News": 1,
+      "ETH-Forscherinnen": 1,
+      "ETH Zürich": 1,
+      "EU-Fördermitteln": 1,
+      "Computerprogramme": 1,
+      "Vechev": 1,
+      "Big Code": 1,
+      "Open-Source-Software-Datenbanken": 1,
+      "Programmiermethoden": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-forschende-ausgezeichnet.md",
+      "title": "De News Events/2016/02/eth Forschende Ausgezeichnet",
+      "language": "de",
+      "source_path": "de_news_events/2016/02/eth-forschende-ausgezeichnet.html"
+    },
+    "temporal": {
+      "publication_date": "2016-02",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Computerprogramme",
+        "Dittrich",
+        "ETH-News",
+        "Martin Vechev",
+        "Petra Dittrich",
+        "Vechev"
+      ],
+      "people_with_roles": {
+        "Dittrich": [
+          "professor"
+        ],
+        "Martin Vechev": [
+          "professor"
+        ],
+        "Petra Dittrich": [
+          "professor"
+        ],
+        "Vechev": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "Big Code",
+        "ETH-Forscherinnen",
+        "Lab-on-Chip-Analytik"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "grant"
+      ],
+      "projects": [
+        "Petra Dittrich",
+        "Entwicklung Dittrich",
+        "Martin Vechev",
+        "Chip-Technologie",
+        "Departement Informatik",
+        "Software-Datenbanken",
+        "ERC Starting",
+        "ERC-Projekt",
+        "Big Code",
+        "Open-Source",
+        "Nachdem ETH",
+        "Weil Computerprogramme",
+        "De News",
+        "Chip-Analytik",
+        "ETH-Forscherinnen",
+        "ETH-Professorin",
+        "Forschende Ausgezeichnet",
+        "Hybride Zellen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Professorin",
+        "EU-Fördermitteln"
+      ],
+      "locations": [
+        "Open-Source-Software-Datenbanken",
+        "Programmiermethoden"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Martin Vechev",
+        "ETH-Professorin",
+        "Petra Dittrich",
+        "Dittrich",
+        "Lab-on-Chip-Analytik",
+        "ETH-News",
+        "ETH-Forscherinnen",
+        "ETH Zürich",
+        "EU-Fördermitteln",
+        "Computerprogramme"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2137
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Petra Dittrich",
+        "Computerprogramme",
+        "Martin Vechev",
+        "ETH-Professorin",
+        "grant",
+        "ETH-News",
+        "EU",
+        "2016",
+        "ETH Zürich",
+        "Dittrich",
+        "Vechev",
+        "ERC",
+        "EU-Fördermitteln"
+      ],
+      "semantic_concepts": [
+        "who",
+        "ETH-Forscherinnen",
+        "Big Code",
+        "what",
+        "Lab-on-Chip-Analytik",
+        "how",
+        "computer_science",
+        "when"
+      ],
+      "graph_relations": [
+        "Dittrich_has_role_professor",
+        "Martin Vechev_has_role_professor",
+        "Petra Dittrich_has_role_professor",
+        "Vechev_has_role_professor",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

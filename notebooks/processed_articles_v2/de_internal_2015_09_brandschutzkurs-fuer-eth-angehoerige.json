@@ -1,0 +1,234 @@
+{
+  "filename": "de_internal_2015_09_brandschutzkurs-fuer-eth-angehoerige.md",
+  "original_filename": "de_internal_2015_09_brandschutzkurs-fuer-eth-angehoerige.html",
+  "source_path": "de_internal/2015/09/brandschutzkurs-fuer-eth-angehoerige.html",
+  "date": "2015-09",
+  "title": "Brandschutzkurs Fuer Eth Angehoerige",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der Stab Sicherheit, Gesundheit und Umwelt (SGU) führt im Herbst seine Ausbildungskurse zum Thema Brandschutz durch. Den Teilnehmenden wird im theoretischen Teil vermittelt, wie Brände verhindert werden können. Im praktischen Teil wird das korrekte Verhalten im Brandfall geschult und geübt. Jeder Kursteilnehmer hat Gelegenheit unter fachkundiger Anleitung ein Feuer mit einem Handfeuerlöscher und einer Löschdecke zu bekämpfen.\n\nAlle interessierten ETH-Angehörigen können den Kurs kostenlos besuchen. Für Bachelor-Studierende aus bestimmten Studiengängen ist der Kursbesuch im ersten Semester obligatorisch. Diese werden per E-Mail darüber informiert.\n\nDie etwas mehr als eine Stunde dauernden Kurse werden bis und mit 16. Oktober 2015 durchgeführt.». Die Teilnehmenden können mit den öffentlichen Verkehrsmitteln bis zur Haltestelle «ETH Hönggerberg» fahren. Das Kursgelände ist von dort aus zu Fuss in 10 Minuten erreichbar. Direkt beim Kursgelände sind keine Parkplätze vorhanden.\n\nDer Kurs findet im Freien und bei jeder Witterung statt. Deshalb sind robuste Schuhe und wetterfeste Kleidung unbedingt erforderlich.\n\nInteressierte melden sich bitte elektronisch unter www.sicherheit.ethz.ch an, unter der Rubrik «Aus- und Weiterbildung/Brandschutzkurs».\n\nFür weitere Auskünfte steht Ihnen Mareike Ramforth unter der Nummer 044 632 80 02 zur Verfügung."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/09/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Fuer",
+        "label": "LOC",
+        "start": 36,
+        "end": 40
+      },
+      {
+        "text": "SGU",
+        "label": "ORG",
+        "start": 44,
+        "end": 47
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "MISC",
+        "start": 450,
+        "end": 465
+      },
+      {
+        "text": "Kurs",
+        "label": "LOC",
+        "start": 477,
+        "end": 481
+      },
+      {
+        "text": "Bachelor-Studierende",
+        "label": "PER",
+        "start": 506,
+        "end": 526
+      },
+      {
+        "text": "Kursbesuch",
+        "label": "MISC",
+        "start": 564,
+        "end": 574
+      },
+      {
+        "text": "ETH Hönggerberg",
+        "label": "ORG",
+        "start": 835,
+        "end": 850
+      },
+      {
+        "text": "Kurs",
+        "label": "LOC",
+        "start": 988,
+        "end": 992
+      },
+      {
+        "text": "bitte",
+        "label": "PER",
+        "start": 1144,
+        "end": 1149
+      },
+      {
+        "text": "www.sicherheit.ethz.ch",
+        "label": "PER",
+        "start": 1169,
+        "end": 1191
+      },
+      {
+        "text": "Mareike Ramforth",
+        "label": "PER",
+        "start": 1289,
+        "end": 1305
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bachelor-Studierende",
+        "Mareike Ramforth",
+        "bitte",
+        "www.sicherheit.ethz.ch"
+      ],
+      "ORG": [
+        "ETH Hönggerberg",
+        "SGU"
+      ],
+      "LOCATION": [
+        "De Internal/2015/09/",
+        "Fuer",
+        "Kurs"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörigen",
+        "Kursbesuch"
+      ]
+    },
+    "entity_counts": {
+      "Kurs": 2,
+      "De Internal/2015/09/": 1,
+      "Fuer": 1,
+      "SGU": 1,
+      "ETH-Angehörigen": 1,
+      "Bachelor-Studierende": 1,
+      "Kursbesuch": 1,
+      "ETH Hönggerberg": 1,
+      "bitte": 1,
+      "www.sicherheit.ethz.ch": 1,
+      "Mareike Ramforth": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2015_09_brandschutzkurs-fuer-eth-angehoerige.md",
+      "title": "De Internal/2015/09/brandschutzkurs Fuer Eth Angehoerige",
+      "language": "de",
+      "source_path": "de_internal/2015/09/brandschutzkurs-fuer-eth-angehoerige.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bachelor-Studierende",
+        "Mareike Ramforth",
+        "bitte",
+        "www.sicherheit.ethz.ch"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Angehörigen",
+        "Kursbesuch"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Den Teilnehmenden",
+        "Bachelor-Studierende",
+        "E-Mail",
+        "Ihnen Mareike",
+        "Thema Brandschutz",
+        "Angehoerige Der",
+        "De Internal",
+        "Der Kurs",
+        "Jeder Kursteilnehmer",
+        "Fuer Eth",
+        "Stab Sicherheit",
+        "Die Teilnehmenden"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Hönggerberg",
+        "SGU"
+      ],
+      "locations": [
+        "De Internal/2015/09/",
+        "Fuer",
+        "Kurs"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Kurs",
+        "De Internal/2015/09/",
+        "Fuer",
+        "SGU",
+        "ETH-Angehörigen",
+        "Bachelor-Studierende",
+        "Kursbesuch",
+        "ETH Hönggerberg",
+        "bitte",
+        "www.sicherheit.ethz.ch"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1413
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "bitte",
+        "Mareike Ramforth",
+        "2015",
+        "www.sicherheit.ethz.ch",
+        "Bachelor-Studierende",
+        "ETH Hönggerberg",
+        "EU",
+        "SGU"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Kursbesuch",
+        "ETH-Angehörigen"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

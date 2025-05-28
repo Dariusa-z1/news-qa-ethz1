@@ -1,0 +1,234 @@
+{
+  "filename": "a-sign-of-progress-on-the-student-project-house.md",
+  "original_filename": "a-sign-of-progress-on-the-student-project-house.html",
+  "source_path": "en_internal/2016/06/a-sign-of-progress-on-the-student-project-house.html",
+  "date": "2016-06",
+  "title": "A Sign Of Progress On The Student Project House",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "A six-metre-wide sign will be erected at the corner of Tannenstrasse/Clausiusstrasse at the site where the Student Project House will be created within the former district heating power plant. Construction is expected to be complete by the end of 2019. This space will allow students to work independently and in interdisciplinary groups on their own projects during their studies. By creating an environment that invites its users to exchange ideas and experiment, ETH Zurich is providing students with a space for innovation, where they can develop and implement creative ideas.\n\nThe main access to the space will be via a new entrance on Clausiusstrasse. Like the other existing building components, the entrance via the central machinery hall on level D will remain. The machinery hall will regain its historic glass ceiling, and this area will bring together the independent components of the ML and FHK buildings and serve as a meeting place.\n\nThe renovation of the FHK building is scheduled to start in 2017. The first building work will begin in autumn 2016. An installation platform will be built over Clausiusstrasse to enable site setup and temporary construction work."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "six-metre",
+        "label": "QUANTITY",
+        "start": 2,
+        "end": 11
+      },
+      {
+        "text": "Tannenstrasse/Clausiusstrasse",
+        "label": "ORG",
+        "start": 55,
+        "end": 84
+      },
+      {
+        "text": "the Student Project House",
+        "label": "ORG",
+        "start": 103,
+        "end": 128
+      },
+      {
+        "text": "the end of 2019",
+        "label": "DATE",
+        "start": 236,
+        "end": 251
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 466,
+        "end": 476
+      },
+      {
+        "text": "Clausiusstrasse",
+        "label": "GPE",
+        "start": 640,
+        "end": 655
+      },
+      {
+        "text": "ML",
+        "label": "ORG",
+        "start": 897,
+        "end": 899
+      },
+      {
+        "text": "FHK",
+        "label": "ORG",
+        "start": 970,
+        "end": 973
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1018,
+        "end": 1023
+      },
+      {
+        "text": "autumn 2016",
+        "label": "DATE",
+        "start": 1052,
+        "end": 1063
+      },
+      {
+        "text": "Clausiusstrasse",
+        "label": "GPE",
+        "start": 1109,
+        "end": 1124
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "FHK",
+        "ML",
+        "Tannenstrasse/Clausiusstrasse",
+        "the Student Project House"
+      ],
+      "LOCATION": [
+        "Clausiusstrasse"
+      ],
+      "DATE": [
+        "autumn 2016",
+        "the end of 2019"
+      ],
+      "MISC": [
+        "first",
+        "six-metre"
+      ]
+    },
+    "entity_counts": {
+      "Clausiusstrasse": 2,
+      "six-metre": 1,
+      "Tannenstrasse/Clausiusstrasse": 1,
+      "the Student Project House": 1,
+      "the end of 2019": 1,
+      "ETH Zurich": 1,
+      "ML": 1,
+      "FHK": 1,
+      "first": 1,
+      "autumn 2016": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-sign-of-progress-on-the-student-project-house.md",
+      "title": "En Internal/2016/06/a Sign Of Progress On The Student Project House",
+      "language": "en",
+      "source_path": "en_internal/2016/06/a-sign-of-progress-on-the-student-project-house.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2016",
+        "2017",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "first",
+        "six-metre"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Project House",
+        "Sign Of",
+        "Progress On",
+        "En Internal",
+        "ETH Zurich",
+        "The Student",
+        "Student Project"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "FHK",
+        "ML",
+        "Tannenstrasse/Clausiusstrasse",
+        "the Student Project House"
+      ],
+      "locations": [
+        "Clausiusstrasse"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "Clausiusstrasse",
+        "six-metre",
+        "Tannenstrasse/Clausiusstrasse",
+        "the Student Project House",
+        "the end of 2019",
+        "ETH Zurich",
+        "ML",
+        "FHK",
+        "first",
+        "autumn 2016"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1248
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2017",
+        "2019",
+        "FHK",
+        "2016",
+        "the Student Project House",
+        "ETH Zurich",
+        "Tannenstrasse/Clausiusstrasse",
+        "ML"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "where",
+        "what",
+        "six-metre",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

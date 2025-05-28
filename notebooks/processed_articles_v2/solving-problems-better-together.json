@@ -1,0 +1,144 @@
+{
+  "filename": "solving-problems-better-together.md",
+  "original_filename": "solving-problems-better-together.html",
+  "source_path": "en_news_events/2022/09/solving-problems-better-together.html",
+  "date": "2022-09",
+  "title": "Solving Problems Better Together",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH Week is a course that aims to foster collaboration, the adoption of an independent and critical mindset as well as the development of a sense of responsibility. Using the Design Thinking method, the students spent the week developing solutions and prototypes in interdisciplinary teams. In the video, they share their experience."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Problems Better Together",
+        "label": "ORG",
+        "start": 31,
+        "end": 55
+      },
+      {
+        "text": "ETH Week",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "the week",
+        "label": "DATE",
+        "start": 218,
+        "end": 226
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Week",
+        "En News",
+        "Problems Better Together"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "the week"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "En News": 1,
+      "Problems Better Together": 1,
+      "ETH Week": 1,
+      "the week": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "solving-problems-better-together.md",
+      "title": "En News Events/2022/09/solving Problems Better Together",
+      "language": "en",
+      "source_path": "en_news_events/2022/09/solving-problems-better-together.html"
+    },
+    "temporal": {
+      "publication_date": "2022-09",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Together ETH",
+        "Design Thinking",
+        "Problems Better",
+        "En News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Week",
+        "En News",
+        "Problems Better Together"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "En News",
+        "Problems Better Together",
+        "ETH Week",
+        "the week"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 389
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2022",
+        "ETH Week",
+        "Problems Better Together",
+        "En News"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "how"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

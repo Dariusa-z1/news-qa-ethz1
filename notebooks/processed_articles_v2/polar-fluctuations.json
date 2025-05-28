@@ -1,0 +1,559 @@
+{
+  "filename": "polar-fluctuations.md",
+  "original_filename": "polar-fluctuations.html",
+  "source_path": "de_news_events/2018/08/polar-fluctuations.html",
+  "date": "2018-08",
+  "title": "Polar Fluctuations",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Mars-Rover fährt mit Bleitellurid",
+      "text": "Manchmal erscheinen wissenschaftliche Fragestellungen für Aussenstehende als Haarspalterei. Doch oft sind sie entscheidend, so etwa in den Materialwissenschaften: Der kommerzielle Einsatz eines Materials fällt oder steht mit seinen Eigenschaften. Ein Beispiel einer nach Haarspalterei anmutenden Fragestellung mit Folgen ist jene, der Boris Sangiorgio in seiner Doktorarbeit nachging. In der Forschungsgruppe der ETH-Professorin Nicola Spaldin am Institut für Materialtheorie untersuchte der Tessiner mit Hilfe des Supercomputers „Piz Daint“, wie sich Bleitellurid (PbTe) verhält, wenn es sich erwärmt. Bleitellurid kommt in der Natur als Altait vor, ein Mineral der Sulfosalze. Dieses Mineral kann Wärmeenergie in elektrische Energie umwandeln, hat also thermoelektrische Eigenschaften."
+    },
+    {
+      "heading": "Mars-Rover fährt mit Bleitellurid",
+      "text": "Thermoelektrika wurden in den 1960er-Jahren in der Raumfahrt populär. Und ihre Popularität ist bis heute ungebrochen, denn so versorgt beispielsweise ein thermoelektrischer Generator aus Bleitellurid seit 2012 den Mars-Rover Curiosity mit Energie.\n\nVor rund sieben Jahren entfachte jedoch eine Studie über Bleitellurid unter Materialforschenden einen Disput. Damals kamen Forscher zum Schluss, dass bei erhitztem Bleitellurid das Phänomen der sogenannten Emphanisis eintritt. Vereinfacht beschrieben, verschieben sich durch die Erwärmung im Kristall lokal die Bleiatome, sodass die lokale Symmetrie des Kristalls vermindert wird. Bis anhin kannte man nur den gegenteiligen Prozess, dass beim Erhitzen die Symmetrie grösser wird.\n\nDie Emphanisis war bis heute kaum verstanden. Nun untersuchte das Team von Spaldin dieses Phänomen für Bleitellurid im Supercomputer. Die Simulationen zeigen, dass die Symmetrie beim Erwärmen des Minerals zwar lokal gebrochen wird. Über den gesamten Kristall betrachtet bleibt die ursprüngliche kubische Symmetrie hingegen erhalten.\n\nFür reale Experimente mit dem Mineral nutzten die Wissenschaftler in Zusammenarbeit mit Forschern der X-Ray Service Platform des Departements für Materialwissenschaft der ETH Zürich ein Röntgen-Streuungsverfahren, das die atomare Kristallstruktur hochpräzise sichtbar macht. Die Resultate aus diesen Versuchen stimmten mit denjenigen der Simulation sehr gut überein, was die Simulationsergebnisse bestätigt. Dadurch konnten die Forscher in den Simulationen ein Stück weitergehen als im Experiment, und herausfinden, was hinter der Emphanisis in Bleitellurid steckt."
+    },
+    {
+      "heading": "Neues Phänomen",
+      "text": "Die Simulationen zeigen nämlich, dass es durch die Erwärmung im Kristall zu starken akustischen und schwachen optischen Schwingungen kommt. Diese überlagern sich und sind aneinandergekoppelt. Das erzeugt ein nie zuvor beobachtetes Phänomen: Aufgrund der gekoppelten Schwingungen ordnen sich im Kristall korreliert Dipole an. Diese bestehen aus Paaren von fluktuierenden Blei- und Telluratomen, die sich beide entsprechend ihrer Ladung ausrichten.\n\n«Als Ganzes betrachtet befinden sich die Atome aber nach wie vor auf den hochsymmetrischen Positionen», sagt Sangiorgio. Die globale Symmetrie bleibt daher erhalten. Die Forscher vermuten, dass dieser Prozess essentiell für das thermoelektrische Verhalten von Bleitellurid ist. Zudem könnte dies auch bei anderen Materialien (sogenannten Ferroelektrika), die sich wie Bleitellurid nahe an einem ferroelektrischen Phasenübergang befinden, zutreffend sein."
+    },
+    {
+      "heading": "Vielseitiger Einsatz von Thermoelektrika",
+      "text": "«Die Funktionalität von Bleitellurid beruht vermutlich auf einem empfindlichen Gleichgewicht zwischen elektrischen und strukturellen Eigenschaften», sagt Sangiorgio. Die lokale Struktur und Dynamik von Bleitellurid zu verstehen, ist für die Wissenschaftler essentiell, um das Verhalten des Materials zu erklären. Diese Erkenntnisse helfen ihnen, künftig effizientere thermoelektrische Materialien herzustellen oder zu finden. Denn die Forschung interessiert nicht nur in der Raumfahrt für thermoelektrische Materialien, sondern auch um etwa die Abwärme von Müllverbrennungsanlagen oder Autos möglichst effizient zur Stromgewinnung nutzen zu können.\n\nDieser Text erschien zuerst auf der Website des externe Seite CSCS .\n\nSangiorgio B, Bozin ES, Malliakas CD, Fechner M, Simonov A, Kanatzidis MG, Billinge SJL, Spaldin NA, Weber T. Correlated local dipoles in PbTe. Phys. Rev. Materials 2, 085402, published 6 August 2018. DOI: externe Seite 10.1103/PhysRevMaterials.2.085402"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Boris Sangiorgio",
+        "label": "PER",
+        "start": 335,
+        "end": 351
+      },
+      {
+        "text": "ETH-Professorin",
+        "label": "ORG",
+        "start": 413,
+        "end": 428
+      },
+      {
+        "text": "Nicola Spaldin",
+        "label": "PER",
+        "start": 429,
+        "end": 443
+      },
+      {
+        "text": "Institut für Materialtheorie",
+        "label": "ORG",
+        "start": 447,
+        "end": 475
+      },
+      {
+        "text": "Tessiner",
+        "label": "LOC",
+        "start": 492,
+        "end": 500
+      },
+      {
+        "text": "Piz Daint",
+        "label": "LOC",
+        "start": 531,
+        "end": 540
+      },
+      {
+        "text": "Bleitellurid",
+        "label": "ORG",
+        "start": 552,
+        "end": 564
+      },
+      {
+        "text": "PbTe",
+        "label": "ORG",
+        "start": 566,
+        "end": 570
+      },
+      {
+        "text": "Bleitellurid",
+        "label": "LOC",
+        "start": 603,
+        "end": 615
+      },
+      {
+        "text": "Altait",
+        "label": "LOC",
+        "start": 639,
+        "end": 645
+      },
+      {
+        "text": "Sulfosalze",
+        "label": "LOC",
+        "start": 667,
+        "end": 677
+      },
+      {
+        "text": "Bleitellurid",
+        "label": "LOC",
+        "start": 187,
+        "end": 199
+      },
+      {
+        "text": "Mars-Rover Curiosity",
+        "label": "ORG",
+        "start": 214,
+        "end": 234
+      },
+      {
+        "text": "Bleitellurid",
+        "label": "LOC",
+        "start": 305,
+        "end": 317
+      },
+      {
+        "text": "Materialforschenden",
+        "label": "PER",
+        "start": 324,
+        "end": 343
+      },
+      {
+        "text": "Bleitellurid",
+        "label": "LOC",
+        "start": 412,
+        "end": 424
+      },
+      {
+        "text": "Spaldin",
+        "label": "PER",
+        "start": 803,
+        "end": 810
+      },
+      {
+        "text": "Bleitellurid",
+        "label": "LOC",
+        "start": 831,
+        "end": 843
+      },
+      {
+        "text": "Minerals",
+        "label": "LOC",
+        "start": 924,
+        "end": 932
+      },
+      {
+        "text": "X-Ray Service Platform",
+        "label": "MISC",
+        "start": 1163,
+        "end": 1185
+      },
+      {
+        "text": "Departements",
+        "label": "LOC",
+        "start": 1190,
+        "end": 1202
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1232,
+        "end": 1242
+      },
+      {
+        "text": "Bleitellurid",
+        "label": "LOC",
+        "start": 1606,
+        "end": 1618
+      },
+      {
+        "text": "Ganzes",
+        "label": "PER",
+        "start": 452,
+        "end": 458
+      },
+      {
+        "text": "Sangiorgio",
+        "label": "PER",
+        "start": 556,
+        "end": 566
+      },
+      {
+        "text": "Bleitellurid",
+        "label": "LOC",
+        "start": 707,
+        "end": 719
+      },
+      {
+        "text": "Bleitellurid",
+        "label": "LOC",
+        "start": 815,
+        "end": 827
+      },
+      {
+        "text": "Bleitellurid",
+        "label": "LOC",
+        "start": 24,
+        "end": 36
+      },
+      {
+        "text": "Sangiorgio",
+        "label": "PER",
+        "start": 154,
+        "end": 164
+      },
+      {
+        "text": "Bleitellurid",
+        "label": "LOC",
+        "start": 202,
+        "end": 214
+      },
+      {
+        "text": "CSCS",
+        "label": "PER",
+        "start": 711,
+        "end": 715
+      },
+      {
+        "text": "Sangiorgio B",
+        "label": "MISC",
+        "start": 718,
+        "end": 730
+      },
+      {
+        "text": "Bozin ES",
+        "label": "PER",
+        "start": 732,
+        "end": 740
+      },
+      {
+        "text": "Malliakas CD",
+        "label": "PER",
+        "start": 742,
+        "end": 754
+      },
+      {
+        "text": "Fechner M",
+        "label": "MISC",
+        "start": 756,
+        "end": 765
+      },
+      {
+        "text": "Simonov A",
+        "label": "ORG",
+        "start": 767,
+        "end": 776
+      },
+      {
+        "text": "Kanatzidis MG",
+        "label": "ORG",
+        "start": 778,
+        "end": 791
+      },
+      {
+        "text": "SJL",
+        "label": "ORG",
+        "start": 802,
+        "end": 805
+      },
+      {
+        "text": "Spaldin NA",
+        "label": "ORG",
+        "start": 807,
+        "end": 817
+      },
+      {
+        "text": "PbTe",
+        "label": "LOC",
+        "start": 856,
+        "end": 860
+      },
+      {
+        "text": "Phys",
+        "label": "LOC",
+        "start": 862,
+        "end": 866
+      },
+      {
+        "text": "Rev",
+        "label": "PER",
+        "start": 868,
+        "end": 871
+      },
+      {
+        "text": "DOI",
+        "label": "ORG",
+        "start": 919,
+        "end": 922
+      },
+      {
+        "text": "PhysRevMaterials.2.085402",
+        "label": "PER",
+        "start": 946,
+        "end": 971
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Boris Sangiorgio",
+        "Bozin ES",
+        "CSCS",
+        "De News",
+        "Ganzes",
+        "Malliakas CD",
+        "Materialforschenden",
+        "Nicola Spaldin",
+        "PhysRevMaterials.2.085402",
+        "Rev",
+        "Sangiorgio",
+        "Spaldin"
+      ],
+      "ORG": [
+        "Bleitellurid",
+        "DOI",
+        "ETH Zürich",
+        "ETH-Professorin",
+        "Institut für Materialtheorie",
+        "Kanatzidis MG",
+        "Mars-Rover Curiosity",
+        "PbTe",
+        "SJL",
+        "Simonov A",
+        "Spaldin NA"
+      ],
+      "LOCATION": [
+        "Altait",
+        "Bleitellurid",
+        "Departements",
+        "Minerals",
+        "PbTe",
+        "Phys",
+        "Piz Daint",
+        "Sulfosalze",
+        "Tessiner"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Fechner M",
+        "Sangiorgio B",
+        "X-Ray Service Platform"
+      ]
+    },
+    "entity_counts": {
+      "Bleitellurid": 11,
+      "PbTe": 2,
+      "Sangiorgio": 2,
+      "De News": 1,
+      "Boris Sangiorgio": 1,
+      "ETH-Professorin": 1,
+      "Nicola Spaldin": 1,
+      "Institut für Materialtheorie": 1,
+      "Tessiner": 1,
+      "Piz Daint": 1,
+      "Altait": 1,
+      "Sulfosalze": 1,
+      "Mars-Rover Curiosity": 1,
+      "Materialforschenden": 1,
+      "Spaldin": 1,
+      "Minerals": 1,
+      "X-Ray Service Platform": 1,
+      "Departements": 1,
+      "ETH Zürich": 1,
+      "Ganzes": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 33
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "polar-fluctuations.md",
+      "title": "De News Events/2018/08/polar Fluctuations",
+      "language": "de",
+      "source_path": "de_news_events/2018/08/polar-fluctuations.html"
+    },
+    "temporal": {
+      "publication_date": "2018-08",
+      "mentioned_years": [
+        "2012",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Boris Sangiorgio",
+        "Bozin ES",
+        "CSCS",
+        "De News",
+        "Ganzes",
+        "Malliakas CD",
+        "Materialforschenden",
+        "Nicola Spaldin",
+        "PhysRevMaterials.2.085402",
+        "Rev",
+        "Sangiorgio",
+        "Spaldin"
+      ],
+      "people_with_roles": {
+        "Nicola Spaldin": [
+          "professor"
+        ],
+        "Spaldin": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Fechner M",
+        "Sangiorgio B",
+        "X-Ray Service Platform"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Malliakas CD",
+        "Piz Daint",
+        "Mars-Rover",
+        "Bozin ES",
+        "Die Simulationen",
+        "Service Platform",
+        "Die Resultate",
+        "Billinge SJL",
+        "Dieser Text",
+        "ETH-Professorin",
+        "Nicola Spaldin",
+        "Dieses Mineral",
+        "Weber T",
+        "Simonov A",
+        "Seite CSCS",
+        "Spaldin NA",
+        "Fluctuations Manchmal",
+        "Ein Beispiel",
+        "Die Forscher",
+        "Diese Erkenntnisse",
+        "Fechner M",
+        "X-Ray",
+        "Kanatzidis MG",
+        "Die Emphanisis",
+        "Sangiorgio B",
+        "De News",
+        "Boris Sangiorgio",
+        "Als Ganzes"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bleitellurid",
+        "DOI",
+        "ETH Zürich",
+        "ETH-Professorin",
+        "Institut für Materialtheorie",
+        "Kanatzidis MG",
+        "Mars-Rover Curiosity",
+        "PbTe",
+        "SJL",
+        "Simonov A",
+        "Spaldin NA"
+      ],
+      "locations": [
+        "Altait",
+        "Bleitellurid",
+        "Departements",
+        "Minerals",
+        "PbTe",
+        "Phys",
+        "Piz Daint",
+        "Sulfosalze",
+        "Tessiner"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Bleitellurid",
+        "PbTe",
+        "Sangiorgio",
+        "De News",
+        "Boris Sangiorgio",
+        "ETH-Professorin",
+        "Nicola Spaldin",
+        "Institut für Materialtheorie",
+        "Tessiner",
+        "Piz Daint"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Mars-Rover fährt mit Bleitellurid",
+          "Mars-Rover fährt mit Bleitellurid",
+          "Neues Phänomen",
+          "Vielseitiger Einsatz von Thermoelektrika"
+        ],
+        "content_length": 4336
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "PhysRevMaterials.2.085402",
+        "DOI",
+        "Institut für Materialtheorie",
+        "Malliakas CD",
+        "Bozin ES",
+        "Mars-Rover Curiosity",
+        "ERC",
+        "Sangiorgio",
+        "2018",
+        "ETH Zürich",
+        "SJL",
+        "Ganzes",
+        "ETH-Professorin",
+        "Nicola Spaldin",
+        "Spaldin",
+        "EU",
+        "Rev",
+        "2012",
+        "Materialforschenden",
+        "Simonov A",
+        "Spaldin NA",
+        "CSCS",
+        "Kanatzidis MG",
+        "PbTe",
+        "De News",
+        "Bleitellurid",
+        "Boris Sangiorgio"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Fechner M",
+        "who",
+        "Sangiorgio B",
+        "X-Ray Service Platform",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Nicola Spaldin_has_role_professor",
+        "Spaldin_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

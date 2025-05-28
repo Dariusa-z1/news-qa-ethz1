@@ -1,0 +1,840 @@
+{
+  "filename": "neuronales-netzwerk-kann-baumhoehen-von-satellitenbildern-ablesen.md",
+  "original_filename": "neuronales-netzwerk-kann-baumhoehen-von-satellitenbildern-ablesen.html",
+  "source_path": "de_news_events/2022/04/neuronales-netzwerk-kann-baumhoehen-von-satellitenbildern-ablesen.html",
+  "date": "2022-04",
+  "title": "Neuronales Netzwerk Kann Baumhoehen Von Satellitenbildern Ablesen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Trainiert mit Laserscanning-Daten aus dem Weltraum",
+      "text": "Seit letztem Jahr befinden wir uns in der UN-Dekade für die Wiederherstellung von Ökosystemen (engl. «UN Decade on Ecosystem Restoration»). Die Initiative hat sich zum Ziel gesetzt, bis 2030 die Degradation der Ökosysteme aufzuhalten, ihr vorzubeugen und bereits entstandene Schäden, wenn möglich zu beheben. Für solche Vorhaben benötigen die Akteure präzise Grundlagen wie zum Beispiel Vermessungen und Karten des Bestands. Ralph Dubayah, Leiter der «Global Ecosystem Dynamics Investigation (GEDI)»-Mission der NASA erklärt in einem Interview: «Wir wissen schlicht nicht, wie hoch die Bäume weltweit sind. [...] Wir brauchen globale Karten davon, denn wenn wir Bäume fällen, setzen wir CO 2 in die Atmosphäre frei, und wir wissen nicht, um wie viel es sich handelt.»\n\nAuf die Analyse und Aufbereitung ebensolcher Umweltdaten spezialisiert ist das EcoVision Lab am ETH-Departement für Bau, Umwelt und Geomatik, das 2017 von ETH-Professor Konrad Schindler und UZH-Professor Jan Dirk Wegner gegründet wurde. Im Lab entwickeln die Forscher Machine-Learning-Algorithmen, die es ermöglichen, grossflächige Umweltdaten automatisch zu analysieren. Einer dieser Forscher ist Nico Lang. In seiner Doktorarbeit hat er einen Ansatz – basierend auf neuronalen Netzwerken – entwickelt, um aus optischen Satellitenbildern die Vegetationshöhe ableiten zu können. Daraus konnte er die erste Vegetationshöhen-Karte erstellen, welche die gesamte Erde abdeckt (engl. « externe Seite Global Canopy Height Map »).\n\nEin Novum ist zudem die hohe Auflösung der Karte: Dank Langs Arbeit können Nutzer:innen bis zu 10x10 Meter an jedes Waldstück der Erde heranzoomen, um die Baumhöhe abzulesen. Eine solche Vermessung der Wälder könnte in Zukunft insbesondere im Umgang mit dem CO 2 -Ausstoss wegweisend sein, denn die Baumhöhe ist ein wichtiger Indikator für die Biomasse und die Menge an gespeichertem Kohlenstoff. «Etwa 95 Prozent der Biomasse im Wald sind im Holz und nicht in den Blättern. Daher hängt die Biomasse stark mit der Höhe zusammen», klärt Konrad Schindler, Professor für Photogrammetrie und Fernerkundung, auf."
+    },
+    {
+      "heading": "Trainiert mit Laserscanning-Daten aus dem Weltraum",
+      "text": "Doch wie liest ein Computer die Baumhöhe von einem Satellitenbild ab? «Da wir nicht wissen, nach welchen Mustern der Computer Ausschau halten muss, um die Höhe zu schätzen, lassen wir ihn die optimalen Bildfilter selbst lernen», sagt Nico Lang. Daher zeigt er seinem neuronalen Netzwerk Millionen von Beispielen: Als Input dienen die Bilder der zwei Copernicus Sentinel-2-Satelliten der Europäischen Weltraumorganisation (ESA). Diese Satelliten nehmen alle fünf Tage jeden Ort der Erde mit einer Auflösung von 10x10 Metern pro Pixel auf. Es sind die qualitativ besten Bilder, die zurzeit öffentlich zugänglich sind."
+    },
+    {
+      "heading": "Grundlage für zukünftige ökologische Forschung",
+      "text": "Daneben muss dem Algorithmus die korrekte Antwort – das heisst die Baumhöhe aus Space-Lasermessungen der externe Seite NASA GEDI-Mission – zur Verfügung gestellt werden. «Die GEDI-Mission liefert global verteilte, punktuelle Daten der Vegetationshöhe zwischen dem 51. nördlichen und südlichen Breitengrad, sodass der Computer im Trainingsprozess viele verschiedene Vegetationstypen sieht», erklärt Nico Lang. Mit Input und Antwort kann sich der Algorithmus die Filter für Textur- und Spektralmuster selbst aneignen. Ist das neuronale Netzwerk erst einmal trainiert, kann es die Baumhöhen aus den mehr als 250'000 Bildern (etwa 160 Terabyte Daten), die für die globale Karte notwendig sind, automatisch schätzen.\n\nIn der Fachterminologie nennt sich Langs neuronales Netzwerk Convolutional Neural Network (CNN). Die «Convolution» – zu Deutsch Faltung– ist eine mathematische Operation, bei welcher der Algorithmus die 3x3 Pixel grossen Bildfilter über das Satellitenbild gleiten lässt und dadurch Informationen über Helligkeitsmuster im Bild erhält. «Der Trick dabei ist, dass wir die Bildfilter stapeln und der Algorithmus dadurch Kontextinformationen erhält, da er von jedem Pixel bereits Informationen über die Nachbarpixel hat», erläutert Konrad Schindler. Dadurch ist es dem EcoVision Lab erstmalig gelungen mit einer Satellitenkarte auch Baumhöhen von bis zu 55 Meter zuverlässig einzuschätzen.\n\nWeil diese neuronalen Netzwerke mit ihren vielen Schichten «tief» sind, spricht man auch von «Deep Learning». Diese Methode läutete vor rund 10 Jahren eine grosse Revolution in der Bildverarbeitung ein. Der Umgang mit der schieren Menge an Daten, die dazu nötig ist, ist jedoch nach wie vor eine grosse Herausforderung: Um die globale Vegetationshöhen-Karte zu berechnen, bräuchte ein leistungsstarker Rechner allein drei Jahre. «Zum Glück haben wir Zugriff auf den ETH-Hochleistungsrechencluster, sodass wir nicht drei Jahre auf die Berechnung der Karte warten mussten», lacht Nico Lang."
+    },
+    {
+      "heading": "Transparenz durch Abschätzung der Unsicherheiten",
+      "text": "Nico Lang bereitete denn nicht nur ein CNN auf diese Aufgabe vor, sondern gleich mehrere – ein sogenanntes Ensemble – davon. «Ein wichtiger Aspekt für uns war, den Nutzer:innen auch die Unsicherheit der Schätzung mitzuliefern», sagt er. Die insgesamt fünf neuronalen Netzwerke wurden unabhängig voneinander trainiert, wobei jedes seine eigene Schätzung der Baumhöhen angibt.\n\n«Sind alle Modelle einer Meinung, ist die Antwort auf Basis der Trainingsdaten eindeutig. Kommen die Modelle zu unterschiedlichen Antworten, bedeutet dies, dass es eine höhere Unsicherheit in der Schätzung gibt», erklärt Nico Lang. In die Modellierung fliessen auch Unsicherheiten in den Daten selbst mit ein: Ist ein Satellitenbild beispielsweise dunstig, ist die Unsicherheit grösser, als wenn die atmosphärischen Verhältnisse gut sind.\n\nDank ihrer hohen Auflösung bietet Langs globale Karte Einblick in interessante Details: «Wir konnten bereits spannende Muster entdecken», erzählt Konrad Schindler. «In den Rocky Mountains beispielsweise wird die Forstwirtschaft in fixen Quadraten betrieben und auch der Regenwald formt interessante Strukturen, die nicht zufällig sein können.» Nun sei es Ökolog:innen möglich, die aufgenommenen Muster und Daten weltumfassend zu interpretieren.\n\nDamit die Forschung weitergeführt werden kann, werden die Karte sowie der Source Code öffentlich zugänglich sein. Erste Interessenten haben sich bereits gemeldet: Walter Jetz, Professor an der Yale Universität, möchte die Global Canopy Height Map zur Biodiversitätsmodellierung nutzen. Doch auch für Regierungen, Verwaltungen und NGOs könnte die Karte interessant sein. «Dank Sentinel-2 könnte man alle fünf Tage die Vegetationshöhen neu berechnen und hätte so ein Monitoring, um die Regenwaldabholzung zu beobachten», meint Nico Lang.\n\nDarüber hinaus sei es nun auch möglich, regionale Erkenntnisse wie die Eigenschaft von tropischen Blätterdächern als klimatischer Puffer zu wirken, global zu validieren. Gekoppelt mit dem externe Seite High Carbon Stock Approach , der wertvolle Wälder für Kohlenstoffspeicherung und Biodiversität klassifiziert, ist die Vegetationshöhen-Karte eine wichtige Grundlage für die Erhaltung und Stärkung der Ökosysteme. Gemäss Langs Berechnungen befindet sich bloss auf 5 Prozent der Landmasse Vegetation von mehr als 30 Metern Höhe und nur 34 Prozent davon stehen in geschützten Gebieten.\n\nDa die GEDI-Mission im Jahr 2023 beendet werden soll, bietet Langs neu entwickelter Ansatz die Möglichkeit auch zukünftig Vegetationshöhen zu kartieren. Allerdings wäre eine Verlängerung der GEDI-Mission, über die zurzeit auch international in Medien diskutiert wird, wichtig, um die Daten mit zukünftigen Satellitenmissionen wie der externe Seite ESA Biomass Mission abzugleichen und das Modell auf Veränderungen zu kalibrieren.\n\nLang, N, Jetz, W, Schindler, K, Wegner, JD. A high-resolution canopy height model of the Earth. Nature Ecology & Evolution, 28. September 2023, doi: externe Seite 10.1038/s41559-023-02206-6"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "UN-Dekade",
+        "label": "ORG",
+        "start": 42,
+        "end": 51
+      },
+      {
+        "text": "engl.",
+        "label": "MISC",
+        "start": 95,
+        "end": 100
+      },
+      {
+        "text": "UN Decade on Ecosystem",
+        "label": "ORG",
+        "start": 102,
+        "end": 124
+      },
+      {
+        "text": "Grundlagen",
+        "label": "LOC",
+        "start": 359,
+        "end": 369
+      },
+      {
+        "text": "Bestands",
+        "label": "LOC",
+        "start": 415,
+        "end": 423
+      },
+      {
+        "text": "Ralph Dubayah",
+        "label": "PER",
+        "start": 425,
+        "end": 438
+      },
+      {
+        "text": "Global Ecosystem Dynamics Investigation",
+        "label": "ORG",
+        "start": 452,
+        "end": 491
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 512,
+        "end": 516
+      },
+      {
+        "text": "CO 2",
+        "label": "MISC",
+        "start": 687,
+        "end": 691
+      },
+      {
+        "text": "ETH-Departement",
+        "label": "MISC",
+        "start": 864,
+        "end": 879
+      },
+      {
+        "text": "ETH-Professor Konrad Schindler",
+        "label": "PER",
+        "start": 923,
+        "end": 953
+      },
+      {
+        "text": "Jan Dirk Wegner",
+        "label": "PER",
+        "start": 972,
+        "end": 987
+      },
+      {
+        "text": "Machine-Learning-Algorithmen",
+        "label": "LOC",
+        "start": 1036,
+        "end": 1064
+      },
+      {
+        "text": "Nico Lang",
+        "label": "PER",
+        "start": 1166,
+        "end": 1175
+      },
+      {
+        "text": "Vegetationshöhen-Karte",
+        "label": "MISC",
+        "start": 1374,
+        "end": 1396
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 1427,
+        "end": 1431
+      },
+      {
+        "text": "engl.",
+        "label": "MISC",
+        "start": 1441,
+        "end": 1446
+      },
+      {
+        "text": "Canopy Height Map",
+        "label": "PER",
+        "start": 1470,
+        "end": 1487
+      },
+      {
+        "text": "Novum",
+        "label": "ORG",
+        "start": 1496,
+        "end": 1501
+      },
+      {
+        "text": "Langs",
+        "label": "PER",
+        "start": 1547,
+        "end": 1552
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 1622,
+        "end": 1626
+      },
+      {
+        "text": "CO 2 -Ausstoss",
+        "label": "MISC",
+        "start": 1750,
+        "end": 1764
+      },
+      {
+        "text": "Baumhöhe",
+        "label": "LOC",
+        "start": 1791,
+        "end": 1799
+      },
+      {
+        "text": "Konrad Schindler",
+        "label": "PER",
+        "start": 2028,
+        "end": 2044
+      },
+      {
+        "text": "Nico Lang",
+        "label": "PER",
+        "start": 234,
+        "end": 243
+      },
+      {
+        "text": "Beispielen",
+        "label": "ORG",
+        "start": 301,
+        "end": 311
+      },
+      {
+        "text": "Copernicus Sentinel-2-Satelliten",
+        "label": "MISC",
+        "start": 350,
+        "end": 382
+      },
+      {
+        "text": "Europäischen Weltraumorganisation",
+        "label": "ORG",
+        "start": 387,
+        "end": 420
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 422,
+        "end": 425
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 481,
+        "end": 485
+      },
+      {
+        "text": "Space-Lasermessungen",
+        "label": "LOC",
+        "start": 80,
+        "end": 100
+      },
+      {
+        "text": "NASA GEDI-Mission",
+        "label": "ORG",
+        "start": 119,
+        "end": 136
+      },
+      {
+        "text": "GEDI-Mission",
+        "label": "ORG",
+        "start": 175,
+        "end": 187
+      },
+      {
+        "text": "Vegetationshöhe",
+        "label": "LOC",
+        "start": 235,
+        "end": 250
+      },
+      {
+        "text": "Nico Lang",
+        "label": "PER",
+        "start": 398,
+        "end": 407
+      },
+      {
+        "text": "Langs",
+        "label": "PER",
+        "start": 747,
+        "end": 752
+      },
+      {
+        "text": "Convolutional Neural Network",
+        "label": "ORG",
+        "start": 773,
+        "end": 801
+      },
+      {
+        "text": "CNN",
+        "label": "ORG",
+        "start": 803,
+        "end": 806
+      },
+      {
+        "text": "Convolution",
+        "label": "LOC",
+        "start": 814,
+        "end": 825
+      },
+      {
+        "text": "Deutsch",
+        "label": "MISC",
+        "start": 832,
+        "end": 839
+      },
+      {
+        "text": "Operation",
+        "label": "MISC",
+        "start": 872,
+        "end": 881
+      },
+      {
+        "text": "Der Trick",
+        "label": "MISC",
+        "start": 1048,
+        "end": 1057
+      },
+      {
+        "text": "Konrad Schindler",
+        "label": "PER",
+        "start": 1240,
+        "end": 1256
+      },
+      {
+        "text": "EcoVision Lab",
+        "label": "MISC",
+        "start": 1277,
+        "end": 1290
+      },
+      {
+        "text": "Deep Learning",
+        "label": "ORG",
+        "start": 1492,
+        "end": 1505
+      },
+      {
+        "text": "Vegetationshöhen-Karte",
+        "label": "LOC",
+        "start": 1733,
+        "end": 1755
+      },
+      {
+        "text": "ETH-Hochleistungsrechencluster",
+        "label": "LOC",
+        "start": 1864,
+        "end": 1894
+      },
+      {
+        "text": "Nico Lang",
+        "label": "PER",
+        "start": 1976,
+        "end": 1985
+      },
+      {
+        "text": "Nico Lang",
+        "label": "PER",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "CNN",
+        "label": "ORG",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "text": "Baumhöhen",
+        "label": "LOC",
+        "start": 357,
+        "end": 366
+      },
+      {
+        "text": "Nico Lang",
+        "label": "PER",
+        "start": 596,
+        "end": 605
+      },
+      {
+        "text": "Konrad Schindler",
+        "label": "PER",
+        "start": 960,
+        "end": 976
+      },
+      {
+        "text": "Rocky Mountains",
+        "label": "LOC",
+        "start": 986,
+        "end": 1001
+      },
+      {
+        "text": "Walter Jetz",
+        "label": "PER",
+        "start": 1422,
+        "end": 1433
+      },
+      {
+        "text": "Yale Universität",
+        "label": "ORG",
+        "start": 1452,
+        "end": 1468
+      },
+      {
+        "text": "Canopy Height Map",
+        "label": "MISC",
+        "start": 1488,
+        "end": 1505
+      },
+      {
+        "text": "Sentinel-2",
+        "label": "ORG",
+        "start": 1635,
+        "end": 1645
+      },
+      {
+        "text": "Nico Lang",
+        "label": "PER",
+        "start": 1784,
+        "end": 1793
+      },
+      {
+        "text": "High Carbon Stock Approach",
+        "label": "PER",
+        "start": 1997,
+        "end": 2023
+      },
+      {
+        "text": "Vegetationshöhen-Karte",
+        "label": "LOC",
+        "start": 2115,
+        "end": 2137
+      },
+      {
+        "text": "Gemäss Langs",
+        "label": "PER",
+        "start": 2209,
+        "end": 2221
+      },
+      {
+        "text": "GEDI-Mission",
+        "label": "ORG",
+        "start": 2386,
+        "end": 2398
+      },
+      {
+        "text": "Langs",
+        "label": "PER",
+        "start": 2440,
+        "end": 2445
+      },
+      {
+        "text": "GEDI-Mission",
+        "label": "ORG",
+        "start": 2570,
+        "end": 2582
+      },
+      {
+        "text": "Medien",
+        "label": "LOC",
+        "start": 2623,
+        "end": 2629
+      },
+      {
+        "text": "ESA Biomass Mission",
+        "label": "ORG",
+        "start": 2727,
+        "end": 2746
+      },
+      {
+        "text": "Schindler",
+        "label": "LOC",
+        "start": 2827,
+        "end": 2836
+      },
+      {
+        "text": "Wegner",
+        "label": "LOC",
+        "start": 2841,
+        "end": 2847
+      },
+      {
+        "text": "JD",
+        "label": "LOC",
+        "start": 2849,
+        "end": 2851
+      },
+      {
+        "text": "canopy",
+        "label": "MISC",
+        "start": 2871,
+        "end": 2877
+      },
+      {
+        "text": "Nature Ecology & Evolution",
+        "label": "ORG",
+        "start": 2905,
+        "end": 2931
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Canopy Height Map",
+        "De News",
+        "ETH-Professor Konrad Schindler",
+        "Gemäss Langs",
+        "High Carbon Stock Approach",
+        "Jan Dirk Wegner",
+        "Konrad Schindler",
+        "Langs",
+        "Nico Lang",
+        "Ralph Dubayah",
+        "Walter Jetz"
+      ],
+      "ORG": [
+        "Beispielen",
+        "CNN",
+        "Convolutional Neural Network",
+        "Deep Learning",
+        "ESA",
+        "ESA Biomass Mission",
+        "Europäischen Weltraumorganisation",
+        "GEDI-Mission",
+        "Global Ecosystem Dynamics Investigation",
+        "NASA",
+        "NASA GEDI-Mission",
+        "Nature Ecology & Evolution",
+        "Novum",
+        "Sentinel-2",
+        "UN Decade on Ecosystem",
+        "UN-Dekade",
+        "Yale Universität"
+      ],
+      "LOCATION": [
+        "Baumhöhe",
+        "Baumhöhen",
+        "Bestands",
+        "Convolution",
+        "ETH-Hochleistungsrechencluster",
+        "Erde",
+        "Grundlagen",
+        "JD",
+        "Machine-Learning-Algorithmen",
+        "Medien",
+        "Rocky Mountains",
+        "Schindler",
+        "Space-Lasermessungen",
+        "Vegetationshöhe",
+        "Vegetationshöhen-Karte",
+        "Wegner"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CO 2",
+        "CO 2 -Ausstoss",
+        "Canopy Height Map",
+        "Copernicus Sentinel-2-Satelliten",
+        "Der Trick",
+        "Deutsch",
+        "ETH-Departement",
+        "EcoVision Lab",
+        "Operation",
+        "Vegetationshöhen-Karte",
+        "canopy",
+        "engl."
+      ]
+    },
+    "entity_counts": {
+      "Nico Lang": 7,
+      "Vegetationshöhen-Karte": 3,
+      "Erde": 3,
+      "Langs": 3,
+      "Konrad Schindler": 3,
+      "GEDI-Mission": 3,
+      "engl.": 2,
+      "Canopy Height Map": 2,
+      "CNN": 2,
+      "De News": 1,
+      "UN-Dekade": 1,
+      "UN Decade on Ecosystem": 1,
+      "Grundlagen": 1,
+      "Bestands": 1,
+      "Ralph Dubayah": 1,
+      "Global Ecosystem Dynamics Investigation": 1,
+      "NASA": 1,
+      "CO 2": 1,
+      "ETH-Departement": 1,
+      "ETH-Professor Konrad Schindler": 1
+    },
+    "total_entities": 73,
+    "unique_entities": 54
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neuronales-netzwerk-kann-baumhoehen-von-satellitenbildern-ablesen.md",
+      "title": "De News Events/2022/04/neuronales Netzwerk Kann Baumhoehen von Satellitenbildern Ablesen",
+      "language": "de",
+      "source_path": "de_news_events/2022/04/neuronales-netzwerk-kann-baumhoehen-von-satellitenbildern-ablesen.html"
+    },
+    "temporal": {
+      "publication_date": "2022-04",
+      "mentioned_years": [
+        "2017",
+        "2022",
+        "2023",
+        "2030"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Canopy Height Map",
+        "De News",
+        "ETH-Professor Konrad Schindler",
+        "Gemäss Langs",
+        "High Carbon Stock Approach",
+        "Jan Dirk Wegner",
+        "Konrad Schindler",
+        "Langs",
+        "Nico Lang",
+        "Ralph Dubayah",
+        "Walter Jetz"
+      ],
+      "people_with_roles": {
+        "Canopy Height Map": [
+          "professor"
+        ],
+        "ETH-Professor Konrad Schindler": [
+          "professor"
+        ],
+        "Jan Dirk Wegner": [
+          "Professor",
+          "professor"
+        ],
+        "Konrad Schindler": [
+          "Professor",
+          "professor"
+        ],
+        "Walter Jetz": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology"
+      ],
+      "research_topics": [
+        "CO 2",
+        "CO 2 -Ausstoss",
+        "Canopy Height Map",
+        "Copernicus Sentinel-2-Satelliten",
+        "Der Trick",
+        "Deutsch",
+        "ETH-Departement",
+        "EcoVision Lab",
+        "Operation",
+        "Vegetationshöhen-Karte",
+        "canopy",
+        "engl."
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Dank Langs",
+        "Die Initiative",
+        "Mit Input",
+        "Nature Ecology",
+        "Space-Lasermessungen",
+        "Ecosystem Restoration",
+        "Neural Network",
+        "EcoVision Lab",
+        "Forscher Machine",
+        "ETH-Professor",
+        "Seite NASA",
+        "Dynamics Investigation",
+        "Carbon Stock",
+        "Deep Learning",
+        "Satellitenbildern Ablesen",
+        "Die GEDI",
+        "Netzwerk Millionen",
+        "Walter Jetz",
+        "Diese Satelliten",
+        "Rocky Mountains",
+        "Nico Lang",
+        "ETH-Hochleistungsrechencluster",
+        "Karte Einblick",
+        "Jan Dirk",
+        "Seite Global",
+        "GEDI-Mission",
+        "Im Lab",
+        "Terabyte Daten",
+        "Diese Methode",
+        "Copernicus Sentinel",
+        "Ein Novum",
+        "Canopy Height",
+        "Computer Ausschau",
+        "Der Umgang",
+        "Ralph Dubayah",
+        "Source Code",
+        "Erste Interessenten",
+        "Deutsch Faltung",
+        "Der Trick",
+        "Dank Sentinel",
+        "Global Canopy",
+        "Global Ecosystem",
+        "Als Input",
+        "ETH-Departement",
+        "Seite ESA",
+        "Konrad Schindler",
+        "Beispiel Vermessungen",
+        "Seite High",
+        "UZH-Professor",
+        "Height Map",
+        "Netzwerk Kann",
+        "UN Decade",
+        "Langs Berechnungen",
+        "Netzwerk Convolutional",
+        "De News",
+        "Landmasse Vegetation",
+        "UN-Dekade",
+        "Learning-Algorithmen",
+        "Biomass Mission"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Beispielen",
+        "CNN",
+        "Convolutional Neural Network",
+        "Deep Learning",
+        "ESA",
+        "ESA Biomass Mission",
+        "Europäischen Weltraumorganisation",
+        "GEDI-Mission",
+        "Global Ecosystem Dynamics Investigation",
+        "NASA",
+        "NASA GEDI-Mission",
+        "Nature Ecology & Evolution",
+        "Novum",
+        "Sentinel-2",
+        "UN Decade on Ecosystem",
+        "UN-Dekade",
+        "Yale Universität"
+      ],
+      "locations": [
+        "Baumhöhe",
+        "Baumhöhen",
+        "Bestands",
+        "Convolution",
+        "ETH-Hochleistungsrechencluster",
+        "Erde",
+        "Grundlagen",
+        "JD",
+        "Machine-Learning-Algorithmen",
+        "Medien",
+        "Rocky Mountains",
+        "Schindler",
+        "Space-Lasermessungen",
+        "Vegetationshöhe",
+        "Vegetationshöhen-Karte",
+        "Wegner"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Nico Lang",
+        "Vegetationshöhen-Karte",
+        "Erde",
+        "Langs",
+        "Konrad Schindler",
+        "GEDI-Mission",
+        "engl.",
+        "Canopy Height Map",
+        "CNN",
+        "De News"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Trainiert mit Laserscanning-Daten aus dem Weltraum",
+          "Trainiert mit Laserscanning-Daten aus dem Weltraum",
+          "Grundlage für zukünftige ökologische Forschung",
+          "Transparenz durch Abschätzung der Unsicherheiten"
+        ],
+        "content_length": 7800
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Canopy Height Map",
+        "ETH-Professor Konrad Schindler",
+        "NASA GEDI-Mission",
+        "Novum",
+        "Sentinel-2",
+        "ESA Biomass Mission",
+        "Deep Learning",
+        "Jan Dirk Wegner",
+        "Gemäss Langs",
+        "Walter Jetz",
+        "Convolutional Neural Network",
+        "GEDI-Mission",
+        "ESA",
+        "2022",
+        "NASA",
+        "CNN",
+        "Ralph Dubayah",
+        "Langs",
+        "EU",
+        "High Carbon Stock Approach",
+        "Nature Ecology & Evolution",
+        "UN-Dekade",
+        "Yale Universität",
+        "Konrad Schindler",
+        "UN Decade on Ecosystem",
+        "2030",
+        "Europäischen Weltraumorganisation",
+        "2017",
+        "De News",
+        "Beispielen",
+        "Global Ecosystem Dynamics Investigation",
+        "Nico Lang",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Canopy Height Map",
+        "Operation",
+        "Vegetationshöhen-Karte",
+        "CO 2 -Ausstoss",
+        "who",
+        "canopy",
+        "Copernicus Sentinel-2-Satelliten",
+        "Der Trick",
+        "Deutsch",
+        "EcoVision Lab",
+        "biology",
+        "engl.",
+        "what",
+        "how",
+        "ETH-Departement",
+        "when",
+        "CO 2"
+      ],
+      "graph_relations": [
+        "Canopy Height Map_has_role_professor",
+        "ETH-Professor Konrad Schindler_has_role_professor",
+        "Jan Dirk Wegner_has_role_Professor",
+        "Jan Dirk Wegner_has_role_professor",
+        "Konrad Schindler_has_role_Professor",
+        "Konrad Schindler_has_role_professor",
+        "Walter Jetz_has_role_professor",
+        "research_domain_technology",
+        "research_domain_biology"
+      ]
+    }
+  }
+}

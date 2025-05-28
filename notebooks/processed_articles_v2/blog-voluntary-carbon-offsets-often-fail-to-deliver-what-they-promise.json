@@ -1,0 +1,441 @@
+{
+  "filename": "blog-voluntary-carbon-offsets-often-fail-to-deliver-what-they-promise.md",
+  "original_filename": "blog-voluntary-carbon-offsets-often-fail-to-deliver-what-they-promise.html",
+  "source_path": "en_news_events/2023/07/blog-voluntary-carbon-offsets-often-fail-to-deliver-what-they-promise.html",
+  "date": "2023-07",
+  "title": "Blog Voluntary Carbon Offsets Often Fail To Deliver What They Promise",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "About the author",
+      "text": "- For many projects, it’s questionable whether the same results wouldn’t have been achieved without financing through offset certificates. For example, forests protected under offset certificates are often not at risk of deforestation even without certificate protection.3 Moreover, most wind and solar installations don’t require offset certificates to pool enough funding.4\n\n- The vast majority of projects aim to avoid additional greenhouse gas emissions, for instance by replacing an existing or proposed coal-fired power plant with wind power. Strictly speaking, such avoidance projects don’t offset actual emissions. We should instead focus more on projects that remove CO2 from the atmosphere. But this is much more expensive: the Swiss company Climeworks charges between 600 to 1,000 dollars to remove a tonne of CO2 from the atmosphere. In contrast, the average avoidance project based on installations of renewable energies costs just 2 dollars per tonne of CO2.5\n\n- There is also doubt as to whether offset projects are really storing the CO2 for the necessary period of time, namely several hundred years. That’s how long a substantial portion of the CO2 emitted by human activity remains in the atmosphere. If climate action projects initiate reforestation to create carbon sinks, they must also factor in the medium-term risk of fire and deforestation. As such, they actually require long-term protection.\n\n- Projections of the projects’ emissions reductions are frequently too optimistic: the number of tonnes of CO2 that can be issued as certificates for each project is generally projected in advance. The problem is that the estimates provided by many providers exceed the actual level of emissions reductions that are observed later by far. Not seldomly, calculations are also based on unrealistic assumptions in the first place.\n\nVoluntary offset markets work according to the principle that emission reductions are achieved where it is most cost-effective. At first glance, that makes sense. Often, however, offset projects don’t deliver what they promise. On the contrary, the skyrocketing demand for cheap offsets incentivizes project developers to scale up projects with increasing speed. Many actors benefit from this noxious effect: project developers and verifiers from the growing market, buyers from attractive prices.\n\nMalte Toetzke is a doctoral student in the Group for Sustainability and Technology at ETH Zurich."
+    },
+    {
+      "heading": "The system still fails too often",
+      "text": "For several reasons, the promise of many offset projects to deliver climate neutrality needs to be challenged:\n\nTo ensure that carbon offsets benefit the climate more effectively in the future and are not misappropriated for greenwashing, the offset industry must impose – or be obliged to impose – higher standards. Verifiers should approve only those projects that would struggle to pool sufficient funding without financing through offset markets, which, for example, can be the case for reforestations projects or carbon-removal technologies. In response to massive criticism in the media, many organisations are now taking steps in the right direction, for instance by announcing their intention to approve renewable energy projects only in very poor countries.\n\nVerifiers must also ensure that offset projects really deliver the CO 2 reductions they promised. As such, projects should continuously prove whether, for example, households in developing countries are actually using the efficient stoves they have been provided with, or how reforested areas are really developing. Some projects already do this. However, the system still fails too often when it comes to carrying out accurate monitoring or imposing sanctions in the event of observed deficits. Although providers usually hold a certain share of certificates in reserve as buffer, in case of shortcomings compared to the projected emissions reductions the vast majority of certificates is already sold. Perhaps a better approach would be to issue certificates only after the true amount of CO 2 emissions reductions by a project has been proven. To ensure upfront project finance, investors could step in, bearing the risks of uncertain project outcomes, but making profit from the sale of certificates of successful projects later on.\n\nIf projects would be subject to higher standards in terms of reliability and quality, the offset market would shrink and prices would increase. This would raise the cost threshold substantially where companies decide to buy offsets rather than reducing emissions internally. Overall, the resulting effect would be desirable because offsets ought to supplement climate action measures by companies, and not replace them. As such, carbon offsets should not delay internal emissions reduction by companies, such as reducing business flights or building emissions. Carbon offsets should be used only where internal measures are still overly expensive and technologically difficult to realize.\n\n1 Probst B, Toetzke M, Kontoleon A, Diaz Anadon L, Hoffmann VH: Systematic review of the actual emissions reductions of carbon offset projects across all major sectors, 2023, doi: 10.3929/ethz-b-000620307\n\n2 Consumer watchdog submits complaints against Swisscom, Coca-Cola and other companies Tages-Anzeiger, 6 July 2023 (in German)\n\n3 West T, Wunder S, Sills E, Börner J, Rifai S, Niedermeier A, Frey G, Kontoleon A: Action needed to make carbon offsets from forest conservation work for climate change mitigation, 7 July 2012, doi: 10.17863/CAM.99745\n\n4 Calel R, Colmer J, Dechezleprêtre A, Glachant M: Do carbon offsets offset carbon? , 2021\n\n5 Junk Carbon Offsets Are What Make These Big Companies ‘Carbon Neutral’ , Bloomberg, 21 November 2022"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Voluntary Carbon Offsets Often Fail To Deliver",
+        "label": "PRODUCT",
+        "start": 28,
+        "end": 74
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 737,
+        "end": 742
+      },
+      {
+        "text": "between 600 to 1,000 dollars",
+        "label": "CARDINAL",
+        "start": 770,
+        "end": 798
+      },
+      {
+        "text": "CO2",
+        "label": "PRODUCT",
+        "start": 820,
+        "end": 823
+      },
+      {
+        "text": "just 2 dollars",
+        "label": "MONEY",
+        "start": 939,
+        "end": 953
+      },
+      {
+        "text": "several hundred years",
+        "label": "DATE",
+        "start": 1093,
+        "end": 1114
+      },
+      {
+        "text": "CO2",
+        "label": "PRODUCT",
+        "start": 1161,
+        "end": 1164
+      },
+      {
+        "text": "CO2",
+        "label": "PRODUCT",
+        "start": 1525,
+        "end": 1528
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1833,
+        "end": 1838
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1977,
+        "end": 1982
+      },
+      {
+        "text": "Malte Toetzke",
+        "label": "PERSON",
+        "start": 2344,
+        "end": 2357
+      },
+      {
+        "text": "Group for Sustainability and Technology",
+        "label": "ORG",
+        "start": 2387,
+        "end": 2426
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 2430,
+        "end": 2440
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 1557,
+        "end": 1561
+      },
+      {
+        "text": "Toetzke M",
+        "label": "ORG",
+        "start": 2504,
+        "end": 2513
+      },
+      {
+        "text": "Diaz Anadon L",
+        "label": "PERSON",
+        "start": 2528,
+        "end": 2541
+      },
+      {
+        "text": "10.3929",
+        "label": "CARDINAL",
+        "start": 2672,
+        "end": 2679
+      },
+      {
+        "text": "Swisscom",
+        "label": "ORG",
+        "start": 2744,
+        "end": 2752
+      },
+      {
+        "text": "Coca-Cola",
+        "label": "ORG",
+        "start": 2754,
+        "end": 2763
+      },
+      {
+        "text": "Tages-Anzeiger",
+        "label": "PERSON",
+        "start": 2784,
+        "end": 2798
+      },
+      {
+        "text": "6 July 2023",
+        "label": "DATE",
+        "start": 2800,
+        "end": 2811
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 2816,
+        "end": 2822
+      },
+      {
+        "text": "Niedermeier A",
+        "label": "PERSON",
+        "start": 2872,
+        "end": 2885
+      },
+      {
+        "text": "Frey G",
+        "label": "PERSON",
+        "start": 2887,
+        "end": 2893
+      },
+      {
+        "text": "7 July 2012",
+        "label": "DATE",
+        "start": 3006,
+        "end": 3017
+      },
+      {
+        "text": "10.17863",
+        "label": "CARDINAL",
+        "start": 3024,
+        "end": 3032
+      },
+      {
+        "text": "Colmer J",
+        "label": "PERSON",
+        "start": 3054,
+        "end": 3062
+      },
+      {
+        "text": "2021 5",
+        "label": "DATE",
+        "start": 3129,
+        "end": 3135
+      },
+      {
+        "text": "Bloomberg",
+        "label": "GPE",
+        "start": 3209,
+        "end": 3218
+      },
+      {
+        "text": "21 November 2022",
+        "label": "DATE",
+        "start": 3220,
+        "end": 3236
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Colmer J",
+        "Diaz Anadon L",
+        "Frey G",
+        "Malte Toetzke",
+        "Niedermeier A",
+        "Tages-Anzeiger"
+      ],
+      "ORG": [
+        "CO 2",
+        "Coca-Cola",
+        "ETH Zurich",
+        "Group for Sustainability and Technology",
+        "Swisscom",
+        "Toetzke M"
+      ],
+      "LOCATION": [
+        "Bloomberg"
+      ],
+      "DATE": [
+        "2021 5",
+        "21 November 2022",
+        "6 July 2023",
+        "7 July 2012",
+        "several hundred years"
+      ],
+      "MISC": [
+        "10.17863",
+        "10.3929",
+        "CO2",
+        "German",
+        "Swiss",
+        "Voluntary Carbon Offsets Often Fail To Deliver",
+        "between 600 to 1,000 dollars",
+        "first",
+        "just 2 dollars"
+      ]
+    },
+    "entity_counts": {
+      "CO2": 3,
+      "first": 2,
+      "Voluntary Carbon Offsets Often Fail To Deliver": 1,
+      "Swiss": 1,
+      "between 600 to 1,000 dollars": 1,
+      "just 2 dollars": 1,
+      "several hundred years": 1,
+      "Malte Toetzke": 1,
+      "Group for Sustainability and Technology": 1,
+      "ETH Zurich": 1,
+      "CO 2": 1,
+      "Toetzke M": 1,
+      "Diaz Anadon L": 1,
+      "10.3929": 1,
+      "Swisscom": 1,
+      "Coca-Cola": 1,
+      "Tages-Anzeiger": 1,
+      "6 July 2023": 1,
+      "German": 1,
+      "Niedermeier A": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "blog-voluntary-carbon-offsets-often-fail-to-deliver-what-they-promise.md",
+      "title": "En News Events/2023/07/blog Voluntary Carbon Offsets Often Fail To Deliver What They Promise",
+      "language": "en",
+      "source_path": "en_news_events/2023/07/blog-voluntary-carbon-offsets-often-fail-to-deliver-what-they-promise.html"
+    },
+    "temporal": {
+      "publication_date": "2023-07",
+      "mentioned_years": [
+        "2012",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Colmer J",
+        "Diaz Anadon L",
+        "Frey G",
+        "Malte Toetzke",
+        "Niedermeier A",
+        "Tages-Anzeiger"
+      ],
+      "people_with_roles": {
+        "Malte Toetzke": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology"
+      ],
+      "research_topics": [
+        "10.17863",
+        "10.3929",
+        "German",
+        "Swiss",
+        "Voluntary Carbon Offsets Often Fail To Deliver",
+        "between 600 to 1,000 dollars",
+        "first",
+        "just 2 dollars"
+      ],
+      "grants_funding": [
+        "EU",
+        "funding"
+      ],
+      "projects": [
+        "Frey G",
+        "Malte Toetzke",
+        "Calel R",
+        "Niedermeier A",
+        "What Make",
+        "Sills E",
+        "Kontoleon A",
+        "Glachant M",
+        "Probst B",
+        "Toetzke M",
+        "Fail To",
+        "Junk Carbon",
+        "Rifai S",
+        "These Big",
+        "Voluntary Carbon",
+        "West T",
+        "Offsets Often",
+        "Coca-Cola",
+        "Diaz Anadon",
+        "They Promise",
+        "Colmer J",
+        "Tages-Anzeiger",
+        "Wunder S",
+        "En News",
+        "Carbon Neutral",
+        "Hoffmann VH",
+        "Offsets Are",
+        "Deliver What",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CO 2",
+        "Coca-Cola",
+        "ETH Zurich",
+        "Group for Sustainability and Technology",
+        "Swisscom",
+        "Toetzke M"
+      ],
+      "locations": [
+        "Bloomberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "CO2",
+        "first",
+        "Voluntary Carbon Offsets Often Fail To Deliver",
+        "Swiss",
+        "between 600 to 1,000 dollars",
+        "just 2 dollars",
+        "several hundred years",
+        "Malte Toetzke",
+        "Group for Sustainability and Technology",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "About the author",
+          "The system still fails too often"
+        ],
+        "content_length": 5784
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Colmer J",
+        "Toetzke M",
+        "Tages-Anzeiger",
+        "Diaz Anadon L",
+        "EU",
+        "Frey G",
+        "Group for Sustainability and Technology",
+        "2012",
+        "2022",
+        "Malte Toetzke",
+        "funding",
+        "Niedermeier A",
+        "ETH Zurich",
+        "Swisscom",
+        "2021",
+        "Coca-Cola",
+        "CO 2",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "between 600 to 1,000 dollars",
+        "Swiss",
+        "when",
+        "Voluntary Carbon Offsets Often Fail To Deliver",
+        "just 2 dollars",
+        "what",
+        "how",
+        "German",
+        "10.17863",
+        "climate_change",
+        "why",
+        "10.3929",
+        "where"
+      ],
+      "graph_relations": [
+        "Malte Toetzke_has_role_student",
+        "research_domain_climate_change",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "filename": "podcast-krankheiten-mit-einem-atemhauch-diagnostizieren.md",
+  "original_filename": "podcast-krankheiten-mit-einem-atemhauch-diagnostizieren.html",
+  "source_path": "en_news_events/2022/11/podcast-krankheiten-mit-einem-atemhauch-diagnostizieren.html",
+  "date": "2022-11",
+  "title": "Podcast Krankheiten Mit Einem Atemhauch Diagnostizieren",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH scientists are part of a consortium called Zurich Exhalomics – a large team working on the future of diagnostics, where illnesses can be diagnosed using no more than a breath sample.\n\nIn this ETH Podcast, Renato Zenobi and Bettina Streckenbach, both of whom are involved in this project, talk to host Jennifer Khakshouri about breath analysis and what it takes to revolutionise medical diagnostics."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Diagnostizieren",
+        "label": "PERSON",
+        "start": 63,
+        "end": 78
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Zurich Exhalomics",
+        "label": "ORG",
+        "start": 47,
+        "end": 64
+      },
+      {
+        "text": "this ETH Podcast",
+        "label": "LOC",
+        "start": 190,
+        "end": 206
+      },
+      {
+        "text": "Renato Zenobi",
+        "label": "PERSON",
+        "start": 208,
+        "end": 221
+      },
+      {
+        "text": "Bettina Streckenbach",
+        "label": "PERSON",
+        "start": 226,
+        "end": 246
+      },
+      {
+        "text": "Jennifer Khakshouri",
+        "label": "PERSON",
+        "start": 304,
+        "end": 323
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bettina Streckenbach",
+        "Diagnostizieren",
+        "Jennifer Khakshouri",
+        "Renato Zenobi"
+      ],
+      "ORG": [
+        "ETH",
+        "Zurich Exhalomics"
+      ],
+      "LOCATION": [
+        "this ETH Podcast"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Diagnostizieren": 1,
+      "ETH": 1,
+      "Zurich Exhalomics": 1,
+      "this ETH Podcast": 1,
+      "Renato Zenobi": 1,
+      "Bettina Streckenbach": 1,
+      "Jennifer Khakshouri": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-krankheiten-mit-einem-atemhauch-diagnostizieren.md",
+      "title": "En News Events/2022/11/podcast Krankheiten mit einem Atemhauch Diagnostizieren",
+      "language": "en",
+      "source_path": "en_news_events/2022/11/podcast-krankheiten-mit-einem-atemhauch-diagnostizieren.html"
+    },
+    "temporal": {
+      "publication_date": "2022-11",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bettina Streckenbach",
+        "Diagnostizieren",
+        "Jennifer Khakshouri",
+        "Renato Zenobi"
+      ],
+      "people_with_roles": {
+        "Diagnostizieren": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "mathematics"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Renato Zenobi",
+        "En News",
+        "ETH Podcast",
+        "Bettina Streckenbach",
+        "Atemhauch Diagnostizieren",
+        "Zurich Exhalomics",
+        "Jennifer Khakshouri"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Zurich Exhalomics"
+      ],
+      "locations": [
+        "this ETH Podcast"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "Diagnostizieren",
+        "ETH",
+        "Zurich Exhalomics",
+        "this ETH Podcast",
+        "Renato Zenobi",
+        "Bettina Streckenbach",
+        "Jennifer Khakshouri"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 481
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Renato Zenobi",
+        "Diagnostizieren",
+        "ETH",
+        "Bettina Streckenbach",
+        "2022",
+        "Zurich Exhalomics",
+        "Jennifer Khakshouri"
+      ],
+      "semantic_concepts": [
+        "mathematics",
+        "who",
+        "what",
+        "medical_research",
+        "where"
+      ],
+      "graph_relations": [
+        "Diagnostizieren_has_role_scientist",
+        "research_domain_medical_research",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+# 50-jahre-gta.html
+
+**Source:** de_news_events/2017/09/50-jahre-gta.html
+
+## Natur und Kultur
+
+Wer baut, hinterlässt tiefe Spuren: «Entwerfen und Bauen schreibt sich in die zeitliche Perspektive ein. Hochstehende Architektur kennt deshalb die eminente Bedeutung der Geschichte und nutzt dieses Wissen», sagt Laurent Stalder. Er ist ETH-Professor für Architekturtheorie und Leiter des gta. Das Institut widmet sich seit seiner Gründung im Jahr 1967 der Aufgabe, die Architekturstudierenden neben der Entwurfs- und Umsetzungskompetenz mit dem historisch-kulturellen Erbe vertraut zu machen, an dem sie buchstäblich weiterbauen. «Es ist entscheidend, dass sich Architektinnen und Architekten ihrer Rolle bewusst sind.»
+
+## Natur und Kultur
+
+Um dies zu erreichen, könne die Arbeit am gta als ein Geviert umschrieben werden, so Laurent Stalder, dessen Eckpunkte die Geschichte, die Gegenwart, die Theorie und die Praxis in ihrer gegenseitigen Beziehung seien. Bei der Gründung habe Jakob Burckhardt, damaliger Präsident des Schweizerischen Schulrats, das gta als «Sonderling» charakterisiert, als ein Unikum in einer Hochschule mit naturwissenschaftlicher Ausrichtung. Gleichzeitig sah er das Institut als wichtiges Korrektiv: Indem es dem Gestus der Deduktion und Spezialisierung immer den gesellschaftlichen Spiegel entgegenhält, der nichts Isoliertes reflektiert, sondern immer ein Gesamtbild. «Burckhardts Beschreibung trifft den Kern des gta nach wie vor. Es ist ein Zentrum, in dem Transdisziplinarität und kritisches Denken ganz selbstverständlich als Teil der Arbeit des Architekten verstanden werden, und deswegen in seiner Ausbildung unverzichtbar.»
+
+Konsequenterweise sind Archiv, Verlag und Ausstellungsprogramm des gta eng miteinander verwoben: «So nutzen wir unsere bedeutende Sammlung von architektonischen Nachlässen dezidiert in der Lehre und geben den Architekturstudierenden dieses Wissen und diese Erfahrung weiter.» Zum Beispiel die Erfahrung von Fritz Haller: Der Schweizer Architekt war ein Pionier in der Anwendung der elektronischen Datenverarbeitung in der Architektur. «Die Dokumente im Nachlass erlauben uns zu verstehen, wie die Computer-Technik in die Architektur eingeführt wurde», hält Laurent Stalder fest. Wie kaum eine andere Disziplin erfordert die Architektur die Überwindung der disziplinärer Grenzen von Technik- , Geistes- und Sozialgeschichte.
+
+## Im Zentrum des Departements
+
+«Der zeitliche Horizont unserer Gesellschaften schrumpft. Wir verlieren den Anschluss sowohl an die Geschichte wie an die Zukunft». Hier sieht Philip Ursprung, Professor für Kunst- und Architekturgeschichte am gta und derzeit Vorsteher des Departements Architektur eine grosse Aufgabe des Instituts. «Ohne Gedächtnis entsteht nichts Neues, und ohne kritische Reflexion gibt es kein vernünftiges Handeln», sagt er. Für Ursprung steht das Institut im Zentrum des Departements, als Ort der Begegnung von Entwurf, Technologie, Städtebau, Denkmalpflege und Landschaftsarchitektur. «Am gta beobachten wir die Architektur nicht nur, wir versuchen auch, sie zu prägen, durch die Lehre, die Forschung und auch, indem wir uns in die aktuellen Fragen einmischen, mittels Ausstellungen, Publikationen und Diskussionspodien.»
+
+## Ein Institute of Advanced Studies
+
+Im Rückblick auf 50 Jahre gta zeigt sich Laurent Stalder stolz auf das Erreichte: «Es ist weltweit dank seiner Arbeit in Lehre und Forschung eine fest etablierte Institution. Sein Stellenwert zeigt sich unter anderem darin, dass das gta einen international tätigen Verlag hat und mit den bedeutendsten Museen kooperiert. In der Zwischenzeit eifern andere Universitäten unserer Idee mit ähnlichen Gründungen nach.»
+
+In der Ausbildung liegt ein Fokus auf dem noch jungen Doktoratsprogramm zur Geschichte und Theorie der Architektur, das 2012 lanciert wurde. Laurent Stalder: «Die erste Kohorte hat soeben abgeschlossen und mit beachteten Arbeiten abgeschlossen ». Sein besonderes Ausgenmerk liegt nun auf dem ambitionierten Projekt eines Institute of Advanced Studies unter der Leitung des gta: «Wir verfügen über hervorragende Ressourcen. Dieses wollen wir den weltweit besten Forschenden zugänglich machen, und zwar in Zusammenarbeit mit der Bibliothek des ehemaligen gta-Leiters Werner Oechslin, eine der besten Bibliotheken in unserem Bereich überhaupt.»
+
+## Digitales Architekturwissen
+
+Architekturwissen, das sind Modelle, Pläne, Renderings, Schnitte, Computerdesigns bis hin zu physischen Bauten. Aber herkömmliche Archivarbeit legt den Schwerpunkt immer noch auf analoge Materialien. Deshalb beschäftigt sich das gta auch intensiv mit der Archivierung der Zukunft: «In enger Kooperation mit Spezialisten der ETH-Bibliothek arbeitet mein Kollege Maarten Delbeke an Verfahren, um architektonische Bestände, von Abschriften, über Konvolute bis zu digitalen Daten angemessen zu erfassen. So könnte ein neuer Umgang mit dem Architekturwissens entstehen, welches einen leichteren, umfassenderen und vor allem komplexeren Zugang zu historischem Wissen erlaubt», sagt der gta-Leiter. Und wer weiss: Womöglich weist das gta damit anderen Wissenschaftsbereichen den Weg.
+
+1967 an der damaligen Architekturabteilung gegründet, erlangte das gta mit Archiv, Verlag und Ausstellungsprogramm als Ausbildungs- und Forschungseinrichtung rasch internationales Renommee. Den Höhepunkt des gta-Jubiläumsjahrs bilden am 28. und 29. September 2017 eine Tagung, ein Round Table und eine Ausstellungseröffnung. Diese Anlässe stehen ganz im Zeichen von Geschichte und Gegenwart, Theorie und Praxis, den vier Grundpfeilern des Instituts.
+

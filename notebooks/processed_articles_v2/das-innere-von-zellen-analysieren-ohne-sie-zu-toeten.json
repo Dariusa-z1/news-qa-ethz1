@@ -1,0 +1,531 @@
+{
+  "filename": "das-innere-von-zellen-analysieren-ohne-sie-zu-toeten.md",
+  "original_filename": "das-innere-von-zellen-analysieren-ohne-sie-zu-toeten.html",
+  "source_path": "de_news_events/2022/08/das-innere-von-zellen-analysieren-ohne-sie-zu-toeten.html",
+  "date": "2022-08",
+  "title": "Das Innere Von Zellen Analysieren Ohne Sie Zu Toeten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Zellen biopsieren statt zerstören",
+      "text": "Die moderne Biologie will zunehmend verstehen, warum sich individuelle Zellen unterschiedlich verhalten. In der Grundlagenforschung stehen dazu seit wenigen Jahren verschiedene hochempfindliche Messmethoden bereit, um gezielt einzelne Zellen zu analysieren. Solche Einzel-Zell-Analysen erlauben es, Unterschiede zwischen Zellen eines Verbands zu erkennen, seltene Zelltypen zu finden oder kranke Zellen zu identifizieren – was mit Proben gemischter Zellpopulationen nicht möglich ist.\n\nWissenschaftler:innen wollen vermehrt herausfinden, welche Gene in einer bestimmten Zelle eingeschaltet oder ausgeschaltet sind. Das lässt sich mittels RNA-Sequenzierung einzelnen Zellen untersuchen (Englisch: single-cell RNA sequencing, kurz scRNA-seq). Dabei werden möglichst alle in der Zellflüssigkeit vorhandenen Boten-​RNA-Moleküle entziffert und den jeweiligen aktiven Gensequenzen zugeordnet. So kann die Einzel-Zell-RNA-Sequenzierung die Aktivität von Tausenden Genen in einer Zelle messen.\n\nDas junge Feld der Einzel-Zell-RNA-Sequenzierung ist rasch zu einem wichtigen Instrumentarium für die biomedizinische Forschung gewachsen und umfasst heute zahlreiche Techniken zur Analyse der gesamten Boten-RNA, des so genannten Transkriptoms. «All diesen Techniken ist jedoch eine Einschränkung gemein, die lange als unvermeidbar galt», sagt Julia Vorholt, Professorin für Mikrobiologie an der ETH Zürich, «nämlich, dass die zu untersuchenden Zellen isoliert, aufgelöst und somit abgetötet werden müssen.»"
+    },
+    {
+      "heading": "Zellen biopsieren statt zerstören",
+      "text": "Ein Team von Forschenden um Vorholt und EPFL-Professor Bart Deplancke wartet nun mit einer Alternative für die Einzel-Zell-RNA-Sequenzierung auf: Sie analysiert ebenfalls das Transkriptom, erfasst dieses jedoch minimalinvasiv mittels zellulären Biopsien und hält die Zelle dabei am Leben und funktionill intakt, was einzigartig ist. Die Wissenschaftler:innen stellen ihre «Live-seq» genannte Technik aktuell in der Fachzeitschrift externe Seite Nature vor."
+    },
+    {
+      "heading": "Die Genaktivität über die Zeit verfolgen",
+      "text": "Allein dass die analysierte Zelle nicht stirbt, ist laut den Forschenden ein Vorteil für sich: «Unsere Stärke ist, die beprobten Zellen weiter unter dem Mikroskop beobachten zu können, wie sie sich entwickelt und verhält», führt Vorholt aus.\n\nAbgesehen davon belässt Live-seq die Zellen auch in ihrem physiologischen Kontext. «Die Mikroumgebung und die Zell-Zell-Interaktionen bleiben bestehen», ergänzt Orane Guillaume-Gentil, Postdoc in der Gruppe von Vorholt. Sie hat die Methode zusammen mit Wanze Chen von der EPFL im Labor etabliert."
+    },
+    {
+      "heading": "Basis ist ein Zellsauger-Mikrosystem",
+      "text": "Die Vorarbeiten für die Erfassung des Transkriptoms aus lebenden Zellen leisteten die Forschenden vor einiger Zeit an der ETH Zürich. Das Fundament bildet das an der ETH Zürich entwickelte Mikroinjektionssystem FluidFM, das winzige Flüssigkeitsmengen unter einem Mikroskop manipulieren kann. Vorholt und ihre Gruppe machten aus der «kleinsten Injektionsnadel der Welt» eine Zell-Extratktionsmethode, um einzelne lebende Zellen mit der Mikro-​Injektionsnadel anzupiksen und deren Inhalt auszusaugen (siehe ETH-News-Artikel ).\n\nAktuell zeigen die Teams um Vorholt und Deplancke, dass sich vollwertige Transkriptome aus solchen Zellbiopsien nachweisen lassen. Der entscheidende Fortschritt entstand, als es den Forschenden gelang, die RNA aus diesen winzigen Mengen an Zellflüssigkeit auszulesen.\n\nUm Live-seq zu validieren, demonstrierte das EPFL-ETH-Forschungsteam, dass ihr Analysewerkzeug verschiedene Zelltypen und -zustände genau identifizieren kann, ohne sie zu stören. Zudem nutzten die die Forschenden ihre Plattform, um die Veränderungen einzelner Immunzellen direkt abzubilden, bevor und nachdem sie aktiv wurden, sowie von Fettstromazellen – einer Art von Stammzellen – bevor und nachdem sie sich in Fettzellen differenzierten.\n\nLive-seq kann nun helfen, neue biomedizinisch relevante Fragestellungen zu untersuchen. Deplancke, EPFL-Professor für Systembiologie, erläutert näher: «Etwa warum sich bestimmte Zellen differenzieren und ihre Schwesterzellen nicht, oder warum bestimmte Zellen gegen ein Krebsmedikament resistent sind und ihre Schwesterzellen wiederum nicht».\n\nZudem kann Live-seq nun die Aktivität Tausender von Genen in einer einzelnen Zelle durch wiederholte Messungen auch über die Zeit hinweg verfolgen. «So wandelt sich die Einzel-Zell-Analyse von einem Endpunkt zu einem zeitlichen und räumlichen Analyseverfahren», sagt Vorholt.\n\nDieser Artikel beruht auf einer Mitteilung der externe Seite EPFL .\n\nChen W, Guillaume-Gentil O et al. Live-seq enables temporal transcriptomic recording of single cells. Nature (2022), externe Seite doi: 10.1038/s41586-022-05046-9"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Unterschiede",
+        "label": "LOC",
+        "start": 299,
+        "end": 311
+      },
+      {
+        "text": "RNA-Sequenzierung",
+        "label": "ORG",
+        "start": 637,
+        "end": 654
+      },
+      {
+        "text": "Englisch",
+        "label": "MISC",
+        "start": 685,
+        "end": 693
+      },
+      {
+        "text": "single-cell RNA sequencing",
+        "label": "ORG",
+        "start": 695,
+        "end": 721
+      },
+      {
+        "text": "Tausenden Genen",
+        "label": "MISC",
+        "start": 946,
+        "end": 961
+      },
+      {
+        "text": "Boten-RNA",
+        "label": "MISC",
+        "start": 1187,
+        "end": 1196
+      },
+      {
+        "text": "Transkriptoms",
+        "label": "LOC",
+        "start": 1215,
+        "end": 1228
+      },
+      {
+        "text": "All diesen Techniken",
+        "label": "MISC",
+        "start": 1231,
+        "end": 1251
+      },
+      {
+        "text": "Julia Vorholt",
+        "label": "PER",
+        "start": 1329,
+        "end": 1342
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1381,
+        "end": 1391
+      },
+      {
+        "text": "Vorholt",
+        "label": "ORG",
+        "start": 28,
+        "end": 35
+      },
+      {
+        "text": "EPFL-Professor Bart Deplancke",
+        "label": "PER",
+        "start": 40,
+        "end": 69
+      },
+      {
+        "text": "Nature",
+        "label": "MISC",
+        "start": 445,
+        "end": 451
+      },
+      {
+        "text": "Vorholt",
+        "label": "LOC",
+        "start": 229,
+        "end": 236
+      },
+      {
+        "text": "Live-seq",
+        "label": "PER",
+        "start": 266,
+        "end": 274
+      },
+      {
+        "text": "Zell-Zell-Interaktionen",
+        "label": "LOC",
+        "start": 352,
+        "end": 375
+      },
+      {
+        "text": "Orane Guillaume-Gentil",
+        "label": "PER",
+        "start": 403,
+        "end": 425
+      },
+      {
+        "text": "Postdoc",
+        "label": "PER",
+        "start": 427,
+        "end": 434
+      },
+      {
+        "text": "Vorholt",
+        "label": "LOC",
+        "start": 453,
+        "end": 460
+      },
+      {
+        "text": "Wanze Chen",
+        "label": "PER",
+        "start": 495,
+        "end": 505
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 514,
+        "end": 518
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 122,
+        "end": 132
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 166,
+        "end": 176
+      },
+      {
+        "text": "FluidFM",
+        "label": "MISC",
+        "start": 211,
+        "end": 218
+      },
+      {
+        "text": "Mikro-​Injektionsnadel",
+        "label": "LOC",
+        "start": 435,
+        "end": 457
+      },
+      {
+        "text": "ETH-News-Artikel",
+        "label": "MISC",
+        "start": 505,
+        "end": 521
+      },
+      {
+        "text": "Teams",
+        "label": "LOC",
+        "start": 544,
+        "end": 549
+      },
+      {
+        "text": "Vorholt",
+        "label": "LOC",
+        "start": 553,
+        "end": 560
+      },
+      {
+        "text": "Deplancke",
+        "label": "LOC",
+        "start": 565,
+        "end": 574
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 731,
+        "end": 734
+      },
+      {
+        "text": "EPFL-ETH-Forschungsteam",
+        "label": "MISC",
+        "start": 838,
+        "end": 861
+      },
+      {
+        "text": "Deplancke",
+        "label": "PER",
+        "start": 1323,
+        "end": 1332
+      },
+      {
+        "text": "EPFL-Professor",
+        "label": "MISC",
+        "start": 1334,
+        "end": 1348
+      },
+      {
+        "text": "Live-seq",
+        "label": "PER",
+        "start": 1589,
+        "end": 1597
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 1703,
+        "end": 1707
+      },
+      {
+        "text": "Vorholt",
+        "label": "LOC",
+        "start": 1845,
+        "end": 1852
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 1915,
+        "end": 1919
+      },
+      {
+        "text": "Chen W",
+        "label": "PER",
+        "start": 1922,
+        "end": 1928
+      },
+      {
+        "text": "Guillaume-Gentil O et al. Live-seq",
+        "label": "ORG",
+        "start": 1930,
+        "end": 1964
+      },
+      {
+        "text": "Nature",
+        "label": "MISC",
+        "start": 2024,
+        "end": 2030
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chen W",
+        "De News",
+        "Deplancke",
+        "EPFL-Professor Bart Deplancke",
+        "Julia Vorholt",
+        "Live-seq",
+        "Orane Guillaume-Gentil",
+        "Postdoc",
+        "Wanze Chen"
+      ],
+      "ORG": [
+        "EPFL",
+        "ETH Zürich",
+        "Guillaume-Gentil O et al. Live-seq",
+        "RNA",
+        "RNA-Sequenzierung",
+        "Vorholt",
+        "single-cell RNA sequencing"
+      ],
+      "LOCATION": [
+        "Deplancke",
+        "Mikro-​Injektionsnadel",
+        "Teams",
+        "Transkriptoms",
+        "Unterschiede",
+        "Vorholt",
+        "Zell-Zell-Interaktionen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "All diesen Techniken",
+        "Boten-RNA",
+        "EPFL-ETH-Forschungsteam",
+        "EPFL-Professor",
+        "ETH-News-Artikel",
+        "Englisch",
+        "FluidFM",
+        "Nature",
+        "Tausenden Genen",
+        "Zeit"
+      ]
+    },
+    "entity_counts": {
+      "Vorholt": 5,
+      "ETH Zürich": 3,
+      "Nature": 2,
+      "Live-seq": 2,
+      "EPFL": 2,
+      "Deplancke": 2,
+      "De News": 1,
+      "Unterschiede": 1,
+      "RNA-Sequenzierung": 1,
+      "Englisch": 1,
+      "single-cell RNA sequencing": 1,
+      "Tausenden Genen": 1,
+      "Boten-RNA": 1,
+      "Transkriptoms": 1,
+      "All diesen Techniken": 1,
+      "Julia Vorholt": 1,
+      "EPFL-Professor Bart Deplancke": 1,
+      "Zell-Zell-Interaktionen": 1,
+      "Orane Guillaume-Gentil": 1,
+      "Postdoc": 1
+    },
+    "total_entities": 41,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "das-innere-von-zellen-analysieren-ohne-sie-zu-toeten.md",
+      "title": "De News Events/2022/08/das Innere von Zellen Analysieren Ohne Sie zu Toeten",
+      "language": "de",
+      "source_path": "de_news_events/2022/08/das-innere-von-zellen-analysieren-ohne-sie-zu-toeten.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Chen W",
+        "De News",
+        "Deplancke",
+        "EPFL-Professor Bart Deplancke",
+        "Julia Vorholt",
+        "Live-seq",
+        "Orane Guillaume-Gentil",
+        "Postdoc",
+        "Wanze Chen"
+      ],
+      "people_with_roles": {
+        "Deplancke": [
+          "professor"
+        ],
+        "EPFL-Professor Bart Deplancke": [
+          "professor"
+        ],
+        "Julia Vorholt": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "All diesen Techniken",
+        "Boten-RNA",
+        "EPFL-ETH-Forschungsteam",
+        "EPFL-Professor",
+        "ETH-News-Artikel",
+        "Englisch",
+        "FluidFM",
+        "Nature",
+        "Tausenden Genen",
+        "Zeit"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Um Live",
+        "EPFL-ETH",
+        "Julia Vorholt",
+        "Ein Team",
+        "Orane Guillaume",
+        "Zell-Zell",
+        "Seite EPFL",
+        "Einzel-Zell",
+        "Bart Deplancke",
+        "Zellen Analysieren",
+        "Dieser Artikel",
+        "RNA-Sequenzierung",
+        "Wanze Chen",
+        "Zell-Extratktionsmethode",
+        "EPFL-Professor",
+        "Die Vorarbeiten",
+        "Die Mikroumgebung",
+        "Toeten Die",
+        "Chen W",
+        "Tausenden Genen",
+        "Die Wissenschaftler",
+        "Zell-Analysen",
+        "Mikroinjektionssystem FluidFM",
+        "ETH-News",
+        "Guillaume-Gentil",
+        "Ohne Sie",
+        "Solche Einzel",
+        "Seite Nature",
+        "De News",
+        "Das Fundament",
+        "Boten-RNA"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "EPFL",
+        "ETH Zürich",
+        "Guillaume-Gentil O et al. Live-seq",
+        "RNA",
+        "RNA-Sequenzierung",
+        "Vorholt",
+        "single-cell RNA sequencing"
+      ],
+      "locations": [
+        "Deplancke",
+        "Mikro-​Injektionsnadel",
+        "Teams",
+        "Transkriptoms",
+        "Unterschiede",
+        "Vorholt",
+        "Zell-Zell-Interaktionen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Vorholt",
+        "ETH Zürich",
+        "Nature",
+        "Live-seq",
+        "EPFL",
+        "Deplancke",
+        "De News",
+        "Unterschiede",
+        "RNA-Sequenzierung",
+        "Englisch"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Zellen biopsieren statt zerstören",
+          "Zellen biopsieren statt zerstören",
+          "Die Genaktivität über die Zeit verfolgen",
+          "Basis ist ein Zellsauger-Mikrosystem"
+        ],
+        "content_length": 4658
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EPFL",
+        "RNA",
+        "Chen W",
+        "Live-seq",
+        "EPFL-Professor Bart Deplancke",
+        "Postdoc",
+        "EU",
+        "RNA-Sequenzierung",
+        "single-cell RNA sequencing",
+        "Deplancke",
+        "ETH Zürich",
+        "De News",
+        "Julia Vorholt",
+        "Guillaume-Gentil O et al. Live-seq",
+        "Vorholt",
+        "Wanze Chen",
+        "2022",
+        "Orane Guillaume-Gentil"
+      ],
+      "semantic_concepts": [
+        "ETH-News-Artikel",
+        "Nature",
+        "FluidFM",
+        "Tausenden Genen",
+        "who",
+        "EPFL-ETH-Forschungsteam",
+        "what",
+        "how",
+        "Englisch",
+        "Zeit",
+        "Boten-RNA",
+        "All diesen Techniken",
+        "EPFL-Professor"
+      ],
+      "graph_relations": [
+        "Deplancke_has_role_professor",
+        "EPFL-Professor Bart Deplancke_has_role_professor",
+        "Julia Vorholt_has_role_professor"
+      ]
+    }
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "filename": "using-force-to-stiffle-dialogue.md",
+  "original_filename": "using-force-to-stiffle-dialogue.html",
+  "source_path": "en_news_events/2016/08/using-force-to-stiffle-dialogue.html",
+  "date": "2016-08",
+  "title": "Using Force To Stiffle Dialogue",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "“I disapprove of what you say, but I will defend your right to say it.” Although Voltaire himself never uttered these words, they nevertheless capture the spirit of his thinking and thus provide us with a shining example of some of the most important achievements of Enlightenment philosophy: freedom of expression and the supremacy of reason over violence. Anonymous individuals violated both of these fundamental principles yesterday at ETH Zurich. This is unacceptable. The University and the scientific community stand together in condemning such attacks.\n\nEUCARPIA has dedicated itself to the science of plant breeding throughout its 60-year history. The organisation conducts a general congress every four years, bringing researchers together to present their latest results and discuss the problems and challenges they have encountered. Scientists work with potatoes, fruit, grasses and many other plants that are vital to human nutrition, investigating ways to improve how plants are produced. They are particularly interested in how to increase yields and nutritional value, while simultaneously reducing the use of pesticides, fertilisers and water.\n\nLino Guzzella, President of ETH Zurich. (Image: ETH Zurich)\n\nEUCARPIA’s contributions become ever more important when we consider how many people around the world suffer from under- or malnourishment. This line of research plays an especially important role for impoverished countries, where populations are growing very quickly. We should welcome every bit of progress.\n\nMore than 400 conference participants from all around the world came together to contribute their intelligence and energy to advancing the science of plant breeding. They employ an impressive array of methods, ranging from the fundamentals of molecular biology to field experiments conducted on farms. Experienced researchers and their up-and-coming junior colleagues engage actively in scientific dialogue, debating the issues and sharing their new theories and experimental results.\n\nBut a small group of people used violence to try to prevent this from happening: they forced their way into the Auditorium Maximum, threw faecal matter at congress participants, and caused property damage. Instead of joining the discussion, using experiments to test their arguments, listening to and critically evaluating the ongoing developments, they forcibly and temporarily stifled peaceful dialogue.\n\nEngaging in such disruptive behaviour under a cloak of anonymity flies in the face of constructive dialogue. ETH Zurich fosters nuanced and critical discussion about the complex issue of global nutrition. We must see to it that this dialogue continues freely.\n\nI would call upon all researchers to speak out against such actions wherever they arise. ETH, like all universities, is a place where people come to discuss ideas freely, in an atmosphere of mutual respect. A place where experimentally validated arguments hold sway, and ultimately a place where we are developing solutions to the problems facing humanity. It is absolutely vital that we uphold these values."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Force To Stiffle Dialogue",
+        "label": "ORG",
+        "start": 29,
+        "end": 54
+      },
+      {
+        "text": "Voltaire",
+        "label": "PERSON",
+        "start": 81,
+        "end": 89
+      },
+      {
+        "text": "yesterday",
+        "label": "DATE",
+        "start": 426,
+        "end": 435
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 439,
+        "end": 449
+      },
+      {
+        "text": "University",
+        "label": "ORG",
+        "start": 477,
+        "end": 487
+      },
+      {
+        "text": "EUCARPIA",
+        "label": "ORG",
+        "start": 560,
+        "end": 568
+      },
+      {
+        "text": "60-year",
+        "label": "DATE",
+        "start": 638,
+        "end": 645
+      },
+      {
+        "text": "congress",
+        "label": "ORG",
+        "start": 691,
+        "end": 699
+      },
+      {
+        "text": "four years",
+        "label": "DATE",
+        "start": 706,
+        "end": 716
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 1159,
+        "end": 1172
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1187,
+        "end": 1197
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1207,
+        "end": 1217
+      },
+      {
+        "text": "EUCARPIA",
+        "label": "ORG",
+        "start": 1219,
+        "end": 1227
+      },
+      {
+        "text": "More than 400",
+        "label": "CARDINAL",
+        "start": 1529,
+        "end": 1542
+      },
+      {
+        "text": "the Auditorium Maximum",
+        "label": "FAC",
+        "start": 2122,
+        "end": 2144
+      },
+      {
+        "text": "congress",
+        "label": "ORG",
+        "start": 2169,
+        "end": 2177
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 2529,
+        "end": 2539
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2769,
+        "end": 2772
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Lino Guzzella",
+        "Voltaire"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "EUCARPIA",
+        "Force To Stiffle Dialogue",
+        "University",
+        "congress"
+      ],
+      "LOCATION": [
+        "the Auditorium Maximum"
+      ],
+      "DATE": [
+        "60-year",
+        "four years",
+        "yesterday"
+      ],
+      "MISC": [
+        "More than 400"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 4,
+      "EUCARPIA": 2,
+      "congress": 2,
+      "Force To Stiffle Dialogue": 1,
+      "Voltaire": 1,
+      "yesterday": 1,
+      "University": 1,
+      "60-year": 1,
+      "four years": 1,
+      "Lino Guzzella": 1,
+      "More than 400": 1,
+      "the Auditorium Maximum": 1,
+      "ETH": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "using-force-to-stiffle-dialogue.md",
+      "title": "En News Events/2016/08/using Force To Stiffle Dialogue",
+      "language": "en",
+      "source_path": "en_news_events/2016/08/using-force-to-stiffle-dialogue.html"
+    },
+    "temporal": {
+      "publication_date": "2016-08",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Lino Guzzella",
+        "Voltaire"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "president"
+        ],
+        "Lino Guzzella": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "More than 400"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "En News",
+        "The University",
+        "ETH Zurich",
+        "Force To",
+        "Stiffle Dialogue",
+        "Lino Guzzella",
+        "Although Voltaire",
+        "Auditorium Maximum"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "EUCARPIA",
+        "Force To Stiffle Dialogue",
+        "University",
+        "congress"
+      ],
+      "locations": [
+        "the Auditorium Maximum"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "EUCARPIA",
+        "congress",
+        "Force To Stiffle Dialogue",
+        "Voltaire",
+        "yesterday",
+        "University",
+        "60-year",
+        "four years",
+        "Lino Guzzella"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 3150
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "University",
+        "congress",
+        "EU",
+        "2016",
+        "EUCARPIA",
+        "Lino Guzzella",
+        "ETH Zurich",
+        "Voltaire",
+        "Force To Stiffle Dialogue"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "who",
+        "chemistry",
+        "More than 400",
+        "biology",
+        "what",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_president",
+        "Lino Guzzella_has_role_president",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

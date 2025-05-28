@@ -1,0 +1,30 @@
+# de_news_events_2018_08_blog-wattenhofer-api.html
+
+**Source:** de_news_events/2018/08/blog-wattenhofer-api.html
+
+## Mehr als die Summe der Einzelteile
+
+Wenn mein Smartphone morgens eine bestimmte Melodie spielt, dann weiss ich, dass es Zeit ist für meinen Fussweg zur Bushaltestelle. Falls ich unterwegs trödle, vibriert das Smartphone, und ich beschleunige meinen Schritt etwas. Ich bin wie immer exakt gleichzeitig mit dem Bus an der Haltestelle und steige einfach ein. Das funktioniert auch problemlos, wenn der Bus Verspätung hat.
+
+Klingt so die Zukunftsmusik einer Smart City? Warum Zukunft?! So eine App ist relativ simpel und kann an einem Wochenende geschrieben werden. Die Daten sind auch alle vorhanden; die Busse sind mit GPS ausgerüstet und übermitteln in Echtzeit ihre aktuelle Position an die Zentrale. Nur – wie kommt die App an diese Daten ran?
+
+## Mehr als die Summe der Einzelteile
+
+Die drei magischen Buchstaben heissen API, was für Application Programming Interface (Programmierschnittstelle) steht. APIs erlauben es, Daten und Funktionen einfach für weitere Benutzer zur Verfügung zu stellen. Diese Benutzer können verschiedene Datenquellen kombinieren und damit Services oder weitere Daten generieren, die mehr sind als die Summe ihrer Einzelteile.
+
+Das Konzept einer Internet-basierten API wurde in der Dot-Com Ära vor 20 Jahren populär. APIs standen auch im Zentrum als Jeff Bezos im Jahre 2002 sein Online-Warenhaus Amazon in eine Technologiefirma umgebaut hat. Nicht nur hat Bezos von seinen Entwicklern verlangt, dass in Zukunft jegliche Amazon-Software mittels API kommunizieren muss (sonst würde man «gefeuert»), sondern er hat auch gefordert, dass diese APIs sowohl intern wie auch extern («ohne Ausnahmen») zugänglich sein müssen. Damit hat Bezos unter anderem den Grundstein dafür gelegt, dass Amazon heute als Cloud-Dienstleister dreimal grösser ist als die Konkurrenz.
+
+## Nicht die APIs sind das Problem
+
+Viele Menschen stehen APIs äusserst kritisch gegenüber. Gerade kürzlich standen APIs im Zentrum der Vorfälle um Facebook und Cambridge Analytica. Über eine API hat Facebook etwa 60 Partnern Zugang zu Benutzerdaten gegeben. Diese Partner konnten persönliche Daten von Facebook-Benutzern lesen, die ihr Einverständnis dafür gegeben hatten. Daneben konnten die Partner auch die Daten der Freunde der Benutzer lesen, und die der Freunde der Freunde. Meiner Meinung nach geht es im Kern des Facebook-Vorfalls nicht darum, dass Facebook über eine API Daten anbietet, sondern nur darum, wem Facebook welche Daten anbietet. Man muss mit APIs generell immer vorsichtig sein.
+
+## Datenzugang nicht nur für Grossunternehmen
+
+Schweizer Behörden, Kantone und Städte sind derzeit im Digitalisierungsfieber. Man überlegt sich, mit welchen Innovationen man die Bürger beglücken könnte, man startet Tasks Forces und Strategien (beispielsweise die externe Seite Smart City-Strategie der Stadt Zürich).
+
+Die Zukunft zu gestalten, ist jedoch nicht die Kernkompetenz einer Verwaltung. Die Behörden sollten lieber darauf fokussieren, wie der Zugriff auf ihren Datenschatz sinnvoll und sicher geregelt werden kann. Welche Daten kann man (in Echtzeit!) interessierten Dritten zur Verfügung stellen? Wie sind Datenschutz, Zugriffsfrequenz und Schreibrechte geregelt? Welche Daten sind öffentlich, auf welche Daten kann man mit einer speziellen Berechtigung zugreifen, und welche bleiben tabu?
+
+Wir sollten die Daten nicht – wie leider oft üblich – nur potenten Grossunternehmen überlassen, sondern via API eben auch kleinen Unternehmen und Einzelpersonen, denn echte Innovationen passieren oft auch im Kleinen. Ich bin sicher, die Studierenden der ETH hätten Spass daran, Apps zu entwickeln, welche die Daten sinnvoll nutzen. Die Behörden sollten es ermöglichen, dass verschiedene innovative Konzepte entstehen können. Dann kriegen wir auch die Smart City – und ich meinen Bus.
+
+Roger Wattenhofer Professor für Verteilte Systeme an der ETH Zürich
+

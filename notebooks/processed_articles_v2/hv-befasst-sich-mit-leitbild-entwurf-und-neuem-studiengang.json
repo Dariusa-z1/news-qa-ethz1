@@ -1,0 +1,192 @@
+{
+  "filename": "hv-befasst-sich-mit-leitbild-entwurf-und-neuem-studiengang.md",
+  "original_filename": "hv-befasst-sich-mit-leitbild-entwurf-und-neuem-studiengang.html",
+  "source_path": "de_internal/2015/03/hv-befasst-sich-mit-leitbild-entwurf-und-neuem-studiengang.html",
+  "date": "2015-03",
+  "title": "Hv Befasst Sich Mit Leitbild Entwurf Und Neuem Studiengang",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Hochschulversammlung (HV) der ETH Zürich vereinigt alle vier Hochschulgruppen: Lehrkörper, Mittelbau, Studierende sowie administrative und technische Mitarbeitende. Sie begleitet konstruktiv-kritisch die Führungsarbeit der Schulleitung und des ETH-Rats, diskutiert hochschulpolitische Themen und sorgt an der ETH Zürich für die Einhaltung der Mitwirkung.\n\nAn ihrer Plenarversammlung vom 12. März 2015 befasste sich die HV unter anderem:\n\nWeiter nahm die HV zur Kenntnis, dass"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/03",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Befasst",
+        "label": "PER",
+        "start": 23,
+        "end": 30
+      },
+      {
+        "text": "HV",
+        "label": "ORG",
+        "start": 26,
+        "end": 28
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 34,
+        "end": 44
+      },
+      {
+        "text": "Lehrkörper",
+        "label": "LOC",
+        "start": 83,
+        "end": 93
+      },
+      {
+        "text": "Mittelbau",
+        "label": "LOC",
+        "start": 95,
+        "end": 104
+      },
+      {
+        "text": "ETH-Rats",
+        "label": "MISC",
+        "start": 248,
+        "end": 256
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 313,
+        "end": 323
+      },
+      {
+        "text": "HV",
+        "label": "ORG",
+        "start": 422,
+        "end": 424
+      },
+      {
+        "text": "HV",
+        "label": "ORG",
+        "start": 456,
+        "end": 458
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Befasst"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "HV"
+      ],
+      "LOCATION": [
+        "De Internal/2015/03",
+        "Lehrkörper",
+        "Mittelbau"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Rats"
+      ]
+    },
+    "entity_counts": {
+      "HV": 3,
+      "ETH Zürich": 2,
+      "De Internal/2015/03": 1,
+      "Befasst": 1,
+      "Lehrkörper": 1,
+      "Mittelbau": 1,
+      "ETH-Rats": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "hv-befasst-sich-mit-leitbild-entwurf-und-neuem-studiengang.md",
+      "title": "De Internal/2015/03/hv Befasst Sich mit Leitbild Entwurf und Neuem Studiengang",
+      "language": "de",
+      "source_path": "de_internal/2015/03/hv-befasst-sich-mit-leitbild-entwurf-und-neuem-studiengang.html"
+    },
+    "temporal": {
+      "publication_date": "2015-03",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Befasst"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Rats"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Neuem Studiengang",
+        "Befasst Sich",
+        "Die Hochschulversammlung",
+        "De Internal",
+        "ETH-Rats",
+        "Leitbild Entwurf"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "HV"
+      ],
+      "locations": [
+        "De Internal/2015/03",
+        "Lehrkörper",
+        "Mittelbau"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "HV",
+        "ETH Zürich",
+        "De Internal/2015/03",
+        "Befasst",
+        "Lehrkörper",
+        "Mittelbau",
+        "ETH-Rats"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 558
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "Befasst",
+        "EU",
+        "ETH Zürich",
+        "HV"
+      ],
+      "semantic_concepts": [
+        "ETH-Rats"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "filename": "unterschiedliche-evolutionsraten.md",
+  "original_filename": "unterschiedliche-evolutionsraten.html",
+  "source_path": "de_news_events/2018/12/unterschiedliche-evolutionsraten.html",
+  "date": "2018-12",
+  "title": "Unterschiedliche Evolutionsraten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Rätselhafte Abweichung",
+      "text": "Die Geschwindigkeit, mit der in der Evolution neue Tier- und Pflanzenarten entstanden oder bereits existierende wieder ausgestorben sind, ist von grossem Interesse – nicht nur für Wissenschaftler. Denn Artbildungs- und Aussterberaten verraten viel über die Vergangenheit unseres Planeten. Tauchen in kurzen Abständen neue Arten auf, deutet das darauf hin, dass die Lebensbedingungen auf der Erde günstig gewesen sein müssen. Hingegen können aussergewöhnliche Ereignisse ein Massenaussterben auslösen. Das berühmteste Beispiel ist das Verschwinden der Dinosaurier vor 66 Millionen Jahren, wahrscheinlich verursacht durch einen Meteoriteneinschlag oder Vulkanausbrüche."
+    },
+    {
+      "heading": "Rätselhafte Abweichung",
+      "text": "Die Frequenz, mit der Arten in der Vergangenheit auftauchten und wieder verschwanden, ist jedoch schwierig zu bestimmen. «Es war ja niemand dabei, als diese Prozesse abliefen», sagt Rachel Warnock, Postdoktorandin in der Forschungsgruppe Computational Evolution an der ETH Zürich. Deshalb versuchen Wissenschaftler, die Entstehungs- und Aussterberaten mit indirekten Methoden abzuleiten. Wichtige Informationen liefern zum einen Fossilienfunde aus verschiedenen geologischen Zeitaltern. Zum anderen können auch auf DNA-Analysen basierende, sogenannte phylogenetische Verwandtschaftsbäume heute lebender Arten Hinweise geben. Aus diesen Stammbäumen lässt sich mit statistischen Methoden ebenfalls ableiten, wie oft in der Vergangenheit neue Arten entstanden und alte ausstarben.\n\nFür die Wissenschaftler ist jedoch problematisch, dass die beiden genannten Methoden oft abweichende Ergebnisse liefern. Die aus Fossilienfunden abgeleiteten Entstehungs- und Aussterberaten sind oft viel höher als jene von phylogenetischen Methoden. Bisher war unklar, wie es zu dieser Abweichung kommt."
+    },
+    {
+      "heading": "Verschiedene Ansätze vereint",
+      "text": "Eine Erklärung haben nun Rachel Warnock und Tanja Stadler, Leiterin der Forschungsgruppe Computational Evolution, zusammen mit weiteren Wissenschaftlern gefunden. «Die beiden Methoden basieren auf unterschiedlichen Annahmen, wie Artbildung abläuft», sagt Warnock. Deshalb gelangen sie zu verschiedenen Ergebnissen. Wird jedoch von denselben Annahmen ausgegangen, lassen sich die Ergebnisse der beiden Methoden in Deckung bringen.\n\nDas konnten die Forschenden am Beispiel verschiedener Tiergruppen zeigen, etwa der Wale, der Hunde- und der Rinderartigen. Gelungen ist ihnen dies mit Hilfe eines eigens entwickelten Computermodells. «Mit diesem ist es nun möglich, beide Sichtweisen zu vereinen», sagt Warnock. Die Resultate der Arbeit wurden in der renommierten Fachzeitschrift Nature Communications veröffentlicht."
+    },
+    {
+      "heading": "Erkenntnisse zur Artbildung",
+      "text": "Man geht davon aus, dass es nicht nur eine, sondern verschiedene Möglichkeiten gibt, wie neue Arten entstehen (siehe Infobox). Dabei führt jeder Modus zu unterschiedlichen Ergebnissen: Es können entweder eine oder zwei neue Arten gleichzeitig entstehen, während der Vorfahre, die alte Art, entweder weiter existiert oder ausstirbt. «Diese verschiedenen Möglichkeiten hat man in den statistischen Methoden zur Analyse von Stammbäumen und Fossilien bisher nicht explizit berücksichtigt», sagt Warnock. Das neue Modell bezieht sie nun mit ein und erreicht so, dass fossilienbasierte und phylogenetische Informationen vergleichbare Artbildungs- und Aussterberaten liefern.\n\nEs gibt zudem Hinweise darauf, welcher Modus der Artentstehung bei einer Tier- oder Pflanzengruppe vorwiegend am Werk gewesen sein muss. Beispielsweise lässt sich aus dem Stammbaum der Walartigen ableiten, dass der häufigste Modus die Umwandlung war, dass also alte Arten in neue übergegangen sind (Modus 3, siehe Infobox). Somit kann das Modell künftig dazu dienen, neue Erkenntnisse über die Evolution von Organismen zu gewinnen. Zudem erlaubt es, die Ergebnisse fossilienbasierter und phylogenetischer Analysen besser als bisher in Einklang zu bringen.\n\nSilvestro D, Warnock RCM, Gavryushkina A, Stadler T. Closing the gap between palaeontological and neontological speciation and extinction rate estimates. Nature Communications, volume 9, Article number: 5237 (2018). doi: externe Seite 10.1038/s41467-018-07622-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 391,
+        "end": 395
+      },
+      {
+        "text": "Meteoriteneinschlag",
+        "label": "LOC",
+        "start": 626,
+        "end": 645
+      },
+      {
+        "text": "Rachel Warnock",
+        "label": "PER",
+        "start": 182,
+        "end": 196
+      },
+      {
+        "text": "Postdoktorandin",
+        "label": "MISC",
+        "start": 198,
+        "end": 213
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 269,
+        "end": 279
+      },
+      {
+        "text": "DNA-Analysen",
+        "label": "MISC",
+        "start": 515,
+        "end": 527
+      },
+      {
+        "text": "Fossilienfunden",
+        "label": "ORG",
+        "start": 907,
+        "end": 922
+      },
+      {
+        "text": "Rachel Warnock",
+        "label": "PER",
+        "start": 25,
+        "end": 39
+      },
+      {
+        "text": "Tanja Stadler",
+        "label": "PER",
+        "start": 44,
+        "end": 57
+      },
+      {
+        "text": "Wale",
+        "label": "LOC",
+        "start": 513,
+        "end": 517
+      },
+      {
+        "text": "Nature Communications",
+        "label": "MISC",
+        "start": 776,
+        "end": 797
+      },
+      {
+        "text": "Infobox",
+        "label": "MISC",
+        "start": 117,
+        "end": 124
+      },
+      {
+        "text": "Infobox",
+        "label": "MISC",
+        "start": 983,
+        "end": 990
+      },
+      {
+        "text": "Silvestro D",
+        "label": "PER",
+        "start": 1225,
+        "end": 1236
+      },
+      {
+        "text": "Warnock RCM",
+        "label": "PER",
+        "start": 1238,
+        "end": 1249
+      },
+      {
+        "text": "Gavryushkina A",
+        "label": "ORG",
+        "start": 1251,
+        "end": 1265
+      },
+      {
+        "text": "Stadler T. Closing",
+        "label": "PER",
+        "start": 1267,
+        "end": 1285
+      },
+      {
+        "text": "Nature Communications",
+        "label": "PER",
+        "start": 1379,
+        "end": 1400
+      },
+      {
+        "text": "Article",
+        "label": "LOC",
+        "start": 1412,
+        "end": 1419
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Nature Communications",
+        "Rachel Warnock",
+        "Silvestro D",
+        "Stadler T. Closing",
+        "Tanja Stadler",
+        "Warnock RCM"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Fossilienfunden",
+        "Gavryushkina A"
+      ],
+      "LOCATION": [
+        "Article",
+        "Erde",
+        "Meteoriteneinschlag",
+        "Wale"
+      ],
+      "DATE": [],
+      "MISC": [
+        "DNA-Analysen",
+        "Infobox",
+        "Nature Communications",
+        "Postdoktorandin"
+      ]
+    },
+    "entity_counts": {
+      "Rachel Warnock": 2,
+      "Nature Communications": 2,
+      "Infobox": 2,
+      "De News": 1,
+      "Erde": 1,
+      "Meteoriteneinschlag": 1,
+      "Postdoktorandin": 1,
+      "ETH Zürich": 1,
+      "DNA-Analysen": 1,
+      "Fossilienfunden": 1,
+      "Tanja Stadler": 1,
+      "Wale": 1,
+      "Silvestro D": 1,
+      "Warnock RCM": 1,
+      "Gavryushkina A": 1,
+      "Stadler T. Closing": 1,
+      "Article": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "unterschiedliche-evolutionsraten.md",
+      "title": "De News Events/2018/12/unterschiedliche Evolutionsraten",
+      "language": "de",
+      "source_path": "de_news_events/2018/12/unterschiedliche-evolutionsraten.html"
+    },
+    "temporal": {
+      "publication_date": "2018-12",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Nature Communications",
+        "Rachel Warnock",
+        "Silvestro D",
+        "Stadler T. Closing",
+        "Tanja Stadler",
+        "Warnock RCM"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "mathematics"
+      ],
+      "research_topics": [
+        "DNA-Analysen",
+        "Infobox",
+        "Nature Communications",
+        "Postdoktorandin"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "DNA-Analysen",
+        "Die Frequenz",
+        "Denn Artbildungs",
+        "Rachel Warnock",
+        "Warnock RCM",
+        "Wichtige Informationen",
+        "Millionen Jahren",
+        "Gavryushkina A",
+        "Arten Hinweise",
+        "De News",
+        "Tanja Stadler",
+        "Forschungsgruppe Computational",
+        "Fachzeitschrift Nature",
+        "Silvestro D",
+        "Nature Communications",
+        "Stadler T",
+        "Die Resultate",
+        "Evolutionsraten Die"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Fossilienfunden",
+        "Gavryushkina A"
+      ],
+      "locations": [
+        "Article",
+        "Erde",
+        "Meteoriteneinschlag",
+        "Wale"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Rachel Warnock",
+        "Nature Communications",
+        "Infobox",
+        "De News",
+        "Erde",
+        "Meteoriteneinschlag",
+        "Postdoktorandin",
+        "ETH Zürich",
+        "DNA-Analysen",
+        "Fossilienfunden"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Rätselhafte Abweichung",
+          "Rätselhafte Abweichung",
+          "Verschiedene Ansätze vereint",
+          "Erkenntnisse zur Artbildung"
+        ],
+        "content_length": 4110
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Fossilienfunden",
+        "Warnock RCM",
+        "Rachel Warnock",
+        "EU",
+        "ETH Zürich",
+        "Tanja Stadler",
+        "De News",
+        "Silvestro D",
+        "Nature Communications",
+        "Stadler T. Closing",
+        "Gavryushkina A"
+      ],
+      "semantic_concepts": [
+        "mathematics",
+        "DNA-Analysen",
+        "Infobox",
+        "Postdoktorandin",
+        "what",
+        "how",
+        "Nature Communications"
+      ],
+      "graph_relations": [
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

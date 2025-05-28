@@ -1,0 +1,661 @@
+{
+  "filename": "visualising-muscle-disease.md",
+  "original_filename": "visualising-muscle-disease.html",
+  "source_path": "en_news_events/2016/07/visualising-muscle-disease.html",
+  "date": "2016-07",
+  "title": "Visualising Muscle Disease",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Targeting the cannabis receptor",
+      "text": "Many people will remember the Ice Bucket Challenge back in the summer of 2014. This social media campaign helped patient support groups to promote public awareness of the rare, but debilitating and incurable muscle disease, amyotrophic lateral sclerosis (ALS). The challenge involved one person nominating three others through social media, creating a snowball effect, to make a financial donation to an ALS support group, or – as a forfeit – to pour a bucket of ice-cold water over their heads. This action was supposed to give participants a brief insight into one of the symptoms experienced by someone suffering from degenerative muscle disease.\n\nALS induces progressive degeneration of the motor neurons that control the muscles. The patient suffers from muscular atrophy and paralysis, accompanied by symptoms such as difficulty walking, speaking and swallowing. At best, drugs can delay the progression of the disease, but often life expectancy is only a few years after the initial diagnosis. Very little is known about the causes of the disease."
+    },
+    {
+      "heading": "Targeting the cannabis receptor",
+      "text": "A new marker substance developed by ETH researchers in collaboration with specialists at St. Gallen Cantonal Hospital and University Hospital Zurich could potentially make a vital contribution to ALS research. The new substance could perhaps make it possible to monitor the progression of ALS in patients using positron emission tomography (PET). The PET imaging technique renders specific molecules on the cell surface visible within the body tissue. The scan uses marker substances, known as PET ligands, that adhere to these molecules via the lock-and-key principle. The radiation emitted by the radioactive markers is very short lived, with a half-life between several minutes and a few hours. This radiation is measured during the PET scan."
+    },
+    {
+      "heading": "Therapeutic potential",
+      "text": "Positron emission tomography (PET) images of sections of a mouse brain without (left) and with (right) neuroinflammation. The yellow and red areas indicate the cannabinoid receptor 2. (Image: ETH Zurich / Simon M. Ametamey)\n\nThe newly developed PET ligand binds to a receptor molecule in the body’s neurotransmitter system for cannabis-based substances, known as the cannabinoid receptor 2 (CNR2). This is very common in inflamed nerve tissue, and is also found in the central nervous system of patients suffering from ALS.\n\n“The big challenge we faced was to develop a PET ligand that only binds to CNR2, but not to the related cannabinoid receptor 1 (CNR1),” explains Simon Ametamey, a professor at the Institute of Pharmaceutical Sciences at ETH Zurich. CNR1 occurs naturally in the human brain, where it elicits the pain-relieving and intoxicating effect of cannabis."
+    },
+    {
+      "heading": "Suitable for other diseases as well",
+      "text": "The researchers in Professor Ametamey’s group synthesised a series of molecules and performed an in vitro study to measure their ability to bind to the receptors CNR2 and CNR1. The team went on to successfully test the molecule with the most obvious preference for CNR2 in rats and mice with inflamed nerve tissue. The scientists have filed a patent for this molecule. The next step will be to perform clinical trials in humans.\n\n“The new PET ligand could help us to research ALS more effectively and to understand how the disease progresses,” says Professor Ametamey. It could also improve the early diagnosis of the disease. It might also be potentially interesting for research and diagnosis of other neurological disorders such as Alzheimer’s, Parkinson’s or multiple sclerosis.\n\nOne of the drawbacks of the new PET ligand is that it is based on the carbon-11 radioisotope, which has a very short half-life of around 20 minutes. “This means the substance can only be used in the location where it is produced,” says the professor. His team is therefore busy refining the new marker substance and incorporating the fluorine-18 radioisotope, which has a half-life of 110 minutes. Professor Ametamey reports that there has already been some initial success.\n\nThe molecule could also have therapeutic potential in a derivative, non-radioactive form: “Substances that bind to CNR2 produce an anti-inflammatory effect in the body,” he confirms. “It might therefore be possible to use related molecules to treat ALS and other neuroinflammatory diseases.”\n\nThe research programme has received funding from the Swiss ALS Foundation and the Vontobel Foundation.\n\nSlavik R, Müller Herde A, Bieri D, Weber M, Schibli R, Krämer SD, Ametamey SM, Mu L: Synthesis, radiolabeling and evaluation of novel 4-oxo-quinoline derivatives as PET tracers for imaging cannabinoid type 2 receptor. European Journal of Medicinal Chemistry, 2015. 92: 554-564, doi: 10.1016/j.ejmech.2015.01.028"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Muscle Disease",
+        "label": "WORK_OF_ART",
+        "start": 35,
+        "end": 49
+      },
+      {
+        "text": "the Ice Bucket Challenge",
+        "label": "ORG",
+        "start": 26,
+        "end": 50
+      },
+      {
+        "text": "the summer of 2014",
+        "label": "DATE",
+        "start": 59,
+        "end": 77
+      },
+      {
+        "text": "ALS",
+        "label": "ORG",
+        "start": 255,
+        "end": 258
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 284,
+        "end": 287
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 306,
+        "end": 311
+      },
+      {
+        "text": "ALS",
+        "label": "ORG",
+        "start": 404,
+        "end": 407
+      },
+      {
+        "text": "ALS",
+        "label": "ORG",
+        "start": 650,
+        "end": 653
+      },
+      {
+        "text": "only a few years",
+        "label": "DATE",
+        "start": 954,
+        "end": 970
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 36,
+        "end": 39
+      },
+      {
+        "text": "St. Gallen Cantonal Hospital and",
+        "label": "ORG",
+        "start": 89,
+        "end": 121
+      },
+      {
+        "text": "University Hospital Zurich",
+        "label": "ORG",
+        "start": 122,
+        "end": 148
+      },
+      {
+        "text": "ALS",
+        "label": "ORG",
+        "start": 196,
+        "end": 199
+      },
+      {
+        "text": "ALS",
+        "label": "ORG",
+        "start": 289,
+        "end": 292
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 351,
+        "end": 354
+      },
+      {
+        "text": "scan",
+        "label": "NORP",
+        "start": 456,
+        "end": 460
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 494,
+        "end": 497
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 647,
+        "end": 651
+      },
+      {
+        "text": "between several minutes and a few hours",
+        "label": "TIME",
+        "start": 657,
+        "end": 696
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 736,
+        "end": 739
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 30,
+        "end": 33
+      },
+      {
+        "text": "ETH Zurich / Simon M. Ametamey",
+        "label": "PERSON",
+        "start": 192,
+        "end": 222
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 244,
+        "end": 247
+      },
+      {
+        "text": "CNR2",
+        "label": "FAC",
+        "start": 390,
+        "end": 394
+      },
+      {
+        "text": "ALS",
+        "label": "ORG",
+        "start": 518,
+        "end": 521
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 568,
+        "end": 571
+      },
+      {
+        "text": "CNR2",
+        "label": "ORG",
+        "start": 598,
+        "end": 602
+      },
+      {
+        "text": "Simon Ametamey",
+        "label": "PERSON",
+        "start": 668,
+        "end": 682
+      },
+      {
+        "text": "the Institute of Pharmaceutical Sciences",
+        "label": "ORG",
+        "start": 699,
+        "end": 739
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 747,
+        "end": 753
+      },
+      {
+        "text": "Ametamey’s",
+        "label": "PERSON",
+        "start": 29,
+        "end": 39
+      },
+      {
+        "text": "CNR2",
+        "label": "FAC",
+        "start": 162,
+        "end": 166
+      },
+      {
+        "text": "CNR2",
+        "label": "FAC",
+        "start": 265,
+        "end": 269
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 438,
+        "end": 441
+      },
+      {
+        "text": "ALS",
+        "label": "ORG",
+        "start": 475,
+        "end": 478
+      },
+      {
+        "text": "Ametamey",
+        "label": "PERSON",
+        "start": 558,
+        "end": 566
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 782,
+        "end": 785
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 814,
+        "end": 817
+      },
+      {
+        "text": "carbon-11",
+        "label": "DATE",
+        "start": 852,
+        "end": 861
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 899,
+        "end": 903
+      },
+      {
+        "text": "around 20 minutes",
+        "label": "TIME",
+        "start": 912,
+        "end": 929
+      },
+      {
+        "text": "fluorine-18",
+        "label": "DATE",
+        "start": 1116,
+        "end": 1127
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 1154,
+        "end": 1158
+      },
+      {
+        "text": "110 minutes",
+        "label": "TIME",
+        "start": 1167,
+        "end": 1178
+      },
+      {
+        "text": "Ametamey",
+        "label": "PERSON",
+        "start": 1190,
+        "end": 1198
+      },
+      {
+        "text": "CNR2",
+        "label": "NORP",
+        "start": 1372,
+        "end": 1376
+      },
+      {
+        "text": "ALS",
+        "label": "ORG",
+        "start": 1506,
+        "end": 1509
+      },
+      {
+        "text": "the Swiss ALS Foundation",
+        "label": "ORG",
+        "start": 1598,
+        "end": 1622
+      },
+      {
+        "text": "the Vontobel Foundation",
+        "label": "ORG",
+        "start": 1627,
+        "end": 1650
+      },
+      {
+        "text": "Slavik",
+        "label": "PERSON",
+        "start": 1652,
+        "end": 1658
+      },
+      {
+        "text": "Müller Herde",
+        "label": "PERSON",
+        "start": 1662,
+        "end": 1674
+      },
+      {
+        "text": "Bieri D",
+        "label": "PERSON",
+        "start": 1678,
+        "end": 1685
+      },
+      {
+        "text": "Krämer SD",
+        "label": "PERSON",
+        "start": 1707,
+        "end": 1716
+      },
+      {
+        "text": "Ametamey SM",
+        "label": "PERSON",
+        "start": 1718,
+        "end": 1729
+      },
+      {
+        "text": "Mu L: Synthesis",
+        "label": "PERSON",
+        "start": 1731,
+        "end": 1746
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 1817,
+        "end": 1820
+      },
+      {
+        "text": "European Journal of Medicinal Chemistry",
+        "label": "ORG",
+        "start": 1870,
+        "end": 1909
+      },
+      {
+        "text": "10.1016",
+        "label": "CARDINAL",
+        "start": 1935,
+        "end": 1942
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ametamey",
+        "Ametamey SM",
+        "Ametamey’s",
+        "Bieri D",
+        "ETH Zurich / Simon M. Ametamey",
+        "Krämer SD",
+        "Mu L: Synthesis",
+        "Müller Herde",
+        "Simon Ametamey",
+        "Slavik"
+      ],
+      "ORG": [
+        "ALS",
+        "CNR2",
+        "ETH",
+        "European Journal of Medicinal Chemistry",
+        "PET",
+        "St. Gallen Cantonal Hospital and",
+        "University Hospital Zurich",
+        "the Ice Bucket Challenge",
+        "the Institute of Pharmaceutical Sciences",
+        "the Swiss ALS Foundation",
+        "the Vontobel Foundation"
+      ],
+      "LOCATION": [
+        "CNR2",
+        "Zurich"
+      ],
+      "DATE": [
+        "110 minutes",
+        "around 20 minutes",
+        "between several minutes and a few hours",
+        "carbon-11",
+        "fluorine-18",
+        "only a few years",
+        "the summer of 2014"
+      ],
+      "MISC": [
+        "10.1016",
+        "CNR2",
+        "Muscle Disease",
+        "One",
+        "half",
+        "one",
+        "scan",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "PET": 9,
+      "ALS": 8,
+      "CNR2": 5,
+      "half": 3,
+      "Ametamey": 2,
+      "Muscle Disease": 1,
+      "the Ice Bucket Challenge": 1,
+      "the summer of 2014": 1,
+      "one": 1,
+      "three": 1,
+      "only a few years": 1,
+      "ETH": 1,
+      "St. Gallen Cantonal Hospital and": 1,
+      "University Hospital Zurich": 1,
+      "scan": 1,
+      "between several minutes and a few hours": 1,
+      "ETH Zurich / Simon M. Ametamey": 1,
+      "Simon Ametamey": 1,
+      "the Institute of Pharmaceutical Sciences": 1,
+      "Zurich": 1
+    },
+    "total_entities": 58,
+    "unique_entities": 36
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "visualising-muscle-disease.md",
+      "title": "En News Events/2016/07/visualising Muscle Disease",
+      "language": "en",
+      "source_path": "en_news_events/2016/07/visualising-muscle-disease.html"
+    },
+    "temporal": {
+      "publication_date": "2016-07",
+      "mentioned_years": [
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Ametamey",
+        "Ametamey SM",
+        "Ametamey’s",
+        "Bieri D",
+        "ETH Zurich / Simon M. Ametamey",
+        "Krämer SD",
+        "Mu L: Synthesis",
+        "Müller Herde",
+        "Simon Ametamey",
+        "Slavik"
+      ],
+      "people_with_roles": {
+        "Ametamey": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Ametamey’s": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Simon Ametamey": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1016",
+        "CNR2",
+        "Muscle Disease",
+        "half",
+        "scan",
+        "three"
+      ],
+      "grants_funding": [
+        "EU",
+        "funding"
+      ],
+      "projects": [
+        "Mu L",
+        "Gallen Cantonal",
+        "University Hospital",
+        "Medicinal Chemistry",
+        "Muscle Disease",
+        "Simon Ametamey",
+        "Weber M",
+        "Vontobel Foundation",
+        "The PET",
+        "Slavik R",
+        "Pharmaceutical Sciences",
+        "Ametamey SM",
+        "Schibli R",
+        "European Journal",
+        "Simon M",
+        "Swiss ALS",
+        "En News",
+        "Professor Ametamey",
+        "Herde A",
+        "Bieri D",
+        "ETH Zurich",
+        "Ice Bucket"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ALS",
+        "CNR2",
+        "ETH",
+        "European Journal of Medicinal Chemistry",
+        "PET",
+        "St. Gallen Cantonal Hospital and",
+        "University Hospital Zurich",
+        "the Ice Bucket Challenge",
+        "the Institute of Pharmaceutical Sciences",
+        "the Swiss ALS Foundation",
+        "the Vontobel Foundation"
+      ],
+      "locations": [
+        "CNR2",
+        "Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "PET",
+        "ALS",
+        "CNR2",
+        "half",
+        "Ametamey",
+        "Muscle Disease",
+        "the Ice Bucket Challenge",
+        "the summer of 2014",
+        "one",
+        "three"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Targeting the cannabis receptor",
+          "Targeting the cannabis receptor",
+          "Therapeutic potential",
+          "Suitable for other diseases as well"
+        ],
+        "content_length": 4691
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the Institute of Pharmaceutical Sciences",
+        "Ametamey",
+        "the Vontobel Foundation",
+        "the Swiss ALS Foundation",
+        "2016",
+        "Simon Ametamey",
+        "ETH Zurich / Simon M. Ametamey",
+        "St. Gallen Cantonal Hospital and",
+        "Slavik",
+        "funding",
+        "European Journal of Medicinal Chemistry",
+        "Ametamey’s",
+        "2014",
+        "PET",
+        "2015",
+        "CNR2",
+        "Müller Herde",
+        "EU",
+        "Ametamey SM",
+        "Krämer SD",
+        "ALS",
+        "the Ice Bucket Challenge",
+        "University Hospital Zurich",
+        "Mu L: Synthesis",
+        "Bieri D"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1016",
+        "CNR2",
+        "three",
+        "half",
+        "who",
+        "scan",
+        "chemistry",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "where",
+        "Muscle Disease"
+      ],
+      "graph_relations": [
+        "Ametamey_has_role_Professor",
+        "Ametamey_has_role_researcher",
+        "Ametamey_has_role_professor",
+        "Ametamey’s_has_role_Professor",
+        "Ametamey’s_has_role_researcher",
+        "Ametamey’s_has_role_professor",
+        "Simon Ametamey_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

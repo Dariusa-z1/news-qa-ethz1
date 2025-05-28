@@ -1,0 +1,191 @@
+{
+  "filename": "pocket-sized-plan-hot-off-the-press.md",
+  "original_filename": "pocket-sized-plan-hot-off-the-press.html",
+  "source_path": "en_internal/2016/10/pocket-sized-plan-hot-off-the-press.html",
+  "date": "2016-10",
+  "title": "Pocket Sized Plan Hot Off The Press",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The orientation map shows the buildings used by ETH Zurich. Several legends help you find a selection of departments, research units, libraries and other ETH facilities, such as canteens and sports facilities. Key public transport connections are also indicated, as are information points where you can obtain assistance with any questions you may have.\n\nYou can order the new plans from today in our office supplies webshop – under “Publications”. If you have any queries about how to place an order, please contact in the Services department at (Tel. +41 44 633 80 30).\n\nThe new fold-out plans are available in both German and English."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 48,
+        "end": 58
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 154,
+        "end": 157
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 387,
+        "end": 392
+      },
+      {
+        "text": "Services",
+        "label": "ORG",
+        "start": 523,
+        "end": 531
+      },
+      {
+        "text": "Tel",
+        "label": "PERSON",
+        "start": 547,
+        "end": 550
+      },
+      {
+        "text": "80 30",
+        "label": "DATE",
+        "start": 563,
+        "end": 568
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 616,
+        "end": 622
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 627,
+        "end": 634
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Tel"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Services"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "80 30",
+        "today"
+      ],
+      "MISC": [
+        "English",
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 1,
+      "ETH": 1,
+      "today": 1,
+      "Services": 1,
+      "Tel": 1,
+      "80 30": 1,
+      "German": 1,
+      "English": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "pocket-sized-plan-hot-off-the-press.md",
+      "title": "En Internal/2016/10/pocket Sized Plan Hot Off The Press",
+      "language": "en",
+      "source_path": "en_internal/2016/10/pocket-sized-plan-hot-off-the-press.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Tel"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "English",
+        "German"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Sized Plan",
+        "Hot Off",
+        "En Internal",
+        "ETH Zurich",
+        "The Press"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Services"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "ETH",
+        "today",
+        "Services",
+        "Tel",
+        "80 30",
+        "German",
+        "English"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 693
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Tel",
+        "ETH",
+        "Services",
+        "2016",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "English",
+        "what",
+        "how",
+        "German",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

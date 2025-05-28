@@ -1,0 +1,12 @@
+# funding-shows-effect.html
+
+**Source:** en_news_events/2024/03/funding-shows-effect.html
+
+## Main article
+
+Last year, numerous private individuals, foundations and companies supported ETH Zurich with more than 3500 donations, bequests and legacies totalling over 130 million Swiss francs.
+
+The partnership between ETH and the Dieter Schwarz Foundation marked a milestone in 2023. It will make it possible to help shape the digital transformation responsibly over the next 30 years to an extent that could not be achieved with regular ETH funding and structures. Up to 20 professorships are planned, as well as the establishment of a teaching and research centre in Heilbronn with global reach.
+
+Donors and partners have made even more possible in the past year: among other things, research for children and adolescents at the Basel Research Centre for Child Health (BRCCH) can be greatly expanded together with the University of Basel thanks to a further generous donation of 50 million from the Fondation Botnar. The Halter Group supports the field of digital planning and construction. The private sponsorship of a couple contributes to the training of future peace mediators. Finally, more and more private individuals, foundations and companies are committed to the promotion of young talent; last year they supported many students and young entrepreneurs on their path.
+

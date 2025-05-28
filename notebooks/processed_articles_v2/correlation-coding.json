@@ -1,0 +1,529 @@
+{
+  "filename": "correlation-coding.md",
+  "original_filename": "correlation-coding.html",
+  "source_path": "de_news_events/2019/02/correlation-coding.html",
+  "date": "2019-02",
+  "title": "Correlation Coding",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Korrelationen im Doppelspalt",
+      "text": "Um möglichst viele Informationen gleichzeitig von A nach B zu übertragen, haben Wissenschaftler und Ingenieure in den letzten Jahrzehnten immer ausgefeiltere Methoden entwickelt. Allgemein als Multiplexverfahren bezeichnet, erlauben diese Techniken, mehr Signale zu übermitteln, als Übertragungskanäle vorhanden sind. Ein typisches Beispiel dafür ist die Rundfunkübertragung auf verschiedenen Frequenzen. Wissenschaftler der ETH Zürich haben nun eine neues Multiplexverfahren erfunden, das auf Rauschen basiert – also auf etwas, das man normalerweise eigentlich vermeiden möchte."
+    },
+    {
+      "heading": "Ferngesteuertes Experiment",
+      "text": "Shawn Divitt und Lukas Novotny haben für die neue Codierungstechnik ein Patent eingereicht. (Bilder: zVg S.Divitt und L. Novotny)\n\nShawn Divitt, der als Doktorand in der Arbeitsgruppe von Professor Lukas Novotny am Departement Informationstechnologie und Elektrotechnik vor zwei Jahren den Anstoss zur Entwicklung der neuen Technik gab, war eigentlich schon fast mit seiner Doktorarbeit fertig, als ihm eine Idee kam.\n\nIn einem Doppelspalt-Experiment - einem Klassiker der Physikgeschichte - hatte er untersucht, wie sich Korrelationen zwischen den Lichtwellen in den beiden Spalten bilden und auf das Interferenzmuster auswirken. Korrelationen sagen etwas darüber aus, wie gut man zum Beispiel die Schwingungsphase einer Lichtwelle vorhersagen kann, wenn man die Phase der anderen Welle kennt. Auch wenn beide Phasen fluktuieren oder «rauschen», so können sie dies doch auf mehr oder weniger synchronisierte Weise tun. Sind die Korrelationen stark, so bildet sich im Doppelspalt-Experiment ein gut sichtbares Interferenzmuster auf einem Schirm hinter den Spalten. Schwache Korrelationen lassen das Interferenzmuster dagegen verblassen oder ganz verschwinden.\n\n«Die Idee war, dieses Prinzip zu verallgemeinern und damit Informationen zu kodieren», erklärt Divitt. Dazu berechnete er die Korrelationen zwischen mehreren räumlich getrennten Lichtwellen, die zum Beispiel durch gebündelte Glasfasern übertragen werden. «Das Interessante dabei ist, dass die Korrelationen paarweise zwischen den Lichtwellen bestehen, wodurch die Zahl dieser Korrelationen nicht linear mit der Anzahl der Lichtwellen ansteigt, sondern in etwa quadratisch», sagt Divitt.\n\nInterferenzmuster (oben) und daraus errechnete Korrelationen (unten) im Experiment mit drei simulierten Glasfasern. Die Datenbits «000» und «111» ergeben sich aus den negativen und positiven Korrelationen im Rauschen der Lichtwellen, sichtbar als dunkle und helle Punkte. (Bilder: S. Divitt et al./ETH Zürich)\n\nIm Prinzip sollte es daher zum Beispiel möglich sein, mit vier Lichtwellen sechs Bits an Information in Form von Korrelationen zu kodieren, mit acht Lichtwellen 28 Bits, und so fort. Der Wert «1» eines Bits kann dann durch eine positive Korrelation (synchrones Rauschen), der Wert «0» dagegen durch eine negative Korrelation dargestellt werden."
+    },
+    {
+      "heading": "Ferngesteuertes Experiment",
+      "text": "Auf dem Papier funktionierte diese Art der «Korrelations-Kodierung» perfekt. Um sicher zu gehen, dass sie auch praktisch umsetzbar war, wollte Divitt sie jedoch zusätzlich in einem Experiment testen. Das Problem dabei: Divitt ist amerikanischer Staatsbürger, und sein Visum lief mit Ende seines Doktorats aus. Also ging er einen eher ungewöhnlichen Weg. Vor seiner Rückreise in die USA baute er in Novotnys Labor ein Experiment auf, in dem mit Hilfe eines so gennannten räumlichen Lichtmodulators die Kodierung von Informationen in einem Glasfaserbündel simuliert wird. Dazu werden die Korrelationen der Lichtwellen in den simulierten Glasfasern entsprechend manipuliert und danach mit Hilfe eines Interferenzmusters ausgelesen. Zurück in den USA, liess Divitt das Experiment dann laufen – mittels Computer-Fernsteuerung. Kollegen in Zürich sorgten derweil dafür, dass der experimentelle Aufbau immer in Schuss war.\n\nDie Ergebnisse analysierte Divitt anschliessend ebenfalls per «home office» und stellte fest, dass seine Methode tatsächlich funktionierte. Mittlerweile haben er und sein Doktorvater bereits ein Patent dafür eingereicht. «So eine Art von Forschung ist natürlich schon etwas ungewöhnlich», sagt Novotny dazu. «Sie war auch nur machbar, weil die ETH die entsprechenden Freiräume bereitstellt, um auch mal wilde Ideen zu testen – im Zweifelsfall sogar aus der Ferne».\n\nVon ihrem Verfahren versprechen sich Divitt und Novotny einerseits die Möglichkeit, die Übertragungskapazitäten von Glasfaserkabeln noch weiter zu erhöhen. Da ihre Methode kein kohärentes Laserlicht voraussetzt, sondern auch mit normalen Lichtquellen funktioniert, sollte sie zudem auch billiger sein als konventionelle Technologien. Andererseits könnte die Korrelations-Kodierung auch zur Datensicherheit beitragen. Da die Schwingungen von Lichtwellen aufgrund ihrer hohen Frequenz nicht in «Echtzeit» aufgenommen werden können, müsste ein etwaiger Lauscher einen beträchtlichen Teil der Lichtleistung abzweigen, um daraus Interferenzmuster zu gewinnen und die Informationen damit abzufangen. Das wiederum würde sofort auffallen, womit der Lauscher enttarnt wäre.\n\nNovotny möchte in Zukunft die Vorteile und möglichen Anwendungen der Korrelations-Kodierung mit einem neuen Doktoranden weiter ausloten. Divitt lebt mittlerweile mit seiner fünfköpfigen Familie in der Gegend um Washington D.C., wo er als Forscher arbeitet. An seine Zeit in Zürich und sein ferngesteuertes Experiment erinnert er sich gerne zurück. Die Disziplin, um ein solches Vorhaben durchzuziehen, hat er sich bereits als junger Doktorand angeeignet: «Als ich an die ETH ging, hatten wir ja schon unseren ersten Sohn, ich musste mich daher von Anfang an immer gut organisieren», sagt Divitt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Rundfunkübertragung",
+        "label": "ORG",
+        "start": 355,
+        "end": 374
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 425,
+        "end": 435
+      },
+      {
+        "text": "Shawn Divitt",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Lukas Novotny",
+        "label": "PER",
+        "start": 17,
+        "end": 30
+      },
+      {
+        "text": "zVg S.Divitt",
+        "label": "PER",
+        "start": 101,
+        "end": 113
+      },
+      {
+        "text": "L. Novotny",
+        "label": "PER",
+        "start": 118,
+        "end": 128
+      },
+      {
+        "text": "Shawn Divitt",
+        "label": "PER",
+        "start": 130,
+        "end": 142
+      },
+      {
+        "text": "Lukas Novotny",
+        "label": "PER",
+        "start": 197,
+        "end": 210
+      },
+      {
+        "text": "Doppelspalt-Experiment",
+        "label": "MISC",
+        "start": 426,
+        "end": 448
+      },
+      {
+        "text": "Korrelationen",
+        "label": "PER",
+        "start": 520,
+        "end": 533
+      },
+      {
+        "text": "Lichtwellen",
+        "label": "LOC",
+        "start": 547,
+        "end": 558
+      },
+      {
+        "text": "Doppelspalt-Experiment",
+        "label": "LOC",
+        "start": 966,
+        "end": 988
+      },
+      {
+        "text": "Schwache",
+        "label": "LOC",
+        "start": 1063,
+        "end": 1071
+      },
+      {
+        "text": "Glasfasern",
+        "label": "LOC",
+        "start": 1383,
+        "end": 1393
+      },
+      {
+        "text": "Lichtwellen",
+        "label": "LOC",
+        "start": 1488,
+        "end": 1499
+      },
+      {
+        "text": "Datenbits",
+        "label": "ORG",
+        "start": 1765,
+        "end": 1774
+      },
+      {
+        "text": "S. Divitt",
+        "label": "PER",
+        "start": 1926,
+        "end": 1935
+      },
+      {
+        "text": "Korrelations-Kodierung",
+        "label": "MISC",
+        "start": 44,
+        "end": 66
+      },
+      {
+        "text": "Divitt",
+        "label": "PER",
+        "start": 143,
+        "end": 149
+      },
+      {
+        "text": "Divitt",
+        "label": "PER",
+        "start": 219,
+        "end": 225
+      },
+      {
+        "text": "amerikanischer",
+        "label": "MISC",
+        "start": 230,
+        "end": 244
+      },
+      {
+        "text": "USA",
+        "label": "LOC",
+        "start": 382,
+        "end": 385
+      },
+      {
+        "text": "Novotnys",
+        "label": "LOC",
+        "start": 398,
+        "end": 406
+      },
+      {
+        "text": "Lichtmodulators",
+        "label": "ORG",
+        "start": 481,
+        "end": 496
+      },
+      {
+        "text": "Glasfasern",
+        "label": "ORG",
+        "start": 635,
+        "end": 645
+      },
+      {
+        "text": "den USA",
+        "label": "LOC",
+        "start": 739,
+        "end": 746
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 834,
+        "end": 840
+      },
+      {
+        "text": "Divitt",
+        "label": "PER",
+        "start": 943,
+        "end": 949
+      },
+      {
+        "text": "Novotny",
+        "label": "PER",
+        "start": 1210,
+        "end": 1217
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1260,
+        "end": 1263
+      },
+      {
+        "text": "Divitt",
+        "label": "PER",
+        "start": 1418,
+        "end": 1424
+      },
+      {
+        "text": "Novotny",
+        "label": "PER",
+        "start": 1429,
+        "end": 1436
+      },
+      {
+        "text": "Glasfaserkabeln",
+        "label": "LOC",
+        "start": 1497,
+        "end": 1512
+      },
+      {
+        "text": "Lichtwellen",
+        "label": "LOC",
+        "start": 1822,
+        "end": 1833
+      },
+      {
+        "text": "Lauscher",
+        "label": "LOC",
+        "start": 2122,
+        "end": 2130
+      },
+      {
+        "text": "Novotny",
+        "label": "PER",
+        "start": 2146,
+        "end": 2153
+      },
+      {
+        "text": "Divitt",
+        "label": "PER",
+        "start": 2283,
+        "end": 2289
+      },
+      {
+        "text": "Washington D.C.",
+        "label": "LOC",
+        "start": 2357,
+        "end": 2372
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 2412,
+        "end": 2416
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 2420,
+        "end": 2426
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2617,
+        "end": 2620
+      },
+      {
+        "text": "Sohn",
+        "label": "PER",
+        "start": 2662,
+        "end": 2666
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Divitt",
+        "Korrelationen",
+        "L. Novotny",
+        "Lukas Novotny",
+        "Novotny",
+        "S. Divitt",
+        "Shawn Divitt",
+        "Sohn",
+        "zVg S.Divitt"
+      ],
+      "ORG": [
+        "Datenbits",
+        "ETH",
+        "ETH Zürich",
+        "Glasfasern",
+        "Lichtmodulators",
+        "Rundfunkübertragung"
+      ],
+      "LOCATION": [
+        "Doppelspalt-Experiment",
+        "Glasfaserkabeln",
+        "Glasfasern",
+        "Lauscher",
+        "Lichtwellen",
+        "Novotnys",
+        "Schwache",
+        "USA",
+        "Washington D.C.",
+        "Zürich",
+        "den USA"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Doppelspalt-Experiment",
+        "Korrelations-Kodierung",
+        "Zeit",
+        "amerikanischer"
+      ]
+    },
+    "entity_counts": {
+      "Divitt": 5,
+      "Lichtwellen": 3,
+      "Novotny": 3,
+      "Shawn Divitt": 2,
+      "Lukas Novotny": 2,
+      "Doppelspalt-Experiment": 2,
+      "Glasfasern": 2,
+      "Zürich": 2,
+      "ETH": 2,
+      "De News": 1,
+      "Rundfunkübertragung": 1,
+      "ETH Zürich": 1,
+      "zVg S.Divitt": 1,
+      "L. Novotny": 1,
+      "Korrelationen": 1,
+      "Schwache": 1,
+      "Datenbits": 1,
+      "S. Divitt": 1,
+      "Korrelations-Kodierung": 1,
+      "amerikanischer": 1
+    },
+    "total_entities": 43,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "correlation-coding.md",
+      "title": "De News Events/2019/02/correlation Coding",
+      "language": "de",
+      "source_path": "de_news_events/2019/02/correlation-coding.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Divitt",
+        "Korrelationen",
+        "L. Novotny",
+        "Lukas Novotny",
+        "Novotny",
+        "S. Divitt",
+        "Shawn Divitt",
+        "Sohn",
+        "zVg S.Divitt"
+      ],
+      "people_with_roles": {
+        "Divitt": [
+          "professor"
+        ],
+        "Lukas Novotny": [
+          "Professor",
+          "professor"
+        ],
+        "Novotny": [
+          "professor"
+        ],
+        "Shawn Divitt": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Doppelspalt-Experiment",
+        "Korrelations-Kodierung",
+        "Zeit",
+        "amerikanischer"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Computer-Fernsteuerung",
+        "Die Disziplin",
+        "Im Prinzip",
+        "Das Problem",
+        "Coding Um",
+        "Lukas Novotny",
+        "Doppelspalt-Experiment",
+        "Professor Lukas",
+        "Der Wert",
+        "Washington D",
+        "Schwache Korrelationen",
+        "Departement Informationstechnologie",
+        "Die Idee",
+        "Die Datenbits",
+        "Korrelations-Kodierung",
+        "Die Ergebnisse",
+        "Shawn Divitt",
+        "Novotnys Labor",
+        "De News",
+        "Das Interessante"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Datenbits",
+        "ETH",
+        "ETH Zürich",
+        "Glasfasern",
+        "Lichtmodulators",
+        "Rundfunkübertragung"
+      ],
+      "locations": [
+        "Doppelspalt-Experiment",
+        "Glasfaserkabeln",
+        "Glasfasern",
+        "Lauscher",
+        "Lichtwellen",
+        "Novotnys",
+        "Schwache",
+        "USA",
+        "Washington D.C.",
+        "Zürich",
+        "den USA"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Divitt",
+        "Lichtwellen",
+        "Novotny",
+        "Shawn Divitt",
+        "Lukas Novotny",
+        "Doppelspalt-Experiment",
+        "Glasfasern",
+        "Zürich",
+        "ETH",
+        "De News"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Korrelationen im Doppelspalt",
+          "Ferngesteuertes Experiment",
+          "Ferngesteuertes Experiment"
+        ],
+        "content_length": 5671
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Lukas Novotny",
+        "zVg S.Divitt",
+        "ETH",
+        "L. Novotny",
+        "Korrelationen",
+        "Sohn",
+        "Glasfasern",
+        "2019",
+        "Datenbits",
+        "EU",
+        "Lichtmodulators",
+        "Novotny",
+        "Shawn Divitt",
+        "ETH Zürich",
+        "De News",
+        "Rundfunkübertragung",
+        "Divitt",
+        "S. Divitt"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Doppelspalt-Experiment",
+        "who",
+        "amerikanischer",
+        "what",
+        "how",
+        "Korrelations-Kodierung",
+        "Zeit",
+        "when"
+      ],
+      "graph_relations": [
+        "Divitt_has_role_professor",
+        "Lukas Novotny_has_role_Professor",
+        "Lukas Novotny_has_role_professor",
+        "Novotny_has_role_professor",
+        "Shawn Divitt_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

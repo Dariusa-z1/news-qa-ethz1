@@ -1,0 +1,216 @@
+{
+  "filename": "free-places-for-kihz-holiday-childcare.md",
+  "original_filename": "free-places-for-kihz-holiday-childcare.html",
+  "source_path": "en_internal/2023/03/free-places-for-kihz-holiday-childcare.html",
+  "date": "2023-03",
+  "title": "Free Places For Kihz Holiday Childcare",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The two-week spring school holidays will be starting in Zurich on 24 April. The kihz Foundation offers subsidised holiday childcare based on income for children of university members (ETH Zurich and University of Zurich). Children aged four to seven and seven to ten are provided with all-day care during the one-week holiday courses. A week on the theme of “ underwater worlds ” or “ pony riding ” are just two of the things children can look forward to in the coming spring holidays.\n\nThere are still free places available for all the holiday courses, but you are recommended to register soon for the spring holidays. The entire programme including registration can be found on the kihz programme website .\n\nWe wish you happy holidays!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "two-week",
+        "label": "DATE",
+        "start": 4,
+        "end": 12
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 56,
+        "end": 62
+      },
+      {
+        "text": "24 April",
+        "label": "DATE",
+        "start": 66,
+        "end": 74
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 184,
+        "end": 194
+      },
+      {
+        "text": "University of Zurich",
+        "label": "ORG",
+        "start": 199,
+        "end": 219
+      },
+      {
+        "text": "four to seven and seven",
+        "label": "DATE",
+        "start": 236,
+        "end": 259
+      },
+      {
+        "text": "all-day",
+        "label": "DATE",
+        "start": 285,
+        "end": 292
+      },
+      {
+        "text": "one-week",
+        "label": "DATE",
+        "start": 309,
+        "end": 317
+      },
+      {
+        "text": "A week",
+        "label": "DATE",
+        "start": 335,
+        "end": 341
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 408,
+        "end": 411
+      },
+      {
+        "text": "the coming spring holidays",
+        "label": "DATE",
+        "start": 458,
+        "end": 484
+      },
+      {
+        "text": "the spring holidays",
+        "label": "DATE",
+        "start": 598,
+        "end": 617
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zurich",
+        "University of Zurich"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "24 April",
+        "A week",
+        "all-day",
+        "four to seven and seven",
+        "one-week",
+        "the coming spring holidays",
+        "the spring holidays",
+        "two-week"
+      ],
+      "MISC": [
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "two-week": 1,
+      "Zurich": 1,
+      "24 April": 1,
+      "ETH Zurich": 1,
+      "University of Zurich": 1,
+      "four to seven and seven": 1,
+      "all-day": 1,
+      "one-week": 1,
+      "A week": 1,
+      "two": 1,
+      "the coming spring holidays": 1,
+      "the spring holidays": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "free-places-for-kihz-holiday-childcare.md",
+      "title": "En Internal/2023/03/free Places For Kihz Holiday Childcare",
+      "language": "en",
+      "source_path": "en_internal/2023/03/free-places-for-kihz-holiday-childcare.html"
+    },
+    "temporal": {
+      "publication_date": "2023-03",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Places For",
+        "En Internal",
+        "Childcare The",
+        "ETH Zurich",
+        "Kihz Holiday"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "University of Zurich"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "two-week",
+        "Zurich",
+        "24 April",
+        "ETH Zurich",
+        "University of Zurich",
+        "four to seven and seven",
+        "all-day",
+        "one-week",
+        "A week",
+        "two"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 796
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "University of Zurich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

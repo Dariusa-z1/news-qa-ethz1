@@ -1,0 +1,190 @@
+{
+  "filename": "mm-mutmasslicher-hacker-verhaftet.md",
+  "original_filename": "mm-mutmasslicher-hacker-verhaftet.html",
+  "source_path": "de_news_events/2016/02/mm-mutmasslicher-hacker-verhaftet.html",
+  "date": "2016-02",
+  "title": "Mm Mutmasslicher Hacker Verhaftet",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Im Januar 2016 hat sich ein unbekannter Täter unerlaubt Zugang zum IT-System der ETH Zürich verschafft, sich so ins Netzwerk der ETH Zürich eingeloggt, über das ETH-System Software bestellt und Daten heruntergeladen. Mitarbeitende der Abteilungen Sicherheit und Informatikdienste der ETH Zürich hatten am 26. Januar 2016 unrechtmässige Manipulationen festgestellt. Daraufhin hat die ETH Zürich umgehend Anzeige gegen Unbekannt erstattet.\n\nEs wurden unverzüglich Sicherungsmassnahmen in die Wege geleitet, um das ETH-Netzwerk vor weiteren Zugriffen zu schützen. Dank der guten Zusammenarbeit mit dem Kompetenzzentrum Cybercrime sowie der Informatikdienste der ETH Zürich gelang es, den mutmasslichen Hacker nach kurzer Zeit zu fassen. Beim Verdächtigen handelt es sich um einen ETH-Studierenden. Die ETH Zürich analysiert nun die Situation und rekonstruiert das unerlaubte Vorgehen. Aus den Erkenntnissen wird sie anschliessend die nötigen Konsequenzen ableiten und umsetzen.\n\nETH Zürich Medienstelle Telefon: +41 44 632 41 41"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Mutmasslicher",
+        "label": "PER",
+        "start": 26,
+        "end": 39
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 81,
+        "end": 91
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 129,
+        "end": 139
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 284,
+        "end": 294
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 383,
+        "end": 393
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 658,
+        "end": 668
+      },
+      {
+        "text": "ETH-Studierenden",
+        "label": "ORG",
+        "start": 776,
+        "end": 792
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 798,
+        "end": 808
+      },
+      {
+        "text": "Erkenntnissen",
+        "label": "LOC",
+        "start": 889,
+        "end": 902
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 974,
+        "end": 984
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Mutmasslicher"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Studierenden"
+      ],
+      "LOCATION": [
+        "Erkenntnissen"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zürich": 7,
+      "Mutmasslicher": 1,
+      "ETH-Studierenden": 1,
+      "Erkenntnissen": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mm-mutmasslicher-hacker-verhaftet.md",
+      "title": "De News Events/2016/02/mm Mutmasslicher Hacker Verhaftet",
+      "language": "de",
+      "source_path": "de_news_events/2016/02/mm-mutmasslicher-hacker-verhaftet.html"
+    },
+    "temporal": {
+      "publication_date": "2016-02",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Mutmasslicher"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "ETH-System",
+        "Verhaftet Im",
+        "Kompetenzzentrum Cybercrime",
+        "ETH-Netzwerk",
+        "Medienstelle Telefon",
+        "Mutmasslicher Hacker",
+        "Abteilungen Sicherheit",
+        "ETH-Studierenden",
+        "De News",
+        "Die ETH",
+        "IT-System"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Studierenden"
+      ],
+      "locations": [
+        "Erkenntnissen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "Mutmasslicher",
+        "ETH-Studierenden",
+        "Erkenntnissen"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1082
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Mutmasslicher",
+        "2016",
+        "ETH Zürich",
+        "ETH-Studierenden",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "computer_science",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

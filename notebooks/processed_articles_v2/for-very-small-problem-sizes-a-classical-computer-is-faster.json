@@ -1,0 +1,663 @@
+{
+  "filename": "for-very-small-problem-sizes-a-classical-computer-is-faster.md",
+  "original_filename": "for-very-small-problem-sizes-a-classical-computer-is-faster.html",
+  "source_path": "en_news_events/2023/05/for-very-small-problem-sizes-a-classical-computer-is-faster.html",
+  "date": "2023-05",
+  "title": "For Very Small Problem Sizes A Classical Computer Is Faster",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Abstract",
+      "text": "- The great promise of quantum computers is that, based on quantum mechanical principles, they are capable of solving certain computational problems fundamentally faster than classical computers\n\n- However, for quantum computers to realise their principal speed advantages in practice, algorithmic improvements and new kinds of high-speed quantum algorithms are required to achieve practical quantum speedups for a range of applications\n\n- In general, quantum computers will be practical for “big compute” problems on small data. This is true especially for problems that admit an exponential quantum speedup\n\nQuantum computers promise to be capable of solving some computational problems much faster than classical computers. To what extent is this true, or at least realistic? Torsten Hoefler: In general, this statement is true. Quantum computers can indeed solve some computational problems fundamentally faster than classical computers do. I would say they really are capable to reduce the computational time from decades or years to hours or even minutes. Although this is true, it is not realistic for all computational problems.\n\nFor what problems are quantum computers not faster? Torsten Hoefler: For example, if we want to make weather prediction or climate simulation much faster, then I wouldn't know by today how to accelerate these applications considerably with a quantum computer. In the same way, I wouldn't know how to significantly speed up machine learning with a quantum computer today. Also, for fluid dynamics in the turbulent regimes, we will most likely not achieve practical advantage with current quantum algorithms in the foreseeable future.\n\nDo you see any areas of application in basic research or industry where quantum computers can display their advantages in the near future? Torsten Hoefler: So far, we know for sure that quantum computing is extremely relevant to a huge range of research and development. I am thinking of problems such as breaking the known cryptographic schemes based on prime factorisation. Or, when it comes to simulating chemical systems at a very high precision, then quantum computing has an amazing impact potential. Furthermore, quantum computing is very promising for research areas such as simulating material properties that are due to quantum effects, new medications for the future, inventing new fertilisers or understanding how biological systems work. In all these fields, quantum computers can play a crucial role to speed up computation time."
+    },
+    {
+      "heading": "The interview background",
+      "text": "But this is still a vision for the future? Torsten Hoefler: Yes, but even if quantum computing is not yet applicable to every open question in these fields, we clearly see a path towards how to better exploit the potential of quantum computers. But this is not true for all algorithms. You can’t just take any algorithm, run it on a quantum computer and your computations become automatically faster. In principle, quantum computers might solve any computational problem, but the decisive question for their application is which problems do they practically solve faster or at lower cost than classical computers.\n\nIn a recent review article that appeared in the authoritative computer science journal Communications of the ACM, ETH Zurich Professor of computer science, Torsten Hoefler, together with former ETH Zurich professor Matthias Troyer, now Corporate Vice President at Microsoft USA, and ETH Zurich Graduate Thomas Häner, now Senior Research Scientist at Amazon Web Services, Zurich, outline how to realistically achieve quantum speedups beyond the hype."
+    },
+    {
+      "heading": "Reference",
+      "text": "To what extent do you revise the assumption that quantum computers are always faster than classical computers? Torsten Hoefler: Some people assume that quantum computers are fundamentally faster because they are capable to solve many problems in quadratically fewer steps. But a single quantum computational step is much slower than a classical one. Due to the principles of quantum mechanics such as superposition, interference or entanglement, fewer computational steps are necessary to solve a given problem. This is the reason why quantum computers promise to solve certain problems faster than classical computers. Nevertheless, it would be a fallacy to believe that quantum computers may solve any problem supremely faster than conventional ones do.\n\nWhy is that? Torsten Hoefler: Given the current design of quantum computation, each computational step will be slower than a corresponding classical one. This is due to the high complexity of error correction and other systems effects in quantum computation today. Furthermore, in conventional computing the industry has been driving the technologies since 60 years to an extent that they have become extremely fast. Today, a classical computer can execute millions up to billions of steps per second. A quantum computer on the other hand can only execute hundreds of thousands up to maybe millions of steps per second. For this reason, quantum computing is not inherently superior in every case. This misconception of an all-encompassing quantum supremacy is what we try to dispel. Nonetheless, I am very optimistic that we will build reliable quantum computers.\n\nWhat scientific findings did you come to in your study? For what types of problems are quantum computers most likely to be faster? Torsten Hoefler: We compared the performance of a market-leading classical chip to an optimistically designed quantum chip, each for the same problem. This way, we are the first to have identified what exactly is required for quantum computers to achieve real speed advantage. Our analysis shows that with pretty much all algorithms, the classical computer is faster for very small problem sizes and the quantum computer is faster for very large problem sizes. This is because the time to solve certain problems on a quantum computer grows more slowly with the size of the problems than on classical computers (see graphic). That’s what we call quantum speedup. We also see that, in general, quantum computers are comparatively faster and more practical for “big compute” problems on small data, but they are not practical for big data problems. Due to limitations of input and output bandwidth, big data is a problem which classical computer calculate faster. Furthermore, classical computers also solve a search problem in a database faster than a quantum computer. Therefore, quantum computing has been falsely hyped in the context of big data.\n\nOne of your findings is that “quadratic speedup” is not good enough for quantum computers to really take advantage of their potential speedup advantages. Torsten Hoefler: In our study we show that quadratic speedups, which reduce computation time by taking the square root of an algorithm's running time, are insufficient for practical quantum advantage in the foreseeable future. We see that if only quadratic speedup is implemented, then for many problems quantum computation will still take several months, which would be too slow and too expensive in practice. From this, we derive that at least cubic or quartic speedups based on the third and fourth roots are required, because only then thousands or millions of computing operations are feasible. But even cubic or quartic speedups are only the lowest requirement. It is necessary to focus on exponential speedups, where the running time of the quantum algorithm is the logarithm of the running time of the classical algorithm. Therefore, the most promising candidates for achieving real practical quantum advantages are small-data problems with exponential speedup.\n\nWhat needs to be done differently to eventually achieve true high-speed quantum computation? Torsten Hoefler: One decisive key to realising quantum speedup are more novel quantum algorithms. Without significant algorithmic improvements, a wide range of often-cited applications is unlikely to result in practical quantum advantage. From a practical perspective, most of the quantum algorithms we have today are not enabling real quantum speedups. Even if we know that cubic, quartic, or exponential algorithms result in higher quantum speedups than quadratic algorithms, the real situation still is, that by today we just don't know many cubic or quartic speedup algorithms. Currently, many quantum speedup algorithms rely on quadratic quantum speedup, based on the well-known Grover algorithm. We argue that designing more Grover style algorithms is not enough. For developing new quantum algorithms that really make a difference, algorithmic research needs to focus on algorithms that enable high quantum speedup in practice. Otherwise, quantum computers might not outperform the fastest devices of classical computers.\n\nWhat is required from computer scientists to achieve real quantum speedup? Torsten Hoefler: We need to invent novel high-speed quantum algorithms. The big challenge is that now we only have a handful of fundamental quantum algorithms, like Grover’s algorithm or Shor’s algorithm, which are widely used in chemistry or cryptography. Obviously, it is very difficult to develop new fundamental algorithms. Since quantum mechanics is a complex mathematical concept, understanding how to translate it into useful quantum algorithms is quite an undertaking. As a rule of thumb, a fundamental algorithm is developed about every decade.\n\nWhat are next steps in the design of quantum algorithms, especially at ETH Zurich? Torsten Hoefler: We need more computer scientists and mathematicians to research new quantum algorithms. So far, it's very hard to find excellent quantum algorithm scientists. A huge opportunity is to combine this need with ETH Zurich's teaching mission and to encourage the next generation of scientists to delve into quantum algorithm design. And to have a Quantum Center allows us to naturally cluster mathematicians, computers scientists around physicists and engineers to collaborate on quantum computers. This is the opportunity for ETH Zurich.\n\nHoefler, T, Häner, T, Troyer, M. Disentangling Hype from Practicality: On Realistically Achieving Quantum Advantage. In: Communications of the ACM, May 2023, Vol. 66 No. 5, Pages 82-87, DOI: 10.1145/3571725 ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 607,
+        "end": 614
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 776,
+        "end": 791
+      },
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 829,
+        "end": 836
+      },
+      {
+        "text": "decades",
+        "label": "DATE",
+        "start": 1016,
+        "end": 1023
+      },
+      {
+        "text": "years to hours",
+        "label": "TIME",
+        "start": 1027,
+        "end": 1041
+      },
+      {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 1050,
+        "end": 1057
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 1186,
+        "end": 1201
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1313,
+        "end": 1318
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1498,
+        "end": 1503
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 1806,
+        "end": 1821
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 43,
+        "end": 58
+      },
+      {
+        "text": "ACM",
+        "label": "ORG",
+        "start": 723,
+        "end": 726
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 728,
+        "end": 738
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 770,
+        "end": 785
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 808,
+        "end": 818
+      },
+      {
+        "text": "Matthias Troyer",
+        "label": "PERSON",
+        "start": 829,
+        "end": 844
+      },
+      {
+        "text": "Microsoft USA",
+        "label": "ORG",
+        "start": 878,
+        "end": 891
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 897,
+        "end": 907
+      },
+      {
+        "text": "Graduate Thomas Häner",
+        "label": "PERSON",
+        "start": 908,
+        "end": 929
+      },
+      {
+        "text": "Amazon Web Services",
+        "label": "ORG",
+        "start": 964,
+        "end": 983
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 985,
+        "end": 991
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 111,
+        "end": 126
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 769,
+        "end": 784
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1014,
+        "end": 1019
+      },
+      {
+        "text": "60 years",
+        "label": "DATE",
+        "start": 1113,
+        "end": 1121
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 1173,
+        "end": 1178
+      },
+      {
+        "text": "millions up to billions",
+        "label": "MONEY",
+        "start": 1213,
+        "end": 1236
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1250,
+        "end": 1256
+      },
+      {
+        "text": "hundreds of thousands",
+        "label": "CARDINAL",
+        "start": 1312,
+        "end": 1333
+      },
+      {
+        "text": "millions",
+        "label": "CARDINAL",
+        "start": 1346,
+        "end": 1354
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1368,
+        "end": 1374
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 1751,
+        "end": 1766
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1923,
+        "end": 1928
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 2899,
+        "end": 2902
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 3053,
+        "end": 3068
+      },
+      {
+        "text": "several months",
+        "label": "DATE",
+        "start": 3393,
+        "end": 3407
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 3538,
+        "end": 3543
+      },
+      {
+        "text": "fourth",
+        "label": "ORDINAL",
+        "start": 3548,
+        "end": 3554
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 4116,
+        "end": 4131
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 4133,
+        "end": 4136
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 4424,
+        "end": 4429
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 4631,
+        "end": 4636
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 5220,
+        "end": 5235
+      },
+      {
+        "text": "Grover’s",
+        "label": "ORG",
+        "start": 5385,
+        "end": 5393
+      },
+      {
+        "text": "Shor",
+        "label": "GPE",
+        "start": 5407,
+        "end": 5411
+      },
+      {
+        "text": "about every decade",
+        "label": "DATE",
+        "start": 5754,
+        "end": 5772
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 5845,
+        "end": 5855
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 5857,
+        "end": 5872
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 6081,
+        "end": 6093
+      },
+      {
+        "text": "Quantum Center",
+        "label": "ORG",
+        "start": 6216,
+        "end": 6230
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 6396,
+        "end": 6406
+      },
+      {
+        "text": "Hoefler",
+        "label": "ORG",
+        "start": 6408,
+        "end": 6415
+      },
+      {
+        "text": "Häner",
+        "label": "NORP",
+        "start": 6420,
+        "end": 6425
+      },
+      {
+        "text": "Troyer",
+        "label": "ORG",
+        "start": 6430,
+        "end": 6436
+      },
+      {
+        "text": "Realistically Achieving Quantum Advantage",
+        "label": "ORG",
+        "start": 6482,
+        "end": 6523
+      },
+      {
+        "text": "ACM",
+        "label": "ORG",
+        "start": 6551,
+        "end": 6554
+      },
+      {
+        "text": "May 2023",
+        "label": "DATE",
+        "start": 6556,
+        "end": 6564
+      },
+      {
+        "text": "82-87",
+        "label": "DATE",
+        "start": 6587,
+        "end": 6592
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich's",
+        "Graduate Thomas Häner",
+        "Matthias Troyer",
+        "Torsten Hoefler"
+      ],
+      "ORG": [
+        "ACM",
+        "Amazon Web Services",
+        "ETH Zurich",
+        "Grover’s",
+        "Hoefler",
+        "Microsoft USA",
+        "Quantum",
+        "Quantum Center",
+        "Realistically Achieving Quantum Advantage",
+        "Troyer"
+      ],
+      "LOCATION": [
+        "Shor",
+        "Zurich"
+      ],
+      "DATE": [
+        "60 years",
+        "82-87",
+        "May 2023",
+        "Today",
+        "about every decade",
+        "decades",
+        "minutes",
+        "several months",
+        "today",
+        "years to hours"
+      ],
+      "MISC": [
+        "Häner",
+        "One",
+        "first",
+        "fourth",
+        "hundreds of thousands",
+        "millions",
+        "millions up to billions",
+        "second",
+        "third"
+      ]
+    },
+    "entity_counts": {
+      "Torsten Hoefler": 12,
+      "today": 5,
+      "ETH Zurich": 5,
+      "Quantum": 2,
+      "ACM": 2,
+      "second": 2,
+      "One": 2,
+      "decades": 1,
+      "years to hours": 1,
+      "minutes": 1,
+      "Matthias Troyer": 1,
+      "Microsoft USA": 1,
+      "Graduate Thomas Häner": 1,
+      "Amazon Web Services": 1,
+      "Zurich": 1,
+      "60 years": 1,
+      "Today": 1,
+      "millions up to billions": 1,
+      "hundreds of thousands": 1,
+      "millions": 1
+    },
+    "total_entities": 58,
+    "unique_entities": 35
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "for-very-small-problem-sizes-a-classical-computer-is-faster.md",
+      "title": "En News Events/2023/05/for Very Small Problem Sizes A Classical Computer Is Faster",
+      "language": "en",
+      "source_path": "en_news_events/2023/05/for-very-small-problem-sizes-a-classical-computer-is-faster.html"
+    },
+    "temporal": {
+      "publication_date": "2023-05",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich's",
+        "Graduate Thomas Häner",
+        "Matthias Troyer",
+        "Torsten Hoefler"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "president",
+          "scientist",
+          "professor",
+          "graduate"
+        ],
+        "ETH Zurich's": [
+          "scientist"
+        ],
+        "Graduate Thomas Häner": [
+          "president",
+          "scientist",
+          "professor",
+          "graduate"
+        ],
+        "Matthias Troyer": [
+          "president",
+          "scientist",
+          "professor",
+          "graduate"
+        ],
+        "Torsten Hoefler": [
+          "president",
+          "scientist",
+          "professor",
+          "graduate"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "scientist",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics",
+        "chemistry",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Häner",
+        "first",
+        "fourth",
+        "hundreds of thousands",
+        "millions",
+        "millions up to billions",
+        "second",
+        "third"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Amazon Web",
+        "Microsoft USA",
+        "Corporate Vice",
+        "Quantum Center",
+        "En News",
+        "Disentangling Hype",
+        "Very Small",
+        "A Classical",
+        "ETH Zurich",
+        "Achieving Quantum",
+        "Torsten Hoefler",
+        "On Realistically",
+        "Graduate Thomas",
+        "Computer Is",
+        "Matthias Troyer",
+        "Senior Research",
+        "Problem Sizes"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ACM",
+        "Amazon Web Services",
+        "ETH Zurich",
+        "Grover’s",
+        "Hoefler",
+        "Microsoft USA",
+        "Quantum",
+        "Quantum Center",
+        "Realistically Achieving Quantum Advantage",
+        "Troyer"
+      ],
+      "locations": [
+        "Shor",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Torsten Hoefler",
+        "today",
+        "ETH Zurich",
+        "Quantum",
+        "ACM",
+        "second",
+        "One",
+        "decades",
+        "years to hours",
+        "minutes"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Abstract",
+          "The interview background",
+          "Reference"
+        ],
+        "content_length": 10287
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hoefler",
+        "Microsoft USA",
+        "Quantum Center",
+        "Graduate Thomas Häner",
+        "Grover’s",
+        "Torsten Hoefler",
+        "Troyer",
+        "Amazon Web Services",
+        "2023",
+        "Realistically Achieving Quantum Advantage",
+        "ETH Zurich",
+        "Matthias Troyer",
+        "Quantum",
+        "ETH Zurich's",
+        "ACM"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "chemistry",
+        "millions",
+        "when",
+        "engineering",
+        "third",
+        "Häner",
+        "fourth",
+        "mathematics",
+        "who",
+        "what",
+        "how",
+        "computer_science",
+        "physics",
+        "first",
+        "hundreds of thousands",
+        "second",
+        "millions up to billions",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_president",
+        "ETH Zurich_has_role_scientist",
+        "ETH Zurich_has_role_professor",
+        "ETH Zurich_has_role_graduate",
+        "ETH Zurich's_has_role_scientist",
+        "Graduate Thomas Häner_has_role_president",
+        "Graduate Thomas Häner_has_role_scientist",
+        "Graduate Thomas Häner_has_role_professor",
+        "Graduate Thomas Häner_has_role_graduate",
+        "Matthias Troyer_has_role_president",
+        "Matthias Troyer_has_role_scientist",
+        "Matthias Troyer_has_role_professor",
+        "Matthias Troyer_has_role_graduate",
+        "Torsten Hoefler_has_role_president",
+        "Torsten Hoefler_has_role_scientist",
+        "Torsten Hoefler_has_role_professor",
+        "Torsten Hoefler_has_role_graduate",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_chemistry",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

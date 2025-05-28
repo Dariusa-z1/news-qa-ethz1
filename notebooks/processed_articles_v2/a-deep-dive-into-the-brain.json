@@ -1,0 +1,446 @@
+{
+  "filename": "a-deep-dive-into-the-brain.md",
+  "original_filename": "a-deep-dive-into-the-brain.html",
+  "source_path": "en_news_events/2021/05/a-deep-dive-into-the-brain.html",
+  "date": "2021-05",
+  "title": "A Deep Dive Into The Brain",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Enhanced fluorescence microscopy",
+      "text": "The way the human brain works remains, to a great extent, a topic of controversy. One reason is our limited ability to study neuronal processes at the level of single cells and capillaries across the entire living brain without employing highly invasive surgical methods. This limitation is now on the brink of change.\n\nResearchers led by Daniel Razansky, Professor of Biomedical Imaging at ETH Zurich and the University of Zurich, have developed a fluorescence microscopy technique that facilitates high-resolution images of microcirculation without the need to open the skull or scalp. The technique has been named “diffuse optical localization imaging”, or DOLI in short.\n\nFor Razansky, this brings us closer to achieving a long-standing goal in neuroscience: “Visualising biological processes deep in the intact living brain is crucial for understanding both its cognitive functions and neurodegenerative diseases such as Alzheimer’s and Parkinson’s,” he says."
+    },
+    {
+      "heading": "Enhanced fluorescence microscopy",
+      "text": "A fluorescent contrast agent is set to glow when administered into the blood stream and irradiated with light of particular wavelength. Fluorescence microscopy makes use of this effect to visualise biological processes at the cellular and molecular level. Until now, researchers using this method on humans or animals have encountered the problem that living tissue scatters and absorbs light extensively, resulting in blurred images and the inability to identify the exact location of the fluorescent agent inside the brain.\n\nBy introducing several new techniques, Razansky and his team have now succeeded in significantly improving this method. “We opted for using a specific spectral region for imaging, the so-called second near-infrared window. This allowed us to greatly reduce the background scattering, absorption and intrinsic fluorescence of the living tissues,\" explains the professor. In addition, the research team used a recently developed, highly efficient infrared camera and a new quantum dot contrast agent that fluoresces strongly within the selected infrared range."
+    },
+    {
+      "heading": "High-resolution images of the brain",
+      "text": "The researchers first tested the new technique using synthetic tissue models that simulate the properties of brain tissue, demonstrating that it is possible to acquire microscopic images at four times the penetration depth of conventional fluorescence microscopy approaches. Razansky and his team then injected living mice with microdroplets encapsulating fluorescent quantum dots as a contrast agent. They were then able to localize these droplets individually in the living brain using the new technique.\n\n“For the first time, we were able to clearly visualise the microvasculature and blood circulation deep in the mouse brain entirely noninvasively,” says Razansky. In addition, the researchers from ETH Zurich and the University of Zurich observed that the size of the imaged microdroplets depends on how deep they are located in the brain. This makes the DOLI technique capable of three-dimensional imaging.\n\nCompared with other biological imaging techniques, such as optoacoustic imaging, also developed by Razansky, the DOLI technique takes advantage of the high versatility and uncomplicated nature of established fluorescence imaging approaches. “You basically need a relatively simple and affordable camera setup without any pulsed lasers or sophisticated optics. This facilitates the dissemination in labs,” explains Razansky."
+    },
+    {
+      "heading": "A basis for new insights",
+      "text": "Neurological disorders, ranging from epilepsy, strokes to various types of dementia, affect up to one billion people worldwide. Therefore, it is of paramount importance to better understand the biological causes of neurodegenerative and other brain diseases and to detect them at an early stage.\n\nAccording to Razansky, the improved fluorescence microscopy based on the DOLI method offers a good basis for this: “We assume that this technique will also lead to new insights into brain function and, in the longer term, facilitate development of new therapeutic options.” Until then, however, he and his team will most likely have to watch the brains of mice for a while longer.\n\nZhou Q, Chen Z, Robin J, Deán-Ben XL, Razansky D: Diffuse optical localization imaging (DOLI) enables noninvasive deep brain microangiography in NIR-II window, Optica, Vol.8, Issue 6, March 27 (2021). DOI: 10.1364/OPTICA.420378"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Brain",
+        "label": "ORG",
+        "start": 44,
+        "end": 49
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 82,
+        "end": 85
+      },
+      {
+        "text": "Daniel Razansky",
+        "label": "PERSON",
+        "start": 338,
+        "end": 353
+      },
+      {
+        "text": "Biomedical Imaging",
+        "label": "ORG",
+        "start": 368,
+        "end": 386
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 390,
+        "end": 400
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 405,
+        "end": 429
+      },
+      {
+        "text": "Razansky",
+        "label": "ORG",
+        "start": 678,
+        "end": 686
+      },
+      {
+        "text": "Razansky",
+        "label": "ORG",
+        "start": 565,
+        "end": 573
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 720,
+        "end": 726
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 16,
+        "end": 21
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 190,
+        "end": 194
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 516,
+        "end": 521
+      },
+      {
+        "text": "Razansky",
+        "label": "PERSON",
+        "start": 659,
+        "end": 667
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 703,
+        "end": 713
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 718,
+        "end": 742
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 886,
+        "end": 891
+      },
+      {
+        "text": "Razansky",
+        "label": "ORG",
+        "start": 1012,
+        "end": 1020
+      },
+      {
+        "text": "Razansky",
+        "label": "PRODUCT",
+        "start": 1327,
+        "end": 1335
+      },
+      {
+        "text": "one billion",
+        "label": "CARDINAL",
+        "start": 98,
+        "end": 109
+      },
+      {
+        "text": "Razansky",
+        "label": "ORG",
+        "start": 309,
+        "end": 317
+      },
+      {
+        "text": "DOLI",
+        "label": "ORG",
+        "start": 369,
+        "end": 373
+      },
+      {
+        "text": "Zhou",
+        "label": "PERSON",
+        "start": 677,
+        "end": 681
+      },
+      {
+        "text": "Chen Z",
+        "label": "PERSON",
+        "start": 685,
+        "end": 691
+      },
+      {
+        "text": "Robin J",
+        "label": "PERSON",
+        "start": 693,
+        "end": 700
+      },
+      {
+        "text": "Deán-Ben XL",
+        "label": "PERSON",
+        "start": 702,
+        "end": 713
+      },
+      {
+        "text": "NIR-II",
+        "label": "EVENT",
+        "start": 822,
+        "end": 828
+      },
+      {
+        "text": "Optica",
+        "label": "GPE",
+        "start": 837,
+        "end": 843
+      },
+      {
+        "text": "Vol.8",
+        "label": "ORG",
+        "start": 845,
+        "end": 850
+      },
+      {
+        "text": "6, March 27",
+        "label": "DATE",
+        "start": 858,
+        "end": 869
+      },
+      {
+        "text": "10.1364",
+        "label": "CARDINAL",
+        "start": 883,
+        "end": 890
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chen Z",
+        "Daniel Razansky",
+        "Deán-Ben XL",
+        "Razansky",
+        "Robin J",
+        "Zhou"
+      ],
+      "ORG": [
+        "Biomedical Imaging",
+        "Brain",
+        "DOLI",
+        "ETH Zurich",
+        "Razansky",
+        "Vol.8",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Optica"
+      ],
+      "DATE": [
+        "6, March 27"
+      ],
+      "MISC": [
+        "10.1364",
+        "NIR-II",
+        "One",
+        "Razansky",
+        "first",
+        "four",
+        "one billion",
+        "second",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Razansky": 6,
+      "ETH Zurich": 2,
+      "the University of Zurich": 2,
+      "first": 2,
+      "Brain": 1,
+      "One": 1,
+      "Daniel Razansky": 1,
+      "Biomedical Imaging": 1,
+      "second": 1,
+      "four": 1,
+      "three": 1,
+      "one billion": 1,
+      "DOLI": 1,
+      "Zhou": 1,
+      "Chen Z": 1,
+      "Robin J": 1,
+      "Deán-Ben XL": 1,
+      "NIR-II": 1,
+      "Optica": 1,
+      "Vol.8": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-deep-dive-into-the-brain.md",
+      "title": "En News Events/2021/05/a Deep Dive Into The Brain",
+      "language": "en",
+      "source_path": "en_news_events/2021/05/a-deep-dive-into-the-brain.html"
+    },
+    "temporal": {
+      "publication_date": "2021-05",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chen Z",
+        "Daniel Razansky",
+        "Deán-Ben XL",
+        "Razansky",
+        "Robin J",
+        "Zhou"
+      ],
+      "people_with_roles": {
+        "Daniel Razansky": [
+          "researcher",
+          "professor"
+        ],
+        "Razansky": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1364",
+        "NIR-II",
+        "Razansky",
+        "first",
+        "four",
+        "one billion",
+        "second",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Biomedical Imaging",
+        "Ben XL",
+        "Deep Dive",
+        "En News",
+        "For Razansky",
+        "Into The",
+        "Razansky D",
+        "Chen Z",
+        "Robin J",
+        "ETH Zurich",
+        "Brain The",
+        "Zhou Q",
+        "Daniel Razansky",
+        "NIR-II"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Biomedical Imaging",
+        "Brain",
+        "DOLI",
+        "ETH Zurich",
+        "Razansky",
+        "Vol.8",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Optica"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Razansky",
+        "ETH Zurich",
+        "the University of Zurich",
+        "first",
+        "Brain",
+        "One",
+        "Daniel Razansky",
+        "Biomedical Imaging",
+        "second",
+        "four"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Enhanced fluorescence microscopy",
+          "Enhanced fluorescence microscopy",
+          "High-resolution images of the brain",
+          "A basis for new insights"
+        ],
+        "content_length": 4346
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Zhou",
+        "Biomedical Imaging",
+        "Brain",
+        "EU",
+        "the University of Zurich",
+        "ETH Zurich",
+        "Vol.8",
+        "Deán-Ben XL",
+        "Chen Z",
+        "Robin J",
+        "DOLI",
+        "2021",
+        "Razansky",
+        "Daniel Razansky"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "chemistry",
+        "when",
+        "four",
+        "biology",
+        "medical_research",
+        "one billion",
+        "who",
+        "what",
+        "how",
+        "Razansky",
+        "physics",
+        "first",
+        "10.1364",
+        "second",
+        "NIR-II",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Daniel Razansky_has_role_researcher",
+        "Daniel Razansky_has_role_professor",
+        "Razansky_has_role_researcher",
+        "Razansky_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

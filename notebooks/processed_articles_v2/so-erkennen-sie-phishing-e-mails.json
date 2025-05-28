@@ -1,0 +1,389 @@
+{
+  "filename": "so-erkennen-sie-phishing-e-mails.md",
+  "original_filename": "so-erkennen-sie-phishing-e-mails.html",
+  "source_path": "de_internal/2022/12/so-erkennen-sie-phishing-e-mails.html",
+  "date": "2022-12",
+  "title": "So Erkennen Sie Phishing E Mails",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Phishing-E-Mails sicher erkennen",
+      "text": "- Unter Druck setzen: Viele Phishing-E-Mails spielen auf Emotionen. Formulierungen wie «Sie müssen innert 24 Stunden auf diesen Link klicken, um Ihren Account zu reaktivieren.» oder «Ihr Account wird blockiert.» werden verwendet, um Angst zu erzeugen, Druck auszuüben und Sie zu einem bestimmten Verhalten zu drängen (z.B. Angabe von Konto-Details, Verifizierungs-Links, kaufen von Wertkarten etc.). Werden Sie in diesen Fällen misstrauisch – womöglich werden Sie gerade «gephisht».\n\n- Persönliche Angaben: Seriöse Dienstleister verlangen von ihren Kunden nie die Angabe von Passwörtern oder Kreditkartendaten per E-Mail oder Telefon. Keine der ETH-Services wird nach Ihrem Passwort fragen.\n\n- Rechtschreibe- und Grammatikfehler: Oft enthalten Phishing-E-Mails unvollständige Sätze oder grammatikalische Fehler. Allerdings: Auch bei korrekt formulierten Texten kann es sich um eine Phishing-E-Mail handeln.\n\n- Versandzeit: Phishing-E-Mails werden öfters zu einer unüblichen Zeit verschickt.\n\n- Anrede: Sie werden in der E-Mail nicht mit Ihrem Namen angesprochen.\n\n- Absender: Absender können gefälscht sein, und sich z.B. als seriöse Bank oder vorgesetzte Stelle ausgeben. Prüfen Sie die Absenderadresse, z.B. indem Sie mit der Maus darüberfahren oder indem Sie ​im Zweifelsfall telefonisch beim Absender zurückfragen. Verwenden Sie bei Rückfragen jedoch immer die Ihnen bekannte, offizielle Telefonnummer des Absenders, nie die in der E-Mail angegebene Nummer.\n\n- Es gilt: Klicken Sie niemals auf Links oder Attachments in fragwürdigen E-​Mails.\n\n- Phishing-Links werden «verschleiert», um auszusehen wie ein Link zu einer Login-Seite: Bsp. «https://password.ethz.ch»\n\n- Oft ist der Text in der URL leicht verändert oder enthält Buchstabendreher: Bsp. «https://password.ehtz.ch»\n\n- Die URL zeigt woanders hin: Bsp. https://password.ethz.ch.free.fr\n\n- Wenn Sie mit der Maus über den Link fahren ohne zu klicken und ein anderer, langer Domain-Name erscheint, handelt es sich möglicherweise um einen Phishing-Versuch.\n\nGerade in den Wochen vor Weihnachten ist die Wahrscheinlichkeit hoch, eine Phishing-E-Mail in der Mailbox zu finden. Denn mit der Vielzahl an Weihnachtsgeschenken, die im Online-Handel gekauft werden, steigen auch die Sicherheitsrisiken. Bekannt sind z.B. Spam-Mails, die sich auf ein fiktives Paket beziehen, das wegen nicht bezahlter Zoll- oder Versandgebühren nicht geliefert werden kann.\n\nSolche Phishing-E-Mails landen besonders häufig in der privaten Mailbox. Aber auch in den ETH-Mailboxen finden sich hin und wieder Nachrichten, bei denen man skeptisch werden kann und sollte. Beispielsweise, wenn’s um eine Mahnung für eine nicht beglichene Rechnung geht – womöglich für eine Dienstleistung, die man nie bezogen hat."
+    },
+    {
+      "heading": "Phishing-E-Mails sicher erkennen",
+      "text": "Damit Sie nicht in die Falle tappen und Cyberkriminelle keine Chance haben, achten Sie bei E-Mails auf folgende Anzeichen:"
+    },
+    {
+      "heading": "Sicher surfen auf externen Webseiten",
+      "text": "Wenn eine E-Mail Sie zum Besuch einer Webseite veranlasst, dann vergewissern Sie sich, dass Sie auf der rechtmässigen Webseite gelandet sind, bevor Sie darauf irgendwelche Eingaben tätigen. Achten Sie auf folgende Details:\n\nStimmt die URL der Webseite?\n\nHandelt es sich um eine verschlüsselte Verbindung (https)? Ist das SSL-Zertifikat dieser Webseite ein gültiges Zertifikat?"
+    },
+    {
+      "heading": "Unsicher? Im Zweifelsfall lieber nachfragen",
+      "text": "Senden Sie verdächtige E-Mails als Anhang an und löschen Sie sie danach aus Ihrer Mailbox. Im Zweifelsfall wenden Sie sich an den ID Service Desk ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/12",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Phishing E Mails",
+        "label": "MISC",
+        "start": 36,
+        "end": 52
+      },
+      {
+        "text": "Phishing-E-Mails",
+        "label": "MISC",
+        "start": 28,
+        "end": 44
+      },
+      {
+        "text": "Konto-Details",
+        "label": "LOC",
+        "start": 334,
+        "end": 347
+      },
+      {
+        "text": "Verifizierungs-Links",
+        "label": "LOC",
+        "start": 349,
+        "end": 369
+      },
+      {
+        "text": "ETH-Services",
+        "label": "MISC",
+        "start": 644,
+        "end": 656
+      },
+      {
+        "text": "Phishing-E-Mails",
+        "label": "MISC",
+        "start": 742,
+        "end": 758
+      },
+      {
+        "text": "Phishing-E-Mails",
+        "label": "MISC",
+        "start": 920,
+        "end": 936
+      },
+      {
+        "text": "Anrede",
+        "label": "LOC",
+        "start": 990,
+        "end": 996
+      },
+      {
+        "text": "​im",
+        "label": "MISC",
+        "start": 1257,
+        "end": 1260
+      },
+      {
+        "text": "Rückfragen",
+        "label": "MISC",
+        "start": 1332,
+        "end": 1342
+      },
+      {
+        "text": "Absenders",
+        "label": "PER",
+        "start": 1405,
+        "end": 1414
+      },
+      {
+        "text": "https://password.ethz.ch.free.fr",
+        "label": "LOC",
+        "start": 1807,
+        "end": 1839
+      },
+      {
+        "text": "Link",
+        "label": "LOC",
+        "start": 1873,
+        "end": 1877
+      },
+      {
+        "text": "Phishing-Versuch",
+        "label": "MISC",
+        "start": 1988,
+        "end": 2004
+      },
+      {
+        "text": "Weihnachten",
+        "label": "MISC",
+        "start": 2031,
+        "end": 2042
+      },
+      {
+        "text": "Mailbox",
+        "label": "LOC",
+        "start": 2104,
+        "end": 2111
+      },
+      {
+        "text": "Online-Handel",
+        "label": "LOC",
+        "start": 2177,
+        "end": 2190
+      },
+      {
+        "text": "z.B. Spam-Mails",
+        "label": "PER",
+        "start": 2257,
+        "end": 2272
+      },
+      {
+        "text": "Mailbox",
+        "label": "ORG",
+        "start": 2462,
+        "end": 2469
+      },
+      {
+        "text": "ETH-Mailboxen",
+        "label": "MISC",
+        "start": 2488,
+        "end": 2501
+      },
+      {
+        "text": "Cyberkriminelle",
+        "label": "LOC",
+        "start": 40,
+        "end": 55
+      },
+      {
+        "text": "SSL-Zertifikat",
+        "label": "ORG",
+        "start": 319,
+        "end": 333
+      },
+      {
+        "text": "Senden",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "ID Service Desk",
+        "label": "ORG",
+        "start": 130,
+        "end": 145
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Absenders",
+        "z.B. Spam-Mails"
+      ],
+      "ORG": [
+        "ID Service Desk",
+        "Mailbox",
+        "SSL-Zertifikat"
+      ],
+      "LOCATION": [
+        "Anrede",
+        "Cyberkriminelle",
+        "De Internal/2022/12",
+        "Konto-Details",
+        "Link",
+        "Mailbox",
+        "Online-Handel",
+        "Senden",
+        "Verifizierungs-Links",
+        "https://password.ethz.ch.free.fr"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Mailboxen",
+        "ETH-Services",
+        "Phishing E Mails",
+        "Phishing-E-Mails",
+        "Phishing-Versuch",
+        "Rückfragen",
+        "Weihnachten",
+        "​im"
+      ]
+    },
+    "entity_counts": {
+      "Phishing-E-Mails": 3,
+      "Mailbox": 2,
+      "De Internal/2022/12": 1,
+      "Phishing E Mails": 1,
+      "Konto-Details": 1,
+      "Verifizierungs-Links": 1,
+      "ETH-Services": 1,
+      "Anrede": 1,
+      "​im": 1,
+      "Rückfragen": 1,
+      "Absenders": 1,
+      "https://password.ethz.ch.free.fr": 1,
+      "Link": 1,
+      "Phishing-Versuch": 1,
+      "Weihnachten": 1,
+      "Online-Handel": 1,
+      "z.B. Spam-Mails": 1,
+      "ETH-Mailboxen": 1,
+      "Cyberkriminelle": 1,
+      "SSL-Zertifikat": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "so-erkennen-sie-phishing-e-mails.md",
+      "title": "De Internal/2022/12/so Erkennen Sie Phishing E Mails",
+      "language": "de",
+      "source_path": "de_internal/2022/12/so-erkennen-sie-phishing-e-mails.html"
+    },
+    "temporal": {
+      "publication_date": "2022-12",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Absenders",
+        "z.B. Spam-Mails"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Mailboxen",
+        "ETH-Services",
+        "Phishing E Mails",
+        "Phishing-E-Mails",
+        "Phishing-Versuch",
+        "Rückfragen",
+        "Weihnachten"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Online-Handel",
+        "Ihren Account",
+        "ETH-Mailboxen",
+        "Erkennen Sie",
+        "Phishing E",
+        "Verifizierungs-Links",
+        "Viele Phishing",
+        "ID Service",
+        "Ihrem Namen",
+        "Phishing-E",
+        "Im Zweifelsfall",
+        "Achten Sie",
+        "Ihr Account",
+        "Solche Phishing",
+        "Klicken Sie",
+        "Ihrer Mailbox",
+        "Konto-Details",
+        "ETH-Services",
+        "SSL-Zertifikat",
+        "Unter Druck",
+        "Phishing-Versuch",
+        "Login-Seite",
+        "Senden Sie",
+        "Werden Sie",
+        "Domain-Name",
+        "Spam-Mails",
+        "E-Mail",
+        "E-Mails",
+        "De Internal",
+        "Wenn Sie",
+        "Die URL",
+        "Phishing-Links",
+        "Ihrem Passwort",
+        "Verwenden Sie",
+        "Damit Sie"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ID Service Desk",
+        "Mailbox",
+        "SSL-Zertifikat"
+      ],
+      "locations": [
+        "Anrede",
+        "Cyberkriminelle",
+        "De Internal/2022/12",
+        "Konto-Details",
+        "Link",
+        "Mailbox",
+        "Online-Handel",
+        "Senden",
+        "Verifizierungs-Links",
+        "https://password.ethz.ch.free.fr"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Phishing-E-Mails",
+        "Mailbox",
+        "De Internal/2022/12",
+        "Phishing E Mails",
+        "Konto-Details",
+        "Verifizierungs-Links",
+        "ETH-Services",
+        "Anrede",
+        "​im",
+        "Rückfragen"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Phishing-E-Mails sicher erkennen",
+          "Phishing-E-Mails sicher erkennen",
+          "Sicher surfen auf externen Webseiten",
+          "Unsicher? Im Zweifelsfall lieber nachfragen"
+        ],
+        "content_length": 3443
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ID Service Desk",
+        "Absenders",
+        "EU",
+        "z.B. Spam-Mails",
+        "2022",
+        "SSL-Zertifikat",
+        "Mailbox"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Mailboxen",
+        "ETH-Services",
+        "Rückfragen",
+        "Phishing E Mails",
+        "Phishing-Versuch",
+        "Weihnachten",
+        "Phishing-E-Mails",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

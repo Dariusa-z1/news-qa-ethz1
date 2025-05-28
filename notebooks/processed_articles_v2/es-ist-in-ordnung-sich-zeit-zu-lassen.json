@@ -1,0 +1,126 @@
+{
+  "filename": "es-ist-in-ordnung-sich-zeit-zu-lassen.md",
+  "original_filename": "es-ist-in-ordnung-sich-zeit-zu-lassen.html",
+  "source_path": "de_news_events/2024/02/es-ist-in-ordnung-sich-zeit-zu-lassen.html",
+  "date": "2024-02",
+  "title": "Es Ist In Ordnung Sich Zeit Zu Lassen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Beratung für Studierende",
+      "text": "Nach dem Abschluss ihres Bachelor-Studiums in Informatik hatte Damla Ortac bereits eine Stelle als Softwareingenieurin. Doch noch bevor sie begonnen hatte, kamen ihr Zweifel und sie schlug einen ganz anderen Weg ein."
+    },
+    {
+      "heading": "Beratung für Studierende",
+      "text": "Es stehen Ihnen Beratungsstellen für alle Situationen im Studium zur Verfügung."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Lassen",
+        "label": "PER",
+        "start": 54,
+        "end": 60
+      },
+      {
+        "text": "Damla Ortac",
+        "label": "PER",
+        "start": 63,
+        "end": 74
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Damla Ortac",
+        "Lassen"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Lassen": 1,
+      "Damla Ortac": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "es-ist-in-ordnung-sich-zeit-zu-lassen.md",
+      "title": "De News Events/2024/02/es Ist in Ordnung Sich Zeit zu Lassen",
+      "language": "de",
+      "source_path": "de_news_events/2024/02/es-ist-in-ordnung-sich-zeit-zu-lassen.html"
+    },
+    "temporal": {
+      "publication_date": "2024-02",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Damla Ortac",
+        "Lassen"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Ihnen Beratungsstellen",
+        "Damla Ortac",
+        "De News",
+        "Lassen Nach",
+        "Ordnung Sich",
+        "Bachelor-Studiums"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Lassen",
+        "Damla Ortac"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Beratung für Studierende",
+          "Beratung für Studierende"
+        ],
+        "content_length": 357
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "Damla Ortac",
+        "EU",
+        "Lassen"
+      ],
+      "semantic_concepts": [
+        "computer_science"
+      ],
+      "graph_relations": [
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

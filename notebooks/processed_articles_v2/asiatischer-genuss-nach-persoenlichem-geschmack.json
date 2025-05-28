@@ -1,0 +1,316 @@
+{
+  "filename": "asiatischer-genuss-nach-persoenlichem-geschmack.md",
+  "original_filename": "asiatischer-genuss-nach-persoenlichem-geschmack.html",
+  "source_path": "de_internal/2018/03/asiatischer-genuss-nach-persoenlichem-geschmack.html",
+  "date": "2018-03",
+  "title": "Asiatischer Genuss Nach Persoenlichem Geschmack",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Geachtet wird auf Ausgewogenheit",
+      "text": "Liebhaber der asiatischen Küche kommen auf dem Hönggerberg wieder auf ihre Kosten. In den neu gestalteten Räumlichkeiten von «Rice Up!» wird jeder Gast von einer oder einem Mitarbeitenden durch die Foodstation begleitet. Dabei wählt der Gast, was in seiner Bowl landet: Als Basis dient, gemäss dem Namen des Lokals, Reis in verschiedenen Varianten, ergänzt durch frischen Blattsalat. Nach Belieben kommen Fleisch oder Tofu, Gemüse, Sauce und Toppings dazu. Wer nicht lange überlegen möchte, entscheidet sich für eine der vier «Signature Bowls»: Rice Up!, Tofu Cashew, Beef oder Chicken Satay."
+    },
+    {
+      "heading": "Geachtet wird auf Ausgewogenheit",
+      "text": "Bei der Zusammenstellung der Gerichte wird darauf geachtet, dass alle Elemente für eine ausgewogene Ernährung enthalten sind. Ergänzend stehen Getränke wie homemade Lemonades oder Kokoswasser bereit sowie ausgewählte Desserts. Bei einer Preisspanne von 7.90 bis 10.90 für Studierende und von 11.90 bis 14.90 für ETH-Mitarbeitende bildet das neue Angebot nun eine willkommene Abwechslung auf dem Areal Hönggerberg."
+    },
+    {
+      "heading": "Geschirr: biologisch abbaubar",
+      "text": "Die Schweizer Gastronomiegruppe Two Spice setzt bei «Rice Up!» auf Nachhaltigkeit: Die Bowls bestehen aus Zuckerrohrfasern, ein Abfallprodukt bei der Zuckerherstellung, und sind vollständig biologisch abbaubar. Deckel und Besteck bestehen aus dem ebenfalls biologisch abbaubaren Material PLA (Grundstoff ist Mais- und Zuckerstärke), und die Servietten sind aus Recyclingpapier. Die Rice Up!-Gerichte eignen sich auch ideal zum Mitnehmen – sei es auf die Terrasse, ins Studierzimmer oder für zuhause."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/03/asiatischer Genuss",
+        "label": "LOC",
+        "start": 0,
+        "end": 38
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 47,
+        "end": 58
+      },
+      {
+        "text": "Rice Up!",
+        "label": "ORG",
+        "start": 126,
+        "end": 134
+      },
+      {
+        "text": "Lokals",
+        "label": "MISC",
+        "start": 308,
+        "end": 314
+      },
+      {
+        "text": "Toppings",
+        "label": "PER",
+        "start": 442,
+        "end": 450
+      },
+      {
+        "text": "Rice Up!",
+        "label": "MISC",
+        "start": 545,
+        "end": 553
+      },
+      {
+        "text": "Tofu Cashew",
+        "label": "PER",
+        "start": 555,
+        "end": 566
+      },
+      {
+        "text": "Chicken Satay",
+        "label": "LOC",
+        "start": 578,
+        "end": 591
+      },
+      {
+        "text": "Lemonades",
+        "label": "LOC",
+        "start": 165,
+        "end": 174
+      },
+      {
+        "text": "ETH-Mitarbeitende",
+        "label": "ORG",
+        "start": 312,
+        "end": 329
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 401,
+        "end": 412
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 4,
+        "end": 13
+      },
+      {
+        "text": "Two Spice",
+        "label": "ORG",
+        "start": 32,
+        "end": 41
+      },
+      {
+        "text": "Rice Up!",
+        "label": "ORG",
+        "start": 53,
+        "end": 61
+      },
+      {
+        "text": "Bowls",
+        "label": "LOC",
+        "start": 87,
+        "end": 92
+      },
+      {
+        "text": "Zuckerrohrfasern",
+        "label": "LOC",
+        "start": 106,
+        "end": 122
+      },
+      {
+        "text": "Besteck",
+        "label": "PER",
+        "start": 222,
+        "end": 229
+      },
+      {
+        "text": "Recyclingpapier",
+        "label": "LOC",
+        "start": 361,
+        "end": 376
+      },
+      {
+        "text": "Rice",
+        "label": "LOC",
+        "start": 382,
+        "end": 386
+      },
+      {
+        "text": "Studierzimmer",
+        "label": "MISC",
+        "start": 468,
+        "end": 481
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Besteck",
+        "Tofu Cashew",
+        "Toppings"
+      ],
+      "ORG": [
+        "ETH-Mitarbeitende",
+        "Rice Up!",
+        "Two Spice"
+      ],
+      "LOCATION": [
+        "Bowls",
+        "Chicken Satay",
+        "De Internal/2018/03/asiatischer Genuss",
+        "Hönggerberg",
+        "Lemonades",
+        "Recyclingpapier",
+        "Rice",
+        "Zuckerrohrfasern"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Lokals",
+        "Rice Up!",
+        "Schweizer",
+        "Studierzimmer"
+      ]
+    },
+    "entity_counts": {
+      "Rice Up!": 3,
+      "Hönggerberg": 2,
+      "De Internal/2018/03/asiatischer Genuss": 1,
+      "Lokals": 1,
+      "Toppings": 1,
+      "Tofu Cashew": 1,
+      "Chicken Satay": 1,
+      "Lemonades": 1,
+      "ETH-Mitarbeitende": 1,
+      "Schweizer": 1,
+      "Two Spice": 1,
+      "Bowls": 1,
+      "Zuckerrohrfasern": 1,
+      "Besteck": 1,
+      "Recyclingpapier": 1,
+      "Rice": 1,
+      "Studierzimmer": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "asiatischer-genuss-nach-persoenlichem-geschmack.md",
+      "title": "De Internal/2018/03/asiatischer Genuss nach Persoenlichem Geschmack",
+      "language": "de",
+      "source_path": "de_internal/2018/03/asiatischer-genuss-nach-persoenlichem-geschmack.html"
+    },
+    "temporal": {
+      "publication_date": "2018-03",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Besteck",
+        "Tofu Cashew",
+        "Toppings"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Lokals",
+        "Rice Up!",
+        "Schweizer",
+        "Studierzimmer"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Tofu Cashew",
+        "Chicken Satay",
+        "Material PLA",
+        "De Internal",
+        "Rice Up",
+        "Gastronomiegruppe Two",
+        "Die Bowls",
+        "Nach Belieben",
+        "Signature Bowls",
+        "Die Rice",
+        "ETH-Mitarbeitende",
+        "Persoenlichem Geschmack",
+        "Die Schweizer",
+        "Als Basis"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Mitarbeitende",
+        "Rice Up!",
+        "Two Spice"
+      ],
+      "locations": [
+        "Bowls",
+        "Chicken Satay",
+        "De Internal/2018/03/asiatischer Genuss",
+        "Hönggerberg",
+        "Lemonades",
+        "Recyclingpapier",
+        "Rice",
+        "Zuckerrohrfasern"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Rice Up!",
+        "Hönggerberg",
+        "De Internal/2018/03/asiatischer Genuss",
+        "Lokals",
+        "Toppings",
+        "Tofu Cashew",
+        "Chicken Satay",
+        "Lemonades",
+        "ETH-Mitarbeitende",
+        "Schweizer"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Geachtet wird auf Ausgewogenheit",
+          "Geachtet wird auf Ausgewogenheit",
+          "Geschirr: biologisch abbaubar"
+        ],
+        "content_length": 1574
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Tofu Cashew",
+        "EU",
+        "Besteck",
+        "Rice Up!",
+        "ETH-Mitarbeitende",
+        "Toppings",
+        "Two Spice"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Studierzimmer",
+        "Schweizer",
+        "Lokals",
+        "Rice Up!"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

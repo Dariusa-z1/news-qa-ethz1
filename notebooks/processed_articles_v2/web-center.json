@@ -1,0 +1,334 @@
+{
+  "filename": "web-center.md",
+  "original_filename": "web-center.html",
+  "source_path": "en_internal/2019/04/web-center.html",
+  "date": "2019-04",
+  "title": "Web Center",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Identity und Access Management (IAM)",
+      "text": "ETH members log into the application via www.password.ethz.ch (German: www.passwort.ethz.ch ) with their ETH user name and ETH password for web applications, AAI (LDAP). The explanation video \"Change your password\" shows in detail how to set or change your passwords in the Web Center. The function \"Forgot password?\" is currently switched off and will follow.\n\nThe previous nethz-Admin Tool (new name: “Admin-tool without IAM functionality”) can be found at the URL www.idn.ethz.ch . It is still used to configure the spam filter, to request a MySQL database and to activate Lync and other services."
+    },
+    {
+      "heading": "Identity und Access Management (IAM)",
+      "text": "ETH Zurich operates an Identity and Access Management (IAM) system. The system allows the control and supply of data from the Directory Services LDAP, Active Directory and Switch AAI (ETH-part) that unify the management of groups and distributors, the management of multiple passwords and providing self-service help and helpdesk functions via a web application. The system has been completely renewed and additional features are available.\n\nA uniform and consistent management of identities and access rights is an indispensable requirement for the provision of IT services in a complex environment like ETH. Every member of the school benefits from the unified password management and self-service features that are offered through the web application “Web Center”.\n\nWith the new IAM system, which is based on a commercial solution, ETH will be able to satisfy all current legal compliance and accountability requirements. Equally important is the ability of the new system to integrate other identities from other, external IAM systems."
+    },
+    {
+      "heading": "Contact",
+      "text": "Dr. Giorgio Broggi Head of Software Services, IT Services\n\nDavor Kupresak Group Manager Identity / Access Management & eServices, IT Services"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Center",
+        "label": "ORG",
+        "start": 24,
+        "end": 30
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 63,
+        "end": 69
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 105,
+        "end": 108
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 123,
+        "end": 126
+      },
+      {
+        "text": "AAI",
+        "label": "ORG",
+        "start": 158,
+        "end": 161
+      },
+      {
+        "text": "the Web Center",
+        "label": "ORG",
+        "start": 270,
+        "end": 284
+      },
+      {
+        "text": "IAM",
+        "label": "ORG",
+        "start": 422,
+        "end": 425
+      },
+      {
+        "text": "Lync",
+        "label": "PERSON",
+        "start": 575,
+        "end": 579
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Identity and Access Management",
+        "label": "ORG",
+        "start": 23,
+        "end": 53
+      },
+      {
+        "text": "IAM",
+        "label": "ORG",
+        "start": 55,
+        "end": 58
+      },
+      {
+        "text": "the Directory Services LDAP,",
+        "label": "ORG",
+        "start": 122,
+        "end": 150
+      },
+      {
+        "text": "Switch AAI",
+        "label": "PERSON",
+        "start": 172,
+        "end": 182
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 604,
+        "end": 607
+      },
+      {
+        "text": "IAM",
+        "label": "ORG",
+        "start": 780,
+        "end": 783
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 833,
+        "end": 836
+      },
+      {
+        "text": "IAM",
+        "label": "ORG",
+        "start": 1025,
+        "end": 1028
+      },
+      {
+        "text": "Giorgio Broggi Head",
+        "label": "PERSON",
+        "start": 4,
+        "end": 23
+      },
+      {
+        "text": "Software Services",
+        "label": "ORG",
+        "start": 27,
+        "end": 44
+      },
+      {
+        "text": "Identity / Access Management & eServices",
+        "label": "ORG",
+        "start": 87,
+        "end": 127
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Giorgio Broggi Head",
+        "Lync",
+        "Switch AAI"
+      ],
+      "ORG": [
+        "AAI",
+        "Center",
+        "ETH",
+        "IAM",
+        "Identity / Access Management & eServices",
+        "Identity and Access Management",
+        "Software Services",
+        "the Directory Services LDAP,",
+        "the Web Center"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "IAM": 4,
+      "Center": 1,
+      "German": 1,
+      "AAI": 1,
+      "the Web Center": 1,
+      "Lync": 1,
+      "ETH Zurich": 1,
+      "Identity and Access Management": 1,
+      "the Directory Services LDAP,": 1,
+      "Switch AAI": 1,
+      "Giorgio Broggi Head": 1,
+      "Software Services": 1,
+      "Identity / Access Management & eServices": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "web-center.md",
+      "title": "En Internal/2019/04/web Center",
+      "language": "en",
+      "source_path": "en_internal/2019/04/web-center.html"
+    },
+    "temporal": {
+      "publication_date": "2019-04",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Giorgio Broggi Head",
+        "Lync",
+        "Switch AAI"
+      ],
+      "people_with_roles": {
+        "Giorgio Broggi Head": [
+          "head"
+        ],
+        "Switch AAI": [
+          "director",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "director",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "German"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Web Center",
+        "Access Management",
+        "Group Manager",
+        "Directory Services",
+        "IT Services",
+        "En Internal",
+        "Davor Kupresak",
+        "Active Directory",
+        "Software Services",
+        "Switch AAI",
+        "Giorgio Broggi",
+        "ETH Zurich",
+        "Admin Tool",
+        "Center ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AAI",
+        "Center",
+        "ETH",
+        "IAM",
+        "Identity / Access Management & eServices",
+        "Identity and Access Management",
+        "Software Services",
+        "the Directory Services LDAP,",
+        "the Web Center"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "IAM",
+        "Center",
+        "German",
+        "AAI",
+        "the Web Center",
+        "Lync",
+        "ETH Zurich",
+        "Identity and Access Management",
+        "the Directory Services LDAP,"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Identity und Access Management (IAM)",
+          "Identity und Access Management (IAM)",
+          "Contact"
+        ],
+        "content_length": 1813
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Center",
+        "ETH",
+        "AAI",
+        "2019",
+        "IAM",
+        "Identity / Access Management & eServices",
+        "Lync",
+        "the Directory Services LDAP,",
+        "the Web Center",
+        "Giorgio Broggi Head",
+        "Switch AAI",
+        "Software Services",
+        "Identity and Access Management",
+        "ETH Zurich",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "computer_science",
+        "how",
+        "German"
+      ],
+      "graph_relations": [
+        "Giorgio Broggi Head_has_role_head",
+        "Switch AAI_has_role_director",
+        "Switch AAI_has_role_rector",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

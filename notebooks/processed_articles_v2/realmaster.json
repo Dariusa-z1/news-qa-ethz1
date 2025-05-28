@@ -1,0 +1,281 @@
+{
+  "filename": "realmaster.md",
+  "original_filename": "realmaster.html",
+  "source_path": "en_news_events/2018/11/realmaster.html",
+  "date": "2018-11",
+  "title": "Realmaster",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Addressing the right students",
+      "text": "“We wanted a video that would stand out, entertain and yet convey plenty of content,” says Rainer Borer, Head of Corporate Communications. So ETH chose a hip-hop song, an absurd combination of bling-bling rapper meets serious university. “We’re looking to interest not just more students, but the right ones. And by this we mean those with excellent grades who can also think for themselves and reflect critically,” explains Borer. “Which includes being able to laugh at oneself.”\n\nThe real stars in the video, apart from the rapping students, are the great ETH Zurich locations and projects – from the anechoic chamber (yes, that's its name), and the robot ANYmal, to an electric racing car from the Academic Motorsports Club Zurich, and LUSETH, a test facility for reinforced concrete shell elements. Over 100 ETH members worked in front of or behind the camera to make this shoot possible.\n\nSo waste no time: put on your headphones, turn up the volume, and start the video. Ten out of ten for ETH Zurich? We’ll soon see whether the young people will like the clip and whether our message will get across. What’s more, by the end of the year a new video clip in German will be out to familiarise prospective Bachelor students with ETH Zurich. And just to keep you informed – the new Bachelor’s video will be radically different from this Master’s hip-hop one."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Rainer Borer",
+        "label": "PERSON",
+        "start": 91,
+        "end": 103
+      },
+      {
+        "text": "Corporate Communications",
+        "label": "ORG",
+        "start": 113,
+        "end": 137
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 142,
+        "end": 145
+      },
+      {
+        "text": "Borer",
+        "label": "PERSON",
+        "start": 425,
+        "end": 430
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 557,
+        "end": 567
+      },
+      {
+        "text": "the Academic Motorsports Club Zurich",
+        "label": "ORG",
+        "start": 696,
+        "end": 732
+      },
+      {
+        "text": "LUSETH",
+        "label": "ORG",
+        "start": 738,
+        "end": 744
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 811,
+        "end": 814
+      },
+      {
+        "text": "Ten",
+        "label": "CARDINAL",
+        "start": 975,
+        "end": 978
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 986,
+        "end": 989
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "GPE",
+        "start": 994,
+        "end": 1004
+      },
+      {
+        "text": "the end of the year",
+        "label": "DATE",
+        "start": 1122,
+        "end": 1141
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 1162,
+        "end": 1168
+      },
+      {
+        "text": "Bachelor",
+        "label": "ORG",
+        "start": 1208,
+        "end": 1216
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1231,
+        "end": 1241
+      },
+      {
+        "text": "Bachelor",
+        "label": "ORG",
+        "start": 1283,
+        "end": 1291
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Borer",
+        "ETH Zurich",
+        "Rainer Borer"
+      ],
+      "ORG": [
+        "Bachelor",
+        "Corporate Communications",
+        "ETH",
+        "ETH Zurich",
+        "LUSETH",
+        "the Academic Motorsports Club Zurich"
+      ],
+      "LOCATION": [
+        "ETH Zurich"
+      ],
+      "DATE": [
+        "the end of the year"
+      ],
+      "MISC": [
+        "German",
+        "Ten",
+        "ten"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "ETH": 2,
+      "Bachelor": 2,
+      "Rainer Borer": 1,
+      "Corporate Communications": 1,
+      "Borer": 1,
+      "the Academic Motorsports Club Zurich": 1,
+      "LUSETH": 1,
+      "Ten": 1,
+      "ten": 1,
+      "the end of the year": 1,
+      "German": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "realmaster.md",
+      "title": "En News Events/2018/11/realmaster",
+      "language": "en",
+      "source_path": "en_news_events/2018/11/realmaster.html"
+    },
+    "temporal": {
+      "publication_date": "2018-11",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Borer",
+        "ETH Zurich",
+        "Rainer Borer"
+      ],
+      "people_with_roles": {
+        "Borer": [
+          "head"
+        ],
+        "ETH Zurich": [
+          "student"
+        ],
+        "Rainer Borer": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "German"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Corporate Communications",
+        "So ETH",
+        "Club Zurich",
+        "En News",
+        "Academic Motorsports",
+        "ETH Zurich",
+        "Rainer Borer"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bachelor",
+        "Corporate Communications",
+        "ETH",
+        "ETH Zurich",
+        "LUSETH",
+        "the Academic Motorsports Club Zurich"
+      ],
+      "locations": [
+        "ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "ETH",
+        "Bachelor",
+        "Rainer Borer",
+        "Corporate Communications",
+        "Borer",
+        "the Academic Motorsports Club Zurich",
+        "LUSETH",
+        "Ten",
+        "ten"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Addressing the right students"
+        ],
+        "content_length": 1395
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Corporate Communications",
+        "ETH",
+        "2018",
+        "Bachelor",
+        "the Academic Motorsports Club Zurich",
+        "LUSETH",
+        "ETH Zurich",
+        "Rainer Borer",
+        "Borer"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "German",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Borer_has_role_head",
+        "ETH Zurich_has_role_student",
+        "Rainer Borer_has_role_head",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

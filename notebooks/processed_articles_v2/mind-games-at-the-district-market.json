@@ -1,0 +1,251 @@
+{
+  "filename": "mind-games-at-the-district-market.md",
+  "original_filename": "mind-games-at-the-district-market.html",
+  "source_path": "en_internal/2019/06/mind-games-at-the-district-market.html",
+  "date": "2019-06",
+  "title": "Mind Games At The District Market",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Equipped with a headset measuring brain activity, up to four participants at a time competed in a virtual race with mind control. Children and young people in particular were brimming with enthusiasm and curiosity – slots for “BrainDriver” were packed throughout the day.\n\nSending the right command at the right moment is key for the Brain Computer Interface (BCI) race. Appropriate brain activity – either concentrating or relaxing – keeps your vehicle moving at speed; the goal, of course, being to steer it first over the finish line.\n\nThis is one of the six disciplines at the Cybathlon in May 2020, a first-of-its-kind championship launched by ETH, where athletes with disabilities compete to perform everyday tasks using the latest assistive technology. The first Cybathlon in 2016 was a huge success, with seats sold out at the Swiss Arena Zurich, and 66 race pilots from 25 nations pitting it out before the delighted spectators."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The District Market",
+        "label": "FAC",
+        "start": 34,
+        "end": 53
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 56,
+        "end": 60
+      },
+      {
+        "text": "BrainDriver",
+        "label": "WORK_OF_ART",
+        "start": 227,
+        "end": 238
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 263,
+        "end": 270
+      },
+      {
+        "text": "the Brain Computer Interface",
+        "label": "ORG",
+        "start": 329,
+        "end": 357
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 509,
+        "end": 514
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 545,
+        "end": 548
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 556,
+        "end": 559
+      },
+      {
+        "text": "Cybathlon",
+        "label": "PRODUCT",
+        "start": 579,
+        "end": 588
+      },
+      {
+        "text": "May 2020",
+        "label": "DATE",
+        "start": 592,
+        "end": 600
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 604,
+        "end": 609
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 647,
+        "end": 650
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 762,
+        "end": 767
+      },
+      {
+        "text": "Arena Zurich",
+        "label": "PERSON",
+        "start": 839,
+        "end": 851
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Arena Zurich"
+      ],
+      "ORG": [
+        "ETH",
+        "the Brain Computer Interface"
+      ],
+      "LOCATION": [
+        "The District Market"
+      ],
+      "DATE": [
+        "May 2020",
+        "the day"
+      ],
+      "MISC": [
+        "BrainDriver",
+        "Cybathlon",
+        "first",
+        "four",
+        "one",
+        "six"
+      ]
+    },
+    "entity_counts": {
+      "first": 3,
+      "The District Market": 1,
+      "four": 1,
+      "BrainDriver": 1,
+      "the day": 1,
+      "the Brain Computer Interface": 1,
+      "one": 1,
+      "six": 1,
+      "Cybathlon": 1,
+      "May 2020": 1,
+      "ETH": 1,
+      "Arena Zurich": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mind-games-at-the-district-market.md",
+      "title": "En Internal/2019/06/mind Games At The District Market",
+      "language": "en",
+      "source_path": "en_internal/2019/06/mind-games-at-the-district-market.html"
+    },
+    "temporal": {
+      "publication_date": "2019-06",
+      "mentioned_years": [
+        "2016",
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Arena Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "BrainDriver",
+        "Cybathlon",
+        "first",
+        "four"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Market Equipped",
+        "The District",
+        "Games At",
+        "En Internal",
+        "Swiss Arena",
+        "Brain Computer"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "the Brain Computer Interface"
+      ],
+      "locations": [
+        "The District Market"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "first",
+        "The District Market",
+        "four",
+        "BrainDriver",
+        "the day",
+        "the Brain Computer Interface",
+        "one",
+        "six",
+        "Cybathlon",
+        "May 2020"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 991
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2019",
+        "2020",
+        "2016",
+        "Arena Zurich",
+        "the Brain Computer Interface"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Cybathlon",
+        "why",
+        "four",
+        "what",
+        "BrainDriver",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

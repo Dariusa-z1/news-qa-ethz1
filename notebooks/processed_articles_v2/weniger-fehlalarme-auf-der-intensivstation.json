@@ -1,0 +1,457 @@
+{
+  "filename": "weniger-fehlalarme-auf-der-intensivstation.md",
+  "original_filename": "weniger-fehlalarme-auf-der-intensivstation.html",
+  "source_path": "de_news_events/2019/01/weniger-fehlalarme-auf-der-intensivstation.html",
+  "date": "2019-01",
+  "title": "Weniger Fehlalarme Auf Der Intensivstation",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Kombination von Daten",
+      "text": "Piiiep, piiiep, piiiep. Dauernd schlägt auf der Intensivstation irgendein Messgerät Alarm. Sei es, weil das Blut eines Patienten zu wenig Sauerstoff enthält, bei der Patientin nebenan der Druck im Schädel gestiegen oder bei jemandem der Blutdruck abgesackt ist. Oder aber einfach nur deshalb, weil sich ein Patient im Bett bewegt hat.\n\nSolche Fehlalarme sind häufig. Sie halten das medizinische Personal auf Trab, und es besteht die Gefahr, dass die echten Alarme in der Flut von Fehlalarmen untergehen. Pflegende und Ärzte haben daher ein Interesse, dass sich die Zahl von falschen Alarmen deutlich reduziert. Forscher der ETH Zürich haben nun in Zusammenarbeit mit Wissenschaftlern der Neurochirurgischen Intensivstation des Universitätsspitals Zürich eine Methode des maschinellen Lernens geschaffen, welche genau dieses Ziel verfolgt."
+    },
+    {
+      "heading": "Kombination von Daten",
+      "text": "Im Rahmen einer Machbarkeitsstudie nutzten die Forschenden umfassende Datenaufzeichnungen dieser Intensivstation. Für ein Datenwissenschafts-Projekt ( externe Seite ICU Cockpit ) werden dort die Messungen der Vitalfunktionen in hoher zeitlicher Auflösung sowie die Alarme mit Zustimmung der Patienten systematisch gespeichert.\n\nWie es auch auf anderen Intensivstationen die Regel ist, funktionieren die verschiedenen Geräte zur Kreislaufüberwachung, künstlichen Beatmung und der Aufzeichnung eines Elektroenzephalogramms unabhängig voneinander. Ebenso schlagen sie unabhängig voneinander Alarm, nämlich dann, wenn der Messwert einen definierten Schwellenwert unter- oder überschreitet. Die Forschenden kombinierten und synchronisieren daher die Daten der Messgeräte, um mithilfe von maschinellem Lernen medizinisch nicht-relevante Alarme zu identifizieren."
+    },
+    {
+      "heading": "Computer nimmt Ärzten Sisyphusarbeit ab",
+      "text": "«Damit der Computer lernen kann, müssen üblicherweise zuvor Menschen eine bestimme Zahl von Alarmen als relevant oder nicht-relevant beurteilen», erklärt Walter Karlen, Professor für mobile Gesundheitssysteme an der ETH Zürich. «Computersysteme können diese Informationen dann nutzen, um das Prinzip der Klassifizierung zu verstehen und schliesslich selbst Alarme beurteilen zu können.»\n\nDie Klassifizierung von Alarmen auf einer Intensivstation durch einen Menschen ist allerdings Sisyphusarbeit, zumal sie für jeden Patienten individuell gemacht werden muss. Ausserdem hat das Personal auf einer Intensivstation kaum Zeit, neben der Betreuung von Patienten einen Computer zu unterrichten."
+    },
+    {
+      "heading": "Auch mit bruchstückhaften Informationen",
+      "text": "Wünschenswert für den Einsatz auf einer Intensivstation wäre daher ein System, das selbst dann lernfähig ist, wenn Pfleger oder Ärztinnen nur wenige Alarme klassifizieren. Genau dies kann die von Karlen und seinen Kollegen geschaffene Machine-Learning-Methode besonders gut.\n\nDie Wissenschaftler testeten ihre Methode anhand eines kleinen Datensatzes aus der Zürcher Intensivstation: der Aufzeichnung von Vitalparametern und Alarmen von 14 Patienten während mehrerer Tage. Im Schnitt schlugen die Geräte knapp 700-mal pro Patient und Tag Alarm, also durchschnittlich alle zwei Minuten. Obschon in dem Datensatz nur 1'800 (13 Prozent) der insgesamt 14'000 Alarme manuell klassifiziert waren, konnte der Algorithmus auch die restlichen Alarme in echte, beziehungsweise falsche Alarme einteilen. Liessen die Wissenschaftler dem System eine Fehlerquote von fünf Prozent zu, sortierte das System 77 Prozent aller Fehlalarme aus.\n\nWie die Wissenschaftler ausserdem zeigen konnten, funktioniert die Methode sogar mit weit weniger manueller Hilfestellung: Schon 25 oder 50 manuelle Beurteilungen durch Experten reichen aus, um einen Grossteil der Fehlalarme auszusortieren. Insbesondere bei einer solch geringen manuellen Hilfestellung ist die neue Methode anderen existierenden Machine-Learning-Methoden überlegen, wie die Forscher ebenfalls zeigten.\n\nBei dieser Arbeit wurden klinische Daten retrospektiv analysiert. Die Forscher erwägen nun, die Leistungsfähigkeit ihres Algorithmus in einer vorausblickenden (prospektiven) klinischen Studie zu überprüfen.\n\nSchwab P, Keller E, Muroi C, Mack DJ, Strässle C, Karlen W: externe Seite Not to Cry Wolf: Distantly Supervised Multitask Learning in Critical Care . Proceedings of the 35th International Conference on Machine Learning, Stockholm, 2018"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Intensivstation",
+        "label": "MISC",
+        "start": 50,
+        "end": 65
+      },
+      {
+        "text": "Piiiep",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "piiiep",
+        "label": "LOC",
+        "start": 8,
+        "end": 14
+      },
+      {
+        "text": "piiiep",
+        "label": "LOC",
+        "start": 16,
+        "end": 22
+      },
+      {
+        "text": "Dauernd",
+        "label": "PER",
+        "start": 24,
+        "end": 31
+      },
+      {
+        "text": "Intensivstation",
+        "label": "LOC",
+        "start": 48,
+        "end": 63
+      },
+      {
+        "text": "Messgerät Alarm",
+        "label": "LOC",
+        "start": 74,
+        "end": 89
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 623,
+        "end": 633
+      },
+      {
+        "text": "Neurochirurgischen Intensivstation",
+        "label": "ORG",
+        "start": 687,
+        "end": 721
+      },
+      {
+        "text": "Intensivstation",
+        "label": "MISC",
+        "start": 97,
+        "end": 112
+      },
+      {
+        "text": "Walter Karlen",
+        "label": "PER",
+        "start": 154,
+        "end": 167
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 216,
+        "end": 226
+      },
+      {
+        "text": "Computersysteme",
+        "label": "PER",
+        "start": 229,
+        "end": 244
+      },
+      {
+        "text": "Intensivstation",
+        "label": "MISC",
+        "start": 597,
+        "end": 612
+      },
+      {
+        "text": "Wünschenswert",
+        "label": "PER",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Intensivstation",
+        "label": "MISC",
+        "start": 40,
+        "end": 55
+      },
+      {
+        "text": "Zürcher Intensivstation",
+        "label": "ORG",
+        "start": 358,
+        "end": 381
+      },
+      {
+        "text": "Tag Alarm",
+        "label": "MISC",
+        "start": 533,
+        "end": 542
+      },
+      {
+        "text": "Obschon",
+        "label": "PER",
+        "start": 585,
+        "end": 592
+      },
+      {
+        "text": "Liessen",
+        "label": "PER",
+        "start": 792,
+        "end": 799
+      },
+      {
+        "text": "Machine-Learning-Methoden",
+        "label": "MISC",
+        "start": 1269,
+        "end": 1294
+      },
+      {
+        "text": "Schwab P",
+        "label": "PER",
+        "start": 1549,
+        "end": 1557
+      },
+      {
+        "text": "Keller E",
+        "label": "ORG",
+        "start": 1559,
+        "end": 1567
+      },
+      {
+        "text": "Muroi C",
+        "label": "ORG",
+        "start": 1569,
+        "end": 1576
+      },
+      {
+        "text": "Mack DJ",
+        "label": "PER",
+        "start": 1578,
+        "end": 1585
+      },
+      {
+        "text": "Strässle C",
+        "label": "MISC",
+        "start": 1587,
+        "end": 1597
+      },
+      {
+        "text": "Karlen W",
+        "label": "MISC",
+        "start": 1599,
+        "end": 1607
+      },
+      {
+        "text": "Not to Cry Wolf",
+        "label": "MISC",
+        "start": 1623,
+        "end": 1638
+      },
+      {
+        "text": "Supervised Multitask Learning",
+        "label": "PER",
+        "start": 1650,
+        "end": 1679
+      },
+      {
+        "text": "Critical Care",
+        "label": "PER",
+        "start": 1683,
+        "end": 1696
+      },
+      {
+        "text": "Stockholm",
+        "label": "LOC",
+        "start": 1769,
+        "end": 1778
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Computersysteme",
+        "Critical Care",
+        "Dauernd",
+        "De News",
+        "Liessen",
+        "Mack DJ",
+        "Obschon",
+        "Schwab P",
+        "Supervised Multitask Learning",
+        "Walter Karlen",
+        "Wünschenswert"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Keller E",
+        "Muroi C",
+        "Neurochirurgischen Intensivstation",
+        "Zürcher Intensivstation"
+      ],
+      "LOCATION": [
+        "Intensivstation",
+        "Messgerät Alarm",
+        "Piiiep",
+        "Stockholm",
+        "piiiep"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Intensivstation",
+        "Karlen W",
+        "Machine-Learning-Methoden",
+        "Not to Cry Wolf",
+        "Strässle C",
+        "Tag Alarm"
+      ]
+    },
+    "entity_counts": {
+      "Intensivstation": 5,
+      "piiiep": 2,
+      "ETH Zürich": 2,
+      "De News": 1,
+      "Piiiep": 1,
+      "Dauernd": 1,
+      "Messgerät Alarm": 1,
+      "Neurochirurgischen Intensivstation": 1,
+      "Walter Karlen": 1,
+      "Computersysteme": 1,
+      "Wünschenswert": 1,
+      "Zürcher Intensivstation": 1,
+      "Tag Alarm": 1,
+      "Obschon": 1,
+      "Liessen": 1,
+      "Machine-Learning-Methoden": 1,
+      "Schwab P": 1,
+      "Keller E": 1,
+      "Muroi C": 1,
+      "Mack DJ": 1
+    },
+    "total_entities": 32,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "weniger-fehlalarme-auf-der-intensivstation.md",
+      "title": "De News Events/2019/01/weniger Fehlalarme auf der Intensivstation",
+      "language": "de",
+      "source_path": "de_news_events/2019/01/weniger-fehlalarme-auf-der-intensivstation.html"
+    },
+    "temporal": {
+      "publication_date": "2019-01",
+      "mentioned_years": [
+        "2018",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Computersysteme",
+        "Critical Care",
+        "Dauernd",
+        "De News",
+        "Liessen",
+        "Mack DJ",
+        "Obschon",
+        "Schwab P",
+        "Supervised Multitask Learning",
+        "Walter Karlen",
+        "Wünschenswert"
+      ],
+      "people_with_roles": {
+        "Walter Karlen": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Intensivstation",
+        "Karlen W",
+        "Machine-Learning-Methoden",
+        "Not to Cry Wolf",
+        "Strässle C",
+        "Tag Alarm"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Distantly Supervised",
+        "Solche Fehlalarme",
+        "Die Forschenden",
+        "International Conference",
+        "Keller E",
+        "Cry Wolf",
+        "Datenwissenschafts-Projekt",
+        "Intensivstation Piiiep",
+        "Tag Alarm",
+        "Karlen W",
+        "Die Klassifizierung",
+        "Multitask Learning",
+        "Machine Learning",
+        "Critical Care",
+        "Im Rahmen",
+        "Seite ICU",
+        "Walter Karlen",
+        "Die Wissenschaftler",
+        "Mack DJ",
+        "Muroi C",
+        "Machine-Learning",
+        "Seite Not",
+        "Die Forscher",
+        "De News",
+        "Schwab P",
+        "Im Schnitt",
+        "Neurochirurgischen Intensivstation"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Keller E",
+        "Muroi C",
+        "Neurochirurgischen Intensivstation",
+        "Zürcher Intensivstation"
+      ],
+      "locations": [
+        "Intensivstation",
+        "Messgerät Alarm",
+        "Piiiep",
+        "Stockholm",
+        "piiiep"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Intensivstation",
+        "piiiep",
+        "ETH Zürich",
+        "De News",
+        "Piiiep",
+        "Dauernd",
+        "Messgerät Alarm",
+        "Neurochirurgischen Intensivstation",
+        "Walter Karlen",
+        "Computersysteme"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Kombination von Daten",
+          "Kombination von Daten",
+          "Computer nimmt Ärzten Sisyphusarbeit ab",
+          "Auch mit bruchstückhaften Informationen"
+        ],
+        "content_length": 4241
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Wünschenswert",
+        "Keller E",
+        "2018",
+        "Zürcher Intensivstation",
+        "2019",
+        "Supervised Multitask Learning",
+        "ETH Zürich",
+        "Critical Care",
+        "Obschon",
+        "Liessen",
+        "Walter Karlen",
+        "Mack DJ",
+        "EU",
+        "Muroi C",
+        "Dauernd",
+        "Computersysteme",
+        "De News",
+        "Schwab P",
+        "Neurochirurgischen Intensivstation"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Machine-Learning-Methoden",
+        "who",
+        "Tag Alarm",
+        "Strässle C",
+        "Karlen W",
+        "Intensivstation",
+        "Not to Cry Wolf",
+        "what",
+        "how",
+        "when"
+      ],
+      "graph_relations": [
+        "Walter Karlen_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

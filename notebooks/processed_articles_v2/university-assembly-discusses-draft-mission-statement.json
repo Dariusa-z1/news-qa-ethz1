@@ -1,0 +1,182 @@
+{
+  "filename": "university-assembly-discusses-draft-mission-statement.md",
+  "original_filename": "university-assembly-discusses-draft-mission-statement.html",
+  "source_path": "en_internal/2015/03/university-assembly-discusses-draft-mission-statement.html",
+  "date": "2015-03",
+  "title": "University Assembly Discusses Draft Mission Statement",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The University Assembly (UA) at ETH Zurich brings together all four groups of members of the university: lecturers, scientific staff, students and administrative and technical employees. It supports the management work of the Executive Board and the ETH Board with constructive criticism, discusses questions of university policy and ensures continuing member participation at ETH Zurich.\n\nAt its plenary session on 12 March 2015, the UA discussed among other topics:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The University Assembly (UA",
+        "label": "ORG",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 32,
+        "end": 42
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 63,
+        "end": 67
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 222,
+        "end": 241
+      },
+      {
+        "text": "the ETH Board",
+        "label": "ORG",
+        "start": 246,
+        "end": 259
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 377,
+        "end": 387
+      },
+      {
+        "text": "12 March 2015",
+        "label": "DATE",
+        "start": 415,
+        "end": 428
+      },
+      {
+        "text": "UA",
+        "label": "ORG",
+        "start": 434,
+        "end": 436
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zurich",
+        "The University Assembly (UA",
+        "UA",
+        "the ETH Board",
+        "the Executive Board"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "12 March 2015"
+      ],
+      "MISC": [
+        "four"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "The University Assembly (UA": 1,
+      "four": 1,
+      "the Executive Board": 1,
+      "the ETH Board": 1,
+      "12 March 2015": 1,
+      "UA": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "university-assembly-discusses-draft-mission-statement.md",
+      "title": "En Internal/2015/03/university Assembly Discusses Draft Mission Statement",
+      "language": "en",
+      "source_path": "en_internal/2015/03/university-assembly-discusses-draft-mission-statement.html"
+    },
+    "temporal": {
+      "publication_date": "2015-03",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "four"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Assembly Discusses",
+        "ETH Board",
+        "University Assembly",
+        "Draft Mission",
+        "Executive Board",
+        "En Internal",
+        "Statement The",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "The University Assembly (UA",
+        "UA",
+        "the ETH Board",
+        "the Executive Board"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "The University Assembly (UA",
+        "four",
+        "the Executive Board",
+        "the ETH Board",
+        "12 March 2015",
+        "UA"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 541
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "The University Assembly (UA",
+        "2015",
+        "UA",
+        "the Executive Board",
+        "the ETH Board",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "four",
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

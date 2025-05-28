@@ -1,0 +1,702 @@
+{
+  "filename": "roboterteam-auf-mond-erkundungstour.md",
+  "original_filename": "roboterteam-auf-mond-erkundungstour.html",
+  "source_path": "de_news_events/2023/07/roboterteam-auf-mond-erkundungstour.html",
+  "date": "2023-07",
+  "title": "Roboterteam Auf Mond Erkundungstour",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "In Kürze",
+      "text": "- Forschende statteten drei Laufroboter mit Messinstrumenten aus, um auf dem Mond Mineralien zu finden.\n\n- Das Teamwork macht die Roboter gleichzeitig effizient und robust gegenüber einem allfälligen Ausfall.\n\n- Die Wissenschaftler:innen gewannen damit die europäische Space Resources Challenge in Luxemburg."
+    },
+    {
+      "heading": "Versicherung gegen einen Ausfall",
+      "text": "Auf dem Mond locken Rohstoffe, welche die Menschheit eines Tages abbauen und nutzen könnte. Bereits planen verschiedene Raumfahrtbehörden wie die Europäische Weltraumorganisation ESA Missionen, um den Erdtrabanten besser zu erforschen und Mineralien aufzuspüren. Dazu braucht es entsprechende Erkundungsvehikel. Schweizer Forschende unter Leitung der ETH Zürich verfolgen nun die Idee, nicht einen einzigen Rover auf Erkundungstour zu schicken, sondern ein ganzes Team von Vehikeln und Fluggeräten, die sich gegenseitig ergänzen.\n\nAls mögliche künftige Erkundungsgeräte rüsteten die Forschenden drei Laufroboter vom Typ Anymal, der an der ETH entwickelt worden ist, mit unterschiedlichen Mess- und Analysegeräten aus. Diese Laufroboter testeten sie auf verschiedenen Geländen in der Schweiz und am Europäischen Innovationszentrum für Weltraumressourcen (ESRIC) in Luxemburg. Dort hat das Schweizer Team vor wenigen Monaten gemeinsam mit Kollegen aus Deutschland einen europäischen Wettbewerb für Mond-Rover gewonnen. Im Wettbewerb ging es darum, auf einem der Mondoberfläche nachempfundenen Testgelände Mineralien zu finden und zu bestimmen. In der jüngsten Ausgabe der Fachzeitschrift externe Seite Science Robotics beschreiben die Wissenschaftler:innen, wie sie ein unbekanntes Gelände mit mehreren Robotern erkunden."
+    },
+    {
+      "heading": "Versicherung gegen einen Ausfall",
+      "text": "«Mehrere Roboter zu nutzen, hat zwei Vorteile», erklärt Philip Arm, Doktorand in der Gruppe von ETH-Professor Marco Hutter. «Die einzelnen Roboter können spezialisierte Aufgaben übernehmen und diese zeitgleich ausführen. Zudem ist ein Roboter-Team dank seiner Redundanz dazu imstande, den Ausfall eines Teamgefährten zu kompensieren.» Redundanz heisst in diesem Fall, dass wichtige Messgeräte auf mehreren Robotern installiert sind. Redundanz und Spezialisierung sind also entgegengesetzte Ziele. «Um die Vorteile von beidem nutzen zu können, gilt es, die richtige Balance zu finden», sagt Arm."
+    },
+    {
+      "heading": "Literaturhinweis",
+      "text": "Die Forschenden der ETH Zürich sowie der Universitäten Basel, Bern und Zürich lösten dies so, indem sie zwei Laufroboter als Spezialisten ausrüsteten: Einer war besonders gut darin, das Gelände zu kartieren und die Geologie einzuordnen. Er nutzte dazu einen Laserscanner sowie mehrere Kameras, darunter auch solche, die Spektralanalysen durchführen können, um erste Hinweise zur mineralischen Zusammensetzung des Gesteins zu erhalten. Der andere Roboter war auf die präzise Bestimmung von Gesteinen spezialisiert. Dazu diente ihm ein Raman-Spektrometer und eine Mikroskopie-Kamera.\n\nDer dritte Roboter war ein Generalist: Er konnte sowohl das Gelände kartieren und Gesteine bestimmen, hatte also ein breiteres Aufgabenspektrum als die Spezialisten, konnte diese Aufgaben mit seinen Geräten aber weniger präzise ausführen. «Auf diese Weise wäre es möglich, die Mission erfolgreich zu Ende zu führen, falls einer der Roboter ausfiele, egal welcher», sagt Arm.\n\nBei der Space Resources Challenge von ESRIC und ESA war die Jury besonders davon angetan, dass es den Forschenden dank der Redundanz gelungen ist, ein gegenüber Ausfällen robustes Erkundungssystem zu entwickeln. Als Preis gewannen die Schweizer Wissenschaftler:innen gemeinsam mit Kolleg:innen des Forschungszentrum Informatik in Karlsruhe einen Forschungsvertrag über ein Jahr, um die Technologie weiterzuentwickeln. Dabei werden nicht nur Laufroboter zum Einsatz kommen, sondern auch Roboter mit Rädern. Die Kolleg:innen des Forschungszentrums Informatik arbeiten mit solchen.\n\n«Laufroboter wie unser Anymal haben Vorteile in Blockfeldern und in steilem Gelände, um zum Beispiel in einen Krater hinabzusteigen», erklärt Hendrik Kolvenbach, Wissenschaftler in der Gruppe von ETH-Professor Hutter. Roboter mit Rädern sind da im Nachteil. Hingegen können sich letztere auf einfacherem Terrain schneller fortbewegen. Bei einer künftigen Mission wäre es deshalb sinnvoll, Roboter zu kombinieren, die sich hinsichtlich ihrer Fortbewegungsart unterscheiden. Auch Flugroboter könnten dazukommen.\n\nAusserdem planen die Forschenden, die Autonomie der Roboter zu erhöhen. Bis jetzt flossen alle Daten der Roboter in ein Kontrollzentrum, wo ein Operator den einzelnen Robotern Aufgaben zuteilt. In Zukunft könnten sich teilautonome Roboter bestimmte Aufgaben gegenseitig direkt zuteilen, mit Kontroll- und Eingriffsmöglichkeiten für den Operator.\n\nArm P, Waibel G, Preisig J, Tuna T, Zhou R, Bickel V, Ligeza G, Miki T, Kehl F, Kolvenbach H, Hutter M: Scientific Exploration of Challenging Planetary Analog Environments with a Team of Legged Robots. Science Robotics, 12. Juni 2023, doi: externe Seite 10.1126/scirobotics.ade9548"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Forschende",
+        "label": "PER",
+        "start": 2,
+        "end": 12
+      },
+      {
+        "text": "Mond Mineralien",
+        "label": "LOC",
+        "start": 77,
+        "end": 92
+      },
+      {
+        "text": "Das Teamwork",
+        "label": "MISC",
+        "start": 106,
+        "end": 118
+      },
+      {
+        "text": "europäische Space Resources Challenge",
+        "label": "MISC",
+        "start": 255,
+        "end": 292
+      },
+      {
+        "text": "Luxemburg",
+        "label": "LOC",
+        "start": 296,
+        "end": 305
+      },
+      {
+        "text": "Mond",
+        "label": "LOC",
+        "start": 8,
+        "end": 12
+      },
+      {
+        "text": "Tages",
+        "label": "MISC",
+        "start": 59,
+        "end": 64
+      },
+      {
+        "text": "Europäische Weltraumorganisation",
+        "label": "ORG",
+        "start": 146,
+        "end": 178
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 179,
+        "end": 182
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 312,
+        "end": 321
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 351,
+        "end": 361
+      },
+      {
+        "text": "Erkundungstour",
+        "label": "LOC",
+        "start": 417,
+        "end": 431
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 638,
+        "end": 641
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 782,
+        "end": 789
+      },
+      {
+        "text": "Europäischen Innovationszentrum",
+        "label": "ORG",
+        "start": 797,
+        "end": 828
+      },
+      {
+        "text": "Weltraumressourcen",
+        "label": "LOC",
+        "start": 833,
+        "end": 851
+      },
+      {
+        "text": "ESRIC",
+        "label": "ORG",
+        "start": 853,
+        "end": 858
+      },
+      {
+        "text": "Luxemburg",
+        "label": "LOC",
+        "start": 863,
+        "end": 872
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 887,
+        "end": 896
+      },
+      {
+        "text": "Deutschland",
+        "label": "LOC",
+        "start": 949,
+        "end": 960
+      },
+      {
+        "text": "europäischen",
+        "label": "MISC",
+        "start": 967,
+        "end": 979
+      },
+      {
+        "text": "Mond-Rover",
+        "label": "MISC",
+        "start": 995,
+        "end": 1005
+      },
+      {
+        "text": "Mondoberfläche",
+        "label": "LOC",
+        "start": 1059,
+        "end": 1073
+      },
+      {
+        "text": "Science Robotics",
+        "label": "ORG",
+        "start": 1199,
+        "end": 1215
+      },
+      {
+        "text": "Philip Arm",
+        "label": "PER",
+        "start": 56,
+        "end": 66
+      },
+      {
+        "text": "ETH-Professor Marco Hutter",
+        "label": "MISC",
+        "start": 96,
+        "end": 122
+      },
+      {
+        "text": "Roboter-Team",
+        "label": "ORG",
+        "start": 235,
+        "end": 247
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 20,
+        "end": 30
+      },
+      {
+        "text": "Basel",
+        "label": "ORG",
+        "start": 55,
+        "end": 60
+      },
+      {
+        "text": "Bern",
+        "label": "ORG",
+        "start": 62,
+        "end": 66
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 71,
+        "end": 77
+      },
+      {
+        "text": "Gesteinen",
+        "label": "PER",
+        "start": 489,
+        "end": 498
+      },
+      {
+        "text": "ausfiele",
+        "label": "PER",
+        "start": 922,
+        "end": 930
+      },
+      {
+        "text": "egal",
+        "label": "PER",
+        "start": 932,
+        "end": 936
+      },
+      {
+        "text": "Space Resources Challenge",
+        "label": "MISC",
+        "start": 965,
+        "end": 990
+      },
+      {
+        "text": "ESRIC",
+        "label": "ORG",
+        "start": 995,
+        "end": 1000
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 1005,
+        "end": 1008
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 1192,
+        "end": 1201
+      },
+      {
+        "text": "Karlsruhe",
+        "label": "MISC",
+        "start": 1287,
+        "end": 1296
+      },
+      {
+        "text": "Forschungszentrums",
+        "label": "ORG",
+        "start": 1484,
+        "end": 1502
+      },
+      {
+        "text": "Blockfeldern",
+        "label": "LOC",
+        "start": 1584,
+        "end": 1596
+      },
+      {
+        "text": "Hendrik Kolvenbach",
+        "label": "PER",
+        "start": 1678,
+        "end": 1696
+      },
+      {
+        "text": "ETH-Professor Hutter",
+        "label": "PER",
+        "start": 1732,
+        "end": 1752
+      },
+      {
+        "text": "Flugroboter",
+        "label": "PER",
+        "start": 2014,
+        "end": 2025
+      },
+      {
+        "text": "Arm P",
+        "label": "PER",
+        "start": 2392,
+        "end": 2397
+      },
+      {
+        "text": "Waibel G",
+        "label": "PER",
+        "start": 2399,
+        "end": 2407
+      },
+      {
+        "text": "Preisig J",
+        "label": "PER",
+        "start": 2409,
+        "end": 2418
+      },
+      {
+        "text": "Tuna T",
+        "label": "PER",
+        "start": 2420,
+        "end": 2426
+      },
+      {
+        "text": "Zhou R",
+        "label": "PER",
+        "start": 2428,
+        "end": 2434
+      },
+      {
+        "text": "Bickel V",
+        "label": "MISC",
+        "start": 2436,
+        "end": 2444
+      },
+      {
+        "text": "Ligeza G",
+        "label": "PER",
+        "start": 2446,
+        "end": 2454
+      },
+      {
+        "text": "Miki T",
+        "label": "PER",
+        "start": 2456,
+        "end": 2462
+      },
+      {
+        "text": "Kehl F",
+        "label": "PER",
+        "start": 2464,
+        "end": 2470
+      },
+      {
+        "text": "Kolvenbach H",
+        "label": "PER",
+        "start": 2472,
+        "end": 2484
+      },
+      {
+        "text": "Hutter M",
+        "label": "MISC",
+        "start": 2486,
+        "end": 2494
+      },
+      {
+        "text": "Scientific Exploration of Challenging Planetary Analog Environments",
+        "label": "ORG",
+        "start": 2496,
+        "end": 2563
+      },
+      {
+        "text": "Legged Robots",
+        "label": "MISC",
+        "start": 2579,
+        "end": 2592
+      },
+      {
+        "text": "Science Robotics",
+        "label": "ORG",
+        "start": 2594,
+        "end": 2610
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Arm P",
+        "ETH-Professor Hutter",
+        "Flugroboter",
+        "Forschende",
+        "Gesteinen",
+        "Hendrik Kolvenbach",
+        "Kehl F",
+        "Kolvenbach H",
+        "Ligeza G",
+        "Miki T",
+        "Philip Arm",
+        "Preisig J",
+        "Tuna T",
+        "Waibel G",
+        "Zhou R",
+        "ausfiele",
+        "egal"
+      ],
+      "ORG": [
+        "Basel",
+        "Bern",
+        "ESA",
+        "ESRIC",
+        "ETH",
+        "ETH Zürich",
+        "Europäische Weltraumorganisation",
+        "Europäischen Innovationszentrum",
+        "Forschungszentrums",
+        "Roboter-Team",
+        "Science Robotics",
+        "Scientific Exploration of Challenging Planetary Analog Environments"
+      ],
+      "LOCATION": [
+        "Blockfeldern",
+        "Deutschland",
+        "Erkundungstour",
+        "Luxemburg",
+        "Mond",
+        "Mond Mineralien",
+        "Mondoberfläche",
+        "Schweiz",
+        "Weltraumressourcen",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Bickel V",
+        "Das Teamwork",
+        "ETH-Professor Marco Hutter",
+        "Hutter M",
+        "Karlsruhe",
+        "Legged Robots",
+        "Mond-Rover",
+        "Schweizer",
+        "Space Resources Challenge",
+        "Tages",
+        "europäische Space Resources Challenge",
+        "europäischen"
+      ]
+    },
+    "entity_counts": {
+      "Schweizer": 3,
+      "Luxemburg": 2,
+      "ESA": 2,
+      "ETH Zürich": 2,
+      "ESRIC": 2,
+      "Science Robotics": 2,
+      "Forschende": 1,
+      "Mond Mineralien": 1,
+      "Das Teamwork": 1,
+      "europäische Space Resources Challenge": 1,
+      "Mond": 1,
+      "Tages": 1,
+      "Europäische Weltraumorganisation": 1,
+      "Erkundungstour": 1,
+      "ETH": 1,
+      "Schweiz": 1,
+      "Europäischen Innovationszentrum": 1,
+      "Weltraumressourcen": 1,
+      "Deutschland": 1,
+      "europäischen": 1
+    },
+    "total_entities": 58,
+    "unique_entities": 51
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "roboterteam-auf-mond-erkundungstour.md",
+      "title": "De News Events/2023/07/roboterteam auf Mond Erkundungstour",
+      "language": "de",
+      "source_path": "de_news_events/2023/07/roboterteam-auf-mond-erkundungstour.html"
+    },
+    "temporal": {
+      "publication_date": "2023-07",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Arm P",
+        "ETH-Professor Hutter",
+        "Flugroboter",
+        "Forschende",
+        "Gesteinen",
+        "Hendrik Kolvenbach",
+        "Kehl F",
+        "Kolvenbach H",
+        "Ligeza G",
+        "Miki T",
+        "Philip Arm",
+        "Preisig J",
+        "Tuna T",
+        "Waibel G",
+        "Zhou R",
+        "ausfiele",
+        "egal"
+      ],
+      "people_with_roles": {
+        "ETH-Professor Hutter": [
+          "professor"
+        ],
+        "Hendrik Kolvenbach": [
+          "professor"
+        ],
+        "Philip Arm": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Bickel V",
+        "Das Teamwork",
+        "ETH-Professor Marco Hutter",
+        "Hutter M",
+        "Karlsruhe",
+        "Legged Robots",
+        "Mond-Rover",
+        "Schweizer",
+        "Space Resources Challenge",
+        "Tages",
+        "europäische Space Resources Challenge",
+        "europäischen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Waibel G",
+        "Roboter-Team",
+        "Analog Environments",
+        "Mehrere Roboter",
+        "Seite Science",
+        "Die Forschenden",
+        "Kehl F",
+        "ETH-Professor",
+        "Als Preis",
+        "Schweizer Team",
+        "Mond Erkundungstour",
+        "Raman-Spektrometer",
+        "Ligeza G",
+        "Marco Hutter",
+        "Diese Laufroboter",
+        "Weltraumorganisation ESA",
+        "Hendrik Kolvenbach",
+        "Kolvenbach H",
+        "Legged Robots",
+        "Schweizer Forschende",
+        "Tuna T",
+        "Hutter M",
+        "Mond-Rover",
+        "Miki T",
+        "Forschungszentrum Informatik",
+        "Zhou R",
+        "Mond Mineralien",
+        "Im Wettbewerb",
+        "Die Wissenschaftler",
+        "Die Kolleg",
+        "Challenging Planetary",
+        "Mikroskopie-Kamera",
+        "Das Teamwork",
+        "In Zukunft",
+        "Typ Anymal",
+        "Arm P",
+        "Space Resources",
+        "Scientific Exploration",
+        "Robotern Aufgaben",
+        "De News",
+        "Philip Arm",
+        "Schweizer Wissenschaftler",
+        "Auch Flugroboter",
+        "Preisig J",
+        "Science Robotics",
+        "Bickel V",
+        "Forschungszentrums Informatik"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Basel",
+        "Bern",
+        "ESA",
+        "ESRIC",
+        "ETH",
+        "ETH Zürich",
+        "Europäische Weltraumorganisation",
+        "Europäischen Innovationszentrum",
+        "Forschungszentrums",
+        "Roboter-Team",
+        "Science Robotics",
+        "Scientific Exploration of Challenging Planetary Analog Environments"
+      ],
+      "locations": [
+        "Blockfeldern",
+        "Deutschland",
+        "Erkundungstour",
+        "Luxemburg",
+        "Mond",
+        "Mond Mineralien",
+        "Mondoberfläche",
+        "Schweiz",
+        "Weltraumressourcen",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Schweizer",
+        "Luxemburg",
+        "ESA",
+        "ETH Zürich",
+        "ESRIC",
+        "Science Robotics",
+        "Forschende",
+        "Mond Mineralien",
+        "Das Teamwork",
+        "europäische Space Resources Challenge"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "In Kürze",
+          "Versicherung gegen einen Ausfall",
+          "Versicherung gegen einen Ausfall",
+          "Literaturhinweis"
+        ],
+        "content_length": 4961
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Waibel G",
+        "Roboter-Team",
+        "Bern",
+        "Kehl F",
+        "Europäische Weltraumorganisation",
+        "Ligeza G",
+        "Hendrik Kolvenbach",
+        "Kolvenbach H",
+        "ESA",
+        "ETH Zürich",
+        "ETH-Professor Hutter",
+        "Tuna T",
+        "Miki T",
+        "ausfiele",
+        "Zhou R",
+        "Gesteinen",
+        "Scientific Exploration of Challenging Planetary Analog Environments",
+        "Forschende",
+        "EU",
+        "egal",
+        "Arm P",
+        "Flugroboter",
+        "Forschungszentrums",
+        "Philip Arm",
+        "ESRIC",
+        "Europäischen Innovationszentrum",
+        "Preisig J",
+        "Science Robotics",
+        "Basel",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Space Resources Challenge",
+        "Schweizer",
+        "who",
+        "Legged Robots",
+        "Tages",
+        "europäischen",
+        "Hutter M",
+        "europäische Space Resources Challenge",
+        "Mond-Rover",
+        "Bickel V",
+        "when",
+        "Das Teamwork",
+        "ETH-Professor Marco Hutter",
+        "Karlsruhe"
+      ],
+      "graph_relations": [
+        "ETH-Professor Hutter_has_role_professor",
+        "Hendrik Kolvenbach_has_role_professor",
+        "Philip Arm_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

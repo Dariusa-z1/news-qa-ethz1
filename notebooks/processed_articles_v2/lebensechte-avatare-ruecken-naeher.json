@@ -1,0 +1,697 @@
+{
+  "filename": "lebensechte-avatare-ruecken-naeher.md",
+  "original_filename": "lebensechte-avatare-ruecken-naeher.html",
+  "source_path": "de_news_events/2022/01/lebensechte-avatare-ruecken-naeher.html",
+  "date": "2022-01",
+  "title": "Lebensechte Avatare Ruecken Naeher",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Computermodell kann sogar Überschlag darstellen",
+      "text": "Spätestens seit der Corona-Pandemie starren wir noch häufiger in den Bildschirm. Sitzungen, Gespräche mit Arbeitskolleg:innen oder Konferenzen finden per Videotelefonie statt. Geht es nach den grossen Tech-Unternehmen, sollen wir uns dagegen schon ab nächstem Jahr in einer virtuellen Erlebniswelt, dem sogenannten Metaversum, treffen können – mittels 3D-Brillen und spezialisierten Computerprogrammen.\n\nDer Schlüssel zu einem möglichst natürlichen Nutzererlebnis in Virtual-Reality-Anwendungen sind sogenannte Avatare, also computergenerierte, plastische Darstellungen von Menschen. Je realistischer die Avatare aussehen und sich verhalten, desto eher stellt sich das Gefühl einer echten sozialen Interaktion ein.\n\nEinen Menschen detailgetreu und in Bewegung zu modellieren, fordert die Entwickler:innen solcher Anwendungen jedoch nach wie vor heraus. Heute können Grafikprogramme zwar schon fotorealistische, statische Avatare erstellen. Um aber beispielsweise ein lachendes Gesicht zu animieren, müssen Grafikdesigner:innen fast jedes Einzelbild am Computer nochmals von Hand bearbeiten; sie bessern Nuancen wie Falten und den Schattenwurf aus.\n\nWie es einfacher geht, zeigten Forscher um Otmar Hilliges, Professor für Computerwissenschaften an der ETH Zürich, in einer neuen Studie, die sie an der externe Seite Internationalen Konferenz für Computer Vision im Herbst 2021 veröffentlichten. Anstatt jedes Detail zu modellieren, nutzen die Wissenschaftler intelligente Algorithmen, die basierend auf 3D-Bildern von Menschen in einigen wenigen Posen lernen, animierte Ganzkörper-Avatare in allen erdenklichen Posen automatisch darzustellen."
+    },
+    {
+      "heading": "Computermodell kann sogar Überschlag darstellen",
+      "text": "Computerprogramme, die mithilfe künstlicher Intelligenz (KI) lebensechte virtuelle Menschen erstellen, existieren erst seit wenigen Jahren. Damit diese Programme die verschiedenen Körperpositionen realistisch abbilden können, werden sie mit sogenannten 3D-Scans eines realen Menschen trainiert, die ein komplexes Kamerasystem vorgängig aufgenommen hat.\n\nDie KI-Algorithmen verarbeiten die Scans, indem sie unzählige Punkte ausserhalb und innerhalb des Körpers vermessen und so dessen Konturen als mathematische Funktion definieren. Sie erstellen dabei eine erste Darstellung des Menschens in der Grundposition. Die Algorithmen berechnen nun jeweils den Weg von einer bewegten Pose zurück in diese Grundposition. Auf diese Weise bauen sie ein Computermodell auf, das Avatare in Bewegung versetzen kann.\n\nExtreme Posen ausserhalb des bekannten Bewegungsrepertoires überfordern solche Modelle jedoch und es entstehen gut sichtbare Fehler in den Darstellungen: Die Arme sind losgelöst vom Körper oder die Gelenke am falschen Ort positioniert. Heutige Modelle werden daher mit möglichst vielen verschieden Posen trainiert, was einen riesigen Aufwand für die Bilderfassung bedeutet und eine enorme Rechenleistung voraussetzt.\n\nGerade für interaktive Anwendungen sind KI-Avatare daher bislang kaum verwendbar. «Es ist unmöglich und vor allem ineffizient, das gesamte Bewegungsrepertoire im Bild einzufangen», sagt Xu Chen, ETH-Doktorand und Erstautor der Studie."
+    },
+    {
+      "heading": "Wer genau hinschaut, kann Deepfakes entlarven",
+      "text": "Die von Chen entwickelte neue Methode verfolgt hingegen den umgekehrten Ansatz: Ausgehend von der Grundposition berechnen die KI-Algorithmen den Weg zu einer bewegten Pose. Weil auf diese Weise der Ausgangspunkt der Berechnungen immer der gleiche bleibt, lernen die Algorithmen besser, Bewegungen zu verallgemeinern.\n\nEin solches Computermodell ist erstmals in der Lage, auch neue Bewegungsmuster problemlos darzustellen. Selbst akrobatische Bewegungen wie einen Überschlag oder eine Rückenbrücke kann es erzeugen."
+    },
+    {
+      "heading": "Beliebig neue Gesichter mit nur einem Bild",
+      "text": "Noch lassen sich die neuen Ganzkörper-Avatare nicht personalisieren; die Darstellungen beschränken sich auf den Menschen, von dem die 3D-Bilder stammen. Chen und seine Kollegen möchten daher das Computermodell dahingehend weiterentwickeln, dass es beliebig neue Identitäten erschaffen kann.\n\nUm die Gesichter von Avataren zu personalisieren und beliebig abzuändern, hat Marcel Bühler, ebenfalls Doktorand in Hilliges Gruppe, bereits eine Lösung gefunden. Wie auch Chen in seinen Ganzkörpermodellen nutzte Bühler intelligente Algorithmen, die aus der Kombination von einem 3D-Gesichtsmodell und einer grossen Palette von Porträtfotos neue animierte Gesichter zu kreieren.\n\nWährend bisherige Computerprogramme bereits gute Animationen von Gesichtern in der Frontalansicht liefern, kann das Modell von Bühler auch Gesichter in der seitlichen Ansicht sowie von oben und unten realistisch darstellen.\n\nBesteht die Gefahr, dass mit der neuen Technik bald noch realistischere Deepfake-Videos kursieren, um beispielsweise eine Rede eines wichtigen Politikers vorzugaukeln? «Deepfake-Videos sind noch lange nicht perfekt», erklärt Bühler. Die meisten Computerprogramme würden oft nur für ein bestimmtes Setting gute Resultate liefern. So kann das neue Gesichtsmodell beispielsweise Details wie Haare noch nicht realistisch darstellen.\n\n«Wer genau hinschaut, findet nach wie vor Fehler», sagt der ETH-Doktorand. Er findet es wichtiger, die Öffentlichkeit über den aktuellen Stand der Dinge zu informieren und sie zu sensibilisieren. Wenn Forschungsarbeiten zu 3D-Darstellungstechniken wie auch deren Schwachstellen öffentlich zugänglich seien, könnte dies Cybersecurity-Expert:innen dabei helfen, Deepfake-Videos im Web leichter aufzuspüren, so Bühler.\n\nFür interaktive Virtual-Reality-Anwendungen bringt die Arbeit der ETH-Forscher grosse Fortschritte. Gut möglich, dass Tech-Unternehmen wie Facebook und Microsoft die neu entwickelten Techniken der beiden Doktoranden in ihre Avatare implementieren werden.\n\nChen X, Zheng Y, Black M, Hilliges O, Geiger A. externe Seite SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes . International Conference on Computer Vision (ICCV), online publiziert am 11. Oktober 2021.\n\nBühler M, Meka A, Li G, Beeler T, Hilliges O. externe Seite VariTex: Variational Neural Face Textures . International Conference on Computer Vision (ICCV), online publiziert am 11. Oktober 2021."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Avatare",
+        "label": "PER",
+        "start": 35,
+        "end": 42
+      },
+      {
+        "text": "Naeher",
+        "label": "PER",
+        "start": 51,
+        "end": 57
+      },
+      {
+        "text": "Corona-Pandemie",
+        "label": "ORG",
+        "start": 20,
+        "end": 35
+      },
+      {
+        "text": "Arbeitskolleg",
+        "label": "ORG",
+        "start": 106,
+        "end": 119
+      },
+      {
+        "text": "Geht",
+        "label": "PER",
+        "start": 176,
+        "end": 180
+      },
+      {
+        "text": "Virtual-Reality-Anwendungen",
+        "label": "LOC",
+        "start": 466,
+        "end": 493
+      },
+      {
+        "text": "sozialen",
+        "label": "MISC",
+        "start": 688,
+        "end": 696
+      },
+      {
+        "text": "Grafikdesigner",
+        "label": "PER",
+        "start": 1004,
+        "end": 1018
+      },
+      {
+        "text": "Otmar Hilliges",
+        "label": "PER",
+        "start": 1189,
+        "end": 1203
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1249,
+        "end": 1259
+      },
+      {
+        "text": "Internationalen Konferenz für Computer Vision",
+        "label": "MISC",
+        "start": 1313,
+        "end": 1358
+      },
+      {
+        "text": "Ganzkörper-Avatare",
+        "label": "PER",
+        "start": 1567,
+        "end": 1585
+      },
+      {
+        "text": "Posen",
+        "label": "LOC",
+        "start": 1608,
+        "end": 1613
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 57,
+        "end": 59
+      },
+      {
+        "text": "KI-Algorithmen",
+        "label": "ORG",
+        "start": 357,
+        "end": 371
+      },
+      {
+        "text": "Scans",
+        "label": "ORG",
+        "start": 388,
+        "end": 393
+      },
+      {
+        "text": "Extreme Posen",
+        "label": "ORG",
+        "start": 801,
+        "end": 814
+      },
+      {
+        "text": "Bewegungsrepertoires",
+        "label": "PER",
+        "start": 840,
+        "end": 860
+      },
+      {
+        "text": "Posen",
+        "label": "LOC",
+        "start": 1099,
+        "end": 1104
+      },
+      {
+        "text": "Bewegungsrepertoire",
+        "label": "LOC",
+        "start": 1357,
+        "end": 1376
+      },
+      {
+        "text": "Xu Chen",
+        "label": "PER",
+        "start": 1404,
+        "end": 1411
+      },
+      {
+        "text": "ETH-Doktorand",
+        "label": "ORG",
+        "start": 1413,
+        "end": 1426
+      },
+      {
+        "text": "Chen",
+        "label": "PER",
+        "start": 8,
+        "end": 12
+      },
+      {
+        "text": "KI-Algorithmen",
+        "label": "ORG",
+        "start": 126,
+        "end": 140
+      },
+      {
+        "text": "Ganzkörper-Avatare",
+        "label": "LOC",
+        "start": 27,
+        "end": 45
+      },
+      {
+        "text": "Chen",
+        "label": "PER",
+        "start": 153,
+        "end": 157
+      },
+      {
+        "text": "Marcel Bühler",
+        "label": "PER",
+        "start": 369,
+        "end": 382
+      },
+      {
+        "text": "Hilliges Gruppe",
+        "label": "ORG",
+        "start": 407,
+        "end": 422
+      },
+      {
+        "text": "Chen",
+        "label": "PER",
+        "start": 463,
+        "end": 467
+      },
+      {
+        "text": "Bühler",
+        "label": "PER",
+        "start": 504,
+        "end": 510
+      },
+      {
+        "text": "Porträtfotos",
+        "label": "PER",
+        "start": 619,
+        "end": 631
+      },
+      {
+        "text": "Computerprogramme",
+        "label": "PER",
+        "start": 688,
+        "end": 705
+      },
+      {
+        "text": "Bühler",
+        "label": "PER",
+        "start": 797,
+        "end": 803
+      },
+      {
+        "text": "Deepfake-Videos",
+        "label": "PER",
+        "start": 1063,
+        "end": 1078
+      },
+      {
+        "text": "Bühler",
+        "label": "PER",
+        "start": 1119,
+        "end": 1125
+      },
+      {
+        "text": "ETH-Doktorand",
+        "label": "ORG",
+        "start": 1383,
+        "end": 1396
+      },
+      {
+        "text": "Cybersecurity-Expert",
+        "label": "LOC",
+        "start": 1642,
+        "end": 1662
+      },
+      {
+        "text": "Bühler",
+        "label": "PER",
+        "start": 1731,
+        "end": 1737
+      },
+      {
+        "text": "ETH-Forscher",
+        "label": "MISC",
+        "start": 1805,
+        "end": 1817
+      },
+      {
+        "text": "Facebook",
+        "label": "MISC",
+        "start": 1878,
+        "end": 1886
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 1891,
+        "end": 1900
+      },
+      {
+        "text": "Chen X",
+        "label": "PER",
+        "start": 1994,
+        "end": 2000
+      },
+      {
+        "text": "Zheng Y",
+        "label": "PER",
+        "start": 2002,
+        "end": 2009
+      },
+      {
+        "text": "Hilliges O",
+        "label": "ORG",
+        "start": 2020,
+        "end": 2030
+      },
+      {
+        "text": "Geiger A.",
+        "label": "PER",
+        "start": 2032,
+        "end": 2041
+      },
+      {
+        "text": "SNARF",
+        "label": "ORG",
+        "start": 2056,
+        "end": 2061
+      },
+      {
+        "text": "Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes",
+        "label": "MISC",
+        "start": 2063,
+        "end": 2141
+      },
+      {
+        "text": "International Conference on Computer Vision",
+        "label": "MISC",
+        "start": 2144,
+        "end": 2187
+      },
+      {
+        "text": "ICCV",
+        "label": "ORG",
+        "start": 2189,
+        "end": 2193
+      },
+      {
+        "text": "Bühler M",
+        "label": "ORG",
+        "start": 2235,
+        "end": 2243
+      },
+      {
+        "text": "Meka A",
+        "label": "PER",
+        "start": 2245,
+        "end": 2251
+      },
+      {
+        "text": "Li G",
+        "label": "PER",
+        "start": 2253,
+        "end": 2257
+      },
+      {
+        "text": "Beeler T",
+        "label": "PER",
+        "start": 2259,
+        "end": 2267
+      },
+      {
+        "text": "Hilliges O.",
+        "label": "PER",
+        "start": 2269,
+        "end": 2280
+      },
+      {
+        "text": "Variational Neural Face Textures",
+        "label": "ORG",
+        "start": 2304,
+        "end": 2336
+      },
+      {
+        "text": "International Conference on Computer Vision",
+        "label": "MISC",
+        "start": 2339,
+        "end": 2382
+      },
+      {
+        "text": "ICCV",
+        "label": "ORG",
+        "start": 2384,
+        "end": 2388
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Avatare",
+        "Beeler T",
+        "Bewegungsrepertoires",
+        "Bühler",
+        "Chen",
+        "Chen X",
+        "Computerprogramme",
+        "De News",
+        "Deepfake-Videos",
+        "Ganzkörper-Avatare",
+        "Geht",
+        "Geiger A.",
+        "Grafikdesigner",
+        "Hilliges O.",
+        "Li G",
+        "Marcel Bühler",
+        "Meka A",
+        "Naeher",
+        "Otmar Hilliges",
+        "Porträtfotos",
+        "Xu Chen",
+        "Zheng Y"
+      ],
+      "ORG": [
+        "Arbeitskolleg",
+        "Bühler M",
+        "Corona-Pandemie",
+        "ETH Zürich",
+        "ETH-Doktorand",
+        "Extreme Posen",
+        "Hilliges Gruppe",
+        "Hilliges O",
+        "ICCV",
+        "KI",
+        "KI-Algorithmen",
+        "Microsoft",
+        "SNARF",
+        "Scans",
+        "Variational Neural Face Textures"
+      ],
+      "LOCATION": [
+        "Bewegungsrepertoire",
+        "Cybersecurity-Expert",
+        "Ganzkörper-Avatare",
+        "Posen",
+        "Virtual-Reality-Anwendungen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes",
+        "ETH-Forscher",
+        "Facebook",
+        "International Conference on Computer Vision",
+        "Internationalen Konferenz für Computer Vision",
+        "sozialen"
+      ]
+    },
+    "entity_counts": {
+      "Bühler": 4,
+      "Chen": 3,
+      "Ganzkörper-Avatare": 2,
+      "Posen": 2,
+      "KI-Algorithmen": 2,
+      "ETH-Doktorand": 2,
+      "International Conference on Computer Vision": 2,
+      "ICCV": 2,
+      "De News": 1,
+      "Avatare": 1,
+      "Naeher": 1,
+      "Corona-Pandemie": 1,
+      "Arbeitskolleg": 1,
+      "Geht": 1,
+      "Virtual-Reality-Anwendungen": 1,
+      "sozialen": 1,
+      "Grafikdesigner": 1,
+      "Otmar Hilliges": 1,
+      "ETH Zürich": 1,
+      "Internationalen Konferenz für Computer Vision": 1
+    },
+    "total_entities": 58,
+    "unique_entities": 47
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "lebensechte-avatare-ruecken-naeher.md",
+      "title": "De News Events/2022/01/lebensechte Avatare Ruecken Naeher",
+      "language": "de",
+      "source_path": "de_news_events/2022/01/lebensechte-avatare-ruecken-naeher.html"
+    },
+    "temporal": {
+      "publication_date": "2022-01",
+      "mentioned_years": [
+        "2021",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Avatare",
+        "Beeler T",
+        "Bewegungsrepertoires",
+        "Bühler",
+        "Chen",
+        "Chen X",
+        "Computerprogramme",
+        "De News",
+        "Deepfake-Videos",
+        "Ganzkörper-Avatare",
+        "Geht",
+        "Geiger A.",
+        "Grafikdesigner",
+        "Hilliges O.",
+        "Li G",
+        "Marcel Bühler",
+        "Meka A",
+        "Naeher",
+        "Otmar Hilliges",
+        "Porträtfotos",
+        "Xu Chen",
+        "Zheng Y"
+      ],
+      "people_with_roles": {
+        "Geht": [
+          "professor"
+        ],
+        "Otmar Hilliges": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes",
+        "ETH-Forscher",
+        "Facebook",
+        "International Conference on Computer Vision",
+        "Internationalen Konferenz für Computer Vision",
+        "sozialen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Seite Internationalen",
+        "KI-Avatare",
+        "Hilliges Gruppe",
+        "International Conference",
+        "Wenn Forschungsarbeiten",
+        "Virtual-Reality",
+        "Hilliges O",
+        "Corona-Pandemie",
+        "Extreme Posen",
+        "Heutige Modelle",
+        "Meka A",
+        "Implicit Shapes",
+        "ETH-Forscher",
+        "Computer Vision",
+        "Seite SNARF",
+        "Animating Non",
+        "Tech-Unternehmen",
+        "KI-Algorithmen",
+        "Beeler T",
+        "Li G",
+        "Otmar Hilliges",
+        "Geiger A",
+        "Einen Menschen",
+        "ETH-Doktorand",
+        "Face Textures",
+        "Black M",
+        "Deepfake-Videos",
+        "Seite VariTex",
+        "Die Algorithmen",
+        "Avatare Ruecken",
+        "Die Arme",
+        "Chen X",
+        "Die KI",
+        "Xu Chen",
+        "Zheng Y",
+        "De News",
+        "Differentiable Forward",
+        "Rigid Neural",
+        "Cybersecurity-Expert",
+        "Variational Neural"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Arbeitskolleg",
+        "Bühler M",
+        "Corona-Pandemie",
+        "ETH Zürich",
+        "ETH-Doktorand",
+        "Extreme Posen",
+        "Hilliges Gruppe",
+        "Hilliges O",
+        "ICCV",
+        "KI",
+        "KI-Algorithmen",
+        "Microsoft",
+        "SNARF",
+        "Scans",
+        "Variational Neural Face Textures"
+      ],
+      "locations": [
+        "Bewegungsrepertoire",
+        "Cybersecurity-Expert",
+        "Ganzkörper-Avatare",
+        "Posen",
+        "Virtual-Reality-Anwendungen"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Bühler",
+        "Chen",
+        "Ganzkörper-Avatare",
+        "Posen",
+        "KI-Algorithmen",
+        "ETH-Doktorand",
+        "International Conference on Computer Vision",
+        "ICCV",
+        "De News",
+        "Avatare"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Computermodell kann sogar Überschlag darstellen",
+          "Computermodell kann sogar Überschlag darstellen",
+          "Wer genau hinschaut, kann Deepfakes entlarven",
+          "Beliebig neue Gesichter mit nur einem Bild"
+        ],
+        "content_length": 6108
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Variational Neural Face Textures",
+        "Chen",
+        "SNARF",
+        "Hilliges Gruppe",
+        "Bewegungsrepertoires",
+        "Hilliges O",
+        "Avatare",
+        "Corona-Pandemie",
+        "Extreme Posen",
+        "Computerprogramme",
+        "Porträtfotos",
+        "Meka A",
+        "Naeher",
+        "ETH Zürich",
+        "Scans",
+        "Geiger A.",
+        "Arbeitskolleg",
+        "2022",
+        "KI-Algorithmen",
+        "Beeler T",
+        "Li G",
+        "EU",
+        "ICCV",
+        "Grafikdesigner",
+        "Otmar Hilliges",
+        "Bühler",
+        "Geht",
+        "ETH-Doktorand",
+        "Deepfake-Videos",
+        "Ganzkörper-Avatare",
+        "Hilliges O.",
+        "Bühler M",
+        "Chen X",
+        "Xu Chen",
+        "Zheng Y",
+        "Marcel Bühler",
+        "De News",
+        "Microsoft",
+        "KI",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Facebook",
+        "who",
+        "Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes",
+        "ETH-Forscher",
+        "Internationalen Konferenz für Computer Vision",
+        "what",
+        "how",
+        "sozialen",
+        "computer_science",
+        "International Conference on Computer Vision"
+      ],
+      "graph_relations": [
+        "Geht_has_role_professor",
+        "Otmar Hilliges_has_role_professor",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

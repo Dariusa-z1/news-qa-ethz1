@@ -1,0 +1,501 @@
+{
+  "filename": "die-eth-tanzt-mit-google-tango.md",
+  "original_filename": "die-eth-tanzt-mit-google-tango.html",
+  "source_path": "de_news_events/2014/07/die-eth-tanzt-mit-google-tango.html",
+  "date": "2014-07",
+  "title": "Die Eth Tanzt Mit Google Tango",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Virtuelle und reale Welt vereinen",
+      "text": "Ein Smartphone mit Navigationsfunktion, die uns in einem Einkaufszentrum den Weg zu den Cornflakes weist. Eines, das uns realistisch zeigt, wie ein noch nicht gekauftes Sofa in den eigenen vier Wänden aussieht. Oder eines, das Blinde führen kann, wie es derzeit Hunde tun. Dies könnte bald schon Realität sein. Eine Projektgruppe des Internetgiganten Google ist unter anderem zusammen mit Hardwareproduzenten und öffentlichen Forschungsinstitutionen daran, ein solches Mobilgerät und die entsprechende Software zu entwickeln. Die ETH-Professoren Marc Pollefeys und Roland Siegwart und ihre Mitarbeiter sind wesentlich an dieser Entwicklung, dem «Project Tango» beteiligt.\n\nDie Schlüsselfunktion des neuen Geräts ist seine Fähigkeit, die Umgebung detailliert und in Echtzeit dreidimensional zu erfassen. Dazu besitzt es nicht nur eine Kamera sowie einen Beschleunigungs- und Drehratensensor, wie bereits heute jedes Smartphone. Vielmehr sind darin zusätzlich eine zweite Kamera und eine Infrarotlichtquelle eingebaut. Letztere projiziert ein für das menschliche Auge unsichtbares Muster auf die Umgebung. Dieses wird von einer der beiden Kameras erfasst. Daraus sowie aus den Daten des Beschleunigungs- und Drehratensensors kann das Gerät detaillierte Rauminformationen errechnen.\n\nBereits existieren von Google gefertigte Prototypen. Mehrere Wissenschaftler der ETH Zürich nutzen diese für ihre Forschung und sind daran, deren Algorithmen zu verbessern. Auf dem Markt erhältlich soll das erste Gerät im kommenden Jahr sein, wie Google ankündigte. Es soll ein Tablet mit Android-Betriebssystem sein."
+    },
+    {
+      "heading": "Virtuelle und reale Welt vereinen",
+      "text": "«Den Möglichkeiten, dieses Gerät und dessen 3D-Informationen zu nutzen, sind keine Grenzen gesetzt», sagt Roland Siegwart, Professor für Autonome Systeme und Vizepräsident für Forschung und Wirtschaftsbeziehungen der ETH Zürich. «Darauf basierend lassen sich unglaublich viele Apps entwickeln. Welche das sein werden, wird die Zukunft zeigen.» Das Gerät könnte etwa für Computerspiele ganz neue Möglichkeiten eröffnen: Der virtuelle Inhalt von Spielen könnte auf dem Bildschirm in die von der Kamera erfasste reale Umgebung eingefügt werden. Gamer könnten sich mit einem Mobiltelefon durch virtuell angereicherte reale Umgebungen bewegen, die virtuellen Figuren und Objekte bewegten sich auf dem Bildschirm mit ihnen mit. Diese Kombination von virtueller und realer Welt wäre auch für Innenarchitektur-Visualisierungen interessant.\n\nAusserdem kann der Benutzer damit eigene 3D-Karten erstellen oder von anderen erstellte Karten herunterladen und auf dem Gerät verwenden. Indem das Gerät die Umgebung mit gespeicherten Kartendaten vergleicht, kann es sich lokalisieren, und es ermöglicht so eine GPS-ähnliche Navigation, auch in Innenräumen. Im Gegensatz dazu funktioniert das echte GPS in Räumen nicht, weil die dafür genutzten Satellitendaten dort nicht empfangen werden können."
+    },
+    {
+      "heading": "Vorteile gegenüber GPS",
+      "text": "ETH-Doktorand Simon Lynen kartiert mit einem auf einem Helm montierten Geräte-Prototyp Zürichs Strassen. (Screenshot: Google ATAP Project Tango)\n\nSimon Lynen, Doktorand in der Gruppe von Siegwart, entwickelte die Kartenfunktion für das Tango-Gerät mit. Er kartierte damit die Strassen von Zürich mit einem auf einem Velohelm montierten Geräte-Prototyp. Damit zeigte er, dass man mit der Technik auch draussen über kilometerweite Strecken navigieren kann. «Auch in Aussenräumen hat unsere Technik gegenüber dem heute genutzten GPS einen Vorteil: GPS liefert nur den Standort, unsere Technik erfasst ausserdem noch die Blickrichtung der Kameras», sagt Lynen. Das ermögliche beispielsweise das Einblenden von Informationen in Abhängigkeit von der Blickrichtung. Des Weiteren ermögliche die neue Technik zumindest im begrenzten Rahmen von existierenden, lokalen Karten eine rund zehnmal genauere Lokalisierung als GPS.\n\nETH-Know-how steckt zudem in der Fähigkeit des Geräts, sich nach dem Start oder wenn immer nötig in Bruchteilen einer Sekunde durch den Vergleich mit gespeicherten Karten zu lokalisieren. Und ETH-Doktoranden arbeiten derzeit an einer Lösung, welche es dem Gerät ermöglicht, 3D-Informationen der Umgebung zu erfassen, wenn es das projizierte Infrarotmuster beispielsweise wegen starkem Sonnenschein nicht auswerten kann. «Das Gerät nutzt dazu eine Abfolge von ‹normalen› Bildern der Kamera und erfasst daraus die Tiefeninformation, ähnlich wie wir Menschen das machen, indem wir unseren Kopf bewegen», erklärt Marc Pollefeys, Professor für Informatik.\n\nDie Aufmerksamkeit der ETH-Forscher gilt ausserdem dem Korrigieren von Lokalisierungsfehlern. Wegen Messungenauigkeiten können nämlich geringe Fehler entstehen. Diese addieren sich, wenn sich ein Benutzer längere Zeit durch Gänge oder Strassen bewegt. So kann es zu einer Abweichung kommen zwischen dem errechneten Ort und jenem, wo sich das Mobilgerät tatsächlich befindet. Die ETH-Wissenschaftler arbeiten nun daran, solche Abweichungen zu korrigieren, indem sie die im Mobilgerät gespeicherten Bilddaten nutzen: Kehrt der Benutzer an einen Ort zurück, an dem er schon einmal war, erkennt dies das Gerät und kann eine allfällige Abweichung auf null zurücksetzen.\n\nDie Gruppen von Pollefeys und Siegwart haben sich bereits in der Vergangenheit ein grosses Know-how erworben, aus visueller Information geometrische Raumdaten zu gewinnen, etwa in den Projekten sFly zur autonomen Navigation von Flugrobotern und V-Charge zum führerlosen Parkieren von Autos. Marc Pollefeys und seine Gruppe entwickelten ausserdem eine App, die ein Smartphone zum 3D-Scanner macht. «Unsere ausgewiesene Expertise auf diesem Gebiet dürfte auch der Grund sein, warum uns Google für die Mitarbeit beim Project Tango angefragt hat», sagt Siegwart. Pollefeys ergänzt: «Alle diese Projekte haben verwandte Grundlagen. Ins Project Tango können unsere Mitarbeiter somit Know-how einbringen, das sie in bisherigen Projekten erworben haben.»"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Eth Tanzt",
+        "label": "LOC",
+        "start": 27,
+        "end": 36
+      },
+      {
+        "text": "Google Tango",
+        "label": "MISC",
+        "start": 41,
+        "end": 53
+      },
+      {
+        "text": "Internetgiganten Google",
+        "label": "MISC",
+        "start": 334,
+        "end": 357
+      },
+      {
+        "text": "ETH-Professoren",
+        "label": "ORG",
+        "start": 530,
+        "end": 545
+      },
+      {
+        "text": "Marc Pollefeys",
+        "label": "PER",
+        "start": 546,
+        "end": 560
+      },
+      {
+        "text": "Roland Siegwart",
+        "label": "PER",
+        "start": 565,
+        "end": 580
+      },
+      {
+        "text": "Project Tango",
+        "label": "PER",
+        "start": 646,
+        "end": 659
+      },
+      {
+        "text": "Beschleunigungs- und Drehratensensors",
+        "label": "MISC",
+        "start": 1184,
+        "end": 1221
+      },
+      {
+        "text": "Google",
+        "label": "MISC",
+        "start": 1302,
+        "end": 1308
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1360,
+        "end": 1370
+      },
+      {
+        "text": "Google",
+        "label": "MISC",
+        "start": 1526,
+        "end": 1532
+      },
+      {
+        "text": "Android-Betriebssystem",
+        "label": "MISC",
+        "start": 1568,
+        "end": 1590
+      },
+      {
+        "text": "Roland Siegwart",
+        "label": "PER",
+        "start": 106,
+        "end": 121
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 217,
+        "end": 227
+      },
+      {
+        "text": "Innenarchitektur-Visualisierungen",
+        "label": "LOC",
+        "start": 785,
+        "end": 818
+      },
+      {
+        "text": "GPS-ähnliche",
+        "label": "MISC",
+        "start": 1094,
+        "end": 1106
+      },
+      {
+        "text": "Innenräumen",
+        "label": "LOC",
+        "start": 1127,
+        "end": 1138
+      },
+      {
+        "text": "ETH-Doktorand",
+        "label": "ORG",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Simon Lynen",
+        "label": "PER",
+        "start": 14,
+        "end": 25
+      },
+      {
+        "text": "Screenshot",
+        "label": "LOC",
+        "start": 106,
+        "end": 116
+      },
+      {
+        "text": "Simon Lynen",
+        "label": "PER",
+        "start": 145,
+        "end": 156
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 288,
+        "end": 294
+      },
+      {
+        "text": "ETH-Know-how",
+        "label": "PER",
+        "start": 914,
+        "end": 926
+      },
+      {
+        "text": "ETH-Doktoranden",
+        "label": "MISC",
+        "start": 1106,
+        "end": 1121
+      },
+      {
+        "text": "Infrarotmuster",
+        "label": "LOC",
+        "start": 1255,
+        "end": 1269
+      },
+      {
+        "text": "Marc Pollefeys",
+        "label": "PER",
+        "start": 1523,
+        "end": 1537
+      },
+      {
+        "text": "ETH-Forscher",
+        "label": "MISC",
+        "start": 1588,
+        "end": 1600
+      },
+      {
+        "text": "Gänge",
+        "label": "LOC",
+        "start": 1789,
+        "end": 1794
+      },
+      {
+        "text": "Strassen",
+        "label": "LOC",
+        "start": 1800,
+        "end": 1808
+      },
+      {
+        "text": "ETH-Wissenschaftler",
+        "label": "MISC",
+        "start": 1944,
+        "end": 1963
+      },
+      {
+        "text": "Pollefeys",
+        "label": "PER",
+        "start": 2246,
+        "end": 2255
+      },
+      {
+        "text": "V-Charge",
+        "label": "LOC",
+        "start": 2475,
+        "end": 2483
+      },
+      {
+        "text": "Marc Pollefeys",
+        "label": "PER",
+        "start": 2521,
+        "end": 2535
+      },
+      {
+        "text": "Google",
+        "label": "MISC",
+        "start": 2714,
+        "end": 2720
+      },
+      {
+        "text": "Project Tango",
+        "label": "PER",
+        "start": 2744,
+        "end": 2757
+      },
+      {
+        "text": "Pollefeys",
+        "label": "PER",
+        "start": 2789,
+        "end": 2798
+      },
+      {
+        "text": "Grundlagen",
+        "label": "LOC",
+        "start": 2845,
+        "end": 2855
+      },
+      {
+        "text": "Project Tango",
+        "label": "PER",
+        "start": 2861,
+        "end": 2874
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH-Know-how",
+        "Marc Pollefeys",
+        "Pollefeys",
+        "Project Tango",
+        "Roland Siegwart",
+        "Simon Lynen"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Doktorand",
+        "ETH-Professoren"
+      ],
+      "LOCATION": [
+        "Eth Tanzt",
+        "Grundlagen",
+        "Gänge",
+        "Infrarotmuster",
+        "Innenarchitektur-Visualisierungen",
+        "Innenräumen",
+        "Screenshot",
+        "Strassen",
+        "V-Charge",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Android-Betriebssystem",
+        "Beschleunigungs- und Drehratensensors",
+        "ETH-Doktoranden",
+        "ETH-Forscher",
+        "ETH-Wissenschaftler",
+        "GPS-ähnliche",
+        "Google",
+        "Google Tango",
+        "Internetgiganten Google"
+      ]
+    },
+    "entity_counts": {
+      "Marc Pollefeys": 3,
+      "Project Tango": 3,
+      "Google": 3,
+      "Roland Siegwart": 2,
+      "ETH Zürich": 2,
+      "Simon Lynen": 2,
+      "Pollefeys": 2,
+      "Eth Tanzt": 1,
+      "Google Tango": 1,
+      "Internetgiganten Google": 1,
+      "ETH-Professoren": 1,
+      "Beschleunigungs- und Drehratensensors": 1,
+      "Android-Betriebssystem": 1,
+      "Innenarchitektur-Visualisierungen": 1,
+      "GPS-ähnliche": 1,
+      "Innenräumen": 1,
+      "ETH-Doktorand": 1,
+      "Screenshot": 1,
+      "Zürich": 1,
+      "ETH-Know-how": 1
+    },
+    "total_entities": 38,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "die-eth-tanzt-mit-google-tango.md",
+      "title": "De News Events/2014/07/die Eth Tanzt mit Google Tango",
+      "language": "de",
+      "source_path": "de_news_events/2014/07/die-eth-tanzt-mit-google-tango.html"
+    },
+    "temporal": {
+      "publication_date": "2014-07",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH-Know-how",
+        "Marc Pollefeys",
+        "Pollefeys",
+        "Project Tango",
+        "Roland Siegwart",
+        "Simon Lynen"
+      ],
+      "people_with_roles": {
+        "Marc Pollefeys": [
+          "professor"
+        ],
+        "Pollefeys": [
+          "professor"
+        ],
+        "Project Tango": [
+          "professor"
+        ],
+        "Roland Siegwart": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Android-Betriebssystem",
+        "Beschleunigungs- und Drehratensensors",
+        "ETH-Doktoranden",
+        "ETH-Forscher",
+        "ETH-Wissenschaftler",
+        "GPS-ähnliche",
+        "Google",
+        "Google Tango",
+        "Internetgiganten Google"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Simon Lynen",
+        "Eth Tanzt",
+        "Autonome Systeme",
+        "Mehrere Wissenschaftler",
+        "Im Gegensatz",
+        "Innenarchitektur-Visualisierungen",
+        "Ins Project",
+        "Wegen Messungenauigkeiten",
+        "Die Gruppen",
+        "Eine Projektgruppe",
+        "ETH-Forscher",
+        "Die ETH",
+        "Roland Siegwart",
+        "Diese Kombination",
+        "ETH-Know",
+        "Google Tango",
+        "Internetgiganten Google",
+        "Und ETH",
+        "Google ATAP",
+        "Die Aufmerksamkeit",
+        "ETH-Doktorand",
+        "Des Weiteren",
+        "Marc Pollefeys",
+        "Ein Smartphone",
+        "Android-Betriebssystem",
+        "De News",
+        "V-Charge",
+        "Professoren Marc",
+        "Project Tango"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Doktorand",
+        "ETH-Professoren"
+      ],
+      "locations": [
+        "Eth Tanzt",
+        "Grundlagen",
+        "Gänge",
+        "Infrarotmuster",
+        "Innenarchitektur-Visualisierungen",
+        "Innenräumen",
+        "Screenshot",
+        "Strassen",
+        "V-Charge",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Marc Pollefeys",
+        "Project Tango",
+        "Google",
+        "Roland Siegwart",
+        "ETH Zürich",
+        "Simon Lynen",
+        "Pollefeys",
+        "Eth Tanzt",
+        "Google Tango",
+        "Internetgiganten Google"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Virtuelle und reale Welt vereinen",
+          "Virtuelle und reale Welt vereinen",
+          "Vorteile gegenüber GPS"
+        ],
+        "content_length": 5913
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Marc Pollefeys",
+        "2014",
+        "Simon Lynen",
+        "EU",
+        "ETH-Know-how",
+        "ETH Zürich",
+        "Roland Siegwart",
+        "Pollefeys",
+        "ETH-Doktorand",
+        "ETH-Professoren",
+        "Project Tango"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Google",
+        "Internetgiganten Google",
+        "Android-Betriebssystem",
+        "who",
+        "Beschleunigungs- und Drehratensensors",
+        "ETH-Forscher",
+        "ETH-Wissenschaftler",
+        "when",
+        "what",
+        "how",
+        "GPS-ähnliche",
+        "computer_science",
+        "ETH-Doktoranden",
+        "Google Tango"
+      ],
+      "graph_relations": [
+        "Marc Pollefeys_has_role_professor",
+        "Pollefeys_has_role_professor",
+        "Project Tango_has_role_professor",
+        "Roland Siegwart_has_role_professor",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

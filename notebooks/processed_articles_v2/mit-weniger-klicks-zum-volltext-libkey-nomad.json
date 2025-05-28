@@ -1,0 +1,379 @@
+{
+  "filename": "mit-weniger-klicks-zum-volltext-libkey-nomad.md",
+  "original_filename": "mit-weniger-klicks-zum-volltext-libkey-nomad.html",
+  "source_path": "en_internal/2021/06/mit-weniger-klicks-zum-volltext-libkey-nomad.html",
+  "date": "2021-06",
+  "title": "Mit Weniger Klicks Zum Volltext Libkey Nomad",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "How does LibKey Nomad work?",
+      "text": "“ETH Get it”, the link resolver of the ETH Library, takes you from Google Scholar, Wikipedia or any other database, such as Scopus or Web of Science, to the electronic full text in just two or three clicks. Use LibKey Nomad to gain access to the PDF of journal articles with one click only."
+    },
+    {
+      "heading": "How does LibKey Nomad work?",
+      "text": "LibKey Nomad is a browser extension provided by the company Third Iron. It is available for Chrome, Edge and Firefox. First, install the browser extension and then select “ETH-Bibliothek” under “Select Organization” during the set-up."
+    },
+    {
+      "heading": "LibKey Nomad and “ETH Get it” complement each other",
+      "text": "LibKey Nomad does not cover all publishers. It only works with journal articles and not with book chapters. Even if LibKey does not show you any access options, make sure to click the “ETH Get It” button anyways. You will see that the ETH Library has a lot more full texts than those marked by LibKey Nomad."
+    },
+    {
+      "heading": "Use LibKey outside the ETH Zurich network",
+      "text": "LibKey Nomad can also be used outside the ETH Zurich network. But to access licensed full texts, you must be within the ETH Zurich network or work from the ETH Library premises.\n\nWe will be happy to assist you via email at ."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "More than just data – benefit from know-how\n\n#KnowHow – The ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Weniger Klicks Zum Volltext Libkey Nomad",
+        "label": "PERSON",
+        "start": 24,
+        "end": 64
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 35,
+        "end": 50
+      },
+      {
+        "text": "Google Scholar",
+        "label": "ORG",
+        "start": 67,
+        "end": 81
+      },
+      {
+        "text": "Wikipedia",
+        "label": "ORG",
+        "start": 83,
+        "end": 92
+      },
+      {
+        "text": "Scopus",
+        "label": "ORG",
+        "start": 124,
+        "end": 130
+      },
+      {
+        "text": "just two or three",
+        "label": "CARDINAL",
+        "start": 181,
+        "end": 198
+      },
+      {
+        "text": "Nomad",
+        "label": "PERSON",
+        "start": 218,
+        "end": 223
+      },
+      {
+        "text": "PDF",
+        "label": "ORG",
+        "start": 246,
+        "end": 249
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 275,
+        "end": 278
+      },
+      {
+        "text": "LibKey Nomad",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Chrome, Edge",
+        "label": "ORG",
+        "start": 92,
+        "end": 104
+      },
+      {
+        "text": "Firefox",
+        "label": "GPE",
+        "start": 109,
+        "end": 116
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 118,
+        "end": 123
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 172,
+        "end": 186
+      },
+      {
+        "text": "Select Organization",
+        "label": "ORG",
+        "start": 195,
+        "end": 214
+      },
+      {
+        "text": "LibKey Nomad",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "LibKey",
+        "label": "ORG",
+        "start": 116,
+        "end": 122
+      },
+      {
+        "text": "ETH Get",
+        "label": "WORK_OF_ART",
+        "start": 185,
+        "end": 192
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 231,
+        "end": 246
+      },
+      {
+        "text": "LibKey Nomad",
+        "label": "PERSON",
+        "start": 294,
+        "end": 306
+      },
+      {
+        "text": "LibKey Nomad",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 42,
+        "end": 52
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "FAC",
+        "start": 116,
+        "end": 130
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 156,
+        "end": 167
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "LibKey Nomad",
+        "Nomad",
+        "Weniger Klicks Zum Volltext Libkey Nomad"
+      ],
+      "ORG": [
+        "Chrome, Edge",
+        "ETH",
+        "ETH Library",
+        "ETH Zurich",
+        "ETH-Bibliothek",
+        "Google Scholar",
+        "LibKey",
+        "PDF",
+        "Scopus",
+        "Select Organization",
+        "Wikipedia",
+        "the ETH Library"
+      ],
+      "LOCATION": [
+        "Firefox",
+        "the ETH Zurich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH Get",
+        "First",
+        "just two or three",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "LibKey Nomad": 4,
+      "the ETH Library": 2,
+      "Weniger Klicks Zum Volltext Libkey Nomad": 1,
+      "ETH": 1,
+      "Google Scholar": 1,
+      "Wikipedia": 1,
+      "Scopus": 1,
+      "just two or three": 1,
+      "Nomad": 1,
+      "PDF": 1,
+      "one": 1,
+      "Chrome, Edge": 1,
+      "Firefox": 1,
+      "First": 1,
+      "ETH-Bibliothek": 1,
+      "Select Organization": 1,
+      "LibKey": 1,
+      "ETH Get": 1,
+      "ETH Zurich": 1,
+      "the ETH Zurich": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mit-weniger-klicks-zum-volltext-libkey-nomad.md",
+      "title": "En Internal/2021/06/mit Weniger Klicks Zum Volltext Libkey Nomad",
+      "language": "en",
+      "source_path": "en_internal/2021/06/mit-weniger-klicks-zum-volltext-libkey-nomad.html"
+    },
+    "temporal": {
+      "publication_date": "2021-06",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "LibKey Nomad",
+        "Nomad",
+        "Weniger Klicks Zum Volltext Libkey Nomad"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "ETH Get",
+        "First",
+        "just two or three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "The ETH",
+        "Google Scholar",
+        "Select Organization",
+        "LibKey Nomad",
+        "ETH Library",
+        "ETH Get",
+        "En Internal",
+        "Weniger Klicks",
+        "ETH Zurich",
+        "Third Iron",
+        "Use LibKey",
+        "Zum Volltext",
+        "Libkey Nomad"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Chrome, Edge",
+        "ETH",
+        "ETH Library",
+        "ETH Zurich",
+        "ETH-Bibliothek",
+        "Google Scholar",
+        "LibKey",
+        "PDF",
+        "Scopus",
+        "Select Organization",
+        "Wikipedia",
+        "the ETH Library"
+      ],
+      "locations": [
+        "Firefox",
+        "the ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "LibKey Nomad",
+        "the ETH Library",
+        "Weniger Klicks Zum Volltext Libkey Nomad",
+        "ETH",
+        "Google Scholar",
+        "Wikipedia",
+        "Scopus",
+        "just two or three",
+        "Nomad",
+        "PDF"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "How does LibKey Nomad work?",
+          "How does LibKey Nomad work?",
+          "LibKey Nomad and “ETH Get it” complement each other",
+          "Use LibKey outside the ETH Zurich network",
+          "Staffnet"
+        ],
+        "content_length": 1245
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Weniger Klicks Zum Volltext Libkey Nomad",
+        "ETH-Bibliothek",
+        "Google Scholar",
+        "Select Organization",
+        "LibKey Nomad",
+        "ETH Library",
+        "PDF",
+        "LibKey",
+        "Scopus",
+        "2021",
+        "ETH Zurich",
+        "Nomad",
+        "the ETH Library",
+        "Wikipedia",
+        "Chrome, Edge"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "just two or three",
+        "ETH Get",
+        "how",
+        "First",
+        "why",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

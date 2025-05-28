@@ -1,0 +1,190 @@
+{
+  "filename": "ein-neues-kleid-fuer-den-eth-link.md",
+  "original_filename": "ein-neues-kleid-fuer-den-eth-link.html",
+  "source_path": "de_internal/2015/05/ein-neues-kleid-fuer-den-eth-link.html",
+  "date": "2015-05",
+  "title": "Ein Neues Kleid Fuer Den Eth Link",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Zwei Busse fahren wochentags zwischen den beiden ETH-Standorten Zentrum und Hönggerberg hin und her. Insgesamt 69-mal am Tag. Nun kommen diese Busse in einer neuen, blau-weissen Aufmachung daher.\n\nDer erste Bus trägt bereits seit dem 26. Mai sein neues Kleid, der zweite Bus ist ab Mitte Juni soweit. Der ETH Link wird von Eurobus betrieben und transportiert im Durchschnitt fast 2000 Menschen am Tag."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/05",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Eth Link",
+        "label": "PER",
+        "start": 45,
+        "end": 53
+      },
+      {
+        "text": "ETH-Standorten",
+        "label": "ORG",
+        "start": 49,
+        "end": 63
+      },
+      {
+        "text": "Zentrum",
+        "label": "LOC",
+        "start": 64,
+        "end": 71
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 76,
+        "end": 87
+      },
+      {
+        "text": "ETH Link",
+        "label": "ORG",
+        "start": 304,
+        "end": 312
+      },
+      {
+        "text": "Eurobus",
+        "label": "ORG",
+        "start": 322,
+        "end": 329
+      },
+      {
+        "text": "Tag",
+        "label": "LOC",
+        "start": 396,
+        "end": 399
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Eth Link"
+      ],
+      "ORG": [
+        "ETH Link",
+        "ETH-Standorten",
+        "Eurobus"
+      ],
+      "LOCATION": [
+        "De Internal/2015/05",
+        "Hönggerberg",
+        "Tag",
+        "Zentrum"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2015/05": 1,
+      "Eth Link": 1,
+      "ETH-Standorten": 1,
+      "Zentrum": 1,
+      "Hönggerberg": 1,
+      "ETH Link": 1,
+      "Eurobus": 1,
+      "Tag": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ein-neues-kleid-fuer-den-eth-link.md",
+      "title": "De Internal/2015/05/ein Neues Kleid Fuer den Eth Link",
+      "language": "de",
+      "source_path": "de_internal/2015/05/ein-neues-kleid-fuer-den-eth-link.html"
+    },
+    "temporal": {
+      "publication_date": "2015-05",
+      "mentioned_years": [
+        "2000",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Eth Link"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Zwei Busse",
+        "De Internal",
+        "Neues Kleid",
+        "Mitte Juni",
+        "Der ETH",
+        "ETH-Standorten",
+        "Eth Link"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Link",
+        "ETH-Standorten",
+        "Eurobus"
+      ],
+      "locations": [
+        "De Internal/2015/05",
+        "Hönggerberg",
+        "Tag",
+        "Zentrum"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2015/05",
+        "Eth Link",
+        "ETH-Standorten",
+        "Zentrum",
+        "Hönggerberg",
+        "ETH Link",
+        "Eurobus",
+        "Tag"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 455
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "EU",
+        "Eurobus",
+        "ETH Link",
+        "ETH-Standorten",
+        "Eth Link",
+        "2000"
+      ],
+      "semantic_concepts": [
+        "technology"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

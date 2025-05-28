@@ -1,0 +1,168 @@
+{
+  "filename": "hier-baut-die-eth-zuerich.md",
+  "original_filename": "hier-baut-die-eth-zuerich.html",
+  "source_path": "de_internal/2015/09/hier-baut-die-eth-zuerich.html",
+  "date": "2015-09",
+  "title": "Hier Baut Die Eth Zuerich",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "An der offenen Informationsveranstaltung «Wir bauen für Sie» stellt der Infrastrukturbereich Immobilien (IBI) die aktuellen Bau- und Sanierungsprojekte auf dem Campus Hönggerberg vor. Am 6. Oktober 2015 von 11.30 bis 12.30 Uhr werden acht laufende Projekte am Standort von den jeweils verantwortlichen Bauprojektleitenden präsentiert, wobei die Bauspezialisten neben dem aktuellen Stand auch auf architektonische und nutzungsbedingte Besonderheiten der Projekte eingehen. Bei einem gemeinsamen Mittagssnack können Sie mit den Mitarbeitenden des IBI anschliessend ins Gespräch kommen.\n\nEingeladen sind alle, die mehr über die Bauaktivitäten auf dem Areal erfahren möchten. Die Veranstaltung findet im HIT-Gebäude auf dem Campus Hönggerberg im Raum E51 statt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/09",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Eth Zuerich",
+        "label": "MISC",
+        "start": 34,
+        "end": 45
+      },
+      {
+        "text": "IBI",
+        "label": "ORG",
+        "start": 105,
+        "end": 108
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 167,
+        "end": 178
+      },
+      {
+        "text": "IBI",
+        "label": "ORG",
+        "start": 545,
+        "end": 548
+      },
+      {
+        "text": "HIT-Gebäude",
+        "label": "ORG",
+        "start": 699,
+        "end": 710
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 726,
+        "end": 737
+      },
+      {
+        "text": "E51",
+        "label": "LOC",
+        "start": 746,
+        "end": 749
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "HIT-Gebäude",
+        "IBI"
+      ],
+      "LOCATION": [
+        "De Internal/2015/09",
+        "E51",
+        "Hönggerberg"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Eth Zuerich"
+      ]
+    },
+    "entity_counts": {
+      "IBI": 2,
+      "Hönggerberg": 2,
+      "De Internal/2015/09": 1,
+      "Eth Zuerich": 1,
+      "HIT-Gebäude": 1,
+      "E51": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "hier-baut-die-eth-zuerich.md",
+      "title": "De Internal/2015/09/hier Baut die Eth Zuerich",
+      "language": "de",
+      "source_path": "de_internal/2015/09/hier-baut-die-eth-zuerich.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Eth Zuerich"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Infrastrukturbereich Immobilien",
+        "De Internal",
+        "Eth Zuerich",
+        "Die Veranstaltung"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "HIT-Gebäude",
+        "IBI"
+      ],
+      "locations": [
+        "De Internal/2015/09",
+        "E51",
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "IBI",
+        "Hönggerberg",
+        "De Internal/2015/09",
+        "Eth Zuerich",
+        "HIT-Gebäude",
+        "E51"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 803
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "IBI",
+        "2015",
+        "HIT-Gebäude"
+      ],
+      "semantic_concepts": [
+        "Eth Zuerich"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,572 @@
+{
+  "filename": "an-award-for-eth-building-technology.md",
+  "original_filename": "an-award-for-eth-building-technology.html",
+  "source_path": "en_news_events/2016/11/an-award-for-eth-building-technology.html",
+  "date": "2016-11",
+  "title": "An Award For Eth Building Technology",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Building without a timber formwork",
+      "text": "Innovation, technology – and construction: at first glance, these aren’t things that go hand in hand. The construction industry is not renowned for its groundbreaking inventions, and anyone who mentions technology is still most likely thinking of a digger. So – on second glance – it is perhaps not all that surprising that a new type of building technology has this year received the most significant Swiss prize for innovation and technology transfer in the “Inventors” category.\n\n“Mesh Mould has the potential to fundamentally change how we build in the future,” says Norman Hack, Project Manager in the interdisciplinary team that developed the technology. Hack is a doctoral student at the Department of Architecture led by Professors Fabio Gramazio and Matthias Kohler, who had previously launched the project at the Future Cities Lab in Singapore. The close cooperation between other disciplines, such as robotics, materials science and structural mechanics, was essential for the development of the award-winning building technology."
+    },
+    {
+      "heading": "Award to honour Swiss innovation",
+      "text": "Project leader Norman Hack (2nd from right) and his team at the award ceremony.\n\nIn conventional concrete construction, the steel reinforcement is surrounded by a timber formwork that gives the concrete its final shape. Thanks to standardised structures, these formworks can be used multiple times. This is one reason why rectangular houses dominate our streetscape. When buildings have unusual shapes, on the other hand, the formworks must be made to measure and can only be used once. “These buildings are correspondingly costly and material-intensive,” remarks Hack.\n\nThe new Mesh Mould building technology no longer uses the timber formwork. It combines the functions of the formwork and reinforcement into a steel wire grid, which is manufactured by a robot based on a computer model. This grid is filled with concrete before the surface is ultimately processed. Thanks to the specific structure of the steel cable grid and the special composition of the concrete mix, the concrete stays inside the grid and does not seep out. “There is thus almost no limit to the shapes that can be created,” explains Hack. Irrespective of whether the target shape is standardised or highly complex in nature: a separate formwork is no longer needed.\n\nIn 2017, Mesh Mould technology will be used for the first time in the NEST building, a modular research and innovation building operated by the Swiss Federal Laboratories for Materials Science and Technology (Empa) in Dübendorf. There, the “In situ Fabricator” construction robot from the National Centre of Competence in Research (NCCR) “Digital Fabrication” will build a Mesh Mould wall, which will serve as one of the main structural components of the building unit.\n\nAt today’s Swiss Innovation Forum, the Swiss Technology Award was presented for the 28th time. This award ceremony has been organised by the Swiss Economic Forum since 2007. The prize is awarded to honour the best technological innovations from start-ups, universities, technical institutions and established companies. From more than 50 applications received this year, an expert jury selected nine finalists in three categories. Five of these have their roots at ETH, and the “Inventors” category is no exception: here, in addition to Mesh Mould, the finalists also included the ETH spin-off InterAx Biotech AG and theMOFcompany. Two ETH spin-offs, Flisom and IRsweep, were also among the finalists in the “Start-ups” category, with the prize in this category ultimately going to Topadur Pharma AG. The “Innovation Leaders” prize, for which there were no ETH companies in the final, went to Ampegon AG."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 46,
+        "end": 51
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 265,
+        "end": 271
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 362,
+        "end": 371
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 402,
+        "end": 407
+      },
+      {
+        "text": "Mesh Mould",
+        "label": "PERSON",
+        "start": 483,
+        "end": 493
+      },
+      {
+        "text": "Norman Hack",
+        "label": "PERSON",
+        "start": 570,
+        "end": 581
+      },
+      {
+        "text": "Hack",
+        "label": "PERSON",
+        "start": 660,
+        "end": 664
+      },
+      {
+        "text": "the Department of Architecture",
+        "label": "ORG",
+        "start": 690,
+        "end": 720
+      },
+      {
+        "text": "Professors Fabio Gramazio",
+        "label": "ORG",
+        "start": 728,
+        "end": 753
+      },
+      {
+        "text": "Matthias Kohler",
+        "label": "PERSON",
+        "start": 758,
+        "end": 773
+      },
+      {
+        "text": "the Future Cities Lab",
+        "label": "ORG",
+        "start": 818,
+        "end": 839
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 843,
+        "end": 852
+      },
+      {
+        "text": "Norman Hack",
+        "label": "PERSON",
+        "start": 15,
+        "end": 26
+      },
+      {
+        "text": "2nd",
+        "label": "ORDINAL",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 306,
+        "end": 309
+      },
+      {
+        "text": "Hack",
+        "label": "PERSON",
+        "start": 563,
+        "end": 567
+      },
+      {
+        "text": "Mesh Mould",
+        "label": "PERSON",
+        "start": 577,
+        "end": 587
+      },
+      {
+        "text": "Hack",
+        "label": "PERSON",
+        "start": 1106,
+        "end": 1110
+      },
+      {
+        "text": "Mesh Mould",
+        "label": "PERSON",
+        "start": 1248,
+        "end": 1258
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1291,
+        "end": 1296
+      },
+      {
+        "text": "NEST",
+        "label": "ORG",
+        "start": 1309,
+        "end": 1313
+      },
+      {
+        "text": "the Swiss Federal Laboratories for Materials Science and Technology (Empa",
+        "label": "ORG",
+        "start": 1379,
+        "end": 1452
+      },
+      {
+        "text": "Dübendorf",
+        "label": "ORG",
+        "start": 1457,
+        "end": 1466
+      },
+      {
+        "text": "the National Centre of Competence in Research (NCCR",
+        "label": "ORG",
+        "start": 1524,
+        "end": 1575
+      },
+      {
+        "text": "Digital Fabrication",
+        "label": "ORG",
+        "start": 1578,
+        "end": 1597
+      },
+      {
+        "text": "Mesh Mould",
+        "label": "PERSON",
+        "start": 1612,
+        "end": 1622
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1712,
+        "end": 1717
+      },
+      {
+        "text": "the Swiss Technology Award",
+        "label": "ORG",
+        "start": 1744,
+        "end": 1770
+      },
+      {
+        "text": "the 28th",
+        "label": "DATE",
+        "start": 1789,
+        "end": 1797
+      },
+      {
+        "text": "the Swiss Economic Forum",
+        "label": "ORG",
+        "start": 1846,
+        "end": 1870
+      },
+      {
+        "text": "more than 50",
+        "label": "CARDINAL",
+        "start": 2034,
+        "end": 2046
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 2069,
+        "end": 2078
+      },
+      {
+        "text": "nine",
+        "label": "CARDINAL",
+        "start": 2104,
+        "end": 2108
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 2122,
+        "end": 2127
+      },
+      {
+        "text": "Five",
+        "label": "CARDINAL",
+        "start": 2140,
+        "end": 2144
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2174,
+        "end": 2177
+      },
+      {
+        "text": "Mesh Mould",
+        "label": "PERSON",
+        "start": 2246,
+        "end": 2256
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2290,
+        "end": 2293
+      },
+      {
+        "text": "InterAx Biotech AG",
+        "label": "ORG",
+        "start": 2303,
+        "end": 2321
+      },
+      {
+        "text": "theMOFcompany",
+        "label": "GPE",
+        "start": 2326,
+        "end": 2339
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 2341,
+        "end": 2344
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2345,
+        "end": 2348
+      },
+      {
+        "text": "Flisom",
+        "label": "PERSON",
+        "start": 2360,
+        "end": 2366
+      },
+      {
+        "text": "IRsweep",
+        "label": "ORG",
+        "start": 2371,
+        "end": 2378
+      },
+      {
+        "text": "Topadur Pharma AG",
+        "label": "ORG",
+        "start": 2491,
+        "end": 2508
+      },
+      {
+        "text": "Innovation Leaders",
+        "label": "WORK_OF_ART",
+        "start": 2515,
+        "end": 2533
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2566,
+        "end": 2569
+      },
+      {
+        "text": "Ampegon AG",
+        "label": "ORG",
+        "start": 2602,
+        "end": 2612
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Flisom",
+        "Hack",
+        "Matthias Kohler",
+        "Mesh Mould",
+        "Norman Hack"
+      ],
+      "ORG": [
+        "Ampegon AG",
+        "Digital Fabrication",
+        "Dübendorf",
+        "ETH",
+        "IRsweep",
+        "InterAx Biotech AG",
+        "NEST",
+        "Professors Fabio Gramazio",
+        "Topadur Pharma AG",
+        "the Department of Architecture",
+        "the Future Cities Lab",
+        "the National Centre of Competence in Research (NCCR",
+        "the Swiss Economic Forum",
+        "the Swiss Federal Laboratories for Materials Science and Technology (Empa",
+        "the Swiss Technology Award"
+      ],
+      "LOCATION": [
+        "Singapore",
+        "theMOFcompany"
+      ],
+      "DATE": [
+        "the 28th",
+        "this year",
+        "today"
+      ],
+      "MISC": [
+        "2nd",
+        "Five",
+        "Innovation Leaders",
+        "Swiss",
+        "Two",
+        "first",
+        "more than 50",
+        "nine",
+        "one",
+        "second",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Mesh Mould": 5,
+      "ETH": 4,
+      "Hack": 3,
+      "first": 2,
+      "this year": 2,
+      "Norman Hack": 2,
+      "second": 1,
+      "Swiss": 1,
+      "the Department of Architecture": 1,
+      "Professors Fabio Gramazio": 1,
+      "Matthias Kohler": 1,
+      "the Future Cities Lab": 1,
+      "Singapore": 1,
+      "2nd": 1,
+      "one": 1,
+      "NEST": 1,
+      "the Swiss Federal Laboratories for Materials Science and Technology (Empa": 1,
+      "Dübendorf": 1,
+      "the National Centre of Competence in Research (NCCR": 1,
+      "Digital Fabrication": 1
+    },
+    "total_entities": 48,
+    "unique_entities": 36
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "an-award-for-eth-building-technology.md",
+      "title": "En News Events/2016/11/an Award For Eth Building Technology",
+      "language": "en",
+      "source_path": "en_news_events/2016/11/an-award-for-eth-building-technology.html"
+    },
+    "temporal": {
+      "publication_date": "2016-11",
+      "mentioned_years": [
+        "2007",
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Flisom",
+        "Hack",
+        "Matthias Kohler",
+        "Mesh Mould",
+        "Norman Hack"
+      ],
+      "people_with_roles": {
+        "Hack": [
+          "student",
+          "professor"
+        ],
+        "Matthias Kohler": [
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Five",
+        "Innovation Leaders",
+        "Swiss",
+        "first",
+        "more than 50",
+        "nine",
+        "second",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Future Cities",
+        "Award For",
+        "Technology Innovation",
+        "Two ETH",
+        "Professors Fabio",
+        "Digital Fabrication",
+        "Topadur Pharma",
+        "Swiss Innovation",
+        "Swiss Technology",
+        "Materials Science",
+        "Innovation Leaders",
+        "Ampegon AG",
+        "Matthias Kohler",
+        "Eth Building",
+        "National Centre",
+        "Project Manager",
+        "Swiss Federal",
+        "Swiss Economic",
+        "En News",
+        "InterAx Biotech",
+        "Mesh Mould",
+        "Norman Hack"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Architecture led by Professors Fabio Gramazio and Matthias Kohler"
+      ],
+      "institutions": [
+        "Ampegon AG",
+        "Digital Fabrication",
+        "Dübendorf",
+        "ETH",
+        "IRsweep",
+        "InterAx Biotech AG",
+        "NEST",
+        "Professors Fabio Gramazio",
+        "Topadur Pharma AG",
+        "the Department of Architecture",
+        "the Future Cities Lab",
+        "the National Centre of Competence in Research (NCCR",
+        "the Swiss Economic Forum",
+        "the Swiss Federal Laboratories for Materials Science and Technology (Empa",
+        "the Swiss Technology Award"
+      ],
+      "locations": [
+        "Singapore",
+        "theMOFcompany"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Mesh Mould",
+        "ETH",
+        "Hack",
+        "first",
+        "this year",
+        "Norman Hack",
+        "second",
+        "Swiss",
+        "the Department of Architecture",
+        "Professors Fabio Gramazio"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Building without a timber formwork",
+          "Award to honour Swiss innovation"
+        ],
+        "content_length": 3719
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "NEST",
+        "Flisom",
+        "Topadur Pharma AG",
+        "2016",
+        "Digital Fabrication",
+        "IRsweep",
+        "the National Centre of Competence in Research (NCCR",
+        "2007",
+        "the Department of Architecture",
+        "Ampegon AG",
+        "the Swiss Economic Forum",
+        "Matthias Kohler",
+        "the Swiss Technology Award",
+        "InterAx Biotech AG",
+        "the Swiss Federal Laboratories for Materials Science and Technology (Empa",
+        "the Future Cities Lab",
+        "2017",
+        "Hack",
+        "Dübendorf",
+        "Mesh Mould",
+        "Norman Hack",
+        "Professors Fabio Gramazio"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "more than 50",
+        "three",
+        "nine",
+        "who",
+        "Swiss",
+        "what",
+        "second",
+        "how",
+        "Five",
+        "Innovation Leaders",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Hack_has_role_student",
+        "Hack_has_role_professor",
+        "Matthias Kohler_has_role_student",
+        "Matthias Kohler_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

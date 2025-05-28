@@ -1,0 +1,554 @@
+{
+  "filename": "first-year-examinations-in-two-blocks.md",
+  "original_filename": "first-year-examinations-in-two-blocks.html",
+  "source_path": "en_news_events/2016/06/first-year-examinations-in-two-blocks.html",
+  "date": "2016-06",
+  "title": "First Year Examinations In Two Blocks",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Managing the workload",
+      "text": "Students currently starting their undergraduate studies at ETH are permitted to sit first-year examinations after two semesters at the earliest. The exams are the first comprehensive assessment of the work covered in the initial year of study, and for many students represent a defining moment in their university education.\n\nFrom the 2016/17 academic year, the departments of Computer Science, Electrical Engineering and Information Technology, Mathematics, and Physics will be offering students the opportunity to sit first-year examinations in two separate blocks as part of a pilot project. This means that from the winter 2017 examination session, 800 students – or roughly 30% of the first-year intake – will be able to sit exams after the first semester of their undergraduate degree."
+    },
+    {
+      "heading": "Managing the workload",
+      "text": "The pilot project will encompass five courses: Computer Science, Electrical Engineering and Information Technology, Mathematics, Physics, and Computational Science and Engineering and will last four years, from admission years 2016 to 2019 inclusive. Students will have the opportunity to distribute their first-year workload more evenly: they will be able to sit the first exam block after the first semester and complete the second block after the second semester. Students are under no requirement to do so and it will also be possible to take both examination blocks together after the second semester. Students will need to pass both blocks in order to pass their first-year examinations. As before, the maximum time allowed for this will be four semesters."
+    },
+    {
+      "heading": "Fewer drop-outs",
+      "text": "Spreading out first-year exams does not make them any easier – it simply moves them closer to the relevant lectures and allows for more flexible time management. Furthermore, it means that they are distributed with a similar frequency to later assessments. “An important aspect of this is that students receive feedback on how they are progressing in their studies and the suitability of their chosen course much earlier on,” explains Andreas Vaterlaus, Professor of Physics and Vice-Rector for Curriculum Development at ETH Zurich. Evaluations of previous first years have shown that on average, around 15% of undergraduate students abandon their studies without even sitting first-year examinations, although many have already studied for several semesters. With the new flexible examination schedule, ETH hopes to motivate more students to sit examinations. “By giving students an idea of where they stand earlier on, we also hope to reduce the number of drop outs,” says Vaterlaus."
+    },
+    {
+      "heading": "Evaluation of the pilot project",
+      "text": "ETH Zurich will carry out a scientific evaluation of the pilot period, with a particular focus on the impact the change in exam format has on students, and whether the number of drop-outs does in fact fall. In 2019, Academic Services will decide whether the project will continue into admission year 2020, and be expanded to other courses.\n\nDepartments participating in the pilot experiment have adapted their bachelor programme regulations (documents in German: Computer Science Computer Science , Electrical Engineering and Information Technology , Mathematics , Physics and Computational Science and Engineering ). Students will find further information on the new examination schedule detailed in these documents. Information is also available from contact persons in the relevant departments, as well as from the ETH Zurich student advisory service ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 50,
+        "end": 53
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 59,
+        "end": 62
+      },
+      {
+        "text": "first-year",
+        "label": "DATE",
+        "start": 84,
+        "end": 94
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 114,
+        "end": 117
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 163,
+        "end": 168
+      },
+      {
+        "text": "the initial year",
+        "label": "DATE",
+        "start": 217,
+        "end": 233
+      },
+      {
+        "text": "2016/17",
+        "label": "CARDINAL",
+        "start": 334,
+        "end": 341
+      },
+      {
+        "text": "Computer Science, Electrical Engineering and",
+        "label": "ORG",
+        "start": 376,
+        "end": 420
+      },
+      {
+        "text": "Information Technology",
+        "label": "ORG",
+        "start": 421,
+        "end": 443
+      },
+      {
+        "text": "Physics",
+        "label": "ORG",
+        "start": 462,
+        "end": 469
+      },
+      {
+        "text": "first-year",
+        "label": "DATE",
+        "start": 519,
+        "end": 529
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 546,
+        "end": 549
+      },
+      {
+        "text": "winter 2017",
+        "label": "DATE",
+        "start": 619,
+        "end": 630
+      },
+      {
+        "text": "roughly 30%",
+        "label": "PERCENT",
+        "start": 670,
+        "end": 681
+      },
+      {
+        "text": "the first-year",
+        "label": "DATE",
+        "start": 685,
+        "end": 699
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 745,
+        "end": 750
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 33,
+        "end": 37
+      },
+      {
+        "text": "Computer Science, Electrical Engineering and",
+        "label": "ORG",
+        "start": 47,
+        "end": 91
+      },
+      {
+        "text": "Information Technology",
+        "label": "ORG",
+        "start": 92,
+        "end": 114
+      },
+      {
+        "text": "Mathematics, Physics",
+        "label": "ORG",
+        "start": 116,
+        "end": 136
+      },
+      {
+        "text": "last four years",
+        "label": "DATE",
+        "start": 189,
+        "end": 204
+      },
+      {
+        "text": "years 2016 to 2019",
+        "label": "DATE",
+        "start": 221,
+        "end": 239
+      },
+      {
+        "text": "first-year",
+        "label": "DATE",
+        "start": 306,
+        "end": 316
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 368,
+        "end": 373
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 395,
+        "end": 400
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 427,
+        "end": 433
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 450,
+        "end": 456
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 590,
+        "end": 596
+      },
+      {
+        "text": "first-year",
+        "label": "DATE",
+        "start": 669,
+        "end": 679
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 747,
+        "end": 751
+      },
+      {
+        "text": "first-year",
+        "label": "DATE",
+        "start": 14,
+        "end": 24
+      },
+      {
+        "text": "Andreas Vaterlaus",
+        "label": "PERSON",
+        "start": 435,
+        "end": 452
+      },
+      {
+        "text": "Professor of Physics",
+        "label": "ORG",
+        "start": 454,
+        "end": 474
+      },
+      {
+        "text": "around 15%",
+        "label": "PERCENT",
+        "start": 597,
+        "end": 607
+      },
+      {
+        "text": "first-year",
+        "label": "DATE",
+        "start": 677,
+        "end": 687
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 804,
+        "end": 807
+      },
+      {
+        "text": "Vaterlaus",
+        "label": "PERSON",
+        "start": 975,
+        "end": 984
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Academic Services",
+        "label": "ORG",
+        "start": 216,
+        "end": 233
+      },
+      {
+        "text": "year 2020",
+        "label": "DATE",
+        "start": 295,
+        "end": 304
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 454,
+        "end": 460
+      },
+      {
+        "text": "Computer Science Computer Science , Electrical Engineering and",
+        "label": "ORG",
+        "start": 462,
+        "end": 524
+      },
+      {
+        "text": "Information Technology",
+        "label": "ORG",
+        "start": 525,
+        "end": 547
+      },
+      {
+        "text": "Mathematics , Physics and Computational Science and Engineering",
+        "label": "ORG",
+        "start": 550,
+        "end": 613
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 817,
+        "end": 827
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andreas Vaterlaus",
+        "ETH Zurich",
+        "Vaterlaus"
+      ],
+      "ORG": [
+        "Academic Services",
+        "Computer Science Computer Science , Electrical Engineering and",
+        "Computer Science, Electrical Engineering and",
+        "ETH",
+        "ETH Zurich",
+        "Information Technology",
+        "Mathematics , Physics and Computational Science and Engineering",
+        "Mathematics, Physics",
+        "Physics",
+        "Professor of Physics"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "first-year",
+        "last four years",
+        "the first-year",
+        "the initial year",
+        "winter 2017",
+        "year 2020",
+        "years 2016 to 2019"
+      ],
+      "MISC": [
+        "2016/17",
+        "German",
+        "Two",
+        "around 15%",
+        "first",
+        "five",
+        "four",
+        "roughly 30%",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "first-year": 6,
+      "first": 4,
+      "Information Technology": 3,
+      "second": 3,
+      "ETH": 2,
+      "two": 2,
+      "Computer Science, Electrical Engineering and": 2,
+      "ETH Zurich": 2,
+      "Two": 1,
+      "the initial year": 1,
+      "2016/17": 1,
+      "Physics": 1,
+      "winter 2017": 1,
+      "roughly 30%": 1,
+      "the first-year": 1,
+      "five": 1,
+      "Mathematics, Physics": 1,
+      "last four years": 1,
+      "years 2016 to 2019": 1,
+      "four": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "first-year-examinations-in-two-blocks.md",
+      "title": "En News Events/2016/06/first Year Examinations in Two Blocks",
+      "language": "en",
+      "source_path": "en_news_events/2016/06/first-year-examinations-in-two-blocks.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2016",
+        "2017",
+        "2019",
+        "2020"
+      ],
+      "time_periods": [
+        [
+          "2016",
+          "2019"
+        ]
+      ],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andreas Vaterlaus",
+        "ETH Zurich",
+        "Vaterlaus"
+      ],
+      "people_with_roles": {
+        "Andreas Vaterlaus": [
+          "professor",
+          "student",
+          "rector"
+        ],
+        "ETH Zurich": [
+          "professor",
+          "student",
+          "rector"
+        ],
+        "Vaterlaus": [
+          "professor",
+          "student",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "mathematics"
+      ],
+      "research_topics": [
+        "2016/17",
+        "German",
+        "around 15%",
+        "first",
+        "five",
+        "four",
+        "roughly 30%",
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Electrical Engineering",
+        "Curriculum Development",
+        "En News",
+        "Year Examinations",
+        "Vice-Rector",
+        "Two Blocks",
+        "Academic Services",
+        "Information Technology",
+        "ETH Zurich",
+        "Andreas Vaterlaus",
+        "Computational Science",
+        "Computer Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Academic Services",
+        "Computer Science Computer Science , Electrical Engineering and",
+        "Computer Science, Electrical Engineering and",
+        "ETH",
+        "ETH Zurich",
+        "Information Technology",
+        "Mathematics , Physics and Computational Science and Engineering",
+        "Mathematics, Physics",
+        "Physics",
+        "Professor of Physics"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "first-year",
+        "first",
+        "Information Technology",
+        "second",
+        "ETH",
+        "two",
+        "Computer Science, Electrical Engineering and",
+        "ETH Zurich",
+        "Two",
+        "the initial year"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Managing the workload",
+          "Managing the workload",
+          "Fewer drop-outs",
+          "Evaluation of the pilot project"
+        ],
+        "content_length": 3457
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Mathematics , Physics and Computational Science and Engineering",
+        "ETH",
+        "Physics",
+        "Computer Science, Electrical Engineering and",
+        "2017",
+        "2019",
+        "Professor of Physics",
+        "2020",
+        "2016",
+        "Academic Services",
+        "Mathematics, Physics",
+        "Information Technology",
+        "Vaterlaus",
+        "Computer Science Computer Science , Electrical Engineering and",
+        "ETH Zurich",
+        "Andreas Vaterlaus"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "around 15%",
+        "four",
+        "who",
+        "roughly 30%",
+        "where",
+        "what",
+        "second",
+        "German",
+        "how",
+        "five",
+        "when",
+        "engineering",
+        "2016/17"
+      ],
+      "graph_relations": [
+        "Andreas Vaterlaus_has_role_professor",
+        "Andreas Vaterlaus_has_role_student",
+        "Andreas Vaterlaus_has_role_rector",
+        "ETH Zurich_has_role_professor",
+        "ETH Zurich_has_role_student",
+        "ETH Zurich_has_role_rector",
+        "Vaterlaus_has_role_professor",
+        "Vaterlaus_has_role_student",
+        "Vaterlaus_has_role_rector",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

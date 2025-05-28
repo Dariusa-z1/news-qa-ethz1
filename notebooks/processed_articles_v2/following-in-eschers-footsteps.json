@@ -1,0 +1,539 @@
+{
+  "filename": "following-in-eschers-footsteps.md",
+  "original_filename": "following-in-eschers-footsteps.html",
+  "source_path": "en_news_events/2020/04/following-in-eschers-footsteps.html",
+  "date": "2020-04",
+  "title": "Following In Eschers Footsteps",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A kitchen cabinet that can think",
+      "text": "Every year in Switzerland, about one million tonnes of food from private households ends up in the rubbish. Although awareness of food waste has risen in recent years, until now little more could be done to combat the appalling wastage than inform the public and appeal to them to change their habits. But 20-year-old Julia Gschwind from Solothurn wasn’t going to settle for that. As part of her school-leaving exam work, she sought a way to tackle the squandering at its source – in the consumer’s kitchen."
+    },
+    {
+      "heading": "Competition in its 54th year",
+      "text": "Julia Gschwind. (Photo: courtesy of J.Gschwind)\n\nJulia Gschwind has developed and designed a smart kitchen cabinet that constantly reminds users of food items about to reach their expiry date. So how does this work? Product data is identified and evaluated by means of scanning, text and barcode recognition software, and a weight sensor. The system updates the database when a product is removed, and informs the user via e-mail or dashboard of all expiry dates.\n\nIn their appraisal, the jury commended the award winner for her convincing and sound idea for cutting the amount of food thrown away in households: “Her outstanding work meets a market need, and is impressive in its scientific approach, use of sophisticated technologies, and university-ready documentation”. For this Julia won the Alfred Escher Prize of ETH Zurich. It consists of an all-inclusive trip to an international start-up hotspot or an innovation congress. \"It is a great honour to be awarded by a world-leading university for a Matura thesis,\" says Julia Gschwind ; \"the Alfred Escher Prize also gives me the opportunity to gain an insight into the start-up culture.\""
+    },
+    {
+      "heading": "An autonomous chessboard",
+      "text": "Sébastien Delsad. (Photo: courtesy of S.Delsad)\n\nThe second Alfred Escher Prize went to 17-year-old Sébastien Delsad from Cologny, canton of Geneva, for an extremely demanding project, both technically and theoretically. His goal was to programme and construct from scratch a chess computer that not only calculates moves using artificial intelligence and machine learning, but also executes them on a real chess board by means of magnetic detectors. The prototype was subsequently optimised in several steps, and is now likely to beat an average chess player.\n\nThe jury praised Sébastien Delsad’s high-quality work for drawing on a broad knowledge of electronics, assembly, computer science, artificial intelligence and algorithms. \"I am particularly honored to receive the Escher prize, especially given the amazing career of Alfred Escher\", says the winner of the award. \"I can't wait to meet new people with similar interests to mine.\"\n\n“The courage and creativity of the upcoming generation are unshakeable. This is strikingly demonstrated by the two Alfred Escher Prize winners this year”, summed up Ralph Eichler, former ETH President and Chairman of the Board of Trustees of Swiss Youth in Science. He is always fascinated by the ideas the young have for tackling and mastering challenges and “not least, how fearlessly they expose themselves to the risk of failure”, he says.\n\n“Think further”– the motto of this long-standing competition for promoting young scientists – took on an unexpected relevance this year. For the first time in 54 years, the national final took place virtually. Following a multi-phase selection process, 136 participants from 20 cantons presented their projects to the experts by video call. The competition is open to young researchers in Switzerland from the age of 16 up to the end of secondary or vocational school. The majority of participants this year, namely 123, were attending grammar school, while 13 participants were completing an apprenticeship. The gender balance was almost even, with 65 women to 71 men.\n\nAlfred Escher played an influential role in the founding of the Swiss Federal Polytechnic, which later became ETH Zurich. In 2019, the pioneer would have celebrated his 200th birthday, and this anniversary prompted ETH to award a prize for young innovators. The criteria here are innovative spirit and originality, practical relevance and a connection to natural sciences and technology."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Every year",
+        "label": "DATE",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 14,
+        "end": 25
+      },
+      {
+        "text": "about one million tonnes",
+        "label": "QUANTITY",
+        "start": 27,
+        "end": 51
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 154,
+        "end": 166
+      },
+      {
+        "text": "20-year-old",
+        "label": "DATE",
+        "start": 306,
+        "end": 317
+      },
+      {
+        "text": "Julia Gschwind",
+        "label": "PERSON",
+        "start": 318,
+        "end": 332
+      },
+      {
+        "text": "Solothurn",
+        "label": "ORG",
+        "start": 338,
+        "end": 347
+      },
+      {
+        "text": "Julia Gschwind",
+        "label": "PERSON",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Julia",
+        "label": "ORG",
+        "start": 781,
+        "end": 786
+      },
+      {
+        "text": "the Alfred Escher Prize",
+        "label": "WORK_OF_ART",
+        "start": 791,
+        "end": 814
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 818,
+        "end": 828
+      },
+      {
+        "text": "congress",
+        "label": "ORG",
+        "start": 921,
+        "end": 929
+      },
+      {
+        "text": "Matura",
+        "label": "ORG",
+        "start": 1003,
+        "end": 1009
+      },
+      {
+        "text": "Julia Gschwind",
+        "label": "PERSON",
+        "start": 1024,
+        "end": 1038
+      },
+      {
+        "text": "the Alfred Escher Prize",
+        "label": "WORK_OF_ART",
+        "start": 1042,
+        "end": 1065
+      },
+      {
+        "text": "Sébastien Delsad",
+        "label": "PERSON",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "S.Delsad",
+        "label": "ORG",
+        "start": 38,
+        "end": 46
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 52,
+        "end": 58
+      },
+      {
+        "text": "Alfred Escher Prize",
+        "label": "WORK_OF_ART",
+        "start": 59,
+        "end": 78
+      },
+      {
+        "text": "17-year-old",
+        "label": "DATE",
+        "start": 87,
+        "end": 98
+      },
+      {
+        "text": "Sébastien Delsad",
+        "label": "PERSON",
+        "start": 99,
+        "end": 115
+      },
+      {
+        "text": "Cologny",
+        "label": "GPE",
+        "start": 121,
+        "end": 128
+      },
+      {
+        "text": "canton",
+        "label": "GPE",
+        "start": 130,
+        "end": 136
+      },
+      {
+        "text": "Geneva",
+        "label": "GPE",
+        "start": 140,
+        "end": 146
+      },
+      {
+        "text": "Sébastien Delsad’s",
+        "label": "PERSON",
+        "start": 577,
+        "end": 595
+      },
+      {
+        "text": "Escher",
+        "label": "PERSON",
+        "start": 773,
+        "end": 779
+      },
+      {
+        "text": "Alfred Escher",
+        "label": "PERSON",
+        "start": 826,
+        "end": 839
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1049,
+        "end": 1052
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 1081,
+        "end": 1090
+      },
+      {
+        "text": "Ralph Eichler",
+        "label": "PERSON",
+        "start": 1103,
+        "end": 1116
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1125,
+        "end": 1128
+      },
+      {
+        "text": "the Board of Trustees of Swiss Youth",
+        "label": "ORG",
+        "start": 1155,
+        "end": 1191
+      },
+      {
+        "text": "Science",
+        "label": "GPE",
+        "start": 1195,
+        "end": 1202
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 1508,
+        "end": 1517
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1527,
+        "end": 1532
+      },
+      {
+        "text": "54 years",
+        "label": "DATE",
+        "start": 1541,
+        "end": 1549
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1771,
+        "end": 1782
+      },
+      {
+        "text": "the age of 16",
+        "label": "DATE",
+        "start": 1788,
+        "end": 1801
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 1880,
+        "end": 1889
+      },
+      {
+        "text": "Alfred Escher",
+        "label": "PERSON",
+        "start": 2052,
+        "end": 2065
+      },
+      {
+        "text": "the Swiss Federal Polytechnic",
+        "label": "ORG",
+        "start": 2112,
+        "end": 2141
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 2162,
+        "end": 2172
+      },
+      {
+        "text": "200th",
+        "label": "ORDINAL",
+        "start": 2221,
+        "end": 2226
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2267,
+        "end": 2270
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alfred Escher",
+        "ETH Zurich",
+        "Escher",
+        "Julia Gschwind",
+        "Ralph Eichler",
+        "Sébastien Delsad",
+        "Sébastien Delsad’s"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Julia",
+        "Matura",
+        "S.Delsad",
+        "Solothurn",
+        "congress",
+        "the Board of Trustees of Swiss Youth",
+        "the Swiss Federal Polytechnic"
+      ],
+      "LOCATION": [
+        "Cologny",
+        "Geneva",
+        "Science",
+        "Switzerland",
+        "canton"
+      ],
+      "DATE": [
+        "17-year-old",
+        "20-year-old",
+        "54 years",
+        "Every year",
+        "recent years",
+        "the age of 16",
+        "this year"
+      ],
+      "MISC": [
+        "200th",
+        "Alfred Escher Prize",
+        "about one million tonnes",
+        "first",
+        "second",
+        "the Alfred Escher Prize",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Julia Gschwind": 3,
+      "this year": 3,
+      "Switzerland": 2,
+      "the Alfred Escher Prize": 2,
+      "ETH Zurich": 2,
+      "Sébastien Delsad": 2,
+      "Alfred Escher": 2,
+      "ETH": 2,
+      "Every year": 1,
+      "about one million tonnes": 1,
+      "recent years": 1,
+      "20-year-old": 1,
+      "Solothurn": 1,
+      "Julia": 1,
+      "congress": 1,
+      "Matura": 1,
+      "S.Delsad": 1,
+      "second": 1,
+      "Alfred Escher Prize": 1,
+      "17-year-old": 1
+    },
+    "total_entities": 44,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "following-in-eschers-footsteps.md",
+      "title": "En News Events/2020/04/following in Eschers Footsteps",
+      "language": "en",
+      "source_path": "en_news_events/2020/04/following-in-eschers-footsteps.html"
+    },
+    "temporal": {
+      "publication_date": "2020-04",
+      "mentioned_years": [
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alfred Escher",
+        "ETH Zurich",
+        "Escher",
+        "Julia Gschwind",
+        "Ralph Eichler",
+        "Sébastien Delsad",
+        "Sébastien Delsad’s"
+      ],
+      "people_with_roles": {
+        "Alfred Escher": [
+          "president",
+          "chair"
+        ],
+        "Escher": [
+          "president",
+          "chair"
+        ],
+        "Ralph Eichler": [
+          "president",
+          "chair"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "chair",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "200th",
+        "Alfred Escher Prize",
+        "about one million tonnes",
+        "first",
+        "second",
+        "the Alfred Escher Prize"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Swiss Youth",
+        "Swiss Federal",
+        "Eschers Footsteps",
+        "ETH President",
+        "Julia Gschwind",
+        "Alfred Escher",
+        "En News",
+        "Ralph Eichler",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Julia",
+        "Matura",
+        "S.Delsad",
+        "Solothurn",
+        "congress",
+        "the Board of Trustees of Swiss Youth",
+        "the Swiss Federal Polytechnic"
+      ],
+      "locations": [
+        "Cologny",
+        "Geneva",
+        "Science",
+        "Switzerland",
+        "canton"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Julia Gschwind",
+        "this year",
+        "Switzerland",
+        "the Alfred Escher Prize",
+        "ETH Zurich",
+        "Sébastien Delsad",
+        "Alfred Escher",
+        "ETH",
+        "Every year",
+        "about one million tonnes"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "A kitchen cabinet that can think",
+          "Competition in its 54th year",
+          "An autonomous chessboard"
+        ],
+        "content_length": 4151
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "S.Delsad",
+        "Julia Gschwind",
+        "Alfred Escher",
+        "Ralph Eichler",
+        "Escher",
+        "congress",
+        "2019",
+        "2020",
+        "the Swiss Federal Polytechnic",
+        "Matura",
+        "Solothurn",
+        "the Board of Trustees of Swiss Youth",
+        "ETH Zurich",
+        "Sébastien Delsad’s",
+        "Julia",
+        "Sébastien Delsad"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "the Alfred Escher Prize",
+        "Alfred Escher Prize",
+        "when",
+        "what",
+        "about one million tonnes",
+        "second",
+        "how",
+        "computer_science",
+        "why",
+        "200th",
+        "where"
+      ],
+      "graph_relations": [
+        "Alfred Escher_has_role_president",
+        "Alfred Escher_has_role_chair",
+        "Escher_has_role_president",
+        "Escher_has_role_chair",
+        "Ralph Eichler_has_role_president",
+        "Ralph Eichler_has_role_chair",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

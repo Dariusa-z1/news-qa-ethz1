@@ -1,0 +1,181 @@
+{
+  "filename": "eth-zurichs-art-inventory-online.md",
+  "original_filename": "eth-zurichs-art-inventory-online.html",
+  "source_path": "en_internal/2016/03/eth-zurichs-art-inventory-online.html",
+  "date": "2016-03",
+  "title": "Eth Zurichs Art Inventory Online",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "It includes sculptures, paintings, portraits of prominent figures, busts, art in architecture and casts. These especially include works by Swiss artists, such as Gottfried Honegger, Augusto Giacometti, Wilhelm Ludwig Lehmann, Stefan Gritsch and Roman Signer.\n\nETH E-Pics Art Inventory"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 139,
+        "end": 144
+      },
+      {
+        "text": "Gottfried Honegger",
+        "label": "PERSON",
+        "start": 162,
+        "end": 180
+      },
+      {
+        "text": "Augusto Giacometti",
+        "label": "PERSON",
+        "start": 182,
+        "end": 200
+      },
+      {
+        "text": "Wilhelm Ludwig Lehmann",
+        "label": "PERSON",
+        "start": 202,
+        "end": 224
+      },
+      {
+        "text": "Stefan Gritsch",
+        "label": "PERSON",
+        "start": 226,
+        "end": 240
+      },
+      {
+        "text": "Roman Signer",
+        "label": "PERSON",
+        "start": 245,
+        "end": 257
+      },
+      {
+        "text": "ETH E-Pics Art Inventory",
+        "label": "ORG",
+        "start": 259,
+        "end": 283
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Augusto Giacometti",
+        "Gottfried Honegger",
+        "Roman Signer",
+        "Stefan Gritsch",
+        "Wilhelm Ludwig Lehmann"
+      ],
+      "ORG": [
+        "ETH E-Pics Art Inventory"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "Swiss"
+      ]
+    },
+    "entity_counts": {
+      "Swiss": 1,
+      "Gottfried Honegger": 1,
+      "Augusto Giacometti": 1,
+      "Wilhelm Ludwig Lehmann": 1,
+      "Stefan Gritsch": 1,
+      "Roman Signer": 1,
+      "ETH E-Pics Art Inventory": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-zurichs-art-inventory-online.md",
+      "title": "En Internal/2016/03/eth Zurichs Art Inventory Online",
+      "language": "en",
+      "source_path": "en_internal/2016/03/eth-zurichs-art-inventory-online.html"
+    },
+    "temporal": {
+      "publication_date": "2016-03",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Augusto Giacometti",
+        "Gottfried Honegger",
+        "Roman Signer",
+        "Stefan Gritsch",
+        "Wilhelm Ludwig Lehmann"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Swiss"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Gottfried Honegger",
+        "Stefan Gritsch",
+        "Pics Art",
+        "Inventory Online",
+        "Roman Signer",
+        "En Internal",
+        "Zurichs Art",
+        "Augusto Giacometti",
+        "ETH E",
+        "Wilhelm Ludwig"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH E-Pics Art Inventory"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Swiss",
+        "Gottfried Honegger",
+        "Augusto Giacometti",
+        "Wilhelm Ludwig Lehmann",
+        "Stefan Gritsch",
+        "Roman Signer",
+        "ETH E-Pics Art Inventory"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 337
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Gottfried Honegger",
+        "Stefan Gritsch",
+        "ETH E-Pics Art Inventory",
+        "Roman Signer",
+        "2016",
+        "Augusto Giacometti",
+        "Wilhelm Ludwig Lehmann"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Swiss"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

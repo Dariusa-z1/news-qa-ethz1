@@ -1,0 +1,270 @@
+{
+  "filename": "virtuelle-gedenkfeier-fuer-koni-steffen.md",
+  "original_filename": "virtuelle-gedenkfeier-fuer-koni-steffen.html",
+  "source_path": "de_internal/2020/11/virtuelle-gedenkfeier-fuer-koni-steffen.html",
+  "date": "2020-11",
+  "title": "Virtuelle Gedenkfeier Fuer Koni Steffen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Weitere Informationen",
+      "text": "Das Bedürfnis, von Koni Steffen Abschied zu nehmen, sei sehr gross, schreibt die WSL in einer Mitteilung auf ihrer Webseite. Die WSL werde daher mit dem Einverständnis der Familie Steffen eine Gedenkfeier abhalten.\n\nWegen der Corona-Massnahmen findet die Feier virtuell am Freitag, 20. November 2020, 10.30 -11.30 Uhr, statt. Der Anlass wird auf Deutsch durchgeführt mit Simultanübersetzung auf Englisch. Den Link zum Livestream wird kurz vor der Gedenkfeier versendet und auch auf der WSL-Website verfügbar sein. Die Teilnahme ist offen für alle.\n\nDie Abdankung für Koni Steffen findet im engsten Familienkreis statt.\n\nIm Andenken an Steffen wird am 21. und 22. Oktober 2021 in Davos ein von der WSL organisiertes wissenschaftliches Symposium stattfinden. Details dazu folgen zu einem späteren Zeitpunkt."
+    },
+    {
+      "heading": "Weitere Informationen",
+      "text": "Direktor Konrad Steffen tödlich verunglückt externe Seite (WSL-News 10.08.2020)"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/11/virtuelle Gedenkfeier",
+        "label": "LOC",
+        "start": 0,
+        "end": 41
+      },
+      {
+        "text": "Fuer Koni Steffen",
+        "label": "PER",
+        "start": 42,
+        "end": 59
+      },
+      {
+        "text": "Koni Steffen",
+        "label": "PER",
+        "start": 19,
+        "end": 31
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 81,
+        "end": 84
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 129,
+        "end": 132
+      },
+      {
+        "text": "Feier",
+        "label": "MISC",
+        "start": 254,
+        "end": 259
+      },
+      {
+        "text": "Deutsch",
+        "label": "MISC",
+        "start": 345,
+        "end": 352
+      },
+      {
+        "text": "Englisch",
+        "label": "MISC",
+        "start": 394,
+        "end": 402
+      },
+      {
+        "text": "Link",
+        "label": "PER",
+        "start": 408,
+        "end": 412
+      },
+      {
+        "text": "WSL-Website",
+        "label": "MISC",
+        "start": 485,
+        "end": 496
+      },
+      {
+        "text": "Koni",
+        "label": "PER",
+        "start": 565,
+        "end": 569
+      },
+      {
+        "text": "Davos",
+        "label": "LOC",
+        "start": 676,
+        "end": 681
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 694,
+        "end": 697
+      },
+      {
+        "text": "Konrad Steffen",
+        "label": "PER",
+        "start": 9,
+        "end": 23
+      },
+      {
+        "text": "WSL-News",
+        "label": "MISC",
+        "start": 59,
+        "end": 67
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fuer Koni Steffen",
+        "Koni",
+        "Koni Steffen",
+        "Konrad Steffen",
+        "Link"
+      ],
+      "ORG": [
+        "WSL"
+      ],
+      "LOCATION": [
+        "Davos",
+        "De Internal/2020/11/virtuelle Gedenkfeier"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Deutsch",
+        "Englisch",
+        "Feier",
+        "WSL-News",
+        "WSL-Website"
+      ]
+    },
+    "entity_counts": {
+      "WSL": 3,
+      "De Internal/2020/11/virtuelle Gedenkfeier": 1,
+      "Fuer Koni Steffen": 1,
+      "Koni Steffen": 1,
+      "Feier": 1,
+      "Deutsch": 1,
+      "Englisch": 1,
+      "Link": 1,
+      "WSL-Website": 1,
+      "Koni": 1,
+      "Davos": 1,
+      "Konrad Steffen": 1,
+      "WSL-News": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "virtuelle-gedenkfeier-fuer-koni-steffen.md",
+      "title": "De Internal/2020/11/virtuelle Gedenkfeier Fuer Koni Steffen",
+      "language": "de",
+      "source_path": "de_internal/2020/11/virtuelle-gedenkfeier-fuer-koni-steffen.html"
+    },
+    "temporal": {
+      "publication_date": "2020-11",
+      "mentioned_years": [
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Fuer Koni Steffen",
+        "Koni",
+        "Koni Steffen",
+        "Konrad Steffen",
+        "Link"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Deutsch",
+        "Englisch",
+        "Feier",
+        "WSL-News",
+        "WSL-Website"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Die WSL",
+        "Gedenkfeier Fuer",
+        "Koni Steffen",
+        "Die Abdankung",
+        "WSL-News",
+        "Im Andenken",
+        "De Internal",
+        "Familie Steffen",
+        "Direktor Konrad",
+        "Der Anlass",
+        "Den Link",
+        "Die Teilnahme",
+        "Corona-Massnahmen",
+        "WSL-Website"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "WSL"
+      ],
+      "locations": [
+        "Davos",
+        "De Internal/2020/11/virtuelle Gedenkfeier"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "WSL",
+        "De Internal/2020/11/virtuelle Gedenkfeier",
+        "Fuer Koni Steffen",
+        "Koni Steffen",
+        "Feier",
+        "Deutsch",
+        "Englisch",
+        "Link",
+        "WSL-Website",
+        "Koni"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Weitere Informationen",
+          "Weitere Informationen"
+        ],
+        "content_length": 945
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "WSL",
+        "Koni",
+        "Koni Steffen",
+        "Konrad Steffen",
+        "Fuer Koni Steffen",
+        "EU",
+        "2020",
+        "Link",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "WSL-News",
+        "Deutsch",
+        "Englisch",
+        "WSL-Website",
+        "Feier"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

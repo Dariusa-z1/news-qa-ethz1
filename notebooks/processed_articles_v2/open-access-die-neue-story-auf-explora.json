@@ -1,0 +1,208 @@
+{
+  "filename": "open-access-die-neue-story-auf-explora.md",
+  "original_filename": "open-access-die-neue-story-auf-explora.html",
+  "source_path": "en_internal/2018/10/open-access-die-neue-story-auf-explora.html",
+  "date": "2018-10",
+  "title": "Open Access Die Neue Story Auf Explora",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "A pipe dream or is free access to academic literature not long overdue? The latest story on Explora recounts the early days of academic journals, the monopolisation of the market and the birth of the open access movement – set in motion by the World Wide Web. ETH Library is also committed to open access and is on hand to offer advice to members of ETH Zurich, support them with publishing research results and articles in the Research Collection, and assume certain publishing costs (APCs).\n\nFind out more in the story “Open access – Academic publishing in transition”\n\nExplora is ETH Library’s multimedia storytelling platform"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Neue Story",
+        "label": "ORG",
+        "start": 36,
+        "end": 46
+      },
+      {
+        "text": "Explora",
+        "label": "PERSON",
+        "start": 51,
+        "end": 58
+      },
+      {
+        "text": "Explora",
+        "label": "PERSON",
+        "start": 92,
+        "end": 99
+      },
+      {
+        "text": "the early days",
+        "label": "DATE",
+        "start": 109,
+        "end": 123
+      },
+      {
+        "text": "the World Wide Web",
+        "label": "EVENT",
+        "start": 240,
+        "end": 258
+      },
+      {
+        "text": "ETH Library",
+        "label": "PERSON",
+        "start": 260,
+        "end": 271
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 350,
+        "end": 360
+      },
+      {
+        "text": "the Research Collection",
+        "label": "ORG",
+        "start": 424,
+        "end": 447
+      },
+      {
+        "text": "Explora",
+        "label": "PERSON",
+        "start": 570,
+        "end": 577
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 581,
+        "end": 594
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library",
+        "ETH Library’s",
+        "ETH Zurich",
+        "Explora"
+      ],
+      "ORG": [
+        "Neue Story",
+        "the Research Collection"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "the early days"
+      ],
+      "MISC": [
+        "the World Wide Web"
+      ]
+    },
+    "entity_counts": {
+      "Explora": 3,
+      "Neue Story": 1,
+      "the early days": 1,
+      "the World Wide Web": 1,
+      "ETH Library": 1,
+      "ETH Zurich": 1,
+      "the Research Collection": 1,
+      "ETH Library’s": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "open-access-die-neue-story-auf-explora.md",
+      "title": "En Internal/2018/10/open Access die Neue Story auf Explora",
+      "language": "en",
+      "source_path": "en_internal/2018/10/open-access-die-neue-story-auf-explora.html"
+    },
+    "temporal": {
+      "publication_date": "2018-10",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library",
+        "ETH Library’s",
+        "ETH Zurich",
+        "Explora"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "the World Wide Web"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH Library",
+        "Explora A",
+        "En Internal",
+        "Research Collection",
+        "World Wide",
+        "ETH Zurich",
+        "Neue Story"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Neue Story",
+        "the Research Collection"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Explora",
+        "Neue Story",
+        "the early days",
+        "the World Wide Web",
+        "ETH Library",
+        "ETH Zurich",
+        "the Research Collection",
+        "ETH Library’s"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 688
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "the Research Collection",
+        "Neue Story",
+        "EU",
+        "ETH Library",
+        "Explora",
+        "ETH Zurich",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "the World Wide Web",
+        "what"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

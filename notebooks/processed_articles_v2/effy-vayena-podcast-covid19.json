@@ -1,0 +1,200 @@
+{
+  "filename": "effy-vayena-podcast-covid19.md",
+  "original_filename": "effy-vayena-podcast-covid19.html",
+  "source_path": "en_news_events/2020/04/effy-vayena-podcast-covid19.html",
+  "date": "2020-04",
+  "title": "Effy Vayena Podcast Covid19",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Yesterday, more than 300 researchers argued in an open letter that a \"privacy by design\" approach is essential when implementing digital contact tracing. Apps are seen as a necessary tool in the battle to contain coronavirus infections, but they also raise many ethical questions. Effy Vayena, Professor of Bioethics, nevertheless remains optimistic that digital technologies can help reduce the speed at which the virus spreads. \"We are currently dealing with a variety of technologies that are able to protect our privacy while still serving their purpose,\" she says.\n\nYou can subscribe to it through any of the usual podcast platforms or listen to it on Podcast-Website. There, you will also find earlier episodes of the ETH Podcast."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Vayena Podcast Covid19",
+        "label": "PERSON",
+        "start": 28,
+        "end": 50
+      },
+      {
+        "text": "Yesterday",
+        "label": "DATE",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "more than 300",
+        "label": "CARDINAL",
+        "start": 11,
+        "end": 24
+      },
+      {
+        "text": "Apps",
+        "label": "PERSON",
+        "start": 154,
+        "end": 158
+      },
+      {
+        "text": "Vayena",
+        "label": "PERSON",
+        "start": 286,
+        "end": 292
+      },
+      {
+        "text": "Podcast-Website",
+        "label": "ORG",
+        "start": 656,
+        "end": 671
+      },
+      {
+        "text": "the ETH Podcast",
+        "label": "ORG",
+        "start": 719,
+        "end": 734
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Apps",
+        "Vayena",
+        "Vayena Podcast Covid19"
+      ],
+      "ORG": [
+        "Podcast-Website",
+        "the ETH Podcast"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Yesterday"
+      ],
+      "MISC": [
+        "more than 300"
+      ]
+    },
+    "entity_counts": {
+      "Vayena Podcast Covid19": 1,
+      "Yesterday": 1,
+      "more than 300": 1,
+      "Apps": 1,
+      "Vayena": 1,
+      "Podcast-Website": 1,
+      "the ETH Podcast": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "effy-vayena-podcast-covid19.md",
+      "title": "En News Events/2020/04/effy Vayena Podcast Covid19",
+      "language": "en",
+      "source_path": "en_news_events/2020/04/effy-vayena-podcast-covid19.html"
+    },
+    "temporal": {
+      "publication_date": "2020-04",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Apps",
+        "Vayena",
+        "Vayena Podcast Covid19"
+      ],
+      "people_with_roles": {
+        "Vayena": [
+          "researcher",
+          "professor"
+        ],
+        "Vayena Podcast Covid19": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "more than 300"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "Vayena Podcast",
+        "ETH Podcast",
+        "Effy Vayena",
+        "Podcast-Website"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Podcast-Website",
+        "the ETH Podcast"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Vayena Podcast Covid19",
+        "Yesterday",
+        "more than 300",
+        "Apps",
+        "Vayena",
+        "Podcast-Website",
+        "the ETH Podcast"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 787
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Apps",
+        "2020",
+        "the ETH Podcast",
+        "Vayena",
+        "Podcast-Website",
+        "Vayena Podcast Covid19"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "more than 300",
+        "what",
+        "how",
+        "why",
+        "when"
+      ],
+      "graph_relations": [
+        "Vayena_has_role_researcher",
+        "Vayena_has_role_professor",
+        "Vayena Podcast Covid19_has_role_researcher",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

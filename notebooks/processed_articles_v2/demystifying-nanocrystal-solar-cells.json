@@ -1,0 +1,384 @@
+{
+  "filename": "demystifying-nanocrystal-solar-cells.md",
+  "original_filename": "demystifying-nanocrystal-solar-cells.html",
+  "source_path": "en_news_events/2015/01/demystifying-nanocrystal-solar-cells.html",
+  "date": "2015-01",
+  "title": "Demystifying Nanocrystal Solar Cells",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Promising outlook thanks to quantum effects",
+      "text": "Scientists are focusing on nanometre-sized crystals for the next generation of solar cells. These nanocrystals have excellent optical properties. Compared with silicon in today’s solar cells, nanocrystals can be designed to absorb a larger fraction of the solar light spectrum. However, the development of nanocrystal-based solar cells is challenging: “These solar cells contain layers of many individual nano-sized crystals, bound together by a molecular glue. Within this nanocrystal composite, the electrons do not flow as well as needed for commercial applications,” explains Vanessa Wood, Professor of Materials and Device Engineering at ETH Zurich. Until now, the physics of electron transport in this complex material system was not understood so it was impossible to systematically engineer better nanocrystal-composites.\n\nWood and her colleagues conducted an extensive study of nanocrystal solar cells, which they fabricated and characterized in their laboratories at ETH Zurich. They were able to describe the electron transport in these types of cells via a generally applicable physical model for the first time. “Our model is able to explain the impact of changing nanocrystal size, nanocrystal material, or binder molecules on electron transport,” says Wood. The model will give scientists in the research field a better understanding of the physical processes inside nanocrystal solar cells and enable them to improve solar cell efficiency."
+    },
+    {
+      "heading": "Promising outlook thanks to quantum effects",
+      "text": "The reason for the enthusiasm of many solar cell researchers for the tiny crystals is that at small dimensions effects of quantum physics come into play that are not observed in bulk semiconductors. One example is that the physical properties of the nanocrystals depend on their size. And because scientists can easily control nanocrystal size in the fabrication process, they are also able to influence the properties of nanocrystal semiconductors and optimize them for solar cells.\n\nOne such property that can be influenced by changing nanocrystal size is the amount of sun’s spectrum that can be absorbed by the nanocrystals and converted to electricity by the solar cell. Semiconductors do not absorb the entire sunlight spectrum, but rather only radiation below a certain wavelength, or – in other words – with an energy greater than the so-called band gap energy of the semiconductor. In most semiconductors, this threshold can only be changed by changing the material. However, for nanocrystal composites, the threshold can be changed simply by changing the size of the individual crystals. Thus scientists can select the size of nanocrystals in such a way that they absorb the maximum amount of light from a broad range of the sunlight spectrum.\n\nAn additional advantage of nanocrystal semiconductors is that they absorb much more sunlight than traditional semiconductors. For example, the absorption coefficient of lead sulfide nanocrystals, used by the ETH researchers in their experimental work, is several orders of magnitude greater than that of silicon semiconductors, used traditionally as solar cells. Thus, a relatively small amount of material is sufficient for the production of nanocrystal solar cells, making it possible to make very thin, flexible solar cells."
+    },
+    {
+      "heading": "Need for greater efficiency",
+      "text": "The new model put forth by the ETH researchers answers a series of previously unresolved questions related to electron transport in nanocrystal composites. For example, until now, no experimental evidence existed to prove that the band gap energy of a nanocrystal composite depends directly on the band gap energy of the individual nanocrystals. “For the first time, we have shown experimentally that this is the case,” says Wood.\n\nOver the past five years, scientists have succeeded in greatly increasing the efficiency of nanocrystal solar cells, yet even in the best of these solar cells just 9 percent of the incident sunlight on the cell is converted into electrical energy. “For us to begin to consider commercial applications, we need to achieve an efficiency of at least 15 percent,” explains Wood. Her group’s work brings researchers one step closer to improving the electron transport and solar cells efficiency.\n\nScientists are focusing on nanometre-sized crystals for the next generation of solar cells. These nanocrystals have excellent optical properties. Compared with silicon in today’s solar cells, nanocrystals can be designed to absorb a larger fraction of the solar light spectrum. However, the development of nanocrystal-based solar cells is challenging: “These solar cells contain layers of many individual nano-sized crystals, bound together by a molecular glue. Within this nanocrystal composite, the electrons do not flow as well as needed for commercial applications,” explains Vanessa Wood, Professor of Materials and Device Engineering at ETH Zurich. Until now, the physics of electron transport in this complex material system was not understood so it was impossible to systematically engineer better nanocrystal-composites.\n\nBozyigit D, Lin WMM, Yazdani N, Yarema O, Wood V: A quantitative model for charge carrier transport, trapping and recombination in nanocrystal-based solar cells. Nature Communications, 27 January 2015, doi: 10.1038/ncomms7180"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Nanocrystal Solar Cells",
+        "label": "ORG",
+        "start": 36,
+        "end": 59
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 171,
+        "end": 176
+      },
+      {
+        "text": "Vanessa Wood",
+        "label": "PERSON",
+        "start": 580,
+        "end": 592
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 643,
+        "end": 653
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 976,
+        "end": 986
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1112,
+        "end": 1117
+      },
+      {
+        "text": "Wood",
+        "label": "ORG",
+        "start": 1266,
+        "end": 1270
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 199,
+        "end": 202
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 484,
+        "end": 487
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1461,
+        "end": 1464
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 355,
+        "end": 360
+      },
+      {
+        "text": "the past five years",
+        "label": "DATE",
+        "start": 436,
+        "end": 455
+      },
+      {
+        "text": "just 9 percent",
+        "label": "PERCENT",
+        "start": 590,
+        "end": 604
+      },
+      {
+        "text": "at least 15 percent",
+        "label": "PERCENT",
+        "start": 769,
+        "end": 788
+      },
+      {
+        "text": "Wood",
+        "label": "ORG",
+        "start": 800,
+        "end": 804
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 842,
+        "end": 845
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1093,
+        "end": 1098
+      },
+      {
+        "text": "Vanessa Wood",
+        "label": "PERSON",
+        "start": 1502,
+        "end": 1514
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 1565,
+        "end": 1575
+      },
+      {
+        "text": "Lin WMM",
+        "label": "PERSON",
+        "start": 1764,
+        "end": 1771
+      },
+      {
+        "text": "Yazdani N",
+        "label": "ORG",
+        "start": 1773,
+        "end": 1782
+      },
+      {
+        "text": "Yarema O",
+        "label": "PERSON",
+        "start": 1784,
+        "end": 1792
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1914,
+        "end": 1935
+      },
+      {
+        "text": "27 January 2015",
+        "label": "DATE",
+        "start": 1937,
+        "end": 1952
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1959,
+        "end": 1966
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Lin WMM",
+        "Vanessa Wood",
+        "Yarema O"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Nanocrystal Solar Cells",
+        "Nature Communications",
+        "Wood",
+        "Yazdani N"
+      ],
+      "LOCATION": [
+        "ETH Zurich"
+      ],
+      "DATE": [
+        "27 January 2015",
+        "the past five years",
+        "today"
+      ],
+      "MISC": [
+        "10.1038",
+        "One",
+        "at least 15 percent",
+        "first",
+        "just 9 percent",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "today": 2,
+      "Vanessa Wood": 2,
+      "first": 2,
+      "Wood": 2,
+      "One": 2,
+      "ETH": 2,
+      "Nanocrystal Solar Cells": 1,
+      "the past five years": 1,
+      "just 9 percent": 1,
+      "at least 15 percent": 1,
+      "one": 1,
+      "Lin WMM": 1,
+      "Yazdani N": 1,
+      "Yarema O": 1,
+      "Nature Communications": 1,
+      "27 January 2015": 1,
+      "10.1038": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "demystifying-nanocrystal-solar-cells.md",
+      "title": "En News Events/2015/01/demystifying Nanocrystal Solar Cells",
+      "language": "en",
+      "source_path": "en_news_events/2015/01/demystifying-nanocrystal-solar-cells.html"
+    },
+    "temporal": {
+      "publication_date": "2015-01",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Lin WMM",
+        "Vanessa Wood",
+        "Yarema O"
+      ],
+      "people_with_roles": {
+        "Vanessa Wood": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "biology",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "at least 15 percent",
+        "first",
+        "just 9 percent"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Lin WMM",
+        "Nanocrystal Solar",
+        "En News",
+        "Cells Scientists",
+        "Yazdani N",
+        "Bozyigit D",
+        "Device Engineering",
+        "Yarema O",
+        "Vanessa Wood",
+        "Nature Communications",
+        "ETH Zurich",
+        "Wood V"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Nanocrystal Solar Cells",
+        "Nature Communications",
+        "Wood",
+        "Yazdani N"
+      ],
+      "locations": [
+        "ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "today",
+        "Vanessa Wood",
+        "first",
+        "Wood",
+        "One",
+        "ETH",
+        "Nanocrystal Solar Cells",
+        "the past five years",
+        "just 9 percent"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Promising outlook thanks to quantum effects",
+          "Promising outlook thanks to quantum effects",
+          "Need for greater efficiency"
+        ],
+        "content_length": 5279
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Lin WMM",
+        "2015",
+        "Yazdani N",
+        "Wood",
+        "Yarema O",
+        "Vanessa Wood",
+        "Nanocrystal Solar Cells",
+        "ETH Zurich",
+        "Nature Communications",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "who",
+        "10.1038",
+        "chemistry",
+        "biology",
+        "at least 15 percent",
+        "what",
+        "how",
+        "just 9 percent",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Vanessa Wood_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

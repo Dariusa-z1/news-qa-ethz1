@@ -1,0 +1,221 @@
+{
+  "filename": "einseitige-windparkplanungen-verschaerfen-schwankungen.md",
+  "original_filename": "einseitige-windparkplanungen-verschaerfen-schwankungen.html",
+  "source_path": "en_news_events/2017/07/einseitige-windparkplanungen-verschaerfen-schwankungen.html",
+  "date": "2017-07",
+  "title": "Einseitige Windparkplanungen Verschaerfen Schwankungen",
+  "language": "sv",
+  "paragraphs": [
+    {
+      "heading": "Literaturhinweis",
+      "text": "Ausländer D, Ausländer S, Charpin-El Hamri G, Sedlmayer F, Müller M, Frey O, Hierlemann A, Stelling J, Fussenegger M: A synthetic Multifunctional Mammalian pH Sensor and CO 2 Transgene-Control Device. Molecular Cell, 10. Juli 2014, doi: 10.1016/j.molcel.2014.06.007"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Windparkplanungen",
+        "label": "ORG",
+        "start": 34,
+        "end": 51
+      },
+      {
+        "text": "Verschaerfen Schwankungen",
+        "label": "PERSON",
+        "start": 52,
+        "end": 77
+      },
+      {
+        "text": "Ausländer S",
+        "label": "ORG",
+        "start": 13,
+        "end": 24
+      },
+      {
+        "text": "Charpin-El Hamri G",
+        "label": "ORG",
+        "start": 26,
+        "end": 44
+      },
+      {
+        "text": "Sedlmayer F",
+        "label": "PERSON",
+        "start": 46,
+        "end": 57
+      },
+      {
+        "text": "Hierlemann A",
+        "label": "ORG",
+        "start": 77,
+        "end": 89
+      },
+      {
+        "text": "Multifunctional Mammalian pH Sensor",
+        "label": "ORG",
+        "start": 130,
+        "end": 165
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 170,
+        "end": 174
+      },
+      {
+        "text": "Juli",
+        "label": "PERSON",
+        "start": 221,
+        "end": 225
+      },
+      {
+        "text": "10.1016",
+        "label": "CARDINAL",
+        "start": 237,
+        "end": 244
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Juli",
+        "Sedlmayer F",
+        "Verschaerfen Schwankungen"
+      ],
+      "ORG": [
+        "Ausländer S",
+        "CO 2",
+        "Charpin-El Hamri G",
+        "Hierlemann A",
+        "Multifunctional Mammalian pH Sensor",
+        "Windparkplanungen"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "10.1016"
+      ]
+    },
+    "entity_counts": {
+      "Windparkplanungen": 1,
+      "Verschaerfen Schwankungen": 1,
+      "Ausländer S": 1,
+      "Charpin-El Hamri G": 1,
+      "Sedlmayer F": 1,
+      "Hierlemann A": 1,
+      "Multifunctional Mammalian pH Sensor": 1,
+      "CO 2": 1,
+      "Juli": 1,
+      "10.1016": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "einseitige-windparkplanungen-verschaerfen-schwankungen.md",
+      "title": "En News Events/2017/07/einseitige Windparkplanungen Verschaerfen Schwankungen",
+      "language": "sv",
+      "source_path": "en_news_events/2017/07/einseitige-windparkplanungen-verschaerfen-schwankungen.html"
+    },
+    "temporal": {
+      "publication_date": "2017-07",
+      "mentioned_years": [
+        "2014",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Juli",
+        "Sedlmayer F",
+        "Verschaerfen Schwankungen"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1016"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Charpin-El",
+        "Hierlemann A",
+        "Hamri G",
+        "Transgene-Control",
+        "En News",
+        "Stelling J",
+        "Fussenegger M",
+        "Molecular Cell",
+        "Multifunctional Mammalian",
+        "Frey O",
+        "Sedlmayer F",
+        "Windparkplanungen Verschaerfen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Ausländer S",
+        "CO 2",
+        "Charpin-El Hamri G",
+        "Hierlemann A",
+        "Multifunctional Mammalian pH Sensor",
+        "Windparkplanungen"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Windparkplanungen",
+        "Verschaerfen Schwankungen",
+        "Ausländer S",
+        "Charpin-El Hamri G",
+        "Sedlmayer F",
+        "Hierlemann A",
+        "Multifunctional Mammalian pH Sensor",
+        "CO 2",
+        "Juli",
+        "10.1016"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Literaturhinweis"
+        ],
+        "content_length": 343
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hierlemann A",
+        "Charpin-El Hamri G",
+        "2017",
+        "Verschaerfen Schwankungen",
+        "Multifunctional Mammalian pH Sensor",
+        "Ausländer S",
+        "Sedlmayer F",
+        "Windparkplanungen",
+        "2014",
+        "CO 2",
+        "Juli"
+      ],
+      "semantic_concepts": [
+        "10.1016",
+        "biology",
+        "chemistry"
+      ],
+      "graph_relations": [
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

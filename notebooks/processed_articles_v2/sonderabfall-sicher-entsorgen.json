@@ -1,0 +1,245 @@
+{
+  "filename": "sonderabfall-sicher-entsorgen.md",
+  "original_filename": "sonderabfall-sicher-entsorgen.html",
+  "source_path": "de_internal/2019/04/sonderabfall-sicher-entsorgen.html",
+  "date": "2019-04",
+  "title": "Sonderabfall Sicher Entsorgen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Auch kleinste Mengen von Antibiotika sind Sonderabfall",
+      "text": "Die ETH Zürich wächst. Bezogen auf Studierende und Mitarbeitende betrug das Wachstum zwischen 2015 und 2018 insgesamt über 3'000 Personen. Entsprechend kommt es in den Laboren auch zur Verwendung von mehr Chemikalien, Forschungsmaterialien – und zu mehr Abfallprodukten, die daraus entstehen. Das Plus von entsorgten Lösemitteln, Säuren, Laugen oder Akkus beträgt 2018 gegenüber 2015 rund 30 Prozent."
+    },
+    {
+      "heading": "Auch kleinste Mengen von Antibiotika sind Sonderabfall",
+      "text": "Neben dem Wachstum der Hochschule tragen auch aktuelle Entwicklungen dazu bei, zum Beispiel strengere gesetzliche Anforderungen. Hitzebeständige Antibiotika etwa müssen neu auch in Kleinstmengen als Sonderabfall entsorgt werden. Ein weiterer Faktor ist, dass in der Forschung die Menge von Materialien und Technologien zunimmt, die gesondert entsorgt werden müssen. So ist die Zahl zu entsorgender Lithiumionen-Akkumulatoren in den letzten Jahren gewachsen. Schliesslich ist in der Jahresbilanz spürbar, dass 2018 ein Fokus auf die Entsorgung von Chemikalien älteren Datums gelegt wurde."
+    },
+    {
+      "heading": "Digitale Erfassung für lückenlosen Überblick",
+      "text": "Vor diesem Hintergrund ist auch die von der SGU realisierte Umstellung des Entsorgungsprozesses der ETH zu sehen. Sonderabfälle werden an der ETH künftig elektronisch erfasst. Das Ziel ist, sowohl den Forschenden als auch den zuständigen Mitarbeitenden in den Entsorgungsstellen die Arbeit zu erleichtern und die Entsorgung insgesamt sicherer zu machen. Die elektronische Erfassung der Sonderabfälle erlaubt die Rückverfolgbarkeit von Chemikalien, lässt eine genauere Erhebung zu und gibt Aufschlüsse über den Stofffluss."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/04/sonderabfall Sicher",
+        "label": "LOC",
+        "start": 0,
+        "end": 39
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 4,
+        "end": 14
+      },
+      {
+        "text": "Forschungsmaterialien",
+        "label": "LOC",
+        "start": 218,
+        "end": 239
+      },
+      {
+        "text": "Laugen",
+        "label": "LOC",
+        "start": 338,
+        "end": 344
+      },
+      {
+        "text": "Akkus",
+        "label": "LOC",
+        "start": 350,
+        "end": 355
+      },
+      {
+        "text": "Kleinstmengen",
+        "label": "LOC",
+        "start": 181,
+        "end": 194
+      },
+      {
+        "text": "Schliesslich",
+        "label": "PER",
+        "start": 458,
+        "end": 470
+      },
+      {
+        "text": "Chemikalien",
+        "label": "LOC",
+        "start": 547,
+        "end": 558
+      },
+      {
+        "text": "SGU",
+        "label": "ORG",
+        "start": 44,
+        "end": 47
+      },
+      {
+        "text": "Entsorgungsprozesses",
+        "label": "LOC",
+        "start": 75,
+        "end": 95
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 100,
+        "end": 103
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 142,
+        "end": 145
+      },
+      {
+        "text": "Chemikalien",
+        "label": "LOC",
+        "start": 435,
+        "end": 446
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Schliesslich"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "SGU"
+      ],
+      "LOCATION": [
+        "Akkus",
+        "Chemikalien",
+        "De Internal/2019/04/sonderabfall Sicher",
+        "Entsorgungsprozesses",
+        "Forschungsmaterialien",
+        "Kleinstmengen",
+        "Laugen"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Chemikalien": 2,
+      "ETH": 2,
+      "De Internal/2019/04/sonderabfall Sicher": 1,
+      "ETH Zürich": 1,
+      "Forschungsmaterialien": 1,
+      "Laugen": 1,
+      "Akkus": 1,
+      "Kleinstmengen": 1,
+      "Schliesslich": 1,
+      "SGU": 1,
+      "Entsorgungsprozesses": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "sonderabfall-sicher-entsorgen.md",
+      "title": "De Internal/2019/04/sonderabfall Sicher Entsorgen",
+      "language": "de",
+      "source_path": "de_internal/2019/04/sonderabfall-sicher-entsorgen.html"
+    },
+    "temporal": {
+      "publication_date": "2019-04",
+      "mentioned_years": [
+        "2015",
+        "2018",
+        "2019"
+      ],
+      "time_periods": [
+        [
+          "2015",
+          "2018"
+        ]
+      ],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Schliesslich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "De Internal",
+        "Sicher Entsorgen",
+        "Die ETH",
+        "Lithiumionen-Akkumulatoren",
+        "Das Ziel",
+        "Das Plus"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "SGU"
+      ],
+      "locations": [
+        "Akkus",
+        "Chemikalien",
+        "De Internal/2019/04/sonderabfall Sicher",
+        "Entsorgungsprozesses",
+        "Forschungsmaterialien",
+        "Kleinstmengen",
+        "Laugen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Chemikalien",
+        "ETH",
+        "De Internal/2019/04/sonderabfall Sicher",
+        "ETH Zürich",
+        "Forschungsmaterialien",
+        "Laugen",
+        "Akkus",
+        "Kleinstmengen",
+        "Schliesslich",
+        "SGU"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Auch kleinste Mengen von Antibiotika sind Sonderabfall",
+          "Auch kleinste Mengen von Antibiotika sind Sonderabfall",
+          "Digitale Erfassung für lückenlosen Überblick"
+        ],
+        "content_length": 1560
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "2015",
+        "2019",
+        "EU",
+        "ETH Zürich",
+        "SGU",
+        "Schliesslich"
+      ],
+      "semantic_concepts": [
+        "who"
+      ],
+      "graph_relations": []
+    }
+  }
+}

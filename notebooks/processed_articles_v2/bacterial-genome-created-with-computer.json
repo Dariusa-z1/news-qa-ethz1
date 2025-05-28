@@ -1,0 +1,598 @@
+{
+  "filename": "bacterial-genome-created-with-computer.md",
+  "original_filename": "bacterial-genome-created-with-computer.html",
+  "source_path": "en_news_events/2019/03/bacterial-genome-created-with-computer.html",
+  "date": "2019-03",
+  "title": "Bacterial Genome Created With Computer",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Rationalising the production process",
+      "text": "All the genome sequences of organisms known throughout the world are stored in a database belonging to the National Center for Biotechnology Information in the United States. As of today, the database has an additional entry: Caulobacter ethensis-2.0 . It is the world’s first fully computer-generated genome of an organism, developed by scientists at ETH Zurich. However, it must be emphasised that although the genome for C. ethensis-2.0 was physically produced in the form of a very large DNA molecule, a corresponding organism does not yet exist."
+    },
+    {
+      "heading": "Rationalising the production process",
+      "text": "Beat Christen, Professor of Experimental Systems Biology at ETH Zurich, and his brother, Matthias Christen, a chemist at ETH Zurich, took the minimal genome of C. crescentus as a starting point. They set out to chemically synthesise this genome from scratch, as a continuous ring-shaped chromosome. Such a task was previously seen as a true tour de force: The chemically synthesised bacterial genome presented eleven years ago by the American genetics pioneer Craig Venter was the result of ten years of work by 20 scientists, according to media reports. The cost of the project is said to have totalled 40 million dollars.\n\nWhile Venter’s team made an exact copy of a natural genome, the researchers at ETH Zurich radically altered their genome using a computer algorithm. Their motivation was twofold: one, to make it much easier to produce genomes, and two, to address fundamental questions of biology.\n\nTo create a DNA molecule as large as a bacterial genome, scientists must proceed step by step. In the case of the Caulobacter genome, the scientists at ETH Zurich synthesised 236 genome segments, which they subsequently pieced together. “The synthesis of these segments is not always easy,” explains Matthias Christen. “DNA molecules not only possess the ability to stick to other DNA molecules, but depending on the sequence, they can also twist themselves into loops and knots, which can hamper the production process or render manufacturing impossible,” explains Matthias Christen."
+    },
+    {
+      "heading": "Simplified DNA sequences",
+      "text": "To synthesise the genome segments in the simplest possible way, and then piece together all segments in the most streamlined manner, the scientists radically simplified the genome sequence without modifying the actual genetic information (at the protein level). There is ample latitude for the simplification of genomes, because biology has built-in redundancies for storing genetic information. For example, for many protein components (amino acids), there are two, four or even more possibilities to write their information into DNA.\n\nThe algorithm developed by the scientists at ETH Zurich makes optimal use of this redundancy of the genetic code. Using this algorithm, the researchers computed the ideal DNA sequence for the synthesis and construction of the genome, which they ultimately utilised for their work.\n\nAs a result, the scientists seeded many small modifications into the minimal genome, which in their entirety are, however, impressive: more than a sixth of all of the 800,000 DNA letters in the artificial genome were replaced, compared to the “natural” minimal genome. “Through our algorithm, we have completely rewritten our genome into a new sequence of DNA letters that no longer resembles the original sequence. However, the biological function at the protein level remains the same,” says Beat Christen."
+    },
+    {
+      "heading": "Litmus test for genetics",
+      "text": "The rewritten genome is also interesting from a biological perspective. “Our method is a litmus test to see whether we biologists have correctly understood genetics, and it allows us to highlight possible gaps in our knowledge,” explains Beat Christen. Naturally, the rewritten genome can contain only information that the researchers have actually understood. Possible “hidden” additional information that is located in the DNA sequence, and has not yet been understood by scientists, would have been lost in the process of creating the new code.\n\nFor research purposes, the scientists produced strains of bacteria that contained both the naturally occurring Caulobacter genome and also segments of the new artificial genome. By turning off certain natural genes in these bacteria, the researchers were able to test the functions of the artificial genes. They tested each one of the artificial genes in a multistep process.\n\nIn these experiments, the researchers found out that only about 580 of the 680 artificial genes were functional. “With the knowledge we have gained, it will, however, be possible for us to improve our algorithm and develop a fully functional genome version 3.0,” says Beat Christen."
+    },
+    {
+      "heading": "Enormous potential for biotechnology",
+      "text": "“Even though the current version of the genome is not yet perfect, our work nevertheless shows that biological systems are constructed in such a simple manner that in the future, we will be able to work out the design specifications on the computer according to our goals, and then build them,” says Matthias Christen. And this can be accomplished in a comparatively straightforward way, as Beat Christen emphasises: “What took ten years with Craig Venter’s approach, our small group achieved with our new technology within the time frame of one year with manufacturing costs of 120,000 Swiss francs.”\n\n“We believe that it will also soon be possible to produce functional bacterial cells with such a genome,” says Beat Christen. Such a development would hold great potential. Among the possible future applications are synthetic microorganisms that could be utilised in biotechnology for the production of complex pharmaceutically active molecules or vitamins, for example. The technology can be employed universally for all microorganisms, not just Caulobacter . Another possibility would be the production of DNA vaccines.\n\n“As promising as the research results and possible applications may be, they demand a profound discussion in society about the purposes for which this technology can be used and, at the same time, about how abuses can be prevented,” says Beat Christen. It is still not clear when the first bacterium with an artificial genome will be produced – but it is now clear that it can and will be developed. “We must use the time we have for intensive discussions among scientists, and also in society as a whole. We stand ready to contribute to that discussion, with all of the know-how we possess.”\n\nVenetz JE, Del Medico L, Wölfle A, Schächle P, Bucher Y, Appert D, Tschan F, Flores-Tinoco CE, van Kooten M, Guennoun R, Deutsch S, Christen M, Christen B: Chemical synthesis rewriting of a bacterial genome to achieve design flexibility and biological functionality, PNAS 2019, doi: 10.1073/pnas.1818259116"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Genome Created With Computer",
+        "label": "ORG",
+        "start": 33,
+        "end": 61
+      },
+      {
+        "text": "the National Center for Biotechnology Information",
+        "label": "ORG",
+        "start": 103,
+        "end": 152
+      },
+      {
+        "text": "the United States",
+        "label": "GPE",
+        "start": 156,
+        "end": 173
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 181,
+        "end": 186
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 271,
+        "end": 276
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 352,
+        "end": 362
+      },
+      {
+        "text": "Experimental Systems Biology",
+        "label": "ORG",
+        "start": 28,
+        "end": 56
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 60,
+        "end": 70
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 121,
+        "end": 131
+      },
+      {
+        "text": "C.",
+        "label": "NORP",
+        "start": 160,
+        "end": 162
+      },
+      {
+        "text": "eleven years ago",
+        "label": "DATE",
+        "start": 410,
+        "end": 426
+      },
+      {
+        "text": "American",
+        "label": "NORP",
+        "start": 434,
+        "end": 442
+      },
+      {
+        "text": "Craig Venter",
+        "label": "PERSON",
+        "start": 460,
+        "end": 472
+      },
+      {
+        "text": "ten years",
+        "label": "DATE",
+        "start": 491,
+        "end": 500
+      },
+      {
+        "text": "40 million dollars",
+        "label": "MONEY",
+        "start": 604,
+        "end": 622
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 703,
+        "end": 713
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 803,
+        "end": 806
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 855,
+        "end": 858
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1057,
+        "end": 1067
+      },
+      {
+        "text": "Matthias Christen",
+        "label": "WORK_OF_ART",
+        "start": 1205,
+        "end": 1222
+      },
+      {
+        "text": "Matthias Christen",
+        "label": "WORK_OF_ART",
+        "start": 1471,
+        "end": 1488
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 462,
+        "end": 465
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 467,
+        "end": 471
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 581,
+        "end": 591
+      },
+      {
+        "text": "more than a sixth",
+        "label": "CARDINAL",
+        "start": 952,
+        "end": 969
+      },
+      {
+        "text": "800,000",
+        "label": "CARDINAL",
+        "start": 984,
+        "end": 991
+      },
+      {
+        "text": "Beat Christen",
+        "label": "PERSON",
+        "start": 1311,
+        "end": 1324
+      },
+      {
+        "text": "Beat Christen",
+        "label": "PERSON",
+        "start": 238,
+        "end": 251
+      },
+      {
+        "text": "only about 580",
+        "label": "CARDINAL",
+        "start": 977,
+        "end": 991
+      },
+      {
+        "text": "3.0",
+        "label": "CARDINAL",
+        "start": 1181,
+        "end": 1184
+      },
+      {
+        "text": "Beat Christen",
+        "label": "PERSON",
+        "start": 1192,
+        "end": 1205
+      },
+      {
+        "text": "Matthias Christen",
+        "label": "PERSON",
+        "start": 300,
+        "end": 317
+      },
+      {
+        "text": "Beat Christen",
+        "label": "ORG",
+        "start": 391,
+        "end": 404
+      },
+      {
+        "text": "ten years",
+        "label": "DATE",
+        "start": 428,
+        "end": 437
+      },
+      {
+        "text": "Craig Venter’s",
+        "label": "PERSON",
+        "start": 443,
+        "end": 457
+      },
+      {
+        "text": "one year",
+        "label": "DATE",
+        "start": 542,
+        "end": 550
+      },
+      {
+        "text": "120,000 Swiss francs",
+        "label": "MONEY",
+        "start": 579,
+        "end": 599
+      },
+      {
+        "text": "Beat Christen",
+        "label": "PERSON",
+        "start": 713,
+        "end": 726
+      },
+      {
+        "text": "Caulobacter",
+        "label": "LOC",
+        "start": 1049,
+        "end": 1060
+      },
+      {
+        "text": "Beat Christen",
+        "label": "PERSON",
+        "start": 1362,
+        "end": 1375
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1408,
+        "end": 1413
+      },
+      {
+        "text": "Venetz JE",
+        "label": "ORG",
+        "start": 1717,
+        "end": 1726
+      },
+      {
+        "text": "Del Medico L",
+        "label": "PERSON",
+        "start": 1728,
+        "end": 1740
+      },
+      {
+        "text": "Wölfle A",
+        "label": "ORG",
+        "start": 1742,
+        "end": 1750
+      },
+      {
+        "text": "Schächle P",
+        "label": "ORG",
+        "start": 1752,
+        "end": 1762
+      },
+      {
+        "text": "Tschan F",
+        "label": "PERSON",
+        "start": 1784,
+        "end": 1792
+      },
+      {
+        "text": "van Kooten M",
+        "label": "PERSON",
+        "start": 1812,
+        "end": 1824
+      },
+      {
+        "text": "Deutsch S",
+        "label": "ORG",
+        "start": 1838,
+        "end": 1847
+      },
+      {
+        "text": "10.1073",
+        "label": "CARDINAL",
+        "start": 2000,
+        "end": 2007
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Beat Christen",
+        "Craig Venter",
+        "Craig Venter’s",
+        "Del Medico L",
+        "Matthias Christen",
+        "Tschan F",
+        "van Kooten M"
+      ],
+      "ORG": [
+        "Beat Christen",
+        "Deutsch S",
+        "ETH Zurich",
+        "Experimental Systems Biology",
+        "Genome Created With Computer",
+        "Schächle P",
+        "Venetz JE",
+        "Wölfle A",
+        "the National Center for Biotechnology Information"
+      ],
+      "LOCATION": [
+        "Caulobacter",
+        "the United States"
+      ],
+      "DATE": [
+        "eleven years ago",
+        "one year",
+        "ten years",
+        "today"
+      ],
+      "MISC": [
+        "10.1073",
+        "120,000 Swiss francs",
+        "3.0",
+        "40 million dollars",
+        "800,000",
+        "American",
+        "C.",
+        "Matthias Christen",
+        "first",
+        "four",
+        "more than a sixth",
+        "one",
+        "only about 580",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 6,
+      "Beat Christen": 6,
+      "Matthias Christen": 3,
+      "first": 2,
+      "ten years": 2,
+      "two": 2,
+      "Genome Created With Computer": 1,
+      "the National Center for Biotechnology Information": 1,
+      "the United States": 1,
+      "today": 1,
+      "Experimental Systems Biology": 1,
+      "C.": 1,
+      "eleven years ago": 1,
+      "American": 1,
+      "Craig Venter": 1,
+      "40 million dollars": 1,
+      "one": 1,
+      "four": 1,
+      "more than a sixth": 1,
+      "800,000": 1
+    },
+    "total_entities": 49,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "bacterial-genome-created-with-computer.md",
+      "title": "En News Events/2019/03/bacterial Genome Created With Computer",
+      "language": "en",
+      "source_path": "en_news_events/2019/03/bacterial-genome-created-with-computer.html"
+    },
+    "temporal": {
+      "publication_date": "2019-03",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Beat Christen",
+        "Craig Venter",
+        "Craig Venter’s",
+        "Del Medico L",
+        "Matthias Christen",
+        "Tschan F",
+        "van Kooten M"
+      ],
+      "people_with_roles": {
+        "Beat Christen": [
+          "professor"
+        ],
+        "Craig Venter": [
+          "scientist"
+        ],
+        "Matthias Christen": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "biology",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1073",
+        "120,000 Swiss francs",
+        "40 million dollars",
+        "800,000",
+        "American",
+        "Matthias Christen",
+        "first",
+        "four",
+        "more than a sixth",
+        "only about 580"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "With Computer",
+        "Bucher Y",
+        "Beat Christen",
+        "While Venter",
+        "Genome Created",
+        "Guennoun R",
+        "Venetz JE",
+        "Biotechnology Information",
+        "Experimental Systems",
+        "Christen M",
+        "Kooten M",
+        "Appert D",
+        "Tschan F",
+        "Del Medico",
+        "Christen B",
+        "Craig Venter",
+        "United States",
+        "En News",
+        "National Center",
+        "Flores-Tinoco",
+        "Matthias Christen",
+        "ETH Zurich",
+        "Deutsch S"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Beat Christen",
+        "Deutsch S",
+        "ETH Zurich",
+        "Experimental Systems Biology",
+        "Genome Created With Computer",
+        "Schächle P",
+        "Venetz JE",
+        "Wölfle A",
+        "the National Center for Biotechnology Information"
+      ],
+      "locations": [
+        "Caulobacter",
+        "the United States"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Beat Christen",
+        "Matthias Christen",
+        "first",
+        "ten years",
+        "two",
+        "Genome Created With Computer",
+        "the National Center for Biotechnology Information",
+        "the United States",
+        "today"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Rationalising the production process",
+          "Rationalising the production process",
+          "Simplified DNA sequences",
+          "Litmus test for genetics",
+          "Enormous potential for biotechnology"
+        ],
+        "content_length": 6668
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "van Kooten M",
+        "Schächle P",
+        "Venetz JE",
+        "2019",
+        "Craig Venter’s",
+        "EU",
+        "Wölfle A",
+        "Beat Christen",
+        "Matthias Christen",
+        "Experimental Systems Biology",
+        "the National Center for Biotechnology Information",
+        "Del Medico L",
+        "ETH Zurich",
+        "Tschan F",
+        "Genome Created With Computer",
+        "Deutsch S",
+        "Craig Venter"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "chemistry",
+        "10.1073",
+        "when",
+        "engineering",
+        "four",
+        "American",
+        "biology",
+        "only about 580",
+        "800,000",
+        "who",
+        "more than a sixth",
+        "what",
+        "how",
+        "physics",
+        "first",
+        "40 million dollars",
+        "120,000 Swiss francs",
+        "Matthias Christen",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Beat Christen_has_role_professor",
+        "Craig Venter_has_role_scientist",
+        "Matthias Christen_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

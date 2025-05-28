@@ -1,0 +1,181 @@
+{
+  "filename": "bloxberg--das-neue-blockchain-consortium-for-science.md",
+  "original_filename": "bloxberg--das-neue-blockchain-consortium-for-science.html",
+  "source_path": "en_internal/2019/03/bloxberg--das-neue-blockchain-consortium-for-science.html",
+  "date": "2019-03",
+  "title": "Bloxberg Das Neue Blockchain Consortium For Science",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH Library supports this research experiment in order to gain experience on how to support researchers with blockchain technologies and to learn how they change the way research data and results are managed or influence the collaboration between scientists.\n\nThe bloxberg infrastructure initiated by the Max Planck Society is a secure global blockchain founded by a consortium of leading research and research-related institutions to provide blockchain-based services to scientists. The bloxberg infrastructure broadens the scientific landscape of regionally and nationally governed blockchain networks to become the first truly globally maintained decentralized network by scientists for science. By establishing the permissioned, public blockchain bloxberg, the network is safeguarded against the cryptographic power of third entities. The credibility of the organizations maintaining the network constitutes trust in the system.\n\nMore information on bloxberg"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Neue Blockchain Consortium For Science",
+        "label": "ORG",
+        "start": 33,
+        "end": 71
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "the Max Planck Society",
+        "label": "ORG",
+        "start": 300,
+        "end": 322
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 617,
+        "end": 622
+      },
+      {
+        "text": "blockchain bloxberg",
+        "label": "PERSON",
+        "start": 739,
+        "end": 758
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 822,
+        "end": 827
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "blockchain bloxberg"
+      ],
+      "ORG": [
+        "ETH Library",
+        "Neue Blockchain Consortium For Science",
+        "the Max Planck Society"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "first",
+        "third"
+      ]
+    },
+    "entity_counts": {
+      "Neue Blockchain Consortium For Science": 1,
+      "ETH Library": 1,
+      "the Max Planck Society": 1,
+      "first": 1,
+      "blockchain bloxberg": 1,
+      "third": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "bloxberg--das-neue-blockchain-consortium-for-science.md",
+      "title": "En Internal/2019/03/bloxberg das Neue Blockchain Consortium For Science",
+      "language": "en",
+      "source_path": "en_internal/2019/03/bloxberg--das-neue-blockchain-consortium-for-science.html"
+    },
+    "temporal": {
+      "publication_date": "2019-03",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "blockchain bloxberg"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "first",
+        "third"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Max Planck",
+        "En Internal",
+        "Science ETH",
+        "Neue Blockchain",
+        "Consortium For"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library",
+        "Neue Blockchain Consortium For Science",
+        "the Max Planck Society"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Neue Blockchain Consortium For Science",
+        "ETH Library",
+        "the Max Planck Society",
+        "first",
+        "blockchain bloxberg",
+        "third"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1034
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "ETH Library",
+        "EU",
+        "Neue Blockchain Consortium For Science",
+        "the Max Planck Society",
+        "blockchain bloxberg"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "third",
+        "who",
+        "what",
+        "how",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

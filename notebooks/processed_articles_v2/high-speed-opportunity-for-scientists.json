@@ -1,0 +1,467 @@
+{
+  "filename": "high-speed-opportunity-for-scientists.md",
+  "original_filename": "high-speed-opportunity-for-scientists.html",
+  "source_path": "en_news_events/2014/07/high-speed-opportunity-for-scientists.html",
+  "date": "2014-07",
+  "title": "High Speed Opportunity For Scientists",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Qualifying event in the Miller’s Studio",
+      "text": "Just three minutes in which to present your project to a high-calibre jury: that's what makes the Falling Walls Lab an even bigger challenge than the now familiar Science Slams. Nevertheless, in essence the format is the same – it's a science competition – but in the Falling Walls Lab the participants have to manage with less than a third of the amount of time: \"In most slams, participants have at least ten minutes to make their presentation,\" explains Naveed Syed from the Falling Walls Lab Berlin. And there's another rule that might bring the participants out in a sweat: they are only allowed three PowerPoint slides for their presentation.\n\n\"The Falling Walls Lab is a high-speed event that provides a platform for young scientists in any discipline to introduce their current research projects, initiatives and business models,\" says Syed."
+    },
+    {
+      "heading": "Qualifying event in the Miller’s Studio",
+      "text": "Anyone wishing to introduce their innovative research project, business model or initiative at the event can apply : Falling Walls Lab Zurich, the Swiss preliminary round for Falling Walls Lab Berlin, will take place on 23 September 2014 in the Miller’s Studio in Zurich-Tiefenbrunnen. The closing date for applications is 12 September.\n\nThe Falling Walls Lab is open to Master's students, doctoral students, post-docs, young professionals and young entrepreneurs up to the age of 35 and from any discipline. The qualifying round for participants from Switzerland and southern Germany is organised by ETH Zurich in cooperation with Life Sciences Zurich.\n\nWhoever wins first place in Zurich will be invited to the final in Berlin on 8 November. A total of a hundred people will be selected from the preliminary rounds in various countries, and they will present their ideas to a high-calibre jury from the scientific and business communities at the Falling Walls Lab in Berlin. Presentations are given in English.\n\nAs in the preliminary rounds, each entrant has just three minutes for their presentation. The three best ideas are selected, with the winners receiving a cash prize and the opportunity to give their presentation again the next day at the international science conference, the Falling Walls Conference – this time in front of about 600 visitors.\n\nThe Falling Walls Conference has been organised by the Falling Walls Foundation every year since 2009, on the anniversary of the day the Berlin Wall came down. The aim of the conference is to promote scientific and entrepreneurial innovation and encourage the sharing of ideas between young scientists and young professionals in different specialist fields."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Just three minutes",
+        "label": "TIME",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "Science Slams",
+        "label": "ORG",
+        "start": 163,
+        "end": 176
+      },
+      {
+        "text": "less than a third",
+        "label": "CARDINAL",
+        "start": 323,
+        "end": 340
+      },
+      {
+        "text": "at least ten minutes",
+        "label": "CARDINAL",
+        "start": 398,
+        "end": 418
+      },
+      {
+        "text": "Naveed Syed",
+        "label": "PERSON",
+        "start": 457,
+        "end": 468
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 601,
+        "end": 606
+      },
+      {
+        "text": "PowerPoint",
+        "label": "ORG",
+        "start": 607,
+        "end": 617
+      },
+      {
+        "text": "The Falling Walls Lab",
+        "label": "WORK_OF_ART",
+        "start": 650,
+        "end": 671
+      },
+      {
+        "text": "Syed",
+        "label": "PERSON",
+        "start": 843,
+        "end": 847
+      },
+      {
+        "text": "Lab Zurich",
+        "label": "PERSON",
+        "start": 131,
+        "end": 141
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 147,
+        "end": 152
+      },
+      {
+        "text": "23 September 2014",
+        "label": "DATE",
+        "start": 220,
+        "end": 237
+      },
+      {
+        "text": "the Miller’s Studio",
+        "label": "FAC",
+        "start": 241,
+        "end": 260
+      },
+      {
+        "text": "Zurich-Tiefenbrunnen",
+        "label": "GPE",
+        "start": 264,
+        "end": 284
+      },
+      {
+        "text": "12 September",
+        "label": "DATE",
+        "start": 323,
+        "end": 335
+      },
+      {
+        "text": "the age of",
+        "label": "DATE",
+        "start": 469,
+        "end": 479
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 551,
+        "end": 562
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 576,
+        "end": 583
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 600,
+        "end": 610
+      },
+      {
+        "text": "Life Sciences Zurich",
+        "label": "ORG",
+        "start": 631,
+        "end": 651
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 666,
+        "end": 671
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 681,
+        "end": 687
+      },
+      {
+        "text": "Berlin",
+        "label": "GPE",
+        "start": 720,
+        "end": 726
+      },
+      {
+        "text": "8 November",
+        "label": "DATE",
+        "start": 730,
+        "end": 740
+      },
+      {
+        "text": "a hundred",
+        "label": "CARDINAL",
+        "start": 753,
+        "end": 762
+      },
+      {
+        "text": "Berlin",
+        "label": "GPE",
+        "start": 967,
+        "end": 973
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 1002,
+        "end": 1009
+      },
+      {
+        "text": "just three minutes",
+        "label": "TIME",
+        "start": 1058,
+        "end": 1076
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1105,
+        "end": 1110
+      },
+      {
+        "text": "the next day",
+        "label": "DATE",
+        "start": 1229,
+        "end": 1241
+      },
+      {
+        "text": "the Falling Walls Conference",
+        "label": "ORG",
+        "start": 1283,
+        "end": 1311
+      },
+      {
+        "text": "about 600",
+        "label": "CARDINAL",
+        "start": 1336,
+        "end": 1345
+      },
+      {
+        "text": "The Falling Walls Conference",
+        "label": "ORG",
+        "start": 1356,
+        "end": 1384
+      },
+      {
+        "text": "the Falling Walls Foundation",
+        "label": "ORG",
+        "start": 1407,
+        "end": 1435
+      },
+      {
+        "text": "every year",
+        "label": "DATE",
+        "start": 1436,
+        "end": 1446
+      },
+      {
+        "text": "the Berlin Wall",
+        "label": "FAC",
+        "start": 1489,
+        "end": 1504
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Lab Zurich",
+        "Naveed Syed",
+        "Syed"
+      ],
+      "ORG": [
+        "Life Sciences Zurich",
+        "PowerPoint",
+        "Science Slams",
+        "The Falling Walls Conference",
+        "the Falling Walls Conference",
+        "the Falling Walls Foundation"
+      ],
+      "LOCATION": [
+        "Berlin",
+        "Germany",
+        "Switzerland",
+        "Zurich",
+        "Zurich-Tiefenbrunnen",
+        "the Berlin Wall",
+        "the Miller’s Studio"
+      ],
+      "DATE": [
+        "12 September",
+        "23 September 2014",
+        "8 November",
+        "Just three minutes",
+        "every year",
+        "just three minutes",
+        "the age of",
+        "the next day"
+      ],
+      "MISC": [
+        "English",
+        "Swiss",
+        "The Falling Walls Lab",
+        "a hundred",
+        "about 600",
+        "at least ten minutes",
+        "first",
+        "less than a third",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "three": 2,
+      "Berlin": 2,
+      "Just three minutes": 1,
+      "Science Slams": 1,
+      "less than a third": 1,
+      "at least ten minutes": 1,
+      "Naveed Syed": 1,
+      "PowerPoint": 1,
+      "The Falling Walls Lab": 1,
+      "Syed": 1,
+      "Lab Zurich": 1,
+      "Swiss": 1,
+      "23 September 2014": 1,
+      "the Miller’s Studio": 1,
+      "Zurich-Tiefenbrunnen": 1,
+      "12 September": 1,
+      "the age of": 1,
+      "Switzerland": 1,
+      "Germany": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 36,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "high-speed-opportunity-for-scientists.md",
+      "title": "En News Events/2014/07/high Speed Opportunity For Scientists",
+      "language": "en",
+      "source_path": "en_news_events/2014/07/high-speed-opportunity-for-scientists.html"
+    },
+    "temporal": {
+      "publication_date": "2014-07",
+      "mentioned_years": [
+        "2009",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Lab Zurich",
+        "Naveed Syed",
+        "Syed"
+      ],
+      "people_with_roles": {
+        "Syed": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "English",
+        "Swiss",
+        "The Falling Walls Lab",
+        "a hundred",
+        "about 600",
+        "at least ten minutes",
+        "first",
+        "less than a third",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Falling Walls",
+        "Naveed Syed",
+        "Walls Lab",
+        "En News",
+        "Zurich-Tiefenbrunnen",
+        "Walls Conference",
+        "Berlin Wall",
+        "The Falling",
+        "Life Sciences",
+        "For Scientists",
+        "Lab Zurich",
+        "Speed Opportunity",
+        "ETH Zurich",
+        "Science Slams",
+        "Lab Berlin"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Life Sciences Zurich",
+        "PowerPoint",
+        "Science Slams",
+        "The Falling Walls Conference",
+        "the Falling Walls Conference",
+        "the Falling Walls Foundation"
+      ],
+      "locations": [
+        "Berlin",
+        "Germany",
+        "Switzerland",
+        "Zurich",
+        "Zurich-Tiefenbrunnen",
+        "the Berlin Wall",
+        "the Miller’s Studio"
+      ],
+      "programs": [
+        "initiative",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "three",
+        "Berlin",
+        "Just three minutes",
+        "Science Slams",
+        "less than a third",
+        "at least ten minutes",
+        "Naveed Syed",
+        "PowerPoint",
+        "The Falling Walls Lab",
+        "Syed"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Qualifying event in the Miller’s Studio",
+          "Qualifying event in the Miller’s Studio"
+        ],
+        "content_length": 2628
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Falling Walls Conference",
+        "the Falling Walls Foundation",
+        "2009",
+        "The Falling Walls Conference",
+        "Naveed Syed",
+        "PowerPoint",
+        "EU",
+        "Lab Zurich",
+        "Syed",
+        "ETH Zurich",
+        "Science Slams",
+        "2014",
+        "Life Sciences Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "The Falling Walls Lab",
+        "at least ten minutes",
+        "three",
+        "who",
+        "a hundred",
+        "Swiss",
+        "English",
+        "less than a third",
+        "about 600",
+        "what",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Syed_has_role_scientist",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

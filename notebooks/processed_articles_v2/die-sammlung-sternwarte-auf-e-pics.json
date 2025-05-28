@@ -1,0 +1,194 @@
+{
+  "filename": "die-sammlung-sternwarte-auf-e-pics.md",
+  "original_filename": "die-sammlung-sternwarte-auf-e-pics.html",
+  "source_path": "de_internal/2016/06/die-sammlung-sternwarte-auf-e-pics.html",
+  "date": "2016-06",
+  "title": "Die Sammlung Sternwarte Auf E Pics",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Hier finden Sie zu jedem Objekt mehrere digitale Bilder, 360° Darstellungen und inhaltliche Informationen. Die Bilder können zudem frei heruntergeladen werden.\n\nDen Kern der Sammlung bildet der Bestand Rudolf Wolf, dem ersten Astronomie-Professor am Eidgenössischen Polytechnikum in Zürich sowie Gründer und erstem Direktor der Eidgenössischen Sternwarte Zürich. Die Instrumente aus den Bereichen Astronomie, Geodäsie, Zeitmessung und Mathematik stammen aus dem Zeitraum des 16. bis 20. Jahrhunderts.\n\nIm Online-Katalog befinden sich auch uns noch unbekannte Instrumente. Über das Feedbackfeld \"Wissen Sie mehr\" freuen wir uns über Ihre Mithilfe: Indem Sie die Objekte näher datieren oder bestimmen, helfen Sie uns, die Datensätze zu vervollständigen.\n\nE-Pics Sammlung Sternwarte"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/06",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "E Pics",
+        "label": "LOC",
+        "start": 48,
+        "end": 54
+      },
+      {
+        "text": "Rudolf Wolf",
+        "label": "PER",
+        "start": 201,
+        "end": 212
+      },
+      {
+        "text": "Eidgenössischen Polytechnikum",
+        "label": "ORG",
+        "start": 249,
+        "end": 278
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 282,
+        "end": 288
+      },
+      {
+        "text": "Eidgenössischen Sternwarte Zürich",
+        "label": "LOC",
+        "start": 327,
+        "end": 360
+      },
+      {
+        "text": "E-Pics Sammlung",
+        "label": "MISC",
+        "start": 750,
+        "end": 765
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Rudolf Wolf"
+      ],
+      "ORG": [
+        "Eidgenössischen Polytechnikum"
+      ],
+      "LOCATION": [
+        "De Internal/2016/06",
+        "E Pics",
+        "Eidgenössischen Sternwarte Zürich",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "E-Pics Sammlung"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2016/06": 1,
+      "E Pics": 1,
+      "Rudolf Wolf": 1,
+      "Eidgenössischen Polytechnikum": 1,
+      "Zürich": 1,
+      "Eidgenössischen Sternwarte Zürich": 1,
+      "E-Pics Sammlung": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "die-sammlung-sternwarte-auf-e-pics.md",
+      "title": "De Internal/2016/06/die Sammlung Sternwarte auf E Pics",
+      "language": "de",
+      "source_path": "de_internal/2016/06/die-sammlung-sternwarte-auf-e-pics.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Rudolf Wolf"
+      ],
+      "people_with_roles": {
+        "Rudolf Wolf": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "E-Pics Sammlung"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "E Pics",
+        "Astronomie-Professor",
+        "Den Kern",
+        "Sammlung Sternwarte",
+        "Bestand Rudolf",
+        "De Internal",
+        "Die Bilder",
+        "Die Instrumente",
+        "Bereichen Astronomie",
+        "Ihre Mithilfe",
+        "Im Online",
+        "Indem Sie",
+        "E-Pics",
+        "Wissen Sie"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Eidgenössischen Polytechnikum"
+      ],
+      "locations": [
+        "De Internal/2016/06",
+        "E Pics",
+        "Eidgenössischen Sternwarte Zürich",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2016/06",
+        "E Pics",
+        "Rudolf Wolf",
+        "Eidgenössischen Polytechnikum",
+        "Zürich",
+        "Eidgenössischen Sternwarte Zürich",
+        "E-Pics Sammlung"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 834
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Eidgenössischen Polytechnikum",
+        "Rudolf Wolf",
+        "EU",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "who",
+        "when",
+        "E-Pics Sammlung"
+      ],
+      "graph_relations": [
+        "Rudolf Wolf_has_role_professor"
+      ]
+    }
+  }
+}

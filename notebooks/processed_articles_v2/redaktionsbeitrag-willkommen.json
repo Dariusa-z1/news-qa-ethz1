@@ -1,0 +1,183 @@
+{
+  "filename": "redaktionsbeitrag-willkommen.md",
+  "original_filename": "redaktionsbeitrag-willkommen.html",
+  "source_path": "de_news_events/2013/10/redaktionsbeitrag-willkommen.html",
+  "date": "2013-10",
+  "title": "Redaktionsbeitrag Willkommen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Mit diesen und weiteren Fragen setzen sich Forschende und Fachleute der ETH und anderer Institutionen im «Zukunftsblog» der ETH Zürich auseinander – mit Fakten und Meinungen zu Nachhaltigkeit.\n\nDer «Zukunftsblog» beinhaltet neu auch englische Beiträge. Damit ermöglichen wir es den englischsprachigen Mitgliedern der ETH-Community, sich ebenfalls am Blog zu beteiligen. Das bedeutet, dass auf der deutschen Blogseite englische Beiträge erscheinen und umgekehrt.\n\nDen Auftakt zum neuen Blog wird ETH-Autor und Umweltsystem- wissenschaftler Anthony Patt machen mit seinen Gedanken über den viel bemühten Begriff der Nachhaltigkeit – zu lesen an dieser Stelle am Donnerstag, 31. Oktober.\n\nGibt es ein Thema im Bereich Nachhaltigkeit, über das Sie gerne einen Beitrag im Zukunftsblog lesen möchten? Dann schreiben Sie uns unter . Wir freuen uns auf Ihre Zuschrift."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 72,
+        "end": 75
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 124,
+        "end": 134
+      },
+      {
+        "text": "englische",
+        "label": "MISC",
+        "start": 232,
+        "end": 241
+      },
+      {
+        "text": "ETH-Community",
+        "label": "MISC",
+        "start": 316,
+        "end": 329
+      },
+      {
+        "text": "deutschen",
+        "label": "MISC",
+        "start": 396,
+        "end": 405
+      },
+      {
+        "text": "englische",
+        "label": "MISC",
+        "start": 416,
+        "end": 425
+      },
+      {
+        "text": "Anthony Patt",
+        "label": "PER",
+        "start": 537,
+        "end": 549
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Anthony Patt",
+        "De News"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "ETH-Community",
+        "deutschen",
+        "englische"
+      ]
+    },
+    "entity_counts": {
+      "englische": 2,
+      "De News": 1,
+      "ETH": 1,
+      "ETH Zürich": 1,
+      "ETH-Community": 1,
+      "deutschen": 1,
+      "Anthony Patt": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "redaktionsbeitrag-willkommen.md",
+      "title": "De News Events/2013/10/redaktionsbeitrag Willkommen",
+      "language": "de",
+      "source_path": "de_news_events/2013/10/redaktionsbeitrag-willkommen.html"
+    },
+    "temporal": {
+      "publication_date": "2013-10",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Anthony Patt",
+        "De News"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Community",
+        "deutschen",
+        "englische"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Bereich Nachhaltigkeit",
+        "ETH-Community",
+        "ETH-Autor",
+        "Den Auftakt",
+        "De News",
+        "Willkommen Mit",
+        "Ihre Zuschrift",
+        "Anthony Patt"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "englische",
+        "De News",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Community",
+        "deutschen",
+        "Anthony Patt"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 912
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2013",
+        "EU",
+        "ETH Zürich",
+        "De News",
+        "Anthony Patt"
+      ],
+      "semantic_concepts": [
+        "englische",
+        "ETH-Community",
+        "deutschen"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "filename": "new-head-of-student-exchange-office.md",
+  "original_filename": "new-head-of-student-exchange-office.html",
+  "source_path": "en_internal/2019/02/new-head-of-student-exchange-office.html",
+  "date": "2019-02",
+  "title": "New Head Of Student Exchange Office",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Student Exchange Office is responsible for exchange agreements with partner universities concerning student mobility. It takes care of all the needs of ETH students who wish to take part in one of the international exchange programmes. At the same time, the employees look after the incoming mobility students, visiting students and the Swiss government scholarship holders who come to ETH Zurich.\n\nAndrea Rothenbühler has been a member of the Student Exchange Office team since 2008 and has been deputy head for some time. She has led the team on an interim basis since December 2018."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Student Exchange Office",
+        "label": "ORG",
+        "start": 32,
+        "end": 55
+      },
+      {
+        "text": "The Student Exchange Office",
+        "label": "ORG",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 156,
+        "end": 159
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 194,
+        "end": 197
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 341,
+        "end": 346
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 390,
+        "end": 400
+      },
+      {
+        "text": "Andrea Rothenbühler",
+        "label": "PERSON",
+        "start": 402,
+        "end": 421
+      },
+      {
+        "text": "the Student Exchange Office",
+        "label": "ORG",
+        "start": 443,
+        "end": 470
+      },
+      {
+        "text": "December 2018",
+        "label": "DATE",
+        "start": 574,
+        "end": 587
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andrea Rothenbühler",
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH",
+        "Student Exchange Office",
+        "The Student Exchange Office",
+        "the Student Exchange Office"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "December 2018"
+      ],
+      "MISC": [
+        "Swiss",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "Student Exchange Office": 1,
+      "The Student Exchange Office": 1,
+      "ETH": 1,
+      "one": 1,
+      "Swiss": 1,
+      "ETH Zurich": 1,
+      "Andrea Rothenbühler": 1,
+      "the Student Exchange Office": 1,
+      "December 2018": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-head-of-student-exchange-office.md",
+      "title": "En Internal/2019/02/new Head Of Student Exchange Office",
+      "language": "en",
+      "source_path": "en_internal/2019/02/new-head-of-student-exchange-office.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2008",
+        "2018",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andrea Rothenbühler",
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "Andrea Rothenbühler": [
+          "student",
+          "head"
+        ],
+        "ETH Zurich": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Swiss"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Office The",
+        "En Internal",
+        "Student Exchange",
+        "ETH Zurich",
+        "Head Of"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Student Exchange Office",
+        "The Student Exchange Office",
+        "the Student Exchange Office"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Student Exchange Office",
+        "The Student Exchange Office",
+        "ETH",
+        "one",
+        "Swiss",
+        "ETH Zurich",
+        "Andrea Rothenbühler",
+        "the Student Exchange Office",
+        "December 2018"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 645
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "The Student Exchange Office",
+        "2019",
+        "2008",
+        "ETH Zurich",
+        "Student Exchange Office",
+        "the Student Exchange Office",
+        "Andrea Rothenbühler"
+      ],
+      "semantic_concepts": [
+        "who",
+        "when",
+        "Swiss"
+      ],
+      "graph_relations": [
+        "Andrea Rothenbühler_has_role_student",
+        "Andrea Rothenbühler_has_role_head",
+        "ETH Zurich_has_role_student"
+      ]
+    }
+  }
+}

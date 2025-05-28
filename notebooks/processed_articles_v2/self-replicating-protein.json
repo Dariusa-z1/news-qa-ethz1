@@ -1,0 +1,409 @@
+{
+  "filename": "self-replicating-protein.md",
+  "original_filename": "self-replicating-protein.html",
+  "source_path": "en_news_events/2018/02/self-replicating-protein.html",
+  "date": "2018-02",
+  "title": "Self Replicating Protein",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Catalysts in prebiotic evolution",
+      "text": "Long regarded as a biological aberration, amyloids are fibrous aggregates of short protein fragments. Amyloids have a bad reputation because they are thought to be the cause of multiple neurodegenerative diseases, including Alzheimer’s, Parkinson’s and Creutzfeldt–Jakob disease.\n\nIt was only recently that researchers discovered that amyloids appear as structural and functional building blocks in a wide range of life forms, from bacteria, yeast and fungi to humans. In vertebrates, they play a role in the production of the pigment melanin, while yeast cells use amyloid aggregates to form a kind of molecular memory."
+    },
+    {
+      "heading": "Catalysts in prebiotic evolution",
+      "text": "Composed of short peptides, amyloid fibres can accelerate chemical reactions in a similar way to enzymes; they have thus been viewed for several years as candidates for the first precursor molecules of life. Until now, however, an important chemical property was lacking in the theory of amyloids role in abiogenesis: self-replication.\n\nEarly proponents of the amyloid hypothesis include ETH Professor Roland Riek and his senior assistant Jason Greenwald, from the Laboratory of Physical Chemistry. In an experiment, they have now been able to show that amyloids can serve as a chemical template for the synthesis of short peptides. And the critical point: “This ability also potentially applies to the amyloid itself – meaning the molecules can self-replicate,” says Riek. The researchers reported their findings in a study in Nature Communications ."
+    },
+    {
+      "heading": "Template for self-replication",
+      "text": "The ability to self-replicate is regarded as an essential prerequisite for every early form of life. By proving that amyloids self-replicate, Riek and his team have not only highlighted another amazing aspect of this commonly underestimated protein, but also filled in a previously missing link in the amyloid hypothesis’ argument."
+    },
+    {
+      "heading": "Reference",
+      "text": "Left: electron micrograph of an amyloid fibre. In green is a diagram of the sheet structure characteristic for amyloids, consisting of multiple short peptide chains. (Photograph: Jason Greenwald/ETH Zurich)\n\nAlmost two years earlier, the ETH scientists had already proven in an experiment that amyloid structures can spontaneously form with astounding ease – from simple amino acids that probably already existed when the Earth was still lifeless, and under reaction conditions that appear very plausible for the primordial soup (as ETH News reported).\n\nThe same is true for the newly discovered peptide synthesis: “The reaction mechanism seems to be of a general nature. It is stable over a wide range of temperatures and salt concentrations, in both acidic and alkaline environments,” explains Greenwald.\n\nThis discovery strengthens the researchers’ opinion that early in evolutionary history, amyloids could have played a central role in the development of early life forms as information carriers and catalytic units.\n\nUntil now, however, the most widespread idea for the molecular beginnings of life has been the RNA hypothesis, which sees ribonucleic acid (RNA) as the only key player in the prebiotic primordial soup. This is because, like the genetic material DNA, RNA molecules can code information, and are also able to self-replicate.\n\nThe ETH researchers are now picking away at the prevailing dogma of an RNA-based world. They think that the amyloid hypothesis is more plausible; firstly, because RNA molecules with a biological function are much larger and more complex, so they are unlikely to form spontaneously under prebiotic conditions. “Additionally, amyloids are much more stable than early nucleic acid polymers, and they have a much simpler abiotic synthesis route compared to the complexity of known catalytic RNAs,” says Greenwald.\n\nRiek adds: “We will never be able to prove which is true – to do so, we would have to turn back the last 4 to 4.5 billion years of evolution. However, we suspect that it was not one, but multiple molecular processes with various predecessor molecules that were involved in the creation of life.”\n\nRout SK, Friedmann MP, Riek R, Greenwald J: A prebiotic template-directed peptide synthesis based on amyloids. Nature Communications Volume 9, Article number: 234 (2018) doi: 10.1038/s41467-017-02742-3"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News Events/2018/02",
+        "label": "ORG",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "text": "Replicating Protein",
+        "label": "PERSON",
+        "start": 28,
+        "end": 47
+      },
+      {
+        "text": "Creutzfeldt",
+        "label": "ORG",
+        "start": 253,
+        "end": 264
+      },
+      {
+        "text": "several years",
+        "label": "DATE",
+        "start": 137,
+        "end": 150
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 173,
+        "end": 178
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 387,
+        "end": 390
+      },
+      {
+        "text": "Roland Riek",
+        "label": "PERSON",
+        "start": 401,
+        "end": 412
+      },
+      {
+        "text": "Jason Greenwald",
+        "label": "PERSON",
+        "start": 438,
+        "end": 453
+      },
+      {
+        "text": "the Laboratory of Physical Chemistry",
+        "label": "ORG",
+        "start": 460,
+        "end": 496
+      },
+      {
+        "text": "Riek",
+        "label": "PERSON",
+        "start": 767,
+        "end": 771
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 827,
+        "end": 848
+      },
+      {
+        "text": "Riek",
+        "label": "PERSON",
+        "start": 142,
+        "end": 146
+      },
+      {
+        "text": "Jason Greenwald",
+        "label": "PERSON",
+        "start": 179,
+        "end": 194
+      },
+      {
+        "text": "Almost two years earlier",
+        "label": "DATE",
+        "start": 207,
+        "end": 231
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 237,
+        "end": 240
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 421,
+        "end": 426
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 532,
+        "end": 540
+      },
+      {
+        "text": "Greenwald",
+        "label": "PERSON",
+        "start": 794,
+        "end": 803
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1346,
+        "end": 1349
+      },
+      {
+        "text": "firstly",
+        "label": "ORDINAL",
+        "start": 1488,
+        "end": 1495
+      },
+      {
+        "text": "Greenwald",
+        "label": "PERSON",
+        "start": 1841,
+        "end": 1850
+      },
+      {
+        "text": "Riek",
+        "label": "PERSON",
+        "start": 1852,
+        "end": 1856
+      },
+      {
+        "text": "the last",
+        "label": "DATE",
+        "start": 1948,
+        "end": 1956
+      },
+      {
+        "text": "Riek",
+        "label": "PERSON",
+        "start": 2171,
+        "end": 2175
+      },
+      {
+        "text": "Greenwald J",
+        "label": "PERSON",
+        "start": 2179,
+        "end": 2190
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2323,
+        "end": 2330
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Greenwald",
+        "Greenwald J",
+        "Jason Greenwald",
+        "Replicating Protein",
+        "Riek",
+        "Roland Riek"
+      ],
+      "ORG": [
+        "Creutzfeldt",
+        "ETH",
+        "ETH News",
+        "En News Events/2018/02",
+        "Nature Communications",
+        "the Laboratory of Physical Chemistry"
+      ],
+      "LOCATION": [
+        "Earth"
+      ],
+      "DATE": [
+        "Almost two years earlier",
+        "several years",
+        "the last"
+      ],
+      "MISC": [
+        "10.1038",
+        "first",
+        "firstly"
+      ]
+    },
+    "entity_counts": {
+      "Riek": 4,
+      "ETH": 3,
+      "Jason Greenwald": 2,
+      "Greenwald": 2,
+      "En News Events/2018/02": 1,
+      "Replicating Protein": 1,
+      "Creutzfeldt": 1,
+      "several years": 1,
+      "first": 1,
+      "Roland Riek": 1,
+      "the Laboratory of Physical Chemistry": 1,
+      "Nature Communications": 1,
+      "Almost two years earlier": 1,
+      "Earth": 1,
+      "ETH News": 1,
+      "firstly": 1,
+      "the last": 1,
+      "Greenwald J": 1,
+      "10.1038": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "self-replicating-protein.md",
+      "title": "En News Events/2018/02/self Replicating Protein",
+      "language": "en",
+      "source_path": "en_news_events/2018/02/self-replicating-protein.html"
+    },
+    "temporal": {
+      "publication_date": "2018-02",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Greenwald",
+        "Greenwald J",
+        "Jason Greenwald",
+        "Replicating Protein",
+        "Riek",
+        "Roland Riek"
+      ],
+      "people_with_roles": {
+        "Greenwald": [
+          "scientist",
+          "professor"
+        ],
+        "Jason Greenwald": [
+          "scientist",
+          "professor"
+        ],
+        "Riek": [
+          "professor"
+        ],
+        "Roland Riek": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "first",
+        "firstly"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "En News",
+        "Roland Riek",
+        "Rout SK",
+        "Physical Chemistry",
+        "Riek R",
+        "ETH Zurich",
+        "ETH Professor",
+        "Greenwald J",
+        "Nature Communications",
+        "ETH News",
+        "Replicating Protein",
+        "Friedmann MP",
+        "Jason Greenwald",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Creutzfeldt",
+        "ETH",
+        "ETH News",
+        "En News Events/2018/02",
+        "Nature Communications",
+        "the Laboratory of Physical Chemistry"
+      ],
+      "locations": [
+        "Earth"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Riek",
+        "ETH",
+        "Jason Greenwald",
+        "Greenwald",
+        "En News Events/2018/02",
+        "Replicating Protein",
+        "Creutzfeldt",
+        "several years",
+        "first",
+        "Roland Riek"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Catalysts in prebiotic evolution",
+          "Catalysts in prebiotic evolution",
+          "Template for self-replication",
+          "Reference"
+        ],
+        "content_length": 4209
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "Greenwald",
+        "Riek",
+        "Roland Riek",
+        "Creutzfeldt",
+        "the Laboratory of Physical Chemistry",
+        "EU",
+        "ETH News",
+        "Nature Communications",
+        "Replicating Protein",
+        "Greenwald J",
+        "Jason Greenwald",
+        "En News Events/2018/02"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "10.1038",
+        "chemistry",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "firstly",
+        "when"
+      ],
+      "graph_relations": [
+        "Greenwald_has_role_scientist",
+        "Greenwald_has_role_professor",
+        "Jason Greenwald_has_role_scientist",
+        "Jason Greenwald_has_role_professor",
+        "Riek_has_role_professor",
+        "Roland Riek_has_role_Professor",
+        "Roland Riek_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

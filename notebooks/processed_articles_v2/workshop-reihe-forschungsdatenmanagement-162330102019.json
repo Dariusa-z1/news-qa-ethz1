@@ -1,0 +1,278 @@
+{
+  "filename": "workshop-reihe-forschungsdatenmanagement-162330102019.md",
+  "original_filename": "workshop-reihe-forschungsdatenmanagement-162330102019.html",
+  "source_path": "en_internal/2019/09/workshop-reihe-forschungsdatenmanagement-162330102019.html",
+  "date": "2019-09",
+  "title": "Workshop Reihe Forschungsdatenmanagement 162330102019",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In collaboration with Scientific IT Services, ETH Library is conducting three consecutive workshops, each building upon the knowledge of the previous, which focus on the various elements of research data management along the research data life cycle. Register for individual workshops or for the entire series.\n\nThe first workshop on 16 October 2019 offers an introduction to the basics of research data management (RDM) along the data life cycle, and discusses the role of Open Science in RDM. The workshop includes\n\nThe second workshop on 23 October 2019 addresses data management and analysis for reproducible research , focusing on the following topics:\n\nThe third and final workshop on 30 October 2019 focuses on open access and data publishing and includes\n\nThe workshops take place from 9.00 – 12.00 on the Hönggerberg campus.\n\nWould you like to participate in one or more workshops?\n\nFurther information and registration\n\nFeel free to contact us at or in the event of any questions.\n\n#KnowHow – ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Reihe Forschungsdatenmanagement",
+        "label": "PERSON",
+        "start": 29,
+        "end": 60
+      },
+      {
+        "text": "Scientific IT Services",
+        "label": "ORG",
+        "start": 22,
+        "end": 44
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 46,
+        "end": 57
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 72,
+        "end": 77
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 315,
+        "end": 320
+      },
+      {
+        "text": "16 October 2019",
+        "label": "DATE",
+        "start": 333,
+        "end": 348
+      },
+      {
+        "text": "RDM",
+        "label": "ORG",
+        "start": 415,
+        "end": 418
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 520,
+        "end": 526
+      },
+      {
+        "text": "23 October 2019",
+        "label": "DATE",
+        "start": 539,
+        "end": 554
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 660,
+        "end": 665
+      },
+      {
+        "text": "30 October 2019",
+        "label": "DATE",
+        "start": 688,
+        "end": 703
+      },
+      {
+        "text": "9.00",
+        "label": "CARDINAL",
+        "start": 790,
+        "end": 794
+      },
+      {
+        "text": "12.00",
+        "label": "CARDINAL",
+        "start": 797,
+        "end": 802
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 810,
+        "end": 821
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 863,
+        "end": 866
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 994,
+        "end": 1007
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library’s",
+        "Hönggerberg",
+        "Reihe Forschungsdatenmanagement"
+      ],
+      "ORG": [
+        "ETH Library",
+        "RDM",
+        "Scientific IT Services"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "16 October 2019",
+        "23 October 2019",
+        "30 October 2019"
+      ],
+      "MISC": [
+        "12.00",
+        "9.00",
+        "first",
+        "one",
+        "second",
+        "third",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Reihe Forschungsdatenmanagement": 1,
+      "Scientific IT Services": 1,
+      "ETH Library": 1,
+      "three": 1,
+      "first": 1,
+      "16 October 2019": 1,
+      "RDM": 1,
+      "second": 1,
+      "23 October 2019": 1,
+      "third": 1,
+      "30 October 2019": 1,
+      "9.00": 1,
+      "12.00": 1,
+      "Hönggerberg": 1,
+      "one": 1,
+      "ETH Library’s": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "workshop-reihe-forschungsdatenmanagement-162330102019.md",
+      "title": "En Internal/2019/09/workshop Reihe Forschungsdatenmanagement 162330102019",
+      "language": "en",
+      "source_path": "en_internal/2019/09/workshop-reihe-forschungsdatenmanagement-162330102019.html"
+    },
+    "temporal": {
+      "publication_date": "2019-09",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library’s",
+        "Hönggerberg",
+        "Reihe Forschungsdatenmanagement"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering",
+        "mathematics"
+      ],
+      "research_topics": [
+        "12.00",
+        "9.00",
+        "first",
+        "second",
+        "third",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Open Science",
+        "ETH Library",
+        "En Internal",
+        "Scientific IT",
+        "Reihe Forschungsdatenmanagement"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library",
+        "RDM",
+        "Scientific IT Services"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Reihe Forschungsdatenmanagement",
+        "Scientific IT Services",
+        "ETH Library",
+        "three",
+        "first",
+        "16 October 2019",
+        "RDM",
+        "second",
+        "23 October 2019",
+        "third"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1138
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "2019",
+        "ETH Library",
+        "RDM",
+        "Scientific IT Services",
+        "Reihe Forschungsdatenmanagement",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "first",
+        "mathematics",
+        "third",
+        "three",
+        "who",
+        "12.00",
+        "when",
+        "where",
+        "what",
+        "second",
+        "how",
+        "why",
+        "9.00",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

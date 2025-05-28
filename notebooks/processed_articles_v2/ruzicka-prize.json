@@ -1,0 +1,508 @@
+{
+  "filename": "ruzicka-prize.md",
+  "original_filename": "ruzicka-prize.html",
+  "source_path": "en_news_events/2017/11/ruzicka-prize.html",
+  "date": "2017-11",
+  "title": "Ruzicka Prize",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Generation of electricity from heat",
+      "text": "Recognizing their pioneering results, ETH Zurich awards the Ruzicka Prize to two scientists of the Department of Chemistry and Applied Biosciences (D-CHAB): Maria Ibáñez, postdoc in the group of ETH professor Maksym Kovalenko, receives the prize for the improved synthesis of materials that can generate electricity from waste heat. Chih-Jen Shih, a professor at the Institute for Chemical and Bioengineering, receives the prize for the development of LEDs with an unachieved color spectrum for the next generation of displays. Both researchers receive a prize money of 5000 Swiss francs and the Ruzicka medal."
+    },
+    {
+      "heading": "Generation of electricity from heat",
+      "text": "Cars, laptops, refrigerators, and even cell phones: any device we use produces heat and thereby wastes a lot of energy. This heat can be recycled and converted to electricity by thermoelectric devices. Such devices are made of nanomaterials whose efficiency strongly depend on their molecular structure. Maria Ibáñez, who joined the group of Maksym Kovalenko, a professor at ETH Zurich and Empa, in 2014, successfully developed precisely designed nanocrystals to create nanocomposites with well-defined composition and structure. “My research allows me to create an endless variety of nanocomposites by simply blending nanocrystals in the effort to maximize the thermoelectric energy conversion efficiency,” Ibáñez explains.\n\nNext year Ibáñez will take up a new position as an assistant professor at the Institute of Science and Technology Austria in Vienna continuing her research on optimized nanotechnology. “I feel extremely honored to have been chosen as recipient of the Ruzicka Prise and I'll work hard to live up to the standards of previous awardees in my future independent career,” she says."
+    },
+    {
+      "heading": "Greener LEDs for next generation displays",
+      "text": "The next generation of displays for computers, TVs, and smartphones will have more colors than the current displays we use, covering almost the full color spectrum the human eye can perceive. Chih-Jen Shih developed a new generation of LEDs that emit very pure green light. With the help of such LEDs – in combination with red and blue LEDs – it is possible to generate 97 percent of all colors in the current international color range standard for ultra high-definition monitors. Shih proudly describes his discovery as “efficient light-emitting diodes that yield the purest colors” also hinting at the low cost to produce such LEDs for upcoming display technologies.\n\nShih was appointed as an assistant professor at ETH Zurich in 2015. His current research covers the fields of nanomaterials, surface and interface science, and optoelectronics. His research group focuses on investigating the fundamental physics and chemistry at the surfaces and interfaces of nanomaterials. The goal is to develop the next generation of materials used in low-cost, high-performance, and wearable electronic devices.\n\nThe Ruzicka Prize, named after the Nobel Prize winner Leopold Ruzicka, has been awarded annually since 1957 to young researchers who deliver outstanding work in the field of chemistry. The award is funded by the Swiss chemical industry. Along with the Werner Prize, it is Switzerland’s most important award for the promotion of young talents in the field of chemistry. The boards of trustees have discovered a wealth of talent since the prize was first awarded: the list of winners includes names such as Richard Ernst (magnetic resonance, Nobel Prize 1991) and Charles Weissmann (prion research, Robert Koch Medal 1995)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 38,
+        "end": 48
+      },
+      {
+        "text": "the Ruzicka Prize",
+        "label": "ORG",
+        "start": 56,
+        "end": 73
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 77,
+        "end": 80
+      },
+      {
+        "text": "the Department of Chemistry and Applied Biosciences",
+        "label": "ORG",
+        "start": 95,
+        "end": 146
+      },
+      {
+        "text": "Maria Ibáñez",
+        "label": "PERSON",
+        "start": 157,
+        "end": 169
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 195,
+        "end": 198
+      },
+      {
+        "text": "Maksym Kovalenko",
+        "label": "PERSON",
+        "start": 209,
+        "end": 225
+      },
+      {
+        "text": "Chih-Jen Shih",
+        "label": "PERSON",
+        "start": 333,
+        "end": 346
+      },
+      {
+        "text": "the Institute for Chemical and Bioengineering",
+        "label": "ORG",
+        "start": 363,
+        "end": 408
+      },
+      {
+        "text": "5000 Swiss francs",
+        "label": "MONEY",
+        "start": 570,
+        "end": 587
+      },
+      {
+        "text": "Ruzicka",
+        "label": "ORG",
+        "start": 596,
+        "end": 603
+      },
+      {
+        "text": "Maria Ibáñez",
+        "label": "PERSON",
+        "start": 304,
+        "end": 316
+      },
+      {
+        "text": "Maksym Kovalenko",
+        "label": "ORG",
+        "start": 342,
+        "end": 358
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 375,
+        "end": 385
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 390,
+        "end": 394
+      },
+      {
+        "text": "Next year",
+        "label": "DATE",
+        "start": 725,
+        "end": 734
+      },
+      {
+        "text": "the Institute of Science and Technology Austria",
+        "label": "ORG",
+        "start": 799,
+        "end": 846
+      },
+      {
+        "text": "Vienna",
+        "label": "GPE",
+        "start": 850,
+        "end": 856
+      },
+      {
+        "text": "the Ruzicka Prise",
+        "label": "ORG",
+        "start": 972,
+        "end": 989
+      },
+      {
+        "text": "Chih-Jen Shih",
+        "label": "PERSON",
+        "start": 192,
+        "end": 205
+      },
+      {
+        "text": "97 percent",
+        "label": "PERCENT",
+        "start": 370,
+        "end": 380
+      },
+      {
+        "text": "Shih",
+        "label": "PERSON",
+        "start": 481,
+        "end": 485
+      },
+      {
+        "text": "Shih",
+        "label": "PERSON",
+        "start": 669,
+        "end": 673
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 717,
+        "end": 727
+      },
+      {
+        "text": "The Ruzicka Prize",
+        "label": "WORK_OF_ART",
+        "start": 1102,
+        "end": 1119
+      },
+      {
+        "text": "the Nobel Prize",
+        "label": "WORK_OF_ART",
+        "start": 1133,
+        "end": 1148
+      },
+      {
+        "text": "Leopold Ruzicka",
+        "label": "PERSON",
+        "start": 1156,
+        "end": 1171
+      },
+      {
+        "text": "annually",
+        "label": "DATE",
+        "start": 1190,
+        "end": 1198
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1314,
+        "end": 1319
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1374,
+        "end": 1385
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1549,
+        "end": 1554
+      },
+      {
+        "text": "Richard Ernst",
+        "label": "PERSON",
+        "start": 1607,
+        "end": 1620
+      },
+      {
+        "text": "Nobel Prize",
+        "label": "WORK_OF_ART",
+        "start": 1642,
+        "end": 1653
+      },
+      {
+        "text": "Charles Weissmann",
+        "label": "PERSON",
+        "start": 1664,
+        "end": 1681
+      },
+      {
+        "text": "Robert Koch Medal",
+        "label": "PERSON",
+        "start": 1699,
+        "end": 1716
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Charles Weissmann",
+        "Chih-Jen Shih",
+        "Leopold Ruzicka",
+        "Maksym Kovalenko",
+        "Maria Ibáñez",
+        "Richard Ernst",
+        "Robert Koch Medal",
+        "Shih"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Empa",
+        "Maksym Kovalenko",
+        "Ruzicka",
+        "the Department of Chemistry and Applied Biosciences",
+        "the Institute for Chemical and Bioengineering",
+        "the Institute of Science and Technology Austria",
+        "the Ruzicka Prise",
+        "the Ruzicka Prize"
+      ],
+      "LOCATION": [
+        "Switzerland",
+        "Vienna"
+      ],
+      "DATE": [
+        "Next year",
+        "annually"
+      ],
+      "MISC": [
+        "5000 Swiss francs",
+        "97 percent",
+        "Nobel Prize",
+        "Swiss",
+        "The Ruzicka Prize",
+        "first",
+        "the Nobel Prize",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "Maria Ibáñez": 2,
+      "Maksym Kovalenko": 2,
+      "Chih-Jen Shih": 2,
+      "Shih": 2,
+      "the Ruzicka Prize": 1,
+      "two": 1,
+      "the Department of Chemistry and Applied Biosciences": 1,
+      "ETH": 1,
+      "the Institute for Chemical and Bioengineering": 1,
+      "5000 Swiss francs": 1,
+      "Ruzicka": 1,
+      "Empa": 1,
+      "Next year": 1,
+      "the Institute of Science and Technology Austria": 1,
+      "Vienna": 1,
+      "the Ruzicka Prise": 1,
+      "97 percent": 1,
+      "The Ruzicka Prize": 1,
+      "the Nobel Prize": 1
+    },
+    "total_entities": 35,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ruzicka-prize.md",
+      "title": "En News Events/2017/11/ruzicka Prize",
+      "language": "en",
+      "source_path": "en_news_events/2017/11/ruzicka-prize.html"
+    },
+    "temporal": {
+      "publication_date": "2017-11",
+      "mentioned_years": [
+        "1957",
+        "1991",
+        "1995",
+        "2014",
+        "2015",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Charles Weissmann",
+        "Chih-Jen Shih",
+        "Leopold Ruzicka",
+        "Maksym Kovalenko",
+        "Maria Ibáñez",
+        "Richard Ernst",
+        "Robert Koch Medal",
+        "Shih"
+      ],
+      "people_with_roles": {
+        "Chih-Jen Shih": [
+          "professor"
+        ],
+        "Leopold Ruzicka": [
+          "researcher"
+        ],
+        "Maksym Kovalenko": [
+          "scientist",
+          "professor"
+        ],
+        "Maria Ibáñez": [
+          "scientist",
+          "professor"
+        ],
+        "Shih": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "5000 Swiss francs",
+        "97 percent",
+        "Nobel Prize",
+        "Swiss",
+        "The Ruzicka Prize",
+        "first",
+        "the Nobel Prize"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Chih-Jen",
+        "The Ruzicka",
+        "Nobel Prize",
+        "En News",
+        "Prize Recognizing",
+        "Charles Weissmann",
+        "D-CHAB",
+        "Technology Austria",
+        "Maksym Kovalenko",
+        "Robert Koch",
+        "Werner Prize",
+        "Ruzicka Prise",
+        "ETH Zurich",
+        "Ruzicka Prize",
+        "Applied Biosciences",
+        "Leopold Ruzicka",
+        "Richard Ernst"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Chemistry and Applied Biosciences ",
+        "Chemical and Bioengineering"
+      ],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Empa",
+        "Maksym Kovalenko",
+        "Ruzicka",
+        "the Department of Chemistry and Applied Biosciences",
+        "the Institute for Chemical and Bioengineering",
+        "the Institute of Science and Technology Austria",
+        "the Ruzicka Prise",
+        "the Ruzicka Prize"
+      ],
+      "locations": [
+        "Switzerland",
+        "Vienna"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Maria Ibáñez",
+        "Maksym Kovalenko",
+        "Chih-Jen Shih",
+        "Shih",
+        "the Ruzicka Prize",
+        "two",
+        "the Department of Chemistry and Applied Biosciences",
+        "ETH",
+        "the Institute for Chemical and Bioengineering"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Generation of electricity from heat",
+          "Generation of electricity from heat",
+          "Greener LEDs for next generation displays"
+        ],
+        "content_length": 3476
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "1995",
+        "Maksym Kovalenko",
+        "1957",
+        "Chih-Jen Shih",
+        "the Institute for Chemical and Bioengineering",
+        "ERC",
+        "the Ruzicka Prize",
+        "Maria Ibáñez",
+        "Ruzicka",
+        "Leopold Ruzicka",
+        "2014",
+        "2015",
+        "Charles Weissmann",
+        "the Institute of Science and Technology Austria",
+        "Richard Ernst",
+        "Shih",
+        "1991",
+        "2017",
+        "Robert Koch Medal",
+        "the Department of Chemistry and Applied Biosciences",
+        "the Ruzicka Prise",
+        "ETH Zurich",
+        "Empa"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "97 percent",
+        "first",
+        "Nobel Prize",
+        "who",
+        "The Ruzicka Prize",
+        "5000 Swiss francs",
+        "Swiss",
+        "chemistry",
+        "biology",
+        "what",
+        "why",
+        "when",
+        "engineering",
+        "the Nobel Prize"
+      ],
+      "graph_relations": [
+        "Chih-Jen Shih_has_role_professor",
+        "Leopold Ruzicka_has_role_researcher",
+        "Maksym Kovalenko_has_role_scientist",
+        "Maksym Kovalenko_has_role_professor",
+        "Maria Ibáñez_has_role_scientist",
+        "Maria Ibáñez_has_role_professor",
+        "Shih_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

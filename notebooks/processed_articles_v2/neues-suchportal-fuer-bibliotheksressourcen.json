@@ -1,0 +1,171 @@
+{
+  "filename": "neues-suchportal-fuer-bibliotheksressourcen.md",
+  "original_filename": "neues-suchportal-fuer-bibliotheksressourcen.html",
+  "source_path": "de_internal/2018/05/neues-suchportal-fuer-bibliotheksressourcen.html",
+  "date": "2018-05",
+  "title": "Neues Suchportal Fuer Bibliotheksressourcen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Folgende Funktionalitäten gestalten Ihre Recherche und den Zugriff auf die Bibliotheksressourcen noch effizienter:\n\nEin besonderer Service für Angehörige der ETH Zürich: Wo immer möglich führt ein Link auf die Plattform BrowZine , auf der die neuesten Zeitschrifteninhalte unabhängig von den Verlagsplattformen übersichtlich aufgelistet werden.\n\nFür die Dienstleistung E-Lending , die elektronische Ausleihe wissenschaftlicher E-Books für Nicht-ETH-Angehörige, ist der Zugriffsmodus klarer gekennzeichnet.\n\nSämtliche Informationen zu den Beständen und Dienstleistungen der ETH-Bibliothek sowie ihrer Sammlungen und Archive erhalten Sie wie gewohnt auf unserer Website.\n\nSuchportal der ETH-Bibliothek"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/05/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Suchportal",
+        "label": "LOC",
+        "start": 26,
+        "end": 36
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 157,
+        "end": 167
+      },
+      {
+        "text": "E-Lending",
+        "label": "MISC",
+        "start": 367,
+        "end": 376
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 570,
+        "end": 584
+      },
+      {
+        "text": "Suchportal",
+        "label": "LOC",
+        "start": 666,
+        "end": 676
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 681,
+        "end": 695
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Bibliothek"
+      ],
+      "LOCATION": [
+        "De Internal/2018/05/",
+        "Suchportal"
+      ],
+      "DATE": [],
+      "MISC": [
+        "E-Lending",
+        "ETH-Bibliothek"
+      ]
+    },
+    "entity_counts": {
+      "Suchportal": 2,
+      "ETH-Bibliothek": 2,
+      "De Internal/2018/05/": 1,
+      "ETH Zürich": 1,
+      "E-Lending": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neues-suchportal-fuer-bibliotheksressourcen.md",
+      "title": "De Internal/2018/05/neues Suchportal Fuer Bibliotheksressourcen",
+      "language": "de",
+      "source_path": "de_internal/2018/05/neues-suchportal-fuer-bibliotheksressourcen.html"
+    },
+    "temporal": {
+      "publication_date": "2018-05",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "E-Lending",
+        "ETH-Bibliothek"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Suchportal Fuer",
+        "ETH-Bibliothek",
+        "Bibliotheksressourcen Folgende",
+        "De Internal",
+        "E-Books",
+        "Dienstleistung E",
+        "Nicht-ETH",
+        "Ihre Recherche",
+        "Plattform BrowZine"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Bibliothek"
+      ],
+      "locations": [
+        "De Internal/2018/05/",
+        "Suchportal"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Suchportal",
+        "ETH-Bibliothek",
+        "De Internal/2018/05/",
+        "ETH Zürich",
+        "E-Lending"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 763
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH-Bibliothek",
+        "EU",
+        "ETH Zürich",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "E-Lending",
+        "ETH-Bibliothek"
+      ],
+      "graph_relations": []
+    }
+  }
+}

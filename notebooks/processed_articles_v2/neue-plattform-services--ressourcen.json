@@ -1,0 +1,212 @@
+{
+  "filename": "neue-plattform-services--ressourcen.md",
+  "original_filename": "neue-plattform-services--ressourcen.html",
+  "source_path": "de_internal/2015/07/neue-plattform-services--ressourcen.html",
+  "date": "2015-07",
+  "title": "Neue Plattform Services Ressourcen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das bisherige Intranet wird Anfang August zur neuen Plattform «Services & Ressourcen» umgestaltet. Diese richtet sich primär an ETH-Mitarbeitende, enthält aber auch Informationen für externe Website-Besucherinnen und -Besucher.\n\nDie gewohnten Meldungen aus der Rubrik «Intern aktuell» wie Service-Infos, Neuigkeiten aus der Schulleitung und aus Gremien oder Berichte über Dienstjubilaren finden Sie künftig auch auf der neuen Plattform. Ebenso finden Sie dort weiterhin die Informationen, welche die Mitarbeitenden bei ihrer Arbeit unterstützen und der Orientierung im vielfältigen Angebot an der ETH Zürich dienen. Darunter sind die Themen Anstellung und Arbeit, Finanzen und Controlling oder IT-Services.\n\nVisuell und strukturell soll die neue Plattform gemeinsam mit der ETH-Hauptsite www.ethz.ch eine Einheit bilden. So wird zum Beispiel der Header einheitlich im Corporate Blau erscheinen, zudem wird die Navigation zwischen beiden Websites durch zusätzliche Links vereinfacht. «Services & Ressourcen» finden Sie neu rechts oben in der Navigation der Hauptsite. Die neue Plattform wird zudem unter der URL www.ethz.ch/services erreichbar sein."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/07",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Intranet",
+        "label": "LOC",
+        "start": 14,
+        "end": 22
+      },
+      {
+        "text": "ETH-Mitarbeitende",
+        "label": "ORG",
+        "start": 128,
+        "end": 145
+      },
+      {
+        "text": "Dienstjubilaren",
+        "label": "LOC",
+        "start": 371,
+        "end": 386
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 596,
+        "end": 606
+      },
+      {
+        "text": "IT-Services",
+        "label": "MISC",
+        "start": 693,
+        "end": 704
+      },
+      {
+        "text": "ETH-Hauptsite",
+        "label": "MISC",
+        "start": 772,
+        "end": 785
+      },
+      {
+        "text": "Services & Ressourcen",
+        "label": "ORG",
+        "start": 982,
+        "end": 1003
+      },
+      {
+        "text": "Hauptsite",
+        "label": "ORG",
+        "start": 1054,
+        "end": 1063
+      },
+      {
+        "text": "URL www.ethz.ch/services",
+        "label": "ORG",
+        "start": 1105,
+        "end": 1129
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Mitarbeitende",
+        "Hauptsite",
+        "Services & Ressourcen",
+        "URL www.ethz.ch/services"
+      ],
+      "LOCATION": [
+        "De Internal/2015/07",
+        "Dienstjubilaren",
+        "Intranet"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Hauptsite",
+        "IT-Services"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2015/07": 1,
+      "Intranet": 1,
+      "ETH-Mitarbeitende": 1,
+      "Dienstjubilaren": 1,
+      "ETH Zürich": 1,
+      "IT-Services": 1,
+      "ETH-Hauptsite": 1,
+      "Services & Ressourcen": 1,
+      "Hauptsite": 1,
+      "URL www.ethz.ch/services": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neue-plattform-services--ressourcen.md",
+      "title": "De Internal/2015/07/neue Plattform Services Ressourcen",
+      "language": "de",
+      "source_path": "de_internal/2015/07/neue-plattform-services--ressourcen.html"
+    },
+    "temporal": {
+      "publication_date": "2015-07",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Hauptsite",
+        "IT-Services"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Ressourcen Das",
+        "IT-Services",
+        "Website-Besucherinnen",
+        "De Internal",
+        "Service-Infos",
+        "ETH-Hauptsite",
+        "Themen Anstellung",
+        "Plattform Services",
+        "ETH-Mitarbeitende",
+        "Corporate Blau",
+        "Anfang August"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Mitarbeitende",
+        "Hauptsite",
+        "Services & Ressourcen",
+        "URL www.ethz.ch/services"
+      ],
+      "locations": [
+        "De Internal/2015/07",
+        "Dienstjubilaren",
+        "Intranet"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2015/07",
+        "Intranet",
+        "ETH-Mitarbeitende",
+        "Dienstjubilaren",
+        "ETH Zürich",
+        "IT-Services",
+        "ETH-Hauptsite",
+        "Services & Ressourcen",
+        "Hauptsite",
+        "URL www.ethz.ch/services"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1203
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Services & Ressourcen",
+        "2015",
+        "Hauptsite",
+        "EU",
+        "ETH Zürich",
+        "URL www.ethz.ch/services",
+        "ETH-Mitarbeitende"
+      ],
+      "semantic_concepts": [
+        "ETH-Hauptsite",
+        "IT-Services"
+      ],
+      "graph_relations": []
+    }
+  }
+}

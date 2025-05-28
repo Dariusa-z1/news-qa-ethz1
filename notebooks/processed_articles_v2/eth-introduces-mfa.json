@@ -1,0 +1,183 @@
+{
+  "filename": "eth-introduces-mfa.md",
+  "original_filename": "eth-introduces-mfa.html",
+  "source_path": "en_internal/2022/09/eth-introduces-mfa.html",
+  "date": "2022-09",
+  "title": "Eth Introduces Mfa",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "How to register for MFA at ETH",
+      "text": "IT security is a subject that affects all companies and institutions. It is also an issue to which ETH pays considerable attention – hence the decision to introduce multi-factor authentication (MFA). Entering a second login confirmation is intended to increase the security of our user accounts and data and reduce the risk of cyberattacks. You can read more on the background to this decision in the Internal news article “ MFA: More security for your data” ."
+    },
+    {
+      "heading": "No smartphone? No problem.",
+      "text": "Perhaps you don’t have a smartphone or don’t want to use it for business purposes. No problem – there’s of course a solution for this as well by installing special software on your computer. Please consult our detailed instructions on the knowledge base ."
+    },
+    {
+      "heading": "Further information",
+      "text": "If you have any questions, please see our FAQ. You can also get support from the ITS Service Desk or the IT support organization responsible for you."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 99,
+        "end": 102
+      },
+      {
+        "text": "MFA",
+        "label": "ORG",
+        "start": 194,
+        "end": 197
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 211,
+        "end": 217
+      },
+      {
+        "text": "Internal",
+        "label": "ORG",
+        "start": 401,
+        "end": 409
+      },
+      {
+        "text": "MFA",
+        "label": "ORG",
+        "start": 425,
+        "end": 428
+      },
+      {
+        "text": "FAQ",
+        "label": "ORG",
+        "start": 42,
+        "end": 45
+      },
+      {
+        "text": "the ITS Service Desk",
+        "label": "ORG",
+        "start": 77,
+        "end": 97
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "FAQ",
+        "Internal",
+        "MFA",
+        "the ITS Service Desk"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "MFA": 2,
+      "ETH": 1,
+      "second": 1,
+      "Internal": 1,
+      "FAQ": 1,
+      "the ITS Service Desk": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-introduces-mfa.md",
+      "title": "En Internal/2022/09/eth Introduces Mfa",
+      "language": "en",
+      "source_path": "en_internal/2022/09/eth-introduces-mfa.html"
+    },
+    "temporal": {
+      "publication_date": "2022-09",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ITS Service",
+        "Introduces Mfa",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "FAQ",
+        "Internal",
+        "MFA",
+        "the ITS Service Desk"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "why"
+      ],
+      "key_concepts": [
+        "MFA",
+        "ETH",
+        "second",
+        "Internal",
+        "FAQ",
+        "the ITS Service Desk"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "How to register for MFA at ETH",
+          "No smartphone? No problem.",
+          "Further information"
+        ],
+        "content_length": 905
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Internal",
+        "FAQ",
+        "2022",
+        "MFA",
+        "the ITS Service Desk"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "computer_science",
+        "second",
+        "why"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

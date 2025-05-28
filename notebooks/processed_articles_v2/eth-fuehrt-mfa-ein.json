@@ -1,0 +1,454 @@
+{
+  "filename": "eth-fuehrt-mfa-ein.md",
+  "original_filename": "eth-fuehrt-mfa-ein.html",
+  "source_path": "de_internal/2022/09/eth-fuehrt-mfa-ein.html",
+  "date": "2022-09",
+  "title": "Eth Fuehrt Mfa Ein",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "So registrieren Sie sich für MFA an der ETH",
+      "text": "IT-Sicherheit ist ein Thema, das alle Unternehmen und Institutionen betrifft. Auch die ETH setzt sich vertieft damit auseinander – und führt deshalb die Multifaktor-Authentisierung (MFA) ein. Mit der Eingabe einer solchen zweiten Anmeldebestätigung soll die Sicherheit unserer Nutzendenkonten und Daten erhöht und das Risiko von Cyberattacken verringert werden. Mehr zu den Hintergründen lesen Sie im Intern-aktuell-Artikel « MFA: Mehr Sicherheit für Ihre Daten »."
+    },
+    {
+      "heading": "So registrieren Sie sich für MFA an der ETH",
+      "text": "Konkret bedeutet dies: Wenn Sie sich zukünftig bei Zoom, MS Teams, Google Workspace, der Adobe Creative Cloud oder im Web Center einloggen, werden Sie – nicht bei jeder Anmeldung, aber in regelmässigen Abständen – nebst Ihrem bisherigen Passwort auch nach einem One Time Password (OTP, Einmal-Passwort) gefragt. Dieser OTP-Code wird auf einer sogenannten Authenticator App erzeugt, die Sie vorgängig einmalig von einem App-Store auf Ihr Mobiltelefon herunterladen müssen. In einem weiteren Schritt ist die MFA-Registrierung mit Ihrem ETH Usernamen nötig. Wie das geht, zeigt dieses Video:"
+    },
+    {
+      "heading": "Jetzt App herunterladen",
+      "text": "Die Informatikdienste führen MFA im Auftrag der Schulleitung gestaffelt bei allen Mitarbeitenden und Studierenden der ETH Zürich ein. Bei den ersten Nutzer:innen wird dies bereits in den nächsten Wochen der Fall sein – bei anderen erst in ein paar Monaten. Gesamthaft abgeschlossen dürfte der Einführungsprozess im nächsten Frühjahr sein. Ab wann die Multifaktor-Authentifizierung bei Ihnen aufgeschaltet ist, erfahren Sie in einer individuellen E-Mail, in der Sie über Ihr persönliches Startdatum informiert werden.\n\nDie Eingabe des OTP-Codes für Anwendungen wie Teams & Co. ist für Sie zwar erst ab diesem Startdatum notwendig. Wir empfehlen Ihnen jedoch, die dafür notwendige Authenticator App - z.B. den Google oder Microsoft Authenticator - bereits vorgängig auf Ihrem Smartphone zu installieren und die Registrierung vorzunehmen. So sorgen Sie dafür, dass Sie an Ihrem persönlichen Startdatum den OTP-Code schnell zur Hand haben und ohne Verzögerung weiterarbeiten können."
+    },
+    {
+      "heading": "Kein Smartphone? Kein Problem.",
+      "text": "Haben Sie kein Smartphone oder möchten Sie dieses nicht für geschäftliche Zwecke nutzen? Selbstverständlich gibt es auch hierfür eine Lösung, indem eine spezielle Software auf Ihrem Rechner installiert wird. Bitte konsultieren Sie unsere ausführliche Anleitung auf der Wissensdatenbank ."
+    },
+    {
+      "heading": "Weitere Informationen",
+      "text": "Bei Fragen lesen Sie bitte unsere FAQ . Unterstützung erhalten Sie zudem beim ID Service Desk oder bei der für Sie zuständigen IT-Support-Organisation."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/09/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Mfa",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "IT-Sicherheit",
+        "label": "MISC",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 87,
+        "end": 90
+      },
+      {
+        "text": "Multifaktor-Authentisierung",
+        "label": "ORG",
+        "start": 153,
+        "end": 180
+      },
+      {
+        "text": "MFA",
+        "label": "ORG",
+        "start": 182,
+        "end": 185
+      },
+      {
+        "text": "Risiko von Cyberattacken",
+        "label": "LOC",
+        "start": 318,
+        "end": 342
+      },
+      {
+        "text": "Intern-aktuell-Artikel",
+        "label": "LOC",
+        "start": 401,
+        "end": 423
+      },
+      {
+        "text": "MFA",
+        "label": "ORG",
+        "start": 426,
+        "end": 429
+      },
+      {
+        "text": "Konkret",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Zoom",
+        "label": "PER",
+        "start": 51,
+        "end": 55
+      },
+      {
+        "text": "MS Teams",
+        "label": "ORG",
+        "start": 57,
+        "end": 65
+      },
+      {
+        "text": "Google Workspace",
+        "label": "MISC",
+        "start": 67,
+        "end": 83
+      },
+      {
+        "text": "Adobe Creative Cloud",
+        "label": "MISC",
+        "start": 89,
+        "end": 109
+      },
+      {
+        "text": "Web Center",
+        "label": "LOC",
+        "start": 118,
+        "end": 128
+      },
+      {
+        "text": "One Time Password",
+        "label": "MISC",
+        "start": 262,
+        "end": 279
+      },
+      {
+        "text": "OTP",
+        "label": "ORG",
+        "start": 281,
+        "end": 284
+      },
+      {
+        "text": "Einmal-Passwort",
+        "label": "LOC",
+        "start": 286,
+        "end": 301
+      },
+      {
+        "text": "MFA-Registrierung",
+        "label": "ORG",
+        "start": 506,
+        "end": 523
+      },
+      {
+        "text": "MFA",
+        "label": "ORG",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 118,
+        "end": 128
+      },
+      {
+        "text": "OTP-Codes",
+        "label": "ORG",
+        "start": 533,
+        "end": 542
+      },
+      {
+        "text": "Teams & Co.",
+        "label": "ORG",
+        "start": 563,
+        "end": 574
+      },
+      {
+        "text": "App - z.B.",
+        "label": "MISC",
+        "start": 692,
+        "end": 702
+      },
+      {
+        "text": "Google",
+        "label": "MISC",
+        "start": 707,
+        "end": 713
+      },
+      {
+        "text": "Microsoft Authenticator",
+        "label": "MISC",
+        "start": 719,
+        "end": 742
+      },
+      {
+        "text": "OTP-Code",
+        "label": "LOC",
+        "start": 902,
+        "end": 910
+      },
+      {
+        "text": "Wissensdatenbank",
+        "label": "ORG",
+        "start": 269,
+        "end": 285
+      },
+      {
+        "text": "FAQ",
+        "label": "ORG",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "ID Service Desk",
+        "label": "ORG",
+        "start": 78,
+        "end": 93
+      },
+      {
+        "text": "IT-Support-Organisation",
+        "label": "MISC",
+        "start": 127,
+        "end": 150
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Konkret",
+        "Mfa",
+        "Zoom"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "FAQ",
+        "ID Service Desk",
+        "MFA",
+        "MFA-Registrierung",
+        "MS Teams",
+        "Multifaktor-Authentisierung",
+        "OTP",
+        "OTP-Codes",
+        "Teams & Co.",
+        "Wissensdatenbank"
+      ],
+      "LOCATION": [
+        "De Internal/2022/09/",
+        "Einmal-Passwort",
+        "Intern-aktuell-Artikel",
+        "OTP-Code",
+        "Risiko von Cyberattacken",
+        "Web Center"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Adobe Creative Cloud",
+        "App - z.B.",
+        "Google",
+        "Google Workspace",
+        "IT-Sicherheit",
+        "IT-Support-Organisation",
+        "Microsoft Authenticator",
+        "One Time Password"
+      ]
+    },
+    "entity_counts": {
+      "MFA": 3,
+      "De Internal/2022/09/": 1,
+      "Mfa": 1,
+      "IT-Sicherheit": 1,
+      "ETH": 1,
+      "Multifaktor-Authentisierung": 1,
+      "Risiko von Cyberattacken": 1,
+      "Intern-aktuell-Artikel": 1,
+      "Konkret": 1,
+      "Zoom": 1,
+      "MS Teams": 1,
+      "Google Workspace": 1,
+      "Adobe Creative Cloud": 1,
+      "Web Center": 1,
+      "One Time Password": 1,
+      "OTP": 1,
+      "Einmal-Passwort": 1,
+      "MFA-Registrierung": 1,
+      "ETH Zürich": 1,
+      "OTP-Codes": 1
+    },
+    "total_entities": 31,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-fuehrt-mfa-ein.md",
+      "title": "De Internal/2022/09/eth Fuehrt Mfa ein",
+      "language": "de",
+      "source_path": "de_internal/2022/09/eth-fuehrt-mfa-ein.html"
+    },
+    "temporal": {
+      "publication_date": "2022-09",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Konkret",
+        "Mfa",
+        "Zoom"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Adobe Creative Cloud",
+        "App - z.B.",
+        "Google",
+        "Google Workspace",
+        "IT-Sicherheit",
+        "IT-Support-Organisation",
+        "Microsoft Authenticator",
+        "One Time Password"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Adobe Creative",
+        "Web Center",
+        "Einmal-Passwort",
+        "OTP-Codes",
+        "MFA-Registrierung",
+        "ID Service",
+        "Die Informatikdienste",
+        "IT-Sicherheit",
+        "Ihrem Smartphone",
+        "OTP-Code",
+        "MS Teams",
+        "One Time",
+        "Ihr Mobiltelefon",
+        "Dieser OTP",
+        "Bei Fragen",
+        "Ihrem Rechner",
+        "Ihrem ETH",
+        "Ihre Daten",
+        "Mehr Sicherheit",
+        "Fuehrt Mfa",
+        "Google Workspace",
+        "Haben Sie",
+        "App-Store",
+        "Microsoft Authenticator",
+        "Authenticator App",
+        "Multifaktor-Authentifizierung",
+        "E-Mail",
+        "De Internal",
+        "Wenn Sie",
+        "IT-Support",
+        "Die Eingabe",
+        "Multifaktor-Authentisierung"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "FAQ",
+        "ID Service Desk",
+        "MFA",
+        "MFA-Registrierung",
+        "MS Teams",
+        "Multifaktor-Authentisierung",
+        "OTP",
+        "OTP-Codes",
+        "Teams & Co.",
+        "Wissensdatenbank"
+      ],
+      "locations": [
+        "De Internal/2022/09/",
+        "Einmal-Passwort",
+        "Intern-aktuell-Artikel",
+        "OTP-Code",
+        "Risiko von Cyberattacken",
+        "Web Center"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "MFA",
+        "De Internal/2022/09/",
+        "Mfa",
+        "IT-Sicherheit",
+        "ETH",
+        "Multifaktor-Authentisierung",
+        "Risiko von Cyberattacken",
+        "Intern-aktuell-Artikel",
+        "Konkret",
+        "Zoom"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "So registrieren Sie sich für MFA an der ETH",
+          "So registrieren Sie sich für MFA an der ETH",
+          "Jetzt App herunterladen",
+          "Kein Smartphone? Kein Problem.",
+          "Weitere Informationen"
+        ],
+        "content_length": 2511
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Konkret",
+        "ID Service Desk",
+        "OTP",
+        "EU",
+        "MS Teams",
+        "ETH Zürich",
+        "FAQ",
+        "OTP-Codes",
+        "Wissensdatenbank",
+        "MFA-Registrierung",
+        "2022",
+        "Zoom",
+        "MFA",
+        "Teams & Co.",
+        "Mfa",
+        "Multifaktor-Authentisierung"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Google",
+        "One Time Password",
+        "App - z.B.",
+        "IT-Sicherheit",
+        "Adobe Creative Cloud",
+        "Google Workspace",
+        "computer_science",
+        "when",
+        "Microsoft Authenticator",
+        "IT-Support-Organisation"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

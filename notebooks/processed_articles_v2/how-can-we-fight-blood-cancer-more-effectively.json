@@ -1,0 +1,169 @@
+{
+  "filename": "how-can-we-fight-blood-cancer-more-effectively.md",
+  "original_filename": "how-can-we-fight-blood-cancer-more-effectively.html",
+  "source_path": "en_news_events/2023/04/how-can-we-fight-blood-cancer-more-effectively.html",
+  "date": "2023-04",
+  "title": "How Can We Fight Blood Cancer More Effectively",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Abstract",
+      "text": "- Multiple myeloma is an incurable form of blood cancer. Over time, the cancer cells become resistant to the currently prescribed drugs.\n\n- Using the fully automated pharmacoscopy platform, ETH Zurich researchers are testing hundreds of drugs and combinations of drugs on bone marrow biopsies in a high-throughput process.\n\n- These tests show which treatment options combined with existing therapeutics would be possible for specific patients."
+    },
+    {
+      "heading": "Reference",
+      "text": "Kropivsek K, Kachel P, Goetze S et al.: Ex vivo drug response heterogeneity reveals personalized therapeutic strategies for patients with multiple myeloma. Nature Cancer 2023, 4: 734, doi: 10.1038/s43018-023-00544-9"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 189,
+        "end": 199
+      },
+      {
+        "text": "hundreds",
+        "label": "CARDINAL",
+        "start": 224,
+        "end": 232
+      },
+      {
+        "text": "Kropivsek K",
+        "label": "PERSON",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 189,
+        "end": 196
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Kropivsek K"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "10.1038",
+        "hundreds"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 1,
+      "hundreds": 1,
+      "Kropivsek K": 1,
+      "10.1038": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-can-we-fight-blood-cancer-more-effectively.md",
+      "title": "En News Events/2023/04/how Can We Fight Blood Cancer More Effectively",
+      "language": "en",
+      "source_path": "en_news_events/2023/04/how-can-we-fight-blood-cancer-more-effectively.html"
+    },
+    "temporal": {
+      "publication_date": "2023-04",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Kropivsek K"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research"
+      ],
+      "research_topics": [
+        "10.1038",
+        "hundreds"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Cancer More",
+        "Fight Blood",
+        "Can We",
+        "En News",
+        "Kachel P",
+        "Goetze S",
+        "Nature Cancer",
+        "ETH Zurich",
+        "Kropivsek K"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "hundreds",
+        "Kropivsek K",
+        "10.1038"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Abstract",
+          "Reference"
+        ],
+        "content_length": 729
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "Kropivsek K",
+        "EU",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "who",
+        "10.1038",
+        "hundreds",
+        "what",
+        "how",
+        "medical_research",
+        "when"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "research_domain_medical_research"
+      ]
+    }
+  }
+}

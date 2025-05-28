@@ -1,0 +1,247 @@
+{
+  "filename": "werner-wound-healing.md",
+  "original_filename": "werner-wound-healing.html",
+  "source_path": "en_news_events/2018/02/werner-wound-healing.html",
+  "date": "2018-02",
+  "title": "Werner Wound Healing",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Frequent healing disorders",
+      "text": "Time heals all wounds – or so the saying goes. But our ability to heal damaged organs or tissues, such as the skin, is by no means perfect and results in formation of a scar. Scars are more fragile and less elastic than undamaged skin, and they lack hair follicles, sebaceous glands and sweat glands as these do not regenerate. In particular, large wounds like those caused by burns can lead to serious functional and cosmetic impairments."
+    },
+    {
+      "heading": "Personalised medicine for wound healing",
+      "text": "Salamanders can regenerate their limbs, and freshwater polyps and flatworms can even grow a new head if they lose theirs. Mammals, on the other hand, possess only rudimentary capacities in this area: mice of all ages and children can at least regrow lost finger tips if they still have part of the nail. The fact that humans possess certain regenerative capacities raises hope for scientists like myself that we can activate them more efficiently one day.\n\nThe regeneration of entire human limbs is certainly a long way off, and is perhaps something we will never attain. But in my view, improved treatment for wound healing disorders is a realistic research aim for the years ahead."
+    },
+    {
+      "heading": "Frequent healing disorders",
+      "text": "Advances in this area are urgently required, as wound healing disorders are on the rise due to the growing number of aged people, patients suffering from diabetes and cancer, and patients undergoing immunosuppressive treatment. These patients often suffer from non-healing skin ulcers, which can be painful, produce an unpleasant smell, and lead to functional impairment. The treatment of skin ulcers also takes a long time and requires ongoing medical care and support. Skin ulcers are a major health problem that significantly reduces the quality of life and the life expectancy of patients.\n\nLarge and raised (hypertrophic) scars develop when the healing process is excessive, and pose another wound healing problem. Current treatment options for hypertrophic scars are also limited."
+    },
+    {
+      "heading": "Personalised medicine for wound healing",
+      "text": "In order to develop efficient strategies to combat skin ulcers and hypertrophic scars, we need a better understanding of the mechanisms underlying these wound healing disorders. We can gain this through intensive fundamental research using different model organisms, patient tissue and wound exudates.\n\nHowever, the mechanisms underlying wound healing disorders can differ greatly depending on the location of the wound, its size and depth, infection of the wound with various pathogens, immune system activity, and external stress factors. We therefore need personalised medicine in the field of wound healing to allow us to develop approaches that are specifically tailored to the patients. Research in this area is extremely important and is part of the work carried out by Skintegrity , a large-scale, interdisciplinary project in Zurich that I oversee together with a colleague.\n\nThe collaboration between experts from various fields in this project works really well, in particular because the scientists also understand each other very well on a personal level. We are training a new generation of researchers, medical doctors and engineers, whose knowledge and expertise is not limited to their own field.\n\nThe project is still in the early stages and the development of new therapies will take some time yet. But even after just one year, the team has made many important findings, for example in the field of transplantation of skin grown in the laboratory and the characterisation of stem cells that aid the wound healing process. And we are continuously improving our understanding of the mechanisms underlying wound healing disorders. Finally, in recent years the pharma and biotech industries have also shown a greater interest in the development of new therapies to improve healing. We’ve launched several projects with industry as part of Skintegrity.\n\nThis gives me confidence that we can achieve ambitious goals such as the treatment of wound healing disorders and, longer term, perhaps also the regeneration of tissues, including for example the skin with its hairs and nails or the cornea, without leaving scars.\n\nSabine Werner Professor of Cell Biology at ETH Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News Events/2018/02",
+        "label": "ORG",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "text": "the years ahead",
+        "label": "DATE",
+        "start": 666,
+        "end": 681
+      },
+      {
+        "text": "Skintegrity",
+        "label": "ORG",
+        "start": 776,
+        "end": 787
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 834,
+        "end": 840
+      },
+      {
+        "text": "just one year",
+        "label": "DATE",
+        "start": 1330,
+        "end": 1343
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 1657,
+        "end": 1669
+      },
+      {
+        "text": "Skintegrity",
+        "label": "ORG",
+        "start": 1852,
+        "end": 1863
+      },
+      {
+        "text": "Sabine",
+        "label": "GPE",
+        "start": 2129,
+        "end": 2135
+      },
+      {
+        "text": "Werner",
+        "label": "PERSON",
+        "start": 2136,
+        "end": 2142
+      },
+      {
+        "text": "Cell Biology",
+        "label": "ORG",
+        "start": 2156,
+        "end": 2168
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 2176,
+        "end": 2182
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Werner"
+      ],
+      "ORG": [
+        "Cell Biology",
+        "En News Events/2018/02",
+        "Skintegrity"
+      ],
+      "LOCATION": [
+        "Sabine",
+        "Zurich"
+      ],
+      "DATE": [
+        "just one year",
+        "recent years",
+        "the years ahead"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Skintegrity": 2,
+      "Zurich": 2,
+      "En News Events/2018/02": 1,
+      "the years ahead": 1,
+      "just one year": 1,
+      "recent years": 1,
+      "Sabine": 1,
+      "Werner": 1,
+      "Cell Biology": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "werner-wound-healing.md",
+      "title": "En News Events/2018/02/werner Wound Healing",
+      "language": "en",
+      "source_path": "en_news_events/2018/02/werner-wound-healing.html"
+    },
+    "temporal": {
+      "publication_date": "2018-02",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Werner"
+      ],
+      "people_with_roles": {
+        "Werner": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Cell Biology",
+        "Wound Healing",
+        "En News",
+        "Sabine Werner",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cell Biology",
+        "En News Events/2018/02",
+        "Skintegrity"
+      ],
+      "locations": [
+        "Sabine",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Skintegrity",
+        "Zurich",
+        "En News Events/2018/02",
+        "the years ahead",
+        "just one year",
+        "recent years",
+        "Sabine",
+        "Werner",
+        "Cell Biology"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Frequent healing disorders",
+          "Personalised medicine for wound healing",
+          "Frequent healing disorders",
+          "Personalised medicine for wound healing"
+        ],
+        "content_length": 4142
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Cell Biology",
+        "2018",
+        "Skintegrity",
+        "Werner",
+        "En News Events/2018/02"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Werner_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology"
+      ]
+    }
+  }
+}

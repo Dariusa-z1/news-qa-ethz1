@@ -1,0 +1,212 @@
+{
+  "filename": "exhibition-on-the-mm-renovation.md",
+  "original_filename": "exhibition-on-the-mm-renovation.html",
+  "source_path": "en_internal/2016/04/exhibition-on-the-mm-renovation.html",
+  "date": "2016-04",
+  "title": "Exhibition On The Mm Renovation",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The task behind this public and anonymous competition was far from simple: the MM under the Polyterrasse needed to become a recognisable address in its own right, while still not influencing the character of the neighbouring Main Building. The winning proposal also had to offer more space and better sports and gastronomy facilities. Another intention was to make it easier for people to find their way around the building and a more enjoyable place to spend time, and not just on the observation terrace. The main motivation for holding this competition was the urgent need to renovate the building, particularly the building’s technical facilities along with other shortcomings.\n\nA twelve-person jury selected the project proposed by Ballmoos Krucker Architekten AG from a total of eight entries. The jury especially praised the skilful embedding in the local landscape, the well-designed flow of pedestrian traffic, the enhancements to the underpass, and the sustainability features.\n\nAll competition entries can be viewed in a public exhibition held in the E-Süd foyer of the Main Building from 26 April to 5 May 2016. The financial situation has changed somewhat in the time since the announcement of the competition and ETH Zurich will be adapting the existing renovation schedule accordingly."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Mm Renovation",
+        "label": "WORK_OF_ART",
+        "start": 34,
+        "end": 51
+      },
+      {
+        "text": "MM",
+        "label": "GPE",
+        "start": 79,
+        "end": 81
+      },
+      {
+        "text": "Main Building",
+        "label": "FAC",
+        "start": 225,
+        "end": 238
+      },
+      {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 684,
+        "end": 690
+      },
+      {
+        "text": "Ballmoos Krucker Architekten AG",
+        "label": "ORG",
+        "start": 736,
+        "end": 767
+      },
+      {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 784,
+        "end": 789
+      },
+      {
+        "text": "the Main Building",
+        "label": "FAC",
+        "start": 1075,
+        "end": 1092
+      },
+      {
+        "text": "26 April to 5 May 2016",
+        "label": "DATE",
+        "start": 1098,
+        "end": 1120
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1225,
+        "end": 1235
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "Ballmoos Krucker Architekten AG"
+      ],
+      "LOCATION": [
+        "MM",
+        "Main Building",
+        "the Main Building"
+      ],
+      "DATE": [
+        "26 April to 5 May 2016"
+      ],
+      "MISC": [
+        "The Mm Renovation",
+        "eight",
+        "twelve"
+      ]
+    },
+    "entity_counts": {
+      "The Mm Renovation": 1,
+      "MM": 1,
+      "Main Building": 1,
+      "twelve": 1,
+      "Ballmoos Krucker Architekten AG": 1,
+      "eight": 1,
+      "the Main Building": 1,
+      "26 April to 5 May 2016": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "exhibition-on-the-mm-renovation.md",
+      "title": "En Internal/2016/04/exhibition On The Mm Renovation",
+      "language": "en",
+      "source_path": "en_internal/2016/04/exhibition-on-the-mm-renovation.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology"
+      ],
+      "research_topics": [
+        "The Mm Renovation",
+        "eight",
+        "twelve"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En Internal",
+        "Ballmoos Krucker",
+        "Mm Renovation",
+        "On The",
+        "ETH Zurich",
+        "Architekten AG",
+        "Main Building"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Ballmoos Krucker Architekten AG"
+      ],
+      "locations": [
+        "MM",
+        "Main Building",
+        "the Main Building"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "The Mm Renovation",
+        "MM",
+        "Main Building",
+        "twelve",
+        "Ballmoos Krucker Architekten AG",
+        "eight",
+        "the Main Building",
+        "26 April to 5 May 2016",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1352
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "Ballmoos Krucker Architekten AG",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "eight",
+        "what",
+        "The Mm Renovation",
+        "climate_change",
+        "when",
+        "where",
+        "twelve"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

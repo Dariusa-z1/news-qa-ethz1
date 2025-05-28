@@ -1,0 +1,219 @@
+{
+  "filename": "festive-robodance.md",
+  "original_filename": "festive-robodance.html",
+  "source_path": "en_news_events/2014/12/festive-robodance.html",
+  "date": "2014-12",
+  "title": "Festive Robodance",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "For two years now, there's been a reason to be on your guard at ETH during the festive period: robots are on the loose! They go on the rampage at ETH Zurich and the surrounding area, knocking over Christmas trees, dragging presents around campus and throwing them here and there – always autonomously and seemingly free of human control.\n\nThis year, however, they are behaving themselves. No tree felling, no fighting over gifts. Instead, the robots just want to entertain people by dancing and performing a variation on Jingle Bells. The première was held – and captured on film – last Monday at the Christmas drinks reception for the ETH management staff.\n\nAnd, although it remains to be seen whether the Christmas tune has the clout to become a massive dance hit or the robots have become proficient enough to write their own songs and choreographies, you would certainly back them to take part in the next Music Star Casting at Leutschenbach TV studio – without anybody to control them.\n\nSo all that remains to be said is Merry Autonomous Christmas!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "two years",
+        "label": "DATE",
+        "start": 4,
+        "end": 13
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 64,
+        "end": 67
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 146,
+        "end": 156
+      },
+      {
+        "text": "Christmas",
+        "label": "DATE",
+        "start": 197,
+        "end": 206
+      },
+      {
+        "text": "This year",
+        "label": "DATE",
+        "start": 338,
+        "end": 347
+      },
+      {
+        "text": "Jingle Bells",
+        "label": "ORG",
+        "start": 520,
+        "end": 532
+      },
+      {
+        "text": "last Monday",
+        "label": "DATE",
+        "start": 581,
+        "end": 592
+      },
+      {
+        "text": "Christmas",
+        "label": "DATE",
+        "start": 600,
+        "end": 609
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 635,
+        "end": 638
+      },
+      {
+        "text": "Christmas",
+        "label": "DATE",
+        "start": 705,
+        "end": 714
+      },
+      {
+        "text": "Leutschenbach TV",
+        "label": "ORG",
+        "start": 930,
+        "end": 946
+      },
+      {
+        "text": "Merry Autonomous Christmas",
+        "label": "PERSON",
+        "start": 1023,
+        "end": 1049
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Merry Autonomous Christmas"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Jingle Bells",
+        "Leutschenbach TV"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Christmas",
+        "This year",
+        "last Monday",
+        "two years"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Christmas": 3,
+      "ETH": 2,
+      "two years": 1,
+      "ETH Zurich": 1,
+      "This year": 1,
+      "Jingle Bells": 1,
+      "last Monday": 1,
+      "Leutschenbach TV": 1,
+      "Merry Autonomous Christmas": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "festive-robodance.md",
+      "title": "En News Events/2014/12/festive Robodance",
+      "language": "en",
+      "source_path": "en_news_events/2014/12/festive-robodance.html"
+    },
+    "temporal": {
+      "publication_date": "2014-12",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "Merry Autonomous Christmas"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Music Star",
+        "En News",
+        "Leutschenbach TV",
+        "Merry Autonomous",
+        "Jingle Bells",
+        "ETH Zurich",
+        "Robodance For"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Jingle Bells",
+        "Leutschenbach TV"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Christmas",
+        "ETH",
+        "two years",
+        "ETH Zurich",
+        "This year",
+        "Jingle Bells",
+        "last Monday",
+        "Leutschenbach TV",
+        "Merry Autonomous Christmas"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1094
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Leutschenbach TV",
+        "Merry Autonomous Christmas",
+        "EU",
+        "Jingle Bells",
+        "ETH Zurich",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "why",
+        "when",
+        "how"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

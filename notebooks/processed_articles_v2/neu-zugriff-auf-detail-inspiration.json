@@ -1,0 +1,134 @@
+{
+  "filename": "neu-zugriff-auf-detail-inspiration.md",
+  "original_filename": "neu-zugriff-auf-detail-inspiration.html",
+  "source_path": "de_internal/2015/05/neu-zugriff-auf-detail-inspiration.html",
+  "date": "2015-05",
+  "title": "Neu Zugriff Auf Detail Inspiration",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Zu jedem Projekt werden fotografische Abbildungen und beschreibende Texte zu den Gebäuden und ihren Planern sowie ausgewählte Planzeichnungen dargestellt. Das PDF des jeweiligen Artikels lässt sich öffnen bzw. herunterladen.\n\nDer Zugriff auf diese Datenbank ist aus lizenzrechtlichen Gründen auf die Domain ethz.ch beschränkt.\n\nexterne Seite Datenbank Detail Inspiration"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/05",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "PDF",
+        "label": "MISC",
+        "start": 159,
+        "end": 162
+      },
+      {
+        "text": "Datenbank Detail Inspiration",
+        "label": "ORG",
+        "start": 340,
+        "end": 368
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Datenbank Detail Inspiration"
+      ],
+      "LOCATION": [
+        "De Internal/2015/05"
+      ],
+      "DATE": [],
+      "MISC": [
+        "PDF"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2015/05": 1,
+      "PDF": 1,
+      "Datenbank Detail Inspiration": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neu-zugriff-auf-detail-inspiration.md",
+      "title": "De Internal/2015/05/neu Zugriff auf Detail Inspiration",
+      "language": "de",
+      "source_path": "de_internal/2015/05/neu-zugriff-auf-detail-inspiration.html"
+    },
+    "temporal": {
+      "publication_date": "2015-05",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Das PDF",
+        "De Internal",
+        "Der Zugriff",
+        "Seite Datenbank",
+        "Detail Inspiration"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Datenbank Detail Inspiration"
+      ],
+      "locations": [
+        "De Internal/2015/05"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2015/05",
+        "PDF",
+        "Datenbank Detail Inspiration"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 425
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "2015",
+        "Datenbank Detail Inspiration"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

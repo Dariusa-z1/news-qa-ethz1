@@ -1,0 +1,32 @@
+# prototyping-heisst-einfach-ausprobieren.html
+
+**Source:** de_internal/2014/02/prototyping-heisst-einfach-ausprobieren.html
+
+## Main article
+
+Im vergangenen Herbst fand die erste Studienreise im Rahmen des Innovedum-Projektes «Raus aus den vier Wänden» nach Stanford statt. Ziel der Studienreise war es, zu festgelegten Themenbereichen einmal über den Tellerrand zu schauen, die momentanen Vorgehensweisen an der ETH zu hinterfragen und sich zu neuen Projekten inspirieren zu lassen.
+
+Auf der Reise dabei waren unter anderem Lino Guzzella, Rektor der ETH, Vertreter der Studierenden, des Mittelbaus, der Professorenschaft und des Personals, Mitarbeiter des Stabsbereichs Lehrentwicklung und -technologie ( LET ) und Drazenka Dragila-Salis, Direktorin ETH-Bauten . Während der Reise konnte man über einen Blog live mitverfolgen, wie es in Stanford zu und herging. Die Ergebnisse der Reise, die es nun umzusetzen gilt, sind in einem Abschlussbericht festgehalten.
+
+Aufgefallen ist mir beim Lesen des Blogs und des Berichtes eine Unbekümmertheit der Universität Stanford. Während die ETH Zürich gut-schweizerisch immer rational, gut durchdacht und im Bereich des kalkulierbaren Risikos agiert, scheint Stanford eine Umgebung zu bieten, die Fehler zulässt.
+
+Hier fällt vor allem das im Abschlussbericht erwähnte «Prototyping» auf: Anstatt ein Projekt von A bis Z durchzuplanen, Bedürfnisanalysen, Evaluationen und Vernehmlassungen zu machen und es zuletzt am ganzen Campus umzusetzen, wird in Stanford das Ausprobieren grossgeschrieben – mit der Möglichkeit, dass etwas schief geht, woran vorher niemand gedacht hat. Ein Projekt wird zeitnah mit beschränkter Reichweite umgesetzt – mit allen möglichen Schwachstellen. Fehlversuche werden bei diesem Verfahren hingenommen und dienen der Weiterentwicklung der Idee.
+
+Um dieses Ausprobieren auch an der ETH zu ermöglichen, braucht es weder viel Geld noch eine grossartige Umstrukturierung des komplexen Systems: Einzig die Zurückhaltung in Bezug auf neue Ideen müsste ein bisschen kleiner werden. Neue Projekte müssten nicht auf mögliche Gefahren geprüft, sondern viel eher einfach einmal im kleinen Rahmen umgesetzt werden – vielleicht sogar nur am Rande des Geschehens. Wenn diese Projekte dann Probleme bereiteten, könnte man sie schnell aufgeben und vielleicht in veränderter Form noch einmal ausprobieren.
+
+Der Schaden hielte sich im Vergleich zu einer an der gesamten ETH durchgeführten Änderung in Grenzen. Wenn das Projekt Erfolg hätte, wäre es simpel, die Änderung auf die ganze ETH zu erweitern – die Unterstützung der ETH-Angehörigen ist durch die Möglichkeit des Ausprobierens bestimmt grösser als bei Projekten mit unbekanntem Ausgang. Wenn man dann das investierte Geld gegen die Zeit, die man sich für Vergleichen und Diskutieren spart, aufwiegt, lässt sich schliessen, dass «Prototyping» wohl auch ökonomisch mithalten kann – wenn nicht sogar zu aussagekräftigeren Ergebnissen führt.
+
+Schwarz-Weiss malen kann man in dieser Angelegenheit an der ETH nicht: In vielen Bereichen, insbesondere in der Lehre, existiert das «Prototyping» an der ETH schon jetzt. So werden oft Pilotprojekte in ganz verschiedenen Bereichen durchgeführt, die auch in sinnvoller Frist evaluiert werden und bei Erfolg zu grossartigen Veränderungen führen. Als momentane Beispiele sind da wohl unter vielen anderen die Abschaffung der Testate und die TORQUEs (Tiny, Open-with-Restrictions courses focused on QUality and Effectiveness) anzuführen, die die ETH um viele Erfahrungen bereichern.
+
+Aus meiner Sicht fehlt jedoch ein solches «Prototyping» in der Entwicklung der Infrastruktur. Anstatt verschiedenste neue Sitzgelegenheiten einfach mal als einzelne Prototypen auszuprobieren und die Nutzer entscheiden zu lassen, evaluiert man anhand einer langen Kriterienliste, welche die besten sind. Anstatt einfach mal an Kopierern verschiedene Systeme zur Zahlung mit der Legi auszuprobieren, sucht man jahrelang Gründe, wieso bezahlen in der Mensa mit der Legi unmöglich ist.
+
+Oder das aktuellste Beispiel: Anstatt auf dem Hönggerberg eine gelbe Tafel mit der neuen Signaletik aufzustellen und auf Feedback zu warten, wurde das Projekt – nach einer sehr langen Vorbereitungsphase – gleich auf dem ganzen Hönggerbergcampus umgesetzt. Die Reaktionen reichen bekanntlich von «die Tafeln sind hässlich» bis zu «die Strassennamen sind zu lang». Rückgängig machen kann und will die ETH das Ganze nicht. Solche Reaktionen erschweren natürlich zukünftige Veränderungen, da sie mitunter Angst vor weiterem Misslingen auslösen.
+
+Wenn die ETH der Universität Stanford in diesem Bereich nachziehen will, gilt es, genau diese Angst zu überwinden und das Risiko, das jede Veränderung mit sich bringt, in einem kleineren Rahmen viel öfter einzugehen. Die ETH könnte meiner Einschätzung nach ein unglaubliches Potential entfalten, wenn die Umsetzung von Ideen aller Angehöriger stärker gefördert würde – Innovation geschieht durch Ausprobieren, nicht durch Planung bis ins letzte Detail.
+
+Auch der VSETH kann in diesem Bereich übrigens etwas lernen: Während viele kleine Sachen sehr schnell einfach mal probiert werden, wenn die Motivation dazu vorhanden ist, scheitern grosse Projekte im VSETH oft am gleichen Perfektionswillen, der der ETH im Weg steht.
+
+Während die ETH, dank weniger stark fluktuierender Stellenbesetzung, nach jahrelangen Evaluationen zumindest zur Umsetzung von Projekten kommt, stirbt im VSETH mit dem Rücktritt der treibenden Person oft auch die gesamte, vielleicht schon weit durchdachte Idee. Es wäre also auch im VSETH mal an der Zeit, öfters zu handeln und weniger abzuwägen – dass ein Resultat nicht perfekt ist, sollte einen nicht stören, vielmehr bietet es eine Weiterentwicklungsmöglichkeit für zukünftige Generationen.
+
+Im November 2013 wählte der Mitgliederrat, das oberste Organ des Studierendenverbands VSETH, Julia Wysling zu seiner Präsidentin. Sie wurde 1990 in Zürich geboren und ist in Zürich, Wien und Uster aufgewachsen. Nach erfolgreich absolvierter Matura an der Kantonsschule Rämibühl inklusive Austauschjahr in Australien studiert sie seit 2009 an der ETH Mathematik. Zuvor war Julia Wysling schon in ihrem Fachverein VMP (Verein der Mathematik- und Physikstudierenden), in mehreren VSETH-Kommissionen und im Verein SoNaFe/WiNaFe tätig. Besonders faszinierend an der Arbeit im VSETH findet sie das Zusammenspiel zwischen der politischer Vertretung der Studierenden und dem Angebot von Dienstleistungen. In ihrer Freizeit trainiert Julia Wysling für einen Triathlon.
+

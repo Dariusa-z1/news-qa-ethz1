@@ -1,0 +1,28 @@
+# gemeinsame-konferenzteilnahme-aus-der-ferne-laeuft-erfolgreich-an.html
+
+**Source:** de_internal/2024/01/gemeinsame-konferenzteilnahme-aus-der-ferne-laeuft-erfolgreich-an.html
+
+## Konferenzatmosphäre in familiärer Umgebung
+
+Die Jahresversammlung der American Geophysical Union (AGU) ist eine der weltweit grössten Konferenzen für Erd- und Weltraumwissenschaften mit über 25'000 Teilnehmenden. Auch für die Forschenden am Institut für Atmosphäre und Klima (IAC) ist dieser Event ein Höhepunkt im akademischen Kalender. Luna Bloin-Wibe ist Doktorandin in der Forschungsgruppe Klimaphysik des IAC. Sie wäre am letzten AGU-Meeting in San Francisco sicher nicht fehl am Platz gewesen. Trotz der Möglichkeit ihr Netzwerk zu erweitern und ihre Forschung voranzubringen hatte sie mit anderen Mitgliedern des Instituts bewusst auf die Flugreise nach Amerika verzichtet. Keine leichte Entscheidung. Zwar werden die Vorträge des AGU-Meetings live übertragen und eigene Beiträge können dort problemlos virtuell präsentiert werden. Doch das übliche Rahmenprogramm mit Podiumsdiskussionen und Workshops sowie die Begegnungen mit anderen Wissenschaftler:innen aus aller Welt kommen dabei schlicht zu kurz. Um diesen Nachteil auszugleichen, entschied sich Bloin-Wibe mit anderen IAC-Mitgliedern dazu, am Institut ein alternatives Rahmenprogramm für die Fernteilnehmenden auf die Beine zu stellen.
+
+## Konferenzatmosphäre in familiärer Umgebung
+
+Damit wurde der «AGU Virtual Hub», eine Art Parallelkonferenz zum AGU-Meeting, ins Leben gerufen. Während einer Woche wurden die Vorträge allabendlich in verschiedene Unterrichtsräume live übertragen. Vor und zwischen diesen «Sessions» gab es Raum für Veranstaltungen vor Ort. Inhalte des Programms waren unter anderem eine Debatte zu Wissenschaftskommunikation & Klimawandel, eine «Recycled Poster Session» und ein gemeinsames Abendessen in einem Restaurant. Im Zentrum des Hubs standen jedoch, wie an jeder Konferenz, die Kaffeepausen. Dazu wurde jeden Abend ein Buffet auf dem grünen Boden des CHN-Gebäudes bereitgestellt. Wo sich in San Francisco Wissenschafler:innen verschiedener Universitäten begegneten, lernten sich nun die Institutsmitglieder besser kennen. «Oft ist der Kontakt zwischen den Forschenden auf unterschiedlichen Stockwerken des Instituts limitiert. Aber durch den Hub hatte ich die Gelegenheit auch mal genaueres über die Forschungsprojekte ausserhalb meiner Gruppe zu erfahren. Die Atmosphäre ist dadurch vertrauter geworden», stellt Bloin-Wibe fest.
+
+## Handlungswille wird vom Departement unterstützt
+
+Schon seit Längerem macht sich das Departement für Umweltsystemwissenschaften (D-USYS) Gedanken, wie Emissionen aus Flugreisen reduziert werden können. Konferenzen in Übersee stehen daher schon länger im Fokus. Viele Angehörige des Instituts hatten Skrupel für eine einwöchige Veranstaltung über den Atlantik zu fliegen. Als eine IAC-interne Arbeitsgruppe zur Reduktion von Flugemissionen gegründet und Bloin-Wibe als deren Leiterin gewählt wurde, bot sich ihr die Gelegenheit, die ansonsten wenig anregende Bildschirmkonferenz aufzuwerten. So entstand die Idee für den virtuellen Hub. Im Zentrum stand dabei die Frage, weshalb viele Wissenschaftler:innen die physische Teilnahme an einer Konfernez bevorzugen und wie eine interessante Alternative aussehen müsste. Die Finanzierung des Hubs wurde unterdessen durch den CO 2 -Fonds des D-USYS ermöglicht.
+
+## Positives Fazit der Organisatorin
+
+Rückblickend ist Bloin-Wibe sehr zufrieden mit dem Ablauf des AGU Virtual Hubs. Die Anzahl der Teilnehmenden war zwar überschaubar, dafür die Gespräche umso anregender. Auf die Frage, ob sie beim nächsten Mal etwas anders machen würde, meint sie nur: «Ich bin jeden Abend für den Apéro einkaufen gegangen. Das könnte man sicher besser aufteilen.» Ansonsten verlief die Organisation reibungslos. Wie an anderen ETH-Events mussten die nötigen Bewilligungen früh genug eingeholt werden. «Wegen der Zeitverschiebung fielen die Sessionen bei uns in die Abendstunden. Dies hat die Raumreservation vereinfacht, da nur wenige Lektionen so spät stattfinden», erzählt Bloin-Wibe. Andererseits bedeutete das aber, dass die Teilnehmenden im Verlauf der Sessionen immer stärker mit der Müdigkeit zu kämpfen hatten. Für das nächste AGU-Meeting in Washington, D.C. sollte dieser Faktor weniger ins Gewicht fallen.
+
+## Der Virtual Hub gewährleistet mehr Inklusion
+
+Ein Vorteil des AGU Virtual Hub, den Bloin-Wibe neben den vermiedenen Flugemissionen hervorhebt, ist der Einbezug von Personengruppen, die normalerweise nicht hätten teilnehmen können. So waren beispielsweise auch Studierende eingeladen. Für sie war es ein erster Einblick in eine wissenschaftliche Konferenz. «Eine meiner Mitarbeiterinnen ist kürzlich Mutter geworden und konnte deshalb nicht mal mehr an europäischen Konferenzen teilnehmen. Nun konnte sie durch den Hub am AGU-Meeting dabei sein, ohne deswegen ihre Familie allein zu lassen», erzählt Bloin-Wibe. Auch wenn noch nicht klar ist, wer im kommenden Jahr die Leitung übernimmt, steht für Bloin-Wibe fest, dass es zu einer zweiten Ausgabe des AGU Virtual Hub kommen soll. Sie denkt bereits voraus: «Falls sich genügend Interessierte finden, könnten wir diesmal Forschende von anderen Schweizer Hochschulen zu uns einladen. So liesse sich dem Networking-Aspekt besser Rechnung tragen. In einer idealen Welt hätten wir einen AGU Virtual Hub für den ganzen Kontinent, an dem Wissenschaftler:innen aus ganz Europa zusammenkommen.»
+
+Sind Sie daran interessiert einen Virtual Hub für Ihr Institut zu organisieren? Luna Bloin-Wibe steht gerne für Auskünfte zur Verfügung.
+
+Hier finden Sie bereits ihre zwei wichtigsten Tipps.
+

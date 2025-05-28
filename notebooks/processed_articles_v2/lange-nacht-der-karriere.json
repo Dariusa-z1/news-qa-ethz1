@@ -1,0 +1,224 @@
+{
+  "filename": "lange-nacht-der-karriere.md",
+  "original_filename": "lange-nacht-der-karriere.html",
+  "source_path": "en_internal/2014/11/lange-nacht-der-karriere.html",
+  "date": "2014-11",
+  "title": "Lange Nacht Der Karriere",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "How can you get to know company representatives during a game of miniature golf at ETH Zurich? Or share coffee and cake with a CEO? How do you win over a manager in just three minutes? And what should you wear when the dress code is “business casual”?\n\nAnswers to these questions will be provided for students, doctoral students and alumni at the “Lange Nacht der Karriere” (“Long night of the career”) event in the ETH Zurich Main Building on 13 November. Participants will be treated to a wide-ranging programme including “career speed dating”, an “application catwalk”, opportunities to “meet, greet & play” with prospective employers, a “CV corner” and refreshments.\n\n13 November 2014 at 6 pm in the main building of ETH Zurich.\n\nFurther information on the web site of the event and on Facebook ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Nacht",
+        "label": "PERSON",
+        "start": 26,
+        "end": 31
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 83,
+        "end": 93
+      },
+      {
+        "text": "just three minutes",
+        "label": "TIME",
+        "start": 165,
+        "end": 183
+      },
+      {
+        "text": "the ETH Zurich Main Building",
+        "label": "ORG",
+        "start": 411,
+        "end": 439
+      },
+      {
+        "text": "13 November",
+        "label": "DATE",
+        "start": 443,
+        "end": 454
+      },
+      {
+        "text": "meet, greet &",
+        "label": "ORG",
+        "start": 590,
+        "end": 603
+      },
+      {
+        "text": "CV",
+        "label": "WORK_OF_ART",
+        "start": 641,
+        "end": 643
+      },
+      {
+        "text": "November 2014",
+        "label": "DATE",
+        "start": 673,
+        "end": 686
+      },
+      {
+        "text": "6 pm",
+        "label": "TIME",
+        "start": 690,
+        "end": 694
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 719,
+        "end": 729
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Nacht"
+      ],
+      "ORG": [
+        "meet, greet &",
+        "the ETH Zurich Main Building"
+      ],
+      "LOCATION": [
+        "ETH Zurich"
+      ],
+      "DATE": [
+        "13 November",
+        "6 pm",
+        "November 2014",
+        "just three minutes"
+      ],
+      "MISC": [
+        "CV"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Nacht": 1,
+      "just three minutes": 1,
+      "the ETH Zurich Main Building": 1,
+      "13 November": 1,
+      "meet, greet &": 1,
+      "CV": 1,
+      "November 2014": 1,
+      "6 pm": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "lange-nacht-der-karriere.md",
+      "title": "En Internal/2014/11/lange Nacht der Karriere",
+      "language": "en",
+      "source_path": "en_internal/2014/11/lange-nacht-der-karriere.html"
+    },
+    "temporal": {
+      "publication_date": "2014-11",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Nacht"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "alumni",
+          "student"
+        ],
+        "Nacht": [
+          "alumni",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "alumni",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "En Internal",
+        "Lange Nacht",
+        "Karriere How",
+        "ETH Zurich",
+        "Main Building"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "meet, greet &",
+        "the ETH Zurich Main Building"
+      ],
+      "locations": [
+        "ETH Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Nacht",
+        "just three minutes",
+        "the ETH Zurich Main Building",
+        "13 November",
+        "meet, greet &",
+        "CV",
+        "November 2014",
+        "6 pm"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 845
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the ETH Zurich Main Building",
+        "Nacht",
+        "ETH Zurich",
+        "2014",
+        "meet, greet &"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "what",
+        "how"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_alumni",
+        "ETH Zurich_has_role_student",
+        "Nacht_has_role_alumni",
+        "Nacht_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

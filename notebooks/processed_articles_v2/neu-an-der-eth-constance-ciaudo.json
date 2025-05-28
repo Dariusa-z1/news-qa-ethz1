@@ -1,0 +1,273 @@
+{
+  "filename": "neu-an-der-eth-constance-ciaudo.md",
+  "original_filename": "neu-an-der-eth-constance-ciaudo.html",
+  "source_path": "de_internal/2014/02/neu-an-der-eth-constance-ciaudo.html",
+  "date": "2014-02",
+  "title": "Neu An Der Eth Constance Ciaudo",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Zur Person",
+      "text": "Wenn Sie nicht Wissenschaftlerin geworden wären, was dann? Mein Traum war es Ballett-Tänzerin zu werden. Leider habe ich mir mit 10 Jahren den Fuss gebrochen, was den Traum abrupt beendete. Ich entdeckte dann, wie spannend die Welt der Wissenschaft ist. Insbesondere die Biologie hat mich fasziniert: So viele offene Fragen, die es zu beantworten gilt.\n\nWelche Entdeckung würden Sie auf Ihrem Gebiet gerne machen? Mein grosses Ziel ist es herauszufinden, wie die Evolution des Menschen funktioniert. Wir arbeiten zur Zeit an kleinen nicht kodierenden RNAs und untersuchen ihren Einfluss auf das Springen von sogenannten Transposons. Das sind mobile DNA-Stücke in unserem Erbgut. Lange dachte man, dass diese mobilen Elemente keinen Einfluss auf die Erbinformation hätten. Aber sie können im Erbgut an verschiedene Stellen springen und dort unterschiedliche Prozesse auslösen, zum Beispiel neue Proteine bilden oder Gene zerstören. Das kann bei uns Menschen zum Beispiel zu neuen Krankheiten führen, bei Blumen die Blütenfarbe verändern, bei Fliegen die Augenfarbe oder bei Mäusen die Farbe des Fells. Diese Mechanismen faszinieren mich. Wenn ich sie eines Tages aufklären könnte, wäre das toll.\n\nWo finden Sie Ausgleich zu Ihrer Arbeit? Ich gehe sehr gerne Rollerbladen. In meiner Zeit in Frankreich habe ich sogar eine Organisation gegründet, die Kinder und Jugendliche für diesen Sport begeistern sollte. Das hat grossen Spass gemacht. Im Moment fehlt mir leider häufig die Zeit für einen sportlichen Ausgleich. Aber ich liebe auch die Oper und das Kochen."
+    },
+    {
+      "heading": "Zur Person",
+      "text": "Constance Ciaudo ist seit April 2013 Assistenzprofessorin für RNAi und Genom-Integrität am Institut für Molekulare Gesundheitswissenschaften im Departement Biologie. Sie wurde 1979 in Frankreich geboren. Ihre Forschung fokussiert auf die Rolle der RNA-Interferenz für die Genomstabilität."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/02",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Eth Constance Ciaudo",
+        "label": "ORG",
+        "start": 31,
+        "end": 51
+      },
+      {
+        "text": "Mein Traum",
+        "label": "PER",
+        "start": 59,
+        "end": 69
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 516,
+        "end": 520
+      },
+      {
+        "text": "RNAs",
+        "label": "ORG",
+        "start": 550,
+        "end": 554
+      },
+      {
+        "text": "Mäusen",
+        "label": "PER",
+        "start": 1072,
+        "end": 1078
+      },
+      {
+        "text": "Tages",
+        "label": "MISC",
+        "start": 1155,
+        "end": 1160
+      },
+      {
+        "text": "Frankreich",
+        "label": "LOC",
+        "start": 1287,
+        "end": 1297
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 1474,
+        "end": 1478
+      },
+      {
+        "text": "Constance Ciaudo",
+        "label": "PER",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "RNAi",
+        "label": "ORG",
+        "start": 62,
+        "end": 66
+      },
+      {
+        "text": "Genom-Integrität",
+        "label": "ORG",
+        "start": 71,
+        "end": 87
+      },
+      {
+        "text": "Institut für Molekulare Gesundheitswissenschaften",
+        "label": "ORG",
+        "start": 91,
+        "end": 140
+      },
+      {
+        "text": "Frankreich",
+        "label": "LOC",
+        "start": 184,
+        "end": 194
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Constance Ciaudo",
+        "Mein Traum",
+        "Mäusen"
+      ],
+      "ORG": [
+        "Eth Constance Ciaudo",
+        "Genom-Integrität",
+        "Institut für Molekulare Gesundheitswissenschaften",
+        "RNAi",
+        "RNAs"
+      ],
+      "LOCATION": [
+        "De Internal/2014/02",
+        "Frankreich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Tages",
+        "Zeit"
+      ]
+    },
+    "entity_counts": {
+      "Zeit": 2,
+      "Frankreich": 2,
+      "De Internal/2014/02": 1,
+      "Eth Constance Ciaudo": 1,
+      "Mein Traum": 1,
+      "RNAs": 1,
+      "Mäusen": 1,
+      "Tages": 1,
+      "Constance Ciaudo": 1,
+      "RNAi": 1,
+      "Genom-Integrität": 1,
+      "Institut für Molekulare Gesundheitswissenschaften": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neu-an-der-eth-constance-ciaudo.md",
+      "title": "De Internal/2014/02/neu an der Eth Constance Ciaudo",
+      "language": "de",
+      "source_path": "de_internal/2014/02/neu-an-der-eth-constance-ciaudo.html"
+    },
+    "temporal": {
+      "publication_date": "2014-02",
+      "mentioned_years": [
+        "1979",
+        "2013",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Constance Ciaudo",
+        "Mein Traum",
+        "Mäusen"
+      ],
+      "people_with_roles": {
+        "Constance Ciaudo": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Tages",
+        "Zeit"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Constance Ciaudo",
+        "Mein Traum",
+        "Departement Biologie",
+        "Welche Entdeckung",
+        "Eth Constance",
+        "Ihre Forschung",
+        "De Internal",
+        "Sie Ausgleich",
+        "Ihrem Gebiet",
+        "RNA-Interferenz",
+        "Im Moment",
+        "Diese Mechanismen",
+        "Ciaudo Wenn",
+        "Molekulare Gesundheitswissenschaften",
+        "Ihrer Arbeit"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Eth Constance Ciaudo",
+        "Genom-Integrität",
+        "Institut für Molekulare Gesundheitswissenschaften",
+        "RNAi",
+        "RNAs"
+      ],
+      "locations": [
+        "De Internal/2014/02",
+        "Frankreich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Zeit",
+        "Frankreich",
+        "De Internal/2014/02",
+        "Eth Constance Ciaudo",
+        "Mein Traum",
+        "RNAs",
+        "Mäusen",
+        "Tages",
+        "Constance Ciaudo",
+        "RNAi"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Zur Person",
+          "Zur Person"
+        ],
+        "content_length": 1899
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Constance Ciaudo",
+        "RNAi",
+        "RNAs",
+        "Mein Traum",
+        "2013",
+        "Mäusen",
+        "EU",
+        "Eth Constance Ciaudo",
+        "1979",
+        "Institut für Molekulare Gesundheitswissenschaften",
+        "2014",
+        "Genom-Integrität"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Zeit",
+        "Tages",
+        "who"
+      ],
+      "graph_relations": [
+        "Constance Ciaudo_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

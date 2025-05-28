@@ -1,0 +1,42 @@
+# wie-geologie-die-artenvielfalt-formt.html
+
+**Source:** de_news_events/2021/09/wie-geologie-die-artenvielfalt-formt.html
+
+## Palmenvielfalt in Afrika viel kleiner
+
+Tropische Regenwälder sind die artenreichsten Lebensräume der Erde. Sie beherbergen eine riesige Zahl von verschiedenen Pflanzen, Tieren, Pilzen und weiterer Organismen. Diese Wälder liegen mehrheitlich auf drei Kontinenten, darunter das Amazonasbecken in Südamerika, das Kongo-Becken in Zentralafrika und das riesige Inselarchipel Südostasiens.
+
+Nun könnte man annehmen, dass alle tropischen Regenwälder aufgrund des stabil warmfeuchten Klimas und ihrer geografischen Lage rund um den Äquator in etwa gleich artenreich sind – das trifft jedoch nicht zu. Verglichen mit Südamerika und Südostasien ist die Artenzahl in feuchten Tropenwäldern Afrikas bei vielen Organismengruppen deutlich kleiner.
+
+## Palmenvielfalt in Afrika viel kleiner
+
+Diese ungleiche Verteilung – Forschende sprechen von der «pantropischen Diversitätsdisparität» (PDD) - lässt sich anhand von Palmen gut illustrieren: Von den weltweit 2500 Arten kommen 1200 in Südostasien und 800 in den Tropenwäldern Südamerikas vor, aber nur 66 in afrikanischen Regenwäldern.
+
+Weshalb dem so ist, ist unter Biodiversitätsforschenden umstritten. Einige Indizien sprechen dafür, dass das gegenwärtige Klima für die geringere Artenvielfalt in Afrikas Tropenwäldern die Ursache ist. So ist das Klima in Afrikas Tropengürtel trockener und kühler als das in Südostasien und Südamerika.
+
+Andere Hinweise sprechen eher dafür, dass sich die unterschiedliche Entwicklung der Umwelt und der Plattentektonik der drei Tropenwaldzonen über Dutzende Millionen von Jahren auf die Entstehung unterschiedlich grosser Biodiversität auswirkte. Zu solchen Veränderungen gehören beispielsweise die Bildung von Gebirgen, Inseln oder Trocken- und Wüstengebieten.
+
+Die beiden Faktoren – gegenwärtiges Klima und Umweltgeschichte - lassen sich jedoch nur schwer auseinanderhalten.
+
+## Gebirgsbildung förderte Artenvielfalt
+
+Forschende der ETH Zürich unter der Federführung von Loïc Pellissier, Professor für Landschaftsökologie, sind nun dieser Frage mithilfe eines neuen Computermodelles nachgegangen. Dieses Modell erlaubt es ihnen, die Evolution und Diversifizierung der Arten über viele Millionen von Jahren hinweg zu simulieren. Die Forschenden kommen zum Schluss, dass das gegenwärtige Klima nicht der Hauptgrund sei, weshalb die Artenvielfalt in den Regenwäldern Afrikas geringer ist. Die Artenvielfalt, so schliessen sie aus den Simulationen, wurde durch die Dynamik der Gebirgsbildung und Klimaveränderungen hervorgebracht. Die Ergebnisse der Simulationen decken sich weitgehend mit den heute beobachtbaren Mustern der Biodiversitätsverteilung.
+
+«Unser Modell bestätigt, dass Unterschiede in der Dynamik der frühzeitlichen Umwelt die ungleiche Verteilung der Artenvielfalt hervorbrachten und nicht aktuelle klimatische Faktoren», sagt Pellissier. «Geologische Prozesse sowie globale Temperaturflüsse bestimmen, wo und wann Arten entstehen oder aussterben.»
+
+Entscheidend für eine hohe Artenvielfalt auf einem Kontinent ist insbesondere die Dynamik geologischer Prozesse. Aktive Plattentektonik fördert die Gebirgsbildung, wie die Anden in Südamerika, oder die Entstehung von Insel-Archipelen wie in Südostasien. Beide Prozesse führen dazu, dass sich viele neue ökologische Nischen bilden, in denen wiederum zahlreiche neue Arten entstehen. Der Regenwaldgürtel Afrikas hingegen war in den vergangenen 110 Millionen Jahre tektonisch weniger aktiv. Auch war dieser Tropenwald verhältnismässig klein, da er von Trockengebieten im Norden und Süden begrenzt war und sich nicht weiter ausdehnen konnte. «Arten aus Regenwäldern können sich kaum an die Verhältnisse der umgebenden Trockengebiete anpassen», betont Pellissier.
+
+## Neues Modell
+
+Das von ETH-Forschenden entwickelte Modell «gen3sis» wurde erst kürzlich im Fachjournal PLoS Biology vorgestellt. Es ist ein mechanistisches Modell, in welchem die primären Rahmenbedingungen wie die Geologie und das Klima sowie die biologischen Mechanismen eingebaut sind und aus welchen die Biodiversitätsmuster hervorgehen. Um die Entstehung der Biodiversität zu simulieren, müssen folgende wichtige Prozesse im Modell integriert werden: Ökologie (jede Art hat ihre begrenzte ökologische Nische), Evolution, Artbildung (engl: speciation) und Ausbreitung (engl: dispersal).
+
+«Mit diesen vier grundlegenden Regeln können wir die Bestandsdynamik von Organismen vor dem Hintergrund von sich verschiebenden Umweltbedingungen simulieren. Dadurch können wir auch sehr gut erklären, wie die Organismen entstanden», sagt Pellissier.
+
+Indem die Forschenden ihr Modell auf diesen grundlegenden evolutionären Mechanismen aufbauen, können sie die Artenvielfalt simulieren, ohne dass sie es mit (Verbreitungs-)Daten für jede einzelne Art füttern müssen. Das Modell braucht jedoch Daten über die Dynamik der betrachteten Kontinente in der Erdgeschichte sowie über die Feuchtigkeit und Temperaturen aus Klimarekonstruktionen.
+
+Pellissier und seine Mitarbeitenden sind nun dabei, das Modell zu verfeinern. Mit weiteren Simulationen wollen sie verstehen, wie Biodiversität in anderen artenreichen Regionen entstanden ist, etwa in den Gebirgen Westchinas. Der Modellcode und die Rekonstruktionen der frühzeitlichen Umwelt sind quelloffen. Alle interessierten Evolutions- und Biodiversitätsforschenden können ihn nutzen, um die Bildung von Artenvielfalt in verschiedensten Regionen der Welt zu untersuchen.
+
+Hagen O, Skeels A, Onstein R, Jetz W, Pellissier L. Earth history events shaped the evolution of uneven biodiversity across tropical moist forests. Proc Natl Acad Sci USA October 5, 2021 118 (40) e2026347118; doi: externe Seite 10.1073/pnas.2026347118
+
+Hagen O, Flück B, Fopp F, Cabral JS, Hartig F, Pontarp M, et al. (2021) gen3sis: A general engine for eco-evolutionary simulations of the processes that shape Earth’s biodiversity. PLoS Biol 19(7): e3001340. externe Seite doi: 10.1371/journal.pbio.3001340
+

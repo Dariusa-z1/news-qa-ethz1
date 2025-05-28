@@ -1,0 +1,614 @@
+{
+  "filename": "influenza-vaccination.md",
+  "original_filename": "influenza-vaccination.html",
+  "source_path": "en_internal/2020/09/influenza-vaccination.html",
+  "date": "2020-09",
+  "title": "Influenza Vaccination",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Who should take advantage of vaccination?",
+      "text": "The seasonal influenza vaccination campaign will be held this October and November, led by Patrick Lehmann from the Safety, Security, Health and Environment (SSHE) department. This campaign is offered in collaboration with our external partner AEH, the Centre for Occupational Medicine, Ergonomics and Hygiene. Students and staff at ETH can take advantage of the campaign, with the costs covered by the university. With this move, ETH hopes to make a positive contribution to health protection and prevent infection among its members. Flu vaccination provides protection not only for the individual being vaccinated, but also for others. ETH members have been able to benefit from this offer since 2002; the individuals concerned belong to all age groups and include students, apprentices and retired ETH members. In view of the Covid-19 safety concept and a shortage of vaccination doses, family members will not be included in this year’s campaign."
+    },
+    {
+      "heading": "Who should take advantage of vaccination?",
+      "text": "According to the federal government’s vaccination strategy, the goal is not to achieve 100% vaccination coverage but to protect specific groups – individuals with an increased risk of complications in the event of a flu infection. Those in retirement and nursing homes and those with a chronic disease are also affected. Vaccination is also recommended for people who have regular contact with such individuals in a personal or professional context."
+    },
+    {
+      "heading": "One-third more vaccination doses than last year",
+      "text": "Last year 3,000 vaccination doses were available; this year the number has been increased to 4,000. In view of the Covid-19 safety concept, this year’s vaccination campaign will be more complex from a personnel and organisational perspective. The event can be held despite the pandemic situation thanks to safety measures such as large spaces with good ventilation, compulsory wearing of masks, hand disinfection and paperless administration. The organisers advise you to bring a printout of the completed questionnaire to the vaccination. Unlike other years, only 30 people rather than 60 will be treated every 30 minutes. This move is intended to prevent large numbers of people in waiting areas. Appointments will be offered over six days – four of which will be during the autumn break, with one day in November – five in Zurich and one in Basel."
+    },
+    {
+      "heading": "Rämibühl, a new location",
+      "text": "In addition to the usual locations on the Hönggerberg campus and in Basel, the sports hall at Rämibühl cantonal school will also be used. The sports hall at Rämibühl was chosen as the ETH sports halls are used during the holidays. This hall is empty during the autumn break, is a large, airy space and has a separate entrance and exit, making it a highly suitable location for the vaccination campaign."
+    },
+    {
+      "heading": "Shortage of flu vaccines",
+      "text": "Due to the high demand, not all those who would like a vaccination can be included, despite the increase in number of doses. The national vaccine stocks are limited in terms of production; these stocks were ordered in spring 2020 and cannot be increased retrospectively. It was initially unclear whether interest in vaccination would be limited due to fear of the pandemic situation, or whether individuals would want to protect themselves additionally against seasonal flu. According to Patrick Lehmann, who is deputy head of Occupational Medicine & Health Protection within the SSHE and responsible for the flu vaccination campaign at ETH, it would appear that the pandemic has resulted in increased interest in seasonal flu vaccination. He recommends referring to the SSHE website on a regular basis in the event that cancelled appointments become available. Experience has shown that appointments become free at short notice following the first vaccination days."
+    },
+    {
+      "heading": "Other options for vaccination",
+      "text": "Lehmann says: “In principle, we advise ETH members who suffer from an underlying disease – and as a result are required to attend regular medical appointments – to arrange for vaccination by their GP or pharmacist.” He refers those affected to the FOPH vaccination check (page in German), which provides further details of the vaccination situation. Although costs incurred through use of external providers cannot be borne by ETH, they are covered by basic health insurance in the case of individuals with increased risk of complications. As an alternative to influenza vaccination at ETH, another option is to be vaccinated for a flat rate of CHF 30 on Switzerland’s national vaccination day (page in German)."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "Detailed information about the flu vaccination can be found on the webpage of SSHE ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "October",
+        "label": "DATE",
+        "start": 62,
+        "end": 69
+      },
+      {
+        "text": "November",
+        "label": "DATE",
+        "start": 74,
+        "end": 82
+      },
+      {
+        "text": "Patrick Lehmann",
+        "label": "PERSON",
+        "start": 91,
+        "end": 106
+      },
+      {
+        "text": "the Safety, Security, Health and Environment",
+        "label": "ORG",
+        "start": 112,
+        "end": 156
+      },
+      {
+        "text": "AEH",
+        "label": "PERSON",
+        "start": 244,
+        "end": 247
+      },
+      {
+        "text": "the Centre for Occupational Medicine",
+        "label": "ORG",
+        "start": 249,
+        "end": 285
+      },
+      {
+        "text": "Ergonomics",
+        "label": "ORG",
+        "start": 287,
+        "end": 297
+      },
+      {
+        "text": "Hygiene",
+        "label": "PERSON",
+        "start": 302,
+        "end": 309
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 333,
+        "end": 336
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 431,
+        "end": 434
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 638,
+        "end": 641
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 801,
+        "end": 804
+      },
+      {
+        "text": "year",
+        "label": "DATE",
+        "start": 934,
+        "end": 938
+      },
+      {
+        "text": "100%",
+        "label": "PERCENT",
+        "start": 87,
+        "end": 91
+      },
+      {
+        "text": "Last year",
+        "label": "DATE",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "3,000",
+        "label": "CARDINAL",
+        "start": 10,
+        "end": 15
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 50,
+        "end": 59
+      },
+      {
+        "text": "4,000",
+        "label": "CARDINAL",
+        "start": 93,
+        "end": 98
+      },
+      {
+        "text": "year",
+        "label": "DATE",
+        "start": 145,
+        "end": 149
+      },
+      {
+        "text": "only 30",
+        "label": "CARDINAL",
+        "start": 560,
+        "end": 567
+      },
+      {
+        "text": "every 30 minutes",
+        "label": "TIME",
+        "start": 606,
+        "end": 622
+      },
+      {
+        "text": "six days",
+        "label": "DATE",
+        "start": 733,
+        "end": 741
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 744,
+        "end": 748
+      },
+      {
+        "text": "autumn",
+        "label": "DATE",
+        "start": 777,
+        "end": 783
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 796,
+        "end": 803
+      },
+      {
+        "text": "November",
+        "label": "DATE",
+        "start": 807,
+        "end": 815
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 818,
+        "end": 822
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 826,
+        "end": 832
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 837,
+        "end": 840
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 844,
+        "end": 849
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 42,
+        "end": 53
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 68,
+        "end": 73
+      },
+      {
+        "text": "Rämibühl cantonal school",
+        "label": "FAC",
+        "start": 94,
+        "end": 118
+      },
+      {
+        "text": "Rämibühl",
+        "label": "PERSON",
+        "start": 157,
+        "end": 165
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 184,
+        "end": 187
+      },
+      {
+        "text": "the holidays",
+        "label": "DATE",
+        "start": 217,
+        "end": 229
+      },
+      {
+        "text": "autumn",
+        "label": "DATE",
+        "start": 261,
+        "end": 267
+      },
+      {
+        "text": "spring 2020",
+        "label": "DATE",
+        "start": 218,
+        "end": 229
+      },
+      {
+        "text": "Patrick Lehmann",
+        "label": "PERSON",
+        "start": 488,
+        "end": 503
+      },
+      {
+        "text": "Occupational Medicine & Health Protection",
+        "label": "ORG",
+        "start": 527,
+        "end": 568
+      },
+      {
+        "text": "SSHE",
+        "label": "ORG",
+        "start": 580,
+        "end": 584
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 637,
+        "end": 640
+      },
+      {
+        "text": "seasonal",
+        "label": "DATE",
+        "start": 714,
+        "end": 722
+      },
+      {
+        "text": "SSHE",
+        "label": "ORG",
+        "start": 771,
+        "end": 775
+      },
+      {
+        "text": "the first vaccination days",
+        "label": "DATE",
+        "start": 939,
+        "end": 965
+      },
+      {
+        "text": "Lehmann",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "text": "GP",
+        "label": "ORG",
+        "start": 197,
+        "end": 199
+      },
+      {
+        "text": "FOPH",
+        "label": "ORG",
+        "start": 248,
+        "end": 252
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 280,
+        "end": 286
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 427,
+        "end": 430
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 586,
+        "end": 589
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 645,
+        "end": 648
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 655,
+        "end": 666
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 703,
+        "end": 709
+      },
+      {
+        "text": "SSHE",
+        "label": "ORG",
+        "start": 78,
+        "end": 82
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "AEH",
+        "Hygiene",
+        "Hönggerberg",
+        "Lehmann",
+        "Patrick Lehmann",
+        "Rämibühl"
+      ],
+      "ORG": [
+        "CHF",
+        "ETH",
+        "Ergonomics",
+        "FOPH",
+        "GP",
+        "Occupational Medicine & Health Protection",
+        "SSHE",
+        "the Centre for Occupational Medicine",
+        "the Safety, Security, Health and Environment"
+      ],
+      "LOCATION": [
+        "Basel",
+        "Rämibühl cantonal school",
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "Last year",
+        "November",
+        "October",
+        "autumn",
+        "every 30 minutes",
+        "one day",
+        "seasonal",
+        "six days",
+        "spring 2020",
+        "the first vaccination days",
+        "the holidays",
+        "this year",
+        "year"
+      ],
+      "MISC": [
+        "100%",
+        "3,000",
+        "4,000",
+        "German",
+        "five",
+        "four",
+        "one",
+        "only 30"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 9,
+      "SSHE": 3,
+      "November": 2,
+      "Patrick Lehmann": 2,
+      "year": 2,
+      "autumn": 2,
+      "Basel": 2,
+      "German": 2,
+      "October": 1,
+      "the Safety, Security, Health and Environment": 1,
+      "AEH": 1,
+      "the Centre for Occupational Medicine": 1,
+      "Ergonomics": 1,
+      "Hygiene": 1,
+      "100%": 1,
+      "Last year": 1,
+      "3,000": 1,
+      "this year": 1,
+      "4,000": 1,
+      "only 30": 1
+    },
+    "total_entities": 56,
+    "unique_entities": 40
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "influenza-vaccination.md",
+      "title": "En Internal/2020/09/influenza Vaccination",
+      "language": "en",
+      "source_path": "en_internal/2020/09/influenza-vaccination.html"
+    },
+    "temporal": {
+      "publication_date": "2020-09",
+      "mentioned_years": [
+        "2002",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "AEH",
+        "Hygiene",
+        "Hönggerberg",
+        "Lehmann",
+        "Patrick Lehmann",
+        "Rämibühl"
+      ],
+      "people_with_roles": {
+        "Lehmann": [
+          "head"
+        ],
+        "Patrick Lehmann": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "100%",
+        "3,000",
+        "4,000",
+        "German",
+        "five",
+        "four",
+        "only 30"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Occupational Medicine",
+        "En Internal",
+        "Vaccination The",
+        "Patrick Lehmann",
+        "Health Protection"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CHF",
+        "ETH",
+        "Ergonomics",
+        "FOPH",
+        "GP",
+        "Occupational Medicine & Health Protection",
+        "SSHE",
+        "the Centre for Occupational Medicine",
+        "the Safety, Security, Health and Environment"
+      ],
+      "locations": [
+        "Basel",
+        "Rämibühl cantonal school",
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "SSHE",
+        "November",
+        "Patrick Lehmann",
+        "year",
+        "autumn",
+        "Basel",
+        "German",
+        "October",
+        "the Safety, Security, Health and Environment"
+      ],
+      "document_structure": {
+        "total_sections": 7,
+        "section_titles": [
+          "Who should take advantage of vaccination?",
+          "Who should take advantage of vaccination?",
+          "One-third more vaccination doses than last year",
+          "Rämibühl, a new location",
+          "Shortage of flu vaccines",
+          "Other options for vaccination",
+          "Staffnet"
+        ],
+        "content_length": 4460
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "ETH",
+        "CHF",
+        "2002",
+        "SSHE",
+        "Hygiene",
+        "2020",
+        "the Safety, Security, Health and Environment",
+        "Occupational Medicine & Health Protection",
+        "the Centre for Occupational Medicine",
+        "FOPH",
+        "Patrick Lehmann",
+        "GP",
+        "Rämibühl",
+        "AEH",
+        "Ergonomics",
+        "Lehmann"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "3,000",
+        "four",
+        "who",
+        "4,000",
+        "how",
+        "100%",
+        "German",
+        "medical_research",
+        "five",
+        "only 30",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Lehmann_has_role_head",
+        "Patrick Lehmann_has_role_head",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

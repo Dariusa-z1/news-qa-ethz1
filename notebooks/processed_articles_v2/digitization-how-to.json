@@ -1,0 +1,153 @@
+{
+  "filename": "digitization-how-to.md",
+  "original_filename": "digitization-how-to.html",
+  "source_path": "en_internal/2015/12/digitization-how-to.html",
+  "date": "2015-12",
+  "title": "Digitization How To",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The \" Best Practices in Digitization \" issued by ETH-Bibliothek's DigiCenter offers practical tips and well-founded recommendations. The handbook covers the entire process from planning and realizing a digitization project to storage aspects and handling metadata.\n\nThe DigiCenter boasts longstanding expertise and a professional technical infrastructure. It has processed complex projects , digitized different document types and produced several millions of scans in recent years."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH-Bibliothek's",
+        "label": "ORG",
+        "start": 49,
+        "end": 65
+      },
+      {
+        "text": "DigiCenter",
+        "label": "ORG",
+        "start": 66,
+        "end": 76
+      },
+      {
+        "text": "DigiCenter",
+        "label": "ORG",
+        "start": 269,
+        "end": 279
+      },
+      {
+        "text": "several millions",
+        "label": "CARDINAL",
+        "start": 439,
+        "end": 455
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 468,
+        "end": 480
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "DigiCenter",
+        "ETH-Bibliothek's"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "recent years"
+      ],
+      "MISC": [
+        "several millions"
+      ]
+    },
+    "entity_counts": {
+      "DigiCenter": 2,
+      "ETH-Bibliothek's": 1,
+      "several millions": 1,
+      "recent years": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "digitization-how-to.md",
+      "title": "En Internal/2015/12/digitization How To",
+      "language": "en",
+      "source_path": "en_internal/2015/12/digitization-how-to.html"
+    },
+    "temporal": {
+      "publication_date": "2015-12",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "several millions"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "The DigiCenter",
+        "En Internal",
+        "How To",
+        "Best Practices"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DigiCenter",
+        "ETH-Bibliothek's"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "DigiCenter",
+        "ETH-Bibliothek's",
+        "several millions",
+        "recent years"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 522
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "DigiCenter",
+        "2015",
+        "ETH-Bibliothek's"
+      ],
+      "semantic_concepts": [
+        "several millions",
+        "what",
+        "how",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

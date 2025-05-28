@@ -1,0 +1,58 @@
+# wir-brauchen-einen-weltrat-fuer-chemikalien-und-abfall.html
+
+**Source:** de_news_events/2021/02/wir-brauchen-einen-weltrat-fuer-chemikalien-und-abfall.html
+
+## Es gibt Fortschritte, doch das reicht nicht
+
+Chemikalien sind das Schmiermittel der modernen Welt. Doch die Welt geht mit Chemikalien höchst unzureichend um. In den letzten Jahrzehnten nahmen die Anzahl und Vielfalt der gehandelten Chemikalien stark zu – heute sind es einige hunderttausend Substanzen. Bei mehr als einem Drittel davon kennt man die chemischen Eigenschaften nur schlecht und weiss nicht, wie giftig sie sind. Mindestens drei Prozent aller Chemikalien haben gefährliche Eigenschaften. 1
+
+Zu den «bekannten» Chemikalien, die für Mensch und Umwelt schädlich sind, gehören etwa giftige Fluorverbindungen, sogenannte PFAS, die unsere Regenjacken wasserdicht machen, aber Krebs verursachen können. Oder Pestizide, die Ackerland vor Unkraut und Schädlingen schützen, aber zum Insektensterben beitragen. Oder Schwermetalle aus elektronischen Altgeräten und Elektroautobatterien, die Menschen, die wertvolle Reste aus den Deponien heraussuchen, und die Umwelt vergiften. Blei verursacht immer noch jedes Jahr fast eine Million vorzeitige Todesfälle weltweit. 2
+
+## Es gibt Fortschritte, doch das reicht nicht
+
+Viele Industrieländer haben gesetzliche Regelwerke geschaffen, um das Problem anzugehen. Solche Regelwerke müssen jedoch durch einen internationalen regulatorischen Rahmen ergänzt werden, um wirksam zu sein.
+
+Das gilt insbesondere für grenzüberschreitende Problemstoffe wie Schwermetalle, persistente organische Schadstoffe und Kunststoffabfälle. Auch die Schweiz importiert etliche Produkte aus der ganzen Welt; nur wenn Länder entlang globaler Lieferketten gemeinsam handeln, lassen sich sichere Produkte gewährleisten.
+
+## Die Lücke schliessen
+
+Für einen Grossteil der verwendeten Chemikalien gibt es jedoch substantielle Wissenslücken, die einen vernünftigen Umgang mit ihnen verhindern. Darüber hinaus sind die Kontrollmassnahmen für jene Chemikalien, die als problematisch gelten oder bei denen es Bedenken gibt, oft unzureichend. Die Erfahrung zeigt, dass es meist lange dauert, bis die internationale Gemeinschaft angemessen reagiert.
+
+Ein aktuelles Beispiel ist UV-328, ein weit verbreiteter Zusatzstoff, der Kunststoffe vor UV-Licht schützt: Nachdem das langlebige und toxische Mittel jahrzehntelang global zum Einsatz gekommen war, schlug die Schweizer Regierung UV-328 erst vor kurzem für das Stockholmer Übereinkommen über persistente organische Schadstoffe zur globalen Regulierung vor. 3
+
+## Länder sollen Kontrolle stärken
+
+Nun gibt es positive Signale. Nächste Woche treffen sich die Umweltminister aller Länder, um die Weichen für das Umweltprogramm der Vereinten Nationen (UNEP) für die Jahre 2022 bis 2025 zu stellen. 4 Neben dem Klimawandel und dem Verlust der Artenvielfalt sollen neu auch Massnahmen gegen giftige Chemikalien, ermöglicht durch stärkeren Austausch zwischen Wissenschaft und Politik, eine zentrale Aufgabe des UNEP werden.
+
+Als Forschende der Umweltchemie unterstützen wir diese Agenda ausdrücklich. In einer «Perspective» in externe Seite Science haben wir zusammen mit einem interdisziplinären Team die weltweiten Verbindungen zwischen Wissenschaft und Politik im Bereich Chemikalien und Abfall untersucht – die Basis für fundierte Politikgestaltung. 5 Wir fanden eine stark fragmentierte Schnittstelle zwischen Wissenschaft und Politik vor, deren Fokus zu eng und deren Wirkung begrenzt ist.
+
+Unsere Studie identifiziert vier erhebliche Mängel im Zusammenspiel zwischen Wissenschaft und Politik, die ein effektives Management von Chemikalien und Abfällen behindern: Zu wenige Stoffe werden abgedeckt, es fehlt an Weitsicht und Frühwarnmechanismen, die Kommunikation ist in beide Richtungen mangelhaft, und die Möglichkeiten für wissenschaftliches Engagement sind begrenzt. Das schränkt die Fähigkeit der internationalen Gemeinschaft ein, wichtige Themen auf die Agenda zu setzen und gemeinsam zu verfolgen.
+
+Diese begrenzten Möglichkeiten stehen in scharfem Kontrast zur grossen Vielfalt an Chemikalien sowie zum zunehmenden Wissen über toxische Wirkungen.
+
+## Die Lücke schliessen
+
+Wir sind überzeugt: Ein zwischenstaatliches wissenschaftlich-politisches Gremium für Chemikalien und Abfälle könnte wesentlich dazu beitragen, die Belastung von Umwelt und Gesundheit durch Chemikalien zu bekämpfen – ähnlich wie das Intergovernmental Panel on Climate Change (IPCC) den Klimawandel oder die Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Service (IPBES) den Verlust der Artenvielfalt.
+
+Eine Kernfunktion dieses Gremiums wäre es, einen breiten Informationsaustausch zu fördern, indem es wissenschaftliche Erkenntnisse für politische Entscheidungsträgerinnen bereitstellt und Wissenschaftler über politikrelevante Fragen informiert. Als wesentliches Merkmal sollten Natur- und Sozialwissenschaftlerinnen, Juristen und Ökonominnen breit einbezogen werden. Dies würde es erleichtern, dass sich die Forschung wieder stärker für diese Schnittstellenfunktion engagiert.
+
+## Ein Aufruf
+
+Jede noch so lange Reise beginnt mit einem ersten Schritt. Wir rufen Regierungen und Interessenvertreter dazu auf, diesen notwendigen Schritt zu tun – für ein adäquates Management gefährlicher Chemikalien und Abfälle. Wir ermutigen zudem Universitäten, die Forschung und Lehre zu verschiedenen Aspekten der Chemikalienbelastung kontinuierlich zu unterstützen. 6 Das ist nicht nur für neue Erkenntnisse entscheidend, sondern auch für künftige Generationen von Fachleuten, die fähig sind, dieser global unterschätzten Gefahr zu begegnen.
+
+Zhanyun Wang verfasste diesen Beitrag mit Martin Scheringer .
+
+1 Wang Z, Walker GW, Muir DCG, Nagatani-Yoshida K. 2020. externe Seite Toward a global understanding of chemical pollution: a first comprehensive analysis of national and regional chemical inventories . Environmental Science & Technology 54(5), 2575–2584. DOI: 10.1021/acs.est.9b06379
+
+2 The Lancet: Global Burden of Disease. externe Seite GBD summaries
+
+3 Food Packaging Forum: externe Seite UV-328 qualifies for screening as POP
+
+4 United Nations Environment Assembly of the United Nations Environment Programme. 2020. For people and planet: externe Seite the United Nations Environment Programme strategy for 2022–2025 to tackle climate change, loss of nature and pollution . [Advance].
+
+5 Wang Z, Altenburger R, Backhaus T, Covaci A, Diamond ML, Grimalt JO, Lohmann R, Schäffer A, Scheringer M, Selin H, Soehl A, Suzuki N. 2021 externe Seite We need a global science-policy body on chemicals and waste . Science 371(6531), p. DOI: 10.1126/science.abe9090
+
+6 Scheringer M. 2017. externe Seite Environmental chemistry and ecotoxicology: in greater demand than ever. Environmental Sciences Europe 39, 3. DOI: 10.1186/s12302-016-0101-x
+
+Zhanyun Wang Senior Scientist am Lehrstuhl für Ökologisches System Design, ETH Zürich
+

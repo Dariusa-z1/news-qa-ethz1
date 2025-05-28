@@ -1,0 +1,200 @@
+{
+  "filename": "fire-safety-training-for-eth-members.md",
+  "original_filename": "fire-safety-training-for-eth-members.html",
+  "source_path": "en_internal/2015/09/fire-safety-training-for-eth-members.html",
+  "date": "2015-09",
+  "title": "Fire Safety Training For Eth Members",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The safety, security, health and environment (SSHE) staff unit offers fire safety training this year again. In the theoretical part, participants will be taught how to prevent fires from breaking out. In the practical part, the participants will learn how to behave in case of a fire. Each student will have the opportunity to fight a fire with a portable fire extinguisher and a fire blanket under expert guidance.\n\nThe course is free for all interested members of ETH. For some undergraduate students engaging in certain fields of study, participation is mandatory in the first semester. They will be informed by e-mail.\n\nThe courses will last just over one hour and will be carried out up to 16 October 2015. The participants can travel by public transport to the station \"ETH Hönggerberg\". From there, the course area can be reached by a short walk (about 10 minutes). There are no parking lots at the course site.\n\nThe course will take place outdoor and in all weather conditions. Therefore sturdy boots and waterproof clothing are essential.\n\nIf you are interested, please register on the website www.ethz.ch/safety under \"Training and continuing education/Fire safety training”.\n\nFor further information, please contact Mareike Ramforth, 044 632 80 02."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Safety Training For Eth",
+        "label": "ORG",
+        "start": 25,
+        "end": 48
+      },
+      {
+        "text": "SSHE",
+        "label": "ORG",
+        "start": 46,
+        "end": 50
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 465,
+        "end": 468
+      },
+      {
+        "text": "the first semester",
+        "label": "DATE",
+        "start": 569,
+        "end": 587
+      },
+      {
+        "text": "just over one hour",
+        "label": "TIME",
+        "start": 644,
+        "end": 662
+      },
+      {
+        "text": "16 October 2015",
+        "label": "DATE",
+        "start": 693,
+        "end": 708
+      },
+      {
+        "text": "about 10 minutes",
+        "label": "TIME",
+        "start": 852,
+        "end": 868
+      },
+      {
+        "text": "Mareike Ramforth",
+        "label": "PERSON",
+        "start": 1222,
+        "end": 1238
+      },
+      {
+        "text": "80 02",
+        "label": "DATE",
+        "start": 1248,
+        "end": 1253
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Mareike Ramforth"
+      ],
+      "ORG": [
+        "ETH",
+        "SSHE",
+        "Safety Training For Eth"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "16 October 2015",
+        "80 02",
+        "about 10 minutes",
+        "just over one hour",
+        "the first semester"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Safety Training For Eth": 1,
+      "SSHE": 1,
+      "ETH": 1,
+      "the first semester": 1,
+      "just over one hour": 1,
+      "16 October 2015": 1,
+      "about 10 minutes": 1,
+      "Mareike Ramforth": 1,
+      "80 02": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "fire-safety-training-for-eth-members.md",
+      "title": "En Internal/2015/09/fire Safety Training For Eth Members",
+      "language": "en",
+      "source_path": "en_internal/2015/09/fire-safety-training-for-eth-members.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Mareike Ramforth"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Mareike Ramforth",
+        "For Eth",
+        "Members The",
+        "En Internal",
+        "Safety Training"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "SSHE",
+        "Safety Training For Eth"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Safety Training For Eth",
+        "SSHE",
+        "ETH",
+        "the first semester",
+        "just over one hour",
+        "16 October 2015",
+        "about 10 minutes",
+        "Mareike Ramforth",
+        "80 02"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1316
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Mareike Ramforth",
+        "2015",
+        "SSHE",
+        "Safety Training For Eth"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

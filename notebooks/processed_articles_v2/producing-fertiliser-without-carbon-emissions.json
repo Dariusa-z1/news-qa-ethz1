@@ -1,0 +1,461 @@
+{
+  "filename": "producing-fertiliser-without-carbon-emissions.md",
+  "original_filename": "producing-fertiliser-without-carbon-emissions.html",
+  "source_path": "en_news_events/2022/12/producing-fertiliser-without-carbon-emissions.html",
+  "date": "2022-12",
+  "title": "Producing Fertiliser Without Carbon Emissions",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "India and China at risk",
+      "text": "Intensive agriculture is possible only if the soil is fertilised with nitrogen, phosphorus and potassium. While phosphorus and potassium can be mined as salts, nitrogen fertiliser has to be produced laboriously from nitrogen in the air and from hydrogen. And, the production of hydrogen is extremely energy-intensive, currently requiring large quantities of natural gas or – as in China – coal. Besides having a correspondingly large carbon footprint, nitrogen fertilizer production is vulnerable to price shocks on the fossil fuels markets.\n\nPaolo Gabrielli, Senior Scientist at the Laboratory of Reliability and Risk Engineering at ETH Zurich, has collaborated with Lorenzo Rosa, Principal Investigator at Carnegie Institution for Science in Stanford, US, to investigate various carbon-neutral production methods for nitrogen fertiliser. In a study published in the journal Environmental Research Letters, the two researchers conclude that a transition in nitrogen production is possible and that such a transition may also increase food security. However, alternative production methods have advantages and disadvantages. Specifically, the two researchers examined three alternatives:\n\nThe scientists state that the key to success is likely to be a combination of all these approaches depending on the country and on specific local conditions and available resources. In any case, it is imperative that agriculture make a more efficient use of nitrogen fertilisers, as Rosa stresses: “Addressing problems like over-fertilisation and food waste is also a way to reduce the need for fertiliser.”"
+    },
+    {
+      "heading": "India and China at risk",
+      "text": "In the study, the scientists also sought to identify the countries of the world in which food security is currently particularly at risk owing to their dependence on imports of nitrogen or natural gas. The following countries are particularly vulnerable to price shocks in the natural gas and nitrogen markets: India, Brazil, China, France, Turkey and Germany.\n\nDecarbonising fertiliser production would in many cases reduce this vulnerability and increase food security. At the very least, electrification via renewables or the use of biomass would reduce the dependence on natural gas imports. However, the researchers put this point into perspective: all carbon-neutral methods of producing nitrogen fertiliser are more energy intensive than the current method of using fossil fuels. In other words, they are still vulnerable to certain price shocks – not on natural gas markets directly, but perhaps on electricity markets."
+    },
+    {
+      "heading": "Nitrogen producers facing change",
+      "text": "Decarbonisation is likely to change the line-up of countries that produce nitrogen fertiliser, the scientists point out in their study. As things stand, the largest nitrogen exporting nations are Russia, China, Egypt, Qatar and Saudi Arabia. Except for China, which has to import natural gas, all these countries can draw on their own natural gas reserves. In the future, the countries that are likely to benefit from decarbonisation are those that generate a lot of solar and wind power and also have sufficient reserves of land and water, such as Canada and the United States.\n\n“There’s no getting around the fact that we need to make agricultural demand for nitrogen more sustainable in the future, both for meeting climate targets and for food security reasons,” Gabrielli says. War in Ukraine is affecting the global food market not only because the country normally exports a lot of grain, but also because the conflict has driven natural gas prices higher. This in turn has caused prices for nitrogen fertilisers to rise. Even so, some fertiliser producers are known to have ceased production, at least temporarily, because the exorbitant cost of gas makes production uneconomical for them.\n\nRosa L, Gabrielli P: Energy and food security implications of transitioning synthetic nitrogen fertilizers to net-zero emissions, Environmental Research Letters 2022, doi: 10.1088/1748-9326/aca815"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Fertiliser Without Carbon Emissions",
+        "label": "ORG",
+        "start": 33,
+        "end": 68
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 381,
+        "end": 386
+      },
+      {
+        "text": "Paolo Gabrielli",
+        "label": "PERSON",
+        "start": 542,
+        "end": 557
+      },
+      {
+        "text": "the Laboratory of Reliability and Risk Engineering",
+        "label": "ORG",
+        "start": 579,
+        "end": 629
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 633,
+        "end": 643
+      },
+      {
+        "text": "Lorenzo Rosa",
+        "label": "PERSON",
+        "start": 667,
+        "end": 679
+      },
+      {
+        "text": "Carnegie Institution for Science",
+        "label": "ORG",
+        "start": 707,
+        "end": 739
+      },
+      {
+        "text": "Stanford",
+        "label": "GPE",
+        "start": 743,
+        "end": 751
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 753,
+        "end": 755
+      },
+      {
+        "text": "Environmental Research Letters",
+        "label": "ORG",
+        "start": 875,
+        "end": 905
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 911,
+        "end": 914
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1142,
+        "end": 1145
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1167,
+        "end": 1172
+      },
+      {
+        "text": "Rosa",
+        "label": "PERSON",
+        "start": 1470,
+        "end": 1474
+      },
+      {
+        "text": "India",
+        "label": "GPE",
+        "start": 311,
+        "end": 316
+      },
+      {
+        "text": "Brazil",
+        "label": "GPE",
+        "start": 318,
+        "end": 324
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 326,
+        "end": 331
+      },
+      {
+        "text": "France",
+        "label": "GPE",
+        "start": 333,
+        "end": 339
+      },
+      {
+        "text": "Turkey",
+        "label": "GPE",
+        "start": 341,
+        "end": 347
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 352,
+        "end": 359
+      },
+      {
+        "text": "Russia",
+        "label": "GPE",
+        "start": 196,
+        "end": 202
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 204,
+        "end": 209
+      },
+      {
+        "text": "Egypt",
+        "label": "GPE",
+        "start": 211,
+        "end": 216
+      },
+      {
+        "text": "Qatar",
+        "label": "GPE",
+        "start": 218,
+        "end": 223
+      },
+      {
+        "text": "Saudi Arabia",
+        "label": "GPE",
+        "start": 228,
+        "end": 240
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 253,
+        "end": 258
+      },
+      {
+        "text": "Canada",
+        "label": "GPE",
+        "start": 549,
+        "end": 555
+      },
+      {
+        "text": "the United States",
+        "label": "GPE",
+        "start": 560,
+        "end": 577
+      },
+      {
+        "text": "Gabrielli",
+        "label": "PERSON",
+        "start": 766,
+        "end": 775
+      },
+      {
+        "text": "Ukraine",
+        "label": "GPE",
+        "start": 789,
+        "end": 796
+      },
+      {
+        "text": "Rosa L",
+        "label": "PERSON",
+        "start": 1197,
+        "end": 1203
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 1311,
+        "end": 1315
+      },
+      {
+        "text": "Environmental Research Letters",
+        "label": "ORG",
+        "start": 1327,
+        "end": 1357
+      },
+      {
+        "text": "10.1088/1748-9326",
+        "label": "CARDINAL",
+        "start": 1369,
+        "end": 1386
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Gabrielli",
+        "Lorenzo Rosa",
+        "Paolo Gabrielli",
+        "Rosa",
+        "Rosa L"
+      ],
+      "ORG": [
+        "Carnegie Institution for Science",
+        "Environmental Research Letters",
+        "Fertiliser Without Carbon Emissions",
+        "the Laboratory of Reliability and Risk Engineering"
+      ],
+      "LOCATION": [
+        "Brazil",
+        "Canada",
+        "China",
+        "ETH Zurich",
+        "Egypt",
+        "France",
+        "Germany",
+        "India",
+        "Qatar",
+        "Russia",
+        "Saudi Arabia",
+        "Stanford",
+        "Turkey",
+        "US",
+        "Ukraine",
+        "the United States"
+      ],
+      "DATE": [],
+      "MISC": [
+        "10.1088/1748-9326",
+        "three",
+        "two",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "China": 4,
+      "Environmental Research Letters": 2,
+      "two": 2,
+      "Fertiliser Without Carbon Emissions": 1,
+      "Paolo Gabrielli": 1,
+      "the Laboratory of Reliability and Risk Engineering": 1,
+      "ETH Zurich": 1,
+      "Lorenzo Rosa": 1,
+      "Carnegie Institution for Science": 1,
+      "Stanford": 1,
+      "US": 1,
+      "three": 1,
+      "Rosa": 1,
+      "India": 1,
+      "Brazil": 1,
+      "France": 1,
+      "Turkey": 1,
+      "Germany": 1,
+      "Russia": 1,
+      "Egypt": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "producing-fertiliser-without-carbon-emissions.md",
+      "title": "En News Events/2022/12/producing Fertiliser Without Carbon Emissions",
+      "language": "en",
+      "source_path": "en_news_events/2022/12/producing-fertiliser-without-carbon-emissions.html"
+    },
+    "temporal": {
+      "publication_date": "2022-12",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Gabrielli",
+        "Lorenzo Rosa",
+        "Paolo Gabrielli",
+        "Rosa",
+        "Rosa L"
+      ],
+      "people_with_roles": {
+        "Gabrielli": [
+          "scientist"
+        ],
+        "Lorenzo Rosa": [
+          "scientist"
+        ],
+        "Paolo Gabrielli": [
+          "scientist"
+        ],
+        "Rosa": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology"
+      ],
+      "research_topics": [
+        "10.1088/1748-9326",
+        "three",
+        "zero"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Risk Engineering",
+        "Environmental Research",
+        "Paolo Gabrielli",
+        "En News",
+        "Lorenzo Rosa",
+        "Principal Investigator",
+        "Rosa L",
+        "Carbon Emissions",
+        "Senior Scientist",
+        "Carnegie Institution",
+        "Saudi Arabia",
+        "Gabrielli P",
+        "ETH Zurich",
+        "Fertiliser Without",
+        "United States"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Carnegie Institution for Science",
+        "Environmental Research Letters",
+        "Fertiliser Without Carbon Emissions",
+        "the Laboratory of Reliability and Risk Engineering"
+      ],
+      "locations": [
+        "Brazil",
+        "Canada",
+        "China",
+        "ETH Zurich",
+        "Egypt",
+        "France",
+        "Germany",
+        "India",
+        "Qatar",
+        "Russia",
+        "Saudi Arabia",
+        "Stanford",
+        "Turkey",
+        "US",
+        "Ukraine",
+        "the United States"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "China",
+        "Environmental Research Letters",
+        "two",
+        "Fertiliser Without Carbon Emissions",
+        "Paolo Gabrielli",
+        "the Laboratory of Reliability and Risk Engineering",
+        "ETH Zurich",
+        "Lorenzo Rosa",
+        "Carnegie Institution for Science",
+        "Stanford"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "India and China at risk",
+          "India and China at risk",
+          "Nitrogen producers facing change"
+        ],
+        "content_length": 3989
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Rosa L",
+        "Paolo Gabrielli",
+        "Environmental Research Letters",
+        "Gabrielli",
+        "EU",
+        "Carnegie Institution for Science",
+        "Fertiliser Without Carbon Emissions",
+        "the Laboratory of Reliability and Risk Engineering",
+        "2022",
+        "Lorenzo Rosa",
+        "Rosa"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1088/1748-9326",
+        "zero",
+        "three",
+        "who",
+        "what",
+        "how",
+        "climate_change",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Gabrielli_has_role_scientist",
+        "Lorenzo Rosa_has_role_scientist",
+        "Paolo Gabrielli_has_role_scientist",
+        "Rosa_has_role_scientist",
+        "research_domain_climate_change",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

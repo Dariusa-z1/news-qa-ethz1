@@ -1,0 +1,459 @@
+{
+  "filename": "breaking-down-plastic-into-its-constituent-parts.md",
+  "original_filename": "breaking-down-plastic-into-its-constituent-parts.html",
+  "source_path": "en_news_events/2022/03/breaking-down-plastic-into-its-constituent-parts.html",
+  "date": "2022-03",
+  "title": "Breaking Down Plastic Into Its Constituent Parts",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Breaking down polymers is the goal",
+      "text": "The chemical industry has a long tradition of producing polymers. This involves turning small molecular building blocks into long chains of molecules that bond together. Polymers are the basis of all kinds of everyday plastics, such as PET and polyurethane.\n\nHowever, while the formation of polymers is well established and well researched, scientists have given little attention to how polymer chains are broken down (a process called depolymerisation) to recover their individual building blocks – monomers. One reason for this is that breaking down polymers is a complex process. Whether a polymer can be broken back down at all into its constituent parts depends on which of the different polymer manufacturing processes were used. Another reason is that the depolymerisation processes used to date require a lot of energy, which has made them economically unviable. Added to this is the fact that recycled polymers are usually only used in the manufacture of low-value products."
+    },
+    {
+      "heading": "Breaking down polymers is the goal",
+      "text": "Athina Anastasaki, Professor of Polymeric Materials at ETH Zurich, wants to change this. She has set herself the goal of producing polymers that can be easily broken down into their building blocks so that they can be fully recycled.\n\nThe materials scientist has been able to take a first important step in this direction: A study by her group has just been published in the Journal of the American Chemical Society . In it, Anastasaki and her colleagues show that they can break down certain polymers into their basic building blocks – monomers – and recycle them for use in materials for further applications.\n\nThe polymers broken down are polymethacrylates (e.g. Plexi Glass) that were produced using a specific polymerisation technique called reversible addition-fragmentation chain-transfer polymerisation – otherwise known as RAFT. This relatively new method, which is now also attracting the interest of industry, produces polymer chains of uniform length."
+    },
+    {
+      "heading": "First success",
+      "text": "The researchers at ETH Zurich have succeeded in recovering up to 92 percent of the building blocks of polymethacrylates without adding a catalyst that would enable or accelerate the reaction. “Our method could conceivably be developed even further to involve the use of a catalyst. This could increase the amount recovered even more,” says Anastasaki.\n\nThe chemical group present at the end of a polymer chain is crucial for the polymer’s breakdown. By heating the polymer solvent mixture to 120°C, the researchers created what are referred to as “radicals” at the end of a polymethacrylate chain, which triggered the depolymerisation. Researchers at the Australian National University in Canberra were able to confirm the results mathematically."
+    },
+    {
+      "heading": "Producing the same or a different product",
+      "text": "According to Anastasaki, the building blocks recovered in this way can be used to produce the same polymer or a completely different product – an insoluble hydrogel that can also be broken down into its monomers. The newly created products are of similar quality to the original ones. This is in contrast to previous products made from recycled polymers."
+    },
+    {
+      "heading": "Reference",
+      "text": "But there is a catch: “Products made with RAFT polymerisation are more expensive than conventional polymers,” says Anastasaki. To address this drawback, she and her group are already working on expanding the method for large-scale applications, which will make it more competitive and the resulting products cheaper. The researchers also aim to increase the amount retrieved and recover all the building blocks of a polymer.\n\nThe materials scientist is also researching whether other polymers can be depolymerised. She is particularly interested in polystyrene, a widespread, low-cost plastic that is used in many areas of everyday life (Styrofoam).\n\nEven if this new method raises hopes of solving mankind’s plastic waste problem, Anastasaki dismisses the idea for the time being. There is no quick fix to the problem. She goes on to say. “It will take a lot of time and research before the process is established in the chemical industry.” Nor will it get rid of plastic waste: today’s polymers cannot be broken down in this way. Some new, suitable polymers have to come into circulation before their building blocks can be recovered. But the method has one advantage: no new chemical plants are needed for its introduction and use.\n\n“We are only at the beginning of our research into depolymerisation. There are over 30,000 studies on developing new polymerisation strategies, with only a handful of them addressing the subject of monomer recovery,” says Anastasaki.\n\nWang HS, Truong NP, Pei Z, Coote ML, Anastasaki A. Reversing RAFT Polymerization: Near-Quantitative Monomer Generation Via a Catalyst-Free Depolymerization Approach. Journal of the American Chemical Society, February 25, 2022. doi: 10.1021/jacs.2c00963"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Down Plastic Into Its Constituent Parts",
+        "label": "WORK_OF_ART",
+        "start": 32,
+        "end": 71
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 236,
+        "end": 239
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 509,
+        "end": 512
+      },
+      {
+        "text": "Athina Anastasaki",
+        "label": "PERSON",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "Polymeric Materials",
+        "label": "PERSON",
+        "start": 32,
+        "end": 51
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 55,
+        "end": 65
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 282,
+        "end": 287
+      },
+      {
+        "text": "the Journal of the American Chemical Society",
+        "label": "ORG",
+        "start": 370,
+        "end": 414
+      },
+      {
+        "text": "Anastasaki",
+        "label": "ORG",
+        "start": 424,
+        "end": 434
+      },
+      {
+        "text": "Plexi Glass",
+        "label": "PERSON",
+        "start": 664,
+        "end": 675
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 19,
+        "end": 29
+      },
+      {
+        "text": "up to 92 percent",
+        "label": "PERCENT",
+        "start": 59,
+        "end": 75
+      },
+      {
+        "text": "Anastasaki",
+        "label": "PERSON",
+        "start": 340,
+        "end": 350
+      },
+      {
+        "text": "the Australian National University",
+        "label": "ORG",
+        "start": 650,
+        "end": 684
+      },
+      {
+        "text": "Canberra",
+        "label": "GPE",
+        "start": 688,
+        "end": 696
+      },
+      {
+        "text": "Anastasaki",
+        "label": "ORG",
+        "start": 13,
+        "end": 23
+      },
+      {
+        "text": "Anastasaki",
+        "label": "PERSON",
+        "start": 115,
+        "end": 125
+      },
+      {
+        "text": "Styrofoam",
+        "label": "PERSON",
+        "start": 637,
+        "end": 646
+      },
+      {
+        "text": "Anastasaki",
+        "label": "ORG",
+        "start": 730,
+        "end": 740
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 978,
+        "end": 983
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1154,
+        "end": 1157
+      },
+      {
+        "text": "over 30,000",
+        "label": "CARDINAL",
+        "start": 1312,
+        "end": 1323
+      },
+      {
+        "text": "Anastasaki",
+        "label": "PERSON",
+        "start": 1455,
+        "end": 1465
+      },
+      {
+        "text": "Wang HS",
+        "label": "PERSON",
+        "start": 1467,
+        "end": 1474
+      },
+      {
+        "text": "Truong NP",
+        "label": "PERSON",
+        "start": 1476,
+        "end": 1485
+      },
+      {
+        "text": "Pei Z",
+        "label": "PERSON",
+        "start": 1487,
+        "end": 1492
+      },
+      {
+        "text": "Anastasaki A. Reversing",
+        "label": "PERSON",
+        "start": 1504,
+        "end": 1527
+      },
+      {
+        "text": "the American Chemical Society",
+        "label": "ORG",
+        "start": 1644,
+        "end": 1673
+      },
+      {
+        "text": "February 25, 2022",
+        "label": "DATE",
+        "start": 1675,
+        "end": 1692
+      },
+      {
+        "text": "10.1021",
+        "label": "CARDINAL",
+        "start": 1699,
+        "end": 1706
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Anastasaki",
+        "Anastasaki A. Reversing",
+        "Athina Anastasaki",
+        "Pei Z",
+        "Plexi Glass",
+        "Polymeric Materials",
+        "Styrofoam",
+        "Truong NP",
+        "Wang HS"
+      ],
+      "ORG": [
+        "Anastasaki",
+        "ETH Zurich",
+        "PET",
+        "the American Chemical Society",
+        "the Australian National University",
+        "the Journal of the American Chemical Society"
+      ],
+      "LOCATION": [
+        "Canberra",
+        "ETH Zurich"
+      ],
+      "DATE": [
+        "February 25, 2022",
+        "today"
+      ],
+      "MISC": [
+        "10.1021",
+        "Down Plastic Into Its Constituent Parts",
+        "One",
+        "first",
+        "one",
+        "over 30,000",
+        "up to 92 percent"
+      ]
+    },
+    "entity_counts": {
+      "Anastasaki": 6,
+      "ETH Zurich": 2,
+      "Down Plastic Into Its Constituent Parts": 1,
+      "PET": 1,
+      "One": 1,
+      "Athina Anastasaki": 1,
+      "Polymeric Materials": 1,
+      "first": 1,
+      "the Journal of the American Chemical Society": 1,
+      "Plexi Glass": 1,
+      "up to 92 percent": 1,
+      "the Australian National University": 1,
+      "Canberra": 1,
+      "Styrofoam": 1,
+      "today": 1,
+      "one": 1,
+      "over 30,000": 1,
+      "Wang HS": 1,
+      "Truong NP": 1,
+      "Pei Z": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "breaking-down-plastic-into-its-constituent-parts.md",
+      "title": "En News Events/2022/03/breaking Down Plastic Into Its Constituent Parts",
+      "language": "en",
+      "source_path": "en_news_events/2022/03/breaking-down-plastic-into-its-constituent-parts.html"
+    },
+    "temporal": {
+      "publication_date": "2022-03",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Anastasaki",
+        "Anastasaki A. Reversing",
+        "Athina Anastasaki",
+        "Pei Z",
+        "Plexi Glass",
+        "Polymeric Materials",
+        "Styrofoam",
+        "Truong NP",
+        "Wang HS"
+      ],
+      "people_with_roles": {
+        "Anastasaki": [
+          "professor"
+        ],
+        "Athina Anastasaki": [
+          "professor"
+        ],
+        "Polymeric Materials": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1021",
+        "Down Plastic Into Its Constituent Parts",
+        "first",
+        "over 30,000",
+        "up to 92 percent"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Australian National",
+        "Depolymerization Approach",
+        "Plexi Glass",
+        "Catalyst-Free",
+        "Wang HS",
+        "Monomer Generation",
+        "Coote ML",
+        "Down Plastic",
+        "Near-Quantitative",
+        "Constituent Parts",
+        "Anastasaki A",
+        "American Chemical",
+        "Athina Anastasaki",
+        "Into Its",
+        "Reversing RAFT",
+        "En News",
+        "Polymeric Materials",
+        "Truong NP",
+        "Pei Z",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Anastasaki",
+        "ETH Zurich",
+        "PET",
+        "the American Chemical Society",
+        "the Australian National University",
+        "the Journal of the American Chemical Society"
+      ],
+      "locations": [
+        "Canberra",
+        "ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Anastasaki",
+        "ETH Zurich",
+        "Down Plastic Into Its Constituent Parts",
+        "PET",
+        "One",
+        "Athina Anastasaki",
+        "Polymeric Materials",
+        "first",
+        "the Journal of the American Chemical Society",
+        "Plexi Glass"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Breaking down polymers is the goal",
+          "Breaking down polymers is the goal",
+          "First success",
+          "Producing the same or a different product",
+          "Reference"
+        ],
+        "content_length": 4845
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Anastasaki",
+        "Styrofoam",
+        "Polymeric Materials",
+        "Truong NP",
+        "Plexi Glass",
+        "the Australian National University",
+        "Pei Z",
+        "ETH Zurich",
+        "the American Chemical Society",
+        "the Journal of the American Chemical Society",
+        "Anastasaki A. Reversing",
+        "2022",
+        "Athina Anastasaki",
+        "Wang HS",
+        "ERC",
+        "PET"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "up to 92 percent",
+        "why",
+        "who",
+        "over 30,000",
+        "chemistry",
+        "where",
+        "biology",
+        "10.1021",
+        "what",
+        "how",
+        "Down Plastic Into Its Constituent Parts",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Anastasaki_has_role_professor",
+        "Athina Anastasaki_has_role_professor",
+        "Polymeric Materials_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

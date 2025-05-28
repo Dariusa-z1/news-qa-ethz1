@@ -1,0 +1,171 @@
+{
+  "filename": "pr-suspected-hacker-arrested.md",
+  "original_filename": "pr-suspected-hacker-arrested.html",
+  "source_path": "en_news_events/2016/02/pr-suspected-hacker-arrested.html",
+  "date": "2016-02",
+  "title": "Pr Suspected Hacker Arrested",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Security measures to protect the ETH network from further attacks were introduced without delay. Thanks to effective cooperation between the cybercrime unit (CYC) and the ETH Zurich IT service, it was possible to apprehend the suspected hacker quickly. The suspect is an ETH student. ETH Zurich is now analysing the situation and enacting a reconstruction of the unauthorised action. They will then use their findings to identify and implement the necessary measures.\n\nETH Zurich Media Relations Phone: +41 44 632 41 41"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Suspected Hacker Arrested",
+        "label": "ORG",
+        "start": 26,
+        "end": 51
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "CYC",
+        "label": "ORG",
+        "start": 158,
+        "end": 161
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 167,
+        "end": 181
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 271,
+        "end": 274
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 284,
+        "end": 294
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 468,
+        "end": 478
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "CYC",
+        "ETH",
+        "ETH Zurich",
+        "Suspected Hacker Arrested",
+        "the ETH Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "ETH Zurich": 2,
+      "Suspected Hacker Arrested": 1,
+      "CYC": 1,
+      "the ETH Zurich": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "pr-suspected-hacker-arrested.md",
+      "title": "En News Events/2016/02/pr Suspected Hacker Arrested",
+      "language": "en",
+      "source_path": "en_news_events/2016/02/pr-suspected-hacker-arrested.html"
+    },
+    "temporal": {
+      "publication_date": "2016-02",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Suspected Hacker",
+        "Arrested Security",
+        "En News",
+        "ETH Zurich",
+        "Media Relations"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CYC",
+        "ETH",
+        "ETH Zurich",
+        "Suspected Hacker Arrested",
+        "the ETH Zurich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH",
+        "ETH Zurich",
+        "Suspected Hacker Arrested",
+        "CYC",
+        "the ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 571
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the ETH Zurich",
+        "Suspected Hacker Arrested",
+        "2016",
+        "CYC",
+        "ETH Zurich",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

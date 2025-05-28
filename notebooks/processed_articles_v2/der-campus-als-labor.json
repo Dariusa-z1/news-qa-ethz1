@@ -1,0 +1,233 @@
+{
+  "filename": "der-campus-als-labor.md",
+  "original_filename": "der-campus-als-labor.html",
+  "source_path": "de_internal/2015/06/der-campus-als-labor.html",
+  "date": "2015-06",
+  "title": "Der Campus Als Labor",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Juni-Ausgabe von «life – Das Magazin für die ETH-Community» handelt davon, wie Wissenschaftlerinnen und Wissenschaftler der ETH Zürich aus dem Alltag an der Hochschule Rückschlüsse auf die Forschung ziehen können. Sowohl der ETH-Campus Hönggerberg als auch der Standort im Zentrum sind interessante Testfelder der Nachhaltigkeit. Zum Beispiel wird auf den zahlreichen Grünflächen nachhaltig gegärtnert.\n\nSeit Jahresbeginn ist Lino Guzzella der Präsident der ETH Zürich. Mit «life» spricht er über seine Verantwortung und darüber, wieso es im globalen Wettbewerb so wichtig ist, dass sich die ETH von anderen Hochschulen abhebt.\n\nEin dritter Fokus des Magazins liegt auf dem Bedrohungsmanagement. Katherine Timmel, die Leiterin des Stabs Sicherheit, Gesundheit und Umwelt (SGU) der ETH Zürich, erklärt, was ETH-Angehörige tun können, um Gewalttaten auf dem Campus zu verhindern."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/06/der Campus",
+        "label": "LOC",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "ETH-Community",
+        "label": "MISC",
+        "start": 49,
+        "end": 62
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 128,
+        "end": 138
+      },
+      {
+        "text": "Hochschule Rückschlüsse",
+        "label": "ORG",
+        "start": 161,
+        "end": 184
+      },
+      {
+        "text": "ETH-Campus Hönggerberg",
+        "label": "LOC",
+        "start": 229,
+        "end": 251
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 277,
+        "end": 284
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PER",
+        "start": 429,
+        "end": 442
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 461,
+        "end": 471
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 595,
+        "end": 598
+      },
+      {
+        "text": "Katherine Timmel",
+        "label": "PER",
+        "start": 698,
+        "end": 714
+      },
+      {
+        "text": "SGU",
+        "label": "ORG",
+        "start": 774,
+        "end": 777
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 783,
+        "end": 793
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 808,
+        "end": 822
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Katherine Timmel",
+        "Lino Guzzella"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "Hochschule Rückschlüsse",
+        "SGU",
+        "Zentrum"
+      ],
+      "LOCATION": [
+        "De Internal/2015/06/der Campus",
+        "ETH-Campus Hönggerberg"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige",
+        "ETH-Community"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 3,
+      "De Internal/2015/06/der Campus": 1,
+      "ETH-Community": 1,
+      "Hochschule Rückschlüsse": 1,
+      "ETH-Campus Hönggerberg": 1,
+      "Zentrum": 1,
+      "Lino Guzzella": 1,
+      "ETH": 1,
+      "Katherine Timmel": 1,
+      "SGU": 1,
+      "ETH-Angehörige": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "der-campus-als-labor.md",
+      "title": "De Internal/2015/06/der Campus Als Labor",
+      "language": "de",
+      "source_path": "de_internal/2015/06/der-campus-als-labor.html"
+    },
+    "temporal": {
+      "publication_date": "2015-06",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Katherine Timmel",
+        "Lino Guzzella"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Angehörige",
+        "ETH-Community"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Campus Als",
+        "ETH-Community",
+        "Juni-Ausgabe",
+        "Zum Beispiel",
+        "De Internal",
+        "Katherine Timmel",
+        "Stabs Sicherheit",
+        "Labor Die",
+        "Das Magazin",
+        "ETH-Campus",
+        "Lino Guzzella",
+        "Seit Jahresbeginn"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "Hochschule Rückschlüsse",
+        "SGU",
+        "Zentrum"
+      ],
+      "locations": [
+        "De Internal/2015/06/der Campus",
+        "ETH-Campus Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2015/06/der Campus",
+        "ETH-Community",
+        "Hochschule Rückschlüsse",
+        "ETH-Campus Hönggerberg",
+        "Zentrum",
+        "Lino Guzzella",
+        "ETH",
+        "Katherine Timmel",
+        "SGU"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 922
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2015",
+        "Hochschule Rückschlüsse",
+        "Katherine Timmel",
+        "ETH Zürich",
+        "Zentrum",
+        "Lino Guzzella",
+        "SGU"
+      ],
+      "semantic_concepts": [
+        "ETH-Angehörige",
+        "ETH-Community"
+      ],
+      "graph_relations": []
+    }
+  }
+}

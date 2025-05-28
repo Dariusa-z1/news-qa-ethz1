@@ -1,0 +1,32 @@
+# vom-tabak-zum-cyberholz.html
+
+**Source:** de_news_events/2015/03/vom-tabak-zum-cyberholz.html
+
+## Wasser durch Nanoröhrchen ersetzt
+
+Seit jeher lässt sich die Menschheit von der Natur inspirieren, und sie ahmt diese nach, um neue Technologien zu entwickeln. Die Beispiele reichen vom Maschinenbau über die Pharmazie bis hin zu neuartigen Materialien. So sind Flugzeuge Vögeln nachempfunden, und viele Medikamente haben ihren Ursprung in pflanzlichen Wirkstoffen. Forschende am Departement Maschinenbau und Verfahrenstechnik gingen nun einen Schritt weiter: Um einen extrem empfindlichen Temperatursensor zu entwickeln, bedienten sie sich temperaturempfindlichen pflanzlichen Zellen. Allerdings ahmten sie nicht die Eigenschaften dieser Zellen nach, sondern entwickelten ein Hybridmaterial, das neben synthetischen Komponenten auch die pflanzlichen Zellen selbst enthält. «Wir lassen die Natur für uns arbeiten», fasst Chiara Daraio, Professorin für Mechanik und Materialien, den Ansatz zusammen.
+
+So gelang es den Wissenschaftlern, den mit Abstand empfindlichsten Temperatursensor zu entwickeln, das heisst einen elektronischen Baustein, der seine Leitfähigkeit in Abhängigkeit mit der Temperatur ändert. «Bei keinem anderen Sensor führen so geringe Temperaturschwankungen zu so grossen Änderungen der Leitfähigkeit, unser Sensor reagiert mindestens hundertmal stärker als die besten existierenden Sensoren», sagt Raffaele Di Giacomo, Postdoc in der Gruppe von Daraio.
+
+## Wasser durch Nanoröhrchen ersetzt
+
+Dass Pflanzen die ausserordentliche Fähigkeit haben, bereits sehr geringe Temperaturunterschiede zu erkennen und darauf mit Änderungen in der Leitfähigkeit ihrer Zellen zu reagieren, ist schon seit Jahrzehnten bekannt. Pflanzen sind dabei besser als jeder menschgemachte Sensor.
+
+## Geliermolekül Pektin in einer Schlüsselrolle
+
+Cyberholz unter dem Rasterelektronenmikroskop, wo die holzähnliche Struktur sichtbar wird. (Foto: Di Giacomo R et al. PNAS 2015)
+
+Di Giacomo experimentierte mit Tabakzellen in Zellkultur. «Wir stellten uns die Frage, wie wir diese Zellen in ein lebloses, trockenes Material überführen können, und zwar auf eine Weise, dass ihre temperatursensitiven Eigenschaften erhalten bleiben», sagt er. Das Ziel erreichte der Wissenschaftler, indem er die Zellen in einem Medium wachsen liess, dass sehr kleine Röhrchen aus Kohlenstoff enthielt. Diese elektrisch leitenden «Carbon Nanotubes» bildeten ein Netzwerk zwischen den Tabakzellen und waren ausserdem in der Lage, deren Zellwand zu durchdringen. Als Di Giacomo die so kultivierten Zellen trocknete, erhielt er ein holzähnliches festes Material, das er Cyberholz nennt. Im Gegensatz zu Holz ist es wegen den Nanotubes elektrisch leitend, und interessanterweise ist diese Leitfähigkeit wie bei den lebenden Tabakzellen in Zellkultur temperaturabhängig und extrem empfindlich.
+
+## «Berührungsloser Touchscreen»
+
+Wie Tests zeigten, kann dieser Cyberholz-Sensor warme Körper sogar auf Distanz erkennen, zum Beispiel eine Hand, die sich dem Sensor auf wenige Dutzend Zentimeter nähert. Die Leitfähigkeit des Sensors hängt dabei direkt von der Distanz der Hand zum Sensor ab.
+
+Anwendungsmöglichkeiten für das Cyberholz gibt es nach Ansicht der Wissenschaftler viele. Sie denken etwa daran, einen «berührungsloser Touchscreen» zu entwickeln, der sich über Gesten steuern lässt. Die Gesten würden über mehrere Temperatursensoren erfasst werden. Ebenfalls möglich wären Wärmebildkameras oder Nachtsichtgeräte.
+
+Die Wissenschaftler der ETH Zürich und ein Kollege der Universität Salerno, Italien, untersuchten nicht nur im Detail die Eigenschaften ihres neuen Materials, sondern auch dessen Wirkmechanismus. So fanden sie heraus, dass sowohl in den Tabakzellen in Kultur als auch im getrockneten Cyberholz sogenannten Pektinen sowie geladenen Atomen (Ionen) Schlüsselrollen zukommen. Pektine sind Zuckermoleküle, die in der Zellwand von Pflanzen vorkommen und sich zu einem Gel vernetzen können, wobei diese Vernetzung temperaturabhängig ist. In diesem Gel sind auch Kalzium- und Magnesium-Ionen vorhanden. «Mit zunehmenden Temperaturen nimmt die Vernetzung der Pektine ab, das Gel wird weicher, und die Ionen können sich freier bewegen», erklärt Di Giacomo. Als Folge davon leitet das Material bei höheren Temperaturen Strom besser.
+
+Die Wissenschaftler haben den Sensor nun zum Patent angemeldet. In weiterer Arbeit entwickeln sie ihn nun weiter, so dass er nicht mit Pflanzenzellen, sondern im Wesentlichen nur mit Pektin und Ionen funktioniert. Auf diese Weise möchten sie einen beweglichen, lichtdurchlässigen und biokompatiblen Sensor mit derselben extrem hohen Temperatursensitivität bauen. Ein solcher könnte in beliebige Formen gebracht und kostengünstig hergestellt werden, worin die Forschenden ganz neue Anwendungsmöglichkeiten sehen, unter anderem in der Biomedizin und in günstigen Wärmebildkameras.
+
+Di Giacomo R, Daraio C, Maresca B: Plant nanobionic materials with a giant temperature response mediated by pectin-Ca 2+ . PNAS 30. März 2015, doi: externe Seite 10.1073/pnas.1421020112
+

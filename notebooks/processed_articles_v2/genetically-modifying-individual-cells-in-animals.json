@@ -1,0 +1,583 @@
+{
+  "filename": "genetically-modifying-individual-cells-in-animals.md",
+  "original_filename": "genetically-modifying-individual-cells-in-animals.html",
+  "source_path": "en_news_events/2023/09/genetically-modifying-individual-cells-in-animals.html",
+  "date": "2023-09",
+  "title": "Genetically Modifying Individual Cells In Animals",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- Researchers combined the modification of many genes in living adult animals using the CRISPR-Cas gen scissors with the subsequent analysis of single cells.\n\n- This lets them switch off different genes in the individual cells of an organ, thus creating a mosaic of genetically different cells, and study the effects.\n\n- The method simplifies and accelerates animal research and is particularly suitable for studying diseases with complex genetic causes."
+    },
+    {
+      "heading": "First time in adult animals",
+      "text": "One proven method for tracking down the genetic causes of diseases is to knock out a single gene in animals and study the consequences this has for the organism. The problem is that for many diseases, the pathology is determined by multiple genes. This makes it extremely difficult for scientists to determine the extent to which any one of the genes is involved in the disease. To do this, they would have to perform many animal experiments – one for each desired gene modification.\n\nResearchers led by Randall Platt, Professor of Biological Engineering at the Department of Biosystems Science and Engineering at ETH Zurich in Basel, have now developed a method that will greatly simplify and speed up research with laboratory animals: using the CRISPR-Cas gene scissors, they simultaneously make several dozen gene changes in the cells of a single animal, much like a mosaic. While no more than one gene is altered in each cell, the various cells within an organ are altered in different ways. Individual cells can then be precisely analysed. This enables researchers to study the ramifications of many different gene changes in a single experiment."
+    },
+    {
+      "heading": "First time in adult animals",
+      "text": "For the first time, the ETH Zurich researchers have now successfully applied this approach in living animals – specifically, in adult mice – as they report in the current issue of Nature. Other scientists had previously developed a similar approach for cells in culture or animal embryos.\n\nTo “inform” the mice’s cells as to which genes the CRISPR-Cas gene scissors should destroy, the researchers used the adeno-associated virus (AAV), a delivery strategy that can target any organ. They prepared the viruses so that each virus particle carried the information to destroy a particular gene, then infected the mice with a mixture of viruses carrying different instructions for gene destruction. In this way, they were able to switch off different genes in the cells of one organ. For this study, they chose the brain."
+    },
+    {
+      "heading": "New pathogenic genes discovered",
+      "text": "Using this method, the researchers from ETH Zurich, together with colleagues from the University of Geneva, obtained new clues to a rare genetic disorder in humans, known as 22q11.2 deletion syndrome. Patients affected by the disease show many different symptoms, typically diagnosed with other conditions such as schizophrenia and autism spectrum disorder. Before now, it was known that a chromosomal region containing 106 genes is responsible for this disease. It was also known that the disease was associated with multiple genes, however, it was not known which of the genes played which part in the disease.\n\nFor their study in mice, the researchers focused on 29 genes of this chromosomal region that are also active in the mouse brain. In each individual mouse brain cell, they modified one of these 29 genes and then analysed the RNA profiles of those brain cells. The scientists were able to show that three of these genes are largely responsible for the dysfunction of brain cells. In addition, they found patterns in the mouse cells that are reminiscent of schizophrenia and autism spectrum disorders. Among the three genes, one was already known, but the other two had not previously been the focus of much scientific attention.\n\n“If we know which genes in a disease have abnormal activity, we can try to develop drugs that compensate for that abnormality,” says António Santinha, a doctoral student in Platt’s group and lead author of the study."
+    },
+    {
+      "heading": "Patent pending",
+      "text": "The method would also be suitable for use in studying other genetic disorders. “In many congenital diseases, multiple genes play a role, not just one,” Santinha says. “This is also the case with mental illnesses such as schizophrenia. Our technique now lets us study such diseases and their genetic causes directly in fully grown animals.” The number of modified genes could be increased from the current 29 to several hundred genes per experiment.\n\n“It’s a big advantage that we can now do these analyses in living organisms, because cells behave differently in culture to how they do as part of a living body,” Santinha says. Another advantage is that the scientists can simply inject the AAVs into the animals’ bloodstreams. There are various different AAVs with different functional properties. In this study, researchers used a virus that enters the animals’ brains. “Depending on what you’re trying to investigate, though, you could also use AAVs that target other organs,” Santinha says.\n\nETH Zurich has applied for a patent on the technology. The researchers now want to use it as part of a spin-off they are establishing."
+    },
+    {
+      "heading": "Perturbing the genome",
+      "text": "The technique presented here is one of a series of new genetic editing methods used to alter the genome of cells in a mosaic-like manner. CRISPR perturbation is the technical term for this research approach that involves the perturbation of the genome using CRISPR-Cas gene scissors. This approach is currently revolutionising research in the life sciences. It makes it possible to obtain a great deal of information from a single scientific experiment. As a result, the approach has the potential to accelerate biomedical research, such as in the search for the molecular causes of genetically complex diseases.\n\nA week ago, another research group from the Department of Biosystems Science and Engineering at ETH Zurich in Basel, working with a team from Vienna, published a study in which they applied CRISPR perturbation in organoids (see ETH News ). Organoids are microtissue spheroids that are grown from stem cells and have a similar structure to real organs – in other words, they are a sort of miniature organ. They are an animal-free research method that complements research on animals. Because both methods – CRISPR perturbation in animals and in organoids – can provide more information with fewer experiments, both have the potential to ultimately reduce the number of animal experiments.\n\nSantinha AJ, Klingler E, Kuhn M, Farouni R, Lagler S, Kalamakis G, Lischetti U, Jabaudon D, Platt RJ: Transcriptional linkage analysis with in vivo AAV-Perturb-seq, Nature, 20 September 2023, doi: 10.1038/s41586-023-06570-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Modifying Individual Cells",
+        "label": "ORG",
+        "start": 35,
+        "end": 61
+      },
+      {
+        "text": "the CRISPR-Cas",
+        "label": "FAC",
+        "start": 84,
+        "end": 98
+      },
+      {
+        "text": "mosaic",
+        "label": "PRODUCT",
+        "start": 255,
+        "end": 261
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 334,
+        "end": 337
+      },
+      {
+        "text": "Randall Platt",
+        "label": "PERSON",
+        "start": 503,
+        "end": 516
+      },
+      {
+        "text": "Biological Engineering",
+        "label": "ORG",
+        "start": 531,
+        "end": 553
+      },
+      {
+        "text": "the Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 557,
+        "end": 609
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 613,
+        "end": 623
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 627,
+        "end": 632
+      },
+      {
+        "text": "several dozen",
+        "label": "CARDINAL",
+        "start": 797,
+        "end": 810
+      },
+      {
+        "text": "no more than one",
+        "label": "CARDINAL",
+        "start": 883,
+        "end": 899
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 8,
+        "end": 13
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 24,
+        "end": 34
+      },
+      {
+        "text": "Nature",
+        "label": "GPE",
+        "start": 180,
+        "end": 186
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 40,
+        "end": 50
+      },
+      {
+        "text": "the University of Geneva",
+        "label": "ORG",
+        "start": 82,
+        "end": 106
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 910,
+        "end": 915
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1122,
+        "end": 1127
+      },
+      {
+        "text": "António Santinha",
+        "label": "PERSON",
+        "start": 1373,
+        "end": 1389
+      },
+      {
+        "text": "Platt’s",
+        "label": "ORG",
+        "start": 1413,
+        "end": 1420
+      },
+      {
+        "text": "several hundred",
+        "label": "CARDINAL",
+        "start": 411,
+        "end": 426
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 994,
+        "end": 1004
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 32,
+        "end": 35
+      },
+      {
+        "text": "mosaic",
+        "label": "CARDINAL",
+        "start": 118,
+        "end": 124
+      },
+      {
+        "text": "CRISPR-Cas",
+        "label": "ORG",
+        "start": 258,
+        "end": 268
+      },
+      {
+        "text": "A week ago",
+        "label": "DATE",
+        "start": 613,
+        "end": 623
+      },
+      {
+        "text": "the Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 653,
+        "end": 705
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 709,
+        "end": 719
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 723,
+        "end": 728
+      },
+      {
+        "text": "Vienna",
+        "label": "GPE",
+        "start": 755,
+        "end": 761
+      },
+      {
+        "text": "CRISPR",
+        "label": "PERSON",
+        "start": 803,
+        "end": 809
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 841,
+        "end": 849
+      },
+      {
+        "text": "AJ",
+        "label": "ORG",
+        "start": 1310,
+        "end": 1312
+      },
+      {
+        "text": "Klingler E, Kuhn M",
+        "label": "ORG",
+        "start": 1314,
+        "end": 1332
+      },
+      {
+        "text": "Lagler S",
+        "label": "ORG",
+        "start": 1345,
+        "end": 1353
+      },
+      {
+        "text": "Kalamakis G",
+        "label": "PERSON",
+        "start": 1355,
+        "end": 1366
+      },
+      {
+        "text": "Lischetti U",
+        "label": "PERSON",
+        "start": 1368,
+        "end": 1379
+      },
+      {
+        "text": "Jabaudon D",
+        "label": "PERSON",
+        "start": 1381,
+        "end": 1391
+      },
+      {
+        "text": "Platt RJ",
+        "label": "ORG",
+        "start": 1393,
+        "end": 1401
+      },
+      {
+        "text": "AAV",
+        "label": "PRODUCT",
+        "start": 1449,
+        "end": 1452
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 1466,
+        "end": 1472
+      },
+      {
+        "text": "20 September 2023",
+        "label": "DATE",
+        "start": 1474,
+        "end": 1491
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1498,
+        "end": 1505
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "António Santinha",
+        "CRISPR",
+        "ETH Zurich",
+        "Jabaudon D",
+        "Kalamakis G",
+        "Lischetti U",
+        "Randall Platt"
+      ],
+      "ORG": [
+        "AJ",
+        "Biological Engineering",
+        "CRISPR-Cas",
+        "ETH News",
+        "ETH Zurich",
+        "Klingler E, Kuhn M",
+        "Lagler S",
+        "Modifying Individual Cells",
+        "Platt RJ",
+        "Platt’s",
+        "the Department of Biosystems Science and Engineering",
+        "the University of Geneva"
+      ],
+      "LOCATION": [
+        "Basel",
+        "ETH Zurich",
+        "Nature",
+        "Vienna",
+        "the CRISPR-Cas"
+      ],
+      "DATE": [
+        "20 September 2023",
+        "A week ago"
+      ],
+      "MISC": [
+        "10.1038",
+        "AAV",
+        "Nature",
+        "One",
+        "first",
+        "mosaic",
+        "no more than one",
+        "one",
+        "several dozen",
+        "several hundred",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 5,
+      "mosaic": 2,
+      "one": 2,
+      "the Department of Biosystems Science and Engineering": 2,
+      "Basel": 2,
+      "Nature": 2,
+      "three": 2,
+      "Modifying Individual Cells": 1,
+      "the CRISPR-Cas": 1,
+      "One": 1,
+      "Randall Platt": 1,
+      "Biological Engineering": 1,
+      "several dozen": 1,
+      "no more than one": 1,
+      "first": 1,
+      "the University of Geneva": 1,
+      "António Santinha": 1,
+      "Platt’s": 1,
+      "several hundred": 1,
+      "CRISPR-Cas": 1
+    },
+    "total_entities": 44,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "genetically-modifying-individual-cells-in-animals.md",
+      "title": "En News Events/2023/09/genetically Modifying Individual Cells in Animals",
+      "language": "en",
+      "source_path": "en_news_events/2023/09/genetically-modifying-individual-cells-in-animals.html"
+    },
+    "temporal": {
+      "publication_date": "2023-09",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "António Santinha",
+        "CRISPR",
+        "ETH Zurich",
+        "Jabaudon D",
+        "Kalamakis G",
+        "Lischetti U",
+        "Randall Platt"
+      ],
+      "people_with_roles": {
+        "António Santinha": [
+          "student"
+        ],
+        "CRISPR": [
+          "researcher",
+          "professor"
+        ],
+        "ETH Zurich": [
+          "researcher",
+          "professor"
+        ],
+        "Randall Platt": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Nature",
+        "first",
+        "mosaic",
+        "no more than one",
+        "several dozen",
+        "several hundred",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Kalamakis G",
+        "Platt RJ",
+        "Farouni R",
+        "CRISPR-Cas",
+        "En News",
+        "Klingler E",
+        "Jabaudon D",
+        "Lagler S",
+        "Santinha AJ",
+        "Modifying Individual",
+        "ETH Zurich",
+        "Kuhn M",
+        "Lischetti U",
+        "Biosystems Science",
+        "ETH News",
+        "Randall Platt",
+        "Biological Engineering",
+        "AAV-Perturb"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biosystems Science and Engineering at ETH Zurich in Basel",
+        "Biosystems Science and Engineering at ETH Zurich in Basel"
+      ],
+      "institutions": [
+        "AJ",
+        "Biological Engineering",
+        "CRISPR-Cas",
+        "ETH News",
+        "ETH Zurich",
+        "Klingler E, Kuhn M",
+        "Lagler S",
+        "Modifying Individual Cells",
+        "Platt RJ",
+        "Platt’s",
+        "the Department of Biosystems Science and Engineering",
+        "the University of Geneva"
+      ],
+      "locations": [
+        "Basel",
+        "ETH Zurich",
+        "Nature",
+        "Vienna",
+        "the CRISPR-Cas"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "mosaic",
+        "one",
+        "the Department of Biosystems Science and Engineering",
+        "Basel",
+        "Nature",
+        "three",
+        "Modifying Individual Cells",
+        "the CRISPR-Cas",
+        "One"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "In brief",
+          "First time in adult animals",
+          "First time in adult animals",
+          "New pathogenic genes discovered",
+          "Patent pending",
+          "Perturbing the genome"
+        ],
+        "content_length": 6614
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "CRISPR-Cas",
+        "AJ",
+        "Platt RJ",
+        "the Department of Biosystems Science and Engineering",
+        "Platt’s",
+        "CRISPR",
+        "Lagler S",
+        "Randall Platt",
+        "Klingler E, Kuhn M",
+        "Lischetti U",
+        "ETH News",
+        "Biological Engineering",
+        "António Santinha",
+        "Kalamakis G",
+        "Modifying Individual Cells",
+        "Jabaudon D",
+        "the University of Geneva",
+        "ETH Zurich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "Nature",
+        "three",
+        "several dozen",
+        "who",
+        "10.1038",
+        "chemistry",
+        "several hundred",
+        "biology",
+        "no more than one",
+        "what",
+        "how",
+        "medical_research",
+        "mosaic",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "António Santinha_has_role_student",
+        "CRISPR_has_role_researcher",
+        "CRISPR_has_role_professor",
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_professor",
+        "Randall Platt_has_role_researcher",
+        "Randall Platt_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "filename": "eth-by-night.md",
+  "original_filename": "eth-by-night.html",
+  "source_path": "en_internal/2017/06/eth-by-night.html",
+  "date": "2017-06",
+  "title": "Eth By Night",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "After most ETH members have gone home for the night, others are just beginning their late shift. Experiments, quiz nights and evening taekwondo lessons – you can find out everything that goes on at the ETH Zurich campus after dark in the cover story of the latest \"life\" .\n\nThe new edition also includes an interview with Rui Brandao, ETH's Director of IT Services. In the interview, Brandao, who has a PhD in Computer Science, describes the challenges he faces in his new role, and how ETH Zurich ensures IT security for its members.\n\nIn addition, ETH transfer shows how researchers are being supported in bringing their findings out of the lab and into the economy. The Vice President Research and Corporate Relations, Detlef Günther, explains how the principle of \"from I to We\" functions in research, and Joël Bérard provides an insight into his new role as Head of Agrovet Strickhof."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "the night",
+        "label": "TIME",
+        "start": 42,
+        "end": 51
+      },
+      {
+        "text": "evening",
+        "label": "TIME",
+        "start": 126,
+        "end": 133
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 202,
+        "end": 212
+      },
+      {
+        "text": "Rui Brandao",
+        "label": "PERSON",
+        "start": 321,
+        "end": 332
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 334,
+        "end": 337
+      },
+      {
+        "text": "Brandao",
+        "label": "PERSON",
+        "start": 383,
+        "end": 390
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 402,
+        "end": 405
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 486,
+        "end": 496
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 547,
+        "end": 550
+      },
+      {
+        "text": "Corporate Relations",
+        "label": "ORG",
+        "start": 698,
+        "end": 717
+      },
+      {
+        "text": "Detlef Günther",
+        "label": "PERSON",
+        "start": 719,
+        "end": 733
+      },
+      {
+        "text": "Joël Bérard",
+        "label": "PERSON",
+        "start": 807,
+        "end": 818
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Brandao",
+        "Detlef Günther",
+        "Joël Bérard",
+        "Rui Brandao"
+      ],
+      "ORG": [
+        "Corporate Relations",
+        "ETH",
+        "ETH Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "evening",
+        "the night"
+      ],
+      "MISC": [
+        "PhD"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "ETH Zurich": 2,
+      "the night": 1,
+      "evening": 1,
+      "Rui Brandao": 1,
+      "Brandao": 1,
+      "PhD": 1,
+      "Corporate Relations": 1,
+      "Detlef Günther": 1,
+      "Joël Bérard": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-by-night.md",
+      "title": "En Internal/2017/06/eth By Night",
+      "language": "en",
+      "source_path": "en_internal/2017/06/eth-by-night.html"
+    },
+    "temporal": {
+      "publication_date": "2017-06",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Brandao",
+        "Detlef Günther",
+        "Joël Bérard",
+        "Rui Brandao"
+      ],
+      "people_with_roles": {
+        "Brandao": [
+          "director",
+          "rector"
+        ],
+        "Detlef Günther": [
+          "president",
+          "head"
+        ],
+        "Joël Bérard": [
+          "president",
+          "head"
+        ],
+        "Rui Brandao": [
+          "director",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "rector",
+        "director",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "The Vice",
+        "President Research",
+        "Corporate Relations",
+        "IT Services",
+        "Rui Brandao",
+        "En Internal",
+        "ETH Zurich",
+        "By Night",
+        "Computer Science",
+        "Agrovet Strickhof"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Corporate Relations",
+        "ETH",
+        "ETH Zurich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Zurich",
+        "the night",
+        "evening",
+        "Rui Brandao",
+        "Brandao",
+        "PhD",
+        "Corporate Relations",
+        "Detlef Günther",
+        "Joël Bérard"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 921
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Detlef Günther",
+        "2017",
+        "Corporate Relations",
+        "Rui Brandao",
+        "ETH Zurich",
+        "Joël Bérard",
+        "Brandao"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "how",
+        "what",
+        "who"
+      ],
+      "graph_relations": [
+        "Brandao_has_role_director",
+        "Brandao_has_role_rector",
+        "Detlef Günther_has_role_president",
+        "Detlef Günther_has_role_head",
+        "Joël Bérard_has_role_president",
+        "Joël Bérard_has_role_head",
+        "Rui Brandao_has_role_director",
+        "Rui Brandao_has_role_rector",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

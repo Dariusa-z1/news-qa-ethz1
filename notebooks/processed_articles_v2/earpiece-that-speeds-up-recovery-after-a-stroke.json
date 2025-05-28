@@ -1,0 +1,483 @@
+{
+  "filename": "earpiece-that-speeds-up-recovery-after-a-stroke.md",
+  "original_filename": "earpiece-that-speeds-up-recovery-after-a-stroke.html",
+  "source_path": "en_news_events/2023/04/earpiece-that-speeds-up-recovery-after-a-stroke.html",
+  "date": "2023-04",
+  "title": "Earpiece That Speeds Up Recovery After A Stroke",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Brief summary of key points",
+      "text": "- An earpiece uses electrical impulses to stimulate the vagus nerve in the ear.\n\n- This helps the brain rewire motor neural circuits to restore function to damaged areas.\n\n- A movement sensor featuring analysis software developed in-house tells the earpiece when to emit impulses.\n\n- In contrast to previous methods involving the vagus nerve, this technology does not require a surgical procedure and can even be used at home."
+    },
+    {
+      "heading": "Electrical impulses help the brain learn",
+      "text": "Strokes are the number one cause of persistent physical impairment among adults worldwide. Sufferers often find it hard or even impossible to perform everyday physical actions like walking or reaching for something. One reason for this is that the stroke has damaged regions in the brain involved in making the necessary movements.\n\nInitial clinical studies conducted by other scientists have shown that stimulating the vagus nerve plays a crucial role in rehabilitating regions of the brain damaged by a stroke. Such stimulation has allowed stroke patients to regain their movement faster and more effectively.\n\nBut until now, this has required patients to undergo an expensive operation, performed under general anaesthetic, to implant a stimulation device below the skin. Since it’s common practice to wait a full year after a stroke to carry out this procedure, patients are losing valuable time.\n\nNow, ETH researchers Paulius Viskaitis and Dane Donegan from the Rehabilitation Engineering Laboratory have developed a new system that is set to make vagus nerve stimulation much easier and available much faster: “Our earpiece emits subtle electrical impulses to activate the nerve in the outer ear, thus eliminating the need for a surgical procedure,” explains Viskaitis, who was recently awarded an ETH Zurich Pioneer Fellowship to help him bring the technology to market."
+    },
+    {
+      "heading": "Electrical impulses help the brain learn",
+      "text": "A few years ago while still at the University of Colorado, Donegan was able to show that stimulating the vagus nerve wasn’t the only factor. The neuroscientist demonstrated that timing is also critical: the electrical impulses are particularly effective if administered while patients are attempting those motions that they have found difficult to perform since their stroke.\n\nThis helps the brain rewire motor neural circuits to compensate for malfunctions in regions damaged by the stroke. “It’s like we’re reconfiguring the brain’s software: stimulating the nerve promotes neuroplasticity, aids the formation of new synapses and supports the relearning of physical actions,” Donegan says."
+    },
+    {
+      "heading": "Movement sensor enables targeted stimulation",
+      "text": "Another disadvantage of the implanted sensor treatment is that afterwards a physical therapist must be on hand to manually operate the stimulator. This eats up a lot of time and money.\n\nSo what the two ETH researchers have done is develop a movement sensor that works a bit like a smartwatch. Stroke patients wear this sensor wherever their motor function is impaired, for instance on their right arm. Using special software, which Viskaitis and Donegan also developed, the sensor analyses the arm’s movements in real time and tells the earpiece when the patient moved their arm particularly well.\n\nThis triggers stimulation of the vagus nerve and the brain learns to recall the correct sequence of movements faster and more effectively. The technical term for this process is reinforcement learning."
+    },
+    {
+      "heading": "Home treatment possible",
+      "text": "Unlike previous treatment options, stroke patients can use the technology developed by the two ETH researchers also without professional supervision. What’s more, the movement sensor will make it possible for physical therapists to monitor their patients’ progress conveniently using a smartphone. The ETH researchers expect this to yield further progress in treatment.\n\nBy the end of this summer, Viskaitis and Donegan want to launch an ETH spin-off and move ahead with tests on healthy people as quickly as possible. They plan to then proceed with the first clinical study.\n\nThe Pioneer Fellowship is a comprehensive support programme that offers innovative thinkers ideal conditions in which to launch their commercial venture. Aimed primarily at doctoral students, the programme is also open to Master’s students and postdocs. Pioneer Fellows receive a grant of CHF 150,000 over a period of 12 to 18 months in addition to extensive mentoring and training. Fellows work in the ieLab for the duration of their fellowship. Pioneer Fellowships are funded jointly by the ETH Foundation and ETH Zurich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 216,
+        "end": 219
+      },
+      {
+        "text": "a full year",
+        "label": "DATE",
+        "start": 808,
+        "end": 819
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 904,
+        "end": 907
+      },
+      {
+        "text": "Paulius Viskaitis",
+        "label": "PERSON",
+        "start": 920,
+        "end": 937
+      },
+      {
+        "text": "Dane Donegan",
+        "label": "PERSON",
+        "start": 942,
+        "end": 954
+      },
+      {
+        "text": "the Rehabilitation Engineering Laboratory",
+        "label": "ORG",
+        "start": 960,
+        "end": 1001
+      },
+      {
+        "text": "Viskaitis",
+        "label": "PERSON",
+        "start": 1262,
+        "end": 1271
+      },
+      {
+        "text": "ETH Zurich Pioneer Fellowship",
+        "label": "ORG",
+        "start": 1301,
+        "end": 1330
+      },
+      {
+        "text": "A few years ago",
+        "label": "DATE",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "the University of Colorado",
+        "label": "ORG",
+        "start": 31,
+        "end": 57
+      },
+      {
+        "text": "Donegan",
+        "label": "PERSON",
+        "start": 59,
+        "end": 66
+      },
+      {
+        "text": "Donegan",
+        "label": "PERSON",
+        "start": 677,
+        "end": 684
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 197,
+        "end": 200
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 201,
+        "end": 204
+      },
+      {
+        "text": "Viskaitis",
+        "label": "PERSON",
+        "start": 431,
+        "end": 440
+      },
+      {
+        "text": "Donegan",
+        "label": "PERSON",
+        "start": 445,
+        "end": 452
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 91,
+        "end": 94
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 95,
+        "end": 98
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 302,
+        "end": 305
+      },
+      {
+        "text": "the end of this summer",
+        "label": "DATE",
+        "start": 373,
+        "end": 395
+      },
+      {
+        "text": "Viskaitis",
+        "label": "PERSON",
+        "start": 397,
+        "end": 406
+      },
+      {
+        "text": "Donegan",
+        "label": "PERSON",
+        "start": 411,
+        "end": 418
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 437,
+        "end": 440
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 553,
+        "end": 558
+      },
+      {
+        "text": "The Pioneer Fellowship",
+        "label": "ORG",
+        "start": 575,
+        "end": 597
+      },
+      {
+        "text": "Pioneer Fellows",
+        "label": "PERSON",
+        "start": 829,
+        "end": 844
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 864,
+        "end": 867
+      },
+      {
+        "text": "150,000",
+        "label": "CARDINAL",
+        "start": 868,
+        "end": 875
+      },
+      {
+        "text": "12 to 18 months",
+        "label": "DATE",
+        "start": 893,
+        "end": 908
+      },
+      {
+        "text": "Pioneer Fellowships",
+        "label": "PERSON",
+        "start": 1022,
+        "end": 1041
+      },
+      {
+        "text": "the ETH Foundation",
+        "label": "ORG",
+        "start": 1064,
+        "end": 1082
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1087,
+        "end": 1097
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dane Donegan",
+        "Donegan",
+        "ETH Zurich",
+        "Paulius Viskaitis",
+        "Pioneer Fellows",
+        "Pioneer Fellowships",
+        "Viskaitis"
+      ],
+      "ORG": [
+        "CHF",
+        "ETH",
+        "ETH Zurich Pioneer Fellowship",
+        "The Pioneer Fellowship",
+        "the ETH Foundation",
+        "the Rehabilitation Engineering Laboratory",
+        "the University of Colorado"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "12 to 18 months",
+        "A few years ago",
+        "a full year",
+        "the end of this summer"
+      ],
+      "MISC": [
+        "150,000",
+        "One",
+        "first",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "Donegan": 4,
+      "Viskaitis": 3,
+      "two": 2,
+      "one": 1,
+      "One": 1,
+      "a full year": 1,
+      "Paulius Viskaitis": 1,
+      "Dane Donegan": 1,
+      "the Rehabilitation Engineering Laboratory": 1,
+      "ETH Zurich Pioneer Fellowship": 1,
+      "A few years ago": 1,
+      "the University of Colorado": 1,
+      "the end of this summer": 1,
+      "first": 1,
+      "The Pioneer Fellowship": 1,
+      "Pioneer Fellows": 1,
+      "CHF": 1,
+      "150,000": 1,
+      "12 to 18 months": 1
+    },
+    "total_entities": 33,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "earpiece-that-speeds-up-recovery-after-a-stroke.md",
+      "title": "En News Events/2023/04/earpiece That Speeds Up Recovery After A Stroke",
+      "language": "en",
+      "source_path": "en_news_events/2023/04/earpiece-that-speeds-up-recovery-after-a-stroke.html"
+    },
+    "temporal": {
+      "publication_date": "2023-04",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Dane Donegan",
+        "Donegan",
+        "ETH Zurich",
+        "Paulius Viskaitis",
+        "Pioneer Fellows",
+        "Pioneer Fellowships",
+        "Viskaitis"
+      ],
+      "people_with_roles": {
+        "Dane Donegan": [
+          "researcher"
+        ],
+        "Donegan": [
+          "researcher",
+          "head"
+        ],
+        "ETH Zurich": [
+          "researcher"
+        ],
+        "Paulius Viskaitis": [
+          "researcher"
+        ],
+        "Pioneer Fellows": [
+          "researcher"
+        ],
+        "Viskaitis": [
+          "researcher",
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "150,000",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "fellowship",
+        "grant"
+      ],
+      "projects": [
+        "The Pioneer",
+        "ETH Foundation",
+        "Paulius Viskaitis",
+        "En News",
+        "Up Recovery",
+        "Dane Donegan",
+        "Pioneer Fellows",
+        "After A",
+        "ETH Zurich",
+        "Pioneer Fellowship",
+        "The ETH",
+        "Rehabilitation Engineering",
+        "Pioneer Fellowships",
+        "That Speeds"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CHF",
+        "ETH",
+        "ETH Zurich Pioneer Fellowship",
+        "The Pioneer Fellowship",
+        "the ETH Foundation",
+        "the Rehabilitation Engineering Laboratory",
+        "the University of Colorado"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Donegan",
+        "Viskaitis",
+        "two",
+        "one",
+        "One",
+        "a full year",
+        "Paulius Viskaitis",
+        "Dane Donegan",
+        "the Rehabilitation Engineering Laboratory"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Brief summary of key points",
+          "Electrical impulses help the brain learn",
+          "Electrical impulses help the brain learn",
+          "Movement sensor enables targeted stimulation",
+          "Home treatment possible"
+        ],
+        "content_length": 4469
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "CHF",
+        "grant",
+        "ERC",
+        "The Pioneer Fellowship",
+        "Dane Donegan",
+        "Donegan",
+        "Pioneer Fellows",
+        "Pioneer Fellowships",
+        "Viskaitis",
+        "the ETH Foundation",
+        "fellowship",
+        "EU",
+        "the University of Colorado",
+        "the Rehabilitation Engineering Laboratory",
+        "Paulius Viskaitis",
+        "ETH Zurich Pioneer Fellowship",
+        "ETH Zurich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "computer_science",
+        "who",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "150,000",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Dane Donegan_has_role_researcher",
+        "Donegan_has_role_researcher",
+        "Donegan_has_role_head",
+        "ETH Zurich_has_role_researcher",
+        "Paulius Viskaitis_has_role_researcher",
+        "Pioneer Fellows_has_role_researcher",
+        "Viskaitis_has_role_researcher",
+        "Viskaitis_has_role_head",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

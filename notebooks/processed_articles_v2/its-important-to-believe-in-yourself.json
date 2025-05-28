@@ -1,0 +1,151 @@
+{
+  "filename": "its-important-to-believe-in-yourself.md",
+  "original_filename": "its-important-to-believe-in-yourself.html",
+  "source_path": "en_news_events/2023/09/its-important-to-believe-in-yourself.html",
+  "date": "2023-09",
+  "title": "Its Important To Believe In Yourself",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Advice for students",
+      "text": "Lina De Windt experienced a completely new world when she began her studies at ETH. She came from a high school where sport – in her case ballet – was the main focus. At ETH she had to catch up in many subjects. In the video she talks about how she experienced this change and shares advice for new students."
+    },
+    {
+      "heading": "Advice for students",
+      "text": "ETH Zurich offers advice centres for any situation that may arise during your studies."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Lina De Windt",
+        "label": "PERSON",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 79,
+        "end": 82
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 170,
+        "end": 173
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Lina De Windt"
+      ],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Lina De Windt": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "its-important-to-believe-in-yourself.md",
+      "title": "En News Events/2023/09/its Important To Believe in Yourself",
+      "language": "en",
+      "source_path": "en_news_events/2023/09/its-important-to-believe-in-yourself.html"
+    },
+    "temporal": {
+      "publication_date": "2023-09",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Lina De Windt"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "At ETH",
+        "Important To",
+        "En News",
+        "De Windt",
+        "Yourself Lina",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Lina De Windt",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Advice for students",
+          "Advice for students"
+        ],
+        "content_length": 455
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "ETH",
+        "Lina De Windt",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "where",
+        "how"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

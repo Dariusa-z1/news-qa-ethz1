@@ -1,0 +1,424 @@
+{
+  "filename": "wandelbarer-joystick-fuer-animationskuenstler.md",
+  "original_filename": "wandelbarer-joystick-fuer-animationskuenstler.html",
+  "source_path": "de_news_events/2014/06/wandelbarer-joystick-fuer-animationskuenstler.html",
+  "date": "2014-06",
+  "title": "Wandelbarer Joystick Fuer Animationskuenstler",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Baukastenprinzip",
+      "text": "Im Chemieunterricht setzen Schüler Kügelchen und Stäbchen zu komplexen Molekülen zusammen, um chemische Verbindungen zu veranschaulichen. Etwas Ähnliches hat im Interactive Geometry Lab der ETH Zürich Gestalt angenommen. Aber ETH-Professorin Olga Sorkine-Hornung und ihr Team erforschen keine Moleküle, sondern Methoden, um virtuelle Figuren am Computer möglichst naturgetreu zu animieren. Dazu haben sie nun einen neuartigen «Joystick» entwickelt: Dieser besteht aus Bausteinen, die der Nutzer wie die Kugeln und Stäbchen des Chemiebaukastens zu einer der animierten Figur ähnlichen Form zusammensetzen kann, sei es ein Mensch, ein Hund, ein Elefant oder auch nur einzelne Körperteile."
+    },
+    {
+      "heading": "Baukastenprinzip",
+      "text": "Mit Unterstützung des Autonomous Systems Labors unter Leitung von ETH-Professor Roland Siegwart entwickelte Sorkine-Hornungs Team ein Steuergerät mit integrierten Sensoren, das aus Einzelteilen in jeder beliebigen Form zusammengesetzt werden kann. Nutzer können die 3D-gedruckten und mit Sensoren versehenen Bausteine beliebig zusammenbauen. Die Sensoren in jedem Gelenk dieser «Joystick»-Puppe messen den Winkel der Beuge- oder der Drehbewegung und übertragen diese Information an eine Software, welche die entsprechende Bewegung der virtuellen Figur errechnet und ausführt.\n\n«Die Software unterstützt den Künstler beim Verknüpfen der Gelenke des selbst-zusammengesetzten Geräts mit den virtuellen Gelenken der Animation», erklärt Sorkine-Hornung. So überbrückt das System auch problemlos Proportionsunterschiede: Die Abstände zwischen den einzelnen Gelenken müssen im realen und im virtuellen Raum nicht identisch sein. Eine kurzhalsige «Joystick»-Puppe kann so auch eine langhalsige Animationsgiraffe steuern."
+    },
+    {
+      "heading": "Baupläne für weitere Forschung",
+      "text": "Der vielseitige Joystick lässt sich in jeder Form zusammenbauen und erlaubt so, beliebig geformte Animationsfiguren zu bewegen. (Illustration: Interactive Geometry Lab / ETH Zürich)\n\nDie Forschenden haben die Pläne für die Bausteine ihres Geräts als «Open Hardware» öffentlich zugänglich gemacht und hoffen, dadurch weitere Forschung anzustossen. «So kann jeder die Elemente drucken und mithilfe eines Elektroingenieurs die Sensoren und Übertragungskabel integrieren», erklärt Sorkine-Hornung. Auch überlegen die Forschenden, in Zukunft ein Set aus 25 fertigen Bausteinen zum Kauf anzubieten. «Wir werden das Gerät im August an der SIGGRAPH präsentieren, einer internationalen Konferenz und Ausstellung für Computergrafik und interaktive Technik. Wir hoffen dort Eindrücke zu sammeln, ob es eine Nachfrage für ein kommerzielles Angebot des Geräts gibt und was wir am Design noch verbessern könnten», sagt Sorkine-Hornung. Das derzeitige Modell erlaubt nur, die einen Gelenke zu beugen und die anderen zu drehen. Eine Möglichkeit, das Design zu verbessern, sehen die Forschenden in Kugelgelenken, ähnlich dem menschlichen Schultergelenk. Das würde es weiter vereinfachen, die Hightech-Puppe zu verformen.\n\nAnimationskünstler durchlaufen meist Jahre der Ausbildung, um virtuelle Figuren bewegen zu lernen. Jede dieser Bewegungen ist durch sogenannte «key frames» definiert, also Schnappschüsse der Bewegung, anhand derer die Software die gesamte fliessende Bewegung errechnet. Um eine Animationsfigur realistisch zu bewegen, muss die Künstlerin diese «key frames» festlegen, aber jeden Körperteil der Animationsfigur dafür einzeln mit der Maus in die richtige Position zu ziehen, ist zeitaufwändig und mühsam. Aus diesem Grund arbeiten Forschende an alternativen Methoden, um virtuelle Bewegungen zu steuern. Puppen als Input-Gerät sind eine Variante, welche Künstler direkt am Schreibtisch verwenden können. Dabei beruhen einige der bisherigen Methoden darauf, die Bewegungen der Puppe mit mehreren Kameras einzufangen. Da jedoch die Hände des Künstlers die Puppe teils verdecken, kann er auf diese Weise eine Animationsfigur kaum in Echtzeit steuern. Andere Methoden umgehen dieses Problem, indem sie die Bewegungsinformation durch Sensoren in den Gelenken der Puppe erfassen. Bislang hatten diese Puppen jedoch immer eine vordefinierte Form, zum Beispiel die eines Menschen, womit sich schlecht ein animierter Hund steuern lässt.\n\nJacobson A, Panozzo D, Glauser O, Pradalier C, Hilliges O, Sorkine-Hornung O: Tangible and Modular Input Device for Character Articulation. To be presented at ACM SIGGRAPH 2014, Vancouver. ( pdf , project website )"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Joystick Fuer Animationskuenstler",
+        "label": "PER",
+        "start": 35,
+        "end": 68
+      },
+      {
+        "text": "Kügelchen",
+        "label": "MISC",
+        "start": 35,
+        "end": 44
+      },
+      {
+        "text": "Interactive Geometry Lab",
+        "label": "MISC",
+        "start": 161,
+        "end": 185
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 190,
+        "end": 200
+      },
+      {
+        "text": "ETH-Professorin",
+        "label": "ORG",
+        "start": 226,
+        "end": 241
+      },
+      {
+        "text": "Olga Sorkine-Hornung",
+        "label": "PER",
+        "start": 242,
+        "end": 262
+      },
+      {
+        "text": "Bausteinen",
+        "label": "LOC",
+        "start": 468,
+        "end": 478
+      },
+      {
+        "text": "Kugeln",
+        "label": "LOC",
+        "start": 503,
+        "end": 509
+      },
+      {
+        "text": "ETH-Professor Roland Siegwart",
+        "label": "PER",
+        "start": 66,
+        "end": 95
+      },
+      {
+        "text": "Sorkine-Hornungs Team",
+        "label": "ORG",
+        "start": 108,
+        "end": 129
+      },
+      {
+        "text": "3D-gedruckten",
+        "label": "ORG",
+        "start": 266,
+        "end": 279
+      },
+      {
+        "text": "Interactive Geometry Lab",
+        "label": "MISC",
+        "start": 143,
+        "end": 167
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 170,
+        "end": 180
+      },
+      {
+        "text": "Die Forschenden",
+        "label": "MISC",
+        "start": 182,
+        "end": 197
+      },
+      {
+        "text": "SIGGRAPH",
+        "label": "ORG",
+        "start": 631,
+        "end": 639
+      },
+      {
+        "text": "Kugelgelenken",
+        "label": "LOC",
+        "start": 1080,
+        "end": 1093
+      },
+      {
+        "text": "Hightech-Puppe",
+        "label": "LOC",
+        "start": 1174,
+        "end": 1188
+      },
+      {
+        "text": "Animationskünstler",
+        "label": "PER",
+        "start": 1203,
+        "end": 1221
+      },
+      {
+        "text": "Jacobson A",
+        "label": "PER",
+        "start": 2429,
+        "end": 2439
+      },
+      {
+        "text": "Panozzo D",
+        "label": "PER",
+        "start": 2441,
+        "end": 2450
+      },
+      {
+        "text": "Glauser O",
+        "label": "PER",
+        "start": 2452,
+        "end": 2461
+      },
+      {
+        "text": "Pradalier C",
+        "label": "MISC",
+        "start": 2463,
+        "end": 2474
+      },
+      {
+        "text": "Hilliges O",
+        "label": "ORG",
+        "start": 2476,
+        "end": 2486
+      },
+      {
+        "text": "Sorkine-Hornung O",
+        "label": "ORG",
+        "start": 2488,
+        "end": 2505
+      },
+      {
+        "text": "Tangible and Modular",
+        "label": "MISC",
+        "start": 2507,
+        "end": 2527
+      },
+      {
+        "text": "To be presented at ACM",
+        "label": "MISC",
+        "start": 2569,
+        "end": 2591
+      },
+      {
+        "text": "Vancouver",
+        "label": "ORG",
+        "start": 2607,
+        "end": 2616
+      },
+      {
+        "text": "pdf",
+        "label": "ORG",
+        "start": 2620,
+        "end": 2623
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Animationskünstler",
+        "ETH-Professor Roland Siegwart",
+        "Glauser O",
+        "Jacobson A",
+        "Joystick Fuer Animationskuenstler",
+        "Olga Sorkine-Hornung",
+        "Panozzo D"
+      ],
+      "ORG": [
+        "3D-gedruckten",
+        "ETH Zürich",
+        "ETH-Professorin",
+        "Hilliges O",
+        "SIGGRAPH",
+        "Sorkine-Hornung O",
+        "Sorkine-Hornungs Team",
+        "Vancouver",
+        "pdf"
+      ],
+      "LOCATION": [
+        "Bausteinen",
+        "Hightech-Puppe",
+        "Kugelgelenken",
+        "Kugeln"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Die Forschenden",
+        "Interactive Geometry Lab",
+        "Kügelchen",
+        "Pradalier C",
+        "Tangible and Modular",
+        "To be presented at ACM"
+      ]
+    },
+    "entity_counts": {
+      "Interactive Geometry Lab": 2,
+      "ETH Zürich": 2,
+      "Joystick Fuer Animationskuenstler": 1,
+      "Kügelchen": 1,
+      "ETH-Professorin": 1,
+      "Olga Sorkine-Hornung": 1,
+      "Bausteinen": 1,
+      "Kugeln": 1,
+      "ETH-Professor Roland Siegwart": 1,
+      "Sorkine-Hornungs Team": 1,
+      "3D-gedruckten": 1,
+      "Die Forschenden": 1,
+      "SIGGRAPH": 1,
+      "Kugelgelenken": 1,
+      "Hightech-Puppe": 1,
+      "Animationskünstler": 1,
+      "Jacobson A": 1,
+      "Panozzo D": 1,
+      "Glauser O": 1,
+      "Pradalier C": 1
+    },
+    "total_entities": 28,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "wandelbarer-joystick-fuer-animationskuenstler.md",
+      "title": "De News Events/2014/06/wandelbarer Joystick Fuer Animationskuenstler",
+      "language": "de",
+      "source_path": "de_news_events/2014/06/wandelbarer-joystick-fuer-animationskuenstler.html"
+    },
+    "temporal": {
+      "publication_date": "2014-06",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Animationskünstler",
+        "ETH-Professor Roland Siegwart",
+        "Glauser O",
+        "Jacobson A",
+        "Joystick Fuer Animationskuenstler",
+        "Olga Sorkine-Hornung",
+        "Panozzo D"
+      ],
+      "people_with_roles": {
+        "ETH-Professor Roland Siegwart": [
+          "professor"
+        ],
+        "Olga Sorkine-Hornung": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "Die Forschenden",
+        "Interactive Geometry Lab",
+        "Kügelchen",
+        "Pradalier C",
+        "Tangible and Modular",
+        "To be presented at ACM"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Die Forschenden",
+        "Animationskuenstler Im",
+        "Hightech-Puppe",
+        "ETH-Professor",
+        "Character Articulation",
+        "Hilliges O",
+        "Joystick Fuer",
+        "Jacobson A",
+        "Glauser O",
+        "Modular Input",
+        "Roland Siegwart",
+        "Panozzo D",
+        "Aber ETH",
+        "Andere Methoden",
+        "Professorin Olga",
+        "Die Sensoren",
+        "Open Hardware",
+        "Sorkine-Hornungs",
+        "Sorkine-Hornung",
+        "Pradalier C",
+        "Autonomous Systems",
+        "ACM SIGGRAPH",
+        "Die Software",
+        "De News",
+        "Interactive Geometry"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "3D-gedruckten",
+        "ETH Zürich",
+        "ETH-Professorin",
+        "Hilliges O",
+        "SIGGRAPH",
+        "Sorkine-Hornung O",
+        "Sorkine-Hornungs Team",
+        "Vancouver",
+        "pdf"
+      ],
+      "locations": [
+        "Bausteinen",
+        "Hightech-Puppe",
+        "Kugelgelenken",
+        "Kugeln"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Interactive Geometry Lab",
+        "ETH Zürich",
+        "Joystick Fuer Animationskuenstler",
+        "Kügelchen",
+        "ETH-Professorin",
+        "Olga Sorkine-Hornung",
+        "Bausteinen",
+        "Kugeln",
+        "ETH-Professor Roland Siegwart",
+        "Sorkine-Hornungs Team"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Baukastenprinzip",
+          "Baukastenprinzip",
+          "Baupläne für weitere Forschung"
+        ],
+        "content_length": 4415
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Panozzo D",
+        "pdf",
+        "Sorkine-Hornungs Team",
+        "Jacobson A",
+        "Glauser O",
+        "Olga Sorkine-Hornung",
+        "EU",
+        "3D-gedruckten",
+        "ETH Zürich",
+        "Joystick Fuer Animationskuenstler",
+        "Vancouver",
+        "Animationskünstler",
+        "Sorkine-Hornung O",
+        "SIGGRAPH",
+        "Hilliges O",
+        "ETH-Professorin",
+        "ETH-Professor Roland Siegwart",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "Pradalier C",
+        "To be presented at ACM",
+        "Die Forschenden",
+        "who",
+        "Kügelchen",
+        "what",
+        "how",
+        "Interactive Geometry Lab",
+        "computer_science",
+        "Tangible and Modular"
+      ],
+      "graph_relations": [
+        "ETH-Professor Roland Siegwart_has_role_professor",
+        "Olga Sorkine-Hornung_has_role_professor",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "filename": "polybahn_pitch_elsbeth_stern.md",
+  "original_filename": "polybahn_pitch_elsbeth_stern.html",
+  "source_path": "en_news_events/2016/09/polybahn_pitch_elsbeth_stern.html",
+  "date": "2016-09",
+  "title": "Pitch Elsbeth Stern",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "ZFF talk: \"Can genius be taught?\"",
+      "text": "Life Science Zurich is organising talks around three documentaries at this year’s Zurich Film Festival (ZFF). In this series, ETH Professor Elsbeth Stern joins neuroscientist and chess player Monika Müller-Seps for the talk \"Can genius be taught?\" to explain what happens to the brain during the learning process and discuss new approaches to learning.\n\nFriday, 30 September 2016, 3 pm - 4 pm\n\nZFF Festival Centre at Zurich’s Sechseläutenplatz\n\nInformation and live streaming on eyeonscience.org (in German)"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Pitch Elsbeth Stern",
+        "label": "PERSON",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 47,
+        "end": 52
+      },
+      {
+        "text": "year",
+        "label": "DATE",
+        "start": 75,
+        "end": 79
+      },
+      {
+        "text": "Zurich Film Festival (",
+        "label": "EVENT",
+        "start": 82,
+        "end": 104
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 126,
+        "end": 129
+      },
+      {
+        "text": "Elsbeth Stern",
+        "label": "PERSON",
+        "start": 140,
+        "end": 153
+      },
+      {
+        "text": "Monika Müller-Seps",
+        "label": "PERSON",
+        "start": 192,
+        "end": 210
+      },
+      {
+        "text": "Friday",
+        "label": "DATE",
+        "start": 353,
+        "end": 359
+      },
+      {
+        "text": "September 2016",
+        "label": "DATE",
+        "start": 364,
+        "end": 378
+      },
+      {
+        "text": "3 pm - 4 pm",
+        "label": "TIME",
+        "start": 380,
+        "end": 391
+      },
+      {
+        "text": "ZFF Festival Centre",
+        "label": "EVENT",
+        "start": 392,
+        "end": 411
+      },
+      {
+        "text": "Zurich’s Sechseläutenplatz Information",
+        "label": "ORG",
+        "start": 415,
+        "end": 453
+      },
+      {
+        "text": "eyeonscience.org",
+        "label": "ORG",
+        "start": 476,
+        "end": 492
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 497,
+        "end": 503
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Elsbeth Stern",
+        "Monika Müller-Seps",
+        "Pitch Elsbeth Stern"
+      ],
+      "ORG": [
+        "ETH",
+        "Zurich’s Sechseläutenplatz Information",
+        "eyeonscience.org"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "3 pm - 4 pm",
+        "Friday",
+        "September 2016",
+        "year"
+      ],
+      "MISC": [
+        "German",
+        "ZFF Festival Centre",
+        "Zurich Film Festival (",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Pitch Elsbeth Stern": 1,
+      "three": 1,
+      "year": 1,
+      "Zurich Film Festival (": 1,
+      "ETH": 1,
+      "Elsbeth Stern": 1,
+      "Monika Müller-Seps": 1,
+      "Friday": 1,
+      "September 2016": 1,
+      "3 pm - 4 pm": 1,
+      "ZFF Festival Centre": 1,
+      "Zurich’s Sechseläutenplatz Information": 1,
+      "eyeonscience.org": 1,
+      "German": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "polybahn_pitch_elsbeth_stern.md",
+      "title": "Pitch Elsbeth Stern",
+      "language": "en",
+      "source_path": "en_news_events/2016/09/polybahn_pitch_elsbeth_stern.html"
+    },
+    "temporal": {
+      "publication_date": "2016-09",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "Elsbeth Stern",
+        "Monika Müller-Seps",
+        "Pitch Elsbeth Stern"
+      ],
+      "people_with_roles": {
+        "Elsbeth Stern": [
+          "Professor",
+          "scientist",
+          "professor"
+        ],
+        "Monika Müller-Seps": [
+          "scientist",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "German",
+        "ZFF Festival Centre",
+        "Zurich Film Festival (",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Science Zurich",
+        "Zurich Film",
+        "Pitch Elsbeth",
+        "Stern Life",
+        "ZFF Festival",
+        "ETH Professor",
+        "Elsbeth Stern"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Zurich’s Sechseläutenplatz Information",
+        "eyeonscience.org"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Pitch Elsbeth Stern",
+        "three",
+        "year",
+        "Zurich Film Festival (",
+        "ETH",
+        "Elsbeth Stern",
+        "Monika Müller-Seps",
+        "Friday",
+        "September 2016",
+        "3 pm - 4 pm"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "ZFF talk: \"Can genius be taught?\""
+        ],
+        "content_length": 527
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "eyeonscience.org",
+        "Pitch Elsbeth Stern",
+        "EU",
+        "2016",
+        "Elsbeth Stern",
+        "Zurich’s Sechseläutenplatz Information",
+        "Monika Müller-Seps"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ZFF Festival Centre",
+        "three",
+        "Zurich Film Festival (",
+        "who",
+        "what",
+        "how",
+        "German",
+        "when"
+      ],
+      "graph_relations": [
+        "Elsbeth Stern_has_role_Professor",
+        "Elsbeth Stern_has_role_scientist",
+        "Elsbeth Stern_has_role_professor",
+        "Monika Müller-Seps_has_role_scientist",
+        "Monika Müller-Seps_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

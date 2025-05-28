@@ -1,0 +1,460 @@
+{
+  "filename": "geoengineering-going-outdoors.md",
+  "original_filename": "geoengineering-going-outdoors.html",
+  "source_path": "en_news_events/2015/01/geoengineering-going-outdoors.html",
+  "date": "2015-01",
+  "title": "Geoengineering Going Outdoors",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Field experiments",
+      "text": "Climate science is giving a clear signal that action has to be taken to halt global warming. Rising greenhouse gas emissions are driving us towards a climate with negative consequences for society in most parts of the world, for instance through an increase in weather extremes. The fact that we still do not have any binding agreements on reducing greenhouse gases is pushing part of the scientific community towards researching technological fixes for the climate problem – geoengineering.\n\nGeoengineering aims at treating the “symptoms” of climate change – most notably the temperature increase – by altering the Earth’s radiation balance. The proposed methods vary greatly in terms of their technological characteristics and possible consequences. In this blog post, we focus on the best-known solar geoengineering method: the “artificial volcano” or stratospheric aerosols method. Scientists propose injecting small, reflective sulphate particles (aerosols) into the stratosphere at 15–20 km altitude. The small particles reduce the amount of solar radiation reaching the Earth’s surface and thus cool the lower atmosphere. This effect has been observed after large volcanic eruptions (thus the name “artificial volcano”), most recently after the 1991 Mt. Pinatubo eruption, when the global average temperature decreased by almost 0.5°C in the year following the eruption. Unlike volcanoes, geoengineers would continuously inject the aerosols until greenhouse gas levels dropped below a level determined to be safe. So far, all solar geoengineering studies have been confined to computer models [1]."
+    },
+    {
+      "heading": "Field experiments",
+      "text": "A group of atmospheric scientists have recently proposed nine field experiments to test solar geoengineering methods [2]. They divided ideas into those that aim at understanding the effectiveness and risks of geoengineering and those aimed at developing technologies needed for the deployment of geoengineering. Furthermore, the scientists made a clear distinction between experiments seeking to understand small-scale atmospheric processes like chemical reactions on the surface of artificially injected particles and those targeting large-scale climate responses, e.g. a decrease in global average temperature. The impact of large-scale experiments cannot be simply extrapolated from small-scale ones. However, large-scale experiments would only be performed in cases where numerous prior small-scale tests proved successful with only negligible environmental risks – which might be too late to avoid some of the negative consequences of global warming."
+    },
+    {
+      "heading": "Why bother with geoengineering at all?",
+      "text": "The proposed experimental design of a small-scale stratospheric sulphur (and water) injection field test (source: [3])\n\nOf the proposed experiments, a small field test called the stratospheric controlled perturbation experiment (SCoPEx) is at the most advanced planning stage [3]. A Harvard research group designed the experiment to better quantify a side-effect of stratospheric sulphur injections: ozone depletion. A decrease in stratospheric ozone levels can increase the risk of skin cancer, which could be even more disruptive for society than the greenhouse gas-driven warming of the planet. A sudden decrease in ozone concentrations during SCoPEx would probably kill the idea of stratospheric sulphur geoengineering. As illustrated in the figure, the experiment is comprised of a balloon with a module carrying an aerosol generator, observational instruments, and an engine. The module both injects and monitors the aerosol plume. The experiment is expected to emit less sulphur and water than an intercontinental flight between Europe and the US. The researchers estimate the total costs of the field experiment to be around USD 10 million."
+    },
+    {
+      "heading": "Why is field testing so controversial?",
+      "text": "SCoPEx and other currently proposed small-scale experiments most likely do not pose significant risks for environment and society. Unlike full geoengineering deployment with large-scale, decades-long injections, these experiments would not modify the planet's energy balance. However, there remain other issues related to the proposed outdoor geoengineering research:"
+    },
+    {
+      "heading": "Why bother with geoengineering at all?",
+      "text": "Curiosity-driven geoengineering research provides the information society and policymakers need to choose the best strategy in dealing with climate change [4]. Geoengineering modelling studies contribute to a better understanding of the stratosphere and more accurate representation of aerosol processes and their interactions with climate, e.g. the impact of volcanoes on global temperature, precipitation, crop yields, etc. This results in more robust modelling projections of the future climate.\n\nWe think geoengineering tests should be constrained to either computer models or laboratories until we develop a good understanding of all associated natural processes and risks. Small-scale process-based experiments could prove to be useful – however, we suggest taking a step back and focusing on open questions regarding natural atmospheric processes like stratospheric aerosol microphysics.\n\nThis blog was co-written by PhD student Blaž Gasparini and Prof. Ulrike Lohmann."
+    },
+    {
+      "heading": "Further information",
+      "text": "[1]The topic has already been discussed in more detail in previous blog entries (in German): Geoengineering – Ein gefährliches Spiel mit Aerosolen? and Kann Geoengineering das Klimaproblem lösen?\n\n[2] Keith et al., 2014: Field experiments on solar geoengineering: report of a workshop exploring a representative research portfolio, Phil. Trans. Roy. Soc., doi: 10.1098/rsta.2014.0175\n\n[3] Dykema et al., 2014: Stratospheric controlled perturbation experiment: a small-scale experiment to improve understanding of the risks of solar geoengineering, Phil. Trans. Roy. Soc., doi: 10.1098/rsta.2014.0059\n\n[4] see also Robock, A. 2012: Is geoengineering research ethical? ( Pdf )\n\nPhD student at the Institute for Atmospheric and Climate Science"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Going Outdoors",
+        "label": "ORG",
+        "start": 38,
+        "end": 52
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 615,
+        "end": 620
+      },
+      {
+        "text": "15–20 km",
+        "label": "QUANTITY",
+        "start": 987,
+        "end": 995
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1076,
+        "end": 1081
+      },
+      {
+        "text": "Mt. Pinatubo",
+        "label": "EVENT",
+        "start": 1256,
+        "end": 1268
+      },
+      {
+        "text": "almost 0.5",
+        "label": "CARDINAL",
+        "start": 1328,
+        "end": 1338
+      },
+      {
+        "text": "the year",
+        "label": "DATE",
+        "start": 1344,
+        "end": 1352
+      },
+      {
+        "text": "nine",
+        "label": "CARDINAL",
+        "start": 57,
+        "end": 61
+      },
+      {
+        "text": "Harvard",
+        "label": "ORG",
+        "start": 282,
+        "end": 289
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1035,
+        "end": 1041
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 1050,
+        "end": 1052
+      },
+      {
+        "text": "decades",
+        "label": "DATE",
+        "start": 187,
+        "end": 194
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 922,
+        "end": 925
+      },
+      {
+        "text": "Blaž Gasparini",
+        "label": "PERSON",
+        "start": 934,
+        "end": 948
+      },
+      {
+        "text": "Ulrike Lohmann",
+        "label": "PERSON",
+        "start": 959,
+        "end": 973
+      },
+      {
+        "text": "1]The",
+        "label": "CARDINAL",
+        "start": 1,
+        "end": 6
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 84,
+        "end": 90
+      },
+      {
+        "text": "Spiel",
+        "label": "PERSON",
+        "start": 127,
+        "end": 132
+      },
+      {
+        "text": "Aerosolen",
+        "label": "PERSON",
+        "start": 137,
+        "end": 146
+      },
+      {
+        "text": "Kann Geoengineering",
+        "label": "PERSON",
+        "start": 152,
+        "end": 171
+      },
+      {
+        "text": "Keith",
+        "label": "PERSON",
+        "start": 200,
+        "end": 205
+      },
+      {
+        "text": "Phil",
+        "label": "PERSON",
+        "start": 331,
+        "end": 335
+      },
+      {
+        "text": "Roy",
+        "label": "PERSON",
+        "start": 344,
+        "end": 347
+      },
+      {
+        "text": "10.1098",
+        "label": "CARDINAL",
+        "start": 360,
+        "end": 367
+      },
+      {
+        "text": "Phil",
+        "label": "PERSON",
+        "start": 546,
+        "end": 550
+      },
+      {
+        "text": "Roy",
+        "label": "PERSON",
+        "start": 559,
+        "end": 562
+      },
+      {
+        "text": "10.1098/rsta.2014.0059",
+        "label": "CARDINAL",
+        "start": 575,
+        "end": 597
+      },
+      {
+        "text": "Robock",
+        "label": "GPE",
+        "start": 611,
+        "end": 617
+      },
+      {
+        "text": "Pdf",
+        "label": "ORG",
+        "start": 666,
+        "end": 669
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 672,
+        "end": 675
+      },
+      {
+        "text": "the Institute for Atmospheric and Climate Science",
+        "label": "ORG",
+        "start": 687,
+        "end": 736
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Aerosolen",
+        "Blaž Gasparini",
+        "Kann Geoengineering",
+        "Keith",
+        "Phil",
+        "Roy",
+        "Spiel",
+        "Ulrike Lohmann"
+      ],
+      "ORG": [
+        "Going Outdoors",
+        "Harvard",
+        "Pdf",
+        "the Institute for Atmospheric and Climate Science"
+      ],
+      "LOCATION": [
+        "Earth",
+        "Europe",
+        "Robock",
+        "US"
+      ],
+      "DATE": [
+        "decades",
+        "the year"
+      ],
+      "MISC": [
+        "10.1098",
+        "10.1098/rsta.2014.0059",
+        "15–20 km",
+        "1]The",
+        "German",
+        "Mt. Pinatubo",
+        "PhD",
+        "almost 0.5",
+        "nine"
+      ]
+    },
+    "entity_counts": {
+      "Earth": 2,
+      "PhD": 2,
+      "Phil": 2,
+      "Roy": 2,
+      "Going Outdoors": 1,
+      "15–20 km": 1,
+      "Mt. Pinatubo": 1,
+      "almost 0.5": 1,
+      "the year": 1,
+      "nine": 1,
+      "Harvard": 1,
+      "Europe": 1,
+      "US": 1,
+      "decades": 1,
+      "Blaž Gasparini": 1,
+      "Ulrike Lohmann": 1,
+      "1]The": 1,
+      "German": 1,
+      "Spiel": 1,
+      "Aerosolen": 1
+    },
+    "total_entities": 31,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "geoengineering-going-outdoors.md",
+      "title": "En News Events/2015/01/geoengineering Going Outdoors",
+      "language": "en",
+      "source_path": "en_news_events/2015/01/geoengineering-going-outdoors.html"
+    },
+    "temporal": {
+      "publication_date": "2015-01",
+      "mentioned_years": [
+        "1991",
+        "2012",
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, between, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Aerosolen",
+        "Blaž Gasparini",
+        "Kann Geoengineering",
+        "Keith",
+        "Phil",
+        "Roy",
+        "Spiel",
+        "Ulrike Lohmann"
+      ],
+      "people_with_roles": {
+        "Blaž Gasparini": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "medical_research",
+        "technology",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1098",
+        "10.1098/rsta.2014.0059",
+        "15–20 km",
+        "1]The",
+        "German",
+        "Mt. Pinatubo",
+        "almost 0.5",
+        "nine"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Going Outdoors",
+        "En News",
+        "Kann Geoengineering",
+        "A Harvard",
+        "Climate Science",
+        "Ulrike Lohmann"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Atmospheric and Climate Science"
+      ],
+      "institutions": [
+        "Going Outdoors",
+        "Harvard",
+        "Pdf",
+        "the Institute for Atmospheric and Climate Science"
+      ],
+      "locations": [
+        "Earth",
+        "Europe",
+        "Robock",
+        "US"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Earth",
+        "PhD",
+        "Phil",
+        "Roy",
+        "Going Outdoors",
+        "15–20 km",
+        "Mt. Pinatubo",
+        "almost 0.5",
+        "the year",
+        "nine"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Field experiments",
+          "Field experiments",
+          "Why bother with geoengineering at all?",
+          "Why is field testing so controversial?",
+          "Why bother with geoengineering at all?",
+          "Further information"
+        ],
+        "content_length": 5848
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Institute for Atmospheric and Climate Science",
+        "1991",
+        "Aerosolen",
+        "2015",
+        "Blaž Gasparini",
+        "Keith",
+        "Spiel",
+        "Going Outdoors",
+        "Kann Geoengineering",
+        "EU",
+        "Pdf",
+        "2012",
+        "Phil",
+        "Harvard",
+        "ERC",
+        "2014",
+        "Ulrike Lohmann",
+        "Roy"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "almost 0.5",
+        "nine",
+        "who",
+        "10.1098/rsta.2014.0059",
+        "chemistry",
+        "when",
+        "15–20 km",
+        "what",
+        "how",
+        "German",
+        "10.1098",
+        "medical_research",
+        "climate_change",
+        "Mt. Pinatubo",
+        "where",
+        "1]The"
+      ],
+      "graph_relations": [
+        "Blaž Gasparini_has_role_student",
+        "research_domain_climate_change",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

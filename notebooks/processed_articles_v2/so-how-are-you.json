@@ -1,0 +1,284 @@
+{
+  "filename": "so-how-are-you.md",
+  "original_filename": "so-how-are-you.html",
+  "source_path": "en_internal/2020/04/so-how-are-you.html",
+  "date": "2020-04",
+  "title": "So How Are You",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Marcel Schuck, researcher in D-ITET",
+      "text": "“Working at home has gone pretty well so far, but having two school-aged children at home means I have to be really organised. We always have an hour of school at 9 o’clock and then I try to do some work. If I have to participate in an important meeting, I allow the kids some TV time or they go and play in the garden. The lack of social contact is probably the biggest challenge for all of us, but especially the kids.”"
+    },
+    {
+      "heading": "Norbert Staub, Deputy Head of Corporate Communications and member of the coronavirus crisis team",
+      "text": "“There are some areas of my robotics research that I can’t work on at the moment because I don’t have access to the lab equipment, so I’m having to find alternative ways of spending my time. Fortunately, methods like 3D printing have made it easier to create prototypes. This in turn is opening up new sources of components and is encouraging us to rethink our current approaches.”"
+    },
+    {
+      "heading": "Andreas Wallraff, Professor of Solid State",
+      "text": "“Everyone has to do what they can in a situation like this. In addition to studying at home, we’ve been working in an interdisciplinary team to get the Students4Hospitals initiative off the ground – linking up students who want to volunteer their help with hospitals who are looking for assistance. As a medical student, I also work part-time on the front line at the Baden cantonal hospital, which has been really fulfilling and a different kind of experience.”"
+    },
+    {
+      "heading": "Mark Buschor, Head of IT Service Desk",
+      "text": "“In Corporate Communications we often deal with issues that need immediate action, so that experience has helped us handle this situation. We were very quick to restructure the team and some of our communication channels as necessary, shifting the focus to the subject of coronavirus and internal communication. With the help of IT Services, we were able to relocate an Executive Board meeting online for the first time – it worked well, but it was a bit of a gamble as we didn’t have time to run a test.”"
+    },
+    {
+      "heading": "Subscribe to Newsletter",
+      "text": "“The most difficult thing has been the fact that the research group and PeKo committee members can’t just drop by and see me at my desk now. We’re still in touch with each other regularly, however, so I’m always there to help them with their questions. Online meetings are no substitute for talking face to face, but it’s a small price to pay in the process of dealing with coronavirus. I feel a real sense of team spirit and solidarity among all of us, and I’m really proud that ETH is setting such a good example through the measures it’s taking to protect us.”"
+    },
+    {
+      "heading": "Andreas Wallraff, Professor of Solid StatePhysics",
+      "text": "“Giving a lecture to 300 students from my home was challenging, but I think it went well overall. The fact that we are devoting so much energy to online lectures and conferences could actually stand us in good stead for the future. I recently gave my first paper at a conference in Washington without having to travel there, for example.”\n\n“It’s difficult for doctoral students who are currently writing their theses but can’t get access to their labs. Some of them are unsure what will happen to their contracts and grants if they can’t complete their research in the agreed time, so AVETH is trying to mediate in those cases. We’re also arranging some social interaction opportunities to ensure that nobody has to sit at home feeling lonely.”\n\n“The Service Desk is the front line for all IT enquiries, and we’re dealing with huge demand at the moment. We didn’t know anything about the IT equipment that employees had in their own homes before this all started, but we’ve managed to solve most problems by being flexible and applying a bit of creativity. To take something positive from the situation, ETH has managed to make more progress in its digital services over the past three weeks than it has over the last five years.”\n\n“VSETH’s normal activities have ramped down a lot because there aren’t any internal events happening at the moment. Instead, what we’re doing is helping concerned students who need information on what is going to happen with their studies. What I really feel is the lack of personal contact, just through the little conversations that you have during lunch or over a beer in the evenings. That’s why it’s so important for us to pay attention to communication at the moment.”\n\nAnd how do you experience this time? Share your experiences and discuss with other ETH members in the comments."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 57,
+        "end": 60
+      },
+      {
+        "text": "an hour",
+        "label": "TIME",
+        "start": 142,
+        "end": 149
+      },
+      {
+        "text": "9 o’clock",
+        "label": "TIME",
+        "start": 163,
+        "end": 172
+      },
+      {
+        "text": "Baden",
+        "label": "GPE",
+        "start": 368,
+        "end": 373
+      },
+      {
+        "text": "Executive Board",
+        "label": "ORG",
+        "start": 370,
+        "end": 385
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 409,
+        "end": 414
+      },
+      {
+        "text": "PeKo",
+        "label": "PERSON",
+        "start": 72,
+        "end": 76
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 480,
+        "end": 483
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 251,
+        "end": 256
+      },
+      {
+        "text": "Washington",
+        "label": "GPE",
+        "start": 282,
+        "end": 292
+      },
+      {
+        "text": "The Service Desk",
+        "label": "WORK_OF_ART",
+        "start": 745,
+        "end": 761
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1102,
+        "end": 1105
+      },
+      {
+        "text": "the past three weeks",
+        "label": "DATE",
+        "start": 1169,
+        "end": 1189
+      },
+      {
+        "text": "the last five years",
+        "label": "DATE",
+        "start": 1207,
+        "end": 1226
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1787,
+        "end": 1790
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "PeKo"
+      ],
+      "ORG": [
+        "ETH",
+        "Executive Board"
+      ],
+      "LOCATION": [
+        "Baden",
+        "Washington"
+      ],
+      "DATE": [
+        "9 o’clock",
+        "an hour",
+        "the last five years",
+        "the past three weeks"
+      ],
+      "MISC": [
+        "The Service Desk",
+        "first",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "first": 2,
+      "two": 1,
+      "an hour": 1,
+      "9 o’clock": 1,
+      "Baden": 1,
+      "Executive Board": 1,
+      "PeKo": 1,
+      "Washington": 1,
+      "The Service Desk": 1,
+      "the past three weeks": 1,
+      "the last five years": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "so-how-are-you.md",
+      "title": "En Internal/2020/04/so How Are You",
+      "language": "en",
+      "source_path": "en_internal/2020/04/so-how-are-you.html"
+    },
+    "temporal": {
+      "publication_date": "2020-04",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "PeKo"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research"
+      ],
+      "research_topics": [
+        "The Service Desk",
+        "first"
+      ],
+      "grants_funding": [
+        "grant"
+      ],
+      "projects": [
+        "How Are",
+        "In Corporate",
+        "IT Services",
+        "Executive Board",
+        "En Internal",
+        "What I",
+        "If I",
+        "The Service"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Executive Board"
+      ],
+      "locations": [
+        "Baden",
+        "Washington"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "first",
+        "two",
+        "an hour",
+        "9 o’clock",
+        "Baden",
+        "Executive Board",
+        "PeKo",
+        "Washington",
+        "The Service Desk"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Marcel Schuck, researcher in D-ITET",
+          "Norbert Staub, Deputy Head of Corporate Communications and member of the coronavirus crisis team",
+          "Andreas Wallraff, Professor of Solid State",
+          "Mark Buschor, Head of IT Service Desk",
+          "Subscribe to Newsletter",
+          "Andreas Wallraff, Professor of Solid StatePhysics"
+        ],
+        "content_length": 4191
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "grant",
+        "2020",
+        "Executive Board",
+        "PeKo"
+      ],
+      "semantic_concepts": [
+        "first",
+        "who",
+        "The Service Desk",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research"
+      ]
+    }
+  }
+}

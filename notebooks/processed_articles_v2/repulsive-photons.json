@@ -1,0 +1,431 @@
+{
+  "filename": "repulsive-photons.md",
+  "original_filename": "repulsive-photons.html",
+  "source_path": "en_news_events/2019/02/repulsive-photons.html",
+  "date": "2019-02",
+  "title": "Repulsive Photons",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Transformation into polaritons",
+      "text": "Two light beams crossing each other do not deflect one another. That is because, according to the laws of quantum physics, there is no interaction between light particles or photons. Therefore, in a collision two photons simply pass through each other instead of bouncing off one another – unless one helps them along in some way. In fact, researchers have tried for quite some time now to find techniques for making photons “feel” each other. The hope is that this will result in many new possibilities for research as well as for practical applications. Ataç Imamoğlu, professor at the Institute for Quantum Electronics at ETH in Zurich, and his collaborators have now taken a further important step towards the realization of strongly interacting photons. Their research results were recently published in the scientific journal Nature Materials ."
+    },
+    {
+      "heading": "Transformation into polaritons",
+      "text": "“Strongly interacting photons are something of a Holy Grail in our field of research, photonics”, explains Aymeric Delteil, who works as a post-doc in Imamoğlu’s laboratory. To make light particles repel each other, he and his colleagues have to go to some length, though. Using an optical fibre, they send short laser pulses into an optical resonator, inside of which the light is strongly focused and finally hits a semiconductor material. That material (produced by Imamoğlu’s colleagues in Würzburg and St. Andrew’s in Scotland) is cooled inside a cryostat – a kind of extremely powerful refrigerator – down to minus 269 degrees centigrade. At those low temperatures the photons can combine with electronic excitations of the material. That combination results in so called polaritons. At the opposite end of the material the polaritons become photons again, which can then exit the resonator.\n\nAs there are electromagnetic forces acting between the electronic excitations, an interaction arises also between the polaritons. “We were able to detect that phenomenon already a while ago”, says Imamoğlu. “However, at the time the effect was so weak that only the interactions between a large number of polaritons played a role, but not the pairwise repulsion between individual polaritons.”"
+    },
+    {
+      "heading": "Correlations signal interactions",
+      "text": "In their new experiment, the researchers were now able to demonstrate that single polaritons – and hence, indirectly, the photons contained in them – can, indeed, interact with each other. This can be inferred from the way in which the photons leaving the resonator correlate with each other. To reveal those so called quantum correlations, one measures the probability of a second photon leaving the resonator shortly after another one. If the photons get in each other’s way through their polaritons inside the semiconductor, that probability will be smaller than one would expect from non-interacting photons.\n\nIn the extreme case there should even be a “photon blockade”, an effect which Imamoğlu already postulated 20 years ago. A photon in the semiconductor that has created a polariton then completely prevents a second photon from entering the material and turning into a polariton itself. “We are quite some way from realizing this”, Imamoğlu admits, “but in the meantime we have improved further on our result that has just been published. This means that we are on the right track.” Imamoğlu’s long-term objective is to make photons interact so strongly with each other that they start behaving like fermions – like quantum particles, in other words, that can never be found at the same place."
+    },
+    {
+      "heading": "Interest in strongly interacting polaritons",
+      "text": "In the first instance, Imamoğlu is not interested in applications. “That’s really basic research,” he says. “But we do hope to be able, one day, to create polaritons that interact so strongly that we can use them to study new effects in quantum physics which are difficult to observe otherwise.” The physicist is particularly interested in situations in which the polaritons are also in contact with their environment and exchange energy with it. That energy exchange, combined with the interactions between the polaritons, should, according to calculations by theoretical physicists. lead to phenomena for which there are only rudimentary explanations so far. Experiments such as those carried out by Imamoğlu could, therefore, help to understand the theoretical models better.\n\nDelteil A, Fink T, Schade A, Höfling S, Schneider C, Imamoğlu A: Towards polariton blockade of confined exciton–polaritons. Nature Materials 2019, 18: 219, doi: 10.1038/s41563-019-0282-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Photons",
+        "label": "ORG",
+        "start": 33,
+        "end": 40
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 209,
+        "end": 212
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 297,
+        "end": 300
+      },
+      {
+        "text": "Ataç Imamoğlu",
+        "label": "PERSON",
+        "start": 556,
+        "end": 569
+      },
+      {
+        "text": "the Institute for Quantum Electronics",
+        "label": "ORG",
+        "start": 584,
+        "end": 621
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 625,
+        "end": 628
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 632,
+        "end": 638
+      },
+      {
+        "text": "Nature Materials",
+        "label": "WORK_OF_ART",
+        "start": 832,
+        "end": 848
+      },
+      {
+        "text": "a Holy Grail",
+        "label": "PERSON",
+        "start": 47,
+        "end": 59
+      },
+      {
+        "text": "Aymeric Delteil",
+        "label": "PERSON",
+        "start": 107,
+        "end": 122
+      },
+      {
+        "text": "Imamoğlu",
+        "label": "ORG",
+        "start": 151,
+        "end": 159
+      },
+      {
+        "text": "Imamoğlu",
+        "label": "ORG",
+        "start": 469,
+        "end": 477
+      },
+      {
+        "text": "Würzburg",
+        "label": "GPE",
+        "start": 494,
+        "end": 502
+      },
+      {
+        "text": "St. Andrew’s",
+        "label": "GPE",
+        "start": 507,
+        "end": 519
+      },
+      {
+        "text": "Scotland",
+        "label": "GPE",
+        "start": 523,
+        "end": 531
+      },
+      {
+        "text": "minus 269 degrees",
+        "label": "QUANTITY",
+        "start": 615,
+        "end": 632
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 341,
+        "end": 344
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 375,
+        "end": 381
+      },
+      {
+        "text": "Imamoğlu",
+        "label": "ORG",
+        "start": 691,
+        "end": 699
+      },
+      {
+        "text": "20 years ago",
+        "label": "DATE",
+        "start": 719,
+        "end": 731
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 819,
+        "end": 825
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 7,
+        "end": 12
+      },
+      {
+        "text": "Imamoğlu",
+        "label": "ORG",
+        "start": 23,
+        "end": 31
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 136,
+        "end": 143
+      },
+      {
+        "text": "Delteil A",
+        "label": "ORG",
+        "start": 779,
+        "end": 788
+      },
+      {
+        "text": "Höfling S",
+        "label": "ORG",
+        "start": 808,
+        "end": 817
+      },
+      {
+        "text": "Schneider C",
+        "label": "PERSON",
+        "start": 819,
+        "end": 830
+      },
+      {
+        "text": "confined exciton",
+        "label": "PERSON",
+        "start": 874,
+        "end": 890
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 940,
+        "end": 947
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ataç Imamoğlu",
+        "Aymeric Delteil",
+        "Schneider C",
+        "a Holy Grail",
+        "confined exciton"
+      ],
+      "ORG": [
+        "Delteil A",
+        "ETH",
+        "En News",
+        "Höfling S",
+        "Imamoğlu",
+        "Photons",
+        "the Institute for Quantum Electronics"
+      ],
+      "LOCATION": [
+        "Scotland",
+        "St. Andrew’s",
+        "Würzburg",
+        "Zurich"
+      ],
+      "DATE": [
+        "20 years ago",
+        "one day"
+      ],
+      "MISC": [
+        "10.1038",
+        "Nature Materials",
+        "Two",
+        "first",
+        "minus 269 degrees",
+        "one",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Imamoğlu": 4,
+      "one": 2,
+      "second": 2,
+      "En News": 1,
+      "Photons": 1,
+      "Two": 1,
+      "two": 1,
+      "Ataç Imamoğlu": 1,
+      "the Institute for Quantum Electronics": 1,
+      "ETH": 1,
+      "Zurich": 1,
+      "Nature Materials": 1,
+      "a Holy Grail": 1,
+      "Aymeric Delteil": 1,
+      "Würzburg": 1,
+      "St. Andrew’s": 1,
+      "Scotland": 1,
+      "minus 269 degrees": 1,
+      "20 years ago": 1,
+      "first": 1
+    },
+    "total_entities": 31,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "repulsive-photons.md",
+      "title": "En News Events/2019/02/repulsive Photons",
+      "language": "en",
+      "source_path": "en_news_events/2019/02/repulsive-photons.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Ataç Imamoğlu",
+        "Aymeric Delteil",
+        "Schneider C",
+        "a Holy Grail",
+        "confined exciton"
+      ],
+      "people_with_roles": {
+        "Ataç Imamoğlu": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Nature Materials",
+        "first",
+        "minus 269 degrees",
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Photons Two",
+        "Delteil A",
+        "Nature Materials",
+        "Schade A",
+        "Holy Grail",
+        "Fink T",
+        "En News",
+        "Schneider C",
+        "Quantum Electronics",
+        "Aymeric Delteil"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Quantum Electronics at ETH in Zurich"
+      ],
+      "institutions": [
+        "Delteil A",
+        "ETH",
+        "En News",
+        "Höfling S",
+        "Imamoğlu",
+        "Photons",
+        "the Institute for Quantum Electronics"
+      ],
+      "locations": [
+        "Scotland",
+        "St. Andrew’s",
+        "Würzburg",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Imamoğlu",
+        "one",
+        "second",
+        "En News",
+        "Photons",
+        "Two",
+        "two",
+        "Ataç Imamoğlu",
+        "the Institute for Quantum Electronics",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Transformation into polaritons",
+          "Transformation into polaritons",
+          "Correlations signal interactions",
+          "Interest in strongly interacting polaritons"
+        ],
+        "content_length": 4456
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Delteil A",
+        "ETH",
+        "En News",
+        "2019",
+        "Schneider C",
+        "Höfling S",
+        "the Institute for Quantum Electronics",
+        "Imamoğlu",
+        "confined exciton",
+        "Photons",
+        "Aymeric Delteil",
+        "Ataç Imamoğlu",
+        "a Holy Grail"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "Nature Materials",
+        "first",
+        "minus 269 degrees",
+        "who",
+        "10.1038",
+        "where",
+        "what",
+        "second",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Ataç Imamoğlu_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

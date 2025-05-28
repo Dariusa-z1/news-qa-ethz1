@@ -1,0 +1,271 @@
+{
+  "filename": "ein-pflueck-roboter-fuers-gewaechshaus.md",
+  "original_filename": "ein-pflueck-roboter-fuers-gewaechshaus.html",
+  "source_path": "de_news_events/2023/12/ein-pflueck-roboter-fuers-gewaechshaus.html",
+  "date": "2023-12",
+  "title": "Ein Pflueck Roboter Fuers Gewaechshaus",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Arbeit im Gewächshaus der Beerstecher AG in Hinwil ist anstrengend: Bei einer Luftfeuchtigkeit von 80 Prozent und Temperaturen von bis zu 35 Grad kommen Menschen schnell an ihre Grenzen. Dementsprechend tut sich das Familienunternehmen in Hinwil schwer, geeignete Arbeitskräfte für die Gemüseernte zu finden und sie zu halten.\n\nDer Pflückroboter des ETH-Spin-offs Floating Robotics soll nun Abhilfe schaffen. Mit ihm werden wichtige Aufgaben wie die Entlaubung, die Ernte und die Verpackung von Gemüse automatisiert. „Der Roboter übernimmt vor allem anstrengende und repetitive Aktivitäten, während unsere Mitarbeitenden sich auf anspruchsvollere Aufgaben konzentrieren können, die kreatives und kritisches Denken erfordern“, erklärt Bianca Curcio, die für die Produktionsleitung im Gewächshaus von Beerstecher verantwortlich ist und früher an der ETH Zürich studiert hat.\n\nObwohl sich der Roboter noch in der Pilotphase befindet, geht Curcio davon aus, dass er eine feste Rolle im Produktionsprozess der Beerstecher AG einnehmen wird.\n\nEntwickelt wurde der Roboter von Ingenieur:innen und Studierenden des Robotic Systems Lab (RSL) der ETH Zürich. Unter der Leitung von Salman Faraji gründeten sie 2023 das Spin-off Floating Robotics, um die Technologie hinter dem Pflück-Roboter auf den Markt zu bringen.\n\nDer Roboter überwacht mittels einer integrierten Kamera das Pflanzenwachstum und setzt einen eingebauten Computer ein, um unterschiedliche Pflanzen und Objekte präzise zu identifizieren. Im Anschluss wird der Roboterarm aktiviert und führt spezifische Aufgaben aus, wie beispielsweise das Entlauben oder Ernten."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Fuers Gewaechshaus",
+        "label": "PER",
+        "start": 43,
+        "end": 61
+      },
+      {
+        "text": "Beerstecher AG",
+        "label": "ORG",
+        "start": 30,
+        "end": 44
+      },
+      {
+        "text": "Hinwil",
+        "label": "LOC",
+        "start": 48,
+        "end": 54
+      },
+      {
+        "text": "Hinwil",
+        "label": "LOC",
+        "start": 243,
+        "end": 249
+      },
+      {
+        "text": "Floating Robotics",
+        "label": "MISC",
+        "start": 367,
+        "end": 384
+      },
+      {
+        "text": "Bianca Curcio",
+        "label": "PER",
+        "start": 737,
+        "end": 750
+      },
+      {
+        "text": "Beerstecher",
+        "label": "LOC",
+        "start": 802,
+        "end": 813
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 851,
+        "end": 861
+      },
+      {
+        "text": "Curcio",
+        "label": "PER",
+        "start": 938,
+        "end": 944
+      },
+      {
+        "text": "Beerstecher AG",
+        "label": "ORG",
+        "start": 1007,
+        "end": 1021
+      },
+      {
+        "text": "Robotic Systems Lab",
+        "label": "ORG",
+        "start": 1108,
+        "end": 1127
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1138,
+        "end": 1148
+      },
+      {
+        "text": "Salman Faraji",
+        "label": "PER",
+        "start": 1172,
+        "end": 1185
+      },
+      {
+        "text": "Floating Robotics",
+        "label": "ORG",
+        "start": 1218,
+        "end": 1235
+      },
+      {
+        "text": "Pflück-Roboter",
+        "label": "MISC",
+        "start": 1267,
+        "end": 1281
+      },
+      {
+        "text": "Anschluss",
+        "label": "MISC",
+        "start": 1498,
+        "end": 1507
+      },
+      {
+        "text": "Roboterarm",
+        "label": "MISC",
+        "start": 1517,
+        "end": 1527
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bianca Curcio",
+        "Curcio",
+        "Fuers Gewaechshaus",
+        "Salman Faraji"
+      ],
+      "ORG": [
+        "Beerstecher AG",
+        "ETH Zürich",
+        "Floating Robotics",
+        "Robotic Systems Lab"
+      ],
+      "LOCATION": [
+        "Beerstecher",
+        "Hinwil"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Anschluss",
+        "Floating Robotics",
+        "Pflück-Roboter",
+        "Roboterarm"
+      ]
+    },
+    "entity_counts": {
+      "Beerstecher AG": 2,
+      "Hinwil": 2,
+      "Floating Robotics": 2,
+      "ETH Zürich": 2,
+      "Fuers Gewaechshaus": 1,
+      "Bianca Curcio": 1,
+      "Beerstecher": 1,
+      "Curcio": 1,
+      "Robotic Systems Lab": 1,
+      "Salman Faraji": 1,
+      "Pflück-Roboter": 1,
+      "Anschluss": 1,
+      "Roboterarm": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ein-pflueck-roboter-fuers-gewaechshaus.md",
+      "title": "De News Events/2023/12/ein Pflueck Roboter Fuers Gewaechshaus",
+      "language": "de",
+      "source_path": "de_news_events/2023/12/ein-pflueck-roboter-fuers-gewaechshaus.html"
+    },
+    "temporal": {
+      "publication_date": "2023-12",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bianca Curcio",
+        "Curcio",
+        "Fuers Gewaechshaus",
+        "Salman Faraji"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Anschluss",
+        "Floating Robotics",
+        "Pflück-Roboter",
+        "Roboterarm"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Spin",
+        "Pflueck Roboter",
+        "Im Anschluss",
+        "Robotic Systems",
+        "Die Arbeit",
+        "De News",
+        "Floating Robotics",
+        "Salman Faraji",
+        "Fuers Gewaechshaus",
+        "Beerstecher AG",
+        "Bianca Curcio",
+        "Der Roboter"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Beerstecher AG",
+        "ETH Zürich",
+        "Floating Robotics",
+        "Robotic Systems Lab"
+      ],
+      "locations": [
+        "Beerstecher",
+        "Hinwil"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Beerstecher AG",
+        "Hinwil",
+        "Floating Robotics",
+        "ETH Zürich",
+        "Fuers Gewaechshaus",
+        "Bianca Curcio",
+        "Beerstecher",
+        "Curcio",
+        "Robotic Systems Lab",
+        "Salman Faraji"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1685
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "Curcio",
+        "ETH Zürich",
+        "Robotic Systems Lab",
+        "Floating Robotics",
+        "Salman Faraji",
+        "Fuers Gewaechshaus",
+        "Beerstecher AG",
+        "Bianca Curcio",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "Pflück-Roboter",
+        "Anschluss",
+        "Floating Robotics",
+        "Roboterarm"
+      ],
+      "graph_relations": []
+    }
+  }
+}

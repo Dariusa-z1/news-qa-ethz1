@@ -1,0 +1,548 @@
+{
+  "filename": "how-to-make-bright-quantum-dots-even-brighter.md",
+  "original_filename": "how-to-make-bright-quantum-dots-even-brighter.html",
+  "source_path": "en_news_events/2024/01/how-to-make-bright-quantum-dots-even-brighter.html",
+  "date": "2024-01",
+  "title": "How To Make Bright Quantum Dots Even Brighter",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Unhappy atoms reduce brightness",
+      "text": "Quantum dots are a kind of artificial atom: just a few nanometres in size and made of semiconductor materials, they can emit light of a specific colour or even single photons, which is important for quantum technologies. The discoverers and pioneers of the commercial production of quantum dots were awarded the Nobel Prize in Chemistry in 2023. In recent years, quantum dots made of perovskites have attracted particular attention. Perovskites belong to a class of materials that have a similar structure to the mineral perovskite (calcium titanate). Quantum dots made of such materials were produced for the first time by ETH Zurich in 2014. These quantum dots made of perovskite nanocrystals can be mixed with liquids to form a dispersion, making them easy to further process. Moreover, their special optical properties make them shine brighter than many other quantum dots. They can also be produced less expensively, which makes them interesting for applications in displays, for instance.\n\nA team of researchers led by Maksym Kovalenko at ETH Zurich and Empa, working in collaboration with their counterparts in Ukraine and the USA, have now demonstrated how these promising properties of perovskite quantum dots can be further improved. They used chemical methods for surface treatment and quantum mechanical effects that had never before been observed in perovskite quantum dots. The researchers recently published their results in two papers in the prestigious scientific journal Nature ."
+    },
+    {
+      "heading": "Unhappy atoms reduce brightness",
+      "text": "Brightness is an important measure for quantum dots and is related to the number of photons the quantum dot emits per second. Quantum dots radiate photons of a specific colour (and hence frequency) after being excited, for example, by ultraviolet light of a higher frequency. This leads to the formation of an exciton consisting of an electron, which can now move more freely, and a hole – in other words, a missing electron – in the energetic band structure of the material. The excited electron can fall back to a lower energy state and thus recombine with the hole. If the energy released during this process is converted into a photon, the quantum dot emits light.\n\nThis doesn’t always work, however. “At the surface of the perovskite nanocrystals are ‘unhappy’ atoms that are missing a neighbour in the crystal lattice,” senior researcher Gabriele Raino explains. These edge atoms disturb the balance between positive and negative charge carriers inside the nanocrystal and can cause the energy released during a recombination to be converted into lattice vibrations instead of being emitted as light. As a result, the quantum dot “blinks”, meaning that it doesn’t shine continuously."
+    },
+    {
+      "heading": "Protective coating made of phospholipids",
+      "text": "To prevent this from happening, Kovalenko and his team have developed tailor-made molecules known as phospholipids. “These phospholipids are very similar to the liposomes in which, for instance, the mRNA vaccine against the coronavirus is embedded in such a way as to make it stable in the bloodstream until it reaches the cells,” Kovalenko explains. An important difference: the researchers optimised their molecules so that the polar, or electrically sensitive, part of the molecule latches on to the surface of the perovskite quantum dots and makes sure that the ‘unhappy’ atoms are provided with a charge partner."
+    },
+    {
+      "heading": "Reference",
+      "text": "The nonpolar part of the phospholipid that protrudes on the outside also makes it possible to turn quantum dots into a dispersion inside non-aqueous solutions such as organic solvents. The lipid coating on the surface of the perovskite nanocrystals is also important for their structural stability, as Kovalenko emphasises: “This surface treatment is absolutely essentially for anything we might want to do with the quantum dots.” So far, Kovalenko and his team have demonstrated the treatment for quantum dots made of lead halide perovskites, but it can also be easily adapted to other metal halide quantum dots.\n\nWith the lipid surface it was possible to reduce the blinking of the quantum dots to such an extent to emit a photon in 95 percent of electron-hole recombination events. To make the quantum dot even brighter, however, the researchers had to increase the speed of the recombination itself – and that requires quantum mechanics. An excited state, such as an exciton, decays when a dipole – positive and negative charges displace with respect to each other – interacts with the electromagnetic field of the vacuum. The larger the dipole, the faster the decay. One possibility of creating a larger dipole involves coherently coupling several smaller dipoles to each other. This can be compared to pendulum clocks that are mechanically connected and tick in step with each other after a certain length of time.\n\nThe researchers were able to show experimentally that the coherent coupling also works in perovskite quantum dots – with only a single exciton dipole that, through quantum mechanical effects, spreads out all over the volume of the quantum dot, thereby creating several copies of itself, as it were. The larger the quantum dot, the more copies that can be created. These copies can bring about an effect known as superradiance, by which the exciton recombines much faster. The quantum dot is consequently also ready more quickly to take up a new exciton and can thus emit more photons per second, making it even brighter. An important detail to note is that the faster quantum dot continues to emit single photons (not several photons at once), which makes it suitable for quantum technologies.\n\nThe improved perovskite quantum dots are not only of interest for light production and displays, says Kovalenko, but also in other, less obvious fields. For instance, they could be used as light-activated catalysts in organic chemistry. Kovalenko is conducting research into such applications and several others, including within the framework of NCCR Catalysis.\n\nMorad, V., Stelmakh, A., Svyrydenko, M., Baumketner, A, Kovalenko, MV et al. Designer Phospholipid Capping Ligands for Soft Metal Halide Nanocrystals. Nature (2023), 18 December 2023. DOI: 10.1038/s41586-023-06932-6\n\nSercel, PC, Kovalenko, MV, Rainò, G, et al. Single-photon superradiance in individual caesium lead halide quantum dots. Nature (2024), 31 January 2024. DOI: 10.1038/s41586-023-07001-8"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "the Nobel Prize in Chemistry",
+        "label": "WORK_OF_ART",
+        "start": 308,
+        "end": 336
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 349,
+        "end": 361
+      },
+      {
+        "text": "Perovskites",
+        "label": "GPE",
+        "start": 433,
+        "end": 444
+      },
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 552,
+        "end": 559
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 610,
+        "end": 615
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 624,
+        "end": 634
+      },
+      {
+        "text": "Maksym Kovalenko",
+        "label": "PERSON",
+        "start": 1024,
+        "end": 1040
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1044,
+        "end": 1054
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 1059,
+        "end": 1063
+      },
+      {
+        "text": "Ukraine",
+        "label": "GPE",
+        "start": 1117,
+        "end": 1124
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 1133,
+        "end": 1136
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1439,
+        "end": 1442
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 1488,
+        "end": 1494
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 118,
+        "end": 124
+      },
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 126,
+        "end": 133
+      },
+      {
+        "text": "Gabriele Raino",
+        "label": "PERSON",
+        "start": 843,
+        "end": 857
+      },
+      {
+        "text": "Kovalenko",
+        "label": "PERSON",
+        "start": 32,
+        "end": 41
+      },
+      {
+        "text": "Kovalenko",
+        "label": "PERSON",
+        "start": 331,
+        "end": 340
+      },
+      {
+        "text": "Kovalenko",
+        "label": "ORG",
+        "start": 302,
+        "end": 311
+      },
+      {
+        "text": "Kovalenko",
+        "label": "FAC",
+        "start": 439,
+        "end": 448
+      },
+      {
+        "text": "95 percent",
+        "label": "PERCENT",
+        "start": 734,
+        "end": 744
+      },
+      {
+        "text": "exciton",
+        "label": "GPE",
+        "start": 970,
+        "end": 977
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1171,
+        "end": 1174
+      },
+      {
+        "text": "exciton dipole",
+        "label": "PERSON",
+        "start": 1555,
+        "end": 1569
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 2008,
+        "end": 2014
+      },
+      {
+        "text": "Kovalenko",
+        "label": "PERSON",
+        "start": 2316,
+        "end": 2325
+      },
+      {
+        "text": "Kovalenko",
+        "label": "PERSON",
+        "start": 2451,
+        "end": 2460
+      },
+      {
+        "text": "NCCR Catalysis",
+        "label": "ORG",
+        "start": 2561,
+        "end": 2575
+      },
+      {
+        "text": "Morad",
+        "label": "GPE",
+        "start": 2577,
+        "end": 2582
+      },
+      {
+        "text": "Svyrydenko",
+        "label": "PERSON",
+        "start": 2602,
+        "end": 2612
+      },
+      {
+        "text": "Baumketner",
+        "label": "NORP",
+        "start": 2618,
+        "end": 2628
+      },
+      {
+        "text": "Kovalenko",
+        "label": "LOC",
+        "start": 2633,
+        "end": 2642
+      },
+      {
+        "text": "MV",
+        "label": "ORG",
+        "start": 2644,
+        "end": 2646
+      },
+      {
+        "text": "Phospholipid Capping Ligands",
+        "label": "PERSON",
+        "start": 2663,
+        "end": 2691
+      },
+      {
+        "text": "18 December 2023",
+        "label": "DATE",
+        "start": 2743,
+        "end": 2759
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2766,
+        "end": 2773
+      },
+      {
+        "text": "Sercel",
+        "label": "PRODUCT",
+        "start": 2793,
+        "end": 2799
+      },
+      {
+        "text": "Kovalenko",
+        "label": "LOC",
+        "start": 2805,
+        "end": 2814
+      },
+      {
+        "text": "MV",
+        "label": "ORG",
+        "start": 2816,
+        "end": 2818
+      },
+      {
+        "text": "Rainò",
+        "label": "PERSON",
+        "start": 2820,
+        "end": 2825
+      },
+      {
+        "text": "31 January 2024",
+        "label": "DATE",
+        "start": 2928,
+        "end": 2943
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2950,
+        "end": 2957
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Gabriele Raino",
+        "Kovalenko",
+        "Maksym Kovalenko",
+        "Phospholipid Capping Ligands",
+        "Rainò",
+        "Svyrydenko",
+        "exciton dipole"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Empa",
+        "Kovalenko",
+        "MV",
+        "NCCR Catalysis",
+        "Quantum"
+      ],
+      "LOCATION": [
+        "Kovalenko",
+        "Morad",
+        "Perovskites",
+        "USA",
+        "Ukraine",
+        "exciton"
+      ],
+      "DATE": [
+        "18 December 2023",
+        "31 January 2024",
+        "recent years"
+      ],
+      "MISC": [
+        "10.1038",
+        "95 percent",
+        "Baumketner",
+        "Nature",
+        "One",
+        "Sercel",
+        "first",
+        "second",
+        "the Nobel Prize in Chemistry",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Kovalenko": 8,
+      "Quantum": 3,
+      "ETH Zurich": 2,
+      "second": 2,
+      "MV": 2,
+      "10.1038": 2,
+      "the Nobel Prize in Chemistry": 1,
+      "recent years": 1,
+      "Perovskites": 1,
+      "first": 1,
+      "Maksym Kovalenko": 1,
+      "Empa": 1,
+      "Ukraine": 1,
+      "USA": 1,
+      "two": 1,
+      "Nature": 1,
+      "Gabriele Raino": 1,
+      "95 percent": 1,
+      "exciton": 1,
+      "One": 1
+    },
+    "total_entities": 43,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-to-make-bright-quantum-dots-even-brighter.md",
+      "title": "En News Events/2024/01/how To Make Bright Quantum Dots Even Brighter",
+      "language": "en",
+      "source_path": "en_news_events/2024/01/how-to-make-bright-quantum-dots-even-brighter.html"
+    },
+    "temporal": {
+      "publication_date": "2024-01",
+      "mentioned_years": [
+        "2014",
+        "2023",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Gabriele Raino",
+        "Kovalenko",
+        "Maksym Kovalenko",
+        "Phospholipid Capping Ligands",
+        "Rainò",
+        "Svyrydenko",
+        "exciton dipole"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher"
+        ],
+        "Gabriele Raino": [
+          "researcher"
+        ],
+        "Kovalenko": [
+          "researcher"
+        ],
+        "Maksym Kovalenko": [
+          "researcher"
+        ],
+        "exciton dipole": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "95 percent",
+        "Baumketner",
+        "Nature",
+        "Sercel",
+        "first",
+        "second",
+        "the Nobel Prize in Chemistry"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Gabriele Raino",
+        "Halide Nanocrystals",
+        "Bright Quantum",
+        "En News",
+        "To Make",
+        "Nobel Prize",
+        "NCCR Catalysis",
+        "Designer Phospholipid",
+        "Maksym Kovalenko",
+        "Capping Ligands",
+        "Soft Metal",
+        "ETH Zurich",
+        "Brighter Quantum",
+        "Dots Even"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "Empa",
+        "Kovalenko",
+        "MV",
+        "NCCR Catalysis",
+        "Quantum"
+      ],
+      "locations": [
+        "Kovalenko",
+        "Morad",
+        "Perovskites",
+        "USA",
+        "Ukraine",
+        "exciton"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Kovalenko",
+        "Quantum",
+        "ETH Zurich",
+        "second",
+        "MV",
+        "10.1038",
+        "the Nobel Prize in Chemistry",
+        "recent years",
+        "Perovskites",
+        "first"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Unhappy atoms reduce brightness",
+          "Unhappy atoms reduce brightness",
+          "Protective coating made of phospholipids",
+          "Reference"
+        ],
+        "content_length": 6356
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "Phospholipid Capping Ligands",
+        "MV",
+        "2014",
+        "Svyrydenko",
+        "Empa",
+        "NCCR Catalysis",
+        "Kovalenko",
+        "Maksym Kovalenko",
+        "Quantum",
+        "2023",
+        "ETH Zurich",
+        "Rainò",
+        "ERC",
+        "exciton dipole",
+        "Gabriele Raino"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "Nature",
+        "Baumketner",
+        "Sercel",
+        "the Nobel Prize in Chemistry",
+        "who",
+        "10.1038",
+        "chemistry",
+        "where",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "95 percent",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "Gabriele Raino_has_role_researcher",
+        "Kovalenko_has_role_researcher",
+        "Maksym Kovalenko_has_role_researcher",
+        "exciton dipole_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

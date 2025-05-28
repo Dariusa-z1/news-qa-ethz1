@@ -1,0 +1,403 @@
+{
+  "filename": "3d-druck-metallischer-mikroobjekte.md",
+  "original_filename": "3d-druck-metallischer-mikroobjekte.html",
+  "source_path": "de_news_events/2019/04/3d-druck-metallischer-mikroobjekte.html",
+  "date": "2019-04",
+  "title": "3D Druck Metallischer Mikroobjekte",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Alternativen zur Tinte",
+      "text": "3D-Drucker können heute vom Prototypen in der Fertigung über künstliche Organe bis hin zu kompletten Häusern fast alles drucken. Besonders im mikroskopischen Bereich macht die additive Fertigung, wie der 3D-Druck auch genannt wird, dabei die Herstellung von Strukturen möglich, die sich mit anderen Verfahren wie etwa der Lithographie nicht realisieren liessen. Eine Schwachstelle der additiven Fertigung waren bisher allerdings metallische Strukturen auf der Mikrometerskala.\n\nForschende der ETH Zürich um Ralph Spolenak, Professor am Labor für Nanometallurgie des Departements für Materialwissenschaft, haben nun gemeinsam mit Dimos Poulikakos vom Departement Maschinenbau und Verfahrenstechnik sowie Renato Zenobi vom Departement Chemie und Angewandte Biowissenschaften ein Verfahren entwickelt, mit dem sich sogar zwei Metalle gleichzeitig mit einer räumlichen Auflösung von 250 Nanometern drucken lassen."
+    },
+    {
+      "heading": "Alternativen zur Tinte",
+      "text": "Herkömmliche Verfahren für den Metall-3D-Druck sind tintenbasiert, das heisst, das gewünschte Metall wird als Nanopartikel in einer Suspension durch eine Druckdüse auf eine Oberfläche aufgebracht. Ein positiver Aspekt der Tinten ist, dass sie sich mit einer Vielzahl von Materialien herstellen lassen, doch es gibt auch gewichtige Nachteile. «Solche Verfahren machen eine Nachbearbeitung durch Erhitzung des Druckergebnisses nötig, was zu einer Schrumpfung und ausgeprägter Porosität im Material führt», erklärt Alain Reiser, Doktorand in Spolenaks Arbeitsgruppe und Erstautor der jetzt in externe Seite Nature Communications veröffentlichten Studie. «Das bedeutet in der Regel, dass die metallischen Strukturen weniger leitfähig, mechanisch weniger stabil und zudem oft mit organischen Verbindungen des Lösungsmittels verunreinigt sind.»"
+    },
+    {
+      "heading": "Drucken mit Ionen",
+      "text": "Um dieses Problem zu lösen, wählten die ETH-Wissenschaftler den direkten Weg: Das Metall wird nun nicht mehr als Nanopartikel abgeschieden, sondern in Form von elektrisch geladenen Metallionen transportiert. Diese werden in der Druckdüse durch Anlegen einer elektrischen Spannung aus einer «Opferanode» gewonnen, die aus dem entsprechenden Metall besteht. Die Ionen werden dann in einem Lösungsmittel durch elektrische Kräfte auf die zu bedruckende Oberfläche gesprüht, wo sie ihre Ladung verlieren und sich wieder zum Metall zusammenfügen."
+    },
+    {
+      "heading": "Vielfältige Anwendungen",
+      "text": "Die so gedruckten Metalle sind dicht und weisen elektrische und mechanische Eigenschaften auf, die denen von traditionell hergestellten Dünnfilmen ebenbürtig sind. Dabei bietet das neue Druckverfahren eine Auflösung von 250 Nanometern bei einer Druckgeschwindigkeit von zehn Voxeln pro Sekunde (ein Voxel ist ein Volumenelement, ähnlich dem Pixel beim 2D-Druck). Damit ist das Verfahren zehnmal schneller als bisherige elektrochemische Druckverfahren."
+    },
+    {
+      "heading": "Metalle im Wechsel",
+      "text": "Das neue «elektro-hydrodynamische Redox-Druckverfahren» hat noch einen weiteren entscheidenden Vorteil, wie Reiser betont: «Durch das direkte Drucken mittels Metallionen, ohne den Umweg über eine Tinte, können wir sogar zwei Metalle gleichzeitig oder im Wechsel drucken. Das erlaubt es uns, Metallstrukturen mit lokal kontrollierbaren chemischen, elektrischen oder mechanischen Eigenschaften herzustellen.» Um dies zu erreichen, benutzen die Forscher eine Doppel-Druckdüse, in der sich zwei verschiedene Opferanoden befinden. Welches Metall wann, wo und in welcher Konzentration gedruckt werden soll, kann nun einfach durch die angelegten Spannungen gesteuert werden. Die Benutzung einer einzelnen Druckdüse macht es zudem einfacher, beide Metalle genau zu positionieren. Bis zu zehn Mal pro Sekunde kann man dabei zwischen den beiden Metallen hin- und herschalten. Auf diese Weise gelang es Spolenak und seinen Mitarbeitern zum Beispiel, nur 250 Nanometer breite Säulen zu drucken, die im Wechsel Abschnitte aus Kupfer und Silber enthielten. Durch die Einstellung der Legierung der beiden Metalle konnten sie die lokale Porosität und somit Steifigkeit und Festigkeit der Nano-Säulen exakt kontrollieren.\n\nDie möglichen Anwendungen der neuen Technik sind vielfältig. Die ETH-Wissenschaftler arbeiten zurzeit mit Experten für gedruckte Elektronik daran, feinste Verbindungsdrähte zu organischen Halbleitern mit dem 3D-Druck herzustellen. In Zukunft wollen sie zudem die Palette der verwendeten Metalle erweitern (bislang wurden Kupfer, Silber und Gold getestet), zum Beispiel um magnetische Materialien. Als Fernziel, so Alain Reiser, sollte dann etwa die Herstellung von Photosensoren, gedruckten integrierten Schaltkreisen und mechanischen Metamaterialien möglich sein.\n\nReiser A et.al.: Multi-metal electrohydrodynamic redox 3D printing at the submicron scale. Nature Communications 10, 1853 (2019). DOI: externe Seite 10.1038/s41467-019-09827-1"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Metallischer",
+        "label": "MISC",
+        "start": 32,
+        "end": 44
+      },
+      {
+        "text": "Mikrometerskala",
+        "label": "LOC",
+        "start": 460,
+        "end": 475
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 492,
+        "end": 502
+      },
+      {
+        "text": "Ralph Spolenak",
+        "label": "PER",
+        "start": 506,
+        "end": 520
+      },
+      {
+        "text": "Departements",
+        "label": "LOC",
+        "start": 565,
+        "end": 577
+      },
+      {
+        "text": "Dimos Poulikakos",
+        "label": "PER",
+        "start": 628,
+        "end": 644
+      },
+      {
+        "text": "Renato Zenobi",
+        "label": "PER",
+        "start": 702,
+        "end": 715
+      },
+      {
+        "text": "Druckergebnisses",
+        "label": "MISC",
+        "start": 408,
+        "end": 424
+      },
+      {
+        "text": "Alain Reiser",
+        "label": "PER",
+        "start": 512,
+        "end": 524
+      },
+      {
+        "text": "Spolenaks Arbeitsgruppe",
+        "label": "ORG",
+        "start": 539,
+        "end": 562
+      },
+      {
+        "text": "Nature Communications",
+        "label": "PER",
+        "start": 604,
+        "end": 625
+      },
+      {
+        "text": "ETH-Wissenschaftler",
+        "label": "MISC",
+        "start": 40,
+        "end": 59
+      },
+      {
+        "text": "Druckdüse",
+        "label": "ORG",
+        "start": 228,
+        "end": 237
+      },
+      {
+        "text": "Redox-Druckverfahren",
+        "label": "MISC",
+        "start": 34,
+        "end": 54
+      },
+      {
+        "text": "Reiser",
+        "label": "PER",
+        "start": 108,
+        "end": 114
+      },
+      {
+        "text": "Spolenak",
+        "label": "PER",
+        "start": 892,
+        "end": 900
+      },
+      {
+        "text": "Nano-Säulen",
+        "label": "ORG",
+        "start": 1172,
+        "end": 1183
+      },
+      {
+        "text": "ETH-Wissenschaftler",
+        "label": "MISC",
+        "start": 1270,
+        "end": 1289
+      },
+      {
+        "text": "Alain Reiser",
+        "label": "PER",
+        "start": 1619,
+        "end": 1631
+      },
+      {
+        "text": "Reiser A et.al",
+        "label": "LOC",
+        "start": 1770,
+        "end": 1784
+      },
+      {
+        "text": "Multi-metal",
+        "label": "ORG",
+        "start": 1787,
+        "end": 1798
+      },
+      {
+        "text": "Nature Communications",
+        "label": "MISC",
+        "start": 1861,
+        "end": 1882
+      },
+      {
+        "text": "DOI",
+        "label": "ORG",
+        "start": 1900,
+        "end": 1903
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alain Reiser",
+        "De News",
+        "Dimos Poulikakos",
+        "Nature Communications",
+        "Ralph Spolenak",
+        "Reiser",
+        "Renato Zenobi",
+        "Spolenak"
+      ],
+      "ORG": [
+        "DOI",
+        "Druckdüse",
+        "ETH Zürich",
+        "Multi-metal",
+        "Nano-Säulen",
+        "Spolenaks Arbeitsgruppe"
+      ],
+      "LOCATION": [
+        "Departements",
+        "Mikrometerskala",
+        "Reiser A et.al"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Druckergebnisses",
+        "ETH-Wissenschaftler",
+        "Metallischer",
+        "Nature Communications",
+        "Redox-Druckverfahren"
+      ]
+    },
+    "entity_counts": {
+      "Alain Reiser": 2,
+      "Nature Communications": 2,
+      "ETH-Wissenschaftler": 2,
+      "De News": 1,
+      "Metallischer": 1,
+      "Mikrometerskala": 1,
+      "ETH Zürich": 1,
+      "Ralph Spolenak": 1,
+      "Departements": 1,
+      "Dimos Poulikakos": 1,
+      "Renato Zenobi": 1,
+      "Druckergebnisses": 1,
+      "Spolenaks Arbeitsgruppe": 1,
+      "Druckdüse": 1,
+      "Redox-Druckverfahren": 1,
+      "Reiser": 1,
+      "Spolenak": 1,
+      "Nano-Säulen": 1,
+      "Reiser A et.al": 1,
+      "Multi-metal": 1
+    },
+    "total_entities": 24,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "3d-druck-metallischer-mikroobjekte.md",
+      "title": "De News Events/2019/04/3d Druck Metallischer Mikroobjekte",
+      "language": "de",
+      "source_path": "de_news_events/2019/04/3d-druck-metallischer-mikroobjekte.html"
+    },
+    "temporal": {
+      "publication_date": "2019-04",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Alain Reiser",
+        "De News",
+        "Dimos Poulikakos",
+        "Nature Communications",
+        "Ralph Spolenak",
+        "Reiser",
+        "Renato Zenobi",
+        "Spolenak"
+      ],
+      "people_with_roles": {
+        "Dimos Poulikakos": [
+          "professor"
+        ],
+        "Ralph Spolenak": [
+          "professor"
+        ],
+        "Renato Zenobi": [
+          "professor"
+        ],
+        "Spolenak": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Druckergebnisses",
+        "ETH-Wissenschaftler",
+        "Metallischer",
+        "Nature Communications",
+        "Redox-Druckverfahren"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Das Metall",
+        "Angewandte Biowissenschaften",
+        "Als Fernziel",
+        "Ralph Spolenak",
+        "Alain Reiser",
+        "Departement Chemie",
+        "Departement Maschinenbau",
+        "Spolenaks Arbeitsgruppe",
+        "Die Ionen",
+        "ETH-Wissenschaftler",
+        "Die ETH",
+        "Redox-Druckverfahren",
+        "Eine Schwachstelle",
+        "Reiser A",
+        "Dimos Poulikakos",
+        "Nature Communications",
+        "Renato Zenobi",
+        "In Zukunft",
+        "Die Benutzung",
+        "Seite Nature",
+        "Druck Metallischer",
+        "De News",
+        "Welches Metall",
+        "Wechsel Abschnitte",
+        "Solche Verfahren"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DOI",
+        "Druckdüse",
+        "ETH Zürich",
+        "Multi-metal",
+        "Nano-Säulen",
+        "Spolenaks Arbeitsgruppe"
+      ],
+      "locations": [
+        "Departements",
+        "Mikrometerskala",
+        "Reiser A et.al"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Alain Reiser",
+        "Nature Communications",
+        "ETH-Wissenschaftler",
+        "De News",
+        "Metallischer",
+        "Mikrometerskala",
+        "ETH Zürich",
+        "Ralph Spolenak",
+        "Departements",
+        "Dimos Poulikakos"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Alternativen zur Tinte",
+          "Alternativen zur Tinte",
+          "Drucken mit Ionen",
+          "Vielfältige Anwendungen",
+          "Metalle im Wechsel"
+        ],
+        "content_length": 4747
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Ralph Spolenak",
+        "Alain Reiser",
+        "Renato Zenobi",
+        "Nano-Säulen",
+        "DOI",
+        "Spolenak",
+        "2019",
+        "EU",
+        "Spolenaks Arbeitsgruppe",
+        "Reiser",
+        "ETH Zürich",
+        "Druckdüse",
+        "De News",
+        "Nature Communications",
+        "Dimos Poulikakos",
+        "Multi-metal"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Metallischer",
+        "who",
+        "ETH-Wissenschaftler",
+        "Nature Communications",
+        "Druckergebnisses",
+        "Redox-Druckverfahren"
+      ],
+      "graph_relations": [
+        "Dimos Poulikakos_has_role_professor",
+        "Ralph Spolenak_has_role_professor",
+        "Renato Zenobi_has_role_professor",
+        "Spolenak_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

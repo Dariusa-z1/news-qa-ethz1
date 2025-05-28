@@ -1,0 +1,366 @@
+{
+  "filename": "informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-maerz-2021.md",
+  "original_filename": "informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-maerz-2021.html",
+  "source_path": "en_internal/2021/02/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-maerz-2021.html",
+  "date": "2021-02",
+  "title": "Informationen Zu Oeffnungszeiten Und Angeboten Der Eth Bibliothek Ab Dem 1 Maerz 2021",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Locations and opening hours",
+      "text": "- In the main building and Architecture and Civil Engineering Library, it is possible to borrow and return documents from all locations. Short searches and consultations can also take place in compliance with distance and hygiene regulations.\n\n- We offer a free postal service for ETH staff.\n\n- Reading lounges with national and international (specialist) journals and daily newspapers are available.\n\n- Photocopiers and scanners can be used in compliance with the distancing rules.\n\n- The Reading Room Collections and Archives and the exhibition of the Max Frisch Archive are regularly open Mon–Fri from 10.00–17.00. For the Reading Room pre-registration is kindly requested.\n\n- The Thomas Mann Archives are accessible by appointment. The exhibition of the Graphische Sammlung can be visited during regular opening hours from Mon–Fri 10.00–16.45.\n\nFrom Monday, 1 March 2021, the InfoCenter and the Circulation Desk in the ETH main builing will be open, as well as the Architecture and Civil Engineering Library (Hönggerberg):\n\nETH Library in the main building and Architecture and Civil Engineering Library Mon–Fri 09.00–18.00, Sat and Sun closed\n\nAll other locations are closed."
+    },
+    {
+      "heading": "Events",
+      "text": "Events only take place virtually. Please read the notes and details about upcoming events in the events calendar ."
+    },
+    {
+      "heading": "Face masks mandatory",
+      "text": "Face masks must be worn in all ETH buildings. The social distancing and hygiene measures of the Federal Office of Public Health (FOPH) remain in place. Please bear this in mind when visiting the ETH Library.\n\nYou can also continue to make use of our digital resources and contact options . Please do not visit the library if you belong to an at-risk group or are feeling unwell."
+    },
+    {
+      "heading": "Subscribe to Newsletter",
+      "text": "Any questions? The ETH Library will be happy to help.\n\nE-mail: You can also get in touch with us via WhatsApp or our chat function."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "#ETHLibraryDigital – The ETH Library is there for you digitally with various resources and services , not only during the COVID-19 protective measures.\n\n#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Bibliothek Ab",
+        "label": "PERSON",
+        "start": 75,
+        "end": 88
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 280,
+        "end": 283
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 367,
+        "end": 372
+      },
+      {
+        "text": "The Reading Room Collections and Archives",
+        "label": "WORK_OF_ART",
+        "start": 482,
+        "end": 523
+      },
+      {
+        "text": "the Max Frisch Archive",
+        "label": "ORG",
+        "start": 546,
+        "end": 568
+      },
+      {
+        "text": "the Graphische Sammlung",
+        "label": "FAC",
+        "start": 749,
+        "end": 772
+      },
+      {
+        "text": "regular opening hours",
+        "label": "TIME",
+        "start": 795,
+        "end": 816
+      },
+      {
+        "text": "Monday",
+        "label": "DATE",
+        "start": 848,
+        "end": 854
+      },
+      {
+        "text": "1 March 2021",
+        "label": "DATE",
+        "start": 856,
+        "end": 868
+      },
+      {
+        "text": "InfoCenter",
+        "label": "ORG",
+        "start": 874,
+        "end": 884
+      },
+      {
+        "text": "the Circulation Desk",
+        "label": "ORG",
+        "start": 889,
+        "end": 909
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 917,
+        "end": 920
+      },
+      {
+        "text": "the Architecture and Civil Engineering Library",
+        "label": "ORG",
+        "start": 959,
+        "end": 1005
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 1007,
+        "end": 1018
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 1021,
+        "end": 1032
+      },
+      {
+        "text": "Sat",
+        "label": "PRODUCT",
+        "start": 1122,
+        "end": 1125
+      },
+      {
+        "text": "Sun",
+        "label": "ORG",
+        "start": 1130,
+        "end": 1133
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "the Federal Office of Public Health",
+        "label": "ORG",
+        "start": 92,
+        "end": 127
+      },
+      {
+        "text": "The ETH Library",
+        "label": "ORG",
+        "start": 15,
+        "end": 30
+      },
+      {
+        "text": "WhatsApp",
+        "label": "ORG",
+        "start": 100,
+        "end": 108
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 121,
+        "end": 129
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 193,
+        "end": 208
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bibliothek Ab",
+        "Hönggerberg"
+      ],
+      "ORG": [
+        "COVID-19",
+        "ETH",
+        "ETH Library",
+        "InfoCenter",
+        "Sun",
+        "The ETH Library",
+        "WhatsApp",
+        "the Architecture and Civil Engineering Library",
+        "the Circulation Desk",
+        "the ETH Library",
+        "the Federal Office of Public Health",
+        "the Max Frisch Archive"
+      ],
+      "LOCATION": [
+        "the Graphische Sammlung"
+      ],
+      "DATE": [
+        "1 March 2021",
+        "Monday",
+        "daily",
+        "regular opening hours"
+      ],
+      "MISC": [
+        "Sat",
+        "The Reading Room Collections and Archives"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "Bibliothek Ab": 1,
+      "daily": 1,
+      "The Reading Room Collections and Archives": 1,
+      "the Max Frisch Archive": 1,
+      "the Graphische Sammlung": 1,
+      "regular opening hours": 1,
+      "Monday": 1,
+      "1 March 2021": 1,
+      "InfoCenter": 1,
+      "the Circulation Desk": 1,
+      "the Architecture and Civil Engineering Library": 1,
+      "Hönggerberg": 1,
+      "ETH Library": 1,
+      "Sat": 1,
+      "Sun": 1,
+      "the Federal Office of Public Health": 1,
+      "The ETH Library": 1,
+      "WhatsApp": 1,
+      "COVID-19": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-maerz-2021.md",
+      "title": "En Internal/2021/02/informationen zu Oeffnungszeiten und Angeboten der Eth Bibliothek Ab dem 1 Maerz 2021",
+      "language": "en",
+      "source_path": "en_internal/2021/02/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-maerz-2021.html"
+    },
+    "temporal": {
+      "publication_date": "2021-02",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bibliothek Ab",
+        "Hönggerberg"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "The Reading Room Collections and Archives"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Reading",
+        "Mann Archives",
+        "Graphische Sammlung",
+        "Eth Bibliothek",
+        "Circulation Desk",
+        "Federal Office",
+        "ETH Library",
+        "The Thomas",
+        "Public Health",
+        "Room Collections",
+        "En Internal",
+        "Library Mon",
+        "Reading Room",
+        "Max Frisch",
+        "The ETH",
+        "From Monday",
+        "Civil Engineering"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "ETH",
+        "ETH Library",
+        "InfoCenter",
+        "Sun",
+        "The ETH Library",
+        "WhatsApp",
+        "the Architecture and Civil Engineering Library",
+        "the Circulation Desk",
+        "the ETH Library",
+        "the Federal Office of Public Health",
+        "the Max Frisch Archive"
+      ],
+      "locations": [
+        "the Graphische Sammlung"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Bibliothek Ab",
+        "daily",
+        "The Reading Room Collections and Archives",
+        "the Max Frisch Archive",
+        "the Graphische Sammlung",
+        "regular opening hours",
+        "Monday",
+        "1 March 2021",
+        "InfoCenter"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Locations and opening hours",
+          "Events",
+          "Face masks mandatory",
+          "Subscribe to Newsletter",
+          "Staffnet"
+        ],
+        "content_length": 2177
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "Bibliothek Ab",
+        "ETH",
+        "InfoCenter",
+        "WhatsApp",
+        "the Max Frisch Archive",
+        "the Circulation Desk",
+        "ETH Library",
+        "Sun",
+        "The ETH Library",
+        "the Federal Office of Public Health",
+        "the Architecture and Civil Engineering Library",
+        "COVID-19",
+        "2021",
+        "the ETH Library"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "The Reading Room Collections and Archives",
+        "what",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

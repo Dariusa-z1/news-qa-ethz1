@@ -1,0 +1,651 @@
+{
+  "filename": "anthropogenic-or-not.md",
+  "original_filename": "anthropogenic-or-not.html",
+  "source_path": "en_news_events/2018/04/anthropogenic-or-not.html",
+  "date": "2018-04",
+  "title": "Anthropogenic Or Not",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Mainshock close to geothermal site",
+      "text": "The drilling rig of the deep geothermal project near Pohang, South Korea. (Photograph: Robert Westaway, University of Glasgow)\n\nThe earthquake, which occurred on 15 November 2017, injured about 80 people and caused damage to numerous buildings in the city of Pohang. If proven to be anthropogenic, it would be the largest earthquake known to have been associated with the exploitation of deep geothermal energy.\n\nSeismograms of induced earthquakes are generally indistinguishable from those of natural earthquakes. Therefore, investigations focus on a range of indicators, taking into account the location of earthquakes, their depths, and the history of stimulation activities conducted underground. By analyzing publically available continuous waveform and geodetic data from satellites, the paper contributes to the understanding of the nature of the event."
+    },
+    {
+      "heading": "Mainshock close to geothermal site",
+      "text": "The study shows that the mainshock and its largest aftershocks occurred within 2 km distance or less of the geothermal site. Furthermore, they are located within 1.5 km distance of an induced event, which occurred in April 2017 during one of the underground stimulation operations. These locations are confirmed by a Korean study, which has been simultaneously published in Science.\n\nIn general, the closer an earthquake sequence is located to a geothermal site and to previous related seismic activity, as well as the sooner it happens after underground operations, the greater the chance of being related to it. The mainshock and the 46 aftershocks detected between 15 and 30 November 2017 all occurred at depths of 3 to 7 kilometres."
+    },
+    {
+      "heading": "Deeper understanding needed",
+      "text": "Yangsan fault and location of the geothermal project near Pohang, South Korea.\n\nSuch depths are unusually shallow when compared to previously registered natural events in the area. The analysis of satellite data illustrates that the mainshock displaced the surface of the earth permanently by up to 4 cm, indicating that the activated, and previously unknown fault, is a steeply dipping and very shallow thrust fault that passes directly beneath the bottom hole section.\n\nThese indications combined lead to the conclusion that a connection between the magnitude 5.5 earthquake in South Korea and the nearby geothermal project is plausible. However, the mainshock occurred about two months after the last stimulation activities. So far, there is no quantitative model available that relates the injection activities conducted to the occurrence of this event."
+    },
+    {
+      "heading": "Expert commission examins evidence",
+      "text": "The Korean government has appointed an independent expert commission to examine all pieces of evidence and to evaluate if the event was triggered or induced by the nearby stimulation activities. To our understanding, the commission will (re-)analyze all available data and models, including microseismicity data, injection volumes, reservoir pressures, and detailed hydrological and geological data, which are essential to understand the relation between the injection operations and the earthquake sequence.\n\nThe Swiss Seismological Service (SED) at ETH Zurich has first informed the public (see SED news ) in November 2017 about the Pohang earthquake in the context of the release of a best practice report on induced seismicity. At the same time, Geo-Energie Suisse AG had notified the canton of Jura, where currently the only EGS-style deep geothermal project in Switzerland has applied for a construction permit. In consequence, the canton instructed Geo-Energie Suisse AG to evaluate potential implications for the planned Haute-Sorne geothermal project.\n\n\"Such strong earthquakes in connection with deep geothermal projects have not yet occurred worldwide. However, it is known that other technical interventions that led to stress changes in the ground caused similarly large shocks. A deeper understanding of what was happening in Pohang is essential if geothermal energy is to be produced safely and sustainably in the future\", says Stefan Wiemer, head of Swiss Seismological Service at ETH Zurich. ETH Zurich is intensively involved in research in this field. On the one hand through controlled experiments in underground laboratories in Grimsel or soon in the Bedretto Tunnel, on the other hand through the development and validation of adaptive control systems that evaluate all available information in real time and continuously include it in the risk assessment.\n\nGrigoli F, Cesca S, Rinaldi AP, Manconi A, López-Comino JA, Clinton JF, Westaway R, Cauzzi C, Dahm T, Wiemer S. The November 2017 Mw 5.5 Pohang earthquake: A possible case of induced seismicity in South Korea. Science 26 Apr 2018: eaat2010. DOI: 10.1126/science.aat2010\n\nThis text has been published first by Swiss Seismological Service (SED)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Pohang",
+        "label": "GPE",
+        "start": 53,
+        "end": 59
+      },
+      {
+        "text": "South Korea",
+        "label": "GPE",
+        "start": 61,
+        "end": 72
+      },
+      {
+        "text": "Robert Westaway",
+        "label": "PERSON",
+        "start": 87,
+        "end": 102
+      },
+      {
+        "text": "University of Glasgow",
+        "label": "ORG",
+        "start": 104,
+        "end": 125
+      },
+      {
+        "text": "15 November 2017",
+        "label": "DATE",
+        "start": 161,
+        "end": 177
+      },
+      {
+        "text": "about 80",
+        "label": "CARDINAL",
+        "start": 187,
+        "end": 195
+      },
+      {
+        "text": "Pohang",
+        "label": "GPE",
+        "start": 258,
+        "end": 264
+      },
+      {
+        "text": "2 km",
+        "label": "QUANTITY",
+        "start": 79,
+        "end": 83
+      },
+      {
+        "text": "1.5 km",
+        "label": "QUANTITY",
+        "start": 162,
+        "end": 168
+      },
+      {
+        "text": "April 2017",
+        "label": "DATE",
+        "start": 217,
+        "end": 227
+      },
+      {
+        "text": "Korean",
+        "label": "NORP",
+        "start": 317,
+        "end": 323
+      },
+      {
+        "text": "Science",
+        "label": "GPE",
+        "start": 374,
+        "end": 381
+      },
+      {
+        "text": "between 15 and 30 November 2017",
+        "label": "DATE",
+        "start": 659,
+        "end": 690
+      },
+      {
+        "text": "3 to 7 kilometres",
+        "label": "QUANTITY",
+        "start": 717,
+        "end": 734
+      },
+      {
+        "text": "Pohang",
+        "label": "GPE",
+        "start": 58,
+        "end": 64
+      },
+      {
+        "text": "South Korea",
+        "label": "GPE",
+        "start": 66,
+        "end": 77
+      },
+      {
+        "text": "up to",
+        "label": "CARDINAL",
+        "start": 292,
+        "end": 297
+      },
+      {
+        "text": "4 cm",
+        "label": "QUANTITY",
+        "start": 298,
+        "end": 302
+      },
+      {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 560,
+        "end": 563
+      },
+      {
+        "text": "South Korea",
+        "label": "GPE",
+        "start": 578,
+        "end": 589
+      },
+      {
+        "text": "about two months",
+        "label": "DATE",
+        "start": 670,
+        "end": 686
+      },
+      {
+        "text": "Korean",
+        "label": "NORP",
+        "start": 4,
+        "end": 10
+      },
+      {
+        "text": "The Swiss Seismological Service",
+        "label": "ORG",
+        "start": 509,
+        "end": 540
+      },
+      {
+        "text": "SED",
+        "label": "ORG",
+        "start": 542,
+        "end": 545
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 550,
+        "end": 560
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 565,
+        "end": 570
+      },
+      {
+        "text": "SED news",
+        "label": "ORG",
+        "start": 596,
+        "end": 604
+      },
+      {
+        "text": "November 2017",
+        "label": "DATE",
+        "start": 610,
+        "end": 623
+      },
+      {
+        "text": "Pohang",
+        "label": "GPE",
+        "start": 634,
+        "end": 640
+      },
+      {
+        "text": "Geo-Energie Suisse AG",
+        "label": "ORG",
+        "start": 749,
+        "end": 770
+      },
+      {
+        "text": "canton",
+        "label": "GPE",
+        "start": 788,
+        "end": 794
+      },
+      {
+        "text": "Jura",
+        "label": "GPE",
+        "start": 798,
+        "end": 802
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 866,
+        "end": 877
+      },
+      {
+        "text": "canton",
+        "label": "GPE",
+        "start": 937,
+        "end": 943
+      },
+      {
+        "text": "Geo-Energie Suisse AG",
+        "label": "ORG",
+        "start": 955,
+        "end": 976
+      },
+      {
+        "text": "Haute-Sorne",
+        "label": "PRODUCT",
+        "start": 1028,
+        "end": 1039
+      },
+      {
+        "text": "Pohang",
+        "label": "GPE",
+        "start": 1338,
+        "end": 1344
+      },
+      {
+        "text": "Stefan Wiemer",
+        "label": "PERSON",
+        "start": 1441,
+        "end": 1454
+      },
+      {
+        "text": "Swiss Seismological Service",
+        "label": "ORG",
+        "start": 1464,
+        "end": 1491
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1495,
+        "end": 1505
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1507,
+        "end": 1517
+      },
+      {
+        "text": "Grimsel",
+        "label": "GPE",
+        "start": 1647,
+        "end": 1654
+      },
+      {
+        "text": "the Bedretto Tunnel",
+        "label": "FAC",
+        "start": 1666,
+        "end": 1685
+      },
+      {
+        "text": "Grigoli F",
+        "label": "PERSON",
+        "start": 1877,
+        "end": 1886
+      },
+      {
+        "text": "Cesca S",
+        "label": "ORG",
+        "start": 1888,
+        "end": 1895
+      },
+      {
+        "text": "Rinaldi AP",
+        "label": "ORG",
+        "start": 1897,
+        "end": 1907
+      },
+      {
+        "text": "López-Comino JA",
+        "label": "ORG",
+        "start": 1920,
+        "end": 1935
+      },
+      {
+        "text": "Clinton JF",
+        "label": "PERSON",
+        "start": 1937,
+        "end": 1947
+      },
+      {
+        "text": "Westaway",
+        "label": "ORG",
+        "start": 1949,
+        "end": 1957
+      },
+      {
+        "text": "Wiemer S.",
+        "label": "PERSON",
+        "start": 1979,
+        "end": 1988
+      },
+      {
+        "text": "November 2017",
+        "label": "DATE",
+        "start": 1993,
+        "end": 2006
+      },
+      {
+        "text": "Mw 5.5 Pohang",
+        "label": "LAW",
+        "start": 2007,
+        "end": 2020
+      },
+      {
+        "text": "South Korea",
+        "label": "GPE",
+        "start": 2074,
+        "end": 2085
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 2123,
+        "end": 2130
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2176,
+        "end": 2181
+      },
+      {
+        "text": "Swiss Seismological Service",
+        "label": "ORG",
+        "start": 2185,
+        "end": 2212
+      },
+      {
+        "text": "SED",
+        "label": "ORG",
+        "start": 2214,
+        "end": 2217
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Clinton JF",
+        "ETH Zurich",
+        "Grigoli F",
+        "Robert Westaway",
+        "Stefan Wiemer",
+        "Wiemer S."
+      ],
+      "ORG": [
+        "Cesca S",
+        "ETH Zurich",
+        "En News",
+        "Geo-Energie Suisse AG",
+        "López-Comino JA",
+        "Rinaldi AP",
+        "SED",
+        "SED news",
+        "Swiss Seismological Service",
+        "The Swiss Seismological Service",
+        "University of Glasgow",
+        "Westaway"
+      ],
+      "LOCATION": [
+        "Grimsel",
+        "Jura",
+        "Pohang",
+        "Science",
+        "South Korea",
+        "Switzerland",
+        "canton",
+        "the Bedretto Tunnel"
+      ],
+      "DATE": [
+        "15 November 2017",
+        "April 2017",
+        "November 2017",
+        "about two months",
+        "between 15 and 30 November 2017"
+      ],
+      "MISC": [
+        "1.5 km",
+        "10.1126",
+        "2 km",
+        "3 to 7 kilometres",
+        "4 cm",
+        "5.5",
+        "Haute-Sorne",
+        "Korean",
+        "Mw 5.5 Pohang",
+        "about 80",
+        "first",
+        "up to"
+      ]
+    },
+    "entity_counts": {
+      "Pohang": 5,
+      "South Korea": 4,
+      "ETH Zurich": 3,
+      "Korean": 2,
+      "SED": 2,
+      "first": 2,
+      "November 2017": 2,
+      "Geo-Energie Suisse AG": 2,
+      "canton": 2,
+      "Swiss Seismological Service": 2,
+      "En News": 1,
+      "Robert Westaway": 1,
+      "University of Glasgow": 1,
+      "15 November 2017": 1,
+      "about 80": 1,
+      "2 km": 1,
+      "1.5 km": 1,
+      "April 2017": 1,
+      "Science": 1,
+      "between 15 and 30 November 2017": 1
+    },
+    "total_entities": 58,
+    "unique_entities": 42
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "anthropogenic-or-not.md",
+      "title": "En News Events/2018/04/anthropogenic Or Not",
+      "language": "en",
+      "source_path": "en_news_events/2018/04/anthropogenic-or-not.html"
+    },
+    "temporal": {
+      "publication_date": "2018-04",
+      "mentioned_years": [
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Clinton JF",
+        "ETH Zurich",
+        "Grigoli F",
+        "Robert Westaway",
+        "Stefan Wiemer",
+        "Wiemer S."
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "head"
+        ],
+        "Stefan Wiemer": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "mathematics"
+      ],
+      "research_topics": [
+        "1.5 km",
+        "10.1126",
+        "2 km",
+        "3 to 7 kilometres",
+        "4 cm",
+        "Haute-Sorne",
+        "Korean",
+        "Mw 5.5 Pohang",
+        "about 80",
+        "first",
+        "up to"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Korean",
+        "Cesca S",
+        "The Swiss",
+        "Rinaldi AP",
+        "Or Not",
+        "Haute-Sorne",
+        "The November",
+        "Westaway R",
+        "Grigoli F",
+        "Suisse AG",
+        "Manconi A",
+        "Comino JA",
+        "Cauzzi C",
+        "Wiemer S",
+        "Stefan Wiemer",
+        "Dahm T",
+        "Robert Westaway",
+        "En News",
+        "Geo-Energie",
+        "Swiss Seismological",
+        "Seismological Service",
+        "Bedretto Tunnel",
+        "Clinton JF",
+        "ETH Zurich",
+        "South Korea"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cesca S",
+        "ETH Zurich",
+        "En News",
+        "Geo-Energie Suisse AG",
+        "López-Comino JA",
+        "Rinaldi AP",
+        "SED",
+        "SED news",
+        "Swiss Seismological Service",
+        "The Swiss Seismological Service",
+        "University of Glasgow",
+        "Westaway"
+      ],
+      "locations": [
+        "Grimsel",
+        "Jura",
+        "Pohang",
+        "Science",
+        "South Korea",
+        "Switzerland",
+        "canton",
+        "the Bedretto Tunnel"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Pohang",
+        "South Korea",
+        "ETH Zurich",
+        "Korean",
+        "SED",
+        "first",
+        "November 2017",
+        "Geo-Energie Suisse AG",
+        "canton",
+        "Swiss Seismological Service"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Mainshock close to geothermal site",
+          "Mainshock close to geothermal site",
+          "Deeper understanding needed",
+          "Expert commission examins evidence"
+        ],
+        "content_length": 4723
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Cesca S",
+        "Rinaldi AP",
+        "2018",
+        "Grigoli F",
+        "University of Glasgow",
+        "SED news",
+        "Westaway",
+        "Stefan Wiemer",
+        "López-Comino JA",
+        "Robert Westaway",
+        "SED",
+        "Swiss Seismological Service",
+        "Geo-Energie Suisse AG",
+        "Wiemer S.",
+        "En News",
+        "2017",
+        "Clinton JF",
+        "ETH Zurich",
+        "The Swiss Seismological Service"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "Haute-Sorne",
+        "4 cm",
+        "up to",
+        "about 80",
+        "Korean",
+        "1.5 km",
+        "10.1126",
+        "where",
+        "what",
+        "how",
+        "2 km",
+        "Mw 5.5 Pohang",
+        "3 to 7 kilometres",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_head",
+        "Stefan Wiemer_has_role_head",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

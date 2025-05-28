@@ -1,0 +1,146 @@
+{
+  "filename": "digitalisierung--gewusst-wie.md",
+  "original_filename": "digitalisierung--gewusst-wie.html",
+  "source_path": "de_internal/2015/12/digitalisierung--gewusst-wie.html",
+  "date": "2015-12",
+  "title": "Digitalisierung Gewusst Wie",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der Leitfaden \" Best Practices Digitalisierung \" des DigiCenters der ETH-Bibliothek gibt hierfür praxisnahe Tipps und fundierte Empfehlungen. Er umfasst den ganzen Prozess von der Planung und Durchführung eines Digitalisierungsprojekts, über Aspekte der Speicherung bis hin zum Umgang mit Metadaten.\n\nDas DigiCenter verfügt über langjähriges Knowhow und eine professionelle technische Infrastruktur. Es hat in den vergangenen Jahren komplexe Projekte abgewickelt, unterschiedliche Dokumenttypen digitalisiert und mehrere Millionen Scans erstellt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/12/digitalisierung Gewusst",
+        "label": "LOC",
+        "start": 0,
+        "end": 43
+      },
+      {
+        "text": "DigiCenters der ETH-Bibliothek",
+        "label": "MISC",
+        "start": 53,
+        "end": 83
+      },
+      {
+        "text": "DigiCenter",
+        "label": "MISC",
+        "start": 304,
+        "end": 314
+      },
+      {
+        "text": "Scans",
+        "label": "PER",
+        "start": 530,
+        "end": 535
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Scans"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2015/12/digitalisierung Gewusst"
+      ],
+      "DATE": [],
+      "MISC": [
+        "DigiCenter",
+        "DigiCenters der ETH-Bibliothek"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2015/12/digitalisierung Gewusst": 1,
+      "DigiCenters der ETH-Bibliothek": 1,
+      "DigiCenter": 1,
+      "Scans": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "digitalisierung--gewusst-wie.md",
+      "title": "De Internal/2015/12/digitalisierung Gewusst Wie",
+      "language": "de",
+      "source_path": "de_internal/2015/12/digitalisierung--gewusst-wie.html"
+    },
+    "temporal": {
+      "publication_date": "2015-12",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Scans"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "DigiCenter",
+        "DigiCenters der ETH-Bibliothek"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Das DigiCenter",
+        "Gewusst Wie",
+        "Der Leitfaden",
+        "De Internal",
+        "Best Practices",
+        "Millionen Scans"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2015/12/digitalisierung Gewusst"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "De Internal/2015/12/digitalisierung Gewusst",
+        "DigiCenters der ETH-Bibliothek",
+        "DigiCenter",
+        "Scans"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 594
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Scans",
+        "2015"
+      ],
+      "semantic_concepts": [
+        "DigiCenter",
+        "who",
+        "DigiCenters der ETH-Bibliothek",
+        "how",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

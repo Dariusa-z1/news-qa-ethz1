@@ -1,0 +1,562 @@
+{
+  "filename": "swiss-covid-app.md",
+  "original_filename": "swiss-covid-app.html",
+  "source_path": "en_news_events/2020/05/swiss-covid-app.html",
+  "date": "2020-05",
+  "title": "Swiss Covid App",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Many are following the Swiss idea",
+      "text": "People in Switzerland are gradually returning to their everyday routines and their work now that the peak of the coronavirus crisis seems to have passed. But the easing of the lockdown also fuels fears about a second wave of infection. Strict adherence to health and safety rules is the best strategy for protecting ourselves against COVID-19 infection. In addition, the government intends to provide the Swiss population with a tracing app as soon as possible that should help to stem the spread of the virus. The app is being developed as part of the DP-3T project by ETH Zurich and EPF Lausanne, working together with international researchers.\n\nETH scientists are actively involved in the design, security assessment, data protection and performance of the SwissCovid app. Srdjan Čapkun, Professor for Systems and Network Security, one of the developers of the SwissCovid app, stresses: \"This is not 'only' a smartphone app, but a complex distributed contact tracing system. Its main purpose is to notify people of exposure to infected persons. But it is also designed to preserve user privacy, enable roaming between countries, and work on top of existing smartphone software and hardware.\""
+    },
+    {
+      "heading": "Many are following the Swiss idea",
+      "text": "Many projects and countries have taken the same route in developing their own tracing apps. Some are using parts of the DP-3T code, while others are implementing it independently and adapting it to their own country. But the underlying concept is the same. “This is an experiment for all of us. Something like this has never been attempted before,” says Čapkun."
+    },
+    {
+      "heading": "Cooperation with Google and Apple",
+      "text": "Some people might be concerned about privacy issues, given the involvement of the two tech giants Google and Apple. Čapkun, who himself attaches great importance to data protection, is reassuring: \"In our design, information is processed locally and all data are automatically deleted after 21 days. In addition, no user personal data is stored centrally, and contact tracing data never leaves the phone unless authorized by the user.” The SwissCovid app is also open sourced, so that its design and implementation will be available for public inspection. “All of us are trying to build a contact tracing system on top of software and hardware that was not designed for this purpose. Bluetooth was not developed for this kind of large-scale distance measurement. Making sure that we can use it in this way requires a lot of engineering skill and collaboration, including collaboration with Apple and Google,” says Čapkun. Switzerland is the first country in the world to use APIs from Google and Apple for the tracing app. \"It also means that we are the first to have to deal with the teething troubles of the program. We therefore need feedback from users before we start the national rollout in June,\" says Čapkun."
+    },
+    {
+      "heading": "How does the app work?",
+      "text": "The app uses Bluetooth beaconing technology to detect nearby smartphones that are also running the app. When two such devices are in close proximity, they exchange random beacons – a kind of private keys. The app is configured to inform users if they have spent more than 15 minutes within 2m of infected people. These parameters have been set by the epidemiologists and will be fine-tuned if new information about the virus would make it necessary.\n\nWhen a user is tested positive for COVID-19, they will receive a code from the cantonal medical service, which will allow them to anonymously inform others about the infection. All other users will be able to check if they have spent significant time in close proximity with infected people, without learning their identity or the location of the possible infection. Since the project has many legal and ethical dimensions, the researchers are also working with the federal offices, the FOPH and the FOITT."
+    },
+    {
+      "heading": "What happens at the end of the pilot phase?",
+      "text": "The main purpose of the pilot phase is to thoroughly test the functionality of all the system components and of course their interaction. One of the challenges is to make sure that we can accurately detect proximity between people based on Bluetooth signals. For example, distinguishing between distances of two and four metres based on these signals is not always possible. Clearly, the probability of infection depends not only on distance but also on many other factors. \"Working with epidemiologists, we therefore came up with risk scores that aim to reduce false positives and false negatives.\"\n\nAnd what happens if bugs in the app are detected? \"That's the exact purpose of this pilot phase – anything we can correct or improve now will make the app work much better later,” says Čapkun. \"I want to especially mention two ETH members of my group, Dr Marc Roschlin and Patrick Leu, who spent many hours working on these measurements and their analysis.\"\n\nThe pilot phase is covered by a provisional ordinance passed by the government and will run till the end of June at the latest. However, the development team hopes that the pilot will produce results much sooner, and that parliament will be able to pass draft legislation in its next session at the start of June to allow the SwissCovid app to be rolled out quickly to the entire Swiss population."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Covid App",
+        "label": "PERSON",
+        "start": 29,
+        "end": 38
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 10,
+        "end": 21
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 210,
+        "end": 216
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 334,
+        "end": 342
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 405,
+        "end": 410
+      },
+      {
+        "text": "DP-3",
+        "label": "ORG",
+        "start": 553,
+        "end": 557
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 570,
+        "end": 580
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 648,
+        "end": 651
+      },
+      {
+        "text": "SwissCovid",
+        "label": "ORG",
+        "start": 760,
+        "end": 770
+      },
+      {
+        "text": "Srdjan Čapkun",
+        "label": "PERSON",
+        "start": 776,
+        "end": 789
+      },
+      {
+        "text": "Network Security",
+        "label": "ORG",
+        "start": 817,
+        "end": 833
+      },
+      {
+        "text": "SwissCovid",
+        "label": "ORG",
+        "start": 864,
+        "end": 874
+      },
+      {
+        "text": "DP-3",
+        "label": "ORG",
+        "start": 120,
+        "end": 124
+      },
+      {
+        "text": "Čapkun",
+        "label": "PERSON",
+        "start": 354,
+        "end": 360
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 82,
+        "end": 85
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 98,
+        "end": 104
+      },
+      {
+        "text": "Apple",
+        "label": "ORG",
+        "start": 109,
+        "end": 114
+      },
+      {
+        "text": "21 days",
+        "label": "DATE",
+        "start": 291,
+        "end": 298
+      },
+      {
+        "text": "SwissCovid",
+        "label": "ORG",
+        "start": 440,
+        "end": 450
+      },
+      {
+        "text": "Apple",
+        "label": "ORG",
+        "start": 890,
+        "end": 895
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 900,
+        "end": 906
+      },
+      {
+        "text": "Čapkun",
+        "label": "PERSON",
+        "start": 914,
+        "end": 920
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 922,
+        "end": 933
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 941,
+        "end": 946
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 985,
+        "end": 991
+      },
+      {
+        "text": "Apple",
+        "label": "ORG",
+        "start": 996,
+        "end": 1001
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1054,
+        "end": 1059
+      },
+      {
+        "text": "June",
+        "label": "DATE",
+        "start": 1197,
+        "end": 1201
+      },
+      {
+        "text": "Čapkun",
+        "label": "PERSON",
+        "start": 1209,
+        "end": 1215
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 109,
+        "end": 112
+      },
+      {
+        "text": "more than 15 minutes",
+        "label": "TIME",
+        "start": 262,
+        "end": 282
+      },
+      {
+        "text": "COVID-19",
+        "label": "PERSON",
+        "start": 485,
+        "end": 493
+      },
+      {
+        "text": "FOPH",
+        "label": "ORG",
+        "start": 937,
+        "end": 941
+      },
+      {
+        "text": "FOITT",
+        "label": "FAC",
+        "start": 950,
+        "end": 955
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 138,
+        "end": 141
+      },
+      {
+        "text": "two and four metres",
+        "label": "QUANTITY",
+        "start": 308,
+        "end": 327
+      },
+      {
+        "text": "Čapkun",
+        "label": "PERSON",
+        "start": 785,
+        "end": 791
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 823,
+        "end": 826
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 827,
+        "end": 830
+      },
+      {
+        "text": "Marc Roschlin",
+        "label": "PERSON",
+        "start": 855,
+        "end": 868
+      },
+      {
+        "text": "Patrick Leu",
+        "label": "PERSON",
+        "start": 873,
+        "end": 884
+      },
+      {
+        "text": "many hours",
+        "label": "TIME",
+        "start": 896,
+        "end": 906
+      },
+      {
+        "text": "the end of June",
+        "label": "DATE",
+        "start": 1055,
+        "end": 1070
+      },
+      {
+        "text": "the start of June",
+        "label": "DATE",
+        "start": 1253,
+        "end": 1270
+      },
+      {
+        "text": "SwissCovid",
+        "label": "ORG",
+        "start": 1284,
+        "end": 1294
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1338,
+        "end": 1343
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "COVID-19",
+        "Covid App",
+        "ETH Zurich",
+        "Marc Roschlin",
+        "Patrick Leu",
+        "Srdjan Čapkun",
+        "Čapkun"
+      ],
+      "ORG": [
+        "Apple",
+        "COVID-19",
+        "DP-3",
+        "ETH",
+        "En News",
+        "FOPH",
+        "Google",
+        "Network Security",
+        "SwissCovid"
+      ],
+      "LOCATION": [
+        "FOITT",
+        "Switzerland"
+      ],
+      "DATE": [
+        "21 days",
+        "June",
+        "many hours",
+        "more than 15 minutes",
+        "the end of June",
+        "the start of June"
+      ],
+      "MISC": [
+        "One",
+        "Swiss",
+        "first",
+        "second",
+        "two",
+        "two and four metres"
+      ]
+    },
+    "entity_counts": {
+      "SwissCovid": 4,
+      "Čapkun": 4,
+      "two": 3,
+      "Google": 3,
+      "Apple": 3,
+      "Switzerland": 2,
+      "COVID-19": 2,
+      "Swiss": 2,
+      "DP-3": 2,
+      "ETH": 2,
+      "first": 2,
+      "En News": 1,
+      "Covid App": 1,
+      "second": 1,
+      "ETH Zurich": 1,
+      "Srdjan Čapkun": 1,
+      "Network Security": 1,
+      "21 days": 1,
+      "June": 1,
+      "more than 15 minutes": 1
+    },
+    "total_entities": 47,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "swiss-covid-app.md",
+      "title": "En News Events/2020/05/swiss Covid App",
+      "language": "en",
+      "source_path": "en_news_events/2020/05/swiss-covid-app.html"
+    },
+    "temporal": {
+      "publication_date": "2020-05",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "COVID-19",
+        "Covid App",
+        "ETH Zurich",
+        "Marc Roschlin",
+        "Patrick Leu",
+        "Srdjan Čapkun",
+        "Čapkun"
+      ],
+      "people_with_roles": {
+        "Covid App": [
+          "scientist",
+          "professor"
+        ],
+        "ETH Zurich": [
+          "researcher"
+        ],
+        "Marc Roschlin": [
+          "Dr"
+        ],
+        "Srdjan Čapkun": [
+          "professor"
+        ],
+        "Čapkun": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Swiss",
+        "first",
+        "second",
+        "two and four metres"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Covid App",
+        "The SwissCovid",
+        "En News",
+        "Dr Marc",
+        "Patrick Leu",
+        "ETH Zurich",
+        "EPF Lausanne",
+        "Network Security"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Apple",
+        "COVID-19",
+        "DP-3",
+        "ETH",
+        "En News",
+        "FOPH",
+        "Google",
+        "Network Security",
+        "SwissCovid"
+      ],
+      "locations": [
+        "FOITT",
+        "Switzerland"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "SwissCovid",
+        "Čapkun",
+        "two",
+        "Google",
+        "Apple",
+        "Switzerland",
+        "COVID-19",
+        "Swiss",
+        "DP-3",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Many are following the Swiss idea",
+          "Many are following the Swiss idea",
+          "Cooperation with Google and Apple",
+          "How does the app work?",
+          "What happens at the end of the pilot phase?"
+        ],
+        "content_length": 5129
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Srdjan Čapkun",
+        "Covid App",
+        "ETH",
+        "Google",
+        "Marc Roschlin",
+        "En News",
+        "SwissCovid",
+        "EU",
+        "Čapkun",
+        "2020",
+        "ETH Zurich",
+        "Patrick Leu",
+        "FOPH",
+        "DP-3",
+        "Apple",
+        "COVID-19",
+        "Network Security"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "computer_science",
+        "who",
+        "Swiss",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "where",
+        "two and four metres"
+      ],
+      "graph_relations": [
+        "Covid App_has_role_scientist",
+        "Covid App_has_role_professor",
+        "ETH Zurich_has_role_researcher",
+        "Marc Roschlin_has_role_Dr",
+        "Srdjan Čapkun_has_role_professor",
+        "Čapkun_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

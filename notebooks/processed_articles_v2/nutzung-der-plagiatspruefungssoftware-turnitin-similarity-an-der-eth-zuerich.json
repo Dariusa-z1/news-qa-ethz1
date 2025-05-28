@@ -1,0 +1,225 @@
+{
+  "filename": "nutzung-der-plagiatspruefungssoftware-turnitin-similarity-an-der-eth-zuerich.md",
+  "original_filename": "nutzung-der-plagiatspruefungssoftware-turnitin-similarity-an-der-eth-zuerich.html",
+  "source_path": "de_internal/2024/07/nutzung-der-plagiatspruefungssoftware-turnitin-similarity-an-der-eth-zuerich.html",
+  "date": "2024-07",
+  "title": "Nutzung Der Plagiatspruefungssoftware Turnitin Similarity An Der Eth Zuerich",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Bei Turnitin Similarity handelt es sich um eine Plagiatsprüfsoftware, die Ähnlichkeiten in Texten, einschliesslich Paraphrasierungen, Zitaten und Verweisen erkennt. Die webbasierte Software greift für den Vergleich von Texten auf eine umfangreiche Datenbank mit akademischen – sowohl publizierten als auch unpublizierten – Arbeiten, Büchern, Journals und anderen Quellen zu.\n\nZugang auf die Software erhalten ausschliesslich Professor:innen und Dozent:innen. Das Erstellen des Accounts erfolgt durch die ETH-Bibliothek und kann über die Webseite Plagiatsprüfung angefordert werden. Dort finden Sie zudem weitere Informationen zur Nutzung der Software sowie Kontaktangaben.\n\nGemäss Beschluss der Schulleitung wird der Zugang nur denjenigen Personen gewährt, die in der Personensuche der ETH Zürich über die Attribute «Professor / Professorin» oder «Dozent / Dozentin» verfügen. Gleichzeitig vertritt die Schulleitung die Meinung, dass Arbeiten von Studierenden nicht flächendeckend mittels einer Software auf Plagiate geprüft werden sollen.\n\nInformationssicherheit gewährleistet\n\nDer Einführung der Software gingen eine ausführliche Marktanalyse und ein umfangreiches Cloud Assessment voraus. Die Sicherheitsstandards der Software erfüllen die hohen Anforderungen der ETH Zürich im Bereich Informationssicherheit.\n\nUnterstützende Angebote der ETH-Bibliothek\n\nFlankierend bietet die ETH-Bibliothek umfangreiche Informationen und Kurse zur Plagiatsprävention an."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2024/07",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Eth Zuerich",
+        "label": "LOC",
+        "start": 85,
+        "end": 96
+      },
+      {
+        "text": "Turnitin Similarity",
+        "label": "MISC",
+        "start": 4,
+        "end": 23
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 503,
+        "end": 517
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 784,
+        "end": 794
+      },
+      {
+        "text": "Studierenden",
+        "label": "PER",
+        "start": 945,
+        "end": 957
+      },
+      {
+        "text": "Informationssicherheit",
+        "label": "MISC",
+        "start": 1038,
+        "end": 1060
+      },
+      {
+        "text": "Der Einführung der Software",
+        "label": "MISC",
+        "start": 1075,
+        "end": 1102
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1263,
+        "end": 1273
+      },
+      {
+        "text": "Informationssicherheit",
+        "label": "MISC",
+        "start": 1285,
+        "end": 1307
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 1337,
+        "end": 1351
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 1375,
+        "end": 1389
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Studierenden"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Bibliothek"
+      ],
+      "LOCATION": [
+        "De Internal/2024/07",
+        "Eth Zuerich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Der Einführung der Software",
+        "ETH-Bibliothek",
+        "Informationssicherheit",
+        "Turnitin Similarity"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 3,
+      "ETH Zürich": 2,
+      "Informationssicherheit": 2,
+      "De Internal/2024/07": 1,
+      "Eth Zuerich": 1,
+      "Turnitin Similarity": 1,
+      "Studierenden": 1,
+      "Der Einführung der Software": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "nutzung-der-plagiatspruefungssoftware-turnitin-similarity-an-der-eth-zuerich.md",
+      "title": "De Internal/2024/07/nutzung der Plagiatspruefungssoftware Turnitin Similarity an der Eth Zuerich",
+      "language": "de",
+      "source_path": "de_internal/2024/07/nutzung-der-plagiatspruefungssoftware-turnitin-similarity-an-der-eth-zuerich.html"
+    },
+    "temporal": {
+      "publication_date": "2024-07",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Studierenden"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "Der Einführung der Software",
+        "ETH-Bibliothek",
+        "Informationssicherheit",
+        "Turnitin Similarity"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Cloud Assessment",
+        "Bei Turnitin",
+        "Plagiatspruefungssoftware Turnitin",
+        "Die Sicherheitsstandards",
+        "De Internal",
+        "Bereich Informationssicherheit",
+        "Eth Zuerich",
+        "Das Erstellen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Bibliothek"
+      ],
+      "locations": [
+        "De Internal/2024/07",
+        "Eth Zuerich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "ETH Zürich",
+        "Informationssicherheit",
+        "De Internal/2024/07",
+        "Eth Zuerich",
+        "Turnitin Similarity",
+        "Studierenden",
+        "Der Einführung der Software"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1556
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "Studierenden",
+        "2024"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "who",
+        "computer_science",
+        "Informationssicherheit",
+        "when",
+        "Der Einführung der Software",
+        "Turnitin Similarity"
+      ],
+      "graph_relations": [
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

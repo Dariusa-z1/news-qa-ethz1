@@ -1,0 +1,38 @@
+# wirkstoff-screening-mit-neuer-sammlung.html
+
+**Source:** de_news_events/2018/03/wirkstoff-screening-mit-neuer-sammlung.html
+
+## 35 Millionen Angelhaken aufs Mal testen
+
+Das Suchen nach neuen Wirkstoffen ist oft wie das Fischen im Trüben: Die Aussichten auf einen Fang sind sehr ungewiss, es braucht Geduld, Geschick und nicht zuletzt auch Geld. ETH-Forscher um Dario Neri haben eine neue Screening-Methode entwickelt, die das Suchen nach Wirkstoffen beschleunigt, günstiger und effizienter macht. Dies berichten die Chemiker in der Fachzeitschrift externe Seite Nature Chemistry.
+
+Kernstück der Methode ist eine neue sogenannte DNA-kodierte Chemikaliensammlung (englisch DNA-Encoded Chemical Library, DECL), die 35 Millionen verschiedene Wirkstoffkandidaten enthält. Solche Sammlungen sind zwar nicht neu, aber der Umfang und der Aufbau der enthaltenen Substanzen sind ungewöhnlich.
+
+## 35 Millionen Angelhaken aufs Mal testen
+
+So besteht jeder der in der Sammlung enthaltenen Wirkstoffkandidaten aus einem stabilen ringförmigen Grundgerüst, welches den Arbeiten von Manfred Mutter von der Universität Lausanne entlehnt wurde. Daran koppelten die Chemiker auf einer Seite des Ringes jeweils drei unterschiedliche kleine Moleküle.
+
+«Sie bilden zusammen eine Art hochspezifischen Angelhaken, der an ein Protein binden kann, wenn seine Form perfekt zur Proteinstruktur passt», sagt Jörg Scheuermann, der gerade seine Habilitation über DNA-kodierte Substanzbibliotheken in der Gruppe von ETH-Professor Dario Neri abschliesst. Die Forscher verwendeten hunderte solcher Moleküle, die sie unterschiedlich kombinierten. So entstand eine Bibliothek von 35 Millionen unterschiedlichen «Angelhaken».
+
+Dabei kodierten die Forscher den Bauplan der drei Moleküle in drei kurzen DNA-Sequenzen, wobei die DNA chemisch an die Gegenseite des Grundgerüsts geknüpft war. Dieses künstliche Stück Erbsubstanz funktioniert dabei wie ein Barcode, anhand dessen die Wissenschaftler jeden «Angelhaken» individuell identifizieren können.
+
+Mit ihrer Chemikaliensammlung können die Forscher nun auf Beutefang gehen: Um herauszufinden, ob ein Zielprotein an einem der «Angelhaken» hängenbleibt, geben die Forschenden die Sammlung aller 35 Millionen Verbindungen in ein Reaktionsgefäss, in dem sich das Protein auf einem Träger befindet. Nach einer gewissen Zeit waschen die Forscher die Chemikaliensammlung weg. Alle Wirkstoffkandidaten, die nicht an das Protein gebunden haben, werden dabei entfernt. Diejenigen, die am Protein «kleben» blieben, bleiben in der Probe und lassen sich dann anhand ihres DNA-Barcodes eindeutig identifizieren. Auf diese Weise können die Forscher auf einmal innert kurzer Zeit die gesamte Wirkstoffsammlung auf mögliche Treffer testen.
+
+## Technologie geriet beinahe in Vergessenheit
+
+Die ETH-Forscher um Dario Neri und Jörg Scheuermann arbeiten bereits seit Jahren an DECLs. Die Grundlage für das Prinzip des Kodierens mittels DNA legten die Scripps-Forscher Richard Lerner und Nobelpreisträger Sidney Brenner zu Beginn der 1990er-Jahre, die Idee wurde dann aber für ein Jahrzehnt nicht in die Praxis umgesetzt. ETH-Professor Neri und sein Kollege David Liu von der Harvard-Universität griffen die Idee zu Beginn der 2000er Jahre dann jedoch wieder auf. Sieben Jahre später präsentierten die Forscher eine erste solche DNA-kodierte Chemikaliensammlung, die mehr als eine Million Kandidaten enthielt ( ETH Life berichtete ).
+
+In der Pharmaindustrie hat sich die DECL-Technologie in den letzten Jahren durchgesetzt, nicht zuletzt dadurch, dass sie neben ihrer hohen Effizienz auch kostengünstig ist. «Das Design unserer DECL beruht darauf, dass wir eine neue Molekülform generieren wollten, die in ihrer Funktionalität einem auf ein Mindestmass verkleinerten Antikörper entspricht, und die dabei durch chemische Synthese zugänglich ist», sagt Scheuermann, «Dabei kommen wir mit solchen Molekülen, die drei oder mehr chemische Haken besitzen, den Antikörper-Antigen-Wechselwirkungen näher.»
+
+## Neuer Therapieansatz?
+
+Ein Therapieansatz könnte sein, ein Zellgift an einen spezifischen Protein-Binder zu koppeln (als sogenanntes «small-molecule drug conjugate», SMDC). Dieser würde dann eine fremde Zelle oder eine Tumorzelle anhand des Proteins erkennen, daran andocken und den Giftstoff in hoher lokaler Konzentration freisetzen, was den Tod der Tumorzelle bewirken würde. Bisher hat man diese Strategie mit Antikörpern als «antibody-drug conjugates» (ADC) umgesetzt.
+
+«Weil Antikörper aber verhältnismässig gross sind, können sie ein Tumorgewebe nur schlecht durchdringen. Kleine Moleküle hingegen sollten dies besser bewerkstelligen», erklärt Scheuermann. Die hier beschriebene Forschung an den neuartigen DECLs und das neue therapeutische Konzept haben die Forscher vor Kurzem im Rahmen des SNF Sinergia-Projekts « externe Seite Drugs of the future » erproben können.
+
+Li Y, De Luca R, Cazzamalli S, Pretta F, Bajic D, Scheuermann J, Neri D. Versatile protein recognition by the encoded display of multiple chemical elements on a constant macrocyclic scaffold. Nature Chemistry, published online 13th March 2018. DOI: externe Seite 10.1038/s41557-018-0017-8
+
+Neri D, Lerner RA. DNA-Encoded Chemical Libraries: A Selection System Based On Endowing Organic Compounds with Amplifiable Information. Annu. Rev. Biochem. (2018) 87, DOI: externe Seite 10.1146/annurev-biochem-062917-012550
+
+Cazzamalli S, Dal Corso A, Widmayer F, Neri D. Chemically Defined Antibody- and Small Molecule-Drug Conjugates for in Vivo Tumor Targeting Applications: A Comparative Analysis. J Am Chem Soc 140, 1617–1621 (2018). DOI: externe Seite 10.1021/jacs.7b13361
+

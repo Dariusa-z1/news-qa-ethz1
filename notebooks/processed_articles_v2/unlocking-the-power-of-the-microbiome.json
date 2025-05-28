@@ -1,0 +1,581 @@
+{
+  "filename": "unlocking-the-power-of-the-microbiome.md",
+  "original_filename": "unlocking-the-power-of-the-microbiome.html",
+  "source_path": "en_news_events/2021/06/unlocking-the-power-of-the-microbiome.html",
+  "date": "2021-06",
+  "title": "Unlocking The Power Of The Microbiome",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Volume control of the plant response",
+      "text": "Hundreds of different bacterial species live in and on leaves and roots of plants. A research team led by Julia Vorholt from the Institute of Microbiology at ETH Zurich, together with colleagues in Germany, first inventoried and categorised these bacteria six years ago. Back then, they isolated 224 strains from the various bacterial groups that live on the leaves of thale cress (Arabidopsis thaliana). These can be assembled into simplified, or “synthetic” plant microbiomes. The researchers thus laid the foundations for their two new studies, which were just published in the journals Nature Plants and Nature Microbiology."
+    },
+    {
+      "heading": "Volume control of the plant response",
+      "text": "In the first study, the researchers investigated how plants respond to their colonisation by microorganisms. Vorholt’s team dripped bacterial cultures onto the leaves of plants that had, up to that point, been cultivated under sterile conditions. As expected, different types of bacteria triggered a variety of responses in the plants. For example, exposure to certain genera of Gammaproteobacteria caused the thale cress plants to activate a total of more than 3,000 different genes, while those of Alphaproteobacteria triggered a response in only 88 genes on average.\n\n“Despite this broad range of responses to the different bacteria of the microbiome, we were astonished to pinpoint a central response: the plants practically always activate a core set of 24 genes,” Vorholt says. But that’s not all the team found: acting as a kind of volume control for the plant response, the activation intensity of these 24 genes provides information as to how extensively the bacteria have colonised the plant. This volume control also predicts how many additional genes the plant will activate as it adapts to the new arrivals."
+    },
+    {
+      "heading": "References",
+      "text": "Plants with defects in some of these 24 genes are more susceptible to harmful bacteria, Vorholt's team has shown. And since other studies had noticed that some genes in the core set are also involved in plant responses to osmotic shock or fungal infestation, the ETH researchers infer that the 24 genes constitute a general defensive response. “It looks like an immune training, even though the bacteria we used aren’t pathogens, but rather partners in a natural community,” Vorholt says.\n\nIn the second study, Vorholt and her team explored how bacterial communities change when mutations cause a plant to be deficient in one or several genes. The team expected to see that genetic defects in receptors, which plants use to detect the presence of microbes, play a major role in the story.\n\nWhat they didn’t expect was that another genetic defect would have the biggest effect: if the plants were deficient in a certain enzyme, an NADPH oxidase, the bacterial community was thrown off-kilter. Plants use this enzyme to produce highly reactive oxygen radicals, which have an antimicrobial effect. In the absence of this NADPH oxidase, microbes that under normal circumstances lived peacefully on the leaves developed into what are known as opportunistic pathogens.\n\nIs the NADPH oxidase found among the core set of 24 genes responsible for general defensive response? “No, that would have been too good to be true,” says Sebastian Pfeilmeier, a member of Vorholt’s research group and lead author of the study. This is because the gene responsible for the NADPH oxidase is turned on prior to contact with microbes and because the enzyme is activated by chemical reactions governed by phosphorylation.\n\nFor Vorholt, the two studies show that synthetic microbiomes are a promising approach to investigating the complex interactions within different communities. “Since we can control and precisely engineer the communities, we can do much more than just observe what happens. In addition to simply determining cause and effect, we can understand them on a molecular level,” Vorholt says. An ideal microbiome protects plants from diseases while also making them more resilient to drought and salty conditions. This is why the agricultural industry is among those interested in the team’s results. They should help farmers harness the power of the microbiome in the future.\n\nMaier BA, Kiefer P, Field CM, Hemmerle L, Bortfeld-Miller M, Emmenegger B, Schäfer M, Pfeilmeier S, Sunagawa S, Vogel CM, and Vorholt JA. A general non-self response as part of plant immunity. Nat Plants 7: 696–705 (2021). doi: 10.1038/s41477-021-00913-1 .\n\nPfeilmeier S, Petti GC, Bortfeld-Miller M, Daniel B, Field CM, Sunagawa S, and Vorholt JA. The plant NADPH oxidase RBOHD is required for microbiota homeostasis in leaves. Nat Microbiol (2021). doi: 10.1038/s41564-021-00929-5 ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Power Of The Microbiome",
+        "label": "WORK_OF_ART",
+        "start": 33,
+        "end": 60
+      },
+      {
+        "text": "Hundreds",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Julia Vorholt",
+        "label": "GPE",
+        "start": 106,
+        "end": 119
+      },
+      {
+        "text": "the Institute of Microbiology",
+        "label": "ORG",
+        "start": 125,
+        "end": 154
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 198,
+        "end": 205
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 207,
+        "end": 212
+      },
+      {
+        "text": "six years ago",
+        "label": "DATE",
+        "start": 256,
+        "end": 269
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 531,
+        "end": 534
+      },
+      {
+        "text": "Nature Plants",
+        "label": "WORK_OF_ART",
+        "start": 590,
+        "end": 603
+      },
+      {
+        "text": "Nature Microbiology",
+        "label": "ORG",
+        "start": 608,
+        "end": 627
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 7,
+        "end": 12
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 109,
+        "end": 116
+      },
+      {
+        "text": "Gammaproteobacteria",
+        "label": "ORG",
+        "start": 379,
+        "end": 398
+      },
+      {
+        "text": "more than 3,000",
+        "label": "CARDINAL",
+        "start": 452,
+        "end": 467
+      },
+      {
+        "text": "Alphaproteobacteria",
+        "label": "GPE",
+        "start": 500,
+        "end": 519
+      },
+      {
+        "text": "only 88",
+        "label": "CARDINAL",
+        "start": 544,
+        "end": 551
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 769,
+        "end": 776
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 88,
+        "end": 95
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 263,
+        "end": 266
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 475,
+        "end": 482
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 496,
+        "end": 502
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 510,
+        "end": 517
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 621,
+        "end": 624
+      },
+      {
+        "text": "NADPH",
+        "label": "ORG",
+        "start": 928,
+        "end": 933
+      },
+      {
+        "text": "NADPH",
+        "label": "ORG",
+        "start": 1116,
+        "end": 1121
+      },
+      {
+        "text": "NADPH",
+        "label": "ORG",
+        "start": 1268,
+        "end": 1273
+      },
+      {
+        "text": "Sebastian Pfeilmeier",
+        "label": "PERSON",
+        "start": 1416,
+        "end": 1436
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 1450,
+        "end": 1457
+      },
+      {
+        "text": "NADPH",
+        "label": "ORG",
+        "start": 1550,
+        "end": 1555
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 1699,
+        "end": 1706
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1712,
+        "end": 1715
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 2065,
+        "end": 2072
+      },
+      {
+        "text": "Maier BA",
+        "label": "PERSON",
+        "start": 2363,
+        "end": 2371
+      },
+      {
+        "text": "Kiefer P",
+        "label": "PERSON",
+        "start": 2373,
+        "end": 2381
+      },
+      {
+        "text": "Hemmerle L",
+        "label": "ORG",
+        "start": 2393,
+        "end": 2403
+      },
+      {
+        "text": "Bortfeld-Miller M",
+        "label": "ORG",
+        "start": 2405,
+        "end": 2422
+      },
+      {
+        "text": "Pfeilmeier S",
+        "label": "PERSON",
+        "start": 2449,
+        "end": 2461
+      },
+      {
+        "text": "Sunagawa S",
+        "label": "PERSON",
+        "start": 2463,
+        "end": 2473
+      },
+      {
+        "text": "Vogel CM",
+        "label": "ORG",
+        "start": 2475,
+        "end": 2483
+      },
+      {
+        "text": "Vorholt JA",
+        "label": "PERSON",
+        "start": 2489,
+        "end": 2499
+      },
+      {
+        "text": "696–705",
+        "label": "CARDINAL",
+        "start": 2570,
+        "end": 2577
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2591,
+        "end": 2598
+      },
+      {
+        "text": "Pfeilmeier S",
+        "label": "PERSON",
+        "start": 2620,
+        "end": 2632
+      },
+      {
+        "text": "Petti GC",
+        "label": "ORG",
+        "start": 2634,
+        "end": 2642
+      },
+      {
+        "text": "Bortfeld-Miller M",
+        "label": "ORG",
+        "start": 2644,
+        "end": 2661
+      },
+      {
+        "text": "Daniel B",
+        "label": "PERSON",
+        "start": 2663,
+        "end": 2671
+      },
+      {
+        "text": "Sunagawa S",
+        "label": "PERSON",
+        "start": 2683,
+        "end": 2693
+      },
+      {
+        "text": "Vorholt JA",
+        "label": "PERSON",
+        "start": 2699,
+        "end": 2709
+      },
+      {
+        "text": "RBOHD",
+        "label": "ORG",
+        "start": 2735,
+        "end": 2740
+      },
+      {
+        "text": "Nat Microbiol",
+        "label": "PERSON",
+        "start": 2791,
+        "end": 2804
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2818,
+        "end": 2825
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Daniel B",
+        "Kiefer P",
+        "Maier BA",
+        "Nat Microbiol",
+        "Pfeilmeier S",
+        "Sebastian Pfeilmeier",
+        "Sunagawa S",
+        "Vorholt JA"
+      ],
+      "ORG": [
+        "Bortfeld-Miller M",
+        "ETH",
+        "Gammaproteobacteria",
+        "Hemmerle L",
+        "NADPH",
+        "Nature Microbiology",
+        "Petti GC",
+        "RBOHD",
+        "Vogel CM",
+        "the Institute of Microbiology"
+      ],
+      "LOCATION": [
+        "Alphaproteobacteria",
+        "Germany",
+        "Julia Vorholt",
+        "Vorholt"
+      ],
+      "DATE": [
+        "six years ago"
+      ],
+      "MISC": [
+        "10.1038",
+        "696–705",
+        "Hundreds",
+        "Nature Plants",
+        "The Power Of The Microbiome",
+        "first",
+        "more than 3,000",
+        "one",
+        "only 88",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Vorholt": 8,
+      "NADPH": 4,
+      "first": 2,
+      "two": 2,
+      "Bortfeld-Miller M": 2,
+      "Pfeilmeier S": 2,
+      "Sunagawa S": 2,
+      "Vorholt JA": 2,
+      "10.1038": 2,
+      "The Power Of The Microbiome": 1,
+      "Hundreds": 1,
+      "Julia Vorholt": 1,
+      "the Institute of Microbiology": 1,
+      "Germany": 1,
+      "six years ago": 1,
+      "Nature Plants": 1,
+      "Nature Microbiology": 1,
+      "Gammaproteobacteria": 1,
+      "more than 3,000": 1,
+      "Alphaproteobacteria": 1
+    },
+    "total_entities": 51,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "unlocking-the-power-of-the-microbiome.md",
+      "title": "En News Events/2021/06/unlocking The Power Of The Microbiome",
+      "language": "en",
+      "source_path": "en_news_events/2021/06/unlocking-the-power-of-the-microbiome.html"
+    },
+    "temporal": {
+      "publication_date": "2021-06",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Daniel B",
+        "Kiefer P",
+        "Maier BA",
+        "Nat Microbiol",
+        "Pfeilmeier S",
+        "Sebastian Pfeilmeier",
+        "Sunagawa S",
+        "Vorholt JA"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "696–705",
+        "Hundreds",
+        "Nature Plants",
+        "The Power Of The Microbiome",
+        "first",
+        "more than 3,000",
+        "only 88",
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Emmenegger B",
+        "Sunagawa S",
+        "Sebastian Pfeilmeier",
+        "Vogel CM",
+        "Vorholt JA",
+        "Julia Vorholt",
+        "Kiefer P",
+        "For Vorholt",
+        "Maier BA",
+        "Field CM",
+        "The Power",
+        "Bortfeld-Miller",
+        "Nat Microbiol",
+        "Nature Plants",
+        "Daniel B",
+        "Of The",
+        "Hemmerle L",
+        "Petti GC",
+        "Pfeilmeier S",
+        "En News",
+        "Nature Microbiology",
+        "ETH Zurich",
+        "Nat Plants",
+        "Microbiome Hundreds"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bortfeld-Miller M",
+        "ETH",
+        "Gammaproteobacteria",
+        "Hemmerle L",
+        "NADPH",
+        "Nature Microbiology",
+        "Petti GC",
+        "RBOHD",
+        "Vogel CM",
+        "the Institute of Microbiology"
+      ],
+      "locations": [
+        "Alphaproteobacteria",
+        "Germany",
+        "Julia Vorholt",
+        "Vorholt"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Vorholt",
+        "NADPH",
+        "first",
+        "two",
+        "Bortfeld-Miller M",
+        "Pfeilmeier S",
+        "Sunagawa S",
+        "Vorholt JA",
+        "10.1038",
+        "The Power Of The Microbiome"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Volume control of the plant response",
+          "Volume control of the plant response",
+          "References"
+        ],
+        "content_length": 4663
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "RBOHD",
+        "ETH",
+        "Sunagawa S",
+        "Sebastian Pfeilmeier",
+        "Vogel CM",
+        "Vorholt JA",
+        "Kiefer P",
+        "Gammaproteobacteria",
+        "Maier BA",
+        "Nat Microbiol",
+        "NADPH",
+        "Bortfeld-Miller M",
+        "Daniel B",
+        "the Institute of Microbiology",
+        "Hemmerle L",
+        "Pfeilmeier S",
+        "Nature Microbiology",
+        "2021",
+        "Petti GC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "only 88",
+        "Nature Plants",
+        "who",
+        "696–705",
+        "Hundreds",
+        "The Power Of The Microbiome",
+        "10.1038",
+        "chemistry",
+        "biology",
+        "what",
+        "second",
+        "how",
+        "more than 3,000",
+        "medical_research",
+        "why",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

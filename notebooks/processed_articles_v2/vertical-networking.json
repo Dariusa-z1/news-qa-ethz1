@@ -1,0 +1,587 @@
+{
+  "filename": "vertical-networking.md",
+  "original_filename": "vertical-networking.html",
+  "source_path": "en_internal/2014/04/vertical-networking.html",
+  "date": "2014-04",
+  "title": "Vertical Networking",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "When the National Research Foundation of Singapore (NRF) first came up with the idea of uniting many different universities to conduct their research projects in one educational hub in 2009, a lot of focus was placed on the uniqueness of such an academic community and the interaction opportunities this would generate.\n\nWithin the Campus for Research Excellence And Technological Enterprise (CREATE – Singaporeans love their abbreviations!), interdisciplinary research centers from renowned universities were brought together for the first time. Apart from ETH Zurich (represented as the Singapore-ETH Centre), the CREATE Tower also houses the Massachusetts Institute of Technology, Technical University of Munich, University of California Berkeley, Peking University, Shanghai Jiao Tong University, National University of Singapore and Nanyang Technological University.\n\nThis kind of setting fosters interactions between the institutions on many levels, informally as well as professionally. Similar routines and routes of researchers encourage contact on a daily basis during commuting, lunchtimes and after work activities. However, it took a while for the different entities to settle in and get used to their surroundings, let alone have the time to notice their neighbors!\n\nSeveral months ago, a cross institute Foosball tournament actually turned out to be a major icebreaker. For the first time, researchers from all over CREATE were brought together in the spirit of healthy competition! Although TU Munich was unbeatable and won both 1st and 2nd place, this event essentially served to bring many of the researchers into initial contact with each other in a social setting.\n\nAs a result of the new bonds that were formed during the tournament, a rotating event called ‘CREATE Talks’ was initiated at a grassroots level to enhance the professional communication between research institutes. Scholars volunteer to present their work in front of an interdisciplinary audience, consisting of other doctoral candidates and professors at CREATE. This opportunity allows them to present their theses to a very diverse peer group and receive valuable input from them, especially for our doctoral candidates who may sometimes find it hard to contact their advisors. I believe that this kind of informal exchange of information is one of the greatest strengths of the CREATE project.\n\nIn the meantime, it has become a tradition for each of the in-house institutes to organize social events. To mention a few, MIT brought the spirit of the American Thanksgiving with a traditional turkey roast and other dishes. We also had a chance to socialize during the Oktoberfest organized by TU Munich, where Wies’n music, German beer and traditional outfits partially recreated the atmosphere of a ‘Beer Tent’. In return, we organized a Christmas party with international influences and Gluhwein (mulled wine), which tastes completely different in a tropical climate. These events usually take place on one of the sky gardens in the tower, among planted bamboos and overlooking the campus and its environs. Even though these vertical interactions are already very promising, it will still take a lot of effort to encourage and strengthen new bonds.\n\nI think it is high time to organize another Foosball championship to return the trophy to its rightful place at the Singapore-ETH Centre – and to learn more about our colleagues’ research of course! Ideally, this vertical communication can be seen as a key feature and resource for the Singapore-ETH community, not only during our time here at the Future Cities Laboratory, but even more in later stages of our careers.\n\nMarta Heisel-Wisniewska is currently working as a researcher at the Chair of Architecture and Construction at the Future Cities Laboratory in Singapore. She received her education at West Pomeranian University of Technology ZUT Szczecin in Poland, as well as at the University of the Arts Berlin between 2004 and 2011. At the Ethiopian Institute of Architecture, Building Construction and City Development in Addis Ababa, she worked as a lecturer and architectural program coordinator, and was part of a research team on refugee shelter design. She also served as a coordinator of a consultancy project for Addis Ababa Institute of Technology AAiT. In 2011, EiABC Student Council recognized her commitment with a ‘Best Teaching’ award."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the National Research Foundation of Singapore",
+        "label": "ORG",
+        "start": 5,
+        "end": 50
+      },
+      {
+        "text": "NRF",
+        "label": "GPE",
+        "start": 52,
+        "end": 55
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 57,
+        "end": 62
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 162,
+        "end": 165
+      },
+      {
+        "text": "the Campus for Research Excellence",
+        "label": "ORG",
+        "start": 327,
+        "end": 361
+      },
+      {
+        "text": "Singaporeans",
+        "label": "NORP",
+        "start": 401,
+        "end": 413
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 534,
+        "end": 539
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 557,
+        "end": 567
+      },
+      {
+        "text": "the Singapore-ETH Centre",
+        "label": "ORG",
+        "start": 584,
+        "end": 608
+      },
+      {
+        "text": "the CREATE Tower",
+        "label": "ORG",
+        "start": 611,
+        "end": 627
+      },
+      {
+        "text": "the Massachusetts Institute of Technology, Technical University of Munich, University of California Berkeley",
+        "label": "ORG",
+        "start": 640,
+        "end": 748
+      },
+      {
+        "text": "Peking University",
+        "label": "ORG",
+        "start": 750,
+        "end": 767
+      },
+      {
+        "text": "Shanghai Jiao Tong University",
+        "label": "ORG",
+        "start": 769,
+        "end": 798
+      },
+      {
+        "text": "National University of Singapore",
+        "label": "ORG",
+        "start": 800,
+        "end": 832
+      },
+      {
+        "text": "Nanyang Technological University",
+        "label": "ORG",
+        "start": 837,
+        "end": 869
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 1058,
+        "end": 1063
+      },
+      {
+        "text": "Several months ago",
+        "label": "DATE",
+        "start": 1278,
+        "end": 1296
+      },
+      {
+        "text": "Foosball",
+        "label": "PERSON",
+        "start": 1316,
+        "end": 1324
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1390,
+        "end": 1395
+      },
+      {
+        "text": "TU Munich",
+        "label": "ORG",
+        "start": 1504,
+        "end": 1513
+      },
+      {
+        "text": "both 1st",
+        "label": "DATE",
+        "start": 1537,
+        "end": 1545
+      },
+      {
+        "text": "2nd",
+        "label": "ORDINAL",
+        "start": 1550,
+        "end": 1553
+      },
+      {
+        "text": "MIT",
+        "label": "ORG",
+        "start": 2505,
+        "end": 2508
+      },
+      {
+        "text": "American",
+        "label": "NORP",
+        "start": 2535,
+        "end": 2543
+      },
+      {
+        "text": "Thanksgiving",
+        "label": "DATE",
+        "start": 2544,
+        "end": 2556
+      },
+      {
+        "text": "Oktoberfest",
+        "label": "ORG",
+        "start": 2652,
+        "end": 2663
+      },
+      {
+        "text": "TU Munich",
+        "label": "ORG",
+        "start": 2677,
+        "end": 2686
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 2708,
+        "end": 2714
+      },
+      {
+        "text": "Christmas",
+        "label": "DATE",
+        "start": 2823,
+        "end": 2832
+      },
+      {
+        "text": "Gluhwein",
+        "label": "PERSON",
+        "start": 2873,
+        "end": 2881
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 2989,
+        "end": 2992
+      },
+      {
+        "text": "Foosball",
+        "label": "PRODUCT",
+        "start": 3279,
+        "end": 3287
+      },
+      {
+        "text": "the Singapore-ETH Centre",
+        "label": "FAC",
+        "start": 3347,
+        "end": 3371
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 3521,
+        "end": 3530
+      },
+      {
+        "text": "the Future Cities Laboratory",
+        "label": "ORG",
+        "start": 3579,
+        "end": 3607
+      },
+      {
+        "text": "Marta Heisel-Wisniewska",
+        "label": "PERSON",
+        "start": 3655,
+        "end": 3678
+      },
+      {
+        "text": "the Chair of Architecture and Construction",
+        "label": "ORG",
+        "start": 3719,
+        "end": 3761
+      },
+      {
+        "text": "the Future Cities Laboratory",
+        "label": "ORG",
+        "start": 3765,
+        "end": 3793
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 3797,
+        "end": 3806
+      },
+      {
+        "text": "West Pomeranian University of Technology ZUT Szczecin",
+        "label": "ORG",
+        "start": 3838,
+        "end": 3891
+      },
+      {
+        "text": "Poland",
+        "label": "GPE",
+        "start": 3895,
+        "end": 3901
+      },
+      {
+        "text": "the University of the Arts Berlin",
+        "label": "ORG",
+        "start": 3917,
+        "end": 3950
+      },
+      {
+        "text": "between 2004 and 2011",
+        "label": "DATE",
+        "start": 3951,
+        "end": 3972
+      },
+      {
+        "text": "the Ethiopian Institute of Architecture, Building Construction and City Development",
+        "label": "ORG",
+        "start": 3977,
+        "end": 4060
+      },
+      {
+        "text": "Addis Ababa",
+        "label": "GPE",
+        "start": 4064,
+        "end": 4075
+      },
+      {
+        "text": "Addis Ababa Institute of Technology",
+        "label": "ORG",
+        "start": 4262,
+        "end": 4297
+      },
+      {
+        "text": "EiABC Student Council",
+        "label": "ORG",
+        "start": 4313,
+        "end": 4334
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Foosball",
+        "Gluhwein",
+        "Marta Heisel-Wisniewska"
+      ],
+      "ORG": [
+        "Addis Ababa Institute of Technology",
+        "ETH Zurich",
+        "EiABC Student Council",
+        "MIT",
+        "Nanyang Technological University",
+        "National University of Singapore",
+        "Oktoberfest",
+        "Peking University",
+        "Shanghai Jiao Tong University",
+        "TU Munich",
+        "West Pomeranian University of Technology ZUT Szczecin",
+        "the CREATE Tower",
+        "the Campus for Research Excellence",
+        "the Chair of Architecture and Construction",
+        "the Ethiopian Institute of Architecture, Building Construction and City Development",
+        "the Future Cities Laboratory",
+        "the Massachusetts Institute of Technology, Technical University of Munich, University of California Berkeley",
+        "the National Research Foundation of Singapore",
+        "the Singapore-ETH Centre",
+        "the University of the Arts Berlin"
+      ],
+      "LOCATION": [
+        "Addis Ababa",
+        "NRF",
+        "Poland",
+        "Singapore",
+        "the Singapore-ETH Centre"
+      ],
+      "DATE": [
+        "Christmas",
+        "Several months ago",
+        "Thanksgiving",
+        "between 2004 and 2011",
+        "both 1st",
+        "daily"
+      ],
+      "MISC": [
+        "2nd",
+        "American",
+        "Foosball",
+        "German",
+        "Singaporeans",
+        "first",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "first": 3,
+      "one": 2,
+      "the Singapore-ETH Centre": 2,
+      "Foosball": 2,
+      "TU Munich": 2,
+      "Singapore": 2,
+      "the Future Cities Laboratory": 2,
+      "the National Research Foundation of Singapore": 1,
+      "NRF": 1,
+      "the Campus for Research Excellence": 1,
+      "Singaporeans": 1,
+      "ETH Zurich": 1,
+      "the CREATE Tower": 1,
+      "the Massachusetts Institute of Technology, Technical University of Munich, University of California Berkeley": 1,
+      "Peking University": 1,
+      "Shanghai Jiao Tong University": 1,
+      "National University of Singapore": 1,
+      "Nanyang Technological University": 1,
+      "daily": 1,
+      "Several months ago": 1
+    },
+    "total_entities": 47,
+    "unique_entities": 39
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "vertical-networking.md",
+      "title": "En Internal/2014/04/vertical Networking",
+      "language": "en",
+      "source_path": "en_internal/2014/04/vertical-networking.html"
+    },
+    "temporal": {
+      "publication_date": "2014-04",
+      "mentioned_years": [
+        "2004",
+        "2009",
+        "2011",
+        "2014"
+      ],
+      "time_periods": [
+        [
+          "2004",
+          "2011"
+        ]
+      ],
+      "temporal_context": "during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Foosball",
+        "Gluhwein",
+        "Marta Heisel-Wisniewska"
+      ],
+      "people_with_roles": {
+        "Marta Heisel-Wisniewska": [
+          "researcher",
+          "chair"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "chair",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "American",
+        "Foosball",
+        "German",
+        "Singaporeans",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Marta Heisel",
+        "Although TU",
+        "Technology AAiT",
+        "Future Cities",
+        "Technology ZUT",
+        "Nanyang Technological",
+        "American Thanksgiving",
+        "Arts Berlin",
+        "Singapore-ETH",
+        "Networking When",
+        "National Research",
+        "And Technological",
+        "TU Munich",
+        "Tong University",
+        "California Berkeley",
+        "Shanghai Jiao",
+        "Research Excellence",
+        "Massachusetts Institute",
+        "City Development",
+        "CREATE Talks",
+        "Technical University",
+        "National University",
+        "Building Construction",
+        "Best Teaching",
+        "West Pomeranian",
+        "Ethiopian Institute",
+        "EiABC Student",
+        "Addis Ababa",
+        "CREATE Tower",
+        "En Internal",
+        "ETH Zurich",
+        "Beer Tent",
+        "Peking University"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Addis Ababa Institute of Technology",
+        "ETH Zurich",
+        "EiABC Student Council",
+        "MIT",
+        "Nanyang Technological University",
+        "National University of Singapore",
+        "Oktoberfest",
+        "Peking University",
+        "Shanghai Jiao Tong University",
+        "TU Munich",
+        "West Pomeranian University of Technology ZUT Szczecin",
+        "the CREATE Tower",
+        "the Campus for Research Excellence",
+        "the Chair of Architecture and Construction",
+        "the Ethiopian Institute of Architecture, Building Construction and City Development",
+        "the Future Cities Laboratory",
+        "the Massachusetts Institute of Technology, Technical University of Munich, University of California Berkeley",
+        "the National Research Foundation of Singapore",
+        "the Singapore-ETH Centre",
+        "the University of the Arts Berlin"
+      ],
+      "locations": [
+        "Addis Ababa",
+        "NRF",
+        "Poland",
+        "Singapore",
+        "the Singapore-ETH Centre"
+      ],
+      "programs": [
+        "program",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "first",
+        "one",
+        "the Singapore-ETH Centre",
+        "Foosball",
+        "TU Munich",
+        "Singapore",
+        "the Future Cities Laboratory",
+        "the National Research Foundation of Singapore",
+        "NRF",
+        "the Campus for Research Excellence"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 4437
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "West Pomeranian University of Technology ZUT Szczecin",
+        "2004",
+        "EiABC Student Council",
+        "2009",
+        "National University of Singapore",
+        "TU Munich",
+        "Gluhwein",
+        "the Campus for Research Excellence",
+        "Nanyang Technological University",
+        "Oktoberfest",
+        "2014",
+        "Foosball",
+        "the Singapore-ETH Centre",
+        "2011",
+        "the Chair of Architecture and Construction",
+        "the University of the Arts Berlin",
+        "the CREATE Tower",
+        "the National Research Foundation of Singapore",
+        "Addis Ababa Institute of Technology",
+        "the Ethiopian Institute of Architecture, Building Construction and City Development",
+        "ETH Zurich",
+        "Shanghai Jiao Tong University",
+        "Marta Heisel-Wisniewska",
+        "the Massachusetts Institute of Technology, Technical University of Munich, University of California Berkeley",
+        "MIT",
+        "the Future Cities Laboratory",
+        "Peking University"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Foosball",
+        "American",
+        "who",
+        "where",
+        "Singaporeans",
+        "what",
+        "German",
+        "how",
+        "medical_research",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Marta Heisel-Wisniewska_has_role_researcher",
+        "Marta Heisel-Wisniewska_has_role_chair",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

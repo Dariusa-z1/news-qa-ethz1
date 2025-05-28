@@ -1,0 +1,527 @@
+{
+  "filename": "ultraschneller-magnetantrieb.md",
+  "original_filename": "ultraschneller-magnetantrieb.html",
+  "source_path": "de_news_events/2016/07/ultraschneller-magnetantrieb.html",
+  "date": "2016-07",
+  "title": "Ultraschneller Magnetantrieb",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Bisherige Systeme haben zahlreiche Nachteile",
+      "text": "«Eigentlich ist daran nicht viel Neues», sagt Arda Tüysüz, Postdoc am Power Electronic Systems Laboratory (PES) der ETH Zürich bescheiden. Die Elektronik, die Magnetlagerung, das physikalische Grundprinzip – alles schon da gewesen. Aber diese Grundlagen in einem Hochgeschwindigkeitsantrieb zusammenzufügen, der massiv kleiner und energieeffizienter ist und um einen Faktor 20 mehr Umdrehungen als bisherige Modelle erzielt – das ist die Ingenieurskunst, die die PES-Forscher beherrschen. In Zusammenarbeit mit dem ETH-Spin-off Celeroton haben Tüysüz und Kollegen einen neuartigen magnetgelagerten Reaktionsradantrieb entwickelt, der mehr als 150‘000 Umdrehungen pro Minute erreicht.\n\nSolche elektrisch angetriebenen Reaktionsräder werden in Satelliten verwendet, um deren Lage zu verändern. Dabei ist das Reaktionsrad über einen Stift (Rotor) mit einem Elektromotor verbunden. Sobald sich das Schwungrad, angetrieben von diesem Motor, in die eine Richtung um seine eigene Achse dreht, wird ein Drehmoment auf den Satelliten übertragen, der nun in die Gegenrichtung rotiert und so in eine neue Ausrichtung gebracht werden kann."
+    },
+    {
+      "heading": "Bisherige Systeme haben zahlreiche Nachteile",
+      "text": "Gelagert sind die Rotoren und Reaktionsräder bisheriger Systeme meist auf Kugellagern. Diese nutzen sich allerdings relativ rasch ab. Um den mechanischen Abrieb zu minimieren, werden solche Antriebe mit lediglich 6‘000 Umdrehungen pro Minute betrieben. Auch müssen sie in einem hermetisch abgeschlossenen Gehäuse in einer Niederdruckatmosphäre aus Stickstoff aufbewahrt werden, damit das Material nicht oxidiert und sich das Schmiermittel nicht verflüchtigt.\n\nDarüber hinaus sind die Kügelchen eines Kugellagers nicht genau identisch. Dadurch entstehen Kräfte, die zusammen mit dem Ungleichgewicht des Rotors winzige Vibrationen auf das Gehäuse des Satelliten übertragen. Dies beeinträchtigt die erforderliche Punkt-Genauigkeit, die Satelliten aufweisen müssen, um beispielsweise Lasermessungen oder die Kommunikation zwischen Satelliten zu erlauben. Viele Gründe also für die ETH- und Celeroton-Forscher, ein neues magnetisch gelagertes elektrisches Antriebssystem zu konzipieren."
+    },
+    {
+      "heading": "Literaturhinweise",
+      "text": "Komponenten und Aufbau des neuartigen Antriebs. (Bild: aus Zwyssig et al., 2014)\n\nBegonnen hat die Entwicklungsarbeit vor einigen Jahren mit einer Doktorarbeit am PES. Ein erstes Demonstrationsobjekt präsentierten die Forscher vor zwei Jahren an einer Fachkonferenz in Japan. Im Juni dieses Jahres nun stellten sie an einem internationalen Symposium einen ersten Prototypen eines neuartigen Antriebs für Kleinstsatelliten vor.\n\nDieser Prototyp kann mit mehr als 150‘000 U/min betrieben werden – schneller als vergleichbare bisherige Modelle, weil der Rotor in einem Magnetfeld schwebt. Die hohe Umdrehungszahl erlaubte es den Forschern zudem, das Antriebssystem markant zu verkleinern, da es trotz kleinerer Abmessungen den gleichen Drehimpuls hat wie ein grösserer Antrieb. Das macht es interessant für den Einsatz in Kleinstsatelliten von der Grösse einer Schuhschachtel.\n\n«Mit der magnetischen Lagerung können wir zudem die Vibrationen vermeiden», sagt Tüyüz. Da dieses System nicht geschmiert werden muss, lässt es sich auch in einem Vakuum betreiben, was es für den Einsatz im All prädestiniert. Die magnetische Lagerung ermöglicht es zudem, das Reaktionsrad sanft und glatt in Drehung zu versetzen, weil kein Reibungswiderstand beim Anlaufen des Systems auftritt.\n\n«Das von uns neu entwickelte System ist gesamthaft betrachtet komplex», betont Tüysüz. Um es steuern und kontrollieren zu können, braucht es eine ausgeklügelte Leistungselektronik. «Dies trifft sich perfekt mit einer weiteren Kernkompetenz des Power Electronic Systems Laboratory», sagt der Elektroingenieur. Tüysüz arbeitet derzeit daran, diese Steuerungselektronik des Systems weiterzuentwickeln und zu verbessern.\n\nDas System, das die ETH-Forschenden und Kollegen der Celeroton entwickelt haben, ist erst ein Prototyp, mit dem die Funktionsweise bewiesen wurde. Die Resultate wurden wissenschaftlich publiziert, käuflich erhältlich ist es jedoch noch nicht. Dennoch gibt es bereits erste Interessenten, allen voran die europäische Weltraumbehörde ESA.\n\nDieses Projekt wurde finanziell unterstützt durch das Staatssekretariat für Bildung, Forschung und Innovation (SBFI).\n\nKaufmann M, Tüysüz A, Kolar JW, Zwyssig C, High-Speed Magnetically Levitated Reaction Wheels for Small Satellites , Proceedings of the 23rd International Symposium on Power Electronics, Electrical Drives, Automation and Motion (SPEEDAM 2016), Anacapri, Capri, Italy, June 22-24, 2016.\n\nZwyssig C, Baumgartner T, Kolar JW. High-Speed Magnetically Levitated Reaction Wheel Demonstrator . Proceedings of the International Power Electronics Conference - ECCE Asia (IPEC 2014), Hiroshima, Japan, May 18-21, 2014."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Arda Tüysüz",
+        "label": "PER",
+        "start": 46,
+        "end": 57
+      },
+      {
+        "text": "Power Electronic Systems Laboratory",
+        "label": "ORG",
+        "start": 70,
+        "end": 105
+      },
+      {
+        "text": "PES",
+        "label": "ORG",
+        "start": 107,
+        "end": 110
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 116,
+        "end": 126
+      },
+      {
+        "text": "Celeroton",
+        "label": "PER",
+        "start": 528,
+        "end": 537
+      },
+      {
+        "text": "Schwungrad",
+        "label": "LOC",
+        "start": 893,
+        "end": 903
+      },
+      {
+        "text": "Kügelchen",
+        "label": "MISC",
+        "start": 483,
+        "end": 492
+      },
+      {
+        "text": "Ungleichgewicht des Rotors",
+        "label": "MISC",
+        "start": 581,
+        "end": 607
+      },
+      {
+        "text": "PES",
+        "label": "ORG",
+        "start": 162,
+        "end": 165
+      },
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 268,
+        "end": 273
+      },
+      {
+        "text": "Forschern",
+        "label": "MISC",
+        "start": 624,
+        "end": 633
+      },
+      {
+        "text": "Vibrationen",
+        "label": "MISC",
+        "start": 924,
+        "end": 935
+      },
+      {
+        "text": "System",
+        "label": "PER",
+        "start": 1296,
+        "end": 1302
+      },
+      {
+        "text": "Power Electronic Systems Laboratory",
+        "label": "ORG",
+        "start": 1511,
+        "end": 1546
+      },
+      {
+        "text": "Tüysüz",
+        "label": "PER",
+        "start": 1576,
+        "end": 1582
+      },
+      {
+        "text": "Systems",
+        "label": "MISC",
+        "start": 1638,
+        "end": 1645
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 1704,
+        "end": 1719
+      },
+      {
+        "text": "Celeroton",
+        "label": "LOC",
+        "start": 1737,
+        "end": 1746
+      },
+      {
+        "text": "europäische",
+        "label": "MISC",
+        "start": 1988,
+        "end": 1999
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 2016,
+        "end": 2019
+      },
+      {
+        "text": "Staatssekretariat für Bildung",
+        "label": "ORG",
+        "start": 2075,
+        "end": 2104
+      },
+      {
+        "text": "SBFI",
+        "label": "ORG",
+        "start": 2132,
+        "end": 2136
+      },
+      {
+        "text": "Tüysüz A",
+        "label": "LOC",
+        "start": 2151,
+        "end": 2159
+      },
+      {
+        "text": "Kolar JW",
+        "label": "ORG",
+        "start": 2161,
+        "end": 2169
+      },
+      {
+        "text": "Zwyssig C",
+        "label": "PER",
+        "start": 2171,
+        "end": 2180
+      },
+      {
+        "text": "High-Speed Magnetically Levitated",
+        "label": "PER",
+        "start": 2182,
+        "end": 2215
+      },
+      {
+        "text": "Wheels for Small Satellites",
+        "label": "MISC",
+        "start": 2225,
+        "end": 2252
+      },
+      {
+        "text": "Proceedings of the 23rd International Symposium on Power Electronics",
+        "label": "ORG",
+        "start": 2255,
+        "end": 2323
+      },
+      {
+        "text": "Electrical Drives",
+        "label": "PER",
+        "start": 2325,
+        "end": 2342
+      },
+      {
+        "text": "Automation and Motion",
+        "label": "MISC",
+        "start": 2344,
+        "end": 2365
+      },
+      {
+        "text": "Anacapri",
+        "label": "LOC",
+        "start": 2382,
+        "end": 2390
+      },
+      {
+        "text": "Capri",
+        "label": "LOC",
+        "start": 2392,
+        "end": 2397
+      },
+      {
+        "text": "Italy",
+        "label": "LOC",
+        "start": 2399,
+        "end": 2404
+      },
+      {
+        "text": "June",
+        "label": "LOC",
+        "start": 2406,
+        "end": 2410
+      },
+      {
+        "text": "Baumgartner T",
+        "label": "MISC",
+        "start": 2435,
+        "end": 2448
+      },
+      {
+        "text": "Kolar JW",
+        "label": "ORG",
+        "start": 2450,
+        "end": 2458
+      },
+      {
+        "text": "High-Speed",
+        "label": "PER",
+        "start": 2460,
+        "end": 2470
+      },
+      {
+        "text": "ECCE Asia",
+        "label": "ORG",
+        "start": 2588,
+        "end": 2597
+      },
+      {
+        "text": "IPEC",
+        "label": "ORG",
+        "start": 2599,
+        "end": 2603
+      },
+      {
+        "text": "Hiroshima",
+        "label": "LOC",
+        "start": 2611,
+        "end": 2620
+      },
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 2622,
+        "end": 2627
+      },
+      {
+        "text": "May",
+        "label": "LOC",
+        "start": 2629,
+        "end": 2632
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Arda Tüysüz",
+        "Celeroton",
+        "Electrical Drives",
+        "High-Speed",
+        "High-Speed Magnetically Levitated",
+        "System",
+        "Tüysüz",
+        "Zwyssig C"
+      ],
+      "ORG": [
+        "ECCE Asia",
+        "ESA",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "IPEC",
+        "Kolar JW",
+        "PES",
+        "Power Electronic Systems Laboratory",
+        "Proceedings of the 23rd International Symposium on Power Electronics",
+        "SBFI",
+        "Staatssekretariat für Bildung"
+      ],
+      "LOCATION": [
+        "Anacapri",
+        "Capri",
+        "Celeroton",
+        "Hiroshima",
+        "Italy",
+        "Japan",
+        "June",
+        "May",
+        "Schwungrad",
+        "Tüysüz A"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Automation and Motion",
+        "Baumgartner T",
+        "Forschern",
+        "Kügelchen",
+        "Systems",
+        "Ungleichgewicht des Rotors",
+        "Vibrationen",
+        "Wheels for Small Satellites",
+        "europäische"
+      ]
+    },
+    "entity_counts": {
+      "Power Electronic Systems Laboratory": 2,
+      "PES": 2,
+      "Celeroton": 2,
+      "Japan": 2,
+      "Kolar JW": 2,
+      "Arda Tüysüz": 1,
+      "ETH Zürich": 1,
+      "Schwungrad": 1,
+      "Kügelchen": 1,
+      "Ungleichgewicht des Rotors": 1,
+      "Forschern": 1,
+      "Vibrationen": 1,
+      "System": 1,
+      "Tüysüz": 1,
+      "Systems": 1,
+      "ETH-Forschenden": 1,
+      "europäische": 1,
+      "ESA": 1,
+      "Staatssekretariat für Bildung": 1,
+      "SBFI": 1
+    },
+    "total_entities": 42,
+    "unique_entities": 37
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ultraschneller-magnetantrieb.md",
+      "title": "De News Events/2016/07/ultraschneller Magnetantrieb",
+      "language": "de",
+      "source_path": "de_news_events/2016/07/ultraschneller-magnetantrieb.html"
+    },
+    "temporal": {
+      "publication_date": "2016-07",
+      "mentioned_years": [
+        "2014",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Arda Tüysüz",
+        "Celeroton",
+        "Electrical Drives",
+        "High-Speed",
+        "High-Speed Magnetically Levitated",
+        "System",
+        "Tüysüz",
+        "Zwyssig C"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "Automation and Motion",
+        "Baumgartner T",
+        "Forschern",
+        "Kügelchen",
+        "Systems",
+        "Ungleichgewicht des Rotors",
+        "Vibrationen",
+        "Wheels for Small Satellites",
+        "europäische"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Dieses Projekt",
+        "Zwyssig C",
+        "Im Juni",
+        "Die Elektronik",
+        "Die Resultate",
+        "Small Satellites",
+        "ETH-Spin",
+        "Electronics Conference",
+        "In Zusammenarbeit",
+        "Baumgartner T",
+        "High-Speed",
+        "Systems Laboratory",
+        "Das System",
+        "Celeroton-Forscher",
+        "Electrical Drives",
+        "Punkt-Genauigkeit",
+        "Power Electronics",
+        "PES-Forscher",
+        "Dieser Prototyp",
+        "International Power",
+        "Magnetically Levitated",
+        "Power Electronic",
+        "Kolar JW",
+        "International Symposium",
+        "ECCE Asia",
+        "Kaufmann M",
+        "Reaction Wheels",
+        "ETH-Forschenden",
+        "De News",
+        "Reaction Wheel"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ECCE Asia",
+        "ESA",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "IPEC",
+        "Kolar JW",
+        "PES",
+        "Power Electronic Systems Laboratory",
+        "Proceedings of the 23rd International Symposium on Power Electronics",
+        "SBFI",
+        "Staatssekretariat für Bildung"
+      ],
+      "locations": [
+        "Anacapri",
+        "Capri",
+        "Celeroton",
+        "Hiroshima",
+        "Italy",
+        "Japan",
+        "June",
+        "May",
+        "Schwungrad",
+        "Tüysüz A"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Power Electronic Systems Laboratory",
+        "PES",
+        "Celeroton",
+        "Japan",
+        "Kolar JW",
+        "Arda Tüysüz",
+        "ETH Zürich",
+        "Schwungrad",
+        "Kügelchen",
+        "Ungleichgewicht des Rotors"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Bisherige Systeme haben zahlreiche Nachteile",
+          "Bisherige Systeme haben zahlreiche Nachteile",
+          "Literaturhinweise"
+        ],
+        "content_length": 4815
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "System",
+        "PES",
+        "Zwyssig C",
+        "Arda Tüysüz",
+        "Tüysüz",
+        "2016",
+        "SBFI",
+        "ESA",
+        "ETH Zürich",
+        "Staatssekretariat für Bildung",
+        "Power Electronic Systems Laboratory",
+        "High-Speed",
+        "2014",
+        "Electrical Drives",
+        "EU",
+        "IPEC",
+        "Proceedings of the 23rd International Symposium on Power Electronics",
+        "Kolar JW",
+        "ECCE Asia",
+        "High-Speed Magnetically Levitated",
+        "ETH-Forschenden",
+        "Celeroton"
+      ],
+      "semantic_concepts": [
+        "Vibrationen",
+        "europäische",
+        "Ungleichgewicht des Rotors",
+        "Forschern",
+        "Kügelchen",
+        "Baumgartner T",
+        "Systems",
+        "Wheels for Small Satellites",
+        "Automation and Motion",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

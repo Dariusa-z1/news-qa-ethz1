@@ -1,0 +1,385 @@
+{
+  "filename": "automatisierte-analyse-des-tierverhaltens.md",
+  "original_filename": "automatisierte-analyse-des-tierverhaltens.html",
+  "source_path": "de_news_events/2022/04/automatisierte-analyse-des-tierverhaltens.html",
+  "date": "2022-04",
+  "title": "Automatisierte Analyse Des Tierverhaltens",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Für alle Tierarten geeignet",
+      "text": "Für Verhaltensstudien mit Tieren müssen Wissenschaftler:innen oft grosse Mengen von Videoaufzeichnungen analysieren. Klassischerweise sichten sie dabei Aufnahmen mit einer Gesamtdauer von vielen Wochen und Monaten und führen über das beobachtete Verhalten Protokoll. Forschende an der ETH Zürich und der Universität Zürich haben die Analyse solcher Aufzeichnungen nun automatisiert. Ein von ihnen entwickelter Bildanalyse-Algorithmus nutzt computerbasiertes Sehen und maschinelles Lernen. Der Algorithmus kann individuelle Tiere unterscheiden sowie Verhaltensweisen erkennen, die zum Beispiel auf Neugierde, Angst oder auf harmonische Interaktionen mit Artgenossen hindeuten.\n\nVideoaufnahmen von Tieren – auch äusserst umfangreiche – können damit quasi auf Knopfdruck automatisch ausgewertet werden. Ein weiterer Vorteil ist die Reproduzierbarkeit: Wenn unterschiedliche Forschungsgruppen ihre Videodaten mit demselben Algorithmus auswerten, sind ihre Arbeiten besser vergleichbar, weil immer die gleichen Massstäbe angelegt werden. Ausserdem ist der neue Algorithmus so empfindlich, dass auch subtile Verhaltensänderungen erkannt werden, die sich nur sehr langsam und über eine lange Zeitspanne entwickeln. «Für das menschliche Auge hingegen sind solche Veränderungen oft schwierig zu erkennen», sagt Markus Marks. Er ist Postdoc in der Gruppe von Mehmet Fatih Yanik, Professor für Neurotechnologie, und Erstautor der Forschungsarbeit."
+    },
+    {
+      "heading": "Für alle Tierarten geeignet",
+      "text": "Die Wissenschaftler trainierten den Machine-Learning-Algorithmus mit Videoaufnahmen aus Tierhaltungen von Mäusen und Makaken. Die Methode eignet sich jedoch für alle Tierarten, wie die Forschenden betonen. In der Wissenschaftsgemeinschaft hat sich die neue Methode bereits herumgesprochen. Die Forschenden stellen den Algorithmus auf einer öffentlichen Plattform anderen Forschenden zur Verfügung, und zahlreiche Kollegen auf der ganzen Welt nutzen ihn bereits. «Insbesondere unter Primatenforschenden ist das Interesse gross. So nutzt auch eine Gruppe, welche wildlebende Schimpansen in Uganda erforscht, unsere Technik», sagt Marks.\n\nDies dürfte unter anderem damit zu tun haben, dass mit dieser Methode auch komplexes Sozialverhalten in einer Tiergemeinschaft ausgewertet werden kann, etwa welches Tier wann das Fell eines anderen Gruppenmitglieds pflegt. «Gegenüber bisherigen auf maschinellem Lernen basierenden Verhaltensanalysealgorithmen hat unsere Methode gerade bei der Analyse des Sozialverhaltens in komplexen Settings grosse Vorteile», sagt Marks."
+    },
+    {
+      "heading": "Tierhaltung verbessern",
+      "text": "Ausserdem kann die Methode zur Verbesserung der Tierhaltung eingesetzt werden. Es ist damit möglich, Tiere rund um die Uhr zu überwachen und automatisch abnormales Verhalten zu erkennen. Ungünstiges Sozialverhalten oder Erkrankungen können so frühzeitig erkannt werden, und Tierpflegende können rasch eingreifen und die Situation für die Tiere verbessern. Die Forschenden unterhalten derzeit auch eine Zusammenarbeit mit dem Zoo Zürich, der seine Tierhaltung weiter verbessern und automatisierte Verhaltensforschung betreiben möchte. Für eine kürzlich veröffentlichten Studie zum Schlafverhalten von Elefanten mussten die Zooforschenden beispielsweise Videoaufnahmen manuell auswerten. Sie erhoffen sich von der neuen Methode, solche Arbeiten künftig automatisieren zu können.\n\nZum Einsatz kommt die Methode schliesslich in der biologischen, neurobiologischen und medizinischen Grundlagenforschung. «Unsere Methode kann bereits sehr geringfügige Änderungen im Verhalten von Versuchstieren erkennen, zum Beispiel Anzeichen von Stress, Angst und Unwohlsein», sagt ETH-Professor Yanik. «Sie hilft somit, die Qualität von Studien mit Tieren zu erhöhen, die Zahl von Tieren pro Versuch zu reduzieren und die Tiere nicht übermässig zu belasten.» Er selbst plant, die Methode in seiner neurobiologischen Forschung im Bereich des Imitationslernens zu verwenden.\n\nMarks M, Jin Q, Sturman O, von Ziegler L, Kollmorgen S, von der Behrens W, Mante V, Bohacek J, Yanik MF: Deep-learning-based identification, tracking, pose estimation and behaviour classification of interacting primates and mice in complex environments. Nature Machine Intelligence, 21. April 2022, doi: externe Seite 10.1038/s42256-022-00477-5"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 285,
+        "end": 295
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 304,
+        "end": 322
+      },
+      {
+        "text": "Knopfdruck",
+        "label": "PER",
+        "start": 756,
+        "end": 766
+      },
+      {
+        "text": "Markus Marks",
+        "label": "PER",
+        "start": 1301,
+        "end": 1313
+      },
+      {
+        "text": "Mehmet Fatih Yanik",
+        "label": "PER",
+        "start": 1348,
+        "end": 1366
+      },
+      {
+        "text": "Uganda",
+        "label": "LOC",
+        "start": 588,
+        "end": 594
+      },
+      {
+        "text": "Zoo Zürich",
+        "label": "LOC",
+        "start": 425,
+        "end": 435
+      },
+      {
+        "text": "neurobiologischen",
+        "label": "MISC",
+        "start": 841,
+        "end": 858
+      },
+      {
+        "text": "Unsere Methode",
+        "label": "MISC",
+        "start": 899,
+        "end": 913
+      },
+      {
+        "text": "ETH-Professor Yanik",
+        "label": "PER",
+        "start": 1061,
+        "end": 1080
+      },
+      {
+        "text": "neurobiologischen",
+        "label": "MISC",
+        "start": 1278,
+        "end": 1295
+      },
+      {
+        "text": "Marks M",
+        "label": "PER",
+        "start": 1353,
+        "end": 1360
+      },
+      {
+        "text": "Jin Q",
+        "label": "PER",
+        "start": 1362,
+        "end": 1367
+      },
+      {
+        "text": "Sturman O",
+        "label": "PER",
+        "start": 1369,
+        "end": 1378
+      },
+      {
+        "text": "Ziegler L",
+        "label": "PER",
+        "start": 1384,
+        "end": 1393
+      },
+      {
+        "text": "Kollmorgen S",
+        "label": "PER",
+        "start": 1395,
+        "end": 1407
+      },
+      {
+        "text": "Behrens W",
+        "label": "ORG",
+        "start": 1417,
+        "end": 1426
+      },
+      {
+        "text": "Mante V",
+        "label": "PER",
+        "start": 1428,
+        "end": 1435
+      },
+      {
+        "text": "Bohacek J",
+        "label": "PER",
+        "start": 1437,
+        "end": 1446
+      },
+      {
+        "text": "Yanik MF",
+        "label": "ORG",
+        "start": 1448,
+        "end": 1456
+      },
+      {
+        "text": "complex environments",
+        "label": "PER",
+        "start": 1585,
+        "end": 1605
+      },
+      {
+        "text": "Nature Machine Intelligence",
+        "label": "MISC",
+        "start": 1607,
+        "end": 1634
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bohacek J",
+        "De News",
+        "ETH-Professor Yanik",
+        "Jin Q",
+        "Knopfdruck",
+        "Kollmorgen S",
+        "Mante V",
+        "Marks M",
+        "Markus Marks",
+        "Mehmet Fatih Yanik",
+        "Sturman O",
+        "Ziegler L",
+        "complex environments"
+      ],
+      "ORG": [
+        "Behrens W",
+        "ETH Zürich",
+        "Universität Zürich",
+        "Yanik MF"
+      ],
+      "LOCATION": [
+        "Uganda",
+        "Zoo Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Nature Machine Intelligence",
+        "Unsere Methode",
+        "neurobiologischen"
+      ]
+    },
+    "entity_counts": {
+      "neurobiologischen": 2,
+      "De News": 1,
+      "ETH Zürich": 1,
+      "Universität Zürich": 1,
+      "Knopfdruck": 1,
+      "Markus Marks": 1,
+      "Mehmet Fatih Yanik": 1,
+      "Uganda": 1,
+      "Zoo Zürich": 1,
+      "Unsere Methode": 1,
+      "ETH-Professor Yanik": 1,
+      "Marks M": 1,
+      "Jin Q": 1,
+      "Sturman O": 1,
+      "Ziegler L": 1,
+      "Kollmorgen S": 1,
+      "Behrens W": 1,
+      "Mante V": 1,
+      "Bohacek J": 1,
+      "Yanik MF": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "automatisierte-analyse-des-tierverhaltens.md",
+      "title": "De News Events/2022/04/automatisierte Analyse des Tierverhaltens",
+      "language": "de",
+      "source_path": "de_news_events/2022/04/automatisierte-analyse-des-tierverhaltens.html"
+    },
+    "temporal": {
+      "publication_date": "2022-04",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bohacek J",
+        "De News",
+        "ETH-Professor Yanik",
+        "Jin Q",
+        "Knopfdruck",
+        "Kollmorgen S",
+        "Mante V",
+        "Marks M",
+        "Markus Marks",
+        "Mehmet Fatih Yanik",
+        "Sturman O",
+        "Ziegler L",
+        "complex environments"
+      ],
+      "people_with_roles": {
+        "ETH-Professor Yanik": [
+          "professor"
+        ],
+        "Mehmet Fatih Yanik": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Nature Machine Intelligence",
+        "Unsere Methode",
+        "neurobiologischen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Zum Einsatz",
+        "Die Forschenden",
+        "Beispiel Anzeichen",
+        "Der Algorithmus",
+        "Sturman O",
+        "ETH-Professor",
+        "Mehmet Fatih",
+        "Bohacek J",
+        "Mante V",
+        "Yanik MF",
+        "Bildanalyse-Algorithmus",
+        "Ziegler L",
+        "Behrens W",
+        "Die Methode",
+        "Verhalten Protokoll",
+        "Die Wissenschaftler",
+        "Machine-Learning",
+        "Nature Machine",
+        "Markus Marks",
+        "Unsere Methode",
+        "Marks M",
+        "Kollmorgen S",
+        "Jin Q",
+        "De News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Behrens W",
+        "ETH Zürich",
+        "Universität Zürich",
+        "Yanik MF"
+      ],
+      "locations": [
+        "Uganda",
+        "Zoo Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "neurobiologischen",
+        "De News",
+        "ETH Zürich",
+        "Universität Zürich",
+        "Knopfdruck",
+        "Markus Marks",
+        "Mehmet Fatih Yanik",
+        "Uganda",
+        "Zoo Zürich",
+        "Unsere Methode"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Für alle Tierarten geeignet",
+          "Für alle Tierarten geeignet",
+          "Tierhaltung verbessern"
+        ],
+        "content_length": 4262
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Mehmet Fatih Yanik",
+        "Sturman O",
+        "ETH-Professor Yanik",
+        "Bohacek J",
+        "Mante V",
+        "Yanik MF",
+        "Ziegler L",
+        "ETH Zürich",
+        "2022",
+        "Behrens W",
+        "EU",
+        "Markus Marks",
+        "Marks M",
+        "complex environments",
+        "Kollmorgen S",
+        "Jin Q",
+        "De News",
+        "Knopfdruck",
+        "Universität Zürich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "Nature Machine Intelligence",
+        "what",
+        "Unsere Methode",
+        "how",
+        "when",
+        "neurobiologischen"
+      ],
+      "graph_relations": [
+        "ETH-Professor Yanik_has_role_professor",
+        "Mehmet Fatih Yanik_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

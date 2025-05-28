@@ -1,0 +1,549 @@
+{
+  "filename": "asphalt-has-a-major-downside.md",
+  "original_filename": "asphalt-has-a-major-downside.html",
+  "source_path": "en_news_events/2017/07/asphalt-has-a-major-downside.html",
+  "date": "2017-07",
+  "title": "Asphalt Has A Major Downside",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "About Jan Carmeliet",
+      "text": "- \"Don't rely on your holidays to make you happy\", 18.07.17\n\nETH News: Professor Carmeliet, why are cities so much hotter than the countryside during the summer? Jan Carmeliet: Cities are made with a lot of concrete and asphalt. These materials are relatively dark and are particularly effective at absorbing solar radiation; they warm up during the day and store the heat. At night, buildings and streets then act as radiators, releasing the heat stored during the day and heating up the environment. Buildings in cities also block the wind, and cities contain less vegetation than the countryside. Wind by removal of hot air and plants that evaporate water have a cooling effect.\n\nTogether with scientists from Empa, you examined the latest heatwave at the end of June in Zurich. How much warmer was the city? The city-countryside difference – in science we speak of urban heat island intensity – amounted to 6 degrees at night on the 22 June in Zurich. We had high levels of solar radiation during the day before. The night was then cloudless, which meant that in the countryside, a lot of heat escaped and the air cooled down. In the city centre, however, the buildings and streets radiated a lot of heat, so the night-time cooling was much more limited. Six degrees is a high value – during the summer 2015 heatwave, the city-countryside difference only reached a maximum of 4.5 degrees."
+    },
+    {
+      "heading": "Summer series",
+      "text": "You used a computer simulation to model temperatures for Zurich at high resolution. Where was it hottest in Zurich during the most recent heatwave? It was hottest near the main station and along the railway tracks. The dark tracks and dark gravel absorbed a lot of heat. It was also very hot in Unterstrass and between the Letzigrund stadium and Altstetten.\n\nAnd where were the most pleasant temperatures? Near the lake – in Seefeld, Bürkliplatz and Enge – the night temperatures were lower. The air circulation brought cooler air from the lake into the city. Temperatures were also pleasant in Hirslanden and Schwamendingen, which benefited from winds coming down from the Adlisberg and Zürichberg hills.\n\nWhat do you hope to achieve with this computer modelling? We want to better understand heatwaves in cities at local scale. Since it is not practical to cover a whole city with a very dense network of temperature measurement stations, we are working with simulation models. We use the measured temperature and wind values from weather stations as boundary conditions and then calculate the temperature for Zurich and its surroundings to a resolution of 250 metres. For the simulation, we supplemented an existing weather model with information on buildings, the materials used and vegetation. We can also use such models to examine the influence of heat waves on the health and wellbeing of the city’s inhabitants – because they do have a big influence. Many elderly and sick people have trouble with extreme temperatures. Their metabolism adapts slowly, if at all, to high temperatures.\n\nBy the end of this century, climate scientists are predicting that we should expect a significant increase in extreme heat levels, particularly in southern Europe but also in Switzerland. Do we have to stop making our cities so dense? When we increase the density of our cities, we have to do it intelligently and allow air to circulate. City blocks with an enclosed courtyard without vegetation or shade result in local hot spots. Cities should include ventilation lanes. And it is important, for example, to build more openly around lakes and other water bodies. Closed rows of buildings along the shore prevent cooler air from flowing into the city.\n\nIn your research, you also deal with the question of how we can better protect our cities from more frequent heatwaves. What options are there? Urban infrastructure cannot be easily changed, but measures could be implemented at hotspots. Introducing shade and cooling with water are both efficient measures. Exposed roads could be shaded with textile structures. Rainwater – from summer thunderstorms, for example – could be stored locally and sprayed on hot days. As trees both provide shade and evaporate water, they are also very efficient. There is also significant potential in the development of new building materials.\n\nIn what way? Take road surfaces as an example: in Switzerland, many streets, sidewalks and open spaces are paved with asphalt, which makes them easy to maintain. However, asphalt also has a major downside, as its dark colour makes it a very absorptive material for heat. It would be better to have lighter and more porous surfaces that absorb water when it rains or that can be irrigated. I deal with the development of such surfaces in one of my research projects."
+    },
+    {
+      "heading": "About Jan Carmeliet",
+      "text": "Jan Carmeliet (56) is a Professor of Building Physics at ETH Zurich and head of the Urban Climate research group at Empa. His main research interests are the urban climate, urban energy systems and their modelling, and the search for solutions for the negative effects of climate change in cities through the use of novel building materials and integration of vegetation.\n\nFinally holiday time: ETH News will present a special summer series during the break, with a new focus periodically. Already published in this series:\n\n- \"Don't rely on your holidays to make you happy\" , 18.07.17\n\nHow important are cities as drivers of climate change? What consequences will climate change have for our cities? How can cities prepare for climate change? And how can we adapt our urban lifestyle to mitigate climate change? These questions will be discussed in this year’s ETH Klimarunde on 8 November 2017.\n\nFurther information (in German)"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "18.07.17",
+        "label": "CARDINAL",
+        "start": 51,
+        "end": 59
+      },
+      {
+        "text": "Carmeliet",
+        "label": "PERSON",
+        "start": 80,
+        "end": 89
+      },
+      {
+        "text": "the summer",
+        "label": "DATE",
+        "start": 149,
+        "end": 159
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 345,
+        "end": 352
+      },
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 376,
+        "end": 381
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 461,
+        "end": 468
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 711,
+        "end": 715
+      },
+      {
+        "text": "the end of June",
+        "label": "DATE",
+        "start": 753,
+        "end": 768
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 772,
+        "end": 778
+      },
+      {
+        "text": "6 degrees",
+        "label": "QUANTITY",
+        "start": 909,
+        "end": 918
+      },
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 922,
+        "end": 927
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 946,
+        "end": 952
+      },
+      {
+        "text": "the day before",
+        "label": "DATE",
+        "start": 999,
+        "end": 1013
+      },
+      {
+        "text": "Six degrees",
+        "label": "QUANTITY",
+        "start": 1257,
+        "end": 1268
+      },
+      {
+        "text": "the summer 2015",
+        "label": "DATE",
+        "start": 1294,
+        "end": 1309
+      },
+      {
+        "text": "4.5 degrees",
+        "label": "QUANTITY",
+        "start": 1378,
+        "end": 1389
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 57,
+        "end": 63
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 108,
+        "end": 114
+      },
+      {
+        "text": "Unterstrass",
+        "label": "ORG",
+        "start": 295,
+        "end": 306
+      },
+      {
+        "text": "Letzigrund",
+        "label": "LOC",
+        "start": 323,
+        "end": 333
+      },
+      {
+        "text": "Altstetten",
+        "label": "PERSON",
+        "start": 346,
+        "end": 356
+      },
+      {
+        "text": "Seefeld",
+        "label": "GPE",
+        "start": 424,
+        "end": 431
+      },
+      {
+        "text": "Bürkliplatz and",
+        "label": "ORG",
+        "start": 433,
+        "end": 448
+      },
+      {
+        "text": "Enge",
+        "label": "PERSON",
+        "start": 449,
+        "end": 453
+      },
+      {
+        "text": "Hirslanden",
+        "label": "GPE",
+        "start": 594,
+        "end": 604
+      },
+      {
+        "text": "Schwamendingen",
+        "label": "GPE",
+        "start": 609,
+        "end": 623
+      },
+      {
+        "text": "Adlisberg",
+        "label": "PERSON",
+        "start": 673,
+        "end": 682
+      },
+      {
+        "text": "Zürichberg",
+        "label": "GPE",
+        "start": 687,
+        "end": 697
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1110,
+        "end": 1116
+      },
+      {
+        "text": "250 metres",
+        "label": "QUANTITY",
+        "start": 1157,
+        "end": 1167
+      },
+      {
+        "text": "the end of this century",
+        "label": "DATE",
+        "start": 1595,
+        "end": 1618
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1748,
+        "end": 1754
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1767,
+        "end": 1778
+      },
+      {
+        "text": "Rainwater",
+        "label": "PERSON",
+        "start": 2608,
+        "end": 2617
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 2625,
+        "end": 2631
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2921,
+        "end": 2932
+      },
+      {
+        "text": "Jan Carmeliet",
+        "label": "PERSON",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Building Physics",
+        "label": "ORG",
+        "start": 37,
+        "end": 53
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 57,
+        "end": 67
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 116,
+        "end": 120
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 394,
+        "end": 402
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 426,
+        "end": 432
+      },
+      {
+        "text": "18.07.17",
+        "label": "CARDINAL",
+        "start": 575,
+        "end": 583
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 847,
+        "end": 856
+      },
+      {
+        "text": "8 November 2017",
+        "label": "DATE",
+        "start": 877,
+        "end": 892
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 918,
+        "end": 924
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Adlisberg",
+        "Altstetten",
+        "Carmeliet",
+        "Enge",
+        "Jan Carmeliet",
+        "Rainwater"
+      ],
+      "ORG": [
+        "Building Physics",
+        "Bürkliplatz and",
+        "ETH News",
+        "ETH Zurich",
+        "Empa",
+        "Unterstrass"
+      ],
+      "LOCATION": [
+        "Europe",
+        "Hirslanden",
+        "Letzigrund",
+        "Schwamendingen",
+        "Seefeld",
+        "Switzerland",
+        "Zurich",
+        "Zürichberg"
+      ],
+      "DATE": [
+        "8 November 2017",
+        "night",
+        "summer",
+        "the day",
+        "the day before",
+        "the end of June",
+        "the end of this century",
+        "the summer",
+        "the summer 2015",
+        "this year"
+      ],
+      "MISC": [
+        "18.07.17",
+        "250 metres",
+        "4.5 degrees",
+        "6 degrees",
+        "German",
+        "Six degrees"
+      ]
+    },
+    "entity_counts": {
+      "Zurich": 5,
+      "18.07.17": 2,
+      "the day": 2,
+      "night": 2,
+      "Empa": 2,
+      "Switzerland": 2,
+      "summer": 2,
+      "Carmeliet": 1,
+      "the summer": 1,
+      "the end of June": 1,
+      "6 degrees": 1,
+      "the day before": 1,
+      "Six degrees": 1,
+      "the summer 2015": 1,
+      "4.5 degrees": 1,
+      "Unterstrass": 1,
+      "Letzigrund": 1,
+      "Altstetten": 1,
+      "Seefeld": 1,
+      "Bürkliplatz and": 1
+    },
+    "total_entities": 46,
+    "unique_entities": 36
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "asphalt-has-a-major-downside.md",
+      "title": "En News Events/2017/07/asphalt Has A Major Downside",
+      "language": "en",
+      "source_path": "en_news_events/2017/07/asphalt-has-a-major-downside.html"
+    },
+    "temporal": {
+      "publication_date": "2017-07",
+      "mentioned_years": [
+        "2015",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Adlisberg",
+        "Altstetten",
+        "Carmeliet",
+        "Enge",
+        "Jan Carmeliet",
+        "Rainwater"
+      ],
+      "people_with_roles": {
+        "Carmeliet": [
+          "Professor",
+          "head",
+          "professor"
+        ],
+        "Jan Carmeliet": [
+          "head",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "18.07.17",
+        "250 metres",
+        "4.5 degrees",
+        "6 degrees",
+        "German",
+        "Six degrees"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Urban Climate",
+        "Major Downside",
+        "En News",
+        "Building Physics",
+        "Has A",
+        "Jan Carmeliet",
+        "Professor Carmeliet",
+        "ETH News",
+        "ETH Zurich",
+        "ETH Klimarunde"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Building Physics",
+        "Bürkliplatz and",
+        "ETH News",
+        "ETH Zurich",
+        "Empa",
+        "Unterstrass"
+      ],
+      "locations": [
+        "Europe",
+        "Hirslanden",
+        "Letzigrund",
+        "Schwamendingen",
+        "Seefeld",
+        "Switzerland",
+        "Zurich",
+        "Zürichberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Zurich",
+        "18.07.17",
+        "the day",
+        "night",
+        "Empa",
+        "Switzerland",
+        "summer",
+        "Carmeliet",
+        "the summer",
+        "the end of June"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "About Jan Carmeliet",
+          "Summer series",
+          "About Jan Carmeliet"
+        ],
+        "content_length": 5716
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Adlisberg",
+        "Enge",
+        "2015",
+        "Carmeliet",
+        "Building Physics",
+        "2017",
+        "Jan Carmeliet",
+        "EU",
+        "Altstetten",
+        "Rainwater",
+        "Unterstrass",
+        "ETH News",
+        "ETH Zurich",
+        "Bürkliplatz and",
+        "Empa"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "4.5 degrees",
+        "Six degrees",
+        "18.07.17",
+        "who",
+        "250 metres",
+        "6 degrees",
+        "where",
+        "what",
+        "how",
+        "German",
+        "medical_research",
+        "climate_change",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Carmeliet_has_role_Professor",
+        "Carmeliet_has_role_head",
+        "Carmeliet_has_role_professor",
+        "Jan Carmeliet_has_role_head",
+        "Jan Carmeliet_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

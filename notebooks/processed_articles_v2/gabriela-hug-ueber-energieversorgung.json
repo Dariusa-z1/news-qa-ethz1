@@ -1,0 +1,176 @@
+{
+  "filename": "gabriela-hug-ueber-energieversorgung.md",
+  "original_filename": "gabriela-hug-ueber-energieversorgung.html",
+  "source_path": "de_news_events/2022/02/gabriela-hug-ueber-energieversorgung.html",
+  "date": "2022-02",
+  "title": "Gabriela Hug Ueber Energieversorgung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Wie können erneuerbare Energiequellen Grundlaststrom bereitstellen? Gibt es ausreichend Energie, damit alle mit einem Elektroauto fahren können? Wie wahrscheinlich sind Stromausfälle? Gabriela Hug, Professorin am Power Systems Laboratory der ETH Zürich, beantwortet diese und weitere Fragen aus der Community.\n\nexterne Seite Video: Ask the Expert –Energieversorgung"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Hug Ueber Energieversorgung",
+        "label": "ORG",
+        "start": 32,
+        "end": 59
+      },
+      {
+        "text": "Gabriela Hug",
+        "label": "PER",
+        "start": 184,
+        "end": 196
+      },
+      {
+        "text": "Power Systems Laboratory",
+        "label": "ORG",
+        "start": 213,
+        "end": 237
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 242,
+        "end": 252
+      },
+      {
+        "text": "Ask the Expert",
+        "label": "MISC",
+        "start": 331,
+        "end": 345
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Gabriela Hug"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Hug Ueber Energieversorgung",
+        "Power Systems Laboratory"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "Ask the Expert"
+      ]
+    },
+    "entity_counts": {
+      "De News": 1,
+      "Hug Ueber Energieversorgung": 1,
+      "Gabriela Hug": 1,
+      "Power Systems Laboratory": 1,
+      "ETH Zürich": 1,
+      "Ask the Expert": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "gabriela-hug-ueber-energieversorgung.md",
+      "title": "De News Events/2022/02/gabriela Hug Ueber Energieversorgung",
+      "language": "de",
+      "source_path": "de_news_events/2022/02/gabriela-hug-ueber-energieversorgung.html"
+    },
+    "temporal": {
+      "publication_date": "2022-02",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Gabriela Hug"
+      ],
+      "people_with_roles": {
+        "Gabriela Hug": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Ask the Expert"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Energieversorgung Wie",
+        "Energiequellen Grundlaststrom",
+        "Power Systems",
+        "Seite Video",
+        "De News",
+        "Hug Ueber",
+        "Gabriela Hug"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Hug Ueber Energieversorgung",
+        "Power Systems Laboratory"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De News",
+        "Hug Ueber Energieversorgung",
+        "Gabriela Hug",
+        "Power Systems Laboratory",
+        "ETH Zürich",
+        "Ask the Expert"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 425
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Power Systems Laboratory",
+        "EU",
+        "ETH Zürich",
+        "Hug Ueber Energieversorgung",
+        "De News",
+        "2022",
+        "Gabriela Hug"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Ask the Expert"
+      ],
+      "graph_relations": [
+        "Gabriela Hug_has_role_professor"
+      ]
+    }
+  }
+}

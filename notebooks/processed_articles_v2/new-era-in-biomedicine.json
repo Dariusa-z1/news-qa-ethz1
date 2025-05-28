@@ -1,0 +1,370 @@
+{
+  "filename": "new-era-in-biomedicine.md",
+  "original_filename": "new-era-in-biomedicine.html",
+  "source_path": "en_news_events/2018/08/new-era-in-biomedicine.html",
+  "date": "2018-08",
+  "title": "New Era In Biomedicine",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Significant breakthrough",
+      "text": "Proteins play a central role in almost all biological processes. However, if you want to more accurately understand how these generally very complex molecules interact with other compounds, you have to know how they are constructed, what structure they have – and above all, what state they are in when they react with other molecules. But these key questions previously proved to be almost unanswerable, as these often very sensitive compounds, which continually change their form in cells, cannot be examined using a conventional electron microscope without causing changes in the structure that affect the validity of the measurements."
+    },
+    {
+      "heading": "Significant breakthrough",
+      "text": "The development of the cryo-electron microscope is therefore a huge breakthrough for biochemical and medical research. The new technology enables proteins to be examined in their actual form down to the atomic structure, thereby allowing their mechanism of action to be better understood. Jacques Dubochet from the University of Lausanne made a particularly important contribution to the development of this technology. He found a way cool the water in the cells to be investigated so rapidly that the water molecules immediately change into a glassy state. This makes it possible to study the frozen protein structures using an electron microscope. Together with two other colleagues, Dubochet was presented with the Nobel Prize for Chemistry for this achievement last year.\n\nWhen presenting the award, the Nobel committee wrote that cryo-electron microscopy has moved biochemistry into a new era. At ETH Zurich, this promising research field is now being further expanded: thanks to a generous donation from the August von Finck family, the University has been able to acquire a new cryo-electron microscope and upgrade the existing device. The researchers hope that the new instruments will help them to gain new insights in various areas. For example, cryo-electron microscopes can be combined with other methods to more closely examine how processes in healthy and sick cells differ from one another.\n\nAt the same time, three other foundations have also decided to support this pioneering area: the Nomis Foundation, together with the Monique Dornonville de la Cour Foundation, has enabled the creation of a new professorship in the Department of Biology for at least the next ten years. The project will also receive financial support from the Baugarten Foundation. In total, the four donors will provide a total of CHF 13 million to ensure that “ETH researchers can examine the world of biomolecules with a never-before-seen precision,” as ETH President Lino Guzzella said at the contract signing."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Biomedicine",
+        "label": "GPE",
+        "start": 34,
+        "end": 45
+      },
+      {
+        "text": "Jacques Dubochet",
+        "label": "PERSON",
+        "start": 289,
+        "end": 305
+      },
+      {
+        "text": "the University of Lausanne",
+        "label": "ORG",
+        "start": 311,
+        "end": 337
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 664,
+        "end": 667
+      },
+      {
+        "text": "Dubochet",
+        "label": "PERSON",
+        "start": 686,
+        "end": 694
+      },
+      {
+        "text": "the Nobel Prize for Chemistry",
+        "label": "WORK_OF_ART",
+        "start": 714,
+        "end": 743
+      },
+      {
+        "text": "last year",
+        "label": "DATE",
+        "start": 765,
+        "end": 774
+      },
+      {
+        "text": "Nobel",
+        "label": "WORK_OF_ART",
+        "start": 807,
+        "end": 812
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 901,
+        "end": 911
+      },
+      {
+        "text": "the August von Finck",
+        "label": "EVENT",
+        "start": 1009,
+        "end": 1029
+      },
+      {
+        "text": "University",
+        "label": "ORG",
+        "start": 1042,
+        "end": 1052
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1423,
+        "end": 1428
+      },
+      {
+        "text": "the Nomis Foundation",
+        "label": "ORG",
+        "start": 1498,
+        "end": 1518
+      },
+      {
+        "text": "the Monique Dornonville de la Cour Foundation",
+        "label": "ORG",
+        "start": 1534,
+        "end": 1579
+      },
+      {
+        "text": "the Department of Biology",
+        "label": "ORG",
+        "start": 1632,
+        "end": 1657
+      },
+      {
+        "text": "at least the next ten years",
+        "label": "DATE",
+        "start": 1662,
+        "end": 1689
+      },
+      {
+        "text": "the Baugarten Foundation",
+        "label": "ORG",
+        "start": 1744,
+        "end": 1768
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 1784,
+        "end": 1788
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 1820,
+        "end": 1823
+      },
+      {
+        "text": "13 million",
+        "label": "CARDINAL",
+        "start": 1824,
+        "end": 1834
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1851,
+        "end": 1854
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1945,
+        "end": 1948
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 1959,
+        "end": 1972
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dubochet",
+        "ETH Zurich",
+        "Jacques Dubochet",
+        "Lino Guzzella"
+      ],
+      "ORG": [
+        "CHF",
+        "ETH",
+        "University",
+        "the Baugarten Foundation",
+        "the Department of Biology",
+        "the Monique Dornonville de la Cour Foundation",
+        "the Nomis Foundation",
+        "the University of Lausanne"
+      ],
+      "LOCATION": [
+        "Biomedicine"
+      ],
+      "DATE": [
+        "at least the next ten years",
+        "last year"
+      ],
+      "MISC": [
+        "13 million",
+        "Nobel",
+        "four",
+        "the August von Finck",
+        "the Nobel Prize for Chemistry",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Biomedicine": 1,
+      "Jacques Dubochet": 1,
+      "the University of Lausanne": 1,
+      "two": 1,
+      "Dubochet": 1,
+      "the Nobel Prize for Chemistry": 1,
+      "last year": 1,
+      "Nobel": 1,
+      "ETH Zurich": 1,
+      "the August von Finck": 1,
+      "University": 1,
+      "three": 1,
+      "the Nomis Foundation": 1,
+      "the Monique Dornonville de la Cour Foundation": 1,
+      "the Department of Biology": 1,
+      "at least the next ten years": 1,
+      "the Baugarten Foundation": 1,
+      "four": 1,
+      "CHF": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-era-in-biomedicine.md",
+      "title": "En News Events/2018/08/new Era in Biomedicine",
+      "language": "en",
+      "source_path": "en_news_events/2018/08/new-era-in-biomedicine.html"
+    },
+    "temporal": {
+      "publication_date": "2018-08",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Dubochet",
+        "ETH Zurich",
+        "Jacques Dubochet",
+        "Lino Guzzella"
+      ],
+      "people_with_roles": {
+        "Lino Guzzella": [
+          "president",
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "13 million",
+        "Nobel",
+        "four",
+        "the August von Finck",
+        "the Nobel Prize for Chemistry",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "At ETH",
+        "Jacques Dubochet",
+        "Nomis Foundation",
+        "Nobel Prize",
+        "En News",
+        "ETH President",
+        "Baugarten Foundation",
+        "Biomedicine Proteins",
+        "Cour Foundation",
+        "Lino Guzzella",
+        "Monique Dornonville"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biology for at least the next ten years"
+      ],
+      "institutions": [
+        "CHF",
+        "ETH",
+        "University",
+        "the Baugarten Foundation",
+        "the Department of Biology",
+        "the Monique Dornonville de la Cour Foundation",
+        "the Nomis Foundation",
+        "the University of Lausanne"
+      ],
+      "locations": [
+        "Biomedicine"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Biomedicine",
+        "Jacques Dubochet",
+        "the University of Lausanne",
+        "two",
+        "Dubochet",
+        "the Nobel Prize for Chemistry",
+        "last year",
+        "Nobel",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Significant breakthrough",
+          "Significant breakthrough"
+        ],
+        "content_length": 2689
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Nomis Foundation",
+        "ETH",
+        "Jacques Dubochet",
+        "CHF",
+        "University",
+        "the Baugarten Foundation",
+        "2018",
+        "the University of Lausanne",
+        "Dubochet",
+        "Lino Guzzella",
+        "the Monique Dornonville de la Cour Foundation",
+        "ETH Zurich",
+        "the Department of Biology"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "the August von Finck",
+        "three",
+        "four",
+        "who",
+        "13 million",
+        "chemistry",
+        "the Nobel Prize for Chemistry",
+        "what",
+        "how",
+        "medical_research",
+        "Nobel",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Lino Guzzella_has_role_president",
+        "Lino Guzzella_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

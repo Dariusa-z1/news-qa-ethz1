@@ -1,0 +1,164 @@
+{
+  "filename": "trotz-abwesenheit-immer-erreichbar-mit-dem-telefonservice-der-campus-info.md",
+  "original_filename": "trotz-abwesenheit-immer-erreichbar-mit-dem-telefonservice-der-campus-info.html",
+  "source_path": "de_internal/2024/07/trotz-abwesenheit-immer-erreichbar-mit-dem-telefonservice-der-campus-info.html",
+  "date": "2024-07",
+  "title": "Trotz Abwesenheit Immer Erreichbar Mit Dem Telefonservice Der Campus Info",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Längere Abwesenheiten",
+      "text": "Aktivieren Sie dafür vor Ihrer Abwesenheit die Rufumleitung auf die Nummer 111 – entweder direkt am Telefonapparat oder online über das Phone Control Center .\n\nBei längeren Abwesenheiten agiert das Team der Campus Info auf Wunsch auch als Ihr persönliches Telefonsekretariat und vertritt Sie zuverlässig. Dafür benötigen unsere Mitarbeitenden lediglich einige wenige Informationen, die Sie mit diesem Antragsformular online eingeben können. Der Telefonservice für ETH-Angehörige ist kostenlos."
+    },
+    {
+      "heading": "Immer aktuell informiert",
+      "text": "Wir unterstützen dich mit spezifischen Dienstleistungen rund um die Arbeit an der ETH. Finde jetzt heraus, wie wir deinen Alltag vereinfachen können.\n\n→ Unsere Dienstleistungen"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2024/07",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Campus Info",
+        "label": "LOC",
+        "start": 82,
+        "end": 93
+      },
+      {
+        "text": "Phone Control Center",
+        "label": "LOC",
+        "start": 136,
+        "end": 156
+      },
+      {
+        "text": "Info",
+        "label": "LOC",
+        "start": 213,
+        "end": 217
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 463,
+        "end": 477
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 82,
+        "end": 85
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [
+        "Campus Info",
+        "De Internal/2024/07",
+        "Info",
+        "Phone Control Center"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2024/07": 1,
+      "Campus Info": 1,
+      "Phone Control Center": 1,
+      "Info": 1,
+      "ETH-Angehörige": 1,
+      "ETH": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "trotz-abwesenheit-immer-erreichbar-mit-dem-telefonservice-der-campus-info.md",
+      "title": "De Internal/2024/07/trotz Abwesenheit Immer Erreichbar mit dem Telefonservice der Campus Info",
+      "language": "de",
+      "source_path": "de_internal/2024/07/trotz-abwesenheit-immer-erreichbar-mit-dem-telefonservice-der-campus-info.html"
+    },
+    "temporal": {
+      "publication_date": "2024-07",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Angehörige"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Abwesenheit Immer",
+        "Unsere Dienstleistungen",
+        "De Internal",
+        "Aktivieren Sie",
+        "Ihrer Abwesenheit",
+        "Der Telefonservice",
+        "Phone Control",
+        "Campus Info"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [
+        "Campus Info",
+        "De Internal/2024/07",
+        "Info",
+        "Phone Control Center"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2024/07",
+        "Campus Info",
+        "Phone Control Center",
+        "Info",
+        "ETH-Angehörige",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Längere Abwesenheiten",
+          "Immer aktuell informiert"
+        ],
+        "content_length": 764
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "ETH"
+      ],
+      "semantic_concepts": [
+        "ETH-Angehörige"
+      ],
+      "graph_relations": []
+    }
+  }
+}

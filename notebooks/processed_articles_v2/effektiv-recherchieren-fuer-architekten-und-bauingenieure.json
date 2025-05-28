@@ -1,0 +1,116 @@
+{
+  "filename": "effektiv-recherchieren-fuer-architekten-und-bauingenieure.md",
+  "original_filename": "effektiv-recherchieren-fuer-architekten-und-bauingenieure.html",
+  "source_path": "de_internal/2014/04/effektiv-recherchieren-fuer-architekten-und-bauingenieure.html",
+  "date": "2014-04",
+  "title": "Effektiv Recherchieren Fuer Architekten Und Bauingenieure",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Sie lernen die Baubibliothek kennen und erhalten Einblick in fachspezifische Dienstleistungen, Ressourcen und Recherchemöglichkeiten.\n\nWeitere Informationen und Anmeldung"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/04",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Fuer",
+        "label": "PER",
+        "start": 43,
+        "end": 47
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fuer"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2014/04"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2014/04": 1,
+      "Fuer": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "effektiv-recherchieren-fuer-architekten-und-bauingenieure.md",
+      "title": "De Internal/2014/04/effektiv Recherchieren Fuer Architekten und Bauingenieure",
+      "language": "de",
+      "source_path": "de_internal/2014/04/effektiv-recherchieren-fuer-architekten-und-bauingenieure.html"
+    },
+    "temporal": {
+      "publication_date": "2014-04",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Fuer"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Weitere Informationen",
+        "De Internal",
+        "Bauingenieure Sie",
+        "Recherchieren Fuer"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2014/04"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2014/04",
+        "Fuer"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 248
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Fuer",
+        "ERC",
+        "2014",
+        "EU"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

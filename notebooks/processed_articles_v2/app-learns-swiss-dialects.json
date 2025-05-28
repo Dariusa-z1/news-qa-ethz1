@@ -1,0 +1,444 @@
+{
+  "filename": "app-learns-swiss-dialects.md",
+  "original_filename": "app-learns-swiss-dialects.html",
+  "source_path": "en_news_events/2014/08/app-learns-swiss-dialects.html",
+  "date": "2014-08",
+  "title": "App Learns Swiss Dialects",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Intelligent application",
+      "text": "\"Hoi shaz i chume grad!\" (\"Hi darling, I'll be right there!\"). Writing text messages in dialect is a phenomenon of our time. Until now, however, the assistance of a dictionary for faster typing was only available in High German. The Kännsch (Swiss German for D’you know?) app is about to remedy this situation. Kännsch has been developed over the course of the last five months by Laura Peer, an electrical engineer in the Distributed Computing Group (Disco), as part of her Master's thesis.\n\nDeveloping a keypad application or optimising a well-established keyboard not only requires skill in the areas of IT and programming, but also in-depth language-based research in advance. In the case of Kännsch, linguistic data from regional groups on Facebook were analysed to create a Swiss German dictionary containing around 1,000 words which appear in all dialects and are frequently used."
+    },
+    {
+      "heading": "Intelligent application",
+      "text": "At first sight, Kännsch is an extension of the popular open source Google keyboard, which is permanently installed on a number of Android devices and available free of charge on Google Play.\n\nWhen typing a message, the app suggests words in all desired languages, including Swiss German. What makes the app stand out, however, is its ability to memorise all new words which it was unfamiliar with and immediately make them available in the dictionary. Kännsch adapts to the user and their vocabulary as a matter of course. This feature makes the app even more helpful, as Swiss German is not a written language – and so everyone writes and expresses themselves in their own way."
+    },
+    {
+      "heading": "What the future might look like",
+      "text": "Einfach mit Swipe über die Tasten fahren und das Dialektwort erscheint. (Laura Peer / ETH Zürich)\n\nKännsch can be installed on any Android-compatible device in just a few simple steps and used almost immediately. Thanks to the swipe function and other features, entering text is surprisingly easy. Users can swipe their finger or stylus across the keyboard in order to move between letters without having to place the curser each time. Kännsch’s word identification system recognises the desired word, saving the user tiresome typing.\n\nThe app is not only user-friendly, it is also set to serve academic purposes. One day, it may be possible to evaluate regional differences in languages more closely and perhaps even perform dialect analyses. With this objective in mind, the app regularly transmits data for statistical evaluation to the server of the research team at ETH Zurich. Users are informed of this prior to definitively installing the app on their smartphone or tablet and must agree to the transmission of data on the characters and words they type and their location.\n\nPeer emphasises that the privacy of each individual is guaranteed at all times through the irreversible generation of an anonymous ID. \"Even for us researchers it is impossible to make inferences about individual users,\" explains the young academic. \"The constantly updated data allows us to adapt the application even more closely to the individual needs of the user. It would also be conceivable to make the data collected available for linguistic research.\"\n\nLaura Peer is not short of ideas when it comes to what the future might look like for Kännsch: \"It would be possible to program the app in such a way that it recognises in which language or dialect the user is writing. This would in turn allow for even more targeted word suggestions to be made. An expansion to the Apple’s iOS would also be conceivable and desirable, as this would open up a large additional market\". Peer is not yet quite so sure about her own professional future. She will complete her Master's thesis in September 2014 and remains content with her choice of studies, which represents a somewhat unusual path for a woman. \"I can imagine doing a PhD, possibly even abroad.\" With a twinkle in her eye, she adds: \"First, however, I want to go surfing – and I don't mean online.\""
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "High German",
+        "label": "NORP",
+        "start": 216,
+        "end": 227
+      },
+      {
+        "text": "Kännsch",
+        "label": "PERSON",
+        "start": 233,
+        "end": 240
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 242,
+        "end": 247
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 248,
+        "end": 254
+      },
+      {
+        "text": "Kännsch",
+        "label": "PERSON",
+        "start": 311,
+        "end": 318
+      },
+      {
+        "text": "the last five months",
+        "label": "DATE",
+        "start": 357,
+        "end": 377
+      },
+      {
+        "text": "Laura Peer",
+        "label": "PERSON",
+        "start": 381,
+        "end": 391
+      },
+      {
+        "text": "the Distributed Computing Group",
+        "label": "ORG",
+        "start": 419,
+        "end": 450
+      },
+      {
+        "text": "Disco",
+        "label": "ORG",
+        "start": 452,
+        "end": 457
+      },
+      {
+        "text": "Kännsch",
+        "label": "GPE",
+        "start": 695,
+        "end": 702
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 779,
+        "end": 784
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 785,
+        "end": 791
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 821,
+        "end": 826
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 3,
+        "end": 8
+      },
+      {
+        "text": "Kännsch",
+        "label": "PERSON",
+        "start": 16,
+        "end": 23
+      },
+      {
+        "text": "Android",
+        "label": "ORG",
+        "start": 130,
+        "end": 137
+      },
+      {
+        "text": "Google Play",
+        "label": "PRODUCT",
+        "start": 178,
+        "end": 189
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 273,
+        "end": 278
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 279,
+        "end": 285
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 571,
+        "end": 576
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 577,
+        "end": 583
+      },
+      {
+        "text": "Swipe",
+        "label": "PERSON",
+        "start": 12,
+        "end": 17
+      },
+      {
+        "text": "Tasten",
+        "label": "PERSON",
+        "start": 27,
+        "end": 33
+      },
+      {
+        "text": "das Dialektwort",
+        "label": "ORG",
+        "start": 45,
+        "end": 60
+      },
+      {
+        "text": "Laura Peer /",
+        "label": "ORG",
+        "start": 73,
+        "end": 85
+      },
+      {
+        "text": "Kännsch",
+        "label": "PERSON",
+        "start": 98,
+        "end": 105
+      },
+      {
+        "text": "Android",
+        "label": "ORG",
+        "start": 130,
+        "end": 137
+      },
+      {
+        "text": "Kännsch",
+        "label": "PERSON",
+        "start": 435,
+        "end": 442
+      },
+      {
+        "text": "One day",
+        "label": "DATE",
+        "start": 612,
+        "end": 619
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 869,
+        "end": 879
+      },
+      {
+        "text": "Laura Peer",
+        "label": "PERSON",
+        "start": 1541,
+        "end": 1551
+      },
+      {
+        "text": "Kännsch",
+        "label": "PERSON",
+        "start": 1627,
+        "end": 1634
+      },
+      {
+        "text": "Apple",
+        "label": "ORG",
+        "start": 1857,
+        "end": 1862
+      },
+      {
+        "text": "September 2014",
+        "label": "DATE",
+        "start": 2066,
+        "end": 2080
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 2206,
+        "end": 2209
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 2272,
+        "end": 2277
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Kännsch",
+        "Laura Peer",
+        "Swipe",
+        "Tasten"
+      ],
+      "ORG": [
+        "Android",
+        "Apple",
+        "Disco",
+        "ETH Zurich",
+        "Laura Peer /",
+        "das Dialektwort",
+        "the Distributed Computing Group"
+      ],
+      "LOCATION": [
+        "Kännsch"
+      ],
+      "DATE": [
+        "One day",
+        "September 2014",
+        "the last five months"
+      ],
+      "MISC": [
+        "1,000",
+        "First",
+        "German",
+        "Google Play",
+        "High German",
+        "PhD",
+        "Swiss",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "Kännsch": 7,
+      "Swiss": 4,
+      "German": 4,
+      "Laura Peer": 2,
+      "Android": 2,
+      "High German": 1,
+      "the last five months": 1,
+      "the Distributed Computing Group": 1,
+      "Disco": 1,
+      "1,000": 1,
+      "first": 1,
+      "Google Play": 1,
+      "Swipe": 1,
+      "Tasten": 1,
+      "das Dialektwort": 1,
+      "Laura Peer /": 1,
+      "One day": 1,
+      "ETH Zurich": 1,
+      "Apple": 1,
+      "September 2014": 1
+    },
+    "total_entities": 36,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "app-learns-swiss-dialects.md",
+      "title": "En News Events/2014/08/app Learns Swiss Dialects",
+      "language": "en",
+      "source_path": "en_news_events/2014/08/app-learns-swiss-dialects.html"
+    },
+    "temporal": {
+      "publication_date": "2014-08",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Kännsch",
+        "Laura Peer",
+        "Swipe",
+        "Tasten"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "1,000",
+        "First",
+        "German",
+        "Google Play",
+        "High German",
+        "Swiss",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "High German",
+        "En News",
+        "Swiss German",
+        "Laura Peer",
+        "ETH Zurich",
+        "Learns Swiss",
+        "Distributed Computing",
+        "Google Play"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Android",
+        "Apple",
+        "Disco",
+        "ETH Zurich",
+        "Laura Peer /",
+        "das Dialektwort",
+        "the Distributed Computing Group"
+      ],
+      "locations": [
+        "Kännsch"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Kännsch",
+        "Swiss",
+        "German",
+        "Laura Peer",
+        "Android",
+        "High German",
+        "the last five months",
+        "the Distributed Computing Group",
+        "Disco",
+        "1,000"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Intelligent application",
+          "Intelligent application",
+          "What the future might look like"
+        ],
+        "content_length": 3956
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "das Dialektwort",
+        "Disco",
+        "Laura Peer",
+        "Android",
+        "the Distributed Computing Group",
+        "Tasten",
+        "Apple",
+        "ETH Zurich",
+        "Kännsch",
+        "Swipe",
+        "2014",
+        "Laura Peer /"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Google Play",
+        "first",
+        "High German",
+        "who",
+        "Swiss",
+        "where",
+        "what",
+        "how",
+        "German",
+        "computer_science",
+        "First",
+        "why",
+        "when",
+        "engineering",
+        "1,000"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

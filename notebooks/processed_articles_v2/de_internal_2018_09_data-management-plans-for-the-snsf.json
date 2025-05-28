@@ -1,0 +1,157 @@
+{
+  "filename": "de_internal_2018_09_data-management-plans-for-the-snsf.md",
+  "original_filename": "de_internal_2018_09_data-management-plans-for-the-snsf.html",
+  "source_path": "de_internal/2018/09/data-management-plans-for-the-snsf.html",
+  "date": "2018-09",
+  "title": "Data Management Plans For The Snsf",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Seit einem Jahr müssen die Gesuche einen Datenmanagementplan (DMP) enthalten. Der DMP wird online in ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/09/data Management",
+        "label": "LOC",
+        "start": 0,
+        "end": 35
+      },
+      {
+        "text": "Plans For The Snsf",
+        "label": "MISC",
+        "start": 36,
+        "end": 54
+      },
+      {
+        "text": "Gesuche",
+        "label": "MISC",
+        "start": 27,
+        "end": 34
+      },
+      {
+        "text": "Datenmanagementplan",
+        "label": "MISC",
+        "start": 41,
+        "end": 60
+      },
+      {
+        "text": "DMP",
+        "label": "ORG",
+        "start": 62,
+        "end": 65
+      },
+      {
+        "text": "DMP",
+        "label": "ORG",
+        "start": 82,
+        "end": 85
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "DMP"
+      ],
+      "LOCATION": [
+        "De Internal/2018/09/data Management"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Datenmanagementplan",
+        "Gesuche",
+        "Plans For The Snsf"
+      ]
+    },
+    "entity_counts": {
+      "DMP": 2,
+      "De Internal/2018/09/data Management": 1,
+      "Plans For The Snsf": 1,
+      "Gesuche": 1,
+      "Datenmanagementplan": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2018_09_data-management-plans-for-the-snsf.md",
+      "title": "De Internal/2018/09/data Management Plans For The Snsf",
+      "language": "de",
+      "source_path": "de_internal/2018/09/data-management-plans-for-the-snsf.html"
+    },
+    "temporal": {
+      "publication_date": "2018-09",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Datenmanagementplan",
+        "Gesuche",
+        "Plans For The Snsf"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "De Internal",
+        "Management Plans",
+        "Der DMP",
+        "For The",
+        "Snsf Seit"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DMP"
+      ],
+      "locations": [
+        "De Internal/2018/09/data Management"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "DMP",
+        "De Internal/2018/09/data Management",
+        "Plans For The Snsf",
+        "Gesuche",
+        "Datenmanagementplan"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 157
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "DMP"
+      ],
+      "semantic_concepts": [
+        "when",
+        "Datenmanagementplan",
+        "Plans For The Snsf",
+        "Gesuche"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "filename": "image-catalogue-of-eth-zurichs-earth-science-collections-now-online.md",
+  "original_filename": "image-catalogue-of-eth-zurichs-earth-science-collections-now-online.html",
+  "source_path": "en_internal/2015/07/image-catalogue-of-eth-zurichs-earth-science-collections-now-online.html",
+  "date": "2015-07",
+  "title": "Image Catalogue Of Eth Zurichs Earth Science Collections Now Online",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The materials stem from the Albert Heim Collection, which was gathered from all over the world between the 1880s and the 1910s.\n\nFurther information is available at ETH E-Pics Earth Science Collections"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Catalogue Of",
+        "label": "ORG",
+        "start": 26,
+        "end": 38
+      },
+      {
+        "text": "the Albert Heim Collection",
+        "label": "ORG",
+        "start": 24,
+        "end": 50
+      },
+      {
+        "text": "between the 1880s",
+        "label": "DATE",
+        "start": 95,
+        "end": 112
+      },
+      {
+        "text": "the 1910s",
+        "label": "DATE",
+        "start": 117,
+        "end": 126
+      },
+      {
+        "text": "ETH E-Pics Earth Science Collections",
+        "label": "ORG",
+        "start": 164,
+        "end": 200
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Catalogue Of",
+        "ETH E-Pics Earth Science Collections",
+        "the Albert Heim Collection"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "between the 1880s",
+        "the 1910s"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Catalogue Of": 1,
+      "the Albert Heim Collection": 1,
+      "between the 1880s": 1,
+      "the 1910s": 1,
+      "ETH E-Pics Earth Science Collections": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "image-catalogue-of-eth-zurichs-earth-science-collections-now-online.md",
+      "title": "En Internal/2015/07/image Catalogue Of Eth Zurichs Earth Science Collections Now Online",
+      "language": "en",
+      "source_path": "en_internal/2015/07/image-catalogue-of-eth-zurichs-earth-science-collections-now-online.html"
+    },
+    "temporal": {
+      "publication_date": "2015-07",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Albert Heim",
+        "Pics Earth",
+        "Eth Zurichs",
+        "Science Collections",
+        "Online The",
+        "En Internal",
+        "Collections Now",
+        "Earth Science",
+        "ETH E",
+        "Catalogue Of"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Catalogue Of",
+        "ETH E-Pics Earth Science Collections",
+        "the Albert Heim Collection"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Catalogue Of",
+        "the Albert Heim Collection",
+        "between the 1880s",
+        "the 1910s",
+        "ETH E-Pics Earth Science Collections"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 289
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "ETH E-Pics Earth Science Collections",
+        "Catalogue Of",
+        "the Albert Heim Collection"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

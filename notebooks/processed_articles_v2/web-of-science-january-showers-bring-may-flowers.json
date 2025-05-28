@@ -1,0 +1,109 @@
+{
+  "filename": "web-of-science-january-showers-bring-may-flowers.md",
+  "original_filename": "web-of-science-january-showers-bring-may-flowers.html",
+  "source_path": "en_internal/2014/01/web-of-science-january-showers-bring-may-flowers.html",
+  "date": "2014-01",
+  "title": "Web Of Science January Showers Bring May Flowers",
+  "language": "unknown",
+  "paragraphs": [],
+  "ner": {
+    "entities": [
+      {
+        "text": "En Internal/2014/01/web Of Science January Showers",
+        "label": "MISC",
+        "start": 0,
+        "end": 50
+      },
+      {
+        "text": "Bring May Flowers",
+        "label": "PER",
+        "start": 51,
+        "end": 68
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bring May Flowers"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "En Internal/2014/01/web Of Science January Showers"
+      ]
+    },
+    "entity_counts": {
+      "En Internal/2014/01/web Of Science January Showers": 1,
+      "Bring May Flowers": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "web-of-science-january-showers-bring-may-flowers.md",
+      "title": "En Internal/2014/01/web Of Science January Showers Bring May Flowers",
+      "language": "unknown",
+      "source_path": "en_internal/2014/01/web-of-science-january-showers-bring-may-flowers.html"
+    },
+    "temporal": {
+      "publication_date": "2014-01",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bring May Flowers"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "En Internal/2014/01/web Of Science January Showers"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Bring May",
+        "January Showers",
+        "Of Science",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "how"
+      ],
+      "key_concepts": [
+        "En Internal/2014/01/web Of Science January Showers",
+        "Bring May Flowers"
+      ],
+      "document_structure": {
+        "total_sections": 0,
+        "section_titles": [],
+        "content_length": 69
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2014",
+        "Bring May Flowers"
+      ],
+      "semantic_concepts": [
+        "En Internal/2014/01/web Of Science January Showers",
+        "how"
+      ],
+      "graph_relations": []
+    }
+  }
+}

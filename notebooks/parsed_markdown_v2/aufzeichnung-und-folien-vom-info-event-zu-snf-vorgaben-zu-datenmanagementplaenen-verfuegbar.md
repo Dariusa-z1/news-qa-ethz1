@@ -1,0 +1,8 @@
+# aufzeichnung-und-folien-vom-info-event-zu-snf-vorgaben-zu-datenmanagementplaenen-verfuegbar.html
+
+**Source:** de_internal/2018/03/aufzeichnung-und-folien-vom-info-event-zu-snf-vorgaben-zu-datenmanagementplaenen-verfuegbar.html
+
+## Main article
+
+Die Videoaufzeichnung und Präsentationsfolien (pdf, 1.1 MB) vom Event sind nun verfügbar (nur auf Englisch).
+

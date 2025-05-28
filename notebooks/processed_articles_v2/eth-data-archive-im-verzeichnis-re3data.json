@@ -1,0 +1,184 @@
+{
+  "filename": "eth-data-archive-im-verzeichnis-re3data.md",
+  "original_filename": "eth-data-archive-im-verzeichnis-re3data.html",
+  "source_path": "de_internal/2015/07/eth-data-archive-im-verzeichnis-re3data.html",
+  "date": "2015-07",
+  "title": "Eth Data Archive Im Verzeichnis Re3Data",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Datenbank enthält Angaben zu mehr als 1 200 Repositorien und Datenarchiven für Forschungsdaten. Neben fachspezifischen Diensten sind auch institutionelle Angebote wie das ETH Data Archive enthalten, die Forschenden die verschiedenen Optionen zur Archivierung von Forschungsdaten aufzeigen.\n\nIm ETH Data Archive der ETH-Bibliothek können Angehörige der ETH Zürich ihre Forschungsdaten langfristig archivieren und bei Bedarf veröffentlichen.\n\nexterne Seite Registry of Research Data Repositories ETH Data Archive der ETH-Bibliothek"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/07",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Data Archive",
+        "label": "MISC",
+        "start": 24,
+        "end": 36
+      },
+      {
+        "text": "ETH Data Archive",
+        "label": "MISC",
+        "start": 175,
+        "end": 191
+      },
+      {
+        "text": "ETH Data Archive",
+        "label": "MISC",
+        "start": 297,
+        "end": 313
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 318,
+        "end": 332
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 355,
+        "end": 365
+      },
+      {
+        "text": "Registry of Research Data",
+        "label": "ORG",
+        "start": 457,
+        "end": 482
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 517,
+        "end": 531
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "Registry of Research Data"
+      ],
+      "LOCATION": [
+        "De Internal/2015/07"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Data Archive",
+        "ETH Data Archive",
+        "ETH-Bibliothek"
+      ]
+    },
+    "entity_counts": {
+      "ETH Data Archive": 2,
+      "ETH-Bibliothek": 2,
+      "De Internal/2015/07": 1,
+      "Data Archive": 1,
+      "ETH Zürich": 1,
+      "Registry of Research Data": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-data-archive-im-verzeichnis-re3data.md",
+      "title": "De Internal/2015/07/eth Data Archive Im Verzeichnis Re3data",
+      "language": "de",
+      "source_path": "de_internal/2015/07/eth-data-archive-im-verzeichnis-re3data.html"
+    },
+    "temporal": {
+      "publication_date": "2015-07",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Data Archive",
+        "ETH Data Archive",
+        "ETH-Bibliothek"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Seite Registry",
+        "Die Datenbank",
+        "ETH-Bibliothek",
+        "Repositories ETH",
+        "Research Data",
+        "De Internal",
+        "Data Archive",
+        "ETH Data",
+        "Im Verzeichnis",
+        "Im ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "Registry of Research Data"
+      ],
+      "locations": [
+        "De Internal/2015/07"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Data Archive",
+        "ETH-Bibliothek",
+        "De Internal/2015/07",
+        "Data Archive",
+        "ETH Zürich",
+        "Registry of Research Data"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 593
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "2015",
+        "Registry of Research Data"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "ETH Data Archive",
+        "Data Archive",
+        "what",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

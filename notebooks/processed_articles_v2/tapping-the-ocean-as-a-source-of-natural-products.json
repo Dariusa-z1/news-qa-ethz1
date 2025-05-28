@@ -1,0 +1,508 @@
+{
+  "filename": "tapping-the-ocean-as-a-source-of-natural-products.md",
+  "original_filename": "tapping-the-ocean-as-a-source-of-natural-products.html",
+  "source_path": "en_news_events/2022/06/tapping-the-ocean-as-a-source-of-natural-products.html",
+  "date": "2022-06",
+  "title": "Tapping The Ocean As A Source Of Natural Products",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "New species and new molecules discovered",
+      "text": "The oceans are teeming with countless forms of life, from the world’s largest creature – the blue whale – to miniscule microorganisms. In addition to their vast numbers, these microorganisms are also crucial for ensuring that the entire eco- and climate system work properly. For instance, there are photosynthetically active varieties such as cyanobacteria that produce around 50 percent of the oxygen in the atmosphere. Moreover, by removing carbon dioxide from the atmosphere, microorganisms help counter global warming.\n\nDespite this significant role, research into the diversity of microorganisms found in the ocean has thus far been only rudimentary. So, a group of researchers led by Shinichi Sunagawa, Professor of Microbiome Research, is working closely with Jörn Piel’s group to investigate this diversity. Both groups are at the Institute of Microbiology at ETH Zurich.\n\nTo detect new natural products made by bacteria, Sunagawa and his team examined publicly available DNA data from 1,000 water samples collected at different depths from every ocean region in the world. The data came from such sources as ocean expeditions and observation platforms positioned out at sea.\n\nThanks to modern technologies like environmental DNA (eDNA) analysis, it has become easier to search for new species and discover which known organisms can be found where. But what is hardly known at all is what special effects the marine microorganisms offer – in other words, what chemical compounds they make that are important for interactions between organisms. In the best-case scenario, such compounds would benefit humans as well. Underpinning the research is the assumption that the ocean microbiome harbours great potential for natural products that could prove beneficial, for instance for their antibiotic properties."
+    },
+    {
+      "heading": "Validating experiments led to a surprise",
+      "text": "The extracted eDNA present in the samples was sequenced by the original researchers of the various expeditions. By reconstructing entire genomes on the computer, the scientists succeeded in decrypting the encoded information – the blueprints for proteins. Finally, they consolidated this new data together with the existing 8,500 genome data sets for marine microorganisms in a single database.\n\nThis gave them 35,000 genomes to draw on when searching for new microbial species and, in particular, for promising biosynthetic gene clusters (BGCs). A BGC is a group of genes that provide the synthetic pathway for a natural product."
+    },
+    {
+      "heading": "New species and new molecules discovered",
+      "text": "In this genome data, the researchers detected not only many potentially useful BGCs – some 40,000 in all – but also previously undiscovered species of bacteria belonging to the phylum Eremiobacterota . This group of bacteria had been known to exist only in terrestrial environments and didn’t exhibit any special biosynthetic diversity.\n\nSunagawa and his team named a new family of these bacteria as Eudoremicrobiaceae , and also were able to demonstrate that these bacteria are common and widespread: one species belonging to this family, Eudoremicrobium malaspinii , accounts for up to 6 percent of all bacteria present in certain areas of the ocean.\n\n“The relatives in the ocean possess what for bacteria is a giant genome. Fully decrypting it was technically challenging because the organisms had not been cultivated before,” Sunagawa says. Moreover, the new bacteria turned out to belong to the group of microorganisms that boasts the highest BGC diversity of all the samples examined. “As things stand, they are the most biosynthetically diverse family in the oceanic water column,” he says.\n\nThe researchers looked at two Eudoremicrobiaceae BGCs in detail. One was a gene cluster containing the genetic code for enzymes that, according to Sunagawa, have never been found in this constellation in a bacterial BGC before. The other examined example was a bioactive natural product that inhibits a proteolytic enzyme.\n\nIn collaboration with the group led by Jörn Piel, the researchers used experiments to validate the structure and function of both natural products. Since E. malaspinii could not be cultivated, Piel’s team had to graft genes into a model bacterium so they would act as blueprints for the natural products. This bacterium then produced the corresponding substances. Lastly, the researchers isolated the molecules from the cells, determined the structure and validated the biological activity.\n\nThis was necessary because in one case, the enzymatic activity predicted by computer programs did not tally with the results of the experiments. “Computer predictions for what chemical reactions an enzyme will trigger have their limitations,” Sunagawa says. “This is why such predictions have to be validated in the lab if there’s any doubt.”\n\nDoing so is an expensive and time-consuming endeavour that’s simply not viable for a database of 40,000 potential natural products. “However, our database has plenty to offer, and it’s accessible to all researchers who wish to use it,” Sunagawa says.\n\nBeyond the continued collaboration with Piel’s group to discover new natural products, Sunagawa wants to investigate unresolved questions in the evolution and ecology of oceanic microorganisms. These include how microorganisms are dispersed in the ocean given that they can spread over great distances only passively. He also wants to discover what ecological or evolutionary benefits certain genes create for microbes. Sunagawa suspects the BGCs may play a major role.\n\nPaoli P, Ruscheweyh H-J, Forneris CC, et al. Biosynthetic potential of the global ocean microbiome. Nature, 2022. DOI: 10.1038/s41586-022-04862-3"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "cyanobacteria",
+        "label": "GPE",
+        "start": 344,
+        "end": 357
+      },
+      {
+        "text": "around 50 percent",
+        "label": "PERCENT",
+        "start": 371,
+        "end": 388
+      },
+      {
+        "text": "Shinichi Sunagawa",
+        "label": "PERSON",
+        "start": 690,
+        "end": 707
+      },
+      {
+        "text": "Microbiome Research",
+        "label": "ORG",
+        "start": 722,
+        "end": 741
+      },
+      {
+        "text": "Jörn Piel’s",
+        "label": "PERSON",
+        "start": 767,
+        "end": 778
+      },
+      {
+        "text": "the Institute of Microbiology",
+        "label": "ORG",
+        "start": 835,
+        "end": 864
+      },
+      {
+        "text": "Sunagawa",
+        "label": "PRODUCT",
+        "start": 929,
+        "end": 937
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 993,
+        "end": 998
+      },
+      {
+        "text": "8,500",
+        "label": "CARDINAL",
+        "start": 324,
+        "end": 329
+      },
+      {
+        "text": "35,000",
+        "label": "CARDINAL",
+        "start": 410,
+        "end": 416
+      },
+      {
+        "text": "BGCs",
+        "label": "ORG",
+        "start": 539,
+        "end": 543
+      },
+      {
+        "text": "BGC",
+        "label": "ORG",
+        "start": 548,
+        "end": 551
+      },
+      {
+        "text": "BGCs",
+        "label": "ORG",
+        "start": 79,
+        "end": 83
+      },
+      {
+        "text": "some 40,000",
+        "label": "CARDINAL",
+        "start": 86,
+        "end": 97
+      },
+      {
+        "text": "Eremiobacterota",
+        "label": "GPE",
+        "start": 184,
+        "end": 199
+      },
+      {
+        "text": "Sunagawa",
+        "label": "PRODUCT",
+        "start": 337,
+        "end": 345
+      },
+      {
+        "text": "Eudoremicrobiaceae",
+        "label": "ORG",
+        "start": 399,
+        "end": 417
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 501,
+        "end": 504
+      },
+      {
+        "text": "up to 6 percent",
+        "label": "PERCENT",
+        "start": 581,
+        "end": 596
+      },
+      {
+        "text": "Sunagawa",
+        "label": "PRODUCT",
+        "start": 828,
+        "end": 836
+      },
+      {
+        "text": "BGC",
+        "label": "ORG",
+        "start": 946,
+        "end": 949
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1122,
+        "end": 1125
+      },
+      {
+        "text": "Eudoremicrobiaceae",
+        "label": "PRODUCT",
+        "start": 1126,
+        "end": 1144
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1161,
+        "end": 1164
+      },
+      {
+        "text": "Sunagawa",
+        "label": "PRODUCT",
+        "start": 1243,
+        "end": 1251
+      },
+      {
+        "text": "BGC",
+        "label": "ORG",
+        "start": 1312,
+        "end": 1315
+      },
+      {
+        "text": "Jörn Piel",
+        "label": "PERSON",
+        "start": 1458,
+        "end": 1467
+      },
+      {
+        "text": "Piel’s",
+        "label": "PERSON",
+        "start": 1612,
+        "end": 1618
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1940,
+        "end": 1943
+      },
+      {
+        "text": "Sunagawa",
+        "label": "PRODUCT",
+        "start": 2153,
+        "end": 2161
+      },
+      {
+        "text": "40,000",
+        "label": "CARDINAL",
+        "start": 2350,
+        "end": 2356
+      },
+      {
+        "text": "Sunagawa",
+        "label": "PRODUCT",
+        "start": 2489,
+        "end": 2497
+      },
+      {
+        "text": "Piel’s",
+        "label": "ORG",
+        "start": 2544,
+        "end": 2550
+      },
+      {
+        "text": "Sunagawa",
+        "label": "PRODUCT",
+        "start": 2591,
+        "end": 2599
+      },
+      {
+        "text": "Sunagawa",
+        "label": "PRODUCT",
+        "start": 2924,
+        "end": 2932
+      },
+      {
+        "text": "BGCs",
+        "label": "ORG",
+        "start": 2946,
+        "end": 2950
+      },
+      {
+        "text": "Forneris CC",
+        "label": "ORG",
+        "start": 2999,
+        "end": 3010
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 3093,
+        "end": 3100
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Jörn Piel",
+        "Jörn Piel’s",
+        "Piel’s",
+        "Shinichi Sunagawa"
+      ],
+      "ORG": [
+        "BGC",
+        "BGCs",
+        "Eudoremicrobiaceae",
+        "Forneris CC",
+        "Microbiome Research",
+        "Piel’s",
+        "the Institute of Microbiology"
+      ],
+      "LOCATION": [
+        "Eremiobacterota",
+        "cyanobacteria"
+      ],
+      "DATE": [],
+      "MISC": [
+        "1,000",
+        "10.1038",
+        "35,000",
+        "40,000",
+        "8,500",
+        "Eudoremicrobiaceae",
+        "One",
+        "Sunagawa",
+        "around 50 percent",
+        "one",
+        "some 40,000",
+        "two",
+        "up to 6 percent"
+      ]
+    },
+    "entity_counts": {
+      "Sunagawa": 8,
+      "BGCs": 3,
+      "BGC": 3,
+      "Eudoremicrobiaceae": 2,
+      "one": 2,
+      "Piel’s": 2,
+      "cyanobacteria": 1,
+      "around 50 percent": 1,
+      "Shinichi Sunagawa": 1,
+      "Microbiome Research": 1,
+      "Jörn Piel’s": 1,
+      "the Institute of Microbiology": 1,
+      "1,000": 1,
+      "8,500": 1,
+      "35,000": 1,
+      "some 40,000": 1,
+      "Eremiobacterota": 1,
+      "up to 6 percent": 1,
+      "two": 1,
+      "One": 1
+    },
+    "total_entities": 38,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "tapping-the-ocean-as-a-source-of-natural-products.md",
+      "title": "En News Events/2022/06/tapping The Ocean As A Source Of Natural Products",
+      "language": "en",
+      "source_path": "en_news_events/2022/06/tapping-the-ocean-as-a-source-of-natural-products.html"
+    },
+    "temporal": {
+      "publication_date": "2022-06",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Jörn Piel",
+        "Jörn Piel’s",
+        "Piel’s",
+        "Shinichi Sunagawa"
+      ],
+      "people_with_roles": {
+        "Jörn Piel": [
+          "researcher",
+          "professor"
+        ],
+        "Jörn Piel’s": [
+          "researcher",
+          "professor"
+        ],
+        "Piel’s": [
+          "researcher",
+          "professor"
+        ],
+        "Shinichi Sunagawa": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "1,000",
+        "10.1038",
+        "35,000",
+        "40,000",
+        "8,500",
+        "Eudoremicrobiaceae",
+        "Sunagawa",
+        "around 50 percent",
+        "some 40,000",
+        "up to 6 percent"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Natural Products",
+        "En News",
+        "The Ocean",
+        "Eudoremicrobiaceae BGCs",
+        "Paoli P",
+        "Since E",
+        "Ruscheweyh H",
+        "Forneris CC",
+        "Shinichi Sunagawa",
+        "Microbiome Research",
+        "ETH Zurich",
+        "As A",
+        "Source Of",
+        "A BGC"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BGC",
+        "BGCs",
+        "Eudoremicrobiaceae",
+        "Forneris CC",
+        "Microbiome Research",
+        "Piel’s",
+        "the Institute of Microbiology"
+      ],
+      "locations": [
+        "Eremiobacterota",
+        "cyanobacteria"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Sunagawa",
+        "BGCs",
+        "BGC",
+        "Eudoremicrobiaceae",
+        "one",
+        "Piel’s",
+        "cyanobacteria",
+        "around 50 percent",
+        "Shinichi Sunagawa",
+        "Microbiome Research"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "New species and new molecules discovered",
+          "Validating experiments led to a surprise",
+          "New species and new molecules discovered"
+        ],
+        "content_length": 5647
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "BGC",
+        "EU",
+        "2022",
+        "Piel’s",
+        "Eudoremicrobiaceae",
+        "Shinichi Sunagawa",
+        "BGCs",
+        "Forneris CC",
+        "Jörn Piel",
+        "Microbiome Research",
+        "Jörn Piel’s",
+        "the Institute of Microbiology",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "chemistry",
+        "around 50 percent",
+        "when",
+        "1,000",
+        "10.1038",
+        "biology",
+        "8,500",
+        "mathematics",
+        "who",
+        "up to 6 percent",
+        "35,000",
+        "what",
+        "how",
+        "climate_change",
+        "some 40,000",
+        "40,000",
+        "Sunagawa",
+        "Eudoremicrobiaceae",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Jörn Piel_has_role_researcher",
+        "Jörn Piel_has_role_professor",
+        "Jörn Piel’s_has_role_researcher",
+        "Jörn Piel’s_has_role_professor",
+        "Piel’s_has_role_researcher",
+        "Piel’s_has_role_professor",
+        "Shinichi Sunagawa_has_role_researcher",
+        "Shinichi Sunagawa_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

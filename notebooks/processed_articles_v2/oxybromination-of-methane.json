@@ -1,0 +1,436 @@
+{
+  "filename": "oxybromination-of-methane.md",
+  "original_filename": "oxybromination-of-methane.html",
+  "source_path": "en_news_events/2016/05/oxybromination-of-methane.html",
+  "date": "2016-05",
+  "title": "Oxybromination Of Methane",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Complete bromine recycling",
+      "text": "The use of natural gas as a raw material for chemicals production is a goal pursued intensively in chemical research. Scientists working under Javier Pérez-Ramírez, Professor of Catalysis Engineering, have now succeeded in optimising a process which enables natural gas constituents to be upgraded into higher-value chemicals. “We take a molecule of the natural gas constituent methane (CH 4 ) and replace one of its hydrogen atoms with a bromine atom to form methyl bromide (CH 3 Br),” explains Pérez-Ramírez. “The latter can be used as a base material in the chemical industry for the production of fuels and a range of chemicals, such as polymers and pharmaceuticals.”"
+    },
+    {
+      "heading": "Complete bromine recycling",
+      "text": "When methyl bromide is transformed into fuels and chemicals, bromine is released in the form of hydrogen bromide (HBr). “The beauty of our reaction is that it enables the bromine from hydrogen bromide to be embedded back into methyl bromide, using oxygen. In this way, the bromine cycle is closed, and no bromine is lost”, says Pérez-Ramírez."
+    },
+    {
+      "heading": "Long catalyst lifetime",
+      "text": "The oxybromination of methane, as the reaction is called, can already be carried out today using catalysts (reaction accelerators). However, they typically generate large quantities of unwanted products. The ETH catalysis specialists therefore looked for a way to improve the reaction’s selectivity. In a multi-step selection process, they investigated a large number of different catalyst materials. Vanadium phosphate proved to be the most suitable."
+    },
+    {
+      "heading": "More efficient than via syngas",
+      "text": "Vanadium phosphate is a relatively mild oxidising catalyst, and this is exactly what chemists are seeking in the oxybromination of methane. On the one hand, the catalyst is sufficiently strong to allow hydrogen bromide to react with oxygen at the catalyst’s surface. On the other hand, the catalytic action of vanadium phosphate is too weak to oxidise the unwanted methane and the brominated reaction products.\n\n“Our method makes it possible to brominate methane in a single step at atmospheric pressure and at temperatures below 500 degrees Celsius. This makes it an attractive route for industry,” says Vladimir Paunović, a doctoral student in Pérez-Ramírez’s group. Currently, methane is industrially converted into higher grade chemicals using syngas as an intermediate. However, this method is extremely energy-intensive as it requires high pressures (up to 30 bar) and high temperatures (up to 1,000 degrees).\n\nThe new catalyst is exceptionally stable. “Bromine is a halogen. Halogens react very readily with methane, which is desirable in this case, but they also attack the catalyst,” explains Paunović. “Our catalyst resists the corrosive reaction environment, which is essential for its potential industrial application.”\n\nThe reason why chemical researchers are striving to make greater use of natural gas as a raw material for synthesis is primarily because it occurs in huge quantities. “We are currently experiencing a boom in natural gas exploration. If you include unconventional, hard to access reservoirs, such as shale gas or coal bed methane, estimates indicate that gas deposits will last for at least 100 years,” says Pérez-Ramírez. Today, the raw material typically used for chemical products is oil. Oil deposits are in decline, however, and chemists see natural gas as a suitable alternative.\n\nPaunović V, Zichittella G, Moser M, Amrute AP, Pérez-Ramírez J: Catalyst design for natural-gas upgrading through oxybromination chemistry. Nature Chemistry, 23 May 2016, doi: 10.1038/nchem.2522"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Methane",
+        "label": "PRODUCT",
+        "start": 41,
+        "end": 48
+      },
+      {
+        "text": "Javier Pérez-Ramírez",
+        "label": "PERSON",
+        "start": 143,
+        "end": 163
+      },
+      {
+        "text": "Catalysis Engineering",
+        "label": "ORG",
+        "start": 178,
+        "end": 199
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 406,
+        "end": 409
+      },
+      {
+        "text": "Pérez-Ramírez",
+        "label": "PERSON",
+        "start": 496,
+        "end": 509
+      },
+      {
+        "text": "bromine",
+        "label": "ORG",
+        "start": 61,
+        "end": 68
+      },
+      {
+        "text": "bromine",
+        "label": "ORG",
+        "start": 273,
+        "end": 280
+      },
+      {
+        "text": "Pérez-Ramírez",
+        "label": "PERSON",
+        "start": 328,
+        "end": 341
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 85,
+        "end": 90
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 208,
+        "end": 211
+      },
+      {
+        "text": "Vanadium",
+        "label": "PRODUCT",
+        "start": 401,
+        "end": 409
+      },
+      {
+        "text": "Vanadium",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "below 500 degrees Celsius",
+        "label": "QUANTITY",
+        "start": 523,
+        "end": 548
+      },
+      {
+        "text": "Vladimir Paunović",
+        "label": "PERSON",
+        "start": 604,
+        "end": 621
+      },
+      {
+        "text": "Pérez-Ramírez’s",
+        "label": "GPE",
+        "start": 645,
+        "end": 660
+      },
+      {
+        "text": "up to",
+        "label": "CARDINAL",
+        "start": 856,
+        "end": 861
+      },
+      {
+        "text": "up to 1,000 degrees",
+        "label": "QUANTITY",
+        "start": 893,
+        "end": 912
+      },
+      {
+        "text": "Bromine",
+        "label": "ORG",
+        "start": 958,
+        "end": 965
+      },
+      {
+        "text": "Halogens",
+        "label": "PERSON",
+        "start": 980,
+        "end": 988
+      },
+      {
+        "text": "Paunović",
+        "label": "ORG",
+        "start": 1100,
+        "end": 1108
+      },
+      {
+        "text": "at least 100 years",
+        "label": "DATE",
+        "start": 1611,
+        "end": 1629
+      },
+      {
+        "text": "Pérez-Ramírez",
+        "label": "PERSON",
+        "start": 1637,
+        "end": 1650
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 1652,
+        "end": 1657
+      },
+      {
+        "text": "Moser M",
+        "label": "ORG",
+        "start": 1842,
+        "end": 1849
+      },
+      {
+        "text": "Amrute AP",
+        "label": "ORG",
+        "start": 1851,
+        "end": 1860
+      },
+      {
+        "text": "Pérez-Ramírez",
+        "label": "ORG",
+        "start": 1862,
+        "end": 1875
+      },
+      {
+        "text": "Nature Chemistry",
+        "label": "PERSON",
+        "start": 1955,
+        "end": 1971
+      },
+      {
+        "text": "23 May 2016",
+        "label": "DATE",
+        "start": 1973,
+        "end": 1984
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1991,
+        "end": 1998
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Halogens",
+        "Javier Pérez-Ramírez",
+        "Nature Chemistry",
+        "Pérez-Ramírez",
+        "Vladimir Paunović"
+      ],
+      "ORG": [
+        "Amrute AP",
+        "Bromine",
+        "Catalysis Engineering",
+        "ETH",
+        "Moser M",
+        "Paunović",
+        "Pérez-Ramírez",
+        "Vanadium",
+        "bromine"
+      ],
+      "LOCATION": [
+        "Pérez-Ramírez’s"
+      ],
+      "DATE": [
+        "23 May 2016",
+        "Today",
+        "at least 100 years",
+        "today"
+      ],
+      "MISC": [
+        "10.1038",
+        "Methane",
+        "Vanadium",
+        "below 500 degrees Celsius",
+        "one",
+        "up to",
+        "up to 1,000 degrees"
+      ]
+    },
+    "entity_counts": {
+      "Pérez-Ramírez": 4,
+      "bromine": 2,
+      "Vanadium": 2,
+      "Methane": 1,
+      "Javier Pérez-Ramírez": 1,
+      "Catalysis Engineering": 1,
+      "one": 1,
+      "today": 1,
+      "ETH": 1,
+      "below 500 degrees Celsius": 1,
+      "Vladimir Paunović": 1,
+      "Pérez-Ramírez’s": 1,
+      "up to": 1,
+      "up to 1,000 degrees": 1,
+      "Bromine": 1,
+      "Halogens": 1,
+      "Paunović": 1,
+      "at least 100 years": 1,
+      "Today": 1,
+      "Moser M": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "oxybromination-of-methane.md",
+      "title": "En News Events/2016/05/oxybromination Of Methane",
+      "language": "en",
+      "source_path": "en_news_events/2016/05/oxybromination-of-methane.html"
+    },
+    "temporal": {
+      "publication_date": "2016-05",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Halogens",
+        "Javier Pérez-Ramírez",
+        "Nature Chemistry",
+        "Pérez-Ramírez",
+        "Vladimir Paunović"
+      ],
+      "people_with_roles": {
+        "Javier Pérez-Ramírez": [
+          "scientist",
+          "professor"
+        ],
+        "Pérez-Ramírez": [
+          "scientist",
+          "student",
+          "professor"
+        ],
+        "Vladimir Paunović": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Methane",
+        "Vanadium",
+        "below 500 degrees Celsius",
+        "up to",
+        "up to 1,000 degrees"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Nature Chemistry",
+        "Moser M",
+        "En News",
+        "Amrute AP",
+        "Catalysis Engineering",
+        "Zichittella G",
+        "The ETH",
+        "Of Methane"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Amrute AP",
+        "Bromine",
+        "Catalysis Engineering",
+        "ETH",
+        "Moser M",
+        "Paunović",
+        "Pérez-Ramírez",
+        "Vanadium",
+        "bromine"
+      ],
+      "locations": [
+        "Pérez-Ramírez’s"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Pérez-Ramírez",
+        "bromine",
+        "Vanadium",
+        "Methane",
+        "Javier Pérez-Ramírez",
+        "Catalysis Engineering",
+        "one",
+        "today",
+        "ETH",
+        "below 500 degrees Celsius"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Complete bromine recycling",
+          "Complete bromine recycling",
+          "Long catalyst lifetime",
+          "More efficient than via syngas"
+        ],
+        "content_length": 3529
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Nature Chemistry",
+        "ETH",
+        "Pérez-Ramírez",
+        "Moser M",
+        "Amrute AP",
+        "EU",
+        "bromine",
+        "Catalysis Engineering",
+        "Paunović",
+        "2016",
+        "Halogens",
+        "Vladimir Paunović",
+        "Vanadium",
+        "Bromine",
+        "Javier Pérez-Ramírez"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "up to",
+        "who",
+        "up to 1,000 degrees",
+        "10.1038",
+        "chemistry",
+        "where",
+        "Vanadium",
+        "what",
+        "how",
+        "below 500 degrees Celsius",
+        "Methane",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Javier Pérez-Ramírez_has_role_scientist",
+        "Javier Pérez-Ramírez_has_role_professor",
+        "Pérez-Ramírez_has_role_scientist",
+        "Pérez-Ramírez_has_role_student",
+        "Pérez-Ramírez_has_role_professor",
+        "Vladimir Paunović_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

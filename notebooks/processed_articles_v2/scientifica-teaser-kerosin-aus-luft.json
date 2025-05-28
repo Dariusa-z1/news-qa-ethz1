@@ -1,0 +1,231 @@
+{
+  "filename": "scientifica-teaser-kerosin-aus-luft.md",
+  "original_filename": "scientifica-teaser-kerosin-aus-luft.html",
+  "source_path": "en_news_events/2019/08/scientifica-teaser-kerosin-aus-luft.html",
+  "date": "2019-08",
+  "title": "Scientifica Teaser Kerosin Aus Luft",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Many of the things that the scientists at ETH and the University of Zurich spend their time on every day sounds a lot like science fiction. Some of it, however, may come to be taken for granted in future. At Scientifica, researchers present their projects and concepts at exhibitions stands, in workshops, during short lectures and at many more events. And they are happy to discuss the consequences for society.\n\nIn the era of “fake news” and “alternative facts”, science has a crucial role to play. It’s not that it can always offer simple answers to every question, but scientists can at least provide facts for social discussion. “Science fiction – science facts”, the theme of this year’s Scientifica, is also focused on this aspect.\n\nScientifica is the biggest science festival in Switzerland. It takes place every year from 30 August to 1 September at the University of Zurich and ETH Zurich. Our video series aims to set the scene.\n\nYou can find the whole Scientifica programme at www.scientifica.ch."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Teaser Kerosin Aus Luft",
+        "label": "PERSON",
+        "start": 35,
+        "end": 58
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 42,
+        "end": 45
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 50,
+        "end": 74
+      },
+      {
+        "text": "Scientifica",
+        "label": "LOC",
+        "start": 208,
+        "end": 219
+      },
+      {
+        "text": "Scientifica",
+        "label": "GPE",
+        "start": 693,
+        "end": 704
+      },
+      {
+        "text": "Scientifica",
+        "label": "GPE",
+        "start": 738,
+        "end": 749
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 785,
+        "end": 796
+      },
+      {
+        "text": "every year",
+        "label": "DATE",
+        "start": 813,
+        "end": 823
+      },
+      {
+        "text": "30 August",
+        "label": "DATE",
+        "start": 829,
+        "end": 838
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 857,
+        "end": 881
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 886,
+        "end": 896
+      },
+      {
+        "text": "Scientifica",
+        "label": "LOC",
+        "start": 961,
+        "end": 972
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Teaser Kerosin Aus Luft"
+      ],
+      "ORG": [
+        "ETH",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Scientifica",
+        "Switzerland"
+      ],
+      "DATE": [
+        "30 August",
+        "every year"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Scientifica": 4,
+      "the University of Zurich": 2,
+      "Teaser Kerosin Aus Luft": 1,
+      "ETH": 1,
+      "Switzerland": 1,
+      "every year": 1,
+      "30 August": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "scientifica-teaser-kerosin-aus-luft.md",
+      "title": "En News Events/2019/08/scientifica Teaser Kerosin Aus Luft",
+      "language": "en",
+      "source_path": "en_news_events/2019/08/scientifica-teaser-kerosin-aus-luft.html"
+    },
+    "temporal": {
+      "publication_date": "2019-08",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Teaser Kerosin Aus Luft"
+      ],
+      "people_with_roles": {
+        "Teaser Kerosin Aus Luft": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "grant"
+      ],
+      "projects": [
+        "Aus Luft",
+        "En News",
+        "At Scientifica",
+        "Teaser Kerosin",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Scientifica",
+        "Switzerland"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Scientifica",
+        "the University of Zurich",
+        "Teaser Kerosin Aus Luft",
+        "ETH",
+        "Switzerland",
+        "every year",
+        "30 August",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1067
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "grant",
+        "2019",
+        "the University of Zurich",
+        "ETH Zurich",
+        "Teaser Kerosin Aus Luft"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Teaser Kerosin Aus Luft_has_role_scientist",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

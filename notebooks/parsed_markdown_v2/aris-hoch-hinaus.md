@@ -1,0 +1,28 @@
+# aris-hoch-hinaus.html
+
+**Source:** de_news_events/2019/06/aris-hoch-hinaus.html
+
+## Spezielle Bremsen
+
+Sie wollen hoch hinaus. 30 Studierende der ETH Zürich, Hochschule Luzern und der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) wollen beim Spaceport America Cup 2019 mit ihrer selbst entwickelten Rakete unter die besten der rund 50 internationalen Teams gelangen. Dazu muss ihre Rakete möglichst genau die Höhe von 10'000 Fuss (3048 Meter) erreichen und anschliessend sanft mit einem Fallschirm wieder zu Boden sinken. Nur dann haben sie eine Chance auf einen Sieg bei diesem weltweit grössten Studentenwettbewerb im Raketenbau.
+
+Seit Herbst vergangenen Jahres stecken die Studierenden jede freie Minute in der Arbeit an der Rakete. Initiiert wurde das Projekt von der Akademischen Raumfahrt Initiative Schweiz (Aris). Diese wurde 2017 von Oliver Kirchhoff, damals Masterstudent am Departement Maschinenbau und Verfahrenstechnik der ETH Zürich, begründet. Heute ist der Raumfahrt-Enthusiast als Präsident der Initiative aktiv. «Es ist ein reines Freiwilligenprojekt», erzählt Felix Dannert, Masterstudent im zweiten Semester Physik an der ETH. «Wir bekommen hierfür keine Punkte für unser Studium, aber lernen sehr viel, was wir im Studium und darüber hinaus gebrauchen können.»
+
+Da ist zum einen das Fachliche. Um am Spaceport America Cup teilnehmen zu können, muss die Rakete verschiedene Vorgaben erfüllen. Ingenieurtechnisches Know-how, Wissen über Materialeigenschaften und Regelungstechnik sowie Kenntnisse in Programmieren oder Elektrotechnik sind hierfür unabdingbar. So muss die Rakete nicht nur die Flughöhe von 10'000 Fuss erreichen und über einem Fallschirm für die Landung verfügen, sondern sie muss auch kleine wissenschaftliche Experimente transportieren, die während des rund 25 Sekunden langen Fluges durchgeführt werden. «Wir haben unter anderem ein Experiment an Bord, das zeigen soll, ob sich aus der Vibration der Rakete Energie gewinnen lässt», erläutert Dannert. Zudem verfügt die Rakete über spezielle Bremsen, sogenannte Air Brakes, damit sie die vorgegebenen 10'000 Fuss möglichst genau erreichen kann.
+
+## Wissen und Soft Skills anwenden
+
+Um möglichst effizient zu arbeiten, haben sich die Studierenden in zwei Teilbereiche aufgeteilt: Das Team Rhea entwickelt das Triebwerk. Heidi ist der Name für das Team, das für die Rakete selbst zuständig ist – und auch die diesjährige Rakete heisst so. Innerhalb der Teams gibt es wieder genau definierte Aufgabenbereiche, zum Beispiel die Steuerung oder das Bergungssystem, die jeweils von bestimmten Studierenden umgesetzt werden. «Unsere Hierarchien sind flach, aber jeder weiss, was seine Aufgabe ist», sagt Dannert.
+
+Neben der Technik lernen die Studierenden viel über Teamarbeit, Projekt- und Zeitmanagement. «Wir wurden extra von Mitgliedern des Vereins Aris zu Teambuilding und im Umgang mit Stress gecoacht», berichtet Andreas Walker, ETH-Masterstudent im zweiten Semester Maschinenbau. Mit dabei von der ETH Zürich sind zudem Informatiker, Materialwissenschaftler, Physiker, Bauingenieure und Elektrotechniker. Insgesamt kommen die 30 Projektteilnehmenden aus zehn verschiedenen Studienrichtungen. Die jüngste und eine der wenigen Frauen im Team ist die Bachelorstudentin Mirela Minkova. Sie studiert ebenfalls Maschinenbau und hat durch das Projekt an Durchsetzungsfähigkeit gewonnen, wie sie sagt. «Ich habe gelernt, darauf zu bestehen, dass mich die anderen anhören und meine Ideen ernst nehmen.»
+
+## Auf Freizeit verzichtet
+
+Neben der Faszination für Raketen und Raumfahrt, die unter anderem Felix Dannert und Mirela Minkova zu Aris brachte, sind es das Erlernen dieser Soft Skills und die Chance, praktisch ihr Wissen anzuwenden, welche die Teilnehmenden mitmachen lassen. Andreas Walker erzählt: «Ich habe bereits im Bachelor-Studium an der ETH an einem praktischen Projekt – einem Fokus-Projekt – mitgearbeitet und dabei viel Erfahrung gesammelt. Ich wollte gerne wieder etwas Ähnliches machen.»
+
+Für die Teilnahme am Spaceport-Wettbewerb verzichten die Beteiligten seit Monaten auf Freizeit. Erst nach Ende des Wettbewerbs haben alle ein paar Tage Ferien geplant. Zuvor ist diese Woche ein letztes Mal volle Konzentration gefragt. Bereits vor einigen Tagen wurde das Material sorgsam verpackt und auf die Reise mitten in die Wüste von New Mexico zum Spaceport geschickt. «Zum Glück ist einer unserer Sponsoren eine Logistikfirma, die Erfahrung im Transport und der Einfuhr von technischem Gerät hat», sagt Dannert. Am 19. Juni war der offizielle Start des Wettbewerbs. Bis maximal Samstagvormittag haben die 21 aus der Schweiz in die USA gereisten Studierenden Zeit, die Rakete zusammenzubauen und erfolgreich zu zünden.
+
+Klappt alles, rechnen sie sich gute Chancen aus, unter die besten Teams zu kommen. «Wir haben aufgrund der dichten Besiedelung in Europa zwar weniger Möglichkeiten, Raketenstarts zu üben als die Teams von den amerikanischen Universitäten, aber unsere Steuerungs- und Bremstechnik ist sehr ausgefeilt», erklärt Dannert. In keinem Fall soll sich die Enttäuschung vom letzten Jahr wiederholen. Damals war nach nur wenigen Sekunden der Motor explodiert. Mirela Minkova ist zuversichtlich: «Wir haben Vertrauen ineinander, und ich glaube, dass wir zusammen alles lösen können.»
+
+Ergänzung vom 23.06.2019 Das Team Aris erreichte mit der Rakete Heidi beim Spaceport America Cup 2019 in seiner Kategorie den 2. Platz.
+

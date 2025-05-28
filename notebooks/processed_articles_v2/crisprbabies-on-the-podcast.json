@@ -1,0 +1,248 @@
+{
+  "filename": "crisprbabies-on-the-podcast.md",
+  "original_filename": "crisprbabies-on-the-podcast.html",
+  "source_path": "en_news_events/2019/02/crisprbabies-on-the-podcast.html",
+  "date": "2019-02",
+  "title": "Crisprbabies On The Podcast",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Last November, news from China shook the research community. Scientist, He Jiankui claimed he had edited the genomes of twin girls with the CRISPR/Cas technology. Effy Vayena, Professor of Bioethics at ETH Zurich, and Hantao Zhao, a Chinese PhD student at Disney Research and the Chair of Cognitive Science at ETH Zurich, discuss the ethical implications of this case. Does the nationality of researchers play a role in ethical views and how does global competition in science influence ethical decisions?\n\nListen to the episode"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Last November",
+        "label": "DATE",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 25,
+        "end": 30
+      },
+      {
+        "text": "Jiankui",
+        "label": "PERSON",
+        "start": 75,
+        "end": 82
+      },
+      {
+        "text": "Vayena",
+        "label": "PERSON",
+        "start": 168,
+        "end": 174
+      },
+      {
+        "text": "Hantao Zhao",
+        "label": "PERSON",
+        "start": 218,
+        "end": 229
+      },
+      {
+        "text": "Chinese",
+        "label": "NORP",
+        "start": 233,
+        "end": 240
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 241,
+        "end": 244
+      },
+      {
+        "text": "Disney Research",
+        "label": "ORG",
+        "start": 256,
+        "end": 271
+      },
+      {
+        "text": "the Chair of Cognitive Science",
+        "label": "ORG",
+        "start": 276,
+        "end": 306
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hantao Zhao",
+        "Jiankui",
+        "Vayena"
+      ],
+      "ORG": [
+        "Disney Research",
+        "En News",
+        "the Chair of Cognitive Science"
+      ],
+      "LOCATION": [
+        "China"
+      ],
+      "DATE": [
+        "Last November"
+      ],
+      "MISC": [
+        "Chinese",
+        "PhD"
+      ]
+    },
+    "entity_counts": {
+      "En News": 1,
+      "Last November": 1,
+      "China": 1,
+      "Jiankui": 1,
+      "Vayena": 1,
+      "Hantao Zhao": 1,
+      "Chinese": 1,
+      "PhD": 1,
+      "Disney Research": 1,
+      "the Chair of Cognitive Science": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "crisprbabies-on-the-podcast.md",
+      "title": "En News Events/2019/02/crisprbabies On The Podcast",
+      "language": "en",
+      "source_path": "en_news_events/2019/02/crisprbabies-on-the-podcast.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Hantao Zhao",
+        "Jiankui",
+        "Vayena"
+      ],
+      "people_with_roles": {
+        "Hantao Zhao": [
+          "chair",
+          "student",
+          "professor"
+        ],
+        "Jiankui": [
+          "scientist"
+        ],
+        "Vayena": [
+          "chair",
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "chair",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Chinese"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Chinese PhD",
+        "Disney Research",
+        "Hantao Zhao",
+        "En News",
+        "He Jiankui",
+        "Podcast Last",
+        "Cognitive Science",
+        "On The",
+        "Effy Vayena",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Disney Research",
+        "En News",
+        "the Chair of Cognitive Science"
+      ],
+      "locations": [
+        "China"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "En News",
+        "Last November",
+        "China",
+        "Jiankui",
+        "Vayena",
+        "Hantao Zhao",
+        "Chinese",
+        "PhD",
+        "Disney Research",
+        "the Chair of Cognitive Science"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 579
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Disney Research",
+        "Hantao Zhao",
+        "En News",
+        "2019",
+        "the Chair of Cognitive Science",
+        "Jiankui",
+        "Vayena"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "Chinese",
+        "how",
+        "what"
+      ],
+      "graph_relations": [
+        "Hantao Zhao_has_role_chair",
+        "Hantao Zhao_has_role_student",
+        "Hantao Zhao_has_role_professor",
+        "Jiankui_has_role_scientist",
+        "Vayena_has_role_chair",
+        "Vayena_has_role_student",
+        "Vayena_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

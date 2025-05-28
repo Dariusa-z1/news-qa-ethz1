@@ -1,0 +1,30 @@
+# a-new-masters-degree-in-brain-sciences.html
+
+**Source:** en_news_events/2021/11/a-new-masters-degree-in-brain-sciences.html
+
+## One degree, three subject areas
+
+Psychological and neurological disorders such as depression and dementia are among the most common illnesses worldwide and represent a severe burden on society. Understanding these illnesses and developing more effective treatments requires specialists who understand the relationships between biology, technology and clinical neurology. Training such experts is the goal of a new Master's Degree in Interdisciplinary Brain Sciences (MSc IDB) offered by the Neuroscience Center Zurich , jointly run by ETH Zurich and the University of Zurich from September 2022.
+
+"More than 50 institutions, professors, and laboratories of ETH, the University of Zurich, Zurich Children's Hospital, Psychiatric University Hospital Zurich and Balgrist University Hospital are participating," says Gerhard Schratt, ETH Professor of Neuroscience, who is responsible for the Master's programme at ETH. The new programme expands ETH's range of courses in human medicine and health sciences.
+
+## One degree, three subject areas
+
+Understanding how a healthy brain works and the neural and biological states that underpin mental illness requires a familiarity with several disciplines. The new Master's degree in brain sciences has a correspondingly broad scope. "In the first semester, students learn about the biology and genetics of the brain," explains Shiva Tyagarajan, Professor of Pharmacology at the University of Zurich, who leads the programme together with Schratt. Particular emphasis is placed on the properties of neurons in both healthy and sick individuals.
+
+The first semester also contains modules on neural systems, different imaging methods and other technology that can be used to analyse brain function. For example, students learn how neurons exchange information and how neuroprostheses can be used to treat sleep disorders. Computer simulations of neural networks are also part of this thematic area.
+
+In the second semester, students learn about a range of methods used in daily clinical and therapeutic practice. "This module encompasses both the characterisation of mental disorders and preventative approaches from psychology," says Tyagarajan. Courses in ethics and neuroeconomics complete this thematic area.
+
+## An early start in the lab
+
+One particular strength of the programme, says Schratt, is the focus on laboratory practice. Students get an early start in the lab, gaining valuable insight into what everyday research is like. "By the end of their studies, they will be very familiar with the broad range of measurement, analysis and treatment methods in neuroscience," says the course leader. All three thematic areas include a six-week laboratory placement in one of more than 20 laboratories and institutions.
+
+For example, students can investigate how traumatic life experiences affect the brain in the Laboratory of Neuroepigenetics, led by Isabelle Mansuy, professor at ETH and the University of Zurich. They are able to visualise brain processes using new imaging methods with Daniel Razansky, Chair of Biomedical Imaging at ETH and the University of Zurich. Those who prefer to specialise in psychology can research learning disorders such as dyslexia or ADHD in the group led by Nicolas Langer, Professor of Cognitive Neuropsychology at the University of Zurich.
+
+The students then have six months to deepen and supplement their knowledge while producing a Master's thesis. In addition, an eight-week internship in a clinic or with a partner company in the pharmaceutical or medtech sector offers important insights into what daily working life will look like.
+
+The new Master's programme is aimed at students with a Bachelor's degree in neuroscience, biology, biomedicine, biochemistry, biotechnology, health sciences, electrical engineering, engineering, physics, pharmacy, computer science, psychology, chemistry or mathematics.
+
+Students complete the two-year programme with a joint Master's degree from ETH and the University of Zurich. Graduates are equally well-prepared for a career in university research as for one in clinical research or the pharmaceutical industry. The programme also delivers the necessary biological and technological tools for a career in medical technology, where neuroprostheses are becoming increasingly important. Applications are open until 1 January 2022.
+

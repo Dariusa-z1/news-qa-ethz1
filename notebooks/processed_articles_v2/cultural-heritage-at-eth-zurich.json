@@ -1,0 +1,172 @@
+{
+  "filename": "cultural-heritage-at-eth-zurich.md",
+  "original_filename": "cultural-heritage-at-eth-zurich.html",
+  "source_path": "en_internal/2018/05/cultural-heritage-at-eth-zurich.html",
+  "date": "2018-05",
+  "title": "Cultural Heritage At Eth Zurich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "On 3 June 2018, ETH Zurich offers you the opportunity to experience its cultural heritage: during workshops, tours, talks and much more. ETH Zurich’s archives and institutes will be showing how today’s top-flight research creates the cultural heritage of tomorrow. The programme offers you an overview of the diverse events.\n\nWebsite Cultural Heritage at ETH Zurich\n\nAcademia is a core aspect of culture. Technologies that shape and accompany our everyday lives originated at ETH Zurich. Existing cultural heritage is researched, stored and rendered accessible again thanks to new findings and inventions. The collections and archives look after and mediate this cultural heritage."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "3 June 2018",
+        "label": "DATE",
+        "start": 3,
+        "end": 14
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 16,
+        "end": 26
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 137,
+        "end": 149
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 194,
+        "end": 199
+      },
+      {
+        "text": "tomorrow",
+        "label": "DATE",
+        "start": 255,
+        "end": 263
+      },
+      {
+        "text": "ETH Zurich Academia",
+        "label": "ORG",
+        "start": 354,
+        "end": 373
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 474,
+        "end": 484
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich’s"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "ETH Zurich Academia"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "3 June 2018",
+        "today",
+        "tomorrow"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "3 June 2018": 1,
+      "ETH Zurich’s": 1,
+      "today": 1,
+      "tomorrow": 1,
+      "ETH Zurich Academia": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "cultural-heritage-at-eth-zurich.md",
+      "title": "En Internal/2018/05/cultural Heritage At Eth Zurich",
+      "language": "en",
+      "source_path": "en_internal/2018/05/cultural-heritage-at-eth-zurich.html"
+    },
+    "temporal": {
+      "publication_date": "2018-05",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "En Internal",
+        "Heritage At",
+        "Website Cultural",
+        "ETH Zurich",
+        "Eth Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "ETH Zurich Academia"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "3 June 2018",
+        "ETH Zurich’s",
+        "today",
+        "tomorrow",
+        "ETH Zurich Academia"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 733
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "2018",
+        "ETH Zurich’s",
+        "ETH Zurich Academia"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "how"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

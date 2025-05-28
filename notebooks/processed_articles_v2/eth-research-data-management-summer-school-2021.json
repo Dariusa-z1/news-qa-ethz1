@@ -1,0 +1,235 @@
+{
+  "filename": "eth-research-data-management-summer-school-2021.md",
+  "original_filename": "eth-research-data-management-summer-school-2021.html",
+  "source_path": "en_internal/2021/01/eth-research-data-management-summer-school-2021.html",
+  "date": "2021-01",
+  "title": "Eth Research Data Management Summer School 2021",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Research Data Management (RDM) is vital for researchers to ensure the proper organisation of research data along the entire life cycle from creation to preservation, including their sharing as open data (FAIR data).\n\nSessions of the ETH Research Data Management Summer School cover the following topics:\n\nThe ETH Research Data Management Summer School takes place from 14 June to 18 June 2021. Event language is English. Doctoral students can obtain 2 ECTS points.\n\nMore information and registration for the ETH RDM Summer School\n\nGood to know : The Summer School 2021 is currently planned as a classroom event. In case protective measures around COVID-19 require it in summer 2021, the event will be converted into an adapted online substitute (including ECTS earning). In that case, existing registrations will be kept, and we will inform registered participants about further preparations.\n\n#KnowHow – The ETH Library infrastructure and tools lead you to your goal.\n\nMore than just data – Benefit from know-how"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Research Data Management Summer School",
+        "label": "ORG",
+        "start": 24,
+        "end": 62
+      },
+      {
+        "text": "Research Data Management",
+        "label": "ORG",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "text": "FAIR",
+        "label": "ORG",
+        "start": 204,
+        "end": 208
+      },
+      {
+        "text": "the ETH Research Data Management Summer School",
+        "label": "ORG",
+        "start": 228,
+        "end": 274
+      },
+      {
+        "text": "The ETH Research Data Management Summer School",
+        "label": "ORG",
+        "start": 303,
+        "end": 349
+      },
+      {
+        "text": "14 June to 18 June 2021",
+        "label": "DATE",
+        "start": 367,
+        "end": 390
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 410,
+        "end": 417
+      },
+      {
+        "text": "The Summer School 2021",
+        "label": "EVENT",
+        "start": 542,
+        "end": 564
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 643,
+        "end": 651
+      },
+      {
+        "text": "summer 2021",
+        "label": "DATE",
+        "start": 666,
+        "end": 677
+      },
+      {
+        "text": "ECTS",
+        "label": "ORG",
+        "start": 752,
+        "end": 756
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "COVID-19",
+        "ECTS",
+        "FAIR",
+        "Research Data Management",
+        "Research Data Management Summer School",
+        "The ETH Research Data Management Summer School",
+        "the ETH Research Data Management Summer School"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "14 June to 18 June 2021",
+        "summer 2021"
+      ],
+      "MISC": [
+        "English",
+        "The Summer School 2021"
+      ]
+    },
+    "entity_counts": {
+      "Research Data Management Summer School": 1,
+      "Research Data Management": 1,
+      "FAIR": 1,
+      "the ETH Research Data Management Summer School": 1,
+      "The ETH Research Data Management Summer School": 1,
+      "14 June to 18 June 2021": 1,
+      "English": 1,
+      "The Summer School 2021": 1,
+      "COVID-19": 1,
+      "summer 2021": 1,
+      "ECTS": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-research-data-management-summer-school-2021.md",
+      "title": "En Internal/2021/01/eth Research Data Management Summer School 2021",
+      "language": "en",
+      "source_path": "en_internal/2021/01/eth-research-data-management-summer-school-2021.html"
+    },
+    "temporal": {
+      "publication_date": "2021-01",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "English",
+        "The Summer School 2021"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Summer",
+        "Data Management",
+        "Research Data",
+        "ETH RDM",
+        "En Internal",
+        "Management Summer",
+        "The ETH",
+        "Summer School",
+        "ETH Research"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "ECTS",
+        "FAIR",
+        "Research Data Management",
+        "Research Data Management Summer School",
+        "The ETH Research Data Management Summer School",
+        "the ETH Research Data Management Summer School"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Research Data Management Summer School",
+        "Research Data Management",
+        "FAIR",
+        "the ETH Research Data Management Summer School",
+        "The ETH Research Data Management Summer School",
+        "14 June to 18 June 2021",
+        "English",
+        "The Summer School 2021",
+        "COVID-19",
+        "summer 2021"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1081
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the ETH Research Data Management Summer School",
+        "Research Data Management",
+        "ECTS",
+        "The ETH Research Data Management Summer School",
+        "Research Data Management Summer School",
+        "FAIR",
+        "COVID-19",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "English",
+        "The Summer School 2021",
+        "where",
+        "what",
+        "how",
+        "why",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

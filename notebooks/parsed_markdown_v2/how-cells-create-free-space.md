@@ -1,0 +1,34 @@
+# how-cells-create-free-space.html
+
+**Source:** en_news_events/2015/11/how-cells-create-free-space.html
+
+## Membrane proteins inflate the cells
+
+The human body is constantly regenerating itself. Trillions of cells die in our bodies each day. During this same period of time, many new ones are formed as other cells divide. In order to divide, cells undergo a process known as cell rounding, which allows the chromosomes to be copied and then to be incorporated into two daughter cells. The following spectacle occurs in our bodies trillions of times each day: a cell changes the shape typical for its function by rounding into a sphere and before dividing. The daughter cells once again assume the characteristic cell shape.
+
+Cell rounding is especially drastic and difficult for columnar cells that are stacked next to one another, for example the epithelial cells that form the lining of the intestines and other mucous membranes and vascular walls. These cells are similar to toothpicks in a box, tightly packed side by side with neighbouring cells. These cells have barely any space in the wall tissue to round up for cell division. Researchers at the ETH Zurich Department of Biosystems Science and Engineering (D-BSSE) in Basel have now uncovered the associated mechanism.
+
+## Membrane proteins inflate the cells
+
+## Test environment for diseases
+
+Epithelial cells migrate to the surface to divide. (Visualisations: Sorce B et al. Nature Communications 2015)
+
+The basic mechanism of cell rounding is already understood. Several years ago, Daniel Müller, Professor of Biophysics, and his team showed how cells activate the molecular pumps in their outer membranes, which transport sodium ions into the cell's interior. The increased ion concentration in the interior of the cell creates what is known as osmotic pressure, causing water to flow into the cell and the cell to round.
+
+A microscope can be used to observe where the rod-shaped epithelial cells find space to round. “The cells migrate from the epithelial layer to the surface, where they then divide before migrating back to the epithelial layer,” explains Müller.
+
+## Cells squeeze themselves out of the wall
+
+But how do the cells make their way to the surface? In a new study, members of Müller's group working together with other research groups at D-BSSE have now shown that the epithelial cells use the same mechanism as all other cells. "The cells pump themselves full of sodium ions and become taut as a result of the osmotic pressure. The cell's internal skeleton also contracts. The cells can then generate the force they need to virtually squeeze their way out of the epithelial layer, despite external resistance, and pop to the surface," says Müller.
+
+Electron micrograph of the "micro bed of nails". The columns are around 8 micrometres high with around 7 micrometres between them. (Photo: Sorce B et al. Nature Communications 2015)
+
+The researchers detected the process in a cell culture. Together with the group of Andreas Hierlemann, Professor of Biosystems Engineering, they developed a rubber micro bed of nails in which they grew epithelial cells between the elastic "nails" (or, more accurately, pillars). This allowed the researchers to observe cellular behaviour and measure the related forces under the microscope: the cellular forces that were generated led to a deformation or bending of the pillars, which could then be readily detected.
+
+When the scientists inhibited the cells’ ion transport proteins, they found that the cells’ salt content increase was not only responsible for cell rounding, it was also decisive for the cells getting "squeezed out" of the epithelial layer. By measuring the deflection of the rubber columns, the scientists were also able to calculate the forces that the cells produced to migrate to the epithelial surface.
+
+The researchers even used the micro bed of nails as a test environment for specific diseases. For example, it is known that epithelial cells that do not reach the surface of the epithelial layer for cell division – and therefore cannot divide undisturbed – may cause the epithelial layer to detach. This in turn may lead to tumours forming and spreading, for example in the stomach, intestines, kidneys or gall bladder. "With our microscopic bed of nails, we can now examine the conditions under which cells are no longer able to haul themselves up to the surface," says Müller. The researchers have already begun to search for the genetic causes of certain diseases in this test environment. They can also use the methodology they developed to test the efficacy of new drugs.
+
+Sorce B et al.: Mitotic cell contract actomyosin cortex and generate pressure to round against or escape epithelial confinement. Nature Communications, 25 November 2015, doi: 10.1038/ncomms9872
+

@@ -1,0 +1,258 @@
+{
+  "filename": "bildwissenschaftlicher-blick-auf-die-moeglichkeiten-und-grenzen-von-kuenstlicher-intelligenz.md",
+  "original_filename": "bildwissenschaftlicher-blick-auf-die-moeglichkeiten-und-grenzen-von-kuenstlicher-intelligenz.html",
+  "source_path": "en_internal/2020/10/bildwissenschaftlicher-blick-auf-die-moeglichkeiten-und-grenzen-von-kuenstlicher-intelligenz.html",
+  "date": "2020-10",
+  "title": "Bildwissenschaftlicher Blick Auf Die Moeglichkeiten Und Grenzen Von Kuenstlicher Intelligenz",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Computer vision is a field of digital visual culture that, as part of artificial-intelligence research (AI research), is currently advancing at incredible speed. The speaker, Dr Margarete Pratschke, reports on these developments within her current research project on the new “digital amateurism” inherent to AI as a defining visual perspective and tool for working with digital image archives. Against the backdrop of the growing prevalence of AI-based processes, you can learn about the challenges faced by cultural and memory institutions, in particular, when cataloguing and analysing their digital image archives. Using current examples, including from the Image Archive of ETH Zurich, this lecture critically engages with the possibilities and limitations of computer vision. There is a particular focus on the extent to which conservative methods and commercial interests pretend to be progressive. The aim of this lecture is therefore also to establish ethical guidelines in the use of AI for cultural and memory institutions.\n\nThe lecture will be held in German. The 17:15 Colloquium will be held via Zoom at 17.15.\n\nAdditional information and registration\n\nThe 17:15 Colloquium offers a platform for further education and discussion of topics related to libraries, museums and archives. The formula: a 30-minute lecture + a 30-minute discussion + small-group discussion = inspiration for our daily working lives.\n\n#FocusHuman – Be inspired by people and learn something new.\n\n#ETHLibraryDigital – The ETH Library is there for you digitally with various offers and services , not only during the COVID-19 protective measures."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Blick",
+        "label": "ORG",
+        "start": 43,
+        "end": 48
+      },
+      {
+        "text": "Moeglichkeiten",
+        "label": "PERSON",
+        "start": 57,
+        "end": 71
+      },
+      {
+        "text": "Grenzen von Kuenstlicher Intelligenz",
+        "label": "PERSON",
+        "start": 76,
+        "end": 112
+      },
+      {
+        "text": "Dr Margarete Pratschke",
+        "label": "ORG",
+        "start": 175,
+        "end": 197
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 309,
+        "end": 311
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 445,
+        "end": 447
+      },
+      {
+        "text": "the Image Archive",
+        "label": "ORG",
+        "start": 658,
+        "end": 675
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 679,
+        "end": 689
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 994,
+        "end": 996
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 1063,
+        "end": 1069
+      },
+      {
+        "text": "17.15",
+        "label": "CARDINAL",
+        "start": 1117,
+        "end": 1122
+      },
+      {
+        "text": "30-minute",
+        "label": "TIME",
+        "start": 1309,
+        "end": 1318
+      },
+      {
+        "text": "30-minute",
+        "label": "TIME",
+        "start": 1331,
+        "end": 1340
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 1399,
+        "end": 1404
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 1598,
+        "end": 1606
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Grenzen von Kuenstlicher Intelligenz",
+        "Moeglichkeiten"
+      ],
+      "ORG": [
+        "Blick",
+        "COVID-19",
+        "Dr Margarete Pratschke",
+        "the Image Archive"
+      ],
+      "LOCATION": [
+        "AI"
+      ],
+      "DATE": [
+        "30-minute",
+        "daily"
+      ],
+      "MISC": [
+        "17.15",
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "AI": 3,
+      "30-minute": 2,
+      "Blick": 1,
+      "Moeglichkeiten": 1,
+      "Grenzen von Kuenstlicher Intelligenz": 1,
+      "Dr Margarete Pratschke": 1,
+      "the Image Archive": 1,
+      "ETH Zurich": 1,
+      "German": 1,
+      "17.15": 1,
+      "daily": 1,
+      "COVID-19": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "bildwissenschaftlicher-blick-auf-die-moeglichkeiten-und-grenzen-von-kuenstlicher-intelligenz.md",
+      "title": "En Internal/2020/10/bildwissenschaftlicher Blick auf die Moeglichkeiten und Grenzen von Kuenstlicher Intelligenz",
+      "language": "en",
+      "source_path": "en_internal/2020/10/bildwissenschaftlicher-blick-auf-die-moeglichkeiten-und-grenzen-von-kuenstlicher-intelligenz.html"
+    },
+    "temporal": {
+      "publication_date": "2020-10",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Grenzen von Kuenstlicher Intelligenz",
+        "Moeglichkeiten"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "17.15",
+        "German"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Image Archive",
+        "Dr Margarete",
+        "En Internal",
+        "ETH Zurich",
+        "The ETH",
+        "Kuenstlicher Intelligenz"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Blick",
+        "COVID-19",
+        "Dr Margarete Pratschke",
+        "the Image Archive"
+      ],
+      "locations": [
+        "AI"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "AI",
+        "30-minute",
+        "Blick",
+        "Moeglichkeiten",
+        "Grenzen von Kuenstlicher Intelligenz",
+        "Dr Margarete Pratschke",
+        "the Image Archive",
+        "ETH Zurich",
+        "German",
+        "17.15"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1747
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Grenzen von Kuenstlicher Intelligenz",
+        "Blick",
+        "Moeglichkeiten",
+        "EU",
+        "2020",
+        "Dr Margarete Pratschke",
+        "COVID-19",
+        "the Image Archive",
+        "ETH Zurich",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "17.15",
+        "what",
+        "how",
+        "German",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

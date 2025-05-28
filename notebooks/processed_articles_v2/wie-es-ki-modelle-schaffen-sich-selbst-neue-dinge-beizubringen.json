@@ -1,0 +1,649 @@
+{
+  "filename": "wie-es-ki-modelle-schaffen-sich-selbst-neue-dinge-beizubringen.md",
+  "original_filename": "wie-es-ki-modelle-schaffen-sich-selbst-neue-dinge-beizubringen.html",
+  "source_path": "de_news_events/2023/07/wie-es-ki-modelle-schaffen-sich-selbst-neue-dinge-beizubringen.html",
+  "date": "2023-07",
+  "title": "Wie Es Ki Modelle Schaffen Sich Selbst Neue Dinge Beizubringen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Trotz ihres enormen Erfolges bleibt das Innenleben grosser Sprachmodelle wie der GPT-Modellfamilie von OpenAI und Google Bard ein Geheimnis, selbst für ihre Entwickler. Forscher der ETH und von Google haben nun einen möglichen Schlüsselmechanismus aufgedeckt, der sie befähigt, im laufenden Betrieb zu lernen und ihre Antworten auf der Grundlage von Interaktionen mit ihren Nutzern zu verfeinern. Johannes von Oswald ist Doktorand in der Gruppe von Angelika Steger, ETH-Professorin für Theoretische Informatik, und untersucht Lernalgorithmen für neuronale Netze. Sein neues externe Seite Paper wird Ende Juli an der International Conference on Machine Learning (ICML) vorgestellt.\n\nDas T in GPT steht für Transformer. Was sind Transformer? Johannes von Oswald: Transformer sind künstliche neuronale Netze mit einer besonderen Architektur. Sie wird von grossen Sprachmodellen wie ChatGPT verwendet, wurde aber 2017 von Forschern bei Google entwickelt und führte damals zu Spitzenleistungen bei der Sprachübersetzung. Interessanterweise ist dieses Modell in leicht abgewandelter Form aber eigentlich schon 1991 von dem KI-Pioneer Jürgen Schmidhuber erfunden worden.\n\nUnd was zeichnet diese Architektur aus? Vor dem aktuellen Durchbruch von der Transformer-Architektur wurden für Aufgaben wie zum Beispiel das Klassifizieren von Bildern oder der Sprachübersetzung jeweils spezifische, für eine bestimmte Aufgabe entwickelte Netzwerk-Architekturen verwendet. Transformer unterscheiden sich grundlegend von diesen früheren KI-Modellen – und sie scheinen für eine grosse Bandbreite unterschiedlicher Aufgaben sehr gut zu funktionieren. Da sie weit verbreitet sind, ist es wichtig zu verstehen, wie sie funktionieren.\n\nWas haben Sie mit Ihrer Forschung entdeckt? Während neuronale Netze im Allgemeinen als Black-box betrachtet werden, die bei einer Eingabe eine Ausgabe ausspucken, haben wir gezeigt, dass Transformer von sich aus lernen können, neue Algorithmen in ihre Architektur einzubauen. In unserem Fall konnten wir zeigen, dass sie von sich aus einen klassischen maschinellen Lernalgorithmus implementieren.\n\nHaben Sie ein Beispiel für dieses Lernverhalten? Sie können einem Sprachmodell wie ChatGPT zum Beispiel mehrere kurze Texte geben und jeweils angeben, ob die Texte grundsätzlich eine positive oder negative Grundstimmung haben. Dann legen Sie dem Modell einen Text vor, den es noch nicht gesehen hat, und es wird anhand der Beispiele, die Sie dem Modell gegeben haben, ziemlich sicher lernen und beurteilen, ob der neue Text positiv oder negativ ist.\n\nSie sagen also, dass das Modell sich selbst eine Technik beibringt, um neue Dinge zu lernen? Ja, das ist überraschend, aber wahr. Einfach aus dem Zwang heraus, die eigenen Vorhersagen zu verbessern, entwickelt es während des Trainings eine Technik, die es dem Modell ermöglicht, zum Beispiel aus den Gesprächen mit seinen Nutzern zu lernen. Diese Art des Lernens bezeichnen wir als In-Context-Learning.\n\nAlles, was diese Modelle erhalten, ist eine kurze Texteingabe. Wie nutzen Transformer diese wenigen Informationen, um ihr Ergebnis zu optimieren? Eine Möglichkeit besteht darin, eine Art “Modell der Welt” zu erlernen, mit dem man Vorhersagen treffen kann. Unsere Arbeit zeigt, dass dies Transformer vielleicht tun. Interessant ist, dass dieses Lernen innerhalb eines Modells stattfindet, das bereits trainiert ist. Normalerweise müsste man beim Lernen die Verbindungen im neuronalen Netz des Modells ändern. Wir haben gezeigt, dass Transformer-Modelle stattdessen in der Lage sind, denselben Lernprozess innerhalb einer festen neuronalen Architektur zu simulieren.\n\nWie kommt diese Fähigkeit bei Transformern zustande? In unserer Arbeit stellten wir die Hypothese auf, dass die Architektur des Transformers grundsätzlich dazu neigt, zu lernen. Das bedeutet im Grunde, dass die Fähigkeit, diese Lernmechanismen zu entwickeln, implizit im Design eingebaut ist, noch bevor das Modell trainiert wird.\n\nGPT-3, das Modell hinter ChatGPT, hat 175 Milliarden Parameter. Wie kann man ein so grosses System untersuchen? Einige Forschende verfolgen einen psychologischen Ansatz und analysieren, wie die Modelle reagieren, wenn sie mit standardisierten Tests oder widersprüchlichen Situationen wie moralischen Dilemmas konfrontiert werden. Wir haben dieses System mechanistisch untersucht, wie Neurowissenschaftler, könnte man sagen. Da unser Modell auf einem Computer läuft, sind wir in der Lage, jedes Neuron und jede Verbindung in dem neuronalen Netzwerk aufzuzeichnen - etwas, das bei der Untersuchung des biologischen Gehirns von Tieren oder Menschen undenkbar wäre. Jedoch ist uns die Untersuchung der Systeme auf dieser Ebene von einzelnen Neuronen und kleinen Netzwerken derzeit auch nur möglich, wenn man sehr spezifische Phänomene auf relativ kleinen Architekturen untersuchen will.\n\nWie sieht das System aus, das Sie in Ihrer Arbeit verwendet haben? Der von uns verwendete Transformer ist fast identisch mit der weit verbreiteten Transformer-Architektur. Anstatt unser System mit grossen Textmengen aus dem Internet zu trainieren, haben wir es mit Beispielen eines einfachen Problems trainiert, der linearen Regression. Da dieses Problem und seine Lösung sehr gut bekannt sind, konnten wir diese Lösung mit dem vergleichen, was wir im Transformer beobachtet haben. So konnten wir nachweisen, dass der Transformer einen sehr bekannten und leistungsstarken Lernalgorithmus namens «Gradient Descent» in sich selbst implementiert.\n\nKönnte es auch sein, dass Verhaltensweisen auftauchen, die für die Informatik völlig neu sind? Das könnte passieren. In unserem Fall hat der Transformer nicht einfach «Gradient Descent» gelernt und durchgeführt, sondern eine verbesserte Version davon. Jetzt haben zwei unabhängige Studien des MIT und der UC Berkeley den Algorithmus analysiert, den der Transformer gelernt hat. Ein langfristiges Ziel solcher Forschung könnte auch sein, festzustellen, ob Transformer-Algorithmen entdecken oder sogar Theoreme beweisen und Mathematik entwickeln können, die wir noch nicht kennen. Das wäre ein Meilenstein und wirklich bahnbrechend.\n\nvon Oswald J, Niklasson E, Randazzo E, Sacramento J, Mordvintsev A, Zhmoginov A, Vladymyrov M: Transformers learn in-context by gradient descent. Conference Paper International Conference on Machine Learning (ICML), July 2023, doi: externe Seite 10.48550/arXiv.2212.07677"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Beizubringen",
+        "label": "PER",
+        "start": 73,
+        "end": 85
+      },
+      {
+        "text": "GPT-Modellfamilie",
+        "label": "ORG",
+        "start": 81,
+        "end": 98
+      },
+      {
+        "text": "OpenAI",
+        "label": "MISC",
+        "start": 103,
+        "end": 109
+      },
+      {
+        "text": "Google Bard",
+        "label": "MISC",
+        "start": 114,
+        "end": 125
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 182,
+        "end": 185
+      },
+      {
+        "text": "Google",
+        "label": "MISC",
+        "start": 194,
+        "end": 200
+      },
+      {
+        "text": "Johannes von Oswald",
+        "label": "PER",
+        "start": 397,
+        "end": 416
+      },
+      {
+        "text": "Angelika Steger",
+        "label": "PER",
+        "start": 449,
+        "end": 464
+      },
+      {
+        "text": "ETH-Professorin für Theoretische Informatik",
+        "label": "ORG",
+        "start": 466,
+        "end": 509
+      },
+      {
+        "text": "Paper",
+        "label": "PER",
+        "start": 588,
+        "end": 593
+      },
+      {
+        "text": "International Conference on Machine Learning",
+        "label": "ORG",
+        "start": 616,
+        "end": 660
+      },
+      {
+        "text": "ICML",
+        "label": "ORG",
+        "start": 662,
+        "end": 666
+      },
+      {
+        "text": "Transformer",
+        "label": "PER",
+        "start": 726,
+        "end": 737
+      },
+      {
+        "text": "Johannes von Oswald",
+        "label": "PER",
+        "start": 739,
+        "end": 758
+      },
+      {
+        "text": "Transformer",
+        "label": "PER",
+        "start": 760,
+        "end": 771
+      },
+      {
+        "text": "ChatGPT",
+        "label": "MISC",
+        "start": 878,
+        "end": 885
+      },
+      {
+        "text": "Forschern",
+        "label": "MISC",
+        "start": 917,
+        "end": 926
+      },
+      {
+        "text": "Google",
+        "label": "MISC",
+        "start": 931,
+        "end": 937
+      },
+      {
+        "text": "KI-Pioneer",
+        "label": "MISC",
+        "start": 1116,
+        "end": 1126
+      },
+      {
+        "text": "Jürgen Schmidhuber",
+        "label": "PER",
+        "start": 1127,
+        "end": 1145
+      },
+      {
+        "text": "Transformer-Architektur",
+        "label": "ORG",
+        "start": 1240,
+        "end": 1263
+      },
+      {
+        "text": "Netzwerk-Architekturen",
+        "label": "MISC",
+        "start": 1419,
+        "end": 1441
+      },
+      {
+        "text": "Transformer",
+        "label": "PER",
+        "start": 1453,
+        "end": 1464
+      },
+      {
+        "text": "KI-Modellen",
+        "label": "ORG",
+        "start": 1516,
+        "end": 1527
+      },
+      {
+        "text": "Allgemeinen",
+        "label": "LOC",
+        "start": 1780,
+        "end": 1791
+      },
+      {
+        "text": "Transformer",
+        "label": "PER",
+        "start": 1896,
+        "end": 1907
+      },
+      {
+        "text": "ChatGPT",
+        "label": "MISC",
+        "start": 2189,
+        "end": 2196
+      },
+      {
+        "text": "Einfach",
+        "label": "PER",
+        "start": 2686,
+        "end": 2693
+      },
+      {
+        "text": "Transformer",
+        "label": "PER",
+        "start": 3033,
+        "end": 3044
+      },
+      {
+        "text": "Transformer-Modelle",
+        "label": "LOC",
+        "start": 3491,
+        "end": 3510
+      },
+      {
+        "text": "Transformern",
+        "label": "MISC",
+        "start": 3654,
+        "end": 3666
+      },
+      {
+        "text": "Transformers",
+        "label": "LOC",
+        "start": 3752,
+        "end": 3764
+      },
+      {
+        "text": "GPT-3",
+        "label": "MISC",
+        "start": 3955,
+        "end": 3960
+      },
+      {
+        "text": "ChatGPT",
+        "label": "MISC",
+        "start": 3980,
+        "end": 3987
+      },
+      {
+        "text": "Neuron",
+        "label": "LOC",
+        "start": 4449,
+        "end": 4455
+      },
+      {
+        "text": "Anstatt unser System",
+        "label": "MISC",
+        "start": 5010,
+        "end": 5030
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 5062,
+        "end": 5070
+      },
+      {
+        "text": "Beispielen",
+        "label": "LOC",
+        "start": 5103,
+        "end": 5113
+      },
+      {
+        "text": "Gradient Descent",
+        "label": "MISC",
+        "start": 5434,
+        "end": 5450
+      },
+      {
+        "text": "Verhaltensweisen",
+        "label": "PER",
+        "start": 5508,
+        "end": 5524
+      },
+      {
+        "text": "MIT",
+        "label": "ORG",
+        "start": 5775,
+        "end": 5778
+      },
+      {
+        "text": "UC Berkeley",
+        "label": "ORG",
+        "start": 5787,
+        "end": 5798
+      },
+      {
+        "text": "Transformer-Algorithmen",
+        "label": "PER",
+        "start": 5937,
+        "end": 5960
+      },
+      {
+        "text": "Oswald J",
+        "label": "PER",
+        "start": 6117,
+        "end": 6125
+      },
+      {
+        "text": "Niklasson E",
+        "label": "PER",
+        "start": 6127,
+        "end": 6138
+      },
+      {
+        "text": "Randazzo E",
+        "label": "LOC",
+        "start": 6140,
+        "end": 6150
+      },
+      {
+        "text": "Sacramento J",
+        "label": "PER",
+        "start": 6152,
+        "end": 6164
+      },
+      {
+        "text": "Mordvintsev A",
+        "label": "PER",
+        "start": 6166,
+        "end": 6179
+      },
+      {
+        "text": "Zhmoginov A",
+        "label": "ORG",
+        "start": 6181,
+        "end": 6192
+      },
+      {
+        "text": "Vladymyrov M",
+        "label": "MISC",
+        "start": 6194,
+        "end": 6206
+      },
+      {
+        "text": "Transformers",
+        "label": "ORG",
+        "start": 6208,
+        "end": 6220
+      },
+      {
+        "text": "in-context by",
+        "label": "MISC",
+        "start": 6227,
+        "end": 6240
+      },
+      {
+        "text": "Conference Paper International Conference on Machine Learning",
+        "label": "ORG",
+        "start": 6259,
+        "end": 6320
+      },
+      {
+        "text": "ICML",
+        "label": "ORG",
+        "start": 6322,
+        "end": 6326
+      },
+      {
+        "text": "July",
+        "label": "PER",
+        "start": 6329,
+        "end": 6333
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Angelika Steger",
+        "Beizubringen",
+        "Einfach",
+        "Johannes von Oswald",
+        "July",
+        "Jürgen Schmidhuber",
+        "Mordvintsev A",
+        "Niklasson E",
+        "Oswald J",
+        "Paper",
+        "Sacramento J",
+        "Transformer",
+        "Transformer-Algorithmen",
+        "Verhaltensweisen"
+      ],
+      "ORG": [
+        "Conference Paper International Conference on Machine Learning",
+        "ETH",
+        "ETH-Professorin für Theoretische Informatik",
+        "GPT-Modellfamilie",
+        "ICML",
+        "International Conference on Machine Learning",
+        "KI-Modellen",
+        "MIT",
+        "Transformer-Architektur",
+        "Transformers",
+        "UC Berkeley",
+        "Zhmoginov A"
+      ],
+      "LOCATION": [
+        "Allgemeinen",
+        "Beispielen",
+        "Neuron",
+        "Randazzo E",
+        "Transformer-Modelle",
+        "Transformers"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Anstatt unser System",
+        "ChatGPT",
+        "Forschern",
+        "GPT-3",
+        "Google",
+        "Google Bard",
+        "Gradient Descent",
+        "Internet",
+        "KI-Pioneer",
+        "Netzwerk-Architekturen",
+        "OpenAI",
+        "Transformern",
+        "Vladymyrov M",
+        "in-context by"
+      ]
+    },
+    "entity_counts": {
+      "Transformer": 5,
+      "ChatGPT": 3,
+      "Google": 2,
+      "Johannes von Oswald": 2,
+      "ICML": 2,
+      "Transformers": 2,
+      "Beizubringen": 1,
+      "GPT-Modellfamilie": 1,
+      "OpenAI": 1,
+      "Google Bard": 1,
+      "ETH": 1,
+      "Angelika Steger": 1,
+      "ETH-Professorin für Theoretische Informatik": 1,
+      "Paper": 1,
+      "International Conference on Machine Learning": 1,
+      "Forschern": 1,
+      "KI-Pioneer": 1,
+      "Jürgen Schmidhuber": 1,
+      "Transformer-Architektur": 1,
+      "Netzwerk-Architekturen": 1
+    },
+    "total_entities": 55,
+    "unique_entities": 45
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "wie-es-ki-modelle-schaffen-sich-selbst-neue-dinge-beizubringen.md",
+      "title": "De News Events/2023/07/wie Es Ki Modelle Schaffen Sich Selbst Neue Dinge Beizubringen",
+      "language": "de",
+      "source_path": "de_news_events/2023/07/wie-es-ki-modelle-schaffen-sich-selbst-neue-dinge-beizubringen.html"
+    },
+    "temporal": {
+      "publication_date": "2023-07",
+      "mentioned_years": [
+        "1991",
+        "2017",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Angelika Steger",
+        "Beizubringen",
+        "Einfach",
+        "Johannes von Oswald",
+        "July",
+        "Jürgen Schmidhuber",
+        "Mordvintsev A",
+        "Niklasson E",
+        "Oswald J",
+        "Paper",
+        "Sacramento J",
+        "Transformer",
+        "Transformer-Algorithmen",
+        "Verhaltensweisen"
+      ],
+      "people_with_roles": {
+        "Angelika Steger": [
+          "professor"
+        ],
+        "Johannes von Oswald": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Anstatt unser System",
+        "ChatGPT",
+        "Forschern",
+        "GPT-3",
+        "Google",
+        "Google Bard",
+        "Gradient Descent",
+        "Internet",
+        "KI-Pioneer",
+        "Netzwerk-Architekturen",
+        "OpenAI",
+        "Transformern",
+        "Vladymyrov M",
+        "in-context by"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Gradient Descent",
+        "KI-Modellen",
+        "International Conference",
+        "In-Context",
+        "Transformer-Architektur",
+        "Ihrer Forschung",
+        "Niklasson E",
+        "Beizubringen Trotz",
+        "Sacramento J",
+        "Zhmoginov A",
+        "Das T",
+        "Google Bard",
+        "Oswald J",
+        "Vladymyrov M",
+        "Machine Learning",
+        "Theoretische Informatik",
+        "Netzwerk-Architekturen",
+        "Conference Paper",
+        "Diese Art",
+        "ETH-Professorin",
+        "Seite Paper",
+        "Ende Juli",
+        "Einige Forschende",
+        "Ihrer Arbeit",
+        "KI-Pioneer",
+        "Transformer-Algorithmen",
+        "Mordvintsev A",
+        "UC Berkeley",
+        "GPT-Modellfamilie",
+        "Haben Sie",
+        "Angelika Steger",
+        "Es Ki",
+        "Modelle Schaffen",
+        "Transformer-Modelle",
+        "Sich Selbst",
+        "Milliarden Parameter",
+        "Unsere Arbeit",
+        "Randazzo E",
+        "De News",
+        "Neue Dinge"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Conference Paper International Conference on Machine Learning",
+        "ETH",
+        "ETH-Professorin für Theoretische Informatik",
+        "GPT-Modellfamilie",
+        "ICML",
+        "International Conference on Machine Learning",
+        "KI-Modellen",
+        "MIT",
+        "Transformer-Architektur",
+        "Transformers",
+        "UC Berkeley",
+        "Zhmoginov A"
+      ],
+      "locations": [
+        "Allgemeinen",
+        "Beispielen",
+        "Neuron",
+        "Randazzo E",
+        "Transformer-Modelle",
+        "Transformers"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Transformer",
+        "ChatGPT",
+        "Google",
+        "Johannes von Oswald",
+        "ICML",
+        "Transformers",
+        "Beizubringen",
+        "GPT-Modellfamilie",
+        "OpenAI",
+        "Google Bard"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 6481
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Transformers",
+        "KI-Modellen",
+        "Transformer-Architektur",
+        "Niklasson E",
+        "Johannes von Oswald",
+        "Verhaltensweisen",
+        "Sacramento J",
+        "Zhmoginov A",
+        "Oswald J",
+        "Einfach",
+        "Transformer-Algorithmen",
+        "Conference Paper International Conference on Machine Learning",
+        "EU",
+        "Beizubringen",
+        "Mordvintsev A",
+        "UC Berkeley",
+        "July",
+        "GPT-Modellfamilie",
+        "ICML",
+        "Angelika Steger",
+        "Paper",
+        "1991",
+        "Transformer",
+        "2017",
+        "Jürgen Schmidhuber",
+        "International Conference on Machine Learning",
+        "MIT",
+        "ETH-Professorin für Theoretische Informatik",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Google",
+        "Anstatt unser System",
+        "KI-Pioneer",
+        "Transformern",
+        "Gradient Descent",
+        "OpenAI",
+        "in-context by",
+        "Internet",
+        "who",
+        "Forschern",
+        "Google Bard",
+        "Vladymyrov M",
+        "Netzwerk-Architekturen",
+        "GPT-3",
+        "ChatGPT"
+      ],
+      "graph_relations": [
+        "Angelika Steger_has_role_professor",
+        "Johannes von Oswald_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

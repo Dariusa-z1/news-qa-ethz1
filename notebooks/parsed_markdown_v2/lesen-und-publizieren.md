@@ -1,0 +1,36 @@
+# lesen-und-publizieren.html
+
+**Source:** de_news_events/2019/12/lesen-und-publizieren.html
+
+## ETH-Bibliothek informiert über Alternativzugänge
+
+- Elsevier: ca. 1’900 Titel
+
+- Springer-Nature: ca. 2’190 Titel
+
+- Wiley: ca. 1’500 Titel
+
+Ziel der Verhandlungen, welche die Rektorenkonferenz Swissuniversities im Auftrag der Schweizer Hochschulen führte, war einerseits, Forschenden der Schweiz das Leserecht für das gesamte E-Journal-Portfolio der drei Marktführer zu geben. Andererseits sollen ihre Beiträge in den Zeitschriften dieser Verlage ohne zusätzliche Kosten open access publiziert werden, also uneingeschränkt weltweit zur Verfügung stehen (sogenannte «Read & Publish»-Verträge).
+
+Dem zugrunde liegt die nationale Open-Access-Strategie der Schweizer Hochschulen, die bis 2024 Open Access beim wissenschaftlichen Publizieren in der Schweiz generell umsetzen will. Das heisst: Alle mit öffentlichen Geldern finanzierten wissenschaftlichen Publikationen müssen im Internet frei zugänglich sein.
+
+## ETH-Bibliothek informiert über Alternativzugänge
+
+Mit den drei Grossverlagen wurde dieses Ziel vorläufig nur zum Teil erreicht. Mit Springer Nature konnte keine Einigung erzielt werden. Das bedeutet, dass auf Zeitschriften dieses Verlags ab Januar nächsten Jahres für ab 2020 publizierte Artikel der direkte Zugriff nicht möglich ist, falls der Verlag den Zugang per Ende Jahr tatsächlich abschaltet. Betroffen wären rund 2000 Zeitschriften.
+
+«Wir hätten uns natürlich ein anderes Resultat gewünscht», sagt Rafael Ball, Direktor der ETH-Bibliothek. «Gemeinsam mit den anderen Hochschulbibliotheken der Schweiz tun wir jedoch unser Möglichstes, damit Nutzerinnen und Nutzer trotzdem auf die betroffene Literatur zugreifen können.» Wie man sich Artikel der betroffenen Zeitschriften beschafft, wird auf der Website der ETH-Bibliothek erklärt. Diese mögliche Einschränkung gilt nur für Artikel ab dem Jahr 2020. Der Archivzugang für ältere Artikel bleibt bestehen.
+
+«Für das Jahr 2021 hoffen wir, dass mit Springer Nature eine Übereinkunft erreicht wird, die zu fairen Bedingungen das Lesen und Publizieren ermöglicht», ergänzt Rafael Ball. Ulrich Weidmann, der für die ETH-Bibliothek zuständige Vizepräsident für Personal und Ressourcen, hält fest: «Trotz der fehlenden Übereinkunft mit Springer Nature für das Jahr 2020 wird die ETH Zürich zusammen mit den anderen Schweizer Forschungsinstitutionen den eingeschlagenen Weg konsequent weitergehen. Der freie Zugang zu Forschungsliteratur muss für Forschende an Schweizer Institutionen mittelfristig Tatsache werden.»
+
+## Lösungen mit Wiley und Elsevier
+
+Mit den Verlagen Elsevier und Wiley hat die Verhandlungsdelegation von Swissuniversities je eine Anschlusslösung gefunden. Alle Zeitschriften dieser Verlage bleiben für Nutzerinnen und Nutzer der Schweizer Hochschulbibliotheken, also auch der ETH-Bibliothek, wie bis anhin frei zugänglich, etwa über das Suchportal der ETH-Bibliothek.
+
+Mit Elsevier ist man sich einig, dass ein «Read & Publish»-Vertrag abgeschlossen werden soll, der ab Januar 2020 in Kraft tritt. Mit dem Verlag Wiley besteht ebenfalls bereits eine Absichtserklärung für «Read & Publish» ab 2021; die Verhandlungen laufen 2020 weiter. Einstweilen kann im kommenden Jahr der bestehende Lizenzvertrag ohne Preiserhöhung weitergeführt werden. Dieser enthält allerdings keine Open-Access-Komponente.
+
+Bei Springer Nature, Wiley und Elsevier handelt es sich um die weltweit grössten Verlage für wissenschaftliche Publikationen. Aufgrund der Anzahl und Bedeutung ihrer Publikationen besitzen sie eine enorme Verhandlungsmacht. Entsprechend hoch sind die Ausgaben der Hochschulbibliotheken, um die Inhalte zugänglich machen zu können.
+
+Anzahl Zeitschriften: - Elsevier: ca. 1’900 Titel - Springer-Nature: ca. 2’190 Titel - Wiley: ca. 1’500 Titel
+
+Schweizweit betrugen die Ausgaben für Publikationen dieser Verlage im Jahr 2019 rund 22,4 Millionen Euro (exkl. MwSt). Die Ausgaben der ETH-Bibliothek für diese Verlage beliefen sich im gleichen Zeitraum auf 6,4 Millionen Euro (exkl. MwSt).
+

@@ -1,0 +1,30 @@
+# roessler-preis-2019.html
+
+**Source:** de_news_events/2019/06/roessler-preis-2019.html
+
+## Heller und klarer
+
+Ein strahlendes Blau, ein hell leuchtendes Grün, ein sattes Rot – es ist eine faszinierende Farbpalette, die Maksym Kovalenko in seinem Labor in verschiedenen Reagenzgläsern präsentiert. Doch faszinierend sind diese Farben nicht nur, weil sie so brillant scheinen, sondern auch weil sie das Produkt einer bemerkenswerten Idee sind, die in vielen Bereichen neue Massstäbe setzen könnte.
+
+«Maksym Kovalenko liefert mit seiner Arbeit sowohl für die Grundlagenforschung als auch für neue Anwendungen wichtige Impulse», ordnet Joël Mesot, Präsident der ETH Zürich, die Leistungen des Chemieprofessors ein. Aus diesem Grund wurde Kovalenko gestern am jährlichen «Thanks Giving»-Anlass der ETH Foundation mit dem diesjährigen Rösslerpreis ausgezeichnet.
+
+## Heller und klarer
+
+Erzeugt werden die Farben in den Reagenzgläsern von Quantenpunkten, also kleinen leuchtenden Nanokristallen. Kovalenko entdeckte vor wenigen Jahren, dass man solche Quantenpunkte auch aus speziellen Halbleitermaterialien, sogenannten Metall-Halogenid-Perovskiten, herstellen kann. «Unsere Quantenpunkte leuchten in den reinsten Farben - reiner als jene, die man bisher kannte», erklärt er mit sichtlichem Stolz. «Sie lassen sich zudem einfacher herstellen und sind leichter zu handhaben.»
+
+Das Feld möglicher Anwendungen ist breit: Naheliegend ist, mit diesen Materialien Bildschirme herzustellen, die nicht nur heller leuchten und eine bessere Farbauflösung haben als die heutigen Modelle, sondern auch kostengünstiger und vor allem energieeffizienter sind - angesichts des hohen Stromverbrauchs heutiger Bildschirme ein durchaus wichtiger Aspekt. Interessant sind die neuartigen Materialien auch für die Grundlagenforschung. Kovalenkos Gruppe konnte zeigen, dass diese Partikel in schneller Folge einzelne Photonen aussenden. Das macht sie potenziell interessant für Anwendungen im Bereich Quanten-Informationsverarbeitung.
+
+## Schon als Jugendlicher begeistert von Chemie
+
+Der heute 37-jährige Kovalenko begeistert sich schon lange für Chemie. Bereits mit 12 Jahren, so berichtet er im Gespräch, habe er seine Faszination für dieses Gebiet entdeckt. Der gebürtige Ukrainer studierte zunächst sein Lieblingsfach an der Chernivtsi National-Universität und promovierte anschliessend an der Johannes Kepler Universität in Linz. Nach einem Postdoc an der University of Chicago wechselte er 2011 als Assistenzprofessor an die ETH Zürich. Heute leitet er als ausserordentlicher Professor die Gruppe für Anorganische Funktionsmaterialien im Departement Chemie und Angewandte Biowissenschaften.
+
+Der eine Teil seiner Gruppe arbeitet dabei an der ETH Zürich, ein Viertel seines Teams an der Empa in Dübendorf. «In meiner Gruppe kommen Wissenschaftler aus sehr unterschiedlichen Fachrichtungen zusammen», sagt Kovalenko. Diese fachliche Breite erlaubt ihm, die Kontrolle über die ganze Entwicklungskette zu behalten, von der Synthese der Partikel bis hin zum Design von Prototypen für konkrete Geräte. Dies ist ein Schlüssel zu seinem wissenschaftlichen Erfolg.
+
+## Von Ralph Eichler inspiriert
+
+Die hell leuchtenden Quantenpunkte sind zweifellos ein spektakulärer Teil von Kovalenkovs Forschung. Doch daneben bearbeitet er noch ein ganz anderes Thema, das ihm inzwischen ebenso ans Herz gewachsen ist: Er sucht mit seiner Gruppe nach alternativen Materialien für wiederaufladbare Batterien. «Der Bedarf an stationären Energiespeichermöglichkeiten wird in den kommenden Jahren markant steigen, und Batterien werden dabei eine zentrale Rolle spielen», ist der Chemiker überzeugt. Sein Ziel ist es, leistungsfähige und kostengünstige Batterien aus leicht verfügbaren Materialien herzustellen, damit die künftig benötigten Speicherkapazitäten überhaupt erreicht werden können.
+
+Zu diesem Forschungsgebiet kam er übrigens erst bei seinem Anstellungsgespräch an der ETH Zürich. Der damalige ETH-Präsident Ralph Eichler inspirierte den jungen Chemiker, seine Forschung auch auf dieses zukunftsträchtige Forschungsgebiet auszudehnen. Und wenn man Kovalenko zuhört, wie er über seine Idee spricht, Graphit aus Schlacken, die bei der Stahlproduktion anfallen, oder Graphit, der noch kaum bearbeitet wurde, als Rohstoff für Batterien zu nutzen, dann wird auch hier seine grosse Leidenschaft für unkonventionelle Forschungsideen sofort spürbar.
+
+ETH-Alumnus Max Rössler vermachte 2008 der ETH Foundation zehn Millionen Franken. Mit dem Zins aus diesem Vermögen stiftet er einen jährlichen Förderpreis für ETH-Professoren in der Expansionsphase ihrer Forschungskarriere. Der Preis ist mit 200‘000 Franken die höchstdotierte Auszeichnung für Forschung an der ETH Zürich und wird jeweils am «Thanks Giving»-Anlass der ETH Foundation verliehen. Der Preisstifter studierte an der ETH Zürich Mathematik und doktorierte über Bahnberechnungen in der Raumfahrt. Nach einem Forschungsaufenthalt an der Harvard University kehrte er an die ETH zurück und war von 1967 bis 1978 Senior Scientist und Lehrbeauftragter am Institut für Operations Research. Später war er in der Vermögensverwaltung tätig, ehe er sich aus dem Geschäftsleben zurückzog.
+

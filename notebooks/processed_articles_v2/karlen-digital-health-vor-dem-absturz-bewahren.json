@@ -1,0 +1,584 @@
+{
+  "filename": "karlen-digital-health-vor-dem-absturz-bewahren.md",
+  "original_filename": "karlen-digital-health-vor-dem-absturz-bewahren.html",
+  "source_path": "de_news_events/2019/05/karlen-digital-health-vor-dem-absturz-bewahren.html",
+  "date": "2019-05",
+  "title": "Karlen Digital Health Vor Dem Absturz Bewahren",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Wir sind nicht vor solchen Fehlern gefeit",
+      "text": "Seit Wochen verfolge ich aufmerksam die Berichterstattung über die Tragödien des Lion-Air-Fluges 610 und des Fluges 302 der Ethiopian Airlines. Die Abstürze des neuen Flugzeugtyps 737 Max von Boeing erfolgten nach sehr ähnlichen Mustern. 189 respektive 158 Menschen kamen ums Leben. Nicht nur diese Todesfälle machen mich betroffen, auch sehe ich Parallelen zwischen den Ursachen dieser Flugunfälle und Forschungsfragen, mit denen ich mich in meinem Gebiet, der Digitalisierung und Automatisierung im Gesundheitswesen, beschäftige."
+    },
+    {
+      "heading": "Nicht genügend Sicherheitsforschung",
+      "text": "Parallelen zwischen Luftfahrt und Medizin zu ziehen, ist nicht neu: Anästhesisten, die einen Patienten sicher durch eine Operation «steuern», wurden schon oft mit Linienpiloten verglichen. Auch ist die Surgical Safety Checklist der WHO 1 direkt von den Kontrollchecks der Piloten vor dem Start und nach der Landung inspiriert. Eines unserer Forschungsprojekte schliesslich, in dem wir gemeinsam mit dem Unispital Zürich mit datenwissenschaftlichen Methoden das Patientenmonitoring in Intensivstationen (engl. ICU) verbessern möchten, heisst nicht ohne Grund ICU-Cockpit 2, 3 .\n\nDer Fall Boeing 737 Max veranschaulicht jedoch zwei neue Parallelen zwischen diesen Bereichen: einerseits die zunehmende Digitalisierung und Automatisierung und andererseits, weit weniger ehrenhaft, die Gewinnmaximierung von Unternehmen. Dass diese im Fall von Boeing eine massgebliche Rolle spielte, legt ein Artikel nahe, der kürzlich in der New York Times erschienenen ist 4 .\n\nZusammenfassend gesagt: Boeing stand unter grossem Wettbewerbsdruck. Anstatt in die teure und zeitaufwändige Entwicklung eines neuen modernen Flugzeugs zu investieren, hat die Firma ein über 40 Jahre altes Flugzeugmodell überarbeitet. Um Marketinganforderungen wie tiefe Betriebskosten zu erfüllen, verwendete sie neue, aber für das alte Flugzeug ungeeignete Technologie. Um aerodynamische Mängel auszugleichen, entwickelte sie eine Software, die entgegen aller Best Practice der Branche eingreift, ohne dass der Pilot es merkt. In aller Eile vergass Boeing, die Änderungen im Flugzeug-Handbuch zu vermerken und Fluggesellschaften und Piloten über diese Mechanismen zu informieren. Ausserdem übersah die Firma, dass grundlegende Sicherheitsfunktionen bloss Teil eines kostspieligen Add-ons sind, welches die meisten kostenbewussten Fluggesellschaften gar nicht kauften. Und die Flugzeugingenieure von Boeing ignorierten – wahrscheinlich aufgrund eines späten Systemwechsels – das Grundprinzip der Redundanz, mit welcher ein Sensorausfall hätte kompensiert werden können. Selbst als diese Fehler nach dem ersten Unfall bekannt wurden, versäumte es das Unternehmen, die Beteiligten schnell und im Detail zu informieren, um so einen weiteren Unfall zu verhindern."
+    },
+    {
+      "heading": "Wir sind nicht vor solchen Fehlern gefeit",
+      "text": "In meiner Arbeit befasse ich mich mit der Entwicklung einer Reihe von Medizinalgeräten und Software, welche Diagnosen stellen oder sogar Interventionen durchführen können. Zu Forschungszwecken werden diese Geräte derzeit in Kliniken getestet. Fehlfunktionen können da recht schnell fatale Folgen haben."
+    },
+    {
+      "heading": "Referenzen",
+      "text": "Auch in unserem Bereich stehen Mitarbeiter unter Druck, im Fall von Doktorierenden etwa, wenn sie ihre Doktorarbeit möglichst schnell abzuschliessen gedenken oder wenn die befristete Finanzierung endet. Da ist die Versuchung gross, sich nicht immer an Best Practices zu halten. Jedenfalls ist auch der Medizinbereich nicht vor Fehlern gefeit, wie sie Boeing unterliefen. In unserer Branche könnten Fehler sogar zu noch grösseren Verlusten von Menschenleben führen. Leider wären diese Fälle aber wahrscheinlich schwieriger zu erkennen, da sie weltweit auf viele Spitäler verteilt auftreten würden."
+    },
+    {
+      "heading": "Nicht genügend Sicherheitsforschung",
+      "text": "Im Gesundheitssystem der Schweiz und anderer Länder ist der Kostendruck und die schrittweise Kommerzialisierung offensichtlich. Spitäler und Hersteller von Medizinalprodukten spüren den Druck von Politik und Aktionären, Kosten zu senken und Leistungen zu erhöhen.\n\nDigitale Gesundheit und die Erhebung von Gesundheitsdaten aus der Ferne mit Wearables ist Teil fast jeder neuen Gesundheitsinitiative; Automatisierung und künstliche Intelligenz sind die grossen Schlagworte. Es scheint so, als ob die Behörden immer noch überwältigt sind von den neuen Möglichkeiten. Jedenfalls sind sie spät dran mit einer dringend benötigten, eindeutigen Regulierung. Sowohl in der Luftfahrt als auch in der Medizintechnik setzen die Behörden weitgehend auf Herstellerverantwortung und Selbstdeklaration, auch bei branchenfremden Herstellern, die neu in diesem Bereich tätig sind.\n\nWenn ich die Forschungsprojekte in meinem Gebiet anschaue, scheint mir, dass sich nur wenige davon mit Fragen der Sicherheit, Redundanz, Risikobewertung und Benutzerfreundlichkeit befassen. Möglicherweise werden diese ingenieurwissenschaftlichen Themen deswegen oberflächlich behandelt, weil sie als teilweise bereits gut erforscht gelten und einen zu angewandten Charakter haben. Dennoch haben wir jeden Anlass, diese entscheidenden Fragen auch im Bereich Digital Health zu untersuchen.\n\nAber bereiten wir unsere Studenten darauf vor? Oder ermutigen wir sie ausschliesslich, Risiken einzugehen und blind in die nächste Startup-Blase zu springen, bringen ihnen die neusten Data-Crunching-Methoden bei, um den Anforderungen des Arbeitsmarktes zu entsprechen, und trimmen wir unsere Doktoranden einzig darauf, Forschung zu betreiben, welche sich in hochrangigen Fachzeitschriften veröffentlichen lässt?\n\nNach dem Vorbild des Hippokratischen Eides in der Medizin haben Ingenieure vor einigen Jahren den Eid des Archimedes 5 vorgeschlagen. Kurz gesagt geht es darum, für sein Handeln verantwortlich zu sein, keinen Schaden anzurichten und seine Fähigkeiten für das soziale Wohl einzusetzen. Ich glaube, es ist Zeit, diesen Eid des Archimedes wieder aufleben zu lassen. Nicht nur als Schriftstück, das einem mit dem Master-Diplom ausgehändigt wird, sondern als zentraler Teil der Ausbildungs- und Forschungsprogramme an der ETH. Es braucht mehr gut ausgebildete Ingenieure, die stets verantwortungsvoll handeln, und es ist an der Zeit, ihnen in Technologieunternehmen auch für Produktentscheidungen wieder ein grösseres Mitspracherecht zu geben.\n\n1 externe Seite WHO Surgical Safety Checklist\n\n2 externe Seite NFP 75 Big Data\n\n3 Weniger Fehlalarme auf der Intensivstation (ETH-News 23.01.2019)\n\n4 externe Seite Boeing Believed a 737 Max Warning Light Was Standard. It Wasn’t. New York Times, 5. Mai 2019\n\n5 externe Seite https://en.wikipedia.org/wiki/Archimedean_Oath\n\nWalter Karlen Professor für mobile Gesundheitssysteme an der ETH Zürich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Digital Health",
+        "label": "ORG",
+        "start": 30,
+        "end": 44
+      },
+      {
+        "text": "Lion-Air-Fluges",
+        "label": "MISC",
+        "start": 81,
+        "end": 96
+      },
+      {
+        "text": "Ethiopian Airlines",
+        "label": "ORG",
+        "start": 124,
+        "end": 142
+      },
+      {
+        "text": "Max von Boeing",
+        "label": "PER",
+        "start": 184,
+        "end": 198
+      },
+      {
+        "text": "Operation",
+        "label": "MISC",
+        "start": 121,
+        "end": 130
+      },
+      {
+        "text": "WHO",
+        "label": "ORG",
+        "start": 232,
+        "end": 235
+      },
+      {
+        "text": "Unispital Zürich",
+        "label": "ORG",
+        "start": 403,
+        "end": 419
+      },
+      {
+        "text": "engl.",
+        "label": "MISC",
+        "start": 503,
+        "end": 508
+      },
+      {
+        "text": "ICU-Cockpit 2",
+        "label": "MISC",
+        "start": 558,
+        "end": 571
+      },
+      {
+        "text": "Boeing 737 Max",
+        "label": "MISC",
+        "start": 586,
+        "end": 600
+      },
+      {
+        "text": "Boeing",
+        "label": "ORG",
+        "start": 838,
+        "end": 844
+      },
+      {
+        "text": "New York Times",
+        "label": "ORG",
+        "start": 921,
+        "end": 935
+      },
+      {
+        "text": "Zusammenfassend",
+        "label": "PER",
+        "start": 957,
+        "end": 972
+      },
+      {
+        "text": "Boeing",
+        "label": "ORG",
+        "start": 981,
+        "end": 987
+      },
+      {
+        "text": "Boeing",
+        "label": "ORG",
+        "start": 1508,
+        "end": 1514
+      },
+      {
+        "text": "Flugzeug-Handbuch",
+        "label": "MISC",
+        "start": 1534,
+        "end": 1551
+      },
+      {
+        "text": "Boeing",
+        "label": "ORG",
+        "start": 1858,
+        "end": 1864
+      },
+      {
+        "text": "Redundanz",
+        "label": "LOC",
+        "start": 1954,
+        "end": 1963
+      },
+      {
+        "text": "Best Practices",
+        "label": "PER",
+        "start": 252,
+        "end": 266
+      },
+      {
+        "text": "Boeing",
+        "label": "ORG",
+        "start": 351,
+        "end": 357
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 21,
+        "end": 32
+      },
+      {
+        "text": "Kostendruck",
+        "label": "LOC",
+        "start": 60,
+        "end": 71
+      },
+      {
+        "text": "Spitäler",
+        "label": "PER",
+        "start": 128,
+        "end": 136
+      },
+      {
+        "text": "Wearables",
+        "label": "LOC",
+        "start": 340,
+        "end": 349
+      },
+      {
+        "text": "Digital Health",
+        "label": "ORG",
+        "start": 1320,
+        "end": 1334
+      },
+      {
+        "text": "Data-Crunching-Methoden",
+        "label": "MISC",
+        "start": 1535,
+        "end": 1558
+      },
+      {
+        "text": "Hippokratischen Eides",
+        "label": "ORG",
+        "start": 1784,
+        "end": 1805
+      },
+      {
+        "text": "Archimedes 5",
+        "label": "MISC",
+        "start": 1869,
+        "end": 1881
+      },
+      {
+        "text": "soziale",
+        "label": "MISC",
+        "start": 2022,
+        "end": 2029
+      },
+      {
+        "text": "Archimedes",
+        "label": "PER",
+        "start": 2088,
+        "end": 2098
+      },
+      {
+        "text": "Ausbildungs- und Forschungsprogramme",
+        "label": "ORG",
+        "start": 2236,
+        "end": 2272
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2280,
+        "end": 2283
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 2386,
+        "end": 2390
+      },
+      {
+        "text": "Technologieunternehmen",
+        "label": "LOC",
+        "start": 2401,
+        "end": 2423
+      },
+      {
+        "text": "WHO Surgical",
+        "label": "ORG",
+        "start": 2518,
+        "end": 2530
+      },
+      {
+        "text": "NFP",
+        "label": "MISC",
+        "start": 2564,
+        "end": 2567
+      },
+      {
+        "text": "Intensivstation",
+        "label": "MISC",
+        "start": 2609,
+        "end": 2624
+      },
+      {
+        "text": "ETH-News 23.01.2019",
+        "label": "MISC",
+        "start": 2626,
+        "end": 2645
+      },
+      {
+        "text": "Boeing",
+        "label": "ORG",
+        "start": 2663,
+        "end": 2669
+      },
+      {
+        "text": "Max Warning",
+        "label": "PER",
+        "start": 2685,
+        "end": 2696
+      },
+      {
+        "text": "It Wasn",
+        "label": "PER",
+        "start": 2717,
+        "end": 2724
+      },
+      {
+        "text": "’t. New York Times",
+        "label": "MISC",
+        "start": 2724,
+        "end": 2742
+      },
+      {
+        "text": "https://en.wikipedia.org/wiki/Archimedean_Oath",
+        "label": "PER",
+        "start": 2772,
+        "end": 2818
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 2880,
+        "end": 2890
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Archimedes",
+        "Best Practices",
+        "De News",
+        "It Wasn",
+        "Max Warning",
+        "Max von Boeing",
+        "Spitäler",
+        "Zusammenfassend",
+        "https://en.wikipedia.org/wiki/Archimedean_Oath"
+      ],
+      "ORG": [
+        "Ausbildungs- und Forschungsprogramme",
+        "Boeing",
+        "Digital Health",
+        "ETH",
+        "ETH Zürich",
+        "Ethiopian Airlines",
+        "Hippokratischen Eides",
+        "New York Times",
+        "Unispital Zürich",
+        "WHO",
+        "WHO Surgical"
+      ],
+      "LOCATION": [
+        "Kostendruck",
+        "Redundanz",
+        "Technologieunternehmen",
+        "Wearables",
+        "der Schweiz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Archimedes 5",
+        "Boeing 737 Max",
+        "Data-Crunching-Methoden",
+        "ETH-News 23.01.2019",
+        "Flugzeug-Handbuch",
+        "ICU-Cockpit 2",
+        "Intensivstation",
+        "Lion-Air-Fluges",
+        "NFP",
+        "Operation",
+        "Zeit",
+        "engl.",
+        "soziale",
+        "’t. New York Times"
+      ]
+    },
+    "entity_counts": {
+      "Boeing": 6,
+      "Digital Health": 2,
+      "De News": 1,
+      "Lion-Air-Fluges": 1,
+      "Ethiopian Airlines": 1,
+      "Max von Boeing": 1,
+      "Operation": 1,
+      "WHO": 1,
+      "Unispital Zürich": 1,
+      "engl.": 1,
+      "ICU-Cockpit 2": 1,
+      "Boeing 737 Max": 1,
+      "New York Times": 1,
+      "Zusammenfassend": 1,
+      "Flugzeug-Handbuch": 1,
+      "Redundanz": 1,
+      "Best Practices": 1,
+      "der Schweiz": 1,
+      "Kostendruck": 1,
+      "Spitäler": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 39
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "karlen-digital-health-vor-dem-absturz-bewahren.md",
+      "title": "De News Events/2019/05/karlen Digital Health Vor dem Absturz Bewahren",
+      "language": "de",
+      "source_path": "de_news_events/2019/05/karlen-digital-health-vor-dem-absturz-bewahren.html"
+    },
+    "temporal": {
+      "publication_date": "2019-05",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Archimedes",
+        "Best Practices",
+        "De News",
+        "It Wasn",
+        "Max Warning",
+        "Max von Boeing",
+        "Spitäler",
+        "Zusammenfassend",
+        "https://en.wikipedia.org/wiki/Archimedean_Oath"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor",
+        "dean",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Archimedes 5",
+        "Boeing 737 Max",
+        "Data-Crunching-Methoden",
+        "ETH-News 23.01.2019",
+        "Flugzeug-Handbuch",
+        "ICU-Cockpit 2",
+        "Intensivstation",
+        "Lion-Air-Fluges",
+        "Operation",
+        "Zeit",
+        "engl.",
+        "soziale",
+        "’t. New York Times"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "It Wasn",
+        "Digital Health",
+        "Bereich Digital",
+        "Absturz Bewahren",
+        "Surgical Safety",
+        "Seit Wochen",
+        "Zu Forschungszwecken",
+        "Ethiopian Airlines",
+        "Der Fall",
+        "Hippokratischen Eides",
+        "Weniger Fehlalarme",
+        "Startup-Blase",
+        "Data-Crunching",
+        "Walter Karlen",
+        "Big Data",
+        "Master-Diplom",
+        "Um Marketinganforderungen",
+        "Lion-Air",
+        "Digitale Gesundheit",
+        "Max Warning",
+        "Flugzeug-Handbuch",
+        "Light Was",
+        "ETH-News",
+        "Best Practice",
+        "Im Gesundheitssystem",
+        "Seite WHO",
+        "New York",
+        "Seite NFP",
+        "De News",
+        "Seite Boeing",
+        "Grund ICU",
+        "Best Practices"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Ausbildungs- und Forschungsprogramme",
+        "Boeing",
+        "Digital Health",
+        "ETH",
+        "ETH Zürich",
+        "Ethiopian Airlines",
+        "Hippokratischen Eides",
+        "New York Times",
+        "Unispital Zürich",
+        "WHO",
+        "WHO Surgical"
+      ],
+      "locations": [
+        "Kostendruck",
+        "Redundanz",
+        "Technologieunternehmen",
+        "Wearables",
+        "der Schweiz"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Boeing",
+        "Digital Health",
+        "De News",
+        "Lion-Air-Fluges",
+        "Ethiopian Airlines",
+        "Max von Boeing",
+        "Operation",
+        "WHO",
+        "Unispital Zürich",
+        "engl."
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Wir sind nicht vor solchen Fehlern gefeit",
+          "Nicht genügend Sicherheitsforschung",
+          "Wir sind nicht vor solchen Fehlern gefeit",
+          "Referenzen",
+          "Nicht genügend Sicherheitsforschung"
+        ],
+        "content_length": 6622
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Ausbildungs- und Forschungsprogramme",
+        "WHO Surgical",
+        "It Wasn",
+        "Archimedes",
+        "Digital Health",
+        "Boeing",
+        "New York Times",
+        "2019",
+        "Ethiopian Airlines",
+        "ETH Zürich",
+        "Hippokratischen Eides",
+        "Unispital Zürich",
+        "EU",
+        "https://en.wikipedia.org/wiki/Archimedean_Oath",
+        "Max Warning",
+        "Zusammenfassend",
+        "Spitäler",
+        "WHO",
+        "De News",
+        "Max von Boeing",
+        "Best Practices"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "soziale",
+        "when",
+        "Operation",
+        "ETH-News 23.01.2019",
+        "Boeing 737 Max",
+        "medical_research",
+        "Archimedes 5",
+        "who",
+        "Data-Crunching-Methoden",
+        "ICU-Cockpit 2",
+        "Intensivstation",
+        "what",
+        "how",
+        "computer_science",
+        "Flugzeug-Handbuch",
+        "Zeit",
+        "Lion-Air-Fluges",
+        "’t. New York Times",
+        "engl."
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

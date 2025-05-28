@@ -1,0 +1,361 @@
+{
+  "filename": "new-timetable-as-of-january-2017.md",
+  "original_filename": "new-timetable-as-of-january-2017.html",
+  "source_path": "en_internal/2016/12/new-timetable-as-of-january-2017.html",
+  "date": "2016-12",
+  "title": "New Timetable As Of January 2017",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Earlier departure from the main station",
+      "text": "The trial operation for the autumn semester (as reported in Service info, 15.09.2016 ) ends on 23 December. New travel times will apply from Tuesday, 3 January 2017 .\n\nThe current departure times, every 20 minutes at x.14, x.34 and x.54 past the hour, will be supplemented by an extra round during term time . The shuttlebus will now in addition leave “ETH Hönggerberg” for Zentrum at x.44 and, in the opposite direction, depart from the “Unterführung Polyterrasse” at x.04 minutes past the hour."
+    },
+    {
+      "heading": "Earlier departure from the main station",
+      "text": "The above travel times will apply for the whole day, apart from the early morning. As of January 2017, the first three trips of the morning from “Bahnhofplatz/HB” (in front of the Schweizerhof hotel) will start slightly earlier: at 7.06 and 7.36 a.m . The shuttlebus will also set off earlier on its first round from “ETH Hönggerberg” to Zentrum, at 7.06 a.m .\n\nWe have made these changes in the light of the trial operation, in order to fully meet customer needs while ensuring reliability. We are happy that we can now offer an extended service, and thank you for your flexibility regarding the slightly modified early morning timetable.\n\nYou will find more information on the ETH Link webpage."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "January 2017",
+        "label": "DATE",
+        "start": 40,
+        "end": 52
+      },
+      {
+        "text": "the autumn semester",
+        "label": "DATE",
+        "start": 24,
+        "end": 43
+      },
+      {
+        "text": "15.09.2016",
+        "label": "DATE",
+        "start": 74,
+        "end": 84
+      },
+      {
+        "text": "23 December",
+        "label": "DATE",
+        "start": 95,
+        "end": 106
+      },
+      {
+        "text": "Tuesday",
+        "label": "DATE",
+        "start": 141,
+        "end": 148
+      },
+      {
+        "text": "3 January 2017",
+        "label": "DATE",
+        "start": 150,
+        "end": 164
+      },
+      {
+        "text": "every 20 minutes",
+        "label": "TIME",
+        "start": 196,
+        "end": 212
+      },
+      {
+        "text": "x.34",
+        "label": "ORG",
+        "start": 222,
+        "end": 226
+      },
+      {
+        "text": "x.54",
+        "label": "ORG",
+        "start": 231,
+        "end": 235
+      },
+      {
+        "text": "shuttlebus",
+        "label": "ORG",
+        "start": 313,
+        "end": 323
+      },
+      {
+        "text": "ETH Hönggerberg",
+        "label": "PERSON",
+        "start": 352,
+        "end": 367
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 373,
+        "end": 380
+      },
+      {
+        "text": "the “Unterführung Polyterrasse",
+        "label": "ORG",
+        "start": 433,
+        "end": 463
+      },
+      {
+        "text": "x.04 minutes past the hour",
+        "label": "TIME",
+        "start": 468,
+        "end": 494
+      },
+      {
+        "text": "the whole day",
+        "label": "DATE",
+        "start": 38,
+        "end": 51
+      },
+      {
+        "text": "the early morning",
+        "label": "TIME",
+        "start": 64,
+        "end": 81
+      },
+      {
+        "text": "January 2017",
+        "label": "DATE",
+        "start": 89,
+        "end": 101
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 107,
+        "end": 112
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 113,
+        "end": 118
+      },
+      {
+        "text": "Bahnhofplatz/HB",
+        "label": "WORK_OF_ART",
+        "start": 146,
+        "end": 161
+      },
+      {
+        "text": "Schweizerhof",
+        "label": "GPE",
+        "start": 180,
+        "end": 192
+      },
+      {
+        "text": "7.06",
+        "label": "CARDINAL",
+        "start": 232,
+        "end": 236
+      },
+      {
+        "text": "7.36",
+        "label": "CARDINAL",
+        "start": 241,
+        "end": 245
+      },
+      {
+        "text": "shuttlebus",
+        "label": "ORG",
+        "start": 256,
+        "end": 266
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 300,
+        "end": 305
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 338,
+        "end": 345
+      },
+      {
+        "text": "7.06",
+        "label": "CARDINAL",
+        "start": 350,
+        "end": 354
+      },
+      {
+        "text": "early morning",
+        "label": "TIME",
+        "start": 614,
+        "end": 627
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 677,
+        "end": 680
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Hönggerberg",
+        "Zentrum"
+      ],
+      "ORG": [
+        "ETH",
+        "shuttlebus",
+        "the “Unterführung Polyterrasse",
+        "x.34",
+        "x.54"
+      ],
+      "LOCATION": [
+        "Schweizerhof"
+      ],
+      "DATE": [
+        "15.09.2016",
+        "23 December",
+        "3 January 2017",
+        "January 2017",
+        "Tuesday",
+        "early morning",
+        "every 20 minutes",
+        "the autumn semester",
+        "the early morning",
+        "the whole day",
+        "x.04 minutes past the hour"
+      ],
+      "MISC": [
+        "7.06",
+        "7.36",
+        "Bahnhofplatz/HB",
+        "first",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "January 2017": 2,
+      "shuttlebus": 2,
+      "Zentrum": 2,
+      "first": 2,
+      "7.06": 2,
+      "the autumn semester": 1,
+      "15.09.2016": 1,
+      "23 December": 1,
+      "Tuesday": 1,
+      "3 January 2017": 1,
+      "every 20 minutes": 1,
+      "x.34": 1,
+      "x.54": 1,
+      "ETH Hönggerberg": 1,
+      "the “Unterführung Polyterrasse": 1,
+      "x.04 minutes past the hour": 1,
+      "the whole day": 1,
+      "the early morning": 1,
+      "three": 1,
+      "Bahnhofplatz/HB": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-timetable-as-of-january-2017.md",
+      "title": "En Internal/2016/12/new Timetable As Of January 2017",
+      "language": "en",
+      "source_path": "en_internal/2016/12/new-timetable-as-of-january-2017.html"
+    },
+    "temporal": {
+      "publication_date": "2016-12",
+      "mentioned_years": [
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Hönggerberg",
+        "Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "7.06",
+        "7.36",
+        "Bahnhofplatz/HB",
+        "first",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Timetable As",
+        "ETH Link",
+        "Of January",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "shuttlebus",
+        "the “Unterführung Polyterrasse",
+        "x.34",
+        "x.54"
+      ],
+      "locations": [
+        "Schweizerhof"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "January 2017",
+        "shuttlebus",
+        "Zentrum",
+        "first",
+        "7.06",
+        "the autumn semester",
+        "15.09.2016",
+        "23 December",
+        "Tuesday",
+        "3 January 2017"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Earlier departure from the main station",
+          "Earlier departure from the main station"
+        ],
+        "content_length": 1246
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "x.34",
+        "ETH",
+        "ETH Hönggerberg",
+        "2017",
+        "shuttlebus",
+        "x.54",
+        "the “Unterführung Polyterrasse",
+        "2016",
+        "Zentrum"
+      ],
+      "semantic_concepts": [
+        "first",
+        "three",
+        "7.36",
+        "who",
+        "7.06",
+        "Bahnhofplatz/HB",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

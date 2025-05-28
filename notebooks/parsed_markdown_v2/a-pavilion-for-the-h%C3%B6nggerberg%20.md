@@ -1,0 +1,28 @@
+# a-pavilion-for-the-h%C3%B6nggerberg%20.html
+
+**Source:** en_news_events/2014/02/a-pavilion-for-the-h%C3%B6nggerberg%20.html
+
+## A magnet, radiating optimism
+
+The view of the area around the Katzensee lake is bound to become the trademark of the table-service restaurant in future. The Pavillon will be situated right on the hillside that leads down to Zurich-Affoltern. It will be built of wood and glazed on all sides. The timber pavilion will stand on the northern edge of the campus, at the end of Wolfgang Pauli Strasse.
+
+The Pavillon is divided into various different areas: on entering the timber building from the campus, you will find a café and bar on the left and then a bistro. In the centre of the room is the "à la minute" kitchen (food cooked to order). On the right is the main dining room, the "à la carte" restaurant.
+
+The restaurant is being furnished with classic furniture from the Danish architect and designer Hans Wegner (1914-2007), who was renowned for his wooden chairs. The Pavillon is distinctive for its combination of wood and glass and for its white colour scheme. These will make the restaurant seem very light and airy - in keeping with the view - and, according to the jury in the design competition, will create a "harmonious Mediterranean atmosphere" somewhat reminiscent of a brasserie.
+
+## A magnet, radiating optimism
+
+"The Pavillon will create a magnet on the campus, sparkling and bright, and radiating the optimism that characterises ETH Zurich," said Drazenka Dragila-Salis, Director of ETH Buildings, on Monday evening at the preview of the results of the project competition in the HIL Building.
+
+The Pavillon was designed by the Spanish architects Emilio Tuñón Arquitectos , together with Swiss architect and ETH graduate Marceline Ruckstuhl. The jury, chaired by Roman Boutellier, Vice-President for Human Resources and Infrastructure, voted unanimously for their LA.Brasserie project. The Priora general contractors and Hin & Weg catering company are also involved in the project. It beat three other bidding teams in a competition to provide a complete service. The winning team will now handle the planning, construction and operation of the restaurant on behalf of ETH Zurich.
+
+## Replacing the Cheminsula
+
+The new Pavillon restaurant will replace the former lecturers' canteen, the Cheminsula, which closed at the end of 2012. The opening is planned for the start of the autumn semester in 2015. The new restaurant will be open not only to lecturers but also to staff, visitors and students. It will seat 130 people in the dining room. There will also be 20 seats in the bar/bistro section, 30 seats in a separate dining area for private parties and 35 seats outside on a terrace.
+
+The Pavillon is part of the overall site strategy for catering and retailing under which ETH Zurich is restructuring its catering facilities and canteens on the campus and expanding them in the light of the growing numbers of students and staff. For example, at the start of the new semester in February, the Fusion meal & coffee restaurant opened for business.
+
+The four entries from the design competition will be on display from Tuesday, 25.02.2014 until Tuesday, 4.03.2014 in the foyer of the HIL Building on the ETH Zurich Hönggerberg campus (Stefano-Franscini-Platz 5).
+
+The opening hours are: Mon - Fri 8.00-22.00 hrs, Sat 8.00-12.00 hrs.
+

@@ -1,0 +1,145 @@
+{
+  "filename": "storing-and-archiving-data-safely.md",
+  "original_filename": "storing-and-archiving-data-safely.html",
+  "source_path": "en_internal/2018/06/storing-and-archiving-data-safely.html",
+  "date": "2018-06",
+  "title": "Storing And Archiving Data Safely",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Many data storage devices and certain file formats no longer run on your computer after a couple of years. So what is the most effective way to secure data and store it for a long time? ETH Library’s Digital Curation Office to the rescue! For both, data management and long-term archiving. Our new animation provides an overview of the most important services.\n\nInterested? Click here for more details ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Archiving Data",
+        "label": "ORG",
+        "start": 32,
+        "end": 46
+      },
+      {
+        "text": "a couple of years",
+        "label": "DATE",
+        "start": 88,
+        "end": 105
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 186,
+        "end": 199
+      },
+      {
+        "text": "Digital Curation Office",
+        "label": "ORG",
+        "start": 200,
+        "end": 223
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library’s"
+      ],
+      "ORG": [
+        "Archiving Data",
+        "Digital Curation Office"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "a couple of years"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Archiving Data": 1,
+      "a couple of years": 1,
+      "ETH Library’s": 1,
+      "Digital Curation Office": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "storing-and-archiving-data-safely.md",
+      "title": "En Internal/2018/06/storing And Archiving Data Safely",
+      "language": "en",
+      "source_path": "en_internal/2018/06/storing-and-archiving-data-safely.html"
+    },
+    "temporal": {
+      "publication_date": "2018-06",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "And Archiving",
+        "Data Safely",
+        "ETH Library",
+        "Digital Curation",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Archiving Data",
+        "Digital Curation Office"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Archiving Data",
+        "a couple of years",
+        "ETH Library’s",
+        "Digital Curation Office"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 457
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Archiving Data",
+        "Digital Curation Office",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "what"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "filename": "weaving-with-nanothreads.md",
+  "original_filename": "weaving-with-nanothreads.html",
+  "source_path": "en_news_events/2017/08/weaving-with-nanothreads.html",
+  "date": "2017-08",
+  "title": "Weaving With Nanothreads",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Researchers in the group led by Professor Helma Wennemers in the Laboratory for Organic Chemistry, have used their chemical looms to produce a unique molecular nanoweave made from an intertwining organic molecule that threads thanks to its special properties.\n\nMost woven fabrics comprise weft threads and warp threads aligned at right angles to each other. This produces a diaxial weave with much stronger mechanical resistance than the individual threads. Researchers have taken this principle of threads woven at 90° angles and, with the help of metals, applied it to molecular systems in order to produce stable nanomaterials.\n\nProfessor Wennemers and her group have now gone one step further. Together with Professor Klaus Müllen at the MPI for Polymer Research in Mainz, they have produced the first nanoweave that is composed of three strands made purely from organic molecules. To take the analogy of weaving: this molecular weave consists of two warp threads that are overlaid but not entwined, and a weft thread that stitches the weave together. In Japanese basketry, this trihexagonal structure is known as a “kagome” (from Japanese \" kago \", basket, and \" me \", eye).\n\nThe threads of the nanoweave are all made from the same organic building block. This was in turn synthesised by the researchers from three molecular sub-entities. The basis of the building block is a helical-shaped peptide, a so-called oligoproline helix, which is related to collagen, a natural protein. Two perylene-monoimides are attached to each end of the helical-shaped peptide. These disc-shaped molecules are well known for their ability to adhere to each other through so-called p-stacking. These building blocks are ideally preorganized to arrange into long threads.\n\nBut how can these threads be transformed into a triaxial kagome weave? This happens spontaneously when the building blocks are left to cool in solution. The molecules self-assemble, thanks to the ingenious design of the building blocks: The proper length of the oligoproline and the proper gap between the perylene-monoimides produces threads, with alternating up-and-down facing voids. Threads angled at 60 degrees fit into the upper void perfectly, while threads angled at 120 degrees fit the void below. This results in the triaxial kagome weave. At the crossing points of the three threads, the perylene-monoimides prevent shifting within the woven structure. The kagome matrix is clearly recognisable by electron microscopy.\n\n“The perfect interplay between the molecular building blocks allowed us to create a new, self-assembling weave with a fascinating topology,” says Helma Wennemers. “The study also showed that – as in macroscopic woven objects – the “nanoweave” is more robust than the individual threads it is made from.” In addition, the researchers succeeded to deposit metal nanoparticles in the gaps of the weave. The purely organic weave could be used for developing innovative catalysts as well as for applications in sensor technology, or gas storage and purification.\n\nLewandowska U, Zajaczkowski W, Corra S, Tanabe J, Borrmann R, Benetti E, Stappert S, Watanabe K, Ochs N, Schaeublin R, Li C, Yashima E, Pisula W, Müllen K, Wennemers H. A triaxial supramolecular weave. Nature Chemistry 2017. DOI: 10.1038/nchem.2823"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Helma Wennemers",
+        "label": "PERSON",
+        "start": 42,
+        "end": 57
+      },
+      {
+        "text": "the Laboratory for Organic Chemistry",
+        "label": "ORG",
+        "start": 61,
+        "end": 97
+      },
+      {
+        "text": "Wennemers",
+        "label": "PERSON",
+        "start": 640,
+        "end": 649
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 678,
+        "end": 681
+      },
+      {
+        "text": "Klaus Müllen",
+        "label": "PERSON",
+        "start": 720,
+        "end": 732
+      },
+      {
+        "text": "Polymer Research",
+        "label": "ORG",
+        "start": 748,
+        "end": 764
+      },
+      {
+        "text": "Mainz",
+        "label": "GPE",
+        "start": 768,
+        "end": 773
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 798,
+        "end": 803
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 834,
+        "end": 839
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 949,
+        "end": 952
+      },
+      {
+        "text": "Japanese",
+        "label": "NORP",
+        "start": 1057,
+        "end": 1065
+      },
+      {
+        "text": "Japanese",
+        "label": "NORP",
+        "start": 1133,
+        "end": 1141
+      },
+      {
+        "text": "kago",
+        "label": "ORG",
+        "start": 1144,
+        "end": 1148
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1311,
+        "end": 1316
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 1483,
+        "end": 1486
+      },
+      {
+        "text": "60 degrees",
+        "label": "QUANTITY",
+        "start": 2160,
+        "end": 2170
+      },
+      {
+        "text": "120 degrees",
+        "label": "QUANTITY",
+        "start": 2230,
+        "end": 2241
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 2335,
+        "end": 2340
+      },
+      {
+        "text": "Helma Wennemers",
+        "label": "PERSON",
+        "start": 2631,
+        "end": 2646
+      },
+      {
+        "text": "Lewandowska U",
+        "label": "PERSON",
+        "start": 3043,
+        "end": 3056
+      },
+      {
+        "text": "Zajaczkowski W",
+        "label": "PERSON",
+        "start": 3058,
+        "end": 3072
+      },
+      {
+        "text": "Corra S, Tanabe J, Borrmann",
+        "label": "ORG",
+        "start": 3074,
+        "end": 3101
+      },
+      {
+        "text": "Stappert S",
+        "label": "PERSON",
+        "start": 3116,
+        "end": 3126
+      },
+      {
+        "text": "Watanabe K",
+        "label": "PERSON",
+        "start": 3128,
+        "end": 3138
+      },
+      {
+        "text": "Schaeublin",
+        "label": "GPE",
+        "start": 3148,
+        "end": 3158
+      },
+      {
+        "text": "Li C",
+        "label": "PERSON",
+        "start": 3162,
+        "end": 3166
+      },
+      {
+        "text": "Pisula W",
+        "label": "PERSON",
+        "start": 3179,
+        "end": 3187
+      },
+      {
+        "text": "Müllen K",
+        "label": "PERSON",
+        "start": 3189,
+        "end": 3197
+      },
+      {
+        "text": "Wennemers H.",
+        "label": "PERSON",
+        "start": 3199,
+        "end": 3211
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 3273,
+        "end": 3280
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Helma Wennemers",
+        "Klaus Müllen",
+        "Lewandowska U",
+        "Li C",
+        "Müllen K",
+        "Pisula W",
+        "Stappert S",
+        "Watanabe K",
+        "Wennemers",
+        "Wennemers H.",
+        "Zajaczkowski W"
+      ],
+      "ORG": [
+        "Corra S, Tanabe J, Borrmann",
+        "Polymer Research",
+        "kago",
+        "the Laboratory for Organic Chemistry"
+      ],
+      "LOCATION": [
+        "Mainz",
+        "Schaeublin"
+      ],
+      "DATE": [],
+      "MISC": [
+        "10.1038",
+        "120 degrees",
+        "60 degrees",
+        "Japanese",
+        "Two",
+        "first",
+        "one",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "three": 3,
+      "Helma Wennemers": 2,
+      "Japanese": 2,
+      "the Laboratory for Organic Chemistry": 1,
+      "Wennemers": 1,
+      "one": 1,
+      "Klaus Müllen": 1,
+      "Polymer Research": 1,
+      "Mainz": 1,
+      "first": 1,
+      "two": 1,
+      "kago": 1,
+      "Two": 1,
+      "60 degrees": 1,
+      "120 degrees": 1,
+      "Lewandowska U": 1,
+      "Zajaczkowski W": 1,
+      "Corra S, Tanabe J, Borrmann": 1,
+      "Stappert S": 1,
+      "Watanabe K": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "weaving-with-nanothreads.md",
+      "title": "En News Events/2017/08/weaving With Nanothreads",
+      "language": "en",
+      "source_path": "en_news_events/2017/08/weaving-with-nanothreads.html"
+    },
+    "temporal": {
+      "publication_date": "2017-08",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Helma Wennemers",
+        "Klaus Müllen",
+        "Lewandowska U",
+        "Li C",
+        "Müllen K",
+        "Pisula W",
+        "Stappert S",
+        "Watanabe K",
+        "Wennemers",
+        "Wennemers H.",
+        "Zajaczkowski W"
+      ],
+      "people_with_roles": {
+        "Helma Wennemers": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Klaus Müllen": [
+          "Professor",
+          "professor"
+        ],
+        "Wennemers": [
+          "Professor",
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "120 degrees",
+        "60 degrees",
+        "Japanese",
+        "first",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Polymer Research",
+        "Borrmann R",
+        "Nature Chemistry",
+        "Helma Wennemers",
+        "Wennemers H",
+        "Stappert S",
+        "With Nanothreads",
+        "Professor Klaus",
+        "Yashima E",
+        "Zajaczkowski W",
+        "Watanabe K",
+        "Benetti E",
+        "Professor Wennemers",
+        "Professor Helma",
+        "In Japanese",
+        "Lewandowska U",
+        "Li C",
+        "Corra S",
+        "En News",
+        "Tanabe J",
+        "Organic Chemistry",
+        "Pisula W",
+        "Schaeublin R",
+        "Ochs N"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Corra S, Tanabe J, Borrmann",
+        "Polymer Research",
+        "kago",
+        "the Laboratory for Organic Chemistry"
+      ],
+      "locations": [
+        "Mainz",
+        "Schaeublin"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "three",
+        "Helma Wennemers",
+        "Japanese",
+        "the Laboratory for Organic Chemistry",
+        "Wennemers",
+        "one",
+        "Klaus Müllen",
+        "Polymer Research",
+        "Mainz",
+        "first"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 3345
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Zajaczkowski W",
+        "Watanabe K",
+        "Wennemers H.",
+        "kago",
+        "the Laboratory for Organic Chemistry",
+        "Helma Wennemers",
+        "Pisula W",
+        "2017",
+        "EU",
+        "Stappert S",
+        "Wennemers",
+        "Corra S, Tanabe J, Borrmann",
+        "Müllen K",
+        "Lewandowska U",
+        "Klaus Müllen",
+        "Polymer Research",
+        "Li C"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "three",
+        "who",
+        "120 degrees",
+        "10.1038",
+        "Japanese",
+        "chemistry",
+        "60 degrees",
+        "biology",
+        "what",
+        "how",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Helma Wennemers_has_role_Professor",
+        "Helma Wennemers_has_role_researcher",
+        "Helma Wennemers_has_role_professor",
+        "Klaus Müllen_has_role_Professor",
+        "Klaus Müllen_has_role_professor",
+        "Wennemers_has_role_Professor",
+        "Wennemers_has_role_researcher",
+        "Wennemers_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

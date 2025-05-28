@@ -1,0 +1,128 @@
+{
+  "filename": "mendeley-reference-management.md",
+  "original_filename": "mendeley-reference-management.html",
+  "source_path": "en_internal/2014/05/mendeley-reference-management.html",
+  "date": "2014-05",
+  "title": "Mendeley Reference Management",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "It will be demonstrated how to set up a Mendeley user account and how to join the ETH Zurich institutional group. You will also learn for example how to edit projects to include and manage references, incorporate citations and upload and organize PDFs. The presentation will be in German.\n\nMore information and registration"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Mendeley",
+        "label": "ORG",
+        "start": 40,
+        "end": 48
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 82,
+        "end": 92
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 281,
+        "end": 287
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zurich",
+        "Mendeley"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "Mendeley": 1,
+      "ETH Zurich": 1,
+      "German": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mendeley-reference-management.md",
+      "title": "En Internal/2014/05/mendeley Reference Management",
+      "language": "en",
+      "source_path": "en_internal/2014/05/mendeley-reference-management.html"
+    },
+    "temporal": {
+      "publication_date": "2014-05",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "German"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Zurich",
+        "Reference Management",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "Mendeley"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Mendeley",
+        "ETH Zurich",
+        "German"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 373
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "Mendeley",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "what",
+        "German",
+        "how"
+      ],
+      "graph_relations": []
+    }
+  }
+}

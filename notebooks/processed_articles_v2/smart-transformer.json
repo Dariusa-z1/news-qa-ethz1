@@ -1,0 +1,471 @@
+{
+  "filename": "smart-transformer.md",
+  "original_filename": "smart-transformer.html",
+  "source_path": "en_news_events/2018/09/smart-transformer.html",
+  "date": "2018-09",
+  "title": "Smart Transformer",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Switching at extremely high frequencies",
+      "text": "ETH Zurich electrical engineers have developed a smart electronic transformer that works extremely efficiently to transform medium-voltage into low-voltage. Smart transformers of this kind are also much smaller than standard transformers. This makes them particularly suitable for use wherever space is limited or weight must be kept to a minimum, as is the case for instance in rail locomotives.\n\nMost power grids for rail applications supply alternating current at medium-voltage level. The locomotives then step the voltage down to a lower value. “For technical reasons, the lower the frequency of the alternating current, the bigger the transformer required to step the voltage down. And at 16.7 Hertz, the frequency used in rail transport in Switzerland and several other European countries is relatively low,” explains Daniel Rothmund, one of the two doctoral students in ETH Professor Johann Kolar’s group who built the new transformer.\n\nTo get around this size problem, smart transformers have a trick up their sleeve: First, a front-end converter greatly increases the frequency of the alternating current, meaning the transformer itself can be much smaller. Then a subsequent converter produces alternating current at the desired frequency.\n\nRothmund and his colleague Thomas Guillod had to develop many of the components for their transformer themselves, as there are few components available off the shelf for the medium-voltage of 10,000 volts they work with. Components made from silicon carbide that enable extremely fast switching – prototypes manufactured by a U.S. firm – were especially important. Using these, the ETH doctoral students were able to convert medium-voltage to a very high frequency of 75,000 hertz; as a result, the transformer system they built is just one-third the size of previous smart transformers with similar power ratings. And while earlier systems achieved an energy efficiency of around 96 percent, Rothmund and Guillod managed 98 percent – in other words, they were able to halve energy losses from 4 percent to just 2 percent.\n\nTheir research work was conducted as part of the Swiss National Research Programme “Energy Turnaround” (NRP 70), which is focused on researching the technologies needed to implement the country’s Energy Strategy 2050."
+    },
+    {
+      "heading": "Rectifying alternating current",
+      "text": "Rail locomotives are just one of many applications for these new transformers. “Unlike conventional transformers, smart transformers can be controlled,” Rothmund explains. They can be used in future power grids, known as smart grids, to actively manage the distribution of power and balance out fluctuations in electricity generation and demand.\n\nThe new system is capable not only of altering the frequency of the alternating current on the grid, but also of converting alternating current (AC) into direct current (DC). One application might be future large-scale fast charging stations, which can charge several electric vehicles simultaneously. These charging spots could then be connected directly to the existing medium-voltage AC grid, with the efficient compact transformers then stepping the medium-voltage down to the desired voltage. “Batteries are charged using a comparatively low DC voltage,” Rothmund explains, adding: “Compared to the conventional technology, smart transformers have the edge when it comes to producing DC from a medium-voltage AC grid.”\n\nAnother class of large-scale consumer that stands to benefit from this development is data centres. Providing them with more efficient power supply systems would reduce not only their electricity bills but also the amount of waste heat produced, hence minimising the energy required for cooling.\n\nA subsea factory: the new medium-voltage technology could come to play an important role in supplying maintenance robots with electricity. (Visualisations: Forum Energy Technologies)\n\nIronically, the new technology might well do more than ease the turnaround to a new energy economy that is decarbonised and electrified; it could also make it easier to exploit hard-to-reach reserves of fossil fuels. The oil and gas industry is currently working on ways to access offshore deposits located in the deep oceans using subsea factories instead of drilling platforms. These would feature pumps, compressors and robots located on the ocean floor and drawing electricity from an “umbilical cord” stretching several kilometres to land. The new technology means the cables could carry DC, which can be transmitted more efficiently than AC over long distances, while a relatively small converter on the ocean floor could convert the DC into the AC the machines require."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "16.7",
+        "label": "CARDINAL",
+        "start": 694,
+        "end": 698
+      },
+      {
+        "text": "Hertz",
+        "label": "ORG",
+        "start": 699,
+        "end": 704
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 746,
+        "end": 757
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 776,
+        "end": 784
+      },
+      {
+        "text": "Daniel Rothmund",
+        "label": "PERSON",
+        "start": 824,
+        "end": 839
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 841,
+        "end": 844
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 852,
+        "end": 855
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 877,
+        "end": 880
+      },
+      {
+        "text": "Johann Kolar",
+        "label": "PERSON",
+        "start": 891,
+        "end": 903
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 1025,
+        "end": 1030
+      },
+      {
+        "text": "Thomas Guillod",
+        "label": "PERSON",
+        "start": 1276,
+        "end": 1290
+      },
+      {
+        "text": "10,000",
+        "label": "CARDINAL",
+        "start": 1441,
+        "end": 1447
+      },
+      {
+        "text": "U.S.",
+        "label": "GPE",
+        "start": 1575,
+        "end": 1579
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1631,
+        "end": 1634
+      },
+      {
+        "text": "75,000",
+        "label": "CARDINAL",
+        "start": 1717,
+        "end": 1723
+      },
+      {
+        "text": "just one-third",
+        "label": "CARDINAL",
+        "start": 1781,
+        "end": 1795
+      },
+      {
+        "text": "around 96 percent",
+        "label": "PERCENT",
+        "start": 1923,
+        "end": 1940
+      },
+      {
+        "text": "Rothmund",
+        "label": "LOC",
+        "start": 1942,
+        "end": 1950
+      },
+      {
+        "text": "Guillod",
+        "label": "GPE",
+        "start": 1955,
+        "end": 1962
+      },
+      {
+        "text": "98 percent",
+        "label": "PERCENT",
+        "start": 1971,
+        "end": 1981
+      },
+      {
+        "text": "4 percent",
+        "label": "PERCENT",
+        "start": 2043,
+        "end": 2052
+      },
+      {
+        "text": "just 2 percent",
+        "label": "PERCENT",
+        "start": 2056,
+        "end": 2070
+      },
+      {
+        "text": "the Swiss National Research Programme “Energy Turnaround",
+        "label": "ORG",
+        "start": 2117,
+        "end": 2173
+      },
+      {
+        "text": "NRP 70",
+        "label": "LAW",
+        "start": 2176,
+        "end": 2182
+      },
+      {
+        "text": "AC",
+        "label": "ORG",
+        "start": 491,
+        "end": 493
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 521,
+        "end": 524
+      },
+      {
+        "text": "AC",
+        "label": "ORG",
+        "start": 733,
+        "end": 735
+      },
+      {
+        "text": "DC",
+        "label": "GPE",
+        "start": 893,
+        "end": 895
+      },
+      {
+        "text": "DC",
+        "label": "GPE",
+        "start": 1035,
+        "end": 1037
+      },
+      {
+        "text": "AC",
+        "label": "ORG",
+        "start": 1060,
+        "end": 1062
+      },
+      {
+        "text": "several kilometres",
+        "label": "QUANTITY",
+        "start": 2066,
+        "end": 2084
+      },
+      {
+        "text": "DC",
+        "label": "GPE",
+        "start": 2142,
+        "end": 2144
+      },
+      {
+        "text": "AC",
+        "label": "ORG",
+        "start": 2193,
+        "end": 2195
+      },
+      {
+        "text": "DC",
+        "label": "GPE",
+        "start": 2289,
+        "end": 2291
+      },
+      {
+        "text": "AC",
+        "label": "ORG",
+        "start": 2301,
+        "end": 2303
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Daniel Rothmund",
+        "Johann Kolar",
+        "Thomas Guillod"
+      ],
+      "ORG": [
+        "AC",
+        "ETH",
+        "ETH Zurich",
+        "Hertz",
+        "the Swiss National Research Programme “Energy Turnaround"
+      ],
+      "LOCATION": [
+        "DC",
+        "Guillod",
+        "Rothmund",
+        "Switzerland",
+        "U.S."
+      ],
+      "DATE": [],
+      "MISC": [
+        "10,000",
+        "16.7",
+        "4 percent",
+        "75,000",
+        "98 percent",
+        "European",
+        "First",
+        "NRP 70",
+        "One",
+        "around 96 percent",
+        "just 2 percent",
+        "just one-third",
+        "one",
+        "several kilometres",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "AC": 5,
+      "DC": 4,
+      "ETH": 2,
+      "ETH Zurich": 1,
+      "16.7": 1,
+      "Hertz": 1,
+      "Switzerland": 1,
+      "European": 1,
+      "Daniel Rothmund": 1,
+      "one": 1,
+      "two": 1,
+      "Johann Kolar": 1,
+      "First": 1,
+      "Thomas Guillod": 1,
+      "10,000": 1,
+      "U.S.": 1,
+      "75,000": 1,
+      "just one-third": 1,
+      "around 96 percent": 1,
+      "Rothmund": 1
+    },
+    "total_entities": 36,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "smart-transformer.md",
+      "title": "En News Events/2018/09/smart Transformer",
+      "language": "en",
+      "source_path": "en_news_events/2018/09/smart-transformer.html"
+    },
+    "temporal": {
+      "publication_date": "2018-09",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Daniel Rothmund",
+        "Johann Kolar",
+        "Thomas Guillod"
+      ],
+      "people_with_roles": {
+        "Daniel Rothmund": [
+          "student",
+          "professor"
+        ],
+        "Johann Kolar": [
+          "Professor",
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10,000",
+        "16.7",
+        "4 percent",
+        "75,000",
+        "98 percent",
+        "European",
+        "First",
+        "NRP 70",
+        "around 96 percent",
+        "just 2 percent",
+        "just one-third",
+        "several kilometres"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Johann Kolar",
+        "En News",
+        "Energy Turnaround",
+        "Swiss National",
+        "ETH Professor",
+        "Forum Energy",
+        "Transformer ETH",
+        "Research Programme",
+        "Energy Strategy",
+        "Thomas Guillod",
+        "Daniel Rothmund"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AC",
+        "ETH",
+        "ETH Zurich",
+        "Hertz",
+        "the Swiss National Research Programme “Energy Turnaround"
+      ],
+      "locations": [
+        "DC",
+        "Guillod",
+        "Rothmund",
+        "Switzerland",
+        "U.S."
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "AC",
+        "DC",
+        "ETH",
+        "ETH Zurich",
+        "16.7",
+        "Hertz",
+        "Switzerland",
+        "European",
+        "Daniel Rothmund",
+        "one"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Switching at extremely high frequencies",
+          "Rectifying alternating current"
+        ],
+        "content_length": 4664
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "Hertz",
+        "Johann Kolar",
+        "EU",
+        "the Swiss National Research Programme “Energy Turnaround",
+        "ETH Zurich",
+        "AC",
+        "ERC",
+        "Thomas Guillod",
+        "Daniel Rothmund"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "several kilometres",
+        "around 96 percent",
+        "when",
+        "engineering",
+        "10,000",
+        "just 2 percent",
+        "who",
+        "98 percent",
+        "just one-third",
+        "what",
+        "16.7",
+        "75,000",
+        "NRP 70",
+        "4 percent",
+        "European",
+        "First",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Daniel Rothmund_has_role_student",
+        "Daniel Rothmund_has_role_professor",
+        "Johann Kolar_has_role_Professor",
+        "Johann Kolar_has_role_student",
+        "Johann Kolar_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

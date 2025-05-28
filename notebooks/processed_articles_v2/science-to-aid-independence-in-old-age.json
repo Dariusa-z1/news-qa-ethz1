@@ -1,0 +1,535 @@
+{
+  "filename": "science-to-aid-independence-in-old-age.md",
+  "original_filename": "science-to-aid-independence-in-old-age.html",
+  "source_path": "en_news_events/2014/12/science-to-aid-independence-in-old-age.html",
+  "date": "2014-12",
+  "title": "Science To Aid Independence In Old Age",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Last week, the European Institute for Innovation and Technology (EIT) gave the green light for a major project supporting applied research in the field of healthy living and active ageing. ETH Zurich is taking part as an associated partner in the project, called EIT Health, along with more than 140 European companies and research institutes. The project is due to kick off in mid-2015. Further Swiss partners include EPFL and Nestlé.\n\nEIT Health is being financed by Horizon 2020, the EU research programme, which is injecting two billion euros into the project over the next seven years. This makes it one of the largest public research efforts in the field of health in the world. One focus of the project is on sources of chronic illnesses such as various cardiovascular and neurological diseases, cancer and diabetes, states Wolfgang Knecht, one of the two coordinators at ETH Zurich for EIT Health and director of the Neuroscience Center Zurich. The second ETH coordinator for the project is Robert Riener, professor for Sensory-Motor Systems.\n\nThis major project does not concentrate solely on the diseases stated above. The research also focuses on the interface between clinical, technological and economic applications. The aim is to bring products and services to market maturity. By tackling questions such as \"how can one continue to lead an independent life in old age?\" the project seeks to use information and technology to help people be independent for longer in old age. This also saves on health care costs, says Knecht.\n\nThe aim is for the specific sub-projects to be put out to tender within the next year, for which ETH researchers can apply. An international committee will award the projects. \"ETH Zurich's outstanding expertise in nutritional sciences, movement sciences, neurosciences, robotics, computer science, medical engineering, pharmaceutical sciences, cancer and metabolic research and personalised medicine would be a great asset to the project,\" says Knecht with certainty.\n\nEIT Health is set up as a knowledge and innovation community (KIC). EIT already manages three KICs, one of which is active in the field of climate protection and adaptations to climate change (Climate KIC). ETH Zurich is a participant in this KIC. Last week, the EIT announced the development of the fourth and fifth KICs (the fifth will focus on raw materials)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Last week",
+        "label": "DATE",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "the European Institute for Innovation and Technology",
+        "label": "ORG",
+        "start": 11,
+        "end": 63
+      },
+      {
+        "text": "EIT",
+        "label": "ORG",
+        "start": 65,
+        "end": 68
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 189,
+        "end": 199
+      },
+      {
+        "text": "EIT Health",
+        "label": "ORG",
+        "start": 263,
+        "end": 273
+      },
+      {
+        "text": "more than 140",
+        "label": "CARDINAL",
+        "start": 286,
+        "end": 299
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 300,
+        "end": 308
+      },
+      {
+        "text": "mid-2015",
+        "label": "DATE",
+        "start": 378,
+        "end": 386
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 396,
+        "end": 401
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 419,
+        "end": 423
+      },
+      {
+        "text": "Nestlé.",
+        "label": "ORG",
+        "start": 428,
+        "end": 435
+      },
+      {
+        "text": "Horizon 2020",
+        "label": "EVENT",
+        "start": 468,
+        "end": 480
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 486,
+        "end": 488
+      },
+      {
+        "text": "two billion",
+        "label": "CARDINAL",
+        "start": 528,
+        "end": 539
+      },
+      {
+        "text": "the next seven years",
+        "label": "DATE",
+        "start": 568,
+        "end": 588
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 684,
+        "end": 687
+      },
+      {
+        "text": "Wolfgang Knecht",
+        "label": "PERSON",
+        "start": 830,
+        "end": 845
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 847,
+        "end": 850
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 858,
+        "end": 861
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 878,
+        "end": 888
+      },
+      {
+        "text": "EIT Health",
+        "label": "ORG",
+        "start": 893,
+        "end": 903
+      },
+      {
+        "text": "the Neuroscience Center Zurich",
+        "label": "ORG",
+        "start": 920,
+        "end": 950
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 956,
+        "end": 962
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 963,
+        "end": 966
+      },
+      {
+        "text": "Robert Riener",
+        "label": "PERSON",
+        "start": 998,
+        "end": 1011
+      },
+      {
+        "text": "Sensory-Motor Systems",
+        "label": "ORG",
+        "start": 1027,
+        "end": 1048
+      },
+      {
+        "text": "Knecht",
+        "label": "PERSON",
+        "start": 1532,
+        "end": 1538
+      },
+      {
+        "text": "the next year",
+        "label": "DATE",
+        "start": 1612,
+        "end": 1625
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1637,
+        "end": 1640
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 1717,
+        "end": 1729
+      },
+      {
+        "text": "Knecht",
+        "label": "PERSON",
+        "start": 1986,
+        "end": 1992
+      },
+      {
+        "text": "EIT Health",
+        "label": "ORG",
+        "start": 2009,
+        "end": 2019
+      },
+      {
+        "text": "KIC",
+        "label": "ORG",
+        "start": 2071,
+        "end": 2074
+      },
+      {
+        "text": "EIT",
+        "label": "ORG",
+        "start": 2077,
+        "end": 2080
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 2097,
+        "end": 2102
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 2109,
+        "end": 2112
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 2216,
+        "end": 2226
+      },
+      {
+        "text": "KIC",
+        "label": "ORG",
+        "start": 2252,
+        "end": 2255
+      },
+      {
+        "text": "Last week",
+        "label": "DATE",
+        "start": 2257,
+        "end": 2266
+      },
+      {
+        "text": "EIT",
+        "label": "ORG",
+        "start": 2272,
+        "end": 2275
+      },
+      {
+        "text": "fourth",
+        "label": "ORDINAL",
+        "start": 2309,
+        "end": 2315
+      },
+      {
+        "text": "fifth",
+        "label": "ORDINAL",
+        "start": 2320,
+        "end": 2325
+      },
+      {
+        "text": "fifth",
+        "label": "ORDINAL",
+        "start": 2336,
+        "end": 2341
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich's",
+        "Knecht",
+        "Robert Riener",
+        "Wolfgang Knecht"
+      ],
+      "ORG": [
+        "EIT",
+        "EIT Health",
+        "EPFL",
+        "ETH",
+        "ETH Zurich",
+        "EU",
+        "KIC",
+        "Nestlé.",
+        "Sensory-Motor Systems",
+        "the European Institute for Innovation and Technology",
+        "the Neuroscience Center Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Last week",
+        "mid-2015",
+        "the next seven years",
+        "the next year"
+      ],
+      "MISC": [
+        "European",
+        "Horizon 2020",
+        "One",
+        "Swiss",
+        "fifth",
+        "fourth",
+        "more than 140",
+        "one",
+        "second",
+        "three",
+        "two",
+        "two billion"
+      ]
+    },
+    "entity_counts": {
+      "EIT": 3,
+      "ETH Zurich": 3,
+      "EIT Health": 3,
+      "Last week": 2,
+      "one": 2,
+      "ETH": 2,
+      "Knecht": 2,
+      "KIC": 2,
+      "fifth": 2,
+      "the European Institute for Innovation and Technology": 1,
+      "more than 140": 1,
+      "European": 1,
+      "mid-2015": 1,
+      "Swiss": 1,
+      "EPFL": 1,
+      "Nestlé.": 1,
+      "Horizon 2020": 1,
+      "EU": 1,
+      "two billion": 1,
+      "the next seven years": 1
+    },
+    "total_entities": 43,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "science-to-aid-independence-in-old-age.md",
+      "title": "En News Events/2014/12/science To Aid Independence in Old Age",
+      "language": "en",
+      "source_path": "en_news_events/2014/12/science-to-aid-independence-in-old-age.html"
+    },
+    "temporal": {
+      "publication_date": "2014-12",
+      "mentioned_years": [
+        "2014",
+        "2015",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich's",
+        "Knecht",
+        "Robert Riener",
+        "Wolfgang Knecht"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "director",
+          "rector"
+        ],
+        "Knecht": [
+          "director",
+          "rector"
+        ],
+        "Robert Riener": [
+          "professor"
+        ],
+        "Wolfgang Knecht": [
+          "director",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "European",
+        "Horizon 2020",
+        "Swiss",
+        "fifth",
+        "fourth",
+        "more than 140",
+        "second",
+        "three",
+        "two billion"
+      ],
+      "grants_funding": [
+        "EU",
+        "Horizon"
+      ],
+      "projects": [
+        "Wolfgang Knecht",
+        "Sensory-Motor",
+        "En News",
+        "European Institute",
+        "To Aid",
+        "Further Swiss",
+        "Old Age",
+        "Neuroscience Center",
+        "ETH Zurich",
+        "EIT Health",
+        "Robert Riener",
+        "Climate KIC"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Innovation and Technology "
+      ],
+      "institutions": [
+        "EIT",
+        "EIT Health",
+        "EPFL",
+        "ETH",
+        "ETH Zurich",
+        "EU",
+        "KIC",
+        "Nestlé.",
+        "Sensory-Motor Systems",
+        "the European Institute for Innovation and Technology",
+        "the Neuroscience Center Zurich"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "EIT",
+        "ETH Zurich",
+        "EIT Health",
+        "Last week",
+        "one",
+        "ETH",
+        "Knecht",
+        "KIC",
+        "fifth",
+        "the European Institute for Innovation and Technology"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2437
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EPFL",
+        "ETH",
+        "EIT",
+        "2020",
+        "KIC",
+        "Nestlé.",
+        "2014",
+        "ETH Zurich's",
+        "the Neuroscience Center Zurich",
+        "EIT Health",
+        "Robert Riener",
+        "the European Institute for Innovation and Technology",
+        "2015",
+        "Sensory-Motor Systems",
+        "EU",
+        "Wolfgang Knecht",
+        "Knecht",
+        "ETH Zurich",
+        "Horizon"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "more than 140",
+        "who",
+        "Horizon 2020",
+        "two billion",
+        "Swiss",
+        "fourth",
+        "second",
+        "what",
+        "how",
+        "medical_research",
+        "European",
+        "climate_change",
+        "when",
+        "engineering",
+        "fifth"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_director",
+        "ETH Zurich_has_role_rector",
+        "Knecht_has_role_director",
+        "Knecht_has_role_rector",
+        "Robert Riener_has_role_professor",
+        "Wolfgang Knecht_has_role_director",
+        "Wolfgang Knecht_has_role_rector",
+        "research_domain_climate_change",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

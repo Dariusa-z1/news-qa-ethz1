@@ -1,0 +1,589 @@
+{
+  "filename": "eth-is-dancing-with-google-tango.md",
+  "original_filename": "eth-is-dancing-with-google-tango.html",
+  "source_path": "en_news_events/2014/07/eth-is-dancing-with-google-tango.html",
+  "date": "2014-07",
+  "title": "Eth Is Dancing With Google Tango",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Virtual and real world combined",
+      "text": "A smartphone that can navigate you through a shopping centre and straight to the cereal aisle. A device that shows us how a sofa we have not yet purchased will actually look in our living room. Technology that can lead the blind much in the way that guide dogs do today. All of this could soon be a reality. A project group at internet giant Google is working with hardware manufacturers, public research institutions and others to develop this type of mobile device along with the necessary software. ETH professors Marc Pollefeys and Roland Siegwart and their staff are playing a major role in this initiative, codenamed Project Tango.\n\nThe key feature of the new device is its ability to capture the three-dimensional environment in detail and in real time. To do this, it not only has a camera, accelerometer and angular rate sensor like any other smartphone, but is also equipped with a second built-in camera and an infrared light source. The latter projects a pattern invisible to the human eye on to the surroundings that is then captured by one of the two cameras. Using this information and the data from the acceleration and angular rate sensor, the device can then calculate detailed spatial information.\n\nGoogle has already produced prototypes that scientists from ETH Zurich are using for their research and to improve their algorithms. Google has announced that the first device should come on to the market next year; reportedly, it will be a tablet running the Android operating system."
+    },
+    {
+      "heading": "Virtual and real world combined",
+      "text": "“The possibilities of this device and the 3D data it delivers are limitless,” says Roland Siegwart, Professor of Autonomous Systems and Vice President of Research and Corporate Relations at ETH Zurich. “An incredible number of apps could be developed based on this technology. It remains to be seen what these will be.” The device may also open up entirely new possibilities for applications such as computer games. For example, the virtual content of games could be combined on the screen with the real surroundings captured by the camera. Gamers could use their mobile phones to navigate their way through virtually enhanced real environments, with virtual characters and objects moving with them on the screen. This combination of virtual and real worlds might also be useful for interior design visualisations."
+    },
+    {
+      "heading": "Advantages over GPS",
+      "text": "Simon Lynen, PhD student at ETH, maps the streets of Zurich with a prototype helmet-mounted device. (Screenshot: Google ATAP Project Tango)\n\nSimon Lynen, a PhD student in Siegwart’s group, is involved in developing the map function for the Tango device. Using a prototype device mounted on a bicycle helmet, he has mapped the streets of Zurich with this function, showing how the technology can also be used to navigate outdoor routes over many kilometres. “Our technology offers a clear advantage over current GPS technology outdoors too. GPS only provides the location, whereas our technology detects the viewing direction of the cameras,” says Lynen. By way of example, this enables information to be displayed depending on the viewing direction. In addition, the new technology is expected to 10 times more effective than GPS at determining location, at least within the limited scope of existing maps.\n\nThe ability of the device to determine the location in just a fraction of a second after starting the device (or whenever necessary) via comparison with the stored map is also based on ETH expertise. PhD students at ETH are also currently working on a solution that allows the device to capture 3D data from the surroundings when it cannot process the projected infrared pattern – for example, due to intense sunlight. “To do this, the device uses a sequence of ‘normal’ camera images to capture the depth data much in the way we do by moving our heads,” explains Marc Pollefeys, a professor in the Department of Computer Science.\n\nETH Zurich researchers are also interested in how to correct slight location errors that may occur due to measurement inaccuracies. These accumulate when a user travels for extended periods through corridors or on roads, and can result in a difference between the calculated location and the actual location of the mobile device. ETH researchers are now working to correct these errors by making use of the image data stored on the mobile device: if the user returns to a previously visited location, the device will detect this and reset any possible deviation to zero.\n\nPollefeys’s and Siegwart’s groups have already acquired considerable expertise through collecting geometric spatial data from visual information in the course of projects such as sFly for autonomous navigation of flying robots and V-Charge for driverless car parking. Pollefeys and his group have also developed an app that transforms a smartphone into a 3D scanner . “Our proven expertise in this field is probably why Google approached us to work with them on Project Tango,” says Siegwart. Pollefeys adds: “The basis of all these projects are related. Thus, our staff can contribute the knowledge acquired from past projects to Project Tango.”"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 264,
+        "end": 269
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 342,
+        "end": 348
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 502,
+        "end": 505
+      },
+      {
+        "text": "Marc Pollefeys",
+        "label": "PERSON",
+        "start": 517,
+        "end": 531
+      },
+      {
+        "text": "Roland Siegwart",
+        "label": "PERSON",
+        "start": 536,
+        "end": 551
+      },
+      {
+        "text": "Project Tango",
+        "label": "ORG",
+        "start": 623,
+        "end": 636
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 702,
+        "end": 707
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 891,
+        "end": 897
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1049,
+        "end": 1052
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1060,
+        "end": 1063
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 1216,
+        "end": 1222
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1276,
+        "end": 1286
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 1349,
+        "end": 1355
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1379,
+        "end": 1384
+      },
+      {
+        "text": "next year",
+        "label": "DATE",
+        "start": 1421,
+        "end": 1430
+      },
+      {
+        "text": "Android",
+        "label": "ORG",
+        "start": 1476,
+        "end": 1483
+      },
+      {
+        "text": "3D",
+        "label": "ORG",
+        "start": 42,
+        "end": 44
+      },
+      {
+        "text": "Roland Siegwart",
+        "label": "PERSON",
+        "start": 83,
+        "end": 98
+      },
+      {
+        "text": "Autonomous Systems",
+        "label": "ORG",
+        "start": 113,
+        "end": 131
+      },
+      {
+        "text": "Simon Lynen",
+        "label": "PERSON",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 53,
+        "end": 59
+      },
+      {
+        "text": "Simon Lynen",
+        "label": "PERSON",
+        "start": 140,
+        "end": 151
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 155,
+        "end": 158
+      },
+      {
+        "text": "Siegwart",
+        "label": "ORG",
+        "start": 170,
+        "end": 178
+      },
+      {
+        "text": "Tango",
+        "label": "ORG",
+        "start": 239,
+        "end": 244
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 336,
+        "end": 342
+      },
+      {
+        "text": "over many kilometres",
+        "label": "QUANTITY",
+        "start": 434,
+        "end": 454
+      },
+      {
+        "text": "Lynen",
+        "label": "PERSON",
+        "start": 646,
+        "end": 651
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 982,
+        "end": 988
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1091,
+        "end": 1094
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 1106,
+        "end": 1109
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1122,
+        "end": 1125
+      },
+      {
+        "text": "3D",
+        "label": "ORG",
+        "start": 1201,
+        "end": 1203
+      },
+      {
+        "text": "Marc Pollefeys",
+        "label": "PERSON",
+        "start": 1470,
+        "end": 1484
+      },
+      {
+        "text": "the Department of Computer Science",
+        "label": "ORG",
+        "start": 1501,
+        "end": 1535
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1537,
+        "end": 1547
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1867,
+        "end": 1870
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 2102,
+        "end": 2106
+      },
+      {
+        "text": "Pollefeys’s",
+        "label": "ORG",
+        "start": 2108,
+        "end": 2119
+      },
+      {
+        "text": "Siegwart",
+        "label": "ORG",
+        "start": 2124,
+        "end": 2132
+      },
+      {
+        "text": "sFly",
+        "label": "ORG",
+        "start": 2287,
+        "end": 2291
+      },
+      {
+        "text": "3D",
+        "label": "ORG",
+        "start": 2463,
+        "end": 2465
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 2528,
+        "end": 2534
+      },
+      {
+        "text": "Project Tango",
+        "label": "ORG",
+        "start": 2570,
+        "end": 2583
+      },
+      {
+        "text": "Siegwart",
+        "label": "PERSON",
+        "start": 2591,
+        "end": 2599
+      },
+      {
+        "text": "Project Tango",
+        "label": "ORG",
+        "start": 2739,
+        "end": 2752
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Lynen",
+        "Marc Pollefeys",
+        "Roland Siegwart",
+        "Siegwart",
+        "Simon Lynen"
+      ],
+      "ORG": [
+        "3D",
+        "Android",
+        "Autonomous Systems",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Google",
+        "Pollefeys’s",
+        "Project Tango",
+        "Siegwart",
+        "Tango",
+        "sFly",
+        "the Department of Computer Science"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "next year",
+        "today"
+      ],
+      "MISC": [
+        "PhD",
+        "first",
+        "one",
+        "over many kilometres",
+        "second",
+        "three",
+        "two",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "Google": 4,
+      "Project Tango": 3,
+      "3D": 3,
+      "PhD": 3,
+      "Siegwart": 3,
+      "Marc Pollefeys": 2,
+      "Roland Siegwart": 2,
+      "second": 2,
+      "ETH Zurich": 2,
+      "Simon Lynen": 2,
+      "Zurich": 2,
+      "En News": 1,
+      "today": 1,
+      "three": 1,
+      "one": 1,
+      "two": 1,
+      "first": 1,
+      "next year": 1,
+      "Android": 1
+    },
+    "total_entities": 49,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-is-dancing-with-google-tango.md",
+      "title": "En News Events/2014/07/eth Is Dancing With Google Tango",
+      "language": "en",
+      "source_path": "en_news_events/2014/07/eth-is-dancing-with-google-tango.html"
+    },
+    "temporal": {
+      "publication_date": "2014-07",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Lynen",
+        "Marc Pollefeys",
+        "Roland Siegwart",
+        "Siegwart",
+        "Simon Lynen"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "president",
+          "scientist",
+          "professor",
+          "researcher"
+        ],
+        "Lynen": [
+          "student"
+        ],
+        "Marc Pollefeys": [
+          "head",
+          "professor"
+        ],
+        "Roland Siegwart": [
+          "president",
+          "professor"
+        ],
+        "Siegwart": [
+          "president",
+          "student",
+          "professor"
+        ],
+        "Simon Lynen": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "head",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "first",
+        "over many kilometres",
+        "second",
+        "three",
+        "zero"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Tango A",
+        "Marc Pollefeys",
+        "Autonomous Systems",
+        "Computer Science",
+        "Vice President",
+        "En News",
+        "Simon Lynen",
+        "With Google",
+        "Corporate Relations",
+        "Is Dancing",
+        "Google ATAP",
+        "Roland Siegwart",
+        "ETH Zurich",
+        "V-Charge",
+        "Project Tango"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Computer Science"
+      ],
+      "institutions": [
+        "3D",
+        "Android",
+        "Autonomous Systems",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Google",
+        "Pollefeys’s",
+        "Project Tango",
+        "Siegwart",
+        "Tango",
+        "sFly",
+        "the Department of Computer Science"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Google",
+        "Project Tango",
+        "3D",
+        "PhD",
+        "Siegwart",
+        "Marc Pollefeys",
+        "Roland Siegwart",
+        "second",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Virtual and real world combined",
+          "Virtual and real world combined",
+          "Advantages over GPS"
+        ],
+        "content_length": 5133
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Marc Pollefeys",
+        "Autonomous Systems",
+        "ETH",
+        "Siegwart",
+        "Google",
+        "2014",
+        "Simon Lynen",
+        "Lynen",
+        "En News",
+        "Android",
+        "Tango",
+        "Roland Siegwart",
+        "3D",
+        "sFly",
+        "Pollefeys’s",
+        "ETH Zurich",
+        "Project Tango",
+        "the Department of Computer Science"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "over many kilometres",
+        "zero",
+        "three",
+        "who",
+        "what",
+        "second",
+        "how",
+        "computer_science",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_president",
+        "ETH Zurich_has_role_scientist",
+        "ETH Zurich_has_role_professor",
+        "ETH Zurich_has_role_researcher",
+        "Lynen_has_role_student",
+        "Marc Pollefeys_has_role_head",
+        "Marc Pollefeys_has_role_professor",
+        "Roland Siegwart_has_role_president",
+        "Roland Siegwart_has_role_professor",
+        "Siegwart_has_role_president",
+        "Siegwart_has_role_student",
+        "Siegwart_has_role_professor",
+        "Simon Lynen_has_role_student",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "filename": "molecular-cooperation-at-the-threshold-of-life.md",
+  "original_filename": "molecular-cooperation-at-the-threshold-of-life.html",
+  "source_path": "en_news_events/2023/11/molecular-cooperation-at-the-threshold-of-life.html",
+  "date": "2023-11",
+  "title": "Molecular Cooperation At The Threshold Of Life",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- Amyloids may be among the first larger precursor molecules of life.\n\n- They are able to bind to RNA and DNA molecules and thereby stabilise them, as researchers at ETH Zurich have now been able to show.\n\n- The sequence of the nucleotides in the genetic material has an effect on how it binds with the amyloids. This could provide clues as to how the genetic code developed over the course of evolution."
+    },
+    {
+      "heading": "Justifying hypotheses with experimental data",
+      "text": "How organisms develop from inanimate matter is one of the biggest questions in science. Although many possible explanations have been proposed, there are no definitive answers. That’s no surprise: these processes took place three to four billion years ago, when the conditions on Earth were completely different from today."
+    },
+    {
+      "heading": "Justifying hypotheses with experimental data",
+      "text": "“Over this vast period of time, evolution has thoroughly obliterated the traces that lead back to the origins of life,” says Roland Riek, Professor of Physical Chemistry and Associate Director of ETH Zurich’s new interdisciplinary Centre for Origin and Prevalence of Life. Science has no choice but to formulate hypotheses – and to substantiate them as thoroughly as possible with experimental data.\n\nFor years, Riek and his team have been pursuing the idea that protein-like aggregates, known as amyloids, might have played an important role in the transition between chemistry and biology. Riek’s research group’s first step was to demonstrate that such amyloids can be formed relatively easily under the conditions that probably prevailed on the early Earth: in the laboratory, all it takes is a little volcanic gas (as well as experimental skill and a lot of patience) for simple amino acids to combine into short peptide chains, which then spontaneously assemble into fibres (see ETH News )."
+    },
+    {
+      "heading": "Precursor molecules of life",
+      "text": "Later, Riek’s team demonstrated that amyloids can replicate themselves (see ETH News ) – which means that the molecules fulfil another decisive criterion for being considered precursor molecules of life. And now the researchers have taken the same line for a third time with their latest study, in which they show that amyloids are able to bind with molecules of both RNA and DNA."
+    },
+    {
+      "heading": "Reference",
+      "text": "These interactions are partly based on electrostatic attraction, since some amyloids are – at least in places – positively charged, while the genetic material carries a negative charge, at least in a neutral to acidic environment. However, Riek and his team have also noticed that the interactions also depend on the sequence of the RNA and DNA nucleotides in the genetic material. This means they might represent a kind of precursor to the universal genetic code that unites all living beings.\n\nAnd yet: “Although we see differences in how the RNA and DNA molecules bind with the amyloids, we don’t yet understand what these differences mean,” Riek says. “Our model is probably still too simple.” That’s why he sees another aspect of the results as particularly important: when the genetic material attaches itself to amyloids, both molecules gain stability. In ancient times, this increased stability may have proved to be a great advantage.\n\nThis is because back then, in the so-called primordial soup, biochemical molecules were very dilute. Contrast this with today’s biological cells, within which these molecules are tightly packed together. “Amyloids have the proven potential to increase the local concentration and order of nucleotides in an otherwise dilute disordered system,” write Riek’s researchers in their recently published article.\n\nRiek points out that although competition is central to Darwin’s theory of evolution, cooperation has also played a major evolutionary role. Both classes of molecules benefit from the stabilising interaction between amyloids and RNA or DNA molecules because long-lived molecules accumulate more strongly over time than unstable substances. It may even be that molecular cooperation, rather than competition, was the decisive factor in the emergence of life. “After all, there was likely no shortage of space or resources back then,” Riek says.\n\nRout SK, Cadalbert R, Schröder N, Wang J, Zehnder J, Gampp O, Wiegand T, Güntert P, Klingler D, Kreutz C, Knörlein A, Hall J, Greenwald J, and Riek R. An Analysis of Nucleotide-Amyloid Interactions Reveals Selective Binding to Codon-Sized RNA. Journal of the American Chemical Society 2023, 145: 21915, doi: 10.1021/jacs.3c06287"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 28,
+        "end": 33
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 97,
+        "end": 100
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 165,
+        "end": 175
+      },
+      {
+        "text": "three to four billion years ago",
+        "label": "MONEY",
+        "start": 224,
+        "end": 255
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 280,
+        "end": 285
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 317,
+        "end": 322
+      },
+      {
+        "text": "Roland Riek",
+        "label": "PERSON",
+        "start": 125,
+        "end": 136
+      },
+      {
+        "text": "Physical Chemistry",
+        "label": "ORG",
+        "start": 151,
+        "end": 169
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 196,
+        "end": 208
+      },
+      {
+        "text": "Centre for Origin and Prevalence of Life",
+        "label": "ORG",
+        "start": 231,
+        "end": 271
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 404,
+        "end": 409
+      },
+      {
+        "text": "Riek",
+        "label": "PERSON",
+        "start": 411,
+        "end": 415
+      },
+      {
+        "text": "Riek",
+        "label": "PERSON",
+        "start": 591,
+        "end": 595
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 615,
+        "end": 620
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 754,
+        "end": 759
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 984,
+        "end": 992
+      },
+      {
+        "text": "Riek",
+        "label": "PERSON",
+        "start": 7,
+        "end": 11
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 76,
+        "end": 84
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 259,
+        "end": 264
+      },
+      {
+        "text": "Riek",
+        "label": "PERSON",
+        "start": 240,
+        "end": 244
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 333,
+        "end": 336
+      },
+      {
+        "text": "Riek",
+        "label": "PERSON",
+        "start": 644,
+        "end": 648
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1063,
+        "end": 1068
+      },
+      {
+        "text": "Riek",
+        "label": "PERSON",
+        "start": 1293,
+        "end": 1297
+      },
+      {
+        "text": "Darwin",
+        "label": "PERSON",
+        "start": 1405,
+        "end": 1411
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 1578,
+        "end": 1581
+      },
+      {
+        "text": "Riek",
+        "label": "PERSON",
+        "start": 1882,
+        "end": 1886
+      },
+      {
+        "text": "Cadalbert",
+        "label": "PERSON",
+        "start": 1902,
+        "end": 1911
+      },
+      {
+        "text": "Schröder N",
+        "label": "ORG",
+        "start": 1915,
+        "end": 1925
+      },
+      {
+        "text": "Wang J",
+        "label": "PERSON",
+        "start": 1927,
+        "end": 1933
+      },
+      {
+        "text": "Zehnder J",
+        "label": "PERSON",
+        "start": 1935,
+        "end": 1944
+      },
+      {
+        "text": "Güntert P",
+        "label": "PERSON",
+        "start": 1966,
+        "end": 1975
+      },
+      {
+        "text": "Knörlein",
+        "label": "PERSON",
+        "start": 1999,
+        "end": 2007
+      },
+      {
+        "text": "Greenwald J",
+        "label": "PERSON",
+        "start": 2019,
+        "end": 2030
+      },
+      {
+        "text": "Riek R. An Analysis",
+        "label": "PERSON",
+        "start": 2036,
+        "end": 2055
+      },
+      {
+        "text": "Codon-Sized RNA",
+        "label": "ORG",
+        "start": 2120,
+        "end": 2135
+      },
+      {
+        "text": "the American Chemical Society 2023",
+        "label": "ORG",
+        "start": 2148,
+        "end": 2182
+      },
+      {
+        "text": "10.1021",
+        "label": "CARDINAL",
+        "start": 2201,
+        "end": 2208
+      },
+      {
+        "text": "jacs.3c06287",
+        "label": "GPE",
+        "start": 2209,
+        "end": 2221
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Cadalbert",
+        "Darwin",
+        "ETH Zurich’s",
+        "Greenwald J",
+        "Güntert P",
+        "Knörlein",
+        "Riek",
+        "Riek R. An Analysis",
+        "Roland Riek",
+        "Wang J",
+        "Zehnder J"
+      ],
+      "ORG": [
+        "Centre for Origin and Prevalence of Life",
+        "Codon-Sized RNA",
+        "ETH News",
+        "ETH Zurich",
+        "Physical Chemistry",
+        "RNA",
+        "Schröder N",
+        "the American Chemical Society 2023"
+      ],
+      "LOCATION": [
+        "Earth",
+        "jacs.3c06287"
+      ],
+      "DATE": [
+        "today",
+        "years"
+      ],
+      "MISC": [
+        "10.1021",
+        "first",
+        "third",
+        "three to four billion years ago"
+      ]
+    },
+    "entity_counts": {
+      "Riek": 7,
+      "RNA": 3,
+      "first": 2,
+      "Earth": 2,
+      "today": 2,
+      "ETH News": 2,
+      "ETH Zurich": 1,
+      "three to four billion years ago": 1,
+      "Roland Riek": 1,
+      "Physical Chemistry": 1,
+      "ETH Zurich’s": 1,
+      "Centre for Origin and Prevalence of Life": 1,
+      "years": 1,
+      "third": 1,
+      "Darwin": 1,
+      "Cadalbert": 1,
+      "Schröder N": 1,
+      "Wang J": 1,
+      "Zehnder J": 1,
+      "Güntert P": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "molecular-cooperation-at-the-threshold-of-life.md",
+      "title": "En News Events/2023/11/molecular Cooperation At The Threshold Of Life",
+      "language": "en",
+      "source_path": "en_news_events/2023/11/molecular-cooperation-at-the-threshold-of-life.html"
+    },
+    "temporal": {
+      "publication_date": "2023-11",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Cadalbert",
+        "Darwin",
+        "ETH Zurich’s",
+        "Greenwald J",
+        "Güntert P",
+        "Knörlein",
+        "Riek",
+        "Riek R. An Analysis",
+        "Roland Riek",
+        "Wang J",
+        "Zehnder J"
+      ],
+      "people_with_roles": {
+        "ETH Zurich’s": [
+          "professor",
+          "director",
+          "rector"
+        ],
+        "Riek": [
+          "professor",
+          "director",
+          "researcher",
+          "rector"
+        ],
+        "Roland Riek": [
+          "professor",
+          "director",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology",
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1021",
+        "first",
+        "third",
+        "three to four billion years ago"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Roland Riek",
+        "Rout SK",
+        "Wiegand T",
+        "Gampp O",
+        "Riek R",
+        "Interactions Reveals",
+        "Associate Director",
+        "Greenwald J",
+        "The Threshold",
+        "Zehnder J",
+        "Nucleotide-Amyloid",
+        "Kreutz C",
+        "American Chemical",
+        "ETH News",
+        "Of Life",
+        "An Analysis",
+        "Codon-Sized",
+        "Cooperation At",
+        "En News",
+        "Hall J",
+        "Wang J",
+        "Cadalbert R",
+        "Physical Chemistry",
+        "Selective Binding",
+        "Klingler D",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Centre for Origin and Prevalence of Life",
+        "Codon-Sized RNA",
+        "ETH News",
+        "ETH Zurich",
+        "Physical Chemistry",
+        "RNA",
+        "Schröder N",
+        "the American Chemical Society 2023"
+      ],
+      "locations": [
+        "Earth",
+        "jacs.3c06287"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Riek",
+        "RNA",
+        "first",
+        "Earth",
+        "today",
+        "ETH News",
+        "ETH Zurich",
+        "three to four billion years ago",
+        "Roland Riek",
+        "Physical Chemistry"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "In brief",
+          "Justifying hypotheses with experimental data",
+          "Justifying hypotheses with experimental data",
+          "Precursor molecules of life",
+          "Reference"
+        ],
+        "content_length": 4402
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Riek",
+        "Roland Riek",
+        "the American Chemical Society 2023",
+        "Darwin",
+        "Centre for Origin and Prevalence of Life",
+        "ETH Zurich’s",
+        "Cadalbert",
+        "Greenwald J",
+        "RNA",
+        "Zehnder J",
+        "Codon-Sized RNA",
+        "EU",
+        "Güntert P",
+        "ETH News",
+        "Schröder N",
+        "Riek R. An Analysis",
+        "Wang J",
+        "Physical Chemistry",
+        "ETH Zurich",
+        "Knörlein",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "first",
+        "third",
+        "who",
+        "chemistry",
+        "three to four billion years ago",
+        "biology",
+        "10.1021",
+        "what",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich’s_has_role_professor",
+        "ETH Zurich’s_has_role_director",
+        "ETH Zurich’s_has_role_rector",
+        "Riek_has_role_professor",
+        "Riek_has_role_director",
+        "Riek_has_role_researcher",
+        "Riek_has_role_rector",
+        "Roland Riek_has_role_professor",
+        "Roland Riek_has_role_director",
+        "Roland Riek_has_role_rector",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

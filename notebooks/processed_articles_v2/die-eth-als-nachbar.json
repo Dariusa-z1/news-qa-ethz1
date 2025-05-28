@@ -1,0 +1,224 @@
+{
+  "filename": "die-eth-als-nachbar.md",
+  "original_filename": "die-eth-als-nachbar.html",
+  "source_path": "en_internal/2017/06/die-eth-als-nachbar.html",
+  "date": "2017-06",
+  "title": "Die Eth Als Nachbar",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH had two stands at the festival this year, showing visitors a number of different projects. There was a lot going on at Rigiplatz with the famous Swiss comic-book hero Globi – souvenir photos, autographs and painting activities offered fun for people of all ages. An app from the Game Technology Center even brought Globi and other cartoon characters to life in 3D.\n\nThe market stall almost at the other end of the street festival provided space for hobby gardeners. The Zurich–Basel Plant Science Center’s citizen science initiative deals with the question of whether Zurich's wild plant population is viable in the long term, and whether gene flow occurs between the different populations. The goal of the project is to show that the city air is filled with plant seeds that very quickly repopulate every available piece of ground. At the community festival, volunteers were given boxes to fill with sterilised soil and place somewhere in the city – in their garden or front yard, at a school, on a balcony – so that they can observe which plant seeds will populate the open space."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Eth Als Nachbar",
+        "label": "PERSON",
+        "start": 24,
+        "end": 39
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 35,
+        "end": 44
+      },
+      {
+        "text": "Rigiplatz",
+        "label": "GPE",
+        "start": 123,
+        "end": 132
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 149,
+        "end": 154
+      },
+      {
+        "text": "Globi",
+        "label": "ORG",
+        "start": 171,
+        "end": 176
+      },
+      {
+        "text": "the Game Technology Center",
+        "label": "ORG",
+        "start": 279,
+        "end": 305
+      },
+      {
+        "text": "Globi",
+        "label": "GPE",
+        "start": 319,
+        "end": 324
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 473,
+        "end": 479
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 571,
+        "end": 577
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Eth Als Nachbar"
+      ],
+      "ORG": [
+        "ETH",
+        "Globi",
+        "the Game Technology Center"
+      ],
+      "LOCATION": [
+        "Globi",
+        "Rigiplatz",
+        "Zurich"
+      ],
+      "DATE": [
+        "this year"
+      ],
+      "MISC": [
+        "Swiss",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Globi": 2,
+      "Zurich": 2,
+      "Eth Als Nachbar": 1,
+      "ETH": 1,
+      "two": 1,
+      "this year": 1,
+      "Rigiplatz": 1,
+      "Swiss": 1,
+      "the Game Technology Center": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "die-eth-als-nachbar.md",
+      "title": "En Internal/2017/06/die Eth Als Nachbar",
+      "language": "en",
+      "source_path": "en_internal/2017/06/die-eth-als-nachbar.html"
+    },
+    "temporal": {
+      "publication_date": "2017-06",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Eth Als Nachbar"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Swiss"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Zurich",
+        "Science Center",
+        "En Internal",
+        "Basel Plant",
+        "Game Technology",
+        "Nachbar ETH",
+        "Eth Als"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Globi",
+        "the Game Technology Center"
+      ],
+      "locations": [
+        "Globi",
+        "Rigiplatz",
+        "Zurich"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Globi",
+        "Zurich",
+        "Eth Als Nachbar",
+        "ETH",
+        "two",
+        "this year",
+        "Rigiplatz",
+        "Swiss",
+        "the Game Technology Center"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1126
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2017",
+        "the Game Technology Center",
+        "Globi",
+        "Eth Als Nachbar"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Swiss",
+        "what",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

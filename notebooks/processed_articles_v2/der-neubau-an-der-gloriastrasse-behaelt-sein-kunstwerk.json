@@ -1,0 +1,259 @@
+{
+  "filename": "der-neubau-an-der-gloriastrasse-behaelt-sein-kunstwerk.md",
+  "original_filename": "der-neubau-an-der-gloriastrasse-behaelt-sein-kunstwerk.html",
+  "source_path": "de_internal/2015/08/der-neubau-an-der-gloriastrasse-behaelt-sein-kunstwerk.html",
+  "date": "2015-08",
+  "title": "Der Neubau An Der Gloriastrasse Behaelt Sein Kunstwerk",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "An der Gloriastrasse wird die ETH Zürich bis 2020 den Neubau GLC für die medizintechnische Forschung und Anwendung errichten. In dem Gebäude werden Räume für die Departemente Health Science and Technology ( D-HEST ) und Informationstechnologie und Elektrotechnik ( D-ITET ) eingerichtet, die auch für die Zusammenarbeit mit der Industrie, der Universität Zürich und den Spitälern genutzt werden können.\n\nGebaut wird das GLC auf dem Grundstück der ehemaligen Versuchsanstalt für Wasserbau, Hydrologie und Glaziologie und dem Annexbau ETZ (Gloriabar). Mit den Abbrucharbeiten ist die erste Phase des Baurojekts bereits eingeleitet.\n\nÜber das GLC-Projekt orientiert der Infrastrukturbreich Immobilen auf der Webseite www.ethz.ch/glc .\n\nDa der Annexbau des ETZ-Gebäudes während des GLC-Neubauprojekts abgerissen wird und sich die Eingangssituation verändert, kam auch die Frage auf, wie es mit der Sichtbeton-Skulptur des Schweizer Künstlers Fredi Thalmann weitergeht, die heute vor dem ETZ steht. Während der Überarbeitung des Projekts hat sich nun gezeigt, dass es eine Möglichkeit gibt, die Plastik in den Neubau zu integrieren.\n\nDas Kunstwerk bleibt an seinem angestammten Platz, wird aber quasi umgenutzt: Das Betonmonument dient als Trennelement, um einen Niveauunterschied zwischen den Gebäuden aufzunehmen.\n\nZudem trägt das Kunstwerk zur Identifikation des Ortes bei und ist deshalb erhaltenswert. Insofern sich damit die Umgebung der Skulptur verändern wird, diskutiert die Bauprojektleitung derzeit mit dem Künstler darüber, wie genau das Kunstwerk in Zukunft in den Neubau inegriert werden wird."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/08/der Neubau",
+        "label": "LOC",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 30,
+        "end": 40
+      },
+      {
+        "text": "GLC",
+        "label": "ORG",
+        "start": 61,
+        "end": 64
+      },
+      {
+        "text": "D-HEST",
+        "label": "ORG",
+        "start": 207,
+        "end": 213
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 343,
+        "end": 361
+      },
+      {
+        "text": "GLC",
+        "label": "ORG",
+        "start": 419,
+        "end": 422
+      },
+      {
+        "text": "Versuchsanstalt für Wasserbau, Hydrologie und Glaziologie",
+        "label": "ORG",
+        "start": 457,
+        "end": 514
+      },
+      {
+        "text": "ETZ",
+        "label": "LOC",
+        "start": 532,
+        "end": 535
+      },
+      {
+        "text": "Infrastrukturbreich Immobilen",
+        "label": "MISC",
+        "start": 665,
+        "end": 694
+      },
+      {
+        "text": "ETZ-Gebäudes",
+        "label": "MISC",
+        "start": 750,
+        "end": 762
+      },
+      {
+        "text": "GLC-Neubauprojekts",
+        "label": "MISC",
+        "start": 775,
+        "end": 793
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 915,
+        "end": 924
+      },
+      {
+        "text": "Fredi Thalmann",
+        "label": "PER",
+        "start": 935,
+        "end": 949
+      },
+      {
+        "text": "ETZ",
+        "label": "LOC",
+        "start": 980,
+        "end": 983
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fredi Thalmann"
+      ],
+      "ORG": [
+        "D-HEST",
+        "ETH Zürich",
+        "GLC",
+        "Universität Zürich",
+        "Versuchsanstalt für Wasserbau, Hydrologie und Glaziologie"
+      ],
+      "LOCATION": [
+        "De Internal/2015/08/der Neubau",
+        "ETZ"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETZ-Gebäudes",
+        "GLC-Neubauprojekts",
+        "Infrastrukturbreich Immobilen",
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "GLC": 2,
+      "ETZ": 2,
+      "De Internal/2015/08/der Neubau": 1,
+      "ETH Zürich": 1,
+      "D-HEST": 1,
+      "Universität Zürich": 1,
+      "Versuchsanstalt für Wasserbau, Hydrologie und Glaziologie": 1,
+      "Infrastrukturbreich Immobilen": 1,
+      "ETZ-Gebäudes": 1,
+      "GLC-Neubauprojekts": 1,
+      "Schweizer": 1,
+      "Fredi Thalmann": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "der-neubau-an-der-gloriastrasse-behaelt-sein-kunstwerk.md",
+      "title": "De Internal/2015/08/der Neubau an der Gloriastrasse Behaelt Sein Kunstwerk",
+      "language": "de",
+      "source_path": "de_internal/2015/08/der-neubau-an-der-gloriastrasse-behaelt-sein-kunstwerk.html"
+    },
+    "temporal": {
+      "publication_date": "2015-08",
+      "mentioned_years": [
+        "2015",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Fredi Thalmann"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "medical_research"
+      ],
+      "research_topics": [
+        "ETZ-Gebäudes",
+        "GLC-Neubauprojekts",
+        "Infrastrukturbreich Immobilen",
+        "Schweizer"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Sein Kunstwerk",
+        "D-ITET",
+        "Das Kunstwerk",
+        "Departemente Health",
+        "Infrastrukturbreich Immobilen",
+        "GLC-Projekt",
+        "De Internal",
+        "Gloriastrasse Behaelt",
+        "Annexbau ETZ",
+        "Das Betonmonument",
+        "D-HEST",
+        "GLC-Neubauprojekts",
+        "Fredi Thalmann",
+        "Sichtbeton-Skulptur",
+        "Neubau GLC"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "D-HEST",
+        "ETH Zürich",
+        "GLC",
+        "Universität Zürich",
+        "Versuchsanstalt für Wasserbau, Hydrologie und Glaziologie"
+      ],
+      "locations": [
+        "De Internal/2015/08/der Neubau",
+        "ETZ"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "GLC",
+        "ETZ",
+        "De Internal/2015/08/der Neubau",
+        "ETH Zürich",
+        "D-HEST",
+        "Universität Zürich",
+        "Versuchsanstalt für Wasserbau, Hydrologie und Glaziologie",
+        "Infrastrukturbreich Immobilen",
+        "ETZ-Gebäudes",
+        "GLC-Neubauprojekts"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1677
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "Versuchsanstalt für Wasserbau, Hydrologie und Glaziologie",
+        "EU",
+        "2020",
+        "D-HEST",
+        "ETH Zürich",
+        "GLC",
+        "Fredi Thalmann",
+        "Universität Zürich"
+      ],
+      "semantic_concepts": [
+        "Infrastrukturbreich Immobilen",
+        "Schweizer",
+        "GLC-Neubauprojekts",
+        "what",
+        "medical_research",
+        "ETZ-Gebäudes"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research"
+      ]
+    }
+  }
+}

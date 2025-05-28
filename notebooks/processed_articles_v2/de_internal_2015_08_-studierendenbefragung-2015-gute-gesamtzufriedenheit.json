@@ -1,0 +1,156 @@
+{
+  "filename": "de_internal_2015_08_-studierendenbefragung-2015-gute-gesamtzufriedenheit.md",
+  "original_filename": "de_internal_2015_08_-studierendenbefragung-2015-gute-gesamtzufriedenheit.html",
+  "source_path": "de_internal/2015/08/-studierendenbefragung-2015-gute-gesamtzufriedenheit.html",
+  "date": "2015-08",
+  "title": "Studierendenbefragung 2015 Gute Gesamtzufriedenheit",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die ETH Zürich hat im Frühjahr 2015 erstmals Bachelor- und Master-Studierende nach ihrer Zufriedenheit mit dem Studium an der Hochschule befragt. Wie die Auswertung der Studierendenbefragung 2015 ergeben hat, sind 82 Prozent der ETH-Studierenden mit ihrer Studiensituation zufrieden oder sehr zufrieden.\n\nDie Schulleitung der ETH Zürich hat die Studierendenbefragung 2015 an ihrer Sitzung vom 3. Juli 2015 zur Kenntnis genommen. Wie die begleitende Arbeitsgruppe stuft sie die Ergebnisse der Befragung grundsätzlich als gut ein. Sie hat festgestellt, dass die aufgezeigten Vernbesserungspotenziale durch verschiedene, bereits lancierte Initiativen sehr gut abgedeckt sind."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/08/ Studierendenbefragung",
+        "label": "LOC",
+        "start": 0,
+        "end": 42
+      },
+      {
+        "text": "Gute Gesamtzufriedenheit",
+        "label": "MISC",
+        "start": 48,
+        "end": 72
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 4,
+        "end": 14
+      },
+      {
+        "text": "ETH-Studierenden",
+        "label": "ORG",
+        "start": 229,
+        "end": 245
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 325,
+        "end": 335
+      },
+      {
+        "text": "Vernbesserungspotenziale",
+        "label": "LOC",
+        "start": 572,
+        "end": 596
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Studierenden"
+      ],
+      "LOCATION": [
+        "De Internal/2015/08/ Studierendenbefragung",
+        "Vernbesserungspotenziale"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Gute Gesamtzufriedenheit"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "De Internal/2015/08/ Studierendenbefragung": 1,
+      "Gute Gesamtzufriedenheit": 1,
+      "ETH-Studierenden": 1,
+      "Vernbesserungspotenziale": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2015_08_-studierendenbefragung-2015-gute-gesamtzufriedenheit.md",
+      "title": "De Internal/2015/08/ Studierendenbefragung 2015 Gute Gesamtzufriedenheit",
+      "language": "de",
+      "source_path": "de_internal/2015/08/-studierendenbefragung-2015-gute-gesamtzufriedenheit.html"
+    },
+    "temporal": {
+      "publication_date": "2015-08",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Gute Gesamtzufriedenheit"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "De Internal",
+        "Die Schulleitung",
+        "ETH-Studierenden",
+        "Die ETH",
+        "Master-Studierende",
+        "Gute Gesamtzufriedenheit"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Studierenden"
+      ],
+      "locations": [
+        "De Internal/2015/08/ Studierendenbefragung",
+        "Vernbesserungspotenziale"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2015/08/ Studierendenbefragung",
+        "Gute Gesamtzufriedenheit",
+        "ETH-Studierenden",
+        "Vernbesserungspotenziale"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 745
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "ETH-Studierenden",
+        "2015"
+      ],
+      "semantic_concepts": [
+        "Gute Gesamtzufriedenheit"
+      ],
+      "graph_relations": []
+    }
+  }
+}

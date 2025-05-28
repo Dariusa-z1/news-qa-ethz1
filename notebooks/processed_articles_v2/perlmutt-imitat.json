@@ -1,0 +1,223 @@
+{
+  "filename": "perlmutt-imitat.md",
+  "original_filename": "perlmutt-imitat.html",
+  "source_path": "de_news_events/2019/01/perlmutt-imitat.html",
+  "date": "2019-01",
+  "title": "Perlmutt Imitat",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Materialwis­senschaft­ler, geleitet von André R. Studart, entwickelten so einen Verbundwerkstoff, der äusserst steif, stark und belastbar ist.\n\nGrossman M, Pivovarov D, Bouville F, Dransfeld C, Masania K, Studart AR. Hierarchical toughening of nacre‐like composites. Advanced Functional Materials, 8. Januar 2019, doi: externe Seite 10.1002/adfm.201806800"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Imitat",
+        "label": "LOC",
+        "start": 32,
+        "end": 38
+      },
+      {
+        "text": "André R. Studart",
+        "label": "PER",
+        "start": 44,
+        "end": 60
+      },
+      {
+        "text": "Grossman M",
+        "label": "PER",
+        "start": 147,
+        "end": 157
+      },
+      {
+        "text": "Pivovarov D",
+        "label": "LOC",
+        "start": 159,
+        "end": 170
+      },
+      {
+        "text": "Bouville F",
+        "label": "PER",
+        "start": 172,
+        "end": 182
+      },
+      {
+        "text": "Dransfeld C",
+        "label": "ORG",
+        "start": 184,
+        "end": 195
+      },
+      {
+        "text": "Masania K",
+        "label": "ORG",
+        "start": 197,
+        "end": 206
+      },
+      {
+        "text": "Studart AR",
+        "label": "ORG",
+        "start": 208,
+        "end": 218
+      },
+      {
+        "text": "Hierarchical toughening of nacre‐like composites",
+        "label": "MISC",
+        "start": 220,
+        "end": 268
+      },
+      {
+        "text": "Advanced Functional Materials",
+        "label": "MISC",
+        "start": 270,
+        "end": 299
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "André R. Studart",
+        "Bouville F",
+        "De News",
+        "Grossman M"
+      ],
+      "ORG": [
+        "Dransfeld C",
+        "Masania K",
+        "Studart AR"
+      ],
+      "LOCATION": [
+        "Imitat",
+        "Pivovarov D"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Advanced Functional Materials",
+        "Hierarchical toughening of nacre‐like composites"
+      ]
+    },
+    "entity_counts": {
+      "De News": 1,
+      "Imitat": 1,
+      "André R. Studart": 1,
+      "Grossman M": 1,
+      "Pivovarov D": 1,
+      "Bouville F": 1,
+      "Dransfeld C": 1,
+      "Masania K": 1,
+      "Studart AR": 1,
+      "Hierarchical toughening of nacre‐like composites": 1,
+      "Advanced Functional Materials": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "perlmutt-imitat.md",
+      "title": "De News Events/2019/01/perlmutt Imitat",
+      "language": "de",
+      "source_path": "de_news_events/2019/01/perlmutt-imitat.html"
+    },
+    "temporal": {
+      "publication_date": "2019-01",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "André R. Studart",
+        "Bouville F",
+        "De News",
+        "Grossman M"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "Advanced Functional Materials",
+        "Hierarchical toughening of nacre‐like composites"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Advanced Functional",
+        "Studart AR",
+        "Bouville F",
+        "Imitat Die",
+        "Dransfeld C",
+        "Grossman M",
+        "De News",
+        "Pivovarov D",
+        "Masania K"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Dransfeld C",
+        "Masania K",
+        "Studart AR"
+      ],
+      "locations": [
+        "Imitat",
+        "Pivovarov D"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De News",
+        "Imitat",
+        "André R. Studart",
+        "Grossman M",
+        "Pivovarov D",
+        "Bouville F",
+        "Dransfeld C",
+        "Masania K",
+        "Studart AR",
+        "Hierarchical toughening of nacre‐like composites"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 398
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "Studart AR",
+        "Bouville F",
+        "Dransfeld C",
+        "Grossman M",
+        "De News",
+        "André R. Studart",
+        "Masania K"
+      ],
+      "semantic_concepts": [
+        "Hierarchical toughening of nacre‐like composites",
+        "Advanced Functional Materials",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

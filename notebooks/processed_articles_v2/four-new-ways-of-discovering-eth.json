@@ -1,0 +1,419 @@
+{
+  "filename": "four-new-ways-of-discovering-eth.md",
+  "original_filename": "four-new-ways-of-discovering-eth.html",
+  "source_path": "en_internal/2022/05/four-new-ways-of-discovering-eth.html",
+  "date": "2022-05",
+  "title": "Four New Ways Of Discovering Eth",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Heading for a CO2-neutral future",
+      "text": "Everyday work is often shaped by recurring processes, set patterns and personal routines. While this gives us a sense of security, it sometimes prevents us from seeing what’s new. The eight Theme tours from Campus Experience set the balance right: just in time for summer, you can once again explore the university live and discover a host of new things – with ETH students and staff as your competent guides."
+    },
+    {
+      "heading": "Heading for a CO2-neutral future",
+      "text": "The new Anergy Grid theme tour takes you deep into the catacombs of the Hönggerberg campus. Slap on your hard helmet and discover how this 1.7-kilometre-long, state-of-the-art heating and cooling system saves around 5,000 tons of CO 2 per year, by means of geothermal probes. It plays a pivotal role in achieving the net zero target."
+    },
+    {
+      "heading": "Art and science in dialogue",
+      "text": "ETH owns more than 300 works of art. Many are on public display yet go almost unnoticed in the hustle and bustle of university life. The two Art on Campus tours (at Hönggerberg and Zentrum) are a wonderful opportunity to witness the creative diversity of Swiss artists up-close. The tours are offered in German and English, French and Italian."
+    },
+    {
+      "heading": "Of sunspots and black holes",
+      "text": "A few metres from the main building, nestling between the IT Department and the University Hospital, is the Federal Observatory, built by Semper in 1864. A renowned centre for the study of sunspots until the 1980s, the Semper Observatory is now home to the Collegium Helveticum. Explore this listed building, immerse yourself in the world of astronomy, and succumb to the fascination of the universe!"
+    },
+    {
+      "heading": "Book your tour online",
+      "text": "Theme tours generally run for 60 minutes, take up to 25 visitors and can be booked over the ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 184,
+        "end": 189
+      },
+      {
+        "text": "Theme",
+        "label": "WORK_OF_ART",
+        "start": 190,
+        "end": 195
+      },
+      {
+        "text": "Campus Experience",
+        "label": "ORG",
+        "start": 207,
+        "end": 224
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 265,
+        "end": 271
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 361,
+        "end": 364
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 72,
+        "end": 83
+      },
+      {
+        "text": "1.7-kilometre",
+        "label": "QUANTITY",
+        "start": 139,
+        "end": 152
+      },
+      {
+        "text": "around 5,000 tons",
+        "label": "QUANTITY",
+        "start": 209,
+        "end": 226
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 230,
+        "end": 234
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 321,
+        "end": 325
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "more than 300",
+        "label": "CARDINAL",
+        "start": 9,
+        "end": 22
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 137,
+        "end": 140
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 165,
+        "end": 176
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 181,
+        "end": 188
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 255,
+        "end": 260
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 304,
+        "end": 310
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 315,
+        "end": 322
+      },
+      {
+        "text": "French",
+        "label": "NORP",
+        "start": 324,
+        "end": 330
+      },
+      {
+        "text": "Italian",
+        "label": "NORP",
+        "start": 335,
+        "end": 342
+      },
+      {
+        "text": "A few metres",
+        "label": "QUANTITY",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "the IT Department",
+        "label": "ORG",
+        "start": 54,
+        "end": 71
+      },
+      {
+        "text": "the University Hospital",
+        "label": "ORG",
+        "start": 76,
+        "end": 99
+      },
+      {
+        "text": "the Federal Observatory",
+        "label": "ORG",
+        "start": 104,
+        "end": 127
+      },
+      {
+        "text": "the 1980s",
+        "label": "DATE",
+        "start": 204,
+        "end": 213
+      },
+      {
+        "text": "the Semper Observatory",
+        "label": "FAC",
+        "start": 215,
+        "end": 237
+      },
+      {
+        "text": "the Collegium Helveticum",
+        "label": "ORG",
+        "start": 253,
+        "end": 277
+      },
+      {
+        "text": "60 minutes",
+        "label": "TIME",
+        "start": 30,
+        "end": 40
+      },
+      {
+        "text": "up to 25",
+        "label": "CARDINAL",
+        "start": 47,
+        "end": 55
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hönggerberg",
+        "Zentrum"
+      ],
+      "ORG": [
+        "CO 2",
+        "Campus Experience",
+        "ETH",
+        "the Collegium Helveticum",
+        "the Federal Observatory",
+        "the IT Department",
+        "the University Hospital"
+      ],
+      "LOCATION": [
+        "Hönggerberg",
+        "the Semper Observatory"
+      ],
+      "DATE": [
+        "60 minutes",
+        "summer",
+        "the 1980s"
+      ],
+      "MISC": [
+        "1.7-kilometre",
+        "A few metres",
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Swiss",
+        "Theme",
+        "around 5,000 tons",
+        "eight",
+        "more than 300",
+        "two",
+        "up to 25",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Hönggerberg": 2,
+      "eight": 1,
+      "Theme": 1,
+      "Campus Experience": 1,
+      "summer": 1,
+      "1.7-kilometre": 1,
+      "around 5,000 tons": 1,
+      "CO 2": 1,
+      "zero": 1,
+      "more than 300": 1,
+      "two": 1,
+      "Zentrum": 1,
+      "Swiss": 1,
+      "German": 1,
+      "English": 1,
+      "French": 1,
+      "Italian": 1,
+      "A few metres": 1,
+      "the IT Department": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "four-new-ways-of-discovering-eth.md",
+      "title": "En Internal/2022/05/four New Ways Of Discovering Eth",
+      "language": "en",
+      "source_path": "en_internal/2022/05/four-new-ways-of-discovering-eth.html"
+    },
+    "temporal": {
+      "publication_date": "2022-05",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Hönggerberg",
+        "Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "1.7-kilometre",
+        "A few metres",
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Swiss",
+        "Theme",
+        "around 5,000 tons",
+        "eight",
+        "more than 300",
+        "up to 25",
+        "zero"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Campus Experience",
+        "IT Department",
+        "Federal Observatory",
+        "Semper Observatory",
+        "Collegium Helveticum",
+        "New Ways",
+        "Eth Everyday",
+        "En Internal",
+        "University Hospital",
+        "Anergy Grid",
+        "Of Discovering"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CO 2",
+        "Campus Experience",
+        "ETH",
+        "the Collegium Helveticum",
+        "the Federal Observatory",
+        "the IT Department",
+        "the University Hospital"
+      ],
+      "locations": [
+        "Hönggerberg",
+        "the Semper Observatory"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Hönggerberg",
+        "eight",
+        "Theme",
+        "Campus Experience",
+        "summer",
+        "1.7-kilometre",
+        "around 5,000 tons",
+        "CO 2",
+        "zero"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Heading for a CO2-neutral future",
+          "Heading for a CO2-neutral future",
+          "Art and science in dialogue",
+          "Of sunspots and black holes",
+          "Book your tour online"
+        ],
+        "content_length": 1635
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "ETH",
+        "Campus Experience",
+        "Zentrum",
+        "the Federal Observatory",
+        "the IT Department",
+        "2022",
+        "the University Hospital",
+        "the Collegium Helveticum",
+        "CO 2"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "more than 300",
+        "when",
+        "around 5,000 tons",
+        "French",
+        "up to 25",
+        "1.7-kilometre",
+        "zero",
+        "who",
+        "eight",
+        "English",
+        "what",
+        "how",
+        "A few metres",
+        "Theme",
+        "Italian",
+        "Swiss",
+        "German",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

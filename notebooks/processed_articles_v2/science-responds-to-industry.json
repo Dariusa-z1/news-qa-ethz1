@@ -1,0 +1,401 @@
+{
+  "filename": "science-responds-to-industry.md",
+  "original_filename": "science-responds-to-industry.html",
+  "source_path": "en_news_events/2017/03/science-responds-to-industry.html",
+  "date": "2017-03",
+  "title": "Science Responds To Industry",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH News: What’s the reasoning behind the particular format that the Energy Science Center has chosen for the symposium? Christian Schaffner: We want to offer industry representatives an opportunity to present their perspectives on the energy sector. We are convinced that industry will play a key role when it comes to managing global energy supply challenges. Industry is the third main actor in the segment, along with research and the government. ETH hosts a lot of events by and for scientists. Our symposium is intended as a supplement to that programme; an event where companies provide the content, establishing a dialogue with science.\n\nHow critical will these contributions be? This is a public event, open to anybody who’s interested, and the panel will include competitors. We do not expect to discover any secrets regarding the firms’ energy strategies. However – and this is the main point of the event – we will be able to directly compare the companies and see how they present and communicate their strategies to outsiders. And it is precisely this comparison that will make differences visible and stimulate a dialogue. The discussion with ETH professors will play a key role here. It’s up to them to sound out the company representatives.\n\nHow are the scientists preparing for this? To begin with, they are reading through the companies’ publicly available documents. Many of the professors have already had some form of contact with the companies, whether as part of a research collaboration or at a joint event. The researchers will also conduct introductory briefings with the industry representatives, and we will ensure that they receive the material being presented ahead of time.\n\nWas it difficult to convince companies to participate? That was exciting. When we were considering the format, we asked ourselves how many companies would agree to it. We wrote to nine, expecting three or four positive responses, but we quickly realised that more companies registered when they discovered that their competitors had signed up. Of course, the comparison is very interesting for them as well.\n\nAs the head of the Energy Science Center, what insights are you hoping to gain from the symposium? Our public events aim to educate a broad audience, from industry representatives to laypeople with an interest in the subject, about recent developments in the energy sector and the current state of energy research. This event should highlight global challenges and make clear that energy strategy is an international issue rather than a purely Swiss one. We also want to show that the corporate world – that is to say, these international companies – also play an important role in this energy strategy.\n\nDoes this symposium aim to influence the political debate surrounding energy? What we want is to make the greatest number of facts available as possible, inform the public to the greatest extent possible and stimulate discussion. This is not a political statement – it’s a contribution to public debate.\n\nAt the symposium “The Global Energy Challenge – A Corporate View”, representatives of multinational companies will discuss energy policy with scientists from ETH Zurich in a novel format. The companies, which include ABB, Shell and Swiss Re, will introduce their energy strategies and visions. Their presentations will then be discussed by an ETH professor or an experienced researcher, with a panel discussion to follow. ETH President Lino Guzzella will open the event.\n\nThe Global Energy Challenge – A Corporate View Monday 3 April 2017, 12.30 a.m. – 6.00 p.m.\n\nETH Zurich, Auditorium Maximum (F30), Rämistrasse 101, Zurich\n\nThe programme is available online ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "the Energy Science Center",
+        "label": "ORG",
+        "start": 65,
+        "end": 90
+      },
+      {
+        "text": "Christian Schaffner",
+        "label": "PERSON",
+        "start": 121,
+        "end": 140
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 378,
+        "end": 383
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 451,
+        "end": 454
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1157,
+        "end": 1160
+      },
+      {
+        "text": "nine",
+        "label": "CARDINAL",
+        "start": 1884,
+        "end": 1888
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1900,
+        "end": 1905
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 1909,
+        "end": 1913
+      },
+      {
+        "text": "the Energy Science Center",
+        "label": "ORG",
+        "start": 2127,
+        "end": 2152
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 2556,
+        "end": 2561
+      },
+      {
+        "text": "The Global Energy Challenge",
+        "label": "WORK_OF_ART",
+        "start": 3038,
+        "end": 3065
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 3178,
+        "end": 3188
+      },
+      {
+        "text": "ABB",
+        "label": "ORG",
+        "start": 3237,
+        "end": 3240
+      },
+      {
+        "text": "Shell",
+        "label": "ORG",
+        "start": 3242,
+        "end": 3247
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 3252,
+        "end": 3257
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 3363,
+        "end": 3366
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 3442,
+        "end": 3445
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 3456,
+        "end": 3469
+      },
+      {
+        "text": "The Global Energy Challenge",
+        "label": "ORG",
+        "start": 3491,
+        "end": 3518
+      },
+      {
+        "text": "Monday 3 April 2017",
+        "label": "DATE",
+        "start": 3538,
+        "end": 3557
+      },
+      {
+        "text": "12.30 a.m.",
+        "label": "TIME",
+        "start": 3559,
+        "end": 3569
+      },
+      {
+        "text": "6.00 p.m.",
+        "label": "TIME",
+        "start": 3572,
+        "end": 3581
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 3582,
+        "end": 3592
+      },
+      {
+        "text": "Auditorium Maximum",
+        "label": "ORG",
+        "start": 3594,
+        "end": 3612
+      },
+      {
+        "text": "F30",
+        "label": "ORG",
+        "start": 3614,
+        "end": 3617
+      },
+      {
+        "text": "Rämistrasse 101",
+        "label": "PERSON",
+        "start": 3620,
+        "end": 3635
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 3637,
+        "end": 3643
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christian Schaffner",
+        "ETH Zurich",
+        "Lino Guzzella",
+        "Rämistrasse 101"
+      ],
+      "ORG": [
+        "ABB",
+        "Auditorium Maximum",
+        "ETH",
+        "ETH News",
+        "ETH Zurich",
+        "F30",
+        "Shell",
+        "The Global Energy Challenge",
+        "the Energy Science Center"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "12.30 a.m.",
+        "6.00 p.m.",
+        "Monday 3 April 2017"
+      ],
+      "MISC": [
+        "Swiss",
+        "The Global Energy Challenge",
+        "four",
+        "nine",
+        "third",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 4,
+      "the Energy Science Center": 2,
+      "Swiss": 2,
+      "The Global Energy Challenge": 2,
+      "ETH Zurich": 2,
+      "ETH News": 1,
+      "Christian Schaffner": 1,
+      "third": 1,
+      "nine": 1,
+      "three": 1,
+      "four": 1,
+      "ABB": 1,
+      "Shell": 1,
+      "Lino Guzzella": 1,
+      "Monday 3 April 2017": 1,
+      "12.30 a.m.": 1,
+      "6.00 p.m.": 1,
+      "Auditorium Maximum": 1,
+      "F30": 1,
+      "Rämistrasse 101": 1
+    },
+    "total_entities": 28,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "science-responds-to-industry.md",
+      "title": "En News Events/2017/03/science Responds To Industry",
+      "language": "en",
+      "source_path": "en_news_events/2017/03/science-responds-to-industry.html"
+    },
+    "temporal": {
+      "publication_date": "2017-03",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christian Schaffner",
+        "ETH Zurich",
+        "Lino Guzzella",
+        "Rämistrasse 101"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "scientist"
+        ],
+        "Lino Guzzella": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Swiss",
+        "The Global Energy Challenge",
+        "four",
+        "nine",
+        "third",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH President",
+        "Christian Schaffner",
+        "En News",
+        "Responds To",
+        "Energy Science",
+        "A Corporate",
+        "ETH Zurich",
+        "View Monday",
+        "The Global",
+        "Energy Challenge",
+        "Lino Guzzella",
+        "Swiss Re",
+        "Industry ETH",
+        "Auditorium Maximum"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ABB",
+        "Auditorium Maximum",
+        "ETH",
+        "ETH News",
+        "ETH Zurich",
+        "F30",
+        "Shell",
+        "The Global Energy Challenge",
+        "the Energy Science Center"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "the Energy Science Center",
+        "Swiss",
+        "The Global Energy Challenge",
+        "ETH Zurich",
+        "ETH News",
+        "Christian Schaffner",
+        "third",
+        "nine",
+        "three"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 3740
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Shell",
+        "the Energy Science Center",
+        "Christian Schaffner",
+        "2017",
+        "F30",
+        "The Global Energy Challenge",
+        "ABB",
+        "Lino Guzzella",
+        "ETH News",
+        "ETH Zurich",
+        "Auditorium Maximum",
+        "Rämistrasse 101"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "third",
+        "three",
+        "nine",
+        "four",
+        "who",
+        "Swiss",
+        "The Global Energy Challenge",
+        "what",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_scientist",
+        "Lino Guzzella_has_role_president",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

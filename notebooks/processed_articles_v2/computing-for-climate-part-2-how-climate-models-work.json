@@ -1,0 +1,870 @@
+{
+  "filename": "computing-for-climate-part-2-how-climate-models-work.md",
+  "original_filename": "computing-for-climate-part-2-how-climate-models-work.html",
+  "source_path": "en_news_events/2015/10/computing-for-climate-part-2-how-climate-models-work.html",
+  "date": "2015-10",
+  "title": "Computing For Climate Part 2 How Climate Models Work",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "3D-computational grids",
+      "text": "Computer simulations lie at the heart of everyday weather forecast, and they are of great importance when it comes to addressing the challenges of climate change. To understand and predict the behaviour of the climate system, scientists build und use complex computational models. These include the relevant chemical and physical properties of the earth’s surface (land and oceans) and of the atmosphere, in a simplified way. But how do climate models work, and what are the implied challenges for Computer Science?"
+    },
+    {
+      "heading": "3D-computational grids",
+      "text": "Similar to the early efforts of Richardson (see the first part of this series), modern climate models span a three-dimensional computational grid over the Earth on which the physical laws governing the evolution of the state of the atmosphere are computed. In each grid cell, values for wind speed, temperature, pressure, relative humidity and concentrations of atmospheric constituents (in particular water vapour, but also other gaseous constituents and aerosols) determine the current state of the atmosphere. The smaller the grid cell, the higher the resolution of the model. Using governing physical laws, a computer program then advances these values forward in time, step-by-step. To update the values in a specific cell, the computer program also requires information from neighbouring cells. Such computer programs are often referred to as stencil code [1]. Since computing time and memory consumption grow linearly with the number of cells, efficient parallel implementations of stencil programs are an important research topic at the Scalable Parallel Computing Laboratory SPCL . An introduction to climate models and a tornado simulation can be found here: [2], [3]."
+    },
+    {
+      "heading": "Keeping Millions of Processors at Work",
+      "text": "When implementing a climate and weather code for a large-scale machine like Piz Daint at the Swiss National Supercomputing Centre CSCS , we need to parallelize the stencil program to be executed on millions of processing elements. In collaboration with MeteoSwiss and CSCS, one of my students, Tobias Gysi, has developed a special language that enables simple specification of stencil programs by meteorologists and also enables computer scientists to parallelize and optimize the execution at the same time. This domain-specific language (DSL) enables simple, textbook-like implementations and thus allows a clean separation of concerns between the meteorologist who defines the computational science problem, and the computer scientist who defines the optimizations. Efficient automatic optimization of DSLs to heterogeneous hardware is a huge computer science research task.\n\nAnother major challenge in climate research is storing and managing the vast amount of data produced during a single simulation. Parameters such as pressure and velocity are stored for each grid point, at each time step. Predictions indicate that the data volume may reach Exabytes (10 18 bytes, as many as 1,000,000 1 TB hard drives) in the near future. This requires new techniques for data management, generation, and online analysis at extreme scales. These challenges are addressed in a collaboration between MeteoSwiss, CSCS, and ETH, funded through an SNF Sinergia grant [4]."
+    },
+    {
+      "heading": "Modelling Climate Change over the Alps and Europe",
+      "text": "Recently a large simulation regarding the European summer climate was completed [5], [4]. The simulation covers 30 years on a computational mesh with 500x500x60 grid points at a horizontal resolution of 2.2 km. To manage the huge data storage associated with this simulation, only little output is stored, but nevertheless the archive includes more than 120 TB. Finalizing these simulations took more than one and a half years on the Monte Rosa (Cray XE5 and XE6) supercomputer at the Swiss National Supercomputing Center CSCS , using a conventional version of the COSMO model.\n\nOne of the next targets is to exploit the GPU-enabled COSMO version to carry out similar numerical experiments, but covering the whole of the European continent on a 10 times larger domain (see figure and animation in part 1 of this blog), using a more recent hardware architecture (Cray XC30, Piz Daint) and the GPU-enabled COSMO version [3]. Piz Daint has an astounding peak performance of 6x10 15 Flop/s (floating point operations per second) on a total of 5272 compute nodes. As our current implementation of COSMO-GPU uses only 144 nodes (i.e., 3%), further expansion of the computational domain is a very realistic target.\n\nThe purpose of these simulations is to better understand and project the water cycle including extreme heavy precipitation events. Simulations on the Alpine scale have already provided interesting results that would be hard to trust if based on semi-empirical assumptions. They project mean summer precipitation amounts to decrease by about 30 per cent by the end of the century, whereas heavy thunderstorms and rain showers are projected to increase substantially. In other words, the extremes at both ends, i.e., droughts and flash floods, are expected to increase. Information from such experiments is of potential interest for climate change adaptation, since short-term heavy precipitation events are of key importance for water resource management and flood protection."
+    },
+    {
+      "heading": "Strong Collaboration to drive Climate Science",
+      "text": "Predicting weather and climate requires not only strong computers but also strong collaboration between climate and computer science. Utilizing heterogeneous hardware architectures is imperative for modern simulation codes but often requires a fundamentally new approach to software development. The current version of the COSMO model is the only regional weather and climate model available worldwide which can run fully on GPUs. This progress and the emerging prospects have been made possible by close interdisciplinary cooperation between CSCS, MeteoSwiss, C2SM, and the Computer Science and the Environmental Systems Science Department at ETH.\n\nTorsten Hoefler wrote this blog together with Christoph Schär (ETH Zurich) and Oliver Fuhrer (MeteoSchweiz)."
+    },
+    {
+      "heading": "Further information",
+      "text": "[2] An introduction to climate models\n\n[3] Tornado simulation\n\n[4] crCLIM : Convection-resolving climate modeling on future supercomputing platforms. A Sinergia project funded by the SNF.\n\n[5] Ban N., J. Schmidli and C. Schär, 2015: Heavy precipitation in a changing climate: Does short-term summer precipitation increase faster? Geophys. Res. Lett. , 42 (4), 1165–1172 doi .\n\n[6] Fuhrer, O., C. Osuna, X. Lapillonne, T. Gysi, B. Cumming, M. Bianco, A. Arteaga and T. C. Schulthess, 2014. Towards a performance portable, architecture agnostic implementation strategy for weather and climate models. Supercomputing Frontiers and Innovations, 1 (1), 45-62\n\nAssistant Professor for Computer Science, Scalable Parallel Computing Laboratory (SPCL), ETH Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "earth",
+        "label": "LOC",
+        "start": 348,
+        "end": 353
+      },
+      {
+        "text": "Computer Science",
+        "label": "ORG",
+        "start": 498,
+        "end": 514
+      },
+      {
+        "text": "Richardson",
+        "label": "PERSON",
+        "start": 32,
+        "end": 42
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 52,
+        "end": 57
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 109,
+        "end": 114
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 155,
+        "end": 160
+      },
+      {
+        "text": "the Scalable Parallel Computing Laboratory SPCL",
+        "label": "ORG",
+        "start": 1041,
+        "end": 1088
+      },
+      {
+        "text": "Piz Daint",
+        "label": "PERSON",
+        "start": 76,
+        "end": 85
+      },
+      {
+        "text": "the Swiss National Supercomputing Centre CSCS",
+        "label": "ORG",
+        "start": 89,
+        "end": 134
+      },
+      {
+        "text": "millions",
+        "label": "CARDINAL",
+        "start": 198,
+        "end": 206
+      },
+      {
+        "text": "MeteoSwiss",
+        "label": "ORG",
+        "start": 253,
+        "end": 263
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 268,
+        "end": 272
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 274,
+        "end": 277
+      },
+      {
+        "text": "Tobias Gysi",
+        "label": "PERSON",
+        "start": 294,
+        "end": 305
+      },
+      {
+        "text": "10 18",
+        "label": "DATE",
+        "start": 1161,
+        "end": 1166
+      },
+      {
+        "text": "as many as 1,000,000",
+        "label": "CARDINAL",
+        "start": 1174,
+        "end": 1194
+      },
+      {
+        "text": "MeteoSwiss",
+        "label": "ORG",
+        "start": 1392,
+        "end": 1402
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 1404,
+        "end": 1408
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1414,
+        "end": 1417
+      },
+      {
+        "text": "SNF Sinergia",
+        "label": "LOC",
+        "start": 1437,
+        "end": 1449
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 42,
+        "end": 50
+      },
+      {
+        "text": "30 years",
+        "label": "DATE",
+        "start": 112,
+        "end": 120
+      },
+      {
+        "text": "500x500x60",
+        "label": "CARDINAL",
+        "start": 150,
+        "end": 160
+      },
+      {
+        "text": "2.2 km",
+        "label": "QUANTITY",
+        "start": 203,
+        "end": 209
+      },
+      {
+        "text": "more than 120",
+        "label": "CARDINAL",
+        "start": 344,
+        "end": 357
+      },
+      {
+        "text": "more than one and a half years",
+        "label": "CARDINAL",
+        "start": 396,
+        "end": 426
+      },
+      {
+        "text": "the Monte Rosa",
+        "label": "FAC",
+        "start": 430,
+        "end": 444
+      },
+      {
+        "text": "XE6",
+        "label": "GPE",
+        "start": 459,
+        "end": 462
+      },
+      {
+        "text": "the Swiss National Supercomputing Center CSCS",
+        "label": "ORG",
+        "start": 481,
+        "end": 526
+      },
+      {
+        "text": "COSMO",
+        "label": "ORG",
+        "start": 565,
+        "end": 570
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 578,
+        "end": 581
+      },
+      {
+        "text": "GPU",
+        "label": "ORG",
+        "start": 620,
+        "end": 623
+      },
+      {
+        "text": "COSMO",
+        "label": "ORG",
+        "start": 632,
+        "end": 637
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 720,
+        "end": 728
+      },
+      {
+        "text": "Cray",
+        "label": "ORG",
+        "start": 861,
+        "end": 865
+      },
+      {
+        "text": "Piz Daint",
+        "label": "PERSON",
+        "start": 872,
+        "end": 881
+      },
+      {
+        "text": "GPU",
+        "label": "ORG",
+        "start": 891,
+        "end": 894
+      },
+      {
+        "text": "COSMO",
+        "label": "ORG",
+        "start": 903,
+        "end": 908
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1016,
+        "end": 1022
+      },
+      {
+        "text": "COSMO",
+        "label": "ORG",
+        "start": 1091,
+        "end": 1096
+      },
+      {
+        "text": "only 144",
+        "label": "CARDINAL",
+        "start": 1106,
+        "end": 1114
+      },
+      {
+        "text": "3%",
+        "label": "PERCENT",
+        "start": 1128,
+        "end": 1130
+      },
+      {
+        "text": "Alpine",
+        "label": "ORG",
+        "start": 1357,
+        "end": 1363
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 1498,
+        "end": 1504
+      },
+      {
+        "text": "about 30 per cent",
+        "label": "MONEY",
+        "start": 1542,
+        "end": 1559
+      },
+      {
+        "text": "the end of the century",
+        "label": "DATE",
+        "start": 1563,
+        "end": 1585
+      },
+      {
+        "text": "COSMO",
+        "label": "ORG",
+        "start": 323,
+        "end": 328
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 543,
+        "end": 547
+      },
+      {
+        "text": "MeteoSwiss",
+        "label": "ORG",
+        "start": 549,
+        "end": 559
+      },
+      {
+        "text": "C2SM",
+        "label": "PERSON",
+        "start": 561,
+        "end": 565
+      },
+      {
+        "text": "the Computer Science",
+        "label": "ORG",
+        "start": 571,
+        "end": 591
+      },
+      {
+        "text": "the Environmental Systems Science Department",
+        "label": "ORG",
+        "start": 596,
+        "end": 640
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 644,
+        "end": 647
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 649,
+        "end": 664
+      },
+      {
+        "text": "Christoph Schär",
+        "label": "PERSON",
+        "start": 695,
+        "end": 710
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 712,
+        "end": 722
+      },
+      {
+        "text": "Oliver Fuhrer",
+        "label": "PERSON",
+        "start": 728,
+        "end": 741
+      },
+      {
+        "text": "MeteoSchweiz",
+        "label": "PERSON",
+        "start": 743,
+        "end": 755
+      },
+      {
+        "text": "Sinergia",
+        "label": "GPE",
+        "start": 150,
+        "end": 158
+      },
+      {
+        "text": "SNF",
+        "label": "ORG",
+        "start": 181,
+        "end": 184
+      },
+      {
+        "text": "Ban N.",
+        "label": "PERSON",
+        "start": 190,
+        "end": 196
+      },
+      {
+        "text": "J. Schmidli",
+        "label": "PERSON",
+        "start": 198,
+        "end": 209
+      },
+      {
+        "text": "C. Schär",
+        "label": "PERSON",
+        "start": 214,
+        "end": 222
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 289,
+        "end": 295
+      },
+      {
+        "text": "Geophys",
+        "label": "PERSON",
+        "start": 327,
+        "end": 334
+      },
+      {
+        "text": "Res",
+        "label": "PERSON",
+        "start": 336,
+        "end": 339
+      },
+      {
+        "text": "Lett",
+        "label": "PERSON",
+        "start": 341,
+        "end": 345
+      },
+      {
+        "text": "1165–1172",
+        "label": "CARDINAL",
+        "start": 357,
+        "end": 366
+      },
+      {
+        "text": "C. Osuna",
+        "label": "PERSON",
+        "start": 389,
+        "end": 397
+      },
+      {
+        "text": "X. Lapillonne",
+        "label": "PERSON",
+        "start": 399,
+        "end": 412
+      },
+      {
+        "text": "T. Gysi",
+        "label": "PERSON",
+        "start": 414,
+        "end": 421
+      },
+      {
+        "text": "B. Cumming",
+        "label": "PERSON",
+        "start": 423,
+        "end": 433
+      },
+      {
+        "text": "M. Bianco",
+        "label": "PERSON",
+        "start": 435,
+        "end": 444
+      },
+      {
+        "text": "A. Arteaga",
+        "label": "PERSON",
+        "start": 446,
+        "end": 456
+      },
+      {
+        "text": "T. C. Schulthess",
+        "label": "PERSON",
+        "start": 461,
+        "end": 477
+      },
+      {
+        "text": "Supercomputing Frontiers and Innovations",
+        "label": "ORG",
+        "start": 595,
+        "end": 635
+      },
+      {
+        "text": "Computer Science,",
+        "label": "ORG",
+        "start": 674,
+        "end": 691
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 739,
+        "end": 749
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "A. Arteaga",
+        "B. Cumming",
+        "Ban N.",
+        "C. Osuna",
+        "C. Schär",
+        "C2SM",
+        "Christoph Schär",
+        "ETH Zurich",
+        "Geophys",
+        "J. Schmidli",
+        "Lett",
+        "M. Bianco",
+        "MeteoSchweiz",
+        "Oliver Fuhrer",
+        "Piz Daint",
+        "Res",
+        "Richardson",
+        "T. C. Schulthess",
+        "T. Gysi",
+        "Tobias Gysi",
+        "Torsten Hoefler",
+        "X. Lapillonne"
+      ],
+      "ORG": [
+        "Alpine",
+        "COSMO",
+        "CSCS",
+        "Computer Science",
+        "Computer Science,",
+        "Cray",
+        "ETH",
+        "GPU",
+        "MeteoSwiss",
+        "SNF",
+        "Supercomputing Frontiers and Innovations",
+        "the Computer Science",
+        "the Environmental Systems Science Department",
+        "the Scalable Parallel Computing Laboratory SPCL",
+        "the Swiss National Supercomputing Center CSCS",
+        "the Swiss National Supercomputing Centre CSCS"
+      ],
+      "LOCATION": [
+        "Earth",
+        "SNF Sinergia",
+        "Sinergia",
+        "XE6",
+        "earth",
+        "the Monte Rosa"
+      ],
+      "DATE": [
+        "10 18",
+        "30 years",
+        "summer",
+        "the end of the century"
+      ],
+      "MISC": [
+        "1165–1172",
+        "2.2 km",
+        "3%",
+        "500x500x60",
+        "European",
+        "One",
+        "about 30 per cent",
+        "as many as 1,000,000",
+        "first",
+        "millions",
+        "more than 120",
+        "more than one and a half years",
+        "one",
+        "only 144",
+        "second",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "COSMO": 5,
+      "MeteoSwiss": 3,
+      "CSCS": 3,
+      "Piz Daint": 2,
+      "ETH": 2,
+      "European": 2,
+      "GPU": 2,
+      "summer": 2,
+      "ETH Zurich": 2,
+      "earth": 1,
+      "Computer Science": 1,
+      "Richardson": 1,
+      "first": 1,
+      "three": 1,
+      "Earth": 1,
+      "the Scalable Parallel Computing Laboratory SPCL": 1,
+      "the Swiss National Supercomputing Centre CSCS": 1,
+      "millions": 1,
+      "one": 1,
+      "Tobias Gysi": 1
+    },
+    "total_entities": 78,
+    "unique_entities": 64
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "computing-for-climate-part-2-how-climate-models-work.md",
+      "title": "En News Events/2015/10/computing For Climate Part 2 How Climate Models Work",
+      "language": "en",
+      "source_path": "en_news_events/2015/10/computing-for-climate-part-2-how-climate-models-work.html"
+    },
+    "temporal": {
+      "publication_date": "2015-10",
+      "mentioned_years": [
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "A. Arteaga",
+        "B. Cumming",
+        "Ban N.",
+        "C. Osuna",
+        "C. Schär",
+        "C2SM",
+        "Christoph Schär",
+        "ETH Zurich",
+        "Geophys",
+        "J. Schmidli",
+        "Lett",
+        "M. Bianco",
+        "MeteoSchweiz",
+        "Oliver Fuhrer",
+        "Piz Daint",
+        "Res",
+        "Richardson",
+        "T. C. Schulthess",
+        "T. Gysi",
+        "Tobias Gysi",
+        "Torsten Hoefler",
+        "X. Lapillonne"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "professor"
+        ],
+        "Tobias Gysi": [
+          "scientist",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "chemistry",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "1165–1172",
+        "2.2 km",
+        "500x500x60",
+        "European",
+        "about 30 per cent",
+        "as many as 1,000,000",
+        "first",
+        "millions",
+        "more than 120",
+        "more than one and a half years",
+        "only 144",
+        "second",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "SNF",
+        "EU",
+        "Horizon",
+        "grant"
+      ],
+      "projects": [
+        "COSMO-GPU",
+        "Piz Daint",
+        "Science Department",
+        "How Climate",
+        "Supercomputing Centre",
+        "Assistant Professor",
+        "Ban N",
+        "Scalable Parallel",
+        "Tobias Gysi",
+        "SNF Sinergia",
+        "Swiss National",
+        "Oliver Fuhrer",
+        "Monte Rosa",
+        "Supercomputing Frontiers",
+        "Models Work",
+        "Computer Science",
+        "Environmental Systems",
+        "En News",
+        "Supercomputing Center",
+        "Torsten Hoefler",
+        "For Climate",
+        "A Sinergia",
+        "ETH Zurich",
+        "Computing Laboratory"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Alpine",
+        "COSMO",
+        "CSCS",
+        "Computer Science",
+        "Computer Science,",
+        "Cray",
+        "ETH",
+        "GPU",
+        "MeteoSwiss",
+        "SNF",
+        "Supercomputing Frontiers and Innovations",
+        "the Computer Science",
+        "the Environmental Systems Science Department",
+        "the Scalable Parallel Computing Laboratory SPCL",
+        "the Swiss National Supercomputing Center CSCS",
+        "the Swiss National Supercomputing Centre CSCS"
+      ],
+      "locations": [
+        "Earth",
+        "SNF Sinergia",
+        "Sinergia",
+        "XE6",
+        "earth",
+        "the Monte Rosa"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "COSMO",
+        "MeteoSwiss",
+        "CSCS",
+        "Piz Daint",
+        "ETH",
+        "European",
+        "GPU",
+        "summer",
+        "ETH Zurich",
+        "earth"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "3D-computational grids",
+          "3D-computational grids",
+          "Keeping Millions of Processors at Work",
+          "Modelling Climate Change over the Alps and Europe",
+          "Strong Collaboration to drive Climate Science",
+          "Further information"
+        ],
+        "content_length": 6731
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "grant",
+        "M. Bianco",
+        "SNF",
+        "Supercomputing Frontiers and Innovations",
+        "Piz Daint",
+        "C. Schär",
+        "Richardson",
+        "T. Gysi",
+        "Christoph Schär",
+        "ERC",
+        "Computer Science,",
+        "T. C. Schulthess",
+        "J. Schmidli",
+        "X. Lapillonne",
+        "C2SM",
+        "Tobias Gysi",
+        "B. Cumming",
+        "Lett",
+        "Alpine",
+        "2014",
+        "Oliver Fuhrer",
+        "Res",
+        "2015",
+        "the Swiss National Supercomputing Center CSCS",
+        "EU",
+        "the Environmental Systems Science Department",
+        "Geophys",
+        "GPU",
+        "Cray",
+        "A. Arteaga",
+        "the Scalable Parallel Computing Laboratory SPCL",
+        "the Swiss National Supercomputing Centre CSCS",
+        "Computer Science",
+        "CSCS",
+        "Ban N.",
+        "the Computer Science",
+        "MeteoSchweiz",
+        "MeteoSwiss",
+        "COSMO",
+        "C. Osuna",
+        "Torsten Hoefler",
+        "ETH Zurich",
+        "Horizon"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "2.2 km",
+        "more than one and a half years",
+        "chemistry",
+        "millions",
+        "500x500x60",
+        "when",
+        "more than 120",
+        "mathematics",
+        "1165–1172",
+        "who",
+        "only 144",
+        "what",
+        "how",
+        "computer_science",
+        "climate_change",
+        "first",
+        "as many as 1,000,000",
+        "second",
+        "European",
+        "why",
+        "about 30 per cent",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_professor",
+        "Tobias Gysi_has_role_scientist",
+        "Tobias Gysi_has_role_student",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_chemistry",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "filename": "the-lecturers-conference-has-a-new-president.md",
+  "original_filename": "the-lecturers-conference-has-a-new-president.html",
+  "source_path": "en_internal/2016/05/the-lecturers-conference-has-a-new-president.html",
+  "date": "2016-05",
+  "title": "The Lecturers Conference Has A New President",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "An engineer with a flair for medicine",
+      "text": "Edoardo Mazza is the new President of the Lecturers’ Conference ( KdL ). The General Faculty Conference elected the Professor at the Institute of Mechanical Systems ( D-MAVT ) for a term of two years on 12 May 2016. Originally from Italy, Edoardo Mazza will assume the presidency of the Lecturer’s Conference on 1 August 2016.\n\nOn this date he will succeed Felicitas Pauss, who has been President of the Lecturers’ Conference from 2013. Pauss is a Professor of Experimental Particle Physics at the Institute for Particle Physics. She will be retiring at the end of July 2016. Her research activity has included pioneering work on high-energy accelerators, investigating the fundamental building blocks of matter. New initiatives introduced by the Lecturers’ Conference during her time as President include the KITE Award for innovative teaching concepts."
+    },
+    {
+      "heading": "An engineer with a flair for medicine",
+      "text": "Edoardo Mazza has been teaching and researching at ETH Zurich since 2002. He is also the head of the Department of Mechanics for Modeling and Simulation at Empa, the Materials Science and Technology research institute of the ETH Domain, and plays a leading role in the Zurich Heart medical project. His research activity has focused on continuum mechanics and its application to problems in medicine and energy systems. He uses pioneering experimental methods to understand the mechanisms in the deformation and failure of complex materials such as biological tissue or high-temperature materials and to describe these using mathematical models.\n\nEdoardo Mazza has been a member of the Lecturers’ Conference since 2014 and a member of the ETH Zurich Teaching Commission since 2015. During his time teaching he was twice awarded the Golden Owl , the teaching award given by ETH Zurich’s students, once in 2006 and once in 2014.\n\nThe Lecturers’ Conference advises the Executive Board in all matters relating to the Lecturer’s Conference and its interests. It is one of the four university groups that represent lecturers, scientific staff, students and staff at ETH Zurich. The Lecturers’ Conference comprises the Rector, six members elected at the General Faculty Conference, and one representative for each department."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Edoardo Mazza",
+        "label": "PERSON",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "the Lecturers’ Conference ( KdL",
+        "label": "ORG",
+        "start": 38,
+        "end": 69
+      },
+      {
+        "text": "The General Faculty Conference",
+        "label": "ORG",
+        "start": 73,
+        "end": 103
+      },
+      {
+        "text": "the Institute of Mechanical Systems",
+        "label": "ORG",
+        "start": 129,
+        "end": 164
+      },
+      {
+        "text": "two years",
+        "label": "DATE",
+        "start": 190,
+        "end": 199
+      },
+      {
+        "text": "12 May 2016",
+        "label": "DATE",
+        "start": 203,
+        "end": 214
+      },
+      {
+        "text": "Italy",
+        "label": "GPE",
+        "start": 232,
+        "end": 237
+      },
+      {
+        "text": "Edoardo Mazza",
+        "label": "GPE",
+        "start": 239,
+        "end": 252
+      },
+      {
+        "text": "the Lecturer’s Conference",
+        "label": "ORG",
+        "start": 283,
+        "end": 308
+      },
+      {
+        "text": "1 August 2016",
+        "label": "DATE",
+        "start": 312,
+        "end": 325
+      },
+      {
+        "text": "Felicitas Pauss",
+        "label": "PERSON",
+        "start": 356,
+        "end": 371
+      },
+      {
+        "text": "the Lecturers’ Conference",
+        "label": "ORG",
+        "start": 399,
+        "end": 424
+      },
+      {
+        "text": "Experimental Particle Physics",
+        "label": "ORG",
+        "start": 460,
+        "end": 489
+      },
+      {
+        "text": "the Institute for Particle Physics",
+        "label": "ORG",
+        "start": 493,
+        "end": 527
+      },
+      {
+        "text": "the end of July 2016",
+        "label": "DATE",
+        "start": 553,
+        "end": 573
+      },
+      {
+        "text": "the Lecturers’ Conference",
+        "label": "ORG",
+        "start": 742,
+        "end": 767
+      },
+      {
+        "text": "the KITE Award",
+        "label": "ORG",
+        "start": 805,
+        "end": 819
+      },
+      {
+        "text": "Edoardo Mazza",
+        "label": "PERSON",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 51,
+        "end": 61
+      },
+      {
+        "text": "the Department of Mechanics for Modeling and Simulation at Empa",
+        "label": "ORG",
+        "start": 97,
+        "end": 160
+      },
+      {
+        "text": "the Materials Science and Technology",
+        "label": "ORG",
+        "start": 162,
+        "end": 198
+      },
+      {
+        "text": "the ETH Domain",
+        "label": "ORG",
+        "start": 221,
+        "end": 235
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 269,
+        "end": 275
+      },
+      {
+        "text": "Edoardo Mazza",
+        "label": "PERSON",
+        "start": 646,
+        "end": 659
+      },
+      {
+        "text": "the Lecturers’ Conference",
+        "label": "ORG",
+        "start": 681,
+        "end": 706
+      },
+      {
+        "text": "the ETH Zurich Teaching Commission",
+        "label": "ORG",
+        "start": 734,
+        "end": 768
+      },
+      {
+        "text": "the Golden Owl",
+        "label": "FAC",
+        "start": 827,
+        "end": 841
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 872,
+        "end": 884
+      },
+      {
+        "text": "The Lecturers’ Conference",
+        "label": "ORG",
+        "start": 926,
+        "end": 951
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 960,
+        "end": 979
+      },
+      {
+        "text": "the Lecturer’s Conference",
+        "label": "ORG",
+        "start": 1007,
+        "end": 1032
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1058,
+        "end": 1061
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 1069,
+        "end": 1073
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1158,
+        "end": 1168
+      },
+      {
+        "text": "The Lecturers’ Conference",
+        "label": "ORG",
+        "start": 1170,
+        "end": 1195
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 1218,
+        "end": 1221
+      },
+      {
+        "text": "the General Faculty Conference",
+        "label": "ORG",
+        "start": 1241,
+        "end": 1271
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1277,
+        "end": 1280
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich’s",
+        "Edoardo Mazza",
+        "Felicitas Pauss"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Experimental Particle Physics",
+        "The General Faculty Conference",
+        "The Lecturers’ Conference",
+        "the Department of Mechanics for Modeling and Simulation at Empa",
+        "the ETH Domain",
+        "the ETH Zurich Teaching Commission",
+        "the Executive Board",
+        "the General Faculty Conference",
+        "the Institute for Particle Physics",
+        "the Institute of Mechanical Systems",
+        "the KITE Award",
+        "the Lecturers’ Conference",
+        "the Lecturers’ Conference ( KdL",
+        "the Lecturer’s Conference",
+        "the Materials Science and Technology"
+      ],
+      "LOCATION": [
+        "Edoardo Mazza",
+        "Italy",
+        "Zurich",
+        "the Golden Owl"
+      ],
+      "DATE": [
+        "1 August 2016",
+        "12 May 2016",
+        "the end of July 2016",
+        "two years"
+      ],
+      "MISC": [
+        "four",
+        "one",
+        "six"
+      ]
+    },
+    "entity_counts": {
+      "Edoardo Mazza": 4,
+      "the Lecturers’ Conference": 3,
+      "the Lecturer’s Conference": 2,
+      "ETH Zurich": 2,
+      "The Lecturers’ Conference": 2,
+      "one": 2,
+      "the Lecturers’ Conference ( KdL": 1,
+      "The General Faculty Conference": 1,
+      "the Institute of Mechanical Systems": 1,
+      "two years": 1,
+      "12 May 2016": 1,
+      "Italy": 1,
+      "1 August 2016": 1,
+      "Felicitas Pauss": 1,
+      "Experimental Particle Physics": 1,
+      "the Institute for Particle Physics": 1,
+      "the end of July 2016": 1,
+      "the KITE Award": 1,
+      "the Department of Mechanics for Modeling and Simulation at Empa": 1,
+      "the Materials Science and Technology": 1
+    },
+    "total_entities": 38,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-lecturers-conference-has-a-new-president.md",
+      "title": "En Internal/2016/05/the Lecturers Conference Has A New President",
+      "language": "en",
+      "source_path": "en_internal/2016/05/the-lecturers-conference-has-a-new-president.html"
+    },
+    "temporal": {
+      "publication_date": "2016-05",
+      "mentioned_years": [
+        "2002",
+        "2006",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich’s",
+        "Edoardo Mazza",
+        "Felicitas Pauss"
+      ],
+      "people_with_roles": {
+        "ETH Zurich’s": [
+          "student"
+        ],
+        "Edoardo Mazza": [
+          "president"
+        ],
+        "Felicitas Pauss": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "rector",
+        "professor",
+        "head",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "physics",
+        "mathematics"
+      ],
+      "research_topics": [
+        "four"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "New President",
+        "The Lecturers",
+        "Felicitas Pauss",
+        "Teaching Commission",
+        "Zurich Heart",
+        "Golden Owl",
+        "Materials Science",
+        "KITE Award",
+        "Experimental Particle",
+        "The General",
+        "Has A",
+        "ETH Domain",
+        "Executive Board",
+        "Mechanical Systems",
+        "Lecturers Conference",
+        "Particle Physics",
+        "Edoardo Mazza",
+        "Faculty Conference",
+        "En Internal",
+        "ETH Zurich",
+        "D-MAVT",
+        "General Faculty"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Mechanics for Modeling and Simulation at Empa",
+        "Particle Physics"
+      ],
+      "institutions": [
+        "ETH Zurich",
+        "Experimental Particle Physics",
+        "The General Faculty Conference",
+        "The Lecturers’ Conference",
+        "the Department of Mechanics for Modeling and Simulation at Empa",
+        "the ETH Domain",
+        "the ETH Zurich Teaching Commission",
+        "the Executive Board",
+        "the General Faculty Conference",
+        "the Institute for Particle Physics",
+        "the Institute of Mechanical Systems",
+        "the KITE Award",
+        "the Lecturers’ Conference",
+        "the Lecturers’ Conference ( KdL",
+        "the Lecturer’s Conference",
+        "the Materials Science and Technology"
+      ],
+      "locations": [
+        "Edoardo Mazza",
+        "Italy",
+        "Zurich",
+        "the Golden Owl"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Edoardo Mazza",
+        "the Lecturers’ Conference",
+        "the Lecturer’s Conference",
+        "ETH Zurich",
+        "The Lecturers’ Conference",
+        "one",
+        "the Lecturers’ Conference ( KdL",
+        "The General Faculty Conference",
+        "the Institute of Mechanical Systems",
+        "two years"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "An engineer with a flair for medicine",
+          "An engineer with a flair for medicine"
+        ],
+        "content_length": 2238
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Department of Mechanics for Modeling and Simulation at Empa",
+        "2016",
+        "the Institute for Particle Physics",
+        "Felicitas Pauss",
+        "the Lecturers’ Conference ( KdL",
+        "the Lecturers’ Conference",
+        "ETH Zurich’s",
+        "2002",
+        "the KITE Award",
+        "the General Faculty Conference",
+        "the Institute of Mechanical Systems",
+        "2014",
+        "2015",
+        "the ETH Zurich Teaching Commission",
+        "the ETH Domain",
+        "The General Faculty Conference",
+        "The Lecturers’ Conference",
+        "2006",
+        "Experimental Particle Physics",
+        "Edoardo Mazza",
+        "2013",
+        "the Materials Science and Technology",
+        "the Executive Board",
+        "the Lecturer’s Conference",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "four",
+        "who",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich’s_has_role_student",
+        "Edoardo Mazza_has_role_president",
+        "Felicitas Pauss_has_role_president",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

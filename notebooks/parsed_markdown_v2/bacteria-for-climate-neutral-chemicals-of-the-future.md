@@ -1,0 +1,44 @@
+# bacteria-for-climate-neutral-chemicals-of-the-future.html
+
+**Source:** en_news_events/2024/04/bacteria-for-climate-neutral-chemicals-of-the-future.html
+
+## In brief
+
+- Methanol can be synthesised from carbon dioxide and water using renewable energy.
+
+- When this green methanol is metabolised by specialised bacteria, a variety of chemical substances can be biotechnologically produced.
+
+- The application of these bacteria could allow the chemical industry to convert the greenhouse gas carbon dioxide into valuable climate-neutral chemicals, and substantially reduce its ecological footprint.
+
+## Green methanol
+
+To produce various chemicals such as plastics, dyes or artificial flavours, the chemical industry currently relies heavily on fossil resources such as crude oil. “Globally, it consumes 500 million tons per year, or more than one million tons per day,” says Julia Vorholt, Professor at the Institute of Microbiology at ETH Zurich. “Since these chemical conversions are energy-intensive, the true CO 2 footprint of the chemical industry is even six to ten times larger, amounting to about five percent of total emissions globally.” She and her team are looking for ways to reduce the chemical industry's dependence on fossil fuels.
+
+## Green methanol
+
+Bacteria that feed on methanol, known as methylotrophs, are at the centre of these efforts. Containing just a single carbon atom, methanol is one of the simplest organic molecules and can be synthesised from the greenhouse gas carbon dioxide and water. If the energy for this synthesis reaction comes from renewable sources, the methanol is termed “green”.
+
+“There are natural methylotrophs, but using them industrially remains difficult despite considerable research effort,” says Michael Reiter, a postdoctoral researcher in Vorholt’s research group, which instead works with the biotechnologically well-understood model bacterium Escherichia coli . Vorholt’s team has been pursuing the idea of equipping the model bacterium, which grows on sugar, with the ability to metabolise methanol for several years.
+
+## Complete restructuring of metabolism
+
+“This is a major challenge because it requires a complete restructuring of the cell’s metabolism,” says Vorholt. Initially, the researchers simulated this change using computer models. Based on these simulations, they chose two genes to remove and three new genes to introduce. “As a result, the bacteria could take up methanol, albeit only in small quantities,” says Reiter.
+
+They continued to grow the bacteria under special conditions in the laboratory for more than a year until the microbes could produce all cell components from methanol. Over the course of around 1,000 more generations, these synthetic methylotrophs became increasingly efficient, eventually doubling every four hours when fed only with methanol. “The improved growth rate makes the bacteria economically interesting,” says Vorholt.
+
+## Optimisation through loss of function
+
+As Vorholt’s team describes in their recently published paper , several randomly occurring mutations are responsible for the increased efficiency of methanol utilisation. Most of these mutations resulted in the loss of function of various genes. This is surprising at first glance, but upon closer inspection, it becomes apparent that the cells can save energy thanks to the loss of function of the genes. For example, some mutations cause the reverse reactions of important biochemical reactions to fail. “This abolishes superfluous chemical conversions and optimises the metabolic flux in the cells,” the researchers write.
+
+## Reference
+
+To explore the potential of synthetic methylotrophs for the biotechnological production of industrially relevant bulk chemicals, Vorholt and her team have equipped the bacteria with additional genes for four different biosynthetic pathways. In their study, they now show that the bacteria indeed produced the desired compounds in all cases.
+
+For the researchers, this is clear evidence that their engineered bacteria can deliver on what was originally promised: the microbes are a kind of highly versatile production platform into which biosynthesis modules can be inserted according to the “plug-and-play” principle, prompting the bacteria to convert methanol into desired biochemical substances.
+
+However, the researchers still need to significantly increase the yield and productivity to enable economically viable use of the bacteria. Vorholt and her team recently received an innovation fund “to further expand plans towards applications and to select products to focus on first,” says Vorholt.
+
+When Reiter talks about how the cultivation of bacteria in bioreactors can be optimised, he is filled with enthusiasm. “Given the challenges of climate change, it is clear that alternatives to fossil resources are needed,” he says. “We are developing a technology that does not emit additional CO 2 into the atmosphere,” says Reiter. And since the synthetic methylotrophs, besides green methanol, do not require any additional carbon sources for their growth and products, they allow “renewable chemicals to be produced that do not burden the environment.”
+
+Reiter MA, Bradley T, Büchel LA, Keller P, Hegedis E, Gassler T, Vorholt JA: A synthetic methylotrophic Escherichia coli as a chassis for bioproduction from methanol. Nature Catalysis, 23 April 2024, doi: 10.1038/s41929-024-01137-0
+

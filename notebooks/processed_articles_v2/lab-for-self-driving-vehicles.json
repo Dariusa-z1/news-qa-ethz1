@@ -1,0 +1,581 @@
+{
+  "filename": "lab-for-self-driving-vehicles.md",
+  "original_filename": "lab-for-self-driving-vehicles.html",
+  "source_path": "en_news_events/2018/01/lab-for-self-driving-vehicles.html",
+  "date": "2018-01",
+  "title": "Lab For Self Driving Vehicles",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Problem-solving in teams",
+      "text": "A camera, an inexpensive mini-computer, a chassis, wheels and tiny LEDs are all it takes to build a Duckiebot. This is what Andrea Censi and Jacopo Tani – lecturers on the new course for self-driving cars at ETH Zurich – call these small robot taxis. Censi and Tani are senior assistants in the research group headed by Emilio Frazzoli, professor in the Department of Mechanical and Process Engineering and an internationally renowned specialist in autonomous systems.\n\nOn Tuesday, they presented their Duckietown teaching project in ETH Zurich’s main hall. Each of the small robot taxis has a trademark rubber duck on board. The vehicles navigate autonomously through Duckietown, a model town made up of streets marked out with tape, signs, traffic lights and parking spots. The duck taxis stop at intersections, yield the right-of-way and brake when they encounter traffic."
+    },
+    {
+      "heading": "Problem-solving in teams",
+      "text": "The students tinker with the hardware and software for days before it finally works. What looks simple is really a highly complex endeavour – so complex that the students are able to solve the tasks only through teamwork. They spend the semester working in groups on a certain part of the project. The course relies on global collaboration: Master’s students from ETH Zurich, the University of Montreal and the Toyota Technological Institute in Chicago are all working on the project simultaneously.\n\nCensi developed the course at the Massachusetts Institute of Technology (MIT) at the end of 2015 in collaboration with Frazzoli and Tani and Liam Paull, now a professor at the University of Montréal. In 2017, they joined Frazzoli at ETH, where they continue to develop Duckietown.\n\nCensi says: “We think it is very important to make the course a shared experience.” Team collaboration and management of a big project under time pressure are learning objectives – and skills in high demand in the industry. Nicolas Lanzetti, a Master’s student in Robotics and Control, says: “Normally, we study alone for our exams. Here, we have a common goal as a class: in the end, all the group projects must work together.”\n\nMaster’s student Sonja Brits adds: “We have had a lot of freedom in how we tackle the project and work together. But this also entails a lot of responsibility towards our fellow students.” Censi thinks this is the future of learning: “Theory and basic knowledge can be made available online. What is so valuable about a university like ETH Zurich is that it is a place where so many talented specialists can meet and collaborate.”"
+    },
+    {
+      "heading": "More complicated than in the books",
+      "text": "The interaction of the various elements presents a big challenge in robotics and self-driving vehicles. Hardware components, sensors and motors must all be reconciled, both inside the Duckiebot itself – and among the fleet of self-driving vehicles. It is not the theoretical aspects that have perplexed the students, but rather the practical details: flawed hardware, components that do not interact properly, plans that do not work out. Censi says: “Thanks to Duckietown, the students recognise that things do not work exactly as described in the books. There are no perfect systems in robotics, and they learn how to deal with this fact.”\n\nAs the students teach the duck taxis to drive along the barrier lines smoothly, not be distracted by sunlight or to park cleanly, they are doing some pioneering work as well. The groups are all working on the same code. They document their solutions and make the information available for future students and researchers all over the world: the project embraces the open-source philosophy. Lesson modules, code and documentation are freely available online. Censi hopes this will inspire robotics enthusiasts from other institutions to develop their own self-driving Duckiebots to join the flock.\n\nIt is quite likely that knowledge and lines of code from the course will also be used to steer cars on real streets in the future. Emilio Frazzoli is co-founder of nuTonomy, which is planning a self-driving taxi service in Singapore and other cities worldwide. Andrea Censi is a systems architect at nuTonomy.\n\nThe students are also taking what they have learned and putting it to use out on the road: in 2017, the Akademischer Motorsportverein (AMZ) sent an electric self-driving racing car to the track for the first time – and won the Formula Student Driverless competition at the Hockenheimring. Several students from Censi’s course are already working on the AMZ driverless team and preparing for the next race."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Andrea Censi",
+        "label": "PERSON",
+        "start": 124,
+        "end": 136
+      },
+      {
+        "text": "Jacopo Tani",
+        "label": "PERSON",
+        "start": 141,
+        "end": 152
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 208,
+        "end": 218
+      },
+      {
+        "text": "Censi",
+        "label": "PERSON",
+        "start": 251,
+        "end": 256
+      },
+      {
+        "text": "Tani",
+        "label": "LOC",
+        "start": 261,
+        "end": 265
+      },
+      {
+        "text": "Emilio Frazzoli",
+        "label": "PERSON",
+        "start": 320,
+        "end": 335
+      },
+      {
+        "text": "the Department of Mechanical and Process Engineering",
+        "label": "ORG",
+        "start": 350,
+        "end": 402
+      },
+      {
+        "text": "Tuesday",
+        "label": "DATE",
+        "start": 472,
+        "end": 479
+      },
+      {
+        "text": "Duckietown",
+        "label": "ORG",
+        "start": 502,
+        "end": 512
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 537,
+        "end": 543
+      },
+      {
+        "text": "Duckietown",
+        "label": "GPE",
+        "start": 668,
+        "end": 678
+      },
+      {
+        "text": "days",
+        "label": "DATE",
+        "start": 55,
+        "end": 59
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 364,
+        "end": 374
+      },
+      {
+        "text": "the University of Montreal",
+        "label": "ORG",
+        "start": 376,
+        "end": 402
+      },
+      {
+        "text": "the Toyota Technological Institute",
+        "label": "ORG",
+        "start": 407,
+        "end": 441
+      },
+      {
+        "text": "Chicago",
+        "label": "GPE",
+        "start": 445,
+        "end": 452
+      },
+      {
+        "text": "Censi",
+        "label": "PERSON",
+        "start": 500,
+        "end": 505
+      },
+      {
+        "text": "the Massachusetts Institute of Technology",
+        "label": "ORG",
+        "start": 530,
+        "end": 571
+      },
+      {
+        "text": "MIT",
+        "label": "ORG",
+        "start": 573,
+        "end": 576
+      },
+      {
+        "text": "the end of 2015",
+        "label": "DATE",
+        "start": 581,
+        "end": 596
+      },
+      {
+        "text": "Frazzoli",
+        "label": "PERSON",
+        "start": 619,
+        "end": 627
+      },
+      {
+        "text": "Tani",
+        "label": "LOC",
+        "start": 632,
+        "end": 636
+      },
+      {
+        "text": "Liam Paull",
+        "label": "PERSON",
+        "start": 641,
+        "end": 651
+      },
+      {
+        "text": "the University of Montréal",
+        "label": "ORG",
+        "start": 672,
+        "end": 698
+      },
+      {
+        "text": "Frazzoli",
+        "label": "PERSON",
+        "start": 721,
+        "end": 729
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 733,
+        "end": 736
+      },
+      {
+        "text": "Duckietown",
+        "label": "ORG",
+        "start": 769,
+        "end": 779
+      },
+      {
+        "text": "Censi",
+        "label": "PERSON",
+        "start": 781,
+        "end": 786
+      },
+      {
+        "text": "Nicolas Lanzetti",
+        "label": "PERSON",
+        "start": 1005,
+        "end": 1021
+      },
+      {
+        "text": "Robotics",
+        "label": "GPE",
+        "start": 1045,
+        "end": 1053
+      },
+      {
+        "text": "Control",
+        "label": "ORG",
+        "start": 1058,
+        "end": 1065
+      },
+      {
+        "text": "Censi",
+        "label": "PERSON",
+        "start": 1399,
+        "end": 1404
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1546,
+        "end": 1556
+      },
+      {
+        "text": "Duckiebot",
+        "label": "PERSON",
+        "start": 184,
+        "end": 193
+      },
+      {
+        "text": "Censi",
+        "label": "PERSON",
+        "start": 438,
+        "end": 443
+      },
+      {
+        "text": "Lesson",
+        "label": "PERSON",
+        "start": 1031,
+        "end": 1037
+      },
+      {
+        "text": "Censi",
+        "label": "PERSON",
+        "start": 1099,
+        "end": 1104
+      },
+      {
+        "text": "Duckiebots",
+        "label": "ORG",
+        "start": 1208,
+        "end": 1218
+      },
+      {
+        "text": "Emilio Frazzoli",
+        "label": "PERSON",
+        "start": 1369,
+        "end": 1384
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 1461,
+        "end": 1470
+      },
+      {
+        "text": "Andrea Censi",
+        "label": "PERSON",
+        "start": 1499,
+        "end": 1511
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 1683,
+        "end": 1686
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1750,
+        "end": 1755
+      },
+      {
+        "text": "Hockenheimring",
+        "label": "LOC",
+        "start": 1821,
+        "end": 1835
+      },
+      {
+        "text": "Censi",
+        "label": "ORG",
+        "start": 1859,
+        "end": 1864
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 1901,
+        "end": 1904
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andrea Censi",
+        "Censi",
+        "Duckiebot",
+        "ETH Zurich",
+        "Emilio Frazzoli",
+        "Frazzoli",
+        "Jacopo Tani",
+        "Lesson",
+        "Liam Paull",
+        "Nicolas Lanzetti"
+      ],
+      "ORG": [
+        "AMZ",
+        "Censi",
+        "Control",
+        "Duckiebots",
+        "Duckietown",
+        "ETH",
+        "ETH Zurich",
+        "MIT",
+        "the Department of Mechanical and Process Engineering",
+        "the Massachusetts Institute of Technology",
+        "the Toyota Technological Institute",
+        "the University of Montreal",
+        "the University of Montréal"
+      ],
+      "LOCATION": [
+        "Chicago",
+        "Duckietown",
+        "Hockenheimring",
+        "Robotics",
+        "Singapore",
+        "Tani",
+        "Zurich"
+      ],
+      "DATE": [
+        "Tuesday",
+        "days",
+        "the end of 2015"
+      ],
+      "MISC": [
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "Censi": 7,
+      "ETH Zurich": 3,
+      "Duckietown": 3,
+      "Andrea Censi": 2,
+      "Tani": 2,
+      "Emilio Frazzoli": 2,
+      "Frazzoli": 2,
+      "AMZ": 2,
+      "Jacopo Tani": 1,
+      "the Department of Mechanical and Process Engineering": 1,
+      "Tuesday": 1,
+      "Zurich": 1,
+      "days": 1,
+      "the University of Montreal": 1,
+      "the Toyota Technological Institute": 1,
+      "Chicago": 1,
+      "the Massachusetts Institute of Technology": 1,
+      "MIT": 1,
+      "the end of 2015": 1,
+      "Liam Paull": 1
+    },
+    "total_entities": 46,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "lab-for-self-driving-vehicles.md",
+      "title": "En News Events/2018/01/lab For Self Driving Vehicles",
+      "language": "en",
+      "source_path": "en_news_events/2018/01/lab-for-self-driving-vehicles.html"
+    },
+    "temporal": {
+      "publication_date": "2018-01",
+      "mentioned_years": [
+        "2015",
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andrea Censi",
+        "Censi",
+        "Duckiebot",
+        "ETH Zurich",
+        "Emilio Frazzoli",
+        "Frazzoli",
+        "Jacopo Tani",
+        "Lesson",
+        "Liam Paull",
+        "Nicolas Lanzetti"
+      ],
+      "people_with_roles": {
+        "Censi": [
+          "student",
+          "head",
+          "professor"
+        ],
+        "ETH Zurich": [
+          "student"
+        ],
+        "Emilio Frazzoli": [
+          "head",
+          "professor"
+        ],
+        "Frazzoli": [
+          "head",
+          "professor"
+        ],
+        "Liam Paull": [
+          "professor"
+        ],
+        "Nicolas Lanzetti": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Sonja Brits",
+        "On Tuesday",
+        "For Self",
+        "Andrea Censi",
+        "En News",
+        "Emilio Frazzoli",
+        "Nicolas Lanzetti",
+        "Process Engineering",
+        "Akademischer Motorsportverein",
+        "Jacopo Tani",
+        "Formula Student",
+        "Massachusetts Institute",
+        "ETH Zurich",
+        "Toyota Technological",
+        "Driving Vehicles",
+        "Liam Paull"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Mechanical and Process Engineering and an internationally renowned specialist in autonomous systems"
+      ],
+      "institutions": [
+        "AMZ",
+        "Censi",
+        "Control",
+        "Duckiebots",
+        "Duckietown",
+        "ETH",
+        "ETH Zurich",
+        "MIT",
+        "the Department of Mechanical and Process Engineering",
+        "the Massachusetts Institute of Technology",
+        "the Toyota Technological Institute",
+        "the University of Montreal",
+        "the University of Montréal"
+      ],
+      "locations": [
+        "Chicago",
+        "Duckietown",
+        "Hockenheimring",
+        "Robotics",
+        "Singapore",
+        "Tani",
+        "Zurich"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Censi",
+        "ETH Zurich",
+        "Duckietown",
+        "Andrea Censi",
+        "Tani",
+        "Emilio Frazzoli",
+        "Frazzoli",
+        "AMZ",
+        "Jacopo Tani",
+        "the Department of Mechanical and Process Engineering"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Problem-solving in teams",
+          "Problem-solving in teams",
+          "More complicated than in the books"
+        ],
+        "content_length": 4529
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Censi",
+        "Lesson",
+        "Nicolas Lanzetti",
+        "Jacopo Tani",
+        "Duckietown",
+        "2018",
+        "the University of Montréal",
+        "Duckiebot",
+        "Emilio Frazzoli",
+        "Frazzoli",
+        "Duckiebots",
+        "the University of Montreal",
+        "2015",
+        "Andrea Censi",
+        "the Department of Mechanical and Process Engineering",
+        "AMZ",
+        "the Massachusetts Institute of Technology",
+        "2017",
+        "the Toyota Technological Institute",
+        "Control",
+        "MIT",
+        "ETH Zurich",
+        "Liam Paull"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "where",
+        "what",
+        "how",
+        "computer_science",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Censi_has_role_student",
+        "Censi_has_role_head",
+        "Censi_has_role_professor",
+        "ETH Zurich_has_role_student",
+        "Emilio Frazzoli_has_role_head",
+        "Emilio Frazzoli_has_role_professor",
+        "Frazzoli_has_role_head",
+        "Frazzoli_has_role_professor",
+        "Liam Paull_has_role_professor",
+        "Nicolas Lanzetti_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

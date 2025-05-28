@@ -1,0 +1,224 @@
+{
+  "filename": "ethjuniors-jFund-on-your%20marks-get-set-launch.md",
+  "original_filename": "ethjuniors-jFund-on-your%20marks-get-set-launch.html",
+  "source_path": "en_internal/2015/08/ethjuniors-jFund-on-your%20marks-get-set-launch.html",
+  "date": "2015-08",
+  "title": "Ethjuniors Jfund On Your%20Marks Get Set Launch",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH juniors (founded in 1997 at ETH Zurich) is a junior enterprise. Now a well-established organisation, its core business is the acquisition and execution of project orders from industry. It has created a dense network between ETH Zurich and the Swiss private sector and is the birthplace of the growing ETH Seniors Club that connects former juniors.\n\nDisproportionately many former ETH juniors have set up successful companies. To increase the opportunities open to these junior entrepreneurs, ETH juniors and the ETH Seniors Club have recently established the ‘ETH juniors jFund’ start-up fund.\n\nPart of the profits from ETH juniors’ operations are donated to the jFund. They are saving for fellow members who aspire to start a company themselves and will need seed money. The jFund is a hub for future innovative ventures. It serves ETH in fulfilling its public mandate to transfer knowledge and technology and makes an important contribution to the local and national economy.\n\nInterested future entrepreneurs are always welcome to come for a relaxed visit and find out more about us and our work."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 32,
+        "end": 42
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 228,
+        "end": 238
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 247,
+        "end": 252
+      },
+      {
+        "text": "ETH Seniors Club",
+        "label": "ORG",
+        "start": 305,
+        "end": 321
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 383,
+        "end": 386
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 495,
+        "end": 498
+      },
+      {
+        "text": "the ETH Seniors Club",
+        "label": "ORG",
+        "start": 511,
+        "end": 531
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 563,
+        "end": 566
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 622,
+        "end": 625
+      },
+      {
+        "text": "jFund",
+        "label": "PRODUCT",
+        "start": 665,
+        "end": 670
+      },
+      {
+        "text": "jFund",
+        "label": "ORG",
+        "start": 778,
+        "end": 783
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 835,
+        "end": 838
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Seniors Club",
+        "jFund",
+        "the ETH Seniors Club"
+      ],
+      "LOCATION": [
+        "ETH Zurich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Swiss",
+        "jFund"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 6,
+      "ETH Zurich": 2,
+      "jFund": 2,
+      "Swiss": 1,
+      "ETH Seniors Club": 1,
+      "the ETH Seniors Club": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ethjuniors-jFund-on-your%20marks-get-set-launch.md",
+      "title": "En Internal/2015/08/ethjuniors Jfund On Your%20marks Get Set Launch",
+      "language": "en",
+      "source_path": "en_internal/2015/08/ethjuniors-jFund-on-your%20marks-get-set-launch.html"
+    },
+    "temporal": {
+      "publication_date": "2015-08",
+      "mentioned_years": [
+        "1997",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Swiss",
+        "jFund"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH Seniors",
+        "Jfund On",
+        "Get Set",
+        "Launch ETH",
+        "En Internal",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Seniors Club",
+        "jFund",
+        "the ETH Seniors Club"
+      ],
+      "locations": [
+        "ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Zurich",
+        "jFund",
+        "Swiss",
+        "ETH Seniors Club",
+        "the ETH Seniors Club"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1170
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the ETH Seniors Club",
+        "2015",
+        "EU",
+        "1997",
+        "ETH Seniors Club",
+        "ETH Zurich",
+        "jFund"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Swiss",
+        "what",
+        "jFund",
+        "when",
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

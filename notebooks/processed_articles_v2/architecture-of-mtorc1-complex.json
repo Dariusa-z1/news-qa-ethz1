@@ -1,0 +1,492 @@
+{
+  "filename": "architecture-of-mtorc1-complex.md",
+  "original_filename": "architecture-of-mtorc1-complex.html",
+  "source_path": "en_news_events/2015/12/architecture-of-mtorc1-complex.html",
+  "date": "2015-12",
+  "title": "Architecture Of Mtorc1 Complex",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Organisation of mTORC1 elucidated",
+      "text": "About 25 years ago, Michael Hall discovered the protein “Target of Rapamycin” (TOR) in yeast. It is one of the most studied members of the protein kinase family, an important family of regulatory proteins that control many cellular processes. Later, a TOR kinase was also found in mammalian cells, where it is known as mTOR – the mammalian Target of Rapamycin.\n\nIn humans, mTOR is implicated in various diseases including cancer, type 2 diabetes and forms of neurodegeneration. As its name suggests, mTOR is the target of the drug rapamycin. This drug is administered as an immunosuppressant to patients who have received organ transplants in order to prevent their body from rejecting the new organ. Since mTOR is so important for cellular signalling, several mTOR inhibitors have been approved for treatments of diseases such as renal cell carcinoma and pancreatic cancer.\n\nIn the mammalian cell, the protein kinase TOR is found in two structurally and functionally distinct protein complexes termed mTORC1 and mTORC2. Both complexes are giant protein structures consisting of mTOR and other accompanying proteins. In these two configurations mTOR carries out various functions such as the control of cell size and growth, as well as the regulation of metabolism and energy balance. However, only mTORC1 is influenced by the drug Rapamycin."
+    },
+    {
+      "heading": "Organisation of mTORC1 elucidated",
+      "text": "Due to the great complexity of mTOR complexes it has been very difficult to obtain mechanistic insights into how they work and how they are structured. Previous attempts to uncover the detailed structure of the protein kinase and its partners have been unsuccessful. However, a collaborative effort between the research teams of Timm Maier and Mike Hall at the Biozentrum in Basel and the group of Nenad Ban at ETH Zurich has now met with success. Interdisciplinary approaches that combined biochemistry, crystallography and electron microscopy were the key to obtaining these exciting insights into the architecture of the protein complex mTORC1. Structure is important for understanding the mechanism of rapamycin action.\n\n“These results, now appearing in Science, are very exciting, because they explain the mechanism of how proteins are recruited to the active site of the complex and how the rapamycin-induced change in the complex composition affects substrate specificity, leading in turn to the pharmaceutical effects of the drug”, says Nenad Ban.\n\nThe architecture of this huge protein complex is quite exceptional and the results presented reveal the precise interaction sites of the partner proteins and how they are arranged. “Although much is known about mTORC1, our study revealed surprising new insights”, adds Maier. Each protein in this complex plays an important role in the regulation of its activity, thereby controlling the intracellular signalling cascade."
+    },
+    {
+      "heading": "Looking at the system as a whole",
+      "text": "With their study, the researchers have provided the basis for further investigations that will aim to understand the function of each individual protein in the complex in more detail. “But it doesn’t make sense to examine the individual components alone, as the interactions of all the proteins within the complex are critical for its function”, explains Maier. “The whole is much more than the sum of its parts.”\n\nThe finely tuned regulation of TOR activity is very important because even the smallest disturbances can have serious consequences. Thus, dysregulation of TOR signalling pathways plays a role in the development of a number of diseases such as cancer, cardiovascular and neurodegenerative diseases.\n\nThis text is based on a press release issued by Biozentrum, University of Basel.\n\nAylett CHS, Sauer E, Imseng S, Boehringer D, Hall MN, Ban N, Maier T. Architecture of Human mTOR Complex 1; Science, published online 17 December 2015. DOI: 10.1126/science.aaa3870"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Complex",
+        "label": "NORP",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "text": "About 25 years ago",
+        "label": "DATE",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "Michael Hall",
+        "label": "PERSON",
+        "start": 20,
+        "end": 32
+      },
+      {
+        "text": "Rapamycin",
+        "label": "ORG",
+        "start": 67,
+        "end": 76
+      },
+      {
+        "text": "TOR",
+        "label": "ORG",
+        "start": 79,
+        "end": 82
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 100,
+        "end": 103
+      },
+      {
+        "text": "TOR",
+        "label": "ORG",
+        "start": 252,
+        "end": 255
+      },
+      {
+        "text": "Target",
+        "label": "ORG",
+        "start": 340,
+        "end": 346
+      },
+      {
+        "text": "Rapamycin",
+        "label": "ORG",
+        "start": 350,
+        "end": 359
+      },
+      {
+        "text": "mTOR",
+        "label": "PRODUCT",
+        "start": 372,
+        "end": 376
+      },
+      {
+        "text": "mTOR",
+        "label": "PRODUCT",
+        "start": 499,
+        "end": 503
+      },
+      {
+        "text": "TOR",
+        "label": "ORG",
+        "start": 916,
+        "end": 919
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 932,
+        "end": 935
+      },
+      {
+        "text": "mTOR",
+        "label": "PRODUCT",
+        "start": 1077,
+        "end": 1081
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1124,
+        "end": 1127
+      },
+      {
+        "text": "Rapamycin",
+        "label": "ORG",
+        "start": 1330,
+        "end": 1339
+      },
+      {
+        "text": "Timm Maier",
+        "label": "PERSON",
+        "start": 329,
+        "end": 339
+      },
+      {
+        "text": "Mike Hall",
+        "label": "PERSON",
+        "start": 344,
+        "end": 353
+      },
+      {
+        "text": "the Biozentrum in Basel",
+        "label": "FAC",
+        "start": 357,
+        "end": 380
+      },
+      {
+        "text": "Nenad Ban",
+        "label": "PERSON",
+        "start": 398,
+        "end": 407
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 411,
+        "end": 421
+      },
+      {
+        "text": "Structure",
+        "label": "PERSON",
+        "start": 648,
+        "end": 657
+      },
+      {
+        "text": "Science",
+        "label": "GPE",
+        "start": 757,
+        "end": 764
+      },
+      {
+        "text": "Nenad Ban",
+        "label": "PERSON",
+        "start": 1044,
+        "end": 1053
+      },
+      {
+        "text": "mTORC1",
+        "label": "ORG",
+        "start": 1266,
+        "end": 1272
+      },
+      {
+        "text": "Maier",
+        "label": "PERSON",
+        "start": 1324,
+        "end": 1329
+      },
+      {
+        "text": "Maier",
+        "label": "ORG",
+        "start": 355,
+        "end": 360
+      },
+      {
+        "text": "TOR",
+        "label": "ORG",
+        "start": 445,
+        "end": 448
+      },
+      {
+        "text": "TOR",
+        "label": "ORG",
+        "start": 569,
+        "end": 572
+      },
+      {
+        "text": "Biozentrum, University of Basel",
+        "label": "ORG",
+        "start": 760,
+        "end": 791
+      },
+      {
+        "text": "Aylett CHS",
+        "label": "PERSON",
+        "start": 793,
+        "end": 803
+      },
+      {
+        "text": "Sauer E",
+        "label": "PERSON",
+        "start": 805,
+        "end": 812
+      },
+      {
+        "text": "Imseng S",
+        "label": "PERSON",
+        "start": 814,
+        "end": 822
+      },
+      {
+        "text": "Boehringer D",
+        "label": "ORG",
+        "start": 824,
+        "end": 836
+      },
+      {
+        "text": "Ban N",
+        "label": "PERSON",
+        "start": 847,
+        "end": 852
+      },
+      {
+        "text": "Maier T. Architecture",
+        "label": "PERSON",
+        "start": 854,
+        "end": 875
+      },
+      {
+        "text": "Science",
+        "label": "ORG",
+        "start": 901,
+        "end": 908
+      },
+      {
+        "text": "17 December 2015",
+        "label": "DATE",
+        "start": 927,
+        "end": 943
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 950,
+        "end": 957
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Aylett CHS",
+        "Ban N",
+        "Imseng S",
+        "Maier",
+        "Maier T. Architecture",
+        "Michael Hall",
+        "Mike Hall",
+        "Nenad Ban",
+        "Sauer E",
+        "Structure",
+        "Timm Maier"
+      ],
+      "ORG": [
+        "Biozentrum, University of Basel",
+        "Boehringer D",
+        "ETH Zurich",
+        "En News",
+        "Maier",
+        "Rapamycin",
+        "Science",
+        "TOR",
+        "Target",
+        "mTORC1"
+      ],
+      "LOCATION": [
+        "Science",
+        "the Biozentrum in Basel"
+      ],
+      "DATE": [
+        "17 December 2015",
+        "About 25 years ago"
+      ],
+      "MISC": [
+        "10.1126",
+        "Complex",
+        "mTOR",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "TOR": 5,
+      "Rapamycin": 3,
+      "mTOR": 3,
+      "two": 2,
+      "Nenad Ban": 2,
+      "Science": 2,
+      "Maier": 2,
+      "En News": 1,
+      "Complex": 1,
+      "About 25 years ago": 1,
+      "Michael Hall": 1,
+      "one": 1,
+      "Target": 1,
+      "Timm Maier": 1,
+      "Mike Hall": 1,
+      "the Biozentrum in Basel": 1,
+      "ETH Zurich": 1,
+      "Structure": 1,
+      "mTORC1": 1,
+      "Biozentrum, University of Basel": 1
+    },
+    "total_entities": 40,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "architecture-of-mtorc1-complex.md",
+      "title": "En News Events/2015/12/architecture Of Mtorc1 Complex",
+      "language": "en",
+      "source_path": "en_news_events/2015/12/architecture-of-mtorc1-complex.html"
+    },
+    "temporal": {
+      "publication_date": "2015-12",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Aylett CHS",
+        "Ban N",
+        "Imseng S",
+        "Maier",
+        "Maier T. Architecture",
+        "Michael Hall",
+        "Mike Hall",
+        "Nenad Ban",
+        "Sauer E",
+        "Structure",
+        "Timm Maier"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology"
+      ],
+      "research_topics": [
+        "10.1126",
+        "Complex",
+        "mTOR"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Sauer E",
+        "Ban N",
+        "Aylett CHS",
+        "En News",
+        "Michael Hall",
+        "Mike Hall",
+        "Complex About",
+        "Timm Maier",
+        "Nenad Ban",
+        "Imseng S",
+        "Maier T",
+        "ETH Zurich",
+        "Hall MN",
+        "Boehringer D"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Biozentrum, University of Basel",
+        "Boehringer D",
+        "ETH Zurich",
+        "En News",
+        "Maier",
+        "Rapamycin",
+        "Science",
+        "TOR",
+        "Target",
+        "mTORC1"
+      ],
+      "locations": [
+        "Science",
+        "the Biozentrum in Basel"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "TOR",
+        "Rapamycin",
+        "mTOR",
+        "two",
+        "Nenad Ban",
+        "Science",
+        "Maier",
+        "En News",
+        "Complex",
+        "About 25 years ago"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Organisation of mTORC1 elucidated",
+          "Organisation of mTORC1 elucidated",
+          "Looking at the system as a whole"
+        ],
+        "content_length": 3852
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Sauer E",
+        "Maier",
+        "Michael Hall",
+        "mTORC1",
+        "Mike Hall",
+        "Rapamycin",
+        "TOR",
+        "Ban N",
+        "Target",
+        "Imseng S",
+        "Maier T. Architecture",
+        "2015",
+        "Structure",
+        "EU",
+        "Timm Maier",
+        "Boehringer D",
+        "Aylett CHS",
+        "En News",
+        "Science",
+        "Nenad Ban",
+        "Biozentrum, University of Basel",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mTOR",
+        "who",
+        "10.1126",
+        "biology",
+        "Complex",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology"
+      ]
+    }
+  }
+}

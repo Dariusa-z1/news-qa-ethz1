@@ -1,0 +1,190 @@
+{
+  "filename": "moebel-fuers-student-project-house.md",
+  "original_filename": "moebel-fuers-student-project-house.html",
+  "source_path": "de_internal/2016/08/moebel-fuers-student-project-house.html",
+  "date": "2016-08",
+  "title": "Moebel Fuers Student Project House",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Auf dem Hönggerberg wird derzeit die «Pilot Station» des Student Project House eingerichtet. Hier wird in den nächsten drei Jahren das künftige Student Project House entwickelt, getestet und optimiert. In zwei Studierendenworkshops wird die Einrichtung der drei sogenannten «Spaces» - dem «Makespace», «Thinkspace» und «Show & Connectspace» - geplant und umgesetzt. Für letzteren sucht das Einrichtungsteam gebrauchte Möbel mit inspirierendem Charakter. Haben Sie unbenutzte Möbel im Keller stehen? Dann könnten Sie mithelfen, eine einmalige Werk- und Denkstätte für Studierende zu entwickeln. Gesucht werden Stühle, Tische, Stehlampen, Tischlampen und Sofas.\n\nSchicken Sie der Jury bis zum 14. August 2016 ein Bild von Ihrem Möbel an: . Die Möbelstücke werden bis Ende August bei Ihnen abgeholt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/08",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 8,
+        "end": 19
+      },
+      {
+        "text": "Project House",
+        "label": "PER",
+        "start": 65,
+        "end": 78
+      },
+      {
+        "text": "Project House",
+        "label": "PER",
+        "start": 152,
+        "end": 165
+      },
+      {
+        "text": "Spaces",
+        "label": "MISC",
+        "start": 275,
+        "end": 281
+      },
+      {
+        "text": "Möbel",
+        "label": "PER",
+        "start": 418,
+        "end": 423
+      },
+      {
+        "text": "Ihrem Möbel",
+        "label": "MISC",
+        "start": 719,
+        "end": 730
+      },
+      {
+        "text": "Möbelstücke",
+        "label": "LOC",
+        "start": 741,
+        "end": 752
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Möbel",
+        "Project House"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2016/08",
+        "Hönggerberg",
+        "Möbelstücke"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Ihrem Möbel",
+        "Spaces"
+      ]
+    },
+    "entity_counts": {
+      "Project House": 2,
+      "De Internal/2016/08": 1,
+      "Hönggerberg": 1,
+      "Spaces": 1,
+      "Möbel": 1,
+      "Ihrem Möbel": 1,
+      "Möbelstücke": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "moebel-fuers-student-project-house.md",
+      "title": "De Internal/2016/08/moebel Fuers Student Project House",
+      "language": "de",
+      "source_path": "de_internal/2016/08/moebel-fuers-student-project-house.html"
+    },
+    "temporal": {
+      "publication_date": "2016-08",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Möbel",
+        "Project House"
+      ],
+      "people_with_roles": {
+        "Project House": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Ihrem Möbel",
+        "Spaces"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Project House",
+        "De Internal",
+        "Fuers Student",
+        "Schicken Sie",
+        "Haben Sie",
+        "Pilot Station",
+        "Student Project",
+        "Ende August"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2016/08",
+        "Hönggerberg",
+        "Möbelstücke"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Project House",
+        "De Internal/2016/08",
+        "Hönggerberg",
+        "Spaces",
+        "Möbel",
+        "Ihrem Möbel",
+        "Möbelstücke"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 851
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Möbel",
+        "Project House",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "Ihrem Möbel",
+        "Spaces",
+        "what",
+        "how"
+      ],
+      "graph_relations": [
+        "Project House_has_role_student"
+      ]
+    }
+  }
+}

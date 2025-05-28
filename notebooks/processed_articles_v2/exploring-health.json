@@ -1,0 +1,347 @@
+{
+  "filename": "exploring-health.md",
+  "original_filename": "exploring-health.html",
+  "source_path": "en_internal/2015/04/exploring-health.html",
+  "date": "2015-04",
+  "title": "Exploring Health",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "How can we stay healthy, and how can we keep our families healthy? The Epidemiology, Biostatistics and Prevention Institute’s research, teaching, and services improve the health of communities in Zurich and beyond. Members of ETH Zurich and the general public are invited to visit the institute on 6 June for 29 fun and interactive activities where they can learn about the institute’s activities – and the state of their own health. The event also includes an engaging children’s programme.\n\nLearn the latest in health research and practice from our own scientists and guest speakers like Councillor Dr. Thomas Heiniger, journalist Sara Hildebrand (health program Pulse , formerly of Glanz & Gloria ) and Prof. Dr. Nino Künzli (Director of the Swiss School of Public Health). Comedian and physician Fabian Unteregger will moderate the talks.\n\nStop by on 6 June and enjoy knowledge, fun, and food for the whole family!\n\n\"Der Gesundheit auf der Spur”\n\nSaturday, 6 June 2015, 11am – 4pm\n\nEpidemiology, Biostatistics and Prevention Institute\n\nHirschgraben 84, 8001 Zurich, near Central tram stop"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Epidemiology",
+        "label": "ORG",
+        "start": 71,
+        "end": 83
+      },
+      {
+        "text": "Biostatistics and Prevention Institute’s",
+        "label": "ORG",
+        "start": 85,
+        "end": 125
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 196,
+        "end": 202
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 226,
+        "end": 236
+      },
+      {
+        "text": "6 June",
+        "label": "DATE",
+        "start": 298,
+        "end": 304
+      },
+      {
+        "text": "Councillor",
+        "label": "ORG",
+        "start": 589,
+        "end": 599
+      },
+      {
+        "text": "Thomas Heiniger",
+        "label": "PERSON",
+        "start": 604,
+        "end": 619
+      },
+      {
+        "text": "Sara Hildebrand",
+        "label": "PERSON",
+        "start": 632,
+        "end": 647
+      },
+      {
+        "text": "Pulse",
+        "label": "GPE",
+        "start": 664,
+        "end": 669
+      },
+      {
+        "text": "Glanz & Gloria",
+        "label": "ORG",
+        "start": 684,
+        "end": 698
+      },
+      {
+        "text": "Nino Künzli",
+        "label": "PERSON",
+        "start": 715,
+        "end": 726
+      },
+      {
+        "text": "the Swiss School of Public Health",
+        "label": "ORG",
+        "start": 740,
+        "end": 773
+      },
+      {
+        "text": "Comedian",
+        "label": "NORP",
+        "start": 776,
+        "end": 784
+      },
+      {
+        "text": "Fabian",
+        "label": "NORP",
+        "start": 799,
+        "end": 805
+      },
+      {
+        "text": "6 June",
+        "label": "DATE",
+        "start": 853,
+        "end": 859
+      },
+      {
+        "text": "Der Gesundheit",
+        "label": "PERSON",
+        "start": 918,
+        "end": 932
+      },
+      {
+        "text": "Spur",
+        "label": "PERSON",
+        "start": 941,
+        "end": 945
+      },
+      {
+        "text": "Saturday",
+        "label": "DATE",
+        "start": 947,
+        "end": 955
+      },
+      {
+        "text": "6 June 2015",
+        "label": "DATE",
+        "start": 957,
+        "end": 968
+      },
+      {
+        "text": "11am",
+        "label": "TIME",
+        "start": 970,
+        "end": 974
+      },
+      {
+        "text": "Biostatistics and Prevention Institute Hirschgraben",
+        "label": "ORG",
+        "start": 995,
+        "end": 1046
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1056,
+        "end": 1062
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Der Gesundheit",
+        "ETH Zurich",
+        "Nino Künzli",
+        "Sara Hildebrand",
+        "Spur",
+        "Thomas Heiniger"
+      ],
+      "ORG": [
+        "Biostatistics and Prevention Institute Hirschgraben",
+        "Biostatistics and Prevention Institute’s",
+        "Councillor",
+        "Epidemiology",
+        "Glanz & Gloria",
+        "the Swiss School of Public Health"
+      ],
+      "LOCATION": [
+        "Pulse",
+        "Zurich"
+      ],
+      "DATE": [
+        "11am",
+        "6 June",
+        "6 June 2015",
+        "Saturday"
+      ],
+      "MISC": [
+        "Comedian",
+        "Fabian"
+      ]
+    },
+    "entity_counts": {
+      "Zurich": 2,
+      "6 June": 2,
+      "Epidemiology": 1,
+      "Biostatistics and Prevention Institute’s": 1,
+      "ETH Zurich": 1,
+      "Councillor": 1,
+      "Thomas Heiniger": 1,
+      "Sara Hildebrand": 1,
+      "Pulse": 1,
+      "Glanz & Gloria": 1,
+      "Nino Künzli": 1,
+      "the Swiss School of Public Health": 1,
+      "Comedian": 1,
+      "Fabian": 1,
+      "Der Gesundheit": 1,
+      "Spur": 1,
+      "Saturday": 1,
+      "6 June 2015": 1,
+      "11am": 1,
+      "Biostatistics and Prevention Institute Hirschgraben": 1
+    },
+    "total_entities": 22,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "exploring-health.md",
+      "title": "En Internal/2015/04/exploring Health",
+      "language": "en",
+      "source_path": "en_internal/2015/04/exploring-health.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Der Gesundheit",
+        "ETH Zurich",
+        "Nino Künzli",
+        "Sara Hildebrand",
+        "Spur",
+        "Thomas Heiniger"
+      ],
+      "people_with_roles": {
+        "Nino Künzli": [
+          "director",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "director",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Comedian",
+        "Fabian"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Prevention Institute",
+        "Thomas Heiniger",
+        "Public Health",
+        "Swiss School",
+        "En Internal",
+        "Fabian Unteregger",
+        "Der Gesundheit",
+        "Councillor Dr",
+        "ETH Zurich",
+        "Sara Hildebrand",
+        "Health How",
+        "The Epidemiology"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Biostatistics and Prevention Institute Hirschgraben",
+        "Biostatistics and Prevention Institute’s",
+        "Councillor",
+        "Epidemiology",
+        "Glanz & Gloria",
+        "the Swiss School of Public Health"
+      ],
+      "locations": [
+        "Pulse",
+        "Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Zurich",
+        "6 June",
+        "Epidemiology",
+        "Biostatistics and Prevention Institute’s",
+        "ETH Zurich",
+        "Councillor",
+        "Thomas Heiniger",
+        "Sara Hildebrand",
+        "Pulse",
+        "Glanz & Gloria"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1129
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Nino Künzli",
+        "2015",
+        "Thomas Heiniger",
+        "Epidemiology",
+        "Spur",
+        "Glanz & Gloria",
+        "the Swiss School of Public Health",
+        "Der Gesundheit",
+        "Councillor",
+        "Biostatistics and Prevention Institute’s",
+        "ETH Zurich",
+        "Sara Hildebrand",
+        "Biostatistics and Prevention Institute Hirschgraben"
+      ],
+      "semantic_concepts": [
+        "mathematics",
+        "who",
+        "Fabian",
+        "what",
+        "Comedian",
+        "how",
+        "medical_research",
+        "where"
+      ],
+      "graph_relations": [
+        "Nino Künzli_has_role_director",
+        "Nino Künzli_has_role_rector",
+        "research_domain_medical_research",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

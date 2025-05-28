@@ -1,0 +1,586 @@
+{
+  "filename": "snappy-kryptogeld-fuer-den-alltag.md",
+  "original_filename": "snappy-kryptogeld-fuer-den-alltag.html",
+  "source_path": "de_news_events/2020/04/snappy-kryptogeld-fuer-den-alltag.html",
+  "date": "2020-04",
+  "title": "Snappy Kryptogeld Fuer Den Alltag",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Die Eigenarten der Blockchain",
+      "text": "Längst sind Kryptowährungen wie Bitcoin, Ethereum oder Ripple nicht mehr nur ein Experimentierfeld für Systemkritiker. Sie haben sich als Anlagestrategie etabliert. Rund 5000 digitale Währungen gibt es heute. Von der populärsten, Bitcoin, sind heute über 18 Millionen Einheiten im Umlauf – das entspricht mehr als 126 Milliarden Euro. Ethereum, kurz Ether, ist die zweitgrösste digitale Währung mit einem Gesamtwert von rund 20 Milliarden Euro.\n\nAllerdings ist der Zahlungsverkehr mit Kryptowährungen bisher noch sehr langsam und darum bei alltäglichen Dingen nicht praktikabel. So kann es bei Bitcoin eine ganze Stunde dauern, bis eine Zahlung genehmigt ist. Bei der Währung Ether, die von Beginn weg als vollwertiger Ersatz für konventionelles Geld entworfen wurde, geht es schneller: Drei Minuten wartet man auf eine Bestätigung der Zahlung. «Das ist für viele Alltagskäufe zu lange», sagt Srdjan Capkun, Professor für Informationssicherheit an der ETH Zürich. «Beim Onlineshoppen oder für ihren Take-Away-Kaffee möchten die Wenigsten drei Minuten auf die Bezahlung warten.» Darum hat Capkun zusammen mit seinem Team ein System entwickelt, das den Zahlungsverkehr mit Ether beschleunigt. «Snappy», heisst die neue Entwicklung – weil das Bezahlen damit genau so schnell geht wie ein Fingerschnippen."
+    },
+    {
+      "heading": "Die Eigenarten der Blockchain",
+      "text": "Doch warum ist der Zahlungsverkehr mit digitalen Währungen bisher so schwerfällig? «Das liegt in der Natur der Blockchains, auf denen die Kryptowährungen basieren», erklärt Capkun. Bei einer Blockchain sind Informationen auf einem gemeinsam genutzten Datenregister gespeichert. Die Daten existieren nicht zentralisiert auf einem Server, sondern werden kontinuierlich auf Tausenden beteiligten Servern abgeglichen – ein riesiges Netzwerk rund um die Welt. Darum dauern Kommunikation und Bestätigung von Transaktionen eine Weile.\n\nDafür sind die Daten transparent und sicher: Weil die Informationen auf vielen Servern gleichzeitig gespeichert sind, sind sie für alle Mitglieder des Netzwerks sichtbar und lassen sich nicht von einer Partei manipulieren. In der Blockchain gelten für alle die gleichen, automatisierten Regeln, ohne Autoritäten wie Banken, Kreditkartenfirmen, Regierungen, denen man vertrauen muss.\n\nZwar gab es bisher schon Ansätze, den Zahlungsverkehr mit Kryptowährungen zu beschleunigen. Doch diese hoben den Zahlungsprozess dafür aus der Blockchain heraus. Sie synchronisierten einfach vorher und nachher mit dem Netzwerk – eine Vorgehensweise, die zwar funktioniert, aber den Ideen von Sicherheit, Transparenz und Autoritätsfreiheit von Blockchains zuwiderläuft. «Wir wollten einen Weg finden, dasselbe zu schaffen, ohne dafür die Blockchain zu verlassen», sagt Capkun."
+    },
+    {
+      "heading": "Schlaue Einlagen und Garantien",
+      "text": "Dazu haben Capkun und Vasilios Mavroudis, Doktorand am University College London und damals auf Besuch in Capkuns Gruppe, ein digitales Pfandsystem entworfen, das im Hintergrund von Zahlungen abläuft. Dabei hinterlegen die Kunden zusätzlich zu ihrem Kaufbetrag eine gleich hohe Summe als Pfand, aber nur, solange die Zahlung nicht bestätigt wurde. Bei der Kryptowährung Ether also drei Minuten lang – das ist die Latenzzeit der Ethereum-Blockchain.\n\nWeil ein solches Pfand nur während drei Minuten aktiv ist, fällt es im eigenen virtuellen Portemonnaie gar nicht auf. «Es ermöglicht aber dem Verkäufer, die Zahlung sofort zu bestätigen, ohne dass er Gefahr läuft, den Betrag zu verlieren», erklärt Capkun. Denn der Verkäufer sieht erst nach Ablauf der Latenzzeit der Blockchain, ob der Kaufpreis auch gedeckt ist.\n\nHier hilft das hinterlegte Pfand: Sollte bei der Zahlung etwas nicht mit rechten Dingen zugegangen sein, kann der Verkäufer sich stattdessen einfach die Einlage holen. Und weil in der Blockchain nichts manipulierbar ist, muss er seinen Anspruch auch nicht speziell geltend machen – die Blockchain zeigt diesen automatisch und für alle transparent."
+    },
+    {
+      "heading": "Gegen alle Eventualitäten abgesichert",
+      "text": "Aber nicht nur die Kunden, auch die Verkäufer müssen bei Snappy Einlagen bereitstellen. Diese fallen höher aus als diejenigen der Käufer und belaufen sich auf den Betrag aller im gleichen Zeitraum ablaufenden Geschäfte der einzelnen Verkäufer. Bei einem kleinen Anbieter, einem Kiosk etwa, ist die Einlage tief, bei einem grossen Anbieter entsprechend höher. Ähnlich wie die Kundenpfande sichern auch die Verkäuferpfande ein mögliches böswilliges Verhalten ab, diesmal vonseiten der Verkäufer. So deckt Snappy alle Risiken ab. «Darum können die Zahlungen sehr rasch und trotzdem sicher ablaufen», sagt Capkun.\n\nBei der praktischen Anwendung merken Kunden und Verkäufer nichts vom Pfand-Sicherheitssystem im Hintergrund. Alles läuft automatisch ab. Snappy nutzt dafür sogenannte Smart Contracts. Das sind Computerprotokolle, die digitale Verträge abbilden. Sie legen Abläufe und Regeln fest, an die sich alle in der Blockchain automatisch halten.\n\nUm Snappy anzuwenden, können dessen Algorithmen und Protokolle einfach über die Ethereum-Blockchain gelegt werden. Bisher wird das System noch nicht praktisch genutzt. Vorstellbar wären aber etwa Apps fürs Smartphone, die Snappy nutzen, sagt Capkun. In Läden oder Restaurants könnte dann beispielsweise ein QR-Code die Verbindung zum Konto des Verkäufers herstellen. Die Zahlung selbst liefe genauso schnell und unkompliziert ab, wie mit einer konventionellen Bezahl-App.\n\nIn seiner Arbeitsgruppe arbeitet Capkun an etlichen weiteren Projekten zu Sicherheit und Privatsphäre in der Blockchain. Zudem forscht der Sicherheitsexperte an sogenannter Trusted Hardware. Dabei geht es um die Entwicklung von Computern und Geräten, deren Technologie völlig sicher, unmanipulierbar und darum komplett vertrauenswürdig sind. Die Idee dahinter ist, dass man so keiner dritten Partei oder den Herstellern selbst vertrauen muss.\n\nBlockchain und Trusted Hardware sind also beides Ansätze, die eine Alternative zum heutigen System mit Autoritäten – seien es Banken, Wirtschaftsriesen oder Regierungen – bieten wollen. Allerdings wirkt Capkun in seinem ordentlichen Büro, an dessen Wände seine Diplome hängen, nicht wie ein Systemdisruptor. Oder ist er in seinem Inneren doch ein Anarchist? «Nein, gar nicht», sagt er lächelnd. «Ich finde diese Systeme einfach in intellektueller Hinsicht herausfordernd.» Und natürlich besitzt er selbst auch Bitcoin und Ether, aber ein Krypto-Millionär ist er nicht.\n\nSeine Doktorarbeit hatte er zu Kommunikationssystemen geschrieben – mit Sicherheit hatte er damals nichts am Hut. Schon bald hat Capkun aber gemerkt, welch zentrale Rolle die System- und Netzwerksicherheit einnimmt. Seitdem er 2006 als Professor an die ETH berufen wurde, hat er zwei ETH-Spin-offs mitgegründet, beide entwickeln Produkte für eine bessere Sicherheit in Netzwerken.\n\nAuch privat ist Capkun vorsichtig was Privatsphäre und Sicherheit im Netz angeht. «Ich bin kein Fan von Social Media», sagt er. Zwar hat Capkun einen Twitter-Account, bewirtschaftet diesen aber eher unwillig – und nur mit wissenschaftlichen Beiträgen, wie er betont. Auch mit seinen beiden Töchtern, elf- und achtjährig, wird er über das richtige Verhalten in sozialen Netzwerken sprechen, sobald diese bei ihnen zum Thema werden. «Social Media wirken sehr schnelllebig, aber auch hier gilt: Wenn etwas einmal ins Internet gestellt wurde, wird man es nie wieder los», sagt der Sicherheitsexperte. «Das ist vielen immer noch zu wenig bewusst.»"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Bitcoin",
+        "label": "LOC",
+        "start": 230,
+        "end": 237
+      },
+      {
+        "text": "Bitcoin",
+        "label": "PER",
+        "start": 593,
+        "end": 600
+      },
+      {
+        "text": "Srdjan Capkun",
+        "label": "PER",
+        "start": 892,
+        "end": 905
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 951,
+        "end": 961
+      },
+      {
+        "text": "Take-Away-Kaffee",
+        "label": "LOC",
+        "start": 998,
+        "end": 1014
+      },
+      {
+        "text": "Capkun",
+        "label": "ORG",
+        "start": 1087,
+        "end": 1093
+      },
+      {
+        "text": "Blockchains",
+        "label": "LOC",
+        "start": 111,
+        "end": 122
+      },
+      {
+        "text": "Capkun",
+        "label": "ORG",
+        "start": 173,
+        "end": 179
+      },
+      {
+        "text": "Blockchain",
+        "label": "LOC",
+        "start": 758,
+        "end": 768
+      },
+      {
+        "text": "Blockchain",
+        "label": "MISC",
+        "start": 1054,
+        "end": 1064
+      },
+      {
+        "text": "Blockchains",
+        "label": "PER",
+        "start": 1254,
+        "end": 1265
+      },
+      {
+        "text": "Blockchain",
+        "label": "MISC",
+        "start": 1348,
+        "end": 1358
+      },
+      {
+        "text": "Capkun",
+        "label": "ORG",
+        "start": 1379,
+        "end": 1385
+      },
+      {
+        "text": "Capkun",
+        "label": "PER",
+        "start": 11,
+        "end": 17
+      },
+      {
+        "text": "Vasilios Mavroudis",
+        "label": "PER",
+        "start": 22,
+        "end": 40
+      },
+      {
+        "text": "University College London",
+        "label": "ORG",
+        "start": 55,
+        "end": 80
+      },
+      {
+        "text": "Capkuns",
+        "label": "LOC",
+        "start": 106,
+        "end": 113
+      },
+      {
+        "text": "Ethereum-Blockchain",
+        "label": "LOC",
+        "start": 428,
+        "end": 447
+      },
+      {
+        "text": "Capkun",
+        "label": "ORG",
+        "start": 697,
+        "end": 703
+      },
+      {
+        "text": "Blockchain",
+        "label": "LOC",
+        "start": 766,
+        "end": 776
+      },
+      {
+        "text": "Blockchain",
+        "label": "LOC",
+        "start": 997,
+        "end": 1007
+      },
+      {
+        "text": "Blockchain",
+        "label": "PER",
+        "start": 1099,
+        "end": 1109
+      },
+      {
+        "text": "Snappy Einlagen",
+        "label": "PER",
+        "start": 57,
+        "end": 72
+      },
+      {
+        "text": "Capkun",
+        "label": "ORG",
+        "start": 602,
+        "end": 608
+      },
+      {
+        "text": "Pfand-Sicherheitssystem",
+        "label": "MISC",
+        "start": 679,
+        "end": 702
+      },
+      {
+        "text": "Snappy",
+        "label": "PER",
+        "start": 747,
+        "end": 753
+      },
+      {
+        "text": "Computerprotokolle",
+        "label": "MISC",
+        "start": 803,
+        "end": 821
+      },
+      {
+        "text": "Blockchain",
+        "label": "LOC",
+        "start": 914,
+        "end": 924
+      },
+      {
+        "text": "Ethereum-Blockchain",
+        "label": "LOC",
+        "start": 1025,
+        "end": 1044
+      },
+      {
+        "text": "Vorstellbar",
+        "label": "LOC",
+        "start": 1113,
+        "end": 1124
+      },
+      {
+        "text": "Apps fürs Smartphone",
+        "label": "MISC",
+        "start": 1141,
+        "end": 1161
+      },
+      {
+        "text": "Capkun",
+        "label": "LOC",
+        "start": 1187,
+        "end": 1193
+      },
+      {
+        "text": "QR-Code",
+        "label": "ORG",
+        "start": 1252,
+        "end": 1259
+      },
+      {
+        "text": "Capkun",
+        "label": "PER",
+        "start": 1450,
+        "end": 1456
+      },
+      {
+        "text": "Blockchain",
+        "label": "LOC",
+        "start": 1526,
+        "end": 1536
+      },
+      {
+        "text": "Herstellern",
+        "label": "MISC",
+        "start": 1825,
+        "end": 1836
+      },
+      {
+        "text": "Blockchain",
+        "label": "PER",
+        "start": 1860,
+        "end": 1870
+      },
+      {
+        "text": "Trusted Hardware",
+        "label": "LOC",
+        "start": 1875,
+        "end": 1891
+      },
+      {
+        "text": "Capkun",
+        "label": "PER",
+        "start": 2063,
+        "end": 2069
+      },
+      {
+        "text": "Bitcoin",
+        "label": "PER",
+        "start": 2370,
+        "end": 2377
+      },
+      {
+        "text": "Krypto-Millionär",
+        "label": "MISC",
+        "start": 2398,
+        "end": 2414
+      },
+      {
+        "text": "Capkun",
+        "label": "ORG",
+        "start": 2558,
+        "end": 2564
+      },
+      {
+        "text": "Rolle",
+        "label": "LOC",
+        "start": 2594,
+        "end": 2599
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2682,
+        "end": 2685
+      },
+      {
+        "text": "Netzwerken",
+        "label": "LOC",
+        "start": 2798,
+        "end": 2808
+      },
+      {
+        "text": "Capkun",
+        "label": "LOC",
+        "start": 2826,
+        "end": 2832
+      },
+      {
+        "text": "Social Media",
+        "label": "ORG",
+        "start": 2914,
+        "end": 2926
+      },
+      {
+        "text": "Capkun",
+        "label": "LOC",
+        "start": 2947,
+        "end": 2953
+      },
+      {
+        "text": "sozialen",
+        "label": "MISC",
+        "start": 3170,
+        "end": 3178
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 3324,
+        "end": 3332
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bitcoin",
+        "Blockchain",
+        "Blockchains",
+        "Capkun",
+        "De News",
+        "Snappy",
+        "Snappy Einlagen",
+        "Srdjan Capkun",
+        "Vasilios Mavroudis"
+      ],
+      "ORG": [
+        "Capkun",
+        "ETH",
+        "ETH Zürich",
+        "QR-Code",
+        "Social Media",
+        "University College London"
+      ],
+      "LOCATION": [
+        "Bitcoin",
+        "Blockchain",
+        "Blockchains",
+        "Capkun",
+        "Capkuns",
+        "Ethereum-Blockchain",
+        "Netzwerken",
+        "Rolle",
+        "Take-Away-Kaffee",
+        "Trusted Hardware",
+        "Vorstellbar"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Apps fürs Smartphone",
+        "Blockchain",
+        "Computerprotokolle",
+        "Herstellern",
+        "Internet",
+        "Krypto-Millionär",
+        "Pfand-Sicherheitssystem",
+        "sozialen"
+      ]
+    },
+    "entity_counts": {
+      "Capkun": 12,
+      "Blockchain": 9,
+      "Bitcoin": 3,
+      "Blockchains": 2,
+      "Ethereum-Blockchain": 2,
+      "De News": 1,
+      "Srdjan Capkun": 1,
+      "ETH Zürich": 1,
+      "Take-Away-Kaffee": 1,
+      "Vasilios Mavroudis": 1,
+      "University College London": 1,
+      "Capkuns": 1,
+      "Snappy Einlagen": 1,
+      "Pfand-Sicherheitssystem": 1,
+      "Snappy": 1,
+      "Computerprotokolle": 1,
+      "Vorstellbar": 1,
+      "Apps fürs Smartphone": 1,
+      "QR-Code": 1,
+      "Herstellern": 1
+    },
+    "total_entities": 51,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "snappy-kryptogeld-fuer-den-alltag.md",
+      "title": "De News Events/2020/04/snappy Kryptogeld Fuer den Alltag",
+      "language": "de",
+      "source_path": "de_news_events/2020/04/snappy-kryptogeld-fuer-den-alltag.html"
+    },
+    "temporal": {
+      "publication_date": "2020-04",
+      "mentioned_years": [
+        "2006",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bitcoin",
+        "Blockchain",
+        "Blockchains",
+        "Capkun",
+        "De News",
+        "Snappy",
+        "Snappy Einlagen",
+        "Srdjan Capkun",
+        "Vasilios Mavroudis"
+      ],
+      "people_with_roles": {
+        "Capkun": [
+          "professor"
+        ],
+        "Srdjan Capkun": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Apps fürs Smartphone",
+        "Blockchain",
+        "Computerprotokolle",
+        "Herstellern",
+        "Internet",
+        "Krypto-Millionär",
+        "Pfand-Sicherheitssystem",
+        "sozialen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Snappy Einlagen",
+        "Millionen Einheiten",
+        "Twitter-Account",
+        "ETH-Spin",
+        "University College",
+        "Social Media",
+        "Drei Minuten",
+        "QR-Code",
+        "Take-Away",
+        "Srdjan Capkun",
+        "Kryptogeld Fuer",
+        "Capkuns Gruppe",
+        "Die Idee",
+        "Seine Doktorarbeit",
+        "Die Zahlung",
+        "Milliarden Euro",
+        "Ethereum-Blockchain",
+        "Trusted Hardware",
+        "Smart Contracts",
+        "Bezahl-App",
+        "Vasilios Mavroudis",
+        "Um Snappy",
+        "Die Daten",
+        "Pfand-Sicherheitssystem",
+        "De News",
+        "Beim Onlineshoppen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Capkun",
+        "ETH",
+        "ETH Zürich",
+        "QR-Code",
+        "Social Media",
+        "University College London"
+      ],
+      "locations": [
+        "Bitcoin",
+        "Blockchain",
+        "Blockchains",
+        "Capkun",
+        "Capkuns",
+        "Ethereum-Blockchain",
+        "Netzwerken",
+        "Rolle",
+        "Take-Away-Kaffee",
+        "Trusted Hardware",
+        "Vorstellbar"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Capkun",
+        "Blockchain",
+        "Bitcoin",
+        "Blockchains",
+        "Ethereum-Blockchain",
+        "De News",
+        "Srdjan Capkun",
+        "ETH Zürich",
+        "Take-Away-Kaffee",
+        "Vasilios Mavroudis"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Die Eigenarten der Blockchain",
+          "Die Eigenarten der Blockchain",
+          "Schlaue Einlagen und Garantien",
+          "Gegen alle Eventualitäten abgesichert"
+        ],
+        "content_length": 7369
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Blockchain",
+        "University College London",
+        "Snappy Einlagen",
+        "Capkun",
+        "EU",
+        "Social Media",
+        "Vasilios Mavroudis",
+        "Bitcoin",
+        "2020",
+        "ETH Zürich",
+        "QR-Code",
+        "De News",
+        "2006",
+        "Snappy",
+        "Srdjan Capkun",
+        "Blockchains"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Blockchain",
+        "Apps fürs Smartphone",
+        "Internet",
+        "who",
+        "Pfand-Sicherheitssystem",
+        "sozialen",
+        "Computerprotokolle",
+        "Herstellern",
+        "when",
+        "where",
+        "Krypto-Millionär"
+      ],
+      "graph_relations": [
+        "Capkun_has_role_professor",
+        "Srdjan Capkun_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

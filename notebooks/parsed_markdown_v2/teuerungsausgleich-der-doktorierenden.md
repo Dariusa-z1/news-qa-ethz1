@@ -1,0 +1,50 @@
+# teuerungsausgleich-der-doktorierenden.html
+
+**Source:** de_internal/2022/12/teuerungsausgleich-der-doktorierenden.html
+
+## ETH-Lohnansätze an SNF gekoppelt
+
+Für die Doktorierenden der ETH Zürich war das keine gute Nachricht, als der ETH-Rat, das strategische Führungsorgan im ETH-Bereich (ETH, EPFL, PSI, WSL, Empa, Eawag) am 8. Dezember mitteilte, dass die ETH-Angestellten für 2023 einen Teuerungsausgleich von 2,5 Prozent erhalten. Für die Doktorierenden gilt dieser Beschluss nämlich nicht.
+
+Den Teuerungsausgleich erhalten bislang nur die Professorinnen und Professoren sowie die fest angestellten Forschenden (Senior Scientists, Oberassistierende), die befristet angestellten Forschenden (Postdoktorierende) und die administrativ-technischen Mitarbeitenden.
+
+Die Doktorierenden hingegen werden über Pauschallöhne bezahlt, welche die Schulleitung der ETH Zürich festlegt. In diesen Löhnen war in diesem Jahr wie auch zuvor seit 2014 kein Teuerungsausgleich enthalten. Weshalb diese Ungleichbehandlung? Das hat mit dem Lohnsystem zu tun, das die ETH-Schulleitung 2014 für die Doktorierenden einführte:
+
+Diesem zufolge wird ihre Arbeit nach fixen Ansätzen entlohnt, die vom ersten bis ins dritte Jahr ansteigen. Zusätzlich kennt die ETH Zürich fünf verschiedene Ansätze, um den Marktanforderungen der verschiedenen Departemente gerecht zu werden.
+
+## ETH-Lohnansätze an SNF gekoppelt
+
+Eine Eigenheit dieses Lohnsystems ist, dass die Schulleitung 2013 beschloss, dass die Lohnansätze für Doktorierende an der ETH an jene des Schweizerischen Nationalfonds (SNF) gekoppelt sind. Dabei legt der Nationalfonds eine Lohnbandbreite für den Jahresbruttolohn von Doktorierenden an Schweizer Hochschulen fest und definiert ein Lohnminimum, das unabhängig vom Anstellungsgrad und der Finanzierungsquelle einzuhalten ist.
+
+Für ETH-Doktorierende heisst das: Wenn der SNF seine Doktorierenden-Ansätze erhöht, erhöht sie auch die ETH. Seit 2014 hat der SNF jedoch die Ansätze unverändert belassen und sie nicht an die bis vor kurzem sehr tiefe Teuerung angepasst. Im gleichen Zeitraum stiegen die Löhne der übrigen ETH-Angestellten um rund 4 Prozent.
+
+Für das teuerungsintensive 2023 prüft er zwar eine Anpassung der Ansätze, beschlossen hat sie der SNF bis jetzt jedoch noch nicht. Entsprechend hat auch die ETH-Schulleitung Anfang Dezember in der letzten Sitzung des Jahres von einer Lohnanpassung für Doktorierende abgesehen. Das hinterliess bei vielen Doktorierenden ein schales Gefühl – besonders bei jenen, die in der niedrigsten Lohnstufe, dem sogenannten Standardansatz, eingestuft sind.
+
+Sie verdienen pro Jahr zwischen 47’040 Schweizer Franken (im ersten Jahr) und 50'040 Franken (im dritten Jahr) (vgl. Box). Die ETH Zürich hat rund 3’500 Doktorierende mit 100 Prozent-Arbeitspensum. Von diesen werden rund 36 Prozent im Standardansatz entlohnt und rund 27 Prozent in der höchsten Lohnstufe 5.
+
+## Teuerung trifft minimal Entlohnte
+
+«Wer im Standardansatz entlohnt wird, spürt besonders stark, dass die Teuerung zunimmt sowie die Lebens-, Miet- und Energiekosten steigen», sagt Charles Ledoux, der Präsident der Mittelbauvereinigung AVETH. Schon in der vorangegangenen Konsultationsrunden hatte der AVETH in den letzten Jahre immer wieder betont, dass ein Verzicht auf den Teuerungsausgleich die Lebenssituation der Doktorierenden verschlechtere.
+
+Die Mittelbauvereinigung fordert deshalb einen regelmässigen Teuerungsausgleich. Nach dem Beschluss der Schulleitung zeigte sich der AVETH sehr besorgt, dass die Löhne nur für einen Teil des Personals an die Teuerung angepasst würden, für die schwächsten ETH-Angehörigen hingegen nicht.
+
+Dass die Doktorierenden als einzige Mitarbeitende der ETH keinen Ausgleich für die Teuerung bekommen sollen, ist auch für die Schulleitung eine unbefriedigende Situation. Julia Dannath, die Vizepräsidentin Personalentwicklung und Leadership möchte deshalb Hand bieten: «Wir sind uns des Anstiegs der Teuerung und der Lebenskosten sehr bewusst und auch in welcher Situation sich unsere Doktorierenden befinden. Das wollen wir nicht so auf sich beruhen lassen. Das Anliegen des AVETH ist berechtigt».
+
+## Lösungsfindung aufgegleist
+
+«Wir wollen so rasch wie möglich eine Lösung finden, um eine Anpassung der Lohnansätze zu erreichen. Wir müssen den Entscheid des SNF abwarten und die Finanzierung lösen», erklärt Dannath, die an der ETH auch für die Lohnpolitik des wissenschaftlichen Personals zuständig ist. «Massnahmen zur Anpassung der Doktorierendengehälter sind auch unabhängig vom SNF notwendig», erwidert Charles Ledoux.
+
+Dementsprechend hat Julia Dannath eine Arbeitsgruppe einberufen, die gleich zu Beginn des nächsten Jahres Lösungen ausarbeiten soll. In dieser Arbeitsgruppe wird zu diskutieren sein, ob eine Koppelung an die SNF-Ansätze beibehalten wird, wie die Lohnansätze gestaffelt sein könnten und wie die Anpassungen finanziert werden.
+
+Jede Veränderung der Ansätze führte zu einem höheren Finanzbedarf in den Departementen und muss natürlich mit diesen diskutiert werden – schliesslich erfolgt die Finanzierung der Doktorandenlöhne in der Regel über Mittel der Departemente und Professuren aus dem Grundauftrag des Bundes, über den SNF, über Stipendien oder über andere Projektmittel. Das war mit ein Grund, weshalb sich die Schulleitung zunächst für die Beibehaltung der Koppelung an den SNF ausgesprochen hatte. Neben VPPL und AVETH sollen deshalb auch Professor:innen aus den Departementen an der Lösungsfindung mitwirken.
+
+## SNF will später erhöhen
+
+Julia Dannath ist nicht ganz zufrieden, dass die Rahmenbedingungen seitens SNF noch nicht bekannt sind: «Aufgrund der aktuellen Teuerung hat der SNF ein rascheres Handeln in Aussicht gestellt. Die Entscheidung des SNF ist für uns zentral und ist für den Beginn 2023 noch nicht bekannt.» Immerhin hat der SNF in den laufenden Gesprächen mit der ETH signalisiert, dass noch nicht das letzte Wort gesprochen ist. «Das macht uns Hoffnung, dass doch noch eine Anpassung der SNF-Ansätze erfolgt, die auch zu einer Anpassung der Doktorandenansätze an der ETH führen wird.»
+
+## Anstellungsbedingungen für Doktorierende
+
+Die Bedingungen der arbeitsvertraglichen Situation der Doktorierenden unterscheiden sich von denjenigen der anderen ETH-Angehörigen: Doktorierende sind Vollzeitangestellte, deren wichtigste Aufgabe es ist, die Wissenschaft voranzutreiben, indem sie in den drei bis sechs Jahren ihres Doktorats eigene Forschungsprojekte durchführen.
+
+Als Angestellte übernehmen sie auch wichtige Aufgaben in der Lehre (z.B. Betreuung von Studierenden in Übungen) und in der Forschung (z.B. Aufgaben im Labor oder im Unterhalt von Forschungsgeräten). Andererseits erhalten die Doktorierenden auch eine Ausbildung.
+

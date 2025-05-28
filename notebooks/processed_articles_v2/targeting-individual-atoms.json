@@ -1,0 +1,448 @@
+{
+  "filename": "targeting-individual-atoms.md",
+  "original_filename": "targeting-individual-atoms.html",
+  "source_path": "en_news_events/2019/06/targeting-individual-atoms.html",
+  "date": "2019-06",
+  "title": "Targeting Individual Atoms",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Higher resolution",
+      "text": "Nuclear magnetic resonance spectroscopy – NMR spectroscopy for short – is one of the most important methods of physicochemical analysis. It can be used to precisely determine molecular structures and dynamics. The importance of this method is also evidenced by the recognition of ETH Zurich’s two latest Nobel laureates, Richard Ernst and Kurt Wüthrich, for their contributions to refining the method.\n\nThe technique is based on nuclear magnetic resonance, which takes advantage of the fact that certain atomic nuclei interact with a magnetic field. A key factor here is the nuclear spin, which can be compared with the spinning of a child’s top. Similar to a top that begins to wobble – experts call this precession – nuclear spins that are exposed to a magnetic field begin to precess. This generates an electromagnetic signal that can be measured using an induction coil."
+    },
+    {
+      "heading": "Higher resolution",
+      "text": "A team of researchers led by Christian Degen, Professor of Solid-State Physics at ETH Zurich, has developed a new approach, making it possible to directly track the precession of single nuclear spins. In comparison: conventional NMR measurements usually require at least 10 12 to 10 18 atomic nuclei in order to register a measurement signal.\n\nIn their project, the ETH researchers analysed the behaviour of carbon-13 atoms in diamonds. Rather than using conventional methods to measure the precession of the carbon nucleus, they used the spin of an adjacent electron in an N-V centre – an imperfection in the diamond’s crystal lattice – as a sensor. Kristian Cujia, a doctoral student in Degen’s group, summarises the principle thus: “We use a second quantum system to study the behaviour of the first quantum system. In this way, we created a very sensitive way of measurement.”"
+    },
+    {
+      "heading": "Potential for future applications",
+      "text": "Quantum systems are hard to pin down, as any measurement will also influence the system being observed. Therefore, the researchers were unable to track the precession continuously; its movement would have been changed too drastically. To solve this problem, they developed a special measurement method to capture the spin of the carbon atom through a series of weak measurements in quick succession. As a result, they were able to keep the influence of their observation so small as to not influence the system measurably, leaving the original circular motion perceptible.\n\n“Our method paves the way for remarkable advances in NMR technology,” Degen explains. “This potentially enables us to directly record the spectra of individual molecules and analyse structures at the atomic level.” As a first example, the physicists identified the three-dimensional position of the carbon nuclei in the diamond lattice with atomic resolution. The physicists see huge potential in this development. Such detailed NMR measurements could lead to completely new insights in many areas, as has already been the case with conventional NMR spectroscopy in recent decades.”\n\nThis work was carried out in the framework of the National Centre of Competence in Research Quantum Science and Technology ( NCCR QSIT ).\n\nCujia KS, Boss JM, Herb K, Zopes J, Degen CL: Tracking the precession of single nuclear spins by weak measurements. Nature, 24 June 2019, doi: 10.1038/s41586-019-1334-9"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "ORG",
+        "start": 280,
+        "end": 292
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 293,
+        "end": 296
+      },
+      {
+        "text": "Nobel",
+        "label": "WORK_OF_ART",
+        "start": 304,
+        "end": 309
+      },
+      {
+        "text": "Richard Ernst",
+        "label": "PERSON",
+        "start": 321,
+        "end": 334
+      },
+      {
+        "text": "Kurt Wüthrich",
+        "label": "PERSON",
+        "start": 339,
+        "end": 352
+      },
+      {
+        "text": "Christian Degen",
+        "label": "PERSON",
+        "start": 29,
+        "end": 44
+      },
+      {
+        "text": "Solid-State Physics",
+        "label": "ORG",
+        "start": 59,
+        "end": 78
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 82,
+        "end": 92
+      },
+      {
+        "text": "at least 10 12",
+        "label": "CARDINAL",
+        "start": 262,
+        "end": 276
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 365,
+        "end": 368
+      },
+      {
+        "text": "carbon-13",
+        "label": "DATE",
+        "start": 407,
+        "end": 416
+      },
+      {
+        "text": "Kristian Cujia",
+        "label": "PERSON",
+        "start": 650,
+        "end": 664
+      },
+      {
+        "text": "Degen’s",
+        "label": "ORG",
+        "start": 688,
+        "end": 695
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 744,
+        "end": 750
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 796,
+        "end": 801
+      },
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "NMR",
+        "label": "ORG",
+        "start": 626,
+        "end": 629
+      },
+      {
+        "text": "Degen",
+        "label": "PERSON",
+        "start": 643,
+        "end": 648
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 793,
+        "end": 798
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 838,
+        "end": 843
+      },
+      {
+        "text": "recent decades",
+        "label": "DATE",
+        "start": 1139,
+        "end": 1153
+      },
+      {
+        "text": "the National Centre of Competence",
+        "label": "ORG",
+        "start": 1202,
+        "end": 1235
+      },
+      {
+        "text": "Cujia KS",
+        "label": "PERSON",
+        "start": 1294,
+        "end": 1302
+      },
+      {
+        "text": "Herb K",
+        "label": "PERSON",
+        "start": 1313,
+        "end": 1319
+      },
+      {
+        "text": "Zopes J",
+        "label": "PERSON",
+        "start": 1321,
+        "end": 1328
+      },
+      {
+        "text": "Degen CL:",
+        "label": "PERSON",
+        "start": 1330,
+        "end": 1339
+      },
+      {
+        "text": "24 June 2019",
+        "label": "DATE",
+        "start": 1418,
+        "end": 1430
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1437,
+        "end": 1444
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christian Degen",
+        "Cujia KS",
+        "Degen",
+        "Degen CL:",
+        "Herb K",
+        "Kristian Cujia",
+        "Kurt Wüthrich",
+        "Richard Ernst",
+        "Zopes J"
+      ],
+      "ORG": [
+        "Degen’s",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "En News",
+        "NMR",
+        "Quantum",
+        "Solid-State Physics",
+        "the National Centre of Competence"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "24 June 2019",
+        "carbon-13",
+        "recent decades"
+      ],
+      "MISC": [
+        "10.1038",
+        "Nobel",
+        "at least 10 12",
+        "first",
+        "second",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "first": 2,
+      "En News": 1,
+      "ETH Zurich’s": 1,
+      "two": 1,
+      "Nobel": 1,
+      "Richard Ernst": 1,
+      "Kurt Wüthrich": 1,
+      "Christian Degen": 1,
+      "Solid-State Physics": 1,
+      "ETH Zurich": 1,
+      "at least 10 12": 1,
+      "ETH": 1,
+      "carbon-13": 1,
+      "Kristian Cujia": 1,
+      "Degen’s": 1,
+      "second": 1,
+      "Quantum": 1,
+      "NMR": 1,
+      "Degen": 1,
+      "three": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "targeting-individual-atoms.md",
+      "title": "En News Events/2019/06/targeting Individual Atoms",
+      "language": "en",
+      "source_path": "en_news_events/2019/06/targeting-individual-atoms.html"
+    },
+    "temporal": {
+      "publication_date": "2019-06",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Christian Degen",
+        "Cujia KS",
+        "Degen",
+        "Degen CL:",
+        "Herb K",
+        "Kristian Cujia",
+        "Kurt Wüthrich",
+        "Richard Ernst",
+        "Zopes J"
+      ],
+      "people_with_roles": {
+        "Christian Degen": [
+          "researcher",
+          "professor"
+        ],
+        "Degen": [
+          "researcher",
+          "student",
+          "professor"
+        ],
+        "Kristian Cujia": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology",
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Nobel",
+        "at least 10 12",
+        "first",
+        "second",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Degen CL",
+        "Kristian Cujia",
+        "Herb K",
+        "Zopes J",
+        "Christian Degen",
+        "En News",
+        "Research Quantum",
+        "Individual Atoms",
+        "Solid-State",
+        "NCCR QSIT",
+        "Cujia KS",
+        "National Centre",
+        "ETH Zurich",
+        "N-V",
+        "Boss JM",
+        "Richard Ernst"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Degen’s",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "En News",
+        "NMR",
+        "Quantum",
+        "Solid-State Physics",
+        "the National Centre of Competence"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "first",
+        "En News",
+        "ETH Zurich’s",
+        "two",
+        "Nobel",
+        "Richard Ernst",
+        "Kurt Wüthrich",
+        "Christian Degen",
+        "Solid-State Physics",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Higher resolution",
+          "Higher resolution",
+          "Potential for future applications"
+        ],
+        "content_length": 3271
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Degen CL:",
+        "ETH Zurich’s",
+        "ERC",
+        "Degen",
+        "Solid-State Physics",
+        "Christian Degen",
+        "2019",
+        "Degen’s",
+        "the National Centre of Competence",
+        "Kurt Wüthrich",
+        "Herb K",
+        "Kristian Cujia",
+        "Zopes J",
+        "EU",
+        "Cujia KS",
+        "Quantum",
+        "Richard Ernst",
+        "En News",
+        "NMR",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "first",
+        "three",
+        "who",
+        "10.1038",
+        "at least 10 12",
+        "chemistry",
+        "biology",
+        "what",
+        "second",
+        "how",
+        "Nobel"
+      ],
+      "graph_relations": [
+        "Christian Degen_has_role_researcher",
+        "Christian Degen_has_role_professor",
+        "Degen_has_role_researcher",
+        "Degen_has_role_student",
+        "Degen_has_role_professor",
+        "Kristian Cujia_has_role_student",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

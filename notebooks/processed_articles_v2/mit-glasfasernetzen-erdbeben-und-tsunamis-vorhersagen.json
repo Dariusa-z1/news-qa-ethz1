@@ -1,0 +1,667 @@
+{
+  "filename": "mit-glasfasernetzen-erdbeben-und-tsunamis-vorhersagen.md",
+  "original_filename": "mit-glasfasernetzen-erdbeben-und-tsunamis-vorhersagen.html",
+  "source_path": "de_news_events/2023/11/mit-glasfasernetzen-erdbeben-und-tsunamis-vorhersagen.html",
+  "date": "2023-11",
+  "title": "Mit Glasfasernetzen Erdbeben Und Tsunamis Vorhersagen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "In Kürze",
+      "text": "- Forschende der ETH Zürich und dem Eidgenössischen Institut für Metrologie METAS gewinnen Erschütterungsdaten aus der aktiven Rauschunterdrückung, die in der optischen Datenkommunikation die Genauigkeit der Signale erhöht.\n\n- Die Daten der aktiven Rauschunterdrückung müssen nur gespeichert und ausgewertet werden. Dazu braucht es weder zusätzliche Geräte noch teure Infrastruktur.\n\n- Diese kostengünstige Methode ermöglicht die genaue Messung von Erdbeben auch am Ozeanboden oder in weniger entwickelten Ländern."
+    },
+    {
+      "heading": "Zweitverwertung der Rauschunterdrückungsdaten",
+      "text": "Ein dichtes Netz von Erdbebenmessstationen ist in reichen Ländern wie der Schweiz eine Selbstverständlichkeit. In weniger entwickelten Ländern und auf dem Grund der Weltmeere ist das nicht der Fall. Während in ärmeren Weltgegenden das Geld für die nötige Anzahl an Sensoren fehlt, müssen in den Ozeanen aufwändige Systeme installiert werden, um die minimalen Druckänderungen in Tausenden von Metern Tiefe zuverlässig zu messen und die Datensignale an die Meeresoberfläche zu bringen."
+    },
+    {
+      "heading": "Zweitverwertung der Rauschunterdrückungsdaten",
+      "text": "Wissenschaftler:innen vom Institut für Geophysik der ETH Zürich haben jetzt in Zusammenarbeit mit dem Eidgenössischen Institut für Metrologie METAS eine verblüffende und kostengünstige Methode gefunden, mit der genaue Erdbebenmessungen auch am Ozeanboden und in weniger entwickelten Ländern möglich werden. «Wir nutzen eine Funktion der bestehenden Glasfaserinfrastruktur und gewinnen die Erschütterungsdaten aus der aktiven Rauschunterdrückung, die in der optischen Datenkommunikation die Genauigkeit der Signale erhöht», erklärt Geophysikprofessor Andreas Fichtner. Die Daten der aktiven Rauschunterdrückung müssen dabei lediglich gespeichert und ausgewertet werden. Dazu sind weder zusätzliche Geräte noch teure Infrastruktur nötig."
+    },
+    {
+      "heading": "Erschütterungs-«Lärm» wird ausgelöscht",
+      "text": "Um zu verstehen, wie eine Active Phase Noise Cancellation (PNC) Erderschütterungen messen kann, hilft ein Vergleich mit den Rauschunterdrückungssystemen heutiger High-End-Kopfhörer, die den Umgebungslärm für Anwender:innen nahezu vollständig verschwinden lassen. Bei diesen nehmen Mikrofone die Aussengeräusche auf. Praktisch in Echtzeit wird dann genau das Gegensignal in die Tonsignale eingespeist. Dieses Gegensignal löscht die Geräusche von aussen eins zu eins aus und macht sie damit unhörbar.\n\nIm PNC eines optischen Datenkommunikationssystems wird der «Umgebungslärm» in der Glasfaser durch den Vergleich des ursprünglich gesendeten Signals mit einem Teilsignal, das vom Empfänger reflektiert wird, bestimmt. Die Differenz zwischen den beiden Signalen zeigt dann die Störungen an, denen das Lichtsignal auf seinem Weg durch die Glasfaser ausgesetzt war. Genau wie bei der Rauschunterdrückung in Kopfhörern können diese Störungen durch ein entsprechendes Gegensignal ausgelöscht werden."
+    },
+    {
+      "heading": "Deformationen verändern Frequenz minimal",
+      "text": "Der «Lärm» in der optischen Datenübertragung entsteht durch mikrometergrosse Verformungen der Fasern. Sie sind die Folge von Deformationen der Erdoberfläche aufgrund von Erdbeben, Wasserwellen, Luftdruckdifferenzen und von menschlichen Aktivitäten. Dabei verkürzt oder verlängert jede Deformation die Faser geringfügig. Dies wiederum führt zu einem sogenannten fotoelastischen Effekt, der die Lichtgeschwindigkeit in der Faser minimal schwanken lässt.\n\nSowohl die Veränderungen der Faserlänge als auch die Schwankungen der Lichtgeschwindigkeit verändern die Frequenz des Lichtsignals um einen winzigen Faktor. Dieses Phänomen ist schon seit einigen Jahren bekannt und wurde bisher bereits mit speziellen Messinstrumenten zur Messung von Erschütterungen genutzt."
+    },
+    {
+      "heading": "Glasfaser auf Island im Einsatz",
+      "text": "Nahe Grindavik im Südwesten Islands bebt seit Wochen ständig die Erde. Die Behörden befürchten einen baldigen grösseren Vulkanausbruch und haben deshalb die Region um den Ort evakuiert. Um Erdbebendaten aufzuzeichnen, haben Andreas Fichtner und seine Mitarbeitenden ein spezielles Messgerät nach Island gebracht und an ein Telekommunikationskabel angeschlossen. Die aufgezeichneten Daten werden live auf den YouTube-Kanal der Gruppe Seismologie und Wellenphysik der ETH Zürich gestreamt. Sie zeigen in Echtzeit die Erschütterungen.\n\nexterne Seite Youtube Live Stream"
+    },
+    {
+      "heading": "ETH-Mittel für freie Forschung zahlen sich aus",
+      "text": "Bei der von den ETH- und METAS-Wissenschaftlern untersuchten Rauschunterdrückung der Glasfaserkommunikation der Schweizer Atomuhren-Infrastruktur sind diese zusätzlichen Messinstrumente überflüssig. Die Deformationen lassen sich einfach aus der Korrektur der Zeitsignale ablesen. Diese korrigiert die Wellenlänge des Signals im Terahertz-Bereich (10 12 Schwingungen pro Sekunde) jeweils um einige hundert Hertz und damit um rund ein Zehntel Milliardstel."
+    },
+    {
+      "heading": "Exakte Übereinstimmung mit Erdbebendienst",
+      "text": "So klein die Änderungen sind, so klar ist das Bild, das sie von den Erschütterungen zeigen, denen die Glasfaserkabel während der Beobachtungszeit ausgesetzt sind. «Wir konnten im PNC der Glasfaserverbindung zwischen Basel und dem Atomuhrenstandort am METAS in Bern nicht nur jede einzelne Welle eines Erdbebens von Magnitude 3,9 im Elsass detailliert nachvollziehen», erklärt Fichtner: «Eine Modellierung des Bebens aufgrund unserer Daten entsprach auch äusserst exakt den Messungen des Schweizerischen Erdbebendienstes.»\n\nDiese exakte Übereinstimmung zeigt, dass sich mit den PNC-Daten sowohl der Ort als auch die Tiefe und Stärke eines Bebens mit hoher Genauigkeit bestimmen lassen. «Das ist vor allem für eine lückenlose Tsunami-Warnung oder für die Erdbebenmessung in weniger entwickelten Regionen der Welt sehr interessant», sagt Fichtner.\n\nVorbildlich ist für Fichtner aber auch die Entstehungsgeschichte der neuen Methode. Die Idee entstand aus einer Diskussion der ETH-Forschenden mit einem Spezialisten von METAS. Und so schnell wie das ETH-METAS-Team das Potenzial der PNC-Daten erkannte, so schnell konnte es die Idee umsetzen. «Damit überraschende Wissenschaft entstehen kann, müssen Gelder für Forschungsaktivitäten zur Verfügung stehen, die keinem vorher definierten Ziel folgen», betont Fichtner: «Die ETH ist für ein solches Projekt ideal. Im Gegensatz zu vielen anderen Hochschulen stehen mir hier als Forscher auch ungebundene Mittel zur Verfügung.»\n\nNoe S, Husmann D, Müller N. et al. Long-range fiber-optic earthquake sensing by active phase noise cancellation. Sci Rep 13, 13983 (2023). doi: externe Seite 10.1038/s41598-023-41161-x"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Tsunamis",
+        "label": "PER",
+        "start": 56,
+        "end": 64
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 17,
+        "end": 27
+      },
+      {
+        "text": "Eidgenössischen Institut für Metrologie",
+        "label": "ORG",
+        "start": 36,
+        "end": 75
+      },
+      {
+        "text": "METAS",
+        "label": "ORG",
+        "start": 76,
+        "end": 81
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 74,
+        "end": 81
+      },
+      {
+        "text": "Ozeanen",
+        "label": "LOC",
+        "start": 295,
+        "end": 302
+      },
+      {
+        "text": "Metern Tiefe",
+        "label": "ORG",
+        "start": 392,
+        "end": 404
+      },
+      {
+        "text": "Institut für Geophysik",
+        "label": "ORG",
+        "start": 26,
+        "end": 48
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 53,
+        "end": 63
+      },
+      {
+        "text": "Eidgenössischen Institut für Metrologie",
+        "label": "ORG",
+        "start": 102,
+        "end": 141
+      },
+      {
+        "text": "METAS",
+        "label": "ORG",
+        "start": 142,
+        "end": 147
+      },
+      {
+        "text": "Andreas Fichtner",
+        "label": "PER",
+        "start": 550,
+        "end": 566
+      },
+      {
+        "text": "Active Phase Noise Cancellation",
+        "label": "MISC",
+        "start": 26,
+        "end": 57
+      },
+      {
+        "text": "PNC",
+        "label": "ORG",
+        "start": 59,
+        "end": 62
+      },
+      {
+        "text": "Mikrofone",
+        "label": "PER",
+        "start": 281,
+        "end": 290
+      },
+      {
+        "text": "Aussengeräusche",
+        "label": "MISC",
+        "start": 295,
+        "end": 310
+      },
+      {
+        "text": "Gegensignal",
+        "label": "LOC",
+        "start": 358,
+        "end": 369
+      },
+      {
+        "text": "Gegensignal",
+        "label": "LOC",
+        "start": 408,
+        "end": 419
+      },
+      {
+        "text": "PNC",
+        "label": "ORG",
+        "start": 502,
+        "end": 505
+      },
+      {
+        "text": "Lichtsignal",
+        "label": "LOC",
+        "start": 797,
+        "end": 808
+      },
+      {
+        "text": "Kopfhörern",
+        "label": "LOC",
+        "start": 901,
+        "end": 911
+      },
+      {
+        "text": "Lichtsignals",
+        "label": "LOC",
+        "start": 570,
+        "end": 582
+      },
+      {
+        "text": "Nahe Grindavik",
+        "label": "PER",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Islands",
+        "label": "LOC",
+        "start": 28,
+        "end": 35
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 65,
+        "end": 69
+      },
+      {
+        "text": "Andreas Fichtner",
+        "label": "PER",
+        "start": 224,
+        "end": 240
+      },
+      {
+        "text": "Island",
+        "label": "LOC",
+        "start": 296,
+        "end": 302
+      },
+      {
+        "text": "YouTube-Kanal",
+        "label": "MISC",
+        "start": 408,
+        "end": 421
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 466,
+        "end": 476
+      },
+      {
+        "text": "Youtube Live Stream",
+        "label": "ORG",
+        "start": 546,
+        "end": 565
+      },
+      {
+        "text": "METAS-Wissenschaftlern",
+        "label": "MISC",
+        "start": 25,
+        "end": 47
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 112,
+        "end": 121
+      },
+      {
+        "text": "Signals",
+        "label": "LOC",
+        "start": 317,
+        "end": 324
+      },
+      {
+        "text": "Terahertz-Bereich",
+        "label": "LOC",
+        "start": 328,
+        "end": 345
+      },
+      {
+        "text": "Milliardstel",
+        "label": "LOC",
+        "start": 441,
+        "end": 453
+      },
+      {
+        "text": "PNC",
+        "label": "ORG",
+        "start": 179,
+        "end": 182
+      },
+      {
+        "text": "Basel",
+        "label": "LOC",
+        "start": 216,
+        "end": 221
+      },
+      {
+        "text": "METAS",
+        "label": "ORG",
+        "start": 251,
+        "end": 256
+      },
+      {
+        "text": "Bern",
+        "label": "LOC",
+        "start": 260,
+        "end": 264
+      },
+      {
+        "text": "Magnitude",
+        "label": "LOC",
+        "start": 315,
+        "end": 324
+      },
+      {
+        "text": "Elsass",
+        "label": "LOC",
+        "start": 332,
+        "end": 338
+      },
+      {
+        "text": "Fichtner",
+        "label": "PER",
+        "start": 376,
+        "end": 384
+      },
+      {
+        "text": "Schweizerischen Erdbebendienstes",
+        "label": "ORG",
+        "start": 487,
+        "end": 519
+      },
+      {
+        "text": "PNC-Daten",
+        "label": "MISC",
+        "start": 576,
+        "end": 585
+      },
+      {
+        "text": "Fichtner",
+        "label": "PER",
+        "start": 834,
+        "end": 842
+      },
+      {
+        "text": "Fichtner",
+        "label": "PER",
+        "start": 864,
+        "end": 872
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 971,
+        "end": 986
+      },
+      {
+        "text": "METAS",
+        "label": "ORG",
+        "start": 1014,
+        "end": 1019
+      },
+      {
+        "text": "ETH-METAS-Team",
+        "label": "MISC",
+        "start": 1044,
+        "end": 1058
+      },
+      {
+        "text": "PNC-Daten",
+        "label": "MISC",
+        "start": 1077,
+        "end": 1086
+      },
+      {
+        "text": "Fichtner",
+        "label": "PER",
+        "start": 1300,
+        "end": 1308
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1315,
+        "end": 1318
+      },
+      {
+        "text": "Noe S",
+        "label": "MISC",
+        "start": 1466,
+        "end": 1471
+      },
+      {
+        "text": "Husmann D",
+        "label": "PER",
+        "start": 1473,
+        "end": 1482
+      },
+      {
+        "text": "fiber-optic",
+        "label": "MISC",
+        "start": 1512,
+        "end": 1523
+      },
+      {
+        "text": "Sci Rep",
+        "label": "MISC",
+        "start": 1579,
+        "end": 1586
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andreas Fichtner",
+        "Fichtner",
+        "Husmann D",
+        "Mikrofone",
+        "Nahe Grindavik",
+        "Tsunamis"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Eidgenössischen Institut für Metrologie",
+        "Institut für Geophysik",
+        "METAS",
+        "Metern Tiefe",
+        "PNC",
+        "Schweizerischen Erdbebendienstes",
+        "Youtube Live Stream"
+      ],
+      "LOCATION": [
+        "Basel",
+        "Bern",
+        "Elsass",
+        "Erde",
+        "Gegensignal",
+        "Island",
+        "Islands",
+        "Kopfhörern",
+        "Lichtsignal",
+        "Lichtsignals",
+        "Magnitude",
+        "Milliardstel",
+        "Ozeanen",
+        "Schweiz",
+        "Signals",
+        "Terahertz-Bereich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Active Phase Noise Cancellation",
+        "Aussengeräusche",
+        "ETH-METAS-Team",
+        "METAS-Wissenschaftlern",
+        "Noe S",
+        "PNC-Daten",
+        "Schweizer",
+        "Sci Rep",
+        "YouTube-Kanal",
+        "fiber-optic"
+      ]
+    },
+    "entity_counts": {
+      "METAS": 4,
+      "Fichtner": 4,
+      "ETH Zürich": 3,
+      "PNC": 3,
+      "Eidgenössischen Institut für Metrologie": 2,
+      "Andreas Fichtner": 2,
+      "Gegensignal": 2,
+      "PNC-Daten": 2,
+      "Tsunamis": 1,
+      "Schweiz": 1,
+      "Ozeanen": 1,
+      "Metern Tiefe": 1,
+      "Institut für Geophysik": 1,
+      "Active Phase Noise Cancellation": 1,
+      "Mikrofone": 1,
+      "Aussengeräusche": 1,
+      "Lichtsignal": 1,
+      "Kopfhörern": 1,
+      "Lichtsignals": 1,
+      "Nahe Grindavik": 1
+    },
+    "total_entities": 56,
+    "unique_entities": 42
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mit-glasfasernetzen-erdbeben-und-tsunamis-vorhersagen.md",
+      "title": "De News Events/2023/11/mit Glasfasernetzen Erdbeben und Tsunamis Vorhersagen",
+      "language": "de",
+      "source_path": "de_news_events/2023/11/mit-glasfasernetzen-erdbeben-und-tsunamis-vorhersagen.html"
+    },
+    "temporal": {
+      "publication_date": "2023-11",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Andreas Fichtner",
+        "Fichtner",
+        "Husmann D",
+        "Mikrofone",
+        "Nahe Grindavik",
+        "Tsunamis"
+      ],
+      "people_with_roles": {
+        "Andreas Fichtner": [
+          "professor"
+        ],
+        "Fichtner": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Active Phase Noise Cancellation",
+        "Aussengeräusche",
+        "ETH-METAS-Team",
+        "METAS-Wissenschaftlern",
+        "Noe S",
+        "PNC-Daten",
+        "Schweizer",
+        "Sci Rep",
+        "YouTube-Kanal",
+        "fiber-optic"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Im PNC",
+        "Metrologie METAS",
+        "Zehntel Milliardstel",
+        "ETH-METAS",
+        "Andreas Fichtner",
+        "Nahe Grindavik",
+        "Tsunami-Warnung",
+        "Um Erdbebendaten",
+        "Im Gegensatz",
+        "Noe S",
+        "Metern Tiefe",
+        "METAS-Wissenschaftlern",
+        "Sci Rep",
+        "Geophysikprofessor Andreas",
+        "Die ETH",
+        "Die Deformationen",
+        "Eine Modellierung",
+        "Terahertz-Bereich",
+        "Glasfasernetzen Erdbeben",
+        "Die Idee",
+        "Tsunamis Vorhersagen",
+        "Live Stream",
+        "Seite Youtube",
+        "PNC-Daten",
+        "Noise Cancellation",
+        "Die Daten",
+        "ETH-Forschenden",
+        "De News",
+        "Schweizerischen Erdbebendienstes",
+        "Die Differenz",
+        "High-End",
+        "Dieses Gegensignal",
+        "Gruppe Seismologie",
+        "Husmann D",
+        "Schweizer Atomuhren",
+        "Active Phase",
+        "YouTube-Kanal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Eidgenössischen Institut für Metrologie",
+        "Institut für Geophysik",
+        "METAS",
+        "Metern Tiefe",
+        "PNC",
+        "Schweizerischen Erdbebendienstes",
+        "Youtube Live Stream"
+      ],
+      "locations": [
+        "Basel",
+        "Bern",
+        "Elsass",
+        "Erde",
+        "Gegensignal",
+        "Island",
+        "Islands",
+        "Kopfhörern",
+        "Lichtsignal",
+        "Lichtsignals",
+        "Magnitude",
+        "Milliardstel",
+        "Ozeanen",
+        "Schweiz",
+        "Signals",
+        "Terahertz-Bereich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "METAS",
+        "Fichtner",
+        "ETH Zürich",
+        "PNC",
+        "Eidgenössischen Institut für Metrologie",
+        "Andreas Fichtner",
+        "Gegensignal",
+        "PNC-Daten",
+        "Tsunamis",
+        "Schweiz"
+      ],
+      "document_structure": {
+        "total_sections": 8,
+        "section_titles": [
+          "In Kürze",
+          "Zweitverwertung der Rauschunterdrückungsdaten",
+          "Zweitverwertung der Rauschunterdrückungsdaten",
+          "Erschütterungs-«Lärm» wird ausgelöscht",
+          "Deformationen verändern Frequenz minimal",
+          "Glasfaser auf Island im Einsatz",
+          "ETH-Mittel für freie Forschung zahlen sich aus",
+          "Exakte Übereinstimmung mit Erdbebendienst"
+        ],
+        "content_length": 6242
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Mikrofone",
+        "Institut für Geophysik",
+        "METAS",
+        "Metern Tiefe",
+        "Youtube Live Stream",
+        "EU",
+        "PNC",
+        "Fichtner",
+        "Nahe Grindavik",
+        "Andreas Fichtner",
+        "Tsunamis",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Eidgenössischen Institut für Metrologie",
+        "Schweizerischen Erdbebendienstes",
+        "Husmann D",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Noe S",
+        "ETH-METAS-Team",
+        "METAS-Wissenschaftlern",
+        "Schweizer",
+        "Active Phase Noise Cancellation",
+        "Sci Rep",
+        "who",
+        "Aussengeräusche",
+        "when",
+        "what",
+        "how",
+        "fiber-optic",
+        "PNC-Daten",
+        "YouTube-Kanal"
+      ],
+      "graph_relations": [
+        "Andreas Fichtner_has_role_professor",
+        "Fichtner_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

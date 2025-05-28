@@ -1,0 +1,495 @@
+{
+  "filename": "mm-seenotrettung.md",
+  "original_filename": "mm-seenotrettung.html",
+  "source_path": "de_news_events/2020/05/mm-seenotrettung.html",
+  "date": "2020-05",
+  "title": "Mm Seenotrettung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "None",
+      "text": "Jedes Jahr ertrinken bei Schiffsunfällen oder Flugzeugabstürzen hunderte Menschen auf dem offenen Meer. Seenotrettern bleibt nur wenig Zeit, Menschen zu bergen, die auf dem Wasser treiben, denn die Wahrscheinlichkeit, eine Person lebend zu finden, sinkt nach sechs Stunden signifikant. Neben den Gezeiten und wechselhaften Wetterbedingungen erschweren instabile Küstenströmungen die Rettungsaktionen.\n\nEin internationales Team von Forschenden unter der Leitung von George Haller, Professor für nichtlineare Dynamik an der ETH Zürich, hat die heute angewendeten Suchstrategien mit neuen Erkenntnissen zu solchen instabilen Strömungen erweitert. Mittels Werkzeugen aus den dynamischen Systemtheorien sowie Daten der Küstenwache hat das Team einen Algorithmus entwickelt, der voraussagen kann, wohin Menschen und Objekte an der Meeresoberfläche getrieben werden. «Wir hoffen, dass unsere Arbeit hilft, mehr Menschenleben zu retten», sagt Mattia Serra, ehemaliger Postdoktorand an der ETH Zürich und nun Postdoc-Stipendiat in Harvard sowie Erstautor der kürzlich in der Fachzeitschrift Nature Communications publizierten Studie.\n\nBei heutigen Seenotrettungseinsätzen wird anhand von aufwändigen Modellen der Meeresdynamik und des Wetterberichts der Weg, den ein treibendes Objekt zurücklegt, vorausgesagt. Jedoch sind diese Vorhersagen in sich schnell verändernden Küstengewässern aufgrund unsicherer Parameter und fehlender Daten oft ungenau. Dies kann zur Folge haben, dass eine Suche am falschen Ort gestartet wird und dadurch viel Zeit verloren geht."
+    },
+    {
+      "heading": "Literaturhinweis",
+      "text": "Durch mathematische Berechnungen haben die Forschenden entdeckt, dass sich Objekte, die an der Meeresoberfläche treiben, an bestimmten kurvenähnlichen Linien sammeln. Diese sogenannten TRansient Attracting Profiles (TRAPs), also Profile mit vorübergehender Anziehung, sind von blossem Auge nicht erkennbar, können aber mit dem neuen Algorithmus des ETH-Teams aus den Strömungsdaten der Meeresoberfläche ermittelt werden. Sie ermöglichen eine schnelle und präzise Planung der Routen für Rettungseinsätze, die weniger empfindlich auf unsichere Angaben zum Unfallzeitpunkt und –ort reagieren.\n\nIn zwei getrennten Experimenten in der Nähe von Martha’s Vineyard vor der amerikanischen Nordostküste testeten die Forschenden in Zusammenarbeit mit einem Team des Maschinenbaudepartements des MIT, einer Gruppe des Woods Hole Oceanographic Institution und der amerikanischen Küstenwache den neuen Suchalgorithmus. Sie verwendeten dieselben Echtzeitdaten wie die amerikanische Küstenwache und beobachteten, wie sich die ausgesetzten Bojen und Testpuppen entlang der berechneten Kurven sammelten. «Wir testeten mehrere Ansätze und dies war der einzige, der vor Ort durchgehend funktionierte», betont Haller.\n\n«Unsere Ergebnisse sind leicht interpretierbar, schnell verfügbar und günstig umzusetzen», sagt Serra. Zudem könnten mit der Methode auch grössere auf der Meeresoberfläche treibende Objekte berechnet werden, wie beispielsweise die Ausbreitung eines Ölteppichs. In einem nächsten Schritt soll die Methode in weiteren Meeresregionen getestet werden. «Wir hoffen, dass diese Methode zu einem Standardwerkzeug der Küstenwache wird», sagt Haller."
+    },
+    {
+      "heading": "Literaturhinweis",
+      "text": "Serra M, Sathe P, Rypina I, Kirincich A, Ross SD, Lermusiaux P, Allen A, Peacock T, Haller G: Search and rescue at sea aided by hidden flow structures, Nature Communications, 26 May 2020, doi: externe Seite 10.1038/s41467-020-16281-x"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Jedes Jahr",
+        "label": "MISC",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "George Haller",
+        "label": "PER",
+        "start": 464,
+        "end": 477
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 521,
+        "end": 531
+      },
+      {
+        "text": "Suchstrategien",
+        "label": "LOC",
+        "start": 560,
+        "end": 574
+      },
+      {
+        "text": "Küstenwache",
+        "label": "ORG",
+        "start": 713,
+        "end": 724
+      },
+      {
+        "text": "Mattia Serra",
+        "label": "PER",
+        "start": 934,
+        "end": 946
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 980,
+        "end": 990
+      },
+      {
+        "text": "Postdoc-Stipendiat",
+        "label": "ORG",
+        "start": 999,
+        "end": 1017
+      },
+      {
+        "text": "Harvard",
+        "label": "ORG",
+        "start": 1021,
+        "end": 1028
+      },
+      {
+        "text": "Nature Communications",
+        "label": "MISC",
+        "start": 1081,
+        "end": 1102
+      },
+      {
+        "text": "Seenotrettungseinsätzen",
+        "label": "LOC",
+        "start": 1137,
+        "end": 1160
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 1529,
+        "end": 1533
+      },
+      {
+        "text": "TRansient Attracting Profiles",
+        "label": "ORG",
+        "start": 185,
+        "end": 214
+      },
+      {
+        "text": "TRAPs",
+        "label": "ORG",
+        "start": 216,
+        "end": 221
+      },
+      {
+        "text": "ETH-Teams",
+        "label": "MISC",
+        "start": 349,
+        "end": 358
+      },
+      {
+        "text": "Martha’s Vineyard",
+        "label": "LOC",
+        "start": 638,
+        "end": 655
+      },
+      {
+        "text": "amerikanischen",
+        "label": "MISC",
+        "start": 664,
+        "end": 678
+      },
+      {
+        "text": "Maschinenbaudepartements",
+        "label": "ORG",
+        "start": 754,
+        "end": 778
+      },
+      {
+        "text": "MIT",
+        "label": "ORG",
+        "start": 783,
+        "end": 786
+      },
+      {
+        "text": "Woods Hole Oceanographic Institution",
+        "label": "ORG",
+        "start": 805,
+        "end": 841
+      },
+      {
+        "text": "amerikanischen Küstenwache",
+        "label": "ORG",
+        "start": 850,
+        "end": 876
+      },
+      {
+        "text": "amerikanische Küstenwache",
+        "label": "ORG",
+        "start": 952,
+        "end": 977
+      },
+      {
+        "text": "Testpuppen",
+        "label": "LOC",
+        "start": 1032,
+        "end": 1042
+      },
+      {
+        "text": "Haller",
+        "label": "PER",
+        "start": 1188,
+        "end": 1194
+      },
+      {
+        "text": "Küstenwache",
+        "label": "ORG",
+        "start": 1606,
+        "end": 1617
+      },
+      {
+        "text": "Serra M",
+        "label": "MISC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Sathe P",
+        "label": "PER",
+        "start": 9,
+        "end": 16
+      },
+      {
+        "text": "Rypina I",
+        "label": "PER",
+        "start": 18,
+        "end": 26
+      },
+      {
+        "text": "Kirincich A",
+        "label": "PER",
+        "start": 28,
+        "end": 39
+      },
+      {
+        "text": "Ross SD",
+        "label": "ORG",
+        "start": 41,
+        "end": 48
+      },
+      {
+        "text": "Lermusiaux P",
+        "label": "PER",
+        "start": 50,
+        "end": 62
+      },
+      {
+        "text": "Allen A",
+        "label": "PER",
+        "start": 64,
+        "end": 71
+      },
+      {
+        "text": "Peacock T",
+        "label": "PER",
+        "start": 73,
+        "end": 82
+      },
+      {
+        "text": "Haller G",
+        "label": "PER",
+        "start": 84,
+        "end": 92
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 152,
+        "end": 173
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Allen A",
+        "De News",
+        "George Haller",
+        "Haller",
+        "Haller G",
+        "Kirincich A",
+        "Lermusiaux P",
+        "Mattia Serra",
+        "Peacock T",
+        "Rypina I",
+        "Sathe P"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Harvard",
+        "Küstenwache",
+        "MIT",
+        "Maschinenbaudepartements",
+        "Nature Communications",
+        "Postdoc-Stipendiat",
+        "Ross SD",
+        "TRAPs",
+        "TRansient Attracting Profiles",
+        "Woods Hole Oceanographic Institution",
+        "amerikanische Küstenwache",
+        "amerikanischen Küstenwache"
+      ],
+      "LOCATION": [
+        "Martha’s Vineyard",
+        "Seenotrettungseinsätzen",
+        "Suchstrategien",
+        "Testpuppen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Teams",
+        "Jedes Jahr",
+        "Nature Communications",
+        "Serra M",
+        "Zeit",
+        "amerikanischen"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "Küstenwache": 2,
+      "Nature Communications": 2,
+      "De News": 1,
+      "Jedes Jahr": 1,
+      "George Haller": 1,
+      "Suchstrategien": 1,
+      "Mattia Serra": 1,
+      "Postdoc-Stipendiat": 1,
+      "Harvard": 1,
+      "Seenotrettungseinsätzen": 1,
+      "Zeit": 1,
+      "TRansient Attracting Profiles": 1,
+      "TRAPs": 1,
+      "ETH-Teams": 1,
+      "Martha’s Vineyard": 1,
+      "amerikanischen": 1,
+      "Maschinenbaudepartements": 1,
+      "MIT": 1,
+      "Woods Hole Oceanographic Institution": 1
+    },
+    "total_entities": 36,
+    "unique_entities": 33
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mm-seenotrettung.md",
+      "title": "De News Events/2020/05/mm Seenotrettung",
+      "language": "de",
+      "source_path": "de_news_events/2020/05/mm-seenotrettung.html"
+    },
+    "temporal": {
+      "publication_date": "2020-05",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Allen A",
+        "De News",
+        "George Haller",
+        "Haller",
+        "Haller G",
+        "Kirincich A",
+        "Lermusiaux P",
+        "Mattia Serra",
+        "Peacock T",
+        "Rypina I",
+        "Sathe P"
+      ],
+      "people_with_roles": {
+        "George Haller": [
+          "professor"
+        ],
+        "Haller": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Teams",
+        "Jedes Jahr",
+        "Nature Communications",
+        "Serra M",
+        "Zeit",
+        "amerikanischen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Teams",
+        "Postdoc-Stipendiat",
+        "Ross SD",
+        "Fachzeitschrift Nature",
+        "Haller G",
+        "George Haller",
+        "Lermusiaux P",
+        "Serra M",
+        "Unsere Ergebnisse",
+        "Seenotrettung Jedes",
+        "Peacock T",
+        "Allen A",
+        "Mattia Serra",
+        "Woods Hole",
+        "Sathe P",
+        "Nature Communications",
+        "Oceanographic Institution",
+        "De News",
+        "Mittels Werkzeugen",
+        "Kirincich A",
+        "Rypina I",
+        "TRansient Attracting"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Harvard",
+        "Küstenwache",
+        "MIT",
+        "Maschinenbaudepartements",
+        "Nature Communications",
+        "Postdoc-Stipendiat",
+        "Ross SD",
+        "TRAPs",
+        "TRansient Attracting Profiles",
+        "Woods Hole Oceanographic Institution",
+        "amerikanische Küstenwache",
+        "amerikanischen Küstenwache"
+      ],
+      "locations": [
+        "Martha’s Vineyard",
+        "Seenotrettungseinsätzen",
+        "Suchstrategien",
+        "Testpuppen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "Küstenwache",
+        "Nature Communications",
+        "De News",
+        "Jedes Jahr",
+        "George Haller",
+        "Suchstrategien",
+        "Mattia Serra",
+        "Postdoc-Stipendiat",
+        "Harvard"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "None",
+          "Literaturhinweis",
+          "Literaturhinweis"
+        ],
+        "content_length": 3464
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Postdoc-Stipendiat",
+        "2020",
+        "Ross SD",
+        "Haller G",
+        "George Haller",
+        "amerikanische Küstenwache",
+        "Küstenwache",
+        "Lermusiaux P",
+        "TRAPs",
+        "amerikanischen Küstenwache",
+        "ETH Zürich",
+        "Peacock T",
+        "Allen A",
+        "Mattia Serra",
+        "Maschinenbaudepartements",
+        "EU",
+        "Sathe P",
+        "Nature Communications",
+        "Harvard",
+        "Woods Hole Oceanographic Institution",
+        "Kirincich A",
+        "De News",
+        "MIT",
+        "Haller",
+        "Rypina I",
+        "TRansient Attracting Profiles"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Teams",
+        "amerikanischen",
+        "who",
+        "Serra M",
+        "what",
+        "how",
+        "Nature Communications",
+        "Jedes Jahr",
+        "Zeit",
+        "when"
+      ],
+      "graph_relations": [
+        "George Haller_has_role_professor",
+        "Haller_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

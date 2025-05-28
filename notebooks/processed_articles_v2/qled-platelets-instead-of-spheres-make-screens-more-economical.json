@@ -1,0 +1,500 @@
+{
+  "filename": "qled-platelets-instead-of-spheres-make-screens-more-economical.md",
+  "original_filename": "qled-platelets-instead-of-spheres-make-screens-more-economical.html",
+  "source_path": "en_news_events/2020/01/qled-platelets-instead-of-spheres-make-screens-more-economical.html",
+  "date": "2020-01",
+  "title": "Qled Platelets Instead Of Spheres Make Screens More Economical",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Stacked and insulated from each other",
+      "text": "QLED screens have been on the market for a few years now. They are known for their bright, intense colours, which are produced using what is known as quantum dot technology: QLED stands for quantum dot light emitting diode. Researchers at ETH Zurich have now developed a technology that increases the energy efficiency of QLEDs. By minimising the scattering losses of light inside the diodes, a larger proportion of the light generated is emitted to the outside.\n\nConventional QLEDs consist of a multitude of spherical semiconductor nanocrystals, known as quantum dots. In a screen, when these nanocrystals are excited from behind with UV light, they convert it into coloured light in the visible range. The colour of light each nanocrystal produces depends on its material composition.\n\nHowever, the light these spherical nanocrystals emit scatters in all directions inside the screen; only about one-fifth of it makes its way to the outside world and is visible to the observer. To increase the energy efficiency of the technology, scientists have been trying for years to develop nanocrystals that emit light in only one direction (forward, towards the observer) – and a few such light sources already exist. But instead of spherical crystals, these sources are composed of ultra-thin nanoplatelets that emit light only in one direction: perpendicular to the plane of the platelet.\n\nIf these nanoplatelets are arranged next to each other in a layer, they produce a relatively weak light that is not sufficient for screens. To increase the light intensity, scientists are attempting to superimpose several layers of these platelets. The trouble with this approach is that the platelets begin to interact with each other, with the result that the light is again emitted not only in one direction but in all directions."
+    },
+    {
+      "heading": "Reference",
+      "text": "Cross-section (electron microscope image) of 2D semiconductor nanoplatelets (light) arranged side by side and on top of each other and separated by an insulating “quantum barrier” (dark). (Photograph: Jagielski J et al. Nature Communications 2020)\n\nChih-Jen Shih, Professor of Technical Chemistry at ETH Zurich, and his team of researchers have now stacked extremely thin (2.4 nanometres) semiconductor platelets in such a way that they are separated from each other by an even thinner (0.65 nanometre) insulating layer of organic molecules. This layer prevents quantum-physical interactions, which means that the platelets emit light predominantly in only one direction, even when stacked.\n\n“The more platelets we pile on top of each other, the more intense the light becomes. This lets us influence the light intensity without losing the preferred direction of emission,” says Jakub Jagielski, a doctoral student in Shih’s group and first author of the study published in Nature Communications . That is how the scientists managed to produce a material that for the first time emits high-intensity light in only one direction.\n\nUsing this process, the researchers have produced light sources for blue, green, yellow and orange light. They say that the red colour component, which is also required for screens, cannot yet be realised with the new technology.\n\nIn the case of the newly created blue light, around two-fifths of the light generated reaches the eye of the observer, compared to only one-fifth with conventional QLED technology. “This means that our technology requires only half as much energy to generate light of a given intensity,” Professor Shih says. For other colours, however, the efficiency gain achieved so far is smaller, so the scientists are conducting further research with a view to increasing this.\n\nCompared to conventional LEDs, the new technology has another advantage, as the scientists emphasise: the novel stacked QLEDs are very easy to produce in a single step. It is also possible to increase the intensity of conventional LEDs by arranging several light-emitting layers on top of each other; however, this needs to be done layer by layer, which makes production more complex.\n\nJagielski J, Solari SF, Jordan L, Scullion D, Blülle B, Li YT, Krumeich F, Chiu YC, Ruhstaller B, Santos EJG, Shih CJ: Scalable photonic sources using two-dimensional lead halide perovskite superlattices. Nature Communications 2020, doi: 10.1038/s41467-019-14084-3"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "QLED screens",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "a few years",
+        "label": "DATE",
+        "start": 41,
+        "end": 52
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 239,
+        "end": 249
+      },
+      {
+        "text": "only about one-fifth",
+        "label": "CARDINAL",
+        "start": 885,
+        "end": 905
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 1064,
+        "end": 1069
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 1113,
+        "end": 1121
+      },
+      {
+        "text": "2D",
+        "label": "CARDINAL",
+        "start": 45,
+        "end": 47
+      },
+      {
+        "text": "Jagielski J et al",
+        "label": "PERSON",
+        "start": 201,
+        "end": 218
+      },
+      {
+        "text": "Chih-Jen Shih",
+        "label": "PERSON",
+        "start": 248,
+        "end": 261
+      },
+      {
+        "text": "Technical Chemistry",
+        "label": "ORG",
+        "start": 276,
+        "end": 295
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 299,
+        "end": 309
+      },
+      {
+        "text": "2.4 nanometres",
+        "label": "QUANTITY",
+        "start": 372,
+        "end": 386
+      },
+      {
+        "text": "0.65",
+        "label": "CARDINAL",
+        "start": 486,
+        "end": 490
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 651,
+        "end": 659
+      },
+      {
+        "text": "Jakub Jagielski",
+        "label": "PERSON",
+        "start": 877,
+        "end": 892
+      },
+      {
+        "text": "Shih’s",
+        "label": "ORG",
+        "start": 916,
+        "end": 922
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 933,
+        "end": 938
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 972,
+        "end": 993
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1066,
+        "end": 1071
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 1107,
+        "end": 1115
+      },
+      {
+        "text": "around two-fifths",
+        "label": "CARDINAL",
+        "start": 1402,
+        "end": 1419
+      },
+      {
+        "text": "only one-fifth",
+        "label": "CARDINAL",
+        "start": 1488,
+        "end": 1502
+      },
+      {
+        "text": "only half",
+        "label": "CARDINAL",
+        "start": 1579,
+        "end": 1588
+      },
+      {
+        "text": "Shih",
+        "label": "PERSON",
+        "start": 1655,
+        "end": 1659
+      },
+      {
+        "text": "Jagielski J",
+        "label": "PERSON",
+        "start": 2209,
+        "end": 2220
+      },
+      {
+        "text": "Jordan L",
+        "label": "PERSON",
+        "start": 2233,
+        "end": 2241
+      },
+      {
+        "text": "Blülle B",
+        "label": "PERSON",
+        "start": 2255,
+        "end": 2263
+      },
+      {
+        "text": "Li YT",
+        "label": "PERSON",
+        "start": 2265,
+        "end": 2270
+      },
+      {
+        "text": "Krumeich F",
+        "label": "PERSON",
+        "start": 2272,
+        "end": 2282
+      },
+      {
+        "text": "Chiu YC",
+        "label": "PERSON",
+        "start": 2284,
+        "end": 2291
+      },
+      {
+        "text": "Ruhstaller",
+        "label": "ORG",
+        "start": 2293,
+        "end": 2303
+      },
+      {
+        "text": "Santos EJG",
+        "label": "PERSON",
+        "start": 2307,
+        "end": 2317
+      },
+      {
+        "text": "Shih CJ:",
+        "label": "PERSON",
+        "start": 2319,
+        "end": 2327
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2360,
+        "end": 2363
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 2414,
+        "end": 2435
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2447,
+        "end": 2454
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Blülle B",
+        "Chih-Jen Shih",
+        "Chiu YC",
+        "Jagielski J",
+        "Jagielski J et al",
+        "Jakub Jagielski",
+        "Jordan L",
+        "Krumeich F",
+        "Li YT",
+        "QLED screens",
+        "Santos EJG",
+        "Shih",
+        "Shih CJ:"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "En News",
+        "Nature Communications",
+        "Ruhstaller",
+        "Shih’s",
+        "Technical Chemistry"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "a few years",
+        "years"
+      ],
+      "MISC": [
+        "0.65",
+        "10.1038",
+        "2.4 nanometres",
+        "2D",
+        "around two-fifths",
+        "first",
+        "only about one-fifth",
+        "only half",
+        "only one",
+        "only one-fifth",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "only one": 3,
+      "ETH Zurich": 2,
+      "first": 2,
+      "Nature Communications": 2,
+      "En News": 1,
+      "QLED screens": 1,
+      "a few years": 1,
+      "only about one-fifth": 1,
+      "years": 1,
+      "2D": 1,
+      "Jagielski J et al": 1,
+      "Chih-Jen Shih": 1,
+      "Technical Chemistry": 1,
+      "2.4 nanometres": 1,
+      "0.65": 1,
+      "Jakub Jagielski": 1,
+      "Shih’s": 1,
+      "around two-fifths": 1,
+      "only one-fifth": 1,
+      "only half": 1
+    },
+    "total_entities": 37,
+    "unique_entities": 32
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "qled-platelets-instead-of-spheres-make-screens-more-economical.md",
+      "title": "En News Events/2020/01/qled Platelets Instead Of Spheres Make Screens More Economical",
+      "language": "en",
+      "source_path": "en_news_events/2020/01/qled-platelets-instead-of-spheres-make-screens-more-economical.html"
+    },
+    "temporal": {
+      "publication_date": "2020-01",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Blülle B",
+        "Chih-Jen Shih",
+        "Chiu YC",
+        "Jagielski J",
+        "Jagielski J et al",
+        "Jakub Jagielski",
+        "Jordan L",
+        "Krumeich F",
+        "Li YT",
+        "QLED screens",
+        "Santos EJG",
+        "Shih",
+        "Shih CJ:"
+      ],
+      "people_with_roles": {
+        "Chih-Jen Shih": [
+          "researcher",
+          "professor"
+        ],
+        "Jakub Jagielski": [
+          "student"
+        ],
+        "Shih": [
+          "Professor",
+          "researcher",
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics"
+      ],
+      "research_topics": [
+        "0.65",
+        "10.1038",
+        "2.4 nanometres",
+        "around two-fifths",
+        "first",
+        "only about one-fifth",
+        "only half",
+        "only one",
+        "only one-fifth"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Jakub Jagielski",
+        "Shih CJ",
+        "Chiu YC",
+        "More Economical",
+        "Krumeich F",
+        "Make Screens",
+        "Santos EJG",
+        "Professor Shih",
+        "Jordan L",
+        "Of Spheres",
+        "Jagielski J",
+        "Scullion D",
+        "Li YT",
+        "Ruhstaller B",
+        "Platelets Instead",
+        "Nature Communications",
+        "Solari SF",
+        "Chih-Jen",
+        "En News",
+        "Technical Chemistry",
+        "ETH Zurich",
+        "Conventional QLEDs"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "En News",
+        "Nature Communications",
+        "Ruhstaller",
+        "Shih’s",
+        "Technical Chemistry"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "only one",
+        "ETH Zurich",
+        "first",
+        "Nature Communications",
+        "En News",
+        "QLED screens",
+        "a few years",
+        "only about one-fifth",
+        "years",
+        "2D"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Stacked and insulated from each other",
+          "Reference"
+        ],
+        "content_length": 4385
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Jakub Jagielski",
+        "2020",
+        "Chih-Jen Shih",
+        "Chiu YC",
+        "Krumeich F",
+        "Jagielski J et al",
+        "QLED screens",
+        "Santos EJG",
+        "Shih’s",
+        "Jordan L",
+        "Jagielski J",
+        "Li YT",
+        "Blülle B",
+        "Nature Communications",
+        "Ruhstaller",
+        "Shih",
+        "En News",
+        "Technical Chemistry",
+        "Shih CJ:",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "only one-fifth",
+        "who",
+        "10.1038",
+        "0.65",
+        "only about one-fifth",
+        "what",
+        "how",
+        "around two-fifths",
+        "only one",
+        "2.4 nanometres",
+        "only half",
+        "when"
+      ],
+      "graph_relations": [
+        "Chih-Jen Shih_has_role_researcher",
+        "Chih-Jen Shih_has_role_professor",
+        "Jakub Jagielski_has_role_student",
+        "Shih_has_role_Professor",
+        "Shih_has_role_researcher",
+        "Shih_has_role_student",
+        "Shih_has_role_professor",
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "filename": "forschungsdatenmanagement-von-der-theorie-zur-praxis.md",
+  "original_filename": "forschungsdatenmanagement-von-der-theorie-zur-praxis.html",
+  "source_path": "en_internal/2019/12/forschungsdatenmanagement-von-der-theorie-zur-praxis.html",
+  "date": "2019-12",
+  "title": "Forschungsdatenmanagement Von Der Theorie Zur Praxis",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The workshops are a collaboration between ETH Library and the Scientific IT Services.\n\nTime and place : 9.00 – 12.00 on Campus Zentrum, in the ETH main building, room F 26.1\n\nWould you like to participate in one or more workshops?\n\nFurther information and registration\n\nFeel free to contact us at or in the event of any questions.\n\n#KnowHow – ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "von der",
+        "label": "PERSON",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "text": "Theorie Zur Praxis",
+        "label": "PERSON",
+        "start": 54,
+        "end": 72
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 42,
+        "end": 53
+      },
+      {
+        "text": "9.00",
+        "label": "CARDINAL",
+        "start": 103,
+        "end": 107
+      },
+      {
+        "text": "12.00",
+        "label": "CARDINAL",
+        "start": 110,
+        "end": 115
+      },
+      {
+        "text": "Campus Zentrum",
+        "label": "PERSON",
+        "start": 119,
+        "end": 133
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 142,
+        "end": 145
+      },
+      {
+        "text": "F 26.1",
+        "label": "PRODUCT",
+        "start": 166,
+        "end": 172
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 206,
+        "end": 209
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 337,
+        "end": 350
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Campus Zentrum",
+        "ETH Library’s",
+        "Theorie Zur Praxis",
+        "von der"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Library"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "12.00",
+        "9.00",
+        "F 26.1",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "von der": 1,
+      "Theorie Zur Praxis": 1,
+      "ETH Library": 1,
+      "9.00": 1,
+      "12.00": 1,
+      "Campus Zentrum": 1,
+      "ETH": 1,
+      "F 26.1": 1,
+      "one": 1,
+      "ETH Library’s": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "forschungsdatenmanagement-von-der-theorie-zur-praxis.md",
+      "title": "En Internal/2019/12/forschungsdatenmanagement von der Theorie Zur Praxis",
+      "language": "en",
+      "source_path": "en_internal/2019/12/forschungsdatenmanagement-von-der-theorie-zur-praxis.html"
+    },
+    "temporal": {
+      "publication_date": "2019-12",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "Campus Zentrum",
+        "ETH Library’s",
+        "Theorie Zur Praxis",
+        "von der"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "12.00",
+        "9.00",
+        "F 26.1"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Library",
+        "En Internal",
+        "Theorie Zur",
+        "Campus Zentrum",
+        "Scientific IT",
+        "Praxis The"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Library"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "von der",
+        "Theorie Zur Praxis",
+        "ETH Library",
+        "9.00",
+        "12.00",
+        "Campus Zentrum",
+        "ETH",
+        "F 26.1",
+        "one",
+        "ETH Library’s"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 477
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2019",
+        "ETH Library",
+        "Campus Zentrum",
+        "Theorie Zur Praxis",
+        "von der",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "F 26.1",
+        "who",
+        "12.00",
+        "when",
+        "where",
+        "how",
+        "why",
+        "9.00",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

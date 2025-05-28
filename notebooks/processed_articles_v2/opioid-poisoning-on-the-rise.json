@@ -1,0 +1,804 @@
+{
+  "filename": "opioid-poisoning-on-the-rise.md",
+  "original_filename": "opioid-poisoning-on-the-rise.html",
+  "source_path": "en_news_events/2022/06/opioid-poisoning-on-the-rise.html",
+  "date": "2022-06",
+  "title": "Opioid Poisoning On The Rise",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Sales doubled",
+      "text": "Since the early 2000’s the US has been in the grip of an opioid crisis that has been exacerbated by the Covid pandemic – in 2021, more than 100,000 people died of an opioid overdose in the country. There are increasing signs that the same crisis is taking hold in Europe. Initial studies from the Netherlands and Denmark have drawn attention to the rise in the use of the strong opioid oxycodone. This substance, originally sold under the name OxyContin, was the major driver of the opioid crisis in the USA.\n\nHowever, hardly any figures are available on the use of opioids in Switzerland in recent years – particularly related to the potential harm. A research group led by Andrea Burden, Professor of Pharmacoepidemiology at ETH Zurich, has now analysed Swiss data in order to assess the trend in Switzerland.\n\nThe researchers evaluated the development in the number of emergency calls concerning opioid poisoning to Tox Info Suisse, the Swiss information centre for poisoning, between 2000 and 2019. They also used data from IQVIA and provided by PharmaSuisse, the Swiss pharmacists' association, on opioid sales from Swiss pharmacies and dispensing physicians.\n\nThe data makes it clear that the problem is becoming increasingly severe. The number of calls made to Tox Info Suisse due to cases of opioid poisoning increased by 177 percent during this period. The centre received 1.4 calls per 100,000 inhabitants in 2000, but 20 years later the number of calls had risen by more than two and a half as many."
+    },
+    {
+      "heading": "Sales doubled",
+      "text": "Sales figures also almost doubled (+92%), from 14,300 units sold per 100,000 inhabitants to 27,400. Importantly, the increase in strong opioids was greater than in weaker forms, both in terms of calls to Tox Info Suisse and sales figures.\n\nIn absolute terms, the painkiller tramadol appeared most frequently in 2019, both in Tox Info Suisse and in sales (40%). Tramadol is a weak opioid prescribed for moderate to severe pain.\n\nThe second most common is oxycodone, a strong opioid that is the subject of more than a third of all calls to Tox Info Suisse and accounts for almost a quarter of sales. The figures relating to cases of poisoning and sales figures for oxycodone increased markedly between 2009 and 2016, with both more than doubling.\n\n\"Our study clearly shows that opioid use is rising sharply in Switzerland,\" Burden summarises the situation. \"The increase in sales is similar to those seen in the Netherlands and Denmark, however, our per capita sales are substantially higher in recent years\". While, we are still a long way from the current situation in the USA or Canada, we have to keep an eye on the situation as the high sales of oxycodone in Switzerland is similar to what we saw in Canada in the early 2000’s” says Burden."
+    },
+    {
+      "heading": "Averting a fentanyl crisis",
+      "text": "The study says very little about the use of illicit opioids, including fentanyl, an opioid that is administered for very severe pain; it is about ten times more potent than oxycodone and has a high potential for illicit use and fatal overdoses.\n\nIn the USA, Canada, and Australia, illicit heroin and fentanyl use spiked following the removal of OxyContin, and fentanyl is the major driver of the current opioid crisis in those countries."
+    },
+    {
+      "heading": "Reference",
+      "text": "As no figures are available, Burden cannot comment on the current number of illicit fentanyl users in Switzerland. Considered a narcotic, fentanyl is subject to stricter prescription requirements in Switzerland. However, Burden says that “if strong opioids like oxcycodone are suddenly restricted, patients who have a dependency to these medications may turn to the illicit market, and this is a danger we need to avoid moving forward”.\n\nIn the sales, fentanyl was the third most sold opioid, but this may be largely to care homes for end-stage cancer management. In the Tox Info Suisse data, very few calls were received for fentanyl. However, for opioids, and particularly, fentanyl, it is possible that users (or their caregivers) turn directly to emergency services in the event of poisoning in order to obtain an antidote quickly. Therefore, it is likely that the Tox Info Suisse would not capture the majority of severe opioid poisonings.\n\nWith data for the pandemic years 2020 and 2021 not yet known, it is unclear whether the use of opioids has risen dramatically, as in the US. The picture provided by the figures from PharmaSuisse and Tox Info Suisse is not complete either, and Burden is convinced that “the figures presented in the study on the harms with opioids in Switzerland are just the tip of the iceberg. We need more data to understand harms associated with opioid use in Switzerland – this includes the number who have developed a dependency to prescription opioids and the number of opioid-related deaths” Burden continues. She is now embarking on a follow-up study to address these questions.\n\nBurden believes it is important to remain vigilant, regardless of further studies: “We are not at the current scale of the opioid epidemic seen in North America or other countries such as UK or Australia. However, those countries are grappling with fentanyl use that developed following the restrictions on oxycodone. In Switzerland, we do not yet have the data to understand the full scale of opioid use and harms. Therefore, it is important that we collect this data so we can make informed policy decisions,” says the researcher. \"We are in a lucky position in Switzerland, as we have the opportunity to learn from the situation in other countries, and hopefully avoid a fentanyl epidemic.”\n\nHooijman MF, Martinez-De la Torre A, Weiler S, Burden AM. Opioid sales and opioid-related poisonings in Switzerland: a descriptive population-based time-series analysis. The Lancet Regional Health - Europe, published online 27.6.2022. DOI: 10.1016/j.lanepe.2022.100437"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the early 2000",
+        "label": "DATE",
+        "start": 6,
+        "end": 20
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 27,
+        "end": 29
+      },
+      {
+        "text": "Covid",
+        "label": "PERSON",
+        "start": 104,
+        "end": 109
+      },
+      {
+        "text": "more than 100,000",
+        "label": "CARDINAL",
+        "start": 130,
+        "end": 147
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 264,
+        "end": 270
+      },
+      {
+        "text": "Netherlands",
+        "label": "GPE",
+        "start": 297,
+        "end": 308
+      },
+      {
+        "text": "Denmark",
+        "label": "GPE",
+        "start": 313,
+        "end": 320
+      },
+      {
+        "text": "OxyContin",
+        "label": "ORG",
+        "start": 444,
+        "end": 453
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 504,
+        "end": 507
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 576,
+        "end": 587
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 591,
+        "end": 603
+      },
+      {
+        "text": "Andrea Burden",
+        "label": "PERSON",
+        "start": 674,
+        "end": 687
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 726,
+        "end": 736
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 755,
+        "end": 760
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 798,
+        "end": 809
+      },
+      {
+        "text": "Tox Info Suisse",
+        "label": "PERSON",
+        "start": 917,
+        "end": 932
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 938,
+        "end": 943
+      },
+      {
+        "text": "between 2000 and 2019",
+        "label": "DATE",
+        "start": 978,
+        "end": 999
+      },
+      {
+        "text": "IQVIA",
+        "label": "ORG",
+        "start": 1026,
+        "end": 1031
+      },
+      {
+        "text": "PharmaSuisse",
+        "label": "ORG",
+        "start": 1048,
+        "end": 1060
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1066,
+        "end": 1071
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1119,
+        "end": 1124
+      },
+      {
+        "text": "Tox Info Suisse",
+        "label": "PERSON",
+        "start": 1265,
+        "end": 1280
+      },
+      {
+        "text": "177 percent",
+        "label": "PERCENT",
+        "start": 1327,
+        "end": 1338
+      },
+      {
+        "text": "1.4",
+        "label": "CARDINAL",
+        "start": 1379,
+        "end": 1382
+      },
+      {
+        "text": "100,000",
+        "label": "CARDINAL",
+        "start": 1393,
+        "end": 1400
+      },
+      {
+        "text": "20 years later",
+        "label": "DATE",
+        "start": 1426,
+        "end": 1440
+      },
+      {
+        "text": "more than two and a half",
+        "label": "CARDINAL",
+        "start": 1474,
+        "end": 1498
+      },
+      {
+        "text": "14,300",
+        "label": "CARDINAL",
+        "start": 47,
+        "end": 53
+      },
+      {
+        "text": "100,000",
+        "label": "CARDINAL",
+        "start": 69,
+        "end": 76
+      },
+      {
+        "text": "27,400",
+        "label": "CARDINAL",
+        "start": 92,
+        "end": 98
+      },
+      {
+        "text": "Tox Info Suisse",
+        "label": "PERSON",
+        "start": 204,
+        "end": 219
+      },
+      {
+        "text": "Tox Info Suisse",
+        "label": "PERSON",
+        "start": 324,
+        "end": 339
+      },
+      {
+        "text": "40%",
+        "label": "PERCENT",
+        "start": 354,
+        "end": 357
+      },
+      {
+        "text": "Tramadol",
+        "label": "PERSON",
+        "start": 360,
+        "end": 368
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 430,
+        "end": 436
+      },
+      {
+        "text": "more than a third",
+        "label": "CARDINAL",
+        "start": 502,
+        "end": 519
+      },
+      {
+        "text": "Tox Info Suisse",
+        "label": "PERSON",
+        "start": 536,
+        "end": 551
+      },
+      {
+        "text": "almost a quarter",
+        "label": "CARDINAL",
+        "start": 569,
+        "end": 585
+      },
+      {
+        "text": "between 2009 and 2016",
+        "label": "DATE",
+        "start": 690,
+        "end": 711
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 805,
+        "end": 816
+      },
+      {
+        "text": "Netherlands",
+        "label": "GPE",
+        "start": 907,
+        "end": 918
+      },
+      {
+        "text": "Denmark",
+        "label": "GPE",
+        "start": 923,
+        "end": 930
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 990,
+        "end": 1002
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 1070,
+        "end": 1073
+      },
+      {
+        "text": "Canada",
+        "label": "GPE",
+        "start": 1077,
+        "end": 1083
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1159,
+        "end": 1170
+      },
+      {
+        "text": "Canada",
+        "label": "GPE",
+        "start": 1200,
+        "end": 1206
+      },
+      {
+        "text": "the early 2000",
+        "label": "DATE",
+        "start": 1210,
+        "end": 1224
+      },
+      {
+        "text": "Burden",
+        "label": "PERSON",
+        "start": 1233,
+        "end": 1239
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 146,
+        "end": 149
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 252,
+        "end": 255
+      },
+      {
+        "text": "Canada",
+        "label": "GPE",
+        "start": 257,
+        "end": 263
+      },
+      {
+        "text": "Australia",
+        "label": "GPE",
+        "start": 269,
+        "end": 278
+      },
+      {
+        "text": "OxyContin",
+        "label": "ORG",
+        "start": 344,
+        "end": 353
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 102,
+        "end": 113
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 199,
+        "end": 210
+      },
+      {
+        "text": "Burden",
+        "label": "PERSON",
+        "start": 221,
+        "end": 227
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 468,
+        "end": 473
+      },
+      {
+        "text": "the Tox Info Suisse",
+        "label": "ORG",
+        "start": 864,
+        "end": 883
+      },
+      {
+        "text": "years 2020",
+        "label": "DATE",
+        "start": 971,
+        "end": 981
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 1081,
+        "end": 1083
+      },
+      {
+        "text": "PharmaSuisse",
+        "label": "ORG",
+        "start": 1126,
+        "end": 1138
+      },
+      {
+        "text": "Tox Info Suisse",
+        "label": "PERSON",
+        "start": 1143,
+        "end": 1158
+      },
+      {
+        "text": "Burden",
+        "label": "PERSON",
+        "start": 1187,
+        "end": 1193
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1277,
+        "end": 1288
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1390,
+        "end": 1401
+      },
+      {
+        "text": "North America",
+        "label": "LOC",
+        "start": 1761,
+        "end": 1774
+      },
+      {
+        "text": "UK",
+        "label": "GPE",
+        "start": 1802,
+        "end": 1804
+      },
+      {
+        "text": "Australia",
+        "label": "GPE",
+        "start": 1808,
+        "end": 1817
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1935,
+        "end": 1946
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2178,
+        "end": 2189
+      },
+      {
+        "text": "Hooijman MF",
+        "label": "PERSON",
+        "start": 2308,
+        "end": 2319
+      },
+      {
+        "text": "Martinez-De la Torre",
+        "label": "PERSON",
+        "start": 2321,
+        "end": 2341
+      },
+      {
+        "text": "Weiler S",
+        "label": "ORG",
+        "start": 2345,
+        "end": 2353
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2412,
+        "end": 2423
+      },
+      {
+        "text": "The Lancet Regional Health - Europe",
+        "label": "ORG",
+        "start": 2478,
+        "end": 2513
+      },
+      {
+        "text": "27.6.2022",
+        "label": "ORG",
+        "start": 2532,
+        "end": 2541
+      },
+      {
+        "text": "10.1016",
+        "label": "CARDINAL",
+        "start": 2548,
+        "end": 2555
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andrea Burden",
+        "Burden",
+        "Covid",
+        "Hooijman MF",
+        "Martinez-De la Torre",
+        "Tox Info Suisse",
+        "Tramadol"
+      ],
+      "ORG": [
+        "27.6.2022",
+        "ETH Zurich",
+        "IQVIA",
+        "OxyContin",
+        "PharmaSuisse",
+        "The Lancet Regional Health - Europe",
+        "Weiler S",
+        "the Tox Info Suisse"
+      ],
+      "LOCATION": [
+        "Australia",
+        "Canada",
+        "Denmark",
+        "Europe",
+        "Netherlands",
+        "North America",
+        "Switzerland",
+        "UK",
+        "US",
+        "USA"
+      ],
+      "DATE": [
+        "20 years later",
+        "between 2000 and 2019",
+        "between 2009 and 2016",
+        "recent years",
+        "the early 2000",
+        "years 2020"
+      ],
+      "MISC": [
+        "1.4",
+        "10.1016",
+        "100,000",
+        "14,300",
+        "177 percent",
+        "27,400",
+        "40%",
+        "Swiss",
+        "almost a quarter",
+        "more than 100,000",
+        "more than a third",
+        "more than two and a half",
+        "second",
+        "ten",
+        "third"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 11,
+      "Tox Info Suisse": 6,
+      "Swiss": 4,
+      "USA": 3,
+      "Canada": 3,
+      "Burden": 3,
+      "the early 2000": 2,
+      "US": 2,
+      "Netherlands": 2,
+      "Denmark": 2,
+      "OxyContin": 2,
+      "recent years": 2,
+      "PharmaSuisse": 2,
+      "100,000": 2,
+      "Australia": 2,
+      "Covid": 1,
+      "more than 100,000": 1,
+      "Europe": 1,
+      "Andrea Burden": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 79,
+    "unique_entities": 46
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "opioid-poisoning-on-the-rise.md",
+      "title": "En News Events/2022/06/opioid Poisoning On The Rise",
+      "language": "en",
+      "source_path": "en_news_events/2022/06/opioid-poisoning-on-the-rise.html"
+    },
+    "temporal": {
+      "publication_date": "2022-06",
+      "mentioned_years": [
+        "2000",
+        "2009",
+        "2016",
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "time_periods": [
+        [
+          "2000",
+          "2019"
+        ],
+        [
+          "2009",
+          "2016"
+        ],
+        [
+          "2020",
+          "2021"
+        ]
+      ],
+      "temporal_context": "since, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andrea Burden",
+        "Burden",
+        "Covid",
+        "Hooijman MF",
+        "Martinez-De la Torre",
+        "Tox Info Suisse",
+        "Tramadol"
+      ],
+      "people_with_roles": {
+        "Andrea Burden": [
+          "professor"
+        ],
+        "Burden": [
+          "professor"
+        ],
+        "Tox Info Suisse": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1016",
+        "100,000",
+        "14,300",
+        "177 percent",
+        "27,400",
+        "Swiss",
+        "almost a quarter",
+        "more than 100,000",
+        "more than a third",
+        "more than two and a half",
+        "second",
+        "third"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "In Switzerland",
+        "Tox Info",
+        "The Rise",
+        "North America",
+        "En News",
+        "Torre A",
+        "Poisoning On",
+        "ETH Zurich",
+        "Martinez-De",
+        "Burden AM",
+        "Regional Health",
+        "Andrea Burden",
+        "Weiler S",
+        "The Lancet",
+        "Hooijman MF"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "27.6.2022",
+        "ETH Zurich",
+        "IQVIA",
+        "OxyContin",
+        "PharmaSuisse",
+        "The Lancet Regional Health - Europe",
+        "Weiler S",
+        "the Tox Info Suisse"
+      ],
+      "locations": [
+        "Australia",
+        "Canada",
+        "Denmark",
+        "Europe",
+        "Netherlands",
+        "North America",
+        "Switzerland",
+        "UK",
+        "US",
+        "USA"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "Tox Info Suisse",
+        "Swiss",
+        "USA",
+        "Canada",
+        "Burden",
+        "the early 2000",
+        "US",
+        "Netherlands",
+        "Denmark"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Sales doubled",
+          "Sales doubled",
+          "Averting a fentanyl crisis",
+          "Reference"
+        ],
+        "content_length": 5825
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Burden",
+        "the Tox Info Suisse",
+        "2020",
+        "2016",
+        "IQVIA",
+        "Covid",
+        "Andrea Burden",
+        "Weiler S",
+        "ERC",
+        "2009",
+        "2019",
+        "2022",
+        "The Lancet Regional Health - Europe",
+        "Martinez-De la Torre",
+        "EU",
+        "Tramadol",
+        "OxyContin",
+        "2000",
+        "27.6.2022",
+        "PharmaSuisse",
+        "Tox Info Suisse",
+        "ETH Zurich",
+        "2021",
+        "Hooijman MF"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1016",
+        "14,300",
+        "177 percent",
+        "more than a third",
+        "when",
+        "27,400",
+        "third",
+        "more than two and a half",
+        "medical_research",
+        "mathematics",
+        "almost a quarter",
+        "who",
+        "what",
+        "how",
+        "more than 100,000",
+        "Swiss",
+        "second",
+        "100,000",
+        "where"
+      ],
+      "graph_relations": [
+        "Andrea Burden_has_role_professor",
+        "Burden_has_role_professor",
+        "Tox Info Suisse_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

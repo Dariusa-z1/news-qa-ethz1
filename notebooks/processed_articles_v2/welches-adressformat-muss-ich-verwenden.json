@@ -1,0 +1,337 @@
+{
+  "filename": "welches-adressformat-muss-ich-verwenden.md",
+  "original_filename": "welches-adressformat-muss-ich-verwenden.html",
+  "source_path": "de_internal/2024/05/welches-adressformat-muss-ich-verwenden.html",
+  "date": "2024-05",
+  "title": "Welches Adressformat Muss Ich Verwenden",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "ETH-Adressformat zur Angabe der institutionellen Zugehörigkeit (bei allen Publikationen zu verwenden)",
+      "text": "- «ETH Hönggerberg» / «ETH Zentrum»*\n\n- «Eidgenössische Technische Hochschule Zürich» / «Swiss Federal Institute of Technology Zurich»\n\n- «ETHZ»\n\nDeutsch Claudia Muster, Institut für Atmosphäre und Klima, ETH Zürich, 8092 Zürich, Schweiz,\n\nEnglisch Claudia Muster, Institute for Atmospheric and Climate Science, ETH Zurich, 8092 Zurich, Switzerland,"
+    },
+    {
+      "heading": "Bestimmte Bezeichnungen der ETH dürfen für die Adressangabe nicht verwendet werden:",
+      "text": "Die Verwendung des einheitlichen Adressformat ist auch wichtig, damit wissenschaftliche Publikationen der ETH Zürich zugeordnet werden können."
+    },
+    {
+      "heading": "Bestimmte Bezeichnungen der ETH dürfen für die Adressangabe nicht verwendet werden:",
+      "text": "*Die Bezeichnungen «ETH Hönggerberg» und «ETH Zentrum» entsprechen auch sonst nicht der offiziellen Schreibweise, diese lauten «ETH Zürich, Campus Hönggerberg» und «ETH Zürich, Campus Zentrum»."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2024/05",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Muss Ich",
+        "label": "MISC",
+        "start": 41,
+        "end": 49
+      },
+      {
+        "text": "ETH Hönggerberg",
+        "label": "ORG",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "text": "ETH Zentrum",
+        "label": "ORG",
+        "start": 23,
+        "end": 34
+      },
+      {
+        "text": "Eidgenössische Technische Hochschule Zürich",
+        "label": "ORG",
+        "start": 40,
+        "end": 83
+      },
+      {
+        "text": "Swiss Federal Institute of Technology Zurich",
+        "label": "ORG",
+        "start": 88,
+        "end": 132
+      },
+      {
+        "text": "Deutsch Claudia Muster",
+        "label": "MISC",
+        "start": 143,
+        "end": 165
+      },
+      {
+        "text": "Institut für Atmosphäre und Klima",
+        "label": "ORG",
+        "start": 167,
+        "end": 200
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 202,
+        "end": 212
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 219,
+        "end": 225
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 227,
+        "end": 234
+      },
+      {
+        "text": "Claudia Muster",
+        "label": "PER",
+        "start": 245,
+        "end": 259
+      },
+      {
+        "text": "Institute for Atmospheric and Climate Science",
+        "label": "ORG",
+        "start": 261,
+        "end": 306
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 308,
+        "end": 318
+      },
+      {
+        "text": "Zurich",
+        "label": "LOC",
+        "start": 325,
+        "end": 331
+      },
+      {
+        "text": "Switzerland",
+        "label": "LOC",
+        "start": 333,
+        "end": 344
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 106,
+        "end": 116
+      },
+      {
+        "text": "ETH Hönggerberg",
+        "label": "ORG",
+        "start": 20,
+        "end": 35
+      },
+      {
+        "text": "ETH Zentrum",
+        "label": "ORG",
+        "start": 42,
+        "end": 53
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 128,
+        "end": 138
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 147,
+        "end": 158
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 165,
+        "end": 175
+      },
+      {
+        "text": "Campus Zentrum",
+        "label": "ORG",
+        "start": 177,
+        "end": 191
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Claudia Muster"
+      ],
+      "ORG": [
+        "Campus Zentrum",
+        "ETH Hönggerberg",
+        "ETH Zentrum",
+        "ETH Zurich",
+        "ETH Zürich",
+        "Eidgenössische Technische Hochschule Zürich",
+        "Institut für Atmosphäre und Klima",
+        "Institute for Atmospheric and Climate Science",
+        "Swiss Federal Institute of Technology Zurich"
+      ],
+      "LOCATION": [
+        "De Internal/2024/05",
+        "Hönggerberg",
+        "Schweiz",
+        "Switzerland",
+        "Zurich",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Deutsch Claudia Muster",
+        "Muss Ich"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 4,
+      "ETH Hönggerberg": 2,
+      "ETH Zentrum": 2,
+      "De Internal/2024/05": 1,
+      "Muss Ich": 1,
+      "Eidgenössische Technische Hochschule Zürich": 1,
+      "Swiss Federal Institute of Technology Zurich": 1,
+      "Deutsch Claudia Muster": 1,
+      "Institut für Atmosphäre und Klima": 1,
+      "Zürich": 1,
+      "Schweiz": 1,
+      "Claudia Muster": 1,
+      "Institute for Atmospheric and Climate Science": 1,
+      "ETH Zurich": 1,
+      "Zurich": 1,
+      "Switzerland": 1,
+      "Hönggerberg": 1,
+      "Campus Zentrum": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "welches-adressformat-muss-ich-verwenden.md",
+      "title": "De Internal/2024/05/welches Adressformat Muss Ich Verwenden",
+      "language": "de",
+      "source_path": "de_internal/2024/05/welches-adressformat-muss-ich-verwenden.html"
+    },
+    "temporal": {
+      "publication_date": "2024-05",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Claudia Muster"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Deutsch Claudia Muster",
+        "Muss Ich"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH Zentrum",
+        "Swiss Federal",
+        "Englisch Claudia",
+        "Technische Hochschule",
+        "Die Bezeichnungen",
+        "Deutsch Claudia",
+        "Technology Zurich",
+        "De Internal",
+        "Adressformat Muss",
+        "Die Verwendung",
+        "Campus Zentrum",
+        "Climate Science",
+        "ETH Zurich",
+        "Ich Verwenden"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Atmospheric and Climate Science"
+      ],
+      "institutions": [
+        "Campus Zentrum",
+        "ETH Hönggerberg",
+        "ETH Zentrum",
+        "ETH Zurich",
+        "ETH Zürich",
+        "Eidgenössische Technische Hochschule Zürich",
+        "Institut für Atmosphäre und Klima",
+        "Institute for Atmospheric and Climate Science",
+        "Swiss Federal Institute of Technology Zurich"
+      ],
+      "locations": [
+        "De Internal/2024/05",
+        "Hönggerberg",
+        "Schweiz",
+        "Switzerland",
+        "Zurich",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "ETH Hönggerberg",
+        "ETH Zentrum",
+        "De Internal/2024/05",
+        "Muss Ich",
+        "Eidgenössische Technische Hochschule Zürich",
+        "Swiss Federal Institute of Technology Zurich",
+        "Deutsch Claudia Muster",
+        "Institut für Atmosphäre und Klima",
+        "Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "ETH-Adressformat zur Angabe der institutionellen Zugehörigkeit (bei allen Publikationen zu verwenden)",
+          "Bestimmte Bezeichnungen der ETH dürfen für die Adressangabe nicht verwendet werden:",
+          "Bestimmte Bezeichnungen der ETH dürfen für die Adressangabe nicht verwendet werden:"
+        ],
+        "content_length": 746
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zentrum",
+        "Eidgenössische Technische Hochschule Zürich",
+        "2024",
+        "Institut für Atmosphäre und Klima",
+        "ETH Hönggerberg",
+        "EU",
+        "Claudia Muster",
+        "Swiss Federal Institute of Technology Zurich",
+        "ETH Zürich",
+        "Campus Zentrum",
+        "Institute for Atmospheric and Climate Science",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "Muss Ich",
+        "Deutsch Claudia Muster",
+        "what"
+      ],
+      "graph_relations": []
+    }
+  }
+}

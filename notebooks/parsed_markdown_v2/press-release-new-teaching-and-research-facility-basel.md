@@ -1,0 +1,26 @@
+# press-release-new-teaching-and-research-facility-basel.html
+
+**Source:** en_news_events/2024/05/press-release-new-teaching-and-research-facility-basel.html
+
+## In the heart of Basel
+
+When ETH Zurich established a new department in 2007 – in Basel, no less – with the aim of bringing together researchers from three disciplines, the idea was considered daring. “Basel is the life science capital of Europe, and for us this represented an unbelievable opportunity to build something new,” says Sven Panke, head of the Department of Biosystems Science and Engineering. “Health, medicine and data science are among ETH Zurich’s strategic priorities. The Department of Biosystems Science and Engineering brings all of these fields together,” adds Ulrich Weidmann, Vice President for Infrastructure at ETH. “Now with the new facility in Basel, our department can develop its collaboration with local industry and academia so that we can advance medical research together.”
+
+There are currently 19 professors, 180 doctoral students and around 340 employees teaching and researching at ETH Zurich’s Department of Biosystems Science and Engineering, which also educates up to 180 Master’s students. The opening of the ultra-modern BSS building now brings them all under one roof, where they can conduct their work just a stone’s throw from important partners in the medical, pharmaceutical and chemical industries.
+
+## In the heart of Basel
+
+The five-sided building, created by Munich-based architecture firm Nickl & Partner, is designed to support the vision of open exchange across research groups and disciplines. With a transparent facade and interior glass walls, the people inside become visible, and the building radiates openness and lightness. Generous open spaces offer students and staff space to engage with one another.
+
+The building also acts as a gateway between the city and the Schällemätteli campus. A broad, well-lit courtyard – as high as the building itself – leads visitors into the interior and also invites them to nearby neighbours such as the University of Basel, University Hospital Basel and University Children’s Hospital Basel. There are already close collaborations with local partners in place, and an important section of the scientific infrastructure of the new facility is also available to them – and is in parts jointly operated. The lower floors of the building are home to all of the cutting-edge research infrastructure, including a clean room and a GMP facility. In the GMP facility, it is possible to create active substances – such as reprogrammed cells – in a strictly controlled environment, which prepares them for direct use in the clinical process or in human trials.
+
+## Advancing personalised, data-driven medicine
+
+Both the new infrastructure and the physical proximity offered by the new building should help accelerate the translation of research insights from biology into real-world applications in medicine. ETH researchers in the Department of Biosystems Science and Engineering bring a unique combination of expertise in bioengineering, data analysis and bioinformatics to the location in Basel. “By now we understand pretty well how cells and cellular systems work and how they can be manipulated,” says Panke. “The next step is applying this knowledge for therapeutic purposes.”
+
+## A robust network in Basel
+
+ETH researchers are already working together with University Hospital Basel to pinpoint the origins of bladder cancer, for instance, and have also joined forces with researchers from the University of Basel to develop bacteria that deliver information about intestinal health. The latter project, which is being conducted at the Basel Research Centre for Child Health, is intended to help improve the effectiveness of healthcare measures for children in the Global South.
+
+ETH also works closely with the pharmaceutical industry in Basel. In a joint project with the Roche Institute of Human Biology, scientists from ETH are developing personalised treatment methods that could be used for pancreatic cancer – to name just one example. ETH has also been working together with Roche to launch a joint research and education programme that will start educating doctoral and postdoctoral students over the coming years.
+

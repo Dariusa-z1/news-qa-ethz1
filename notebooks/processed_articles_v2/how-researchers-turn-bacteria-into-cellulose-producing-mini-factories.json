@@ -1,0 +1,539 @@
+{
+  "filename": "how-researchers-turn-bacteria-into-cellulose-producing-mini-factories.md",
+  "original_filename": "how-researchers-turn-bacteria-into-cellulose-producing-mini-factories.html",
+  "source_path": "en_news_events/2024/07/how-researchers-turn-bacteria-into-cellulose-producing-mini-factories.html",
+  "date": "2024-07",
+  "title": "How Researchers Turn Bacteria Into Cellulose Producing Mini Factories",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- Materials researchers at ETH Zurich have created 40,000 variants of the cellulose-producing bacterium Komagataeibacter sucrofermentans.\n\n- Among them were four that produce up to seventy percent more cellulose than those in their original form.\n\n- The researchers achieved this using a new approach developed specifically for this purpose, which they have patented.\n\n- Cellulose is a much-sought-after raw material for food, textile and biomedical applications, for example."
+    },
+    {
+      "heading": "Accelerating evolution with UV light",
+      "text": "Bacteria produce materials that are of interest to humans, such as cellulose, silk and minerals. The advantage of producing bacteria in this way is that it is sustainable, takes place at room temperature and in water. A disadvantage is that the process takes time and gives rise to quantities too small to be of industrial use.\n\nConsequently, researchers have for some time been trying to turn microorganisms into living mini-factories that can produce larger quantities of a desired product more quickly. This requires either targeted intervention in the genome or the cultivation of the most suitable bacterial strains.\n\nA new approach is now being presented by the research group led by André Studart, Professor of Complex Materials at ETH Zurich, using the cellulose-producing bacterium Komagataeibacter sucrofermentans . Following the principles of evolution by natural selection, the new method allows scientists to produce tens of thousands of variants of the bacterium very quickly and to select those strains that produce the most cellulose."
+    },
+    {
+      "heading": "Patents pending",
+      "text": "K. sucrofermentans naturally produces high-purity cellulose, a material that is in great demand for biomedical applications and the production of packaging material and textiles. Two properties of this type of cellulose are that it supports wound healing and prevents infections. “However, the bacteria grow slowly and produce limited amounts of cellulose. We therefore had to find a way to boost production,” explains Julie Laurent, a doctoral student in Studart's group and first author of a study that has just been published in the scientific journal PNAS.\n\nThe approach she developed has succeeded in producing a small number of Komagataeibacter variants that generate up to seventy percent more cellulose than in their original form."
+    },
+    {
+      "heading": "Accelerating evolution with UV light",
+      "text": "The materials researcher first had to create new variants of the original bacterium that occurs in nature – known as the wild type. To do this, Julie Laurent irradiated the bacterial cells with UV-C light, which damages random points of the bacterial DNA. She then placed the bacteria in a dark room to prevent any repair of the DNA damage and to thereby induce mutations.\n\nUsing a miniature apparatus, she then encapsulated each bacterial cell in a tiny droplet of nutrient solution and allowed the cells to produce cellulose for a specific length of time. After the incubation period, she used fluorescence microscopy to analyse which of the cells had produced a lot of cellulose and which had produced none or very little.\n\nBy means of a sorting system developed by the group of ETH chemist Andrew De Mello, Studart’s team automatically sorted out those cells that had evolved to produce an exceptionally large amount of cellulose. This sorting system is fully automated and very fast. In a matter of minutes, it can scan half a million droplets with a laser and sort out those containing the most cellulose. Only four remained that produced 50 to 70 percent more cellulose than the wild type.\n\nThe evolved K. sucrofermentans cells can grow and produce cellulose in mats in glass vials at the interface between air and water. Such a mat naturally weighs between two and three milligrams and is about 1.5 millimetres thick. The cellulose mats of the newly evolved variants are almost twice as heavy and thick as the wild type.\n\nJulie Laurent and her colleagues also analysed these four variants genetically to find out which genes had been altered by the UV-C light and how these changes had led to the overproduction of cellulose. All four variants had the same mutation in the same gene. This gene is the blueprint for a protein-degrading enzyme – a protease. To the materials researcher’s surprise, however, the genes that directly control cellulose production had not changed. “We suspect that this protease degrades proteins that regulate cellulose production. Without this regulation, the cell can no longer stop the process,” the researcher explains.\n\nThe new approach is versatile and can be applied to bacteria that produce other materials. Such approaches were originally developed to create bacteria that produce certain proteins or enzymes. “We are the first to use such an approach to improve the production of non-protein materials,” ETH Professor André Studart says. “For me, this work is a milestone.”\n\nThe researchers have applied for a patent for the approach and mutated bacterial variants.\n\nIn a next step, they would like to collaborate with companies producing bacterial cellulose to test the new microorganism in real industrial conditions.\n\nLaurent JM, Jain A, Kan A, Steinacher M, Enrriquez Casimiro N, Stavrakis S, deMello AJ, Studart AR: Directed Evolution of Material-producing Microorganisms. PNAS, July 23, 2024, 121 (31) e2403585121, doi: 10.1073/pnas.2403585121"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 27,
+        "end": 37
+      },
+      {
+        "text": "40,000",
+        "label": "CARDINAL",
+        "start": 51,
+        "end": 57
+      },
+      {
+        "text": "Komagataeibacter",
+        "label": "ORG",
+        "start": 104,
+        "end": 120
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 156,
+        "end": 160
+      },
+      {
+        "text": "up to seventy percent",
+        "label": "PERCENT",
+        "start": 174,
+        "end": 195
+      },
+      {
+        "text": "André Studart",
+        "label": "PERSON",
+        "start": 688,
+        "end": 701
+      },
+      {
+        "text": "Complex Materials",
+        "label": "ORG",
+        "start": 716,
+        "end": 733
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 737,
+        "end": 747
+      },
+      {
+        "text": "Komagataeibacter",
+        "label": "ORG",
+        "start": 789,
+        "end": 805
+      },
+      {
+        "text": "tens of thousands",
+        "label": "CARDINAL",
+        "start": 928,
+        "end": 945
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 179,
+        "end": 182
+      },
+      {
+        "text": "Julie Laurent",
+        "label": "PERSON",
+        "start": 419,
+        "end": 432
+      },
+      {
+        "text": "Studart",
+        "label": "PERSON",
+        "start": 456,
+        "end": 463
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 476,
+        "end": 481
+      },
+      {
+        "text": "PNAS",
+        "label": "ORG",
+        "start": 555,
+        "end": 559
+      },
+      {
+        "text": "Komagataeibacter",
+        "label": "ORG",
+        "start": 633,
+        "end": 649
+      },
+      {
+        "text": "up to seventy percent",
+        "label": "PERCENT",
+        "start": 673,
+        "end": 694
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 25,
+        "end": 30
+      },
+      {
+        "text": "Julie Laurent",
+        "label": "PERSON",
+        "start": 144,
+        "end": 157
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 780,
+        "end": 783
+      },
+      {
+        "text": "Andrew De Mello",
+        "label": "PERSON",
+        "start": 792,
+        "end": 807
+      },
+      {
+        "text": "Studart",
+        "label": "PERSON",
+        "start": 809,
+        "end": 816
+      },
+      {
+        "text": "half a million",
+        "label": "QUANTITY",
+        "start": 1023,
+        "end": 1037
+      },
+      {
+        "text": "Only four",
+        "label": "CARDINAL",
+        "start": 1110,
+        "end": 1119
+      },
+      {
+        "text": "50 to 70 percent",
+        "label": "PERCENT",
+        "start": 1143,
+        "end": 1159
+      },
+      {
+        "text": "K.",
+        "label": "NORP",
+        "start": 1207,
+        "end": 1209
+      },
+      {
+        "text": "between two and three",
+        "label": "CARDINAL",
+        "start": 1354,
+        "end": 1375
+      },
+      {
+        "text": "about 1.5 millimetres",
+        "label": "QUANTITY",
+        "start": 1394,
+        "end": 1415
+      },
+      {
+        "text": "Julie Laurent",
+        "label": "PERSON",
+        "start": 1526,
+        "end": 1539
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 1579,
+        "end": 1583
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 1734,
+        "end": 1738
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2362,
+        "end": 2367
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2445,
+        "end": 2448
+      },
+      {
+        "text": "André Studart",
+        "label": "PERSON",
+        "start": 2459,
+        "end": 2472
+      },
+      {
+        "text": "Jain A",
+        "label": "ORG",
+        "start": 2771,
+        "end": 2777
+      },
+      {
+        "text": "Kan A",
+        "label": "ORG",
+        "start": 2779,
+        "end": 2784
+      },
+      {
+        "text": "Steinacher M",
+        "label": "ORG",
+        "start": 2786,
+        "end": 2798
+      },
+      {
+        "text": "Stavrakis S",
+        "label": "ORG",
+        "start": 2822,
+        "end": 2833
+      },
+      {
+        "text": "deMello AJ",
+        "label": "ORG",
+        "start": 2835,
+        "end": 2845
+      },
+      {
+        "text": "Studart AR",
+        "label": "PERSON",
+        "start": 2847,
+        "end": 2857
+      },
+      {
+        "text": "July 23, 2024",
+        "label": "DATE",
+        "start": 2922,
+        "end": 2935
+      },
+      {
+        "text": "10.1073",
+        "label": "CARDINAL",
+        "start": 2964,
+        "end": 2971
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andrew De Mello",
+        "André Studart",
+        "Julie Laurent",
+        "Studart",
+        "Studart AR"
+      ],
+      "ORG": [
+        "Complex Materials",
+        "ETH",
+        "ETH Zurich",
+        "Jain A",
+        "Kan A",
+        "Komagataeibacter",
+        "PNAS",
+        "Stavrakis S",
+        "Steinacher M",
+        "deMello AJ"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "July 23, 2024"
+      ],
+      "MISC": [
+        "10.1073",
+        "40,000",
+        "50 to 70 percent",
+        "K.",
+        "Only four",
+        "Two",
+        "about 1.5 millimetres",
+        "between two and three",
+        "first",
+        "four",
+        "half a million",
+        "tens of thousands",
+        "up to seventy percent"
+      ]
+    },
+    "entity_counts": {
+      "Komagataeibacter": 3,
+      "four": 3,
+      "Julie Laurent": 3,
+      "first": 3,
+      "ETH Zurich": 2,
+      "up to seventy percent": 2,
+      "André Studart": 2,
+      "Studart": 2,
+      "ETH": 2,
+      "40,000": 1,
+      "Complex Materials": 1,
+      "tens of thousands": 1,
+      "Two": 1,
+      "PNAS": 1,
+      "Andrew De Mello": 1,
+      "half a million": 1,
+      "Only four": 1,
+      "50 to 70 percent": 1,
+      "K.": 1,
+      "between two and three": 1
+    },
+    "total_entities": 42,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-researchers-turn-bacteria-into-cellulose-producing-mini-factories.md",
+      "title": "En News Events/2024/07/how Researchers Turn Bacteria Into Cellulose Producing Mini Factories",
+      "language": "en",
+      "source_path": "en_news_events/2024/07/how-researchers-turn-bacteria-into-cellulose-producing-mini-factories.html"
+    },
+    "temporal": {
+      "publication_date": "2024-07",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andrew De Mello",
+        "André Studart",
+        "Julie Laurent",
+        "Studart",
+        "Studart AR"
+      ],
+      "people_with_roles": {
+        "André Studart": [
+          "Professor",
+          "professor"
+        ],
+        "Julie Laurent": [
+          "student"
+        ],
+        "Studart": [
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "biology"
+      ],
+      "research_topics": [
+        "10.1073",
+        "40,000",
+        "50 to 70 percent",
+        "Only four",
+        "about 1.5 millimetres",
+        "between two and three",
+        "first",
+        "four",
+        "half a million",
+        "tens of thousands",
+        "up to seventy percent"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Jain A",
+        "Directed Evolution",
+        "Steinacher M",
+        "Studart AR",
+        "Researchers Turn",
+        "Andrew De",
+        "ETH Professor",
+        "Bacteria Into",
+        "Kan A",
+        "Stavrakis S",
+        "UV-C",
+        "Cellulose Producing",
+        "Enrriquez Casimiro",
+        "Julie Laurent",
+        "En News",
+        "Laurent JM",
+        "Mini Factories",
+        "Complex Materials",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Complex Materials",
+        "ETH",
+        "ETH Zurich",
+        "Jain A",
+        "Kan A",
+        "Komagataeibacter",
+        "PNAS",
+        "Stavrakis S",
+        "Steinacher M",
+        "deMello AJ"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Komagataeibacter",
+        "four",
+        "Julie Laurent",
+        "first",
+        "ETH Zurich",
+        "up to seventy percent",
+        "André Studart",
+        "Studart",
+        "ETH",
+        "40,000"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "In brief",
+          "Accelerating evolution with UV light",
+          "Patents pending",
+          "Accelerating evolution with UV light"
+        ],
+        "content_length": 5356
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Andrew De Mello",
+        "ETH",
+        "Jain A",
+        "2024",
+        "Studart",
+        "Stavrakis S",
+        "Steinacher M",
+        "deMello AJ",
+        "Studart AR",
+        "André Studart",
+        "Komagataeibacter",
+        "Complex Materials",
+        "Kan A",
+        "ETH Zurich",
+        "PNAS",
+        "ERC",
+        "Julie Laurent"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "half a million",
+        "about 1.5 millimetres",
+        "50 to 70 percent",
+        "10.1073",
+        "when",
+        "engineering",
+        "up to seventy percent",
+        "four",
+        "biology",
+        "medical_research",
+        "Only four",
+        "who",
+        "tens of thousands",
+        "what",
+        "how",
+        "40,000",
+        "first",
+        "between two and three",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "André Studart_has_role_Professor",
+        "André Studart_has_role_professor",
+        "Julie Laurent_has_role_student",
+        "Studart_has_role_student",
+        "Studart_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology"
+      ]
+    }
+  }
+}

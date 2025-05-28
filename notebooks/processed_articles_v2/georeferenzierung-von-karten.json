@@ -1,0 +1,239 @@
+{
+  "filename": "georeferenzierung-von-karten.md",
+  "original_filename": "georeferenzierung-von-karten.html",
+  "source_path": "en_internal/2019/11/georeferenzierung-von-karten.html",
+  "date": "2019-11",
+  "title": "Georeferenzierung Von Karten",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "But the geo-referencing of historical, digitised maps is arduous and can often only be done by hand. So we’re counting on your support!\n\nAfter our exceptionally successful first round of crowdsourcing in early 2017, there are now over 1,700 more historical maps from the holdings of ETH Library ready for geo-referencing. One special feature of these maps is that they are mostly from the 19th century, so they do not yet have geographical coordinates such as ETH Library records for individual maps. The challenge of being able to suitably geo-reference these “hidden maps” is therefore somewhat greater.\n\nYou can find information about the current status of the georeferencing and a methods guide on the project site.\n\nOnce completed, you will also be able to access the geo-referenced maps in the portal OldMapsOnline.org . All maps and atlases are already be searchable now at the ETH Library search portal and on the platform e-rara.ch .\n\n#KnowHow – ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "von Karten",
+        "label": "PERSON",
+        "start": 38,
+        "end": 48
+      },
+      {
+        "text": "geo",
+        "label": "PRODUCT",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 171,
+        "end": 176
+      },
+      {
+        "text": "early 2017",
+        "label": "DATE",
+        "start": 203,
+        "end": 213
+      },
+      {
+        "text": "over 1,700",
+        "label": "CARDINAL",
+        "start": 229,
+        "end": 239
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 282,
+        "end": 293
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 321,
+        "end": 324
+      },
+      {
+        "text": "the 19th century",
+        "label": "DATE",
+        "start": 384,
+        "end": 400
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 459,
+        "end": 470
+      },
+      {
+        "text": "geo-reference",
+        "label": "PRODUCT",
+        "start": 540,
+        "end": 553
+      },
+      {
+        "text": "geo",
+        "label": "PRODUCT",
+        "start": 770,
+        "end": 773
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 882,
+        "end": 893
+      },
+      {
+        "text": "KnowHow",
+        "label": "PERSON",
+        "start": 940,
+        "end": 947
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 950,
+        "end": 963
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library’s",
+        "KnowHow",
+        "von Karten"
+      ],
+      "ORG": [
+        "ETH Library"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "early 2017",
+        "the 19th century"
+      ],
+      "MISC": [
+        "One",
+        "first",
+        "geo",
+        "geo-reference",
+        "over 1,700"
+      ]
+    },
+    "entity_counts": {
+      "ETH Library": 3,
+      "geo": 2,
+      "von Karten": 1,
+      "first": 1,
+      "early 2017": 1,
+      "over 1,700": 1,
+      "One": 1,
+      "the 19th century": 1,
+      "geo-reference": 1,
+      "KnowHow": 1,
+      "ETH Library’s": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "georeferenzierung-von-karten.md",
+      "title": "En Internal/2019/11/georeferenzierung von Karten",
+      "language": "en",
+      "source_path": "en_internal/2019/11/georeferenzierung-von-karten.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2017",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library’s",
+        "KnowHow",
+        "von Karten"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "first",
+        "geo-reference",
+        "over 1,700"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Karten But",
+        "ETH Library",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Library",
+        "geo",
+        "von Karten",
+        "first",
+        "early 2017",
+        "over 1,700",
+        "One",
+        "the 19th century",
+        "geo-reference",
+        "KnowHow"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1065
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "von Karten",
+        "2017",
+        "2019",
+        "ETH Library",
+        "KnowHow",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "first",
+        "geo-reference",
+        "who",
+        "what",
+        "how",
+        "over 1,700",
+        "why",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

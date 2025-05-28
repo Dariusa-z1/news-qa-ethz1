@@ -1,0 +1,173 @@
+{
+  "filename": "gedanken-sprints-im-quartier.md",
+  "original_filename": "gedanken-sprints-im-quartier.html",
+  "source_path": "de_internal/2019/06/gedanken-sprints-im-quartier.html",
+  "date": "2019-06",
+  "title": "Gedanken Sprints Im Quartier",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Mit einem Headset ausgestattet, welches die Hirnaktivität misst, konnten bis zu vier Personen gleichzeitig gegeneinander an einem virtuellen Rennen mit Gedankensteuerung antreten. Die Neugier und das Interesse vor allem bei Kindern und Jugendlichen waren gross; die verfügbaren Plätze waren praktisch durchgehend besetzt.\n\nUm das Gehirn-Computer-Schnittstellen (BCIs) Rennen «BrainDriver» gewinnen zu können, galt es, mittels Konzentration, beziehungsweise Entspannung gedanklich den richtigen Befehl zum passenden Zeitpunkt zu senden. Bei entsprechender Hirnaktivität behielt das Fahrzeug seine Geschwindigkeit bei - all das mit dem Ziel, das eigene Fahrzeug als Erste oder Erster über die Ziellinie zu steuern.\n\nDas Rennen ist Teil des im Mai 2020 stattfindenden von der ETH initiierten Cybathlon, einem einzigartigen Wettkampf, bei dem sich Menschen mit Behinderungen beim Absolvieren alltagsrelevanter Aufgaben mittels modernster technischer Assistenzsysteme miteinander messen. Der erste Cybathlon wurde 2016 erfolgreich lanciert und mit 66 Pilotinnen und Piloten aus 25 Nationen in der ausverkauften SWISS Arena in Zürich durchgeführt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/06/gedanken Sprints",
+        "label": "LOC",
+        "start": 0,
+        "end": 36
+      },
+      {
+        "text": "Gehirn-Computer-Schnittstellen",
+        "label": "LOC",
+        "start": 329,
+        "end": 359
+      },
+      {
+        "text": "BrainDriver",
+        "label": "ORG",
+        "start": 375,
+        "end": 386
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 771,
+        "end": 774
+      },
+      {
+        "text": "SWISS Arena",
+        "label": "LOC",
+        "start": 1104,
+        "end": 1115
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 1119,
+        "end": 1125
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "BrainDriver",
+        "ETH"
+      ],
+      "LOCATION": [
+        "De Internal/2019/06/gedanken Sprints",
+        "Gehirn-Computer-Schnittstellen",
+        "SWISS Arena",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2019/06/gedanken Sprints": 1,
+      "Gehirn-Computer-Schnittstellen": 1,
+      "BrainDriver": 1,
+      "ETH": 1,
+      "SWISS Arena": 1,
+      "Zürich": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "gedanken-sprints-im-quartier.md",
+      "title": "De Internal/2019/06/gedanken Sprints Im Quartier",
+      "language": "de",
+      "source_path": "de_internal/2019/06/gedanken-sprints-im-quartier.html"
+    },
+    "temporal": {
+      "publication_date": "2019-06",
+      "mentioned_years": [
+        "2016",
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "SWISS Arena",
+        "Quartier Mit",
+        "De Internal",
+        "Die Neugier",
+        "Gehirn-Computer",
+        "Sprints Im",
+        "Das Rennen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BrainDriver",
+        "ETH"
+      ],
+      "locations": [
+        "De Internal/2019/06/gedanken Sprints",
+        "Gehirn-Computer-Schnittstellen",
+        "SWISS Arena",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De Internal/2019/06/gedanken Sprints",
+        "Gehirn-Computer-Schnittstellen",
+        "BrainDriver",
+        "ETH",
+        "SWISS Arena",
+        "Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1190
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2019",
+        "EU",
+        "2020",
+        "2016",
+        "BrainDriver"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

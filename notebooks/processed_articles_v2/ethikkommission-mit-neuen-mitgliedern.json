@@ -1,0 +1,272 @@
+{
+  "filename": "ethikkommission-mit-neuen-mitgliedern.md",
+  "original_filename": "ethikkommission-mit-neuen-mitgliedern.html",
+  "source_path": "de_internal/2015/04/ethikkommission-mit-neuen-mitgliedern.html",
+  "date": "2015-04",
+  "title": "Ethikkommission Mit Neuen Mitgliedern",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Schulleitung der ETH Zürich hat Mitte März drei neue Mitglieder in die Ethikkommission gewählt. Damit hat die Kommission insgesamt neun Mitglieder.\n\nDie drei neuen Mitglieder verstärken die Kompetenz der Ethikkommission in den Gebieten Navigationssysteme mit Fokus auf Mensch-Maschine-Interaktion, allgemeine Psychologie, Biomechanik und Medizintechnik mit Schwerpunkt robotergestützte Systeme.\n\nAls Mitglieder der Ethikkommission wiedergewählt sind:\n\nWeiterhin aktive Mitglieder der Ethikkommission sind:\n\nSchulleitung und Ethikkommission verdanken die geleisteten Dienste der zurückgetretenen Mitglieder Ines Egli (ehemals D-HEST, jetzt Stab ETH-Rat), Roberto La Marca (Psychologisches Institut der Universität Zürich) und Kurt Murer, emeritierter Titularprofessor am D-HEST.\n\nMitglieder der Ethikkommission werden in der Regel für eine Amtszeit von vier Jahren gewählt.\n\nSekretär der Ethikkommission ist Raffael Iturrizaga vom Stab Forschung."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/04/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Neuen Mitgliedern",
+        "label": "ORG",
+        "start": 40,
+        "end": 57
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 21,
+        "end": 31
+      },
+      {
+        "text": "Kommission",
+        "label": "ORG",
+        "start": 114,
+        "end": 124
+      },
+      {
+        "text": "Mensch-Maschine-Interaktion",
+        "label": "MISC",
+        "start": 272,
+        "end": 299
+      },
+      {
+        "text": "Ines Egli",
+        "label": "PER",
+        "start": 606,
+        "end": 615
+      },
+      {
+        "text": "D-HEST",
+        "label": "ORG",
+        "start": 625,
+        "end": 631
+      },
+      {
+        "text": "Stab ETH-Rat",
+        "label": "MISC",
+        "start": 639,
+        "end": 651
+      },
+      {
+        "text": "Roberto La Marca",
+        "label": "PER",
+        "start": 654,
+        "end": 670
+      },
+      {
+        "text": "Psychologisches Institut der",
+        "label": "ORG",
+        "start": 672,
+        "end": 700
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 701,
+        "end": 719
+      },
+      {
+        "text": "Kurt Murer",
+        "label": "PER",
+        "start": 725,
+        "end": 735
+      },
+      {
+        "text": "D-HEST",
+        "label": "ORG",
+        "start": 770,
+        "end": 776
+      },
+      {
+        "text": "Raffael Iturrizaga",
+        "label": "PER",
+        "start": 905,
+        "end": 923
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ines Egli",
+        "Kurt Murer",
+        "Raffael Iturrizaga",
+        "Roberto La Marca"
+      ],
+      "ORG": [
+        "D-HEST",
+        "ETH Zürich",
+        "Kommission",
+        "Neuen Mitgliedern",
+        "Psychologisches Institut der",
+        "Universität Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2015/04/"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Mensch-Maschine-Interaktion",
+        "Stab ETH-Rat"
+      ]
+    },
+    "entity_counts": {
+      "D-HEST": 2,
+      "De Internal/2015/04/": 1,
+      "Neuen Mitgliedern": 1,
+      "ETH Zürich": 1,
+      "Kommission": 1,
+      "Mensch-Maschine-Interaktion": 1,
+      "Ines Egli": 1,
+      "Stab ETH-Rat": 1,
+      "Roberto La Marca": 1,
+      "Psychologisches Institut der": 1,
+      "Universität Zürich": 1,
+      "Kurt Murer": 1,
+      "Raffael Iturrizaga": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ethikkommission-mit-neuen-mitgliedern.md",
+      "title": "De Internal/2015/04/ethikkommission mit Neuen Mitgliedern",
+      "language": "de",
+      "source_path": "de_internal/2015/04/ethikkommission-mit-neuen-mitgliedern.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Ines Egli",
+        "Kurt Murer",
+        "Raffael Iturrizaga",
+        "Roberto La Marca"
+      ],
+      "people_with_roles": {
+        "Ines Egli": [
+          "professor"
+        ],
+        "Kurt Murer": [
+          "professor"
+        ],
+        "Roberto La Marca": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Mensch-Maschine-Interaktion",
+        "Stab ETH-Rat"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Gebieten Navigationssysteme",
+        "Stab ETH",
+        "Kurt Murer",
+        "Roberto La",
+        "De Internal",
+        "Mitglieder Ines",
+        "Die Schulleitung",
+        "D-HEST",
+        "Neuen Mitgliedern",
+        "Mensch-Maschine",
+        "Psychologisches Institut",
+        "Als Mitglieder",
+        "Stab Forschung",
+        "Raffael Iturrizaga"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "D-HEST",
+        "ETH Zürich",
+        "Kommission",
+        "Neuen Mitgliedern",
+        "Psychologisches Institut der",
+        "Universität Zürich"
+      ],
+      "locations": [
+        "De Internal/2015/04/"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "D-HEST",
+        "De Internal/2015/04/",
+        "Neuen Mitgliedern",
+        "ETH Zürich",
+        "Kommission",
+        "Mensch-Maschine-Interaktion",
+        "Ines Egli",
+        "Stab ETH-Rat",
+        "Roberto La Marca",
+        "Psychologisches Institut der"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1007
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Ines Egli",
+        "2015",
+        "Kurt Murer",
+        "Universität Zürich",
+        "EU",
+        "D-HEST",
+        "ETH Zürich",
+        "Neuen Mitgliedern",
+        "Psychologisches Institut der",
+        "Kommission",
+        "Roberto La Marca",
+        "Raffael Iturrizaga"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Stab ETH-Rat",
+        "Mensch-Maschine-Interaktion"
+      ],
+      "graph_relations": [
+        "Ines Egli_has_role_professor",
+        "Kurt Murer_has_role_professor",
+        "Roberto La Marca_has_role_professor"
+      ]
+    }
+  }
+}

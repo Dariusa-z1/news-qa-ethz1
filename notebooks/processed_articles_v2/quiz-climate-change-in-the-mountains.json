@@ -1,0 +1,145 @@
+{
+  "filename": "quiz-climate-change-in-the-mountains.md",
+  "original_filename": "quiz-climate-change-in-the-mountains.html",
+  "source_path": "en_news_events/2019/10/quiz-climate-change-in-the-mountains.html",
+  "date": "2019-10",
+  "title": "Quiz Climate Change In The Mountains",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In the quiz series, we take you on a tour of discovery through remarkable, peculiar and fun facts from ETH Zurich’s research and teaching. This edition is dedicated to the topic of climate change and the mountains.\n\nThis year’s ETH Klimarunde invites residents to discuss topics related to climate change in the mountains. On Wednesday 23 October, visitors can attend presentations, learn about the latest developments in the field and talk to experts face-to-face during roundtable discussions.\n\nFurther information and registration"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich’s",
+        "label": "ORG",
+        "start": 103,
+        "end": 115
+      },
+      {
+        "text": "This year",
+        "label": "DATE",
+        "start": 215,
+        "end": 224
+      },
+      {
+        "text": "ETH Klimarunde",
+        "label": "ORG",
+        "start": 227,
+        "end": 241
+      },
+      {
+        "text": "Wednesday 23 October",
+        "label": "DATE",
+        "start": 325,
+        "end": 345
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Klimarunde",
+        "ETH Zurich’s"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "This year",
+        "Wednesday 23 October"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zurich’s": 1,
+      "This year": 1,
+      "ETH Klimarunde": 1,
+      "Wednesday 23 October": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "quiz-climate-change-in-the-mountains.md",
+      "title": "En News Events/2019/10/quiz Climate Change in The Mountains",
+      "language": "en",
+      "source_path": "en_news_events/2019/10/quiz-climate-change-in-the-mountains.html"
+    },
+    "temporal": {
+      "publication_date": "2019-10",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Climate Change",
+        "En News",
+        "The Mountains",
+        "On Wednesday",
+        "ETH Zurich",
+        "ETH Klimarunde"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Klimarunde",
+        "ETH Zurich’s"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Zurich’s",
+        "This year",
+        "ETH Klimarunde",
+        "Wednesday 23 October"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 593
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Klimarunde",
+        "ETH Zurich’s",
+        "2019"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "climate_change",
+        "what"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

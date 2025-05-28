@@ -1,0 +1,327 @@
+{
+  "filename": "new-restaurant-on-the-hoenggerberg-campus.md",
+  "original_filename": "new-restaurant-on-the-hoenggerberg-campus.html",
+  "source_path": "en_internal/2016/10/new-restaurant-on-the-hoenggerberg-campus.html",
+  "date": "2016-10",
+  "title": "New Restaurant On The Hoenggerberg Campus",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The restaurant in the new freestanding HGP pavilion on the Hönggerberg campus offers views across Zurich’s Affoltern quarter and elegant à-la-carte dining. The lunchtime menu will feature a variety of options, including three-course meals. In addition to the classic restaurant area, there will also be a section with high tables, and a lounge with comfortable armchairs and coffee tables. In fine weather, guests will also be served on the terrace. All this will be complemented by a bar serving warm and cold drinks and snacks from 9 am to 9 pm. The caterer is ZFV, which also operates the University of Zurich’s Uniturm.\n\nThe Bellavista is ETH Zurich’s first restaurant that is explicitly designed with external guests also in mind. It is anticipated to become a popular meeting place for ETH Zurich’s staff and students and their guests.\n\nThe restaurant pavilion building project was managed by the Public Real Estate Management Division. The contract for the architectural design and implementation of the project was awarded as part of a competition in November 2013. Emilio Tuñón Arquitectos from Madrid and Priora Generalunternehmung AG from Kloten were selected as the winners.\n\nThe Bellavista has opened for its first day of regular operation on 10 October."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "HGP",
+        "label": "ORG",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 59,
+        "end": 70
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 98,
+        "end": 104
+      },
+      {
+        "text": "Affoltern quarter",
+        "label": "DATE",
+        "start": 107,
+        "end": 124
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 220,
+        "end": 225
+      },
+      {
+        "text": "9 am to 9 pm",
+        "label": "TIME",
+        "start": 534,
+        "end": 546
+      },
+      {
+        "text": "ZFV",
+        "label": "ORG",
+        "start": 563,
+        "end": 566
+      },
+      {
+        "text": "the University of Zurich’s Uniturm",
+        "label": "ORG",
+        "start": 588,
+        "end": 622
+      },
+      {
+        "text": "Bellavista",
+        "label": "PERSON",
+        "start": 628,
+        "end": 638
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 642,
+        "end": 654
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 655,
+        "end": 660
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "ORG",
+        "start": 791,
+        "end": 803
+      },
+      {
+        "text": "the Public Real Estate Management Division",
+        "label": "ORG",
+        "start": 897,
+        "end": 939
+      },
+      {
+        "text": "November 2013",
+        "label": "DATE",
+        "start": 1057,
+        "end": 1070
+      },
+      {
+        "text": "Emilio Tuñón Arquitectos",
+        "label": "PERSON",
+        "start": 1072,
+        "end": 1096
+      },
+      {
+        "text": "Madrid",
+        "label": "GPE",
+        "start": 1102,
+        "end": 1108
+      },
+      {
+        "text": "Priora Generalunternehmung AG",
+        "label": "ORG",
+        "start": 1113,
+        "end": 1142
+      },
+      {
+        "text": "Kloten",
+        "label": "PERSON",
+        "start": 1148,
+        "end": 1154
+      },
+      {
+        "text": "Bellavista",
+        "label": "PERSON",
+        "start": 1189,
+        "end": 1199
+      },
+      {
+        "text": "its first day",
+        "label": "DATE",
+        "start": 1215,
+        "end": 1228
+      },
+      {
+        "text": "10 October",
+        "label": "DATE",
+        "start": 1253,
+        "end": 1263
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bellavista",
+        "ETH Zurich’s",
+        "Emilio Tuñón Arquitectos",
+        "Hönggerberg",
+        "Kloten"
+      ],
+      "ORG": [
+        "ETH Zurich’s",
+        "HGP",
+        "Priora Generalunternehmung AG",
+        "ZFV",
+        "the Public Real Estate Management Division",
+        "the University of Zurich’s Uniturm"
+      ],
+      "LOCATION": [
+        "Madrid",
+        "Zurich"
+      ],
+      "DATE": [
+        "10 October",
+        "9 am to 9 pm",
+        "Affoltern quarter",
+        "November 2013",
+        "its first day"
+      ],
+      "MISC": [
+        "first",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Bellavista": 2,
+      "ETH Zurich’s": 2,
+      "HGP": 1,
+      "Hönggerberg": 1,
+      "Zurich": 1,
+      "Affoltern quarter": 1,
+      "three": 1,
+      "9 am to 9 pm": 1,
+      "ZFV": 1,
+      "the University of Zurich’s Uniturm": 1,
+      "first": 1,
+      "the Public Real Estate Management Division": 1,
+      "November 2013": 1,
+      "Emilio Tuñón Arquitectos": 1,
+      "Madrid": 1,
+      "Priora Generalunternehmung AG": 1,
+      "Kloten": 1,
+      "its first day": 1,
+      "10 October": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-restaurant-on-the-hoenggerberg-campus.md",
+      "title": "En Internal/2016/10/new Restaurant On The Hoenggerberg Campus",
+      "language": "en",
+      "source_path": "en_internal/2016/10/new-restaurant-on-the-hoenggerberg-campus.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2013",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bellavista",
+        "ETH Zurich’s",
+        "Emilio Tuñón Arquitectos",
+        "Hönggerberg",
+        "Kloten"
+      ],
+      "people_with_roles": {
+        "ETH Zurich’s": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "chair",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "first",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Restaurant On",
+        "Campus The",
+        "En Internal",
+        "Priora Generalunternehmung",
+        "Estate Management",
+        "The Hoenggerberg",
+        "ETH Zurich",
+        "The Bellavista",
+        "Public Real"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich’s",
+        "HGP",
+        "Priora Generalunternehmung AG",
+        "ZFV",
+        "the Public Real Estate Management Division",
+        "the University of Zurich’s Uniturm"
+      ],
+      "locations": [
+        "Madrid",
+        "Zurich"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Bellavista",
+        "ETH Zurich’s",
+        "HGP",
+        "Hönggerberg",
+        "Zurich",
+        "Affoltern quarter",
+        "three",
+        "9 am to 9 pm",
+        "ZFV",
+        "the University of Zurich’s Uniturm"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1329
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "HGP",
+        "2013",
+        "2016",
+        "Bellavista",
+        "the University of Zurich’s Uniturm",
+        "the Public Real Estate Management Division",
+        "Kloten",
+        "Emilio Tuñón Arquitectos",
+        "ETH Zurich’s",
+        "Priora Generalunternehmung AG",
+        "ZFV"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "three",
+        "what",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich’s_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

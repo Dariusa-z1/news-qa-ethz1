@@ -1,0 +1,548 @@
+{
+  "filename": "creative-proofs-with-pigeons-and-boxes.md",
+  "original_filename": "creative-proofs-with-pigeons-and-boxes.html",
+  "source_path": "en_news_events/2016/05/creative-proofs-with-pigeons-and-boxes.html",
+  "date": "2016-05",
+  "title": "Creative Proofs With Pigeons And Boxes",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The beauty of putative reasons",
+      "text": "Mathematics is sometimes like football. Solving a tricky task is not a solitary endeavour, but rather a joint effort requiring creativity and tactics. A lot is going on when secondary school students come together to solve mathematical problems at the ETH Math Youth Academy. A student comes up with an idea, a second one picks it up, suggests a possible solution and passes it to their teammate, who then scores: the problem is solved.\n\nThe seven students rack their brains over one problem: on a Saturday night, there is a party in town. How can it be proven that at this party, at which more than two people attend, at least two partygoers have exactly the same number of friends?\n\nThe solution can be found in the ‘pigeonhole’ or ‘drawer’ principle, which was first formulated by the German mathematician Peter Gustav Lejeune Dirichlet in 1834:\n\nIf four pigeons are to be housed in only three pigeonholes, then one pigeonhole must contain at least two pigeons. The same applies if you want to place four pearls in three drawers. The principle can be generalised: when there are more items to be divided up than containers assigned, then at least one container must hold more than one item.\n\nThe pigeonhole principle has a wide range of possible applications: as a method of proof, it has proven as useful in geometry as in number theory, combinatorics, graph theory (network theory), formal logic or even theoretical computer science."
+    },
+    {
+      "heading": "The beauty of putative reasons",
+      "text": "“That’s the beauty of mathematics: we begin with a simple principle and quickly arrive at surprising conclusions and unexpected results,” says Kaloyan Slavov. The postdoc from the Department of Mathematics researches algebraic geometry and organises the ETH Math Youth Academy. From Bulgaria, Slavov studied at Harvard, Cambridge and MIT.\n\nThe ETH Math Youth Academy is part of the educational programme of the National Centre of Competence in Research, The Mathematics of Physics (NCCR SwissMAP). Under the direction of the University of Geneva and ETH Zurich, it promotes research, teaching and knowledge transfer in the fields of mathematics and theoretical physics."
+    },
+    {
+      "heading": "Creative evidence or what is the ‘pigeon’?",
+      "text": "The pigeonhole principle quickly becomes challenging, even for secondary school students. They have to apply it to an example from geometry: a straight line intersects a triangle in such a way that it does not touch any of the triangle’s corner points. How can it be proven with the pigeonhole principle that the line cannot intersect all three sides of the triangle?\n\nFrom this starting point, the students notice that the real difficulty with the principle is to find out on a case-by-case basis which elements should be treated as the ‘pigeons’ and which as the ‘boxes’. This requires a flash of understanding before they can begin to apply the method to a given problem.\n\nThis insight is what Slavov wants to impart to the students. By determining what are the pigeons and what are the pigeonholes, they learn to think outside the box and use methods of proof creatively. This ability is useful in university studies, in many areas of mathematics, and even in everyday life.\n\nIn the geometry example, the line divides the plane of a triangle into two half-planes. The corner points correspond to the pigeons and the half-planes to the boxes, so that one half-plane contains two corner points and the other half-plane only one. The side of the triangle joining the two corner points that are contained in a single half-plane is not intersected by the line. In the party example, the partygoers correspond to the pigeons and the number of friends to the boxes.\n\nThe ETH Math Youth Academy introduces students to mathematical ways of thinking. “The students engage in creative thinking here,” says Slavov. “Creativity is the opposite of routine.” His courses focus on problems that cannot be solved in a routine way, but rather by starting off with a creative idea, arguing in a subtle and logical manner, and applying strict mathematical proofs. The reward, says Slavov, comes from mathematics itself: “People are happy when they recognise the logical order behind things and see that the putative reasons are actually true.”\n\nFifteen secondary school students take part in the beginners and advanced courses. They enjoy Slavov’s course; they find his lessons exciting and not at all ‘dry’. Here they learn that proofs and mathematics are more than just the calculation of numbers, and are surprised by the multitude of applications, methods and strategies. “The course is cool,” says Yiqi from the Realgymnasium Rämibühl. “There aren’t any traditional solutions here and the path to the solution is creative.” Jonas from Wetzikon also likes the creative side of proofs: “You can’t solve any of the problems here with a template. Instead, you have to find a new solution each time.”"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Proofs",
+        "label": "ORG",
+        "start": 32,
+        "end": 38
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 311,
+        "end": 317
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 441,
+        "end": 446
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 479,
+        "end": 482
+      },
+      {
+        "text": "Saturday night",
+        "label": "TIME",
+        "start": 497,
+        "end": 511
+      },
+      {
+        "text": "more than two",
+        "label": "CARDINAL",
+        "start": 589,
+        "end": 602
+      },
+      {
+        "text": "at least two",
+        "label": "CARDINAL",
+        "start": 618,
+        "end": 630
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 762,
+        "end": 767
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 786,
+        "end": 792
+      },
+      {
+        "text": "Peter Gustav Lejeune Dirichlet",
+        "label": "PERSON",
+        "start": 807,
+        "end": 837
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 850,
+        "end": 854
+      },
+      {
+        "text": "only three",
+        "label": "CARDINAL",
+        "start": 883,
+        "end": 893
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 912,
+        "end": 915
+      },
+      {
+        "text": "at least two",
+        "label": "CARDINAL",
+        "start": 940,
+        "end": 952
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 1000,
+        "end": 1004
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1015,
+        "end": 1020
+      },
+      {
+        "text": "at least one",
+        "label": "CARDINAL",
+        "start": 1138,
+        "end": 1150
+      },
+      {
+        "text": "more than one",
+        "label": "CARDINAL",
+        "start": 1171,
+        "end": 1184
+      },
+      {
+        "text": "That’s the beauty",
+        "label": "WORK_OF_ART",
+        "start": 1,
+        "end": 18
+      },
+      {
+        "text": "Kaloyan Slavov",
+        "label": "PERSON",
+        "start": 143,
+        "end": 157
+      },
+      {
+        "text": "the Department of Mathematics",
+        "label": "ORG",
+        "start": 176,
+        "end": 205
+      },
+      {
+        "text": "Bulgaria",
+        "label": "GPE",
+        "start": 283,
+        "end": 291
+      },
+      {
+        "text": "Slavov",
+        "label": "PERSON",
+        "start": 293,
+        "end": 299
+      },
+      {
+        "text": "Harvard",
+        "label": "ORG",
+        "start": 311,
+        "end": 318
+      },
+      {
+        "text": "Cambridge",
+        "label": "GPE",
+        "start": 320,
+        "end": 329
+      },
+      {
+        "text": "MIT",
+        "label": "ORG",
+        "start": 334,
+        "end": 337
+      },
+      {
+        "text": "the National Centre of Competence in Research",
+        "label": "ORG",
+        "start": 406,
+        "end": 451
+      },
+      {
+        "text": "The Mathematics of Physics (NCCR SwissMAP",
+        "label": "ORG",
+        "start": 453,
+        "end": 494
+      },
+      {
+        "text": "the University of Geneva",
+        "label": "ORG",
+        "start": 520,
+        "end": 544
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 549,
+        "end": 559
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 339,
+        "end": 344
+      },
+      {
+        "text": "Slavov",
+        "label": "PERSON",
+        "start": 695,
+        "end": 701
+      },
+      {
+        "text": "two half",
+        "label": "CARDINAL",
+        "start": 1048,
+        "end": 1056
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 1117,
+        "end": 1121
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1175,
+        "end": 1178
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1265,
+        "end": 1268
+      },
+      {
+        "text": "Youth Academy",
+        "label": "ORG",
+        "start": 1473,
+        "end": 1486
+      },
+      {
+        "text": "Slavov",
+        "label": "PERSON",
+        "start": 1595,
+        "end": 1601
+      },
+      {
+        "text": "Slavov",
+        "label": "PERSON",
+        "start": 1861,
+        "end": 1867
+      },
+      {
+        "text": "Fifteen",
+        "label": "CARDINAL",
+        "start": 2024,
+        "end": 2031
+      },
+      {
+        "text": "Slavov",
+        "label": "PERSON",
+        "start": 2118,
+        "end": 2124
+      },
+      {
+        "text": "Yiqi",
+        "label": "PERSON",
+        "start": 2382,
+        "end": 2386
+      },
+      {
+        "text": "Jonas",
+        "label": "PERSON",
+        "start": 2508,
+        "end": 2513
+      },
+      {
+        "text": "Wetzikon",
+        "label": "PERSON",
+        "start": 2519,
+        "end": 2527
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Jonas",
+        "Kaloyan Slavov",
+        "Peter Gustav Lejeune Dirichlet",
+        "Slavov",
+        "Wetzikon",
+        "Yiqi"
+      ],
+      "ORG": [
+        "Harvard",
+        "MIT",
+        "Proofs",
+        "The Mathematics of Physics (NCCR SwissMAP",
+        "Youth Academy",
+        "the Department of Mathematics",
+        "the National Centre of Competence in Research",
+        "the University of Geneva"
+      ],
+      "LOCATION": [
+        "Bulgaria",
+        "Cambridge"
+      ],
+      "DATE": [
+        "Saturday night"
+      ],
+      "MISC": [
+        "Fifteen",
+        "German",
+        "That’s the beauty",
+        "at least one",
+        "at least two",
+        "first",
+        "four",
+        "half",
+        "more than one",
+        "more than two",
+        "one",
+        "only three",
+        "second",
+        "seven",
+        "three",
+        "two",
+        "two half"
+      ]
+    },
+    "entity_counts": {
+      "Slavov": 5,
+      "one": 2,
+      "at least two": 2,
+      "four": 2,
+      "three": 2,
+      "two": 2,
+      "Proofs": 1,
+      "second": 1,
+      "seven": 1,
+      "Saturday night": 1,
+      "more than two": 1,
+      "first": 1,
+      "German": 1,
+      "Peter Gustav Lejeune Dirichlet": 1,
+      "only three": 1,
+      "at least one": 1,
+      "more than one": 1,
+      "That’s the beauty": 1,
+      "Kaloyan Slavov": 1,
+      "the Department of Mathematics": 1
+    },
+    "total_entities": 44,
+    "unique_entities": 35
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "creative-proofs-with-pigeons-and-boxes.md",
+      "title": "En News Events/2016/05/creative Proofs With Pigeons And Boxes",
+      "language": "en",
+      "source_path": "en_news_events/2016/05/creative-proofs-with-pigeons-and-boxes.html"
+    },
+    "temporal": {
+      "publication_date": "2016-05",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Jonas",
+        "Kaloyan Slavov",
+        "Peter Gustav Lejeune Dirichlet",
+        "Slavov",
+        "Wetzikon",
+        "Yiqi"
+      ],
+      "people_with_roles": {
+        "Slavov": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Fifteen",
+        "German",
+        "That’s the beauty",
+        "at least one",
+        "at least two",
+        "first",
+        "four",
+        "half",
+        "more than one",
+        "more than two",
+        "only three",
+        "second",
+        "seven",
+        "three",
+        "two half"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH Math",
+        "Proofs With",
+        "En News",
+        "NCCR SwissMAP",
+        "Kaloyan Slavov",
+        "Boxes Mathematics",
+        "From Bulgaria",
+        "Peter Gustav",
+        "Pigeons And",
+        "Youth Academy",
+        "Lejeune Dirichlet",
+        "The Mathematics",
+        "National Centre",
+        "ETH Zurich",
+        "The ETH",
+        "Math Youth"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Mathematics researches algebraic geometry and organises the ETH Math Youth Academy"
+      ],
+      "institutions": [
+        "Harvard",
+        "MIT",
+        "Proofs",
+        "The Mathematics of Physics (NCCR SwissMAP",
+        "Youth Academy",
+        "the Department of Mathematics",
+        "the National Centre of Competence in Research",
+        "the University of Geneva"
+      ],
+      "locations": [
+        "Bulgaria",
+        "Cambridge"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Slavov",
+        "one",
+        "at least two",
+        "four",
+        "three",
+        "two",
+        "Proofs",
+        "second",
+        "seven",
+        "Saturday night"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "The beauty of putative reasons",
+          "The beauty of putative reasons",
+          "Creative evidence or what is the ‘pigeon’?"
+        ],
+        "content_length": 4855
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Peter Gustav Lejeune Dirichlet",
+        "the Department of Mathematics",
+        "Jonas",
+        "Proofs",
+        "the National Centre of Competence in Research",
+        "Yiqi",
+        "the University of Geneva",
+        "EU",
+        "Kaloyan Slavov",
+        "The Mathematics of Physics (NCCR SwissMAP",
+        "2016",
+        "Youth Academy",
+        "MIT",
+        "ETH Zurich",
+        "Harvard",
+        "Slavov",
+        "Wetzikon"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "at least one",
+        "seven",
+        "three",
+        "half",
+        "when",
+        "four",
+        "Fifteen",
+        "mathematics",
+        "That’s the beauty",
+        "only three",
+        "more than two",
+        "who",
+        "two half",
+        "what",
+        "how",
+        "physics",
+        "first",
+        "more than one",
+        "at least two",
+        "second",
+        "German",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Slavov_has_role_student",
+        "research_domain_technology",
+        "research_domain_physics",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

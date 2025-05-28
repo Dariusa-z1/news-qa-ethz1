@@ -1,0 +1,237 @@
+{
+  "filename": "de_news_events_2016_09_polybahn_pitch_elsbeth_stern.md",
+  "original_filename": "de_news_events_2016_09_polybahn_pitch_elsbeth_stern.html",
+  "source_path": "de_news_events/2016/09/polybahn_pitch_elsbeth_stern.html",
+  "date": "2016-09",
+  "title": "Pitch Elsbeth Stern",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "ZFF-Talk «Ist Genialität lernbar?»",
+      "text": "Am diesjähigen Zürcher Filmfestival (ZFF) organisiert Life Science Zurich in Verbindung zu drei Dokumentarfilmen Diskussionsrunden. In dieser Reihe wird die ETH-Professorin Elsbeth Stern zusammen mit der Neurowissenchaftlerin und Schachspielerin Monika Müller-Seps im ZFF-Talk «Ist Genialität lernbar?» aufzeigen, was sich beim Lernen im Gehirn abspielt und wie moderne Lernansätze aussehen.\n\nFreitag, 30. September 2016, 15-16 Uhr\n\nZFF-Festivalzentrum auf dem Sechseläutenplatz Zürich\n\nInfos und Livestreaming auf externe Seite eyeonscience.org"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Pitch Elsbeth Stern",
+        "label": "PER",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "diesjähigen Zürcher Filmfestival",
+        "label": "MISC",
+        "start": 3,
+        "end": 35
+      },
+      {
+        "text": "ZFF",
+        "label": "ORG",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "text": "Life",
+        "label": "MISC",
+        "start": 54,
+        "end": 58
+      },
+      {
+        "text": "Diskussionsrunden",
+        "label": "ORG",
+        "start": 113,
+        "end": 130
+      },
+      {
+        "text": "ETH-Professorin",
+        "label": "ORG",
+        "start": 157,
+        "end": 172
+      },
+      {
+        "text": "Elsbeth Stern",
+        "label": "PER",
+        "start": 173,
+        "end": 186
+      },
+      {
+        "text": "Monika Müller-Seps",
+        "label": "PER",
+        "start": 246,
+        "end": 264
+      },
+      {
+        "text": "ZFF-Talk",
+        "label": "MISC",
+        "start": 268,
+        "end": 276
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 477,
+        "end": 483
+      },
+      {
+        "text": "Livestreaming",
+        "label": "MISC",
+        "start": 494,
+        "end": 507
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Elsbeth Stern",
+        "Monika Müller-Seps",
+        "Pitch Elsbeth Stern"
+      ],
+      "ORG": [
+        "Diskussionsrunden",
+        "ETH-Professorin",
+        "ZFF"
+      ],
+      "LOCATION": [
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Life",
+        "Livestreaming",
+        "ZFF-Talk",
+        "diesjähigen Zürcher Filmfestival"
+      ]
+    },
+    "entity_counts": {
+      "Pitch Elsbeth Stern": 1,
+      "diesjähigen Zürcher Filmfestival": 1,
+      "ZFF": 1,
+      "Life": 1,
+      "Diskussionsrunden": 1,
+      "ETH-Professorin": 1,
+      "Elsbeth Stern": 1,
+      "Monika Müller-Seps": 1,
+      "ZFF-Talk": 1,
+      "Zürich": 1,
+      "Livestreaming": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2016_09_polybahn_pitch_elsbeth_stern.md",
+      "title": "Pitch Elsbeth Stern",
+      "language": "de",
+      "source_path": "de_news_events/2016/09/polybahn_pitch_elsbeth_stern.html"
+    },
+    "temporal": {
+      "publication_date": "2016-09",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Elsbeth Stern",
+        "Monika Müller-Seps",
+        "Pitch Elsbeth Stern"
+      ],
+      "people_with_roles": {
+        "Elsbeth Stern": [
+          "professor"
+        ],
+        "Monika Müller-Seps": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Life",
+        "Livestreaming",
+        "ZFF-Talk",
+        "diesjähigen Zürcher Filmfestival"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Pitch Elsbeth",
+        "ZFF-Talk",
+        "Schachspielerin Monika",
+        "ZFF-Festivalzentrum",
+        "Dokumentarfilmen Diskussionsrunden",
+        "Elsbeth Stern",
+        "ETH-Professorin",
+        "Stern Am",
+        "Life Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Diskussionsrunden",
+        "ETH-Professorin",
+        "ZFF"
+      ],
+      "locations": [
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Pitch Elsbeth Stern",
+        "diesjähigen Zürcher Filmfestival",
+        "ZFF",
+        "Life",
+        "Diskussionsrunden",
+        "ETH-Professorin",
+        "Elsbeth Stern",
+        "Monika Müller-Seps",
+        "ZFF-Talk",
+        "Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "ZFF-Talk «Ist Genialität lernbar?»"
+        ],
+        "content_length": 565
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Professorin",
+        "ZFF",
+        "Pitch Elsbeth Stern",
+        "EU",
+        "Diskussionsrunden",
+        "2016",
+        "Elsbeth Stern",
+        "Monika Müller-Seps"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Life",
+        "diesjähigen Zürcher Filmfestival",
+        "Livestreaming",
+        "ZFF-Talk"
+      ],
+      "graph_relations": [
+        "Elsbeth Stern_has_role_professor",
+        "Monika Müller-Seps_has_role_professor"
+      ]
+    }
+  }
+}

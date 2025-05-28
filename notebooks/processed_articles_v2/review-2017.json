@@ -1,0 +1,760 @@
+{
+  "filename": "review-2017.md",
+  "original_filename": "review-2017.html",
+  "source_path": "en_news_events/2017/12/review-2017.html",
+  "date": "2017-12",
+  "title": "Review 2017",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "January",
+      "text": "At the start of the year, geologists were able to use a unique dataset to document the dramatic changes affecting the Aletsch glacier , where the ice has retreated at such a pace that an adjoining slope has also started to move rapidly. The researchers demonstrated a direct connection beteween the ice loss of the Aletsch glacier and the slippage of the Moosfluh slope."
+    },
+    {
+      "heading": "February",
+      "text": "In February, ETH Zurich's Collection of Prints and Drawings celebrated is 150th anniversary , marking the occasion by displaying selected treasures from its collection of 160,000 works. These include 110 pieces by Pablo Picasso alone. Over the course of its 150-year history, it has collected countless works by other prominent artists such as Rembrandt, Goya, Andy Warhol and Fischli/Weiss."
+    },
+    {
+      "heading": "March",
+      "text": "Scientists from the Institute of Environmental Engineering demonstrated how marine phytoplankton cope with turbulence . They were able to show that certain microscopically small algae are not helplessly adrift in the ocean but rather perceive and actively respond to cues that indicate turbulence. The researchers described these sophisticated mechanisms in a publication in the journal Nature ."
+    },
+    {
+      "heading": "April",
+      "text": "Researchers clarified how vaccinations can combat bacterial intestinal diseases such as salmonella : vaccine-induced antibodies in the intestine chain up pathogens as they grow in the intestine, which prevents disease and surprisingly also hinders the spread of antibiotic resistance."
+    },
+    {
+      "heading": "May",
+      "text": "In May, scientists from the Computer Vision Lab made headlines with a three-dimensional, living model of a city . The model is based on millions of photos and videos of the city of Zurich, which the researchers were able to combine using the VarCity technology platform that they had developed. The new technology has many possible applications – for example, it can analyse where and when pedestrians are on the move and where parking spaces become free."
+    },
+    {
+      "heading": "June",
+      "text": "In early summer, there was huge public interest in the DFAB HOUSE , which is being built at the Empa and Eawag NEST building in Dübendorf. It is the first house in the world to be designed, planned and built using predominantly digital processes. Eight ETH Zurich professors are collaborating with various partners to build the house."
+    },
+    {
+      "heading": "July",
+      "text": "ETH researchers from the Functional Materials Laboratory developed a silicone heart that beats almost like a human heart. In collaboration with colleagues from the Product Development Group Zurich, they demonstrated that it actually works. The researchers still need to improve the device’s longevity."
+    },
+    {
+      "heading": "August",
+      "text": "An ETH doctoral student from the Advanced Interactive Technologies Lab developed an algorithm allowing drones to film dynamic scenes independently in the way intended by directors and cinematographers. Thanks to an intuitive control system, it will be possible to produce spectacular action scenes much more cheaply in future."
+    },
+    {
+      "heading": "September",
+      "text": "In September, 20,000 students began the autumn semester at ETH Zurich. For the first time in the university’s history, 100 medical students also began their studies at ETH . The new degree programme was designed from the ground up by ETH and its partner institutions and integrates modern learning and teaching methods."
+    },
+    {
+      "heading": "October",
+      "text": "Researchers led by Philippe Block from the Department of Architecture built a prototype of an ultra-thin, curved concrete roof using innovative digital design and fabrication methods. The tested novel formwork system is to be used in an actual construction project for the first time next year. The spectacular concrete roof forms the top of a building unit at the Empa and Eawag NEST building."
+    },
+    {
+      "heading": "November",
+      "text": "Swizerland's first Digitaltag event was held on 21 November. ETH Zurich was also present and involved with numerous projects. A programming workshop organised by ETH Professor Juraj Hromkovič of the Department of Computer Science was attended by 180 primary school pupils. The workshop also received a visit from Swiss Federal Councillor Johann Schneider-Ammann."
+    },
+    {
+      "heading": "December",
+      "text": "As the year drew to a close, scientists from the Laboratory for Complex Materials had some surprising news up their sleeves: they had developed a biocompatible ink for 3D printing using living bacteria. This makes it possible to produce biological materials capable of breaking down toxic substances or producing high-purity cellulose for biomedical applications."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "the start of the year",
+        "label": "DATE",
+        "start": 3,
+        "end": 24
+      },
+      {
+        "text": "Aletsch",
+        "label": "ORG",
+        "start": 118,
+        "end": 125
+      },
+      {
+        "text": "Aletsch",
+        "label": "ORG",
+        "start": 315,
+        "end": 322
+      },
+      {
+        "text": "Moosfluh",
+        "label": "NORP",
+        "start": 355,
+        "end": 363
+      },
+      {
+        "text": "February",
+        "label": "DATE",
+        "start": 3,
+        "end": 11
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "ORG",
+        "start": 13,
+        "end": 25
+      },
+      {
+        "text": "Collection of Prints",
+        "label": "ORG",
+        "start": 26,
+        "end": 46
+      },
+      {
+        "text": "Drawings",
+        "label": "ORG",
+        "start": 51,
+        "end": 59
+      },
+      {
+        "text": "150th",
+        "label": "ORDINAL",
+        "start": 74,
+        "end": 79
+      },
+      {
+        "text": "160,000",
+        "label": "CARDINAL",
+        "start": 171,
+        "end": 178
+      },
+      {
+        "text": "Picasso",
+        "label": "PERSON",
+        "start": 220,
+        "end": 227
+      },
+      {
+        "text": "150-year",
+        "label": "DATE",
+        "start": 258,
+        "end": 266
+      },
+      {
+        "text": "Rembrandt",
+        "label": "ORG",
+        "start": 344,
+        "end": 353
+      },
+      {
+        "text": "Goya",
+        "label": "ORG",
+        "start": 355,
+        "end": 359
+      },
+      {
+        "text": "Andy Warhol",
+        "label": "PERSON",
+        "start": 361,
+        "end": 372
+      },
+      {
+        "text": "Fischli/Weiss",
+        "label": "ORG",
+        "start": 377,
+        "end": 390
+      },
+      {
+        "text": "the Institute of Environmental Engineering",
+        "label": "ORG",
+        "start": 16,
+        "end": 58
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 387,
+        "end": 393
+      },
+      {
+        "text": "May",
+        "label": "DATE",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "the Computer Vision Lab",
+        "label": "ORG",
+        "start": 24,
+        "end": 47
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 70,
+        "end": 75
+      },
+      {
+        "text": "millions",
+        "label": "CARDINAL",
+        "start": 136,
+        "end": 144
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 181,
+        "end": 187
+      },
+      {
+        "text": "VarCity",
+        "label": "ORG",
+        "start": 242,
+        "end": 249
+      },
+      {
+        "text": "early summer",
+        "label": "DATE",
+        "start": 3,
+        "end": 15
+      },
+      {
+        "text": "the DFAB HOUSE",
+        "label": "ORG",
+        "start": 51,
+        "end": 65
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 96,
+        "end": 100
+      },
+      {
+        "text": "Dübendorf",
+        "label": "ORG",
+        "start": 128,
+        "end": 137
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 149,
+        "end": 154
+      },
+      {
+        "text": "Eight",
+        "label": "CARDINAL",
+        "start": 247,
+        "end": 252
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 253,
+        "end": 263
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "the Functional Materials Laboratory",
+        "label": "ORG",
+        "start": 21,
+        "end": 56
+      },
+      {
+        "text": "the Product Development Group Zurich",
+        "label": "ORG",
+        "start": 160,
+        "end": 196
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "the Advanced Interactive Technologies Lab",
+        "label": "ORG",
+        "start": 29,
+        "end": 70
+      },
+      {
+        "text": "September",
+        "label": "DATE",
+        "start": 3,
+        "end": 12
+      },
+      {
+        "text": "20,000",
+        "label": "CARDINAL",
+        "start": 14,
+        "end": 20
+      },
+      {
+        "text": "the autumn semester",
+        "label": "DATE",
+        "start": 36,
+        "end": 55
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 59,
+        "end": 69
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 79,
+        "end": 84
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 168,
+        "end": 171
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 234,
+        "end": 237
+      },
+      {
+        "text": "Philippe Block",
+        "label": "PERSON",
+        "start": 19,
+        "end": 33
+      },
+      {
+        "text": "the Department of Architecture",
+        "label": "ORG",
+        "start": 39,
+        "end": 69
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 273,
+        "end": 278
+      },
+      {
+        "text": "next year",
+        "label": "DATE",
+        "start": 284,
+        "end": 293
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 365,
+        "end": 369
+      },
+      {
+        "text": "Swizerland",
+        "label": "GPE",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 13,
+        "end": 18
+      },
+      {
+        "text": "Digitaltag",
+        "label": "ORG",
+        "start": 19,
+        "end": 29
+      },
+      {
+        "text": "21 November",
+        "label": "DATE",
+        "start": 48,
+        "end": 59
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 61,
+        "end": 71
+      },
+      {
+        "text": "ETH Professor",
+        "label": "ORG",
+        "start": 162,
+        "end": 175
+      },
+      {
+        "text": "Juraj Hromkovič",
+        "label": "PERSON",
+        "start": 176,
+        "end": 191
+      },
+      {
+        "text": "the Department of Computer Science",
+        "label": "ORG",
+        "start": 195,
+        "end": 229
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 313,
+        "end": 318
+      },
+      {
+        "text": "Johann Schneider-Ammann",
+        "label": "PERSON",
+        "start": 338,
+        "end": 361
+      },
+      {
+        "text": "the year",
+        "label": "DATE",
+        "start": 3,
+        "end": 11
+      },
+      {
+        "text": "the Laboratory for Complex Materials",
+        "label": "ORG",
+        "start": 45,
+        "end": 81
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andy Warhol",
+        "ETH Zurich",
+        "Johann Schneider-Ammann",
+        "Juraj Hromkovič",
+        "Philippe Block",
+        "Picasso"
+      ],
+      "ORG": [
+        "Aletsch",
+        "Collection of Prints",
+        "Digitaltag",
+        "Drawings",
+        "Dübendorf",
+        "ETH",
+        "ETH Professor",
+        "ETH Zurich",
+        "ETH Zurich's",
+        "Empa",
+        "En News",
+        "Fischli/Weiss",
+        "Goya",
+        "Rembrandt",
+        "VarCity",
+        "the Advanced Interactive Technologies Lab",
+        "the Computer Vision Lab",
+        "the DFAB HOUSE",
+        "the Department of Architecture",
+        "the Department of Computer Science",
+        "the Functional Materials Laboratory",
+        "the Institute of Environmental Engineering",
+        "the Laboratory for Complex Materials",
+        "the Product Development Group Zurich"
+      ],
+      "LOCATION": [
+        "Swizerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "150-year",
+        "21 November",
+        "February",
+        "May",
+        "September",
+        "early summer",
+        "next year",
+        "the autumn semester",
+        "the start of the year",
+        "the year"
+      ],
+      "MISC": [
+        "150th",
+        "160,000",
+        "20,000",
+        "Eight",
+        "Moosfluh",
+        "Nature",
+        "Swiss",
+        "first",
+        "millions",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "first": 4,
+      "ETH": 4,
+      "ETH Zurich": 3,
+      "Aletsch": 2,
+      "Empa": 2,
+      "En News": 1,
+      "the start of the year": 1,
+      "Moosfluh": 1,
+      "February": 1,
+      "ETH Zurich's": 1,
+      "Collection of Prints": 1,
+      "Drawings": 1,
+      "150th": 1,
+      "160,000": 1,
+      "Picasso": 1,
+      "150-year": 1,
+      "Rembrandt": 1,
+      "Goya": 1,
+      "Andy Warhol": 1,
+      "Fischli/Weiss": 1
+    },
+    "total_entities": 61,
+    "unique_entities": 51
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "review-2017.md",
+      "title": "En News Events/2017/12/review 2017",
+      "language": "en",
+      "source_path": "en_news_events/2017/12/review-2017.html"
+    },
+    "temporal": {
+      "publication_date": "2017-12",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andy Warhol",
+        "ETH Zurich",
+        "Johann Schneider-Ammann",
+        "Juraj Hromkovič",
+        "Philippe Block",
+        "Picasso"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student",
+          "professor"
+        ],
+        "Juraj Hromkovič": [
+          "Professor",
+          "professor"
+        ],
+        "Philippe Block": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director",
+        "head",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "150th",
+        "160,000",
+        "20,000",
+        "Eight",
+        "Moosfluh",
+        "Nature",
+        "Swiss",
+        "first",
+        "millions",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Advanced Interactive",
+        "Philippe Block",
+        "Group Zurich",
+        "Product Development",
+        "Schneider-Ammann",
+        "Computer Vision",
+        "ETH Professor",
+        "DFAB HOUSE",
+        "In May",
+        "Pablo Picasso",
+        "In February",
+        "Andy Warhol",
+        "Councillor Johann",
+        "Functional Materials",
+        "An ETH",
+        "Computer Science",
+        "Environmental Engineering",
+        "Swiss Federal",
+        "En News",
+        "Eight ETH",
+        "Eawag NEST",
+        "Complex Materials",
+        "ETH Zurich",
+        "Technologies Lab",
+        "In September"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Architecture built a prototype of an ultra",
+        "Computer Science was attended by "
+      ],
+      "institutions": [
+        "Aletsch",
+        "Collection of Prints",
+        "Digitaltag",
+        "Drawings",
+        "Dübendorf",
+        "ETH",
+        "ETH Professor",
+        "ETH Zurich",
+        "ETH Zurich's",
+        "Empa",
+        "En News",
+        "Fischli/Weiss",
+        "Goya",
+        "Rembrandt",
+        "VarCity",
+        "the Advanced Interactive Technologies Lab",
+        "the Computer Vision Lab",
+        "the DFAB HOUSE",
+        "the Department of Architecture",
+        "the Department of Computer Science",
+        "the Functional Materials Laboratory",
+        "the Institute of Environmental Engineering",
+        "the Laboratory for Complex Materials",
+        "the Product Development Group Zurich"
+      ],
+      "locations": [
+        "Swizerland",
+        "Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "first",
+        "ETH",
+        "ETH Zurich",
+        "Aletsch",
+        "Empa",
+        "En News",
+        "the start of the year",
+        "Moosfluh",
+        "February",
+        "ETH Zurich's"
+      ],
+      "document_structure": {
+        "total_sections": 12,
+        "section_titles": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "content_length": 4340
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Fischli/Weiss",
+        "Philippe Block",
+        "ERC",
+        "the Laboratory for Complex Materials",
+        "the Advanced Interactive Technologies Lab",
+        "ETH Professor",
+        "Goya",
+        "the Department of Architecture",
+        "Johann Schneider-Ammann",
+        "ETH Zurich's",
+        "Aletsch",
+        "Digitaltag",
+        "Juraj Hromkovič",
+        "the Computer Vision Lab",
+        "Andy Warhol",
+        "Rembrandt",
+        "the Product Development Group Zurich",
+        "Drawings",
+        "En News",
+        "2017",
+        "Dübendorf",
+        "the Institute of Environmental Engineering",
+        "VarCity",
+        "Collection of Prints",
+        "the Functional Materials Laboratory",
+        "ETH Zurich",
+        "Picasso",
+        "the DFAB HOUSE",
+        "Empa",
+        "the Department of Computer Science"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "Moosfluh",
+        "160,000",
+        "20,000",
+        "millions",
+        "when",
+        "engineering",
+        "Eight",
+        "medical_research",
+        "150th",
+        "Nature",
+        "who",
+        "what",
+        "how",
+        "computer_science",
+        "first",
+        "Swiss",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "ETH Zurich_has_role_professor",
+        "Juraj Hromkovič_has_role_Professor",
+        "Juraj Hromkovič_has_role_professor",
+        "Philippe Block_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

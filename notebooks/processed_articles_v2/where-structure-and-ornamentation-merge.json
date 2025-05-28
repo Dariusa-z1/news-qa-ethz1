@@ -1,0 +1,774 @@
+{
+  "filename": "where-structure-and-ornamentation-merge.md",
+  "original_filename": "where-structure-and-ornamentation-merge.html",
+  "source_path": "en_news_events/2018/07/where-structure-and-ornamentation-merge.html",
+  "date": "2018-07",
+  "title": "Where Structure And Ornamentation Merge",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Only as much concrete as needed",
+      "text": "Just 20 mm thick at its thinnest point, decoratively ribbed and not even half as heavy as a conventional concrete ceiling: with “Smart Slab”, the name says it all. The slab combines the structural strength of concrete with the design freedom of 3D printing. Developed by the research group of Benjamin Dillenburger, Assistant Professor for Digital Building Technologies at ETH Zurich, Smart Slab is one of the core elements of the residential unit DFAB House (see box) at Empa’s and Eawag’s research and innovation platform NEST in Dübendorf. The 80 m 2 , 15 tonne ceiling consists of eleven concrete segments and connects the lower floor with the two-storey timber volume above."
+    },
+    {
+      "heading": "Only as much concrete as needed",
+      "text": "3D concrete printing is currently experiencing a boom in architecture, and entire houses have already been printed layer by layer. However, for the Smart Slab project, the researchers did not produce the building components themselves with 3D printing but rather the formwork – i.e. the mould. To achieve this, they used a large-scale 3D sand printer, which means the resulting moulds consist of a kind of artificial sandstone. One of the advantages over the layered concrete printing process is that high performant fibre-reinforced concrete can be used and the structure can be fabricated in the precision of millimetres."
+    },
+    {
+      "heading": "Fabrication at the push of a button",
+      "text": "The structural principle of the Smart Slab is a hierarchical grid of post-tensioned ribs cantilevering from the Mesh Mould Wall. (Photograph: ETH Zurich / Andrei Jipa)\n\nFormwork production is the most labour-intensive step in concrete construction, particularly for non-standardised components. Since concrete is relatively cheap and readily abundant, the temptation is for the construction industry to produce the same solid ceilings over and over again, but the disadvantage is excessive material consumption and implicitly, a big carbon footprint. Digital fabrication methods can make a key contribution here: components can be optimised, enabling the necessary stability with far less material. The geometric complexity of a component does not matter in 3D printing, nor does it cause any additional costs – the printer simply prints what it is told to."
+    },
+    {
+      "heading": "Computational design coordinates parameters",
+      "text": "Dillenburger’s research group developed a new software to fabricate the formwork elements, which is able to record and coordinate all parameters relevant to production. In addition to basic data such as room dimensions, the researchers also entered a scan of the curved wall, accurate down to the last millimetre, which acts as the main support for the concrete ceiling. With the software, one could adapt the geometry of the slab so that at each point it was applied only as thick as structurally necessary to support the force flow. “We didn’t draw the slab; we programmed it,” says Mania Aghaei Meibodi, Smart Slab project lead and senior researcher in Dillenburger’s group. “It would not have been possible to coordinate all these aspects with analogue planning, particularly with such precision.”\n\nIf you look at the ceiling from below, you see an organic ornamental structure with different hierarchies. The main ribs carry the loads, while the smaller filigree ribs are mainly used for architectural expression and acoustics. Statics and ornamentation go hand-in-hand.The lighting and sprinkler systems are also integrated into the slab structure. Their size and position were similarly coordinated with the planning software. In this way, the building technology disappears elegantly into the slab to occupy very little space. This saves only a few centimetres in the DFAB House project, but in high-rises this may mean a few extra floors could be fitted into the same height."
+    },
+    {
+      "heading": "Smart Slab partners",
+      "text": "After planning on the computer is completed, the fabrication data can then be exported to the machines at the push of a button. This is where several industry partners came into play for Smart Slab: one produced the high-resolution, 3D-printed sand formworks, which were divided into pallet-sized sections for printing and transport reasons, while another fabricated the timber formwork by means of CNC laser cutting. The latter gives shape to the upper part of the Smart Slab and leaves hollow areas that reduce material and weight and at the same time create space for electrical cables.\n\nThe two types of formwork for the concreting were then brought together by a third company, which first sprayed the fibre-reinforced concrete onto the sand formwork to produce the finely ribbed surface of the lower concrete shell and then casted the remaining concrete into the timber formwork.\n\nAfter a two-week hardening process, the 11 individual concrete segments were ready for transport to the NEST. Thanks to the precise planning and prefabrication, the installation time at the construction site was reduced to a minimum: a crane hoisted the concrete elements onto the load-bearing wall, where the prestressing took place. Workers pulled steel cables lengthwise and crosswise through the concrete support and into the channels already inserted in the formwork. Tensioning the cables massively increases the system’s load capacity.\n\n“It was spectacular to see on the construction site how seamlessly our elements fitted with each other and with the existing components of the DFAB House,” says Dillenburger. “We owe this in part to the outstanding interdisciplinary collaboration with our partners. The meticulous work that we had invested into planning completely paid off.”\n\nEight professors from ETH Zurich have come together as part of the National Centre of Competence in Research (NCCR) Digital Fabrication to build the DFAB House together with industry partners. The three-storey residential unit is located in NEST, Empa’s and Eawag’s research and innovation platform in Dübendorf. The fabrication of the Mesh Mould wall in May 2017 was the starting point for the world’s first building to combine several innovative digital construction processes under one roof. Completion is scheduled for early 2019, after which the DFAB House will serve as temporary accommodation for visiting researchers.\n\nETH Zurich research groups: Chair for Digital Building Technologies, Benjamin Dillenburger (lead); Chair for Building Materials, Robert Flatt; Chair of Structural Design, Joseph Schwartz\n\nIndustry partners: Bürgin Creations; Frutiger AG; voxeljet AG; Georg Ackermann GmbH; Stahlton AG; Christenguss AG; Fischer Rista AG; Rudolf Glauser AG; Gom International AG"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "20 mm",
+        "label": "QUANTITY",
+        "start": 5,
+        "end": 10
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 73,
+        "end": 77
+      },
+      {
+        "text": "Smart Slab",
+        "label": "WORK_OF_ART",
+        "start": 129,
+        "end": 139
+      },
+      {
+        "text": "Benjamin Dillenburger",
+        "label": "PERSON",
+        "start": 293,
+        "end": 314
+      },
+      {
+        "text": "Digital Building Technologies",
+        "label": "ORG",
+        "start": 340,
+        "end": 369
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 373,
+        "end": 383
+      },
+      {
+        "text": "Smart Slab",
+        "label": "PERSON",
+        "start": 385,
+        "end": 395
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 399,
+        "end": 402
+      },
+      {
+        "text": "DFAB House",
+        "label": "ORG",
+        "start": 448,
+        "end": 458
+      },
+      {
+        "text": "Empa’s",
+        "label": "ORG",
+        "start": 472,
+        "end": 478
+      },
+      {
+        "text": "Eawag",
+        "label": "ORG",
+        "start": 483,
+        "end": 488
+      },
+      {
+        "text": "NEST",
+        "label": "ORG",
+        "start": 524,
+        "end": 528
+      },
+      {
+        "text": "Dübendorf",
+        "label": "GPE",
+        "start": 532,
+        "end": 541
+      },
+      {
+        "text": "15 tonne",
+        "label": "QUANTITY",
+        "start": 556,
+        "end": 564
+      },
+      {
+        "text": "eleven",
+        "label": "CARDINAL",
+        "start": 585,
+        "end": 591
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 648,
+        "end": 651
+      },
+      {
+        "text": "Smart Slab",
+        "label": "ORG",
+        "start": 148,
+        "end": 158
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 428,
+        "end": 431
+      },
+      {
+        "text": "the Smart Slab",
+        "label": "ORG",
+        "start": 28,
+        "end": 42
+      },
+      {
+        "text": "ETH Zurich / Andrei Jipa",
+        "label": "ORG",
+        "start": 142,
+        "end": 166
+      },
+      {
+        "text": "Digital",
+        "label": "ORG",
+        "start": 550,
+        "end": 557
+      },
+      {
+        "text": "Mania Aghaei Meibodi",
+        "label": "PERSON",
+        "start": 585,
+        "end": 605
+      },
+      {
+        "text": "Smart Slab",
+        "label": "ORG",
+        "start": 607,
+        "end": 617
+      },
+      {
+        "text": "Dillenburger’s",
+        "label": "ORG",
+        "start": 656,
+        "end": 670
+      },
+      {
+        "text": "DFAB House",
+        "label": "ORG",
+        "start": 1375,
+        "end": 1385
+      },
+      {
+        "text": "Smart Slab",
+        "label": "ORG",
+        "start": 187,
+        "end": 197
+      },
+      {
+        "text": "the Smart Slab",
+        "label": "ORG",
+        "start": 462,
+        "end": 476
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 594,
+        "end": 597
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 667,
+        "end": 672
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 688,
+        "end": 693
+      },
+      {
+        "text": "two-week",
+        "label": "DATE",
+        "start": 893,
+        "end": 901
+      },
+      {
+        "text": "NEST",
+        "label": "ORG",
+        "start": 989,
+        "end": 993
+      },
+      {
+        "text": "the DFAB House",
+        "label": "ORG",
+        "start": 1567,
+        "end": 1581
+      },
+      {
+        "text": "Dillenburger",
+        "label": "PERSON",
+        "start": 1589,
+        "end": 1601
+      },
+      {
+        "text": "Eight",
+        "label": "CARDINAL",
+        "start": 1771,
+        "end": 1776
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1793,
+        "end": 1803
+      },
+      {
+        "text": "the National Centre of Competence in Research (NCCR)",
+        "label": "ORG",
+        "start": 1834,
+        "end": 1886
+      },
+      {
+        "text": "Digital Fabrication",
+        "label": "ORG",
+        "start": 1887,
+        "end": 1906
+      },
+      {
+        "text": "the DFAB House",
+        "label": "ORG",
+        "start": 1916,
+        "end": 1930
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1968,
+        "end": 1973
+      },
+      {
+        "text": "NEST",
+        "label": "ORG",
+        "start": 2012,
+        "end": 2016
+      },
+      {
+        "text": "Empa’s",
+        "label": "ORG",
+        "start": 2018,
+        "end": 2024
+      },
+      {
+        "text": "Eawag",
+        "label": "ORG",
+        "start": 2029,
+        "end": 2034
+      },
+      {
+        "text": "Dübendorf",
+        "label": "ORG",
+        "start": 2073,
+        "end": 2082
+      },
+      {
+        "text": "Mesh",
+        "label": "ORG",
+        "start": 2107,
+        "end": 2111
+      },
+      {
+        "text": "May 2017",
+        "label": "DATE",
+        "start": 2126,
+        "end": 2134
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2174,
+        "end": 2179
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 2256,
+        "end": 2259
+      },
+      {
+        "text": "early 2019",
+        "label": "DATE",
+        "start": 2294,
+        "end": 2304
+      },
+      {
+        "text": "the DFAB House",
+        "label": "ORG",
+        "start": 2318,
+        "end": 2332
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 2397,
+        "end": 2407
+      },
+      {
+        "text": "Digital Building Technologies",
+        "label": "ORG",
+        "start": 2435,
+        "end": 2464
+      },
+      {
+        "text": "Benjamin Dillenburger",
+        "label": "PERSON",
+        "start": 2466,
+        "end": 2487
+      },
+      {
+        "text": "Chair for Building Materials",
+        "label": "ORG",
+        "start": 2496,
+        "end": 2524
+      },
+      {
+        "text": "Robert Flatt",
+        "label": "PERSON",
+        "start": 2526,
+        "end": 2538
+      },
+      {
+        "text": "Chair of Structural Design",
+        "label": "ORG",
+        "start": 2540,
+        "end": 2566
+      },
+      {
+        "text": "Joseph Schwartz Industry",
+        "label": "PERSON",
+        "start": 2568,
+        "end": 2592
+      },
+      {
+        "text": "Bürgin Creations",
+        "label": "PERSON",
+        "start": 2603,
+        "end": 2619
+      },
+      {
+        "text": "Frutiger AG",
+        "label": "PERSON",
+        "start": 2621,
+        "end": 2632
+      },
+      {
+        "text": "AG",
+        "label": "ORG",
+        "start": 2643,
+        "end": 2645
+      },
+      {
+        "text": "Georg Ackermann GmbH",
+        "label": "ORG",
+        "start": 2647,
+        "end": 2667
+      },
+      {
+        "text": "Stahlton AG",
+        "label": "ORG",
+        "start": 2669,
+        "end": 2680
+      },
+      {
+        "text": "Christenguss AG",
+        "label": "ORG",
+        "start": 2682,
+        "end": 2697
+      },
+      {
+        "text": "Fischer Rista AG",
+        "label": "ORG",
+        "start": 2699,
+        "end": 2715
+      },
+      {
+        "text": "Rudolf Glauser AG",
+        "label": "PERSON",
+        "start": 2717,
+        "end": 2734
+      },
+      {
+        "text": "Gom International AG",
+        "label": "ORG",
+        "start": 2736,
+        "end": 2756
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Benjamin Dillenburger",
+        "Bürgin Creations",
+        "Dillenburger",
+        "Frutiger AG",
+        "Joseph Schwartz Industry",
+        "Mania Aghaei Meibodi",
+        "Robert Flatt",
+        "Rudolf Glauser AG",
+        "Smart Slab"
+      ],
+      "ORG": [
+        "AG",
+        "Chair for Building Materials",
+        "Chair of Structural Design",
+        "Christenguss AG",
+        "DFAB House",
+        "Digital",
+        "Digital Building Technologies",
+        "Digital Fabrication",
+        "Dillenburger’s",
+        "Dübendorf",
+        "ETH Zurich",
+        "ETH Zurich / Andrei Jipa",
+        "Eawag",
+        "Empa’s",
+        "Fischer Rista AG",
+        "Georg Ackermann GmbH",
+        "Gom International AG",
+        "Mesh",
+        "NEST",
+        "Smart Slab",
+        "Stahlton AG",
+        "the DFAB House",
+        "the National Centre of Competence in Research (NCCR)",
+        "the Smart Slab"
+      ],
+      "LOCATION": [
+        "Dübendorf",
+        "ETH Zurich"
+      ],
+      "DATE": [
+        "May 2017",
+        "early 2019",
+        "two-week"
+      ],
+      "MISC": [
+        "15 tonne",
+        "20 mm",
+        "Eight",
+        "One",
+        "Smart Slab",
+        "eleven",
+        "first",
+        "half",
+        "one",
+        "third",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Smart Slab": 5,
+      "ETH Zurich": 3,
+      "NEST": 3,
+      "the DFAB House": 3,
+      "Benjamin Dillenburger": 2,
+      "Digital Building Technologies": 2,
+      "one": 2,
+      "DFAB House": 2,
+      "Empa’s": 2,
+      "Eawag": 2,
+      "Dübendorf": 2,
+      "two": 2,
+      "the Smart Slab": 2,
+      "first": 2,
+      "20 mm": 1,
+      "half": 1,
+      "15 tonne": 1,
+      "eleven": 1,
+      "One": 1,
+      "ETH Zurich / Andrei Jipa": 1
+    },
+    "total_entities": 66,
+    "unique_entities": 46
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "where-structure-and-ornamentation-merge.md",
+      "title": "En News Events/2018/07/where Structure And Ornamentation Merge",
+      "language": "en",
+      "source_path": "en_news_events/2018/07/where-structure-and-ornamentation-merge.html"
+    },
+    "temporal": {
+      "publication_date": "2018-07",
+      "mentioned_years": [
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Benjamin Dillenburger",
+        "Bürgin Creations",
+        "Dillenburger",
+        "Frutiger AG",
+        "Joseph Schwartz Industry",
+        "Mania Aghaei Meibodi",
+        "Robert Flatt",
+        "Rudolf Glauser AG",
+        "Smart Slab"
+      ],
+      "people_with_roles": {
+        "Benjamin Dillenburger": [
+          "chair",
+          "professor"
+        ],
+        "Bürgin Creations": [
+          "chair"
+        ],
+        "Dillenburger": [
+          "chair",
+          "researcher",
+          "professor"
+        ],
+        "Frutiger AG": [
+          "chair"
+        ],
+        "Mania Aghaei Meibodi": [
+          "researcher"
+        ],
+        "Robert Flatt": [
+          "chair"
+        ],
+        "Rudolf Glauser AG": [
+          "chair"
+        ],
+        "Smart Slab": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "chair",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "15 tonne",
+        "20 mm",
+        "Eight",
+        "Smart Slab",
+        "eleven",
+        "first",
+        "half",
+        "third",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Robert Flatt",
+        "Christenguss AG",
+        "Georg Ackermann",
+        "Structure And",
+        "Digital Fabrication",
+        "Assistant Professor",
+        "Joseph Schwartz",
+        "Ornamentation Merge",
+        "Mania Aghaei",
+        "Structural Design",
+        "Gom International",
+        "Stahlton AG",
+        "Building Materials",
+        "Benjamin Dillenburger",
+        "Rudolf Glauser",
+        "Andrei Jipa",
+        "Digital Building",
+        "National Centre",
+        "DFAB House",
+        "Frutiger AG",
+        "En News",
+        "Mesh Mould",
+        "ETH Zurich",
+        "Smart Slab",
+        "Fischer Rista"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AG",
+        "Chair for Building Materials",
+        "Chair of Structural Design",
+        "Christenguss AG",
+        "DFAB House",
+        "Digital",
+        "Digital Building Technologies",
+        "Digital Fabrication",
+        "Dillenburger’s",
+        "Dübendorf",
+        "ETH Zurich",
+        "ETH Zurich / Andrei Jipa",
+        "Eawag",
+        "Empa’s",
+        "Fischer Rista AG",
+        "Georg Ackermann GmbH",
+        "Gom International AG",
+        "Mesh",
+        "NEST",
+        "Smart Slab",
+        "Stahlton AG",
+        "the DFAB House",
+        "the National Centre of Competence in Research (NCCR)",
+        "the Smart Slab"
+      ],
+      "locations": [
+        "Dübendorf",
+        "ETH Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Smart Slab",
+        "ETH Zurich",
+        "NEST",
+        "the DFAB House",
+        "Benjamin Dillenburger",
+        "Digital Building Technologies",
+        "one",
+        "DFAB House",
+        "Empa’s",
+        "Eawag"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Only as much concrete as needed",
+          "Only as much concrete as needed",
+          "Fabrication at the push of a button",
+          "Computational design coordinates parameters",
+          "Smart Slab partners"
+        ],
+        "content_length": 6472
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Mania Aghaei Meibodi",
+        "Robert Flatt",
+        "NEST",
+        "Christenguss AG",
+        "Georg Ackermann GmbH",
+        "Chair for Building Materials",
+        "Digital Fabrication",
+        "Joseph Schwartz Industry",
+        "ETH Zurich / Andrei Jipa",
+        "2018",
+        "2019",
+        "Dillenburger",
+        "Mesh",
+        "Stahlton AG",
+        "the National Centre of Competence in Research (NCCR)",
+        "Bürgin Creations",
+        "Dillenburger’s",
+        "Eawag",
+        "Digital",
+        "Benjamin Dillenburger",
+        "Chair of Structural Design",
+        "Rudolf Glauser AG",
+        "AG",
+        "DFAB House",
+        "Frutiger AG",
+        "2017",
+        "Dübendorf",
+        "Digital Building Technologies",
+        "the DFAB House",
+        "Gom International AG",
+        "the Smart Slab",
+        "Empa’s",
+        "ETH Zurich",
+        "Smart Slab",
+        "Fischer Rista AG"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "15 tonne",
+        "first",
+        "third",
+        "eleven",
+        "three",
+        "half",
+        "who",
+        "why",
+        "Smart Slab",
+        "Eight",
+        "where",
+        "what",
+        "how",
+        "computer_science",
+        "20 mm",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Benjamin Dillenburger_has_role_chair",
+        "Benjamin Dillenburger_has_role_professor",
+        "Bürgin Creations_has_role_chair",
+        "Dillenburger_has_role_chair",
+        "Dillenburger_has_role_researcher",
+        "Dillenburger_has_role_professor",
+        "Frutiger AG_has_role_chair",
+        "Mania Aghaei Meibodi_has_role_researcher",
+        "Robert Flatt_has_role_chair",
+        "Rudolf Glauser AG_has_role_chair",
+        "Smart Slab_has_role_researcher",
+        "Smart Slab_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

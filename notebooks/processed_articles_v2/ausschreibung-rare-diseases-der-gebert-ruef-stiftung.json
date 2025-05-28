@@ -1,0 +1,191 @@
+{
+  "filename": "ausschreibung-rare-diseases-der-gebert-ruef-stiftung.md",
+  "original_filename": "ausschreibung-rare-diseases-der-gebert-ruef-stiftung.html",
+  "source_path": "de_internal/2014/05/ausschreibung-rare-diseases-der-gebert-ruef-stiftung.html",
+  "date": "2014-05",
+  "title": "Ausschreibung Rare Diseases Der Gebert Ruef Stiftung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Gebert Rüf Stiftung unterstützt seit 2009 Forschungsprojekte im Bereich der Diagnostik und Behandlung von seltenen genetischen Erkrankungen mit 2 Mio. Franken jährlich. Unterstützt werden Forschungsgruppen von Schweizer Universitäten, Universitätsspitälern, Eidgenössischen Technischen Hochschulen sowie von angegliederten Forschungsinstituten.\n\nDie Frist zur Einreichung von Projekten im Rahmen der 6. Ausschreibung «RARE DISEASES – NEW APPROACHES. Impetus for Swiss research into rare diseases» der Gebert Rüf Stiftung läuft bis zum 8. August 2014. Einreichungsbedingungen und weitere Angaben unter: externe Seite www.grstiftung.ch ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/05",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Rare",
+        "label": "ORG",
+        "start": 34,
+        "end": 38
+      },
+      {
+        "text": "Gebert Ruef Stiftung",
+        "label": "ORG",
+        "start": 52,
+        "end": 72
+      },
+      {
+        "text": "Gebert Rüf Stiftung",
+        "label": "ORG",
+        "start": 4,
+        "end": 23
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 214,
+        "end": 223
+      },
+      {
+        "text": "RARE",
+        "label": "ORG",
+        "start": 421,
+        "end": 425
+      },
+      {
+        "text": "Impetus for Swiss",
+        "label": "ORG",
+        "start": 453,
+        "end": 470
+      },
+      {
+        "text": "Gebert Rüf Stiftung",
+        "label": "ORG",
+        "start": 504,
+        "end": 523
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Gebert Ruef Stiftung",
+        "Gebert Rüf Stiftung",
+        "Impetus for Swiss",
+        "RARE",
+        "Rare"
+      ],
+      "LOCATION": [
+        "De Internal/2014/05"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "Gebert Rüf Stiftung": 2,
+      "De Internal/2014/05": 1,
+      "Rare": 1,
+      "Gebert Ruef Stiftung": 1,
+      "Schweizer": 1,
+      "RARE": 1,
+      "Impetus for Swiss": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ausschreibung-rare-diseases-der-gebert-ruef-stiftung.md",
+      "title": "De Internal/2014/05/ausschreibung Rare Diseases der Gebert Ruef Stiftung",
+      "language": "de",
+      "source_path": "de_internal/2014/05/ausschreibung-rare-diseases-der-gebert-ruef-stiftung.html"
+    },
+    "temporal": {
+      "publication_date": "2014-05",
+      "mentioned_years": [
+        "2009",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "medical_research"
+      ],
+      "research_topics": [
+        "Schweizer"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Rare Diseases",
+        "Gebert Ruef",
+        "De Internal",
+        "Die Frist",
+        "Technischen Hochschulen",
+        "Stiftung Die",
+        "RARE DISEASES",
+        "NEW APPROACHES"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Gebert Ruef Stiftung",
+        "Gebert Rüf Stiftung",
+        "Impetus for Swiss",
+        "RARE",
+        "Rare"
+      ],
+      "locations": [
+        "De Internal/2014/05"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Gebert Rüf Stiftung",
+        "De Internal/2014/05",
+        "Rare",
+        "Gebert Ruef Stiftung",
+        "Schweizer",
+        "RARE",
+        "Impetus for Swiss"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 712
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2009",
+        "Impetus for Swiss",
+        "Gebert Ruef Stiftung",
+        "RARE",
+        "Gebert Rüf Stiftung",
+        "Rare",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "medical_research",
+        "what",
+        "Schweizer",
+        "how"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research"
+      ]
+    }
+  }
+}

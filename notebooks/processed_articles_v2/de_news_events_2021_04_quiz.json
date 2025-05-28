@@ -1,0 +1,193 @@
+{
+  "filename": "de_news_events_2021_04_quiz.md",
+  "original_filename": "de_news_events_2021_04_quiz.html",
+  "source_path": "de_news_events/2021/04/quiz.html",
+  "date": "2021-04",
+  "title": "Quiz",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In unserer Quiz-Reihe nehmen wir Sie mit auf Erkundungstouren durch Forschung und Lehre der ETH Zürich. Diese Folge widmet sich den Agrarwissenschaften, die in diesem Jahr ihr 150-jähriges Bestehen feiern.\n\nDas Departement Umweltsystemwissenschaften (D-​USYS) startet das Jubiläumsjahr mit einem Online-​Event am 4. Mai 2021. Zum Auftakt werden Bundespräsident Guy Parmelin zusammen mit ETH-​Präsident Joël Mesot und Vertreterinnen und Vertretern des Instituts in einem Video auftreten.\n\nIm Anschluss an die Premiere dieses Jubiläumsfilms finden auf den virtuellen Bühnen verschiedene kurze Webinare zu den wichtigen Themen in den Agrarwissenschaften in verschiedenen Sprachen statt. Danach lädt das Institut für Agrarwissenschaften zu einem ganz besonderen virtuellen Apéro ein. Die Teilnahme am Event ist kostenlos – eine Registrierung ist nicht notwendig.\n\nAuf der Jubiläumswebseite finden Sie eine Timeline mit historischen Fakten und ausgewählten Artikeln aus den vergangenen 150 Jahren."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 92,
+        "end": 102
+      },
+      {
+        "text": "D-​USYS",
+        "label": "LOC",
+        "start": 250,
+        "end": 257
+      },
+      {
+        "text": "Online-​Event",
+        "label": "MISC",
+        "start": 295,
+        "end": 308
+      },
+      {
+        "text": "Guy Parmelin",
+        "label": "PER",
+        "start": 360,
+        "end": 372
+      },
+      {
+        "text": "ETH-​Präsident Joël",
+        "label": "PER",
+        "start": 386,
+        "end": 405
+      },
+      {
+        "text": "Anschluss",
+        "label": "MISC",
+        "start": 489,
+        "end": 498
+      },
+      {
+        "text": "Institut für Agrarwissenschaften",
+        "label": "ORG",
+        "start": 698,
+        "end": 730
+      },
+      {
+        "text": "Apéro",
+        "label": "LOC",
+        "start": 767,
+        "end": 772
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH-​Präsident Joël",
+        "Guy Parmelin"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Institut für Agrarwissenschaften"
+      ],
+      "LOCATION": [
+        "Apéro",
+        "D-​USYS"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Anschluss",
+        "Online-​Event"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 1,
+      "D-​USYS": 1,
+      "Online-​Event": 1,
+      "Guy Parmelin": 1,
+      "ETH-​Präsident Joël": 1,
+      "Anschluss": 1,
+      "Institut für Agrarwissenschaften": 1,
+      "Apéro": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2021_04_quiz.md",
+      "title": "De News Events/2021/04/quiz",
+      "language": "de",
+      "source_path": "de_news_events/2021/04/quiz.html"
+    },
+    "temporal": {
+      "publication_date": "2021-04",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH-​Präsident Joël",
+        "Guy Parmelin"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Anschluss",
+        "Online-​Event"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Guy Parmelin",
+        "Quiz-Reihe",
+        "Diese Folge",
+        "Im Anschluss",
+        "Die Teilnahme",
+        "De News",
+        "Zum Auftakt",
+        "Das Departement"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Institut für Agrarwissenschaften"
+      ],
+      "locations": [
+        "Apéro",
+        "D-​USYS"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "D-​USYS",
+        "Online-​Event",
+        "Guy Parmelin",
+        "ETH-​Präsident Joël",
+        "Anschluss",
+        "Institut für Agrarwissenschaften",
+        "Apéro"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1020
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-​Präsident Joël",
+        "Guy Parmelin",
+        "ETH Zürich",
+        "2021",
+        "Institut für Agrarwissenschaften"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Online-​Event",
+        "Anschluss",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

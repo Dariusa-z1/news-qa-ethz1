@@ -1,0 +1,805 @@
+{
+  "filename": "introducing-the-new-columnists.md",
+  "original_filename": "introducing-the-new-columnists.html",
+  "source_path": "en_internal/2014/01/introducing-the-new-columnists.html",
+  "date": "2014-01",
+  "title": "Introducing The New Columnists",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The new VSETH President",
+      "text": "Ulrike Kastrup will start off the column series in the coming week. Ulrike has been Director of focusTerra, ETH Zurich’s Earth Science Research and Information Centre, for five years. She studied geology at the University of Bonn and the University of Zurich and completed her doctorate at the Swiss Seismological Service in the Institute of Geophysics at ETH Zurich. She then went on to carry out research and work on risk management and risk communication in relation to natural hazards at various organisations and institutions, including the United Nations University in Bonn, Royal Melbourne Institute of Technology in Australia and as a Corporate Risk Manager at SBB (Swiss Federal Railways). By organising numerous exhibitions and activities at focusTerra, Ulrike Kastrup and her team are keen to open the public’s eyes to the beauty and fascinating qualities of geology as well as its role in everyday life."
+    },
+    {
+      "heading": "The new VSETH President",
+      "text": "In November 2013, Julia Wysling was elected President of VSETH by the Council of Members, the highest body in the Student Association VSETH. She was born in Zurich in 1990 and grew up in Zurich, Vienna and most recently in Uster. Having successfully completed her studies at the Kantonsschule Rämibühl, which included an exchange year in Australia, she has been studying mathematics at ETH Zurich since 2009. Julia had previously already played an active part in the Mathematicians’ and Physicists’ Association (VMP), in various VSETH committees and in the SoNaFe/WiNaFe Association, which organises the summer and winter end-of-semester parties at ETH Zurich. One aspect of her work in VSETH, which she finds particularly fascinating, is how the students’ political representation influences the range of services on offer. In her free time, Julia spends her time training for a triathlon."
+    },
+    {
+      "heading": "WPF President",
+      "text": "Ursula Keller will also participate as a columnist. The physics professor, born 1959 in Zug, has been at ETH since 1993, and director of the NCCR MUST since 2010. She obtained her Masters at ETH Zurich in 1984, and her Ph.D. at Stanford University in 1989, and before returning to ETH she worked as an independent researcher at AT&T Bell Laboratories. Her current research group explores ultrafast science and laser technology, using this competitive know-how to understand and control fundamental charge and energy transport with atomic spatial and attosecond temporal resolution. Ursula has received several international prizes, as well as aEuropean Research Council (ERC) AdvanceGrant. She currently serves as the president of the ETH Women Professors Forum (WPF)."
+    },
+    {
+      "heading": "A view from Singapore",
+      "text": "Marta Heisel-Wisniewska will report from the Singapore ETH Center. She is currently working as a researcher at the Chair of Architecture and Construction at the Future Cities Laboratory in Singapore, a collaboration of the ETH Zurich and the National Research Foundation Singapore. Marta received her education at West Pomeranian University of Technology ZUT Szczecin in Poland, as well as at the University of the Arts Berlin between 2004 and 2011. Prior to her engagement at FCL Singapore, she was working as a lecturer and architectural program coordinator at the Ethiopian Institute of Architecture, Building Construction and City Development in Addis Ababa. She was part of a research team on refugee shelter design and a coordinator of a consultancy project for Addis Ababa Institute of Technology AAiT. In 2011, EiABC Student Council recognized her commitment with a ‘Best Teaching’ award."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The New Columnists",
+        "label": "ORG",
+        "start": 32,
+        "end": 50
+      },
+      {
+        "text": "Kastrup",
+        "label": "PERSON",
+        "start": 7,
+        "end": 14
+      },
+      {
+        "text": "the coming week",
+        "label": "DATE",
+        "start": 51,
+        "end": 66
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 108,
+        "end": 120
+      },
+      {
+        "text": "Earth Science Research and Information Centre",
+        "label": "ORG",
+        "start": 121,
+        "end": 166
+      },
+      {
+        "text": "five years",
+        "label": "DATE",
+        "start": 172,
+        "end": 182
+      },
+      {
+        "text": "the University of Bonn",
+        "label": "ORG",
+        "start": 207,
+        "end": 229
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 234,
+        "end": 258
+      },
+      {
+        "text": "the Swiss Seismological Service",
+        "label": "ORG",
+        "start": 290,
+        "end": 321
+      },
+      {
+        "text": "the Institute of Geophysics",
+        "label": "ORG",
+        "start": 325,
+        "end": 352
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 360,
+        "end": 366
+      },
+      {
+        "text": "the United Nations University",
+        "label": "ORG",
+        "start": 542,
+        "end": 571
+      },
+      {
+        "text": "Bonn",
+        "label": "GPE",
+        "start": 575,
+        "end": 579
+      },
+      {
+        "text": "Royal Melbourne Institute of Technology",
+        "label": "ORG",
+        "start": 581,
+        "end": 620
+      },
+      {
+        "text": "Australia",
+        "label": "GPE",
+        "start": 624,
+        "end": 633
+      },
+      {
+        "text": "SBB (Swiss Federal Railways",
+        "label": "ORG",
+        "start": 669,
+        "end": 696
+      },
+      {
+        "text": "Ulrike Kastrup",
+        "label": "PERSON",
+        "start": 764,
+        "end": 778
+      },
+      {
+        "text": "November 2013",
+        "label": "DATE",
+        "start": 3,
+        "end": 16
+      },
+      {
+        "text": "Julia Wysling",
+        "label": "PERSON",
+        "start": 18,
+        "end": 31
+      },
+      {
+        "text": "the Council of Members",
+        "label": "ORG",
+        "start": 66,
+        "end": 88
+      },
+      {
+        "text": "the Student Association",
+        "label": "ORG",
+        "start": 110,
+        "end": 133
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 157,
+        "end": 163
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 187,
+        "end": 193
+      },
+      {
+        "text": "Vienna",
+        "label": "GPE",
+        "start": 195,
+        "end": 201
+      },
+      {
+        "text": "the Kantonsschule Rämibühl",
+        "label": "FAC",
+        "start": 275,
+        "end": 301
+      },
+      {
+        "text": "an exchange year",
+        "label": "DATE",
+        "start": 318,
+        "end": 334
+      },
+      {
+        "text": "Australia",
+        "label": "GPE",
+        "start": 338,
+        "end": 347
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 386,
+        "end": 396
+      },
+      {
+        "text": "Julia",
+        "label": "ORG",
+        "start": 409,
+        "end": 414
+      },
+      {
+        "text": "Mathematicians",
+        "label": "NORP",
+        "start": 467,
+        "end": 481
+      },
+      {
+        "text": "VSETH",
+        "label": "PRODUCT",
+        "start": 529,
+        "end": 534
+      },
+      {
+        "text": "the SoNaFe/WiNaFe Association",
+        "label": "EVENT",
+        "start": 553,
+        "end": 582
+      },
+      {
+        "text": "the summer and winter end-of-semester",
+        "label": "DATE",
+        "start": 600,
+        "end": 637
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 649,
+        "end": 659
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 661,
+        "end": 664
+      },
+      {
+        "text": "Julia",
+        "label": "ORG",
+        "start": 843,
+        "end": 848
+      },
+      {
+        "text": "Ursula Keller",
+        "label": "PERSON",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Zug",
+        "label": "ORG",
+        "start": 88,
+        "end": 91
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 105,
+        "end": 108
+      },
+      {
+        "text": "NCCR",
+        "label": "ORG",
+        "start": 141,
+        "end": 145
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 191,
+        "end": 201
+      },
+      {
+        "text": "Ph.D.",
+        "label": "WORK_OF_ART",
+        "start": 219,
+        "end": 224
+      },
+      {
+        "text": "Stanford University",
+        "label": "ORG",
+        "start": 228,
+        "end": 247
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 281,
+        "end": 284
+      },
+      {
+        "text": "AT&T Bell Laboratories",
+        "label": "ORG",
+        "start": 328,
+        "end": 350
+      },
+      {
+        "text": "Ursula",
+        "label": "ORG",
+        "start": 582,
+        "end": 588
+      },
+      {
+        "text": "aEuropean Research Council",
+        "label": "ORG",
+        "start": 643,
+        "end": 669
+      },
+      {
+        "text": "ERC",
+        "label": "ORG",
+        "start": 671,
+        "end": 674
+      },
+      {
+        "text": "the ETH Women Professors Forum",
+        "label": "ORG",
+        "start": 731,
+        "end": 761
+      },
+      {
+        "text": "WPF",
+        "label": "ORG",
+        "start": 763,
+        "end": 766
+      },
+      {
+        "text": "Marta Heisel-Wisniewska",
+        "label": "PERSON",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "the Singapore ETH Center",
+        "label": "ORG",
+        "start": 41,
+        "end": 65
+      },
+      {
+        "text": "the Chair of Architecture and Construction",
+        "label": "ORG",
+        "start": 111,
+        "end": 153
+      },
+      {
+        "text": "the Future Cities Laboratory",
+        "label": "ORG",
+        "start": 157,
+        "end": 185
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 189,
+        "end": 198
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 219,
+        "end": 233
+      },
+      {
+        "text": "the National Research Foundation Singapore",
+        "label": "ORG",
+        "start": 238,
+        "end": 280
+      },
+      {
+        "text": "Marta",
+        "label": "GPE",
+        "start": 282,
+        "end": 287
+      },
+      {
+        "text": "West Pomeranian University of Technology ZUT Szczecin",
+        "label": "ORG",
+        "start": 314,
+        "end": 367
+      },
+      {
+        "text": "Poland",
+        "label": "GPE",
+        "start": 371,
+        "end": 377
+      },
+      {
+        "text": "the University of the Arts Berlin",
+        "label": "ORG",
+        "start": 393,
+        "end": 426
+      },
+      {
+        "text": "between 2004 and 2011",
+        "label": "DATE",
+        "start": 427,
+        "end": 448
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 481,
+        "end": 490
+      },
+      {
+        "text": "the Ethiopian Institute of Architecture, Building Construction and City Development",
+        "label": "ORG",
+        "start": 563,
+        "end": 646
+      },
+      {
+        "text": "Addis Ababa",
+        "label": "GPE",
+        "start": 650,
+        "end": 661
+      },
+      {
+        "text": "Addis Ababa Institute of Technology",
+        "label": "ORG",
+        "start": 768,
+        "end": 803
+      },
+      {
+        "text": "EiABC Student Council",
+        "label": "ORG",
+        "start": 819,
+        "end": 840
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich’s",
+        "Julia Wysling",
+        "Kastrup",
+        "Marta Heisel-Wisniewska",
+        "Ulrike Kastrup",
+        "Ursula Keller"
+      ],
+      "ORG": [
+        "AT&T Bell Laboratories",
+        "Addis Ababa Institute of Technology",
+        "ERC",
+        "ETH",
+        "ETH Zurich",
+        "Earth Science Research and Information Centre",
+        "EiABC Student Council",
+        "Julia",
+        "NCCR",
+        "Royal Melbourne Institute of Technology",
+        "SBB (Swiss Federal Railways",
+        "Stanford University",
+        "The New Columnists",
+        "Ursula",
+        "WPF",
+        "West Pomeranian University of Technology ZUT Szczecin",
+        "Zug",
+        "aEuropean Research Council",
+        "the Chair of Architecture and Construction",
+        "the Council of Members",
+        "the ETH Women Professors Forum",
+        "the ETH Zurich",
+        "the Ethiopian Institute of Architecture, Building Construction and City Development",
+        "the Future Cities Laboratory",
+        "the Institute of Geophysics",
+        "the National Research Foundation Singapore",
+        "the Singapore ETH Center",
+        "the Student Association",
+        "the Swiss Seismological Service",
+        "the United Nations University",
+        "the University of Bonn",
+        "the University of Zurich",
+        "the University of the Arts Berlin"
+      ],
+      "LOCATION": [
+        "Addis Ababa",
+        "Australia",
+        "Bonn",
+        "Marta",
+        "Poland",
+        "Singapore",
+        "Vienna",
+        "Zurich",
+        "the Kantonsschule Rämibühl"
+      ],
+      "DATE": [
+        "November 2013",
+        "an exchange year",
+        "between 2004 and 2011",
+        "five years",
+        "the coming week",
+        "the summer and winter end-of-semester"
+      ],
+      "MISC": [
+        "Mathematicians",
+        "One",
+        "Ph.D.",
+        "VSETH",
+        "the SoNaFe/WiNaFe Association"
+      ]
+    },
+    "entity_counts": {
+      "Zurich": 3,
+      "ETH Zurich": 3,
+      "Australia": 2,
+      "Julia": 2,
+      "ETH": 2,
+      "Singapore": 2,
+      "The New Columnists": 1,
+      "Kastrup": 1,
+      "the coming week": 1,
+      "ETH Zurich’s": 1,
+      "Earth Science Research and Information Centre": 1,
+      "five years": 1,
+      "the University of Bonn": 1,
+      "the University of Zurich": 1,
+      "the Swiss Seismological Service": 1,
+      "the Institute of Geophysics": 1,
+      "the United Nations University": 1,
+      "Bonn": 1,
+      "Royal Melbourne Institute of Technology": 1,
+      "SBB (Swiss Federal Railways": 1
+    },
+    "total_entities": 67,
+    "unique_entities": 59
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "introducing-the-new-columnists.md",
+      "title": "En Internal/2014/01/introducing The New Columnists",
+      "language": "en",
+      "source_path": "en_internal/2014/01/introducing-the-new-columnists.html"
+    },
+    "temporal": {
+      "publication_date": "2014-01",
+      "mentioned_years": [
+        "1959",
+        "1984",
+        "1989",
+        "1990",
+        "1993",
+        "2004",
+        "2009",
+        "2010",
+        "2011",
+        "2013",
+        "2014"
+      ],
+      "time_periods": [
+        [
+          "2004",
+          "2011"
+        ]
+      ],
+      "temporal_context": "since, between, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich’s",
+        "Julia Wysling",
+        "Kastrup",
+        "Marta Heisel-Wisniewska",
+        "Ulrike Kastrup",
+        "Ursula Keller"
+      ],
+      "people_with_roles": {
+        "ETH Zurich’s": [
+          "director",
+          "rector"
+        ],
+        "Julia Wysling": [
+          "president",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "rector",
+        "professor",
+        "director",
+        "chair",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Mathematicians",
+        "Ph.D.",
+        "VSETH",
+        "the SoNaFe/WiNaFe Association"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "grant"
+      ],
+      "projects": [
+        "Research Council",
+        "Marta Heisel",
+        "Technology AAiT",
+        "Professors Forum",
+        "Future Cities",
+        "United Nations",
+        "Technology ZUT",
+        "Student Association",
+        "Arts Berlin",
+        "National Research",
+        "Columnists Ulrike",
+        "Royal Melbourne",
+        "WiNaFe Association",
+        "T Bell",
+        "City Development",
+        "Building Construction",
+        "Stanford University",
+        "Ulrike Kastrup",
+        "Ursula Keller",
+        "Best Teaching",
+        "Singapore ETH",
+        "ETH Women",
+        "Earth Science",
+        "West Pomeranian",
+        "The New",
+        "Ethiopian Institute",
+        "EiABC Student",
+        "Swiss Federal",
+        "Corporate Risk",
+        "Addis Ababa",
+        "Julia Wysling",
+        "Foundation Singapore",
+        "Swiss Seismological",
+        "En Internal",
+        "ETH Zurich",
+        "In November",
+        "NCCR MUST",
+        "FCL Singapore",
+        "Information Centre"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AT&T Bell Laboratories",
+        "Addis Ababa Institute of Technology",
+        "ERC",
+        "ETH",
+        "ETH Zurich",
+        "Earth Science Research and Information Centre",
+        "EiABC Student Council",
+        "Julia",
+        "NCCR",
+        "Royal Melbourne Institute of Technology",
+        "SBB (Swiss Federal Railways",
+        "Stanford University",
+        "The New Columnists",
+        "Ursula",
+        "WPF",
+        "West Pomeranian University of Technology ZUT Szczecin",
+        "Zug",
+        "aEuropean Research Council",
+        "the Chair of Architecture and Construction",
+        "the Council of Members",
+        "the ETH Women Professors Forum",
+        "the ETH Zurich",
+        "the Ethiopian Institute of Architecture, Building Construction and City Development",
+        "the Future Cities Laboratory",
+        "the Institute of Geophysics",
+        "the National Research Foundation Singapore",
+        "the Singapore ETH Center",
+        "the Student Association",
+        "the Swiss Seismological Service",
+        "the United Nations University",
+        "the University of Bonn",
+        "the University of Zurich",
+        "the University of the Arts Berlin"
+      ],
+      "locations": [
+        "Addis Ababa",
+        "Australia",
+        "Bonn",
+        "Marta",
+        "Poland",
+        "Singapore",
+        "Vienna",
+        "Zurich",
+        "the Kantonsschule Rämibühl"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Zurich",
+        "ETH Zurich",
+        "Australia",
+        "Julia",
+        "ETH",
+        "Singapore",
+        "The New Columnists",
+        "Kastrup",
+        "the coming week",
+        "ETH Zurich’s"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "The new VSETH President",
+          "The new VSETH President",
+          "WPF President",
+          "A view from Singapore"
+        ],
+        "content_length": 3523
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the United Nations University",
+        "AT&T Bell Laboratories",
+        "West Pomeranian University of Technology ZUT Szczecin",
+        "NCCR",
+        "grant",
+        "the ETH Zurich",
+        "the Institute of Geophysics",
+        "aEuropean Research Council",
+        "the Singapore ETH Center",
+        "the University of Zurich",
+        "The New Columnists",
+        "Kastrup",
+        "2004",
+        "1990",
+        "ETH Zurich’s",
+        "ERC",
+        "EiABC Student Council",
+        "SBB (Swiss Federal Railways",
+        "the Future Cities Laboratory",
+        "the Student Association",
+        "2009",
+        "WPF",
+        "1993",
+        "the National Research Foundation Singapore",
+        "the University of Bonn",
+        "1989",
+        "2014",
+        "Stanford University",
+        "1959",
+        "Ulrike Kastrup",
+        "2011",
+        "EU",
+        "Ursula Keller",
+        "2010",
+        "the Chair of Architecture and Construction",
+        "the University of the Arts Berlin",
+        "Ursula",
+        "Zug",
+        "Julia Wysling",
+        "the Swiss Seismological Service",
+        "Earth Science Research and Information Centre",
+        "1984",
+        "2013",
+        "Addis Ababa Institute of Technology",
+        "the Council of Members",
+        "the Ethiopian Institute of Architecture, Building Construction and City Development",
+        "the ETH Women Professors Forum",
+        "Marta Heisel-Wisniewska",
+        "ETH Zurich",
+        "Julia",
+        "Royal Melbourne Institute of Technology"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "where",
+        "Mathematicians",
+        "what",
+        "how",
+        "Ph.D.",
+        "the SoNaFe/WiNaFe Association",
+        "VSETH",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich’s_has_role_director",
+        "ETH Zurich’s_has_role_rector",
+        "Julia Wysling_has_role_president",
+        "Julia Wysling_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

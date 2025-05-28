@@ -1,0 +1,173 @@
+{
+  "filename": "ausschreibung-congressi-stefano-franscini.md",
+  "original_filename": "ausschreibung-congressi-stefano-franscini.html",
+  "source_path": "de_internal/2014/07/ausschreibung-congressi-stefano-franscini.html",
+  "date": "2014-07",
+  "title": "Ausschreibung Congressi Stefano Franscini",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Ausschreibung für Konferenzen und ETH Winter Schools in 2016 richtet sich an Wissenschaftlerinnen und Wissenschaftler, die an einer Schweizer Hochschule oder an einem Schweizer Forschungsinstitut tätig sind; internationale Zusammenarbeit ist sehr willkommen. Die eingereichten Anträge werden durch einen interdisziplinären Beirat begutachtet.\n\nDas Congressi Stefano Franscini bietet:\n\nDas Congressi Stefano Franscini verlangt:\n\nDas Antragsformular kann online von der CSF Online Plattform heruntergeladen werden.\n\nEingabefrist für die Anträge 2016: 15. Januar 2015."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/07",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Congressi Stefano Franscini",
+        "label": "PER",
+        "start": 34,
+        "end": 61
+      },
+      {
+        "text": "ETH Winter Schools",
+        "label": "ORG",
+        "start": 38,
+        "end": 56
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 136,
+        "end": 145
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 171,
+        "end": 180
+      },
+      {
+        "text": "Congressi Stefano Franscini",
+        "label": "LOC",
+        "start": 351,
+        "end": 378
+      },
+      {
+        "text": "CSF Online Plattform",
+        "label": "ORG",
+        "start": 469,
+        "end": 489
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Congressi Stefano Franscini"
+      ],
+      "ORG": [
+        "CSF Online Plattform",
+        "ETH Winter Schools"
+      ],
+      "LOCATION": [
+        "Congressi Stefano Franscini",
+        "De Internal/2014/07"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "Congressi Stefano Franscini": 2,
+      "Schweizer": 2,
+      "De Internal/2014/07": 1,
+      "ETH Winter Schools": 1,
+      "CSF Online Plattform": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ausschreibung-congressi-stefano-franscini.md",
+      "title": "De Internal/2014/07/ausschreibung Congressi Stefano Franscini",
+      "language": "de",
+      "source_path": "de_internal/2014/07/ausschreibung-congressi-stefano-franscini.html"
+    },
+    "temporal": {
+      "publication_date": "2014-07",
+      "mentioned_years": [
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Congressi Stefano Franscini"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Schweizer"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Stefano Franscini",
+        "Schweizer Hochschule",
+        "ETH Winter",
+        "Schweizer Forschungsinstitut",
+        "De Internal",
+        "Das Congressi",
+        "Franscini Die",
+        "CSF Online",
+        "Das Antragsformular",
+        "Congressi Stefano"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSF Online Plattform",
+        "ETH Winter Schools"
+      ],
+      "locations": [
+        "Congressi Stefano Franscini",
+        "De Internal/2014/07"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Congressi Stefano Franscini",
+        "Schweizer",
+        "De Internal/2014/07",
+        "ETH Winter Schools",
+        "CSF Online Plattform"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 631
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Winter Schools",
+        "2015",
+        "2016",
+        "Congressi Stefano Franscini",
+        "2014",
+        "CSF Online Plattform"
+      ],
+      "semantic_concepts": [
+        "Schweizer"
+      ],
+      "graph_relations": []
+    }
+  }
+}

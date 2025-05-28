@@ -1,0 +1,50 @@
+# acht-eth-start-ups-gewinnen-venture-award.html
+
+**Source:** de_news_events/2022/06/acht-eth-start-ups-gewinnen-venture-award.html
+
+## Künstliche Intelligenz für Jurist:innen
+
+Der Venture-Award, einer der führenden Wettbewerbe für Schweizer Jungunternehmen, feiert dieses Jahr sein 25-jähriges Jubiläum. Seit seiner Gründung unterstützte der von der ETH Zürich mitgetragene Wettbewerb mehr als 1500 Start-ups, die über 15’000 Arbeitsplätze schufen. Die 262 Gewinner allein mobilisierten 2,3 Milliarden Franken an Risikokapital und veröffentlichten fast 900 Patente.
+
+Als Höhepunkt der Feierlichkeiten fand gestern Abend an der ETH Zürich die Preisverleihung für den diesjährigen Award statt. 15 innovative Jungunternehmen aus fünf verschiedenen Branchen durften sich über ein Preisgeld von über CHF 500'000 freuen. Darunter befanden sich neben den drei ETH-Spin-offs DeepJudge, Kaspar& und Versics fünf Startups mit starkem Bezug zur ETH Zürich: Alter Ego, DeepPsy, Groam, Samplab und Veritic. Die Jury prüfte die Geschäftsideen aller Nominierten dieses Jahr erstmals auch auf deren Nachhaltigkeit.
+
+## Künstliche Intelligenz für Jurist:innen
+
+Das ETH-Spin-​off DeepJudge hilft Anwaltskanzleien, Unternehmen und Gerichten dabei, einen Teil ihrer administrativen und datenschutzrechtlich sensiblen Arbeiten zu automatisieren. Die KI-​unterstützte Software des Jungunternehmen ist zum Beispiel in der Lage, verschiedene Verträge zu vergleichen und daraus selbstständig eine Vorlage für einen neuen Vertrag anzufertigen.
+
+## Eine App fürs Bezahlen und Anlegen
+
+Zudem können rechtliche Dokumente auf der Plattform in einer «augmentierten» Version betrachtet werden, die automatisch relevante Gesetzesparagrafen und Gerichtsentscheide einblendet oder auf bestehende Handelsregistereinträge verweist. Die Software erkennt auch sensible Inhalte, die mit einem Mausklick einfach geschwärzt werden können.
+
+## Schnelle Datenübertragung durch neue Schaltstellen
+
+Auf Grund von Streamingdiensten, virtuellen Meetings und anderen digitalen Anwendungen werden weltweit immense Mengen von Daten generiert. Das Versenden und Austauschen dieser Daten verbraucht derzeit rund neun Prozent der globalen Energie, wobei dieser Anteil jährlich um 20 bis 30 Prozent steigt.
+
+Das ETH-Spin-off Versics entwickelt neuartige Chips, die weniger Energie verbrauchen und grössere Datenmengen schneller verarbeiten als andere, heute am Markt erhältliche Lösungen. Da die Datenübertragungsraten mit dem Ausbau des 5G-​Netztes und dem bereits geplanten 6G ​stetig zunehmen, werden Technologien wie die von Versics in Zukunft eine entscheidende Rolle spielen.
+
+## Eine App fürs Bezahlen und Anlegen
+
+Das ETH-Spin-off externe Seite Kaspar& hat eine App entwickelt, die sowohl für klassische Bankdienstleistungen als auch für die digitale Vermögensverwaltung verwendet werden kann. Das Besondere daran ist, dass die App bei jeder Zahlung automatisch auf den nächsten Franken aufrundet und die daraus resultierenden Kleinbeträge professionell angelegt. Den Benutzern soll so das Sparen und Anlegen möglichst leicht gemacht werden.
+
+## Nachhaltige Schaumstoffe aus Agrarabfällen
+
+Rund 30 Millionen Tonnen Kunststoffschäume werden jährlich produziert, zum Beispiel fürMatratzen oder Schutzverpackungen. Dies ist eine enorme Belastung für die Umwelt. Das ETH-Start-up externe Seite Groam will dies ändern und nachhaltigen, biologisch abbaubaren Schaumstoffen zum Durchbruch verhelfen.
+
+Die Bio-Schaumstoffte von Groam werden aus landwirtschaftlichen Abfällen hergestellt und für Pflanzensubstrate in der vertikalen Landwirtschaft eingesetzt. In Zukunft will das Startup seine Technologie auch auf abbaubare Schutzverpackungen und Anwendungen in der Modeindustrie wie etwa Schuhsohlen anwenden.
+
+## Eine neue Plattform für sichere NFTs
+
+Ein NFT oder Non-Fungible Token ist ein Echtheitszertifikat, in dem der Urheber und der Eigentümer eines digitalen Vermögenswertes festgehalten werden. NFTs beruhen auf Blockchain-Technologien, und sind an Dateien wie zum Beispiel Bilder gekoppelt. Ein NFT ist damit ein Unikat, ähnlich einem Kunstwerk in der analogen Welt. Das von ETH-Abgängern gegründete Start-up externe Seite Veritic hat eine benutzerfreundliche Plattform entwickelt, welche die Erstellung und Verwaltung von NFTs sicherer und einfacher macht. Dafür wird das Jungunternehmen mit dem ersten Platz im Bereich Finance and Insurance ausgezeichnet.
+
+## Algorithmen für bessere psychiatrische Behandlung
+
+Das von einem ehemaligen ETH-Physikstudenten mitgegründete Start-up externe Seite DeepPsy will die psychiatrische Behandlung durch den Einsatz von Technologie zu verbessern. Das Jungunternehmen hat ein online Tool entwickelt, das Gehirn- und Herzdaten auswertet und Psychiater:innen dabei unterstützt, die Behandlung mit der höchsten Erfolgswahrscheinlichkeit zu identifizieren.
+
+## Im Online-Shop mit dem Avatar
+
+30 Prozent der im Internet bestellten Kleider werden zurückgeschickt, grösstenteils weil sie nicht passen. Dieser Transport- und Verpackungsaufwand sorgt für eine erhebliche Belastung der Umwelt. Das von ETH-Studierenden gegründete Start-up externe Seite Alter Ego will die Anzahl der retournierten Kleidungsstücke senken, indem es den Käuferinnen und Käufern die Möglichkeit bietet, ihre Kleidung anhand eines personalisierten 3D-Avatar digital anzuprobieren.
+
+Das von ETH-Studierenden gegründete Startup externe Seite Samplab will die Musikproduktion durch eine auf künstlicher Intelligenz (KI) beruhende Software einfacher, schneller und kreativer machen. Mittels KI lässt sich jedes Audiofile in seine einzelnen Noten zerlegen, welche dann am Bildschirm beliebig verändert und variiert werden können. Auch zwei oder mehrere Tonspuren können in der Software einfach aufeinander abgestimmt werden.
+
+Venture ist der führende Startup-Wettbewerb der Schweiz, der von der gemeinnützigen Venture- Stiftung gemeinsam mit der ETH Zürich, McKinsey & Company, der Knecht Holding, Innosuisse und der EPFL organisiert wird. Er wurde 1997 mit dem Ziel gegründet, Innovation und Unternehmertum in der Schweiz zu fördern. Die Teilnehmer können sich jedes Jahr in einer der folgenden fünf Branchen bewerben: Gesundheit & Ernährung, ICT, Industrie & Technik, Handel & Kundendienst sowie Finanzen & Versicherungen. Venture bietet einen Preisgeld in der Höhe von 510'000 CHF, Mentoring und ein umfangreiches Netzwerk von Experten.
+

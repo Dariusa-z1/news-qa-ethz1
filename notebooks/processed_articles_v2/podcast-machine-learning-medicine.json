@@ -1,0 +1,244 @@
+{
+  "filename": "podcast-machine-learning-medicine.md",
+  "original_filename": "podcast-machine-learning-medicine.html",
+  "source_path": "en_news_events/2020/08/podcast-machine-learning-medicine.html",
+  "date": "2020-08",
+  "title": "Podcast Machine Learning Medicine",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH computer scientists Julia Vogt and Fanny Yang work in the field of Machine Learning and Medicine. While Fanny builds models, Julia applies the theories in different projects collaborating with hospitals. In the first podcast episode after the summer break they explain why machine learning is an important tool in medicine.\n\nThe topics on the ETH Podcast are as diverse as ETH research itself. From discussions with experts on current research topics to exciting in-​depth reporting, there's something for everyone. The podcast is in English, to make it available to an international audience. You can subscribe through any of the usual podcast platforms or listen to it here on the web."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Machine Learning Medicine",
+        "label": "ORG",
+        "start": 31,
+        "end": 56
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Julia Vogt",
+        "label": "PERSON",
+        "start": 24,
+        "end": 34
+      },
+      {
+        "text": "Fanny Yang",
+        "label": "PERSON",
+        "start": 39,
+        "end": 49
+      },
+      {
+        "text": "Machine Learning and Medicine",
+        "label": "ORG",
+        "start": 71,
+        "end": 100
+      },
+      {
+        "text": "Fanny",
+        "label": "ORG",
+        "start": 108,
+        "end": 113
+      },
+      {
+        "text": "Julia",
+        "label": "ORG",
+        "start": 129,
+        "end": 134
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 215,
+        "end": 220
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 247,
+        "end": 253
+      },
+      {
+        "text": "the ETH Podcast",
+        "label": "ORG",
+        "start": 342,
+        "end": 357
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 376,
+        "end": 379
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 537,
+        "end": 544
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fanny Yang",
+        "Julia Vogt"
+      ],
+      "ORG": [
+        "ETH",
+        "Fanny",
+        "Julia",
+        "Machine Learning Medicine",
+        "Machine Learning and Medicine",
+        "the ETH Podcast"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "summer"
+      ],
+      "MISC": [
+        "English",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Machine Learning Medicine": 1,
+      "Julia Vogt": 1,
+      "Fanny Yang": 1,
+      "Machine Learning and Medicine": 1,
+      "Fanny": 1,
+      "Julia": 1,
+      "first": 1,
+      "summer": 1,
+      "the ETH Podcast": 1,
+      "English": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-machine-learning-medicine.md",
+      "title": "En News Events/2020/08/podcast Machine Learning Medicine",
+      "language": "en",
+      "source_path": "en_news_events/2020/08/podcast-machine-learning-medicine.html"
+    },
+    "temporal": {
+      "publication_date": "2020-08",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Fanny Yang",
+        "Julia Vogt"
+      ],
+      "people_with_roles": {
+        "Fanny Yang": [
+          "scientist"
+        ],
+        "Julia Vogt": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "English",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Medicine ETH",
+        "En News",
+        "ETH Podcast",
+        "Fanny Yang",
+        "Machine Learning",
+        "While Fanny",
+        "Julia Vogt"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Fanny",
+        "Julia",
+        "Machine Learning Medicine",
+        "Machine Learning and Medicine",
+        "the ETH Podcast"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Machine Learning Medicine",
+        "Julia Vogt",
+        "Fanny Yang",
+        "Machine Learning and Medicine",
+        "Fanny",
+        "Julia",
+        "first",
+        "summer",
+        "the ETH Podcast"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 748
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Fanny",
+        "2020",
+        "Machine Learning and Medicine",
+        "Fanny Yang",
+        "the ETH Podcast",
+        "Machine Learning Medicine",
+        "Julia Vogt",
+        "Julia"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "English",
+        "what",
+        "why"
+      ],
+      "graph_relations": [
+        "Fanny Yang_has_role_scientist",
+        "Julia Vogt_has_role_scientist",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

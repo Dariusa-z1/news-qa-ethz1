@@ -1,0 +1,194 @@
+{
+  "filename": "new-york-academy-of-science--digital-archive.md",
+  "original_filename": "new-york-academy-of-science--digital-archive.html",
+  "source_path": "de_internal/2019/02/new-york-academy-of-science--digital-archive.html",
+  "date": "2019-02",
+  "title": "New York Academy Of Science Digital Archive",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Angehörige der ETH Zürich haben neu Zugriff auf interdisziplinäre Originalmaterialien der externe Seite New York Academy of Science zurück bis zu ihrer Gründung im Jahr 1817. Der Zugriff erfolgt über die Wiley Digital Archives und ermöglicht neben forschungsbezogenen Quellen auch einen Einblick in die verwaltungsinternen Vorgänge der Akademie und ihrer Mitglieder. Verschiedene Analyse- und Visualisierungs-Tools ergänzen die Ressourcen und machen dieses Kapitel amerikanischer Wissenschaftsgeschichte vielfältig nutz- und sichtbar.\n\nDer Zugriff ist im Netzwerk der ETH Zürich oder in den Räumen der ETH-Bibliothek möglich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/02/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 15,
+        "end": 25
+      },
+      {
+        "text": "New York Academy of Science",
+        "label": "LOC",
+        "start": 104,
+        "end": 131
+      },
+      {
+        "text": "Der Zugriff",
+        "label": "MISC",
+        "start": 175,
+        "end": 186
+      },
+      {
+        "text": "Wiley Digital Archives",
+        "label": "ORG",
+        "start": 204,
+        "end": 226
+      },
+      {
+        "text": "Akademie",
+        "label": "ORG",
+        "start": 336,
+        "end": 344
+      },
+      {
+        "text": "amerikanischer",
+        "label": "MISC",
+        "start": 465,
+        "end": 479
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 567,
+        "end": 577
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 601,
+        "end": 615
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Akademie",
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "Wiley Digital Archives"
+      ],
+      "LOCATION": [
+        "De Internal/2019/02/",
+        "New York Academy of Science"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Der Zugriff",
+        "amerikanischer"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "De Internal/2019/02/": 1,
+      "New York Academy of Science": 1,
+      "Der Zugriff": 1,
+      "Wiley Digital Archives": 1,
+      "Akademie": 1,
+      "amerikanischer": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-york-academy-of-science--digital-archive.md",
+      "title": "De Internal/2019/02/new York Academy Of Science Digital Archive",
+      "language": "de",
+      "source_path": "de_internal/2019/02/new-york-academy-of-science--digital-archive.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Der Zugriff",
+        "amerikanischer"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Digital Archive",
+        "Visualisierungs-Tools",
+        "ETH-Bibliothek",
+        "De Internal",
+        "York Academy",
+        "Der Zugriff",
+        "Wiley Digital",
+        "Verschiedene Analyse",
+        "Seite New",
+        "Of Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Akademie",
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "Wiley Digital Archives"
+      ],
+      "locations": [
+        "De Internal/2019/02/",
+        "New York Academy of Science"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2019/02/",
+        "New York Academy of Science",
+        "Der Zugriff",
+        "Wiley Digital Archives",
+        "Akademie",
+        "amerikanischer",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 689
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "2019",
+        "Akademie",
+        "EU",
+        "ETH Zürich",
+        "Wiley Digital Archives"
+      ],
+      "semantic_concepts": [
+        "Der Zugriff",
+        "amerikanischer"
+      ],
+      "graph_relations": []
+    }
+  }
+}

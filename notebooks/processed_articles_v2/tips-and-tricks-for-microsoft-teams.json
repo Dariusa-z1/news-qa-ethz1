@@ -1,0 +1,344 @@
+{
+  "filename": "tips-and-tricks-for-microsoft-teams.md",
+  "original_filename": "tips-and-tricks-for-microsoft-teams.html",
+  "source_path": "en_internal/2022/02/tips-and-tricks-for-microsoft-teams.html",
+  "date": "2022-02",
+  "title": "Tips And Tricks For Microsoft Teams",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Getting started: Register for Microsoft 365 / Teams",
+      "text": "Microsoft 365 and Teams are available to all members of the ETH community as a communication and collaboration platform. However, to use Teams, you first have to set up what is known as a cloud subscription ."
+    },
+    {
+      "heading": "Create a team",
+      "text": "To collaborate with other members of the ETH community – e.g. with your project or research group – it’s best to create your own team in Teams. You do this using the provisioning tool. For details of where to find this app in Teams and how to use it to create a team, visit this support page .\n\nOnce you’ve created a team, you can make further adjustments, such as including a team image or changing the name. To do this, select the three dots (more options) to the right of the team name and click on “Edit team”."
+    },
+    {
+      "heading": "Collaborate with people outside ETH",
+      "text": "Collaboration and exchange with members of the ETH community is very easy using Teams. But what about guests – people who aren’t ETH employees, students or other members of the ETH community?\n\nThey might be guest lecturers, students from other universities, partners, suppliers or consultants. As a rule, they won’t have an ETH Zurich e-mail account. But it is still possible to collaborate via Teams with external people such as these.\n\nA team owner can add people from other organisations to a team by entering their e-mail address. However, for this to work, that person must have a Microsoft account with Teams. Additionally, the organisation for which the person works must allow its members to contact other organisations through Teams. Some organisations do not allow this.\n\nBefore you begin collaborating, please take note: For security reasons, guests who gain access to an ETH team must set up multifactor authentication and enter this element each time they log in. Pease find here more information."
+    },
+    {
+      "heading": "Further information and courses",
+      "text": "Visit or call +41 44 632 77 77.\n\nThose who want to get to know Microsoft 365 / Teams even better have the opportunity to do so in the course \" In Teams noch nicht fit ”? Dates: 30 March and 16 June 2022. Please note: The course will be held in German."
+    },
+    {
+      "heading": "Comment policy Intern aktuell",
+      "text": "Articles published on Intern aktuell are open for comment. The comments are reviewed and published by the editorial team before publication, provided they comply with the comment policy .\n\nPlease note that anonymous comments and contributions containing personal attacks of any kind, insults or targeted provocations will not be published."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Microsoft 365",
+        "label": "ORG",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Teams",
+        "label": "ORG",
+        "start": 18,
+        "end": 23
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 60,
+        "end": 63
+      },
+      {
+        "text": "Teams",
+        "label": "ORG",
+        "start": 137,
+        "end": 142
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 148,
+        "end": 153
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "Teams",
+        "label": "GPE",
+        "start": 137,
+        "end": 142
+      },
+      {
+        "text": "Teams",
+        "label": "GPE",
+        "start": 226,
+        "end": 231
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 432,
+        "end": 437
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 47,
+        "end": 50
+      },
+      {
+        "text": "Teams",
+        "label": "ORG",
+        "start": 80,
+        "end": 85
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 129,
+        "end": 132
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 177,
+        "end": 180
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 323,
+        "end": 333
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 584,
+        "end": 593
+      },
+      {
+        "text": "Teams",
+        "label": "ORG",
+        "start": 607,
+        "end": 612
+      },
+      {
+        "text": "Teams",
+        "label": "LOC",
+        "start": 734,
+        "end": 739
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 880,
+        "end": 883
+      },
+      {
+        "text": "77 77",
+        "label": "DATE",
+        "start": 25,
+        "end": 30
+      },
+      {
+        "text": "Microsoft 365 / Teams",
+        "label": "ORG",
+        "start": 62,
+        "end": 83
+      },
+      {
+        "text": "Teams",
+        "label": "LOC",
+        "start": 145,
+        "end": 150
+      },
+      {
+        "text": "30 March",
+        "label": "DATE",
+        "start": 176,
+        "end": 184
+      },
+      {
+        "text": "16 June 2022",
+        "label": "DATE",
+        "start": 189,
+        "end": 201
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 243,
+        "end": 249
+      },
+      {
+        "text": "Intern",
+        "label": "ORG",
+        "start": 22,
+        "end": 28
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Intern",
+        "Microsoft",
+        "Microsoft 365",
+        "Microsoft 365 / Teams",
+        "Teams"
+      ],
+      "LOCATION": [
+        "Teams"
+      ],
+      "DATE": [
+        "16 June 2022",
+        "30 March",
+        "77 77"
+      ],
+      "MISC": [
+        "German",
+        "first",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Teams": 8,
+      "ETH": 6,
+      "Microsoft 365": 1,
+      "first": 1,
+      "three": 1,
+      "ETH Zurich": 1,
+      "Microsoft": 1,
+      "77 77": 1,
+      "Microsoft 365 / Teams": 1,
+      "30 March": 1,
+      "16 June 2022": 1,
+      "German": 1,
+      "Intern": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "tips-and-tricks-for-microsoft-teams.md",
+      "title": "En Internal/2022/02/tips And Tricks For Microsoft Teams",
+      "language": "en",
+      "source_path": "en_internal/2022/02/tips-and-tricks-for-microsoft-teams.html"
+    },
+    "temporal": {
+      "publication_date": "2022-02",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "German",
+        "first",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Teams Microsoft",
+        "In Teams",
+        "En Internal",
+        "And Tricks",
+        "For Microsoft",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Intern",
+        "Microsoft",
+        "Microsoft 365",
+        "Microsoft 365 / Teams",
+        "Teams"
+      ],
+      "locations": [
+        "Teams"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Teams",
+        "ETH",
+        "Microsoft 365",
+        "first",
+        "three",
+        "ETH Zurich",
+        "Microsoft",
+        "77 77",
+        "Microsoft 365 / Teams",
+        "30 March"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Getting started: Register for Microsoft 365 / Teams",
+          "Create a team",
+          "Collaborate with people outside ETH",
+          "Further information and courses",
+          "Comment policy Intern aktuell"
+        ],
+        "content_length": 2382
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Microsoft 365 / Teams",
+        "Intern",
+        "Microsoft 365",
+        "Microsoft",
+        "Teams",
+        "2022",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "three",
+        "who",
+        "what",
+        "how",
+        "German",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

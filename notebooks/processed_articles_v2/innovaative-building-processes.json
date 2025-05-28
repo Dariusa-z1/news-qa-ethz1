@@ -1,0 +1,210 @@
+{
+  "filename": "innovaative-building-processes.md",
+  "original_filename": "innovaative-building-processes.html",
+  "source_path": "en_news_events/2018/05/innovaative-building-processes.html",
+  "date": "2018-05",
+  "title": "Innovaative Building Processes",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Recently, the NCCR Digital Fabrication invited representatives of the Swiss National Science Foundation (SNSF) and its review committee to its fourth annual revision. During the two-day event, the panel of international experts evaluated the progress of the NCCR and discussed its future research plans. In the coming months, the SNSF Research Council will decide on the future financing of the NCCR. The complete report on the fourth annual revision can be found on the website of the NCCR Digital Fabrication."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Building Processes",
+        "label": "ORG",
+        "start": 35,
+        "end": 53
+      },
+      {
+        "text": "the Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 66,
+        "end": 103
+      },
+      {
+        "text": "fourth",
+        "label": "ORDINAL",
+        "start": 143,
+        "end": 149
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 150,
+        "end": 156
+      },
+      {
+        "text": "two-day",
+        "label": "DATE",
+        "start": 178,
+        "end": 185
+      },
+      {
+        "text": "NCCR",
+        "label": "ORG",
+        "start": 258,
+        "end": 262
+      },
+      {
+        "text": "the coming months",
+        "label": "DATE",
+        "start": 307,
+        "end": 324
+      },
+      {
+        "text": "the SNSF Research Council",
+        "label": "ORG",
+        "start": 326,
+        "end": 351
+      },
+      {
+        "text": "NCCR",
+        "label": "ORG",
+        "start": 395,
+        "end": 399
+      },
+      {
+        "text": "fourth",
+        "label": "ORDINAL",
+        "start": 428,
+        "end": 434
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 435,
+        "end": 441
+      },
+      {
+        "text": "the NCCR Digital Fabrication",
+        "label": "ORG",
+        "start": 482,
+        "end": 510
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Building Processes",
+        "NCCR",
+        "the NCCR Digital Fabrication",
+        "the SNSF Research Council",
+        "the Swiss National Science Foundation"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "annual",
+        "the coming months",
+        "two-day"
+      ],
+      "MISC": [
+        "fourth"
+      ]
+    },
+    "entity_counts": {
+      "fourth": 2,
+      "annual": 2,
+      "NCCR": 2,
+      "Building Processes": 1,
+      "the Swiss National Science Foundation": 1,
+      "two-day": 1,
+      "the coming months": 1,
+      "the SNSF Research Council": 1,
+      "the NCCR Digital Fabrication": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "innovaative-building-processes.md",
+      "title": "En News Events/2018/05/innovaative Building Processes",
+      "language": "en",
+      "source_path": "en_news_events/2018/05/innovaative-building-processes.html"
+    },
+    "temporal": {
+      "publication_date": "2018-05",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, recently"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "fourth"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "NCCR Digital",
+        "En News",
+        "Swiss National",
+        "Science Foundation",
+        "SNSF Research",
+        "Building Processes"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Building Processes",
+        "NCCR",
+        "the NCCR Digital Fabrication",
+        "the SNSF Research Council",
+        "the Swiss National Science Foundation"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "fourth",
+        "annual",
+        "NCCR",
+        "Building Processes",
+        "the Swiss National Science Foundation",
+        "two-day",
+        "the coming months",
+        "the SNSF Research Council",
+        "the NCCR Digital Fabrication"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 565
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "the NCCR Digital Fabrication",
+        "NCCR",
+        "the Swiss National Science Foundation",
+        "the SNSF Research Council",
+        "Building Processes"
+      ],
+      "semantic_concepts": [
+        "what",
+        "fourth",
+        "how"
+      ],
+      "graph_relations": []
+    }
+  }
+}

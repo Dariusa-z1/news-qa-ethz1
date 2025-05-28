@@ -1,0 +1,269 @@
+{
+  "filename": "neues-center-fuer-logistik-in-oerlikon.md",
+  "original_filename": "neues-center-fuer-logistik-in-oerlikon.html",
+  "source_path": "de_internal/2015/08/neues-center-fuer-logistik-in-oerlikon.html",
+  "date": "2015-08",
+  "title": "Neues Center Fuer Logistik In Oerlikon",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der Umzug von 16 Mitarbeitenden in das Gebäude ONA in Oerlikon hat am 3. August 2015 begonnen. Bereits zwei Wochen später läuft die Verarbeitung und Lagerung sämtlicher Post- und Büromaterial-Sendungen der ETH-Standorte Zentrum und Hönggerberg über das neue Kompetenzzentrum für Logistikdienstleistungen.\n\nIn der Anfangsphase startet der Betrieb mit den Post- und Büromaterialdienstleistungen. Später soll ein Teil des Lagerraums inklusive Transportmöglichkeiten auch den Organisationseinheiten und Departementen zur Verfügung stehen. Ein solches Angebot fehlt der ETH bis heute.\n\nWährend der Umstellung werden die Post-Dienstleistungen im gewohnten Umfang weitergeführt. Für diverse ETH-Gebäude bringt die neue Postlogistik optimierte Liefer- und Abholzeiten. Auch das Büromaterialangebot bleibt im gleichen Umfang erhalten. Einzig beim Bezug gibt es Veränderungen. Mit der Inbetriebnahme des Logistikzentrums schliessen die zwei Schalter im Hauptgebäude (HG D 33) und auf dem Hönggerberg (HIL C 36) am 12. August 2015. Ab diesem Datum werden sämtliche Büromaterialbestellungen über den Web-Shop mit der internen Post geliefert. Die persönliche Bezugsmöglichkeit wird mit der Eröffnung der neuen Post-Standorte Anfang 2016 wieder möglich sein."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/08/neues Center",
+        "label": "LOC",
+        "start": 0,
+        "end": 32
+      },
+      {
+        "text": "Fuer Logistik",
+        "label": "PER",
+        "start": 33,
+        "end": 46
+      },
+      {
+        "text": "Oerlikon",
+        "label": "LOC",
+        "start": 50,
+        "end": 58
+      },
+      {
+        "text": "ONA",
+        "label": "LOC",
+        "start": 47,
+        "end": 50
+      },
+      {
+        "text": "Oerlikon",
+        "label": "LOC",
+        "start": 54,
+        "end": 62
+      },
+      {
+        "text": "ETH-Standorte Zentrum",
+        "label": "ORG",
+        "start": 206,
+        "end": 227
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 232,
+        "end": 243
+      },
+      {
+        "text": "Logistikdienstleistungen",
+        "label": "LOC",
+        "start": 279,
+        "end": 303
+      },
+      {
+        "text": "Büromaterialdienstleistungen",
+        "label": "LOC",
+        "start": 363,
+        "end": 391
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 564,
+        "end": 567
+      },
+      {
+        "text": "Post-Dienstleistungen",
+        "label": "MISC",
+        "start": 613,
+        "end": 634
+      },
+      {
+        "text": "ETH-Gebäude",
+        "label": "MISC",
+        "start": 682,
+        "end": 693
+      },
+      {
+        "text": "Logistikzentrums",
+        "label": "LOC",
+        "start": 892,
+        "end": 908
+      },
+      {
+        "text": "HG D 33",
+        "label": "MISC",
+        "start": 955,
+        "end": 962
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 976,
+        "end": 987
+      },
+      {
+        "text": "HIL C 36",
+        "label": "MISC",
+        "start": 989,
+        "end": 997
+      },
+      {
+        "text": "Web-Shop",
+        "label": "LOC",
+        "start": 1086,
+        "end": 1094
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fuer Logistik"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH-Standorte Zentrum"
+      ],
+      "LOCATION": [
+        "Büromaterialdienstleistungen",
+        "De Internal/2015/08/neues Center",
+        "Hönggerberg",
+        "Logistikdienstleistungen",
+        "Logistikzentrums",
+        "ONA",
+        "Oerlikon",
+        "Web-Shop"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Gebäude",
+        "HG D 33",
+        "HIL C 36",
+        "Post-Dienstleistungen"
+      ]
+    },
+    "entity_counts": {
+      "Oerlikon": 2,
+      "Hönggerberg": 2,
+      "De Internal/2015/08/neues Center": 1,
+      "Fuer Logistik": 1,
+      "ONA": 1,
+      "ETH-Standorte Zentrum": 1,
+      "Logistikdienstleistungen": 1,
+      "Büromaterialdienstleistungen": 1,
+      "ETH": 1,
+      "Post-Dienstleistungen": 1,
+      "ETH-Gebäude": 1,
+      "Logistikzentrums": 1,
+      "HG D 33": 1,
+      "HIL C 36": 1,
+      "Web-Shop": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neues-center-fuer-logistik-in-oerlikon.md",
+      "title": "De Internal/2015/08/neues Center Fuer Logistik in Oerlikon",
+      "language": "de",
+      "source_path": "de_internal/2015/08/neues-center-fuer-logistik-in-oerlikon.html"
+    },
+    "temporal": {
+      "publication_date": "2015-08",
+      "mentioned_years": [
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Fuer Logistik"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Gebäude",
+        "HG D 33",
+        "HIL C 36",
+        "Post-Dienstleistungen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Oerlikon Der",
+        "ETH-Standorte",
+        "De Internal",
+        "HIL C",
+        "Post-Standorte",
+        "Post-Dienstleistungen",
+        "Center Fuer",
+        "HG D",
+        "Web-Shop"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH-Standorte Zentrum"
+      ],
+      "locations": [
+        "Büromaterialdienstleistungen",
+        "De Internal/2015/08/neues Center",
+        "Hönggerberg",
+        "Logistikdienstleistungen",
+        "Logistikzentrums",
+        "ONA",
+        "Oerlikon",
+        "Web-Shop"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Oerlikon",
+        "Hönggerberg",
+        "De Internal/2015/08/neues Center",
+        "Fuer Logistik",
+        "ONA",
+        "ETH-Standorte Zentrum",
+        "Logistikdienstleistungen",
+        "Büromaterialdienstleistungen",
+        "ETH",
+        "Post-Dienstleistungen"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1303
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Fuer Logistik",
+        "ETH",
+        "ETH-Standorte Zentrum",
+        "2015",
+        "EU",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "HIL C 36",
+        "Post-Dienstleistungen",
+        "ETH-Gebäude",
+        "HG D 33"
+      ],
+      "graph_relations": []
+    }
+  }
+}

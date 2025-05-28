@@ -1,0 +1,388 @@
+{
+  "filename": "a-biochemical-random-number.md",
+  "original_filename": "a-biochemical-random-number.html",
+  "source_path": "en_news_events/2020/11/a-biochemical-random-number.html",
+  "date": "2020-11",
+  "title": "A Biochemical Random Number",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "DNA synthesis with random building blocks",
+      "text": "True random numbers are required in fields as diverse as slot machines and data encryption. These numbers need to be truly random, such that they cannot even be predicted by people with detailed knowledge of the method used to generate them.\n\nAs a rule, they are generated using physical methods. For instance, thanks to the tiniest high-frequency electron movements, the electrical resistance of a wire is not constant but instead fluctuates slightly in an unpredictable way. That means measurements of this background noise can be used to generate true random numbers.\n\nNow, for the first time, a research team led by Robert Grass, Professor at the Institute of Chemical and Bioengineering, has described a non-physical method of generating such numbers: one that uses biochemical signals and actually works in practice. In the past, the ideas put forward by other scientists for generating random numbers by chemical means tended to be largely theoretical."
+    },
+    {
+      "heading": "DNA synthesis with random building blocks",
+      "text": "For this new approach, the ETH researchers apply the synthesis of DNA molecules, an established chemical research method frequently employed over many years. It is traditionally used to produce a precisely defined DNA sequence. In this case, however, the research team built DNA molecules with 64 building block positions, in which one of the four DNA bases A, C, G and T was randomly located at each position. The scientists achieved this by using a mixture of the four building blocks, rather than just one, at every step of the synthesis.\n\nAs a result, a relatively simple synthesis produced a combination of approximately three quadrillion individual molecules. The scientists subsequently used an effective method to determine the DNA sequence of five million of these molecules. This resulted in 12 megabytes of data, which the researchers stored as zeros and ones on a computer."
+    },
+    {
+      "heading": "Huge quantities of randomness in a small space",
+      "text": "However, an analysis showed that the distribution of the four building blocks A, C, G and T was not completely even. Either the intricacies of nature or the synthesis method deployed led to the bases G and T being integrated more frequently in the molecules than A and C. Nonetheless, the scientists were able to correct this bias with a simple algorithm, thereby generating perfect random numbers.\n\nThe main aim of ETH Professor Grass and his team was to show that random occurrences in chemical reaction can be exploited to generate perfect random numbers. Translating the finding into a direct application was not a prime concern at first. “Compared with other methods, however, ours has the advantage of being able to generate huge quantities of randomness that can be stored in an extremely small space, a single test tube,” Grass says. “We can read out the information and reinterpret it in digital form at a later date. This is impossible with the previous methods.”\n\nMeiser LC, Koch J, Antkowiak PL, Stark WJ, Heckel R, Grass RN: DNA synthesis for true random number generation, Nature Communications, 18. November 2020, doi: 10.1038/s41467-020-19757-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 583,
+        "end": 588
+      },
+      {
+        "text": "Robert Grass",
+        "label": "PERSON",
+        "start": 618,
+        "end": 630
+      },
+      {
+        "text": "the Institute of Chemical and Bioengineering",
+        "label": "ORG",
+        "start": 645,
+        "end": 689
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 27,
+        "end": 30
+      },
+      {
+        "text": "many years",
+        "label": "DATE",
+        "start": 146,
+        "end": 156
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 332,
+        "end": 335
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 343,
+        "end": 347
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 466,
+        "end": 470
+      },
+      {
+        "text": "approximately three",
+        "label": "CARDINAL",
+        "start": 611,
+        "end": 630
+      },
+      {
+        "text": "five million",
+        "label": "CARDINAL",
+        "start": 751,
+        "end": 763
+      },
+      {
+        "text": "12 megabytes",
+        "label": "QUANTITY",
+        "start": 801,
+        "end": 813
+      },
+      {
+        "text": "zeros",
+        "label": "CARDINAL",
+        "start": 855,
+        "end": 860
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 57,
+        "end": 61
+      },
+      {
+        "text": "C. Nonetheless",
+        "label": "PERSON",
+        "start": 269,
+        "end": 283
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 415,
+        "end": 418
+      },
+      {
+        "text": "Grass",
+        "label": "PERSON",
+        "start": 429,
+        "end": 434
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 635,
+        "end": 640
+      },
+      {
+        "text": "Grass",
+        "label": "PERSON",
+        "start": 829,
+        "end": 834
+      },
+      {
+        "text": "a later date",
+        "label": "DATE",
+        "start": 912,
+        "end": 924
+      },
+      {
+        "text": "Koch J",
+        "label": "PERSON",
+        "start": 984,
+        "end": 990
+      },
+      {
+        "text": "Antkowiak PL",
+        "label": "PERSON",
+        "start": 992,
+        "end": 1004
+      },
+      {
+        "text": "Stark WJ",
+        "label": "PERSON",
+        "start": 1006,
+        "end": 1014
+      },
+      {
+        "text": "Grass",
+        "label": "PERSON",
+        "start": 1026,
+        "end": 1031
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1085,
+        "end": 1106
+      },
+      {
+        "text": "November 2020",
+        "label": "DATE",
+        "start": 1112,
+        "end": 1125
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1132,
+        "end": 1139
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Antkowiak PL",
+        "C. Nonetheless",
+        "Grass",
+        "Koch J",
+        "Robert Grass",
+        "Stark WJ"
+      ],
+      "ORG": [
+        "ETH",
+        "Nature Communications",
+        "the Institute of Chemical and Bioengineering"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "November 2020",
+        "a later date",
+        "many years"
+      ],
+      "MISC": [
+        "10.1038",
+        "12 megabytes",
+        "approximately three",
+        "first",
+        "five million",
+        "four",
+        "one",
+        "zeros"
+      ]
+    },
+    "entity_counts": {
+      "four": 3,
+      "Grass": 3,
+      "first": 2,
+      "ETH": 2,
+      "Robert Grass": 1,
+      "the Institute of Chemical and Bioengineering": 1,
+      "many years": 1,
+      "one": 1,
+      "approximately three": 1,
+      "five million": 1,
+      "12 megabytes": 1,
+      "zeros": 1,
+      "C. Nonetheless": 1,
+      "a later date": 1,
+      "Koch J": 1,
+      "Antkowiak PL": 1,
+      "Stark WJ": 1,
+      "Nature Communications": 1,
+      "November 2020": 1,
+      "10.1038": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-biochemical-random-number.md",
+      "title": "En News Events/2020/11/a Biochemical Random Number",
+      "language": "en",
+      "source_path": "en_news_events/2020/11/a-biochemical-random-number.html"
+    },
+    "temporal": {
+      "publication_date": "2020-11",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Antkowiak PL",
+        "C. Nonetheless",
+        "Grass",
+        "Koch J",
+        "Robert Grass",
+        "Stark WJ"
+      ],
+      "people_with_roles": {
+        "Grass": [
+          "Professor",
+          "professor"
+        ],
+        "Robert Grass": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "12 megabytes",
+        "approximately three",
+        "first",
+        "five million",
+        "four",
+        "zeros"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Biochemical Random",
+        "En News",
+        "Meiser LC",
+        "Robert Grass",
+        "Number True",
+        "ETH Professor",
+        "Antkowiak PL",
+        "Nature Communications",
+        "Grass RN",
+        "Heckel R",
+        "Koch J",
+        "Stark WJ"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Nature Communications",
+        "the Institute of Chemical and Bioengineering"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "four",
+        "Grass",
+        "first",
+        "ETH",
+        "Robert Grass",
+        "the Institute of Chemical and Bioengineering",
+        "many years",
+        "one",
+        "approximately three",
+        "five million"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "DNA synthesis with random building blocks",
+          "DNA synthesis with random building blocks",
+          "Huge quantities of randomness in a small space"
+        ],
+        "content_length": 3057
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the Institute of Chemical and Bioengineering",
+        "Robert Grass",
+        "2020",
+        "Grass",
+        "Antkowiak PL",
+        "Nature Communications",
+        "C. Nonetheless",
+        "Koch J",
+        "Stark WJ"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "five million",
+        "zeros",
+        "four",
+        "who",
+        "10.1038",
+        "12 megabytes",
+        "chemistry",
+        "when",
+        "what",
+        "how",
+        "approximately three",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Grass_has_role_Professor",
+        "Grass_has_role_professor",
+        "Robert Grass_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

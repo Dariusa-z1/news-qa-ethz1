@@ -1,0 +1,544 @@
+{
+  "filename": "einzelne-lebende-zellen-anzapfen.md",
+  "original_filename": "einzelne-lebende-zellen-anzapfen.html",
+  "source_path": "de_news_events/2016/07/einzelne-lebende-zellen-anzapfen.html",
+  "date": "2016-07",
+  "title": "Einzelne Lebende Zellen Anzapfen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Beprobte Zellen bleiben am Leben",
+      "text": "Forschende der ETH Zürich haben eine Methode entwickelt, um einzelne lebende Zellen mit einer Mikro-Injektionsnadel anzupiksen und deren Inhalt auszusaugen. Angewandt werden kann die Technik etwa bei Zellkulturen, um das Innere der Zellen zu untersuchen. Sie ermöglicht, auf molekularer Ebene Unterschiede zwischen einzelnen Zellen zu erkennen und damit auch seltene Zelltypen zu finden und zu analysieren. «Unsere Methode erweitert das Repertoire der biologischen Forschung enorm. Wir öffnen quasi ein neues Kapitel», sagt Julia Vorholt, Professorin am Departement Biologie.\n\nSo hat die Methode zahlreiche Vorteile: Es ist mit ihr möglich, einzelne Zellen einer Gewebekultur direkt in der Zellkulturschale zu beproben. «Wir können somit der Frage nachgehen, wie eine Zelle im Zellverband ihre Nachbarzellen beeinflusst», sagt Orane Guillaume-Gentil, Postdoc in der Gruppe von Vorholt. Mit bisherigen Standardmethoden wären solche Untersuchungen nicht möglich, da für molekulare Analysen die Zellen eines Verbands in der Regel voneinander getrennt, in Lösung gebracht und zerstört werden."
+    },
+    {
+      "heading": "Beprobte Zellen bleiben am Leben",
+      "text": "Ausserdem lässt sich die Mikronadel so genau steuern, dass die Wissenschaftler gezielt entweder den Inhalt des Zellkerns oder die den Zellkern umgebende Flüssigkeit, das Cytosol, anzapfen können. Und schliesslich können die Forschenden extrem präzis bestimmen, welche Menge Zellinhalt sie absaugen – bis auf einen Zehntel Pikoliter genau (auf einen Zehnmilliardstel eines Milliliters). Zum Vergleich: Das Volumen einer Zelle ist zehn- bis hundertmal grösser."
+    },
+    {
+      "heading": "Literaturhinweis",
+      "text": "Prinzip der Einzelzellanalysen mittels FluidFM. (Grafik: Guillaume-Gentil O et al. Cell 2016)\n\nMit der Mikronadel angezapfte Zellen bleiben am Leben. Dadurch können die Forschenden ein und dieselbe Zelle mehrmals beproben und deren RNA und Proteine – sowie in Zukunft möglicherweise auch Stoffwechselprodukte – analysieren. «Dass die von uns untersuchten Zellen selbst dann überlebten, als wir mit der Nadel einen Grossteil ihres Cytosols extrahierten, überraschte uns», sagt ETH-Professorin Vorholt. Dies untermaure jedoch, wie erstaunlich anpassungsfähig biologische Zellen seien.\n\nDie neue Zellextraktionsmethode basiert auf dem in den vergangenen Jahren an der ETH Zürich entwickelten Mikroinjektionssystem FluidFM, das als «kleinste Injektionsnadel der Welt» gilt. Damit konnten Biologen schon bisher Stoffe in einzelne Zellen injizieren. Ebenfalls eignete sich FluidFM und dessen Mikronadel, um Zellen mit Unterdruck sanft anzuheben und sie umzuplatzieren.\n\nUm nun auch Stoffe aus Zellen extrahieren zu können, entwickelten Vorholt und ihre Gruppe das System weiter. «Besonders wichtig war, für die Nadel eine geeignete Beschichtung zu finden, damit sich keine Zellinhaltsstoffe darin ablagern», sagt Guillaume-Gentil. Ausserdem galt es, die Analysetechniken für die Zellinhaltsstoffe – etwa solche zur Messung der Aktivität von Enzymen – an die winzigen Messvolumen anzupassen. Die Weiterentwicklung des Systems erfolgte in enger Zusammenarbeit mit Forschern um Tomaso Zambelli, Privatdozent am Departement Informationstechnologie und Elektrotechnik der ETH Zürich, mit Martin Pilhofer, Professor am Institut für Molekularbiologie und Biophysik, sowie mit dem ETH-Spin-off Cytosurge, welches die FluidFM-Technik vermarktet.\n\nGuillaume-Gentil O, Grindberg RV, Kooger R, Dorwling-Cater L, Martinez V, Ossola D, Pilhofer M, Zambelli T, Vorholt JA: Tunable single-cell extraction for molecular analysis. Cell 2016, 166: 506-516, doi: externe Seite 10.1016/j.cell.2016.06.025"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Anzapfen",
+        "label": "LOC",
+        "start": 47,
+        "end": 55
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 15,
+        "end": 25
+      },
+      {
+        "text": "Angewandt",
+        "label": "PER",
+        "start": 157,
+        "end": 166
+      },
+      {
+        "text": "Unterschiede",
+        "label": "LOC",
+        "start": 293,
+        "end": 305
+      },
+      {
+        "text": "Unsere Methode",
+        "label": "MISC",
+        "start": 408,
+        "end": 422
+      },
+      {
+        "text": "Julia Vorholt",
+        "label": "PER",
+        "start": 524,
+        "end": 537
+      },
+      {
+        "text": "Orane Guillaume-Gentil",
+        "label": "PER",
+        "start": 826,
+        "end": 848
+      },
+      {
+        "text": "Postdoc",
+        "label": "PER",
+        "start": 850,
+        "end": 857
+      },
+      {
+        "text": "Vorholt",
+        "label": "LOC",
+        "start": 876,
+        "end": 883
+      },
+      {
+        "text": "Standardmethoden",
+        "label": "ORG",
+        "start": 900,
+        "end": 916
+      },
+      {
+        "text": "Mikronadel",
+        "label": "LOC",
+        "start": 25,
+        "end": 35
+      },
+      {
+        "text": "Cytosol",
+        "label": "PER",
+        "start": 170,
+        "end": 177
+      },
+      {
+        "text": "Menge",
+        "label": "PER",
+        "start": 268,
+        "end": 273
+      },
+      {
+        "text": "Pikoliter",
+        "label": "LOC",
+        "start": 322,
+        "end": 331
+      },
+      {
+        "text": "FluidFM",
+        "label": "MISC",
+        "start": 39,
+        "end": 46
+      },
+      {
+        "text": "Guillaume-Gentil O et al. Cell",
+        "label": "ORG",
+        "start": 57,
+        "end": 87
+      },
+      {
+        "text": "Mikronadel",
+        "label": "LOC",
+        "start": 102,
+        "end": 112
+      },
+      {
+        "text": "ETH-Professorin",
+        "label": "ORG",
+        "start": 475,
+        "end": 490
+      },
+      {
+        "text": "Vorholt",
+        "label": "ORG",
+        "start": 491,
+        "end": 498
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 663,
+        "end": 673
+      },
+      {
+        "text": "FluidFM",
+        "label": "MISC",
+        "start": 709,
+        "end": 716
+      },
+      {
+        "text": "FluidFM",
+        "label": "MISC",
+        "start": 865,
+        "end": 872
+      },
+      {
+        "text": "Guillaume-Gentil",
+        "label": "ORG",
+        "start": 1204,
+        "end": 1220
+      },
+      {
+        "text": "Systems",
+        "label": "MISC",
+        "start": 1408,
+        "end": 1415
+      },
+      {
+        "text": "Forschern",
+        "label": "MISC",
+        "start": 1453,
+        "end": 1462
+      },
+      {
+        "text": "Tomaso Zambelli",
+        "label": "PER",
+        "start": 1466,
+        "end": 1481
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1558,
+        "end": 1568
+      },
+      {
+        "text": "Martin Pilhofer",
+        "label": "PER",
+        "start": 1574,
+        "end": 1589
+      },
+      {
+        "text": "Institut für Molekularbiologie und Biophysik",
+        "label": "ORG",
+        "start": 1604,
+        "end": 1648
+      },
+      {
+        "text": "Cytosurge",
+        "label": "PER",
+        "start": 1677,
+        "end": 1686
+      },
+      {
+        "text": "Guillaume-Gentil O",
+        "label": "PER",
+        "start": 1728,
+        "end": 1746
+      },
+      {
+        "text": "Grindberg RV",
+        "label": "PER",
+        "start": 1748,
+        "end": 1760
+      },
+      {
+        "text": "Kooger R",
+        "label": "ORG",
+        "start": 1762,
+        "end": 1770
+      },
+      {
+        "text": "Dorwling-Cater L",
+        "label": "PER",
+        "start": 1772,
+        "end": 1788
+      },
+      {
+        "text": "Martinez V",
+        "label": "PER",
+        "start": 1790,
+        "end": 1800
+      },
+      {
+        "text": "Ossola D",
+        "label": "PER",
+        "start": 1802,
+        "end": 1810
+      },
+      {
+        "text": "Pilhofer M",
+        "label": "ORG",
+        "start": 1812,
+        "end": 1822
+      },
+      {
+        "text": "Zambelli T",
+        "label": "PER",
+        "start": 1824,
+        "end": 1834
+      },
+      {
+        "text": "Vorholt JA",
+        "label": "ORG",
+        "start": 1836,
+        "end": 1846
+      },
+      {
+        "text": "Cell",
+        "label": "LOC",
+        "start": 1903,
+        "end": 1907
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Angewandt",
+        "Cytosol",
+        "Cytosurge",
+        "Dorwling-Cater L",
+        "Grindberg RV",
+        "Guillaume-Gentil O",
+        "Julia Vorholt",
+        "Martin Pilhofer",
+        "Martinez V",
+        "Menge",
+        "Orane Guillaume-Gentil",
+        "Ossola D",
+        "Postdoc",
+        "Tomaso Zambelli",
+        "Zambelli T"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Professorin",
+        "Guillaume-Gentil",
+        "Guillaume-Gentil O et al. Cell",
+        "Institut für Molekularbiologie und Biophysik",
+        "Kooger R",
+        "Pilhofer M",
+        "Standardmethoden",
+        "Vorholt",
+        "Vorholt JA"
+      ],
+      "LOCATION": [
+        "Anzapfen",
+        "Cell",
+        "Mikronadel",
+        "Pikoliter",
+        "Unterschiede",
+        "Vorholt"
+      ],
+      "DATE": [],
+      "MISC": [
+        "FluidFM",
+        "Forschern",
+        "Systems",
+        "Unsere Methode"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 3,
+      "FluidFM": 3,
+      "Vorholt": 2,
+      "Mikronadel": 2,
+      "Anzapfen": 1,
+      "Angewandt": 1,
+      "Unterschiede": 1,
+      "Unsere Methode": 1,
+      "Julia Vorholt": 1,
+      "Orane Guillaume-Gentil": 1,
+      "Postdoc": 1,
+      "Standardmethoden": 1,
+      "Cytosol": 1,
+      "Menge": 1,
+      "Pikoliter": 1,
+      "Guillaume-Gentil O et al. Cell": 1,
+      "ETH-Professorin": 1,
+      "Guillaume-Gentil": 1,
+      "Systems": 1,
+      "Forschern": 1
+    },
+    "total_entities": 40,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "einzelne-lebende-zellen-anzapfen.md",
+      "title": "De News Events/2016/07/einzelne Lebende Zellen Anzapfen",
+      "language": "de",
+      "source_path": "de_news_events/2016/07/einzelne-lebende-zellen-anzapfen.html"
+    },
+    "temporal": {
+      "publication_date": "2016-07",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Angewandt",
+        "Cytosol",
+        "Cytosurge",
+        "Dorwling-Cater L",
+        "Grindberg RV",
+        "Guillaume-Gentil O",
+        "Julia Vorholt",
+        "Martin Pilhofer",
+        "Martinez V",
+        "Menge",
+        "Orane Guillaume-Gentil",
+        "Ossola D",
+        "Postdoc",
+        "Tomaso Zambelli",
+        "Zambelli T"
+      ],
+      "people_with_roles": {
+        "Cytosol": [
+          "professor"
+        ],
+        "Cytosurge": [
+          "professor"
+        ],
+        "Julia Vorholt": [
+          "professor"
+        ],
+        "Martin Pilhofer": [
+          "professor"
+        ],
+        "Tomaso Zambelli": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "FluidFM",
+        "Forschern",
+        "Systems",
+        "Unsere Methode"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Zum Vergleich",
+        "Departement Biologie",
+        "Ossola D",
+        "Grindberg RV",
+        "Vorholt JA",
+        "Die Weiterentwicklung",
+        "Julia Vorholt",
+        "Pilhofer M",
+        "Kooger R",
+        "Orane Guillaume",
+        "Tomaso Zambelli",
+        "ETH-Spin",
+        "Dorwling-Cater",
+        "Anzapfen Forschende",
+        "Mikro-Injektionsnadel",
+        "Martin Pilhofer",
+        "ETH-Professorin",
+        "Mikroinjektionssystem FluidFM",
+        "Departement Informationstechnologie",
+        "Das Volumen",
+        "Menge Zellinhalt",
+        "FluidFM-Technik",
+        "Zehntel Pikoliter",
+        "Ebene Unterschiede",
+        "Unsere Methode",
+        "Martinez V",
+        "Guillaume-Gentil",
+        "Lebende Zellen",
+        "De News",
+        "Zambelli T"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Professorin",
+        "Guillaume-Gentil",
+        "Guillaume-Gentil O et al. Cell",
+        "Institut für Molekularbiologie und Biophysik",
+        "Kooger R",
+        "Pilhofer M",
+        "Standardmethoden",
+        "Vorholt",
+        "Vorholt JA"
+      ],
+      "locations": [
+        "Anzapfen",
+        "Cell",
+        "Mikronadel",
+        "Pikoliter",
+        "Unterschiede",
+        "Vorholt"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "FluidFM",
+        "Vorholt",
+        "Mikronadel",
+        "Anzapfen",
+        "Angewandt",
+        "Unterschiede",
+        "Unsere Methode",
+        "Julia Vorholt",
+        "Orane Guillaume-Gentil"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Beprobte Zellen bleiben am Leben",
+          "Beprobte Zellen bleiben am Leben",
+          "Literaturhinweis"
+        ],
+        "content_length": 3581
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Ossola D",
+        "Grindberg RV",
+        "Postdoc",
+        "Menge",
+        "Vorholt JA",
+        "2016",
+        "Julia Vorholt",
+        "Cytosurge",
+        "Pilhofer M",
+        "Kooger R",
+        "Standardmethoden",
+        "Angewandt",
+        "Orane Guillaume-Gentil",
+        "Tomaso Zambelli",
+        "ETH Zürich",
+        "Vorholt",
+        "Cytosol",
+        "Martin Pilhofer",
+        "ETH-Professorin",
+        "Guillaume-Gentil O et al. Cell",
+        "Institut für Molekularbiologie und Biophysik",
+        "EU",
+        "Martinez V",
+        "Guillaume-Gentil O",
+        "Dorwling-Cater L",
+        "Guillaume-Gentil",
+        "Zambelli T"
+      ],
+      "semantic_concepts": [
+        "mathematics",
+        "FluidFM",
+        "who",
+        "Forschern",
+        "chemistry",
+        "biology",
+        "what",
+        "Systems",
+        "Unsere Methode",
+        "how"
+      ],
+      "graph_relations": [
+        "Cytosol_has_role_professor",
+        "Cytosurge_has_role_professor",
+        "Julia Vorholt_has_role_professor",
+        "Martin Pilhofer_has_role_professor",
+        "Tomaso Zambelli_has_role_professor",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

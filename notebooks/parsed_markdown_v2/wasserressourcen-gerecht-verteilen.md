@@ -1,0 +1,48 @@
+# wasserressourcen-gerecht-verteilen.html
+
+**Source:** de_news_events/2021/07/wasserressourcen-gerecht-verteilen.html
+
+## Den Nexus adressieren
+
+Flüsse sind die Lebensadern vieler Länder. Sie schaffen wertvolle Ökosysteme, liefern Trinkwasser für die Menschen und Brauchwasser für die Landwirtschaft und Industrie. Insbesondere im Globalen Süden herrscht ein starker Wettbewerb um den Zugang zu Süsswasserressourcen. Durch die zunehmende Nutzung von Wasserkraft hat sich dieser Wettbewerb in jüngster Zeit noch verschärft.
+
+Zum Beispiel Äthiopien: Als das Land 2015 den Megastaudamm Gibe III am Fluss Omo zu füllen begann, fehlte flussabwärts gelegenen Nutzern ein Teil des Wasservolumens. Die natürlichen Überflutungen fielen schwächer aus und schwemmten weniger fruchtbaren Schlamm an die Ufer. Der Pegel des kenianischen Turkana-Sees, in den der Omo mündet, sank vorübergehend um zwei Meter ab. Die Folgen für die Menschen und die Landwirtschaft waren beträchtlich.
+
+## Den Nexus adressieren
+
+Das Wirkungsgeflecht zwischen Wasser, Energie, Nahrungsmitteln und Ökosystemen – von Fachleuten als Nexus bezeichnet – führt in den Einzugsgebieten von grenzüberschreitenden Flüssen häufig zu vielseitigen Konflikten. Einschneidende Infrastrukturbauten wie Staudämme oder Bewässerungsanlagen sorgten in der Vergangenheit immer wieder für politische Spannungen zwischen Anrainerstaaten.
+
+Ein internationales Forschungsteam unter Federführung der ETH Zürich hat nun ein strategisches Instrumentarium entwickelt, das solche Konflikte um die Wassernutzung entschärfen kann. Im Horizon-2020-Projekt « externe Seite DAFNE » der EU arbeiteten 14 Forschungspartner aus Europa und Afrika zusammen, um Wege hin zu einer gerechteren Bewirtschaftung von Wasserressourcen zu finden.
+
+«Wir wollten zeigen, dass man den Nexus zwischen Wasser, Energie, Nahrungsmitteln und Ökosystemen auch in grossen und grenzüberschreitenden Flusseinzugsgebieten mit verschiedensten Nutzern nachhaltig steuern kann», sagt Paolo Burlando, Professor für Hydrologie und Wasserwirtschaft an der ETH Zürich.
+
+## Interessen einbinden und ausgleichen
+
+Es gilt heute zwar als anerkannt, dass man Wassereinzugsgebiete ganzheitlich planen und die Bedürfnisse aller Betroffenen berücksichtigen sollte. Multidimensionale Entscheidungsprobleme mit etlichen Beteiligten erschweren es allerdings, allgemein akzeptierte Lösungen auszuhandeln.
+
+«Konventionelle Planungswerkzeuge sind solchen Herausforderungen meist nicht gewachsen», erklärt Burlando, der das DAFNE-Konsortium in den vergangenen vier Jahren geleitet hat. Deshalb entwickelte das Projektteam ein neuartiges Verfahren, mit dem sich Zielkonflikte im Wasser-Energie-Nahrungsmittel-Nexus abbilden und quantifizieren lassen.
+
+Der Ansatz basiert auf den Prinzipien der partizipativen und integrierten Planung und Bewirtschaftung von Wasserressourcen, welche die Rolle und Interessen der Betroffenen betont. Die DAFNE-Methodik ist darauf ausgerichtet, Anspruchsgruppen einzubinden und gemeinsam Kompromisse und Synergien zu finden. «Der Schlüssel liegt darin, Lösungen zu finden, die für alle vorteilhaft sind, die Umwelt berücksichtigen und auch wirtschaftlich Sinn ergeben», erklärt Burlando.
+
+## Modelle, die den Dialog ermöglichen
+
+DAFNE verwendet modernste Modellierungsverfahren und digitale Lösungen, um die partizipative Planung zu ermöglichen: Ein strategisches Entscheidungstool erlaubt es, die sozialen, wirtschaftlichen und ökologischen Folgen von Eingriffen quantitativ zu bewerten. Anwenderinnen können damit gangbare Entwicklungspfade identifizieren. Ausgewählte Pfade werden mit Hilfe eines hydrologischen Modells und hochaufgelöster Klimaszenarien detailliert simuliert, um die Auswirkungen auf die jeweiligen Wasserressourcen genau zu analysieren. Ein Visualisierungstool hilft schliesslich dabei, Zusammenhänge zu verdeutlichen und Probleme aus verschiedenen Nutzerperspektiven zu betrachten.
+
+«Die Modelle zielen darauf ab, die kontinuierliche Verhandlung zwischen den Interessengruppen zu erleichtern – das ist ein Schlüsselelement des DAFNE-Ansatzes», sagt Senior Scientist Scott Sinclair, der den Modellierungsansatz mitentwickelt hat.
+
+## Fallstudien mit lokalen Stakeholdern
+
+Im Fokus des DAFNE-Projekts standen zwei grosse Flussgebiete in Ost- und Südafrika, in denen die Forschenden ihre Methodik anhand von Fallstudien testeten: die Einzugsgebiete Omo-Turkana und Sambesi. In beiden Fallstudien waren reale Anspruchsgruppen in die Entwicklung der DAFNE-Ansätze involviert. Sie setzten diese ein, um alternative Betriebsmodi von Kraftwerken und Bewässerungsanlagen zu testen und nachhaltigere Nutzungsszenarien für ihr Einzugsgebiet zu entwerfen. Ihre Standpunkte tauschten sie in simulierten Verhandlungen mit realen Konfliktparteien aus.
+
+## Literaturhinweis
+
+Talsperre am Omo: Der Staudamm Gibe III (2016). (Bild: Mimi Abebayehu / Wikimedia Commons)
+
+Im Omo-Turkana-Einzugsgebiet verwendeten die Wissenschaftler ihre Methodik für eine retrospektive Analyse der umstrittenen zweijährigen Füllphase des Megastaudamms Gibe III in Äthiopien. «Wir stellten fest, dass die negativen Folgen für die flussabwärtigen Anrainer durch eine anhaltende Dürre verstärkt wurden», berichtet Burlando. Die DAFNE-Forschungsgruppe der Politecnico di Milano konnte in einer Studie in externe Seite Nature Communications mit Beteiligung von Burlando und Sinclair zeigen, dass sich die Probleme vermindern, wenn man die DAFNE-Werkzeuge mit Dürreprognosen kombiniert und das Füllregime an hydroklimatische Schwankungen anpasst.
+
+Die Ergebnisse der Studie sind hochaktuell: Äthiopien realisiert derzeit einen weiteren Megastaudamm im Omo-Turkana-Einzugsgebiet und befüllt den Grand Ethiopian Renaissance Dam am Blauen Nil. Weltweit sind rund 500 Dammprojekte in Regionen geplant, die vom Klimawandel betroffen sind. Wachsende Bevölkerung und steigender Wohlstand werden die Nachfrage nach Energie, Nahrung und Wasser weiter erhöhen. Die Forschenden hoffen, dass die DAFNE-Methodik dereinst eine Referenz werden könnte.
+
+«Wir haben die Modellierungswerkzeuge so konzipiert, dass sie auf andere Regionen mit konkurrierendem Wasserbedarf übertragbar sind», so Burlando. Bereits sind Folgeprojekte angelaufen, um die Technologie in weltweit mehreren Einzugsgebieten anzuwenden und weiterzuentwickeln.
+
+Zaniolo M, Giuliani M, Sinclair S, Burlando P, Castelletti A. When timing matters – misdesigned dam filling impacts hydropower sustainability. Nat Commun 12, 3056 (2021), doi: externe Seite 10.1038/s41467-021-23323-5
+

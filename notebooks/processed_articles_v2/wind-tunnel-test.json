@@ -1,0 +1,454 @@
+{
+  "filename": "wind-tunnel-test.md",
+  "original_filename": "wind-tunnel-test.html",
+  "source_path": "en_news_events/2017/10/wind-tunnel-test.html",
+  "date": "2017-10",
+  "title": "Wind Tunnel Test",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "No longer flying blind",
+      "text": "The skier buckles her boots, grabs her poles and snaps her goggles into place. She's ready to go – but she’s not on the piste. She’s in ETH Zurich's engineering lab. And there’s a good reason for this peculiar situation: up-and-coming athletes recently spent a week in the ETH’s wind tunnel testing a measuring method developed by the Institute of Fluid Dynamics. Ski racers, ski cross competitors and racing cyclists all attempted to find the most streamlined equipment and aerodynamic positions in the wind tunnel."
+    },
+    {
+      "heading": "Arrows and colours illustrate wind currents",
+      "text": "The skier buckles her boots, grabs her poles and snaps her goggles into place. She's ready to go – but she’s not on the piste. She’s in ETH Zurich's engineering lab. And there’s a good reason for this peculiar situation: up-and-coming athletes recently spent a week in the ETH’s wind tunnel testing a measuring method developed by the Institute of Fluid Dynamics. Ski racers, ski cross competitors and racing cyclists all attempted to find the most streamlined equipment and aerodynamic positions in the wind tunnel."
+    },
+    {
+      "heading": "No longer flying blind",
+      "text": "The week of testing was organised by the ETH spin-off streamwise in collaboration with a research group led by Professor Thomas Rösgen. They all have been working to develop the new measuring method, known as ProCap, over the past few years. “Conventional measurements in wind tunnels only provide information about the test object’s overall air resistance – but to identify where precisely the air resistance arises, it’s essential to look at the surrounding air currents,” explains Andreas Müller, a postdoc at ETH Zurich. Previously, this environment could only be captured using time-consuming quantitative methods or qualitative optical aids such as smoke. “For athletes, a traditional wind tunnel test means flying blind. Afterwards, they have to speculate for themselves where and how air resistance arose,” says Müller. And this is where the new method comes in: it records the surrounding air currents and visualises them onscreen in real time."
+    },
+    {
+      "heading": "Arrows and colours illustrate wind currents",
+      "text": "During the tests, a measuring probe in the wind tunnel scans the areas that are of interest. The probe measures the speed, direction and pressure of the wind currents and delivers this information directly to the computer. Thanks to software developed by ETH, it can be immediately visualised onscreen. Little arrows show the direction of the currents, while various colours indicate their strength. “With the new method, athletes, trainers and technicians can see straightaway onscreen which areas are causing the most air resistance” explains Andrin Landolt, a former ETH Zurich postdoc and the founder of streamwise This enables them to test out various positions and equipment types on location, saving significant amounts of time and money. “The test week is an important step towards implementing the method for real customers and moving it from a purely scientific application into the world of business,” says Landolt. The throng of illustrious guests during the test week testifies to the interest that the project has aroused: besides the up-and-coming athletes, ski legend Karl Frehsner and time trial world champion Tony Martin also dropped by the ETH wind tunnel. Like all the other trainers, athletes and technicians, they were able to follow the measurements on the big screen and discuss optimisations among themselves. This dialogue was only possible thanks to the live visualisation of the air currents.\n\nWhile streamwise focuses on commercialising the method, ETH is researching possible further developments. The next project: a future visualisation of the wind currents using augmented reality glasses. “This will be particularly helpful for the person carrying out the scans with the measuring probe. Thanks to augmented reality, they will be able to see the wind currents around the object ‘live’.”\n\nMotion Capture of Manually Operated Flow Probes. More...\n\nMueller, A., Landolt, A., Roesgen, T., Probe Capture for Quantitative Flow Visualization in Large Scale Wind Tunnels, Proc. of the 28th AIAA Conference, 2012. More..."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich's",
+        "label": "GPE",
+        "start": 136,
+        "end": 148
+      },
+      {
+        "text": "a week",
+        "label": "DATE",
+        "start": 259,
+        "end": 265
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 273,
+        "end": 276
+      },
+      {
+        "text": "the Institute of Fluid Dynamics",
+        "label": "ORG",
+        "start": 331,
+        "end": 362
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "GPE",
+        "start": 136,
+        "end": 148
+      },
+      {
+        "text": "a week",
+        "label": "DATE",
+        "start": 259,
+        "end": 265
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 273,
+        "end": 276
+      },
+      {
+        "text": "the Institute of Fluid Dynamics",
+        "label": "ORG",
+        "start": 331,
+        "end": 362
+      },
+      {
+        "text": "The week",
+        "label": "DATE",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "Thomas Rösgen",
+        "label": "PERSON",
+        "start": 121,
+        "end": 134
+      },
+      {
+        "text": "ProCap",
+        "label": "ORG",
+        "start": 209,
+        "end": 215
+      },
+      {
+        "text": "the past few years",
+        "label": "DATE",
+        "start": 222,
+        "end": 240
+      },
+      {
+        "text": "Andreas Müller",
+        "label": "PERSON",
+        "start": 484,
+        "end": 498
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 513,
+        "end": 523
+      },
+      {
+        "text": "Müller",
+        "label": "PERSON",
+        "start": 820,
+        "end": 826
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 255,
+        "end": 258
+      },
+      {
+        "text": "Andrin Landolt",
+        "label": "PERSON",
+        "start": 545,
+        "end": 559
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 570,
+        "end": 580
+      },
+      {
+        "text": "The test week",
+        "label": "DATE",
+        "start": 747,
+        "end": 760
+      },
+      {
+        "text": "Landolt",
+        "label": "ORG",
+        "start": 918,
+        "end": 925
+      },
+      {
+        "text": "the test week",
+        "label": "DATE",
+        "start": 967,
+        "end": 980
+      },
+      {
+        "text": "Karl Frehsner",
+        "label": "PERSON",
+        "start": 1084,
+        "end": 1097
+      },
+      {
+        "text": "Tony Martin",
+        "label": "PERSON",
+        "start": 1128,
+        "end": 1139
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1160,
+        "end": 1163
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1478,
+        "end": 1481
+      },
+      {
+        "text": "Mueller",
+        "label": "PERSON",
+        "start": 1878,
+        "end": 1885
+      },
+      {
+        "text": "A.",
+        "label": "PERSON",
+        "start": 1887,
+        "end": 1889
+      },
+      {
+        "text": "Landolt",
+        "label": "LOC",
+        "start": 1891,
+        "end": 1898
+      },
+      {
+        "text": "Roesgen",
+        "label": "ORG",
+        "start": 1904,
+        "end": 1911
+      },
+      {
+        "text": "T., Probe Capture for Quantitative Flow Visualization",
+        "label": "ORG",
+        "start": 1913,
+        "end": 1966
+      },
+      {
+        "text": "Scale Wind Tunnels",
+        "label": "PERSON",
+        "start": 1976,
+        "end": 1994
+      },
+      {
+        "text": "Proc",
+        "label": "GPE",
+        "start": 1996,
+        "end": 2000
+      },
+      {
+        "text": "28th",
+        "label": "ORDINAL",
+        "start": 2009,
+        "end": 2013
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "A.",
+        "Andreas Müller",
+        "Andrin Landolt",
+        "Karl Frehsner",
+        "Mueller",
+        "Müller",
+        "Scale Wind Tunnels",
+        "Thomas Rösgen",
+        "Tony Martin"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Landolt",
+        "ProCap",
+        "Roesgen",
+        "T., Probe Capture for Quantitative Flow Visualization",
+        "the Institute of Fluid Dynamics"
+      ],
+      "LOCATION": [
+        "ETH Zurich's",
+        "Landolt",
+        "Proc"
+      ],
+      "DATE": [
+        "The test week",
+        "The week",
+        "a week",
+        "the past few years",
+        "the test week"
+      ],
+      "MISC": [
+        "28th"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 6,
+      "ETH Zurich's": 2,
+      "a week": 2,
+      "the Institute of Fluid Dynamics": 2,
+      "ETH Zurich": 2,
+      "Landolt": 2,
+      "The week": 1,
+      "Thomas Rösgen": 1,
+      "ProCap": 1,
+      "the past few years": 1,
+      "Andreas Müller": 1,
+      "Müller": 1,
+      "Andrin Landolt": 1,
+      "The test week": 1,
+      "the test week": 1,
+      "Karl Frehsner": 1,
+      "Tony Martin": 1,
+      "Mueller": 1,
+      "A.": 1,
+      "Roesgen": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "wind-tunnel-test.md",
+      "title": "En News Events/2017/10/wind Tunnel Test",
+      "language": "en",
+      "source_path": "en_news_events/2017/10/wind-tunnel-test.html"
+    },
+    "temporal": {
+      "publication_date": "2017-10",
+      "mentioned_years": [
+        "2012",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "A.",
+        "Andreas Müller",
+        "Andrin Landolt",
+        "Karl Frehsner",
+        "Mueller",
+        "Müller",
+        "Scale Wind Tunnels",
+        "Thomas Rösgen",
+        "Tony Martin"
+      ],
+      "people_with_roles": {
+        "Thomas Rösgen": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "28th"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Fluid Dynamics",
+        "Professor Thomas",
+        "Flow Probes",
+        "En News",
+        "Tony Martin",
+        "Probe Capture",
+        "Motion Capture",
+        "Tunnel Test",
+        "Andrin Landolt",
+        "Large Scale",
+        "AIAA Conference",
+        "Wind Tunnels",
+        "Karl Frehsner",
+        "ETH Zurich",
+        "Manually Operated",
+        "Quantitative Flow"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Landolt",
+        "ProCap",
+        "Roesgen",
+        "T., Probe Capture for Quantitative Flow Visualization",
+        "the Institute of Fluid Dynamics"
+      ],
+      "locations": [
+        "ETH Zurich's",
+        "Landolt",
+        "Proc"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Zurich's",
+        "a week",
+        "the Institute of Fluid Dynamics",
+        "ETH Zurich",
+        "Landolt",
+        "The week",
+        "Thomas Rösgen",
+        "ProCap",
+        "the past few years"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "No longer flying blind",
+          "Arrows and colours illustrate wind currents",
+          "No longer flying blind",
+          "Arrows and colours illustrate wind currents"
+        ],
+        "content_length": 4075
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Mueller",
+        "ETH",
+        "T., Probe Capture for Quantitative Flow Visualization",
+        "the Institute of Fluid Dynamics",
+        "Scale Wind Tunnels",
+        "ERC",
+        "Andreas Müller",
+        "Müller",
+        "Andrin Landolt",
+        "Tony Martin",
+        "Thomas Rösgen",
+        "2012",
+        "ProCap",
+        "2017",
+        "Roesgen",
+        "Karl Frehsner",
+        "A.",
+        "ETH Zurich",
+        "Landolt"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "28th",
+        "what",
+        "how",
+        "computer_science",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Thomas Rösgen_has_role_Professor",
+        "Thomas Rösgen_has_role_professor",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

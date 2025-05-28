@@ -1,0 +1,169 @@
+{
+  "filename": "jahresbericht-2017-der-eth-bibliothek.md",
+  "original_filename": "jahresbericht-2017-der-eth-bibliothek.html",
+  "source_path": "de_internal/2018/08/jahresbericht-2017-der-eth-bibliothek.html",
+  "date": "2018-08",
+  "title": "Jahresbericht 2017 Der Eth Bibliothek",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Quiz zum Jahresbericht",
+      "text": "Der Jahresbericht zeigt dies anhand der verschiedenen Aktivitäten und Projekte auf, die uns 2017 beschäftigten. Eines dieser Projekte war beispielsweise die Research Collection der ETH Zürich , entwickelt und bereitgestellt von der ETH-Bibliothek.\n\nErfahren Sie dies und vieles mehr im Jahresbericht 2017 der ETH-Bibliothek."
+    },
+    {
+      "heading": "Quiz zum Jahresbericht",
+      "text": "Machen Sie bis 29.08.2018 bei unserem Quiz zum Jahresbericht mit und gewinnen Sie einen von drei ETH-Store Gutscheinen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/08/jahresbericht",
+        "label": "LOC",
+        "start": 0,
+        "end": 33
+      },
+      {
+        "text": "Eth Bibliothek",
+        "label": "LOC",
+        "start": 43,
+        "end": 57
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 181,
+        "end": 191
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 232,
+        "end": 246
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 308,
+        "end": 322
+      },
+      {
+        "text": "ETH-Store",
+        "label": "MISC",
+        "start": 97,
+        "end": 106
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Bibliothek"
+      ],
+      "LOCATION": [
+        "De Internal/2018/08/jahresbericht",
+        "Eth Bibliothek"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "ETH-Store"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 2,
+      "De Internal/2018/08/jahresbericht": 1,
+      "Eth Bibliothek": 1,
+      "ETH Zürich": 1,
+      "ETH-Store": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "jahresbericht-2017-der-eth-bibliothek.md",
+      "title": "De Internal/2018/08/jahresbericht 2017 der Eth Bibliothek",
+      "language": "de",
+      "source_path": "de_internal/2018/08/jahresbericht-2017-der-eth-bibliothek.html"
+    },
+    "temporal": {
+      "publication_date": "2018-08",
+      "mentioned_years": [
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "ETH-Store"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "De Internal",
+        "Research Collection",
+        "ETH-Store",
+        "Erfahren Sie",
+        "Der Jahresbericht",
+        "Machen Sie",
+        "Eth Bibliothek"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Bibliothek"
+      ],
+      "locations": [
+        "De Internal/2018/08/jahresbericht",
+        "Eth Bibliothek"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2018/08/jahresbericht",
+        "Eth Bibliothek",
+        "ETH Zürich",
+        "ETH-Store"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Quiz zum Jahresbericht",
+          "Quiz zum Jahresbericht"
+        ],
+        "content_length": 502
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "2018",
+        "ETH-Bibliothek",
+        "2017"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "what",
+        "ETH-Store"
+      ],
+      "graph_relations": []
+    }
+  }
+}

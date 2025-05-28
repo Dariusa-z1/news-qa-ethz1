@@ -1,0 +1,128 @@
+{
+  "filename": "informationen-ueber-die-eth-bibliothek-zielgerichtet-finden.md",
+  "original_filename": "informationen-ueber-die-eth-bibliothek-zielgerichtet-finden.html",
+  "source_path": "en_internal/2019/03/informationen-ueber-die-eth-bibliothek-zielgerichtet-finden.html",
+  "date": "2019-03",
+  "title": "Informationen Ueber Die Eth Bibliothek Zielgerichtet Finden",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "From now on, not only will you be able to find documents on the Search Portal , but also selected information about ETH Library and its services.\n\nType a term such as “opening times”, “open access” or “geosciences” in the search field. Links to ETH Library’s websites along with the corresponding information will then appear."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Bibliothek Zielgerichtet",
+        "label": "PERSON",
+        "start": 48,
+        "end": 72
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 116,
+        "end": 127
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "ORG",
+        "start": 244,
+        "end": 257
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bibliothek Zielgerichtet"
+      ],
+      "ORG": [
+        "ETH Library",
+        "ETH Library’s"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Bibliothek Zielgerichtet": 1,
+      "ETH Library": 1,
+      "ETH Library’s": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "informationen-ueber-die-eth-bibliothek-zielgerichtet-finden.md",
+      "title": "En Internal/2019/03/informationen Ueber die Eth Bibliothek Zielgerichtet Finden",
+      "language": "en",
+      "source_path": "en_internal/2019/03/informationen-ueber-die-eth-bibliothek-zielgerichtet-finden.html"
+    },
+    "temporal": {
+      "publication_date": "2019-03",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bibliothek Zielgerichtet"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Search Portal",
+        "ETH Library",
+        "En Internal",
+        "Zielgerichtet Finden",
+        "Eth Bibliothek"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library",
+        "ETH Library’s"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Bibliothek Zielgerichtet",
+        "ETH Library",
+        "ETH Library’s"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 406
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "ETH Library",
+        "Bibliothek Zielgerichtet",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

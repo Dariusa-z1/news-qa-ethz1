@@ -1,0 +1,554 @@
+{
+  "filename": "a-virus-that-kills-sleepers.md",
+  "original_filename": "a-virus-that-kills-sleepers.html",
+  "source_path": "en_news_events/2024/01/a-virus-that-kills-sleepers.html",
+  "date": "2024-01",
+  "title": "A Virus That Kills Sleepers",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- For the first time, ETH Zurich researchers have isolated a bacteriophage from rotting plant material that can attack and kill bacteria in a dormant state.\n\n- How the phage manages this is still unclear.\n\n- Combination therapy with this phage and an antibiotic eradicates many dormant germs in pure culture and in the mouse model."
+    },
+    {
+      "heading": "A lucky strike in a compost heap",
+      "text": "In nature, most bacteria live on the bare minimum. If they experience nutrient deficiency or stress, they shut down their metabolism in a controlled manner and go into a resting state. In this stand-by mode, certain metabolic processes still take place that enable the microbes to perceive their environment and react to stimuli, but growth and division are suspended.\n\nThis also protects bacteria from, say, antibiotics or from viruses that prey exclusively on bacteria. Such bacteria-infecting viruses, known as phages, are considered a possible alternative to antibiotics that are no longer (sufficiently) effective due to drug resistance. Until now, expert consensus held that phages successfully infect bacteria only when the latter are growing.\n\nResearchers at ETH Zurich asked themselves whether evolution might have produced bacteriophages that specialise in dormant bacteria and could be used to target them. They began their search in 2018. Now, in a new publication in the journal Nature Communications , they show that such phages, though rare, do indeed exist."
+    },
+    {
+      "heading": "A lucky strike in a compost heap",
+      "text": "When ETH Professor Alexander Harms and his team at the Biozentrum of the University of Basel began their project in 2018, they assumed that within the first year, they would be able to isolate around 20 different phages that attack dormant bacteria. But this wasn’t the case: it wasn’t until 2019 that Harms’ doctoral student Enea Maffei isolated a new, previously unknown virus. Found in rotting plant material from a cemetery near Riehen (Canton of Basel-Stadt), this virus can infect and destroy dormant bacteria. “This is the first phage described in the literature that has been shown to attack bacteria in a dormant state,” Maffei says. Harms adds: “In view of the huge number of bacteriophages, however, I was always convinced that evolution must have produced some that can crack into dormant bacteria.” They have named their new phage Paride."
+    },
+    {
+      "heading": "Active against widespread bacteria",
+      "text": "The virus the researchers found infects Pseudomonas aeruginosa , a bacterium commonly found in many environments. Various strains colonise bodies of water, plants, the soil – and people. In the human body, certain strains can cause serious respiratory diseases such as pneumonia, which can be fatal.\n\nHow the new phage takes dormant P. aeruginosa germs by surprise, however, is not yet clear to the researchers. They suspect that the virus uses a specific molecular key to awaken the bacteria, and then hijacks the cell’s multiplication machinery for its own reproduction. However, the ETH researchers have not yet been able to clarify exactly how this works.\n\nThey thus aim to elucidate the genes or molecules that underlie this awakening mechanism. Based on this, they could develop substances in a test tube that take over the wake-up process. Such a substance could then be combined with a suitable antibiotic that completely eliminates the bacteria. “But we’re just at the beginning. The one thing we know for sure is that we know almost nothing,” Harms says."
+    },
+    {
+      "heading": "Initial tests show an effect",
+      "text": "To test the efficacy of the Paride phage, the researchers paired it with an antibiotic called meropenem. This disrupts cell wall synthesis and so it interferes only with cellular processes that don’t damage the phages. The antibiotic has no effect on dormant bacteria, as these don’t synthesise a new cell wall.\n\nWhen tested in cell culture dishes, the virus was able to kill 99 percent of all dormant bacteria but left 1 percent alive. Only the combination of Paride phages and meropenem was able to eradicate the bacterial culture completely, even though the latter had no detectable effect on its own.\n\nIn a further experiment together with Nina Khanna, a doctor at Basel University Hospital, Maffei tested this combination on mice with a chronic infection. Neither the phage nor the antibiotic alone worked particularly well in the mice, but the interaction between phages and antibiotics proved to be very effective in living organisms as well. “This shows that our discovery is not just a laboratory artefact, but could also be clinically relevant,” Maffei says."
+    },
+    {
+      "heading": "A glimmer of hope – but never more than that?",
+      "text": "Experts have been discussing phage therapy intensively for many years. Researchers and physicians hope that one day they will be able to use phages to replace antibiotics that have become ineffective. However, broad applications are still lacking, as there have not been any comprehensive studies. “What we have at present is mostly individual case studies,” Harms says.\n\nStudies by researchers at the Queen Astrid Military Hospital in Brussels showed that the treatment improved the condition of three-quarters of patients and that it was able to eliminate the bacteria in 61 percent. However, this also means that in four out of ten patients, the germs could not be removed with phage therapy, even though the bacteria in question were phage-sensitive in the lab. “This may be because many bacteria in the body are in a dormant state, especially in the case of chronic infections, and so phages can’t penetrate them,” Harms says. Dormant bacteria could also play an important role in infections with non-resistant strains.\n\n“In the case of infections, that means it would be important to know the physiological state of the bacteria in question. Then the right phages, combined with antibiotics, could be used in a targeted manner. However, you need to know exactly how a phage attacks a bacterium before you can select the right phages for a particular treatment. This hasn’t happened yet because we still know too little about the phages,” Harms explains.\n\nThat’s why in the years ahead, the researchers will investigate precisely how the new phage brings bacteria out of deep sleep, infects them and makes them susceptible to antibiotics. This work is funded by an SNSF Starting Grant to Alexander Harms and by NCCR AntiResist.\n\nMaffei E, Woischnig AK, Burkolter MR et al. Phage Paride can kill dormant, antibiotic-tolerant cells of Pseudomonas aeruginosa by direct lytic replication. Nat Commun 15, 175 (2024). doi: 10.1038/s41467-023-44157-3"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 10,
+        "end": 15
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 22,
+        "end": 32
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 765,
+        "end": 775
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 990,
+        "end": 1011
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "Alexander Harms",
+        "label": "PERSON",
+        "start": 19,
+        "end": 34
+      },
+      {
+        "text": "the Biozentrum of the University of Basel",
+        "label": "FAC",
+        "start": 51,
+        "end": 92
+      },
+      {
+        "text": "the first year",
+        "label": "DATE",
+        "start": 147,
+        "end": 161
+      },
+      {
+        "text": "around 20",
+        "label": "CARDINAL",
+        "start": 193,
+        "end": 202
+      },
+      {
+        "text": "Enea Maffei",
+        "label": "PERSON",
+        "start": 326,
+        "end": 337
+      },
+      {
+        "text": "Riehen",
+        "label": "GPE",
+        "start": 433,
+        "end": 439
+      },
+      {
+        "text": "Canton",
+        "label": "GPE",
+        "start": 441,
+        "end": 447
+      },
+      {
+        "text": "Basel-Stadt",
+        "label": "ORG",
+        "start": 451,
+        "end": 462
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 530,
+        "end": 535
+      },
+      {
+        "text": "Maffei",
+        "label": "PERSON",
+        "start": 630,
+        "end": 636
+      },
+      {
+        "text": "Pseudomonas",
+        "label": "NORP",
+        "start": 40,
+        "end": 51
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 585,
+        "end": 588
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 991,
+        "end": 994
+      },
+      {
+        "text": "99 percent",
+        "label": "PERCENT",
+        "start": 375,
+        "end": 385
+      },
+      {
+        "text": "1 percent",
+        "label": "PERCENT",
+        "start": 419,
+        "end": 428
+      },
+      {
+        "text": "Nina Khanna",
+        "label": "PERSON",
+        "start": 642,
+        "end": 653
+      },
+      {
+        "text": "Basel University Hospital",
+        "label": "ORG",
+        "start": 667,
+        "end": 692
+      },
+      {
+        "text": "Maffei",
+        "label": "GPE",
+        "start": 694,
+        "end": 700
+      },
+      {
+        "text": "Maffei",
+        "label": "PERSON",
+        "start": 1054,
+        "end": 1060
+      },
+      {
+        "text": "many years",
+        "label": "DATE",
+        "start": 59,
+        "end": 69
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 108,
+        "end": 115
+      },
+      {
+        "text": "the Queen Astrid Military Hospital",
+        "label": "ORG",
+        "start": 397,
+        "end": 431
+      },
+      {
+        "text": "Brussels",
+        "label": "GPE",
+        "start": 435,
+        "end": 443
+      },
+      {
+        "text": "three-quarters",
+        "label": "CARDINAL",
+        "start": 496,
+        "end": 510
+      },
+      {
+        "text": "61 percent",
+        "label": "PERCENT",
+        "start": 573,
+        "end": 583
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 618,
+        "end": 622
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 630,
+        "end": 633
+      },
+      {
+        "text": "the years ahead",
+        "label": "DATE",
+        "start": 1472,
+        "end": 1487
+      },
+      {
+        "text": "Alexander Harms",
+        "label": "PERSON",
+        "start": 1690,
+        "end": 1705
+      },
+      {
+        "text": "NCCR AntiResist",
+        "label": "ORG",
+        "start": 1713,
+        "end": 1728
+      },
+      {
+        "text": "Woischnig AK",
+        "label": "PERSON",
+        "start": 1740,
+        "end": 1752
+      },
+      {
+        "text": "Burkolter MR",
+        "label": "PERSON",
+        "start": 1754,
+        "end": 1766
+      },
+      {
+        "text": "Pseudomonas",
+        "label": "ORG",
+        "start": 1834,
+        "end": 1845
+      },
+      {
+        "text": "Nat Commun",
+        "label": "PERSON",
+        "start": 1886,
+        "end": 1896
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1918,
+        "end": 1925
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alexander Harms",
+        "Burkolter MR",
+        "Enea Maffei",
+        "Maffei",
+        "Nat Commun",
+        "Nina Khanna",
+        "Woischnig AK"
+      ],
+      "ORG": [
+        "Basel University Hospital",
+        "Basel-Stadt",
+        "ETH",
+        "ETH Zurich",
+        "NCCR AntiResist",
+        "Nature Communications",
+        "Pseudomonas",
+        "the Queen Astrid Military Hospital"
+      ],
+      "LOCATION": [
+        "Brussels",
+        "Canton",
+        "Maffei",
+        "Riehen",
+        "the Biozentrum of the University of Basel"
+      ],
+      "DATE": [
+        "many years",
+        "one day",
+        "the first year",
+        "the years ahead"
+      ],
+      "MISC": [
+        "1 percent",
+        "10.1038",
+        "61 percent",
+        "99 percent",
+        "Pseudomonas",
+        "around 20",
+        "first",
+        "four",
+        "one",
+        "ten",
+        "three-quarters"
+      ]
+    },
+    "entity_counts": {
+      "Maffei": 3,
+      "first": 2,
+      "ETH Zurich": 2,
+      "ETH": 2,
+      "Alexander Harms": 2,
+      "Pseudomonas": 2,
+      "Nature Communications": 1,
+      "the Biozentrum of the University of Basel": 1,
+      "the first year": 1,
+      "around 20": 1,
+      "Enea Maffei": 1,
+      "Riehen": 1,
+      "Canton": 1,
+      "Basel-Stadt": 1,
+      "one": 1,
+      "99 percent": 1,
+      "1 percent": 1,
+      "Nina Khanna": 1,
+      "Basel University Hospital": 1,
+      "many years": 1
+    },
+    "total_entities": 40,
+    "unique_entities": 33
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-virus-that-kills-sleepers.md",
+      "title": "En News Events/2024/01/a Virus That Kills Sleepers",
+      "language": "en",
+      "source_path": "en_news_events/2024/01/a-virus-that-kills-sleepers.html"
+    },
+    "temporal": {
+      "publication_date": "2024-01",
+      "mentioned_years": [
+        "2018",
+        "2019",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alexander Harms",
+        "Burkolter MR",
+        "Enea Maffei",
+        "Maffei",
+        "Nat Commun",
+        "Nina Khanna",
+        "Woischnig AK"
+      ],
+      "people_with_roles": {
+        "Alexander Harms": [
+          "Professor",
+          "professor"
+        ],
+        "Enea Maffei": [
+          "student"
+        ],
+        "Maffei": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "1 percent",
+        "10.1038",
+        "61 percent",
+        "99 percent",
+        "Pseudomonas",
+        "around 20",
+        "first",
+        "four",
+        "three-quarters"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "grant"
+      ],
+      "projects": [
+        "Queen Astrid",
+        "Virus That",
+        "Military Hospital",
+        "Kills Sleepers",
+        "Nina Khanna",
+        "Professor Alexander",
+        "Basel-Stadt",
+        "Nat Commun",
+        "NCCR AntiResist",
+        "Maffei E",
+        "Nature Communications",
+        "Woischnig AK",
+        "SNSF Starting",
+        "Burkolter MR",
+        "When ETH",
+        "Enea Maffei",
+        "Alexander Harms",
+        "En News",
+        "Phage Paride",
+        "Basel University",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Basel University Hospital",
+        "Basel-Stadt",
+        "ETH",
+        "ETH Zurich",
+        "NCCR AntiResist",
+        "Nature Communications",
+        "Pseudomonas",
+        "the Queen Astrid Military Hospital"
+      ],
+      "locations": [
+        "Brussels",
+        "Canton",
+        "Maffei",
+        "Riehen",
+        "the Biozentrum of the University of Basel"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Maffei",
+        "first",
+        "ETH Zurich",
+        "ETH",
+        "Alexander Harms",
+        "Pseudomonas",
+        "Nature Communications",
+        "the Biozentrum of the University of Basel",
+        "the first year",
+        "around 20"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "In brief",
+          "A lucky strike in a compost heap",
+          "A lucky strike in a compost heap",
+          "Active against widespread bacteria",
+          "Initial tests show an effect",
+          "A glimmer of hope – but never more than that?"
+        ],
+        "content_length": 6391
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "grant",
+        "the Queen Astrid Military Hospital",
+        "ERC",
+        "2018",
+        "Basel University Hospital",
+        "Nina Khanna",
+        "2019",
+        "Basel-Stadt",
+        "Nat Commun",
+        "EU",
+        "NCCR AntiResist",
+        "Nature Communications",
+        "Woischnig AK",
+        "Pseudomonas",
+        "2024",
+        "Burkolter MR",
+        "Enea Maffei",
+        "Alexander Harms",
+        "ETH Zurich",
+        "Maffei"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "61 percent",
+        "around 20",
+        "chemistry",
+        "99 percent",
+        "when",
+        "four",
+        "10.1038",
+        "biology",
+        "three-quarters",
+        "1 percent",
+        "medical_research",
+        "who",
+        "what",
+        "how",
+        "Pseudomonas",
+        "first",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Alexander Harms_has_role_Professor",
+        "Alexander Harms_has_role_professor",
+        "Enea Maffei_has_role_student",
+        "Maffei_has_role_student",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

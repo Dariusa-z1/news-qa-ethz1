@@ -1,0 +1,169 @@
+{
+  "filename": "search-for-materials-in-the-knowledge-portal.md",
+  "original_filename": "search-for-materials-in-the-knowledge-portal.html",
+  "source_path": "en_internal/2016/05/search-for-materials-in-the-knowledge-portal.html",
+  "date": "2016-05",
+  "title": "Search For Materials In The Knowledge Portal",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Consequently, the catalogue of ETH-Bibliothek now also contains around 1000 materials of the material groups wood, paper, metal, plastics, stone, glass, ceramic and dye.\n\nMaterial-Archive is a network of sample collections in the fields of architecture, art and design. The material collection in the Baubibliothek is one of eight locations, where you can access the physical sample materials on-site."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Materials in The Knowledge Portal",
+        "label": "WORK_OF_ART",
+        "start": 31,
+        "end": 64
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 31,
+        "end": 45
+      },
+      {
+        "text": "Material-Archive",
+        "label": "ORG",
+        "start": 170,
+        "end": 186
+      },
+      {
+        "text": "Baubibliothek",
+        "label": "LOC",
+        "start": 300,
+        "end": 313
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 317,
+        "end": 320
+      },
+      {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 324,
+        "end": 329
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH-Bibliothek",
+        "Material-Archive"
+      ],
+      "LOCATION": [
+        "Baubibliothek"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Materials in The Knowledge Portal",
+        "eight",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "Materials in The Knowledge Portal": 1,
+      "ETH-Bibliothek": 1,
+      "Material-Archive": 1,
+      "Baubibliothek": 1,
+      "one": 1,
+      "eight": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "search-for-materials-in-the-knowledge-portal.md",
+      "title": "En Internal/2016/05/search For Materials in The Knowledge Portal",
+      "language": "en",
+      "source_path": "en_internal/2016/05/search-for-materials-in-the-knowledge-portal.html"
+    },
+    "temporal": {
+      "publication_date": "2016-05",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Materials in The Knowledge Portal",
+        "eight"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "The Knowledge",
+        "Portal Consequently",
+        "En Internal",
+        "Material-Archive",
+        "For Materials"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek",
+        "Material-Archive"
+      ],
+      "locations": [
+        "Baubibliothek"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "Materials in The Knowledge Portal",
+        "ETH-Bibliothek",
+        "Material-Archive",
+        "Baubibliothek",
+        "one",
+        "eight"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 466
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "Material-Archive",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Materials in The Knowledge Portal",
+        "eight",
+        "engineering",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

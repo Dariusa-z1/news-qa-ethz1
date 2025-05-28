@@ -1,0 +1,354 @@
+{
+  "filename": "digitaltag.md",
+  "original_filename": "digitaltag.html",
+  "source_path": "de_news_events/2018/10/digitaltag.html",
+  "date": "2018-10",
+  "title": "Digitaltag",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der nationale Digitaltag, der dieses Jahr zum zweiten Mal stattfand, will die Bevölkerung für den digitalen Wandel sensibilisieren. Mit von der Partie war auch die ETH Zürich. Sie konzentrierte sich auf die beiden Themen Informatikausbildung von Schülerinnen und Schülern und die Digitalisierung in der Medizin. In beiden Bereichen spielt die Hochschule seit längerem eine massgebende Rolle.\n\nDas Ausbildungs- und Beratungszentrum für Informatikunterricht der ETH Zürich (ABZ) führte in Zusammenarbeit mit der Universität Basel und den Pädagogischen Hochschulen Bern, Graubünden, Luzern und Schaffhausen Programmierworkshops für Kinder durch. An sechs Standorten tauchten an diesem Tag über 600 Schülerinnen und Schüler in die faszinierende Welt des Programmierens ein und erfuhren dabei, dass Programmieren eine kreative Tätigkeit ist, die viel Spass macht. Dabei wurden den Kindern Fähigkeiten vermittelt, die ihnen das Leben in der digitalen Zukunft erleichtern werden.\n\nAuf erfreuliche Resonanz stiessen auch die Vorträge und Laborführungen zum Thema «Digitalisierung in der Medizin», welche die ETH Zürich zusammen mit der Universität Zürich sowie Partnern aus dem Gesundheitswesen organisierte. Expertinnen und Experten aus sehr unterschiedlichen Fachrichtungen zeigten dem interessierten Publikum nicht nur, welche Chancen digitale Methoden für Diagnose und Therapie eröffnen. Sie thematisierten auch die Herausforderungen, etwa die rechtlichen Folgen, die sich aus den heutigen Möglichkeiten der Datenverarbeitung ergeben. Wie bereits im Vorjahr war auch dieses Jahr die grosse Ausstellung im Hauptbahnhof Zürich der Publikumsmagnet des Digitaltags. Neben dem Exoskelett Myosuit, das vom ETH Spin-off Myoswiss zu einem markfähigen Produkt weiterentwickelt wird, zeigte die von ETH-Forschenden gegründete Genossenschaft Midata den Besucherinnen und Besuchern auf, wie diese sensible Informationen der Wissenschaft zur Verfügung stellen können, ohne die Kontrolle über die Daten zu verlieren."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Digitaltag",
+        "label": "MISC",
+        "start": 14,
+        "end": 24
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 164,
+        "end": 174
+      },
+      {
+        "text": "Rolle",
+        "label": "LOC",
+        "start": 385,
+        "end": 390
+      },
+      {
+        "text": "Ausbildungs- und Beratungszentrum für Informatikunterricht",
+        "label": "ORG",
+        "start": 396,
+        "end": 454
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 459,
+        "end": 469
+      },
+      {
+        "text": "ABZ",
+        "label": "ORG",
+        "start": 471,
+        "end": 474
+      },
+      {
+        "text": "Universität Basel",
+        "label": "ORG",
+        "start": 509,
+        "end": 526
+      },
+      {
+        "text": "Pädagogischen Hochschulen",
+        "label": "ORG",
+        "start": 535,
+        "end": 560
+      },
+      {
+        "text": "Bern",
+        "label": "LOC",
+        "start": 561,
+        "end": 565
+      },
+      {
+        "text": "Graubünden",
+        "label": "LOC",
+        "start": 567,
+        "end": 577
+      },
+      {
+        "text": "Luzern",
+        "label": "LOC",
+        "start": 579,
+        "end": 585
+      },
+      {
+        "text": "Schaffhausen",
+        "label": "LOC",
+        "start": 590,
+        "end": 602
+      },
+      {
+        "text": "Tag über 600 Schülerinnen",
+        "label": "MISC",
+        "start": 681,
+        "end": 706
+      },
+      {
+        "text": "Programmierens",
+        "label": "LOC",
+        "start": 749,
+        "end": 763
+      },
+      {
+        "text": "Programmieren",
+        "label": "PER",
+        "start": 793,
+        "end": 806
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1098,
+        "end": 1108
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 1126,
+        "end": 1144
+      },
+      {
+        "text": "Expertinnen",
+        "label": "PER",
+        "start": 1199,
+        "end": 1210
+      },
+      {
+        "text": "Hauptbahnhof Zürich",
+        "label": "LOC",
+        "start": 1599,
+        "end": 1618
+      },
+      {
+        "text": "Digitaltags",
+        "label": "ORG",
+        "start": 1643,
+        "end": 1654
+      },
+      {
+        "text": "Exoskelett Myosuit",
+        "label": "MISC",
+        "start": 1666,
+        "end": 1684
+      },
+      {
+        "text": "ETH Spin-off Myoswiss",
+        "label": "ORG",
+        "start": 1694,
+        "end": 1715
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 1783,
+        "end": 1798
+      },
+      {
+        "text": "Midata",
+        "label": "PER",
+        "start": 1825,
+        "end": 1831
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Expertinnen",
+        "Midata",
+        "Programmieren"
+      ],
+      "ORG": [
+        "ABZ",
+        "Ausbildungs- und Beratungszentrum für Informatikunterricht",
+        "Digitaltags",
+        "ETH Spin-off Myoswiss",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Pädagogischen Hochschulen",
+        "Universität Basel",
+        "Universität Zürich"
+      ],
+      "LOCATION": [
+        "Bern",
+        "Graubünden",
+        "Hauptbahnhof Zürich",
+        "Luzern",
+        "Programmierens",
+        "Rolle",
+        "Schaffhausen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Digitaltag",
+        "Exoskelett Myosuit",
+        "Tag über 600 Schülerinnen"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 3,
+      "De News": 1,
+      "Digitaltag": 1,
+      "Rolle": 1,
+      "Ausbildungs- und Beratungszentrum für Informatikunterricht": 1,
+      "ABZ": 1,
+      "Universität Basel": 1,
+      "Pädagogischen Hochschulen": 1,
+      "Bern": 1,
+      "Graubünden": 1,
+      "Luzern": 1,
+      "Schaffhausen": 1,
+      "Tag über 600 Schülerinnen": 1,
+      "Programmierens": 1,
+      "Programmieren": 1,
+      "Universität Zürich": 1,
+      "Expertinnen": 1,
+      "Hauptbahnhof Zürich": 1,
+      "Digitaltags": 1,
+      "Exoskelett Myosuit": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "digitaltag.md",
+      "title": "De News Events/2018/10/digitaltag",
+      "language": "de",
+      "source_path": "de_news_events/2018/10/digitaltag.html"
+    },
+    "temporal": {
+      "publication_date": "2018-10",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Expertinnen",
+        "Midata",
+        "Programmieren"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Digitaltag",
+        "Exoskelett Myosuit",
+        "Tag über 600 Schülerinnen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Hochschulen Bern",
+        "Themen Informatikausbildung",
+        "ETH Spin",
+        "Schaffhausen Programmierworkshops",
+        "ETH-Forschenden",
+        "De News",
+        "Genossenschaft Midata",
+        "Exoskelett Myosuit",
+        "Das Ausbildungs"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ABZ",
+        "Ausbildungs- und Beratungszentrum für Informatikunterricht",
+        "Digitaltags",
+        "ETH Spin-off Myoswiss",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Pädagogischen Hochschulen",
+        "Universität Basel",
+        "Universität Zürich"
+      ],
+      "locations": [
+        "Bern",
+        "Graubünden",
+        "Hauptbahnhof Zürich",
+        "Luzern",
+        "Programmierens",
+        "Rolle",
+        "Schaffhausen"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "De News",
+        "Digitaltag",
+        "Rolle",
+        "Ausbildungs- und Beratungszentrum für Informatikunterricht",
+        "ABZ",
+        "Universität Basel",
+        "Pädagogischen Hochschulen",
+        "Bern",
+        "Graubünden"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2032
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Universität Basel",
+        "2018",
+        "Ausbildungs- und Beratungszentrum für Informatikunterricht",
+        "Programmieren",
+        "Digitaltags",
+        "EU",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "De News",
+        "ETH Spin-off Myoswiss",
+        "ABZ",
+        "Expertinnen",
+        "Midata",
+        "Pädagogischen Hochschulen",
+        "Universität Zürich"
+      ],
+      "semantic_concepts": [
+        "Digitaltag",
+        "Exoskelett Myosuit",
+        "what",
+        "how",
+        "Tag über 600 Schülerinnen",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

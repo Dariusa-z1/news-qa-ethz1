@@ -1,0 +1,388 @@
+{
+  "filename": "statins-reduce-brown-adipose-tissue.md",
+  "original_filename": "statins-reduce-brown-adipose-tissue.html",
+  "source_path": "en_news_events/2018/12/statins-reduce-brown-adipose-tissue.html",
+  "date": "2018-12",
+  "title": "Statins Reduce Brown Adipose Tissue",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Of mice and men",
+      "text": "A certain proportion of the adult population has not only white adipose (or fatty) tissue, but also the brown kind. This brown adipose tissue helps to convert sugar and fat into heat. People with brown adipose tissue are better at regulating their body temperature in the winter, and are less likely to suffer from excess weight or diabetes.\n\nAn international team of researchers led by Christian Wolfrum, Professor for Translational Nutritional Biology at ETH Zurich, has now discovered that the statin class of pharmaceuticals reduces the formation of brown adipose tissue. Statins are prescribed as a way to reduce the risk of a heart attack since they reduce cholesterol levels in the blood. They are among the most commonly prescribed drugs worldwide."
+    },
+    {
+      "heading": "Of mice and men",
+      "text": "Wolfrum and his colleagues have been researching brown adipose tissue for many years. They looked into the question of how “bad” white fat cells, which form the layer of fat under our skin, become “good” brown fat cells. Having conducted cell culture experiments, they found out that the biochemical pathway responsible for producing cholesterol plays a central role in this transformation. They also discovered that the key molecule regulating the transformation is the metabolite geranylgeranyl pyrophosphate.\n\nEarlier studies showed that the cholesterol biochemical pathway is also central to the functioning of statins; one of their effects is to reduce the production of geranylgeranyl pyrophosphate. This is why the researchers wanted to know whether statins also impact the formation of brown adipose tissue. And indeed they do, as the scientists have now shown in studies on mice and humans.\n\nOne thing the researchers did was study positron emission tomography scans of 8,500 patients at the University Hospital Zurich. This let them determine whether the person had brown adipose tissue. It was also known whether the patients were taking statins. Evaluating the scans shows that 6 percent of those not taking the medication had brown adipose tissue, but this tissue type was present in only a little over 1 percent of those who were taking statins.\n\nThe researchers conducted a separate clinical study of 16 people at the University Hospitals of Basel and Zurich to demonstrate that statins reduce the activity of brown adipose tissue."
+    },
+    {
+      "heading": "“Incredibly important medications”",
+      "text": "Although the study demonstrated that statins have a negative impact, Wolfrum warns against talking them down. “We also have to consider that statins are incredibly important as a way to prevent cardiovascular disease. They save millions of lives around the world, and they are prescribed for a very good reason,” he says.\n\nHowever, statins also have another negative effect: in high doses, they slightly increase some people’s risk of developing diabetes – as has been shown in other studies. “It’s possible that these two effects – the reduction in brown adipose tissue and the slightly increased risk of diabetes – are related,” Wolfrum says, adding that this question requires further research.\n\nBut Wolfrum stresses that even if such a link were established, that would be no reason to demonise statins. Rather, it would become imperative to conduct further research into the mechanisms behind this and find out which patients are affected. It might then be possible to take a personalised medicine approach and continue to recommend statins to most people, while proposing alternative therapies for a small group of patients.\n\nBalaz M et al.: Inhibition of Mevalonate Pathway Prevents Adipocyte Browning in Mice and Men by Affecting Protein Prenylation. Cell Metabolism, 20 December 2018, doi: 10.1016/j.cmet.2018.11.017"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Reduce Brown Adipose Tissue",
+        "label": "ORG",
+        "start": 31,
+        "end": 58
+      },
+      {
+        "text": "the winter",
+        "label": "DATE",
+        "start": 268,
+        "end": 278
+      },
+      {
+        "text": "Christian Wolfrum",
+        "label": "PERSON",
+        "start": 386,
+        "end": 403
+      },
+      {
+        "text": "Translational Nutritional Biology",
+        "label": "ORG",
+        "start": 419,
+        "end": 452
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 456,
+        "end": 466
+      },
+      {
+        "text": "statin",
+        "label": "NORP",
+        "start": 496,
+        "end": 502
+      },
+      {
+        "text": "many years",
+        "label": "DATE",
+        "start": 74,
+        "end": 84
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 623,
+        "end": 626
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 899,
+        "end": 902
+      },
+      {
+        "text": "8,500",
+        "label": "CARDINAL",
+        "start": 977,
+        "end": 982
+      },
+      {
+        "text": "the University Hospital Zurich",
+        "label": "ORG",
+        "start": 995,
+        "end": 1025
+      },
+      {
+        "text": "6 percent",
+        "label": "PERCENT",
+        "start": 1188,
+        "end": 1197
+      },
+      {
+        "text": "the University Hospitals of Basel",
+        "label": "ORG",
+        "start": 1426,
+        "end": 1459
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1464,
+        "end": 1470
+      },
+      {
+        "text": "Wolfrum",
+        "label": "PERSON",
+        "start": 69,
+        "end": 76
+      },
+      {
+        "text": "millions",
+        "label": "CARDINAL",
+        "start": 228,
+        "end": 236
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 518,
+        "end": 521
+      },
+      {
+        "text": "Wolfrum",
+        "label": "PERSON",
+        "start": 630,
+        "end": 637
+      },
+      {
+        "text": "Wolfrum",
+        "label": "PERSON",
+        "start": 701,
+        "end": 708
+      },
+      {
+        "text": "Adipocyte Browning",
+        "label": "PERSON",
+        "start": 1187,
+        "end": 1205
+      },
+      {
+        "text": "Mice",
+        "label": "GPE",
+        "start": 1209,
+        "end": 1213
+      },
+      {
+        "text": "20 December 2018",
+        "label": "DATE",
+        "start": 1273,
+        "end": 1289
+      },
+      {
+        "text": "10.1016/j.cmet.2018.11.017",
+        "label": "MONEY",
+        "start": 1296,
+        "end": 1322
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Adipocyte Browning",
+        "Christian Wolfrum",
+        "Wolfrum"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "En News",
+        "Reduce Brown Adipose Tissue",
+        "Translational Nutritional Biology",
+        "the University Hospital Zurich",
+        "the University Hospitals of Basel"
+      ],
+      "LOCATION": [
+        "Mice",
+        "Zurich"
+      ],
+      "DATE": [
+        "20 December 2018",
+        "many years",
+        "the winter"
+      ],
+      "MISC": [
+        "10.1016/j.cmet.2018.11.017",
+        "6 percent",
+        "8,500",
+        "One",
+        "millions",
+        "one",
+        "statin",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Wolfrum": 3,
+      "En News": 1,
+      "Reduce Brown Adipose Tissue": 1,
+      "the winter": 1,
+      "Christian Wolfrum": 1,
+      "Translational Nutritional Biology": 1,
+      "ETH Zurich": 1,
+      "statin": 1,
+      "many years": 1,
+      "one": 1,
+      "One": 1,
+      "8,500": 1,
+      "the University Hospital Zurich": 1,
+      "6 percent": 1,
+      "the University Hospitals of Basel": 1,
+      "Zurich": 1,
+      "millions": 1,
+      "two": 1,
+      "Adipocyte Browning": 1,
+      "Mice": 1
+    },
+    "total_entities": 24,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "statins-reduce-brown-adipose-tissue.md",
+      "title": "En News Events/2018/12/statins Reduce Brown Adipose Tissue",
+      "language": "en",
+      "source_path": "en_news_events/2018/12/statins-reduce-brown-adipose-tissue.html"
+    },
+    "temporal": {
+      "publication_date": "2018-12",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Adipocyte Browning",
+        "Christian Wolfrum",
+        "Wolfrum"
+      ],
+      "people_with_roles": {
+        "Christian Wolfrum": [
+          "researcher",
+          "professor"
+        ],
+        "Wolfrum": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1016/j.cmet.2018.11.017",
+        "6 percent",
+        "8,500",
+        "millions",
+        "statin"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Prevents Adipocyte",
+        "Reduce Brown",
+        "University Hospitals",
+        "But Wolfrum",
+        "En News",
+        "Affecting Protein",
+        "Balaz M",
+        "Christian Wolfrum",
+        "University Hospital",
+        "Mevalonate Pathway",
+        "Translational Nutritional",
+        "ETH Zurich",
+        "Cell Metabolism",
+        "Adipose Tissue"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "En News",
+        "Reduce Brown Adipose Tissue",
+        "Translational Nutritional Biology",
+        "the University Hospital Zurich",
+        "the University Hospitals of Basel"
+      ],
+      "locations": [
+        "Mice",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Wolfrum",
+        "En News",
+        "Reduce Brown Adipose Tissue",
+        "the winter",
+        "Christian Wolfrum",
+        "Translational Nutritional Biology",
+        "ETH Zurich",
+        "statin",
+        "many years",
+        "one"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Of mice and men",
+          "Of mice and men",
+          "“Incredibly important medications”"
+        ],
+        "content_length": 3688
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "En News",
+        "Reduce Brown Adipose Tissue",
+        "EU",
+        "Christian Wolfrum",
+        "the University Hospitals of Basel",
+        "Adipocyte Browning",
+        "Translational Nutritional Biology",
+        "the University Hospital Zurich",
+        "ETH Zurich",
+        "Wolfrum",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "6 percent",
+        "chemistry",
+        "millions",
+        "what",
+        "how",
+        "statin",
+        "medical_research",
+        "8,500",
+        "why",
+        "when",
+        "where",
+        "10.1016/j.cmet.2018.11.017"
+      ],
+      "graph_relations": [
+        "Christian Wolfrum_has_role_researcher",
+        "Christian Wolfrum_has_role_professor",
+        "Wolfrum_has_role_researcher",
+        "Wolfrum_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

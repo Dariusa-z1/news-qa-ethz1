@@ -1,0 +1,163 @@
+{
+  "filename": "perspektiven-eroeffnen-und-zusammenhaenge-erkennen-.md",
+  "original_filename": "perspektiven-eroeffnen-und-zusammenhaenge-erkennen-.html",
+  "source_path": "de_internal/2016/06/perspektiven-eroeffnen-und-zusammenhaenge-erkennen-.html",
+  "date": "2016-06",
+  "title": "Perspektiven Eroeffnen Und Zusammenhaenge Erkennen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das Kursprogramm Science in Perspective/Wissenschaft im Kontext ist ein integraler Bestandteil des Studiums an der ETH Zürich. Es eröffnet neue Perspektiven auf die Natur- und Technikwissenschaften, in denen plötzlich Themen relevant werden, an die man vorher in seiner Hauptfachvorlesung gar nicht gedacht hat oder die zu bearbeiten dort die Zeit fehlte.\n\nIn den Vorlesungen und Seminaren werden historische, moralische, erkenntnistheoretische, juristische, ökonomische und politische Kontexte untersucht, ohne die Wissenschaft und Technik nicht denkbar wären. Die Studierenden lernen, Zusammenhänge zwischen wissenschaftlichen Erkenntnissen, technischen Innovationen, kulturellen Kontexten, Individuen und Gesellschaften zu erkennen und kritisch zu hinterfragen.\n\nDadurch erweitern sie ihre Reflexionskompetenz und werden auf gesellschaftliche und globale Entwicklungen der Zukunft vorbereitet. Mit dem Kursprogramm Science in Perspective leistet das Departement Geistes- Soziqal- und Staatswissenschaften (D-GESS) einen wichtigen Beitrag zur «Critical Thinking»-Initiative der ETH Zürich.\n\nWeitere Informationen zum Kursprogramm finden sich auf der Webseite und im Strategiepapier zu Science in Perspective ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/06/perspektiven Eroeffnen",
+        "label": "LOC",
+        "start": 0,
+        "end": 42
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 115,
+        "end": 125
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 343,
+        "end": 347
+      },
+      {
+        "text": "Perspective",
+        "label": "LOC",
+        "start": 927,
+        "end": 938
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1078,
+        "end": 1088
+      },
+      {
+        "text": "Science",
+        "label": "MISC",
+        "start": 1184,
+        "end": 1191
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2016/06/perspektiven Eroeffnen",
+        "Perspective"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Science",
+        "Zeit"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "De Internal/2016/06/perspektiven Eroeffnen": 1,
+      "Zeit": 1,
+      "Perspective": 1,
+      "Science": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "perspektiven-eroeffnen-und-zusammenhaenge-erkennen-.md",
+      "title": "De Internal/2016/06/perspektiven Eroeffnen und Zusammenhaenge Erkennen",
+      "language": "de",
+      "source_path": "de_internal/2016/06/perspektiven-eroeffnen-und-zusammenhaenge-erkennen-.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Science",
+        "Zeit"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Das Kursprogramm",
+        "Critical Thinking",
+        "Weitere Informationen",
+        "D-GESS",
+        "De Internal",
+        "Kursprogramm Science",
+        "Departement Geistes",
+        "Die Studierenden",
+        "Zusammenhaenge Erkennen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2016/06/perspektiven Eroeffnen",
+        "Perspective"
+      ],
+      "programs": [
+        "program",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2016/06/perspektiven Eroeffnen",
+        "Zeit",
+        "Perspective",
+        "Science"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1282
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "EU",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "Zeit",
+        "Science"
+      ],
+      "graph_relations": []
+    }
+  }
+}

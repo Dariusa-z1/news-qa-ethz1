@@ -1,0 +1,451 @@
+{
+  "filename": "network-assembly-through-cell-division.md",
+  "original_filename": "network-assembly-through-cell-division.html",
+  "source_path": "en_news_events/2022/08/network-assembly-through-cell-division.html",
+  "date": "2022-08",
+  "title": "Network Assembly Through Cell Division",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "No definite blueprint",
+      "text": "The human brain is by far the most complex organ that nature has ever produced: 100 billion nerve cells, each connected to other cells via several contact points, ensure that our skill set includes the capacity for remarkable brainpower. But just how this exceptional organ manages to form from what starts out as an unstructured cluster of embryonic cells remains unclear."
+    },
+    {
+      "heading": "No definite blueprint",
+      "text": "Over the past few years, vast sums of research funding have been poured into precisely surveying the structure of the fully formed brain. The scientific community is hoping that comprehensively mapping neurons and their connections – known collectively as the connectome – will provide a better understanding of how the brain works.\n\nHowever, the complementary fundamental question of how the brain forms from limited genetic information remains unanswered. To describe the connectome, genes would have to contain a billion times more information than they actually do. So how is it that humans and animals are born with a complex, largely pre-structured brain that enables them to make swift learning progress almost as soon as they are born?"
+    },
+    {
+      "heading": "Instructions for connecting",
+      "text": "The answer to this puzzle is surprisingly simple, says Stan Kerstjens, a doctoral student at the Institute of Neuroinformatics of ETH Zurich and the University of Zurich, and his two advisors Richard Hahnloser, Professor of Systems Neurosciences, and Rodney Douglas, Professor Emeritus of Neuroinformatics."
+    },
+    {
+      "heading": "Systematic sequence of cells",
+      "text": "“It’s clear that the instructions for wiring the brain must be genetically encoded – otherwise, people’s brains would not all develop a similar structure,” Kerstjens emphasises. “However, it is not the detailed connectome that is encoded, but rather a single compact search method. This method can then be used by the axons, the long fibres that establish contact with other cells. The network is then built by axons searching for cells that are genetic relatives of their own neuron”."
+    },
+    {
+      "heading": "Spatial and genetic structure",
+      "text": "This novel mechanism is described in a paper published recently in the journal PLOS Computational Biology. The researchers have developed a model that allows them to simulate the development of a mouse’s brain at embryonic and adult stages. In human terms, this corresponds to the stage of maturity of a six-year-old child.\n\n“Essentially, it’s a growth model for tissue,” Kerstjens explains. The model starts with a single cell. As new neurons emerge, each cell division leads to structured changes in gene expression. This mechanism ensures that each daughter cell has a similar, but not identical, gene expression to its parent, and that cells with similar gene expression are grouped near one another. The developmentally mandated organisation of the cells causes them to be marked like points on a map, which the brain’s biology can use for axon navigation."
+    },
+    {
+      "heading": "Systematic sequence of cells",
+      "text": "During embryonic development, this process establishes a hierarchy of genetic markers in different regions of the brain, each of which is characterised by the genetic pattern of its shared forebears. Navigating the space described by this map-like hierarchy involves following a systematic sequence of genetic profiles that have developed with each new generation of cells."
+    },
+    {
+      "heading": "Reference",
+      "text": "Here, the researchers analysed gene expression data on the brains of mice that was published by the Allen Institute for Brain Science in Seattle. “We compared the lab data with our simulations and saw that they largely matched up. So, we see that the expression of the genes actually divides the brain into distinct yet related regions,” Kerstjens explains.\n\nIn the model’s second stage, the cells connect with other cells. “Here we give them only basic instructions as to which molecular signals the axons should use to guide them on their way,” Kerstjens continues. “Essentially, we told each one to trace the genetic patterns that determined its own individual development. It was then up to the axons themselves to follow the molecular directions to their relations’ addresses.”\n\nThe researchers have been able to show that this relatively simple mechanism can lead axons to certain cells over great distances, producing a connectome very similar to that of a real mouse brain. “Most of the cells connect to others that are located close by, while a few make it all the way to very distant regions. This gives rise to distinct areas of the brain, each containing close-knit networks while also being connected to other areas.\n\nThis simple model doesn’t fully explain the mapping of a real human brain. “But that wasn’t the goal of our work,” Kerstjens says. “We want to understand the principle of how an organ that is capable of learning is created. And the work we’ve done to date shows us the direction future research can take.”\n\nKerstjens S et.al. Constructive Connectomics: how neuronal axons get from here to there using gene-expression maps derived from their family trees. PLoS Computational Biology, 25. August 2022. DOI: 10.1371/journal.pcbi.1010382"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Assembly Through Cell Division",
+        "label": "ORG",
+        "start": 31,
+        "end": 61
+      },
+      {
+        "text": "100 billion",
+        "label": "CARDINAL",
+        "start": 80,
+        "end": 91
+      },
+      {
+        "text": "the past few years",
+        "label": "DATE",
+        "start": 5,
+        "end": 23
+      },
+      {
+        "text": "billion",
+        "label": "CARDINAL",
+        "start": 515,
+        "end": 522
+      },
+      {
+        "text": "Stan Kerstjens",
+        "label": "PERSON",
+        "start": 55,
+        "end": 69
+      },
+      {
+        "text": "the Institute of Neuroinformatics of ETH Zurich",
+        "label": "ORG",
+        "start": 93,
+        "end": 140
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 145,
+        "end": 169
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 179,
+        "end": 182
+      },
+      {
+        "text": "Richard Hahnloser",
+        "label": "PERSON",
+        "start": 192,
+        "end": 209
+      },
+      {
+        "text": "Systems Neurosciences",
+        "label": "ORG",
+        "start": 224,
+        "end": 245
+      },
+      {
+        "text": "Rodney Douglas",
+        "label": "PERSON",
+        "start": 251,
+        "end": 265
+      },
+      {
+        "text": "Emeritus of Neuroinformatics",
+        "label": "PERSON",
+        "start": 277,
+        "end": 305
+      },
+      {
+        "text": "Kerstjens",
+        "label": "PERSON",
+        "start": 156,
+        "end": 165
+      },
+      {
+        "text": "PLOS Computational Biology",
+        "label": "ORG",
+        "start": 79,
+        "end": 105
+      },
+      {
+        "text": "six-year-old",
+        "label": "DATE",
+        "start": 304,
+        "end": 316
+      },
+      {
+        "text": "Kerstjens",
+        "label": "PERSON",
+        "start": 371,
+        "end": 380
+      },
+      {
+        "text": "the Allen Institute for Brain Science",
+        "label": "ORG",
+        "start": 96,
+        "end": 133
+      },
+      {
+        "text": "Seattle",
+        "label": "GPE",
+        "start": 137,
+        "end": 144
+      },
+      {
+        "text": "Kerstjens",
+        "label": "PERSON",
+        "start": 338,
+        "end": 347
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 373,
+        "end": 379
+      },
+      {
+        "text": "Kerstjens",
+        "label": "PERSON",
+        "start": 546,
+        "end": 555
+      },
+      {
+        "text": "Kerstjens",
+        "label": "PERSON",
+        "start": 1343,
+        "end": 1352
+      },
+      {
+        "text": "Kerstjens S et.al",
+        "label": "PERSON",
+        "start": 1534,
+        "end": 1551
+      },
+      {
+        "text": "PLoS Computational Biology",
+        "label": "PERSON",
+        "start": 1682,
+        "end": 1708
+      },
+      {
+        "text": "August 2022",
+        "label": "DATE",
+        "start": 1714,
+        "end": 1725
+      },
+      {
+        "text": "10.1371/journal.pcbi.1010382",
+        "label": "CARDINAL",
+        "start": 1732,
+        "end": 1760
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Emeritus of Neuroinformatics",
+        "Kerstjens",
+        "Kerstjens S et.al",
+        "PLoS Computational Biology",
+        "Richard Hahnloser",
+        "Rodney Douglas",
+        "Stan Kerstjens"
+      ],
+      "ORG": [
+        "Assembly Through Cell Division",
+        "PLOS Computational Biology",
+        "Systems Neurosciences",
+        "the Allen Institute for Brain Science",
+        "the Institute of Neuroinformatics of ETH Zurich",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Seattle"
+      ],
+      "DATE": [
+        "August 2022",
+        "six-year-old",
+        "the past few years"
+      ],
+      "MISC": [
+        "10.1371/journal.pcbi.1010382",
+        "100 billion",
+        "billion",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Kerstjens": 5,
+      "Assembly Through Cell Division": 1,
+      "100 billion": 1,
+      "the past few years": 1,
+      "billion": 1,
+      "Stan Kerstjens": 1,
+      "the Institute of Neuroinformatics of ETH Zurich": 1,
+      "the University of Zurich": 1,
+      "two": 1,
+      "Richard Hahnloser": 1,
+      "Systems Neurosciences": 1,
+      "Rodney Douglas": 1,
+      "Emeritus of Neuroinformatics": 1,
+      "PLOS Computational Biology": 1,
+      "six-year-old": 1,
+      "the Allen Institute for Brain Science": 1,
+      "Seattle": 1,
+      "second": 1,
+      "Kerstjens S et.al": 1,
+      "PLoS Computational Biology": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "network-assembly-through-cell-division.md",
+      "title": "En News Events/2022/08/network Assembly Through Cell Division",
+      "language": "en",
+      "source_path": "en_news_events/2022/08/network-assembly-through-cell-division.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Emeritus of Neuroinformatics",
+        "Kerstjens",
+        "Kerstjens S et.al",
+        "PLoS Computational Biology",
+        "Richard Hahnloser",
+        "Rodney Douglas",
+        "Stan Kerstjens"
+      ],
+      "people_with_roles": {
+        "Emeritus of Neuroinformatics": [
+          "Professor",
+          "student",
+          "professor"
+        ],
+        "Kerstjens": [
+          "student",
+          "professor"
+        ],
+        "Richard Hahnloser": [
+          "student",
+          "professor"
+        ],
+        "Rodney Douglas": [
+          "student",
+          "professor"
+        ],
+        "Stan Kerstjens": [
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1371/journal.pcbi.1010382",
+        "100 billion",
+        "billion",
+        "second"
+      ],
+      "grants_funding": [
+        "EU",
+        "funding"
+      ],
+      "projects": [
+        "Brain Science",
+        "Richard Hahnloser",
+        "Professor Emeritus",
+        "En News",
+        "Rodney Douglas",
+        "Cell Division",
+        "Stan Kerstjens",
+        "Kerstjens S",
+        "PLOS Computational",
+        "PLoS Computational",
+        "Constructive Connectomics",
+        "Allen Institute",
+        "ETH Zurich",
+        "Systems Neurosciences",
+        "Assembly Through"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Brain Science in Seattle"
+      ],
+      "institutions": [
+        "Assembly Through Cell Division",
+        "PLOS Computational Biology",
+        "Systems Neurosciences",
+        "the Allen Institute for Brain Science",
+        "the Institute of Neuroinformatics of ETH Zurich",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Seattle"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Kerstjens",
+        "Assembly Through Cell Division",
+        "100 billion",
+        "the past few years",
+        "billion",
+        "Stan Kerstjens",
+        "the Institute of Neuroinformatics of ETH Zurich",
+        "the University of Zurich",
+        "two",
+        "Richard Hahnloser"
+      ],
+      "document_structure": {
+        "total_sections": 7,
+        "section_titles": [
+          "No definite blueprint",
+          "No definite blueprint",
+          "Instructions for connecting",
+          "Systematic sequence of cells",
+          "Spatial and genetic structure",
+          "Systematic sequence of cells",
+          "Reference"
+        ],
+        "content_length": 4973
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Richard Hahnloser",
+        "PLOS Computational Biology",
+        "the Institute of Neuroinformatics of ETH Zurich",
+        "Emeritus of Neuroinformatics",
+        "Rodney Douglas",
+        "EU",
+        "Assembly Through Cell Division",
+        "Stan Kerstjens",
+        "the Allen Institute for Brain Science",
+        "the University of Zurich",
+        "2022",
+        "Kerstjens S et.al",
+        "funding",
+        "PLoS Computational Biology",
+        "Kerstjens",
+        "Systems Neurosciences"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "who",
+        "10.1371/journal.pcbi.1010382",
+        "100 billion",
+        "chemistry",
+        "billion",
+        "biology",
+        "what",
+        "second",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Emeritus of Neuroinformatics_has_role_Professor",
+        "Emeritus of Neuroinformatics_has_role_student",
+        "Emeritus of Neuroinformatics_has_role_professor",
+        "Kerstjens_has_role_student",
+        "Kerstjens_has_role_professor",
+        "Richard Hahnloser_has_role_student",
+        "Richard Hahnloser_has_role_professor",
+        "Rodney Douglas_has_role_student",
+        "Rodney Douglas_has_role_professor",
+        "Stan Kerstjens_has_role_student",
+        "Stan Kerstjens_has_role_professor",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

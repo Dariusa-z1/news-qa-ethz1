@@ -1,0 +1,24 @@
+# de_news_events_2015_02_die-stadt-der-zukunft-bitte-erdbebensicher.html
+
+**Source:** de_news_events/2015/02/die-stadt-der-zukunft-bitte-erdbebensicher.html
+
+## Selten, aber mit zerstörerischem Potenzial
+
+In den letzten 25 Jahren sind etwa 700’000 Menschen durch Erdbeben und ihre direkten und indirekten Auswirkungen wie etwa Tsunamis oder Erdrutsche gestorben. Die Prognosen für die kommenden 25 Jahre sind ähnlich grimmig: Es steigt die Wahrscheinlichkeit, dass Mega-Erdbeben auf Mega-Cities treffen. Grund dafür ist die rasant fortstreitende, weltweite Urbanisierung. Sie macht Szenarien mit bis zu einer Million Toten und / oder ökonomischen Schäden von bis zu einer Billiarde Dollar denkbar. Reden die Medien also zurecht von «Killer-Erdbeben»?
+
+Als Seismologe möchte ich an dieser Stelle daran erinnern, dass nicht Erdbeben Menschen töten, sondern Häuser beziehungsweise von Menschen gemachte Strukturen. Der Schwarze Peter liegt somit bei uns selbst. Anders als bei anderen Naturgefahren wie etwa Lawinen oder Überschwemmungen ist ein Erdbeben je nach Umgebung ein ungefährliches und sogar beindruckendes Erlebnis. Ein starkes Erdbeben auf der grünen Wiese, in einem Zelt oder in einem erdbebengerecht erbauten Gebäude zu erleben, wäre furchteinflössend, aber abgesehen davon harmlos. Ganz anders in einem nicht für Erdbeben ausgelegten Gebäude. Wenn dieses einer starken Bodenbewegung ausgesetzt wird, kann es lebensbedrohlich werden. Durch Erdbeben ausgelöste Sekundäreffekte, insbesondere Tsunamis, sind zudem für Menschen direkt gefährlich.
+
+## Selten, aber mit zerstörerischem Potenzial
+
+Und wie sieht es in der Schweiz aus? Nur wenige wissen, dass bei uns Erdbeben das grösste Schadenspotential unter den Naturgefahren aufweisen. Das Bundesamt für Umwelt sagt dazu: « Heute weist die Mehrzahl der bestehenden Bauten und Anlagen in der Schweiz eine unbekannte und zum Teil zu geringe Erdbebensicherheit auf». [1] Glücklicherweise sind starke Erdbeben in der Schweiz selten. Wenn es aber erneut wie 1855 in Visp oder 1356 in Basel bebt, dann wären zehntausende Gebäude stark beschädigt und die Kosten könnten 100 Milliarden Franken übersteigen. Zudem würden zehntausende Hausbesitzer in den Bankrott getrieben und so manche Bank in eine ernsthafte Schieflage geraten, denn eine flächendeckende Versicherung gegen Erdbeben kennt die Schweiz trotz mehreren Anläufen bislang nicht.
+
+Ich wünsche mir daher von allen, die mithelfen die Städte der Zukunft zu bauen, hier in der Schweiz oder irgendwo auf der Welt: Bitte vergesst die Erdbeben nicht in der Planung! Es ist weder schwer noch teuer, erdbebengerecht zu bauen, das Wissen existiert. Aber es fehlt oftmals das Bewusstsein, um dieses anzuwenden. In manchen Regionen der Welt fehlt zudem das grundlegende Wissen über das Risiko und den Umgang damit. In diesem Bereich könnten sich meiner Ansicht nach die Schweiz und die ETH Zürich noch mehr engagieren. Ein wichtiger Meilenstein dazu ist im Januar erreicht worden: Der Bundesrat hat beschlossen, dass sich die Schweiz und die ETH Zürich auch in der zweiten Phase des «Global Earthquake Model» (GEM, [2]) beteiligen werden. GEM wurde 2006 in Form einer Public-Private Partnership vom Global Science Forum der OECD (Organisation für wirtschaftliche Zusammenarbeit und Entwicklung) ins Leben gerufen und massgeblich auch von der ETH Zürich voran getrieben. Ziel ist der Aufbau einer offenen und global vernetzten Plattform zur Kartierung und Überwachung von Erdbebenrisiken. Ein Fokus liegt dabei speziell auf Entwicklungs- und Schwellenländern, wo das Wissen über Erdbeben zum Teil noch begrenzt ist.
+
+Es liegt in unsere Hand, wie viel Schutz wir uns leisten können und wollen. Wir wären in der Lage das Risiko für Erdbebenschäden in der Welt und in der Schweiz nicht weiter anwachsen zu lassen. Wir könnten es sogar über die nächsten Jahrzehnte mehr als halbieren. Warum eigentlich nicht?
+
+## Weiterführende Informationen
+
+[1] Bundesamt für Umwelt: externe Seite Erdbeben in der Schweiz: Gefährdung und Risiko
+
+[2] externe Seite Global Earthquake Model
+

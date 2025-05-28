@@ -1,0 +1,26 @@
+# repulsive-photons.html
+
+**Source:** en_news_events/2019/02/repulsive-photons.html
+
+## Transformation into polaritons
+
+Two light beams crossing each other do not deflect one another. That is because, according to the laws of quantum physics, there is no interaction between light particles or photons. Therefore, in a collision two photons simply pass through each other instead of bouncing off one another – unless one helps them along in some way. In fact, researchers have tried for quite some time now to find techniques for making photons “feel” each other. The hope is that this will result in many new possibilities for research as well as for practical applications. Ataç Imamoğlu, professor at the Institute for Quantum Electronics at ETH in Zurich, and his collaborators have now taken a further important step towards the realization of strongly interacting photons. Their research results were recently published in the scientific journal Nature Materials .
+
+## Transformation into polaritons
+
+“Strongly interacting photons are something of a Holy Grail in our field of research, photonics”, explains Aymeric Delteil, who works as a post-doc in Imamoğlu’s laboratory. To make light particles repel each other, he and his colleagues have to go to some length, though. Using an optical fibre, they send short laser pulses into an optical resonator, inside of which the light is strongly focused and finally hits a semiconductor material. That material (produced by Imamoğlu’s colleagues in Würzburg and St. Andrew’s in Scotland) is cooled inside a cryostat – a kind of extremely powerful refrigerator – down to minus 269 degrees centigrade. At those low temperatures the photons can combine with electronic excitations of the material. That combination results in so called polaritons. At the opposite end of the material the polaritons become photons again, which can then exit the resonator.
+
+As there are electromagnetic forces acting between the electronic excitations, an interaction arises also between the polaritons. “We were able to detect that phenomenon already a while ago”, says Imamoğlu. “However, at the time the effect was so weak that only the interactions between a large number of polaritons played a role, but not the pairwise repulsion between individual polaritons.”
+
+## Correlations signal interactions
+
+In their new experiment, the researchers were now able to demonstrate that single polaritons – and hence, indirectly, the photons contained in them – can, indeed, interact with each other. This can be inferred from the way in which the photons leaving the resonator correlate with each other. To reveal those so called quantum correlations, one measures the probability of a second photon leaving the resonator shortly after another one. If the photons get in each other’s way through their polaritons inside the semiconductor, that probability will be smaller than one would expect from non-interacting photons.
+
+In the extreme case there should even be a “photon blockade”, an effect which Imamoğlu already postulated 20 years ago. A photon in the semiconductor that has created a polariton then completely prevents a second photon from entering the material and turning into a polariton itself. “We are quite some way from realizing this”, Imamoğlu admits, “but in the meantime we have improved further on our result that has just been published. This means that we are on the right track.” Imamoğlu’s long-term objective is to make photons interact so strongly with each other that they start behaving like fermions – like quantum particles, in other words, that can never be found at the same place.
+
+## Interest in strongly interacting polaritons
+
+In the first instance, Imamoğlu is not interested in applications. “That’s really basic research,” he says. “But we do hope to be able, one day, to create polaritons that interact so strongly that we can use them to study new effects in quantum physics which are difficult to observe otherwise.” The physicist is particularly interested in situations in which the polaritons are also in contact with their environment and exchange energy with it. That energy exchange, combined with the interactions between the polaritons, should, according to calculations by theoretical physicists. lead to phenomena for which there are only rudimentary explanations so far. Experiments such as those carried out by Imamoğlu could, therefore, help to understand the theoretical models better.
+
+Delteil A, Fink T, Schade A, Höfling S, Schneider C, Imamoğlu A: Towards polariton blockade of confined exciton–polaritons. Nature Materials 2019, 18: 219, doi: 10.1038/s41563-019-0282-y
+

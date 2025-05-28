@@ -1,0 +1,496 @@
+{
+  "filename": "dem-virus-auf-die-faehrte-kommen.md",
+  "original_filename": "dem-virus-auf-die-faehrte-kommen.html",
+  "source_path": "de_news_events/2020/03/dem-virus-auf-die-faehrte-kommen.html",
+  "date": "2020-03",
+  "title": "Dem Virus Auf Die Faehrte Kommen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Verstehen, wie sich das Virus verbreitet",
+      "text": "Bereits nehmen über 3500 Personen am COVID-19-Monitoring teil. (Bild: BMI)\n\nWie schnell breitet sich das Coronavirus in der Schweiz aus? In welchen Orten oder Regionen gibt es überdurchschnittlich viele Neuinfektionen? Wo flacht die Kurve der Ansteckungen ab, wo steigt sie? Antworten auf diese Fragen liefern derzeit vor allem die Coronavirus-Tests, aus denen hervorgeht, wie viele Personen in der Schweiz positiv auf das Virus getestet worden sind.\n\nViele Personen haben jedoch keine oder nur wenig ausgeprägte Symptome. Sie werden nicht durch die Corona Tests erfasst. Biomedizininformatiker der ETH Zürich haben nun ein Monitoring entworfen, bei dem alle Bewohnerinnen und Bewohner der Schweiz mitmachen können – auch solche mit milden oder gar keinen Symptomen."
+    },
+    {
+      "heading": "Verstehen, wie sich das Virus verbreitet",
+      "text": "«Unser Ziel ist es, besser zu verstehen und schneller zu erkennen, wie sich das Coronavirus in der in der Schweizer Bevölkerung verbreitet», sagt Gunnar Rätsch, Professor für Biomedizininformatik an der ETH Zürich und am Universitätsspital Zürich, «dazu wollen wir auch jene Personen berücksichtigen, die keinen Test machen können und auch nicht ins Spital gehen müssen.»\n\nDas Monitoring beruht auf einer Online-Befragung, die sich in wenigen Minuten ausfüllen lässt. Dabei können die Teilnehmenden angeben, ob und welche Symptome sie verspüren. Abgefragt werden der Gesundheitszustand sowie relevante Vorerkrankungen, die typischen Symptome der Lungenkrankheit COVID-19 und wie lang man sie schon hat, oder auch die jeweilige Situation zuhause, ob man zum Beispiel regelmässig zur Arbeit geht oder in Selbst-Isolation lebt.\n\nEs werden keine persönlichen Daten erfasst, nur statistische Grössen wie Geschlecht, Alter und Grösse des Haushalts und die Postleitzahl. Die Daten werden nach Postleitzahlen regional zusammengefasst. Auf diese Weise lässt sich zeigen, wie sich das Virus örtlichen und regional in der Schweiz ausbreitet."
+    },
+    {
+      "heading": "Jetzt mitmachen!",
+      "text": "An der Befragung teilnehmen können alle Personen in der Schweiz, unabhängig von Alter, Sprache und Symptomen. «Das Ziel ist, dass möglichst viele teilnehmen, und dass sie die Befragung nicht nur am Anfang ausfüllen, sondern mehrmals oder sogar täglich. Auf diese Weise können wir besser verstehen, wie sich die Pandemie mit der Zeit entwickelt und verändert, und wir sehen auch besser, wann und wo die neuen Infektionen sich häufen», sagt Gunnar Rätsch. In den ersten beiden Tagen haben bereits über 3500 Personen teilgenommen.\n\nDie Studie soll ab jetzt mindestens ein Jahr lang dauern, damit die erhobenen Daten besonders auch jene Phase abdecken, wenn die heute geltenden Einschränkungen des öffentlichen Lebens wieder aufgehoben sein werden. Das könnte dazu beitragen, früh zu erkennen, falls wieder vermehrt Symptome auftreten.\n\nAlle Daten werden anonymisiert, sodass keine Rückschlüsse auf Einzelpersonen möglich sind. Wer mehrmals mitmacht, erhält einen Code. Auf diese Weise erkennt zwar der Computer, welche Daten zusammengehören, die Forschenden hingegen wissen nicht, wer sich hinter den Daten verbirgt.\n\nDie Rohdaten, sagt Gunnar Rätsch, werden auch der epidemiologischen Forschung in der Schweiz zur Verfügung gestellt, zum Beispiel um bessere Vorhersagemodelle für die Virusverbreitung zu erstellen oder um die Erfolgsrate der verschiedenen Schutzmassnahmen zu bewerten. «Das kann bei der Entwicklung neuer Massnahmen nützlich sein», sagt er.\n\nGunnar Rätsch ist sich bewusst, dass es auch andere, vergleichbare Projekte gibt: «Wir sind dabei, dass wir uns mit diesen Projekten koordinieren. Dann können wir die Daten, die wir sammeln, auch zusammenbringen.»"
+    },
+    {
+      "heading": "Viele Daten führen zu neuen Einsichten",
+      "text": "Gunnar Rätschs Gruppe untersucht, wie man Methoden des maschinellen Lernens auf die Analyse biomedizinischer Daten anwenden kann. Zum Beispiel sammeln sie derzeit auch an öffentlichen Plätzen und Tramhaltestellen in der Stadt Zürich verschiedene Proben, um nach Spuren des SARS-CoV-2 Virus zu suchen. Dadurch erwarten sie sich ebenfalls Ergebnisse, die über die Verbreitung des Virus Auskunft geben, und die sich mit anderen Städten in den USA, Südkorea oder China vergleichen lassen.\n\nWie genau verbreitet sich das Corona-​​Virus in der Schweiz? Um das auf einer breiten Datenbasis herauszufinden, haben Medizininformatiker der ETH Zürich und der Kanton Bern ihre Online-​​Befragungen inzwischen in der gemeinsamen Plattform «covidtracker.ch» zusammengelegt.\n\nWer an der Befragung teilnehmen will, findet den Einstieg und auch weitere Information über das Covid-19 Tracking Schweiz auf der folgenden Webseite: externe Seite www.covidtracker.ch ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Virus",
+        "label": "MISC",
+        "start": 27,
+        "end": 32
+      },
+      {
+        "text": "COVID-19-Monitoring",
+        "label": "LOC",
+        "start": 37,
+        "end": 56
+      },
+      {
+        "text": "BMI",
+        "label": "ORG",
+        "start": 70,
+        "end": 73
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 119,
+        "end": 130
+      },
+      {
+        "text": "Coronavirus-Tests",
+        "label": "MISC",
+        "start": 331,
+        "end": 348
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 398,
+        "end": 405
+      },
+      {
+        "text": "Virus",
+        "label": "MISC",
+        "start": 422,
+        "end": 427
+      },
+      {
+        "text": "Corona Tests",
+        "label": "LOC",
+        "start": 548,
+        "end": 560
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 597,
+        "end": 607
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 684,
+        "end": 695
+      },
+      {
+        "text": "mitmachen",
+        "label": "MISC",
+        "start": 696,
+        "end": 705
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 106,
+        "end": 115
+      },
+      {
+        "text": "Gunnar Rätsch",
+        "label": "PER",
+        "start": 146,
+        "end": 159
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 203,
+        "end": 213
+      },
+      {
+        "text": "Universitätsspital Zürich",
+        "label": "ORG",
+        "start": 221,
+        "end": 246
+      },
+      {
+        "text": "Online-Befragung",
+        "label": "MISC",
+        "start": 404,
+        "end": 420
+      },
+      {
+        "text": "Abgefragt",
+        "label": "PER",
+        "start": 545,
+        "end": 554
+      },
+      {
+        "text": "Selbst-Isolation",
+        "label": "MISC",
+        "start": 801,
+        "end": 817
+      },
+      {
+        "text": "Haushalts",
+        "label": "LOC",
+        "start": 930,
+        "end": 939
+      },
+      {
+        "text": "Postleitzahl",
+        "label": "MISC",
+        "start": 948,
+        "end": 960
+      },
+      {
+        "text": "Virus",
+        "label": "MISC",
+        "start": 1073,
+        "end": 1078
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 1109,
+        "end": 1116
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 52,
+        "end": 63
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 328,
+        "end": 332
+      },
+      {
+        "text": "Gunnar Rätsch",
+        "label": "PER",
+        "start": 439,
+        "end": 452
+      },
+      {
+        "text": "Rohdaten",
+        "label": "MISC",
+        "start": 1116,
+        "end": 1124
+      },
+      {
+        "text": "Gunnar Rätsch",
+        "label": "PER",
+        "start": 1131,
+        "end": 1144
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 1193,
+        "end": 1204
+      },
+      {
+        "text": "Gunnar Rätsch",
+        "label": "PER",
+        "start": 1453,
+        "end": 1466
+      },
+      {
+        "text": "Gunnar Rätschs Gruppe",
+        "label": "PER",
+        "start": 0,
+        "end": 21
+      },
+      {
+        "text": "Stadt Zürich",
+        "label": "LOC",
+        "start": 220,
+        "end": 232
+      },
+      {
+        "text": "Virus",
+        "label": "MISC",
+        "start": 284,
+        "end": 289
+      },
+      {
+        "text": "USA",
+        "label": "LOC",
+        "start": 440,
+        "end": 443
+      },
+      {
+        "text": "Südkorea",
+        "label": "LOC",
+        "start": 445,
+        "end": 453
+      },
+      {
+        "text": "China",
+        "label": "LOC",
+        "start": 459,
+        "end": 464
+      },
+      {
+        "text": "Corona-​​Virus",
+        "label": "ORG",
+        "start": 515,
+        "end": 529
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 537,
+        "end": 544
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 628,
+        "end": 638
+      },
+      {
+        "text": "Kanton Bern",
+        "label": "LOC",
+        "start": 647,
+        "end": 658
+      },
+      {
+        "text": "Tracking Schweiz",
+        "label": "MISC",
+        "start": 864,
+        "end": 880
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Abgefragt",
+        "De News",
+        "Gunnar Rätsch",
+        "Gunnar Rätschs Gruppe"
+      ],
+      "ORG": [
+        "BMI",
+        "Corona-​​Virus",
+        "ETH Zürich",
+        "Universitätsspital Zürich"
+      ],
+      "LOCATION": [
+        "COVID-19-Monitoring",
+        "China",
+        "Corona Tests",
+        "Haushalts",
+        "Kanton Bern",
+        "Schweiz",
+        "Stadt Zürich",
+        "Südkorea",
+        "USA",
+        "der Schweiz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Coronavirus-Tests",
+        "Online-Befragung",
+        "Postleitzahl",
+        "Rohdaten",
+        "Schweizer",
+        "Selbst-Isolation",
+        "Tracking Schweiz",
+        "Virus",
+        "Zeit",
+        "mitmachen"
+      ]
+    },
+    "entity_counts": {
+      "Virus": 4,
+      "der Schweiz": 4,
+      "Gunnar Rätsch": 4,
+      "Schweiz": 3,
+      "ETH Zürich": 3,
+      "De News": 1,
+      "COVID-19-Monitoring": 1,
+      "BMI": 1,
+      "Coronavirus-Tests": 1,
+      "Corona Tests": 1,
+      "mitmachen": 1,
+      "Schweizer": 1,
+      "Universitätsspital Zürich": 1,
+      "Online-Befragung": 1,
+      "Abgefragt": 1,
+      "Selbst-Isolation": 1,
+      "Haushalts": 1,
+      "Postleitzahl": 1,
+      "Zeit": 1,
+      "Rohdaten": 1
+    },
+    "total_entities": 41,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "dem-virus-auf-die-faehrte-kommen.md",
+      "title": "De News Events/2020/03/dem Virus auf die Faehrte Kommen",
+      "language": "de",
+      "source_path": "de_news_events/2020/03/dem-virus-auf-die-faehrte-kommen.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Abgefragt",
+        "De News",
+        "Gunnar Rätsch",
+        "Gunnar Rätschs Gruppe"
+      ],
+      "people_with_roles": {
+        "Gunnar Rätsch": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Coronavirus-Tests",
+        "Online-Befragung",
+        "Postleitzahl",
+        "Rohdaten",
+        "Schweizer",
+        "Selbst-Isolation",
+        "Tracking Schweiz",
+        "Virus",
+        "Zeit",
+        "mitmachen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "SARS-CoV",
+        "Das Monitoring",
+        "Das Ziel",
+        "Tracking Schweiz",
+        "Corona Tests",
+        "Online-Befragung",
+        "Viele Personen",
+        "Zum Beispiel",
+        "Selbst-Isolation",
+        "Die Rohdaten",
+        "Coronavirus-Tests",
+        "Kanton Bern",
+        "Unser Ziel",
+        "Alle Daten",
+        "Virus Auskunft",
+        "Faehrte Kommen",
+        "Die Studie",
+        "Die Daten",
+        "De News",
+        "Lungenkrankheit COVID"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BMI",
+        "Corona-​​Virus",
+        "ETH Zürich",
+        "Universitätsspital Zürich"
+      ],
+      "locations": [
+        "COVID-19-Monitoring",
+        "China",
+        "Corona Tests",
+        "Haushalts",
+        "Kanton Bern",
+        "Schweiz",
+        "Stadt Zürich",
+        "Südkorea",
+        "USA",
+        "der Schweiz"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Virus",
+        "der Schweiz",
+        "Gunnar Rätsch",
+        "Schweiz",
+        "ETH Zürich",
+        "De News",
+        "COVID-19-Monitoring",
+        "BMI",
+        "Coronavirus-Tests",
+        "Corona Tests"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Verstehen, wie sich das Virus verbreitet",
+          "Verstehen, wie sich das Virus verbreitet",
+          "Jetzt mitmachen!",
+          "Viele Daten führen zu neuen Einsichten"
+        ],
+        "content_length": 4571
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "2020",
+        "Universitätsspital Zürich",
+        "BMI",
+        "ETH Zürich",
+        "Abgefragt",
+        "De News",
+        "Gunnar Rätschs Gruppe",
+        "Corona-​​Virus",
+        "Gunnar Rätsch"
+      ],
+      "semantic_concepts": [
+        "Online-Befragung",
+        "Schweizer",
+        "who",
+        "Selbst-Isolation",
+        "Tracking Schweiz",
+        "what",
+        "Postleitzahl",
+        "how",
+        "Coronavirus-Tests",
+        "Rohdaten",
+        "Virus",
+        "Zeit",
+        "when",
+        "mitmachen"
+      ],
+      "graph_relations": [
+        "Gunnar Rätsch_has_role_professor"
+      ]
+    }
+  }
+}

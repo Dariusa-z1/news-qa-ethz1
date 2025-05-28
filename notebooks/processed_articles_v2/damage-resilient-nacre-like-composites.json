@@ -1,0 +1,202 @@
+{
+  "filename": "damage-resilient-nacre-like-composites.md",
+  "original_filename": "damage-resilient-nacre-like-composites.html",
+  "source_path": "en_news_events/2019/01/damage-resilient-nacre-like-composites.html",
+  "date": "2019-01",
+  "title": "Damage Resilient Nacre Like Composites",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "This resulted in supremely stiff and strong composites, which are now extremely damage resilient as well.\n\nGrossman M, Pivovarov D, Bouville F, Dransfeld C, Masania K, Studart AR. Hierarchical toughening of nacre‐like composites. Advanced Functional Materials, 08 January 2019, doi: 10.1002/adfm.201806800"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Resilient Nacre",
+        "label": "PERSON",
+        "start": 30,
+        "end": 45
+      },
+      {
+        "text": "Grossman M",
+        "label": "PERSON",
+        "start": 106,
+        "end": 116
+      },
+      {
+        "text": "Bouville F",
+        "label": "PERSON",
+        "start": 131,
+        "end": 141
+      },
+      {
+        "text": "Masania K",
+        "label": "PERSON",
+        "start": 156,
+        "end": 165
+      },
+      {
+        "text": "Studart AR",
+        "label": "PERSON",
+        "start": 167,
+        "end": 177
+      },
+      {
+        "text": "Advanced Functional Materials",
+        "label": "ORG",
+        "start": 229,
+        "end": 258
+      },
+      {
+        "text": "08 January 2019",
+        "label": "DATE",
+        "start": 260,
+        "end": 275
+      },
+      {
+        "text": "10.1002",
+        "label": "CARDINAL",
+        "start": 282,
+        "end": 289
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bouville F",
+        "Grossman M",
+        "Masania K",
+        "Resilient Nacre",
+        "Studart AR"
+      ],
+      "ORG": [
+        "Advanced Functional Materials",
+        "En News"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "08 January 2019"
+      ],
+      "MISC": [
+        "10.1002"
+      ]
+    },
+    "entity_counts": {
+      "En News": 1,
+      "Resilient Nacre": 1,
+      "Grossman M": 1,
+      "Bouville F": 1,
+      "Masania K": 1,
+      "Studart AR": 1,
+      "Advanced Functional Materials": 1,
+      "08 January 2019": 1,
+      "10.1002": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "damage-resilient-nacre-like-composites.md",
+      "title": "En News Events/2019/01/damage Resilient Nacre Like Composites",
+      "language": "en",
+      "source_path": "en_news_events/2019/01/damage-resilient-nacre-like-composites.html"
+    },
+    "temporal": {
+      "publication_date": "2019-01",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bouville F",
+        "Grossman M",
+        "Masania K",
+        "Resilient Nacre",
+        "Studart AR"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1002"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Advanced Functional",
+        "En News",
+        "Resilient Nacre",
+        "Studart AR",
+        "Bouville F",
+        "Dransfeld C",
+        "Grossman M",
+        "Like Composites",
+        "Pivovarov D",
+        "Masania K"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Advanced Functional Materials",
+        "En News"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "En News",
+        "Resilient Nacre",
+        "Grossman M",
+        "Bouville F",
+        "Masania K",
+        "Studart AR",
+        "Advanced Functional Materials",
+        "08 January 2019",
+        "10.1002"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 367
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "En News",
+        "Resilient Nacre",
+        "2019",
+        "Studart AR",
+        "Bouville F",
+        "Advanced Functional Materials",
+        "Grossman M",
+        "Masania K"
+      ],
+      "semantic_concepts": [
+        "10.1002",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

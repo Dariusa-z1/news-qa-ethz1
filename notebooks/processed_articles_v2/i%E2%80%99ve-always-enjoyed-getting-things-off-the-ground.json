@@ -1,0 +1,215 @@
+{
+  "filename": "i%E2%80%99ve-always-enjoyed-getting-things-off-the-ground.md",
+  "original_filename": "i%E2%80%99ve-always-enjoyed-getting-things-off-the-ground.html",
+  "source_path": "en_internal/2022/10/i%E2%80%99ve-always-enjoyed-getting-things-off-the-ground.html",
+  "date": "2022-10",
+  "title": "I%E2%80%99Ve Always Enjoyed Getting Things Off The Ground",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The members of the new VSETH Executive Board",
+      "text": "- Emir İşman (President)\n\n- Léa Le Bars (Vice President and University Policy)\n\n- Sina Keller (Treasury)\n\n- Jasper Boultwood (University Policy)\n\n- Oliver Klaus (Communication)\n\n- Jannik Kochert (University Policy and Communication)\n\n- Tristan Lovšin Barle (Projects)\n\n- Viviana Preianò (Projects)\n\n- Anna-Siri Rietmann (Internal Affairs)\n\n- Jakob Storp (Internal Affairs)\n\n- Linus Ziegler (Infrastructure)\n\n- Alexander Beck (Executive Secretary)"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Léa Le Bars",
+        "label": "ORG",
+        "start": 27,
+        "end": 38
+      },
+      {
+        "text": "Sina Keller",
+        "label": "PERSON",
+        "start": 80,
+        "end": 91
+      },
+      {
+        "text": "Treasury",
+        "label": "ORG",
+        "start": 93,
+        "end": 101
+      },
+      {
+        "text": "Oliver Klaus",
+        "label": "PERSON",
+        "start": 144,
+        "end": 156
+      },
+      {
+        "text": "University Policy and Communication",
+        "label": "ORG",
+        "start": 191,
+        "end": 226
+      },
+      {
+        "text": "Internal Affairs",
+        "label": "ORG",
+        "start": 313,
+        "end": 329
+      },
+      {
+        "text": "Internal Affairs",
+        "label": "ORG",
+        "start": 346,
+        "end": 362
+      },
+      {
+        "text": "Alexander Beck",
+        "label": "PERSON",
+        "start": 399,
+        "end": 413
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alexander Beck",
+        "Oliver Klaus",
+        "Sina Keller"
+      ],
+      "ORG": [
+        "Internal Affairs",
+        "Léa Le Bars",
+        "Treasury",
+        "University Policy and Communication"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Internal Affairs": 2,
+      "Léa Le Bars": 1,
+      "Sina Keller": 1,
+      "Treasury": 1,
+      "Oliver Klaus": 1,
+      "University Policy and Communication": 1,
+      "Alexander Beck": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "i%E2%80%99ve-always-enjoyed-getting-things-off-the-ground.md",
+      "title": "En Internal/2022/10/i%e2%80%99ve Always Enjoyed Getting Things Off The Ground",
+      "language": "en",
+      "source_path": "en_internal/2022/10/i%E2%80%99ve-always-enjoyed-getting-things-off-the-ground.html"
+    },
+    "temporal": {
+      "publication_date": "2022-10",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Alexander Beck",
+        "Oliver Klaus",
+        "Sina Keller"
+      ],
+      "people_with_roles": {
+        "Alexander Beck": [
+          "president"
+        ],
+        "Oliver Klaus": [
+          "president"
+        ],
+        "Sina Keller": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Internal Affairs",
+        "Vice President",
+        "University Policy",
+        "Getting Things",
+        "Le Bars",
+        "Anna-Siri",
+        "Jakob Storp",
+        "Sina Keller",
+        "Off The",
+        "En Internal",
+        "Jasper Boultwood",
+        "Linus Ziegler",
+        "Alexander Beck",
+        "Executive Secretary",
+        "Oliver Klaus",
+        "Jannik Kochert",
+        "Always Enjoyed"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Internal Affairs",
+        "Léa Le Bars",
+        "Treasury",
+        "University Policy and Communication"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "Internal Affairs",
+        "Léa Le Bars",
+        "Sina Keller",
+        "Treasury",
+        "Oliver Klaus",
+        "University Policy and Communication",
+        "Alexander Beck"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "The members of the new VSETH Executive Board"
+        ],
+        "content_length": 524
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Léa Le Bars",
+        "Internal Affairs",
+        "Treasury",
+        "Sina Keller",
+        "University Policy and Communication",
+        "2022",
+        "Alexander Beck",
+        "Oliver Klaus"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "where",
+        "what",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Alexander Beck_has_role_president",
+        "Oliver Klaus_has_role_president",
+        "Sina Keller_has_role_president",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

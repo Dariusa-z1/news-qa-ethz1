@@ -1,0 +1,201 @@
+{
+  "filename": "de_internal_2019_02_cambridge-university-press--evidence-based-acquisition.md",
+  "original_filename": "de_internal_2019_02_cambridge-university-press--evidence-based-acquisition.html",
+  "source_path": "de_internal/2019/02/cambridge-university-press--evidence-based-acquisition.html",
+  "date": "2019-02",
+  "title": "Cambridge University Press Evidence Based Acquisition",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Mit dem Evidence-Based-Acquisition-Modell (EBA) haben Nutzerinnen und Nutzer der ETH-Bibliothek vorerst für drei Jahre Zugriff auf externe Seite alle E-Books der Cambridge University Press . Damit werden über 32 000 Titel aus verschiedenen Fachgebieten der Naturwissenschaften und Technik, aber auch der Medizin und den Geistes- und Sozialwissenschaften für interessierte Leserinnen und Leser zugänglich. Neuerscheinungen werden dem Angebot laufend hinzugefügt.\n\nAnhand von Nutzungsstatistiken und fachlichen Kriterien wird nach Ablauf der Frist (2021) über den endgültigen Erwerb und anhaltenden Zugriff auf die einzelnen Titel entschieden. Somit haben die Interessen unserer Nutzerinnen und Nutzer dank dem EBA-Modell direkten Einfluss auf das E-Book-Angebot der ETH-Bibliothek.\n\nDer Zugriff ist im Netzwerk der ETH Zürich oder in den Räumen der ETH-Bibliothek möglich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/02/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "cambridge University Press Evidence Based Acquisition",
+        "label": "ORG",
+        "start": 20,
+        "end": 73
+      },
+      {
+        "text": "EBA",
+        "label": "ORG",
+        "start": 43,
+        "end": 46
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 81,
+        "end": 95
+      },
+      {
+        "text": "Cambridge University Press",
+        "label": "ORG",
+        "start": 162,
+        "end": 188
+      },
+      {
+        "text": "EBA-Modell",
+        "label": "MISC",
+        "start": 708,
+        "end": 718
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 764,
+        "end": 778
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 812,
+        "end": 822
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 846,
+        "end": 860
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Cambridge University Press",
+        "EBA",
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "cambridge University Press Evidence Based Acquisition"
+      ],
+      "LOCATION": [
+        "De Internal/2019/02/"
+      ],
+      "DATE": [],
+      "MISC": [
+        "EBA-Modell",
+        "ETH-Bibliothek"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 3,
+      "De Internal/2019/02/": 1,
+      "cambridge University Press Evidence Based Acquisition": 1,
+      "EBA": 1,
+      "Cambridge University Press": 1,
+      "EBA-Modell": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_02_cambridge-university-press--evidence-based-acquisition.md",
+      "title": "De Internal/2019/02/cambridge University Press Evidence Based Acquisition",
+      "language": "de",
+      "source_path": "de_internal/2019/02/cambridge-university-press--evidence-based-acquisition.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2019",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "EBA-Modell",
+        "ETH-Bibliothek"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "EBA-Modell",
+        "ETH-Bibliothek",
+        "Evidence Based",
+        "Evidence-Based",
+        "De Internal",
+        "E-Books",
+        "Jahre Zugriff",
+        "Acquisition Mit",
+        "Acquisition-Modell",
+        "Der Zugriff",
+        "University Press",
+        "E-Book",
+        "Cambridge University"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cambridge University Press",
+        "EBA",
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "cambridge University Press Evidence Based Acquisition"
+      ],
+      "locations": [
+        "De Internal/2019/02/"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2019/02/",
+        "cambridge University Press Evidence Based Acquisition",
+        "EBA",
+        "Cambridge University Press",
+        "EBA-Modell",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 945
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "Cambridge University Press",
+        "2019",
+        "EU",
+        "ETH Zürich",
+        "cambridge University Press Evidence Based Acquisition",
+        "2021",
+        "EBA"
+      ],
+      "semantic_concepts": [
+        "EBA-Modell",
+        "ETH-Bibliothek",
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

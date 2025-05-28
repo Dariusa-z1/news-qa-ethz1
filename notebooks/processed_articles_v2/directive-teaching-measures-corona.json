@@ -1,0 +1,242 @@
+{
+  "filename": "directive-teaching-measures-corona.md",
+  "original_filename": "directive-teaching-measures-corona.html",
+  "source_path": "en_internal/2020/03/directive-teaching-measures-corona.html",
+  "date": "2020-03",
+  "title": "Directive Teaching Measures Corona",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Scope of teaching content",
+      "text": "The changes made relate in particular to detailed provisions on how to handle modifications to the scope of teaching content, failed assessments and the extension of academic deadlines."
+    },
+    {
+      "heading": "Scope of teaching content",
+      "text": "Lecturers are at liberty to modify the scope of teaching content that was previously communicated in order to ensure that examinations are reasonable, given the exceptional situation. In this case, they should inform students and the relevant bodies within their departments via email."
+    },
+    {
+      "heading": "Failed assessments",
+      "text": "In terms of assessments, it remains the case that failed attempts will be annulled if students do not pass an examination or block of examinations at the end of the current semester. The directive now regulates the handling of examination blocks that were commenced in a previous examination session. In this instance, only those examinations that would have been taken in the summer 2020 examination session will be annulled, provided the examination block as a whole is not passed. Conversely, if the block is passed, no annulment is made."
+    },
+    {
+      "heading": "Academic deadlines",
+      "text": "Students who, as of the current spring semester, are in the last semester of the maximum permitted study period will have this deadline automatically extended by one semester. Bachelor’s students who have not yet passed the first-year examinations after completing the 2019 autumn semester will have two additional semesters in which to take the examination. At the same time, the deadline for completing the Bachelor’s degree will be extended by one semester. Master’s students who, as of the current spring semester, have not yet met the requirements for admission to the course will receive an additional semester."
+    },
+    {
+      "heading": "Doctoral examinations",
+      "text": "In light of the current exceptional situation, doctoral examinations will take place via video conference, i.e. without the physical presence of participants. As a result, the relevant stipulations in the directive on the physical presence of the examination committee at doctoral examinations are no longer valid."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "All current information about the coronavirus at ETH Zurich can be found on www.ethz.ch/coronavirus ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Teaching Measures Corona",
+        "label": "WORK_OF_ART",
+        "start": 30,
+        "end": 54
+      },
+      {
+        "text": "summer 2020",
+        "label": "DATE",
+        "start": 377,
+        "end": 388
+      },
+      {
+        "text": "the current spring semester",
+        "label": "DATE",
+        "start": 20,
+        "end": 47
+      },
+      {
+        "text": "the last semester",
+        "label": "DATE",
+        "start": 56,
+        "end": 73
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 162,
+        "end": 165
+      },
+      {
+        "text": "Bachelor",
+        "label": "ORG",
+        "start": 176,
+        "end": 184
+      },
+      {
+        "text": "first-year",
+        "label": "DATE",
+        "start": 224,
+        "end": 234
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 300,
+        "end": 303
+      },
+      {
+        "text": "Bachelor",
+        "label": "ORG",
+        "start": 409,
+        "end": 417
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 447,
+        "end": 450
+      },
+      {
+        "text": "the current spring semester",
+        "label": "DATE",
+        "start": 490,
+        "end": 517
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 49,
+        "end": 59
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Bachelor",
+        "ETH Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "first-year",
+        "summer 2020",
+        "the current spring semester",
+        "the last semester"
+      ],
+      "MISC": [
+        "Teaching Measures Corona",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "the current spring semester": 2,
+      "one": 2,
+      "Bachelor": 2,
+      "Teaching Measures Corona": 1,
+      "summer 2020": 1,
+      "the last semester": 1,
+      "first-year": 1,
+      "two": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "directive-teaching-measures-corona.md",
+      "title": "En Internal/2020/03/directive Teaching Measures Corona",
+      "language": "en",
+      "source_path": "en_internal/2020/03/directive-teaching-measures-corona.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Teaching Measures Corona"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Zurich",
+        "Teaching Measures",
+        "Corona The",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bachelor",
+        "ETH Zurich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "the current spring semester",
+        "one",
+        "Bachelor",
+        "Teaching Measures Corona",
+        "summer 2020",
+        "the last semester",
+        "first-year",
+        "two",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Scope of teaching content",
+          "Scope of teaching content",
+          "Failed assessments",
+          "Academic deadlines",
+          "Doctoral examinations",
+          "Staffnet"
+        ],
+        "content_length": 2103
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "2020",
+        "Bachelor",
+        "2019"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "why",
+        "who",
+        "how",
+        "Teaching Measures Corona",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

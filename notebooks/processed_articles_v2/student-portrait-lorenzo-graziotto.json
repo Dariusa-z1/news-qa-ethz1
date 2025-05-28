@@ -1,0 +1,144 @@
+{
+  "filename": "student-portrait-lorenzo-graziotto.md",
+  "original_filename": "student-portrait-lorenzo-graziotto.html",
+  "source_path": "en_news_events/2023/01/student-portrait-lorenzo-graziotto.html",
+  "date": "2023-01",
+  "title": "Student Portrait Lorenzo Graziotto",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Studying at ETH Zurich is challenging, and all students have their personal hurdles to overcome. This video series shows personal portraits of ETH students."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Portrait Lorenzo Graziotto",
+        "label": "PERSON",
+        "start": 31,
+        "end": 57
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 12,
+        "end": 22
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 143,
+        "end": 146
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Portrait Lorenzo Graziotto"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Portrait Lorenzo Graziotto": 1,
+      "ETH Zurich": 1,
+      "ETH": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "student-portrait-lorenzo-graziotto.md",
+      "title": "En News Events/2023/01/student Portrait Lorenzo Graziotto",
+      "language": "en",
+      "source_path": "en_news_events/2023/01/student-portrait-lorenzo-graziotto.html"
+    },
+    "temporal": {
+      "publication_date": "2023-01",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Portrait Lorenzo Graziotto"
+      ],
+      "people_with_roles": {
+        "Portrait Lorenzo Graziotto": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "ETH Zurich",
+        "Portrait Lorenzo",
+        "Graziotto Studying",
+        "En News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "how"
+      ],
+      "key_concepts": [
+        "Portrait Lorenzo Graziotto",
+        "ETH Zurich",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 214
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Portrait Lorenzo Graziotto",
+        "ETH",
+        "ETH Zurich",
+        "ERC",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "how",
+        "who"
+      ],
+      "graph_relations": [
+        "Portrait Lorenzo Graziotto_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

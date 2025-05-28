@@ -1,0 +1,326 @@
+{
+  "filename": "pruefungen-in-pandemiezeiten.md",
+  "original_filename": "pruefungen-in-pandemiezeiten.html",
+  "source_path": "en_internal/2020/04/pruefungen-in-pandemiezeiten.html",
+  "date": "2020-04",
+  "title": "Pruefungen In Pandemiezeiten",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Session examinations",
+      "text": "- For lecturers\n\n- For students\n\nThe semester break begins on 1 June. For most students, this means preparing for examinations that take place at the end of the semester or during the summer. However, our current exceptional situation will also impact how exams are held. The Rector has issued a third revision to the directive on teaching measures due to the coronavirus pandemic, which sets out how examinations are to take place. The measures are aligned with ETH’s master plan for returning to normal operations, although the plan is subject to uncertainty. This means that the statements are based on current knowledge and may change in the event of new Federal Council decisions or Executive Board evaluations."
+    },
+    {
+      "heading": "Session examinations",
+      "text": "Session examinations should take place in their usual format whenever possible. For the time being, changes in the type of exam (oral/written) or the duration are not allowed. If the situation makes changes unavoidable, the Rector will issue instructions on alternative formats."
+    },
+    {
+      "heading": "End-of-semester examinations",
+      "text": "Oral end-of-semester exams should take place via video conference during the final two weeks of the current semester when possible. Written exams may be turned into oral exams or taken remotely. For remote exams, there are certain requirements regarding the types of questions. The Educational Development and Technology department has published information and guidelines on their website (German only) . If it is not possible to conduct an exam orally or remotely, then it must be postponed to a later date (September). For exams involving more than 150 candidates, teaching staff may opt to mark exams with pass or fail instead of a score."
+    },
+    {
+      "heading": "Oral examinations via video conference",
+      "text": "If an oral exam is conducted via video conference, the same requirements apply as if the exam were held in person. A subject-matter expert must issue the exam, and the candidate must be visible on camera during the entire examination with the sound turned on. Exams can only be recorded with the consent of the candidate."
+    },
+    {
+      "heading": "Qualifying examinations for doctoral studies",
+      "text": "The directive now contains more detailed provisions on qualifying examinations for doctoral studies. Here it is also the case that failed attempts may be annulled and that teaching staff have the option of turning written exams into oral exams held via video conference."
+    },
+    {
+      "heading": "Measures for students performing military service",
+      "text": "The revised directive also contains a new range of measures to address the situations of students who have been or will be absent due to performing longer periods of pandemic-related service between March and August. This applies to military service and other types of mandatory service. The measures encompass all types of examinations and performance assessments. As a general rule, these measures will only apply if students submit a request"
+    },
+    {
+      "heading": "Further information",
+      "text": "The exact, legally-binding wording of the revised directive can be found in the Directives Collection of the Rectorate.\n\nThe Educational Development and Technology website contains information on «alternative forms of performance assessments in light of suspended classroom teaching» (German only)"
+    },
+    {
+      "heading": "Staffnet",
+      "text": "All current information about the coronavirus at ETH Zurich can be found on www.ethz.ch/coronavirus."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Pandemiezeiten",
+        "label": "PERSON",
+        "start": 34,
+        "end": 48
+      },
+      {
+        "text": "1 June",
+        "label": "DATE",
+        "start": 60,
+        "end": 66
+      },
+      {
+        "text": "the end of the semester",
+        "label": "DATE",
+        "start": 144,
+        "end": 167
+      },
+      {
+        "text": "the summer",
+        "label": "DATE",
+        "start": 178,
+        "end": 188
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 294,
+        "end": 299
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 461,
+        "end": 464
+      },
+      {
+        "text": "Federal Council",
+        "label": "ORG",
+        "start": 657,
+        "end": 672
+      },
+      {
+        "text": "Executive Board",
+        "label": "ORG",
+        "start": 686,
+        "end": 701
+      },
+      {
+        "text": "the final two weeks",
+        "label": "DATE",
+        "start": 73,
+        "end": 92
+      },
+      {
+        "text": "The Educational Development and Technology",
+        "label": "ORG",
+        "start": 278,
+        "end": 320
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 391,
+        "end": 397
+      },
+      {
+        "text": "September",
+        "label": "DATE",
+        "start": 510,
+        "end": 519
+      },
+      {
+        "text": "more than 150",
+        "label": "CARDINAL",
+        "start": 542,
+        "end": 555
+      },
+      {
+        "text": "between March and August",
+        "label": "DATE",
+        "start": 191,
+        "end": 215
+      },
+      {
+        "text": "the Directives Collection of the Rectorate",
+        "label": "ORG",
+        "start": 76,
+        "end": 118
+      },
+      {
+        "text": "The Educational Development and Technology",
+        "label": "ORG",
+        "start": 120,
+        "end": 162
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 284,
+        "end": 290
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 49,
+        "end": 59
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Pandemiezeiten"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Executive Board",
+        "Federal Council",
+        "The Educational Development and Technology",
+        "the Directives Collection of the Rectorate"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "1 June",
+        "September",
+        "between March and August",
+        "the end of the semester",
+        "the final two weeks",
+        "the summer"
+      ],
+      "MISC": [
+        "German",
+        "more than 150",
+        "third"
+      ]
+    },
+    "entity_counts": {
+      "The Educational Development and Technology": 2,
+      "German": 2,
+      "Pandemiezeiten": 1,
+      "1 June": 1,
+      "the end of the semester": 1,
+      "the summer": 1,
+      "third": 1,
+      "ETH": 1,
+      "Federal Council": 1,
+      "Executive Board": 1,
+      "the final two weeks": 1,
+      "September": 1,
+      "more than 150": 1,
+      "between March and August": 1,
+      "the Directives Collection of the Rectorate": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "pruefungen-in-pandemiezeiten.md",
+      "title": "En Internal/2020/04/pruefungen in Pandemiezeiten",
+      "language": "en",
+      "source_path": "en_internal/2020/04/pruefungen-in-pandemiezeiten.html"
+    },
+    "temporal": {
+      "publication_date": "2020-04",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between"
+    },
+    "people": {
+      "mentioned_people": [
+        "Pandemiezeiten"
+      ],
+      "people_with_roles": {
+        "Pandemiezeiten": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "German",
+        "more than 150",
+        "third"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Rector",
+        "The Educational",
+        "Executive Board",
+        "En Internal",
+        "Federal Council",
+        "ETH Zurich",
+        "Directives Collection"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Executive Board",
+        "Federal Council",
+        "The Educational Development and Technology",
+        "the Directives Collection of the Rectorate"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "The Educational Development and Technology",
+        "German",
+        "Pandemiezeiten",
+        "1 June",
+        "the end of the semester",
+        "the summer",
+        "third",
+        "ETH",
+        "Federal Council",
+        "Executive Board"
+      ],
+      "document_structure": {
+        "total_sections": 8,
+        "section_titles": [
+          "Session examinations",
+          "Session examinations",
+          "End-of-semester examinations",
+          "Oral examinations via video conference",
+          "Qualifying examinations for doctoral studies",
+          "Measures for students performing military service",
+          "Further information",
+          "Staffnet"
+        ],
+        "content_length": 3124
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the Directives Collection of the Rectorate",
+        "The Educational Development and Technology",
+        "2020",
+        "Executive Board",
+        "Pandemiezeiten",
+        "Federal Council",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "third",
+        "who",
+        "where",
+        "what",
+        "how",
+        "German",
+        "when",
+        "more than 150"
+      ],
+      "graph_relations": [
+        "Pandemiezeiten_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

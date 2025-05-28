@@ -1,0 +1,104 @@
+{
+  "filename": "en_internal_2014_01_mendeley-reference-management.md",
+  "original_filename": "en_internal_2014_01_mendeley-reference-management.html",
+  "source_path": "en_internal/2014/01/mendeley-reference-management.html",
+  "date": "2014-01",
+  "title": "Mendeley Reference Management",
+  "language": "unknown",
+  "paragraphs": [],
+  "ner": {
+    "entities": [
+      {
+        "text": "En Internal/2014/01",
+        "label": "MISC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "mendeley Reference",
+        "label": "PER",
+        "start": 20,
+        "end": 38
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "mendeley Reference"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "En Internal/2014/01"
+      ]
+    },
+    "entity_counts": {
+      "En Internal/2014/01": 1,
+      "mendeley Reference": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "en_internal_2014_01_mendeley-reference-management.md",
+      "title": "En Internal/2014/01/mendeley Reference Management",
+      "language": "unknown",
+      "source_path": "en_internal/2014/01/mendeley-reference-management.html"
+    },
+    "temporal": {
+      "publication_date": "2014-01",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "mendeley Reference"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "En Internal/2014/01"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Reference Management",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "En Internal/2014/01",
+        "mendeley Reference"
+      ],
+      "document_structure": {
+        "total_sections": 0,
+        "section_titles": [],
+        "content_length": 50
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "mendeley Reference",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "En Internal/2014/01"
+      ],
+      "graph_relations": []
+    }
+  }
+}

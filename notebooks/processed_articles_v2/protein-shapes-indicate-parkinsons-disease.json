@@ -1,0 +1,108 @@
+{
+  "filename": "protein-shapes-indicate-parkinsons-disease.md",
+  "original_filename": "protein-shapes-indicate-parkinsons-disease.html",
+  "source_path": "en_news_events/2022/11/protein-shapes-indicate-parkinsons-disease.html",
+  "date": "2022-11",
+  "title": "Protein Shapes Indicate Parkinsons Disease",
+  "language": "unknown",
+  "paragraphs": [],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News Events",
+        "label": "MISC",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Shapes Indicate Parkinsons Disease",
+        "label": "MISC",
+        "start": 31,
+        "end": 65
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "En News Events",
+        "Shapes Indicate Parkinsons Disease"
+      ]
+    },
+    "entity_counts": {
+      "En News Events": 1,
+      "Shapes Indicate Parkinsons Disease": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "protein-shapes-indicate-parkinsons-disease.md",
+      "title": "En News Events/2022/11/protein Shapes Indicate Parkinsons Disease",
+      "language": "unknown",
+      "source_path": "en_news_events/2022/11/protein-shapes-indicate-parkinsons-disease.html"
+    },
+    "temporal": {
+      "publication_date": "2022-11",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "medical_research"
+      ],
+      "research_topics": [
+        "En News Events",
+        "Shapes Indicate Parkinsons Disease"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Shapes Indicate",
+        "Parkinsons Disease",
+        "En News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "En News Events",
+        "Shapes Indicate Parkinsons Disease"
+      ],
+      "document_structure": {
+        "total_sections": 0,
+        "section_titles": [],
+        "content_length": 66
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2022"
+      ],
+      "semantic_concepts": [
+        "medical_research",
+        "En News Events",
+        "Shapes Indicate Parkinsons Disease"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research"
+      ]
+    }
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "filename": "veggie-week-at-eth.md",
+  "original_filename": "veggie-week-at-eth.html",
+  "source_path": "en_internal/2022/09/veggie-week-at-eth.html",
+  "date": "2022-09",
+  "title": "Veggie Week At Eth",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Spotlight on sustainability",
+      "text": "- 2 Grad Bistro\n\n- Clausiusbar\n\n- Dozentenfoyer\n\n- food &amp; lab\n\n- Mensa Polyterrasse\n\n- Street food vendors\n\n- Tannenbar\n\n- Alumni quattro Lounge\n\n- Bellavista (30.9.22)\n\n- food market\n\n- FUSION meal &amp; coffee\n\n- Rice UP! (30.9.22)\n\n- Street food vendors\n\n- Octavo\n\nThis Saturday, 1 October, is the official World Vegetarian Day. Switzerland marks this occasion with Swisstainable Veggie Day : 1,000 restaurants throughout the country highlight vegetarian dishes on their menus, aiming to set a milestone for sustainable gastronomy.\n\nETH’s restaurants are also taking part – not just with one day of vegetarian menus but all week long, as part of ETH Veggie Week. Starting this Monday and running until Friday, 30 September, the ETH restaurants and cafeterias on Zentrum, Hönggerberg and Oerlikon campuses will be exclusively offering vegetarian dishes, either on certain days or all week long (see the overview below). This also applies to ETH street food vendors.\n\n“Veggie Week reaffirms ETH’s commitment to working together with its caterers to promote more responsible consumption,” explains Claudia Zingerli, who has headed up ETH Sustainability since June 2022. “When it comes to nutrition, there’s a big opportunity to steer behaviour in a more climate-friendly, ethical and healthy direction. This is why the food on offer in ETH’s restaurants and cafeterias has undergone constant development. We’re glad to have Veggie Week as a platform for bringing vegetarian nutrition closer to the ETH community. Hopefully we can convince some people who are still skeptics, and we encourage everyone to try out new things!”"
+    },
+    {
+      "heading": "Spotlight on sustainability",
+      "text": "The Sustainable Gastronomy project, launched in January 2022, aims to make campus dining at ETH more sustainable over the long term. The project will run for three years (2022 to 2024) and includes all four categories of sustainability: climate protection, conserving resources, social and ethical issues, and health. The catering companies SV Group and Compass Group are part of the project.\n\n“As part of the Sustainable Gastronomy project, our caterers have set the goal of reducing the carbon footprint of their dining options. This is connected to reducing the amount of meat we offer,” explains Zingerli. This also connects to another one of ETH’s aims: striving for carbon neutrality in line with the federal government’s climate program ."
+    },
+    {
+      "heading": "Drop by, learn something and win prizes",
+      "text": "If you want to learn more about the Sustainable Gastronomy project in additional to sampling vegetarian delicacies, there’s now a special opportunity to do so: you can visit the ETH Sustainability stand to chat with the experts and take part in a quiz on environmentally friendly eating – prizes include a gift certificate to enjoy a vegetarian meal at FUSION meal & coffee or at Mensa Polyterrasse. The stand will be at the Mensa Polyterrasse on Zentrum campus on Thursday, 29 September."
+    },
+    {
+      "heading": "Veggie Week: The following eateries are taking part:",
+      "text": "Here you can find out more about dining options at the university: Gastronomy | ETH Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Mensa Polyterrasse - Street",
+        "label": "ORG",
+        "start": 65,
+        "end": 92
+      },
+      {
+        "text": "Lounge - Bellavista",
+        "label": "PERSON",
+        "start": 135,
+        "end": 154
+      },
+      {
+        "text": "30.9.22",
+        "label": "CARDINAL",
+        "start": 156,
+        "end": 163
+      },
+      {
+        "text": "30.9.22",
+        "label": "CARDINAL",
+        "start": 218,
+        "end": 225
+      },
+      {
+        "text": "This Saturday",
+        "label": "DATE",
+        "start": 258,
+        "end": 271
+      },
+      {
+        "text": "1 October",
+        "label": "DATE",
+        "start": 273,
+        "end": 282
+      },
+      {
+        "text": "World Vegetarian Day",
+        "label": "EVENT",
+        "start": 300,
+        "end": 320
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 322,
+        "end": 333
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 386,
+        "end": 391
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 525,
+        "end": 528
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 580,
+        "end": 587
+      },
+      {
+        "text": "all week",
+        "label": "DATE",
+        "start": 612,
+        "end": 620
+      },
+      {
+        "text": "ETH Veggie Week",
+        "label": "ORG",
+        "start": 638,
+        "end": 653
+      },
+      {
+        "text": "this Monday",
+        "label": "DATE",
+        "start": 664,
+        "end": 675
+      },
+      {
+        "text": "Friday",
+        "label": "DATE",
+        "start": 694,
+        "end": 700
+      },
+      {
+        "text": "30 September",
+        "label": "DATE",
+        "start": 702,
+        "end": 714
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 720,
+        "end": 723
+      },
+      {
+        "text": "Zentrum",
+        "label": "GPE",
+        "start": 754,
+        "end": 761
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 763,
+        "end": 774
+      },
+      {
+        "text": "Oerlikon",
+        "label": "ORG",
+        "start": 779,
+        "end": 787
+      },
+      {
+        "text": "days",
+        "label": "DATE",
+        "start": 863,
+        "end": 867
+      },
+      {
+        "text": "all week",
+        "label": "DATE",
+        "start": 871,
+        "end": 879
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 932,
+        "end": 935
+      },
+      {
+        "text": "Veggie Week",
+        "label": "PERSON",
+        "start": 958,
+        "end": 969
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 980,
+        "end": 983
+      },
+      {
+        "text": "Claudia Zingerli",
+        "label": "PERSON",
+        "start": 1086,
+        "end": 1102
+      },
+      {
+        "text": "ETH Sustainability",
+        "label": "ORG",
+        "start": 1122,
+        "end": 1140
+      },
+      {
+        "text": "June 2022",
+        "label": "DATE",
+        "start": 1147,
+        "end": 1156
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1324,
+        "end": 1327
+      },
+      {
+        "text": "Veggie Week",
+        "label": "ORG",
+        "start": 1412,
+        "end": 1423
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1486,
+        "end": 1489
+      },
+      {
+        "text": "January 2022",
+        "label": "DATE",
+        "start": 48,
+        "end": 60
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 92,
+        "end": 95
+      },
+      {
+        "text": "three years",
+        "label": "DATE",
+        "start": 158,
+        "end": 169
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 202,
+        "end": 206
+      },
+      {
+        "text": "SV Group",
+        "label": "ORG",
+        "start": 341,
+        "end": 349
+      },
+      {
+        "text": "Compass Group",
+        "label": "ORG",
+        "start": 354,
+        "end": 367
+      },
+      {
+        "text": "Sustainable Gastronomy",
+        "label": "ORG",
+        "start": 409,
+        "end": 431
+      },
+      {
+        "text": "Zingerli",
+        "label": "PERSON",
+        "start": 599,
+        "end": 607
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 639,
+        "end": 642
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 646,
+        "end": 649
+      },
+      {
+        "text": "the ETH Sustainability",
+        "label": "ORG",
+        "start": 174,
+        "end": 196
+      },
+      {
+        "text": "FUSION meal & coffee",
+        "label": "ORG",
+        "start": 353,
+        "end": 373
+      },
+      {
+        "text": "Mensa Polyterrasse",
+        "label": "ORG",
+        "start": 380,
+        "end": 398
+      },
+      {
+        "text": "the Mensa Polyterrasse",
+        "label": "FAC",
+        "start": 421,
+        "end": 443
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 447,
+        "end": 454
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE",
+        "start": 465,
+        "end": 473
+      },
+      {
+        "text": "29 September",
+        "label": "DATE",
+        "start": 475,
+        "end": 487
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 80,
+        "end": 90
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Claudia Zingerli",
+        "ETH Zurich",
+        "Hönggerberg",
+        "Lounge - Bellavista",
+        "Veggie Week",
+        "Zentrum",
+        "Zingerli"
+      ],
+      "ORG": [
+        "Compass Group",
+        "ETH",
+        "ETH Sustainability",
+        "ETH Veggie Week",
+        "FUSION meal & coffee",
+        "Mensa Polyterrasse",
+        "Mensa Polyterrasse - Street",
+        "Oerlikon",
+        "SV Group",
+        "Sustainable Gastronomy",
+        "Veggie Week",
+        "the ETH Sustainability"
+      ],
+      "LOCATION": [
+        "Switzerland",
+        "Zentrum",
+        "the Mensa Polyterrasse"
+      ],
+      "DATE": [
+        "1 October",
+        "29 September",
+        "30 September",
+        "Friday",
+        "January 2022",
+        "June 2022",
+        "This Saturday",
+        "Thursday",
+        "all week",
+        "days",
+        "one day",
+        "this Monday",
+        "three years"
+      ],
+      "MISC": [
+        "1,000",
+        "30.9.22",
+        "World Vegetarian Day",
+        "four",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 8,
+      "30.9.22": 2,
+      "all week": 2,
+      "Zentrum": 2,
+      "Veggie Week": 2,
+      "Mensa Polyterrasse - Street": 1,
+      "Lounge - Bellavista": 1,
+      "This Saturday": 1,
+      "1 October": 1,
+      "World Vegetarian Day": 1,
+      "Switzerland": 1,
+      "1,000": 1,
+      "one day": 1,
+      "ETH Veggie Week": 1,
+      "this Monday": 1,
+      "Friday": 1,
+      "30 September": 1,
+      "Hönggerberg": 1,
+      "Oerlikon": 1,
+      "days": 1
+    },
+    "total_entities": 49,
+    "unique_entities": 38
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "veggie-week-at-eth.md",
+      "title": "En Internal/2022/09/veggie Week At Eth",
+      "language": "en",
+      "source_path": "en_internal/2022/09/veggie-week-at-eth.html"
+    },
+    "temporal": {
+      "publication_date": "2022-09",
+      "mentioned_years": [
+        "2022",
+        "2024"
+      ],
+      "time_periods": [
+        [
+          "2022",
+          "2024"
+        ]
+      ],
+      "temporal_context": "since, until"
+    },
+    "people": {
+      "mentioned_people": [
+        "Claudia Zingerli",
+        "ETH Zurich",
+        "Hönggerberg",
+        "Lounge - Bellavista",
+        "Veggie Week",
+        "Zentrum",
+        "Zingerli"
+      ],
+      "people_with_roles": {
+        "Claudia Zingerli": [
+          "head"
+        ],
+        "Veggie Week": [
+          "alumni",
+          "head"
+        ],
+        "Zingerli": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "alumni"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "1,000",
+        "30.9.22",
+        "World Vegetarian Day",
+        "four"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Sustainable Gastronomy",
+        "This Saturday",
+        "ETH Sustainability",
+        "Claudia Zingerli",
+        "The Sustainable",
+        "Grad Bistro",
+        "En Internal",
+        "World Vegetarian",
+        "Rice UP",
+        "SV Group",
+        "ETH Zurich",
+        "Veggie Week",
+        "Mensa Polyterrasse",
+        "Week At",
+        "ETH Veggie",
+        "Compass Group",
+        "Swisstainable Veggie"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Compass Group",
+        "ETH",
+        "ETH Sustainability",
+        "ETH Veggie Week",
+        "FUSION meal & coffee",
+        "Mensa Polyterrasse",
+        "Mensa Polyterrasse - Street",
+        "Oerlikon",
+        "SV Group",
+        "Sustainable Gastronomy",
+        "Veggie Week",
+        "the ETH Sustainability"
+      ],
+      "locations": [
+        "Switzerland",
+        "Zentrum",
+        "the Mensa Polyterrasse"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "30.9.22",
+        "all week",
+        "Zentrum",
+        "Veggie Week",
+        "Mensa Polyterrasse - Street",
+        "Lounge - Bellavista",
+        "This Saturday",
+        "1 October",
+        "World Vegetarian Day"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Spotlight on sustainability",
+          "Spotlight on sustainability",
+          "Drop by, learn something and win prizes",
+          "Veggie Week: The following eateries are taking part:"
+        ],
+        "content_length": 2993
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Claudia Zingerli",
+        "FUSION meal & coffee",
+        "Sustainable Gastronomy",
+        "Compass Group",
+        "Mensa Polyterrasse - Street",
+        "Zentrum",
+        "2022",
+        "Oerlikon",
+        "Mensa Polyterrasse",
+        "Zingerli",
+        "EU",
+        "the ETH Sustainability",
+        "Veggie Week",
+        "SV Group",
+        "ETH Veggie Week",
+        "Hönggerberg",
+        "2024",
+        "Lounge - Bellavista",
+        "ETH Zurich",
+        "ETH Sustainability"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "four",
+        "who",
+        "30.9.22",
+        "World Vegetarian Day",
+        "what",
+        "medical_research",
+        "climate_change",
+        "why",
+        "when",
+        "where",
+        "1,000"
+      ],
+      "graph_relations": [
+        "Claudia Zingerli_has_role_head",
+        "Veggie Week_has_role_alumni",
+        "Veggie Week_has_role_head",
+        "Zingerli_has_role_head",
+        "research_domain_climate_change",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

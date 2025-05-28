@@ -1,0 +1,12 @@
+# foerderung-zeigt-wirkung.html
+
+**Source:** de_news_events/2024/03/foerderung-zeigt-wirkung.html
+
+## Main article
+
+Auch im vergangenen Jahr unterstützten zahlreiche Privatpersonen, Stiftungen und Unternehmen die ETH mit über 3500 Spenden, Erbschaften und Legaten in der Höhe von über 130 Millionen Franken.
+
+Ein Meilenstein war die Partnerschaft zwischen der ETH und der Dieter Schwarz Stiftung. Sie ermöglicht es, die digitale Transformation in den nächsten 30 Jahren in einem Umfang verantwortlich mitzugestalten, der mit den regulären Mitteln und Strukturen der ETH nicht möglich wäre. Geplant sind bis zu 20 Professuren sowie der Aufbau eines Lehr- und Forschungszentrums in Heilbronn mit weltweiter Ausstrahlung.
+
+Donatorinnen, Donatoren und Partner haben im vergangenen Jahr noch viel mehr ermöglicht: So kann die Forschung für Kinder und Jugendliche am Basel Research Centre for Child Health (BRCCH) dank einer weiteren grosszügigen Spende der Fondation Botnar von 50 Millionen Franken zusammen mit der Universität Basel stark ausgebaut werden. Die Halter Gruppe unterstützt den Bereich Digitales Planen und Bauen. Die private Unterstützung eines Ehepaars trägt dazu bei, zukünftige Friedensmediatorinnen auszubilden. Schliesslich engagieren sich immer mehr Privatpersonen, Stiftungen und Unternehmen in der Nachwuchsförderung; im vergangenen Jahr haben sie zahlreiche Studentinnen und Jungunternehmerinnen auf ihrem Weg unterstützt.
+

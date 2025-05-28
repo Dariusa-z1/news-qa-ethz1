@@ -1,0 +1,188 @@
+{
+  "filename": "de_internal_2019_11_georeferenzierung-von-karten.md",
+  "original_filename": "de_internal_2019_11_georeferenzierung-von-karten.html",
+  "source_path": "de_internal/2019/11/georeferenzierung-von-karten.html",
+  "date": "2019-11",
+  "title": "Georeferenzierung Von Karten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Georeferenzierung von historischen, digitalisierten Karten ist aber aufwendig und kann oft nur von Hand geleistet werden. Deshalb zählen wir auf Ihre Unterstützung!\n\nNach der äusserst erfolgreichen ersten Crowdsourcing-Runde Anfang 2017 stehen nun über 1'700 weitere historische Karten aus dem Bestand der ETH-Bibliothek zur Georeferenzierung bereit. Eine Besonderheit dieser Karten ist, dass sie mehrheitlich aus Atlanten des 19. Jahrhunderts stammen und somit noch nicht über Eckkoordinaten, wie sie die ETH-Bibliothek bei Einzelkarten erfasst, erschlossen sind. Die Herausforderung, diese «versteckten Karten» treffend georeferenzieren zu können, ist also etwas höher.\n\nDer aktuelle Stand der Georeferenzierung und eine Anleitung zum Vorgehen finden Sie auf der Projektseite.\n\nNach Abschluss stehen Ihnen die georeferenzierten Karten auch im Portal externe Seite OldMapsOnline.org zur Verfügung. Sämtliche Karten und Atlanten sind bereits heute im Suchportal der ETH-Bibliothek und auf der Plattform externe Seite e-rara.ch recherchierbar.\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/11/georeferenzierung von",
+        "label": "LOC",
+        "start": 0,
+        "end": 41
+      },
+      {
+        "text": "Crowdsourcing-Runde",
+        "label": "MISC",
+        "start": 208,
+        "end": 227
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 309,
+        "end": 323
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 509,
+        "end": 523
+      },
+      {
+        "text": "OldMapsOnline.org",
+        "label": "MISC",
+        "start": 867,
+        "end": 884
+      },
+      {
+        "text": "Suchportal",
+        "label": "LOC",
+        "start": 952,
+        "end": 962
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "LOC",
+        "start": 967,
+        "end": 981
+      },
+      {
+        "text": "GewusstWie",
+        "label": "MISC",
+        "start": 1044,
+        "end": 1054
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 1093,
+        "end": 1107
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2019/11/georeferenzierung von",
+        "ETH-Bibliothek",
+        "Suchportal"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Crowdsourcing-Runde",
+        "ETH-Bibliothek",
+        "GewusstWie",
+        "OldMapsOnline.org"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 4,
+      "De Internal/2019/11/georeferenzierung von": 1,
+      "Crowdsourcing-Runde": 1,
+      "OldMapsOnline.org": 1,
+      "Suchportal": 1,
+      "GewusstWie": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_11_georeferenzierung-von-karten.md",
+      "title": "De Internal/2019/11/georeferenzierung von Karten",
+      "language": "de",
+      "source_path": "de_internal/2019/11/georeferenzierung-von-karten.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2017",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Crowdsourcing-Runde",
+        "ETH-Bibliothek",
+        "GewusstWie",
+        "OldMapsOnline.org"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Eine Besonderheit",
+        "Karten Die",
+        "Die Infrastruktur",
+        "De Internal",
+        "Seite OldMapsOnline",
+        "Crowdsourcing-Runde",
+        "Die Herausforderung",
+        "Ihrem Ziel",
+        "Nach Abschluss"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2019/11/georeferenzierung von",
+        "ETH-Bibliothek",
+        "Suchportal"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2019/11/georeferenzierung von",
+        "Crowdsourcing-Runde",
+        "OldMapsOnline.org",
+        "Suchportal",
+        "GewusstWie"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1187
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2017",
+        "EU",
+        "ERC",
+        "2019"
+      ],
+      "semantic_concepts": [
+        "Crowdsourcing-Runde",
+        "GewusstWie",
+        "ETH-Bibliothek",
+        "OldMapsOnline.org"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "filename": "lesen-und-publizieren-neu-geregelt.md",
+  "original_filename": "lesen-und-publizieren-neu-geregelt.html",
+  "source_path": "en_internal/2019/12/lesen-und-publizieren-neu-geregelt.html",
+  "date": "2019-12",
+  "title": "Lesen Und Publizieren Neu Geregelt",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Despite the absence of an agreement with Springer Nature, access to all journal contents is granted until further notice.\n\nFor further information please refer to the ETH Library website and ETH News ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Springer Nature",
+        "label": "PERSON",
+        "start": 41,
+        "end": 56
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 162,
+        "end": 177
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 190,
+        "end": 198
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Springer Nature"
+      ],
+      "ORG": [
+        "ETH News",
+        "the ETH Library"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Springer Nature": 1,
+      "the ETH Library": 1,
+      "ETH News": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "lesen-und-publizieren-neu-geregelt.md",
+      "title": "En Internal/2019/12/lesen und Publizieren Neu Geregelt",
+      "language": "en",
+      "source_path": "en_internal/2019/12/lesen-und-publizieren-neu-geregelt.html"
+    },
+    "temporal": {
+      "publication_date": "2019-12",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "until"
+    },
+    "people": {
+      "mentioned_people": [
+        "Springer Nature"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU",
+        "grant"
+      ],
+      "projects": [
+        "ETH Library",
+        "En Internal",
+        "Geregelt Despite",
+        "ETH News",
+        "Springer Nature",
+        "Publizieren Neu"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH News",
+        "the ETH Library"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Springer Nature",
+        "the ETH Library",
+        "ETH News"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 256
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "grant",
+        "2019",
+        "EU",
+        "ETH News",
+        "Springer Nature",
+        "the ETH Library"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "filename": "virtueller-pruefstand-nanoelektronik.md",
+  "original_filename": "virtueller-pruefstand-nanoelektronik.html",
+  "source_path": "en_news_events/2015/04/virtueller-pruefstand-nanoelektronik.html",
+  "date": "2015-04",
+  "title": "Virtueller Pruefstand Nanoelektronik",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Computer predictions",
+      "text": "Electronic components are often only a few nanometres (billionths of a metre) in size. According to Moore’s Law, a transistor halves in size every two years, for example, which is the only possibility to place two billion transistors in a nanoformat on a Smartphone chip. The tiny devices ensure that the Smartphone can keep up with the constantly changing demands – to be a telephone and camera, as well as a quality video camera, search engine, personal health monitor and entertainer. And in doing so, the components need to work energy-efficiently and be producible at low costs.\n\nThe tinier electronic components become, however, the harder they are to manufacture. By way of comparison: a red blood cell is 7,000 nanometres in diameter, a human hair 80,000. Consequently, producing a transistor that is 20 nanometres in size and smaller from semiconductors such as the element silicon is not just a technical challenge. Physical effects, so-called quantum mechanical patterns, alter the materials’ properties on a nanometre scale, which complicates life for designers and engineers in the development and construction of nanodevices. ETH-Zurich professor Mathieu Luisier from the Integrated Systems Laboratory has now come to the rescue."
+    },
+    {
+      "heading": "Computer predictions",
+      "text": "Luisier has spent over ten years honing a software programme that simulates transistors of the future, which are only a few nanometres in size. He is supported by the CSCS supercomputer “Piz Daint”, which helps to predict what happens when the composition, form and size of materials change in the nanoworld. As far as Luisier is concerned, “Piz Daint” is currently the best and most efficient simulation machine in the search for new, ideal material combinations. The ETH-Zurich professor’s work has been met with great interest in industry as the simulations save experimentation time and costs in the development of new, efficient electronic components.\n\nOne problem when billions of conventional transistors are placed on one chip is that they generate a huge amount of heat and easily overheat. This is because the electrons release energy on their way through the transistor. Luisier and his team use their software OMEN – a so-called quantum simulator – to simulate the electron transport at atomic level in order to study exactly what happens. The simulated transistor consists of a nanowire made of silicon crystals. “When the electrons flow through the wire, they initially possess a constant, high amount of energy, which gradually decreases and is absorbed by the silicon’s crystal lattice in the form of so-called phonons,” explains Luisier. The interaction between the electrons and phonons heats the crystal and the overall energy remains intact – evidence for the researchers that their model reproduces the process correctly. The goal now is to construct the transistor based on the results obtained via the simulations in such a way that the electrons lose as little energy as possible along the way."
+    },
+    {
+      "heading": "Playing with crystals",
+      "text": "On the one hand, the researchers are able to “play” with the order of different crystal levels in the crystal and alter the crystal structure or replace silicon with another semiconductor material in their simulations. On the other hand, they can check the functionalities and different properties of the crystals simulated. For instance, the researchers simulated a nanowire, where the channel is encased in an oxide and a metallic contact (gate). The phonons emitted by the electrons are effectively “captured” in the channel and can only leave the structure at certain points – the beginning and end of the nanowire. “Replacing the shell around the wire with a structure that resembles the letter omega yields a larger area for the phonons to escape from,” says Luisier. If the area is also directly in contact with a cooling segment, the transistor heats up to a lesser extent. The semiconductors would also generate less heat if they were constructed from materials such as indium gallium arsenide or germanium because these materials enable the electrons to move through faster. However, they are much more expensive than silicon.\n\nDuring the simulations, the researchers produce the structures designed atom by atom. Like in the conventional so-called “ab initio” method, which is used intensively to analyse the properties of materials, the Schrödinger Equation is also solved in the simulations conducted by Luisier’s team. This enables them to study how electrons and phonons interact.\n\nHowever, there are two main differences: while the ab initio method solves the electrons’ wave movement in a closed or periodically repetitive system, Luisier’s group supplements the method with open boundary conditions, which enables transport to be simulated. The scientists can then observe both the electron flows and the thermal currents, and describe the interconnection with the surroundings, the interplay of the electron flow with the thermal currents. Another difference is that the calculations using OMEN are currently conducted based on empirical models as they are still too complex and more computer-intensive “ab initio”.\n\nHowever, new algorithms are being developed in a collaborative PASC project with scientists from the Università della Svizzera italiana and EPF Lausanne to render the calculations more efficient. “In the medium term, we want to replace all empirical models with ab initio ones so that we can calculate structures made of different materials more easily and accurately,” says Luisier. “This is why we need optimised algorithms and machines like Piz Daint.”\n\nNonetheless, Luisier stresses that, to the best of his knowledge, his team’s empirical approach is more state of the art than ever before in the development of electronic nanocomponents. Another of his group’s research focuses is the simulation of lithium ion batteries. “If we understand heat development in transistors or batteries more precisely, we will be able to propose better designs,” says Luisier. “OMEN is a component simulator of the new generation, where engineers use concepts that have never been used before in materials science, chemistry or physics.”\n\nThis article by Simone Ulmer has been published first on the web site of CSCS ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Pruefstand Nanoelektronik",
+        "label": "PERSON",
+        "start": 34,
+        "end": 59
+      },
+      {
+        "text": "Moore’s Law",
+        "label": "PERSON",
+        "start": 100,
+        "end": 111
+      },
+      {
+        "text": "every two years",
+        "label": "DATE",
+        "start": 141,
+        "end": 156
+      },
+      {
+        "text": "two billion",
+        "label": "CARDINAL",
+        "start": 210,
+        "end": 221
+      },
+      {
+        "text": "Smartphone",
+        "label": "ORG",
+        "start": 255,
+        "end": 265
+      },
+      {
+        "text": "Smartphone",
+        "label": "ORG",
+        "start": 305,
+        "end": 315
+      },
+      {
+        "text": "7,000 nanometres",
+        "label": "QUANTITY",
+        "start": 712,
+        "end": 728
+      },
+      {
+        "text": "80,000",
+        "label": "CARDINAL",
+        "start": 755,
+        "end": 761
+      },
+      {
+        "text": "20 nanometres",
+        "label": "QUANTITY",
+        "start": 808,
+        "end": 821
+      },
+      {
+        "text": "nanometre",
+        "label": "GPE",
+        "start": 1019,
+        "end": 1028
+      },
+      {
+        "text": "ETH-Zurich",
+        "label": "ORG",
+        "start": 1139,
+        "end": 1149
+      },
+      {
+        "text": "Mathieu Luisier",
+        "label": "PERSON",
+        "start": 1160,
+        "end": 1175
+      },
+      {
+        "text": "the Integrated Systems Laboratory",
+        "label": "ORG",
+        "start": 1181,
+        "end": 1214
+      },
+      {
+        "text": "ten years",
+        "label": "DATE",
+        "start": 23,
+        "end": 32
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 167,
+        "end": 171
+      },
+      {
+        "text": "Luisier",
+        "label": "ORG",
+        "start": 319,
+        "end": 326
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 657,
+        "end": 660
+      },
+      {
+        "text": "billions",
+        "label": "CARDINAL",
+        "start": 674,
+        "end": 682
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 725,
+        "end": 728
+      },
+      {
+        "text": "Luisier",
+        "label": "PRODUCT",
+        "start": 1345,
+        "end": 1352
+      },
+      {
+        "text": "crystal",
+        "label": "FAC",
+        "start": 124,
+        "end": 131
+      },
+      {
+        "text": "Luisier",
+        "label": "PERSON",
+        "start": 765,
+        "end": 772
+      },
+      {
+        "text": "the Schrödinger Equation",
+        "label": "ORG",
+        "start": 1344,
+        "end": 1368
+      },
+      {
+        "text": "Luisier",
+        "label": "ORG",
+        "start": 1416,
+        "end": 1423
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1514,
+        "end": 1517
+      },
+      {
+        "text": "Luisier",
+        "label": "ORG",
+        "start": 1646,
+        "end": 1653
+      },
+      {
+        "text": "Università",
+        "label": "GPE",
+        "start": 2234,
+        "end": 2244
+      },
+      {
+        "text": "Luisier",
+        "label": "PERSON",
+        "start": 2508,
+        "end": 2515
+      },
+      {
+        "text": "Piz Daint",
+        "label": "PERSON",
+        "start": 2577,
+        "end": 2586
+      },
+      {
+        "text": "Luisier",
+        "label": "PRODUCT",
+        "start": 2602,
+        "end": 2609
+      },
+      {
+        "text": "Luisier",
+        "label": "PERSON",
+        "start": 2988,
+        "end": 2995
+      },
+      {
+        "text": "Simone Ulmer",
+        "label": "PERSON",
+        "start": 3174,
+        "end": 3186
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 3206,
+        "end": 3211
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 3231,
+        "end": 3235
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Luisier",
+        "Mathieu Luisier",
+        "Moore’s Law",
+        "Piz Daint",
+        "Pruefstand Nanoelektronik",
+        "Simone Ulmer"
+      ],
+      "ORG": [
+        "CSCS",
+        "ETH-Zurich",
+        "Luisier",
+        "Smartphone",
+        "the Integrated Systems Laboratory",
+        "the Schrödinger Equation"
+      ],
+      "LOCATION": [
+        "Università",
+        "crystal",
+        "nanometre"
+      ],
+      "DATE": [
+        "every two years",
+        "ten years"
+      ],
+      "MISC": [
+        "20 nanometres",
+        "7,000 nanometres",
+        "80,000",
+        "Luisier",
+        "One",
+        "billions",
+        "first",
+        "one",
+        "two",
+        "two billion"
+      ]
+    },
+    "entity_counts": {
+      "Luisier": 8,
+      "Smartphone": 2,
+      "CSCS": 2,
+      "Pruefstand Nanoelektronik": 1,
+      "Moore’s Law": 1,
+      "every two years": 1,
+      "two billion": 1,
+      "7,000 nanometres": 1,
+      "80,000": 1,
+      "20 nanometres": 1,
+      "nanometre": 1,
+      "ETH-Zurich": 1,
+      "Mathieu Luisier": 1,
+      "the Integrated Systems Laboratory": 1,
+      "ten years": 1,
+      "One": 1,
+      "billions": 1,
+      "one": 1,
+      "crystal": 1,
+      "the Schrödinger Equation": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "virtueller-pruefstand-nanoelektronik.md",
+      "title": "En News Events/2015/04/virtueller Pruefstand Nanoelektronik",
+      "language": "en",
+      "source_path": "en_news_events/2015/04/virtueller-pruefstand-nanoelektronik.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Luisier",
+        "Mathieu Luisier",
+        "Moore’s Law",
+        "Piz Daint",
+        "Pruefstand Nanoelektronik",
+        "Simone Ulmer"
+      ],
+      "people_with_roles": {
+        "Luisier": [
+          "professor"
+        ],
+        "Mathieu Luisier": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "physics",
+        "computer_science"
+      ],
+      "research_topics": [
+        "20 nanometres",
+        "7,000 nanometres",
+        "80,000",
+        "Luisier",
+        "billions",
+        "first",
+        "two billion"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "ETH-Zurich",
+        "En News",
+        "Mathieu Luisier",
+        "Pruefstand Nanoelektronik",
+        "Piz Daint",
+        "Simone Ulmer",
+        "EPF Lausanne",
+        "The ETH",
+        "Integrated Systems"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSCS",
+        "ETH-Zurich",
+        "Luisier",
+        "Smartphone",
+        "the Integrated Systems Laboratory",
+        "the Schrödinger Equation"
+      ],
+      "locations": [
+        "Università",
+        "crystal",
+        "nanometre"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Luisier",
+        "Smartphone",
+        "CSCS",
+        "Pruefstand Nanoelektronik",
+        "Moore’s Law",
+        "every two years",
+        "two billion",
+        "7,000 nanometres",
+        "80,000",
+        "20 nanometres"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Computer predictions",
+          "Computer predictions",
+          "Playing with crystals"
+        ],
+        "content_length": 6265
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "CSCS",
+        "ETH-Zurich",
+        "2015",
+        "Moore’s Law",
+        "Mathieu Luisier",
+        "Pruefstand Nanoelektronik",
+        "Luisier",
+        "EU",
+        "Smartphone",
+        "Piz Daint",
+        "Simone Ulmer",
+        "the Integrated Systems Laboratory",
+        "the Schrödinger Equation",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "computer_science",
+        "80,000",
+        "billions",
+        "who",
+        "7,000 nanometres",
+        "Luisier",
+        "two billion",
+        "when",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "20 nanometres",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Luisier_has_role_professor",
+        "Mathieu Luisier_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

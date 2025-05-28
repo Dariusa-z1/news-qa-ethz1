@@ -1,0 +1,241 @@
+{
+  "filename": "foerderung-zeigt-wirkung.md",
+  "original_filename": "foerderung-zeigt-wirkung.html",
+  "source_path": "de_news_events/2024/03/foerderung-zeigt-wirkung.html",
+  "date": "2024-03",
+  "title": "Foerderung Zeigt Wirkung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Auch im vergangenen Jahr unterstützten zahlreiche Privatpersonen, Stiftungen und Unternehmen die ETH mit über 3500 Spenden, Erbschaften und Legaten in der Höhe von über 130 Millionen Franken.\n\nEin Meilenstein war die Partnerschaft zwischen der ETH und der Dieter Schwarz Stiftung. Sie ermöglicht es, die digitale Transformation in den nächsten 30 Jahren in einem Umfang verantwortlich mitzugestalten, der mit den regulären Mitteln und Strukturen der ETH nicht möglich wäre. Geplant sind bis zu 20 Professuren sowie der Aufbau eines Lehr- und Forschungszentrums in Heilbronn mit weltweiter Ausstrahlung.\n\nDonatorinnen, Donatoren und Partner haben im vergangenen Jahr noch viel mehr ermöglicht: So kann die Forschung für Kinder und Jugendliche am Basel Research Centre for Child Health (BRCCH) dank einer weiteren grosszügigen Spende der Fondation Botnar von 50 Millionen Franken zusammen mit der Universität Basel stark ausgebaut werden. Die Halter Gruppe unterstützt den Bereich Digitales Planen und Bauen. Die private Unterstützung eines Ehepaars trägt dazu bei, zukünftige Friedensmediatorinnen auszubilden. Schliesslich engagieren sich immer mehr Privatpersonen, Stiftungen und Unternehmen in der Nachwuchsförderung; im vergangenen Jahr haben sie zahlreiche Studentinnen und Jungunternehmerinnen auf ihrem Weg unterstützt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Zeigt",
+        "label": "PER",
+        "start": 34,
+        "end": 39
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 97,
+        "end": 100
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 243,
+        "end": 246
+      },
+      {
+        "text": "Dieter Schwarz Stiftung",
+        "label": "ORG",
+        "start": 255,
+        "end": 278
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 449,
+        "end": 452
+      },
+      {
+        "text": "Heilbronn",
+        "label": "LOC",
+        "start": 563,
+        "end": 572
+      },
+      {
+        "text": "Basel",
+        "label": "ORG",
+        "start": 743,
+        "end": 748
+      },
+      {
+        "text": "Centre for Child Health",
+        "label": "ORG",
+        "start": 758,
+        "end": 781
+      },
+      {
+        "text": "BRCCH",
+        "label": "ORG",
+        "start": 783,
+        "end": 788
+      },
+      {
+        "text": "Fondation Botnar",
+        "label": "LOC",
+        "start": 834,
+        "end": 850
+      },
+      {
+        "text": "Universität Basel",
+        "label": "ORG",
+        "start": 893,
+        "end": 910
+      },
+      {
+        "text": "Halter Gruppe",
+        "label": "ORG",
+        "start": 939,
+        "end": 952
+      },
+      {
+        "text": "Digitales",
+        "label": "PER",
+        "start": 977,
+        "end": 986
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Digitales",
+        "Zeigt"
+      ],
+      "ORG": [
+        "BRCCH",
+        "Basel",
+        "Centre for Child Health",
+        "Dieter Schwarz Stiftung",
+        "ETH",
+        "Halter Gruppe",
+        "Universität Basel"
+      ],
+      "LOCATION": [
+        "Fondation Botnar",
+        "Heilbronn"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "Zeigt": 1,
+      "Dieter Schwarz Stiftung": 1,
+      "Heilbronn": 1,
+      "Basel": 1,
+      "Centre for Child Health": 1,
+      "BRCCH": 1,
+      "Fondation Botnar": 1,
+      "Universität Basel": 1,
+      "Halter Gruppe": 1,
+      "Digitales": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "foerderung-zeigt-wirkung.md",
+      "title": "De News Events/2024/03/foerderung Zeigt Wirkung",
+      "language": "de",
+      "source_path": "de_news_events/2024/03/foerderung-zeigt-wirkung.html"
+    },
+    "temporal": {
+      "publication_date": "2024-03",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Digitales",
+        "Zeigt"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Die Halter",
+        "Basel Research",
+        "Child Health",
+        "Dieter Schwarz",
+        "De News",
+        "Bereich Digitales",
+        "Ein Meilenstein",
+        "Fondation Botnar",
+        "Zeigt Wirkung",
+        "Millionen Franken"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BRCCH",
+        "Basel",
+        "Centre for Child Health",
+        "Dieter Schwarz Stiftung",
+        "ETH",
+        "Halter Gruppe",
+        "Universität Basel"
+      ],
+      "locations": [
+        "Fondation Botnar",
+        "Heilbronn"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Zeigt",
+        "Dieter Schwarz Stiftung",
+        "Heilbronn",
+        "Basel",
+        "Centre for Child Health",
+        "BRCCH",
+        "Fondation Botnar",
+        "Universität Basel",
+        "Halter Gruppe"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1373
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Universität Basel",
+        "ETH",
+        "Halter Gruppe",
+        "2024",
+        "Centre for Child Health",
+        "Digitales",
+        "Dieter Schwarz Stiftung",
+        "Zeigt",
+        "BRCCH",
+        "Basel"
+      ],
+      "semantic_concepts": [
+        "medical_research",
+        "what",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research"
+      ]
+    }
+  }
+}

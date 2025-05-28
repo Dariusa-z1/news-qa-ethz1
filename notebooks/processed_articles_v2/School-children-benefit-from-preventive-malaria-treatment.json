@@ -1,0 +1,299 @@
+{
+  "filename": "School-children-benefit-from-preventive-malaria-treatment.md",
+  "original_filename": "School-children-benefit-from-preventive-malaria-treatment.html",
+  "source_path": "en_news_events/2020/10/School-children-benefit-from-preventive-malaria-treatment.html",
+  "date": "2020-10",
+  "title": "School Children Benefit From Preventive Malaria Treatment",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In several regions affected by the tropical disease malaria there are programmes in schools to preventively treat children with antimalarial drugs. An international consortium of researchers, including Michael Zimmermann, Professor of Human Nutrition at ETH Zurich, has now for the first time analysed the effectiveness of such programmes in a meta-analysis using individual data. The scientists evaluated data from 11 clinical trials, involving more than 15,000 children in seven countries in sub-Saharan Africa.\n\nThe results showed that such programmes are effective and reduce subsequent malaria infections in children – on average by half. Cases of malaria-associated anaemia were reduced by 15 percent on average. As the programmes studied differed greatly in terms of the drugs used and the number of administrations (between once a month and once a year), the programmes also differed in their effectiveness. Those programmes that used combination therapy with either the drug arteminisin or an aminoquinoline drug were particularly successful.\n\n\"Such public health campaigns in schools not only improve health, cognition and well-being of children, but can also generally help to curb the disease spread in communities where malaria is endemic,\" says ETH Professor Zimmermann. The scientists published their results in the latest issue of the journal Lancet Global Health .\n\nCohee LM et al.: Preventive malaria treatment among school-aged children in sub-Saharan Africa: a systematic review and meta-analyses. Lancet Global Health, 22 October 2020, doi: 10.1016/S2214-109X(20)30325-9"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Michael Zimmermann",
+        "label": "PERSON",
+        "start": 202,
+        "end": 220
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 282,
+        "end": 287
+      },
+      {
+        "text": "more than 15,000",
+        "label": "CARDINAL",
+        "start": 446,
+        "end": 462
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 475,
+        "end": 480
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 506,
+        "end": 512
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 637,
+        "end": 641
+      },
+      {
+        "text": "15 percent",
+        "label": "PERCENT",
+        "start": 695,
+        "end": 705
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1257,
+        "end": 1260
+      },
+      {
+        "text": "Zimmermann",
+        "label": "PERSON",
+        "start": 1271,
+        "end": 1281
+      },
+      {
+        "text": "Lancet Global Health",
+        "label": "ORG",
+        "start": 1357,
+        "end": 1377
+      },
+      {
+        "text": "Cohee",
+        "label": "ORG",
+        "start": 1380,
+        "end": 1385
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 1468,
+        "end": 1474
+      },
+      {
+        "text": "Lancet Global Health",
+        "label": "ORG",
+        "start": 1515,
+        "end": 1535
+      },
+      {
+        "text": "22 October 2020",
+        "label": "DATE",
+        "start": 1537,
+        "end": 1552
+      },
+      {
+        "text": "10.1016",
+        "label": "CARDINAL",
+        "start": 1559,
+        "end": 1566
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Michael Zimmermann",
+        "Zimmermann"
+      ],
+      "ORG": [
+        "Cohee",
+        "ETH",
+        "Lancet Global Health"
+      ],
+      "LOCATION": [
+        "Africa"
+      ],
+      "DATE": [
+        "22 October 2020"
+      ],
+      "MISC": [
+        "10.1016",
+        "15 percent",
+        "first",
+        "half",
+        "more than 15,000",
+        "seven"
+      ]
+    },
+    "entity_counts": {
+      "Africa": 2,
+      "Lancet Global Health": 2,
+      "Michael Zimmermann": 1,
+      "first": 1,
+      "more than 15,000": 1,
+      "seven": 1,
+      "half": 1,
+      "15 percent": 1,
+      "ETH": 1,
+      "Zimmermann": 1,
+      "Cohee": 1,
+      "22 October 2020": 1,
+      "10.1016": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "School-children-benefit-from-preventive-malaria-treatment.md",
+      "title": "En News Events/2020/10/school Children Benefit From Preventive Malaria Treatment",
+      "language": "en",
+      "source_path": "en_news_events/2020/10/School-children-benefit-from-preventive-malaria-treatment.html"
+    },
+    "temporal": {
+      "publication_date": "2020-10",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Michael Zimmermann",
+        "Zimmermann"
+      ],
+      "people_with_roles": {
+        "Michael Zimmermann": [
+          "researcher",
+          "professor"
+        ],
+        "Zimmermann": [
+          "Professor",
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1016",
+        "15 percent",
+        "first",
+        "half",
+        "more than 15,000",
+        "seven"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Children Benefit",
+        "From Preventive",
+        "Malaria Treatment",
+        "Michael Zimmermann",
+        "En News",
+        "Lancet Global",
+        "Cohee LM",
+        "Human Nutrition",
+        "Saharan Africa",
+        "ETH Professor",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cohee",
+        "ETH",
+        "Lancet Global Health"
+      ],
+      "locations": [
+        "Africa"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Africa",
+        "Lancet Global Health",
+        "Michael Zimmermann",
+        "first",
+        "more than 15,000",
+        "seven",
+        "half",
+        "15 percent",
+        "ETH",
+        "Zimmermann"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1672
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Michael Zimmermann",
+        "2020",
+        "Lancet Global Health",
+        "Cohee",
+        "Zimmermann",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1016",
+        "mathematics",
+        "first",
+        "seven",
+        "half",
+        "more than 15,000",
+        "who",
+        "what",
+        "how",
+        "medical_research",
+        "15 percent",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Michael Zimmermann_has_role_researcher",
+        "Michael Zimmermann_has_role_professor",
+        "Zimmermann_has_role_Professor",
+        "Zimmermann_has_role_researcher",
+        "Zimmermann_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

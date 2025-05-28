@@ -1,0 +1,493 @@
+{
+  "filename": "formula-e.md",
+  "original_filename": "formula-e.html",
+  "source_path": "en_news_events/2018/04/formula-e.html",
+  "date": "2018-04",
+  "title": "Formula E",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Julius Baer Zurich E-Prix 2018 – the first race in Switzerland for electric-powered cars – will take place on 10 June. Today at ETH Zurich the organisers presented members of the media with more details about the event, with Zurich Mayor Corine Mauch and ETH President Lino Guzzella in attendance. The ETH main building also served as the finish line for a demonstration run, as Swiss Formula E driver Sébastien Buemi drove a Formula E racing car through Zurich with a police escort.\n\nZurich's Mayor Corinne Mauch and ETH President Lino Guzzella welcome Sébastien Buemi. (Photograph: ETH Zurich)\n\nETH Zurich will participate in the race’s official accompanying programme, eDays. The Formula E race in Zurich is not only a sporting competition, it is also an opportunity to think about the mobility of the future, Guzzella said to the media. The university considers climate-friendly, energy-efficient and affordable mobility to be a key topic for research and education.\n\nAt the eDays symposium on Friday, 8 June, ETH Zurich will place the topic of e-mobility in a wider context. The debate will include experts from science, industry and politics, including ETH professors Konstantinos Boulouchos, Christopher Onder and Gerhard Schmitt.\n\nETH students will also present their own mobility projects. These include Duckietown, a system of autonomous mini-cars that visitors can get actively involved with; the autonomous electric racing cars from AMZ, the academic motorsports club; and the Swissloop high-speed travel capsule that will take part in Elon Musk’s Hyperloop competition in Los Angeles this summer."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 41,
+        "end": 46
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 55,
+        "end": 66
+      },
+      {
+        "text": "10 June",
+        "label": "DATE",
+        "start": 114,
+        "end": 121
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 123,
+        "end": 128
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 132,
+        "end": 142
+      },
+      {
+        "text": "Zurich Mayor Corine Mauch",
+        "label": "ORG",
+        "start": 229,
+        "end": 254
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 259,
+        "end": 262
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 273,
+        "end": 286
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 306,
+        "end": 309
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 383,
+        "end": 388
+      },
+      {
+        "text": "Sébastien Buemi",
+        "label": "PERSON",
+        "start": 406,
+        "end": 421
+      },
+      {
+        "text": "Formula",
+        "label": "PERSON",
+        "start": 430,
+        "end": 437
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 459,
+        "end": 465
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 488,
+        "end": 494
+      },
+      {
+        "text": "Corinne Mauch",
+        "label": "PERSON",
+        "start": 503,
+        "end": 516
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 521,
+        "end": 524
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 535,
+        "end": 548
+      },
+      {
+        "text": "Sébastien Buemi",
+        "label": "PERSON",
+        "start": 557,
+        "end": 572
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 587,
+        "end": 597
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 599,
+        "end": 609
+      },
+      {
+        "text": "eDays",
+        "label": "DATE",
+        "start": 674,
+        "end": 679
+      },
+      {
+        "text": "Formula",
+        "label": "PERSON",
+        "start": 685,
+        "end": 692
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 703,
+        "end": 709
+      },
+      {
+        "text": "Guzzella",
+        "label": "PERSON",
+        "start": 815,
+        "end": 823
+      },
+      {
+        "text": "eDays",
+        "label": "DATE",
+        "start": 980,
+        "end": 985
+      },
+      {
+        "text": "Friday",
+        "label": "DATE",
+        "start": 999,
+        "end": 1005
+      },
+      {
+        "text": "8 June",
+        "label": "DATE",
+        "start": 1007,
+        "end": 1013
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1015,
+        "end": 1025
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1160,
+        "end": 1163
+      },
+      {
+        "text": "Konstantinos Boulouchos",
+        "label": "PERSON",
+        "start": 1175,
+        "end": 1198
+      },
+      {
+        "text": "Christopher Onder",
+        "label": "PERSON",
+        "start": 1200,
+        "end": 1217
+      },
+      {
+        "text": "Gerhard Schmitt",
+        "label": "PERSON",
+        "start": 1222,
+        "end": 1237
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1239,
+        "end": 1242
+      },
+      {
+        "text": "Duckietown",
+        "label": "ORG",
+        "start": 1313,
+        "end": 1323
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 1445,
+        "end": 1448
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 1489,
+        "end": 1498
+      },
+      {
+        "text": "Los Angeles",
+        "label": "GPE",
+        "start": 1585,
+        "end": 1596
+      },
+      {
+        "text": "this summer",
+        "label": "DATE",
+        "start": 1597,
+        "end": 1608
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christopher Onder",
+        "Corinne Mauch",
+        "ETH Zurich",
+        "Formula",
+        "Gerhard Schmitt",
+        "Guzzella",
+        "Konstantinos Boulouchos",
+        "Lino Guzzella",
+        "Sébastien Buemi"
+      ],
+      "ORG": [
+        "AMZ",
+        "Duckietown",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Swissloop",
+        "Zurich Mayor Corine Mauch"
+      ],
+      "LOCATION": [
+        "Los Angeles",
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "10 June",
+        "8 June",
+        "Friday",
+        "Today",
+        "eDays",
+        "this summer"
+      ],
+      "MISC": [
+        "Swiss",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "ETH Zurich": 4,
+      "Zurich": 3,
+      "Lino Guzzella": 2,
+      "Sébastien Buemi": 2,
+      "Formula": 2,
+      "eDays": 2,
+      "En News": 1,
+      "first": 1,
+      "Switzerland": 1,
+      "10 June": 1,
+      "Today": 1,
+      "Zurich Mayor Corine Mauch": 1,
+      "Swiss": 1,
+      "Corinne Mauch": 1,
+      "Guzzella": 1,
+      "Friday": 1,
+      "8 June": 1,
+      "Konstantinos Boulouchos": 1,
+      "Christopher Onder": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "formula-e.md",
+      "title": "En News Events/2018/04/formula E",
+      "language": "en",
+      "source_path": "en_news_events/2018/04/formula-e.html"
+    },
+    "temporal": {
+      "publication_date": "2018-04",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christopher Onder",
+        "Corinne Mauch",
+        "ETH Zurich",
+        "Formula",
+        "Gerhard Schmitt",
+        "Guzzella",
+        "Konstantinos Boulouchos",
+        "Lino Guzzella",
+        "Sébastien Buemi"
+      ],
+      "people_with_roles": {
+        "Christopher Onder": [
+          "professor"
+        ],
+        "Corinne Mauch": [
+          "president"
+        ],
+        "ETH Zurich": [
+          "president"
+        ],
+        "Gerhard Schmitt": [
+          "professor"
+        ],
+        "Guzzella": [
+          "president"
+        ],
+        "Konstantinos Boulouchos": [
+          "professor"
+        ],
+        "Lino Guzzella": [
+          "president"
+        ],
+        "Sébastien Buemi": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Swiss",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Corine Mauch",
+        "Julius Baer",
+        "Swiss Formula",
+        "Los Angeles",
+        "Lino Guzzella",
+        "Mayor Corinne",
+        "The ETH",
+        "Formula E",
+        "Zurich Mayor",
+        "Zurich E",
+        "Elon Musk",
+        "E The",
+        "ETH President",
+        "En News",
+        "The Formula",
+        "Gerhard Schmitt",
+        "Christopher Onder",
+        "ETH Zurich",
+        "Konstantinos Boulouchos"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AMZ",
+        "Duckietown",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Swissloop",
+        "Zurich Mayor Corine Mauch"
+      ],
+      "locations": [
+        "Los Angeles",
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Zurich",
+        "Zurich",
+        "Lino Guzzella",
+        "Sébastien Buemi",
+        "Formula",
+        "eDays",
+        "En News",
+        "first",
+        "Switzerland"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1646
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "Sébastien Buemi",
+        "En News",
+        "Duckietown",
+        "Zurich Mayor Corine Mauch",
+        "Guzzella",
+        "Formula",
+        "Gerhard Schmitt",
+        "Corinne Mauch",
+        "Swissloop",
+        "Christopher Onder",
+        "Lino Guzzella",
+        "ETH Zurich",
+        "Konstantinos Boulouchos",
+        "AMZ"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "Swiss",
+        "what",
+        "where"
+      ],
+      "graph_relations": [
+        "Christopher Onder_has_role_professor",
+        "Corinne Mauch_has_role_president",
+        "ETH Zurich_has_role_president",
+        "Gerhard Schmitt_has_role_professor",
+        "Guzzella_has_role_president",
+        "Konstantinos Boulouchos_has_role_professor",
+        "Lino Guzzella_has_role_president",
+        "Sébastien Buemi_has_role_president",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

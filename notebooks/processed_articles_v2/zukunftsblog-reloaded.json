@@ -1,0 +1,291 @@
+{
+  "filename": "zukunftsblog-reloaded.md",
+  "original_filename": "zukunftsblog-reloaded.html",
+  "source_path": "en_internal/2018/01/zukunftsblog-reloaded.html",
+  "date": "2018-01",
+  "title": "Zukunftsblog Reloaded",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Three posts at relaunch",
+      "text": "- emailing the editors and letting them know about topics you think would make for an interesting blog post:\n\n- fostering dialogue by commenting on contributors’ posts\n\n- helping to expand the reach of ETH expertise by sharing the blog (or individual posts) on your own social media networks\n\n- signing up for our newsletter to stay up to date\n\nToday marks the official start of the expanded blog: ETH researchers will be sharing expert opinions and exciting facts in the areas of digitalisation and health as well. Sustainability stays in the mix as the third focus area."
+    },
+    {
+      "heading": "Three posts at relaunch",
+      "text": "The relaunch kicks off with three new posts, with one ETH researcher in each area imagining what the future of their field might look like: Professor Reto Knutti considers why “sustainability” will still be much more than just a buzzword. Professor Roland Siegwart explores the state of autonomous driving in ten years. And Professor Martin Fussenegger describes his vision of how patients may one day receive treatment using electronic pills.\n\nHow the ETH community can get involved\n\nMembers of ETH can do a lot to strengthen the Zukunftsblog and help it to reach a wider audience. This could include things like:\n\nYou can read the relaunched Zukunftsblog here."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Reloaded",
+        "label": "ORG",
+        "start": 33,
+        "end": 41
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 200,
+        "end": 203
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 341,
+        "end": 346
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 394,
+        "end": 397
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 551,
+        "end": 556
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 28,
+        "end": 33
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 50,
+        "end": 53
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 54,
+        "end": 57
+      },
+      {
+        "text": "Reto Knutti",
+        "label": "PERSON",
+        "start": 150,
+        "end": 161
+      },
+      {
+        "text": "Roland Siegwart",
+        "label": "PERSON",
+        "start": 249,
+        "end": 264
+      },
+      {
+        "text": "ten years",
+        "label": "DATE",
+        "start": 309,
+        "end": 318
+      },
+      {
+        "text": "Martin Fussenegger",
+        "label": "PERSON",
+        "start": 334,
+        "end": 352
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 452,
+        "end": 455
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 494,
+        "end": 497
+      },
+      {
+        "text": "Zukunftsblog",
+        "label": "GPE",
+        "start": 529,
+        "end": 541
+      },
+      {
+        "text": "Zukunftsblog",
+        "label": "GPE",
+        "start": 641,
+        "end": 653
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Martin Fussenegger",
+        "Reto Knutti",
+        "Roland Siegwart"
+      ],
+      "ORG": [
+        "ETH",
+        "Reloaded"
+      ],
+      "LOCATION": [
+        "Zukunftsblog"
+      ],
+      "DATE": [
+        "Today",
+        "ten years"
+      ],
+      "MISC": [
+        "one",
+        "third",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "Zukunftsblog": 2,
+      "Reloaded": 1,
+      "Today": 1,
+      "third": 1,
+      "three": 1,
+      "one": 1,
+      "Reto Knutti": 1,
+      "Roland Siegwart": 1,
+      "ten years": 1,
+      "Martin Fussenegger": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "zukunftsblog-reloaded.md",
+      "title": "En Internal/2018/01/zukunftsblog Reloaded",
+      "language": "en",
+      "source_path": "en_internal/2018/01/zukunftsblog-reloaded.html"
+    },
+    "temporal": {
+      "publication_date": "2018-01",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Martin Fussenegger",
+        "Reto Knutti",
+        "Roland Siegwart"
+      ],
+      "people_with_roles": {
+        "Martin Fussenegger": [
+          "Professor",
+          "professor"
+        ],
+        "Reto Knutti": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Roland Siegwart": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "third",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Professor Roland",
+        "Professor Reto",
+        "And Professor",
+        "En Internal",
+        "Martin Fussenegger"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Reloaded"
+      ],
+      "locations": [
+        "Zukunftsblog"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Zukunftsblog",
+        "Reloaded",
+        "Today",
+        "third",
+        "three",
+        "one",
+        "Reto Knutti",
+        "Roland Siegwart",
+        "ten years"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Three posts at relaunch",
+          "Three posts at relaunch"
+        ],
+        "content_length": 1277
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "Reto Knutti",
+        "Reloaded",
+        "Roland Siegwart",
+        "Martin Fussenegger"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "third",
+        "three",
+        "who",
+        "what",
+        "how",
+        "medical_research",
+        "climate_change",
+        "why",
+        "when"
+      ],
+      "graph_relations": [
+        "Martin Fussenegger_has_role_Professor",
+        "Martin Fussenegger_has_role_professor",
+        "Reto Knutti_has_role_Professor",
+        "Reto Knutti_has_role_researcher",
+        "Reto Knutti_has_role_professor",
+        "Roland Siegwart_has_role_Professor",
+        "Roland Siegwart_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

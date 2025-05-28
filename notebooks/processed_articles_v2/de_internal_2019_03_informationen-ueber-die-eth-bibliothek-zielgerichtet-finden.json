@@ -1,0 +1,152 @@
+{
+  "filename": "de_internal_2019_03_informationen-ueber-die-eth-bibliothek-zielgerichtet-finden.md",
+  "original_filename": "de_internal_2019_03_informationen-ueber-die-eth-bibliothek-zielgerichtet-finden.html",
+  "source_path": "de_internal/2019/03/informationen-ueber-die-eth-bibliothek-zielgerichtet-finden.html",
+  "date": "2019-03",
+  "title": "Informationen Ueber Die Eth Bibliothek Zielgerichtet Finden",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Im Suchportal finden Sie ab sofort nicht nur Dokumente, sondern auch ausgewählte Informationen über die ETH-Bibliothek und ihre Dienstleistungen.\n\nGeben Sie im Suchschlitz einen Begriff wie \"Öffnungszeiten\", \"Open Access\" oder \"Geowissenschaften\" ein. Danach werden Ihnen in praktischen Info-Boxen Links auf Webseiten der ETH-Bibliothek mit den entsprechenden Informationen angezeigt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/03/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Eth Bibliothek",
+        "label": "LOC",
+        "start": 44,
+        "end": 58
+      },
+      {
+        "text": "Suchportal",
+        "label": "LOC",
+        "start": 3,
+        "end": 13
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 104,
+        "end": 118
+      },
+      {
+        "text": "Suchschlitz",
+        "label": "LOC",
+        "start": 159,
+        "end": 170
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 321,
+        "end": 335
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2019/03/",
+        "Eth Bibliothek",
+        "Suchportal",
+        "Suchschlitz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 2,
+      "De Internal/2019/03/": 1,
+      "Eth Bibliothek": 1,
+      "Suchportal": 1,
+      "Suchschlitz": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_03_informationen-ueber-die-eth-bibliothek-zielgerichtet-finden.md",
+      "title": "De Internal/2019/03/informationen Ueber die Eth Bibliothek Zielgerichtet Finden",
+      "language": "de",
+      "source_path": "de_internal/2019/03/informationen-ueber-die-eth-bibliothek-zielgerichtet-finden.html"
+    },
+    "temporal": {
+      "publication_date": "2019-03",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Info-Boxen",
+        "Geben Sie",
+        "De Internal",
+        "Zielgerichtet Finden",
+        "Im Suchportal",
+        "Open Access",
+        "Eth Bibliothek"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2019/03/",
+        "Eth Bibliothek",
+        "Suchportal",
+        "Suchschlitz"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2019/03/",
+        "Eth Bibliothek",
+        "Suchportal",
+        "Suchschlitz"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 464
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek"
+      ],
+      "graph_relations": []
+    }
+  }
+}

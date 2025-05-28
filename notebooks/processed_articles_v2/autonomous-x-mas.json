@@ -1,0 +1,194 @@
+{
+  "filename": "autonomous-x-mas.md",
+  "original_filename": "autonomous-x-mas.html",
+  "source_path": "en_news_events/2013/12/autonomous-x-mas.html",
+  "date": "2013-12",
+  "title": "Autonomous X Mas",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Once Robo-Rudolf and Robo-St. Nick and their team of robo-elves have delivered gifts and the quadrocopter-fairy has decorated the autonomously delivered Christmas tree from the forest, the cute creatures of ETH Zurich’s Autonomous Systems Lab can finally celebrate Christmas. And they’re sharing their joy with the world in their latest video . It wouldn’t be a surprise if they’d posted the video on YouTube autonomously, either. But what’s certain is that many researchers filled – sorry, programmed – their creatures with the spirit of Christmas.\n\nFor their latest Christmas greeting video, the roboticists (the research elves) took the capabilities of the lab robots to the limit to autonomously deliver a more or less traditional holiday greeting. Not even a short-circuit can prevent the emotional one-eyed Santa-Bot becoming teary-eyed at the end."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Robo-St. Nick",
+        "label": "ORG",
+        "start": 21,
+        "end": 34
+      },
+      {
+        "text": "Christmas",
+        "label": "DATE",
+        "start": 153,
+        "end": 162
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 207,
+        "end": 219
+      },
+      {
+        "text": "Christmas",
+        "label": "DATE",
+        "start": 265,
+        "end": 274
+      },
+      {
+        "text": "YouTube",
+        "label": "ORG",
+        "start": 401,
+        "end": 408
+      },
+      {
+        "text": "Christmas",
+        "label": "DATE",
+        "start": 539,
+        "end": 548
+      },
+      {
+        "text": "their latest Christmas",
+        "label": "DATE",
+        "start": 554,
+        "end": 576
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 803,
+        "end": 806
+      },
+      {
+        "text": "Santa-Bot",
+        "label": "ORG",
+        "start": 812,
+        "end": 821
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich’s"
+      ],
+      "ORG": [
+        "Robo-St. Nick",
+        "Santa-Bot",
+        "YouTube"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Christmas",
+        "their latest Christmas"
+      ],
+      "MISC": [
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "Christmas": 3,
+      "Robo-St. Nick": 1,
+      "ETH Zurich’s": 1,
+      "YouTube": 1,
+      "their latest Christmas": 1,
+      "one": 1,
+      "Santa-Bot": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "autonomous-x-mas.md",
+      "title": "En News Events/2013/12/autonomous X Mas",
+      "language": "en",
+      "source_path": "en_news_events/2013/12/autonomous-x-mas.html"
+    },
+    "temporal": {
+      "publication_date": "2013-12",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Once Robo",
+        "Autonomous Systems",
+        "X Mas",
+        "En News",
+        "Robo-St",
+        "Santa-Bot",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Robo-St. Nick",
+        "Santa-Bot",
+        "YouTube"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "Christmas",
+        "Robo-St. Nick",
+        "ETH Zurich’s",
+        "YouTube",
+        "their latest Christmas",
+        "one",
+        "Santa-Bot"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 894
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2013",
+        "Santa-Bot",
+        "YouTube",
+        "Robo-St. Nick",
+        "ETH Zurich’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

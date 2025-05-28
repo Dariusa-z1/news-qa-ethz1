@@ -1,0 +1,146 @@
+{
+  "filename": "bildkatalog-der-erdwissenschaftlichen-sammlungen-der-eth-zuerich-jetzt-online.md",
+  "original_filename": "bildkatalog-der-erdwissenschaftlichen-sammlungen-der-eth-zuerich-jetzt-online.html",
+  "source_path": "de_internal/2015/07/bildkatalog-der-erdwissenschaftlichen-sammlungen-der-eth-zuerich-jetzt-online.html",
+  "date": "2015-07",
+  "title": "Bildkatalog Der Erdwissenschaftlichen Sammlungen Der Eth Zuerich Jetzt Online",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Materialien stammen aus der Sammlung Albert Heim, die in den 1880er bis 1910er Jahren aus der ganzen Welt zusammengetragen wurden.\n\nEs lässt sich nach verschiedenen Fachbegriffen wie Fossilien, Sedimenten, vulkanischen Produkten oder metamorphen Gesteinen recherchieren. Die digitalisierten Objekte können dreidimensional angesehen und kostenlos heruntergeladen werden.\n\nWeitere Informationen finden Sie auf ETH E-Pics Erdwissenschaftliche Sammlungen"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/07/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Eth Zuerich",
+        "label": "ORG",
+        "start": 73,
+        "end": 84
+      },
+      {
+        "text": "Albert Heim",
+        "label": "PER",
+        "start": 41,
+        "end": 52
+      },
+      {
+        "text": "ETH E-Pics",
+        "label": "MISC",
+        "start": 410,
+        "end": 420
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Albert Heim"
+      ],
+      "ORG": [
+        "Eth Zuerich"
+      ],
+      "LOCATION": [
+        "De Internal/2015/07/"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH E-Pics"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2015/07/": 1,
+      "Eth Zuerich": 1,
+      "Albert Heim": 1,
+      "ETH E-Pics": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "bildkatalog-der-erdwissenschaftlichen-sammlungen-der-eth-zuerich-jetzt-online.md",
+      "title": "De Internal/2015/07/bildkatalog der Erdwissenschaftlichen Sammlungen der Eth Zuerich Jetzt Online",
+      "language": "de",
+      "source_path": "de_internal/2015/07/bildkatalog-der-erdwissenschaftlichen-sammlungen-der-eth-zuerich-jetzt-online.html"
+    },
+    "temporal": {
+      "publication_date": "2015-07",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Albert Heim"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH E-Pics"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Pics Erdwissenschaftliche",
+        "Die Materialien",
+        "ETH E",
+        "De Internal",
+        "Eth Zuerich",
+        "Sammlung Albert",
+        "Weitere Informationen",
+        "Jetzt Online",
+        "Erdwissenschaftlichen Sammlungen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Eth Zuerich"
+      ],
+      "locations": [
+        "De Internal/2015/07/"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2015/07/",
+        "Eth Zuerich",
+        "Albert Heim",
+        "ETH E-Pics"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 552
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Albert Heim",
+        "ERC",
+        "Eth Zuerich",
+        "2015"
+      ],
+      "semantic_concepts": [
+        "ETH E-Pics"
+      ],
+      "graph_relations": []
+    }
+  }
+}

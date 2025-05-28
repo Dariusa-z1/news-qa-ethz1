@@ -1,0 +1,220 @@
+{
+  "filename": "de_internal_2014_11_lange-nacht-der-karriere.md",
+  "original_filename": "de_internal_2014_11_lange-nacht-der-karriere.html",
+  "source_path": "de_internal/2014/11/lange-nacht-der-karriere.html",
+  "date": "2014-11",
+  "title": "Lange Nacht Der Karriere",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Hast du schon mal mit einem Manager Minigolf gespielt oder dein Gipfeli am Morgen mit dem CEO eines Grosskonzerns gegessen? Hast du schon mal versucht, einen Firmenvertreter innerhalb von 3 Minuten von dir zu überzeugen oder weisst du wie du dich kleidest, wenn «business casual» gefragt ist?\n\nWenn du eine dieser Fragen mit nein beantwortest, dann komm am 13. November zur Langen Nacht der Karriere im ETH-Hauptgebäude. Es warten «Career Speed Dating», «Bewerbungscatwalk», «Meet, Greet & Play», «CV Corner», «Food&Drinks», u.v.m. warten auf dich.\n\n13. November 2014, ab 18 Uhr im Hauptgebäude der ETH Zürich.\n\nWeitere Informationen auf der Webseite der Veranstaltung und auf externe Seite Facebook ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/11/lange Nacht",
+        "label": "LOC",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "Minigolf",
+        "label": "PER",
+        "start": 36,
+        "end": 44
+      },
+      {
+        "text": "Langen Nacht",
+        "label": "MISC",
+        "start": 373,
+        "end": 385
+      },
+      {
+        "text": "ETH-Hauptgebäude",
+        "label": "ORG",
+        "start": 402,
+        "end": 418
+      },
+      {
+        "text": "Career Speed Dating",
+        "label": "ORG",
+        "start": 431,
+        "end": 450
+      },
+      {
+        "text": "Bewerbungscatwalk",
+        "label": "PER",
+        "start": 454,
+        "end": 471
+      },
+      {
+        "text": "Meet",
+        "label": "MISC",
+        "start": 475,
+        "end": 479
+      },
+      {
+        "text": "Greet & Play",
+        "label": "MISC",
+        "start": 481,
+        "end": 493
+      },
+      {
+        "text": "dich",
+        "label": "LOC",
+        "start": 542,
+        "end": 546
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 597,
+        "end": 607
+      },
+      {
+        "text": "Facebook",
+        "label": "MISC",
+        "start": 688,
+        "end": 696
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bewerbungscatwalk",
+        "Minigolf"
+      ],
+      "ORG": [
+        "Career Speed Dating",
+        "ETH Zürich",
+        "ETH-Hauptgebäude"
+      ],
+      "LOCATION": [
+        "De Internal/2014/11/lange Nacht",
+        "dich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Facebook",
+        "Greet & Play",
+        "Langen Nacht",
+        "Meet"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2014/11/lange Nacht": 1,
+      "Minigolf": 1,
+      "Langen Nacht": 1,
+      "ETH-Hauptgebäude": 1,
+      "Career Speed Dating": 1,
+      "Bewerbungscatwalk": 1,
+      "Meet": 1,
+      "Greet & Play": 1,
+      "dich": 1,
+      "ETH Zürich": 1,
+      "Facebook": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2014_11_lange-nacht-der-karriere.md",
+      "title": "De Internal/2014/11/lange Nacht der Karriere",
+      "language": "de",
+      "source_path": "de_internal/2014/11/lange-nacht-der-karriere.html"
+    },
+    "temporal": {
+      "publication_date": "2014-11",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bewerbungscatwalk",
+        "Minigolf"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Facebook",
+        "Greet & Play",
+        "Langen Nacht",
+        "Meet"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Seite Facebook",
+        "De Internal",
+        "Manager Minigolf",
+        "CV Corner",
+        "Career Speed",
+        "Langen Nacht",
+        "Karriere Hast",
+        "Weitere Informationen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Career Speed Dating",
+        "ETH Zürich",
+        "ETH-Hauptgebäude"
+      ],
+      "locations": [
+        "De Internal/2014/11/lange Nacht",
+        "dich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2014/11/lange Nacht",
+        "Minigolf",
+        "Langen Nacht",
+        "ETH-Hauptgebäude",
+        "Career Speed Dating",
+        "Bewerbungscatwalk",
+        "Meet",
+        "Greet & Play",
+        "dich",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 746
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Career Speed Dating",
+        "ETH-Hauptgebäude",
+        "EU",
+        "Minigolf",
+        "ETH Zürich",
+        "Bewerbungscatwalk",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "Greet & Play",
+        "Meet",
+        "Facebook",
+        "Langen Nacht"
+      ],
+      "graph_relations": []
+    }
+  }
+}

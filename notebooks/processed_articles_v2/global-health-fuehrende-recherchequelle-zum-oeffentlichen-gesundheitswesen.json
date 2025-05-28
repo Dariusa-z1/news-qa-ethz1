@@ -1,0 +1,183 @@
+{
+  "filename": "global-health-fuehrende-recherchequelle-zum-oeffentlichen-gesundheitswesen.md",
+  "original_filename": "global-health-fuehrende-recherchequelle-zum-oeffentlichen-gesundheitswesen.html",
+  "source_path": "en_internal/2021/03/global-health-fuehrende-recherchequelle-zum-oeffentlichen-gesundheitswesen.html",
+  "date": "2021-03",
+  "title": "Global Health Fuehrende Recherchequelle Zum Oeffentlichen Gesundheitswesen",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "With more than 3.1 million records and over 160,000 records added every year, Global Health is the only database dedicated to public health. It adds to the picture of international medical and health research by providing unrivalled access to all relevant research and practices in global health around the world.\n\nGlobal Health can be accessed via the Web of Science platform and is integrated in the Web of Science citation network. The database can be accessed via the ETH Zurich network or at the ETH Library.\n\nMore than just data – Benefit from know-how"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Recherchequelle Zum Oeffentlichen Gesundheitswesen",
+        "label": "PERSON",
+        "start": 44,
+        "end": 94
+      },
+      {
+        "text": "more than 3.1 million",
+        "label": "CARDINAL",
+        "start": 5,
+        "end": 26
+      },
+      {
+        "text": "over 160,000",
+        "label": "CARDINAL",
+        "start": 39,
+        "end": 51
+      },
+      {
+        "text": "every year",
+        "label": "DATE",
+        "start": 66,
+        "end": 76
+      },
+      {
+        "text": "Global Health",
+        "label": "ORG",
+        "start": 78,
+        "end": 91
+      },
+      {
+        "text": "Global Health",
+        "label": "ORG",
+        "start": 314,
+        "end": 327
+      },
+      {
+        "text": "the ETH Library",
+        "label": "FAC",
+        "start": 496,
+        "end": 511
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Recherchequelle Zum Oeffentlichen Gesundheitswesen"
+      ],
+      "ORG": [
+        "Global Health"
+      ],
+      "LOCATION": [
+        "the ETH Library"
+      ],
+      "DATE": [
+        "every year"
+      ],
+      "MISC": [
+        "more than 3.1 million",
+        "over 160,000"
+      ]
+    },
+    "entity_counts": {
+      "Global Health": 2,
+      "Recherchequelle Zum Oeffentlichen Gesundheitswesen": 1,
+      "more than 3.1 million": 1,
+      "over 160,000": 1,
+      "every year": 1,
+      "the ETH Library": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "global-health-fuehrende-recherchequelle-zum-oeffentlichen-gesundheitswesen.md",
+      "title": "En Internal/2021/03/global Health Fuehrende Recherchequelle Zum Oeffentlichen Gesundheitswesen",
+      "language": "en",
+      "source_path": "en_internal/2021/03/global-health-fuehrende-recherchequelle-zum-oeffentlichen-gesundheitswesen.html"
+    },
+    "temporal": {
+      "publication_date": "2021-03",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Recherchequelle Zum Oeffentlichen Gesundheitswesen"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "medical_research"
+      ],
+      "research_topics": [
+        "more than 3.1 million",
+        "over 160,000"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Recherchequelle Zum",
+        "Oeffentlichen Gesundheitswesen",
+        "Health Fuehrende",
+        "Global Health",
+        "ETH Library",
+        "En Internal",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Global Health"
+      ],
+      "locations": [
+        "the ETH Library"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Global Health",
+        "Recherchequelle Zum Oeffentlichen Gesundheitswesen",
+        "more than 3.1 million",
+        "over 160,000",
+        "every year",
+        "the ETH Library"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 653
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2021",
+        "Recherchequelle Zum Oeffentlichen Gesundheitswesen",
+        "ERC",
+        "Global Health"
+      ],
+      "semantic_concepts": [
+        "more than 3.1 million",
+        "over 160,000",
+        "what",
+        "how",
+        "medical_research",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research"
+      ]
+    }
+  }
+}

@@ -1,0 +1,666 @@
+{
+  "filename": "how-geology-and-climate-shape-biodiversity.md",
+  "original_filename": "how-geology-and-climate-shape-biodiversity.html",
+  "source_path": "en_news_events/2021/09/how-geology-and-climate-shape-biodiversity.html",
+  "date": "2021-09",
+  "title": "How Geology And Climate Shape Biodiversity",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Palms with few species",
+      "text": "Tropical rainforests are the most biodiverse habitats on Earth. They are home to a huge number of different plants, animals, fungi and other organisms. These forests are primarily spread over three continents, concentrated in the Amazon Basin in South America, the Congo Basin in Central Africa, and the vast archipelago of Southeast Asia.\n\nOne might assume that all tropical rainforests are about equally diverse due to their stable warm and humid climate and their geographical location around the equator – but this is not the case. Compared to South America and Southeast Asia, the number of species in Africa’s humid tropical forests is significantly lower for many groups of organisms."
+    },
+    {
+      "heading": "Palms with few species",
+      "text": "A good illustration of this uneven distribution – what researchers refer to as the pantropical diversity disparity (PDD) – is palm trees: of the 2,500 species worldwide, 1,200 occur in the Southeast Asian region and 800 in the tropical forests of South America, but only 66 in African rainforests.\n\nWhy this should be so is debated among biodiversity researchers. There is some evidence that the current climate is the cause of the lower species diversity in Africa’s tropical forests. The climate in Africa’s tropical belt is drier and cooler than that in Southeast Asia and South America.\n\nOther evidence suggests that the different environmental and tectonic histories of the three tropical forest regions over tens of millions of years had an impact on the differing levels of biodiversity. Such environmental changes include, for example, the formation of mountains, islands, or arid and desert areas.\n\nHowever, it is difficult to distinguish between the two factors of current climate and environmental history."
+    },
+    {
+      "heading": "Mountain building brings up diversity",
+      "text": "Led by Loïc Pellissier, Professor of Landscape Ecology, researchers at ETH Zurich have now investigated this question with the help of a new computer model that allows them to simulate species diversification over millions of years of evolution. They conclude that the current climate is not the main reason why biodiversity is lower in the rainforests of Africa. Rather, biodiversity has emerged from the dynamics of mountain building and climate change. The results of the historical simulations largely coincide with the patterns of biodiversity distribution observable today.\n\n“Our model confirms that differences in palaeoenvironmental dynamics produced the uneven distribution of biodiversity, rather than current climatic factors,” says Pellissier. “Geological processes as well as global temperature fluctuations determine where and when species emerge or go extinct.”\n\nOne factor in particular is crucial to high biodiversity on a continent: geological dynamics. Active plate tectonics promote both the formation of mountains, such as the Andes in South America, and the emergence of archipelagos, as in Southeast Asia. These two processes result in many new ecological niches, which in turn give rise to numerous new species. Africa’s rainforest belt, on the other hand, has had less tectonic activity over the past 110 million years. It is also relatively small because it is bordered by drylands in the north and south, limiting its spread. “Species from humid regions can hardly adapt to the dry conditions of the surrounding drylands,” Pellissier points out."
+    },
+    {
+      "heading": "Geologically vibrant continents produce higher biodiversity",
+      "text": "The “gen3sis” model developed by ETH researchers was only recently presented in the journal PLoS Biology . It is a mechanistic model in which the primary constraints such as geology and climate are represented together with biological mechanisms and from which biodiversity patterns can materialise. To simulate the emergence of biodiversity, the most important processes to integrate into the model are ecology (i.e. each species has its own limited ecological niche), evolution, speciation and dispersal.\n\n“With these four basic rules, we can simulate the population dynamic of organisms over shifting environmental conditions and offer a very good explanation for how the organisms came about,” Pellissier says.\n\nBy building their model on these basic evolutionary mechanisms, the researchers can simulate species diversity without having to input (distribution) data for each individual species. However, the model requires data on the geological dynamics of the continents under consideration, as well as humidity and temperatures from climate reconstructions.\n\nThe researchers are now refining the model and running simulations to understand the emergence of biodiversity in other species-rich regions, such as the mountains of western China. The model’s code and the palaeoenvironmental reconstructions are open source. All interested evolutionary and biodiversity researchers can use it to study the formation of biodiversity in different regions of the world.\n\nHagen O, Skeels A, Onstein R, Jetz W, Pellissier L. Earth history events shaped the evolution of uneven biodiversity across tropical moist forests. Proc Natl Acad Sci USA October 5, 2021 118 (40) e2026347118; doi: 10.1073/pnas.2026347118\n\nHagen O, Flück B, Fopp F, Cabral JS, Hartig F, Pontarp M, et al. (2021) gen3sis: A general engine for eco-evolutionary simulations of the processes that shape Earth’s biodiversity. PLoS Biol 19(7): e3001340. doi: 10.1371/journal.pbio.3001340"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Tropical",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 57,
+        "end": 62
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 192,
+        "end": 197
+      },
+      {
+        "text": "the Amazon Basin",
+        "label": "LOC",
+        "start": 226,
+        "end": 242
+      },
+      {
+        "text": "South America",
+        "label": "LOC",
+        "start": 246,
+        "end": 259
+      },
+      {
+        "text": "the Congo Basin",
+        "label": "LOC",
+        "start": 261,
+        "end": 276
+      },
+      {
+        "text": "Central Africa",
+        "label": "GPE",
+        "start": 280,
+        "end": 294
+      },
+      {
+        "text": "Southeast Asia",
+        "label": "LOC",
+        "start": 324,
+        "end": 338
+      },
+      {
+        "text": "South America",
+        "label": "LOC",
+        "start": 547,
+        "end": 560
+      },
+      {
+        "text": "Southeast Asia",
+        "label": "LOC",
+        "start": 565,
+        "end": 579
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 606,
+        "end": 612
+      },
+      {
+        "text": "2,500",
+        "label": "CARDINAL",
+        "start": 145,
+        "end": 150
+      },
+      {
+        "text": "1,200",
+        "label": "CARDINAL",
+        "start": 170,
+        "end": 175
+      },
+      {
+        "text": "Southeast Asian",
+        "label": "NORP",
+        "start": 189,
+        "end": 204
+      },
+      {
+        "text": "South America",
+        "label": "LOC",
+        "start": 247,
+        "end": 260
+      },
+      {
+        "text": "only 66",
+        "label": "CARDINAL",
+        "start": 266,
+        "end": 273
+      },
+      {
+        "text": "African",
+        "label": "NORP",
+        "start": 277,
+        "end": 284
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 458,
+        "end": 464
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 500,
+        "end": 506
+      },
+      {
+        "text": "Southeast Asia",
+        "label": "LOC",
+        "start": 556,
+        "end": 570
+      },
+      {
+        "text": "South America",
+        "label": "LOC",
+        "start": 575,
+        "end": 588
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 677,
+        "end": 682
+      },
+      {
+        "text": "tens of millions",
+        "label": "MONEY",
+        "start": 712,
+        "end": 728
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 957,
+        "end": 960
+      },
+      {
+        "text": "Loïc Pellissier",
+        "label": "PERSON",
+        "start": 7,
+        "end": 22
+      },
+      {
+        "text": "Landscape Ecology",
+        "label": "ORG",
+        "start": 37,
+        "end": 54
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 71,
+        "end": 81
+      },
+      {
+        "text": "diversification over millions",
+        "label": "CARDINAL",
+        "start": 193,
+        "end": 222
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 356,
+        "end": 362
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 573,
+        "end": 578
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 876,
+        "end": 879
+      },
+      {
+        "text": "Andes",
+        "label": "LOC",
+        "start": 1046,
+        "end": 1051
+      },
+      {
+        "text": "South America",
+        "label": "LOC",
+        "start": 1055,
+        "end": 1068
+      },
+      {
+        "text": "Southeast Asia",
+        "label": "LOC",
+        "start": 1111,
+        "end": 1125
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1133,
+        "end": 1136
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 1234,
+        "end": 1240
+      },
+      {
+        "text": "the past 110 million years",
+        "label": "DATE",
+        "start": 1315,
+        "end": 1341
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "PLoS Biology",
+        "label": "PERSON",
+        "start": 92,
+        "end": 104
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 519,
+        "end": 523
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 1239,
+        "end": 1244
+      },
+      {
+        "text": "Hagen O",
+        "label": "PERSON",
+        "start": 1466,
+        "end": 1473
+      },
+      {
+        "text": "Onstein",
+        "label": "PERSON",
+        "start": 1485,
+        "end": 1492
+      },
+      {
+        "text": "Jetz W",
+        "label": "PERSON",
+        "start": 1496,
+        "end": 1502
+      },
+      {
+        "text": "Pellissier L. Earth",
+        "label": "PERSON",
+        "start": 1504,
+        "end": 1523
+      },
+      {
+        "text": "Proc Natl Acad Sci USA",
+        "label": "ORG",
+        "start": 1614,
+        "end": 1636
+      },
+      {
+        "text": "October 5, 2021",
+        "label": "DATE",
+        "start": 1637,
+        "end": 1652
+      },
+      {
+        "text": "10.1073",
+        "label": "CARDINAL",
+        "start": 1680,
+        "end": 1687
+      },
+      {
+        "text": "Hagen",
+        "label": "ORG",
+        "start": 1704,
+        "end": 1709
+      },
+      {
+        "text": "Fopp F",
+        "label": "PERSON",
+        "start": 1722,
+        "end": 1728
+      },
+      {
+        "text": "Cabral JS",
+        "label": "CARDINAL",
+        "start": 1730,
+        "end": 1739
+      },
+      {
+        "text": "Hartig F",
+        "label": "PRODUCT",
+        "start": 1741,
+        "end": 1749
+      },
+      {
+        "text": "Pontarp M",
+        "label": "ORG",
+        "start": 1751,
+        "end": 1760
+      },
+      {
+        "text": "al",
+        "label": "PERSON",
+        "start": 1765,
+        "end": 1767
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1863,
+        "end": 1868
+      },
+      {
+        "text": "PLoS",
+        "label": "PERSON",
+        "start": 1885,
+        "end": 1889
+      },
+      {
+        "text": "10.1371/journal.pbio.3001340",
+        "label": "MONEY",
+        "start": 1917,
+        "end": 1945
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fopp F",
+        "Hagen O",
+        "Jetz W",
+        "Loïc Pellissier",
+        "Onstein",
+        "PLoS",
+        "PLoS Biology",
+        "Pellissier L. Earth",
+        "al"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Hagen",
+        "Landscape Ecology",
+        "Pontarp M",
+        "Proc Natl Acad Sci USA",
+        "Tropical"
+      ],
+      "LOCATION": [
+        "Africa",
+        "Andes",
+        "Central Africa",
+        "China",
+        "Earth",
+        "South America",
+        "Southeast Asia",
+        "the Amazon Basin",
+        "the Congo Basin"
+      ],
+      "DATE": [
+        "October 5, 2021",
+        "the past 110 million years",
+        "today"
+      ],
+      "MISC": [
+        "1,200",
+        "10.1073",
+        "10.1371/journal.pbio.3001340",
+        "2,500",
+        "African",
+        "Cabral JS",
+        "Hartig F",
+        "One",
+        "Southeast Asian",
+        "diversification over millions",
+        "four",
+        "only 66",
+        "tens of millions",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "South America": 5,
+      "Africa": 5,
+      "Southeast Asia": 4,
+      "Earth": 2,
+      "three": 2,
+      "two": 2,
+      "Tropical": 1,
+      "the Amazon Basin": 1,
+      "the Congo Basin": 1,
+      "Central Africa": 1,
+      "2,500": 1,
+      "1,200": 1,
+      "Southeast Asian": 1,
+      "only 66": 1,
+      "African": 1,
+      "tens of millions": 1,
+      "Loïc Pellissier": 1,
+      "Landscape Ecology": 1,
+      "ETH Zurich": 1,
+      "diversification over millions": 1
+    },
+    "total_entities": 57,
+    "unique_entities": 43
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-geology-and-climate-shape-biodiversity.md",
+      "title": "En News Events/2021/09/how Geology And Climate Shape Biodiversity",
+      "language": "en",
+      "source_path": "en_news_events/2021/09/how-geology-and-climate-shape-biodiversity.html"
+    },
+    "temporal": {
+      "publication_date": "2021-09",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Fopp F",
+        "Hagen O",
+        "Jetz W",
+        "Loïc Pellissier",
+        "Onstein",
+        "PLoS",
+        "PLoS Biology",
+        "Pellissier L. Earth",
+        "al"
+      ],
+      "people_with_roles": {
+        "Loïc Pellissier": [
+          "researcher",
+          "professor"
+        ],
+        "PLoS": [
+          "researcher"
+        ],
+        "PLoS Biology": [
+          "researcher"
+        ],
+        "al": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering",
+        "biology"
+      ],
+      "research_topics": [
+        "1,200",
+        "10.1073",
+        "10.1371/journal.pbio.3001340",
+        "2,500",
+        "African",
+        "Cabral JS",
+        "Hartig F",
+        "Southeast Asian",
+        "diversification over millions",
+        "four",
+        "only 66",
+        "tens of millions",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "PLoS Biol",
+        "Hagen O",
+        "Proc Natl",
+        "Southeast Asia",
+        "Onstein R",
+        "USA October",
+        "Landscape Ecology",
+        "PLoS Biology",
+        "Climate Shape",
+        "Cabral JS",
+        "Congo Basin",
+        "Amazon Basin",
+        "Acad Sci",
+        "Southeast Asian",
+        "South America",
+        "Biodiversity Tropical",
+        "Pellissier L",
+        "Pontarp M",
+        "Geology And",
+        "Central Africa",
+        "Fopp F",
+        "Skeels A",
+        "En News",
+        "ETH Zurich",
+        "Jetz W",
+        "Hartig F"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Hagen",
+        "Landscape Ecology",
+        "Pontarp M",
+        "Proc Natl Acad Sci USA",
+        "Tropical"
+      ],
+      "locations": [
+        "Africa",
+        "Andes",
+        "Central Africa",
+        "China",
+        "Earth",
+        "South America",
+        "Southeast Asia",
+        "the Amazon Basin",
+        "the Congo Basin"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "South America",
+        "Africa",
+        "Southeast Asia",
+        "Earth",
+        "three",
+        "two",
+        "Tropical",
+        "the Amazon Basin",
+        "the Congo Basin",
+        "Central Africa"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Palms with few species",
+          "Palms with few species",
+          "Mountain building brings up diversity",
+          "Geologically vibrant continents produce higher biodiversity"
+        ],
+        "content_length": 5299
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "PLoS Biology",
+        "ETH",
+        "Fopp F",
+        "Pontarp M",
+        "Hagen O",
+        "Loïc Pellissier",
+        "Proc Natl Acad Sci USA",
+        "Tropical",
+        "PLoS",
+        "al",
+        "Onstein",
+        "ETH Zurich",
+        "Landscape Ecology",
+        "2021",
+        "Jetz W",
+        "Hagen",
+        "Pellissier L. Earth"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "diversification over millions",
+        "10.1371/journal.pbio.3001340",
+        "2,500",
+        "10.1073",
+        "when",
+        "engineering",
+        "four",
+        "only 66",
+        "where",
+        "African",
+        "biology",
+        "tens of millions",
+        "Cabral JS",
+        "who",
+        "Southeast Asian",
+        "what",
+        "how",
+        "climate_change",
+        "1,200",
+        "why",
+        "Hartig F"
+      ],
+      "graph_relations": [
+        "Loïc Pellissier_has_role_researcher",
+        "Loïc Pellissier_has_role_professor",
+        "PLoS_has_role_researcher",
+        "PLoS Biology_has_role_researcher",
+        "al_has_role_researcher",
+        "al_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology"
+      ]
+    }
+  }
+}

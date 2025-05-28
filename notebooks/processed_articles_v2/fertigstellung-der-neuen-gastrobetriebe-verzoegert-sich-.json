@@ -1,0 +1,247 @@
+{
+  "filename": "fertigstellung-der-neuen-gastrobetriebe-verzoegert-sich-.md",
+  "original_filename": "fertigstellung-der-neuen-gastrobetriebe-verzoegert-sich-.html",
+  "source_path": "de_internal/2016/01/fertigstellung-der-neuen-gastrobetriebe-verzoegert-sich-.html",
+  "date": "2016-01",
+  "title": "Fertigstellung Der Neuen Gastrobetriebe Verzoegert Sich",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH-Angehörige können sich in diesem Jahr in gleich zwei neuen Gastronomiebetrieben verköstigen: Am 9. Mai 2016 eröffnet der Foodmarket im umgebauten HPR-Gebäude mit drei verschiedenen Theken. Zur Auswahl stehen vegetarische Gerichte, eine Pizza-Pasta-Station und Grill-Gerichte. Catering-Anbieter ist die SV Group.\n\nIm Herbst folgt die Eröffnung des Gastronomie-Pavillons Bella Vista im neu gebauten HGP. Das bediente Restaurant am nördlichen Ende der Wolfgang-Pauli-Strasse ist für Dozierende, Mitarbeitende, Studierende und externe Gäste konzipiert und bietet einen Ausblick über Zürich-Affoltern. Catering-Anbieter ist der ZFV.\n\nBeide Betriebe hätten bereits früher eröffnen sollen. Aufgrund verzögerter Baubewilligungen durch die Behörden mussten die Eröffnungstermine aber verschoben werden. Auch die langen Materiallieferzeiten im Bereich Innenausbau und die Bereinigung der feuerpolizeilichen Vorgaben inklusive der Erfüllung der Anforderungen der Denkmalpflege führten zu dieser Verzögerung."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/01/fertigstellung",
+        "label": "LOC",
+        "start": 0,
+        "end": 34
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "HPR-Gebäude",
+        "label": "MISC",
+        "start": 150,
+        "end": 161
+      },
+      {
+        "text": "Pizza-Pasta-Station",
+        "label": "MISC",
+        "start": 240,
+        "end": 259
+      },
+      {
+        "text": "Grill-Gerichte",
+        "label": "MISC",
+        "start": 264,
+        "end": 278
+      },
+      {
+        "text": "Catering-Anbieter",
+        "label": "ORG",
+        "start": 280,
+        "end": 297
+      },
+      {
+        "text": "SV Group",
+        "label": "ORG",
+        "start": 306,
+        "end": 314
+      },
+      {
+        "text": "Bella Vista",
+        "label": "MISC",
+        "start": 372,
+        "end": 383
+      },
+      {
+        "text": "HGP",
+        "label": "ORG",
+        "start": 400,
+        "end": 403
+      },
+      {
+        "text": "Wolfgang-Pauli-Strasse",
+        "label": "MISC",
+        "start": 452,
+        "end": 474
+      },
+      {
+        "text": "Zürich-Affoltern",
+        "label": "LOC",
+        "start": 582,
+        "end": 598
+      },
+      {
+        "text": "Catering-Anbieter",
+        "label": "LOC",
+        "start": 600,
+        "end": 617
+      },
+      {
+        "text": "ZFV",
+        "label": "ORG",
+        "start": 626,
+        "end": 629
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Catering-Anbieter",
+        "HGP",
+        "SV Group",
+        "ZFV"
+      ],
+      "LOCATION": [
+        "Catering-Anbieter",
+        "De Internal/2016/01/fertigstellung",
+        "Zürich-Affoltern"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Bella Vista",
+        "ETH-Angehörige",
+        "Grill-Gerichte",
+        "HPR-Gebäude",
+        "Pizza-Pasta-Station",
+        "Wolfgang-Pauli-Strasse"
+      ]
+    },
+    "entity_counts": {
+      "Catering-Anbieter": 2,
+      "De Internal/2016/01/fertigstellung": 1,
+      "ETH-Angehörige": 1,
+      "HPR-Gebäude": 1,
+      "Pizza-Pasta-Station": 1,
+      "Grill-Gerichte": 1,
+      "SV Group": 1,
+      "Bella Vista": 1,
+      "HGP": 1,
+      "Wolfgang-Pauli-Strasse": 1,
+      "Zürich-Affoltern": 1,
+      "ZFV": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "fertigstellung-der-neuen-gastrobetriebe-verzoegert-sich-.md",
+      "title": "De Internal/2016/01/fertigstellung der Neuen Gastrobetriebe Verzoegert Sich",
+      "language": "de",
+      "source_path": "de_internal/2016/01/fertigstellung-der-neuen-gastrobetriebe-verzoegert-sich-.html"
+    },
+    "temporal": {
+      "publication_date": "2016-01",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Bella Vista",
+        "ETH-Angehörige",
+        "Grill-Gerichte",
+        "HPR-Gebäude",
+        "Pizza-Pasta-Station",
+        "Wolfgang-Pauli-Strasse"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Wolfgang-Pauli",
+        "Pizza-Pasta",
+        "Grill-Gerichte",
+        "De Internal",
+        "Verzoegert Sich",
+        "Im Herbst",
+        "Neuen Gastrobetriebe",
+        "SV Group",
+        "Zur Auswahl",
+        "Beide Betriebe",
+        "Bereich Innenausbau",
+        "Catering-Anbieter",
+        "Gastronomie-Pavillons",
+        "Bella Vista"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Catering-Anbieter",
+        "HGP",
+        "SV Group",
+        "ZFV"
+      ],
+      "locations": [
+        "Catering-Anbieter",
+        "De Internal/2016/01/fertigstellung",
+        "Zürich-Affoltern"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Catering-Anbieter",
+        "De Internal/2016/01/fertigstellung",
+        "ETH-Angehörige",
+        "HPR-Gebäude",
+        "Pizza-Pasta-Station",
+        "Grill-Gerichte",
+        "SV Group",
+        "Bella Vista",
+        "HGP",
+        "Wolfgang-Pauli-Strasse"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1076
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "HGP",
+        "EU",
+        "2016",
+        "SV Group",
+        "ZFV",
+        "Catering-Anbieter"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Angehörige",
+        "Grill-Gerichte",
+        "Wolfgang-Pauli-Strasse",
+        "Pizza-Pasta-Station",
+        "HPR-Gebäude",
+        "Bella Vista"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

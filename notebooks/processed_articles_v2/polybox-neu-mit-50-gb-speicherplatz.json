@@ -1,0 +1,269 @@
+{
+  "filename": "polybox-neu-mit-50-gb-speicherplatz.md",
+  "original_filename": "polybox-neu-mit-50-gb-speicherplatz.html",
+  "source_path": "de_internal/2014/08/polybox-neu-mit-50-gb-speicherplatz.html",
+  "date": "2014-08",
+  "title": "Polybox Neu Mit 50 Gb Speicherplatz",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der Speicherplatz von polybox wurde von anfänglichen 5 Gigabyte auf 50 Gigabyte vergrössert. Dieses Angebot der Informatikdienste der ETH Zürich gilt für alle ETH-Angehörigen und ist gratis. Der Vorteil von polybox gegenüber anderen Diensten wie Dropbox oder Google Drive: polybox lagert keine Daten aus, sondern speichert sie ETH-intern. Mit dieser Inhouse-Lösung ist die Kontrollierbarkeit gewährleistet – bei extern abgelegten Daten können die Informatikdienste die Sicherheit nicht garantieren. Zudem sind auch Mobile Clients (iPhone und Android) und Sync Clients verfügbar.\n\nLaut Reglement ist die Auslagerung von sensitiven Daten der ETH Zürich nicht zulässig. Damit gemeint sind etwa Forschungsdaten, die einer vertraglichen Geheimhaltung mit Dritten unterliegen oder wichtige Geschäftsdaten. Die Nutzung von Cloud oder Social Media Services in der Forschung für den Austausch mit Forschenden anderer Hochschulen sowie in der Lehre für den Austausch mit den Studierenden ist unproblematisch, solange keine sensitiven Daten der ETH Zürich betroffen sind und keine Rechte Dritter verletzt werden.\n\nMehr Informationen zu polybox gibt es hier .\n\nMehr Informationen zur BOT (Benutzungsordnung für Telematik an der ETH Zürich) und zu Cloud Computing finden Sie unter diesem Link ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/08/polybox",
+        "label": "LOC",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "Speicherplatz von polybox",
+        "label": "LOC",
+        "start": 4,
+        "end": 29
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 134,
+        "end": 144
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "ORG",
+        "start": 159,
+        "end": 174
+      },
+      {
+        "text": "polybox",
+        "label": "LOC",
+        "start": 207,
+        "end": 214
+      },
+      {
+        "text": "Dropbox",
+        "label": "PER",
+        "start": 246,
+        "end": 253
+      },
+      {
+        "text": "Google Drive",
+        "label": "MISC",
+        "start": 259,
+        "end": 271
+      },
+      {
+        "text": "polybox",
+        "label": "PER",
+        "start": 273,
+        "end": 280
+      },
+      {
+        "text": "ETH-intern",
+        "label": "MISC",
+        "start": 327,
+        "end": 337
+      },
+      {
+        "text": "iPhone",
+        "label": "MISC",
+        "start": 531,
+        "end": 537
+      },
+      {
+        "text": "Android",
+        "label": "LOC",
+        "start": 542,
+        "end": 549
+      },
+      {
+        "text": "Sync",
+        "label": "LOC",
+        "start": 555,
+        "end": 559
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 639,
+        "end": 649
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1033,
+        "end": 1043
+      },
+      {
+        "text": "polybox",
+        "label": "LOC",
+        "start": 1123,
+        "end": 1130
+      },
+      {
+        "text": "BOT",
+        "label": "ORG",
+        "start": 1169,
+        "end": 1172
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1213,
+        "end": 1223
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dropbox",
+        "polybox"
+      ],
+      "ORG": [
+        "BOT",
+        "ETH Zürich",
+        "ETH-Angehörigen"
+      ],
+      "LOCATION": [
+        "Android",
+        "De Internal/2014/08/polybox",
+        "Speicherplatz von polybox",
+        "Sync",
+        "polybox"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-intern",
+        "Google Drive",
+        "iPhone"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 4,
+      "polybox": 3,
+      "De Internal/2014/08/polybox": 1,
+      "Speicherplatz von polybox": 1,
+      "ETH-Angehörigen": 1,
+      "Dropbox": 1,
+      "Google Drive": 1,
+      "ETH-intern": 1,
+      "iPhone": 1,
+      "Android": 1,
+      "Sync": 1,
+      "BOT": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "polybox-neu-mit-50-gb-speicherplatz.md",
+      "title": "De Internal/2014/08/polybox Neu mit 50 Gb Speicherplatz",
+      "language": "de",
+      "source_path": "de_internal/2014/08/polybox-neu-mit-50-gb-speicherplatz.html"
+    },
+    "temporal": {
+      "publication_date": "2014-08",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Dropbox",
+        "polybox"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-intern",
+        "Google Drive",
+        "iPhone"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Mehr Informationen",
+        "Laut Reglement",
+        "Dieses Angebot",
+        "Mobile Clients",
+        "Social Media",
+        "Cloud Computing",
+        "De Internal",
+        "Sync Clients",
+        "Der Speicherplatz",
+        "Google Drive",
+        "Rechte Dritter",
+        "Der Vorteil",
+        "Die Nutzung",
+        "Gb Speicherplatz"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BOT",
+        "ETH Zürich",
+        "ETH-Angehörigen"
+      ],
+      "locations": [
+        "Android",
+        "De Internal/2014/08/polybox",
+        "Speicherplatz von polybox",
+        "Sync",
+        "polybox"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "polybox",
+        "De Internal/2014/08/polybox",
+        "Speicherplatz von polybox",
+        "ETH-Angehörigen",
+        "Dropbox",
+        "Google Drive",
+        "ETH-intern",
+        "iPhone",
+        "Android"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1337
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Dropbox",
+        "EU",
+        "BOT",
+        "ETH Zürich",
+        "ETH-Angehörigen",
+        "polybox",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "iPhone",
+        "ETH-intern",
+        "Google Drive",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

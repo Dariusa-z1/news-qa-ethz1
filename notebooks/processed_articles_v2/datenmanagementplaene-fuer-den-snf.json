@@ -1,0 +1,179 @@
+{
+  "filename": "datenmanagementplaene-fuer-den-snf.md",
+  "original_filename": "datenmanagementplaene-fuer-den-snf.html",
+  "source_path": "en_internal/2020/09/datenmanagementplaene-fuer-den-snf.html",
+  "date": "2020-09",
+  "title": "Datenmanagementplaene Fuer Den Snf",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "SNSF applications must include a Data Management Plan (DMP). The DMP is created online in mySNF and is considered as a draft at this stage. It should be updated during the course of the project and must be available in its final form at the end of the project, at the latest.\n\nThe ETH Library’s Research Data Management team supports researchers at ETH Zurich in creating their DMPs and offers advice as well as reviews of individual DMPs.\n\n#KnowHow – The ETH Library infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Fuer",
+        "label": "ORG",
+        "start": 42,
+        "end": 46
+      },
+      {
+        "text": "DMP",
+        "label": "ORG",
+        "start": 55,
+        "end": 58
+      },
+      {
+        "text": "DMP",
+        "label": "ORG",
+        "start": 65,
+        "end": 68
+      },
+      {
+        "text": "The ETH Library’s Research Data Management",
+        "label": "ORG",
+        "start": 276,
+        "end": 318
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 348,
+        "end": 358
+      },
+      {
+        "text": "KnowHow",
+        "label": "PERSON",
+        "start": 439,
+        "end": 446
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "KnowHow"
+      ],
+      "ORG": [
+        "DMP",
+        "ETH Zurich",
+        "Fuer",
+        "The ETH Library’s Research Data Management"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "DMP": 2,
+      "Fuer": 1,
+      "The ETH Library’s Research Data Management": 1,
+      "ETH Zurich": 1,
+      "KnowHow": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "datenmanagementplaene-fuer-den-snf.md",
+      "title": "En Internal/2020/09/datenmanagementplaene Fuer den Snf",
+      "language": "en",
+      "source_path": "en_internal/2020/09/datenmanagementplaene-fuer-den-snf.html"
+    },
+    "temporal": {
+      "publication_date": "2020-09",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "KnowHow"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "SNF"
+      ],
+      "projects": [
+        "Data Management",
+        "Research Data",
+        "En Internal",
+        "The DMP",
+        "Snf SNSF",
+        "ETH Zurich",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DMP",
+        "ETH Zurich",
+        "Fuer",
+        "The ETH Library’s Research Data Management"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "DMP",
+        "Fuer",
+        "The ETH Library’s Research Data Management",
+        "ETH Zurich",
+        "KnowHow"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 570
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "The ETH Library’s Research Data Management",
+        "SNF",
+        "2020",
+        "Fuer",
+        "DMP",
+        "KnowHow",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

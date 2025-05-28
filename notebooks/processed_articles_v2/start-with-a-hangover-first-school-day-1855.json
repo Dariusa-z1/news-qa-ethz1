@@ -1,0 +1,194 @@
+{
+  "filename": "start-with-a-hangover-first-school-day-1855.md",
+  "original_filename": "start-with-a-hangover-first-school-day-1855.html",
+  "source_path": "en_internal/2015/10/start-with-a-hangover-first-school-day-1855.html",
+  "date": "2015-10",
+  "title": "Start With A Hangover First School Day 1855",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "160 years ago, 68 students began their studies at the newly founded Polytechnic Institute, today's ETH Zurich.\n\nYou can read about this in German on the Blog ETHeritage and in English on the ETH Global News ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "160 years ago",
+        "label": "DATE",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Polytechnic Institute",
+        "label": "ORG",
+        "start": 68,
+        "end": 89
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 91,
+        "end": 96
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 99,
+        "end": 109
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 138,
+        "end": 144
+      },
+      {
+        "text": "the Blog ETHeritage",
+        "label": "FAC",
+        "start": 148,
+        "end": 167
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 175,
+        "end": 182
+      },
+      {
+        "text": "the ETH Global News",
+        "label": "ORG",
+        "start": 186,
+        "end": 205
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "Polytechnic Institute",
+        "the ETH Global News"
+      ],
+      "LOCATION": [
+        "the Blog ETHeritage"
+      ],
+      "DATE": [
+        "160 years ago",
+        "today"
+      ],
+      "MISC": [
+        "English",
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "160 years ago": 1,
+      "Polytechnic Institute": 1,
+      "today": 1,
+      "ETH Zurich": 1,
+      "German": 1,
+      "the Blog ETHeritage": 1,
+      "English": 1,
+      "the ETH Global News": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "start-with-a-hangover-first-school-day-1855.md",
+      "title": "En Internal/2015/10/start With A Hangover First School Day 1855",
+      "language": "en",
+      "source_path": "en_internal/2015/10/start-with-a-hangover-first-school-day-1855.html"
+    },
+    "temporal": {
+      "publication_date": "2015-10",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "English",
+        "German"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "School Day",
+        "With A",
+        "ETH Global",
+        "En Internal",
+        "Polytechnic Institute",
+        "Blog ETHeritage",
+        "Hangover First",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Polytechnic Institute",
+        "the ETH Global News"
+      ],
+      "locations": [
+        "the Blog ETHeritage"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "160 years ago",
+        "Polytechnic Institute",
+        "today",
+        "ETH Zurich",
+        "German",
+        "the Blog ETHeritage",
+        "English",
+        "the ETH Global News"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 272
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "Polytechnic Institute",
+        "2015",
+        "the ETH Global News"
+      ],
+      "semantic_concepts": [
+        "German",
+        "when",
+        "English"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student"
+      ]
+    }
+  }
+}

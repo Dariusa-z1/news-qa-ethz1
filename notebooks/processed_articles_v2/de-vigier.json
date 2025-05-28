@@ -1,0 +1,389 @@
+{
+  "filename": "de-vigier.md",
+  "original_filename": "de-vigier.html",
+  "source_path": "en_news_events/2018/05/de-vigier.html",
+  "date": "2018-05",
+  "title": "De Vigier",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Wearable muscles for people with limited mobility",
+      "text": "More than 220 projects were submitted for the W.A. de Vigier Award 2018. A jury evaluated the entries and chose 16 companies for the next round. These were then assessed and presented their ideas to the Foundation Board, who chose the ten finalists from which the five winners were selected. The assessment of the projects placed emphasis on entrepreneurial personality, innovative character, macrosocial relevance, technical and financial feasibility, market opportunities and level of job creation.\n\nAlongside AUDATIC GmbH from Zurich, INVOLI from Renens and SUN bioscience from Lausanne were two ETH Zurich spin-offs."
+    },
+    {
+      "heading": "Wearable muscles for people with limited mobility",
+      "text": "Myoswiss has developed the Myosuit, a layer of wearable muscles that support everyday activities. The solution combines robotics and functional textiles in a comfortable product that weighs less than five kilograms. Innovative algorithms combined with sensor and actuator technology control the supporting forces while the user is moving. The Myosuit also made it to the final of the Spark Award in 2017."
+    },
+    {
+      "heading": "A new generation of cables",
+      "text": "Cables are fragile, which can be a problem, particularly in applications such as medical devices and factory robots. nanoleq has developed a fundamentally new kind of cable technology. Under mechanical stress, the FlexOne cable has a lifetime up to a hundred times longer than that of a standard cable, while retaining its high flexibility. nanoleq’s target markets are medical technology, high-end audio applications and robotics.\n\nThe W.A. de Vigier Award is the oldest and – with annual prize money of 500,000 Swiss francs – the most financially significant award for start-ups in Switzerland. In its 29-year history, the foundation has distributed over 11 million francs of seed capital. This has resulted in around 84 successful start-ups, multiple flotations, lucrative company sales and, above all, numerous new jobs."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "More than 220",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "the W.A. de Vigier Award 2018",
+        "label": "ORG",
+        "start": 42,
+        "end": 71
+      },
+      {
+        "text": "the Foundation Board",
+        "label": "ORG",
+        "start": 199,
+        "end": 219
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 235,
+        "end": 238
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 264,
+        "end": 268
+      },
+      {
+        "text": "Alongside AUDATIC GmbH",
+        "label": "ORG",
+        "start": 501,
+        "end": 523
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 529,
+        "end": 535
+      },
+      {
+        "text": "INVOLI",
+        "label": "ORG",
+        "start": 537,
+        "end": 543
+      },
+      {
+        "text": "Renens",
+        "label": "PERSON",
+        "start": 549,
+        "end": 555
+      },
+      {
+        "text": "SUN",
+        "label": "ORG",
+        "start": 560,
+        "end": 563
+      },
+      {
+        "text": "Lausanne",
+        "label": "GPE",
+        "start": 580,
+        "end": 588
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 594,
+        "end": 597
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 598,
+        "end": 608
+      },
+      {
+        "text": "Myoswiss",
+        "label": "PERSON",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Myosuit",
+        "label": "ORG",
+        "start": 27,
+        "end": 34
+      },
+      {
+        "text": "less than five kilograms",
+        "label": "QUANTITY",
+        "start": 190,
+        "end": 214
+      },
+      {
+        "text": "Myosuit",
+        "label": "ORG",
+        "start": 343,
+        "end": 350
+      },
+      {
+        "text": "the Spark Award",
+        "label": "ORG",
+        "start": 380,
+        "end": 395
+      },
+      {
+        "text": "FlexOne",
+        "label": "ORG",
+        "start": 214,
+        "end": 221
+      },
+      {
+        "text": "a hundred",
+        "label": "CARDINAL",
+        "start": 249,
+        "end": 258
+      },
+      {
+        "text": "The W.A. de Vigier Award",
+        "label": "ORG",
+        "start": 432,
+        "end": 456
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 482,
+        "end": 488
+      },
+      {
+        "text": "500,000 Swiss francs",
+        "label": "MONEY",
+        "start": 504,
+        "end": 524
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 583,
+        "end": 594
+      },
+      {
+        "text": "29-year",
+        "label": "DATE",
+        "start": 603,
+        "end": 610
+      },
+      {
+        "text": "over 11 million francs",
+        "label": "MONEY",
+        "start": 651,
+        "end": 673
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Myoswiss",
+        "Renens"
+      ],
+      "ORG": [
+        "Alongside AUDATIC GmbH",
+        "ETH Zurich",
+        "FlexOne",
+        "INVOLI",
+        "Myosuit",
+        "SUN",
+        "The W.A. de Vigier Award",
+        "the Foundation Board",
+        "the Spark Award",
+        "the W.A. de Vigier Award 2018"
+      ],
+      "LOCATION": [
+        "Lausanne",
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "29-year",
+        "annual"
+      ],
+      "MISC": [
+        "500,000 Swiss francs",
+        "More than 220",
+        "a hundred",
+        "five",
+        "less than five kilograms",
+        "over 11 million francs",
+        "ten",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Myosuit": 2,
+      "More than 220": 1,
+      "the W.A. de Vigier Award 2018": 1,
+      "the Foundation Board": 1,
+      "ten": 1,
+      "five": 1,
+      "Alongside AUDATIC GmbH": 1,
+      "Zurich": 1,
+      "INVOLI": 1,
+      "Renens": 1,
+      "SUN": 1,
+      "Lausanne": 1,
+      "two": 1,
+      "ETH Zurich": 1,
+      "Myoswiss": 1,
+      "less than five kilograms": 1,
+      "the Spark Award": 1,
+      "FlexOne": 1,
+      "a hundred": 1,
+      "The W.A. de Vigier Award": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de-vigier.md",
+      "title": "En News Events/2018/05/de Vigier",
+      "language": "en",
+      "source_path": "en_news_events/2018/05/de-vigier.html"
+    },
+    "temporal": {
+      "publication_date": "2018-05",
+      "mentioned_years": [
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Myoswiss",
+        "Renens"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "500,000 Swiss francs",
+        "More than 220",
+        "a hundred",
+        "five",
+        "less than five kilograms",
+        "over 11 million francs"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Alongside AUDATIC",
+        "Vigier More",
+        "Spark Award",
+        "En News",
+        "The W",
+        "Foundation Board",
+        "The Myosuit",
+        "Vigier Award",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Alongside AUDATIC GmbH",
+        "ETH Zurich",
+        "FlexOne",
+        "INVOLI",
+        "Myosuit",
+        "SUN",
+        "The W.A. de Vigier Award",
+        "the Foundation Board",
+        "the Spark Award",
+        "the W.A. de Vigier Award 2018"
+      ],
+      "locations": [
+        "Lausanne",
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Myosuit",
+        "More than 220",
+        "the W.A. de Vigier Award 2018",
+        "the Foundation Board",
+        "ten",
+        "five",
+        "Alongside AUDATIC GmbH",
+        "Zurich",
+        "INVOLI",
+        "Renens"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Wearable muscles for people with limited mobility",
+          "Wearable muscles for people with limited mobility",
+          "A new generation of cables"
+        ],
+        "content_length": 1883
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "SUN",
+        "2018",
+        "the Foundation Board",
+        "INVOLI",
+        "the W.A. de Vigier Award 2018",
+        "Myoswiss",
+        "EU",
+        "FlexOne",
+        "Myosuit",
+        "2017",
+        "the Spark Award",
+        "ETH Zurich",
+        "The W.A. de Vigier Award",
+        "Alongside AUDATIC GmbH",
+        "Renens"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "computer_science",
+        "More than 220",
+        "who",
+        "a hundred",
+        "where",
+        "less than five kilograms",
+        "500,000 Swiss francs",
+        "what",
+        "over 11 million francs",
+        "medical_research",
+        "five",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

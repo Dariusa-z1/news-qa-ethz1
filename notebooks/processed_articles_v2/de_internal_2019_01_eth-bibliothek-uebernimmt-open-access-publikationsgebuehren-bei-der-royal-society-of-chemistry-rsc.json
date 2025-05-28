@@ -1,0 +1,137 @@
+{
+  "filename": "de_internal_2019_01_eth-bibliothek-uebernimmt-open-access-publikationsgebuehren-bei-der-royal-society-of-chemistry-rsc.md",
+  "original_filename": "de_internal_2019_01_eth-bibliothek-uebernimmt-open-access-publikationsgebuehren-bei-der-royal-society-of-chemistry-rsc.html",
+  "source_path": "de_internal/2019/01/eth-bibliothek-uebernimmt-open-access-publikationsgebuehren-bei-der-royal-society-of-chemistry-rsc.html",
+  "date": "2019-01",
+  "title": "Eth Bibliothek Uebernimmt Open Access Publikationsgebuehren Bei Der Royal Society Of Chemistry Rsc",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Voraussetzung ist, dass der Erstautor des eingereichten Artikels an der ETH Zürich beschäftigt ist. Bei der ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/01/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "eth Bibliothek",
+        "label": "PER",
+        "start": 20,
+        "end": 34
+      },
+      {
+        "text": "Royal Society Of Chemistry Rsc",
+        "label": "ORG",
+        "start": 88,
+        "end": 118
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 72,
+        "end": 82
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "eth Bibliothek"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Royal Society Of Chemistry Rsc"
+      ],
+      "LOCATION": [
+        "De Internal/2019/01/"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2019/01/": 1,
+      "eth Bibliothek": 1,
+      "Royal Society Of Chemistry Rsc": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_01_eth-bibliothek-uebernimmt-open-access-publikationsgebuehren-bei-der-royal-society-of-chemistry-rsc.md",
+      "title": "De Internal/2019/01/eth Bibliothek Uebernimmt Open Access Publikationsgebuehren bei der Royal Society Of Chemistry Rsc",
+      "language": "de",
+      "source_path": "de_internal/2019/01/eth-bibliothek-uebernimmt-open-access-publikationsgebuehren-bei-der-royal-society-of-chemistry-rsc.html"
+    },
+    "temporal": {
+      "publication_date": "2019-01",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "eth Bibliothek"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Bibliothek Uebernimmt",
+        "Rsc Voraussetzung",
+        "Of Chemistry",
+        "De Internal",
+        "Royal Society",
+        "Open Access"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Royal Society Of Chemistry Rsc"
+      ],
+      "locations": [
+        "De Internal/2019/01/"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2019/01/",
+        "eth Bibliothek",
+        "Royal Society Of Chemistry Rsc",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 228
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "eth Bibliothek",
+        "2019",
+        "Royal Society Of Chemistry Rsc"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

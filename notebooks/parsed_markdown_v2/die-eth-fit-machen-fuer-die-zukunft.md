@@ -1,0 +1,18 @@
+# die-eth-fit-machen-fuer-die-zukunft.html
+
+**Source:** de_internal/2019/10/die-eth-fit-machen-fuer-die-zukunft.html
+
+## Main article
+
+Nach noch nicht einmal einem Jahr im Amt lancieren Sie eine Überarbeitung der ETH-Organisationen und strukturieren die Schulleitung um. Weshalb? Joël Mesot: Die ETH bewegt sich in Lehre, Forschung und Wissenstransfer auf internationalem Spitzenniveau. Doch die Anforderungen an die ETH nehmen laufend zu: Der globale Wettbewerb in Forschung und Bildung wird härter. Ausserdem verzeichnen wir bei Studierenden und Mitarbeitenden seit Jahren ein stetes Wachstum. Und Personal- und Führungsfragen sind in den letzten Jahren immer wichtiger geworden.
+
+Können Sie das konkretisieren? Konkurrenz in Forschung und Lehre erwächst uns zunehmend von den schnell aufstrebenden Hochschulen in Asien, aber auch von neuen Anbietern aus der Privatwirtschaft wie etwa Google. Gleichzeitig verfolgt unser Umfeld die Entwicklung der ETH genau und die Anforderungen an unsere Corporate Governance wachsen. Intern sind wir zudem mit immer höheren Erwartungen an eine professionelle strategische und personelle Führung konfrontiert – durchaus zu Recht. Auch mein bisheriges, sehr intensives Dreivierteljahr als ETH-Präsident zeigt mir: Es braucht Justierungen in der Organisation, um alle Aufgaben zu bewältigen, welche die höchst komplexe Führung einer Hochschule täglich stellt.
+
+Stehen wir so schlecht da? Nein, die ETH ist heute in ausgezeichneter Verfassung. Aber bekanntlich gilt der Satz: «Gouverner, c’est prévoir». Wir haben jetzt ein Zeitfenster, um das Zusammenspiel zwischen Professuren, Departementen und Zentralen Organen zu optimieren. Letztlich geht es darum, dass unsere Forschenden und Lehrenden ihre Kernaufgaben noch besser wahrnehmen können. Mit rETHink schaffen wir dafür den nötigen Spielraum.
+
+Welche Strukturen werden mit rETHink nun konkret weiterentwickelt? Auf Schulleitungsebene sollen die geplanten zusätzlichen Ressorts für Leadership und Personalentwicklung sowie für Wissenstransfer und Wirtschaftsbeziehungen sicherstellen, dass die neuen Schulleitungsmitglieder den Entwicklungsprozess von Anfang an mitgestalten können. Für die Führung der ETH sind ausserdem starke Departemente essenziell. Deshalb sollen die Führungsrolle und die Führungsstrukturen der Departemente gestärkt werden. Weiter wollen wir die Führungskompetenzen insbesondere der Professorinnen und Professoren stärken. Diese sind entscheidend für den Erfolg der ETH.
+
+Wie gehen Sie vor? Wir denken den Entwicklungsprozess von den Professuren her, unseren zentralen Leistungsträgern. Darauf aufbauend wollen wir herausfinden, welche Unterstützung die Departemente für die Professuren leisten sollen und wie die zentralen Dienstleistungen der Schulleitung und der Zentralen Organe verbessert werden können. Ich möchte aber betonen: Das ist erst der Rahmen. Die konkrete Umsetzung soll in enger Zusammenarbeit mit den Professorinnen und Professoren, den Departementen und den Mitwirkungsgremien erfolgen.
+
+Was versprechen Sie sich von rETHink? Wir stärken unsere Handlungsfähigkeit und die Wahrung der Eigenverantwortung auf allen Stufen, und das ist mir besonders wichtig: rETHink soll auf der Ermöglichungskultur der ETH aufbauen und die ETH auch als Wertegemeinschaft stärker machen. Mir ist klar, das ist ein längerer, tiefgreifender Prozess. Doch wenn es uns gelingt, rETHink zum Erfolg zu bringen, wird die Organisation der ETH gewappnet sein für künftige Herausforderungen. Dafür müssen wir jedoch alle am selben Strick ziehen. Ich freue mich auf einen intensiven und produktiven Prozess, zum Wohl der ETH.
+

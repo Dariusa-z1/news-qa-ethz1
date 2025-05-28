@@ -1,0 +1,530 @@
+{
+  "filename": "mitoribosom.md",
+  "original_filename": "mitoribosom.html",
+  "source_path": "en_news_events/2014/01/mitoribosom.html",
+  "date": "2014-01",
+  "title": "Mitoribosom",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Structure determination with obstacles",
+      "text": "The ribosome can be thought of as a decryption device housed within the cell. It is able to decipher the genetic code, which is delivered in the form of messenger ribonucleic acid (mRNA), and translate it into a specific sequence of amino acids. The final assembly of amino acids into long protein chains also takes place in these enzyme complexes. Without ribosomes, a cell would be unable to produce any proteins. Due to their central function, these enzyme complexes have long been the focus of attention of biologists.\n\nIn order to obtain a better understanding of ribosomes, which are found in all cells, it is imperative to know their exact composition and structure. Over the past 15 years, Nenad Ban, professor at ETH Zurich, has made a significant contribution to not only the elucidation of the ribosome structure of bacteria, but also of higher organisms, termed eukaryotes, which include fungi, plants and animals (see ETH Life 4.11.11)."
+    },
+    {
+      "heading": "Structure determination with obstacles",
+      "text": "Until now, the molecular structure of the ribosomes found in mitochondria, the power plants of the cell, was still largely unknown. Mitochondrial ribosomes differ considerably from the ‘ordinary’ ribosomes found in the cytoplasm, which are composed of 60% ribonucleic acids (RNA) and 40% protein components. In the case of mitochondrial ribosomes, RNA accounts for just under a third of the entire complex. One reason for this is that the RNA molecules have shortened significantly over the course of evolutionary history. Mitochondrial ribosomes in the cell are primarily localised at the inner membrane of mitochondria and are present within the cell in a far smaller number than the cytoplasmic ribosomes. This makes them more difficult to isolate, hampering progress of research in the field.\n\nA team of researchers from the ETH research groups of Nenad Ban and Ruedi Aebersold have now succeeded in elucidating the structure of the large subunit of the mitochondrial ribosomes from mammalian cells to a resolution of 4.9 angstroms (less than 0.5 nanometres). Such a level of resolution allows, for example, the visualization of individual phosphate groups of the ribosomal RNA. The researchers’ findings were published in the January 23rd issue of Nature as the cover story.\n\nOne of the difficulties encountered was that no usable crystals could be produced from mitochondrial ribosomes in order to determine their structure. Until now, X-ray crystallography, where the molecule is isolated, crystallised and analysed by X-rays, has been the method of choice to examine the structure of large biological molecules at high resolution. The X-rays are deflected by the atoms in the crystal, thereby creating a specific pattern that can be used to calculate the atom positions. However, for such an experiment to succeed, the crystal must be sufficiently big and of high quality. The large subunit of the mitochondrial ribosome is not suitable for this procedure, as its structure is too heterogeneous, and insufficient amounts of material can be extracted for the crystallisation process. “We would have needed hundreds of kilograms of pig liver in order to isolate sufficient quantities of ribosomal material for crystallographic structure analysis; it was logistically impossible to achieve,” says Basil Greber, the lead author of the study and a post-doctoral researcher in Nenad Ban’s group."
+    },
+    {
+      "heading": "Success thanks to a clever combination",
+      "text": "The ETH researchers therefore used the latest generation of high-resolution cryo-electron microscopes, which have only recently become available at the Electron Microscopy Center of ETH Zurich (EMEZ) and from the manufacturer. The researchers captured more than a million images of the large subunit of the mitoribosome and reconstructed its three-dimensional structure by performing complex calculations on a computer cluster.\n\nIn order to interpret the calculated structure as precisely as possible and to determine the exact location of the RNA and protein molecules within the enzyme complex, the researchers used a method derived from Aebersold’s laboratory – a method called ‘chemical cross-linking combined with mass spectrometry’ (see ETH Life 18.9.12). Here, the individual protein components of the ribosome are chemically cross-linked, fragmented into peptides for further analysis, and sequenced in the mass spectrometer. From this data, it is then possible to determine the structure of a protein complex, such as the ribosome and its large subunit. A great deal of computer power is required, however, and so the research team used Brutus, ETH’s high-performance cluster.\n\nThe combination of these methods enabled the researchers to succeed in creating a high-resolution structural model of the large subunit of the mitochondrial ribosome with unprecedented precision."
+    },
+    {
+      "heading": "Key to the study of disease",
+      "text": "Thanks to their new findings, the researchers can now explain why mitochondrial ribosomes are always located at the membrane of the mitochondrion. In the vicinity of the tunnel exit, through which freshly synthesised proteins leave the ribosome, the biologists were able to localise a protein with similarity to membrane anchor proteins. From this observation, they have been able to conclude that during the course of evolution an anchor protein of this kind was integrated in the ribosome in order to fix it to the mitochondrial membrane, thus allowing the freshly synthesised proteins to be targeted directly to their destination in the membrane. On the basis of this ground-breaking work, the researchers also hope to gain new insights into the functioning and disorders of this important cellular organelle. Defects in the genetic material coding for the components of mitochondria can lead, for example, to muscle diseases and also play a role in cancer. Cancer cells not only require high levels of nutrients in order to grow quickly, but also large amounts of energy. Their energy metabolism therefore is in an unusual state, to which the mitochondria probably also contribute. Ban makes clear, however, that no application-related questions are currently being addressed. “The structure of this ribosome provides an important foundation on which other researchers can build,” he says. The published work was supported by the National Center of Competence in Research (NCCR) Structural Biology of the Swiss National Fund."
+    },
+    {
+      "heading": "Mitochondria – the power plants of the cell",
+      "text": "Mitochondria originated at the beginning of the evolution of higher organisms (eukaryotes). More than a billion years ago, host cells probably ‘swallowed‘ simple bacteria, which over the course of time developed into mitochondria inside their hosts. They therefore have a ‘life of their own’, with their own genetic material and the molecular machinery to translate the genetic code into proteins. Energy is converted in the mitochondria and stored in the form of high-energy chemical compounds that are available to the cell for all vital processes. However, mitochondria are not only energy suppliers, but also play an important role in multicellular organisms during apoptosis, programmed cell death, which allows defective cells to be eliminated efficiently.\n\nGreber B, et al. Architecture of the large subunit of the mammalian mitochondrial ribosome. Nature 505, 515–519 (23 January 2014). doi: 10.1038/nature12890"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the past 15 years",
+        "label": "DATE",
+        "start": 678,
+        "end": 695
+      },
+      {
+        "text": "Nenad Ban",
+        "label": "PERSON",
+        "start": 697,
+        "end": 706
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 721,
+        "end": 731
+      },
+      {
+        "text": "ETH Life",
+        "label": "ORG",
+        "start": 930,
+        "end": 938
+      },
+      {
+        "text": "mitochondria",
+        "label": "GPE",
+        "start": 61,
+        "end": 73
+      },
+      {
+        "text": "60%",
+        "label": "PERCENT",
+        "start": 252,
+        "end": 255
+      },
+      {
+        "text": "40%",
+        "label": "PERCENT",
+        "start": 284,
+        "end": 287
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 348,
+        "end": 351
+      },
+      {
+        "text": "just under a third",
+        "label": "CARDINAL",
+        "start": 365,
+        "end": 383
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 407,
+        "end": 410
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 828,
+        "end": 831
+      },
+      {
+        "text": "Nenad Ban",
+        "label": "PERSON",
+        "start": 851,
+        "end": 860
+      },
+      {
+        "text": "Ruedi Aebersold",
+        "label": "PERSON",
+        "start": 865,
+        "end": 880
+      },
+      {
+        "text": "4.9",
+        "label": "CARDINAL",
+        "start": 1021,
+        "end": 1024
+      },
+      {
+        "text": "less than 0.5 nanometres",
+        "label": "QUANTITY",
+        "start": 1036,
+        "end": 1060
+      },
+      {
+        "text": "the January 23rd",
+        "label": "DATE",
+        "start": 1226,
+        "end": 1242
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 1252,
+        "end": 1258
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1279,
+        "end": 1282
+      },
+      {
+        "text": "hundreds",
+        "label": "CARDINAL",
+        "start": 2111,
+        "end": 2119
+      },
+      {
+        "text": "Basil Greber",
+        "label": "PERSON",
+        "start": 2300,
+        "end": 2312
+      },
+      {
+        "text": "Nenad Ban’s",
+        "label": "PERSON",
+        "start": 2377,
+        "end": 2388
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "the Electron Microscopy Center",
+        "label": "ORG",
+        "start": 148,
+        "end": 178
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 182,
+        "end": 192
+      },
+      {
+        "text": "EMEZ",
+        "label": "ORG",
+        "start": 194,
+        "end": 198
+      },
+      {
+        "text": "more than a million",
+        "label": "CARDINAL",
+        "start": 252,
+        "end": 271
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 342,
+        "end": 347
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 543,
+        "end": 546
+      },
+      {
+        "text": "Aebersold",
+        "label": "ORG",
+        "start": 639,
+        "end": 648
+      },
+      {
+        "text": "ETH Life 18.9.12",
+        "label": "ORG",
+        "start": 742,
+        "end": 758
+      },
+      {
+        "text": "Brutus",
+        "label": "PERSON",
+        "start": 1145,
+        "end": 1151
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1153,
+        "end": 1156
+      },
+      {
+        "text": "the National Center of Competence in Research (NCCR) Structural Biology",
+        "label": "ORG",
+        "start": 1430,
+        "end": 1501
+      },
+      {
+        "text": "the Swiss National Fund",
+        "label": "ORG",
+        "start": 1505,
+        "end": 1528
+      },
+      {
+        "text": "Mitochondria",
+        "label": "GPE",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "More than a billion years ago",
+        "label": "CARDINAL",
+        "start": 92,
+        "end": 121
+      },
+      {
+        "text": "515–519",
+        "label": "CARDINAL",
+        "start": 867,
+        "end": 874
+      },
+      {
+        "text": "23 January 2014",
+        "label": "DATE",
+        "start": 876,
+        "end": 891
+      },
+      {
+        "text": "10.1038/nature12890",
+        "label": "CARDINAL",
+        "start": 899,
+        "end": 918
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Basil Greber",
+        "Brutus",
+        "Nenad Ban",
+        "Nenad Ban’s",
+        "Ruedi Aebersold"
+      ],
+      "ORG": [
+        "Aebersold",
+        "EMEZ",
+        "ETH",
+        "ETH Life",
+        "ETH Life 18.9.12",
+        "ETH Zurich",
+        "RNA",
+        "the Electron Microscopy Center",
+        "the National Center of Competence in Research (NCCR) Structural Biology",
+        "the Swiss National Fund"
+      ],
+      "LOCATION": [
+        "Mitochondria",
+        "mitochondria"
+      ],
+      "DATE": [
+        "23 January 2014",
+        "the January 23rd",
+        "the past 15 years"
+      ],
+      "MISC": [
+        "10.1038/nature12890",
+        "4.9",
+        "40%",
+        "515–519",
+        "60%",
+        "More than a billion years ago",
+        "Nature",
+        "One",
+        "hundreds",
+        "just under a third",
+        "less than 0.5 nanometres",
+        "more than a million",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "Nenad Ban": 2,
+      "ETH Zurich": 2,
+      "RNA": 2,
+      "One": 2,
+      "the past 15 years": 1,
+      "ETH Life": 1,
+      "mitochondria": 1,
+      "60%": 1,
+      "40%": 1,
+      "just under a third": 1,
+      "Ruedi Aebersold": 1,
+      "4.9": 1,
+      "less than 0.5 nanometres": 1,
+      "the January 23rd": 1,
+      "Nature": 1,
+      "hundreds": 1,
+      "Basil Greber": 1,
+      "Nenad Ban’s": 1,
+      "the Electron Microscopy Center": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 33
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mitoribosom.md",
+      "title": "En News Events/2014/01/mitoribosom",
+      "language": "en",
+      "source_path": "en_news_events/2014/01/mitoribosom.html"
+    },
+    "temporal": {
+      "publication_date": "2014-01",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Basil Greber",
+        "Brutus",
+        "Nenad Ban",
+        "Nenad Ban’s",
+        "Ruedi Aebersold"
+      ],
+      "people_with_roles": {
+        "Basil Greber": [
+          "researcher"
+        ],
+        "Nenad Ban": [
+          "researcher",
+          "professor"
+        ],
+        "Nenad Ban’s": [
+          "researcher"
+        ],
+        "Ruedi Aebersold": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038/nature12890",
+        "515–519",
+        "More than a billion years ago",
+        "Nature",
+        "hundreds",
+        "just under a third",
+        "less than 0.5 nanometres",
+        "more than a million",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Ruedi Aebersold",
+        "Greber B",
+        "En News",
+        "Electron Microscopy",
+        "National Center",
+        "Swiss National",
+        "ETH Life",
+        "Basil Greber",
+        "Structural Biology",
+        "Nenad Ban",
+        "The X",
+        "ETH Zurich",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Aebersold",
+        "EMEZ",
+        "ETH",
+        "ETH Life",
+        "ETH Life 18.9.12",
+        "ETH Zurich",
+        "RNA",
+        "the Electron Microscopy Center",
+        "the National Center of Competence in Research (NCCR) Structural Biology",
+        "the Swiss National Fund"
+      ],
+      "locations": [
+        "Mitochondria",
+        "mitochondria"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Nenad Ban",
+        "ETH Zurich",
+        "RNA",
+        "One",
+        "the past 15 years",
+        "ETH Life",
+        "mitochondria",
+        "60%",
+        "40%"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Structure determination with obstacles",
+          "Structure determination with obstacles",
+          "Success thanks to a clever combination",
+          "Key to the study of disease",
+          "Mitochondria – the power plants of the cell"
+        ],
+        "content_length": 7215
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Ruedi Aebersold",
+        "Aebersold",
+        "ETH",
+        "EMEZ",
+        "RNA",
+        "2014",
+        "Nenad Ban’s",
+        "EU",
+        "Basil Greber",
+        "ETH Life",
+        "the Electron Microscopy Center",
+        "Nenad Ban",
+        "ETH Life 18.9.12",
+        "the National Center of Competence in Research (NCCR) Structural Biology",
+        "ETH Zurich",
+        "the Swiss National Fund",
+        "Brutus"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "chemistry",
+        "when",
+        "More than a billion years ago",
+        "hundreds",
+        "biology",
+        "medical_research",
+        "why",
+        "mathematics",
+        "Nature",
+        "who",
+        "more than a million",
+        "just under a third",
+        "what",
+        "how",
+        "less than 0.5 nanometres",
+        "515–519",
+        "10.1038/nature12890",
+        "where"
+      ],
+      "graph_relations": [
+        "Basil Greber_has_role_researcher",
+        "Nenad Ban_has_role_researcher",
+        "Nenad Ban_has_role_professor",
+        "Nenad Ban’s_has_role_researcher",
+        "Ruedi Aebersold_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

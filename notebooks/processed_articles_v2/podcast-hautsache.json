@@ -1,0 +1,258 @@
+{
+  "filename": "podcast-hautsache.md",
+  "original_filename": "podcast-hautsache.html",
+  "source_path": "en_news_events/2021/08/podcast-hautsache.html",
+  "date": "2021-08",
+  "title": "Podcast Hautsache",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "What began at lunch between the ETH-Professors Sabine Werner and Edoardo Mazza emerged as a nationwide interdisciplinary consortium of scientists from diverse universities and hospitals. The goal of Skintegrity.CH is to understand and treat skin diseases and abnormalities in wound healing. Sabine and Edoardo from the ETH as well as Lukas Sommer from the University of Zürich talk about our largest organ, the skin - from the tiniest particles to its breeding. They also let us know how collaboration works in such a large group and why it empowers the next generation of researchers.\n\nAt Scientifica, Skintegrity will show a device called Nimble, which uses a vacuum to measure mechanical properties of the skin, as well as parts of a “dynamic bioreactor” in which skin cells from patients can be grown into bioengineered skin substitutes. Further information on the website of Scientifica ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Hautsache",
+        "label": "ORG",
+        "start": 31,
+        "end": 40
+      },
+      {
+        "text": "Werner",
+        "label": "PERSON",
+        "start": 54,
+        "end": 60
+      },
+      {
+        "text": "Edoardo Mazza",
+        "label": "ORG",
+        "start": 65,
+        "end": 78
+      },
+      {
+        "text": "Skintegrity",
+        "label": "ORG",
+        "start": 199,
+        "end": 210
+      },
+      {
+        "text": "CH",
+        "label": "ORG",
+        "start": 211,
+        "end": 213
+      },
+      {
+        "text": "Edoardo",
+        "label": "GPE",
+        "start": 302,
+        "end": 309
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 319,
+        "end": 322
+      },
+      {
+        "text": "Lukas Sommer",
+        "label": "PERSON",
+        "start": 334,
+        "end": 346
+      },
+      {
+        "text": "the University of Zürich",
+        "label": "ORG",
+        "start": 352,
+        "end": 376
+      },
+      {
+        "text": "Scientifica",
+        "label": "LOC",
+        "start": 589,
+        "end": 600
+      },
+      {
+        "text": "Skintegrity",
+        "label": "ORG",
+        "start": 602,
+        "end": 613
+      },
+      {
+        "text": "Nimble",
+        "label": "WORK_OF_ART",
+        "start": 640,
+        "end": 646
+      },
+      {
+        "text": "Scientifica",
+        "label": "LOC",
+        "start": 879,
+        "end": 890
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Lukas Sommer",
+        "Werner"
+      ],
+      "ORG": [
+        "CH",
+        "ETH",
+        "Edoardo Mazza",
+        "Hautsache",
+        "Skintegrity",
+        "the University of Zürich"
+      ],
+      "LOCATION": [
+        "Edoardo",
+        "Scientifica"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Nimble"
+      ]
+    },
+    "entity_counts": {
+      "Skintegrity": 2,
+      "Scientifica": 2,
+      "Hautsache": 1,
+      "Werner": 1,
+      "Edoardo Mazza": 1,
+      "CH": 1,
+      "Edoardo": 1,
+      "ETH": 1,
+      "Lukas Sommer": 1,
+      "the University of Zürich": 1,
+      "Nimble": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-hautsache.md",
+      "title": "En News Events/2021/08/podcast Hautsache",
+      "language": "en",
+      "source_path": "en_news_events/2021/08/podcast-hautsache.html"
+    },
+    "temporal": {
+      "publication_date": "2021-08",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Lukas Sommer",
+        "Werner"
+      ],
+      "people_with_roles": {
+        "Werner": [
+          "scientist",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "engineering"
+      ],
+      "research_topics": [
+        "Nimble"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Edoardo Mazza",
+        "Hautsache What",
+        "En News",
+        "Sabine Werner",
+        "Lukas Sommer",
+        "At Scientifica",
+        "ETH-Professors"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CH",
+        "ETH",
+        "Edoardo Mazza",
+        "Hautsache",
+        "Skintegrity",
+        "the University of Zürich"
+      ],
+      "locations": [
+        "Edoardo",
+        "Scientifica"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Skintegrity",
+        "Scientifica",
+        "Hautsache",
+        "Werner",
+        "Edoardo Mazza",
+        "CH",
+        "Edoardo",
+        "ETH",
+        "Lukas Sommer",
+        "the University of Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 934
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Edoardo Mazza",
+        "Lukas Sommer",
+        "Hautsache",
+        "Skintegrity",
+        "Werner",
+        "the University of Zürich",
+        "2021",
+        "CH"
+      ],
+      "semantic_concepts": [
+        "who",
+        "where",
+        "what",
+        "Nimble",
+        "how",
+        "medical_research",
+        "why",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Werner_has_role_scientist",
+        "Werner_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

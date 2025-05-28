@@ -1,0 +1,481 @@
+{
+  "filename": "3d-printed-salt-template.md",
+  "original_filename": "3d-printed-salt-template.html",
+  "source_path": "en_news_events/2019/08/3d-printed-salt-template.html",
+  "date": "2019-08",
+  "title": "3D Printed Salt Template",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Scaffolds made of magnesium",
+      "text": "For the treatment of complex bone fractures or even missing bone parts, surgeons typically deploy metal implants. In this context, an attractive alternative to the traditional materials like bioinert titanium are biodegradable magnesium and its alloys. Implants made of the latter light metal are advantageous because they can biodegrade in the body, which can absorb magnesium as a mineral nutrient, rendering a second surgery for implant removal unnecessary. To promote rapid healing, the design of implants or their surfaces should be directed towards promotion of cellular adhesion or even in-growth. Materials researchers from the Laboratory of Metal Physics and Technology and the Complex Materials Group at ETH Zurich have therefore collaborated to develop a new procedure for the manufacture of magnesium implants that contain numerous structurally ordered pores but still retain their mechanical stability. This development is the subject of a forthcoming article in Advanced Materials ."
+    },
+    {
+      "heading": "Scaffolds made of magnesium",
+      "text": "To create a porous structure the researchers first printed a three-dimensional salt template using a 3D printer. Because pure, standard table salt is not suitable for printing, they developed a gel-like salt paste for this purpose. The strut diameters and spacings of the salt template can be tailored by the printing process. To gain sufficient mechanical strength the salt structure was subsequently sintered. During sintering the fine-grained materials are heated significantly, while the temperature is chosen safely below the paste’s melting point to retain the structure of the workpiece.\n\nThe next step was to infiltrate the pores with magnesium melt. “The infiltrates obtained in this way are mechanically very stable and can be easily polished, turned and shaped,” says Jörg Löffler, Professor of Metal Physics and Technology in the Department of Materials. After mechanical shaping the researchers dissolved the salt, leaving a pure magnesium implant with numerous, regularly structured pores."
+    },
+    {
+      "heading": "Decisive for clinical success",
+      "text": "“The possibility to control the pore size, distribution and orientation in the material is decisive for clinical success, because bone cells like to grow into these pores,” says Löffler. Growth into pores is in turn decisive for the rapid integration of the implant in bone.\n\nThe new procedure for manufacturing these template structures from salt can be applied to other materials besides magnesium. Co-authors Martina Cihova and Dr Kunal Masania expect that the process can also be used to tailor pore geometries in polymers, ceramics and other light metals.\n\nThe idea of this new manufacturing procedure emerged within the framework of the Master’s thesis of Nicole Kleger, whose study was supported by an ETH Zurich Excellence Scholarship & Opportunity stipend. Her work was also awarded with the ETH medal for excellent Master’s theses. Nicole Kleger is now a doctoral student in the Complex Materials Group of ETH professor André Studart, under whose direction the initial salt template was 3D printed. In her doctoral thesis project Kleger is now developing the 3D-printing procedure further.\n\nKleger N, Cihova M, Masania K, Studart AR, Löffler JF. 3D Printing of Salt as a Template for Magnesium with Structured Porosity. Adv. Mater. 2019, 1903783, doi: 10.1002/adma.201903783"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 413,
+        "end": 419
+      },
+      {
+        "text": "the Laboratory of Metal Physics and Technology",
+        "label": "ORG",
+        "start": 632,
+        "end": 678
+      },
+      {
+        "text": "the Complex Materials Group",
+        "label": "ORG",
+        "start": 683,
+        "end": 710
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 714,
+        "end": 724
+      },
+      {
+        "text": "Advanced Materials",
+        "label": "ORG",
+        "start": 976,
+        "end": 994
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 45,
+        "end": 50
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 61,
+        "end": 66
+      },
+      {
+        "text": "Jörg Löffler",
+        "label": "PERSON",
+        "start": 778,
+        "end": 790
+      },
+      {
+        "text": "Metal Physics and Technology",
+        "label": "ORG",
+        "start": 805,
+        "end": 833
+      },
+      {
+        "text": "the Department of Materials",
+        "label": "ORG",
+        "start": 837,
+        "end": 864
+      },
+      {
+        "text": "Löffler",
+        "label": "PERSON",
+        "start": 178,
+        "end": 185
+      },
+      {
+        "text": "Martina Cihova",
+        "label": "PERSON",
+        "start": 411,
+        "end": 425
+      },
+      {
+        "text": "Dr Kunal",
+        "label": "ORG",
+        "start": 430,
+        "end": 438
+      },
+      {
+        "text": "Masania",
+        "label": "PERSON",
+        "start": 439,
+        "end": 446
+      },
+      {
+        "text": "Nicole Kleger",
+        "label": "PERSON",
+        "start": 660,
+        "end": 673
+      },
+      {
+        "text": "an ETH Zurich Excellence Scholarship & Opportunity",
+        "label": "ORG",
+        "start": 704,
+        "end": 754
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 799,
+        "end": 802
+      },
+      {
+        "text": "Nicole Kleger",
+        "label": "PERSON",
+        "start": 840,
+        "end": 853
+      },
+      {
+        "text": "the Complex Materials Group",
+        "label": "ORG",
+        "start": 883,
+        "end": 910
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 914,
+        "end": 917
+      },
+      {
+        "text": "André Studart",
+        "label": "PERSON",
+        "start": 928,
+        "end": 941
+      },
+      {
+        "text": "3D",
+        "label": "ORG",
+        "start": 995,
+        "end": 997
+      },
+      {
+        "text": "Kleger",
+        "label": "PERSON",
+        "start": 1038,
+        "end": 1044
+      },
+      {
+        "text": "Kleger N",
+        "label": "ORG",
+        "start": 1098,
+        "end": 1106
+      },
+      {
+        "text": "Cihova M",
+        "label": "ORG",
+        "start": 1108,
+        "end": 1116
+      },
+      {
+        "text": "Masania K",
+        "label": "PERSON",
+        "start": 1118,
+        "end": 1127
+      },
+      {
+        "text": "Studart AR",
+        "label": "PERSON",
+        "start": 1129,
+        "end": 1139
+      },
+      {
+        "text": "Löffler JF",
+        "label": "PERSON",
+        "start": 1141,
+        "end": 1151
+      },
+      {
+        "text": "Mater",
+        "label": "PERSON",
+        "start": 1232,
+        "end": 1237
+      },
+      {
+        "text": "2019, 1903783",
+        "label": "DATE",
+        "start": 1239,
+        "end": 1252
+      },
+      {
+        "text": "10.1002/adma.201903783",
+        "label": "CARDINAL",
+        "start": 1259,
+        "end": 1281
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "André Studart",
+        "Jörg Löffler",
+        "Kleger",
+        "Löffler",
+        "Löffler JF",
+        "Martina Cihova",
+        "Masania",
+        "Masania K",
+        "Mater",
+        "Nicole Kleger",
+        "Studart AR"
+      ],
+      "ORG": [
+        "3D",
+        "Advanced Materials",
+        "Cihova M",
+        "Dr Kunal",
+        "ETH",
+        "ETH Zurich",
+        "Kleger N",
+        "Metal Physics and Technology",
+        "an ETH Zurich Excellence Scholarship & Opportunity",
+        "the Complex Materials Group",
+        "the Department of Materials",
+        "the Laboratory of Metal Physics and Technology"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "2019, 1903783"
+      ],
+      "MISC": [
+        "10.1002/adma.201903783",
+        "first",
+        "second",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "the Complex Materials Group": 2,
+      "Nicole Kleger": 2,
+      "ETH": 2,
+      "second": 1,
+      "the Laboratory of Metal Physics and Technology": 1,
+      "ETH Zurich": 1,
+      "Advanced Materials": 1,
+      "first": 1,
+      "three": 1,
+      "Jörg Löffler": 1,
+      "Metal Physics and Technology": 1,
+      "the Department of Materials": 1,
+      "Löffler": 1,
+      "Martina Cihova": 1,
+      "Dr Kunal": 1,
+      "Masania": 1,
+      "an ETH Zurich Excellence Scholarship & Opportunity": 1,
+      "André Studart": 1,
+      "3D": 1,
+      "Kleger": 1
+    },
+    "total_entities": 31,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "3d-printed-salt-template.md",
+      "title": "En News Events/2019/08/3d Printed Salt Template",
+      "language": "en",
+      "source_path": "en_news_events/2019/08/3d-printed-salt-template.html"
+    },
+    "temporal": {
+      "publication_date": "2019-08",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "André Studart",
+        "Jörg Löffler",
+        "Kleger",
+        "Löffler",
+        "Löffler JF",
+        "Martina Cihova",
+        "Masania",
+        "Masania K",
+        "Mater",
+        "Nicole Kleger",
+        "Studart AR"
+      ],
+      "people_with_roles": {
+        "André Studart": [
+          "student",
+          "professor"
+        ],
+        "Jörg Löffler": [
+          "professor"
+        ],
+        "Kleger": [
+          "student",
+          "professor"
+        ],
+        "Löffler": [
+          "professor"
+        ],
+        "Mater": [
+          "researcher",
+          "student",
+          "professor"
+        ],
+        "Nicole Kleger": [
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1002/adma.201903783",
+        "first",
+        "second",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Printed Salt",
+        "Kleger N",
+        "En News",
+        "Excellence Scholarship",
+        "Martina Cihova",
+        "Template For",
+        "Studart AR",
+        "Advanced Materials",
+        "Structured Porosity",
+        "Complex Materials",
+        "Nicole Kleger",
+        "ETH Zurich",
+        "Dr Kunal",
+        "Cihova M",
+        "Metal Physics",
+        "Masania K"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Materials"
+      ],
+      "institutions": [
+        "3D",
+        "Advanced Materials",
+        "Cihova M",
+        "Dr Kunal",
+        "ETH",
+        "ETH Zurich",
+        "Kleger N",
+        "Metal Physics and Technology",
+        "an ETH Zurich Excellence Scholarship & Opportunity",
+        "the Complex Materials Group",
+        "the Department of Materials",
+        "the Laboratory of Metal Physics and Technology"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "the Complex Materials Group",
+        "Nicole Kleger",
+        "ETH",
+        "second",
+        "the Laboratory of Metal Physics and Technology",
+        "ETH Zurich",
+        "Advanced Materials",
+        "first",
+        "three",
+        "Jörg Löffler"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Scaffolds made of magnesium",
+          "Scaffolds made of magnesium",
+          "Decisive for clinical success"
+        ],
+        "content_length": 3333
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Martina Cihova",
+        "Studart AR",
+        "3D",
+        "Masania",
+        "Jörg Löffler",
+        "Masania K",
+        "an ETH Zurich Excellence Scholarship & Opportunity",
+        "2019",
+        "Dr Kunal",
+        "Kleger",
+        "Mater",
+        "André Studart",
+        "Löffler JF",
+        "Nicole Kleger",
+        "Löffler",
+        "the Department of Materials",
+        "Kleger N",
+        "Metal Physics and Technology",
+        "Advanced Materials",
+        "the Laboratory of Metal Physics and Technology",
+        "ETH Zurich",
+        "Cihova M",
+        "the Complex Materials Group"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "three",
+        "who",
+        "10.1002/adma.201903783",
+        "chemistry",
+        "biology",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "why",
+        "engineering"
+      ],
+      "graph_relations": [
+        "André Studart_has_role_student",
+        "André Studart_has_role_professor",
+        "Jörg Löffler_has_role_professor",
+        "Kleger_has_role_student",
+        "Kleger_has_role_professor",
+        "Löffler_has_role_professor",
+        "Mater_has_role_researcher",
+        "Mater_has_role_student",
+        "Mater_has_role_professor",
+        "Nicole Kleger_has_role_student",
+        "Nicole Kleger_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

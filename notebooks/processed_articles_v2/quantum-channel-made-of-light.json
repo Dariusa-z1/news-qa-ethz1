@@ -1,0 +1,482 @@
+{
+  "filename": "quantum-channel-made-of-light.md",
+  "original_filename": "quantum-channel-made-of-light.html",
+  "source_path": "en_news_events/2014/12/quantum-channel-made-of-light.html",
+  "date": "2014-12",
+  "title": "Quantum Channel Made Of Light",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Cooling to almost absolute zero",
+      "text": "Two vessels filled with gas and connected by a channel – this is the basic setting for the experiments carried out by the physicists at the ETH Institute for Quantum Electronics. As one vessel contains more gas than the other, particles flow through the channel from one side to the other. \"The question now is how the conductivity changes as we gradually make the channel narrower,\" says physics professor Tilman Esslinger. Initially, the conductivity decreases smoothly. However, at some point an amazing phenomenon appears: the conductivity does not change continuously anymore, but in steps, and the size of the steps is determined by a fundamental entity known as the Planck constant. \"This is an immediate consequence of quantum physics,\" explains Esslinger.\n\nThe phenomenon has been observed before, but only in electronic systems, such as in quantum point contacts in specific semiconductor structures. \"We have now observed for the first time quantisation of conductivity in neutral matter; that is, for particles that are not charged,\" says Esslinger. \"This experiment is certainly something for the quantum-physics textbooks.\"\n\nThis basic-research project, which is supported by the Swiss National Science Foundation (SNF) and the European Union, might be of relevance for the design and construction of the next generation of electronic devices, as it enables the future study of effects that currently cannot be explored with electronic systems."
+    },
+    {
+      "heading": "Cooling to almost absolute zero",
+      "text": "The group led by Tilman Esslinger works with ultracold atoms. In the experiment described by the researchers in the current issue of the journal Nature , they used a gas consisting of lithium atoms at a temperature of merely 35 billionths of a degree above absolute zero. \"Cooling is the main focus of our work in the lab,\" says Dr Jean-Philippe Brantut, SNF Ambizione Fellow at the Institute for Quantum Electronics. \"99 percent of our equipment, which we developed in house, serves that purpose.\" Cooled to such low temperatures, the lithium atoms behave similarly to electrons in a solid-state material, even if – in contrast to electrons – the atoms are not charged.\n\nThe centrepieces of the complex experimental setup are a high-vacuum glass cell and two ultra-high-resolution microscopes. The lithium gas sits in the cell between the microscopes, in a cigar-shaped cloud with a diameter of approximately 300 micrometres. A laser beam divides this cloud into two reservoirs, connected by a narrow two-dimensional channel. A second laser beam passes through a lithographically produced mask and then through a projection system made of a lens and one of the microscopes. In this way, the pattern defined on the mask is reduced to the size of the channel. As a result, a quantum point contact with a width of just one micrometre is created, as can be validated using the other microscope."
+    },
+    {
+      "heading": "Microscopic flow requires a stable system",
+      "text": "The channel structure is sufficiently narrow that the laws of quantum mechanics come into play. This means that for atoms flowing through the channel, the conductivity should change not continuously but in steps, whose size are given by Planck's quantum of action, which is a fundamental constant of nature. This behaviour is precisely what the research group has observed. Ten atoms are in the channel at a time, says Brantut. To make the microscopic flow visible, the channel had to be kept open until 1,000 or so atoms have passed through it. This took some 1.5 seconds, which is a rather long time for an experiment of this type. \"The experiment can only work if the atoms are very stable – that is, extremely cold – and nothing else changes,\" explains the physicist.\n\nThe atoms transverse the experimental setup like small bullets, without being thrown off course by collisions. The physicists therefore refer to this as a ballistic system. The electronics industry is looking to develop in the future ballistic transistors, in which electrical resistance is extremely low. The experiments involving neutral atoms and laser light might contribute to these developments, as they enable scientists to systematically study theoretical models and compare results directly, which often is not possible with electronic systems, due to the current inability to produce suitable samples. \"Until now, we have been carrying out measurements based on predictions from theoretical models,\" says Brantut. \"Now we are venturing into uncharted territory.\"\n\nKrinner S, Stadler D, Husmann D, Brantut J-P, Esslinger T: Observation of quantized conductance in neutral matter. Nature 517,64–67(01 January 2015). doi: 10.1038/nature14049"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Channel Made Of Light",
+        "label": "ORG",
+        "start": 31,
+        "end": 52
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "the ETH Institute",
+        "label": "ORG",
+        "start": 136,
+        "end": 153
+      },
+      {
+        "text": "Quantum Electronics",
+        "label": "ORG",
+        "start": 158,
+        "end": 177
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 182,
+        "end": 185
+      },
+      {
+        "text": "Tilman Esslinger",
+        "label": "PERSON",
+        "start": 407,
+        "end": 423
+      },
+      {
+        "text": "Esslinger",
+        "label": "PERSON",
+        "start": 754,
+        "end": 763
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 940,
+        "end": 945
+      },
+      {
+        "text": "Esslinger",
+        "label": "PERSON",
+        "start": 1050,
+        "end": 1059
+      },
+      {
+        "text": "the Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 1188,
+        "end": 1225
+      },
+      {
+        "text": "the European Union",
+        "label": "ORG",
+        "start": 1236,
+        "end": 1254
+      },
+      {
+        "text": "Tilman Esslinger",
+        "label": "PERSON",
+        "start": 17,
+        "end": 33
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 145,
+        "end": 151
+      },
+      {
+        "text": "35 billionths",
+        "label": "DATE",
+        "start": 225,
+        "end": 238
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 266,
+        "end": 270
+      },
+      {
+        "text": "Jean-Philippe Brantut",
+        "label": "PERSON",
+        "start": 332,
+        "end": 353
+      },
+      {
+        "text": "the Institute for Quantum Electronics",
+        "label": "ORG",
+        "start": 379,
+        "end": 416
+      },
+      {
+        "text": "99 percent",
+        "label": "PERCENT",
+        "start": 419,
+        "end": 429
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 755,
+        "end": 758
+      },
+      {
+        "text": "approximately 300",
+        "label": "CARDINAL",
+        "start": 895,
+        "end": 912
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 963,
+        "end": 966
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1001,
+        "end": 1004
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1028,
+        "end": 1034
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1316,
+        "end": 1319
+      },
+      {
+        "text": "Planck",
+        "label": "ORG",
+        "start": 237,
+        "end": 243
+      },
+      {
+        "text": "Ten",
+        "label": "CARDINAL",
+        "start": 374,
+        "end": 377
+      },
+      {
+        "text": "Brantut",
+        "label": "GPE",
+        "start": 419,
+        "end": 426
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 504,
+        "end": 509
+      },
+      {
+        "text": "some 1.5 seconds",
+        "label": "TIME",
+        "start": 556,
+        "end": 572
+      },
+      {
+        "text": "Brantut",
+        "label": "GPE",
+        "start": 1487,
+        "end": 1494
+      },
+      {
+        "text": "Krinner S",
+        "label": "WORK_OF_ART",
+        "start": 1545,
+        "end": 1554
+      },
+      {
+        "text": "Stadler D",
+        "label": "PERSON",
+        "start": 1556,
+        "end": 1565
+      },
+      {
+        "text": "Husmann D",
+        "label": "PERSON",
+        "start": 1567,
+        "end": 1576
+      },
+      {
+        "text": "January 2015",
+        "label": "DATE",
+        "start": 1680,
+        "end": 1692
+      },
+      {
+        "text": "10.1038/nature14049",
+        "label": "MONEY",
+        "start": 1700,
+        "end": 1719
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Esslinger",
+        "Husmann D",
+        "Jean-Philippe Brantut",
+        "Stadler D",
+        "Tilman Esslinger"
+      ],
+      "ORG": [
+        "Channel Made Of Light",
+        "Planck",
+        "Quantum Electronics",
+        "the ETH Institute",
+        "the European Union",
+        "the Institute for Quantum Electronics",
+        "the Swiss National Science Foundation"
+      ],
+      "LOCATION": [
+        "Brantut"
+      ],
+      "DATE": [
+        "35 billionths",
+        "January 2015",
+        "some 1.5 seconds"
+      ],
+      "MISC": [
+        "1,000",
+        "10.1038/nature14049",
+        "99 percent",
+        "Krinner S",
+        "Nature",
+        "Ten",
+        "Two",
+        "approximately 300",
+        "first",
+        "one",
+        "second",
+        "two",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "two": 3,
+      "one": 2,
+      "Tilman Esslinger": 2,
+      "Esslinger": 2,
+      "Brantut": 2,
+      "Channel Made Of Light": 1,
+      "Two": 1,
+      "the ETH Institute": 1,
+      "Quantum Electronics": 1,
+      "first": 1,
+      "the Swiss National Science Foundation": 1,
+      "the European Union": 1,
+      "Nature": 1,
+      "35 billionths": 1,
+      "zero": 1,
+      "Jean-Philippe Brantut": 1,
+      "the Institute for Quantum Electronics": 1,
+      "99 percent": 1,
+      "approximately 300": 1,
+      "second": 1
+    },
+    "total_entities": 35,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "quantum-channel-made-of-light.md",
+      "title": "En News Events/2014/12/quantum Channel Made Of Light",
+      "language": "en",
+      "source_path": "en_news_events/2014/12/quantum-channel-made-of-light.html"
+    },
+    "temporal": {
+      "publication_date": "2014-12",
+      "mentioned_years": [
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Esslinger",
+        "Husmann D",
+        "Jean-Philippe Brantut",
+        "Stadler D",
+        "Tilman Esslinger"
+      ],
+      "people_with_roles": {
+        "Esslinger": [
+          "professor"
+        ],
+        "Jean-Philippe Brantut": [
+          "Dr"
+        ],
+        "Tilman Esslinger": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "1,000",
+        "10.1038/nature14049",
+        "99 percent",
+        "Krinner S",
+        "Nature",
+        "approximately 300",
+        "first",
+        "second",
+        "zero"
+      ],
+      "grants_funding": [
+        "ERC",
+        "SNF",
+        "EU"
+      ],
+      "projects": [
+        "Channel Made",
+        "En News",
+        "Of Light",
+        "Dr Jean",
+        "Stadler D",
+        "SNF Ambizione",
+        "Quantum Electronics",
+        "Swiss National",
+        "Science Foundation",
+        "European Union",
+        "Philippe Brantut",
+        "Esslinger T",
+        "Brantut J",
+        "Tilman Esslinger",
+        "Husmann D",
+        "Krinner S",
+        "ETH Institute"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Quantum Electronics",
+        "Quantum Electronics"
+      ],
+      "institutions": [
+        "Channel Made Of Light",
+        "Planck",
+        "Quantum Electronics",
+        "the ETH Institute",
+        "the European Union",
+        "the Institute for Quantum Electronics",
+        "the Swiss National Science Foundation"
+      ],
+      "locations": [
+        "Brantut"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "two",
+        "one",
+        "Tilman Esslinger",
+        "Esslinger",
+        "Brantut",
+        "Channel Made Of Light",
+        "Two",
+        "the ETH Institute",
+        "Quantum Electronics",
+        "first"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Cooling to almost absolute zero",
+          "Cooling to almost absolute zero",
+          "Microscopic flow requires a stable system"
+        ],
+        "content_length": 4625
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Channel Made Of Light",
+        "Planck",
+        "2015",
+        "the Swiss National Science Foundation",
+        "Jean-Philippe Brantut",
+        "SNF",
+        "EU",
+        "the European Union",
+        "Quantum Electronics",
+        "the Institute for Quantum Electronics",
+        "Tilman Esslinger",
+        "Husmann D",
+        "Stadler D",
+        "Esslinger",
+        "ERC",
+        "2014",
+        "the ETH Institute"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "Nature",
+        "zero",
+        "who",
+        "10.1038/nature14049",
+        "approximately 300",
+        "what",
+        "second",
+        "how",
+        "Krinner S",
+        "99 percent",
+        "why",
+        "when",
+        "engineering",
+        "1,000"
+      ],
+      "graph_relations": [
+        "Esslinger_has_role_professor",
+        "Jean-Philippe Brantut_has_role_Dr",
+        "Tilman Esslinger_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

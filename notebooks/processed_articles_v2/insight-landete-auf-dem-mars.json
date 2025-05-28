@@ -1,0 +1,566 @@
+{
+  "filename": "insight-landete-auf-dem-mars.md",
+  "original_filename": "insight-landete-auf-dem-mars.html",
+  "source_path": "de_news_events/2018/11/insight-landete-auf-dem-mars.html",
+  "date": "2018-11",
+  "title": "Insight Landete Auf Dem Mars",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "ETH-Elektronik an Bord",
+      "text": "Die Insight-Mission hat einen weiteren Meilenstein erreicht: Nach über sechsmonatiger Flugzeit durchs All trat die Raumsonde am Montagabend in die dünne Mars-Atmosphäre ein, ging, gebremst durch einen grossen Fallschirm, in den Sinkflug über und setzte mithilfe von Brems-Triebwerken sanft auf der Ebene Elysium Planitia auf. Das gesamte Landemanöver dauerte nur gerade sechs Minuten.\n\nGestartet war die Sonde am 5. Mai 2018 in Kalifornien an Bord einer Atlas-V-Trägerrakete. Sie legte insgesamt 485 Millionen Kilometer zurück, mit einer Geschwindigkeit von über 10’000 Kilometern pro Stunde.\n\n«Ich bin sehr erfreut und erleichtert darüber, dass die Landung so reibungslos gelungen ist», sagt Domenico Giardini, Professor für Geophysik und Seismologie an der ETH Zürich, der für die Schweizer Beteiligung an der Insight-Mission verantwortlich ist und die Landung in Kalifornien live mitverfolgte.\n\nGiardini und seine Gruppe sind an der Insight-Mission auf vielfältige Weise beteiligt: Am Labor für Raumfahrtelektronik und -instrumente der ETH wurde die hochempfindliche Elektronik des Seismometers Seis entwickelt, das nun zum Einsatz bereitgemacht wird, um Marsbeben zu messen. Zusammen mit Seismologinnen und Seismologen des Schweizerischen Erdbebendienstes wird die Gruppe einen Marsbeben-Dienst betreiben und die von Seis empfangenen Daten auswerten und charakterisieren. In den nächsten Tagen wird der Insight-Lander als erstes Bilder von seiner Umgebung aufnehmen. Anhand dieser Kamerabilder suchen die Forschenden eine ideale Stelle in der Umgebung des Landers, wo sie in den kommenden Wochen mithilfe des Roboterarms zwei der drei wissenschaftlichen Instrumente, darunter das Seismometer Seis, auf den Boden stellen können. Ab Januar 2019 starten die Wissenschaftler die Marsbeben-Messungen. Zweimal pro Marstag werden die Daten zur Erde übermittelt. Die Mission soll ein ganzes Marsjahr, das heisst bis im November 2020 dauern."
+    },
+    {
+      "heading": "Das Innenleben des Mars",
+      "text": "Das Hauptziel ist es, mithilfe des Seismometers Wellen von Marsbeben zu erfassen, die durch Meteoriteneinschläge ausgelöst wurden. Durch diese seismischen Messungen können die Marsforscher auf den inneren Aufbau und die Zusammensetzung des roten Planeten schliessen – und Rückschlusse auf die Entstehung und Geschichte des Mars sowie der weiteren Gesteinsplaneten in unserem Sonnensystem, inklusive der Erde, ziehen. Domenico Giardini ist nun gespannt, ob das Messinstrument mit der ETH-Elektronik die weite Reise zum Mars unbeschadet überstanden hat. «Ich bin zuversichtlich, dass wir Anfang 2019 erste Signale des Seismometers empfangen werden.»\n\nInsight (Abkürzung für Interior Exploration using Seismic Investigations, Geodesy and Heat Transport) ist ein Mars-Lander, der dazu entwickelt wurde, um Kruste, Mantel und Kern des roten Planeten zu untersuchen. Davon erhoffen sich Wissenschaftler Antworten auf wichtige Fragen über die Entstehung der vier Gesteinsplaneten Merkur, Venus, Erde und Mars in unserem Sonnensystem sowie von Gesteins-Exoplaneten. Der Lander misst zudem mögliche tektonische Aktivitäten und Meteoriteneinschläge auf dem Mars.\n\nAusgestattet ist Insight mit modernsten Instrumenten, um tief unter der Oberfläche nach «Fingerabdrücken» der Vorgänge zu suchen, welche die Gesteinsplaneten geformt haben. Dazu misst er die «Vitalzeichen» des Mars: den Puls (Seismologie), die Temperatur (Wärmefluss) und die Reflexe (Präzisions-Tracking).\n\nDie externe Seite Insight-Mission ist Teil des Discovery-Programms der Nasa.\n\nMehr Informationen unter www.insight.ethz.ch"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 47,
+        "end": 51
+      },
+      {
+        "text": "Insight-Mission",
+        "label": "LOC",
+        "start": 4,
+        "end": 19
+      },
+      {
+        "text": "Raumsonde",
+        "label": "MISC",
+        "start": 115,
+        "end": 124
+      },
+      {
+        "text": "Mars-Atmosphäre",
+        "label": "MISC",
+        "start": 153,
+        "end": 168
+      },
+      {
+        "text": "Brems-Triebwerken",
+        "label": "PER",
+        "start": 266,
+        "end": 283
+      },
+      {
+        "text": "Ebene Elysium Planitia",
+        "label": "LOC",
+        "start": 298,
+        "end": 320
+      },
+      {
+        "text": "Landemanöver",
+        "label": "LOC",
+        "start": 338,
+        "end": 350
+      },
+      {
+        "text": "Kalifornien",
+        "label": "LOC",
+        "start": 427,
+        "end": 438
+      },
+      {
+        "text": "Domenico Giardini",
+        "label": "PER",
+        "start": 691,
+        "end": 708
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 757,
+        "end": 767
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 781,
+        "end": 790
+      },
+      {
+        "text": "Insight-Mission",
+        "label": "LOC",
+        "start": 810,
+        "end": 825
+      },
+      {
+        "text": "Kalifornien",
+        "label": "LOC",
+        "start": 864,
+        "end": 875
+      },
+      {
+        "text": "Giardini",
+        "label": "PER",
+        "start": 895,
+        "end": 903
+      },
+      {
+        "text": "Insight-Mission",
+        "label": "LOC",
+        "start": 933,
+        "end": 948
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1036,
+        "end": 1039
+      },
+      {
+        "text": "Seismometers Seis",
+        "label": "ORG",
+        "start": 1082,
+        "end": 1099
+      },
+      {
+        "text": "Marsbeben",
+        "label": "LOC",
+        "start": 1155,
+        "end": 1164
+      },
+      {
+        "text": "Schweizerischen Erdbebendienstes",
+        "label": "ORG",
+        "start": 1224,
+        "end": 1256
+      },
+      {
+        "text": "Seis",
+        "label": "LOC",
+        "start": 1318,
+        "end": 1322
+      },
+      {
+        "text": "Insight-Lander",
+        "label": "MISC",
+        "start": 1404,
+        "end": 1418
+      },
+      {
+        "text": "Landers",
+        "label": "LOC",
+        "start": 1557,
+        "end": 1564
+      },
+      {
+        "text": "Seis",
+        "label": "LOC",
+        "start": 1693,
+        "end": 1697
+      },
+      {
+        "text": "Marsbeben-Messungen",
+        "label": "LOC",
+        "start": 1776,
+        "end": 1795
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 1838,
+        "end": 1842
+      },
+      {
+        "text": "Seismometers",
+        "label": "LOC",
+        "start": 35,
+        "end": 47
+      },
+      {
+        "text": "Marsforscher",
+        "label": "MISC",
+        "start": 176,
+        "end": 188
+      },
+      {
+        "text": "Rückschlusse",
+        "label": "LOC",
+        "start": 272,
+        "end": 284
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 323,
+        "end": 327
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 403,
+        "end": 407
+      },
+      {
+        "text": "Domenico Giardini",
+        "label": "PER",
+        "start": 417,
+        "end": 434
+      },
+      {
+        "text": "ETH-Elektronik",
+        "label": "ORG",
+        "start": 483,
+        "end": 497
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 518,
+        "end": 522
+      },
+      {
+        "text": "Seismometers",
+        "label": "MISC",
+        "start": 616,
+        "end": 628
+      },
+      {
+        "text": "Investigations",
+        "label": "PER",
+        "start": 706,
+        "end": 720
+      },
+      {
+        "text": "Geodesy and Heat",
+        "label": "ORG",
+        "start": 722,
+        "end": 738
+      },
+      {
+        "text": "Merkur",
+        "label": "LOC",
+        "start": 972,
+        "end": 978
+      },
+      {
+        "text": "Venus",
+        "label": "LOC",
+        "start": 980,
+        "end": 985
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 987,
+        "end": 991
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 996,
+        "end": 1000
+      },
+      {
+        "text": "Gesteins-Exoplaneten",
+        "label": "MISC",
+        "start": 1035,
+        "end": 1055
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1146,
+        "end": 1150
+      },
+      {
+        "text": "Insight",
+        "label": "LOC",
+        "start": 1169,
+        "end": 1176
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1362,
+        "end": 1366
+      },
+      {
+        "text": "Insight-Mission",
+        "label": "LOC",
+        "start": 1477,
+        "end": 1492
+      },
+      {
+        "text": "Discovery-Programms der Nasa",
+        "label": "ORG",
+        "start": 1506,
+        "end": 1534
+      },
+      {
+        "text": "www.insight.ethz.ch",
+        "label": "PER",
+        "start": 1561,
+        "end": 1580
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Brems-Triebwerken",
+        "De News",
+        "Domenico Giardini",
+        "Giardini",
+        "Investigations",
+        "www.insight.ethz.ch"
+      ],
+      "ORG": [
+        "Discovery-Programms der Nasa",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Elektronik",
+        "Geodesy and Heat",
+        "Schweizerischen Erdbebendienstes",
+        "Seismometers Seis"
+      ],
+      "LOCATION": [
+        "Ebene Elysium Planitia",
+        "Erde",
+        "Insight",
+        "Insight-Mission",
+        "Kalifornien",
+        "Landemanöver",
+        "Landers",
+        "Mars",
+        "Marsbeben",
+        "Marsbeben-Messungen",
+        "Merkur",
+        "Rückschlusse",
+        "Seis",
+        "Seismometers",
+        "Venus"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Gesteins-Exoplaneten",
+        "Insight-Lander",
+        "Mars-Atmosphäre",
+        "Marsforscher",
+        "Raumsonde",
+        "Schweizer",
+        "Seismometers"
+      ]
+    },
+    "entity_counts": {
+      "Mars": 6,
+      "Insight-Mission": 4,
+      "Erde": 3,
+      "Kalifornien": 2,
+      "Domenico Giardini": 2,
+      "Seis": 2,
+      "Seismometers": 2,
+      "De News": 1,
+      "Raumsonde": 1,
+      "Mars-Atmosphäre": 1,
+      "Brems-Triebwerken": 1,
+      "Ebene Elysium Planitia": 1,
+      "Landemanöver": 1,
+      "ETH Zürich": 1,
+      "Schweizer": 1,
+      "Giardini": 1,
+      "ETH": 1,
+      "Seismometers Seis": 1,
+      "Marsbeben": 1,
+      "Schweizerischen Erdbebendienstes": 1
+    },
+    "total_entities": 48,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "insight-landete-auf-dem-mars.md",
+      "title": "De News Events/2018/11/insight Landete auf dem Mars",
+      "language": "de",
+      "source_path": "de_news_events/2018/11/insight-landete-auf-dem-mars.html"
+    },
+    "temporal": {
+      "publication_date": "2018-11",
+      "mentioned_years": [
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Brems-Triebwerken",
+        "De News",
+        "Domenico Giardini",
+        "Giardini",
+        "Investigations",
+        "www.insight.ethz.ch"
+      ],
+      "people_with_roles": {
+        "Domenico Giardini": [
+          "professor"
+        ],
+        "Giardini": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Gesteins-Exoplaneten",
+        "Insight-Lander",
+        "Mars-Atmosphäre",
+        "Marsforscher",
+        "Raumsonde",
+        "Schweizer",
+        "Seismometers"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Ebene Elysium",
+        "Der Lander",
+        "Marsbeben-Dienst",
+        "Gesteinsplaneten Merkur",
+        "Seismometers Seis",
+        "Interior Exploration",
+        "ETH-Elektronik",
+        "Ab Januar",
+        "Schweizer Beteiligung",
+        "Gesteins-Exoplaneten",
+        "Seite Insight",
+        "Das Hauptziel",
+        "Mars Die",
+        "Discovery-Programms",
+        "Insight-Mission",
+        "Brems-Triebwerken",
+        "Domenico Giardini",
+        "Seismometers Wellen",
+        "Mehr Informationen",
+        "Heat Transport",
+        "Seismic Investigations",
+        "Seismometer Seis",
+        "Am Labor",
+        "Atlas-V",
+        "Wissenschaftler Antworten",
+        "Millionen Kilometer",
+        "Marsbeben-Messungen",
+        "Insight-Lander",
+        "De News",
+        "Schweizerischen Erdbebendienstes",
+        "Die Mission",
+        "Mars-Lander"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Discovery-Programms der Nasa",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Elektronik",
+        "Geodesy and Heat",
+        "Schweizerischen Erdbebendienstes",
+        "Seismometers Seis"
+      ],
+      "locations": [
+        "Ebene Elysium Planitia",
+        "Erde",
+        "Insight",
+        "Insight-Mission",
+        "Kalifornien",
+        "Landemanöver",
+        "Landers",
+        "Mars",
+        "Marsbeben",
+        "Marsbeben-Messungen",
+        "Merkur",
+        "Rückschlusse",
+        "Seis",
+        "Seismometers",
+        "Venus"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Mars",
+        "Insight-Mission",
+        "Erde",
+        "Kalifornien",
+        "Domenico Giardini",
+        "Seis",
+        "Seismometers",
+        "De News",
+        "Raumsonde",
+        "Mars-Atmosphäre"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "ETH-Elektronik an Bord",
+          "Das Innenleben des Mars"
+        ],
+        "content_length": 3573
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "Discovery-Programms der Nasa",
+        "Investigations",
+        "2019",
+        "EU",
+        "2020",
+        "Giardini",
+        "Brems-Triebwerken",
+        "www.insight.ethz.ch",
+        "De News",
+        "Domenico Giardini",
+        "ETH Zürich",
+        "Geodesy and Heat",
+        "Schweizerischen Erdbebendienstes",
+        "Seismometers Seis",
+        "ETH-Elektronik"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Marsforscher",
+        "Schweizer",
+        "who",
+        "Insight-Lander",
+        "Seismometers",
+        "Mars-Atmosphäre",
+        "Raumsonde",
+        "Gesteins-Exoplaneten",
+        "when"
+      ],
+      "graph_relations": [
+        "Domenico Giardini_has_role_professor",
+        "Giardini_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+# thomas-meierhans-gewinnt-den-alea-award.html
+
+**Source:** de_internal/2023/03/thomas-meierhans-gewinnt-den-alea-award.html
+
+## Videos des ALEA Awards
+
+Der Gewinner des ALEA Awards 2023 heisst Thomas Meierhans. Der Chef der Metallwerkstatt im Departement Bau, Umwelt und Geomatik leitet den Betrieb mit rund sieben technischen Mitarbeitenden und ist zuständig für die Abwicklung von Kundenaufträgen aus der Forschung. Julia Dannath, Vizepräsidentin für Personalentwicklung und Leadership, überreichte den Award an den strahlenden Gewinner.
+
+Die zwei weiteren Finalist:innen, Lavinia Heisenberg aus dem Departement Physik und Mark Tibbitt vom Departement Maschinenbau und Verfahrenstechnik, wurden vom AVETH-Präsidenten Charles Ledoux mit einer Urkunde geehrt: «Wir im Mittelbau wissen, was für einen riesigen Unterschied ein vorbildlicher Führungsstil im täglichen Leben der Teammitglieder machen kann. Dazu gehört, dass die Führungskräfte ihre Fürsorgepflicht ernst nehmen, Stärken fördern und gemeinsam mit dem Team Wege für einen guten Umgang mit allen Ressourcen suchen.»
+
+Als Kriterien für die Selektion des ALEA Awards dienten die neuen Sozial- und Leadership-Kompetenzen , welche für alle ETH-Mitarbeitenden erarbeitet wurden. «Es erfüllt mich mit Stolz für unsere Hochschule, dass so viele unserer Führungspersönlichkeiten, ob in technisch-administrativen oder wissenschaftlichen Positionen, über ein so hohes Mass an Sozial- und Leadershipkompetenz verfügen», so Julia Dannath. «Diese Personen geben uns wertvolle Vorbilder und tragen wesentlich zu einer gesunden Führungskultur an der ETH bei, in der sich alle entfalten können.»
+
+Für die Auszeichnung hatten ETH-​Angehörige im Vorfeld 48 Führungspersonen nominiert, darunter neu nicht nur Personen mit offizieller Personalverantwortung, sondern auch solche mit einer fachlichen Führungsrolle. Zur Jury für die Auswahl des Awards gehören Mitglieder von AVETH, Vertreterinnen und Vertreter der Abteilung Diversity und Kooperation sowie der ETH-Ombudsstelle, der Abteilung HR-​Beratung und der Personalkommission.
+
+In einem Kurzfilm erzählten Mitarbeitende aus Meierhans’ Team von den Qualitäten ihres Vorgesetzten. So sei es ihm beispielsweise sehr wichtig, dass alle Mitarbeiter:innen ihr Potenzial voll ausschöpfen können und ihre Arbeit mit Freude und Engagement ausführen. Dabei lege er grossen Wert darauf, dass die Mitarbeitenden ihre Stärken erkennen und diese optimal einsetzten.
+
+Im Anschluss an die offizielle Vergabe des Preises konnten sich die Gäste in World Cafés zu den Leadership-Kompetenzen – Verantwortungsbewusst handeln, Wohlbefinden fördern, Innovation antreiben, Inklusion leben, Brücken bauen und Menschen befähigen – austauschen.
+
+Sie konnten bei der Vergabe des ALEA Awards nicht persönlich dabei sein? In den folgenden Videos erhalten Sie Einblicke in die Veranstaltung.
+
+Gesamtaufzeichnung des ALEA Awards
+
+## Immer aktuell informiert
+
+Video Thomas Meierhans (Gewinner)
+
+Video Lavinia Heisenberg (Finalistin)
+
+Video Mark Tibbitt (Finalist)
+
+Video World Café – Sozial- und Leadershipkompetenzen
+

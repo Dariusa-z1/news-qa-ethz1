@@ -1,0 +1,159 @@
+{
+  "filename": "a-dynamic-portrait-in-100-seconds.md",
+  "original_filename": "a-dynamic-portrait-in-100-seconds.html",
+  "source_path": "en_internal/2017/06/a-dynamic-portrait-in-100-seconds.html",
+  "date": "2017-06",
+  "title": "A Dynamic Portrait In 100 Seconds",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The aim of the film is to show a wide audience just what constitutes ETH Zurich, who we are, and where our strengths lie. And to avoid two minutes of patting ourselves on the back, it comes with a good measure of gently self-deprecating humour. After all, science, research and teaching should be fun!\n\nOf course, we also want the film to make the rounds on social media and spread far beyond Switzerland. So please – post it, share it and like it!\n\nETH Zurich Corporate Communications are happy to help with any enquiries about the film or its use."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "100 Seconds",
+        "label": "TIME",
+        "start": 42,
+        "end": 53
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 69,
+        "end": 79
+      },
+      {
+        "text": "two minutes",
+        "label": "TIME",
+        "start": 135,
+        "end": 146
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 392,
+        "end": 403
+      },
+      {
+        "text": "ETH Zurich Corporate Communications",
+        "label": "ORG",
+        "start": 448,
+        "end": 483
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH Zurich Corporate Communications"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [
+        "100 Seconds",
+        "two minutes"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "100 Seconds": 1,
+      "ETH Zurich": 1,
+      "two minutes": 1,
+      "Switzerland": 1,
+      "ETH Zurich Corporate Communications": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-dynamic-portrait-in-100-seconds.md",
+      "title": "En Internal/2017/06/a Dynamic Portrait in 100 Seconds",
+      "language": "en",
+      "source_path": "en_internal/2017/06/a-dynamic-portrait-in-100-seconds.html"
+    },
+    "temporal": {
+      "publication_date": "2017-06",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Corporate Communications",
+        "Dynamic Portrait",
+        "Seconds The",
+        "En Internal",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich Corporate Communications"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "100 Seconds",
+        "ETH Zurich",
+        "two minutes",
+        "Switzerland",
+        "ETH Zurich Corporate Communications"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 603
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "ETH Zurich Corporate Communications",
+        "2017"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "how",
+        "what",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

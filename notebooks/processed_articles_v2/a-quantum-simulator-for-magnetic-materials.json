@@ -1,0 +1,390 @@
+{
+  "filename": "a-quantum-simulator-for-magnetic-materials.md",
+  "original_filename": "a-quantum-simulator-for-magnetic-materials.html",
+  "source_path": "en_news_events/2013/05/a-quantum-simulator-for-magnetic-materials.html",
+  "date": "2013-05",
+  "title": "A Quantum Simulator For Magnetic Materials",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The concert of tiny magnets",
+      "text": "Physicists understand perfectly well why a fridge magnet sticks to certain metallic surfaces. But there are more exotic forms of magnetism whose properties remain unclear, despite decades of intense research. An important step towards filling these gaps comes now from Tilman Esslinger and his group at the Department of Physics. The team has developed a new kind of device that uses laser beams and atoms to emulate magnetic materials. Their approach promises fundamental insights beyond what can be obtained with current theoretical and computational methods. Moreover, the work might guide researchers towards finding new materials with interesting properties for future technologies and applications."
+    },
+    {
+      "heading": "The concert of tiny magnets",
+      "text": "Magnetic materials owe their properties to the intricate interplay between a myr-iad of tiny magnets. These elemental magnets come typically in the form of indi-vidual electrons, each of which is weakly magnetic. Observable magnetism arises when these magnetic building blocks are arranged in specific patterns, in which they are held by quantum-mechanical interactions. A typical fridge magnet, for example, is composed of several ferromagnetic sections; in each seg-ment all elemental magnets are aligned in parallel, giving rise to the known magnetic behaviour.\n\nIn other magnetic materials the situation is much more subtle, and the elemental magnets are arranged into more complicated patterns. Examples include so-called quantum spin liquids, where the elemental magnets interact in a way that prevents them from ever reaching an ordered state such as that found in a ferromagnet. Physicists and material scientists are interested in such unusual magnets as they are landmark problems in many-body quantum physics, but also because these materials possess properties that may be the basis of robust and compact magnetic data-storage devices or of novel forms of information processors."
+    },
+    {
+      "heading": "Simulating quantum systems with quantum systems",
+      "text": "Unlike in the case of fridge magnets, predicting the behaviours of quantum spin liquids and other exotic magnetic states is a notoriously hard problem. The mutual interactions between hundreds of elemental magnets have to be taken into account, and this poses a significant challenge in calculations. The complexity of these calculations explains why for many magnetic materials — and even for idealised model systems — a full understanding is still lacking, impeding progress in utilising and further developing these materials.\n\nAs conventional methods involving paper and pencil or computers often fail for these complicated systems, Esslinger and his co-workers pursue a very different approach to understanding magnetic materials. They create artificial materials that replicate the material of interest. That is, instead of studying the actual material, the scientists perform measurements on its artificial counterpart, which is easier to handle and where important parameters (the strength of interaction between the elemental magnets, for example) can be changed more easily.\n\nThe physicists build their artificial materials by making atoms to act like electrons and loading them into a \"crystal\" created by interfering laser beams. Both the laser beams and the trapped atoms can be controlled with exquisite accuracy. \"In this way we can simulate the quantum-mechanical behaviour of different magnetic materials,\" explains Esslinger, and adds: \"One of our next goals is to address unsolved questions in the context of spin liquids.\""
+    },
+    {
+      "heading": "From model to technology",
+      "text": "Exploring the properties of a quantum system with another one that can be better controlled is known as 'quantum simulation'. In the past few years, there has been intense research into developing a quantum simulator for magnetic materials  this specific application is considered to be one of the main goals in the field. Esslinger and his team have now for the first time managed to construct such a device that directly reproduces the behaviour of a large number of electrons in a magnetic material. \"The key to our success has been a method that allows us to reach the extremely low temperatures required to explore quantum magnetism,\" explains Daniel Greif, a PhD student in the group of Esslinger and first author of the study. With their method, the physicists were able to create a magnetic system containing 5'000 atoms. Teaming up with the group of Matthias Troyer, a professor at the Institute for Theoretical Physics, they are currently investigating whether the behaviour of this state can be reproduced on a conventional computer.\n\nThe flexibility of the quantum-simulation approach opens up an avenue to studying a wide range of possible scenarios of how electrons interact with each other. The results of these simulations can then be compared with the behaviour of natural magnetic materials, in order to gain insight into the mechanisms that defines their properties. But there is also the prospect of discovering magnetic behaviours that has not been seen yet in natural materials. This, in turn, could spur novel applications, says Esslinger: \"Future technologies are often driven by the development of new materials like high-temperature superconductors, gra-phene or new magnetic materials.\""
+    },
+    {
+      "heading": "Publication",
+      "text": "Greif D, Uehlinger T, Jotzu G, Tarruell L, Esslinger T: Short-range quantum magnetism of ultracold fermions in an optical lattice. Science, 2013\n\nETH Zürich Prof. Tilman Esslinger Institut für Quantenelektronik Tel. +41 44 633 23 40 ETH Zürich Media Relations Tel. +41 44 632 41 41"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "decades",
+        "label": "DATE",
+        "start": 180,
+        "end": 187
+      },
+      {
+        "text": "Tilman Esslinger",
+        "label": "PERSON",
+        "start": 269,
+        "end": 285
+      },
+      {
+        "text": "the Department of Physics",
+        "label": "ORG",
+        "start": 303,
+        "end": 328
+      },
+      {
+        "text": "hundreds",
+        "label": "CARDINAL",
+        "start": 184,
+        "end": 192
+      },
+      {
+        "text": "Esslinger",
+        "label": "PERSON",
+        "start": 636,
+        "end": 645
+      },
+      {
+        "text": "Esslinger",
+        "label": "PERSON",
+        "start": 1431,
+        "end": 1440
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1453,
+        "end": 1456
+      },
+      {
+        "text": "the past few years",
+        "label": "DATE",
+        "start": 129,
+        "end": 147
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 364,
+        "end": 369
+      },
+      {
+        "text": "Daniel Greif",
+        "label": "PERSON",
+        "start": 650,
+        "end": 662
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 666,
+        "end": 669
+      },
+      {
+        "text": "Esslinger",
+        "label": "ORG",
+        "start": 694,
+        "end": 703
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 708,
+        "end": 713
+      },
+      {
+        "text": "5'000",
+        "label": "CARDINAL",
+        "start": 818,
+        "end": 823
+      },
+      {
+        "text": "Matthias Troyer",
+        "label": "ORG",
+        "start": 860,
+        "end": 875
+      },
+      {
+        "text": "the Institute for Theoretical Physics",
+        "label": "ORG",
+        "start": 892,
+        "end": 929
+      },
+      {
+        "text": "Esslinger",
+        "label": "PERSON",
+        "start": 1552,
+        "end": 1561
+      },
+      {
+        "text": "Jotzu G",
+        "label": "PERSON",
+        "start": 22,
+        "end": 29
+      },
+      {
+        "text": "Tarruell L",
+        "label": "ORG",
+        "start": 31,
+        "end": 41
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 145,
+        "end": 155
+      },
+      {
+        "text": "Tilman Esslinger Institut",
+        "label": "PERSON",
+        "start": 162,
+        "end": 187
+      },
+      {
+        "text": "für Quantenelektronik Tel",
+        "label": "PERSON",
+        "start": 188,
+        "end": 213
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 232,
+        "end": 235
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Daniel Greif",
+        "Esslinger",
+        "Jotzu G",
+        "Tilman Esslinger",
+        "Tilman Esslinger Institut",
+        "für Quantenelektronik Tel"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "Esslinger",
+        "Matthias Troyer",
+        "Tarruell L",
+        "the Department of Physics",
+        "the Institute for Theoretical Physics"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "decades",
+        "the past few years"
+      ],
+      "MISC": [
+        "5'000",
+        "One",
+        "PhD",
+        "first",
+        "hundreds"
+      ]
+    },
+    "entity_counts": {
+      "Esslinger": 4,
+      "first": 2,
+      "decades": 1,
+      "Tilman Esslinger": 1,
+      "the Department of Physics": 1,
+      "hundreds": 1,
+      "One": 1,
+      "the past few years": 1,
+      "Daniel Greif": 1,
+      "PhD": 1,
+      "5'000": 1,
+      "Matthias Troyer": 1,
+      "the Institute for Theoretical Physics": 1,
+      "Jotzu G": 1,
+      "Tarruell L": 1,
+      "ETH Zürich": 1,
+      "Tilman Esslinger Institut": 1,
+      "für Quantenelektronik Tel": 1,
+      "ETH": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-quantum-simulator-for-magnetic-materials.md",
+      "title": "En News Events/2013/05/a Quantum Simulator For Magnetic Materials",
+      "language": "en",
+      "source_path": "en_news_events/2013/05/a-quantum-simulator-for-magnetic-materials.html"
+    },
+    "temporal": {
+      "publication_date": "2013-05",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Daniel Greif",
+        "Esslinger",
+        "Jotzu G",
+        "Tilman Esslinger",
+        "Tilman Esslinger Institut",
+        "für Quantenelektronik Tel"
+      ],
+      "people_with_roles": {
+        "Daniel Greif": [
+          "student"
+        ],
+        "Esslinger": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics",
+        "mathematics"
+      ],
+      "research_topics": [
+        "5'000",
+        "first",
+        "hundreds"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Uehlinger T",
+        "En News",
+        "Materials Physicists",
+        "Jotzu G",
+        "Quantum Simulator",
+        "Greif D",
+        "Esslinger T",
+        "Quantenelektronik Tel",
+        "Tarruell L",
+        "For Magnetic",
+        "Tilman Esslinger",
+        "Matthias Troyer",
+        "Theoretical Physics",
+        "Daniel Greif",
+        "Media Relations"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Physics",
+        "Theoretical Physics"
+      ],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "Esslinger",
+        "Matthias Troyer",
+        "Tarruell L",
+        "the Department of Physics",
+        "the Institute for Theoretical Physics"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Esslinger",
+        "first",
+        "decades",
+        "Tilman Esslinger",
+        "the Department of Physics",
+        "hundreds",
+        "One",
+        "the past few years",
+        "Daniel Greif",
+        "PhD"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "The concert of tiny magnets",
+          "The concert of tiny magnets",
+          "Simulating quantum systems with quantum systems",
+          "From model to technology",
+          "Publication"
+        ],
+        "content_length": 5502
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the Department of Physics",
+        "2013",
+        "Jotzu G",
+        "the Institute for Theoretical Physics",
+        "Matthias Troyer",
+        "ETH Zürich",
+        "ERC",
+        "Tilman Esslinger Institut",
+        "Tarruell L",
+        "Tilman Esslinger",
+        "für Quantenelektronik Tel",
+        "Esslinger",
+        "Daniel Greif"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "first",
+        "who",
+        "where",
+        "hundreds",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering",
+        "5'000"
+      ],
+      "graph_relations": [
+        "Daniel Greif_has_role_student",
+        "Esslinger_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

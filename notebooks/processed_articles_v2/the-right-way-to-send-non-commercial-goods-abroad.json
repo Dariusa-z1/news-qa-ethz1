@@ -1,0 +1,214 @@
+{
+  "filename": "the-right-way-to-send-non-commercial-goods-abroad.md",
+  "original_filename": "the-right-way-to-send-non-commercial-goods-abroad.html",
+  "source_path": "en_internal/2022/08/the-right-way-to-send-non-commercial-goods-abroad.html",
+  "date": "2022-08",
+  "title": "The Right Way To Send Non Commercial Goods Abroad",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Parcels and maxi letters",
+      "text": "In January 2022, the EU abolished the VAT exemption limit. This means that recipients of consignments sent abroad from Switzerland now have to pay the tax. So how can you ensure that non-commercial goods arrive at their destination at the lowest possible cost?"
+    },
+    {
+      "heading": "Parcels and maxi letters",
+      "text": "Where consignments require a dispatch note (parcel) or customs declaration CN22 (maxibrief), give a plausible value for the goods under description of contents “Value for customs purposes only – Samples free of charge”. A zero value isn’t accepted here! Create a pro forma invoice for the goods to be shipped using our template ."
+    },
+    {
+      "heading": "Urgent consignments",
+      "text": "For urgent consignments, you can opt to pay the import tax on behalf of the recipient. But this can only be done if you have a Post login. Select “DDP” (Delivered Duty Paid) with or without VAT before completing the order. Be aware that some countries charge an additional service fee, which is added to the import VAT separately. Check the country’s custom specifications online before dispatching your goods. The Campus Info team will be happy to advise you personally and assist with filling out documents."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "January 2022",
+        "label": "DATE",
+        "start": 3,
+        "end": 15
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 21,
+        "end": 23
+      },
+      {
+        "text": "VAT",
+        "label": "ORG",
+        "start": 38,
+        "end": 41
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 119,
+        "end": 130
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 222,
+        "end": 226
+      },
+      {
+        "text": "Post",
+        "label": "ORG",
+        "start": 127,
+        "end": 131
+      },
+      {
+        "text": "VAT",
+        "label": "ORG",
+        "start": 190,
+        "end": 193
+      },
+      {
+        "text": "VAT",
+        "label": "ORG",
+        "start": 315,
+        "end": 318
+      },
+      {
+        "text": "The Campus Info",
+        "label": "PERSON",
+        "start": 411,
+        "end": 426
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "The Campus Info"
+      ],
+      "ORG": [
+        "EU",
+        "Post",
+        "VAT"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [
+        "January 2022"
+      ],
+      "MISC": [
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "VAT": 3,
+      "January 2022": 1,
+      "EU": 1,
+      "Switzerland": 1,
+      "zero": 1,
+      "Post": 1,
+      "The Campus Info": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-right-way-to-send-non-commercial-goods-abroad.md",
+      "title": "En Internal/2022/08/the Right Way To Send Non Commercial Goods Abroad",
+      "language": "en",
+      "source_path": "en_internal/2022/08/the-right-way-to-send-non-commercial-goods-abroad.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "The Campus Info"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "zero"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Non Commercial",
+        "Delivered Duty",
+        "In January",
+        "To Send",
+        "Right Way",
+        "En Internal",
+        "The Campus",
+        "Goods Abroad"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "EU",
+        "Post",
+        "VAT"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "VAT",
+        "January 2022",
+        "EU",
+        "Switzerland",
+        "zero",
+        "Post",
+        "The Campus Info"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Parcels and maxi letters",
+          "Parcels and maxi letters",
+          "Urgent consignments"
+        ],
+        "content_length": 1170
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "VAT",
+        "EU",
+        "2022",
+        "Post",
+        "The Campus Info",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "zero",
+        "who",
+        "how",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

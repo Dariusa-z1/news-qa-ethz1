@@ -1,0 +1,614 @@
+{
+  "filename": "interview-how-chatgpt-is-changing-teaching-and-assessments.md",
+  "original_filename": "interview-how-chatgpt-is-changing-teaching-and-assessments.html",
+  "source_path": "en_internal/2023/04/interview-how-chatgpt-is-changing-teaching-and-assessments.html",
+  "date": "2023-04",
+  "title": "Interview How Chatgpt Is Changing Teaching And Assessments",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "About the interviewees",
+      "text": "Gerd Kortemeyer, Manuel Sudau: ChatGPT is raising a lot of questions for teaching staff right now. What are they? Gerd Kortemeyer: Teaching staff are suddenly being confronted with machine-generated texts they can’t necessarily distinguish from human-written texts. Simple writing exercises like short essays and summaries are basically obsolete now. We’re being confronted with questions like: “How do you block ChatGPT?” and “How can I recognise AI-generated text?”. I completely understand these concerns. The discussion reminds me of when calculators came into use. They also initially prompted concern and defensiveness. Then people started asking what this new tool would mean for maths instruction. Like with calculators, keeping AI out of teaching entirely is not an option.\n\nWhat’s the origin of the scepticism about ChatGPT? Manuel Sudau: The defensive stance is likely due to the fact that many people haven’t yet had the time to engage with these tools themselves. As an educational developer, I hope we will confront the issue with curiosity and explore the possibilities and opportunities arising from it. We could be self-critical and ask ourselves whether, based on our own experiences, all our forms of assessment still make sense and whether we’re even really testing what we want to assess.\n\nWhat is new about ChatGPT? Kortemeyer: The topic isn’t new. ETH itself helped develop the technologies behind it. What’s new, however, is that an application like this is publicly accessible. Also new is the volume of data with which the model was trained. AI research projects rarely approach the volumes used in a commercial product like this.\n\nWhat can ChatGPT do and what are its weaknesses? Kortemeyer: GPT-3, the predecessor of the current GPT-4, demonstrably had difficulties with basic symbolic and numerical arithmetic operations. The model couldn’t do reliable calculations. GPT-4 is somewhat better, but still hasn’t reached the level of an average student at ETH. But note that despite these weaknesses, I was able to show in an experiment that GPT-3 would just about manage to pass a typical physics course at a US university, including coursework, tests and examinations, with about half the possible points.\n\nSudau: What we’re talking about here are the strengths and weaknesses of a status quo, of an already outdated version of ChatGPT. But what does the future hold? You can’t stop progress. We should consider how we’re going to handle language models and other AI-based tools that are much, much better. AI applications will soon be ubiquitous in almost all areas of our lives.\n\nMost questions seem to revolve around assessments at the moment. What’s your advice for teaching staff? Kortemeyer: AI is a tool. Just like, for example, spell checkers, calculators, literature search engines and statistics programs are tools. As such, it could be integrated into assessments. One approach could be to have students evaluate AI answers or outputs. This is a skill that will be in greater demand in the future."
+    },
+    {
+      "heading": "Always up to date",
+      "text": "So assessments would more often be open book, or open AI? Kortemeyer: Of course not only open book. There will always be basic tasks students have to be able to complete without external help, whether human or AI. One solution could be two-part or multi-part assessments in which students first solve tasks without access to AI and other tools and then additional ones with access to these tools. One part covering the indispensable basics, the others realistic work methods. We already offered technical solutions and support for such multi-stage online assessments at ETH before ChatGPT took off.\n\nHow does ChatGPT benefit teaching? Kortemeyer: That remains to be seen. But if AI relieves students of some kinds of work in exercises and assessments, that may open up space for new things as well. When students still had to solve their assignments without calculators, they needed a lot of time for pure calculation. Afterwards, this time was suddenly freed up and could be used for actually solving the problems. We can likewise ask ourselves today whether integrating AI allows us to make some things more challenging – and also what the human skills are that we actually want to assess.\n\nCan you give an example? Kortemeyer: Creativity. Language models may sometimes give the appearance of creativity, but they are not creative. They have no vision. Maybe other models will have this capacity some day, but language models don’t. But ETH engineers must be creative. They also need the ability to think critically. Students should be asking themselves whether a result is really true. Does it make sense?\n\nBesides in assessments, where else does ChatGPT have consequences for ETH teaching staff? Sudau: In curriculum development, for example. We have to think about what we want to teach in the future. What are the basics and what interdisciplinary skills do ETH graduates need? Ultimately, they will have to use and work with these tools in their future professional lives, as well as be able to adapt to the unknown challenges of the job market. We have to teach the necessary skills for this and practise them with our students.\n\nKortemeyer: And that’s already happening. For example, we’re already discussing with lecturers in the Department of Computer Science what consequences ChatGPT could have for courses on the Python programming language. What do students need to learn in order to test AI-generated Python code? These are exactly the things we should be thinking about now to be prepared to integrate the tool into teaching later.\n\nDo we actually know how students are using ChatGPT right now? Sudau: We know relatively little at the moment. A small, unrepresentative survey of students in the D-BAUG and D-USYS by my colleague Christian Sailer and myself showed that Bachelor’s students are the least likely and doctoral students the most likely to regard ChatGPT as useful. In other words, the further along in their studies or the more experienced they are, the more useful they consider it. That tells me we absolutely need to empower students to use tools like this – and to use them in a critical and considered way.\n\nWhat other tools besides ChatGPT should be on our radars? Kortemeyer: The next thing for us will probably be Google’s language model Bard. Nvidia is also working on new developments. Microsoft’s “Copilot” will probably become a hot topic very soon, too. It will be integrated into all Office tools – AI in Word and PowerPoint. AI is unlikely to disappear. We can’t stick our heads in the sand when it comes to our teaching and assessments.\n\nGerd Kortemeyer heads the administrative department Educational Development and Technology (LET) at ETH Zurich.\n\nManuel Sudau works at LET on curriculum and faculty development and is an educational developer in the Department of Environmental Systems Sciences (D-USYS)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Gerd Kortemeyer",
+        "label": "PERSON",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Manuel Sudau",
+        "label": "PERSON",
+        "start": 17,
+        "end": 29
+      },
+      {
+        "text": "Gerd Kortemeyer",
+        "label": "PERSON",
+        "start": 114,
+        "end": 129
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 737,
+        "end": 739
+      },
+      {
+        "text": "Manuel Sudau",
+        "label": "PERSON",
+        "start": 834,
+        "end": 846
+      },
+      {
+        "text": "Kortemeyer",
+        "label": "PERSON",
+        "start": 1336,
+        "end": 1346
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1369,
+        "end": 1372
+      },
+      {
+        "text": "Kortemeyer",
+        "label": "PERSON",
+        "start": 1704,
+        "end": 1714
+      },
+      {
+        "text": "GPT-4",
+        "label": "PERSON",
+        "start": 1754,
+        "end": 1759
+      },
+      {
+        "text": "GPT-4",
+        "label": "PERSON",
+        "start": 1893,
+        "end": 1898
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1979,
+        "end": 1982
+      },
+      {
+        "text": "GPT-3",
+        "label": "ORG",
+        "start": 2065,
+        "end": 2070
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 2133,
+        "end": 2135
+      },
+      {
+        "text": "about half",
+        "label": "CARDINAL",
+        "start": 2199,
+        "end": 2209
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 2488,
+        "end": 2490
+      },
+      {
+        "text": "Kortemeyer",
+        "label": "PERSON",
+        "start": 2709,
+        "end": 2719
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 2899,
+        "end": 2902
+      },
+      {
+        "text": "AI",
+        "label": "ORG",
+        "start": 2947,
+        "end": 2949
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 54,
+        "end": 56
+      },
+      {
+        "text": "Kortemeyer",
+        "label": "PERSON",
+        "start": 58,
+        "end": 68
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 210,
+        "end": 212
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 214,
+        "end": 217
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 236,
+        "end": 239
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 289,
+        "end": 294
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 325,
+        "end": 327
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 397,
+        "end": 400
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 570,
+        "end": 573
+      },
+      {
+        "text": "Kortemeyer",
+        "label": "PERSON",
+        "start": 634,
+        "end": 644
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 678,
+        "end": 680
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1045,
+        "end": 1050
+      },
+      {
+        "text": "AI",
+        "label": "ORG",
+        "start": 1071,
+        "end": 1073
+      },
+      {
+        "text": "Kortemeyer",
+        "label": "PERSON",
+        "start": 1216,
+        "end": 1226
+      },
+      {
+        "text": "some day",
+        "label": "DATE",
+        "start": 1396,
+        "end": 1404
+      },
+      {
+        "text": "n’t",
+        "label": "GPE",
+        "start": 1428,
+        "end": 1431
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1437,
+        "end": 1440
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1677,
+        "end": 1680
+      },
+      {
+        "text": "Sudau",
+        "label": "PERSON",
+        "start": 1697,
+        "end": 1702
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1861,
+        "end": 1864
+      },
+      {
+        "text": "Kortemeyer",
+        "label": "PERSON",
+        "start": 2134,
+        "end": 2144
+      },
+      {
+        "text": "the Department of Computer Science",
+        "label": "ORG",
+        "start": 2232,
+        "end": 2266
+      },
+      {
+        "text": "Python",
+        "label": "PERSON",
+        "start": 2323,
+        "end": 2329
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 2400,
+        "end": 2402
+      },
+      {
+        "text": "Sudau",
+        "label": "PERSON",
+        "start": 2607,
+        "end": 2612
+      },
+      {
+        "text": "Christian Sailer",
+        "label": "PERSON",
+        "start": 2741,
+        "end": 2757
+      },
+      {
+        "text": "Bachelor",
+        "label": "ORG",
+        "start": 2781,
+        "end": 2789
+      },
+      {
+        "text": "Kortemeyer",
+        "label": "PERSON",
+        "start": 3194,
+        "end": 3204
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 3245,
+        "end": 3251
+      },
+      {
+        "text": "Bard",
+        "label": "LOC",
+        "start": 3269,
+        "end": 3273
+      },
+      {
+        "text": "Nvidia",
+        "label": "GPE",
+        "start": 3275,
+        "end": 3281
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 3319,
+        "end": 3328
+      },
+      {
+        "text": "Copilot",
+        "label": "WORK_OF_ART",
+        "start": 3332,
+        "end": 3339
+      },
+      {
+        "text": "PowerPoint",
+        "label": "ORG",
+        "start": 3451,
+        "end": 3461
+      },
+      {
+        "text": "Gerd Kortemeyer",
+        "label": "PERSON",
+        "start": 3576,
+        "end": 3591
+      },
+      {
+        "text": "Educational Development and Technology",
+        "label": "ORG",
+        "start": 3628,
+        "end": 3666
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 3676,
+        "end": 3686
+      },
+      {
+        "text": "Manuel Sudau",
+        "label": "PERSON",
+        "start": 3688,
+        "end": 3700
+      },
+      {
+        "text": "the Department of Environmental Systems Sciences",
+        "label": "ORG",
+        "start": 3787,
+        "end": 3835
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christian Sailer",
+        "GPT-4",
+        "Gerd Kortemeyer",
+        "Kortemeyer",
+        "Manuel Sudau",
+        "Python",
+        "Sudau"
+      ],
+      "ORG": [
+        "AI",
+        "Bachelor",
+        "ETH",
+        "ETH Zurich",
+        "Educational Development and Technology",
+        "GPT-3",
+        "Google",
+        "Microsoft",
+        "PowerPoint",
+        "the Department of Computer Science",
+        "the Department of Environmental Systems Sciences"
+      ],
+      "LOCATION": [
+        "AI",
+        "Bard",
+        "Nvidia",
+        "US",
+        "n’t"
+      ],
+      "DATE": [
+        "some day",
+        "today"
+      ],
+      "MISC": [
+        "Copilot",
+        "One",
+        "about half",
+        "first",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "AI": 9,
+      "Kortemeyer": 8,
+      "ETH": 6,
+      "Gerd Kortemeyer": 3,
+      "Manuel Sudau": 3,
+      "One": 3,
+      "GPT-4": 2,
+      "Sudau": 2,
+      "GPT-3": 1,
+      "US": 1,
+      "about half": 1,
+      "two": 1,
+      "first": 1,
+      "today": 1,
+      "some day": 1,
+      "n’t": 1,
+      "the Department of Computer Science": 1,
+      "Python": 1,
+      "Christian Sailer": 1,
+      "Bachelor": 1
+    },
+    "total_entities": 57,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "interview-how-chatgpt-is-changing-teaching-and-assessments.md",
+      "title": "En Internal/2023/04/interview How Chatgpt Is Changing Teaching And Assessments",
+      "language": "en",
+      "source_path": "en_internal/2023/04/interview-how-chatgpt-is-changing-teaching-and-assessments.html"
+    },
+    "temporal": {
+      "publication_date": "2023-04",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christian Sailer",
+        "GPT-4",
+        "Gerd Kortemeyer",
+        "Kortemeyer",
+        "Manuel Sudau",
+        "Python",
+        "Sudau"
+      ],
+      "people_with_roles": {
+        "Christian Sailer": [
+          "student"
+        ],
+        "GPT-4": [
+          "student"
+        ],
+        "Gerd Kortemeyer": [
+          "head"
+        ],
+        "Kortemeyer": [
+          "head"
+        ],
+        "Python": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Copilot",
+        "about half",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Is Changing",
+        "D-USYS",
+        "Teaching And",
+        "Environmental Systems",
+        "But ETH",
+        "En Internal",
+        "Christian Sailer",
+        "Manuel Sudau",
+        "Gerd Kortemeyer",
+        "Educational Development",
+        "D-BAUG",
+        "ETH Zurich",
+        "How Chatgpt",
+        "Computer Science",
+        "Assessments Gerd"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Computer Science what consequences ChatGPT could have for courses on the Python programming language",
+        "Environmental Systems Sciences "
+      ],
+      "institutions": [
+        "AI",
+        "Bachelor",
+        "ETH",
+        "ETH Zurich",
+        "Educational Development and Technology",
+        "GPT-3",
+        "Google",
+        "Microsoft",
+        "PowerPoint",
+        "the Department of Computer Science",
+        "the Department of Environmental Systems Sciences"
+      ],
+      "locations": [
+        "AI",
+        "Bard",
+        "Nvidia",
+        "US",
+        "n’t"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "AI",
+        "Kortemeyer",
+        "ETH",
+        "Gerd Kortemeyer",
+        "Manuel Sudau",
+        "One",
+        "GPT-4",
+        "Sudau",
+        "GPT-3",
+        "US"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "About the interviewees",
+          "Always up to date"
+        ],
+        "content_length": 6969
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Bachelor",
+        "Gerd Kortemeyer",
+        "Kortemeyer",
+        "ERC",
+        "GPT-4",
+        "AI",
+        "Christian Sailer",
+        "Manuel Sudau",
+        "Python",
+        "Educational Development and Technology",
+        "the Department of Environmental Systems Sciences",
+        "Google",
+        "Sudau",
+        "PowerPoint",
+        "Microsoft",
+        "ETH Zurich",
+        "GPT-3",
+        "the Department of Computer Science",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "when",
+        "where",
+        "what",
+        "how",
+        "computer_science",
+        "about half",
+        "Copilot"
+      ],
+      "graph_relations": [
+        "Christian Sailer_has_role_student",
+        "GPT-4_has_role_student",
+        "Gerd Kortemeyer_has_role_head",
+        "Kortemeyer_has_role_head",
+        "Python_has_role_student",
+        "research_domain_technology",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

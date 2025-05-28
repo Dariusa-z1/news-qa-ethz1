@@ -1,0 +1,163 @@
+{
+  "filename": "26-november-research-day.md",
+  "original_filename": "26-november-research-day.html",
+  "source_path": "en_internal/2014/11/26-november-research-day.html",
+  "date": "2014-11",
+  "title": "26 November Research Day",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Then why not pay us a visit at the ETH-Bibliothek stand and talk to our experts?\n\nWhen: 11.00 to 13.00 Where: ETH Zurich's main building, foyer"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Research Day",
+        "label": "EVENT",
+        "start": 32,
+        "end": 44
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 35,
+        "end": 49
+      },
+      {
+        "text": "11.00",
+        "label": "CARDINAL",
+        "start": 87,
+        "end": 92
+      },
+      {
+        "text": "13.00",
+        "label": "CARDINAL",
+        "start": 96,
+        "end": 101
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 109,
+        "end": 121
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich's"
+      ],
+      "ORG": [
+        "ETH-Bibliothek"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "11.00",
+        "13.00",
+        "Research Day"
+      ]
+    },
+    "entity_counts": {
+      "Research Day": 1,
+      "ETH-Bibliothek": 1,
+      "11.00": 1,
+      "13.00": 1,
+      "ETH Zurich's": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "26-november-research-day.md",
+      "title": "En Internal/2014/11/26 November Research Day",
+      "language": "en",
+      "source_path": "en_internal/2014/11/26-november-research-day.html"
+    },
+    "temporal": {
+      "publication_date": "2014-11",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich's"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "11.00",
+        "13.00",
+        "Research Day"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "November Research",
+        "Day Then",
+        "ETH-Bibliothek",
+        "En Internal",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "Research Day",
+        "ETH-Bibliothek",
+        "11.00",
+        "13.00",
+        "ETH Zurich's"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 188
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "2014",
+        "ETH Zurich's"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "13.00",
+        "11.00",
+        "what",
+        "Research Day",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

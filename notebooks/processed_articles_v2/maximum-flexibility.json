@@ -1,0 +1,266 @@
+{
+  "filename": "maximum-flexibility.md",
+  "original_filename": "maximum-flexibility.html",
+  "source_path": "en_internal/2018/09/maximum-flexibility.html",
+  "date": "2018-09",
+  "title": "Maximum Flexibility",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A meeting point throughout the entire day",
+      "text": "“The planning for the new restaurant is a highly successful joint effort,” says Marcel Zurbuchen, ETH Officer for the Coordination of Partner Companies. The catering concept and room layout have also incorporated the ideas and spatial requirements of both the students and the Department of Computer Science. The result is a multifunctional concept that makes good use of the guest area at all times while providing an additional events venue. Zurbuchen explains that the food served couples the trend towards international fare that can also be observed in the mass catering sector, with the possibility of eating in or ordering a take-away."
+    },
+    {
+      "heading": "A meeting point throughout the entire day",
+      "text": "The restaurant is open all day and student workstations are available daily from 7.00 a.m. to 9.30 p.m. For anyone wanting a coffee outside the company’s opening hours, a self-service coffee machine is available. In addition to this, “food&lab” is also home to a lounge, which serves as a meeting point, and meeting rooms available for reservation.\n\nFollowing the renovation, the catering in the former chemistry buildings has been brought up to date. The former bistro in the CHN building opened for business again in February 2018 as the “2-Grad-Bistro” and “is once again hugely popular,” according to Marcel Zurbuchen."
+    },
+    {
+      "heading": "food&lab at a glance",
+      "text": "Opening: 13 September 2018 Caterer: SV (Switzerland) AG Seats: 160 Opening hours: Mo - Fr 8.00 a.m. - 4.00. p.m. Student workstations: Mo - Fr 7.00 a.m. - 9.30 p.m. Event space / catering reservation:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Marcel Zurbuchen",
+        "label": "PERSON",
+        "start": 80,
+        "end": 96
+      },
+      {
+        "text": "the Coordination of Partner Companies",
+        "label": "ORG",
+        "start": 114,
+        "end": 151
+      },
+      {
+        "text": "the Department of Computer Science",
+        "label": "ORG",
+        "start": 273,
+        "end": 307
+      },
+      {
+        "text": "all day",
+        "label": "DATE",
+        "start": 23,
+        "end": 30
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 70,
+        "end": 75
+      },
+      {
+        "text": "7.00 a.m. to 9.30 p.m.",
+        "label": "TIME",
+        "start": 81,
+        "end": 103
+      },
+      {
+        "text": "opening hours",
+        "label": "TIME",
+        "start": 154,
+        "end": 167
+      },
+      {
+        "text": "CHN",
+        "label": "ORG",
+        "start": 476,
+        "end": 479
+      },
+      {
+        "text": "February 2018",
+        "label": "DATE",
+        "start": 518,
+        "end": 531
+      },
+      {
+        "text": "Marcel Zurbuchen",
+        "label": "PERSON",
+        "start": 604,
+        "end": 620
+      },
+      {
+        "text": "September 2018",
+        "label": "DATE",
+        "start": 12,
+        "end": 26
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 40,
+        "end": 51
+      },
+      {
+        "text": "AG",
+        "label": "ORG",
+        "start": 53,
+        "end": 55
+      },
+      {
+        "text": "160 Opening hours",
+        "label": "TIME",
+        "start": 63,
+        "end": 80
+      },
+      {
+        "text": "8.00 a.m. - 4.00",
+        "label": "TIME",
+        "start": 90,
+        "end": 106
+      },
+      {
+        "text": "7.00 a.m. - 9.30 p.m.",
+        "label": "TIME",
+        "start": 143,
+        "end": 164
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Marcel Zurbuchen"
+      ],
+      "ORG": [
+        "AG",
+        "CHN",
+        "the Coordination of Partner Companies",
+        "the Department of Computer Science"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [
+        "160 Opening hours",
+        "7.00 a.m. - 9.30 p.m.",
+        "7.00 a.m. to 9.30 p.m.",
+        "8.00 a.m. - 4.00",
+        "February 2018",
+        "September 2018",
+        "all day",
+        "daily",
+        "opening hours"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Marcel Zurbuchen": 2,
+      "the Coordination of Partner Companies": 1,
+      "the Department of Computer Science": 1,
+      "all day": 1,
+      "daily": 1,
+      "7.00 a.m. to 9.30 p.m.": 1,
+      "opening hours": 1,
+      "CHN": 1,
+      "February 2018": 1,
+      "September 2018": 1,
+      "Switzerland": 1,
+      "AG": 1,
+      "160 Opening hours": 1,
+      "8.00 a.m. - 4.00": 1,
+      "7.00 a.m. - 9.30 p.m.": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "maximum-flexibility.md",
+      "title": "En Internal/2018/09/maximum Flexibility",
+      "language": "en",
+      "source_path": "en_internal/2018/09/maximum-flexibility.html"
+    },
+    "temporal": {
+      "publication_date": "2018-09",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Marcel Zurbuchen"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Grad-Bistro",
+        "Partner Companies",
+        "En Internal",
+        "Marcel Zurbuchen",
+        "AG Seats",
+        "Computer Science",
+        "ETH Officer"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Computer Science"
+      ],
+      "institutions": [
+        "AG",
+        "CHN",
+        "the Coordination of Partner Companies",
+        "the Department of Computer Science"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Marcel Zurbuchen",
+        "the Coordination of Partner Companies",
+        "the Department of Computer Science",
+        "all day",
+        "daily",
+        "7.00 a.m. to 9.30 p.m.",
+        "opening hours",
+        "CHN",
+        "February 2018",
+        "September 2018"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "A meeting point throughout the entire day",
+          "A meeting point throughout the entire day",
+          "food&lab at a glance"
+        ],
+        "content_length": 1506
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "CHN",
+        "Marcel Zurbuchen",
+        "the Coordination of Partner Companies",
+        "AG",
+        "the Department of Computer Science"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

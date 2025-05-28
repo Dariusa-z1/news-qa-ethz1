@@ -1,0 +1,139 @@
+{
+  "filename": "grafikvorlagen-fuer-die-maskenpflicht.md",
+  "original_filename": "grafikvorlagen-fuer-die-maskenpflicht.html",
+  "source_path": "de_internal/2020/08/grafikvorlagen-fuer-die-maskenpflicht.html",
+  "date": "2020-08",
+  "title": "Grafikvorlagen Fuer Die Maskenpflicht",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Bereits ab Montag, 24. August, heisst es «Maske auf!» für alle, die sich in den Gebäuden der ETH Zürich bewegen. Dies, um das Risiko einer Ansteckung auf dem Campus angesichts der anhaltend hohen Fallzahlen möglichst gering zu halten.\n\nEntsprechend rasch musste es in den letzten Tagen bei der Umsetzung der visuellen Kommunikation zur Maskentragpflicht gehen. Ab Montag, 24. August, wird die Maskenpflicht nicht zu übersehen sein: Überall auf dem Campus werden Plakate und Screens ETH-Angehörige und Besuchende darauf hinweisen.\n\nEinheiten, welche die Plakate selbst drucken und ihre Screens bespielen möchten, stehen die entsprechenden Grafikvorlagen in unterschiedlichen Formaten auf der Corona-Webseite der ETH Zürich zur Verfügung. Ausserdem können alle Plakate auch im Webshop von Print & Publish bestellt werden."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/08/grafikvorlagen Fuer",
+        "label": "LOC",
+        "start": 0,
+        "end": 39
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 93,
+        "end": 103
+      },
+      {
+        "text": "Corona-Webseite",
+        "label": "ORG",
+        "start": 689,
+        "end": 704
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 709,
+        "end": 719
+      },
+      {
+        "text": "Webshop von",
+        "label": "LOC",
+        "start": 773,
+        "end": 784
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Corona-Webseite",
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2020/08/grafikvorlagen Fuer",
+        "Webshop von"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "De Internal/2020/08/grafikvorlagen Fuer": 1,
+      "Corona-Webseite": 1,
+      "Webshop von": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "grafikvorlagen-fuer-die-maskenpflicht.md",
+      "title": "De Internal/2020/08/grafikvorlagen Fuer die Maskenpflicht",
+      "language": "de",
+      "source_path": "de_internal/2020/08/grafikvorlagen-fuer-die-maskenpflicht.html"
+    },
+    "temporal": {
+      "publication_date": "2020-08",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Ab Montag",
+        "De Internal",
+        "Screens ETH",
+        "Maskenpflicht Bereits",
+        "Corona-Webseite"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Corona-Webseite",
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2020/08/grafikvorlagen Fuer",
+        "Webshop von"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2020/08/grafikvorlagen Fuer",
+        "Corona-Webseite",
+        "Webshop von"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 877
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "2020",
+        "Corona-Webseite"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

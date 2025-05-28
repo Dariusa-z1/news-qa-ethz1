@@ -1,0 +1,513 @@
+{
+  "filename": "faster-entanglement-of-distant-quantum-dots.md",
+  "original_filename": "faster-entanglement-of-distant-quantum-dots.html",
+  "source_path": "en_news_events/2015/12/faster-entanglement-of-distant-quantum-dots.html",
+  "date": "2015-12",
+  "title": "Faster Entanglement Of Distant Quantum Dots",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Distant quantum dots",
+      "text": "In many future information and telecommunication technologies, a remarkable quantum effect called entanglement will likely play an important role. The entanglement of two quantum objects means that measurements on one of the objects instantaneously determine the properties of the other one – without any exchange of information between them.\n\nDisapprovingly, Albert Einstein called this strange non-locality “spooky action at a distance”. In the meantime, physicists have warmed to it and are now trying to put it to good use, for instance in order to make data transmission immune to eavesdropping. To that end, the creation of entanglement between spatially distant quantum particles is indispensable. That, however, is not easy and typically works rather slowly. A group of physicists led by Atac Imamoglu, a professor at the Institute for Quantum Electronics at the ETH in Zurich, have now demonstrated a method that allows the creation of a thousand times more entangled states per second than was possible before."
+    },
+    {
+      "heading": "Distant quantum dots",
+      "text": "In their experiments, the young researchers Aymeric Delteil, Zhe Sun und Wei-bo Gao used two so-called quantum dots that were placed five metres apart in the laboratory. Quantum dots are tiny structures, measuring only a few nanometres, inside a semiconductor material and in which electrons are trapped in a sort of cage. The quantum mechanical energy states of those electrons can be represented by spins, i.e., little arrows pointing up or down. When the spin states are entangled, it is possible to deduce from a measurement performed on one of the quantum dots which state the other one will be found in. If the spin of the first quantum dot points up, the other one points down, and vice versa. Before the measurement, however, the directions of the two spins are both unknown: they are in a quantum mechanical superposition of both spin combinations."
+    },
+    {
+      "heading": "Entanglement by scattershot",
+      "text": "In order to entangle the two quantum dots with each other the researchers at ETH used the principle of heralding. “Unfortunately, at the moment it is practically impossible to entangle quantum objects that are far apart with certainty and on demand”, explains Imamoglu. Instead, it is necessary to create the entangled states using a scattershot approach in which the quantum dots are constantly bombarded with light particles, which are then scattered back. Every so often this will result in a fluke: one of the scattered light particles makes a detector click, and the resulting spin states are actually entangled.\n\nImamoglu and his colleagues make use of this trick. They send laser pulses simultaneously to the two quantum dots and measure the light particles subsequently emitted by them. Before doing so, they carefully eliminated any possibility to find out which quantum dot the light particles originated from. The click in the light detector then “heralds” the actual entanglement of the quantum dots and signals that they can now be used further, e.g., for transmitting quantum information."
+    },
+    {
+      "heading": "Possible improvements",
+      "text": "The researchers tested their method by continuously shooting around ten million laser pulses per second at the quantum dots. This high repetition rate was possible because the spin states of quantum dots can be controlled within just a few nanoseconds. The measurements showed that in this way 2300 entangled states were produced per second.\n\n“That’s already a good start”, says Imamoglu, adding that the method certainly has room for improvement. Entangling quantum dots that are more than five metres apart, for instance, would require an enhancement of their coherence time. This time indicates how long a quantum state survives before it is destroyed through the influence of its environment (such as electric or magnetic fields). If the heralding light particle takes longer than one coherence time to fly to the detector, then a click no longer heralds entanglement. In future experiments the physicists want, therefore, to replace the quantum dots by so-called quantum dot molecules, whose coherence time are a hundred times longer. Furthermore, improvements of the detection probability of the light particles could lead to an even higher entanglement yield.\n\nDelteil A, Sun Z, Gao W, Togan E, Faelt S, Imamoglu A: Generation of heralded entanglement between distant hole spins, Nature Physics, 21 December 2015, doi: 10.1038/nphys3605"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 167,
+        "end": 170
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 214,
+        "end": 217
+      },
+      {
+        "text": "Albert Einstein",
+        "label": "PERSON",
+        "start": 359,
+        "end": 374
+      },
+      {
+        "text": "Atac Imamoglu",
+        "label": "PERSON",
+        "start": 795,
+        "end": 808
+      },
+      {
+        "text": "the Institute for Quantum Electronics",
+        "label": "ORG",
+        "start": 825,
+        "end": 862
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 870,
+        "end": 873
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 877,
+        "end": 883
+      },
+      {
+        "text": "a thousand",
+        "label": "CARDINAL",
+        "start": 944,
+        "end": 954
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 987,
+        "end": 993
+      },
+      {
+        "text": "Aymeric Delteil",
+        "label": "PERSON",
+        "start": 44,
+        "end": 59
+      },
+      {
+        "text": "Zhe Sun",
+        "label": "PERSON",
+        "start": 61,
+        "end": 68
+      },
+      {
+        "text": "Gao",
+        "label": "PERSON",
+        "start": 80,
+        "end": 83
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 89,
+        "end": 92
+      },
+      {
+        "text": "five metres",
+        "label": "QUANTITY",
+        "start": 133,
+        "end": 144
+      },
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 170,
+        "end": 177
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 542,
+        "end": 545
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 629,
+        "end": 634
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 668,
+        "end": 671
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 756,
+        "end": 759
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 77,
+        "end": 80
+      },
+      {
+        "text": "Imamoglu",
+        "label": "PERSON",
+        "start": 260,
+        "end": 268
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 503,
+        "end": 506
+      },
+      {
+        "text": "Imamoglu",
+        "label": "PERSON",
+        "start": 618,
+        "end": 626
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 715,
+        "end": 718
+      },
+      {
+        "text": "around ten million",
+        "label": "CARDINAL",
+        "start": 61,
+        "end": 79
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 97,
+        "end": 103
+      },
+      {
+        "text": "just a few nanoseconds",
+        "label": "TIME",
+        "start": 229,
+        "end": 251
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 334,
+        "end": 340
+      },
+      {
+        "text": "Imamoglu",
+        "label": "PERSON",
+        "start": 378,
+        "end": 386
+      },
+      {
+        "text": "more than five metres",
+        "label": "QUANTITY",
+        "start": 480,
+        "end": 501
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 784,
+        "end": 787
+      },
+      {
+        "text": "hundred",
+        "label": "CARDINAL",
+        "start": 1017,
+        "end": 1024
+      },
+      {
+        "text": "Delteil A",
+        "label": "ORG",
+        "start": 1166,
+        "end": 1175
+      },
+      {
+        "text": "Sun Z",
+        "label": "ORG",
+        "start": 1177,
+        "end": 1182
+      },
+      {
+        "text": "Gao W",
+        "label": "PERSON",
+        "start": 1184,
+        "end": 1189
+      },
+      {
+        "text": "Nature Physics",
+        "label": "ORG",
+        "start": 1285,
+        "end": 1299
+      },
+      {
+        "text": "21 December 2015",
+        "label": "DATE",
+        "start": 1301,
+        "end": 1317
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1324,
+        "end": 1331
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Albert Einstein",
+        "Atac Imamoglu",
+        "Aymeric Delteil",
+        "Gao",
+        "Gao W",
+        "Imamoglu",
+        "Zhe Sun"
+      ],
+      "ORG": [
+        "Delteil A",
+        "ETH",
+        "En News",
+        "Nature Physics",
+        "Quantum",
+        "Sun Z",
+        "the Institute for Quantum Electronics"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "21 December 2015",
+        "just a few nanoseconds"
+      ],
+      "MISC": [
+        "10.1038",
+        "a thousand",
+        "around ten million",
+        "first",
+        "five metres",
+        "hundred",
+        "more than five metres",
+        "one",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "two": 5,
+      "one": 5,
+      "second": 3,
+      "Imamoglu": 3,
+      "ETH": 2,
+      "En News": 1,
+      "Albert Einstein": 1,
+      "Atac Imamoglu": 1,
+      "the Institute for Quantum Electronics": 1,
+      "Zurich": 1,
+      "a thousand": 1,
+      "Aymeric Delteil": 1,
+      "Zhe Sun": 1,
+      "Gao": 1,
+      "five metres": 1,
+      "Quantum": 1,
+      "first": 1,
+      "around ten million": 1,
+      "just a few nanoseconds": 1,
+      "more than five metres": 1
+    },
+    "total_entities": 40,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "faster-entanglement-of-distant-quantum-dots.md",
+      "title": "En News Events/2015/12/faster Entanglement Of Distant Quantum Dots",
+      "language": "en",
+      "source_path": "en_news_events/2015/12/faster-entanglement-of-distant-quantum-dots.html"
+    },
+    "temporal": {
+      "publication_date": "2015-12",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Albert Einstein",
+        "Atac Imamoglu",
+        "Aymeric Delteil",
+        "Gao",
+        "Gao W",
+        "Imamoglu",
+        "Zhe Sun"
+      ],
+      "people_with_roles": {
+        "Atac Imamoglu": [
+          "professor"
+        ],
+        "Aymeric Delteil": [
+          "researcher"
+        ],
+        "Gao": [
+          "researcher"
+        ],
+        "Imamoglu": [
+          "professor"
+        ],
+        "Zhe Sun": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "a thousand",
+        "around ten million",
+        "first",
+        "five metres",
+        "hundred",
+        "more than five metres",
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Delteil A",
+        "Albert Einstein",
+        "Entanglement Of",
+        "Nature Physics",
+        "En News",
+        "Imamoglu A",
+        "Dots In",
+        "Quantum Electronics",
+        "Sun Z",
+        "Faelt S",
+        "Zhe Sun",
+        "Gao W",
+        "Aymeric Delteil",
+        "Atac Imamoglu",
+        "Distant Quantum",
+        "Togan E"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Quantum Electronics at the ETH in Zurich"
+      ],
+      "institutions": [
+        "Delteil A",
+        "ETH",
+        "En News",
+        "Nature Physics",
+        "Quantum",
+        "Sun Z",
+        "the Institute for Quantum Electronics"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "two",
+        "one",
+        "second",
+        "Imamoglu",
+        "ETH",
+        "En News",
+        "Albert Einstein",
+        "Atac Imamoglu",
+        "the Institute for Quantum Electronics",
+        "Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Distant quantum dots",
+          "Distant quantum dots",
+          "Entanglement by scattershot",
+          "Possible improvements"
+        ],
+        "content_length": 4392
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Delteil A",
+        "ETH",
+        "Albert Einstein",
+        "Nature Physics",
+        "2015",
+        "En News",
+        "Gao",
+        "Imamoglu",
+        "the Institute for Quantum Electronics",
+        "Sun Z",
+        "Gao W",
+        "Zhe Sun",
+        "Aymeric Delteil",
+        "Quantum",
+        "Atac Imamoglu"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "a thousand",
+        "who",
+        "hundred",
+        "10.1038",
+        "around ten million",
+        "where",
+        "more than five metres",
+        "what",
+        "second",
+        "how",
+        "five metres",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Atac Imamoglu_has_role_professor",
+        "Aymeric Delteil_has_role_researcher",
+        "Gao_has_role_researcher",
+        "Imamoglu_has_role_professor",
+        "Zhe Sun_has_role_researcher",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

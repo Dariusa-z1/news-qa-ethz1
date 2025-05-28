@@ -1,0 +1,205 @@
+{
+  "filename": "doubly-curved-concrete-roof-complete.md",
+  "original_filename": "doubly-curved-concrete-roof-complete.html",
+  "source_path": "en_news_events/2020/10/doubly-curved-concrete-roof-complete.html",
+  "date": "2020-10",
+  "title": "Doubly Curved Concrete Roof Complete",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In collaboration with partners from the construction industry, researchers from the Block Research Group (BRG) at ETH Zurich have now completed the complex, doubly curved concrete roof for the HiLo unit in the NEST building. NEST is an Empa and Eawag research platform that provides space for testing new building technologies in practice. The expressive shell structure demonstrates how high (Hi) performance can be achieved with low (Lo) embodied emissions by combining efficient concrete structures with novel fabrication and construction methods."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Curved Concrete Roof Complete",
+        "label": "ORG",
+        "start": 30,
+        "end": 59
+      },
+      {
+        "text": "the Block Research Group",
+        "label": "ORG",
+        "start": 80,
+        "end": 104
+      },
+      {
+        "text": "BRG",
+        "label": "ORG",
+        "start": 106,
+        "end": 109
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 114,
+        "end": 124
+      },
+      {
+        "text": "HiLo",
+        "label": "ORG",
+        "start": 193,
+        "end": 197
+      },
+      {
+        "text": "NEST",
+        "label": "ORG",
+        "start": 210,
+        "end": 214
+      },
+      {
+        "text": "NEST",
+        "label": "ORG",
+        "start": 225,
+        "end": 229
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 236,
+        "end": 240
+      },
+      {
+        "text": "Lo",
+        "label": "PERSON",
+        "start": 436,
+        "end": 438
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Lo"
+      ],
+      "ORG": [
+        "BRG",
+        "Curved Concrete Roof Complete",
+        "ETH Zurich",
+        "Empa",
+        "HiLo",
+        "NEST",
+        "the Block Research Group"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "NEST": 2,
+      "Curved Concrete Roof Complete": 1,
+      "the Block Research Group": 1,
+      "BRG": 1,
+      "ETH Zurich": 1,
+      "HiLo": 1,
+      "Empa": 1,
+      "Lo": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "doubly-curved-concrete-roof-complete.md",
+      "title": "En News Events/2020/10/doubly Curved Concrete Roof Complete",
+      "language": "en",
+      "source_path": "en_news_events/2020/10/doubly-curved-concrete-roof-complete.html"
+    },
+    "temporal": {
+      "publication_date": "2020-10",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Lo"
+      ],
+      "people_with_roles": {
+        "Lo": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "Roof Complete",
+        "ETH Zurich",
+        "Curved Concrete",
+        "Block Research"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BRG",
+        "Curved Concrete Roof Complete",
+        "ETH Zurich",
+        "Empa",
+        "HiLo",
+        "NEST",
+        "the Block Research Group"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "NEST",
+        "Curved Concrete Roof Complete",
+        "the Block Research Group",
+        "BRG",
+        "ETH Zurich",
+        "HiLo",
+        "Empa",
+        "Lo"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 610
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Lo",
+        "NEST",
+        "BRG",
+        "the Block Research Group",
+        "2020",
+        "Curved Concrete Roof Complete",
+        "ETH Zurich",
+        "Empa",
+        "HiLo"
+      ],
+      "semantic_concepts": [
+        "who",
+        "what",
+        "engineering",
+        "how"
+      ],
+      "graph_relations": [
+        "Lo_has_role_researcher",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

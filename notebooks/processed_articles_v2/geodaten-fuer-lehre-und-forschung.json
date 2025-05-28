@@ -1,0 +1,188 @@
+{
+  "filename": "geodaten-fuer-lehre-und-forschung.md",
+  "original_filename": "geodaten-fuer-lehre-und-forschung.html",
+  "source_path": "en_internal/2018/10/geodaten-fuer-lehre-und-forschung.html",
+  "date": "2018-10",
+  "title": "Geodaten Fuer Lehre Und Forschung",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The service geodata4edu.ch offers members of Swiss universities a central access point to federal and cantonal geodata. This also enables members of ETH Zurich to use the data provided fully for teaching and research.\n\nThe metadata catalogue provides an overview of the datasets available and facilitates specific data searches. Handbooks, video tutorials and other information are available on geodata4edu.ch.\n\nThe web services can be used for direct integration in the GIS program (ArcGIS, soon also QGIS). Data access via web services is ideal for using several datasets at once and conducting dataset analyses in a GIS program."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Fuer Lehre",
+        "label": "PERSON",
+        "start": 29,
+        "end": 39
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 45,
+        "end": 50
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 149,
+        "end": 159
+      },
+      {
+        "text": "Handbooks",
+        "label": "ORG",
+        "start": 328,
+        "end": 337
+      },
+      {
+        "text": "GIS",
+        "label": "ORG",
+        "start": 469,
+        "end": 472
+      },
+      {
+        "text": "ArcGIS",
+        "label": "PERSON",
+        "start": 482,
+        "end": 488
+      },
+      {
+        "text": "QGIS",
+        "label": "ORG",
+        "start": 500,
+        "end": 504
+      },
+      {
+        "text": "GIS",
+        "label": "ORG",
+        "start": 617,
+        "end": 620
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ArcGIS",
+        "ETH Zurich",
+        "Fuer Lehre"
+      ],
+      "ORG": [
+        "GIS",
+        "Handbooks",
+        "QGIS"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "Swiss"
+      ]
+    },
+    "entity_counts": {
+      "GIS": 2,
+      "Fuer Lehre": 1,
+      "Swiss": 1,
+      "ETH Zurich": 1,
+      "Handbooks": 1,
+      "ArcGIS": 1,
+      "QGIS": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "geodaten-fuer-lehre-und-forschung.md",
+      "title": "En Internal/2018/10/geodaten Fuer Lehre und Forschung",
+      "language": "en",
+      "source_path": "en_internal/2018/10/geodaten-fuer-lehre-und-forschung.html"
+    },
+    "temporal": {
+      "publication_date": "2018-10",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ArcGIS",
+        "ETH Zurich",
+        "Fuer Lehre"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Swiss"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Zurich",
+        "Fuer Lehre",
+        "Forschung The",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "GIS",
+        "Handbooks",
+        "QGIS"
+      ],
+      "locations": [],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "GIS",
+        "Fuer Lehre",
+        "Swiss",
+        "ETH Zurich",
+        "Handbooks",
+        "ArcGIS",
+        "QGIS"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 685
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Handbooks",
+        "ArcGIS",
+        "GIS",
+        "Fuer Lehre",
+        "QGIS",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "what",
+        "Swiss"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

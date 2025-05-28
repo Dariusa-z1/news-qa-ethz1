@@ -1,0 +1,326 @@
+{
+  "filename": "pensionskasse-publica-senkt-technischen-zinssatz.md",
+  "original_filename": "pensionskasse-publica-senkt-technischen-zinssatz.html",
+  "source_path": "en_news_events/2014/06/pensionskasse-publica-senkt-technischen-zinssatz.html",
+  "date": "2014-06",
+  "title": "Pensionskasse Publica Senkt Technischen Zinssatz",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Members to receive lump-sum compensation payment",
+      "text": "As of 1 January 2015, the technical interest rate will be lowered from its current level – 3.5 per cent – to 2.75 per cent. This decision taken by the Publica Fund Commission also entails an adjustment to the conversion rate. However, the intention is to maintain the current level of pension benefits by building up more provisions and taking other accompanying measures.\n\nPublica cites the persistently low level of interest rates as the reason for making this move, its main purpose being to secure pensions for the long term. “Although Publica has managed to generate relatively good returns in the financial markets over the past few years, these will soon no longer be sufficient to keep the funded ratio stable on a multi-year average,” it says.\n\nIt therefore feels compelled to cut the technical interest rate in order to ensure that it can stabilise the funded ratio even in the event of a fall in the return on investment. This is, in their words, an “unfortunately unavoidable” measure."
+    },
+    {
+      "heading": "Members to receive lump-sum compensation payment",
+      "text": "The technical interest rate is used to determine the current value of pension entitlements arising in the future. It also has an influence on the conversion rate, which serves as a basis for calculating the pension amount. If the technical interest rate is too high, so too is the conversion rate and, consequently, the pension.\n\nThat is why the conversion rate, which stood at 6.15 per cent, is now being reduced to 5.65 per cent. This gives rise to an additional requirement for savings contributions of 8.85 per cent in order to keep pensions at a level comparable to what they are now.\n\nTo prevent a decline in pensions, substantial provisions will be built up by 31 December 2014. Following on from this, an additional payment will be credited to the individual accounts of the pension fund members as of 1 January 2015.\n\nThe Fund Commission has decided that members of the pension fund who are employed at ETH Zurich as at 1 January 2015 will receive a lump-sum compensation payment amounting to 8.85 per cent of their contributions. However, they will only be eligible for this if they joined Publica before 1 July 2014.\n\nNew, higher contributions will apply for employers and employees as of 1 January 2015. This increase in contributions will range between 0.35 and 0.9 per cent depending on age.\n\nPension payments scheduled to be made before 1 January 2015 will not be affected by the technical interest rate reduction. The amount of these pensions will remain unchanged."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Publica",
+        "label": "GPE",
+        "start": 37,
+        "end": 44
+      },
+      {
+        "text": "1 January 2015",
+        "label": "DATE",
+        "start": 6,
+        "end": 20
+      },
+      {
+        "text": "3.5 per cent",
+        "label": "MONEY",
+        "start": 91,
+        "end": 103
+      },
+      {
+        "text": "2.75 per cent",
+        "label": "MONEY",
+        "start": 109,
+        "end": 122
+      },
+      {
+        "text": "the Publica Fund Commission",
+        "label": "ORG",
+        "start": 147,
+        "end": 174
+      },
+      {
+        "text": "Publica",
+        "label": "GPE",
+        "start": 373,
+        "end": 380
+      },
+      {
+        "text": "Publica",
+        "label": "GPE",
+        "start": 539,
+        "end": 546
+      },
+      {
+        "text": "the past few years",
+        "label": "DATE",
+        "start": 625,
+        "end": 643
+      },
+      {
+        "text": "multi-year",
+        "label": "DATE",
+        "start": 722,
+        "end": 732
+      },
+      {
+        "text": "6.15 per cent",
+        "label": "MONEY",
+        "start": 377,
+        "end": 390
+      },
+      {
+        "text": "5.65 per cent",
+        "label": "MONEY",
+        "start": 416,
+        "end": 429
+      },
+      {
+        "text": "8.85 per cent",
+        "label": "MONEY",
+        "start": 505,
+        "end": 518
+      },
+      {
+        "text": "31 December 2014",
+        "label": "DATE",
+        "start": 666,
+        "end": 682
+      },
+      {
+        "text": "1 January 2015",
+        "label": "DATE",
+        "start": 808,
+        "end": 822
+      },
+      {
+        "text": "The Fund Commission",
+        "label": "ORG",
+        "start": 824,
+        "end": 843
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 909,
+        "end": 919
+      },
+      {
+        "text": "1 January 2015",
+        "label": "DATE",
+        "start": 926,
+        "end": 940
+      },
+      {
+        "text": "8.85 per cent",
+        "label": "MONEY",
+        "start": 999,
+        "end": 1012
+      },
+      {
+        "text": "Publica",
+        "label": "GPE",
+        "start": 1097,
+        "end": 1104
+      },
+      {
+        "text": "1 July 2014",
+        "label": "DATE",
+        "start": 1112,
+        "end": 1123
+      },
+      {
+        "text": "1 January 2015",
+        "label": "DATE",
+        "start": 1196,
+        "end": 1210
+      },
+      {
+        "text": "between 0.35 and",
+        "label": "CARDINAL",
+        "start": 1254,
+        "end": 1270
+      },
+      {
+        "text": "0.9 per cent",
+        "label": "MONEY",
+        "start": 1271,
+        "end": 1283
+      },
+      {
+        "text": "1 January 2015",
+        "label": "DATE",
+        "start": 1347,
+        "end": 1361
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "The Fund Commission",
+        "the Publica Fund Commission"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Publica"
+      ],
+      "DATE": [
+        "1 January 2015",
+        "1 July 2014",
+        "31 December 2014",
+        "multi-year",
+        "the past few years"
+      ],
+      "MISC": [
+        "0.9 per cent",
+        "2.75 per cent",
+        "3.5 per cent",
+        "5.65 per cent",
+        "6.15 per cent",
+        "8.85 per cent",
+        "between 0.35 and"
+      ]
+    },
+    "entity_counts": {
+      "1 January 2015": 5,
+      "Publica": 4,
+      "8.85 per cent": 2,
+      "3.5 per cent": 1,
+      "2.75 per cent": 1,
+      "the Publica Fund Commission": 1,
+      "the past few years": 1,
+      "multi-year": 1,
+      "6.15 per cent": 1,
+      "5.65 per cent": 1,
+      "31 December 2014": 1,
+      "The Fund Commission": 1,
+      "ETH Zurich": 1,
+      "1 July 2014": 1,
+      "between 0.35 and": 1,
+      "0.9 per cent": 1
+    },
+    "total_entities": 24,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "pensionskasse-publica-senkt-technischen-zinssatz.md",
+      "title": "En News Events/2014/06/pensionskasse Publica Senkt Technischen Zinssatz",
+      "language": "en",
+      "source_path": "en_news_events/2014/06/pensionskasse-publica-senkt-technischen-zinssatz.html"
+    },
+    "temporal": {
+      "publication_date": "2014-06",
+      "mentioned_years": [
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "0.9 per cent",
+        "2.75 per cent",
+        "3.5 per cent",
+        "5.65 per cent",
+        "6.15 per cent",
+        "8.85 per cent",
+        "between 0.35 and"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "The Fund",
+        "Although Publica",
+        "ETH Zurich",
+        "Publica Senkt",
+        "Technischen Zinssatz",
+        "Publica Fund"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "The Fund Commission",
+        "the Publica Fund Commission"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Publica"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "1 January 2015",
+        "Publica",
+        "8.85 per cent",
+        "3.5 per cent",
+        "2.75 per cent",
+        "the Publica Fund Commission",
+        "the past few years",
+        "multi-year",
+        "6.15 per cent",
+        "5.65 per cent"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Members to receive lump-sum compensation payment",
+          "Members to receive lump-sum compensation payment"
+        ],
+        "content_length": 2551
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Publica Fund Commission",
+        "2015",
+        "2014",
+        "The Fund Commission"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "6.15 per cent",
+        "2.75 per cent",
+        "who",
+        "0.9 per cent",
+        "8.85 per cent",
+        "when",
+        "5.65 per cent",
+        "what",
+        "how",
+        "3.5 per cent",
+        "why",
+        "between 0.35 and"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

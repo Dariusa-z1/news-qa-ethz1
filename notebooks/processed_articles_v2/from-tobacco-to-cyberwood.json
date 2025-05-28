@@ -1,0 +1,339 @@
+{
+  "filename": "from-tobacco-to-cyberwood.md",
+  "original_filename": "from-tobacco-to-cyberwood.html",
+  "source_path": "en_news_events/2015/03/from-tobacco-to-cyberwood.html",
+  "date": "2015-03",
+  "title": "From Tobacco To Cyberwood",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Water is replaced by nanotubes",
+      "text": "Humans have been inspired by nature since the beginning of time. We mimic nature to develop new technologies, with examples ranging from machinery to pharmaceuticals to new materials. Planes are modelled on birds and many drugs have their origins in plants. Researchers at the Department of Mechanical and Process Engineering have taken it a step further: in order to develop an extremely sensitive temperature sensor they took a close look at temperature-sensitive plants. However, they did not mimic the properties of the plants; instead, they developed a hybrid material that contains, in addition to synthetic components, the plant cells themselves. “We let nature do the job for us,” explains Chiara Daraio, Professor of Mechanics and Materials.\n\nThe scientists were able to develop by far the most sensitive temperature sensor: an electronic module that changes its conductivity as a function of temperature. “No other sensor can respond to such small temperature fluctuations with such large changes in conductivity. Our sensor reacts with a responsivity at least 100 times higher compared to the best existing sensors,” says Raffaele Di Giacomo, a post-doc in Daraio’s group."
+    },
+    {
+      "heading": "Water is replaced by nanotubes",
+      "text": "It has been known for decades that plants have the extraordinary ability to register extremely fine temperature differences and respond to them through changes in the conductivity of their cells. In doing so, plants are better than any man-made sensor so far."
+    },
+    {
+      "heading": "Thickening agent pectin in a starring role",
+      "text": "Cyberwood viewed under a scanning electron microscope, where the wood-like structure becomes visible. (Photo: Di Giacomo R et al PNAS 2015)\n\nDi Giacomo experimented with tobacco cells in a cell culture. “We asked ourselves how we might transfer these cells into a lifeless, dry material in such a way that their temperature-sensitive properties are preserved,” he recounts. The scientists achieved their objective by growing the cells in a medium containing tiny tubes of carbon. These electrically conductive carbon nanotubes formed a network between the tobacco cells and were also able to penetrate the cell walls. When Di Giacomo dried the nanotube-cultivated cells, he discovered a woody, firm material that he calls ‘cyberwood’. In contrast to wood, this material is electrically conductive thanks to the nanotubes, and interestingly the conductivity is temperature-dependent and extremely sensitive, just like in living tobacco cells."
+    },
+    {
+      "heading": "Touchless touchscreen and heat-sensitive cameras",
+      "text": "As demonstrated by experiments, the cyberwood sensor can identify warm bodies even at distance; for example, a hand approaching the sensor from a distance of a few dozen centimetres. The sensor’s conductivity depends directly on the hand’s distance from the sensor.\n\nAccording to the scientists, cyberwood could be used in a wide range of applications; for instance, in the development of a ‘touchless touchscreen’ that reacts to gestures, with the gestures recorded by multiple sensors. Equally conceivable might be heat-sensitive cameras or night-vision devices.\n\nThe ETH scientists, together with a collaborator at the University of Salerno, Italy, not only subjected their new material’s properties to a detailed examination, they also analysed the origins of their extraordinary behaviour. They discovered that pectins and charged atoms (ions) play a key role in the temperature sensitivity of both living plant cells and the dry cyberwood. Pectins are sugar molecules found in plant cell walls that can be cross-linked, depending on temperature, to form a gel. Calcium and magnesium ions are both present in this gel. “As the temperature rises, the links of the pectin break apart, the gel becomes softer, and the ions can move about more freely,” explains Di Giacomo. As a result, the material conducts electricity better when temperature increases.\n\nThe scientists submitted a patent application for their sensor. In ongoing work, they are now further developing it such that it functions without plant cells, essentially with only pectin and ions. Their goal is to create a flexible, transparent and even biocompatible sensor with the same ultrahigh temperature sensitivity. Such a sensor could be moulded into arbitrary shapes and produced at extremely low cost. This will open the door to new applications for thermal sensors in biomedical devices, consumer products and low cost thermal cameras.\n\nDi Giacomo R, Daraio C, Maresca B: Plant nanobionic materials with a giant temperature response mediated by pectin-Ca 2+ . PNAS, 30 March 2015, doi: 10.1073/pnas.1421020112"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Tobacco To Cyberwood",
+        "label": "ORG",
+        "start": 28,
+        "end": 48
+      },
+      {
+        "text": "the Department of Mechanical and Process Engineering",
+        "label": "ORG",
+        "start": 273,
+        "end": 325
+      },
+      {
+        "text": "Chiara Daraio",
+        "label": "PERSON",
+        "start": 698,
+        "end": 711
+      },
+      {
+        "text": "Mechanics and Materials",
+        "label": "ORG",
+        "start": 726,
+        "end": 749
+      },
+      {
+        "text": "at least 100",
+        "label": "CARDINAL",
+        "start": 1061,
+        "end": 1073
+      },
+      {
+        "text": "Raffaele Di Giacomo",
+        "label": "PERSON",
+        "start": 1132,
+        "end": 1151
+      },
+      {
+        "text": "Daraio",
+        "label": "ORG",
+        "start": 1167,
+        "end": 1173
+      },
+      {
+        "text": "decades",
+        "label": "DATE",
+        "start": 22,
+        "end": 29
+      },
+      {
+        "text": "Di Giacomo",
+        "label": "PERSON",
+        "start": 140,
+        "end": 150
+      },
+      {
+        "text": "Di Giacomo",
+        "label": "PERSON",
+        "start": 622,
+        "end": 632
+      },
+      {
+        "text": "a few dozen",
+        "label": "CARDINAL",
+        "start": 158,
+        "end": 169
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 568,
+        "end": 571
+      },
+      {
+        "text": "the University of Salerno",
+        "label": "ORG",
+        "start": 616,
+        "end": 641
+      },
+      {
+        "text": "Italy",
+        "label": "GPE",
+        "start": 643,
+        "end": 648
+      },
+      {
+        "text": "Di Giacomo",
+        "label": "PERSON",
+        "start": 1261,
+        "end": 1271
+      },
+      {
+        "text": "Di Giacomo",
+        "label": "PERSON",
+        "start": 1905,
+        "end": 1915
+      },
+      {
+        "text": "Daraio C",
+        "label": "PERSON",
+        "start": 1919,
+        "end": 1927
+      },
+      {
+        "text": "30 March 2015",
+        "label": "DATE",
+        "start": 2034,
+        "end": 2047
+      },
+      {
+        "text": "10.1073/pnas.1421020112",
+        "label": "CARDINAL",
+        "start": 2054,
+        "end": 2077
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chiara Daraio",
+        "Daraio C",
+        "Di Giacomo",
+        "Raffaele Di Giacomo"
+      ],
+      "ORG": [
+        "Daraio",
+        "ETH",
+        "Mechanics and Materials",
+        "Tobacco To Cyberwood",
+        "the Department of Mechanical and Process Engineering",
+        "the University of Salerno"
+      ],
+      "LOCATION": [
+        "Italy"
+      ],
+      "DATE": [
+        "30 March 2015",
+        "decades"
+      ],
+      "MISC": [
+        "10.1073/pnas.1421020112",
+        "a few dozen",
+        "at least 100"
+      ]
+    },
+    "entity_counts": {
+      "Di Giacomo": 4,
+      "Tobacco To Cyberwood": 1,
+      "the Department of Mechanical and Process Engineering": 1,
+      "Chiara Daraio": 1,
+      "Mechanics and Materials": 1,
+      "at least 100": 1,
+      "Raffaele Di Giacomo": 1,
+      "Daraio": 1,
+      "decades": 1,
+      "a few dozen": 1,
+      "ETH": 1,
+      "the University of Salerno": 1,
+      "Italy": 1,
+      "Daraio C": 1,
+      "30 March 2015": 1,
+      "10.1073/pnas.1421020112": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "from-tobacco-to-cyberwood.md",
+      "title": "En News Events/2015/03/from Tobacco To Cyberwood",
+      "language": "en",
+      "source_path": "en_news_events/2015/03/from-tobacco-to-cyberwood.html"
+    },
+    "temporal": {
+      "publication_date": "2015-03",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chiara Daraio",
+        "Daraio C",
+        "Di Giacomo",
+        "Raffaele Di Giacomo"
+      ],
+      "people_with_roles": {
+        "Chiara Daraio": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1073/pnas.1421020112",
+        "a few dozen",
+        "at least 100"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "En News",
+        "Process Engineering",
+        "Raffaele Di",
+        "Di Giacomo",
+        "Tobacco To",
+        "Maresca B",
+        "Daraio C",
+        "Cyberwood Humans",
+        "The ETH",
+        "When Di",
+        "Chiara Daraio"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Mechanical and Process Engineering have taken it a step further"
+      ],
+      "institutions": [
+        "Daraio",
+        "ETH",
+        "Mechanics and Materials",
+        "Tobacco To Cyberwood",
+        "the Department of Mechanical and Process Engineering",
+        "the University of Salerno"
+      ],
+      "locations": [
+        "Italy"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Di Giacomo",
+        "Tobacco To Cyberwood",
+        "the Department of Mechanical and Process Engineering",
+        "Chiara Daraio",
+        "Mechanics and Materials",
+        "at least 100",
+        "Raffaele Di Giacomo",
+        "Daraio",
+        "decades",
+        "a few dozen"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Water is replaced by nanotubes",
+          "Water is replaced by nanotubes",
+          "Thickening agent pectin in a starring role",
+          "Touchless touchscreen and heat-sensitive cameras"
+        ],
+        "content_length": 4516
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2015",
+        "the Department of Mechanical and Process Engineering",
+        "Raffaele Di Giacomo",
+        "Di Giacomo",
+        "EU",
+        "Mechanics and Materials",
+        "Daraio",
+        "Daraio C",
+        "the University of Salerno",
+        "Tobacco To Cyberwood",
+        "Chiara Daraio"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1073/pnas.1421020112",
+        "who",
+        "a few dozen",
+        "where",
+        "at least 100",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Chiara Daraio_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

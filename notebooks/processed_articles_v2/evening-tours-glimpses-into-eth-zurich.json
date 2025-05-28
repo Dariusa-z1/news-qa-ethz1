@@ -1,0 +1,208 @@
+{
+  "filename": "evening-tours-glimpses-into-eth-zurich.md",
+  "original_filename": "evening-tours-glimpses-into-eth-zurich.html",
+  "source_path": "en_internal/2016/01/evening-tours-glimpses-into-eth-zurich.html",
+  "date": "2016-01",
+  "title": "Evening Tours Glimpses Into Eth Zurich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Discover the answers to these and many more questions on the evening tours of ETH Zurich’s Collections and Archives as well as the administrative department Services. You can also follow in the footsteps of Albert Einstein or get to know ETH Zurich's Hönggerberg campus.\n\nThe free tours always take place on Tuesdays from 18.15 to 19.15.\n\nFind out about the dates and topics"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Tours Glimpses Into",
+        "label": "ORG",
+        "start": 28,
+        "end": 47
+      },
+      {
+        "text": "the evening",
+        "label": "TIME",
+        "start": 57,
+        "end": 68
+      },
+      {
+        "text": "ETH Zurich’s Collections and Archives",
+        "label": "ORG",
+        "start": 78,
+        "end": 115
+      },
+      {
+        "text": "the administrative department Services",
+        "label": "ORG",
+        "start": 127,
+        "end": 165
+      },
+      {
+        "text": "Albert Einstein",
+        "label": "PERSON",
+        "start": 207,
+        "end": 222
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 238,
+        "end": 250
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 251,
+        "end": 262
+      },
+      {
+        "text": "Tuesdays",
+        "label": "DATE",
+        "start": 307,
+        "end": 315
+      },
+      {
+        "text": "18.15",
+        "label": "CARDINAL",
+        "start": 321,
+        "end": 326
+      },
+      {
+        "text": "19.15",
+        "label": "CARDINAL",
+        "start": 330,
+        "end": 335
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Albert Einstein",
+        "ETH Zurich's"
+      ],
+      "ORG": [
+        "ETH Zurich’s Collections and Archives",
+        "Tours Glimpses Into",
+        "the administrative department Services"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "Tuesdays",
+        "the evening"
+      ],
+      "MISC": [
+        "18.15",
+        "19.15"
+      ]
+    },
+    "entity_counts": {
+      "Tours Glimpses Into": 1,
+      "the evening": 1,
+      "ETH Zurich’s Collections and Archives": 1,
+      "the administrative department Services": 1,
+      "Albert Einstein": 1,
+      "ETH Zurich's": 1,
+      "Hönggerberg": 1,
+      "Tuesdays": 1,
+      "18.15": 1,
+      "19.15": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "evening-tours-glimpses-into-eth-zurich.md",
+      "title": "En Internal/2016/01/evening Tours Glimpses Into Eth Zurich",
+      "language": "en",
+      "source_path": "en_internal/2016/01/evening-tours-glimpses-into-eth-zurich.html"
+    },
+    "temporal": {
+      "publication_date": "2016-01",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Albert Einstein",
+        "ETH Zurich's"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "18.15",
+        "19.15"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Into Eth",
+        "Albert Einstein",
+        "Zurich Discover",
+        "Tours Glimpses",
+        "En Internal",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich’s Collections and Archives",
+        "Tours Glimpses Into",
+        "the administrative department Services"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Tours Glimpses Into",
+        "the evening",
+        "ETH Zurich’s Collections and Archives",
+        "the administrative department Services",
+        "Albert Einstein",
+        "ETH Zurich's",
+        "Hönggerberg",
+        "Tuesdays",
+        "18.15",
+        "19.15"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 433
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Albert Einstein",
+        "the administrative department Services",
+        "Tours Glimpses Into",
+        "ETH Zurich’s Collections and Archives",
+        "2016",
+        "ETH Zurich's"
+      ],
+      "semantic_concepts": [
+        "when",
+        "18.15",
+        "19.15",
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

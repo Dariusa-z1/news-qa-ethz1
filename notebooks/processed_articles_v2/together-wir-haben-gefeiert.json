@@ -1,0 +1,212 @@
+{
+  "filename": "together-wir-haben-gefeiert.md",
+  "original_filename": "together-wir-haben-gefeiert.html",
+  "source_path": "en_internal/2022/08/together-wir-haben-gefeiert.html",
+  "date": "2022-08",
+  "title": "Together Wir Haben Gefeiert",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "A pleasing number of employees came to the Hönggerberg and we all spent a wonderful evening together, had good conversations, toasted and celebrated - togETHer 22. The PeKo welcomed many familiar and also some new faces in the greenhouse. We thank you for these great moments!\n\nThe Staff Commission acts as a contact point for technical and administrative ETH staff and represents their concerns to the Executive Board. The diverse work of the commission includes participation in the University Assembly, the Strategy Commission, the Catering Commission, in consultations and in proposals to the Executive Board. To achieve its goals, the PeKo relies on dialogue and cooperation."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Haben Gefeiert",
+        "label": "PERSON",
+        "start": 33,
+        "end": 47
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 43,
+        "end": 54
+      },
+      {
+        "text": "PeKo",
+        "label": "PERSON",
+        "start": 168,
+        "end": 172
+      },
+      {
+        "text": "The Staff Commission",
+        "label": "ORG",
+        "start": 277,
+        "end": 297
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 355,
+        "end": 358
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 398,
+        "end": 417
+      },
+      {
+        "text": "the University Assembly",
+        "label": "ORG",
+        "start": 480,
+        "end": 503
+      },
+      {
+        "text": "the Strategy Commission",
+        "label": "ORG",
+        "start": 505,
+        "end": 528
+      },
+      {
+        "text": "the Catering Commission",
+        "label": "ORG",
+        "start": 530,
+        "end": 553
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 592,
+        "end": 611
+      },
+      {
+        "text": "PeKo",
+        "label": "PERSON",
+        "start": 639,
+        "end": 643
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Haben Gefeiert",
+        "Hönggerberg",
+        "PeKo"
+      ],
+      "ORG": [
+        "ETH",
+        "The Staff Commission",
+        "the Catering Commission",
+        "the Executive Board",
+        "the Strategy Commission",
+        "the University Assembly"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "PeKo": 2,
+      "the Executive Board": 2,
+      "Haben Gefeiert": 1,
+      "Hönggerberg": 1,
+      "The Staff Commission": 1,
+      "ETH": 1,
+      "the University Assembly": 1,
+      "the Strategy Commission": 1,
+      "the Catering Commission": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "together-wir-haben-gefeiert.md",
+      "title": "En Internal/2022/08/together Wir Haben Gefeiert",
+      "language": "en",
+      "source_path": "en_internal/2022/08/together-wir-haben-gefeiert.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Haben Gefeiert",
+        "Hönggerberg",
+        "PeKo"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "The Staff",
+        "Strategy Commission",
+        "Catering Commission",
+        "Wir Haben",
+        "University Assembly",
+        "Executive Board",
+        "En Internal",
+        "The PeKo",
+        "Gefeiert A"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "The Staff Commission",
+        "the Catering Commission",
+        "the Executive Board",
+        "the Strategy Commission",
+        "the University Assembly"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "PeKo",
+        "the Executive Board",
+        "Haben Gefeiert",
+        "Hönggerberg",
+        "The Staff Commission",
+        "ETH",
+        "the University Assembly",
+        "the Strategy Commission",
+        "the Catering Commission"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 728
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "ETH",
+        "the Catering Commission",
+        "the University Assembly",
+        "PeKo",
+        "the Strategy Commission",
+        "2022",
+        "the Executive Board",
+        "Haben Gefeiert",
+        "The Staff Commission"
+      ],
+      "semantic_concepts": [
+        "why",
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

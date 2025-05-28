@@ -1,0 +1,344 @@
+{
+  "filename": "new-space-for-infants.md",
+  "original_filename": "new-space-for-infants.html",
+  "source_path": "en_internal/2015/05/new-space-for-infants.html",
+  "date": "2015-05",
+  "title": "New Space For Infants",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Brand-new, colourful beds lie in a neat row at floor level, and the windows are low enough for even the youngest children to look outside. The space next door has an inviting new baby corner with bright furnishings and an area for breastfeeding and nappy changing.\n\nSince Monday, 4 May 2015, these rooms at the Hönggerberg campus have provided space for an extra group of infants aged from four to 18 months. The crèche is run by the kihz Foundation, which was established jointly by ETH Zurich and the University of Zurich to provide childcare facilities. A total of 55 places are available at kihz Hönggerberg for infants aged from four months until they start kindergarten, divided into five groups (“butterflies”, “crocodiles”, “hedgehogs”, “parrots” and “bears”). 74 families are currently benefiting from this service at Hönggerberg.\n\nkihz has also set up an extra activity space – a converted container that serves as a temporary “gym”, with mats and play equipment [JA1] for the children.\n\nMonika Haetinger Walther, kihz Foundation Manager, and Julia Oberle, Head of kihz Hönggerberg, welcome the new developments: \"The expansion of Hönggerberg crèche, funded by ETH Zurich, means we're able to support 11 families\", says Haetinger. The crèche is an important facility for younger academic staff members in particular, allowing them to combine family with their career in academia.\n\nThe kihz Foundation has seven university childcare centres at the Hönggerberg, Irchel and Zentrum campuses."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Monday",
+        "label": "DATE",
+        "start": 271,
+        "end": 277
+      },
+      {
+        "text": "4 May 2015",
+        "label": "DATE",
+        "start": 279,
+        "end": 289
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 310,
+        "end": 321
+      },
+      {
+        "text": "four to 18 months",
+        "label": "DATE",
+        "start": 389,
+        "end": 406
+      },
+      {
+        "text": "the kihz Foundation",
+        "label": "ORG",
+        "start": 429,
+        "end": 448
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 483,
+        "end": 493
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 498,
+        "end": 522
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 599,
+        "end": 610
+      },
+      {
+        "text": "four months",
+        "label": "DATE",
+        "start": 633,
+        "end": 644
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 689,
+        "end": 693
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 826,
+        "end": 837
+      },
+      {
+        "text": "kihz",
+        "label": "PERSON",
+        "start": 839,
+        "end": 843
+      },
+      {
+        "text": "Haetinger Walther",
+        "label": "PERSON",
+        "start": 1002,
+        "end": 1019
+      },
+      {
+        "text": "Julia Oberle",
+        "label": "PERSON",
+        "start": 1050,
+        "end": 1062
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 1077,
+        "end": 1088
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 1138,
+        "end": 1149
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1168,
+        "end": 1178
+      },
+      {
+        "text": "Haetinger",
+        "label": "PERSON",
+        "start": 1227,
+        "end": 1236
+      },
+      {
+        "text": "The kihz Foundation",
+        "label": "ORG",
+        "start": 1387,
+        "end": 1406
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 1411,
+        "end": 1416
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 1453,
+        "end": 1464
+      },
+      {
+        "text": "Irchel",
+        "label": "GPE",
+        "start": 1466,
+        "end": 1472
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 1477,
+        "end": 1484
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Haetinger",
+        "Haetinger Walther",
+        "Hönggerberg",
+        "Julia Oberle",
+        "Zentrum",
+        "kihz"
+      ],
+      "ORG": [
+        "The kihz Foundation",
+        "the University of Zurich",
+        "the kihz Foundation"
+      ],
+      "LOCATION": [
+        "Hönggerberg",
+        "Irchel"
+      ],
+      "DATE": [
+        "4 May 2015",
+        "Monday",
+        "four months",
+        "four to 18 months"
+      ],
+      "MISC": [
+        "five",
+        "seven"
+      ]
+    },
+    "entity_counts": {
+      "Hönggerberg": 6,
+      "ETH Zurich": 2,
+      "Monday": 1,
+      "4 May 2015": 1,
+      "four to 18 months": 1,
+      "the kihz Foundation": 1,
+      "the University of Zurich": 1,
+      "four months": 1,
+      "five": 1,
+      "kihz": 1,
+      "Haetinger Walther": 1,
+      "Julia Oberle": 1,
+      "Haetinger": 1,
+      "The kihz Foundation": 1,
+      "seven": 1,
+      "Irchel": 1,
+      "Zentrum": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-space-for-infants.md",
+      "title": "En Internal/2015/05/new Space For Infants",
+      "language": "en",
+      "source_path": "en_internal/2015/05/new-space-for-infants.html"
+    },
+    "temporal": {
+      "publication_date": "2015-05",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Haetinger",
+        "Haetinger Walther",
+        "Hönggerberg",
+        "Julia Oberle",
+        "Zentrum",
+        "kihz"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "head"
+        ],
+        "Haetinger": [
+          "head"
+        ],
+        "Haetinger Walther": [
+          "head"
+        ],
+        "Hönggerberg": [
+          "head"
+        ],
+        "Julia Oberle": [
+          "head"
+        ],
+        "kihz": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "five",
+        "seven"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Foundation Manager",
+        "Space For",
+        "Infants Brand",
+        "Since Monday",
+        "En Internal",
+        "Monika Haetinger",
+        "Julia Oberle",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "The kihz Foundation",
+        "the University of Zurich",
+        "the kihz Foundation"
+      ],
+      "locations": [
+        "Hönggerberg",
+        "Irchel"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "Hönggerberg",
+        "ETH Zurich",
+        "Monday",
+        "4 May 2015",
+        "four to 18 months",
+        "the kihz Foundation",
+        "the University of Zurich",
+        "four months",
+        "five",
+        "kihz"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1540
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "2015",
+        "Haetinger Walther",
+        "the kihz Foundation",
+        "the University of Zurich",
+        "Haetinger",
+        "Zentrum",
+        "kihz",
+        "Julia Oberle",
+        "ETH Zurich",
+        "The kihz Foundation"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "five",
+        "where",
+        "seven"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_head",
+        "Haetinger_has_role_head",
+        "Haetinger Walther_has_role_head",
+        "Hönggerberg_has_role_head",
+        "Julia Oberle_has_role_head",
+        "kihz_has_role_head",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

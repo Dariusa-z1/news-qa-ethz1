@@ -1,0 +1,765 @@
+{
+  "filename": "erc-advanced-grants.md",
+  "original_filename": "erc-advanced-grants.html",
+  "source_path": "en_news_events/2016/04/erc-advanced-grants.html",
+  "date": "2016-04",
+  "title": "Erc Advanced Grants",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "ETH must remain attractive",
+      "text": "The ERC Advanced Grants are among the most coveted awards in the European Research Area, as only projects from established researchers are supported by the European Research Council (ERC). Successful applicants receive significant financial support in addition to reputational honour. The approved projects will receive somewhere between CHF 2.2 million and CHF 3.8 million over a period of five years.\n\nSeventeen researchers from ETH Zurich applied for the ERC Advanced Grant, of whom 88% advanced to the second call for proposals; more than half of these were rated as ‘excellent’ (category A), thus meeting the grant criteria. Ultimately, the grant decision depends on many factors, such as the total funds available to the ERC and the amount allocated to each individual researcher. Those ETH researchers who just missed out this year therefore have a good chance of success at the next call for proposals.\n\nThe winning projects came from research fields in which ETH Zurich holds a leading position; for example, physics, material sciences and the earth sciences. The intensive research efforts in the even newer field of biosystems have proven fruitful as well. This fits well with ETH Zurich’s strategy, which is to break new ground in medical research. “For me, these grants are proof of the outstanding calibre of professors appointed at ETH,” says Professor Detlef Günther, Vice President of Research and Corporate Relations at ETH Zurich. “In order to stay ahead of the European competition in future, ETH must remain sufficiently attractive so that the world’s top talent come to learn, teach and research at this university.”"
+    },
+    {
+      "heading": "Promise of full participation",
+      "text": "The signing of the Croatia Protocol by the Federal Council in March, and the decisive acceptance of the agreement by the National Council yesterday have increased Switzerland’s chances of full participation in the Horizon 2020 research programme. Günther stressed that this full participation is essential to the higher education landscape in Switzerland. “ERC grants reflect the achievements of individual researchers. Exclusion from the application process might deter talented individuals from coming to Switzerland, and the Swiss research community would suffer greatly as a result.”\n\nThe following researchers have been awarded ERC Advanced Grants\n\nCharalampos Anastasiou is a Professor of Theoretical Particle Physics. His research focuses on making theoretical predictions for the measurements taken during experiments at the LHC particle accelerator at CERN. Six years ago, he received an ERC Starting Grant in order to develop mathematical and computational methods for simulating particle collisions at the LHC. Now, with the ERC Advanced Grant, he can continue and expand this work. He aims to develop even more accurate simulations which match the precision of a broader spectrum of experimental observations of the creation of the Higgs boson and other particles. Ultimately, Anastasiou hopes that some of these observations will not be explained by the simulations and the standard model of particle physics, and that this will lead to the discovery of new physics laws."
+    },
+    {
+      "heading": "Contact",
+      "text": "Manfred Fiebig , a Professor at the Department of Materials, specialises in researching novel materials with internal magnetic and electrical ordering, known as multiferroics. These materials are often produced in the laboratory as thin layers using a vapour-deposition process (pulsed laser deposition). At present, the materials’ magnetic and electrical properties can only be investigated once the production process is complete and nothing more can be altered. In his ERC project, Fiebig intends to develop a new laser characterization technique to track these properties in real time during the manufacturing process. By adapting the growth parameters during the deposition process, the performance of the thin-film systems can be continuously optimized for best technological performance. Such materials could become the basis of novel magneto-electric sensors, device components or data storage media.\n\nAndreas Hierlemann is a Professor at the Department of Biosystems Science and Engineering of ETH Zurich in Basel. His research focuses on developing microelectronic systems that can be used to address biomedical questions experimentally. In his ERC project, advanced integrated microelectronic chips will be applied to study the electrophysiology of neural networks in cell culture at unprecedented spatial and temporal scales. On the spatial scale, the technique will enable the simultaneous recording of electrical activity of small subcellular components and of entire networks comprised of large numbers of neuronal cells. The temporal scale will extend from milliseconds of individual nerve impulses to weeks and months of long-lasting development processes. The project seeks to provide insights into neuronal behavior that are relevant for researching neurological diseases and developing information processing systems with neuronal architectures.\n\nJohan Robertsson is a Professor in the Department of Earth Sciences. Robertsson researches how seismic waves propagate and how they can be used to determine the structure and composition of the Earth’s interior. For his ERC project, he intends to develop a fundamentally new approach for studying at a laboratory scale how seismic waves propagate in various Earth materials. The ETH professor will build up a new wave experimentation system comprising an experimental part and a computer simulation. These two parts are so closely interwoven by sensors and actuators that seismic wavefields can propagate seamlessly from the experiment into the simulation, and back. The new experimentation system should enable the demonstration of complete time reversal of physical waves in three dimensions, for the first time. Potential applications of the findings include characterizing geothermal, fossil fuel or CO 2 reservoirs and, in medicine, breaking up stones in the gallbladder or kidneys.\n\nETH Zurich Franziska Schmid Media relations Telefon: +41 44 632 41 41"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "the European Research Area",
+        "label": "ORG",
+        "start": 61,
+        "end": 87
+      },
+      {
+        "text": "the European Research Council",
+        "label": "ORG",
+        "start": 152,
+        "end": 181
+      },
+      {
+        "text": "ERC",
+        "label": "ORG",
+        "start": 183,
+        "end": 186
+      },
+      {
+        "text": "CHF 2.2 million",
+        "label": "ORG",
+        "start": 338,
+        "end": 353
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 358,
+        "end": 361
+      },
+      {
+        "text": "3.8 million",
+        "label": "CARDINAL",
+        "start": 362,
+        "end": 373
+      },
+      {
+        "text": "five years",
+        "label": "DATE",
+        "start": 391,
+        "end": 401
+      },
+      {
+        "text": "Seventeen",
+        "label": "CARDINAL",
+        "start": 403,
+        "end": 412
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 430,
+        "end": 440
+      },
+      {
+        "text": "88%",
+        "label": "PERCENT",
+        "start": 485,
+        "end": 488
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 505,
+        "end": 511
+      },
+      {
+        "text": "more than half",
+        "label": "CARDINAL",
+        "start": 532,
+        "end": 546
+      },
+      {
+        "text": "ERC",
+        "label": "ORG",
+        "start": 726,
+        "end": 729
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 792,
+        "end": 795
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 828,
+        "end": 837
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 966,
+        "end": 976
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 1186,
+        "end": 1198
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1345,
+        "end": 1348
+      },
+      {
+        "text": "Detlef Günther",
+        "label": "PERSON",
+        "start": 1366,
+        "end": 1380
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 1479,
+        "end": 1487
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1511,
+        "end": 1514
+      },
+      {
+        "text": "the Croatia Protocol",
+        "label": "LAW",
+        "start": 15,
+        "end": 35
+      },
+      {
+        "text": "the Federal Council",
+        "label": "ORG",
+        "start": 39,
+        "end": 58
+      },
+      {
+        "text": "March",
+        "label": "DATE",
+        "start": 62,
+        "end": 67
+      },
+      {
+        "text": "the National Council",
+        "label": "ORG",
+        "start": 117,
+        "end": 137
+      },
+      {
+        "text": "yesterday",
+        "label": "DATE",
+        "start": 138,
+        "end": 147
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 163,
+        "end": 174
+      },
+      {
+        "text": "Horizon 2020",
+        "label": "EVENT",
+        "start": 214,
+        "end": 226
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 343,
+        "end": 354
+      },
+      {
+        "text": "ERC",
+        "label": "ORG",
+        "start": 357,
+        "end": 360
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 507,
+        "end": 518
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 528,
+        "end": 533
+      },
+      {
+        "text": "ERC Advanced",
+        "label": "PERSON",
+        "start": 632,
+        "end": 644
+      },
+      {
+        "text": "Theoretical Particle Physics",
+        "label": "ORG",
+        "start": 693,
+        "end": 721
+      },
+      {
+        "text": "LHC",
+        "label": "ORG",
+        "start": 831,
+        "end": 834
+      },
+      {
+        "text": "CERN",
+        "label": "GPE",
+        "start": 859,
+        "end": 863
+      },
+      {
+        "text": "Six years ago",
+        "label": "DATE",
+        "start": 865,
+        "end": 878
+      },
+      {
+        "text": "LHC",
+        "label": "ORG",
+        "start": 1015,
+        "end": 1018
+      },
+      {
+        "text": "Anastasiou",
+        "label": "PERSON",
+        "start": 1287,
+        "end": 1297
+      },
+      {
+        "text": "Manfred Fiebig",
+        "label": "PERSON",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "the Department of Materials",
+        "label": "ORG",
+        "start": 32,
+        "end": 59
+      },
+      {
+        "text": "ERC",
+        "label": "ORG",
+        "start": 472,
+        "end": 475
+      },
+      {
+        "text": "Fiebig",
+        "label": "ORG",
+        "start": 485,
+        "end": 491
+      },
+      {
+        "text": "Andreas Hierlemann",
+        "label": "PERSON",
+        "start": 909,
+        "end": 927
+      },
+      {
+        "text": "the Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 946,
+        "end": 998
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1002,
+        "end": 1012
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 1016,
+        "end": 1021
+      },
+      {
+        "text": "ERC",
+        "label": "ORG",
+        "start": 1154,
+        "end": 1157
+      },
+      {
+        "text": "weeks",
+        "label": "DATE",
+        "start": 1617,
+        "end": 1622
+      },
+      {
+        "text": "months",
+        "label": "DATE",
+        "start": 1627,
+        "end": 1633
+      },
+      {
+        "text": "Johan Robertsson",
+        "label": "PERSON",
+        "start": 1865,
+        "end": 1881
+      },
+      {
+        "text": "the Department of Earth Sciences",
+        "label": "ORG",
+        "start": 1900,
+        "end": 1932
+      },
+      {
+        "text": "Robertsson",
+        "label": "PERSON",
+        "start": 1934,
+        "end": 1944
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 2059,
+        "end": 2064
+      },
+      {
+        "text": "ERC",
+        "label": "ORG",
+        "start": 2085,
+        "end": 2088
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 2223,
+        "end": 2228
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2244,
+        "end": 2247
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2371,
+        "end": 2374
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 2642,
+        "end": 2647
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2668,
+        "end": 2673
+      },
+      {
+        "text": "CO 2",
+        "label": "PRODUCT",
+        "start": 2769,
+        "end": 2773
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 2853,
+        "end": 2863
+      },
+      {
+        "text": "Telefon",
+        "label": "NORP",
+        "start": 2897,
+        "end": 2904
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Anastasiou",
+        "Andreas Hierlemann",
+        "Detlef Günther",
+        "ERC Advanced",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Johan Robertsson",
+        "Manfred Fiebig",
+        "Robertsson"
+      ],
+      "ORG": [
+        "CHF",
+        "CHF 2.2 million",
+        "ERC",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Fiebig",
+        "LHC",
+        "Theoretical Particle Physics",
+        "the Department of Biosystems Science and Engineering",
+        "the Department of Earth Sciences",
+        "the Department of Materials",
+        "the European Research Area",
+        "the European Research Council",
+        "the Federal Council",
+        "the National Council"
+      ],
+      "LOCATION": [
+        "Basel",
+        "CERN",
+        "Earth",
+        "Switzerland"
+      ],
+      "DATE": [
+        "March",
+        "Six years ago",
+        "five years",
+        "months",
+        "this year",
+        "weeks",
+        "yesterday"
+      ],
+      "MISC": [
+        "3.8 million",
+        "88%",
+        "CO 2",
+        "European",
+        "Horizon 2020",
+        "Seventeen",
+        "Swiss",
+        "Telefon",
+        "first",
+        "more than half",
+        "second",
+        "the Croatia Protocol",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ERC": 6,
+      "ETH Zurich": 4,
+      "ETH": 4,
+      "Switzerland": 3,
+      "LHC": 2,
+      "Earth": 2,
+      "En News": 1,
+      "the European Research Area": 1,
+      "the European Research Council": 1,
+      "CHF 2.2 million": 1,
+      "CHF": 1,
+      "3.8 million": 1,
+      "five years": 1,
+      "Seventeen": 1,
+      "88%": 1,
+      "second": 1,
+      "more than half": 1,
+      "this year": 1,
+      "ETH Zurich’s": 1,
+      "Detlef Günther": 1
+    },
+    "total_entities": 64,
+    "unique_entities": 49
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "erc-advanced-grants.md",
+      "title": "En News Events/2016/04/erc Advanced Grants",
+      "language": "en",
+      "source_path": "en_news_events/2016/04/erc-advanced-grants.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2016",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Anastasiou",
+        "Andreas Hierlemann",
+        "Detlef Günther",
+        "ERC Advanced",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Johan Robertsson",
+        "Manfred Fiebig",
+        "Robertsson"
+      ],
+      "people_with_roles": {
+        "Anastasiou": [
+          "researcher",
+          "professor"
+        ],
+        "Andreas Hierlemann": [
+          "professor"
+        ],
+        "Detlef Günther": [
+          "Professor",
+          "president",
+          "professor"
+        ],
+        "ERC Advanced": [
+          "researcher",
+          "professor"
+        ],
+        "ETH Zurich": [
+          "president",
+          "researcher",
+          "professor"
+        ],
+        "Johan Robertsson": [
+          "professor"
+        ],
+        "Manfred Fiebig": [
+          "professor"
+        ],
+        "Robertsson": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "biology",
+        "physics",
+        "mathematics"
+      ],
+      "research_topics": [
+        "3.8 million",
+        "CO 2",
+        "European",
+        "Horizon 2020",
+        "Seventeen",
+        "Swiss",
+        "Telefon",
+        "first",
+        "more than half",
+        "second",
+        "the Croatia Protocol",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "Horizon",
+        "grant"
+      ],
+      "projects": [
+        "Franziska Schmid",
+        "Manfred Fiebig",
+        "Biosystems Science",
+        "Theoretical Particle",
+        "European Research",
+        "Vice President",
+        "Advanced Grants",
+        "Earth Sciences",
+        "Andreas Hierlemann",
+        "Charalampos Anastasiou",
+        "The ETH",
+        "National Council",
+        "Professor Detlef",
+        "ERC Advanced",
+        "Those ETH",
+        "ERC Starting",
+        "Croatia Protocol",
+        "Federal Council",
+        "The ERC",
+        "En News",
+        "Corporate Relations",
+        "Johan Robertsson",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Materials",
+        "Biosystems Science and Engineering of ETH Zurich in Basel",
+        "Earth Sciences"
+      ],
+      "institutions": [
+        "CHF",
+        "CHF 2.2 million",
+        "ERC",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Fiebig",
+        "LHC",
+        "Theoretical Particle Physics",
+        "the Department of Biosystems Science and Engineering",
+        "the Department of Earth Sciences",
+        "the Department of Materials",
+        "the European Research Area",
+        "the European Research Council",
+        "the Federal Council",
+        "the National Council"
+      ],
+      "locations": [
+        "Basel",
+        "CERN",
+        "Earth",
+        "Switzerland"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ERC",
+        "ETH Zurich",
+        "ETH",
+        "Switzerland",
+        "LHC",
+        "Earth",
+        "En News",
+        "the European Research Area",
+        "the European Research Council",
+        "CHF 2.2 million"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "ETH must remain attractive",
+          "Promise of full participation",
+          "Contact"
+        ],
+        "content_length": 6092
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Theoretical Particle Physics",
+        "ETH",
+        "CHF",
+        "grant",
+        "2020",
+        "2016",
+        "Manfred Fiebig",
+        "ETH Zurich’s",
+        "ERC",
+        "the Department of Biosystems Science and Engineering",
+        "Anastasiou",
+        "the Department of Earth Sciences",
+        "the National Council",
+        "LHC",
+        "Andreas Hierlemann",
+        "ERC Advanced",
+        "Robertsson",
+        "EU",
+        "the Federal Council",
+        "CHF 2.2 million",
+        "the European Research Council",
+        "Detlef Günther",
+        "the Department of Materials",
+        "the European Research Area",
+        "En News",
+        "Fiebig",
+        "Johan Robertsson",
+        "ETH Zurich",
+        "Horizon"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "the Croatia Protocol",
+        "when",
+        "engineering",
+        "more than half",
+        "biology",
+        "medical_research",
+        "mathematics",
+        "who",
+        "3.8 million",
+        "what",
+        "how",
+        "Telefon",
+        "CO 2",
+        "physics",
+        "first",
+        "Seventeen",
+        "Horizon 2020",
+        "Swiss",
+        "second",
+        "European",
+        "where"
+      ],
+      "graph_relations": [
+        "Anastasiou_has_role_researcher",
+        "Anastasiou_has_role_professor",
+        "Andreas Hierlemann_has_role_professor",
+        "Detlef Günther_has_role_Professor",
+        "Detlef Günther_has_role_president",
+        "Detlef Günther_has_role_professor",
+        "ERC Advanced_has_role_researcher",
+        "ERC Advanced_has_role_professor",
+        "ETH Zurich_has_role_president",
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_professor",
+        "Johan Robertsson_has_role_professor",
+        "Manfred Fiebig_has_role_professor",
+        "Robertsson_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

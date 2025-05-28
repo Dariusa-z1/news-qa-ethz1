@@ -1,0 +1,125 @@
+{
+  "filename": "de_internal_2014_07_neue-zeitschriften-online.md",
+  "original_filename": "de_internal_2014_07_neue-zeitschriften-online.html",
+  "source_path": "de_internal/2014/07/neue-zeitschriften-online.html",
+  "date": "2014-07",
+  "title": "Neue Zeitschriften Online",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der Zugriff ist online im Netzwerk der ETH Zürich oder in den Räumen der ETH-Bibliothek möglich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/07",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 39,
+        "end": 49
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 73,
+        "end": 87
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Bibliothek"
+      ],
+      "LOCATION": [
+        "De Internal/2014/07"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2014/07": 1,
+      "ETH Zürich": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2014_07_neue-zeitschriften-online.md",
+      "title": "De Internal/2014/07/neue Zeitschriften Online",
+      "language": "de",
+      "source_path": "de_internal/2014/07/neue-zeitschriften-online.html"
+    },
+    "temporal": {
+      "publication_date": "2014-07",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Zeitschriften Online",
+        "ETH-Bibliothek",
+        "De Internal",
+        "Der Zugriff"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Bibliothek"
+      ],
+      "locations": [
+        "De Internal/2014/07"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2014/07",
+        "ETH Zürich",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 142
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "EU",
+        "2014"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

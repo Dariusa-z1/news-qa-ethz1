@@ -1,0 +1,110 @@
+{
+  "filename": "e-books-from-series-detail-reference-books.md",
+  "original_filename": "e-books-from-series-detail-reference-books.html",
+  "source_path": "en_internal/2015/06/e-books-from-series-detail-reference-books.html",
+  "date": "2015-06",
+  "title": "E Books From Series Detail Reference Books",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Search for bestsellers like the Beton or the Fassaden Atlas on the Knowledge Portal.\n\nFor licensing reasons, access to this database is restricted to the domain ethz.ch."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Beton",
+        "label": "ORG",
+        "start": 32,
+        "end": 37
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Beton"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Beton": 1
+    },
+    "total_entities": 1,
+    "unique_entities": 1
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "e-books-from-series-detail-reference-books.md",
+      "title": "En Internal/2015/06/e Books From Series Detail Reference Books",
+      "language": "en",
+      "source_path": "en_internal/2015/06/e-books-from-series-detail-reference-books.html"
+    },
+    "temporal": {
+      "publication_date": "2015-06",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Books From",
+        "Fassaden Atlas",
+        "Series Detail",
+        "En Internal",
+        "Knowledge Portal",
+        "Reference Books"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Beton"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "why"
+      ],
+      "key_concepts": [
+        "Beton"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 232
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "Beton"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "why"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

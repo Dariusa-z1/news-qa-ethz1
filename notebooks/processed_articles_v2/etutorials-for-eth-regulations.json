@@ -1,0 +1,320 @@
+{
+  "filename": "etutorials-for-eth-regulations.md",
+  "original_filename": "etutorials-for-eth-regulations.html",
+  "source_path": "en_internal/2019/11/etutorials-for-eth-regulations.html",
+  "date": "2019-11",
+  "title": "Etutorials For Eth Regulations",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Learning based on practical cases",
+      "text": "What must you consider if you want to procure something at ETH Zurich? What is the minimum procurement value above which it must be put out to tender? And what does “special relationship” mean in this context? Or: what does it mean for me if a product to be procured is subject to export control? How much am I allowed to spend on a Christmas dinner with my team?\n\nA new e-learning programme developed by the Financial Services department enables ETH employees to find their way around the regulatory ETH environment, showing where particular care and attention is required. It complements the existing Compliance Guide, which is available online and in print. It is modular in design and tailored to the everyday activities of ETH management and employees in research, teaching and administration."
+    },
+    {
+      "heading": "Learning based on practical cases",
+      "text": "The e-learning service allows you to choose whether to work on a specific topic or go through all areas relating to compliance. Each learning module starts with an introductory video that describes the topic’s regulatory situation and embeds it in its context. Participants are then faced with typical situations using specific case studies that require answers to practical questions.\n\nThe tutorial is designed to cover the most important regulated topics at ETH Zurich. Besides the issue of procurement mentioned above, there are also modules on Professional Expenses, Export Controls and Integrity in Research. The service is continuously updated and expanded."
+    },
+    {
+      "heading": "Quarter of an hour well spent",
+      "text": "In addition, short film sequences with ETH professors and staff describe how to handle export control clauses in contracts with foreign partners, and the steps to be taken when processing credit card transactions. The course is rounded off with an info tool, which contains further information, legal basics, tips and contacts for the relevant offices. The e-learning service can also be accessed via smartphone. Each module takes between 15 and 20 minutes to complete.\n\n“Responsible, independent action is one of ETH Zurich’s key strengths. It enables flexibility and lean, effective processes. And that in turn greatly benefits our core scientific mission,\" says Robert Perich, Vice President of Finance and Controlling, who is responsible for compliance on the Executive Board."
+    },
+    {
+      "heading": "Correct behaviour boosts reputation",
+      "text": "But personal responsibility also means internalising the rules that must be taken into account during the work process. “I would therefore urge all ETH members, in particular managers, to take the necessary time to learn about compliance using e-learning. After all, our actions have a direct impact on the reputation of the entire institution,” says Perich, adding: “When implemented across the board, compliance makes an important contribution to a good working climate at ETH Zurich and strengthens individual responsibility at all levels.”"
+    },
+    {
+      "heading": "Staffnet",
+      "text": "This QR code will take you directly to the compliance e-learning services offered by ETH Zurich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 59,
+        "end": 69
+      },
+      {
+        "text": "Christmas",
+        "label": "DATE",
+        "start": 333,
+        "end": 342
+      },
+      {
+        "text": "Financial Services",
+        "label": "ORG",
+        "start": 408,
+        "end": 426
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 446,
+        "end": 449
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 500,
+        "end": 503
+      },
+      {
+        "text": "Compliance Guide",
+        "label": "PERSON",
+        "start": 602,
+        "end": 618
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 727,
+        "end": 730
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 459,
+        "end": 469
+      },
+      {
+        "text": "Professional Expenses, Export Controls and Integrity in Research",
+        "label": "ORG",
+        "start": 547,
+        "end": 611
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "text": "between 15 and 20 minutes",
+        "label": "DATE",
+        "start": 431,
+        "end": 456
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 506,
+        "end": 509
+      },
+      {
+        "text": "Robert Perich",
+        "label": "PERSON",
+        "start": 664,
+        "end": 677
+      },
+      {
+        "text": "Finance",
+        "label": "ORG",
+        "start": 697,
+        "end": 704
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 759,
+        "end": 778
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 148,
+        "end": 151
+      },
+      {
+        "text": "Perich",
+        "label": "PERSON",
+        "start": 351,
+        "end": 357
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 475,
+        "end": 485
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 85,
+        "end": 95
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Compliance Guide",
+        "ETH Zurich",
+        "Perich",
+        "Robert Perich"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Finance",
+        "Financial Services",
+        "Professional Expenses, Export Controls and Integrity in Research",
+        "the Executive Board"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Christmas",
+        "between 15 and 20 minutes"
+      ],
+      "MISC": [
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "ETH Zurich": 4,
+      "Christmas": 1,
+      "Financial Services": 1,
+      "Compliance Guide": 1,
+      "Professional Expenses, Export Controls and Integrity in Research": 1,
+      "between 15 and 20 minutes": 1,
+      "one": 1,
+      "Robert Perich": 1,
+      "Finance": 1,
+      "the Executive Board": 1,
+      "Perich": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "etutorials-for-eth-regulations.md",
+      "title": "En Internal/2019/11/etutorials For Eth Regulations",
+      "language": "en",
+      "source_path": "en_internal/2019/11/etutorials-for-eth-regulations.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between"
+    },
+    "people": {
+      "mentioned_people": [
+        "Compliance Guide",
+        "ETH Zurich",
+        "Perich",
+        "Robert Perich"
+      ],
+      "people_with_roles": {
+        "Perich": [
+          "president"
+        ],
+        "Robert Perich": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "This QR",
+        "For Eth",
+        "Compliance Guide",
+        "Regulations What",
+        "Financial Services",
+        "Export Controls",
+        "Robert Perich",
+        "Vice President",
+        "Professional Expenses",
+        "Executive Board",
+        "En Internal",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Finance",
+        "Financial Services",
+        "Professional Expenses, Export Controls and Integrity in Research",
+        "the Executive Board"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Zurich",
+        "Christmas",
+        "Financial Services",
+        "Compliance Guide",
+        "Professional Expenses, Export Controls and Integrity in Research",
+        "between 15 and 20 minutes",
+        "one",
+        "Robert Perich",
+        "Finance"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Learning based on practical cases",
+          "Learning based on practical cases",
+          "Quarter of an hour well spent",
+          "Correct behaviour boosts reputation",
+          "Staffnet"
+        ],
+        "content_length": 2935
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Professional Expenses, Export Controls and Integrity in Research",
+        "Compliance Guide",
+        "Financial Services",
+        "Robert Perich",
+        "Perich",
+        "2019",
+        "the Executive Board",
+        "Finance",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Perich_has_role_president",
+        "Robert Perich_has_role_president",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

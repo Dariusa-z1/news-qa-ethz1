@@ -1,0 +1,259 @@
+{
+  "filename": "workshop-platform-design-and-development.md",
+  "original_filename": "workshop-platform-design-and-development.html",
+  "source_path": "en_internal/2021/07/workshop-platform-design-and-development.html",
+  "date": "2021-07",
+  "title": "Workshop Platform Design And Development",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "From the customer's sketch to the finished product",
+      "text": "- standard-compliant detailed drawings\n\n- cost-effective designs\n\n- completion and support for projects\n\n- design of mechanical components\n\n- design of entire systems\n\nSince April this year, customers can call on the Workshop Platform for assistance with their design and development projects. In a short period of time, the ETH technology platform has developed into a full-service provider (FSP). Its extensive offering is primarily for all ETH researchers, who now have low-threshold, uncomplicated access to the new specialist area of design and development. The design unit works with the SolidWorks 2020 CAD system but can read and process various CAD data."
+    },
+    {
+      "heading": "About the Workshop Platform",
+      "text": "“We’ll work with you to come up with a viable design idea, and then help put it into practice. Our in-depth expertise means we can implement designs, manufacture components or simply advise you on the process”, says Peter Stäuble, Workshop Platform manager. To keep this assistance cost-effective, we only charge for the items you require."
+    },
+    {
+      "heading": "Our expertise",
+      "text": "Whether it’s for a design, a finished component or a consultation – the Workshop Platform team is looking forward to receiving your order! Just get in touch with us via email ."
+    },
+    {
+      "heading": "About the Workshop Platform",
+      "text": "The Workshop Platform The Workshop Platform serves as the central contact and coordination point for all workshop-related matters at ETH Zurich. Our services range from personal consultations to placing manufacturing orders in affiliated and external partner workshops.\n\nThe servise service is currently in its start-up phase. Thank you for your patience in case of waiting times."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Platform Design And Development",
+        "label": "ORG",
+        "start": 29,
+        "end": 60
+      },
+      {
+        "text": "April this year",
+        "label": "DATE",
+        "start": 169,
+        "end": 184
+      },
+      {
+        "text": "the Workshop Platform",
+        "label": "FAC",
+        "start": 208,
+        "end": 229
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 320,
+        "end": 323
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 438,
+        "end": 441
+      },
+      {
+        "text": "SolidWorks",
+        "label": "ORG",
+        "start": 589,
+        "end": 599
+      },
+      {
+        "text": "CAD",
+        "label": "ORG",
+        "start": 605,
+        "end": 608
+      },
+      {
+        "text": "CAD",
+        "label": "ORG",
+        "start": 649,
+        "end": 652
+      },
+      {
+        "text": "Peter Stäuble",
+        "label": "PERSON",
+        "start": 216,
+        "end": 229
+      },
+      {
+        "text": "Workshop Platform",
+        "label": "ORG",
+        "start": 231,
+        "end": 248
+      },
+      {
+        "text": "the Workshop Platform",
+        "label": "FAC",
+        "start": 68,
+        "end": 89
+      },
+      {
+        "text": "The Workshop Platform The Workshop Platform",
+        "label": "ORG",
+        "start": 0,
+        "end": 43
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 133,
+        "end": 143
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Peter Stäuble"
+      ],
+      "ORG": [
+        "CAD",
+        "ETH",
+        "ETH Zurich",
+        "Platform Design And Development",
+        "SolidWorks",
+        "The Workshop Platform The Workshop Platform",
+        "Workshop Platform"
+      ],
+      "LOCATION": [
+        "the Workshop Platform"
+      ],
+      "DATE": [
+        "April this year"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "the Workshop Platform": 2,
+      "ETH": 2,
+      "CAD": 2,
+      "Platform Design And Development": 1,
+      "April this year": 1,
+      "SolidWorks": 1,
+      "Peter Stäuble": 1,
+      "Workshop Platform": 1,
+      "The Workshop Platform The Workshop Platform": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "workshop-platform-design-and-development.md",
+      "title": "En Internal/2021/07/workshop Platform Design And Development",
+      "language": "en",
+      "source_path": "en_internal/2021/07/workshop-platform-design-and-development.html"
+    },
+    "temporal": {
+      "publication_date": "2021-07",
+      "mentioned_years": [
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Peter Stäuble"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "The Workshop",
+        "Platform Design",
+        "Platform The",
+        "En Internal",
+        "Since April",
+        "And Development",
+        "ETH Zurich",
+        "Workshop Platform"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CAD",
+        "ETH",
+        "ETH Zurich",
+        "Platform Design And Development",
+        "SolidWorks",
+        "The Workshop Platform The Workshop Platform",
+        "Workshop Platform"
+      ],
+      "locations": [
+        "the Workshop Platform"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "the Workshop Platform",
+        "ETH",
+        "CAD",
+        "Platform Design And Development",
+        "April this year",
+        "SolidWorks",
+        "Peter Stäuble",
+        "Workshop Platform",
+        "The Workshop Platform The Workshop Platform",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "From the customer's sketch to the finished product",
+          "About the Workshop Platform",
+          "Our expertise",
+          "About the Workshop Platform"
+        ],
+        "content_length": 1622
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "SolidWorks",
+        "The Workshop Platform The Workshop Platform",
+        "Platform Design And Development",
+        "CAD",
+        "2020",
+        "Peter Stäuble",
+        "ETH Zurich",
+        "2021",
+        "Workshop Platform"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "how",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

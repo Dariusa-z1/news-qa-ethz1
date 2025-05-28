@@ -1,0 +1,318 @@
+{
+  "filename": "de_news_events_2018_05_de-vigier.md",
+  "original_filename": "de_news_events_2018_05_de-vigier.html",
+  "source_path": "de_news_events/2018/05/de-vigier.html",
+  "date": "2018-05",
+  "title": "De Vigier",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Tragbare Muskeln für Menschen mit Bewegungseinschränkungen",
+      "text": "Über 220 Projekte wurden für den W.A. de Vigier Preis 2018 eingereicht. Eine Jury evaluierte daraus im Februar 16 Firmen für die nächste Runde. Diese durchliefen ein Assessment und präsentierten ihre Ideen vor dem Stiftungsrat, der die 10 Finalisten wählte, aus denen schliesslich die fünf Gewinnerinnen und Gewinner gekürt wurden. Bei der Projektbeurteilung fallen folgende Faktoren ins Gewicht: Die Unternehmerpersönlichkeit, der Innovationscharakter, die gesamtgesellschaftliche Relevanz, die technische und finanzielle Realisierbarkeit sowie Marktchancen und der Arbeitsbeschaffungseffekt.\n\nZu den fünf Gewinnern zählen neben der AUDATIC GmbH aus Zürich, INVOLI aus Renens und SUN bioscience aus Lausanne auch zwei Spin-offs der ETH Zürich."
+    },
+    {
+      "heading": "Tragbare Muskeln für Menschen mit Bewegungseinschränkungen",
+      "text": "externe Seite Myoswiss entwickelt den Myosuit: Eine Kleidungsschicht aus tragbaren Muskeln, die alltägliche Aktivitäten unterstützt. Die Lösung kombiniert Robotik und funktionelle Textilien in einem bequemen Produkt, das weniger als fünf Kilogramm wiegt. Neuartige Algorithmen gekoppelt mit Sensorik und Aktorik kontrollieren die unterstützenden Kräfte während den Bewegungen des Nutzers. Der Myosuit schaffte es bereits 2017 in den Final des Spark Award."
+    },
+    {
+      "heading": "Eine neue Generation von Kabeln",
+      "text": "Kabel sind anfällig. Dies ist z.B. bei medizinischen Geräten oder Fabrikrobotern ein Problem. externe Seite nanoleq entwickelte eine fundamental neue Art von Kabeltechnologie. Unter mechanischer Belastung weist das FlexOne Kabel eine bis zu hundertmal höhere Lebensdauer auf als ein Standardkabel und behält seine hohe Flexibilität. Die Zielmärkte von nanoleq liegen in der Medizinaltechnik, in high-end Audioanwendungen und in der Robotik.\n\nDer W.A. de Vigier Förderpreis ist die älteste und mit jährlich CHF 500.000 Preisgeldern die höchstdotierte Auszeichnung für Jungunternehmungen in der Schweiz. Seit ihrem 29-jährigen Bestehen hat die Stiftung insgesamt über 11 Millionen Franken Startkapital verteilt. Daraus resultierten bis heute rund 84 erfolgreiche Startups, mehrere Börsengänge, einträgliche Firmenverkäufe und vor allem zahlreiche neue Arbeitsplätze."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "W.A. de Vigier",
+        "label": "MISC",
+        "start": 33,
+        "end": 47
+      },
+      {
+        "text": "Stiftungsrat",
+        "label": "MISC",
+        "start": 214,
+        "end": 226
+      },
+      {
+        "text": "Projektbeurteilung",
+        "label": "MISC",
+        "start": 340,
+        "end": 358
+      },
+      {
+        "text": "Innovationscharakter",
+        "label": "PER",
+        "start": 432,
+        "end": 452
+      },
+      {
+        "text": "Marktchancen",
+        "label": "PER",
+        "start": 546,
+        "end": 558
+      },
+      {
+        "text": "AUDATIC GmbH",
+        "label": "ORG",
+        "start": 633,
+        "end": 645
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 650,
+        "end": 656
+      },
+      {
+        "text": "Renens",
+        "label": "LOC",
+        "start": 669,
+        "end": 675
+      },
+      {
+        "text": "SUN bioscience",
+        "label": "ORG",
+        "start": 680,
+        "end": 694
+      },
+      {
+        "text": "Lausanne",
+        "label": "LOC",
+        "start": 699,
+        "end": 707
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 732,
+        "end": 742
+      },
+      {
+        "text": "Myoswiss",
+        "label": "PER",
+        "start": 14,
+        "end": 22
+      },
+      {
+        "text": "Myosuit",
+        "label": "MISC",
+        "start": 393,
+        "end": 400
+      },
+      {
+        "text": "Spark Award",
+        "label": "LOC",
+        "start": 443,
+        "end": 454
+      },
+      {
+        "text": "FlexOne Kabel",
+        "label": "MISC",
+        "start": 215,
+        "end": 228
+      },
+      {
+        "text": "W.A. de Vigier",
+        "label": "MISC",
+        "start": 445,
+        "end": 459
+      },
+      {
+        "text": "CHF",
+        "label": "MISC",
+        "start": 505,
+        "end": 508
+      },
+      {
+        "text": "Jungunternehmungen in der Schweiz",
+        "label": "MISC",
+        "start": 566,
+        "end": 599
+      },
+      {
+        "text": "Franken Startkapital",
+        "label": "ORG",
+        "start": 678,
+        "end": 698
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Innovationscharakter",
+        "Marktchancen",
+        "Myoswiss"
+      ],
+      "ORG": [
+        "AUDATIC GmbH",
+        "ETH Zürich",
+        "Franken Startkapital",
+        "SUN bioscience"
+      ],
+      "LOCATION": [
+        "Lausanne",
+        "Renens",
+        "Spark Award",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CHF",
+        "FlexOne Kabel",
+        "Jungunternehmungen in der Schweiz",
+        "Myosuit",
+        "Projektbeurteilung",
+        "Stiftungsrat",
+        "W.A. de Vigier"
+      ]
+    },
+    "entity_counts": {
+      "W.A. de Vigier": 2,
+      "De News": 1,
+      "Stiftungsrat": 1,
+      "Projektbeurteilung": 1,
+      "Innovationscharakter": 1,
+      "Marktchancen": 1,
+      "AUDATIC GmbH": 1,
+      "Zürich": 1,
+      "Renens": 1,
+      "SUN bioscience": 1,
+      "Lausanne": 1,
+      "ETH Zürich": 1,
+      "Myoswiss": 1,
+      "Myosuit": 1,
+      "Spark Award": 1,
+      "FlexOne Kabel": 1,
+      "CHF": 1,
+      "Jungunternehmungen in der Schweiz": 1,
+      "Franken Startkapital": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2018_05_de-vigier.md",
+      "title": "De News Events/2018/05/de Vigier",
+      "language": "de",
+      "source_path": "de_news_events/2018/05/de-vigier.html"
+    },
+    "temporal": {
+      "publication_date": "2018-05",
+      "mentioned_years": [
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Innovationscharakter",
+        "Marktchancen",
+        "Myoswiss"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "FlexOne Kabel",
+        "Jungunternehmungen in der Schweiz",
+        "Myosuit",
+        "Projektbeurteilung",
+        "Stiftungsrat",
+        "W.A. de Vigier"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Eine Jury",
+        "Eine Kleidungsschicht",
+        "Neuartige Algorithmen",
+        "Seite Myoswiss",
+        "Vigier Preis",
+        "Der Myosuit",
+        "Spark Award",
+        "FlexOne Kabel",
+        "AUDATIC GmbH",
+        "De News",
+        "Der W",
+        "Millionen Franken"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AUDATIC GmbH",
+        "ETH Zürich",
+        "Franken Startkapital",
+        "SUN bioscience"
+      ],
+      "locations": [
+        "Lausanne",
+        "Renens",
+        "Spark Award",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "W.A. de Vigier",
+        "De News",
+        "Stiftungsrat",
+        "Projektbeurteilung",
+        "Innovationscharakter",
+        "Marktchancen",
+        "AUDATIC GmbH",
+        "Zürich",
+        "Renens",
+        "SUN bioscience"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Tragbare Muskeln für Menschen mit Bewegungseinschränkungen",
+          "Tragbare Muskeln für Menschen mit Bewegungseinschränkungen",
+          "Eine neue Generation von Kabeln"
+        ],
+        "content_length": 2098
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "SUN bioscience",
+        "2017",
+        "Myoswiss",
+        "EU",
+        "Innovationscharakter",
+        "ETH Zürich",
+        "AUDATIC GmbH",
+        "De News",
+        "Marktchancen",
+        "Franken Startkapital"
+      ],
+      "semantic_concepts": [
+        "Stiftungsrat",
+        "FlexOne Kabel",
+        "Jungunternehmungen in der Schweiz",
+        "Myosuit",
+        "W.A. de Vigier",
+        "Projektbeurteilung"
+      ],
+      "graph_relations": []
+    }
+  }
+}

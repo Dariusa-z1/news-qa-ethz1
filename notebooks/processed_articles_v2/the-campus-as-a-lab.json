@@ -1,0 +1,271 @@
+{
+  "filename": "the-campus-as-a-lab.md",
+  "original_filename": "the-campus-as-a-lab.html",
+  "source_path": "en_internal/2015/06/the-campus-as-a-lab.html",
+  "date": "2015-06",
+  "title": "The Campus As A Lab",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "At the heart of June's issue of life , the ETH community magazine, is an exploration of the ways in which ETH Zurich's scientists take experiences from everyday life at the university and apply it to their research. Both the Hönggerberg and Zentrum campuses are providing intriguing testing grounds for matters of sustainability – like the sustainable gardening projects taking place across the university's numerous green spaces.\n\nAt the start of the year, Lino Guzzella took the helm as president of ETH Zurich. In conversation with life , he talks about his responsibilities and why it is so important for ETH to stand out from other universities in today's competitive global environment.\n\nAlso in focus is the subject of threat management: Katherine Timmel, head of the Safety, Security, Health and Environment (SSHE) staff unit at ETH Zurich, explains what ETH members can do to prevent violence on campus."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "June",
+        "label": "DATE",
+        "start": 16,
+        "end": 20
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 43,
+        "end": 46
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "ORG",
+        "start": 106,
+        "end": 118
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 225,
+        "end": 236
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 241,
+        "end": 248
+      },
+      {
+        "text": "the start of the year",
+        "label": "DATE",
+        "start": 434,
+        "end": 455
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 457,
+        "end": 470
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 501,
+        "end": 511
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 608,
+        "end": 611
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 652,
+        "end": 657
+      },
+      {
+        "text": "Katherine Timmel",
+        "label": "PERSON",
+        "start": 743,
+        "end": 759
+      },
+      {
+        "text": "the Safety, Security, Health and Environment",
+        "label": "ORG",
+        "start": 769,
+        "end": 813
+      },
+      {
+        "text": "SSHE",
+        "label": "ORG",
+        "start": 815,
+        "end": 819
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 835,
+        "end": 845
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 861,
+        "end": 864
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hönggerberg",
+        "Katherine Timmel",
+        "Lino Guzzella",
+        "Zentrum"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich's",
+        "SSHE",
+        "the Safety, Security, Health and Environment"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "June",
+        "the start of the year",
+        "today"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "ETH Zurich": 2,
+      "June": 1,
+      "ETH Zurich's": 1,
+      "Hönggerberg": 1,
+      "Zentrum": 1,
+      "the start of the year": 1,
+      "Lino Guzzella": 1,
+      "today": 1,
+      "Katherine Timmel": 1,
+      "the Safety, Security, Health and Environment": 1,
+      "SSHE": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-campus-as-a-lab.md",
+      "title": "En Internal/2015/06/the Campus As A Lab",
+      "language": "en",
+      "source_path": "en_internal/2015/06/the-campus-as-a-lab.html"
+    },
+    "temporal": {
+      "publication_date": "2015-06",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Hönggerberg",
+        "Katherine Timmel",
+        "Lino Guzzella",
+        "Zentrum"
+      ],
+      "people_with_roles": {
+        "Katherine Timmel": [
+          "head"
+        ],
+        "Lino Guzzella": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "head",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Campus As",
+        "Katherine Timmel",
+        "A Lab",
+        "En Internal",
+        "Lino Guzzella",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich's",
+        "SSHE",
+        "the Safety, Security, Health and Environment"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Zurich",
+        "June",
+        "ETH Zurich's",
+        "Hönggerberg",
+        "Zentrum",
+        "the start of the year",
+        "Lino Guzzella",
+        "today",
+        "Katherine Timmel"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 952
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "ETH",
+        "2015",
+        "SSHE",
+        "Katherine Timmel",
+        "the Safety, Security, Health and Environment",
+        "Zentrum",
+        "Lino Guzzella",
+        "ETH Zurich",
+        "ETH Zurich's"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "medical_research",
+        "climate_change",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Katherine Timmel_has_role_head",
+        "Lino Guzzella_has_role_president",
+        "research_domain_climate_change",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

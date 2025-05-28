@@ -1,0 +1,215 @@
+{
+  "filename": "der-sinn-der-nachhaltigkeit.md",
+  "original_filename": "der-sinn-der-nachhaltigkeit.html",
+  "source_path": "en_news_events/2013/10/der-sinn-der-nachhaltigkeit.html",
+  "date": "2013-10",
+  "title": "Der Sinn Der Nachhaltigkeit",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Neo-classical versus evolutionary economics",
+      "text": "Especially since the first answer I myself heard to this question, twenty years ago when “sustainable development” was a relatively new concept, was “no.”\n\nThe no answer came from a professor of environmental and resource economics, and his reasoning had to do with the distinction between the sustainability of a particular environmental resource, and the sustainability of overall societal welfare. Inexpensive fossil fuels, for example, may have enabled people to be highly productive, to become wealthy, and with that wealth to invent and then invest in the next generation energy system, in which fossil fuels are no longer needed. The exhaustion of some resources may be a precondition to higher levels of future welfare, as much as exhausting the food on her plate may be a child’s precondition to enjoying dessert. Moreover, market prices for resources become higher the scarcer a given resource is perceived to be, and this means that the closer a resource is to exhaustion, the fewer are the number of people who can or want to afford it. As a consequence, the only resources people will completely exhaust are either those of little or no economic value, or ones for which substitutes are available. So really there is no need to worry."
+    },
+    {
+      "heading": "Neo-classical versus evolutionary economics",
+      "text": "That particular professor was an extreme example of a neo-classical economist. These economists start with a set of reasonable assumptions about human behavior, which they formalize mathematically. Building on these, they show that a market economy, endowed with a set of resources, technologies, and the skills of its workers, will allocate those resources in a manner that is efficient, making people about as well off as possible. The threats to that efficiency come from cases where markets are incomplete. Pollution is one example. A messy factory can dump pollution on its neighbors, and not have to pay for the consequences. The simple solution of neoclassical economics is to create a legal regime in which they do need to pay, such as through a pollution tax, or by having to purchase, in advance, rights to pollute.\n\nBut neo-classical economists are not alone. Evolutionary economics, for example, is a fairly recent branch that explicitly considers the case of technological change, and how people learn to use technologies in real time. They show that in many cases people get “locked in” to using inferior technologies, when it pays to stick with them because they are familiar, and everyone else is using them. Because of this, the market may settle into one of many different equilibria, some delivering much higher welfare than others, in a way that is hard or even impossible to predict. Political interventions can succeed in pulling society out of a bad equilibrium and into a better one, but they typically need to overcome several different barriers to change. These barriers may be economic, but they also may be social, psychological, or institutional."
+    },
+    {
+      "heading": "Obstacles and opportunities",
+      "text": "Returning to the example of the energy system, for example, our society may be depleting one resource (fossil fuels), and almost certainly seems to be destroying another one (a predictable climate) through carbon pollution. Neo-classical economists aren’t too worried about the depletion problem, and they suggest it is possible to fix the pollution problem by putting a price on carbon emissions. From an evolutionary perspective, however, there is reason to worry about the depletion problem, and reason to suspect that the market solution to the pollution problem may be insufficient. Just because renewable energy substitutes exist, it doesn’t mean that people can easily take advantage of them. Living in Canton Zurich, for example, I commute to work on a train powered largely by renewable energy. In the country I moved from, there was no direct train, and so even though it was expensive, I frequently commuted by car. Laying a new train track, meanwhile, would be economically and politically difficult, as what was thirty years ago open farmland is now densely populated. In that country there seems no escape from both carbon emissions and fuel prices continuing to rise, making everyone worse off.\n\nIn an abstract world of idealized human behavior, sustainability may not make sense. In our real one it does, and people paint themselves into corners not because of stupidity, but because the world’s floor plan is incredibly complicated, and constantly changing. Science and technology can help us to avoid some traps, and help us to get out of others. But the solutions usually need to address many different barriers to change, and for that reason it is so important for many different fields of science and technology, including the science of human behavior and institutions, to communicate with each other. That is what this new blog of ETH Zurich is about."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Sinn",
+        "label": "NORP",
+        "start": 27,
+        "end": 31
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 21,
+        "end": 26
+      },
+      {
+        "text": "twenty years ago",
+        "label": "DATE",
+        "start": 67,
+        "end": 83
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 524,
+        "end": 527
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1268,
+        "end": 1271
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 89,
+        "end": 92
+      },
+      {
+        "text": "Canton Zurich",
+        "label": "GPE",
+        "start": 710,
+        "end": 723
+      },
+      {
+        "text": "thirty years ago",
+        "label": "DATE",
+        "start": 1025,
+        "end": 1041
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1853,
+        "end": 1863
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "Canton Zurich"
+      ],
+      "DATE": [
+        "thirty years ago",
+        "twenty years ago"
+      ],
+      "MISC": [
+        "Sinn",
+        "first",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "one": 3,
+      "Sinn": 1,
+      "first": 1,
+      "twenty years ago": 1,
+      "Canton Zurich": 1,
+      "thirty years ago": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "der-sinn-der-nachhaltigkeit.md",
+      "title": "En News Events/2013/10/der Sinn der Nachhaltigkeit",
+      "language": "en",
+      "source_path": "en_news_events/2013/10/der-sinn-der-nachhaltigkeit.html"
+    },
+    "temporal": {
+      "publication_date": "2013-10",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Sinn",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Nachhaltigkeit Especially",
+        "ETH Zurich",
+        "Canton Zurich",
+        "En News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Canton Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "one",
+        "Sinn",
+        "first",
+        "twenty years ago",
+        "Canton Zurich",
+        "thirty years ago",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Neo-classical versus evolutionary economics",
+          "Neo-classical versus evolutionary economics",
+          "Obstacles and opportunities"
+        ],
+        "content_length": 4849
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "2013",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "who",
+        "Sinn",
+        "what",
+        "how",
+        "climate_change",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

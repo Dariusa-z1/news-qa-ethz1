@@ -1,0 +1,357 @@
+{
+  "filename": "bacteria-reveal-strong-individuality-when-navigating-a-maze.md",
+  "original_filename": "bacteria-reveal-strong-individuality-when-navigating-a-maze.html",
+  "source_path": "en_news_events/2019/04/bacteria-reveal-strong-individuality-when-navigating-a-maze.html",
+  "date": "2019-04",
+  "title": "Bacteria Reveal Strong Individuality When Navigating A Maze",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Microbes in the T-maze",
+      "text": "Although they are considered the simplest of all life forms, even microorganisms sense their environment and are able to actively move within it. This allows them to identify both food and harmful substances and to move towards or away from them, guided by the concentration gradient of the substance in their environment. The journey of many microbes can thus be viewed as a sequence of decisions based on chemical gradients.\n\nThe ability of cells to target or avoid particular substances is called chemotaxis. Until now, scientists have generally considered the chemotactic properties of bacteria to be a common feature of a species or population – as if all cells behaved more or less the same. In this case, average values are sufficient to describe their movement behaviour. Now, researchers at ETH Zurich have observed the chemotaxis of bacteria in a behavioural experiment. “If you look with the appropriate technology, you’ll find astonishing behavioural differences even within a population of genetically identical cells,” report Mehdi Salek and Francesco Carrara, the lead authors of a study recently published in Nature Communications ."
+    },
+    {
+      "heading": "Successful population of individualists",
+      "text": "Together with their colleagues in the research group led by Professor Roman Stocker at the Institute of Environmental Engineering, they have developed a special microfluidic system that allows them to observe the movement of thousands of individual bacteria in a liquid at extremely small scales. The system comprises a series of narrow channels that branch out on to a thin glass plate to form a sort of microscopic maze through which the bacteria swim.\n\nSuch mazes are often used in experimental studies of the behavioural preferences of other organisms, such as insects or worms (and also plant roots). With their microfluidic system, the ETH researchers were able for the first time to apply this traditional tool of ecologists on a microscopic scale. Their maze resembles a family tree, with a starting channel that branches out again and again towards the bottom, where the concentration of a chemical attractant is at its highest."
+    },
+    {
+      "heading": "Decisions at the fork in the road",
+      "text": "The bacteria all start in the same place – and visibly divide up within the channel system as they are forced to decide at each fork whether to swim up or down the gradient of attractant. The bacteria owe their chemotactic abilities to specialised receptors that allow them to identify the attractant. In addition, they have about half a dozen flagella, which can rotate either clockwise or anti-clockwise. “Based on this, the bacterium changes its direction or continues to swim in one direction,” explain Salek and Carrara.\n\nEven within a group of genetically identical cells – that is, clones – the ETH researchers found individuals that were able to follow the attractant well (by navigating towards the higher concentration whenever they came to a fork), and those that were less able to negotiate the maze. The scientists attribute these behavioural differences to variations in the genetic activity of identical genes in sister cells. This means the cells have different amounts of the corresponding proteins. “There is biochemical noise in every cell. As a fundamental random component, this causes diversity of appearance and behaviour,” say the researchers.\n\nDiversity, or heterogeneity, of chemotaxis may provide an evolutionary advantage for the bacteria, since although those skilled at chemotaxis can quickly locate and exploit locally stable food sources, their sister cells less affected by the attractant are more likely to venture into new territory, where they may encounter additional food sources in a constantly changing environment.\n\n“Non-genetic diversity has long been known in the biomedical life sciences; for example, it is thought to play a role in antibiotic resistance. Now, environmental scientists have shown that this diversity also affects fundamental behaviours of bacteria, such as locomotion and chemotaxis – further expanding the concept of bacterial individuality,” says Stocker. He assumes that the varying individual behaviour of bacteria may also be relevant to gaining a better understanding of processes such as the pathogenic infection of corals or the bioremediation of oil spills.\n\nSalek MM, Carrara F, Fernandez V, Guasto JS, Stocker R: Bacterial chemotaxis in a microfluidic T-maze reveals strong phenotypic heterogeneity in chemotactic sensitivity. Nature Communications, 23 April 2019, doi: 10.1038/s41467-019-09521-2"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Reveal Strong",
+        "label": "ORG",
+        "start": 32,
+        "end": 45
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 799,
+        "end": 809
+      },
+      {
+        "text": "Mehdi Salek",
+        "label": "PERSON",
+        "start": 1039,
+        "end": 1050
+      },
+      {
+        "text": "Francesco Carrara",
+        "label": "PERSON",
+        "start": 1055,
+        "end": 1072
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1124,
+        "end": 1145
+      },
+      {
+        "text": "Roman Stocker",
+        "label": "PERSON",
+        "start": 70,
+        "end": 83
+      },
+      {
+        "text": "the Institute of Environmental Engineering",
+        "label": "ORG",
+        "start": 87,
+        "end": 129
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 225,
+        "end": 234
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 641,
+        "end": 644
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 675,
+        "end": 680
+      },
+      {
+        "text": "about half a dozen",
+        "label": "CARDINAL",
+        "start": 325,
+        "end": 343
+      },
+      {
+        "text": "Salek",
+        "label": "NORP",
+        "start": 507,
+        "end": 512
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 601,
+        "end": 604
+      },
+      {
+        "text": "Stocker",
+        "label": "PERSON",
+        "start": 1908,
+        "end": 1915
+      },
+      {
+        "text": "Salek MM",
+        "label": "PERSON",
+        "start": 2126,
+        "end": 2134
+      },
+      {
+        "text": "Carrara F",
+        "label": "PERSON",
+        "start": 2136,
+        "end": 2145
+      },
+      {
+        "text": "Stocker",
+        "label": "PERSON",
+        "start": 2171,
+        "end": 2178
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 2296,
+        "end": 2317
+      },
+      {
+        "text": "23 April 2019",
+        "label": "DATE",
+        "start": 2319,
+        "end": 2332
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2339,
+        "end": 2346
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Carrara F",
+        "Francesco Carrara",
+        "Mehdi Salek",
+        "Roman Stocker",
+        "Salek MM",
+        "Stocker"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Nature Communications",
+        "Reveal Strong",
+        "the Institute of Environmental Engineering"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "23 April 2019"
+      ],
+      "MISC": [
+        "10.1038",
+        "Salek",
+        "about half a dozen",
+        "first",
+        "thousands"
+      ]
+    },
+    "entity_counts": {
+      "Nature Communications": 2,
+      "ETH": 2,
+      "Stocker": 2,
+      "Reveal Strong": 1,
+      "ETH Zurich": 1,
+      "Mehdi Salek": 1,
+      "Francesco Carrara": 1,
+      "Roman Stocker": 1,
+      "the Institute of Environmental Engineering": 1,
+      "thousands": 1,
+      "first": 1,
+      "about half a dozen": 1,
+      "Salek": 1,
+      "Salek MM": 1,
+      "Carrara F": 1,
+      "23 April 2019": 1,
+      "10.1038": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "bacteria-reveal-strong-individuality-when-navigating-a-maze.md",
+      "title": "En News Events/2019/04/bacteria Reveal Strong Individuality When Navigating A Maze",
+      "language": "en",
+      "source_path": "en_news_events/2019/04/bacteria-reveal-strong-individuality-when-navigating-a-maze.html"
+    },
+    "temporal": {
+      "publication_date": "2019-04",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Carrara F",
+        "Francesco Carrara",
+        "Mehdi Salek",
+        "Roman Stocker",
+        "Salek MM",
+        "Stocker"
+      ],
+      "people_with_roles": {
+        "Roman Stocker": [
+          "Professor",
+          "professor"
+        ],
+        "Stocker": [
+          "scientist",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Salek",
+        "about half a dozen",
+        "first",
+        "thousands"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Stocker R",
+        "Environmental Engineering",
+        "Individuality When",
+        "Guasto JS",
+        "Mehdi Salek",
+        "En News",
+        "Fernandez V",
+        "Navigating A",
+        "Francesco Carrara",
+        "Reveal Strong",
+        "Professor Roman",
+        "Salek MM",
+        "Nature Communications",
+        "ETH Zurich",
+        "Carrara F",
+        "Maze Although"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Nature Communications",
+        "Reveal Strong",
+        "the Institute of Environmental Engineering"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Nature Communications",
+        "ETH",
+        "Stocker",
+        "Reveal Strong",
+        "ETH Zurich",
+        "Mehdi Salek",
+        "Francesco Carrara",
+        "Roman Stocker",
+        "the Institute of Environmental Engineering",
+        "thousands"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Microbes in the T-maze",
+          "Successful population of individualists",
+          "Decisions at the fork in the road"
+        ],
+        "content_length": 4539
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Mehdi Salek",
+        "2019",
+        "Roman Stocker",
+        "Francesco Carrara",
+        "Salek MM",
+        "Reveal Strong",
+        "Nature Communications",
+        "ETH Zurich",
+        "Carrara F",
+        "the Institute of Environmental Engineering",
+        "Stocker"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "Salek",
+        "who",
+        "thousands",
+        "10.1038",
+        "chemistry",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "where",
+        "about half a dozen"
+      ],
+      "graph_relations": [
+        "Roman Stocker_has_role_Professor",
+        "Roman Stocker_has_role_professor",
+        "Stocker_has_role_scientist",
+        "Stocker_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

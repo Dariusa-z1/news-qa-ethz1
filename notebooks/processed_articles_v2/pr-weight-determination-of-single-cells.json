@@ -1,0 +1,521 @@
+{
+  "filename": "pr-weight-determination-of-single-cells.md",
+  "original_filename": "pr-weight-determination-of-single-cells.html",
+  "source_path": "en_news_events/2017/10/pr-weight-determination-of-single-cells.html",
+  "date": "2017-10",
+  "title": "Pr Weight Determination Of Single Cells",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "New cell scale with high resolution",
+      "text": "From earthworms and sunflowers to human beings, we are all made up of cells, so it’s no surprise that researchers are hard at work investigating these building blocks of life. They have already discovered many of their secrets, but until now, it has not been possible to measure the weight of living cells and how it changes in real time, as no suitable method of measurement has existed."
+    },
+    {
+      "heading": "New cell scale with high resolution",
+      "text": "That has now changed: in collaboration with Christoph Gerber and Sascha Martin from the University of Basel and Jason Mercer from University College London, scientists from the biophysics research group, led by ETH professor Daniel J Müller, have developed a novel cell scale. This not only enables them to measure the mass of living cells within a very short time, but also to monitor how their weight changes over time. They can do so with a resolution of milliseconds and trillionths of a gram.\n\nThe cells, which usually weigh about two to three nanograms, are weighed under controlled conditions in a cell culture chamber. The weighing arm, a tiny wafer-thin, transparent silicon cantilever coated with collagen or fibronectin, is lowered to the floor of the chamber, where it nudges and picks up a cell. “The cell hangs on the underside of a tiny cantilever for the measurements,” says doctoral student Gotthold Fläschner, who co-invented and conducted most experiments using the new scale."
+    },
+    {
+      "heading": "Observing weight and cell activity at the same time",
+      "text": "The microscopic cantilever is induced to oscillate slightly by means of a pulsing blue laser at its fixed end. A second, infrared laser measures the oscillations at the other end, where the cell hangs – first without and then with the cell. “The cell’s mass can be calculated from the difference between the two oscillations,” explains David Martínez-Martín, main inventor of the cell scale.\n\nA computer screen shows the changing weight as a curve. Readings can be taken from this over the whole measuring period – whether that’s milliseconds or days. As the measuring apparatus, including the cell culture, is mounted directly on the object plate of a high-performance fluorescence microscope, internal processes in the cell can also be observed and filmed while measurements take place."
+    },
+    {
+      "heading": "Weight of living cells fluctuates",
+      "text": "This allows researchers to track, for example, how the weight changes during the cell cycle and cell division, the influence various substances have on the cell’s mass, and what happens when it is infected by a virus. Martínez-Martín and Fläschner have carried out many such experiments.\n\nOne particularly noteworthy observation: “We established that the weight of living cells fluctuates continuously by about one to four percent as they regulate their total weight,” says Martínez-Martín. Measuring errors have been ruled out: the biophysicists were able to prove that cells only stop these second-by-second fluctuations upon dying. The researchers are visibly excited. Fläschner: “We’re seeing things that nobody else has yet observed.”"
+    },
+    {
+      "heading": "High interest in cell scale",
+      "text": "There’s always high interest when ETH scientists report on a new development. “A cell’s mass is a very good indicator of its physiology,” explains Martínez-Martín. So it makes sense that biologists of all stripes are interested in the new measuring method. It may also be relevant to the medical and pharmaceutical sectors, as it could be used to investigate the pathological growth of cells and the influence of drugs on this growth.\n\nMore surprisingly, material scientists are also interested in the device. “For them, it’s about the functionalisation of nanoparticles – in other words, changing the surface of very small particles,” states Martínez-Martín.\n\nThe scientists are now introducing their invention to a broad scientific audience for the first time in the journal Nature . The new weighing method has been patented; nonetheless, the chances that scientists of various disciplines will soon be able to use the promising new cell scale themselves are good. The licensee, Swiss company Nanosurf AG , is already working to put the device into production.\n\nMartínez-Martín D, Fläschner G, Gaub B, Martin D, Newton R, Beerli C, Mercer J, Gerber C, Müller DJ. Inertial picobalance reveals fast mass fluctuations of mammalian cells. Nature, published online 25th Oct 2017, DOI: 10.1038/nature24288"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Christoph Gerber",
+        "label": "PERSON",
+        "start": 44,
+        "end": 60
+      },
+      {
+        "text": "Sascha Martin",
+        "label": "PERSON",
+        "start": 65,
+        "end": 78
+      },
+      {
+        "text": "the University of Basel",
+        "label": "ORG",
+        "start": 84,
+        "end": 107
+      },
+      {
+        "text": "Jason Mercer",
+        "label": "PERSON",
+        "start": 112,
+        "end": 124
+      },
+      {
+        "text": "University College London",
+        "label": "ORG",
+        "start": 130,
+        "end": 155
+      },
+      {
+        "text": "the biophysics research group",
+        "label": "ORG",
+        "start": 173,
+        "end": 202
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 211,
+        "end": 214
+      },
+      {
+        "text": "Daniel J Müller",
+        "label": "PERSON",
+        "start": 225,
+        "end": 240
+      },
+      {
+        "text": "about two to three",
+        "label": "CARDINAL",
+        "start": 529,
+        "end": 547
+      },
+      {
+        "text": "fibronectin",
+        "label": "LOC",
+        "start": 718,
+        "end": 729
+      },
+      {
+        "text": "Gotthold Fläschner",
+        "label": "PERSON",
+        "start": 907,
+        "end": 925
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 113,
+        "end": 119
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 203,
+        "end": 208
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 308,
+        "end": 311
+      },
+      {
+        "text": "David Martínez-Martín",
+        "label": "PERSON",
+        "start": 336,
+        "end": 357
+      },
+      {
+        "text": "Readings",
+        "label": "ORG",
+        "start": 448,
+        "end": 456
+      },
+      {
+        "text": "days",
+        "label": "DATE",
+        "start": 545,
+        "end": 549
+      },
+      {
+        "text": "Martínez-Martín",
+        "label": "ORG",
+        "start": 218,
+        "end": 233
+      },
+      {
+        "text": "Fläschner",
+        "label": "ORG",
+        "start": 238,
+        "end": 247
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 288,
+        "end": 291
+      },
+      {
+        "text": "about one to four",
+        "label": "CARDINAL",
+        "start": 404,
+        "end": 421
+      },
+      {
+        "text": "Martínez-Martín",
+        "label": "PERSON",
+        "start": 473,
+        "end": 488
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 592,
+        "end": 598
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 602,
+        "end": 608
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "Martínez-Martín",
+        "label": "ORG",
+        "start": 147,
+        "end": 162
+      },
+      {
+        "text": "Martínez-Martín",
+        "label": "ORG",
+        "start": 642,
+        "end": 657
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 749,
+        "end": 754
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 775,
+        "end": 781
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 980,
+        "end": 985
+      },
+      {
+        "text": "Nanosurf AG",
+        "label": "ORG",
+        "start": 994,
+        "end": 1005
+      },
+      {
+        "text": "Martínez-Martín D",
+        "label": "ORG",
+        "start": 1062,
+        "end": 1079
+      },
+      {
+        "text": "Gaub B",
+        "label": "PERSON",
+        "start": 1094,
+        "end": 1100
+      },
+      {
+        "text": "Martin D",
+        "label": "PERSON",
+        "start": 1102,
+        "end": 1110
+      },
+      {
+        "text": "Newton",
+        "label": "GPE",
+        "start": 1112,
+        "end": 1118
+      },
+      {
+        "text": "25th Oct 2017",
+        "label": "FAC",
+        "start": 1260,
+        "end": 1273
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1280,
+        "end": 1287
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christoph Gerber",
+        "Daniel J Müller",
+        "David Martínez-Martín",
+        "Gaub B",
+        "Gotthold Fläschner",
+        "Jason Mercer",
+        "Martin D",
+        "Martínez-Martín",
+        "Sascha Martin"
+      ],
+      "ORG": [
+        "ETH",
+        "Fläschner",
+        "Martínez-Martín",
+        "Martínez-Martín D",
+        "Nanosurf AG",
+        "Readings",
+        "University College London",
+        "the University of Basel",
+        "the biophysics research group"
+      ],
+      "LOCATION": [
+        "25th Oct 2017",
+        "Newton",
+        "fibronectin"
+      ],
+      "DATE": [
+        "days"
+      ],
+      "MISC": [
+        "10.1038",
+        "Nature",
+        "One",
+        "Swiss",
+        "about one to four",
+        "about two to three",
+        "first",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Martínez-Martín": 4,
+      "second": 3,
+      "ETH": 2,
+      "first": 2,
+      "Christoph Gerber": 1,
+      "Sascha Martin": 1,
+      "the University of Basel": 1,
+      "Jason Mercer": 1,
+      "University College London": 1,
+      "the biophysics research group": 1,
+      "Daniel J Müller": 1,
+      "about two to three": 1,
+      "fibronectin": 1,
+      "Gotthold Fläschner": 1,
+      "two": 1,
+      "David Martínez-Martín": 1,
+      "Readings": 1,
+      "days": 1,
+      "Fläschner": 1,
+      "One": 1
+    },
+    "total_entities": 37,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "pr-weight-determination-of-single-cells.md",
+      "title": "En News Events/2017/10/pr Weight Determination Of Single Cells",
+      "language": "en",
+      "source_path": "en_news_events/2017/10/pr-weight-determination-of-single-cells.html"
+    },
+    "temporal": {
+      "publication_date": "2017-10",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christoph Gerber",
+        "Daniel J Müller",
+        "David Martínez-Martín",
+        "Gaub B",
+        "Gotthold Fläschner",
+        "Jason Mercer",
+        "Martin D",
+        "Martínez-Martín",
+        "Sascha Martin"
+      ],
+      "people_with_roles": {
+        "Christoph Gerber": [
+          "scientist",
+          "professor"
+        ],
+        "Daniel J Müller": [
+          "scientist",
+          "professor"
+        ],
+        "Gotthold Fläschner": [
+          "student"
+        ],
+        "Jason Mercer": [
+          "scientist",
+          "professor"
+        ],
+        "Sascha Martin": [
+          "scientist",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Nature",
+        "Swiss",
+        "about one to four",
+        "about two to three",
+        "first",
+        "second"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Daniel J",
+        "Newton R",
+        "Martin D",
+        "En News",
+        "University College",
+        "Beerli C",
+        "Christoph Gerber",
+        "Jason Mercer",
+        "Mercer J",
+        "Gerber C",
+        "Sascha Martin",
+        "Of Single",
+        "Nanosurf AG",
+        "Gaub B",
+        "Cells From",
+        "Weight Determination"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Fläschner",
+        "Martínez-Martín",
+        "Martínez-Martín D",
+        "Nanosurf AG",
+        "Readings",
+        "University College London",
+        "the University of Basel",
+        "the biophysics research group"
+      ],
+      "locations": [
+        "25th Oct 2017",
+        "Newton",
+        "fibronectin"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Martínez-Martín",
+        "second",
+        "ETH",
+        "first",
+        "Christoph Gerber",
+        "Sascha Martin",
+        "the University of Basel",
+        "Jason Mercer",
+        "University College London",
+        "the biophysics research group"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "New cell scale with high resolution",
+          "New cell scale with high resolution",
+          "Observing weight and cell activity at the same time",
+          "Weight of living cells fluctuates",
+          "High interest in cell scale"
+        ],
+        "content_length": 4279
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Martin D",
+        "Fläschner",
+        "Daniel J Müller",
+        "ERC",
+        "Gotthold Fläschner",
+        "Christoph Gerber",
+        "University College London",
+        "the biophysics research group",
+        "Jason Mercer",
+        "EU",
+        "Sascha Martin",
+        "Nanosurf AG",
+        "the University of Basel",
+        "Martínez-Martín",
+        "David Martínez-Martín",
+        "Martínez-Martín D",
+        "2017",
+        "Gaub B",
+        "Readings"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "about two to three",
+        "first",
+        "Nature",
+        "about one to four",
+        "who",
+        "10.1038",
+        "Swiss",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Christoph Gerber_has_role_scientist",
+        "Christoph Gerber_has_role_professor",
+        "Daniel J Müller_has_role_scientist",
+        "Daniel J Müller_has_role_professor",
+        "Gotthold Fläschner_has_role_student",
+        "Jason Mercer_has_role_scientist",
+        "Jason Mercer_has_role_professor",
+        "Sascha Martin_has_role_scientist",
+        "Sascha Martin_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

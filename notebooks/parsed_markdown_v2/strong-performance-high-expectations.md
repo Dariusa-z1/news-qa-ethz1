@@ -1,0 +1,48 @@
+# strong-performance-high-expectations.html
+
+**Source:** en_news_events/2013/12/strong-performance-high-expectations.html
+
+## Large sum of research funds
+
+University rankings are often a subject for debate, but they are nevertheless used internationally as indicators for universities’ success. “A university is more than just a number”, said Ralph Eichler in his presentation. This year, ETH Zurich is again among the leading universities and remains the best in continental Europe according to various rankings.
+
+## Large sum of research funds
+
+Staying in the top league of science requires financial means above all. In this year’s allocation of research funding by the European Research Council, ETH received five ERC Advanced Grants, nine ERC Starting Grants and four ERC Consolidator Grants. In numbers, that is about CHF 43 million of research funding. Among the National Centres of Competence in Research, ETH is involved in ten projects, of which it is the leading or co-leading house for five. All in all, researchers in Switzerland have received back 150 per cent of the Swiss contribution paid to the EU. ETH alone has been able to raise 40 per cent of all the competitive funding.
+
+## More federal funding for education
+
+The importance attached to education and research at federal level is evident in the amount of federal spending in this area, which has grown continually in the last few decades. &nbsp;All of Switzerland benefits from this, and especially the Zurich region: of the entire budget of CHF 1.4 million, two thirds went to Zurich in 2012.
+
+## New institutes
+
+Ralph Eichler was especially pleased by the founding of two new institutes. The first, the Institute for Theoretical Studies ( ETH-ITS ), aims to link together fundamental sciences such as mathematics, theoretical physics and theoretical computer science, thereby carrying on the Zurich tradition of great thinkers such as Albert Einstein and Wolfgang Pauli. The second, the Institute for Science, Technology and Policy (ISTP), aims to help solve complex societal issues and also intends to offer experts from the practical sphere the opportunity to conduct research.
+
+## Good start for Singapore centre
+
+A look towards Asia shows that the Singapore-ETH Centre for Global Environmental Sustainability (SEC) is doing very well. “The SEC has clearly exceeded its achievement goals”, said the President. When last counted in September, the SEC’s publication list already included 140 titles. In the short time since its founding, the centre has received 15 prizes and distinctions.
+
+## Steps towards online teaching
+
+In teaching, quality criteria for the study programmes and the individual teaching units have been developed and approved by the Executive Board. There are now clear criteria for the quality of curricula and courses as well as evaluation. Moreover, clear guidelines place the much-discussed topic of grading on a solid foundation. Work is also being done for the future of teaching. In the internationally growing area of online lectures called MOOCs (massive open online courses), ETH offers so-called TORQUE courses. This stands for “tiny, open-with-restrictions courses focused on quality and effectiveness” and these, in contrast to MOOCs, are closely linked to face-to-face teaching. “We invest a lot in teaching, but what is still important to us is the personalities who do the teaching", said the President.
+
+## Successful ETH spin-offs
+
+The fact that ETH is a supportive environment for good student ideas is evident in the large number of start-ups and successful young entrepreneurs from ETH. Of the winners of an award for the 100 best Swiss start-ups, a quarter were from ETH. In addition, ETH spin-offs raised CHF 6 million from EU projects in 2013 and about CHF 80 million were invested in ETH start-ups.
+
+## Important donations
+
+The amount of funding raised successfully by the ETH Zurich Foundation shows that cutting-edge research is also a profitable investment for businesses and private individuals. This year alone, it has received donations of more than CHF 88 million (as of 1 Dec.). CHF 10 million alone came from the Werner Siemens Foundation for a new chair in deep geothermics, and CHF 2.5 million came from Alstom for Seed projects in the energy field.
+
+In communications, three large projects were successfully launched this year. First of all, the new corporate design was implemented, and at the end of October the new ETH web was launched. The new employee magazine “life” made its first appearance in October in a German and an English version. It replaces the previous magazine “ETH life print”.
+
+The Executive board also initiated a compliance guide. “We want this to strengthen the culture of individual responsibility and autonomy”, said Ralph Eichler. The guide can be .
+
+## Goals for 2014
+
+For 2014, the Executive Board plans to further expand the great reputation of ETH Zurich in order to continue to attract excellent students and highly qualified experts from teaching and research. The Board also plans to strengthen ETH’s current research in order to develop “proposals to answer the pressing questions of our time”, said the President. After 2014, which will be his last year in office, he wants to hand over a prospering university to his successor, Lino Guzzella.
+
+## The Golden Tricycle award
+
+This year, Ulrike Lohmann, Professor at the Institute for Atmospheric and Climate Science, was awarded the Golden Tricycle . Every year since 2007, this award is given by the Academic Association of Scientific Staff (AVETH) and the office for equal opportunities (Equal!) to leaders who create working conditions that help employees find a good balance between work and family. Martin Sack, the representative of the AVETH, emphasised in his laudatory speech that Ulrike Lohmann finds individual solutions together with her employees. Some of her alumni have started great careers at MIT and Yale, which shows that Lohmann’s family-friendly leadership style is by no means to the detriment of the staff’s research activities.
+

@@ -1,0 +1,289 @@
+{
+  "filename": "the-future-is-already-here.md",
+  "original_filename": "the-future-is-already-here.html",
+  "source_path": "en_internal/2019/07/the-future-is-already-here.html",
+  "date": "2019-07",
+  "title": "The Future Is Already Here",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The art of asking questions",
+      "text": "- 2 information and documentation specialists\n\n- 1 printing technician, specialised in reprography\n\n- 1 media technician\n\n- 2 computer scientists, specialised in system technology\n\n- 6 business administrators\n\n- 7 business administration interns\n\n- 4 physics laboratory technicians\n\n- 4 poly-mechanics\n\n- 6 electronics technicians\n\n- 6 laboratory technicians, specialised in biology\n\n- 6 laboratory technicians, specialised in chemistry\n\n- 2 animal care specialists, specialised in lab animals\n\n- 1 operative maintenance specialist\n\n- 1 logistics specialist\n\nWhen apprentices begin their training at ETH, many things seem strange to them at first, from everyday working life through to the highly technical, diverse and international environment at ETH Zurich. They generally get used to it all very quickly, learning the working methods they need, how to work in a team and how to interact with customers.\n\nThe end of their training marks the next major step: moving from the university to the job market. Various apprentices and vocational trainers reminisced about this at the 2019 apprentice graduation ceremony, which took place on Thursday evening in ETH’s main building with the motto “The Future is Now”. Their memories have been captured on video."
+    },
+    {
+      "heading": "The art of asking questions",
+      "text": "“You can’t complete vocational training alone,” said Lukas Vonesch, Head of Human Resources at ETH. “It requires the assistance of the vocational trainers, who are incredibly committed to giving the apprentices the support they need.” He advised the new young professionals not to plan their future too strictly, but to be open and courageous when faced with new, unexpected opportunities.\n\n“We’re not throwing you in at the deep end; you have to dive in for yourself and conquer the future on your own terms,” said Vonesch, and gave each graduate apprentice a dry bag to take with them on their professional journey. Dry bags keep things dry in rain or water.\n\nDavid Müller, Head of the Services department, exhorted the young professionals not to forget the art of asking questions. “Apprentices are an inspiration,” he said. “Their questions help ETH and its departments to continue to develop.”\n\nFollowing David Müller’s speech and the awarding of the diplomas, the graduate apprentices were invited to ETH’s Dozentenfoyer."
+    },
+    {
+      "heading": "ETH’s 2019 vocational training graduates",
+      "text": "In 2019, a total of 49 young professionals completed their vocational training at ETH Zurich; 20 women and 29 men. They were spread across the following professions:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "technician - 2",
+        "label": "NORP",
+        "start": 108,
+        "end": 122
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 586,
+        "end": 589
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 627,
+        "end": 632
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 735,
+        "end": 745
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE",
+        "start": 1122,
+        "end": 1130
+      },
+      {
+        "text": "evening",
+        "label": "TIME",
+        "start": 1131,
+        "end": 1138
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1142,
+        "end": 1145
+      },
+      {
+        "text": "The Future is Now",
+        "label": "WORK_OF_ART",
+        "start": 1178,
+        "end": 1195
+      },
+      {
+        "text": "Lukas Vonesch",
+        "label": "ORG",
+        "start": 53,
+        "end": 66
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 95,
+        "end": 98
+      },
+      {
+        "text": "Vonesch",
+        "label": "ORG",
+        "start": 515,
+        "end": 522
+      },
+      {
+        "text": "David Müller",
+        "label": "PERSON",
+        "start": 660,
+        "end": 672
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 848,
+        "end": 851
+      },
+      {
+        "text": "David Müller’s",
+        "label": "PERSON",
+        "start": 907,
+        "end": 921
+      },
+      {
+        "text": "ETH’s Dozentenfoyer",
+        "label": "ORG",
+        "start": 1004,
+        "end": 1023
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 82,
+        "end": 92
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "David Müller",
+        "David Müller’s"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "ETH’s Dozentenfoyer",
+        "Lukas Vonesch",
+        "Vonesch"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Thursday",
+        "evening"
+      ],
+      "MISC": [
+        "The Future is Now",
+        "first",
+        "technician - 2"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 4,
+      "ETH Zurich": 2,
+      "technician - 2": 1,
+      "first": 1,
+      "Thursday": 1,
+      "evening": 1,
+      "The Future is Now": 1,
+      "Lukas Vonesch": 1,
+      "Vonesch": 1,
+      "David Müller": 1,
+      "David Müller’s": 1,
+      "ETH’s Dozentenfoyer": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-future-is-already-here.md",
+      "title": "En Internal/2019/07/the Future Is Already Here",
+      "language": "en",
+      "source_path": "en_internal/2019/07/the-future-is-already-here.html"
+    },
+    "temporal": {
+      "publication_date": "2019-07",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "David Müller",
+        "David Müller’s"
+      ],
+      "people_with_roles": {
+        "David Müller": [
+          "head",
+          "graduate"
+        ],
+        "David Müller’s": [
+          "graduate"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "scientist",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "The Future is Now",
+        "first",
+        "technician - 2"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Future Is",
+        "Following David",
+        "The Future",
+        "Already Here",
+        "En Internal",
+        "Lukas Vonesch",
+        "Human Resources",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "ETH’s Dozentenfoyer",
+        "Lukas Vonesch",
+        "Vonesch"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Zurich",
+        "technician - 2",
+        "first",
+        "Thursday",
+        "evening",
+        "The Future is Now",
+        "Lukas Vonesch",
+        "Vonesch",
+        "David Müller"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "The art of asking questions",
+          "The art of asking questions",
+          "ETH’s 2019 vocational training graduates"
+        ],
+        "content_length": 2497
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2019",
+        "David Müller’s",
+        "David Müller",
+        "Vonesch",
+        "ETH’s Dozentenfoyer",
+        "Lukas Vonesch",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "The Future is Now",
+        "technician - 2",
+        "who",
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "David Müller_has_role_head",
+        "David Müller_has_role_graduate",
+        "David Müller’s_has_role_graduate",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

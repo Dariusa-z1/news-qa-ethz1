@@ -1,0 +1,191 @@
+{
+  "filename": "neue-kunsttour-erfrischt-in-der-mittagspause.md",
+  "original_filename": "neue-kunsttour-erfrischt-in-der-mittagspause.html",
+  "source_path": "de_internal/2022/06/neue-kunsttour-erfrischt-in-der-mittagspause.html",
+  "date": "2022-06",
+  "title": "Neue Kunsttour Erfrischt In Der Mittagspause",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Im Zentrum und noch keine Pläne?",
+      "text": "In den Gebäuden der ETH Zürich finden sich neben Reagenzgläsern, Messgeräten und Fachbüchern auch 300 sehenswerte Kunstwerke. Einen Teil dieses ETH-Kunstinventars können Sie ab sofort auf dem geführten Rundgang «Kunst zum Zmittag» im angenehm kühlen Hauptgebäude entdecken. Erkunden Sie in nur 60 Minuten das faszinierende Spannungsfeld zwischen exakten Wissenschaften und vieldeutiger Kunst."
+    },
+    {
+      "heading": "Im Zentrum und noch keine Pläne?",
+      "text": "Die Führungen starten jeweils freitags vor dem Plakataufsteller «Kunst zum Zmittag» bei der Polyterrasse (siehe Foto). Nutzen Sie die Chance und kommen Sie spontan vorbei. Ein ETH-Guide wird Sie und alle anderen Kurzentschlossenen dort pünktlich um 12.30 Uhr begrüssen.\n\nUnd wenn es diese Woche nicht passen sollte: Alle Termine für diese und andere Führungen an der ETH finden Sie im offiziellen Veranstaltungskalender ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/06/neue Kunsttour",
+        "label": "LOC",
+        "start": 0,
+        "end": 34
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 20,
+        "end": 30
+      },
+      {
+        "text": "Reagenzgläsern",
+        "label": "LOC",
+        "start": 49,
+        "end": 63
+      },
+      {
+        "text": "ETH-Kunstinventars",
+        "label": "MISC",
+        "start": 144,
+        "end": 162
+      },
+      {
+        "text": "Polyterrasse",
+        "label": "MISC",
+        "start": 92,
+        "end": 104
+      },
+      {
+        "text": "ETH-Guide",
+        "label": "MISC",
+        "start": 176,
+        "end": 185
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 366,
+        "end": 369
+      },
+      {
+        "text": "Veranstaltungskalender",
+        "label": "LOC",
+        "start": 396,
+        "end": 418
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2022/06/neue Kunsttour",
+        "Reagenzgläsern",
+        "Veranstaltungskalender"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Guide",
+        "ETH-Kunstinventars",
+        "Polyterrasse"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2022/06/neue Kunsttour": 1,
+      "ETH Zürich": 1,
+      "Reagenzgläsern": 1,
+      "ETH-Kunstinventars": 1,
+      "Polyterrasse": 1,
+      "ETH-Guide": 1,
+      "ETH": 1,
+      "Veranstaltungskalender": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neue-kunsttour-erfrischt-in-der-mittagspause.md",
+      "title": "De Internal/2022/06/neue Kunsttour Erfrischt in der Mittagspause",
+      "language": "de",
+      "source_path": "de_internal/2022/06/neue-kunsttour-erfrischt-in-der-mittagspause.html"
+    },
+    "temporal": {
+      "publication_date": "2022-06",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Guide",
+        "ETH-Kunstinventars",
+        "Polyterrasse"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Mittagspause In",
+        "Nutzen Sie",
+        "Einen Teil",
+        "ETH-Kunstinventars",
+        "De Internal",
+        "Kunsttour Erfrischt",
+        "Ein ETH",
+        "Alle Termine",
+        "Erkunden Sie"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2022/06/neue Kunsttour",
+        "Reagenzgläsern",
+        "Veranstaltungskalender"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2022/06/neue Kunsttour",
+        "ETH Zürich",
+        "Reagenzgläsern",
+        "ETH-Kunstinventars",
+        "Polyterrasse",
+        "ETH-Guide",
+        "ETH",
+        "Veranstaltungskalender"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Im Zentrum und noch keine Pläne?",
+          "Im Zentrum und noch keine Pläne?"
+        ],
+        "content_length": 879
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "ETH",
+        "EU",
+        "2022"
+      ],
+      "semantic_concepts": [
+        "ETH-Kunstinventars",
+        "Polyterrasse",
+        "ETH-Guide"
+      ],
+      "graph_relations": []
+    }
+  }
+}

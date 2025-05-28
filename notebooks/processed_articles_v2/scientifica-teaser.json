@@ -1,0 +1,199 @@
+{
+  "filename": "scientifica-teaser.md",
+  "original_filename": "scientifica-teaser.html",
+  "source_path": "en_news_events/2019/07/scientifica-teaser.html",
+  "date": "2019-07",
+  "title": "Scientifica Teaser",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Many of the things that the scientists at ETH and the University of Zurich spend their time on every day sounds a lot like science fiction. Some of it, however, may come to be taken for granted in future. At Scientifica, researchers present their projects and concepts at exhibitions stands, in workshops, during short lectures and at many more events. And they are happy to discuss the consequences for society.\n\nIn the era of “fake news” and “alternative facts”, science has a crucial role to play. It’s not that it can always offer simple answers to every question, but scientists can at least provide facts for social discussion. “Science fiction – science facts”, the theme of this year’s Scientifica, is also focused on this aspect.\n\nLook at the entire programme of this year's Scientifica (website in German)"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Teaser",
+        "label": "ORG",
+        "start": 35,
+        "end": 41
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 42,
+        "end": 45
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 50,
+        "end": 74
+      },
+      {
+        "text": "Scientifica",
+        "label": "LOC",
+        "start": 208,
+        "end": 219
+      },
+      {
+        "text": "Scientifica",
+        "label": "GPE",
+        "start": 693,
+        "end": 704
+      },
+      {
+        "text": "year",
+        "label": "DATE",
+        "start": 775,
+        "end": 779
+      },
+      {
+        "text": "Scientifica",
+        "label": "LOC",
+        "start": 782,
+        "end": 793
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 806,
+        "end": 812
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "En News",
+        "Teaser",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Scientifica"
+      ],
+      "DATE": [
+        "year"
+      ],
+      "MISC": [
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "Scientifica": 3,
+      "En News": 1,
+      "Teaser": 1,
+      "ETH": 1,
+      "the University of Zurich": 1,
+      "year": 1,
+      "German": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "scientifica-teaser.md",
+      "title": "En News Events/2019/07/scientifica Teaser",
+      "language": "en",
+      "source_path": "en_news_events/2019/07/scientifica-teaser.html"
+    },
+    "temporal": {
+      "publication_date": "2019-07",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "German"
+      ],
+      "grants_funding": [
+        "grant"
+      ],
+      "projects": [
+        "At Scientifica",
+        "Teaser Many",
+        "En News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "En News",
+        "Teaser",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Scientifica"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Scientifica",
+        "En News",
+        "Teaser",
+        "ETH",
+        "the University of Zurich",
+        "year",
+        "German"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 857
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "grant",
+        "Teaser",
+        "En News",
+        "2019",
+        "the University of Zurich"
+      ],
+      "semantic_concepts": [
+        "who",
+        "what",
+        "how",
+        "German",
+        "when",
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

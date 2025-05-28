@@ -1,0 +1,256 @@
+{
+  "filename": "official-comment.md",
+  "original_filename": "official-comment.html",
+  "source_path": "en_news_events/2019/03/official-comment.html",
+  "date": "2019-03",
+  "title": "Official Comment",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In the past week, the online magazine Republik has published a number of articles on ETH Zurich (see part 1 / 2 / 3 / Interview in German). These articles are full of one-sided allegations and insinuations. We are deeply disturbed by these sweeping attacks on ETH Zurich and on individual members of the university community. The interview with the professor contains serious but unsubstantiated allegations of mismanagement, sexism and corruption.\n\nAt a media conference on 14 March, ETH Zurich already made it clear that it had learned lessons from the past and is working with ETH members to optimise its internal processes and continue to improve its leadership culture. An interview like the one which appeared on Friday morning does not help ETH on this path in any way.\n\nETH Zurich is unable to respond in detail to the allegations made because dismissal proceedings are still ongoing. Nevertheless, it is vital that fundamentally incorrect claims are refuted:\n\nAs legal proceedings are ongoing, ETH Zurich was – and still is – unable to make any official comment to the media on the details of the investigation. Once dismissal proceedings have been concluded, however, the university will publish the full version of the investigation report.\n\nETH Zurich Media Relations phone: +41 44 632 41 41"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the past week",
+        "label": "DATE",
+        "start": 3,
+        "end": 16
+      },
+      {
+        "text": "Republik",
+        "label": "PRODUCT",
+        "start": 38,
+        "end": 46
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 85,
+        "end": 95
+      },
+      {
+        "text": "1 / 2 / 3 / Interview",
+        "label": "CARDINAL",
+        "start": 106,
+        "end": 127
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 131,
+        "end": 137
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 167,
+        "end": 170
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 260,
+        "end": 270
+      },
+      {
+        "text": "14 March",
+        "label": "DATE",
+        "start": 474,
+        "end": 482
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 484,
+        "end": 494
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 579,
+        "end": 582
+      },
+      {
+        "text": "Friday",
+        "label": "DATE",
+        "start": 718,
+        "end": 724
+      },
+      {
+        "text": "morning",
+        "label": "TIME",
+        "start": 725,
+        "end": 732
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 747,
+        "end": 750
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 776,
+        "end": 786
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1000,
+        "end": 1010
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1249,
+        "end": 1259
+      },
+      {
+        "text": "Media Relations",
+        "label": "ORG",
+        "start": 1260,
+        "end": 1275
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Media Relations"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "14 March",
+        "Friday",
+        "morning",
+        "the past week"
+      ],
+      "MISC": [
+        "1 / 2 / 3 / Interview",
+        "German",
+        "Republik",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 6,
+      "ETH": 2,
+      "the past week": 1,
+      "Republik": 1,
+      "1 / 2 / 3 / Interview": 1,
+      "German": 1,
+      "one": 1,
+      "14 March": 1,
+      "Friday": 1,
+      "morning": 1,
+      "Media Relations": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "official-comment.md",
+      "title": "En News Events/2019/03/official Comment",
+      "language": "en",
+      "source_path": "en_news_events/2019/03/official-comment.html"
+    },
+    "temporal": {
+      "publication_date": "2019-03",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "1 / 2 / 3 / Interview",
+        "German",
+        "Republik"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Zurich",
+        "Comment In",
+        "Media Relations",
+        "En News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Media Relations"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "ETH",
+        "the past week",
+        "Republik",
+        "1 / 2 / 3 / Interview",
+        "German",
+        "one",
+        "14 March",
+        "Friday",
+        "morning"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1343
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "ETH",
+        "Media Relations",
+        "2019"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "1 / 2 / 3 / Interview",
+        "how",
+        "German",
+        "Republik",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "filename": "falling-walls-lab-im-millers-studio.md",
+  "original_filename": "falling-walls-lab-im-millers-studio.html",
+  "source_path": "de_internal/2014/09/falling-walls-lab-im-millers-studio.html",
+  "date": "2014-09",
+  "title": "Falling Walls Lab Im Millers Studio",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Am Dienstag, 23. September ist es soweit: Am externe Seite Falling Walls Lab in Zürich stellen junge Teilnehmer aus allen Disziplinen ihr Projekt vor. Dafür haben sie gerade mal drei Minuten Zeit und dürfen nur drei Powerpoint-Slides verwenden.\n\nDas Falling Walls Lab Zurich ist die Schweizer Vorausscheidung des Falling Walls Lab Berlin und findet ab 18 Uhr im Miller’s Studio an der Seefeldstrasse 225 in Zürich-Tiefenbrunnen statt.\n\nWer am Lab in Zürich den ersten Platz gewinnt, wird zum Finale am 8. November in Berlin eingeladen. Aus den Vorrunden in den verschiedenen Ländern werden insgesamt hundert Menschen ausgewählt, die am Falling Walls Lab in Berlin ihre Ideen vor einer hochkarätig besetzten Jury aus Wissenschaft und Wirtschaft präsentieren.\n\nZiel der Konferenz ist es, wissenschaftliche und unternehmerische Innovationen voranzutreiben und den Austausch zwischen Nachwuchs-Wissenschaftlern und Young Professionals verschiedener Fachgebiete zu fördern."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/09",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Walls Lab",
+        "label": "MISC",
+        "start": 28,
+        "end": 37
+      },
+      {
+        "text": "Millers Studio",
+        "label": "ORG",
+        "start": 41,
+        "end": 55
+      },
+      {
+        "text": "Falling Walls Lab",
+        "label": "MISC",
+        "start": 59,
+        "end": 76
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 80,
+        "end": 86
+      },
+      {
+        "text": "Powerpoint-Slides",
+        "label": "LOC",
+        "start": 216,
+        "end": 233
+      },
+      {
+        "text": "Falling Walls Lab Zurich",
+        "label": "MISC",
+        "start": 249,
+        "end": 273
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 282,
+        "end": 291
+      },
+      {
+        "text": "Falling Walls Lab Berlin",
+        "label": "MISC",
+        "start": 312,
+        "end": 336
+      },
+      {
+        "text": "Miller’s Studio",
+        "label": "ORG",
+        "start": 361,
+        "end": 376
+      },
+      {
+        "text": "Seefeldstrasse 225",
+        "label": "MISC",
+        "start": 384,
+        "end": 402
+      },
+      {
+        "text": "Zürich-Tiefenbrunnen",
+        "label": "LOC",
+        "start": 406,
+        "end": 426
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 448,
+        "end": 454
+      },
+      {
+        "text": "Berlin",
+        "label": "LOC",
+        "start": 515,
+        "end": 521
+      },
+      {
+        "text": "Falling Walls Lab",
+        "label": "ORG",
+        "start": 634,
+        "end": 651
+      },
+      {
+        "text": "Berlin",
+        "label": "LOC",
+        "start": 655,
+        "end": 661
+      },
+      {
+        "text": "Nachwuchs-Wissenschaftlern",
+        "label": "LOC",
+        "start": 877,
+        "end": 903
+      },
+      {
+        "text": "Young Professionals",
+        "label": "PER",
+        "start": 908,
+        "end": 927
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Young Professionals"
+      ],
+      "ORG": [
+        "Falling Walls Lab",
+        "Millers Studio",
+        "Miller’s Studio"
+      ],
+      "LOCATION": [
+        "Berlin",
+        "De Internal/2014/09",
+        "Nachwuchs-Wissenschaftlern",
+        "Powerpoint-Slides",
+        "Zürich",
+        "Zürich-Tiefenbrunnen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Falling Walls Lab",
+        "Falling Walls Lab Berlin",
+        "Falling Walls Lab Zurich",
+        "Schweizer",
+        "Seefeldstrasse 225",
+        "Walls Lab"
+      ]
+    },
+    "entity_counts": {
+      "Falling Walls Lab": 2,
+      "Zürich": 2,
+      "Berlin": 2,
+      "De Internal/2014/09": 1,
+      "Walls Lab": 1,
+      "Millers Studio": 1,
+      "Powerpoint-Slides": 1,
+      "Falling Walls Lab Zurich": 1,
+      "Schweizer": 1,
+      "Falling Walls Lab Berlin": 1,
+      "Miller’s Studio": 1,
+      "Seefeldstrasse 225": 1,
+      "Zürich-Tiefenbrunnen": 1,
+      "Nachwuchs-Wissenschaftlern": 1,
+      "Young Professionals": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "falling-walls-lab-im-millers-studio.md",
+      "title": "De Internal/2014/09/falling Walls Lab Im Millers Studio",
+      "language": "de",
+      "source_path": "de_internal/2014/09/falling-walls-lab-im-millers-studio.html"
+    },
+    "temporal": {
+      "publication_date": "2014-09",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Young Professionals"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Falling Walls Lab",
+        "Falling Walls Lab Berlin",
+        "Falling Walls Lab Zurich",
+        "Schweizer",
+        "Seefeldstrasse 225",
+        "Walls Lab"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Falling Walls",
+        "Walls Lab",
+        "Nachwuchs-Wissenschaftlern",
+        "De Internal",
+        "Minuten Zeit",
+        "Studio Am",
+        "Das Falling",
+        "Young Professionals",
+        "Seite Falling",
+        "Im Millers",
+        "Schweizer Vorausscheidung",
+        "Powerpoint-Slides",
+        "Lab Berlin"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Falling Walls Lab",
+        "Millers Studio",
+        "Miller’s Studio"
+      ],
+      "locations": [
+        "Berlin",
+        "De Internal/2014/09",
+        "Nachwuchs-Wissenschaftlern",
+        "Powerpoint-Slides",
+        "Zürich",
+        "Zürich-Tiefenbrunnen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Falling Walls Lab",
+        "Zürich",
+        "Berlin",
+        "De Internal/2014/09",
+        "Walls Lab",
+        "Millers Studio",
+        "Powerpoint-Slides",
+        "Falling Walls Lab Zurich",
+        "Schweizer",
+        "Falling Walls Lab Berlin"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1024
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Falling Walls Lab",
+        "Millers Studio",
+        "Miller’s Studio",
+        "Young Professionals",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "Falling Walls Lab",
+        "Walls Lab",
+        "Schweizer",
+        "Seefeldstrasse 225",
+        "Falling Walls Lab Zurich",
+        "Falling Walls Lab Berlin"
+      ],
+      "graph_relations": []
+    }
+  }
+}

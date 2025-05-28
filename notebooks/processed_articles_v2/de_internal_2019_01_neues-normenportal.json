@@ -1,0 +1,200 @@
+{
+  "filename": "de_internal_2019_01_neues-normenportal.md",
+  "original_filename": "de_internal_2019_01_neues-normenportal.html",
+  "source_path": "de_internal/2019/01/neues-normenportal.html",
+  "date": "2019-01",
+  "title": "Neues Normenportal",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Im neuen Normenportal externe Seite eresearchcenter stehen folgende Normen zur Verfügung:\n\n• ASTM International • DIN • Electrosuisse • IEEE International • INB/Swissmem • ISO • SAE International • SIA International • VDI\n\nErstmalig besteht damit die Möglichkeit, einen Grossteil der an der ETH-Bibliothek lizenzierten Normen auf einer gemeinsamen Plattform zu nutzen. Zudem entfällt, verglichen mit der bisherigen Perinorm, die Installation des Adobe FileOpen Plugins."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/01/neues Normenportal",
+        "label": "LOC",
+        "start": 0,
+        "end": 38
+      },
+      {
+        "text": "Normenportal",
+        "label": "LOC",
+        "start": 9,
+        "end": 21
+      },
+      {
+        "text": "ASTM",
+        "label": "ORG",
+        "start": 92,
+        "end": 96
+      },
+      {
+        "text": "DIN",
+        "label": "ORG",
+        "start": 113,
+        "end": 116
+      },
+      {
+        "text": "IEEE",
+        "label": "ORG",
+        "start": 135,
+        "end": 139
+      },
+      {
+        "text": "Swissmem",
+        "label": "PER",
+        "start": 160,
+        "end": 168
+      },
+      {
+        "text": "ISO",
+        "label": "ORG",
+        "start": 171,
+        "end": 174
+      },
+      {
+        "text": "VDI",
+        "label": "ORG",
+        "start": 217,
+        "end": 220
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 289,
+        "end": 303
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Swissmem"
+      ],
+      "ORG": [
+        "ASTM",
+        "DIN",
+        "ETH-Bibliothek",
+        "IEEE",
+        "ISO",
+        "VDI"
+      ],
+      "LOCATION": [
+        "De Internal/2019/01/neues Normenportal",
+        "Normenportal"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2019/01/neues Normenportal": 1,
+      "Normenportal": 1,
+      "ASTM": 1,
+      "DIN": 1,
+      "IEEE": 1,
+      "Swissmem": 1,
+      "ISO": 1,
+      "VDI": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_01_neues-normenportal.md",
+      "title": "De Internal/2019/01/neues Normenportal",
+      "language": "de",
+      "source_path": "de_internal/2019/01/neues-normenportal.html"
+    },
+    "temporal": {
+      "publication_date": "2019-01",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Swissmem"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "IEEE International",
+        "ETH-Bibliothek",
+        "De Internal",
+        "Adobe FileOpen",
+        "SIA International",
+        "Normenportal Im",
+        "ASTM International",
+        "SAE International"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ASTM",
+        "DIN",
+        "ETH-Bibliothek",
+        "IEEE",
+        "ISO",
+        "VDI"
+      ],
+      "locations": [
+        "De Internal/2019/01/neues Normenportal",
+        "Normenportal"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "De Internal/2019/01/neues Normenportal",
+        "Normenportal",
+        "ASTM",
+        "DIN",
+        "IEEE",
+        "Swissmem",
+        "ISO",
+        "VDI",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 508
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "DIN",
+        "ETH-Bibliothek",
+        "Swissmem",
+        "2019",
+        "ISO",
+        "EU",
+        "IEEE",
+        "ASTM",
+        "VDI"
+      ],
+      "semantic_concepts": [
+        "what"
+      ],
+      "graph_relations": []
+    }
+  }
+}

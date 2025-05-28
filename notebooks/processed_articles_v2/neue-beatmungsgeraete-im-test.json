@@ -1,0 +1,119 @@
+{
+  "filename": "neue-beatmungsgeraete-im-test.md",
+  "original_filename": "neue-beatmungsgeraete-im-test.html",
+  "source_path": "de_news_events/2020/07/neue-beatmungsgeraete-im-test.html",
+  "date": "2020-07",
+  "title": "Neue Beatmungsgeraete Im Test",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Weitere Informationen",
+      "text": "externe Seite Give a Breath Challenge"
+    },
+    {
+      "heading": "Verwandte Artikel",
+      "text": "Beatmungssysteme auf dem Prüfstand"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Prüfstand",
+        "label": "LOC",
+        "start": 25,
+        "end": 34
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "Prüfstand"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De News": 1,
+      "Prüfstand": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neue-beatmungsgeraete-im-test.md",
+      "title": "De News Events/2020/07/neue Beatmungsgeraete Im Test",
+      "language": "de",
+      "source_path": "de_news_events/2020/07/neue-beatmungsgeraete-im-test.html"
+    },
+    "temporal": {
+      "publication_date": "2020-07",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "De News",
+        "Seite Give",
+        "Beatmungsgeraete Im",
+        "Breath Challenge"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Prüfstand"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De News",
+        "Prüfstand"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Weitere Informationen",
+          "Verwandte Artikel"
+        ],
+        "content_length": 125
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "De News",
+        "EU",
+        "2020"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,792 @@
+{
+  "filename": "a-highly-accurate-digital-twin-of-our-planet.md",
+  "original_filename": "a-highly-accurate-digital-twin-of-our-planet.html",
+  "source_path": "en_news_events/2021/02/a-highly-accurate-digital-twin-of-our-planet.html",
+  "date": "2021-02",
+  "title": "A Highly Accurate Digital Twin Of Our Planet",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Information system for decision-making",
+      "text": "To become climate neutral by 2050, the European Union launched two ambitious programmes: \" Green Deal \" and \" DigitalStrategy \". As a key component of their successful implementation, climate scientists and computer scientists launched the \" Destination Earth \" initiative, which will start in mid-2021 and is expected to run for up to ten years. During this period, a highly accurate digital model of the Earth is to be created, a digital twin of the Earth, to map climate development and extreme events as accurately as possible in space and time.\n\nObservational data will be continuously incorporated into the digital twin in order to make the digital Earth model more accurate for monitoring the evolution and predict possible future trajectories. But in addition to the observation data conventionally used for weather and climate simulations, the researchers also want to integrate new data on relevant human activities into the model. The new \"Earth system model\" will represent virtually all processes on the Earth's surface as realistically as possible, including the influence of humans on water, food and energy management, and the processes in the physical Earth system."
+    },
+    {
+      "heading": "Information system for decision-making",
+      "text": "The digital twin of the Earth is intended to be an information system that develops and tests scenarios that show more sustainable development and thus better inform policies. \"If you are planning a two-metre high dike in The Netherlands, for example, I can run through the data in my digital twin and check whether the dike will in all likelihood still protect against expected extreme events in 2050,\" says Peter Bauer, deputy director for Research at the European Centre for Medium-Range Weather Forecasts (ECMWF) and co-initiator of Destination Earth. The digital twin will also be used for strategic planning of fresh water and food supplies or wind farms and solar plants.\n\nThe driving forces behind Destination Earth are the ECMWF, the European Space Agency (ESA), and the European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT). Together with other scientists, Bauer is driving the climate science and meteorological aspects of the Earth's digital twin, but they also rely on the know-how of computer scientists from ETH Zurich and the Swiss National Supercomputing Centre (CSCS), namely ETH professors Torsten Hoefler, from the Institute for High Performance Computing Systems , and Thomas Schulthess, Director of CSCS.\n\nIn order to take this big step in the digital revolution, Bauer emphasises the need for earth sciences to be married to the computer sciences. In a recent publication in Nature Computational Science, the team of researchers from the earth and computer sciences discusses which concrete measures they would like to use to advance this \"digital revolution of earth-system sciences\", where they see the challenges and what possible solutions can be found."
+    },
+    {
+      "heading": "Weather and climate models as a basis",
+      "text": "In their paper, the researchers look back on the steady development of weather models since the 1940s, a success story that took place quietly. Meteorologists pioneered, so to speak, simulations of physical processes on the world’s largest computers. As a physicist and computer scientist, CSCS’s Schulthess is therefore convinced that today's weather and climate models are ideally suited to identify completely new ways for many more scientific disciplines how to use supercomputers efficiently.\n\nIn the past, weather and climate modelling used different approaches to simulate the Earth system. Whereas climate models represent a very broad set of physical processes, they typically neglect small-scale processes, which, however, are essential for the more precise weather forecasts that in turn, focus on a smaller number of processes. The digital twin will bring both areas together and enable high-resolution simulations that depict the complex processes of the entire Earth system. But in order to achieve this, the codes of the simulation programmes must be adapted to new technologies promising much enhanced computing power.\n\nWith the computers and algorithms available today, the highly complex simulations can hardly be carried out at the planned extremely high resolution of one kilometre because for decades, code development stagnated from a computer science perspective. Climate research benefited from being able to gain higher performance by ways of new generations of processors without having to fundamentally change their programme. This free performance gain with each new processor generation stopped about 10 years ago. As a result, today's programmes can often only utilise 5 per cent of the peak performance of conventional processors (CPU).\n\nFor achieving the necessary improvements, the authors emphasize the need of co-design, i.e. developing hardware and algorithms together and simultaneously, as CSCS successfully demonstrated during the last ten years. They suggest to pay particular attention to generic data structures, optimised spatial discretisation of the grid to be calculated and optimisation of the time step lengths. The scientists further propose to separate the codes for solving the scientific problem from the codes that optimally perform the computation on the respective system architecture. This more flexible programme structure would allow a faster and more efficient switch to future architectures."
+    },
+    {
+      "heading": "Profiting from artificial intelligence",
+      "text": "The authors also see great potential in artificial intelligence (AI). It can be used, for example, for data assimilation or the processing of observation data, the representation of uncertain physical processes in the models and data compression. AI thus makes it possible to speed up the simulations and filter out the most important information from large amounts of data. Additionally, the researchers assume that the use of machine learning not only makes the calculations more efficient, but also can help describing the physical processes more accurately.\n\nThe scientists see their strategy paper as a starting point on the path to a digital twin of the Earth. Among the computer architectures available today and those expected in the near future, supercomputers based on graphics processing units (GPU) appear to be the most promising option. The researchers estimate that operating a digital twin at full scale would require a system with about 20,000 GPUs, consuming an estimated 20MW of power. For both economic and ecological reasons, such a computer should be operated at a location where CO 2 -neutral generated electricity is available in sufficient quantities.\n\nBauer P, Dueben PD, Hoefler T, Quintino T, Schulthess TC, Wedi NP: The digital revolution of Earth-system science. Nat. Comput. Sci. 1, 104–113 (2021). doi: 10.1038/s43588-021-00023-0 .\n\nBauer, P, Stevens, B, Hazeleger, W. A digital twin of Earth for the green transition. Nat. Clim. Chang. 11, 80–83 (2021). doi: 10.1038/s41558-​021-00986-y ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the European Union",
+        "label": "ORG",
+        "start": 35,
+        "end": 53
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 63,
+        "end": 66
+      },
+      {
+        "text": "the \" Destination Earth",
+        "label": "LAW",
+        "start": 236,
+        "end": 259
+      },
+      {
+        "text": "mid-2021",
+        "label": "DATE",
+        "start": 294,
+        "end": 302
+      },
+      {
+        "text": "up to ten years",
+        "label": "DATE",
+        "start": 330,
+        "end": 345
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 406,
+        "end": 411
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 452,
+        "end": 457
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 654,
+        "end": 659
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 950,
+        "end": 955
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1016,
+        "end": 1021
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1168,
+        "end": 1173
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 24,
+        "end": 29
+      },
+      {
+        "text": "two-metre",
+        "label": "QUANTITY",
+        "start": 199,
+        "end": 208
+      },
+      {
+        "text": "The Netherlands",
+        "label": "GPE",
+        "start": 222,
+        "end": 237
+      },
+      {
+        "text": "Peter Bauer",
+        "label": "PERSON",
+        "start": 409,
+        "end": 420
+      },
+      {
+        "text": "the European Centre for Medium-Range Weather Forecasts",
+        "label": "ORG",
+        "start": 454,
+        "end": 508
+      },
+      {
+        "text": "Destination Earth",
+        "label": "LOC",
+        "start": 537,
+        "end": 554
+      },
+      {
+        "text": "Destination Earth",
+        "label": "LOC",
+        "start": 705,
+        "end": 722
+      },
+      {
+        "text": "ECMWF",
+        "label": "ORG",
+        "start": 731,
+        "end": 736
+      },
+      {
+        "text": "the European Space Agency",
+        "label": "ORG",
+        "start": 738,
+        "end": 763
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 765,
+        "end": 768
+      },
+      {
+        "text": "the European Organisation for the Exploitation of Meteorological Satellites",
+        "label": "ORG",
+        "start": 775,
+        "end": 850
+      },
+      {
+        "text": "EUMETSAT",
+        "label": "ORG",
+        "start": 852,
+        "end": 860
+      },
+      {
+        "text": "Bauer",
+        "label": "ORG",
+        "start": 895,
+        "end": 900
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 966,
+        "end": 971
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1051,
+        "end": 1061
+      },
+      {
+        "text": "the Swiss National Supercomputing Centre",
+        "label": "ORG",
+        "start": 1066,
+        "end": 1106
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 1108,
+        "end": 1112
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1122,
+        "end": 1125
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 1137,
+        "end": 1152
+      },
+      {
+        "text": "the Institute for High Performance Computing Systems",
+        "label": "ORG",
+        "start": 1159,
+        "end": 1211
+      },
+      {
+        "text": "Thomas Schulthess",
+        "label": "PERSON",
+        "start": 1218,
+        "end": 1235
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 1249,
+        "end": 1253
+      },
+      {
+        "text": "Bauer",
+        "label": "ORG",
+        "start": 1313,
+        "end": 1318
+      },
+      {
+        "text": "Nature Computational Science",
+        "label": "WORK_OF_ART",
+        "start": 1425,
+        "end": 1453
+      },
+      {
+        "text": "the 1940s",
+        "label": "DATE",
+        "start": 92,
+        "end": 101
+      },
+      {
+        "text": "CSCS’s Schulthess",
+        "label": "ORG",
+        "start": 290,
+        "end": 307
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 336,
+        "end": 341
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 583,
+        "end": 588
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 974,
+        "end": 979
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1178,
+        "end": 1183
+      },
+      {
+        "text": "one kilometre",
+        "label": "QUANTITY",
+        "start": 1286,
+        "end": 1299
+      },
+      {
+        "text": "decades",
+        "label": "DATE",
+        "start": 1312,
+        "end": 1319
+      },
+      {
+        "text": "about 10 years ago",
+        "label": "DATE",
+        "start": 1622,
+        "end": 1640
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1655,
+        "end": 1660
+      },
+      {
+        "text": "5 per cent",
+        "label": "MONEY",
+        "start": 1697,
+        "end": 1707
+      },
+      {
+        "text": "CPU",
+        "label": "ORG",
+        "start": 1760,
+        "end": 1763
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 1925,
+        "end": 1929
+      },
+      {
+        "text": "the last ten years",
+        "label": "DATE",
+        "start": 1963,
+        "end": 1981
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 659,
+        "end": 664
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 709,
+        "end": 714
+      },
+      {
+        "text": "GPU",
+        "label": "ORG",
+        "start": 805,
+        "end": 808
+      },
+      {
+        "text": "about 20,000",
+        "label": "CARDINAL",
+        "start": 947,
+        "end": 959
+      },
+      {
+        "text": "an estimated 20MW",
+        "label": "CARDINAL",
+        "start": 976,
+        "end": 993
+      },
+      {
+        "text": "Hoefler",
+        "label": "ORG",
+        "start": 1196,
+        "end": 1203
+      },
+      {
+        "text": "Quintino",
+        "label": "GPE",
+        "start": 1207,
+        "end": 1215
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1269,
+        "end": 1274
+      },
+      {
+        "text": "Sci",
+        "label": "PERSON",
+        "start": 1304,
+        "end": 1307
+      },
+      {
+        "text": "104–113",
+        "label": "DATE",
+        "start": 1312,
+        "end": 1319
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1333,
+        "end": 1340
+      },
+      {
+        "text": "Bauer",
+        "label": "ORG",
+        "start": 1362,
+        "end": 1367
+      },
+      {
+        "text": "Stevens",
+        "label": "PERSON",
+        "start": 1372,
+        "end": 1379
+      },
+      {
+        "text": "Hazeleger",
+        "label": "GPE",
+        "start": 1384,
+        "end": 1393
+      },
+      {
+        "text": "W. A",
+        "label": "PERSON",
+        "start": 1395,
+        "end": 1399
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1416,
+        "end": 1421
+      },
+      {
+        "text": "Clim",
+        "label": "PERSON",
+        "start": 1453,
+        "end": 1457
+      },
+      {
+        "text": "Chang",
+        "label": "PERSON",
+        "start": 1459,
+        "end": 1464
+      },
+      {
+        "text": "80–83",
+        "label": "DATE",
+        "start": 1470,
+        "end": 1475
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1489,
+        "end": 1496
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chang",
+        "Clim",
+        "Peter Bauer",
+        "Sci",
+        "Stevens",
+        "Thomas Schulthess",
+        "Torsten Hoefler",
+        "W. A"
+      ],
+      "ORG": [
+        "Bauer",
+        "CPU",
+        "CSCS",
+        "CSCS’s Schulthess",
+        "ECMWF",
+        "ESA",
+        "ETH",
+        "ETH Zurich",
+        "EUMETSAT",
+        "GPU",
+        "Hoefler",
+        "the European Centre for Medium-Range Weather Forecasts",
+        "the European Organisation for the Exploitation of Meteorological Satellites",
+        "the European Space Agency",
+        "the European Union",
+        "the Institute for High Performance Computing Systems",
+        "the Swiss National Supercomputing Centre"
+      ],
+      "LOCATION": [
+        "Destination Earth",
+        "Earth",
+        "Hazeleger",
+        "Quintino",
+        "The Netherlands"
+      ],
+      "DATE": [
+        "104–113",
+        "80–83",
+        "about 10 years ago",
+        "decades",
+        "mid-2021",
+        "the 1940s",
+        "the last ten years",
+        "today",
+        "up to ten years"
+      ],
+      "MISC": [
+        "10.1038",
+        "5 per cent",
+        "Nature Computational Science",
+        "about 20,000",
+        "an estimated 20MW",
+        "one kilometre",
+        "the \" Destination Earth",
+        "two",
+        "two-metre"
+      ]
+    },
+    "entity_counts": {
+      "Earth": 13,
+      "today": 4,
+      "Bauer": 3,
+      "CSCS": 3,
+      "Destination Earth": 2,
+      "10.1038": 2,
+      "the European Union": 1,
+      "two": 1,
+      "the \" Destination Earth": 1,
+      "mid-2021": 1,
+      "up to ten years": 1,
+      "two-metre": 1,
+      "The Netherlands": 1,
+      "Peter Bauer": 1,
+      "the European Centre for Medium-Range Weather Forecasts": 1,
+      "ECMWF": 1,
+      "the European Space Agency": 1,
+      "ESA": 1,
+      "the European Organisation for the Exploitation of Meteorological Satellites": 1,
+      "EUMETSAT": 1
+    },
+    "total_entities": 69,
+    "unique_entities": 48
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-highly-accurate-digital-twin-of-our-planet.md",
+      "title": "En News Events/2021/02/a Highly Accurate Digital Twin Of Our Planet",
+      "language": "en",
+      "source_path": "en_news_events/2021/02/a-highly-accurate-digital-twin-of-our-planet.html"
+    },
+    "temporal": {
+      "publication_date": "2021-02",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chang",
+        "Clim",
+        "Peter Bauer",
+        "Sci",
+        "Stevens",
+        "Thomas Schulthess",
+        "Torsten Hoefler",
+        "W. A"
+      ],
+      "people_with_roles": {
+        "Clim": [
+          "scientist",
+          "rector",
+          "professor",
+          "director",
+          "researcher"
+        ],
+        "Peter Bauer": [
+          "director",
+          "rector"
+        ],
+        "Sci": [
+          "scientist",
+          "rector",
+          "professor",
+          "director",
+          "researcher"
+        ],
+        "Thomas Schulthess": [
+          "professor",
+          "director",
+          "scientist",
+          "rector"
+        ],
+        "Torsten Hoefler": [
+          "professor",
+          "director",
+          "scientist",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "5 per cent",
+        "Nature Computational Science",
+        "about 20,000",
+        "an estimated 20MW",
+        "one kilometre",
+        "the \" Destination Earth",
+        "two-metre"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "High Performance",
+        "Peter Bauer",
+        "Supercomputing Centre",
+        "Computing Systems",
+        "Nature Computational",
+        "European Centre",
+        "Planet To",
+        "Destination Earth",
+        "Swiss National",
+        "Hoefler T",
+        "Quintino T",
+        "Thomas Schulthess",
+        "Highly Accurate",
+        "Weather Forecasts",
+        "Dueben PD",
+        "European Union",
+        "Digital Twin",
+        "Wedi NP",
+        "Of Our",
+        "European Organisation",
+        "Green Deal",
+        "European Space",
+        "En News",
+        "Bauer P",
+        "Meteorological Satellites",
+        "The Netherlands",
+        "Medium-Range",
+        "Torsten Hoefler",
+        "Schulthess TC",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "High Performance Computing Systems "
+      ],
+      "institutions": [
+        "Bauer",
+        "CPU",
+        "CSCS",
+        "CSCS’s Schulthess",
+        "ECMWF",
+        "ESA",
+        "ETH",
+        "ETH Zurich",
+        "EUMETSAT",
+        "GPU",
+        "Hoefler",
+        "the European Centre for Medium-Range Weather Forecasts",
+        "the European Organisation for the Exploitation of Meteorological Satellites",
+        "the European Space Agency",
+        "the European Union",
+        "the Institute for High Performance Computing Systems",
+        "the Swiss National Supercomputing Centre"
+      ],
+      "locations": [
+        "Destination Earth",
+        "Earth",
+        "Hazeleger",
+        "Quintino",
+        "The Netherlands"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Earth",
+        "today",
+        "Bauer",
+        "CSCS",
+        "Destination Earth",
+        "10.1038",
+        "the European Union",
+        "two",
+        "the \" Destination Earth",
+        "mid-2021"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Information system for decision-making",
+          "Information system for decision-making",
+          "Weather and climate models as a basis",
+          "Profiting from artificial intelligence"
+        ],
+        "content_length": 6934
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the Institute for High Performance Computing Systems",
+        "Peter Bauer",
+        "ERC",
+        "Stevens",
+        "the Swiss National Supercomputing Centre",
+        "Clim",
+        "EUMETSAT",
+        "the European Union",
+        "ESA",
+        "the European Organisation for the Exploitation of Meteorological Satellites",
+        "ECMWF",
+        "Hoefler",
+        "Thomas Schulthess",
+        "EU",
+        "GPU",
+        "Bauer",
+        "Sci",
+        "CSCS",
+        "the European Space Agency",
+        "CSCS’s Schulthess",
+        "the European Centre for Medium-Range Weather Forecasts",
+        "Chang",
+        "Torsten Hoefler",
+        "ETH Zurich",
+        "CPU",
+        "2021",
+        "W. A"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "the \" Destination Earth",
+        "mathematics",
+        "about 20,000",
+        "Nature Computational Science",
+        "who",
+        "10.1038",
+        "one kilometre",
+        "two-metre",
+        "what",
+        "how",
+        "an estimated 20MW",
+        "computer_science",
+        "5 per cent",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Clim_has_role_scientist",
+        "Clim_has_role_rector",
+        "Clim_has_role_professor",
+        "Clim_has_role_director",
+        "Clim_has_role_researcher",
+        "Peter Bauer_has_role_director",
+        "Peter Bauer_has_role_rector",
+        "Sci_has_role_scientist",
+        "Sci_has_role_rector",
+        "Sci_has_role_professor",
+        "Sci_has_role_director",
+        "Sci_has_role_researcher",
+        "Thomas Schulthess_has_role_professor",
+        "Thomas Schulthess_has_role_director",
+        "Thomas Schulthess_has_role_scientist",
+        "Thomas Schulthess_has_role_rector",
+        "Torsten Hoefler_has_role_professor",
+        "Torsten Hoefler_has_role_director",
+        "Torsten Hoefler_has_role_scientist",
+        "Torsten Hoefler_has_role_rector",
+        "research_domain_technology",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

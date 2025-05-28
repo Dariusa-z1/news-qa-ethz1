@@ -1,0 +1,490 @@
+{
+  "filename": "blueprint-for-the-perfect-coronavirus-app.md",
+  "original_filename": "blueprint-for-the-perfect-coronavirus-app.html",
+  "source_path": "en_news_events/2020/07/blueprint-for-the-perfect-coronavirus-app.html",
+  "date": "2020-07",
+  "title": "Blueprint For The Perfect Coronavirus App",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "No miracle solution",
+      "text": "Handwashing, social distancing and mask wearing: all these measures have proven effective in the current COVID-19 pandemic – just as they were 100 years ago when the Spanish flu was raging throughout the world. However, the difference this time is that we have additional options at our disposal. Many countries are now using digital tools such as tracing apps to supplement those tried and tested measures.\n\nWhether these new tools will actually achieve the desired effect remains to be seen. There are several reasons why they might not be as successful as hoped: technical shortcomings, lack of acceptance by the population and inaccurate data are all factors that could hinder their success. In the worst case, digital aids could become a data protection nightmare or lead to discrimination against certain groups of the population."
+    },
+    {
+      "heading": "No miracle solution",
+      "text": "And that’s the exact opposite of what these tools should do, says Effy Vayena, Professor of Bioethics at ETH Zurich. She and her group recently published a comprehensive study outlining the ethical and legal aspects that must be considered when developing and implementing digital tools. “These can naturally be very useful instruments,” she explains, “but you can’t expect miracles from them.”\n\nThe authors of the study focused their investigation on four tool categories: contact tracing apps, including the SwissCovid app co-developed by EPFL and ETH Zurich; programs that can be used to assess whether an infection is present based on symptoms; apps for checking whether quarantine regulations are being observed; and flow models of the kind that Google uses for mobility reports."
+    },
+    {
+      "heading": "A careless approach will backfire",
+      "text": "Although such tools are all very different, in each case it is crucial to carefully weigh up the advantages of the technology against the potential disadvantages for the society – for example with regard to data protection. That might sound obvious. But it’s precisely in acute situations, when policymakers and the public are keen for tools to be made available quickly, that time to clarify these points in detail seems to be lacking. Don’t be deceived, Vayena says: “People sometimes have completely unrealistic expectations of what an app can do, but one single technology can never be the answer to the whole problem. And if the solution we’ve come up with is flawed because we didn’t consider everything carefully enough, then that will undermine its long-term success.”\n\nFor that reason, Vayena stresses the critical importance of rigorous scientific validation. “Does the technology actually work as intended? Is it effective enough? Does it provide enough reliable data? We have to keep verifying all those things,” she says, explaining that there are also lots of questions surrounding social acceptance: “Back in April, over 70 percent of people in Switzerland were saying they would install the coronavirus app as soon as it became available,” she says. “Now, at the end of June, over half say they don’t want to install it. Why the sudden change of heart?”"
+    },
+    {
+      "heading": "Considering the adverse effects",
+      "text": "The researchers highlight a whole range of ethical issues that need to be considered in the development stage. For example, developers must ensure that the data an app collects is not used for anything other than its intended purpose without the users’ prior knowledge. A shocking example of this is a Chinese app for assessing quarantine measures, which reportedly shares information directly with the police. Another of the ETH researchers’ stipulations is that these digital tools be deployed only for a limited timeframe so as to ensure that the authorities do not subsequently misuse them for monitoring the population.\n\nTo round off, the authors also address issues of accessibility and discrimination. Some apps collect socio-demographic data. While this information is useful for health authorities, there is a risk it may lead to discrimination. At the start of the outbreak, it became apparent just how quickly some people were prepared to denigrate others in a crisis, when all people of Asian origin were being wrongly suspected of possibly carrying the coronavirus. “You have to think about these adverse effects from the outset,” Vayena explains."
+    },
+    {
+      "heading": "The same principles apply everywhere",
+      "text": "So how should developers of such apps go about it? The researchers provide a step-by-step overview of the questions that must be answered in each phase of the development process – from planning all the way through to implementation. “Of course, there will always be certain features that are specific to different countries,” Vayena says, “but the basic principles – respecting autonomy and privacy, promoting health care and solidarity, and preventing new infections and malicious behaviour – are the same everywhere. By taking these fundamentals into account, it’s possible to find technically and ethically sound solutions that can play a valuable role in overcoming the crisis in hand.”\n\nGasser U, Ienca M, Scheibner J, Sleigh J, Vayena E. Digital tools against COVID-19: taxonomy, ethical challenges, and navigation aid. The Lancet Digital Health. 29. June 2020. DOI: 10.1016/S2589-7500(20)30137-0\n\nEthical considerations to guide the use of digital proximity tracking technologies for COVID-19 contact tracing. WHO interim guidance, 28 May 2020: The document was developed in consultation with an expert working group chaired by ETH Professor Effy Vayena. https://www.who.int/publications/i/item/WHO-2019-nCoV-Ethics_Contact_tracing_apps-2020.1"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Perfect Coronavirus App",
+        "label": "WORK_OF_ART",
+        "start": 37,
+        "end": 64
+      },
+      {
+        "text": "COVID-19",
+        "label": "PERSON",
+        "start": 105,
+        "end": 113
+      },
+      {
+        "text": "100 years ago",
+        "label": "DATE",
+        "start": 143,
+        "end": 156
+      },
+      {
+        "text": "Spanish",
+        "label": "NORP",
+        "start": 166,
+        "end": 173
+      },
+      {
+        "text": "Effy Vayena",
+        "label": "PERSON",
+        "start": 66,
+        "end": 77
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 109,
+        "end": 115
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 451,
+        "end": 455
+      },
+      {
+        "text": "SwissCovid",
+        "label": "ORG",
+        "start": 509,
+        "end": 519
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 540,
+        "end": 544
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 549,
+        "end": 559
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 750,
+        "end": 756
+      },
+      {
+        "text": "Vayena",
+        "label": "PERSON",
+        "start": 456,
+        "end": 462
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 555,
+        "end": 558
+      },
+      {
+        "text": "Vayena",
+        "label": "PERSON",
+        "start": 794,
+        "end": 800
+      },
+      {
+        "text": "April",
+        "label": "DATE",
+        "start": 1123,
+        "end": 1128
+      },
+      {
+        "text": "70 percent",
+        "label": "PERCENT",
+        "start": 1135,
+        "end": 1145
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1159,
+        "end": 1170
+      },
+      {
+        "text": "the end of June",
+        "label": "DATE",
+        "start": 1274,
+        "end": 1289
+      },
+      {
+        "text": "over half",
+        "label": "CARDINAL",
+        "start": 1291,
+        "end": 1300
+      },
+      {
+        "text": "Chinese",
+        "label": "NORP",
+        "start": 302,
+        "end": 309
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 426,
+        "end": 429
+      },
+      {
+        "text": "Asian",
+        "label": "NORP",
+        "start": 998,
+        "end": 1003
+      },
+      {
+        "text": "Vayena",
+        "label": "PERSON",
+        "start": 1143,
+        "end": 1149
+      },
+      {
+        "text": "Vayena",
+        "label": "PERSON",
+        "start": 327,
+        "end": 333
+      },
+      {
+        "text": "Gasser U",
+        "label": "PERSON",
+        "start": 692,
+        "end": 700
+      },
+      {
+        "text": "Ienca M",
+        "label": "ORG",
+        "start": 702,
+        "end": 709
+      },
+      {
+        "text": "Vayena E. Digital",
+        "label": "PERSON",
+        "start": 734,
+        "end": 751
+      },
+      {
+        "text": "COVID-19",
+        "label": "PERSON",
+        "start": 766,
+        "end": 774
+      },
+      {
+        "text": "The Lancet Digital Health",
+        "label": "ORG",
+        "start": 826,
+        "end": 851
+      },
+      {
+        "text": "June 2020",
+        "label": "DATE",
+        "start": 857,
+        "end": 866
+      },
+      {
+        "text": "10.1016/S2589-7500(20)30137",
+        "label": "CARDINAL",
+        "start": 873,
+        "end": 900
+      },
+      {
+        "text": "COVID-19",
+        "label": "PERSON",
+        "start": 990,
+        "end": 998
+      },
+      {
+        "text": "28 May 2020",
+        "label": "DATE",
+        "start": 1038,
+        "end": 1049
+      },
+      {
+        "text": "ETH Professor",
+        "label": "ORG",
+        "start": 1134,
+        "end": 1147
+      },
+      {
+        "text": "Effy Vayena",
+        "label": "PERSON",
+        "start": 1148,
+        "end": 1159
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "COVID-19",
+        "ETH Zurich",
+        "Effy Vayena",
+        "Gasser U",
+        "Vayena",
+        "Vayena E. Digital"
+      ],
+      "ORG": [
+        "EPFL",
+        "ETH",
+        "ETH Professor",
+        "Google",
+        "Ienca M",
+        "SwissCovid",
+        "The Lancet Digital Health"
+      ],
+      "LOCATION": [
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "100 years ago",
+        "28 May 2020",
+        "April",
+        "June 2020",
+        "the end of June"
+      ],
+      "MISC": [
+        "10.1016/S2589-7500(20)30137",
+        "70 percent",
+        "Asian",
+        "Chinese",
+        "Spanish",
+        "The Perfect Coronavirus App",
+        "four",
+        "one",
+        "over half"
+      ]
+    },
+    "entity_counts": {
+      "Vayena": 4,
+      "COVID-19": 3,
+      "Effy Vayena": 2,
+      "The Perfect Coronavirus App": 1,
+      "100 years ago": 1,
+      "Spanish": 1,
+      "Zurich": 1,
+      "four": 1,
+      "SwissCovid": 1,
+      "EPFL": 1,
+      "ETH Zurich": 1,
+      "Google": 1,
+      "one": 1,
+      "April": 1,
+      "70 percent": 1,
+      "Switzerland": 1,
+      "the end of June": 1,
+      "over half": 1,
+      "Chinese": 1,
+      "ETH": 1
+    },
+    "total_entities": 35,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "blueprint-for-the-perfect-coronavirus-app.md",
+      "title": "En News Events/2020/07/blueprint For The Perfect Coronavirus App",
+      "language": "en",
+      "source_path": "en_news_events/2020/07/blueprint-for-the-perfect-coronavirus-app.html"
+    },
+    "temporal": {
+      "publication_date": "2020-07",
+      "mentioned_years": [
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "COVID-19",
+        "ETH Zurich",
+        "Effy Vayena",
+        "Gasser U",
+        "Vayena",
+        "Vayena E. Digital"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "professor"
+        ],
+        "Effy Vayena": [
+          "Professor",
+          "chair",
+          "professor"
+        ],
+        "Vayena": [
+          "chair",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "chair",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "10.1016/S2589-7500(20)30137",
+        "70 percent",
+        "Asian",
+        "Chinese",
+        "Spanish",
+        "The Perfect Coronavirus App",
+        "four",
+        "over half"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Gasser U",
+        "Perfect Coronavirus",
+        "Ienca M",
+        "Digital Health",
+        "En News",
+        "App Handwashing",
+        "ETH Professor",
+        "Sleigh J",
+        "Scheibner J",
+        "Effy Vayena",
+        "ETH Zurich",
+        "Vayena E",
+        "The Lancet",
+        "For The"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "EPFL",
+        "ETH",
+        "ETH Professor",
+        "Google",
+        "Ienca M",
+        "SwissCovid",
+        "The Lancet Digital Health"
+      ],
+      "locations": [
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Vayena",
+        "COVID-19",
+        "Effy Vayena",
+        "The Perfect Coronavirus App",
+        "100 years ago",
+        "Spanish",
+        "Zurich",
+        "four",
+        "SwissCovid",
+        "EPFL"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "No miracle solution",
+          "No miracle solution",
+          "A careless approach will backfire",
+          "Considering the adverse effects",
+          "The same principles apply everywhere"
+        ],
+        "content_length": 5469
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Gasser U",
+        "EPFL",
+        "ETH",
+        "Google",
+        "Ienca M",
+        "SwissCovid",
+        "The Lancet Digital Health",
+        "2019",
+        "Vayena",
+        "2020",
+        "ETH Zurich",
+        "ETH Professor",
+        "Vayena E. Digital",
+        "Effy Vayena",
+        "COVID-19",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "over half",
+        "Spanish",
+        "four",
+        "who",
+        "Chinese",
+        "Asian",
+        "what",
+        "70 percent",
+        "10.1016/S2589-7500(20)30137",
+        "The Perfect Coronavirus App",
+        "medical_research",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_professor",
+        "Effy Vayena_has_role_Professor",
+        "Effy Vayena_has_role_chair",
+        "Effy Vayena_has_role_professor",
+        "Vayena_has_role_chair",
+        "Vayena_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

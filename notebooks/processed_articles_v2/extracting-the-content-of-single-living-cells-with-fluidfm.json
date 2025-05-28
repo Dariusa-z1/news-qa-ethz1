@@ -1,0 +1,505 @@
+{
+  "filename": "extracting-the-content-of-single-living-cells-with-fluidfm.md",
+  "original_filename": "extracting-the-content-of-single-living-cells-with-fluidfm.html",
+  "source_path": "en_news_events/2016/07/extracting-the-content-of-single-living-cells-with-fluidfm.html",
+  "date": "2016-07",
+  "title": "Extracting The Content Of Single Living Cells With Fluidfm",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Cells remain alive",
+      "text": "ETH researchers have developed a method using a nanosyringe whose tiny needle is able to penetrate single living cells and extract their content. The technology can be used for cell cultures, for example, in order to investigate the interior of the cells. This allows scientists to identify the differences between individual cells at the molecular level, as well as to identify and analyse rare cell types. “Our method opens up new frontiers in biological research. It is the start of a whole new chapter, so to speak”, says Professor Julia Vorholt from the Department of Biology.\n\nThe new method has numerous advantages: researchers can sample individual cells of a tissue culture directly in the petri dish. “This means we can study how a cell affects its neighbouring cells”, says Orane Guillaume-Gentil, a postdoc in Professor Vorholt’s research group. This type of investigation is not possible using conventional methods, as molecular analyses generally require the cells to first be physically separated and then destroyed."
+    },
+    {
+      "heading": "Cells remain alive",
+      "text": "On top of that, the microscopic needle can be controlled so precisely that scientists are able either to harvest the content of the nucleus or collect the intracellular fluid surrounding the nucleus, the cytosol. Last but not least, the researchers can determine the amount of intracellular material they extract with incredible accuracy, down to one tenth of a pictolitre (one trillionth of a litre). By way of comparison: the volume of a cell is 10 to 100 times bigger."
+    },
+    {
+      "heading": "Reference",
+      "text": "The cells from which molecules were extracted remain alive, so researchers are free to sample the same live cell several times in order to analyse its RNA and proteins – and possibly even metabolites in the future. “We were surprised to find that the cells we examined survived even after we had extracted most of their cytosol”, says ETH professor Vorholt. This underscores the amazing plasticity of biological cells.\n\nThe new cell extraction method is based on a microinjection system developed at ETH over the past years, the FluidFM, which is the “world’s smallest automated syringe”. This already gave biologists a way to inject substances into individual cells. FluidFM and its nanosyringe were also ideal for gently sucking up cells through underpressure and relocating them elsewhere.\n\nProfessor Vorholt and her research group took the system a stage further, allowing material to be extracted from the cell compartment as well. “One particularly important aspect was to find a suitable coating for the needle, to prevent fouling by cell material”, comments Guillaume-Gentil. Another challenge was to adapt the analysis techniques used for the cell molecules – for measuring enzyme activity, for example – to the minute measurement volumes. The latest development of the system was carried out in close collaboration with researchers working under Tomaso Zambelli, Privatdozent at ETH Zurich’s Department of Information Technology and Electrical Engineering, Martin Pilhofer, Professor at the Institute of Molecular Biology and Biophysics, and the ETH spin-off Cytosurge, which markets the FluidFM technology.\n\nGuillaume-Gentil O, Grindberg RV, Kooger R, Dorwling-Cater L, Martinez V, Ossola D, Pilhofer M, Zambelli T, Vorholt JA: Tunable single-cell extraction for molecular analysis. Cell 2016, 166: 506-516, doi: 10.1016/j.cell.2016.06.025"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Content Of Single Living Cells With Fluidfm",
+        "label": "ORG",
+        "start": 34,
+        "end": 81
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Julia Vorholt",
+        "label": "PERSON",
+        "start": 536,
+        "end": 549
+      },
+      {
+        "text": "the Department of Biology",
+        "label": "ORG",
+        "start": 555,
+        "end": 580
+      },
+      {
+        "text": "Orane Guillaume-Gentil",
+        "label": "PERSON",
+        "start": 784,
+        "end": 806
+      },
+      {
+        "text": "Vorholt",
+        "label": "PERSON",
+        "start": 831,
+        "end": 838
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 981,
+        "end": 986
+      },
+      {
+        "text": "one tenth",
+        "label": "CARDINAL",
+        "start": 347,
+        "end": 356
+      },
+      {
+        "text": "10 to 100",
+        "label": "CARDINAL",
+        "start": 448,
+        "end": 457
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 151,
+        "end": 154
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 335,
+        "end": 338
+      },
+      {
+        "text": "Vorholt",
+        "label": "PERSON",
+        "start": 349,
+        "end": 356
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 499,
+        "end": 502
+      },
+      {
+        "text": "the past years",
+        "label": "DATE",
+        "start": 508,
+        "end": 522
+      },
+      {
+        "text": "Vorholt",
+        "label": "PERSON",
+        "start": 802,
+        "end": 809
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 936,
+        "end": 939
+      },
+      {
+        "text": "Tomaso Zambelli",
+        "label": "PERSON",
+        "start": 1354,
+        "end": 1369
+      },
+      {
+        "text": "Privatdozent",
+        "label": "GPE",
+        "start": 1371,
+        "end": 1383
+      },
+      {
+        "text": "ETH Zurich’s Department of Information Technology",
+        "label": "ORG",
+        "start": 1387,
+        "end": 1436
+      },
+      {
+        "text": "Electrical Engineering",
+        "label": "ORG",
+        "start": 1441,
+        "end": 1463
+      },
+      {
+        "text": "Martin Pilhofer",
+        "label": "PERSON",
+        "start": 1465,
+        "end": 1480
+      },
+      {
+        "text": "the Institute of Molecular Biology and Biophysics",
+        "label": "ORG",
+        "start": 1495,
+        "end": 1544
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1554,
+        "end": 1557
+      },
+      {
+        "text": "Cytosurge",
+        "label": "ORG",
+        "start": 1567,
+        "end": 1576
+      },
+      {
+        "text": "Grindberg RV",
+        "label": "PERSON",
+        "start": 1636,
+        "end": 1648
+      },
+      {
+        "text": "Kooger",
+        "label": "PERSON",
+        "start": 1650,
+        "end": 1656
+      },
+      {
+        "text": "Dorwling-Cater L",
+        "label": "ORG",
+        "start": 1660,
+        "end": 1676
+      },
+      {
+        "text": "Ossola",
+        "label": "ORG",
+        "start": 1690,
+        "end": 1696
+      },
+      {
+        "text": "Pilhofer M",
+        "label": "PERSON",
+        "start": 1700,
+        "end": 1710
+      },
+      {
+        "text": "Zambelli",
+        "label": "PERSON",
+        "start": 1712,
+        "end": 1720
+      },
+      {
+        "text": "Tunable",
+        "label": "ORG",
+        "start": 1736,
+        "end": 1743
+      },
+      {
+        "text": "506-516",
+        "label": "CARDINAL",
+        "start": 1807,
+        "end": 1814
+      },
+      {
+        "text": "10.1016/j.cell.2016.06.025",
+        "label": "CARDINAL",
+        "start": 1821,
+        "end": 1847
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Grindberg RV",
+        "Julia Vorholt",
+        "Kooger",
+        "Martin Pilhofer",
+        "Orane Guillaume-Gentil",
+        "Pilhofer M",
+        "Tomaso Zambelli",
+        "Vorholt",
+        "Zambelli"
+      ],
+      "ORG": [
+        "Cytosurge",
+        "Dorwling-Cater L",
+        "ETH",
+        "ETH Zurich’s Department of Information Technology",
+        "Electrical Engineering",
+        "Ossola",
+        "RNA",
+        "The Content Of Single Living Cells With Fluidfm",
+        "Tunable",
+        "the Department of Biology",
+        "the Institute of Molecular Biology and Biophysics"
+      ],
+      "LOCATION": [
+        "Privatdozent"
+      ],
+      "DATE": [
+        "the past years"
+      ],
+      "MISC": [
+        "10 to 100",
+        "10.1016/j.cell.2016.06.025",
+        "506-516",
+        "One",
+        "first",
+        "one tenth"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 4,
+      "Vorholt": 3,
+      "The Content Of Single Living Cells With Fluidfm": 1,
+      "Julia Vorholt": 1,
+      "the Department of Biology": 1,
+      "Orane Guillaume-Gentil": 1,
+      "first": 1,
+      "one tenth": 1,
+      "10 to 100": 1,
+      "RNA": 1,
+      "the past years": 1,
+      "One": 1,
+      "Tomaso Zambelli": 1,
+      "Privatdozent": 1,
+      "ETH Zurich’s Department of Information Technology": 1,
+      "Electrical Engineering": 1,
+      "Martin Pilhofer": 1,
+      "the Institute of Molecular Biology and Biophysics": 1,
+      "Cytosurge": 1,
+      "Grindberg RV": 1
+    },
+    "total_entities": 33,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "extracting-the-content-of-single-living-cells-with-fluidfm.md",
+      "title": "En News Events/2016/07/extracting The Content Of Single Living Cells With Fluidfm",
+      "language": "en",
+      "source_path": "en_news_events/2016/07/extracting-the-content-of-single-living-cells-with-fluidfm.html"
+    },
+    "temporal": {
+      "publication_date": "2016-07",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Grindberg RV",
+        "Julia Vorholt",
+        "Kooger",
+        "Martin Pilhofer",
+        "Orane Guillaume-Gentil",
+        "Pilhofer M",
+        "Tomaso Zambelli",
+        "Vorholt",
+        "Zambelli"
+      ],
+      "people_with_roles": {
+        "Julia Vorholt": [
+          "Professor",
+          "professor"
+        ],
+        "Martin Pilhofer": [
+          "researcher",
+          "professor"
+        ],
+        "Orane Guillaume-Gentil": [
+          "professor"
+        ],
+        "Tomaso Zambelli": [
+          "researcher",
+          "professor"
+        ],
+        "Vorholt": [
+          "Professor",
+          "professor"
+        ],
+        "Zambelli": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10 to 100",
+        "10.1016/j.cell.2016.06.025",
+        "506-516",
+        "first",
+        "one tenth"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Ossola D",
+        "Grindberg RV",
+        "Molecular Biology",
+        "Vorholt JA",
+        "Of Single",
+        "Pilhofer M",
+        "Kooger R",
+        "Orane Guillaume",
+        "Tomaso Zambelli",
+        "Dorwling-Cater",
+        "The Content",
+        "Information Technology",
+        "Martin Pilhofer",
+        "Electrical Engineering",
+        "With Fluidfm",
+        "Martinez V",
+        "Professor Vorholt",
+        "En News",
+        "Guillaume-Gentil",
+        "Professor Julia",
+        "Living Cells",
+        "ETH Zurich",
+        "Zambelli T"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biology",
+        "Information Technology and Electrical Engineering"
+      ],
+      "institutions": [
+        "Cytosurge",
+        "Dorwling-Cater L",
+        "ETH",
+        "ETH Zurich’s Department of Information Technology",
+        "Electrical Engineering",
+        "Ossola",
+        "RNA",
+        "The Content Of Single Living Cells With Fluidfm",
+        "Tunable",
+        "the Department of Biology",
+        "the Institute of Molecular Biology and Biophysics"
+      ],
+      "locations": [
+        "Privatdozent"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Vorholt",
+        "The Content Of Single Living Cells With Fluidfm",
+        "Julia Vorholt",
+        "the Department of Biology",
+        "Orane Guillaume-Gentil",
+        "first",
+        "one tenth",
+        "10 to 100",
+        "RNA"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Cells remain alive",
+          "Cells remain alive",
+          "Reference"
+        ],
+        "content_length": 3436
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Grindberg RV",
+        "The Content Of Single Living Cells With Fluidfm",
+        "2016",
+        "Julia Vorholt",
+        "Pilhofer M",
+        "Cytosurge",
+        "Orane Guillaume-Gentil",
+        "the Department of Biology",
+        "the Institute of Molecular Biology and Biophysics",
+        "Tomaso Zambelli",
+        "Tunable",
+        "Vorholt",
+        "Martin Pilhofer",
+        "Electrical Engineering",
+        "RNA",
+        "Kooger",
+        "EU",
+        "Zambelli",
+        "ETH Zurich’s Department of Information Technology",
+        "Ossola",
+        "Dorwling-Cater L"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "who",
+        "10 to 100",
+        "chemistry",
+        "one tenth",
+        "where",
+        "biology",
+        "506-516",
+        "what",
+        "how",
+        "10.1016/j.cell.2016.06.025",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Julia Vorholt_has_role_Professor",
+        "Julia Vorholt_has_role_professor",
+        "Martin Pilhofer_has_role_researcher",
+        "Martin Pilhofer_has_role_professor",
+        "Orane Guillaume-Gentil_has_role_professor",
+        "Tomaso Zambelli_has_role_researcher",
+        "Tomaso Zambelli_has_role_professor",
+        "Vorholt_has_role_Professor",
+        "Vorholt_has_role_professor",
+        "Zambelli_has_role_researcher",
+        "Zambelli_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

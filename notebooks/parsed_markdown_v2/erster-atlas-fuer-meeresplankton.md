@@ -1,0 +1,34 @@
+# erster-atlas-fuer-meeresplankton.html
+
+**Source:** de_news_events/2013/07/erster-atlas-fuer-meeresplankton.html
+
+## Von Bakterien bis zum Kleinkrebs
+
+Ozeane bedecken 70 Prozent der Erdoberfläche. Was sich in diesen riesigen Weiten und schier endlosen Tiefen an Pflanzenarten und Lebewesen verbirgt, ist im Vergleich zu terrestrischen Ökosystemen wenig erforscht. Besonders wenig weiss man bisher über die Verbreitung von Plankton, also denjenigen Organismen, die zu klein sind, um gegen die Ozeanströmungen zu schwimmen. In einem gross angelegten Projekt, koordiniert von Forschenden der ETH Zürich und der University of East Anglia (GB), haben sich Wissenschaftler zahlreicher Universitäten und Observatorien zusammengeschlossen, um weltweit zu erhe-ben, welches Plankton wo und wann vorkommt, und um zu ermitteln, wie viel Kohlenstoff in ihm gebunden ist. An 500'000 Messpunkten, verteilt über den ganzen Erdball, sammelten sie Daten zu Artenvielfalt und Biomasse von Plankton.
+
+## Von Bakterien bis zum Kleinkrebs
+
+Diese Daten fassen die Wissenschaftler nun in einem globalen Atlas zusammen. Das Werk ist soeben unter dem Namen MAREDAT in einer Sonderausgabe der Zeitschrift «Earth System Science Data» erschienen und liefert Angaben zu Phytoplankton und Bakterien von einem Pikometer — einem Milliardstel Milli-meter — Grösse bis zu Zentimeter grossem Zooplankton wie Krill und andere Kleinkrebsen. Denn trotz der Winzigkeit einzelner Bestandteile spielt Plankton im Meer eine überragende Rolle: Plankton sind einerseits ein wichtiger Treiber der globalen biogeochemischen Kreisläufe und bilden andererseits die Nahrungsgrundlage mariner Ökosysteme.
+
+So nimmt beispielsweise pflanzliches Plankton CO2 zur Photosynthese auf, gibt Sauerstoff in die Atmosphäre ab und verfrachtet einen guten Teil des aufgenommenen Kohlenstoffs in die Tiefen der Weltmeere, wenn es abstirbt und zu Boden sinkt. Damit entzieht das Phytoplankton der Atmosphäre CO2 und trägt dazu bei, das globale Klima zu regulieren. Plankton steuert auch den marinen Stickstoffkreislauf und kann über den Schwefelkreislauf sogar die Wolkenbildung beeinflussen. Tierisches Plankton wie Krill ist eine wichtige Nahrungsquelle für Wale, Fische und anderen höhere Meereslebewesen, die wiederum von Menschen genutzt werden.
+
+## Hunderttausende Daten zu globalem Puzzle zusammensetzen
+
+Meike Vogt, Oberassistentin am Institut für Biogeochemie und Schadstoffdyna-mik der ETH Zürich, hat das Projekt zusammen mit britischen Kollegen der University of East Anglia koordiniert. «Daten von einer halben Million Messstationen auszuwerten, war ein enorm ambitioniertes Unterfangen und wäre ohne internationale Zusammenarbeit nicht zu machen gewesen», sagt die Wissenschaftlerin. Die Forschenden durchforsteten Datenbanken und Publikationen und extrahierten die Daten teilweise sogar aus handschriftlichen Notizen. Alle Daten unterzogen sie einer sorgfältigen Qualitätskontrolle, bevor sie sie in Biomasse umrechnen konnten. Besonders viel Zeit habe es gebraucht, um die verschiedenen Forschungsinstitutionen, welche solche Daten erheben, zur Mitarbeit zu bewegen und die unterschiedlichen, teilweise historischen Beiträge zu vereinheitlichen.
+
+## Plankton-Daten für die Klimawissenschaft
+
+Die Daten helfen zu verstehen, wie sich planktonische Organismen in Ökosystemen organisieren. Zum Beispiel können sie Auskunft über die Biodiversität verschiedener Meeresregionen geben. Die Wissenschaftler interessiert dabei unter anderem, welche Spezies gemeinsam mit anderen auftreten und ob sich davon bestimmte Lebensräume und biogeografische Regionen mit ähnlicher biogeochemischer Funktion ableiten lassen. Davon erhoffen sich die Forschenden Aufschluss darüber, welchen Beitrag Plankton in verschiedenen Ozeanre-gionen als Treiber biogeochemischer Kreisläufe der Erde leistet.
+
+Wertvoll sind die Daten deshalb auch für Klimawissenschaftler, die nun über eine solidere Datengrundlage verfügen, um ihre Modelle zu validieren. Bislang arbeiten sie mit einfachen Ozean-Ökosystem-Modellen, die höchstens zwei Arten von Zoo- und Phytoplankton unterscheiden. Gelingt es den Wissenschaftlern, die ökologische Diversität besser abzubilden, indem sie weitere Planktongruppen berücksichtigen, dann würde das genauere Voraussagen in Bezug auf die Rolle des Ozeans als Kohlenstoffsenke erlauben.
+
+## Gestörtes Ökosystem
+
+«Die Menschen stören das System Ozean auf unterschiedlichste Art und Weise und auf diversen Ebenen der Nahrungskette», sagt Meike Vogt. Dadurch, dass die Meeres-Ökosysteme sehr komplex seien, hätte man noch wenig Ahnung davon, wie sich etwa die Überfischung oder Ansäuerung der Meere auswirken werde. Insbesondere weil man nicht wisse, welche Lebewesen sich wo befinden. Immerhin zeigen erste Auswertungen von MAREDAT, dass es in der Tiefsee viel mehr Organismen gibt als bisher angenommen. Ausserdem scheint es, dass Zooplankton in den Weltmeeren mindestens so viel Biomasse aufweist wie Phytoplankton. «Das ist erstaunlich, zumal es in den terrestrischen Systemen meist genau umkehrt ist und es mehr Pflanzen gibt als Tiere», sagt Meike Vogt. Die Gruppe von Meike Vogt nutzt MAREDAT auch, um grundlegende Hypothesen zur ökologischen Vielfalt zu bilden und ihre Modelle mit den neu gewonnen Daten zu überprüfen.
+
+«Wir können im Moment mit statistischen Modellen erste rudimentäre Verbreitungskarten generieren. Diese werden sich in den nächsten zehn Jahren jedoch stark verändern, weil wir von manchen Regionen zu wenige Proben haben, um diese realitätsgetreu abzubilden», sagt Meike Vogt. So sind der südliche Pazifik und einige Regionen im südlichen Ozean kaum erforscht. Deshalb wollen die Wissenschaftler MAREDAT im Jahr 2015 erstmals überarbeiten. Das Ziel ist, noch mehr Daten zu sammeln, um später eine Veränderung im Bestand des Planktons dokumentieren zu können.
+
+ETH Zürich Dr. Meike Vogt Institut für Biogeochemie und Schadstoffdynamik Tel. +41 44 632 84 99
+
+ETH Zürich Medienstelle Tel. +41 44 632 41 41
+

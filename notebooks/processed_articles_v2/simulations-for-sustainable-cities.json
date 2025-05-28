@@ -1,0 +1,434 @@
+{
+  "filename": "simulations-for-sustainable-cities.md",
+  "original_filename": "simulations-for-sustainable-cities.html",
+  "source_path": "en_news_events/2014/01/simulations-for-sustainable-cities.html",
+  "date": "2014-01",
+  "title": "Simulations For Sustainable Cities",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Flows of heat and traffic",
+      "text": "The occasion, rather improbably, was the mid-term review of Future Cities Laboratory (FCL), a research programme of the Singapore-ETH Centre for Global Environmental Sustainability (SEC). We were standing in FCL’s ‘Value Lab Asia’ in Singapore, which is dominated by a display screen taking up an entire wall and three smaller screens. An international evaluation committee was being shown some of the exciting simulation products developed during the first three years of research at SEC.\n\nThe FCL programme, which commenced in 2010, is composed of ten research modules led by professors at ETH Zürich, and three assistant professorships. The overall goal is improving the sustainability of cities, and individual FCL projects cover topics as diverse as new building materials, digital fabrication, mobility and transportation planning, urban design, urban sociology and territorial planning. An important part of the ‘glue’ holding these projects together is the simulation module, which lies at the core of the programme."
+    },
+    {
+      "heading": "Don't miss a post",
+      "text": "FCL researchers discussing modelling approaches in front of the video wall in the Value Lab Asia in Singapore (Photo: Future Cities Laboratory, 2013).\n\nMost projects make use of the superb facilities of “Value Lab Asia” (which has been modelled on the original Value Lab, a collaborative urban planning platform at ETH Zurich) for capturing and presenting 3-D data, and for translating their research into simulation tools for practitioners. For example, architects and planners can visualize the changing plumes of heat swirling around buildings as the wind changes, and explore how new designs would affect the city’s heat balance. Or they can gain a bird’s eye view of the city’s traffic streaming through the streets, and test how new developments - adding a bus route, for example, or giving motorists real-time information about congestion - would affect its flow. Not surprisingly, the Value Lab Asia attracts a steady stream of visitors from industry, government agencies and other research institutes.\n\nFCL employs around 150 research scientists, doctoral students and administrative staff from over 30 countries. In a remarkably short time it has established itself as a significant element in Singapore’s research landscape, working in close partnership with Singaporean universities, with government agencies, and with industry. The city itself has proved an excellent place to study the problems and opportunities for sustainability posed by rapid urban growth, but FCL’s research is not confined to Singapore. There are many other projects located throughout South-East Asia, and as far afield as Ethiopian and Brazil.\n\nFor me as incoming SEC director in succession of Gerhard Schmitt, being part of the research community in Singapore is an amazing experience. It is hard not to be impressed by this small country’s determination to build truly world-class academic institutions in collaboration with partners from around the world. On the other hand, with a population of over five million people occupying an area about the same size as the Bodensee, the city illustrates the immense challenges of achieving sustainability in a rapidly urbanising world. I look forward to my coming three years in this hectic yet inspiring environment. You will hear more from me and my FCL colleagues soon."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Future Cities Laboratory",
+        "label": "ORG",
+        "start": 60,
+        "end": 84
+      },
+      {
+        "text": "the Singapore-ETH Centre for Global Environmental Sustainability",
+        "label": "ORG",
+        "start": 116,
+        "end": 180
+      },
+      {
+        "text": "SEC",
+        "label": "ORG",
+        "start": 182,
+        "end": 185
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 234,
+        "end": 243
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 313,
+        "end": 318
+      },
+      {
+        "text": "the first three years",
+        "label": "DATE",
+        "start": 448,
+        "end": 469
+      },
+      {
+        "text": "SEC",
+        "label": "ORG",
+        "start": 485,
+        "end": 488
+      },
+      {
+        "text": "FCL",
+        "label": "ORG",
+        "start": 494,
+        "end": 497
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 549,
+        "end": 552
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 591,
+        "end": 601
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 607,
+        "end": 612
+      },
+      {
+        "text": "the Value Lab Asia",
+        "label": "LAW",
+        "start": 78,
+        "end": 96
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 100,
+        "end": 109
+      },
+      {
+        "text": "Photo: Future Cities Laboratory",
+        "label": "ORG",
+        "start": 111,
+        "end": 142
+      },
+      {
+        "text": "Value Lab Asia",
+        "label": "WORK_OF_ART",
+        "start": 203,
+        "end": 217
+      },
+      {
+        "text": "Value Lab",
+        "label": "PERSON",
+        "start": 260,
+        "end": 269
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 314,
+        "end": 324
+      },
+      {
+        "text": "around 150",
+        "label": "CARDINAL",
+        "start": 1022,
+        "end": 1032
+      },
+      {
+        "text": "over 30",
+        "label": "CARDINAL",
+        "start": 1102,
+        "end": 1109
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 1202,
+        "end": 1211
+      },
+      {
+        "text": "Singaporean",
+        "label": "NORP",
+        "start": 1268,
+        "end": 1279
+      },
+      {
+        "text": "FCL",
+        "label": "ORG",
+        "start": 1477,
+        "end": 1480
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 1511,
+        "end": 1520
+      },
+      {
+        "text": "South-East Asia",
+        "label": "LOC",
+        "start": 1571,
+        "end": 1586
+      },
+      {
+        "text": "Ethiopian",
+        "label": "NORP",
+        "start": 1609,
+        "end": 1618
+      },
+      {
+        "text": "Brazil",
+        "label": "GPE",
+        "start": 1623,
+        "end": 1629
+      },
+      {
+        "text": "SEC",
+        "label": "ORG",
+        "start": 1650,
+        "end": 1653
+      },
+      {
+        "text": "Gerhard Schmitt",
+        "label": "PERSON",
+        "start": 1680,
+        "end": 1695
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 1737,
+        "end": 1746
+      },
+      {
+        "text": "over five million",
+        "label": "CARDINAL",
+        "start": 1985,
+        "end": 2002
+      },
+      {
+        "text": "Bodensee",
+        "label": "PERSON",
+        "start": 2055,
+        "end": 2063
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bodensee",
+        "Gerhard Schmitt",
+        "Value Lab"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "FCL",
+        "Future Cities Laboratory",
+        "Photo: Future Cities Laboratory",
+        "SEC",
+        "the Singapore-ETH Centre for Global Environmental Sustainability"
+      ],
+      "LOCATION": [
+        "Brazil",
+        "ETH Zurich",
+        "Singapore",
+        "South-East Asia"
+      ],
+      "DATE": [
+        "the first three years"
+      ],
+      "MISC": [
+        "Ethiopian",
+        "Singaporean",
+        "Value Lab Asia",
+        "around 150",
+        "over 30",
+        "over five million",
+        "ten",
+        "the Value Lab Asia",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Singapore": 5,
+      "SEC": 3,
+      "three": 2,
+      "FCL": 2,
+      "Future Cities Laboratory": 1,
+      "the Singapore-ETH Centre for Global Environmental Sustainability": 1,
+      "the first three years": 1,
+      "ten": 1,
+      "ETH Zürich": 1,
+      "the Value Lab Asia": 1,
+      "Photo: Future Cities Laboratory": 1,
+      "Value Lab Asia": 1,
+      "Value Lab": 1,
+      "ETH Zurich": 1,
+      "around 150": 1,
+      "over 30": 1,
+      "Singaporean": 1,
+      "South-East Asia": 1,
+      "Ethiopian": 1,
+      "Brazil": 1
+    },
+    "total_entities": 31,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "simulations-for-sustainable-cities.md",
+      "title": "En News Events/2014/01/simulations For Sustainable Cities",
+      "language": "en",
+      "source_path": "en_news_events/2014/01/simulations-for-sustainable-cities.html"
+    },
+    "temporal": {
+      "publication_date": "2014-01",
+      "mentioned_years": [
+        "2010",
+        "2013",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bodensee",
+        "Gerhard Schmitt",
+        "Value Lab"
+      ],
+      "people_with_roles": {
+        "Gerhard Schmitt": [
+          "director",
+          "rector"
+        ],
+        "Value Lab": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Ethiopian",
+        "Singaporean",
+        "Value Lab Asia",
+        "around 150",
+        "over 30",
+        "over five million",
+        "the Value Lab Asia",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "Future Cities",
+        "Gerhard Schmitt",
+        "Cities The",
+        "For Sustainable",
+        "Value Lab",
+        "ETH Zurich",
+        "South-East",
+        "The FCL",
+        "Singapore-ETH",
+        "Global Environmental"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "FCL",
+        "Future Cities Laboratory",
+        "Photo: Future Cities Laboratory",
+        "SEC",
+        "the Singapore-ETH Centre for Global Environmental Sustainability"
+      ],
+      "locations": [
+        "Brazil",
+        "ETH Zurich",
+        "Singapore",
+        "South-East Asia"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Singapore",
+        "SEC",
+        "three",
+        "FCL",
+        "Future Cities Laboratory",
+        "the Singapore-ETH Centre for Global Environmental Sustainability",
+        "the first three years",
+        "ten",
+        "ETH Zürich",
+        "the Value Lab Asia"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Flows of heat and traffic",
+          "Don't miss a post"
+        ],
+        "content_length": 3390
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Singapore-ETH Centre for Global Environmental Sustainability",
+        "Future Cities Laboratory",
+        "2013",
+        "FCL",
+        "Photo: Future Cities Laboratory",
+        "2010",
+        "Gerhard Schmitt",
+        "ETH Zürich",
+        "SEC",
+        "Value Lab",
+        "2014",
+        "Bodensee"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Ethiopian",
+        "Value Lab Asia",
+        "Singaporean",
+        "three",
+        "who",
+        "over 30",
+        "over five million",
+        "where",
+        "what",
+        "how",
+        "climate_change",
+        "why",
+        "when",
+        "engineering",
+        "the Value Lab Asia",
+        "around 150"
+      ],
+      "graph_relations": [
+        "Gerhard Schmitt_has_role_director",
+        "Gerhard Schmitt_has_role_rector",
+        "Value Lab_has_role_researcher",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

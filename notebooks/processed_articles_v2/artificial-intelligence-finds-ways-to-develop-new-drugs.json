@@ -1,0 +1,495 @@
+{
+  "filename": "artificial-intelligence-finds-ways-to-develop-new-drugs.md",
+  "original_filename": "artificial-intelligence-finds-ways-to-develop-new-drugs.html",
+  "source_path": "en_news_events/2023/11/artificial-intelligence-finds-ways-to-develop-new-drugs.html",
+  "date": "2023-11",
+  "title": "Artificial Intelligence Finds Ways To Develop New Drugs",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- To date, identifying and producing new active pharmaceutical ingredients has been a complex process of trial and error. Researchers at ETH Zurich have developed an AI model that helps to identify suitable molecular sites for the development of new active ingredients.\n\n- The chemists tested the process using borylation – a reaction that activates hydrocarbon scaffolds.\n\n- This AI method can accelerate the development of new active pharmaceutical ingredients and the optimisation of existing ones."
+    },
+    {
+      "heading": "Introducing chemical functions",
+      "text": "New active pharmaceutical ingredients lay the foundations for innovative and better medical treatments. However, identifying them and, above all, producing them through chemical synthesis in the laboratory is no mean feat. To home in on the optimum production process, chemists normally use a trial-and-error approach: they derive possible methods for laboratory synthesis from known chemical reactions and then test each one with experiments; a time-consuming approach that is littered with dead ends.\n\nNow scientists at ETH Zurich, together with researchers from Roche Pharma Research and Early Development, have come up with an approach based on artificial intelligence (AI) that helps to determine the best synthesis method, including its probability of success. “Our method can greatly reduce the number of lab experiments required,” explains Kenneth Atz, who developed the AI model as a doctoral student together with Professor Gisbert Schneider at the Institute of Pharmaceutical Sciences at ETH Zurich.\n\nActive pharmaceutical ingredients usually consist of a scaffold onto which are bound what are known as functional groups. These are what gives the substance its highly specific biological function. The scaffold’s job is to bring the functional groups into a defined geometric alignment so that they can act in a targeted manner. Imagine a crane construction kit, in which a framework of connecting elements is bolted together in such a way that functional assemblies like rollers, cable winches, wheels and the driver’s cab are arranged correctly in relation to each other."
+    },
+    {
+      "heading": "Introducing chemical functions",
+      "text": "One way to produce drugs with a new or improved medicinal effect involves placing functional groups at new sites on the scaffolds. This might sound simple, and it certainly wouldn’t pose a problem on a model crane, but it is particularly difficult in chemistry. This is because the scaffolds, being primarily composed of carbon and hydrogen atoms, are themselves practically nonreactive, making it difficult to bond them with functional atoms such as oxygen, nitrogen or chlorine. For this to succeed, the scaffolds must first be chemically activated via detour reactions."
+    },
+    {
+      "heading": "High predictive power, especially with 3D data",
+      "text": "One activation method that opens up a great many possibilities for different functional groups, at least on paper, is borylation. In this process, a chemical group containing the element boron is bonded to a carbon atom in the scaffold. The boron group can then simply be replaced by a whole range of medically effective groups."
+    },
+    {
+      "heading": "Data from trustworthy sources and an automated lab",
+      "text": "“Although borylation has great potential, the reaction is difficult to control in the lab. That’s why our comprehensive search of the worldwide literature only turned up just over 1,700 scientific papers on the subject,” Atz says, describing the starting point for his work.\n\nThe idea was to take the reactions described in the scientific literature and use them to train an AI model, which the research team could then use to consider new molecules and identify as many sites as possible on them where borylation would be feasible. However, the researchers ultimately fed their model only a fraction of the literature they found. To ensure that the model wasn’t misled by false results from careless research, the team limited itself to 38 particularly trustworthy papers. These described a total of 1,380 borylation reactions.\n\nTo expand the training dataset, the team supplemented the literature results with evaluations of 1,000 reactions carried out in the automated laboratory operated by Roche’s medicinal chemistry research department. This allows many chemical reactions to be carried out at the milligram scale and analysed simultaneously. “Combining laboratory automation with AI has enormous potential to greatly increase efficiency in chemical synthesis and improve sustainability at the same time,” says David Nippa, a doctoral student from Roche who accomplished the project together with Atz.\n\nThe predictive capabilities of the model generated from this data pool were verified using six known drug molecules. In five out of six cases, experimental testing in the laboratory confirmed the predicted additional sites. The model was just as reliable when it came to identifying sites on the scaffold where activation isn’t possible. What’s more, it determined the optimum conditions for the activation reactions.\n\nInterestingly, the predictions got even better when 3D information on the starting materials was included rather than just their two-dimensional chemical formulas. “It seems the model develops a kind of three-dimensional chemical understanding,” Atz says.\n\nThe success rate of the predictions also impressed the researchers at Roche Pharma Research and Early Development. In the meantime, they have successfully used the method to identify sites in existing drugs where additional active groups can be introduced. This helps them to develop new and more effective variants of known active pharmaceutical ingredients more quickly.\n\nAtz and Schneider see numerous other possible applications for AI models that are based on a combination of data from trustworthy literature and from experiments conducted in an automated laboratory. For instance, this approach ought to make it possible to create effective models for activation reactions other than borylation. The team is also hoping to identify a wider range of reactions for further functionalising the borylated sites.\n\nAtz is now involved in this further development work as an AI scientist in medicinal chemistry research at Roche: “It is very exciting to work at the interface of academic AI research and laboratory automation. And it is a pleasure to be able to drive this forward with the best content and methods.” Schneider adds: “This innovative project is another outstanding example of collaboration between academia and industry and demonstrates the enormous potential of public-private partnerships for Switzerland.”"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Intelligence Finds Ways To Develop New Drugs",
+        "label": "ORG",
+        "start": 34,
+        "end": 78
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 137,
+        "end": 147
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 166,
+        "end": 168
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 379,
+        "end": 381
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 521,
+        "end": 531
+      },
+      {
+        "text": "Roche Pharma Research",
+        "label": "ORG",
+        "start": 564,
+        "end": 585
+      },
+      {
+        "text": "Kenneth Atz",
+        "label": "PERSON",
+        "start": 847,
+        "end": 858
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 878,
+        "end": 880
+      },
+      {
+        "text": "Gisbert Schneider",
+        "label": "PERSON",
+        "start": 933,
+        "end": 950
+      },
+      {
+        "text": "the Institute of Pharmaceutical Sciences",
+        "label": "ORG",
+        "start": 954,
+        "end": 994
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "just over 1,700",
+        "label": "CARDINAL",
+        "start": 170,
+        "end": 185
+      },
+      {
+        "text": "Atz",
+        "label": "PERSON",
+        "start": 221,
+        "end": 224
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 374,
+        "end": 376
+      },
+      {
+        "text": "1,380",
+        "label": "CARDINAL",
+        "start": 800,
+        "end": 805
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 925,
+        "end": 930
+      },
+      {
+        "text": "Roche",
+        "label": "ORG",
+        "start": 993,
+        "end": 998
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 1186,
+        "end": 1188
+      },
+      {
+        "text": "David Nippa",
+        "label": "PERSON",
+        "start": 1316,
+        "end": 1327
+      },
+      {
+        "text": "Roche",
+        "label": "ORG",
+        "start": 1353,
+        "end": 1358
+      },
+      {
+        "text": "Atz",
+        "label": "PERSON",
+        "start": 1402,
+        "end": 1405
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 1498,
+        "end": 1501
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 1527,
+        "end": 1531
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 1539,
+        "end": 1542
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1954,
+        "end": 1957
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 2028,
+        "end": 2033
+      },
+      {
+        "text": "Roche Pharma Research",
+        "label": "ORG",
+        "start": 2151,
+        "end": 2172
+      },
+      {
+        "text": "Schneider",
+        "label": "PERSON",
+        "start": 2462,
+        "end": 2471
+      },
+      {
+        "text": "AI",
+        "label": "ORG",
+        "start": 2517,
+        "end": 2519
+      },
+      {
+        "text": "AI",
+        "label": "ORG",
+        "start": 2954,
+        "end": 2956
+      },
+      {
+        "text": "Roche",
+        "label": "ORG",
+        "start": 3002,
+        "end": 3007
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 3067,
+        "end": 3069
+      },
+      {
+        "text": "Schneider",
+        "label": "PERSON",
+        "start": 3196,
+        "end": 3205
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 3390,
+        "end": 3401
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Atz",
+        "David Nippa",
+        "Gisbert Schneider",
+        "Kenneth Atz",
+        "Schneider"
+      ],
+      "ORG": [
+        "AI",
+        "ETH Zurich",
+        "Intelligence Finds Ways To Develop New Drugs",
+        "Roche",
+        "Roche Pharma Research",
+        "the Institute of Pharmaceutical Sciences"
+      ],
+      "LOCATION": [
+        "AI",
+        "Switzerland"
+      ],
+      "DATE": [],
+      "MISC": [
+        "1,000",
+        "1,380",
+        "One",
+        "five",
+        "just over 1,700",
+        "six",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "AI": 8,
+      "Roche": 3,
+      "ETH Zurich": 2,
+      "Roche Pharma Research": 2,
+      "One": 2,
+      "Atz": 2,
+      "six": 2,
+      "Schneider": 2,
+      "Intelligence Finds Ways To Develop New Drugs": 1,
+      "Kenneth Atz": 1,
+      "Gisbert Schneider": 1,
+      "the Institute of Pharmaceutical Sciences": 1,
+      "just over 1,700": 1,
+      "1,380": 1,
+      "1,000": 1,
+      "David Nippa": 1,
+      "five": 1,
+      "two": 1,
+      "three": 1,
+      "Switzerland": 1
+    },
+    "total_entities": 35,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "artificial-intelligence-finds-ways-to-develop-new-drugs.md",
+      "title": "En News Events/2023/11/artificial Intelligence Finds Ways To Develop New Drugs",
+      "language": "en",
+      "source_path": "en_news_events/2023/11/artificial-intelligence-finds-ways-to-develop-new-drugs.html"
+    },
+    "temporal": {
+      "publication_date": "2023-11",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Atz",
+        "David Nippa",
+        "Gisbert Schneider",
+        "Kenneth Atz",
+        "Schneider"
+      ],
+      "people_with_roles": {
+        "Atz": [
+          "scientist",
+          "student",
+          "professor"
+        ],
+        "David Nippa": [
+          "student"
+        ],
+        "Gisbert Schneider": [
+          "Professor",
+          "student",
+          "professor"
+        ],
+        "Kenneth Atz": [
+          "student",
+          "professor"
+        ],
+        "Schneider": [
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "medical_research",
+        "technology",
+        "engineering",
+        "biology",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "1,000",
+        "1,380",
+        "five",
+        "just over 1,700",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Intelligence Finds",
+        "David Nippa",
+        "Ways To",
+        "En News",
+        "Professor Gisbert",
+        "Develop New",
+        "Pharmaceutical Sciences",
+        "Early Development",
+        "This AI",
+        "ETH Zurich",
+        "Kenneth Atz",
+        "Roche Pharma"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AI",
+        "ETH Zurich",
+        "Intelligence Finds Ways To Develop New Drugs",
+        "Roche",
+        "Roche Pharma Research",
+        "the Institute of Pharmaceutical Sciences"
+      ],
+      "locations": [
+        "AI",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "AI",
+        "Roche",
+        "ETH Zurich",
+        "Roche Pharma Research",
+        "One",
+        "Atz",
+        "six",
+        "Schneider",
+        "Intelligence Finds Ways To Develop New Drugs",
+        "Kenneth Atz"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "In brief",
+          "Introducing chemical functions",
+          "Introducing chemical functions",
+          "High predictive power, especially with 3D data",
+          "Data from trustworthy sources and an automated lab"
+        ],
+        "content_length": 6479
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Roche Pharma Research",
+        "David Nippa",
+        "Roche",
+        "the Institute of Pharmaceutical Sciences",
+        "Intelligence Finds Ways To Develop New Drugs",
+        "EU",
+        "AI",
+        "ETH Zurich",
+        "Schneider",
+        "Gisbert Schneider",
+        "Kenneth Atz",
+        "Atz",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "just over 1,700",
+        "three",
+        "who",
+        "chemistry",
+        "where",
+        "1,380",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "five",
+        "climate_change",
+        "why",
+        "when",
+        "engineering",
+        "1,000"
+      ],
+      "graph_relations": [
+        "Atz_has_role_scientist",
+        "Atz_has_role_student",
+        "Atz_has_role_professor",
+        "David Nippa_has_role_student",
+        "Gisbert Schneider_has_role_Professor",
+        "Gisbert Schneider_has_role_student",
+        "Gisbert Schneider_has_role_professor",
+        "Kenneth Atz_has_role_student",
+        "Kenneth Atz_has_role_professor",
+        "Schneider_has_role_student",
+        "Schneider_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

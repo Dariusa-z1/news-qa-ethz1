@@ -1,0 +1,424 @@
+{
+  "filename": "cooling-with-light.md",
+  "original_filename": "cooling-with-light.html",
+  "source_path": "en_news_events/2019/04/cooling-with-light.html",
+  "date": "2019-04",
+  "title": "Cooling With Light",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A fine line",
+      "text": "Until now, no one has ever cooled a nanoparticle to such low temperatures in a photon cage: Dominik Windey and René Reimann – a doctoral student and postdoc in the group led by Lukas Novotny, Professor of Photonics – have succeeded in cooling a 140 nanometre glass bead down to a few thousandths of a degree above absolute zero.\n\nThe researchers recently published details of their work in the journal Physical Review Letters . Their breakthrough came in the form of a sophisticated experimental set-up involving optical tweezers, whereby a nanoparticle can be made to levitate with the aid of a laser beam. The group has already used the same optical tweezers in previous work, in which they caused a nanoparticle to rotate around its own axis at extremely high speed."
+    },
+    {
+      "heading": "A fine line",
+      "text": "The scientists have now supplemented the optical tweezers with a photon cage arranged perpendicular to it. This cage consists of two highly reflective mirrors, whose position the researchers can adjust to within a few billionths of a millimetre.\n\nThis precise adjustment is crucial, since the particle scatters part of the laser light and the scientists can use the distance between the mirrors to control which type of light is scattered. “We can adjust the mirrors to scatter more light with a slightly higher frequency than the primary laser light,” explains Windey. “As higher-frequency light is also higher in energy, the photons absorb energy from the nanoparticle during scattering.” In other words, if the mirror is adjusted correctly, the glass bead loses energy continuously and its oscillation amplitude becomes smaller and smaller: it cools down.\n\n“The key feature of our experimental set-up is that the particle’s oscillation not only becomes smaller in one direction, but in all three dimensions,” says Windey. “This is not possible with other experimental set-ups found in the literature relating to nanoparticles in photon cages.” The fact that cooling takes place in three dimensions was confirmed by theoretical calculations performed by colleagues at the University of Innsbruck, with whom the ETH researchers published their work."
+    },
+    {
+      "heading": "Approaching a magical limit",
+      "text": "With their latest experiment, the researchers are edging closer to a magical limit: the temperature at which nanoparticles pass into what is known as the quantum ground state. If this were reached, it would allow quantum experiments to be performed with relatively large objects for the first time; for example, it would be possible to investigate how a glass bead behaves if two different quantum states are superimposed.\n\nHowever, it will take a lot of work to get to that point. “Our temperatures are still too high by a factor of more than 100,” says Windey. “We have to slow the bead down much more if we want to reach the quantum ground state.” This should now be possible using an even more sophisticated system in which the researchers apply a second photon cage – essentially implementing a two-stage cooling system."
+    },
+    {
+      "heading": "Unexpected source of disturbance",
+      "text": "Of course, this will once again involve considerably more effort. “The system is extremely sensitive,” explains Windey. Even the tiniest disturbance shifts the distance between the mirrors. As a result, the particle is no longer cooled but rather heated up, and can no longer be held in the optical tweezers – back to square one, in other words. “Right from the outset, we had to contend with unexpected vibrations,” says Windey. “Then, we discovered that due to traffic our lab building on the Hönggerberg moves back and forth by 4 micrometres during the day. This meant that we had to conduct our measurements at night.”\n\nAlthough the sheer sensitivity of the measuring equipment still makes life difficult for the researchers, there could be a practical application of precisely this factor. “The system could be used to build an extremely sensitive accelerometer,” says Windey. “And once we have the particle in the quantum state, we will be able to determine deflections even more accurately.”\n\nWindey D et al.: Cavity-Based 3D Cooling of a Levitated Nanoparticle via Coherent Scattering. Phys. Rev. Lett. 122, 123601, doi: 10.1103/PhysRevLett.122.123601"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Dominik Windey",
+        "label": "PERSON",
+        "start": 92,
+        "end": 106
+      },
+      {
+        "text": "René Reimann",
+        "label": "PERSON",
+        "start": 111,
+        "end": 123
+      },
+      {
+        "text": "Lukas Novotny",
+        "label": "ORG",
+        "start": 177,
+        "end": 190
+      },
+      {
+        "text": "Photonics",
+        "label": "ORG",
+        "start": 205,
+        "end": 214
+      },
+      {
+        "text": "a few thousandths",
+        "label": "CARDINAL",
+        "start": 278,
+        "end": 295
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 323,
+        "end": 327
+      },
+      {
+        "text": "Physical Review Letters",
+        "label": "ORG",
+        "start": 401,
+        "end": 424
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 129,
+        "end": 132
+      },
+      {
+        "text": "a few billionths",
+        "label": "CARDINAL",
+        "start": 212,
+        "end": 228
+      },
+      {
+        "text": "Windey",
+        "label": "PERSON",
+        "start": 561,
+        "end": 567
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 991,
+        "end": 996
+      },
+      {
+        "text": "Windey",
+        "label": "PERSON",
+        "start": 1015,
+        "end": 1021
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1182,
+        "end": 1187
+      },
+      {
+        "text": "the University of Innsbruck",
+        "label": "ORG",
+        "start": 1268,
+        "end": 1295
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1311,
+        "end": 1314
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 287,
+        "end": 292
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 376,
+        "end": 379
+      },
+      {
+        "text": "more than 100",
+        "label": "CARDINAL",
+        "start": 533,
+        "end": 546
+      },
+      {
+        "text": "Windey",
+        "label": "PERSON",
+        "start": 554,
+        "end": 560
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 751,
+        "end": 757
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 799,
+        "end": 802
+      },
+      {
+        "text": "Windey",
+        "label": "PERSON",
+        "start": 422,
+        "end": 428
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 495,
+        "end": 506
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 552,
+        "end": 559
+      },
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 615,
+        "end": 620
+      },
+      {
+        "text": "Windey",
+        "label": "PERSON",
+        "start": 873,
+        "end": 879
+      },
+      {
+        "text": "Lett",
+        "label": "PERSON",
+        "start": 1103,
+        "end": 1107
+      },
+      {
+        "text": "122, 123601",
+        "label": "DATE",
+        "start": 1109,
+        "end": 1120
+      },
+      {
+        "text": "10.1103",
+        "label": "CARDINAL",
+        "start": 1127,
+        "end": 1134
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dominik Windey",
+        "Lett",
+        "René Reimann",
+        "Windey"
+      ],
+      "ORG": [
+        "ETH",
+        "Lukas Novotny",
+        "Photonics",
+        "Physical Review Letters",
+        "the University of Innsbruck"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "122, 123601",
+        "night",
+        "the day"
+      ],
+      "MISC": [
+        "10.1103",
+        "a few billionths",
+        "a few thousandths",
+        "first",
+        "more than 100",
+        "second",
+        "three",
+        "two",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "Windey": 5,
+      "two": 3,
+      "three": 2,
+      "Dominik Windey": 1,
+      "René Reimann": 1,
+      "Lukas Novotny": 1,
+      "Photonics": 1,
+      "a few thousandths": 1,
+      "zero": 1,
+      "Physical Review Letters": 1,
+      "a few billionths": 1,
+      "the University of Innsbruck": 1,
+      "ETH": 1,
+      "first": 1,
+      "more than 100": 1,
+      "second": 1,
+      "Hönggerberg": 1,
+      "the day": 1,
+      "night": 1,
+      "Lett": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "cooling-with-light.md",
+      "title": "En News Events/2019/04/cooling With Light",
+      "language": "en",
+      "source_path": "en_news_events/2019/04/cooling-with-light.html"
+    },
+    "temporal": {
+      "publication_date": "2019-04",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, during, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Dominik Windey",
+        "Lett",
+        "René Reimann",
+        "Windey"
+      ],
+      "people_with_roles": {
+        "Dominik Windey": [
+          "student",
+          "professor"
+        ],
+        "Lett": [
+          "researcher"
+        ],
+        "René Reimann": [
+          "student",
+          "professor"
+        ],
+        "Windey": [
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1103",
+        "a few billionths",
+        "a few thousandths",
+        "first",
+        "more than 100",
+        "second",
+        "three",
+        "zero"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Lukas Novotny",
+        "Dominik Windey",
+        "Physical Review",
+        "En News",
+        "Coherent Scattering",
+        "With Light",
+        "Windey D",
+        "Cavity-Based",
+        "Levitated Nanoparticle"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Lukas Novotny",
+        "Photonics",
+        "Physical Review Letters",
+        "the University of Innsbruck"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Windey",
+        "two",
+        "three",
+        "Dominik Windey",
+        "René Reimann",
+        "Lukas Novotny",
+        "Photonics",
+        "a few thousandths",
+        "zero",
+        "Physical Review Letters"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "A fine line",
+          "A fine line",
+          "Approaching a magical limit",
+          "Unexpected source of disturbance"
+        ],
+        "content_length": 4148
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Lukas Novotny",
+        "ETH",
+        "Photonics",
+        "Dominik Windey",
+        "2019",
+        "the University of Innsbruck",
+        "Lett",
+        "Physical Review Letters",
+        "Windey",
+        "René Reimann"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "a few billionths",
+        "more than 100",
+        "zero",
+        "three",
+        "who",
+        "when",
+        "what",
+        "second",
+        "how",
+        "10.1103",
+        "a few thousandths",
+        "where"
+      ],
+      "graph_relations": [
+        "Dominik Windey_has_role_student",
+        "Dominik Windey_has_role_professor",
+        "Lett_has_role_researcher",
+        "René Reimann_has_role_student",
+        "René Reimann_has_role_professor",
+        "Windey_has_role_student",
+        "Windey_has_role_professor",
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

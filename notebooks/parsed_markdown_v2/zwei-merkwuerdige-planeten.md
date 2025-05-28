@@ -1,0 +1,30 @@
+# zwei-merkwuerdige-planeten.html
+
+**Source:** de_news_events/2021/03/zwei-merkwuerdige-planeten.html
+
+## Aussergewöhnliche Zustände
+
+Die beiden grossen Gasplaneten Uranus und Neptun haben seltsame Magnetfelder. Diese sind jeweils relativ zu den Rotationsachsen des Planeten stark gekippt und sind deutlich vom physikalischen Zentrum des Planeten versetzt. Warum das so ist, darüber rätseln Planetenwissenschaftler bereits seit längerem. Verschiedene Theorien gehen davon aus, dass eine einzigartige innere Struktur dieser Planeten für dieses bizarre Phänomen verantwortlich sein könnte. Demnach entsteht das schiefe Magnetfeld durch Umwälzungen in einer konvektiven Schicht, die aus einer elektrisch leitenden Flüssigkeit besteht. Diese konvektive Schicht wiederum umgibt eine stabil geschichtete, nicht-konvektive Schicht, in der es aufgrund der hohen Viskosität keine Umwälzungen des Materials gibt und demnach auch keinen Beitrag zum Magnetfeld.
+
+## Aussergewöhnliche Zustände
+
+Computersimulationen zeigen, dass Wasser und Ammoniak, die Hauptbestandteile von Uranus und Neptun, bei sehr hohen Drücken und Temperaturen in einen ungewöhnlichen Zustand übergehen, der sowohl die Eigenschaften eines Festkörpers als auch die einer Flüssigkeit hat. In diesem sogenannt «superionischen Zustand» werden die Wasserstoffionen innerhalb der Gitterstruktur, die durch Sauerstoff oder Stickstoff gebildet wird, beweglich.
+
+## Eine neue Phase entdeckt
+
+Experimentelle Untersuchungen bestätigen, dass superionisches Wasser in der Tiefe, in der sich gemäss Theorie die stabil-geschichtete Region befindet, existieren kann. Es könnte also sein, dass die geschichtete Schicht durch superionische Komponenten gebildet wird. Ob diese Komponenten allerdings tatsächlich in der Lage sind, die Konvektion zu unterdrücken, ist unklar, da die physikalischen Eigenschaften des superionischen Zustands nicht bekannt sind.
+
+## Hoher Druck auf kleinstem Raum
+
+Tomoaki Kimura und Motohiko Murakami vom Departement Erdwissenschaften der ETH Zürich kommen der Antwort nun einen Schritt näher. Die beiden Forscher haben in ihrem Labor Hochdruck- und Hochtemperatur-Experimente mit Ammoniak durchgeführt. Ziel der Versuche war es, die Elastizität des superionischen Materials zu bestimmen. Die Elastizität ist eine der wichtigsten physikalischen Eigenschaften, welche die thermische Konvektion im Planetenmantel beeinflusst. Bemerkenswert ist dabei, dass die Elastizität der Materialien im festen und flüssigen Zustand völlig unterschiedlich ist.
+
+Für ihre Untersuchungen verwendeten die Forscher eine Hochdruckapparatur, die «Diamant-Amboss-Zelle» genannt wird. In dieser Apparatur wird das Ammoniak in einem kleinen Behälter mit einem Durchmesser von ungefähr 100 Mikrometern zwischen zwei Diamantspitzen eingeklemmt, welche die Probe zusammenpressen. Damit ist es möglich, das Material extrem hohen Drücken auszusetzen, so wie sie im Inneren von Uranus und Neptun herrschen.
+
+Die so belastete Probe wird dann mit einem Infrarotlaser auf über 2000 Grad Celsius erhitzt. Gleichzeitig beleuchtet ein weiterer grüner Laserstrahl die Probe. Misst man das Wellenspektrum des gestreuten grünen Laserlichts, lässt sich die Elastizität des Materials und die chemische Bindung im Ammoniak bestimmten. Anhand der Verschiebungen im Wellenspektrum bei verschiedenen Drücken und Temperaturen lässt sich die Elastizität von Ammoniak bei unterschiedlichen Tiefen messen.
+
+Bei ihren Untersuchungen entdeckten Kimura und Murakami nun eine neue superionische Ammoniakphase (γ-Phase), die eine ähnliche Elastizität wie die flüssige Phase aufweist. Diese neue Phase kann im tiefen Inneren von Uranus und Neptun stabil sein und daher dort vorkommen. Allerdings wäre das superionische Ammoniak nicht genügend viskos, da es sich wie eine Flüssigkeit verhält, und könnte damit auch kaum zur Bildung der nicht-konvektiven Schicht beitragen.
+
+Aufgrund der neuen Ergebnisse stellt sich die Frage, welche Eigenschaften das superionische Wasser im Inneren von Uranus und Neptun hat, nun umso dringlicher. Denn das Rätsel, warum die beiden Planeten ein derart unregelmässiges Magnetfeld haben, ist mit den neuen Ergebnissen nach wie vor ungelöst.
+
+Kimura T, Murakami M.: Fluid-like elastic response of superionic NH3 in Uranus and Neptune. PNAS April 6, 2021 118 (14) e2021810118; externe Seite doi: 10.1073/pnas.2021810118
+

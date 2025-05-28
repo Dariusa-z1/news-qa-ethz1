@@ -1,0 +1,567 @@
+{
+  "filename": "eine-neue-theorie-fuer-halbleiter-aus-nanokristallen.md",
+  "original_filename": "eine-neue-theorie-fuer-halbleiter-aus-nanokristallen.html",
+  "source_path": "de_news_events/2020/06/eine-neue-theorie-fuer-halbleiter-aus-nanokristallen.html",
+  "date": "2020-06",
+  "title": "Eine Neue Theorie Fuer Halbleiter Aus Nanokristallen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Eher Matratze als Tischplatte",
+      "text": "Seit einigen Jahren kann man Fernsehapparate kaufen, in denen mit QLED-Technologie brillante Farben erzeugt werden. Das «Q» steht dabei für «Quantenpunkt». Quantenpunkte sind wenige Nanometer grosse Kristalle eines Halbleitermaterials, die aus einigen tausend Atomen bestehen. Diese Nanokristalle sind so winzig, dass die Elektronen in ihnen nur wohldefinierte quantenmechanische Energiezustände einnehmen können; werden die Quantenpunkte von der Hintergrundbeleuchtung des Fernsehmonitors angestrahlt, so wird durch Quantensprünge zwischen diesen Zuständen Licht einer bestimmten Farbe ausgesandt.\n\nIn der nächsten Generation von QLED-Fernsehapparaten hofft man, die Quantenpunkte mit elektrischem Strom direkt zum Leuchten zu bringen anstatt über eine Hintergrundbeleuchtung. Dazu fehlte allerdings bisher das theoretische Verständnis davon, wie Strom durch einen dünnen Film aus Nanokristallen geleitet wird. Forschende am Departement Informationstechnologie und Elektrotechnik der ETH Zürich haben nun unter Leitung von Vanessa Wood diese Lücke geschlossen, wie sie im Fachjournal Nature Communications berichten."
+    },
+    {
+      "heading": "Eher Matratze als Tischplatte",
+      "text": "Wie Strom durch Halbleiter fliesst, die nicht Nanometer-Grösse haben, weiss man schon seit mehr als neunzig Jahren, und es gibt spezielle Software, mit der man ihr Verhalten modellieren kann. Industriell können die elektronischen Eigenschaften von Halbleitern durch gezielte Beigabe von Fremdatomen – das Dotieren – kontrolliert werden, wodurch sich die Anzahl von freien Ladungsträgern (Elektronen) ändert. Bei Halbleitern dagegen, die aus vielen kleinen Nanokristall-Quantenpunkten bestehen, sind diese Methoden nicht so einfach anwendbar.\n\nIn Nanokristallen führt die Beimischung von Fremdatomen nicht unbedingt zu freien Ladungsträgern. Zudem verhalten sich freie Ladungen nicht in der gleichen Weise. «Ladungsträger in normalen Halbleitern bewegen sich wie Kegelkugeln, die auf einer glatten Tischplatte rollen, während sie sich in einem Nanokristall-Material eher wie Kugeln auf einer weichen Matratze verhalten – sie sinken ein und verformen sie», veranschaulicht Wood das Problem."
+    },
+    {
+      "heading": "Anspruchsvolle Modellierung",
+      "text": "Für die theoretische Modellierung bedeutet dies, dass man die Atome im Kristallgitter des Nanokristall-Halbleiters nicht einfach als ruhende Punkte betrachten kann, wie dies für normale Halbleiter in der Regel getan wird. «Stattdessen mussten wir jedes der insgesamt mehreren hunderttausend Atome in den vielen Nanokristallen des Materials einzeln mathematisch beschreiben, und wie jedes dieser Atome mit den Ladungsträgern wechselwirkt», erklärt Nuri Yazdani, der in Woods Arbeitsgruppe als Doktorand gearbeitet hat und Erstautor der nun erschienenen Studie ist.\n\nIm Swiss Supercomputing Centre CSCS in Lugano liess er ein komplexes Computerprogramm laufen, in dem alle Details des Problems – die Bewegung der Elektronen und der Atome sowie die Wechselwirkungen zwischen ihnen – berücksichtigt wurden. «Insbesondere wollten wir verstehen, wie Ladungsträger sich zwischen den einzelnen Nanokristallen fortbewegen und warum sie ‘gefangen’ werden und nicht mehr weiterkönnen», sagt Yazadani."
+    },
+    {
+      "heading": "Literaturhinweis",
+      "text": "In einem Nanokristall-Halbleiter wird elektrischer Strom von Elektronen übertragen, die von Nanokristall zu Nanokristall springen. Bei jedem Sprung verformt die Ladung des Elektrons den Nanokristall (oben links) und bildet ein Polaron (oben rechts).\n\nDie Ergebnisse dieser Computersimulationen waren sehr aufschlussreich. Entscheidend dafür, wie ein Material aus vielen Nanokristallen elektrischen Strom leitet, sind demnach von den Elektronen hervorgerufene kleinste Verformungen der Kristalle von nur wenigen Tausendstel Nanometern, die zu einer grossen Änderung der elektrostatischen Energie führen. Wenn eine Ladung das Material verformt, wird dies auch als Polaron bezeichnet, und nach Yazdanis Simulationen fliesst zwischen den Nanokristallen Strom, indem Polaronen von einem Nanokristall auf das nächste überspringen.\n\nDas Modell erklärt, wie sich die elektronischen Eigenschaften des Nanokristall-Halbleiters ändern, wenn man die Grösse der Nanokristalle und ihre Packungsdichte im Film variiert. Um die Vorhersagen ihrer Simulationen zu prüfen, stellte das Forscherteam dünne Filme aus Nanokristallen im Labor her und mass deren elektrische Reaktion auf verschiedene elektrische Spannungen und Temperaturen. Dazu erzeugten sie mit einem kurzen Laserpuls an einem Ende des Materials freie Elektronen und beobachteten, wann diese am anderen Ende ankamen. Das Ergebnis: In jedem der mehreren hundert verschiedenen Tests sagte die Computersimulation die elektrischen Eigenschaften perfekt voraus.\n\n«Nach acht Jahren intensiver Arbeit haben wir damit ein Modell geschaffen, das nicht nur unsere Experimente, sondern auch die von vielen anderen Forschungsgruppen über die vergangenen Jahre endlich quantitativ erklärt», sagt Wood. «Ein solches Modell wird es Forschern und Ingenieuren in Zukunft ermöglichen, die Eigenschaften eines Nanokristall-Halbleiters zu berechnen, noch bevor er hergestellt wird.» Dadurch sollte es etwa möglich sein, solche Materialien für bestimmte Anwendungen zu optimieren. «Bis jetzt musste man das durch Versuch und Irrtum tun», fügt Wood hinzu.\n\nMit Hilfe der Ergebnisse der ETH-Forschenden könnten in Zukunft aus Nanokristall-Materialien nützliche Halbleiter für verschiedenste Anwendungen in Sensoren, Lasern oder LEDs entwickelt werden – zum Beispiel auch für Fernsehapparate. Dadurch, dass die Zusammensetzung, Grösse und Anordnung der Nanokristalle während ihrer Herstellung kontrolliert werden können, versprechen solche Materialien eine viel grössere Bandbreite an elektrischen Eigenschaften als traditionelle Halbleiter.\n\nYazdani, N., Andermatt, S., Yarema, M., Wood, V. et al. Charge transport in semiconductors assembled from nanocrystal quantum dots. Nature Communications 11, 2852 (2020). DOI: externe Seite 10.1038/s41467-020-16560-7 ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Fuer Halbleiter",
+        "label": "PER",
+        "start": 41,
+        "end": 56
+      },
+      {
+        "text": "Nanokristallen",
+        "label": "LOC",
+        "start": 61,
+        "end": 75
+      },
+      {
+        "text": "Fernsehapparate",
+        "label": "LOC",
+        "start": 29,
+        "end": 44
+      },
+      {
+        "text": "QLED-Technologie",
+        "label": "MISC",
+        "start": 66,
+        "end": 82
+      },
+      {
+        "text": "Hintergrundbeleuchtung des Fernsehmonitors",
+        "label": "ORG",
+        "start": 447,
+        "end": 489
+      },
+      {
+        "text": "Zuständen",
+        "label": "LOC",
+        "start": 548,
+        "end": 557
+      },
+      {
+        "text": "QLED-Fernsehapparaten",
+        "label": "MISC",
+        "start": 630,
+        "end": 651
+      },
+      {
+        "text": "Nanokristallen",
+        "label": "LOC",
+        "start": 881,
+        "end": 895
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 984,
+        "end": 994
+      },
+      {
+        "text": "Vanessa Wood",
+        "label": "PER",
+        "start": 1023,
+        "end": 1035
+      },
+      {
+        "text": "Fachjournal Nature Communications",
+        "label": "ORG",
+        "start": 1072,
+        "end": 1105
+      },
+      {
+        "text": "Nanometer-Grösse",
+        "label": "MISC",
+        "start": 46,
+        "end": 62
+      },
+      {
+        "text": "Halbleitern",
+        "label": "LOC",
+        "start": 248,
+        "end": 259
+      },
+      {
+        "text": "Halbleitern",
+        "label": "LOC",
+        "start": 412,
+        "end": 423
+      },
+      {
+        "text": "Nanokristall-Quantenpunkten",
+        "label": "MISC",
+        "start": 456,
+        "end": 483
+      },
+      {
+        "text": "Nanokristallen",
+        "label": "LOC",
+        "start": 545,
+        "end": 559
+      },
+      {
+        "text": "Ladungsträger",
+        "label": "LOC",
+        "start": 706,
+        "end": 719
+      },
+      {
+        "text": "Kegelkugeln",
+        "label": "LOC",
+        "start": 761,
+        "end": 772
+      },
+      {
+        "text": "Nanokristall-Halbleiters",
+        "label": "ORG",
+        "start": 90,
+        "end": 114
+      },
+      {
+        "text": "Nuri Yazdani",
+        "label": "PER",
+        "start": 447,
+        "end": 459
+      },
+      {
+        "text": "Woods Arbeitsgruppe",
+        "label": "ORG",
+        "start": 468,
+        "end": 487
+      },
+      {
+        "text": "Swiss Supercomputing Centre CSCS",
+        "label": "ORG",
+        "start": 567,
+        "end": 599
+      },
+      {
+        "text": "Lugano",
+        "label": "LOC",
+        "start": 603,
+        "end": 609
+      },
+      {
+        "text": "Ladungsträger",
+        "label": "PER",
+        "start": 843,
+        "end": 856
+      },
+      {
+        "text": "Yazadani",
+        "label": "PER",
+        "start": 979,
+        "end": 987
+      },
+      {
+        "text": "Elektrons",
+        "label": "PER",
+        "start": 172,
+        "end": 181
+      },
+      {
+        "text": "Nanometern",
+        "label": "LOC",
+        "start": 522,
+        "end": 532
+      },
+      {
+        "text": "Yazdanis Simulationen",
+        "label": "PER",
+        "start": 690,
+        "end": 711
+      },
+      {
+        "text": "Nanokristallen",
+        "label": "LOC",
+        "start": 733,
+        "end": 747
+      },
+      {
+        "text": "Nanokristallen",
+        "label": "LOC",
+        "start": 1093,
+        "end": 1107
+      },
+      {
+        "text": "Wood",
+        "label": "PER",
+        "start": 2064,
+        "end": 2068
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 2105,
+        "end": 2120
+      },
+      {
+        "text": "Nanokristall-Materialien",
+        "label": "LOC",
+        "start": 2144,
+        "end": 2168
+      },
+      {
+        "text": "Sensoren",
+        "label": "LOC",
+        "start": 2224,
+        "end": 2232
+      },
+      {
+        "text": "Lasern",
+        "label": "MISC",
+        "start": 2234,
+        "end": 2240
+      },
+      {
+        "text": "LEDs",
+        "label": "ORG",
+        "start": 2246,
+        "end": 2250
+      },
+      {
+        "text": "Fernsehapparate",
+        "label": "LOC",
+        "start": 2293,
+        "end": 2308
+      },
+      {
+        "text": "Yazdani",
+        "label": "PER",
+        "start": 2559,
+        "end": 2566
+      },
+      {
+        "text": "N.",
+        "label": "LOC",
+        "start": 2568,
+        "end": 2570
+      },
+      {
+        "text": "Andermatt",
+        "label": "LOC",
+        "start": 2572,
+        "end": 2581
+      },
+      {
+        "text": "semiconductors",
+        "label": "LOC",
+        "start": 2635,
+        "end": 2649
+      },
+      {
+        "text": "from nanocrystal quantum dots",
+        "label": "MISC",
+        "start": 2660,
+        "end": 2689
+      },
+      {
+        "text": "Nature Communications",
+        "label": "MISC",
+        "start": 2691,
+        "end": 2712
+      },
+      {
+        "text": "DOI",
+        "label": "ORG",
+        "start": 2730,
+        "end": 2733
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Elektrons",
+        "Fuer Halbleiter",
+        "Ladungsträger",
+        "Nuri Yazdani",
+        "Vanessa Wood",
+        "Wood",
+        "Yazadani",
+        "Yazdani",
+        "Yazdanis Simulationen"
+      ],
+      "ORG": [
+        "DOI",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Fachjournal Nature Communications",
+        "Hintergrundbeleuchtung des Fernsehmonitors",
+        "LEDs",
+        "Nanokristall-Halbleiters",
+        "Swiss Supercomputing Centre CSCS",
+        "Woods Arbeitsgruppe"
+      ],
+      "LOCATION": [
+        "Andermatt",
+        "Fernsehapparate",
+        "Halbleitern",
+        "Kegelkugeln",
+        "Ladungsträger",
+        "Lugano",
+        "N.",
+        "Nanokristall-Materialien",
+        "Nanokristallen",
+        "Nanometern",
+        "Sensoren",
+        "Zuständen",
+        "semiconductors"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Lasern",
+        "Nanokristall-Quantenpunkten",
+        "Nanometer-Grösse",
+        "Nature Communications",
+        "QLED-Fernsehapparaten",
+        "QLED-Technologie",
+        "from nanocrystal quantum dots"
+      ]
+    },
+    "entity_counts": {
+      "Nanokristallen": 5,
+      "Fernsehapparate": 2,
+      "Halbleitern": 2,
+      "Ladungsträger": 2,
+      "De News": 1,
+      "Fuer Halbleiter": 1,
+      "QLED-Technologie": 1,
+      "Hintergrundbeleuchtung des Fernsehmonitors": 1,
+      "Zuständen": 1,
+      "QLED-Fernsehapparaten": 1,
+      "ETH Zürich": 1,
+      "Vanessa Wood": 1,
+      "Fachjournal Nature Communications": 1,
+      "Nanometer-Grösse": 1,
+      "Nanokristall-Quantenpunkten": 1,
+      "Kegelkugeln": 1,
+      "Nanokristall-Halbleiters": 1,
+      "Nuri Yazdani": 1,
+      "Woods Arbeitsgruppe": 1,
+      "Swiss Supercomputing Centre CSCS": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 38
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eine-neue-theorie-fuer-halbleiter-aus-nanokristallen.md",
+      "title": "De News Events/2020/06/eine Neue Theorie Fuer Halbleiter Aus Nanokristallen",
+      "language": "de",
+      "source_path": "de_news_events/2020/06/eine-neue-theorie-fuer-halbleiter-aus-nanokristallen.html"
+    },
+    "temporal": {
+      "publication_date": "2020-06",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Elektrons",
+        "Fuer Halbleiter",
+        "Ladungsträger",
+        "Nuri Yazdani",
+        "Vanessa Wood",
+        "Wood",
+        "Yazadani",
+        "Yazdani",
+        "Yazdanis Simulationen"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Lasern",
+        "Nanokristall-Quantenpunkten",
+        "Nanometer-Grösse",
+        "Nature Communications",
+        "QLED-Fernsehapparaten",
+        "QLED-Technologie",
+        "from nanocrystal quantum dots"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Das Modell",
+        "Aus Nanokristallen",
+        "Nanokristall-Materialien",
+        "In Nanokristallen",
+        "Yazdanis Simulationen",
+        "QLED-Fernsehapparaten",
+        "Im Swiss",
+        "Nanokristall-Halbleiters",
+        "Supercomputing Centre",
+        "Nanokristall-Halbleiter",
+        "Diese Nanokristalle",
+        "Nuri Yazdani",
+        "Nanokristall-Material",
+        "Departement Informationstechnologie",
+        "Mit Hilfe",
+        "Neue Theorie",
+        "Nature Communications",
+        "Fachjournal Nature",
+        "Woods Arbeitsgruppe",
+        "Nanokristallen Strom",
+        "QLED-Technologie",
+        "Bei Halbleitern",
+        "Fuer Halbleiter",
+        "Die Ergebnisse",
+        "ETH-Forschenden",
+        "De News",
+        "Wie Strom",
+        "Das Ergebnis",
+        "Vanessa Wood",
+        "Tausendstel Nanometern",
+        "Nanokristall-Quantenpunkten"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DOI",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Fachjournal Nature Communications",
+        "Hintergrundbeleuchtung des Fernsehmonitors",
+        "LEDs",
+        "Nanokristall-Halbleiters",
+        "Swiss Supercomputing Centre CSCS",
+        "Woods Arbeitsgruppe"
+      ],
+      "locations": [
+        "Andermatt",
+        "Fernsehapparate",
+        "Halbleitern",
+        "Kegelkugeln",
+        "Ladungsträger",
+        "Lugano",
+        "N.",
+        "Nanokristall-Materialien",
+        "Nanokristallen",
+        "Nanometern",
+        "Sensoren",
+        "Zuständen",
+        "semiconductors"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Nanokristallen",
+        "Fernsehapparate",
+        "Halbleitern",
+        "Ladungsträger",
+        "De News",
+        "Fuer Halbleiter",
+        "QLED-Technologie",
+        "Hintergrundbeleuchtung des Fernsehmonitors",
+        "Zuständen",
+        "QLED-Fernsehapparaten"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Eher Matratze als Tischplatte",
+          "Eher Matratze als Tischplatte",
+          "Anspruchsvolle Modellierung",
+          "Literaturhinweis"
+        ],
+        "content_length": 5955
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "DOI",
+        "Fachjournal Nature Communications",
+        "Ladungsträger",
+        "2020",
+        "Yazdanis Simulationen",
+        "Nanokristall-Halbleiters",
+        "LEDs",
+        "ERC",
+        "Yazdani",
+        "ETH Zürich",
+        "Nuri Yazdani",
+        "EU",
+        "Wood",
+        "Hintergrundbeleuchtung des Fernsehmonitors",
+        "Woods Arbeitsgruppe",
+        "Yazadani",
+        "Elektrons",
+        "Fuer Halbleiter",
+        "ETH-Forschenden",
+        "De News",
+        "Vanessa Wood",
+        "Swiss Supercomputing Centre CSCS"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "QLED-Technologie",
+        "Lasern",
+        "Nanometer-Grösse",
+        "from nanocrystal quantum dots",
+        "QLED-Fernsehapparaten",
+        "what",
+        "how",
+        "Nature Communications",
+        "computer_science",
+        "Nanokristall-Quantenpunkten",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

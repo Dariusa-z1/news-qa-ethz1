@@ -1,0 +1,526 @@
+{
+  "filename": "swarm-at-scientific-frontier.md",
+  "original_filename": "swarm-at-scientific-frontier.html",
+  "source_path": "en_news_events/2013/11/swarm-at-scientific-frontier.html",
+  "date": "2013-11",
+  "title": "Swarm At Scientific Frontier",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "SWARM is a constellation of three identical satellites with equipment for making precise measurements of the magnetic field. The European Space Agency (ESA) has appointed a consortium of six research institutions to carry out the processing of data from SWARM and to produce specific scientific products that are then freely available to the scientific community. One member of the consortium is a team from ETH Zurich under the direction of ETH professor Andrew Jackson. In an interview with ETH News, he has explained the goals of the project.\n\nThis afternoon, SWARM will be launched into Earth’s orbit with a rocket from the Russian spaceport Plesetsk. What role does your research team play in this project? The team at ETH is responsible for using the data to determine the electrical conductivity structure of the Earth’s silicate mantle. This is possible because the solar wind influences the Earth in such a way that it creates time variations in the magnetic field around the Earth; these variations produce weak electrical currents within the mantle that can be sensed both on the Earth’s surface and by satellites. The time scales involved are such that it is possible to measure some 1000 km deep into the mantle. At the forefront of our work, particularly that of team leader PD Dr. Alexey Kuvshinov, is the effort to gain a three-dimensional picture of the electrical conductivity variations in the mantle from space. This is the equivalent of a medical tomogram or a CAT scan of the brain. Since it has never been done before, it is very much at the frontier of what is scientifically possible, but such an image would contribute to our understanding of the convective motions in the mantle that are responsible for plate tectonics on Earth.\n\nWhat exactly do the satellites measure? The satellites are equipped with a wealth of instrumentation that is not restricted to the accurate three-component (vector) and scalar magnetometers that are critical for our work. In addition, the satellites carry accelerometers that are sensitive to the Earth’s gravity field, devices to measure the electric field of the space environment, GPS receivers and laser retro-reflectors for accurate positioning, and very precise star trackers for orientation determination.\n\nMagnetisable minerals in cooling lava, for example, are oriented in the direction of the magnetic field like a compass needle. Thanks to volcanic rocks, we know that during the last 200 million years the poles have reversed about once every 200,000 to 300,000 years on average. In the last 780,000 years, however, nothing has happened anymore. Do you expect an explanation for this phenomenon from SWARM? The disparity in time scales between the duration of the mission – nominally four years – and the time over which reversals take place means it is unlikely that we can really contribute to that debate. The duration over which a reversal takes place is between 5000 and 10,000 years, as is documented in numerous samples from the seafloor, where a continuous record of the field’s changes is locked into the sediments that accumulate there.\n\nWhat are further important questions you would like to answer with this project? The incredibly high expected accuracy of the mission means that we expect to record time changes in the magnetic field with unprecedented precision. These changes are intimately related to the movement of the liquid iron at the top of the core which represents part of the convective motion that is ultimately responsible for so-called “dynamo action”, the process by which energy is turned into fluid motion and then into magnetic fields via Faraday’s Law. Our ability to see these motions on smaller scales and in finer detail will be greatly enhanced by the geometry of the mission and its constellation properties. Of particular interest are the temporal changes in the properties of the flow that can take place quite rapidly over a few years.\n\nThe magnetic field is a kind of protective shield around the Earth, for example protecting life against cosmic radiation. Over the last 150 years, the magnetic field has lost about 10 % of its strength. Is this a sign of an ongoing or upcoming pole reversal? This is a question that is often asked and difficult to answer. There is a feature visible at the top of the core beneath South America consisting of a large region of magnetic flux with the reverse polarity to that which would be expected in that hemisphere; we call it a reverse-flux patch. The movement and possibly the growth of that patch are probably related to the decrease in strength; it is quite certainly responsible for the so-called South Atlantic Anomaly, a region of particularly weak field strength offshore of Brazil. This has a technological impact because the weakness of the field reduces the shielding effect from solar radiation: many satellites in low Earth orbit are affected by radiation damage in this area. The SWARM mission will help us monitor the evolution of that patch closely. We know very little about the mechanism of magnetic reversals, but it is not unimaginable that this patch is actually a precursor to a reversal. A continuation of the current trend would still not lead to a reversal until about 1,000-2,000 years from now.\n\nWe would like to know whether and when a pole reversal will happen, although we obviously can’t do anything against it. Or do researchers have an idea what we could do? There is really nothing we can do; Earth’s core is a really massive object with remarkable, unstoppable field generation properties.\n\nWhat consequences would a pole reversal have for life on Earth? In the whole of Earth’s history there have been many reversals, and there appears to be no connection with life, either of an adverse or favourable nature, that we can discern in the fossil record. It is important to stress that the field does not disappear entirely in the midst of a reversal, but seems to drop to about 10-20% of its present strength. It does, however, lose its dipolar geometry, so there is a likelihood of multiple magnetic poles. It is clear that large sectors of the animal kingdom use the field for navigation, and thus it is often asked how animals would cope. It is important to remember that animals must constantly reset their magnetic compasses to be able to deal with the gradual changes of the magnetic field that take place over centuries, the so-called geomagnetic secular variation. Since reversals are relatively slow affairs, though admittedly rapid on the timescale of biological evolution, it would seem that animals would probably be able to adjust even to reversals. But in the absence of a direct experiment, we really don’t know!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Scientific Frontier",
+        "label": "ORG",
+        "start": 32,
+        "end": 51
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 28,
+        "end": 33
+      },
+      {
+        "text": "The European Space Agency",
+        "label": "ORG",
+        "start": 125,
+        "end": 150
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 152,
+        "end": 155
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 187,
+        "end": 190
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 364,
+        "end": 367
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 408,
+        "end": 418
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 442,
+        "end": 445
+      },
+      {
+        "text": "Andrew Jackson",
+        "label": "PERSON",
+        "start": 456,
+        "end": 470
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 493,
+        "end": 501
+      },
+      {
+        "text": "This afternoon",
+        "label": "TIME",
+        "start": 546,
+        "end": 560
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 590,
+        "end": 595
+      },
+      {
+        "text": "Russian",
+        "label": "NORP",
+        "start": 627,
+        "end": 634
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 723,
+        "end": 726
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 819,
+        "end": 824
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 899,
+        "end": 904
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 984,
+        "end": 989
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1090,
+        "end": 1095
+      },
+      {
+        "text": "some 1000 km",
+        "label": "QUANTITY",
+        "start": 1190,
+        "end": 1202
+      },
+      {
+        "text": "Alexey Kuvshinov",
+        "label": "PERSON",
+        "start": 1295,
+        "end": 1311
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1337,
+        "end": 1342
+      },
+      {
+        "text": "CAT",
+        "label": "ORG",
+        "start": 1481,
+        "end": 1484
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1749,
+        "end": 1754
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1896,
+        "end": 1901
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 2053,
+        "end": 2058
+      },
+      {
+        "text": "the last 200 million years",
+        "label": "DATE",
+        "start": 2442,
+        "end": 2468
+      },
+      {
+        "text": "poles",
+        "label": "NORP",
+        "start": 2473,
+        "end": 2478
+      },
+      {
+        "text": "every 200,000 to",
+        "label": "QUANTITY",
+        "start": 2504,
+        "end": 2520
+      },
+      {
+        "text": "the last 780,000 years",
+        "label": "DATE",
+        "start": 2550,
+        "end": 2572
+      },
+      {
+        "text": "four years",
+        "label": "DATE",
+        "start": 2751,
+        "end": 2761
+      },
+      {
+        "text": "between 5000 and 10,000 years",
+        "label": "DATE",
+        "start": 2926,
+        "end": 2955
+      },
+      {
+        "text": "dynamo",
+        "label": "FAC",
+        "start": 3532,
+        "end": 3538
+      },
+      {
+        "text": "Faraday’s Law",
+        "label": "ORG",
+        "start": 3638,
+        "end": 3651
+      },
+      {
+        "text": "a few years",
+        "label": "DATE",
+        "start": 3931,
+        "end": 3942
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 4005,
+        "end": 4010
+      },
+      {
+        "text": "the last 150 years",
+        "label": "DATE",
+        "start": 4071,
+        "end": 4089
+      },
+      {
+        "text": "about 10 %",
+        "label": "PERCENT",
+        "start": 4119,
+        "end": 4129
+      },
+      {
+        "text": "South America",
+        "label": "LOC",
+        "start": 4325,
+        "end": 4338
+      },
+      {
+        "text": "South Atlantic Anomaly",
+        "label": "LOC",
+        "start": 4649,
+        "end": 4671
+      },
+      {
+        "text": "Brazil",
+        "label": "GPE",
+        "start": 4730,
+        "end": 4736
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 4878,
+        "end": 4883
+      },
+      {
+        "text": "about 1,000-2,000",
+        "label": "CARDINAL",
+        "start": 5235,
+        "end": 5252
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 5473,
+        "end": 5478
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 5628,
+        "end": 5633
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 5651,
+        "end": 5656
+      },
+      {
+        "text": "about 10-20%",
+        "label": "CARDINAL",
+        "start": 5951,
+        "end": 5963
+      },
+      {
+        "text": "over centuries",
+        "label": "DATE",
+        "start": 6391,
+        "end": 6405
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alexey Kuvshinov",
+        "Andrew Jackson"
+      ],
+      "ORG": [
+        "CAT",
+        "ESA",
+        "ETH",
+        "ETH News",
+        "ETH Zurich",
+        "Faraday’s Law",
+        "Scientific Frontier",
+        "The European Space Agency"
+      ],
+      "LOCATION": [
+        "Brazil",
+        "Earth",
+        "South America",
+        "South Atlantic Anomaly",
+        "dynamo"
+      ],
+      "DATE": [
+        "This afternoon",
+        "a few years",
+        "between 5000 and 10,000 years",
+        "four years",
+        "over centuries",
+        "the last 150 years",
+        "the last 200 million years",
+        "the last 780,000 years"
+      ],
+      "MISC": [
+        "One",
+        "Russian",
+        "about 1,000-2,000",
+        "about 10 %",
+        "about 10-20%",
+        "every 200,000 to",
+        "poles",
+        "six",
+        "some 1000 km",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Earth": 12,
+      "three": 3,
+      "ETH": 2,
+      "Scientific Frontier": 1,
+      "The European Space Agency": 1,
+      "ESA": 1,
+      "six": 1,
+      "One": 1,
+      "ETH Zurich": 1,
+      "Andrew Jackson": 1,
+      "ETH News": 1,
+      "This afternoon": 1,
+      "Russian": 1,
+      "some 1000 km": 1,
+      "Alexey Kuvshinov": 1,
+      "CAT": 1,
+      "the last 200 million years": 1,
+      "poles": 1,
+      "every 200,000 to": 1,
+      "the last 780,000 years": 1
+    },
+    "total_entities": 47,
+    "unique_entities": 33
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "swarm-at-scientific-frontier.md",
+      "title": "En News Events/2013/11/swarm At Scientific Frontier",
+      "language": "en",
+      "source_path": "en_news_events/2013/11/swarm-at-scientific-frontier.html"
+    },
+    "temporal": {
+      "publication_date": "2013-11",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alexey Kuvshinov",
+        "Andrew Jackson"
+      ],
+      "people_with_roles": {
+        "Andrew Jackson": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Russian",
+        "about 1,000-2,000",
+        "about 10 %",
+        "about 10-20%",
+        "every 200,000 to",
+        "poles",
+        "some 1000 km",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "The SWARM",
+        "PD Dr",
+        "Space Agency",
+        "En News",
+        "Frontier SWARM",
+        "The European",
+        "At Scientific",
+        "Alexey Kuvshinov",
+        "ETH News",
+        "South America",
+        "ETH Zurich",
+        "South Atlantic",
+        "Andrew Jackson"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CAT",
+        "ESA",
+        "ETH",
+        "ETH News",
+        "ETH Zurich",
+        "Faraday’s Law",
+        "Scientific Frontier",
+        "The European Space Agency"
+      ],
+      "locations": [
+        "Brazil",
+        "Earth",
+        "South America",
+        "South Atlantic Anomaly",
+        "dynamo"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Earth",
+        "three",
+        "ETH",
+        "Scientific Frontier",
+        "The European Space Agency",
+        "ESA",
+        "six",
+        "One",
+        "ETH Zurich",
+        "Andrew Jackson"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 6765
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "CAT",
+        "Faraday’s Law",
+        "2013",
+        "EU",
+        "ESA",
+        "ETH Zurich",
+        "ETH News",
+        "Scientific Frontier",
+        "Alexey Kuvshinov",
+        "Andrew Jackson",
+        "The European Space Agency"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "about 10-20%",
+        "three",
+        "who",
+        "some 1000 km",
+        "about 10 %",
+        "where",
+        "every 200,000 to",
+        "about 1,000-2,000",
+        "Russian",
+        "poles",
+        "what",
+        "medical_research",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Andrew Jackson_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

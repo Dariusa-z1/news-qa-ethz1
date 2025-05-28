@@ -1,0 +1,774 @@
+{
+  "filename": "concentrating-solar-power.md",
+  "original_filename": "concentrating-solar-power.html",
+  "source_path": "en_news_events/2017/09/concentrating-solar-power.html",
+  "date": "2017-09",
+  "title": "Concentrating Solar Power",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A controllable renewable",
+      "text": "Two solar power technologies exist today : concentrating solar power (CSP) and photovoltaics (PV). Ten years ago, CSP and PV were similar in terms of installed capacity and cost, but after the hype about Desertec and solar power exports from the desert to Europe about five years ago, they have taken quite different development paths. Whereas PV costs plummeted, CSP costs decreased more modestly; today there are 5,000 MW of CSP, but over 300,000 MW of PV. While PV is conquering the world, CSP is barely clinging to life."
+    },
+    {
+      "heading": "A controllable renewable",
+      "text": "The triumph of PV is remarkable, but it also raises concerns: like wind power, PV produces fluctuating electricity depending on weather conditions. With higher shares of such fluctuating sources, the power system may become unstable. Temperate regions in particular regularly face extended periods of simultaneous low wind and low sun: for example, when the winter fog descends on Switzerland for weeks at a time, a system depending purely on PV and wind would fail, even if backed up by battery storage.\n\nAs CSP stations can be equipped with thermal energy storage, in which heat harvested by large mirrors during day can be stored and used later, a fleet of CSP stations can deliver fully controllable solar power, also at night (1). Such a fleet can help cover the supply extended low sun/low wind periods in Europe, and balance fluctuating generation in the desert countries themselves: in fact, CSP may be the only renewable option able to provide controllable power at the scale needed."
+    },
+    {
+      "heading": "“Learning rate” gives hope",
+      "text": "Yet, the short-term survival of CSP depends on two things: accelerated expansion and sufficient cost decrease to gain attention from policy-makers.\n\nIn a recent paper (2), we identified the “learning rate” of CSP and found that it exceeded 20% in the last 5 years: each time the global CSP capacity doubled, investment costs decreased by over 20%. This is a very good value – it is even outcompeting that of PV. This finding gives hope and shows that CSP does not suffer from some intrinsic factor limiting its cost reduction potential: its main ailment is the slow expansion pace."
+    },
+    {
+      "heading": "Continuity allows for cost decrease",
+      "text": "However, we found the learning rate to be highly volatile, reflecting the start-stop pattern of the expansion. When CSP started in the US in the 1980s, costs went down quickly, but expansion ceased in 1990 when the only active company went bankrupt. After that, no new plants were built for almost 20 years.\n\nWhen expansion re-started in Spain in 2007, costs doubled as new companies and engineers without CSP experience entered the stage. As these gained experience, costs started declining again by 2011. The Spanish support scheme was cancelled in 2013 and expansion there stopped, but many Spanish companies survived and moved to other markets, such as Morocco or South Africa, and the cost decrease continued."
+    },
+    {
+      "heading": "Policy design to keep CSP alive",
+      "text": "Today, the knowledge of how to build CSP plants has spread, and new companies have emerged, in the Middle East, the US and China. The trend of decreasing CSP costs is accelerating; a recent CSP deal in Australia closed at USD 60/MWh – a price competitive with new gas power, and much cheaper than any other controllable renewable option (e.g. wind power coupled with batteries) (3)."
+    },
+    {
+      "heading": "Cost pressure in policy support needed",
+      "text": "We also found that certain aspects of support policies had a significant impact on cost development. In all countries except Spain, CSP support was designed as auctioning schemes in which the lowest bidder gets to build a power plant. In such schemes, competition and cost pressure are strong, and indeed we see strong cost reductions in the times when CSP expansion happened outside Spain.\n\nIn Spain – the only country expanding CSP in 2007–2012 – the support scheme was a feed-in tariff (FIT) that allowed all CSP developers to access a fixed price. Although FITs are generally efficient instruments, the Spanish FIT had two key flaws: the tariff was too high, and it did not decrease over time. Hence, there was no cost pressure in Spain: there, costs could increase while still leaving operators a profit margin – and indeed they did."
+    },
+    {
+      "heading": "Policy design to keep CSP alive",
+      "text": "Faster expansion is the key to continued cost reduction, but policy-makers will remain reluctant to provide the necessary support as long as CSP costs are higher than those of other renewables – a chicken and egg problem.\n\nA delicate balance exists between strong cost pressure and sufficiently high tariffs. On the one hand, cost pressure forces companies to innovate and reduce costs in order to stay competitive; on the other hand, sufficiently high tariffs are necessary for these companies to stay in business.\n\nWe have shown that well-designed policies that address this balancing act can improve costs quickly. If countries adhere to these principles, CSP will stay alive and the world will keep this weapon in its fight for the secure decarbonisation of electricity systems.\n\n[1] Desertec aimed at creating a global renewable energy plan.\n\n[2] Pfenninger S, et al. (2014) Potential for concentrating solar power to provide baseload and dispatchable power. Nature Clim. Change 4(8):689-692. [3] Lilliestam J, Labordena M, Patt A, & Pfenninger S (2017) Empirically observed learning rates for concentrating solar power and their responses to regime change. Nature Energy 2:17094. [4] Lacey S (2017) SolarReserve inks deal with South Australia to supply solar thermal power with storage for 6 cents. (Greentechmedia, London)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Solar Power",
+        "label": "ORG",
+        "start": 37,
+        "end": 48
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 35,
+        "end": 40
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 70,
+        "end": 73
+      },
+      {
+        "text": "Ten years ago",
+        "label": "DATE",
+        "start": 99,
+        "end": 112
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 114,
+        "end": 117
+      },
+      {
+        "text": "PV",
+        "label": "ORG",
+        "start": 122,
+        "end": 124
+      },
+      {
+        "text": "Desertec",
+        "label": "NORP",
+        "start": 204,
+        "end": 212
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 256,
+        "end": 262
+      },
+      {
+        "text": "about five years ago",
+        "label": "DATE",
+        "start": 263,
+        "end": 283
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 364,
+        "end": 367
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 399,
+        "end": 404
+      },
+      {
+        "text": "5,000",
+        "label": "CARDINAL",
+        "start": 415,
+        "end": 420
+      },
+      {
+        "text": "MW",
+        "label": "ORG",
+        "start": 421,
+        "end": 423
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 427,
+        "end": 430
+      },
+      {
+        "text": "over 300,000",
+        "label": "CARDINAL",
+        "start": 436,
+        "end": 448
+      },
+      {
+        "text": "MW",
+        "label": "ORG",
+        "start": 449,
+        "end": 451
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 493,
+        "end": 496
+      },
+      {
+        "text": "PV",
+        "label": "GPE",
+        "start": 15,
+        "end": 17
+      },
+      {
+        "text": "winter",
+        "label": "DATE",
+        "start": 358,
+        "end": 364
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 381,
+        "end": 392
+      },
+      {
+        "text": "weeks",
+        "label": "DATE",
+        "start": 397,
+        "end": 402
+      },
+      {
+        "text": "PV",
+        "label": "GPE",
+        "start": 443,
+        "end": 445
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 508,
+        "end": 511
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 659,
+        "end": 662
+      },
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 724,
+        "end": 729
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 811,
+        "end": 817
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 899,
+        "end": 902
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 32,
+        "end": 35
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 47,
+        "end": 50
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 208,
+        "end": 211
+      },
+      {
+        "text": "20%",
+        "label": "PERCENT",
+        "start": 239,
+        "end": 242
+      },
+      {
+        "text": "the last 5 years",
+        "label": "DATE",
+        "start": 246,
+        "end": 262
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 285,
+        "end": 288
+      },
+      {
+        "text": "over 20%",
+        "label": "PERCENT",
+        "start": 337,
+        "end": 345
+      },
+      {
+        "text": "PV",
+        "label": "GPE",
+        "start": 407,
+        "end": 409
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 450,
+        "end": 453
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 116,
+        "end": 119
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 135,
+        "end": 137
+      },
+      {
+        "text": "the 1980s",
+        "label": "DATE",
+        "start": 141,
+        "end": 150
+      },
+      {
+        "text": "almost 20 years",
+        "label": "DATE",
+        "start": 291,
+        "end": 306
+      },
+      {
+        "text": "Spain",
+        "label": "GPE",
+        "start": 337,
+        "end": 342
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 405,
+        "end": 408
+      },
+      {
+        "text": "Spanish",
+        "label": "NORP",
+        "start": 510,
+        "end": 517
+      },
+      {
+        "text": "Spanish",
+        "label": "NORP",
+        "start": 593,
+        "end": 600
+      },
+      {
+        "text": "Morocco",
+        "label": "GPE",
+        "start": 656,
+        "end": 663
+      },
+      {
+        "text": "South Africa",
+        "label": "GPE",
+        "start": 667,
+        "end": 679
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "text": "the Middle East",
+        "label": "LOC",
+        "start": 95,
+        "end": 110
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 116,
+        "end": 118
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 123,
+        "end": 128
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 154,
+        "end": 157
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 190,
+        "end": 193
+      },
+      {
+        "text": "Australia",
+        "label": "GPE",
+        "start": 202,
+        "end": 211
+      },
+      {
+        "text": "Spain",
+        "label": "GPE",
+        "start": 125,
+        "end": 130
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 132,
+        "end": 135
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 353,
+        "end": 356
+      },
+      {
+        "text": "Spain",
+        "label": "GPE",
+        "start": 384,
+        "end": 389
+      },
+      {
+        "text": "Spain",
+        "label": "GPE",
+        "start": 394,
+        "end": 399
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 429,
+        "end": 432
+      },
+      {
+        "text": "2007–2012",
+        "label": "CARDINAL",
+        "start": 436,
+        "end": 445
+      },
+      {
+        "text": "FIT",
+        "label": "ORG",
+        "start": 489,
+        "end": 492
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 511,
+        "end": 514
+      },
+      {
+        "text": "Spanish",
+        "label": "NORP",
+        "start": 606,
+        "end": 613
+      },
+      {
+        "text": "FIT",
+        "label": "ORG",
+        "start": 614,
+        "end": 617
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 622,
+        "end": 625
+      },
+      {
+        "text": "Spain",
+        "label": "GPE",
+        "start": 734,
+        "end": 739
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 141,
+        "end": 144
+      },
+      {
+        "text": "CSP",
+        "label": "ORG",
+        "start": 657,
+        "end": 660
+      },
+      {
+        "text": "Desertec",
+        "label": "NORP",
+        "start": 785,
+        "end": 793
+      },
+      {
+        "text": "al",
+        "label": "PERSON",
+        "start": 865,
+        "end": 867
+      },
+      {
+        "text": "Nature Clim",
+        "label": "PERSON",
+        "start": 960,
+        "end": 971
+      },
+      {
+        "text": "4(8):689",
+        "label": "CARDINAL",
+        "start": 980,
+        "end": 988
+      },
+      {
+        "text": "Labordena M",
+        "label": "ORG",
+        "start": 1012,
+        "end": 1023
+      },
+      {
+        "text": "South Australia",
+        "label": "LOC",
+        "start": 1229,
+        "end": 1244
+      },
+      {
+        "text": "6 cents",
+        "label": "MONEY",
+        "start": 1292,
+        "end": 1299
+      },
+      {
+        "text": "Greentechmedia",
+        "label": "GPE",
+        "start": 1302,
+        "end": 1316
+      },
+      {
+        "text": "London",
+        "label": "GPE",
+        "start": 1318,
+        "end": 1324
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Nature Clim",
+        "al"
+      ],
+      "ORG": [
+        "CSP",
+        "En News",
+        "FIT",
+        "Labordena M",
+        "MW",
+        "PV",
+        "Solar Power"
+      ],
+      "LOCATION": [
+        "Australia",
+        "China",
+        "Europe",
+        "Greentechmedia",
+        "London",
+        "Morocco",
+        "PV",
+        "South Africa",
+        "South Australia",
+        "Spain",
+        "Switzerland",
+        "US",
+        "the Middle East"
+      ],
+      "DATE": [
+        "Ten years ago",
+        "Today",
+        "about five years ago",
+        "almost 20 years",
+        "night",
+        "the 1980s",
+        "the last 5 years",
+        "today",
+        "weeks",
+        "winter"
+      ],
+      "MISC": [
+        "20%",
+        "2007–2012",
+        "4(8):689",
+        "5,000",
+        "6 cents",
+        "Desertec",
+        "Spanish",
+        "Two",
+        "over 20%",
+        "over 300,000",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "CSP": 23,
+      "Spain": 5,
+      "PV": 4,
+      "Spanish": 3,
+      "today": 2,
+      "Desertec": 2,
+      "Europe": 2,
+      "MW": 2,
+      "two": 2,
+      "US": 2,
+      "FIT": 2,
+      "En News": 1,
+      "Solar Power": 1,
+      "Two": 1,
+      "Ten years ago": 1,
+      "about five years ago": 1,
+      "5,000": 1,
+      "over 300,000": 1,
+      "winter": 1,
+      "Switzerland": 1
+    },
+    "total_entities": 80,
+    "unique_entities": 42
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "concentrating-solar-power.md",
+      "title": "En News Events/2017/09/concentrating Solar Power",
+      "language": "en",
+      "source_path": "en_news_events/2017/09/concentrating-solar-power.html"
+    },
+    "temporal": {
+      "publication_date": "2017-09",
+      "mentioned_years": [
+        "1990",
+        "2007",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Nature Clim",
+        "al"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology"
+      ],
+      "research_topics": [
+        "2007–2012",
+        "4(8):689",
+        "5,000",
+        "6 cents",
+        "Desertec",
+        "Spanish",
+        "over 20%",
+        "over 300,000"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "The Spanish",
+        "Nature Energy",
+        "Nature Clim",
+        "Spanish FIT",
+        "When CSP",
+        "Labordena M",
+        "Middle East",
+        "South Australia",
+        "As CSP",
+        "Pfenninger S",
+        "South Africa",
+        "Although FITs",
+        "In Spain",
+        "En News",
+        "Patt A",
+        "Solar Power",
+        "Whereas PV",
+        "Lilliestam J",
+        "Lacey S",
+        "While PV"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSP",
+        "En News",
+        "FIT",
+        "Labordena M",
+        "MW",
+        "PV",
+        "Solar Power"
+      ],
+      "locations": [
+        "Australia",
+        "China",
+        "Europe",
+        "Greentechmedia",
+        "London",
+        "Morocco",
+        "PV",
+        "South Africa",
+        "South Australia",
+        "Spain",
+        "Switzerland",
+        "US",
+        "the Middle East"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "CSP",
+        "Spain",
+        "PV",
+        "Spanish",
+        "today",
+        "Desertec",
+        "Europe",
+        "MW",
+        "two",
+        "US"
+      ],
+      "document_structure": {
+        "total_sections": 7,
+        "section_titles": [
+          "A controllable renewable",
+          "A controllable renewable",
+          "“Learning rate” gives hope",
+          "Continuity allows for cost decrease",
+          "Policy design to keep CSP alive",
+          "Cost pressure in policy support needed",
+          "Policy design to keep CSP alive"
+        ],
+        "content_length": 5416
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2014",
+        "2007",
+        "En News",
+        "2017",
+        "MW",
+        "2011",
+        "EU",
+        "2013",
+        "PV",
+        "2012",
+        "Solar Power",
+        "Labordena M",
+        "al",
+        "CSP",
+        "Nature Clim",
+        "FIT",
+        "1990"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "2007–2012",
+        "Spanish",
+        "Desertec",
+        "over 300,000",
+        "over 20%",
+        "when",
+        "how",
+        "6 cents",
+        "climate_change",
+        "4(8):689",
+        "where",
+        "5,000"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

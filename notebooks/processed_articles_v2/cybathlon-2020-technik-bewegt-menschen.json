@@ -1,0 +1,241 @@
+{
+  "filename": "cybathlon-2020-technik-bewegt-menschen.md",
+  "original_filename": "cybathlon-2020-technik-bewegt-menschen.html",
+  "source_path": "en_internal/2020/10/cybathlon-2020-technik-bewegt-menschen.html",
+  "date": "2020-10",
+  "title": "Cybathlon 2020 Technik Bewegt Menschen",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "A leather toe? A wooden hand? A prosthetic controlled by nerve impulses? Technological advances have naturally resulted in ever more complex systems, up to and including bionic prostheses. In the ETH Library, you will find historic exhibits – including two particularly valuable designs for hand prostheses by Aurel Stodola and Pierre Ballif – as well as comprehensive research literature on this topic.\n\nThe three-part video campaign (German only) begins with the history of prosthetics and orthotics and focuses on Werner Witschi in all of the videos: Werner Witschi’s life took a tragic turn when he suffered a workplace accident. The qualified electrical engineer has been paralysed since 2013. Yet his life changed again with another unexpected development.\n\nYou can already look forward to the other videos, which deal with the current state of research and an outlook into the future. Find out about the ETH Library’s which support research in this area: http://www.library.ethz.ch/cybathlon2020-en\n\nAt the CYBATHLON 2020 you can experience the possibilities that intelligent technology offers to people with disabilities. This year, the event will take place as a Global Edition in a new format from 13–14 November.\n\n#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 253,
+        "end": 256
+      },
+      {
+        "text": "Aurel Stodola",
+        "label": "PERSON",
+        "start": 310,
+        "end": 323
+      },
+      {
+        "text": "Pierre Ballif",
+        "label": "PERSON",
+        "start": 328,
+        "end": 341
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 408,
+        "end": 413
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 435,
+        "end": 441
+      },
+      {
+        "text": "Werner Witschi",
+        "label": "PERSON",
+        "start": 516,
+        "end": 530
+      },
+      {
+        "text": "Werner Witschi’s",
+        "label": "PERSON",
+        "start": 553,
+        "end": 569
+      },
+      {
+        "text": "the ETH Library’s",
+        "label": "ORG",
+        "start": 905,
+        "end": 922
+      },
+      {
+        "text": "This year",
+        "label": "DATE",
+        "start": 1127,
+        "end": 1136
+      },
+      {
+        "text": "Global Edition",
+        "label": "WORK_OF_ART",
+        "start": 1169,
+        "end": 1183
+      },
+      {
+        "text": "13–14 November",
+        "label": "DATE",
+        "start": 1205,
+        "end": 1219
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 1263,
+        "end": 1278
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Aurel Stodola",
+        "Pierre Ballif",
+        "Werner Witschi",
+        "Werner Witschi’s"
+      ],
+      "ORG": [
+        "the ETH Library",
+        "the ETH Library’s"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "13–14 November",
+        "This year"
+      ],
+      "MISC": [
+        "German",
+        "Global Edition",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "two": 1,
+      "Aurel Stodola": 1,
+      "Pierre Ballif": 1,
+      "three": 1,
+      "German": 1,
+      "Werner Witschi": 1,
+      "Werner Witschi’s": 1,
+      "the ETH Library’s": 1,
+      "This year": 1,
+      "Global Edition": 1,
+      "13–14 November": 1,
+      "the ETH Library": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "cybathlon-2020-technik-bewegt-menschen.md",
+      "title": "En Internal/2020/10/cybathlon 2020 Technik Bewegt Menschen",
+      "language": "en",
+      "source_path": "en_internal/2020/10/cybathlon-2020-technik-bewegt-menschen.html"
+    },
+    "temporal": {
+      "publication_date": "2020-10",
+      "mentioned_years": [
+        "2013",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Aurel Stodola",
+        "Pierre Ballif",
+        "Werner Witschi",
+        "Werner Witschi’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "German",
+        "Global Edition",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Aurel Stodola",
+        "Menschen A",
+        "Global Edition",
+        "ETH Library",
+        "Technik Bewegt",
+        "En Internal",
+        "Pierre Ballif",
+        "Werner Witschi"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "the ETH Library",
+        "the ETH Library’s"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "two",
+        "Aurel Stodola",
+        "Pierre Ballif",
+        "three",
+        "German",
+        "Werner Witschi",
+        "Werner Witschi’s",
+        "the ETH Library’s",
+        "This year",
+        "Global Edition"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1395
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Aurel Stodola",
+        "2013",
+        "2020",
+        "the ETH Library’s",
+        "Werner Witschi’s",
+        "Pierre Ballif",
+        "the ETH Library",
+        "Werner Witschi"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "where",
+        "what",
+        "German",
+        "Global Edition",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

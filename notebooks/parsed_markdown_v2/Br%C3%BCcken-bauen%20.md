@@ -1,0 +1,26 @@
+# Br%C3%BCcken-bauen%20.html
+
+**Source:** de_internal/2013/10/Br%C3%BCcken-bauen%20.html
+
+## Zum Autor
+
+Arnaud Monnard
+
+Als AVETH-Verantwortlicher für externe Angelegenheiten stehe ich in regem Kontakt und Austausch mit Actionuni und verfolge derzeit auch, was sich dort verändert. Actionuni vertritt den Forschungsnachwuchs sowie die Mittelbauvereinigungen der Schweizer Universitäten und Eidgenössischen Technischen Hochschulen auf nationaler und internationaler Ebene. Kurzum: Actionuni hat zum Ziel, die Karrierebedingungen der Forschenden zu verbessern sowie die Aktivitäten der schweizerischen Mittelbauvereinigungen zu koordinieren. Der Verband strebt die Gestaltung und Förderung der Zusammenarbeit unter den schweizerischen Vereinigungen der Nachwuchsforscher an und vertritt die Schweizer Universitäten auf europäischer Ebene als Mitglied der Organisation Europäischer Nachwuchsforscher Eurodoc.
+
+Im Jahr 2015 wird ein neues Gesetz zur Förderung und Koordination der Hochschulen auf Bundesebene in Kraft treten. Dies schliesst auch die Fachhochschulen mit ein, was bisher nicht der Fall war. Derzeit sind die Universitäten Bern, Freiburg, Luzern und Neuenburg sowie die ETH Zürich und die EPF Lausanne offizielle Actionuni-Mitglieder. Das neue Gesetz hat zur Folge, dass Actionuni die Technischen Hochschulinstitute auf sämtlichen akademischen Forschungsebenen vertreten wird.
+
+Die Koordination und Umsetzung dieser Massnahmen in einem Land wie der Schweiz, wo beinahe jeder Kanton über eine eigene Riege akademischer Institutionen verfügt, wird zu einer grossen Herausforderung werden. Die Eingliederung der Fachhochschulen in einen etablierten Verband wie Actionuni wird einige Zeit beanspruchen. Deshalb werden bereits Ende dieses Jahres die ersten Institute integriert.
+
+Es gibt jede Menge zu tun: Nebst der Actionuni-Integrierung aller Fachhochschulen müssen an jeder einzelnen von ihnen auch Mittelbauvereinigungen geschaffen werden. Diese existierten bisher traditionell nur an den Universitäten, nicht jedoch an den Fachhochschulen, da dort die Anzahl Nachwuchsforscher und Forschungsprojekte im Vergleich zu den Universitäten sehr gering ist. Actionuni stellt die Nachwuchsforscher in den Mittelpunkt und möchte sie in einem Dachverband gruppieren und vertreten, ganz ähnlich wie der VSS, der als Dachverband die Studierendenschaften der allermeisten Schweizer Hochschulen und Universitäten vereint, deren Interessen auf eidgenössischer Ebene vertritt, die Anliegen seiner Mitglieder koordiniert sowie mit nationalen und internationalen Organisationen zusammenarbeitet, mit dem übergeordneten Ziel, die Demokratisierung und Gleichstellung zu fördern.
+
+Meiner Ansicht nach bringt diese Veränderung Positives mit sich. In einer globalen Welt, die Wettbewerbsfähigkeit auf internationalem Niveau von uns verlangt und wo Wissenschaft das Resultat von Koordination und Wettbewerb unter Teams rund um den Globus ist, ist es unumgänglich, den Hochschuldialog innerhalb eines Landes zu fördern. Actionuni stellt eine der Massnahmen dar, um dieses Ziel zu erreichen.
+
+Als einer der ältesten Schweizer Forschungsinstitutionen kommt der ETH Zürich eine besondere Rolle in diesem bedeutenden Veränderungsprozess zu. Dank ihrer langjährigen partizipativen Tradition und Philosophie sowie ihrer eigenen Mittelbauvereinigung AVETH ist sie ein Musterbeispiel dafür, wie der inneruniversitäre Dialog gefördert und gestärkt werden kann. Als AVETH-Verantwortlicher für externe Angelegenheiten wird es meine Aufgabe sein, für eine qualitativ hochwertige Kommunikation zu sorgen und Brücken zu den anderen Fachhochschulen und Universitäten zu schlagen.
+
+## Zum Autor
+
+Arnaud Monnard stammt aus Lutry, einer idyllischen Kleinstadt in der Weinregion Lavaux. Im Sommer 2012 beendete er sein Life Science-Studium (Schwerpunkt Neurowissenschaften) an der EPFL mit einem ingenieurwissenschaftlichen Abschluss. Das letzte Jahr seines Masterstudiums verbrachte Monnard an der Harvard Medical School, wo er an einem Forschungsprojekt des Labors Flier/Maratos-Flier im Bereich Neuroendokrinologie mitarbeitete und sich intensiv mit dem Thema Diabetes und Übergewicht beschäftigte. Im September 2012 nahm Monnard ein Doktoratsstudium im Bereich Ernährungswissenschaften auf. Unter der Leitung von Professor Michael Zimmermann.
+
+## Newsletter abonnieren
+

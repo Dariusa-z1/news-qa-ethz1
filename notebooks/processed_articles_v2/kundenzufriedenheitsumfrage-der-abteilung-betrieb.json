@@ -1,0 +1,190 @@
+{
+  "filename": "kundenzufriedenheitsumfrage-der-abteilung-betrieb.md",
+  "original_filename": "kundenzufriedenheitsumfrage-der-abteilung-betrieb.html",
+  "source_path": "en_internal/2019/09/kundenzufriedenheitsumfrage-der-abteilung-betrieb.html",
+  "date": "2019-09",
+  "title": "Kundenzufriedenheitsumfrage Der Abteilung Betrieb",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Facility Management department is responsible for utilities and building management for all ETH buildings and facilities. The information provided by the online survey will form an important basis for planning measures to further increase the trust and satisfaction of users. The survey will be processed by the LINK Institute in Zurich. All participants will remain anonymous and data protection will be ensured at all times. The survey will remain open for four weeks. A general overview of the results will be published in the first quarter of 2020. The detailed results of the survey are reserved for the Facility Management department."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Abteilung Betrieb",
+        "label": "PERSON",
+        "start": 52,
+        "end": 69
+      },
+      {
+        "text": "The Facility Management",
+        "label": "ORG",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 96,
+        "end": 99
+      },
+      {
+        "text": "the LINK Institute",
+        "label": "ORG",
+        "start": 312,
+        "end": 330
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 334,
+        "end": 340
+      },
+      {
+        "text": "four weeks",
+        "label": "DATE",
+        "start": 463,
+        "end": 473
+      },
+      {
+        "text": "the first quarter of 2020",
+        "label": "DATE",
+        "start": 530,
+        "end": 555
+      },
+      {
+        "text": "Facility Management",
+        "label": "ORG",
+        "start": 613,
+        "end": 632
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Abteilung Betrieb"
+      ],
+      "ORG": [
+        "ETH",
+        "Facility Management",
+        "The Facility Management",
+        "the LINK Institute"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "four weeks",
+        "the first quarter of 2020"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Abteilung Betrieb": 1,
+      "The Facility Management": 1,
+      "ETH": 1,
+      "the LINK Institute": 1,
+      "Zurich": 1,
+      "four weeks": 1,
+      "the first quarter of 2020": 1,
+      "Facility Management": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "kundenzufriedenheitsumfrage-der-abteilung-betrieb.md",
+      "title": "En Internal/2019/09/kundenzufriedenheitsumfrage der Abteilung Betrieb",
+      "language": "en",
+      "source_path": "en_internal/2019/09/kundenzufriedenheitsumfrage-der-abteilung-betrieb.html"
+    },
+    "temporal": {
+      "publication_date": "2019-09",
+      "mentioned_years": [
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Abteilung Betrieb"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "En Internal",
+        "Facility Management",
+        "Abteilung Betrieb",
+        "The Facility",
+        "LINK Institute"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Facility Management",
+        "The Facility Management",
+        "the LINK Institute"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Abteilung Betrieb",
+        "The Facility Management",
+        "ETH",
+        "the LINK Institute",
+        "Zurich",
+        "four weeks",
+        "the first quarter of 2020",
+        "Facility Management"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 714
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2019",
+        "2020",
+        "The Facility Management",
+        "Facility Management",
+        "Abteilung Betrieb",
+        "the LINK Institute"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "how"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

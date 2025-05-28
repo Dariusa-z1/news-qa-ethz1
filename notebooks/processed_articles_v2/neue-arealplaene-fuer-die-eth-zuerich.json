@@ -1,0 +1,213 @@
+{
+  "filename": "neue-arealplaene-fuer-die-eth-zuerich.md",
+  "original_filename": "neue-arealplaene-fuer-die-eth-zuerich.html",
+  "source_path": "de_internal/2015/12/neue-arealplaene-fuer-die-eth-zuerich.html",
+  "date": "2015-12",
+  "title": "Neue Arealplaene Fuer Die Eth Zuerich",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Hinweis",
+      "text": "Mit dem Start der neuen Webseiten des Infrastrukturbereichs Immobilien stehen seit Anfang der Woche auch die neuen Arealpläne der ETH Zürich zur Verfügung. Insgesamt sind vier Karten jeweils farbig und schwarz-weiss im Angebot: Das Areal Zentrum, das Areal Hönggerberg, die Standorte in der Region Zürich sowie die Aussenstandorte der Hochschule.\n\nIn den Karten im PDF-Format können zukünftig selbst einfache Markierungen zum Beispiel von Gebäuden vorgenommen werden. Der IB Immobilien aktualisiert die Arealpläne regelmässig und sorgt so für die Sicherung der Qualität. Es wird empfohlen, immer die aktuelle Originalversion von den Seiten des IBI zu verwenden."
+    },
+    {
+      "heading": "Hinweis",
+      "text": "Ab 1. Januar 2016 werden die bisherigen Infrastrukturbereiche als Abteilungen geführt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/12/neue Arealplaene Fuer",
+        "label": "LOC",
+        "start": 0,
+        "end": 41
+      },
+      {
+        "text": "Eth Zuerich",
+        "label": "ORG",
+        "start": 46,
+        "end": 57
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 130,
+        "end": 140
+      },
+      {
+        "text": "schwarz-weiss",
+        "label": "ORG",
+        "start": 202,
+        "end": 215
+      },
+      {
+        "text": "Areal Zentrum",
+        "label": "ORG",
+        "start": 232,
+        "end": 245
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 257,
+        "end": 268
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 298,
+        "end": 304
+      },
+      {
+        "text": "PDF-Format",
+        "label": "MISC",
+        "start": 364,
+        "end": 374
+      },
+      {
+        "text": "IB",
+        "label": "ORG",
+        "start": 471,
+        "end": 473
+      },
+      {
+        "text": "IBI",
+        "label": "ORG",
+        "start": 643,
+        "end": 646
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Areal Zentrum",
+        "ETH Zürich",
+        "Eth Zuerich",
+        "IB",
+        "IBI",
+        "schwarz-weiss"
+      ],
+      "LOCATION": [
+        "De Internal/2015/12/neue Arealplaene Fuer",
+        "Hönggerberg",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "PDF-Format"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2015/12/neue Arealplaene Fuer": 1,
+      "Eth Zuerich": 1,
+      "ETH Zürich": 1,
+      "schwarz-weiss": 1,
+      "Areal Zentrum": 1,
+      "Hönggerberg": 1,
+      "Zürich": 1,
+      "PDF-Format": 1,
+      "IB": 1,
+      "IBI": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neue-arealplaene-fuer-die-eth-zuerich.md",
+      "title": "De Internal/2015/12/neue Arealplaene Fuer die Eth Zuerich",
+      "language": "de",
+      "source_path": "de_internal/2015/12/neue-arealplaene-fuer-die-eth-zuerich.html"
+    },
+    "temporal": {
+      "publication_date": "2015-12",
+      "mentioned_years": [
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "PDF-Format"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Der IB",
+        "De Internal",
+        "Das Areal",
+        "Eth Zuerich",
+        "PDF-Format",
+        "Infrastrukturbereichs Immobilien",
+        "Arealplaene Fuer"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Areal Zentrum",
+        "ETH Zürich",
+        "Eth Zuerich",
+        "IB",
+        "IBI",
+        "schwarz-weiss"
+      ],
+      "locations": [
+        "De Internal/2015/12/neue Arealplaene Fuer",
+        "Hönggerberg",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2015/12/neue Arealplaene Fuer",
+        "Eth Zuerich",
+        "ETH Zürich",
+        "schwarz-weiss",
+        "Areal Zentrum",
+        "Hönggerberg",
+        "Zürich",
+        "PDF-Format",
+        "IB",
+        "IBI"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Hinweis",
+          "Hinweis"
+        ],
+        "content_length": 806
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "IBI",
+        "2015",
+        "EU",
+        "2016",
+        "Areal Zentrum",
+        "ETH Zürich",
+        "IB",
+        "Eth Zuerich",
+        "schwarz-weiss"
+      ],
+      "semantic_concepts": [
+        "PDF-Format"
+      ],
+      "graph_relations": []
+    }
+  }
+}

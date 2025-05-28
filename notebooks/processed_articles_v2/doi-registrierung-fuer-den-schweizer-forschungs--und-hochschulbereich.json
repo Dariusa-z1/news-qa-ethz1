@@ -1,0 +1,177 @@
+{
+  "filename": "doi-registrierung-fuer-den-schweizer-forschungs--und-hochschulbereich.md",
+  "original_filename": "doi-registrierung-fuer-den-schweizer-forschungs--und-hochschulbereich.html",
+  "source_path": "de_internal/2014/09/doi-registrierung-fuer-den-schweizer-forschungs--und-hochschulbereich.html",
+  "date": "2014-09",
+  "title": "Doi Registrierung Fuer Den Schweizer Forschungs Und Hochschulbereich",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Betreiben Sie einen Dokumentenserver, eine digitale Sammlung, ein Forschungsdatenarchiv oder eine Open-Access-Zeitschrift?\n\nDigital Object Identifier\n\nDOI-Namen bleiben stabil und gewährleisten Zitierfähigkeit, während URL-Adressen sich häufig verändern oder verschwinden.\n\nWir beraten Sie gerne bei der Einführung von DOIs für Ihren Publikationsservice. Auf der Website des DOI-Desk finden Sie weitere Informationen zum Vorgehen und Kontaktangaben ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/09/doi",
+        "label": "LOC",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "Schweizer Forschungs",
+        "label": "ORG",
+        "start": 47,
+        "end": 67
+      },
+      {
+        "text": "Forschungsdatenarchiv",
+        "label": "ORG",
+        "start": 66,
+        "end": 87
+      },
+      {
+        "text": "Identifier DOI-Namen",
+        "label": "MISC",
+        "start": 138,
+        "end": 158
+      },
+      {
+        "text": "URL-Adressen",
+        "label": "LOC",
+        "start": 217,
+        "end": 229
+      },
+      {
+        "text": "DOIs",
+        "label": "ORG",
+        "start": 316,
+        "end": 320
+      },
+      {
+        "text": "DOI-Desk",
+        "label": "ORG",
+        "start": 372,
+        "end": 380
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "DOI-Desk",
+        "DOIs",
+        "Forschungsdatenarchiv",
+        "Schweizer Forschungs"
+      ],
+      "LOCATION": [
+        "De Internal/2014/09/doi",
+        "URL-Adressen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Identifier DOI-Namen"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2014/09/doi": 1,
+      "Schweizer Forschungs": 1,
+      "Forschungsdatenarchiv": 1,
+      "Identifier DOI-Namen": 1,
+      "URL-Adressen": 1,
+      "DOIs": 1,
+      "DOI-Desk": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "doi-registrierung-fuer-den-schweizer-forschungs--und-hochschulbereich.md",
+      "title": "De Internal/2014/09/doi Registrierung Fuer den Schweizer Forschungs und Hochschulbereich",
+      "language": "de",
+      "source_path": "de_internal/2014/09/doi-registrierung-fuer-den-schweizer-forschungs--und-hochschulbereich.html"
+    },
+    "temporal": {
+      "publication_date": "2014-09",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Identifier DOI-Namen"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "De Internal",
+        "Ihren Publikationsservice",
+        "DOI-Namen",
+        "DOI-Desk",
+        "Registrierung Fuer",
+        "Digital Object",
+        "URL-Adressen",
+        "Open-Access",
+        "Schweizer Forschungs",
+        "Hochschulbereich Betreiben"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DOI-Desk",
+        "DOIs",
+        "Forschungsdatenarchiv",
+        "Schweizer Forschungs"
+      ],
+      "locations": [
+        "De Internal/2014/09/doi",
+        "URL-Adressen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2014/09/doi",
+        "Schweizer Forschungs",
+        "Forschungsdatenarchiv",
+        "Identifier DOI-Namen",
+        "URL-Adressen",
+        "DOIs",
+        "DOI-Desk"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 539
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "DOIs",
+        "DOI-Desk",
+        "Forschungsdatenarchiv",
+        "Schweizer Forschungs",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "when",
+        "Identifier DOI-Namen"
+      ],
+      "graph_relations": []
+    }
+  }
+}

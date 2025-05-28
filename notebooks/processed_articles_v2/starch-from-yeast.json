@@ -1,0 +1,481 @@
+{
+  "filename": "starch-from-yeast.md",
+  "original_filename": "starch-from-yeast.html",
+  "source_path": "en_news_events/2016/11/starch-from-yeast.html",
+  "date": "2016-11",
+  "title": "Starch From Yeast",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Transferring plant enzymes",
+      "text": "Starch is only produced by plants and algae. Now, it can also be produced by yeast – or, at any rate, by the yeasts in the labs of the group led by Samuel Zeeman, Professor of Plant Biochemistry at ETH Zurich’s Institute of Agricultural Sciences. The researchers have succeeded in implanting yeast with the machinery that plants use to create this stored form of glucose. “It’s an unprecedented innovation,” says Zeeman."
+    },
+    {
+      "heading": "Transferring plant enzymes",
+      "text": "To achieve this aim, Barbara Pfister, the researcher spearheading the project, took the blueprints for seven different enzymes involved in starch synthesis from the genome of thale cress ( Arabidopsis thaliana ). They then implanted these into the yeast’s genome, from which they also removed all enzymes involved in the synthesis of glycogen, the storage form of glucose in yeast, to prevent these enzymes from interfering with the synthesis of starch.\n\nIn total, the researchers generated over 200 strains of yeast, some of them with all seven enzymes and others with various reduced sets of them. Accordingly, the strains produced either starch that closely resembled that of Arabidopsis or no starch at all – or starch products with varying degrees of modification."
+    },
+    {
+      "heading": "Taking a new direction with yeast",
+      "text": "Yeast cells producing starch are visualized by cryo X-ray ptychographic tomography, which reveals the density inside the cells (top), and electron microscopy (bottom). The cells on the left are not modified and free of starch. The scale bar is 1 μm. (courtesy of B. Pfister / ETH Zurich)\n\nThe researchers used various methods to investigate what exactly was produced by the yeast. In addition to the classical iodine test and various well-established imaging processes, the new technique of cryo X-ray ptychographic tomography developed at the Paul Scherrer Institute was applied here to determine the mass density of the synthesized products inside the yeast.\n\nThe result: strains containing all seven enzymes produced starch with only minimal differences from Arabidopsis starch. However, what was surprising were the products of strains in which one or more enzymes were missing: depending on the combination, some of these strains nevertheless produced some type of starch."
+    },
+    {
+      "heading": "Starch by a roundabout route",
+      "text": "“Starch synthesis is not a linear process,” explains Zeeman. “If an enzyme is missing, the ones that are left keep working anyway and just build a slightly different product.” The researchers were able to show that, depending on the combination of the other enzymes, starch synthesis also works without debranching enzymes. These enzymes remove excess branching in the sugar chains produced during starch synthesis and were previously proposed to be indispensable to starch formation.\n\n“At present, the yeast system is purely a research tool,” says the ETH professor. He explains that it allows starch synthesis to be simulated and influenced, as well as allowing more detailed investigation of the individual roles of participating enzymes and of the formation of starch’s complicated structure. “Doing these studies in yeast is far faster and simpler than in plants,” emphasises Zeeman . Asked about future applications, he adds: “Of course, it would be possible to try out novel starch modifications in the yeast system to attempt to improve starch properties for certain areas of application.”\n\nThis SNF-funded project saw Zeeman’s group work with yeast for the first time. “It worked remarkably well”, he says. Zeeman and Pfister now want to use the yeast system to investigate starch synthesis in greater detail at the system level. To this end, the group has started working with mathematical modelling specialists in order to simulate the process in a computer model.\n\nStarch is an important constituent of foodstuffs such as maize, rice or potatoes. It is of major interest for the manufacture of biodegradable materials, and finds use in many unexpected places, such as in coating for paper. As such, starch is being constantly optimised for its various applications.\n\nPfister B, Sánchez-Ferrer A, Diaz A, Lu K, Otto C, Holler M, Razvi Shaik F, Meier F, Mezzenga R, Zeeman SC. Recreating the Synthesis of Starch Granules in Yeast. Elife, published on November 22, 2016, DOI 10.7554/eLife.15552 ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Starch",
+        "label": "GPE",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Samuel Zeeman",
+        "label": "PERSON",
+        "start": 148,
+        "end": 161
+      },
+      {
+        "text": "Institute of Agricultural Sciences",
+        "label": "ORG",
+        "start": 211,
+        "end": 245
+      },
+      {
+        "text": "Zeeman",
+        "label": "PERSON",
+        "start": 413,
+        "end": 419
+      },
+      {
+        "text": "Barbara Pfister",
+        "label": "PERSON",
+        "start": 21,
+        "end": 36
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 103,
+        "end": 108
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 539,
+        "end": 544
+      },
+      {
+        "text": "Arabidopsis",
+        "label": "ORG",
+        "start": 678,
+        "end": 689
+      },
+      {
+        "text": "1 μm",
+        "label": "QUANTITY",
+        "start": 244,
+        "end": 248
+      },
+      {
+        "text": "B. Pfister / ETH Zurich",
+        "label": "ORG",
+        "start": 263,
+        "end": 286
+      },
+      {
+        "text": "the Paul Scherrer Institute",
+        "label": "ORG",
+        "start": 539,
+        "end": 566
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 695,
+        "end": 700
+      },
+      {
+        "text": "Arabidopsis",
+        "label": "ORG",
+        "start": 760,
+        "end": 771
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 847,
+        "end": 850
+      },
+      {
+        "text": "Starch",
+        "label": "GPE",
+        "start": 1,
+        "end": 7
+      },
+      {
+        "text": "Zeeman",
+        "label": "PERSON",
+        "start": 53,
+        "end": 59
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 552,
+        "end": 555
+      },
+      {
+        "text": "Zeeman",
+        "label": "NORP",
+        "start": 880,
+        "end": 886
+      },
+      {
+        "text": "Zeeman’s",
+        "label": "ORG",
+        "start": 1125,
+        "end": 1133
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1164,
+        "end": 1169
+      },
+      {
+        "text": "Zeeman",
+        "label": "PERSON",
+        "start": 1214,
+        "end": 1220
+      },
+      {
+        "text": "Pfister",
+        "label": "PERSON",
+        "start": 1225,
+        "end": 1232
+      },
+      {
+        "text": "Starch",
+        "label": "GPE",
+        "start": 1474,
+        "end": 1480
+      },
+      {
+        "text": "Sánchez-Ferrer A",
+        "label": "ORG",
+        "start": 1786,
+        "end": 1802
+      },
+      {
+        "text": "Diaz A",
+        "label": "ORG",
+        "start": 1804,
+        "end": 1810
+      },
+      {
+        "text": "Lu K",
+        "label": "PERSON",
+        "start": 1812,
+        "end": 1816
+      },
+      {
+        "text": "Otto C",
+        "label": "PERSON",
+        "start": 1818,
+        "end": 1824
+      },
+      {
+        "text": "Holler M",
+        "label": "PERSON",
+        "start": 1826,
+        "end": 1834
+      },
+      {
+        "text": "Razvi Shaik F",
+        "label": "PERSON",
+        "start": 1836,
+        "end": 1849
+      },
+      {
+        "text": "Meier F",
+        "label": "PERSON",
+        "start": 1851,
+        "end": 1858
+      },
+      {
+        "text": "Zeeman SC",
+        "label": "PERSON",
+        "start": 1872,
+        "end": 1881
+      },
+      {
+        "text": "November 22, 2016",
+        "label": "DATE",
+        "start": 1957,
+        "end": 1974
+      },
+      {
+        "text": "10.7554",
+        "label": "CARDINAL",
+        "start": 1980,
+        "end": 1987
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Barbara Pfister",
+        "Holler M",
+        "Lu K",
+        "Meier F",
+        "Otto C",
+        "Pfister",
+        "Razvi Shaik F",
+        "Samuel Zeeman",
+        "Zeeman",
+        "Zeeman SC"
+      ],
+      "ORG": [
+        "Arabidopsis",
+        "B. Pfister / ETH Zurich",
+        "Diaz A",
+        "ETH",
+        "Institute of Agricultural Sciences",
+        "Sánchez-Ferrer A",
+        "Zeeman’s",
+        "the Paul Scherrer Institute"
+      ],
+      "LOCATION": [
+        "Starch"
+      ],
+      "DATE": [
+        "November 22, 2016"
+      ],
+      "MISC": [
+        "1 μm",
+        "10.7554",
+        "Zeeman",
+        "first",
+        "one",
+        "seven"
+      ]
+    },
+    "entity_counts": {
+      "Zeeman": 4,
+      "Starch": 3,
+      "seven": 3,
+      "Arabidopsis": 2,
+      "Samuel Zeeman": 1,
+      "Institute of Agricultural Sciences": 1,
+      "Barbara Pfister": 1,
+      "1 μm": 1,
+      "B. Pfister / ETH Zurich": 1,
+      "the Paul Scherrer Institute": 1,
+      "one": 1,
+      "ETH": 1,
+      "Zeeman’s": 1,
+      "first": 1,
+      "Pfister": 1,
+      "Sánchez-Ferrer A": 1,
+      "Diaz A": 1,
+      "Lu K": 1,
+      "Otto C": 1,
+      "Holler M": 1
+    },
+    "total_entities": 33,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "starch-from-yeast.md",
+      "title": "En News Events/2016/11/starch From Yeast",
+      "language": "en",
+      "source_path": "en_news_events/2016/11/starch-from-yeast.html"
+    },
+    "temporal": {
+      "publication_date": "2016-11",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Barbara Pfister",
+        "Holler M",
+        "Lu K",
+        "Meier F",
+        "Otto C",
+        "Pfister",
+        "Razvi Shaik F",
+        "Samuel Zeeman",
+        "Zeeman",
+        "Zeeman SC"
+      ],
+      "people_with_roles": {
+        "Barbara Pfister": [
+          "researcher",
+          "head"
+        ],
+        "Pfister": [
+          "researcher",
+          "head"
+        ],
+        "Samuel Zeeman": [
+          "professor"
+        ],
+        "Zeeman": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "1 μm",
+        "10.7554",
+        "Zeeman",
+        "first",
+        "seven"
+      ],
+      "grants_funding": [
+        "SNF"
+      ],
+      "projects": [
+        "Pfister B",
+        "Plant Biochemistry",
+        "Diaz A",
+        "Holler M",
+        "Lu K",
+        "Mezzenga R",
+        "Samuel Zeeman",
+        "Agricultural Sciences",
+        "Meier F",
+        "Razvi Shaik",
+        "Ferrer A",
+        "Paul Scherrer",
+        "This SNF",
+        "Starch Granules",
+        "En News",
+        "Otto C",
+        "Barbara Pfister",
+        "From Yeast",
+        "ETH Zurich",
+        "Zeeman SC"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Arabidopsis",
+        "B. Pfister / ETH Zurich",
+        "Diaz A",
+        "ETH",
+        "Institute of Agricultural Sciences",
+        "Sánchez-Ferrer A",
+        "Zeeman’s",
+        "the Paul Scherrer Institute"
+      ],
+      "locations": [
+        "Starch"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Zeeman",
+        "Starch",
+        "seven",
+        "Arabidopsis",
+        "Samuel Zeeman",
+        "Institute of Agricultural Sciences",
+        "Barbara Pfister",
+        "1 μm",
+        "B. Pfister / ETH Zurich",
+        "the Paul Scherrer Institute"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Transferring plant enzymes",
+          "Transferring plant enzymes",
+          "Taking a new direction with yeast",
+          "Starch by a roundabout route"
+        ],
+        "content_length": 4215
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "SNF",
+        "2016",
+        "Diaz A",
+        "Holler M",
+        "Sánchez-Ferrer A",
+        "Lu K",
+        "Samuel Zeeman",
+        "Pfister",
+        "Arabidopsis",
+        "Razvi Shaik F",
+        "Meier F",
+        "B. Pfister / ETH Zurich",
+        "Zeeman",
+        "the Paul Scherrer Institute",
+        "Institute of Agricultural Sciences",
+        "Zeeman’s",
+        "Otto C",
+        "Barbara Pfister",
+        "Zeeman SC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Zeeman",
+        "mathematics",
+        "first",
+        "1 μm",
+        "seven",
+        "who",
+        "chemistry",
+        "when",
+        "where",
+        "what",
+        "how",
+        "10.7554",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Barbara Pfister_has_role_researcher",
+        "Barbara Pfister_has_role_head",
+        "Pfister_has_role_researcher",
+        "Pfister_has_role_head",
+        "Samuel Zeeman_has_role_professor",
+        "Zeeman_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

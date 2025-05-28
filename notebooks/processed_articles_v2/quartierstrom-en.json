@@ -1,0 +1,500 @@
+{
+  "filename": "quartierstrom-en.md",
+  "original_filename": "quartierstrom-en.html",
+  "source_path": "en_news_events/2019/06/quartierstrom-en.html",
+  "date": "2019-06",
+  "title": "Quartierstrom En",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Incentives for all",
+      "text": "December 2018 marked the start of an experiment that is the first of its kind in Switzerland. In the Schwemmiweg district of Walenstadt, 37 households have joined forces to create a local energy market. Instead of having to go through their retail energy supplier, owners of photovoltaic systems can sell surplus electricity to their neighbours, giving households without solar panels the opportunity to purchase clean, locally produced energy. The participants in this local energy trading market determine the prices themselves based on supply and demand.\n\nGenerating and distributing electricity within the district means that less energy needs to be brought in from outside the community. Local peer-to-peer energy trading also offers other advantages: “For example, energy generators can sell their electricity at a far higher rate than the feed-in tariff, so they get a faster return on investment on their solar installation,” says Sandro Schopfer from the Bits to Energy Lab at ETH. He heads up a project called Quartierstrom (German for district energy). Other project partners include the University of St. Gallen, several companies from the energy sector and the local grid operator Water and Electricity Works Walenstadt (WEW), which has made its distribution grid available for local trading during the project. The Swiss Federal Office of Energy supports Quartierstrom as part of its pilot, demonstration and flagship projects programme."
+    },
+    {
+      "heading": "Incentives for all",
+      "text": "The idea of the project is to investigate how energy markets might operate in the future. One key aspect of the energy transition is the increasing decentralisation of energy generation – ­effectively a shift away from large, centralised power plants and towards smaller, often private producers. “Up till now small generators had very few possibilities to market their energy themselves,” says Schopfer. They are required to feed their surplus energy into the grid, selling it to the electricity retailer at a feed-in tariff. Paradoxically, the electricity actually routes itself to the producer’s neighbours anyway, since electrons always follow the shortest path. “But that fact isn’t reflected in current market arrangements,” says Schopfer. Allowing private producers to participate in energy trading could provide financial incentives and help promote the use of clean, locally generated energy.\n\nOne of the goals of the Quartierstrom project is to discover how this plays out in practice. Twenty-eight of the participants have their own photovoltaic systems, and nine are pure consumers, including a retirement home. The combined systems produce approximately 300,000kWh a year, while the community’s actual electri­city demand comes to around 250,000kWh. Several battery systems serve as buf­fers. Specially built Smart Meters (a variant of the low-budget computer Raspberry Pi) continuously measure the energy generated and consumed by individual households. A specially designed and implemented software carries out the actual transactions. These are based on blockchain technology, which is designed to ensure trading networks are tamper-proof."
+    },
+    {
+      "heading": "Both sides benefit",
+      "text": "The local market participants set their price limits using an app. Producers state the price they are willing to accept for their surplus energy, while consumers specify the maximum price they are willing to pay. An algorithm is then used to determine every 15 minutes who can purchase electricity from whom. It does this by matching the cheapest provider with the highest bidder. Households that are unable to find a partner to trade with simply purchase their electricity from the energy supplier at the standard market rate.\n\nPrices in the Quartierstrom market fluctuate based on supply and demand. Figures so far show that they range between the feed-in tariff of 4 cents and the energy supplier’s electricity price of 20.75 cents per kWh. “So it’s profitable for both producers and consumers,” says ETH doctoral student Liliane Ableitner, who is studying user behaviour and acceptance in the project. She is delighted with the degree of user involvement in the trading process. “Many of them are logging into the app more often than we expected.” Detailed results won’t be available until the project comes to an end in January 2020, but it’s already clear that the trading scheme is boosting the consumption of local energy within the community. In the first two weeks of February 2019, for example, over 80 percent of the solar power generated was consumed within the local district. By way of comparison, an individual household can only make use of approximately 30 percent of the electricity it produces if it is not connected to a local networked market."
+    },
+    {
+      "heading": "Energy supplier as insurance",
+      "text": "Yet despite producing much of the energy it needs, the district is still reliant on the local energy supplier. As well as purchasing surplus solar, the company also supplies grid power in the event that the sun isn’t shining and demand is high. “In this scenario the energy supplier will act as a kind of insurance policy to cover all eventualities,” says Ableitner. She believes that this transformation of the energy market is set to continue. That view is shared by managers at the Water and Electricity Works Walenstadt, who are convinced by the project’s merits. They hope to gain insights into new business models and help shape their development from an early stage.\n\nThe researchers’ next step will be to investigate how battery systems and flexible loads such as heat pumps and electric vehicles could serve to balance out fluctuations in energy production. “It’s far easier to do that within a community than within an indi- vidual household,” says Schopfer. By storing surplus energy on site and using it at a later time, the community could one day become even more self-sufficient. “Our goal is to see as little energy as possible leaving the community.”"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "December 2018",
+        "label": "DATE",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 60,
+        "end": 65
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 81,
+        "end": 92
+      },
+      {
+        "text": "Schwemmiweg",
+        "label": "FAC",
+        "start": 101,
+        "end": 112
+      },
+      {
+        "text": "Walenstadt",
+        "label": "GPE",
+        "start": 125,
+        "end": 135
+      },
+      {
+        "text": "Sandro Schopfer",
+        "label": "PERSON",
+        "start": 938,
+        "end": 953
+      },
+      {
+        "text": "Quartierstrom",
+        "label": "PERSON",
+        "start": 1019,
+        "end": 1032
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 1034,
+        "end": 1040
+      },
+      {
+        "text": "the University of St. Gallen",
+        "label": "ORG",
+        "start": 1094,
+        "end": 1122
+      },
+      {
+        "text": "Water and Electricity Works Walenstadt",
+        "label": "WORK_OF_ART",
+        "start": 1193,
+        "end": 1231
+      },
+      {
+        "text": "The Swiss Federal Office of Energy",
+        "label": "ORG",
+        "start": 1324,
+        "end": 1358
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 90,
+        "end": 93
+      },
+      {
+        "text": "Schopfer",
+        "label": "PERSON",
+        "start": 395,
+        "end": 403
+      },
+      {
+        "text": "Schopfer",
+        "label": "PERSON",
+        "start": 736,
+        "end": 744
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 902,
+        "end": 905
+      },
+      {
+        "text": "Quartierstrom",
+        "label": "ORG",
+        "start": 926,
+        "end": 939
+      },
+      {
+        "text": "Twenty-eight",
+        "label": "CARDINAL",
+        "start": 995,
+        "end": 1007
+      },
+      {
+        "text": "nine",
+        "label": "CARDINAL",
+        "start": 1069,
+        "end": 1073
+      },
+      {
+        "text": "approximately 300,000kWh",
+        "label": "CARDINAL",
+        "start": 1152,
+        "end": 1176
+      },
+      {
+        "text": "250,000kWh",
+        "label": "CARDINAL",
+        "start": 1250,
+        "end": 1260
+      },
+      {
+        "text": "Smart Meters",
+        "label": "PERSON",
+        "start": 1321,
+        "end": 1333
+      },
+      {
+        "text": "Raspberry Pi",
+        "label": "PERSON",
+        "start": 1372,
+        "end": 1384
+      },
+      {
+        "text": "every 15 minutes",
+        "label": "TIME",
+        "start": 252,
+        "end": 268
+      },
+      {
+        "text": "Quartierstrom",
+        "label": "ORG",
+        "start": 542,
+        "end": 555
+      },
+      {
+        "text": "4 cents",
+        "label": "MONEY",
+        "start": 667,
+        "end": 674
+      },
+      {
+        "text": "20.75 cents",
+        "label": "MONEY",
+        "start": 722,
+        "end": 733
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 803,
+        "end": 806
+      },
+      {
+        "text": "Liliane Ableitner",
+        "label": "PERSON",
+        "start": 824,
+        "end": 841
+      },
+      {
+        "text": "January 2020",
+        "label": "DATE",
+        "start": 1124,
+        "end": 1136
+      },
+      {
+        "text": "the first two weeks",
+        "label": "DATE",
+        "start": 1254,
+        "end": 1273
+      },
+      {
+        "text": "February 2019",
+        "label": "DATE",
+        "start": 1277,
+        "end": 1290
+      },
+      {
+        "text": "over 80 percent",
+        "label": "PERCENT",
+        "start": 1305,
+        "end": 1320
+      },
+      {
+        "text": "approximately 30 percent",
+        "label": "PERCENT",
+        "start": 1457,
+        "end": 1481
+      },
+      {
+        "text": "Ableitner",
+        "label": "PERSON",
+        "start": 356,
+        "end": 365
+      },
+      {
+        "text": "the Water and Electricity Works Walenstadt",
+        "label": "ORG",
+        "start": 481,
+        "end": 523
+      },
+      {
+        "text": "Schopfer",
+        "label": "PERSON",
+        "start": 958,
+        "end": 966
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ableitner",
+        "Liliane Ableitner",
+        "Quartierstrom",
+        "Raspberry Pi",
+        "Sandro Schopfer",
+        "Schopfer",
+        "Smart Meters"
+      ],
+      "ORG": [
+        "ETH",
+        "En News",
+        "Quartierstrom",
+        "The Swiss Federal Office of Energy",
+        "the University of St. Gallen",
+        "the Water and Electricity Works Walenstadt"
+      ],
+      "LOCATION": [
+        "Schwemmiweg",
+        "Switzerland",
+        "Walenstadt"
+      ],
+      "DATE": [
+        "December 2018",
+        "February 2019",
+        "January 2020",
+        "every 15 minutes",
+        "the first two weeks"
+      ],
+      "MISC": [
+        "20.75 cents",
+        "250,000kWh",
+        "4 cents",
+        "German",
+        "One",
+        "Twenty-eight",
+        "Water and Electricity Works Walenstadt",
+        "approximately 30 percent",
+        "approximately 300,000kWh",
+        "first",
+        "nine",
+        "over 80 percent"
+      ]
+    },
+    "entity_counts": {
+      "Quartierstrom": 3,
+      "Schopfer": 3,
+      "One": 2,
+      "En News": 1,
+      "December 2018": 1,
+      "first": 1,
+      "Switzerland": 1,
+      "Schwemmiweg": 1,
+      "Walenstadt": 1,
+      "Sandro Schopfer": 1,
+      "German": 1,
+      "the University of St. Gallen": 1,
+      "Water and Electricity Works Walenstadt": 1,
+      "The Swiss Federal Office of Energy": 1,
+      "Twenty-eight": 1,
+      "nine": 1,
+      "approximately 300,000kWh": 1,
+      "250,000kWh": 1,
+      "Smart Meters": 1,
+      "Raspberry Pi": 1
+    },
+    "total_entities": 37,
+    "unique_entities": 32
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "quartierstrom-en.md",
+      "title": "En News Events/2019/06/quartierstrom En",
+      "language": "en",
+      "source_path": "en_news_events/2019/06/quartierstrom-en.html"
+    },
+    "temporal": {
+      "publication_date": "2019-06",
+      "mentioned_years": [
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Ableitner",
+        "Liliane Ableitner",
+        "Quartierstrom",
+        "Raspberry Pi",
+        "Sandro Schopfer",
+        "Schopfer",
+        "Smart Meters"
+      ],
+      "people_with_roles": {
+        "Ableitner": [
+          "student"
+        ],
+        "Liliane Ableitner": [
+          "student"
+        ],
+        "Quartierstrom": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "20.75 cents",
+        "250,000kWh",
+        "4 cents",
+        "German",
+        "Twenty-eight",
+        "Water and Electricity Works Walenstadt",
+        "approximately 30 percent",
+        "approximately 300,000kWh",
+        "first",
+        "nine",
+        "over 80 percent"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "En December",
+        "Raspberry Pi",
+        "Electricity Works",
+        "En News",
+        "Federal Office",
+        "Sandro Schopfer",
+        "Smart Meters",
+        "The Swiss",
+        "Liliane Ableitner",
+        "Energy Lab"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "En News",
+        "Quartierstrom",
+        "The Swiss Federal Office of Energy",
+        "the University of St. Gallen",
+        "the Water and Electricity Works Walenstadt"
+      ],
+      "locations": [
+        "Schwemmiweg",
+        "Switzerland",
+        "Walenstadt"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Quartierstrom",
+        "Schopfer",
+        "One",
+        "En News",
+        "December 2018",
+        "first",
+        "Switzerland",
+        "Schwemmiweg",
+        "Walenstadt",
+        "Sandro Schopfer"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Incentives for all",
+          "Incentives for all",
+          "Both sides benefit",
+          "Energy supplier as insurance"
+        ],
+        "content_length": 5881
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "Raspberry Pi",
+        "the University of St. Gallen",
+        "En News",
+        "2019",
+        "2020",
+        "Quartierstrom",
+        "Schopfer",
+        "Sandro Schopfer",
+        "Smart Meters",
+        "Liliane Ableitner",
+        "The Swiss Federal Office of Energy",
+        "the Water and Electricity Works Walenstadt",
+        "ERC",
+        "Ableitner"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "approximately 30 percent",
+        "4 cents",
+        "250,000kWh",
+        "when",
+        "over 80 percent",
+        "Water and Electricity Works Walenstadt",
+        "approximately 300,000kWh",
+        "Twenty-eight",
+        "20.75 cents",
+        "who",
+        "what",
+        "how",
+        "computer_science",
+        "first",
+        "nine",
+        "German",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Ableitner_has_role_student",
+        "Liliane Ableitner_has_role_student",
+        "Quartierstrom_has_role_head",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

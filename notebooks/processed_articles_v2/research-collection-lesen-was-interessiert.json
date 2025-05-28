@@ -1,0 +1,200 @@
+{
+  "filename": "research-collection-lesen-was-interessiert.md",
+  "original_filename": "research-collection-lesen-was-interessiert.html",
+  "source_path": "en_internal/2021/10/research-collection-lesen-was-interessiert.html",
+  "date": "2021-10",
+  "title": "Research Collection Lesen Was Interessiert",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Pandemic first",
+      "text": "- “external pageFlood simulation data of a 100-year designed storm in 656catchment areas of Switzerlandcall\\_made” is the name of the record that has already been downloaded 6,790 times since its publication.\n\n- The paper with an altmetric score of almost 3,000 is entitled “external pageIncreasing probability of record-shattering climate extremescall\\_made”."
+    },
+    {
+      "heading": "Comparing numbers",
+      "text": "Go to the infographic for July to September 2021\n\nThe Research Collection is the publication platform of ETH Zurich. University members can use it to publish academic full texts on an open-access basis, as well as to archive research data or to make these available to the public."
+    },
+    {
+      "heading": "Subscribe to Newsletter",
+      "text": "More than just data – Benefit from know-how\n\n#KnowHow – The ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "100-year",
+        "label": "DATE",
+        "start": 43,
+        "end": 51
+      },
+      {
+        "text": "656catchment",
+        "label": "CARDINAL",
+        "start": 70,
+        "end": 82
+      },
+      {
+        "text": "6,790",
+        "label": "CARDINAL",
+        "start": 174,
+        "end": 179
+      },
+      {
+        "text": "almost 3,000",
+        "label": "CARDINAL",
+        "start": 248,
+        "end": 260
+      },
+      {
+        "text": "July to September 2021",
+        "label": "DATE",
+        "start": 26,
+        "end": 48
+      },
+      {
+        "text": "The Research Collection",
+        "label": "ORG",
+        "start": 49,
+        "end": 72
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 104,
+        "end": 114
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "The Research Collection"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "100-year",
+        "July to September 2021"
+      ],
+      "MISC": [
+        "6,790",
+        "656catchment",
+        "almost 3,000"
+      ]
+    },
+    "entity_counts": {
+      "100-year": 1,
+      "656catchment": 1,
+      "6,790": 1,
+      "almost 3,000": 1,
+      "July to September 2021": 1,
+      "The Research Collection": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "research-collection-lesen-was-interessiert.md",
+      "title": "En Internal/2021/10/research Collection Lesen Was Interessiert",
+      "language": "en",
+      "source_path": "en_internal/2021/10/research-collection-lesen-was-interessiert.html"
+    },
+    "temporal": {
+      "publication_date": "2021-10",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "6,790",
+        "656catchment",
+        "almost 3,000"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Research",
+        "En Internal",
+        "Was Interessiert",
+        "ETH Zurich",
+        "The ETH",
+        "Collection Lesen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "The Research Collection"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "100-year",
+        "656catchment",
+        "6,790",
+        "almost 3,000",
+        "July to September 2021",
+        "The Research Collection",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Pandemic first",
+          "Comparing numbers",
+          "Subscribe to Newsletter"
+        ],
+        "content_length": 826
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "The Research Collection",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "656catchment",
+        "who",
+        "6,790",
+        "where",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering",
+        "almost 3,000"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}
