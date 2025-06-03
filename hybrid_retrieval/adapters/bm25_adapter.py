@@ -4,9 +4,15 @@ Wraps the existing Multilingual BM25 retriever to provide a unified interface
 """
 import sys
 import os
+import shutil
+import tempfile
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
-from multilingual_bm25 import MultilingualBM25Retriever
+from multilingual_bm25 import (
+    MultilingualBM25Retriever,
+    load_hknews_documents,
+    create_temp_documents
+)
 from typing import List, Dict, Any, Tuple
 import pickle
 
@@ -21,9 +27,33 @@ class BM25Adapter:
         Args:
             docs_directory: Path to directory containing JSON documents
         """
-        # The MultilingualBM25Retriever expects a directory path
-        self.retriever = MultilingualBM25Retriever(docs_directory)
+        # Load documents first
+        print("Loading HKNews documents...")
+        documents = load_hknews_documents()
+        
+        if not documents:
+            print("Warning: No documents found in HKNews directory")
+            self.retriever = None
+            self.temp_dir = None
+        else:
+            print(f"Loaded {len(documents)} documents")
+            
+            # Create temporary directory with documents
+            self.temp_dir = create_temp_documents(documents)
+            
+            # Initialize retriever with temp directory
+            self.retriever = MultilingualBM25Retriever(self.temp_dir)
+            print("BM25 retriever initialized successfully")
+        
         self.name = "BM25"
+    
+    def __del__(self):
+        """Clean up temporary directory when adapter is destroyed"""
+        if hasattr(self, 'temp_dir') and self.temp_dir and os.path.exists(self.temp_dir):
+            try:
+                shutil.rmtree(self.temp_dir)
+            except:
+                pass
     
     def retrieve(self, query: str, top_k: int = 10) -> List[Tuple[Dict[str, Any], float]]:
         """
@@ -36,22 +66,13 @@ class BM25Adapter:
         Returns:
             List of tuples (document_dict, score)
         """
+        if self.retriever is None:
+            print("BM25 retriever not initialized")
+            return []
+            
         try:
-            # Try different method names that might exist
-            if hasattr(self.retriever, 'search'):
-                results = self.retriever.search(query, top_k=top_k)
-            elif hasattr(self.retriever, 'query'):
-                results = self.retriever.query(query, top_k=top_k)
-            elif hasattr(self.retriever, 'get_top_n'):
-                results = self.retriever.get_top_n(query, n=top_k)
-            elif hasattr(self.retriever, 'search_multilingual'):
-                results = self.retriever.search_multilingual(query, top_k=top_k)
-            else:
-                # List all available methods for debugging
-                methods = [method for method in dir(self.retriever) 
-                          if not method.startswith('_') and callable(getattr(self.retriever, method))]
-                print(f"Available methods in BM25 retriever: {methods}")
-                return []
+            # Use the search method
+            results = self.retriever.search(query, top_k=top_k)
             
             # Standardize the output format
             standardized_results = []
@@ -79,7 +100,7 @@ class BM25Adapter:
                         'metadata': {
                             'language': doc_info.get('language', 'unknown'),
                             'source': doc_info.get('source_file', doc_info.get('source', '')),
-                            'date': f"{doc_info.get('year', '')}-{doc_info.get('month', '')}",
+                            'date': doc_info.get('date', ''),
                             'keywords': doc_info.get('keywords', []),
                             'topics': doc_info.get('topics', [])
                         },
@@ -91,6 +112,8 @@ class BM25Adapter:
             
         except Exception as e:
             print(f"Error in BM25 adapter: {e}")
+            import traceback
+            traceback.print_exc()
             return []
     
     def get_name(self) -> str:
