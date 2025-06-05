@@ -6,7 +6,7 @@ from .adapters.bm25_adapter import BM25Adapter
 from .adapters.dense_adapter import DenseAdapter
 from .adapters.graphrag_adapter import GraphRAGAdapter
 from .score_fusion import reciprocal_rank_fusion, weighted_fusion, normalize_scores
-from .reranking import SimpleReranker  
+from .reranking import MultiModelReranker
 
 
 class HybridRetriever:
@@ -56,15 +56,17 @@ class HybridRetriever:
         self.reranker = None
         if use_reranking:
             try:
-                self.reranker = SimpleReranker()
-                print("Reranker initialized successfully")
+                self.reranker = MultiModelReranker()  
+                print("Multi-model reranker initialized successfully")
+                print(f"Available methods: {self.reranker.get_available_methods()}")
             except Exception as e:
                 print(f"Reranker initialization failed: {e}")
                 self.use_reranking = False
         
     def retrieve(self, query: str, top_k: int = 10, 
                  per_retriever_k: int = 20,
-                 rerank_candidates: int = 30) -> List[Tuple[Dict, float]]:  # rerank_candidates
+                 rerank_candidates: int = 30,
+                 rerank_method: str = 'ensemble') -> List[Tuple[Dict, float]]:  # rerank_candidates
         """
         Retrieve documents using hybrid approach with optional reranking
         
@@ -106,15 +108,15 @@ class HybridRetriever:
         
         # RERANKING LOGIC
         if self.use_reranking and self.reranker and len(fused_results) > 0:
-            print(f"Applying reranking to top {min(len(fused_results), rerank_candidates)} candidates...")
+            print(f"Applying reranking using method: {rerank_method}")
             
             # Take top candidates for reranking
             candidates = fused_results[:min(len(fused_results), rerank_candidates)]
             
-            # Apply reranking
-            reranked_results = self.reranker.rerank(query, candidates, top_k=top_k)
+            # Apply reranking with specified method
+            reranked_results = self.reranker.rerank(query, candidates, rerank_method, top_k)
             
-            print(f"Reranking applied. Final results: {len(reranked_results)}")
+            print(f"Reranking applied with {rerank_method}. Final results: {len(reranked_results)}")
             return reranked_results
         
         # Return top-k results without reranking
