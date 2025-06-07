@@ -1,0 +1,383 @@
+{
+  "filename": "holograms-at-the-touch-of-a-button.md",
+  "original_filename": "holograms-at-the-touch-of-a-button.html",
+  "source_path": "en_internal/2022/06/holograms-at-the-touch-of-a-button.html",
+  "date": "2022-06",
+  "title": "Holograms At The Touch Of A Button",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Computer models of moving bodies form the basis of numerous areas of research: for automatic analysis and recognition of human activity (computer vision), work on animated avatars , research on soft robots or movement analysis.\n\nETH researchers will now be able to create such models more quickly and easily thanks to a new laboratory on Heinrichstrasse in Zurich. At the Volumetric Capture Lab, which at first glance looks like a photo or film studio, ETH professors Otmar Hilliges, Marc Pollefeys, Markus Gross, Stelian Coros (all D-INFK) and William Taylor (D-HEST) have put Microsoft technology into operation with special cameras. The system is being used for research purposes at ETH Zurich for the first time in the world, having previously been used mainly in film studios.\n\nUntil now, special dark suits with white reflector dots were necessary for such shots ( example in ETH News from 2018 ), as is known from the film industry.\n\nThe new system does not involve such suits and, instead of markers, captures the surface of the entire body in high resolution, including texture and colour. The system, which is licensed by Microsoft, is located in a green room and records body movements with more than 100 spherically arranged high-speed RGB and infrared cameras.\n\nThe new ETH laboratory offers opportunities for collaboration across disciplines, says research director Otmar Hilliges, who could also imagine collaborating with industrial partners in the field of computer vision. The Volumetric Capture Lab was co-financed by the Swiss National Science Foundation and was officially opened on 29 June. As a bonus, visitors were able to create animated holograms of themselves."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Touch Of A Button",
+        "label": "WORK_OF_ART",
+        "start": 33,
+        "end": 54
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 228,
+        "end": 231
+      },
+      {
+        "text": "Heinrichstrasse",
+        "label": "GPE",
+        "start": 337,
+        "end": 352
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 356,
+        "end": 362
+      },
+      {
+        "text": "the Volumetric Capture Lab",
+        "label": "FAC",
+        "start": 367,
+        "end": 393
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 404,
+        "end": 409
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 452,
+        "end": 455
+      },
+      {
+        "text": "Otmar Hilliges",
+        "label": "PERSON",
+        "start": 467,
+        "end": 481
+      },
+      {
+        "text": "Marc Pollefeys",
+        "label": "PERSON",
+        "start": 483,
+        "end": 497
+      },
+      {
+        "text": "Markus Gross",
+        "label": "PERSON",
+        "start": 499,
+        "end": 511
+      },
+      {
+        "text": "Stelian Coros",
+        "label": "PERSON",
+        "start": 513,
+        "end": 526
+      },
+      {
+        "text": "William Taylor",
+        "label": "PERSON",
+        "start": 544,
+        "end": 558
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 577,
+        "end": 586
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 685,
+        "end": 695
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 704,
+        "end": 709
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 880,
+        "end": 888
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 1129,
+        "end": 1138
+      },
+      {
+        "text": "more than 100",
+        "label": "CARDINAL",
+        "start": 1199,
+        "end": 1212
+      },
+      {
+        "text": "RGB",
+        "label": "ORG",
+        "start": 1245,
+        "end": 1248
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1279,
+        "end": 1282
+      },
+      {
+        "text": "Otmar Hilliges",
+        "label": "PERSON",
+        "start": 1376,
+        "end": 1390
+      },
+      {
+        "text": "The Volumetric Capture Lab",
+        "label": "ORG",
+        "start": 1487,
+        "end": 1513
+      },
+      {
+        "text": "the Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 1533,
+        "end": 1570
+      },
+      {
+        "text": "29 June",
+        "label": "DATE",
+        "start": 1600,
+        "end": 1607
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Marc Pollefeys",
+        "Markus Gross",
+        "Otmar Hilliges",
+        "Stelian Coros",
+        "William Taylor"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH News",
+        "Microsoft",
+        "RGB",
+        "The Volumetric Capture Lab",
+        "the Swiss National Science Foundation"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Heinrichstrasse",
+        "Zurich",
+        "the Volumetric Capture Lab"
+      ],
+      "DATE": [
+        "29 June"
+      ],
+      "MISC": [
+        "The Touch Of A Button",
+        "first",
+        "more than 100"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "first": 2,
+      "Otmar Hilliges": 2,
+      "Microsoft": 2,
+      "The Touch Of A Button": 1,
+      "Heinrichstrasse": 1,
+      "Zurich": 1,
+      "the Volumetric Capture Lab": 1,
+      "Marc Pollefeys": 1,
+      "Markus Gross": 1,
+      "Stelian Coros": 1,
+      "William Taylor": 1,
+      "ETH Zurich": 1,
+      "ETH News": 1,
+      "more than 100": 1,
+      "RGB": 1,
+      "The Volumetric Capture Lab": 1,
+      "the Swiss National Science Foundation": 1,
+      "29 June": 1
+    },
+    "total_entities": 24,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "holograms-at-the-touch-of-a-button.md",
+      "title": "En Internal/2022/06/holograms At The Touch Of A Button",
+      "language": "en",
+      "source_path": "en_internal/2022/06/holograms-at-the-touch-of-a-button.html"
+    },
+    "temporal": {
+      "publication_date": "2022-06",
+      "mentioned_years": [
+        "2018",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Marc Pollefeys",
+        "Markus Gross",
+        "Otmar Hilliges",
+        "Stelian Coros",
+        "William Taylor"
+      ],
+      "people_with_roles": {
+        "Marc Pollefeys": [
+          "professor"
+        ],
+        "Markus Gross": [
+          "professor"
+        ],
+        "Otmar Hilliges": [
+          "rector",
+          "director",
+          "professor"
+        ],
+        "Stelian Coros": [
+          "professor"
+        ],
+        "William Taylor": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "The Touch Of A Button",
+        "first",
+        "more than 100"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Marc Pollefeys",
+        "Markus Gross",
+        "Stelian Coros",
+        "D-INFK",
+        "Capture Lab",
+        "At The",
+        "Volumetric Capture",
+        "En Internal",
+        "Otmar Hilliges",
+        "D-HEST",
+        "Swiss National",
+        "Science Foundation",
+        "ETH News",
+        "Touch Of",
+        "ETH Zurich",
+        "William Taylor",
+        "The Volumetric",
+        "A Button"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH News",
+        "Microsoft",
+        "RGB",
+        "The Volumetric Capture Lab",
+        "the Swiss National Science Foundation"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Heinrichstrasse",
+        "Zurich",
+        "the Volumetric Capture Lab"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "first",
+        "Otmar Hilliges",
+        "Microsoft",
+        "The Touch Of A Button",
+        "Heinrichstrasse",
+        "Zurich",
+        "the Volumetric Capture Lab",
+        "Marc Pollefeys",
+        "Markus Gross"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1742
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Marc Pollefeys",
+        "Markus Gross",
+        "Stelian Coros",
+        "ETH",
+        "2018",
+        "the Swiss National Science Foundation",
+        "Otmar Hilliges",
+        "Microsoft",
+        "2022",
+        "RGB",
+        "ETH News",
+        "The Volumetric Capture Lab",
+        "William Taylor"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "more than 100",
+        "who",
+        "what",
+        "The Touch Of A Button",
+        "why",
+        "when"
+      ],
+      "graph_relations": [
+        "Marc Pollefeys_has_role_professor",
+        "Markus Gross_has_role_professor",
+        "Otmar Hilliges_has_role_rector",
+        "Otmar Hilliges_has_role_director",
+        "Otmar Hilliges_has_role_professor",
+        "Stelian Coros_has_role_professor",
+        "William Taylor_has_role_professor",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

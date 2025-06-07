@@ -1,0 +1,452 @@
+{
+  "filename": "uncovering-atomic-movements-in-crystal.md",
+  "original_filename": "uncovering-atomic-movements-in-crystal.html",
+  "source_path": "en_news_events/2018/08/uncovering-atomic-movements-in-crystal.html",
+  "date": "2018-08",
+  "title": "Uncovering Atomic Movements In Crystal",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Mars rover moves using lead telluride",
+      "text": "To outsiders, scientific questions can sometimes look like hair-splitting. These questions, however, are often crucial, as in materials science: the commercial use of a material stands or falls on its properties. One question that very much depends on such hair-splitting is the one that Boris Sangiorgio pursued in his doctoral thesis. In ETH Professor Nicola Spaldin’s research group at the Institute of Materials Theory , Sangiorgio used the supercomputer “Piz Daint” to examine how lead telluride (PbTe) behaves when it warms up. Lead telluride appears in nature as altaite, a sulfosalt mineral. Altaite can convert heat energy into electrical energy, meaning it has thermoelectric properties."
+    },
+    {
+      "heading": "Mars rover moves using lead telluride",
+      "text": "Thermoelectric materials became popular in aerospace in the 1960s, and remain in widespread use today; for example, a thermoelectric generator made of lead telluride powers the Mars rover Curiosity since 2012.\n\nAbout seven years ago, however, a study on lead telluride ignited a dispute among materials scientists. Back then, researchers came to the conclusion that when lead telluride is heated, the phenomenon of emphanisis occurs. In simple terms, heating causes the lead atoms to shift locally in the crystal, reducing local symmetry. Previously, only the reverse process had been known: heating caused an increase in symmetry.\n\nEmphanisis remained poorly understood until Spaldin’s team examined this phenomenon in lead telluride using the supercomputer. The simulations show that when the mineral is heated, the symmetry is broken locally. However, when the crystal is viewed as a whole, the original cubic symmetry is retained.\n\nFor real experiments with the mineral, the scientists worked in collaboration with researchers at the X-ray platform in the Department of Materials at ETH and used an X-ray scattering technique that provided high-precision visibility of the atomic crystal structure. The results from these trials corresponded very closely with those of the simulation, thereby confirming the simulation results. The researchers were then able to go a step further in the simulations than in the experiment and discover what was behind the process of emphanisis in lead telluride."
+    },
+    {
+      "heading": "New phenomenon",
+      "text": "The simulations show that heating the crystal leads to strong acoustic and optical vibrations. These vibrations overlap and are coupled together, which produces a phenomenon that has never been observed before: due to the coupled vibrations, correlated dipoles form in the crystal, with pairs of Pb and Te atoms both fluctuating and orienting according to their charges. “Seen as a whole, however, the atoms are still in a highly symmetrical position,” says Sangiorgio. The global symmetry is retained. The researchers suspect that this process is essential for lead telluride’s thermoelectric behaviour. It could also be true of other materials (so called ferroelectrics) that, like lead telluride, are close to a ferroelectric phase transition."
+    },
+    {
+      "heading": "Versatile use of thermoelectric materials",
+      "text": "“The functionality of lead telluride is likely based on a sensitive balance between electronic and structural properties,” says Sangiorgio. Understanding the local structure and dynamics of lead telluride is essential for scientists to explain the behaviour of the material. These findings will help them to create or find more efficient thermoelectric materials in future. Thermoelectric materials are not only of interest in aerospace research; they could also help to make more efficient use of waste heat from incineration plants or cars in electricity generation.\n\nThis article was published first on the website of CSCS .\n\nSangiorgio B, Bozin ES, Malliakas CD, Fechner M, Simonov A, Kanatzidis MG, Billinge SJL, Spaldin NA, Weber T. Correlated local dipoles in PbTe. Phys. Rev. Materials 2, 085402, published 6 August 2018. DOI: 10.1103/PhysRevMaterials.2.085402"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Atomic Movements",
+        "label": "PERSON",
+        "start": 34,
+        "end": 50
+      },
+      {
+        "text": "Crystal",
+        "label": "LOC",
+        "start": 54,
+        "end": 61
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 213,
+        "end": 216
+      },
+      {
+        "text": "Boris Sangiorgio",
+        "label": "PERSON",
+        "start": 288,
+        "end": 304
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 340,
+        "end": 343
+      },
+      {
+        "text": "Nicola Spaldin",
+        "label": "PERSON",
+        "start": 354,
+        "end": 368
+      },
+      {
+        "text": "the Institute of Materials Theory",
+        "label": "ORG",
+        "start": 389,
+        "end": 422
+      },
+      {
+        "text": "Sangiorgio",
+        "label": "ORG",
+        "start": 425,
+        "end": 435
+      },
+      {
+        "text": "PbTe",
+        "label": "ORG",
+        "start": 502,
+        "end": 506
+      },
+      {
+        "text": "the 1960s",
+        "label": "DATE",
+        "start": 56,
+        "end": 65
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 96,
+        "end": 101
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 177,
+        "end": 181
+      },
+      {
+        "text": "About seven years ago",
+        "label": "DATE",
+        "start": 210,
+        "end": 231
+      },
+      {
+        "text": "Spaldin",
+        "label": "ORG",
+        "start": 675,
+        "end": 682
+      },
+      {
+        "text": "the Department of Materials",
+        "label": "ORG",
+        "start": 1053,
+        "end": 1080
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1084,
+        "end": 1087
+      },
+      {
+        "text": "Sangiorgio",
+        "label": "PERSON",
+        "start": 458,
+        "end": 468
+      },
+      {
+        "text": "Sangiorgio",
+        "label": "PERSON",
+        "start": 128,
+        "end": 138
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 596,
+        "end": 601
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 620,
+        "end": 624
+      },
+      {
+        "text": "Bozin ES",
+        "label": "ORG",
+        "start": 641,
+        "end": 649
+      },
+      {
+        "text": "Malliakas",
+        "label": "ORG",
+        "start": 651,
+        "end": 660
+      },
+      {
+        "text": "Fechner M",
+        "label": "PERSON",
+        "start": 665,
+        "end": 674
+      },
+      {
+        "text": "Kanatzidis MG",
+        "label": "ORG",
+        "start": 687,
+        "end": 700
+      },
+      {
+        "text": "Billinge SJL",
+        "label": "ORG",
+        "start": 702,
+        "end": 714
+      },
+      {
+        "text": "Spaldin NA",
+        "label": "PERSON",
+        "start": 716,
+        "end": 726
+      },
+      {
+        "text": "Weber T. Correlated",
+        "label": "PERSON",
+        "start": 728,
+        "end": 747
+      },
+      {
+        "text": "PbTe",
+        "label": "FAC",
+        "start": 765,
+        "end": 769
+      },
+      {
+        "text": "Materials 2",
+        "label": "PERSON",
+        "start": 782,
+        "end": 793
+      },
+      {
+        "text": "6 August 2018",
+        "label": "DATE",
+        "start": 813,
+        "end": 826
+      },
+      {
+        "text": "10.1103",
+        "label": "CARDINAL",
+        "start": 833,
+        "end": 840
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Atomic Movements",
+        "Boris Sangiorgio",
+        "Fechner M",
+        "Materials 2",
+        "Nicola Spaldin",
+        "Sangiorgio",
+        "Spaldin NA",
+        "Weber T. Correlated"
+      ],
+      "ORG": [
+        "Billinge SJL",
+        "Bozin ES",
+        "CSCS",
+        "ETH",
+        "Kanatzidis MG",
+        "Malliakas",
+        "PbTe",
+        "Sangiorgio",
+        "Spaldin",
+        "the Department of Materials",
+        "the Institute of Materials Theory"
+      ],
+      "LOCATION": [
+        "Crystal",
+        "Mars",
+        "PbTe"
+      ],
+      "DATE": [
+        "6 August 2018",
+        "About seven years ago",
+        "the 1960s",
+        "today"
+      ],
+      "MISC": [
+        "10.1103",
+        "One",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "Sangiorgio": 3,
+      "ETH": 2,
+      "PbTe": 2,
+      "Atomic Movements": 1,
+      "Crystal": 1,
+      "One": 1,
+      "Boris Sangiorgio": 1,
+      "Nicola Spaldin": 1,
+      "the Institute of Materials Theory": 1,
+      "the 1960s": 1,
+      "today": 1,
+      "Mars": 1,
+      "About seven years ago": 1,
+      "Spaldin": 1,
+      "the Department of Materials": 1,
+      "first": 1,
+      "CSCS": 1,
+      "Bozin ES": 1,
+      "Malliakas": 1,
+      "Fechner M": 1
+    },
+    "total_entities": 31,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "uncovering-atomic-movements-in-crystal.md",
+      "title": "En News Events/2018/08/uncovering Atomic Movements in Crystal",
+      "language": "en",
+      "source_path": "en_news_events/2018/08/uncovering-atomic-movements-in-crystal.html"
+    },
+    "temporal": {
+      "publication_date": "2018-08",
+      "mentioned_years": [
+        "2012",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Atomic Movements",
+        "Boris Sangiorgio",
+        "Fechner M",
+        "Materials 2",
+        "Nicola Spaldin",
+        "Sangiorgio",
+        "Spaldin NA",
+        "Weber T. Correlated"
+      ],
+      "people_with_roles": {
+        "Nicola Spaldin": [
+          "Professor",
+          "professor"
+        ],
+        "Sangiorgio": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1103",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Fechner M",
+        "En News",
+        "Kanatzidis MG",
+        "Atomic Movements",
+        "Malliakas CD",
+        "Piz Daint",
+        "Sangiorgio B",
+        "In ETH",
+        "Materials Theory",
+        "Billinge SJL",
+        "Bozin ES",
+        "Boris Sangiorgio",
+        "Crystal To",
+        "Professor Nicola",
+        "Weber T",
+        "Simonov A",
+        "Spaldin NA"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Materials at ETH and used an X"
+      ],
+      "institutions": [
+        "Billinge SJL",
+        "Bozin ES",
+        "CSCS",
+        "ETH",
+        "Kanatzidis MG",
+        "Malliakas",
+        "PbTe",
+        "Sangiorgio",
+        "Spaldin",
+        "the Department of Materials",
+        "the Institute of Materials Theory"
+      ],
+      "locations": [
+        "Crystal",
+        "Mars",
+        "PbTe"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Sangiorgio",
+        "ETH",
+        "PbTe",
+        "Atomic Movements",
+        "Crystal",
+        "One",
+        "Boris Sangiorgio",
+        "Nicola Spaldin",
+        "the Institute of Materials Theory",
+        "the 1960s"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Mars rover moves using lead telluride",
+          "Mars rover moves using lead telluride",
+          "New phenomenon",
+          "Versatile use of thermoelectric materials"
+        ],
+        "content_length": 3875
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Atomic Movements",
+        "Bozin ES",
+        "the Institute of Materials Theory",
+        "ERC",
+        "Sangiorgio",
+        "2018",
+        "Billinge SJL",
+        "Nicola Spaldin",
+        "Spaldin",
+        "2012",
+        "Weber T. Correlated",
+        "Spaldin NA",
+        "CSCS",
+        "the Department of Materials",
+        "Malliakas",
+        "Fechner M",
+        "Kanatzidis MG",
+        "PbTe",
+        "Materials 2",
+        "Boris Sangiorgio"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "what",
+        "how",
+        "10.1103",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Nicola Spaldin_has_role_Professor",
+        "Nicola Spaldin_has_role_professor",
+        "Sangiorgio_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

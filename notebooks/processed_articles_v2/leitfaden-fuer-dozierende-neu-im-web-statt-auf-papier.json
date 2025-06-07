@@ -1,0 +1,167 @@
+{
+  "filename": "leitfaden-fuer-dozierende-neu-im-web-statt-auf-papier.md",
+  "original_filename": "leitfaden-fuer-dozierende-neu-im-web-statt-auf-papier.html",
+  "source_path": "en_internal/2014/11/leitfaden-fuer-dozierende-neu-im-web-statt-auf-papier.html",
+  "date": "2014-11",
+  "title": "Leitfaden Fuer Dozierende Neu Im Web Statt Auf Papier",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Guidelines for Lecturers",
+      "text": "Anyone who lectures at ETH Zurich will be familiar with the orange-coloured Guidelines for Lecturers document. Until now, the Rectorate has sent copies of these guidelines to every new lecturer by mail.\n\nThe Rectorate has now made them available online. There are clear benefits to this: not only are the guidelines now accessible from anywhere, but they can be amended quickly too.\n\nThese guidelines, which are geared towards the procedures members of our faculty follow to help them plan and teach their courses, arrange topics according to various process steps."
+    },
+    {
+      "heading": "Guidelines for Lecturers",
+      "text": "The Guidelines can be found here:\n\nwww.ethz.ch/guidelines-lecturers\n\nFeedback is welcome. Please contact:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Web Statt",
+        "label": "PERSON",
+        "start": 53,
+        "end": 62
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 23,
+        "end": 33
+      },
+      {
+        "text": "Rectorate",
+        "label": "ORG",
+        "start": 126,
+        "end": 135
+      },
+      {
+        "text": "Rectorate",
+        "label": "ORG",
+        "start": 207,
+        "end": 216
+      },
+      {
+        "text": "Guidelines",
+        "label": "ORG",
+        "start": 4,
+        "end": 14
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Web Statt"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Guidelines",
+        "Rectorate"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Rectorate": 2,
+      "Web Statt": 1,
+      "ETH Zurich": 1,
+      "Guidelines": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "leitfaden-fuer-dozierende-neu-im-web-statt-auf-papier.md",
+      "title": "En Internal/2014/11/leitfaden Fuer Dozierende Neu Im Web Statt auf Papier",
+      "language": "en",
+      "source_path": "en_internal/2014/11/leitfaden-fuer-dozierende-neu-im-web-statt-auf-papier.html"
+    },
+    "temporal": {
+      "publication_date": "2014-11",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Web Statt"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "rector"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Neu Im",
+        "The Rectorate",
+        "Fuer Dozierende",
+        "En Internal",
+        "Web Statt",
+        "Papier Anyone",
+        "ETH Zurich",
+        "The Guidelines"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "Guidelines",
+        "Rectorate"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Rectorate",
+        "Web Statt",
+        "ETH Zurich",
+        "Guidelines"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Guidelines for Lecturers",
+          "Guidelines for Lecturers"
+        ],
+        "content_length": 745
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Rectorate",
+        "EU",
+        "Guidelines",
+        "Web Statt",
+        "ETH Zurich",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "how",
+        "where",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

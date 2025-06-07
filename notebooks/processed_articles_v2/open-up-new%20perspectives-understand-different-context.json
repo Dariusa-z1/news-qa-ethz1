@@ -1,0 +1,167 @@
+{
+  "filename": "open-up-new%20perspectives-understand-different-context.md",
+  "original_filename": "open-up-new%20perspectives-understand-different-context.html",
+  "source_path": "en_internal/2016/06/open-up-new%20perspectives-understand-different-context.html",
+  "date": "2016-06",
+  "title": "Open Up New%20Perspectives Understand Different Context",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The study programme Science in Perspective is an integral part of the curriculum at ETH Zurich. It opens up new perspectives on the natural and engineering sciences, while addressing topics that might have been missed, or that might not have been explored in the core subject’s lecture courses due to lack of time.\n\nThrough seminars and lectures, the historical, moral, epistemological, legal, economic and political contexts, without which science and technology would not be possible, will be examined. Students learn to understand and critically question the correlations between scientific knowledge, technological innovations, cultural contexts, individuals and society.\n\nThey thus enhance their reflective competencies, while being prepared for the social and global developments of the future. With the study programme Science in Perspective, D-GESS is making an important contribution towards ETH Zurich’s Critical Thinking Initiative.\n\nFurther information can be found on the web site and in the strategy paper on Science in Perspective ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Science in Perspective",
+        "label": "ORG",
+        "start": 20,
+        "end": 42
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 84,
+        "end": 94
+      },
+      {
+        "text": "Science in Perspective",
+        "label": "ORG",
+        "start": 824,
+        "end": 846
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 899,
+        "end": 911
+      },
+      {
+        "text": "Critical Thinking Initiative",
+        "label": "ORG",
+        "start": 912,
+        "end": 940
+      },
+      {
+        "text": "Science in Perspective",
+        "label": "WORK_OF_ART",
+        "start": 1020,
+        "end": 1042
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich’s"
+      ],
+      "ORG": [
+        "Critical Thinking Initiative",
+        "Science in Perspective"
+      ],
+      "LOCATION": [
+        "ETH Zurich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Science in Perspective"
+      ]
+    },
+    "entity_counts": {
+      "Science in Perspective": 3,
+      "ETH Zurich": 1,
+      "ETH Zurich’s": 1,
+      "Critical Thinking Initiative": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "open-up-new%20perspectives-understand-different-context.md",
+      "title": "En Internal/2016/06/open Up New%20perspectives Understand Different Context",
+      "language": "en",
+      "source_path": "en_internal/2016/06/open-up-new%20perspectives-understand-different-context.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Science in Perspective"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Critical Thinking",
+        "Context The",
+        "D-GESS",
+        "Up New",
+        "En Internal",
+        "Understand Different",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Critical Thinking Initiative",
+        "Science in Perspective"
+      ],
+      "locations": [
+        "ETH Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Science in Perspective",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Critical Thinking Initiative"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1123
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich’s",
+        "Critical Thinking Initiative",
+        "2016",
+        "Science in Perspective"
+      ],
+      "semantic_concepts": [
+        "when",
+        "what",
+        "Science in Perspective"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "filename": "in-dieselautos-faehrt-ein-stueck-eth-mit.md",
+  "original_filename": "in-dieselautos-faehrt-ein-stueck-eth-mit.html",
+  "source_path": "de_news_events/2013/11/in-dieselautos-faehrt-ein-stueck-eth-mit.html",
+  "date": "2013-11",
+  "title": "In Dieselautos Faehrt Ein Stueck Eth Mit",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "«Diesel-PWs wurden salonfähig»",
+      "text": "In praktisch jedem Dieselmotor, der heute in Autos und Lastwagen, aber auch in Generatoren oder modernen Hochseeschiffen zum Einsatz kommt, steckt ein gutes Stück ETH-Forschung. Ingenieure in den Forschungslabors der Hochschule waren nämlich ab den 1970-er Jahren massgeblich an der Entwicklung eines damals revolutionären Systems zur Einspritzung des Treibstoffs in den Motor beteiligt: dem sogenannten Common-Rail-Einspritzsystem. Dieses ist mittlerweile zum Industriestandard geworden.\n\nVor zwanzig Jahren, am 9. November 1993, haben Wissenschaftler den ersten modernen strassentauglichen Personenwagen mit dieser Technik und einer sogenannt saugdrosselgeregelten Hochdruckpumpe an einer ETH-Tagung zum Abschluss eines Motoren-Feldversuchs vorgestellt. Neu am Motor war, dass sich die Dieseleinspritzung elektronisch präzise regeln liess. Neben elektronisch steuerbaren Einspritzdüsen war dazu auch ein Treibstoffdruckbehälter nötig. Dieser zieht sich in Form eines Rohrs – des sogenannten «Common Rails» – quer über den Motorblock und versorgt die Einspritzdüsen aller Zylinder mit Diesel. Bei den Vorgängermotoren war der Einspritzdüse jedes Zylinders ein eigenes Pumpenelement vorgelagert. Die Düsen öffneten sich bei ausreichend hohem Treibstoffdruck und wurden nicht elektronisch geöffnet."
+    },
+    {
+      "heading": "An der ETH entwickelte Hochdruckpumpe",
+      "text": "Blick unter die Motorhaube. Auf dem Bild sind das Common Rail (quer verlaufendes Rohr), vier elektronisch gesteuerte Einspritzdüsen (dahinter) und die Hochdruckpumpe (gelb, vorne) zu sehen. (Bild: ETH Zürich)\n\n«Die Common-Rail-Technik ermöglichte erstmals, die Dieseleinspritzung in mehrere Einspritzvorgänge aufzuteilen», erklärt Thomas Lutz. Der mittlerweile pensionierte Maschineningenieur war damals Projektleiter des Feldversuchs. Aus einem Einspritzvorgang wurden so Vor-, Haupt- und Nacheinspritzung. Heute gibt es sogar Motoren mit bis zu fünf nacheinander folgenden und präzise gesteuerten Einspritzvorgängen. Diese Aufteilung führt nicht nur zu einer vollständigeren Verbrennung des Treibstoffs, womit das Abgas russärmer wird, der Motor wurde auch leiser.\n\n«Der Diesel-PW-Bereich wurde dadurch revolutioniert. Zuvor waren Diesel-Autos laut und sie klopften. Dank der Common-Rail-Technik wurden sie salonfähig», sagt Lutz. Schliesslich ermöglichte die Technik eine effiziente Abgasrückführung, womit Stickoxide im Abgas reduziert werden konnten. «Und dies alles bei einem sehr wirtschaftlichen Treibstoffverbrauch», ergänzt Lutz.\n\nDie grosse Knacknuss des Projekts sei die Entwicklung einer effizienten und präzise regelbaren Hochdruckpumpe gewesen, um den Treibstoffdruck im Common Rail zu erzeugen, sagt Lutz. Bestehende Pumpen waren so konstruiert, dass sie absichtlich einen zu hohen Druck erzeugten und die Druckregelung über ein Ablassventil bewerkstelligten. «Das war ineffizient und fiel beim Treibstoffverbrauch ins Gewicht», sagt Lutz. Der damalige ETH-Doktorand Wolfgang Schneider konstruierte eine Pumpe mit einem regelbaren Einlassventil. Seine Pumpe erzeugte genau den gewünschten Druck. Dieses Ventil hat die ETH damals patentieren lassen.\n\nIm Vorführauto von 1993 haben die ETH-Ingenieure im Prinzip einen Serien-Dieselmotor zu einem Common-Rail-Motor umgebaut. 1994 kam das Projekt zu seinem planmässigen Ende. Nachdem die ETH eine brauchbare Pumpe entwickelt und die Praxistauglichkeit demonstriert habe, sei es an der Zeit gewesen, die Technik zur Entwicklung der Serienreife der Industrie zu übergeben, sagt Lutz. Dies ist auch geschehen. Und wenn heute auf den Hecks von Dieselautos Akronyme wie CDI, CDTI oder TDCi prangen – wobei das C für Common Rail steht –, dann fährt in jedem Wagen auch ein Stück ETH-Knowhow mit.\n\nDass diese Technik bald von einer komplett anderen abgelöst wird, erwartet Lutz nicht. Zwar gebe es mittlerweile auch Dieselmotoren, in denen nicht ein einziger Druckbehälter alle Zylinder mit Treibstoff versorgt, sondern jeder Zylinder einen eigenen Druckbehälter hat. «Das Prinzip, dass eine Pumpe einen je nach Last, Drehzahl oder auch Betriebstemperatur bestimmten, vorgewählten Druck erzeugt, dürfte aber bleiben.»\n\nDas Laboratorium für Aerothermochemie und Verbrennungssysteme (LAV) und Inspire, ein ETH-nahes Kompetenzzentrum für Technologietransfer, organisierten dieser Tage eine Fachtagung unter dem Titel «20 Jahre Common-Rail-Einspritzsystem ETH»."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Dieselautos",
+        "label": "LOC",
+        "start": 26,
+        "end": 37
+      },
+      {
+        "text": "ETH-Forschung",
+        "label": "MISC",
+        "start": 163,
+        "end": 176
+      },
+      {
+        "text": "Common-Rail-Einspritzsystem",
+        "label": "MISC",
+        "start": 404,
+        "end": 431
+      },
+      {
+        "text": "Hochdruckpumpe",
+        "label": "PER",
+        "start": 666,
+        "end": 680
+      },
+      {
+        "text": "ETH-Tagung",
+        "label": "ORG",
+        "start": 690,
+        "end": 700
+      },
+      {
+        "text": "Motoren-Feldversuchs",
+        "label": "MISC",
+        "start": 721,
+        "end": 741
+      },
+      {
+        "text": "Common Rails",
+        "label": "PER",
+        "start": 993,
+        "end": 1005
+      },
+      {
+        "text": "Diesel",
+        "label": "LOC",
+        "start": 1085,
+        "end": 1091
+      },
+      {
+        "text": "Common Rail",
+        "label": "LOC",
+        "start": 50,
+        "end": 61
+      },
+      {
+        "text": "Hochdruckpumpe",
+        "label": "PER",
+        "start": 151,
+        "end": 165
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 197,
+        "end": 207
+      },
+      {
+        "text": "Common-Rail-Technik",
+        "label": "MISC",
+        "start": 214,
+        "end": 233
+      },
+      {
+        "text": "Thomas Lutz",
+        "label": "PER",
+        "start": 330,
+        "end": 341
+      },
+      {
+        "text": "Diesel-PW-Bereich",
+        "label": "MISC",
+        "start": 771,
+        "end": 788
+      },
+      {
+        "text": "Diesel-Autos",
+        "label": "PER",
+        "start": 831,
+        "end": 843
+      },
+      {
+        "text": "Common-Rail-Technik",
+        "label": "MISC",
+        "start": 876,
+        "end": 895
+      },
+      {
+        "text": "Lutz",
+        "label": "LOC",
+        "start": 925,
+        "end": 929
+      },
+      {
+        "text": "Stickoxide",
+        "label": "PER",
+        "start": 1008,
+        "end": 1018
+      },
+      {
+        "text": "Lutz",
+        "label": "LOC",
+        "start": 1132,
+        "end": 1136
+      },
+      {
+        "text": "Treibstoffdruck",
+        "label": "LOC",
+        "start": 1264,
+        "end": 1279
+      },
+      {
+        "text": "Common Rail",
+        "label": "MISC",
+        "start": 1283,
+        "end": 1294
+      },
+      {
+        "text": "Lutz",
+        "label": "LOC",
+        "start": 1313,
+        "end": 1317
+      },
+      {
+        "text": "ETH-Doktorand",
+        "label": "ORG",
+        "start": 1566,
+        "end": 1579
+      },
+      {
+        "text": "Wolfgang Schneider",
+        "label": "PER",
+        "start": 1580,
+        "end": 1598
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1731,
+        "end": 1734
+      },
+      {
+        "text": "Vorführauto von 1993",
+        "label": "MISC",
+        "start": 1765,
+        "end": 1785
+      },
+      {
+        "text": "ETH-Ingenieure",
+        "label": "MISC",
+        "start": 1796,
+        "end": 1810
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1946,
+        "end": 1949
+      },
+      {
+        "text": "Lutz",
+        "label": "LOC",
+        "start": 2134,
+        "end": 2138
+      },
+      {
+        "text": "CDI",
+        "label": "ORG",
+        "start": 2223,
+        "end": 2226
+      },
+      {
+        "text": "CDTI",
+        "label": "ORG",
+        "start": 2228,
+        "end": 2232
+      },
+      {
+        "text": "TDCi",
+        "label": "ORG",
+        "start": 2238,
+        "end": 2242
+      },
+      {
+        "text": "Common Rail",
+        "label": "ORG",
+        "start": 2269,
+        "end": 2280
+      },
+      {
+        "text": "ETH-Knowhow",
+        "label": "MISC",
+        "start": 2331,
+        "end": 2342
+      },
+      {
+        "text": "Lutz",
+        "label": "PER",
+        "start": 2423,
+        "end": 2427
+      },
+      {
+        "text": "Last",
+        "label": "LOC",
+        "start": 2662,
+        "end": 2666
+      },
+      {
+        "text": "Drehzahl",
+        "label": "LOC",
+        "start": 2668,
+        "end": 2676
+      },
+      {
+        "text": "Laboratorium für Aerothermochemie und Verbrennungssysteme",
+        "label": "ORG",
+        "start": 2772,
+        "end": 2829
+      },
+      {
+        "text": "LAV",
+        "label": "MISC",
+        "start": 2831,
+        "end": 2834
+      },
+      {
+        "text": "Inspire",
+        "label": "MISC",
+        "start": 2840,
+        "end": 2847
+      },
+      {
+        "text": "ETH-nahes",
+        "label": "MISC",
+        "start": 2853,
+        "end": 2862
+      },
+      {
+        "text": "20 Jahre Common-Rail-Einspritzsystem ETH",
+        "label": "MISC",
+        "start": 2964,
+        "end": 3004
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Common Rails",
+        "De News",
+        "Diesel-Autos",
+        "Hochdruckpumpe",
+        "Lutz",
+        "Stickoxide",
+        "Thomas Lutz",
+        "Wolfgang Schneider"
+      ],
+      "ORG": [
+        "CDI",
+        "CDTI",
+        "Common Rail",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Doktorand",
+        "ETH-Tagung",
+        "Laboratorium für Aerothermochemie und Verbrennungssysteme",
+        "TDCi"
+      ],
+      "LOCATION": [
+        "Common Rail",
+        "Diesel",
+        "Dieselautos",
+        "Drehzahl",
+        "Last",
+        "Lutz",
+        "Treibstoffdruck"
+      ],
+      "DATE": [],
+      "MISC": [
+        "20 Jahre Common-Rail-Einspritzsystem ETH",
+        "Common Rail",
+        "Common-Rail-Einspritzsystem",
+        "Common-Rail-Technik",
+        "Diesel-PW-Bereich",
+        "ETH-Forschung",
+        "ETH-Ingenieure",
+        "ETH-Knowhow",
+        "ETH-nahes",
+        "Inspire",
+        "LAV",
+        "Motoren-Feldversuchs",
+        "Vorführauto von 1993"
+      ]
+    },
+    "entity_counts": {
+      "Lutz": 5,
+      "Common Rail": 3,
+      "Hochdruckpumpe": 2,
+      "Common-Rail-Technik": 2,
+      "ETH": 2,
+      "De News": 1,
+      "Dieselautos": 1,
+      "ETH-Forschung": 1,
+      "Common-Rail-Einspritzsystem": 1,
+      "ETH-Tagung": 1,
+      "Motoren-Feldversuchs": 1,
+      "Common Rails": 1,
+      "Diesel": 1,
+      "ETH Zürich": 1,
+      "Thomas Lutz": 1,
+      "Diesel-PW-Bereich": 1,
+      "Diesel-Autos": 1,
+      "Stickoxide": 1,
+      "Treibstoffdruck": 1,
+      "ETH-Doktorand": 1
+    },
+    "total_entities": 43,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "in-dieselautos-faehrt-ein-stueck-eth-mit.md",
+      "title": "De News Events/2013/11/in Dieselautos Faehrt ein Stueck Eth mit",
+      "language": "de",
+      "source_path": "de_news_events/2013/11/in-dieselautos-faehrt-ein-stueck-eth-mit.html"
+    },
+    "temporal": {
+      "publication_date": "2013-11",
+      "mentioned_years": [
+        "1970",
+        "1993",
+        "1994",
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Common Rails",
+        "De News",
+        "Diesel-Autos",
+        "Hochdruckpumpe",
+        "Lutz",
+        "Stickoxide",
+        "Thomas Lutz",
+        "Wolfgang Schneider"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "20 Jahre Common-Rail-Einspritzsystem ETH",
+        "Common Rail",
+        "Common-Rail-Einspritzsystem",
+        "Common-Rail-Technik",
+        "Diesel-PW-Bereich",
+        "ETH-Forschung",
+        "ETH-Ingenieure",
+        "ETH-Knowhow",
+        "ETH-nahes",
+        "Inspire",
+        "Motoren-Feldversuchs",
+        "Vorführauto von 1993"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Wolfgang Schneider",
+        "Rail-Einspritzsystem",
+        "Common-Rail",
+        "ETH-Knowhow",
+        "Thomas Lutz",
+        "ETH-Forschung",
+        "Das Laboratorium",
+        "Serien-Dieselmotor",
+        "Stueck Eth",
+        "ETH-Tagung",
+        "Die Common",
+        "Common Rail",
+        "Bestehende Pumpen",
+        "Common Rails",
+        "Dieses Ventil",
+        "Seine Pumpe",
+        "ETH-Doktorand",
+        "Diesel-Autos",
+        "Der Diesel",
+        "ETH-Ingenieure",
+        "Dieselautos Akronyme",
+        "Das Prinzip",
+        "Rail-Technik",
+        "Diese Aufteilung",
+        "PW-Bereich",
+        "De News",
+        "Motoren-Feldversuchs",
+        "Dieselautos Faehrt",
+        "Jahre Common"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CDI",
+        "CDTI",
+        "Common Rail",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Doktorand",
+        "ETH-Tagung",
+        "Laboratorium für Aerothermochemie und Verbrennungssysteme",
+        "TDCi"
+      ],
+      "locations": [
+        "Common Rail",
+        "Diesel",
+        "Dieselautos",
+        "Drehzahl",
+        "Last",
+        "Lutz",
+        "Treibstoffdruck"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "how"
+      ],
+      "key_concepts": [
+        "Lutz",
+        "Common Rail",
+        "Hochdruckpumpe",
+        "Common-Rail-Technik",
+        "ETH",
+        "De News",
+        "Dieselautos",
+        "ETH-Forschung",
+        "Common-Rail-Einspritzsystem",
+        "ETH-Tagung"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "«Diesel-PWs wurden salonfähig»",
+          "An der ETH entwickelte Hochdruckpumpe"
+        ],
+        "content_length": 4374
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "TDCi",
+        "Wolfgang Schneider",
+        "Hochdruckpumpe",
+        "Thomas Lutz",
+        "1993",
+        "CDTI",
+        "ETH Zürich",
+        "ETH-Tagung",
+        "Stickoxide",
+        "EU",
+        "1970",
+        "CDI",
+        "Lutz",
+        "Common Rail",
+        "Common Rails",
+        "ETH-Doktorand",
+        "Diesel-Autos",
+        "2013",
+        "1994",
+        "Laboratorium für Aerothermochemie und Verbrennungssysteme",
+        "De News"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Common-Rail-Technik",
+        "ETH-Knowhow",
+        "Inspire",
+        "ETH-Ingenieure",
+        "Common-Rail-Einspritzsystem",
+        "who",
+        "Diesel-PW-Bereich",
+        "Vorführauto von 1993",
+        "Common Rail",
+        "ETH-Forschung",
+        "Motoren-Feldversuchs",
+        "how",
+        "20 Jahre Common-Rail-Einspritzsystem ETH",
+        "ETH-nahes"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

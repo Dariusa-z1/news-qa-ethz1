@@ -1,0 +1,190 @@
+{
+  "filename": "podcast-climate-change.md",
+  "original_filename": "podcast-climate-change.html",
+  "source_path": "en_news_events/2021/01/podcast-climate-change.html",
+  "date": "2021-01",
+  "title": "Podcast Climate Change",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The threat of climate change is similar to the corona pandemic. Covid-​19 and climate evoke uncertainty on many levels and are both global problems that affect every single one of us. In the second episode of our uncertainty series, we talk to the renowned ETH professors Reto Knutti and Tony Patt and student and climate activist Annabelle Ehmann. In this episode of the ETH podcast, everyone reveals how he or she deals with uncertainty in climate change."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 191,
+        "end": 197
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 257,
+        "end": 260
+      },
+      {
+        "text": "Reto Knutti",
+        "label": "PERSON",
+        "start": 272,
+        "end": 283
+      },
+      {
+        "text": "Tony Patt",
+        "label": "PERSON",
+        "start": 288,
+        "end": 297
+      },
+      {
+        "text": "Annabelle Ehmann",
+        "label": "PERSON",
+        "start": 331,
+        "end": 347
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 372,
+        "end": 375
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Annabelle Ehmann",
+        "Reto Knutti",
+        "Tony Patt"
+      ],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "second": 1,
+      "Reto Knutti": 1,
+      "Tony Patt": 1,
+      "Annabelle Ehmann": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-climate-change.md",
+      "title": "En News Events/2021/01/podcast Climate Change",
+      "language": "en",
+      "source_path": "en_news_events/2021/01/podcast-climate-change.html"
+    },
+    "temporal": {
+      "publication_date": "2021-01",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Annabelle Ehmann",
+        "Reto Knutti",
+        "Tony Patt"
+      ],
+      "people_with_roles": {
+        "Annabelle Ehmann": [
+          "student",
+          "professor"
+        ],
+        "Reto Knutti": [
+          "student",
+          "professor"
+        ],
+        "Tony Patt": [
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology"
+      ],
+      "research_topics": [
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Climate Change",
+        "En News",
+        "Reto Knutti",
+        "Annabelle Ehmann",
+        "Tony Patt"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "second",
+        "Reto Knutti",
+        "Tony Patt",
+        "Annabelle Ehmann"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 503
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Reto Knutti",
+        "Annabelle Ehmann",
+        "2021",
+        "Tony Patt"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "how",
+        "second",
+        "climate_change"
+      ],
+      "graph_relations": [
+        "Annabelle Ehmann_has_role_student",
+        "Annabelle Ehmann_has_role_professor",
+        "Reto Knutti_has_role_student",
+        "Reto Knutti_has_role_professor",
+        "Tony Patt_has_role_student",
+        "Tony Patt_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "filename": "studierende-nutzen-sprachmodelle-vor-allem-zum-programmieren.md",
+  "original_filename": "studierende-nutzen-sprachmodelle-vor-allem-zum-programmieren.html",
+  "source_path": "de_internal/2024/01/studierende-nutzen-sprachmodelle-vor-allem-zum-programmieren.html",
+  "date": "2024-01",
+  "title": "Studierende Nutzen Sprachmodelle Vor Allem Zum Programmieren",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Nur selten in Kursen, aber oft zum Lernen verwendet",
+      "text": "Neue KI-Tools, insbesondere Sprachmodelle wie ChatGPT, werden von ETH-Studierenden rege genutzt. Am liebsten als Unterstützung bei Programmieraufgaben. Dies zeigt eine Umfrage, welche die Abteilung Lehrentwicklung und –technologie (LET) zusammen mit dem Seminar für Statistik des Departements Mathematik durchgeführt hat. Rund 4800 oder rund ein Drittel aller Studierenden antworteten auf die Fragen, die ihnen im September 2023 gestellt wurden."
+    },
+    {
+      "heading": "Nur selten in Kursen, aber oft zum Lernen verwendet",
+      "text": "In den Lernveranstaltungen begegneten Studierende den neuen Sprachmodellen nur selten. Lediglich 17 Prozent gaben an, in einer Lehrveranstaltung bereits einmal mit einem Tool wie ChatGPT in Berührung gekommen zu sein.\n\nBeim selbständigen Lernen hingegen kommen die Tools rege zum Einsatz. Am meisten gaben Studierende an, dass sie Sprachmodelle beim Programmieren nutzen, etwa um sich Programme in den Sprachen Python und R schreiben oder erklären zu lassen. Viele nutzen die Tools auch als Hilfe für die Textformatierung im Textverarbeitungsprogramm LaTeX. Am zweithäufigsten erwähnten Studierende, dass sie Sprachmodellen nutzen, um Texte zu redigieren, den Textstil anzupassen oder um sie zu korrigieren."
+    },
+    {
+      "heading": "Schlecht im Rechnen",
+      "text": "Viele Studierende nutzen Sprachmodelle auch zur Prüfungsvorbereitung, wobei sie sich der Grenzen der Systeme sehr wohl bewusst sind. Besonders in der Mathematik, aber auch in technischen und naturwissenschaftlichen Spezialthemen neigen die Systeme oft zum Halluzinieren, sie erfinden also gewisse Dinge.\n\nStudierende berichten, dass sie häufig im Dialog mit den Sprachmodellen sind, um Einstiege in Themen zu finden oder um sich herausfordern zu lassen, etwa indem sie die Fehler in überzeugend klingenden Antworten suchen. Manche Studierende gaben auch an, sich von ChatGPT anhand von Vorlesungsskripts Übungsaufgaben oder Lernkarten erstellen zu lassen."
+    },
+    {
+      "heading": "Wunsch nach Custom-Sprachmodell",
+      "text": "In den vielen Freitextantworten wurde auch der Ruf laut, die ETH solle ihren Studierenden ein verlässlicheres Tool zur Seite stellen, basierend auf den Materialien und Lerninhalten der ETH. Das Rektorat und das AI-Center prüfen aktuell, ob und wie ein benutzerdefiniertes Sprachmodell mit Unterrichtsmaterialien trainiert werden könnte.\n\nIn Ergänzung läuft aktuell auch eine Umfrage bei Dozierenden zu ihrem Umgang mit und dem Nutzen von KI-Tools in der Lehre."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2024/01/studierende Nutzen",
+        "label": "LOC",
+        "start": 0,
+        "end": 38
+      },
+      {
+        "text": "KI-Tools",
+        "label": "ORG",
+        "start": 5,
+        "end": 13
+      },
+      {
+        "text": "ChatGPT",
+        "label": "MISC",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "text": "ETH-Studierenden",
+        "label": "ORG",
+        "start": 66,
+        "end": 82
+      },
+      {
+        "text": "Programmieraufgaben",
+        "label": "MISC",
+        "start": 131,
+        "end": 150
+      },
+      {
+        "text": "LET",
+        "label": "ORG",
+        "start": 232,
+        "end": 235
+      },
+      {
+        "text": "Departements",
+        "label": "MISC",
+        "start": 280,
+        "end": 292
+      },
+      {
+        "text": "ChatGPT",
+        "label": "MISC",
+        "start": 179,
+        "end": 186
+      },
+      {
+        "text": "Python",
+        "label": "MISC",
+        "start": 410,
+        "end": 416
+      },
+      {
+        "text": "Textverarbeitungsprogramm LaTeX.",
+        "label": "ORG",
+        "start": 524,
+        "end": 556
+      },
+      {
+        "text": "ChatGPT",
+        "label": "MISC",
+        "start": 566,
+        "end": 573
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 61,
+        "end": 64
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 185,
+        "end": 188
+      },
+      {
+        "text": "KI-Tools",
+        "label": "ORG",
+        "start": 437,
+        "end": 445
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "ETH-Studierenden",
+        "KI-Tools",
+        "LET",
+        "Textverarbeitungsprogramm LaTeX."
+      ],
+      "LOCATION": [
+        "De Internal/2024/01/studierende Nutzen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ChatGPT",
+        "Departements",
+        "Programmieraufgaben",
+        "Python"
+      ]
+    },
+    "entity_counts": {
+      "ChatGPT": 3,
+      "KI-Tools": 2,
+      "ETH": 2,
+      "De Internal/2024/01/studierende Nutzen": 1,
+      "ETH-Studierenden": 1,
+      "Programmieraufgaben": 1,
+      "LET": 1,
+      "Departements": 1,
+      "Python": 1,
+      "Textverarbeitungsprogramm LaTeX.": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "studierende-nutzen-sprachmodelle-vor-allem-zum-programmieren.md",
+      "title": "De Internal/2024/01/studierende Nutzen Sprachmodelle Vor Allem Zum Programmieren",
+      "language": "de",
+      "source_path": "de_internal/2024/01/studierende-nutzen-sprachmodelle-vor-allem-zum-programmieren.html"
+    },
+    "temporal": {
+      "publication_date": "2024-01",
+      "mentioned_years": [
+        "2023",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ChatGPT",
+        "Departements",
+        "Programmieraufgaben",
+        "Python"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "AI-Center",
+        "Nutzen Sprachmodelle",
+        "Departements Mathematik",
+        "Neue KI",
+        "De Internal",
+        "Viele Studierende",
+        "Manche Studierende",
+        "ETH-Studierenden",
+        "KI-Tools",
+        "Zum Programmieren",
+        "Sprachen Python",
+        "Vor Allem",
+        "Abteilung Lehrentwicklung",
+        "Textverarbeitungsprogramm LaTeX",
+        "Das Rektorat"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH-Studierenden",
+        "KI-Tools",
+        "LET",
+        "Textverarbeitungsprogramm LaTeX."
+      ],
+      "locations": [
+        "De Internal/2024/01/studierende Nutzen"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ChatGPT",
+        "KI-Tools",
+        "ETH",
+        "De Internal/2024/01/studierende Nutzen",
+        "ETH-Studierenden",
+        "Programmieraufgaben",
+        "LET",
+        "Departements",
+        "Python",
+        "Textverarbeitungsprogramm LaTeX."
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Nur selten in Kursen, aber oft zum Lernen verwendet",
+          "Nur selten in Kursen, aber oft zum Lernen verwendet",
+          "Schlecht im Rechnen",
+          "Wunsch nach Custom-Sprachmodell"
+        ],
+        "content_length": 2351
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "ETH",
+        "EU",
+        "LET",
+        "KI-Tools",
+        "ETH-Studierenden",
+        "Textverarbeitungsprogramm LaTeX.",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Programmieraufgaben",
+        "Departements",
+        "ChatGPT",
+        "Python"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

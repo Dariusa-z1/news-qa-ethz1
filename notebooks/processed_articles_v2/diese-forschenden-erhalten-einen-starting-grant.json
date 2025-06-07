@@ -1,0 +1,238 @@
+{
+  "filename": "diese-forschenden-erhalten-einen-starting-grant.md",
+  "original_filename": "diese-forschenden-erhalten-einen-starting-grant.html",
+  "source_path": "de_news_events/2022/11/diese-forschenden-erhalten-einen-starting-grant.html",
+  "date": "2022-11",
+  "title": "Diese Forschenden Erhalten Einen Starting Grant",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der Schweizerische Nationalfonds (SNF) hat neun «SNF Starting Grants» an Forschende vergeben, die planen, ihre Projekte ab dem kommenden Jahr an der ETH Zürich durchzuführen. Insgesamt fliessen damit voraussichtlich 15,8 Millionen Franken an die ETH Zürich.\n\nBei den SNF Starting Grants handelt es sich um eine Schweizer Übergangsmassnahme. Der Nationalfonds vergibt diese im Auftrag des Bundes, weil Forschende an Schweizer Hochschulen derzeit von den Starting Grants des Europäischen Forschungsrats ERC ausgeschlossen sind. Die Starting Grants haben zum Ziel, vielversprechende Talente am Anfang einer wissenschaftlichen Karriere zu fördern. Die finanzielle Unterstützung von maximal 1,8 Millionen Franken pro Projekt über eine Laufzeit von fünf Jahren ermöglicht die Leitung des Projekts und eines eigenen Forschungsteams.\n\nDiese Forschenden haben einen SNF Starting Grant 2022 erhalten:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Schweizerische Nationalfonds",
+        "label": "ORG",
+        "start": 4,
+        "end": 32
+      },
+      {
+        "text": "SNF",
+        "label": "ORG",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "SNF Starting Grants",
+        "label": "ORG",
+        "start": 49,
+        "end": 68
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 149,
+        "end": 159
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 246,
+        "end": 256
+      },
+      {
+        "text": "SNF Starting Grants",
+        "label": "ORG",
+        "start": 266,
+        "end": 285
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 310,
+        "end": 319
+      },
+      {
+        "text": "Nationalfonds",
+        "label": "ORG",
+        "start": 344,
+        "end": 357
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 414,
+        "end": 423
+      },
+      {
+        "text": "Starting Grants des Europäischen Forschungsrats ERC",
+        "label": "ORG",
+        "start": 452,
+        "end": 503
+      },
+      {
+        "text": "Starting Grants",
+        "label": "ORG",
+        "start": 529,
+        "end": 544
+      },
+      {
+        "text": "Talente",
+        "label": "PER",
+        "start": 579,
+        "end": 586
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Talente"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Nationalfonds",
+        "SNF",
+        "SNF Starting Grants",
+        "Schweizerische Nationalfonds",
+        "Starting Grants",
+        "Starting Grants des Europäischen Forschungsrats ERC"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "SNF Starting Grants": 2,
+      "ETH Zürich": 2,
+      "Schweizer": 2,
+      "De News": 1,
+      "Schweizerische Nationalfonds": 1,
+      "SNF": 1,
+      "Nationalfonds": 1,
+      "Starting Grants des Europäischen Forschungsrats ERC": 1,
+      "Starting Grants": 1,
+      "Talente": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "diese-forschenden-erhalten-einen-starting-grant.md",
+      "title": "De News Events/2022/11/diese Forschenden Erhalten Einen Starting Grant",
+      "language": "de",
+      "source_path": "de_news_events/2022/11/diese-forschenden-erhalten-einen-starting-grant.html"
+    },
+    "temporal": {
+      "publication_date": "2022-11",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Talente"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Schweizer"
+      ],
+      "grants_funding": [
+        "ERC",
+        "SNF",
+        "EU",
+        "grant"
+      ],
+      "projects": [
+        "Schweizer Hochschulen",
+        "Der Nationalfonds",
+        "SNF Starting",
+        "Forschenden Erhalten",
+        "Schweizerische Nationalfonds",
+        "De News",
+        "Millionen Franken",
+        "Die Starting",
+        "Forschungsrats ERC",
+        "Diese Forschenden",
+        "Einen Starting",
+        "Starting Grants",
+        "Grant Der"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Nationalfonds",
+        "SNF",
+        "SNF Starting Grants",
+        "Schweizerische Nationalfonds",
+        "Starting Grants",
+        "Starting Grants des Europäischen Forschungsrats ERC"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "SNF Starting Grants",
+        "ETH Zürich",
+        "Schweizer",
+        "De News",
+        "Schweizerische Nationalfonds",
+        "SNF",
+        "Nationalfonds",
+        "Starting Grants des Europäischen Forschungsrats ERC",
+        "Starting Grants",
+        "Talente"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 961
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Talente",
+        "grant",
+        "SNF",
+        "EU",
+        "Starting Grants",
+        "ETH Zürich",
+        "Schweizerische Nationalfonds",
+        "De News",
+        "SNF Starting Grants",
+        "Starting Grants des Europäischen Forschungsrats ERC",
+        "2022",
+        "ERC",
+        "Nationalfonds"
+      ],
+      "semantic_concepts": [
+        "Schweizer"
+      ],
+      "graph_relations": []
+    }
+  }
+}

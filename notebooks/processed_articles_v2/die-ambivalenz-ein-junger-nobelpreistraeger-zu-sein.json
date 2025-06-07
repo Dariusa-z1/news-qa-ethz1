@@ -1,0 +1,149 @@
+{
+  "filename": "die-ambivalenz-ein-junger-nobelpreistraeger-zu-sein.md",
+  "original_filename": "die-ambivalenz-ein-junger-nobelpreistraeger-zu-sein.html",
+  "source_path": "de_news_events/2021/07/die-ambivalenz-ein-junger-nobelpreistraeger-zu-sein.html",
+  "date": "2021-07",
+  "title": "Die Ambivalenz Ein Junger Nobelpreistraeger Zu Sein",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Didier Queloz ist ein sehr leidenschaftlicher Mensch mit einem breiten Sinn für Humor. Anstatt Geschichtenerzähler zu werden, entschied er sich, Astrophysiker zu werden. Während er an seiner Promotion arbeitete, machte er eine Entdeckung, die die Astronomie völlig veränderte. Für diese Entdeckung erhielt Didier Queloz zusammen mit seinem Professor Michel Mayor den Physik-Nobelpreis."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Didier Queloz",
+        "label": "PER",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Didier Queloz",
+        "label": "PER",
+        "start": 306,
+        "end": 319
+      },
+      {
+        "text": "Michel Mayor",
+        "label": "PER",
+        "start": 350,
+        "end": 362
+      },
+      {
+        "text": "Physik-Nobelpreis",
+        "label": "MISC",
+        "start": 367,
+        "end": 384
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Didier Queloz",
+        "Michel Mayor"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "Physik-Nobelpreis"
+      ]
+    },
+    "entity_counts": {
+      "Didier Queloz": 2,
+      "Michel Mayor": 1,
+      "Physik-Nobelpreis": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "die-ambivalenz-ein-junger-nobelpreistraeger-zu-sein.md",
+      "title": "De News Events/2021/07/die Ambivalenz ein Junger Nobelpreistraeger zu Sein",
+      "language": "de",
+      "source_path": "de_news_events/2021/07/die-ambivalenz-ein-junger-nobelpreistraeger-zu-sein.html"
+    },
+    "temporal": {
+      "publication_date": "2021-07",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Didier Queloz",
+        "Michel Mayor"
+      ],
+      "people_with_roles": {
+        "Didier Queloz": [
+          "professor"
+        ],
+        "Michel Mayor": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Physik-Nobelpreis"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Professor Michel",
+        "Sein Didier",
+        "Physik-Nobelpreis",
+        "Junger Nobelpreistraeger",
+        "De News",
+        "Didier Queloz"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Didier Queloz",
+        "Michel Mayor",
+        "Physik-Nobelpreis"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 460
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2021",
+        "Didier Queloz",
+        "Michel Mayor"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Physik-Nobelpreis"
+      ],
+      "graph_relations": [
+        "Didier Queloz_has_role_professor",
+        "Michel Mayor_has_role_Professor",
+        "Michel Mayor_has_role_professor"
+      ]
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "filename": "tiips-for-working-from-home.md",
+  "original_filename": "tiips-for-working-from-home.html",
+  "source_path": "en_internal/2020/03/tiips-for-working-from-home.html",
+  "date": "2020-03",
+  "title": "Tiips For Working From Home",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "How can I provide structure to my day?",
+      "text": "- Start your working day with purpose and stick to the same morning routine as much as possible. Get dressed as if you were going to the office as usual.\n\n- Set priorities and work with a clear to-do list.\n\n- Take breaks away from your desk.\n\n- Clarify expectations of working time and availability within your team. If there are children in your household, you will have to take them into consideration in order to be able to work quietly. Discuss this with your team.\n\n- Don’t work too long. Make an effort to shut down your computer and enjoy your evening. Wind down your day by organising your desk or updating your to-do list for the next day.\n\n- Talk with them and establish a clear daily structure of tasks, from doing schoolwork to going shopping.\n\n- Clearly communicate your working time to your family, for instance by closing the door to your home office or putting up a “do not disturb” sign.\n\n- When you are not working, spend quality time with your children, free of distractions.\n\n- Do not expect too much of your children and give them time to experiment. You can ask them, for example, “What went well today and why?”\n\n- Their needs will be very different depending on their age and the family’s general situation. Reach out to neighbours, parents or other groups where appropriate.\n\n- Make use of the time you would normally spend commuting. Make a conscious effort to plan in physical activity – at least as much as you would get on a normal working day.\n\n- What about joining someone for a walk? Just be sure to always follow the external pageFederal Office of Public Health’scall\\_made behavioural and hygiene recommendations.\n\n- It’s also possible to exercise indoors. The internet is full of videos of workouts that you can do at home.\n\n- You may feel strongly tempted to snack while working from home. Be sure to stick to your normal mealtimes and to drink enough water.\n\n- Try reading light-hearted, entertaining news as well.\n\n- Of course, it is important to stay informed, but it is enough to read/watch the news once or twice per day. Constantly exposing yourself to negative information will impact your mood.\n\n- Maintain social contact via video chats.\n\n- Offer help to others and accept help if you need it.\n\n- Use the (digital) communication tools available to you to stay in touch within the team. Make sure you see each other over video chat every once in a while, for example at the beginning of a meeting.\n\n- When working together virtually, it is even more important for everyone to have clearly defined tasks. Discuss with your team and your supervisor. It is helpful to put decisions and agreements into writing.\n\n- Motivate each other with feedback and appreciative words. Find ways to keep feedback culture alive and well. Boost commitment levels by letting your colleagues know what you’re currently working on: it’s not so obvious now that remote working is the norm.\n\n- Communication is non-verbal, too, but much of this is lost over chat and email. For more emotionally charged topics, it is better to just pick up the phone. Use irony and sarcasm with restraint in virtual meetings in order to prevent misunderstandings.\n\n- Continue to use breaks for socialising. Why not schedule a virtual break together with your team? Just dial in at the same time and spend 15 minutes talking about something apart from work. It’s no longer possible to spontaneously socialise when working from home, but it can strengthen the bond among team members.\n\nStructure helps in times of chaos. It provides a sense of security and is a source of strength in stressful situations."
+    },
+    {
+      "heading": "How do I tell my children that I need to work?",
+      "text": "Children require more affection and attention in exceptional situations."
+    },
+    {
+      "heading": "How can I stay healthy?",
+      "text": "Getting in touch with your physical and mental resources can provide you with strength, especially if the crisis continues."
+    },
+    {
+      "heading": "How can I stay in touch with my colleagues?",
+      "text": "Staying connected with your team provides stability."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Working From Home",
+        "label": "ORG",
+        "start": 30,
+        "end": 47
+      },
+      {
+        "text": "working day",
+        "label": "DATE",
+        "start": 13,
+        "end": 24
+      },
+      {
+        "text": "evening",
+        "label": "TIME",
+        "start": 547,
+        "end": 554
+      },
+      {
+        "text": "the next day",
+        "label": "DATE",
+        "start": 631,
+        "end": 643
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 684,
+        "end": 689
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1111,
+        "end": 1116
+      },
+      {
+        "text": "a normal working day",
+        "label": "DATE",
+        "start": 1442,
+        "end": 1462
+      },
+      {
+        "text": "Office of Public Health’scall\\_made",
+        "label": "ORG",
+        "start": 1560,
+        "end": 1595
+      },
+      {
+        "text": "15 minutes",
+        "label": "TIME",
+        "start": 3286,
+        "end": 3296
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Office of Public Health’scall\\_made",
+        "Working From Home"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "15 minutes",
+        "a normal working day",
+        "daily",
+        "evening",
+        "the next day",
+        "today",
+        "working day"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Working From Home": 1,
+      "working day": 1,
+      "evening": 1,
+      "the next day": 1,
+      "daily": 1,
+      "today": 1,
+      "a normal working day": 1,
+      "Office of Public Health’scall\\_made": 1,
+      "15 minutes": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "tiips-for-working-from-home.md",
+      "title": "En Internal/2020/03/tiips For Working From Home",
+      "language": "en",
+      "source_path": "en_internal/2020/03/tiips-for-working-from-home.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "From Home",
+        "Public Health",
+        "For Working",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Office of Public Health’scall\\_made",
+        "Working From Home"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "Working From Home",
+        "working day",
+        "evening",
+        "the next day",
+        "daily",
+        "today",
+        "a normal working day",
+        "Office of Public Health’scall\\_made",
+        "15 minutes"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "How can I provide structure to my day?",
+          "How do I tell my children that I need to work?",
+          "How can I stay healthy?",
+          "How can I stay in touch with my colleagues?"
+        ],
+        "content_length": 3904
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2020",
+        "Office of Public Health’scall\\_made",
+        "Working From Home",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "medical_research",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,671 @@
+{
+  "filename": "gordon-bell-luisier-hoefler.md",
+  "original_filename": "gordon-bell-luisier-hoefler.html",
+  "source_path": "de_news_events/2019/11/gordon-bell-luisier-hoefler.html",
+  "date": "2019-11",
+  "title": "Gordon Bell Luisier Hoefler",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "ETH-Team erhielt Gordon Bell Preis",
+      "text": "Chip-Hersteller verbauen Transistoren, die nur wenige Nanometer klein sind. Ihr Durchmesser beträgt nicht einmal ein Tausendstel eines menschlichen Haares, der bei feinem Haar etwa 20'000 Nanometer misst. Der Bedarf an immer leistungsfähigeren Hochleistungsrechnern treibt die Industrie an, noch kleinere und zugleich leistungsstärkere Bauteile zu entwickeln."
+    },
+    {
+      "heading": "ETH-Team erhielt Gordon Bell Preis",
+      "text": "Neben physikalischen Gesetzmässigkeiten, die den Bau der winzigen Transistoren erschwert, weist das Problem der steigenden Selbsterhitzung die Hersteller jedoch zunehmend in ihre Schranken - unter anderem auch, weil der Kühlbedarf und infolgedessen der Energiebedarf enorm ansteigen. In einigen Rechenzentren mache die Kühlung der Rechner schon bis zu 40 Prozent des Strombedarfes aus, schreiben die Forschungsgruppen der ETH-Professoren Torsten Hoefler und Mathieu Luisier einer aktuellen Studie, mit der sie einen Verbesserungsansatz liefern wollen. Mit ihrer Studie wurden die Forscher gestern mit dem prestigeträchtigen ACM Gordon Bell Prize geehrt, dem wichtigsten Preis im Bereich des Hochleistungsrechnen, der alljährlich auf der Supercomputing-Tagung (SC) in den USA vergeben wird.\n\nUm heutige Nano-Transistoren effizienter zu machen, simuliert die Forschungsgruppe von Luisier vom Institut für Integrierte Systeme (IIS) der ETH Zürich Transistoren mit Hilfe der Software «OMEN», einem sogenannten Quantentransportsimulator.\n\nOMEN ermöglicht eine realitätsnahe atomare Auflösung des Transistors auf quantenmechanischer Ebene. Die Simulation macht sichtbar, wie der elektrische Strom durch den Nanotransistor fliesst und die Elektronen mit Kristallschwingungen wechselwirken. Die Forscher können darüber die Stellen, wo Hitze produziert wird, identifizieren. Die Simulation gibt somit wertvolle Hinweise auf Verbesserungsmöglichkeiten.\n\nMit herkömmlichen Programmiermethoden und Supercomputern war es bis anhin nur möglich, die Erhitzung von Transistoren aus rund 1000 Atomen zu simulieren, da die Datenkommunikation zwischen den Prozessoren und Speicheranforderungen eine realistische Simulation grösserer Objekte verunmöglichten.\n\nDie meisten Computerprogramme verwenden einen Grossteil der Zeit damit, Daten zwischen Prozessoren, Hauptspeicher und externen Schnittstellen zu bewegen. In nur einem geringen Teil der Zeit rechnen sie. Auch in OMEN gab es laut den Wissenschaftlern einen ausgeprägten, die Leistung schmälernden Flaschenhals in der Kommunikation. «Die Software wird heute in der Halbleiterindustrie benutzt, hat aber ein grosses Verbesserungspotential bei den numerischen Algorithmen und der Parallelisierung», sagt Luisier."
+    },
+    {
+      "heading": "Optimierte Simulation verbessert Transistoren",
+      "text": "Bisher sei die Parallelisierung von OMEN nach der Physik des elektrothermischen Problems konzipiert worden, erklärt er. Nun schauten sich der Doktorand Alexandros Ziogas und der Postdoc Tal Ben-Nun unter Leitung von Torsten Hoefler, der das Scalable Parallel Computing Laboratory der ETH Zürich leitet, nicht die Physik, sondern die Abhängigkeiten zwischen den Daten an.\n\nSie reorganisierten die Rechenoperationen entsprechend dieser Abhängigkeiten, quasi ohne die Physik zu berücksichtigen. Bei der Optimierung des Codes hatten die Forscher Unterstützung von zwei der leistungsstärksten Supercomputern der Welt, von «Piz Daint» vom Nationalen Hochleistungsrechenzentrum der Schweiz (CSCS) und «Summit» vom Oak Ridge National Laboratory in den USA. Laut den Forschern führt der optimierte Code zu gleich präzisen Ergebnissen in der Simulation wie die ursprüngliche Software OMEN.\n\nMit dem neuen Code namens DaCe-OMEN sei es erstmals möglich, auf derselben Anzahl Prozessoren zehn Mal grössere Transistoren, bestehend aus 10'000 Atomen, realitätsnah zu simulieren – und das bis zu vierzehn Mal schneller als die ursprüngliche Methode für 1000 Atome brauchte. Insgesamt ist DaCe-OMEN um zwei Grössenordnungen effizienter als OMEN: Auf «Summit» konnte unter anderem ein realistischer Transistor bei einer kontinuierlichen Rechnerleistung (sustained performance) von 85,45 Petaflop pro Sekunde bis zu 140 Mal schneller berechnet werden. Dies auf 4'560 Rechnerknoten in doppelter Genauigkeit (double precision). Diese extreme Beschleunigung des Rechenvorgangs brachte den Forschern den externe Seite Gordon Bell Prize ein."
+    },
+    {
+      "heading": "Datenzentrierte Programmierung",
+      "text": "Die Optimierung erreichten die Wissenschaftler, indem sie Prinzipien der datenzentrischen parallelen Programmierung nutzten, die Hoeflers Forschungsgruppe entwickelte. Ziel ist, den Datentransport und somit die Kommunikation zwischen den Prozessoren so klein wie möglich zu halten. «Mit dieser Art von Programmierung können wir auf verschiedenen Ebenen eines Programms sehr genau feststellen, wo diese Kommunikation verbessert werden kann», sagt Ben-Nun. «Aber auch wie wir spezifische rechenintensive Abschnitte, sogenannte Computational Kernels, innerhalb der Berechnung eines einzelnen Zustands abstimmen können». Diese mehrstufige Sichtweise ermögliche es, eine Anwendung auf allen Ebenen zu optimieren, ohne diese jedes Mal neu schreiben zu müssen.\n\nDie Datenbewegung wird dabei optimiert, ohne die ursprüngliche Berechnung zu verändern – und das für jede beliebige Computerarchitektur. «Wenn wir den Code für die Zielarchitektur optimieren, ändern wir diesen nur in der Ansicht des Performance-Ingenieurs, und nicht mehr in der des Programmierers, also des Forschers, der das wissenschaftliche Problem im Code formuliert», sagt Hoefler. Dadurch etabliere sich eine einfache Schnittstelle zwischen Informatikern und interdisziplinären Programmierern.\n\nDie Anwendung von DaCe-OMEN zeigte, dass die grösste Hitze nahe am Kanalende eines Nanotransistor entsteht, wie sie sich von dort ausbreitet und auf das gesamte System wirkt. Die Wissenschaftler sind überzeugt, dass sie das neue Verfahren zur Simulation solcher elektronischen Komponenten vielseitig anwenden können, beispielsweise auch beim Bau von Lithiumbatterien, deren Überhitzung für unliebsame Überraschungen sorgen kann.\n\nDieser Text von Simone Ulmer erschien in Englisch auf der Website des externe Seite CSCS .\n\nZiogas AN, Ben-Nun T, Fernández GI, Schneider T, Luisier M & Hoefler T: A Data-Centric Approach to Extreme-Scale Ab initio Dissipative Quantum Transport Simulations, Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC19), November 2019."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Bell Luisier Hoefler",
+        "label": "PER",
+        "start": 30,
+        "end": 50
+      },
+      {
+        "text": "Energiebedarf",
+        "label": "LOC",
+        "start": 253,
+        "end": 266
+      },
+      {
+        "text": "Strombedarfes",
+        "label": "LOC",
+        "start": 367,
+        "end": 380
+      },
+      {
+        "text": "ETH-Professoren",
+        "label": "ORG",
+        "start": 422,
+        "end": 437
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PER",
+        "start": 438,
+        "end": 453
+      },
+      {
+        "text": "Mathieu Luisier",
+        "label": "PER",
+        "start": 458,
+        "end": 473
+      },
+      {
+        "text": "ACM Gordon Bell Prize",
+        "label": "MISC",
+        "start": 624,
+        "end": 645
+      },
+      {
+        "text": "Supercomputing-Tagung",
+        "label": "MISC",
+        "start": 737,
+        "end": 758
+      },
+      {
+        "text": "den USA",
+        "label": "LOC",
+        "start": 767,
+        "end": 774
+      },
+      {
+        "text": "Luisier",
+        "label": "LOC",
+        "start": 877,
+        "end": 884
+      },
+      {
+        "text": "Institut für Integrierte Systeme",
+        "label": "ORG",
+        "start": 889,
+        "end": 921
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 932,
+        "end": 942
+      },
+      {
+        "text": "OMEN",
+        "label": "ORG",
+        "start": 980,
+        "end": 984
+      },
+      {
+        "text": "OMEN",
+        "label": "ORG",
+        "start": 1032,
+        "end": 1036
+      },
+      {
+        "text": "Hitze",
+        "label": "PER",
+        "start": 1325,
+        "end": 1330
+      },
+      {
+        "text": "Programmiermethoden",
+        "label": "LOC",
+        "start": 1459,
+        "end": 1478
+      },
+      {
+        "text": "Supercomputern",
+        "label": "LOC",
+        "start": 1483,
+        "end": 1497
+      },
+      {
+        "text": "Prozessoren",
+        "label": "MISC",
+        "start": 1634,
+        "end": 1645
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 1796,
+        "end": 1800
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 1921,
+        "end": 1925
+      },
+      {
+        "text": "OMEN",
+        "label": "ORG",
+        "start": 1947,
+        "end": 1951
+      },
+      {
+        "text": "Wissenschaftlern",
+        "label": "LOC",
+        "start": 1968,
+        "end": 1984
+      },
+      {
+        "text": "Luisier",
+        "label": "LOC",
+        "start": 2235,
+        "end": 2242
+      },
+      {
+        "text": "OMEN",
+        "label": "ORG",
+        "start": 36,
+        "end": 40
+      },
+      {
+        "text": "Alexandros Ziogas",
+        "label": "PER",
+        "start": 152,
+        "end": 169
+      },
+      {
+        "text": "Postdoc Tal",
+        "label": "LOC",
+        "start": 178,
+        "end": 189
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PER",
+        "start": 216,
+        "end": 231
+      },
+      {
+        "text": "Scalable Parallel Computing Laboratory",
+        "label": "MISC",
+        "start": 241,
+        "end": 279
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 284,
+        "end": 294
+      },
+      {
+        "text": "Rechenoperationen",
+        "label": "LOC",
+        "start": 395,
+        "end": 412
+      },
+      {
+        "text": "Piz Daint",
+        "label": "LOC",
+        "start": 617,
+        "end": 626
+      },
+      {
+        "text": "Nationalen Hochleistungsrechenzentrum der Schweiz",
+        "label": "ORG",
+        "start": 632,
+        "end": 681
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 683,
+        "end": 687
+      },
+      {
+        "text": "Oak Ridge National Laboratory",
+        "label": "ORG",
+        "start": 706,
+        "end": 735
+      },
+      {
+        "text": "USA",
+        "label": "LOC",
+        "start": 743,
+        "end": 746
+      },
+      {
+        "text": "Forschern",
+        "label": "MISC",
+        "start": 757,
+        "end": 766
+      },
+      {
+        "text": "OMEN",
+        "label": "ORG",
+        "start": 873,
+        "end": 877
+      },
+      {
+        "text": "OMEN",
+        "label": "ORG",
+        "start": 1221,
+        "end": 1225
+      },
+      {
+        "text": "Summit",
+        "label": "PER",
+        "start": 1232,
+        "end": 1238
+      },
+      {
+        "text": "Rechenvorgangs",
+        "label": "ORG",
+        "start": 1538,
+        "end": 1552
+      },
+      {
+        "text": "Gordon Bell Prize",
+        "label": "PER",
+        "start": 1593,
+        "end": 1610
+      },
+      {
+        "text": "Hoeflers Forschungsgruppe",
+        "label": "ORG",
+        "start": 129,
+        "end": 154
+      },
+      {
+        "text": "Prozessoren",
+        "label": "MISC",
+        "start": 238,
+        "end": 249
+      },
+      {
+        "text": "Lithiumbatterien",
+        "label": "LOC",
+        "start": 1605,
+        "end": 1621
+      },
+      {
+        "text": "Simone Ulmer",
+        "label": "PER",
+        "start": 1700,
+        "end": 1712
+      },
+      {
+        "text": "Englisch",
+        "label": "MISC",
+        "start": 1725,
+        "end": 1733
+      },
+      {
+        "text": "CSCS",
+        "label": "PER",
+        "start": 1768,
+        "end": 1772
+      },
+      {
+        "text": "Ziogas",
+        "label": "ORG",
+        "start": 1775,
+        "end": 1781
+      },
+      {
+        "text": "Ben-Nun T",
+        "label": "MISC",
+        "start": 1786,
+        "end": 1795
+      },
+      {
+        "text": "Fernández GI",
+        "label": "PER",
+        "start": 1797,
+        "end": 1809
+      },
+      {
+        "text": "Schneider T",
+        "label": "PER",
+        "start": 1811,
+        "end": 1822
+      },
+      {
+        "text": "Luisier M & Hoefler T",
+        "label": "ORG",
+        "start": 1824,
+        "end": 1845
+      },
+      {
+        "text": "SC19",
+        "label": "MISC",
+        "start": 2051,
+        "end": 2055
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alexandros Ziogas",
+        "Bell Luisier Hoefler",
+        "CSCS",
+        "De News",
+        "Fernández GI",
+        "Gordon Bell Prize",
+        "Hitze",
+        "Mathieu Luisier",
+        "Schneider T",
+        "Simone Ulmer",
+        "Summit",
+        "Torsten Hoefler"
+      ],
+      "ORG": [
+        "CSCS",
+        "ETH Zürich",
+        "ETH-Professoren",
+        "Hoeflers Forschungsgruppe",
+        "Institut für Integrierte Systeme",
+        "Luisier M & Hoefler T",
+        "Nationalen Hochleistungsrechenzentrum der Schweiz",
+        "OMEN",
+        "Oak Ridge National Laboratory",
+        "Rechenvorgangs",
+        "Ziogas"
+      ],
+      "LOCATION": [
+        "Energiebedarf",
+        "Lithiumbatterien",
+        "Luisier",
+        "Piz Daint",
+        "Postdoc Tal",
+        "Programmiermethoden",
+        "Rechenoperationen",
+        "Strombedarfes",
+        "Supercomputern",
+        "USA",
+        "Wissenschaftlern",
+        "den USA"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ACM Gordon Bell Prize",
+        "Ben-Nun T",
+        "Englisch",
+        "Forschern",
+        "Prozessoren",
+        "SC19",
+        "Scalable Parallel Computing Laboratory",
+        "Supercomputing-Tagung",
+        "Zeit"
+      ]
+    },
+    "entity_counts": {
+      "OMEN": 6,
+      "Torsten Hoefler": 2,
+      "Luisier": 2,
+      "ETH Zürich": 2,
+      "Prozessoren": 2,
+      "Zeit": 2,
+      "CSCS": 2,
+      "De News": 1,
+      "Bell Luisier Hoefler": 1,
+      "Energiebedarf": 1,
+      "Strombedarfes": 1,
+      "ETH-Professoren": 1,
+      "Mathieu Luisier": 1,
+      "ACM Gordon Bell Prize": 1,
+      "Supercomputing-Tagung": 1,
+      "den USA": 1,
+      "Institut für Integrierte Systeme": 1,
+      "Hitze": 1,
+      "Programmiermethoden": 1,
+      "Supercomputern": 1
+    },
+    "total_entities": 54,
+    "unique_entities": 43
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "gordon-bell-luisier-hoefler.md",
+      "title": "De News Events/2019/11/gordon Bell Luisier Hoefler",
+      "language": "de",
+      "source_path": "de_news_events/2019/11/gordon-bell-luisier-hoefler.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Alexandros Ziogas",
+        "Bell Luisier Hoefler",
+        "CSCS",
+        "De News",
+        "Fernández GI",
+        "Gordon Bell Prize",
+        "Hitze",
+        "Mathieu Luisier",
+        "Schneider T",
+        "Simone Ulmer",
+        "Summit",
+        "Torsten Hoefler"
+      ],
+      "people_with_roles": {
+        "Mathieu Luisier": [
+          "professor"
+        ],
+        "Torsten Hoefler": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "ACM Gordon Bell Prize",
+        "Ben-Nun T",
+        "Englisch",
+        "Forschern",
+        "Prozessoren",
+        "SC19",
+        "Scalable Parallel Computing Laboratory",
+        "Supercomputing-Tagung",
+        "Zeit"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Oak Ridge",
+        "Nano-Transistoren",
+        "Der Bedarf",
+        "International Conference",
+        "Ihr Durchmesser",
+        "Die Datenbewegung",
+        "Piz Daint",
+        "Simone Ulmer",
+        "Ziogas AN",
+        "Postdoc Tal",
+        "Dissipative Quantum",
+        "Die Simulation",
+        "Hoefler Chip",
+        "Scalable Parallel",
+        "Seite Gordon",
+        "Doktorand Alexandros",
+        "Nationalen Hochleistungsrechenzentrum",
+        "ACM Gordon",
+        "Extreme-Scale",
+        "Dieser Text",
+        "Luisier M",
+        "Hoefler T",
+        "Transport Simulations",
+        "Supercomputing-Tagung",
+        "Ben-Nun",
+        "Die Wissenschaftler",
+        "A Data",
+        "DaCe-OMEN",
+        "Die Anwendung",
+        "Anzahl Prozessoren",
+        "Die Optimierung",
+        "ETH-Professoren",
+        "National Laboratory",
+        "Performance-Ingenieurs",
+        "Seite CSCS",
+        "Bell Prize",
+        "Integrierte Systeme",
+        "Die Forscher",
+        "Computational Kernels",
+        "Mathieu Luisier",
+        "Die Software",
+        "Centric Approach",
+        "Schneider T",
+        "De News",
+        "Torsten Hoefler",
+        "Bell Luisier",
+        "High Performance",
+        "Hoeflers Forschungsgruppe",
+        "Computing Laboratory",
+        "Software OMEN"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSCS",
+        "ETH Zürich",
+        "ETH-Professoren",
+        "Hoeflers Forschungsgruppe",
+        "Institut für Integrierte Systeme",
+        "Luisier M & Hoefler T",
+        "Nationalen Hochleistungsrechenzentrum der Schweiz",
+        "OMEN",
+        "Oak Ridge National Laboratory",
+        "Rechenvorgangs",
+        "Ziogas"
+      ],
+      "locations": [
+        "Energiebedarf",
+        "Lithiumbatterien",
+        "Luisier",
+        "Piz Daint",
+        "Postdoc Tal",
+        "Programmiermethoden",
+        "Rechenoperationen",
+        "Strombedarfes",
+        "Supercomputern",
+        "USA",
+        "Wissenschaftlern",
+        "den USA"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "OMEN",
+        "Torsten Hoefler",
+        "Luisier",
+        "ETH Zürich",
+        "Prozessoren",
+        "Zeit",
+        "CSCS",
+        "De News",
+        "Bell Luisier Hoefler",
+        "Energiebedarf"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "ETH-Team erhielt Gordon Bell Preis",
+          "ETH-Team erhielt Gordon Bell Preis",
+          "Optimierte Simulation verbessert Transistoren",
+          "Datenzentrierte Programmierung"
+        ],
+        "content_length": 6353
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "OMEN",
+        "Institut für Integrierte Systeme",
+        "Simone Ulmer",
+        "Alexandros Ziogas",
+        "Bell Luisier Hoefler",
+        "ERC",
+        "Ziogas",
+        "2019",
+        "Rechenvorgangs",
+        "ETH Zürich",
+        "Gordon Bell Prize",
+        "Nationalen Hochleistungsrechenzentrum der Schweiz",
+        "EU",
+        "Fernández GI",
+        "ETH-Professoren",
+        "Oak Ridge National Laboratory",
+        "CSCS",
+        "Luisier M & Hoefler T",
+        "Mathieu Luisier",
+        "Summit",
+        "Schneider T",
+        "De News",
+        "Torsten Hoefler",
+        "Hitze",
+        "Hoeflers Forschungsgruppe"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "Englisch",
+        "SC19",
+        "Scalable Parallel Computing Laboratory",
+        "Prozessoren",
+        "who",
+        "Forschern",
+        "Supercomputing-Tagung",
+        "what",
+        "how",
+        "Ben-Nun T",
+        "computer_science",
+        "ACM Gordon Bell Prize",
+        "Zeit",
+        "when"
+      ],
+      "graph_relations": [
+        "Mathieu Luisier_has_role_professor",
+        "Torsten Hoefler_has_role_professor",
+        "research_domain_technology",
+        "research_domain_physics",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

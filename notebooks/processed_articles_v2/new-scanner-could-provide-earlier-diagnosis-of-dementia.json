@@ -1,0 +1,618 @@
+{
+  "filename": "new-scanner-could-provide-earlier-diagnosis-of-dementia.md",
+  "original_filename": "new-scanner-could-provide-earlier-diagnosis-of-dementia.html",
+  "source_path": "en_news_events/2018/03/new-scanner-could-provide-earlier-diagnosis-of-dementia.html",
+  "date": "2018-03",
+  "title": "New Scanner Could Provide Earlier Diagnosis Of Dementia",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Cheaper, smaller and more mobile",
+      "text": "They are barely thirty years old and are already actively involved in improving the diagnosis of Alzheimer’s disease. Max Ahnen (29) and Jannis Fischer (30) are developing a PET brain scanner that is not only less expensive, but also much more compact than those currently installed in hospitals. In recognition of their work, the US business magazine Forbes has included them on its “ 30 Under 30 Europe ” list 2018, in the category of Science & Healthcare. Forbes compiles this list every year to recognise “the most intelligent young entrepreneurs and inventors” in different disciplines. “We’re very proud to have made it onto the list,” says Jannis Fischer, who then jokes: “Next year we would have been too old to qualify!”\n\nPositron Emission Tomography (PET) is an imaging method in nuclear medicine. It is mainly used to detect cancer, but also for neurological and cardiovascular diseases. It requires the intravenous injection of a mildly radioactive substance into the patient’s arm. An image is then generated of how this substance accumulates in different parts of the body, where it indicates the body part’s function.\n\nPET scanners can help to diagnose certain neurological health conditions 10-20 years before doctors are able to do so by assessing the patient’s physical symptoms. The problem is that today, this is not done because these devices are very large and expensive. A conventional scanner takes up around 15 square metres of floor space and costs between 1.5 and 5.5 million Swiss francs.\n\nAt ETH Zurich’s Institute for Particle Physics and Astrophysics, Ahnen and Fischer are working to improve this situation. The project was initiated by researchers and doctors from the University of Zurich and the University Hospital of Zurich. The provisional name for their invention is Brain PET (BPET) and it will be used to identify neurological disorders. These include brain tumours and diseases of the nervous system, such as amyotrophic lateral sclerosis, Parkinson’s and Alzheimer’s disease, all of which cause dementia."
+    },
+    {
+      "heading": "New company about to be set up",
+      "text": "BPET is supposed to cost just a tenth of current PET machines and its footprint will be less than two square metres. “It looks a bit like a hair salon chair with an integrated hairdryer hood,” Ahnen says. Because of its size, it is much more mobile than conventional machines, and is therefore suitable for use not only in big hospitals, but also in smaller clinics in South America, Asia, or Africa.\n\nNot only does the Brain PET technology cost less, but it is cheaper to use. The higher the frequency of use, the lower the cost of the radioactive tracer substances. PET scanners are currently the most expensive type of imaging equipment used in modern clinics, and many hospitals are unable to afford them. Fischer says: “We will be able to reach much wider sections of the population than in the past.”\n\nThat would not only benefit patients, but also their relatives. Both physicists had family members suffering from dementia. Ahnen comments: “It’s hard to watch someone’s personality gradually disintegrate.” As father of three small children, he is keen to improve the situation for the next generation.\n\nBPET only exists on paper so far. The two scientists are currently in the process of setting up their new company, Positrigo, while also finishishing the construction of the prototype by September 2018. The financing is already in place: in June 2017 they won a Pioneer Fellowship. ETH Zurich and the ETH Foundation award this grant to scientists looking to develop highly innovative products, as long as they benefit society or have a commercial use. These grants are not awarded for basic research, however, but must be based on the applicants’ existing research activity.\n\nModel of the head part of the BPET scanner. (Photograph: F. Bachmann/ETH Zürich)\n\nAhnen and Fischer already worked on PET scanners during and after their doctoral studies at ETH. Ahnen comments: “It was obvious to me that there was certainly room for improvement here.” Since the award of the Pioneer Fellowship, the project has really moved forward, Fischer says. The two physicists from Germany reckon ETH is the perfect environment for their work: “The close collaboration between medical doctors and particle physicists creates space for exciting new developments,” he says, and then adds: “The university is a hotbed of knowledge and a unique ecosystem of experts.”\n\nThe scientists hope to bring Brain PET onto the market in 2021. They claim this goal is “optimistic, but also realistic”. The timing is important: this date is also when many pharmaceutical companies plan to launch new Alzheimer’s drugs. The idea behind these drugs – fitting to early PET diagnosis – is that they can be used to combat dementia causing diseases before there is any physical deterioration of the cerebral matter."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Scanner",
+        "label": "PERSON",
+        "start": 27,
+        "end": 34
+      },
+      {
+        "text": "Max Ahnen",
+        "label": "PERSON",
+        "start": 118,
+        "end": 127
+      },
+      {
+        "text": "Jannis Fischer",
+        "label": "PERSON",
+        "start": 137,
+        "end": 151
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 174,
+        "end": 177
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 331,
+        "end": 333
+      },
+      {
+        "text": "Forbes",
+        "label": "ORG",
+        "start": 352,
+        "end": 358
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 398,
+        "end": 404
+      },
+      {
+        "text": "Science & Healthcare",
+        "label": "ORG",
+        "start": 437,
+        "end": 457
+      },
+      {
+        "text": "every year",
+        "label": "DATE",
+        "start": 485,
+        "end": 495
+      },
+      {
+        "text": "Jannis Fischer",
+        "label": "PERSON",
+        "start": 647,
+        "end": 661
+      },
+      {
+        "text": "Next year",
+        "label": "DATE",
+        "start": 680,
+        "end": 689
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 760,
+        "end": 763
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 1132,
+        "end": 1135
+      },
+      {
+        "text": "10-20 years",
+        "label": "DATE",
+        "start": 1205,
+        "end": 1216
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1316,
+        "end": 1321
+      },
+      {
+        "text": "around 15 square metres",
+        "label": "QUANTITY",
+        "start": 1424,
+        "end": 1447
+      },
+      {
+        "text": "between 1.5 and 5.5 million Swiss francs",
+        "label": "QUANTITY",
+        "start": 1473,
+        "end": 1513
+      },
+      {
+        "text": "ETH Zurich’s Institute for Particle Physics",
+        "label": "ORG",
+        "start": 1518,
+        "end": 1561
+      },
+      {
+        "text": "Astrophysics",
+        "label": "GPE",
+        "start": 1566,
+        "end": 1578
+      },
+      {
+        "text": "Ahnen",
+        "label": "GPE",
+        "start": 1580,
+        "end": 1585
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 1695,
+        "end": 1719
+      },
+      {
+        "text": "the University Hospital of Zurich",
+        "label": "ORG",
+        "start": 1724,
+        "end": 1757
+      },
+      {
+        "text": "Brain PET",
+        "label": "ORG",
+        "start": 1803,
+        "end": 1812
+      },
+      {
+        "text": "BPET",
+        "label": "ORG",
+        "start": 1814,
+        "end": 1818
+      },
+      {
+        "text": "BPET",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "just a tenth",
+        "label": "CARDINAL",
+        "start": 25,
+        "end": 37
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 49,
+        "end": 52
+      },
+      {
+        "text": "less than two square metres",
+        "label": "QUANTITY",
+        "start": 88,
+        "end": 115
+      },
+      {
+        "text": "Ahnen",
+        "label": "PERSON",
+        "start": 193,
+        "end": 198
+      },
+      {
+        "text": "South America",
+        "label": "LOC",
+        "start": 369,
+        "end": 382
+      },
+      {
+        "text": "Asia",
+        "label": "LOC",
+        "start": 384,
+        "end": 388
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 393,
+        "end": 399
+      },
+      {
+        "text": "Brain",
+        "label": "ORG",
+        "start": 419,
+        "end": 424
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1026,
+        "end": 1031
+      },
+      {
+        "text": "BPET",
+        "label": "ORG",
+        "start": 1109,
+        "end": 1113
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1147,
+        "end": 1150
+      },
+      {
+        "text": "Positrigo",
+        "label": "ORG",
+        "start": 1224,
+        "end": 1233
+      },
+      {
+        "text": "September 2018",
+        "label": "DATE",
+        "start": 1296,
+        "end": 1310
+      },
+      {
+        "text": "June 2017",
+        "label": "DATE",
+        "start": 1350,
+        "end": 1359
+      },
+      {
+        "text": "Pioneer Fellowship",
+        "label": "FAC",
+        "start": 1371,
+        "end": 1389
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1391,
+        "end": 1401
+      },
+      {
+        "text": "the ETH Foundation",
+        "label": "ORG",
+        "start": 1406,
+        "end": 1424
+      },
+      {
+        "text": "BPET",
+        "label": "ORG",
+        "start": 1714,
+        "end": 1718
+      },
+      {
+        "text": "Ahnen",
+        "label": "PERSON",
+        "start": 1765,
+        "end": 1770
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 1801,
+        "end": 1804
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1857,
+        "end": 1860
+      },
+      {
+        "text": "the Pioneer Fellowship",
+        "label": "EVENT",
+        "start": 1972,
+        "end": 1994
+      },
+      {
+        "text": "Fischer",
+        "label": "ORG",
+        "start": 2034,
+        "end": 2041
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2052,
+        "end": 2055
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 2072,
+        "end": 2079
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2087,
+        "end": 2090
+      },
+      {
+        "text": "Brain",
+        "label": "ORG",
+        "start": 2383,
+        "end": 2388
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 2639,
+        "end": 2642
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ahnen",
+        "ETH Zurich",
+        "Jannis Fischer",
+        "Max Ahnen",
+        "Scanner"
+      ],
+      "ORG": [
+        "BPET",
+        "Brain",
+        "Brain PET",
+        "ETH",
+        "ETH Zurich’s Institute for Particle Physics",
+        "Fischer",
+        "Forbes",
+        "PET",
+        "Positrigo",
+        "Science & Healthcare",
+        "the ETH Foundation",
+        "the University Hospital of Zurich",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Africa",
+        "Ahnen",
+        "Asia",
+        "Astrophysics",
+        "Europe",
+        "Germany",
+        "Pioneer Fellowship",
+        "South America",
+        "US"
+      ],
+      "DATE": [
+        "10-20 years",
+        "June 2017",
+        "Next year",
+        "September 2018",
+        "every year",
+        "today"
+      ],
+      "MISC": [
+        "around 15 square metres",
+        "between 1.5 and 5.5 million Swiss francs",
+        "just a tenth",
+        "less than two square metres",
+        "the Pioneer Fellowship",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "PET": 6,
+      "BPET": 4,
+      "Ahnen": 3,
+      "Jannis Fischer": 2,
+      "Brain": 2,
+      "two": 2,
+      "ETH": 2,
+      "Scanner": 1,
+      "Max Ahnen": 1,
+      "US": 1,
+      "Forbes": 1,
+      "Europe": 1,
+      "Science & Healthcare": 1,
+      "every year": 1,
+      "Next year": 1,
+      "10-20 years": 1,
+      "today": 1,
+      "around 15 square metres": 1,
+      "between 1.5 and 5.5 million Swiss francs": 1,
+      "ETH Zurich’s Institute for Particle Physics": 1
+    },
+    "total_entities": 53,
+    "unique_entities": 39
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-scanner-could-provide-earlier-diagnosis-of-dementia.md",
+      "title": "En News Events/2018/03/new Scanner Could Provide Earlier Diagnosis Of Dementia",
+      "language": "en",
+      "source_path": "en_news_events/2018/03/new-scanner-could-provide-earlier-diagnosis-of-dementia.html"
+    },
+    "temporal": {
+      "publication_date": "2018-03",
+      "mentioned_years": [
+        "2017",
+        "2018",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Ahnen",
+        "ETH Zurich",
+        "Jannis Fischer",
+        "Max Ahnen",
+        "Scanner"
+      ],
+      "people_with_roles": {
+        "Ahnen": [
+          "chair"
+        ],
+        "ETH Zurich": [
+          "scientist"
+        ],
+        "Scanner": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "chair",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "around 15 square metres",
+        "between 1.5 and 5.5 million Swiss francs",
+        "just a tenth",
+        "less than two square metres",
+        "the Pioneer Fellowship",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "fellowship",
+        "grant"
+      ],
+      "projects": [
+        "At ETH",
+        "Particle Physics",
+        "ETH Foundation",
+        "Max Ahnen",
+        "En News",
+        "Positron Emission",
+        "Scanner Could",
+        "Jannis Fischer",
+        "Dementia They",
+        "University Hospital",
+        "South America",
+        "Provide Earlier",
+        "ETH Zurich",
+        "Pioneer Fellowship",
+        "Diagnosis Of",
+        "Brain PET"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Particle Physics and Astrophysics"
+      ],
+      "institutions": [
+        "BPET",
+        "Brain",
+        "Brain PET",
+        "ETH",
+        "ETH Zurich’s Institute for Particle Physics",
+        "Fischer",
+        "Forbes",
+        "PET",
+        "Positrigo",
+        "Science & Healthcare",
+        "the ETH Foundation",
+        "the University Hospital of Zurich",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Africa",
+        "Ahnen",
+        "Asia",
+        "Astrophysics",
+        "Europe",
+        "Germany",
+        "Pioneer Fellowship",
+        "South America",
+        "US"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "PET",
+        "BPET",
+        "Ahnen",
+        "Jannis Fischer",
+        "Brain",
+        "two",
+        "ETH",
+        "Scanner",
+        "Max Ahnen",
+        "US"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Cheaper, smaller and more mobile",
+          "New company about to be set up"
+        ],
+        "content_length": 4915
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Forbes",
+        "Max Ahnen",
+        "grant",
+        "the University Hospital of Zurich",
+        "the University of Zurich",
+        "Science & Healthcare",
+        "Scanner",
+        "Ahnen",
+        "ERC",
+        "2018",
+        "BPET",
+        "Positrigo",
+        "ETH Zurich’s Institute for Particle Physics",
+        "Fischer",
+        "PET",
+        "the ETH Foundation",
+        "Brain",
+        "fellowship",
+        "EU",
+        "Jannis Fischer",
+        "Brain PET",
+        "2017",
+        "ETH Zurich",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "the Pioneer Fellowship",
+        "three",
+        "between 1.5 and 5.5 million Swiss francs",
+        "who",
+        "around 15 square metres",
+        "less than two square metres",
+        "where",
+        "just a tenth",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Ahnen_has_role_chair",
+        "ETH Zurich_has_role_scientist",
+        "Scanner_has_role_head",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

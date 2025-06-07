@@ -1,0 +1,312 @@
+{
+  "filename": "new-at-eth-tapio-schneider.md",
+  "original_filename": "new-at-eth-tapio-schneider.html",
+  "source_path": "en_internal/2014/01/new-at-eth-tapio-schneider.html",
+  "date": "2014-01",
+  "title": "New At Eth Tapio Schneider",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "How would you explain your field of research to a child? Tapio Schneider: I try to understand how our climate works: What determines where and how much it rains? How do winds come about? When and where do clouds form? I want to find the physical laws that govern the climate. These should apply not only to Earth but also to other planets.\n\nWhat was your motivation to come to ETH Zurich? ETH and the Swiss federal research institutions offer a stable and solid infrastructure that may be unique worldwide. We enjoy excellent working conditions and great scientific freedom, which means we can plan research with a view toward the long term. I also love to teach, and teaching is taken very seriously and appreciated here. There were also personal reasons to move. We wanted our children to grow up closer to our families. My wife Chiara’s family lives in Italy, and mine in Germany and Finland. That was very far away from California, where we lived the past decade.\n\nIf you hadn’t become a scientist, what would you do now? The statistically most plausible answer is that I would be calculating risks at an insurance company or would be modelling financial markets. A more romantic answer may be that I want to understand and explain the world we live in, and I could have seen myself doing that as a journalist or a writer – at least when my notions of that were vague enough that I could imagine I might be suited to it. And the honest answer is that I rarely think of what might have been. Science is my passion.\n\nSince January, Tapio Schneider is a professor of climate dynamics at the D-ERDW. The 41-year-old conducts research in the area of climate dynamics of Earth and other planets and is considered one of the leading scientists of his generation in this field. Tapio Schneider is married to Chiara Daraio, who also teaches and does research at ETH as a professor of mechanics and materials."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Eth Tapio Schneider",
+        "label": "FAC",
+        "start": 27,
+        "end": 46
+      },
+      {
+        "text": "Tapio Schneider",
+        "label": "PERSON",
+        "start": 57,
+        "end": 72
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 307,
+        "end": 312
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 376,
+        "end": 386
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 388,
+        "end": 391
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 400,
+        "end": 405
+      },
+      {
+        "text": "Chiara’s",
+        "label": "PERSON",
+        "start": 830,
+        "end": 838
+      },
+      {
+        "text": "Italy",
+        "label": "GPE",
+        "start": 855,
+        "end": 860
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 874,
+        "end": 881
+      },
+      {
+        "text": "Finland",
+        "label": "GPE",
+        "start": 886,
+        "end": 893
+      },
+      {
+        "text": "California",
+        "label": "GPE",
+        "start": 923,
+        "end": 933
+      },
+      {
+        "text": "the past decade",
+        "label": "DATE",
+        "start": 950,
+        "end": 965
+      },
+      {
+        "text": "January",
+        "label": "DATE",
+        "start": 1522,
+        "end": 1529
+      },
+      {
+        "text": "Tapio Schneider",
+        "label": "PERSON",
+        "start": 1531,
+        "end": 1546
+      },
+      {
+        "text": "41-year-old",
+        "label": "DATE",
+        "start": 1601,
+        "end": 1612
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1666,
+        "end": 1671
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1708,
+        "end": 1711
+      },
+      {
+        "text": "Tapio Schneider",
+        "label": "PERSON",
+        "start": 1771,
+        "end": 1786
+      },
+      {
+        "text": "Chiara Daraio",
+        "label": "PERSON",
+        "start": 1801,
+        "end": 1814
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1854,
+        "end": 1857
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chiara Daraio",
+        "Chiara’s",
+        "ETH Zurich",
+        "Tapio Schneider"
+      ],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [
+        "California",
+        "Earth",
+        "Eth Tapio Schneider",
+        "Finland",
+        "Germany",
+        "Italy"
+      ],
+      "DATE": [
+        "41-year-old",
+        "January",
+        "the past decade"
+      ],
+      "MISC": [
+        "Swiss",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "Tapio Schneider": 3,
+      "Earth": 2,
+      "ETH": 2,
+      "Eth Tapio Schneider": 1,
+      "ETH Zurich": 1,
+      "Swiss": 1,
+      "Chiara’s": 1,
+      "Italy": 1,
+      "Germany": 1,
+      "Finland": 1,
+      "California": 1,
+      "the past decade": 1,
+      "January": 1,
+      "41-year-old": 1,
+      "one": 1,
+      "Chiara Daraio": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-at-eth-tapio-schneider.md",
+      "title": "En Internal/2014/01/new At Eth Tapio Schneider",
+      "language": "en",
+      "source_path": "en_internal/2014/01/new-at-eth-tapio-schneider.html"
+    },
+    "temporal": {
+      "publication_date": "2014-01",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chiara Daraio",
+        "Chiara’s",
+        "ETH Zurich",
+        "Tapio Schneider"
+      ],
+      "people_with_roles": {
+        "Chiara Daraio": [
+          "professor"
+        ],
+        "Tapio Schneider": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Swiss"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Tapio Schneider",
+        "Since January",
+        "D-ERDW",
+        "En Internal",
+        "At Eth",
+        "ETH Zurich",
+        "Chiara Daraio"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [
+        "California",
+        "Earth",
+        "Eth Tapio Schneider",
+        "Finland",
+        "Germany",
+        "Italy"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Tapio Schneider",
+        "Earth",
+        "ETH",
+        "Eth Tapio Schneider",
+        "ETH Zurich",
+        "Swiss",
+        "Chiara’s",
+        "Italy",
+        "Germany",
+        "Finland"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1950
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Tapio Schneider",
+        "ETH",
+        "Chiara’s",
+        "ETH Zurich",
+        "2014",
+        "Chiara Daraio"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "Swiss",
+        "where",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Chiara Daraio_has_role_professor",
+        "Tapio Schneider_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

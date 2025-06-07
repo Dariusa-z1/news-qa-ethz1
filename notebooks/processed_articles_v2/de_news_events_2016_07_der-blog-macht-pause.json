@@ -1,0 +1,98 @@
+{
+  "filename": "de_news_events_2016_07_der-blog-macht-pause.md",
+  "original_filename": "de_news_events_2016_07_der-blog-macht-pause.html",
+  "source_path": "de_news_events/2016/07/der-blog-macht-pause.html",
+  "date": "2016-07",
+  "title": "Der Blog Macht Pause",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "... wo auch immer Sie Ihren Urlaub verbringen: Im Blog-Archiv nach Perlen tauchen und Fundstücke kommentieren können Sie auch während der Sommerpause."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Perlen",
+        "label": "LOC",
+        "start": 67,
+        "end": 73
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "Perlen"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Perlen": 1
+    },
+    "total_entities": 1,
+    "unique_entities": 1
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2016_07_der-blog-macht-pause.md",
+      "title": "De News Events/2016/07/der Blog Macht Pause",
+      "language": "de",
+      "source_path": "de_news_events/2016/07/der-blog-macht-pause.html"
+    },
+    "temporal": {
+      "publication_date": "2016-07",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Sie Ihren",
+        "De News",
+        "Blog Macht",
+        "Im Blog"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Perlen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Perlen"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 194
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2016"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

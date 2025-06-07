@@ -1,0 +1,518 @@
+{
+  "filename": "our-actual-attention-is-now-measurable.md",
+  "original_filename": "our-actual-attention-is-now-measurable.html",
+  "source_path": "en_news_events/2020/09/our-actual-attention-is-now-measurable.html",
+  "date": "2020-09",
+  "title": "Our Actual Attention Is Now Measurable",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The key to attentive user interfaces",
+      "text": "How many times a day do you turn on your smartphone? How long is the screen on and how long are the various apps in use? Every modern smartphone collects this data automatically and makes it available to the user under headings like “Digital wellbeing”. But not all screen time and app use is equal. Sometimes we concentrate fully on something for a long time, while at other times we only look briefly at the screen or are distracted multiple times by things going on around us. And sometimes we don’t look at our smartphone at all, because we’ve activated it by accident."
+    },
+    {
+      "heading": "The key to attentive user interfaces",
+      "text": "“The level of attention we pay to our smartphones can vary considerably,” explains Mihai Bâce, “but this has never been examined in real-life everyday situations.” Together with a Master’s student and a professor from the University of Stuttgart, Bâce, who is a doctoral student at ETH Zurich’s Institute for Intelligent Interactive Systems, has developed a system to measure the visual attention paid to a smartphone during a user’s normal day over the course of weeks. All it requires is the front-facing camera and the phone’s sensor data. Previously, researchers had to use cumbersome measuring apparatus with eye trackers or ask participants to fill out surveys, which could at best only approximate normal life.\n\nUnderstanding user attention is one of the most important challenges on the path to future mobile user interfaces, emphasises Bâce. These should be attentive and automatically take into account our current needs and the situation we are in. Then, for example, there will no longer be any need for a manual “do not disturb” setting to avoid being torn away from a concentrated activity by an unimportant notification."
+    },
+    {
+      "heading": "Infrastructure was a great challenge",
+      "text": "Sander Staal, co-author of the study, shows how eye contact detection works. A green rectangle means eye contact, red means no eye contact. (Distributed Systems Group)\n\nThis kind of technology seems to be becoming ever more necessary: Bâce’s research shows that the visual attention we give to smartphones is currently extremely fragmented.\n\nOn average, eye contact with the screen lasts only seven seconds before the gaze wanders – and this happens four times every time the phone is unlocked, for about two seconds each time.\n\nThe user’s level of distraction depends on their individual personality, but also on their environment and the type of app currently in use. For example, medical apps or those used for training or education keep people’s attention better than entertainment apps."
+    },
+    {
+      "heading": "References",
+      "text": "For Bâce, however, the major value of his work does not only lie in the concrete research results that can be obtained using the system: “Above all, we want our system to provide a basis for other scientists. We will therefore publish all our algorithms in addition to all the video data.”\n\nApp developers are not the only ones who could benefit in future: sociologists or psychologists could also use the system to carry out studies on the influence of various factors on attention without any great technical outlay. The medical field could also make use of the technology: for example, changes in attention behaviour could be checked when monitoring patients, and could point towards problematic developments.\n\nWhen developing the system, an app was used that, in addition to recording videos using the front-facing camera each time the phone was unlocked and collecting various sensor and metadata in parallel, also contained data protection and verification features.\n\nThe study participants were able to use a review component to decide for themselves which videos to release for evaluation, and video sequences could be evaluated by other participants via an annotation game. The results of the automatic eye contact detection were reviewed during the development phase with the help of this third component.\n\nIn an initial experiment with 32 participants and over a period of more than two weeks, the researchers recorded video sequences totalling 472 hours and then evaluated them using an innovative adaptive eye contact detection system. The individual videos could be up to several hundred megabytes in size, which meant that a lot of storage space was required on the smartphones and the upload times were correspondingly long. This was one of the greatest challenges.\n\nSince users quickly switch off or at least minimise the use of apps that interfere with their everyday life, mechanisms had to be found to avoid placing an excessive load on the smartphone’s memory or blocking its transmission capacities.\n\nData protection also had to be ensured at all times – only content that had been explicitly released by the users using the review component could be uploaded to the evaluation server. “The app was checked by ETH Zurich’s Ethics Commission, and we also are deliberately not conducting any facial recognition. We’re only examining if there is eye contact with the screen,” explains Bâce.\n\nOur smartphones will not necessarily have to evaluate sensitive personal data in order to understand us and our needs better in future. Instead, the computer scientists’ system could help to achieve this through the automatic detection of people’s attention levels.\n\nBâce M, Staal S, Bulling A. (2020). Quantification of Users’ Visual Attention During Everyday Mobile Device Interactions. In: Proceedings of the Conference on Human Factors in Computing Systems (CHI ’20). ACM, New York, NY, USA, 2020, 1–14. doi: 10.1145/3313831.3376449\n\nBâce M, Staal S, Bulling A. (2019). Accurate and Robust Eye Contact Detection During Everyday Mobile Device Interactions arxiv.org/abs/1907.11115\n\nVideo presentation of the paper: www.youtube.com/watch?v=SzLn3LujIqw\n\nVideo dataset from the study: www.emva-dataset.org"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Digital",
+        "label": "ORG",
+        "start": 234,
+        "end": 241
+      },
+      {
+        "text": "Mihai Bâce",
+        "label": "PERSON",
+        "start": 83,
+        "end": 93
+      },
+      {
+        "text": "the University of Stuttgart",
+        "label": "ORG",
+        "start": 218,
+        "end": 245
+      },
+      {
+        "text": "Bâce",
+        "label": "PERSON",
+        "start": 247,
+        "end": 251
+      },
+      {
+        "text": "ETH Zurich’s Institute for Intelligent Interactive Systems",
+        "label": "ORG",
+        "start": 282,
+        "end": 340
+      },
+      {
+        "text": "normal day",
+        "label": "DATE",
+        "start": 434,
+        "end": 444
+      },
+      {
+        "text": "weeks",
+        "label": "DATE",
+        "start": 464,
+        "end": 469
+      },
+      {
+        "text": "Bâce",
+        "label": "PERSON",
+        "start": 844,
+        "end": 848
+      },
+      {
+        "text": "Sander Staal",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Distributed Systems Group",
+        "label": "ORG",
+        "start": 141,
+        "end": 166
+      },
+      {
+        "text": "Bâce’s",
+        "label": "ORG",
+        "start": 234,
+        "end": 240
+      },
+      {
+        "text": "only seven seconds",
+        "label": "TIME",
+        "start": 386,
+        "end": 404
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 448,
+        "end": 452
+      },
+      {
+        "text": "about two seconds",
+        "label": "TIME",
+        "start": 497,
+        "end": 514
+      },
+      {
+        "text": "Bâce",
+        "label": "PERSON",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 1296,
+        "end": 1301
+      },
+      {
+        "text": "more than two weeks",
+        "label": "DATE",
+        "start": 1380,
+        "end": 1399
+      },
+      {
+        "text": "472 hours",
+        "label": "TIME",
+        "start": 1452,
+        "end": 1461
+      },
+      {
+        "text": "several hundred megabytes",
+        "label": "QUANTITY",
+        "start": 1582,
+        "end": 1607
+      },
+      {
+        "text": "ETH Zurich’s Ethics Commission",
+        "label": "ORG",
+        "start": 2226,
+        "end": 2256
+      },
+      {
+        "text": "Bâce",
+        "label": "PERSON",
+        "start": 2398,
+        "end": 2402
+      },
+      {
+        "text": "Bâce M",
+        "label": "PERSON",
+        "start": 2670,
+        "end": 2676
+      },
+      {
+        "text": "Staal S",
+        "label": "ORG",
+        "start": 2678,
+        "end": 2685
+      },
+      {
+        "text": "Bulling A.",
+        "label": "PERSON",
+        "start": 2687,
+        "end": 2697
+      },
+      {
+        "text": "the Conference on Human Factors",
+        "label": "ORG",
+        "start": 2811,
+        "end": 2842
+      },
+      {
+        "text": "Computing Systems",
+        "label": "ORG",
+        "start": 2846,
+        "end": 2863
+      },
+      {
+        "text": "CHI",
+        "label": "ORG",
+        "start": 2865,
+        "end": 2868
+      },
+      {
+        "text": "ACM",
+        "label": "ORG",
+        "start": 2875,
+        "end": 2878
+      },
+      {
+        "text": "New York",
+        "label": "GPE",
+        "start": 2880,
+        "end": 2888
+      },
+      {
+        "text": "NY",
+        "label": "GPE",
+        "start": 2890,
+        "end": 2892
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 2894,
+        "end": 2897
+      },
+      {
+        "text": "1–14",
+        "label": "DATE",
+        "start": 2905,
+        "end": 2909
+      },
+      {
+        "text": "10.1145/3313831.3376449",
+        "label": "CARDINAL",
+        "start": 2916,
+        "end": 2939
+      },
+      {
+        "text": "Staal S",
+        "label": "ORG",
+        "start": 2948,
+        "end": 2955
+      },
+      {
+        "text": "Bulling A.",
+        "label": "PERSON",
+        "start": 2957,
+        "end": 2967
+      },
+      {
+        "text": "Accurate",
+        "label": "ORG",
+        "start": 2976,
+        "end": 2984
+      },
+      {
+        "text": "Robust Eye Contact Detection During Everyday",
+        "label": "ORG",
+        "start": 2989,
+        "end": 3033
+      },
+      {
+        "text": "www.emva-dataset.org",
+        "label": "ORG",
+        "start": 3185,
+        "end": 3205
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bulling A.",
+        "Bâce",
+        "Bâce M",
+        "Mihai Bâce",
+        "Sander Staal"
+      ],
+      "ORG": [
+        "ACM",
+        "Accurate",
+        "Bâce’s",
+        "CHI",
+        "Computing Systems",
+        "Digital",
+        "Distributed Systems Group",
+        "ETH Zurich’s Ethics Commission",
+        "ETH Zurich’s Institute for Intelligent Interactive Systems",
+        "En News",
+        "Robust Eye Contact Detection During Everyday",
+        "Staal S",
+        "the Conference on Human Factors",
+        "the University of Stuttgart",
+        "www.emva-dataset.org"
+      ],
+      "LOCATION": [
+        "NY",
+        "New York",
+        "USA"
+      ],
+      "DATE": [
+        "1–14",
+        "472 hours",
+        "about two seconds",
+        "more than two weeks",
+        "normal day",
+        "only seven seconds",
+        "weeks"
+      ],
+      "MISC": [
+        "10.1145/3313831.3376449",
+        "four",
+        "several hundred megabytes",
+        "third"
+      ]
+    },
+    "entity_counts": {
+      "Bâce": 4,
+      "Staal S": 2,
+      "Bulling A.": 2,
+      "En News": 1,
+      "Digital": 1,
+      "Mihai Bâce": 1,
+      "the University of Stuttgart": 1,
+      "ETH Zurich’s Institute for Intelligent Interactive Systems": 1,
+      "normal day": 1,
+      "weeks": 1,
+      "Sander Staal": 1,
+      "Distributed Systems Group": 1,
+      "Bâce’s": 1,
+      "only seven seconds": 1,
+      "four": 1,
+      "about two seconds": 1,
+      "third": 1,
+      "more than two weeks": 1,
+      "472 hours": 1,
+      "several hundred megabytes": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "our-actual-attention-is-now-measurable.md",
+      "title": "En News Events/2020/09/our Actual Attention Is Now Measurable",
+      "language": "en",
+      "source_path": "en_news_events/2020/09/our-actual-attention-is-now-measurable.html"
+    },
+    "temporal": {
+      "publication_date": "2020-09",
+      "mentioned_years": [
+        "1907",
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bulling A.",
+        "Bâce",
+        "Bâce M",
+        "Mihai Bâce",
+        "Sander Staal"
+      ],
+      "people_with_roles": {
+        "Bâce": [
+          "scientist",
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10.1145/3313831.3376449",
+        "four",
+        "several hundred megabytes",
+        "third"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "During Everyday",
+        "Is Now",
+        "Measurable How",
+        "Visual Attention",
+        "Sander Staal",
+        "Computing Systems",
+        "Mobile Device",
+        "Contact Detection",
+        "Distributed Systems",
+        "Actual Attention",
+        "Bulling A",
+        "Human Factors",
+        "Staal S",
+        "Intelligent Interactive",
+        "Robust Eye",
+        "Ethics Commission",
+        "En News",
+        "New York",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Intelligent Interactive Systems"
+      ],
+      "institutions": [
+        "ACM",
+        "Accurate",
+        "Bâce’s",
+        "CHI",
+        "Computing Systems",
+        "Digital",
+        "Distributed Systems Group",
+        "ETH Zurich’s Ethics Commission",
+        "ETH Zurich’s Institute for Intelligent Interactive Systems",
+        "En News",
+        "Robust Eye Contact Detection During Everyday",
+        "Staal S",
+        "the Conference on Human Factors",
+        "the University of Stuttgart",
+        "www.emva-dataset.org"
+      ],
+      "locations": [
+        "NY",
+        "New York",
+        "USA"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Bâce",
+        "Staal S",
+        "Bulling A.",
+        "En News",
+        "Digital",
+        "Mihai Bâce",
+        "the University of Stuttgart",
+        "ETH Zurich’s Institute for Intelligent Interactive Systems",
+        "normal day",
+        "weeks"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "The key to attentive user interfaces",
+          "The key to attentive user interfaces",
+          "Infrastructure was a great challenge",
+          "References"
+        ],
+        "content_length": 5780
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "CHI",
+        "the University of Stuttgart",
+        "2020",
+        "Bâce M",
+        "Sander Staal",
+        "Computing Systems",
+        "1907",
+        "2019",
+        "ETH Zurich’s Ethics Commission",
+        "Robust Eye Contact Detection During Everyday",
+        "Staal S",
+        "Bulling A.",
+        "Digital",
+        "Bâce",
+        "ETH Zurich’s Institute for Intelligent Interactive Systems",
+        "the Conference on Human Factors",
+        "ACM",
+        "Distributed Systems Group",
+        "En News",
+        "Mihai Bâce",
+        "Accurate",
+        "www.emva-dataset.org",
+        "Bâce’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "computer_science",
+        "third",
+        "several hundred megabytes",
+        "four",
+        "who",
+        "10.1145/3313831.3376449",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Bâce_has_role_scientist",
+        "Bâce_has_role_student",
+        "Bâce_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

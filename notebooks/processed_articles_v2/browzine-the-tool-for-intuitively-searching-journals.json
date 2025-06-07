@@ -1,0 +1,122 @@
+{
+  "filename": "browzine-the-tool-for-intuitively-searching-journals.md",
+  "original_filename": "browzine-the-tool-for-intuitively-searching-journals.html",
+  "source_path": "en_internal/2017/01/browzine-the-tool-for-intuitively-searching-journals.html",
+  "date": "2017-01",
+  "title": "Browzine The Tool For Intuitively Searching Journals",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "This tool can be used both via the web or an app:\n\nIn order to access BrowZine, you must be connected to the ETH Zurich network.\n\nTry out the new search option and let us know what you think via a questionnaire . In doing so, you will be making a significant contribution to the decision on licensing BrowZine for further use."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Tool",
+        "label": "WORK_OF_ART",
+        "start": 29,
+        "end": 37
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 108,
+        "end": 118
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "The Tool"
+      ]
+    },
+    "entity_counts": {
+      "The Tool": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "browzine-the-tool-for-intuitively-searching-journals.md",
+      "title": "En Internal/2017/01/browzine The Tool For Intuitively Searching Journals",
+      "language": "en",
+      "source_path": "en_internal/2017/01/browzine-the-tool-for-intuitively-searching-journals.html"
+    },
+    "temporal": {
+      "publication_date": "2017-01",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "The Tool"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Tool",
+        "For Intuitively",
+        "Searching Journals",
+        "En Internal",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "The Tool",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 399
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "2017"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "The Tool"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

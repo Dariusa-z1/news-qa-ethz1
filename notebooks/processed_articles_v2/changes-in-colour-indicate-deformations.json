@@ -1,0 +1,363 @@
+{
+  "filename": "changes-in-colour-indicate-deformations.md",
+  "original_filename": "changes-in-colour-indicate-deformations.html",
+  "source_path": "en_news_events/2021/08/changes-in-colour-indicate-deformations.html",
+  "date": "2021-08",
+  "title": "Changes In Colour Indicate Deformations",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Artificial mother-of-pearl combined with polymer",
+      "text": "Lightweight construction has found its way into many areas, especially automotive manufacturing, shipbuilding and aircraft construction. In addition to traditional lightweight metals such as aluminium, magnesium or titanium, load-bearing applications are increasingly featuring composite materials. This is driving a concurrent need to develop new techniques and methods for the early detection of damage to or even the possible failure of such as yet understudied materials.\n\nResearchers from the Complex Materials Group at ETH Zurich, working in collaboration with researchers from the University of Fribourg, have now adopted an approach that has recently garnered attention in materials research: they have created a lightweight material that uses a colour change to indicate internal deformation and thus possible material failure at an early stage. Composed of individual layers, their laminate is translucent, break-resistant and yet very lightweight."
+    },
+    {
+      "heading": "Artificial mother-of-pearl combined with polymer",
+      "text": "The laminate is composed of alternating layers of a plastic polymer and artificial nacre or mother-of-pearl. The latter is a speciality of the Complex Materials Laboratory and is modelled on the biological example of the mussel shell. It consists of countless glass platelets arranged in parallel, which are compacted, sintered and solidified using an polymeric resin. This makes it extremely hard and break-resistant.\n\nThe second layer consists of a polymer to which the researchers added an indicator molecule synthesised specifically for this application at the University of Fribourg. The molecule is activated as soon as the polymer experiences stretching forces, and this changes its fluorescence. The more the material stretches and the more of these molecules are activated, the more intense the fluorescence becomes."
+    },
+    {
+      "heading": "Fluorescence indicates overstressed parts",
+      "text": "“We used fluorescent molecules because you can measure the increase in fluorescence very well and you don’t have to rely on subjective perception,” says Tommaso Magrini, lead author of the study, which was recently published in the journal ACS Applied Materials and Interfaces . The system could also have been set up to produce a colour change that would be directly perceptible from the outside. But: “The perception of colours is subjective and it is difficult to draw conclusions about changes in the material,\" Magrini says.\n\nWith the help of fluorescence, the researchers can now identify overstressed areas within the composite material even before fractures form. This allows early detection of vulnerable areas in a structure before catastrophic failure occurs. One possible application of the novel laminate is in components in the load-bearing structures found in buildings, aircraft or vehicles, where it is essential to detect their failure at an early stage.\n\nHowever, it remains to be seen whether and how the material can be produced on an industrial scale. So far, it exists only at laboratory scale as a proof of concept.\n\nMagrini T, Kiebala D, Grimm D, Nelson A, Schrettl S, Bouville F, Weder C, Studart AR. Tough Bioinspired Composites That Self-Report Damage, ACS Appl. Mater. Interfaces 2021, 13, 23, 7481–27490. DOI: 10.1021/acsami.1c05964"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Colour Indicate Deformations",
+        "label": "ORG",
+        "start": 34,
+        "end": 62
+      },
+      {
+        "text": "the Complex Materials Group",
+        "label": "ORG",
+        "start": 493,
+        "end": 520
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 524,
+        "end": 534
+      },
+      {
+        "text": "the University of Fribourg",
+        "label": "ORG",
+        "start": 583,
+        "end": 609
+      },
+      {
+        "text": "the Complex Materials Laboratory",
+        "label": "ORG",
+        "start": 139,
+        "end": 171
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 423,
+        "end": 429
+      },
+      {
+        "text": "the University of Fribourg",
+        "label": "ORG",
+        "start": 560,
+        "end": 586
+      },
+      {
+        "text": "Tommaso Magrini",
+        "label": "PERSON",
+        "start": 153,
+        "end": 168
+      },
+      {
+        "text": "ACS Applied Materials and Interfaces",
+        "label": "ORG",
+        "start": 240,
+        "end": 276
+      },
+      {
+        "text": "Magrini",
+        "label": "PERSON",
+        "start": 516,
+        "end": 523
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 770,
+        "end": 773
+      },
+      {
+        "text": "Kiebala",
+        "label": "GPE",
+        "start": 1149,
+        "end": 1156
+      },
+      {
+        "text": "Grimm D",
+        "label": "PERSON",
+        "start": 1160,
+        "end": 1167
+      },
+      {
+        "text": "Nelson A",
+        "label": "PERSON",
+        "start": 1169,
+        "end": 1177
+      },
+      {
+        "text": "Schrettl S",
+        "label": "ORG",
+        "start": 1179,
+        "end": 1189
+      },
+      {
+        "text": "Bouville F",
+        "label": "PERSON",
+        "start": 1191,
+        "end": 1201
+      },
+      {
+        "text": "Weder C",
+        "label": "PERSON",
+        "start": 1203,
+        "end": 1210
+      },
+      {
+        "text": "Studart AR",
+        "label": "PERSON",
+        "start": 1212,
+        "end": 1222
+      },
+      {
+        "text": "Mater",
+        "label": "PERSON",
+        "start": 1288,
+        "end": 1293
+      },
+      {
+        "text": "7481–27490",
+        "label": "CARDINAL",
+        "start": 1320,
+        "end": 1330
+      },
+      {
+        "text": "10.1021",
+        "label": "CARDINAL",
+        "start": 1337,
+        "end": 1344
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bouville F",
+        "Grimm D",
+        "Magrini",
+        "Mater",
+        "Nelson A",
+        "Studart AR",
+        "Tommaso Magrini",
+        "Weder C"
+      ],
+      "ORG": [
+        "ACS Applied Materials and Interfaces",
+        "Colour Indicate Deformations",
+        "ETH Zurich",
+        "Schrettl S",
+        "the Complex Materials Group",
+        "the Complex Materials Laboratory",
+        "the University of Fribourg"
+      ],
+      "LOCATION": [
+        "Kiebala"
+      ],
+      "DATE": [],
+      "MISC": [
+        "10.1021",
+        "7481–27490",
+        "One",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "the University of Fribourg": 2,
+      "Colour Indicate Deformations": 1,
+      "the Complex Materials Group": 1,
+      "ETH Zurich": 1,
+      "the Complex Materials Laboratory": 1,
+      "second": 1,
+      "Tommaso Magrini": 1,
+      "ACS Applied Materials and Interfaces": 1,
+      "Magrini": 1,
+      "One": 1,
+      "Kiebala": 1,
+      "Grimm D": 1,
+      "Nelson A": 1,
+      "Schrettl S": 1,
+      "Bouville F": 1,
+      "Weder C": 1,
+      "Studart AR": 1,
+      "Mater": 1,
+      "7481–27490": 1,
+      "10.1021": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "changes-in-colour-indicate-deformations.md",
+      "title": "En News Events/2021/08/changes in Colour Indicate Deformations",
+      "language": "en",
+      "source_path": "en_news_events/2021/08/changes-in-colour-indicate-deformations.html"
+    },
+    "temporal": {
+      "publication_date": "2021-08",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bouville F",
+        "Grimm D",
+        "Magrini",
+        "Mater",
+        "Nelson A",
+        "Studart AR",
+        "Tommaso Magrini",
+        "Weder C"
+      ],
+      "people_with_roles": {
+        "Mater": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1021",
+        "7481–27490",
+        "second"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "ACS Applied",
+        "Nelson A",
+        "Studart AR",
+        "ACS Appl",
+        "Deformations Lightweight",
+        "Composites That",
+        "Grimm D",
+        "Bouville F",
+        "Tommaso Magrini",
+        "Self-Report",
+        "Schrettl S",
+        "Magrini T",
+        "En News",
+        "Kiebala D",
+        "Tough Bioinspired",
+        "Colour Indicate",
+        "Complex Materials",
+        "ETH Zurich",
+        "Weder C"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ACS Applied Materials and Interfaces",
+        "Colour Indicate Deformations",
+        "ETH Zurich",
+        "Schrettl S",
+        "the Complex Materials Group",
+        "the Complex Materials Laboratory",
+        "the University of Fribourg"
+      ],
+      "locations": [
+        "Kiebala"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "the University of Fribourg",
+        "Colour Indicate Deformations",
+        "the Complex Materials Group",
+        "ETH Zurich",
+        "the Complex Materials Laboratory",
+        "second",
+        "Tommaso Magrini",
+        "ACS Applied Materials and Interfaces",
+        "Magrini",
+        "One"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Artificial mother-of-pearl combined with polymer",
+          "Artificial mother-of-pearl combined with polymer",
+          "Fluorescence indicates overstressed parts"
+        ],
+        "content_length": 3210
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Mater",
+        "the Complex Materials Laboratory",
+        "Grimm D",
+        "Studart AR",
+        "Bouville F",
+        "Nelson A",
+        "Magrini",
+        "Tommaso Magrini",
+        "Schrettl S",
+        "the Complex Materials Group",
+        "ETH Zurich",
+        "the University of Fribourg",
+        "2021",
+        "Weder C",
+        "ERC",
+        "ACS Applied Materials and Interfaces",
+        "Colour Indicate Deformations"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "chemistry",
+        "where",
+        "10.1021",
+        "second",
+        "7481–27490",
+        "what",
+        "how",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Mater_has_role_researcher",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

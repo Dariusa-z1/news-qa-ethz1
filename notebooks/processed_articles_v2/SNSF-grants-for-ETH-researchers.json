@@ -1,0 +1,576 @@
+{
+  "filename": "SNSF-grants-for-ETH-researchers.md",
+  "original_filename": "SNSF-grants-for-ETH-researchers.html",
+  "source_path": "en_news_events/2015/02/SNSF-grants-for-ETH-researchers.html",
+  "date": "2015-02",
+  "title": "Snsf Grants For Eth Researchers",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH researchers André Studart and Jonathan Home have each received a SNFS Consolidator Grant from the Swiss National Science Foundation worth up to CHF 2 million for their five-year projects.\n\nAndré Studart has been an associate professor for complex materials at the Department of Material Science at ETH since 2014. The grant was awarded for his project, 3D Printing of Heterogeneous Bioinspired Composites. For his project, Studart is seeking to harness the power of 3D printing technology to examine and create synthetic materials that resemble the rich architectures of their biological counterparts, such as bone, enamel or mother of pearl. The research is intended to lead to innovative composites that are more durable than existing materials and that can be applied to areas such as reconstructive surgery, dentistry or in flexible electronic components.\n\nThe second grant recipient, Jonathan Home, has been assistant professor of quantum optics and photonics at the Department of Physics since autumn 2010. With his project, Quantum Simulations with Trapped Ions in Optical Lattices, Home wants to perform quantum simulations of many-body systems using ions trapped on a special two-dimensional array. By controlling the interactions between these atoms using laser pulses, the physicist and his team are able to investigate the basic structures of quantum mechanics and their effects on collective systems on a larger scale. Home hopes to gain a deeper insight into many-body quantum physics for situations that are currently not computable on any classical computer.\n\nAltogether, 111 researchers competed for a Consolidator Grant, of which 21 were successful. The most strongly represented institutes were the EPFL with 16 applications and the Universities of Geneva (14) and Zurich (19). Seven grants were awarded to the EPFL, four to the University of Zurich and three to University of Geneva. ETH Zurich submitted seven applications.\n\nThe SNSF Starting and Consolidator Grants are bridging the gap in financing that was created as a result of Switzerland's mass immigration initiative. The Swiss public voted for this initiative in February 2014, which led to a partial exclusion by the EU of Switzerland from its Horizon 2020 funding program. Researchers in Switzerland were no longer able to apply for the prestigious ERC Grants. In response, the SNFS launched the Starting and Consolidator Grants as a transitional measure, which has been concluded with the awarding of the grants. Although the European Research Council (ERC) agreed to allow researchers in Switzerland to apply for grants again from 15 September 2014, this agreement is only valid until the end of 2016."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Grants For Eth Researchers",
+        "label": "WORK_OF_ART",
+        "start": 28,
+        "end": 54
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "André Studart",
+        "label": "PERSON",
+        "start": 16,
+        "end": 29
+      },
+      {
+        "text": "Jonathan Home",
+        "label": "PERSON",
+        "start": 34,
+        "end": 47
+      },
+      {
+        "text": "the Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 98,
+        "end": 135
+      },
+      {
+        "text": "2 million",
+        "label": "CARDINAL",
+        "start": 152,
+        "end": 161
+      },
+      {
+        "text": "five-year",
+        "label": "DATE",
+        "start": 172,
+        "end": 181
+      },
+      {
+        "text": "André Studart",
+        "label": "PERSON",
+        "start": 192,
+        "end": 205
+      },
+      {
+        "text": "the Department of Material Science at ETH",
+        "label": "ORG",
+        "start": 263,
+        "end": 304
+      },
+      {
+        "text": "3D Printing of Heterogeneous Bioinspired Composites",
+        "label": "ORG",
+        "start": 356,
+        "end": 407
+      },
+      {
+        "text": "Studart",
+        "label": "PERSON",
+        "start": 426,
+        "end": 433
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 867,
+        "end": 873
+      },
+      {
+        "text": "Jonathan Home",
+        "label": "PERSON",
+        "start": 891,
+        "end": 904
+      },
+      {
+        "text": "the Department of Physics",
+        "label": "ORG",
+        "start": 970,
+        "end": 995
+      },
+      {
+        "text": "autumn 2010",
+        "label": "DATE",
+        "start": 1002,
+        "end": 1013
+      },
+      {
+        "text": "Quantum Simulations",
+        "label": "ORG",
+        "start": 1033,
+        "end": 1052
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1187,
+        "end": 1190
+      },
+      {
+        "text": "the Universities of Geneva",
+        "label": "ORG",
+        "start": 1749,
+        "end": 1775
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1785,
+        "end": 1791
+      },
+      {
+        "text": "Seven",
+        "label": "CARDINAL",
+        "start": 1798,
+        "end": 1803
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 1831,
+        "end": 1835
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 1837,
+        "end": 1841
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 1845,
+        "end": 1869
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1874,
+        "end": 1879
+      },
+      {
+        "text": "University of Geneva",
+        "label": "ORG",
+        "start": 1883,
+        "end": 1903
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1905,
+        "end": 1915
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 1926,
+        "end": 1931
+      },
+      {
+        "text": "Consolidator Grants",
+        "label": "PERSON",
+        "start": 1968,
+        "end": 1987
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2054,
+        "end": 2065
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 2101,
+        "end": 2106
+      },
+      {
+        "text": "February 2014",
+        "label": "DATE",
+        "start": 2143,
+        "end": 2156
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 2198,
+        "end": 2200
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2204,
+        "end": 2215
+      },
+      {
+        "text": "Horizon 2020",
+        "label": "PRODUCT",
+        "start": 2225,
+        "end": 2237
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2270,
+        "end": 2281
+      },
+      {
+        "text": "ERC Grants",
+        "label": "PERSON",
+        "start": 2331,
+        "end": 2341
+      },
+      {
+        "text": "SNFS",
+        "label": "ORG",
+        "start": 2360,
+        "end": 2364
+      },
+      {
+        "text": "Starting",
+        "label": "WORK_OF_ART",
+        "start": 2378,
+        "end": 2386
+      },
+      {
+        "text": "Consolidator Grants",
+        "label": "PERSON",
+        "start": 2391,
+        "end": 2410
+      },
+      {
+        "text": "the European Research Council",
+        "label": "ORG",
+        "start": 2505,
+        "end": 2534
+      },
+      {
+        "text": "ERC",
+        "label": "ORG",
+        "start": 2536,
+        "end": 2539
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2572,
+        "end": 2583
+      },
+      {
+        "text": "15 September 2014",
+        "label": "DATE",
+        "start": 2615,
+        "end": 2632
+      },
+      {
+        "text": "the end of 2016",
+        "label": "DATE",
+        "start": 2669,
+        "end": 2684
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "André Studart",
+        "Consolidator Grants",
+        "ERC Grants",
+        "Jonathan Home",
+        "Studart"
+      ],
+      "ORG": [
+        "3D Printing of Heterogeneous Bioinspired Composites",
+        "EPFL",
+        "ERC",
+        "ETH",
+        "ETH Zurich",
+        "EU",
+        "Quantum Simulations",
+        "SNFS",
+        "University of Geneva",
+        "the Department of Material Science at ETH",
+        "the Department of Physics",
+        "the European Research Council",
+        "the Swiss National Science Foundation",
+        "the Universities of Geneva",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "15 September 2014",
+        "February 2014",
+        "autumn 2010",
+        "five-year",
+        "the end of 2016"
+      ],
+      "MISC": [
+        "2 million",
+        "Grants For Eth Researchers",
+        "Horizon 2020",
+        "Seven",
+        "Starting",
+        "Swiss",
+        "four",
+        "second",
+        "seven",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 4,
+      "André Studart": 2,
+      "Jonathan Home": 2,
+      "Consolidator Grants": 2,
+      "Grants For Eth Researchers": 1,
+      "ETH": 1,
+      "the Swiss National Science Foundation": 1,
+      "2 million": 1,
+      "five-year": 1,
+      "the Department of Material Science at ETH": 1,
+      "3D Printing of Heterogeneous Bioinspired Composites": 1,
+      "Studart": 1,
+      "second": 1,
+      "the Department of Physics": 1,
+      "autumn 2010": 1,
+      "Quantum Simulations": 1,
+      "two": 1,
+      "the Universities of Geneva": 1,
+      "Zurich": 1,
+      "Seven": 1
+    },
+    "total_entities": 44,
+    "unique_entities": 38
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "SNSF-grants-for-ETH-researchers.md",
+      "title": "En News Events/2015/02/snsf Grants For Eth Researchers",
+      "language": "en",
+      "source_path": "en_news_events/2015/02/SNSF-grants-for-ETH-researchers.html"
+    },
+    "temporal": {
+      "publication_date": "2015-02",
+      "mentioned_years": [
+        "2010",
+        "2014",
+        "2015",
+        "2016",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "André Studart",
+        "Consolidator Grants",
+        "ERC Grants",
+        "Jonathan Home",
+        "Studart"
+      ],
+      "people_with_roles": {
+        "André Studart": [
+          "researcher",
+          "professor"
+        ],
+        "ERC Grants": [
+          "researcher"
+        ],
+        "Jonathan Home": [
+          "researcher",
+          "professor"
+        ],
+        "Studart": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "2 million",
+        "Grants For Eth Researchers",
+        "Horizon 2020",
+        "Seven",
+        "Starting",
+        "Swiss",
+        "four",
+        "second",
+        "seven",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "SNF",
+        "EU",
+        "Horizon",
+        "grant",
+        "funding"
+      ],
+      "projects": [
+        "Optical Lattices",
+        "ERC Grants",
+        "The Swiss",
+        "Trapped Ions",
+        "Eth Researchers",
+        "Consolidator Grants",
+        "European Research",
+        "Swiss National",
+        "Quantum Simulations",
+        "The SNSF",
+        "Grants For",
+        "Material Science",
+        "SNFS Consolidator",
+        "Science Foundation",
+        "En News",
+        "Consolidator Grant",
+        "ETH Zurich",
+        "Heterogeneous Bioinspired",
+        "Jonathan Home"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Material Science at ETH since ",
+        "Physics since autumn "
+      ],
+      "institutions": [
+        "3D Printing of Heterogeneous Bioinspired Composites",
+        "EPFL",
+        "ERC",
+        "ETH",
+        "ETH Zurich",
+        "EU",
+        "Quantum Simulations",
+        "SNFS",
+        "University of Geneva",
+        "the Department of Material Science at ETH",
+        "the Department of Physics",
+        "the European Research Council",
+        "the Swiss National Science Foundation",
+        "the Universities of Geneva",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": [
+        "program",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "André Studart",
+        "Jonathan Home",
+        "Consolidator Grants",
+        "Grants For Eth Researchers",
+        "ETH",
+        "the Swiss National Science Foundation",
+        "2 million",
+        "five-year",
+        "the Department of Material Science at ETH"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2744
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EPFL",
+        "ETH",
+        "Studart",
+        "grant",
+        "the Department of Physics",
+        "SNF",
+        "2020",
+        "ERC Grants",
+        "the University of Zurich",
+        "2016",
+        "ERC",
+        "Consolidator Grants",
+        "the Swiss National Science Foundation",
+        "3D Printing of Heterogeneous Bioinspired Composites",
+        "Quantum Simulations",
+        "funding",
+        "2014",
+        "SNFS",
+        "2015",
+        "the Department of Material Science at ETH",
+        "André Studart",
+        "EU",
+        "University of Geneva",
+        "2010",
+        "the European Research Council",
+        "the Universities of Geneva",
+        "ETH Zurich",
+        "Horizon",
+        "Jonathan Home"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "seven",
+        "three",
+        "four",
+        "who",
+        "Horizon 2020",
+        "2 million",
+        "Grants For Eth Researchers",
+        "Swiss",
+        "where",
+        "Seven",
+        "second",
+        "what",
+        "Starting",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "André Studart_has_role_researcher",
+        "André Studart_has_role_professor",
+        "ERC Grants_has_role_researcher",
+        "Jonathan Home_has_role_researcher",
+        "Jonathan Home_has_role_professor",
+        "Studart_has_role_researcher",
+        "Studart_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

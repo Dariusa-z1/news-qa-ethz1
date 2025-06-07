@@ -1,0 +1,573 @@
+{
+  "filename": "kraftwerk-vor-dem-fenster.md",
+  "original_filename": "kraftwerk-vor-dem-fenster.html",
+  "source_path": "en_news_events/2019/08/kraftwerk-vor-dem-fenster.html",
+  "date": "2019-08",
+  "title": "Kraftwerk Vor Dem Fenster",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Positive energy balance",
+      "text": "Heating or cooling internal spaces requires energy. More intelligent building façades could save much of that energy. A system developed at ETH Zurich uses movable solar panels to generate electricity while at the same time allowing the right amount of sunshine or shade to suit weather conditions and internal use."
+    },
+    {
+      "heading": "Positive energy balance",
+      "text": "Arno Schlüter, Professor of Architecture and Building Systems, and his research group have developed an adaptive solar façade system that regulates individual rooms such that they produce more energy than they consume over the course of the year. They have just reported their findings in a recent edition of the journal Nature Energy. The innovative façade comprises arrays of movable solar panels mounted on a network of lightweight steel cables. These are controlled individually and moved vertically and horizontally by a soft robotic element. These soft robotic actuators are the heart of the system: the combination of soft materials that change their shape under pressure and a rigid U-shaped joint allow them to lock into place to withstand harsh weather – even storms."
+    },
+    {
+      "heading": "Biggest potential in temperate zones",
+      "text": "Researchers have tested the system’s weather endurance and performed measurements with several prototypes on the Hönggerberg Campus. They found that the movable solar panels harvest around 50 percent more energy on a clear summer’s day than static solar panels mounted on a building façade."
+    },
+    {
+      "heading": "Savings potential simulated",
+      "text": "However, the façade not only generates electricity, but can also regulate how much light and heat permeate the building envelope, thus regulating the internal climate. An adaptive learning algorithm controls the movement of the panels so that the savings made in heating and cooling internal spaces lowers the net energy demand. At the same time, the algorithm also takes into consideration how the building’s current use and adjusts the climate accordingly.\n\nTo determine the degree to which a room’s energy consumption could theoretically be reduced, the researchers simulated several scenarios using data from prototypes. They calculated the energy-saving potential of building envelopes fitted with movable solar façades in Cairo, Zurich and Helsinki. In doing so they ran simulations for spaces in both office and residential use."
+    },
+    {
+      "heading": "Biggest potential in temperate zones",
+      "text": "The results show that energy savings tend to be higher in offices than in living spaces, in warm rather than in cold climates, and above all in temperate zones such as Central Europe. Arno Schlüter sums up the findings: “The more variable the ambient conditions, the greater the benefits of the adaptive façade”.\n\nThe best energy balance was seen in the simulations for office space in a temperate zone (in this case Zurich) in buildings constructed to the latest standard. In this scenario, where both interior heating and cooling were required over the course of the year, the adaptive façade generated 115 percent of the energy required for a comfortable room environment.\n\nAn equally good result came from the simulation for an office space in a house in Cairo constructed before 1920, which required much more shade and cooling. In this case, the façade produced 114 percent of the total annual energy requirement. In other words, the study highlights the energy savings potential for both new and old buildings, but the façade must always be considered in conjunction with the interior space and its use.\n\n“We would like to resolve the trade-off between user comfort and energy efficiency in buildings,” Arno Schlüter says. “In theory, the most energy-efficient space would have no windows. We are therefore glad to demonstrate how an intelligent interface between the interior and exterior of a building can provide optimal user comfort and also generate excess energy.”\n\nProfessor Schlüter’s group will soon be able to measure the impact of the adaptive solar façade on a physical building: the system is part of the futuristic “HiLo” unit currently being constructed on the topmost platform of the NEST research building in Dübendorf (see box).\n\nHiLo is a is a research and innovation platform for NEST. This modular building is a flagship project of the Swiss Federal Laboratories for Materials Science and Technology (Empa) and the Swiss Federal Institute of Aquatic Science and Technology (Eawag). It provides a platform for researchers and industry partners to test new building and energy technologies under real conditions. NEST comprises the central building core onto which different building modules or units can be docked. “HiLo” is short for “High Performance, Low Energy”. Numerous sensors, heat-regulating floors and ceilings and the adaptive solar façade are designed to ensure that the building produces more energy than it consumes overall. The digitally optimised lightweight construction saves on building materials and thus on grey energy as well. Building work for the project started in July at the NEST research platform in Dübendorf. ETH professors Philippe Block and Arno Schlüter are carrying out the project in collaboration with numerous industry partners.\n\nSvetozarevic B, Begle M, Jayathissa P, Caranovic S, Shepherd RF, Nagy Z, Hischier I, Hofer J & Schlueter A: Dynamic photovoltaic building envelopes for adaptive energy and comfort management. Nature Energy 4, pages 671–682, 2019. Doi: 10.1038/s41560-019-0424-0"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "kraftwerk Vor dem Fenster",
+        "label": "PERSON",
+        "start": 23,
+        "end": 48
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 140,
+        "end": 150
+      },
+      {
+        "text": "Arno Schlüter",
+        "label": "ORG",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Architecture and Building Systems",
+        "label": "ORG",
+        "start": 28,
+        "end": 61
+      },
+      {
+        "text": "the year",
+        "label": "DATE",
+        "start": 237,
+        "end": 245
+      },
+      {
+        "text": "Nature Energy",
+        "label": "WORK_OF_ART",
+        "start": 321,
+        "end": 334
+      },
+      {
+        "text": "the Hönggerberg Campus",
+        "label": "FAC",
+        "start": 109,
+        "end": 131
+      },
+      {
+        "text": "around 50 percent",
+        "label": "PERCENT",
+        "start": 182,
+        "end": 199
+      },
+      {
+        "text": "Cairo",
+        "label": "GPE",
+        "start": 727,
+        "end": 732
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 734,
+        "end": 740
+      },
+      {
+        "text": "Helsinki",
+        "label": "GPE",
+        "start": 745,
+        "end": 753
+      },
+      {
+        "text": "Central Europe",
+        "label": "LOC",
+        "start": 168,
+        "end": 182
+      },
+      {
+        "text": "Arno Schlüter",
+        "label": "ORG",
+        "start": 184,
+        "end": 197
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 416,
+        "end": 422
+      },
+      {
+        "text": "the year",
+        "label": "DATE",
+        "start": 564,
+        "end": 572
+      },
+      {
+        "text": "115 percent",
+        "label": "PERCENT",
+        "start": 604,
+        "end": 615
+      },
+      {
+        "text": "Cairo",
+        "label": "GPE",
+        "start": 757,
+        "end": 762
+      },
+      {
+        "text": "114 percent",
+        "label": "PERCENT",
+        "start": 866,
+        "end": 877
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 891,
+        "end": 897
+      },
+      {
+        "text": "user comfort",
+        "label": "PRODUCT",
+        "start": 1157,
+        "end": 1169
+      },
+      {
+        "text": "Arno Schlüter",
+        "label": "ORG",
+        "start": 1207,
+        "end": 1220
+      },
+      {
+        "text": "Schlüter’s",
+        "label": "PERSON",
+        "start": 1485,
+        "end": 1495
+      },
+      {
+        "text": "HiLo",
+        "label": "WORK_OF_ART",
+        "start": 1633,
+        "end": 1637
+      },
+      {
+        "text": "NEST",
+        "label": "ORG",
+        "start": 1703,
+        "end": 1707
+      },
+      {
+        "text": "Dübendorf",
+        "label": "ORG",
+        "start": 1729,
+        "end": 1738
+      },
+      {
+        "text": "HiLo",
+        "label": "ORG",
+        "start": 1750,
+        "end": 1754
+      },
+      {
+        "text": "NEST",
+        "label": "ORG",
+        "start": 1802,
+        "end": 1806
+      },
+      {
+        "text": "the Swiss Federal Laboratories for Materials Science and Technology (Empa",
+        "label": "ORG",
+        "start": 1855,
+        "end": 1928
+      },
+      {
+        "text": "the Swiss Federal Institute of Aquatic Science and Technology",
+        "label": "ORG",
+        "start": 1934,
+        "end": 1995
+      },
+      {
+        "text": "NEST",
+        "label": "ORG",
+        "start": 2134,
+        "end": 2138
+      },
+      {
+        "text": "HiLo",
+        "label": "WORK_OF_ART",
+        "start": 2238,
+        "end": 2242
+      },
+      {
+        "text": "High Performance",
+        "label": "WORK_OF_ART",
+        "start": 2258,
+        "end": 2274
+      },
+      {
+        "text": "grey energy",
+        "label": "ORG",
+        "start": 2550,
+        "end": 2561
+      },
+      {
+        "text": "July",
+        "label": "DATE",
+        "start": 2612,
+        "end": 2616
+      },
+      {
+        "text": "NEST",
+        "label": "ORG",
+        "start": 2624,
+        "end": 2628
+      },
+      {
+        "text": "Dübendorf",
+        "label": "ORG",
+        "start": 2650,
+        "end": 2659
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2661,
+        "end": 2664
+      },
+      {
+        "text": "Philippe Block",
+        "label": "PERSON",
+        "start": 2676,
+        "end": 2690
+      },
+      {
+        "text": "Arno Schlüter",
+        "label": "ORG",
+        "start": 2695,
+        "end": 2708
+      },
+      {
+        "text": "Svetozarevic B",
+        "label": "PERSON",
+        "start": 2788,
+        "end": 2802
+      },
+      {
+        "text": "Jayathissa P",
+        "label": "PERSON",
+        "start": 2813,
+        "end": 2825
+      },
+      {
+        "text": "Caranovic S",
+        "label": "PERSON",
+        "start": 2827,
+        "end": 2838
+      },
+      {
+        "text": "Nagy Z",
+        "label": "ORG",
+        "start": 2853,
+        "end": 2859
+      },
+      {
+        "text": "Nature Energy 4",
+        "label": "PRODUCT",
+        "start": 2980,
+        "end": 2995
+      },
+      {
+        "text": "671–682, 2019",
+        "label": "DATE",
+        "start": 3003,
+        "end": 3016
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 3023,
+        "end": 3030
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Caranovic S",
+        "Jayathissa P",
+        "Philippe Block",
+        "Schlüter’s",
+        "Svetozarevic B",
+        "kraftwerk Vor dem Fenster"
+      ],
+      "ORG": [
+        "Architecture and Building Systems",
+        "Arno Schlüter",
+        "Dübendorf",
+        "ETH",
+        "ETH Zurich",
+        "HiLo",
+        "NEST",
+        "Nagy Z",
+        "grey energy",
+        "the Swiss Federal Institute of Aquatic Science and Technology",
+        "the Swiss Federal Laboratories for Materials Science and Technology (Empa"
+      ],
+      "LOCATION": [
+        "Cairo",
+        "Central Europe",
+        "Helsinki",
+        "Zurich",
+        "the Hönggerberg Campus"
+      ],
+      "DATE": [
+        "671–682, 2019",
+        "July",
+        "annual",
+        "the year"
+      ],
+      "MISC": [
+        "10.1038",
+        "114 percent",
+        "115 percent",
+        "HiLo",
+        "High Performance",
+        "Nature Energy",
+        "Nature Energy 4",
+        "around 50 percent",
+        "user comfort"
+      ]
+    },
+    "entity_counts": {
+      "Arno Schlüter": 4,
+      "NEST": 4,
+      "HiLo": 3,
+      "the year": 2,
+      "Cairo": 2,
+      "Zurich": 2,
+      "Dübendorf": 2,
+      "kraftwerk Vor dem Fenster": 1,
+      "ETH Zurich": 1,
+      "Architecture and Building Systems": 1,
+      "Nature Energy": 1,
+      "the Hönggerberg Campus": 1,
+      "around 50 percent": 1,
+      "Helsinki": 1,
+      "Central Europe": 1,
+      "115 percent": 1,
+      "114 percent": 1,
+      "annual": 1,
+      "user comfort": 1,
+      "Schlüter’s": 1
+    },
+    "total_entities": 46,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "kraftwerk-vor-dem-fenster.md",
+      "title": "En News Events/2019/08/kraftwerk Vor dem Fenster",
+      "language": "en",
+      "source_path": "en_news_events/2019/08/kraftwerk-vor-dem-fenster.html"
+    },
+    "temporal": {
+      "publication_date": "2019-08",
+      "mentioned_years": [
+        "1920",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Caranovic S",
+        "Jayathissa P",
+        "Philippe Block",
+        "Schlüter’s",
+        "Svetozarevic B",
+        "kraftwerk Vor dem Fenster"
+      ],
+      "people_with_roles": {
+        "Philippe Block": [
+          "professor"
+        ],
+        "Schlüter’s": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1038",
+        "114 percent",
+        "115 percent",
+        "HiLo",
+        "High Performance",
+        "Nature Energy",
+        "Nature Energy 4",
+        "around 50 percent",
+        "user comfort"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "Horizon"
+      ],
+      "projects": [
+        "Shepherd RF",
+        "Nature Energy",
+        "Low Energy",
+        "Philippe Block",
+        "Begle M",
+        "Nagy Z",
+        "Central Europe",
+        "Caranovic S",
+        "Materials Science",
+        "Svetozarevic B",
+        "Building Systems",
+        "Hischier I",
+        "Jayathissa P",
+        "Swiss Federal",
+        "Aquatic Science",
+        "Fenster Heating",
+        "En News",
+        "Schlueter A",
+        "ETH Zurich",
+        "High Performance",
+        "Hofer J"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Architecture and Building Systems",
+        "Arno Schlüter",
+        "Dübendorf",
+        "ETH",
+        "ETH Zurich",
+        "HiLo",
+        "NEST",
+        "Nagy Z",
+        "grey energy",
+        "the Swiss Federal Institute of Aquatic Science and Technology",
+        "the Swiss Federal Laboratories for Materials Science and Technology (Empa"
+      ],
+      "locations": [
+        "Cairo",
+        "Central Europe",
+        "Helsinki",
+        "Zurich",
+        "the Hönggerberg Campus"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Arno Schlüter",
+        "NEST",
+        "HiLo",
+        "the year",
+        "Cairo",
+        "Zurich",
+        "Dübendorf",
+        "kraftwerk Vor dem Fenster",
+        "ETH Zurich",
+        "Architecture and Building Systems"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Positive energy balance",
+          "Positive energy balance",
+          "Biggest potential in temperate zones",
+          "Savings potential simulated",
+          "Biggest potential in temperate zones"
+        ],
+        "content_length": 5324
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "NEST",
+        "Schlüter’s",
+        "Philippe Block",
+        "Arno Schlüter",
+        "Nagy Z",
+        "ERC",
+        "HiLo",
+        "Architecture and Building Systems",
+        "Caranovic S",
+        "grey energy",
+        "2019",
+        "Svetozarevic B",
+        "1920",
+        "EU",
+        "Jayathissa P",
+        "the Swiss Federal Laboratories for Materials Science and Technology (Empa",
+        "the Swiss Federal Institute of Aquatic Science and Technology",
+        "Dübendorf",
+        "kraftwerk Vor dem Fenster",
+        "ETH Zurich",
+        "Horizon"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "user comfort",
+        "who",
+        "Nature Energy",
+        "10.1038",
+        "115 percent",
+        "Nature Energy 4",
+        "around 50 percent",
+        "where",
+        "what",
+        "how",
+        "High Performance",
+        "engineering",
+        "when",
+        "114 percent",
+        "HiLo"
+      ],
+      "graph_relations": [
+        "Philippe Block_has_role_professor",
+        "Schlüter’s_has_role_Professor",
+        "Schlüter’s_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

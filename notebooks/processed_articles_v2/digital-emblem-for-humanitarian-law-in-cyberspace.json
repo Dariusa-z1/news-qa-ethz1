@@ -1,0 +1,870 @@
+{
+  "filename": "digital-emblem-for-humanitarian-law-in-cyberspace.md",
+  "original_filename": "digital-emblem-for-humanitarian-law-in-cyberspace.html",
+  "source_path": "en_news_events/2023/11/digital-emblem-for-humanitarian-law-in-cyberspace.html",
+  "date": "2023-11",
+  "title": "Digital Emblem For Humanitarian Law In Cyberspace",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- Cyberattacks on critical digital infrastructure not only cause financial and logistical damage. They can also have catastrophic humanitarian consequences, for example in hospitals.\n\n- Together with the International Committee of the Red Cross (ICRC), ETH Zurich computer scientists have developed a protective emblem that can be easily and cost-effectively integrated into existing digital systems worldwide.\n\n- This \"Authentic Digital Emblem\" (ADEM) meets various security requirements and is also effective against automated cyberattacks. The emblem indicates that a digital infrastructure is entitled to protection. However, legal implementation remains a major challenge."
+    },
+    {
+      "heading": "Trusted emblem for protection against attacks",
+      "text": "Ransomware attacks can paralyse organisations or entire countries by hacking into a network and encrypting critical data. The attackers then demand a ransom; if their demands aren’t met, the data will not be decrypted and may be lost forever. Depending on the given situation, the financial and logistical damage can be enormous. In January 2022, the International Committee of the Red Cross (ICRC) was the victim of a cyberattack. Data belonging to more than 500,000 people around the world was stored on the affected servers. This included data on people who needed special protection, such as missing persons, refugees from war zones and prisoners. “The ICRC’s digital infrastructure has grown considerably in recent years – and so has the number of cyberattacks on our systems,” says Mauro Vignati, Adviser Digital Technologies of Warfare at the ICRC. Particularly during wars and armed conflicts, such cyberattacks could also have catastrophic humanitarian consequences, for example if the digital infrastructure of a hospital is paralysed by the enemy."
+    },
+    {
+      "heading": "Trusted emblem for protection against attacks",
+      "text": "For conflicts beyond cyberspace, the ICRC has employed protective emblems since the Geneva Conventions of 1949, the core of international humanitarian law. The red cross, red crescent and red crystal provide protection for hospitals, vehicles and employees of organisations in the International Red Cross and Red Crescent Movement network (including the ICRC). Today, the network has over 80 million members who are active in 192 countries. As a matter of principle, bearers of these emblems are protected by international humanitarian law, especially in conflicts. Warring parties are not allowed to attack them. “That’s why we’ve been wondering for some time whether we could also develop an emblem to protect our digital infrastructure,” Vignati says. Such a system would have to fulfil a number of requirements: “It should be easy and cost-effective to integrate into existing digital systems worldwide and easy to maintain. It would also have to bridge linguistic, technological and cultural differences.” What’s more, the emblem ought to be as flexible as possible. In certain situations, it’s important for ICRC staff to mask the emblem, Vignati says."
+    },
+    {
+      "heading": "Hackers remain undetected",
+      "text": "Three years ago, the ICRC contacted the Centre for Cyber Trust, a research collaboration between ETH Zurich and the University of Bonn in the field of cybersecurity, with this idea of establishing a digital emblem. One of the people working on this since then is Felix Linker, who is currently writing his doctoral thesis in the group led by David Basin, Professor of Information Security at the Department of Computer Science at ETH Zurich. “A digital emblem has a unique combination of security requirements, namely authenticity, accountability and a property that we call covert inspection,” Linker says. The Authentic Digital EMblem (ADEM), which he has developed together with Basin, is based on the web PKI and CT ecosystem (Web PKI and CT stand for Web Public Key Infrastructure and Certificate Transparency). “We rely on existing best practices on the internet. What makes our work innovative is how we’ve combined different solutions to meet the technical requirements,” Linker says. In an article recently published in the Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security , Linker and Basin describe in detail for the first time how ADEM works."
+    },
+    {
+      "heading": "Machine-readable and decentralised",
+      "text": "The emblem they have developed is cryptographically secured using a digital signature – a long sequence of bits that can be read by a program developed for this purpose. This makes it possible to retrieve information about the owner, the IP or domain worthy of protection, as well as the publisher of the emblem. “It’s important that the emblem can be read by machines, because most cyberattacks today are automated,” Linker says. In other words, hacker software needs to automatically load and read the emblem, so it can recognise that it is accessing a system belonging to an organisation that is protected by international humanitarian law. And that needs to happen during the software’s first reconnaissance, before it does any damage to the system.\n\nAnother key requirement is for the digital emblem to be managed in a decentralised way rather than by a central authority. States that are committed to international humanitarian law should be able to verify that a certain digital infrastructure on their territory is entitled to protection and therefore bears an emblem. To this end, ADEM is based on an open standard, so governments can adapt the emblem’s implementation as flexibly as possible to their own requirements."
+    },
+    {
+      "heading": "Hackers remain undetected",
+      "text": "Potential attacks on servers and networks can come from hacker groups, but also from states during a war. These want to remain undetected at all costs. “That’s why attackers must be able to view the emblem without either the protected institution or the issuer of the digital signature being able to tell that the emblem has been looked at.” Only then will potential attackers be prepared to have their systems run the scanner for detecting the emblem. “Standard internet authentication protocols aren’t suitable for this because they require interaction between the two parties involved,” Linker says. “That attracts attention, which means it won’t work in a conflict.” He managed to come up with a combination of suitable internet protocols (UDP, TLS and DNS) to mask the distribution of the emblem.\n\nLinker has now evaluated the system in a security analysis under a comprehensive threat model. His evaluation shows that the digital emblem cannot be misused by attackers and acts as a security guarantee. He says that this provides proof of concept. He is now developing the first prototypes further, while colleagues from the Centre for Cyber Trust in Bonn will conduct interviews with hackers to find out how willing people are to respect such an emblem. After all, only then will they bother to run a program that can recognise emblems. But this is something Linker is confident about: in the past, hackers have been known to avoid humanitarian targets on occasion, “for ethical reasons or simply to avoid attracting too much attention.”\n\nVignati from the ICRC is satisfied: “ADEM fulfils all our original requirements for a digital emblem.” The main task now is to further optimise the emblem’s visibility to potential attackers. However, it will probably be several years before the digital emblem actually starts helping to protect the ICRC’s critical digital infrastructure and hospitals in war zones. “The legal implementation is very challenging,” Vignati says. Implementing the emblem in the legal framework calls for adjustments to the Geneva Conventions: “Either through a new additional protocol or through an addition to the existing protocols.” The ICRC plans to showcase ADEM, along with another system designed at John Hopkins University, at an international humanitarian law conference to be held in October 2024. It will also present legal pathways for bringing the digital emblem into operation. “That would be an important first step in strengthening humanitarian protection in cyberspace,” Vignati says.\n\nLinker, F, Basin, D. ADEM: An Authentic Digital EMblem. CCS ’23: Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security. November 2023. Pages 2815–2829. Published: 21 November 2023. DOI: 10.1145/3576915.3616578"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Humanitarian Law",
+        "label": "PERSON",
+        "start": 42,
+        "end": 58
+      },
+      {
+        "text": "Cyberspace",
+        "label": "GPE",
+        "start": 62,
+        "end": 72
+      },
+      {
+        "text": "the International Committee of the Red Cross",
+        "label": "ORG",
+        "start": 199,
+        "end": 243
+      },
+      {
+        "text": "ICRC",
+        "label": "ORG",
+        "start": 245,
+        "end": 249
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 252,
+        "end": 262
+      },
+      {
+        "text": "Ransomware",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "January 2022",
+        "label": "DATE",
+        "start": 333,
+        "end": 345
+      },
+      {
+        "text": "the International Committee of the Red Cross",
+        "label": "ORG",
+        "start": 347,
+        "end": 391
+      },
+      {
+        "text": "ICRC",
+        "label": "ORG",
+        "start": 393,
+        "end": 397
+      },
+      {
+        "text": "more than 500,000",
+        "label": "CARDINAL",
+        "start": 450,
+        "end": 467
+      },
+      {
+        "text": "ICRC",
+        "label": "ORG",
+        "start": 657,
+        "end": 661
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 713,
+        "end": 725
+      },
+      {
+        "text": "Mauro Vignati",
+        "label": "PERSON",
+        "start": 788,
+        "end": 801
+      },
+      {
+        "text": "Digital Technologies of Warfare",
+        "label": "ORG",
+        "start": 811,
+        "end": 842
+      },
+      {
+        "text": "ICRC",
+        "label": "ORG",
+        "start": 850,
+        "end": 854
+      },
+      {
+        "text": "ICRC",
+        "label": "ORG",
+        "start": 37,
+        "end": 41
+      },
+      {
+        "text": "the Geneva Conventions",
+        "label": "LAW",
+        "start": 80,
+        "end": 102
+      },
+      {
+        "text": "The red cross",
+        "label": "ORG",
+        "start": 156,
+        "end": 169
+      },
+      {
+        "text": "red crescent",
+        "label": "ORG",
+        "start": 171,
+        "end": 183
+      },
+      {
+        "text": "the International Red Cross",
+        "label": "ORG",
+        "start": 277,
+        "end": 304
+      },
+      {
+        "text": "Red Crescent Movement",
+        "label": "ORG",
+        "start": 309,
+        "end": 330
+      },
+      {
+        "text": "ICRC",
+        "label": "ORG",
+        "start": 354,
+        "end": 358
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 361,
+        "end": 366
+      },
+      {
+        "text": "80 million",
+        "label": "CARDINAL",
+        "start": 389,
+        "end": 399
+      },
+      {
+        "text": "Vignati",
+        "label": "PERSON",
+        "start": 741,
+        "end": 748
+      },
+      {
+        "text": "ICRC",
+        "label": "ORG",
+        "start": 1114,
+        "end": 1118
+      },
+      {
+        "text": "Vignati",
+        "label": "ORG",
+        "start": 1145,
+        "end": 1152
+      },
+      {
+        "text": "Three years ago",
+        "label": "DATE",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "ICRC",
+        "label": "ORG",
+        "start": 21,
+        "end": 25
+      },
+      {
+        "text": "the Centre for Cyber Trust",
+        "label": "FAC",
+        "start": 36,
+        "end": 62
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 97,
+        "end": 107
+      },
+      {
+        "text": "the University of Bonn",
+        "label": "ORG",
+        "start": 112,
+        "end": 134
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 215,
+        "end": 218
+      },
+      {
+        "text": "Felix Linker",
+        "label": "PERSON",
+        "start": 263,
+        "end": 275
+      },
+      {
+        "text": "David Basin",
+        "label": "PERSON",
+        "start": 342,
+        "end": 353
+      },
+      {
+        "text": "the Department of Computer Science",
+        "label": "ORG",
+        "start": 392,
+        "end": 426
+      },
+      {
+        "text": "Linker",
+        "label": "PERSON",
+        "start": 595,
+        "end": 601
+      },
+      {
+        "text": "The Authentic Digital EMblem",
+        "label": "ORG",
+        "start": 608,
+        "end": 636
+      },
+      {
+        "text": "Basin",
+        "label": "GPE",
+        "start": 682,
+        "end": 687
+      },
+      {
+        "text": "PKI",
+        "label": "ORG",
+        "start": 709,
+        "end": 712
+      },
+      {
+        "text": "CT",
+        "label": "ORG",
+        "start": 717,
+        "end": 719
+      },
+      {
+        "text": "PKI",
+        "label": "ORG",
+        "start": 735,
+        "end": 738
+      },
+      {
+        "text": "CT",
+        "label": "ORG",
+        "start": 743,
+        "end": 745
+      },
+      {
+        "text": "Web Public Key Infrastructure",
+        "label": "ORG",
+        "start": 756,
+        "end": 785
+      },
+      {
+        "text": "Linker",
+        "label": "PERSON",
+        "start": 980,
+        "end": 986
+      },
+      {
+        "text": "ACM SIGSAC Conference on Computer and Communications Security",
+        "label": "ORG",
+        "start": 1057,
+        "end": 1118
+      },
+      {
+        "text": "Linker",
+        "label": "PERSON",
+        "start": 1121,
+        "end": 1127
+      },
+      {
+        "text": "Basin",
+        "label": "GPE",
+        "start": 1132,
+        "end": 1137
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1165,
+        "end": 1170
+      },
+      {
+        "text": "ADEM",
+        "label": "PERSON",
+        "start": 1180,
+        "end": 1184
+      },
+      {
+        "text": "IP",
+        "label": "ORG",
+        "start": 238,
+        "end": 240
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 396,
+        "end": 401
+      },
+      {
+        "text": "Linker",
+        "label": "PERSON",
+        "start": 418,
+        "end": 424
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 691,
+        "end": 696
+      },
+      {
+        "text": "ADEM",
+        "label": "GPE",
+        "start": 1089,
+        "end": 1093
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 567,
+        "end": 570
+      },
+      {
+        "text": "Linker",
+        "label": "PERSON",
+        "start": 590,
+        "end": 596
+      },
+      {
+        "text": "TLS",
+        "label": "ORG",
+        "start": 749,
+        "end": 752
+      },
+      {
+        "text": "DNS",
+        "label": "ORG",
+        "start": 757,
+        "end": 760
+      },
+      {
+        "text": "Linker",
+        "label": "ORG",
+        "start": 802,
+        "end": 808
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1077,
+        "end": 1082
+      },
+      {
+        "text": "the Centre for Cyber Trust",
+        "label": "ORG",
+        "start": 1125,
+        "end": 1151
+      },
+      {
+        "text": "Bonn",
+        "label": "GPE",
+        "start": 1155,
+        "end": 1159
+      },
+      {
+        "text": "Linker",
+        "label": "PERSON",
+        "start": 1364,
+        "end": 1370
+      },
+      {
+        "text": "ICRC",
+        "label": "ORG",
+        "start": 1560,
+        "end": 1564
+      },
+      {
+        "text": "several years",
+        "label": "DATE",
+        "start": 1764,
+        "end": 1777
+      },
+      {
+        "text": "ICRC",
+        "label": "ORG",
+        "start": 1843,
+        "end": 1847
+      },
+      {
+        "text": "Vignati",
+        "label": "PERSON",
+        "start": 1958,
+        "end": 1965
+      },
+      {
+        "text": "the Geneva Conventions",
+        "label": "LAW",
+        "start": 2044,
+        "end": 2066
+      },
+      {
+        "text": "ICRC",
+        "label": "ORG",
+        "start": 2165,
+        "end": 2169
+      },
+      {
+        "text": "ADEM",
+        "label": "GPE",
+        "start": 2188,
+        "end": 2192
+      },
+      {
+        "text": "John Hopkins University",
+        "label": "ORG",
+        "start": 2232,
+        "end": 2255
+      },
+      {
+        "text": "October 2024",
+        "label": "DATE",
+        "start": 2319,
+        "end": 2331
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2445,
+        "end": 2450
+      },
+      {
+        "text": "Vignati",
+        "label": "PERSON",
+        "start": 2513,
+        "end": 2520
+      },
+      {
+        "text": "Linker",
+        "label": "ORG",
+        "start": 2527,
+        "end": 2533
+      },
+      {
+        "text": "Basin",
+        "label": "GPE",
+        "start": 2538,
+        "end": 2543
+      },
+      {
+        "text": "D.",
+        "label": "NORP",
+        "start": 2545,
+        "end": 2547
+      },
+      {
+        "text": "CCS",
+        "label": "ORG",
+        "start": 2583,
+        "end": 2586
+      },
+      {
+        "text": "ACM SIGSAC Conference on Computer and Communications Security",
+        "label": "ORG",
+        "start": 2616,
+        "end": 2677
+      },
+      {
+        "text": "November 2023",
+        "label": "DATE",
+        "start": 2679,
+        "end": 2692
+      },
+      {
+        "text": "2815–2829",
+        "label": "CARDINAL",
+        "start": 2700,
+        "end": 2709
+      },
+      {
+        "text": "21 November 2023",
+        "label": "DATE",
+        "start": 2722,
+        "end": 2738
+      },
+      {
+        "text": "10.1145/3576915.3616578",
+        "label": "CARDINAL",
+        "start": 2745,
+        "end": 2768
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ADEM",
+        "David Basin",
+        "ETH Zurich",
+        "Felix Linker",
+        "Humanitarian Law",
+        "Linker",
+        "Mauro Vignati",
+        "Vignati"
+      ],
+      "ORG": [
+        "ACM SIGSAC Conference on Computer and Communications Security",
+        "CCS",
+        "CT",
+        "DNS",
+        "Digital Technologies of Warfare",
+        "ICRC",
+        "IP",
+        "John Hopkins University",
+        "Linker",
+        "PKI",
+        "Ransomware",
+        "Red Crescent Movement",
+        "TLS",
+        "The Authentic Digital EMblem",
+        "The red cross",
+        "Vignati",
+        "Web Public Key Infrastructure",
+        "red crescent",
+        "the Centre for Cyber Trust",
+        "the Department of Computer Science",
+        "the International Committee of the Red Cross",
+        "the International Red Cross",
+        "the University of Bonn"
+      ],
+      "LOCATION": [
+        "ADEM",
+        "Basin",
+        "Bonn",
+        "Cyberspace",
+        "the Centre for Cyber Trust"
+      ],
+      "DATE": [
+        "21 November 2023",
+        "January 2022",
+        "November 2023",
+        "October 2024",
+        "Three years ago",
+        "Today",
+        "recent years",
+        "several years",
+        "today"
+      ],
+      "MISC": [
+        "10.1145/3576915.3616578",
+        "2815–2829",
+        "80 million",
+        "D.",
+        "One",
+        "first",
+        "more than 500,000",
+        "the Geneva Conventions",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ICRC": 11,
+      "Linker": 8,
+      "Vignati": 4,
+      "first": 4,
+      "Basin": 3,
+      "ADEM": 3,
+      "the International Committee of the Red Cross": 2,
+      "ETH Zurich": 2,
+      "the Geneva Conventions": 2,
+      "the Centre for Cyber Trust": 2,
+      "PKI": 2,
+      "CT": 2,
+      "ACM SIGSAC Conference on Computer and Communications Security": 2,
+      "Humanitarian Law": 1,
+      "Cyberspace": 1,
+      "Ransomware": 1,
+      "January 2022": 1,
+      "more than 500,000": 1,
+      "recent years": 1,
+      "Mauro Vignati": 1
+    },
+    "total_entities": 84,
+    "unique_entities": 50
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "digital-emblem-for-humanitarian-law-in-cyberspace.md",
+      "title": "En News Events/2023/11/digital Emblem For Humanitarian Law in Cyberspace",
+      "language": "en",
+      "source_path": "en_news_events/2023/11/digital-emblem-for-humanitarian-law-in-cyberspace.html"
+    },
+    "temporal": {
+      "publication_date": "2023-11",
+      "mentioned_years": [
+        "1949",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ADEM",
+        "David Basin",
+        "ETH Zurich",
+        "Felix Linker",
+        "Humanitarian Law",
+        "Linker",
+        "Mauro Vignati",
+        "Vignati"
+      ],
+      "people_with_roles": {
+        "David Basin": [
+          "professor"
+        ],
+        "ETH Zurich": [
+          "scientist",
+          "professor"
+        ],
+        "Felix Linker": [
+          "professor"
+        ],
+        "Linker": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1145/3576915.3616578",
+        "2815–2829",
+        "80 million",
+        "first",
+        "more than 500,000",
+        "the Geneva Conventions"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Certificate Transparency",
+        "Digital EMblem",
+        "Web Public",
+        "Humanitarian Law",
+        "Emblem For",
+        "The Authentic",
+        "Felix Linker",
+        "In January",
+        "John Hopkins",
+        "International Committee",
+        "Geneva Conventions",
+        "Web PKI",
+        "Communications Security",
+        "ACM SIGSAC",
+        "An Authentic",
+        "International Red",
+        "Cyber Trust",
+        "Red Crescent",
+        "Computer Science",
+        "Red Cross",
+        "Information Security",
+        "En News",
+        "Key Infrastructure",
+        "Adviser Digital",
+        "David Basin",
+        "ETH Zurich",
+        "Mauro Vignati",
+        "Authentic Digital",
+        "The ICRC"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Computer Science at ETH Zurich"
+      ],
+      "institutions": [
+        "ACM SIGSAC Conference on Computer and Communications Security",
+        "CCS",
+        "CT",
+        "DNS",
+        "Digital Technologies of Warfare",
+        "ICRC",
+        "IP",
+        "John Hopkins University",
+        "Linker",
+        "PKI",
+        "Ransomware",
+        "Red Crescent Movement",
+        "TLS",
+        "The Authentic Digital EMblem",
+        "The red cross",
+        "Vignati",
+        "Web Public Key Infrastructure",
+        "red crescent",
+        "the Centre for Cyber Trust",
+        "the Department of Computer Science",
+        "the International Committee of the Red Cross",
+        "the International Red Cross",
+        "the University of Bonn"
+      ],
+      "locations": [
+        "ADEM",
+        "Basin",
+        "Bonn",
+        "Cyberspace",
+        "the Centre for Cyber Trust"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ICRC",
+        "Linker",
+        "Vignati",
+        "first",
+        "Basin",
+        "ADEM",
+        "the International Committee of the Red Cross",
+        "ETH Zurich",
+        "the Geneva Conventions",
+        "the Centre for Cyber Trust"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "In brief",
+          "Trusted emblem for protection against attacks",
+          "Trusted emblem for protection against attacks",
+          "Hackers remain undetected",
+          "Machine-readable and decentralised",
+          "Hackers remain undetected"
+        ],
+        "content_length": 8161
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "CT",
+        "the Centre for Cyber Trust",
+        "PKI",
+        "the International Committee of the Red Cross",
+        "DNS",
+        "Humanitarian Law",
+        "1949",
+        "Felix Linker",
+        "CCS",
+        "Red Crescent Movement",
+        "John Hopkins University",
+        "2022",
+        "the University of Bonn",
+        "the International Red Cross",
+        "The red cross",
+        "Linker",
+        "Ransomware",
+        "IP",
+        "Vignati",
+        "ICRC",
+        "TLS",
+        "2024",
+        "Digital Technologies of Warfare",
+        "red crescent",
+        "The Authentic Digital EMblem",
+        "David Basin",
+        "ADEM",
+        "ETH Zurich",
+        "Web Public Key Infrastructure",
+        "Mauro Vignati",
+        "ACM SIGSAC Conference on Computer and Communications Security",
+        "the Department of Computer Science",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "2815–2829",
+        "more than 500,000",
+        "who",
+        "80 million",
+        "10.1145/3576915.3616578",
+        "where",
+        "what",
+        "the Geneva Conventions",
+        "how",
+        "computer_science",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "David Basin_has_role_professor",
+        "ETH Zurich_has_role_scientist",
+        "ETH Zurich_has_role_professor",
+        "Felix Linker_has_role_professor",
+        "Linker_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

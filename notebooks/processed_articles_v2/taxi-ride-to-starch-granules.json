@@ -1,0 +1,645 @@
+{
+  "filename": "taxi-ride-to-starch-granules.md",
+  "original_filename": "taxi-ride-to-starch-granules.html",
+  "source_path": "en_news_events/2015/02/taxi-ride-to-starch-granules.html",
+  "date": "2015-02",
+  "title": "Taxi Ride To Starch Granules",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "New gene discovered",
+      "text": "Starch acts as an energy reserve for plants and as an important source of carbohydrates in human and animal diets. Starch is also used in the food, construction, paper and textile industries. Amylose, an less digestible component of starch, serves as a binder and gelling agent in the food industry.\n\nDespite the great importance of starch for plants, humans and industry alike, researchers do not understand completely how it is formed. The research group of Sam Zeeman, professor of plant biochemistry at ETH Zurich, has now found an important piece of the puzzle that throws more light on the structure of starch. The group has just published the findings in the scientific journal PLOS Biology."
+    },
+    {
+      "heading": "New gene discovered",
+      "text": "When the sun shines during the day, plants photosynthesise, making sugars from the carbon dioxide in the air, in order to fuel their metabolism. The excess sugar is converted into starch granules, which the plants store in the leaves and then tap into at night when they require energy but photosynthesis has been interrupted. Starch is by no means uniform, however, but instead made up of different components – largely amylopectin, a highly branched and easily digested polysaccharide, and to a lesser extent amylose, which is an essentially linear polysaccharide.\n\nUntil now, just one enzyme, sitting on the starch granules, was known to take part in the formation of amylose. In the absence of this little molecular machine, known as Granular Bound Starch Synthase (GBSS), plants cannot produce amylose.\n\nThrough a systematic search of the model plant thale cress ( Arabidopsis thaliana ) for other possible genes active in starch formation, Zeeman’s researchers found one that is also involved in the creation of amylose. This gene encodes a protein that can bind temporarily to GBSS and starch, leading the former to its destination. As a result, the discoverer of the gene, David Seung, Zeeman’s doctoral student, has called this molecule Protein Targeting to Starch (PTST)."
+    },
+    {
+      "heading": "Molecules are inter-dependent",
+      "text": "The researchers conducted experiments with mutant plants in order to clarify the role of PTST. These mutations suppress the formation of PTST, leading to the complete absence of amylose in the mutant plants, although the total starch content is as high as that found in wild plants. As a result, the plant researchers concluded that Arabidopsis is necessarily dependent on PTST for the formation of amylose. To their surprise the researchers discovered that GBSS, the most common enzymes bound to plant starch granules, was hardly detectable in the mutant plants.\n\nBut how could they explain that? By marking the two proteins with fluorescent substances, the researchers finally solved this riddle. GBSS needs PTST because it is the taxi that transports GBSS to the starch granules. After collecting GBSS, PTST‘parks’ briefly on the surface of the emerging starch granules in order to unload its cargo. Afterwards, PTST detaches itself again from the starch granule, while GBSS gets on with the synthesis of amylose. In addition, the transport protein appears to be necessary for the stability of GBSS – without PTST and the binding to the starch granule, it is unstable."
+    },
+    {
+      "heading": "Starch content as required?",
+      "text": "The PTST protein not only appears in Arabidopsis, it is also conserved on an evolutionary basis. It came into being relatively early over the course of plant evolution, was preserved in the the diverging species and has changed very little since. As a result, it appears in many other plants, including various types of cereals. However, the role it plays there is still needs to be clarified, according to Zeeman. “This discovery nevertheless shows us a possible way in which we could regulate the amylose content in crops,” explains Zeeman.\n\nThe new findings may one day be used to manufacture pure amylose for industrial applications. Amylose can be used as a gelling agent for sauces and puddings, and for the production of biodegradable packaging. As a result, the discovery has been protected with a patent application through ETH Transfer.\n\nSeung discovered the function of PTST while working on his Doctoral thesis. Previously, the Australian received an ETH Excellence Scholarship, which allowed him to come to Zurich for his Master’s programme. Now aided by a Heinz Imhof Fellowship, he is continuing his doctoral studies as part of a joint research initiative between ETH Zurich and the University of Stellenbosch in South Africa.\n\nSeung D, Soyk S, Coiro M, Maier BA, Eicke S, Zeeman SC: Protein Targeting to Starch is Required for Localising Granule-Bound Starch Synthase to Starch Granules and for Normal Amylose Synthesis in Arabidopsis, PLOS Biology, 24 February 2014, doi: 10.1371/journal.pbio.1002080"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Starch",
+        "label": "GPE",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Starch",
+        "label": "GPE",
+        "start": 115,
+        "end": 121
+      },
+      {
+        "text": "Sam Zeeman",
+        "label": "PERSON",
+        "start": 459,
+        "end": 469
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 506,
+        "end": 516
+      },
+      {
+        "text": "PLOS Biology",
+        "label": "ORG",
+        "start": 684,
+        "end": 696
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 27,
+        "end": 34
+      },
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 255,
+        "end": 260
+      },
+      {
+        "text": "Starch",
+        "label": "GPE",
+        "start": 327,
+        "end": 333
+      },
+      {
+        "text": "Granular Bound Starch Synthase",
+        "label": "FAC",
+        "start": 737,
+        "end": 767
+      },
+      {
+        "text": "Zeeman’s",
+        "label": "PERSON",
+        "start": 944,
+        "end": 952
+      },
+      {
+        "text": "GBSS",
+        "label": "ORG",
+        "start": 1082,
+        "end": 1086
+      },
+      {
+        "text": "David Seung",
+        "label": "PERSON",
+        "start": 1179,
+        "end": 1190
+      },
+      {
+        "text": "Zeeman",
+        "label": "NORP",
+        "start": 1192,
+        "end": 1198
+      },
+      {
+        "text": "Protein Targeting to",
+        "label": "PERSON",
+        "start": 1244,
+        "end": 1264
+      },
+      {
+        "text": "Starch",
+        "label": "GPE",
+        "start": 1265,
+        "end": 1271
+      },
+      {
+        "text": "PTST",
+        "label": "ORG",
+        "start": 89,
+        "end": 93
+      },
+      {
+        "text": "PTST",
+        "label": "ORG",
+        "start": 137,
+        "end": 141
+      },
+      {
+        "text": "Arabidopsis",
+        "label": "ORG",
+        "start": 333,
+        "end": 344
+      },
+      {
+        "text": "PTST",
+        "label": "ORG",
+        "start": 373,
+        "end": 377
+      },
+      {
+        "text": "GBSS",
+        "label": "ORG",
+        "start": 458,
+        "end": 462
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 612,
+        "end": 615
+      },
+      {
+        "text": "GBSS",
+        "label": "ORG",
+        "start": 698,
+        "end": 702
+      },
+      {
+        "text": "PTST",
+        "label": "ORG",
+        "start": 709,
+        "end": 713
+      },
+      {
+        "text": "GBSS",
+        "label": "ORG",
+        "start": 753,
+        "end": 757
+      },
+      {
+        "text": "GBSS",
+        "label": "ORG",
+        "start": 799,
+        "end": 803
+      },
+      {
+        "text": "PTST",
+        "label": "ORG",
+        "start": 914,
+        "end": 918
+      },
+      {
+        "text": "GBSS",
+        "label": "ORG",
+        "start": 972,
+        "end": 976
+      },
+      {
+        "text": "GBSS",
+        "label": "ORG",
+        "start": 1096,
+        "end": 1100
+      },
+      {
+        "text": "PTST",
+        "label": "ORG",
+        "start": 1111,
+        "end": 1115
+      },
+      {
+        "text": "PTST",
+        "label": "ORG",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "Arabidopsis",
+        "label": "GPE",
+        "start": 37,
+        "end": 48
+      },
+      {
+        "text": "Zeeman",
+        "label": "NORP",
+        "start": 407,
+        "end": 413
+      },
+      {
+        "text": "Zeeman",
+        "label": "PERSON",
+        "start": 535,
+        "end": 541
+      },
+      {
+        "text": "ETH Transfer",
+        "label": "PERSON",
+        "start": 832,
+        "end": 844
+      },
+      {
+        "text": "Seung",
+        "label": "PERSON",
+        "start": 846,
+        "end": 851
+      },
+      {
+        "text": "PTST",
+        "label": "ORG",
+        "start": 879,
+        "end": 883
+      },
+      {
+        "text": "Australian",
+        "label": "NORP",
+        "start": 938,
+        "end": 948
+      },
+      {
+        "text": "ETH Excellence Scholarship",
+        "label": "ORG",
+        "start": 961,
+        "end": 987
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1018,
+        "end": 1024
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1177,
+        "end": 1187
+      },
+      {
+        "text": "the University of Stellenbosch",
+        "label": "ORG",
+        "start": 1192,
+        "end": 1222
+      },
+      {
+        "text": "South Africa",
+        "label": "GPE",
+        "start": 1226,
+        "end": 1238
+      },
+      {
+        "text": "Seung D",
+        "label": "PERSON",
+        "start": 1240,
+        "end": 1247
+      },
+      {
+        "text": "Soyk S",
+        "label": "ORG",
+        "start": 1249,
+        "end": 1255
+      },
+      {
+        "text": "Coiro M",
+        "label": "PERSON",
+        "start": 1257,
+        "end": 1264
+      },
+      {
+        "text": "Maier BA",
+        "label": "PERSON",
+        "start": 1266,
+        "end": 1274
+      },
+      {
+        "text": "Eicke S",
+        "label": "PERSON",
+        "start": 1276,
+        "end": 1283
+      },
+      {
+        "text": "Zeeman",
+        "label": "NORP",
+        "start": 1285,
+        "end": 1291
+      },
+      {
+        "text": "Starch",
+        "label": "GPE",
+        "start": 1317,
+        "end": 1323
+      },
+      {
+        "text": "Normal Amylose Synthesis",
+        "label": "ORG",
+        "start": 1408,
+        "end": 1432
+      },
+      {
+        "text": "Arabidopsis",
+        "label": "GPE",
+        "start": 1436,
+        "end": 1447
+      },
+      {
+        "text": "PLOS Biology",
+        "label": "ORG",
+        "start": 1449,
+        "end": 1461
+      },
+      {
+        "text": "24 February 2014",
+        "label": "DATE",
+        "start": 1463,
+        "end": 1479
+      },
+      {
+        "text": "10.1371/journal.pbio.1002080",
+        "label": "CARDINAL",
+        "start": 1486,
+        "end": 1514
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Coiro M",
+        "David Seung",
+        "ETH Transfer",
+        "ETH Zurich",
+        "Eicke S",
+        "Maier BA",
+        "Protein Targeting to",
+        "Sam Zeeman",
+        "Seung",
+        "Seung D",
+        "Zeeman",
+        "Zeeman’s"
+      ],
+      "ORG": [
+        "Arabidopsis",
+        "ETH Excellence Scholarship",
+        "ETH Zurich",
+        "GBSS",
+        "Normal Amylose Synthesis",
+        "PLOS Biology",
+        "PTST",
+        "Soyk S",
+        "the University of Stellenbosch"
+      ],
+      "LOCATION": [
+        "Arabidopsis",
+        "Granular Bound Starch Synthase",
+        "South Africa",
+        "Starch",
+        "Zurich"
+      ],
+      "DATE": [
+        "24 February 2014",
+        "night",
+        "the day"
+      ],
+      "MISC": [
+        "10.1371/journal.pbio.1002080",
+        "Australian",
+        "Zeeman",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "PTST": 8,
+      "GBSS": 7,
+      "Starch": 5,
+      "Zeeman": 4,
+      "Arabidopsis": 3,
+      "ETH Zurich": 2,
+      "PLOS Biology": 2,
+      "Sam Zeeman": 1,
+      "the day": 1,
+      "night": 1,
+      "Granular Bound Starch Synthase": 1,
+      "Zeeman’s": 1,
+      "David Seung": 1,
+      "Protein Targeting to": 1,
+      "two": 1,
+      "ETH Transfer": 1,
+      "Seung": 1,
+      "Australian": 1,
+      "ETH Excellence Scholarship": 1,
+      "Zurich": 1
+    },
+    "total_entities": 54,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "taxi-ride-to-starch-granules.md",
+      "title": "En News Events/2015/02/taxi Ride To Starch Granules",
+      "language": "en",
+      "source_path": "en_news_events/2015/02/taxi-ride-to-starch-granules.html"
+    },
+    "temporal": {
+      "publication_date": "2015-02",
+      "mentioned_years": [
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Coiro M",
+        "David Seung",
+        "ETH Transfer",
+        "ETH Zurich",
+        "Eicke S",
+        "Maier BA",
+        "Protein Targeting to",
+        "Sam Zeeman",
+        "Seung",
+        "Seung D",
+        "Zeeman",
+        "Zeeman’s"
+      ],
+      "people_with_roles": {
+        "David Seung": [
+          "student"
+        ],
+        "ETH Zurich": [
+          "professor"
+        ],
+        "Protein Targeting to": [
+          "student"
+        ],
+        "Sam Zeeman": [
+          "professor"
+        ],
+        "Seung": [
+          "student"
+        ],
+        "Zeeman": [
+          "researcher",
+          "student",
+          "professor"
+        ],
+        "Zeeman’s": [
+          "researcher",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1371/journal.pbio.1002080",
+        "Australian",
+        "Zeeman"
+      ],
+      "grants_funding": [
+        "EU",
+        "fellowship"
+      ],
+      "projects": [
+        "The PTST",
+        "Eicke S",
+        "Ride To",
+        "Sam Zeeman",
+        "ETH Excellence",
+        "Maier BA",
+        "Granular Bound",
+        "Coiro M",
+        "David Seung",
+        "Localising Granule",
+        "Starch Synthase",
+        "Heinz Imhof",
+        "Protein Targeting",
+        "South Africa",
+        "Normal Amylose",
+        "ETH Transfer",
+        "Seung D",
+        "Starch Granules",
+        "En News",
+        "PLOS Biology",
+        "Bound Starch",
+        "ETH Zurich",
+        "Soyk S",
+        "Zeeman SC"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Arabidopsis",
+        "ETH Excellence Scholarship",
+        "ETH Zurich",
+        "GBSS",
+        "Normal Amylose Synthesis",
+        "PLOS Biology",
+        "PTST",
+        "Soyk S",
+        "the University of Stellenbosch"
+      ],
+      "locations": [
+        "Arabidopsis",
+        "Granular Bound Starch Synthase",
+        "South Africa",
+        "Starch",
+        "Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "PTST",
+        "GBSS",
+        "Starch",
+        "Zeeman",
+        "Arabidopsis",
+        "ETH Zurich",
+        "PLOS Biology",
+        "Sam Zeeman",
+        "the day",
+        "night"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "New gene discovered",
+          "New gene discovered",
+          "Molecules are inter-dependent",
+          "Starch content as required?"
+        ],
+        "content_length": 4722
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Normal Amylose Synthesis",
+        "Eicke S",
+        "Sam Zeeman",
+        "Maier BA",
+        "Coiro M",
+        "David Seung",
+        "Arabidopsis",
+        "2014",
+        "Seung",
+        "Zeeman",
+        "2015",
+        "GBSS",
+        "fellowship",
+        "EU",
+        "the University of Stellenbosch",
+        "Zeeman’s",
+        "PTST",
+        "ETH Transfer",
+        "Seung D",
+        "PLOS Biology",
+        "Protein Targeting to",
+        "ETH Excellence Scholarship",
+        "ETH Zurich",
+        "Soyk S"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Zeeman",
+        "who",
+        "chemistry",
+        "where",
+        "biology",
+        "what",
+        "Australian",
+        "how",
+        "10.1371/journal.pbio.1002080",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "David Seung_has_role_student",
+        "ETH Zurich_has_role_professor",
+        "Protein Targeting to_has_role_student",
+        "Sam Zeeman_has_role_professor",
+        "Seung_has_role_student",
+        "Zeeman_has_role_researcher",
+        "Zeeman_has_role_student",
+        "Zeeman_has_role_professor",
+        "Zeeman’s_has_role_researcher",
+        "Zeeman’s_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

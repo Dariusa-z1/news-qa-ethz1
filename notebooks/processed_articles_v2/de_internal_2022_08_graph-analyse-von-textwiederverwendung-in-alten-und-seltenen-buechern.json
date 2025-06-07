@@ -1,0 +1,235 @@
+{
+  "filename": "de_internal_2022_08_graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern.md",
+  "original_filename": "de_internal_2022_08_graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern.html",
+  "source_path": "de_internal/2022/08/graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern.html",
+  "date": "2022-08",
+  "title": "Graph Analyse Von Textwiederverwendung In Alten Und Seltenen Buechern",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Bestimmen des Ursprungs gewisser Textpassagen mit Graph",
+      "text": "- In der grafischen Visualisierung finden Sie Zusammenhänge zwischen Büchern, die chronologisch geordnet werden können und mit deren Hilfe Werke, die viele wiederverwendete Passagen enthalten, schnell identifiziert werden können.\n\n- Verwenden Sie die Filterfunktion oder scrollen Sie durch die vollständige Bücherliste, um herauszufinden, mit welchen anderen Werken die Passagen verwandt sind, was Ihnen ermöglicht, zwischen weiteren und lokaleren Zusammenhängen hin und her zu wechseln.\n\n- Verwenden Sie die Vergleichsansicht, um Textpassagen aus zwei verschiedenen Werken nebeneinander anzuschauen.\n\n- Neu: Verwenden Sie die «Übersicht», um zu sehen, wie Passagen aus einem Buch in einem anderen verteilt sind.\n\nDie Plattform Graph , eine Kooperation der ETH-Bibliothek und der Professur für Geschichte und Theorie der Architektur des Instituts für Geschichte und Theorie der Architektur, visualisiert Muster von Textwiederverwendungen innerhalb eines Korpus und stellt deren verschiedene Verbindungen in einem Diagramm dar."
+    },
+    {
+      "heading": "Bestimmen des Ursprungs gewisser Textpassagen mit Graph",
+      "text": "Indem wir herausfinden, welche Textpassagen Bücher gemeinsam haben, können wir ihre Beziehung zueinander nachverfolgen. Dies hilft uns zu verstehen, auf welche Bücher Autorinnen und Autoren sich beim Verfassen ihrer eigenen Texte bezogen haben, und ermöglicht uns, die Herkunft, die Verbreitung und die Veränderung bestimmter Ideen über verschiedene Publikationen hinweg – sowohl zeitlich als auch geografisch – nachzuvollziehen. So können wir den Ursprung gewisser Formulierungen oder Wortkonstellationen innerhalb der umfangreichen Sammlung von Drucken bestimmen. Die Darstellung von Textwiederverwendungen in einem Diagramm ermöglicht es, die Zirkulation von Ideen in materiellen Objekten – mit jeweils einer eigenen Geschichte – zu verankern."
+    },
+    {
+      "heading": "Vorteile der Textwiederverwendung für die Architekturgeschichte",
+      "text": "Textwiederverwendung ist in der Architekturgeschichte sehr relevant, denn sehr viele Texte gehen auf Vitruvius’ «De architectura» zurück, der einzigen verbleibenden Abhandlung über Architektur aus der Antike. Seit dem 15. Jahrhundert bis heute haben Architektinnen und Architekten sowie Autorinnen und Autoren dieses Schlüsselwerk laufend bearbeitet, übersetzt, zitiert, kommentiert und angepasst. Dieser wachsende Textkorpus selbst bietet ebenfalls Referenzmaterial für Folgewerke. Das Erforschen der Verbindungen innerhalb dieses Textkorpus kann helfen, neue Einsichten darüber zu gewinnen, wie Ideen rund um die Architektur entwickelt worden sind, und, vielleicht noch wichtiger, neue Fragen aufwerfen bezüglich Herkunft, Verbreitung und Veränderung von Architekturkonzepten."
+    },
+    {
+      "heading": "Wie Sie die Plattform Graph verwenden",
+      "text": "Es kann auf verschiedene Weisen mit den entnommenen Passagen gearbeitet werden:\n\nDer aktuelle Datensatz beruht auf ungefähr 1300 alten und seltenen Architekturbüchern aus dem Bestand der ETH-Bibliothek. Insgesamt 800 000 Seiten können auf externe Seite e-rara , der Plattform für digitalisierte Drucke aus Schweizer Institutionen, eingesehen werden.\n\nMehr als nur Daten – Vom Know-how profitieren\n\n#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/08/graph",
+        "label": "LOC",
+        "start": 0,
+        "end": 25
+      },
+      {
+        "text": "Alten",
+        "label": "LOC",
+        "start": 62,
+        "end": 67
+      },
+      {
+        "text": "Seltenen Buechern",
+        "label": "LOC",
+        "start": 72,
+        "end": 89
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 753,
+        "end": 767
+      },
+      {
+        "text": "Instituts für Geschichte und Theorie der Architektur",
+        "label": "ORG",
+        "start": 833,
+        "end": 885
+      },
+      {
+        "text": "Drucken",
+        "label": "MISC",
+        "start": 547,
+        "end": 554
+      },
+      {
+        "text": "Vitruvius",
+        "label": "PER",
+        "start": 101,
+        "end": 110
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 186,
+        "end": 200
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 305,
+        "end": 314
+      },
+      {
+        "text": "MehrWissen",
+        "label": "MISC",
+        "start": 395,
+        "end": 405
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 438,
+        "end": 452
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Vitruvius"
+      ],
+      "ORG": [
+        "ETH-Bibliothek",
+        "Instituts für Geschichte und Theorie der Architektur"
+      ],
+      "LOCATION": [
+        "Alten",
+        "De Internal/2022/08/graph",
+        "Seltenen Buechern"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Drucken",
+        "ETH-Bibliothek",
+        "MehrWissen",
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 3,
+      "De Internal/2022/08/graph": 1,
+      "Alten": 1,
+      "Seltenen Buechern": 1,
+      "Instituts für Geschichte und Theorie der Architektur": 1,
+      "Drucken": 1,
+      "Vitruvius": 1,
+      "Schweizer": 1,
+      "MehrWissen": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2022_08_graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern.md",
+      "title": "De Internal/2022/08/graph Analyse von Textwiederverwendung in Alten und Seltenen Buechern",
+      "language": "de",
+      "source_path": "de_internal/2022/08/graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Vitruvius"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Drucken",
+        "ETH-Bibliothek",
+        "MehrWissen",
+        "Schweizer"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Schweizer Institutionen",
+        "Hilfe Werke",
+        "Die Plattform",
+        "De Internal",
+        "Seltenen Buechern",
+        "Vom Know",
+        "Die Darstellung",
+        "Verwenden Sie",
+        "Das Erforschen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek",
+        "Instituts für Geschichte und Theorie der Architektur"
+      ],
+      "locations": [
+        "Alten",
+        "De Internal/2022/08/graph",
+        "Seltenen Buechern"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2022/08/graph",
+        "Alten",
+        "Seltenen Buechern",
+        "Instituts für Geschichte und Theorie der Architektur",
+        "Drucken",
+        "Vitruvius",
+        "Schweizer",
+        "MehrWissen"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Bestimmen des Ursprungs gewisser Textpassagen mit Graph",
+          "Bestimmen des Ursprungs gewisser Textpassagen mit Graph",
+          "Vorteile der Textwiederverwendung für die Architekturgeschichte",
+          "Wie Sie die Plattform Graph verwenden"
+        ],
+        "content_length": 3155
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "EU",
+        "Vitruvius",
+        "Instituts für Geschichte und Theorie der Architektur",
+        "2022"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "Drucken",
+        "MehrWissen",
+        "Schweizer",
+        "how",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

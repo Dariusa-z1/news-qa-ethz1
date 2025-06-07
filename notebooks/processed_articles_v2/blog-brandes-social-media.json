@@ -1,0 +1,466 @@
+{
+  "filename": "blog-brandes-social-media.md",
+  "original_filename": "blog-brandes-social-media.html",
+  "source_path": "en_news_events/2019/03/blog-brandes-social-media.html",
+  "date": "2019-03",
+  "title": "Blog Brandes Social Media",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Network effects and monopolisation",
+      "text": "Within just a few years, social media has risen from a peripheral phenomenon to an integral part of our everyday lives. In contrast to what followed the mass availability of cars, televisions and the internet, this rise is accompanied by a strong tendency toward monopolisation. If we exclude Chinese services such as WeChat, QQ or Tik Tok, Facebook (including Instagram and WhatsApp), YouTube, LinkedIn and Twitter have achieved primacy within their respective product niches."
+    },
+    {
+      "heading": "Network effects and monopolisation",
+      "text": "These services may well face competition in the early stages. However, the appeal of a platform increases with the number of people who can be reached there. Economists refer to the phenomenon where both the provider and the customer benefit from a higher market share as a network effect. A concentration on the largest provider is then virtually inevitable. Even Google with Google+ was no longer able to assert itself against Facebook and will be ceasing the service in April.\n\nBut what is the problem with a monopoly if the product is offered for free? Or if – as shamelessly asserted, for example, by Mark Zuckerberg, the founder, main shareholder and chairman of Facebook – the aim of a company was simply “to help people stay in touch with family, friends and communities”. This then begs the question of why Facebook and other services have recently faced such bad press."
+    },
+    {
+      "heading": "Advertising, manipulation and price discrimination",
+      "text": "The business models of (Western) social media channels depend primarily on advertising. It is therefore fitting that, again according to Zuckerberg, users enjoy receiving targeted messages. Surveys may arrive at different conclusions, but personalised advertising is still easier to sell. Turnover has been increasing at double-digit rates for years and will exceed CHF 100 billion by next year at the latest.\n\nTwo factors drive this growth: the extent of media usage and the effectiveness of advertising. Both factors are served by knowing as much as possible about user behaviour, and better yet, being able to control it.\n\nThe fact that short messages can be sent and read alongside or in between other activities leads to imminent rewards and thus higher usage. The right product presentation at the right time is more likely to trigger a buying stimulus. And both effects are strengthened by social incentives."
+    },
+    {
+      "heading": "Alternatives and acceptance",
+      "text": "However, the attention economy and targeted advertising are only the beginning. Behaviour-related information such as search queries, preferences or movement profiles are analysed as well, and sold on to other interested parties.\n\nPolitical influence, for instance, takes place via micro targeting, whereby personally tailored messages are created based on inferred inclinations. Interestingly, the outrage surrounding Cambridge Analytica was focused less on the influence on the American presidential campaign than on the fact that the company had unlawful access to data from millions of Facebook profiles. Data to which Facebook itself naturally always has access.\n\nYou don’t need to be a cynic to have fundamental doubts about the consistently benevolent intentions of profit-making companies. It should also come as no surprise if the knowledge gained through behavioural observation is soon used on a large-scale basis to develop premium pricing for insurance offers. Although regulation could replace trust, it does not keep pace with the rapid development of social media."
+    },
+    {
+      "heading": "Protocols and standards",
+      "text": "The well-known social media channels benefit from network effects because they are isolated systems to which you either belong or don’t belong. Mobile phones, email and the World Wide Web show that this needn’t be the case. Communication is possible here through a range of providers because it is carried out via a standardised exchange instead of a central platform.\n\nThe World Wide Web Consortium (W3C) is the international body for continuous advancement of the Web and develops proposals for open standards. This includes protocols and formats for the exchange of content and activities such as those customary in social media.\n\nIn federated systems, different providers can supply variants of the same services because they are based on open standards. There may thus exist differences in the rules when it comes to access, deleting content, and even taking your own data to another provider.\n\nStandards therefore keep market access as well as options for changing providers open. While problems such as spam and data security are not removed, they are no longer in the hands of a single provider.\n\nFor network effects to act in reverse, a critical mass of users would first need to switch to open systems.\n\nThe most successful software of this type at present is Mastodon, a service comparable to Twitter but adhering to W3C standards.\n\nMastodon instances play the same role as servers do for websites, wikis or email, and several thousand are now in use following its launch in 2016. These interact with one another in the same way as with other servers such as GNU social. This federated system has now greatly exceeded the first one million accounts.\n\nWhether the trend toward open systems will last or end with a group of pioneers remains to be seen. At the very least, a lack of alternatives is no longer an excuse.\n\nUlrik Brandes Professor of Social Networks at ETH Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Brandes Social",
+        "label": "PERSON",
+        "start": 28,
+        "end": 42
+      },
+      {
+        "text": "just a few years",
+        "label": "DATE",
+        "start": 7,
+        "end": 23
+      },
+      {
+        "text": "Chinese",
+        "label": "NORP",
+        "start": 293,
+        "end": 300
+      },
+      {
+        "text": "Tik Tok",
+        "label": "PERSON",
+        "start": 332,
+        "end": 339
+      },
+      {
+        "text": "Instagram",
+        "label": "ORG",
+        "start": 361,
+        "end": 370
+      },
+      {
+        "text": "WhatsApp",
+        "label": "ORG",
+        "start": 375,
+        "end": 383
+      },
+      {
+        "text": "YouTube",
+        "label": "GPE",
+        "start": 386,
+        "end": 393
+      },
+      {
+        "text": "LinkedIn",
+        "label": "GPE",
+        "start": 395,
+        "end": 403
+      },
+      {
+        "text": "Twitter",
+        "label": "PERSON",
+        "start": 408,
+        "end": 415
+      },
+      {
+        "text": "April",
+        "label": "DATE",
+        "start": 473,
+        "end": 478
+      },
+      {
+        "text": "Mark Zuckerberg",
+        "label": "PERSON",
+        "start": 605,
+        "end": 620
+      },
+      {
+        "text": "Zuckerberg",
+        "label": "PERSON",
+        "start": 137,
+        "end": 147
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 344,
+        "end": 349
+      },
+      {
+        "text": "next year",
+        "label": "DATE",
+        "start": 385,
+        "end": 394
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 410,
+        "end": 413
+      },
+      {
+        "text": "Cambridge",
+        "label": "GPE",
+        "start": 418,
+        "end": 427
+      },
+      {
+        "text": "Analytica",
+        "label": "PERSON",
+        "start": 428,
+        "end": 437
+      },
+      {
+        "text": "American",
+        "label": "NORP",
+        "start": 479,
+        "end": 487
+      },
+      {
+        "text": "millions",
+        "label": "CARDINAL",
+        "start": 577,
+        "end": 585
+      },
+      {
+        "text": "the World Wide",
+        "label": "EVENT",
+        "start": 169,
+        "end": 183
+      },
+      {
+        "text": "The World Wide Web Consortium",
+        "label": "EVENT",
+        "start": 369,
+        "end": 398
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1171,
+        "end": 1176
+      },
+      {
+        "text": "Mastodon",
+        "label": "ORG",
+        "start": 1265,
+        "end": 1273
+      },
+      {
+        "text": "Twitter",
+        "label": "PERSON",
+        "start": 1299,
+        "end": 1306
+      },
+      {
+        "text": "Mastodon",
+        "label": "ORG",
+        "start": 1338,
+        "end": 1346
+      },
+      {
+        "text": "several thousand",
+        "label": "CARDINAL",
+        "start": 1424,
+        "end": 1440
+      },
+      {
+        "text": "GNU",
+        "label": "ORG",
+        "start": 1564,
+        "end": 1567
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1627,
+        "end": 1632
+      },
+      {
+        "text": "one million",
+        "label": "CARDINAL",
+        "start": 1633,
+        "end": 1644
+      },
+      {
+        "text": "Ulrik Brandes",
+        "label": "PERSON",
+        "start": 1821,
+        "end": 1834
+      },
+      {
+        "text": "Social Networks",
+        "label": "ORG",
+        "start": 1848,
+        "end": 1863
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 1867,
+        "end": 1877
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Analytica",
+        "Brandes Social",
+        "Mark Zuckerberg",
+        "Tik Tok",
+        "Twitter",
+        "Ulrik Brandes",
+        "Zuckerberg"
+      ],
+      "ORG": [
+        "GNU",
+        "Instagram",
+        "Mastodon",
+        "Social Networks",
+        "WhatsApp"
+      ],
+      "LOCATION": [
+        "Cambridge",
+        "ETH Zurich",
+        "LinkedIn",
+        "YouTube"
+      ],
+      "DATE": [
+        "April",
+        "just a few years",
+        "next year",
+        "years"
+      ],
+      "MISC": [
+        "American",
+        "Chinese",
+        "The World Wide Web Consortium",
+        "Two",
+        "first",
+        "millions",
+        "one million",
+        "several thousand",
+        "the World Wide"
+      ]
+    },
+    "entity_counts": {
+      "Twitter": 2,
+      "first": 2,
+      "Mastodon": 2,
+      "Brandes Social": 1,
+      "just a few years": 1,
+      "Chinese": 1,
+      "Tik Tok": 1,
+      "Instagram": 1,
+      "WhatsApp": 1,
+      "YouTube": 1,
+      "LinkedIn": 1,
+      "April": 1,
+      "Mark Zuckerberg": 1,
+      "Zuckerberg": 1,
+      "years": 1,
+      "next year": 1,
+      "Two": 1,
+      "Cambridge": 1,
+      "Analytica": 1,
+      "American": 1
+    },
+    "total_entities": 32,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "blog-brandes-social-media.md",
+      "title": "En News Events/2019/03/blog Brandes Social Media",
+      "language": "en",
+      "source_path": "en_news_events/2019/03/blog-brandes-social-media.html"
+    },
+    "temporal": {
+      "publication_date": "2019-03",
+      "mentioned_years": [
+        "2016",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Analytica",
+        "Brandes Social",
+        "Mark Zuckerberg",
+        "Tik Tok",
+        "Twitter",
+        "Ulrik Brandes",
+        "Zuckerberg"
+      ],
+      "people_with_roles": {
+        "Analytica": [
+          "president"
+        ],
+        "Mark Zuckerberg": [
+          "chair"
+        ],
+        "Ulrik Brandes": [
+          "professor"
+        ],
+        "Zuckerberg": [
+          "chair"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "chair"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "American",
+        "Chinese",
+        "The World Wide Web Consortium",
+        "first",
+        "millions",
+        "one million",
+        "several thousand",
+        "the World Wide"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Media Within",
+        "Tik Tok",
+        "Cambridge Analytica",
+        "Even Google",
+        "En News",
+        "Wide Web",
+        "The World",
+        "Mark Zuckerberg",
+        "Brandes Social",
+        "Social Networks",
+        "World Wide",
+        "ETH Zurich",
+        "Ulrik Brandes"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "GNU",
+        "Instagram",
+        "Mastodon",
+        "Social Networks",
+        "WhatsApp"
+      ],
+      "locations": [
+        "Cambridge",
+        "ETH Zurich",
+        "LinkedIn",
+        "YouTube"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Twitter",
+        "first",
+        "Mastodon",
+        "Brandes Social",
+        "just a few years",
+        "Chinese",
+        "Tik Tok",
+        "Instagram",
+        "WhatsApp",
+        "YouTube"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Network effects and monopolisation",
+          "Network effects and monopolisation",
+          "Advertising, manipulation and price discrimination",
+          "Alternatives and acceptance",
+          "Protocols and standards"
+        ],
+        "content_length": 5289
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Analytica",
+        "Tik Tok",
+        "Twitter",
+        "Zuckerberg",
+        "WhatsApp",
+        "2019",
+        "Mark Zuckerberg",
+        "Brandes Social",
+        "GNU",
+        "Social Networks",
+        "2016",
+        "Instagram",
+        "Mastodon",
+        "Ulrik Brandes"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "American",
+        "The World Wide Web Consortium",
+        "several thousand",
+        "one million",
+        "Chinese",
+        "millions",
+        "the World Wide",
+        "what",
+        "how",
+        "computer_science",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Analytica_has_role_president",
+        "Mark Zuckerberg_has_role_chair",
+        "Ulrik Brandes_has_role_professor",
+        "Zuckerberg_has_role_chair",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

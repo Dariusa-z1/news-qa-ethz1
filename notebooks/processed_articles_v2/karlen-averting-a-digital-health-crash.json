@@ -1,0 +1,467 @@
+{
+  "filename": "karlen-averting-a-digital-health-crash.md",
+  "original_filename": "karlen-averting-a-digital-health-crash.html",
+  "source_path": "en_news_events/2019/05/karlen-averting-a-digital-health-crash.html",
+  "date": "2019-05",
+  "title": "Karlen Averting A Digital Health Crash",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Such errors could occur in our sector",
+      "text": "I’ve been closely following the reporting on the Lion Air Flight 610 and Ethiopian Airlines Flight 302 tragedies. The two crashes of new Boeing aircraft followed very similar patterns, causing the deaths of 189 and 158 people, respectively. While saddened by the tragic loss of lives, I’m also struck by the parallels between the causes of these incidents and the research issues I’m facing in our projects in the digitisation and automation of health care."
+    },
+    {
+      "heading": "Not enough security research",
+      "text": "Drawing parallels between aviation and medicine is nothing new. Indeed anesthesiologists, in their work of safely “piloting” a patient through surgery, have often been compared to airline pilots. In addition, the WHO surgical safety checklist 1 is directly inspired by the safety procedures performed by pilots before departure and after landing. Together with the University Hospital Zurich, we are using big data approaches to improve health care monitoring in a project called “ICU Cockpit” – not without reason 2, 3 .\n\nBut the Boeing 737 MAX case illustrates two new parallels between these domains: first, increased digitalisation and automation, and second, and far less honourable, profit maximisation in businesses. A recent article in the New York Times 4 suggests that in the case of Boeing, this was a major determinant of the disasters.\n\nIn short, finding itself under intense competitive pressure, Boeing decided to upgrade an over 40-year-old model rather than invest time and money in developing a new modern aircraft. Contrary to all best practices in the industry, it used novel, but for the old plane unsuitable technology to meet marketing needs, such as lower operating costs. To compensate for the aerodynamic flaws, software was developed that automatically intervenes without the pilot noticing. But in all the rush, Boeing forgot to add this to the operating manual, and to inform airlines and pilots about these mechanisms. The company also overlooked the fact that the safety features warning pilots of any system malfunction were only part of a costly add-on that most cost-sensitive airlines didn’t even purchase. In addition, basic principles of redundancy in automated systems were not in place to compensate for potential sensor failure – very likely due to a late change of design. To top it all, when the flaw came to public attention after the first accident, Boeing failed to provide detailed and timely information to stakeholders to prevent a further accident."
+    },
+    {
+      "heading": "Such errors could occur in our sector",
+      "text": "My work involves developing a number of medical devices and software, such as systems that make diagnoses or deliver interventions – where any malfunction can have a fatal impact on patients. These technologies are currently being tested in research studies for verification and validation purposes."
+    },
+    {
+      "heading": "References",
+      "text": "With tight funding schedules and doctoral students pressured to graduate, there’s a great temptation to skip best practice, and so I can clearly see that similar errors could occur in our field too. Here, such mistakes could lead to more casualties that would probably be more difficult to spot, as the causalities would occur distributed over many health centers with seemingly no connection."
+    },
+    {
+      "heading": "Not enough security research",
+      "text": "The Swiss health care system, along with that of other countries, is challenged by growing cost pressure and commercialisation, with politicians and shareholders urging hospitals and manufacturers of medical products to reduce costs and increase services.\n\nDigital health, with remote sensing through wearables, is part of almost every new health initiative; automation and artificial intelligence are the big buzz words. But regulatory authorities still seem to be overwhelmed by the new opportunities, and the much-needed regulation and rule definintion are late in the day. In both sectors, aviation and medtech the authorities are relying largely on manufacturer responsibility and self-declaration, also for manufacturers without experience in this field.\n\nLooking at the research projects in my field, it seems that only a few of them deal with safety, redundancy, risk assessment and usability. Maybe these engineering topics are treated in a cursory manner here because they’re considered to be well-explored, or to have a too applied character. Nevertheless, in digital health we have every reason to investigate many more aspects of these crucial issues.\n\nBut are we training our students for this? Or do we just encourage them to take risks and jump blindly into the startup bubble, train them in the best data-crunching skills to meet the demands of the job market, and drill them to conduct high-impact research and publish in high-level journals?\n\nThe Archimedean Oath 5 , inspired by the Hippocratic Oath in medicine, has been drafted for engineering graduates. It’s about being responsible for one’s actions, doing no harm and applying one’s skills for social good. I think it’s time to revive this oath – not just as a document to be handed out with the Master’s diploma, but as an integral part of education and research programmes at ETH, as an example to others. We need more well-trained engineers who will act responsibly in all situations, whether easy or challenging, and it’s time to give them a bigger say in the management of tech companies.\n\n1 WHO Surgical Safety Checklist\n\n3 Fewer alarms in intensive care (ETH News 23.01.2019)\n\n4 Boeing Believed a 737 Max Warning Light Was Standard. It Wasn’t. New York Times, 5. Mai 2019\n\n5 https://en.wikipedia.org/wiki/Archimedean_Oath\n\nWalter Karlen Professor for Mobile Health Systems at ETH Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Averting A",
+        "label": "ORG",
+        "start": 30,
+        "end": 40
+      },
+      {
+        "text": "the Lion Air Flight 610",
+        "label": "ORG",
+        "start": 45,
+        "end": 68
+      },
+      {
+        "text": "Ethiopian Airlines",
+        "label": "ORG",
+        "start": 73,
+        "end": 91
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 118,
+        "end": 121
+      },
+      {
+        "text": "Boeing",
+        "label": "ORG",
+        "start": 137,
+        "end": 143
+      },
+      {
+        "text": "the University Hospital Zurich",
+        "label": "ORG",
+        "start": 361,
+        "end": 391
+      },
+      {
+        "text": "Boeing",
+        "label": "ORG",
+        "start": 530,
+        "end": 536
+      },
+      {
+        "text": "MAX",
+        "label": "ORG",
+        "start": 541,
+        "end": 544
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 562,
+        "end": 565
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 603,
+        "end": 608
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 655,
+        "end": 661
+      },
+      {
+        "text": "the New York Times",
+        "label": "ORG",
+        "start": 743,
+        "end": 761
+      },
+      {
+        "text": "Boeing",
+        "label": "ORG",
+        "start": 793,
+        "end": 799
+      },
+      {
+        "text": "Boeing",
+        "label": "ORG",
+        "start": 909,
+        "end": 915
+      },
+      {
+        "text": "an over",
+        "label": "CARDINAL",
+        "start": 935,
+        "end": 942
+      },
+      {
+        "text": "40-year-old",
+        "label": "DATE",
+        "start": 943,
+        "end": 954
+      },
+      {
+        "text": "Boeing",
+        "label": "ORG",
+        "start": 1338,
+        "end": 1344
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1876,
+        "end": 1881
+      },
+      {
+        "text": "Boeing",
+        "label": "ORG",
+        "start": 1892,
+        "end": 1898
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 4,
+        "end": 9
+      },
+      {
+        "text": "Digital",
+        "label": "ORG",
+        "start": 256,
+        "end": 263
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 567,
+        "end": 574
+      },
+      {
+        "text": "the Hippocratic Oath",
+        "label": "ORG",
+        "start": 1495,
+        "end": 1515
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1849,
+        "end": 1852
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 2131,
+        "end": 2139
+      },
+      {
+        "text": "Boeing Believed",
+        "label": "ORG",
+        "start": 2154,
+        "end": 2169
+      },
+      {
+        "text": "New York Times",
+        "label": "ORG",
+        "start": 2219,
+        "end": 2233
+      },
+      {
+        "text": "2019 5",
+        "label": "DATE",
+        "start": 2242,
+        "end": 2248
+      },
+      {
+        "text": "Walter Karlen",
+        "label": "PERSON",
+        "start": 2296,
+        "end": 2309
+      },
+      {
+        "text": "Mobile Health Systems",
+        "label": "ORG",
+        "start": 2324,
+        "end": 2345
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 2349,
+        "end": 2359
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Walter Karlen"
+      ],
+      "ORG": [
+        "Averting A",
+        "Boeing",
+        "Boeing Believed",
+        "Digital",
+        "ETH",
+        "ETH News",
+        "En News",
+        "Ethiopian Airlines",
+        "MAX",
+        "Mobile Health Systems",
+        "New York Times",
+        "the Hippocratic Oath",
+        "the Lion Air Flight 610",
+        "the New York Times",
+        "the University Hospital Zurich"
+      ],
+      "LOCATION": [
+        "ETH Zurich"
+      ],
+      "DATE": [
+        "2019 5",
+        "40-year-old",
+        "the day"
+      ],
+      "MISC": [
+        "Swiss",
+        "an over",
+        "first",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Boeing": 6,
+      "two": 2,
+      "first": 2,
+      "En News": 1,
+      "Averting A": 1,
+      "the Lion Air Flight 610": 1,
+      "Ethiopian Airlines": 1,
+      "the University Hospital Zurich": 1,
+      "MAX": 1,
+      "second": 1,
+      "the New York Times": 1,
+      "an over": 1,
+      "40-year-old": 1,
+      "Swiss": 1,
+      "Digital": 1,
+      "the day": 1,
+      "the Hippocratic Oath": 1,
+      "ETH": 1,
+      "ETH News": 1,
+      "Boeing Believed": 1
+    },
+    "total_entities": 32,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "karlen-averting-a-digital-health-crash.md",
+      "title": "En News Events/2019/05/karlen Averting A Digital Health Crash",
+      "language": "en",
+      "source_path": "en_news_events/2019/05/karlen-averting-a-digital-health-crash.html"
+    },
+    "temporal": {
+      "publication_date": "2019-05",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Walter Karlen"
+      ],
+      "people_with_roles": {
+        "Walter Karlen": [
+          "dean",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "dean",
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Swiss",
+        "an over",
+        "first",
+        "second"
+      ],
+      "grants_funding": [
+        "ERC",
+        "funding"
+      ],
+      "projects": [
+        "WHO Surgical",
+        "It Wasn",
+        "Digital Health",
+        "Averting A",
+        "University Hospital",
+        "The Swiss",
+        "Crash I",
+        "Ethiopian Airlines",
+        "The Archimedean",
+        "ICU Cockpit",
+        "Lion Air",
+        "Hippocratic Oath",
+        "Walter Karlen",
+        "Max Warning",
+        "ETH News",
+        "Mobile Health",
+        "En News",
+        "Light Was",
+        "New York",
+        "Boeing Believed",
+        "ETH Zurich",
+        "Safety Checklist"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Averting A",
+        "Boeing",
+        "Boeing Believed",
+        "Digital",
+        "ETH",
+        "ETH News",
+        "En News",
+        "Ethiopian Airlines",
+        "MAX",
+        "Mobile Health Systems",
+        "New York Times",
+        "the Hippocratic Oath",
+        "the Lion Air Flight 610",
+        "the New York Times",
+        "the University Hospital Zurich"
+      ],
+      "locations": [
+        "ETH Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Boeing",
+        "two",
+        "first",
+        "En News",
+        "Averting A",
+        "the Lion Air Flight 610",
+        "Ethiopian Airlines",
+        "the University Hospital Zurich",
+        "MAX",
+        "second"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Such errors could occur in our sector",
+          "Not enough security research",
+          "Such errors could occur in our sector",
+          "References",
+          "Not enough security research"
+        ],
+        "content_length": 5580
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "MAX",
+        "ETH",
+        "Averting A",
+        "Boeing",
+        "the Hippocratic Oath",
+        "New York Times",
+        "ERC",
+        "2019",
+        "Ethiopian Airlines",
+        "funding",
+        "the New York Times",
+        "Mobile Health Systems",
+        "Walter Karlen",
+        "Digital",
+        "the Lion Air Flight 610",
+        "the University Hospital Zurich",
+        "ETH News",
+        "En News",
+        "Boeing Believed"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "computer_science",
+        "who",
+        "Swiss",
+        "an over",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Walter Karlen_has_role_dean",
+        "Walter Karlen_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

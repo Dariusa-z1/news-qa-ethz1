@@ -1,0 +1,130 @@
+{
+  "filename": "miese-betrugsmasche-mit-phishing.md",
+  "original_filename": "miese-betrugsmasche-mit-phishing.html",
+  "source_path": "de_internal/2018/03/miese-betrugsmasche-mit-phishing.html",
+  "date": "2018-03",
+  "title": "Miese Betrugsmasche Mit Phishing",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Betrüger sind meisterhaft in der Tarnung - darum geben sie sich oft als bekannte und vertrauenswürdige Unternehmen aus, bei dem Sie möglicherweise tatsächlich Kunde sind.\n\nAuch die E-Mail wirkt täuschend echt: Da ist das richtige Logo, keine Schreibfehler und möglicherweise eine Aufforderung, eine bestimmte Website zu besuchen und sich dort einzuloggen. Vielleicht unter einem Vorwand, dass Ihr Konto nämlich gehackt wurde.\n\nSie klicken auf den Link und die Website sieht so aus wie die Webseite des renommierten Unternehmens. Sie loggen sich ein und schon haben Sie Ihre Daten preisgegeben. Sie wurden erfolgreich geködert, ohne dass Sie es gemerkt haben. Auf itsecurity.ethz.ch zeigen wir Ihnen die wichtigsten Verhaltensregeln und Tipps."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/03/miese Betrugsmasche",
+        "label": "LOC",
+        "start": 0,
+        "end": 39
+      },
+      {
+        "text": "Link",
+        "label": "PER",
+        "start": 445,
+        "end": 449
+      },
+      {
+        "text": "Tipps",
+        "label": "LOC",
+        "start": 734,
+        "end": 739
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Link"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2018/03/miese Betrugsmasche",
+        "Tipps"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2018/03/miese Betrugsmasche": 1,
+      "Link": 1,
+      "Tipps": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "miese-betrugsmasche-mit-phishing.md",
+      "title": "De Internal/2018/03/miese Betrugsmasche mit Phishing",
+      "language": "de",
+      "source_path": "de_internal/2018/03/miese-betrugsmasche-mit-phishing.html"
+    },
+    "temporal": {
+      "publication_date": "2018-03",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Link"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Ihr Konto",
+        "Sie Ihre",
+        "De Internal",
+        "E-Mail"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2018/03/miese Betrugsmasche",
+        "Tipps"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2018/03/miese Betrugsmasche",
+        "Link",
+        "Tipps"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 795
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Link"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

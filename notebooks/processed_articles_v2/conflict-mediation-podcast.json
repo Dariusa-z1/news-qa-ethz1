@@ -1,0 +1,207 @@
+{
+  "filename": "conflict-mediation-podcast.md",
+  "original_filename": "conflict-mediation-podcast.html",
+  "source_path": "en_news_events/2019/04/conflict-mediation-podcast.html",
+  "date": "2019-04",
+  "title": "Conflict Mediation Podcast",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Many small, local steps may lead more effectively to peace than big dreams of a perfect state. This principle lies at the heart of an innovative approach to conflict mediation developed by the late Kenyan mediator Dekha Ibrahim Abdi and ETH peace researcher Simon Mason. In this podcast, Simon Mason and Kaltuma Hassan Noorow, the mediator’s daughter, talk about their experiences in Kenya and Switzerland. They also refer to their unconditional will to work – and live – for global peace, not for hatred.\n\nListen to this episode"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Mediation",
+        "label": "NORP",
+        "start": 32,
+        "end": 41
+      },
+      {
+        "text": "Kenyan",
+        "label": "NORP",
+        "start": 198,
+        "end": 204
+      },
+      {
+        "text": "Dekha Ibrahim Abdi",
+        "label": "PERSON",
+        "start": 214,
+        "end": 232
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 237,
+        "end": 240
+      },
+      {
+        "text": "Simon Mason",
+        "label": "PERSON",
+        "start": 258,
+        "end": 269
+      },
+      {
+        "text": "Simon Mason",
+        "label": "PERSON",
+        "start": 288,
+        "end": 299
+      },
+      {
+        "text": "Kaltuma Hassan Noorow",
+        "label": "PERSON",
+        "start": 304,
+        "end": 325
+      },
+      {
+        "text": "Kenya",
+        "label": "GPE",
+        "start": 384,
+        "end": 389
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 394,
+        "end": 405
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dekha Ibrahim Abdi",
+        "Kaltuma Hassan Noorow",
+        "Simon Mason"
+      ],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [
+        "Kenya",
+        "Switzerland"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Kenyan",
+        "Mediation"
+      ]
+    },
+    "entity_counts": {
+      "Simon Mason": 2,
+      "Mediation": 1,
+      "Kenyan": 1,
+      "Dekha Ibrahim Abdi": 1,
+      "ETH": 1,
+      "Kaltuma Hassan Noorow": 1,
+      "Kenya": 1,
+      "Switzerland": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "conflict-mediation-podcast.md",
+      "title": "En News Events/2019/04/conflict Mediation Podcast",
+      "language": "en",
+      "source_path": "en_news_events/2019/04/conflict-mediation-podcast.html"
+    },
+    "temporal": {
+      "publication_date": "2019-04",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Dekha Ibrahim Abdi",
+        "Kaltuma Hassan Noorow",
+        "Simon Mason"
+      ],
+      "people_with_roles": {
+        "Dekha Ibrahim Abdi": [
+          "researcher"
+        ],
+        "Simon Mason": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Kenyan",
+        "Mediation"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "Mediation Podcast",
+        "Dekha Ibrahim",
+        "Kaltuma Hassan",
+        "Simon Mason"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [
+        "Kenya",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Simon Mason",
+        "Mediation",
+        "Kenyan",
+        "Dekha Ibrahim Abdi",
+        "ETH",
+        "Kaltuma Hassan Noorow",
+        "Kenya",
+        "Switzerland"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 579
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Kaltuma Hassan Noorow",
+        "2019",
+        "Dekha Ibrahim Abdi",
+        "Simon Mason"
+      ],
+      "semantic_concepts": [
+        "Mediation",
+        "who",
+        "what",
+        "Kenyan",
+        "how"
+      ],
+      "graph_relations": [
+        "Dekha Ibrahim Abdi_has_role_researcher",
+        "Simon Mason_has_role_researcher"
+      ]
+    }
+  }
+}

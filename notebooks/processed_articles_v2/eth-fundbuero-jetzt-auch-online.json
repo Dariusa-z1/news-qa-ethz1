@@ -1,0 +1,223 @@
+{
+  "filename": "eth-fundbuero-jetzt-auch-online.md",
+  "original_filename": "eth-fundbuero-jetzt-auch-online.html",
+  "source_path": "en_internal/2023/04/eth-fundbuero-jetzt-auch-online.html",
+  "date": "2023-04",
+  "title": "Eth Fundbuero Jetzt Auch Online",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Mass-produced items at ISC",
+      "text": "- umbrellas\n\n- hats, gloves, scarves, clothing\n\n- drink bottles, reusable tableware\n\n- toys\n\n- sunglasses (non-corrective)\n\n- writing material\n\nIt’s annoying to lose something. Luckily, items found on ETH premises are usually handed in to the Lost and Found run by the Info + Service Centers (ISC) .\n\nNow ETH has linked up with the Swiss lost property platform easyfind.ch – so you can search online for your valuables at any time, even outside opening hours. You simply create a lost property notice, which is then regularly checked against the lost property handed in."
+    },
+    {
+      "heading": "Mass-produced items at ISC",
+      "text": "Lost property found on ETH premises can still be handed in or sought directly at ETH Lost and Found i.e. the ISC desk in the corresponding ETH location. The mass-produced items listed below cannot be recorded online; you should enquire about them at the ISC Lost and Found office:\n\nTo the ETH online lost property service ›"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 195,
+        "end": 198
+      },
+      {
+        "text": "Lost",
+        "label": "ORG",
+        "start": 237,
+        "end": 241
+      },
+      {
+        "text": "the Info + Service Centers",
+        "label": "ORG",
+        "start": 259,
+        "end": 285
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 298,
+        "end": 301
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 325,
+        "end": 330
+      },
+      {
+        "text": "opening hours",
+        "label": "TIME",
+        "start": 438,
+        "end": 451
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "ETH Lost",
+        "label": "ORG",
+        "start": 81,
+        "end": 89
+      },
+      {
+        "text": "ISC",
+        "label": "ORG",
+        "start": 109,
+        "end": 112
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 139,
+        "end": 142
+      },
+      {
+        "text": "ISC Lost",
+        "label": "ORG",
+        "start": 254,
+        "end": 262
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 288,
+        "end": 291
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "ETH Lost",
+        "ISC",
+        "ISC Lost",
+        "Lost",
+        "the Info + Service Centers"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "opening hours"
+      ],
+      "MISC": [
+        "Swiss"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "Lost": 1,
+      "the Info + Service Centers": 1,
+      "Swiss": 1,
+      "opening hours": 1,
+      "ETH Lost": 1,
+      "ISC": 1,
+      "ISC Lost": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-fundbuero-jetzt-auch-online.md",
+      "title": "En Internal/2023/04/eth Fundbuero Jetzt Auch Online",
+      "language": "en",
+      "source_path": "en_internal/2023/04/eth-fundbuero-jetzt-auch-online.html"
+    },
+    "temporal": {
+      "publication_date": "2023-04",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Swiss"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Auch Online",
+        "ETH Lost",
+        "En Internal",
+        "Fundbuero Jetzt",
+        "Now ETH",
+        "ISC Lost",
+        "Service Centers"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Lost",
+        "ISC",
+        "ISC Lost",
+        "Lost",
+        "the Info + Service Centers"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Lost",
+        "the Info + Service Centers",
+        "Swiss",
+        "opening hours",
+        "ETH Lost",
+        "ISC",
+        "ISC Lost"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Mass-produced items at ISC",
+          "Mass-produced items at ISC"
+        ],
+        "content_length": 946
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "ISC",
+        "ETH Lost",
+        "EU",
+        "Lost",
+        "the Info + Service Centers",
+        "ISC Lost",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "where",
+        "when",
+        "Swiss"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

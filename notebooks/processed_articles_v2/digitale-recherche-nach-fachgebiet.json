@@ -1,0 +1,246 @@
+{
+  "filename": "digitale-recherche-nach-fachgebiet.md",
+  "original_filename": "digitale-recherche-nach-fachgebiet.html",
+  "source_path": "en_internal/2020/05/digitale-recherche-nach-fachgebiet.html",
+  "date": "2020-05",
+  "title": "Digitale Recherche Nach Fachgebiet",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Access to electronic journals, textbooks, new publications and links to external databases including Web of Science and Scopus is just a few clicks away. Comprehensive information is provided on the following subjects, which are aligned to the research and teaching performed at ETH Zurich:\n\nAgricultural and food sciences , Architecture and urban planning , Civil engineering , Biology , Chemistry , Electrical engineering and energy technology , Humanities and social sciences , Geosciences , Computer science , Mechanical engineering , Materials science , Mathematics , Medicine and pharmacy , Physics and astronomy , Environment, transport and geography , Business, law and politics and General and interdisciplinary .\n\nTake advantage of the opportunity to move quickly from a general overview to an advanced search and the desired results! If you would like guidance regarding your specific subject, please contact the subject specialist.\n\nETH Library is the largest public natural scientific and technical library in Switzerland.\n\n#KnowHow – ETH Library’s infrastructure and tools lead you to your goal.\n\n#ETHLibraryDigital – ETH Library is there for you digitally with various resources and services , not only during the COVID-19 protective measures."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Recherche",
+        "label": "ORG",
+        "start": 29,
+        "end": 38
+      },
+      {
+        "text": "Fachgebiet",
+        "label": "ORG",
+        "start": 44,
+        "end": 54
+      },
+      {
+        "text": "Scopus",
+        "label": "ORG",
+        "start": 120,
+        "end": 126
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 279,
+        "end": 289
+      },
+      {
+        "text": "Biology , Chemistry",
+        "label": "ORG",
+        "start": 378,
+        "end": 397
+      },
+      {
+        "text": "Humanities",
+        "label": "GPE",
+        "start": 447,
+        "end": 457
+      },
+      {
+        "text": "Physics",
+        "label": "ORG",
+        "start": 596,
+        "end": 603
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 942,
+        "end": 953
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1020,
+        "end": 1031
+      },
+      {
+        "text": "KnowHow",
+        "label": "PERSON",
+        "start": 1033,
+        "end": 1040
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 1043,
+        "end": 1056
+      },
+      {
+        "text": "ETH Library",
+        "label": "PERSON",
+        "start": 1125,
+        "end": 1136
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 1222,
+        "end": 1230
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library",
+        "ETH Library’s",
+        "KnowHow"
+      ],
+      "ORG": [
+        "Biology , Chemistry",
+        "COVID-19",
+        "ETH Library",
+        "ETH Zurich",
+        "Fachgebiet",
+        "Physics",
+        "Recherche",
+        "Scopus"
+      ],
+      "LOCATION": [
+        "Humanities",
+        "Switzerland"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Library": 2,
+      "Recherche": 1,
+      "Fachgebiet": 1,
+      "Scopus": 1,
+      "ETH Zurich": 1,
+      "Biology , Chemistry": 1,
+      "Humanities": 1,
+      "Physics": 1,
+      "Switzerland": 1,
+      "KnowHow": 1,
+      "ETH Library’s": 1,
+      "COVID-19": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "digitale-recherche-nach-fachgebiet.md",
+      "title": "En Internal/2020/05/digitale Recherche nach Fachgebiet",
+      "language": "en",
+      "source_path": "en_internal/2020/05/digitale-recherche-nach-fachgebiet.html"
+    },
+    "temporal": {
+      "publication_date": "2020-05",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library",
+        "ETH Library’s",
+        "KnowHow"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Fachgebiet Access",
+        "ETH Zurich",
+        "ETH Library",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Biology , Chemistry",
+        "COVID-19",
+        "ETH Library",
+        "ETH Zurich",
+        "Fachgebiet",
+        "Physics",
+        "Recherche",
+        "Scopus"
+      ],
+      "locations": [
+        "Humanities",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Library",
+        "Recherche",
+        "Fachgebiet",
+        "Scopus",
+        "ETH Zurich",
+        "Biology , Chemistry",
+        "Humanities",
+        "Physics",
+        "Switzerland",
+        "KnowHow"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1313
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Physics",
+        "Biology , Chemistry",
+        "Recherche",
+        "ETH Library",
+        "2020",
+        "Fachgebiet",
+        "ETH Zurich",
+        "Scopus",
+        "KnowHow",
+        "COVID-19",
+        "ERC",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "who",
+        "what",
+        "how",
+        "why",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

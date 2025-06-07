@@ -1,0 +1,149 @@
+{
+  "filename": "neu-zugriff-auf-proquest-materials-science-collection.md",
+  "original_filename": "neu-zugriff-auf-proquest-materials-science-collection.html",
+  "source_path": "de_internal/2015/07/neu-zugriff-auf-proquest-materials-science-collection.html",
+  "date": "2015-07",
+  "title": "Neu Zugriff Auf Proquest Materials Science Collection",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Sie umfasst mehrere Teildatenbanken, hierbei vor allem die Gebiete\n\nZudem verzeichnet die ProQuest Materials Science Collection\n\nDie externe Seite ProQuest Materials Science Collection enthält Quellen, die in interdisziplinären Datenbanken wie z. B. Web of Science nicht nachgewiesen werden."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/07/neu Zugriff",
+        "label": "LOC",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "ProQuest Materials Science Collection",
+        "label": "MISC",
+        "start": 89,
+        "end": 126
+      },
+      {
+        "text": "ProQuest Materials Science",
+        "label": "PER",
+        "start": 145,
+        "end": 171
+      },
+      {
+        "text": "z. B. Web of Science",
+        "label": "MISC",
+        "start": 242,
+        "end": 262
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ProQuest Materials Science"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2015/07/neu Zugriff"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ProQuest Materials Science Collection",
+        "z. B. Web of Science"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2015/07/neu Zugriff": 1,
+      "ProQuest Materials Science Collection": 1,
+      "ProQuest Materials Science": 1,
+      "z. B. Web of Science": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neu-zugriff-auf-proquest-materials-science-collection.md",
+      "title": "De Internal/2015/07/neu Zugriff auf Proquest Materials Science Collection",
+      "language": "de",
+      "source_path": "de_internal/2015/07/neu-zugriff-auf-proquest-materials-science-collection.html"
+    },
+    "temporal": {
+      "publication_date": "2015-07",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ProQuest Materials Science"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "ProQuest Materials Science Collection",
+        "z. B. Web of Science"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Proquest Materials",
+        "De Internal",
+        "Science Collection",
+        "ProQuest Materials",
+        "Seite ProQuest",
+        "Materials Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2015/07/neu Zugriff"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2015/07/neu Zugriff",
+        "ProQuest Materials Science Collection",
+        "ProQuest Materials Science",
+        "z. B. Web of Science"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 365
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "2015",
+        "ProQuest Materials Science"
+      ],
+      "semantic_concepts": [
+        "when",
+        "z. B. Web of Science",
+        "engineering",
+        "ProQuest Materials Science Collection"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

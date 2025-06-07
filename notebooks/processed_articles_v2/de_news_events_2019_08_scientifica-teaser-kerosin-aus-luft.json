@@ -1,0 +1,234 @@
+{
+  "filename": "de_news_events_2019_08_scientifica-teaser-kerosin-aus-luft.md",
+  "original_filename": "de_news_events_2019_08_scientifica-teaser-kerosin-aus-luft.html",
+  "source_path": "de_news_events/2019/08/scientifica-teaser-kerosin-aus-luft.html",
+  "date": "2019-08",
+  "title": "Scientifica Teaser Kerosin Aus Luft",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Vieles, womit sich Wissenschaftlerinnen und Wissenschaftler an der ETH und der Universität Zürich tagtäglich befassen, tönt nach Science Fiction. Manches könnte aber in Zukunft als selbstverständlich gelten. An der Scientifica präsentieren Ihnen Forschende an Ausstellungsständen, in Workshops, Kurzvorlesungen und vielen weiteren Veranstaltungen ihre Projekte und Konzepte. Und diskutieren mit Ihnen die Konsequenzen für die Gesellschaft.\n\nIm Zeitalter von «Fake news» und «Alternative facts» kommt der Wissenschaft eine ganz besondere Rolle zu. Nicht dass sie auf alle Fragen immer einfache Antworten liefern kann. Doch zumindest können Wissenschaftlerinnen und Wissenschaftler Fakten für die gesellschaftliche Diskussion anbieten. «Science Fiction – Science Facts» das Thema der diesjährigen Scientifica, nimmt auch diesen Aspekt auf.\n\nDie Scientifica ist das grösste Wissenschaftsfestival der Schweiz. Sie findet dieses Jahr vom 30. August bis 1. September an der Universität und der ETH Zürich statt. Mit unserer Videoserie wollen wir Sie darauf einstimmen.\n\nexterne Seite Das ganze Scientifica-Programm ansehen"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 67,
+        "end": 70
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 79,
+        "end": 97
+      },
+      {
+        "text": "Scientifica",
+        "label": "ORG",
+        "start": 215,
+        "end": 226
+      },
+      {
+        "text": "Workshops",
+        "label": "LOC",
+        "start": 284,
+        "end": 293
+      },
+      {
+        "text": "Kurzvorlesungen",
+        "label": "LOC",
+        "start": 295,
+        "end": 310
+      },
+      {
+        "text": "Scientifica",
+        "label": "LOC",
+        "start": 794,
+        "end": 805
+      },
+      {
+        "text": "Scientifica",
+        "label": "LOC",
+        "start": 841,
+        "end": 852
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 891,
+        "end": 902
+      },
+      {
+        "text": "dieses Jahr",
+        "label": "MISC",
+        "start": 915,
+        "end": 926
+      },
+      {
+        "text": "Universität",
+        "label": "ORG",
+        "start": 966,
+        "end": 977
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 986,
+        "end": 996
+      },
+      {
+        "text": "Scientifica-Programm",
+        "label": "LOC",
+        "start": 1085,
+        "end": 1105
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "Scientifica",
+        "Universität",
+        "Universität Zürich"
+      ],
+      "LOCATION": [
+        "Kurzvorlesungen",
+        "Scientifica",
+        "Scientifica-Programm",
+        "Workshops",
+        "der Schweiz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "dieses Jahr"
+      ]
+    },
+    "entity_counts": {
+      "Scientifica": 3,
+      "De News": 1,
+      "ETH": 1,
+      "Universität Zürich": 1,
+      "Workshops": 1,
+      "Kurzvorlesungen": 1,
+      "der Schweiz": 1,
+      "dieses Jahr": 1,
+      "Universität": 1,
+      "ETH Zürich": 1,
+      "Scientifica-Programm": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2019_08_scientifica-teaser-kerosin-aus-luft.md",
+      "title": "De News Events/2019/08/scientifica Teaser Kerosin Aus Luft",
+      "language": "de",
+      "source_path": "de_news_events/2019/08/scientifica-teaser-kerosin-aus-luft.html"
+    },
+    "temporal": {
+      "publication_date": "2019-08",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "dieses Jahr"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Science Facts",
+        "Wissenschaftler Fakten",
+        "Aus Luft",
+        "Ihnen Forschende",
+        "Science Fiction",
+        "Seite Das",
+        "De News",
+        "Teaser Kerosin",
+        "Die Scientifica",
+        "Scientifica-Programm",
+        "Im Zeitalter"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "Scientifica",
+        "Universität",
+        "Universität Zürich"
+      ],
+      "locations": [
+        "Kurzvorlesungen",
+        "Scientifica",
+        "Scientifica-Programm",
+        "Workshops",
+        "der Schweiz"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Scientifica",
+        "De News",
+        "ETH",
+        "Universität Zürich",
+        "Workshops",
+        "Kurzvorlesungen",
+        "der Schweiz",
+        "dieses Jahr",
+        "Universität",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1175
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Universität",
+        "ETH",
+        "Scientifica",
+        "2019",
+        "ETH Zürich",
+        "De News",
+        "Universität Zürich"
+      ],
+      "semantic_concepts": [
+        "dieses Jahr"
+      ],
+      "graph_relations": []
+    }
+  }
+}

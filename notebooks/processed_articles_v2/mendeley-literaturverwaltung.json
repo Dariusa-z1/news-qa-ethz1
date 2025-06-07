@@ -1,0 +1,108 @@
+{
+  "filename": "mendeley-literaturverwaltung.md",
+  "original_filename": "mendeley-literaturverwaltung.html",
+  "source_path": "de_internal/2014/01/mendeley-literaturverwaltung.html",
+  "date": "2014-01",
+  "title": "Mendeley Literaturverwaltung",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Weitere Informationen"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/01/mendeley",
+        "label": "ORG",
+        "start": 0,
+        "end": 28
+      },
+      {
+        "text": "Weitere Informationen",
+        "label": "ORG",
+        "start": 0,
+        "end": 21
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "De Internal/2014/01/mendeley",
+        "Weitere Informationen"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2014/01/mendeley": 1,
+      "Weitere Informationen": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mendeley-literaturverwaltung.md",
+      "title": "De Internal/2014/01/mendeley Literaturverwaltung",
+      "language": "en",
+      "source_path": "de_internal/2014/01/mendeley-literaturverwaltung.html"
+    },
+    "temporal": {
+      "publication_date": "2014-01",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Literaturverwaltung Weitere",
+        "De Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "De Internal/2014/01/mendeley",
+        "Weitere Informationen"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2014/01/mendeley",
+        "Weitere Informationen"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 70
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Weitere Informationen",
+        "2014",
+        "De Internal/2014/01/mendeley"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

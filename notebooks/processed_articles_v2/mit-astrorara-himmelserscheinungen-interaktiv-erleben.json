@@ -1,0 +1,199 @@
+{
+  "filename": "mit-astrorara-himmelserscheinungen-interaktiv-erleben.md",
+  "original_filename": "mit-astrorara-himmelserscheinungen-interaktiv-erleben.html",
+  "source_path": "en_internal/2022/01/mit-astrorara-himmelserscheinungen-interaktiv-erleben.html",
+  "date": "2022-01",
+  "title": "Mit Astrorara Himmelserscheinungen Interaktiv Erleben",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Experience historical astronomy",
+      "text": "With the AstroRara web app, you can discover and interactively experience not one but three historic works. Explore the magical-seeming world of astronomy, fascinatingly visualised and supplemented with exciting background information on the respective author and work, and vividly brought to life via animations and touch functionality.\n\nUse AstroRara to learn more about the following topics:"
+    },
+    {
+      "heading": "Experience historical astronomy",
+      "text": "AstroRara is a service provided by the ETH Library that can be used on mobile devices and desktop computers. Have you always wanted to know more about the models and the phenomena observed in the night sky? AstroRara lets you do more than just view the historical works of famous astronomers – it allows you experience them interactively."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "More than merely data – Benefit from know-how #KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Astrorara",
+        "label": "PERSON",
+        "start": 24,
+        "end": 33
+      },
+      {
+        "text": "Himmelserscheinungen Interaktiv Erleben",
+        "label": "PERSON",
+        "start": 34,
+        "end": 73
+      },
+      {
+        "text": "AstroRara",
+        "label": "ORG",
+        "start": 9,
+        "end": 18
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 78,
+        "end": 81
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 86,
+        "end": 91
+      },
+      {
+        "text": "AstroRara",
+        "label": "ORG",
+        "start": 342,
+        "end": 351
+      },
+      {
+        "text": "AstroRara",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 35,
+        "end": 50
+      },
+      {
+        "text": "AstroRara",
+        "label": "PERSON",
+        "start": 207,
+        "end": 216
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 88,
+        "end": 103
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "AstroRara",
+        "Astrorara",
+        "Himmelserscheinungen Interaktiv Erleben"
+      ],
+      "ORG": [
+        "AstroRara",
+        "the ETH Library"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "one",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "AstroRara": 4,
+      "the ETH Library": 2,
+      "Astrorara": 1,
+      "Himmelserscheinungen Interaktiv Erleben": 1,
+      "one": 1,
+      "three": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mit-astrorara-himmelserscheinungen-interaktiv-erleben.md",
+      "title": "En Internal/2022/01/mit Astrorara Himmelserscheinungen Interaktiv Erleben",
+      "language": "en",
+      "source_path": "en_internal/2022/01/mit-astrorara-himmelserscheinungen-interaktiv-erleben.html"
+    },
+    "temporal": {
+      "publication_date": "2022-01",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "AstroRara",
+        "Astrorara",
+        "Himmelserscheinungen Interaktiv Erleben"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Interaktiv Erleben",
+        "Use AstroRara",
+        "ETH Library",
+        "En Internal",
+        "Astrorara Himmelserscheinungen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AstroRara",
+        "the ETH Library"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "how"
+      ],
+      "key_concepts": [
+        "AstroRara",
+        "the ETH Library",
+        "Astrorara",
+        "Himmelserscheinungen Interaktiv Erleben",
+        "one",
+        "three"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Experience historical astronomy",
+          "Experience historical astronomy",
+          "Staffnet"
+        ],
+        "content_length": 965
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "AstroRara",
+        "Astrorara",
+        "Himmelserscheinungen Interaktiv Erleben",
+        "2022",
+        "the ETH Library"
+      ],
+      "semantic_concepts": [
+        "how",
+        "three"
+      ],
+      "graph_relations": []
+    }
+  }
+}

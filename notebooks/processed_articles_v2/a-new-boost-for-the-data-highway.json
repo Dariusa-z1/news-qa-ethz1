@@ -1,0 +1,658 @@
+{
+  "filename": "a-new-boost-for-the-data-highway.md",
+  "original_filename": "a-new-boost-for-the-data-highway.html",
+  "source_path": "en_news_events/2021/11/a-new-boost-for-the-data-highway.html",
+  "date": "2021-11",
+  "title": "A New Boost For The Data Highway",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Data traffic bottleneck",
+      "text": "We meet Felix Eltes for an interview in an unimposing office building on the outskirts of Kilchberg, near Zurich, nestled between a motorway and a gardening company. At first sight, the building’s interior gives just as little indication that it is now home to a company that wants to give the computer industry a new boost. A functional open-plan office with a multitude of computer workstations, a simple meeting room with an oversized screen for video conferencing, a small, half-filled laboratory that at first glance looks more like an arts and crafts room – this is, to put it plainly, the realm of the ETH Zurich spin-off Lumiphase, which Eltes founded in spring 2020 together with Stefan Abel, Lukas Czornomaz and Jean Fompeyrine.\n\nBut first impressions can be deceptive. The company’s 4 founders and their now 17-strong team have big plans: the components that this young company is developing will enable data to be sent back and forth between large data centres much more quickly and efficiently in the future."
+    },
+    {
+      "heading": "Data traffic bottleneck",
+      "text": "This is also urgently needed: because in today's digital world, there is an important interface that becoming more and more of a concern. The data that is processed and stored in electronic computer chips passes between computers along optical fibres. That means the electrical signal must be converted into an optical signal at some point and then back into an electrical signal again.\n\nIt is precisely this interface that is increasingly becoming a critical bottleneck, since the speed at which data can be exchanged also depends on how efficiently the signal is converted. Today’s technologies may be sufficient for private use, since very few home users will ever really exhaust a bandwidth of 1 Gb/s (gigabit per second) or more. But in the commercial sector, where large volumes of data have to be processed, these transmission rates are no longer sufficient. Currently, 400 Gb/s is shaping up to become the standard in this area. And with no end in sight to rapid growth in data volumes, it’s likely that even this performance will soon no longer be sufficient."
+    },
+    {
+      "heading": "Worldwide competition",
+      "text": "Today, electrical signals are converted into optical ones using comparatively large components that require a lot of energy. That’s why researchers around the world are feverishly searching for new ways to link the two systems as efficiently as possible.\n\nThe founders of Lumiphase are convinced that they hold very good cards in this competition. “We’ve developed a promising approach,” Eltes explains with obvious pride. At the heart of the new technology is a special material developed in recent years in a close collaboration between researchers at IBM Research in nearby Rüschlikon and ETH Zurich: barium titanate. It’s this crystal’s physical properties that make it suitable for building much smaller and more energy-efficient chips, which can also convert data more efficiently. This is because barium titanate offers an ideal combination of properties needed in the optical and electrical worlds."
+    },
+    {
+      "heading": "Years of research",
+      "text": "Eltes himself has been working on this promising new material for several years. After completing an exchange semester in Zurich during his studies at Lund University in Sweden, he moved to the IBM Research Center in Rüschlikon to write his Master’s thesis. He then continued his academic career in a doctoral thesis written under Manfried Fiebig, Professor of Multifunctional Ferroic Materials at ETH Zurich, for which he was awarded the ETH Medal for Outstanding Doctoral Theses in 2020.\n\nEltes says that the move from his native Sweden to Switzerland wasn’t particularly difficult for him. “The two countries are similar in many ways.” The only thing he misses here is the sea, since he grew up on the west coast of Sweden and has always lived near the water. “And, of course, the wilderness and vastness of the Swedish forests,” he adds with a laugh. Switzerland seems quite overpopulated to him. “When you drive from Zurich to Geneva, you see houses of some kind all the way there. If you travel from Stockholm to Gothenburg, what you’ll mostly see out of the train window is wilderness.”"
+    },
+    {
+      "heading": "A scaling challenge",
+      "text": "In Kilchberg, the Lumiphase team is now working on commercialising the new technology. “Showing in the lab that you can efficiently convert signals with our material is one thing,” Eltes notes. “But using it to make low-cost chips in large quantities is a whole different story.” Eltes is confident that this big step will succeed, even though he is aware that establishing a new company is fraught with a many uncertainties. “We’re in a dynamic market where things are constantly changing.” For him as a young researcher who has just completed his doctorate, the personal risk of founding a company is manageable. “However, my co-founders all gave up permanent positions at IBM to start Lumiphase. This shows how motivated and convinced we are by our technology and our business idea.”\n\nSo far, their project has met with keen interest from potential industrial partners. “The need for new solutions is huge,” Eltes says. The promise of this new approach is also shown by the fact that the young company took home major Swiss start-up prizes this year, including the W.A. de Vigier Award for young entrepreneurs and the Venture start-up competition. “These awards are confirmation that we’re on a promising path,” Eltes says.\n\nBut the young company has no time to rest on its laurels. It will still take quite a bit of development work before the breakthrough is achieved. “We want to deliver a marketable product when the new industry standard is introduced, and we’re working closely with customers to do that,” Eltes explains. The bar to clear will then no longer be 400 Gb/s, but 800 Gb/s. Along the way, Lumiphase continues to benefit from its close collaboration with IBM Research, which gives it access to highly specialised research infrastructure. “We’re also constantly expanding our own laboratories,” Eltes says. “What we’re primarily using them for right now is to test the reliability of our new chips.”\n\nFor them, it’s a stroke of luck that there are two top-class research institutions here in Zurich with which the company can collaborate. “Being located in this environment also helps us find qualified new employees,” Eltes says. “We’re looking for people who bring very specific skills to the table. And so far, we’ve done well in attracting just the right professionals to our project.”"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "The Data Highway",
+        "label": "ORG",
+        "start": 39,
+        "end": 55
+      },
+      {
+        "text": "Felix Eltes",
+        "label": "ORG",
+        "start": 8,
+        "end": 19
+      },
+      {
+        "text": "Kilchberg",
+        "label": "GPE",
+        "start": 90,
+        "end": 99
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 106,
+        "end": 112
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 169,
+        "end": 174
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 478,
+        "end": 482
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 509,
+        "end": 514
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 609,
+        "end": 619
+      },
+      {
+        "text": "Lumiphase",
+        "label": "ORG",
+        "start": 629,
+        "end": 638
+      },
+      {
+        "text": "Eltes",
+        "label": "ORG",
+        "start": 646,
+        "end": 651
+      },
+      {
+        "text": "spring 2020",
+        "label": "DATE",
+        "start": 663,
+        "end": 674
+      },
+      {
+        "text": "Stefan Abel",
+        "label": "PERSON",
+        "start": 689,
+        "end": 700
+      },
+      {
+        "text": "Lukas Czornomaz",
+        "label": "GPE",
+        "start": 702,
+        "end": 717
+      },
+      {
+        "text": "Jean Fompeyrine",
+        "label": "PERSON",
+        "start": 722,
+        "end": 737
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 743,
+        "end": 748
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 41,
+        "end": 46
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 575,
+        "end": 580
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 717,
+        "end": 723
+      },
+      {
+        "text": "400 Gb/s",
+        "label": "QUANTITY",
+        "start": 876,
+        "end": 884
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 215,
+        "end": 218
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 492,
+        "end": 504
+      },
+      {
+        "text": "IBM Research",
+        "label": "ORG",
+        "start": 553,
+        "end": 565
+      },
+      {
+        "text": "Rüschlikon",
+        "label": "NORP",
+        "start": 576,
+        "end": 586
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 591,
+        "end": 601
+      },
+      {
+        "text": "several years",
+        "label": "DATE",
+        "start": 66,
+        "end": 79
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 122,
+        "end": 128
+      },
+      {
+        "text": "Lund University",
+        "label": "ORG",
+        "start": 151,
+        "end": 166
+      },
+      {
+        "text": "Sweden",
+        "label": "GPE",
+        "start": 170,
+        "end": 176
+      },
+      {
+        "text": "the IBM Research Center",
+        "label": "ORG",
+        "start": 190,
+        "end": 213
+      },
+      {
+        "text": "Rüschlikon",
+        "label": "NORP",
+        "start": 217,
+        "end": 227
+      },
+      {
+        "text": "Manfried Fiebig",
+        "label": "ORG",
+        "start": 331,
+        "end": 346
+      },
+      {
+        "text": "Multifunctional Ferroic Materials",
+        "label": "ORG",
+        "start": 361,
+        "end": 394
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 398,
+        "end": 408
+      },
+      {
+        "text": "the ETH Medal for Outstanding Doctoral Theses",
+        "label": "WORK_OF_ART",
+        "start": 435,
+        "end": 480
+      },
+      {
+        "text": "Sweden",
+        "label": "GPE",
+        "start": 531,
+        "end": 537
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 541,
+        "end": 552
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 597,
+        "end": 600
+      },
+      {
+        "text": "the west coast",
+        "label": "LOC",
+        "start": 700,
+        "end": 714
+      },
+      {
+        "text": "Sweden",
+        "label": "GPE",
+        "start": 718,
+        "end": 724
+      },
+      {
+        "text": "Swedish",
+        "label": "NORP",
+        "start": 814,
+        "end": 821
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 854,
+        "end": 865
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 921,
+        "end": 927
+      },
+      {
+        "text": "Geneva",
+        "label": "GPE",
+        "start": 931,
+        "end": 937
+      },
+      {
+        "text": "Stockholm",
+        "label": "GPE",
+        "start": 1005,
+        "end": 1014
+      },
+      {
+        "text": "Gothenburg",
+        "label": "GPE",
+        "start": 1018,
+        "end": 1028
+      },
+      {
+        "text": "Kilchberg",
+        "label": "GPE",
+        "start": 3,
+        "end": 12
+      },
+      {
+        "text": "Lumiphase",
+        "label": "ORG",
+        "start": 18,
+        "end": 27
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 169,
+        "end": 172
+      },
+      {
+        "text": "IBM",
+        "label": "ORG",
+        "start": 675,
+        "end": 678
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1020,
+        "end": 1025
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 1042,
+        "end": 1051
+      },
+      {
+        "text": "the W.A. de Vigier Award",
+        "label": "ORG",
+        "start": 1063,
+        "end": 1087
+      },
+      {
+        "text": "Venture",
+        "label": "ORG",
+        "start": 1120,
+        "end": 1127
+      },
+      {
+        "text": "800 Gb/s. Along",
+        "label": "PERSON",
+        "start": 1583,
+        "end": 1598
+      },
+      {
+        "text": "IBM Research",
+        "label": "ORG",
+        "start": 1673,
+        "end": 1685
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1964,
+        "end": 1967
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 2008,
+        "end": 2014
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "800 Gb/s. Along",
+        "ETH Zurich",
+        "Jean Fompeyrine",
+        "Stefan Abel"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Eltes",
+        "En News",
+        "Felix Eltes",
+        "IBM",
+        "IBM Research",
+        "Lumiphase",
+        "Lund University",
+        "Manfried Fiebig",
+        "Multifunctional Ferroic Materials",
+        "The Data Highway",
+        "Venture",
+        "the IBM Research Center",
+        "the W.A. de Vigier Award"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Geneva",
+        "Gothenburg",
+        "Kilchberg",
+        "Lukas Czornomaz",
+        "Stockholm",
+        "Sweden",
+        "Switzerland",
+        "Zurich",
+        "the west coast"
+      ],
+      "DATE": [
+        "Today",
+        "recent years",
+        "several years",
+        "spring 2020",
+        "this year",
+        "today"
+      ],
+      "MISC": [
+        "400 Gb/s",
+        "Rüschlikon",
+        "Swedish",
+        "Swiss",
+        "first",
+        "half",
+        "one",
+        "second",
+        "the ETH Medal for Outstanding Doctoral Theses",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Zurich": 4,
+      "first": 3,
+      "ETH Zurich": 3,
+      "two": 3,
+      "Sweden": 3,
+      "Kilchberg": 2,
+      "Lumiphase": 2,
+      "Today": 2,
+      "IBM Research": 2,
+      "Rüschlikon": 2,
+      "Switzerland": 2,
+      "En News": 1,
+      "The Data Highway": 1,
+      "Felix Eltes": 1,
+      "half": 1,
+      "Eltes": 1,
+      "spring 2020": 1,
+      "Stefan Abel": 1,
+      "Lukas Czornomaz": 1,
+      "Jean Fompeyrine": 1
+    },
+    "total_entities": 59,
+    "unique_entities": 42
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-new-boost-for-the-data-highway.md",
+      "title": "En News Events/2021/11/a New Boost For The Data Highway",
+      "language": "en",
+      "source_path": "en_news_events/2021/11/a-new-boost-for-the-data-highway.html"
+    },
+    "temporal": {
+      "publication_date": "2021-11",
+      "mentioned_years": [
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "800 Gb/s. Along",
+        "ETH Zurich",
+        "Jean Fompeyrine",
+        "Stefan Abel"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "400 Gb/s",
+        "Rüschlikon",
+        "Swedish",
+        "Swiss",
+        "first",
+        "half",
+        "second",
+        "the ETH Medal for Outstanding Doctoral Theses"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Lukas Czornomaz",
+        "Lund University",
+        "Manfried Fiebig",
+        "Jean Fompeyrine",
+        "En News",
+        "New Boost",
+        "Stefan Abel",
+        "Outstanding Doctoral",
+        "Vigier Award",
+        "IBM Research",
+        "Data Highway",
+        "In Kilchberg",
+        "Felix Eltes",
+        "ETH Zurich",
+        "For The",
+        "ETH Medal",
+        "Multifunctional Ferroic"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "Eltes",
+        "En News",
+        "Felix Eltes",
+        "IBM",
+        "IBM Research",
+        "Lumiphase",
+        "Lund University",
+        "Manfried Fiebig",
+        "Multifunctional Ferroic Materials",
+        "The Data Highway",
+        "Venture",
+        "the IBM Research Center",
+        "the W.A. de Vigier Award"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Geneva",
+        "Gothenburg",
+        "Kilchberg",
+        "Lukas Czornomaz",
+        "Stockholm",
+        "Sweden",
+        "Switzerland",
+        "Zurich",
+        "the west coast"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Zurich",
+        "first",
+        "ETH Zurich",
+        "two",
+        "Sweden",
+        "Kilchberg",
+        "Lumiphase",
+        "Today",
+        "IBM Research",
+        "Rüschlikon"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Data traffic bottleneck",
+          "Data traffic bottleneck",
+          "Worldwide competition",
+          "Years of research",
+          "A scaling challenge"
+        ],
+        "content_length": 6456
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Lund University",
+        "Manfried Fiebig",
+        "the W.A. de Vigier Award",
+        "2020",
+        "IBM Research",
+        "ERC",
+        "Jean Fompeyrine",
+        "Stefan Abel",
+        "Eltes",
+        "800 Gb/s. Along",
+        "IBM",
+        "Venture",
+        "EU",
+        "Lumiphase",
+        "Felix Eltes",
+        "the IBM Research Center",
+        "En News",
+        "ETH Zurich",
+        "The Data Highway",
+        "2021",
+        "Multifunctional Ferroic Materials"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Swedish",
+        "half",
+        "who",
+        "400 Gb/s",
+        "Swiss",
+        "where",
+        "Rüschlikon",
+        "what",
+        "second",
+        "how",
+        "the ETH Medal for Outstanding Doctoral Theses",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "filename": "organisieren-kommunizieren-zitieren-neue-oberflaeche-fuer-mendeley.md",
+  "original_filename": "organisieren-kommunizieren-zitieren-neue-oberflaeche-fuer-mendeley.html",
+  "source_path": "en_internal/2020/10/organisieren-kommunizieren-zitieren-neue-oberflaeche-fuer-mendeley.html",
+  "date": "2020-10",
+  "title": "Organisieren Kommunizieren Zitieren Neue Oberflaeche Fuer Mendeley",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Mendeley Reference Manager",
+      "text": "A reference management system and social network in one: as a member of ETH Zurich, you can benefit from the updated Mendeley programme. New features include the Mendeley Reference Manager and the overhauled web library interface. This allows you to organise your research literature in a clear way, make easy use of said literature in your own publications, and chat with other academics."
+    },
+    {
+      "heading": "Mendeley Reference Manager",
+      "text": "The Mendeley Reference Manager is the new alternative to the classic Mendeley Desktop. It offers an updated interface and allows you to register with your ETH login details. Try it out today!\n\nThanks to the updated web library, Mendeley now offers you the same interface in your browser as that found on the desktop app. In addition, Mendeley is also available as an app for your iPhone and iPad."
+    },
+    {
+      "heading": "Exclusive to ETH members: Mendeley Institutional Edition",
+      "text": "As a member of ETH Zurich, you also benefit from additional memory and an unlimited number of private groups, thanks to the Mendeley Institutional Edition .\n\nLearn how to use Mendeley with the course of the ETH Library. The next webinar will be held on 2 December 2020."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "#KnowHow – The ETH Library infrastructure and tools lead you to your goal.\n\n#ETHLibraryDigital – The ETH Library is there for you digitally with various resources and services , not only during the COVID-19 protective measures."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Kommunizieren Zitieren Neue Oberflaeche",
+        "label": "ORG",
+        "start": 33,
+        "end": 72
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 72,
+        "end": 82
+      },
+      {
+        "text": "Mendeley",
+        "label": "ORG",
+        "start": 117,
+        "end": 125
+      },
+      {
+        "text": "Mendeley Desktop",
+        "label": "ORG",
+        "start": 69,
+        "end": 85
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 155,
+        "end": 158
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 185,
+        "end": 190
+      },
+      {
+        "text": "Mendeley",
+        "label": "PERSON",
+        "start": 227,
+        "end": 235
+      },
+      {
+        "text": "Mendeley",
+        "label": "PERSON",
+        "start": 333,
+        "end": 341
+      },
+      {
+        "text": "iPad",
+        "label": "ORG",
+        "start": 390,
+        "end": 394
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 15,
+        "end": 25
+      },
+      {
+        "text": "the Mendeley Institutional Edition",
+        "label": "ORG",
+        "start": 120,
+        "end": 154
+      },
+      {
+        "text": "Mendeley",
+        "label": "PERSON",
+        "start": 174,
+        "end": 182
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 202,
+        "end": 217
+      },
+      {
+        "text": "2 December 2020",
+        "label": "DATE",
+        "start": 252,
+        "end": 267
+      },
+      {
+        "text": "KnowHow",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 195,
+        "end": 203
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "KnowHow",
+        "Mendeley"
+      ],
+      "ORG": [
+        "COVID-19",
+        "ETH",
+        "Kommunizieren Zitieren Neue Oberflaeche",
+        "Mendeley",
+        "Mendeley Desktop",
+        "iPad",
+        "the ETH Library",
+        "the Mendeley Institutional Edition"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "2 December 2020",
+        "today"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Mendeley": 4,
+      "ETH Zurich": 2,
+      "Kommunizieren Zitieren Neue Oberflaeche": 1,
+      "Mendeley Desktop": 1,
+      "ETH": 1,
+      "today": 1,
+      "iPad": 1,
+      "the Mendeley Institutional Edition": 1,
+      "the ETH Library": 1,
+      "2 December 2020": 1,
+      "KnowHow": 1,
+      "COVID-19": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "organisieren-kommunizieren-zitieren-neue-oberflaeche-fuer-mendeley.md",
+      "title": "En Internal/2020/10/organisieren Kommunizieren Zitieren Neue Oberflaeche Fuer Mendeley",
+      "language": "en",
+      "source_path": "en_internal/2020/10/organisieren-kommunizieren-zitieren-neue-oberflaeche-fuer-mendeley.html"
+    },
+    "temporal": {
+      "publication_date": "2020-10",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "KnowHow",
+        "Mendeley"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Kommunizieren Zitieren",
+        "Neue Oberflaeche",
+        "Mendeley Reference",
+        "The Mendeley",
+        "ETH Library",
+        "En Internal",
+        "Fuer Mendeley",
+        "Mendeley Desktop",
+        "Mendeley Institutional",
+        "Reference Manager",
+        "ETH Zurich",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "ETH",
+        "Kommunizieren Zitieren Neue Oberflaeche",
+        "Mendeley",
+        "Mendeley Desktop",
+        "iPad",
+        "the ETH Library",
+        "the Mendeley Institutional Edition"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Mendeley",
+        "ETH Zurich",
+        "Kommunizieren Zitieren Neue Oberflaeche",
+        "Mendeley Desktop",
+        "ETH",
+        "today",
+        "iPad",
+        "the Mendeley Institutional Edition",
+        "the ETH Library",
+        "2 December 2020"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Mendeley Reference Manager",
+          "Mendeley Reference Manager",
+          "Exclusive to ETH members: Mendeley Institutional Edition",
+          "Staffnet"
+        ],
+        "content_length": 1371
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Kommunizieren Zitieren Neue Oberflaeche",
+        "Mendeley",
+        "EU",
+        "2020",
+        "Mendeley Desktop",
+        "the ETH Library",
+        "COVID-19",
+        "KnowHow",
+        "ETH Zurich",
+        "iPad",
+        "the Mendeley Institutional Edition"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

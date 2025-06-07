@@ -1,0 +1,270 @@
+{
+  "filename": "finding-your-way.md",
+  "original_filename": "finding-your-way.html",
+  "source_path": "en_news_events/2013/10/finding-your-way.html",
+  "date": "2013-10",
+  "title": "Finding Your Way",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "New signage",
+      "text": "The Hönggerberg campus is not only a centre for research and education, but various talks and guided tours that take place here also attract thousands of visitors every year. With the construction of new office and research buildings and two new student residences, it is becoming increasingly important that employees, students and visitors can find their way around quickly and easily. While members of ETH know the building codes such as HIT, HXE and HIL within a short period of time, guests who are just visiting for an event have a hard time finding their way around."
+    },
+    {
+      "heading": "New signage",
+      "text": "This is now going to change. In December 2013, ETH will introduce a new wayfinding system on the Hönggerberg with about 90 columns on various streets and squares allowing easy orientation. With streets and squares receiving new names, the building addresses will change as well, which will have various consequences from new postal delivery addresses to new business cards.\n\nTo find out what will change, how it will change, what the consequences will be for addresses and documents and how long the old documents will still be valid, come to the information event on 18 November 2013 from 1.30 p.m. to 2.30 p.m. in building HPV, room G 4. Please sign up by 11 November 2013 by writing to . You can also write to this address for more information and for documentation on the new concept."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 4,
+        "end": 15
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 141,
+        "end": 150
+      },
+      {
+        "text": "every year",
+        "label": "DATE",
+        "start": 163,
+        "end": 173
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 238,
+        "end": 241
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 405,
+        "end": 408
+      },
+      {
+        "text": "HIT",
+        "label": "ORG",
+        "start": 441,
+        "end": 444
+      },
+      {
+        "text": "HXE",
+        "label": "ORG",
+        "start": 446,
+        "end": 449
+      },
+      {
+        "text": "HIL",
+        "label": "ORG",
+        "start": 454,
+        "end": 457
+      },
+      {
+        "text": "December 2013",
+        "label": "DATE",
+        "start": 32,
+        "end": 45
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 47,
+        "end": 50
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 97,
+        "end": 108
+      },
+      {
+        "text": "about 90",
+        "label": "CARDINAL",
+        "start": 114,
+        "end": 122
+      },
+      {
+        "text": "18 November 2013",
+        "label": "DATE",
+        "start": 567,
+        "end": 583
+      },
+      {
+        "text": "1.30 p.m. to 2.30 p.m.",
+        "label": "TIME",
+        "start": 589,
+        "end": 611
+      },
+      {
+        "text": "HPV",
+        "label": "ORG",
+        "start": 624,
+        "end": 627
+      },
+      {
+        "text": "11 November 2013",
+        "label": "DATE",
+        "start": 657,
+        "end": 673
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hönggerberg"
+      ],
+      "ORG": [
+        "ETH",
+        "HIL",
+        "HIT",
+        "HPV",
+        "HXE"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "1.30 p.m. to 2.30 p.m.",
+        "11 November 2013",
+        "18 November 2013",
+        "December 2013",
+        "every year"
+      ],
+      "MISC": [
+        "about 90",
+        "thousands",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Hönggerberg": 2,
+      "ETH": 2,
+      "thousands": 1,
+      "every year": 1,
+      "two": 1,
+      "HIT": 1,
+      "HXE": 1,
+      "HIL": 1,
+      "December 2013": 1,
+      "about 90": 1,
+      "18 November 2013": 1,
+      "1.30 p.m. to 2.30 p.m.": 1,
+      "HPV": 1,
+      "11 November 2013": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "finding-your-way.md",
+      "title": "En News Events/2013/10/finding Your Way",
+      "language": "en",
+      "source_path": "en_news_events/2013/10/finding-your-way.html"
+    },
+    "temporal": {
+      "publication_date": "2013-10",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Hönggerberg"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "about 90",
+        "thousands"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "In December",
+        "Your Way",
+        "En News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "HIL",
+        "HIT",
+        "HPV",
+        "HXE"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Hönggerberg",
+        "ETH",
+        "thousands",
+        "every year",
+        "two",
+        "HIT",
+        "HXE",
+        "HIL",
+        "December 2013",
+        "about 90"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "New signage",
+          "New signage"
+        ],
+        "content_length": 1402
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "ETH",
+        "2013",
+        "HIT",
+        "HIL",
+        "HXE",
+        "HPV"
+      ],
+      "semantic_concepts": [
+        "about 90",
+        "who",
+        "thousands",
+        "where",
+        "what",
+        "how",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "filename": "expansion-of-saliva-pcr-tests-at-eth-zurich.md",
+  "original_filename": "expansion-of-saliva-pcr-tests-at-eth-zurich.html",
+  "source_path": "en_internal/2021/05/expansion-of-saliva-pcr-tests-at-eth-zurich.html",
+  "date": "2021-05",
+  "title": "Expansion Of Saliva Pcr Tests At Eth Zurich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "More flexible appointments",
+      "text": "As announced on the launch of the saliva PCR tests at ETH, a second test station went into operation on the Hönggerberg at the beginning of May. A Selecta machine that dispenses test kits is now available in the entrance area of the HIL building, together with another machine where samples can be deposited the next day.\n\nThose wishing to use this new test station should first register on the NEXUS platform. Existing registrations for the test station in the main building remain valid. Registered users can book an appointment to return their sample and collect their test kit in advance."
+    },
+    {
+      "heading": "More flexible appointments",
+      "text": "As with the first station in the main building, the ramp-up phase was launched slowly to collect initial experience before increasing the number of tests. This approach has enabled the project team to improve the system as a whole on an ongoing basis. During the first few weeks only morning appointments could be booked to return samples, but now evening appointments are also offered. The project team aims to use this increase in flexibility to reduce the number of “drop-outs”; i.e. those who obtain a test kit, but do not submit a saliva sample on the following day. So far, this has been the case with about 10% of all test kits obtained; although most then submit the sample later, this complicates administration and slows down the process.\n\nThe cautious start, however, has proven to be effective in eradicating teething problems. For example, the project team was concerned about the consistency of some saliva samples during testing at the centre. If samples are too viscous, they clog the pipette and cannot be pooled by machine, which means that they cannot be tested. Modification of the instructions for collection of the saliva samples has helped to solve this problem to a large extent."
+    },
+    {
+      "heading": "Up to 3,000 tests a week",
+      "text": "About 1,700 tests have been carried out at ETH so far, of which one was positive. An average of 60 saliva samples per day have been submitted to the testing station at the centre. The station on the Hönggerberg, which went into operation two weeks ago, is already recording similar numbers. However, both stations still have capacity.\n\nThis capacity is likely to be needed when the Federal Council relaxes work-from-home rules and more ETH members are able to work and study on site. In the medium term, testing at the two locations can be expanded to a total of 3,000 samples per week."
+    },
+    {
+      "heading": "Pharmacy testing at other locations",
+      "text": "ETH also has employees and students at other locations, primarily at the Department of Biosystems in Basel and also at the CSCS computing centre in Lugano and in Schwerzenbach. Employees and students at these locations can be tested free of charge at local pharmacies that conduct testing on behalf of ETH.\n\nFurther information about the testing procedure can be found on the Corona website ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Saliva Pcr Tests",
+        "label": "PERSON",
+        "start": 33,
+        "end": 49
+      },
+      {
+        "text": "Eth Zurich",
+        "label": "FAC",
+        "start": 53,
+        "end": 63
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 54,
+        "end": 57
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 61,
+        "end": 67
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 108,
+        "end": 119
+      },
+      {
+        "text": "the beginning of May",
+        "label": "DATE",
+        "start": 123,
+        "end": 143
+      },
+      {
+        "text": "Selecta",
+        "label": "PERSON",
+        "start": 147,
+        "end": 154
+      },
+      {
+        "text": "HIL",
+        "label": "ORG",
+        "start": 233,
+        "end": 236
+      },
+      {
+        "text": "the next day",
+        "label": "DATE",
+        "start": 308,
+        "end": 320
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 372,
+        "end": 377
+      },
+      {
+        "text": "NEXUS",
+        "label": "ORG",
+        "start": 394,
+        "end": 399
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 12,
+        "end": 17
+      },
+      {
+        "text": "the first few weeks",
+        "label": "DATE",
+        "start": 259,
+        "end": 278
+      },
+      {
+        "text": "evening",
+        "label": "TIME",
+        "start": 348,
+        "end": 355
+      },
+      {
+        "text": "the following day",
+        "label": "DATE",
+        "start": 553,
+        "end": 570
+      },
+      {
+        "text": "about 10%",
+        "label": "PERCENT",
+        "start": 608,
+        "end": 617
+      },
+      {
+        "text": "About 1,700",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 43,
+        "end": 46
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 199,
+        "end": 210
+      },
+      {
+        "text": "two weeks ago",
+        "label": "DATE",
+        "start": 238,
+        "end": 251
+      },
+      {
+        "text": "the Federal Council",
+        "label": "ORG",
+        "start": 377,
+        "end": 396
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 435,
+        "end": 438
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 518,
+        "end": 521
+      },
+      {
+        "text": "3,000",
+        "label": "CARDINAL",
+        "start": 562,
+        "end": 567
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "the Department of Biosystems",
+        "label": "ORG",
+        "start": 69,
+        "end": 97
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 101,
+        "end": 106
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 123,
+        "end": 127
+      },
+      {
+        "text": "Lugano",
+        "label": "GPE",
+        "start": 148,
+        "end": 154
+      },
+      {
+        "text": "Schwerzenbach",
+        "label": "GPE",
+        "start": 162,
+        "end": 175
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 302,
+        "end": 305
+      },
+      {
+        "text": "Corona",
+        "label": "ORG",
+        "start": 375,
+        "end": 381
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hönggerberg",
+        "Saliva Pcr Tests",
+        "Selecta"
+      ],
+      "ORG": [
+        "CSCS",
+        "Corona",
+        "ETH",
+        "HIL",
+        "NEXUS",
+        "the Department of Biosystems",
+        "the Federal Council"
+      ],
+      "LOCATION": [
+        "Basel",
+        "Eth Zurich",
+        "Hönggerberg",
+        "Lugano",
+        "Schwerzenbach"
+      ],
+      "DATE": [
+        "evening",
+        "the beginning of May",
+        "the first few weeks",
+        "the following day",
+        "the next day",
+        "two weeks ago"
+      ],
+      "MISC": [
+        "3,000",
+        "About 1,700",
+        "about 10%",
+        "first",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "Hönggerberg": 2,
+      "first": 2,
+      "Saliva Pcr Tests": 1,
+      "Eth Zurich": 1,
+      "second": 1,
+      "the beginning of May": 1,
+      "Selecta": 1,
+      "HIL": 1,
+      "the next day": 1,
+      "NEXUS": 1,
+      "the first few weeks": 1,
+      "evening": 1,
+      "the following day": 1,
+      "about 10%": 1,
+      "About 1,700": 1,
+      "two weeks ago": 1,
+      "the Federal Council": 1,
+      "two": 1,
+      "3,000": 1
+    },
+    "total_entities": 32,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "expansion-of-saliva-pcr-tests-at-eth-zurich.md",
+      "title": "En Internal/2021/05/expansion Of Saliva Pcr Tests At Eth Zurich",
+      "language": "en",
+      "source_path": "en_internal/2021/05/expansion-of-saliva-pcr-tests-at-eth-zurich.html"
+    },
+    "temporal": {
+      "publication_date": "2021-05",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Hönggerberg",
+        "Saliva Pcr Tests",
+        "Selecta"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "3,000",
+        "About 1,700",
+        "about 10%",
+        "first",
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Of Saliva",
+        "Pcr Tests",
+        "En Internal",
+        "At Eth",
+        "A Selecta",
+        "Federal Council",
+        "Zurich As"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biosystems in Basel and also at the CSCS computing centre in Lugano and in Schwerzenbach"
+      ],
+      "institutions": [
+        "CSCS",
+        "Corona",
+        "ETH",
+        "HIL",
+        "NEXUS",
+        "the Department of Biosystems",
+        "the Federal Council"
+      ],
+      "locations": [
+        "Basel",
+        "Eth Zurich",
+        "Hönggerberg",
+        "Lugano",
+        "Schwerzenbach"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Hönggerberg",
+        "first",
+        "Saliva Pcr Tests",
+        "Eth Zurich",
+        "second",
+        "the beginning of May",
+        "Selecta",
+        "HIL",
+        "the next day"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "More flexible appointments",
+          "More flexible appointments",
+          "Up to 3,000 tests a week",
+          "Pharmacy testing at other locations"
+        ],
+        "content_length": 2840
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "CSCS",
+        "Corona",
+        "ETH",
+        "NEXUS",
+        "the Department of Biosystems",
+        "Saliva Pcr Tests",
+        "Selecta",
+        "HIL",
+        "2021",
+        "the Federal Council"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "3,000",
+        "about 10%",
+        "who",
+        "what",
+        "second",
+        "About 1,700",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

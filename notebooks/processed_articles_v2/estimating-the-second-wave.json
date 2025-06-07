@@ -1,0 +1,586 @@
+{
+  "filename": "estimating-the-second-wave.md",
+  "original_filename": "estimating-the-second-wave.html",
+  "source_path": "en_news_events/2020/05/estimating-the-second-wave.html",
+  "date": "2020-05",
+  "title": "Estimating The Second Wave",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Age matters",
+      "text": "Should Switzerland see a second wave of the coronavirus pandemic, it would proceed more slowly than the first. This is the conclusion reached by Dirk Mohr, Professor of Computational Modeling of Materials in ETH Zurich’s Department of Mechanical and Process Engineering, and Fadoua Balabdaoui, Senior Scientist in the Seminar for Statistics, based on calculations with a new mathematical model they have specifically developed to forecast the COVID-19 epidemic in Switzerland.\n\n“That means the authorities will have more time than they did during the first wave to take action and to adapt measures as the situation evolves,” Mohr says. He goes on to point out that the number newly infected would rise more slowly during this second wave, because our society has learnt from its experience with the first wave and will always act with greater caution than it did at the beginning of the pandemic. Even if the reproductive number should exceed 1 in the coming weeks and months, it will almost certainly not reach the high levels of the first wave of infection in early March.\n\nFor this reason, it is unlikely that a second wave would overload Switzerland’s healthcare system. “This is good news, but it’s also deceptive,” Mohr says. “A second wave that rises very slowly, with a reproductive number just barely above 1, would be particularly insidious.” Even that kind of wave could lead to a high number of additional fatalities. “To prevent as many deaths as possible, the authorities have to enact measures at a point when the hospitals are not near collapse,” Mohr continues. “They also need to bear in mind that if the public doesn’t actually see the strain on the capacity of hospitals, people might not take the threat seriously or understand why restrictive measures are necessary.”"
+    },
+    {
+      "heading": "Age matters",
+      "text": "To calculate the future scenarios, the scientists calibrated their model with the figures published by the Swiss cantons. This model then computes the future, much like producing a weather forecast. The researchers have posted their model and calculations on the medRxiv platform; their publication has yet to go through the usual peer-reviewing process.\n\nAs far as the researchers are aware, their model calculations are the first ones to also factor in Switzerland’s demographics and age-related contact patterns at a high level of detail. This enabled them to work out the reproductive number from the first wave of the pandemic for each age group separately. Their model results suggest that in Switzerland, the 10- to 20-year-olds were heavily involved in spreading the virus, and the 35- to 45-year-olds also had a larger-than-average contribution. By contrast, the elderly contributed far less on average to the spread."
+    },
+    {
+      "heading": "Protective measures are generally useful",
+      "text": "The calculations also show that the number of fatalities that can be expected in a possible second wave depends heavily on the wave’s extent and duration. One of their scenarios makes the following assumptions about a second wave: the same social distancing rules apply in public life as now, 30 percent of employees will work from home, all schools will stay open as normal without putting any special measures in place (pupils can attend as they did before the pandemic). In this scenario, Switzerland sees an extra 5,000 deaths from COVID-19 – that’s in addition to the total from the first wave, which currently stands at over 1,600. However, due to the longer duration of the second wave, the maximum demand for intensive care beds would be less than it was for the first wave.\n\nThe model calculation results confirm that all measures that lower the likelihood of transmission would reduce the number of deaths in the population. This applies to measures in all age groups, but especially for the workforce and for 10- to 20-year-olds.\n\nIn their study, the scientists put a particular focus on the latter group: if the likelihood of transmission at schools is halved through physical distancing and hygiene rules, the expected number of additional fatalities across the entire population would drop from 5,000 to below 1,000. As Mohr puts it: “We have to be aware that if the reproductive number is over 1, it’s worth taking measures in the schools, at work and in public. They might seem to be excessive in certain cases, but they save lives.”\n\nBalabdaoui F, Mohr D: Age-stratified model of the COVID-19 epidemic to analyse the impact of relaxing lockdown measures: nowcasting and forecasting for Switzerland, uploaded to Medrxiv on 13 May 2020, doi: 10.1101/2020.05.08.20095059"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "The Second Wave",
+        "label": "WORK_OF_ART",
+        "start": 34,
+        "end": 49
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 7,
+        "end": 18
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 25,
+        "end": 31
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 104,
+        "end": 109
+      },
+      {
+        "text": "Dirk Mohr",
+        "label": "PERSON",
+        "start": 145,
+        "end": 154
+      },
+      {
+        "text": "Computational Modeling of Materials",
+        "label": "ORG",
+        "start": 169,
+        "end": 204
+      },
+      {
+        "text": "Department of Mechanical and Process Engineering",
+        "label": "ORG",
+        "start": 221,
+        "end": 269
+      },
+      {
+        "text": "Fadoua Balabdaoui",
+        "label": "PERSON",
+        "start": 275,
+        "end": 292
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 443,
+        "end": 451
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 464,
+        "end": 475
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 550,
+        "end": 555
+      },
+      {
+        "text": "Mohr",
+        "label": "PERSON",
+        "start": 625,
+        "end": 629
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 726,
+        "end": 732
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 799,
+        "end": 804
+      },
+      {
+        "text": "the coming weeks",
+        "label": "DATE",
+        "start": 948,
+        "end": 964
+      },
+      {
+        "text": "months",
+        "label": "DATE",
+        "start": 969,
+        "end": 975
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1035,
+        "end": 1040
+      },
+      {
+        "text": "early March",
+        "label": "DATE",
+        "start": 1062,
+        "end": 1073
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1114,
+        "end": 1120
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1141,
+        "end": 1152
+      },
+      {
+        "text": "Mohr",
+        "label": "PERSON",
+        "start": 1220,
+        "end": 1224
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1234,
+        "end": 1240
+      },
+      {
+        "text": "Mohr",
+        "label": "ORG",
+        "start": 1562,
+        "end": 1566
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 107,
+        "end": 112
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 425,
+        "end": 430
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 454,
+        "end": 465
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 604,
+        "end": 609
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 698,
+        "end": 709
+      },
+      {
+        "text": "20-year-olds",
+        "label": "DATE",
+        "start": 722,
+        "end": 734
+      },
+      {
+        "text": "45-year-olds",
+        "label": "DATE",
+        "start": 796,
+        "end": 808
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 92,
+        "end": 98
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 155,
+        "end": 158
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 218,
+        "end": 224
+      },
+      {
+        "text": "30 percent",
+        "label": "PERCENT",
+        "start": 293,
+        "end": 303
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 492,
+        "end": 503
+      },
+      {
+        "text": "5,000",
+        "label": "CARDINAL",
+        "start": 518,
+        "end": 523
+      },
+      {
+        "text": "COVID-19",
+        "label": "PERSON",
+        "start": 536,
+        "end": 544
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 588,
+        "end": 593
+      },
+      {
+        "text": "over 1,600",
+        "label": "CARDINAL",
+        "start": 626,
+        "end": 636
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 681,
+        "end": 687
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 771,
+        "end": 776
+      },
+      {
+        "text": "10- to 20-year-olds",
+        "label": "CARDINAL",
+        "start": 1019,
+        "end": 1038
+      },
+      {
+        "text": "5,000",
+        "label": "CARDINAL",
+        "start": 1307,
+        "end": 1312
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 1322,
+        "end": 1327
+      },
+      {
+        "text": "Mohr",
+        "label": "PERSON",
+        "start": 1332,
+        "end": 1336
+      },
+      {
+        "text": "Balabdaoui F",
+        "label": "PERSON",
+        "start": 1548,
+        "end": 1560
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 1598,
+        "end": 1606
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1700,
+        "end": 1711
+      },
+      {
+        "text": "Medrxiv",
+        "label": "GPE",
+        "start": 1725,
+        "end": 1732
+      },
+      {
+        "text": "13 May 2020",
+        "label": "DATE",
+        "start": 1736,
+        "end": 1747
+      },
+      {
+        "text": "10.1101/2020.05.08.20095059",
+        "label": "CARDINAL",
+        "start": 1754,
+        "end": 1781
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Balabdaoui F",
+        "COVID-19",
+        "Dirk Mohr",
+        "Fadoua Balabdaoui",
+        "Mohr"
+      ],
+      "ORG": [
+        "COVID-19",
+        "Computational Modeling of Materials",
+        "Department of Mechanical and Process Engineering",
+        "En News",
+        "Mohr"
+      ],
+      "LOCATION": [
+        "Medrxiv",
+        "Switzerland"
+      ],
+      "DATE": [
+        "13 May 2020",
+        "20-year-olds",
+        "45-year-olds",
+        "early March",
+        "months",
+        "the coming weeks"
+      ],
+      "MISC": [
+        "1,000",
+        "10- to 20-year-olds",
+        "10.1101/2020.05.08.20095059",
+        "30 percent",
+        "5,000",
+        "One",
+        "Swiss",
+        "The Second Wave",
+        "first",
+        "over 1,600",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "first": 8,
+      "Switzerland": 7,
+      "second": 7,
+      "Mohr": 4,
+      "COVID-19": 3,
+      "5,000": 2,
+      "En News": 1,
+      "The Second Wave": 1,
+      "Dirk Mohr": 1,
+      "Computational Modeling of Materials": 1,
+      "Department of Mechanical and Process Engineering": 1,
+      "Fadoua Balabdaoui": 1,
+      "the coming weeks": 1,
+      "months": 1,
+      "early March": 1,
+      "Swiss": 1,
+      "20-year-olds": 1,
+      "45-year-olds": 1,
+      "One": 1,
+      "30 percent": 1
+    },
+    "total_entities": 52,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "estimating-the-second-wave.md",
+      "title": "En News Events/2020/05/estimating The Second Wave",
+      "language": "en",
+      "source_path": "en_news_events/2020/05/estimating-the-second-wave.html"
+    },
+    "temporal": {
+      "publication_date": "2020-05",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Balabdaoui F",
+        "COVID-19",
+        "Dirk Mohr",
+        "Fadoua Balabdaoui",
+        "Mohr"
+      ],
+      "people_with_roles": {
+        "COVID-19": [
+          "scientist",
+          "professor"
+        ],
+        "Dirk Mohr": [
+          "scientist",
+          "professor"
+        ],
+        "Fadoua Balabdaoui": [
+          "scientist",
+          "professor"
+        ],
+        "Mohr": [
+          "scientist",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "mathematics"
+      ],
+      "research_topics": [
+        "1,000",
+        "10- to 20-year-olds",
+        "10.1101/2020.05.08.20095059",
+        "30 percent",
+        "5,000",
+        "Swiss",
+        "The Second Wave",
+        "first",
+        "over 1,600",
+        "second"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Balabdaoui F",
+        "Dirk Mohr",
+        "En News",
+        "Wave Should",
+        "Process Engineering",
+        "The Second",
+        "As Mohr",
+        "Mohr D",
+        "Fadoua Balabdaoui",
+        "Senior Scientist",
+        "ETH Zurich",
+        "Computational Modeling"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Mechanical and Process Engineering"
+      ],
+      "institutions": [
+        "COVID-19",
+        "Computational Modeling of Materials",
+        "Department of Mechanical and Process Engineering",
+        "En News",
+        "Mohr"
+      ],
+      "locations": [
+        "Medrxiv",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "first",
+        "Switzerland",
+        "second",
+        "Mohr",
+        "COVID-19",
+        "5,000",
+        "En News",
+        "The Second Wave",
+        "Dirk Mohr",
+        "Computational Modeling of Materials"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Age matters",
+          "Age matters",
+          "Protective measures are generally useful"
+        ],
+        "content_length": 4552
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Balabdaoui F",
+        "Computational Modeling of Materials",
+        "Dirk Mohr",
+        "En News",
+        "Mohr",
+        "2020",
+        "Fadoua Balabdaoui",
+        "Department of Mechanical and Process Engineering",
+        "COVID-19",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1101/2020.05.08.20095059",
+        "when",
+        "engineering",
+        "1,000",
+        "medical_research",
+        "10- to 20-year-olds",
+        "5,000",
+        "mathematics",
+        "who",
+        "The Second Wave",
+        "30 percent",
+        "what",
+        "how",
+        "first",
+        "Swiss",
+        "second",
+        "why",
+        "where",
+        "over 1,600"
+      ],
+      "graph_relations": [
+        "COVID-19_has_role_scientist",
+        "COVID-19_has_role_professor",
+        "Dirk Mohr_has_role_scientist",
+        "Dirk Mohr_has_role_professor",
+        "Fadoua Balabdaoui_has_role_scientist",
+        "Fadoua Balabdaoui_has_role_professor",
+        "Mohr_has_role_scientist",
+        "Mohr_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "filename": "scnat-workshop-zu-open-data-and-data-management.md",
+  "original_filename": "scnat-workshop-zu-open-data-and-data-management.html",
+  "source_path": "en_internal/2018/10/scnat-workshop-zu-open-data-and-data-management.html",
+  "date": "2018-10",
+  "title": "Scnat Workshop Zu Open Data And Data Management",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The aim of this event in Bern is to give the research community a chance to raise their concerns regarding open data as well as data management. Representatives of the Swiss National Science Foundation (SNSF) and the European Commission present their view and inform about recent trends. For a detailed program and registration, please visit the SCNAT website ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Workshop zu Open Data And Data Management",
+        "label": "ORG",
+        "start": 26,
+        "end": 67
+      },
+      {
+        "text": "Bern",
+        "label": "ORG",
+        "start": 25,
+        "end": 29
+      },
+      {
+        "text": "the Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 164,
+        "end": 201
+      },
+      {
+        "text": "the European Commission",
+        "label": "ORG",
+        "start": 213,
+        "end": 236
+      },
+      {
+        "text": "SCNAT",
+        "label": "NORP",
+        "start": 346,
+        "end": 351
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Bern",
+        "Workshop zu Open Data And Data Management",
+        "the European Commission",
+        "the Swiss National Science Foundation"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "SCNAT"
+      ]
+    },
+    "entity_counts": {
+      "Workshop zu Open Data And Data Management": 1,
+      "Bern": 1,
+      "the Swiss National Science Foundation": 1,
+      "the European Commission": 1,
+      "SCNAT": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "scnat-workshop-zu-open-data-and-data-management.md",
+      "title": "En Internal/2018/10/scnat Workshop zu Open Data And Data Management",
+      "language": "en",
+      "source_path": "en_internal/2018/10/scnat-workshop-zu-open-data-and-data-management.html"
+    },
+    "temporal": {
+      "publication_date": "2018-10",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "SCNAT"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "European Commission",
+        "And Data",
+        "Open Data",
+        "En Internal",
+        "Swiss National",
+        "Management The",
+        "Science Foundation"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bern",
+        "Workshop zu Open Data And Data Management",
+        "the European Commission",
+        "the Swiss National Science Foundation"
+      ],
+      "locations": [],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "Workshop zu Open Data And Data Management",
+        "Bern",
+        "the Swiss National Science Foundation",
+        "the European Commission",
+        "SCNAT"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 429
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "the Swiss National Science Foundation",
+        "EU",
+        "Bern",
+        "the European Commission",
+        "Workshop zu Open Data And Data Management"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "SCNAT"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

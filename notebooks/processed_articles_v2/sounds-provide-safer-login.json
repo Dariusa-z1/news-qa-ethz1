@@ -1,0 +1,491 @@
+{
+  "filename": "sounds-provide-safer-login.md",
+  "original_filename": "sounds-provide-safer-login.html",
+  "source_path": "en_news_events/2017/04/sounds-provide-safer-login.html",
+  "date": "2017-04",
+  "title": "Sounds Provide Safer Login",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "App and browser compare surrounding sounds",
+      "text": "Secure passwords and multi-stage authentication systems are more crucial than ever: nowadays we use the Internet to pay our bills, conduct business and manage many aspects of daily life. Unfortunately, many people tend to use the same password for all their accounts, despite the worrying global escalation in identity theft and cybercrime, as confirmed by Swisscom last week in its Security Report 2017.\n\nA start-up founded by ETH researchers has developed a unique method for adding an extra layer of network security, at no inconvenience to the user. Futurae Technologies has just patented a novel product, “#SoundProof” that offers a quick and safe authentication procedure. All that is required is an app running on a smartphone or tablet, and another electronic device such as a laptop or desktop computer for the user to log into the required service.\n\nThe new concept is the brainchild of Claudio Marforio and Nikos Karapanos from System Security Group in ETH’s Department of Computer Science. “We developed the technology back in 2015 at ETH Zurich,” says Marforio. Since the company was set up at the end of 2016, Sandra Tobler and Samuel Berger have joined Futurae’s management team."
+    },
+    {
+      "heading": "App and browser compare surrounding sounds",
+      "text": "Sound-Proof works with ambient sounds. If the user logs on from their device to a service that has Sound-Proof running, the computer and the mobile phone where the app is installed record the surrounding sounds of both devices for three seconds. An artificial intelligence algorithm then compares the two. If both sounds match – e.g. the babble of voices in a café, a loud TV or the bark of neighbour’s dog – the user is automatically logged in.\n\nUnlike existing solutions, this authentication process does not require the user to interact using their mobile device: the mobile phone can stay in their handbag or trouser pocket. The technology even works when the smartphone is located in an adjoining room, as long as the door is left open. Anyone fearing an invasion of their privacy can rest assured: the recorded sounds never leave the device. “This means we cannot spy on users”, stresses Marforio.\n\nThis two-factor authentication (2FA) process has been around for quite a while. Some banks, for example, send their customers a code via SMS after the password is entered on the website. The user is not logged in until the relevant code has been entered on the website. Most users find the procedure too inconvenient, however, and there is a move away from SMS login authentication due to security issues. “Our system, on the other hand, performs this check inconspicuously in the background,” says Tobler.\n\nBut what happens if a hacker knows the password and is sitting in the same room as the user, or happens to be listening to the same radio broadcast precisely at that time? The Futurae team has made provisions even for this eventuality. When logging in to a new browser or a new device for the first time, the app requires manual confirmation from the user.\n\nThis authentication process is simple to implement and costs companies on average 60 percent less than conventional methods, and is particularly attractive for use in the financial sector, e-commerce, e-health and insurance. Futurae already has a number of pilot projects running with Swiss banks and financial institutions.\n\nWhile the Sound-Proof technology is the beating heart of the product family, Futurae also offers a complete authentication suite using techniques such as QR codes and ultrasound. Ultrasound comes into play when the surroundings are absolutely quiet. It transmits an encoded message from the browser to the mobile phone. The phone can pick it up and decode it, hence authenticating a user.\n\nAt the end of March, the Futurae team received a significant financial boost: as one of two winners of the Venture Kick competition, it received a prize of 130,000 Swiss francs. “By participating in the Venture Kick programme, we can focus our entire attention on the marketing and commercialisation of our products,” says Tobler. To start with, Futurae wants to conquer the Swiss market, but then plans to expand in Europe and the United States."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 175,
+        "end": 180
+      },
+      {
+        "text": "Swisscom",
+        "label": "ORG",
+        "start": 357,
+        "end": 365
+      },
+      {
+        "text": "last week",
+        "label": "DATE",
+        "start": 366,
+        "end": 375
+      },
+      {
+        "text": "Security Report",
+        "label": "ORG",
+        "start": 383,
+        "end": 398
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 427,
+        "end": 430
+      },
+      {
+        "text": "Futurae Technologies",
+        "label": "ORG",
+        "start": 553,
+        "end": 573
+      },
+      {
+        "text": "SoundProof",
+        "label": "WORK_OF_ART",
+        "start": 610,
+        "end": 620
+      },
+      {
+        "text": "Claudio Marforio",
+        "label": "PERSON",
+        "start": 894,
+        "end": 910
+      },
+      {
+        "text": "Nikos Karapanos",
+        "label": "PERSON",
+        "start": 915,
+        "end": 930
+      },
+      {
+        "text": "System Security Group",
+        "label": "ORG",
+        "start": 936,
+        "end": 957
+      },
+      {
+        "text": "ETH’s Department of Computer Science",
+        "label": "ORG",
+        "start": 961,
+        "end": 997
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1044,
+        "end": 1054
+      },
+      {
+        "text": "the end of 2016",
+        "label": "DATE",
+        "start": 1104,
+        "end": 1119
+      },
+      {
+        "text": "Sandra Tobler",
+        "label": "PERSON",
+        "start": 1121,
+        "end": 1134
+      },
+      {
+        "text": "Samuel Berger",
+        "label": "PERSON",
+        "start": 1139,
+        "end": 1152
+      },
+      {
+        "text": "Futurae",
+        "label": "ORG",
+        "start": 1165,
+        "end": 1172
+      },
+      {
+        "text": "three seconds",
+        "label": "TIME",
+        "start": 231,
+        "end": 244
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 301,
+        "end": 304
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 908,
+        "end": 911
+      },
+      {
+        "text": "2FA",
+        "label": "CARDINAL",
+        "start": 935,
+        "end": 938
+      },
+      {
+        "text": "SMS",
+        "label": "ORG",
+        "start": 1260,
+        "end": 1263
+      },
+      {
+        "text": "Tobler",
+        "label": "PERSON",
+        "start": 1402,
+        "end": 1408
+      },
+      {
+        "text": "Futurae",
+        "label": "NORP",
+        "start": 1586,
+        "end": 1593
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1703,
+        "end": 1708
+      },
+      {
+        "text": "60 percent",
+        "label": "PERCENT",
+        "start": 1849,
+        "end": 1859
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 2052,
+        "end": 2057
+      },
+      {
+        "text": "Futurae",
+        "label": "ORG",
+        "start": 2169,
+        "end": 2176
+      },
+      {
+        "text": "the end of March",
+        "label": "DATE",
+        "start": 2484,
+        "end": 2500
+      },
+      {
+        "text": "Futurae",
+        "label": "NORP",
+        "start": 2506,
+        "end": 2513
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 2562,
+        "end": 2565
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2569,
+        "end": 2572
+      },
+      {
+        "text": "130,000 Swiss francs",
+        "label": "MONEY",
+        "start": 2637,
+        "end": 2657
+      },
+      {
+        "text": "Venture Kick",
+        "label": "ORG",
+        "start": 2684,
+        "end": 2696
+      },
+      {
+        "text": "Tobler",
+        "label": "PERSON",
+        "start": 2804,
+        "end": 2810
+      },
+      {
+        "text": "Futurae",
+        "label": "ORG",
+        "start": 2827,
+        "end": 2834
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 2856,
+        "end": 2861
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 2898,
+        "end": 2904
+      },
+      {
+        "text": "the United States",
+        "label": "GPE",
+        "start": 2909,
+        "end": 2926
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Claudio Marforio",
+        "Nikos Karapanos",
+        "Samuel Berger",
+        "Sandra Tobler",
+        "Tobler"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "ETH’s Department of Computer Science",
+        "En News",
+        "Futurae",
+        "Futurae Technologies",
+        "SMS",
+        "Security Report",
+        "Swisscom",
+        "System Security Group",
+        "Venture Kick"
+      ],
+      "LOCATION": [
+        "Europe",
+        "the United States"
+      ],
+      "DATE": [
+        "daily",
+        "last week",
+        "the end of 2016",
+        "the end of March",
+        "three seconds"
+      ],
+      "MISC": [
+        "130,000 Swiss francs",
+        "2FA",
+        "60 percent",
+        "Futurae",
+        "SoundProof",
+        "Swiss",
+        "first",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Futurae": 5,
+      "two": 3,
+      "Tobler": 2,
+      "Swiss": 2,
+      "En News": 1,
+      "daily": 1,
+      "Swisscom": 1,
+      "last week": 1,
+      "Security Report": 1,
+      "ETH": 1,
+      "Futurae Technologies": 1,
+      "SoundProof": 1,
+      "Claudio Marforio": 1,
+      "Nikos Karapanos": 1,
+      "System Security Group": 1,
+      "ETH’s Department of Computer Science": 1,
+      "ETH Zurich": 1,
+      "the end of 2016": 1,
+      "Sandra Tobler": 1,
+      "Samuel Berger": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "sounds-provide-safer-login.md",
+      "title": "En News Events/2017/04/sounds Provide Safer Login",
+      "language": "en",
+      "source_path": "en_news_events/2017/04/sounds-provide-safer-login.html"
+    },
+    "temporal": {
+      "publication_date": "2017-04",
+      "mentioned_years": [
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Claudio Marforio",
+        "Nikos Karapanos",
+        "Samuel Berger",
+        "Sandra Tobler",
+        "Tobler"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "130,000 Swiss francs",
+        "60 percent",
+        "Futurae",
+        "SoundProof",
+        "Swiss",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "En News",
+        "Claudio Marforio",
+        "System Security",
+        "The Futurae",
+        "Venture Kick",
+        "Nikos Karapanos",
+        "Provide Safer",
+        "Futurae Technologies",
+        "ETH Zurich",
+        "Security Report",
+        "Sandra Tobler",
+        "Login Secure",
+        "Sound-Proof",
+        "Computer Science",
+        "United States",
+        "Samuel Berger"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Computer Science"
+      ],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "ETH’s Department of Computer Science",
+        "En News",
+        "Futurae",
+        "Futurae Technologies",
+        "SMS",
+        "Security Report",
+        "Swisscom",
+        "System Security Group",
+        "Venture Kick"
+      ],
+      "locations": [
+        "Europe",
+        "the United States"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Futurae",
+        "two",
+        "Tobler",
+        "Swiss",
+        "En News",
+        "daily",
+        "Swisscom",
+        "last week",
+        "Security Report",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "App and browser compare surrounding sounds",
+          "App and browser compare surrounding sounds"
+        ],
+        "content_length": 4178
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "SMS",
+        "Claudio Marforio",
+        "2016",
+        "ERC",
+        "Samuel Berger",
+        "Futurae",
+        "Tobler",
+        "Nikos Karapanos",
+        "Futurae Technologies",
+        "Security Report",
+        "Sandra Tobler",
+        "2015",
+        "EU",
+        "ETH’s Department of Computer Science",
+        "Venture Kick",
+        "Swisscom",
+        "System Security Group",
+        "En News",
+        "2017",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "130,000 Swiss francs",
+        "Futurae",
+        "who",
+        "SoundProof",
+        "Swiss",
+        "what",
+        "how",
+        "60 percent",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

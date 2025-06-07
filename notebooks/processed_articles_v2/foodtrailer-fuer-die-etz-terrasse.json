@@ -1,0 +1,233 @@
+{
+  "filename": "foodtrailer-fuer-die-etz-terrasse.md",
+  "original_filename": "foodtrailer-fuer-die-etz-terrasse.html",
+  "source_path": "de_internal/2015/03/foodtrailer-fuer-die-etz-terrasse.html",
+  "date": "2015-03",
+  "title": "Foodtrailer Fuer Die Etz Terrasse",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Ab Mai 2015 erfolgen zahlreiche Abbruch-, Bau- und Sanierungsarbeiten am Gebäude VAW und an Teilen des ETZ an der Gloriastrasse im Raum ETH-Zentrum. Vor diesem Hintergrund schliesst die Gloriabar am 2. April ihre Pforten. Die Arbeiten werden bis ca. 2020 dauern.\n\nAls Alternative zur Gloriabar offeriert das SV-Gastro-Team im neuen, silbernen Foodtrailer ein gastronomisches Angebot auf der ETZ-Terrasse. Ab dem 20. April stehen wochentags von 11 bis 14 Uhr ein warmes Menü, Grill-Würste, Take-Away-Salate, Snacks und Getränke zur Auswahl. Sitzgelegenheiten gibt es innen und aussen.\n\nErgänzend gibt es im Kiosk ETZ wochentags von 7.30 bis 16 Uhr Kaffeespezialitäten, Tee, Kaltgetränke sowie süsse und salzige Snacks."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/03/foodtrailer Fuer",
+        "label": "LOC",
+        "start": 0,
+        "end": 36
+      },
+      {
+        "text": "Etz Terrasse",
+        "label": "LOC",
+        "start": 41,
+        "end": 53
+      },
+      {
+        "text": "VAW",
+        "label": "MISC",
+        "start": 81,
+        "end": 84
+      },
+      {
+        "text": "ETZ",
+        "label": "LOC",
+        "start": 103,
+        "end": 106
+      },
+      {
+        "text": "ETH-Zentrum",
+        "label": "LOC",
+        "start": 136,
+        "end": 147
+      },
+      {
+        "text": "Gloriabar",
+        "label": "LOC",
+        "start": 186,
+        "end": 195
+      },
+      {
+        "text": "SV-Gastro-Team",
+        "label": "MISC",
+        "start": 307,
+        "end": 321
+      },
+      {
+        "text": "ETZ-Terrasse",
+        "label": "MISC",
+        "start": 390,
+        "end": 402
+      },
+      {
+        "text": "Grill-Würste",
+        "label": "MISC",
+        "start": 474,
+        "end": 486
+      },
+      {
+        "text": "Take-Away-Salate",
+        "label": "LOC",
+        "start": 488,
+        "end": 504
+      },
+      {
+        "text": "Snacks",
+        "label": "LOC",
+        "start": 506,
+        "end": 512
+      },
+      {
+        "text": "Getränke",
+        "label": "LOC",
+        "start": 517,
+        "end": 525
+      },
+      {
+        "text": "ETZ",
+        "label": "LOC",
+        "start": 610,
+        "end": 613
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2015/03/foodtrailer Fuer",
+        "ETH-Zentrum",
+        "ETZ",
+        "Etz Terrasse",
+        "Getränke",
+        "Gloriabar",
+        "Snacks",
+        "Take-Away-Salate"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETZ-Terrasse",
+        "Grill-Würste",
+        "SV-Gastro-Team",
+        "VAW"
+      ]
+    },
+    "entity_counts": {
+      "ETZ": 2,
+      "De Internal/2015/03/foodtrailer Fuer": 1,
+      "Etz Terrasse": 1,
+      "VAW": 1,
+      "ETH-Zentrum": 1,
+      "Gloriabar": 1,
+      "SV-Gastro-Team": 1,
+      "ETZ-Terrasse": 1,
+      "Grill-Würste": 1,
+      "Take-Away-Salate": 1,
+      "Snacks": 1,
+      "Getränke": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "foodtrailer-fuer-die-etz-terrasse.md",
+      "title": "De Internal/2015/03/foodtrailer Fuer die Etz Terrasse",
+      "language": "de",
+      "source_path": "de_internal/2015/03/foodtrailer-fuer-die-etz-terrasse.html"
+    },
+    "temporal": {
+      "publication_date": "2015-03",
+      "mentioned_years": [
+        "2015",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETZ-Terrasse",
+        "Grill-Würste",
+        "SV-Gastro-Team"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Die Arbeiten",
+        "Kiosk ETZ",
+        "De Internal",
+        "SV-Gastro",
+        "Als Alternative",
+        "Ab Mai",
+        "Raum ETH",
+        "ETZ-Terrasse",
+        "Etz Terrasse",
+        "Take-Away"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2015/03/foodtrailer Fuer",
+        "ETH-Zentrum",
+        "ETZ",
+        "Etz Terrasse",
+        "Getränke",
+        "Gloriabar",
+        "Snacks",
+        "Take-Away-Salate"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETZ",
+        "De Internal/2015/03/foodtrailer Fuer",
+        "Etz Terrasse",
+        "VAW",
+        "ETH-Zentrum",
+        "Gloriabar",
+        "SV-Gastro-Team",
+        "ETZ-Terrasse",
+        "Grill-Würste",
+        "Take-Away-Salate"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 771
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2020",
+        "EU",
+        "2015"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Grill-Würste",
+        "SV-Gastro-Team",
+        "ETZ-Terrasse"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "filename": "the-art-of-asking-good-questions.md",
+  "original_filename": "the-art-of-asking-good-questions.html",
+  "source_path": "en_internal/2017/06/the-art-of-asking-good-questions.html",
+  "date": "2017-06",
+  "title": "The Art Of Asking Good Questions",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Reflecting on our actions",
+      "text": "Anyone who is familiar with Douglas Adams' sci-fi classic \"The Hitchhiker's Guide to the Galaxy\" will know \"42\", the Deep Thought supercomputer's succinct yet cryptic answer to the question about the meaning of life. That the handy magazine from ETH's Critical Thinking team shares its name with this answer is no coincidence, since all its articles focus on how to ask a good question."
+    },
+    {
+      "heading": "Reflecting on our actions",
+      "text": "This is the issue at the very heart of the Critical Thinking initiative. The collection of articles, observations and caricatures in \"42\" aims to get ETH members to think critically about what often lies unquestioned at the root of their work. \"If these texts make people think just once about their own way of thinking, we've achieved our aim,\" says Gerd Folkers, Chair of Science Studies and Head of the Critical Thinking initiative. A new edition of the magazine is planned approximately every six weeks, or 42 days. It will be published online and in print form in dedicated newspaper boxes on the Zentrum and Hönggerberg campuses."
+    },
+    {
+      "heading": "A return to faith",
+      "text": "In the opening edition, economist Matthias Binswanger shows how methodical optimisation paradoxically increases the proportion of faith in scientific coordinate systems – and how little science itself acknowledges this: \"Increasingly complex statistical processes and methods also lead to an increasingly complex variety of results (...),\" says Binswanger. \"Through an 'appropriate' choice of data and timeframe, through an 'appropriate' manipulation of the data, through the choice of 'appropriate' statistical processes, and through the non-publication of results that contradict that individual's position, many postulated hypotheses and theories are confirmed or misrepresented in line with the researcher's interests.\""
+    },
+    {
+      "heading": "Critical thinking required",
+      "text": "In another text, physicist and philosopher Eduard Kaeser describes how the weighting of the non-factual is increasing amid the onslaught of digital information as, gradually, the central framework of truth and objectivity is alarmingly displaced.\n\nLike any magazine, an edition of 42 has to include a few titbits – intelligent titbits, of course – in the form of aperçus, cartoons and images, preferably sourced from ETH's own labs. Readers are encouraged to submit their own contributions to upcoming editions."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "CTETH Brown Bag seminar: «42» Critical Thinking\n\nTuesday, 13 June, 12.15-2 pm, ETH Hönggerberg , HIL D 60.1, with Gerd Folkers (Head of CTETH) and Reto Givel (philosopher)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Douglas Adams'",
+        "label": "PERSON",
+        "start": 28,
+        "end": 42
+      },
+      {
+        "text": "The Hitchhiker's Guide",
+        "label": "WORK_OF_ART",
+        "start": 59,
+        "end": 81
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 246,
+        "end": 249
+      },
+      {
+        "text": "Critical Thinking",
+        "label": "ORG",
+        "start": 252,
+        "end": 269
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 150,
+        "end": 153
+      },
+      {
+        "text": "Gerd Folkers",
+        "label": "PERSON",
+        "start": 351,
+        "end": 363
+      },
+      {
+        "text": "approximately every six weeks",
+        "label": "DATE",
+        "start": 477,
+        "end": 506
+      },
+      {
+        "text": "42 days",
+        "label": "DATE",
+        "start": 511,
+        "end": 518
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 602,
+        "end": 609
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 614,
+        "end": 625
+      },
+      {
+        "text": "Matthias Binswanger",
+        "label": "PERSON",
+        "start": 34,
+        "end": 53
+      },
+      {
+        "text": "Binswanger",
+        "label": "PERSON",
+        "start": 345,
+        "end": 355
+      },
+      {
+        "text": "Eduard Kaeser",
+        "label": "PERSON",
+        "start": 43,
+        "end": 56
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 416,
+        "end": 419
+      },
+      {
+        "text": "CTETH Brown Bag",
+        "label": "PERSON",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Tuesday",
+        "label": "DATE",
+        "start": 48,
+        "end": 55
+      },
+      {
+        "text": "13 June",
+        "label": "DATE",
+        "start": 57,
+        "end": 64
+      },
+      {
+        "text": "12.15-2 pm",
+        "label": "TIME",
+        "start": 66,
+        "end": 76
+      },
+      {
+        "text": "ETH Hönggerberg",
+        "label": "PERSON",
+        "start": 78,
+        "end": 93
+      },
+      {
+        "text": "HIL",
+        "label": "ORG",
+        "start": 96,
+        "end": 99
+      },
+      {
+        "text": "60.1",
+        "label": "CARDINAL",
+        "start": 102,
+        "end": 106
+      },
+      {
+        "text": "Gerd Folkers",
+        "label": "ORG",
+        "start": 113,
+        "end": 125
+      },
+      {
+        "text": "CTETH",
+        "label": "PERSON",
+        "start": 135,
+        "end": 140
+      },
+      {
+        "text": "Reto Givel",
+        "label": "ORG",
+        "start": 146,
+        "end": 156
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Binswanger",
+        "CTETH",
+        "CTETH Brown Bag",
+        "Douglas Adams'",
+        "ETH Hönggerberg",
+        "Eduard Kaeser",
+        "Gerd Folkers",
+        "Matthias Binswanger",
+        "Zentrum"
+      ],
+      "ORG": [
+        "Critical Thinking",
+        "ETH",
+        "Gerd Folkers",
+        "HIL",
+        "Reto Givel"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "12.15-2 pm",
+        "13 June",
+        "42 days",
+        "Tuesday",
+        "approximately every six weeks"
+      ],
+      "MISC": [
+        "60.1",
+        "The Hitchhiker's Guide"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "Gerd Folkers": 2,
+      "Douglas Adams'": 1,
+      "The Hitchhiker's Guide": 1,
+      "Critical Thinking": 1,
+      "approximately every six weeks": 1,
+      "42 days": 1,
+      "Zentrum": 1,
+      "Hönggerberg": 1,
+      "Matthias Binswanger": 1,
+      "Binswanger": 1,
+      "Eduard Kaeser": 1,
+      "CTETH Brown Bag": 1,
+      "Tuesday": 1,
+      "13 June": 1,
+      "12.15-2 pm": 1,
+      "ETH Hönggerberg": 1,
+      "HIL": 1,
+      "60.1": 1,
+      "CTETH": 1
+    },
+    "total_entities": 24,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-art-of-asking-good-questions.md",
+      "title": "En Internal/2017/06/the Art Of Asking Good Questions",
+      "language": "en",
+      "source_path": "en_internal/2017/06/the-art-of-asking-good-questions.html"
+    },
+    "temporal": {
+      "publication_date": "2017-06",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Binswanger",
+        "CTETH",
+        "CTETH Brown Bag",
+        "Douglas Adams'",
+        "ETH Hönggerberg",
+        "Eduard Kaeser",
+        "Gerd Folkers",
+        "Matthias Binswanger",
+        "Zentrum"
+      ],
+      "people_with_roles": {
+        "CTETH": [
+          "head"
+        ],
+        "Gerd Folkers": [
+          "head",
+          "chair"
+        ]
+      },
+      "institutional_roles": [
+        "chair",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "60.1",
+        "The Hitchhiker's Guide"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "The Hitchhiker",
+        "Gerd Folkers",
+        "Critical Thinking",
+        "Science Studies",
+        "Reto Givel",
+        "Eduard Kaeser",
+        "Asking Good",
+        "En Internal",
+        "Questions Anyone",
+        "HIL D",
+        "Matthias Binswanger",
+        "Deep Thought",
+        "Douglas Adams",
+        "CTETH Brown",
+        "Art Of"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Critical Thinking",
+        "ETH",
+        "Gerd Folkers",
+        "HIL",
+        "Reto Givel"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Gerd Folkers",
+        "Douglas Adams'",
+        "The Hitchhiker's Guide",
+        "Critical Thinking",
+        "approximately every six weeks",
+        "42 days",
+        "Zentrum",
+        "Hönggerberg",
+        "Matthias Binswanger"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Reflecting on our actions",
+          "Reflecting on our actions",
+          "A return to faith",
+          "Critical thinking required",
+          "Staffnet"
+        ],
+        "content_length": 2484
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Gerd Folkers",
+        "Critical Thinking",
+        "ETH Hönggerberg",
+        "Eduard Kaeser",
+        "2017",
+        "Zentrum",
+        "Douglas Adams'",
+        "CTETH Brown Bag",
+        "Matthias Binswanger",
+        "HIL",
+        "Binswanger",
+        "ERC",
+        "CTETH",
+        "Reto Givel"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "how",
+        "The Hitchhiker's Guide",
+        "60.1",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "CTETH_has_role_head",
+        "Gerd Folkers_has_role_head",
+        "Gerd Folkers_has_role_chair",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

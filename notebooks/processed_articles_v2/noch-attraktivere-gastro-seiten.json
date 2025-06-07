@@ -1,0 +1,193 @@
+{
+  "filename": "noch-attraktivere-gastro-seiten.md",
+  "original_filename": "noch-attraktivere-gastro-seiten.html",
+  "source_path": "de_internal/2016/05/noch-attraktivere-gastro-seiten.html",
+  "date": "2016-05",
+  "title": "Noch Attraktivere Gastro Seiten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Neue Funktionen in der ETH-App",
+      "text": "Tausende ETH-Mitarbeitende klicken sich täglich durch die Webseiten der ETH-Gastronomie – um herauszufinden, was es wo zu essen gibt und ob etwas neues im Angebot ist. Nun sind die Webseiten ins aktuelle Design migriert.\n\nVerbessert wurde unter anderem die Menüsuche: Hungrige können beispielsweise nach veganen Gerichten suchen oder spezifische Allergene von der Suche ausschliessen. Möchte man bargeldlos bezahlen können, auf einer Terrasse sitzen oder werden Kinderstühle benötigt, kann man die Suche auch nach diesen Merkmalen filtern.\n\nWas bleibt, ist das Gäste-Feedback-Formular . Dieses trägt dazu bei, die Gastronomie an der ETH stetig zu verbessern."
+    },
+    {
+      "heading": "Neue Funktionen in der ETH-App",
+      "text": "Auch wer sich sein Mittagsmenü nicht am Computer, sondern auf dem Smartphone aussucht, profitiert von neuen Funktionen: So kann man sich dank diversen Filtern etwa nur jene Menüs anzeigen lassen, die aufgrund von Restaurant- und Ernährungspräferenzen oder Allergien in Frage kommen. Das entsprechende Update der ETH-Zürich-App wird in den nächsten Tagen erhältlich sein."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/05",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "ETH-Mitarbeitende",
+        "label": "ORG",
+        "start": 9,
+        "end": 26
+      },
+      {
+        "text": "ETH-Gastronomie",
+        "label": "MISC",
+        "start": 72,
+        "end": 87
+      },
+      {
+        "text": "Verbessert",
+        "label": "PER",
+        "start": 221,
+        "end": 231
+      },
+      {
+        "text": "Gäste-Feedback-Formular",
+        "label": "LOC",
+        "start": 559,
+        "end": 582
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 631,
+        "end": 634
+      },
+      {
+        "text": "Smartphone",
+        "label": "LOC",
+        "start": 66,
+        "end": 76
+      },
+      {
+        "text": "ETH-Zürich-App",
+        "label": "MISC",
+        "start": 312,
+        "end": 326
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Verbessert"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH-Mitarbeitende"
+      ],
+      "LOCATION": [
+        "De Internal/2016/05",
+        "Gäste-Feedback-Formular",
+        "Smartphone"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Gastronomie",
+        "ETH-Zürich-App"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2016/05": 1,
+      "ETH-Mitarbeitende": 1,
+      "ETH-Gastronomie": 1,
+      "Verbessert": 1,
+      "Gäste-Feedback-Formular": 1,
+      "ETH": 1,
+      "Smartphone": 1,
+      "ETH-Zürich-App": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "noch-attraktivere-gastro-seiten.md",
+      "title": "De Internal/2016/05/noch Attraktivere Gastro Seiten",
+      "language": "de",
+      "source_path": "de_internal/2016/05/noch-attraktivere-gastro-seiten.html"
+    },
+    "temporal": {
+      "publication_date": "2016-05",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Verbessert"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Gastronomie",
+        "ETH-Zürich-App"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Feedback-Formular",
+        "De Internal",
+        "ETH-Gastronomie",
+        "ETH-Mitarbeitende",
+        "Attraktivere Gastro",
+        "Seiten Tausende"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH-Mitarbeitende"
+      ],
+      "locations": [
+        "De Internal/2016/05",
+        "Gäste-Feedback-Formular",
+        "Smartphone"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2016/05",
+        "ETH-Mitarbeitende",
+        "ETH-Gastronomie",
+        "Verbessert",
+        "Gäste-Feedback-Formular",
+        "ETH",
+        "Smartphone",
+        "ETH-Zürich-App"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Neue Funktionen in der ETH-App",
+          "Neue Funktionen in der ETH-App"
+        ],
+        "content_length": 1081
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "EU",
+        "Verbessert",
+        "2016",
+        "ETH-Mitarbeitende"
+      ],
+      "semantic_concepts": [
+        "ETH-Gastronomie",
+        "when",
+        "ETH-Zürich-App"
+      ],
+      "graph_relations": []
+    }
+  }
+}

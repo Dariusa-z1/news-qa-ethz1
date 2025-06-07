@@ -1,0 +1,470 @@
+{
+  "filename": "increased-population-displacement-risk.md",
+  "original_filename": "increased-population-displacement-risk.html",
+  "source_path": "en_news_events/2021/03/increased-population-displacement-risk.html",
+  "date": "2021-03",
+  "title": "Increased Population Displacement Risk",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Population growth greatly increases risk",
+      "text": "Every year, millions of people around the world are displaced from their homes due to severe weather caused by climate change. According to the International Red Cross and Red Crescent Movement, 10.3 million people were displaced as a result of climate-related events in the last six months alone – four times the number displaced by war and conflict in the same period. One of the main causes of displacement is flooding. A recent example is the situation in eastern Australia, where tens of thousands of people are having to flee their homes to seek safety from this hundred-year flood.\n\nAn international research team led by the Weather and Climate Risks Group at ETH Zurich has just published a new study aimed at providing a better understanding of future displacement risks due to flooding from rivers overflowing their banks. Their study also evaluates the influence of climate change as well as demographic and socioeconomic factors on these risks."
+    },
+    {
+      "heading": "Population growth greatly increases risk",
+      "text": "Using a variety of climate, hydrology and population distribution models, the researchers show that if the population remains stable at its current level, the risk of flood-related displacement increases by more than 50 percent (relative to 2010 levels) for each degree of global warming.\n\nHowever, the world’s population is growing. Even if this growth continues towards a more sustainable path, the risk of displacement will still increase significantly: assuming that the world meets the Paris Agreement’s goal of limiting global warming to a maximum of 2° Celsius, the globally averaged risk is projected to rise by up to 110 percent by the end of this century.\n\nHowever, under “business as usual” climate-change conditions and if the gap between rich and poor continues to widen, the risk is projected to increase even more dramatically. For this scenario, the researchers calculated that the risk of displacement due to flooding would be up to 350 percent higher."
+    },
+    {
+      "heading": "Rapid action needed",
+      "text": "According to the study’s authors, it is not yet too late to address and manage the risk of flood displacement through spatial and urban planning measures and protective infrastructure such as dams. “Our findings highlight the need for rapid action on both climate mitigation and adaptation agendas in order to reduce future risks, especially to vulnerable populations,” says Pui Man Kam, lead author of the study and doctoral student in ETH Professor David N. Bresch’s group. “Floods often affect the most socio-economically vulnerable groups, who tend to live in more hazard-prone areas,” she explains.\n\nTo conduct their study, the researchers used a global climate-, hydrology- and inundation-modelling chain to quantify the effect of global warming on displacement risk for both current and projected future population distributions. The study has just been published in the journal Environmental Research Letters .\n\n“Because floods are a major driver of displacement and due to the fact that they are influenced by climate change, it is imperative that we have a better understanding of how the risks are changing,” Kam says.\n\nKam PM, Aznar-Siguan G, Schewe J, Milano L, Ginnetti J, Willner S, McCaughey JW, Bresch DN: Global warming and population change both heighten future risk of human displacement due to river floods. Environmental Research Letters, 24 March 2020, doi: 10.1088/1748-9326/abd26c"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Every year",
+        "label": "DATE",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "millions",
+        "label": "CARDINAL",
+        "start": 12,
+        "end": 20
+      },
+      {
+        "text": "the International Red Cross",
+        "label": "ORG",
+        "start": 140,
+        "end": 167
+      },
+      {
+        "text": "Red Crescent Movement",
+        "label": "ORG",
+        "start": 172,
+        "end": 193
+      },
+      {
+        "text": "10.3 million",
+        "label": "CARDINAL",
+        "start": 195,
+        "end": 207
+      },
+      {
+        "text": "the last six months",
+        "label": "DATE",
+        "start": 271,
+        "end": 290
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 299,
+        "end": 303
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 371,
+        "end": 374
+      },
+      {
+        "text": "Australia",
+        "label": "GPE",
+        "start": 468,
+        "end": 477
+      },
+      {
+        "text": "tens of thousands",
+        "label": "CARDINAL",
+        "start": 485,
+        "end": 502
+      },
+      {
+        "text": "hundred-year",
+        "label": "DATE",
+        "start": 569,
+        "end": 581
+      },
+      {
+        "text": "Weather",
+        "label": "PERSON",
+        "start": 631,
+        "end": 638
+      },
+      {
+        "text": "Climate Risks Group",
+        "label": "ORG",
+        "start": 643,
+        "end": 662
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 666,
+        "end": 676
+      },
+      {
+        "text": "more than 50 percent",
+        "label": "PERCENT",
+        "start": 207,
+        "end": 227
+      },
+      {
+        "text": "the Paris Agreement",
+        "label": "EVENT",
+        "start": 486,
+        "end": 505
+      },
+      {
+        "text": "2°",
+        "label": "CARDINAL",
+        "start": 556,
+        "end": 558
+      },
+      {
+        "text": "up to 110 percent",
+        "label": "PERCENT",
+        "start": 619,
+        "end": 636
+      },
+      {
+        "text": "the end of this century",
+        "label": "DATE",
+        "start": 640,
+        "end": 663
+      },
+      {
+        "text": "up to 350 percent",
+        "label": "PERCENT",
+        "start": 942,
+        "end": 959
+      },
+      {
+        "text": "Pui Man Kam",
+        "label": "PERSON",
+        "start": 375,
+        "end": 386
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 437,
+        "end": 440
+      },
+      {
+        "text": "David N. Bresch’s",
+        "label": "PERSON",
+        "start": 451,
+        "end": 468
+      },
+      {
+        "text": "Environmental Research Letters",
+        "label": "ORG",
+        "start": 885,
+        "end": 915
+      },
+      {
+        "text": "Kam",
+        "label": "PERSON",
+        "start": 1118,
+        "end": 1121
+      },
+      {
+        "text": "Aznar-Siguan G",
+        "label": "ORG",
+        "start": 1136,
+        "end": 1150
+      },
+      {
+        "text": "Schewe J",
+        "label": "ORG",
+        "start": 1152,
+        "end": 1160
+      },
+      {
+        "text": "McCaughey JW",
+        "label": "ORG",
+        "start": 1195,
+        "end": 1207
+      },
+      {
+        "text": "Bresch DN",
+        "label": "PERSON",
+        "start": 1209,
+        "end": 1218
+      },
+      {
+        "text": "Environmental Research Letters",
+        "label": "ORG",
+        "start": 1326,
+        "end": 1356
+      },
+      {
+        "text": "24 March 2020",
+        "label": "DATE",
+        "start": 1358,
+        "end": 1371
+      },
+      {
+        "text": "10.1088/1748-9326",
+        "label": "CARDINAL",
+        "start": 1378,
+        "end": 1395
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bresch DN",
+        "David N. Bresch’s",
+        "Kam",
+        "Pui Man Kam",
+        "Weather"
+      ],
+      "ORG": [
+        "Aznar-Siguan G",
+        "Climate Risks Group",
+        "ETH",
+        "ETH Zurich",
+        "Environmental Research Letters",
+        "McCaughey JW",
+        "Red Crescent Movement",
+        "Schewe J",
+        "the International Red Cross"
+      ],
+      "LOCATION": [
+        "Australia"
+      ],
+      "DATE": [
+        "24 March 2020",
+        "Every year",
+        "hundred-year",
+        "the end of this century",
+        "the last six months"
+      ],
+      "MISC": [
+        "10.1088/1748-9326",
+        "10.3 million",
+        "2°",
+        "One",
+        "four",
+        "millions",
+        "more than 50 percent",
+        "tens of thousands",
+        "the Paris Agreement",
+        "up to 110 percent",
+        "up to 350 percent"
+      ]
+    },
+    "entity_counts": {
+      "Environmental Research Letters": 2,
+      "Every year": 1,
+      "millions": 1,
+      "the International Red Cross": 1,
+      "Red Crescent Movement": 1,
+      "10.3 million": 1,
+      "the last six months": 1,
+      "four": 1,
+      "One": 1,
+      "Australia": 1,
+      "tens of thousands": 1,
+      "hundred-year": 1,
+      "Weather": 1,
+      "Climate Risks Group": 1,
+      "ETH Zurich": 1,
+      "more than 50 percent": 1,
+      "the Paris Agreement": 1,
+      "2°": 1,
+      "up to 110 percent": 1,
+      "the end of this century": 1
+    },
+    "total_entities": 32,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "increased-population-displacement-risk.md",
+      "title": "En News Events/2021/03/increased Population Displacement Risk",
+      "language": "en",
+      "source_path": "en_news_events/2021/03/increased-population-displacement-risk.html"
+    },
+    "temporal": {
+      "publication_date": "2021-03",
+      "mentioned_years": [
+        "2010",
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bresch DN",
+        "David N. Bresch’s",
+        "Kam",
+        "Pui Man Kam",
+        "Weather"
+      ],
+      "people_with_roles": {
+        "Kam": [
+          "student",
+          "professor"
+        ],
+        "Pui Man Kam": [
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1088/1748-9326",
+        "10.3 million",
+        "four",
+        "millions",
+        "more than 50 percent",
+        "tens of thousands",
+        "the Paris Agreement",
+        "up to 110 percent",
+        "up to 350 percent"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "David N",
+        "Kam PM",
+        "Population Displacement",
+        "Milano L",
+        "Bresch DN",
+        "Ginnetti J",
+        "Risk Every",
+        "Climate Risks",
+        "ETH Professor",
+        "Environmental Research",
+        "Paris Agreement",
+        "International Red",
+        "Willner S",
+        "Red Crescent",
+        "En News",
+        "Aznar-Siguan",
+        "Schewe J",
+        "McCaughey JW",
+        "Pui Man",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Aznar-Siguan G",
+        "Climate Risks Group",
+        "ETH",
+        "ETH Zurich",
+        "Environmental Research Letters",
+        "McCaughey JW",
+        "Red Crescent Movement",
+        "Schewe J",
+        "the International Red Cross"
+      ],
+      "locations": [
+        "Australia"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Environmental Research Letters",
+        "Every year",
+        "millions",
+        "the International Red Cross",
+        "Red Crescent Movement",
+        "10.3 million",
+        "the last six months",
+        "four",
+        "One",
+        "Australia"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Population growth greatly increases risk",
+          "Population growth greatly increases risk",
+          "Rapid action needed"
+        ],
+        "content_length": 3394
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Schewe J",
+        "the International Red Cross",
+        "Red Crescent Movement",
+        "2010",
+        "McCaughey JW",
+        "Pui Man Kam",
+        "ETH Zurich",
+        "2020",
+        "Kam",
+        "Climate Risks Group",
+        "David N. Bresch’s",
+        "2021",
+        "Aznar-Siguan G",
+        "Bresch DN",
+        "Environmental Research Letters",
+        "ERC",
+        "Weather"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.3 million",
+        "10.1088/1748-9326",
+        "the Paris Agreement",
+        "four",
+        "who",
+        "more than 50 percent",
+        "where",
+        "up to 350 percent",
+        "tens of thousands",
+        "what",
+        "up to 110 percent",
+        "how",
+        "millions",
+        "climate_change",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Kam_has_role_student",
+        "Kam_has_role_professor",
+        "Pui Man Kam_has_role_student",
+        "Pui Man Kam_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

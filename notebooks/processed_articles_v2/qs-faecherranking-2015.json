@@ -1,0 +1,377 @@
+{
+  "filename": "qs-faecherranking-2015.md",
+  "original_filename": "qs-faecherranking-2015.html",
+  "source_path": "en_news_events/2015/04/qs-faecherranking-2015.html",
+  "date": "2015-04",
+  "title": "Qs Faecherranking 2015",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "University Rankings by Subject. The university is now ranked number one in earth and marine sciences according to the global comparison. These results were recently published by the QS Ranking organisation. A year ago, ETH's earth sciences faculty ranked ninth. At that time, Harvard University held the top spot, followed by the University of Cambridge (UK) and the University of California, Berkeley, which now ranks second. Harvard occupies the third spot.\n\nETH's earth sciences faculty received the highest ratings in the categories \"Academic reputation\" and \"Citations per paper\".\n\nThe QS Ranking by Subjects also includes other subjects taught at ETH Zurich: the best again include environmental sciences (3rd place – same as previous year), electrical & electronic engineering (5th – same as previous year), architecture & civil engineering (7th – not previously ranked), chemistry (8th – previous year 7th), statistics & applied mathematics (8th), computer science (9th – previous year 8th), mathematics (9th), physics & astronomy (9th), and biological sciences (10th – same as previous year).\n\nQS compared a total of 36 subjects ranging from dentistry and engineering to architecture; in total, 22 ETH subjects were assessed and 20 were ranked in the list."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Faecherranking 2015",
+        "label": "EVENT",
+        "start": 26,
+        "end": 45
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 68,
+        "end": 71
+      },
+      {
+        "text": "earth",
+        "label": "LOC",
+        "start": 75,
+        "end": 80
+      },
+      {
+        "text": "A year ago",
+        "label": "DATE",
+        "start": 207,
+        "end": 217
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 219,
+        "end": 222
+      },
+      {
+        "text": "ninth",
+        "label": "ORDINAL",
+        "start": 255,
+        "end": 260
+      },
+      {
+        "text": "Harvard University",
+        "label": "ORG",
+        "start": 276,
+        "end": 294
+      },
+      {
+        "text": "the University of Cambridge",
+        "label": "ORG",
+        "start": 326,
+        "end": 353
+      },
+      {
+        "text": "UK",
+        "label": "GPE",
+        "start": 355,
+        "end": 357
+      },
+      {
+        "text": "the University of California, Berkeley",
+        "label": "ORG",
+        "start": 363,
+        "end": 401
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 419,
+        "end": 425
+      },
+      {
+        "text": "Harvard",
+        "label": "ORG",
+        "start": 427,
+        "end": 434
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 448,
+        "end": 453
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 460,
+        "end": 463
+      },
+      {
+        "text": "The QS Ranking by Subjects",
+        "label": "WORK_OF_ART",
+        "start": 585,
+        "end": 611
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 651,
+        "end": 661
+      },
+      {
+        "text": "3rd",
+        "label": "ORDINAL",
+        "start": 710,
+        "end": 713
+      },
+      {
+        "text": "5th",
+        "label": "ORDINAL",
+        "start": 783,
+        "end": 786
+      },
+      {
+        "text": "7th",
+        "label": "ORDINAL",
+        "start": 847,
+        "end": 850
+      },
+      {
+        "text": "8th",
+        "label": "ORDINAL",
+        "start": 888,
+        "end": 891
+      },
+      {
+        "text": "previous year 7th",
+        "label": "DATE",
+        "start": 894,
+        "end": 911
+      },
+      {
+        "text": "statistics &",
+        "label": "ORG",
+        "start": 914,
+        "end": 926
+      },
+      {
+        "text": "8th",
+        "label": "ORDINAL",
+        "start": 948,
+        "end": 951
+      },
+      {
+        "text": "9th",
+        "label": "ORDINAL",
+        "start": 972,
+        "end": 975
+      },
+      {
+        "text": "previous year 8th",
+        "label": "DATE",
+        "start": 978,
+        "end": 995
+      },
+      {
+        "text": "9th",
+        "label": "ORDINAL",
+        "start": 1011,
+        "end": 1014
+      },
+      {
+        "text": "9th",
+        "label": "ORDINAL",
+        "start": 1038,
+        "end": 1041
+      },
+      {
+        "text": "10th",
+        "label": "ORDINAL",
+        "start": 1069,
+        "end": 1073
+      },
+      {
+        "text": "QS",
+        "label": "ORG",
+        "start": 1100,
+        "end": 1102
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1204,
+        "end": 1207
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Harvard",
+        "Harvard University",
+        "QS",
+        "statistics &",
+        "the University of California, Berkeley",
+        "the University of Cambridge"
+      ],
+      "LOCATION": [
+        "UK",
+        "earth"
+      ],
+      "DATE": [
+        "A year ago",
+        "previous year 7th",
+        "previous year 8th"
+      ],
+      "MISC": [
+        "10th",
+        "3rd",
+        "5th",
+        "7th",
+        "8th",
+        "9th",
+        "Faecherranking 2015",
+        "The QS Ranking by Subjects",
+        "ninth",
+        "one",
+        "second",
+        "third"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "9th": 3,
+      "8th": 2,
+      "Faecherranking 2015": 1,
+      "one": 1,
+      "earth": 1,
+      "A year ago": 1,
+      "ninth": 1,
+      "Harvard University": 1,
+      "the University of Cambridge": 1,
+      "UK": 1,
+      "the University of California, Berkeley": 1,
+      "second": 1,
+      "Harvard": 1,
+      "third": 1,
+      "The QS Ranking by Subjects": 1,
+      "ETH Zurich": 1,
+      "3rd": 1,
+      "5th": 1,
+      "7th": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "qs-faecherranking-2015.md",
+      "title": "En News Events/2015/04/qs Faecherranking 2015",
+      "language": "en",
+      "source_path": "en_news_events/2015/04/qs-faecherranking-2015.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, recently"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10th",
+        "Faecherranking 2015",
+        "The QS Ranking by Subjects",
+        "ninth",
+        "second",
+        "third"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "QS Ranking",
+        "Harvard University",
+        "University Rankings",
+        "The QS",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Harvard",
+        "Harvard University",
+        "QS",
+        "statistics &",
+        "the University of California, Berkeley",
+        "the University of Cambridge"
+      ],
+      "locations": [
+        "UK",
+        "earth"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "9th",
+        "8th",
+        "Faecherranking 2015",
+        "one",
+        "earth",
+        "A year ago",
+        "ninth",
+        "Harvard University",
+        "the University of Cambridge"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1311
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2015",
+        "statistics &",
+        "the University of California, Berkeley",
+        "Harvard University",
+        "the University of Cambridge",
+        "QS",
+        "ETH Zurich",
+        "Harvard"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "ninth",
+        "third",
+        "where",
+        "The QS Ranking by Subjects",
+        "second",
+        "10th",
+        "Faecherranking 2015",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

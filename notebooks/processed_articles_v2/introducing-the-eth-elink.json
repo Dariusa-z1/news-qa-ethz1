@@ -1,0 +1,326 @@
+{
+  "filename": "introducing-the-eth-elink.md",
+  "original_filename": "introducing-the-eth-elink.html",
+  "source_path": "en_internal/2022/08/introducing-the-eth-elink.html",
+  "date": "2022-08",
+  "title": "Introducing The Eth Elink",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Get to know ETH Zurich first-hand",
+      "text": "The eLink buses run three to four times an hour, shuttling ETH students, staff and guests between the Zentrum and Hönggerberg campuses. For two years now, commuting has been even more sustainable – since Autumn Semester 2020, the fleet has been powered by electricity rather than diesel. The shift to electricity saves some 190 tonnes of CO2 emissions per year. On 30 August 2022, the eLink will be the focus of “ Electrically on the move ”, the new tour from ETH Zurich Tours. Here you’ll discover how the first articulated electric buses were rolled out in the Swiss public transport system. You’ll also learn about the technology and see a demo of the charging process. Afterwards, you can hop on board for a sustainable test trip! Sign up here to take the tour; places are limited. If you’re quick and clever, you may win a prize!"
+    },
+    {
+      "heading": "Get to know ETH Zurich first-hand",
+      "text": "Every Tuesday at 6:15 p.m., the ETH Zurich Tours team opens the doors of ETH to visitors. Our public tours are free of charge and reveal the full scope of the university, guiding you through the labs, exhibitions, archives and abundant green spaces. Currently, the programme focuses on topics drawn from the strategic action area “Responsibility and Sustainability”."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Eth Elink",
+        "label": "WORK_OF_ART",
+        "start": 32,
+        "end": 45
+      },
+      {
+        "text": "eLink",
+        "label": "PRODUCT",
+        "start": 4,
+        "end": 9
+      },
+      {
+        "text": "three to four",
+        "label": "CARDINAL",
+        "start": 20,
+        "end": 33
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 59,
+        "end": 62
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 102,
+        "end": 109
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 114,
+        "end": 125
+      },
+      {
+        "text": "two years",
+        "label": "DATE",
+        "start": 140,
+        "end": 149
+      },
+      {
+        "text": "Autumn Semester",
+        "label": "WORK_OF_ART",
+        "start": 204,
+        "end": 219
+      },
+      {
+        "text": "some 190 tonnes",
+        "label": "QUANTITY",
+        "start": 319,
+        "end": 334
+      },
+      {
+        "text": "CO2",
+        "label": "PRODUCT",
+        "start": 338,
+        "end": 341
+      },
+      {
+        "text": "30 August 2022",
+        "label": "DATE",
+        "start": 365,
+        "end": 379
+      },
+      {
+        "text": "eLink",
+        "label": "LAW",
+        "start": 385,
+        "end": 390
+      },
+      {
+        "text": "ETH Zurich Tours",
+        "label": "ORG",
+        "start": 460,
+        "end": 476
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 507,
+        "end": 512
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 563,
+        "end": 568
+      },
+      {
+        "text": "Every Tuesday",
+        "label": "DATE",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "6:15 p.m.",
+        "label": "TIME",
+        "start": 17,
+        "end": 26
+      },
+      {
+        "text": "the ETH Zurich Tours",
+        "label": "ORG",
+        "start": 28,
+        "end": 48
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 73,
+        "end": 76
+      },
+      {
+        "text": "Responsibility and Sustainability",
+        "label": "WORK_OF_ART",
+        "start": 331,
+        "end": 364
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Zentrum"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich Tours",
+        "the ETH Zurich Tours"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "30 August 2022",
+        "6:15 p.m.",
+        "Every Tuesday",
+        "two years"
+      ],
+      "MISC": [
+        "Autumn Semester",
+        "CO2",
+        "Responsibility and Sustainability",
+        "Swiss",
+        "The Eth Elink",
+        "eLink",
+        "first",
+        "some 190 tonnes",
+        "three to four"
+      ]
+    },
+    "entity_counts": {
+      "eLink": 2,
+      "ETH": 2,
+      "The Eth Elink": 1,
+      "three to four": 1,
+      "Zentrum": 1,
+      "Hönggerberg": 1,
+      "two years": 1,
+      "Autumn Semester": 1,
+      "some 190 tonnes": 1,
+      "CO2": 1,
+      "30 August 2022": 1,
+      "ETH Zurich Tours": 1,
+      "first": 1,
+      "Swiss": 1,
+      "Every Tuesday": 1,
+      "6:15 p.m.": 1,
+      "the ETH Zurich Tours": 1,
+      "Responsibility and Sustainability": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "introducing-the-eth-elink.md",
+      "title": "En Internal/2022/08/introducing The Eth Elink",
+      "language": "en",
+      "source_path": "en_internal/2022/08/introducing-the-eth-elink.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "2020",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Zentrum"
+      ],
+      "people_with_roles": {
+        "Zentrum": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Autumn Semester",
+        "Responsibility and Sustainability",
+        "Swiss",
+        "The Eth Elink",
+        "eLink",
+        "first",
+        "some 190 tonnes",
+        "three to four"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Eth",
+        "Every Tuesday",
+        "Elink The",
+        "En Internal",
+        "Autumn Semester",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich Tours",
+        "the ETH Zurich Tours"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "eLink",
+        "ETH",
+        "The Eth Elink",
+        "three to four",
+        "Zentrum",
+        "Hönggerberg",
+        "two years",
+        "Autumn Semester",
+        "some 190 tonnes",
+        "CO2"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Get to know ETH Zurich first-hand",
+          "Get to know ETH Zurich first-hand"
+        ],
+        "content_length": 1247
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the ETH Zurich Tours",
+        "2020",
+        "Zentrum",
+        "2022",
+        "ETH Zurich Tours"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Responsibility and Sustainability",
+        "Swiss",
+        "some 190 tonnes",
+        "three to four",
+        "where",
+        "Autumn Semester",
+        "eLink",
+        "what",
+        "how",
+        "climate_change",
+        "The Eth Elink",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Zentrum_has_role_student",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

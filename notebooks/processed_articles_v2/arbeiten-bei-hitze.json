@@ -1,0 +1,192 @@
+{
+  "filename": "arbeiten-bei-hitze.md",
+  "original_filename": "arbeiten-bei-hitze.html",
+  "source_path": "en_internal/2015/07/arbeiten-bei-hitze.html",
+  "date": "2015-07",
+  "title": "Arbeiten Bei Hitze",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "One of the most important steps that you can take to protect yourself from the heat is to drink enough fluids before starting work and during your working day. Our bodies can need several litres of water each day in the summer months.\n\nAs well as drinking enough, the following tips will help on hot days:\n\nAre you interested in health and safety at work? The Safety, Security, Health, Environment (SSHE) staff unit has published lots of information on this topic on its website , available in both English and German."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Hitze",
+        "label": "PERSON",
+        "start": 33,
+        "end": 38
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "working day",
+        "label": "DATE",
+        "start": 147,
+        "end": 158
+      },
+      {
+        "text": "each day",
+        "label": "DATE",
+        "start": 204,
+        "end": 212
+      },
+      {
+        "text": "the summer months",
+        "label": "DATE",
+        "start": 216,
+        "end": 233
+      },
+      {
+        "text": "The Safety, Security, Health, Environment",
+        "label": "ORG",
+        "start": 354,
+        "end": 395
+      },
+      {
+        "text": "SSHE",
+        "label": "ORG",
+        "start": 397,
+        "end": 401
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 497,
+        "end": 504
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 509,
+        "end": 515
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hitze"
+      ],
+      "ORG": [
+        "SSHE",
+        "The Safety, Security, Health, Environment"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "each day",
+        "the summer months",
+        "working day"
+      ],
+      "MISC": [
+        "English",
+        "German",
+        "One"
+      ]
+    },
+    "entity_counts": {
+      "Hitze": 1,
+      "One": 1,
+      "working day": 1,
+      "each day": 1,
+      "the summer months": 1,
+      "The Safety, Security, Health, Environment": 1,
+      "SSHE": 1,
+      "English": 1,
+      "German": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "arbeiten-bei-hitze.md",
+      "title": "En Internal/2015/07/arbeiten bei Hitze",
+      "language": "en",
+      "source_path": "en_internal/2015/07/arbeiten-bei-hitze.html"
+    },
+    "temporal": {
+      "publication_date": "2015-07",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Hitze"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "English",
+        "German"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Hitze One",
+        "The Safety",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "SSHE",
+        "The Safety, Security, Health, Environment"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Hitze",
+        "One",
+        "working day",
+        "each day",
+        "the summer months",
+        "The Safety, Security, Health, Environment",
+        "SSHE",
+        "English",
+        "German"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 557
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "The Safety, Security, Health, Environment",
+        "2015",
+        "SSHE",
+        "Hitze"
+      ],
+      "semantic_concepts": [
+        "medical_research",
+        "technology",
+        "German",
+        "English"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

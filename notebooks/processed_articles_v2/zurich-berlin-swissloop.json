@@ -1,0 +1,467 @@
+{
+  "filename": "zurich-berlin-swissloop.md",
+  "original_filename": "zurich-berlin-swissloop.html",
+  "source_path": "en_news_events/2017/07/zurich-berlin-swissloop.html",
+  "date": "2017-07",
+  "title": "Zurich Berlin Swissloop",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Reality check in Los Angeles",
+      "text": "After PayPal, SpaceX and Tesla, Elon Musk has spent the last few years working on a new project: with the aid of a student competition, he is seeking to promote innovative modes of transportation. Last September, 1,200 teams from across the world applied for the chance to send a transport capsule, known as a “pod”, as quickly as possible through a vacuum tube. How exactly they went about this was for the students themselves to decide. Among the 30 most promising concepts was that of Swissloop, an association of students from ETH Zurich and other Swiss universities.\n\nAfter working intensively on their pod for a number of months, the students – from the fields of mechanical engineering, electrical engineering, computer science, materials science, physics and business administration – presented it to the public for the first time last night. At 3.5 metres long, the elegant white capsule is reminiscent of a dolphin , but the technology on the inside is the really exciting part. In order to propel the pod as quickly as possible, the young researchers have opted for a combination of levitation and a cold gas thruster. The magnetic rails on the bottom of their pod produce eddy currents in the aluminium plate inside the tube as they are pushed across it. As a result, the pod begins to float. In order to accelerate the capsule, a cold gas thruster uses the pressure difference to shoot compressed air from the pod into the vacuum tube, as in a rocket. This should allow the capsule to reach a maximum speed of 400kph without generating emissions. In the future, this could allow large distances to be covered in a short period of time: for example, from Zurich to Berlin in only 35 minutes."
+    },
+    {
+      "heading": "Reality check in Los Angeles",
+      "text": "However, it won’t be established whether this technology actually works in reality until the last weekend of August, when Swissloop will test its pod for the first time at the grand finale in Los Angeles. If all the safety tests are successful, the only Swiss team in the race will go up against the other finalists. Winning isn’t the most important thing, says Luca Di Tizio, a student at ETH and CEO of Swissloop. For him and his team, simply having the chance to present their pod in the USA is a great honour. “We’ve all really enjoyed the work,” says Di Tizio.\n\nThe students have put an enormous amount of effort into the project. All members of the core team have worked around 70 hours per week on a voluntary basis over the last few months. In addition to the concept, Swissloop has also developed the design and the on-board electronics, created the technical drawings, and assembled all of the individual components. “The only thing we had to leave to our sponsors was the manufacturing of the individual parts, as we didn’t have the necessary infrastructure at our disposal,” says Di Tizio. The biggest problem was the lack of time – the students had just under four months to turn the concept they submitted into a reality. “But that just means we’re even more delighted that everything worked out and that our pod is now finished,” says Di Tizio .\n\nIt was by no means a given – the team was about to give up at one point when the carbon shell fell down and developed a crack down the middle as the result. “But we pulled ourselves together, put the setback behind us, and repaired the crack as well as possible,” Di Tizio explains: just the mindset you need if you want to found a start-up. In the longer term, he says, he can definitely imagine doing so, perhaps in collaboration with other European teams. After all, the objective is a truly visionary one: transporting people and goods faster and more sustainably than ever before, and thereby revolutionising the transport industry in Europe."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Berlin Swissloop",
+        "label": "ORG",
+        "start": 30,
+        "end": 46
+      },
+      {
+        "text": "PayPal",
+        "label": "ORG",
+        "start": 6,
+        "end": 12
+      },
+      {
+        "text": "Tesla",
+        "label": "ORG",
+        "start": 25,
+        "end": 30
+      },
+      {
+        "text": "Elon Musk",
+        "label": "PERSON",
+        "start": 32,
+        "end": 41
+      },
+      {
+        "text": "the last few years",
+        "label": "DATE",
+        "start": 52,
+        "end": 70
+      },
+      {
+        "text": "Last September",
+        "label": "DATE",
+        "start": 197,
+        "end": 211
+      },
+      {
+        "text": "1,200",
+        "label": "CARDINAL",
+        "start": 213,
+        "end": 218
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 488,
+        "end": 497
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 531,
+        "end": 541
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 552,
+        "end": 557
+      },
+      {
+        "text": "a number of months",
+        "label": "DATE",
+        "start": 615,
+        "end": 633
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 827,
+        "end": 832
+      },
+      {
+        "text": "last night",
+        "label": "TIME",
+        "start": 838,
+        "end": 848
+      },
+      {
+        "text": "3.5 metres",
+        "label": "QUANTITY",
+        "start": 853,
+        "end": 863
+      },
+      {
+        "text": "400kph",
+        "label": "DATE",
+        "start": 1522,
+        "end": 1528
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1666,
+        "end": 1672
+      },
+      {
+        "text": "Berlin",
+        "label": "GPE",
+        "start": 1676,
+        "end": 1682
+      },
+      {
+        "text": "only 35 minutes",
+        "label": "TIME",
+        "start": 1686,
+        "end": 1701
+      },
+      {
+        "text": "the last weekend of August",
+        "label": "DATE",
+        "start": 89,
+        "end": 115
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 122,
+        "end": 131
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 158,
+        "end": 163
+      },
+      {
+        "text": "Los Angeles",
+        "label": "GPE",
+        "start": 192,
+        "end": 203
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 254,
+        "end": 259
+      },
+      {
+        "text": "Luca Di Tizio",
+        "label": "PERSON",
+        "start": 362,
+        "end": 375
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 390,
+        "end": 393
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 405,
+        "end": 414
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 491,
+        "end": 494
+      },
+      {
+        "text": "Di Tizio",
+        "label": "PERSON",
+        "start": 556,
+        "end": 564
+      },
+      {
+        "text": "around 70 hours",
+        "label": "TIME",
+        "start": 676,
+        "end": 691
+      },
+      {
+        "text": "the last few months",
+        "label": "DATE",
+        "start": 727,
+        "end": 746
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 776,
+        "end": 785
+      },
+      {
+        "text": "Di Tizio",
+        "label": "PERSON",
+        "start": 1091,
+        "end": 1099
+      },
+      {
+        "text": "just under four months",
+        "label": "DATE",
+        "start": 1161,
+        "end": 1183
+      },
+      {
+        "text": "Di Tizio",
+        "label": "PERSON",
+        "start": 1349,
+        "end": 1357
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1422,
+        "end": 1425
+      },
+      {
+        "text": "Di Tizio",
+        "label": "PERSON",
+        "start": 1624,
+        "end": 1632
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 1803,
+        "end": 1811
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 2000,
+        "end": 2006
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Di Tizio",
+        "Elon Musk",
+        "Luca Di Tizio"
+      ],
+      "ORG": [
+        "Berlin Swissloop",
+        "ETH",
+        "ETH Zurich",
+        "PayPal",
+        "Swissloop",
+        "Tesla"
+      ],
+      "LOCATION": [
+        "Berlin",
+        "Europe",
+        "Los Angeles",
+        "USA",
+        "Zurich"
+      ],
+      "DATE": [
+        "400kph",
+        "Last September",
+        "a number of months",
+        "around 70 hours",
+        "just under four months",
+        "last night",
+        "only 35 minutes",
+        "the last few months",
+        "the last few years",
+        "the last weekend of August"
+      ],
+      "MISC": [
+        "1,200",
+        "3.5 metres",
+        "European",
+        "Swiss",
+        "first",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "Swissloop": 4,
+      "Di Tizio": 4,
+      "Swiss": 2,
+      "first": 2,
+      "Berlin Swissloop": 1,
+      "PayPal": 1,
+      "Tesla": 1,
+      "Elon Musk": 1,
+      "the last few years": 1,
+      "Last September": 1,
+      "1,200": 1,
+      "ETH Zurich": 1,
+      "a number of months": 1,
+      "last night": 1,
+      "3.5 metres": 1,
+      "400kph": 1,
+      "Zurich": 1,
+      "Berlin": 1,
+      "only 35 minutes": 1,
+      "the last weekend of August": 1
+    },
+    "total_entities": 38,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "zurich-berlin-swissloop.md",
+      "title": "En News Events/2017/07/zurich Berlin Swissloop",
+      "language": "en",
+      "source_path": "en_news_events/2017/07/zurich-berlin-swissloop.html"
+    },
+    "temporal": {
+      "publication_date": "2017-07",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Di Tizio",
+        "Elon Musk",
+        "Luca Di Tizio"
+      ],
+      "people_with_roles": {
+        "Di Tizio": [
+          "student"
+        ],
+        "Elon Musk": [
+          "student"
+        ],
+        "Luca Di Tizio": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "1,200",
+        "3.5 metres",
+        "European",
+        "Swiss",
+        "first"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Berlin Swissloop",
+        "En News",
+        "Los Angeles",
+        "After PayPal",
+        "Di Tizio",
+        "ETH Zurich",
+        "Luca Di",
+        "Last September",
+        "Elon Musk"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Berlin Swissloop",
+        "ETH",
+        "ETH Zurich",
+        "PayPal",
+        "Swissloop",
+        "Tesla"
+      ],
+      "locations": [
+        "Berlin",
+        "Europe",
+        "Los Angeles",
+        "USA",
+        "Zurich"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Swissloop",
+        "Di Tizio",
+        "Swiss",
+        "first",
+        "Berlin Swissloop",
+        "PayPal",
+        "Tesla",
+        "Elon Musk",
+        "the last few years",
+        "Last September"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Reality check in Los Angeles",
+          "Reality check in Los Angeles"
+        ],
+        "content_length": 3760
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "PayPal",
+        "Berlin Swissloop",
+        "2017",
+        "EU",
+        "Swissloop",
+        "Tesla",
+        "Di Tizio",
+        "ETH Zurich",
+        "Elon Musk",
+        "Luca Di Tizio"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "3.5 metres",
+        "who",
+        "Swiss",
+        "when",
+        "what",
+        "how",
+        "European",
+        "why",
+        "1,200",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Di Tizio_has_role_student",
+        "Elon Musk_has_role_student",
+        "Luca Di Tizio_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

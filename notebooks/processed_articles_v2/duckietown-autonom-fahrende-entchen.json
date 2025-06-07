@@ -1,0 +1,703 @@
+{
+  "filename": "duckietown-autonom-fahrende-entchen.md",
+  "original_filename": "duckietown-autonom-fahrende-entchen.html",
+  "source_path": "de_news_events/2018/01/duckietown-autonom-fahrende-entchen.html",
+  "date": "2018-01",
+  "title": "Duckietown Autonom Fahrende Entchen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Probleme in Teams lösen",
+      "text": "Eine Kamera, ein günstiger Mini-Rechner, ein Chassis, Räder und Led-Lämpchen: Viel mehr braucht es nicht für einen «Duckiebot». So nennen Andrea Censi und Jacopo Tani – Dozenten des neuen Kurses für autonomes Fahren an der ETH Zürich – die kleinen Robotertaxis. Censi und Tani sind Oberassistenten in der Forschungsgruppe von Emilio Frazzoli, Professor am Departement für Maschinenbau und Verfahrenstechnik und weltweit angesehener Spezialist für autonome Systeme.\n\nAm Dienstag haben sie ihr Lehrprojekt «Duckietown» in der Haupthalle der ETH Zürich vorgestellt: Auf jedem kleinen Robotertaxi fährt als Markenzeichen ein Gummientchen mit. Sie kurven autonom durch «Duckietown», eine Modellstatt mit aus Klebeband markierten Strassen, Schildern, Lichtsignalen und Parkplätzen. Die Enten-Taxis stoppen bei Kreuzungen, lassen einander den Vortritt und bremsen, wenn es Stau gibt."
+    },
+    {
+      "heading": "Probleme in Teams lösen",
+      "text": "Bis das klappt, brüten die Studierenden tagelang über Hard- und Software. Was wie ein Kinderspiel aussieht, ist hochkompliziert. So kompliziert, dass die Studierenden die Aufgaben nur gemeinsam lösen können. In Gruppen arbeiten sie während eines Semesters an einem Teilgebiet. Der Kurs setzt auf globale Kollaboration. Masterstudierende von der ETH Zürich, der Universität Montréal und dem Toyota Technological Institute in Chicago arbeiten zeitgleich an demselben Projekt.\n\nCensi entwickelte den Kurs zusammen mit Frazzoli und Liam Paull, heute Professor an der Universität Montréal, Ende 2015 am Massachusetts Institute of Technology (MIT). 2017 kam Censi mit Frazzoli an die ETH, wo sie Duckietown weiterentwickeln.\n\nCensi sagt: «Wir legen viel Wert darauf, den Kurs zu einem Gemeinschaftserlebnis zu machen». In Teams koordiniert und unter Zeitdruck ein Grossprojekt zu meistern ist ein Lernziel – und eine Fähigkeit, die in der Industrie gefragt ist. Nicolas Lanzetti, Masterstudent in Robotics and Control, sagt: «Normalerweise lernen wir alleine für unsere Prüfungen. Hier haben wir als Klasse ein gemeinsames Ziel: Am Ende müssen die Gruppenprojekte alle zusammenspielen».\n\nMasterstudentin Sonja Brits ergänzt: «Wir hatten viel Freiheit, wie wir das Projekt anpacken und zusammenarbeiten. Dadurch aber auch eine grosse Verantwortung gegenüber den Mitstudierenden». Censi sieht darin die Zukunft des Lernens: «Die Theorie, das Basiswissen, kann online verfügbar gemacht werden. Das Wertvolle einer Hochschule wie der ETH Zürich ist, dass sich an einem Ort so viele talentierte Fachspezialisten begegnen und zusammenarbeiten»."
+    },
+    {
+      "heading": "Komplizierter als im Buch",
+      "text": "Eine grosse Herausforderung der Robotik und des autonomen Fahrens liegt im Zusammenspiel verschiedener Elemente. Hardwarekomponenten, Sensoren und Motoren müssen in Einklang gebracht werden. In jedem Duckiebot selbst – und in der autonomen Flotte auch untereinander. Die Zähne beissen sich die Studierenden dabei nicht an der Theorie aus, sondern an den praktischen Details: Makelhafte Hardware, Komponenten, die nicht harmonieren, Pläne, die nicht aufgehen. Censi sagt: «Die Studierenden erkennen dank Duckietown, dass die Dinge nicht so funktionieren, wie es in den Büchern steht. Es gibt in der Robotik keine vollkommenen Systeme. Hier lernen sie, damit umzugehen.»\n\nWährend die Studierenden den Ententaxis beibringen, der Seitenlinie ohne Ruckler zu folgen, sich nicht von Sonnenlicht ablenken zu lassen oder sauber einzuparken, schaffen sie auch Pionierarbeit. Die Gruppen arbeiten alle an demselben Code. In Dokumentationen machen sie ihre Lösungen für kommende Studierende verfügbar – und darüber hinaus für Forschende auf der ganzen Welt: Das Projekt folgt dem Open-Source-Gedanken. Unterrichtsmodule, Code und Dokumentation sind online frei verfügbar. Censi erhofft sich dadurch, Robotik-Faszinierte anderer Institutionen dazu zu bringen, Duckiebots im Schwarm autonom fahren zu lassen.\n\nDie Chancen stehen gut, dass Wissen und Codezeilen aus dem Kurs künftig auch Autos auf echten Strassen lenkt. Emilio Frazzoli ist Mitgründer der Firma Nutonomy, die in Singapur und anderen Städten einen Taxidienst mit autonomen Fahrzeugen plant. Andrea Censi arbeitet dort als Systems Architect.\n\nAber auch die Studierenden bringen das Erlernte auf den Asphalt: Der akademische Motorsportverein AMZ schickte 2017 zum ersten Mal ein selbstfahrendes Rennauto mit Elektroantrieb auf die Rennstrecke – und gewann den Formula Student Driverless Wettbewerb am Hockenheimring. Gleich mehrere Studierende aus Censis Kurs arbeiten heute im AMZ-Driverless-Team und bereiten das nächste Rennen vor."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Autonom",
+        "label": "LOC",
+        "start": 34,
+        "end": 41
+      },
+      {
+        "text": "Entchen",
+        "label": "LOC",
+        "start": 51,
+        "end": 58
+      },
+      {
+        "text": "Andrea Censi",
+        "label": "PER",
+        "start": 138,
+        "end": 150
+      },
+      {
+        "text": "Jacopo Tani",
+        "label": "PER",
+        "start": 155,
+        "end": 166
+      },
+      {
+        "text": "Kurses",
+        "label": "MISC",
+        "start": 188,
+        "end": 194
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 223,
+        "end": 233
+      },
+      {
+        "text": "Censi",
+        "label": "LOC",
+        "start": 262,
+        "end": 267
+      },
+      {
+        "text": "Tani",
+        "label": "PER",
+        "start": 272,
+        "end": 276
+      },
+      {
+        "text": "Emilio Frazzoli",
+        "label": "PER",
+        "start": 326,
+        "end": 341
+      },
+      {
+        "text": "Duckietown",
+        "label": "MISC",
+        "start": 504,
+        "end": 514
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 538,
+        "end": 548
+      },
+      {
+        "text": "Duckietown",
+        "label": "MISC",
+        "start": 664,
+        "end": 674
+      },
+      {
+        "text": "Klebeband",
+        "label": "LOC",
+        "start": 702,
+        "end": 711
+      },
+      {
+        "text": "Enten-Taxis",
+        "label": "MISC",
+        "start": 779,
+        "end": 790
+      },
+      {
+        "text": "Kreuzungen",
+        "label": "LOC",
+        "start": 803,
+        "end": 813
+      },
+      {
+        "text": "Stau",
+        "label": "LOC",
+        "start": 865,
+        "end": 869
+      },
+      {
+        "text": "Kurs",
+        "label": "LOC",
+        "start": 281,
+        "end": 285
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 345,
+        "end": 355
+      },
+      {
+        "text": "Universität Montréal",
+        "label": "ORG",
+        "start": 361,
+        "end": 381
+      },
+      {
+        "text": "Toyota Technological Institute",
+        "label": "ORG",
+        "start": 390,
+        "end": 420
+      },
+      {
+        "text": "Chicago",
+        "label": "LOC",
+        "start": 424,
+        "end": 431
+      },
+      {
+        "text": "Censi",
+        "label": "PER",
+        "start": 474,
+        "end": 479
+      },
+      {
+        "text": "Kurs",
+        "label": "LOC",
+        "start": 496,
+        "end": 500
+      },
+      {
+        "text": "Frazzoli",
+        "label": "PER",
+        "start": 514,
+        "end": 522
+      },
+      {
+        "text": "Liam Paull",
+        "label": "PER",
+        "start": 527,
+        "end": 537
+      },
+      {
+        "text": "Universität Montréal",
+        "label": "ORG",
+        "start": 562,
+        "end": 582
+      },
+      {
+        "text": "Massachusetts Institute of Technology",
+        "label": "ORG",
+        "start": 597,
+        "end": 634
+      },
+      {
+        "text": "MIT",
+        "label": "ORG",
+        "start": 636,
+        "end": 639
+      },
+      {
+        "text": "Censi",
+        "label": "PER",
+        "start": 651,
+        "end": 656
+      },
+      {
+        "text": "Frazzoli",
+        "label": "PER",
+        "start": 661,
+        "end": 669
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 677,
+        "end": 680
+      },
+      {
+        "text": "Duckietown",
+        "label": "LOC",
+        "start": 689,
+        "end": 699
+      },
+      {
+        "text": "Censi",
+        "label": "PER",
+        "start": 718,
+        "end": 723
+      },
+      {
+        "text": "Kurs",
+        "label": "LOC",
+        "start": 763,
+        "end": 767
+      },
+      {
+        "text": "Teams",
+        "label": "LOC",
+        "start": 814,
+        "end": 819
+      },
+      {
+        "text": "Nicolas Lanzetti",
+        "label": "PER",
+        "start": 954,
+        "end": 970
+      },
+      {
+        "text": "Masterstudent",
+        "label": "ORG",
+        "start": 972,
+        "end": 985
+      },
+      {
+        "text": "Robotics and Control",
+        "label": "MISC",
+        "start": 989,
+        "end": 1009
+      },
+      {
+        "text": "Sonja Brits",
+        "label": "PER",
+        "start": 1195,
+        "end": 1206
+      },
+      {
+        "text": "Censi",
+        "label": "PER",
+        "start": 1370,
+        "end": 1375
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1521,
+        "end": 1531
+      },
+      {
+        "text": "Censi",
+        "label": "PER",
+        "start": 459,
+        "end": 464
+      },
+      {
+        "text": "Büchern",
+        "label": "LOC",
+        "start": 568,
+        "end": 575
+      },
+      {
+        "text": "Dokumentationen",
+        "label": "LOC",
+        "start": 913,
+        "end": 928
+      },
+      {
+        "text": "Open-Source-Gedanken",
+        "label": "MISC",
+        "start": 1068,
+        "end": 1088
+      },
+      {
+        "text": "Censi",
+        "label": "PER",
+        "start": 1160,
+        "end": 1165
+      },
+      {
+        "text": "Robotik-Faszinierte",
+        "label": "LOC",
+        "start": 1188,
+        "end": 1207
+      },
+      {
+        "text": "Wissen",
+        "label": "LOC",
+        "start": 1324,
+        "end": 1330
+      },
+      {
+        "text": "Codezeilen",
+        "label": "LOC",
+        "start": 1335,
+        "end": 1345
+      },
+      {
+        "text": "Kurs",
+        "label": "LOC",
+        "start": 1354,
+        "end": 1358
+      },
+      {
+        "text": "Nutonomy",
+        "label": "ORG",
+        "start": 1446,
+        "end": 1454
+      },
+      {
+        "text": "Singapur",
+        "label": "LOC",
+        "start": 1463,
+        "end": 1471
+      },
+      {
+        "text": "Andrea Censi",
+        "label": "PER",
+        "start": 1541,
+        "end": 1553
+      },
+      {
+        "text": "Systems Architect",
+        "label": "PER",
+        "start": 1572,
+        "end": 1589
+      },
+      {
+        "text": "Motorsportverein",
+        "label": "LOC",
+        "start": 1672,
+        "end": 1688
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 1689,
+        "end": 1692
+      },
+      {
+        "text": "Formula Student Driverless",
+        "label": "MISC",
+        "start": 1807,
+        "end": 1833
+      },
+      {
+        "text": "Hockenheimring",
+        "label": "LOC",
+        "start": 1848,
+        "end": 1862
+      },
+      {
+        "text": "Censis Kurs",
+        "label": "LOC",
+        "start": 1895,
+        "end": 1906
+      },
+      {
+        "text": "AMZ-Driverless-Team",
+        "label": "ORG",
+        "start": 1925,
+        "end": 1944
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andrea Censi",
+        "Censi",
+        "De News",
+        "Emilio Frazzoli",
+        "Frazzoli",
+        "Jacopo Tani",
+        "Liam Paull",
+        "Nicolas Lanzetti",
+        "Sonja Brits",
+        "Systems Architect",
+        "Tani"
+      ],
+      "ORG": [
+        "AMZ",
+        "AMZ-Driverless-Team",
+        "ETH",
+        "ETH Zürich",
+        "MIT",
+        "Massachusetts Institute of Technology",
+        "Masterstudent",
+        "Nutonomy",
+        "Toyota Technological Institute",
+        "Universität Montréal"
+      ],
+      "LOCATION": [
+        "Autonom",
+        "Büchern",
+        "Censi",
+        "Censis Kurs",
+        "Chicago",
+        "Codezeilen",
+        "Dokumentationen",
+        "Duckietown",
+        "Entchen",
+        "Hockenheimring",
+        "Klebeband",
+        "Kreuzungen",
+        "Kurs",
+        "Motorsportverein",
+        "Robotik-Faszinierte",
+        "Singapur",
+        "Stau",
+        "Teams",
+        "Wissen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Duckietown",
+        "Enten-Taxis",
+        "Formula Student Driverless",
+        "Kurses",
+        "Open-Source-Gedanken",
+        "Robotics and Control"
+      ]
+    },
+    "entity_counts": {
+      "Censi": 7,
+      "ETH Zürich": 4,
+      "Kurs": 4,
+      "Duckietown": 3,
+      "Andrea Censi": 2,
+      "Universität Montréal": 2,
+      "Frazzoli": 2,
+      "De News": 1,
+      "Autonom": 1,
+      "Entchen": 1,
+      "Jacopo Tani": 1,
+      "Kurses": 1,
+      "Tani": 1,
+      "Emilio Frazzoli": 1,
+      "Klebeband": 1,
+      "Enten-Taxis": 1,
+      "Kreuzungen": 1,
+      "Stau": 1,
+      "Toyota Technological Institute": 1,
+      "Chicago": 1
+    },
+    "total_entities": 61,
+    "unique_entities": 44
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "duckietown-autonom-fahrende-entchen.md",
+      "title": "De News Events/2018/01/duckietown Autonom Fahrende Entchen",
+      "language": "de",
+      "source_path": "de_news_events/2018/01/duckietown-autonom-fahrende-entchen.html"
+    },
+    "temporal": {
+      "publication_date": "2018-01",
+      "mentioned_years": [
+        "2015",
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Andrea Censi",
+        "Censi",
+        "De News",
+        "Emilio Frazzoli",
+        "Frazzoli",
+        "Jacopo Tani",
+        "Liam Paull",
+        "Nicolas Lanzetti",
+        "Sonja Brits",
+        "Systems Architect",
+        "Tani"
+      ],
+      "people_with_roles": {
+        "Censi": [
+          "professor"
+        ],
+        "Emilio Frazzoli": [
+          "professor"
+        ],
+        "Frazzoli": [
+          "professor"
+        ],
+        "Liam Paull": [
+          "professor"
+        ],
+        "Nicolas Lanzetti": [
+          "student"
+        ],
+        "Sonja Brits": [
+          "student"
+        ],
+        "Tani": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Duckietown",
+        "Enten-Taxis",
+        "Formula Student Driverless",
+        "Kurses",
+        "Open-Source-Gedanken",
+        "Robotics and Control"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Motorsportverein AMZ",
+        "Nicolas Lanzetti",
+        "Entchen Eine",
+        "Masterstudentin Sonja",
+        "Jacopo Tani",
+        "Am Ende",
+        "In Dokumentationen",
+        "Censis Kurs",
+        "Am Dienstag",
+        "Toyota Technological",
+        "Systems Architect",
+        "Die Theorie",
+        "Emilio Frazzoli",
+        "Autonom Fahrende",
+        "Driverless Wettbewerb",
+        "Massachusetts Institute",
+        "Makelhafte Hardware",
+        "Die Studierenden",
+        "Die Enten",
+        "Andrea Censi",
+        "Firma Nutonomy",
+        "Das Wertvolle",
+        "In Teams",
+        "Robotik-Faszinierte",
+        "In Gruppen",
+        "Formula Student",
+        "Die Chancen",
+        "Open-Source",
+        "Der Kurs",
+        "Mini-Rechner",
+        "De News",
+        "Das Projekt",
+        "Die Gruppen",
+        "Liam Paull",
+        "AMZ-Driverless"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AMZ",
+        "AMZ-Driverless-Team",
+        "ETH",
+        "ETH Zürich",
+        "MIT",
+        "Massachusetts Institute of Technology",
+        "Masterstudent",
+        "Nutonomy",
+        "Toyota Technological Institute",
+        "Universität Montréal"
+      ],
+      "locations": [
+        "Autonom",
+        "Büchern",
+        "Censi",
+        "Censis Kurs",
+        "Chicago",
+        "Codezeilen",
+        "Dokumentationen",
+        "Duckietown",
+        "Entchen",
+        "Hockenheimring",
+        "Klebeband",
+        "Kreuzungen",
+        "Kurs",
+        "Motorsportverein",
+        "Robotik-Faszinierte",
+        "Singapur",
+        "Stau",
+        "Teams",
+        "Wissen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "Censi",
+        "ETH Zürich",
+        "Kurs",
+        "Duckietown",
+        "Andrea Censi",
+        "Universität Montréal",
+        "Frazzoli",
+        "De News",
+        "Autonom",
+        "Entchen"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Probleme in Teams lösen",
+          "Probleme in Teams lösen",
+          "Komplizierter als im Buch"
+        ],
+        "content_length": 4553
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Sonja Brits",
+        "ETH",
+        "Censi",
+        "Tani",
+        "Universität Montréal",
+        "Nicolas Lanzetti",
+        "AMZ-Driverless-Team",
+        "Jacopo Tani",
+        "Systems Architect",
+        "2018",
+        "Massachusetts Institute of Technology",
+        "Emilio Frazzoli",
+        "Masterstudent",
+        "Frazzoli",
+        "ETH Zürich",
+        "2015",
+        "Nutonomy",
+        "Andrea Censi",
+        "EU",
+        "AMZ",
+        "2017",
+        "De News",
+        "MIT",
+        "Toyota Technological Institute",
+        "Liam Paull"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Kurses",
+        "who",
+        "Open-Source-Gedanken",
+        "Robotics and Control",
+        "Formula Student Driverless",
+        "what",
+        "computer_science",
+        "Duckietown",
+        "Enten-Taxis"
+      ],
+      "graph_relations": [
+        "Censi_has_role_professor",
+        "Emilio Frazzoli_has_role_professor",
+        "Frazzoli_has_role_professor",
+        "Liam Paull_has_role_professor",
+        "Nicolas Lanzetti_has_role_student",
+        "Sonja Brits_has_role_student",
+        "Tani_has_role_professor",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

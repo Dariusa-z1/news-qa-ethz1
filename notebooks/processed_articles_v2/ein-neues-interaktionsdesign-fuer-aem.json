@@ -1,0 +1,237 @@
+{
+  "filename": "ein-neues-interaktionsdesign-fuer-aem.md",
+  "original_filename": "ein-neues-interaktionsdesign-fuer-aem.html",
+  "source_path": "de_internal/2021/08/ein-neues-interaktionsdesign-fuer-aem.html",
+  "date": "2021-08",
+  "title": "Ein Neues Interaktionsdesign Fuer Aem",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Konfiguration des Farbschemas",
+      "text": "Die grösste sichtbare Änderung, die mit dem aktuellen Release eingeführt wird, ist ein neues Interaktionsdesign. Die Darstellung der Links und Buttons wurde in allen Bereichen der Webseiten überarbeitet. Ausserdem wird ein neues Farbkonzept eingeführt. Dieses bietet die Möglichkeit, mit Einsatz von Farbthemen verschiedene Elemente der Webseite (neben der Inhalts-Navigation auch einzelne Komponenten wie Akkordeons, Zitate oder einen «Highlight Container» - bisher bekannt als «Graue Box») einzufärben."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "Für das Corporate Design der ETH wurden im Zusammenhang mit der Einführung des neuen Interaktionsdesigns im ETH Web die ETH-Farben überarbeitet und von neun auf sieben reduziert. Die neuen Farben sind einheitlicher, leuchtender und frischer und entsprechen den Anforderungen der Barrierefreiheit. Die Farbwerte sind im CD-Manual dokumentiert und stehen im AEM-Backend und in unseren CD-Templates zur Verfügung. Wir empfehlen, auch im Print-Bereich ab sofort mit diesen Farben zu arbeiten."
+    },
+    {
+      "heading": "Konfiguration des Farbschemas",
+      "text": "Auf der Registerkarte Website-Einstellungen der Homepage können Sie das Standard-Farbschema für eine ganze Website festlegen. Dadurch wird zum Beispiel die Farbe der Website für Linklisten, Links in der Navigation, der Subnavigation und im Bereich für verwandte Inhalte sowie die Farben für Beschriftungen und Hover-Farben für Links in bestimmten Komponenten festgelegt. Sie können die Standardfarbe einer Website für eine bestimmte Seite überschreiben, indem Sie auf der Registerkarte «Erscheinungsbild» der Seiteneigenschaften einer bestimmten Seite eine andere Farbe auswählen. Man kann auch die Standardfarbe der Website oder einer bestimmten Webseite auf Komponentenebene für diejenigen Komponenten überschreiben, die eine Registerkarte «Aussehen» im Dialog der Komponente haben, sowie für ein Karussell-Label, indem man eine bestimmte Farbe auf der Registerkarte «Karussell» der Seiteneigenschaften der Zielseite eines Karussells auswählt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2021/08/ein Neues Interaktionsdesign",
+        "label": "LOC",
+        "start": 0,
+        "end": 48
+      },
+      {
+        "text": "Fuer Aem",
+        "label": "PER",
+        "start": 49,
+        "end": 57
+      },
+      {
+        "text": "Graue Box",
+        "label": "MISC",
+        "start": 480,
+        "end": 489
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "ETH Web",
+        "label": "MISC",
+        "start": 108,
+        "end": 115
+      },
+      {
+        "text": "ETH-Farben",
+        "label": "ORG",
+        "start": 120,
+        "end": 130
+      },
+      {
+        "text": "CD-Manual",
+        "label": "ORG",
+        "start": 319,
+        "end": 328
+      },
+      {
+        "text": "CD-Templates",
+        "label": "ORG",
+        "start": 383,
+        "end": 395
+      },
+      {
+        "text": "Hover-Farben für Links",
+        "label": "ORG",
+        "start": 310,
+        "end": 332
+      },
+      {
+        "text": "Karussell",
+        "label": "PER",
+        "start": 870,
+        "end": 879
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fuer Aem",
+        "Karussell"
+      ],
+      "ORG": [
+        "CD-Manual",
+        "CD-Templates",
+        "ETH",
+        "ETH-Farben",
+        "Hover-Farben für Links"
+      ],
+      "LOCATION": [
+        "De Internal/2021/08/ein Neues Interaktionsdesign"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH Web",
+        "Graue Box"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2021/08/ein Neues Interaktionsdesign": 1,
+      "Fuer Aem": 1,
+      "Graue Box": 1,
+      "ETH": 1,
+      "ETH Web": 1,
+      "ETH-Farben": 1,
+      "CD-Manual": 1,
+      "CD-Templates": 1,
+      "Hover-Farben für Links": 1,
+      "Karussell": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ein-neues-interaktionsdesign-fuer-aem.md",
+      "title": "De Internal/2021/08/ein Neues Interaktionsdesign Fuer Aem",
+      "language": "de",
+      "source_path": "de_internal/2021/08/ein-neues-interaktionsdesign-fuer-aem.html"
+    },
+    "temporal": {
+      "publication_date": "2021-08",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Fuer Aem",
+        "Karussell"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH Web",
+        "Graue Box"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Graue Box",
+        "Print-Bereich",
+        "ETH Web",
+        "Registerkarte Website",
+        "Hover-Farben",
+        "Highlight Container",
+        "Fuer Aem",
+        "Karussell-Label",
+        "CD-Templates",
+        "Die Farbwerte",
+        "Standard-Farbschema",
+        "Corporate Design",
+        "Neues Interaktionsdesign",
+        "CD-Manual",
+        "Die Darstellung",
+        "Inhalts-Navigation",
+        "AEM-Backend",
+        "De Internal",
+        "ETH-Farben"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CD-Manual",
+        "CD-Templates",
+        "ETH",
+        "ETH-Farben",
+        "Hover-Farben für Links"
+      ],
+      "locations": [
+        "De Internal/2021/08/ein Neues Interaktionsdesign"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2021/08/ein Neues Interaktionsdesign",
+        "Fuer Aem",
+        "Graue Box",
+        "ETH",
+        "ETH Web",
+        "ETH-Farben",
+        "CD-Manual",
+        "CD-Templates",
+        "Hover-Farben für Links",
+        "Karussell"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Konfiguration des Farbschemas",
+          "Staffnet",
+          "Konfiguration des Farbschemas"
+        ],
+        "content_length": 1997
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Fuer Aem",
+        "CD-Manual",
+        "EU",
+        "CD-Templates",
+        "Karussell",
+        "Hover-Farben für Links",
+        "2021",
+        "ETH-Farben"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH Web",
+        "Graue Box"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

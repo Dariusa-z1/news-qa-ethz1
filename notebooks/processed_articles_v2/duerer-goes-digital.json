@@ -1,0 +1,207 @@
+{
+  "filename": "duerer-goes-digital.md",
+  "original_filename": "duerer-goes-digital.html",
+  "source_path": "en_news_events/2022/10/duerer-goes-digital.html",
+  "date": "2022-10",
+  "title": "Duerer Goes Digital",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The Collection Catalogue Online",
+      "text": "The Collection Catalogue Online with over 50,000 digitised artworks from the Graphische Sammlung is freely accessible .\n\nAlmost all works by Albrecht Dürer, Rembrandt and Pablo Picasso, for example, are now available online. Interested parties can also view new additions online, such as the extensive donation of drawings by Lucerne artist Max von Moos (1903–1979). The project is ongoing, with artworks being digitised on a continuous basis."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Goes Digital",
+        "label": "PERSON",
+        "start": 30,
+        "end": 42
+      },
+      {
+        "text": "The Collection Catalogue Online",
+        "label": "ORG",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "over 50,000",
+        "label": "CARDINAL",
+        "start": 37,
+        "end": 48
+      },
+      {
+        "text": "the Graphische Sammlung",
+        "label": "FAC",
+        "start": 73,
+        "end": 96
+      },
+      {
+        "text": "Albrecht Dürer",
+        "label": "ORG",
+        "start": 140,
+        "end": 154
+      },
+      {
+        "text": "Rembrandt",
+        "label": "NORP",
+        "start": 156,
+        "end": 165
+      },
+      {
+        "text": "Lucerne",
+        "label": "ORG",
+        "start": 325,
+        "end": 332
+      },
+      {
+        "text": "Max von Moos",
+        "label": "PERSON",
+        "start": 340,
+        "end": 352
+      },
+      {
+        "text": "1903–1979",
+        "label": "CARDINAL",
+        "start": 354,
+        "end": 363
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Goes Digital",
+        "Max von Moos"
+      ],
+      "ORG": [
+        "Albrecht Dürer",
+        "Lucerne",
+        "The Collection Catalogue Online"
+      ],
+      "LOCATION": [
+        "the Graphische Sammlung"
+      ],
+      "DATE": [],
+      "MISC": [
+        "1903–1979",
+        "Rembrandt",
+        "over 50,000"
+      ]
+    },
+    "entity_counts": {
+      "Goes Digital": 1,
+      "The Collection Catalogue Online": 1,
+      "over 50,000": 1,
+      "the Graphische Sammlung": 1,
+      "Albrecht Dürer": 1,
+      "Rembrandt": 1,
+      "Lucerne": 1,
+      "Max von Moos": 1,
+      "1903–1979": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "duerer-goes-digital.md",
+      "title": "En News Events/2022/10/duerer Goes Digital",
+      "language": "en",
+      "source_path": "en_news_events/2022/10/duerer-goes-digital.html"
+    },
+    "temporal": {
+      "publication_date": "2022-10",
+      "mentioned_years": [
+        "1903",
+        "1979",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Goes Digital",
+        "Max von Moos"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "1903–1979",
+        "Rembrandt",
+        "over 50,000"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Goes Digital",
+        "Graphische Sammlung",
+        "En News",
+        "Catalogue Online",
+        "Pablo Picasso",
+        "The Collection"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Albrecht Dürer",
+        "Lucerne",
+        "The Collection Catalogue Online"
+      ],
+      "locations": [
+        "the Graphische Sammlung"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "Goes Digital",
+        "The Collection Catalogue Online",
+        "over 50,000",
+        "the Graphische Sammlung",
+        "Albrecht Dürer",
+        "Rembrandt",
+        "Lucerne",
+        "Max von Moos",
+        "1903–1979"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "The Collection Catalogue Online"
+        ],
+        "content_length": 486
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "1903",
+        "Goes Digital",
+        "Lucerne",
+        "1979",
+        "2022",
+        "Max von Moos",
+        "The Collection Catalogue Online",
+        "Albrecht Dürer"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "1903–1979",
+        "Rembrandt",
+        "what",
+        "over 50,000"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

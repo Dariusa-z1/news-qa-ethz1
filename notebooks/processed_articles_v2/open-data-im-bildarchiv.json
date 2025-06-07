@@ -1,0 +1,138 @@
+{
+  "filename": "open-data-im-bildarchiv.md",
+  "original_filename": "open-data-im-bildarchiv.html",
+  "source_path": "de_internal/2015/03/open-data-im-bildarchiv.html",
+  "date": "2015-03",
+  "title": "Open Data Im Bildarchiv",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das Bildarchiv der ETH-Bibliothek stellt seine digitalisierten Bilder ab sofort – wann immer möglich – kostenfrei zum Herunterladen in Webauflösung sowie als hochaufgelöste JPGs und TIFFs auf ETH E-Pics Bildarchiv Online zur Verfügung. Die Bilder können für wissenschaftliche, private, nicht-kommerzielle und kommerzielle Zwecke frei verwendet werden.\n\nWeitere Informationen finden Sie auf ETH E-Pics Bildarchiv Online"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/03/open Data",
+        "label": "LOC",
+        "start": 0,
+        "end": 29
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 19,
+        "end": 33
+      },
+      {
+        "text": "ETH E-Pics Bildarchiv Online",
+        "label": "ORG",
+        "start": 192,
+        "end": 220
+      },
+      {
+        "text": "ETH E-Pics Bildarchiv Online",
+        "label": "MISC",
+        "start": 389,
+        "end": 417
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH E-Pics Bildarchiv Online"
+      ],
+      "LOCATION": [
+        "De Internal/2015/03/open Data"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH E-Pics Bildarchiv Online",
+        "ETH-Bibliothek"
+      ]
+    },
+    "entity_counts": {
+      "ETH E-Pics Bildarchiv Online": 2,
+      "De Internal/2015/03/open Data": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "open-data-im-bildarchiv.md",
+      "title": "De Internal/2015/03/open Data Im Bildarchiv",
+      "language": "de",
+      "source_path": "de_internal/2015/03/open-data-im-bildarchiv.html"
+    },
+    "temporal": {
+      "publication_date": "2015-03",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH E-Pics Bildarchiv Online",
+        "ETH-Bibliothek"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "ETH E",
+        "Weitere Informationen",
+        "Bildarchiv Das",
+        "De Internal",
+        "Die Bilder",
+        "Pics Bildarchiv",
+        "Data Im"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH E-Pics Bildarchiv Online"
+      ],
+      "locations": [
+        "De Internal/2015/03/open Data"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH E-Pics Bildarchiv Online",
+        "De Internal/2015/03/open Data",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 462
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH E-Pics Bildarchiv Online",
+        "2015"
+      ],
+      "semantic_concepts": [
+        "ETH E-Pics Bildarchiv Online",
+        "ETH-Bibliothek"
+      ],
+      "graph_relations": []
+    }
+  }
+}

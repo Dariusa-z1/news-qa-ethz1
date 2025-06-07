@@ -1,0 +1,594 @@
+{
+  "filename": "geraeusche-machen-login-sicherer1.md",
+  "original_filename": "geraeusche-machen-login-sicherer1.html",
+  "source_path": "de_news_events/2017/04/geraeusche-machen-login-sicherer1.html",
+  "date": "2017-04",
+  "title": "Geraeusche Machen Login Sicherer1",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "App und Browser vergleichen Geräusche",
+      "text": "Sichere Passwörter und mehrstufige Authentifizierungssysteme sind heute wichtiger denn je: Im Internet bezahlen wir unsere Rechnungen, kommunizieren über Geschäftliches und geben allerlei Privates preis. Und doch benutzen viele Menschen das immergleiche Passwort für all ihre Konten. Dabei nehmen Identitätsdiebstahl und Internetspionage weltweit besorgniserregend zu, wie die Swisscom vergangene Woche in ihrem Security Report 2017 berichtete.\n\nEin von ETH-Angehörigen gegründetes Start-up hat nun eine Methode entwickelt, um die Sicherheit im Netz zu verstärken – und das ohne Mehraufwand für den Nutzer. Futurae Technologies liess mit «#SoundProof» ein Produkt patentieren, das ein schnelles und sicheres Authentifizierungs-Verfahren ermöglicht. Alles was es dafür braucht, ist eine App auf dem Smartphone oder Tablet sowie ein weiteres Gerät wie Laptop oder Desktop-Computer, mit dem sich der Nutzer beim gewünschten Dienst anmeldet.\n\nHinter der Idee stecken Claudio Marforio und Nikos Karapanos von der System Security Group des Departements Informatik. «Wir haben die Technologie 2015 an der ETH Zürich entwickelt», sagt Marforio. Seit der Firmengründung Ende 2016 sind Sandra Tobler und Samuel Berger zum Futurae-Management hinzugestossen."
+    },
+    {
+      "heading": "App und Browser vergleichen Geräusche",
+      "text": "Sound-Proof funktioniert über Umgebungsgeräusche. Meldet sich der Nutzer auf einem Gerät bei einem Dienst an, der mit Sound-Proof arbeitet, nehmen dieses sowie ein zweites Gerät, auf dem die App installiert ist, während drei Sekunden die Geräusche rund um die beiden Geräte auf. Ein Artificial-Intelligence-Algorithmus vergleicht sie dann miteinander. Stimmen sie überein, etwa das Stimmengewirr in einem Café, der laufende Fernseher oder auch der bellende Nachbarshund, wird der Nutzer automatisch eingeloggt.\n\nIm Gegensatz zu anderen Lösungen benötigt dieses Authentifizierungs-Verfahren keine Interaktion vom Endnutzer mit seinem mobilen Gerät: das Handy kann in der Hosen- oder Handtasche bleiben. Die Technologie funktioniert sogar, wenn das Smartphone in einem Nebenraum ist – vorausgesetzt, die Tür ist offen. Wer nun eine Verletzung seiner Privatsphäre befürchtet, sei beruhigt: Die aufgenommenen Geräusche verlassen das Gerät nicht. «Wir können die Nutzer damit nicht ausspionieren», betont Marforio.\n\nDiese sogenannte Zwei-Faktor-Authentifizierung gibt es schon länger. So schicken etwa einige Banken ihren Kunden nach der Eingabe des Passworts auf der Webseite eine SMS mit einer Zahl. Erst nachdem man diese auf der Webseite eingegeben hat, ist man angemeldet. Das ist den meisten Nutzern aber zu mühsam, zudem wird aus Sicherheitsgründen inzwischen von SMS-Login-Authentifizierungen abgeraten. «Unser System nimmt diese Prüfung dagegen unauffällig im Hintergrund vor», sagt Tobler.\n\nDoch was, wenn ein Hacker das Passwort kennt und sich im selben Raum wie der Nutzer aufhält oder zufälligerweise gerade das gleiche im Radio hört? Auch für diesen Fall hat das Team von Futurae vorgesorgt. Loggt man sich zum ersten Mal in einem neuen Browser oder auf einem neuen Gerät ein, verlangt die App eine manuelle Bestätigung.\n\nDieses Authentifizierungs-Verfahren ist einfach zu implementieren und kostet Unternehmen im Schnitt 60 Prozent weniger als herkömmliche Verfahren und ist besonders für den Finanzsektor, E-Commerce, E-Health und Versicherungen attraktiv. Schon heute führt Futurae Pilotprojekte mit Schweizer Banken und Finanzorganisationen durch.\n\nWährend die Sound-Proof-Technologie das Herz der Produktpalette ist, bietet Futurae ein ganzes Set an Authentifizierungsmethoden an, etwa über QR-Codes oder Ultraschall. Letzterer kommt zur Anwendung, wenn die Umgebung absolut still ist. Ultraschall überträgt eine verschlüsselte Botschaft vom Browser zum Handy. Dieses empfängt und entschlüsselt das Signal und authentifiziert dadurch den Nutzer.\n\nEnde März hat das Team einen entscheidenden finanziellen Zustupf erhalten: Als einer der beiden Sieger des Venture-Kick-Wettbewerbs hat es 130’000 Franken Startkapital gewonnen. «Dank der Teilnahme im Venture-Kick-Programm können wir uns voll und ganz auf die Veröffentlichung und Vermarktung unserer Produkte fokussieren», sagt Tobler. Zuerst will das Start-up die Schweizer Märkte erobern. Danach steht die Expansion in Europa und den USA an."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Login Sicherer1",
+        "label": "ORG",
+        "start": 41,
+        "end": 56
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 94,
+        "end": 102
+      },
+      {
+        "text": "immergleiche",
+        "label": "MISC",
+        "start": 241,
+        "end": 253
+      },
+      {
+        "text": "Swisscom",
+        "label": "MISC",
+        "start": 377,
+        "end": 385
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "MISC",
+        "start": 453,
+        "end": 468
+      },
+      {
+        "text": "SoundProof",
+        "label": "ORG",
+        "start": 638,
+        "end": 648
+      },
+      {
+        "text": "Laptop",
+        "label": "ORG",
+        "start": 848,
+        "end": 854
+      },
+      {
+        "text": "Claudio Marforio",
+        "label": "PER",
+        "start": 960,
+        "end": 976
+      },
+      {
+        "text": "Nikos Karapanos",
+        "label": "PER",
+        "start": 981,
+        "end": 996
+      },
+      {
+        "text": "System Security Group",
+        "label": "ORG",
+        "start": 1005,
+        "end": 1026
+      },
+      {
+        "text": "Departements",
+        "label": "LOC",
+        "start": 1031,
+        "end": 1043
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1095,
+        "end": 1105
+      },
+      {
+        "text": "Marforio",
+        "label": "LOC",
+        "start": 1124,
+        "end": 1132
+      },
+      {
+        "text": "Sandra Tobler",
+        "label": "PER",
+        "start": 1173,
+        "end": 1186
+      },
+      {
+        "text": "Samuel Berger",
+        "label": "PER",
+        "start": 1191,
+        "end": 1204
+      },
+      {
+        "text": "Sound-Proof",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Meldet",
+        "label": "PER",
+        "start": 50,
+        "end": 56
+      },
+      {
+        "text": "Sound-Proof",
+        "label": "LOC",
+        "start": 118,
+        "end": 129
+      },
+      {
+        "text": "Artificial-Intelligence-Algorithmus",
+        "label": "MISC",
+        "start": 283,
+        "end": 318
+      },
+      {
+        "text": "Fernseher",
+        "label": "LOC",
+        "start": 424,
+        "end": 433
+      },
+      {
+        "text": "Nachbarshund",
+        "label": "LOC",
+        "start": 457,
+        "end": 469
+      },
+      {
+        "text": "Smartphone",
+        "label": "LOC",
+        "start": 746,
+        "end": 756
+      },
+      {
+        "text": "Marforio",
+        "label": "PER",
+        "start": 999,
+        "end": 1007
+      },
+      {
+        "text": "Zwei-Faktor-Authentifizierung",
+        "label": "LOC",
+        "start": 1026,
+        "end": 1055
+      },
+      {
+        "text": "SMS",
+        "label": "MISC",
+        "start": 1175,
+        "end": 1178
+      },
+      {
+        "text": "Sicherheitsgründen",
+        "label": "LOC",
+        "start": 1330,
+        "end": 1348
+      },
+      {
+        "text": "SMS-Login-Authentifizierungen",
+        "label": "MISC",
+        "start": 1364,
+        "end": 1393
+      },
+      {
+        "text": "Unser System",
+        "label": "ORG",
+        "start": 1406,
+        "end": 1418
+      },
+      {
+        "text": "Futurae",
+        "label": "ORG",
+        "start": 1678,
+        "end": 1685
+      },
+      {
+        "text": "Loggt",
+        "label": "PER",
+        "start": 1698,
+        "end": 1703
+      },
+      {
+        "text": "Browser",
+        "label": "MISC",
+        "start": 1743,
+        "end": 1750
+      },
+      {
+        "text": "E-Commerce",
+        "label": "MISC",
+        "start": 2013,
+        "end": 2023
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 2108,
+        "end": 2117
+      },
+      {
+        "text": "Herz der Produktpalette",
+        "label": "MISC",
+        "start": 2197,
+        "end": 2220
+      },
+      {
+        "text": "Futurae",
+        "label": "MISC",
+        "start": 2233,
+        "end": 2240
+      },
+      {
+        "text": "Authentifizierungsmethoden",
+        "label": "LOC",
+        "start": 2259,
+        "end": 2285
+      },
+      {
+        "text": "QR-Codes",
+        "label": "MISC",
+        "start": 2300,
+        "end": 2308
+      },
+      {
+        "text": "Ultraschall",
+        "label": "ORG",
+        "start": 2314,
+        "end": 2325
+      },
+      {
+        "text": "Ultraschall",
+        "label": "ORG",
+        "start": 2395,
+        "end": 2406
+      },
+      {
+        "text": "Browser",
+        "label": "MISC",
+        "start": 2451,
+        "end": 2458
+      },
+      {
+        "text": "Signal",
+        "label": "LOC",
+        "start": 2508,
+        "end": 2514
+      },
+      {
+        "text": "Venture-Kick-Wettbewerbs",
+        "label": "ORG",
+        "start": 2662,
+        "end": 2686
+      },
+      {
+        "text": "Franken",
+        "label": "LOC",
+        "start": 2702,
+        "end": 2709
+      },
+      {
+        "text": "Venture-Kick-Programm",
+        "label": "MISC",
+        "start": 2756,
+        "end": 2777
+      },
+      {
+        "text": "Start-up",
+        "label": "MISC",
+        "start": 2908,
+        "end": 2916
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 2921,
+        "end": 2930
+      },
+      {
+        "text": "Europa",
+        "label": "LOC",
+        "start": 2977,
+        "end": 2983
+      },
+      {
+        "text": "USA",
+        "label": "LOC",
+        "start": 2992,
+        "end": 2995
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Claudio Marforio",
+        "De News",
+        "Loggt",
+        "Marforio",
+        "Meldet",
+        "Nikos Karapanos",
+        "Samuel Berger",
+        "Sandra Tobler",
+        "Sound-Proof"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Futurae",
+        "Laptop",
+        "Login Sicherer1",
+        "SoundProof",
+        "System Security Group",
+        "Ultraschall",
+        "Unser System",
+        "Venture-Kick-Wettbewerbs"
+      ],
+      "LOCATION": [
+        "Authentifizierungsmethoden",
+        "Departements",
+        "Europa",
+        "Fernseher",
+        "Franken",
+        "Marforio",
+        "Nachbarshund",
+        "Sicherheitsgründen",
+        "Signal",
+        "Smartphone",
+        "Sound-Proof",
+        "USA",
+        "Zwei-Faktor-Authentifizierung"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Artificial-Intelligence-Algorithmus",
+        "Browser",
+        "E-Commerce",
+        "ETH-Angehörigen",
+        "Futurae",
+        "Herz der Produktpalette",
+        "Internet",
+        "QR-Codes",
+        "SMS",
+        "SMS-Login-Authentifizierungen",
+        "Schweizer",
+        "Start-up",
+        "Swisscom",
+        "Venture-Kick-Programm",
+        "immergleiche"
+      ]
+    },
+    "entity_counts": {
+      "Marforio": 2,
+      "Sound-Proof": 2,
+      "Futurae": 2,
+      "Browser": 2,
+      "Schweizer": 2,
+      "Ultraschall": 2,
+      "De News": 1,
+      "Login Sicherer1": 1,
+      "Internet": 1,
+      "immergleiche": 1,
+      "Swisscom": 1,
+      "ETH-Angehörigen": 1,
+      "SoundProof": 1,
+      "Laptop": 1,
+      "Claudio Marforio": 1,
+      "Nikos Karapanos": 1,
+      "System Security Group": 1,
+      "Departements": 1,
+      "ETH Zürich": 1,
+      "Sandra Tobler": 1
+    },
+    "total_entities": 49,
+    "unique_entities": 43
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "geraeusche-machen-login-sicherer1.md",
+      "title": "De News Events/2017/04/geraeusche Machen Login Sicherer1",
+      "language": "de",
+      "source_path": "de_news_events/2017/04/geraeusche-machen-login-sicherer1.html"
+    },
+    "temporal": {
+      "publication_date": "2017-04",
+      "mentioned_years": [
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Claudio Marforio",
+        "De News",
+        "Loggt",
+        "Marforio",
+        "Meldet",
+        "Nikos Karapanos",
+        "Samuel Berger",
+        "Sandra Tobler",
+        "Sound-Proof"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "medical_research"
+      ],
+      "research_topics": [
+        "Artificial-Intelligence-Algorithmus",
+        "Browser",
+        "E-Commerce",
+        "ETH-Angehörigen",
+        "Futurae",
+        "Herz der Produktpalette",
+        "Internet",
+        "QR-Codes",
+        "SMS-Login-Authentifizierungen",
+        "Schweizer",
+        "Start-up",
+        "Swisscom",
+        "Venture-Kick-Programm",
+        "immergleiche"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Authentifizierungs-Verfahren",
+        "Claudio Marforio",
+        "System Security",
+        "E-Health",
+        "Machen Login",
+        "Zwei-Faktor",
+        "Samuel Berger",
+        "Im Gegensatz",
+        "Departements Informatik",
+        "Futurae-Management",
+        "Venture-Kick",
+        "Nikos Karapanos",
+        "Futurae Technologies",
+        "Ein Artificial",
+        "Schweizer Banken",
+        "Security Report",
+        "Sandra Tobler",
+        "Sound-Proof",
+        "SMS-Login",
+        "Desktop-Computer",
+        "Unser System",
+        "QR-Codes",
+        "Franken Startkapital",
+        "E-Commerce",
+        "Futurae Pilotprojekte",
+        "Dieses Authentifizierungs",
+        "Im Internet",
+        "De News",
+        "Intelligence-Algorithmus",
+        "Die Technologie"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Futurae",
+        "Laptop",
+        "Login Sicherer1",
+        "SoundProof",
+        "System Security Group",
+        "Ultraschall",
+        "Unser System",
+        "Venture-Kick-Wettbewerbs"
+      ],
+      "locations": [
+        "Authentifizierungsmethoden",
+        "Departements",
+        "Europa",
+        "Fernseher",
+        "Franken",
+        "Marforio",
+        "Nachbarshund",
+        "Sicherheitsgründen",
+        "Signal",
+        "Smartphone",
+        "Sound-Proof",
+        "USA",
+        "Zwei-Faktor-Authentifizierung"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Marforio",
+        "Sound-Proof",
+        "Futurae",
+        "Browser",
+        "Schweizer",
+        "Ultraschall",
+        "De News",
+        "Login Sicherer1",
+        "Internet",
+        "immergleiche"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "App und Browser vergleichen Geräusche",
+          "App und Browser vergleichen Geräusche"
+        ],
+        "content_length": 4309
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Claudio Marforio",
+        "2016",
+        "Loggt",
+        "Ultraschall",
+        "ERC",
+        "Samuel Berger",
+        "Laptop",
+        "Futurae",
+        "Nikos Karapanos",
+        "ETH Zürich",
+        "Sandra Tobler",
+        "Sound-Proof",
+        "Meldet",
+        "2015",
+        "EU",
+        "SoundProof",
+        "Venture-Kick-Wettbewerbs",
+        "Unser System",
+        "Marforio",
+        "System Security Group",
+        "2017",
+        "Login Sicherer1",
+        "De News"
+      ],
+      "semantic_concepts": [
+        "Futurae",
+        "Schweizer",
+        "Internet",
+        "Browser",
+        "Venture-Kick-Programm",
+        "SMS-Login-Authentifizierungen",
+        "Herz der Produktpalette",
+        "QR-Codes",
+        "ETH-Angehörigen",
+        "Start-up",
+        "what",
+        "how",
+        "immergleiche",
+        "medical_research",
+        "Artificial-Intelligence-Algorithmus",
+        "Swisscom",
+        "E-Commerce"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research"
+      ]
+    }
+  }
+}

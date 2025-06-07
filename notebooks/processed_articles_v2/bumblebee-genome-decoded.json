@@ -1,0 +1,573 @@
+{
+  "filename": "bumblebee-genome-decoded.md",
+  "original_filename": "bumblebee-genome-decoded.html",
+  "source_path": "en_news_events/2015/04/bumblebee-genome-decoded.html",
+  "date": "2015-04",
+  "title": "Bumblebee Genome Decoded",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Immune genes analysed",
+      "text": "Bumblebees are considered peaceful and industrious creatures, and their commercial value has increased in the wake of the decline of honeybees around the world. The bees are therefore now bred on a large scale and used as pollinators for economically valuable crops. Yet, these cute little, buzzing creatures, of which there are around 250 different species worldwide, is doing poorly in some places. The large shadow cast by the honeybee collapse has distracted from the fact that in recent years in the US as well as in other areas some previously common bumblebee species have also become rare or endangered, or disappeared altogether.\n\nFor this reason, two former ETH researchers, Seth Barribeau and Ben Sadd, together with Professor Paul Schmid-Hempel from the group for experimental ecology, started a bumblebee genome project eight years ago. The objective of the project was to analyse the genomes of two commercially important species: the European Buff-tailed Bumblebee, Bombus terrestris , and its American counterpart, the Common Eastern Bumblebee Bombus impatiens . The researchers were hoping that the genomic data would shed light on the biology, ecology and evolution of the bumblebee more generally."
+    },
+    {
+      "heading": "Immune genes analysed",
+      "text": "Barribeau, Sadd and 80 other researchers from around the world paid particular attention to the genes of the immune system. Evolutionary biologists, ecologists, bioinformaticians, and geneticists were involved in the project. The researchers also compared the genomes of the two bumblebee species with genomes of other insects that had already been mapped, such as the honeybee, the parasitoid wasp Nasonia and fruit fly, Drosophila melanogaster . The scientists recently published their findings in the scientific journal Genome Biology ."
+    },
+    {
+      "heading": "Genetic differences shed light on ecology",
+      "text": "The genomes of the two bumblebee species strongly resemble each other and contain about 20,000 different genes on 18 chromosomes. The scientists discovered that only a small fraction of these are genes involved in the immune response. In fact, the genetic repertoire of the immune system in the two bumblebee species has only about 150 genes, a relatively small portion compared with flies or mosquitoes – Drosophila has twice as many. The honeybee and parasitoid wasp ( Nasonia ), on the other hand, have only a small immunogenetic repertoire, too."
+    },
+    {
+      "heading": "Social organisation plays little role in immunity",
+      "text": "Schmid-Hempel is puzzled that the bumblebee, which exhibits relatively weak social organisation, has just as few immune genes as the honeybee, with its complex social organisation. He says that until now researchers had assumed that insects with a high degree of social organisation could afford to invest less in their immune system. In turn, a simple social system would promote a stronger individual defence. This previous theory suggested that highly social insects had other ways to ward off pathogens than to rely solely on their individual immune defences – for example, defence cooperation such as mutual body care.\n\nSchmid-Hempel thinks that the weak immune system of the honeybee and bumblebee could be related to their diet: flies and fruit flies such as Drosophila melanogaster eat from surfaces such as rotten fruit, which are contaminated with bacteria and fungus, whereas bees eat from relatively clean food sources, such as plant pollen and nectar. This should reduce the risk of infection and thus the selective pressure for a well-developed immune system.\n\nBut it is more than just a weak immune system that has been making the lives of bumblebees (and honeybees) difficult lately. The researchers were able to identify only very few genes that regulate the body’s mechanism for detoxification. According to Schmid-Hempel, this would at least be in line with the worry that these insects are sensitive to environmental toxins, such as agricultural pesticides."
+    },
+    {
+      "heading": "Genetic differences shed light on ecology",
+      "text": "The genetic analysis has, however, also revealed significant differences between the honeybee and bumblebee. For example, the bumblebee has more genes that contribute to taste, whereas the honeybee has more that contribute to the sense of smell.\n\nThis makes sense as the bumblebee relies on its sense of taste to find food, testing with its tongue virtually every flower. In contrast, the honeybee relies more on odours to find the right food, as it plays a role in the waggle dance, which honeybees use to communicate the presence of a good food source to each other. “This fundamental difference in the way these two bees live is clearly reflected in their genes,” explains Schmid-Hempel.\n\nThe researchers were surprised to find that they were able to associate relatively few specific genes to social organisation and behaviour. “The genes for this don’t differ very much between bumblebees and honeybees,” says Schmid-Hempel. But the scientists did discover different sets of micro-RNAs, tiny snippets of ribonucleic acids, in these insects. These miRNAs regulate genes by blocking gene copies, which serve as blueprints for proteins in the cells. It is specifically this type of gene regulation that seemingly takes a ‘normal’, primitively social insect, such as the bumblebee, and transforms it into a highly social organism like the honeybee.\n\nSadd BM, Barribeau SM, Bloch G, de Graaf DC, Dearden P, Elsik CG, et al.: The genomes of two key bumblebee species with primitive eusocial organization. Genome Biol 2015, 16:76\n\nBarribeau SM, Sadd BM, du Plessis L, Brown MJF, Buechel SD, Cappelle K, et al.: A depauperate immune repertoire precedes evolution of sociality in bees. Genome Biol 2015, 16:83 10.1186/s13059-015-0628-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Genome",
+        "label": "GPE",
+        "start": 33,
+        "end": 39
+      },
+      {
+        "text": "around 250",
+        "label": "CARDINAL",
+        "start": 329,
+        "end": 339
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 485,
+        "end": 497
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 505,
+        "end": 507
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 656,
+        "end": 659
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 667,
+        "end": 670
+      },
+      {
+        "text": "Seth Barribeau",
+        "label": "PERSON",
+        "start": 684,
+        "end": 698
+      },
+      {
+        "text": "Ben Sadd",
+        "label": "PERSON",
+        "start": 703,
+        "end": 711
+      },
+      {
+        "text": "Paul Schmid-Hempel",
+        "label": "PERSON",
+        "start": 737,
+        "end": 755
+      },
+      {
+        "text": "eight years ago",
+        "label": "DATE",
+        "start": 832,
+        "end": 847
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 908,
+        "end": 911
+      },
+      {
+        "text": "the European Buff",
+        "label": "ORG",
+        "start": 944,
+        "end": 961
+      },
+      {
+        "text": "Bumblebee",
+        "label": "ORG",
+        "start": 969,
+        "end": 978
+      },
+      {
+        "text": "Bombus",
+        "label": "ORG",
+        "start": 980,
+        "end": 986
+      },
+      {
+        "text": "American",
+        "label": "NORP",
+        "start": 1008,
+        "end": 1016
+      },
+      {
+        "text": "the Common Eastern Bumblebee",
+        "label": "ORG",
+        "start": 1030,
+        "end": 1058
+      },
+      {
+        "text": "Bombus",
+        "label": "ORG",
+        "start": 1059,
+        "end": 1065
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 275,
+        "end": 278
+      },
+      {
+        "text": "Nasonia",
+        "label": "GPE",
+        "start": 399,
+        "end": 406
+      },
+      {
+        "text": "Drosophila",
+        "label": "ORG",
+        "start": 422,
+        "end": 432
+      },
+      {
+        "text": "Genome Biology",
+        "label": "ORG",
+        "start": 523,
+        "end": 537
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "about 20,000",
+        "label": "CARDINAL",
+        "start": 82,
+        "end": 94
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 295,
+        "end": 298
+      },
+      {
+        "text": "only about 150",
+        "label": "CARDINAL",
+        "start": 321,
+        "end": 335
+      },
+      {
+        "text": "Nasonia",
+        "label": "GPE",
+        "start": 471,
+        "end": 478
+      },
+      {
+        "text": "Schmid-Hempel",
+        "label": "GPE",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Schmid-Hempel",
+        "label": "NORP",
+        "start": 624,
+        "end": 637
+      },
+      {
+        "text": "Drosophila",
+        "label": "ORG",
+        "start": 765,
+        "end": 775
+      },
+      {
+        "text": "Schmid-Hempel",
+        "label": "GPE",
+        "start": 1324,
+        "end": 1337
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 614,
+        "end": 617
+      },
+      {
+        "text": "Schmid-Hempel",
+        "label": "PERSON",
+        "start": 675,
+        "end": 688
+      },
+      {
+        "text": "Schmid-Hempel",
+        "label": "PERSON",
+        "start": 913,
+        "end": 926
+      },
+      {
+        "text": "Barribeau SM",
+        "label": "PERSON",
+        "start": 1357,
+        "end": 1369
+      },
+      {
+        "text": "Bloch G, de Graaf DC",
+        "label": "PERSON",
+        "start": 1371,
+        "end": 1391
+      },
+      {
+        "text": "Dearden P, Elsik CG",
+        "label": "ORG",
+        "start": 1393,
+        "end": 1412
+      },
+      {
+        "text": "al",
+        "label": "PERSON",
+        "start": 1417,
+        "end": 1419
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1437,
+        "end": 1440
+      },
+      {
+        "text": "16:76 Barribeau SM",
+        "label": "TIME",
+        "start": 1519,
+        "end": 1537
+      },
+      {
+        "text": "Buechel SD",
+        "label": "PERSON",
+        "start": 1573,
+        "end": 1583
+      },
+      {
+        "text": "Cappelle K",
+        "label": "ORG",
+        "start": 1585,
+        "end": 1595
+      },
+      {
+        "text": "al",
+        "label": "PERSON",
+        "start": 1600,
+        "end": 1602
+      },
+      {
+        "text": "16:83 10.1186",
+        "label": "CARDINAL",
+        "start": 1696,
+        "end": 1709
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Barribeau SM",
+        "Ben Sadd",
+        "Bloch G, de Graaf DC",
+        "Buechel SD",
+        "Paul Schmid-Hempel",
+        "Schmid-Hempel",
+        "Seth Barribeau",
+        "al"
+      ],
+      "ORG": [
+        "Bombus",
+        "Bumblebee",
+        "Cappelle K",
+        "Dearden P, Elsik CG",
+        "Drosophila",
+        "ETH",
+        "Genome Biology",
+        "the Common Eastern Bumblebee",
+        "the European Buff"
+      ],
+      "LOCATION": [
+        "Genome",
+        "Nasonia",
+        "Schmid-Hempel",
+        "US"
+      ],
+      "DATE": [
+        "16:76 Barribeau SM",
+        "eight years ago",
+        "recent years"
+      ],
+      "MISC": [
+        "16:83 10.1186",
+        "American",
+        "Schmid-Hempel",
+        "about 20,000",
+        "around 250",
+        "only about 150",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "two": 7,
+      "Schmid-Hempel": 5,
+      "Bombus": 2,
+      "Nasonia": 2,
+      "Drosophila": 2,
+      "al": 2,
+      "Genome": 1,
+      "around 250": 1,
+      "recent years": 1,
+      "US": 1,
+      "ETH": 1,
+      "Seth Barribeau": 1,
+      "Ben Sadd": 1,
+      "Paul Schmid-Hempel": 1,
+      "eight years ago": 1,
+      "the European Buff": 1,
+      "Bumblebee": 1,
+      "American": 1,
+      "the Common Eastern Bumblebee": 1,
+      "Genome Biology": 1
+    },
+    "total_entities": 43,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "bumblebee-genome-decoded.md",
+      "title": "En News Events/2015/04/bumblebee Genome Decoded",
+      "language": "en",
+      "source_path": "en_news_events/2015/04/bumblebee-genome-decoded.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Barribeau SM",
+        "Ben Sadd",
+        "Bloch G, de Graaf DC",
+        "Buechel SD",
+        "Paul Schmid-Hempel",
+        "Schmid-Hempel",
+        "Seth Barribeau",
+        "al"
+      ],
+      "people_with_roles": {
+        "Ben Sadd": [
+          "researcher",
+          "professor"
+        ],
+        "Paul Schmid-Hempel": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Schmid-Hempel": [
+          "researcher",
+          "professor"
+        ],
+        "Seth Barribeau": [
+          "researcher",
+          "professor"
+        ],
+        "al": [
+          "scientist",
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology",
+        "physics",
+        "mathematics"
+      ],
+      "research_topics": [
+        "16:83 10.1186",
+        "American",
+        "Schmid-Hempel",
+        "about 20,000",
+        "around 250",
+        "only about 150"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Professor Paul",
+        "Plessis L",
+        "Sadd BM",
+        "European Buff",
+        "Common Eastern",
+        "Cappelle K",
+        "Bumblebee Bombus",
+        "Bloch G",
+        "Elsik CG",
+        "Graaf DC",
+        "Genome Biol",
+        "Ben Sadd",
+        "Dearden P",
+        "Buechel SD",
+        "Seth Barribeau",
+        "En News",
+        "Schmid-Hempel",
+        "Brown MJF",
+        "Barribeau SM",
+        "Genome Decoded",
+        "Genome Biology"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bombus",
+        "Bumblebee",
+        "Cappelle K",
+        "Dearden P, Elsik CG",
+        "Drosophila",
+        "ETH",
+        "Genome Biology",
+        "the Common Eastern Bumblebee",
+        "the European Buff"
+      ],
+      "locations": [
+        "Genome",
+        "Nasonia",
+        "Schmid-Hempel",
+        "US"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "two",
+        "Schmid-Hempel",
+        "Bombus",
+        "Nasonia",
+        "Drosophila",
+        "al",
+        "Genome",
+        "around 250",
+        "recent years",
+        "US"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Immune genes analysed",
+          "Immune genes analysed",
+          "Genetic differences shed light on ecology",
+          "Social organisation plays little role in immunity",
+          "Genetic differences shed light on ecology"
+        ],
+        "content_length": 5564
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the Common Eastern Bumblebee",
+        "Bumblebee",
+        "ERC",
+        "Bloch G, de Graaf DC",
+        "Cappelle K",
+        "Dearden P, Elsik CG",
+        "Paul Schmid-Hempel",
+        "2015",
+        "EU",
+        "Bombus",
+        "al",
+        "Ben Sadd",
+        "Drosophila",
+        "the European Buff",
+        "Buechel SD",
+        "Schmid-Hempel",
+        "Seth Barribeau",
+        "Barribeau SM",
+        "Genome Biology"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "Schmid-Hempel",
+        "about 20,000",
+        "who",
+        "American",
+        "only about 150",
+        "around 250",
+        "biology",
+        "16:83 10.1186",
+        "what",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Ben Sadd_has_role_researcher",
+        "Ben Sadd_has_role_professor",
+        "Paul Schmid-Hempel_has_role_Professor",
+        "Paul Schmid-Hempel_has_role_researcher",
+        "Paul Schmid-Hempel_has_role_professor",
+        "Schmid-Hempel_has_role_researcher",
+        "Schmid-Hempel_has_role_professor",
+        "Seth Barribeau_has_role_researcher",
+        "Seth Barribeau_has_role_professor",
+        "al_has_role_scientist",
+        "al_has_role_researcher",
+        "al_has_role_professor",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

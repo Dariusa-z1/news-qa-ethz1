@@ -1,0 +1,253 @@
+{
+  "filename": "personalfest-together-verschoben.md",
+  "original_filename": "personalfest-together-verschoben.html",
+  "source_path": "de_internal/2021/02/personalfest-together-verschoben.html",
+  "date": "2021-02",
+  "title": "Personalfest Together Verschoben",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Vorarbeiten waren nicht umsonst",
+      "text": "Das «togETHer» ist eigentlich ein fixer Bestandteil im Veranstaltungskalender der ETH Zürich. Alle zwei Jahre nehmen 3000 bis 4000 Mitarbeitende und ihre Angehörigen daran teil. Doch wie schon im ersten «Corona-Jahr» 2020 ist auch in diesem Jahr vieles etwas anders. Wegen der unsicheren Lage rund um die Pandemie – insbesondere aufgrund der Virus-Mutationen – ist es zum jetzigen Zeitpunkt ungewiss, ob eine solche Grossveranstaltung im Sommer stattfinden kann.\n\nDa Buchungen von Künstlern und Zulieferern wegen Stornierungskosten frühzeitig abgesagt werden müssen, hat sich die Schulleitung entschieden, das Fest auch in diesem Jahr ausfallen zu lassen, nachdem es bereits 2020 um ein Jahr verschoben werden musste. Neues Durchführungsdatum ist nun der Freitag, 26. August 2022 . Somit findet das «togETHer» ab kommendem Jahr wieder im gewohnten Rhythmus im Wechsel mit der « externe Seite Scientifica » statt, die vom 3. bis 5. September 2021 geplant ist."
+    },
+    {
+      "heading": "Vorarbeiten waren nicht umsonst",
+      "text": "«Natürlich ist es sehr schade, dass das Personalfest auch in diesem Jahr nicht stattfinden kann», räumt Thomas Meissner, Projektleiter des «togETHer» bei der Abteilung Services (Events), ein. «Insbesondere, da viele von uns nun schon seit Monaten im Home Office arbeiten und ihre Arbeitskolleginnen und -kollegen fast nur noch virtuell sehen, wäre das «togETHer» eine schöne Gelegenheit für ein grosses Wiedersehen gewesen. Aufgrund der unsicheren Lage rund um Corona ist die Entscheidung der Schulleitung aber richtig.»\n\nDie Vorarbeiten, die bis jetzt bereits geleistet worden sind, waren jedoch nicht umsonst, sondern fliessen im nächsten Jahr in die Planung für Fest 2022 ein. Dann wird auch der Gastauftritt der Personalkommission (PeKo) nachgeholt, der im Rahmen ihres 50-Jahre-Jubiläums geplant gewesen wäre."
+    },
+    {
+      "heading": "Neues Datum bereits vormerken",
+      "text": "Aufgeschoben ist somit also – hoffentlich – nicht aufgehoben. Und für alle ETH-Angehörigen gilt somit: Den neuen Durchführungstermin des «togETHer» vom 26. August 2022 bereits jetzt im Kalender eintragen!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2021/02/personalfest Together",
+        "label": "LOC",
+        "start": 0,
+        "end": 41
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 82,
+        "end": 92
+      },
+      {
+        "text": "Corona-Jahr",
+        "label": "MISC",
+        "start": 204,
+        "end": 215
+      },
+      {
+        "text": "Virus-Mutationen",
+        "label": "MISC",
+        "start": 342,
+        "end": 358
+      },
+      {
+        "text": "Fest",
+        "label": "MISC",
+        "start": 609,
+        "end": 613
+      },
+      {
+        "text": "Neues Durchführungsdatum",
+        "label": "PER",
+        "start": 717,
+        "end": 741
+      },
+      {
+        "text": "Scientifica",
+        "label": "PER",
+        "start": 891,
+        "end": 902
+      },
+      {
+        "text": "Thomas Meissner",
+        "label": "PER",
+        "start": 104,
+        "end": 119
+      },
+      {
+        "text": "Home Office",
+        "label": "LOC",
+        "start": 250,
+        "end": 261
+      },
+      {
+        "text": "Corona",
+        "label": "LOC",
+        "start": 461,
+        "end": 467
+      },
+      {
+        "text": "PeKo",
+        "label": "MISC",
+        "start": 735,
+        "end": 739
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "ORG",
+        "start": 75,
+        "end": 90
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Neues Durchführungsdatum",
+        "Scientifica",
+        "Thomas Meissner"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Angehörigen"
+      ],
+      "LOCATION": [
+        "Corona",
+        "De Internal/2021/02/personalfest Together",
+        "Home Office"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Corona-Jahr",
+        "Fest",
+        "PeKo",
+        "Virus-Mutationen"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2021/02/personalfest Together": 1,
+      "ETH Zürich": 1,
+      "Corona-Jahr": 1,
+      "Virus-Mutationen": 1,
+      "Fest": 1,
+      "Neues Durchführungsdatum": 1,
+      "Scientifica": 1,
+      "Thomas Meissner": 1,
+      "Home Office": 1,
+      "Corona": 1,
+      "PeKo": 1,
+      "ETH-Angehörigen": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "personalfest-together-verschoben.md",
+      "title": "De Internal/2021/02/personalfest Together Verschoben",
+      "language": "de",
+      "source_path": "de_internal/2021/02/personalfest-together-verschoben.html"
+    },
+    "temporal": {
+      "publication_date": "2021-02",
+      "mentioned_years": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "time_periods": [
+        [
+          "3000",
+          "4000"
+        ]
+      ],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Neues Durchführungsdatum",
+        "Scientifica",
+        "Thomas Meissner"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Corona-Jahr",
+        "Fest",
+        "PeKo",
+        "Virus-Mutationen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Die Vorarbeiten",
+        "Corona-Jahr",
+        "Abteilung Services",
+        "Seite Scientifica",
+        "De Internal",
+        "Home Office",
+        "Together Verschoben",
+        "Virus-Mutationen",
+        "Da Buchungen",
+        "Thomas Meissner"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Angehörigen"
+      ],
+      "locations": [
+        "Corona",
+        "De Internal/2021/02/personalfest Together",
+        "Home Office"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De Internal/2021/02/personalfest Together",
+        "ETH Zürich",
+        "Corona-Jahr",
+        "Virus-Mutationen",
+        "Fest",
+        "Neues Durchführungsdatum",
+        "Scientifica",
+        "Thomas Meissner",
+        "Home Office",
+        "Corona"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Vorarbeiten waren nicht umsonst",
+          "Vorarbeiten waren nicht umsonst",
+          "Neues Datum bereits vormerken"
+        ],
+        "content_length": 2031
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Scientifica",
+        "EU",
+        "2020",
+        "ETH Zürich",
+        "2022",
+        "ETH-Angehörigen",
+        "Neues Durchführungsdatum",
+        "2021",
+        "Thomas Meissner"
+      ],
+      "semantic_concepts": [
+        "Corona-Jahr",
+        "Fest",
+        "who",
+        "Virus-Mutationen",
+        "PeKo"
+      ],
+      "graph_relations": []
+    }
+  }
+}

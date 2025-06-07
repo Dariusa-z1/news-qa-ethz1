@@ -1,0 +1,401 @@
+{
+  "filename": "mit-strom-gene-regulieren.md",
+  "original_filename": "mit-strom-gene-regulieren.html",
+  "source_path": "de_news_events/2020/05/mit-strom-gene-regulieren.html",
+  "date": "2020-05",
+  "title": "Mit Strom Gene Regulieren",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "So sieht es aus: Eine Platine und ein Zellbehälter",
+      "text": "Ein Diabetiker trägt in seinem Körper ein Implantat, das insulinproduzierende Zellen enthält, und eine elektronische Steuereinheit. Sobald der Patient etwas isst und der Blutzucker steigt, kann er über sein Smartphone mittels App ein elektrisches Signal absetzen oder die App übernimmt dies automatisch, wenn der Speiseplan einprogrammiert ist. Wenig später schütten die Zellen die notwendige Menge des hergestellten Insulins aus, welches den Blutzuckerspiegel reguliert.\n\nDas klingt nach Science-Fiction, ist es aber vielleicht bald nicht mehr. Forschende um Martin Fussenegger, ETH-Professor für Biotechnologie und Bioingenieurwissenschaften am Departement für Biosysteme in Basel, haben soeben in der Fachzeitschrift « externe Seite Science » den Prototyp eines solchen Implantats vorgestellt. Es ist das erste, bei welchem Gene direkt mit elektrischen Signalen aktiviert und reguliert werden können. Getestet haben es die Forschenden in Mäusen, wo es einwandfrei funktioniert hat.\n\nDie Basler Wissenschaftler haben viel Erfahrung bei der Entwicklung von genetischen Netzwerken und Implantaten, die auf einen bestimmten physiologischen Zustand des Körpers antworten, wie zum Beispiel auf zu hohe Blutfettwerte oder einen zu tiefen Blutzuckerspiegel. Solche Netzwerke reagieren auf biochemische Signale. Alternativ kann man sie von extern mit Licht steuern. «Wir hatten aber schon lange den Wunsch, Genexpression direkt mit Elektrizität zu steuern, das ist hier zum ersten Mal gelungen», sagt Fussenegger."
+    },
+    {
+      "heading": "Internet of the body am Horizont",
+      "text": "Prototyp des Implantats: Ein Kabel verbindet die runde zellengefüllte Kammer mit der Steuerungselektronik (grün). Das gesamte Konstrukt ist etwas so gross wie ein Schweizer Zweifranken-Stück. (Bild: Krzysztof Krawczyk/ETH Zürich)\n\nDas Implantat, das die Forschenden konstruierten, ist aus mehreren Teilen aufgebaut: Auf der einen Seite sitzt eine Platine mit der Empfangs- und Steuerelektronik, auf der anderen eine Kammer, welche menschliche Zellen enthält. Über ein Kabel ist die Platine mit dem Zellbehälter verbunden.\n\nEin Funksignal von ausserhalb des Körpers aktiviert die Elektronik im Implantat, diese überträgt elektrische Signale direkt an die Zellen. Die elektrischen Signale stimulieren eine spezielle Kombination von Kalzium- und Kaliumkanälen, welche eine Signalkaskade in der Zelle aktiviert, welche das Insulin-Gen steuert. Die Zellmaschinerie verpackt das Insulin in Vesikeln, die durch das elektrische Signal mit der Zellmembran verschmelzen und so das Insulin innerhalb weniger Minuten freisetzen.\n\nMartin Fussenegger sieht mehrere Vorteile dieser neusten Entwicklung. «Das Implantat könnte mit dem Cyberspace verbunden werden.» Arzt oder Patient können via App direkt intervenieren und die Insulinproduktion hochfahren. Dies auch aus der Ferne übers Internet, sobald die physiologischen Daten aus dem Implantat übermittelt werden. «Mit einem solchen Gerät könnte der Mensch voll in die digitale Welt integriert werden und ein Teil des Internet of Things oder sogar zum Internet of the Body werden», sagt der ETH-Professor.\n\nDie Gefahr eines Hackerangriffs sieht er eher gelassen. «Schon heute tragen Menschen Herzschrittmacher, die theoretisch angreifbar, aber dementsprechend gut geschützt sind. Das müssen wir auch bei unseren Implantaten so implementieren», sagt Fussenegger.\n\nDie grösste Herausforderung sieht er zurzeit auf genetischer Seite. Wie gross die Stromstärke maximal sein darf, damit die Zellen und Gene keinen Schaden nehmen, müssen er und seine Gruppe weiter erforschen. Auch müssen die Forschenden die Verbindung zwischen Elektronik und Zellen weiter optimieren.\n\nUnd nicht zuletzt müssen die Forschenden einen neuen Weg finden, wie sie die Zellen im Implantat einfacher und bequemer ersetzen können. Die verwendeten Zellen müssen nach rund drei Wochen ersetzt werden. An ihrem Prototyp haben die Forscher zwei Einfüllstutzen angebracht. Damit haben sie in ihren Experimenten Zellen ausgetauscht. Dieses System wollen Fussenegger und sein Team aber durch eine praktischere Lösung ersetzen.\n\nBis ein solches System beim Menschen zur Anwendung kommt, muss es jedoch noch viele klinische Tests überstehen."
+    },
+    {
+      "heading": "Literaturhinweis",
+      "text": "Krawczyk K et al. Electrogenetic cellular insulin release for real-time glycemic control in type 1 diabetic mice. Science, Online-Publikation 28. Mai 2020, doi: externe Seite 10.1126/science.aau7187"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Gene Regulieren",
+        "label": "PER",
+        "start": 33,
+        "end": 48
+      },
+      {
+        "text": "Martin Fussenegger",
+        "label": "PER",
+        "start": 559,
+        "end": 577
+      },
+      {
+        "text": "ETH-Professor",
+        "label": "MISC",
+        "start": 579,
+        "end": 592
+      },
+      {
+        "text": "Departement für Biosysteme",
+        "label": "MISC",
+        "start": 646,
+        "end": 672
+      },
+      {
+        "text": "Basel",
+        "label": "LOC",
+        "start": 676,
+        "end": 681
+      },
+      {
+        "text": "Science",
+        "label": "PER",
+        "start": 735,
+        "end": 742
+      },
+      {
+        "text": "Mäusen",
+        "label": "LOC",
+        "start": 940,
+        "end": 946
+      },
+      {
+        "text": "Basler",
+        "label": "LOC",
+        "start": 988,
+        "end": 994
+      },
+      {
+        "text": "Konstrukt",
+        "label": "LOC",
+        "start": 126,
+        "end": 135
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 163,
+        "end": 172
+      },
+      {
+        "text": "Krzysztof Krawczyk",
+        "label": "PER",
+        "start": 199,
+        "end": 217
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 218,
+        "end": 228
+      },
+      {
+        "text": "Insulin-Gen",
+        "label": "LOC",
+        "start": 817,
+        "end": 828
+      },
+      {
+        "text": "Vesikeln",
+        "label": "LOC",
+        "start": 882,
+        "end": 890
+      },
+      {
+        "text": "Signal",
+        "label": "LOC",
+        "start": 918,
+        "end": 924
+      },
+      {
+        "text": "Martin Fussenegger",
+        "label": "PER",
+        "start": 1015,
+        "end": 1033
+      },
+      {
+        "text": "Cyberspace",
+        "label": "LOC",
+        "start": 1115,
+        "end": 1125
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 1267,
+        "end": 1275
+      },
+      {
+        "text": "Internet of Things",
+        "label": "MISC",
+        "start": 1452,
+        "end": 1470
+      },
+      {
+        "text": "Internet of the Body",
+        "label": "MISC",
+        "start": 1486,
+        "end": 1506
+      },
+      {
+        "text": "ETH-Professor",
+        "label": "MISC",
+        "start": 1525,
+        "end": 1538
+      },
+      {
+        "text": "Krawczyk K et al.",
+        "label": "LOC",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "release for real-time glycemic control",
+        "label": "MISC",
+        "start": 50,
+        "end": 88
+      },
+      {
+        "text": "Science",
+        "label": "MISC",
+        "start": 114,
+        "end": 121
+      },
+      {
+        "text": "Online-Publikation",
+        "label": "MISC",
+        "start": 123,
+        "end": 141
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Gene Regulieren",
+        "Krzysztof Krawczyk",
+        "Martin Fussenegger",
+        "Science"
+      ],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "Basel",
+        "Basler",
+        "Cyberspace",
+        "Insulin-Gen",
+        "Konstrukt",
+        "Krawczyk K et al.",
+        "Mäusen",
+        "Signal",
+        "Vesikeln"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Departement für Biosysteme",
+        "ETH-Professor",
+        "Internet",
+        "Internet of Things",
+        "Internet of the Body",
+        "Online-Publikation",
+        "Schweizer",
+        "Science",
+        "release for real-time glycemic control"
+      ]
+    },
+    "entity_counts": {
+      "Martin Fussenegger": 2,
+      "ETH-Professor": 2,
+      "Science": 2,
+      "De News": 1,
+      "Gene Regulieren": 1,
+      "Departement für Biosysteme": 1,
+      "Basel": 1,
+      "Mäusen": 1,
+      "Basler": 1,
+      "Konstrukt": 1,
+      "Schweizer": 1,
+      "Krzysztof Krawczyk": 1,
+      "ETH Zürich": 1,
+      "Insulin-Gen": 1,
+      "Vesikeln": 1,
+      "Signal": 1,
+      "Cyberspace": 1,
+      "Internet": 1,
+      "Internet of Things": 1,
+      "Internet of the Body": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mit-strom-gene-regulieren.md",
+      "title": "De News Events/2020/05/mit Strom Gene Regulieren",
+      "language": "de",
+      "source_path": "de_news_events/2020/05/mit-strom-gene-regulieren.html"
+    },
+    "temporal": {
+      "publication_date": "2020-05",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Gene Regulieren",
+        "Krzysztof Krawczyk",
+        "Martin Fussenegger",
+        "Science"
+      ],
+      "people_with_roles": {
+        "Martin Fussenegger": [
+          "professor"
+        ],
+        "Science": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology"
+      ],
+      "research_topics": [
+        "Departement für Biosysteme",
+        "ETH-Professor",
+        "Internet",
+        "Internet of Things",
+        "Internet of the Body",
+        "Online-Publikation",
+        "Schweizer",
+        "Science",
+        "release for real-time glycemic control"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Seite Science",
+        "Krzysztof Krawczyk",
+        "Die Gefahr",
+        "ETH-Professor",
+        "Ein Funksignal",
+        "Solche Netzwerke",
+        "Regulieren Ein",
+        "Dieses System",
+        "Die Zellmaschinerie",
+        "Krawczyk K",
+        "Martin Fussenegger",
+        "Strom Gene",
+        "Online-Publikation",
+        "Insulin-Gen",
+        "Die Basler",
+        "Ein Kabel",
+        "Menschen Herzschrittmacher",
+        "Schweizer Zweifranken",
+        "Experimenten Zellen",
+        "Science-Fiction",
+        "Das Implantat",
+        "De News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "Basel",
+        "Basler",
+        "Cyberspace",
+        "Insulin-Gen",
+        "Konstrukt",
+        "Krawczyk K et al.",
+        "Mäusen",
+        "Signal",
+        "Vesikeln"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Martin Fussenegger",
+        "ETH-Professor",
+        "Science",
+        "De News",
+        "Gene Regulieren",
+        "Departement für Biosysteme",
+        "Basel",
+        "Mäusen",
+        "Basler",
+        "Konstrukt"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "So sieht es aus: Eine Platine und ein Zellbehälter",
+          "Internet of the body am Horizont",
+          "Literaturhinweis"
+        ],
+        "content_length": 4396
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "2020",
+        "Science",
+        "Krzysztof Krawczyk",
+        "Gene Regulieren",
+        "ETH Zürich",
+        "De News",
+        "Martin Fussenegger"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "release for real-time glycemic control",
+        "Schweizer",
+        "Internet",
+        "Online-Publikation",
+        "who",
+        "Science",
+        "Internet of Things",
+        "biology",
+        "Internet of the Body",
+        "ETH-Professor",
+        "Departement für Biosysteme",
+        "when"
+      ],
+      "graph_relations": [
+        "Martin Fussenegger_has_role_professor",
+        "Science_has_role_professor",
+        "research_domain_technology",
+        "research_domain_biology"
+      ]
+    }
+  }
+}

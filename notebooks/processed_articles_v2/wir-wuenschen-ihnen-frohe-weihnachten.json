@@ -1,0 +1,180 @@
+{
+  "filename": "wir-wuenschen-ihnen-frohe-weihnachten.md",
+  "original_filename": "wir-wuenschen-ihnen-frohe-weihnachten.html",
+  "source_path": "de_internal/2015/12/wir-wuenschen-ihnen-frohe-weihnachten.html",
+  "date": "2015-12",
+  "title": "Wir Wuenschen Ihnen Frohe Weihnachten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Liebe Leserinnen und Leser\n\nWir sind vom 24. Dezember bis 4. Januar in den Ferien. Wir danken Ihnen für Ihr Interesse und wünschen allen Mitarbeitenden frohe Festtage, einen geselligen Jahreswechsel und vor allem ein tolles neues Jahr 2016.\n\nIhr Team der Internen Kommunikation:\n\nNorbert Staub, Florian Meyer, Isabel Nägele und Andrea Schmits"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/12/wir Wuenschen",
+        "label": "LOC",
+        "start": 0,
+        "end": 33
+      },
+      {
+        "text": "Weihnachten",
+        "label": "MISC",
+        "start": 46,
+        "end": 57
+      },
+      {
+        "text": "Liebe Leserinnen",
+        "label": "PER",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "Norbert Staub",
+        "label": "PER",
+        "start": 277,
+        "end": 290
+      },
+      {
+        "text": "Florian Meyer",
+        "label": "PER",
+        "start": 292,
+        "end": 305
+      },
+      {
+        "text": "Isabel Nägele",
+        "label": "PER",
+        "start": 307,
+        "end": 320
+      },
+      {
+        "text": "Andrea Schmits",
+        "label": "PER",
+        "start": 325,
+        "end": 339
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andrea Schmits",
+        "Florian Meyer",
+        "Isabel Nägele",
+        "Liebe Leserinnen",
+        "Norbert Staub"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2015/12/wir Wuenschen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Weihnachten"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2015/12/wir Wuenschen": 1,
+      "Weihnachten": 1,
+      "Liebe Leserinnen": 1,
+      "Norbert Staub": 1,
+      "Florian Meyer": 1,
+      "Isabel Nägele": 1,
+      "Andrea Schmits": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "wir-wuenschen-ihnen-frohe-weihnachten.md",
+      "title": "De Internal/2015/12/wir Wuenschen Ihnen Frohe Weihnachten",
+      "language": "de",
+      "source_path": "de_internal/2015/12/wir-wuenschen-ihnen-frohe-weihnachten.html"
+    },
+    "temporal": {
+      "publication_date": "2015-12",
+      "mentioned_years": [
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Andrea Schmits",
+        "Florian Meyer",
+        "Isabel Nägele",
+        "Liebe Leserinnen",
+        "Norbert Staub"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Weihnachten"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Internen Kommunikation",
+        "De Internal",
+        "Liebe Leserinnen",
+        "Ihr Interesse",
+        "Ihr Team",
+        "Norbert Staub",
+        "Florian Meyer",
+        "Wuenschen Ihnen",
+        "Frohe Weihnachten",
+        "Andrea Schmits"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2015/12/wir Wuenschen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2015/12/wir Wuenschen",
+        "Weihnachten",
+        "Liebe Leserinnen",
+        "Norbert Staub",
+        "Florian Meyer",
+        "Isabel Nägele",
+        "Andrea Schmits"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 400
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "Isabel Nägele",
+        "EU",
+        "Liebe Leserinnen",
+        "Norbert Staub",
+        "2016",
+        "Florian Meyer",
+        "Andrea Schmits"
+      ],
+      "semantic_concepts": [
+        "Weihnachten"
+      ],
+      "graph_relations": []
+    }
+  }
+}

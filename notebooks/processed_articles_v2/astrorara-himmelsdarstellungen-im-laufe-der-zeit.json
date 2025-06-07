@@ -1,0 +1,286 @@
+{
+  "filename": "astrorara-himmelsdarstellungen-im-laufe-der-zeit.md",
+  "original_filename": "astrorara-himmelsdarstellungen-im-laufe-der-zeit.html",
+  "source_path": "en_internal/2020/01/astrorara-himmelsdarstellungen-im-laufe-der-zeit.html",
+  "date": "2020-01",
+  "title": "Astrorara Himmelsdarstellungen Im Laufe Der Zeit",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Have you ever wondered how scientists of centuries past observed and documented celestial events?\n\nAstroRara , the new app from ETH Library, shows you how the creators of illustrations found in rare and historic documents intended them to be used. Take an interactive journey of discovery through the the works of astronomers Peter Apian (1495–1552), Christoph Scheiner (1575–1650) and Johannes Hevelius (1611–1687).\n\nIn AstroRara, learn more about the models and the phenomena they observed. Short texts about the authors and their illustrations provide additional background information. Audio files are also available, so you can listen to the texts.\n\nThe old books collection of ETH Library includes around 75,000 volumes of monographs and newspapers that were published between the fifteenth and nineteenth centuries. The collection mostly comprises texts on the subjects of astronomy and mathematics.\n\n#KnowMore – The prepared content issued by ETH Library is at your free disposal and gives you a head start."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Laufe",
+        "label": "PERSON",
+        "start": 54,
+        "end": 59
+      },
+      {
+        "text": "Zeit",
+        "label": "ORG",
+        "start": 64,
+        "end": 68
+      },
+      {
+        "text": "centuries",
+        "label": "DATE",
+        "start": 41,
+        "end": 50
+      },
+      {
+        "text": "AstroRara",
+        "label": "PERSON",
+        "start": 98,
+        "end": 107
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 127,
+        "end": 138
+      },
+      {
+        "text": "Peter Apian",
+        "label": "PERSON",
+        "start": 325,
+        "end": 336
+      },
+      {
+        "text": "1495–1552",
+        "label": "CARDINAL",
+        "start": 338,
+        "end": 347
+      },
+      {
+        "text": "Christoph Scheiner",
+        "label": "PERSON",
+        "start": 350,
+        "end": 368
+      },
+      {
+        "text": "1575–1650",
+        "label": "CARDINAL",
+        "start": 370,
+        "end": 379
+      },
+      {
+        "text": "Johannes Hevelius",
+        "label": "ORG",
+        "start": 385,
+        "end": 402
+      },
+      {
+        "text": "1611–1687",
+        "label": "CARDINAL",
+        "start": 404,
+        "end": 413
+      },
+      {
+        "text": "AstroRara",
+        "label": "GPE",
+        "start": 419,
+        "end": 428
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 680,
+        "end": 691
+      },
+      {
+        "text": "75,000",
+        "label": "CARDINAL",
+        "start": 708,
+        "end": 714
+      },
+      {
+        "text": "the fifteenth and",
+        "label": "DATE",
+        "start": 780,
+        "end": 797
+      },
+      {
+        "text": "nineteenth centuries",
+        "label": "DATE",
+        "start": 798,
+        "end": 818
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 946,
+        "end": 957
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "AstroRara",
+        "Christoph Scheiner",
+        "Laufe",
+        "Peter Apian"
+      ],
+      "ORG": [
+        "ETH Library",
+        "Johannes Hevelius",
+        "Zeit"
+      ],
+      "LOCATION": [
+        "AstroRara"
+      ],
+      "DATE": [
+        "centuries",
+        "nineteenth centuries",
+        "the fifteenth and"
+      ],
+      "MISC": [
+        "1495–1552",
+        "1575–1650",
+        "1611–1687",
+        "75,000"
+      ]
+    },
+    "entity_counts": {
+      "ETH Library": 3,
+      "AstroRara": 2,
+      "Laufe": 1,
+      "Zeit": 1,
+      "centuries": 1,
+      "Peter Apian": 1,
+      "1495–1552": 1,
+      "Christoph Scheiner": 1,
+      "1575–1650": 1,
+      "Johannes Hevelius": 1,
+      "1611–1687": 1,
+      "75,000": 1,
+      "the fifteenth and": 1,
+      "nineteenth centuries": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "astrorara-himmelsdarstellungen-im-laufe-der-zeit.md",
+      "title": "En Internal/2020/01/astrorara Himmelsdarstellungen Im Laufe der Zeit",
+      "language": "en",
+      "source_path": "en_internal/2020/01/astrorara-himmelsdarstellungen-im-laufe-der-zeit.html"
+    },
+    "temporal": {
+      "publication_date": "2020-01",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "AstroRara",
+        "Christoph Scheiner",
+        "Laufe",
+        "Peter Apian"
+      ],
+      "people_with_roles": {
+        "AstroRara": [
+          "scientist"
+        ],
+        "Laufe": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "1495–1552",
+        "1575–1650",
+        "1611–1687",
+        "75,000"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Zeit Have",
+        "Johannes Hevelius",
+        "ETH Library",
+        "Peter Apian",
+        "En Internal",
+        "Christoph Scheiner",
+        "Himmelsdarstellungen Im",
+        "In AstroRara"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library",
+        "Johannes Hevelius",
+        "Zeit"
+      ],
+      "locations": [
+        "AstroRara"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Library",
+        "AstroRara",
+        "Laufe",
+        "Zeit",
+        "centuries",
+        "Peter Apian",
+        "1495–1552",
+        "Christoph Scheiner",
+        "1575–1650",
+        "Johannes Hevelius"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1084
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "AstroRara",
+        "Johannes Hevelius",
+        "ETH Library",
+        "2020",
+        "Peter Apian",
+        "Christoph Scheiner",
+        "Laufe",
+        "Zeit"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "1611–1687",
+        "who",
+        "75,000",
+        "1495–1552",
+        "how",
+        "1575–1650"
+      ],
+      "graph_relations": [
+        "AstroRara_has_role_scientist",
+        "Laufe_has_role_scientist",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

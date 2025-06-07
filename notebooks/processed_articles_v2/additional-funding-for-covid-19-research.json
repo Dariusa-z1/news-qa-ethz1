@@ -1,0 +1,257 @@
+{
+  "filename": "additional-funding-for-covid-19-research.md",
+  "original_filename": "additional-funding-for-covid-19-research.html",
+  "source_path": "en_news_events/2020/03/additional-funding-for-covid-19-research.html",
+  "date": "2020-03",
+  "title": "Additional Funding For Covid 19 Research",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Botnar Research Center for Child Health (BRCCH), which was founded jointly by ETH Zurich and the University of Basel in 2019, develops new pediatric approaches to promote the health of children and adolescents worldwide. Researchers from the University Children's Hospital Basel and the Swiss Tropical and Public Health Institute are also involved in the Center.\n\nIn the face of the global Covid 19 crisis, the BRCCH is now launching an emergency initiative for the first time in order to develop practicable approaches as quickly as possible to cope with this extraordinary situation. The Fondation Botnar, which made the establishment of this centre possible with a donation, has now provided additional funds of 15 million Swiss francs. The funds will be used to support projects of the four participating institutions over a period of two and a half years. Funding will be given to projects dealing with the diagnosis and human immune response to Covid-19, as well as to projects in the fields of medical interventions and disease management.\n\nThe aim of this short-term initiative is to use the expertise of the partners involved to solve urgent problems in the fight against the Covid-19 pandemic. At the same time, longer-term approaches are also to be developed so that similar situations can be better managed worldwide in the future."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "The Botnar Research Center for Child Health",
+        "label": "ORG",
+        "start": 0,
+        "end": 43
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 82,
+        "end": 92
+      },
+      {
+        "text": "the University of Basel",
+        "label": "ORG",
+        "start": 97,
+        "end": 120
+      },
+      {
+        "text": "the University Children's",
+        "label": "ORG",
+        "start": 242,
+        "end": 267
+      },
+      {
+        "text": "Hospital Basel",
+        "label": "FAC",
+        "start": 268,
+        "end": 282
+      },
+      {
+        "text": "the Swiss Tropical and Public Health Institute",
+        "label": "ORG",
+        "start": 287,
+        "end": 333
+      },
+      {
+        "text": "Center",
+        "label": "GPE",
+        "start": 359,
+        "end": 365
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 469,
+        "end": 474
+      },
+      {
+        "text": "15 million Swiss francs",
+        "label": "MONEY",
+        "start": 718,
+        "end": 741
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 793,
+        "end": 797
+      },
+      {
+        "text": "two and a half years",
+        "label": "DATE",
+        "start": 842,
+        "end": 862
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "En News",
+        "The Botnar Research Center for Child Health",
+        "the Swiss Tropical and Public Health Institute",
+        "the University Children's",
+        "the University of Basel"
+      ],
+      "LOCATION": [
+        "Center",
+        "Hospital Basel"
+      ],
+      "DATE": [
+        "two and a half years"
+      ],
+      "MISC": [
+        "15 million Swiss francs",
+        "first",
+        "four"
+      ]
+    },
+    "entity_counts": {
+      "En News": 1,
+      "The Botnar Research Center for Child Health": 1,
+      "ETH Zurich": 1,
+      "the University of Basel": 1,
+      "the University Children's": 1,
+      "Hospital Basel": 1,
+      "the Swiss Tropical and Public Health Institute": 1,
+      "Center": 1,
+      "first": 1,
+      "15 million Swiss francs": 1,
+      "four": 1,
+      "two and a half years": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "additional-funding-for-covid-19-research.md",
+      "title": "En News Events/2020/03/additional Funding For Covid 19 Research",
+      "language": "en",
+      "source_path": "en_news_events/2020/03/additional-funding-for-covid-19-research.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "15 million Swiss francs",
+        "first",
+        "four"
+      ],
+      "grants_funding": [
+        "funding"
+      ],
+      "projects": [
+        "Swiss Tropical",
+        "En News",
+        "Child Health",
+        "Hospital Basel",
+        "Public Health",
+        "The Fondation",
+        "University Children",
+        "Research The",
+        "ETH Zurich",
+        "Funding For",
+        "Botnar Research"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "En News",
+        "The Botnar Research Center for Child Health",
+        "the Swiss Tropical and Public Health Institute",
+        "the University Children's",
+        "the University of Basel"
+      ],
+      "locations": [
+        "Center",
+        "Hospital Basel"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "En News",
+        "The Botnar Research Center for Child Health",
+        "ETH Zurich",
+        "the University of Basel",
+        "the University Children's",
+        "Hospital Basel",
+        "the Swiss Tropical and Public Health Institute",
+        "Center",
+        "first",
+        "15 million Swiss francs"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1411
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Swiss Tropical and Public Health Institute",
+        "En News",
+        "2019",
+        "the University of Basel",
+        "2020",
+        "funding",
+        "The Botnar Research Center for Child Health",
+        "the University Children's",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "four",
+        "who",
+        "15 million Swiss francs",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

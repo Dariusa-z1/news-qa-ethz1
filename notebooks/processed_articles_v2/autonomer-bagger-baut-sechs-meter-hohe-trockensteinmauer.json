@@ -1,0 +1,387 @@
+{
+  "filename": "autonomer-bagger-baut-sechs-meter-hohe-trockensteinmauer.md",
+  "original_filename": "autonomer-bagger-baut-sechs-meter-hohe-trockensteinmauer.html",
+  "source_path": "de_news_events/2023/11/autonomer-bagger-baut-sechs-meter-hohe-trockensteinmauer.html",
+  "date": "2023-11",
+  "title": "Autonomer Bagger Baut Sechs Meter Hohe Trockensteinmauer",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "In Kürze",
+      "text": "- Weil Trockenmauern viel Handarbeit erfordern, bleiben ihre Anwendungen bislang limitiert.\n\n- ETH-Forschende haben eine Methode entwickelt, um mit einem autonomen Bagger eine sechs Meter hohe und fünfundsechzig Meter lange Trockensteinmauer zu bauen\n\n- Trockenmauern sind ressourcenschonend, weil sie mit vor Ort verfügbaren Materialien wie Betonbruchstücken auskommen, sie enthalten also nur wenig graue Energie."
+    },
+    {
+      "heading": "Literaturhinweis",
+      "text": "ETH-Forschende haben eine Methode entwickelt, um mit einem autonomen Bagger eine sechs Meter hohe und fünfundsechzig Meter lange Trockensteinmauer zu bauen. Die Mauer ist Teil einer digital geplanten und autonom modellierten Parkanlage.\n\nFür das Projekt im Rahmen des Nationalen Forschungsschwerpunktes Digitale Fabrikation (NCCR dfab) haben Wissenschaftler von Gramazio Kohler Research, dem Robotic Systems Lab, dem Vision for Robotics Lab und dem Lehrstuhl für Landschaftsarchitektur zusammengearbeitet.\n\nDer Bagger erstellt dank Sensoren eine 3D-Karte der Baustelle und erkennt dort vorhandene Bausteine für die Mauer. Er greift und scannt sie vor Ort, dabei werden auch das ungefähre Gewicht und der Schwerpunkt erfasst. Ein Algorithmus bestimmt dann die beste Position für jeden Stein, worauf der Bagger sie platziert. Pro Arbeitsgang scannt und platziert der Bagger 20 bis 30 Steine, also etwa so viele, wie pro Ladung angeliefert werden.\n\nJohns RL, Wermelinger M, Mascaro R, Jud D, Hurkxkens I, Vasey L, Chli M, Gramazio F, Kohler M, Hutter M: A framework for robotic excavation and dry stone construction using on-site materials, Science Robotics , 22 November 2023, DOI: externe Seite 10.1126/scirobotics.abp9758"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Bagger",
+        "label": "LOC",
+        "start": 33,
+        "end": 39
+      },
+      {
+        "text": "Weil Trockenmauern",
+        "label": "PER",
+        "start": 2,
+        "end": 20
+      },
+      {
+        "text": "ETH-Forschende",
+        "label": "ORG",
+        "start": 94,
+        "end": 108
+      },
+      {
+        "text": "Trockensteinmauer",
+        "label": "LOC",
+        "start": 223,
+        "end": 240
+      },
+      {
+        "text": "Betonbruchstücken",
+        "label": "ORG",
+        "start": 340,
+        "end": 357
+      },
+      {
+        "text": "ETH-Forschende",
+        "label": "ORG",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Trockensteinmauer",
+        "label": "LOC",
+        "start": 129,
+        "end": 146
+      },
+      {
+        "text": "Nationalen Forschungsschwerpunktes Digitale Fabrikation",
+        "label": "ORG",
+        "start": 267,
+        "end": 322
+      },
+      {
+        "text": "NCCR",
+        "label": "ORG",
+        "start": 324,
+        "end": 328
+      },
+      {
+        "text": "Gramazio Kohler Research",
+        "label": "PER",
+        "start": 361,
+        "end": 385
+      },
+      {
+        "text": "Robotic Systems Lab",
+        "label": "ORG",
+        "start": 391,
+        "end": 410
+      },
+      {
+        "text": "Vision for Robotics Lab",
+        "label": "ORG",
+        "start": 416,
+        "end": 439
+      },
+      {
+        "text": "Bagger",
+        "label": "LOC",
+        "start": 509,
+        "end": 515
+      },
+      {
+        "text": "Baustelle",
+        "label": "LOC",
+        "start": 557,
+        "end": 566
+      },
+      {
+        "text": "Bagger",
+        "label": "LOC",
+        "start": 800,
+        "end": 806
+      },
+      {
+        "text": "Bagger",
+        "label": "LOC",
+        "start": 863,
+        "end": 869
+      },
+      {
+        "text": "Johns RL",
+        "label": "ORG",
+        "start": 943,
+        "end": 951
+      },
+      {
+        "text": "Wermelinger M",
+        "label": "MISC",
+        "start": 953,
+        "end": 966
+      },
+      {
+        "text": "Jud D",
+        "label": "PER",
+        "start": 979,
+        "end": 984
+      },
+      {
+        "text": "Hurkxkens I",
+        "label": "MISC",
+        "start": 986,
+        "end": 997
+      },
+      {
+        "text": "Vasey L",
+        "label": "PER",
+        "start": 999,
+        "end": 1006
+      },
+      {
+        "text": "Chli M",
+        "label": "PER",
+        "start": 1008,
+        "end": 1014
+      },
+      {
+        "text": "Gramazio F",
+        "label": "PER",
+        "start": 1016,
+        "end": 1026
+      },
+      {
+        "text": "Kohler M",
+        "label": "MISC",
+        "start": 1028,
+        "end": 1036
+      },
+      {
+        "text": "Hutter M",
+        "label": "MISC",
+        "start": 1038,
+        "end": 1046
+      },
+      {
+        "text": "Science Robotics",
+        "label": "ORG",
+        "start": 1135,
+        "end": 1151
+      },
+      {
+        "text": "DOI",
+        "label": "ORG",
+        "start": 1172,
+        "end": 1175
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chli M",
+        "Gramazio F",
+        "Gramazio Kohler Research",
+        "Jud D",
+        "Vasey L",
+        "Weil Trockenmauern"
+      ],
+      "ORG": [
+        "Betonbruchstücken",
+        "DOI",
+        "ETH-Forschende",
+        "Johns RL",
+        "NCCR",
+        "Nationalen Forschungsschwerpunktes Digitale Fabrikation",
+        "Robotic Systems Lab",
+        "Science Robotics",
+        "Vision for Robotics Lab"
+      ],
+      "LOCATION": [
+        "Bagger",
+        "Baustelle",
+        "Trockensteinmauer"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Hurkxkens I",
+        "Hutter M",
+        "Kohler M",
+        "Wermelinger M"
+      ]
+    },
+    "entity_counts": {
+      "Bagger": 4,
+      "ETH-Forschende": 2,
+      "Trockensteinmauer": 2,
+      "Weil Trockenmauern": 1,
+      "Betonbruchstücken": 1,
+      "Nationalen Forschungsschwerpunktes Digitale Fabrikation": 1,
+      "NCCR": 1,
+      "Gramazio Kohler Research": 1,
+      "Robotic Systems Lab": 1,
+      "Vision for Robotics Lab": 1,
+      "Baustelle": 1,
+      "Johns RL": 1,
+      "Wermelinger M": 1,
+      "Jud D": 1,
+      "Hurkxkens I": 1,
+      "Vasey L": 1,
+      "Chli M": 1,
+      "Gramazio F": 1,
+      "Kohler M": 1,
+      "Hutter M": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "autonomer-bagger-baut-sechs-meter-hohe-trockensteinmauer.md",
+      "title": "De News Events/2023/11/autonomer Bagger Baut Sechs Meter Hohe Trockensteinmauer",
+      "language": "de",
+      "source_path": "de_news_events/2023/11/autonomer-bagger-baut-sechs-meter-hohe-trockensteinmauer.html"
+    },
+    "temporal": {
+      "publication_date": "2023-11",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Chli M",
+        "Gramazio F",
+        "Gramazio Kohler Research",
+        "Jud D",
+        "Vasey L",
+        "Weil Trockenmauern"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "Hurkxkens I",
+        "Hutter M",
+        "Kohler M",
+        "Wermelinger M"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Ein Algorithmus",
+        "Jud D",
+        "Gramazio F",
+        "Hohe Trockensteinmauer",
+        "Gramazio Kohler",
+        "Vasey L",
+        "Die Mauer",
+        "Der Bagger",
+        "Sechs Meter",
+        "Johns RL",
+        "Robotic Systems",
+        "Hutter M",
+        "Hurkxkens I",
+        "Science Robotics",
+        "Pro Arbeitsgang",
+        "Kohler M",
+        "Mascaro R",
+        "Chli M",
+        "Digitale Fabrikation",
+        "Nationalen Forschungsschwerpunktes",
+        "Robotics Lab",
+        "De News",
+        "ETH-Forschende",
+        "Bagger Baut",
+        "Weil Trockenmauern",
+        "Wermelinger M"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Betonbruchstücken",
+        "DOI",
+        "ETH-Forschende",
+        "Johns RL",
+        "NCCR",
+        "Nationalen Forschungsschwerpunktes Digitale Fabrikation",
+        "Robotic Systems Lab",
+        "Science Robotics",
+        "Vision for Robotics Lab"
+      ],
+      "locations": [
+        "Bagger",
+        "Baustelle",
+        "Trockensteinmauer"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Bagger",
+        "ETH-Forschende",
+        "Trockensteinmauer",
+        "Weil Trockenmauern",
+        "Betonbruchstücken",
+        "Nationalen Forschungsschwerpunktes Digitale Fabrikation",
+        "NCCR",
+        "Gramazio Kohler Research",
+        "Robotic Systems Lab",
+        "Vision for Robotics Lab"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "In Kürze",
+          "Literaturhinweis"
+        ],
+        "content_length": 1716
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Chli M",
+        "Vasey L",
+        "DOI",
+        "NCCR",
+        "Gramazio Kohler Research",
+        "Science Robotics",
+        "Johns RL",
+        "Betonbruchstücken",
+        "Robotic Systems Lab",
+        "2023",
+        "Vision for Robotics Lab",
+        "ETH-Forschende",
+        "Nationalen Forschungsschwerpunktes Digitale Fabrikation",
+        "Weil Trockenmauern",
+        "Jud D",
+        "Gramazio F"
+      ],
+      "semantic_concepts": [
+        "what",
+        "Hutter M",
+        "how",
+        "Kohler M",
+        "engineering",
+        "Hurkxkens I",
+        "Wermelinger M"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

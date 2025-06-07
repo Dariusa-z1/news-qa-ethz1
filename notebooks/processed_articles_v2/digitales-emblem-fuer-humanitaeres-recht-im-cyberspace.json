@@ -1,0 +1,804 @@
+{
+  "filename": "digitales-emblem-fuer-humanitaeres-recht-im-cyberspace.md",
+  "original_filename": "digitales-emblem-fuer-humanitaeres-recht-im-cyberspace.html",
+  "source_path": "de_news_events/2023/11/digitales-emblem-fuer-humanitaeres-recht-im-cyberspace.html",
+  "date": "2023-11",
+  "title": "Digitales Emblem Fuer Humanitaeres Recht Im Cyberspace",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "In Kürze",
+      "text": "- Cyberattacken auf kritische digitale Infrastruktur verursachen nicht nur einen finanziellen und logistischen Schaden. Sie können – zum Beispiel in Spitälern – auch katastrophale humanitäre Folgen haben.\n\n- Zusammen mit dem «Internationalen Komitee vom Roten Kreuz» (IKRK) haben ETH-Informatiker:innen ein Schutzemblem entwickelt, das sich weltweit einfach und kostengünstig in bestehende digitale Systeme integrieren liesse.\n\n- Dieses «Authentic Digital Emblem» (ADEM) erfüllt verschiedene Sicherheitsanforderungen und wirkt auch bei automatisierten Cyberattacken. Das Emblem kennzeichnet, dass eine digitale Infrastruktur Anrecht auf Schutz hat. Die rechtliche Umsetzung bleibt jedoch eine grosse Herausforderung."
+    },
+    {
+      "heading": "Bewährtes Emblem für Schutz vor Angriffen",
+      "text": "Ransomware-Attacken können Organisationen oder ganze Staaten lahmlegen, indem ein Netzwerk gehackt und kritische Daten verschlüsselt werden. Die Angreifer fordern ein Lösegeld. Wird nicht auf diese Forderung eingegangen, so werden die Daten nicht wieder entschlüsselt und sind vielleicht für immer verloren. Der finanzielle und logistische Schaden ist je nach Ausgangslage enorm. Im Januar 2022 wurde das «Internationale Komitee vom Roten Kreuz» (IKRK) Opfer einer Cyberattacke. Auf den betroffenen Servern waren Daten von mehr als 500`000 Personen auf der ganzen Welt gespeichert. Darunter auch Daten von Menschen mit besonderem Schutzbedürfnis, wie vermisste Personen, Geflüchtete aus Kriegsgebieten und Gefangene. «Die digitale Infrastruktur des IKRK ist in den letzten Jahren stark gewachsen – und damit auch die Cyberattacken auf unsere Systeme», sagt Mauro Vignati, Berater für neue digitale Kriegstechnologien beim IKRK. Besonders während Kriegen und bewaffneten Konflikten könnten solche Cyberattacken auch katastrophale humanitäre Folgen haben, zum Beispiel wenn die digitale Infrastruktur eines Spitals durch den Feind lahmgelegt wird."
+    },
+    {
+      "heading": "Bewährtes Emblem für Schutz vor Angriffen",
+      "text": "Für Konflikte jenseits des Cyberspace kennt das IKRK seit den Genfer Abkommen von 1949, dem Kernstück des humanitären Völkerrechts, sogenannte Schutzembleme. Das rote Kreuz, der rote Halbmond und der rote Kristall bieten Schutz für Spitäler, Fahrzeuge und die Mitarbeitende des Netzwerks der Rotkreuz- und roter Halbmond-Organisationen (darunter das IKRK). Heute zählen sich über 80 Millionen Mitglieder zum Netzwerk, die in 192 Staaten tätig sind. Die Träger dieser Embleme sind grundsätzlich und besonders in Konflikten durch internationales humanitäres Völkerrecht geschützt. Kriegsparteien dürfen sie nicht angreifen. «Wir haben uns deshalb schon länger gefragt, ob wir nicht auch ein Emblem für den Schutz unserer digitalen Infrastruktur entwickeln könnten», erklärt Vignati. Ein solches müsste eine Reihe von Anforderungen erfüllen: «Es müsste weltweit einfach und kostengünstig in bestehende digitale Systeme integriert werden können und einfach zu pflegen sein. Zudem müsste es sprachliche, technologische und kulturelle Unterschiede überbrücken.» Hinzu kommt, dass das Emblem möglichst flexibel einsetzbar sein muss. In bestimmten Situationen sei es für IKRK-Mitarbeitende wichtig, das Emblem verdecken zu können, erklärt Vignati."
+    },
+    {
+      "heading": "Hacker bleiben unerkannt",
+      "text": "Mit dieser Idee kontaktiert das IKRK vor drei Jahren das «Center for Cyber Trust», eine Forschungskooperation zwischen der ETH Zürich und der Universität Bonn auf dem Gebiet der Cybersicherheit. Dort widmet sich seither unter anderem Felix Linker dem digitalen Emblem, der aktuell seine Doktorarbeit in der Gruppe von David Basin schreibt, Professor für Informationssicherheit am Departement für Informatik der ETH Zürich. «Ein digitales Emblem muss eine einzigartige Kombination von Sicherheitsanforderungen erfüllen, nämlich die Authentifizierung, Rechenschaftspflicht und eine Eigenschaft, die wir verdeckte Prüfung nennen», erklärt Linker. Das gemeinsam mit David Basin entwickelte «Authentic Digital Emblem» (ADEM) beruht auf dem Web-PKI- und CT-Ökosystem (Web-PKI und CT bedeuten so viel wie Web Public Key Infrastructure (PKI) Certificate Transparency). «Wir stützen uns auf bestehende Best Practices im Internet. Die Neuheit liegt in der Kombination von unterschiedlichen Lösungen, um die technischen Anforderungen zu erfüllen», erklärt Linker. In einem soeben in den «Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security» erschienen Artikel beschreiben Linker und Basin erstmals detailliert die Funktionsweise von ADEM."
+    },
+    {
+      "heading": "Maschinenlesbar und dezentralisiert",
+      "text": "Das entwickelte Emblem ist durch eine digitale Signatur kryptographisch gesichert, eine lange Abfolge von Buchstaben und Zahlen, die ein dafür entwickeltes Programm auslesen kann. Dadurch lassen sich Informationen zum Inhaber, zur schützenswerten IP oder Domain, und zum Herausgeber des Emblems abrufen. «Wichtig ist, dass das Emblem durch Maschinen lesbar ist, denn die meisten Cyber-Attacken werden heute automatisiert durchgeführt», sagt Linker. Das Emblem muss deshalb von der Hackersoftware automatisch geladen und gelesen werden, um zu erkennen, dass es auf das System einer Organisation zugreift, die durch das humanitäre Völkerrecht geschützt ist. Und dies bereits bei der ersten Rekognoszierung noch bevor ein Schaden im System angerichtet ist.\n\nEine zentrale Vorgabe des IKRK war auch, dass das digitale Emblem nicht von einer zentralen Autorität, sondern dezentral verwaltet wird. Die Staaten, die sich zum humanitären Völkerrecht bekennen, sollen verifizieren können, dass eine bestimmte digitale Infrastruktur in ihrem Hoheitsgebiet Anrecht auf Schutz hat und deshalb ein Emblem trägt. ADEM basiert deshalb auf einem «Open Standard», so dass Regierungen die Implementierung des Emblems möglichst flexibel an eigene Bedürfnisse anpassen können."
+    },
+    {
+      "heading": "Hacker bleiben unerkannt",
+      "text": "Potenzielle Angriffe auf Server und Netzwerke können von Hackergruppen kommen, aber auch von Staaten während eines Krieges. Sie wollen um jeden Preis unerkannt bleiben. «Deshalb müssen Angreifer das Emblem sichten können, ohne dass die dadurch geschützte Institution und der Aussteller der digitalen Signatur erkennen kann, ob sich jemand das Emblem angeschaut hat.» Nur so sind potenzielle Angreifer überhaupt bereit den «Scanner» für die Erkennung des Emblems auf ihren Systemen laufen zu lassen. Gängige Internetprotokolle für die Authentifizierung eignen sich dafür nicht, weil sie eine Interaktion zwischen den beiden involvierten Parteien voraussetzen», erklärt Linker. «Das erregt Aufmerksamkeit und funktioniert deshalb in einem Konflikt nicht.» Dem Informatiker gelang es die Distribution des Emblems mit einer Kombination von passenden Internetprotokollen (UDP, TLS oder DNS) zu «verdecken».\n\nLinker hat das System mittlerweile mit einer Sicherheitsanalyse unter einem umfassenden Bedrohungsmodell evaluiert. Die Auswertung sei ein Beweis, dass das digitale Emblem nicht von Angreifern missbraucht werden könne und als Sicherheitsgarantie wirke. Das «proof of concept» sei erbracht, so Linker. Er entwickelt die ersten Prototypen nun weiter, während Kolleginnen und Kollegen vom «Center for Cyber Trust» in Bonn Interviews mit Hackern führen werden, um herauszufinden, wie gross die Bereitschaft überhaupt ist, ein solches Emblem zu respektieren. Denn nur wenn dies der Fall ist, werden sie ein Programm, das Embleme erkennen kann auch anwenden. Diesbezüglich ist Linker jedoch zuversichtlich: In der Vergangenheit habe sich gezeigt, dass Hacker teils humanitäre Ziele auslassen, «aus ethischen Gründen oder einfach um nicht zu viel Aufmerksamkeit zu erzeugen.»\n\nMauro Vignati vom IKRK ist zufrieden: «ADEM erfüllt sämtliche unserer ursprünglichen Anforderungen an ein digitales Emblem.» Nun gehe es vor allem darum, die Sichtbarkeit des Emblems für mögliche Angreifer weiter zu optimieren. Bis das digitale Emblem aber tatsächlich dazu beitrage kritische digitale Infrastrukturen des IKRK und von Spitälern in Kriegsgebieten zu schützen, dürfte es noch einige Jahre dauern. «Die juristische Umsetzung ist sehr herausfordernd», sagt Vignati. Damit das Emblem ins juristische Regelwerk implementiert werden kann, sind Anpassungen der Genfer Abkommen nötig. «Entweder durch ein neues Zusatzprotokoll oder durch einen Zusatz bei den bestehenden Protokollen.» Im Oktober 2024 will das IKRK während einer internationalen Konferenz zum humanitären Völkerrecht ADEM und ein weiteres System der «John Hopkins University» präsentieren und juristische Pfade aufzeigen, wie das digitale Emblem operationalisiert werden könnte. «Das wäre ein erster wichtiger Schritt für mehr humanitären Schutz im Cyberspace», ist Vignati überzeugt.\n\nLinker, F, Basin, D. ADEM: An Authentic Digital EMblem. CCS '23: Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security. November 202. 3Pages 2815–2829. Published: 21 November 2023. DOI: externe Seite 10.1145/3576915.3616578"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Cyberspace",
+        "label": "MISC",
+        "start": 67,
+        "end": 77
+      },
+      {
+        "text": "Internationalen Komitee vom Roten Kreuz",
+        "label": "ORG",
+        "start": 225,
+        "end": 264
+      },
+      {
+        "text": "IKRK",
+        "label": "ORG",
+        "start": 267,
+        "end": 271
+      },
+      {
+        "text": "ETH-Informatiker",
+        "label": "ORG",
+        "start": 279,
+        "end": 295
+      },
+      {
+        "text": "Authentic Digital Emblem",
+        "label": "MISC",
+        "start": 436,
+        "end": 460
+      },
+      {
+        "text": "ADEM",
+        "label": "ORG",
+        "start": 463,
+        "end": 467
+      },
+      {
+        "text": "Ransomware-Attacken",
+        "label": "MISC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Staaten",
+        "label": "LOC",
+        "start": 53,
+        "end": 60
+      },
+      {
+        "text": "Schaden",
+        "label": "LOC",
+        "start": 340,
+        "end": 347
+      },
+      {
+        "text": "Internationale Komitee vom Roten Kreuz",
+        "label": "ORG",
+        "start": 406,
+        "end": 444
+      },
+      {
+        "text": "IKRK",
+        "label": "ORG",
+        "start": 447,
+        "end": 451
+      },
+      {
+        "text": "IKRK",
+        "label": "ORG",
+        "start": 749,
+        "end": 753
+      },
+      {
+        "text": "Mauro Vignati",
+        "label": "PER",
+        "start": 857,
+        "end": 870
+      },
+      {
+        "text": "IKRK",
+        "label": "ORG",
+        "start": 922,
+        "end": 926
+      },
+      {
+        "text": "Cyberspace",
+        "label": "LOC",
+        "start": 27,
+        "end": 37
+      },
+      {
+        "text": "IKRK",
+        "label": "ORG",
+        "start": 48,
+        "end": 52
+      },
+      {
+        "text": "Genfer Abkommen",
+        "label": "MISC",
+        "start": 62,
+        "end": 77
+      },
+      {
+        "text": "rote Kreuz",
+        "label": "ORG",
+        "start": 162,
+        "end": 172
+      },
+      {
+        "text": "Halbmond",
+        "label": "LOC",
+        "start": 183,
+        "end": 191
+      },
+      {
+        "text": "IKRK",
+        "label": "ORG",
+        "start": 350,
+        "end": 354
+      },
+      {
+        "text": "Staaten",
+        "label": "LOC",
+        "start": 429,
+        "end": 436
+      },
+      {
+        "text": "Konflikten",
+        "label": "LOC",
+        "start": 511,
+        "end": 521
+      },
+      {
+        "text": "Vignati",
+        "label": "LOC",
+        "start": 772,
+        "end": 779
+      },
+      {
+        "text": "IKRK-Mitarbeitende",
+        "label": "ORG",
+        "start": 1163,
+        "end": 1181
+      },
+      {
+        "text": "Vignati",
+        "label": "LOC",
+        "start": 1231,
+        "end": 1238
+      },
+      {
+        "text": "IKRK",
+        "label": "ORG",
+        "start": 32,
+        "end": 36
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 123,
+        "end": 133
+      },
+      {
+        "text": "Universität Bonn",
+        "label": "ORG",
+        "start": 142,
+        "end": 158
+      },
+      {
+        "text": "Felix Linker",
+        "label": "PER",
+        "start": 234,
+        "end": 246
+      },
+      {
+        "text": "David Basin",
+        "label": "PER",
+        "start": 318,
+        "end": 329
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 411,
+        "end": 421
+      },
+      {
+        "text": "David Basin",
+        "label": "PER",
+        "start": 662,
+        "end": 673
+      },
+      {
+        "text": "Authentic Digital Emblem",
+        "label": "MISC",
+        "start": 687,
+        "end": 711
+      },
+      {
+        "text": "ADEM",
+        "label": "ORG",
+        "start": 714,
+        "end": 718
+      },
+      {
+        "text": "Web-PKI",
+        "label": "MISC",
+        "start": 762,
+        "end": 769
+      },
+      {
+        "text": "CT",
+        "label": "MISC",
+        "start": 774,
+        "end": 776
+      },
+      {
+        "text": "Web Public Key Infrastructure",
+        "label": "MISC",
+        "start": 798,
+        "end": 827
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 911,
+        "end": 919
+      },
+      {
+        "text": "ADEM",
+        "label": "ORG",
+        "start": 1256,
+        "end": 1260
+      },
+      {
+        "text": "Domain",
+        "label": "MISC",
+        "start": 255,
+        "end": 261
+      },
+      {
+        "text": "Cyber-Attacken",
+        "label": "ORG",
+        "start": 379,
+        "end": 393
+      },
+      {
+        "text": "IKRK",
+        "label": "MISC",
+        "start": 780,
+        "end": 784
+      },
+      {
+        "text": "Staaten",
+        "label": "LOC",
+        "start": 895,
+        "end": 902
+      },
+      {
+        "text": "ADEM",
+        "label": "ORG",
+        "start": 1098,
+        "end": 1102
+      },
+      {
+        "text": "Potenzielle Angriffe auf Server und Netzwerke",
+        "label": "MISC",
+        "start": 0,
+        "end": 45
+      },
+      {
+        "text": "Staaten",
+        "label": "LOC",
+        "start": 93,
+        "end": 100
+      },
+      {
+        "text": "Krieges",
+        "label": "MISC",
+        "start": 115,
+        "end": 122
+      },
+      {
+        "text": "Scanner",
+        "label": "LOC",
+        "start": 423,
+        "end": 430
+      },
+      {
+        "text": "UDP",
+        "label": "MISC",
+        "start": 867,
+        "end": 870
+      },
+      {
+        "text": "TLS",
+        "label": "MISC",
+        "start": 872,
+        "end": 875
+      },
+      {
+        "text": "DNS",
+        "label": "MISC",
+        "start": 881,
+        "end": 884
+      },
+      {
+        "text": "Linker",
+        "label": "PER",
+        "start": 902,
+        "end": 908
+      },
+      {
+        "text": "Angreifern",
+        "label": "LOC",
+        "start": 1084,
+        "end": 1094
+      },
+      {
+        "text": "Bonn",
+        "label": "LOC",
+        "start": 1316,
+        "end": 1320
+      },
+      {
+        "text": "Linker",
+        "label": "PER",
+        "start": 1573,
+        "end": 1579
+      },
+      {
+        "text": "Hacker",
+        "label": "PER",
+        "start": 1648,
+        "end": 1654
+      },
+      {
+        "text": "Mauro Vignati",
+        "label": "PER",
+        "start": 1771,
+        "end": 1784
+      },
+      {
+        "text": "IKRK",
+        "label": "ORG",
+        "start": 1789,
+        "end": 1793
+      },
+      {
+        "text": "ADEM",
+        "label": "ORG",
+        "start": 1810,
+        "end": 1814
+      },
+      {
+        "text": "IKRK",
+        "label": "ORG",
+        "start": 2093,
+        "end": 2097
+      },
+      {
+        "text": "Kriegsgebieten",
+        "label": "LOC",
+        "start": 2119,
+        "end": 2133
+      },
+      {
+        "text": "Vignati",
+        "label": "LOC",
+        "start": 2241,
+        "end": 2248
+      },
+      {
+        "text": "Genfer Abkommen",
+        "label": "MISC",
+        "start": 2341,
+        "end": 2356
+      },
+      {
+        "text": "IKRK",
+        "label": "MISC",
+        "start": 2489,
+        "end": 2493
+      },
+      {
+        "text": "ADEM",
+        "label": "ORG",
+        "start": 2562,
+        "end": 2566
+      },
+      {
+        "text": "John Hopkins University",
+        "label": "ORG",
+        "start": 2596,
+        "end": 2619
+      },
+      {
+        "text": "Vignati",
+        "label": "PER",
+        "start": 2811,
+        "end": 2818
+      },
+      {
+        "text": "Basin",
+        "label": "LOC",
+        "start": 2841,
+        "end": 2846
+      },
+      {
+        "text": "D. ADEM",
+        "label": "PER",
+        "start": 2848,
+        "end": 2855
+      },
+      {
+        "text": "Authentic Digital EMblem",
+        "label": "MISC",
+        "start": 2860,
+        "end": 2884
+      },
+      {
+        "text": "CCS",
+        "label": "ORG",
+        "start": 2886,
+        "end": 2889
+      },
+      {
+        "text": "Proceedings of the 2023",
+        "label": "MISC",
+        "start": 2895,
+        "end": 2918
+      },
+      {
+        "text": "3Pages",
+        "label": "MISC",
+        "start": 2996,
+        "end": 3002
+      },
+      {
+        "text": "DOI",
+        "label": "ORG",
+        "start": 3043,
+        "end": 3046
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "D. ADEM",
+        "David Basin",
+        "Felix Linker",
+        "Hacker",
+        "Linker",
+        "Mauro Vignati",
+        "Vignati"
+      ],
+      "ORG": [
+        "ADEM",
+        "CCS",
+        "Cyber-Attacken",
+        "DOI",
+        "ETH Zürich",
+        "ETH-Informatiker",
+        "IKRK",
+        "IKRK-Mitarbeitende",
+        "Internationale Komitee vom Roten Kreuz",
+        "Internationalen Komitee vom Roten Kreuz",
+        "John Hopkins University",
+        "Universität Bonn",
+        "rote Kreuz"
+      ],
+      "LOCATION": [
+        "Angreifern",
+        "Basin",
+        "Bonn",
+        "Cyberspace",
+        "Halbmond",
+        "Konflikten",
+        "Kriegsgebieten",
+        "Scanner",
+        "Schaden",
+        "Staaten",
+        "Vignati"
+      ],
+      "DATE": [],
+      "MISC": [
+        "3Pages",
+        "Authentic Digital EMblem",
+        "Authentic Digital Emblem",
+        "CT",
+        "Cyberspace",
+        "DNS",
+        "Domain",
+        "Genfer Abkommen",
+        "IKRK",
+        "Internet",
+        "Krieges",
+        "Potenzielle Angriffe auf Server und Netzwerke",
+        "Proceedings of the 2023",
+        "Ransomware-Attacken",
+        "TLS",
+        "UDP",
+        "Web Public Key Infrastructure",
+        "Web-PKI"
+      ]
+    },
+    "entity_counts": {
+      "IKRK": 11,
+      "ADEM": 6,
+      "Staaten": 4,
+      "Vignati": 4,
+      "Cyberspace": 2,
+      "Authentic Digital Emblem": 2,
+      "Mauro Vignati": 2,
+      "Genfer Abkommen": 2,
+      "ETH Zürich": 2,
+      "David Basin": 2,
+      "Linker": 2,
+      "Internationalen Komitee vom Roten Kreuz": 1,
+      "ETH-Informatiker": 1,
+      "Ransomware-Attacken": 1,
+      "Schaden": 1,
+      "Internationale Komitee vom Roten Kreuz": 1,
+      "rote Kreuz": 1,
+      "Halbmond": 1,
+      "Konflikten": 1,
+      "IKRK-Mitarbeitende": 1
+    },
+    "total_entities": 74,
+    "unique_entities": 46
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "digitales-emblem-fuer-humanitaeres-recht-im-cyberspace.md",
+      "title": "De News Events/2023/11/digitales Emblem Fuer Humanitaeres Recht Im Cyberspace",
+      "language": "de",
+      "source_path": "de_news_events/2023/11/digitales-emblem-fuer-humanitaeres-recht-im-cyberspace.html"
+    },
+    "temporal": {
+      "publication_date": "2023-11",
+      "mentioned_years": [
+        "1949",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "D. ADEM",
+        "David Basin",
+        "Felix Linker",
+        "Hacker",
+        "Linker",
+        "Mauro Vignati",
+        "Vignati"
+      ],
+      "people_with_roles": {
+        "David Basin": [
+          "professor"
+        ],
+        "Felix Linker": [
+          "professor"
+        ],
+        "Linker": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "3Pages",
+        "Authentic Digital EMblem",
+        "Authentic Digital Emblem",
+        "Cyberspace",
+        "Domain",
+        "Genfer Abkommen",
+        "IKRK",
+        "Internet",
+        "Krieges",
+        "Potenzielle Angriffe auf Server und Netzwerke",
+        "Proceedings of the 2023",
+        "Ransomware-Attacken",
+        "Web Public Key Infrastructure",
+        "Web-PKI"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Genfer Abkommen",
+        "Certificate Transparency",
+        "Im Oktober",
+        "Web Public",
+        "Digital EMblem",
+        "Die Staaten",
+        "Dem Informatiker",
+        "Emblem Fuer",
+        "Open Standard",
+        "Felix Linker",
+        "Bonn Interviews",
+        "John Hopkins",
+        "Roten Kreuz",
+        "Potenzielle Angriffe",
+        "Cyber-Attacken",
+        "Humanitaeres Recht",
+        "Die Auswertung",
+        "IKRK-Mitarbeitende",
+        "Die Angreifer",
+        "ETH-Informatiker",
+        "Internationalen Komitee",
+        "Das Emblem",
+        "Im Cyberspace",
+        "Communications Security",
+        "ACM SIGSAC",
+        "Halbmond-Organisationen",
+        "Millionen Mitglieder",
+        "An Authentic",
+        "Cyber Trust",
+        "Hoheitsgebiet Anrecht",
+        "Internationale Komitee",
+        "Key Infrastructure",
+        "Infrastruktur Anrecht",
+        "De News",
+        "Ransomware-Attacken",
+        "Web-PKI",
+        "Die Neuheit",
+        "David Basin",
+        "Best Practices",
+        "Mauro Vignati",
+        "Authentic Digital",
+        "Im Januar"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ADEM",
+        "CCS",
+        "Cyber-Attacken",
+        "DOI",
+        "ETH Zürich",
+        "ETH-Informatiker",
+        "IKRK",
+        "IKRK-Mitarbeitende",
+        "Internationale Komitee vom Roten Kreuz",
+        "Internationalen Komitee vom Roten Kreuz",
+        "John Hopkins University",
+        "Universität Bonn",
+        "rote Kreuz"
+      ],
+      "locations": [
+        "Angreifern",
+        "Basin",
+        "Bonn",
+        "Cyberspace",
+        "Halbmond",
+        "Konflikten",
+        "Kriegsgebieten",
+        "Scanner",
+        "Schaden",
+        "Staaten",
+        "Vignati"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "IKRK",
+        "ADEM",
+        "Staaten",
+        "Vignati",
+        "Cyberspace",
+        "Authentic Digital Emblem",
+        "Mauro Vignati",
+        "Genfer Abkommen",
+        "ETH Zürich",
+        "David Basin"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "In Kürze",
+          "Bewährtes Emblem für Schutz vor Angriffen",
+          "Bewährtes Emblem für Schutz vor Angriffen",
+          "Hacker bleiben unerkannt",
+          "Maschinenlesbar und dezentralisiert",
+          "Hacker bleiben unerkannt"
+        ],
+        "content_length": 8788
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "DOI",
+        "D. ADEM",
+        "Internationalen Komitee vom Roten Kreuz",
+        "Universität Bonn",
+        "1949",
+        "Felix Linker",
+        "CCS",
+        "IKRK",
+        "John Hopkins University",
+        "Cyber-Attacken",
+        "ETH Zürich",
+        "2022",
+        "IKRK-Mitarbeitende",
+        "ETH-Informatiker",
+        "EU",
+        "Linker",
+        "Internationale Komitee vom Roten Kreuz",
+        "Vignati",
+        "2024",
+        "Hacker",
+        "David Basin",
+        "ADEM",
+        "rote Kreuz",
+        "Mauro Vignati",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Genfer Abkommen",
+        "Potenzielle Angriffe auf Server und Netzwerke",
+        "Cyberspace",
+        "Krieges",
+        "when",
+        "engineering",
+        "Domain",
+        "IKRK",
+        "Authentic Digital Emblem",
+        "3Pages",
+        "Authentic Digital EMblem",
+        "who",
+        "computer_science",
+        "Internet",
+        "Ransomware-Attacken",
+        "Proceedings of the 2023",
+        "Web-PKI",
+        "Web Public Key Infrastructure",
+        "where"
+      ],
+      "graph_relations": [
+        "David Basin_has_role_professor",
+        "Felix Linker_has_role_professor",
+        "Linker_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

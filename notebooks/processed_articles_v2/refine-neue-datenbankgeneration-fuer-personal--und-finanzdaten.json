@@ -1,0 +1,359 @@
+{
+  "filename": "refine-neue-datenbankgeneration-fuer-personal--und-finanzdaten.md",
+  "original_filename": "refine-neue-datenbankgeneration-fuer-personal--und-finanzdaten.html",
+  "source_path": "de_internal/2016/04/refine-neue-datenbankgeneration-fuer-personal--und-finanzdaten.html",
+  "date": "2016-04",
+  "title": "Refine Neue Datenbankgeneration Fuer Personal Und Finanzdaten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "«Mit der zukunftsorientierten HANA-Technologie haben wir die technische Basis für ‹refine› gelegt», sagt Robert Perich, Vizepräsident Finanzen und Controlling. Besonders lobt er dabei die Zusammenarbeit des Competence Center SAP ( CCSAP ) und der Informatikdienste der ETH Zürich ( ID ). «Sie haben diese Aufgabe reibungslos bewältigt. Dies zeigt, auf welch exzellentes Know-how wir bei den administrativen Mitarbeitenden in der ETH Zürich zählen können.»\n\n«Road to HANA» T-Shirt (Bild: Simone Roggenbuck)\n\nAn dem Aufbau der neuen Datenbank und der Datenmigration von Oracle zur neuen HANA-Datenbank waren seit November 2015 rund 50 Personen beteiligt, von SAP-Spezialisten bis zu Testern, davon nur eine extern. Für Adrian Fischer und Sara Russo (CCSAP) sowie André Hunziker (ID BD), die die Transaktion begleiteten, bestand die Herausforderung vor allem in der Quantität. «Verfahrenstechnisch war die Datenmigration Routine, da haben wir viel Erfahrung», sagen sie, «neu war die Grössenordnung».\n\nDiese umfasste unter anderem 27 Datenbanken, 33 Millionen Buchungssätze und 10'200 Nutzerprofile. Da die SAP-HANA-Datenbank ohne Indexdaten für Suche und Sortierung auskommt, konnte das Datenvolumen im Vergleich zur bisherigen Datenbank von rund 400 auf 180 GB reduziert werden.\n\nDie ETH Zürich gehört zu den ersten Hochschulen in Europa, die auf die neue SAP-HANA-Technologie setzen. «Speicherplatz zu sparen, ist jedoch nicht der Grund», versichern Markus Knaus, Leiter der Abteilung Controlling und des Projektes «refine», und Adrian Fischer. Die ETH Zürich wolle eine zukunftssichere Lösung sowie eine Datenbank und Applikation aus einem Guss. Beidem komme die neue Lösung erheblich näher."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/04/refine Neue Datenbankgeneration",
+        "label": "LOC",
+        "start": 0,
+        "end": 51
+      },
+      {
+        "text": "‹refine›",
+        "label": "ORG",
+        "start": 82,
+        "end": 90
+      },
+      {
+        "text": "Robert Perich",
+        "label": "PER",
+        "start": 105,
+        "end": 118
+      },
+      {
+        "text": "Competence Center",
+        "label": "ORG",
+        "start": 207,
+        "end": 224
+      },
+      {
+        "text": "CCSAP",
+        "label": "MISC",
+        "start": 231,
+        "end": 236
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 269,
+        "end": 279
+      },
+      {
+        "text": "ID",
+        "label": "ORG",
+        "start": 282,
+        "end": 284
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 429,
+        "end": 439
+      },
+      {
+        "text": "Simone Roggenbuck",
+        "label": "PER",
+        "start": 486,
+        "end": 503
+      },
+      {
+        "text": "Datenmigration von Oracle",
+        "label": "MISC",
+        "start": 547,
+        "end": 572
+      },
+      {
+        "text": "HANA-Datenbank",
+        "label": "MISC",
+        "start": 583,
+        "end": 597
+      },
+      {
+        "text": "SAP-Spezialisten",
+        "label": "ORG",
+        "start": 655,
+        "end": 671
+      },
+      {
+        "text": "Adrian Fischer",
+        "label": "PER",
+        "start": 715,
+        "end": 729
+      },
+      {
+        "text": "Sara Russo",
+        "label": "PER",
+        "start": 734,
+        "end": 744
+      },
+      {
+        "text": "CCSAP",
+        "label": "MISC",
+        "start": 746,
+        "end": 751
+      },
+      {
+        "text": "André Hunziker",
+        "label": "PER",
+        "start": 759,
+        "end": 773
+      },
+      {
+        "text": "ID BD",
+        "label": "ORG",
+        "start": 775,
+        "end": 780
+      },
+      {
+        "text": "Verfahrenstechnisch",
+        "label": "PER",
+        "start": 873,
+        "end": 892
+      },
+      {
+        "text": "Datenmigration Routine",
+        "label": "MISC",
+        "start": 901,
+        "end": 923
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1279,
+        "end": 1289
+      },
+      {
+        "text": "Europa",
+        "label": "LOC",
+        "start": 1326,
+        "end": 1332
+      },
+      {
+        "text": "Speicherplatz",
+        "label": "PER",
+        "start": 1381,
+        "end": 1394
+      },
+      {
+        "text": "Markus Knaus",
+        "label": "PER",
+        "start": 1446,
+        "end": 1458
+      },
+      {
+        "text": "Adrian Fischer",
+        "label": "PER",
+        "start": 1525,
+        "end": 1539
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1545,
+        "end": 1555
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Adrian Fischer",
+        "André Hunziker",
+        "Markus Knaus",
+        "Robert Perich",
+        "Sara Russo",
+        "Simone Roggenbuck",
+        "Speicherplatz",
+        "Verfahrenstechnisch"
+      ],
+      "ORG": [
+        "Competence Center",
+        "ETH Zürich",
+        "ID",
+        "ID BD",
+        "SAP-Spezialisten",
+        "‹refine›"
+      ],
+      "LOCATION": [
+        "De Internal/2016/04/refine Neue Datenbankgeneration",
+        "Europa"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CCSAP",
+        "Datenmigration Routine",
+        "Datenmigration von Oracle",
+        "HANA-Datenbank"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 4,
+      "CCSAP": 2,
+      "Adrian Fischer": 2,
+      "De Internal/2016/04/refine Neue Datenbankgeneration": 1,
+      "‹refine›": 1,
+      "Robert Perich": 1,
+      "Competence Center": 1,
+      "ID": 1,
+      "Simone Roggenbuck": 1,
+      "Datenmigration von Oracle": 1,
+      "HANA-Datenbank": 1,
+      "SAP-Spezialisten": 1,
+      "Sara Russo": 1,
+      "André Hunziker": 1,
+      "ID BD": 1,
+      "Verfahrenstechnisch": 1,
+      "Datenmigration Routine": 1,
+      "Europa": 1,
+      "Speicherplatz": 1,
+      "Markus Knaus": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "refine-neue-datenbankgeneration-fuer-personal--und-finanzdaten.md",
+      "title": "De Internal/2016/04/refine Neue Datenbankgeneration Fuer Personal und Finanzdaten",
+      "language": "de",
+      "source_path": "de_internal/2016/04/refine-neue-datenbankgeneration-fuer-personal--und-finanzdaten.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Adrian Fischer",
+        "André Hunziker",
+        "Markus Knaus",
+        "Robert Perich",
+        "Sara Russo",
+        "Simone Roggenbuck",
+        "Speicherplatz",
+        "Verfahrenstechnisch"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "CCSAP",
+        "Datenmigration Routine",
+        "Datenmigration von Oracle",
+        "HANA-Datenbank"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Neue Datenbankgeneration",
+        "ID BD",
+        "HANA-Datenbank",
+        "Robert Perich",
+        "Simone Roggenbuck",
+        "De Internal",
+        "T-Shirt",
+        "Sara Russo",
+        "Abteilung Controlling",
+        "SAP-HANA",
+        "HANA-Technologie",
+        "SAP-Spezialisten",
+        "Die ETH",
+        "Markus Knaus",
+        "Adrian Fischer",
+        "Datenmigration Routine",
+        "Competence Center",
+        "Fuer Personal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Competence Center",
+        "ETH Zürich",
+        "ID",
+        "ID BD",
+        "SAP-Spezialisten",
+        "‹refine›"
+      ],
+      "locations": [
+        "De Internal/2016/04/refine Neue Datenbankgeneration",
+        "Europa"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "CCSAP",
+        "Adrian Fischer",
+        "De Internal/2016/04/refine Neue Datenbankgeneration",
+        "‹refine›",
+        "Robert Perich",
+        "Competence Center",
+        "ID",
+        "Simone Roggenbuck",
+        "Datenmigration von Oracle"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1774
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "‹refine›",
+        "ID",
+        "ID BD",
+        "2015",
+        "André Hunziker",
+        "Robert Perich",
+        "Simone Roggenbuck",
+        "EU",
+        "2016",
+        "Sara Russo",
+        "ETH Zürich",
+        "SAP-Spezialisten",
+        "Markus Knaus",
+        "Speicherplatz",
+        "Adrian Fischer",
+        "Verfahrenstechnisch",
+        "Competence Center"
+      ],
+      "semantic_concepts": [
+        "Datenmigration von Oracle",
+        "HANA-Datenbank",
+        "who",
+        "how",
+        "Datenmigration Routine",
+        "when",
+        "CCSAP"
+      ],
+      "graph_relations": []
+    }
+  }
+}

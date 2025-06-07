@@ -1,0 +1,486 @@
+{
+  "filename": "how-enzymes-build-sugar-trees.md",
+  "original_filename": "how-enzymes-build-sugar-trees.html",
+  "source_path": "en_news_events/2020/02/how-enzymes-build-sugar-trees.html",
+  "date": "2020-02",
+  "title": "How Enzymes Build Sugar Trees",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Modular protein architecture",
+      "text": "Many of the membrane proteins in eukaryotic cells are decorated with complex sugar trees called glycans. In addition to being extremely diverse, these sugar trees serve as a way to identify the respective organism, a cell type or its stage of maturity. For instance, the various blood groups in humans feature different glycans.\n\nComplex sugars that are attached to lipids form a special class of glycans. In biology, these are known as lipid-linked oligosaccharides, or LLOs. LLOs are made up of a fat molecule embedded in the cell membrane and a sugar structure that extends either into the lumen of cell organelles or extracellularly.\n\nResearchers from ETH Zurich, the University of Bern and the University of Chicago have now elucidated the structure of one of the enzymes responsible for the formation of LLOs. Their study has just been published in the latest issue of the journal Nature ."
+    },
+    {
+      "heading": "Modular protein architecture",
+      "text": "The enzyme in question, known as ALG6, belongs to a superfamily of enzymes that the researchers call glycosyltransferases of the category C. Embedded in cell membranes, these link simple sugar molecules with other sugars in order to build sugar trees. They also link sugar molecules with proteins. In this capacity, glycosyltransferases play several key biological roles in all kinds of organisms, ranging from bacteria and fungi to highly developed mammals.\n\nThis enzyme superfamily had been a long-standing mystery to biologists because its individual members share hardly any structural motifs. The only things they do have in common is that they are membrane proteins that transfer sugars from one molecule to another, and that the sugars used for this transfer are always attached to lipids.\n\nBased on the structure of ALG6, the group led by ETH Professor Kaspar Locher has now discovered that the members of this enzyme family have a modular design. Their research indicates that ALG6 and its relatives are made up of two modules: one whose structure is preserved during development, and a second, structurally variable module.\n\n“We believe it’s this modular design that helped these enzymes to evolve in different directions and, in turn, adapt to a large variety of different substrates,” says Joël Bloch, an ETH doctoral student and the lead author of the study.\n\nThe findings finally explain the mechanism behind the enzyme family. “Our study has far-reaching implications for cell biology and for the production of therapeutic substances based on glycobiology,” Bloch explains. These insights will be especially valuable in antibody engineering, which is currently of great interest to the pharmaceutical industry. They will also benefit the production of customised glycans in general, which are important for therapeutic proteins such as antibodies."
+    },
+    {
+      "heading": "A record in cryo-electron microscopy",
+      "text": "The researchers also see their results as a breakthrough in determining the molecular structures of proteins using cryo-electron microscopy (cryo-EM). In 2017, the Swiss researcher Jacques Dubochet received the Nobel Prize in Chemistry for his contribution to this groundbreaking technology, which has since become the method of choice for the structural elucidation of large molecular complexes.\n\nDetermining the structures of small proteins at high resolution, especially those embedded in membranes, had not been possible using cryo-EM because measurements taken of particles below a certain mass do not permit precise structural calculations.\n\nWorking together with a research group from the University of Chicago, the ETH team have now found a solution to this problem. In collaboration with the Chicago-based researchers they produced a synthetic antibody that binds to ALG6. This antibody increased the mass of the ALG6 enzyme such that its structure could be determined in high resolution using cryo-EM.\n\n“With our approach, we currently hold the world record for the highest structural resolution obtained for a membrane-bound complex of this size,” Locher says with a hint of pride. He explains that these advances with cryo-EM will enable many other scientists to elucidate the structures of small membrane proteins: “Our approach paves the way for the scientific community to make rapid progress in the study of membrane proteins associated with a wide range of diseases.”"
+    },
+    {
+      "heading": "A chemo-enzymatic toolbox",
+      "text": "As if that were not enough, the ETH researchers, in collaboration with chemists from the University of Bern, have now developed methods for synthesising highly complex lipid-linked oligosaccharides in the lab – something that had not been possible with conventional synthesis methods in organic chemistry.\n\nAs a result, the researchers have now gained new insight into the essential cellular pathway of LLO biosynthesis, helping them explain how cells build complex glycans. “This marks a milestone in glycobiology that could form the basis for many glycobiologists’ future research and for the production of glycoproteins,” Locher says.\n\nBloch JS et al. Structure and mechanism of the ER-based glucosyltransferase ALG6. Nature, published online 26 th Feb 2020. doi: 10.1038/s41586-020-2044-z"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 654,
+        "end": 664
+      },
+      {
+        "text": "the University of Bern",
+        "label": "ORG",
+        "start": 666,
+        "end": 688
+      },
+      {
+        "text": "the University of Chicago",
+        "label": "ORG",
+        "start": 693,
+        "end": 718
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 756,
+        "end": 759
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 885,
+        "end": 891
+      },
+      {
+        "text": "ALG6",
+        "label": "PERSON",
+        "start": 33,
+        "end": 37
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 697,
+        "end": 700
+      },
+      {
+        "text": "ALG6",
+        "label": "PERSON",
+        "start": 822,
+        "end": 826
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 845,
+        "end": 848
+      },
+      {
+        "text": "Kaspar Locher",
+        "label": "PERSON",
+        "start": 859,
+        "end": 872
+      },
+      {
+        "text": "ALG6",
+        "label": "PERSON",
+        "start": 984,
+        "end": 988
+      },
+      {
+        "text": "two modules",
+        "label": "QUANTITY",
+        "start": 1022,
+        "end": 1033
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1035,
+        "end": 1038
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1094,
+        "end": 1100
+      },
+      {
+        "text": "Joël Bloch",
+        "label": "PERSON",
+        "start": 1299,
+        "end": 1309
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1314,
+        "end": 1317
+      },
+      {
+        "text": "Bloch",
+        "label": "PERSON",
+        "start": 1569,
+        "end": 1574
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 164,
+        "end": 169
+      },
+      {
+        "text": "Jacques Dubochet",
+        "label": "PERSON",
+        "start": 181,
+        "end": 197
+      },
+      {
+        "text": "the Nobel Prize in Chemistry",
+        "label": "WORK_OF_ART",
+        "start": 207,
+        "end": 235
+      },
+      {
+        "text": "the University of Chicago",
+        "label": "ORG",
+        "start": 690,
+        "end": 715
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 721,
+        "end": 724
+      },
+      {
+        "text": "Chicago",
+        "label": "GPE",
+        "start": 799,
+        "end": 806
+      },
+      {
+        "text": "ALG6",
+        "label": "PERSON",
+        "start": 874,
+        "end": 878
+      },
+      {
+        "text": "ALG6",
+        "label": "ORG",
+        "start": 920,
+        "end": 924
+      },
+      {
+        "text": "Locher",
+        "label": "PERSON",
+        "start": 1156,
+        "end": 1162
+      },
+      {
+        "text": "EM",
+        "label": "ORG",
+        "start": 1232,
+        "end": 1234
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 32,
+        "end": 35
+      },
+      {
+        "text": "the University of Bern",
+        "label": "ORG",
+        "start": 85,
+        "end": 107
+      },
+      {
+        "text": "Locher",
+        "label": "PERSON",
+        "start": 624,
+        "end": 630
+      },
+      {
+        "text": "Bloch JS et",
+        "label": "PERSON",
+        "start": 637,
+        "end": 648
+      },
+      {
+        "text": "ER",
+        "label": "GPE",
+        "start": 684,
+        "end": 686
+      },
+      {
+        "text": "ALG6",
+        "label": "PERSON",
+        "start": 713,
+        "end": 717
+      },
+      {
+        "text": "Feb 2020",
+        "label": "DATE",
+        "start": 750,
+        "end": 758
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 765,
+        "end": 772
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ALG6",
+        "Bloch",
+        "Bloch JS et",
+        "ETH Zurich",
+        "Jacques Dubochet",
+        "Joël Bloch",
+        "Kaspar Locher",
+        "Locher"
+      ],
+      "ORG": [
+        "ALG6",
+        "EM",
+        "ETH",
+        "the University of Bern",
+        "the University of Chicago"
+      ],
+      "LOCATION": [
+        "Chicago",
+        "ER"
+      ],
+      "DATE": [
+        "Feb 2020"
+      ],
+      "MISC": [
+        "10.1038",
+        "Nature",
+        "Swiss",
+        "one",
+        "second",
+        "the Nobel Prize in Chemistry",
+        "two modules"
+      ]
+    },
+    "entity_counts": {
+      "ALG6": 6,
+      "ETH": 4,
+      "one": 3,
+      "the University of Bern": 2,
+      "the University of Chicago": 2,
+      "Locher": 2,
+      "ETH Zurich": 1,
+      "Nature": 1,
+      "Kaspar Locher": 1,
+      "two modules": 1,
+      "second": 1,
+      "Joël Bloch": 1,
+      "Bloch": 1,
+      "Swiss": 1,
+      "Jacques Dubochet": 1,
+      "the Nobel Prize in Chemistry": 1,
+      "Chicago": 1,
+      "EM": 1,
+      "Bloch JS et": 1,
+      "ER": 1
+    },
+    "total_entities": 35,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-enzymes-build-sugar-trees.md",
+      "title": "En News Events/2020/02/how Enzymes Build Sugar Trees",
+      "language": "en",
+      "source_path": "en_news_events/2020/02/how-enzymes-build-sugar-trees.html"
+    },
+    "temporal": {
+      "publication_date": "2020-02",
+      "mentioned_years": [
+        "2017",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ALG6",
+        "Bloch",
+        "Bloch JS et",
+        "ETH Zurich",
+        "Jacques Dubochet",
+        "Joël Bloch",
+        "Kaspar Locher",
+        "Locher"
+      ],
+      "people_with_roles": {
+        "ALG6": [
+          "researcher",
+          "professor"
+        ],
+        "Bloch": [
+          "student"
+        ],
+        "ETH Zurich": [
+          "researcher"
+        ],
+        "Jacques Dubochet": [
+          "researcher"
+        ],
+        "Joël Bloch": [
+          "student"
+        ],
+        "Kaspar Locher": [
+          "Professor",
+          "professor"
+        ],
+        "Locher": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Nature",
+        "Swiss",
+        "second",
+        "the Nobel Prize in Chemistry",
+        "two modules"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Enzymes Build",
+        "Jacques Dubochet",
+        "Nobel Prize",
+        "En News",
+        "ETH Professor",
+        "Sugar Trees",
+        "Kaspar Locher",
+        "Bloch JS",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ALG6",
+        "EM",
+        "ETH",
+        "the University of Bern",
+        "the University of Chicago"
+      ],
+      "locations": [
+        "Chicago",
+        "ER"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ALG6",
+        "ETH",
+        "one",
+        "the University of Bern",
+        "the University of Chicago",
+        "Locher",
+        "ETH Zurich",
+        "Nature",
+        "Kaspar Locher",
+        "two modules"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Modular protein architecture",
+          "Modular protein architecture",
+          "A record in cryo-electron microscopy",
+          "A chemo-enzymatic toolbox"
+        ],
+        "content_length": 5089
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Jacques Dubochet",
+        "the University of Bern",
+        "2017",
+        "EU",
+        "2020",
+        "EM",
+        "Joël Bloch",
+        "Bloch",
+        "Kaspar Locher",
+        "Bloch JS et",
+        "the University of Chicago",
+        "ETH Zurich",
+        "ALG6",
+        "Locher"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Nature",
+        "two modules",
+        "the Nobel Prize in Chemistry",
+        "who",
+        "10.1038",
+        "Swiss",
+        "chemistry",
+        "biology",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ALG6_has_role_researcher",
+        "ALG6_has_role_professor",
+        "Bloch_has_role_student",
+        "ETH Zurich_has_role_researcher",
+        "Jacques Dubochet_has_role_researcher",
+        "Joël Bloch_has_role_student",
+        "Kaspar Locher_has_role_Professor",
+        "Kaspar Locher_has_role_professor",
+        "Locher_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

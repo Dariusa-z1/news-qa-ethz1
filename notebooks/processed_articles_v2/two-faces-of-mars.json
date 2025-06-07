@@ -1,0 +1,680 @@
+{
+  "filename": "two-faces-of-mars.md",
+  "original_filename": "two-faces-of-mars.html",
+  "source_path": "en_news_events/2015/01/two-faces-of-mars.html",
+  "date": "2015-01",
+  "title": "Two Faces Of Mars",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Volcanic activity stopped 3.5 billion years ago",
+      "text": "The two hemispheres of Mars are more different from any other planet in our solar system. Non-volcanic, flat lowlands characterise the northern hemisphere, while highlands punctuated by countless volcanoes extend across the southern hemisphere. Although theories and assumptions about the origin of this so-called and often-discussed Mars dichotomy abound, there are very few definitive answers. ETH Zurich geophysicists with Giovanni Leone are now providing a new explanation. Leone is the lead author of a paper recently published in the journal Geophysical Research Letters .\n\nUsing a computer model, the scientists have concluded that a large celestial object must have smashed into the Martian south pole in the early history of the Solar System. Their simulation shows that this impact generated so much energy that it created a magma ocean, which would have extended across what is today’s southern hemisphere. The celestial body that struck Mars must have been at least one-tenth the mass of Mars to be able to unleash enough energy to create this magma ocean. The molten rock eventually solidified into the mountainous highlands that today comprise the southern hemisphere of Mars."
+    },
+    {
+      "heading": "Volcanic activity stopped 3.5 billion years ago",
+      "text": "In their simulation, the researchers assumed that the celestial body consisted to a large degree of iron, had a radius of at least 1,600 kilometres, and crashed into Mars at a speed of five kilometres per second. The event is estimated to have occurred around 4 to 15 million years after the Red Planet was formed. Mars’ crust must have been very thin at that time, like the hard, caramelised surface of a crème brûlée. And, just like the popular dessert, hiding beneath the surface was a liquid interior.\n\nWhen the celestial object impacted, it added more mass to Mars, particularly iron. But the simulation also found that it triggered strong volcanic activity. Around the equator in particular, numerous mantle plumes were generated as a consequence of the impact, which migrated to the south pole where they ended. Mantle plumes are magma columns that transport liquid material from the mantle to the surface.\n\nIn the model, the researchers found that activity on Mars died down around 3.5 billion years ago, after which time the Red Planet experienced neither volcanic activity nor a magnetic field – this is consistent with observations and measurements."
+    },
+    {
+      "heading": "Literature reference",
+      "text": "3D simulation of an impact of an iron-rich celestial object on the southern pole of Mars. (Image: from Leone et al. 2014)\n\nEarlier theories posited the opposite, namely that there must have been a gigantic impact or many smaller strikes against the northern hemisphere. The most important theory about the origin of the Mars dichotomy was formulated by two American researchers in 1984 in an article in the journal Nature . They postulated that a large celestial object struck the Martian north pole. In 2008 a different team revived this idea and published it once again in Nature .\n\nThis theory did not convince Leone: “Our scenarios more closely reflect a range of observations about Mars than the theory of a northern hemisphere impact,” states Leone. The volcanoes on Mars are very unevenly distributed: they are common and widespread on the southern hemisphere, but are rare and limited to only a few small regions in the northern hemisphere. \"Our model is an almost identical depiction of the actual distribution of volcanic identity,” asserts Leone. According to the researcher, no other model has been able to portray or explain this distribution before.\n\n“Our simulation was also able to reproduce the different topographies of the two hemispheres in an nearly realistic manner,” says Leone. And he goes on to explain that the model – depending on the composition of the impact body chosen – is a virtually perfect representation of the size and shape of the hemispheres. One condition, however, is that the celestial body impacting Mars consist of 80 per cent iron; when the researchers simulated the impact with a celestial body made of pure silicate rock, the resulting image did not correspond to the reality of the dichotomy.\n\nLastly, the model developed by the ETH researchers confirmed the date on which the magnetic field on Mars ceased to exist. The date calculated by the model corresponds to around 4.1 billion years ago, a figure previously proven by other scientists. The model also demonstrates why it ceased: a sharp decrease in heat flow from the core into the mantle and the crust in the first 400 million years after the impact. After a billion years, the heat flow was only one-tenth its initial value, which was too low to maintain even the volcanism. The model’s calculations closely match previous calculations and mineralogical explorations.\n\nThe volcanic activity is related to the heat flow, explains Leone, though the degree of volcanic activity could be varied in the simulation and influenced by the strength of the impact. This, he states, is in turn linked to the size and composition of the celestial object. In other words, the larger it is, the stronger the volcanic activity is. Nevertheless, after one billion years the volcanic vents were extinguished – regardless of the size of the impact.\n\nIt has become increasingly clear to Giovanni Leone that Mars has always been an extremely hostile planet, and he considers it almost impossible that it ever had oceans or even rivers of water. “Before becoming the cold and dry desert of today, this planet was characterised by intense heat and volcanic activity, which would have evaporated any possible water and made the emergence of life highly unlikely,” asserts the planet researcher.\n\nLeone G, Tackley PJ, Gerya TV, May DA, Zhu G (2014). Three-dimensional simulations of the southern polar giant impact hypothesis for the origin of the Martian dichotomy, Geophys. Res. Lett., 41, doi: 10.1002/2014GL062261"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 23,
+        "end": 27
+      },
+      {
+        "text": "Non-volcanic",
+        "label": "ORG",
+        "start": 90,
+        "end": 102
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 334,
+        "end": 338
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 396,
+        "end": 406
+      },
+      {
+        "text": "Giovanni Leone",
+        "label": "ORG",
+        "start": 426,
+        "end": 440
+      },
+      {
+        "text": "Leone",
+        "label": "ORG",
+        "start": 478,
+        "end": 483
+      },
+      {
+        "text": "Geophysical Research Letters",
+        "label": "ORG",
+        "start": 548,
+        "end": 576
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 690,
+        "end": 697
+      },
+      {
+        "text": "the Solar System",
+        "label": "ORG",
+        "start": 733,
+        "end": 749
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 888,
+        "end": 893
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 948,
+        "end": 952
+      },
+      {
+        "text": "at least one-tenth",
+        "label": "CARDINAL",
+        "start": 968,
+        "end": 986
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 999,
+        "end": 1003
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1142,
+        "end": 1147
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1184,
+        "end": 1188
+      },
+      {
+        "text": "at least 1,600 kilometres",
+        "label": "QUANTITY",
+        "start": 122,
+        "end": 147
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 166,
+        "end": 170
+      },
+      {
+        "text": "five kilometres",
+        "label": "QUANTITY",
+        "start": 185,
+        "end": 200
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 205,
+        "end": 211
+      },
+      {
+        "text": "around 4 to 15 million years",
+        "label": "CARDINAL",
+        "start": 253,
+        "end": 281
+      },
+      {
+        "text": "the Red Planet",
+        "label": "LOC",
+        "start": 288,
+        "end": 302
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 315,
+        "end": 319
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 564,
+        "end": 568
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 966,
+        "end": 970
+      },
+      {
+        "text": "around 3.5 billion years ago",
+        "label": "MONEY",
+        "start": 981,
+        "end": 1009
+      },
+      {
+        "text": "the Red Planet",
+        "label": "LOC",
+        "start": 1028,
+        "end": 1042
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 84,
+        "end": 88
+      },
+      {
+        "text": "Leone",
+        "label": "ORG",
+        "start": 103,
+        "end": 108
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 319,
+        "end": 323
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 352,
+        "end": 355
+      },
+      {
+        "text": "American",
+        "label": "NORP",
+        "start": 356,
+        "end": 364
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 414,
+        "end": 420
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 480,
+        "end": 487
+      },
+      {
+        "text": "Nature",
+        "label": "GPE",
+        "start": 574,
+        "end": 580
+      },
+      {
+        "text": "Leone",
+        "label": "ORG",
+        "start": 612,
+        "end": 617
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 685,
+        "end": 689
+      },
+      {
+        "text": "Leone",
+        "label": "ORG",
+        "start": 747,
+        "end": 752
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 771,
+        "end": 775
+      },
+      {
+        "text": "Leone",
+        "label": "ORG",
+        "start": 1049,
+        "end": 1054
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1239,
+        "end": 1242
+      },
+      {
+        "text": "Leone",
+        "label": "ORG",
+        "start": 1292,
+        "end": 1297
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1479,
+        "end": 1482
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1540,
+        "end": 1544
+      },
+      {
+        "text": "80 per cent",
+        "label": "MONEY",
+        "start": 1556,
+        "end": 1567
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1773,
+        "end": 1776
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1839,
+        "end": 1843
+      },
+      {
+        "text": "around 4.1 billion years ago",
+        "label": "MONEY",
+        "start": 1909,
+        "end": 1937
+      },
+      {
+        "text": "the first 400 million years",
+        "label": "DATE",
+        "start": 2107,
+        "end": 2134
+      },
+      {
+        "text": "a billion years",
+        "label": "DATE",
+        "start": 2159,
+        "end": 2174
+      },
+      {
+        "text": "only one-tenth",
+        "label": "CARDINAL",
+        "start": 2194,
+        "end": 2208
+      },
+      {
+        "text": "Leone",
+        "label": "ORG",
+        "start": 2431,
+        "end": 2436
+      },
+      {
+        "text": "one billion years",
+        "label": "MONEY",
+        "start": 2738,
+        "end": 2755
+      },
+      {
+        "text": "Giovanni Leone",
+        "label": "ORG",
+        "start": 2869,
+        "end": 2883
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 2889,
+        "end": 2893
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 3070,
+        "end": 3075
+      },
+      {
+        "text": "Leone G",
+        "label": "PERSON",
+        "start": 3273,
+        "end": 3280
+      },
+      {
+        "text": "Tackley PJ",
+        "label": "PERSON",
+        "start": 3282,
+        "end": 3292
+      },
+      {
+        "text": "Gerya TV",
+        "label": "ORG",
+        "start": 3294,
+        "end": 3302
+      },
+      {
+        "text": "Zhu G",
+        "label": "PERSON",
+        "start": 3312,
+        "end": 3317
+      },
+      {
+        "text": "Three",
+        "label": "CARDINAL",
+        "start": 3326,
+        "end": 3331
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 3424,
+        "end": 3431
+      },
+      {
+        "text": "Geophys",
+        "label": "PERSON",
+        "start": 3443,
+        "end": 3450
+      },
+      {
+        "text": "Res",
+        "label": "PERSON",
+        "start": 3452,
+        "end": 3455
+      },
+      {
+        "text": "Lett",
+        "label": "PERSON",
+        "start": 3457,
+        "end": 3461
+      },
+      {
+        "text": "10.1002/2014GL062261",
+        "label": "CARDINAL",
+        "start": 3473,
+        "end": 3493
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Geophys",
+        "Leone G",
+        "Lett",
+        "Res",
+        "Tackley PJ",
+        "Zhu G"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Geophysical Research Letters",
+        "Gerya TV",
+        "Giovanni Leone",
+        "Leone",
+        "Non-volcanic",
+        "the Solar System"
+      ],
+      "LOCATION": [
+        "Mars",
+        "Nature",
+        "the Red Planet"
+      ],
+      "DATE": [
+        "a billion years",
+        "the first 400 million years",
+        "today"
+      ],
+      "MISC": [
+        "10.1002/2014GL062261",
+        "80 per cent",
+        "American",
+        "Martian",
+        "Nature",
+        "One",
+        "Three",
+        "around 3.5 billion years ago",
+        "around 4 to 15 million years",
+        "around 4.1 billion years ago",
+        "at least 1,600 kilometres",
+        "at least one-tenth",
+        "five kilometres",
+        "one billion years",
+        "only one-tenth",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Mars": 16,
+      "Leone": 7,
+      "two": 3,
+      "Martian": 3,
+      "today": 3,
+      "Giovanni Leone": 2,
+      "the Red Planet": 2,
+      "Nature": 2,
+      "En News": 1,
+      "Non-volcanic": 1,
+      "ETH Zurich": 1,
+      "Geophysical Research Letters": 1,
+      "the Solar System": 1,
+      "at least one-tenth": 1,
+      "at least 1,600 kilometres": 1,
+      "five kilometres": 1,
+      "second": 1,
+      "around 4 to 15 million years": 1,
+      "around 3.5 billion years ago": 1,
+      "American": 1
+    },
+    "total_entities": 67,
+    "unique_entities": 37
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "two-faces-of-mars.md",
+      "title": "En News Events/2015/01/two Faces Of Mars",
+      "language": "en",
+      "source_path": "en_news_events/2015/01/two-faces-of-mars.html"
+    },
+    "temporal": {
+      "publication_date": "2015-01",
+      "mentioned_years": [
+        "1984",
+        "2008",
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Geophys",
+        "Leone G",
+        "Lett",
+        "Res",
+        "Tackley PJ",
+        "Zhu G"
+      ],
+      "people_with_roles": {
+        "Res": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "10.1002/2014GL062261",
+        "80 per cent",
+        "American",
+        "Martian",
+        "Nature",
+        "Three",
+        "around 3.5 billion years ago",
+        "around 4 to 15 million years",
+        "around 4.1 billion years ago",
+        "at least 1,600 kilometres",
+        "at least one-tenth",
+        "five kilometres",
+        "one billion years",
+        "only one-tenth",
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Geophysical Research",
+        "Red Planet",
+        "Leone G",
+        "En News",
+        "May DA",
+        "Giovanni Leone",
+        "Zhu G",
+        "Mars The",
+        "Solar System",
+        "Gerya TV",
+        "ETH Zurich",
+        "Tackley PJ",
+        "Faces Of"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Geophysical Research Letters",
+        "Gerya TV",
+        "Giovanni Leone",
+        "Leone",
+        "Non-volcanic",
+        "the Solar System"
+      ],
+      "locations": [
+        "Mars",
+        "Nature",
+        "the Red Planet"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Mars",
+        "Leone",
+        "two",
+        "Martian",
+        "today",
+        "Giovanni Leone",
+        "the Red Planet",
+        "Nature",
+        "En News",
+        "Non-volcanic"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Volcanic activity stopped 3.5 billion years ago",
+          "Volcanic activity stopped 3.5 billion years ago",
+          "Literature reference"
+        ],
+        "content_length": 5893
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Geophysical Research Letters",
+        "Giovanni Leone",
+        "Zhu G",
+        "Leone",
+        "Leone G",
+        "2008",
+        "Lett",
+        "Non-volcanic",
+        "2014",
+        "Res",
+        "2015",
+        "Geophys",
+        "Tackley PJ",
+        "the Solar System",
+        "En News",
+        "1984",
+        "Gerya TV",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "one billion years",
+        "when",
+        "only one-tenth",
+        "Martian",
+        "around 4 to 15 million years",
+        "American",
+        "five kilometres",
+        "Three",
+        "80 per cent",
+        "Nature",
+        "who",
+        "what",
+        "how",
+        "around 3.5 billion years ago",
+        "at least one-tenth",
+        "second",
+        "around 4.1 billion years ago",
+        "at least 1,600 kilometres",
+        "10.1002/2014GL062261",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Res_has_role_researcher",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

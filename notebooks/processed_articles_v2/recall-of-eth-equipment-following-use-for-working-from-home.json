@@ -1,0 +1,237 @@
+{
+  "filename": "recall-of-eth-equipment-following-use-for-working-from-home.md",
+  "original_filename": "recall-of-eth-equipment-following-use-for-working-from-home.html",
+  "source_path": "en_internal/2022/04/recall-of-eth-equipment-following-use-for-working-from-home.html",
+  "date": "2022-04",
+  "title": "Recall Of Eth Equipment Following Use For Working From Home",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Equipment to be returned to ETH by the end of May",
+      "text": "When the requirement to work from home was announced at ETH Zurich, IT Services responded rapidly in consultation with the Vice President for Infrastructure, Ulrich Weidmann. On the basis of the special pandemic guideline on the use of ICT resources for working from home, employees were allowed to take IT resources, such as monitors and docking stations, from their offices to use at home in consultation with their supervisors.\n\n“Our aim in doing so was to enable employees to do their work just as efficiently at home as in the office,” says Weidmann. Supervisors were formally given the authority to allow their team members to take ETH equipment home. It was announced at the time that this was a temporary measure and that supervisors would be required to recall the ETH equipment as soon as the recommendation or requirement to work from home no longer applied."
+    },
+    {
+      "heading": "Equipment to be returned to ETH by the end of May",
+      "text": "Following the withdrawal of all pandemic-related regulations, these borrowed IT resources must now be returned by the end of May at the latest. Since working from home will continue to play a role for many in the coming phase of the “return to the office”, some may wonder why they are not allowed to continue to use the IT resources.\n\n“Working from home was already a reality before the outbreak of the pandemic, with employees organising the necessary infrastructure themselves,” says Weidmann. ETH does not have the funds to equip all employees with a double set of monitors, docking stations, etc. “However, the deadline for the return of the borrowed equipment has been set for the end of May to give all those who will continue to work regularly from home enough time to adjust to the new situation,” says Weidmann, who thanks all staff in advance for their cooperation.\n\nInfo portal for employees with the key information about what’s going on at ETH Zurich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 56,
+        "end": 66
+      },
+      {
+        "text": "Ulrich Weidmann",
+        "label": "PERSON",
+        "start": 158,
+        "end": 173
+      },
+      {
+        "text": "ICT",
+        "label": "ORG",
+        "start": 236,
+        "end": 239
+      },
+      {
+        "text": "Weidmann",
+        "label": "PERSON",
+        "start": 545,
+        "end": 553
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 637,
+        "end": 640
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 773,
+        "end": 776
+      },
+      {
+        "text": "the end of May",
+        "label": "DATE",
+        "start": 114,
+        "end": 128
+      },
+      {
+        "text": "Weidmann",
+        "label": "PERSON",
+        "start": 486,
+        "end": 494
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 496,
+        "end": 499
+      },
+      {
+        "text": "the end of May",
+        "label": "DATE",
+        "start": 682,
+        "end": 696
+      },
+      {
+        "text": "Weidmann",
+        "label": "PERSON",
+        "start": 811,
+        "end": 819
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 952,
+        "end": 962
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ulrich Weidmann",
+        "Weidmann"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "ICT"
+      ],
+      "LOCATION": [
+        "ETH Zurich"
+      ],
+      "DATE": [
+        "the end of May"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Weidmann": 3,
+      "ETH": 3,
+      "ETH Zurich": 2,
+      "the end of May": 2,
+      "Ulrich Weidmann": 1,
+      "ICT": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "recall-of-eth-equipment-following-use-for-working-from-home.md",
+      "title": "En Internal/2022/04/recall Of Eth Equipment Following Use For Working From Home",
+      "language": "en",
+      "source_path": "en_internal/2022/04/recall-of-eth-equipment-following-use-for-working-from-home.html"
+    },
+    "temporal": {
+      "publication_date": "2022-04",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Ulrich Weidmann",
+        "Weidmann"
+      ],
+      "people_with_roles": {
+        "Ulrich Weidmann": [
+          "president"
+        ],
+        "Weidmann": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Use For",
+        "Home When",
+        "Working From",
+        "Ulrich Weidmann",
+        "Of Eth",
+        "Vice President",
+        "Equipment Following",
+        "IT Services",
+        "En Internal",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "ICT"
+      ],
+      "locations": [
+        "ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Weidmann",
+        "ETH",
+        "ETH Zurich",
+        "the end of May",
+        "Ulrich Weidmann",
+        "ICT"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Equipment to be returned to ETH by the end of May",
+          "Equipment to be returned to ETH by the end of May"
+        ],
+        "content_length": 1915
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Ulrich Weidmann",
+        "ETH",
+        "ICT",
+        "2022",
+        "ETH Zurich",
+        "Weidmann"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Ulrich Weidmann_has_role_president",
+        "Weidmann_has_role_president",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

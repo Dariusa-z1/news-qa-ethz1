@@ -1,0 +1,297 @@
+{
+  "filename": "de_news_events_2022_04_podcast-we-are-eth-martin-dahinden.md",
+  "original_filename": "de_news_events_2022_04_podcast-we-are-eth-martin-dahinden.html",
+  "source_path": "de_news_events/2022/04/podcast-we-are-eth-martin-dahinden.html",
+  "date": "2022-04",
+  "title": "Podcast We Are Eth Martin Dahinden",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In dieser Podcast-Folge spricht Susan Kish mit dem Schweizer Diplomaten Martin Dahinden. Nach seinem Studium der Wirtschaftswissenschaften war Martin Dahinden in verschiedenen Positionen im diplomatischen Dienst tätig, unter anderem bei Schweizer Missionen der UNO und der NATO. Bevor er 2014 Schweizer Botschafter in den USA wurde, war er Direktor der Schweizer Direktion für Entwicklung und Zusammenarbeit. Er ist Experte für die Schweizer Sicherheitspolitik im internationalen Kontext und hält derzeit Vorlesungen zu diesem Thema an der benachbarten Universität Zürich. Der begeisterte Koch und Geschichtenerzähler ist auch Autor eines Buches über den Schweizer Beitrag zur kulinarischen Geschichte mit dem Titel \"Beyond Muesli and Fondue\" (nur in Englisch).\n\nLesen Sie hier das ETH-Circle Porträt: Martin Dahinden – ETH CIRCLE (ethz.ch) . Dies ist seine Geschichte."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Martin Dahinden",
+        "label": "PER",
+        "start": 42,
+        "end": 57
+      },
+      {
+        "text": "Podcast-Folge",
+        "label": "MISC",
+        "start": 10,
+        "end": 23
+      },
+      {
+        "text": "Susan Kish",
+        "label": "PER",
+        "start": 32,
+        "end": 42
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 51,
+        "end": 60
+      },
+      {
+        "text": "Martin Dahinden",
+        "label": "PER",
+        "start": 72,
+        "end": 87
+      },
+      {
+        "text": "Martin Dahinden",
+        "label": "PER",
+        "start": 143,
+        "end": 158
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 237,
+        "end": 246
+      },
+      {
+        "text": "UNO",
+        "label": "ORG",
+        "start": 261,
+        "end": 264
+      },
+      {
+        "text": "NATO",
+        "label": "ORG",
+        "start": 273,
+        "end": 277
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 293,
+        "end": 302
+      },
+      {
+        "text": "den USA",
+        "label": "LOC",
+        "start": 318,
+        "end": 325
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 353,
+        "end": 362
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 432,
+        "end": 441
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 553,
+        "end": 571
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 655,
+        "end": 664
+      },
+      {
+        "text": "Beyond Muesli",
+        "label": "PER",
+        "start": 717,
+        "end": 730
+      },
+      {
+        "text": "Englisch",
+        "label": "MISC",
+        "start": 751,
+        "end": 759
+      },
+      {
+        "text": "ETH-Circle",
+        "label": "MISC",
+        "start": 781,
+        "end": 791
+      },
+      {
+        "text": "Martin Dahinden",
+        "label": "PER",
+        "start": 801,
+        "end": 816
+      },
+      {
+        "text": "ETH CIRCLE",
+        "label": "ORG",
+        "start": 819,
+        "end": 829
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Beyond Muesli",
+        "De News",
+        "Martin Dahinden",
+        "Susan Kish"
+      ],
+      "ORG": [
+        "ETH CIRCLE",
+        "NATO",
+        "UNO",
+        "Universität Zürich"
+      ],
+      "LOCATION": [
+        "den USA"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Circle",
+        "Englisch",
+        "Podcast-Folge",
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "Schweizer": 6,
+      "Martin Dahinden": 4,
+      "De News": 1,
+      "Podcast-Folge": 1,
+      "Susan Kish": 1,
+      "UNO": 1,
+      "NATO": 1,
+      "den USA": 1,
+      "Universität Zürich": 1,
+      "Beyond Muesli": 1,
+      "Englisch": 1,
+      "ETH-Circle": 1,
+      "ETH CIRCLE": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2022_04_podcast-we-are-eth-martin-dahinden.md",
+      "title": "De News Events/2022/04/podcast We Are Eth Martin Dahinden",
+      "language": "de",
+      "source_path": "de_news_events/2022/04/podcast-we-are-eth-martin-dahinden.html"
+    },
+    "temporal": {
+      "publication_date": "2022-04",
+      "mentioned_years": [
+        "2014",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Beyond Muesli",
+        "De News",
+        "Martin Dahinden",
+        "Susan Kish"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Circle",
+        "Englisch",
+        "Podcast-Folge",
+        "Schweizer"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Schweizer Beitrag",
+        "Schweizer Botschafter",
+        "Podcast-Folge",
+        "Schweizer Diplomaten",
+        "Schweizer Missionen",
+        "Schweizer Sicherheitspolitik",
+        "ETH CIRCLE",
+        "We Are",
+        "Martin Dahinden",
+        "ETH-Circle",
+        "De News",
+        "Eth Martin",
+        "Schweizer Direktion",
+        "Dahinden In",
+        "Lesen Sie",
+        "Susan Kish",
+        "Beyond Muesli"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH CIRCLE",
+        "NATO",
+        "UNO",
+        "Universität Zürich"
+      ],
+      "locations": [
+        "den USA"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Schweizer",
+        "Martin Dahinden",
+        "De News",
+        "Podcast-Folge",
+        "Susan Kish",
+        "UNO",
+        "NATO",
+        "den USA",
+        "Universität Zürich",
+        "Beyond Muesli"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 927
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH CIRCLE",
+        "NATO",
+        "Martin Dahinden",
+        "UNO",
+        "De News",
+        "2022",
+        "Susan Kish",
+        "Beyond Muesli",
+        "2014",
+        "Universität Zürich"
+      ],
+      "semantic_concepts": [
+        "Schweizer",
+        "ETH-Circle",
+        "Podcast-Folge",
+        "Englisch"
+      ],
+      "graph_relations": []
+    }
+  }
+}

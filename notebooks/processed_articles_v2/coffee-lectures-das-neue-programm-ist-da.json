@@ -1,0 +1,206 @@
+{
+  "filename": "coffee-lectures-das-neue-programm-ist-da.md",
+  "original_filename": "coffee-lectures-das-neue-programm-ist-da.html",
+  "source_path": "en_internal/2024/01/coffee-lectures-das-neue-programm-ist-da.html",
+  "date": "2024-01",
+  "title": "Coffee Lectures Das Neue Programm Ist Da",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "How it works",
+      "text": "Each session lasts 15 minutes. You will receive concise, condensed information on a particular topic and have time to ask questions at the end. Just the right length of time to enjoy a coffee while you listen and get to know the people behind the ETH Library.\n\nThe Coffee Lectures are held via Zoom at 15.15 on Wednesday afternoons from 14 February to 13 March 2024. We host the events in English."
+    },
+    {
+      "heading": "We welcome suggestions for new topics!",
+      "text": "You can take part without registering. For browser-​based Zoom sessions, we recommend using Chrome.\n\nGood to know: if you miss an event, you can still access it. We record the sessions and provide access to the presentation slides on our website .\n\nAre you interested in a particular topic? Then we look forward to receiving your suggestion. Whether you have questions regarding a certain tool or want information on a topic relating to information searches, academic writing or publishing – send us your suggested topic at and we will see whether it is suitable for this event series."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Lectures",
+        "label": "PERSON",
+        "start": 27,
+        "end": 35
+      },
+      {
+        "text": "15 minutes",
+        "label": "TIME",
+        "start": 19,
+        "end": 29
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 243,
+        "end": 258
+      },
+      {
+        "text": "The Coffee Lectures",
+        "label": "PERSON",
+        "start": 260,
+        "end": 279
+      },
+      {
+        "text": "15.15",
+        "label": "CARDINAL",
+        "start": 301,
+        "end": 306
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE",
+        "start": 310,
+        "end": 319
+      },
+      {
+        "text": "14 February to 13 March 2024",
+        "label": "DATE",
+        "start": 336,
+        "end": 364
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 388,
+        "end": 395
+      },
+      {
+        "text": "Chrome",
+        "label": "PERSON",
+        "start": 92,
+        "end": 98
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chrome",
+        "Lectures",
+        "The Coffee Lectures"
+      ],
+      "ORG": [
+        "the ETH Library"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "14 February to 13 March 2024",
+        "15 minutes",
+        "Wednesday"
+      ],
+      "MISC": [
+        "15.15",
+        "English"
+      ]
+    },
+    "entity_counts": {
+      "Lectures": 1,
+      "15 minutes": 1,
+      "the ETH Library": 1,
+      "The Coffee Lectures": 1,
+      "15.15": 1,
+      "Wednesday": 1,
+      "14 February to 13 March 2024": 1,
+      "English": 1,
+      "Chrome": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "coffee-lectures-das-neue-programm-ist-da.md",
+      "title": "En Internal/2024/01/coffee Lectures das Neue Programm Ist Da",
+      "language": "en",
+      "source_path": "en_internal/2024/01/coffee-lectures-das-neue-programm-ist-da.html"
+    },
+    "temporal": {
+      "publication_date": "2024-01",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chrome",
+        "Lectures",
+        "The Coffee Lectures"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "15.15",
+        "English"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH Library",
+        "Neue Programm",
+        "En Internal",
+        "The Coffee",
+        "Ist Da"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "the ETH Library"
+      ],
+      "locations": [],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Lectures",
+        "15 minutes",
+        "the ETH Library",
+        "The Coffee Lectures",
+        "15.15",
+        "Wednesday",
+        "14 February to 13 March 2024",
+        "English",
+        "Chrome"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "How it works",
+          "We welcome suggestions for new topics!"
+        ],
+        "content_length": 1044
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "Lectures",
+        "Chrome",
+        "EU",
+        "The Coffee Lectures",
+        "the ETH Library"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "English",
+        "15.15"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

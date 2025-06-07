@@ -1,0 +1,171 @@
+{
+  "filename": "nationaler-zukunftstag-at-eth-zurich.md",
+  "original_filename": "nationaler-zukunftstag-at-eth-zurich.html",
+  "source_path": "en_internal/2015/10/nationaler-zukunftstag-at-eth-zurich.html",
+  "date": "2015-10",
+  "title": "Nationaler Zukunftstag At Eth Zurich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "“Changeover” means breaking down stereotypical views on seemingly gender-specific professions. The ETH wants to introduce the next generation to lesser-known disciplines and areas of work, and to fire their enthusiasm for the world of science.\n\nThis year there are places for over 250 children to take part in one of the 20 programmes offering a glimpse into the daily life and research work of ETH staff. School children attending class 5, 6 or 7 are invited to take part.\n\nThe programmes will be held in German. If you would like to register a German-speaking child, you can apply using this if you have any questions."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Eth Zurich",
+        "label": "FAC",
+        "start": 46,
+        "end": 56
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 99,
+        "end": 102
+      },
+      {
+        "text": "This year",
+        "label": "DATE",
+        "start": 244,
+        "end": 253
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 309,
+        "end": 312
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 394,
+        "end": 397
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 504,
+        "end": 510
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 544,
+        "end": 550
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [
+        "Eth Zurich"
+      ],
+      "DATE": [
+        "This year"
+      ],
+      "MISC": [
+        "German",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "German": 2,
+      "Eth Zurich": 1,
+      "This year": 1,
+      "one": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "nationaler-zukunftstag-at-eth-zurich.md",
+      "title": "En Internal/2015/10/nationaler Zukunftstag At Eth Zurich",
+      "language": "en",
+      "source_path": "en_internal/2015/10/nationaler-zukunftstag-at-eth-zurich.html"
+    },
+    "temporal": {
+      "publication_date": "2015-10",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "German"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Eth Zurich",
+        "The ETH",
+        "Zukunftstag At",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [
+        "Eth Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "German",
+        "Eth Zurich",
+        "This year",
+        "one"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 677
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2015"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "German",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

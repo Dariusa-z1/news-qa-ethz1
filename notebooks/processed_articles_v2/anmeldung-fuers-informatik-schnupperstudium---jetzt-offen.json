@@ -1,0 +1,241 @@
+{
+  "filename": "anmeldung-fuers-informatik-schnupperstudium---jetzt-offen.md",
+  "original_filename": "anmeldung-fuers-informatik-schnupperstudium---jetzt-offen.html",
+  "source_path": "de_internal/2017/01/anmeldung-fuers-informatik-schnupperstudium---jetzt-offen.html",
+  "date": "2017-01",
+  "title": "Anmeldung Fuers Informatik Schnupperstudium Jetzt Offen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Teilnehmerinnen verbringen drei Tage an der ETH Zürich. In dieser Zeit lernen sie, wie man Android Apps programmiert, erhalten Einblicke in verschiedene Gebiete der Informatik, besuchen Vorlesungen von ETH-Professoren und treffen auf Informatik-Studenten und Studentinnen der ETH Zürich. Zudem erfahren sie bei einer Exkursion in die Industrie mehr über die Karrieremöglichkeiten nach einem erfolgreichen Abschluss des Informatikstudiums.\n\nDas nächste Schnupperstudium findet vom 13. bis 15. Februar 2017 im ETH Zentrum statt. Die Teilnahme ist kostenlos.\n\nAnmeldung unter: http://www.frauen.inf.ethz.ch/fuer-schuelerinnen/schnupperstudium.html . Die Anzahl der Teilnehmerinnen ist beschränkt.\n\nDas Schnupperstudium wird von CSNOW organisiert, dem Netzwerk für Informatik Studentinnen der ETH Zürich. Es findet zweimal pro Jahr statt, im Februar und im September. Weitere Informationen unter: http://www.frauen.inf.ethz.ch ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2017/01/anmeldung",
+        "label": "LOC",
+        "start": 0,
+        "end": 29
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 48,
+        "end": 58
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 70,
+        "end": 74
+      },
+      {
+        "text": "Android Apps",
+        "label": "MISC",
+        "start": 95,
+        "end": 107
+      },
+      {
+        "text": "Einblicke",
+        "label": "PER",
+        "start": 131,
+        "end": 140
+      },
+      {
+        "text": "ETH-Professoren",
+        "label": "MISC",
+        "start": 206,
+        "end": 221
+      },
+      {
+        "text": "Informatik-Studenten",
+        "label": "MISC",
+        "start": 238,
+        "end": 258
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 280,
+        "end": 290
+      },
+      {
+        "text": "ETH Zentrum",
+        "label": "ORG",
+        "start": 511,
+        "end": 522
+      },
+      {
+        "text": "http://www.frauen.inf.ethz.ch/fuer-schuelerinnen/schnupperstudium.html",
+        "label": "MISC",
+        "start": 576,
+        "end": 646
+      },
+      {
+        "text": "CSNOW",
+        "label": "ORG",
+        "start": 726,
+        "end": 731
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 790,
+        "end": 800
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Einblicke"
+      ],
+      "ORG": [
+        "CSNOW",
+        "ETH Zentrum",
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2017/01/anmeldung"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Android Apps",
+        "ETH-Professoren",
+        "Informatik-Studenten",
+        "Zeit",
+        "http://www.frauen.inf.ethz.ch/fuer-schuelerinnen/schnupperstudium.html"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 3,
+      "De Internal/2017/01/anmeldung": 1,
+      "Zeit": 1,
+      "Android Apps": 1,
+      "Einblicke": 1,
+      "ETH-Professoren": 1,
+      "Informatik-Studenten": 1,
+      "ETH Zentrum": 1,
+      "http://www.frauen.inf.ethz.ch/fuer-schuelerinnen/schnupperstudium.html": 1,
+      "CSNOW": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "anmeldung-fuers-informatik-schnupperstudium---jetzt-offen.md",
+      "title": "De Internal/2017/01/anmeldung Fuers Informatik Schnupperstudium Jetzt Offen",
+      "language": "de",
+      "source_path": "de_internal/2017/01/anmeldung-fuers-informatik-schnupperstudium---jetzt-offen.html"
+    },
+    "temporal": {
+      "publication_date": "2017-01",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Einblicke"
+      ],
+      "people_with_roles": {
+        "Einblicke": [
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Android Apps",
+        "ETH-Professoren",
+        "Informatik-Studenten",
+        "Zeit",
+        "http://www.frauen.inf.ethz.ch/fuer-schuelerinnen/schnupperstudium.html"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Zentrum",
+        "Android Apps",
+        "De Internal",
+        "Informatik-Studenten",
+        "Schnupperstudium Jetzt",
+        "Die Anzahl",
+        "Die Teilnahme",
+        "Offen Die",
+        "Fuers Informatik",
+        "Das Schnupperstudium",
+        "Weitere Informationen",
+        "ETH-Professoren",
+        "Informatik Studentinnen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSNOW",
+        "ETH Zentrum",
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2017/01/anmeldung"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2017/01/anmeldung",
+        "Zeit",
+        "Android Apps",
+        "Einblicke",
+        "ETH-Professoren",
+        "Informatik-Studenten",
+        "ETH Zentrum",
+        "http://www.frauen.inf.ethz.ch/fuer-schuelerinnen/schnupperstudium.html",
+        "CSNOW"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1004
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zentrum",
+        "2017",
+        "CSNOW",
+        "ETH Zürich",
+        "Einblicke"
+      ],
+      "semantic_concepts": [
+        "Android Apps",
+        "http://www.frauen.inf.ethz.ch/fuer-schuelerinnen/schnupperstudium.html",
+        "who",
+        "Informatik-Studenten",
+        "Zeit",
+        "ETH-Professoren"
+      ],
+      "graph_relations": [
+        "Einblicke_has_role_student",
+        "Einblicke_has_role_professor"
+      ]
+    }
+  }
+}

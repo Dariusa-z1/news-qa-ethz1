@@ -1,0 +1,272 @@
+{
+  "filename": "thomas-mann-archiv-erweiterte-oeffnungszeiten-und-standortwechsel.md",
+  "original_filename": "thomas-mann-archiv-erweiterte-oeffnungszeiten-und-standortwechsel.html",
+  "source_path": "de_internal/2016/05/thomas-mann-archiv-erweiterte-oeffnungszeiten-und-standortwechsel.html",
+  "date": "2016-05",
+  "title": "Thomas Mann Archiv Erweiterte Oeffnungszeiten Und Standortwechsel",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Ab Montag, 11. Juli sind Archiv, Bibliothek und das letzte Arbeitszimmer Thomas Manns am neuen Standort mit erweiterten Öffnungszeiten zugänglich: Montag bis Freitag 10 bis 17 Uhr.\n\nDer provisorische Standort befindet sich auf dem Campus Hönggerberg :\n\nGebäude HCP/G-Ebene Räume Nr. 21.2 – 24.2 Leopold-Ruzicka-Weg 4 8093 Zürich\n\nMit dem Shuttlebus der ETH – dem ETH-Link – gelangen Sie bequem in 15 Minuten vom Zentrum auf den Hönggerberg und wieder zurück.\n\nDie Universität Zürich wird das Bodmer-Haus, in dem das Thomas-Mann-Archiv seit 1961 eingemietet war, nach einer umfassenden Sanierung einer neuen Zweckbestimmung zuführen. Es ist geplant, dass das Thomas-Mann-Archiv mittelfristig einen neuen festen Standort im Hauptgebäude der ETH Zürich erhält."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/05",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "thomas Mann",
+        "label": "PER",
+        "start": 20,
+        "end": 31
+      },
+      {
+        "text": "Thomas Manns",
+        "label": "PER",
+        "start": 73,
+        "end": 85
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 237,
+        "end": 248
+      },
+      {
+        "text": "HCP",
+        "label": "MISC",
+        "start": 259,
+        "end": 262
+      },
+      {
+        "text": "G-Ebene Räume Nr.",
+        "label": "PER",
+        "start": 263,
+        "end": 280
+      },
+      {
+        "text": "Leopold-Ruzicka-Weg 4",
+        "label": "MISC",
+        "start": 293,
+        "end": 314
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 320,
+        "end": 326
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 350,
+        "end": 353
+      },
+      {
+        "text": "ETH-Link",
+        "label": "MISC",
+        "start": 360,
+        "end": 368
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 409,
+        "end": 416
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 425,
+        "end": 436
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 460,
+        "end": 478
+      },
+      {
+        "text": "Bodmer-Haus",
+        "label": "LOC",
+        "start": 488,
+        "end": 499
+      },
+      {
+        "text": "Thomas-Mann-Archiv",
+        "label": "MISC",
+        "start": 512,
+        "end": 530
+      },
+      {
+        "text": "Thomas-Mann-Archiv",
+        "label": "MISC",
+        "start": 654,
+        "end": 672
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 735,
+        "end": 745
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "G-Ebene Räume Nr.",
+        "Thomas Manns",
+        "thomas Mann"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "Universität Zürich",
+        "Zentrum"
+      ],
+      "LOCATION": [
+        "Bodmer-Haus",
+        "De Internal/2016/05",
+        "Hönggerberg",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Link",
+        "HCP",
+        "Leopold-Ruzicka-Weg 4",
+        "Thomas-Mann-Archiv"
+      ]
+    },
+    "entity_counts": {
+      "Hönggerberg": 2,
+      "Thomas-Mann-Archiv": 2,
+      "De Internal/2016/05": 1,
+      "thomas Mann": 1,
+      "Thomas Manns": 1,
+      "HCP": 1,
+      "G-Ebene Räume Nr.": 1,
+      "Leopold-Ruzicka-Weg 4": 1,
+      "Zürich": 1,
+      "ETH": 1,
+      "ETH-Link": 1,
+      "Zentrum": 1,
+      "Universität Zürich": 1,
+      "Bodmer-Haus": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "thomas-mann-archiv-erweiterte-oeffnungszeiten-und-standortwechsel.md",
+      "title": "De Internal/2016/05/thomas Mann Archiv Erweiterte Oeffnungszeiten und Standortwechsel",
+      "language": "de",
+      "source_path": "de_internal/2016/05/thomas-mann-archiv-erweiterte-oeffnungszeiten-und-standortwechsel.html"
+    },
+    "temporal": {
+      "publication_date": "2016-05",
+      "mentioned_years": [
+        "1961",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "G-Ebene Räume Nr.",
+        "Thomas Manns",
+        "thomas Mann"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Link",
+        "Leopold-Ruzicka-Weg 4",
+        "Thomas-Mann-Archiv"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Bodmer-Haus",
+        "ETH-Link",
+        "De Internal",
+        "Mann Archiv",
+        "Thomas-Mann",
+        "Arbeitszimmer Thomas",
+        "G-Ebene",
+        "Standortwechsel Ab",
+        "Erweiterte Oeffnungszeiten",
+        "Leopold-Ruzicka"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "Universität Zürich",
+        "Zentrum"
+      ],
+      "locations": [
+        "Bodmer-Haus",
+        "De Internal/2016/05",
+        "Hönggerberg",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Hönggerberg",
+        "Thomas-Mann-Archiv",
+        "De Internal/2016/05",
+        "thomas Mann",
+        "Thomas Manns",
+        "HCP",
+        "G-Ebene Räume Nr.",
+        "Leopold-Ruzicka-Weg 4",
+        "Zürich",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 843
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "1961",
+        "G-Ebene Räume Nr.",
+        "EU",
+        "2016",
+        "ETH Zürich",
+        "Zentrum",
+        "thomas Mann",
+        "Thomas Manns",
+        "Universität Zürich"
+      ],
+      "semantic_concepts": [
+        "ETH-Link",
+        "Leopold-Ruzicka-Weg 4",
+        "Thomas-Mann-Archiv"
+      ],
+      "graph_relations": []
+    }
+  }
+}

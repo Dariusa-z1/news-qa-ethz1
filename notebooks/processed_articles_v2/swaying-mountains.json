@@ -1,0 +1,682 @@
+{
+  "filename": "swaying-mountains.md",
+  "original_filename": "swaying-mountains.html",
+  "source_path": "en_news_events/2021/12/swaying-mountains.html",
+  "date": "2021-12",
+  "title": "Swaying Mountains",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "High alpine measuring devices",
+      "text": "The Matterhorn appears as an immovable, massive mountain that has towered over the landscape near Zermatt for thousands of years. A study just published in the journal “Earth and Planetary Science Letters” (https://doi.org/10.1016/j.epsl.2021.117295) now shows that this impression is wrong. An international research team has proven that the Matterhorn is instead constantly in motion, swaying gently back and forth about once every two seconds. This subtle vibration with normally imperceptible amplitudes is stimulated by seismic energy in the Earth originating from the world’s oceans, earthquakes, as well as human activity.\n\n\"The movements of the underground cause every object to vibrate, which we fortunately cannot feel, but detect with sensitive measuring instruments,\" emphasises Donat Fäh from the Swiss Seismological Service at ETH Zurich. These so-called natural frequencies depend primarily on the geometry of the object and its material properties. The phenomenon is also observed in bridges, high-rise buildings, and now even mountains. \"We wanted to know whether such resonant vibrations can also be detected on a large mountain like the Matterhorn,\" says Samuel Weber, who carried out the study during a postdoctoral period at the Technical University of Munich (TUM) and is now working at the WSL Institute for Snow and Avalanche Research SLF. He emphasizes that the interdisciplinary collaboration between researchers at the Swiss Seismological Service at ETH Zurich, the Institute for Computer Engineering and Communication Networks at ETH Zurich, and the Geohazards Research Group at the University of Utah (USA) was particularly important for success of this project."
+    },
+    {
+      "heading": "High alpine measuring devices",
+      "text": "For the study, the scientists installed several seismometers on the Matterhorn, including one directly on the summit at 4,470 meters above sea level and another in the Solvay bivouac, an emergency shelter on the northeast ridge, better known as Hörnligrat. Another measuring station at the foot of the mountain served as a reference. Extensive past experience from Jan Beutel (ETH Zurich / University of Innsbruck) and Samuel Weber installing equipment for measuring rock movements in high mountains made deployment of the measurement network possible. The data are automatically transmitted to the Swiss Seismological Service.\n\nThe seismometers recorded all movements of the mountain at high resolution, from which the team could derive the frequency and direction of resonance. The measurements show that the Matterhorn oscillates roughly in a north-south direction at a frequency of 0.42 Hertz, and in an east-west direction at a second, similar frequency (see animation). In turn, by speeding up these ambient vibration measurements 80 times, the team was able to make the vibration landscape of the Matterhorn audible to the human ear, translating the resonant frequencies into audible tones."
+    },
+    {
+      "heading": "Amplified vibrations at the summit",
+      "text": "Compared to the reference station at the foot of the Matterhorn, measured movements on the summit were up to 14 times stronger in the range of the natural frequency. For most of the team’s data these movements were small, typically in the range of nanometers to micrometers. The increase in ground motion with altitude can be explained by the fact that the summit moves freely while the foot of the mountain is fixed, comparable to a tree swaying in the wind. Such amplification of ground motion on the Matterhorn could also be measured during earthquakes, and the team notes this amplification may have important implications for slope stability in the event of strong seismic shaking. Jeff Moore of the University of Utah, who initiated the study on the Matterhorn, explains: \"areas of the mountain experiencing amplified ground motion are likely to be more prone to landslides, rockfall, and rock damage when shaken by a strong earthquake.”\n\nSuch vibrations are not a peculiarity of the Matterhorn, and the team notes that many mountains are expected to vibrate in a similar manner. Researchers from the Swiss Seismological Service carried out a complementary experiment on the Grosse Mythen as part of the study. This peak in Central Switzerland has a similar shape to the Matterhorn, but is significantly smaller. As expected, the Grosse Mythen vibrates at a frequency around 4 times higher than the Matterhorn, because smaller objects generally vibrate at higher frequencies. The scientists from the University of Utah were then able to simulate resonance of the Matterhorn and Grosse Mythen on the computer making these resonant vibrations visible. Previously, the US scientists have mainly examined smaller objects, such as rock arches in Arches National Park, Utah. \"It was exciting to see that our simulation approach also works for a large mountain like the Matterhorn and that the results were confirmed by measurement data,\" says Jeff Moore.\n\nThis text is based on a news item by Martin Heggli, WSL Institute for Snow and Avalanche Research SLF.\n\nWeber S, Beutel J, Häusler M, Geimer PR, Fäh D, Moore, JR: Spectral amplification of ground motion linked to resonance of large-scale mountain landforms. Earth and Planetary Science Letters, published online Dec 22 nd 2021. doi: 10.1016/j.epsl.2021.117295"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Mountains",
+        "label": "PERSON",
+        "start": 31,
+        "end": 40
+      },
+      {
+        "text": "Matterhorn",
+        "label": "ORG",
+        "start": 4,
+        "end": 14
+      },
+      {
+        "text": "Zermatt",
+        "label": "GPE",
+        "start": 98,
+        "end": 105
+      },
+      {
+        "text": "thousands of years",
+        "label": "DATE",
+        "start": 110,
+        "end": 128
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 169,
+        "end": 174
+      },
+      {
+        "text": "Matterhorn",
+        "label": "ORG",
+        "start": 343,
+        "end": 353
+      },
+      {
+        "text": "every two seconds",
+        "label": "TIME",
+        "start": 428,
+        "end": 445
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 547,
+        "end": 552
+      },
+      {
+        "text": "Donat Fäh",
+        "label": "ORG",
+        "start": 790,
+        "end": 799
+      },
+      {
+        "text": "the Swiss Seismological Service",
+        "label": "ORG",
+        "start": 805,
+        "end": 836
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 840,
+        "end": 850
+      },
+      {
+        "text": "Matterhorn",
+        "label": "ORG",
+        "start": 1155,
+        "end": 1165
+      },
+      {
+        "text": "Samuel Weber",
+        "label": "PERSON",
+        "start": 1173,
+        "end": 1185
+      },
+      {
+        "text": "the Technical University of Munich",
+        "label": "ORG",
+        "start": 1245,
+        "end": 1279
+      },
+      {
+        "text": "TUM",
+        "label": "ORG",
+        "start": 1281,
+        "end": 1284
+      },
+      {
+        "text": "the WSL Institute for Snow",
+        "label": "ORG",
+        "start": 1308,
+        "end": 1334
+      },
+      {
+        "text": "Avalanche Research SLF",
+        "label": "ORG",
+        "start": 1339,
+        "end": 1361
+      },
+      {
+        "text": "the Swiss Seismological Service",
+        "label": "ORG",
+        "start": 1441,
+        "end": 1472
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1476,
+        "end": 1486
+      },
+      {
+        "text": "the Institute for Computer Engineering and",
+        "label": "ORG",
+        "start": 1488,
+        "end": 1530
+      },
+      {
+        "text": "Communication Networks",
+        "label": "ORG",
+        "start": 1531,
+        "end": 1553
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1557,
+        "end": 1567
+      },
+      {
+        "text": "the Geohazards Research Group",
+        "label": "ORG",
+        "start": 1573,
+        "end": 1602
+      },
+      {
+        "text": "the University of Utah (USA",
+        "label": "ORG",
+        "start": 1606,
+        "end": 1633
+      },
+      {
+        "text": "Matterhorn",
+        "label": "ORG",
+        "start": 68,
+        "end": 78
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 90,
+        "end": 93
+      },
+      {
+        "text": "4,470 meters",
+        "label": "QUANTITY",
+        "start": 120,
+        "end": 132
+      },
+      {
+        "text": "Solvay",
+        "label": "GPE",
+        "start": 168,
+        "end": 174
+      },
+      {
+        "text": "Hörnligrat",
+        "label": "ORG",
+        "start": 245,
+        "end": 255
+      },
+      {
+        "text": "Jan Beutel",
+        "label": "PERSON",
+        "start": 365,
+        "end": 375
+      },
+      {
+        "text": "ETH Zurich / University of Innsbruck",
+        "label": "ORG",
+        "start": 377,
+        "end": 413
+      },
+      {
+        "text": "Samuel Weber",
+        "label": "PERSON",
+        "start": 419,
+        "end": 431
+      },
+      {
+        "text": "the Swiss Seismological Service",
+        "label": "ORG",
+        "start": 595,
+        "end": 626
+      },
+      {
+        "text": "Matterhorn",
+        "label": "ORG",
+        "start": 810,
+        "end": 820
+      },
+      {
+        "text": "0.42",
+        "label": "CARDINAL",
+        "start": 885,
+        "end": 889
+      },
+      {
+        "text": "Hertz",
+        "label": "ORG",
+        "start": 890,
+        "end": 895
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 932,
+        "end": 938
+      },
+      {
+        "text": "Matterhorn",
+        "label": "ORG",
+        "start": 1103,
+        "end": 1113
+      },
+      {
+        "text": "Matterhorn",
+        "label": "ORG",
+        "start": 53,
+        "end": 63
+      },
+      {
+        "text": "Matterhorn",
+        "label": "ORG",
+        "start": 503,
+        "end": 513
+      },
+      {
+        "text": "Jeff Moore",
+        "label": "PERSON",
+        "start": 687,
+        "end": 697
+      },
+      {
+        "text": "the University of Utah",
+        "label": "ORG",
+        "start": 701,
+        "end": 723
+      },
+      {
+        "text": "Matterhorn",
+        "label": "ORG",
+        "start": 756,
+        "end": 766
+      },
+      {
+        "text": "Matterhorn",
+        "label": "ORG",
+        "start": 989,
+        "end": 999
+      },
+      {
+        "text": "the Swiss Seismological Service",
+        "label": "ORG",
+        "start": 1102,
+        "end": 1133
+      },
+      {
+        "text": "Mythen",
+        "label": "GPE",
+        "start": 1187,
+        "end": 1193
+      },
+      {
+        "text": "Central Switzerland",
+        "label": "GPE",
+        "start": 1229,
+        "end": 1248
+      },
+      {
+        "text": "Matterhorn",
+        "label": "ORG",
+        "start": 1276,
+        "end": 1286
+      },
+      {
+        "text": "Mythen",
+        "label": "GPE",
+        "start": 1342,
+        "end": 1348
+      },
+      {
+        "text": "Matterhorn",
+        "label": "ORG",
+        "start": 1404,
+        "end": 1414
+      },
+      {
+        "text": "the University of Utah",
+        "label": "ORG",
+        "start": 1501,
+        "end": 1523
+      },
+      {
+        "text": "Matterhorn",
+        "label": "ORG",
+        "start": 1568,
+        "end": 1578
+      },
+      {
+        "text": "Mythen",
+        "label": "PERSON",
+        "start": 1590,
+        "end": 1596
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 1671,
+        "end": 1673
+      },
+      {
+        "text": "Arches National Park",
+        "label": "FAC",
+        "start": 1746,
+        "end": 1766
+      },
+      {
+        "text": "Utah",
+        "label": "GPE",
+        "start": 1768,
+        "end": 1772
+      },
+      {
+        "text": "Matterhorn",
+        "label": "ORG",
+        "start": 1868,
+        "end": 1878
+      },
+      {
+        "text": "Jeff Moore",
+        "label": "PERSON",
+        "start": 1942,
+        "end": 1952
+      },
+      {
+        "text": "Martin Heggli",
+        "label": "PERSON",
+        "start": 1991,
+        "end": 2004
+      },
+      {
+        "text": "WSL Institute for Snow",
+        "label": "ORG",
+        "start": 2006,
+        "end": 2028
+      },
+      {
+        "text": "Avalanche Research SLF",
+        "label": "ORG",
+        "start": 2033,
+        "end": 2055
+      },
+      {
+        "text": "Beutel J",
+        "label": "PERSON",
+        "start": 2066,
+        "end": 2074
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 2211,
+        "end": 2216
+      },
+      {
+        "text": "Dec 22 nd 2021",
+        "label": "DATE",
+        "start": 2265,
+        "end": 2279
+      },
+      {
+        "text": "10.1016",
+        "label": "CARDINAL",
+        "start": 2286,
+        "end": 2293
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Beutel J",
+        "Jan Beutel",
+        "Jeff Moore",
+        "Martin Heggli",
+        "Mountains",
+        "Mythen",
+        "Samuel Weber"
+      ],
+      "ORG": [
+        "Avalanche Research SLF",
+        "Communication Networks",
+        "Donat Fäh",
+        "ETH Zurich",
+        "ETH Zurich / University of Innsbruck",
+        "Hertz",
+        "Hörnligrat",
+        "Matterhorn",
+        "TUM",
+        "WSL Institute for Snow",
+        "the Geohazards Research Group",
+        "the Institute for Computer Engineering and",
+        "the Swiss Seismological Service",
+        "the Technical University of Munich",
+        "the University of Utah",
+        "the University of Utah (USA",
+        "the WSL Institute for Snow"
+      ],
+      "LOCATION": [
+        "Arches National Park",
+        "Central Switzerland",
+        "Earth",
+        "Mythen",
+        "Solvay",
+        "US",
+        "Utah",
+        "Zermatt"
+      ],
+      "DATE": [
+        "Dec 22 nd 2021",
+        "every two seconds",
+        "thousands of years"
+      ],
+      "MISC": [
+        "0.42",
+        "10.1016",
+        "4,470 meters",
+        "one",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "Matterhorn": 14,
+      "the Swiss Seismological Service": 4,
+      "Earth": 3,
+      "ETH Zurich": 3,
+      "Mythen": 3,
+      "Samuel Weber": 2,
+      "Avalanche Research SLF": 2,
+      "Jeff Moore": 2,
+      "the University of Utah": 2,
+      "Mountains": 1,
+      "Zermatt": 1,
+      "thousands of years": 1,
+      "every two seconds": 1,
+      "Donat Fäh": 1,
+      "the Technical University of Munich": 1,
+      "TUM": 1,
+      "the WSL Institute for Snow": 1,
+      "the Institute for Computer Engineering and": 1,
+      "Communication Networks": 1,
+      "the Geohazards Research Group": 1
+    },
+    "total_entities": 65,
+    "unique_entities": 39
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "swaying-mountains.md",
+      "title": "En News Events/2021/12/swaying Mountains",
+      "language": "en",
+      "source_path": "en_news_events/2021/12/swaying-mountains.html"
+    },
+    "temporal": {
+      "publication_date": "2021-12",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Beutel J",
+        "Jan Beutel",
+        "Jeff Moore",
+        "Martin Heggli",
+        "Mountains",
+        "Mythen",
+        "Samuel Weber"
+      ],
+      "people_with_roles": {
+        "Mythen": [
+          "scientist",
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "0.42",
+        "10.1016",
+        "4,470 meters",
+        "second"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Central Switzerland",
+        "Jan Beutel",
+        "Planetary Science",
+        "Samuel Weber",
+        "Computer Engineering",
+        "Martin Heggli",
+        "Technical University",
+        "Mountains The",
+        "WSL Institute",
+        "Arches National",
+        "Grosse Mythen",
+        "Jeff Moore",
+        "Communication Networks",
+        "Geohazards Research",
+        "Geimer PR",
+        "En News",
+        "Swiss Seismological",
+        "Avalanche Research",
+        "Weber S",
+        "ETH Zurich",
+        "Beutel J"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Snow and Avalanche Research SLF",
+        "Computer Engineering and Communication Networks at ETH Zurich",
+        "Snow and Avalanche Research SLF"
+      ],
+      "institutions": [
+        "Avalanche Research SLF",
+        "Communication Networks",
+        "Donat Fäh",
+        "ETH Zurich",
+        "ETH Zurich / University of Innsbruck",
+        "Hertz",
+        "Hörnligrat",
+        "Matterhorn",
+        "TUM",
+        "WSL Institute for Snow",
+        "the Geohazards Research Group",
+        "the Institute for Computer Engineering and",
+        "the Swiss Seismological Service",
+        "the Technical University of Munich",
+        "the University of Utah",
+        "the University of Utah (USA",
+        "the WSL Institute for Snow"
+      ],
+      "locations": [
+        "Arches National Park",
+        "Central Switzerland",
+        "Earth",
+        "Mythen",
+        "Solvay",
+        "US",
+        "Utah",
+        "Zermatt"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Matterhorn",
+        "the Swiss Seismological Service",
+        "Earth",
+        "ETH Zurich",
+        "Mythen",
+        "Samuel Weber",
+        "Avalanche Research SLF",
+        "Jeff Moore",
+        "the University of Utah",
+        "Mountains"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "High alpine measuring devices",
+          "High alpine measuring devices",
+          "Amplified vibrations at the summit"
+        ],
+        "content_length": 5246
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Donat Fäh",
+        "the Geohazards Research Group",
+        "TUM",
+        "the WSL Institute for Snow",
+        "Jan Beutel",
+        "Samuel Weber",
+        "ERC",
+        "WSL Institute for Snow",
+        "Hörnligrat",
+        "the Institute for Computer Engineering and",
+        "the University of Utah (USA",
+        "Martin Heggli",
+        "ETH Zurich / University of Innsbruck",
+        "the Technical University of Munich",
+        "Mythen",
+        "EU",
+        "Jeff Moore",
+        "Communication Networks",
+        "Avalanche Research SLF",
+        "the Swiss Seismological Service",
+        "the University of Utah",
+        "Matterhorn",
+        "ETH Zurich",
+        "2021",
+        "Hertz",
+        "Mountains",
+        "Beutel J"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1016",
+        "who",
+        "what",
+        "second",
+        "how",
+        "4,470 meters",
+        "0.42",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Mythen_has_role_scientist",
+        "Mythen_has_role_researcher",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "filename": "people-and-technology-at-Zurichs-main-station.md",
+  "original_filename": "people-and-technology-at-Zurichs-main-station.html",
+  "source_path": "en_news_events/2019/08/people-and-technology-at-Zurichs-main-station.html",
+  "date": "2019-08",
+  "title": "People And Technology At Zurichs Main Station",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Races in four disciplines",
+      "text": "For Weltklasse Zürich, the events at the main station, which are held before the track and field meeting at the Letzigrund stadium takes place, already have a long tradition. They have now presented several demonstration contests together with Cybathlon.\n\nThe pilots – as the Cybathlon competitors are called – used exciting demonstration contests to show how innovative technology can support people with disabilities in their everyday lives. The audiences at Zurich’s main station provided plenty of enthusiasm as they got a taste of what to expect during the major international competition in May 2020 at the SWISS arena in Kloten."
+    },
+    {
+      "heading": "Races in four disciplines",
+      "text": "An agility course for people with arm prostheses, an obstacle course for people with leg prostheses, and a course for people with robotic exoskeletons and motorised wheelchairs were each completed by two teams. As is characteristic of the Cybathlon, the teams had to complete challenges designed to resemble everyday tasks as closely as possible. This provided the audiences with impressive proof that neither feeling various objects in a box nor climbing stairs are straightforward for people with physical disabilities, but that these challenges can be overcome using modern technology. The pilots were racing head-to-head in the respective disciplines. Congratulations, however, always came from the heart and emphasized that in the end they all share the same goal: To advance the development of assistance systems and above all to show the public what is possible thanks to these aids. \"I think it is important for us prosthesis wearers to be noticed in public and this is exactly what the event makes possible,\" explains leg prosthesis pilot Stefan Poth from the ETH team NeuroLegs."
+    },
+    {
+      "heading": "Impressed experts",
+      "text": "The pilots and their teams were not the only ones involved in the Cybathlon Experience at Zurich main station. After the races, experts such as Rüdiger Böhm and Michel Fornasier had their say. Long jumper Benjamin Gföhler was also convinced by the performance of the pilots and the science behind it and was impressed: \"It is incredible how the pilots deal with their disability. Also the team behind them is impressive - my team is much smaller.”\n\nThe Cybathlon will once again be held in the Swiss Arena in Kloten on 2 and 3 May 2020. The event, which was first held in May 2016, sees people with disabilities complete everyday tasks using cutting-edge technological assistive systems. The goal of the Cybathlon is to provide a platform to promote the development of assistive technologies that help people with disabilities in the best way possible. At the same time, the goal of Cybathlon is to break down barriers between society, people with disabilities and technology developers. Tickets are available via: Ticketcorner"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Letzigrund",
+        "label": "LOC",
+        "start": 112,
+        "end": 122
+      },
+      {
+        "text": "Cybathlon",
+        "label": "ORG",
+        "start": 244,
+        "end": 253
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 460,
+        "end": 466
+      },
+      {
+        "text": "May 2020",
+        "label": "DATE",
+        "start": 596,
+        "end": 604
+      },
+      {
+        "text": "Kloten",
+        "label": "GPE",
+        "start": 627,
+        "end": 633
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 200,
+        "end": 203
+      },
+      {
+        "text": "Cybathlon",
+        "label": "ORG",
+        "start": 239,
+        "end": 248
+      },
+      {
+        "text": "Stefan Poth",
+        "label": "PERSON",
+        "start": 1048,
+        "end": 1059
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1069,
+        "end": 1072
+      },
+      {
+        "text": "NeuroLegs",
+        "label": "PRODUCT",
+        "start": 1078,
+        "end": 1087
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 90,
+        "end": 96
+      },
+      {
+        "text": "Rüdiger Böhm",
+        "label": "PERSON",
+        "start": 144,
+        "end": 156
+      },
+      {
+        "text": "Michel Fornasier",
+        "label": "PERSON",
+        "start": 161,
+        "end": 177
+      },
+      {
+        "text": "Benjamin Gföhler",
+        "label": "PERSON",
+        "start": 205,
+        "end": 221
+      },
+      {
+        "text": "the Swiss Arena in Kloten",
+        "label": "ORG",
+        "start": 489,
+        "end": 514
+      },
+      {
+        "text": "3 May 2020",
+        "label": "DATE",
+        "start": 524,
+        "end": 534
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 557,
+        "end": 562
+      },
+      {
+        "text": "May 2016",
+        "label": "DATE",
+        "start": 571,
+        "end": 579
+      },
+      {
+        "text": "Cybathlon",
+        "label": "ORG",
+        "start": 703,
+        "end": 712
+      },
+      {
+        "text": "Cybathlon",
+        "label": "ORG",
+        "start": 882,
+        "end": 891
+      },
+      {
+        "text": "Ticketcorner",
+        "label": "PERSON",
+        "start": 1014,
+        "end": 1026
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Benjamin Gföhler",
+        "Michel Fornasier",
+        "Rüdiger Böhm",
+        "Stefan Poth",
+        "Ticketcorner"
+      ],
+      "ORG": [
+        "Cybathlon",
+        "ETH",
+        "the Swiss Arena in Kloten"
+      ],
+      "LOCATION": [
+        "Kloten",
+        "Letzigrund",
+        "Zurich"
+      ],
+      "DATE": [
+        "3 May 2020",
+        "May 2016",
+        "May 2020"
+      ],
+      "MISC": [
+        "NeuroLegs",
+        "first",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Cybathlon": 4,
+      "Zurich": 2,
+      "Letzigrund": 1,
+      "May 2020": 1,
+      "Kloten": 1,
+      "two": 1,
+      "Stefan Poth": 1,
+      "ETH": 1,
+      "NeuroLegs": 1,
+      "Rüdiger Böhm": 1,
+      "Michel Fornasier": 1,
+      "Benjamin Gföhler": 1,
+      "the Swiss Arena in Kloten": 1,
+      "3 May 2020": 1,
+      "first": 1,
+      "May 2016": 1,
+      "Ticketcorner": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "people-and-technology-at-Zurichs-main-station.md",
+      "title": "En News Events/2019/08/people And Technology At Zurichs Main Station",
+      "language": "en",
+      "source_path": "en_news_events/2019/08/people-and-technology-at-Zurichs-main-station.html"
+    },
+    "temporal": {
+      "publication_date": "2019-08",
+      "mentioned_years": [
+        "2016",
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Benjamin Gföhler",
+        "Michel Fornasier",
+        "Rüdiger Böhm",
+        "Stefan Poth",
+        "Ticketcorner"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "chair",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "NeuroLegs",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "And Technology",
+        "En News",
+        "Stefan Poth",
+        "Cybathlon Experience",
+        "Swiss Arena",
+        "Michel Fornasier",
+        "The Cybathlon",
+        "At Zurichs",
+        "Main Station",
+        "For Weltklasse"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cybathlon",
+        "ETH",
+        "the Swiss Arena in Kloten"
+      ],
+      "locations": [
+        "Kloten",
+        "Letzigrund",
+        "Zurich"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Cybathlon",
+        "Zurich",
+        "Letzigrund",
+        "May 2020",
+        "Kloten",
+        "two",
+        "Stefan Poth",
+        "ETH",
+        "NeuroLegs",
+        "Rüdiger Böhm"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Races in four disciplines",
+          "Races in four disciplines",
+          "Impressed experts"
+        ],
+        "content_length": 2821
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Benjamin Gföhler",
+        "ETH",
+        "Cybathlon",
+        "Stefan Poth",
+        "2019",
+        "EU",
+        "2020",
+        "2016",
+        "Ticketcorner",
+        "Michel Fornasier",
+        "the Swiss Arena in Kloten",
+        "Rüdiger Böhm",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "when",
+        "what",
+        "how",
+        "why",
+        "NeuroLegs",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

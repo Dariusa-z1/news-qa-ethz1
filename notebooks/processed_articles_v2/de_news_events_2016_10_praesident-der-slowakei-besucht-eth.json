@@ -1,0 +1,416 @@
+{
+  "filename": "de_news_events_2016_10_praesident-der-slowakei-besucht-eth.md",
+  "original_filename": "de_news_events_2016_10_praesident-der-slowakei-besucht-eth.html",
+  "source_path": "de_news_events/2016/10/praesident-der-slowakei-besucht-eth.html",
+  "date": "2016-10",
+  "title": "Praesident Der Slowakei Besucht Eth",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Hoher Gast an der ETH Zürich: Der slowakische Präsident Andrej Kiska besuchte gemeinsam mit seinem Gastgeber, dem Bundespräsidenten Johann N. Schneider-Ammann, den Campus Hönggerberg der ETH Zürich. Begleitet wurde der Präsident der Slowakei von Vertretern verschiedener Ministerien sowie einer rund 15-köpfigen Wissenschafts- und Wirtschaftsdelegation.\n\nETH-Präsident Lino Guzzella empfing seine Gäste im futuristisch anmutenden HIB-Gebäude. Der kürzlich fertiggestellte Neubau war ausgewählt worden, um dem Präsidenten der Slowakei nicht nur in Worten, sondern ganz konkret Einblicke in die innovative Forschungsarbeit an der ETH zu geben. So besichtigte die Delegation auch die grossräumige Robotikhalle des Arch-Tec-Labs. Hier erforschen Wissenschaftler Bauprozesse, digitale Fertigung und Gebäudetechnik.\n\nZuvor hatte Lino Guzzella einen Überblick über die ETH Zürich gegeben. Präsident Andrej Kiska zeigte sich vor allem von dem Bericht über den Cybathlon tief beeindruckt und bedauerte, dass die slowakischen Hochschulen bislang nicht zu den führenden 500 weltweit zählten, obwohl es jedoch einige führende Köpfe besonders in der Technik gebe. So prägte Kiskas Landsmann Aurel Stodola Anfang des 20. Jahrhunderts als ETH-Professor für Maschinenbau die Forschung in diesem Bereich, wie Lino Guzzella in seinem Vortrag berichtete. Kiska, dessen Land seit Juli die EU-Ratspräsidentschaft innehat, plädierte zudem für den Ausbau der europaweiten Zusammenarbeit und traf sich mit der slowakischen Community an der ETH Zürich.\n\nWährend die Delegation aus slowakischen Wissenschaftlern und Unternehmern sich anschliessend mit Detlef Günther, dem ETH-Vizepräsidenten für Forschung und Wirtschaftsbeziehungen, ausführlich austauschte und das Hauptgebäude besuchte, reisten Bundespräsident Schneider-Ammann und sein Gast Präsident Kiska zu weiterführenden Gesprächen nach Bern."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Slowakei",
+        "label": "LOC",
+        "start": 38,
+        "end": 46
+      },
+      {
+        "text": "Hoher Gast",
+        "label": "MISC",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 18,
+        "end": 28
+      },
+      {
+        "text": "slowakische",
+        "label": "MISC",
+        "start": 34,
+        "end": 45
+      },
+      {
+        "text": "Andrej Kiska",
+        "label": "PER",
+        "start": 56,
+        "end": 68
+      },
+      {
+        "text": "Johann N. Schneider-Ammann",
+        "label": "PER",
+        "start": 132,
+        "end": 158
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 171,
+        "end": 182
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 187,
+        "end": 197
+      },
+      {
+        "text": "Begleitet",
+        "label": "PER",
+        "start": 199,
+        "end": 208
+      },
+      {
+        "text": "Slowakei",
+        "label": "LOC",
+        "start": 233,
+        "end": 241
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PER",
+        "start": 368,
+        "end": 381
+      },
+      {
+        "text": "HIB-Gebäude",
+        "label": "MISC",
+        "start": 429,
+        "end": 440
+      },
+      {
+        "text": "Slowakei",
+        "label": "LOC",
+        "start": 524,
+        "end": 532
+      },
+      {
+        "text": "Worten",
+        "label": "LOC",
+        "start": 546,
+        "end": 552
+      },
+      {
+        "text": "konkret Einblicke",
+        "label": "PER",
+        "start": 567,
+        "end": 584
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 627,
+        "end": 630
+      },
+      {
+        "text": "Arch-Tec-Labs",
+        "label": "LOC",
+        "start": 710,
+        "end": 723
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PER",
+        "start": 821,
+        "end": 834
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 860,
+        "end": 870
+      },
+      {
+        "text": "Andrej Kiska",
+        "label": "PER",
+        "start": 890,
+        "end": 902
+      },
+      {
+        "text": "slowakischen",
+        "label": "MISC",
+        "start": 1001,
+        "end": 1013
+      },
+      {
+        "text": "Aurel Stodola",
+        "label": "PER",
+        "start": 1176,
+        "end": 1189
+      },
+      {
+        "text": "ETH-Professor",
+        "label": "MISC",
+        "start": 1222,
+        "end": 1235
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PER",
+        "start": 1290,
+        "end": 1303
+      },
+      {
+        "text": "Kiska",
+        "label": "PER",
+        "start": 1334,
+        "end": 1339
+      },
+      {
+        "text": "EU-Ratspräsidentschaft",
+        "label": "ORG",
+        "start": 1367,
+        "end": 1389
+      },
+      {
+        "text": "slowakischen",
+        "label": "MISC",
+        "start": 1484,
+        "end": 1496
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1514,
+        "end": 1524
+      },
+      {
+        "text": "slowakischen",
+        "label": "MISC",
+        "start": 1553,
+        "end": 1565
+      },
+      {
+        "text": "Detlef Günther",
+        "label": "PER",
+        "start": 1623,
+        "end": 1637
+      },
+      {
+        "text": "ETH-Vizepräsidenten für Forschung und Wirtschaftsbeziehungen",
+        "label": "ORG",
+        "start": 1643,
+        "end": 1703
+      },
+      {
+        "text": "Schneider-Ammann",
+        "label": "LOC",
+        "start": 1784,
+        "end": 1800
+      },
+      {
+        "text": "Kiska",
+        "label": "LOC",
+        "start": 1825,
+        "end": 1830
+      },
+      {
+        "text": "Bern",
+        "label": "LOC",
+        "start": 1866,
+        "end": 1870
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andrej Kiska",
+        "Aurel Stodola",
+        "Begleitet",
+        "Detlef Günther",
+        "Johann N. Schneider-Ammann",
+        "Kiska",
+        "Lino Guzzella",
+        "konkret Einblicke"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "ETH-Vizepräsidenten für Forschung und Wirtschaftsbeziehungen",
+        "EU-Ratspräsidentschaft"
+      ],
+      "LOCATION": [
+        "Arch-Tec-Labs",
+        "Bern",
+        "Hönggerberg",
+        "Kiska",
+        "Schneider-Ammann",
+        "Slowakei",
+        "Worten"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Professor",
+        "HIB-Gebäude",
+        "Hoher Gast",
+        "slowakische",
+        "slowakischen"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 4,
+      "Slowakei": 3,
+      "Lino Guzzella": 3,
+      "slowakischen": 3,
+      "Andrej Kiska": 2,
+      "Kiska": 2,
+      "Hoher Gast": 1,
+      "slowakische": 1,
+      "Johann N. Schneider-Ammann": 1,
+      "Hönggerberg": 1,
+      "Begleitet": 1,
+      "HIB-Gebäude": 1,
+      "Worten": 1,
+      "konkret Einblicke": 1,
+      "ETH": 1,
+      "Arch-Tec-Labs": 1,
+      "Aurel Stodola": 1,
+      "ETH-Professor": 1,
+      "EU-Ratspräsidentschaft": 1,
+      "Detlef Günther": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2016_10_praesident-der-slowakei-besucht-eth.md",
+      "title": "De News Events/2016/10/praesident der Slowakei Besucht Eth",
+      "language": "de",
+      "source_path": "de_news_events/2016/10/praesident-der-slowakei-besucht-eth.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Andrej Kiska",
+        "Aurel Stodola",
+        "Begleitet",
+        "Detlef Günther",
+        "Johann N. Schneider-Ammann",
+        "Kiska",
+        "Lino Guzzella",
+        "konkret Einblicke"
+      ],
+      "people_with_roles": {
+        "Lino Guzzella": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Professor",
+        "HIB-Gebäude",
+        "Hoher Gast",
+        "slowakische",
+        "slowakischen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Johann N",
+        "Aurel Stodola",
+        "Schneider-Ammann",
+        "Eth Hoher",
+        "Kiskas Landsmann",
+        "Arch-Tec",
+        "De News",
+        "Andrej Kiska",
+        "ETH-Professor",
+        "Slowakei Besucht",
+        "Lino Guzzella",
+        "Wissenschaftler Bauprozesse"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "ETH-Vizepräsidenten für Forschung und Wirtschaftsbeziehungen",
+        "EU-Ratspräsidentschaft"
+      ],
+      "locations": [
+        "Arch-Tec-Labs",
+        "Bern",
+        "Hönggerberg",
+        "Kiska",
+        "Schneider-Ammann",
+        "Slowakei",
+        "Worten"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "Slowakei",
+        "Lino Guzzella",
+        "slowakischen",
+        "Andrej Kiska",
+        "Kiska",
+        "Hoher Gast",
+        "slowakische",
+        "Johann N. Schneider-Ammann",
+        "Hönggerberg"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1933
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Aurel Stodola",
+        "Detlef Günther",
+        "konkret Einblicke",
+        "ETH-Vizepräsidenten für Forschung und Wirtschaftsbeziehungen",
+        "EU",
+        "2016",
+        "ETH Zürich",
+        "EU-Ratspräsidentschaft",
+        "Johann N. Schneider-Ammann",
+        "Begleitet",
+        "Andrej Kiska",
+        "Kiska",
+        "Lino Guzzella"
+      ],
+      "semantic_concepts": [
+        "slowakische",
+        "who",
+        "slowakischen",
+        "HIB-Gebäude",
+        "ETH-Professor",
+        "Hoher Gast"
+      ],
+      "graph_relations": [
+        "Lino Guzzella_has_role_professor"
+      ]
+    }
+  }
+}

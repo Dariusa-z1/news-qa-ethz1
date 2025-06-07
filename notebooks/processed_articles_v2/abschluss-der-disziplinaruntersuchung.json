@@ -1,0 +1,203 @@
+{
+  "filename": "abschluss-der-disziplinaruntersuchung.md",
+  "original_filename": "abschluss-der-disziplinaruntersuchung.html",
+  "source_path": "de_news_events/2019/01/abschluss-der-disziplinaruntersuchung.html",
+  "date": "2019-01",
+  "title": "Abschluss Der Disziplinaruntersuchung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Im September 2018 leitete die ETH Zürich eine Disziplinaruntersuchung gegen einen Professor des Departements Architektur ein. Die durch einen externen unabhängigen Untersuchungsführer durchgeführte und nun abgeschlossene Untersuchung entlastet den Professor vom Vorwurf sexueller Belästigung. Der Untersuchungsführer kommt zum Schluss, dass der Professor es versäumt hat, seine persönlichen und beruflichen Beziehungen adäquat zu trennen, weshalb sein Verhalten nicht im Einklang mit dem Compliance Guide der ETH Zürich sei.\n\nAufgrund der langen Verfahrensdauer und der damit verbundenen persönlichen und beruflichen Belastung hat sich der betroffene Professor entschieden, die ETH Zürich per Ende Juli 2019 zu verlassen und sich einer neuen Herausforderung zu stellen. Die ETH entbindet ihn auf sein Ersuchen bis Ende Semester von seiner Lehrtätigkeit, damit er sich vollumfänglich dem Abschluss seiner Forschungsprojekte widmen kann.\n\nDer Präsident der ETH Zürich nimmt den Entscheid des Professors zur Kenntnis und leitet diesen an den ETH-Rat weiter, der für die Anstellungsverhältnisse der Professorinnen und Professoren zuständig ist. Damit ist das Untersuchungsverfahren abgeschlossen.\n\nETH Zürich Medienstelle Telefon: +41 44 632 41 41"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Disziplinaruntersuchung",
+        "label": "ORG",
+        "start": 37,
+        "end": 60
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 30,
+        "end": 40
+      },
+      {
+        "text": "Departements",
+        "label": "LOC",
+        "start": 96,
+        "end": 108
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 509,
+        "end": 519
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 677,
+        "end": 687
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 773,
+        "end": 776
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 953,
+        "end": 963
+      },
+      {
+        "text": "ETH-Rat",
+        "label": "ORG",
+        "start": 1037,
+        "end": 1044
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1191,
+        "end": 1201
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News"
+      ],
+      "ORG": [
+        "Disziplinaruntersuchung",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Rat"
+      ],
+      "LOCATION": [
+        "Departements"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zürich": 5,
+      "De News": 1,
+      "Disziplinaruntersuchung": 1,
+      "Departements": 1,
+      "ETH": 1,
+      "ETH-Rat": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "abschluss-der-disziplinaruntersuchung.md",
+      "title": "De News Events/2019/01/abschluss der Disziplinaruntersuchung",
+      "language": "de",
+      "source_path": "de_news_events/2019/01/abschluss-der-disziplinaruntersuchung.html"
+    },
+    "temporal": {
+      "publication_date": "2019-01",
+      "mentioned_years": [
+        "2018",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News"
+      ],
+      "people_with_roles": {
+        "De News": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Compliance Guide",
+        "Departements Architektur",
+        "Medienstelle Telefon",
+        "ETH-Rat",
+        "De News",
+        "Die ETH",
+        "Ende Semester",
+        "Disziplinaruntersuchung Im",
+        "Ende Juli"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Disziplinaruntersuchung",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Rat"
+      ],
+      "locations": [
+        "Departements"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "De News",
+        "Disziplinaruntersuchung",
+        "Departements",
+        "ETH",
+        "ETH-Rat"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1304
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "Disziplinaruntersuchung",
+        "2019",
+        "EU",
+        "ETH-Rat",
+        "ETH Zürich",
+        "De News"
+      ],
+      "semantic_concepts": [
+        "who"
+      ],
+      "graph_relations": [
+        "De News_has_role_professor"
+      ]
+    }
+  }
+}

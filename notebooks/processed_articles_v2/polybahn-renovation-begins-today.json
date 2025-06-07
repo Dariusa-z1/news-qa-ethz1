@@ -1,0 +1,300 @@
+{
+  "filename": "polybahn-renovation-begins-today.md",
+  "original_filename": "polybahn-renovation-begins-today.html",
+  "source_path": "en_internal/2021/05/polybahn-renovation-begins-today.html",
+  "date": "2021-05",
+  "title": "Polybahn Renovation Begins Today",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Polybahn transports around two million people between the Central public transport stop and the Polyterrasse each year, including many members of ETH Zurich. It was also named after the “Polytechnic”, as the ETH was known in the years following its foundation. Together with the VBZ and ZVV, UBS is responsible for its operation and timetable.\n\nThe Polybahn, which has been running unstaffed since 1996, is now about to undergo a complete renovation and servicing. The work will last from 30 May to 17 September 2021, and the Polybahn will be closed during this time. For ETH members, tram lines 6 and 10 from Central to ETH/Universitätsspital will remain available during the closure.\n\nAccording to media reports, the renovation work will cost CHF 3 million, and the nostalgic appearance of the Polybahn will be preserved. The elements to be replaced include the floors and seats of the two carriages, as well as the motor."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Renovation Begins",
+        "label": "PERSON",
+        "start": 29,
+        "end": 46
+      },
+      {
+        "text": "Polybahn",
+        "label": "ORG",
+        "start": 4,
+        "end": 12
+      },
+      {
+        "text": "around two million",
+        "label": "CARDINAL",
+        "start": 24,
+        "end": 42
+      },
+      {
+        "text": "Central",
+        "label": "ORG",
+        "start": 62,
+        "end": 69
+      },
+      {
+        "text": "each year",
+        "label": "DATE",
+        "start": 113,
+        "end": 122
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 150,
+        "end": 160
+      },
+      {
+        "text": "the “Polytechnic”",
+        "label": "EVENT",
+        "start": 186,
+        "end": 203
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 212,
+        "end": 215
+      },
+      {
+        "text": "the years",
+        "label": "DATE",
+        "start": 229,
+        "end": 238
+      },
+      {
+        "text": "VBZ",
+        "label": "ORG",
+        "start": 283,
+        "end": 286
+      },
+      {
+        "text": "ZVV",
+        "label": "ORG",
+        "start": 291,
+        "end": 294
+      },
+      {
+        "text": "UBS",
+        "label": "ORG",
+        "start": 296,
+        "end": 299
+      },
+      {
+        "text": "Polybahn",
+        "label": "ORG",
+        "start": 352,
+        "end": 360
+      },
+      {
+        "text": "30 May to 17 September 2021",
+        "label": "DATE",
+        "start": 492,
+        "end": 519
+      },
+      {
+        "text": "Polybahn",
+        "label": "ORG",
+        "start": 529,
+        "end": 537
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 575,
+        "end": 578
+      },
+      {
+        "text": "Central",
+        "label": "ORG",
+        "start": 613,
+        "end": 620
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 747,
+        "end": 750
+      },
+      {
+        "text": "3 million",
+        "label": "CARDINAL",
+        "start": 751,
+        "end": 760
+      },
+      {
+        "text": "Polybahn",
+        "label": "ORG",
+        "start": 798,
+        "end": 806
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 890,
+        "end": 893
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Renovation Begins"
+      ],
+      "ORG": [
+        "CHF",
+        "Central",
+        "ETH",
+        "Polybahn",
+        "UBS",
+        "VBZ",
+        "ZVV"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "30 May to 17 September 2021",
+        "each year",
+        "the years"
+      ],
+      "MISC": [
+        "3 million",
+        "around two million",
+        "the “Polytechnic”",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Polybahn": 4,
+      "Central": 2,
+      "ETH": 2,
+      "Renovation Begins": 1,
+      "around two million": 1,
+      "each year": 1,
+      "ETH Zurich": 1,
+      "the “Polytechnic”": 1,
+      "the years": 1,
+      "VBZ": 1,
+      "ZVV": 1,
+      "UBS": 1,
+      "30 May to 17 September 2021": 1,
+      "CHF": 1,
+      "3 million": 1,
+      "two": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "polybahn-renovation-begins-today.md",
+      "title": "En Internal/2021/05/polybahn Renovation Begins Today",
+      "language": "en",
+      "source_path": "en_internal/2021/05/polybahn-renovation-begins-today.html"
+    },
+    "temporal": {
+      "publication_date": "2021-05",
+      "mentioned_years": [
+        "1996",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Renovation Begins"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "3 million",
+        "around two million",
+        "the “Polytechnic”"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "For ETH",
+        "Today The",
+        "Renovation Begins",
+        "En Internal",
+        "ETH Zurich",
+        "The Polybahn"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CHF",
+        "Central",
+        "ETH",
+        "Polybahn",
+        "UBS",
+        "VBZ",
+        "ZVV"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Polybahn",
+        "Central",
+        "ETH",
+        "Renovation Begins",
+        "around two million",
+        "each year",
+        "ETH Zurich",
+        "the “Polytechnic”",
+        "the years",
+        "VBZ"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 981
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Polybahn",
+        "ETH",
+        "CHF",
+        "1996",
+        "VBZ",
+        "Renovation Begins",
+        "Central",
+        "ZVV",
+        "ETH Zurich",
+        "2021",
+        "UBS"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "around two million",
+        "the “Polytechnic”",
+        "when",
+        "where",
+        "3 million"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

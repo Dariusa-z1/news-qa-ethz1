@@ -1,0 +1,171 @@
+{
+  "filename": "de_internal_2019_11_jahresbericht-2018-des-hochschularchivs-der-eth-zuerich.md",
+  "original_filename": "de_internal_2019_11_jahresbericht-2018-des-hochschularchivs-der-eth-zuerich.html",
+  "source_path": "de_internal/2019/11/jahresbericht-2018-des-hochschularchivs-der-eth-zuerich.html",
+  "date": "2019-11",
+  "title": "Jahresbericht 2018 Des Hochschularchivs Der Eth Zuerich",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das Hochschularchiv gehört zur ETH-Bibliothek und ist zuständig für die Sicherung, Erschliessung und Vermittlung wichtiger Unterlagen der ETH Zürich und des ETH-Rates wie auch von Nachlässen bedeutender ehemaliger ETH-Angehöriger.\n\n#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/11/jahresbericht",
+        "label": "LOC",
+        "start": 0,
+        "end": 33
+      },
+      {
+        "text": "Eth Zuerich",
+        "label": "LOC",
+        "start": 64,
+        "end": 75
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 31,
+        "end": 45
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 138,
+        "end": 148
+      },
+      {
+        "text": "ETH-Rates",
+        "label": "MISC",
+        "start": 157,
+        "end": 166
+      },
+      {
+        "text": "Nachlässen",
+        "label": "PER",
+        "start": 180,
+        "end": 190
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 274,
+        "end": 288
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Nachlässen"
+      ],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2019/11/jahresbericht",
+        "Eth Zuerich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "ETH-Rates"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 2,
+      "De Internal/2019/11/jahresbericht": 1,
+      "Eth Zuerich": 1,
+      "ETH Zürich": 1,
+      "ETH-Rates": 1,
+      "Nachlässen": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_11_jahresbericht-2018-des-hochschularchivs-der-eth-zuerich.md",
+      "title": "De Internal/2019/11/jahresbericht 2018 des Hochschularchivs der Eth Zuerich",
+      "language": "de",
+      "source_path": "de_internal/2019/11/jahresbericht-2018-des-hochschularchivs-der-eth-zuerich.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2018",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Nachlässen"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "ETH-Rates"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "De Internal",
+        "ETH-Rates",
+        "Eth Zuerich",
+        "Das Hochschularchiv"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2019/11/jahresbericht",
+        "Eth Zuerich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2019/11/jahresbericht",
+        "Eth Zuerich",
+        "ETH Zürich",
+        "ETH-Rates",
+        "Nachlässen"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 422
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "2019",
+        "EU",
+        "Nachlässen",
+        "ETH Zürich"
+      ],
+      "semantic_concepts": [
+        "ETH-Rates",
+        "ETH-Bibliothek"
+      ],
+      "graph_relations": []
+    }
+  }
+}

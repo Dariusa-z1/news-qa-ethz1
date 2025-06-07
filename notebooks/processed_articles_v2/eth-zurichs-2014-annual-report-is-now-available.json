@@ -1,0 +1,250 @@
+{
+  "filename": "eth-zurichs-2014-annual-report-is-now-available.md",
+  "original_filename": "eth-zurichs-2014-annual-report-is-now-available.html",
+  "source_path": "en_internal/2015/04/eth-zurichs-2014-annual-report-is-now-available.html",
+  "date": "2015-04",
+  "title": "Eth Zurichs 2014 Annual Report Is Now Available",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH Zurich continued to grow in 2014. By the end of the year, some 18,500 men and women in total had studied at ETH Zurich during the period under review – more than ever before.\n\nThis growth is also reflected in ETH Zurich’s financial figures. The university’s total expenditure reached CHF 1,556 million in 2014, an increase of 2.9 percent on the previous year.\n\nYou can find all this information and more about ETH Zurich in the 2014 Annual Report, which has just been published by the Executive Board. ETH Zurich’s Annual Report contains short features, attractive photographs and charts showing the most significant achievements, developments and events of the past year."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "the end of the year",
+        "label": "DATE",
+        "start": 41,
+        "end": 60
+      },
+      {
+        "text": "some 18,500",
+        "label": "CARDINAL",
+        "start": 62,
+        "end": 73
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 112,
+        "end": 122
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 216,
+        "end": 222
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 287,
+        "end": 290
+      },
+      {
+        "text": "1,556 million",
+        "label": "CARDINAL",
+        "start": 291,
+        "end": 304
+      },
+      {
+        "text": "2.9 percent",
+        "label": "PERCENT",
+        "start": 329,
+        "end": 340
+      },
+      {
+        "text": "the previous year",
+        "label": "DATE",
+        "start": 344,
+        "end": 361
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 412,
+        "end": 422
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 483,
+        "end": 502
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 504,
+        "end": 516
+      },
+      {
+        "text": "Annual",
+        "label": "DATE",
+        "start": 517,
+        "end": 523
+      },
+      {
+        "text": "the past year",
+        "label": "DATE",
+        "start": 660,
+        "end": 673
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "ORG": [
+        "CHF",
+        "ETH Zurich",
+        "the Executive Board"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "Annual",
+        "the end of the year",
+        "the past year",
+        "the previous year"
+      ],
+      "MISC": [
+        "1,556 million",
+        "2.9 percent",
+        "some 18,500"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "the end of the year": 1,
+      "some 18,500": 1,
+      "Zurich": 1,
+      "CHF": 1,
+      "1,556 million": 1,
+      "2.9 percent": 1,
+      "the previous year": 1,
+      "the Executive Board": 1,
+      "ETH Zurich’s": 1,
+      "Annual": 1,
+      "the past year": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-zurichs-2014-annual-report-is-now-available.md",
+      "title": "En Internal/2015/04/eth Zurichs 2014 Annual Report Is Now Available",
+      "language": "en",
+      "source_path": "en_internal/2015/04/eth-zurichs-2014-annual-report-is-now-available.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "1,556 million",
+        "2.9 percent",
+        "some 18,500"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Is Now",
+        "Executive Board",
+        "En Internal",
+        "Available ETH",
+        "Annual Report",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CHF",
+        "ETH Zurich",
+        "the Executive Board"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "the end of the year",
+        "some 18,500",
+        "Zurich",
+        "CHF",
+        "1,556 million",
+        "2.9 percent",
+        "the previous year",
+        "the Executive Board",
+        "ETH Zurich’s"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 744
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "CHF",
+        "2015",
+        "the Executive Board",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "ERC",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "some 18,500",
+        "2.9 percent",
+        "1,556 million",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

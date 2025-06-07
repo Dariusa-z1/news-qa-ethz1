@@ -1,0 +1,187 @@
+{
+  "filename": "de_internal_2019_12_forschungsdatenmanagement-von-der-theorie-zur-praxis.md",
+  "original_filename": "de_internal_2019_12_forschungsdatenmanagement-von-der-theorie-zur-praxis.html",
+  "source_path": "de_internal/2019/12/forschungsdatenmanagement-von-der-theorie-zur-praxis.html",
+  "date": "2019-12",
+  "title": "Forschungsdatenmanagement Von Der Theorie Zur Praxis",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Workshops werden von der ETH-Bibliothek in Zusammenarbeit mit den Scientific IT Services organisiert.\n\nZeit und Ort : Jeweils von 9.00 bis 12.00 Uhr auf dem Campus Zentrum im ETH-Hauptgebäude, Raum F 26.1\n\nMöchten Sie gerne an einem oder mehreren Workshops teilnehmen? Weitere Informationen und Registration\n\nBei Fragen können Sie uns gerne unter oder kontaktieren.\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/12/forschungsdatenmanagement",
+        "label": "LOC",
+        "start": 0,
+        "end": 45
+      },
+      {
+        "text": "Zur Praxis",
+        "label": "MISC",
+        "start": 62,
+        "end": 72
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 29,
+        "end": 43
+      },
+      {
+        "text": "Scientific IT Services",
+        "label": "ORG",
+        "start": 70,
+        "end": 92
+      },
+      {
+        "text": "Campus Zentrum",
+        "label": "LOC",
+        "start": 160,
+        "end": 174
+      },
+      {
+        "text": "ETH-Hauptgebäude",
+        "label": "ORG",
+        "start": 178,
+        "end": 194
+      },
+      {
+        "text": "GewusstWie",
+        "label": "MISC",
+        "start": 367,
+        "end": 377
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 416,
+        "end": 430
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH-Bibliothek",
+        "ETH-Hauptgebäude",
+        "Scientific IT Services"
+      ],
+      "LOCATION": [
+        "Campus Zentrum",
+        "De Internal/2019/12/forschungsdatenmanagement"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "GewusstWie",
+        "Zur Praxis"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 2,
+      "De Internal/2019/12/forschungsdatenmanagement": 1,
+      "Zur Praxis": 1,
+      "Scientific IT Services": 1,
+      "Campus Zentrum": 1,
+      "ETH-Hauptgebäude": 1,
+      "GewusstWie": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_12_forschungsdatenmanagement-von-der-theorie-zur-praxis.md",
+      "title": "De Internal/2019/12/forschungsdatenmanagement von der Theorie Zur Praxis",
+      "language": "de",
+      "source_path": "de_internal/2019/12/forschungsdatenmanagement-von-der-theorie-zur-praxis.html"
+    },
+    "temporal": {
+      "publication_date": "2019-12",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "GewusstWie",
+        "Zur Praxis"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Praxis Die",
+        "Die Infrastruktur",
+        "De Internal",
+        "Theorie Zur",
+        "Campus Zentrum",
+        "Ihrem Ziel",
+        "Scientific IT",
+        "Bei Fragen",
+        "Weitere Informationen",
+        "Raum F"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek",
+        "ETH-Hauptgebäude",
+        "Scientific IT Services"
+      ],
+      "locations": [
+        "Campus Zentrum",
+        "De Internal/2019/12/forschungsdatenmanagement"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2019/12/forschungsdatenmanagement",
+        "Zur Praxis",
+        "Scientific IT Services",
+        "Campus Zentrum",
+        "ETH-Hauptgebäude",
+        "GewusstWie"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 534
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "ETH-Hauptgebäude",
+        "ETH-Bibliothek",
+        "Scientific IT Services"
+      ],
+      "semantic_concepts": [
+        "GewusstWie",
+        "ETH-Bibliothek",
+        "when",
+        "Zur Praxis"
+      ],
+      "graph_relations": []
+    }
+  }
+}

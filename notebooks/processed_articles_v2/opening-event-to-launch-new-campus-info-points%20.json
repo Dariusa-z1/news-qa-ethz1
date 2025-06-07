@@ -1,0 +1,260 @@
+{
+  "filename": "opening-event-to-launch-new-campus-info-points%20.md",
+  "original_filename": "opening-event-to-launch-new-campus-info-points%20.html",
+  "source_path": "en_internal/2016/03/opening-event-to-launch-new-campus-info-points%20.html",
+  "date": "2016-03",
+  "title": "Opening Event To Launch New Campus Info Points%20",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Campus Info points at ETH Zurich are a central resource for visitors, staff and students of ETH Zurich, providing information and services such as giving directions, selling tickets and even arranging car rental. The Campus Info points in the main building can be found at reception in the main hall and in the service area on D floor (HG D 34). The Campus Info point on the Hönggerberg campus is in the HIL building in room D 25.9.\n\nAn open day will be held on Wednesday, 23 March, with six locations where visitors can learn about the Campus Info service, including the dynamic, new electronic mailbox systems and the historic vaulted roof above the Campus Info point on the Zentrum campus. The event will run from 8 a.m. to 4 p.m."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Event To Launch New Campus Info Points%20",
+        "label": "ORG",
+        "start": 28,
+        "end": 69
+      },
+      {
+        "text": "Campus Info",
+        "label": "PERSON",
+        "start": 4,
+        "end": 15
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 26,
+        "end": 36
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 96,
+        "end": 106
+      },
+      {
+        "text": "Campus Info",
+        "label": "PERSON",
+        "start": 221,
+        "end": 232
+      },
+      {
+        "text": "Campus Info",
+        "label": "PERSON",
+        "start": 354,
+        "end": 365
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 379,
+        "end": 390
+      },
+      {
+        "text": "HIL",
+        "label": "ORG",
+        "start": 408,
+        "end": 411
+      },
+      {
+        "text": "25.9",
+        "label": "CARDINAL",
+        "start": 431,
+        "end": 435
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE",
+        "start": 465,
+        "end": 474
+      },
+      {
+        "text": "23 March",
+        "label": "DATE",
+        "start": 476,
+        "end": 484
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 491,
+        "end": 494
+      },
+      {
+        "text": "Campus Info",
+        "label": "PERSON",
+        "start": 540,
+        "end": 551
+      },
+      {
+        "text": "Campus Info",
+        "label": "PERSON",
+        "start": 655,
+        "end": 666
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 680,
+        "end": 687
+      },
+      {
+        "text": "8 a.m. to 4 p.m.",
+        "label": "TIME",
+        "start": 720,
+        "end": 736
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Campus Info",
+        "ETH Zurich",
+        "Hönggerberg",
+        "Zentrum"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Event To Launch New Campus Info Points%20",
+        "HIL"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "23 March",
+        "8 a.m. to 4 p.m.",
+        "Wednesday"
+      ],
+      "MISC": [
+        "25.9",
+        "six"
+      ]
+    },
+    "entity_counts": {
+      "Campus Info": 5,
+      "ETH Zurich": 2,
+      "Event To Launch New Campus Info Points%20": 1,
+      "Hönggerberg": 1,
+      "HIL": 1,
+      "25.9": 1,
+      "Wednesday": 1,
+      "23 March": 1,
+      "six": 1,
+      "Zentrum": 1,
+      "8 a.m. to 4 p.m.": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "opening-event-to-launch-new-campus-info-points%20.md",
+      "title": "En Internal/2016/03/opening Event To Launch New Campus Info Points%20",
+      "language": "en",
+      "source_path": "en_internal/2016/03/opening-event-to-launch-new-campus-info-points%20.html"
+    },
+    "temporal": {
+      "publication_date": "2016-03",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Campus Info",
+        "ETH Zurich",
+        "Hönggerberg",
+        "Zentrum"
+      ],
+      "people_with_roles": {
+        "Campus Info": [
+          "student"
+        ],
+        "ETH Zurich": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "25.9"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Launch New",
+        "HG D",
+        "Event To",
+        "En Internal",
+        "The Campus",
+        "ETH Zurich",
+        "Campus Info"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "Event To Launch New Campus Info Points%20",
+        "HIL"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "Campus Info",
+        "ETH Zurich",
+        "Event To Launch New Campus Info Points%20",
+        "Hönggerberg",
+        "HIL",
+        "25.9",
+        "Wednesday",
+        "23 March",
+        "six",
+        "Zentrum"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 807
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "Event To Launch New Campus Info Points%20",
+        "2016",
+        "Zentrum",
+        "HIL",
+        "ETH Zurich",
+        "Campus Info"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "where",
+        "25.9"
+      ],
+      "graph_relations": [
+        "Campus Info_has_role_student",
+        "ETH Zurich_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

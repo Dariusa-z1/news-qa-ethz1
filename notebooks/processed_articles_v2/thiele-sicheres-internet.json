@@ -1,0 +1,512 @@
+{
+  "filename": "thiele-sicheres-internet.md",
+  "original_filename": "thiele-sicheres-internet.html",
+  "source_path": "de_news_events/2018/10/thiele-sicheres-internet.html",
+  "date": "2018-10",
+  "title": "Thiele Sicheres Internet",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Von Regeln gegängelt",
+      "text": "Es gibt wohl kaum eine Informationsinfrastruktur, die nicht von Hackern angegriffen werden kann und es auch wird: Unsere Telefone, Tablets, Laptops, PC aber auch Datenzentren und das Internet als Ganzes. Kleine und grosse Firmen waren in der Vergangenheit gleichermassen betroffen, sei es Facebook, die Ruag, Yahoo oder Sony. Auch kritische Daten und Infrastrukturen blieben nicht verschont, denken wir nur an die Erpressungen mit der Schadsoftware WannaCry, von denen auch Englische Spitäler betroffen waren, das zur Sabotage von Industrieanlagen genutzte Programm Stuxnet oder die entwendeten Gesundheitsdaten von 1,5 Millionen Menschen in Singapur."
+    },
+    {
+      "heading": "Sicheres Internet ist möglich",
+      "text": "Der Ausblick auf das zukünftige Internet der Dinge (IoT) stimmt uns in dieser Hinsicht nicht optimistischer, da wir mit Milliarden von Geräten am Internet eine breitere Angriffsfläche bieten werden. Als Vorgeschmack mag der Vorfall im Oktober 2016 dienen, bei dem Tausende unzureichend gesicherter IoT-Devices dazu gebracht wurden, eine zentrale Infrastruktur so lahmzulegen, dass Amazon, GitHub, Twitter, die New York Times und einige weitere, grosse Websites über Stunden nicht erreichbar waren. Solche Gefährdungen werden auch nicht vor der Hardware halt machen wie die jüngsten Berichte über «Spionage-Komponenten» in Servern sowie über kritische Schwachstellen in modernen Prozessoren zeigen."
+    },
+    {
+      "heading": "Von Regeln gegängelt",
+      "text": "Als Konsequenz solcher Angriffe werden die regulatorischen Vorgaben in Unternehmen und Organisationen immer komplexer und umfangreicher. Ein Beispiel sind die neuen ICT-Minimalstandards des Bundes mit 106 Massnahmen, die sich nahtlos in internationale Standards und Zertifizierungsrichtlinien eingliedern. Den Zwang zur Einhaltung von genormten und geregelten Abläufen in unserer Privat- und Arbeitswelt nehmen wir ermüdet und hilflos zur Kenntnis, er macht uns zunehmend unselbständig, führt zum Erlahmen unserer geistigen Fähigkeiten und reduziert auch immer stärker die Vorteile der digitalen Transformation. Dennoch scheint fast, als ob wir uns in unserer Abhängigkeit eingerichtet und die Lösung des Problems in der Anpassung unserer eigenen Verhaltensweisen gefunden hätten."
+    },
+    {
+      "heading": "ETH am Digitaltag 2018",
+      "text": "Doch hier läuft etwas grundsätzlich falsch! Wenn etwas kontrolliert und gegängelt werden sollte, dann nicht wir Menschen privat und bei der Arbeit, sondern die zugrundeliegende Infrastruktur: die Hardware, Software und die Informationssysteme."
+    },
+    {
+      "heading": "Sicheres Internet ist möglich",
+      "text": "Es muss unser Ziel sein, ein Internet aufzubauen, das durch seine Konstruktion die wesentlichen Angriffe auf die Kommunikationsinfrastruktur nachweisbar verhindert und durch das wir Maschinen und Infrastruktur garantiert sicher verwenden können. Möglich ist es: An der ETH Zürich wurde in den letzten sechs Jahren unter der Leitung meines Kollegen Adrian Perrig die sichere Internet-Architektur Scion entwickelt.\n\nScion bietet Sicherheit, Verfügbarkeit und Leistung für alle vernetzten Systeme und Dienste: Datenübertragung mit hoher Bandbreite, sichere Kommunikation sensitiver Daten, Sicherheit gegen «Denial of Service»-Angriffe, hohe Verfügbarkeit kritischer Infrastrukturen, und Daten werden nicht über Server und Länder gelenkt, wo sie nicht hinsollen. Die Technologie ist so weit ausgereift, dass sie bereits bei Banken und verschiedenen Internetanbietern in der Schweiz und international eingesetzt wird.\n\nDiese jüngsten Fortschritte bei neuen Internet-Architekturen müssen genutzt werden, um die Sicherheit und Leistungsfähigkeit vernetzter Systeme zu verbessern, sei es für die Kommunikation zwischen Bundesstellen, sei es zum Austausch hochsensibler Informationen wie elektronische Patientendossiers zwischen Spitälern, Gesundheitsdienstleisten und Forschungsinstitutionen, zur Kommunikation zwischen Forschungseinrichtungen, oder auch zum sicheren Betrieb unserer Energieversorgung. Dazu müssen wir in der Schweiz den Mut aufbringen, eine weltweit führende Technologie «Made in Switzerland» in einem landesweiten Vorzeigprojekt flächendeckend auszurollen. Dies wäre ein wichtiger und notwendiger Schritt zu einem Exportschlager «Internet-Sicherheit aus der Schweiz». Wir haben die Chance, unser Land als ein Ort der Sicherheit und des Vertrauens in eine weltweit führende Position zu führen: Die Schweiz, das sicherste Internetland der Welt.\n\nHeute 25. Oktober geht schweizweit der zweite Digitaltag über die Bühne. Die ETH setzt dieses Jahr den Schwerpunkt auf die Digitalisierung in der Medizin und zeigt im Hauptbahnhof Zürich dazu zwei Forschungsprojekte. Daneben bietet die ETH gemeinsam mit zahlreichen Institutionen aus dem Gesundheitsbereich Kurzvorträge, Laborführungen und Präsentationen an. Zudem lernen über 600 Schülerinnen und Schüler aus der ganzen Deutschschweiz an einem Programmierworkshop die Sprache der Zukunft. Weitere Infos unter: Digitaltag\n\nLothar Thiele Professor für Technische Informatik an der ETH Zürich und Delegierter des ETH-Präsidenten für Digitale Transformation"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Hackern",
+        "label": "PER",
+        "start": 64,
+        "end": 71
+      },
+      {
+        "text": "Unsere Telefone",
+        "label": "MISC",
+        "start": 114,
+        "end": 129
+      },
+      {
+        "text": "Laptops",
+        "label": "ORG",
+        "start": 140,
+        "end": 147
+      },
+      {
+        "text": "PC",
+        "label": "MISC",
+        "start": 149,
+        "end": 151
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 183,
+        "end": 191
+      },
+      {
+        "text": "Facebook",
+        "label": "MISC",
+        "start": 289,
+        "end": 297
+      },
+      {
+        "text": "Yahoo",
+        "label": "ORG",
+        "start": 309,
+        "end": 314
+      },
+      {
+        "text": "Sony",
+        "label": "ORG",
+        "start": 320,
+        "end": 324
+      },
+      {
+        "text": "Schadsoftware WannaCry",
+        "label": "MISC",
+        "start": 435,
+        "end": 457
+      },
+      {
+        "text": "Englische",
+        "label": "MISC",
+        "start": 474,
+        "end": 483
+      },
+      {
+        "text": "Singapur",
+        "label": "LOC",
+        "start": 642,
+        "end": 650
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 32,
+        "end": 40
+      },
+      {
+        "text": "IoT",
+        "label": "ORG",
+        "start": 52,
+        "end": 55
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 146,
+        "end": 154
+      },
+      {
+        "text": "Amazon",
+        "label": "ORG",
+        "start": 381,
+        "end": 387
+      },
+      {
+        "text": "GitHub",
+        "label": "MISC",
+        "start": 389,
+        "end": 395
+      },
+      {
+        "text": "Twitter",
+        "label": "MISC",
+        "start": 397,
+        "end": 404
+      },
+      {
+        "text": "New York Times",
+        "label": "ORG",
+        "start": 410,
+        "end": 424
+      },
+      {
+        "text": "Servern",
+        "label": "LOC",
+        "start": 622,
+        "end": 629
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 29,
+        "end": 37
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 269,
+        "end": 279
+      },
+      {
+        "text": "Adrian Perrig",
+        "label": "PER",
+        "start": 348,
+        "end": 361
+      },
+      {
+        "text": "Scion",
+        "label": "PER",
+        "start": 413,
+        "end": 418
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 869,
+        "end": 876
+      },
+      {
+        "text": "Internet-Architekturen",
+        "label": "LOC",
+        "start": 950,
+        "end": 972
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 1412,
+        "end": 1423
+      },
+      {
+        "text": "Switzerland",
+        "label": "LOC",
+        "start": 1488,
+        "end": 1499
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 1667,
+        "end": 1674
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 1806,
+        "end": 1813
+      },
+      {
+        "text": "Digitaltag",
+        "label": "MISC",
+        "start": 1898,
+        "end": 1908
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1929,
+        "end": 1932
+      },
+      {
+        "text": "Hauptbahnhof Zürich",
+        "label": "LOC",
+        "start": 2019,
+        "end": 2038
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2088,
+        "end": 2091
+      },
+      {
+        "text": "Gesundheitsbereich Kurzvorträge",
+        "label": "PER",
+        "start": 2140,
+        "end": 2171
+      },
+      {
+        "text": "Programmierworkshop",
+        "label": "MISC",
+        "start": 2297,
+        "end": 2316
+      },
+      {
+        "text": "Lothar Thiele",
+        "label": "PER",
+        "start": 2374,
+        "end": 2387
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 2431,
+        "end": 2441
+      },
+      {
+        "text": "ETH-Präsidenten",
+        "label": "MISC",
+        "start": 2462,
+        "end": 2477
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Adrian Perrig",
+        "De News",
+        "Gesundheitsbereich Kurzvorträge",
+        "Hackern",
+        "Lothar Thiele",
+        "Scion"
+      ],
+      "ORG": [
+        "Amazon",
+        "ETH",
+        "ETH Zürich",
+        "IoT",
+        "Laptops",
+        "New York Times",
+        "Sony",
+        "Yahoo"
+      ],
+      "LOCATION": [
+        "Hauptbahnhof Zürich",
+        "Internet-Architekturen",
+        "Schweiz",
+        "Servern",
+        "Singapur",
+        "Switzerland",
+        "der Schweiz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Digitaltag",
+        "ETH-Präsidenten",
+        "Englische",
+        "Facebook",
+        "GitHub",
+        "Internet",
+        "PC",
+        "Programmierworkshop",
+        "Schadsoftware WannaCry",
+        "Twitter",
+        "Unsere Telefone"
+      ]
+    },
+    "entity_counts": {
+      "Internet": 4,
+      "Schweiz": 3,
+      "ETH Zürich": 2,
+      "ETH": 2,
+      "De News": 1,
+      "Hackern": 1,
+      "Unsere Telefone": 1,
+      "Laptops": 1,
+      "PC": 1,
+      "Facebook": 1,
+      "Yahoo": 1,
+      "Sony": 1,
+      "Schadsoftware WannaCry": 1,
+      "Englische": 1,
+      "Singapur": 1,
+      "IoT": 1,
+      "Amazon": 1,
+      "GitHub": 1,
+      "Twitter": 1,
+      "New York Times": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 32
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "thiele-sicheres-internet.md",
+      "title": "De News Events/2018/10/thiele Sicheres Internet",
+      "language": "de",
+      "source_path": "de_news_events/2018/10/thiele-sicheres-internet.html"
+    },
+    "temporal": {
+      "publication_date": "2018-10",
+      "mentioned_years": [
+        "2016",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Adrian Perrig",
+        "De News",
+        "Gesundheitsbereich Kurzvorträge",
+        "Hackern",
+        "Lothar Thiele",
+        "Scion"
+      ],
+      "people_with_roles": {
+        "Lothar Thiele": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "Digitaltag",
+        "ETH-Präsidenten",
+        "Englische",
+        "Facebook",
+        "GitHub",
+        "Internet",
+        "Programmierworkshop",
+        "Schadsoftware WannaCry",
+        "Twitter",
+        "Unsere Telefone"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Internet-Sicherheit",
+        "Technische Informatik",
+        "Unsere Telefone",
+        "Die Schweiz",
+        "IoT-Devices",
+        "Millionen Menschen",
+        "Programm Stuxnet",
+        "Als Konsequenz",
+        "Spionage-Komponenten",
+        "Als Vorgeschmack",
+        "Digitale Transformation",
+        "Kollegen Adrian",
+        "Sicheres Internet",
+        "Die ETH",
+        "Den Zwang",
+        "Der Ausblick",
+        "Weitere Infos",
+        "Lothar Thiele",
+        "Internet-Architekturen",
+        "Ein Beispiel",
+        "Schadsoftware WannaCry",
+        "ICT-Minimalstandards",
+        "New York",
+        "De News",
+        "Internet-Architektur",
+        "Die Technologie"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Amazon",
+        "ETH",
+        "ETH Zürich",
+        "IoT",
+        "Laptops",
+        "New York Times",
+        "Sony",
+        "Yahoo"
+      ],
+      "locations": [
+        "Hauptbahnhof Zürich",
+        "Internet-Architekturen",
+        "Schweiz",
+        "Servern",
+        "Singapur",
+        "Switzerland",
+        "der Schweiz"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Internet",
+        "Schweiz",
+        "ETH Zürich",
+        "ETH",
+        "De News",
+        "Hackern",
+        "Unsere Telefone",
+        "Laptops",
+        "PC",
+        "Facebook"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Von Regeln gegängelt",
+          "Sicheres Internet ist möglich",
+          "Von Regeln gegängelt",
+          "ETH am Digitaltag 2018",
+          "Sicheres Internet ist möglich"
+        ],
+        "content_length": 4932
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Amazon",
+        "ETH",
+        "Yahoo",
+        "Hackern",
+        "Adrian Perrig",
+        "EU",
+        "Gesundheitsbereich Kurzvorträge",
+        "Sony",
+        "2016",
+        "New York Times",
+        "ETH Zürich",
+        "De News",
+        "Laptops",
+        "Lothar Thiele",
+        "Scion",
+        "IoT"
+      ],
+      "semantic_concepts": [
+        "Digitaltag",
+        "Programmierworkshop",
+        "Twitter",
+        "Facebook",
+        "Englische",
+        "Unsere Telefone",
+        "GitHub",
+        "Internet",
+        "Schadsoftware WannaCry",
+        "who",
+        "ETH-Präsidenten",
+        "computer_science",
+        "when"
+      ],
+      "graph_relations": [
+        "Lothar Thiele_has_role_professor",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

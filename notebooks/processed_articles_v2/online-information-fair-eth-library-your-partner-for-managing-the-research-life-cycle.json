@@ -1,0 +1,174 @@
+{
+  "filename": "online-information-fair-eth-library-your-partner-for-managing-the-research-life-cycle.md",
+  "original_filename": "online-information-fair-eth-library-your-partner-for-managing-the-research-life-cycle.html",
+  "source_path": "en_internal/2023/04/online-information-fair-eth-library-your-partner-for-managing-the-research-life-cycle.html",
+  "date": "2023-04",
+  "title": "Online Information Fair Eth Library Your Partner For Managing The Research Life Cycle",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Did you know that the ETH Library supports you at all stages of the research life cycle? Whether it is research data management, open-access publishing or bibliometric analyses, we will explain the most important services for your research, writing and publication process. At this information event, you will also learn plenty of useful things about information research and reference management, image rights and the ETH Library’s range of courses and advisory services.\n\nTuesday, 16 May, 17.15–18.45, via ZOOM\n\nOn our website for doctoral students you will find a detailed overview of the topics . Or register on the student portal today!\n\nMore than just data – Benefit from know-​how\n\n#KnowHow – The ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 22,
+        "end": 33
+      },
+      {
+        "text": "the ETH Library’s",
+        "label": "ORG",
+        "start": 415,
+        "end": 432
+      },
+      {
+        "text": "Tuesday",
+        "label": "DATE",
+        "start": 473,
+        "end": 480
+      },
+      {
+        "text": "16 May, 17.15–18.45",
+        "label": "DATE",
+        "start": 482,
+        "end": 501
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 633,
+        "end": 638
+      },
+      {
+        "text": "The ETH Library’s",
+        "label": "ORG",
+        "start": 695,
+        "end": 712
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Library",
+        "The ETH Library’s",
+        "the ETH Library’s"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "16 May, 17.15–18.45",
+        "Tuesday",
+        "today"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Library": 1,
+      "the ETH Library’s": 1,
+      "Tuesday": 1,
+      "16 May, 17.15–18.45": 1,
+      "today": 1,
+      "The ETH Library’s": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "online-information-fair-eth-library-your-partner-for-managing-the-research-life-cycle.md",
+      "title": "En Internal/2023/04/online Information Fair Eth Library Your Partner For Managing The Research Life Cycle",
+      "language": "en",
+      "source_path": "en_internal/2023/04/online-information-fair-eth-library-your-partner-for-managing-the-research-life-cycle.html"
+    },
+    "temporal": {
+      "publication_date": "2023-04",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "The Research",
+        "ETH Library",
+        "Your Partner",
+        "En Internal",
+        "Information Fair",
+        "Life Cycle",
+        "For Managing",
+        "Eth Library",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library",
+        "The ETH Library’s",
+        "the ETH Library’s"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Library",
+        "the ETH Library’s",
+        "Tuesday",
+        "16 May, 17.15–18.45",
+        "today",
+        "The ETH Library’s"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 871
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "The ETH Library’s",
+        "ETH Library",
+        "the ETH Library’s",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "how",
+        "what",
+        "why",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

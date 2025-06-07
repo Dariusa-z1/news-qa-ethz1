@@ -1,0 +1,382 @@
+{
+  "filename": "how-to-react-in-case-of-campus-violence.md",
+  "original_filename": "how-to-react-in-case-of-campus-violence.html",
+  "source_path": "en_internal/2016/10/how-to-react-in-case-of-campus-violence.html",
+  "date": "2016-10",
+  "title": "How To React In Case Of Campus Violence",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Dates and Registration",
+      "text": "In 2015, ETH Zurich was home to 26,500 students, researchers, lecturers and employees, making the University almost a city unto itself. But far from being an ivory tower, the University’s size, diversity and openness give rise to the same challenges faced by any city, among them the issue of violence. Fortunately we have not experienced any incidents at ETH Zurich, but events around the world show that universities must be prepared for the possibility of campus violence. This raises the question of what you should do in case of an attack. It can also be helpful to know something about police procedures and the provisions that ETH Zurich has made for such incidents."
+    },
+    {
+      "heading": "Subscribe to Newsletter",
+      "text": "The Safety, Security, Health and Environment (SSHE) department has developed a security plan to protect members of the University during an act of campus violence. This includes the use of a tool to disseminate information and raise the alarm, installing special locks on doors, and putting up posters with information on what to do during an incident. We are pleased to invite you to an information event on behalf of Professor Ulrich Weidmann, Vice President for Human Resources and Infrastructure. The event will give you the opportunity to learn more about the security plan and to ask any questions you may have about it. André Wymann, a member of the Zurich City Police Prevention Commission, will give a presentation covering the most important points, together with experts from the Safety, Security, Health and Environment (SSHE) department."
+    },
+    {
+      "heading": "Dates and Registration",
+      "text": "8 November 2016, 12.15–1.15 p.m. Hönggerberg, HCI G 3 (overflow seating in HCI G 7)\n\n23 November 2016, 12.15–1.15 p.m. Zentrum, HG F 30/Audi Max (overflow seating in HG G 5)\n\nRegistration for information event"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 9,
+        "end": 19
+      },
+      {
+        "text": "26,500",
+        "label": "CARDINAL",
+        "start": 32,
+        "end": 38
+      },
+      {
+        "text": "University",
+        "label": "ORG",
+        "start": 98,
+        "end": 108
+      },
+      {
+        "text": "University",
+        "label": "ORG",
+        "start": 175,
+        "end": 185
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 356,
+        "end": 366
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 634,
+        "end": 644
+      },
+      {
+        "text": "The Safety, Security, Health and Environment",
+        "label": "ORG",
+        "start": 0,
+        "end": 44
+      },
+      {
+        "text": "University",
+        "label": "ORG",
+        "start": 119,
+        "end": 129
+      },
+      {
+        "text": "Ulrich Weidmann",
+        "label": "PERSON",
+        "start": 429,
+        "end": 444
+      },
+      {
+        "text": "Human Resources and Infrastructure",
+        "label": "ORG",
+        "start": 465,
+        "end": 499
+      },
+      {
+        "text": "André Wymann",
+        "label": "PERSON",
+        "start": 627,
+        "end": 639
+      },
+      {
+        "text": "the Zurich City Police Prevention Commission",
+        "label": "ORG",
+        "start": 653,
+        "end": 697
+      },
+      {
+        "text": "the Safety, Security, Health and Environment",
+        "label": "ORG",
+        "start": 787,
+        "end": 831
+      },
+      {
+        "text": "8 November 2016",
+        "label": "DATE",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "12.15–1.15 p.m.",
+        "label": "TIME",
+        "start": 17,
+        "end": 32
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 33,
+        "end": 44
+      },
+      {
+        "text": "HCI",
+        "label": "GPE",
+        "start": 75,
+        "end": 78
+      },
+      {
+        "text": "23 November 2016",
+        "label": "DATE",
+        "start": 84,
+        "end": 100
+      },
+      {
+        "text": "12.15–1.15 p.m.",
+        "label": "TIME",
+        "start": 102,
+        "end": 117
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 118,
+        "end": 125
+      },
+      {
+        "text": "HG",
+        "label": "ORG",
+        "start": 127,
+        "end": 129
+      },
+      {
+        "text": "F 30",
+        "label": "PRODUCT",
+        "start": 130,
+        "end": 134
+      },
+      {
+        "text": "Audi Max",
+        "label": "PERSON",
+        "start": 135,
+        "end": 143
+      },
+      {
+        "text": "HG",
+        "label": "GPE",
+        "start": 165,
+        "end": 167
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "André Wymann",
+        "Audi Max",
+        "ETH Zurich",
+        "Hönggerberg",
+        "Ulrich Weidmann",
+        "Zentrum"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "HG",
+        "Human Resources and Infrastructure",
+        "The Safety, Security, Health and Environment",
+        "University",
+        "the Safety, Security, Health and Environment",
+        "the Zurich City Police Prevention Commission"
+      ],
+      "LOCATION": [
+        "HCI",
+        "HG"
+      ],
+      "DATE": [
+        "12.15–1.15 p.m.",
+        "23 November 2016",
+        "8 November 2016"
+      ],
+      "MISC": [
+        "26,500",
+        "F 30"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "University": 3,
+      "12.15–1.15 p.m.": 2,
+      "HG": 2,
+      "26,500": 1,
+      "The Safety, Security, Health and Environment": 1,
+      "Ulrich Weidmann": 1,
+      "Human Resources and Infrastructure": 1,
+      "André Wymann": 1,
+      "the Zurich City Police Prevention Commission": 1,
+      "the Safety, Security, Health and Environment": 1,
+      "8 November 2016": 1,
+      "Hönggerberg": 1,
+      "HCI": 1,
+      "23 November 2016": 1,
+      "Zentrum": 1,
+      "F 30": 1,
+      "Audi Max": 1
+    },
+    "total_entities": 24,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-to-react-in-case-of-campus-violence.md",
+      "title": "En Internal/2016/10/how To React in Case Of Campus Violence",
+      "language": "en",
+      "source_path": "en_internal/2016/10/how-to-react-in-case-of-campus-violence.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "André Wymann",
+        "Audi Max",
+        "ETH Zurich",
+        "Hönggerberg",
+        "Ulrich Weidmann",
+        "Zentrum"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher",
+          "student"
+        ],
+        "Ulrich Weidmann": [
+          "Professor",
+          "president",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "26,500",
+        "F 30"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Police Prevention",
+        "Vice President",
+        "To React",
+        "HG F",
+        "Campus Violence",
+        "Zurich City",
+        "Case Of",
+        "En Internal",
+        "Professor Ulrich",
+        "HG G",
+        "Human Resources",
+        "The Safety",
+        "Audi Max",
+        "ETH Zurich",
+        "HCI G"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "HG",
+        "Human Resources and Infrastructure",
+        "The Safety, Security, Health and Environment",
+        "University",
+        "the Safety, Security, Health and Environment",
+        "the Zurich City Police Prevention Commission"
+      ],
+      "locations": [
+        "HCI",
+        "HG"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "University",
+        "12.15–1.15 p.m.",
+        "HG",
+        "26,500",
+        "The Safety, Security, Health and Environment",
+        "Ulrich Weidmann",
+        "Human Resources and Infrastructure",
+        "André Wymann",
+        "the Zurich City Police Prevention Commission"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Dates and Registration",
+          "Subscribe to Newsletter",
+          "Dates and Registration"
+        ],
+        "content_length": 1794
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "Ulrich Weidmann",
+        "André Wymann",
+        "University",
+        "2015",
+        "HG",
+        "the Safety, Security, Health and Environment",
+        "2016",
+        "Zentrum",
+        "The Safety, Security, Health and Environment",
+        "Audi Max",
+        "ETH Zurich",
+        "Human Resources and Infrastructure",
+        "the Zurich City Police Prevention Commission"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "26,500",
+        "F 30",
+        "who",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_student",
+        "Ulrich Weidmann_has_role_Professor",
+        "Ulrich Weidmann_has_role_president",
+        "Ulrich Weidmann_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "filename": "der-schweizer-grand-prix-literatur-geht-an-adolf-muschg.md",
+  "original_filename": "der-schweizer-grand-prix-literatur-geht-an-adolf-muschg.html",
+  "source_path": "en_news_events/2015/02/der-schweizer-grand-prix-literatur-geht-an-adolf-muschg.html",
+  "date": "2015-02",
+  "title": "Der Schweizer Grand Prix Literatur Geht An Adolf Muschg",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Adolf Muschg was honoured with the Swiss Grand Prix Literatur 2015 award for his complete literary works on Thursday. Federal Councillor Alain Berset presented the prize to the writer during the ceremony of the Swiss literary awards held at the Swiss National Library. The jury emphasised the humanism and commitment that characterise his creative work. The award is endowed with prize money of CHF 40,000.\n\nThe Federal Office of Culture (FOC) is bestowing the Swiss literary awards for the third time. The aim of these awards is to make Swiss literature better known domestically and abroad. The Federal Office of Culture (FOC) mentions that the writer, who is known for his tirelessly critical mind, can look back on a varied body of literary work, consisting of novels and essays on literature, Europe, Japan and Gottfried Keller or Goethe.\n\nAdolf Muschg was Professor for German Language and Literature at ETH Zurich from 1970. He became the first Head of the Collegium Helveticum at the Semper observatory in 1997. Emeritus professor status was conferred on him as of the end of September 1999.\n\nHis teaching focused on making contemporary literature accessible in a lively manner and on working with the texts written by seminar attendees and up-and-coming authors. In his research, he predominantly examined Gottfried Keller, Goethe and Wolfram von Eschenbach as well as the interface between literature and therapy."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Schweizer Grand Prix Literatur Geht",
+        "label": "PERSON",
+        "start": 27,
+        "end": 62
+      },
+      {
+        "text": "Adolf Muschg",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE",
+        "start": 108,
+        "end": 116
+      },
+      {
+        "text": "Federal Councillor Alain Berset",
+        "label": "ORG",
+        "start": 118,
+        "end": 149
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 211,
+        "end": 216
+      },
+      {
+        "text": "the Swiss National Library",
+        "label": "ORG",
+        "start": 241,
+        "end": 267
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 395,
+        "end": 398
+      },
+      {
+        "text": "40,000",
+        "label": "CARDINAL",
+        "start": 399,
+        "end": 405
+      },
+      {
+        "text": "The Federal Office of Culture",
+        "label": "ORG",
+        "start": 407,
+        "end": 436
+      },
+      {
+        "text": "FOC",
+        "label": "ORG",
+        "start": 438,
+        "end": 441
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 460,
+        "end": 465
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 490,
+        "end": 495
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 537,
+        "end": 542
+      },
+      {
+        "text": "The Federal Office of Culture",
+        "label": "ORG",
+        "start": 592,
+        "end": 621
+      },
+      {
+        "text": "FOC",
+        "label": "ORG",
+        "start": 623,
+        "end": 626
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 797,
+        "end": 803
+      },
+      {
+        "text": "Japan",
+        "label": "GPE",
+        "start": 805,
+        "end": 810
+      },
+      {
+        "text": "Gottfried Keller",
+        "label": "PERSON",
+        "start": 815,
+        "end": 831
+      },
+      {
+        "text": "Adolf Muschg",
+        "label": "PERSON",
+        "start": 843,
+        "end": 855
+      },
+      {
+        "text": "German Language and Literature",
+        "label": "ORG",
+        "start": 874,
+        "end": 904
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 908,
+        "end": 918
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 944,
+        "end": 949
+      },
+      {
+        "text": "the Collegium Helveticum",
+        "label": "ORG",
+        "start": 958,
+        "end": 982
+      },
+      {
+        "text": "Emeritus",
+        "label": "ORG",
+        "start": 1018,
+        "end": 1026
+      },
+      {
+        "text": "the end of September 1999",
+        "label": "DATE",
+        "start": 1071,
+        "end": 1096
+      },
+      {
+        "text": "Gottfried Keller",
+        "label": "PERSON",
+        "start": 1312,
+        "end": 1328
+      },
+      {
+        "text": "Wolfram von Eschenbach",
+        "label": "PERSON",
+        "start": 1341,
+        "end": 1363
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Adolf Muschg",
+        "Gottfried Keller",
+        "Schweizer Grand Prix Literatur Geht",
+        "Wolfram von Eschenbach"
+      ],
+      "ORG": [
+        "CHF",
+        "ETH Zurich",
+        "Emeritus",
+        "FOC",
+        "Federal Councillor Alain Berset",
+        "German Language and Literature",
+        "The Federal Office of Culture",
+        "the Collegium Helveticum",
+        "the Swiss National Library"
+      ],
+      "LOCATION": [
+        "Europe",
+        "Japan"
+      ],
+      "DATE": [
+        "Thursday",
+        "the end of September 1999"
+      ],
+      "MISC": [
+        "40,000",
+        "Swiss",
+        "first",
+        "third"
+      ]
+    },
+    "entity_counts": {
+      "Swiss": 3,
+      "Adolf Muschg": 2,
+      "The Federal Office of Culture": 2,
+      "FOC": 2,
+      "Gottfried Keller": 2,
+      "Schweizer Grand Prix Literatur Geht": 1,
+      "Thursday": 1,
+      "Federal Councillor Alain Berset": 1,
+      "the Swiss National Library": 1,
+      "CHF": 1,
+      "40,000": 1,
+      "third": 1,
+      "Europe": 1,
+      "Japan": 1,
+      "German Language and Literature": 1,
+      "ETH Zurich": 1,
+      "first": 1,
+      "the Collegium Helveticum": 1,
+      "Emeritus": 1,
+      "the end of September 1999": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "der-schweizer-grand-prix-literatur-geht-an-adolf-muschg.md",
+      "title": "En News Events/2015/02/der Schweizer Grand Prix Literatur Geht an Adolf Muschg",
+      "language": "en",
+      "source_path": "en_news_events/2015/02/der-schweizer-grand-prix-literatur-geht-an-adolf-muschg.html"
+    },
+    "temporal": {
+      "publication_date": "2015-02",
+      "mentioned_years": [
+        "1970",
+        "1997",
+        "1999",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Adolf Muschg",
+        "Gottfried Keller",
+        "Schweizer Grand Prix Literatur Geht",
+        "Wolfram von Eschenbach"
+      ],
+      "people_with_roles": {
+        "Adolf Muschg": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "40,000",
+        "Swiss",
+        "first",
+        "third"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Adolf Muschg",
+        "Gottfried Keller",
+        "En News",
+        "Federal Councillor",
+        "German Language",
+        "Swiss Grand",
+        "Collegium Helveticum",
+        "The Federal",
+        "Swiss National",
+        "ETH Zurich",
+        "Schweizer Grand",
+        "Prix Literatur",
+        "Alain Berset"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CHF",
+        "ETH Zurich",
+        "Emeritus",
+        "FOC",
+        "Federal Councillor Alain Berset",
+        "German Language and Literature",
+        "The Federal Office of Culture",
+        "the Collegium Helveticum",
+        "the Swiss National Library"
+      ],
+      "locations": [
+        "Europe",
+        "Japan"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Swiss",
+        "Adolf Muschg",
+        "The Federal Office of Culture",
+        "FOC",
+        "Gottfried Keller",
+        "Schweizer Grand Prix Literatur Geht",
+        "Thursday",
+        "Federal Councillor Alain Berset",
+        "the Swiss National Library",
+        "CHF"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1502
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Adolf Muschg",
+        "FOC",
+        "CHF",
+        "2015",
+        "EU",
+        "Federal Councillor Alain Berset",
+        "1970",
+        "1997",
+        "Schweizer Grand Prix Literatur Geht",
+        "ETH Zurich",
+        "The Federal Office of Culture",
+        "the Collegium Helveticum",
+        "1999",
+        "Wolfram von Eschenbach",
+        "Gottfried Keller",
+        "German Language and Literature",
+        "the Swiss National Library",
+        "Emeritus"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "third",
+        "who",
+        "Swiss",
+        "what",
+        "medical_research",
+        "when",
+        "40,000"
+      ],
+      "graph_relations": [
+        "Adolf Muschg_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

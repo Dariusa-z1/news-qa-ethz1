@@ -1,0 +1,293 @@
+{
+  "filename": "new-at-eth-zurich-joern-piel.md",
+  "original_filename": "new-at-eth-zurich-joern-piel.html",
+  "source_path": "en_internal/2013/11/new-at-eth-zurich-joern-piel.html",
+  "date": "2013-11",
+  "title": "New At Eth Zurich Joern Piel",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "What motivated you to come to ETH Zurich? Jörn Piel: I know no place where one could have better conditions for doing research. Particularly exciting is the possibility to conduct more intricate and innovative pioneer projects that exceed the usual setting of third-party-funded projects. Thanks to solid funding, this is possible.\n\nAnd what is your impression after the first few months here? I am truly impressed by the excellent infrastructure, the many opportunities for cooperation, the committed students and the very collegial atmosphere.\n\nHow do maintain a work-life balance? I find balance when cooking, learning languages ​​and especially when playing with our little daughter.\n\nWhat is the first word you associate with ETH Zurich? Excellence\n\nJörn Piel joined ETH Zurich as a Full Professor of Microbial Interactions at the Institute of Microbiology, D-BIOL, in February 2013. He was born in Germany, in 1967. Prof. Piel’s research focuses on natural products. These substances, found only in small amounts in nature, can play a big role in medicine development. Using biological and chemical methods, his group investigates how these often complex substances are procuded. This knowledge is then applied in Synthetic Biology to produce compounds that are difficult to obtain from nature.\n\nWeitere Informationen"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Eth Zurich Joern Piel",
+        "label": "FAC",
+        "start": 27,
+        "end": 48
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 30,
+        "end": 40
+      },
+      {
+        "text": "Jörn Piel",
+        "label": "PERSON",
+        "start": 42,
+        "end": 51
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 260,
+        "end": 265
+      },
+      {
+        "text": "the first few months",
+        "label": "DATE",
+        "start": 366,
+        "end": 386
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 698,
+        "end": 703
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 728,
+        "end": 738
+      },
+      {
+        "text": "Jörn Piel",
+        "label": "PERSON",
+        "start": 751,
+        "end": 760
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 768,
+        "end": 778
+      },
+      {
+        "text": "Microbial Interactions",
+        "label": "ORG",
+        "start": 802,
+        "end": 824
+      },
+      {
+        "text": "the Institute of Microbiology",
+        "label": "ORG",
+        "start": 828,
+        "end": 857
+      },
+      {
+        "text": "February 2013",
+        "label": "DATE",
+        "start": 870,
+        "end": 883
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 900,
+        "end": 907
+      },
+      {
+        "text": "Piel’s",
+        "label": "PERSON",
+        "start": 924,
+        "end": 930
+      },
+      {
+        "text": "Synthetic Biology",
+        "label": "ORG",
+        "start": 1216,
+        "end": 1233
+      },
+      {
+        "text": "Weitere Informationen",
+        "label": "ORG",
+        "start": 1297,
+        "end": 1318
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Jörn Piel",
+        "Piel’s"
+      ],
+      "ORG": [
+        "Microbial Interactions",
+        "Synthetic Biology",
+        "Weitere Informationen",
+        "the Institute of Microbiology"
+      ],
+      "LOCATION": [
+        "Eth Zurich Joern Piel",
+        "Germany"
+      ],
+      "DATE": [
+        "February 2013",
+        "the first few months"
+      ],
+      "MISC": [
+        "first",
+        "third"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "Jörn Piel": 2,
+      "Eth Zurich Joern Piel": 1,
+      "third": 1,
+      "the first few months": 1,
+      "first": 1,
+      "Microbial Interactions": 1,
+      "the Institute of Microbiology": 1,
+      "February 2013": 1,
+      "Germany": 1,
+      "Piel’s": 1,
+      "Synthetic Biology": 1,
+      "Weitere Informationen": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-at-eth-zurich-joern-piel.md",
+      "title": "En Internal/2013/11/new At Eth Zurich Joern Piel",
+      "language": "en",
+      "source_path": "en_internal/2013/11/new-at-eth-zurich-joern-piel.html"
+    },
+    "temporal": {
+      "publication_date": "2013-11",
+      "mentioned_years": [
+        "1967",
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Jörn Piel",
+        "Piel’s"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "professor"
+        ],
+        "Jörn Piel": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "first",
+        "third"
+      ],
+      "grants_funding": [
+        "funding"
+      ],
+      "projects": [
+        "Weitere Informationen",
+        "D-BIOL",
+        "Microbial Interactions",
+        "En Internal",
+        "At Eth",
+        "Zurich Joern",
+        "ETH Zurich",
+        "Full Professor",
+        "Synthetic Biology",
+        "Piel What"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Microbial Interactions",
+        "Synthetic Biology",
+        "Weitere Informationen",
+        "the Institute of Microbiology"
+      ],
+      "locations": [
+        "Eth Zurich Joern Piel",
+        "Germany"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Jörn Piel",
+        "Eth Zurich Joern Piel",
+        "third",
+        "the first few months",
+        "first",
+        "Microbial Interactions",
+        "the Institute of Microbiology",
+        "February 2013",
+        "Germany"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1372
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Weitere Informationen",
+        "2013",
+        "Microbial Interactions",
+        "1967",
+        "funding",
+        "Piel’s",
+        "Jörn Piel",
+        "the Institute of Microbiology",
+        "ETH Zurich",
+        "Synthetic Biology"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "third",
+        "who",
+        "chemistry",
+        "where",
+        "what",
+        "how",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_professor",
+        "Jörn Piel_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

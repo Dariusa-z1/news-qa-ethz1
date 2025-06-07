@@ -1,0 +1,265 @@
+{
+  "filename": "asvz-to-feature-online-counter-for-courses-and-camps-as-of-may-2015.md",
+  "original_filename": "asvz-to-feature-online-counter-for-courses-and-camps-as-of-may-2015.html",
+  "source_path": "en_internal/2015/03/asvz-to-feature-online-counter-for-courses-and-camps-as-of-may-2015.html",
+  "date": "2015-03",
+  "title": "Asvz To Feature Online Counter For Courses And Camps As Of May 2015",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The run on the ASVZ counters tends to be quite considerable courses and camps open for registration: those interested wait a long time in queues in the sports centres even before the counters open to secure one of the popular places. For that reason, a ticket system like that at the post office or SBB was rolled out at the Polyterrasse in recent years so that a fair process can be ensured.\n\nThe ASVZ will be offering an additional channel to register for courses and camps in its online counter as of May 2015. Anyone interested is recommended to prepare all the information necessary to register with the online counter early. Registrations are possible as of 30 March 2015.\n\nDetailed information on the online counter can be found (in German) in the Message of the ASVZ as well as in the FAQs , which answer the key questions. To register with the online counter, please go to asvz.ch/schalter .\n\nThe Academic Sports Association Zurich (ASVZ) is as non-profit organisation. It provides a sports programme for all students, employees and alumni on behalf of ETH Zurich, the University of Zurich and the Zurich University of Applied Sciences (ZFH)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "May 2015",
+        "label": "DATE",
+        "start": 79,
+        "end": 87
+      },
+      {
+        "text": "ASVZ",
+        "label": "ORG",
+        "start": 15,
+        "end": 19
+      },
+      {
+        "text": "SBB",
+        "label": "ORG",
+        "start": 299,
+        "end": 302
+      },
+      {
+        "text": "Polyterrasse",
+        "label": "LOC",
+        "start": 325,
+        "end": 337
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 341,
+        "end": 353
+      },
+      {
+        "text": "ASVZ",
+        "label": "ORG",
+        "start": 397,
+        "end": 401
+      },
+      {
+        "text": "May 2015",
+        "label": "DATE",
+        "start": 503,
+        "end": 511
+      },
+      {
+        "text": "30 March 2015",
+        "label": "DATE",
+        "start": 663,
+        "end": 676
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 738,
+        "end": 744
+      },
+      {
+        "text": "ASVZ",
+        "label": "ORG",
+        "start": 768,
+        "end": 772
+      },
+      {
+        "text": "The Academic Sports Association Zurich",
+        "label": "ORG",
+        "start": 899,
+        "end": 937
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1059,
+        "end": 1069
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 1071,
+        "end": 1095
+      },
+      {
+        "text": "the Zurich University of Applied Sciences (ZFH",
+        "label": "ORG",
+        "start": 1100,
+        "end": 1146
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ASVZ",
+        "SBB",
+        "The Academic Sports Association Zurich",
+        "the University of Zurich",
+        "the Zurich University of Applied Sciences (ZFH"
+      ],
+      "LOCATION": [
+        "Polyterrasse"
+      ],
+      "DATE": [
+        "30 March 2015",
+        "May 2015",
+        "recent years"
+      ],
+      "MISC": [
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "ASVZ": 3,
+      "May 2015": 2,
+      "SBB": 1,
+      "Polyterrasse": 1,
+      "recent years": 1,
+      "30 March 2015": 1,
+      "German": 1,
+      "The Academic Sports Association Zurich": 1,
+      "ETH Zurich": 1,
+      "the University of Zurich": 1,
+      "the Zurich University of Applied Sciences (ZFH": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "asvz-to-feature-online-counter-for-courses-and-camps-as-of-may-2015.md",
+      "title": "En Internal/2015/03/asvz To Feature Online Counter For Courses And Camps As Of May 2015",
+      "language": "en",
+      "source_path": "en_internal/2015/03/asvz-to-feature-online-counter-for-courses-and-camps-as-of-may-2015.html"
+    },
+    "temporal": {
+      "publication_date": "2015-03",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "alumni",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "alumni",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "German"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Applied Sciences",
+        "And Camps",
+        "Sports Association",
+        "The ASVZ",
+        "The Academic",
+        "Zurich University",
+        "As Of",
+        "En Internal",
+        "Online Counter",
+        "ETH Zurich",
+        "For Courses",
+        "To Feature"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ASVZ",
+        "SBB",
+        "The Academic Sports Association Zurich",
+        "the University of Zurich",
+        "the Zurich University of Applied Sciences (ZFH"
+      ],
+      "locations": [
+        "Polyterrasse"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ASVZ",
+        "May 2015",
+        "SBB",
+        "Polyterrasse",
+        "recent years",
+        "30 March 2015",
+        "German",
+        "The Academic Sports Association Zurich",
+        "ETH Zurich",
+        "the University of Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1239
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "the Zurich University of Applied Sciences (ZFH",
+        "EU",
+        "the University of Zurich",
+        "SBB",
+        "ASVZ",
+        "The Academic Sports Association Zurich",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "how",
+        "German",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_alumni",
+        "ETH Zurich_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

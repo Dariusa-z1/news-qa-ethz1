@@ -1,0 +1,157 @@
+{
+  "filename": "aufgefrischter-look-des-suchportals.md",
+  "original_filename": "aufgefrischter-look-des-suchportals.html",
+  "source_path": "en_internal/2019/11/aufgefrischter-look-des-suchportals.html",
+  "date": "2019-11",
+  "title": "Aufgefrischter Look Des Suchportals",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The search field is located in the centre of the page in all web page views, irrespective of the size of your terminal device. The wide range of media you can browse in a single search remains the same, however, be it books from the NEBIS library catalogue, digitized images and journals from ETH Library’s holdings, maps, videos or prints and information on building materials and resources. Discover the wide range of resources on offer at ETH Library.\n\n#KnowHow – ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "NEBIS",
+        "label": "ORG",
+        "start": 233,
+        "end": 238
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "ORG",
+        "start": 293,
+        "end": 306
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 442,
+        "end": 453
+      },
+      {
+        "text": "KnowHow",
+        "label": "PERSON",
+        "start": 455,
+        "end": 462
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 465,
+        "end": 478
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library’s",
+        "KnowHow"
+      ],
+      "ORG": [
+        "ETH Library",
+        "ETH Library’s",
+        "NEBIS"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Library’s": 2,
+      "NEBIS": 1,
+      "ETH Library": 1,
+      "KnowHow": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "aufgefrischter-look-des-suchportals.md",
+      "title": "En Internal/2019/11/aufgefrischter Look des Suchportals",
+      "language": "en",
+      "source_path": "en_internal/2019/11/aufgefrischter-look-des-suchportals.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library’s",
+        "KnowHow"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Suchportals The",
+        "ETH Library",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library",
+        "ETH Library’s",
+        "NEBIS"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Library’s",
+        "NEBIS",
+        "ETH Library",
+        "KnowHow"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 584
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "NEBIS",
+        "2019",
+        "ETH Library",
+        "KnowHow",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "how",
+        "why",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

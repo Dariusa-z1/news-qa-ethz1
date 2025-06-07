@@ -1,0 +1,185 @@
+{
+  "filename": "eth-zuerich-unterstuetzt-arxivorg-.md",
+  "original_filename": "eth-zuerich-unterstuetzt-arxivorg-.html",
+  "source_path": "de_internal/2016/04/eth-zuerich-unterstuetzt-arxivorg-.html",
+  "date": "2016-04",
+  "title": "Eth Zuerich Unterstuetzt Arxivorg",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Wissenschaftlerinnen und Wissenschaftler der ETH Zürich gehören hinsichtlich der Anzahl Zugriffe weltweit zu den Top-10-Nutzern. Auch die Möglichkeit, eigene Forschungsarbeiten auf externe Seite arXiv.org zu publizieren, nutzen sie rege.\n\narXiv.org wird von der Cornell University Library betrieben und weltweit von knapp 190 Institutionen finanziell mitgetragen. Mit ihrer Unterstützung trägt auch die ETH-Bibliothek seit dem Jahr 2011 dazu bei, dass die Volltextdatenbank der wissenschaftlichen Community in Zukunft weiterhin zur Verfügung steht.\n\nDie ETH-Bibliothek leistet hiermit einen Beitrag zur Stärkung der Open-Access-Strategie der ETH Zürich . Sie unterstreicht dies nun mit einer \"Platin-Mitgliedschaft\" bei arXiv.org."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/04",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 49,
+        "end": 59
+      },
+      {
+        "text": "Top-10-Nutzern",
+        "label": "MISC",
+        "start": 117,
+        "end": 131
+      },
+      {
+        "text": "Cornell University Library",
+        "label": "ORG",
+        "start": 265,
+        "end": 291
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 406,
+        "end": 420
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 556,
+        "end": 570
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 644,
+        "end": 654
+      },
+      {
+        "text": "Platin-Mitgliedschaft",
+        "label": "ORG",
+        "start": 695,
+        "end": 716
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Cornell University Library",
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "Platin-Mitgliedschaft"
+      ],
+      "LOCATION": [
+        "De Internal/2016/04"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "Top-10-Nutzern"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "ETH-Bibliothek": 2,
+      "De Internal/2016/04": 1,
+      "Top-10-Nutzern": 1,
+      "Cornell University Library": 1,
+      "Platin-Mitgliedschaft": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-zuerich-unterstuetzt-arxivorg-.md",
+      "title": "De Internal/2016/04/eth Zuerich Unterstuetzt Arxivorg",
+      "language": "de",
+      "source_path": "de_internal/2016/04/eth-zuerich-unterstuetzt-arxivorg-.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2011",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "Top-10-Nutzern"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Zuerich Unterstuetzt",
+        "Anzahl Zugriffe",
+        "ETH-Bibliothek",
+        "De Internal",
+        "Die ETH",
+        "Cornell University",
+        "Arxivorg Die",
+        "Open-Access",
+        "Platin-Mitgliedschaft"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cornell University Library",
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "Platin-Mitgliedschaft"
+      ],
+      "locations": [
+        "De Internal/2016/04"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "De Internal/2016/04",
+        "Top-10-Nutzern",
+        "Cornell University Library",
+        "Platin-Mitgliedschaft"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 788
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "Cornell University Library",
+        "2011",
+        "2016",
+        "ETH Zürich",
+        "Platin-Mitgliedschaft"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "when",
+        "where",
+        "Top-10-Nutzern"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "filename": "horizon-2020-open-research-data-ab-2017.md",
+  "original_filename": "horizon-2020-open-research-data-ab-2017.html",
+  "source_path": "en_internal/2016/08/horizon-2020-open-research-data-ab-2017.html",
+  "date": "2016-08",
+  "title": "Horizon 2020 Open Research Data Ab 2017",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Grantees will be required to ensure open access to the data underlying their scientific publications. Furthermore, they need to provide open access to any research data of their choice. Opting out of open data will remain possible.\n\nTo support data management and Open Data, projects will have to provide and to keep up to date a Data Management Plan (DMP). How a check list can help you doing this, we show in our blog post on Innovation@ETH-Bibliothek .\n\nInfographic on the topic (pdf, 205 kB)"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Grantees",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Open Data",
+        "label": "PRODUCT",
+        "start": 263,
+        "end": 272
+      },
+      {
+        "text": "DMP",
+        "label": "ORG",
+        "start": 351,
+        "end": 354
+      },
+      {
+        "text": "Innovation@ETH-Bibliothek",
+        "label": "PERSON",
+        "start": 427,
+        "end": 452
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Innovation@ETH-Bibliothek"
+      ],
+      "ORG": [
+        "DMP",
+        "Grantees"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "Open Data"
+      ]
+    },
+    "entity_counts": {
+      "Grantees": 1,
+      "Open Data": 1,
+      "DMP": 1,
+      "Innovation@ETH-Bibliothek": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "horizon-2020-open-research-data-ab-2017.md",
+      "title": "En Internal/2016/08/horizon 2020 Open Research Data Ab 2017",
+      "language": "en",
+      "source_path": "en_internal/2016/08/horizon-2020-open-research-data-ab-2017.html"
+    },
+    "temporal": {
+      "publication_date": "2016-08",
+      "mentioned_years": [
+        "2016",
+        "2017",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Innovation@ETH-Bibliothek"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Open Data"
+      ],
+      "grants_funding": [
+        "Horizon",
+        "grant"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Data Management",
+        "Open Data",
+        "En Internal",
+        "Data Ab",
+        "Open Research"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DMP",
+        "Grantees"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Grantees",
+        "Open Data",
+        "DMP",
+        "Innovation@ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 555
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "grant",
+        "2017",
+        "2020",
+        "2016",
+        "Grantees",
+        "DMP",
+        "Horizon",
+        "Innovation@ETH-Bibliothek"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Open Data",
+        "what",
+        "how",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

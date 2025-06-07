@@ -1,0 +1,145 @@
+{
+  "filename": "die-bibliothek-erdwissenschaften-schliesst-ihre-tueren-aber-nicht-ihr-angebot.md",
+  "original_filename": "die-bibliothek-erdwissenschaften-schliesst-ihre-tueren-aber-nicht-ihr-angebot.html",
+  "source_path": "en_internal/2024/01/die-bibliothek-erdwissenschaften-schliesst-ihre-tueren-aber-nicht-ihr-angebot.html",
+  "date": "2024-01",
+  "title": "Die Bibliothek Erdwissenschaften Schliesst Ihre Tueren Aber Nicht Ihr Angebot",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "First of all, we are still here for you. Our physical location may be closing, but you can still access our extensive media collection, take our courses and use our consultancy services.\n\nThank you for your understanding. We look forward to helping you with your research and studies.\n\nEmail: Phone: +41 44 632 21 35 For more details about the closure of the library, see our website ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Bibliothek Erdwissenschaften Schliesst Ihre Tueren",
+        "label": "PERSON",
+        "start": 24,
+        "end": 74
+      },
+      {
+        "text": "Nicht Ihr Angebot",
+        "label": "PERSON",
+        "start": 80,
+        "end": 97
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "21 35",
+        "label": "DATE",
+        "start": 309,
+        "end": 314
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bibliothek Erdwissenschaften Schliesst Ihre Tueren",
+        "Nicht Ihr Angebot"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [
+        "21 35"
+      ],
+      "MISC": [
+        "First"
+      ]
+    },
+    "entity_counts": {
+      "Bibliothek Erdwissenschaften Schliesst Ihre Tueren": 1,
+      "Nicht Ihr Angebot": 1,
+      "First": 1,
+      "21 35": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "die-bibliothek-erdwissenschaften-schliesst-ihre-tueren-aber-nicht-ihr-angebot.md",
+      "title": "En Internal/2024/01/die Bibliothek Erdwissenschaften Schliesst Ihre Tueren aber Nicht Ihr Angebot",
+      "language": "en",
+      "source_path": "en_internal/2024/01/die-bibliothek-erdwissenschaften-schliesst-ihre-tueren-aber-nicht-ihr-angebot.html"
+    },
+    "temporal": {
+      "publication_date": "2024-01",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bibliothek Erdwissenschaften Schliesst Ihre Tueren",
+        "Nicht Ihr Angebot"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "First"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Bibliothek Erdwissenschaften",
+        "Schliesst Ihre",
+        "En Internal",
+        "Nicht Ihr",
+        "Angebot First"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "Bibliothek Erdwissenschaften Schliesst Ihre Tueren",
+        "Nicht Ihr Angebot",
+        "First",
+        "21 35"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 483
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Nicht Ihr Angebot",
+        "2024",
+        "Bibliothek Erdwissenschaften Schliesst Ihre Tueren"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "First",
+        "what",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

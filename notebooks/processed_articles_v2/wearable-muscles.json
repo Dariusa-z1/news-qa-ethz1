@@ -1,0 +1,406 @@
+{
+  "filename": "wearable-muscles.md",
+  "original_filename": "wearable-muscles.html",
+  "source_path": "en_news_events/2022/06/wearable-muscles.html",
+  "date": "2022-06",
+  "title": "Wearable Muscles",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "As much strength as necessary",
+      "text": "“My arms are simply getting weaker,” says Michael Hagmann, who was diagnosed with a rare form of muscular dystrophy known as Bethlem myopathy back in 2016. To compensate for the lack of muscle strength in his arms, Hagmann adjusts his movements in a way that results in poor posture and strain. Marie Georgarakis, a former doctoral student at ETH Zurich’s Sensory Motor Systems Lab, is familiar with the problem. “Although hospitals have numerous good therapy devices, they are often very expensive and unwieldy. And there are few technical aids that patients can use directly in their everyday lives and draw on for assistance in performing exercises at home. We want to close this gap,” says Georgarakis."
+    },
+    {
+      "heading": "As much strength as necessary",
+      "text": "This idea led to the creation of the Myoshirt: a soft, wearable exomuscle for the upper body. It is a kind of vest with cuffs for the upper arms accompanied by a small box containing all the technology that is not used directly on the body. Working via sensors embedded in the fabric, a smart algorithm detects the wearer’s intentional movements and the amount of force required. A motor then shortens a cable in the fabric running parallel to the wearer’s muscles – a sort of artificial tendon – and in this way supports the desired movement. This assistance is always in tune with the user’s movements and can be tailored to their individual preferences. The user is always in control and can override the device at any time."
+    },
+    {
+      "heading": "Improved endurance thanks to the exomuscle",
+      "text": "The researchers have recently tested this prototype for the first time in a study featuring 12 participants: ten people without any physical impairments, one person with muscular dystrophy (Michael Hagmann) and one person with a spinal cord injury. The results were promising: all participants were able to lift their arms and/or objects for much longer thanks to the exomuscle. Endurance increased by about a third in the healthy subjects and by roughly 60% in the participant with muscular dystrophy, while the participant with a spinal cord injury was even able to perform the exercises three times as long. The exomuscle made it less taxing on their muscles, with the overwhelming majority of the participants finding the device intuitive to use."
+    },
+    {
+      "heading": "Testing and improving the exomuscle",
+      "text": "Nevertheless, it takes time for a product to be market-ready: “In the next phase, we want to test our prototype outside the lab in the natural environment of future wearers and use the results to further improve it,” says Michele Xiloyannis, who also works at the Sensory Motor Systems Lab at ETH Zurich and is conducting research for the Myoshirt project. To enable the device to be worn unobtrusively and comfortably under a person’s clothing, it has to be reduced even more in size and weight – the actuator and control box currently weigh 4 kg. The researchers want to minimise the product’s size by focussing on a single core function – supporting the user’s shoulders when lifting their arms. They are also working closely with ETH spin-off MyoSwiss AG, which manufactures and markets a soft exoskeleton – a kind of robotic suit. “What I particularly like is how the researchers are iteratively developing their ideas in collaboration with potential users,” says Hagmann, who has already assisted with the testing of various technical aids at ETH – from prototype through to finished product. One thing is clear: he wants to continue to be active in the future and is aware that supportive technologies are exactly what he will need to accomplish this."
+    },
+    {
+      "heading": "Reference",
+      "text": "Georgarakis M, Xiloyannis M, Wolf P, Riener R. A textile exomuscle that assists the shoulder during functional movements for everyday life. Nature Machine Intelligence. 22.06.2022. Online: https://rdcu.be/cQbm7"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Michael Hagmann",
+        "label": "PERSON",
+        "start": 42,
+        "end": 57
+      },
+      {
+        "text": "Bethlem",
+        "label": "NORP",
+        "start": 125,
+        "end": 132
+      },
+      {
+        "text": "Hagmann",
+        "label": "ORG",
+        "start": 215,
+        "end": 222
+      },
+      {
+        "text": "Marie Georgarakis",
+        "label": "PERSON",
+        "start": 295,
+        "end": 312
+      },
+      {
+        "text": "ETH Zurich’s Sensory Motor Systems Lab",
+        "label": "ORG",
+        "start": 343,
+        "end": 381
+      },
+      {
+        "text": "Myoshirt",
+        "label": "ORG",
+        "start": 37,
+        "end": 45
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 60,
+        "end": 65
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 109,
+        "end": 112
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 154,
+        "end": 157
+      },
+      {
+        "text": "Michael Hagmann",
+        "label": "PERSON",
+        "start": 190,
+        "end": 205
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 211,
+        "end": 214
+      },
+      {
+        "text": "about a third",
+        "label": "CARDINAL",
+        "start": 402,
+        "end": 415
+      },
+      {
+        "text": "roughly 60%",
+        "label": "PERCENT",
+        "start": 447,
+        "end": 458
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 590,
+        "end": 595
+      },
+      {
+        "text": "Michele Xiloyannis",
+        "label": "PERSON",
+        "start": 222,
+        "end": 240
+      },
+      {
+        "text": "the Sensory Motor Systems Lab",
+        "label": "ORG",
+        "start": 260,
+        "end": 289
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 293,
+        "end": 303
+      },
+      {
+        "text": "Myoshirt",
+        "label": "ORG",
+        "start": 339,
+        "end": 347
+      },
+      {
+        "text": "4 kg",
+        "label": "QUANTITY",
+        "start": 543,
+        "end": 547
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 734,
+        "end": 737
+      },
+      {
+        "text": "MyoSwiss AG",
+        "label": "ORG",
+        "start": 747,
+        "end": 758
+      },
+      {
+        "text": "Hagmann",
+        "label": "PERSON",
+        "start": 969,
+        "end": 976
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1049,
+        "end": 1052
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1099,
+        "end": 1102
+      },
+      {
+        "text": "Nature Machine Intelligence",
+        "label": "PERSON",
+        "start": 140,
+        "end": 167
+      },
+      {
+        "text": "22.06.2022",
+        "label": "DATE",
+        "start": 169,
+        "end": 179
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hagmann",
+        "Marie Georgarakis",
+        "Michael Hagmann",
+        "Michele Xiloyannis",
+        "Nature Machine Intelligence"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich’s Sensory Motor Systems Lab",
+        "Hagmann",
+        "MyoSwiss AG",
+        "Myoshirt",
+        "the Sensory Motor Systems Lab"
+      ],
+      "LOCATION": [
+        "ETH Zurich"
+      ],
+      "DATE": [
+        "22.06.2022"
+      ],
+      "MISC": [
+        "4 kg",
+        "Bethlem",
+        "One",
+        "about a third",
+        "first",
+        "one",
+        "roughly 60%",
+        "ten",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Michael Hagmann": 2,
+      "Hagmann": 2,
+      "Myoshirt": 2,
+      "one": 2,
+      "ETH": 2,
+      "Bethlem": 1,
+      "Marie Georgarakis": 1,
+      "ETH Zurich’s Sensory Motor Systems Lab": 1,
+      "first": 1,
+      "ten": 1,
+      "about a third": 1,
+      "roughly 60%": 1,
+      "three": 1,
+      "Michele Xiloyannis": 1,
+      "the Sensory Motor Systems Lab": 1,
+      "ETH Zurich": 1,
+      "4 kg": 1,
+      "MyoSwiss AG": 1,
+      "One": 1,
+      "Nature Machine Intelligence": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "wearable-muscles.md",
+      "title": "En News Events/2022/06/wearable Muscles",
+      "language": "en",
+      "source_path": "en_news_events/2022/06/wearable-muscles.html"
+    },
+    "temporal": {
+      "publication_date": "2022-06",
+      "mentioned_years": [
+        "2016",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Hagmann",
+        "Marie Georgarakis",
+        "Michael Hagmann",
+        "Michele Xiloyannis",
+        "Nature Machine Intelligence"
+      ],
+      "people_with_roles": {
+        "Hagmann": [
+          "researcher"
+        ],
+        "Marie Georgarakis": [
+          "student"
+        ],
+        "Michael Hagmann": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "4 kg",
+        "Bethlem",
+        "about a third",
+        "first",
+        "roughly 60%",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Xiloyannis M",
+        "Sensory Motor",
+        "Georgarakis M",
+        "En News",
+        "Michele Xiloyannis",
+        "Wolf P",
+        "Michael Hagmann",
+        "Marie Georgarakis",
+        "Systems Lab",
+        "Nature Machine",
+        "Riener R",
+        "ETH Zurich",
+        "What I",
+        "MyoSwiss AG"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich’s Sensory Motor Systems Lab",
+        "Hagmann",
+        "MyoSwiss AG",
+        "Myoshirt",
+        "the Sensory Motor Systems Lab"
+      ],
+      "locations": [
+        "ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Michael Hagmann",
+        "Hagmann",
+        "Myoshirt",
+        "one",
+        "ETH",
+        "Bethlem",
+        "Marie Georgarakis",
+        "ETH Zurich’s Sensory Motor Systems Lab",
+        "first",
+        "ten"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "As much strength as necessary",
+          "As much strength as necessary",
+          "Improved endurance thanks to the exomuscle",
+          "Testing and improving the exomuscle",
+          "Reference"
+        ],
+        "content_length": 3695
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hagmann",
+        "ETH",
+        "ETH Zurich’s Sensory Motor Systems Lab",
+        "Michele Xiloyannis",
+        "the Sensory Motor Systems Lab",
+        "Michael Hagmann",
+        "Marie Georgarakis",
+        "Nature Machine Intelligence",
+        "2016",
+        "2022",
+        "MyoSwiss AG",
+        "ERC",
+        "Myoshirt"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "4 kg",
+        "three",
+        "who",
+        "about a third",
+        "roughly 60%",
+        "Bethlem",
+        "what",
+        "how",
+        "medical_research",
+        "when"
+      ],
+      "graph_relations": [
+        "Hagmann_has_role_researcher",
+        "Marie Georgarakis_has_role_student",
+        "Michael Hagmann_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

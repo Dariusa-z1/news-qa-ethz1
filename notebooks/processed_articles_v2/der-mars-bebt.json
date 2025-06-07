@@ -1,0 +1,472 @@
+{
+  "filename": "der-mars-bebt.md",
+  "original_filename": "der-mars-bebt.html",
+  "source_path": "de_news_events/2019/04/der-mars-bebt.html",
+  "date": "2019-04",
+  "title": "Der Mars Bebt",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Mars ist seismisch aktiv",
+      "text": "Die Insight-Sonde (vgl. Box) hat bereits verschiedene Signale vom Mars auf die Erde gesendet. Eine erfreuliche Meldung für die ETH Zürich. Denn die Erfassung dieser Signale ist unter anderem der hochempfindlichen Elektronik des Seismometers zu verdanken, die am Labor für Raumfahrtelektronik und -instrumente der Hochschule entwickelt wurde. «Die Messungen zeigen, dass unsere Elektronik dort oben reibungslos läuft», freut sich Domenico Giardini. Der Professor für Seismologie und Geophysik koordiniert die Aktivitäten an der ETH für die InSight-Mission. Die aufgezeichneten Erschütterungen auf dem Mars seien insgesamt eher schwach. Entsprechend schwierig sind sie einzuordnen: Stammen sie vom Wind? Wurden sie von Meteoriteneinschlägen verursacht? Oder liegt ihnen tatsächlich Prozesse im Marsinneren zugrunde? Ein Ereignis, das die Erde am 6. April 2019 erreichte, deuten Forschende des ETH-Marsbebendiensts als mögliches Marsbeben."
+    },
+    {
+      "heading": "Mars ist seismisch aktiv",
+      "text": "«Das Signal scheint aus dem Marsinnern zu kommen», sagt Simon Stähler von der Gruppe für Seismologie und Geodynamik, die gemeinsam mit Seismologinnen und Seismologen des Schweizerischen Erdbebendiensts den Marsbebendienst an der ETH betreibt. Allerdings sei noch nicht klar, was genau die Erschütterung ausgelöst hat.\n\nÜberraschend ist für die Wissenschaftlerinnen und Wissenschaftler, dass die Messresultate darauf hindeuten, dass Marsbeben viel eher Mond- als Erdbeben ähneln. «Bisher sind wir davon ausgegangen, dass die Kruste des Mars eher ähnlich wie die Erdkruste ist», sagt Stähler. Während die Erdkruste aus verfestigtem Gestein besteht, ist die Mondkruste aufgrund fortlaufender Meteoriteneinschlägen stark zerklüftet. «Dass die Wellenform der Marsbeben den Mondbeben ähneln, gibt uns erstmals ein Bild darüber, wie die Marskruste im Inneren aufgebaut ist, während wir bisher nur von aussen drauf schauen konnten», erklärt Stähler.\n\nWährend die Messresultate die Annahme stützen, dass der Mars seismisch aktiv ist, sind die gemessenen Signale noch zu schwach, um Hinweise auf den inneren Aufbau des Mars unterhalb der obersten Kruste zu geben – eines der Ziele der Insight-Mission. Die Forschenden hoffen nun, dass stärkere Beben in Zukunft noch mehr Aussagen über das tiefe Marsinnere erlauben.\n\nInsight (Abkürzung für Interior Exploration using Seismic Investigations, Geodesy and Heat Transport) ist ein Mars-Lander, der dazu entwickelt wurde, Kruste, Mantel und Kern des roten Planeten zu untersuchen. Davon erhoffen sich Wissenschaftler Antworten auf wichtige Fragen über die Entstehung der vier Gesteinsplaneten Merkur, Venus, Erde und Mars in unserem Sonnensystem sowie von Gesteins-Exoplaneten. Der Lander misst zudem mögliche tektonische Aktivitäten und Meteoriteneinschläge auf dem Mars.\n\nAusgestattet ist Insight mit modernsten Instrumenten, um tief unter der Oberfläche nach «Fingerabdrücken» der Vorgänge zu suchen, welche die Gesteinsplaneten geformt haben. Dazu misst er die «Vitalzeichen» des Mars: den Puls (Seismologie), die Temperatur (Wärmefluss) und die Reflexe (Präzisions-Tracking).\n\nDie externe Seite Insight-Mission ist Teil des Discovery-Programms der Nasa.\n\nMehr Informationen unter www.insight.ethz.ch"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Mars Bebt",
+        "label": "LOC",
+        "start": 27,
+        "end": 36
+      },
+      {
+        "text": "Insight-Sonde",
+        "label": "MISC",
+        "start": 4,
+        "end": 17
+      },
+      {
+        "text": "Box",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 66,
+        "end": 70
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 79,
+        "end": 83
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 127,
+        "end": 137
+      },
+      {
+        "text": "Seismometers",
+        "label": "MISC",
+        "start": 228,
+        "end": 240
+      },
+      {
+        "text": "Domenico Giardini",
+        "label": "PER",
+        "start": 429,
+        "end": 446
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 527,
+        "end": 530
+      },
+      {
+        "text": "InSight-Mission",
+        "label": "ORG",
+        "start": 539,
+        "end": 554
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 600,
+        "end": 604
+      },
+      {
+        "text": "Meteoriteneinschlägen",
+        "label": "LOC",
+        "start": 717,
+        "end": 738
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 836,
+        "end": 840
+      },
+      {
+        "text": "ETH-Marsbebendiensts",
+        "label": "MISC",
+        "start": 891,
+        "end": 911
+      },
+      {
+        "text": "Simon Stähler",
+        "label": "PER",
+        "start": 56,
+        "end": 69
+      },
+      {
+        "text": "Gruppe für Seismologie und Geodynamik",
+        "label": "ORG",
+        "start": 78,
+        "end": 115
+      },
+      {
+        "text": "Schweizerischen Erdbebendiensts",
+        "label": "ORG",
+        "start": 170,
+        "end": 201
+      },
+      {
+        "text": "Marsbebendienst",
+        "label": "ORG",
+        "start": 206,
+        "end": 221
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 229,
+        "end": 232
+      },
+      {
+        "text": "Wissenschaftlerinnen",
+        "label": "LOC",
+        "start": 343,
+        "end": 363
+      },
+      {
+        "text": "Marsbeben",
+        "label": "PER",
+        "start": 431,
+        "end": 440
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 534,
+        "end": 538
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 997,
+        "end": 1001
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1107,
+        "end": 1111
+      },
+      {
+        "text": "Insight-Mission",
+        "label": "MISC",
+        "start": 1173,
+        "end": 1188
+      },
+      {
+        "text": "Investigations",
+        "label": "PER",
+        "start": 1362,
+        "end": 1376
+      },
+      {
+        "text": "Geodesy and Heat",
+        "label": "ORG",
+        "start": 1378,
+        "end": 1394
+      },
+      {
+        "text": "Merkur",
+        "label": "LOC",
+        "start": 1625,
+        "end": 1631
+      },
+      {
+        "text": "Venus",
+        "label": "LOC",
+        "start": 1633,
+        "end": 1638
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 1640,
+        "end": 1644
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1649,
+        "end": 1653
+      },
+      {
+        "text": "Gesteins-Exoplaneten",
+        "label": "MISC",
+        "start": 1688,
+        "end": 1708
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1799,
+        "end": 1803
+      },
+      {
+        "text": "Insight",
+        "label": "LOC",
+        "start": 1822,
+        "end": 1829
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 2015,
+        "end": 2019
+      },
+      {
+        "text": "Insight-Mission",
+        "label": "LOC",
+        "start": 2130,
+        "end": 2145
+      },
+      {
+        "text": "Discovery-Programms der Nasa",
+        "label": "ORG",
+        "start": 2159,
+        "end": 2187
+      },
+      {
+        "text": "www.insight.ethz.ch",
+        "label": "PER",
+        "start": 2214,
+        "end": 2233
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Box",
+        "De News",
+        "Domenico Giardini",
+        "Investigations",
+        "Marsbeben",
+        "Simon Stähler",
+        "www.insight.ethz.ch"
+      ],
+      "ORG": [
+        "Discovery-Programms der Nasa",
+        "ETH",
+        "ETH Zürich",
+        "Geodesy and Heat",
+        "Gruppe für Seismologie und Geodynamik",
+        "InSight-Mission",
+        "Marsbebendienst",
+        "Schweizerischen Erdbebendiensts"
+      ],
+      "LOCATION": [
+        "Erde",
+        "Insight",
+        "Insight-Mission",
+        "Mars",
+        "Mars Bebt",
+        "Merkur",
+        "Meteoriteneinschlägen",
+        "Venus",
+        "Wissenschaftlerinnen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Marsbebendiensts",
+        "Gesteins-Exoplaneten",
+        "Insight-Mission",
+        "Insight-Sonde",
+        "Seismometers"
+      ]
+    },
+    "entity_counts": {
+      "Mars": 8,
+      "Erde": 3,
+      "ETH": 2,
+      "Insight-Mission": 2,
+      "De News": 1,
+      "Mars Bebt": 1,
+      "Insight-Sonde": 1,
+      "Box": 1,
+      "ETH Zürich": 1,
+      "Seismometers": 1,
+      "Domenico Giardini": 1,
+      "InSight-Mission": 1,
+      "Meteoriteneinschlägen": 1,
+      "ETH-Marsbebendiensts": 1,
+      "Simon Stähler": 1,
+      "Gruppe für Seismologie und Geodynamik": 1,
+      "Schweizerischen Erdbebendiensts": 1,
+      "Marsbebendienst": 1,
+      "Wissenschaftlerinnen": 1,
+      "Marsbeben": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "der-mars-bebt.md",
+      "title": "De News Events/2019/04/der Mars Bebt",
+      "language": "de",
+      "source_path": "de_news_events/2019/04/der-mars-bebt.html"
+    },
+    "temporal": {
+      "publication_date": "2019-04",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Box",
+        "De News",
+        "Domenico Giardini",
+        "Investigations",
+        "Marsbeben",
+        "Simon Stähler",
+        "www.insight.ethz.ch"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Marsbebendiensts",
+        "Gesteins-Exoplaneten",
+        "Insight-Mission",
+        "Insight-Sonde",
+        "Seismometers"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Der Lander",
+        "Die Forschenden",
+        "Gesteinsplaneten Merkur",
+        "Interior Exploration",
+        "Gesteins-Exoplaneten",
+        "Seite Insight",
+        "Ein Ereignis",
+        "Discovery-Programms",
+        "Insight-Mission",
+        "Die Messungen",
+        "InSight-Mission",
+        "Domenico Giardini",
+        "Mehr Informationen",
+        "Heat Transport",
+        "Das Signal",
+        "Seismic Investigations",
+        "Die Insight",
+        "Mars Bebt",
+        "Der Professor",
+        "ETH-Marsbebendiensts",
+        "Wissenschaftler Antworten",
+        "De News",
+        "Schweizerischen Erdbebendiensts",
+        "Mars-Lander"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Discovery-Programms der Nasa",
+        "ETH",
+        "ETH Zürich",
+        "Geodesy and Heat",
+        "Gruppe für Seismologie und Geodynamik",
+        "InSight-Mission",
+        "Marsbebendienst",
+        "Schweizerischen Erdbebendiensts"
+      ],
+      "locations": [
+        "Erde",
+        "Insight",
+        "Insight-Mission",
+        "Mars",
+        "Mars Bebt",
+        "Merkur",
+        "Meteoriteneinschlägen",
+        "Venus",
+        "Wissenschaftlerinnen"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Mars",
+        "Erde",
+        "ETH",
+        "Insight-Mission",
+        "De News",
+        "Mars Bebt",
+        "Insight-Sonde",
+        "Box",
+        "ETH Zürich",
+        "Seismometers"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Mars ist seismisch aktiv",
+          "Mars ist seismisch aktiv"
+        ],
+        "content_length": 3213
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Discovery-Programms der Nasa",
+        "Simon Stähler",
+        "Investigations",
+        "2019",
+        "Gruppe für Seismologie und Geodynamik",
+        "EU",
+        "Marsbebendienst",
+        "ETH Zürich",
+        "www.insight.ethz.ch",
+        "De News",
+        "Domenico Giardini",
+        "Marsbeben",
+        "Geodesy and Heat",
+        "InSight-Mission",
+        "Box",
+        "Schweizerischen Erdbebendiensts"
+      ],
+      "semantic_concepts": [
+        "Insight-Sonde",
+        "ETH-Marsbebendiensts",
+        "who",
+        "Insight-Mission",
+        "Seismometers",
+        "Gesteins-Exoplaneten"
+      ],
+      "graph_relations": []
+    }
+  }
+}

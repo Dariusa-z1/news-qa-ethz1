@@ -1,0 +1,257 @@
+{
+  "filename": "nicht-kommerzielle-waren-richtig-ins-ausland-verschicken.md",
+  "original_filename": "nicht-kommerzielle-waren-richtig-ins-ausland-verschicken.html",
+  "source_path": "de_internal/2022/08/nicht-kommerzielle-waren-richtig-ins-ausland-verschicken.html",
+  "date": "2022-08",
+  "title": "Nicht Kommerzielle Waren Richtig Ins Ausland Verschicken",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Pakete und Maxibriefe",
+      "text": "Seit Januar 2022 hat die EU die Mehrwertsteuer-Freigrenze aufgehoben. Das hat zur Folge, dass ausländische Empfänger:innen von Sendungen aus der Schweiz zur Kasse gebeten werden. Was können Sie tun, damit Sendungen mit nicht-kommerziellen Waren am Bestimmungsort ankommen und dies möglichst kostengünstig?"
+    },
+    {
+      "heading": "Pakete und Maxibriefe",
+      "text": "Bei Sendungen mit Frachtbrief (Paket) oder mit Zolldokument CN22 (Maxibrief) notieren Sie unter Inhaltsbeschreibung «Value for customs purposes only – Samples free of charge» (zu Deutsch: Wert nur für Zollzwecke – kostenloses Muster) einen plausiblen Warenwert. Ein «Null»-Wert ist nicht zulässig. Erstellen Sie eine Pro-forma-Rechnung für die zu verschickende Ware mit Hilfe unserer Vorlage ."
+    },
+    {
+      "heading": "Eilsendungen",
+      "text": "Bei den Urgent-Sendungen haben Sie die Möglichkeit, die Einfuhrsteuer für die Empfänger:innen zu übernehmen. Dies ist jedoch nur mit einem Post-Login möglich. Wählen Sie dabei vor dem Auftragsabschluss «DDP» mit oder ohne Mehrwertsteuer aus. DDP steht für «Delivered Duty Paid» und bedeutet frei übersetzt: verzollt geliefert.\n\nAchtung: Manche Länder verlangen zusätzlich eine Servicepauschale, die separat auf die Einfuhrumsatzsteuer draufgerechnet wird. Informieren Sie sich vor dem Versand online über die Landesbestimmungen. Das Campus Info Team berät Sie gerne persönlich oder bietet Ihnen Hilfestellung beim Ausfüllen der Dokumente an."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/08/nicht",
+        "label": "LOC",
+        "start": 0,
+        "end": 25
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 25,
+        "end": 27
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 145,
+        "end": 152
+      },
+      {
+        "text": "Value for customs purposes",
+        "label": "ORG",
+        "start": 117,
+        "end": 143
+      },
+      {
+        "text": "Deutsch",
+        "label": "MISC",
+        "start": 179,
+        "end": 186
+      },
+      {
+        "text": "Zollzwecke",
+        "label": "LOC",
+        "start": 201,
+        "end": 211
+      },
+      {
+        "text": "Urgent-Sendungen",
+        "label": "MISC",
+        "start": 8,
+        "end": 24
+      },
+      {
+        "text": "DDP",
+        "label": "ORG",
+        "start": 203,
+        "end": 206
+      },
+      {
+        "text": "DDP",
+        "label": "ORG",
+        "start": 242,
+        "end": 245
+      },
+      {
+        "text": "Delivered Duty Paid",
+        "label": "PER",
+        "start": 257,
+        "end": 276
+      },
+      {
+        "text": "Einfuhrumsatzsteuer",
+        "label": "LOC",
+        "start": 414,
+        "end": 433
+      },
+      {
+        "text": "Informieren",
+        "label": "LOC",
+        "start": 455,
+        "end": 466
+      },
+      {
+        "text": "Info Team",
+        "label": "ORG",
+        "start": 539,
+        "end": 548
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Delivered Duty Paid"
+      ],
+      "ORG": [
+        "DDP",
+        "EU",
+        "Info Team",
+        "Value for customs purposes"
+      ],
+      "LOCATION": [
+        "De Internal/2022/08/nicht",
+        "Einfuhrumsatzsteuer",
+        "Informieren",
+        "Schweiz",
+        "Zollzwecke"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Deutsch",
+        "Urgent-Sendungen"
+      ]
+    },
+    "entity_counts": {
+      "DDP": 2,
+      "De Internal/2022/08/nicht": 1,
+      "EU": 1,
+      "Schweiz": 1,
+      "Value for customs purposes": 1,
+      "Deutsch": 1,
+      "Zollzwecke": 1,
+      "Urgent-Sendungen": 1,
+      "Delivered Duty Paid": 1,
+      "Einfuhrumsatzsteuer": 1,
+      "Informieren": 1,
+      "Info Team": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "nicht-kommerzielle-waren-richtig-ins-ausland-verschicken.md",
+      "title": "De Internal/2022/08/nicht Kommerzielle Waren Richtig Ins Ausland Verschicken",
+      "language": "de",
+      "source_path": "de_internal/2022/08/nicht-kommerzielle-waren-richtig-ins-ausland-verschicken.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Delivered Duty Paid"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Deutsch",
+        "Urgent-Sendungen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Urgent-Sendungen",
+        "Delivered Duty",
+        "De Internal",
+        "Richtig Ins",
+        "Bei Sendungen",
+        "Post-Login",
+        "Ihnen Hilfestellung",
+        "Das Campus",
+        "Info Team",
+        "Ausland Verschicken",
+        "Kommerzielle Waren",
+        "Informieren Sie",
+        "Seit Januar",
+        "Erstellen Sie",
+        "Mehrwertsteuer-Freigrenze"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DDP",
+        "EU",
+        "Info Team",
+        "Value for customs purposes"
+      ],
+      "locations": [
+        "De Internal/2022/08/nicht",
+        "Einfuhrumsatzsteuer",
+        "Informieren",
+        "Schweiz",
+        "Zollzwecke"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "why"
+      ],
+      "key_concepts": [
+        "DDP",
+        "De Internal/2022/08/nicht",
+        "EU",
+        "Schweiz",
+        "Value for customs purposes",
+        "Deutsch",
+        "Zollzwecke",
+        "Urgent-Sendungen",
+        "Delivered Duty Paid",
+        "Einfuhrumsatzsteuer"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Pakete und Maxibriefe",
+          "Pakete und Maxibriefe",
+          "Eilsendungen"
+        ],
+        "content_length": 1418
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Delivered Duty Paid",
+        "EU",
+        "2022",
+        "Info Team",
+        "DDP",
+        "Value for customs purposes"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Urgent-Sendungen",
+        "why",
+        "Deutsch"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

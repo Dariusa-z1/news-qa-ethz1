@@ -1,0 +1,233 @@
+{
+  "filename": "the-bike-handlebars-for-the-world-champion.md",
+  "original_filename": "the-bike-handlebars-for-the-world-champion.html",
+  "source_path": "en_news_events/2023/11/the-bike-handlebars-for-the-world-champion.html",
+  "date": "2023-11",
+  "title": "The Bike Handlebars For The World Champion",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Flurina Rigling is a high-flyer in the world of paracycling: in 2023 she took gold in the world track championships and the road race championships in Glasgow. The 27-year-old accomplished these feats after just over three years of being regularly in the saddle of her racing bike.\n\nFormer ETH student Luca Hasler has played a part in Rigling’s success. The mechanical engineering student developed new handlebars customised to the parathlete’s hands as part of his Master’s thesis. They enabled Rigling to ride her bike more safely, comfortably and – above all – faster.\n\nIn the video Hasler and Rigling give an account of their intensive collaboration and of what has happened since Hasler’s graduation."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The World Champion",
+        "label": "ORG",
+        "start": 47,
+        "end": 65
+      },
+      {
+        "text": "Flurina Rigling",
+        "label": "PERSON",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Glasgow",
+        "label": "GPE",
+        "start": 151,
+        "end": 158
+      },
+      {
+        "text": "27-year-old",
+        "label": "DATE",
+        "start": 164,
+        "end": 175
+      },
+      {
+        "text": "just over three years",
+        "label": "DATE",
+        "start": 207,
+        "end": 228
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 289,
+        "end": 292
+      },
+      {
+        "text": "Luca Hasler",
+        "label": "PERSON",
+        "start": 301,
+        "end": 312
+      },
+      {
+        "text": "Rigling",
+        "label": "GPE",
+        "start": 334,
+        "end": 341
+      },
+      {
+        "text": "Rigling",
+        "label": "PERSON",
+        "start": 495,
+        "end": 502
+      },
+      {
+        "text": "Hasler and Rigling",
+        "label": "WORK_OF_ART",
+        "start": 584,
+        "end": 602
+      },
+      {
+        "text": "Hasler",
+        "label": "ORG",
+        "start": 683,
+        "end": 689
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Flurina Rigling",
+        "Luca Hasler",
+        "Rigling"
+      ],
+      "ORG": [
+        "ETH",
+        "Hasler",
+        "The World Champion"
+      ],
+      "LOCATION": [
+        "Glasgow",
+        "Rigling"
+      ],
+      "DATE": [
+        "27-year-old",
+        "just over three years"
+      ],
+      "MISC": [
+        "Hasler and Rigling"
+      ]
+    },
+    "entity_counts": {
+      "Rigling": 2,
+      "The World Champion": 1,
+      "Flurina Rigling": 1,
+      "Glasgow": 1,
+      "27-year-old": 1,
+      "just over three years": 1,
+      "ETH": 1,
+      "Luca Hasler": 1,
+      "Hasler and Rigling": 1,
+      "Hasler": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-bike-handlebars-for-the-world-champion.md",
+      "title": "En News Events/2023/11/the Bike Handlebars For The World Champion",
+      "language": "en",
+      "source_path": "en_news_events/2023/11/the-bike-handlebars-for-the-world-champion.html"
+    },
+    "temporal": {
+      "publication_date": "2023-11",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [
+        "Flurina Rigling",
+        "Luca Hasler",
+        "Rigling"
+      ],
+      "people_with_roles": {
+        "Luca Hasler": [
+          "student"
+        ],
+        "Rigling": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "Hasler and Rigling"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "Flurina Rigling",
+        "Former ETH",
+        "Bike Handlebars",
+        "Luca Hasler",
+        "World Champion",
+        "For The"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Hasler",
+        "The World Champion"
+      ],
+      "locations": [
+        "Glasgow",
+        "Rigling"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Rigling",
+        "The World Champion",
+        "Flurina Rigling",
+        "Glasgow",
+        "27-year-old",
+        "just over three years",
+        "ETH",
+        "Luca Hasler",
+        "Hasler and Rigling",
+        "Hasler"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 771
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Rigling",
+        "Flurina Rigling",
+        "The World Champion",
+        "Luca Hasler",
+        "Hasler",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "when",
+        "what",
+        "engineering",
+        "Hasler and Rigling"
+      ],
+      "graph_relations": [
+        "Luca Hasler_has_role_student",
+        "Rigling_has_role_student",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "filename": "i-underestimated-eth.md",
+  "original_filename": "i-underestimated-eth.html",
+  "source_path": "en_news_events/2022/01/i-underestimated-eth.html",
+  "date": "2022-01",
+  "title": "I Underestimated Eth",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Advice for students",
+      "text": "In the second episode, Master’s student Sarper Melik Ertekin tells us why he has learned not to compare himself to others."
+    },
+    {
+      "heading": "Advice for students",
+      "text": "ETH Zurich offers advice centres for (virtually) any situation that may arise during your studies."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 7,
+        "end": 13
+      },
+      {
+        "text": "Sarper Melik Ertekin",
+        "label": "PERSON",
+        "start": 40,
+        "end": 60
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Sarper Melik Ertekin"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "second": 1,
+      "Sarper Melik Ertekin": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "i-underestimated-eth.md",
+      "title": "En News Events/2022/01/i Underestimated Eth",
+      "language": "en",
+      "source_path": "en_news_events/2022/01/i-underestimated-eth.html"
+    },
+    "temporal": {
+      "publication_date": "2022-01",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Sarper Melik Ertekin"
+      ],
+      "people_with_roles": {
+        "Sarper Melik Ertekin": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Zurich",
+        "Sarper Melik",
+        "Underestimated Eth",
+        "En News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "why"
+      ],
+      "key_concepts": [
+        "second",
+        "Sarper Melik Ertekin",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Advice for students",
+          "Advice for students"
+        ],
+        "content_length": 265
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "2022",
+        "Sarper Melik Ertekin"
+      ],
+      "semantic_concepts": [
+        "why",
+        "second"
+      ],
+      "graph_relations": [
+        "Sarper Melik Ertekin_has_role_student"
+      ]
+    }
+  }
+}

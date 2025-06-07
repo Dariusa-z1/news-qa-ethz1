@@ -1,0 +1,171 @@
+{
+  "filename": "publikationen-direkt-aus-e-citations-in-e-collection-hochladen.md",
+  "original_filename": "publikationen-direkt-aus-e-citations-in-e-collection-hochladen.html",
+  "source_path": "de_internal/2014/03/publikationen-direkt-aus-e-citations-in-e-collection-hochladen.html",
+  "date": "2014-03",
+  "title": "Publikationen Direkt Aus E Citations In E Collection Hochladen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Beim Eintragen einer Referenz in ETH E-Citations wählen Sie die Option \"Publish in E-Collection\". Auf diese Weise können Sie einen Volltext direkt zur Veröffentlichung in der ETH E-Collection hochladen. Das Team der ETH-Bibliothek prüft die rechtlichen Rahmenbedingungen und veröffentlicht anschliessend Ihr Dokument. Zudem stellt es die Verlinkung aus ETH E-Citations sicher."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/03",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Aus E Citations",
+        "label": "MISC",
+        "start": 41,
+        "end": 56
+      },
+      {
+        "text": "E Collection Hochladen",
+        "label": "LOC",
+        "start": 60,
+        "end": 82
+      },
+      {
+        "text": "ETH E-Citations",
+        "label": "ORG",
+        "start": 33,
+        "end": 48
+      },
+      {
+        "text": "E-Collection",
+        "label": "LOC",
+        "start": 83,
+        "end": 95
+      },
+      {
+        "text": "ETH E-Collection",
+        "label": "ORG",
+        "start": 175,
+        "end": 191
+      },
+      {
+        "text": "ETH E-Citations",
+        "label": "MISC",
+        "start": 353,
+        "end": 368
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH E-Citations",
+        "ETH E-Collection"
+      ],
+      "LOCATION": [
+        "De Internal/2014/03",
+        "E Collection Hochladen",
+        "E-Collection"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Aus E Citations",
+        "ETH E-Citations"
+      ]
+    },
+    "entity_counts": {
+      "ETH E-Citations": 2,
+      "De Internal/2014/03": 1,
+      "Aus E Citations": 1,
+      "E Collection Hochladen": 1,
+      "E-Collection": 1,
+      "ETH E-Collection": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "publikationen-direkt-aus-e-citations-in-e-collection-hochladen.md",
+      "title": "De Internal/2014/03/publikationen Direkt Aus E Citations in E Collection Hochladen",
+      "language": "de",
+      "source_path": "de_internal/2014/03/publikationen-direkt-aus-e-citations-in-e-collection-hochladen.html"
+    },
+    "temporal": {
+      "publication_date": "2014-03",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Aus E Citations",
+        "ETH E-Citations"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "E Collection",
+        "ETH-Bibliothek",
+        "Direkt Aus",
+        "Das Team",
+        "De Internal",
+        "Hochladen Beim",
+        "Ihr Dokument",
+        "E-Collection",
+        "ETH E",
+        "E Citations"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH E-Citations",
+        "ETH E-Collection"
+      ],
+      "locations": [
+        "De Internal/2014/03",
+        "E Collection Hochladen",
+        "E-Collection"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH E-Citations",
+        "De Internal/2014/03",
+        "Aus E Citations",
+        "E Collection Hochladen",
+        "E-Collection",
+        "ETH E-Collection"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 459
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH E-Collection",
+        "2014",
+        "ETH E-Citations"
+      ],
+      "semantic_concepts": [
+        "ETH E-Citations",
+        "Aus E Citations"
+      ],
+      "graph_relations": []
+    }
+  }
+}

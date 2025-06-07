@@ -1,0 +1,424 @@
+{
+  "filename": "the-grey-energy-in-smartphones-and-sausages.md",
+  "original_filename": "the-grey-energy-in-smartphones-and-sausages.html",
+  "source_path": "en_news_events/2015/02/the-grey-energy-in-smartphones-and-sausages.html",
+  "date": "2015-02",
+  "title": "The Grey Energy In Smartphones And Sausages",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A smartphone – really a global affair",
+      "text": "A lot of the debate about the referendum has been about whether it makes sense or not. As a researcher on energy and environment with some training in life cycle assessment (LCA), I wondered how they would go about calculating this proposed new energy tax.\n\nLCA is a field of science that deals specifically with environmental impacts of products, and the method is quite simple in principle: you split the impacts into categories, like production, transport, use, and disposal. Then you refine each category into subcategories, like production of steel and production of plastic. And steel requires iron ore and coal, and so on. In the end, you multiply these impacts by the share of each component in the product and add it all up. Now I am wondering how this would work for calculating the energy impact of a smartphone, or a sausage, or any of the tens of thousands of different items on sale in Switzerland."
+    },
+    {
+      "heading": "A smartphone – really a global affair",
+      "text": "Let us start with the smartphone: No smartphones are produced in Switzerland, so they are all transported from somewhere, usually China, Taiwan, or Korea, in shipping boxes with plastic bags and manuals and so on. Transport and packaging all account for a certain amount of energy consumption. At the factory, an individual smartphone is assembled from some 500 separate parts, though all but ten of these are quite tiny. Each of these parts is produced somewhere, then shipped to the assembly factory, which accounts for more packaging and shipping and thus, more energy.\n\nThe varied parts in turn, are made of at least two dozen different minerals, including gold, tantalum, tin, copper, glass, and oil (for the plastic). Each of these was taken from the ground somewhere else in the world. These minerals are traded on a global commodity market, so there is often no clear record of where it comes from and how far it has travelled. Alternatively, some of the materials used were recycled, which often uses less energy.\n\nAnd this is for one model of phone. Another model, with a different screen and case and battery, has different energy needs for production. The LCA done for the Fairphone as a master thesis project is a good example."
+    },
+    {
+      "heading": "The life of a sausage",
+      "text": "But a smartphone is a high-tech gadget, I hear you say, so of course it is very complicated. Let us look instead at a sausage: Drive deep into the Zürcher Oberland and you may find a village shop with delicious artisanal sausages made by a local farmer who has solar panels on the roof and a biomass digester. All made locally with renewable energy.\n\nBut if you go to the supermarket and buy some chorizo, things get a lot more complicated. First, there is the energy used to bring the Spanish sausage to Switzerland. Then you need energy used to house and water the pigs. Of course, EU rules allow for a sausage to be called Spanish even if the animals from which it was made spent most of their lives in a completely different country (which is why more Parma ham is sold than could ever be produced by pigs born in the Emilia-Romagna). It is obviously a lot of work to trace the life and energy consumption of a particular sausage pig.\n\nFood for livestock animals is often a mix of imported cereals and legumes like soy from Argentina and cassava from Africa. These – like the minerals in the smartphone example – are traded on a global commodity market, so again: often no clear record of where it comes from and how far it has travelled. The soy will be grown with the help of fertilisers and pesticides, which cost energy to make. A lot of the Latin-American soy is genetically modified, patented, and unable to reproduce naturally so that the farmers must buy it from agribusiness companies every year. Information about the energy needed to prepare the seeds is considered commercially sensitive by these companies, which are usually not very receptive to requests from researchers.\n\nAnd that is for one batch of sausages. The next batch will have different parameters again.\n\nSo a scientific answer to a simple question like “how much energy is needed for a phone, or a sausage,” not only involves chemical analysis but also engineering, biology, and the analysis of legal rules and trade flows.\n\nThe difficulty of this analysis depends a lot on how far along the chain you do your research and where you draw a boundary, beyond which the energy makes up such a small percentage of the total energy consumption that it won’t matter. A practical scientist will take most of their values from standardised LCA databases like ecoinvent but even with such generic data, an LCA for one phone takes about a master thesis amount of work. Doing this for tens of thousands of different items will take a lot of skilled and honest work.\n\nLecturer, Human-Environment-Systems Lab"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the Grey Energy",
+        "label": "ORG",
+        "start": 23,
+        "end": 38
+      },
+      {
+        "text": "LCA",
+        "label": "ORG",
+        "start": 174,
+        "end": 177
+      },
+      {
+        "text": "LCA",
+        "label": "ORG",
+        "start": 257,
+        "end": 260
+      },
+      {
+        "text": "the tens of thousands",
+        "label": "CARDINAL",
+        "start": 847,
+        "end": 868
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 899,
+        "end": 910
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 65,
+        "end": 76
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 130,
+        "end": 135
+      },
+      {
+        "text": "Taiwan",
+        "label": "GPE",
+        "start": 137,
+        "end": 143
+      },
+      {
+        "text": "Korea",
+        "label": "GPE",
+        "start": 148,
+        "end": 153
+      },
+      {
+        "text": "some 500",
+        "label": "CARDINAL",
+        "start": 353,
+        "end": 361
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 393,
+        "end": 396
+      },
+      {
+        "text": "at least two dozen",
+        "label": "CARDINAL",
+        "start": 611,
+        "end": 629
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1038,
+        "end": 1041
+      },
+      {
+        "text": "LCA",
+        "label": "ORG",
+        "start": 1166,
+        "end": 1169
+      },
+      {
+        "text": "the Zürcher Oberland",
+        "label": "FAC",
+        "start": 143,
+        "end": 163
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 440,
+        "end": 445
+      },
+      {
+        "text": "Spanish",
+        "label": "NORP",
+        "start": 485,
+        "end": 492
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 504,
+        "end": 515
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 583,
+        "end": 585
+      },
+      {
+        "text": "Spanish",
+        "label": "NORP",
+        "start": 625,
+        "end": 632
+      },
+      {
+        "text": "Parma",
+        "label": "NORP",
+        "start": 755,
+        "end": 760
+      },
+      {
+        "text": "Emilia",
+        "label": "GPE",
+        "start": 821,
+        "end": 827
+      },
+      {
+        "text": "Argentina",
+        "label": "GPE",
+        "start": 1026,
+        "end": 1035
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 1053,
+        "end": 1059
+      },
+      {
+        "text": "Latin-American",
+        "label": "NORP",
+        "start": 1348,
+        "end": 1362
+      },
+      {
+        "text": "every year",
+        "label": "DATE",
+        "start": 1496,
+        "end": 1506
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1705,
+        "end": 1708
+      },
+      {
+        "text": "LCA",
+        "label": "ORG",
+        "start": 2308,
+        "end": 2311
+      },
+      {
+        "text": "LCA",
+        "label": "ORG",
+        "start": 2373,
+        "end": 2376
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 2381,
+        "end": 2384
+      },
+      {
+        "text": "tens of thousands",
+        "label": "CARDINAL",
+        "start": 2450,
+        "end": 2467
+      },
+      {
+        "text": "Lecturer, Human-Environment-Systems Lab",
+        "label": "ORG",
+        "start": 2531,
+        "end": 2570
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "EU",
+        "LCA",
+        "Lecturer, Human-Environment-Systems Lab",
+        "the Grey Energy"
+      ],
+      "LOCATION": [
+        "Africa",
+        "Argentina",
+        "China",
+        "Emilia",
+        "Korea",
+        "Switzerland",
+        "Taiwan",
+        "the Zürcher Oberland"
+      ],
+      "DATE": [
+        "every year"
+      ],
+      "MISC": [
+        "First",
+        "Latin-American",
+        "Parma",
+        "Spanish",
+        "at least two dozen",
+        "one",
+        "some 500",
+        "ten",
+        "tens of thousands",
+        "the tens of thousands"
+      ]
+    },
+    "entity_counts": {
+      "LCA": 5,
+      "Switzerland": 3,
+      "one": 3,
+      "Spanish": 2,
+      "the Grey Energy": 1,
+      "the tens of thousands": 1,
+      "China": 1,
+      "Taiwan": 1,
+      "Korea": 1,
+      "some 500": 1,
+      "ten": 1,
+      "at least two dozen": 1,
+      "the Zürcher Oberland": 1,
+      "First": 1,
+      "EU": 1,
+      "Parma": 1,
+      "Emilia": 1,
+      "Argentina": 1,
+      "Africa": 1,
+      "Latin-American": 1
+    },
+    "total_entities": 32,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-grey-energy-in-smartphones-and-sausages.md",
+      "title": "En News Events/2015/02/the Grey Energy in Smartphones And Sausages",
+      "language": "en",
+      "source_path": "en_news_events/2015/02/the-grey-energy-in-smartphones-and-sausages.html"
+    },
+    "temporal": {
+      "publication_date": "2015-02",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "First",
+        "Latin-American",
+        "Parma",
+        "Spanish",
+        "at least two dozen",
+        "some 500",
+        "tens of thousands",
+        "the tens of thousands"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Smartphones And",
+        "Latin-American",
+        "En News",
+        "Sausages A",
+        "Emilia-Romagna",
+        "Human-Environment",
+        "Systems Lab",
+        "The LCA",
+        "Now I",
+        "Grey Energy"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "EU",
+        "LCA",
+        "Lecturer, Human-Environment-Systems Lab",
+        "the Grey Energy"
+      ],
+      "locations": [
+        "Africa",
+        "Argentina",
+        "China",
+        "Emilia",
+        "Korea",
+        "Switzerland",
+        "Taiwan",
+        "the Zürcher Oberland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "LCA",
+        "Switzerland",
+        "one",
+        "Spanish",
+        "the Grey Energy",
+        "the tens of thousands",
+        "China",
+        "Taiwan",
+        "Korea",
+        "some 500"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "A smartphone – really a global affair",
+          "A smartphone – really a global affair",
+          "The life of a sausage"
+        ],
+        "content_length": 4797
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "EU",
+        "Lecturer, Human-Environment-Systems Lab",
+        "LCA",
+        "the Grey Energy",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Parma",
+        "Spanish",
+        "chemistry",
+        "some 500",
+        "when",
+        "engineering",
+        "Latin-American",
+        "mathematics",
+        "who",
+        "tens of thousands",
+        "what",
+        "how",
+        "climate_change",
+        "at least two dozen",
+        "the tens of thousands",
+        "First",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

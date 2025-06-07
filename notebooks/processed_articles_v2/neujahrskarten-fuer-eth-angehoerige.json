@@ -1,0 +1,217 @@
+{
+  "filename": "neujahrskarten-fuer-eth-angehoerige.md",
+  "original_filename": "neujahrskarten-fuer-eth-angehoerige.html",
+  "source_path": "de_news_events/2013/11/neujahrskarten-fuer-eth-angehoerige.html",
+  "date": "2013-11",
+  "title": "Neujahrskarten Fuer Eth Angehoerige",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die insgesamt sechs Sujets der Neujahrskarten für 2014 verbinden festliche Motive mit sanften Farben, modernen Mustern und technischem Flair (Muster finden sich im beigefügten PDF oder auf der Intranet-Website des Druckzentrums). Ein Highlight der diesjährigen Auswahl ist zum Beispiel das Polarlicht, das einen Christbaum in eine dunkelblaue Atmosphäre zeichnet. Entworfen und hergestellt werden die Neujahrskarten vom Grafikteam des ETH-Druckzentrums. ETH-Angehörige können die Neujahrskarten für 2014 zum Stückpreis von 3 Franken (mit Couvert) beziehen.\n\nNeu sind auch persönliche Eindrucke von Grussbotschaften gegen Aufpreis möglich. Die Bestellmengen können dabei von einer Karte bis zu mehreren Hundert variieren. Bestellungen nimmt das Druckzentrum bis und mit dem 23. Dezember entgegen: Entweder an den Schaltern der Druckzentren Hönggerberg (HIL C45) und Zentrum (HG D48.2), per E-Mail ( , , ) oder online über die Website des Druckzentrums im ETH-Intranet ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Fuer",
+        "label": "LOC",
+        "start": 38,
+        "end": 42
+      },
+      {
+        "text": "Eth Angehoerige",
+        "label": "PER",
+        "start": 43,
+        "end": 58
+      },
+      {
+        "text": "PDF",
+        "label": "MISC",
+        "start": 176,
+        "end": 179
+      },
+      {
+        "text": "ETH-Druckzentrums",
+        "label": "MISC",
+        "start": 435,
+        "end": 452
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 454,
+        "end": 468
+      },
+      {
+        "text": "Couvert",
+        "label": "PER",
+        "start": 538,
+        "end": 545
+      },
+      {
+        "text": "HIL C45",
+        "label": "MISC",
+        "start": 851,
+        "end": 858
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 864,
+        "end": 871
+      },
+      {
+        "text": "ETH-Intranet",
+        "label": "MISC",
+        "start": 953,
+        "end": 965
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Couvert",
+        "De News",
+        "Eth Angehoerige"
+      ],
+      "ORG": [
+        "Zentrum"
+      ],
+      "LOCATION": [
+        "Fuer"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige",
+        "ETH-Druckzentrums",
+        "ETH-Intranet",
+        "HIL C45",
+        "PDF"
+      ]
+    },
+    "entity_counts": {
+      "De News": 1,
+      "Fuer": 1,
+      "Eth Angehoerige": 1,
+      "PDF": 1,
+      "ETH-Druckzentrums": 1,
+      "ETH-Angehörige": 1,
+      "Couvert": 1,
+      "HIL C45": 1,
+      "Zentrum": 1,
+      "ETH-Intranet": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neujahrskarten-fuer-eth-angehoerige.md",
+      "title": "De News Events/2013/11/neujahrskarten Fuer Eth Angehoerige",
+      "language": "de",
+      "source_path": "de_news_events/2013/11/neujahrskarten-fuer-eth-angehoerige.html"
+    },
+    "temporal": {
+      "publication_date": "2013-11",
+      "mentioned_years": [
+        "2013",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Couvert",
+        "De News",
+        "Eth Angehoerige"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Angehörige",
+        "ETH-Druckzentrums",
+        "ETH-Intranet",
+        "HIL C45"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Ein Highlight",
+        "E-Mail",
+        "Die Bestellmengen",
+        "ETH-Intranet",
+        "De News",
+        "Angehoerige Die",
+        "Fuer Eth",
+        "Intranet-Website",
+        "ETH-Druckzentrums"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Zentrum"
+      ],
+      "locations": [
+        "Fuer"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De News",
+        "Fuer",
+        "Eth Angehoerige",
+        "PDF",
+        "ETH-Druckzentrums",
+        "ETH-Angehörige",
+        "Couvert",
+        "HIL C45",
+        "Zentrum",
+        "ETH-Intranet"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1027
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2013",
+        "EU",
+        "Zentrum",
+        "De News",
+        "Couvert",
+        "2014",
+        "Eth Angehoerige"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Angehörige",
+        "ETH-Intranet",
+        "HIL C45",
+        "ETH-Druckzentrums"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

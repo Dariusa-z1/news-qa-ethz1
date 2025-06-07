@@ -1,0 +1,398 @@
+{
+  "filename": "support-for-diagnostics-researcher.md",
+  "original_filename": "support-for-diagnostics-researcher.html",
+  "source_path": "en_news_events/2016/03/support-for-diagnostics-researcher.html",
+  "date": "2016-03",
+  "title": "Support For Diagnostics Researcher",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Competitive in price, too",
+      "text": "The masterpiece is a simple box covering an area of around 18 square centimetres and only a couple of centimetres high. The key components inside are small square membranes with 25 test fields, or so-called spots. \"To identify proteins, we apply antibodies, which bind to a specific protein, to the individual spots,\" explains Marco Habegger. Twenty-five different samples can be analysed on one membrane. The biological fluid to be tested – for example blood – passes through tiny holes on the box's surface into the interior. Up to ten membranes can be stacked on top of each other inside the box, making it possible to test samples for up to ten different proteins.\n\nThe components of Habegger's diagnostics platform: microfluidic components (in a cell culture dish) and an analysis membrane (grey). (Photograph: ETH Zurich / Peter Rüegg)\n\nAnd therein lies the young researcher's innovation: \"We combine two different measuring methods in one system,\" says Habegger. This also explains the name of the new testing device: FoRe (Forward / Reverse) Microarray. A microarray is an assay system that enables parallel analysis of different substances in a small amount of biological sample material. \"Forward\" means that multiple substances can be identified on a single chip, while \"Reverse\" means that multiple samples can be tested on a single chip. Of course, the collected data also has to be analysed; this is done by an external scanner where the membranes can be inserted."
+    },
+    {
+      "heading": "Competitive in price, too",
+      "text": "\"I'm fascinated by the interface between technology, biology and medicine, which is why I decided to pursue studies in biomedical engineering,\" says Habegger. For the past year and a half or so, the 25-year-old has been tinkering around with the new test methods and has also been addressing it in his master's thesis. To help make it all a reality, he applied for a Pioneer Fellowship , founded a company, and brought his fellow student Marco Schmidt on board.\n\nWith the Pioneer Fellowship funding, the two Marcos want to further develop the FoRe Microarray. \"What we now hold in our hands is only the provisional final version,\" says Habegger. \"But it will definitely be followed by many others.\" Part of the work now includes optimising the flow of the membranes, the seals and the membrane material. By mid-2017 the test should be market ready – and at a competitive price: \"It won't cost more to purchase our test than systems which are currently in use,\" says Habegger.\n\nThe two researchers are optimistic that they can both keep to their schedule and compete on the market because the new test offers economic and ethical advantages for research and practical applications alike. Basic research relies mainly on test mice to conduct protein tests, but the problem is that mice have a small volume of blood, which means that scientists can only extract a small amount of blood from each one. With the FoRe Microarray, 1 to 20 microlitres is enough for one sample. \"This makes it possible to extract small amounts of blood from an animal at regular intervals and to test each one for multiple proteins. The number of test animals required can therefore be reduced to a bare minimum,\" explains Habegger.\n\nHe also sees great potential for the Fore Microarray in neonatology: when infants are examined, the smallest possible amount of blood should be taken. With the new test, even a small drop of blood would be enough. \"It still requires further development work until the test is ready for such practical applications,\" stresses Habegger. \"But such a test could one day be conducted in a hospital in a simple and quick manner.\" If they succeed with such a commercial breakthrough, Habegger would gladly work as an entrepreneur. But his heart will continue to beat for research: \"What drives me is the opportunity to create something new and at the same time to further develop myself. I want to stay close to science no matter what happens.\""
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "around 18 square centimetres",
+        "label": "QUANTITY",
+        "start": 52,
+        "end": 80
+      },
+      {
+        "text": "Marco Habegger",
+        "label": "PERSON",
+        "start": 327,
+        "end": 341
+      },
+      {
+        "text": "Twenty-five",
+        "label": "CARDINAL",
+        "start": 343,
+        "end": 354
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 392,
+        "end": 395
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 534,
+        "end": 537
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 645,
+        "end": 648
+      },
+      {
+        "text": "Habegger",
+        "label": "PERSON",
+        "start": 687,
+        "end": 695
+      },
+      {
+        "text": "grey",
+        "label": "ORG",
+        "start": 795,
+        "end": 799
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 815,
+        "end": 825
+      },
+      {
+        "text": "Peter Rüegg",
+        "label": "PERSON",
+        "start": 828,
+        "end": 839
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 905,
+        "end": 908
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 940,
+        "end": 943
+      },
+      {
+        "text": "Habegger",
+        "label": "PERSON",
+        "start": 958,
+        "end": 966
+      },
+      {
+        "text": "Microarray",
+        "label": "PERSON",
+        "start": 1048,
+        "end": 1058
+      },
+      {
+        "text": "Habegger",
+        "label": "PERSON",
+        "start": 149,
+        "end": 157
+      },
+      {
+        "text": "the past year and a half or so",
+        "label": "DATE",
+        "start": 163,
+        "end": 193
+      },
+      {
+        "text": "25-year-old",
+        "label": "DATE",
+        "start": 199,
+        "end": 210
+      },
+      {
+        "text": "Marco Schmidt",
+        "label": "PERSON",
+        "start": 438,
+        "end": 451
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 503,
+        "end": 506
+      },
+      {
+        "text": "Marcos",
+        "label": "PERSON",
+        "start": 507,
+        "end": 513
+      },
+      {
+        "text": "Habegger",
+        "label": "PERSON",
+        "start": 635,
+        "end": 643
+      },
+      {
+        "text": "mid-2017",
+        "label": "DATE",
+        "start": 806,
+        "end": 814
+      },
+      {
+        "text": "Habegger",
+        "label": "PERSON",
+        "start": 965,
+        "end": 973
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 979,
+        "end": 982
+      },
+      {
+        "text": "Microarray",
+        "label": "ORG",
+        "start": 1410,
+        "end": 1420
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1456,
+        "end": 1459
+      },
+      {
+        "text": "Habegger",
+        "label": "PERSON",
+        "start": 1696,
+        "end": 1704
+      },
+      {
+        "text": "Habegger",
+        "label": "PERSON",
+        "start": 2031,
+        "end": 2039
+      },
+      {
+        "text": "Habegger",
+        "label": "PERSON",
+        "start": 2183,
+        "end": 2191
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Habegger",
+        "Marco Habegger",
+        "Marco Schmidt",
+        "Marcos",
+        "Microarray",
+        "Peter Rüegg"
+      ],
+      "ORG": [
+        "Microarray",
+        "grey"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "25-year-old",
+        "mid-2017",
+        "the past year and a half or so"
+      ],
+      "MISC": [
+        "Twenty-five",
+        "around 18 square centimetres",
+        "one",
+        "ten",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Habegger": 8,
+      "one": 3,
+      "two": 3,
+      "ten": 2,
+      "Microarray": 2,
+      "around 18 square centimetres": 1,
+      "Marco Habegger": 1,
+      "Twenty-five": 1,
+      "grey": 1,
+      "ETH Zurich": 1,
+      "Peter Rüegg": 1,
+      "the past year and a half or so": 1,
+      "25-year-old": 1,
+      "Marco Schmidt": 1,
+      "Marcos": 1,
+      "mid-2017": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "support-for-diagnostics-researcher.md",
+      "title": "En News Events/2016/03/support For Diagnostics Researcher",
+      "language": "en",
+      "source_path": "en_news_events/2016/03/support-for-diagnostics-researcher.html"
+    },
+    "temporal": {
+      "publication_date": "2016-03",
+      "mentioned_years": [
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Habegger",
+        "Marco Habegger",
+        "Marco Schmidt",
+        "Marcos",
+        "Microarray",
+        "Peter Rüegg"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher"
+        ],
+        "Habegger": [
+          "researcher"
+        ],
+        "Marco Schmidt": [
+          "student"
+        ],
+        "Peter Rüegg": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Twenty-five",
+        "around 18 square centimetres"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "fellowship",
+        "funding"
+      ],
+      "projects": [
+        "En News",
+        "Marco Schmidt",
+        "Fore Microarray",
+        "For Diagnostics",
+        "ETH Zurich",
+        "Researcher The",
+        "Pioneer Fellowship",
+        "Marco Habegger",
+        "FoRe Microarray"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Microarray",
+        "grey"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Habegger",
+        "one",
+        "two",
+        "ten",
+        "Microarray",
+        "around 18 square centimetres",
+        "Marco Habegger",
+        "Twenty-five",
+        "grey",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Competitive in price, too",
+          "Competitive in price, too"
+        ],
+        "content_length": 3983
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Microarray",
+        "fellowship",
+        "Marco Schmidt",
+        "EU",
+        "Habegger",
+        "grey",
+        "2016",
+        "2017",
+        "Marcos",
+        "funding",
+        "ETH Zurich",
+        "Marco Habegger",
+        "ERC",
+        "Peter Rüegg"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "who",
+        "Twenty-five",
+        "around 18 square centimetres",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "Habegger_has_role_researcher",
+        "Marco Schmidt_has_role_student",
+        "Peter Rüegg_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

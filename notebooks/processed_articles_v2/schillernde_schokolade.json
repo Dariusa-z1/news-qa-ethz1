@@ -1,0 +1,318 @@
+{
+  "filename": "schillernde_schokolade.md",
+  "original_filename": "schillernde_schokolade.html",
+  "source_path": "de_news_events/2019/12/schillernde_schokolade.html",
+  "date": "2019-12",
+  "title": "Schokolade",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Experimente in der Küche",
+      "text": "Die Praline schillert in wild wechselnden Regenbogenfarben. Es scheint, als würde sie leuchten. Eine Gruppe von Forschenden der ETH Zürich und der Fachhochschule Nordwestschweiz haben dafür vor Kurzem ein Patent angemeldet.\n\nEinfärben konnte man Schokolade zwar schon lange. Die ETH-Forschenden erzeugen die Regenbogenfarbe aber ganz ohne Zusatzstoffe. Sie entstehen alleine durch eine eingeprägte Struktur, man spricht dabei von Strukturfarben. Der Effekt funktioniert ähnlich wie bei einem Chamäleon: Die geordnete Struktur auf der Oberfläche seiner Haut bricht und streut das Licht so, dass bestimmte Farben sichtbar werden.\n\nDie Geschichte beginnt auf dem Flur. Der Lebensmittelwissenschaftler Patrick Rühs, der Materialwissenschaftler Etienne Jeoffroy und der Physiker Henning Galinski kommen in einer Pause auf Schokolade zu sprechen. Sie arbeiten zwar in unterschiedlichen Gruppen, ihre Büros liegen aber Tür an Tür. Sie fragen sich, ob und wie man farbige Schokolade herstellen könnte. Rühs studiert die Materialeigenschaften von Lebensmitteln, Jeoffroys Spezialgebiet sind komplexe Materialien und Galinski hat bereits intensiv zu optischen Materialien geforscht."
+    },
+    {
+      "heading": "Experimente in der Küche",
+      "text": "Die ersten Experimente beginnen in der Kaffeeküche, oft am Freitagnachmittag. Das Schokoladenprojekt entsteht aus reiner Neugierde. Die drei beginnen die Eigenschaften von Schokolade zu erfassen, sie beginnen zu verstehen, was das Material ausmacht und weshalb sie braun ist. Die möglichen Lösungen ergeben sich daraus fast spielerisch. Die Umsetzung aber bleibt eine Herausforderung.\n\nZuerst experimentieren die drei Wissenschaftler mit Strukturfarben auf Basis von essbaren Beschichtungen aus Gold und Titanoxid. Auf dunkler Schokolade entstehen je nach Dicke des Titan-Films goldgelbe oder tiefblaue Farben. Trotzdem verwerfen sie die Methode wieder, die Produktionsweise würde zu kompliziert, die Beschichtung der bei 31°C schmelzenden Schokolade ist heikel und aufwendig. Man kommt zum Schluss, dass es auch ohne die Zusatzstoffe gehen muss.\n\nDie Forscher ändern ihren Kurs, sie wollen die Oberfläche nun prägen, anstatt sie zu beschichten. Zum Durchbruch verhilft ihnen eine Studentin der Materialwissenschaften. Anita Zingg erprobt den neuen Ansatz im Rahmen eines Masterprojektes. Nach einigen Versuchen gelingt es: auf der Praline erscheint ein erster farbiger Schimmer. Die Wissenschaftler verfeinern die Methode, und aus dem Schimmern wird ein Leuchten.\n\nUnterstützt wird die Gruppe jetzt auch von zwei Oberflächenspezialisten der Fachhochschule Nordwestschweiz. Per Magnus Kristiansen und Jerome Werder entwickeln eine Form, um mehr als eine Praline aufs Mal mit der farbgebenden Struktur zu prägen.\n\nJetzt fehlt nicht mehr viel, und die Erfindung schafft den Sprung in die Industrie. Die Wissenschaftler sind im Gespräch mit grossen Schokoladeherstellern und wollen demnächst eine Spin-off-Firma gründen.\n\nFür die drei Forscher zählt aber noch etwas Anderes: Das Projekt habe nur funktioniert, weil verschiedene Disziplinen zusammengewirkt haben. Neue Ideen hätten das Projekt in entscheidenden Momenten vor dem Stillstand bewahrt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 128,
+        "end": 138
+      },
+      {
+        "text": "Fachhochschule Nordwestschweiz",
+        "label": "ORG",
+        "start": 147,
+        "end": 177
+      },
+      {
+        "text": "Einfärben",
+        "label": "PER",
+        "start": 224,
+        "end": 233
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 278,
+        "end": 293
+      },
+      {
+        "text": "Strukturfarben",
+        "label": "LOC",
+        "start": 429,
+        "end": 443
+      },
+      {
+        "text": "Chamäleon",
+        "label": "MISC",
+        "start": 491,
+        "end": 500
+      },
+      {
+        "text": "Patrick Rühs",
+        "label": "PER",
+        "start": 696,
+        "end": 708
+      },
+      {
+        "text": "Etienne Jeoffroy",
+        "label": "PER",
+        "start": 738,
+        "end": 754
+      },
+      {
+        "text": "Henning Galinski",
+        "label": "PER",
+        "start": 772,
+        "end": 788
+      },
+      {
+        "text": "Rühs",
+        "label": "PER",
+        "start": 992,
+        "end": 996
+      },
+      {
+        "text": "Jeoffroys Spezialgebiet",
+        "label": "PER",
+        "start": 1051,
+        "end": 1074
+      },
+      {
+        "text": "Kaffeeküche",
+        "label": "LOC",
+        "start": 39,
+        "end": 50
+      },
+      {
+        "text": "Freitagnachmittag",
+        "label": "MISC",
+        "start": 59,
+        "end": 76
+      },
+      {
+        "text": "Anita Zingg",
+        "label": "PER",
+        "start": 1017,
+        "end": 1028
+      },
+      {
+        "text": "Praline",
+        "label": "MISC",
+        "start": 1130,
+        "end": 1137
+      },
+      {
+        "text": "Schimmern",
+        "label": "MISC",
+        "start": 1234,
+        "end": 1243
+      },
+      {
+        "text": "Fachhochschule Nordwestschweiz",
+        "label": "ORG",
+        "start": 1339,
+        "end": 1369
+      },
+      {
+        "text": "Per Magnus Kristiansen",
+        "label": "PER",
+        "start": 1371,
+        "end": 1393
+      },
+      {
+        "text": "Jerome Werder",
+        "label": "PER",
+        "start": 1398,
+        "end": 1411
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Anita Zingg",
+        "Einfärben",
+        "Etienne Jeoffroy",
+        "Henning Galinski",
+        "Jeoffroys Spezialgebiet",
+        "Jerome Werder",
+        "Patrick Rühs",
+        "Per Magnus Kristiansen",
+        "Rühs"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Fachhochschule Nordwestschweiz"
+      ],
+      "LOCATION": [
+        "Kaffeeküche",
+        "Strukturfarben"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Chamäleon",
+        "Freitagnachmittag",
+        "Praline",
+        "Schimmern"
+      ]
+    },
+    "entity_counts": {
+      "Fachhochschule Nordwestschweiz": 2,
+      "ETH Zürich": 1,
+      "Einfärben": 1,
+      "ETH-Forschenden": 1,
+      "Strukturfarben": 1,
+      "Chamäleon": 1,
+      "Patrick Rühs": 1,
+      "Etienne Jeoffroy": 1,
+      "Henning Galinski": 1,
+      "Rühs": 1,
+      "Jeoffroys Spezialgebiet": 1,
+      "Kaffeeküche": 1,
+      "Freitagnachmittag": 1,
+      "Anita Zingg": 1,
+      "Praline": 1,
+      "Schimmern": 1,
+      "Per Magnus Kristiansen": 1,
+      "Jerome Werder": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "schillernde_schokolade.md",
+      "title": "Schokolade",
+      "language": "de",
+      "source_path": "de_news_events/2019/12/schillernde_schokolade.html"
+    },
+    "temporal": {
+      "publication_date": "2019-12",
+      "mentioned_years": [],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Anita Zingg",
+        "Einfärben",
+        "Etienne Jeoffroy",
+        "Henning Galinski",
+        "Jeoffroys Spezialgebiet",
+        "Jerome Werder",
+        "Patrick Rühs",
+        "Per Magnus Kristiansen",
+        "Rühs"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Chamäleon",
+        "Freitagnachmittag",
+        "Praline",
+        "Schimmern"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Anita Zingg",
+        "Die Geschichte",
+        "Physiker Henning",
+        "Zum Durchbruch",
+        "Jerome Werder",
+        "Das Schokoladenprojekt",
+        "Schokolade Die",
+        "Die ETH",
+        "Der Lebensmittelwissenschaftler",
+        "Der Effekt",
+        "Die Umsetzung",
+        "Neue Ideen",
+        "Die Wissenschaftler",
+        "Per Magnus",
+        "Die Forscher",
+        "Fachhochschule Nordwestschweiz",
+        "Materialwissenschaftler Etienne",
+        "Das Projekt",
+        "Eine Gruppe",
+        "Titan-Films",
+        "Jeoffroys Spezialgebiet"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Fachhochschule Nordwestschweiz"
+      ],
+      "locations": [
+        "Kaffeeküche",
+        "Strukturfarben"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Fachhochschule Nordwestschweiz",
+        "ETH Zürich",
+        "Einfärben",
+        "ETH-Forschenden",
+        "Strukturfarben",
+        "Chamäleon",
+        "Patrick Rühs",
+        "Etienne Jeoffroy",
+        "Henning Galinski",
+        "Rühs"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Experimente in der Küche",
+          "Experimente in der Küche"
+        ],
+        "content_length": 3128
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Jerome Werder",
+        "Rühs",
+        "Fachhochschule Nordwestschweiz",
+        "Patrick Rühs",
+        "EU",
+        "Etienne Jeoffroy",
+        "Anita Zingg",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Henning Galinski",
+        "Einfärben",
+        "Per Magnus Kristiansen",
+        "Jeoffroys Spezialgebiet"
+      ],
+      "semantic_concepts": [
+        "Schimmern",
+        "Freitagnachmittag",
+        "Chamäleon",
+        "Praline",
+        "what",
+        "how"
+      ],
+      "graph_relations": []
+    }
+  }
+}

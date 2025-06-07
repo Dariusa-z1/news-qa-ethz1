@@ -1,0 +1,281 @@
+{
+  "filename": "de_news_events_2018_06_challenge-the-best-in-data-science.md",
+  "original_filename": "de_news_events_2018_06_challenge-the-best-in-data-science.html",
+  "source_path": "de_news_events/2018/06/challenge-the-best-in-data-science.html",
+  "date": "2018-06",
+  "title": "Challenge The Best In Data Science",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Weiterbildungsoffensive der ETH Zürich gewinnt an Fahrt. Nachdem die Hochschule im April mit Einstein die School for Continuing Education lanciert und die neuen Programme in Cyber Security und Materialien und Fertigungstechnologie vorgestellt hat, präsentiert sie heute bereits ein weiteres Angebot: Das Diploma of Avanced Studies ETH in Data Science. Das Programm vermittelt die neuesten Kenntnisse, Methoden und Technologien im Bereich Datenwissenschaften. Es baut auf den gleichen Lerneinheiten auf wie der gleichnamige Masterstudiengang, den die ETH im Herbstsemester 2017 startete.\n\nSo macht die ETH aktuelles Wissen aus der Forschung Berufstätigen zugänglich, die im Alltag vertiefte Kenntnisse in Datenwissenschaften benötigen. Zuständig für das Weiterbildungsprogramm sind die drei Departemente Informatik, Informationstechnologie und Elektrotechnik sowie Mathematik. Entsprechend breit sind das Angebot an Kursen und die Wahlmöglichkeiten der Studierenden.\n\nNeben Lerneinheiten aus dem Masterstudium steht ein exklusives sogenanntes Capstone-Projekt auf dem Programm: Ein individuelles Forschungsprojekt, in dem die Studierenden in der Regel von Forschenden aus dem Swiss Data Science Center betreut werden. In diesem Center bündeln die ETH Zürich und die EPFL seit 2017 ihre Kompetenzen im Bereich Datenwissenschaften.\n\nBewerben für das berufsbegleitende Programm können sich Fachleute mit Hintergrund in Informatik, Elektroingenieurswissenschaften, Mathematik oder einem verwandten Gebiet. Für einen erfolgreichen Abschluss sind mindestens 35 Kreditpunkte notwendig, was einem berufsbegleitenden Studium von einem bis zwei Jahren entspricht. Das Programm kostet inklusive Schulgeld CHF 12'000.\n\nWer zum Pionierjahrgang gehören will, muss sich schnell entscheiden: Das Bewerbungsfenster ist bis 31. Juli 2018 offen (spätere Anmeldungen auf Anfrage). Weitere Informationen zum Studiengang"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "The Best",
+        "label": "MISC",
+        "start": 33,
+        "end": 41
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 32,
+        "end": 42
+      },
+      {
+        "text": "School for Continuing Education",
+        "label": "ORG",
+        "start": 110,
+        "end": 141
+      },
+      {
+        "text": "Diploma of Avanced Studies",
+        "label": "ORG",
+        "start": 308,
+        "end": 334
+      },
+      {
+        "text": "Datenwissenschaften",
+        "label": "LOC",
+        "start": 442,
+        "end": 461
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 554,
+        "end": 557
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 604,
+        "end": 607
+      },
+      {
+        "text": "Berufstätigen",
+        "label": "LOC",
+        "start": 643,
+        "end": 656
+      },
+      {
+        "text": "Datenwissenschaften",
+        "label": "LOC",
+        "start": 707,
+        "end": 726
+      },
+      {
+        "text": "Swiss Data Science Center",
+        "label": "MISC",
+        "start": 1177,
+        "end": 1202
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1248,
+        "end": 1258
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 1267,
+        "end": 1271
+      },
+      {
+        "text": "Datenwissenschaften",
+        "label": "MISC",
+        "start": 1310,
+        "end": 1329
+      },
+      {
+        "text": "CHF",
+        "label": "MISC",
+        "start": 1694,
+        "end": 1697
+      },
+      {
+        "text": "Bewerbungsfenster",
+        "label": "LOC",
+        "start": 1779,
+        "end": 1796
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News"
+      ],
+      "ORG": [
+        "Diploma of Avanced Studies",
+        "EPFL",
+        "ETH",
+        "ETH Zürich",
+        "School for Continuing Education"
+      ],
+      "LOCATION": [
+        "Berufstätigen",
+        "Bewerbungsfenster",
+        "Datenwissenschaften"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CHF",
+        "Datenwissenschaften",
+        "Swiss Data Science Center",
+        "The Best"
+      ]
+    },
+    "entity_counts": {
+      "Datenwissenschaften": 3,
+      "ETH Zürich": 2,
+      "ETH": 2,
+      "De News": 1,
+      "The Best": 1,
+      "School for Continuing Education": 1,
+      "Diploma of Avanced Studies": 1,
+      "Berufstätigen": 1,
+      "Swiss Data Science Center": 1,
+      "EPFL": 1,
+      "CHF": 1,
+      "Bewerbungsfenster": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2018_06_challenge-the-best-in-data-science.md",
+      "title": "De News Events/2018/06/challenge The Best in Data Science",
+      "language": "de",
+      "source_path": "de_news_events/2018/06/challenge-the-best-in-data-science.html"
+    },
+    "temporal": {
+      "publication_date": "2018-06",
+      "mentioned_years": [
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "Datenwissenschaften",
+        "Swiss Data Science Center",
+        "The Best"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Avanced Studies",
+        "Science Center",
+        "Capstone-Projekt",
+        "Das Bewerbungsfenster",
+        "Neben Lerneinheiten",
+        "Weitere Informationen",
+        "Das Diploma",
+        "The Best",
+        "Cyber Security",
+        "Die Weiterbildungsoffensive",
+        "Continuing Education",
+        "De News",
+        "Das Programm",
+        "Bereich Datenwissenschaften",
+        "Schulgeld CHF",
+        "Data Science",
+        "Swiss Data",
+        "Departemente Informatik"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Diploma of Avanced Studies",
+        "EPFL",
+        "ETH",
+        "ETH Zürich",
+        "School for Continuing Education"
+      ],
+      "locations": [
+        "Berufstätigen",
+        "Bewerbungsfenster",
+        "Datenwissenschaften"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Datenwissenschaften",
+        "ETH Zürich",
+        "ETH",
+        "De News",
+        "The Best",
+        "School for Continuing Education",
+        "Diploma of Avanced Studies",
+        "Berufstätigen",
+        "Swiss Data Science Center",
+        "EPFL"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1959
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "EPFL",
+        "ETH",
+        "Diploma of Avanced Studies",
+        "2017",
+        "EU",
+        "ETH Zürich",
+        "De News",
+        "School for Continuing Education"
+      ],
+      "semantic_concepts": [
+        "Datenwissenschaften",
+        "The Best",
+        "when",
+        "what",
+        "how",
+        "computer_science",
+        "Swiss Data Science Center"
+      ],
+      "graph_relations": [
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

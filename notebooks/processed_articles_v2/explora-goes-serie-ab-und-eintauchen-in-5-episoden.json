@@ -1,0 +1,201 @@
+{
+  "filename": "explora-goes-serie-ab-und-eintauchen-in-5-episoden.md",
+  "original_filename": "explora-goes-serie-ab-und-eintauchen-in-5-episoden.html",
+  "source_path": "en_internal/2020/07/explora-goes-serie-ab-und-eintauchen-in-5-episoden.html",
+  "date": "2020-07",
+  "title": "Explora Goes Serie Ab Und Eintauchen In 5 Episoden",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Here, art and science have committed themselves to a common goal: \"Beneath The Sea, a New Form of Reef\", is how Marie Griesmar describes her ambitious undertaking, which is dedicated to the restoration of threatened coral reefs. Inspired by submarine ecosystems, the artist and diving sportswoman started her research project with the mission to counteract the extinction of corals by creating sustainable works of art.\n\nIn exchange with international research laboratories and as a fellow of the ETH Library Lab in 2019, Marie Griesmar explored the possibilities of realising alternative habitats for corals. She developed a novel prototype that manifests the logic of digital production methods, the properties of ecological materials and the influence of water currents on the growth of coral larvae.\n\nIn five episodes published over the coming months, Explora 's new mini-series format will show you how an ecologically responsible project and at the same time a lasting effective work of art can be realized: starting with the idea and development of the project, the artistic approach and scientific research, the experience gained in the manual and technical implementation, and a description of the extraordinary interdisciplinary networking of art, science and technology.\n\nThe Explora storytelling platform offers exciting and informative stories in various formats and on topics related to the ETH Library holdings.\n\n#KnowMore – The prepared content issued by ETH Library is at your free disposal and gives you a head start."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Beneath The Sea",
+        "label": "WORK_OF_ART",
+        "start": 67,
+        "end": 82
+      },
+      {
+        "text": "Marie Griesmar",
+        "label": "PERSON",
+        "start": 112,
+        "end": 126
+      },
+      {
+        "text": "Marie Griesmar",
+        "label": "PERSON",
+        "start": 521,
+        "end": 535
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 806,
+        "end": 810
+      },
+      {
+        "text": "the coming months",
+        "label": "DATE",
+        "start": 835,
+        "end": 852
+      },
+      {
+        "text": "Explora",
+        "label": "PERSON",
+        "start": 854,
+        "end": 861
+      },
+      {
+        "text": "Explora",
+        "label": "PERSON",
+        "start": 1284,
+        "end": 1291
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 1402,
+        "end": 1413
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 1466,
+        "end": 1477
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Explora",
+        "Marie Griesmar"
+      ],
+      "ORG": [
+        "ETH Library"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "the coming months"
+      ],
+      "MISC": [
+        "Beneath The Sea",
+        "five"
+      ]
+    },
+    "entity_counts": {
+      "Marie Griesmar": 2,
+      "Explora": 2,
+      "ETH Library": 2,
+      "Beneath The Sea": 1,
+      "five": 1,
+      "the coming months": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "explora-goes-serie-ab-und-eintauchen-in-5-episoden.md",
+      "title": "En Internal/2020/07/explora Goes Serie Ab und Eintauchen in 5 Episoden",
+      "language": "en",
+      "source_path": "en_internal/2020/07/explora-goes-serie-ab-und-eintauchen-in-5-episoden.html"
+    },
+    "temporal": {
+      "publication_date": "2020-07",
+      "mentioned_years": [
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Explora",
+        "Marie Griesmar"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Beneath The Sea",
+        "five"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Marie Griesmar",
+        "Goes Serie",
+        "New Form",
+        "ETH Library",
+        "Episoden Here",
+        "En Internal",
+        "Beneath The",
+        "The Explora"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Marie Griesmar",
+        "Explora",
+        "ETH Library",
+        "Beneath The Sea",
+        "five",
+        "the coming months"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1606
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Marie Griesmar",
+        "2019",
+        "ETH Library",
+        "2020",
+        "Explora"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Beneath The Sea",
+        "what",
+        "how",
+        "five",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

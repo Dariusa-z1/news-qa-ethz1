@@ -1,0 +1,392 @@
+{
+  "filename": "kreative-datenversteher.md",
+  "original_filename": "kreative-datenversteher.html",
+  "source_path": "de_news_events/2017/08/kreative-datenversteher.html",
+  "date": "2017-08",
+  "title": "Kreative Datenversteher",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Artikel analysieren und klassifizieren",
+      "text": "- Freitag, 1. September 2017, 18 – 21 Uhr (Vernissage)\n\n- Samstag, 2. September 2017, 13 – 19 Uhr\n\n- Sonntag, 3. September 2017, 11 – 17 Uhr\n\nBegonnen hat alles vor ein paar Jahren: Mark Cieliebak, Martin Jaggi und Fatih Uzdilli forschten an der ETH und ZHAW im Bereich Computer Science und publizierten ihre Technologien in wissenschaftlichen Papern. Dadurch erlangten diese aber keine grosse Bekanntheit. Das wollten die drei Informatiker ändern: So gründeten sie 2015 das ETH Spin-off SpinningBytes und stellten die Programme gratis auf ihrer Homepage zur Verfügung.\n\nHeute bietet das Spin-off neben fertigen Technologielösungen vor allem projektbezogenes Programmieren von Data-Science-Software an. «Wir entwickeln Programme, die Daten analysieren und in gewisser Weise verstehen können», erklärt CEO Cieliebak das spezielle Angebot. Um solche Software bauen zu können, benötigt das Spin-off Daten, auf welche sich das Programm stützen und aus welchen es lernen kann: «Unsere Software schaut sich die vorhandenen Daten an, erstellt Statistiken über gewisse Regelmässigkeiten und generiert daraus neues Wissen, nach welchem es dann handelt.»"
+    },
+    {
+      "heading": "Artikel analysieren und klassifizieren",
+      "text": "Ein Beispiel ist das Klassifizieren und Kategorisieren von riesigen Textmengen. So etwa die Software, die SpinningBytes für das Schweizerische Wirtschaftsarchiv programmiert hat. Das Archiv sammelt seit 1890 Berichte über die Schweizer Wirtschaft, die alle nach demselben Muster kategorisiert werden. Früher untersuchten Archivare jeden Text, nun kann das Programm den Teil der Arbeit übernehmen. Dafür analysierte die Software 30’000 bereits kategorisierte Artikel und lernte die Zuweisungsregeln."
+    },
+    {
+      "heading": "Digitaler Kundenservice",
+      "text": "Die Informatiker bei SpinningBytes befassen sich aber nicht nur mit geschriebenen Texten. Sie entwickeln auch Programme, die die menschliche Stimme erkennen und verstehen können – und Antwort geben. «Gerade im Kundenservice herrscht für solche Dialogsysteme ein riesiges Potenzial», meint Cieliebak, «denn bei einer Service-Hotline werden sehr häufig immer dieselben Dialoge geführt.» Die oft ähnlich ablaufenden Gespräche können mittels Machine Learning «automatisiert» werden. So könnte in Zukunft beispielsweise eine Krankenkasse den ersten standardisierten Kontakt mit potenziellen Kunden mittels digitalem Formular abwickeln. «Einen Menschen ersetzt die Software aber nicht», beteuert Cieliebak. Denn sobald die Unterhaltung zu sehr von den eingepflegten Standardsätzen abweiche, könne die Software nicht mehr auf zuvor eingegebene Antworten zurückgreifen und müsse an einen Kundendienstmitarbeiter verweisen."
+    },
+    {
+      "heading": "Herzinfarkt-Risiko dank Twitter berechnen",
+      "text": "Auch Prognosen können aufgrund der Analyse von riesigen Datenmengen erstellt werden: In einem neuen Projekt untersucht ein Programm von SpinningBytes anhand von Tweets das Herzinfarkt-Risiko in unterschiedlichen Regionen. Wie das geht? «Ein Herzinfarkt hat unter anderem damit zu tun, ob man glücklich ist oder nicht», sagt Cieliebak und erläutert weiter: «Die Sprache in den Tweets lässt Rückschlüsse auf die Zufriedenheit zu, und durch eine Verknüpfung mit weiteren statistischen Daten können Aussagen zum Herzinfarkt-Risiko in einer bestimmten Gegend gemacht werden.» Weitere solcher Prognoseprogramme sind zurzeit in Planung.\n\nHat dieser Beitrag Ihr Interesse geweckt? An der Scientifica erfahren Sie mehr darüber, was es braucht, damit Computer verstehen, welche Informationen in einem Text enthalten sind, und was der Text bedeutet. Besuchen Sie SpinningBytes in der Ausstellung am externe Seite Stand T16 «Natürliche Sprache und künstliche Intelligenz» und erleben Sie, wie weit die Forschung in diesem Bereich ist.\n\nAn der Scientifica können Sie viele weitere Wissenschaftlerinnen und Wissenschaftler kennenlernen und ihnen Ihre Fragen stellen am"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Datenversteher",
+        "label": "PER",
+        "start": 32,
+        "end": 46
+      },
+      {
+        "text": "Mark Cieliebak",
+        "label": "PER",
+        "start": 179,
+        "end": 193
+      },
+      {
+        "text": "Martin Jaggi",
+        "label": "PER",
+        "start": 195,
+        "end": 207
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 243,
+        "end": 246
+      },
+      {
+        "text": "ZHAW",
+        "label": "ORG",
+        "start": 251,
+        "end": 255
+      },
+      {
+        "text": "ETH Spin-off SpinningBytes",
+        "label": "ORG",
+        "start": 472,
+        "end": 498
+      },
+      {
+        "text": "SpinningBytes",
+        "label": "ORG",
+        "start": 106,
+        "end": 119
+      },
+      {
+        "text": "Schweizerische Wirtschaftsarchiv",
+        "label": "ORG",
+        "start": 128,
+        "end": 160
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 226,
+        "end": 235
+      },
+      {
+        "text": "Zuweisungsregeln",
+        "label": "LOC",
+        "start": 481,
+        "end": 497
+      },
+      {
+        "text": "SpinningBytes",
+        "label": "ORG",
+        "start": 21,
+        "end": 34
+      },
+      {
+        "text": "Kundenservice",
+        "label": "LOC",
+        "start": 210,
+        "end": 223
+      },
+      {
+        "text": "Machine Learning",
+        "label": "PER",
+        "start": 438,
+        "end": 454
+      },
+      {
+        "text": "Datenmengen",
+        "label": "LOC",
+        "start": 56,
+        "end": 67
+      },
+      {
+        "text": "SpinningBytes",
+        "label": "ORG",
+        "start": 136,
+        "end": 149
+      },
+      {
+        "text": "Tweets",
+        "label": "PER",
+        "start": 161,
+        "end": 167
+      },
+      {
+        "text": "Herzinfarkt-Risiko",
+        "label": "LOC",
+        "start": 172,
+        "end": 190
+      },
+      {
+        "text": "Die Sprache",
+        "label": "MISC",
+        "start": 357,
+        "end": 368
+      },
+      {
+        "text": "Tweets",
+        "label": "PER",
+        "start": 376,
+        "end": 382
+      },
+      {
+        "text": "Herzinfarkt-Risiko",
+        "label": "LOC",
+        "start": 508,
+        "end": 526
+      },
+      {
+        "text": "Scientifica",
+        "label": "ORG",
+        "start": 679,
+        "end": 690
+      },
+      {
+        "text": "SpinningBytes",
+        "label": "ORG",
+        "start": 851,
+        "end": 864
+      },
+      {
+        "text": "T16",
+        "label": "PER",
+        "start": 907,
+        "end": 910
+      },
+      {
+        "text": "Natürliche Sprache",
+        "label": "MISC",
+        "start": 912,
+        "end": 930
+      },
+      {
+        "text": "Scientifica",
+        "label": "ORG",
+        "start": 1029,
+        "end": 1040
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Datenversteher",
+        "De News",
+        "Machine Learning",
+        "Mark Cieliebak",
+        "Martin Jaggi",
+        "T16",
+        "Tweets"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Spin-off SpinningBytes",
+        "Schweizerische Wirtschaftsarchiv",
+        "Scientifica",
+        "SpinningBytes",
+        "ZHAW"
+      ],
+      "LOCATION": [
+        "Datenmengen",
+        "Herzinfarkt-Risiko",
+        "Kundenservice",
+        "Zuweisungsregeln"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Die Sprache",
+        "Natürliche Sprache",
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "SpinningBytes": 4,
+      "Tweets": 2,
+      "Herzinfarkt-Risiko": 2,
+      "Scientifica": 2,
+      "De News": 1,
+      "Datenversteher": 1,
+      "Mark Cieliebak": 1,
+      "Martin Jaggi": 1,
+      "ETH": 1,
+      "ZHAW": 1,
+      "ETH Spin-off SpinningBytes": 1,
+      "Schweizerische Wirtschaftsarchiv": 1,
+      "Schweizer": 1,
+      "Zuweisungsregeln": 1,
+      "Kundenservice": 1,
+      "Machine Learning": 1,
+      "Datenmengen": 1,
+      "Die Sprache": 1,
+      "T16": 1,
+      "Natürliche Sprache": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "kreative-datenversteher.md",
+      "title": "De News Events/2017/08/kreative Datenversteher",
+      "language": "de",
+      "source_path": "de_news_events/2017/08/kreative-datenversteher.html"
+    },
+    "temporal": {
+      "publication_date": "2017-08",
+      "mentioned_years": [
+        "2015",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Datenversteher",
+        "De News",
+        "Machine Learning",
+        "Mark Cieliebak",
+        "Martin Jaggi",
+        "T16",
+        "Tweets"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Die Sprache",
+        "Natürliche Sprache",
+        "Schweizer"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Data-Science",
+        "Bereich Computer",
+        "Besuchen Sie",
+        "Ihre Fragen",
+        "CEO Cieliebak",
+        "Ein Herzinfarkt",
+        "Seite Stand",
+        "Schweizer Wirtschaft",
+        "Machine Learning",
+        "Die Sprache",
+        "Beitrag Ihr",
+        "Das Archiv",
+        "Die Informatiker",
+        "Martin Jaggi",
+        "Mark Cieliebak",
+        "Herzinfarkt-Risiko",
+        "Auch Prognosen",
+        "Schweizerische Wirtschaftsarchiv",
+        "Einen Menschen",
+        "Fatih Uzdilli",
+        "Ein Beispiel",
+        "ETH Spin",
+        "De News",
+        "Service-Hotline",
+        "Unsere Software"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Spin-off SpinningBytes",
+        "Schweizerische Wirtschaftsarchiv",
+        "Scientifica",
+        "SpinningBytes",
+        "ZHAW"
+      ],
+      "locations": [
+        "Datenmengen",
+        "Herzinfarkt-Risiko",
+        "Kundenservice",
+        "Zuweisungsregeln"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "SpinningBytes",
+        "Tweets",
+        "Herzinfarkt-Risiko",
+        "Scientifica",
+        "De News",
+        "Datenversteher",
+        "Mark Cieliebak",
+        "Martin Jaggi",
+        "ETH",
+        "ZHAW"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Artikel analysieren und klassifizieren",
+          "Artikel analysieren und klassifizieren",
+          "Digitaler Kundenservice",
+          "Herzinfarkt-Risiko dank Twitter berechnen"
+        ],
+        "content_length": 3760
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Tweets",
+        "ETH",
+        "Mark Cieliebak",
+        "Scientifica",
+        "2015",
+        "SpinningBytes",
+        "ZHAW",
+        "2017",
+        "EU",
+        "Datenversteher",
+        "Machine Learning",
+        "De News",
+        "Schweizerische Wirtschaftsarchiv",
+        "T16",
+        "ETH Spin-off SpinningBytes",
+        "Martin Jaggi"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Schweizer",
+        "Natürliche Sprache",
+        "Die Sprache",
+        "computer_science",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

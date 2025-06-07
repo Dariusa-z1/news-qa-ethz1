@@ -1,0 +1,388 @@
+{
+  "filename": "rethink-blogpost-christian-thurn.md",
+  "original_filename": "rethink-blogpost-christian-thurn.html",
+  "source_path": "en_internal/2020/10/rethink-blogpost-christian-thurn.html",
+  "date": "2020-10",
+  "title": "Rethink Blogpost Christian Thurn",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "How could such a lunch meeting platform look like?",
+      "text": "ETH is a great place with interesting people. However, these people often do not know each other. We tend to stay in our groups, only knowing members from our institutes or academic fields. Whereas scientific research becomes more and more specialized, knowledge has smooth transitions without fixed borders and interdisciplinary projects become more influential and get cited more often (e.g. Steele & Stier, 2000). Current problems confront us with increasingly complex questions that need to be tackled by interdisciplinary teams. Getting to know, who could be a member of such a team is the first step.\n\nTo boost interdisciplinary exchange, corporate team spirit as well as diversity, all members of ETH should be able to meet new and interesting people from outside their groups. At best, these people establish regular contact and develop new ideas together, maybe for cooperations in research or collaborations that concern interdisciplinary topics. To increase the dialogue of researchers and to foster team spirit, I envision something that other companies and universities already applied: a lunch meeting platform.\n\nLunch is a great opportunity to get to know your colleagues and exchange news and niceness. Many corporations and organizations already use this opportunity for their members to randomly meet new people, to exchange experiences and develop a higher cohesion and identification with the organization by using a matching platform. To bring some examples, our sister institution EPFL and the CERN have launched similar tools, to bring together people from diverse backgrounds.\n\nSuch an opportunity is lacking at ETH up to now. In the light of contemporary rETHinking of the organization, such a tool would be great to create a feeling of belonging and “togETHer”."
+    },
+    {
+      "heading": "How could such a lunch meeting platform look like?",
+      "text": "Implementing such a platform—let’s call it “Lunch TogETHer” for now (but this name could be decided in a democratic way)—would be quite easy. A sign-up tool with a matching algorithm would bring people from all over ETH together. Those who are interested in having lunch while meeting new people should sign up in the morning and should be able to choose, whether they want to eat at Hönggerberg or Zentrum. Further options may be discussed (selecting a language, lunchtime, group size...). Such lunch meetings might be offered at least once a month, up to a weekly or daily basis, if the demand exists.\n\nThe users get informed via e-mail about their match and then they could decide where they will have lunch. After having lunch together users could indicate whether the matched partner did show up and whether they think the meeting was fruitful in terms of getting to know other people and exchanging ideas.\n\nWhat do you think? Would you like to meet new people from all over ETH during lunch? Vote here ."
+    },
+    {
+      "heading": "Subscribe to Newsletter",
+      "text": "Christian Thurn, PhD student, Learning and Instruction (Image: Christian Thurn)"
+    },
+    {
+      "heading": "Portrait of the author",
+      "text": "Christian Thurn is a PhD student in Learning and Instruction and vice president of the Association of Scientific Staff at DGESS. He studied psychology in Konstanz and Padova and sometimes blogs on statistics and Shakespeare’s plays on Science, Stats and Shakespeare ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Christian Thurn",
+        "label": "PERSON",
+        "start": 37,
+        "end": 52
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Steele & Stier",
+        "label": "ORG",
+        "start": 394,
+        "end": 408
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 595,
+        "end": 600
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 703,
+        "end": 706
+      },
+      {
+        "text": "Lunch",
+        "label": "PERSON",
+        "start": 1125,
+        "end": 1130
+      },
+      {
+        "text": "CERN",
+        "label": "ORG",
+        "start": 1514,
+        "end": 1518
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1633,
+        "end": 1636
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 216,
+        "end": 219
+      },
+      {
+        "text": "the morning",
+        "label": "TIME",
+        "start": 314,
+        "end": 325
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 384,
+        "end": 395
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 399,
+        "end": 406
+      },
+      {
+        "text": "weekly",
+        "label": "DATE",
+        "start": 559,
+        "end": 565
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 569,
+        "end": 574
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 978,
+        "end": 981
+      },
+      {
+        "text": "Christian Thurn",
+        "label": "PERSON",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "Learning and Instruction (Image: Christian Thurn",
+        "label": "ORG",
+        "start": 30,
+        "end": 78
+      },
+      {
+        "text": "Christian Thurn",
+        "label": "PERSON",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "Learning and Instruction",
+        "label": "ORG",
+        "start": 36,
+        "end": 60
+      },
+      {
+        "text": "the Association of Scientific Staff",
+        "label": "ORG",
+        "start": 83,
+        "end": 118
+      },
+      {
+        "text": "Konstanz",
+        "label": "ORG",
+        "start": 154,
+        "end": 162
+      },
+      {
+        "text": "Padova",
+        "label": "ORG",
+        "start": 167,
+        "end": 173
+      },
+      {
+        "text": "Shakespeare",
+        "label": "PERSON",
+        "start": 212,
+        "end": 223
+      },
+      {
+        "text": "Science, Stats and",
+        "label": "WORK_OF_ART",
+        "start": 235,
+        "end": 253
+      },
+      {
+        "text": "Shakespeare",
+        "label": "PERSON",
+        "start": 254,
+        "end": 265
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christian Thurn",
+        "Lunch",
+        "Shakespeare",
+        "Zentrum"
+      ],
+      "ORG": [
+        "CERN",
+        "ETH",
+        "Konstanz",
+        "Learning and Instruction",
+        "Learning and Instruction (Image: Christian Thurn",
+        "Padova",
+        "Steele & Stier",
+        "the Association of Scientific Staff"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "daily",
+        "the morning",
+        "weekly"
+      ],
+      "MISC": [
+        "PhD",
+        "Science, Stats and",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "Christian Thurn": 3,
+      "PhD": 2,
+      "Shakespeare": 2,
+      "Steele & Stier": 1,
+      "first": 1,
+      "Lunch": 1,
+      "CERN": 1,
+      "the morning": 1,
+      "Hönggerberg": 1,
+      "Zentrum": 1,
+      "weekly": 1,
+      "daily": 1,
+      "Learning and Instruction (Image: Christian Thurn": 1,
+      "Learning and Instruction": 1,
+      "the Association of Scientific Staff": 1,
+      "Konstanz": 1,
+      "Padova": 1,
+      "Science, Stats and": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "rethink-blogpost-christian-thurn.md",
+      "title": "En Internal/2020/10/rethink Blogpost Christian Thurn",
+      "language": "en",
+      "source_path": "en_internal/2020/10/rethink-blogpost-christian-thurn.html"
+    },
+    "temporal": {
+      "publication_date": "2020-10",
+      "mentioned_years": [
+        "2000",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christian Thurn",
+        "Lunch",
+        "Shakespeare",
+        "Zentrum"
+      ],
+      "people_with_roles": {
+        "Christian Thurn": [
+          "president",
+          "student"
+        ],
+        "Lunch": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Science, Stats and",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Lunch TogETHer",
+        "Scientific Staff",
+        "Blogpost Christian",
+        "En Internal",
+        "Christian Thurn",
+        "Thurn ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CERN",
+        "ETH",
+        "Konstanz",
+        "Learning and Instruction",
+        "Learning and Instruction (Image: Christian Thurn",
+        "Padova",
+        "Steele & Stier",
+        "the Association of Scientific Staff"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Christian Thurn",
+        "PhD",
+        "Shakespeare",
+        "Steele & Stier",
+        "first",
+        "Lunch",
+        "CERN",
+        "the morning",
+        "Hönggerberg"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "How could such a lunch meeting platform look like?",
+          "How could such a lunch meeting platform look like?",
+          "Subscribe to Newsletter",
+          "Portrait of the author"
+        ],
+        "content_length": 3198
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Learning and Instruction (Image: Christian Thurn",
+        "ETH",
+        "Learning and Instruction",
+        "Shakespeare",
+        "the Association of Scientific Staff",
+        "2020",
+        "Padova",
+        "Lunch",
+        "Zentrum",
+        "Konstanz",
+        "Steele & Stier",
+        "Christian Thurn",
+        "2000",
+        "CERN"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "who",
+        "Science, Stats and",
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Christian Thurn_has_role_president",
+        "Christian Thurn_has_role_student",
+        "Lunch_has_role_researcher",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

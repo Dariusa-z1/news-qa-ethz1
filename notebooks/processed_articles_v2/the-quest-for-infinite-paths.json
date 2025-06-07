@@ -1,0 +1,730 @@
+{
+  "filename": "the-quest-for-infinite-paths.md",
+  "original_filename": "the-quest-for-infinite-paths.html",
+  "source_path": "en_news_events/2022/11/the-quest-for-infinite-paths.html",
+  "date": "2022-11",
+  "title": "The Quest For Infinite Paths",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Making coffee or placing antennas",
+      "text": "Barbara Dembin is standing in front of the blackboard in her office in the ETH Main Building, drawing a circle with bumps and dents with chalk – the outline of a rock. “How does water permeate the rock from the outside?” she asks while sketching a few thin lines that lead into the circle in different ways. To answer this question, she explains, one has to introduce a parameter. Dembin draws a “p” on the board. The p parameter indicates the density of the holes in the rock, i.e. the average number of holes in a small piece of rock. If p reaches a certain threshold, the rock is porous and thus permeable to water.\n\n“That’s the physical model,” Dembin says. “There’s a simple, mathematical model for it.” She draws a grid of intersecting vertical and horizontal lines on the board. Then she erases some of the edges with a sponge, leaving gaps in several grid lines. “Now I inspect the remaining edges to find out if there’s a continuous path leading through the entire grid,” Dembin says. That’s where water will flow through a porous rock. In a sense, both the grid and the path are infinite, as the holes in the rock are microscopic compared to the size of the rock.\n\nIn this mathematical model, too, the p parameter plays a key role in determining hole density. If its value is 0, there are no edges and thus no infinite path. If its value is 1, the edges are all there, which means there is an infinite path as well. “We’re most interested in p values between 0 and 1 because that’s where it gets tricky,” Dembin says. “There’s a critical point where the macroscopic behaviour suddenly changes.” Below this critical value, there is no infinite path; above it, at least one infinite path exists. “This phenomenon is called phase transition,” she explains."
+    },
+    {
+      "heading": "Making coffee or placing antennas",
+      "text": "Derived from the Latin word percolare , which means passing through a sieve, the research area known as percolation theory emerged from these kinds of considerations, going back as far as the 1950s. In French, Dembin’s mother tongue, percolateur is a special term for a coffee machine. Making coffee does indeed involve percolation. If the coffee powder is too compressed, the holes are too small and water cannot get through. “The phase transition takes place right when the water starts flowing through the coffee grounds,” Dembin says.\n\nPercolation theory allows for the examination of many physical phenomena such as the spontaneous magnetisation of alloys and the formation of stars in galaxies. It also lends itself to demonstrating how city traffic breaks down when certain bottlenecks are overburdened. In telecommunications, percolation theory makes it possible to determine where best to place antennas to achieve comprehensive network coverage. And it helps explain how forest fires and epidemics spread. For instance, many researchers used percolation theory during the COVID-19 pandemic to assess the spread of the virus and recommend measures to contain it."
+    },
+    {
+      "heading": "Prize for innovative research",
+      "text": "Such practical applications, however, are a world away from Dembin’s work: “My research is in theoretical mathematics and entirely focused on theoretical aspects; finding applications is a different job.” One of the principal questions of percolation theory concerns the behaviour of the aforementioned mathematical model at the critical point. If the model is two-dimensional, like the drawing on Dembin’s blackboard, it’s possible to prove that the critical parameter is 1⁄2 and that there is actually no infinite path at this critical parameter. “In three dimensions, we don’t know the precise value of the critical parameter and we believe that there is no infinite path at the critical parameter,” she says, adding that this is one of the main open problems of the field.\n\n“But that’s not what I’m concerned with. Rather, I deal with what’s known as the subcritical range, where it’s certain that no infinite path exists,” Dembin says. “We want to understand how fast the probability of a long path existing tends to zero with the size of that path.” Together with Vincent Tassion, Associate Professor of Mathematics at ETH Zurich, she has already obtained results regarding this issue for a different type of percolation model."
+    },
+    {
+      "heading": "Exam stress",
+      "text": "Dembin grew up near Paris. As a child, she already shone in maths in school; her parents and teachers recognised and fostered this talent. “I was lucky,” she says, now 29 years old. “If you’re good at something and people acknowledge it, you want to become even better.” She passed the difficult and highly selective competition for admission at France’s elite École polytechnique. Dembin still remembers the exam, which she had to spend two years taking preparation classes for in secondary school to even stand a chance of passing: “The written part of the exam was no problem, but the oral part was terrible.” The fear of saying something wrong inhibited her thought process.\n\nEven today, she still sometimes feels a little uncomfortable when talking maths with experienced researchers she doesn’t yet know. “A problem my male colleagues don’t seem to have,” she says. “I do think that, as a woman, I have to be especially careful to make a good impression.” She recalls that in secondary school, it was the girls who excelled at maths, but subsequently the proportion of women in this field dropped to 10 percent. “As an actual minority, you tend to be more conscious of what you say, because you’re much more visible.” Not that she encounters problems in her day-to-day research. “I’ve never heard any sexist comments or the like,” she says.\n\nAfter graduating and attaining her doctorate in mathematics from the renowned Laboratoire de probabilités, statistique at modélisation (LPSM) in Paris, she applied for a postdoc position in Tassion’s team – “at the eleventh hour, two weeks before the application deadline.” Dembin admits that she and other people she knew who had never been to Switzerland “didn’t think much of the country. We thought Swiss cities were cold and boring.” But when she started her job at ETH Zurich in September 2020, she soon felt right at home. “I like Zurich a lot and don’t want to go back to Paris. It’s really beautiful here,” she says. Dembin enjoys the city as well as the outdoors, and she likes to go on woodland strolls or hikes. She is also learning German. “I watch many films in German, and someone told me I have a pretty accent,” she says with a smile.\n\nDembin also likes cooking, which she feels definitely compares to her research. “Chefs who invent new dishes are very creative. They, too, apply particular common methods in a very personal way, thereby exploring new horizons,” she says. The approach is similar in mathematics, she says, adding that time is a critical factor. “There’s an active and a passive component to solving a difficult problem,” she explains. First, you actively and intensely think about the problem you are trying to solve. This is necessarily followed by a passive phase, during which your brain has time to relax and to reorganise everything, before you tackle the problem again and hopefully solve it. “It’s hard not to be disappointed when you find an error, but understanding our errors is an important part of the learning process,” Dembin says.\n\nNot to mention that her accomplishments eclipse these lows. For her outstanding contributions to percolation theory, Dembin received the 2022 SwissMAP Innovator Prize from the National Center of Competence in Research (NCCR), which is concerned with the mathematics of physics. Her award-winning research dealt with first-passage percolation and related percolation models. To explain what the first-passage percolation model is about, Dembin again takes a piece of chalk and draws another grid on the board. “This time, the edges represent roads and the intersection points, junctions,” she explains. On some roads, you drive faster; on others, more slowly. The edges are given corresponding numerical values depending on how long it takes to get from one junction to the next.\n\n“Now, let’s say two people want to cross the road network,” Dembin explains as she draws an “A” and a “B” at some distance to the left of the grid. To the right of the grid, she sketches two small circles – the respective destinations of A and B. The important point is that the distance between the departure and arrival points is much greater than the distance between A and B or between the two destinations. “Both individuals now use their GPS to find the shortest way to their destinations.” The result: first, they each choose different small roads that eventually lead to a highway, which they both stay on until they part ways again before reaching their destinations. “That’s exactly what I was able to prove based on certain assumptions, together with my colleagues Dor Elboim and Ron Peled,” Dembin says. “But of course, our mathematical model doesn’t refer to small roads or highways.” She admits, however, that “when you prove something, the end result often looks simple, as if you haven’t accomplished anything at all. But getting there was hard work.”\n\nDembin, B., Elboim, R., Peled, R. Coalescence of geodesics and the BKS midpoint problem in planar first-passage percolation. https://arxiv.org/abs/2204.02332\n\nDembin, B., Tassion, V. Almost sharp sharpness for Poisson Boolean percolation. https://arxiv.org/abs/2209.00999"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Barbara Dembin",
+        "label": "PERSON",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 381,
+        "end": 387
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 648,
+        "end": 654
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 980,
+        "end": 986
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 1513,
+        "end": 1519
+      },
+      {
+        "text": "at least one",
+        "label": "CARDINAL",
+        "start": 1667,
+        "end": 1679
+      },
+      {
+        "text": "Latin",
+        "label": "NORP",
+        "start": 17,
+        "end": 22
+      },
+      {
+        "text": "the 1950s",
+        "label": "DATE",
+        "start": 188,
+        "end": 197
+      },
+      {
+        "text": "French",
+        "label": "NORP",
+        "start": 202,
+        "end": 208
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 210,
+        "end": 216
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 526,
+        "end": 532
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 1081,
+        "end": 1089
+      },
+      {
+        "text": "Dembin’s",
+        "label": "ORG",
+        "start": 60,
+        "end": 68
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 205,
+        "end": 208
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 361,
+        "end": 364
+      },
+      {
+        "text": "Dembin",
+        "label": "ORG",
+        "start": 398,
+        "end": 404
+      },
+      {
+        "text": "1⁄2",
+        "label": "DATE",
+        "start": 473,
+        "end": 476
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 553,
+        "end": 558
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 927,
+        "end": 933
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 1021,
+        "end": 1025
+      },
+      {
+        "text": "Vincent Tassion",
+        "label": "PERSON",
+        "start": 1069,
+        "end": 1084
+      },
+      {
+        "text": "Dembin",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Paris",
+        "label": "GPE",
+        "start": 20,
+        "end": 25
+      },
+      {
+        "text": "29 years old",
+        "label": "DATE",
+        "start": 168,
+        "end": 180
+      },
+      {
+        "text": "France",
+        "label": "GPE",
+        "start": 346,
+        "end": 352
+      },
+      {
+        "text": "École",
+        "label": "ORG",
+        "start": 361,
+        "end": 366
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 382,
+        "end": 388
+      },
+      {
+        "text": "two years",
+        "label": "DATE",
+        "start": 438,
+        "end": 447
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 684,
+        "end": 689
+      },
+      {
+        "text": "10 percent",
+        "label": "PERCENT",
+        "start": 1105,
+        "end": 1115
+      },
+      {
+        "text": "Laboratoire de probabilités",
+        "label": "ORG",
+        "start": 1424,
+        "end": 1451
+      },
+      {
+        "text": "LPSM",
+        "label": "ORG",
+        "start": 1482,
+        "end": 1486
+      },
+      {
+        "text": "Paris",
+        "label": "GPE",
+        "start": 1491,
+        "end": 1496
+      },
+      {
+        "text": "Tassion",
+        "label": "ORG",
+        "start": 1536,
+        "end": 1543
+      },
+      {
+        "text": "the eleventh hour",
+        "label": "TIME",
+        "start": 1557,
+        "end": 1574
+      },
+      {
+        "text": "two weeks",
+        "label": "DATE",
+        "start": 1576,
+        "end": 1585
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 1620,
+        "end": 1626
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1691,
+        "end": 1702
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1749,
+        "end": 1754
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1817,
+        "end": 1827
+      },
+      {
+        "text": "September 2020",
+        "label": "DATE",
+        "start": 1831,
+        "end": 1845
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1884,
+        "end": 1890
+      },
+      {
+        "text": "Paris",
+        "label": "GPE",
+        "start": 1926,
+        "end": 1931
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 1972,
+        "end": 1978
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 2091,
+        "end": 2097
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 2122,
+        "end": 2128
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 2198,
+        "end": 2204
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 2615,
+        "end": 2620
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 3013,
+        "end": 3019
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 3143,
+        "end": 3149
+      },
+      {
+        "text": "the National Center of Competence in Research (NCCR",
+        "label": "ORG",
+        "start": 3198,
+        "end": 3249
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 3342,
+        "end": 3347
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 3420,
+        "end": 3425
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 3462,
+        "end": 3468
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 3779,
+        "end": 3782
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 3821,
+        "end": 3824
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 3865,
+        "end": 3871
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 3992,
+        "end": 3995
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 4199,
+        "end": 4202
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 4314,
+        "end": 4319
+      },
+      {
+        "text": "Dor Elboim",
+        "label": "ORG",
+        "start": 4581,
+        "end": 4591
+      },
+      {
+        "text": "Ron Peled",
+        "label": "PERSON",
+        "start": 4596,
+        "end": 4605
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 4608,
+        "end": 4614
+      },
+      {
+        "text": "Dembin",
+        "label": "PERSON",
+        "start": 4873,
+        "end": 4879
+      },
+      {
+        "text": "Elboim",
+        "label": "GPE",
+        "start": 4885,
+        "end": 4891
+      },
+      {
+        "text": "R.",
+        "label": "NORP",
+        "start": 4893,
+        "end": 4895
+      },
+      {
+        "text": "Peled",
+        "label": "NORP",
+        "start": 4897,
+        "end": 4902
+      },
+      {
+        "text": "R. Coalescence",
+        "label": "PERSON",
+        "start": 4904,
+        "end": 4918
+      },
+      {
+        "text": "BKS",
+        "label": "ORG",
+        "start": 4940,
+        "end": 4943
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 4971,
+        "end": 4976
+      },
+      {
+        "text": "V. Almost",
+        "label": "PERSON",
+        "start": 5052,
+        "end": 5061
+      },
+      {
+        "text": "Poisson Boolean",
+        "label": "ORG",
+        "start": 5082,
+        "end": 5097
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Barbara Dembin",
+        "Dembin",
+        "R. Coalescence",
+        "Ron Peled",
+        "V. Almost",
+        "Vincent Tassion"
+      ],
+      "ORG": [
+        "BKS",
+        "COVID-19",
+        "Dembin",
+        "Dembin’s",
+        "Dor Elboim",
+        "ETH Zurich",
+        "LPSM",
+        "Laboratoire de probabilités",
+        "Poisson Boolean",
+        "Tassion",
+        "the National Center of Competence in Research (NCCR",
+        "École"
+      ],
+      "LOCATION": [
+        "Elboim",
+        "France",
+        "Paris",
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "1⁄2",
+        "29 years old",
+        "September 2020",
+        "the 1950s",
+        "the eleventh hour",
+        "today",
+        "two weeks",
+        "two years"
+      ],
+      "MISC": [
+        "10 percent",
+        "First",
+        "French",
+        "German",
+        "Latin",
+        "One",
+        "Peled",
+        "R.",
+        "Swiss",
+        "at least one",
+        "first",
+        "one",
+        "three",
+        "two",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "Dembin": 19,
+      "two": 4,
+      "first": 4,
+      "Paris": 3,
+      "German": 2,
+      "Barbara Dembin": 1,
+      "at least one": 1,
+      "Latin": 1,
+      "the 1950s": 1,
+      "French": 1,
+      "COVID-19": 1,
+      "Dembin’s": 1,
+      "One": 1,
+      "1⁄2": 1,
+      "three": 1,
+      "zero": 1,
+      "Vincent Tassion": 1,
+      "29 years old": 1,
+      "France": 1,
+      "École": 1
+    },
+    "total_entities": 72,
+    "unique_entities": 45
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-quest-for-infinite-paths.md",
+      "title": "En News Events/2022/11/the Quest For Infinite Paths",
+      "language": "en",
+      "source_path": "en_news_events/2022/11/the-quest-for-infinite-paths.html"
+    },
+    "temporal": {
+      "publication_date": "2022-11",
+      "mentioned_years": [
+        "2020",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Barbara Dembin",
+        "Dembin",
+        "R. Coalescence",
+        "Ron Peled",
+        "V. Almost",
+        "Vincent Tassion"
+      ],
+      "people_with_roles": {
+        "Vincent Tassion": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10 percent",
+        "First",
+        "French",
+        "German",
+        "Latin",
+        "Peled",
+        "Swiss",
+        "at least one",
+        "first",
+        "three",
+        "zero"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "Horizon"
+      ],
+      "projects": [
+        "ETH Main",
+        "Vincent Tassion",
+        "Infinite Paths",
+        "En News",
+        "Associate Professor",
+        "Ron Peled",
+        "National Center",
+        "Quest For",
+        "Now I",
+        "ETH Zurich",
+        "Dor Elboim",
+        "In French",
+        "SwissMAP Innovator",
+        "Poisson Boolean",
+        "Barbara Dembin"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BKS",
+        "COVID-19",
+        "Dembin",
+        "Dembin’s",
+        "Dor Elboim",
+        "ETH Zurich",
+        "LPSM",
+        "Laboratoire de probabilités",
+        "Poisson Boolean",
+        "Tassion",
+        "the National Center of Competence in Research (NCCR",
+        "École"
+      ],
+      "locations": [
+        "Elboim",
+        "France",
+        "Paris",
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Dembin",
+        "two",
+        "first",
+        "Paris",
+        "German",
+        "Barbara Dembin",
+        "at least one",
+        "Latin",
+        "the 1950s",
+        "French"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Making coffee or placing antennas",
+          "Making coffee or placing antennas",
+          "Prize for innovative research",
+          "Exam stress"
+        ],
+        "content_length": 9372
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "BKS",
+        "Ron Peled",
+        "2020",
+        "ERC",
+        "V. Almost",
+        "2022",
+        "Dembin’s",
+        "Dor Elboim",
+        "COVID-19",
+        "Barbara Dembin",
+        "Laboratoire de probabilités",
+        "EU",
+        "École",
+        "R. Coalescence",
+        "LPSM",
+        "Vincent Tassion",
+        "Tassion",
+        "Dembin",
+        "the National Center of Competence in Research (NCCR",
+        "ETH Zurich",
+        "Horizon",
+        "Poisson Boolean"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Peled",
+        "mathematics",
+        "first",
+        "10 percent",
+        "French",
+        "at least one",
+        "Latin",
+        "three",
+        "zero",
+        "who",
+        "Swiss",
+        "what",
+        "how",
+        "German",
+        "First",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Vincent Tassion_has_role_professor",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "filename": "oligosaccharide-secondary-structures.md",
+  "original_filename": "oligosaccharide-secondary-structures.html",
+  "source_path": "en_news_events/2017/08/oligosaccharide-secondary-structures.html",
+  "date": "2017-08",
+  "title": "Oligosaccharide Secondary Structures",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Stable arrangement",
+      "text": "Oligosaccharides – chains of sugar building blocks – are some of the most important molecules in living creatures. They make up a large part of the surface of cells and contribute to the immune system’s ability to distinguish the body's own cells from pathogens or other foreign cells. Oligosaccharides on the surface of blood cells also determine our blood group and many proteins carry oligosaccharide appendages, which are essential for protein function.\n\nScientists had previously thought that these sugar molecules were freely mobile and did not form rigid structures. Rigid three-dimensional molecular structures – referred to by experts as secondary structures – had been found only in DNA, in which the molecules form a double helix, and in proteins, in which partial regions often form spirals or small surfaces with the structure of corrugated metal.\n\nHowever, an international research team has now found such secondary structures in oligosaccharides. “We were able to show that the structure of certain oligosaccharides that contain the basic building block fucose have a characteristic rigidity,” explains Mario Schubert, head of the research team. Schubert was at ETH Zurich for several years and now works at the University of Salzburg."
+    },
+    {
+      "heading": "Stable arrangement",
+      "text": "The newly discovered secondary structural element determines how the three sugar building blocks in the oligosaccharide are spatially related: the first building block – the sugar type fucose – and the third building block are stacked parallel to one another, while the middle block is at right angles to the other two. This structure is stabilised by a chemical hydrogen bond between the first and third blocks.\n\nThis structure, comprising three blocks, is a comparatively small-scale molecular unit. In comparison, spiral secondary structures in proteins can extend over several dozen protein building blocks."
+    },
+    {
+      "heading": "Dogma disproved",
+      "text": "Until now scientists had assumed that the hydrogen bonds between oligosaccharide building blocks were very weak and could therefore be neglected. The prevailing opinion was that no secondary structures existed in oligosaccharides. “Our work now shows that certain hydrogen bonds have to be taken into account. As a slight tip of the scales, they can help significantly in forcing the sugar building blocks into a rigid corset,” says Schubert.\n\n“Oligosaccharides with the newly discovered structural pattern are recognised easily by other molecules using the lock and key principle, because a rigid, inflexible structure simplifies molecular recognition,” says Schubert. This lock and key principle in oligosaccharides is particularly important in the case of immune system molecules and stem cells. The new findings help to better understand the interactions of such molecules."
+    },
+    {
+      "heading": "Present in many sugar molecules",
+      "text": "Structural biologists often use computer programmes to determine the three-dimensional structure of molecules. “This software must now be expanded to account for the new oligosaccharide secondary structural element,” says Schubert.\n\nThe researchers at ETH Zurich, University of Basel and Ecole Normale Supérieure in Paris detected the new structural element by nuclear magnetic resonance spectroscopy in two blood group oligosaccharides and four other oligosaccharides. However, the scientists assume that the structural element also appears in many other cell surface and protein oligosaccharides. They found evidence of such patterns in more than 200 oligosaccharides in a protein structure database.\n\nAeschbacher T, Zierke M, Smieško M, Collot M, Mallet JM, Ernst B, Allain FHT, Schubert M: A secondary structure element present in a wide range of fucosylated glycoepitopes. Chemistry, 27 June 2017, doi: 10.1002/chem.201701866"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Secondary Structures",
+        "label": "PERSON",
+        "start": 39,
+        "end": 59
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 579,
+        "end": 584
+      },
+      {
+        "text": "Mario Schubert",
+        "label": "PERSON",
+        "start": 1117,
+        "end": 1131
+      },
+      {
+        "text": "Schubert",
+        "label": "PERSON",
+        "start": 1160,
+        "end": 1168
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 1176,
+        "end": 1186
+      },
+      {
+        "text": "several years",
+        "label": "DATE",
+        "start": 1191,
+        "end": 1204
+      },
+      {
+        "text": "the University of Salzburg",
+        "label": "ORG",
+        "start": 1222,
+        "end": 1248
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 69,
+        "end": 74
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 147,
+        "end": 152
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 202,
+        "end": 207
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 315,
+        "end": 318
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 389,
+        "end": 394
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 399,
+        "end": 404
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 440,
+        "end": 445
+      },
+      {
+        "text": "over several dozen",
+        "label": "CARDINAL",
+        "start": 567,
+        "end": 585
+      },
+      {
+        "text": "Schubert",
+        "label": "PERSON",
+        "start": 433,
+        "end": 441
+      },
+      {
+        "text": "Schubert",
+        "label": "PERSON",
+        "start": 659,
+        "end": 667
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 69,
+        "end": 74
+      },
+      {
+        "text": "Schubert",
+        "label": "PERSON",
+        "start": 222,
+        "end": 230
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 251,
+        "end": 261
+      },
+      {
+        "text": "University of Basel and Ecole Normale Supérieure",
+        "label": "ORG",
+        "start": 263,
+        "end": 311
+      },
+      {
+        "text": "Paris",
+        "label": "GPE",
+        "start": 315,
+        "end": 320
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 403,
+        "end": 406
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 440,
+        "end": 444
+      },
+      {
+        "text": "more than 200",
+        "label": "CARDINAL",
+        "start": 638,
+        "end": 651
+      },
+      {
+        "text": "Ernst B",
+        "label": "PERSON",
+        "start": 759,
+        "end": 766
+      },
+      {
+        "text": "Schubert M",
+        "label": "PERSON",
+        "start": 780,
+        "end": 790
+      },
+      {
+        "text": "27 June 2017",
+        "label": "DATE",
+        "start": 887,
+        "end": 899
+      },
+      {
+        "text": "10.1002",
+        "label": "CARDINAL",
+        "start": 906,
+        "end": 913
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ernst B",
+        "Mario Schubert",
+        "Schubert",
+        "Schubert M",
+        "Secondary Structures"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "University of Basel and Ecole Normale Supérieure",
+        "the University of Salzburg"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Paris"
+      ],
+      "DATE": [
+        "27 June 2017",
+        "several years"
+      ],
+      "MISC": [
+        "10.1002",
+        "first",
+        "four",
+        "more than 200",
+        "over several dozen",
+        "third",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "three": 4,
+      "Schubert": 4,
+      "ETH Zurich": 2,
+      "first": 2,
+      "third": 2,
+      "two": 2,
+      "Secondary Structures": 1,
+      "Mario Schubert": 1,
+      "several years": 1,
+      "the University of Salzburg": 1,
+      "over several dozen": 1,
+      "University of Basel and Ecole Normale Supérieure": 1,
+      "Paris": 1,
+      "four": 1,
+      "more than 200": 1,
+      "Ernst B": 1,
+      "Schubert M": 1,
+      "27 June 2017": 1,
+      "10.1002": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "oligosaccharide-secondary-structures.md",
+      "title": "En News Events/2017/08/oligosaccharide Secondary Structures",
+      "language": "en",
+      "source_path": "en_news_events/2017/08/oligosaccharide-secondary-structures.html"
+    },
+    "temporal": {
+      "publication_date": "2017-08",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Ernst B",
+        "Mario Schubert",
+        "Schubert",
+        "Schubert M",
+        "Secondary Structures"
+      ],
+      "people_with_roles": {
+        "Mario Schubert": [
+          "head"
+        ],
+        "Schubert": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology",
+        "chemistry",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10.1002",
+        "first",
+        "four",
+        "more than 200",
+        "over several dozen",
+        "third",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "En News",
+        "Ernst B",
+        "Allain FHT",
+        "Mallet JM",
+        "ETH Zurich",
+        "Zierke M",
+        "Schubert M",
+        "Ecole Normale",
+        "Mario Schubert",
+        "Collot M",
+        "Aeschbacher T",
+        "Secondary Structures"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "University of Basel and Ecole Normale Supérieure",
+        "the University of Salzburg"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Paris"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "three",
+        "Schubert",
+        "ETH Zurich",
+        "first",
+        "third",
+        "two",
+        "Secondary Structures",
+        "Mario Schubert",
+        "several years",
+        "the University of Salzburg"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Stable arrangement",
+          "Stable arrangement",
+          "Dogma disproved",
+          "Present in many sugar molecules"
+        ],
+        "content_length": 3732
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2017",
+        "Ernst B",
+        "Schubert",
+        "EU",
+        "Schubert M",
+        "ETH Zurich",
+        "University of Basel and Ecole Normale Supérieure",
+        "Mario Schubert",
+        "Secondary Structures",
+        "the University of Salzburg"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "third",
+        "more than 200",
+        "three",
+        "four",
+        "who",
+        "over several dozen",
+        "chemistry",
+        "10.1002",
+        "biology",
+        "what",
+        "how",
+        "computer_science",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Mario Schubert_has_role_head",
+        "Schubert_has_role_head",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

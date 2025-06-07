@@ -1,0 +1,294 @@
+{
+  "filename": "podcast-ai-climate-change.md",
+  "original_filename": "podcast-ai-climate-change.html",
+  "source_path": "en_news_events/2020/05/podcast-ai-climate-change.html",
+  "date": "2020-05",
+  "title": "Podcast Ai Climate Change",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "This episode of the ETH podcast is about Lynn Kaack’s and David Dao’s work on the energy transition and forests, their work with the organisation Climate Change AI, and their take on research, activism and policy. We pushed back the podcast that had been produced before the lockdown due to our special series on COVID-​19 and have now supplemented it with current statements from the two researchers. Because we wanted to know what had changed for them.\n\nKaack and Dao both use artificial intelligence and machine learning in various areas to fight climate change. Dao studies the effects of deforestation, and Kaack researches the basis for rules in energy policy and is co-chair of the Climate Change AI organisation. The coronavirus has not changed much in the way they both work: The main difference is that they now sit in front of the computer at home, rather than in the office. They also organised their first virtual conference, which was very successful. Thus, they are not restricted in their work by the current situation, but they do worry that people are forgetting that climate change is an even bigger problem waiting for humanity. They fear that people are being lulled into a false sense of security by the short-term environmental improvements brought about by the global lockdown. \"Just because dolphins are swimming in Venice again doesn't mean climate change has been averted,\" says Dao. This requires long-term social changes. Because taking the train instead of flying, reducing meat consumption, eating seasonal and regional fruits and vegetables will not be enough to make a real difference. \"Politicians are currently looking at public health, and rightly so, but they should also create the conditions to ensure that people will still be doing well in 20 or 30 years' time,\" warns Kaack.\n\nThe topics on the ETH Podcast are as diverse as ETH research itself. From discussions with experts on current research topics to exciting in-depth reporting, there's something for everyone. The podcast is in English, to make it available to an international audience. You can subscribe through any of the usual podcast platforms or listen to it on the website."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Ai Climate Change",
+        "label": "ORG",
+        "start": 31,
+        "end": 48
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 20,
+        "end": 23
+      },
+      {
+        "text": "Lynn Kaack’s",
+        "label": "PERSON",
+        "start": 41,
+        "end": 53
+      },
+      {
+        "text": "David Dao’s",
+        "label": "PERSON",
+        "start": 58,
+        "end": 69
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 385,
+        "end": 388
+      },
+      {
+        "text": "Kaack",
+        "label": "ORG",
+        "start": 455,
+        "end": 460
+      },
+      {
+        "text": "Dao",
+        "label": "PERSON",
+        "start": 465,
+        "end": 468
+      },
+      {
+        "text": "Kaack",
+        "label": "ORG",
+        "start": 611,
+        "end": 616
+      },
+      {
+        "text": "the Climate Change AI",
+        "label": "ORG",
+        "start": 684,
+        "end": 705
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 912,
+        "end": 917
+      },
+      {
+        "text": "Venice",
+        "label": "GPE",
+        "start": 1340,
+        "end": 1346
+      },
+      {
+        "text": "Dao",
+        "label": "PERSON",
+        "start": 1405,
+        "end": 1408
+      },
+      {
+        "text": "20 or 30 years' time",
+        "label": "DATE",
+        "start": 1780,
+        "end": 1800
+      },
+      {
+        "text": "Kaack",
+        "label": "ORG",
+        "start": 1809,
+        "end": 1814
+      },
+      {
+        "text": "the ETH Podcast",
+        "label": "ORG",
+        "start": 1830,
+        "end": 1845
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1864,
+        "end": 1867
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 2024,
+        "end": 2031
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dao",
+        "David Dao’s",
+        "Lynn Kaack’s"
+      ],
+      "ORG": [
+        "Ai Climate Change",
+        "ETH",
+        "En News",
+        "Kaack",
+        "the Climate Change AI",
+        "the ETH Podcast"
+      ],
+      "LOCATION": [
+        "Venice"
+      ],
+      "DATE": [
+        "20 or 30 years' time"
+      ],
+      "MISC": [
+        "English",
+        "first",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Kaack": 3,
+      "ETH": 2,
+      "Dao": 2,
+      "En News": 1,
+      "Ai Climate Change": 1,
+      "Lynn Kaack’s": 1,
+      "David Dao’s": 1,
+      "two": 1,
+      "the Climate Change AI": 1,
+      "first": 1,
+      "Venice": 1,
+      "20 or 30 years' time": 1,
+      "the ETH Podcast": 1,
+      "English": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-ai-climate-change.md",
+      "title": "En News Events/2020/05/podcast Ai Climate Change",
+      "language": "en",
+      "source_path": "en_news_events/2020/05/podcast-ai-climate-change.html"
+    },
+    "temporal": {
+      "publication_date": "2020-05",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Dao",
+        "David Dao’s",
+        "Lynn Kaack’s"
+      ],
+      "people_with_roles": {
+        "Dao": [
+          "chair"
+        ]
+      },
+      "institutional_roles": [
+        "chair",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "English",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Climate Change",
+        "Change This",
+        "Ai Climate",
+        "En News",
+        "ETH Podcast",
+        "David Dao",
+        "Lynn Kaack"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Ai Climate Change",
+        "ETH",
+        "En News",
+        "Kaack",
+        "the Climate Change AI",
+        "the ETH Podcast"
+      ],
+      "locations": [
+        "Venice"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Kaack",
+        "ETH",
+        "Dao",
+        "En News",
+        "Ai Climate Change",
+        "Lynn Kaack’s",
+        "David Dao’s",
+        "two",
+        "the Climate Change AI",
+        "first"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2227
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "David Dao’s",
+        "ETH",
+        "Ai Climate Change",
+        "En News",
+        "the Climate Change AI",
+        "2020",
+        "the ETH Podcast",
+        "Kaack",
+        "Lynn Kaack’s",
+        "Dao"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "English",
+        "what",
+        "medical_research",
+        "climate_change",
+        "when"
+      ],
+      "graph_relations": [
+        "Dao_has_role_chair",
+        "research_domain_climate_change",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

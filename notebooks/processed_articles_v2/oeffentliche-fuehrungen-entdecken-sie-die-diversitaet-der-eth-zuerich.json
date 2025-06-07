@@ -1,0 +1,292 @@
+{
+  "filename": "oeffentliche-fuehrungen-entdecken-sie-die-diversitaet-der-eth-zuerich.md",
+  "original_filename": "oeffentliche-fuehrungen-entdecken-sie-die-diversitaet-der-eth-zuerich.html",
+  "source_path": "en_internal/2019/12/oeffentliche-fuehrungen-entdecken-sie-die-diversitaet-der-eth-zuerich.html",
+  "date": "2019-12",
+  "title": "Oeffentliche Fuehrungen Entdecken Sie Die Diversitaet Der Eth Zuerich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Would you like to learn more about historical events and personalities including Albert Einstein, Max Frisch and Thomas Mann? Participate in one of our public tours and admire our valuable collections, pictures and artefacts. Immerse yourself in current research topics and familiarise yourself with the two campus centres Zentrum and Hönggerberg, as well as buildings and works of art at ETH Zurich.\n\nThe free public tours take place on Tuesdays from 18:15 to 19:15.\n\nThe tours are conducted by the Collections and Archives, ETH Library, the Services and Facility Management departments, Real Estate Management and various institutes at ETH Zurich, and provide fascinating behind-the-scenes glimpses.\n\nPublic tours at ETH Zurich\n\n#KnowMore – The prepared content issued by ETH Library is at your free disposal and gives you a head start."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Fuehrungen Entdecken Sie",
+        "label": "PERSON",
+        "start": 33,
+        "end": 57
+      },
+      {
+        "text": "Diversitaet",
+        "label": "PERSON",
+        "start": 62,
+        "end": 73
+      },
+      {
+        "text": "Albert Einstein",
+        "label": "PERSON",
+        "start": 81,
+        "end": 96
+      },
+      {
+        "text": "Max Frisch",
+        "label": "PERSON",
+        "start": 98,
+        "end": 108
+      },
+      {
+        "text": "Thomas Mann",
+        "label": "PERSON",
+        "start": 113,
+        "end": 124
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 141,
+        "end": 144
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 304,
+        "end": 307
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 323,
+        "end": 330
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 335,
+        "end": 346
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 389,
+        "end": 399
+      },
+      {
+        "text": "Tuesdays",
+        "label": "DATE",
+        "start": 437,
+        "end": 445
+      },
+      {
+        "text": "18:15",
+        "label": "CARDINAL",
+        "start": 451,
+        "end": 456
+      },
+      {
+        "text": "19:15",
+        "label": "CARDINAL",
+        "start": 460,
+        "end": 465
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 524,
+        "end": 535
+      },
+      {
+        "text": "Facility Management",
+        "label": "ORG",
+        "start": 554,
+        "end": 573
+      },
+      {
+        "text": "Real Estate Management",
+        "label": "ORG",
+        "start": 587,
+        "end": 609
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 636,
+        "end": 646
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 716,
+        "end": 726
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 769,
+        "end": 780
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Albert Einstein",
+        "Diversitaet",
+        "Fuehrungen Entdecken Sie",
+        "Max Frisch",
+        "Thomas Mann",
+        "Zentrum"
+      ],
+      "ORG": [
+        "ETH Library",
+        "ETH Zurich",
+        "Facility Management",
+        "Real Estate Management"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "Tuesdays"
+      ],
+      "MISC": [
+        "18:15",
+        "19:15",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "ETH Library": 2,
+      "Fuehrungen Entdecken Sie": 1,
+      "Diversitaet": 1,
+      "Albert Einstein": 1,
+      "Max Frisch": 1,
+      "Thomas Mann": 1,
+      "one": 1,
+      "two": 1,
+      "Zentrum": 1,
+      "Hönggerberg": 1,
+      "Tuesdays": 1,
+      "18:15": 1,
+      "19:15": 1,
+      "Facility Management": 1,
+      "Real Estate Management": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "oeffentliche-fuehrungen-entdecken-sie-die-diversitaet-der-eth-zuerich.md",
+      "title": "En Internal/2019/12/oeffentliche Fuehrungen Entdecken Sie die Diversitaet der Eth Zuerich",
+      "language": "en",
+      "source_path": "en_internal/2019/12/oeffentliche-fuehrungen-entdecken-sie-die-diversitaet-der-eth-zuerich.html"
+    },
+    "temporal": {
+      "publication_date": "2019-12",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Albert Einstein",
+        "Diversitaet",
+        "Fuehrungen Entdecken Sie",
+        "Max Frisch",
+        "Thomas Mann",
+        "Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "18:15",
+        "19:15"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Albert Einstein",
+        "ETH Library",
+        "Thomas Mann",
+        "En Internal",
+        "Facility Management",
+        "Real Estate",
+        "Eth Zuerich",
+        "ETH Zurich",
+        "Max Frisch",
+        "Fuehrungen Entdecken"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library",
+        "ETH Zurich",
+        "Facility Management",
+        "Real Estate Management"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "ETH Library",
+        "Fuehrungen Entdecken Sie",
+        "Diversitaet",
+        "Albert Einstein",
+        "Max Frisch",
+        "Thomas Mann",
+        "one",
+        "two",
+        "Zentrum"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 928
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Albert Einstein",
+        "Diversitaet",
+        "2019",
+        "ETH Library",
+        "Thomas Mann",
+        "Real Estate Management",
+        "Zentrum",
+        "Facility Management",
+        "Fuehrungen Entdecken Sie",
+        "ETH Zurich",
+        "Max Frisch"
+      ],
+      "semantic_concepts": [
+        "who",
+        "19:15",
+        "18:15",
+        "what",
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

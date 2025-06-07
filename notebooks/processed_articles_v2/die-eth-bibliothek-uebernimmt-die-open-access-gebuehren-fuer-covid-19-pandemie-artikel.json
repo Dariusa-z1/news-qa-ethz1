@@ -1,0 +1,224 @@
+{
+  "filename": "die-eth-bibliothek-uebernimmt-die-open-access-gebuehren-fuer-covid-19-pandemie-artikel.md",
+  "original_filename": "die-eth-bibliothek-uebernimmt-die-open-access-gebuehren-fuer-covid-19-pandemie-artikel.html",
+  "source_path": "en_internal/2020/03/die-eth-bibliothek-uebernimmt-die-open-access-gebuehren-fuer-covid-19-pandemie-artikel.html",
+  "date": "2020-03",
+  "title": "Die Eth Bibliothek Uebernimmt Die Open Access Gebuehren Fuer Covid 19 Pandemie Artikel",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The funding covers open access fees for articles in Gold open access journals and in Hybrid journals. The research depicted in funded articles has to be related to the current crises. This includes all aspects related to the COVID-19 pandemics such as medical, economic, policy and social studies.\n\nThe requirement for funding is for the first or corresponding author of the article to be a member of ETH Zurich.\n\nTo apply for funding, please send us an e-mail with information on the article to before submitting it. We will then decide whether we consider the article for funding and inform you about further steps.\n\nYou can find information on further open access funding options on our webpage.\n\n#KnowHow – ETH Library’s infrastructure and tools lead you to your goal.\n\n#ETHBibliothekDigital – ETH Library is there for you digitally with various offers and services , not only during the COVID-19 protective measures."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Bibliothek Uebernimmt",
+        "label": "PERSON",
+        "start": 28,
+        "end": 49
+      },
+      {
+        "text": "Covid 19",
+        "label": "PERSON",
+        "start": 81,
+        "end": 89
+      },
+      {
+        "text": "Hybrid",
+        "label": "PERSON",
+        "start": 85,
+        "end": 91
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 225,
+        "end": 233
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 337,
+        "end": 342
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 400,
+        "end": 410
+      },
+      {
+        "text": "KnowHow",
+        "label": "PERSON",
+        "start": 696,
+        "end": 703
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 706,
+        "end": 719
+      },
+      {
+        "text": "ETH Library",
+        "label": "PERSON",
+        "start": 791,
+        "end": 802
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 885,
+        "end": 893
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bibliothek Uebernimmt",
+        "Covid 19",
+        "ETH Library",
+        "ETH Library’s",
+        "ETH Zurich",
+        "Hybrid",
+        "KnowHow"
+      ],
+      "ORG": [
+        "COVID-19"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "COVID-19": 2,
+      "Bibliothek Uebernimmt": 1,
+      "Covid 19": 1,
+      "Hybrid": 1,
+      "first": 1,
+      "ETH Zurich": 1,
+      "KnowHow": 1,
+      "ETH Library’s": 1,
+      "ETH Library": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "die-eth-bibliothek-uebernimmt-die-open-access-gebuehren-fuer-covid-19-pandemie-artikel.md",
+      "title": "En Internal/2020/03/die Eth Bibliothek Uebernimmt die Open Access Gebuehren Fuer Covid 19 Pandemie Artikel",
+      "language": "en",
+      "source_path": "en_internal/2020/03/die-eth-bibliothek-uebernimmt-die-open-access-gebuehren-fuer-covid-19-pandemie-artikel.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bibliothek Uebernimmt",
+        "Covid 19",
+        "ETH Library",
+        "ETH Library’s",
+        "ETH Zurich",
+        "Hybrid",
+        "KnowHow"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "first"
+      ],
+      "grants_funding": [
+        "funding"
+      ],
+      "projects": [
+        "Pandemie Artikel",
+        "ETH Library",
+        "En Internal",
+        "Gebuehren Fuer",
+        "ETH Zurich",
+        "Open Access",
+        "Eth Bibliothek"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "COVID-19",
+        "Bibliothek Uebernimmt",
+        "Covid 19",
+        "Hybrid",
+        "first",
+        "ETH Zurich",
+        "KnowHow",
+        "ETH Library’s",
+        "ETH Library"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1028
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Bibliothek Uebernimmt",
+        "ETH Library",
+        "2020",
+        "COVID-19",
+        "funding",
+        "Covid 19",
+        "Hybrid",
+        "KnowHow",
+        "ETH Zurich",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

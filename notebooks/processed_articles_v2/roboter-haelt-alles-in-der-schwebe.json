@@ -1,0 +1,350 @@
+{
+  "filename": "roboter-haelt-alles-in-der-schwebe.md",
+  "original_filename": "roboter-haelt-alles-in-der-schwebe.html",
+  "source_path": "de_news_events/2020/01/roboter-haelt-alles-in-der-schwebe.html",
+  "date": "2020-01",
+  "title": "Roboter Haelt Alles In Der Schwebe",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die kleine Installation, die Marcel Schuck auf einer Holzplatte an seinem Arbeitsplatz aufgebaut hat, erinnert an den Physikunterricht: An einer Platine mit Mikrochip ist eine lange, aus zwei Halbkugeln bestehende Greifzange angeschlossen, die aussieht wie ein Kopfhörer. Mit dem Arrangement demonstriert er einen physikalischen Effekt: Zwischen den Halbkugeln schwebt nämlich eine kleine Kugel. In der Luft gehalten wird sie durch Ultraschallwellen. «Man spricht von akustischem Schweben», erklärt der Wissenschaftler.\n\nDer ehemalige ETH-Doktorand entwickelt derzeit im Rahmen eines ETH-Pioneer-Fellowships ein Verfahren, mit dem kleine Objekte ohne jegliche Berührung angehoben und manipuliert werden können. Das ist vor allem dort relevant, wo Beschädigungen von Kleinteilen ins Geld gehen, so zum Beispiel in der Uhren- oder Halbleiterindustrie.\n\nGreift ein normaler Roboter nach empfindlichen Objekten, geht schnell etwas kaputt. Deshalb werden in der Praxis häufig weiche, gummiartige Greifer verwendet. Diese richten zwar keinen Schaden an, werden durch die Berührungen wie ein viel gebrauchter Radiergummi aber beschmutzt. Ausserdem ist die Positioniergenauigkeit mit solchen sogenannten «Soft Robotic Grippers» eingeschränkt.\n\nGreifen, ohne zu berühren: Das ist das Prinzip hinter Schucks Projekt mit dem Namen «No Touch-Robotics». Möglich macht es ein Effekt, der seit über 80 Jahren und vor allem in der Weltraumforschung angewandt wird. Ultraschallwellen erzeugen ein für uns nicht sicht- und hörbares Druckfeld. Indem die akustischen Wellen einander überlagern, werden Druckpunkte erzeugt, wo kleine Objekte gefangen werden können. Als Folge davon hängen sie scheinbar frei in der Luft – sie schweben in der akustischen Falle.\n\nDie Installation in seinem Labor ist Prototyp für das Produkt, das Schuck mittelfristig entwickeln möchte: einen robotergesteuerten Ultraschallgreifer. In zwei mittels 3D-Druck hergestellten Halbkugeln hat der 31-Jährige zahlreiche Mini-Lautsprecher eingebaut. Mit Hilfe einer Software kann er diese so ansteuern, dass sich die Druckpunkte verschieben lassen. Langfristiges Ziel ist es, deren Position in Echtzeit zu verändern, ohne dass das schwebende Objekt zu Boden fällt. Genau daran forscht der ETH-Doktorand Marc Röthlisberger, der mit Schuck sowie dem Masterstudenten Christian Burkard im Technopark Zürich eine Laborgemeinschaft bildet. Bereits mit der bestehenden Technik können die Forscher verschiedene Kleinteile im Raum bewegen. Die Software passt den Greifer an die Form des anzuhebenden Objekts an, der Roboterarm transportiert dieses an den Zielort. Das Prinzip des berührungslosen Greifens hat auch einen ökonomischen Vorteil: wer mit einem normalen Roboter arbeitet, braucht für fast jede neue Form einen separaten Greifer. Der Ultraschallgreifer macht den umfassenden Satz an hochpräzisen (und teuren) Greifern überflüssig. Der Roboterarm selber muss nicht einmal sehr präzise sein. «Die exakte Positionierung erfolgt durch die mit der Software gesteuerten Ultraschallwellen», erklärt Schuck. In seinem ETH-Pioneer-Fellowship möchte Schuck zunächst herausfinden, wie in der Praxis Robotergreifarme überhaupt gebraucht werden. «Hauptziel ist es, die Anwendungsgebiete kennen zu lernen und Türen in der Industrie aufzustossen», so Schuck. Interessant dürfte die Innovation für die Uhrenindustrie sein, wo wegen kostbarer Kleinteile präzise Mikromechanik Pflicht ist. «Zahnräder von Uhren beispielsweise werden erst mit Schmiermitteln versehen, dann wird die Dicke dieser Schicht gemessen. Selbst feinste Berührungen könnten den dünnen Schmiermittelfilm zerstören.» Auch die Mikrochipproduktion könnte für Schucks Technologie ein interessanter Markt sein. Im Rahmen des mit 150'000 Franken geförderten Fellowships erstellt Schuck eine Art Experimentierkoffer für potenzielle Kunden. Darin enthalten ist ein Robotergreifer, Steuerungssoftware und eine Anleitung. Schuck betont, dass er noch nicht weiss, wie das Endprodukt aussehen wird. «Das kommt auf die Rückmeldungen aus der Industrie an.» Er hofft, dass er ein paar Interessenten findet, mit denen er den Ultraschallgreifer gemeinsam weiterentwickeln kann – sodass dieser einerseits der Nachfrage auf dem Markt entspricht. Andererseits soll das Verfahren nicht nur im Labor, sondern auch in der Praxis funktionieren. Falls dies bis im Frühjahr 2021 gelingt, kann sich Schuck gut vorstellen, mit seiner Geschäftsidee ein Unternehmen zu gründen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Marcel Schuck",
+        "label": "PER",
+        "start": 29,
+        "end": 42
+      },
+      {
+        "text": "Halbkugeln",
+        "label": "LOC",
+        "start": 350,
+        "end": 360
+      },
+      {
+        "text": "akustischem",
+        "label": "MISC",
+        "start": 468,
+        "end": 479
+      },
+      {
+        "text": "ETH-Doktorand",
+        "label": "ORG",
+        "start": 534,
+        "end": 547
+      },
+      {
+        "text": "ETH-Pioneer-Fellowships",
+        "label": "MISC",
+        "start": 583,
+        "end": 606
+      },
+      {
+        "text": "Greift",
+        "label": "PER",
+        "start": 849,
+        "end": 855
+      },
+      {
+        "text": "Schucks",
+        "label": "PER",
+        "start": 1287,
+        "end": 1294
+      },
+      {
+        "text": "Ultraschallwellen",
+        "label": "PER",
+        "start": 1446,
+        "end": 1463
+      },
+      {
+        "text": "Schuck",
+        "label": "LOC",
+        "start": 1804,
+        "end": 1810
+      },
+      {
+        "text": "ETH-Doktorand",
+        "label": "ORG",
+        "start": 2237,
+        "end": 2250
+      },
+      {
+        "text": "Marc Röthlisberger",
+        "label": "PER",
+        "start": 2251,
+        "end": 2269
+      },
+      {
+        "text": "Schuck",
+        "label": "PER",
+        "start": 2279,
+        "end": 2285
+      },
+      {
+        "text": "Christian Burkard",
+        "label": "PER",
+        "start": 2312,
+        "end": 2329
+      },
+      {
+        "text": "Technopark Zürich",
+        "label": "LOC",
+        "start": 2333,
+        "end": 2350
+      },
+      {
+        "text": "Roboterarm",
+        "label": "MISC",
+        "start": 2555,
+        "end": 2565
+      },
+      {
+        "text": "Roboterarm",
+        "label": "MISC",
+        "start": 2884,
+        "end": 2894
+      },
+      {
+        "text": "ETH-Pioneer-Fellowship",
+        "label": "MISC",
+        "start": 3059,
+        "end": 3081
+      },
+      {
+        "text": "Schuck",
+        "label": "PER",
+        "start": 3089,
+        "end": 3095
+      },
+      {
+        "text": "Schuck",
+        "label": "PER",
+        "start": 3285,
+        "end": 3291
+      },
+      {
+        "text": "Schuck",
+        "label": "LOC",
+        "start": 3776,
+        "end": 3782
+      },
+      {
+        "text": "Schuck",
+        "label": "PER",
+        "start": 3915,
+        "end": 3921
+      },
+      {
+        "text": "Schuck",
+        "label": "PER",
+        "start": 4375,
+        "end": 4381
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christian Burkard",
+        "De News",
+        "Greift",
+        "Marc Röthlisberger",
+        "Marcel Schuck",
+        "Schuck",
+        "Schucks",
+        "Ultraschallwellen"
+      ],
+      "ORG": [
+        "ETH-Doktorand"
+      ],
+      "LOCATION": [
+        "Halbkugeln",
+        "Schuck",
+        "Technopark Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Pioneer-Fellowship",
+        "ETH-Pioneer-Fellowships",
+        "Roboterarm",
+        "akustischem"
+      ]
+    },
+    "entity_counts": {
+      "Schuck": 7,
+      "ETH-Doktorand": 2,
+      "Roboterarm": 2,
+      "De News": 1,
+      "Marcel Schuck": 1,
+      "Halbkugeln": 1,
+      "akustischem": 1,
+      "ETH-Pioneer-Fellowships": 1,
+      "Greift": 1,
+      "Schucks": 1,
+      "Ultraschallwellen": 1,
+      "Marc Röthlisberger": 1,
+      "Christian Burkard": 1,
+      "Technopark Zürich": 1,
+      "ETH-Pioneer-Fellowship": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "roboter-haelt-alles-in-der-schwebe.md",
+      "title": "De News Events/2020/01/roboter Haelt Alles in der Schwebe",
+      "language": "de",
+      "source_path": "de_news_events/2020/01/roboter-haelt-alles-in-der-schwebe.html"
+    },
+    "temporal": {
+      "publication_date": "2020-01",
+      "mentioned_years": [
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Christian Burkard",
+        "De News",
+        "Greift",
+        "Marc Röthlisberger",
+        "Marcel Schuck",
+        "Schuck",
+        "Schucks",
+        "Ultraschallwellen"
+      ],
+      "people_with_roles": {
+        "Christian Burkard": [
+          "student"
+        ],
+        "Marc Röthlisberger": [
+          "student"
+        ],
+        "Schuck": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "ETH-Pioneer-Fellowship",
+        "ETH-Pioneer-Fellowships",
+        "Roboterarm",
+        "akustischem"
+      ],
+      "grants_funding": [
+        "EU",
+        "fellowship"
+      ],
+      "projects": [
+        "Der Ultraschallgreifer",
+        "Haelt Alles",
+        "Mini-Lautsprecher",
+        "Im Rahmen",
+        "Langfristiges Ziel",
+        "Der Roboterarm",
+        "Schucks Technologie",
+        "Mikromechanik Pflicht",
+        "Schucks Projekt",
+        "Masterstudenten Christian",
+        "Mit Hilfe",
+        "ETH-Doktorand",
+        "Marcel Schuck",
+        "Soft Robotic",
+        "ETH-Pioneer",
+        "Als Folge",
+        "Die Software",
+        "Das Prinzip",
+        "Die Installation",
+        "De News",
+        "Schwebe Die",
+        "No Touch",
+        "Art Experimentierkoffer",
+        "Praxis Robotergreifarme"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Doktorand"
+      ],
+      "locations": [
+        "Halbkugeln",
+        "Schuck",
+        "Technopark Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Schuck",
+        "ETH-Doktorand",
+        "Roboterarm",
+        "De News",
+        "Marcel Schuck",
+        "Halbkugeln",
+        "akustischem",
+        "ETH-Pioneer-Fellowships",
+        "Greift",
+        "Schucks"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 4512
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Marcel Schuck",
+        "Ultraschallwellen",
+        "fellowship",
+        "EU",
+        "Greift",
+        "2020",
+        "Schuck",
+        "Schucks",
+        "De News",
+        "2021",
+        "Marc Röthlisberger",
+        "ETH-Doktorand",
+        "Christian Burkard"
+      ],
+      "semantic_concepts": [
+        "Roboterarm",
+        "ETH-Pioneer-Fellowships",
+        "akustischem",
+        "computer_science",
+        "ETH-Pioneer-Fellowship"
+      ],
+      "graph_relations": [
+        "Christian Burkard_has_role_student",
+        "Marc Röthlisberger_has_role_student",
+        "Schuck_has_role_student",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

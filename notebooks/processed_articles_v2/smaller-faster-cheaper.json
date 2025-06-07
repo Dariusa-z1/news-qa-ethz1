@@ -1,0 +1,521 @@
+{
+  "filename": "smaller-faster-cheaper.md",
+  "original_filename": "smaller-faster-cheaper.html",
+  "source_path": "en_news_events/2015/07/smaller-faster-cheaper.html",
+  "date": "2015-07",
+  "title": "Smaller Faster Cheaper",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The plasmon-trick",
+      "text": "In February 1880 in his laboratory in Washington the American inventor Alexander Graham Bell developed a device which he himself called his greatest achievement, greater even than the telephone: the “photophone”. Bell’s idea to transmit spoken words over large distances using light was the forerunner of a technology without which the modern internet would be unthinkable. Today, huge amounts of data are sent incredibly fast through fibre-optic cables as light pulses. For that purpose they first have to be converted from electrical signals, which are used by computers and telephones, into optical signals. In Bell’s days it was a simple, very thin mirror that turned sound waves into modulated light. Today’s electro-optic modulators are more complicated, but they do have one thing in common with their distant ancestor: at several centimeters they are still rather large, especially when compared with electronic devices that can be as small as a few micrometers.\n\nIn a seminal paper in the scientific journal “Nature Photonics”, Juerg Leuthold, professor of photonics and communications at ETH Zurich, and his colleagues now present a novel modulator that is a hundred times smaller and that can, therefore, be easily integrated into electronic circuits. Moreover, the new modulator is considerably cheaper and faster than common models, and it uses far less energy."
+    },
+    {
+      "heading": "The plasmon-trick",
+      "text": "For this sleight of hand the researchers led by Leuthold and his doctoral student Christian Haffner, who contributed to the development of the modulator, use a technical trick. In order to build the smallest possible modulator they first need to focus a light beam whose intensity they want to modulate into a very small volume. The laws of optics, however, dictate that such a volume cannot be smaller than the wavelength of the light itself. Modern telecommunications use laser light with a wavelength of one and a half micrometers, which accordingly is the lower limit for the size of a modulator.\n\nIn order to beat that limit and to make the device even smaller, the light is first turned into so-called surface-plasmon-polaritons. Plasmon-polaritons are a combination of electromagnetic fields and electrons that propagate along a surface of a metal strip. At the end of the strip they are converted back to light once again. The advantage of this detour is that plasmon-polaritons can be confined in a much smaller space than the light they originated from."
+    },
+    {
+      "heading": "Refractive index changed from the outside",
+      "text": "In order to control the power of the light that exits the device, and thus to create the pulses necessary for data transfer, the researchers use the working principle of an interferometer. For instance, a laser beam can be split onto two arms by a beam-splitter and recombined with beam combiner. The light waves then overlap (they “interfere”) and strengthen or weaken each other, depending on how their relative state of phase in the two arms of the interferometer. A change in phase can result from a difference in the refractive index, which determines the speed of the waves. If one arm contains a material whose refractive index can be changed from the outside, the relative phase of the two waves can be controlled and hence the interferometer can be used as a light modulator.\n\nIn the modulator developed by the ETH researchers it is not light beams, but rather plasmon-polaritons that are sent through an interferometer that is only half a micrometer wide. By applying a voltage the refractive index and hence the velocity of the plasmons in one arm of the interferometer can be varied, which in turn changes their amplitude of oscillation at the exit. After that, the plasmons are re-converted into light, which is fed into a fibre optic cable for further transmission."
+    },
+    {
+      "heading": "Faster communication with less energy",
+      "text": "The modulator built by Leuthold and his colleagues has several advantages at once. “It’s incredibly small and simple, and on top of that it’s also the cheapest modulator ever built”, Leuthold explains. And simple it is, consisting of a gold layer on glass that is only 150 nanometers thick and an organic material whose refractive index changes when an electric voltage is applied and that thus modulates the plasmons inside the interferometer. As such a modulator is much smaller than conventional devices it consumes very little energy – only a few thousandth of Watts at a data transmission rate of 70 Gigabits per second. This corresponds to merely a hundredth of the consumption of commercial models.\n\nIn that sense it contributes to the protection of the environment, given that the amount of energy used worldwide for data transmission is considerable – after all, there are modulators in every single fibre optic line. Every year increasing amounts of data need to be transmitted at ever higher speed, which leads to an increasing energy consumption. A hundredfold energy saving would, therefore, be more than welcome. “Our modulator provides more communication with less energy”, as the ETH professor puts it in a nutshell. At present the reliability of the modulator is being tested in long term trials, which is a crucial step towards making it fit for commercial use.\n\nHaffner C et al.: All-plasmonic Mach-Zehnder modulator enabling optical high-speed communication at the microscale. Nature Photonics, 27 July 2015, doi: 10.1038/nphoton.2015.127"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Faster Cheaper",
+        "label": "ORG",
+        "start": 31,
+        "end": 45
+      },
+      {
+        "text": "February 1880",
+        "label": "DATE",
+        "start": 3,
+        "end": 16
+      },
+      {
+        "text": "Washington",
+        "label": "GPE",
+        "start": 38,
+        "end": 48
+      },
+      {
+        "text": "American",
+        "label": "NORP",
+        "start": 53,
+        "end": 61
+      },
+      {
+        "text": "Alexander Graham Bell",
+        "label": "PERSON",
+        "start": 71,
+        "end": 92
+      },
+      {
+        "text": "Bell",
+        "label": "ORG",
+        "start": 213,
+        "end": 217
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 374,
+        "end": 379
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 493,
+        "end": 498
+      },
+      {
+        "text": "Bell’s",
+        "label": "ORG",
+        "start": 614,
+        "end": 620
+      },
+      {
+        "text": "days",
+        "label": "DATE",
+        "start": 621,
+        "end": 625
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 706,
+        "end": 711
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 778,
+        "end": 781
+      },
+      {
+        "text": "Nature Photonics",
+        "label": "WORK_OF_ART",
+        "start": 1017,
+        "end": 1033
+      },
+      {
+        "text": "Juerg Leuthold",
+        "label": "PERSON",
+        "start": 1036,
+        "end": 1050
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1097,
+        "end": 1107
+      },
+      {
+        "text": "a hundred",
+        "label": "CARDINAL",
+        "start": 1166,
+        "end": 1175
+      },
+      {
+        "text": "Leuthold",
+        "label": "PERSON",
+        "start": 48,
+        "end": 56
+      },
+      {
+        "text": "Christian Haffner",
+        "label": "PERSON",
+        "start": 82,
+        "end": 99
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 232,
+        "end": 237
+      },
+      {
+        "text": "one and a half",
+        "label": "CARDINAL",
+        "start": 507,
+        "end": 521
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 234,
+        "end": 237
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 436,
+        "end": 439
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 584,
+        "end": 587
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 694,
+        "end": 697
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 819,
+        "end": 822
+      },
+      {
+        "text": "only half",
+        "label": "CARDINAL",
+        "start": 936,
+        "end": 945
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1050,
+        "end": 1053
+      },
+      {
+        "text": "fed",
+        "label": "ORG",
+        "start": 1224,
+        "end": 1227
+      },
+      {
+        "text": "Leuthold",
+        "label": "PERSON",
+        "start": 23,
+        "end": 31
+      },
+      {
+        "text": "Leuthold",
+        "label": "PERSON",
+        "start": 183,
+        "end": 191
+      },
+      {
+        "text": "only 150",
+        "label": "CARDINAL",
+        "start": 264,
+        "end": 272
+      },
+      {
+        "text": "Watts",
+        "label": "LOC",
+        "start": 565,
+        "end": 570
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 618,
+        "end": 624
+      },
+      {
+        "text": "hundredth",
+        "label": "CARDINAL",
+        "start": 655,
+        "end": 664
+      },
+      {
+        "text": "Every year",
+        "label": "DATE",
+        "start": 926,
+        "end": 936
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1195,
+        "end": 1198
+      },
+      {
+        "text": "Haffner C",
+        "label": "PERSON",
+        "start": 1379,
+        "end": 1388
+      },
+      {
+        "text": "Mach-Zehnder",
+        "label": "ORG",
+        "start": 1411,
+        "end": 1423
+      },
+      {
+        "text": "Nature Photonics",
+        "label": "ORG",
+        "start": 1495,
+        "end": 1511
+      },
+      {
+        "text": "27 July 2015",
+        "label": "DATE",
+        "start": 1513,
+        "end": 1525
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1532,
+        "end": 1539
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alexander Graham Bell",
+        "Christian Haffner",
+        "Haffner C",
+        "Juerg Leuthold",
+        "Leuthold"
+      ],
+      "ORG": [
+        "Bell",
+        "Bell’s",
+        "ETH",
+        "ETH Zurich",
+        "Faster Cheaper",
+        "Mach-Zehnder",
+        "Nature Photonics",
+        "fed"
+      ],
+      "LOCATION": [
+        "Washington",
+        "Watts"
+      ],
+      "DATE": [
+        "27 July 2015",
+        "Every year",
+        "February 1880",
+        "Today",
+        "days"
+      ],
+      "MISC": [
+        "10.1038",
+        "American",
+        "Nature Photonics",
+        "a hundred",
+        "first",
+        "hundredth",
+        "one",
+        "one and a half",
+        "only 150",
+        "only half",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "one": 3,
+      "Leuthold": 3,
+      "two": 3,
+      "Today": 2,
+      "first": 2,
+      "Nature Photonics": 2,
+      "ETH": 2,
+      "Faster Cheaper": 1,
+      "February 1880": 1,
+      "Washington": 1,
+      "American": 1,
+      "Alexander Graham Bell": 1,
+      "Bell": 1,
+      "Bell’s": 1,
+      "days": 1,
+      "Juerg Leuthold": 1,
+      "ETH Zurich": 1,
+      "a hundred": 1,
+      "Christian Haffner": 1,
+      "one and a half": 1
+    },
+    "total_entities": 41,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "smaller-faster-cheaper.md",
+      "title": "En News Events/2015/07/smaller Faster Cheaper",
+      "language": "en",
+      "source_path": "en_news_events/2015/07/smaller-faster-cheaper.html"
+    },
+    "temporal": {
+      "publication_date": "2015-07",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alexander Graham Bell",
+        "Christian Haffner",
+        "Haffner C",
+        "Juerg Leuthold",
+        "Leuthold"
+      ],
+      "people_with_roles": {
+        "Christian Haffner": [
+          "researcher",
+          "student"
+        ],
+        "Juerg Leuthold": [
+          "professor"
+        ],
+        "Leuthold": [
+          "researcher",
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1038",
+        "American",
+        "Nature Photonics",
+        "a hundred",
+        "first",
+        "hundredth",
+        "one and a half",
+        "only 150",
+        "only half",
+        "second"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "In February",
+        "Haffner C",
+        "In Bell",
+        "Mach-Zehnder",
+        "En News",
+        "Juerg Leuthold",
+        "Alexander Graham",
+        "Christian Haffner",
+        "Nature Photonics",
+        "Faster Cheaper",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bell",
+        "Bell’s",
+        "ETH",
+        "ETH Zurich",
+        "Faster Cheaper",
+        "Mach-Zehnder",
+        "Nature Photonics",
+        "fed"
+      ],
+      "locations": [
+        "Washington",
+        "Watts"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "one",
+        "Leuthold",
+        "two",
+        "Today",
+        "first",
+        "Nature Photonics",
+        "ETH",
+        "Faster Cheaper",
+        "February 1880",
+        "Washington"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "The plasmon-trick",
+          "The plasmon-trick",
+          "Refractive index changed from the outside",
+          "Faster communication with less energy"
+        ],
+        "content_length": 5323
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Haffner C",
+        "ETH",
+        "2015",
+        "Mach-Zehnder",
+        "Juerg Leuthold",
+        "Bell’s",
+        "EU",
+        "ETH Zurich",
+        "ERC",
+        "Christian Haffner",
+        "Leuthold",
+        "Nature Photonics",
+        "fed",
+        "Faster Cheaper",
+        "Bell",
+        "Alexander Graham Bell"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "hundredth",
+        "one and a half",
+        "who",
+        "American",
+        "10.1038",
+        "a hundred",
+        "only 150",
+        "Nature Photonics",
+        "what",
+        "second",
+        "how",
+        "only half",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Christian Haffner_has_role_researcher",
+        "Christian Haffner_has_role_student",
+        "Juerg Leuthold_has_role_professor",
+        "Leuthold_has_role_researcher",
+        "Leuthold_has_role_student",
+        "Leuthold_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

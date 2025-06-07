@@ -1,0 +1,774 @@
+{
+  "filename": "catching-the-right-fish.md",
+  "original_filename": "catching-the-right-fish.html",
+  "source_path": "en_news_events/2018/03/catching-the-right-fish.html",
+  "date": "2018-03",
+  "title": "Catching The Right Fish",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Stable basic structure, varied attachments",
+      "text": "Searching for new drugs is like fishing in the dark: the prospect of catching something is very uncertain, and it requires patience, skill and – of course – money. ETH researchers led by Dario Neri have developed a new screening method that speeds up the search for drugs, making it cheaper and more efficient, as they reported in the journal Nature Chemistry .\n\nAt the centre of the method is a new DNA-encoded chemical library (DECL) that contains 35 million different drug candidates. Such collections are nothing new, but the structure and scope of the substances contained in this one are something special."
+    },
+    {
+      "heading": "Stable basic structure, varied attachments",
+      "text": "Each of the drug candidates contained in the collection consists of a stable ring-shaped basic structure borrowed from the work of Manfred Mutter from the University of Lausanne. The chemists then attached three different small molecules to one side of each ring. “Together, they form a kind of highly-specific fish hook that can bind onto a protein if its form perfectly matches the protein’s structure,” says Jörg Scheuermann, who is currently finishing his habilitation thesis on DNA-encoded chemical libraries in Dario Neri’s group. The researchers used hundreds of such molecules, combining them in various ways to create a library of 35 million different “fish hooks”.\n\nThe researchers encoded the blueprint of the three molecules in three short DNA sequences, in which the DNA was chemically tied to the reverse of the basic structure. This artificial piece of genetic material works like a barcode, which the scientists can use to identify each fish hook individually."
+    },
+    {
+      "heading": "Thirty-five million fish hooks tested at once",
+      "text": "With their chemical collection, the researchers could then start fishing: to find out if a target protein would be caught on one of the “fish hooks”, the researchers put the collection of all 35 million compounds in a reaction vessel containing the protein on a carrier. After a certain amount of time, the researchers washed the chemical collection away. All the drug candidates that did not bind to the protein were thereby removed; the ones that “stuck” to the protein remained in the sample, and could then be identified via their DNA barcodes. In this way, the researchers were able to very quickly test the whole collection for potential matches in one go.\n\nThe ETH researchers led by Dario Neri and Jörg Scheuermann have already been working on DECLs for years. The foundations for the principle of DNA-encoding were first laid by the Scripps researchers Richard Lerner and Nobel Prize winner Sidney Brenner at the beginning of the 1990s, but the idea was not converted into practice for a decade. ETH Professor Neri and his colleague David Liu from Harvard University took up the idea again at the beginning of the 2000s. Seven years later, the researchers presented the first such DNA-encoded chemical collection containing more than a million candidates (as reported by ETH Life )."
+    },
+    {
+      "heading": "Closer to antigen-antibody interaction",
+      "text": "DECL technology has caught on in the pharmaceutical industry in recent years, not least because it is inexpensive as well as highly efficient. “The design of our DECL is based on the fact that we wanted to generate a new molecule form that would be functionally equivalent to an antibody reduced to its minimum size, and therefore accessible via chemical synthesis,” says Scheuermann. “By using molecules that possess three or more chemical hooks, we come closer to antigen-antibody interactions.”\n\nOne potential treatment approach could involve linking a cytotoxin to a specific protein binder (as a small-molecule drug conjugate or SMDC). This would then use the protein to recognise a foreign or tumour cell, attach to it and release the toxin in a high local concentration, which would cause the death of the tumour cell. Previously, this strategy has been implemented with antibodies as antibody-drug conjugates (ADC). “However, as antibodies are relatively large, they were not able to penetrate tumour tissue well; small molecules should be able to accomplish this better,” explains Scheuermann. The researchers were recently able to test this research on the new kinds of DECLS and the new treatment concept as part of the SNF Sinergia project “ Drugs of the future ”.\n\nLi Y, De Luca R, Cazzamalli S, Pretta F, Bajic D, Scheuermann J, Neri D. Versatile protein recognition by the encoded display of multiple chemical elements on a constant macrocyclic scaffold. Nature Chemistry, published online 13th March 2018. DOI: 10.1038/s41557-018-0017-8\n\nNeri D, Lerner RA. DNA-Encoded Chemical Libraries: A Selection System Based On Endowing Organic Compounds with Amplifiable Information. Annu. Rev. Biochem. (2018) 87, DOI: 10.1146/annurev-biochem-062917-012550\n\nCazzamalli S, Dal Corso A, Widmayer F, Neri D. Chemically Defined Antibody- and Small Molecule-Drug Conjugates for in Vivo Tumor Targeting Applications: A Comparative Analysis. J Am Chem Soc 140, 1617–1621 (2018). DOI: 10.1021/jacs.7b13361"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 164,
+        "end": 167
+      },
+      {
+        "text": "Dario Neri",
+        "label": "PERSON",
+        "start": 187,
+        "end": 197
+      },
+      {
+        "text": "Nature Chemistry",
+        "label": "WORK_OF_ART",
+        "start": 343,
+        "end": 359
+      },
+      {
+        "text": "35 million",
+        "label": "CARDINAL",
+        "start": 449,
+        "end": 459
+      },
+      {
+        "text": "Manfred Mutter",
+        "label": "PERSON",
+        "start": 131,
+        "end": 145
+      },
+      {
+        "text": "the University of Lausanne",
+        "label": "ORG",
+        "start": 151,
+        "end": 177
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 206,
+        "end": 211
+      },
+      {
+        "text": "Jörg Scheuermann",
+        "label": "PERSON",
+        "start": 411,
+        "end": 427
+      },
+      {
+        "text": "Dario Neri’s",
+        "label": "PERSON",
+        "start": 517,
+        "end": 529
+      },
+      {
+        "text": "hundreds",
+        "label": "CARDINAL",
+        "start": 558,
+        "end": 566
+      },
+      {
+        "text": "35 million",
+        "label": "CARDINAL",
+        "start": 640,
+        "end": 650
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 720,
+        "end": 725
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 739,
+        "end": 744
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 125,
+        "end": 128
+      },
+      {
+        "text": "35 million",
+        "label": "CARDINAL",
+        "start": 192,
+        "end": 202
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 655,
+        "end": 658
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 667,
+        "end": 670
+      },
+      {
+        "text": "Dario Neri",
+        "label": "PERSON",
+        "start": 690,
+        "end": 700
+      },
+      {
+        "text": "Jörg Scheuermann",
+        "label": "PERSON",
+        "start": 705,
+        "end": 721
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 761,
+        "end": 766
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 823,
+        "end": 828
+      },
+      {
+        "text": "Scripps",
+        "label": "ORG",
+        "start": 841,
+        "end": 848
+      },
+      {
+        "text": "Richard Lerner",
+        "label": "PERSON",
+        "start": 861,
+        "end": 875
+      },
+      {
+        "text": "Nobel Prize",
+        "label": "WORK_OF_ART",
+        "start": 880,
+        "end": 891
+      },
+      {
+        "text": "Sidney Brenner",
+        "label": "PERSON",
+        "start": 899,
+        "end": 913
+      },
+      {
+        "text": "the beginning of the 1990s",
+        "label": "DATE",
+        "start": 917,
+        "end": 943
+      },
+      {
+        "text": "a decade",
+        "label": "DATE",
+        "start": 994,
+        "end": 1002
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1004,
+        "end": 1007
+      },
+      {
+        "text": "Neri",
+        "label": "PERSON",
+        "start": 1018,
+        "end": 1022
+      },
+      {
+        "text": "David Liu",
+        "label": "PERSON",
+        "start": 1041,
+        "end": 1050
+      },
+      {
+        "text": "Harvard University",
+        "label": "ORG",
+        "start": 1056,
+        "end": 1074
+      },
+      {
+        "text": "the beginning of the 2000s",
+        "label": "DATE",
+        "start": 1101,
+        "end": 1127
+      },
+      {
+        "text": "Seven years later",
+        "label": "DATE",
+        "start": 1129,
+        "end": 1146
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1178,
+        "end": 1183
+      },
+      {
+        "text": "more than a million",
+        "label": "CARDINAL",
+        "start": 1232,
+        "end": 1251
+      },
+      {
+        "text": "ETH Life",
+        "label": "ORG",
+        "start": 1279,
+        "end": 1287
+      },
+      {
+        "text": "DECL",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 64,
+        "end": 76
+      },
+      {
+        "text": "DECL",
+        "label": "GPE",
+        "start": 162,
+        "end": 166
+      },
+      {
+        "text": "Scheuermann",
+        "label": "PERSON",
+        "start": 372,
+        "end": 383
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 418,
+        "end": 423
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 498,
+        "end": 501
+      },
+      {
+        "text": "Scheuermann",
+        "label": "PERSON",
+        "start": 1089,
+        "end": 1100
+      },
+      {
+        "text": "Sinergia",
+        "label": "GPE",
+        "start": 1234,
+        "end": 1242
+      },
+      {
+        "text": "Drugs of the future",
+        "label": "WORK_OF_ART",
+        "start": 1253,
+        "end": 1272
+      },
+      {
+        "text": "Li Y",
+        "label": "PERSON",
+        "start": 1276,
+        "end": 1280
+      },
+      {
+        "text": "De Luca",
+        "label": "PERSON",
+        "start": 1282,
+        "end": 1289
+      },
+      {
+        "text": "Cazzamalli S",
+        "label": "PERSON",
+        "start": 1293,
+        "end": 1305
+      },
+      {
+        "text": "Pretta F",
+        "label": "PERSON",
+        "start": 1307,
+        "end": 1315
+      },
+      {
+        "text": "Scheuermann J",
+        "label": "PERSON",
+        "start": 1326,
+        "end": 1339
+      },
+      {
+        "text": "Neri D. Versatile",
+        "label": "NORP",
+        "start": 1341,
+        "end": 1358
+      },
+      {
+        "text": "Nature Chemistry",
+        "label": "PERSON",
+        "start": 1468,
+        "end": 1484
+      },
+      {
+        "text": "13th March 2018",
+        "label": "DATE",
+        "start": 1503,
+        "end": 1518
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1525,
+        "end": 1532
+      },
+      {
+        "text": "Lerner RA",
+        "label": "PERSON",
+        "start": 1559,
+        "end": 1568
+      },
+      {
+        "text": "DNA-Encoded Chemical Libraries",
+        "label": "ORG",
+        "start": 1570,
+        "end": 1600
+      },
+      {
+        "text": "Endowing Organic Compounds",
+        "label": "ORG",
+        "start": 1630,
+        "end": 1656
+      },
+      {
+        "text": "Biochem",
+        "label": "PERSON",
+        "start": 1698,
+        "end": 1705
+      },
+      {
+        "text": "10.1146",
+        "label": "CARDINAL",
+        "start": 1723,
+        "end": 1730
+      },
+      {
+        "text": "Cazzamalli S",
+        "label": "PERSON",
+        "start": 1761,
+        "end": 1773
+      },
+      {
+        "text": "Widmayer F",
+        "label": "PERSON",
+        "start": 1788,
+        "end": 1798
+      },
+      {
+        "text": "Neri D. Chemically Defined",
+        "label": "PERSON",
+        "start": 1800,
+        "end": 1826
+      },
+      {
+        "text": "Antibody- and Small Molecule-Drug Conjugates",
+        "label": "ORG",
+        "start": 1827,
+        "end": 1871
+      },
+      {
+        "text": "1617–1621",
+        "label": "CARDINAL",
+        "start": 1957,
+        "end": 1966
+      },
+      {
+        "text": "10.1021/jacs.7b13361",
+        "label": "CARDINAL",
+        "start": 1980,
+        "end": 2000
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Biochem",
+        "Cazzamalli S",
+        "Dario Neri",
+        "Dario Neri’s",
+        "David Liu",
+        "De Luca",
+        "Jörg Scheuermann",
+        "Lerner RA",
+        "Li Y",
+        "Manfred Mutter",
+        "Nature Chemistry",
+        "Neri",
+        "Neri D. Chemically Defined",
+        "Pretta F",
+        "Richard Lerner",
+        "Scheuermann",
+        "Scheuermann J",
+        "Sidney Brenner",
+        "Widmayer F"
+      ],
+      "ORG": [
+        "Antibody- and Small Molecule-Drug Conjugates",
+        "DECL",
+        "DNA-Encoded Chemical Libraries",
+        "ETH",
+        "ETH Life",
+        "Endowing Organic Compounds",
+        "Harvard University",
+        "Scripps",
+        "the University of Lausanne"
+      ],
+      "LOCATION": [
+        "DECL",
+        "Sinergia"
+      ],
+      "DATE": [
+        "13th March 2018",
+        "Seven years later",
+        "a decade",
+        "recent years",
+        "the beginning of the 1990s",
+        "the beginning of the 2000s",
+        "years"
+      ],
+      "MISC": [
+        "10.1021/jacs.7b13361",
+        "10.1038",
+        "10.1146",
+        "1617–1621",
+        "35 million",
+        "Drugs of the future",
+        "Nature Chemistry",
+        "Neri D. Versatile",
+        "Nobel Prize",
+        "One",
+        "first",
+        "hundreds",
+        "more than a million",
+        "one",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "three": 4,
+      "ETH": 3,
+      "35 million": 3,
+      "Dario Neri": 2,
+      "Nature Chemistry": 2,
+      "Jörg Scheuermann": 2,
+      "one": 2,
+      "first": 2,
+      "DECL": 2,
+      "Scheuermann": 2,
+      "Cazzamalli S": 2,
+      "Manfred Mutter": 1,
+      "the University of Lausanne": 1,
+      "Dario Neri’s": 1,
+      "hundreds": 1,
+      "years": 1,
+      "Scripps": 1,
+      "Richard Lerner": 1,
+      "Nobel Prize": 1,
+      "Sidney Brenner": 1
+    },
+    "total_entities": 65,
+    "unique_entities": 50
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "catching-the-right-fish.md",
+      "title": "En News Events/2018/03/catching The Right Fish",
+      "language": "en",
+      "source_path": "en_news_events/2018/03/catching-the-right-fish.html"
+    },
+    "temporal": {
+      "publication_date": "2018-03",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Biochem",
+        "Cazzamalli S",
+        "Dario Neri",
+        "Dario Neri’s",
+        "David Liu",
+        "De Luca",
+        "Jörg Scheuermann",
+        "Lerner RA",
+        "Li Y",
+        "Manfred Mutter",
+        "Nature Chemistry",
+        "Neri",
+        "Neri D. Chemically Defined",
+        "Pretta F",
+        "Richard Lerner",
+        "Scheuermann",
+        "Scheuermann J",
+        "Sidney Brenner",
+        "Widmayer F"
+      ],
+      "people_with_roles": {
+        "Dario Neri": [
+          "researcher"
+        ],
+        "David Liu": [
+          "professor"
+        ],
+        "Jörg Scheuermann": [
+          "researcher"
+        ],
+        "Nature Chemistry": [
+          "researcher"
+        ],
+        "Neri": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Richard Lerner": [
+          "researcher"
+        ],
+        "Scheuermann": [
+          "researcher"
+        ],
+        "Sidney Brenner": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1021/jacs.7b13361",
+        "10.1038",
+        "10.1146",
+        "1617–1621",
+        "35 million",
+        "Drugs of the future",
+        "Nature Chemistry",
+        "Neri D. Versatile",
+        "Nobel Prize",
+        "first",
+        "hundreds",
+        "more than a million",
+        "three"
+      ],
+      "grants_funding": [
+        "SNF",
+        "EU"
+      ],
+      "projects": [
+        "Pretta F",
+        "Cazzamalli S",
+        "Vivo Tumor",
+        "Organic Compounds",
+        "Small Molecule",
+        "ETH Life",
+        "Neri D",
+        "A Comparative",
+        "Nature Chemistry",
+        "System Based",
+        "Widmayer F",
+        "SNF Sinergia",
+        "ETH Professor",
+        "Chem Soc",
+        "Bajic D",
+        "The ETH",
+        "The Right",
+        "Amplifiable Information",
+        "Dal Corso",
+        "Fish Searching",
+        "Richard Lerner",
+        "Drug Conjugates",
+        "Dario Neri",
+        "Chemically Defined",
+        "DNA-Encoded",
+        "J Am",
+        "On Endowing",
+        "Nobel Prize",
+        "En News",
+        "De Luca",
+        "David Liu",
+        "Manfred Mutter",
+        "Scheuermann J",
+        "Harvard University",
+        "Lerner RA",
+        "Li Y",
+        "Targeting Applications",
+        "Chemical Libraries",
+        "A Selection",
+        "Sidney Brenner"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Antibody- and Small Molecule-Drug Conjugates",
+        "DECL",
+        "DNA-Encoded Chemical Libraries",
+        "ETH",
+        "ETH Life",
+        "Endowing Organic Compounds",
+        "Harvard University",
+        "Scripps",
+        "the University of Lausanne"
+      ],
+      "locations": [
+        "DECL",
+        "Sinergia"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "three",
+        "ETH",
+        "35 million",
+        "Dario Neri",
+        "Nature Chemistry",
+        "Jörg Scheuermann",
+        "one",
+        "first",
+        "DECL",
+        "Scheuermann"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Stable basic structure, varied attachments",
+          "Stable basic structure, varied attachments",
+          "Thirty-five million fish hooks tested at once",
+          "Closer to antigen-antibody interaction"
+        ],
+        "content_length": 4933
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Pretta F",
+        "Cazzamalli S",
+        "SNF",
+        "ETH Life",
+        "Dario Neri’s",
+        "Antibody- and Small Molecule-Drug Conjugates",
+        "Nature Chemistry",
+        "Endowing Organic Compounds",
+        "2018",
+        "Widmayer F",
+        "Scheuermann",
+        "Neri",
+        "Scripps",
+        "EU",
+        "Biochem",
+        "Richard Lerner",
+        "the University of Lausanne",
+        "Dario Neri",
+        "DECL",
+        "De Luca",
+        "DNA-Encoded Chemical Libraries",
+        "David Liu",
+        "Manfred Mutter",
+        "Neri D. Chemically Defined",
+        "Scheuermann J",
+        "Harvard University",
+        "Lerner RA",
+        "Li Y",
+        "Sidney Brenner",
+        "Jörg Scheuermann"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "chemistry",
+        "1617–1621",
+        "when",
+        "Neri D. Versatile",
+        "Nature Chemistry",
+        "10.1021/jacs.7b13361",
+        "10.1038",
+        "hundreds",
+        "medical_research",
+        "35 million",
+        "mathematics",
+        "who",
+        "more than a million",
+        "what",
+        "how",
+        "Drugs of the future",
+        "first",
+        "Nobel Prize",
+        "where",
+        "10.1146"
+      ],
+      "graph_relations": [
+        "Dario Neri_has_role_researcher",
+        "David Liu_has_role_professor",
+        "Jörg Scheuermann_has_role_researcher",
+        "Nature Chemistry_has_role_researcher",
+        "Neri_has_role_Professor",
+        "Neri_has_role_researcher",
+        "Neri_has_role_professor",
+        "Richard Lerner_has_role_researcher",
+        "Scheuermann_has_role_researcher",
+        "Sidney Brenner_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

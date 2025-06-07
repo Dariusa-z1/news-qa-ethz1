@@ -1,0 +1,542 @@
+{
+  "filename": "grimsel-electric-racing-car-broke-world-record.md",
+  "original_filename": "grimsel-electric-racing-car-broke-world-record.html",
+  "source_path": "en_news_events/2016/06/grimsel-electric-racing-car-broke-world-record.html",
+  "date": "2016-06",
+  "title": "Grimsel Electric Racing Car Broke World Record",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "AMZ’s most successful vehicle",
+      "text": "The Formula Student team at the Academic Motorsports Club Zurich (AMZ) accomplished its mission today: the grimsel electric racing car accelerated from 0 to 100 km/h in just 1.513 seconds and set a new world record. It reached the speed after covering less than 30 m of track at the Dübendorf air base near Zurich. The previous world record stood at 1.779 seconds and was set last year by a team at the University of Stuttgart.\n\nThe record-breaking Formula Student electric car was developed and built in less than a year by a team of 30 students at ETH Zurich and Lucerne University of Applied Sciences and Arts. grimsel is AMZ’s fifth electric vehicle and sets new standards in lightweight construction and electric drive technology. Thanks to the use of carbon-fibre materials, grimsel weighs just 168 kg. The four-wheel drive electric racing car has four specially developed wheel hub motors that are capable of generating 200 hp and 1700 Nm of torque. A sophisticated traction control system regulates the performance of each wheel individually, allowing the car's acceleration to be increased even further. No large-scale production car – even one with a combustion engine – can reach an acceleration comparable to the grimsel ."
+    },
+    {
+      "heading": "AMZ’s most successful vehicle",
+      "text": "grimsel celebrated considerable success in the international Formula Student competition back in the summer of 2014. With over 500 teams competing, Formula Student is the largest competition worldwide for engineering students and takes place every year on race courses around the world. With three overall victories and a points average of 920 out of a possible 1000, grimsel is AMZ’s most successful vehicle. The success of the grimsel also contributed to AMZ's first place defence in the Formula Student world rankings, which they have held since 2013."
+    },
+    {
+      "heading": "Academic Motorsports Club Zurich",
+      "text": "The Academic Motorsports Club Zurich (AMZ) was founded in 2006 by students at ETH Zurich and develops a prototype for the Formula Student European competitions every year. After working on three vehicles with combustion engines, AMZ began building electrically powered racing cars in 2010. The club is financially independent and receives financial, manufacturing and material support from a range of sponsors, as well as institutes at various Swiss universities. AMZ was Switzerland’s first Formula Student team. Further information can be found at www.amzracing.ch\n\nAcademic Motorsports Club Zurich Lucien Segessemann ETH Formula Student Project Phone: +41 79 205 22 63\n\nAcademic Motorsports Club Zurich Jonas Abeken ETH Formula Student Project Phone: +41 44 632 94 05\n\nETH Zurich Media Relations Phone: +41 44 632 41 41"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the Academic Motorsports Club Zurich",
+        "label": "ORG",
+        "start": 28,
+        "end": 64
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 66,
+        "end": 69
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 96,
+        "end": 101
+      },
+      {
+        "text": "0 to 100 km",
+        "label": "QUANTITY",
+        "start": 152,
+        "end": 163
+      },
+      {
+        "text": "just 1.513 seconds",
+        "label": "TIME",
+        "start": 169,
+        "end": 187
+      },
+      {
+        "text": "less than 30",
+        "label": "CARDINAL",
+        "start": 252,
+        "end": 264
+      },
+      {
+        "text": "Dübendorf",
+        "label": "ORG",
+        "start": 283,
+        "end": 292
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 307,
+        "end": 313
+      },
+      {
+        "text": "1.779 seconds",
+        "label": "TIME",
+        "start": 350,
+        "end": 363
+      },
+      {
+        "text": "last year",
+        "label": "DATE",
+        "start": 376,
+        "end": 385
+      },
+      {
+        "text": "the University of Stuttgart",
+        "label": "ORG",
+        "start": 399,
+        "end": 426
+      },
+      {
+        "text": "Formula Student",
+        "label": "ORG",
+        "start": 448,
+        "end": 463
+      },
+      {
+        "text": "less than a year",
+        "label": "DATE",
+        "start": 504,
+        "end": 520
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 549,
+        "end": 559
+      },
+      {
+        "text": "Lucerne University of Applied Sciences and Arts",
+        "label": "ORG",
+        "start": 564,
+        "end": 611
+      },
+      {
+        "text": "grimsel",
+        "label": "ORG",
+        "start": 613,
+        "end": 620
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 624,
+        "end": 627
+      },
+      {
+        "text": "fifth",
+        "label": "ORDINAL",
+        "start": 630,
+        "end": 635
+      },
+      {
+        "text": "just 168 kg",
+        "label": "QUANTITY",
+        "start": 795,
+        "end": 806
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 812,
+        "end": 816
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 853,
+        "end": 857
+      },
+      {
+        "text": "Formula Student",
+        "label": "ORG",
+        "start": 61,
+        "end": 76
+      },
+      {
+        "text": "the summer of 2014",
+        "label": "DATE",
+        "start": 97,
+        "end": 115
+      },
+      {
+        "text": "Formula Student",
+        "label": "PERSON",
+        "start": 148,
+        "end": 163
+      },
+      {
+        "text": "every year",
+        "label": "DATE",
+        "start": 242,
+        "end": 252
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 292,
+        "end": 297
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 379,
+        "end": 382
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 457,
+        "end": 460
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 463,
+        "end": 468
+      },
+      {
+        "text": "The Academic Motorsports Club Zurich",
+        "label": "ORG",
+        "start": 0,
+        "end": 36
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 38,
+        "end": 41
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 78,
+        "end": 88
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 138,
+        "end": 146
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 189,
+        "end": 194
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 229,
+        "end": 232
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 444,
+        "end": 449
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 464,
+        "end": 467
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 472,
+        "end": 483
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 486,
+        "end": 491
+      },
+      {
+        "text": "Formula Student",
+        "label": "ORG",
+        "start": 492,
+        "end": 507
+      },
+      {
+        "text": "www.amzracing.ch Academic Motorsports Club",
+        "label": "ORG",
+        "start": 550,
+        "end": 592
+      },
+      {
+        "text": "Zurich Lucien",
+        "label": "PERSON",
+        "start": 593,
+        "end": 606
+      },
+      {
+        "text": "22 63",
+        "label": "CARDINAL",
+        "start": 665,
+        "end": 670
+      },
+      {
+        "text": "Zurich Jonas Abeken",
+        "label": "PERSON",
+        "start": 697,
+        "end": 716
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 769,
+        "end": 779
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Formula Student",
+        "Zurich Jonas Abeken",
+        "Zurich Lucien"
+      ],
+      "ORG": [
+        "AMZ",
+        "Dübendorf",
+        "ETH Zurich",
+        "Formula Student",
+        "Lucerne University of Applied Sciences and Arts",
+        "The Academic Motorsports Club Zurich",
+        "grimsel",
+        "the Academic Motorsports Club Zurich",
+        "the University of Stuttgart",
+        "www.amzracing.ch Academic Motorsports Club"
+      ],
+      "LOCATION": [
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "1.779 seconds",
+        "every year",
+        "just 1.513 seconds",
+        "last year",
+        "less than a year",
+        "the summer of 2014",
+        "today"
+      ],
+      "MISC": [
+        "0 to 100 km",
+        "22 63",
+        "European",
+        "Swiss",
+        "fifth",
+        "first",
+        "four",
+        "just 168 kg",
+        "less than 30",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "AMZ": 7,
+      "Formula Student": 4,
+      "ETH Zurich": 3,
+      "four": 2,
+      "three": 2,
+      "first": 2,
+      "the Academic Motorsports Club Zurich": 1,
+      "today": 1,
+      "0 to 100 km": 1,
+      "just 1.513 seconds": 1,
+      "less than 30": 1,
+      "Dübendorf": 1,
+      "Zurich": 1,
+      "1.779 seconds": 1,
+      "last year": 1,
+      "the University of Stuttgart": 1,
+      "less than a year": 1,
+      "Lucerne University of Applied Sciences and Arts": 1,
+      "grimsel": 1,
+      "fifth": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "grimsel-electric-racing-car-broke-world-record.md",
+      "title": "En News Events/2016/06/grimsel Electric Racing Car Broke World Record",
+      "language": "en",
+      "source_path": "en_news_events/2016/06/grimsel-electric-racing-car-broke-world-record.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2006",
+        "2010",
+        "2013",
+        "2014",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Formula Student",
+        "Zurich Jonas Abeken",
+        "Zurich Lucien"
+      ],
+      "people_with_roles": {
+        "Formula Student": [
+          "student"
+        ],
+        "Zurich Jonas Abeken": [
+          "student"
+        ],
+        "Zurich Lucien": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "0 to 100 km",
+        "22 63",
+        "European",
+        "Swiss",
+        "fifth",
+        "first",
+        "four",
+        "just 168 kg",
+        "less than 30",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Club Zurich",
+        "Applied Sciences",
+        "Formula Student",
+        "World Record",
+        "En News",
+        "The Academic",
+        "Motorsports Club",
+        "Lucerne University",
+        "Lucien Segessemann",
+        "Academic Motorsports",
+        "The Formula",
+        "ETH Formula",
+        "Student Project",
+        "Media Relations",
+        "Jonas Abeken",
+        "ETH Zurich",
+        "Car Broke",
+        "Electric Racing"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AMZ",
+        "Dübendorf",
+        "ETH Zurich",
+        "Formula Student",
+        "Lucerne University of Applied Sciences and Arts",
+        "The Academic Motorsports Club Zurich",
+        "grimsel",
+        "the Academic Motorsports Club Zurich",
+        "the University of Stuttgart",
+        "www.amzracing.ch Academic Motorsports Club"
+      ],
+      "locations": [
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "AMZ",
+        "Formula Student",
+        "ETH Zurich",
+        "four",
+        "three",
+        "first",
+        "the Academic Motorsports Club Zurich",
+        "today",
+        "0 to 100 km",
+        "just 1.513 seconds"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "AMZ’s most successful vehicle",
+          "AMZ’s most successful vehicle",
+          "Academic Motorsports Club Zurich"
+        ],
+        "content_length": 2682
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "www.amzracing.ch Academic Motorsports Club",
+        "Formula Student",
+        "Zurich Jonas Abeken",
+        "2006",
+        "Dübendorf",
+        "EU",
+        "the University of Stuttgart",
+        "Zurich Lucien",
+        "the Academic Motorsports Club Zurich",
+        "2010",
+        "2013",
+        "The Academic Motorsports Club Zurich",
+        "2016",
+        "grimsel",
+        "ETH Zurich",
+        "Lucerne University of Applied Sciences and Arts",
+        "AMZ",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "less than 30",
+        "just 168 kg",
+        "three",
+        "four",
+        "0 to 100 km",
+        "Swiss",
+        "where",
+        "what",
+        "22 63",
+        "European",
+        "when",
+        "engineering",
+        "fifth"
+      ],
+      "graph_relations": [
+        "Formula Student_has_role_student",
+        "Zurich Jonas Abeken_has_role_student",
+        "Zurich Lucien_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

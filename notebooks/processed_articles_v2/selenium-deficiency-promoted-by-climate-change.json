@@ -1,0 +1,527 @@
+{
+  "filename": "selenium-deficiency-promoted-by-climate-change.md",
+  "original_filename": "selenium-deficiency-promoted-by-climate-change.html",
+  "source_path": "en_news_events/2017/02/selenium-deficiency-promoted-by-climate-change.html",
+  "date": "2017-02",
+  "title": "Selenium Deficiency Promoted By Climate Change",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Precipitation affects selenium concentration",
+      "text": "Selenium is an essential micronutrient obtained from dietary sources such as cereals. The selenium content of foodstuffs largely depends on concentrations in the soil: previous studies have shown that low selenium concentrations are associated with high pH and oxygen availability and low clay and soil organic carbon content. In Europe, as is known from regional studies, selenium-poor soils are found particularly in Germany, Denmark, Scotland, Finland and certain Balkan countries.\n\nTo date, however, little has been known about the global distribution of selenium. Using data mining techniques – involving the assessment of datasets originally collected for other purposes – scientists from Eawag and five other research institutes have now modelled global soil selenium concentrations. The sixteen datasets assessed (1994–2016) comprised a total of 33,241 soil data points. Analysis of selenium concentrations in the top 30 centimetres of soil, together with 26 environmental variables, indicated the dominant role of climate-soil interactions in controlling soil selenium distributions."
+    },
+    {
+      "heading": "Precipitation affects selenium concentration",
+      "text": "The main factors influencing soil selenium concentrations are precipitation and the so-called aridity index (potential evaporation:precipitation ratio). Precipitation leads to leaching of selenium from the soil. At the same time, precipitation can have a positive effect on selenium concentrations since the oxygen content is lower in wet than in dry soils, which means that the selenium is less soluble and thus less mobile. In addition, frequent precipitation leads to a low soil pH, which promotes the binding of negatively charged selenium to soil particles. Higher selenium concentrations are most likely to occur in areas with low to moderate precipitation and high clay content, while lower concentrations are found in arid areas with high pH and low clay content."
+    },
+    {
+      "heading": "Loss of selenium in India and Europe",
+      "text": "In the light of these findings, the scientists modelled mean soil selenium concentrations for the periods 1980–1999 and 2080–2099. Under a moderate climate change scenario, selenium levels are predicted to increase in parts of Australia, China, India and Africa. Overall, however, selenium levels are expected to decrease: by the end of this century (2080–2099), 66% of croplands are predicted to lose selenium (mean decrease of almost 9% compared to 1980–1999). Particularly affected are agricultural areas of Europe and India, China, southern South America, southern Africa and the south-western United States."
+    },
+    {
+      "heading": "Fertilization with selenium",
+      "text": "These losses could have implications for human health – at present, up to 1 billion people are thought to be affected by low dietary selenium intake. According to the authors, this study serves as an early warning for humanitarian organizations and the agro-industry. Fertilizers containing selenium could be used to combat selenium deficiency, as has been done in Finland since 1984. In addition, selenium additives could be used in animal feed."
+    },
+    {
+      "heading": "Importance of selenium for health",
+      "text": "Selenium (Se) is essential for human health and has to be obtained from dietary sources. As an antioxidant, it scavenges free radicals, thus supporting the immune system. It is also required for the synthesis of numerous proteins. Up to 1 billion people are thought to be affected by low dietary selenium intake, which can cause cardiomyopathy. However, excessive intake of selenium can also be harmful, leading to vomiting, diarrhoea and liver damage.\n\nJones GD, Droz B, Greve P, Gottschalk P, Poffet D, McGrath SP, Seneviratne SI, Smith P, Winkel LHE. Selenium deficiency risk predicted to increase under future climate change; Proceedings of the National Academy of Sciences 2017, DOI: 10.1073/pnas.1611576114\n\nThis article is based on a press release of Eawag."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 330,
+        "end": 336
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 419,
+        "end": 426
+      },
+      {
+        "text": "Denmark",
+        "label": "GPE",
+        "start": 428,
+        "end": 435
+      },
+      {
+        "text": "Scotland",
+        "label": "GPE",
+        "start": 437,
+        "end": 445
+      },
+      {
+        "text": "Finland",
+        "label": "GPE",
+        "start": 447,
+        "end": 454
+      },
+      {
+        "text": "Balkan",
+        "label": "NORP",
+        "start": 467,
+        "end": 473
+      },
+      {
+        "text": "Eawag",
+        "label": "GPE",
+        "start": 694,
+        "end": 699
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 704,
+        "end": 708
+      },
+      {
+        "text": "sixteen",
+        "label": "CARDINAL",
+        "start": 794,
+        "end": 801
+      },
+      {
+        "text": "1994–2016",
+        "label": "CARDINAL",
+        "start": 821,
+        "end": 830
+      },
+      {
+        "text": "33,241",
+        "label": "CARDINAL",
+        "start": 853,
+        "end": 859
+      },
+      {
+        "text": "1980–1999",
+        "label": "CARDINAL",
+        "start": 106,
+        "end": 115
+      },
+      {
+        "text": "2080–2099",
+        "label": "DATE",
+        "start": 120,
+        "end": 129
+      },
+      {
+        "text": "Australia",
+        "label": "GPE",
+        "start": 227,
+        "end": 236
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 238,
+        "end": 243
+      },
+      {
+        "text": "India",
+        "label": "GPE",
+        "start": 245,
+        "end": 250
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 255,
+        "end": 261
+      },
+      {
+        "text": "the end of this century",
+        "label": "DATE",
+        "start": 326,
+        "end": 349
+      },
+      {
+        "text": "2080–2099",
+        "label": "DATE",
+        "start": 351,
+        "end": 360
+      },
+      {
+        "text": "66%",
+        "label": "PERCENT",
+        "start": 363,
+        "end": 366
+      },
+      {
+        "text": "almost 9%",
+        "label": "PERCENT",
+        "start": 429,
+        "end": 438
+      },
+      {
+        "text": "1980–1999",
+        "label": "CARDINAL",
+        "start": 451,
+        "end": 460
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 511,
+        "end": 517
+      },
+      {
+        "text": "India",
+        "label": "GPE",
+        "start": 522,
+        "end": 527
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 529,
+        "end": 534
+      },
+      {
+        "text": "South America",
+        "label": "LOC",
+        "start": 545,
+        "end": 558
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 569,
+        "end": 575
+      },
+      {
+        "text": "United States",
+        "label": "GPE",
+        "start": 598,
+        "end": 611
+      },
+      {
+        "text": "1 billion",
+        "label": "CARDINAL",
+        "start": 74,
+        "end": 83
+      },
+      {
+        "text": "Finland",
+        "label": "GPE",
+        "start": 365,
+        "end": 372
+      },
+      {
+        "text": "Se",
+        "label": "PERSON",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "1 billion",
+        "label": "CARDINAL",
+        "start": 237,
+        "end": 246
+      },
+      {
+        "text": "Jones GD",
+        "label": "PERSON",
+        "start": 453,
+        "end": 461
+      },
+      {
+        "text": "McGrath SP",
+        "label": "ORG",
+        "start": 504,
+        "end": 514
+      },
+      {
+        "text": "Seneviratne SI",
+        "label": "PERSON",
+        "start": 516,
+        "end": 530
+      },
+      {
+        "text": "Smith P",
+        "label": "ORG",
+        "start": 532,
+        "end": 539
+      },
+      {
+        "text": "Winkel LHE",
+        "label": "PERSON",
+        "start": 541,
+        "end": 551
+      },
+      {
+        "text": "the National Academy of Sciences 2017",
+        "label": "ORG",
+        "start": 644,
+        "end": 681
+      },
+      {
+        "text": "10.1073",
+        "label": "CARDINAL",
+        "start": 688,
+        "end": 695
+      },
+      {
+        "text": "Eawag",
+        "label": "GPE",
+        "start": 756,
+        "end": 761
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Jones GD",
+        "Se",
+        "Seneviratne SI",
+        "Winkel LHE"
+      ],
+      "ORG": [
+        "McGrath SP",
+        "Smith P",
+        "the National Academy of Sciences 2017"
+      ],
+      "LOCATION": [
+        "Africa",
+        "Australia",
+        "China",
+        "Denmark",
+        "Eawag",
+        "Europe",
+        "Finland",
+        "Germany",
+        "India",
+        "Scotland",
+        "South America",
+        "United States"
+      ],
+      "DATE": [
+        "2080–2099",
+        "the end of this century"
+      ],
+      "MISC": [
+        "1 billion",
+        "10.1073",
+        "1980–1999",
+        "1994–2016",
+        "33,241",
+        "66%",
+        "Balkan",
+        "almost 9%",
+        "five",
+        "sixteen"
+      ]
+    },
+    "entity_counts": {
+      "Europe": 2,
+      "Finland": 2,
+      "Eawag": 2,
+      "1980–1999": 2,
+      "2080–2099": 2,
+      "China": 2,
+      "India": 2,
+      "Africa": 2,
+      "1 billion": 2,
+      "Germany": 1,
+      "Denmark": 1,
+      "Scotland": 1,
+      "Balkan": 1,
+      "five": 1,
+      "sixteen": 1,
+      "1994–2016": 1,
+      "33,241": 1,
+      "Australia": 1,
+      "the end of this century": 1,
+      "66%": 1
+    },
+    "total_entities": 40,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "selenium-deficiency-promoted-by-climate-change.md",
+      "title": "En News Events/2017/02/selenium Deficiency Promoted By Climate Change",
+      "language": "en",
+      "source_path": "en_news_events/2017/02/selenium-deficiency-promoted-by-climate-change.html"
+    },
+    "temporal": {
+      "publication_date": "2017-02",
+      "mentioned_years": [
+        "1980",
+        "1984",
+        "1994",
+        "1999",
+        "2016",
+        "2017"
+      ],
+      "time_periods": [
+        [
+          "1999",
+          "2080"
+        ]
+      ],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Jones GD",
+        "Se",
+        "Seneviratne SI",
+        "Winkel LHE"
+      ],
+      "people_with_roles": {
+        "Se": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "medical_research",
+        "technology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "1 billion",
+        "10.1073",
+        "1980–1999",
+        "1994–2016",
+        "33,241",
+        "Balkan",
+        "almost 9%",
+        "five",
+        "sixteen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "In Europe",
+        "Gottschalk P",
+        "Droz B",
+        "En News",
+        "Deficiency Promoted",
+        "National Academy",
+        "Jones GD",
+        "McGrath SP",
+        "Seneviratne SI",
+        "Winkel LHE",
+        "Change Selenium",
+        "South America",
+        "Smith P",
+        "Greve P",
+        "Poffet D",
+        "By Climate",
+        "United States"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "McGrath SP",
+        "Smith P",
+        "the National Academy of Sciences 2017"
+      ],
+      "locations": [
+        "Africa",
+        "Australia",
+        "China",
+        "Denmark",
+        "Eawag",
+        "Europe",
+        "Finland",
+        "Germany",
+        "India",
+        "Scotland",
+        "South America",
+        "United States"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Europe",
+        "Finland",
+        "Eawag",
+        "1980–1999",
+        "2080–2099",
+        "China",
+        "India",
+        "Africa",
+        "1 billion",
+        "Germany"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Precipitation affects selenium concentration",
+          "Precipitation affects selenium concentration",
+          "Loss of selenium in India and Europe",
+          "Fertilization with selenium",
+          "Importance of selenium for health"
+        ],
+        "content_length": 3759
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Se",
+        "1980",
+        "2017",
+        "1984",
+        "EU",
+        "1994",
+        "Jones GD",
+        "Seneviratne SI",
+        "Winkel LHE",
+        "McGrath SP",
+        "2016",
+        "the National Academy of Sciences 2017",
+        "Smith P",
+        "1999"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "chemistry",
+        "10.1073",
+        "when",
+        "medical_research",
+        "Balkan",
+        "mathematics",
+        "sixteen",
+        "33,241",
+        "who",
+        "almost 9%",
+        "what",
+        "how",
+        "five",
+        "climate_change",
+        "1980–1999",
+        "1994–2016",
+        "1 billion",
+        "why"
+      ],
+      "graph_relations": [
+        "Se_has_role_scientist",
+        "research_domain_climate_change",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

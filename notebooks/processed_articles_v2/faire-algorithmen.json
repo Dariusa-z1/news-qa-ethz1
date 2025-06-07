@@ -1,0 +1,152 @@
+{
+  "filename": "faire-algorithmen.md",
+  "original_filename": "faire-algorithmen.html",
+  "source_path": "de_news_events/2019/05/faire-algorithmen.html",
+  "date": "2019-05",
+  "title": "Faire Algorithmen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "“Alles, was ich auf dem Computer oder Smartphone tue, ist quasi öffentlich”, sagt die Informatikerin Hoda Heidari. Zusammen mit Elliott Ash, Professor für Recht, Ökonomie und Datenwissenschaften, erzählt sie im Podcast von den gigantischen Mengen an digitalen Spuren, die wir täglich mit Computern und Smartphones hinterlassen. Auch sprechen die beiden Wissenschaftler darüber, wie Big Data die Welt und unsere Wahrnehmung verändert, weshalb die Politik diesem Wandel noch hinterherhinkt und wie Algorithmen lernen und dadurch fairer werden können."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Hoda Heidari",
+        "label": "PER",
+        "start": 101,
+        "end": 113
+      },
+      {
+        "text": "Elliott Ash",
+        "label": "PER",
+        "start": 128,
+        "end": 139
+      },
+      {
+        "text": "Big Data",
+        "label": "MISC",
+        "start": 382,
+        "end": 390
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Elliott Ash",
+        "Hoda Heidari"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "Big Data"
+      ]
+    },
+    "entity_counts": {
+      "De News": 1,
+      "Hoda Heidari": 1,
+      "Elliott Ash": 1,
+      "Big Data": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "faire-algorithmen.md",
+      "title": "De News Events/2019/05/faire Algorithmen",
+      "language": "de",
+      "source_path": "de_news_events/2019/05/faire-algorithmen.html"
+    },
+    "temporal": {
+      "publication_date": "2019-05",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Elliott Ash",
+        "Hoda Heidari"
+      ],
+      "people_with_roles": {
+        "Elliott Ash": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Big Data"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Elliott Ash",
+        "De News",
+        "Big Data",
+        "Informatikerin Hoda"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "De News",
+        "Hoda Heidari",
+        "Elliott Ash",
+        "Big Data"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 589
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Elliott Ash",
+        "De News",
+        "2019",
+        "Hoda Heidari"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "Big Data",
+        "who"
+      ],
+      "graph_relations": [
+        "Elliott Ash_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

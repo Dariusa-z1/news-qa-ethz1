@@ -1,0 +1,421 @@
+{
+  "filename": "individual-cancer-immunotherapy.md",
+  "original_filename": "individual-cancer-immunotherapy.html",
+  "source_path": "en_news_events/2019/03/individual-cancer-immunotherapy.html",
+  "date": "2019-03",
+  "title": "Individual Cancer Immunotherapy",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Rapport between immune cells and tumour cells",
+      "text": "Cells belonging to the body’s own immune system can help fight tumours. For several years now, this has allowed oncologists to use medications known as checkpoint inhibitors to encourage T cells to eliminate tumour cells. Last year the two scientists who discovered this therapeutic approach were awarded the Nobel Prize for Medicine.\n\nWhile doctors are enjoying some initial successes with this method, especially with regard to melanomas and several other types of cancer, immunologists and cancer researchers are working to develop the approach further. What they have in mind is a vaccine that would cause cancer-repelling T cells to multiply in the body, thereby strengthening the body’s immune defences. The big question is which molecules are suitable for a vaccine? Researchers working in the team of Manfred Kopf, Professor of Molecular Biomedicine, have now developed a method for identifying such molecules."
+    },
+    {
+      "heading": "Rapport between immune cells and tumour cells",
+      "text": "Since on the one hand tumours differ greatly from patient to patient, and on the other no two people (except identical twins) have the same immune system, future immunisation against cancer is a complex example of personalised medicine. The goal is to develop an individual vaccine for each patient.\n\nPotential vaccines include pieces of proteins, known as peptides, that are found only in tumours due to a mutation. Because T cells are specific and always recognise only one particular peptide, just as a key fits only one lock, a further prerequisite for a vaccine of this kind is that the patient has T cells capable of recognising these cancer peptides in the first place. So before doctors can immunise a cancer patient, laboratory tests must be conducted to search for corresponding pairs of T cells and peptides. A peptide that is recognised by a T cell can be used for personalised immunisation. The vaccine should then activate the T cells in the body that recognise only that peptide (and thus tumour cells). These T cells should ultimately wipe out the tumour.\n\nThe ETH researchers’ method makes it possible for a laboratory to determine which T cells recognise which peptide. Up to now this has been incredibly difficult. The scientists used tumours in mice to show that their approach works. Next, they want to demonstrate the effectiveness of their approach in dealing with tumours in humans."
+    },
+    {
+      "heading": "Every patient gets their own set of reporter cells",
+      "text": "At the heart of this new method lies a collection of several million reporter cells, each one of which presents on its cell surface one of many peptides found in a tumour. The reporter cells are designed to turn green as soon as a T cell interacts with it due to recognition of the presented peptide. This enables the scientists to identify those tumour peptides that the T cells of a cancer patient recognises. This involves mixing the collection of reporter cells with T cells taken from the patient’s tumour, isolating the reporter cells that turn green and identifying the peptide they carry.\n\nSince each person (and each vertebrate generally) has a unique immune system, and since each tumour carries a unique pattern of mutations, the scientists must produce a different set of reporter cells for each patient. “One option is to determine the tumour’s genetic sequence and compare it with the gene sequence of the patient’s healthy cells,” Kopf says. This lets the researchers determine the extent to which the tumour differs from healthy tissue and then transfer the genetic information with precisely these tumour-specific differences into the reporter cells."
+    },
+    {
+      "heading": "Experimental test",
+      "text": "As Kopf explains, “Other scientists are using computer predictions to try and find out which cancer peptides are suited to this type of immunisation. But this approach is only as good as the algorithms used – and at the moment, they aren’t very reliable. By contrast, we have developed an experimental test that assures us that the T cells recognise patient tumour peptides.”\n\nInitial tests involving a breast cancer model in mice showed Kopf and his colleagues that their method works. In immunised mice, the immune system did indeed attack the tumour; in the non-immunised mice that the scientists used as a control, this did not happen.\n\nThe scientists already patented this method five years ago. In 2015, their promising discovery won them ETH Zurich’s Spark Award. Their work was recently published in the specialist journal Nature Immunology [http://dx.doi.org/10.1038/s41590-019-0335-z].\n\nTo develop commercial applications for the technique, the scientists founded an ETH spin-off called Tepthera. This start-up plans to demonstrate the effectiveness of their approach also using tumours in humans."
+    },
+    {
+      "heading": "Just as interesting for autoimmune diseases",
+      "text": "“Essentially, our technique and personalised immunisation hold out promise for the treatment of all cancers – especially in combination with checkpoint inhibitors,” Kopf says, adding that the technology could also be used in the research and treatment of autoimmune diseases such as multiple sclerosis or type 1 diabetes.\n\nUnlike healthy people’s immune system, the immune system in people who suffer from autoimmune diseases attacks not only foreign or mutated cells, but also the autoimmune patient’s own body cells. In the case of many of these conditions, it is not yet known against which native molecules the autoimmune response is directed. This is something that can now be researched using the new method. In contrast to cancer, where the idea is to use immunisation to activate the killer cells, for autoimmune diseases the aim is to develop a vaccine that tempers the immune system.\n\nKisielow J, Obermair FJ, Kopf M: Deciphering CD4+ T cell specificity using novel MHC–TCR chimeric receptors. Nature Immunology, 11. März 2019, doi: 10.1038/s41590-019-0335-z"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "several years",
+        "label": "DATE",
+        "start": 76,
+        "end": 89
+      },
+      {
+        "text": "Last year",
+        "label": "DATE",
+        "start": 222,
+        "end": 231
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 236,
+        "end": 239
+      },
+      {
+        "text": "the Nobel Prize for Medicine",
+        "label": "WORK_OF_ART",
+        "start": 305,
+        "end": 333
+      },
+      {
+        "text": "Manfred Kopf",
+        "label": "PERSON",
+        "start": 808,
+        "end": 820
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 466,
+        "end": 474
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 514,
+        "end": 522
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 663,
+        "end": 668
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1075,
+        "end": 1078
+      },
+      {
+        "text": "several million",
+        "label": "CARDINAL",
+        "start": 53,
+        "end": 68
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 817,
+        "end": 820
+      },
+      {
+        "text": "Kopf",
+        "label": "PERSON",
+        "start": 945,
+        "end": 949
+      },
+      {
+        "text": "Kopf",
+        "label": "PERSON",
+        "start": 3,
+        "end": 7
+      },
+      {
+        "text": "Kopf",
+        "label": "PERSON",
+        "start": 437,
+        "end": 441
+      },
+      {
+        "text": "five years ago",
+        "label": "DATE",
+        "start": 683,
+        "end": 697
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 743,
+        "end": 755
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 829,
+        "end": 835
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 974,
+        "end": 977
+      },
+      {
+        "text": "Tepthera",
+        "label": "WORK_OF_ART",
+        "start": 994,
+        "end": 1002
+      },
+      {
+        "text": "Kopf",
+        "label": "PERSON",
+        "start": 165,
+        "end": 169
+      },
+      {
+        "text": "Kopf M: Deciphering CD4+",
+        "label": "ORG",
+        "start": 918,
+        "end": 942
+      },
+      {
+        "text": "MHC",
+        "label": "ORG",
+        "start": 974,
+        "end": 977
+      },
+      {
+        "text": "TCR",
+        "label": "ORG",
+        "start": 978,
+        "end": 981
+      },
+      {
+        "text": "März 2019",
+        "label": "DATE",
+        "start": 1025,
+        "end": 1034
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1041,
+        "end": 1048
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich’s",
+        "Kopf",
+        "Manfred Kopf"
+      ],
+      "ORG": [
+        "ETH",
+        "En News",
+        "Kopf M: Deciphering CD4+",
+        "MHC",
+        "TCR"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Last year",
+        "März 2019",
+        "five years ago",
+        "several years"
+      ],
+      "MISC": [
+        "10.1038",
+        "Nature",
+        "One",
+        "Tepthera",
+        "first",
+        "only one",
+        "several million",
+        "the Nobel Prize for Medicine",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Kopf": 4,
+      "only one": 2,
+      "ETH": 2,
+      "En News": 1,
+      "several years": 1,
+      "Last year": 1,
+      "two": 1,
+      "the Nobel Prize for Medicine": 1,
+      "Manfred Kopf": 1,
+      "first": 1,
+      "several million": 1,
+      "One": 1,
+      "five years ago": 1,
+      "ETH Zurich’s": 1,
+      "Nature": 1,
+      "Tepthera": 1,
+      "Kopf M: Deciphering CD4+": 1,
+      "MHC": 1,
+      "TCR": 1,
+      "März 2019": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "individual-cancer-immunotherapy.md",
+      "title": "En News Events/2019/03/individual Cancer Immunotherapy",
+      "language": "en",
+      "source_path": "en_news_events/2019/03/individual-cancer-immunotherapy.html"
+    },
+    "temporal": {
+      "publication_date": "2019-03",
+      "mentioned_years": [
+        "2015",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich’s",
+        "Kopf",
+        "Manfred Kopf"
+      ],
+      "people_with_roles": {
+        "Kopf": [
+          "scientist",
+          "researcher",
+          "professor"
+        ],
+        "Manfred Kopf": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "physics",
+        "chemistry",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Nature",
+        "Tepthera",
+        "first",
+        "only one",
+        "several million",
+        "the Nobel Prize for Medicine"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Spark Award",
+        "Nobel Prize",
+        "En News",
+        "These T",
+        "Kisielow J",
+        "Molecular Biomedicine",
+        "Manfred Kopf",
+        "Kopf M",
+        "As Kopf",
+        "Nature Immunology",
+        "Cancer Immunotherapy",
+        "Obermair FJ",
+        "ETH Zurich",
+        "Because T",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "En News",
+        "Kopf M: Deciphering CD4+",
+        "MHC",
+        "TCR"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Kopf",
+        "only one",
+        "ETH",
+        "En News",
+        "several years",
+        "Last year",
+        "two",
+        "the Nobel Prize for Medicine",
+        "Manfred Kopf",
+        "first"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Rapport between immune cells and tumour cells",
+          "Rapport between immune cells and tumour cells",
+          "Every patient gets their own set of reporter cells",
+          "Experimental test",
+          "Just as interesting for autoimmune diseases"
+        ],
+        "content_length": 5725
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Kopf",
+        "2015",
+        "En News",
+        "2019",
+        "Manfred Kopf",
+        "EU",
+        "Kopf M: Deciphering CD4+",
+        "TCR",
+        "MHC",
+        "ETH Zurich’s",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "chemistry",
+        "when",
+        "10.1038",
+        "biology",
+        "medical_research",
+        "several million",
+        "Nature",
+        "who",
+        "what",
+        "Tepthera",
+        "how",
+        "computer_science",
+        "physics",
+        "first",
+        "the Nobel Prize for Medicine",
+        "only one",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Kopf_has_role_scientist",
+        "Kopf_has_role_researcher",
+        "Kopf_has_role_professor",
+        "Manfred Kopf_has_role_researcher",
+        "Manfred Kopf_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

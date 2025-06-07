@@ -1,0 +1,413 @@
+{
+  "filename": "schnellere-verschraenkung-entfernter-quantenpunkte.md",
+  "original_filename": "schnellere-verschraenkung-entfernter-quantenpunkte.html",
+  "source_path": "de_news_events/2015/12/schnellere-verschraenkung-entfernter-quantenpunkte.html",
+  "date": "2015-12",
+  "title": "Schnellere Verschraenkung Entfernter Quantenpunkte",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Weit entfernte Quantenpunkte",
+      "text": "In vielen zukünftigen Informations- und Telekommunikationstechnologien wird wahrscheinlich die sogenannte Verschränkung, ein erstaunlicher Effekt der Quantenphysik, eine wichtige Rolle spielen. Die Verschränkung von zwei Quantenobjekten führt dazu, dass Messungen an einem der Objekte augenblicklich die Eigenschaften des anderen festlegen – ohne dass Informationen zwischen den beiden ausgetauscht wurden.\n\nAlbert Einstein bezeichnete diese seltsame Nichtlokalität noch ablehnend als «spukhafte Fernwirkung». Inzwischen haben sich Physiker längst damit angefreundet, und sie versuchen nun, sie nutzbringend anzuwenden, etwa um damit Daten abhörsicher zu übertragen. Dazu ist es unabdingbar, eine Verschränkung räumlich weit entfernter Quantenteilchen herbeizuführen. Das ist nicht einfach und funktioniert in der Regel recht langsam. Physiker um Atac Imamoglu, Professor am Institut für Quantenelektronik der ETH Zürich, zeigten jetzt ein Verfahren auf, mit dem sich tausendmal mehr Verschränkungen pro Sekunde herstellen lassen als bisher."
+    },
+    {
+      "heading": "Weit entfernte Quantenpunkte",
+      "text": "Die Nachwuchsforscher Aymeric Delteil, Zhe Sun und Wei-bo Gao verwendeten für ihre Experimente zwei sogenannte Quantenpunkte, die sie in fünf Metern Entfernung voneinander im Labor platzierten. Quantenpunkte sind winzige, nur wenige Nanometer grosse Strukturen innerhalb eines Halbleitermaterials, in denen Elektronen wie in einem Käfig gefangen sind. Die quantenmechanischen Energiezustände der Elektronen können als Spins dargestellt werden, also als Pfeile, die nach oben oder unten zeigen. Sind die Spinzustände verschränkt, so kann man aus einer Messung an einem der Quantenpunkte herleiten, in welchem Zustand sich der jeweils andere befindet. Zeigt der Spin des ersten Quantenpunktes nach oben, so zeigt der andere nach unten, und umgekehrt. Vor der Messung allerdings weiss man von keinem der beiden, in welche Richtung er zeigt: Sie befinden sich in einer quantenmechanischen Überlagerung beider möglicher Spin-Kombinationen."
+    },
+    {
+      "heading": "Verschränkung durch Schrotschuss",
+      "text": "Um die beiden Quantenpunkte miteinander zu verschränken, machten sich die ETH-Forscher das Prinzip der «Verkündigung» zunutze. «Es gibt derzeit leider praktisch keine Möglichkeit, weit entfernte Quantenobjekte mit Sicherheit und auf Knopfdruck miteinander zu verschränken », erklärt Imamoglu. Stattdessen muss man die Verschränkungszustände nach dem Schrotschussverfahren erzeugen, indem man die Quantenpunkte immer wieder mit Lichtteilchen beschiesst, die dann wieder zurück gestreut werden. In einigen wenigen Fällen kommt es dann zu Zufallstreffern: Eines der Lichtteilchen löst einen «Klick» in einem Detektor aus, und die so entstandenen Spinzustände sind tatsächlich verschränkt.\n\nImamoglu und Kollegen machen sich diesen Trick zunutze. Sie schicken Laserpulse gleichzeitig an beide Quantenpunkte und messen die Lichtteilchen, welche diese daraufhin aussenden. Vorher haben sie allerdings dafür gesorgt, dass es unmöglich ist herauszufinden, von welchem Quantenpunkt die Lichtteilchen stammen. Der Klick im Detektor «verkündet» den Forschern dann, dass die Quantenpunkte in der Tat durch die Laserpulse verschränkt wurden und signalisiert ihnen, dass sie nun beispielsweise zur Übertragung von Quanteninformationen weiterverwendet werden können."
+    },
+    {
+      "heading": "Verbesserungen möglich",
+      "text": "Die Forscher testeten ihr Verfahren, indem sie die beiden Quantenpunkte etwa zehn Millionen Mal pro Sekunde mit Laserpulsen beschossen. Diese hohe Wiederholungsrate war möglich, da sich die Spinzustände von Quantenpunkten in wenigen Nanosekunden kontrollieren lassen. Aus den Messungen ergab sich, dass dabei 2300 Mal pro Sekunde verschränkte Zustände der Quantenpunkte entstanden.\n\n«Das ist schon mal ein guter Anfang», sagt Imamoglu und fügt hinzu, dass sich das Verfahren durchaus noch verbessern lässt. Um beispielsweise mehr als fünf Meter voneinander entfernte Quantenpunkte verschränken zu können, muss zunächst deren Kohärenzzeit verlängert werden. Diese gibt an, wie lange ein Quantenzustand bestehen bleibt, bevor er durch Einwirkung seiner Umgebung (etwa durch elektrische oder magnetische Felder) zerstört wird. Braucht das Verkündigungs-Lichtteilchen länger als die Kohärenzzeit, um zum Detektor zu fliegen, so verkündet ein Klick keine Verschränkung mehr. In künftigen Experimenten wollen die Physiker daher die einzelnen Quantenpunkte jeweils durch sogenannte Quantenpunkt-Moleküle ersetzen, deren Kohärenzzeiten hundert Mal länger sind. Auch eine Verbesserung der Nachweiswahrscheinlickeit der Lichtteilchen könnte zu einer noch besseren Verschränkungs-Ausbeute führen.\n\nDelteil A, Sun Z, Gao W, Togan E, Faelt S, Imamoglu A: Generation of heralded entanglement between distant hole spins, Nature Physics, 21. Dezember 2015, doi: externe Seite 10.1038/nphys3605"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Albert Einstein",
+        "label": "PER",
+        "start": 407,
+        "end": 422
+      },
+      {
+        "text": "Atac Imamoglu",
+        "label": "PER",
+        "start": 846,
+        "end": 859
+      },
+      {
+        "text": "Institut für Quantenelektronik",
+        "label": "ORG",
+        "start": 874,
+        "end": 904
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 909,
+        "end": 919
+      },
+      {
+        "text": "Nachwuchsforscher Aymeric Delteil",
+        "label": "ORG",
+        "start": 4,
+        "end": 37
+      },
+      {
+        "text": "Zhe Sun",
+        "label": "MISC",
+        "start": 39,
+        "end": 46
+      },
+      {
+        "text": "Wei-bo",
+        "label": "ORG",
+        "start": 51,
+        "end": 57
+      },
+      {
+        "text": "ETH-Forscher",
+        "label": "MISC",
+        "start": 74,
+        "end": 86
+      },
+      {
+        "text": "Klick",
+        "label": "MISC",
+        "start": 589,
+        "end": 594
+      },
+      {
+        "text": "Laserpulse",
+        "label": "LOC",
+        "start": 755,
+        "end": 765
+      },
+      {
+        "text": "Klick",
+        "label": "MISC",
+        "start": 1003,
+        "end": 1008
+      },
+      {
+        "text": "Forschern",
+        "label": "ORG",
+        "start": 1037,
+        "end": 1046
+      },
+      {
+        "text": "Laserpulse",
+        "label": "LOC",
+        "start": 1097,
+        "end": 1107
+      },
+      {
+        "text": "Quanteninformationen",
+        "label": "PER",
+        "start": 1199,
+        "end": 1219
+      },
+      {
+        "text": "Verkündigungs-Lichtteilchen",
+        "label": "MISC",
+        "start": 835,
+        "end": 862
+      },
+      {
+        "text": "Quantenpunkt-Moleküle",
+        "label": "MISC",
+        "start": 1074,
+        "end": 1095
+      },
+      {
+        "text": "Verschränkungs-Ausbeute",
+        "label": "MISC",
+        "start": 1253,
+        "end": 1276
+      },
+      {
+        "text": "Delteil A",
+        "label": "MISC",
+        "start": 1285,
+        "end": 1294
+      },
+      {
+        "text": "Sun Z",
+        "label": "PER",
+        "start": 1296,
+        "end": 1301
+      },
+      {
+        "text": "Gao W",
+        "label": "MISC",
+        "start": 1303,
+        "end": 1308
+      },
+      {
+        "text": "Togan E",
+        "label": "ORG",
+        "start": 1310,
+        "end": 1317
+      },
+      {
+        "text": "Faelt S",
+        "label": "PER",
+        "start": 1319,
+        "end": 1326
+      },
+      {
+        "text": "Imamoglu A",
+        "label": "ORG",
+        "start": 1328,
+        "end": 1338
+      },
+      {
+        "text": "Generation of heralded entanglement between distant",
+        "label": "MISC",
+        "start": 1340,
+        "end": 1391
+      },
+      {
+        "text": "hole spins",
+        "label": "PER",
+        "start": 1392,
+        "end": 1402
+      },
+      {
+        "text": "Nature Physics",
+        "label": "ORG",
+        "start": 1404,
+        "end": 1418
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Albert Einstein",
+        "Atac Imamoglu",
+        "De News",
+        "Faelt S",
+        "Quanteninformationen",
+        "Sun Z",
+        "hole spins"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Forschern",
+        "Imamoglu A",
+        "Institut für Quantenelektronik",
+        "Nachwuchsforscher Aymeric Delteil",
+        "Nature Physics",
+        "Togan E",
+        "Wei-bo"
+      ],
+      "LOCATION": [
+        "Laserpulse"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Delteil A",
+        "ETH-Forscher",
+        "Gao W",
+        "Generation of heralded entanglement between distant",
+        "Klick",
+        "Quantenpunkt-Moleküle",
+        "Verkündigungs-Lichtteilchen",
+        "Verschränkungs-Ausbeute",
+        "Zhe Sun"
+      ]
+    },
+    "entity_counts": {
+      "Klick": 2,
+      "Laserpulse": 2,
+      "De News": 1,
+      "Albert Einstein": 1,
+      "Atac Imamoglu": 1,
+      "Institut für Quantenelektronik": 1,
+      "ETH Zürich": 1,
+      "Nachwuchsforscher Aymeric Delteil": 1,
+      "Zhe Sun": 1,
+      "Wei-bo": 1,
+      "ETH-Forscher": 1,
+      "Forschern": 1,
+      "Quanteninformationen": 1,
+      "Verkündigungs-Lichtteilchen": 1,
+      "Quantenpunkt-Moleküle": 1,
+      "Verschränkungs-Ausbeute": 1,
+      "Delteil A": 1,
+      "Sun Z": 1,
+      "Gao W": 1,
+      "Togan E": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "schnellere-verschraenkung-entfernter-quantenpunkte.md",
+      "title": "De News Events/2015/12/schnellere Verschraenkung Entfernter Quantenpunkte",
+      "language": "de",
+      "source_path": "de_news_events/2015/12/schnellere-verschraenkung-entfernter-quantenpunkte.html"
+    },
+    "temporal": {
+      "publication_date": "2015-12",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "Albert Einstein",
+        "Atac Imamoglu",
+        "De News",
+        "Faelt S",
+        "Quanteninformationen",
+        "Sun Z",
+        "hole spins"
+      ],
+      "people_with_roles": {
+        "Atac Imamoglu": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "Delteil A",
+        "ETH-Forscher",
+        "Gao W",
+        "Generation of heralded entanglement between distant",
+        "Klick",
+        "Quantenpunkt-Moleküle",
+        "Verkündigungs-Lichtteilchen",
+        "Verschränkungs-Ausbeute",
+        "Zhe Sun"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Spin-Kombinationen",
+        "Gao W",
+        "Millionen Mal",
+        "ETH-Forscher",
+        "Sun Z",
+        "Atac Imamoglu",
+        "Albert Einstein",
+        "Quantenpunkte In",
+        "Aymeric Delteil",
+        "Die Nachwuchsforscher",
+        "Faelt S",
+        "Delteil A",
+        "Togan E",
+        "Nature Physics",
+        "Die Forscher",
+        "Imamoglu A",
+        "De News",
+        "Zhe Sun",
+        "Metern Entfernung",
+        "Der Klick",
+        "Verschraenkung Entfernter"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Forschern",
+        "Imamoglu A",
+        "Institut für Quantenelektronik",
+        "Nachwuchsforscher Aymeric Delteil",
+        "Nature Physics",
+        "Togan E",
+        "Wei-bo"
+      ],
+      "locations": [
+        "Laserpulse"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Klick",
+        "Laserpulse",
+        "De News",
+        "Albert Einstein",
+        "Atac Imamoglu",
+        "Institut für Quantenelektronik",
+        "ETH Zürich",
+        "Nachwuchsforscher Aymeric Delteil",
+        "Zhe Sun",
+        "Wei-bo"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Weit entfernte Quantenpunkte",
+          "Weit entfernte Quantenpunkte",
+          "Verschränkung durch Schrotschuss",
+          "Verbesserungen möglich"
+        ],
+        "content_length": 4780
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Togan E",
+        "Albert Einstein",
+        "Nature Physics",
+        "Nachwuchsforscher Aymeric Delteil",
+        "Quanteninformationen",
+        "Wei-bo",
+        "Imamoglu A",
+        "2015",
+        "EU",
+        "hole spins",
+        "Forschern",
+        "Sun Z",
+        "ETH Zürich",
+        "De News",
+        "Institut für Quantenelektronik",
+        "Atac Imamoglu",
+        "Faelt S"
+      ],
+      "semantic_concepts": [
+        "Delteil A",
+        "who",
+        "ETH-Forscher",
+        "when",
+        "Gao W",
+        "Quantenpunkt-Moleküle",
+        "Verkündigungs-Lichtteilchen",
+        "Verschränkungs-Ausbeute",
+        "Zhe Sun",
+        "Generation of heralded entanglement between distant",
+        "Klick",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Atac Imamoglu_has_role_professor",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

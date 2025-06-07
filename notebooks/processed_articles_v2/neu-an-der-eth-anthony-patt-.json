@@ -1,0 +1,315 @@
+{
+  "filename": "neu-an-der-eth-anthony-patt-.md",
+  "original_filename": "neu-an-der-eth-anthony-patt-.html",
+  "source_path": "en_internal/2014/03/neu-an-der-eth-anthony-patt-.html",
+  "date": "2014-03",
+  "title": "Neu An Der Eth Anthony Patt",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "What motivated you to come to ETH Zurich? Anthony Patt: Actually I had three motivations. The first is, I really enjoy doing social science research in an atmosphere that is mainly concerned with natural sciences questions. The second motivation was that at ETH you find the same collegiality like at the very good American universities. And the third point is that I just love Zurich!\n\nHow would you explain your resesarch to a child? I try to find out what kinds of laws and other things that the government does, can really help the environment. For example, how can the government help people to drive electric cars or to use less energy? What works, and what doesn’t?\n\nIf you hadn’t become a Scientist, what other profession would you have choosen? Well, I grew up on a farm, and just love to work with my hands. And I also love to work with wood. So my “fallback job” has always been to make furniture. For example, my desk here I fabricated myself. Generally speaking, I like to address problems or challenges in concrete ways. For me, working with my hands is the most concrete.\n\nAnthony Patt , born in Boston, Massachusetts (USA) in 1965, has been Professor of Human Environment Systems at the Institute for Environmental Decisions, D-USYS, since August 2013. His research addresses questions related to climate change policy, with focus on adaption to climate change and the resultant costs for society, as well as on analyzing the benefits of different energy systems.\n\nRead Anthony Patt's blog posts at the ′′Zukunftsblog′′."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Anthony Patt",
+        "label": "PERSON",
+        "start": 35,
+        "end": 47
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 30,
+        "end": 40
+      },
+      {
+        "text": "Anthony Patt:",
+        "label": "PERSON",
+        "start": 42,
+        "end": 55
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 71,
+        "end": 76
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 94,
+        "end": 99
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 228,
+        "end": 234
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 258,
+        "end": 261
+      },
+      {
+        "text": "American",
+        "label": "NORP",
+        "start": 315,
+        "end": 323
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 346,
+        "end": 351
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 378,
+        "end": 384
+      },
+      {
+        "text": "Scientist",
+        "label": "PRODUCT",
+        "start": 695,
+        "end": 704
+      },
+      {
+        "text": "Anthony Patt",
+        "label": "PERSON",
+        "start": 1085,
+        "end": 1097
+      },
+      {
+        "text": "Boston",
+        "label": "GPE",
+        "start": 1108,
+        "end": 1114
+      },
+      {
+        "text": "Massachusetts",
+        "label": "GPE",
+        "start": 1116,
+        "end": 1129
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 1131,
+        "end": 1134
+      },
+      {
+        "text": "the Institute for Environmental Decisions",
+        "label": "ORG",
+        "start": 1196,
+        "end": 1237
+      },
+      {
+        "text": "August 2013",
+        "label": "DATE",
+        "start": 1253,
+        "end": 1264
+      },
+      {
+        "text": "Anthony Patt's",
+        "label": "PERSON",
+        "start": 1482,
+        "end": 1496
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Anthony Patt",
+        "Anthony Patt's",
+        "Anthony Patt:",
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH",
+        "the Institute for Environmental Decisions"
+      ],
+      "LOCATION": [
+        "Boston",
+        "Massachusetts",
+        "USA",
+        "Zurich"
+      ],
+      "DATE": [
+        "August 2013"
+      ],
+      "MISC": [
+        "American",
+        "Scientist",
+        "first",
+        "second",
+        "third",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Anthony Patt": 2,
+      "ETH Zurich": 1,
+      "Anthony Patt:": 1,
+      "three": 1,
+      "first": 1,
+      "second": 1,
+      "ETH": 1,
+      "American": 1,
+      "third": 1,
+      "Zurich": 1,
+      "Scientist": 1,
+      "Boston": 1,
+      "Massachusetts": 1,
+      "USA": 1,
+      "the Institute for Environmental Decisions": 1,
+      "August 2013": 1,
+      "Anthony Patt's": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neu-an-der-eth-anthony-patt-.md",
+      "title": "En Internal/2014/03/neu an der Eth Anthony Patt",
+      "language": "en",
+      "source_path": "en_internal/2014/03/neu-an-der-eth-anthony-patt-.html"
+    },
+    "temporal": {
+      "publication_date": "2014-03",
+      "mentioned_years": [
+        "1965",
+        "2013",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [
+        "Anthony Patt",
+        "Anthony Patt's",
+        "Anthony Patt:",
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "Anthony Patt": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology"
+      ],
+      "research_topics": [
+        "American",
+        "Scientist",
+        "first",
+        "second",
+        "third",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Eth Anthony",
+        "Human Environment",
+        "D-USYS",
+        "Read Anthony",
+        "Actually I",
+        "En Internal",
+        "Environmental Decisions",
+        "ETH Zurich",
+        "And I",
+        "Patt What",
+        "Anthony Patt"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Environmental Decisions"
+      ],
+      "institutions": [
+        "ETH",
+        "the Institute for Environmental Decisions"
+      ],
+      "locations": [
+        "Boston",
+        "Massachusetts",
+        "USA",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Anthony Patt",
+        "ETH Zurich",
+        "Anthony Patt:",
+        "three",
+        "first",
+        "second",
+        "ETH",
+        "American",
+        "third",
+        "Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1584
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Institute for Environmental Decisions",
+        "ETH",
+        "2013",
+        "Anthony Patt:",
+        "Anthony Patt's",
+        "EU",
+        "1965",
+        "ETH Zurich",
+        "2014",
+        "Anthony Patt"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Scientist",
+        "third",
+        "three",
+        "who",
+        "American",
+        "what",
+        "second",
+        "how",
+        "climate_change"
+      ],
+      "graph_relations": [
+        "Anthony Patt_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

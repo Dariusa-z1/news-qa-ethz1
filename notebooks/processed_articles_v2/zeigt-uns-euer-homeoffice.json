@@ -1,0 +1,173 @@
+{
+  "filename": "zeigt-uns-euer-homeoffice.md",
+  "original_filename": "zeigt-uns-euer-homeoffice.html",
+  "source_path": "de_internal/2020/03/zeigt-uns-euer-homeoffice.html",
+  "date": "2020-03",
+  "title": "Zeigt Uns Euer Homeoffice",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Für die einen ist es der Esstisch, für die anderen der Abstellraum und manche haben das Glück, in den Genuss eines richtigen Büros zu kommen. Eines haben aber fast alle von uns seit zwei Wochen gemeinsam: einen ganz neuen Arbeitsplatz. Wie sieht er bei euch aus? Schickt uns Fotos von euch in eurem Homeoffice an oder teilt sie auf Social Media mit dem Hashtag externe Seite #ETHathome . Die besten und lustigsten Fotos werden wir auf dem nächsten Cover des ETH-Mitarbeitermagazins «life» sowie auf Intern aktuell publizieren und auf den Social-Media-Kanälen der ETH teilen.\n\nÜbrigens: Wenn ihr das «life»-Magazin bisher ins Büro bekommen habt, könnt ihr das auf eure Wohnadresse ändern ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/03/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Esstisch",
+        "label": "LOC",
+        "start": 25,
+        "end": 33
+      },
+      {
+        "text": "Social Media",
+        "label": "MISC",
+        "start": 332,
+        "end": 344
+      },
+      {
+        "text": "ETHathome",
+        "label": "MISC",
+        "start": 375,
+        "end": 384
+      },
+      {
+        "text": "Social-Media-Kanälen",
+        "label": "LOC",
+        "start": 537,
+        "end": 557
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 562,
+        "end": 565
+      },
+      {
+        "text": "life»-Magazin",
+        "label": "PER",
+        "start": 598,
+        "end": 611
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "life»-Magazin"
+      ],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [
+        "De Internal/2020/03/",
+        "Esstisch",
+        "Social-Media-Kanälen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETHathome",
+        "Social Media"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2020/03/": 1,
+      "Esstisch": 1,
+      "Social Media": 1,
+      "ETHathome": 1,
+      "Social-Media-Kanälen": 1,
+      "ETH": 1,
+      "life»-Magazin": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "zeigt-uns-euer-homeoffice.md",
+      "title": "De Internal/2020/03/zeigt Uns Euer Homeoffice",
+      "language": "de",
+      "source_path": "de_internal/2020/03/zeigt-uns-euer-homeoffice.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "life»-Magazin"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETHathome",
+        "Social Media"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Mitarbeitermagazins",
+        "Social Media",
+        "De Internal",
+        "Social-Media",
+        "Uns Euer"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [
+        "De Internal/2020/03/",
+        "Esstisch",
+        "Social-Media-Kanälen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2020/03/",
+        "Esstisch",
+        "Social Media",
+        "ETHathome",
+        "Social-Media-Kanälen",
+        "ETH",
+        "life»-Magazin"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 734
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "life»-Magazin",
+        "EU",
+        "2020",
+        "ETH"
+      ],
+      "semantic_concepts": [
+        "Social Media",
+        "ETHathome"
+      ],
+      "graph_relations": []
+    }
+  }
+}

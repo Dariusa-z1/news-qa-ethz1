@@ -1,0 +1,169 @@
+{
+  "filename": "birkhaeuser-building-types-online.md",
+  "original_filename": "birkhaeuser-building-types-online.html",
+  "source_path": "en_internal/2016/04/birkhaeuser-building-types-online.html",
+  "date": "2016-04",
+  "title": "Birkhaeuser Building Types Online",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The database offers:\n\nAn innovative search e. g. by building type, volumetric constellations or even urban design context is possible. For licensing reasons, access to the Birkhäuser Building Types online database is restricted to the ethz.ch domain. Non-members of ETH Zurich can use it on ETH-Bibliothek premises.\n\nBirkhäuser Building Types online"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Building Types Online",
+        "label": "ORG",
+        "start": 32,
+        "end": 53
+      },
+      {
+        "text": "e. g.",
+        "label": "PERSON",
+        "start": 42,
+        "end": 47
+      },
+      {
+        "text": "the Birkhäuser Building Types",
+        "label": "ORG",
+        "start": 167,
+        "end": 196
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 265,
+        "end": 275
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 290,
+        "end": 304
+      },
+      {
+        "text": "Birkhäuser Building Types",
+        "label": "ORG",
+        "start": 315,
+        "end": 340
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "e. g."
+      ],
+      "ORG": [
+        "Birkhäuser Building Types",
+        "Building Types Online",
+        "ETH-Bibliothek",
+        "the Birkhäuser Building Types"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Building Types Online": 1,
+      "e. g.": 1,
+      "the Birkhäuser Building Types": 1,
+      "ETH Zurich": 1,
+      "ETH-Bibliothek": 1,
+      "Birkhäuser Building Types": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "birkhaeuser-building-types-online.md",
+      "title": "En Internal/2016/04/birkhaeuser Building Types Online",
+      "language": "en",
+      "source_path": "en_internal/2016/04/birkhaeuser-building-types-online.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "e. g."
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Online The",
+        "Building Types",
+        "En Internal",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Birkhäuser Building Types",
+        "Building Types Online",
+        "ETH-Bibliothek",
+        "the Birkhäuser Building Types"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "why"
+      ],
+      "key_concepts": [
+        "Building Types Online",
+        "e. g.",
+        "the Birkhäuser Building Types",
+        "ETH Zurich",
+        "ETH-Bibliothek",
+        "Birkhäuser Building Types"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 403
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Birkhäuser Building Types",
+        "ETH-Bibliothek",
+        "e. g.",
+        "EU",
+        "2016",
+        "Building Types Online",
+        "ETH Zurich",
+        "Birkhäuser Building Types"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "why"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "filename": "bauliche-entwicklung-der-eth-zuerich.md",
+  "original_filename": "bauliche-entwicklung-der-eth-zuerich.html",
+  "source_path": "de_internal/2020/01/bauliche-entwicklung-der-eth-zuerich.html",
+  "date": "2020-01",
+  "title": "Bauliche Entwicklung Der Eth Zuerich",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "An zwei Veranstaltungen mit campusspezifischen Schwerpunkten wurde unter anderem die bestehende Flächenknappheit der ETH Zürich sowie ihre Ursachen und Lösungsansätze thematisiert wie auch der aktuelle Stand der übergeordneten Gebietsplanungen sowie der laufenden und anstehenden Bauprojekte vorgestellt und auf die konkreten laufenden und anstehenden Bauprojekte eingegangen.\n\nMöchten Sie die Veranstaltungen nachträglich anschauen? Die Aufzeichnungen finden Sie im Videoportal .\n\nAbteilung Immobilien +41 44 632 78 30"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/01/bauliche Entwicklung",
+        "label": "LOC",
+        "start": 0,
+        "end": 40
+      },
+      {
+        "text": "Eth Zuerich",
+        "label": "MISC",
+        "start": 45,
+        "end": 56
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 117,
+        "end": 127
+      },
+      {
+        "text": "Videoportal",
+        "label": "LOC",
+        "start": 466,
+        "end": 477
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2020/01/bauliche Entwicklung",
+        "Videoportal"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Eth Zuerich"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2020/01/bauliche Entwicklung": 1,
+      "Eth Zuerich": 1,
+      "ETH Zürich": 1,
+      "Videoportal": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "bauliche-entwicklung-der-eth-zuerich.md",
+      "title": "De Internal/2020/01/bauliche Entwicklung der Eth Zuerich",
+      "language": "de",
+      "source_path": "de_internal/2020/01/bauliche-entwicklung-der-eth-zuerich.html"
+    },
+    "temporal": {
+      "publication_date": "2020-01",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Eth Zuerich"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "De Internal",
+        "Abteilung Immobilien",
+        "Eth Zuerich",
+        "Die Aufzeichnungen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2020/01/bauliche Entwicklung",
+        "Videoportal"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2020/01/bauliche Entwicklung",
+        "Eth Zuerich",
+        "ETH Zürich",
+        "Videoportal"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 576
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "2020"
+      ],
+      "semantic_concepts": [
+        "Eth Zuerich"
+      ],
+      "graph_relations": []
+    }
+  }
+}

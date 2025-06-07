@@ -1,0 +1,398 @@
+{
+  "filename": "electron-movements-in-liquid-measured-in-super-slow-motion.md",
+  "original_filename": "electron-movements-in-liquid-measured-in-super-slow-motion.html",
+  "source_path": "en_news_events/2020/08/electron-movements-in-liquid-measured-in-super-slow-motion.html",
+  "date": "2020-08",
+  "title": "Electron Movements In Liquid Measured In Super Slow Motion",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Delayed transport of electrons from the liquid",
+      "text": "To understand how chemical reactions begin, chemists have been using super-slow motion experiments for years to study the very first moments of a reaction. These days, measurements with a resolution of a few dozen attoseconds are possible. An attosecond is 1x10 -18 of a second, i.e. a millionth of a millionth of a millionth of a second.\n\n“In these first few dozen attoseconds of a reaction, you can already observe how electrons shift within molecules,” explains Hans Jakob Wörner, Professor at the Laboratory of Physical Chemistry at ETH Zurich. “Later, in the course of about 10,000 attoseconds or 10 femtoseconds, chemical reactions result in movements of atoms up to and including the breaking of chemical bonds.”\n\nFive years ago, the ETH professor was one of the first scientists to be able to detect electron movements in molecules on the attosecond scale. However, up to now such measurements could be carried out only on molecules in gaseous form because they take place in a high-vacuum chamber."
+    },
+    {
+      "heading": "Delayed transport of electrons from the liquid",
+      "text": "After building novel measuring equipment, Wörner and his colleagues have now succeeded in detecting such movements in liquids. To this end, the researchers made use of photoemission in water: they irradiated water molecules with light, causing them to emit electrons that the scientists could then measure. “We chose to use this process for our investigation because it is possible to start it with high temporal precision using laser pulses,” Wörner says.\n\nThe new measurements also took place in high vacuum. Wörner and his team injected a 25-micrometre-thin water microjet into the measuring chamber. This allowed them to discover that electrons are emitted from water molecules in liquid form 50–70 attoseconds later than from water molecules in vapour form. The time difference is due to the fact that the molecules in liquid form are surrounded by other water molecules, which has a measurable delay effect on individual molecules."
+    },
+    {
+      "heading": "Important step",
+      "text": "“Electron movements are the key events in chemical reactions. That’s why it’s so important to measure them on a high-resolution time scale,” Wörner says. “The step from measurements in gases to measurements in liquids is of particular importance, because most chemical reactions – especially the ones that are biochemically interesting – take place in liquids.”\n\nAmong those, there are numerous processes that, like photoemission in water, are also triggered by light radiation. These include photosynthesis in plants, the biochemical processes on our retina that enable us to see, and damage to DNA caused by X-rays or other ionising radiation. With the help of attosecond measurements, scientists should gain new insights into these processes in the coming years.\n\nJordan I, Huppert M, Rattenbacher D, Peper M, Jelovina D, Perry C, von Conta A, Schild A, Wörner HJ: Attosecond spectroscopy of liquid water. Science 2020, 369: 974, doi: 10.1126/science.abb0979"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 103,
+        "end": 108
+      },
+      {
+        "text": "These days",
+        "label": "DATE",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "a few dozen",
+        "label": "CARDINAL",
+        "start": 202,
+        "end": 213
+      },
+      {
+        "text": "1x10 -18",
+        "label": "MONEY",
+        "start": 257,
+        "end": 265
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 271,
+        "end": 277
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 331,
+        "end": 337
+      },
+      {
+        "text": "these first few dozen",
+        "label": "DATE",
+        "start": 343,
+        "end": 364
+      },
+      {
+        "text": "Hans Jakob Wörner",
+        "label": "PERSON",
+        "start": 464,
+        "end": 481
+      },
+      {
+        "text": "the Laboratory of Physical Chemistry",
+        "label": "ORG",
+        "start": 496,
+        "end": 532
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 536,
+        "end": 546
+      },
+      {
+        "text": "about 10,000",
+        "label": "CARDINAL",
+        "start": 573,
+        "end": 585
+      },
+      {
+        "text": "Five years ago",
+        "label": "DATE",
+        "start": 719,
+        "end": 733
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 739,
+        "end": 742
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 757,
+        "end": 760
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 768,
+        "end": 773
+      },
+      {
+        "text": "Wörner",
+        "label": "PERSON",
+        "start": 42,
+        "end": 48
+      },
+      {
+        "text": "Wörner",
+        "label": "PERSON",
+        "start": 444,
+        "end": 450
+      },
+      {
+        "text": "Electron",
+        "label": "ORG",
+        "start": 1,
+        "end": 9
+      },
+      {
+        "text": "Wörner",
+        "label": "PERSON",
+        "start": 141,
+        "end": 147
+      },
+      {
+        "text": "the coming years",
+        "label": "DATE",
+        "start": 747,
+        "end": 763
+      },
+      {
+        "text": "Jordan",
+        "label": "PERSON",
+        "start": 765,
+        "end": 771
+      },
+      {
+        "text": "Huppert M",
+        "label": "PERSON",
+        "start": 775,
+        "end": 784
+      },
+      {
+        "text": "Perry C",
+        "label": "PERSON",
+        "start": 823,
+        "end": 830
+      },
+      {
+        "text": "Schild A",
+        "label": "WORK_OF_ART",
+        "start": 845,
+        "end": 853
+      },
+      {
+        "text": "Attosecond",
+        "label": "PERSON",
+        "start": 866,
+        "end": 876
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 936,
+        "end": 943
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Attosecond",
+        "Hans Jakob Wörner",
+        "Huppert M",
+        "Jordan",
+        "Perry C",
+        "Wörner"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Electron",
+        "the Laboratory of Physical Chemistry"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Five years ago",
+        "These days",
+        "the coming years",
+        "these first few dozen",
+        "years"
+      ],
+      "MISC": [
+        "10.1126",
+        "1x10 -18",
+        "Schild A",
+        "a few dozen",
+        "about 10,000",
+        "first",
+        "one",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "Wörner": 3,
+      "second": 2,
+      "years": 1,
+      "These days": 1,
+      "a few dozen": 1,
+      "1x10 -18": 1,
+      "these first few dozen": 1,
+      "Hans Jakob Wörner": 1,
+      "the Laboratory of Physical Chemistry": 1,
+      "ETH Zurich": 1,
+      "about 10,000": 1,
+      "Five years ago": 1,
+      "ETH": 1,
+      "one": 1,
+      "first": 1,
+      "Electron": 1,
+      "the coming years": 1,
+      "Jordan": 1,
+      "Huppert M": 1,
+      "Perry C": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "electron-movements-in-liquid-measured-in-super-slow-motion.md",
+      "title": "En News Events/2020/08/electron Movements in Liquid Measured in Super Slow Motion",
+      "language": "en",
+      "source_path": "en_news_events/2020/08/electron-movements-in-liquid-measured-in-super-slow-motion.html"
+    },
+    "temporal": {
+      "publication_date": "2020-08",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Attosecond",
+        "Hans Jakob Wörner",
+        "Huppert M",
+        "Jordan",
+        "Perry C",
+        "Wörner"
+      ],
+      "people_with_roles": {
+        "Attosecond": [
+          "scientist",
+          "professor"
+        ],
+        "Hans Jakob Wörner": [
+          "professor"
+        ],
+        "Wörner": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1126",
+        "1x10 -18",
+        "Schild A",
+        "a few dozen",
+        "about 10,000",
+        "first",
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Motion To",
+        "En News",
+        "Huppert M",
+        "Rattenbacher D",
+        "Physical Chemistry",
+        "Super Slow",
+        "Schild A",
+        "Perry C",
+        "Jordan I",
+        "Hans Jakob",
+        "Liquid Measured",
+        "Peper M",
+        "Conta A",
+        "ETH Zurich",
+        "Jelovina D"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Electron",
+        "the Laboratory of Physical Chemistry"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Wörner",
+        "second",
+        "years",
+        "These days",
+        "a few dozen",
+        "1x10 -18",
+        "these first few dozen",
+        "Hans Jakob Wörner",
+        "the Laboratory of Physical Chemistry",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Delayed transport of electrons from the liquid",
+          "Delayed transport of electrons from the liquid",
+          "Important step"
+        ],
+        "content_length": 2988
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Wörner",
+        "ETH",
+        "Huppert M",
+        "the Laboratory of Physical Chemistry",
+        "Attosecond",
+        "2020",
+        "Hans Jakob Wörner",
+        "Perry C",
+        "ETH Zurich",
+        "Jordan",
+        "Electron"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "a few dozen",
+        "1x10 -18",
+        "Schild A",
+        "10.1126",
+        "chemistry",
+        "what",
+        "second",
+        "how",
+        "why",
+        "when",
+        "where",
+        "about 10,000"
+      ],
+      "graph_relations": [
+        "Attosecond_has_role_scientist",
+        "Attosecond_has_role_professor",
+        "Hans Jakob Wörner_has_role_professor",
+        "Wörner_has_role_professor",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

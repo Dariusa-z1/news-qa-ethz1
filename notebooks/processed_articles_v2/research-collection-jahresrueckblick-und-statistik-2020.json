@@ -1,0 +1,146 @@
+{
+  "filename": "research-collection-jahresrueckblick-und-statistik-2020.md",
+  "original_filename": "research-collection-jahresrueckblick-und-statistik-2020.html",
+  "source_path": "en_internal/2021/01/research-collection-jahresrueckblick-und-statistik-2020.html",
+  "date": "2021-01",
+  "title": "Research Collection Jahresrueckblick Und Statistik 2020",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A balanced country ranking",
+      "text": "For a clear overview, please see the infographic for 2020.\n\nThe Research Collection is the publication platform of ETH Zurich. University members can use it to publish academic full texts on an open-access basis, as well as to archive research data or to make these available to the public."
+    },
+    {
+      "heading": "Subscribe to Newsletter",
+      "text": "More than just data – Benefit from know-how\n\n#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Research Collection",
+        "label": "ORG",
+        "start": 59,
+        "end": 82
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 114,
+        "end": 124
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 86,
+        "end": 101
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "The Research Collection",
+        "the ETH Library"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "The Research Collection": 1,
+      "ETH Zurich": 1,
+      "the ETH Library": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "research-collection-jahresrueckblick-und-statistik-2020.md",
+      "title": "En Internal/2021/01/research Collection Jahresrueckblick und Statistik 2020",
+      "language": "en",
+      "source_path": "en_internal/2021/01/research-collection-jahresrueckblick-und-statistik-2020.html"
+    },
+    "temporal": {
+      "publication_date": "2021-01",
+      "mentioned_years": [
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "The Research",
+        "ETH Library",
+        "En Internal",
+        "ETH Zurich",
+        "Collection Jahresrueckblick"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "The Research Collection",
+        "the ETH Library"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "The Research Collection",
+        "ETH Zurich",
+        "the ETH Library"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "A balanced country ranking",
+          "Subscribe to Newsletter"
+        ],
+        "content_length": 523
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2020",
+        "The Research Collection",
+        "ETH Zurich",
+        "2021",
+        "the ETH Library"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "where",
+        "how"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

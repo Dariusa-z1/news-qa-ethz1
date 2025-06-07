@@ -1,0 +1,361 @@
+{
+  "filename": "nanosphere-sensor.md",
+  "original_filename": "nanosphere-sensor.html",
+  "source_path": "en_news_events/2017/06/nanosphere-sensor.html",
+  "date": "2017-06",
+  "title": "Nanosphere Sensor",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Nanosphere in a laser beam",
+      "text": "A tiny sphere and a laser beam inside of which it hovers as if by magic – with these simple ingredients Martin Frimmer and co-workers at the Photonics Laboratory of ETH Zurich have developed a highly sensitive sensor. In the future this device is expected to measure, amongst other things, extremely weak forces or electric fields very precisely. Now the researchers have taken a major step in that direction, as they write in a recently published scientific paper."
+    },
+    {
+      "heading": "Nanosphere in a laser beam",
+      "text": "Martin Frimmer, a post-doctoral researcher in the group of ETH professor Lukas Novotny, explains the working principle of a sensor very plausibly: “First I need to know how the object acting as a sensor is influenced by its environment. Anything that happens beyond that influence tells me: there is a force at work.” In practice this usually means that interactions with the environment should be kept at a minimum in order to maximize the sensitivity of the sensor to the forces one wants to measure.\n\nThe scientists achieved precisely that by trapping a silica nanoparticle, whose diameter is about a hundred times smaller than a human hair, using a focused laser beam. The beam creates “optical tweezers” in which the nanosphere is held in the focus of the beam by light forces. If an additional force acts on the sphere, it is shifted from is rest position, which in turn can be measured with the help of a laser beam."
+    },
+    {
+      "heading": "Discharging by high voltage",
+      "text": "Since the optical tweezers keep the nanosphere hovering in midair without any mechanical contact, the influence of the environment can easily be reduced to a minimum. To do so, Frimmer and his team place the optical tweezers inside a vacuum chamber so that there are virtually no more collisions with air molecules. The only thing left now that could create a disturbance is a possible electric charge on the nanoparticle. Owing to such a charge, insufficiently screened electric fields could influence the sphere and, therefore, a possible measurement. For this reason the ETH researchers have now developed a simple but highly efficient method by which the charge on the sphere can be neutralised.\n\nTo this end they mounted a wire inside the vacuum chamber that was connected to a 7000 volt high-voltage generator. The high voltage caused the air molecules to be ionized, i.e., to be split into negatively charged electrons and positively charged ions. Either of those could now jump onto the nanosphere and make its charge more positive or more negative.\n\nTo measure the charge carried by the sphere at any given moment, the physicists exposed it to an oscillating electric field and observed how strongly the sphere reacted to that. In this way they were able to confirm that the charge of the sphere changed in steps of exactly one elementary charge (i.e., the charge of an electron) to the negative or to the positive. When the high voltage is switched off, the sphere’s instantaneous charge remains constant for days."
+    },
+    {
+      "heading": "Gravity and quantum mechanics",
+      "text": "This perfect control allows the scientists to completely neutralize the electric charge on the nanoparticle. As a result, electric fields no longer have any effect on the sphere, which makes it possible to precisely measure other very weak forces. One such force is gravity. Martin Frimmer speculates, albeit cautiously, that in future the nano-sensor he developed should enable studies of the interplay between gravity and quantum mechanics.\n\nBy clever manipulation of the optical tweezers the researchers can already cool the sphere down to below a ten thousandth of a degree above absolute zero. For even lower temperatures the nanoparticle is expected to start behaving quantum mechanically, so that phenomena such as quantum superpositions and their dependence on gravity can be observed.\n\nInteresting applications of the sensor also present themselves in everyday contexts, such as the measurement of accelerations. Since the charge of the nanosphere cannot only be neutralized, but also set to a well-defined value at will, the sensor is equally suitable for precision measurements of electric fields.\n\nFrimmer M, Luszcz K, Ferreiro S, Jain V, Hebestreit E, Novotny L: Controlling the net charge on a nanoparticle optically levitated in vacuum. Physical Review A 2017, 95, 061801(R), doi: 10.1103/PhysRevA.95.061801"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Martin Frimmer",
+        "label": "PERSON",
+        "start": 104,
+        "end": 118
+      },
+      {
+        "text": "the Photonics Laboratory",
+        "label": "ORG",
+        "start": 137,
+        "end": 161
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 165,
+        "end": 175
+      },
+      {
+        "text": "Martin Frimmer",
+        "label": "PERSON",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 59,
+        "end": 62
+      },
+      {
+        "text": "Lukas Novotny",
+        "label": "PERSON",
+        "start": 73,
+        "end": 86
+      },
+      {
+        "text": "about a hundred",
+        "label": "CARDINAL",
+        "start": 595,
+        "end": 610
+      },
+      {
+        "text": "Frimmer",
+        "label": "PERSON",
+        "start": 177,
+        "end": 184
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 574,
+        "end": 577
+      },
+      {
+        "text": "days",
+        "label": "DATE",
+        "start": 1517,
+        "end": 1521
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 248,
+        "end": 251
+      },
+      {
+        "text": "Martin Frimmer",
+        "label": "PERSON",
+        "start": 275,
+        "end": 289
+      },
+      {
+        "text": "albeit cautiously",
+        "label": "PERSON",
+        "start": 302,
+        "end": 319
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 550,
+        "end": 553
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 592,
+        "end": 596
+      },
+      {
+        "text": "Frimmer M",
+        "label": "ORG",
+        "start": 1107,
+        "end": 1116
+      },
+      {
+        "text": "Luszcz K",
+        "label": "ORG",
+        "start": 1118,
+        "end": 1126
+      },
+      {
+        "text": "Ferreiro S",
+        "label": "PERSON",
+        "start": 1128,
+        "end": 1138
+      },
+      {
+        "text": "Physical Review",
+        "label": "ORG",
+        "start": 1249,
+        "end": 1264
+      },
+      {
+        "text": "10.1103",
+        "label": "CARDINAL",
+        "start": 1293,
+        "end": 1300
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Ferreiro S",
+        "Frimmer",
+        "Lukas Novotny",
+        "Martin Frimmer",
+        "albeit cautiously"
+      ],
+      "ORG": [
+        "ETH",
+        "Frimmer M",
+        "Luszcz K",
+        "Physical Review",
+        "the Photonics Laboratory"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "days"
+      ],
+      "MISC": [
+        "10.1103",
+        "One",
+        "about a hundred",
+        "ten",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "Martin Frimmer": 3,
+      "ETH": 2,
+      "the Photonics Laboratory": 1,
+      "ETH Zurich": 1,
+      "Lukas Novotny": 1,
+      "about a hundred": 1,
+      "Frimmer": 1,
+      "days": 1,
+      "One": 1,
+      "albeit cautiously": 1,
+      "ten": 1,
+      "zero": 1,
+      "Frimmer M": 1,
+      "Luszcz K": 1,
+      "Ferreiro S": 1,
+      "Physical Review": 1,
+      "10.1103": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "nanosphere-sensor.md",
+      "title": "En News Events/2017/06/nanosphere Sensor",
+      "language": "en",
+      "source_path": "en_news_events/2017/06/nanosphere-sensor.html"
+    },
+    "temporal": {
+      "publication_date": "2017-06",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Ferreiro S",
+        "Frimmer",
+        "Lukas Novotny",
+        "Martin Frimmer",
+        "albeit cautiously"
+      ],
+      "people_with_roles": {
+        "Frimmer": [
+          "researcher",
+          "professor"
+        ],
+        "Lukas Novotny": [
+          "researcher",
+          "professor"
+        ],
+        "Martin Frimmer": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1103",
+        "about a hundred",
+        "zero"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Lukas Novotny",
+        "Sensor A",
+        "Ferreiro S",
+        "En News",
+        "Luszcz K",
+        "Jain V",
+        "Physical Review",
+        "First I",
+        "Hebestreit E",
+        "Frimmer M",
+        "Martin Frimmer",
+        "ETH Zurich",
+        "Novotny L",
+        "Photonics Laboratory"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Frimmer M",
+        "Luszcz K",
+        "Physical Review",
+        "the Photonics Laboratory"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Martin Frimmer",
+        "ETH",
+        "the Photonics Laboratory",
+        "ETH Zurich",
+        "Lukas Novotny",
+        "about a hundred",
+        "Frimmer",
+        "days",
+        "One",
+        "albeit cautiously"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Nanosphere in a laser beam",
+          "Nanosphere in a laser beam",
+          "Discharging by high voltage",
+          "Gravity and quantum mechanics"
+        ],
+        "content_length": 4278
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Lukas Novotny",
+        "ETH",
+        "Ferreiro S",
+        "albeit cautiously",
+        "Luszcz K",
+        "Physical Review",
+        "2017",
+        "EU",
+        "Frimmer",
+        "Frimmer M",
+        "Martin Frimmer",
+        "ETH Zurich",
+        "the Photonics Laboratory"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "zero",
+        "who",
+        "about a hundred",
+        "where",
+        "what",
+        "how",
+        "10.1103",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Frimmer_has_role_researcher",
+        "Frimmer_has_role_professor",
+        "Lukas Novotny_has_role_researcher",
+        "Lukas Novotny_has_role_professor",
+        "Martin Frimmer_has_role_researcher",
+        "Martin Frimmer_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "filename": "autonomous-robot-dogs-drones-and-racing-cars.md",
+  "original_filename": "autonomous-robot-dogs-drones-and-racing-cars.html",
+  "source_path": "en_news_events/2023/08/autonomous-robot-dogs-drones-and-racing-cars.html",
+  "date": "2023-08",
+  "title": "Autonomous Robot Dogs Drones And Racing Cars",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The video presents three of these projects: autonomous racing, autonomous drones and robotic dogs. These projects are not only a good learning experience for the students, but can also be applied in practice, for example to support the visually impaired or to reach places that are difficult for humans to access during natural disasters.\n\nThe D-ITET Center for Project-Based Learning will be present at this year's Scientifica.\n\nCome to the Hönggerberg Campus, the Irchel Campus or the main buildings of ETH Zurich and the University of Zurich on 2 and 3 September , ask researchers your questions, and immerse yourself in the fascinating world of science.\n\nYou can find the whole programme of the Science Festival on the scientifica website ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Robot Dogs Drones",
+        "label": "ORG",
+        "start": 34,
+        "end": 51
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 19,
+        "end": 24
+      },
+      {
+        "text": "The D-ITET Center for Project-Based Learning",
+        "label": "ORG",
+        "start": 339,
+        "end": 383
+      },
+      {
+        "text": "year",
+        "label": "DATE",
+        "start": 408,
+        "end": 412
+      },
+      {
+        "text": "Scientifica",
+        "label": "LOC",
+        "start": 415,
+        "end": 426
+      },
+      {
+        "text": "the Hönggerberg Campus",
+        "label": "FAC",
+        "start": 436,
+        "end": 458
+      },
+      {
+        "text": "the Irchel Campus",
+        "label": "ORG",
+        "start": 460,
+        "end": 477
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 503,
+        "end": 513
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 518,
+        "end": 542
+      },
+      {
+        "text": "2 and 3 September",
+        "label": "DATE",
+        "start": 546,
+        "end": 563
+      },
+      {
+        "text": "the Science Festival",
+        "label": "EVENT",
+        "start": 692,
+        "end": 712
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "Robot Dogs Drones",
+        "The D-ITET Center for Project-Based Learning",
+        "the Irchel Campus",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Scientifica",
+        "the Hönggerberg Campus"
+      ],
+      "DATE": [
+        "2 and 3 September",
+        "year"
+      ],
+      "MISC": [
+        "the Science Festival",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Robot Dogs Drones": 1,
+      "three": 1,
+      "The D-ITET Center for Project-Based Learning": 1,
+      "year": 1,
+      "Scientifica": 1,
+      "the Hönggerberg Campus": 1,
+      "the Irchel Campus": 1,
+      "ETH Zurich": 1,
+      "the University of Zurich": 1,
+      "2 and 3 September": 1,
+      "the Science Festival": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "autonomous-robot-dogs-drones-and-racing-cars.md",
+      "title": "En News Events/2023/08/autonomous Robot Dogs Drones And Racing Cars",
+      "language": "en",
+      "source_path": "en_news_events/2023/08/autonomous-robot-dogs-drones-and-racing-cars.html"
+    },
+    "temporal": {
+      "publication_date": "2023-08",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "the Science Festival",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The D",
+        "Racing Cars",
+        "En News",
+        "Irchel Campus",
+        "Drones And",
+        "Robot Dogs",
+        "Project-Based",
+        "Science Festival",
+        "ETH Zurich",
+        "ITET Center"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Robot Dogs Drones",
+        "The D-ITET Center for Project-Based Learning",
+        "the Irchel Campus",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Scientifica",
+        "the Hönggerberg Campus"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Robot Dogs Drones",
+        "three",
+        "The D-ITET Center for Project-Based Learning",
+        "year",
+        "Scientifica",
+        "the Hönggerberg Campus",
+        "the Irchel Campus",
+        "ETH Zurich",
+        "the University of Zurich",
+        "2 and 3 September"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 812
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Robot Dogs Drones",
+        "the Irchel Campus",
+        "The D-ITET Center for Project-Based Learning",
+        "the University of Zurich",
+        "ETH Zurich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "who",
+        "the Science Festival",
+        "what",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

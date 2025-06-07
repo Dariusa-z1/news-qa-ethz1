@@ -1,0 +1,141 @@
+{
+  "filename": "de_internal_2019_07_neue-themen-an-oeffentlichen-fuehrungen-entdecken-.md",
+  "original_filename": "de_internal_2019_07_neue-themen-an-oeffentlichen-fuehrungen-entdecken-.html",
+  "source_path": "de_internal/2019/07/neue-themen-an-oeffentlichen-fuehrungen-entdecken-.html",
+  "date": "2019-07",
+  "title": "Neue Themen An Oeffentlichen Fuehrungen Entdecken",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Auch in der zweiten Jahreshälfte beantworten Ihnen unsere Führungen Fragen, die Sie sich vielleicht noch gar nicht gestellt haben:\n\nErfahren Sie die Antworten dieser und weiterer Fragen an den öffentlichen Führungen der Sammlungen und Archive sowie der Abteilung Services der ETH Zürich.\n\nDie kostenlosen öffentlichen Führungen finden jeweils dienstags von 18.15 bis 19.15 Uhr statt.\n\nAlle Führungen der Sammlungen und Archive der ETH-Bibliothek auf einen Blick"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/07/neue Themen",
+        "label": "LOC",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "Oeffentlichen Fuehrungen Entdecken",
+        "label": "MISC",
+        "start": 35,
+        "end": 69
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 275,
+        "end": 285
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 428,
+        "end": 442
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2019/07/neue Themen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "Oeffentlichen Fuehrungen Entdecken"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2019/07/neue Themen": 1,
+      "Oeffentlichen Fuehrungen Entdecken": 1,
+      "ETH Zürich": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_07_neue-themen-an-oeffentlichen-fuehrungen-entdecken-.md",
+      "title": "De Internal/2019/07/neue Themen an Oeffentlichen Fuehrungen Entdecken",
+      "language": "de",
+      "source_path": "de_internal/2019/07/neue-themen-an-oeffentlichen-fuehrungen-entdecken-.html"
+    },
+    "temporal": {
+      "publication_date": "2019-07",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "Oeffentlichen Fuehrungen Entdecken"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Abteilung Services",
+        "ETH-Bibliothek",
+        "Entdecken Auch",
+        "De Internal",
+        "Erfahren Sie",
+        "Oeffentlichen Fuehrungen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2019/07/neue Themen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2019/07/neue Themen",
+        "Oeffentlichen Fuehrungen Entdecken",
+        "ETH Zürich",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 531
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "EU",
+        "2019"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "Oeffentlichen Fuehrungen Entdecken"
+      ],
+      "graph_relations": []
+    }
+  }
+}

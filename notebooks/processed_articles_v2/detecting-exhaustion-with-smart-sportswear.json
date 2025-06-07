@@ -1,0 +1,421 @@
+{
+  "filename": "detecting-exhaustion-with-smart-sportswear.md",
+  "original_filename": "detecting-exhaustion-with-smart-sportswear.html",
+  "source_path": "en_news_events/2023/03/detecting-exhaustion-with-smart-sportswear.html",
+  "date": "2023-03",
+  "title": "Detecting Exhaustion With Smart Sportswear",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Abstract",
+      "text": "- A new textile sensor measures body movements very precisely without the need for electronic components such as batteries or chips.\n\n- Integrated into work and sports clothing, the sensor can predict in real time how exhausted you are during physical exertion.\n\n- The sensor is made of a special yarn that expands when you pull on it thereby generating an electrical signal.\n\n- The textile sensor can be used to prevent fatigue-related injuries in sports or at the workplace."
+    },
+    {
+      "heading": "An extraordinary yarn",
+      "text": "Exhaustion makes us more prone to injury when we’re exercising or performing physical tasks. A group of ETH Zurich researchers led by Professor Carlo Menon, Head of the Biomedical and Mobile Health Technology Lab, have now developed a textile sensor that produces real-time measurements of how exhausted a person gets during physical exertion. To test their new sensor, they integrated it into a pair of athletic leggings. Simply by glancing at their smartphone, testers were able to see when they were reaching their limit and if they ought to take a break.\n\nThis invention, for which ETH Zurich has filed a patent, could pave the way for a new generation of smart clothing: many of the products currently on the market have electronic components such as sensors, batteries or chips retrofitted to them. In addition to pushing up prices, this makes these articles difficult to manufacture and maintain.\n\nBy way of contrast, the ETH researchers’ stretchable sensor can be integrated directly into the material fibres of stretchy, close-fitting sportswear or work clothing. This makes large-scale production both easier and cheaper. Menon highlights another benefit: “Since the sensor is located so close to the body, we can capture body movements very precisely without the wearer even noticing.”"
+    },
+    {
+      "heading": "An extraordinary yarn",
+      "text": "When people get tired, they move differently – and running is no exception: strides shorten and become less regular. Using their new sensor, which is made of a special type of yarn, the ETH researchers can measure this effect.\n\nIt’s all thanks to the yarn’s structure: the inner fibre is made of a conductive, elastic rubber.. The researchers wrapped a rigid wire, which is clad in a thin layer of plastic, into a spiral around this inner fibre. “These two fibres act as electrodes and create an electric field. Together, they form a capacitor that can hold an electric charge,” says Tyler Cuthbert, a postdoc in Menon’s group, who was instrumental in the research and development that led to the invention."
+    },
+    {
+      "heading": "Smart running leggings",
+      "text": "Stitching this yarn into the thigh section of a pair of stretchy running leggings means that it will stretch and slacken at a certain rhythm as the wearer runs. Each movement alters the gap between the two fibres, and thus also the electric field and the capacitor’s charge."
+    },
+    {
+      "heading": "Applications include sport and workplace",
+      "text": "Under normal circumstances, these charge fluctuations would be much too small to help measure the body’s movements. However, the properties of this yarn are anything but normal: “Unlike most other materials, ours actually becomes thicker when stretched,” Cuthbert says. As a result, the yarn is considerably more sensitive to minimal movements. Stretching it even a little produces distinctly measurable fluctuations in the sensor’s charge. This makes it possible to measure and analyse even subtle changes in running form."
+    },
+    {
+      "heading": "Reference",
+      "text": "But how can this be used to determine a person’s exhaustion level? In previous research, Cuthbert and Menon observed a series of testers, who ran while wearing athletic leggings equipped with a similar sensor. They recorded how the electric signals changed as the runners got more and more tired. Their next step was to turn this pattern into a model capable of predicting runners’ exhaustion which can now be used for their novel textile sensor. But ensuring that the model can make accurate predictions outside the lab will require a lot of additional tests and masses of gait pattern data.\n\nTo enable the textile sensor to send electrical signals wirelessly to a smartphone, the researchers equipped it with a loop antenna made of conducting yarn, which was also sewn directly onto the leggings. “Together, the sensor and antenna form an electrical circuit that is fully integrated into the item of clothing,” says Valeria Galli, a doctoral student in Menon’s group.\n\nThe electrical signal travels from the stretchable sensor to the antenna, which transmits it at a certain frequency capable of being read by a smartphone. The wearer runs and the sensor moves, creating a signal pattern with a continuously fluctuating frequency, which a smartphone app then records and evaluates in real time. But the researchers still have quite a bit of development work to do to make this happen.\n\nAt the moment, the researchers are working on turning their prototype into a market-ready product. To this end, they are applying for one of ETH Zurich’s sought-after Pioneer Fellowships. “Our goal is to make the manufacture of smart clothing cost-effective and thus make it available to a broader public,” Menon says. He sees the potential applications stretching beyond sport to the workplace – to prevent exhaustion-related injuries – as well as to rehabilitation medicine.\n\nCuthbert T, Hannigan B, Roberjot P, Shokurov A, Menon C. HACS: Helical Auxetic Yarn Capacitive Strain Sensors with Sensitivity Beyond the Theoretical Limit. Advanced Materials , 2023. doi: 10.1002/adma.202209321"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 104,
+        "end": 114
+      },
+      {
+        "text": "Carlo Menon",
+        "label": "PERSON",
+        "start": 144,
+        "end": 155
+      },
+      {
+        "text": "Mobile Health Technology Lab",
+        "label": "ORG",
+        "start": 184,
+        "end": 212
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 585,
+        "end": 595
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 927,
+        "end": 930
+      },
+      {
+        "text": "Menon",
+        "label": "GPE",
+        "start": 1130,
+        "end": 1135
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 186,
+        "end": 189
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 452,
+        "end": 455
+      },
+      {
+        "text": "Tyler Cuthbert",
+        "label": "PERSON",
+        "start": 583,
+        "end": 597
+      },
+      {
+        "text": "Menon",
+        "label": "GPE",
+        "start": 612,
+        "end": 617
+      },
+      {
+        "text": "wearer",
+        "label": "ORG",
+        "start": 148,
+        "end": 154
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 202,
+        "end": 205
+      },
+      {
+        "text": "Cuthbert",
+        "label": "PERSON",
+        "start": 255,
+        "end": 263
+      },
+      {
+        "text": "Cuthbert",
+        "label": "PERSON",
+        "start": 89,
+        "end": 97
+      },
+      {
+        "text": "Menon",
+        "label": "GPE",
+        "start": 102,
+        "end": 107
+      },
+      {
+        "text": "Valeria Galli",
+        "label": "PERSON",
+        "start": 917,
+        "end": 930
+      },
+      {
+        "text": "Menon",
+        "label": "GPE",
+        "start": 954,
+        "end": 959
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1519,
+        "end": 1522
+      },
+      {
+        "text": "Pioneer Fellowships",
+        "label": "PERSON",
+        "start": 1552,
+        "end": 1571
+      },
+      {
+        "text": "Menon",
+        "label": "PERSON",
+        "start": 1692,
+        "end": 1697
+      },
+      {
+        "text": "Hannigan",
+        "label": "GPE",
+        "start": 1874,
+        "end": 1882
+      },
+      {
+        "text": "Shokurov A",
+        "label": "PERSON",
+        "start": 1898,
+        "end": 1908
+      },
+      {
+        "text": "Menon C. HACS",
+        "label": "PERSON",
+        "start": 1910,
+        "end": 1923
+      },
+      {
+        "text": "10.1002",
+        "label": "CARDINAL",
+        "start": 2051,
+        "end": 2058
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Carlo Menon",
+        "Cuthbert",
+        "Menon",
+        "Menon C. HACS",
+        "Pioneer Fellowships",
+        "Shokurov A",
+        "Tyler Cuthbert",
+        "Valeria Galli"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Mobile Health Technology Lab",
+        "wearer"
+      ],
+      "LOCATION": [
+        "Hannigan",
+        "Menon"
+      ],
+      "DATE": [],
+      "MISC": [
+        "10.1002",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Menon": 5,
+      "ETH Zurich": 2,
+      "ETH": 2,
+      "two": 2,
+      "Cuthbert": 2,
+      "En News": 1,
+      "Carlo Menon": 1,
+      "Mobile Health Technology Lab": 1,
+      "Tyler Cuthbert": 1,
+      "wearer": 1,
+      "Valeria Galli": 1,
+      "one": 1,
+      "Pioneer Fellowships": 1,
+      "Hannigan": 1,
+      "Shokurov A": 1,
+      "Menon C. HACS": 1,
+      "10.1002": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "detecting-exhaustion-with-smart-sportswear.md",
+      "title": "En News Events/2023/03/detecting Exhaustion With Smart Sportswear",
+      "language": "en",
+      "source_path": "en_news_events/2023/03/detecting-exhaustion-with-smart-sportswear.html"
+    },
+    "temporal": {
+      "publication_date": "2023-03",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Carlo Menon",
+        "Cuthbert",
+        "Menon",
+        "Menon C. HACS",
+        "Pioneer Fellowships",
+        "Shokurov A",
+        "Tyler Cuthbert",
+        "Valeria Galli"
+      ],
+      "people_with_roles": {
+        "Carlo Menon": [
+          "Professor",
+          "researcher",
+          "head",
+          "professor"
+        ],
+        "Menon": [
+          "student",
+          "researcher",
+          "head",
+          "professor"
+        ],
+        "Valeria Galli": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1002"
+      ],
+      "grants_funding": [
+        "ERC",
+        "fellowship"
+      ],
+      "projects": [
+        "Strain Sensors",
+        "Theoretical Limit",
+        "Yarn Capacitive",
+        "Professor Carlo",
+        "Exhaustion With",
+        "Pioneer Fellowships",
+        "Helical Auxetic",
+        "Smart Sportswear",
+        "Mobile Health",
+        "Tyler Cuthbert",
+        "Shokurov A",
+        "Hannigan B",
+        "En News",
+        "Technology Lab",
+        "Menon C",
+        "Roberjot P",
+        "Sensitivity Beyond",
+        "Advanced Materials",
+        "Cuthbert T",
+        "Valeria Galli",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Mobile Health Technology Lab",
+        "wearer"
+      ],
+      "locations": [
+        "Hannigan",
+        "Menon"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Menon",
+        "ETH Zurich",
+        "ETH",
+        "two",
+        "Cuthbert",
+        "En News",
+        "Carlo Menon",
+        "Mobile Health Technology Lab",
+        "Tyler Cuthbert",
+        "wearer"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Abstract",
+          "An extraordinary yarn",
+          "An extraordinary yarn",
+          "Smart running leggings",
+          "Applications include sport and workplace",
+          "Reference"
+        ],
+        "content_length": 5424
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Menon",
+        "ETH",
+        "Carlo Menon",
+        "Menon C. HACS",
+        "Shokurov A",
+        "En News",
+        "fellowship",
+        "wearer",
+        "Valeria Galli",
+        "Mobile Health Technology Lab",
+        "Cuthbert",
+        "ETH Zurich",
+        "Tyler Cuthbert",
+        "ERC",
+        "Pioneer Fellowships",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "10.1002",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Carlo Menon_has_role_Professor",
+        "Carlo Menon_has_role_researcher",
+        "Carlo Menon_has_role_head",
+        "Carlo Menon_has_role_professor",
+        "Menon_has_role_student",
+        "Menon_has_role_researcher",
+        "Menon_has_role_head",
+        "Menon_has_role_professor",
+        "Valeria Galli_has_role_student",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

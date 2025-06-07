@@ -1,0 +1,210 @@
+{
+  "filename": "kunstinventar-der-eth-zuerich-online.md",
+  "original_filename": "kunstinventar-der-eth-zuerich-online.html",
+  "source_path": "de_internal/2016/03/kunstinventar-der-eth-zuerich-online.html",
+  "date": "2016-03",
+  "title": "Kunstinventar Der Eth Zuerich Online",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Es handelt sich um Plastiken, Gemälde, Porträts bekannter Persönlichkeiten, Büsten, Kunst am Bau oder Abgüsse. Hierunter befinden sich vor allem Werke von Schweizer Künstlern wie Gottfried Honegger, Augusto Giacometti, Wilhelm Ludwig Lehmann, Stefan Gritsch und Roman Signer.\n\nETH E-Pics Kunstinventar"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/03/kunstinventar",
+        "label": "LOC",
+        "start": 0,
+        "end": 33
+      },
+      {
+        "text": "Eth Zuerich Online",
+        "label": "ORG",
+        "start": 38,
+        "end": 56
+      },
+      {
+        "text": "Hierunter",
+        "label": "PER",
+        "start": 111,
+        "end": 120
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 155,
+        "end": 164
+      },
+      {
+        "text": "Gottfried Honegger",
+        "label": "PER",
+        "start": 179,
+        "end": 197
+      },
+      {
+        "text": "Augusto Giacometti",
+        "label": "PER",
+        "start": 199,
+        "end": 217
+      },
+      {
+        "text": "Wilhelm Ludwig Lehmann",
+        "label": "PER",
+        "start": 219,
+        "end": 241
+      },
+      {
+        "text": "Stefan Gritsch",
+        "label": "PER",
+        "start": 243,
+        "end": 257
+      },
+      {
+        "text": "Roman Signer",
+        "label": "PER",
+        "start": 262,
+        "end": 274
+      },
+      {
+        "text": "ETH E-Pics Kunstinventar",
+        "label": "ORG",
+        "start": 276,
+        "end": 300
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Augusto Giacometti",
+        "Gottfried Honegger",
+        "Hierunter",
+        "Roman Signer",
+        "Stefan Gritsch",
+        "Wilhelm Ludwig Lehmann"
+      ],
+      "ORG": [
+        "ETH E-Pics Kunstinventar",
+        "Eth Zuerich Online"
+      ],
+      "LOCATION": [
+        "De Internal/2016/03/kunstinventar"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2016/03/kunstinventar": 1,
+      "Eth Zuerich Online": 1,
+      "Hierunter": 1,
+      "Schweizer": 1,
+      "Gottfried Honegger": 1,
+      "Augusto Giacometti": 1,
+      "Wilhelm Ludwig Lehmann": 1,
+      "Stefan Gritsch": 1,
+      "Roman Signer": 1,
+      "ETH E-Pics Kunstinventar": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "kunstinventar-der-eth-zuerich-online.md",
+      "title": "De Internal/2016/03/kunstinventar der Eth Zuerich Online",
+      "language": "de",
+      "source_path": "de_internal/2016/03/kunstinventar-der-eth-zuerich-online.html"
+    },
+    "temporal": {
+      "publication_date": "2016-03",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Augusto Giacometti",
+        "Gottfried Honegger",
+        "Hierunter",
+        "Roman Signer",
+        "Stefan Gritsch",
+        "Wilhelm Ludwig Lehmann"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Schweizer"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Gottfried Honegger",
+        "Stefan Gritsch",
+        "Roman Signer",
+        "De Internal",
+        "Online Es",
+        "Augusto Giacometti",
+        "Eth Zuerich",
+        "ETH E",
+        "Wilhelm Ludwig",
+        "Pics Kunstinventar"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH E-Pics Kunstinventar",
+        "Eth Zuerich Online"
+      ],
+      "locations": [
+        "De Internal/2016/03/kunstinventar"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2016/03/kunstinventar",
+        "Eth Zuerich Online",
+        "Hierunter",
+        "Schweizer",
+        "Gottfried Honegger",
+        "Augusto Giacometti",
+        "Wilhelm Ludwig Lehmann",
+        "Stefan Gritsch",
+        "Roman Signer",
+        "ETH E-Pics Kunstinventar"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 358
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Gottfried Honegger",
+        "Stefan Gritsch",
+        "Roman Signer",
+        "Hierunter",
+        "2016",
+        "Augusto Giacometti",
+        "ETH E-Pics Kunstinventar",
+        "Eth Zuerich Online",
+        "Wilhelm Ludwig Lehmann"
+      ],
+      "semantic_concepts": [
+        "Schweizer"
+      ],
+      "graph_relations": []
+    }
+  }
+}

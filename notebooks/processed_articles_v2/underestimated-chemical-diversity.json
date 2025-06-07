@@ -1,0 +1,539 @@
+{
+  "filename": "underestimated-chemical-diversity.md",
+  "original_filename": "underestimated-chemical-diversity.html",
+  "source_path": "en_news_events/2020/02/underestimated-chemical-diversity.html",
+  "date": "2020-02",
+  "title": "Underestimated Chemical Diversity",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Global market",
+      "text": "The last time a list was compiled of all the chemicals available on the market and in circulation worldwide, it ran to 100,000 entries. Drawn up shortly after the turn of the millennium, the list focused on markets in the US, Canada and western Europe, which made sense because 20 years ago, these countries accounted for more than two thirds of worldwide chemical sales."
+    },
+    {
+      "heading": "Global market",
+      "text": "Things have changed dramatically since then. First, turnover has more than doubled, reaching EUR 3.4 billion in 2017; second, the global west now participates in just a third of the worldwide chemical trade, whereas China alone accounts for 37 percent of turnover. “We broadened our scope to take in the global market – and we’re now presenting a first comprehensive overview of all chemicals available worldwide,” says Zhanyun Wang, Senior Scientist at the Department of Civil, Environmental and Geomatic Engineering at ETH Zurich.\n\nWorking with a team of international experts, Wang brought together data from 22 registers covering 19 countries and regions (including the EU). The new list contains 350,000 entries. “The chemical diversity we know now is three times greater than 20 years ago,” says Wang. This, he says, is primarily because a larger number of registers are now taken into account: “As a result, our new list includes many chemicals that are registered in developing and transition countries, which are often with limited oversight.”"
+    },
+    {
+      "heading": "Confidential business information",
+      "text": "On its own, this comprehensive list cannot provide information about which chemicals are hazardous to health or the environment, for example. “Our inventory is only the first step in the substances’ characterisation,” says Wang, adding that previous work suggested that some 3 percent of all chemicals may give cause for concern. If you apply this figure to the new multitude of chemicals, 6,000 new potentially problematic substances could be expected, he says.\n\nFar more astonishing for Wang was the fact that a good third of all chemicals have inadequate descriptions in the various registers. About 70,000 entries are for mixtures and polymers (such as petroleum resin), with no details provided about the individual components. Another 50,000 entries relate to chemicals where the identities are considered confidential business information and are therefore not publicly accessible. “Only the manufacturers know what they are and how dangerous or toxic they are,” says Wang. “That leaves you with an uneasy feeling – like a meal where you’re told that it’s well cooked, but not what it contains.”"
+    },
+    {
+      "heading": "An urgent call for international collaboration",
+      "text": "Globalisation and worldwide trade ensure that – unlike national registers – chemicals do not stop at national borders. As Wang and his colleagues note in their article in the journal Environmental Science & Technology the various registers need therefore to be merged if we want to keep track of all the chemicals that are produced and traded anywhere in the world. “Only by joining forces, across different countries and disciplines, will we be able to cope with this ever-expanding chemical diversity,” says Wang.\n\nWang Z, Walker GW, Muir DCG, and Nagatani-Yoshida K. Toward a Global Understanding of Chemical Pollution: A First Comprehensive Analysis of National and Regional Chemical Inventories. Environ Sci Technol. (2020) DOI: 10.1021/acs.est.9b06379"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Chemical Diversity",
+        "label": "ORG",
+        "start": 38,
+        "end": 56
+      },
+      {
+        "text": "100,000",
+        "label": "CARDINAL",
+        "start": 119,
+        "end": 126
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 222,
+        "end": 224
+      },
+      {
+        "text": "Canada",
+        "label": "GPE",
+        "start": 226,
+        "end": 232
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 245,
+        "end": 251
+      },
+      {
+        "text": "20 years ago",
+        "label": "DATE",
+        "start": 278,
+        "end": 290
+      },
+      {
+        "text": "more than two thirds",
+        "label": "CARDINAL",
+        "start": 322,
+        "end": 342
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 45,
+        "end": 50
+      },
+      {
+        "text": "EUR 3.4 billion",
+        "label": "MONEY",
+        "start": 93,
+        "end": 108
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 118,
+        "end": 124
+      },
+      {
+        "text": "just a third",
+        "label": "CARDINAL",
+        "start": 162,
+        "end": 174
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 216,
+        "end": 221
+      },
+      {
+        "text": "37 percent",
+        "label": "PERCENT",
+        "start": 241,
+        "end": 251
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 347,
+        "end": 352
+      },
+      {
+        "text": "Zhanyun Wang",
+        "label": "PERSON",
+        "start": 420,
+        "end": 432
+      },
+      {
+        "text": "the Department of Civil, Environmental and",
+        "label": "ORG",
+        "start": 454,
+        "end": 496
+      },
+      {
+        "text": "Geomatic Engineering",
+        "label": "ORG",
+        "start": 497,
+        "end": 517
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 521,
+        "end": 531
+      },
+      {
+        "text": "Wang",
+        "label": "ORG",
+        "start": 579,
+        "end": 583
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 673,
+        "end": 675
+      },
+      {
+        "text": "350,000",
+        "label": "CARDINAL",
+        "start": 700,
+        "end": 707
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 756,
+        "end": 761
+      },
+      {
+        "text": "20 years ago",
+        "label": "DATE",
+        "start": 781,
+        "end": 793
+      },
+      {
+        "text": "Wang",
+        "label": "PERSON",
+        "start": 801,
+        "end": 805
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 169,
+        "end": 174
+      },
+      {
+        "text": "Wang",
+        "label": "PERSON",
+        "start": 223,
+        "end": 227
+      },
+      {
+        "text": "some 3 percent",
+        "label": "PERCENT",
+        "start": 270,
+        "end": 284
+      },
+      {
+        "text": "6,000",
+        "label": "CARDINAL",
+        "start": 390,
+        "end": 395
+      },
+      {
+        "text": "Wang",
+        "label": "ORG",
+        "start": 488,
+        "end": 492
+      },
+      {
+        "text": "a good third",
+        "label": "CARDINAL",
+        "start": 511,
+        "end": 523
+      },
+      {
+        "text": "About 70,000",
+        "label": "CARDINAL",
+        "start": 596,
+        "end": 608
+      },
+      {
+        "text": "50,000",
+        "label": "CARDINAL",
+        "start": 740,
+        "end": 746
+      },
+      {
+        "text": "Wang",
+        "label": "PERSON",
+        "start": 974,
+        "end": 978
+      },
+      {
+        "text": "Wang",
+        "label": "PERSON",
+        "start": 122,
+        "end": 126
+      },
+      {
+        "text": "Environmental Science & Technology",
+        "label": "ORG",
+        "start": 183,
+        "end": 217
+      },
+      {
+        "text": "Wang",
+        "label": "PERSON",
+        "start": 510,
+        "end": 514
+      },
+      {
+        "text": "Wang Z",
+        "label": "PERSON",
+        "start": 516,
+        "end": 522
+      },
+      {
+        "text": "Muir DCG",
+        "label": "PERSON",
+        "start": 535,
+        "end": 543
+      },
+      {
+        "text": "Nagatani-Yoshida K. Toward",
+        "label": "ORG",
+        "start": 549,
+        "end": 575
+      },
+      {
+        "text": "Environ Sci Technol",
+        "label": "PERSON",
+        "start": 700,
+        "end": 719
+      },
+      {
+        "text": "10.1021",
+        "label": "CARDINAL",
+        "start": 733,
+        "end": 740
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Environ Sci Technol",
+        "Muir DCG",
+        "Wang",
+        "Wang Z",
+        "Zhanyun Wang"
+      ],
+      "ORG": [
+        "Chemical Diversity",
+        "EU",
+        "Environmental Science & Technology",
+        "Geomatic Engineering",
+        "Nagatani-Yoshida K. Toward",
+        "Wang",
+        "the Department of Civil, Environmental and"
+      ],
+      "LOCATION": [
+        "Canada",
+        "China",
+        "ETH Zurich",
+        "Europe",
+        "US"
+      ],
+      "DATE": [
+        "20 years ago"
+      ],
+      "MISC": [
+        "10.1021",
+        "100,000",
+        "350,000",
+        "37 percent",
+        "50,000",
+        "6,000",
+        "About 70,000",
+        "EUR 3.4 billion",
+        "First",
+        "a good third",
+        "first",
+        "just a third",
+        "more than two thirds",
+        "second",
+        "some 3 percent",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Wang": 7,
+      "20 years ago": 2,
+      "first": 2,
+      "Chemical Diversity": 1,
+      "100,000": 1,
+      "US": 1,
+      "Canada": 1,
+      "Europe": 1,
+      "more than two thirds": 1,
+      "First": 1,
+      "EUR 3.4 billion": 1,
+      "second": 1,
+      "just a third": 1,
+      "China": 1,
+      "37 percent": 1,
+      "Zhanyun Wang": 1,
+      "the Department of Civil, Environmental and": 1,
+      "Geomatic Engineering": 1,
+      "ETH Zurich": 1,
+      "EU": 1
+    },
+    "total_entities": 41,
+    "unique_entities": 33
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "underestimated-chemical-diversity.md",
+      "title": "En News Events/2020/02/underestimated Chemical Diversity",
+      "language": "en",
+      "source_path": "en_news_events/2020/02/underestimated-chemical-diversity.html"
+    },
+    "temporal": {
+      "publication_date": "2020-02",
+      "mentioned_years": [
+        "2017",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Environ Sci Technol",
+        "Muir DCG",
+        "Wang",
+        "Wang Z",
+        "Zhanyun Wang"
+      ],
+      "people_with_roles": {
+        "Wang": [
+          "scientist"
+        ],
+        "Zhanyun Wang": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1021",
+        "100,000",
+        "350,000",
+        "37 percent",
+        "50,000",
+        "6,000",
+        "About 70,000",
+        "EUR 3.4 billion",
+        "First",
+        "a good third",
+        "first",
+        "just a third",
+        "more than two thirds",
+        "second",
+        "some 3 percent",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Chemical Diversity",
+        "Zhanyun Wang",
+        "Regional Chemical",
+        "En News",
+        "Nagatani-Yoshida",
+        "Environmental Science",
+        "Comprehensive Analysis",
+        "Walker GW",
+        "Environ Sci",
+        "Chemical Pollution",
+        "Senior Scientist",
+        "Geomatic Engineering",
+        "Wang Z",
+        "ETH Zurich",
+        "Muir DCG",
+        "Global Understanding",
+        "As Wang",
+        "A First"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Civil"
+      ],
+      "institutions": [
+        "Chemical Diversity",
+        "EU",
+        "Environmental Science & Technology",
+        "Geomatic Engineering",
+        "Nagatani-Yoshida K. Toward",
+        "Wang",
+        "the Department of Civil, Environmental and"
+      ],
+      "locations": [
+        "Canada",
+        "China",
+        "ETH Zurich",
+        "Europe",
+        "US"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Wang",
+        "20 years ago",
+        "first",
+        "Chemical Diversity",
+        "100,000",
+        "US",
+        "Canada",
+        "Europe",
+        "more than two thirds",
+        "First"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Global market",
+          "Global market",
+          "Confidential business information",
+          "An urgent call for international collaboration"
+        ],
+        "content_length": 3342
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Zhanyun Wang",
+        "Chemical Diversity",
+        "the Department of Civil, Environmental and",
+        "2017",
+        "EU",
+        "2020",
+        "Wang Z",
+        "Geomatic Engineering",
+        "Muir DCG",
+        "Environ Sci Technol",
+        "Environmental Science & Technology",
+        "ERC",
+        "Nagatani-Yoshida K. Toward",
+        "Wang"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "just a third",
+        "three",
+        "chemistry",
+        "6,000",
+        "About 70,000",
+        "when",
+        "some 3 percent",
+        "350,000",
+        "50,000",
+        "medical_research",
+        "37 percent",
+        "mathematics",
+        "more than two thirds",
+        "who",
+        "what",
+        "how",
+        "a good third",
+        "first",
+        "10.1021",
+        "second",
+        "100,000",
+        "EUR 3.4 billion",
+        "First",
+        "where"
+      ],
+      "graph_relations": [
+        "Wang_has_role_scientist",
+        "Zhanyun Wang_has_role_scientist",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

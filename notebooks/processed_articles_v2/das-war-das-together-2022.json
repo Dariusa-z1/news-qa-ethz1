@@ -1,0 +1,120 @@
+{
+  "filename": "das-war-das-together-2022.md",
+  "original_filename": "das-war-das-together-2022.html",
+  "source_path": "de_internal/2022/08/das-war-das-together-2022.html",
+  "date": "2022-08",
+  "title": "Das War Das Together 2022",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Wer nochmals Rückschau halten möchte, findet online einige der besten Bilder und Impressionen der langen Partynacht. Und: Es wird bereits das Datum des togETHer 2024 verraten. Am besten gleich in der Agenda eintragen!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/08/das War das Together 2022",
+        "label": "LOC",
+        "start": 0,
+        "end": 45
+      },
+      {
+        "text": "Rückschau",
+        "label": "LOC",
+        "start": 13,
+        "end": 22
+      },
+      {
+        "text": "online",
+        "label": "PER",
+        "start": 45,
+        "end": 51
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "online"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2022/08/das War das Together 2022",
+        "Rückschau"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2022/08/das War das Together 2022": 1,
+      "Rückschau": 1,
+      "online": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "das-war-das-together-2022.md",
+      "title": "De Internal/2022/08/das War das Together 2022",
+      "language": "de",
+      "source_path": "de_internal/2022/08/das-war-das-together-2022.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "2022",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "online"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "De Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2022/08/das War das Together 2022",
+        "Rückschau"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2022/08/das War das Together 2022",
+        "Rückschau",
+        "online"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 263
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "2022",
+        "online"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

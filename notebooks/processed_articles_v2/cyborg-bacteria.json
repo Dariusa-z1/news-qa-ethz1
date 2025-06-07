@@ -1,0 +1,402 @@
+{
+  "filename": "cyborg-bacteria.md",
+  "original_filename": "cyborg-bacteria.html",
+  "source_path": "en_news_events/2016/10/cyborg-bacteria.html",
+  "date": "2016-10",
+  "title": "Cyborg Bacteria",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "High precision control",
+      "text": "Researchers at ETH Zurich’s Department of Biosystems Science and Engineering (D-BSSE) in Basel have created a cyborg – a hybrid creature that is part machine and part living organism. The organism in question is the E. coli bacterium, which is used frequently in biological research; the machine is a computer fitted with the most modern control technology that regulates the growth of the bacteria. Machine and organism are linked via two interfaces: the computer communicates with red and green light, which the biotechnologically modified bacteria are able to perceive. In the opposite direction, communication functions via an optical measurement of the growth rate of the bacteria culture, the results of which are fed into the computer in real-time."
+    },
+    {
+      "heading": "High precision control",
+      "text": "Five years ago, the researchers and their collaborators presented a basic proof of concept for a light-based interface between a computer and a yeast cell. In contrast to the current system, though, the earlier interface was not able to function fully automatically. “This is also the first time we’ve been able to control the growth of microorganisms – and in a very tunable and precise way,” explains Mustafa Khammash, Professor of Control Theory and Systems Biology. With the help of the computerised control system, the scientists can influence the bacteria culture to grow precisely according to a predetermined curve.\n\nThe new system is also extremely reliable and robust. The scientists tested how the cyborg bacteria reacted to sudden and rapid changes in the environment, for example, by modifying the bacterial culture’s nutritional composition and the temperature during the course of the experiment. The system proved to be exceptionally good at adapting to such disturbances. “All this was possible because we used advanced feedback-based control algorithms for the regulation process, just like the ones used in passenger aircraft to maintain a steady flight altitude,” Khammash explains."
+    },
+    {
+      "heading": "“Eyes” for bacteria",
+      "text": "The researchers had to carry out biotechnological modifications in order that the E. coli bacteria could be controlled by light. They modified a strain that uses genes from cyanobacteria, which are able to regulate their metabolism in response to light and, like plants, also use light energy for photosynthesis. In the E. coli bacteria, the bioengineers coupled the cyanobacteria’s genetic light-sensing system with the cellular regulation of an enzyme that produces methionine, an amino acid essential for bacterial growth.\n\nWhen the computer illuminates the E.coli culture with a red light, the bacteria stop producing methionine and grow more slowly as a result. If it is lit with a green light, on the other hand, methionine production is stimulated and the bacteria grow more rapidly."
+    },
+    {
+      "heading": "Control of biological systems",
+      "text": "Professor Khammash’s original area of expertise was control engineering; he now works in the fields of systems and synthetic biology. The central question in his research lies at the crossroads between these fields: is it possible to devise a new control engineering for biological systems from the ground up? He refers to this area of research as cybergenetics.\n\n“There are two different approaches to this,” says Khammash, “and both have their advantages and disadvantages, depending on the intended application.” The first of these approaches is the one used in this study: external control of microorganisms with a computer. This requires an interface between the computer and the biological organism. Even though the communication possibilities via such an interface are currently rather limited, the approach has a significant advantage: the external computer programme can implement advanced control algorithms and can also be adjusted very quickly if necessary.\n\nIn the second approach, scientists – including those at D-BSSE – are attempting to place synthetic control systems with molecular, biochemical components inside cells. “In my opinion, internal cell control in the long run is the better option for therapeutic uses, for example, in cell therapy, since they can function autonomously without extra hardware,” says Khammash. “For the biotechnological production of molecules in a bioreactor, on the other hand, external control via an interface, as we have developed here, is much more feasible.”"
+    },
+    {
+      "heading": "Additional colour channels",
+      "text": "Until now, the Basel-based researchers have used two colours for their light interface – green and red – to control the activity of a single enzyme. “One might imagine a further development in which additional light channels allow a more complex form of control,” says Khammash. Thus, it may be possible to control several enzymes at the same time. In the biotechnological production of molecules, the growth rate of the production bacteria and the production rate of the molecules could be optimally coordinated, with the aim of producing as much of the desired product as possible with the smallest amount of toxic byproduct.\n\nMilias-Argeitis A, Rullan M, Aoki SK, Buchmann P, Khammash M: Automated optogenetic feedback control for precise and robust regulation of gene expression. Nature Communications 2016, 7: 12546, doi: 10.1038/ncomms12546"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Bacteria",
+        "label": "PRODUCT",
+        "start": 30,
+        "end": 38
+      },
+      {
+        "text": "ETH Zurich’s Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 15,
+        "end": 76
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 89,
+        "end": 94
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 436,
+        "end": 439
+      },
+      {
+        "text": "fed",
+        "label": "ORG",
+        "start": 720,
+        "end": 723
+      },
+      {
+        "text": "Five years ago",
+        "label": "DATE",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 285,
+        "end": 290
+      },
+      {
+        "text": "Mustafa Khammash",
+        "label": "PERSON",
+        "start": 403,
+        "end": 419
+      },
+      {
+        "text": "Control Theory and Systems Biology",
+        "label": "ORG",
+        "start": 434,
+        "end": 468
+      },
+      {
+        "text": "Khammash",
+        "label": "PERSON",
+        "start": 1183,
+        "end": 1191
+      },
+      {
+        "text": "cyanobacteria",
+        "label": "GPE",
+        "start": 173,
+        "end": 186
+      },
+      {
+        "text": "E.coli",
+        "label": "NORP",
+        "start": 560,
+        "end": 566
+      },
+      {
+        "text": "Khammash",
+        "label": "PERSON",
+        "start": 10,
+        "end": 18
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 374,
+        "end": 377
+      },
+      {
+        "text": "Khammash",
+        "label": "PERSON",
+        "start": 414,
+        "end": 422
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 519,
+        "end": 524
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 976,
+        "end": 982
+      },
+      {
+        "text": "Khammash",
+        "label": "PERSON",
+        "start": 1331,
+        "end": 1339
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 15,
+        "end": 20
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 49,
+        "end": 52
+      },
+      {
+        "text": "Khammash",
+        "label": "PERSON",
+        "start": 269,
+        "end": 277
+      },
+      {
+        "text": "Rullan M",
+        "label": "PERSON",
+        "start": 647,
+        "end": 655
+      },
+      {
+        "text": "Buchmann P",
+        "label": "ORG",
+        "start": 666,
+        "end": 676
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 783,
+        "end": 804
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 826,
+        "end": 833
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Khammash",
+        "Mustafa Khammash",
+        "Rullan M"
+      ],
+      "ORG": [
+        "Buchmann P",
+        "Control Theory and Systems Biology",
+        "ETH Zurich’s Department of Biosystems Science and Engineering",
+        "Nature Communications",
+        "fed"
+      ],
+      "LOCATION": [
+        "Basel",
+        "cyanobacteria"
+      ],
+      "DATE": [
+        "Five years ago"
+      ],
+      "MISC": [
+        "10.1038",
+        "Bacteria",
+        "E.coli",
+        "first",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Khammash": 5,
+      "two": 3,
+      "Basel": 2,
+      "first": 2,
+      "Bacteria": 1,
+      "ETH Zurich’s Department of Biosystems Science and Engineering": 1,
+      "fed": 1,
+      "Five years ago": 1,
+      "Mustafa Khammash": 1,
+      "Control Theory and Systems Biology": 1,
+      "cyanobacteria": 1,
+      "E.coli": 1,
+      "second": 1,
+      "Rullan M": 1,
+      "Buchmann P": 1,
+      "Nature Communications": 1,
+      "10.1038": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "cyborg-bacteria.md",
+      "title": "En News Events/2016/10/cyborg Bacteria",
+      "language": "en",
+      "source_path": "en_news_events/2016/10/cyborg-bacteria.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Khammash",
+        "Mustafa Khammash",
+        "Rullan M"
+      ],
+      "people_with_roles": {
+        "Khammash": [
+          "Professor",
+          "professor"
+        ],
+        "Mustafa Khammash": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Bacteria",
+        "E.coli",
+        "first",
+        "second"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Aoki SK",
+        "Milias-Argeitis",
+        "Buchmann P",
+        "En News",
+        "Control Theory",
+        "Rullan M",
+        "Systems Biology",
+        "Bacteria Researchers",
+        "Mustafa Khammash",
+        "Biosystems Science",
+        "Khammash M",
+        "ETH Zurich",
+        "Nature Communications",
+        "Professor Khammash",
+        "D-BSSE"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biosystems Science and Engineering "
+      ],
+      "institutions": [
+        "Buchmann P",
+        "Control Theory and Systems Biology",
+        "ETH Zurich’s Department of Biosystems Science and Engineering",
+        "Nature Communications",
+        "fed"
+      ],
+      "locations": [
+        "Basel",
+        "cyanobacteria"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Khammash",
+        "two",
+        "Basel",
+        "first",
+        "Bacteria",
+        "ETH Zurich’s Department of Biosystems Science and Engineering",
+        "fed",
+        "Five years ago",
+        "Mustafa Khammash",
+        "Control Theory and Systems Biology"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "High precision control",
+          "High precision control",
+          "“Eyes” for bacteria",
+          "Control of biological systems",
+          "Additional colour channels"
+        ],
+        "content_length": 5150
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Buchmann P",
+        "Control Theory and Systems Biology",
+        "Rullan M",
+        "EU",
+        "2016",
+        "Khammash",
+        "Mustafa Khammash",
+        "ETH Zurich’s Department of Biosystems Science and Engineering",
+        "fed",
+        "Nature Communications",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Bacteria",
+        "first",
+        "computer_science",
+        "who",
+        "E.coli",
+        "10.1038",
+        "chemistry",
+        "biology",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Khammash_has_role_Professor",
+        "Khammash_has_role_professor",
+        "Mustafa Khammash_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

@@ -1,0 +1,514 @@
+{
+  "filename": "security-flaw-detected-for-the-second-time-in-credit-cards.md",
+  "original_filename": "security-flaw-detected-for-the-second-time-in-credit-cards.html",
+  "source_path": "en_news_events/2021/02/security-flaw-detected-for-the-second-time-in-credit-cards.html",
+  "date": "2021-02",
+  "title": "Security Flaw Detected For The Second Time In Credit Cards",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Security measures outsmarted in two ways",
+      "text": "Making a contactless payment with a credit or debit card is quick and easy, and has proved particularly useful during the current pandemic. For added security, the user has to enter a PIN code above a certain amount (usually CHF 80 in Switzerland) – at least, that's the theory. As three researchers in the Information Security Group at ETH Zurich were able to show, these security measures can be bypassed with certain cards. The first time the researchers were able to document how credit cards could be used without a PIN code was in summer 2020, using Visa cards ( see ETH News 01.09.2020 ). The team have now disclosed that another bypass is possible with other types of payment cards, namely Mastercard and Maestro.\n\nThe methods used by the researchers are based on the “man-in-the-middle” principle, where attackers exploit the data exchanged between two communication partners (in this case the card and the card terminal). To replicate this effect, the researchers used an Android app they had created and two NFC-enabled mobile phones. The app falsely signalled to the card terminal that no PIN was required to authorise the payment and that the card owner’s identity had been verified. Initially, the method worked only on VISA cards, as other providers use a different protocol (a protocol governs data transmission).\n\nAt first glance, the second idea behind bypassing the PIN code verification step appears simple: “Our method tricks the terminal into thinking that a Mastercard card is a VISA card,” explains Jorge Toro, who works at the Information Security Group and is one of the authors of the research paper. Toro goes on to add that the reality was much more complex than it sounds, with two sessions having to run concurrently for it to work: the card terminal performs a VISA transaction, while the card itself performs a Mastercard transaction. The researchers used these methods on two Mastercard credit cards and two Maestro debit cards issued by four different banks."
+    },
+    {
+      "heading": "EMV standard as a source of error",
+      "text": "The researchers informed Mastercard immediately after they made their discovery. They were able to confirm experimentally that the defences put in place by Mastercard are effective. “It was both enjoyable and exciting to work with the company on this,” explains Toro. Mastercard updated the relevant safeguards and asked the researchers to try to attack the payment process in the same way again, and this time it failed. The researchers will present their paper with a full overview of the method at the USENIX Security ’21 symposium in August.\n\nThe security flaws found in contactless payment cards are due primarily to EMV, an international protocol standard that applies to such cards. Errors in logic within this set of rules are difficult to detect, not least given that the standard is more than 2,000 pages in length. The ETH researchers emphasise on their project website that such systems must increasingly be reviewed automatically, as the process is too complex for human beings."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Flaw Detected",
+        "label": "PERSON",
+        "start": 32,
+        "end": 45
+      },
+      {
+        "text": "Credit Cards",
+        "label": "ORG",
+        "start": 69,
+        "end": 81
+      },
+      {
+        "text": "PIN",
+        "label": "ORG",
+        "start": 184,
+        "end": 187
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 225,
+        "end": 228
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 235,
+        "end": 246
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 282,
+        "end": 287
+      },
+      {
+        "text": "the Information Security Group",
+        "label": "ORG",
+        "start": 303,
+        "end": 333
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 337,
+        "end": 347
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 431,
+        "end": 436
+      },
+      {
+        "text": "summer 2020",
+        "label": "DATE",
+        "start": 537,
+        "end": 548
+      },
+      {
+        "text": "Visa",
+        "label": "ORG",
+        "start": 556,
+        "end": 560
+      },
+      {
+        "text": "ETH News 01.09.2020",
+        "label": "ORG",
+        "start": 573,
+        "end": 592
+      },
+      {
+        "text": "Mastercard",
+        "label": "ORG",
+        "start": 698,
+        "end": 708
+      },
+      {
+        "text": "Maestro",
+        "label": "LOC",
+        "start": 713,
+        "end": 720
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 857,
+        "end": 860
+      },
+      {
+        "text": "Android",
+        "label": "ORG",
+        "start": 981,
+        "end": 988
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1014,
+        "end": 1017
+      },
+      {
+        "text": "NFC",
+        "label": "ORG",
+        "start": 1018,
+        "end": 1021
+      },
+      {
+        "text": "PIN",
+        "label": "ORG",
+        "start": 1100,
+        "end": 1103
+      },
+      {
+        "text": "VISA",
+        "label": "ORG",
+        "start": 1233,
+        "end": 1237
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1332,
+        "end": 1337
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1350,
+        "end": 1356
+      },
+      {
+        "text": "PIN",
+        "label": "ORG",
+        "start": 1383,
+        "end": 1386
+      },
+      {
+        "text": "Mastercard",
+        "label": "ORG",
+        "start": 1479,
+        "end": 1489
+      },
+      {
+        "text": "VISA",
+        "label": "ORG",
+        "start": 1500,
+        "end": 1504
+      },
+      {
+        "text": "Jorge Toro",
+        "label": "PERSON",
+        "start": 1521,
+        "end": 1531
+      },
+      {
+        "text": "the Information Security Group",
+        "label": "ORG",
+        "start": 1546,
+        "end": 1576
+      },
+      {
+        "text": "Toro",
+        "label": "PERSON",
+        "start": 1626,
+        "end": 1630
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1706,
+        "end": 1709
+      },
+      {
+        "text": "VISA",
+        "label": "ORG",
+        "start": 1791,
+        "end": 1795
+      },
+      {
+        "text": "Mastercard",
+        "label": "ORG",
+        "start": 1842,
+        "end": 1852
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1904,
+        "end": 1907
+      },
+      {
+        "text": "Mastercard",
+        "label": "ORG",
+        "start": 1908,
+        "end": 1918
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1936,
+        "end": 1939
+      },
+      {
+        "text": "Maestro",
+        "label": "LOC",
+        "start": 1940,
+        "end": 1947
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 1970,
+        "end": 1974
+      },
+      {
+        "text": "Mastercard",
+        "label": "ORG",
+        "start": 25,
+        "end": 35
+      },
+      {
+        "text": "Mastercard",
+        "label": "PERSON",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "Toro",
+        "label": "PERSON",
+        "start": 262,
+        "end": 266
+      },
+      {
+        "text": "Mastercard",
+        "label": "ORG",
+        "start": 268,
+        "end": 278
+      },
+      {
+        "text": "the USENIX Security",
+        "label": "ORG",
+        "start": 501,
+        "end": 520
+      },
+      {
+        "text": "August",
+        "label": "DATE",
+        "start": 538,
+        "end": 544
+      },
+      {
+        "text": "EMV",
+        "label": "ORG",
+        "start": 621,
+        "end": 624
+      },
+      {
+        "text": "more than 2,000",
+        "label": "CARDINAL",
+        "start": 792,
+        "end": 807
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 829,
+        "end": 832
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Flaw Detected",
+        "Jorge Toro",
+        "Mastercard",
+        "Toro"
+      ],
+      "ORG": [
+        "Android",
+        "CHF",
+        "Credit Cards",
+        "EMV",
+        "ETH",
+        "ETH News 01.09.2020",
+        "ETH Zurich",
+        "Mastercard",
+        "NFC",
+        "PIN",
+        "VISA",
+        "Visa",
+        "the Information Security Group",
+        "the USENIX Security"
+      ],
+      "LOCATION": [
+        "Maestro",
+        "Switzerland"
+      ],
+      "DATE": [
+        "August",
+        "summer 2020"
+      ],
+      "MISC": [
+        "first",
+        "four",
+        "more than 2,000",
+        "second",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Mastercard": 7,
+      "two": 5,
+      "PIN": 3,
+      "VISA": 3,
+      "the Information Security Group": 2,
+      "first": 2,
+      "Maestro": 2,
+      "Toro": 2,
+      "Flaw Detected": 1,
+      "Credit Cards": 1,
+      "CHF": 1,
+      "Switzerland": 1,
+      "three": 1,
+      "ETH Zurich": 1,
+      "summer 2020": 1,
+      "Visa": 1,
+      "ETH News 01.09.2020": 1,
+      "Android": 1,
+      "NFC": 1,
+      "second": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "security-flaw-detected-for-the-second-time-in-credit-cards.md",
+      "title": "En News Events/2021/02/security Flaw Detected For The Second Time in Credit Cards",
+      "language": "en",
+      "source_path": "en_news_events/2021/02/security-flaw-detected-for-the-second-time-in-credit-cards.html"
+    },
+    "temporal": {
+      "publication_date": "2021-02",
+      "mentioned_years": [
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Flaw Detected",
+        "Jorge Toro",
+        "Mastercard",
+        "Toro"
+      ],
+      "people_with_roles": {
+        "Mastercard": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics"
+      ],
+      "research_topics": [
+        "first",
+        "four",
+        "more than 2,000",
+        "second",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Information Security",
+        "En News",
+        "Credit Cards",
+        "Second Time",
+        "ETH News",
+        "Jorge Toro",
+        "ETH Zurich",
+        "Flaw Detected",
+        "The ETH",
+        "For The",
+        "USENIX Security"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Android",
+        "CHF",
+        "Credit Cards",
+        "EMV",
+        "ETH",
+        "ETH News 01.09.2020",
+        "ETH Zurich",
+        "Mastercard",
+        "NFC",
+        "PIN",
+        "VISA",
+        "Visa",
+        "the Information Security Group",
+        "the USENIX Security"
+      ],
+      "locations": [
+        "Maestro",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Mastercard",
+        "two",
+        "PIN",
+        "VISA",
+        "the Information Security Group",
+        "first",
+        "Maestro",
+        "Toro",
+        "Flaw Detected",
+        "Credit Cards"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Security measures outsmarted in two ways",
+          "EMV standard as a source of error"
+        ],
+        "content_length": 3067
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "CHF",
+        "2020",
+        "Jorge Toro",
+        "Visa",
+        "NFC",
+        "ERC",
+        "Mastercard",
+        "VISA",
+        "the USENIX Security",
+        "Toro",
+        "PIN",
+        "ETH News 01.09.2020",
+        "2021",
+        "EMV",
+        "Credit Cards",
+        "Android",
+        "ETH Zurich",
+        "Flaw Detected",
+        "the Information Security Group"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "three",
+        "four",
+        "who",
+        "what",
+        "second",
+        "how",
+        "more than 2,000",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Mastercard_has_role_researcher",
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

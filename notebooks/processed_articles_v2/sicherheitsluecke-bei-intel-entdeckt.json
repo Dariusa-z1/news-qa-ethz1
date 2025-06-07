@@ -1,0 +1,487 @@
+{
+  "filename": "sicherheitsluecke-bei-intel-entdeckt.md",
+  "original_filename": "sicherheitsluecke-bei-intel-entdeckt.html",
+  "source_path": "de_news_events/2021/10/sicherheitsluecke-bei-intel-entdeckt.html",
+  "date": "2021-10",
+  "title": "Sicherheitsluecke Bei Intel Entdeckt",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Kein Grund zur Panik, aber eine Lektion",
+      "text": "Vor wenigen Jahren hat Intel, der weltweit führende Anbieter von PC-Mikroprozessoren, eine Neuerung eingeführt, die grössere Datensicherheit verspricht: Sogenannte Software Guard Extensions (SGX). Dabei handelt es sich um hardwarebasierte Kontrollmechanismen, welche dafür sorgen, dass Daten auch dann sicher sind, wenn das Betriebssystem eines Computers lückenhaft sein bzw. angegriffen werden sollte. «Betriebssysteme müssen eine riesige Zahl an Funktionen erfüllen und sind hochkomplex», erklärt Shweta Shinde, Assistenzprofessorin am Departement Informatik der ETH Zürich. Darum mache es Sinn, Anwendungen mit sensiblen Daten quasi vom Betriebssystem abzuschirmen. Die Software Guard Extensions ermöglichen dies mittels sogenannter Enklaven: Gewisse Bereiche dienen dem Schutz des Programmcodes jener Anwendungen, auf die das Betriebssystem nicht zugreifen können soll.\n\nShinde und Ihre Forschungskollegen von der National University of Singapore (NUS) sowie der chinesischen National University of Defense Technology (NUDT) haben nun eine Schwachstelle in dieser Sicherheitsarchitektur entdeckt. Es ist ihnen nicht nur gelungen, Daten aus diesen Enklaven zu ziehen, sondern auch, beliebigen eigenen Code darin anzuwenden. Die Entdeckung machten die Forschenden Anfang Mai 2021, worauf sie umgehend die beiden ihnen bekannten betroffenen Firmen, Intel und Microsoft, benachrichtigten. Dies entspricht dem üblichen Vorgehen in solchen Fällen (siehe «verwandte Artikel»). Mitte Juli behoben die beiden Firmen das Problem mittels Software-Patches. Die von den Forschenden in monatelanger Arbeit programmierte Attacke nennt sich SmashEx und ist in einem Paper dokumentiert, das bereits externe Seite als Preprint veröffentlicht ist. Es wird am 15. November an der Konferenz externe Seite ACM CCS vorgestellt."
+    },
+    {
+      "heading": "Kein Grund zur Panik, aber eine Lektion",
+      "text": "Die Schwachstelle wird von Intel selbst mit einem sogenannten CVSS-Score von 8.2 von 10 bewertet. Dieser Score gibt anhand verschiedener Indikatoren den Schweregrad von Schwachstellen an. In diesem Fall dürfte er laut Shweta Shinde unter anderem so hoch sein, weil das Problem eine neue Hardware und eine potenziell grosse Zahl an Firmen- und Privatkunden betraf – Intel-Prozessoren mit den betroffenen Software Guard Extensions sind sehr weit verbreitet. Unter anderem waren so auch Google-Produkte betroffen. Intel-SGX-Enklaven kommen zudem häufig zum Einsatz, wenn IT-Infrastruktur zwischen verschiedenen Parteien geteilt wird oder wenn sensible Daten im Spiel sind – also etwa im Banken- oder Gesundheitssektor. «Dass die Schwachstelle eine Technologie betraf, die speziell für sensible Daten konstruiert ist, muss uns zu denken geben», sagt Shinde, «aber ein Grund zur Panik ist sie nicht.» Mit den Software-Patches sei das Problem vorerst behoben. Shinde plädiert jedoch zusätzlich für eine Hardware-Anpassung bei künftigen Prozessor-Generationen, um diese nachhaltig sicherer zu machen.\n\nCui J, Zhijingcheng Yu J, Shinde S, Saxena P, Cai Z SmashEx: Smashing SGX Enclaves Using Exceptions. Proceedings of the ACM Conference on Computer and Communications Security (CCS) November 2021 doi: 10.1145/3460120.3484821 (Veröffentlichung steht noch aus. externe Seite Link zur Liste der zu präsentierenden Paper )"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 45,
+        "end": 50
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 23,
+        "end": 28
+      },
+      {
+        "text": "SGX",
+        "label": "ORG",
+        "start": 191,
+        "end": 194
+      },
+      {
+        "text": "Shweta Shinde",
+        "label": "PER",
+        "start": 499,
+        "end": 512
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 565,
+        "end": 575
+      },
+      {
+        "text": "Guard Extensions",
+        "label": "MISC",
+        "start": 682,
+        "end": 698
+      },
+      {
+        "text": "National University of Singapore",
+        "label": "ORG",
+        "start": 917,
+        "end": 949
+      },
+      {
+        "text": "NUS",
+        "label": "MISC",
+        "start": 951,
+        "end": 954
+      },
+      {
+        "text": "chinesischen",
+        "label": "MISC",
+        "start": 966,
+        "end": 978
+      },
+      {
+        "text": "National University of Defense Technology",
+        "label": "ORG",
+        "start": 979,
+        "end": 1020
+      },
+      {
+        "text": "NUDT",
+        "label": "ORG",
+        "start": 1022,
+        "end": 1026
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 1349,
+        "end": 1354
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 1359,
+        "end": 1368
+      },
+      {
+        "text": "Software-Patches",
+        "label": "MISC",
+        "start": 1530,
+        "end": 1546
+      },
+      {
+        "text": "Attacke",
+        "label": "PER",
+        "start": 1609,
+        "end": 1616
+      },
+      {
+        "text": "SmashEx",
+        "label": "LOC",
+        "start": 1628,
+        "end": 1635
+      },
+      {
+        "text": "ACM CCS",
+        "label": "ORG",
+        "start": 1787,
+        "end": 1794
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 27,
+        "end": 32
+      },
+      {
+        "text": "CVSS-Score",
+        "label": "MISC",
+        "start": 62,
+        "end": 72
+      },
+      {
+        "text": "Schweregrad von Schwachstellen",
+        "label": "PER",
+        "start": 153,
+        "end": 183
+      },
+      {
+        "text": "Shweta Shinde",
+        "label": "PER",
+        "start": 218,
+        "end": 231
+      },
+      {
+        "text": "Intel-Prozessoren",
+        "label": "LOC",
+        "start": 365,
+        "end": 382
+      },
+      {
+        "text": "Guard Extensions",
+        "label": "PER",
+        "start": 412,
+        "end": 428
+      },
+      {
+        "text": "Google-Produkte",
+        "label": "MISC",
+        "start": 484,
+        "end": 499
+      },
+      {
+        "text": "Intel-SGX-Enklaven",
+        "label": "MISC",
+        "start": 511,
+        "end": 529
+      },
+      {
+        "text": "Software-Patches",
+        "label": "MISC",
+        "start": 904,
+        "end": 920
+      },
+      {
+        "text": "Prozessor-Generationen",
+        "label": "ORG",
+        "start": 1030,
+        "end": 1052
+      },
+      {
+        "text": "Cui J",
+        "label": "PER",
+        "start": 1094,
+        "end": 1099
+      },
+      {
+        "text": "Zhijingcheng Yu J",
+        "label": "PER",
+        "start": 1101,
+        "end": 1118
+      },
+      {
+        "text": "Shinde S",
+        "label": "PER",
+        "start": 1120,
+        "end": 1128
+      },
+      {
+        "text": "Saxena P",
+        "label": "PER",
+        "start": 1130,
+        "end": 1138
+      },
+      {
+        "text": "Cai Z SmashEx",
+        "label": "PER",
+        "start": 1140,
+        "end": 1153
+      },
+      {
+        "text": "CCS",
+        "label": "ORG",
+        "start": 1270,
+        "end": 1273
+      },
+      {
+        "text": "Veröffentlichung",
+        "label": "LOC",
+        "start": 1319,
+        "end": 1335
+      },
+      {
+        "text": "Link",
+        "label": "PER",
+        "start": 1366,
+        "end": 1370
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Attacke",
+        "Cai Z SmashEx",
+        "Cui J",
+        "Guard Extensions",
+        "Link",
+        "Saxena P",
+        "Schweregrad von Schwachstellen",
+        "Shinde S",
+        "Shweta Shinde",
+        "Zhijingcheng Yu J"
+      ],
+      "ORG": [
+        "ACM CCS",
+        "CCS",
+        "ETH Zürich",
+        "Intel",
+        "Microsoft",
+        "NUDT",
+        "National University of Defense Technology",
+        "National University of Singapore",
+        "Prozessor-Generationen",
+        "SGX"
+      ],
+      "LOCATION": [
+        "Intel-Prozessoren",
+        "SmashEx",
+        "Veröffentlichung"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CVSS-Score",
+        "Google-Produkte",
+        "Guard Extensions",
+        "Intel-SGX-Enklaven",
+        "NUS",
+        "Software-Patches",
+        "chinesischen"
+      ]
+    },
+    "entity_counts": {
+      "Intel": 4,
+      "Shweta Shinde": 2,
+      "Guard Extensions": 2,
+      "Software-Patches": 2,
+      "SGX": 1,
+      "ETH Zürich": 1,
+      "National University of Singapore": 1,
+      "NUS": 1,
+      "chinesischen": 1,
+      "National University of Defense Technology": 1,
+      "NUDT": 1,
+      "Microsoft": 1,
+      "Attacke": 1,
+      "SmashEx": 1,
+      "ACM CCS": 1,
+      "CVSS-Score": 1,
+      "Schweregrad von Schwachstellen": 1,
+      "Intel-Prozessoren": 1,
+      "Google-Produkte": 1,
+      "Intel-SGX-Enklaven": 1
+    },
+    "total_entities": 35,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "sicherheitsluecke-bei-intel-entdeckt.md",
+      "title": "De News Events/2021/10/sicherheitsluecke bei Intel Entdeckt",
+      "language": "de",
+      "source_path": "de_news_events/2021/10/sicherheitsluecke-bei-intel-entdeckt.html"
+    },
+    "temporal": {
+      "publication_date": "2021-10",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Attacke",
+        "Cai Z SmashEx",
+        "Cui J",
+        "Guard Extensions",
+        "Link",
+        "Saxena P",
+        "Schweregrad von Schwachstellen",
+        "Shinde S",
+        "Shweta Shinde",
+        "Zhijingcheng Yu J"
+      ],
+      "people_with_roles": {
+        "Shweta Shinde": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "CVSS-Score",
+        "Google-Produkte",
+        "Guard Extensions",
+        "Intel-SGX-Enklaven",
+        "Software-Patches",
+        "chinesischen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Seite ACM",
+        "Shinde S",
+        "Seite Link",
+        "Ihre Forschungskollegen",
+        "Software Guard",
+        "Forschenden Anfang",
+        "Hardware-Anpassung",
+        "Cui J",
+        "Intel Entdeckt",
+        "Intel-SGX",
+        "IT-Infrastruktur",
+        "Gewisse Bereiche",
+        "Defense Technology",
+        "Departement Informatik",
+        "Saxena P",
+        "Zhijingcheng Yu",
+        "Cai Z",
+        "Software-Patches",
+        "Die Entdeckung",
+        "PC-Mikroprozessoren",
+        "Die Schwachstelle",
+        "Guard Extensions",
+        "National University",
+        "Shweta Shinde",
+        "Communications Security",
+        "Enclaves Using",
+        "CVSS-Score",
+        "Dieser Score",
+        "Prozessor-Generationen",
+        "Google-Produkte",
+        "Sogenannte Software",
+        "ACM Conference",
+        "Smashing SGX",
+        "Die Software",
+        "De News",
+        "Intel-Prozessoren",
+        "Mitte Juli"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ACM CCS",
+        "CCS",
+        "ETH Zürich",
+        "Intel",
+        "Microsoft",
+        "NUDT",
+        "National University of Defense Technology",
+        "National University of Singapore",
+        "Prozessor-Generationen",
+        "SGX"
+      ],
+      "locations": [
+        "Intel-Prozessoren",
+        "SmashEx",
+        "Veröffentlichung"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Intel",
+        "Shweta Shinde",
+        "Guard Extensions",
+        "Software-Patches",
+        "SGX",
+        "ETH Zürich",
+        "National University of Singapore",
+        "NUS",
+        "chinesischen",
+        "National University of Defense Technology"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Kein Grund zur Panik, aber eine Lektion",
+          "Kein Grund zur Panik, aber eine Lektion"
+        ],
+        "content_length": 3281
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Shinde S",
+        "National University of Defense Technology",
+        "Cui J",
+        "National University of Singapore",
+        "Saxena P",
+        "CCS",
+        "Intel",
+        "ETH Zürich",
+        "SGX",
+        "Link",
+        "Guard Extensions",
+        "Attacke",
+        "Shweta Shinde",
+        "ACM CCS",
+        "EU",
+        "Prozessor-Generationen",
+        "NUDT",
+        "Cai Z SmashEx",
+        "Microsoft",
+        "Zhijingcheng Yu J",
+        "2021",
+        "Schweregrad von Schwachstellen"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "CVSS-Score",
+        "Software-Patches",
+        "chinesischen",
+        "Intel-SGX-Enklaven",
+        "Google-Produkte",
+        "when",
+        "what",
+        "computer_science",
+        "Guard Extensions",
+        "where"
+      ],
+      "graph_relations": [
+        "Shweta Shinde_has_role_professor",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

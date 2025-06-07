@@ -1,0 +1,268 @@
+{
+  "filename": "eth-zurich-at-national-climate-day.md",
+  "original_filename": "eth-zurich-at-national-climate-day.html",
+  "source_path": "en_news_events/2021/05/eth-zurich-at-national-climate-day.html",
+  "date": "2021-05",
+  "title": "Eth Zurich At National Climate Day",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The first Swiss National Climate Day will take place on 27 May. ETH Zurich will be present with exciting contributions. Various ETH Zurich researchers will participate on themes such on climate facts, nutrition, and sustainable building and living – live from the Bundesplatz in Bern.\n\nFurthermore, ETH Zurich launches \"Rethinking Living\", a new discussion format dedicated to essential questions of life. In the first episode on the occasion of Climate Day, professors Rachael Garrett, Environmental Policy, and Ecologist, Tom Crowther discuss the \"fate of the forests\". They will explore questions such as: How do we protect havens of biodiversity? And, how can we restore valuable carbon reservoirs?"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 27,
+        "end": 33
+      },
+      {
+        "text": "National Climate Day",
+        "label": "ORG",
+        "start": 37,
+        "end": 57
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 4,
+        "end": 9
+      },
+      {
+        "text": "27 May",
+        "label": "DATE",
+        "start": 56,
+        "end": 62
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 64,
+        "end": 74
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 128,
+        "end": 138
+      },
+      {
+        "text": "Bundesplatz",
+        "label": "LOC",
+        "start": 264,
+        "end": 275
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 298,
+        "end": 308
+      },
+      {
+        "text": "Rethinking Living",
+        "label": "WORK_OF_ART",
+        "start": 319,
+        "end": 336
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 412,
+        "end": 417
+      },
+      {
+        "text": "Climate Day",
+        "label": "EVENT",
+        "start": 445,
+        "end": 456
+      },
+      {
+        "text": "Rachael Garrett",
+        "label": "PERSON",
+        "start": 469,
+        "end": 484
+      },
+      {
+        "text": "Ecologist",
+        "label": "ORG",
+        "start": 512,
+        "end": 521
+      },
+      {
+        "text": "Tom Crowther",
+        "label": "PERSON",
+        "start": 523,
+        "end": 535
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Rachael Garrett",
+        "Tom Crowther"
+      ],
+      "ORG": [
+        "Ecologist",
+        "National Climate Day"
+      ],
+      "LOCATION": [
+        "Bundesplatz",
+        "Zurich"
+      ],
+      "DATE": [
+        "27 May"
+      ],
+      "MISC": [
+        "Climate Day",
+        "Rethinking Living",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "first": 2,
+      "Zurich": 1,
+      "National Climate Day": 1,
+      "27 May": 1,
+      "Bundesplatz": 1,
+      "Rethinking Living": 1,
+      "Climate Day": 1,
+      "Rachael Garrett": 1,
+      "Ecologist": 1,
+      "Tom Crowther": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-zurich-at-national-climate-day.md",
+      "title": "En News Events/2021/05/eth Zurich At National Climate Day",
+      "language": "en",
+      "source_path": "en_news_events/2021/05/eth-zurich-at-national-climate-day.html"
+    },
+    "temporal": {
+      "publication_date": "2021-05",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Rachael Garrett",
+        "Tom Crowther"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher"
+        ],
+        "Rachael Garrett": [
+          "professor"
+        ],
+        "Tom Crowther": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Climate Day",
+        "Rethinking Living",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "Tom Crowther",
+        "Day The",
+        "Zurich At",
+        "Swiss National",
+        "National Climate",
+        "Various ETH",
+        "Rethinking Living",
+        "ETH Zurich",
+        "Rachael Garrett",
+        "Environmental Policy",
+        "Climate Day"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Ecologist",
+        "National Climate Day"
+      ],
+      "locations": [
+        "Bundesplatz",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "first",
+        "Zurich",
+        "National Climate Day",
+        "27 May",
+        "Bundesplatz",
+        "Rethinking Living",
+        "Climate Day",
+        "Rachael Garrett",
+        "Ecologist"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 760
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "National Climate Day",
+        "Ecologist",
+        "ETH Zurich",
+        "Rachael Garrett",
+        "2021",
+        "Tom Crowther"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "Rethinking Living",
+        "what",
+        "how",
+        "where",
+        "Climate Day"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "Rachael Garrett_has_role_professor",
+        "Tom Crowther_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

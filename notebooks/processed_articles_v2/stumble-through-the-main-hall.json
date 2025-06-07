@@ -1,0 +1,274 @@
+{
+  "filename": "stumble-through-the-main-hall.md",
+  "original_filename": "stumble-through-the-main-hall.html",
+  "source_path": "en_internal/2015/04/stumble-through-the-main-hall.html",
+  "date": "2015-04",
+  "title": "Stumble Through The Main Hall",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Uneven surfaces, stairs with obstacles and paths with moving elements: over the next few days, members of ETH Zurich can test how sure-footed they are on SUVA’s stumbling circuit – but in a safe environment.\n\nThe Safety, Security, Health and Environment (SSHE) staff unit has set up the stumbling circuit in the main hall of the ETH Main Building to mark the World Day for Safety and Health at Work. You can register to have a go here . You can also register on arrival in the hall, but there is a limited number of places available.\n\nThere will also be a campaign from Tuesday, 28 April to Thursday, 30 April, providing interested employees with information and material on various safety-related topics, such as equipment, exercise in daily life, maternity protection and safety in the household, as well as an overview of the SSHE safety courses.\n\nThe World Day is an initiative of the International Labour Organization (ILO), a specialised agency of the United Nations (UN) which is committed to various causes, including improving working conditions throughout the world."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Main Hall",
+        "label": "WORK_OF_ART",
+        "start": 36,
+        "end": 49
+      },
+      {
+        "text": "the next few days",
+        "label": "DATE",
+        "start": 76,
+        "end": 93
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 106,
+        "end": 116
+      },
+      {
+        "text": "SUVA",
+        "label": "ORG",
+        "start": 154,
+        "end": 158
+      },
+      {
+        "text": "The Safety, Security, Health and Environment",
+        "label": "ORG",
+        "start": 208,
+        "end": 252
+      },
+      {
+        "text": "SSHE",
+        "label": "ORG",
+        "start": 254,
+        "end": 258
+      },
+      {
+        "text": "the World Day",
+        "label": "EVENT",
+        "start": 354,
+        "end": 367
+      },
+      {
+        "text": "Tuesday",
+        "label": "DATE",
+        "start": 568,
+        "end": 575
+      },
+      {
+        "text": "28 April to Thursday",
+        "label": "DATE",
+        "start": 577,
+        "end": 597
+      },
+      {
+        "text": "30 April",
+        "label": "DATE",
+        "start": 599,
+        "end": 607
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 735,
+        "end": 740
+      },
+      {
+        "text": "SSHE",
+        "label": "ORG",
+        "start": 827,
+        "end": 831
+      },
+      {
+        "text": "The World Day",
+        "label": "EVENT",
+        "start": 848,
+        "end": 861
+      },
+      {
+        "text": "the International Labour Organization (ILO",
+        "label": "ORG",
+        "start": 882,
+        "end": 924
+      },
+      {
+        "text": "the United Nations",
+        "label": "ORG",
+        "start": 951,
+        "end": 969
+      },
+      {
+        "text": "UN",
+        "label": "ORG",
+        "start": 971,
+        "end": 973
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "SSHE",
+        "SUVA",
+        "The Safety, Security, Health and Environment",
+        "UN",
+        "the International Labour Organization (ILO",
+        "the United Nations"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "28 April to Thursday",
+        "30 April",
+        "Tuesday",
+        "daily",
+        "the next few days"
+      ],
+      "MISC": [
+        "The Main Hall",
+        "The World Day",
+        "the World Day"
+      ]
+    },
+    "entity_counts": {
+      "SSHE": 2,
+      "The Main Hall": 1,
+      "the next few days": 1,
+      "ETH Zurich": 1,
+      "SUVA": 1,
+      "The Safety, Security, Health and Environment": 1,
+      "the World Day": 1,
+      "Tuesday": 1,
+      "28 April to Thursday": 1,
+      "30 April": 1,
+      "daily": 1,
+      "The World Day": 1,
+      "the International Labour Organization (ILO": 1,
+      "the United Nations": 1,
+      "UN": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "stumble-through-the-main-hall.md",
+      "title": "En Internal/2015/04/stumble Through The Main Hall",
+      "language": "en",
+      "source_path": "en_internal/2015/04/stumble-through-the-main-hall.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "The Main Hall",
+        "The World Day",
+        "the World Day"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "ETH Main",
+        "Main Hall",
+        "The World",
+        "Through The",
+        "International Labour",
+        "En Internal",
+        "United Nations",
+        "World Day",
+        "The Safety",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "SSHE",
+        "SUVA",
+        "The Safety, Security, Health and Environment",
+        "UN",
+        "the International Labour Organization (ILO",
+        "the United Nations"
+      ],
+      "locations": [],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "SSHE",
+        "The Main Hall",
+        "the next few days",
+        "ETH Zurich",
+        "SUVA",
+        "The Safety, Security, Health and Environment",
+        "the World Day",
+        "Tuesday",
+        "28 April to Thursday",
+        "30 April"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1126
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "SSHE",
+        "the United Nations",
+        "UN",
+        "The Safety, Security, Health and Environment",
+        "ETH Zurich",
+        "the International Labour Organization (ILO",
+        "SUVA",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "The World Day",
+        "The Main Hall",
+        "the World Day",
+        "how",
+        "medical_research",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

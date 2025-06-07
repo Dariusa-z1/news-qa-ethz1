@@ -1,0 +1,391 @@
+{
+  "filename": "monitoring-gene-activities-in-living-cells.md",
+  "original_filename": "monitoring-gene-activities-in-living-cells.html",
+  "source_path": "en_news_events/2022/08/monitoring-gene-activities-in-living-cells.html",
+  "date": "2022-08",
+  "title": "Monitoring Gene Activities In Living Cells",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Cell Biopsy instead of cell lysis",
+      "text": "Modern biology is increasingly seeking to understand why individual cells behave differently. Various highly sensitive measurement methods have been available in basic research for a few years that allow specific analysis of single cells. This single-cell analysis enables researchers to detect differences between cells in a group, find rare cell types and identify diseased cells – which is not possible with samples from mixed cell populations.\n\nScientists increasingly want to find out which genes in a specific cell are turned on or off. This can be examined by using single-cell RNA sequencing (scRNA-seq). As many messenger RNA molecules in the cell fluid as possible are decoded and matched with their respective active gene sequences. In this way, scRNA-seq can measure the activity of thousands of genes in a cell.\n\nThe new field of scRNA-seq has quickly grown into an important tool in biomedical research and today comprises numerous techniques for analysis of the entire messenger RNA, known as the transcriptome. \"All these techniques have one limitation in common that was long considered unavoidable,\" says Julia Vorholt, Professor of Microbiology at ETH Zurich, \"namely, that the cells to be studied have to be isolated and lysed – and thus killed.\""
+    },
+    {
+      "heading": "Cell Biopsy instead of cell lysis",
+      "text": "A team of researchers led by Vorholt and EPFL Professor of Systems Biology Bart Deplancke has now come up with an alternative to scRNA-seq: the team is also analysing the transcriptome, but in a minimally invasive manner by cellular biopsy, thus keeping the cell alive and functionally intact – which is unique. The scientists have presented their \"Live-seq\" technique in the journal Nature ."
+    },
+    {
+      "heading": "Tracking gene activity over time",
+      "text": "According to the researchers, the fact that the cell under analysis does not die is an advantage in itself: \"Our strength is that we can continue to observe the sampled cells under the microscope to see how they develop and behave,\" Vorholt explains.\n\nIn addition, Live-seq leaves the cells in their physiological context. \"The micro-environment and cell-cell interactions remain intact,\" says Orane Guillaume-Gentil, a postdoc in Vorholt's group. Together with Wanze Chen from EPFL, she developed the method in the laboratory."
+    },
+    {
+      "heading": "Based on a cell suction microsystem",
+      "text": "The researchers laid the groundwork for recording the transcriptome of living cells some time ago at ETH Zurich. The basis is the FluidFM micro-injection system developed at ETH Zurich, which can manipulate minuscule quantities of fluid under a microscope. Vorholt and her group turned the \"smallest injection needle in the world\" into a cell extraction method in order to prick individual living cells with the micro-injection needle and extract their content (see ETH News article ).\n\nThe teams led by Vorholt and Deplancke are now showing that the full transcriptome can be recorded from such cell biopsies. The decisive breakthrough happened when the researchers succeeded in reading RNA out of these tiny quantities of cell fluid.\n\nTo validate Live-seq, the EPFL-ETH research team demonstrated that their analytical tool can accurately identify different cell types and cell states without disturbing them. The researchers also used their platform to directly map the changes in individual immune cells before and after they became active and in adipose stromal cells – a type of stem cell – before and after they differentiated into fat cells.\n\nLive-seq can now help investigate new biomedical questions. Deplancke explains in more detail: \"For example, why certain cells differentiate and their sister cells don't, or why certain cells are resistant to a cancer medication and their sister cells aren't.\"\n\nLive-seq is able to track the activity of thousands of genes in a single cell over time through repeated measurements. \"Single-cell analysis is transforming from a single endpoint into a temporal and spatial analytical method,\" says Vorholt.\n\nThis article is based on a news item that has been published by EPFL .\n\nChen W, Guillaume-Gentil O et al. Live-seq enables temporal transcriptomic recording of single cells. Nature (2022), doi: 10.1038/s41586-022-05046-9"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Gene Activities",
+        "label": "ORG",
+        "start": 34,
+        "end": 49
+      },
+      {
+        "text": "a few years",
+        "label": "DATE",
+        "start": 181,
+        "end": 192
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 584,
+        "end": 587
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 794,
+        "end": 803
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 919,
+        "end": 924
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1052,
+        "end": 1055
+      },
+      {
+        "text": "Julia Vorholt",
+        "label": "PERSON",
+        "start": 1121,
+        "end": 1134
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 29,
+        "end": 36
+      },
+      {
+        "text": "Deplancke",
+        "label": "PERSON",
+        "start": 80,
+        "end": 89
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 384,
+        "end": 390
+      },
+      {
+        "text": "Vorholt",
+        "label": "WORK_OF_ART",
+        "start": 233,
+        "end": 240
+      },
+      {
+        "text": "Orane Guillaume-Gentil",
+        "label": "PERSON",
+        "start": 393,
+        "end": 415
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 430,
+        "end": 437
+      },
+      {
+        "text": "Wanze Chen",
+        "label": "PERSON",
+        "start": 461,
+        "end": 471
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 477,
+        "end": 481
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 101,
+        "end": 111
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 174,
+        "end": 184
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 257,
+        "end": 264
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 466,
+        "end": 474
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 503,
+        "end": 510
+      },
+      {
+        "text": "Deplancke",
+        "label": "PERSON",
+        "start": 515,
+        "end": 524
+      },
+      {
+        "text": "Deplancke",
+        "label": "PERSON",
+        "start": 1208,
+        "end": 1217
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 1451,
+        "end": 1460
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 1642,
+        "end": 1649
+      },
+      {
+        "text": "Chen W",
+        "label": "PERSON",
+        "start": 1722,
+        "end": 1728
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1844,
+        "end": 1851
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chen W",
+        "Deplancke",
+        "Julia Vorholt",
+        "Orane Guillaume-Gentil",
+        "Wanze Chen"
+      ],
+      "ORG": [
+        "EPFL",
+        "ETH News",
+        "ETH Zurich",
+        "Gene Activities",
+        "RNA"
+      ],
+      "LOCATION": [
+        "Vorholt"
+      ],
+      "DATE": [
+        "a few years",
+        "today"
+      ],
+      "MISC": [
+        "10.1038",
+        "Nature",
+        "Vorholt",
+        "one",
+        "thousands"
+      ]
+    },
+    "entity_counts": {
+      "Vorholt": 6,
+      "Deplancke": 3,
+      "thousands": 2,
+      "ETH Zurich": 2,
+      "Gene Activities": 1,
+      "a few years": 1,
+      "RNA": 1,
+      "today": 1,
+      "one": 1,
+      "Julia Vorholt": 1,
+      "Nature": 1,
+      "Orane Guillaume-Gentil": 1,
+      "Wanze Chen": 1,
+      "EPFL": 1,
+      "ETH News": 1,
+      "Chen W": 1,
+      "10.1038": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "monitoring-gene-activities-in-living-cells.md",
+      "title": "En News Events/2022/08/monitoring Gene Activities in Living Cells",
+      "language": "en",
+      "source_path": "en_news_events/2022/08/monitoring-gene-activities-in-living-cells.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chen W",
+        "Deplancke",
+        "Julia Vorholt",
+        "Orane Guillaume-Gentil",
+        "Wanze Chen"
+      ],
+      "people_with_roles": {
+        "Deplancke": [
+          "researcher",
+          "professor"
+        ],
+        "Julia Vorholt": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Nature",
+        "Vorholt",
+        "thousands"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Bart Deplancke",
+        "Gene Activities",
+        "En News",
+        "EPFL Professor",
+        "Chen W",
+        "Guillaume-Gentil",
+        "Systems Biology",
+        "EPFL-ETH",
+        "Julia Vorholt",
+        "Living Cells",
+        "Wanze Chen",
+        "ETH News",
+        "ETH Zurich",
+        "Orane Guillaume"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "EPFL",
+        "ETH News",
+        "ETH Zurich",
+        "Gene Activities",
+        "RNA"
+      ],
+      "locations": [
+        "Vorholt"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Vorholt",
+        "Deplancke",
+        "thousands",
+        "ETH Zurich",
+        "Gene Activities",
+        "a few years",
+        "RNA",
+        "today",
+        "one",
+        "Julia Vorholt"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Cell Biopsy instead of cell lysis",
+          "Cell Biopsy instead of cell lysis",
+          "Tracking gene activity over time",
+          "Based on a cell suction microsystem"
+        ],
+        "content_length": 4130
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EPFL",
+        "RNA",
+        "Gene Activities",
+        "Chen W",
+        "Deplancke",
+        "2022",
+        "Julia Vorholt",
+        "Wanze Chen",
+        "ETH News",
+        "ETH Zurich",
+        "Orane Guillaume-Gentil"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "Nature",
+        "who",
+        "thousands",
+        "10.1038",
+        "biology",
+        "what",
+        "Vorholt",
+        "how",
+        "medical_research",
+        "why",
+        "when"
+      ],
+      "graph_relations": [
+        "Deplancke_has_role_researcher",
+        "Deplancke_has_role_professor",
+        "Julia Vorholt_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

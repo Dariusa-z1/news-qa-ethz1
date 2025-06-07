@@ -1,0 +1,591 @@
+{
+  "filename": "warnung-vor-cyberattacken.md",
+  "original_filename": "warnung-vor-cyberattacken.html",
+  "source_path": "de_internal/2021/03/warnung-vor-cyberattacken.html",
+  "date": "2021-03",
+  "title": "Warnung Vor Cyberattacken",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Das ist CEO-Fraud",
+      "text": "- “Hello are you free at the moment? I need your assistance urgently.”\n\n- “Okay good. I’m in a meeting just now and need you to get me something right away. Is there a grocery store close to you?”\n\n- “Good, so this what I’d like you to do as quickly as possible. Could you buy me four Google Play gift cards, at 100 francs each? Then please send me photos of the voucher numbers on the cards. I’ll reimburse you as soon as I can, of course.”\n\n- “Thanks! But I need three more cards and I can’t get out of this meeting! Can you help me out again, please?”\n\n- E-Mail-Adresse überprüfen: Fahren Sie mit dem Mauszeiger langsam über den Namen des Absenders, aber klicken Sie diesen nicht an. Wenn es keine ETH-Adresse ist, selbst wenn der Name der/des Vorgesetzten darin vorkommt, ist Misstrauen angezeigt.\n\n- Typisches Erkennungszeichen: Die Anfrage ist sehr dringend, um keine Zeit zum Nachdenken zu lassen. Es wird auf Ihre Hilfsbereitschaft gesetzt.\n\n- Achten Sie auf Digitale Signaturen und setzen Sie sie selbst ein. Nur dann ist der/die Sender/in einwandfrei identifiziert.\n\n- Klicken Sie niemals auf Links oder Attachments in fragwürdigen E-Mails.\n\n- Geben Sie niemals Passwörter heraus, auch wenn die Anfrage vertrauenswürdig erscheint.\n\n- Am besten die angegebene Person nachrecherchieren und über die offiziellen ETH-Telefonnummern bzw. über die offiziellen ETH-E-Mailadressen kontaktieren, um die Informationen zu verifizieren.\n\n- Leiten Sie die fragwürdige E-Mail an die entsprechende Supportstelle der IT-Services  weiter –  als Anhang!\n\n- Falls Sie etwas angeklickt haben oder Opfer einer Cyberattacke wurden, wenden Sie sich sofort an den ID Service Desk:  und/oder an die Informatiksupportgruppe Ihres Departments.\n\n- Wenn Sie Wertkarten gekauft oder Überweisungen getätigt haben, versuchen Sie so schnell als möglich, dies rückgängig zu machen (bei der Bank oder der Kundenkontaktstelle).\n\nHat Ihr Vorgesetzter plötzlich ein seltsames, dringendes Anliegen? Wenn Sie bei einer E-Mail ein ungutes Gefühl beschleicht, lohnt es sich, kurz innezuhalten. Es könnte sich um eine personalisierte Phishing-Attacke handeln."
+    },
+    {
+      "heading": "Das ist CEO-Fraud",
+      "text": "Die ETH verzeichnete im letzten Jahr vermehrt Cyberangriffe. Eine besonders hinterhältige Version der Angriffe sind CEO-Fraud-Attacken, bei denen Mitarbeitende scheinbar von ihren Vorgesetzten angeschrieben werden, um z.B. dringend Geschenkkarten zu kaufen. Bei dieser Form des Internet-Betrugs täuscht der Betrüger via E-Mail oder Anruf den oder die Mitarbeitenden, um Finanzdaten, Passwörter oder Überweisungen zu erschleichen. Er oder sie gibt dabei vor, der oder die Vorgesetzte des Opfers oder eine andere wichtige Person der Organisation zu sein, in der das anvisierte Opfer arbeitet."
+    },
+    {
+      "heading": "Dringlichkeit setzt Opfer unter Druck",
+      "text": "Sehr gerne werden hierbei die Codes von Geschenkkarten erschlichen (Google Play Cards oder Apple Store Cards), die die Opfer vielfach in guter Treu und Glauben auch mit ihrem privaten Geld kaufen. Hierbei suggeriert der Betrüger eine hohe Dringlichkeit, um das Opfer unter Druck zu setzen und ihm keine Zeit zum Nachdenken zu lassen. Die Opfer werden dabei persönlich mit Namen angeschrieben und ihre Hilfsbereitschaft wird hinterhältig ausgenutzt.\n\nDiese Attacken sind gut vorbereitet. «Während früher Phishing-E-Mails bereits aufgrund der Tippfehler auffielen, betreiben die Betrüger inzwischen aufwendige Internet-Recherchen», sagt Domenico Salvati, Chief Information Security Officer der ETH Zürich. So werde etwa der Name des Vorgesetzten sauber über die E-Mailadresse gelegt, die genauen Adressinformationen in die Fusszeile kopiert und manchmal sogar eine E-Mailadresse erstellt, die aussieht, als könnte sie eine private Adresse des Vorgesetzten sein. Oftmals sind die E-Mails in Englisch verfasst, wie das folgende Beispiel zeigt."
+    },
+    {
+      "heading": "Möglicher Ablauf eines CEO-Frauds",
+      "text": "Der ETH-Mitarbeitende X erhält folgende E-Mail-Anfrage, die anscheinend von seinem Vorgesetzten versendet wurde:\n\nMitarbeitender X: “Yes, I’m free now. What can I do to help you? ”\n\nMitarbeitender X: “Yes, there are several close by.”\n\nMitarbeitender X, etwas später: “I’ve got the cards. And here are the photos of the numbers.”\n\nMitarbeitender X: “....?”"
+    },
+    {
+      "heading": "Gesundes Misstrauen schadet nie",
+      "text": "Gerade jetzt, da vielen im Homeoffice der direkte Austausch fehlt und bei einem Verdacht nicht einfach schnell nachgefragt werden kann, ist besondere Vorsicht geboten.\n\nDie Betrüger im Netz sind hinterhältig und stellen es psychologisch geschickt an, Kontakt aufzubauen. Deshalb ist es so wichtig, immer aufmerksam zu bleiben, vor allem auch im Homeoffice. Wenn wir offen mit der Thematik umgehen und andere warnen, haben es die Betrüger schon um Einiges schwerer.\n\nMehr Informationen zu CEO-Fraud, Phishing und Internetbetrug finden Sie auf der ID-Website für Awareness IT Security ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2021/03/warnung",
+        "label": "LOC",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "Cyberattacken",
+        "label": "LOC",
+        "start": 32,
+        "end": 45
+      },
+      {
+        "text": "Is there a grocery",
+        "label": "MISC",
+        "start": 156,
+        "end": 174
+      },
+      {
+        "text": "close to you?",
+        "label": "MISC",
+        "start": 181,
+        "end": 194
+      },
+      {
+        "text": "Google Play",
+        "label": "MISC",
+        "start": 283,
+        "end": 294
+      },
+      {
+        "text": "at 100 francs",
+        "label": "MISC",
+        "start": 307,
+        "end": 320
+      },
+      {
+        "text": "Thanks!",
+        "label": "ORG",
+        "start": 443,
+        "end": 450
+      },
+      {
+        "text": "Can you help me out again",
+        "label": "ORG",
+        "start": 516,
+        "end": 541
+      },
+      {
+        "text": "Mauszeiger",
+        "label": "LOC",
+        "start": 600,
+        "end": 610
+      },
+      {
+        "text": "Absenders",
+        "label": "PER",
+        "start": 638,
+        "end": 647
+      },
+      {
+        "text": "ETH-Adresse",
+        "label": "MISC",
+        "start": 697,
+        "end": 708
+      },
+      {
+        "text": "Misstrauen",
+        "label": "LOC",
+        "start": 776,
+        "end": 786
+      },
+      {
+        "text": "Typisches Erkennungszeichen",
+        "label": "ORG",
+        "start": 800,
+        "end": 827
+      },
+      {
+        "text": "ETH-Telefonnummern",
+        "label": "MISC",
+        "start": 1310,
+        "end": 1328
+      },
+      {
+        "text": "IT-Services",
+        "label": "ORG",
+        "start": 1501,
+        "end": 1512
+      },
+      {
+        "text": "ID Service Desk",
+        "label": "ORG",
+        "start": 1637,
+        "end": 1652
+      },
+      {
+        "text": "Ihres Departments",
+        "label": "LOC",
+        "start": 1694,
+        "end": 1711
+      },
+      {
+        "text": "Sie Wertkarten",
+        "label": "MISC",
+        "start": 1720,
+        "end": 1734
+      },
+      {
+        "text": "Phishing-Attacke",
+        "label": "LOC",
+        "start": 2085,
+        "end": 2101
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "CEO-Fraud-Attacken",
+        "label": "MISC",
+        "start": 116,
+        "end": 134
+      },
+      {
+        "text": "Internet-Betrugs",
+        "label": "MISC",
+        "start": 278,
+        "end": 294
+      },
+      {
+        "text": "Google Play Cards",
+        "label": "MISC",
+        "start": 68,
+        "end": 85
+      },
+      {
+        "text": "Apple Store Cards",
+        "label": "MISC",
+        "start": 91,
+        "end": 108
+      },
+      {
+        "text": "Phishing-E-Mails",
+        "label": "MISC",
+        "start": 502,
+        "end": 518
+      },
+      {
+        "text": "Tippfehler",
+        "label": "MISC",
+        "start": 540,
+        "end": 550
+      },
+      {
+        "text": "Internet-Recherchen",
+        "label": "MISC",
+        "start": 607,
+        "end": 626
+      },
+      {
+        "text": "Domenico Salvati",
+        "label": "PER",
+        "start": 634,
+        "end": 650
+      },
+      {
+        "text": "Chief Information Security Officer",
+        "label": "ORG",
+        "start": 652,
+        "end": 686
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 691,
+        "end": 701
+      },
+      {
+        "text": "E-Mailadresse",
+        "label": "MISC",
+        "start": 759,
+        "end": 772
+      },
+      {
+        "text": "Fusszeile",
+        "label": "LOC",
+        "start": 820,
+        "end": 829
+      },
+      {
+        "text": "Englisch",
+        "label": "MISC",
+        "start": 987,
+        "end": 995
+      },
+      {
+        "text": "ETH-Mitarbeitende X",
+        "label": "MISC",
+        "start": 4,
+        "end": 23
+      },
+      {
+        "text": "Mitarbeitender X",
+        "label": "MISC",
+        "start": 113,
+        "end": 129
+      },
+      {
+        "text": "What can I do to help you?",
+        "label": "MISC",
+        "start": 151,
+        "end": 177
+      },
+      {
+        "text": "Mitarbeitender X",
+        "label": "MISC",
+        "start": 233,
+        "end": 249
+      },
+      {
+        "text": "the photos of the numbers",
+        "label": "ORG",
+        "start": 299,
+        "end": 324
+      },
+      {
+        "text": "Mitarbeitender X",
+        "label": "MISC",
+        "start": 327,
+        "end": 343
+      },
+      {
+        "text": "Homeoffice",
+        "label": "LOC",
+        "start": 344,
+        "end": 354
+      },
+      {
+        "text": "Einiges",
+        "label": "LOC",
+        "start": 446,
+        "end": 453
+      },
+      {
+        "text": "CEO-Fraud",
+        "label": "MISC",
+        "start": 486,
+        "end": 495
+      },
+      {
+        "text": "Phishing",
+        "label": "ORG",
+        "start": 497,
+        "end": 505
+      },
+      {
+        "text": "ID-Website",
+        "label": "MISC",
+        "start": 544,
+        "end": 554
+      },
+      {
+        "text": "Awareness IT Security",
+        "label": "MISC",
+        "start": 559,
+        "end": 580
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Absenders",
+        "Domenico Salvati"
+      ],
+      "ORG": [
+        "Can you help me out again",
+        "Chief Information Security Officer",
+        "ETH",
+        "ETH Zürich",
+        "ID Service Desk",
+        "IT-Services",
+        "Phishing",
+        "Thanks!",
+        "Typisches Erkennungszeichen",
+        "the photos of the numbers"
+      ],
+      "LOCATION": [
+        "Cyberattacken",
+        "De Internal/2021/03/warnung",
+        "Einiges",
+        "Fusszeile",
+        "Homeoffice",
+        "Ihres Departments",
+        "Mauszeiger",
+        "Misstrauen",
+        "Phishing-Attacke"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Apple Store Cards",
+        "Awareness IT Security",
+        "CEO-Fraud",
+        "CEO-Fraud-Attacken",
+        "E-Mailadresse",
+        "ETH-Adresse",
+        "ETH-Mitarbeitende X",
+        "ETH-Telefonnummern",
+        "Englisch",
+        "Google Play",
+        "Google Play Cards",
+        "ID-Website",
+        "Internet-Betrugs",
+        "Internet-Recherchen",
+        "Is there a grocery",
+        "Mitarbeitender X",
+        "Phishing-E-Mails",
+        "Sie Wertkarten",
+        "Tippfehler",
+        "What can I do to help you?",
+        "at 100 francs",
+        "close to you?"
+      ]
+    },
+    "entity_counts": {
+      "Mitarbeitender X": 3,
+      "De Internal/2021/03/warnung": 1,
+      "Cyberattacken": 1,
+      "Is there a grocery": 1,
+      "close to you?": 1,
+      "Google Play": 1,
+      "at 100 francs": 1,
+      "Thanks!": 1,
+      "Can you help me out again": 1,
+      "Mauszeiger": 1,
+      "Absenders": 1,
+      "ETH-Adresse": 1,
+      "Misstrauen": 1,
+      "Typisches Erkennungszeichen": 1,
+      "ETH-Telefonnummern": 1,
+      "IT-Services": 1,
+      "ID Service Desk": 1,
+      "Ihres Departments": 1,
+      "Sie Wertkarten": 1,
+      "Phishing-Attacke": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 43
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "warnung-vor-cyberattacken.md",
+      "title": "De Internal/2021/03/warnung Vor Cyberattacken",
+      "language": "de",
+      "source_path": "de_internal/2021/03/warnung-vor-cyberattacken.html"
+    },
+    "temporal": {
+      "publication_date": "2021-03",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Absenders",
+        "Domenico Salvati"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Apple Store Cards",
+        "Awareness IT Security",
+        "CEO-Fraud",
+        "CEO-Fraud-Attacken",
+        "E-Mailadresse",
+        "ETH-Adresse",
+        "ETH-Mitarbeitende X",
+        "ETH-Telefonnummern",
+        "Englisch",
+        "Google Play",
+        "Google Play Cards",
+        "ID-Website",
+        "Internet-Betrugs",
+        "Internet-Recherchen",
+        "Is there a grocery",
+        "Mitarbeitender X",
+        "Phishing-E-Mails",
+        "Sie Wertkarten",
+        "Tippfehler",
+        "What can I do to help you?",
+        "at 100 francs",
+        "close to you?"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Typisches Erkennungszeichen",
+        "Apple Store",
+        "Leiten Sie",
+        "Hat Ihr",
+        "Internet-Betrugs",
+        "Domenico Salvati",
+        "E-Mailadresse",
+        "Digitale Signaturen",
+        "ID Service",
+        "Phishing-Attacke",
+        "Phishing-E",
+        "But I",
+        "Geben Sie",
+        "Security Officer",
+        "Achten Sie",
+        "ETH-E",
+        "Die ETH",
+        "Der ETH",
+        "Mehr Informationen",
+        "Klicken Sie",
+        "Ihre Hilfsbereitschaft",
+        "Google Play",
+        "ETH-Telefonnummern",
+        "IT-Services",
+        "CEO-Fraud",
+        "ETH-Adresse",
+        "Mitarbeitender X",
+        "Diese Attacken",
+        "Fahren Sie",
+        "Informatiksupportgruppe Ihres",
+        "Mitarbeitende X",
+        "Die Opfer",
+        "E-Mail",
+        "Vor Cyberattacken",
+        "E-Mails",
+        "De Internal",
+        "Wenn Sie",
+        "Awareness IT",
+        "Falls Sie",
+        "Internet-Recherchen",
+        "Chief Information",
+        "Die Anfrage",
+        "ID-Website"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Can you help me out again",
+        "Chief Information Security Officer",
+        "ETH",
+        "ETH Zürich",
+        "ID Service Desk",
+        "IT-Services",
+        "Phishing",
+        "Thanks!",
+        "Typisches Erkennungszeichen",
+        "the photos of the numbers"
+      ],
+      "locations": [
+        "Cyberattacken",
+        "De Internal/2021/03/warnung",
+        "Einiges",
+        "Fusszeile",
+        "Homeoffice",
+        "Ihres Departments",
+        "Mauszeiger",
+        "Misstrauen",
+        "Phishing-Attacke"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Mitarbeitender X",
+        "De Internal/2021/03/warnung",
+        "Cyberattacken",
+        "Is there a grocery",
+        "close to you?",
+        "Google Play",
+        "at 100 francs",
+        "Thanks!",
+        "Can you help me out again",
+        "Mauszeiger"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Das ist CEO-Fraud",
+          "Das ist CEO-Fraud",
+          "Dringlichkeit setzt Opfer unter Druck",
+          "Möglicher Ablauf eines CEO-Frauds",
+          "Gesundes Misstrauen schadet nie"
+        ],
+        "content_length": 4745
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Typisches Erkennungszeichen",
+        "IT-Services",
+        "ID Service Desk",
+        "Can you help me out again",
+        "Thanks!",
+        "Absenders",
+        "EU",
+        "ETH Zürich",
+        "the photos of the numbers",
+        "Domenico Salvati",
+        "2021",
+        "Phishing",
+        "ERC",
+        "Chief Information Security Officer"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Internet-Betrugs",
+        "close to you?",
+        "Sie Wertkarten",
+        "E-Mailadresse",
+        "when",
+        "What can I do to help you?",
+        "ETH-Mitarbeitende X",
+        "Englisch",
+        "Phishing-E-Mails",
+        "Google Play",
+        "ETH-Telefonnummern",
+        "CEO-Fraud",
+        "who",
+        "ETH-Adresse",
+        "Mitarbeitender X",
+        "what",
+        "Awareness IT Security",
+        "Is there a grocery",
+        "Tippfehler",
+        "CEO-Fraud-Attacken",
+        "Google Play Cards",
+        "Apple Store Cards",
+        "Internet-Recherchen",
+        "ID-Website",
+        "at 100 francs"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

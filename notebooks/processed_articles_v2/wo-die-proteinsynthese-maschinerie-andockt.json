@@ -1,0 +1,583 @@
+{
+  "filename": "wo-die-proteinsynthese-maschinerie-andockt.md",
+  "original_filename": "wo-die-proteinsynthese-maschinerie-andockt.html",
+  "source_path": "de_news_events/2020/08/wo-die-proteinsynthese-maschinerie-andockt.html",
+  "date": "2020-08",
+  "title": "Wo Die Proteinsynthese Maschinerie Andockt",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Feinsteuerung der Proteinherstellung",
+      "text": "Das Erbgut von Bakterien, Pflanzen bis hin zum Menschen lässt sich heute sehr einfach entziffern, und dennoch birgt es viele offene Fragen. Da sind zum Beispiel die RNA-Abschriften der Gene und die Stellen darauf, an welche die zelluläre Proteinsynthese-Maschinerie (die Ribosomen) andocken, um die genetische Information abzulesen. Ein umfassendes Verständnis zu diesen Andockstellen fehlte bisher.\n\nEin interdisziplinäres Team von Forschenden des Departements Biosysteme (D-BSSE) der ETH Zürich in Basel hat nun einen Ansatz entwickelt, mit dem es erstmals möglich ist, detaillierte Informationen zu einer unglaublich grossen Zahl solcher Andockungsstellen in Bakterien zu gewinnen. Der Ansatz kombiniert experimentelle Methoden der synthetischen Biologie mit maschinellem Lernen."
+    },
+    {
+      "heading": "Feinsteuerung der Proteinherstellung",
+      "text": "Bei den Andockungsstellen handelt es sich um kurze Abfolgen von RNA-Bausteinen vor jedem Gen. In der Vergangenheit haben Biotechnologen auch künstliche Andockstellen entwickelt. An einige davon heften sich die Ribosomen äusserst gut, an andere weniger. Je besser Ribosomen an eine bestimmte Variante andocken können, desto eher lesen sie die Information des Gens ab und desto mehr des entsprechenden Proteins stellen sie her.\n\nWenn Biotechnologen Bakterien verwenden, um beispielsweise Medikamente herzustellen, können sie mit der Wahl der Ribosomen-Andockungsstellen die hergestellte Menge beeinflussen. «Besonders interessant und wichtig ist eine solche Steuerung, wenn man komplexe Gen-Netzwerke in Zellen bringt, die mehrere Proteine gleichzeitig herstellen sollen. Dann gilt es, ihre Menge optimal aufeinander abzustimmen», erklärt Markus Jeschek. Er ist Senior Scientist und Gruppenleiter am D-BSSE."
+    },
+    {
+      "heading": "Ein Experiment mit 300'000 Sequenzen",
+      "text": "Zusammen mit den ETH-Professoren Yaakov Benenson und Karsten Borgwardt sowie Mitgliedern der jeweiligen Gruppen entwickelte er nun eine Methode, um für über 300’000 synthetisch erzeugte RNA-Sequenzen zu bestimmen, wie gut Ribosomen an sie andocken. Bisher war das pro Experiment nur für wenige Hundert Sequenzen möglich.\n\nDer Ansatz der ETH-Forschenden benutzt «Deep Sequencing», die modernste Technik zur Bestimmung von DNA- und RNA-Sequenzen. Im Labor stellten die Wissenschaftler und Wissenschaftlerinnen in einem Schritt mehr als 300'000 verschiedene Ribosomen-Andockungsstellen her und fusionierten diese jeweils mit einem Gen für ein Enzym, das ein Stück DNA verändert. Die entsprechenden Gen-Konstrukte führten sie in Bakterien ein, um im Experiment zu sehen, wie stark sich im Einzelfall die Ribosomen an die RNA heften. Je besser die jeweilige Andockungsstelle funktioniert, desto mehr Enzym wird in der Zelle hergestellt, und umso eher wird das Stück DNA verändert. Diese Veränderung können die Forschenden im Anschluss an das Experiment mittels Sequenzierung zusammen mit der jeweiligen RNA-Sequenz der Andockstelle auslesen."
+    },
+    {
+      "heading": "Universeller Ansatz",
+      "text": "Weil 300'000 nur ein kleiner Teil von vielen Milliarden theoretisch denkbaren Ribosomen-Bindungsstellen ist, haben die Wissenschaftler ihre Daten mit Algorithmen des maschinellen Lernens untersucht. «Diese Algorithmen erkennen in grossen Datenbeständen komplexe statistische Zusammenhänge. Mit deren Hilfe können wir vorhersagen, wie gut Ribosomen eine bestimmte RNA-Sequenz binden», erklärt Karsten Borgwardt, Professor für Data-Mining. Diese Vorhersagemodelle stellten die ETH-Forschenden als Software frei zur Verfügung, damit auch andere Wissenschaftler sie nutzen können. Bald werden sie auch einen einfach zu nutzenden Onlineservice veröffentlichen.\n\nDer von den Wissenschaftlern gewählte Ansatz ist universell, wie Benenson und Jeschek betonen. Deshalb planen die Forscher, ihn auch in anderen Organismen zu nutzen bis hin zu menschlichen Zellen. «Der Einfluss von genetischer Information auf die Menge eines Proteins, das in einer Zelle hergestellt wird, ist auch beim Menschen interessant», sagt Benenson. «Gerade auch im Zusammenhang mit genetisch bedingten Krankheiten.»\n\nHöllerer S, Papaxanthos L, Gumpinger AC, Fischer K, Beisel C, Borgwardt K, Benenson Y, Jeschek M: Large-scale DNA-based phenotypic recording and deep learning enable highly accurate sequence-function mapping. Nature Communications 2020, doi: externe Seite 10.1038/s41467-020-17222-4"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Maschinerie Andockt",
+        "label": "MISC",
+        "start": 46,
+        "end": 65
+      },
+      {
+        "text": "Proteinsynthese-Maschinerie",
+        "label": "MISC",
+        "start": 238,
+        "end": 265
+      },
+      {
+        "text": "D-BSSE",
+        "label": "MISC",
+        "start": 473,
+        "end": 479
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 485,
+        "end": 495
+      },
+      {
+        "text": "Basel",
+        "label": "LOC",
+        "start": 499,
+        "end": 504
+      },
+      {
+        "text": "Andockungsstellen",
+        "label": "LOC",
+        "start": 8,
+        "end": 25
+      },
+      {
+        "text": "Gen",
+        "label": "MISC",
+        "start": 89,
+        "end": 92
+      },
+      {
+        "text": "Proteins",
+        "label": "PER",
+        "start": 400,
+        "end": 408
+      },
+      {
+        "text": "Biotechnologen",
+        "label": "LOC",
+        "start": 431,
+        "end": 445
+      },
+      {
+        "text": "Ribosomen-Andockungsstellen",
+        "label": "LOC",
+        "start": 539,
+        "end": 566
+      },
+      {
+        "text": "Markus Jeschek",
+        "label": "PER",
+        "start": 836,
+        "end": 850
+      },
+      {
+        "text": "D-BSSE",
+        "label": "MISC",
+        "start": 897,
+        "end": 903
+      },
+      {
+        "text": "ETH-Professoren",
+        "label": "ORG",
+        "start": 17,
+        "end": 32
+      },
+      {
+        "text": "Yaakov Benenson",
+        "label": "PER",
+        "start": 33,
+        "end": 48
+      },
+      {
+        "text": "Karsten Borgwardt",
+        "label": "PER",
+        "start": 53,
+        "end": 70
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 336,
+        "end": 351
+      },
+      {
+        "text": "Deep Sequencing",
+        "label": "MISC",
+        "start": 361,
+        "end": 376
+      },
+      {
+        "text": "RNA-Sequenzen",
+        "label": "MISC",
+        "start": 429,
+        "end": 442
+      },
+      {
+        "text": "Gen",
+        "label": "MISC",
+        "start": 627,
+        "end": 630
+      },
+      {
+        "text": "DNA",
+        "label": "MISC",
+        "start": 660,
+        "end": 663
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 816,
+        "end": 819
+      },
+      {
+        "text": "DNA",
+        "label": "MISC",
+        "start": 960,
+        "end": 963
+      },
+      {
+        "text": "Anschluss",
+        "label": "MISC",
+        "start": 1019,
+        "end": 1028
+      },
+      {
+        "text": "RNA-Sequenz",
+        "label": "ORG",
+        "start": 1097,
+        "end": 1108
+      },
+      {
+        "text": "Ribosomen-Bindungsstellen",
+        "label": "LOC",
+        "start": 78,
+        "end": 103
+      },
+      {
+        "text": "grossen",
+        "label": "LOC",
+        "start": 230,
+        "end": 237
+      },
+      {
+        "text": "RNA-Sequenz",
+        "label": "ORG",
+        "start": 363,
+        "end": 374
+      },
+      {
+        "text": "Karsten Borgwardt",
+        "label": "PER",
+        "start": 392,
+        "end": 409
+      },
+      {
+        "text": "Data-Mining",
+        "label": "ORG",
+        "start": 425,
+        "end": 436
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 475,
+        "end": 490
+      },
+      {
+        "text": "Onlineservice",
+        "label": "PER",
+        "start": 625,
+        "end": 638
+      },
+      {
+        "text": "Benenson",
+        "label": "PER",
+        "start": 721,
+        "end": 729
+      },
+      {
+        "text": "Jeschek",
+        "label": "PER",
+        "start": 734,
+        "end": 741
+      },
+      {
+        "text": "Benenson",
+        "label": "PER",
+        "start": 1004,
+        "end": 1012
+      },
+      {
+        "text": "Höllerer S",
+        "label": "MISC",
+        "start": 1081,
+        "end": 1091
+      },
+      {
+        "text": "Papaxanthos L",
+        "label": "PER",
+        "start": 1093,
+        "end": 1106
+      },
+      {
+        "text": "Fischer K",
+        "label": "MISC",
+        "start": 1122,
+        "end": 1131
+      },
+      {
+        "text": "Beisel C",
+        "label": "MISC",
+        "start": 1133,
+        "end": 1141
+      },
+      {
+        "text": "Borgwardt K",
+        "label": "PER",
+        "start": 1143,
+        "end": 1154
+      },
+      {
+        "text": "Benenson Y",
+        "label": "PER",
+        "start": 1156,
+        "end": 1166
+      },
+      {
+        "text": "Jeschek M",
+        "label": "PER",
+        "start": 1168,
+        "end": 1177
+      },
+      {
+        "text": "Large-scale DNA-based",
+        "label": "MISC",
+        "start": 1179,
+        "end": 1200
+      },
+      {
+        "text": "mapping",
+        "label": "ORG",
+        "start": 1281,
+        "end": 1288
+      },
+      {
+        "text": "Nature Communications",
+        "label": "MISC",
+        "start": 1290,
+        "end": 1311
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Benenson",
+        "Benenson Y",
+        "Borgwardt K",
+        "De News",
+        "Jeschek",
+        "Jeschek M",
+        "Karsten Borgwardt",
+        "Markus Jeschek",
+        "Onlineservice",
+        "Papaxanthos L",
+        "Proteins",
+        "Yaakov Benenson"
+      ],
+      "ORG": [
+        "Data-Mining",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "ETH-Professoren",
+        "RNA",
+        "RNA-Sequenz",
+        "mapping"
+      ],
+      "LOCATION": [
+        "Andockungsstellen",
+        "Basel",
+        "Biotechnologen",
+        "Ribosomen-Andockungsstellen",
+        "Ribosomen-Bindungsstellen",
+        "grossen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Anschluss",
+        "Beisel C",
+        "D-BSSE",
+        "DNA",
+        "Deep Sequencing",
+        "Fischer K",
+        "Gen",
+        "Höllerer S",
+        "Large-scale DNA-based",
+        "Maschinerie Andockt",
+        "Nature Communications",
+        "Proteinsynthese-Maschinerie",
+        "RNA-Sequenzen"
+      ]
+    },
+    "entity_counts": {
+      "D-BSSE": 2,
+      "Gen": 2,
+      "Karsten Borgwardt": 2,
+      "ETH-Forschenden": 2,
+      "DNA": 2,
+      "RNA-Sequenz": 2,
+      "Benenson": 2,
+      "De News": 1,
+      "Maschinerie Andockt": 1,
+      "Proteinsynthese-Maschinerie": 1,
+      "ETH Zürich": 1,
+      "Basel": 1,
+      "Andockungsstellen": 1,
+      "Proteins": 1,
+      "Biotechnologen": 1,
+      "Ribosomen-Andockungsstellen": 1,
+      "Markus Jeschek": 1,
+      "ETH-Professoren": 1,
+      "Yaakov Benenson": 1,
+      "Deep Sequencing": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 38
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "wo-die-proteinsynthese-maschinerie-andockt.md",
+      "title": "De News Events/2020/08/wo die Proteinsynthese Maschinerie Andockt",
+      "language": "de",
+      "source_path": "de_news_events/2020/08/wo-die-proteinsynthese-maschinerie-andockt.html"
+    },
+    "temporal": {
+      "publication_date": "2020-08",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Benenson",
+        "Benenson Y",
+        "Borgwardt K",
+        "De News",
+        "Jeschek",
+        "Jeschek M",
+        "Karsten Borgwardt",
+        "Markus Jeschek",
+        "Onlineservice",
+        "Papaxanthos L",
+        "Proteins",
+        "Yaakov Benenson"
+      ],
+      "people_with_roles": {
+        "Benenson": [
+          "professor"
+        ],
+        "Karsten Borgwardt": [
+          "professor"
+        ],
+        "Yaakov Benenson": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Anschluss",
+        "Beisel C",
+        "D-BSSE",
+        "Deep Sequencing",
+        "Fischer K",
+        "Höllerer S",
+        "Large-scale DNA-based",
+        "Maschinerie Andockt",
+        "Nature Communications",
+        "Proteinsynthese-Maschinerie",
+        "RNA-Sequenzen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Markus Jeschek",
+        "Gen-Konstrukte",
+        "Fischer K",
+        "RNA-Abschriften",
+        "Data-Mining",
+        "Im Labor",
+        "Wenn Biotechnologen",
+        "Diese Vorhersagemodelle",
+        "Diese Algorithmen",
+        "Jeschek M",
+        "Borgwardt K",
+        "Gumpinger AC",
+        "Proteinsynthese Maschinerie",
+        "Der Ansatz",
+        "RNA-Sequenzen",
+        "Beisel C",
+        "Senior Scientist",
+        "Proteinsynthese-Maschinerie",
+        "Hundert Sequenzen",
+        "D-BSSE",
+        "Deep Sequencing",
+        "Benenson Y",
+        "Ribosomen-Andockungsstellen",
+        "Departements Biosysteme",
+        "Yaakov Benenson",
+        "Nature Communications",
+        "ETH-Professoren",
+        "Der Einfluss",
+        "Gen-Netzwerke",
+        "Karsten Borgwardt",
+        "ETH-Forschenden",
+        "RNA-Bausteinen",
+        "De News",
+        "Ribosomen-Bindungsstellen",
+        "Papaxanthos L",
+        "Andockt Das",
+        "RNA-Sequenz"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Data-Mining",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "ETH-Professoren",
+        "RNA",
+        "RNA-Sequenz",
+        "mapping"
+      ],
+      "locations": [
+        "Andockungsstellen",
+        "Basel",
+        "Biotechnologen",
+        "Ribosomen-Andockungsstellen",
+        "Ribosomen-Bindungsstellen",
+        "grossen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "D-BSSE",
+        "Gen",
+        "Karsten Borgwardt",
+        "ETH-Forschenden",
+        "DNA",
+        "RNA-Sequenz",
+        "Benenson",
+        "De News",
+        "Maschinerie Andockt",
+        "Proteinsynthese-Maschinerie"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Feinsteuerung der Proteinherstellung",
+          "Feinsteuerung der Proteinherstellung",
+          "Ein Experiment mit 300'000 Sequenzen",
+          "Universeller Ansatz"
+        ],
+        "content_length": 4257
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Markus Jeschek",
+        "Data-Mining",
+        "2020",
+        "Jeschek M",
+        "Onlineservice",
+        "Borgwardt K",
+        "Benenson",
+        "ETH Zürich",
+        "RNA",
+        "mapping",
+        "Benenson Y",
+        "EU",
+        "Yaakov Benenson",
+        "ETH-Professoren",
+        "Karsten Borgwardt",
+        "Proteins",
+        "ETH-Forschenden",
+        "De News",
+        "Jeschek",
+        "Papaxanthos L",
+        "RNA-Sequenz"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Deep Sequencing",
+        "Fischer K",
+        "who",
+        "Maschinerie Andockt",
+        "Large-scale DNA-based",
+        "Beisel C",
+        "RNA-Sequenzen",
+        "Anschluss",
+        "Höllerer S",
+        "what",
+        "Nature Communications",
+        "Proteinsynthese-Maschinerie",
+        "computer_science",
+        "how",
+        "when",
+        "D-BSSE"
+      ],
+      "graph_relations": [
+        "Benenson_has_role_professor",
+        "Karsten Borgwardt_has_role_professor",
+        "Yaakov Benenson_has_role_professor",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "filename": "im-austausch-mit-talenten.md",
+  "original_filename": "im-austausch-mit-talenten.html",
+  "source_path": "de_news_events/2017/04/im-austausch-mit-talenten.html",
+  "date": "2017-04",
+  "title": "Im Austausch Mit Talenten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Im Rahmen eines «Tags der offenen Tür» empfingen ehemalige und aktuelle Excellence Scholars die Gäste, um ihre Forschungsprojekte zu präsentieren und sich über Studium, Motivation und Zukunftspläne auszutauschen. Rektorin und ESOP-Schirmherrin Sarah M. Springman dankte in ihrer Rede allen Förderern und Partnern, die jedes Jahr einen entscheidenden Beitrag zur Unterstützung der besten Talente leisten.\n\nMit dem Excellence Scholarship and Opportunity Programme ermöglicht die ETH Zürich seit 2007 Talenten, ein Masterstudium an der ETH Zürich ohne finanzielle Sorgen und mit spezieller Betreuung durch eine Lehrperson zu absolvieren. Mit dem Stipendium werden nur die besten aller neueintretenden Masterstudierenden gefördert, unabhängig von ihrer Herkunft und ihrer wirtschaftlichen Situation. Die Stipendien werden durch Donationen von Alumni, Freunden und Förderern an die ETH Zürich Foundation finanziert."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Sarah M. Springman",
+        "label": "PER",
+        "start": 244,
+        "end": 262
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 476,
+        "end": 486
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 532,
+        "end": 542
+      },
+      {
+        "text": "Alumni",
+        "label": "LOC",
+        "start": 838,
+        "end": 844
+      },
+      {
+        "text": "Freunden",
+        "label": "LOC",
+        "start": 846,
+        "end": 854
+      },
+      {
+        "text": "Förderern",
+        "label": "LOC",
+        "start": 859,
+        "end": 868
+      },
+      {
+        "text": "ETH Zürich Foundation",
+        "label": "ORG",
+        "start": 876,
+        "end": 897
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Sarah M. Springman"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH Zürich Foundation"
+      ],
+      "LOCATION": [
+        "Alumni",
+        "Freunden",
+        "Förderern"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "De News": 1,
+      "Sarah M. Springman": 1,
+      "Alumni": 1,
+      "Freunden": 1,
+      "Förderern": 1,
+      "ETH Zürich Foundation": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "im-austausch-mit-talenten.md",
+      "title": "De News Events/2017/04/im Austausch mit Talenten",
+      "language": "de",
+      "source_path": "de_news_events/2017/04/im-austausch-mit-talenten.html"
+    },
+    "temporal": {
+      "publication_date": "2017-04",
+      "mentioned_years": [
+        "2007",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Sarah M. Springman"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "alumni"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Talenten Im",
+        "Excellence Scholarship",
+        "Sarah M",
+        "Excellence Scholars",
+        "ESOP-Schirmherrin",
+        "De News",
+        "Opportunity Programme",
+        "Die Stipendien"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH Zürich Foundation"
+      ],
+      "locations": [
+        "Alumni",
+        "Freunden",
+        "Förderern"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "De News",
+        "Sarah M. Springman",
+        "Alumni",
+        "Freunden",
+        "Förderern",
+        "ETH Zürich Foundation"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 959
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2007",
+        "ETH Zürich Foundation",
+        "Sarah M. Springman",
+        "2017",
+        "EU",
+        "ETH Zürich",
+        "De News"
+      ],
+      "semantic_concepts": [
+        "who"
+      ],
+      "graph_relations": []
+    }
+  }
+}

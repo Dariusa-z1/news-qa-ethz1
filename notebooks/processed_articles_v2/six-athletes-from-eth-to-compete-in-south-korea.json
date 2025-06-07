@@ -1,0 +1,236 @@
+{
+  "filename": "six-athletes-from-eth-to-compete-in-south-korea.md",
+  "original_filename": "six-athletes-from-eth-to-compete-in-south-korea.html",
+  "source_path": "en_internal/2015/06/six-athletes-from-eth-to-compete-in-south-korea.html",
+  "date": "2015-06",
+  "title": "Six Athletes From Eth To Compete In South Korea",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Six of the athletes are students from ETH Zurich:\n\nLike the Olympic Games, the Universiade takes place in both summer and winter. The first Summer Universiade was organised in 1959 by the International University Sports Federation (FISU), with the first Winter Universiade following a year later."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "South Korea",
+        "label": "GPE",
+        "start": 56,
+        "end": 67
+      },
+      {
+        "text": "Six",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 38,
+        "end": 48
+      },
+      {
+        "text": "the Olympic Games",
+        "label": "EVENT",
+        "start": 55,
+        "end": 72
+      },
+      {
+        "text": "Universiade",
+        "label": "PERSON",
+        "start": 78,
+        "end": 89
+      },
+      {
+        "text": "both summer and winter",
+        "label": "DATE",
+        "start": 105,
+        "end": 127
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 133,
+        "end": 138
+      },
+      {
+        "text": "Summer Universiade",
+        "label": "WORK_OF_ART",
+        "start": 139,
+        "end": 157
+      },
+      {
+        "text": "the International University Sports Federation",
+        "label": "ORG",
+        "start": 183,
+        "end": 229
+      },
+      {
+        "text": "FISU",
+        "label": "ORG",
+        "start": 231,
+        "end": 235
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 247,
+        "end": 252
+      },
+      {
+        "text": "a year later",
+        "label": "DATE",
+        "start": 282,
+        "end": 294
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Universiade"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "FISU",
+        "the International University Sports Federation"
+      ],
+      "LOCATION": [
+        "South Korea"
+      ],
+      "DATE": [
+        "a year later",
+        "both summer and winter"
+      ],
+      "MISC": [
+        "Six",
+        "Summer Universiade",
+        "first",
+        "the Olympic Games"
+      ]
+    },
+    "entity_counts": {
+      "first": 2,
+      "South Korea": 1,
+      "Six": 1,
+      "ETH Zurich": 1,
+      "the Olympic Games": 1,
+      "Universiade": 1,
+      "both summer and winter": 1,
+      "Summer Universiade": 1,
+      "the International University Sports Federation": 1,
+      "FISU": 1,
+      "a year later": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "six-athletes-from-eth-to-compete-in-south-korea.md",
+      "title": "En Internal/2015/06/six Athletes From Eth To Compete in South Korea",
+      "language": "en",
+      "source_path": "en_internal/2015/06/six-athletes-from-eth-to-compete-in-south-korea.html"
+    },
+    "temporal": {
+      "publication_date": "2015-06",
+      "mentioned_years": [
+        "1959",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Universiade"
+      ],
+      "people_with_roles": {
+        "Universiade": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Summer Universiade",
+        "first",
+        "the Olympic Games"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Athletes From",
+        "Eth To",
+        "Olympic Games",
+        "International University",
+        "Winter Universiade",
+        "En Internal",
+        "Sports Federation",
+        "ETH Zurich",
+        "South Korea",
+        "Summer Universiade"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "FISU",
+        "the International University Sports Federation"
+      ],
+      "locations": [
+        "South Korea"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "first",
+        "South Korea",
+        "Six",
+        "ETH Zurich",
+        "the Olympic Games",
+        "Universiade",
+        "both summer and winter",
+        "Summer Universiade",
+        "the International University Sports Federation",
+        "FISU"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 364
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "1959",
+        "2015",
+        "FISU",
+        "Universiade",
+        "the International University Sports Federation",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "first",
+        "the Olympic Games",
+        "when",
+        "where",
+        "Summer Universiade"
+      ],
+      "graph_relations": [
+        "Universiade_has_role_student"
+      ]
+    }
+  }
+}

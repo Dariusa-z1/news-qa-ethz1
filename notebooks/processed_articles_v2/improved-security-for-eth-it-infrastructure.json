@@ -1,0 +1,389 @@
+{
+  "filename": "improved-security-for-eth-it-infrastructure.md",
+  "original_filename": "improved-security-for-eth-it-infrastructure.html",
+  "source_path": "en_internal/2021/07/improved-security-for-eth-it-infrastructure.html",
+  "date": "2021-07",
+  "title": "Improved Security For Eth It Infrastructure",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "When your computer becomes a threat",
+      "text": "- Always install updates for the latest firmware, operating system, software and apps as soon as you can.\n\n- Use virus protection software and be verify that it is updated regularly in the background at least once per hour.\n\n- Be sure to have regularly scheduled backups of your data and keep the backups in different places.\n\n- You should occasionally check whether your backed-up data can be restored. Whenever possible, use a professionally managed backup service (from IT Services or your IT support team). This is the best and most reliable way of securing your data.\n\n- Use secure passwords and change them immediately (using a safe computer) if you suspect that there is malicious software on your computer. Never use the same passwords.\n\nIt can happen quickly: you click on a link in an email that appears harmless at first glance, and suddenly ransomware is installing in the background. Ransomware is malicious software that encrypts data on vulnerable computers or even extensive parts of an IT network. Cybercriminals then hold the data for ransom, trying to extort individuals or organizations by claiming that they will decrypt the data in exchange for large sums of money. Normally back-ups and security tools are sufficient for restoring the lost data, but this requires that the data had already been properly secured beforehand."
+    },
+    {
+      "heading": "When your computer becomes a threat",
+      "text": "If your computer is updated with the latest anti-virus software and using the most current operating system and software applications, then chances are good that typical attacks from ransomware and other malicious code will be recognised and blocked from installation on your machine.\n\nIf that isn't the case, however, then it's not only your data that’s at risk, but also the data of the data of other vulnerable systems. This means that a computer that is connected to the ETH network (either directly or via VPN (Virtual Private Network)) and infected with ransomware or other malware poses a serious threat to the IT devices and data of others in ETH community. It doesn’t matter whether it's a private IT device like a laptop, mobile phone or tablet or a device issued by ETH Zurich.\n\nHow can these kinds of vulnerabilities in the IT infrastructure be identified before they are exploited by attackers on a large scale? The only way to substantially reduce the risk of falling victim to cyberattacks is to quickly identify and close any points of entry that could be used by malicious actors."
+    },
+    {
+      "heading": "How can ETH Zurich’s IT infrastructure be better protected?",
+      "text": "The university is currently reviewing options for implementing a service that can check for these kinds of technical vulnerabilities. The goal is to identify weaknesses on devices connected to the ETH network in order to keep up to date with the latest IT security standards and requirements.\n\nThe Acceptable Use Policy for Information and Communications Technology (BOT) underwent a partial revision in order to provide a legal basis for this move. The new version of BOT entered into force on 1 June 2021 and contains provisions that make it possible for ETH to improve its monitoring activities with regard to vulnerabilities in university IT resources (BOT Section 6, Article 18–20 bis ). The updates to the policy have laid the groundwork for ETH to introduce a vulnerability management system that monitors IT systems in the university’s network for compliance with the latest patches and updates.\n\nIn the event of acute cyber threats, BOT expressly permits the responsible IT operator (e.g., the IT Support Group of the department) or the IT Security Officer of IT Services to order security updates on behalf of the Chief Information Security Officer (CISO) to be installed immediately (BOT Article 20 bis para. 3). This authority has been granted to protect ETH Zurich's technical infrastructure from malicious attacks.\n\nDoes this mean that ETH will be checking what I'm doing on my computer in the future?\n\nNo. This new kind of system monitoring has nothing to do with accessing your private data or watching your workplace activities. The monitoring will solely focus on the technical condition of IT devices connected to the ETH network.\n\nHow can vulnerabilities of an IT device connected to the ETH network be detected in the future?\n\nAccording to the updated policy (BOT Appendix No. 3, para. 1 bis ), IT Services is permitted to record and analyse data not connected to individuals by name (anonymous or pseudonymous data) in in order to monitor IT security and potential risks in IT resources (e.g., compliance with latest patches and updates, virus protection notifications, vulnerability scans). On behalf of the CISO, IT Services may carry out these checks at any time.\n\nWhat else do I need to know?\n\nThe revised version of the BOT applies not only to the use of the entire IT infrastructure at ETH and all ETH devices, but also to outsourced services such as cloud storage platforms (BOT Article 3). The updated policy also applies to any private IT devices that are hooked up to ETH’s data network."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Security For Eth It Infrastructure",
+        "label": "WORK_OF_ART",
+        "start": 29,
+        "end": 63
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 821,
+        "end": 826
+      },
+      {
+        "text": "Ransomware",
+        "label": "ORG",
+        "start": 892,
+        "end": 902
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 474,
+        "end": 477
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 650,
+        "end": 653
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 776,
+        "end": 786
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 197,
+        "end": 200
+      },
+      {
+        "text": "BOT",
+        "label": "ORG",
+        "start": 366,
+        "end": 369
+      },
+      {
+        "text": "BOT",
+        "label": "ORG",
+        "start": 468,
+        "end": 471
+      },
+      {
+        "text": "1 June 2021",
+        "label": "DATE",
+        "start": 494,
+        "end": 505
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 556,
+        "end": 559
+      },
+      {
+        "text": "BOT Section 6",
+        "label": "ORG",
+        "start": 656,
+        "end": 669
+      },
+      {
+        "text": "Article 18–20",
+        "label": "LAW",
+        "start": 671,
+        "end": 684
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 747,
+        "end": 750
+      },
+      {
+        "text": "BOT",
+        "label": "ORG",
+        "start": 940,
+        "end": 943
+      },
+      {
+        "text": "the IT Support Group",
+        "label": "ORG",
+        "start": 997,
+        "end": 1017
+      },
+      {
+        "text": "the Chief Information Security",
+        "label": "ORG",
+        "start": 1118,
+        "end": 1148
+      },
+      {
+        "text": "BOT",
+        "label": "ORG",
+        "start": 1193,
+        "end": 1196
+      },
+      {
+        "text": "Article 20",
+        "label": "LAW",
+        "start": 1197,
+        "end": 1207
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 1265,
+        "end": 1277
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1347,
+        "end": 1350
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1633,
+        "end": 1636
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1703,
+        "end": 1706
+      },
+      {
+        "text": "BOT",
+        "label": "ORG",
+        "start": 1775,
+        "end": 1778
+      },
+      {
+        "text": "BOT",
+        "label": "ORG",
+        "start": 2239,
+        "end": 2242
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2306,
+        "end": 2309
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2318,
+        "end": 2321
+      },
+      {
+        "text": "BOT",
+        "label": "ORG",
+        "start": 2396,
+        "end": 2399
+      },
+      {
+        "text": "Article 3",
+        "label": "LAW",
+        "start": 2400,
+        "end": 2409
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2492,
+        "end": 2495
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich's"
+      ],
+      "ORG": [
+        "BOT",
+        "BOT Section 6",
+        "ETH",
+        "Ransomware",
+        "the Chief Information Security",
+        "the IT Support Group"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "1 June 2021"
+      ],
+      "MISC": [
+        "Article 18–20",
+        "Article 20",
+        "Article 3",
+        "Security For Eth It Infrastructure",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 11,
+      "BOT": 7,
+      "Security For Eth It Infrastructure": 1,
+      "first": 1,
+      "Ransomware": 1,
+      "ETH Zurich": 1,
+      "1 June 2021": 1,
+      "BOT Section 6": 1,
+      "Article 18–20": 1,
+      "the IT Support Group": 1,
+      "the Chief Information Security": 1,
+      "Article 20": 1,
+      "ETH Zurich's": 1,
+      "Article 3": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "improved-security-for-eth-it-infrastructure.md",
+      "title": "En Internal/2021/07/improved Security For Eth It Infrastructure",
+      "language": "en",
+      "source_path": "en_internal/2021/07/improved-security-for-eth-it-infrastructure.html"
+    },
+    "temporal": {
+      "publication_date": "2021-07",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich's"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Article 18–20",
+        "Article 20",
+        "Article 3",
+        "Security For Eth It Infrastructure",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "grant"
+      ],
+      "projects": [
+        "BOT Article",
+        "BOT Appendix",
+        "Security Officer",
+        "IT Services",
+        "En Internal",
+        "BOT Section",
+        "Use Policy",
+        "IT Support",
+        "Security For",
+        "IT Security",
+        "Chief Information",
+        "Communications Technology",
+        "ETH Zurich",
+        "The Acceptable",
+        "Eth It",
+        "Virtual Private"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BOT",
+        "BOT Section 6",
+        "ETH",
+        "Ransomware",
+        "the Chief Information Security",
+        "the IT Support Group"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "BOT",
+        "Security For Eth It Infrastructure",
+        "first",
+        "Ransomware",
+        "ETH Zurich",
+        "1 June 2021",
+        "BOT Section 6",
+        "Article 18–20",
+        "the IT Support Group"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "When your computer becomes a threat",
+          "When your computer becomes a threat",
+          "How can ETH Zurich’s IT infrastructure be better protected?"
+        ],
+        "content_length": 5028
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "grant",
+        "EU",
+        "BOT",
+        "the Chief Information Security",
+        "Ransomware",
+        "ETH Zurich",
+        "the IT Support Group",
+        "2021",
+        "BOT Section 6",
+        "ERC",
+        "ETH Zurich's"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Security For Eth It Infrastructure",
+        "Article 20",
+        "Article 3",
+        "where",
+        "what",
+        "how",
+        "Article 18–20",
+        "computer_science",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

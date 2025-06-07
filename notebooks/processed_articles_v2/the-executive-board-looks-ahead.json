@@ -1,0 +1,263 @@
+{
+  "filename": "the-executive-board-looks-ahead.md",
+  "original_filename": "the-executive-board-looks-ahead.html",
+  "source_path": "en_internal/2023/01/the-executive-board-looks-ahead.html",
+  "date": "2023-01",
+  "title": "The Executive Board Looks Ahead",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "As in previous years, the members of the ETH Zurich Executive Board used this town hall meeting for employees as an opportunity to take stock of the previous year and to look ahead to those topics that are likely to be important in the next.\n\nJoël Mesot, Günther Dissertori, Vanessa Wood, Ulrich Weidmann, Julia Dannath and Robert Perich talked about rising enrolment, energy-saving measures at ETH and the new social and leadership skills, among other topics. Christian Wolfrum also joined the meeting via livestream: the new Vice President for Research introduced himself to the employees at the town hall meeting and gave a preview of how he would like to shape the Vice Presidency going forward.\n\nAs the meeting drew to a close, all members of the ETH community were invited to ask questions of the Executive Board members.\n\nFor those who missed the event, a recording is now available:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the Executive Board Looks Ahead",
+        "label": "ORG",
+        "start": 20,
+        "end": 51
+      },
+      {
+        "text": "previous years",
+        "label": "DATE",
+        "start": 6,
+        "end": 20
+      },
+      {
+        "text": "the ETH Zurich Executive Board",
+        "label": "ORG",
+        "start": 37,
+        "end": 67
+      },
+      {
+        "text": "the previous year",
+        "label": "DATE",
+        "start": 145,
+        "end": 162
+      },
+      {
+        "text": "Joël Mesot",
+        "label": "PERSON",
+        "start": 242,
+        "end": 252
+      },
+      {
+        "text": "Günther Dissertori",
+        "label": "ORG",
+        "start": 254,
+        "end": 272
+      },
+      {
+        "text": "Vanessa Wood",
+        "label": "PERSON",
+        "start": 274,
+        "end": 286
+      },
+      {
+        "text": "Ulrich Weidmann",
+        "label": "PERSON",
+        "start": 288,
+        "end": 303
+      },
+      {
+        "text": "Julia Dannath",
+        "label": "PERSON",
+        "start": 305,
+        "end": 318
+      },
+      {
+        "text": "Robert Perich",
+        "label": "PERSON",
+        "start": 323,
+        "end": 336
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 394,
+        "end": 397
+      },
+      {
+        "text": "Christian Wolfrum",
+        "label": "PERSON",
+        "start": 460,
+        "end": 477
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 750,
+        "end": 753
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 797,
+        "end": 816
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christian Wolfrum",
+        "Joël Mesot",
+        "Julia Dannath",
+        "Robert Perich",
+        "Ulrich Weidmann",
+        "Vanessa Wood"
+      ],
+      "ORG": [
+        "ETH",
+        "Günther Dissertori",
+        "the ETH Zurich Executive Board",
+        "the Executive Board",
+        "the Executive Board Looks Ahead"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "previous years",
+        "the previous year"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "the Executive Board Looks Ahead": 1,
+      "previous years": 1,
+      "the ETH Zurich Executive Board": 1,
+      "the previous year": 1,
+      "Joël Mesot": 1,
+      "Günther Dissertori": 1,
+      "Vanessa Wood": 1,
+      "Ulrich Weidmann": 1,
+      "Julia Dannath": 1,
+      "Robert Perich": 1,
+      "Christian Wolfrum": 1,
+      "the Executive Board": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-executive-board-looks-ahead.md",
+      "title": "En Internal/2023/01/the Executive Board Looks Ahead",
+      "language": "en",
+      "source_path": "en_internal/2023/01/the-executive-board-looks-ahead.html"
+    },
+    "temporal": {
+      "publication_date": "2023-01",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Christian Wolfrum",
+        "Joël Mesot",
+        "Julia Dannath",
+        "Robert Perich",
+        "Ulrich Weidmann",
+        "Vanessa Wood"
+      ],
+      "people_with_roles": {
+        "Christian Wolfrum": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Ulrich Weidmann",
+        "Vice President",
+        "Robert Perich",
+        "Christian Wolfrum",
+        "Executive Board",
+        "Looks Ahead",
+        "En Internal",
+        "Vice Presidency",
+        "Vanessa Wood",
+        "ETH Zurich",
+        "Julia Dannath"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Günther Dissertori",
+        "the ETH Zurich Executive Board",
+        "the Executive Board",
+        "the Executive Board Looks Ahead"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "the Executive Board Looks Ahead",
+        "previous years",
+        "the ETH Zurich Executive Board",
+        "the previous year",
+        "Joël Mesot",
+        "Günther Dissertori",
+        "Vanessa Wood",
+        "Ulrich Weidmann",
+        "Julia Dannath"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 942
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Ulrich Weidmann",
+        "ETH",
+        "Joël Mesot",
+        "Günther Dissertori",
+        "Robert Perich",
+        "the ETH Zurich Executive Board",
+        "Christian Wolfrum",
+        "the Executive Board Looks Ahead",
+        "the Executive Board",
+        "Vanessa Wood",
+        "Julia Dannath",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "how",
+        "what",
+        "when"
+      ],
+      "graph_relations": [
+        "Christian Wolfrum_has_role_president",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

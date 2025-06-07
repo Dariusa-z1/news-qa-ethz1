@@ -1,0 +1,506 @@
+{
+  "filename": "using-drones-to-monitor-rainforest-biodiversity.md",
+  "original_filename": "using-drones-to-monitor-rainforest-biodiversity.html",
+  "source_path": "en_news_events/2023/07/using-drones-to-monitor-rainforest-biodiversity.html",
+  "date": "2023-07",
+  "title": "Using Drones To Monitor Rainforest Biodiversity",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The semi-final challenge",
+      "text": "XPRIZE Rainforest is a global competition offering 10 million US dollars to develop new biodiversity assessment technologies to improve our understanding of rainforest ecosystems. The prize was launched 2019 with just under 300 teams, which were narrowed down to 13 semi-finalist competitors. Semi-finals testing was held in the Singapore rainforest in May and June 2023 and included ETH BiodivX, a team led by ETH Zurich comprising 29 members from 13 different countries whose aim is to demonstrate the effectiveness of their jointly developed technologies. In total, 56 people from 15 organizations contributed to the ETH BiodivX team, including the three ETH spin-offs Restor, Diaxxo, and SimplexDNA."
+    },
+    {
+      "heading": "The semi-final challenge",
+      "text": "Each team had 72 hours in total to complete their testing: 24 hours to collect samples and 48 hours to analyze the findings and compile a report. The challenge was to identify as many species of plants and animals as possible across a designated plot without actually setting foot in the jungle.\n\nOver 24 hours, the ETH BiodivX team's drone scanned the rainforest 41 times, collecting 50 samples of environmental DNA (eDNA). These are DNA traces that living beings leave behind in their habitat – through excretions or the loss of skin and hair particles, for example. By collecting eDNA, the presence of different species in a given area can be detected. Using drones, the ETH BiodivX team collected three different types of eDNA samples: water, air, and surface samples. To collect the surface samples, the researchers developed a probe that could take swabs from a wide variety of surfaces. This was attached to a drone and could be lowered deep into the rainforest by a winch. “This technique allows us to sample environmental DNA from inside the tree canopy, which would otherwise be impossible to access,” explains ETH Professor Stefano Mintchev, a member of the ETH BiodivX team.\n\nA rover and a drone, developed by researchers from the University of Aarhus and TU-Delft, were also used during the semi-finals. During their deployment in the rainforest, these autonomous devices recorded a total of 130 gigabytes of video and audio data. Citizen scientists and AI algorithms, co-led and deployed by Zurich-based non-profit organization GainForest, monitored their activities via a live stream and identified additional species.\n\nOverall, more than 12 million DNA sequences were produced, and the team was able to detect a total of 257 plant and animal species. The findings were then compiled in a report numbering more than 70 pages."
+    },
+    {
+      "heading": "Zoo Zurich: the ideal practice environment",
+      "text": "The hot and humid conditions in the rainforest pose a significant challenge for the electronics used. Moreover, sampling techniques also had to be practiced before the researchers set off for Singapore. Fortunately, the Masoala Rainforest in Zoo Zurich provided the ideal practice conditions. “Alongside our mission to educate, conserve nature and protect endangered species, one of the four core tasks of a modern zoo is research. Our collaboration with ETH Zurich is a great example of how the Masoala Rainforest can be used for testing and optimizing research methods before deployment in the field,” explains Dr Leyla Davis, Research Curator at Zoo Zurich.\n\nOn Monday, 24 July, the six XPRIZE Rainforest finalists were announced at the ICCB 2023 conference . The intensive and long-term work on the project paid off as the group ETH BiodivX made it to the final round of the competition. \"This achievement represents a remarkable milestone for our team. We owe our success to the exceptional mix of individuals from a wide variety of disciplines who contributed their ideas and diverse skills from robotics, DNA sequencing, social sciences, and other fields,\" declares Stefano Mintchev.\n\nETH-professor Kristy Deiner adds: \"There could not be a better time for such a competition to bring forward the solutions needed for helping with the biodiversity crisis. We are honored to be among the finalist teams. Most importantly, we look forward to advancing our technologies.\" The teams that made it to the last round can now revise their technologies again before proceeding to the finale in 2024."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Drones",
+        "label": "PERSON",
+        "start": 29,
+        "end": 35
+      },
+      {
+        "text": "XPRIZE Rainforest",
+        "label": "ORG",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "10 million US dollars",
+        "label": "MONEY",
+        "start": 51,
+        "end": 72
+      },
+      {
+        "text": "just under 300",
+        "label": "CARDINAL",
+        "start": 213,
+        "end": 227
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 329,
+        "end": 338
+      },
+      {
+        "text": "May and June 2023",
+        "label": "DATE",
+        "start": 353,
+        "end": 370
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 384,
+        "end": 387
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 411,
+        "end": 421
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 620,
+        "end": 623
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 652,
+        "end": 657
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 658,
+        "end": 661
+      },
+      {
+        "text": "72 hours",
+        "label": "TIME",
+        "start": 14,
+        "end": 22
+      },
+      {
+        "text": "24 hours",
+        "label": "TIME",
+        "start": 59,
+        "end": 67
+      },
+      {
+        "text": "48 hours",
+        "label": "TIME",
+        "start": 91,
+        "end": 99
+      },
+      {
+        "text": "24 hours",
+        "label": "TIME",
+        "start": 301,
+        "end": 309
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 315,
+        "end": 318
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 673,
+        "end": 676
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 700,
+        "end": 705
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1120,
+        "end": 1123
+      },
+      {
+        "text": "Stefano Mintchev",
+        "label": "PERSON",
+        "start": 1134,
+        "end": 1150
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1168,
+        "end": 1171
+      },
+      {
+        "text": "the University of Aarhus",
+        "label": "ORG",
+        "start": 1237,
+        "end": 1261
+      },
+      {
+        "text": "TU-Delft",
+        "label": "ORG",
+        "start": 1266,
+        "end": 1274
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 1465,
+        "end": 1467
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1503,
+        "end": 1509
+      },
+      {
+        "text": "GainForest",
+        "label": "ORG",
+        "start": 1540,
+        "end": 1550
+      },
+      {
+        "text": "more than 12 million",
+        "label": "MONEY",
+        "start": 1641,
+        "end": 1661
+      },
+      {
+        "text": "more than 70",
+        "label": "CARDINAL",
+        "start": 1818,
+        "end": 1830
+      },
+      {
+        "text": "Singapore",
+        "label": "GPE",
+        "start": 192,
+        "end": 201
+      },
+      {
+        "text": "Zoo Zurich",
+        "label": "GPE",
+        "start": 242,
+        "end": 252
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 376,
+        "end": 379
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 387,
+        "end": 391
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 455,
+        "end": 465
+      },
+      {
+        "text": "Davis",
+        "label": "PERSON",
+        "start": 622,
+        "end": 627
+      },
+      {
+        "text": "Zoo Zurich",
+        "label": "FAC",
+        "start": 649,
+        "end": 659
+      },
+      {
+        "text": "Monday",
+        "label": "DATE",
+        "start": 664,
+        "end": 670
+      },
+      {
+        "text": "24 July",
+        "label": "DATE",
+        "start": 672,
+        "end": 679
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 685,
+        "end": 688
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 832,
+        "end": 835
+      },
+      {
+        "text": "Stefano Mintchev",
+        "label": "PERSON",
+        "start": 1172,
+        "end": 1188
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1190,
+        "end": 1193
+      },
+      {
+        "text": "Kristy Deiner",
+        "label": "PERSON",
+        "start": 1204,
+        "end": 1217
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Davis",
+        "Drones",
+        "ETH Zurich",
+        "Kristy Deiner",
+        "Stefano Mintchev"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "GainForest",
+        "TU-Delft",
+        "XPRIZE Rainforest",
+        "the University of Aarhus"
+      ],
+      "LOCATION": [
+        "AI",
+        "Singapore",
+        "Zoo Zurich",
+        "Zurich"
+      ],
+      "DATE": [
+        "24 July",
+        "24 hours",
+        "48 hours",
+        "72 hours",
+        "May and June 2023",
+        "Monday"
+      ],
+      "MISC": [
+        "10 million US dollars",
+        "four",
+        "just under 300",
+        "more than 12 million",
+        "more than 70",
+        "one",
+        "six",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 9,
+      "Singapore": 2,
+      "ETH Zurich": 2,
+      "three": 2,
+      "24 hours": 2,
+      "Stefano Mintchev": 2,
+      "Zoo Zurich": 2,
+      "Drones": 1,
+      "XPRIZE Rainforest": 1,
+      "10 million US dollars": 1,
+      "just under 300": 1,
+      "May and June 2023": 1,
+      "72 hours": 1,
+      "48 hours": 1,
+      "the University of Aarhus": 1,
+      "TU-Delft": 1,
+      "AI": 1,
+      "Zurich": 1,
+      "GainForest": 1,
+      "more than 12 million": 1
+    },
+    "total_entities": 42,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "using-drones-to-monitor-rainforest-biodiversity.md",
+      "title": "En News Events/2023/07/using Drones To Monitor Rainforest Biodiversity",
+      "language": "en",
+      "source_path": "en_news_events/2023/07/using-drones-to-monitor-rainforest-biodiversity.html"
+    },
+    "temporal": {
+      "publication_date": "2023-07",
+      "mentioned_years": [
+        "2019",
+        "2023",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Davis",
+        "Drones",
+        "ETH Zurich",
+        "Kristy Deiner",
+        "Stefano Mintchev"
+      ],
+      "people_with_roles": {
+        "Kristy Deiner": [
+          "professor"
+        ],
+        "Stefano Mintchev": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10 million US dollars",
+        "four",
+        "just under 300",
+        "more than 12 million",
+        "more than 70",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Drones To",
+        "Zoo Zurich",
+        "Dr Leyla",
+        "On Monday",
+        "En News",
+        "XPRIZE Rainforest",
+        "Stefano Mintchev",
+        "Kristy Deiner",
+        "ETH BiodivX",
+        "TU-Delft",
+        "ETH Professor",
+        "Masoala Rainforest",
+        "Research Curator",
+        "ETH Zurich",
+        "Monitor Rainforest",
+        "Biodiversity XPRIZE"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "GainForest",
+        "TU-Delft",
+        "XPRIZE Rainforest",
+        "the University of Aarhus"
+      ],
+      "locations": [
+        "AI",
+        "Singapore",
+        "Zoo Zurich",
+        "Zurich"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Singapore",
+        "ETH Zurich",
+        "three",
+        "24 hours",
+        "Stefano Mintchev",
+        "Zoo Zurich",
+        "Drones",
+        "XPRIZE Rainforest",
+        "10 million US dollars"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "The semi-final challenge",
+          "The semi-final challenge",
+          "Zoo Zurich: the ideal practice environment"
+        ],
+        "content_length": 4213
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "ETH",
+        "XPRIZE Rainforest",
+        "Davis",
+        "the University of Aarhus",
+        "GainForest",
+        "2019",
+        "Stefano Mintchev",
+        "Kristy Deiner",
+        "TU-Delft",
+        "Drones",
+        "ETH Zurich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "just under 300",
+        "three",
+        "four",
+        "who",
+        "more than 70",
+        "more than 12 million",
+        "10 million US dollars",
+        "what",
+        "how",
+        "computer_science",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Kristy Deiner_has_role_professor",
+        "Stefano Mintchev_has_role_Professor",
+        "Stefano Mintchev_has_role_professor",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

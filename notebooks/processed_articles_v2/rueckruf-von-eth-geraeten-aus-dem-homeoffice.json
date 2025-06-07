@@ -1,0 +1,309 @@
+{
+  "filename": "rueckruf-von-eth-geraeten-aus-dem-homeoffice.md",
+  "original_filename": "rueckruf-von-eth-geraeten-aus-dem-homeoffice.html",
+  "source_path": "de_internal/2022/04/rueckruf-von-eth-geraeten-aus-dem-homeoffice.html",
+  "date": "2022-04",
+  "title": "Rueckruf Von Eth Geraeten Aus Dem Homeoffice",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Geräte bis Ende Mai an die ETH zurückbringen",
+      "text": "Als an der ETH Zürich die Homeoffice-Pflicht ausgerufen wurde, haben die Informatikdienste in Absprache mit dem zuständigen Vizepräsidenten für Infrastruktur Ulrich Weidmann schnell reagiert: Auf Grundlage der speziell erlassenen Corona-Richtlinie betreffend IKT-Mittelverwendung für das Homeoffice durften Mitarbeitende in Absprache mit den Vorgesetzten Informatikmittel wie Monitore oder Docking-Stationen aus dem Büro mit nach Hause nehmen.\n\n«Damit wollten wir die Mitarbeitenden unterstützen, ihre Arbeit zu Hause ebenso effizient erledigen zu können wie im Büro», sagt Weidmann. Formal erhielten Vorgesetzte die Kompetenz, ihren Teammitgliedern das Mitnehmen von ETH-Geräten zu erlauben. Gleichzeitig wurde kommuniziert, dass es sich dabei um eine temporäre Massnahme handelt, die Vorgesetzten also verpflichtet sind, die ETH-Geräte wieder zurückzurufen, wenn die Homeoffice-Pflicht bzw. -Empfehlung endet."
+    },
+    {
+      "heading": "Geräte bis Ende Mai an die ETH zurückbringen",
+      "text": "Mit der Aufhebung sämtlicher Coronaregelungen müssen diese ausgeliehenen Informatikmittel nun retourniert werden, und zwar spätestens bis Ende Mai. Da das Homeoffice auch in der kommenden Phase des «Return to the Office» für viele eine Rolle spielen wird, stellen sich manche vielleicht die Frage, weshalb sie denn nicht weiterhin die ID-Mittel verwenden dürfen.\n\n«Homeoffice war schon vor Ausbruch der Pandemie eine Realität, wobei die Mitarbeitenden sich die dazu notwendige Infrastruktur selbst organisiert haben», entgegnet Weidmann. Für eine Doppelausstattung aller Mitarbeitenden mit Monitoren, Docking-Stationen usw. fehlen der ETH die Mittel. «Damit aber alle Mitarbeitenden die auch in Zukunft regelmässig von Zuhause arbeiten werden Zeit haben, sich auf die neue Situation einzustellen, ist die Frist für die Rückgabe der ausgeliehenen Geräte bewusst erst auf Ende Mai gesetzt worden», sagt Weidmann und dankt im Voraus für die Kooperation.\n\nDas Info-Portal für Mitarbeitende mit den wichtigsten Informationen rund um das Geschehen an der ETH Zürich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/04/rueckruf",
+        "label": "LOC",
+        "start": 0,
+        "end": 28
+      },
+      {
+        "text": "Eth Geraeten",
+        "label": "PER",
+        "start": 33,
+        "end": 45
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 11,
+        "end": 21
+      },
+      {
+        "text": "Homeoffice-Pflicht",
+        "label": "MISC",
+        "start": 26,
+        "end": 44
+      },
+      {
+        "text": "Ulrich Weidmann",
+        "label": "PER",
+        "start": 158,
+        "end": 173
+      },
+      {
+        "text": "Corona-Richtlinie",
+        "label": "LOC",
+        "start": 230,
+        "end": 247
+      },
+      {
+        "text": "Docking-Stationen",
+        "label": "MISC",
+        "start": 390,
+        "end": 407
+      },
+      {
+        "text": "Hause",
+        "label": "PER",
+        "start": 430,
+        "end": 435
+      },
+      {
+        "text": "Hause",
+        "label": "PER",
+        "start": 511,
+        "end": 516
+      },
+      {
+        "text": "Weidmann",
+        "label": "PER",
+        "start": 573,
+        "end": 581
+      },
+      {
+        "text": "Vorgesetzte",
+        "label": "PER",
+        "start": 600,
+        "end": 611
+      },
+      {
+        "text": "ETH-Geräten",
+        "label": "MISC",
+        "start": 667,
+        "end": 678
+      },
+      {
+        "text": "Homeoffice-Pflicht bzw. -Empfehlung",
+        "label": "MISC",
+        "start": 868,
+        "end": 903
+      },
+      {
+        "text": "ID-Mittel",
+        "label": "ORG",
+        "start": 335,
+        "end": 344
+      },
+      {
+        "text": "Homeoffice",
+        "label": "PER",
+        "start": 364,
+        "end": 374
+      },
+      {
+        "text": "Weidmann",
+        "label": "PER",
+        "start": 527,
+        "end": 535
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 634,
+        "end": 637
+      },
+      {
+        "text": "Weidmann",
+        "label": "PER",
+        "start": 900,
+        "end": 908
+      },
+      {
+        "text": "Info-Portal für Mitarbeitende",
+        "label": "ORG",
+        "start": 954,
+        "end": 983
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1047,
+        "end": 1057
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Eth Geraeten",
+        "Hause",
+        "Homeoffice",
+        "Ulrich Weidmann",
+        "Vorgesetzte",
+        "Weidmann"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "ID-Mittel",
+        "Info-Portal für Mitarbeitende"
+      ],
+      "LOCATION": [
+        "Corona-Richtlinie",
+        "De Internal/2022/04/rueckruf"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Docking-Stationen",
+        "ETH-Geräten",
+        "Homeoffice-Pflicht",
+        "Homeoffice-Pflicht bzw. -Empfehlung"
+      ]
+    },
+    "entity_counts": {
+      "Weidmann": 3,
+      "ETH Zürich": 2,
+      "Hause": 2,
+      "De Internal/2022/04/rueckruf": 1,
+      "Eth Geraeten": 1,
+      "Homeoffice-Pflicht": 1,
+      "Ulrich Weidmann": 1,
+      "Corona-Richtlinie": 1,
+      "Docking-Stationen": 1,
+      "Vorgesetzte": 1,
+      "ETH-Geräten": 1,
+      "Homeoffice-Pflicht bzw. -Empfehlung": 1,
+      "ID-Mittel": 1,
+      "Homeoffice": 1,
+      "ETH": 1,
+      "Info-Portal für Mitarbeitende": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "rueckruf-von-eth-geraeten-aus-dem-homeoffice.md",
+      "title": "De Internal/2022/04/rueckruf von Eth Geraeten Aus dem Homeoffice",
+      "language": "de",
+      "source_path": "de_internal/2022/04/rueckruf-von-eth-geraeten-aus-dem-homeoffice.html"
+    },
+    "temporal": {
+      "publication_date": "2022-04",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Eth Geraeten",
+        "Hause",
+        "Homeoffice",
+        "Ulrich Weidmann",
+        "Vorgesetzte",
+        "Weidmann"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Docking-Stationen",
+        "ETH-Geräten",
+        "Homeoffice-Pflicht",
+        "Homeoffice-Pflicht bzw. -Empfehlung"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Eth Geraeten",
+        "Corona-Richtlinie",
+        "De Internal",
+        "Auf Grundlage",
+        "Infrastruktur Ulrich",
+        "Homeoffice-Pflicht",
+        "Homeoffice Als",
+        "IKT-Mittelverwendung",
+        "ID-Mittel",
+        "Docking-Stationen",
+        "Ende Mai",
+        "Das Info",
+        "Vorgesetzten Informatikmittel"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "ID-Mittel",
+        "Info-Portal für Mitarbeitende"
+      ],
+      "locations": [
+        "Corona-Richtlinie",
+        "De Internal/2022/04/rueckruf"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Weidmann",
+        "ETH Zürich",
+        "Hause",
+        "De Internal/2022/04/rueckruf",
+        "Eth Geraeten",
+        "Homeoffice-Pflicht",
+        "Ulrich Weidmann",
+        "Corona-Richtlinie",
+        "Docking-Stationen",
+        "Vorgesetzte"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Geräte bis Ende Mai an die ETH zurückbringen",
+          "Geräte bis Ende Mai an die ETH zurückbringen"
+        ],
+        "content_length": 2037
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Ulrich Weidmann",
+        "ETH",
+        "Eth Geraeten",
+        "Vorgesetzte",
+        "EU",
+        "Homeoffice",
+        "ID-Mittel",
+        "Hause",
+        "ETH Zürich",
+        "2022",
+        "Info-Portal für Mitarbeitende",
+        "Weidmann"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Geräten",
+        "Homeoffice-Pflicht",
+        "Docking-Stationen",
+        "Homeoffice-Pflicht bzw. -Empfehlung"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "filename": "ein-komplexes-zusammenspiel-fuehrt-zu-grosser-hitze.md",
+  "original_filename": "ein-komplexes-zusammenspiel-fuehrt-zu-grosser-hitze.html",
+  "source_path": "de_news_events/2023/02/ein-komplexes-zusammenspiel-fuehrt-zu-grosser-hitze.html",
+  "date": "2023-02",
+  "title": "Ein Komplexes Zusammenspiel Fuehrt Zu Grosser Hitze",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Literaturhinweis",
+      "text": "Röthlisberger M and Papritz L: Quantifying the physical processes leading to atmospheric hot extremes at a global scale. Nature Geoscience, 20 February 2023. doi: externe Seite 10.1038/s41561-023-01126-1 ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Zusammenspiel Fuehrt",
+        "label": "PERSON",
+        "start": 37,
+        "end": 57
+      },
+      {
+        "text": "zu Grosser Hitze",
+        "label": "PERSON",
+        "start": 58,
+        "end": 74
+      },
+      {
+        "text": "Nature Geoscience",
+        "label": "PERSON",
+        "start": 121,
+        "end": 138
+      },
+      {
+        "text": "20 February 2023",
+        "label": "DATE",
+        "start": 140,
+        "end": 156
+      },
+      {
+        "text": "Seite 10.1038",
+        "label": "ORG",
+        "start": 171,
+        "end": 184
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Nature Geoscience",
+        "Zusammenspiel Fuehrt",
+        "zu Grosser Hitze"
+      ],
+      "ORG": [
+        "De News",
+        "Seite 10.1038"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "20 February 2023"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De News": 1,
+      "Zusammenspiel Fuehrt": 1,
+      "zu Grosser Hitze": 1,
+      "Nature Geoscience": 1,
+      "20 February 2023": 1,
+      "Seite 10.1038": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ein-komplexes-zusammenspiel-fuehrt-zu-grosser-hitze.md",
+      "title": "De News Events/2023/02/ein Komplexes Zusammenspiel Fuehrt zu Grosser Hitze",
+      "language": "en",
+      "source_path": "de_news_events/2023/02/ein-komplexes-zusammenspiel-fuehrt-zu-grosser-hitze.html"
+    },
+    "temporal": {
+      "publication_date": "2023-02",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Nature Geoscience",
+        "Zusammenspiel Fuehrt",
+        "zu Grosser Hitze"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Nature Geoscience",
+        "De News",
+        "Papritz L",
+        "Grosser Hitze",
+        "Komplexes Zusammenspiel"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "De News",
+        "Seite 10.1038"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "how"
+      ],
+      "key_concepts": [
+        "De News",
+        "Zusammenspiel Fuehrt",
+        "zu Grosser Hitze",
+        "Nature Geoscience",
+        "20 February 2023",
+        "Seite 10.1038"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Literaturhinweis"
+        ],
+        "content_length": 280
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Nature Geoscience",
+        "Zusammenspiel Fuehrt",
+        "Seite 10.1038",
+        "zu Grosser Hitze",
+        "De News",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "how"
+      ],
+      "graph_relations": []
+    }
+  }
+}

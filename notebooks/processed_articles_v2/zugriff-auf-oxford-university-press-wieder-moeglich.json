@@ -1,0 +1,200 @@
+{
+  "filename": "zugriff-auf-oxford-university-press-wieder-moeglich.md",
+  "original_filename": "zugriff-auf-oxford-university-press-wieder-moeglich.html",
+  "source_path": "de_internal/2022/12/zugriff-auf-oxford-university-press-wieder-moeglich.html",
+  "date": "2022-12",
+  "title": "Zugriff Auf Oxford University Press Wieder Moeglich",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Nach fast einem Jahr ohne Vertrag mit Oxford University Press und somit ohne Zugriff auf die aktuellen Inhalte konnte nun eine Vereinbarung erzielt werden. Alle ab dem Jahr 2022 publizierten Artikel stehen nun im Volltext zur Verfügung. Ab 01. Januar 2023 tritt ein Read&Publish-Abkommen mit dem Verlag in Kraft [ externe Seite Pressemitteilung ], über das wir Anfang Jahr detailliert berichten werden.\n\n#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.\n\nMehr als nur Daten – Vom Know-how profitieren"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/12/zugriff",
+        "label": "LOC",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "Oxford University",
+        "label": "ORG",
+        "start": 32,
+        "end": 49
+      },
+      {
+        "text": "Moeglich",
+        "label": "PER",
+        "start": 63,
+        "end": 71
+      },
+      {
+        "text": "Oxford University Press",
+        "label": "ORG",
+        "start": 38,
+        "end": 61
+      },
+      {
+        "text": "Jahr 2022",
+        "label": "MISC",
+        "start": 168,
+        "end": 177
+      },
+      {
+        "text": "Kraft",
+        "label": "LOC",
+        "start": 306,
+        "end": 311
+      },
+      {
+        "text": "MehrWissen",
+        "label": "MISC",
+        "start": 403,
+        "end": 413
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 446,
+        "end": 460
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Moeglich"
+      ],
+      "ORG": [
+        "Oxford University",
+        "Oxford University Press"
+      ],
+      "LOCATION": [
+        "De Internal/2022/12/zugriff",
+        "Kraft"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "Jahr 2022",
+        "MehrWissen"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2022/12/zugriff": 1,
+      "Oxford University": 1,
+      "Moeglich": 1,
+      "Oxford University Press": 1,
+      "Jahr 2022": 1,
+      "Kraft": 1,
+      "MehrWissen": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "zugriff-auf-oxford-university-press-wieder-moeglich.md",
+      "title": "De Internal/2022/12/zugriff auf Oxford University Press Wieder Moeglich",
+      "language": "de",
+      "source_path": "de_internal/2022/12/zugriff-auf-oxford-university-press-wieder-moeglich.html"
+    },
+    "temporal": {
+      "publication_date": "2022-12",
+      "mentioned_years": [
+        "2022",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Moeglich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "Jahr 2022",
+        "MehrWissen"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Anfang Jahr",
+        "Oxford University",
+        "ETH-Bibliothek",
+        "Press Wieder",
+        "De Internal",
+        "Vom Know",
+        "Publish-Abkommen",
+        "Moeglich Nach",
+        "Seite Pressemitteilung"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Oxford University",
+        "Oxford University Press"
+      ],
+      "locations": [
+        "De Internal/2022/12/zugriff",
+        "Kraft"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "De Internal/2022/12/zugriff",
+        "Oxford University",
+        "Moeglich",
+        "Oxford University Press",
+        "Jahr 2022",
+        "Kraft",
+        "MehrWissen",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 637
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Oxford University",
+        "Oxford University Press",
+        "Moeglich",
+        "2022",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Bibliothek",
+        "MehrWissen",
+        "Jahr 2022",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "filename": "bahnstoerungen-besser-beherrschen.md",
+  "original_filename": "bahnstoerungen-besser-beherrschen.html",
+  "source_path": "de_news_events/2014/01/bahnstoerungen-besser-beherrschen.html",
+  "date": "2014-01",
+  "title": "Bahnstoerungen Besser Beherrschen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Berechenbare Bahn",
+      "text": "Die Züge der Schweizerischen Bundesbahnen verkehrten im vergangenen Jahr häufig verspätet. Der dichte Fahrplan und die hohe Auslastung der Strecken lassen nur wenig Fahrzeitreserven zu. So gerät der Fahrplan bereits wegen kleinen Pannen oder Baustellen aus dem Takt – mit negativen Folgen für die Kunden. «Störungen im Bahnverkehr lassen sich kaum vollständig vermeiden, aber man kann sie besser meistern», sagt Steffen Schranil, Verkehrsingenieur und bis vor kurzen Doktorand am Institut für Verkehrsplanung und Transportsysteme der ETH Zürich. In seiner Dissertation hat sich Schranil mit der Frage beschäftig, ob und wie es möglich ist, Bahnstörungen früh und zuverlässig zu charakterisieren – so zuverlässig, dass man Aussagen über die voraussichtliche Störungsdauer machen kann."
+    },
+    {
+      "heading": "Berechenbare Bahn",
+      "text": "Die meisten Störungen im Bahnbetrieb sind wiederkehrende Ereignisse von beschränkter Wirkung und Dauer, etwa klemmende Türen oder beschädigte Fahrleitungen. Schwerwiegende und langandauernde Vorfälle wie Zugsentgleisungen sind hingegen relativ selten. «Das ist nicht nur die Grundvoraussetzung für einen stabilen Bahnbetrieb – es erlaubt uns auch, Bahnstörungen besser zu beherrschen», erklärt der Verkehrsingenieur. Daher sind auch Störungsprognosen grundsätzlich möglich.\n\nSchranils Verfahren beruht auf einer statistischen Analyse von vergangenen Störfällen und den Prozessen zu deren Behebung. Die Daten stellten unter anderem die SBB, die Deutsche Bahn und einige Stadtbahnen zur Verfügung. Um Störungen in den verschiedenen Bahnsystemen überhaupt vergleichen zu können, brachte der Forscher als erstes Ordnung in die Begriffswelt. Grundsätzlich gibt es zwei Klassen von Störfällen: technische Störungen und betriebliche Störungen. Ausgefallene Klimaanlagen, fehlerhafte Triebfahrzeuge oder die berüchtigten Stellwerkstörungen sind Beispiele von technischen Störungen. Diese können sich auf den Fahrplan auswirken und zu Verzögerungen oder Anschlussbrüchen im Bahnverkehr führen: Solche Abweichungen vom Fahrplan werden dann betriebliche Störungen genannt. Betriebliche Störungen können aber auch ohne technische Ursache auftreten, zum Beispiel wenn eine Reisegruppe einen abfahrbereiten Zug blockiert."
+    },
+    {
+      "heading": "Präzise Prognosen",
+      "text": "Anhand dieser Abgrenzung klassifizierte Schranil zahlreiche technische und betriebliche Störfälle nach ihrer Art und Dauer und suchte statistische Muster. Dazu analysierte er die zeitlichen Folgen verschiedener Störungen einschliesslich der Massnahmen und Prozesse, die notwendig waren, um die Vorfälle zu beheben. Sein Ziel: für jedes Ereignis Wahrscheinlichkeiten zu berechnen, mit denen es eine gewisse Dauer über- oder unterschreitet. Möglich sind nun Aussagen wie: 80 Prozent aller Triebfahrzeugstörungen dauern maximal 15 Minuten. Konkrete Informationen zu einer akuten Störung – etwa über die Ursache oder die genaue Lage vor Ort – fliessen ebenfalls in den Prognoseprozess ein, um die Genauigkeit zu erhöhen. So kann man sowohl die Dauer von technischen Störungen als auch die zeitlichen Folgen für den Bahnbetrieb noch genauer abschätzen."
+    },
+    {
+      "heading": "Gezielte Kundeninformation",
+      "text": "Solche Voraussagen nützen nicht nur den Mitarbeitern, die die Störungen rasch möglichst beheben sollen, sondern auch den Fahrgästen. «Insbesondere am Anfang von Störungen ist die Unsicherheit oft gross. Bahnen kommunizieren dann tendenziell zu wenig und zu ungenau. Hier besteht Verbesserungspotenzial», sagt Schranil. Sein Fernziel ist, dass ein Fahrgast künftig nur jene Informationen bekommt, die ihn interessieren – nämlich Verzögerungen, Fahrplanänderungen oder Anschlussbrüche, die seine Reiseverbindungen betreffen.\n\nLaut Schranil, der seit Spätherbst 2013 für die SBB arbeitet, ist vorgesehen, dass die Bahn seine Störungsprognose künftig anwenden wird. Eine praktische Umsetzung wäre, das Verfahren in die bestehenden Bahnführungsinstrumente einzubinden. Der definitive Entscheid sei aber noch nicht gefällt. Dennoch: Für Schweizer Zugreisende stehen die Chancen gut, dereinst von präziseren Störungsprognosen profitieren zu können.\n\nSteffen Schranil: Prognose der Dauer von Störungen des Bahnbetriebs. Schriftenreihe Institut für Verkehrsplanung und Transportsysteme (IVT) ETH Zürich, Nr. 164"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Schweizerischen Bundesbahnen",
+        "label": "ORG",
+        "start": 13,
+        "end": 41
+      },
+      {
+        "text": "Fahrplan",
+        "label": "PER",
+        "start": 102,
+        "end": 110
+      },
+      {
+        "text": "Steffen Schranil",
+        "label": "PER",
+        "start": 412,
+        "end": 428
+      },
+      {
+        "text": "Institut für Verkehrsplanung und Transportsysteme",
+        "label": "ORG",
+        "start": 480,
+        "end": 529
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 534,
+        "end": 544
+      },
+      {
+        "text": "Schranil",
+        "label": "PER",
+        "start": 578,
+        "end": 586
+      },
+      {
+        "text": "Bahnstörungen",
+        "label": "LOC",
+        "start": 640,
+        "end": 653
+      },
+      {
+        "text": "voraussichtliche",
+        "label": "MISC",
+        "start": 740,
+        "end": 756
+      },
+      {
+        "text": "Bahnstörungen",
+        "label": "LOC",
+        "start": 348,
+        "end": 361
+      },
+      {
+        "text": "Störungsprognosen",
+        "label": "LOC",
+        "start": 433,
+        "end": 450
+      },
+      {
+        "text": "Schranils Verfahren",
+        "label": "PER",
+        "start": 474,
+        "end": 493
+      },
+      {
+        "text": "SBB",
+        "label": "ORG",
+        "start": 634,
+        "end": 637
+      },
+      {
+        "text": "Deutsche Bahn",
+        "label": "ORG",
+        "start": 643,
+        "end": 656
+      },
+      {
+        "text": "Ausgefallene Klimaanlagen",
+        "label": "ORG",
+        "start": 936,
+        "end": 961
+      },
+      {
+        "text": "betriebliche",
+        "label": "MISC",
+        "start": 1229,
+        "end": 1241
+      },
+      {
+        "text": "Schranil",
+        "label": "PER",
+        "start": 40,
+        "end": 48
+      },
+      {
+        "text": "Schranil",
+        "label": "PER",
+        "start": 528,
+        "end": 536
+      },
+      {
+        "text": "SBB",
+        "label": "ORG",
+        "start": 571,
+        "end": 574
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 830,
+        "end": 839
+      },
+      {
+        "text": "Störungsprognosen",
+        "label": "LOC",
+        "start": 900,
+        "end": 917
+      },
+      {
+        "text": "Steffen Schranil",
+        "label": "PER",
+        "start": 941,
+        "end": 957
+      },
+      {
+        "text": "Schriftenreihe Institut für Verkehrsplanung und Transportsysteme",
+        "label": "ORG",
+        "start": 1010,
+        "end": 1074
+      },
+      {
+        "text": "IVT",
+        "label": "ORG",
+        "start": 1076,
+        "end": 1079
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1081,
+        "end": 1091
+      },
+      {
+        "text": "Nr. 164",
+        "label": "LOC",
+        "start": 1093,
+        "end": 1100
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fahrplan",
+        "Schranil",
+        "Schranils Verfahren",
+        "Steffen Schranil"
+      ],
+      "ORG": [
+        "Ausgefallene Klimaanlagen",
+        "Deutsche Bahn",
+        "ETH Zürich",
+        "IVT",
+        "Institut für Verkehrsplanung und Transportsysteme",
+        "SBB",
+        "Schriftenreihe Institut für Verkehrsplanung und Transportsysteme",
+        "Schweizerischen Bundesbahnen"
+      ],
+      "LOCATION": [
+        "Bahnstörungen",
+        "Nr. 164",
+        "Störungsprognosen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Schweizer",
+        "betriebliche",
+        "voraussichtliche"
+      ]
+    },
+    "entity_counts": {
+      "Schranil": 3,
+      "Steffen Schranil": 2,
+      "ETH Zürich": 2,
+      "Bahnstörungen": 2,
+      "Störungsprognosen": 2,
+      "SBB": 2,
+      "Schweizerischen Bundesbahnen": 1,
+      "Fahrplan": 1,
+      "Institut für Verkehrsplanung und Transportsysteme": 1,
+      "voraussichtliche": 1,
+      "Schranils Verfahren": 1,
+      "Deutsche Bahn": 1,
+      "Ausgefallene Klimaanlagen": 1,
+      "betriebliche": 1,
+      "Schweizer": 1,
+      "Schriftenreihe Institut für Verkehrsplanung und Transportsysteme": 1,
+      "IVT": 1,
+      "Nr. 164": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "bahnstoerungen-besser-beherrschen.md",
+      "title": "De News Events/2014/01/bahnstoerungen Besser Beherrschen",
+      "language": "de",
+      "source_path": "de_news_events/2014/01/bahnstoerungen-besser-beherrschen.html"
+    },
+    "temporal": {
+      "publication_date": "2014-01",
+      "mentioned_years": [
+        "2013",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Fahrplan",
+        "Schranil",
+        "Schranils Verfahren",
+        "Steffen Schranil"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Schweizer",
+        "betriebliche",
+        "voraussichtliche"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Konkrete Informationen",
+        "Sein Fernziel",
+        "Schweizer Zugreisende",
+        "Schranils Verfahren",
+        "Solche Abweichungen",
+        "Schriftenreihe Institut",
+        "Deutsche Bahn",
+        "Solche Voraussagen",
+        "Sein Ziel",
+        "Die Daten",
+        "Laut Schranil",
+        "De News",
+        "Besser Beherrschen",
+        "Steffen Schranil",
+        "Schweizerischen Bundesbahnen",
+        "Ausgefallene Klimaanlagen",
+        "Ereignis Wahrscheinlichkeiten"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Ausgefallene Klimaanlagen",
+        "Deutsche Bahn",
+        "ETH Zürich",
+        "IVT",
+        "Institut für Verkehrsplanung und Transportsysteme",
+        "SBB",
+        "Schriftenreihe Institut für Verkehrsplanung und Transportsysteme",
+        "Schweizerischen Bundesbahnen"
+      ],
+      "locations": [
+        "Bahnstörungen",
+        "Nr. 164",
+        "Störungsprognosen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Schranil",
+        "Steffen Schranil",
+        "ETH Zürich",
+        "Bahnstörungen",
+        "Störungsprognosen",
+        "SBB",
+        "Schweizerischen Bundesbahnen",
+        "Fahrplan",
+        "Institut für Verkehrsplanung und Transportsysteme",
+        "voraussichtliche"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Berechenbare Bahn",
+          "Berechenbare Bahn",
+          "Präzise Prognosen",
+          "Gezielte Kundeninformation"
+        ],
+        "content_length": 4199
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "IVT",
+        "2014",
+        "Schranils Verfahren",
+        "Fahrplan",
+        "Deutsche Bahn",
+        "EU",
+        "2013",
+        "SBB",
+        "ETH Zürich",
+        "Institut für Verkehrsplanung und Transportsysteme",
+        "Steffen Schranil",
+        "Schweizerischen Bundesbahnen",
+        "Ausgefallene Klimaanlagen",
+        "Schriftenreihe Institut für Verkehrsplanung und Transportsysteme",
+        "Schranil"
+      ],
+      "semantic_concepts": [
+        "Schweizer",
+        "when",
+        "betriebliche",
+        "voraussichtliche"
+      ],
+      "graph_relations": []
+    }
+  }
+}

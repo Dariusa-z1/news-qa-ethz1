@@ -1,0 +1,163 @@
+{
+  "filename": "rechnen-ohne-strom-die-neue-story-auf-explora-.md",
+  "original_filename": "rechnen-ohne-strom-die-neue-story-auf-explora-.html",
+  "source_path": "de_internal/2018/06/rechnen-ohne-strom-die-neue-story-auf-explora-.html",
+  "date": "2018-06",
+  "title": "Rechnen Ohne Strom Die Neue Story Auf Explora",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Menschen streben seit jeher danach, das Rechnen zu vereinfachen. Die Entwicklung von Rechenhilfsmitteln während Jahrhunderten hat denn auch in den Beständen der ETH-Bibliothek vielfältige Spuren hinterlassen: So etwa in der Sammlung Sternwarte, die unter anderem verschiedene historische Rechengeräte und Rechenmaschinen umfasst. Die neuste Story auf Explora zeigt den Weg auf, den Tüftler und Wissenschaftler während Jahrhunderten zurückgelegt haben, um das Rechnen zu vereinfachen, Fehler zu vermeiden und immer grössere Rechenmengen zu bewältigen. Tauchen Sie ein in die Story «Rechnen ohne Strom – Rechenmaschinen als Wegbereiter der Computer»\n\nExplora ist die Plattform der ETH-Bibliothek für multimediales Storytelling."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/06/rechnen Ohne",
+        "label": "LOC",
+        "start": 0,
+        "end": 32
+      },
+      {
+        "text": "Explora",
+        "label": "LOC",
+        "start": 58,
+        "end": 65
+      },
+      {
+        "text": "Rechenhilfsmitteln",
+        "label": "PER",
+        "start": 89,
+        "end": 107
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 165,
+        "end": 179
+      },
+      {
+        "text": "Explora",
+        "label": "LOC",
+        "start": 355,
+        "end": 362
+      },
+      {
+        "text": "Explora",
+        "label": "LOC",
+        "start": 652,
+        "end": 659
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 682,
+        "end": 696
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Rechenhilfsmitteln"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2018/06/rechnen Ohne",
+        "Explora"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek"
+      ]
+    },
+    "entity_counts": {
+      "Explora": 3,
+      "ETH-Bibliothek": 2,
+      "De Internal/2018/06/rechnen Ohne": 1,
+      "Rechenhilfsmitteln": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "rechnen-ohne-strom-die-neue-story-auf-explora-.md",
+      "title": "De Internal/2018/06/rechnen Ohne Strom die Neue Story auf Explora",
+      "language": "de",
+      "source_path": "de_internal/2018/06/rechnen-ohne-strom-die-neue-story-auf-explora-.html"
+    },
+    "temporal": {
+      "publication_date": "2018-06",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Rechenhilfsmitteln"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Explora Die",
+        "Sammlung Sternwarte",
+        "De Internal",
+        "Die Entwicklung",
+        "Ohne Strom",
+        "Tauchen Sie",
+        "Neue Story"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2018/06/rechnen Ohne",
+        "Explora"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Explora",
+        "ETH-Bibliothek",
+        "De Internal/2018/06/rechnen Ohne",
+        "Rechenhilfsmitteln"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 795
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "EU",
+        "Rechenhilfsmitteln"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

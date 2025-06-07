@@ -1,0 +1,190 @@
+{
+  "filename": "velofahrten-tracken-um-radwege-zu-optimieren.md",
+  "original_filename": "velofahrten-tracken-um-radwege-zu-optimieren.html",
+  "source_path": "de_internal/2023/05/velofahrten-tracken-um-radwege-zu-optimieren.html",
+  "date": "2023-05",
+  "title": "Velofahrten Tracken Um Radwege Zu Optimieren",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Anonymisierte Streckendaten zeigen, wo gefahren wird",
+      "text": "Neben den Kilometern für den Hochschul-Wettkampf liefert das App-Tracking gleichzeitig wertvolle Erkenntnisse zu den tatsächlich befahrenen Wegstrecken und über die Häufigkeit deren Nutzung. Diese anonymisierten Aufzeichnungen bilden für das Mobilitätsteam der ETH Züich eine hilfreiche und notwendige Datenbasis, um bestehende Velowege zu verbessern und künftige optimal planen zu können. Ein guter Grund, um bis 31. Mai kräftig in die Pedalen zu steigen – oder nicht?"
+    },
+    {
+      "heading": "App herunterladen, um mitzumachen",
+      "text": "Der Schutz der persönlichen Daten ist bei diesem GPS-Tracking gewährleistet. Einfach die Naviki-​App herunterladen , registrieren und in den kommenden Tagen wertvolle Kilometerdaten für die ETH sammeln."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2023/05",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Um Radwege",
+        "label": "MISC",
+        "start": 40,
+        "end": 50
+      },
+      {
+        "text": "Optimieren",
+        "label": "MISC",
+        "start": 54,
+        "end": 64
+      },
+      {
+        "text": "App-Tracking",
+        "label": "LOC",
+        "start": 61,
+        "end": 73
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 261,
+        "end": 264
+      },
+      {
+        "text": "GPS-Tracking",
+        "label": "MISC",
+        "start": 49,
+        "end": 61
+      },
+      {
+        "text": "Naviki-​App",
+        "label": "ORG",
+        "start": 89,
+        "end": 100
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 190,
+        "end": 193
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "Naviki-​App"
+      ],
+      "LOCATION": [
+        "App-Tracking",
+        "De Internal/2023/05"
+      ],
+      "DATE": [],
+      "MISC": [
+        "GPS-Tracking",
+        "Optimieren",
+        "Um Radwege"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "De Internal/2023/05": 1,
+      "Um Radwege": 1,
+      "Optimieren": 1,
+      "App-Tracking": 1,
+      "GPS-Tracking": 1,
+      "Naviki-​App": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "velofahrten-tracken-um-radwege-zu-optimieren.md",
+      "title": "De Internal/2023/05/velofahrten Tracken Um Radwege zu Optimieren",
+      "language": "de",
+      "source_path": "de_internal/2023/05/velofahrten-tracken-um-radwege-zu-optimieren.html"
+    },
+    "temporal": {
+      "publication_date": "2023-05",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "GPS-Tracking",
+        "Optimieren",
+        "Um Radwege"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "App-Tracking",
+        "De Internal",
+        "Der Schutz",
+        "Tracken Um",
+        "GPS-Tracking",
+        "Optimieren Neben",
+        "Hochschul-Wettkampf"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Naviki-​App"
+      ],
+      "locations": [
+        "App-Tracking",
+        "De Internal/2023/05"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "ETH",
+        "De Internal/2023/05",
+        "Um Radwege",
+        "Optimieren",
+        "App-Tracking",
+        "GPS-Tracking",
+        "Naviki-​App"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Anonymisierte Streckendaten zeigen, wo gefahren wird",
+          "App herunterladen, um mitzumachen"
+        ],
+        "content_length": 737
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Naviki-​App",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Um Radwege",
+        "Optimieren",
+        "GPS-Tracking",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

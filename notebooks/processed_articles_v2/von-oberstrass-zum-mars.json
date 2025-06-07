@@ -1,0 +1,211 @@
+{
+  "filename": "von-oberstrass-zum-mars.md",
+  "original_filename": "von-oberstrass-zum-mars.html",
+  "source_path": "de_internal/2018/06/von-oberstrass-zum-mars.html",
+  "date": "2018-06",
+  "title": "Von Oberstrass Zum Mars",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Auch dieses Jahr konnten Besuchende des Quartierfests Oberstrass die ETH Zürich hautnah erleben. Unterhaltsame Comics aus der Sonderausstellung «Expedition Sonnensystem» von focusTerra lockten zahlreiche Weltrauminteressierte an den Stand beim Rigiplatz in Zürich. Die Geschichten zeigten, wie und warum Forschung im All auch für die ETH von besonderer Bedeutung ist.\n\nIn einer interaktiven App entdeckten die Besuchenden einen virtuellen Mars-Rover, in einem Experiment (kleines Bild) krümmten sie die Raumzeit und liessen Sonnensysteme entstehen. Und ein Bildschirm im Hintergrund zeigte den geglückten Start der Mars-Mission von Anfang Mai."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/06/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Oberstrass",
+        "label": "LOC",
+        "start": 24,
+        "end": 34
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 39,
+        "end": 43
+      },
+      {
+        "text": "Quartierfests Oberstrass",
+        "label": "LOC",
+        "start": 40,
+        "end": 64
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 69,
+        "end": 79
+      },
+      {
+        "text": "Rigiplatz",
+        "label": "LOC",
+        "start": 244,
+        "end": 253
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 257,
+        "end": 263
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 334,
+        "end": 337
+      },
+      {
+        "text": "Besuchenden",
+        "label": "MISC",
+        "start": 409,
+        "end": 420
+      },
+      {
+        "text": "Mars-Mission",
+        "label": "MISC",
+        "start": 614,
+        "end": 626
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2018/06/",
+        "Mars",
+        "Oberstrass",
+        "Quartierfests Oberstrass",
+        "Rigiplatz",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Besuchenden",
+        "Mars-Mission"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2018/06/": 1,
+      "Oberstrass": 1,
+      "Mars": 1,
+      "Quartierfests Oberstrass": 1,
+      "ETH Zürich": 1,
+      "Rigiplatz": 1,
+      "Zürich": 1,
+      "ETH": 1,
+      "Besuchenden": 1,
+      "Mars-Mission": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "von-oberstrass-zum-mars.md",
+      "title": "De Internal/2018/06/von Oberstrass Zum Mars",
+      "language": "de",
+      "source_path": "de_internal/2018/06/von-oberstrass-zum-mars.html"
+    },
+    "temporal": {
+      "publication_date": "2018-06",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Besuchenden",
+        "Mars-Mission"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Expedition Sonnensystem",
+        "Anfang Mai",
+        "Die Geschichten",
+        "De Internal",
+        "Oberstrass Zum",
+        "Mars Auch",
+        "Mars-Rover",
+        "Mars-Mission",
+        "Quartierfests Oberstrass",
+        "Unterhaltsame Comics"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2018/06/",
+        "Mars",
+        "Oberstrass",
+        "Quartierfests Oberstrass",
+        "Rigiplatz",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2018/06/",
+        "Oberstrass",
+        "Mars",
+        "Quartierfests Oberstrass",
+        "ETH Zürich",
+        "Rigiplatz",
+        "Zürich",
+        "ETH",
+        "Besuchenden",
+        "Mars-Mission"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 687
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "ETH",
+        "2018",
+        "EU"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Mars-Mission",
+        "Besuchenden"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

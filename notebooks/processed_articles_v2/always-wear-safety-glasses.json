@@ -1,0 +1,353 @@
+{
+  "filename": "always-wear-safety-glasses.md",
+  "original_filename": "always-wear-safety-glasses.html",
+  "source_path": "en_news_events/2014/04/always-wear-safety-glasses.html",
+  "date": "2014-04",
+  "title": "Always Wear Safety Glasses",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Moderately severe facial and hand injuries",
+      "text": "To prevent injury, wearing personal protection equipment (PPE) is compulsory in many ETH laboratories. Depending on the type of work, the PPE may include items such as lab coats, safety shoes, safety glasses or gloves. Thanks to the high level of safety awareness at ETH Zurich, there are very few accident s, despite the daily work with hazardous substances. One exception was an explosion that occurred in autumn 2012 in a chemistry laboratory on the Hönggerberg campus."
+    },
+    {
+      "heading": "Moderately severe facial and hand injuries",
+      "text": "The explosion came about when a doctoral student was activating carboxylic acid in the fume cupboard to make an acyl azide. These organic azides are highly reactive and can easily explode if they are heated or shaken. That’s what happened as the doctoral student was trying to pick up the dried acyl azide in a pipette filled with a solvent. In the explosion, not only did the glass pipette shatter, but also the student’s own glasses, which he was wearing instead of safety glasses (see picture). It was only by great good luck that his eyes were not damaged."
+    },
+    {
+      "heading": "Series of articles on the World Day for Safety and Health at Work",
+      "text": "Nevertheless, the student suffered moderately severe injuries to his face and hands. He also experienced some damage to his hearing. The explosion destroyed the work surface and the sliding door of the fume cupboard as well as several glass containers that were inside the cupboard. At the time of the explosion, two more ETH members were also in the laboratory but luckily they were not injured. They gave first aid to the doctoral student and alerted the ETH Emergency Desk by phoning 888, and an ambulance was called immediately. The injured student was taken to hospital, where he needed stitches in his chin and on one finger.\n\nA risk assessment should have been carried out for the experiment described above, and this was obviously not done satisfactorily. Since the doctoral student was also not wearing either a lab coat or safety glasses, he was risking serious injury. Normal spectacles – regardless of their shape or material – are no substitute for safety glasses. On the contrary: as described here, they can even increase the risk of injuries to the eyes or face.\n\nThe wearing of contact lenses while working with chemicals is strictly forbidden, because they cannot always be taken out fast enough in the event of the eyes being splashed. This is why special over-glasses safety goggles are available for people who wear spectacles. ETH employees can also request free prescription safety glasses from the SSHE staff unit.\n\nToday, Monday 28 April is the World Day for Safety and Health at Work ; in 2014 the theme of the day is “The Use of Chemicals at Work”. The World Day is an initiative of the International Labour Organization (ILO), a specialised agency of the United Nations. Leading up to the World Day, a number of articles are being published in the Intranet News about handling chemicals at ETH Zurich. The current issue of the staff magazine “ life ” is also dedicated to the subject of safety, featuring a portrait of the SSHE staff unit ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Wear Safety Glasses",
+        "label": "ORG",
+        "start": 30,
+        "end": 49
+      },
+      {
+        "text": "PPE",
+        "label": "ORG",
+        "start": 58,
+        "end": 61
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 85,
+        "end": 88
+      },
+      {
+        "text": "PPE",
+        "label": "ORG",
+        "start": 138,
+        "end": 141
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 267,
+        "end": 277
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 360,
+        "end": 363
+      },
+      {
+        "text": "autumn 2012",
+        "label": "DATE",
+        "start": 408,
+        "end": 419
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 453,
+        "end": 464
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 313,
+        "end": 316
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 322,
+        "end": 325
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 407,
+        "end": 412
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 620,
+        "end": 623
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1347,
+        "end": 1350
+      },
+      {
+        "text": "SSHE",
+        "label": "ORG",
+        "start": 1420,
+        "end": 1424
+      },
+      {
+        "text": "Today, Monday 28 April",
+        "label": "DATE",
+        "start": 1437,
+        "end": 1459
+      },
+      {
+        "text": "the World Day",
+        "label": "EVENT",
+        "start": 1463,
+        "end": 1476
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 1530,
+        "end": 1537
+      },
+      {
+        "text": "The Use of Chemicals at Work",
+        "label": "WORK_OF_ART",
+        "start": 1542,
+        "end": 1570
+      },
+      {
+        "text": "The World Day",
+        "label": "EVENT",
+        "start": 1573,
+        "end": 1586
+      },
+      {
+        "text": "the International Labour Organization (ILO",
+        "label": "ORG",
+        "start": 1607,
+        "end": 1649
+      },
+      {
+        "text": "the United Nations",
+        "label": "ORG",
+        "start": 1676,
+        "end": 1694
+      },
+      {
+        "text": "the World Day",
+        "label": "EVENT",
+        "start": 1710,
+        "end": 1723
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1815,
+        "end": 1825
+      },
+      {
+        "text": "SSHE",
+        "label": "ORG",
+        "start": 1948,
+        "end": 1952
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hönggerberg"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "PPE",
+        "SSHE",
+        "Wear Safety Glasses",
+        "the International Labour Organization (ILO",
+        "the United Nations"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Today, Monday 28 April",
+        "autumn 2012",
+        "the day"
+      ],
+      "MISC": [
+        "One",
+        "The Use of Chemicals at Work",
+        "The World Day",
+        "first",
+        "one",
+        "the World Day",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "PPE": 2,
+      "ETH Zurich": 2,
+      "SSHE": 2,
+      "the World Day": 2,
+      "Wear Safety Glasses": 1,
+      "One": 1,
+      "autumn 2012": 1,
+      "Hönggerberg": 1,
+      "two": 1,
+      "first": 1,
+      "one": 1,
+      "Today, Monday 28 April": 1,
+      "the day": 1,
+      "The Use of Chemicals at Work": 1,
+      "The World Day": 1,
+      "the International Labour Organization (ILO": 1,
+      "the United Nations": 1
+    },
+    "total_entities": 24,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "always-wear-safety-glasses.md",
+      "title": "En News Events/2014/04/always Wear Safety Glasses",
+      "language": "en",
+      "source_path": "en_news_events/2014/04/always-wear-safety-glasses.html"
+    },
+    "temporal": {
+      "publication_date": "2014-04",
+      "mentioned_years": [
+        "2012",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Hönggerberg"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "The Use of Chemicals at Work",
+        "The World Day",
+        "first",
+        "the World Day"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "The World",
+        "International Labour",
+        "United Nations",
+        "World Day",
+        "Wear Safety",
+        "Glasses To",
+        "ETH Zurich",
+        "ETH Emergency",
+        "Intranet News",
+        "The Use"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "PPE",
+        "SSHE",
+        "Wear Safety Glasses",
+        "the International Labour Organization (ILO",
+        "the United Nations"
+      ],
+      "locations": [],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "PPE",
+        "ETH Zurich",
+        "SSHE",
+        "the World Day",
+        "Wear Safety Glasses",
+        "One",
+        "autumn 2012",
+        "Hönggerberg",
+        "two"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Moderately severe facial and hand injuries",
+          "Moderately severe facial and hand injuries",
+          "Series of articles on the World Day for Safety and Health at Work"
+        ],
+        "content_length": 3052
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "ETH",
+        "SSHE",
+        "the United Nations",
+        "Wear Safety Glasses",
+        "2012",
+        "ETH Zurich",
+        "the International Labour Organization (ILO",
+        "PPE",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "The World Day",
+        "The Use of Chemicals at Work",
+        "who",
+        "chemistry",
+        "the World Day",
+        "what",
+        "medical_research",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

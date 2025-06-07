@@ -1,0 +1,784 @@
+{
+  "filename": "mein-chauffeur-der-algorithmus.md",
+  "original_filename": "mein-chauffeur-der-algorithmus.html",
+  "source_path": "de_news_events/2018/12/mein-chauffeur-der-algorithmus.html",
+  "date": "2018-12",
+  "title": "Mein Chauffeur Der Algorithmus",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Stadtmobilität neu denken",
+      "text": "Die Zukunft der Mobilität kündigt sich in Meilensteinen an: Die ­Google-Tochter «Waymo» verlautbarte diesen Februar, dass ihre Flotte an selbstfahrenden Autos über acht Millionen Kilometer auf öffentlichen Strassen zurückgelegt hat. Kurz zuvor hatte der Fahrdienst Uber drei Millionen Kilometer verkündet. Geht es nach der Industrie, werden wir uns die Strassen bald flächendeckend mit Fahrzeugen teilen, die nicht mehr von Lenkern, sondern von Algorithmen gesteuert werden. Übertriebener Techoptimismus oder realistisches Szenario?\n\nWir fragen einen renommierten Experten auf dem Gebiet, den Italiener Emilio Frazzoli, seit Oktober 2016 Professor für Dynamische Systeme und Regelungstechnik an der ETH Zürich. «Es kommt drauf an, von welcher autonomen Mobilität Sie sprechen», lautet seine Antwort. «Bis Sie Ihr selbstfahrendes Auto beim Händler kaufen können, werden mindestens noch 15 Jahre vergehen. Sprechen wir hingegen von Carsharing in beschränktem Umfang, ist sie heute schon Realität.» Letzteres hat auch mit Frazzolis Forschung zu tun. Seit Mitte Jahr kann auf dem Las Vegas Strip jedermann über die App des Ridesharing Service «Lyft» 30 BMWs buchen. Gesteuert werden sie durch Algorithmen des US-Autotechnologie-Konzerns «Aptiv», welcher den von Frazzoli gegründeten Start-up «NuTonomy» im Oktober 2017 übernommen hatte."
+    },
+    {
+      "heading": "Stadtmobilität neu denken",
+      "text": "Vor seinem Wechsel an die ETH war Frazzoli zehn Jahre Professor am renommierten MIT in Boston. Von Beginn an arbeitete er an autonomen Systemen, anfänglich vor allem für Flugzeuge und Drohnen. «Das war zwar technisch meist ziemlich cool, doch trug es nicht wirklich zur Lösung von gesellschaftlichen Herausforderungen bei.» 2009 stellte er sich die Sinnfrage: «Das Hauptargument für die Forschung an selbstfahrenden Autos lautete damals immer: ‹weil sie den Verkehr sicherer machen›.»\n\nDiese Annahme stimme zumindest längerfristig, doch den viel grösseren, mittelfristigen Nutzen erkannte Frazzoli im Poten­zial, die individuelle Mobilität von Stadtbewohnern komplett neu zu denken. «Das Ziel meiner Forschungsgruppe ist eine Mobilität mit den Annehmlichkeiten eines Privatautos, die so nachhaltig ist wie der öffentliche Verkehr.» Eine Art «Uber» also, nur ohne Fahrer und deshalb viel günstiger und breiter verfügbar.\n\nDank Elektrifizierung und besserer Auslastung zudem bei deutlich geringerem Energieverbrauch und tieferen CO2-Emissionen. Private Autos sind nämlich durchschnittlich 5 Prozent der Zeit im Gebrauch. Die restlichen 95 Prozent stehen sie rum, in Parkhäusern, Garagen oder auf öffentlichem Grund. Das ist weder nachhaltig noch städtebaulich oder ressourcenökonomisch sinnvoll.\n\nFrazzolis Start-up «NuTonomy», der Steuerungssoftware für auto­nome Fahrzeuge entwickelt, begann 2014 Tests mit selbstfahrenden Fahrzeugen in Singapur zu planen. Gleichzeitig publizierte der Professor einen Artikel, indem er für den 719 km2 grossen Stadtstaat berechnete, was der vollständige Ersatz von privaten mit geteilten, selbstfahrenden Fahrzeugen für das Verkehrsaufkommen bedeuten würde. Das Ergebnis: Mit rund 40 Prozent (350 000 anstatt 800 000 Fahrzeuge) könnten die Mobilitätsbedürfnisse der gesamten Bevölkerung des Stadtstaates befriedigt werden.\n\nEin Jahr später kündigte Premierminister Lee Hsien Loong die Vision einer «Car Lite Future» an, basierend auf selbstfahrenden Fahrzeugen, dem Ausbau des ÖV und des Langsamverkehrs. Mit einer Dichte von 7697 Menschen pro km2 (in der Schweiz: 203) ist der 5,5-Millionen-Stadtstaat wie keine andere Metropole auf einen effizienten Verkehr angewiesen. Die Nachfrage nach privaten Autos wird deshalb seit Jahren durch hohe Zölle und Kosten für Fahrbewilligungen von bis zu 70 000 Dollar stark reguliert. Auf einer zwei Hektaren grossen Teststrecke der Nanyang Technological University im Westen der Insel testen heute mehr als zehn Unternehmen ihre Systeme. Ab 2022 sollen drei Randgebiete der Stadt ausserhalb der Stosszeiten mit ersten selbstfahrenden Bussen bedient werden."
+    },
+    {
+      "heading": "Transformation simulieren",
+      "text": "Pieter Fouries «Labor» liegt im Südwesten von Singapur. Dort, in einem hellen Büro im 6. Stock des grün bewachsenen CREATE-Towers der Universität Singapur (NUS), forscht er für das «Future Cities Laboratory» der ETH Zürich an den Städten der Zukunft. Fourie leitet das Projekt «Engaging Mobility», in dessen Rahmen im Juli 2017 ein erster Workshop mit Regierungsbehörden und Hochschulen stattfand. Ziel war es, die Rahmenbedingungen für eine stadtweite «Mobility on Demand» mit selbstfahrenden Autos und Bussen zu definieren. Davon ausgehend wurden die wichtigsten Forschungsfragen formuliert. Zum Beispiel: Was geschieht mit der heute vorhandenen Parkfläche, wenn ein Grossteil der Fahrzeuge konstant unterwegs ist? Müssen Strassenführungen neu geplant werden? Und welche Auswirkungen wird ein automatisierter und elektrifizierter Verkehr auf den bestehenden ÖV, die Energienachfrage und die Sicherheit haben?\n\nSolchen Fragen geht Fourie mit der Simulationsplattform MATSim nach, die in der Gruppe von Professor Kay Axhausen am Institut für Verkehrsplanung und Transportsysteme der ETH Zürich entwickelt wurde. MATSim ist Agenten-basiert. Das heisst, die Simulation wird durch das Verhalten der einzelnen Agenten angetrieben und nicht durch übergeordnete Regeln.\n\n«Basierend auf den aktuellsten demografischen Daten zur Bevölkerung Singapurs modellieren wir eine synthetische Population, die der echten so nahe kommt wie möglich», erklärt Fourie. In dieser Population hat jeder einzelne Agent ein bestimmtes Mobilitätsverhalten und Transportziel, basierend auf reellen Verkehrsdaten. Fourie spielt nun mit den Rahmenbedingungen, darunter der Anzahl von eingeführten Fahrzeugen, deren Grösse, den maximal zulässigen Wartezeiten für Passagiere, der Verfügbarkeit von Parkplätzen und unterschiedlichen Verkehrsführungen. Dann lässt er die synthetische Population während 24 Stunden ihren Dingen nachgehen. Dabei bewertet das System automatisch für jeden einzelnen Agenten, wie effizient dieser bei verschiedenen Szenarien seine Ziele erreichen konnte.\n\nDerzeit programmiert Fouries Team solche Simulationen für die Tanjong Pagar Waterfront, ein Gelände von rund zwei Quadratkilometer Fläche im Westen Singapurs. Dieses wird aktuell von einem Containerterminal zu einem Wohn- und Geschäftsviertel umgestaltet. Mit 60 000 Akteuren hat Fourie bereits mehr als 200 000 Trips simuliert. ­Unter anderem hat er für drei unterschiedliche Strassentypologien berechnet, wie gross die Flotte an autonomen Fahrzeugen sein müsste und wie viele Strassenkilometer zurückgelegt würden, um jeweils denselben Grad an Service zu gewährleisten.\n\nWeiter haben die Forschenden für eine Flotte, bestehend aus Fahrzeugen mit 4, 10 und 20 Sitzplätzen, vier verschiedene Parkstrategien simuliert. Das vorläufige Ergebnis: Das Verkehrssystem ist am effizientesten, wenn die geteilten Fahrzeuge auf der Strasse parkieren dürfen, sobald keine Anfragen für weitere Fahrten mehr eintreffen. Auch wenn dadurch die Strassenkapazität zeitweise um eine Fahrbahn reduziert wird. Zudem fördern weniger, dafür grössere Pick-up- und Drop-off-Stationen den Verkehrsfluss, da die Autos zum Sammeln der Passagiere weniger Umwege fahren. Auch sollten die Stationen genügend gross sein, damit sie verschiedene Fahrzeuggrössen bedienen können. Bereits nächstes Jahr will Fourie solche Simulationen für die ­gesamte Insel laufen lassen."
+    },
+    {
+      "heading": "Entscheidungsdilemmas",
+      "text": "Trotz hohem Tempo in Singapur und ersten Services in Las Vegas sieht Emilio Frazzoli nach wie vor grosse Herausforderungen – besonders für die Bewältigung von chaotischen Umgebungen. «Wir wissen bis heute noch nicht genau, wie sich selbstfahrende Autos im Verkehr verhalten sollen.» Das liege an Dutzenden von Entscheidungsdilemmas, welche der Alltagsverkehr mit sich bringt. Zum Beispiel: Darf ein selbstfahrendes Auto eine doppelte Linie überqueren, wenn es dadurch einen potenziellen Unfall verhindern kann? Was, wenn ein Verkehrsteilnehmer ohne Verschulden verletzt wird, damit ein verschuldeter Fahrer nicht tödlich verunglückt?\n\nSolche Entscheide müssen in der Programmierung von Steuerungsalgorithmen angelegt sein. Frazzoli forscht deshalb unter anderem an sogenannten «Rulebooks», die dazu dienen, unterschiedliche Entscheidungskriterien in den Steuer­algorithmen zu priorisieren. Zuoberst in der Hierarchie stehen Regeln, ­welche die Sicherheit der Verkehrsteilnehmenden garantieren, zuunterst die Regeln für mehr Fahr komfort.\n\nIn einem aktuellen Artikel schätzten Frazzoli und sein Team, dass 200 Regeln in zwölf Hierarchiegruppen nötig sind, damit Fahrzeuge auf alle möglichen Situationen vorbereitet sind – inklusive Regeln mit niedriger Priorität, wie zum Beispiel, dass strassennahe Tiere nicht erschreckt werden. Für Frazzoli wäre die Zeit reif für eine breite öffentliche Debatte zum autonomen Verkehr: «Wir sollten die in den Codes implementierten Regeln zu Sicherheit und Haftung nicht einfach den Ingenieuren von privaten Unternehmen überlassen.» Schliesslich sei es im Interesse von uns allen, dass sich unsere neuen, ­virtuellen Lenker möglichst gut in den Stadtverkehr einfügen. So wie herkömmliche Neulenker; nur eben berechenbarer, sicherer und effizienter."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Meilensteinen",
+        "label": "LOC",
+        "start": 42,
+        "end": 55
+      },
+      {
+        "text": "­Google-Tochter",
+        "label": "MISC",
+        "start": 64,
+        "end": 79
+      },
+      {
+        "text": "Fahrdienst Uber",
+        "label": "MISC",
+        "start": 254,
+        "end": 269
+      },
+      {
+        "text": "Geht",
+        "label": "LOC",
+        "start": 306,
+        "end": 310
+      },
+      {
+        "text": "Gebiet",
+        "label": "LOC",
+        "start": 580,
+        "end": 586
+      },
+      {
+        "text": "Italiener",
+        "label": "LOC",
+        "start": 592,
+        "end": 601
+      },
+      {
+        "text": "Emilio Frazzoli",
+        "label": "PER",
+        "start": 602,
+        "end": 617
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 698,
+        "end": 708
+      },
+      {
+        "text": "Carsharing",
+        "label": "PER",
+        "start": 929,
+        "end": 939
+      },
+      {
+        "text": "Frazzolis Forschung",
+        "label": "ORG",
+        "start": 1018,
+        "end": 1037
+      },
+      {
+        "text": "Las Vegas",
+        "label": "LOC",
+        "start": 1075,
+        "end": 1084
+      },
+      {
+        "text": "Ridesharing",
+        "label": "LOC",
+        "start": 1118,
+        "end": 1129
+      },
+      {
+        "text": "BMWs",
+        "label": "MISC",
+        "start": 1148,
+        "end": 1152
+      },
+      {
+        "text": "US-Autotechnologie-Konzerns",
+        "label": "ORG",
+        "start": 1204,
+        "end": 1231
+      },
+      {
+        "text": "Frazzoli",
+        "label": "PER",
+        "start": 1257,
+        "end": 1265
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "Frazzoli",
+        "label": "PER",
+        "start": 34,
+        "end": 42
+      },
+      {
+        "text": "MIT",
+        "label": "ORG",
+        "start": 80,
+        "end": 83
+      },
+      {
+        "text": "Boston",
+        "label": "LOC",
+        "start": 87,
+        "end": 93
+      },
+      {
+        "text": "machen›.",
+        "label": "ORG",
+        "start": 475,
+        "end": 483
+      },
+      {
+        "text": "Frazzoli",
+        "label": "PER",
+        "start": 588,
+        "end": 596
+      },
+      {
+        "text": "Poten­zial",
+        "label": "MISC",
+        "start": 600,
+        "end": 610
+      },
+      {
+        "text": "CO2-Emissionen",
+        "label": "MISC",
+        "start": 1025,
+        "end": 1039
+      },
+      {
+        "text": "Private",
+        "label": "PER",
+        "start": 1041,
+        "end": 1048
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 1099,
+        "end": 1103
+      },
+      {
+        "text": "Parkhäusern",
+        "label": "LOC",
+        "start": 1162,
+        "end": 1173
+      },
+      {
+        "text": "Frazzolis Start-up «NuTonomy",
+        "label": "PER",
+        "start": 1292,
+        "end": 1320
+      },
+      {
+        "text": "Singapur",
+        "label": "LOC",
+        "start": 1434,
+        "end": 1442
+      },
+      {
+        "text": "Ein Jahr später",
+        "label": "MISC",
+        "start": 1854,
+        "end": 1869
+      },
+      {
+        "text": "Lee Hsien Loong",
+        "label": "PER",
+        "start": 1895,
+        "end": 1910
+      },
+      {
+        "text": "ÖV",
+        "label": "ORG",
+        "start": 2007,
+        "end": 2009
+      },
+      {
+        "text": "Langsamverkehrs",
+        "label": "MISC",
+        "start": 2018,
+        "end": 2033
+      },
+      {
+        "text": "Fahrbewilligungen",
+        "label": "LOC",
+        "start": 2293,
+        "end": 2310
+      },
+      {
+        "text": "Nanyang Technological University",
+        "label": "ORG",
+        "start": 2401,
+        "end": 2433
+      },
+      {
+        "text": "Stadt",
+        "label": "LOC",
+        "start": 2543,
+        "end": 2548
+      },
+      {
+        "text": "Pieter Fouries «Labor",
+        "label": "PER",
+        "start": 0,
+        "end": 21
+      },
+      {
+        "text": "Singapur",
+        "label": "LOC",
+        "start": 46,
+        "end": 54
+      },
+      {
+        "text": "CREATE-Towers",
+        "label": "ORG",
+        "start": 116,
+        "end": 129
+      },
+      {
+        "text": "Universität Singapur",
+        "label": "ORG",
+        "start": 134,
+        "end": 154
+      },
+      {
+        "text": "NUS",
+        "label": "LOC",
+        "start": 156,
+        "end": 159
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 212,
+        "end": 222
+      },
+      {
+        "text": "Fourie",
+        "label": "PER",
+        "start": 251,
+        "end": 257
+      },
+      {
+        "text": "Mobility on Demand",
+        "label": "ORG",
+        "start": 454,
+        "end": 472
+      },
+      {
+        "text": "Strassenführungen",
+        "label": "LOC",
+        "start": 724,
+        "end": 741
+      },
+      {
+        "text": "ÖV",
+        "label": "ORG",
+        "start": 860,
+        "end": 862
+      },
+      {
+        "text": "Fourie",
+        "label": "PER",
+        "start": 931,
+        "end": 937
+      },
+      {
+        "text": "Kay Axhausen",
+        "label": "PER",
+        "start": 1012,
+        "end": 1024
+      },
+      {
+        "text": "Institut für Verkehrsplanung und Transportsysteme",
+        "label": "ORG",
+        "start": 1028,
+        "end": 1077
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1082,
+        "end": 1092
+      },
+      {
+        "text": "MATSim",
+        "label": "MISC",
+        "start": 1111,
+        "end": 1117
+      },
+      {
+        "text": "Agenten-basiert",
+        "label": "MISC",
+        "start": 1122,
+        "end": 1137
+      },
+      {
+        "text": "Singapurs",
+        "label": "LOC",
+        "start": 1331,
+        "end": 1340
+      },
+      {
+        "text": "Fourie",
+        "label": "PER",
+        "start": 1583,
+        "end": 1589
+      },
+      {
+        "text": "Fouries Team",
+        "label": "ORG",
+        "start": 2069,
+        "end": 2081
+      },
+      {
+        "text": "Tanjong Pagar Waterfront",
+        "label": "ORG",
+        "start": 2110,
+        "end": 2134
+      },
+      {
+        "text": "Singapurs",
+        "label": "LOC",
+        "start": 2196,
+        "end": 2205
+      },
+      {
+        "text": "Fourie",
+        "label": "PER",
+        "start": 2328,
+        "end": 2334
+      },
+      {
+        "text": "Pick-up-",
+        "label": "ORG",
+        "start": 3075,
+        "end": 3083
+      },
+      {
+        "text": "Drop-off-Stationen",
+        "label": "LOC",
+        "start": 3088,
+        "end": 3106
+      },
+      {
+        "text": "Singapur",
+        "label": "LOC",
+        "start": 21,
+        "end": 29
+      },
+      {
+        "text": "Las Vegas",
+        "label": "LOC",
+        "start": 53,
+        "end": 62
+      },
+      {
+        "text": "Emilio Frazzoli",
+        "label": "PER",
+        "start": 69,
+        "end": 84
+      },
+      {
+        "text": "Dutzenden von Entscheidungsdilemmas",
+        "label": "PER",
+        "start": 296,
+        "end": 331
+      },
+      {
+        "text": "Frazzoli",
+        "label": "PER",
+        "start": 722,
+        "end": 730
+      },
+      {
+        "text": "Frazzoli",
+        "label": "PER",
+        "start": 1074,
+        "end": 1082
+      },
+      {
+        "text": "Frazzoli",
+        "label": "PER",
+        "start": 1332,
+        "end": 1340
+      },
+      {
+        "text": "Zeit reif",
+        "label": "ORG",
+        "start": 1350,
+        "end": 1359
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Carsharing",
+        "De News",
+        "Dutzenden von Entscheidungsdilemmas",
+        "Emilio Frazzoli",
+        "Fourie",
+        "Frazzoli",
+        "Frazzolis Start-up «NuTonomy",
+        "Kay Axhausen",
+        "Lee Hsien Loong",
+        "Pieter Fouries «Labor",
+        "Private"
+      ],
+      "ORG": [
+        "CREATE-Towers",
+        "ETH",
+        "ETH Zürich",
+        "Fouries Team",
+        "Frazzolis Forschung",
+        "Institut für Verkehrsplanung und Transportsysteme",
+        "MIT",
+        "Mobility on Demand",
+        "Nanyang Technological University",
+        "Pick-up-",
+        "Tanjong Pagar Waterfront",
+        "US-Autotechnologie-Konzerns",
+        "Universität Singapur",
+        "Zeit reif",
+        "machen›.",
+        "ÖV"
+      ],
+      "LOCATION": [
+        "Boston",
+        "Drop-off-Stationen",
+        "Fahrbewilligungen",
+        "Gebiet",
+        "Geht",
+        "Italiener",
+        "Las Vegas",
+        "Meilensteinen",
+        "NUS",
+        "Parkhäusern",
+        "Ridesharing",
+        "Singapur",
+        "Singapurs",
+        "Stadt",
+        "Strassenführungen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Agenten-basiert",
+        "BMWs",
+        "CO2-Emissionen",
+        "Ein Jahr später",
+        "Fahrdienst Uber",
+        "Langsamverkehrs",
+        "MATSim",
+        "Poten­zial",
+        "Zeit",
+        "­Google-Tochter"
+      ]
+    },
+    "entity_counts": {
+      "Frazzoli": 6,
+      "Fourie": 4,
+      "ETH Zürich": 3,
+      "Singapur": 3,
+      "Emilio Frazzoli": 2,
+      "Las Vegas": 2,
+      "ÖV": 2,
+      "Singapurs": 2,
+      "De News": 1,
+      "Meilensteinen": 1,
+      "­Google-Tochter": 1,
+      "Fahrdienst Uber": 1,
+      "Geht": 1,
+      "Gebiet": 1,
+      "Italiener": 1,
+      "Carsharing": 1,
+      "Frazzolis Forschung": 1,
+      "Ridesharing": 1,
+      "BMWs": 1,
+      "US-Autotechnologie-Konzerns": 1
+    },
+    "total_entities": 68,
+    "unique_entities": 52
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mein-chauffeur-der-algorithmus.md",
+      "title": "De News Events/2018/12/mein Chauffeur der Algorithmus",
+      "language": "de",
+      "source_path": "de_news_events/2018/12/mein-chauffeur-der-algorithmus.html"
+    },
+    "temporal": {
+      "publication_date": "2018-12",
+      "mentioned_years": [
+        "2009",
+        "2014",
+        "2016",
+        "2017",
+        "2018",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Carsharing",
+        "De News",
+        "Dutzenden von Entscheidungsdilemmas",
+        "Emilio Frazzoli",
+        "Fourie",
+        "Frazzoli",
+        "Frazzolis Start-up «NuTonomy",
+        "Kay Axhausen",
+        "Lee Hsien Loong",
+        "Pieter Fouries «Labor",
+        "Private"
+      ],
+      "people_with_roles": {
+        "Emilio Frazzoli": [
+          "professor"
+        ],
+        "Fourie": [
+          "professor"
+        ],
+        "Frazzoli": [
+          "professor"
+        ],
+        "Kay Axhausen": [
+          "Professor",
+          "professor"
+        ],
+        "Private": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Agenten-basiert",
+        "BMWs",
+        "CO2-Emissionen",
+        "Ein Jahr später",
+        "Fahrdienst Uber",
+        "Langsamverkehrs",
+        "MATSim",
+        "Poten­zial",
+        "Zeit",
+        "­Google-Tochter"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Diese Annahme",
+        "Solchen Fragen",
+        "Das Hauptargument",
+        "Future Cities",
+        "Engaging Mobility",
+        "Professor Kay",
+        "Von Beginn",
+        "Das Ziel",
+        "US-Autotechnologie",
+        "Pieter Fouries",
+        "Nanyang Technological",
+        "Tanjong Pagar",
+        "Frazzolis Start",
+        "Westen Singapurs",
+        "Simulationsplattform MATSim",
+        "Jahre Professor",
+        "Solche Entscheide",
+        "Fouries Team",
+        "Das Verkehrssystem",
+        "Zum Beispiel",
+        "Frazzolis Forschung",
+        "Private Autos",
+        "Emilio Frazzoli",
+        "Dank Elektrifizierung",
+        "Car Lite",
+        "Ein Jahr",
+        "Millionen-Stadtstaat",
+        "Dynamische Systeme",
+        "Hsien Loong",
+        "Ridesharing Service",
+        "Seit Mitte",
+        "Bis Sie",
+        "Premierminister Lee",
+        "Italiener Emilio",
+        "Algorithmus Die",
+        "Die Nachfrage",
+        "Fahrdienst Uber",
+        "Millionen Kilometer",
+        "Google-Tochter",
+        "De News",
+        "Das Ergebnis",
+        "Eine Art",
+        "CREATE-Towers",
+        "Las Vegas"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CREATE-Towers",
+        "ETH",
+        "ETH Zürich",
+        "Fouries Team",
+        "Frazzolis Forschung",
+        "Institut für Verkehrsplanung und Transportsysteme",
+        "MIT",
+        "Mobility on Demand",
+        "Nanyang Technological University",
+        "Pick-up-",
+        "Tanjong Pagar Waterfront",
+        "US-Autotechnologie-Konzerns",
+        "Universität Singapur",
+        "Zeit reif",
+        "machen›.",
+        "ÖV"
+      ],
+      "locations": [
+        "Boston",
+        "Drop-off-Stationen",
+        "Fahrbewilligungen",
+        "Gebiet",
+        "Geht",
+        "Italiener",
+        "Las Vegas",
+        "Meilensteinen",
+        "NUS",
+        "Parkhäusern",
+        "Ridesharing",
+        "Singapur",
+        "Singapurs",
+        "Stadt",
+        "Strassenführungen"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Frazzoli",
+        "Fourie",
+        "ETH Zürich",
+        "Singapur",
+        "Emilio Frazzoli",
+        "Las Vegas",
+        "ÖV",
+        "Singapurs",
+        "De News",
+        "Meilensteinen"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Stadtmobilität neu denken",
+          "Stadtmobilität neu denken",
+          "Transformation simulieren",
+          "Entscheidungsdilemmas"
+        ],
+        "content_length": 9189
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Carsharing",
+        "ÖV",
+        "US-Autotechnologie-Konzerns",
+        "Private",
+        "2016",
+        "Lee Hsien Loong",
+        "Institut für Verkehrsplanung und Transportsysteme",
+        "Pick-up-",
+        "2009",
+        "2018",
+        "Fouries Team",
+        "Universität Singapur",
+        "Frazzolis Forschung",
+        "Emilio Frazzoli",
+        "Fourie",
+        "Frazzoli",
+        "ETH Zürich",
+        "2022",
+        "Frazzolis Start-up «NuTonomy",
+        "Nanyang Technological University",
+        "2014",
+        "Mobility on Demand",
+        "Tanjong Pagar Waterfront",
+        "EU",
+        "Pieter Fouries «Labor",
+        "Zeit reif",
+        "machen›.",
+        "2017",
+        "De News",
+        "CREATE-Towers",
+        "MIT",
+        "Kay Axhausen",
+        "Dutzenden von Entscheidungsdilemmas"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "BMWs",
+        "CO2-Emissionen",
+        "Poten­zial",
+        "who",
+        "MATSim",
+        "Agenten-basiert",
+        "Fahrdienst Uber",
+        "­Google-Tochter",
+        "Ein Jahr später",
+        "computer_science",
+        "Zeit",
+        "when",
+        "where",
+        "Langsamverkehrs"
+      ],
+      "graph_relations": [
+        "Emilio Frazzoli_has_role_professor",
+        "Fourie_has_role_professor",
+        "Frazzoli_has_role_professor",
+        "Kay Axhausen_has_role_Professor",
+        "Kay Axhausen_has_role_professor",
+        "Private_has_role_professor",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

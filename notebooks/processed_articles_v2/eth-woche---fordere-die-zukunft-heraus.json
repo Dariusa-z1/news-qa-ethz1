@@ -1,0 +1,242 @@
+{
+  "filename": "eth-woche---fordere-die-zukunft-heraus.md",
+  "original_filename": "eth-woche---fordere-die-zukunft-heraus.html",
+  "source_path": "en_internal/2015/01/eth-woche---fordere-die-zukunft-heraus.html",
+  "date": "2015-01",
+  "title": "Eth Woche Fordere Die Zukunft Heraus",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Food: Healthy. Fair. Enough for All.",
+      "text": "The purpose of the ETH Week is to foster critical thinking skills and to motivate students of all departments for sustainable action through an innovative learning experience.\n\nThe topic of the first ETH Week is as complex as it is relevant: the state of the global food supply in the 21 st century. Addressing it requires ecological, agricultural, and technical knowledge that is contextualized by an awareness of complex political, economic, and societal systems.\n\nPlace: ETH Zürich Hönggerberg Date: Sunday 6.9.2015 to Friday 11.9.2015, daily full-time programme . Language: English\n\nWho may apply? Bachelor’s degree students who will complete their 4 th or 6 th semester by September 6-11, 2015 may submit an application for the ETH Week.\n\nCall for Applications: Deadlines Application will be open from mid-February, 2015 Deadline: April 18, 2015 Notification of acceptance to participants: April 30, 2015 at latest."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Woche Fordere",
+        "label": "ORG",
+        "start": 24,
+        "end": 37
+      },
+      {
+        "text": "Zukunft Heraus",
+        "label": "PERSON",
+        "start": 42,
+        "end": 56
+      },
+      {
+        "text": "the ETH Week",
+        "label": "ORG",
+        "start": 15,
+        "end": 27
+      },
+      {
+        "text": "the first ETH Week",
+        "label": "DATE",
+        "start": 189,
+        "end": 207
+      },
+      {
+        "text": "the 21 st century",
+        "label": "DATE",
+        "start": 280,
+        "end": 297
+      },
+      {
+        "text": "ETH Zürich Hönggerberg",
+        "label": "PERSON",
+        "start": 472,
+        "end": 494
+      },
+      {
+        "text": "Sunday 6.9.2015 to Friday 11.9.2015",
+        "label": "DATE",
+        "start": 501,
+        "end": 536
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 576,
+        "end": 583
+      },
+      {
+        "text": "September 6-11, 2015",
+        "label": "DATE",
+        "start": 675,
+        "end": 695
+      },
+      {
+        "text": "the ETH Week",
+        "label": "DATE",
+        "start": 726,
+        "end": 738
+      },
+      {
+        "text": "mid-February",
+        "label": "DATE",
+        "start": 803,
+        "end": 815
+      },
+      {
+        "text": "April 18, 2015 Notification",
+        "label": "DATE",
+        "start": 832,
+        "end": 859
+      },
+      {
+        "text": "April 30, 2015",
+        "label": "DATE",
+        "start": 891,
+        "end": 905
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zürich Hönggerberg",
+        "Zukunft Heraus"
+      ],
+      "ORG": [
+        "Woche Fordere",
+        "the ETH Week"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "April 18, 2015 Notification",
+        "April 30, 2015",
+        "September 6-11, 2015",
+        "Sunday 6.9.2015 to Friday 11.9.2015",
+        "mid-February",
+        "the 21 st century",
+        "the ETH Week",
+        "the first ETH Week"
+      ],
+      "MISC": [
+        "English"
+      ]
+    },
+    "entity_counts": {
+      "the ETH Week": 2,
+      "Woche Fordere": 1,
+      "Zukunft Heraus": 1,
+      "the first ETH Week": 1,
+      "the 21 st century": 1,
+      "ETH Zürich Hönggerberg": 1,
+      "Sunday 6.9.2015 to Friday 11.9.2015": 1,
+      "English": 1,
+      "September 6-11, 2015": 1,
+      "mid-February": 1,
+      "April 18, 2015 Notification": 1,
+      "April 30, 2015": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-woche---fordere-die-zukunft-heraus.md",
+      "title": "En Internal/2015/01/eth Woche Fordere die Zukunft Heraus",
+      "language": "en",
+      "source_path": "en_internal/2015/01/eth-woche---fordere-die-zukunft-heraus.html"
+    },
+    "temporal": {
+      "publication_date": "2015-01",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zürich Hönggerberg",
+        "Zukunft Heraus"
+      ],
+      "people_with_roles": {
+        "Zukunft Heraus": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "English"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Deadlines Application",
+        "En Internal",
+        "ETH Week",
+        "Woche Fordere",
+        "Zukunft Heraus"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Woche Fordere",
+        "the ETH Week"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "the ETH Week",
+        "Woche Fordere",
+        "Zukunft Heraus",
+        "the first ETH Week",
+        "the 21 st century",
+        "ETH Zürich Hönggerberg",
+        "Sunday 6.9.2015 to Friday 11.9.2015",
+        "English",
+        "September 6-11, 2015",
+        "mid-February"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Food: Healthy. Fair. Enough for All."
+        ],
+        "content_length": 977
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich Hönggerberg",
+        "2015",
+        "Woche Fordere",
+        "the ETH Week",
+        "Zukunft Heraus"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "English",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Zukunft Heraus_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

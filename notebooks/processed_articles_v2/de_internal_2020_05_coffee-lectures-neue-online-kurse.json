@@ -1,0 +1,276 @@
+{
+  "filename": "de_internal_2020_05_coffee-lectures-neue-online-kurse.md",
+  "original_filename": "de_internal_2020_05_coffee-lectures-neue-online-kurse.html",
+  "source_path": "de_internal/2020/05/coffee-lectures-neue-online-kurse.html",
+  "date": "2020-05",
+  "title": "Coffee Lectures Neue Online Kurse",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Coffee Lectures geben Input zu konkreten Fragestellungen rund um die Informationsrecherche, dem Open-Access-Publizieren, oder dem Forschungsdatenmanagement. Gleichzeitig lernen Sie Ansprechpartner und Fachpersonen der ETH-Bibliothek kennen.\n\nSo funktioniert’s: Sie erhalten in 10 Minuten kurz und kompakt Input zu einem spezifischen Thema und haben anschliessend Zeit für Fragen. Genau die richtige Dauer, um dabei einen Kaffee (oder ein anderes Getränk Ihrer Wahl) zu geniessen.\n\nDie Coffee Lectures finden jeweils mittwochnachmittags um 15.15 Uhr statt. Die Themen für das laufende Frühlingssemester sind:\n\nEine Anmeldung ist nicht erforderlich. Die Online-Veranstaltungen finden über Zoom statt: externe Seite https://ethz.zoom.us/j/99585769649\n\nDie Coffee Lectures richten sich primär an wissenschaftliche Mitarbeitende der ETH Zürich, aber auch an Studierende sowie Interessierte anderer Hochschulen. Veranstaltungssprache ist Englisch.\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.\n\n#ETHBibliothekDigital – Die ETH-Bibliothek ist nicht nur während der COVID-19-Schutzmassnahmen digital mit verschiedenen Angeboten und Dienstleistungen für Sie da."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/05/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Coffee Lectures",
+        "label": "ORG",
+        "start": 4,
+        "end": 19
+      },
+      {
+        "text": "Informationsrecherche",
+        "label": "LOC",
+        "start": 73,
+        "end": 94
+      },
+      {
+        "text": "Open-Access-Publizieren",
+        "label": "LOC",
+        "start": 100,
+        "end": 123
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 222,
+        "end": 236
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 366,
+        "end": 370
+      },
+      {
+        "text": "Coffee Lectures",
+        "label": "LOC",
+        "start": 487,
+        "end": 502
+      },
+      {
+        "text": "Online-Veranstaltungen",
+        "label": "LOC",
+        "start": 653,
+        "end": 675
+      },
+      {
+        "text": "Zoom",
+        "label": "LOC",
+        "start": 688,
+        "end": 692
+      },
+      {
+        "text": "Coffee Lectures",
+        "label": "ORG",
+        "start": 753,
+        "end": 768
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 828,
+        "end": 838
+      },
+      {
+        "text": "Veranstaltungssprache",
+        "label": "MISC",
+        "start": 906,
+        "end": 927
+      },
+      {
+        "text": "Englisch",
+        "label": "MISC",
+        "start": 932,
+        "end": 940
+      },
+      {
+        "text": "GewusstWie",
+        "label": "MISC",
+        "start": 942,
+        "end": 952
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 991,
+        "end": 1005
+      },
+      {
+        "text": "ETHBibliothekDigital",
+        "label": "LOC",
+        "start": 1032,
+        "end": 1052
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 1059,
+        "end": 1073
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Coffee Lectures",
+        "ETH Zürich",
+        "ETH-Bibliothek"
+      ],
+      "LOCATION": [
+        "Coffee Lectures",
+        "De Internal/2020/05/",
+        "ETHBibliothekDigital",
+        "Informationsrecherche",
+        "Online-Veranstaltungen",
+        "Open-Access-Publizieren",
+        "Zoom"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "Englisch",
+        "GewusstWie",
+        "Veranstaltungssprache",
+        "Zeit"
+      ]
+    },
+    "entity_counts": {
+      "Coffee Lectures": 3,
+      "ETH-Bibliothek": 3,
+      "De Internal/2020/05/": 1,
+      "Informationsrecherche": 1,
+      "Open-Access-Publizieren": 1,
+      "Zeit": 1,
+      "Online-Veranstaltungen": 1,
+      "Zoom": 1,
+      "ETH Zürich": 1,
+      "Veranstaltungssprache": 1,
+      "Englisch": 1,
+      "GewusstWie": 1,
+      "ETHBibliothekDigital": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2020_05_coffee-lectures-neue-online-kurse.md",
+      "title": "De Internal/2020/05/coffee Lectures Neue Online Kurse",
+      "language": "de",
+      "source_path": "de_internal/2020/05/coffee-lectures-neue-online-kurse.html"
+    },
+    "temporal": {
+      "publication_date": "2020-05",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "Englisch",
+        "GewusstWie",
+        "Veranstaltungssprache",
+        "Zeit"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Sie Ansprechpartner",
+        "ETH-Bibliothek",
+        "Online Kurse",
+        "Eine Anmeldung",
+        "Die Infrastruktur",
+        "De Internal",
+        "Ihrer Wahl",
+        "Die ETH",
+        "Die Online",
+        "Open-Access",
+        "Die Coffee",
+        "Ihrem Ziel",
+        "Die Themen",
+        "Lectures Neue"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Coffee Lectures",
+        "ETH Zürich",
+        "ETH-Bibliothek"
+      ],
+      "locations": [
+        "Coffee Lectures",
+        "De Internal/2020/05/",
+        "ETHBibliothekDigital",
+        "Informationsrecherche",
+        "Online-Veranstaltungen",
+        "Open-Access-Publizieren",
+        "Zoom"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Coffee Lectures",
+        "ETH-Bibliothek",
+        "De Internal/2020/05/",
+        "Informationsrecherche",
+        "Open-Access-Publizieren",
+        "Zeit",
+        "Online-Veranstaltungen",
+        "Zoom",
+        "ETH Zürich",
+        "Veranstaltungssprache"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1256
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "EU",
+        "2020",
+        "ETH Zürich",
+        "Coffee Lectures",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "Zeit",
+        "ETH-Bibliothek",
+        "who",
+        "Englisch",
+        "GewusstWie",
+        "Veranstaltungssprache",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

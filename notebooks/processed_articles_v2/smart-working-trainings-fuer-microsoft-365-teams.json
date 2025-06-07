@@ -1,0 +1,220 @@
+{
+  "filename": "smart-working-trainings-fuer-microsoft-365-teams.md",
+  "original_filename": "smart-working-trainings-fuer-microsoft-365-teams.html",
+  "source_path": "de_internal/2020/11/smart-working-trainings-fuer-microsoft-365-teams.html",
+  "date": "2020-11",
+  "title": "Smart Working Trainings Fuer Microsoft 365 Teams",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Virtuelles Kursticket",
+      "text": "Die Smart Working Trainings werden exklusiv für ETH Mitarbeitende angeboten. Das erste Modul gibt den Teilnehmenden einen Gesamtüberblick über Microsoft 365 und Teams und erleichtert den Einstieg. Erfahrene Nutzende bekommen im zweiten Modul praktische Tipps und lernen weitere Funktionen und Apps für die Kollaboration in Teams kennen. Das dritte Modul befasst sich vor allem mit den persönlichen Herausforderungen, die im Zusammenhang mit der Online-Arbeit im Home-Office entstehen.\n\nDie Module können auch einzeln gebucht werden. Jedes Modul wird in jeweils zwei Halbtages-Online-Kursen durchgeführt. Es gibt in den ersten beiden Modulen noch freie Plätze. Das dritte Modul folgt demnächst."
+    },
+    {
+      "heading": "Virtuelles Kursticket",
+      "text": "Hier können sich ETH-Mitarbeitende anmelden (limitierte Anzahl Teilnehmer/innen): Anmeldung Smart Working"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/11/smart",
+        "label": "LOC",
+        "start": 0,
+        "end": 25
+      },
+      {
+        "text": "Microsoft 365 Teams",
+        "label": "MISC",
+        "start": 49,
+        "end": 68
+      },
+      {
+        "text": "ETH Mitarbeitende",
+        "label": "ORG",
+        "start": 48,
+        "end": 65
+      },
+      {
+        "text": "Microsoft 365",
+        "label": "MISC",
+        "start": 143,
+        "end": 156
+      },
+      {
+        "text": "Teams",
+        "label": "PER",
+        "start": 161,
+        "end": 166
+      },
+      {
+        "text": "Teams",
+        "label": "LOC",
+        "start": 323,
+        "end": 328
+      },
+      {
+        "text": "Online-Arbeit",
+        "label": "ORG",
+        "start": 445,
+        "end": 458
+      },
+      {
+        "text": "Home-Office",
+        "label": "LOC",
+        "start": 462,
+        "end": 473
+      },
+      {
+        "text": "Halbtages-Online-Kursen",
+        "label": "LOC",
+        "start": 565,
+        "end": 588
+      },
+      {
+        "text": "ETH-Mitarbeitende",
+        "label": "ORG",
+        "start": 17,
+        "end": 34
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Teams"
+      ],
+      "ORG": [
+        "ETH Mitarbeitende",
+        "ETH-Mitarbeitende",
+        "Online-Arbeit"
+      ],
+      "LOCATION": [
+        "De Internal/2020/11/smart",
+        "Halbtages-Online-Kursen",
+        "Home-Office",
+        "Teams"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Microsoft 365",
+        "Microsoft 365 Teams"
+      ]
+    },
+    "entity_counts": {
+      "Teams": 2,
+      "De Internal/2020/11/smart": 1,
+      "Microsoft 365 Teams": 1,
+      "ETH Mitarbeitende": 1,
+      "Microsoft 365": 1,
+      "Online-Arbeit": 1,
+      "Home-Office": 1,
+      "Halbtages-Online-Kursen": 1,
+      "ETH-Mitarbeitende": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "smart-working-trainings-fuer-microsoft-365-teams.md",
+      "title": "De Internal/2020/11/smart Working Trainings Fuer Microsoft 365 Teams",
+      "language": "de",
+      "source_path": "de_internal/2020/11/smart-working-trainings-fuer-microsoft-365-teams.html"
+    },
+    "temporal": {
+      "publication_date": "2020-11",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Teams"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Microsoft 365",
+        "Microsoft 365 Teams"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Mitarbeitende",
+        "Fuer Microsoft",
+        "Working Trainings",
+        "Anzahl Teilnehmer",
+        "De Internal",
+        "Online-Arbeit",
+        "Die Module",
+        "Jedes Modul",
+        "Halbtages-Online",
+        "Erfahrene Nutzende",
+        "ETH-Mitarbeitende",
+        "Home-Office",
+        "Smart Working",
+        "Anmeldung Smart",
+        "Teams Die"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Mitarbeitende",
+        "ETH-Mitarbeitende",
+        "Online-Arbeit"
+      ],
+      "locations": [
+        "De Internal/2020/11/smart",
+        "Halbtages-Online-Kursen",
+        "Home-Office",
+        "Teams"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Teams",
+        "De Internal/2020/11/smart",
+        "Microsoft 365 Teams",
+        "ETH Mitarbeitende",
+        "Microsoft 365",
+        "Online-Arbeit",
+        "Home-Office",
+        "Halbtages-Online-Kursen",
+        "ETH-Mitarbeitende"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Virtuelles Kursticket",
+          "Virtuelles Kursticket"
+        ],
+        "content_length": 868
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Mitarbeitende",
+        "Online-Arbeit",
+        "2020",
+        "Teams",
+        "ETH-Mitarbeitende"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Microsoft 365",
+        "Microsoft 365 Teams"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

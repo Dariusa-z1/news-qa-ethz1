@@ -1,0 +1,498 @@
+{
+  "filename": "sunlight-to-jet-fuel.md",
+  "original_filename": "sunlight-to-jet-fuel.html",
+  "source_path": "en_news_events/2014/04/sunlight-to-jet-fuel.html",
+  "date": "2014-04",
+  "title": "Sunlight To Jet Fuel",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Syngas for kerosene synthesis",
+      "text": "A European consortium with the participation of ETH Zurich has experimentally demonstrated the first ever production of jet fuel via a thermochemical process using concentrated solar energy. Researchers from ETH Zurich conducted the EU funded project Solarjet together with the German Aerospace Center (DLR), the fuel company Shell, the think-tank Bauhaus Luftfahrt, and the consulting firm Arttic.\n\nThe key component of the production process of sustainable “solar kerosene” is a high-temperature solar reactor developed by the group of Aldo Steinfeld, Professor of Renewable Energy Carriers at ETH Zurich and Head of the Solar Technology Laboratory at the Paul Scherrer Institute. The reactor contains a porous ceramic solar absorber made of the metal oxide ceria, which enables the molecular splitting of water and CO 2 in a cyclic two-step reduction-oxidation (redox) process.\n\nThe first, energy-intensive step proceeds at 1500 degrees Celsius using concentrated solar radiation as the energy source. The metal oxide releases oxygen, assuming a reduced state. In the second step at 700 degrees Celsius, the reduced metal oxide reacts with water and CO 2 , thus re-acquiring oxygen. As the metal oxide is thereby returned to its original state, it can enter the next cycle of the redox process. The net chemical product is synthesis gas – or syngas – a gas mixture of hydrogen (H 2 ) and carbon monoxide (CO), which serves as the precursor for the synthesis of liquid hydrocarbon fuels.\n\n“We were able to successfully perform 240 consecutive cycles,” says Daniel Marxer, PhD student of Steinfeld’s group. The yield was 750 litres of syngas, which were shipped in a pressurized vessel from Zurich to Amsterdam. There, at a Shell research centre, the solar syngas was finally converted into kerosene by an established method (Fischer-Tropsch process)."
+    },
+    {
+      "heading": "Exploring the industrial application",
+      "text": "Artist's rendering of the functional principle. (Illustration: Solarjet)\n\nIn a next phase the scientists aim to optimise the solar reactor technology. “Enhanced heat transfer and fast reaction kinetics are crucial for maximizing the solar-to-fuel energy conversion efficiency,” says Steinfeld. The industrial application in megawatt solar tower systems, such as those already applied commercially for electricity generation, is being explored.\n\nIt might also be possible in the future to obtain the required feedstock of CO 2 from flue gas separation or directly from atmospheric air, thereby closing the material cycle for a CO 2 -neutral process. The scientists are well aware of the large areas required for fuelling commercial aviation with solar kerosene. “The long term goal is to reach a 15 per cent efficiency with the solar-driven cyclic process“, says Steinfeld. 20,000 litres kerosene per day could then be produced in a solar tower system of one square kilometre."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Jet Fuel",
+        "label": "PERSON",
+        "start": 35,
+        "end": 43
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 2,
+        "end": 10
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 48,
+        "end": 58
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 95,
+        "end": 100
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 208,
+        "end": 218
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 233,
+        "end": 235
+      },
+      {
+        "text": "Solarjet",
+        "label": "ORG",
+        "start": 251,
+        "end": 259
+      },
+      {
+        "text": "the German Aerospace Center",
+        "label": "ORG",
+        "start": 274,
+        "end": 301
+      },
+      {
+        "text": "Shell",
+        "label": "ORG",
+        "start": 326,
+        "end": 331
+      },
+      {
+        "text": "Bauhaus Luftfahrt",
+        "label": "PERSON",
+        "start": 348,
+        "end": 365
+      },
+      {
+        "text": "Arttic",
+        "label": "LOC",
+        "start": 391,
+        "end": 397
+      },
+      {
+        "text": "Aldo Steinfeld",
+        "label": "PERSON",
+        "start": 537,
+        "end": 551
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 595,
+        "end": 605
+      },
+      {
+        "text": "the Solar Technology Laboratory",
+        "label": "ORG",
+        "start": 618,
+        "end": 649
+      },
+      {
+        "text": "the Paul Scherrer Institute",
+        "label": "ORG",
+        "start": 653,
+        "end": 680
+      },
+      {
+        "text": "ceria",
+        "label": "GPE",
+        "start": 759,
+        "end": 764
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 834,
+        "end": 837
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 884,
+        "end": 889
+      },
+      {
+        "text": "1500 degrees",
+        "label": "QUANTITY",
+        "start": 925,
+        "end": 937
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1069,
+        "end": 1075
+      },
+      {
+        "text": "700 degrees Celsius",
+        "label": "QUANTITY",
+        "start": 1084,
+        "end": 1103
+      },
+      {
+        "text": "Daniel Marxer",
+        "label": "PERSON",
+        "start": 1556,
+        "end": 1569
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 1571,
+        "end": 1574
+      },
+      {
+        "text": "Steinfeld’s",
+        "label": "ORG",
+        "start": 1586,
+        "end": 1597
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1689,
+        "end": 1695
+      },
+      {
+        "text": "Amsterdam",
+        "label": "GPE",
+        "start": 1699,
+        "end": 1708
+      },
+      {
+        "text": "Shell",
+        "label": "ORG",
+        "start": 1722,
+        "end": 1727
+      },
+      {
+        "text": "Fischer-Tropsch",
+        "label": "ORG",
+        "start": 1824,
+        "end": 1839
+      },
+      {
+        "text": "Artist",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Steinfeld",
+        "label": "PERSON",
+        "start": 282,
+        "end": 291
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 519,
+        "end": 523
+      },
+      {
+        "text": "atmospheric air",
+        "label": "ORG",
+        "start": 566,
+        "end": 581
+      },
+      {
+        "text": "15 per cent",
+        "label": "MONEY",
+        "start": 793,
+        "end": 804
+      },
+      {
+        "text": "Steinfeld",
+        "label": "PERSON",
+        "start": 860,
+        "end": 869
+      },
+      {
+        "text": "20,000",
+        "label": "CARDINAL",
+        "start": 871,
+        "end": 877
+      },
+      {
+        "text": "one square kilometre",
+        "label": "QUANTITY",
+        "start": 952,
+        "end": 972
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Aldo Steinfeld",
+        "Bauhaus Luftfahrt",
+        "Daniel Marxer",
+        "Jet Fuel",
+        "Steinfeld"
+      ],
+      "ORG": [
+        "Artist",
+        "CO 2",
+        "ETH Zurich",
+        "EU",
+        "Fischer-Tropsch",
+        "Shell",
+        "Solarjet",
+        "Steinfeld’s",
+        "atmospheric air",
+        "the German Aerospace Center",
+        "the Paul Scherrer Institute",
+        "the Solar Technology Laboratory"
+      ],
+      "LOCATION": [
+        "Amsterdam",
+        "Arttic",
+        "Zurich",
+        "ceria"
+      ],
+      "DATE": [],
+      "MISC": [
+        "15 per cent",
+        "1500 degrees",
+        "20,000",
+        "700 degrees Celsius",
+        "European",
+        "PhD",
+        "first",
+        "one square kilometre",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "first": 2,
+      "Shell": 2,
+      "Steinfeld": 2,
+      "Jet Fuel": 1,
+      "European": 1,
+      "EU": 1,
+      "Solarjet": 1,
+      "the German Aerospace Center": 1,
+      "Bauhaus Luftfahrt": 1,
+      "Arttic": 1,
+      "Aldo Steinfeld": 1,
+      "the Solar Technology Laboratory": 1,
+      "the Paul Scherrer Institute": 1,
+      "ceria": 1,
+      "two": 1,
+      "1500 degrees": 1,
+      "second": 1,
+      "700 degrees Celsius": 1,
+      "Daniel Marxer": 1
+    },
+    "total_entities": 36,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "sunlight-to-jet-fuel.md",
+      "title": "En News Events/2014/04/sunlight To Jet Fuel",
+      "language": "en",
+      "source_path": "en_news_events/2014/04/sunlight-to-jet-fuel.html"
+    },
+    "temporal": {
+      "publication_date": "2014-04",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Aldo Steinfeld",
+        "Bauhaus Luftfahrt",
+        "Daniel Marxer",
+        "Jet Fuel",
+        "Steinfeld"
+      ],
+      "people_with_roles": {
+        "Aldo Steinfeld": [
+          "head",
+          "professor"
+        ],
+        "Bauhaus Luftfahrt": [
+          "researcher"
+        ],
+        "Daniel Marxer": [
+          "student"
+        ],
+        "Steinfeld": [
+          "student",
+          "head",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "biology",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "15 per cent",
+        "1500 degrees",
+        "20,000",
+        "700 degrees Celsius",
+        "European",
+        "first",
+        "one square kilometre",
+        "second"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Renewable Energy",
+        "En News",
+        "Fuel A",
+        "Fischer-Tropsch",
+        "Paul Scherrer",
+        "Solar Technology",
+        "German Aerospace",
+        "Daniel Marxer",
+        "To Jet",
+        "Aldo Steinfeld",
+        "ETH Zurich",
+        "Bauhaus Luftfahrt"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Artist",
+        "CO 2",
+        "ETH Zurich",
+        "EU",
+        "Fischer-Tropsch",
+        "Shell",
+        "Solarjet",
+        "Steinfeld’s",
+        "atmospheric air",
+        "the German Aerospace Center",
+        "the Paul Scherrer Institute",
+        "the Solar Technology Laboratory"
+      ],
+      "locations": [
+        "Amsterdam",
+        "Arttic",
+        "Zurich",
+        "ceria"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "first",
+        "Shell",
+        "Steinfeld",
+        "Jet Fuel",
+        "European",
+        "EU",
+        "Solarjet",
+        "the German Aerospace Center",
+        "Bauhaus Luftfahrt"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Syngas for kerosene synthesis",
+          "Exploring the industrial application"
+        ],
+        "content_length": 2872
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Fischer-Tropsch",
+        "Steinfeld’s",
+        "ERC",
+        "Jet Fuel",
+        "Shell",
+        "atmospheric air",
+        "Steinfeld",
+        "Aldo Steinfeld",
+        "2014",
+        "Bauhaus Luftfahrt",
+        "the Paul Scherrer Institute",
+        "EU",
+        "Artist",
+        "the German Aerospace Center",
+        "Solarjet",
+        "CO 2",
+        "the Solar Technology Laboratory",
+        "Daniel Marxer",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "one square kilometre",
+        "why",
+        "who",
+        "1500 degrees",
+        "15 per cent",
+        "chemistry",
+        "biology",
+        "what",
+        "second",
+        "how",
+        "20,000",
+        "European",
+        "climate_change",
+        "700 degrees Celsius"
+      ],
+      "graph_relations": [
+        "Aldo Steinfeld_has_role_head",
+        "Aldo Steinfeld_has_role_professor",
+        "Bauhaus Luftfahrt_has_role_researcher",
+        "Daniel Marxer_has_role_student",
+        "Steinfeld_has_role_student",
+        "Steinfeld_has_role_head",
+        "Steinfeld_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

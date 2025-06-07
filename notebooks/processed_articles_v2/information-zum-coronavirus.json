@@ -1,0 +1,305 @@
+{
+  "filename": "information-zum-coronavirus.md",
+  "original_filename": "information-zum-coronavirus.html",
+  "source_path": "en_internal/2020/01/information-zum-coronavirus.html",
+  "date": "2020-01",
+  "title": "Information Zum Coronavirus",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "There has been a sharp rise in cases of pneumonia caused by a novel coronavirus (2019-nCoV), identified as originating from the central Chinese city of Wuhan. The virus can be transmitted from person to person, and the severity of the disease varies. The pathogen has now spread across China, and recently cases have also been confirmed in several European countries.\n\nAnyone experiencing fever and breathing difficulties after a stay in China should contact a doctor immediately, mentioning their trip abroad.\n\nETH members planning to travel to China are advised to postpone their trip where possible. ETH members returning from China to Switzerland, or those coming to work or study at the university for the first time, should initially arrange to work from home for seven days. As long as they remain symptom free, they can then return to work or study as usual at ETH. Information to students on the current exam session will soon be sent directly to those concerned.\n\nETH members are generally advised to take the following precautions for coping with the current flu outbreak:\n\nIn case of questions or uncertainties, Leonhard Sigel, MD, Safety, Security, Health and Environment (SSHE), Occupational Medicine and Health Protection Section, is available to ETH members at .\n\nhttps://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov.html\n\nhttps://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Zum Coronavirus",
+        "label": "PERSON",
+        "start": 32,
+        "end": 47
+      },
+      {
+        "text": "2019-nCoV",
+        "label": "MONEY",
+        "start": 81,
+        "end": 90
+      },
+      {
+        "text": "Chinese",
+        "label": "NORP",
+        "start": 136,
+        "end": 143
+      },
+      {
+        "text": "Wuhan",
+        "label": "GPE",
+        "start": 152,
+        "end": 157
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 286,
+        "end": 291
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 348,
+        "end": 356
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 437,
+        "end": 442
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 510,
+        "end": 513
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 544,
+        "end": 549
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 601,
+        "end": 604
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 628,
+        "end": 633
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 637,
+        "end": 648
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 709,
+        "end": 714
+      },
+      {
+        "text": "seven days",
+        "label": "DATE",
+        "start": 768,
+        "end": 778
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 867,
+        "end": 870
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 971,
+        "end": 974
+      },
+      {
+        "text": "Leonhard Sigel",
+        "label": "PERSON",
+        "start": 1120,
+        "end": 1134
+      },
+      {
+        "text": "MD",
+        "label": "GPE",
+        "start": 1136,
+        "end": 1138
+      },
+      {
+        "text": "Safety, Security, Health and Environment",
+        "label": "ORG",
+        "start": 1140,
+        "end": 1180
+      },
+      {
+        "text": "Occupational Medicine and Health Protection Section",
+        "label": "ORG",
+        "start": 1189,
+        "end": 1240
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1258,
+        "end": 1261
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Leonhard Sigel",
+        "Zum Coronavirus"
+      ],
+      "ORG": [
+        "ETH",
+        "Occupational Medicine and Health Protection Section",
+        "Safety, Security, Health and Environment"
+      ],
+      "LOCATION": [
+        "China",
+        "MD",
+        "Switzerland",
+        "Wuhan"
+      ],
+      "DATE": [
+        "seven days"
+      ],
+      "MISC": [
+        "2019-nCoV",
+        "Chinese",
+        "European",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "China": 4,
+      "Zum Coronavirus": 1,
+      "2019-nCoV": 1,
+      "Chinese": 1,
+      "Wuhan": 1,
+      "European": 1,
+      "Switzerland": 1,
+      "first": 1,
+      "seven days": 1,
+      "Leonhard Sigel": 1,
+      "MD": 1,
+      "Safety, Security, Health and Environment": 1,
+      "Occupational Medicine and Health Protection Section": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "information-zum-coronavirus.md",
+      "title": "En Internal/2020/01/information Zum Coronavirus",
+      "language": "en",
+      "source_path": "en_internal/2020/01/information-zum-coronavirus.html"
+    },
+    "temporal": {
+      "publication_date": "2020-01",
+      "mentioned_years": [
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Leonhard Sigel",
+        "Zum Coronavirus"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "2019-nCoV",
+        "Chinese",
+        "European",
+        "first"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Occupational Medicine",
+        "En Internal",
+        "Leonhard Sigel",
+        "Zum Coronavirus",
+        "Health Protection"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Occupational Medicine and Health Protection Section",
+        "Safety, Security, Health and Environment"
+      ],
+      "locations": [
+        "China",
+        "MD",
+        "Switzerland",
+        "Wuhan"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "China",
+        "Zum Coronavirus",
+        "2019-nCoV",
+        "Chinese",
+        "Wuhan",
+        "European",
+        "Switzerland",
+        "first",
+        "seven days"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1523
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Occupational Medicine and Health Protection Section",
+        "ETH",
+        "2019",
+        "EU",
+        "2020",
+        "Leonhard Sigel",
+        "Safety, Security, Health and Environment",
+        "Zum Coronavirus"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "2019-nCoV",
+        "who",
+        "Chinese",
+        "medical_research",
+        "European",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

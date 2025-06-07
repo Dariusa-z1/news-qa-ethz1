@@ -1,0 +1,363 @@
+{
+  "filename": "eye-in-the-sky-to-monitor-crops.md",
+  "original_filename": "eye-in-the-sky-to-monitor-crops.html",
+  "source_path": "en_news_events/2016/06/eye-in-the-sky-to-monitor-crops.html",
+  "date": "2016-06",
+  "title": "Eye In The Sky To Monitor Crops",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Inspired by televised football matches",
+      "text": "Driving towards the ETH Institute of Agricultural Sciences’ Research Station in Lindau-Eschikon, near Zurich, a series of tall masts immediately catches the eye and raises the question: what purpose could they possibly serve? Researchers from the Crop Science Group at ETH Zurich have now revealed their secret. On Friday 10 th June, they held a small ceremony to launch a global first: an innovative crop phenotyping system that transfers sophisticated research capabilities from the lab to the field.\n\nThis new system will allow the scientists to study the crops in high detail virtually through the entire year. Their mission is to discover the differences between the individual plant varieties and to determine how long they need to flower, or to discover the exact link between their growth and the ambient temperature and soil moisture. The ETH researchers are currently studying hundreds of small plots of different varieties of wheat, soy, maize, buckwheat and forage grasses.\n\nThe monitoring system also allows the scientists to investigate whether – and how – fungal diseases develop on the crops, or to monitor weed cover on the ground. “In the long run, our system is a valuable tool for crop cultivation and precision farming”, summarises Achim Walter, Professor of Crop Science at ETH Zurich."
+    },
+    {
+      "heading": "Inspired by televised football matches",
+      "text": "It was Professor Walter who originally came up with the idea of building a phenotyping system for crop research in the field. He was inspired by the “spider cams” suspended above football stadiums and currently used in the broadcasts of the Euro 2016 matches. These cameras provide a “birds eye” view of the football pitch for TV viewers.\n\nThe phenotyping system is based on the same principle as the spider cams: four masts, each one 24 metres high, are positioned at the four corners of a trial plot measuring 100 x 130 metres. Between them run double-braided aramid cables carrying the moving sensor head, which hovers up to seven metres above the ground. Electric cable-winches at the foot of the masts adjust the lengths of cable between the sensor head and the masts, allowing the sensor to be accurately positioned anywhere above the plot without touching the ground or disturbing the crops. The sensor head is also equipped with a laser measuring device, multispectral cameras, an infrared camera and two spectrometers.\n\nThe phenotyping system is already a device commonly used in the field, supplying data that can also be used to calibrate images from drones. Professor Walter hopes to be able not only to gather a wealth of valuable trial data, but also to discover more about the limitations and potential applications of different sensors suitable for use in farming in future, for example on tractors, drones or smartphones. “In ten years’ time the experienced eye of the farmer and grower will be supported by a broad range of digital tools capable of identifying diseases and providing information on the potential use of crop agents, for example. This system enables us to find out sooner and more accurately exactly what challenges we need to tackle in future. What type of advice do we want? Which tasks can we delegate to algorithms and machines, and how much can we depend on them?”"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Sky To Monitor Crops",
+        "label": "WORK_OF_ART",
+        "start": 30,
+        "end": 54
+      },
+      {
+        "text": "the ETH Institute of Agricultural Sciences’ Research Station",
+        "label": "ORG",
+        "start": 16,
+        "end": 76
+      },
+      {
+        "text": "Lindau-Eschikon",
+        "label": "ORG",
+        "start": 80,
+        "end": 95
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 102,
+        "end": 108
+      },
+      {
+        "text": "the Crop Science Group",
+        "label": "ORG",
+        "start": 243,
+        "end": 265
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 269,
+        "end": 279
+      },
+      {
+        "text": "Friday 10 th June",
+        "label": "DATE",
+        "start": 315,
+        "end": 332
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 380,
+        "end": 385
+      },
+      {
+        "text": "the entire year",
+        "label": "DATE",
+        "start": 597,
+        "end": 612
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 847,
+        "end": 850
+      },
+      {
+        "text": "hundreds",
+        "label": "CARDINAL",
+        "start": 886,
+        "end": 894
+      },
+      {
+        "text": "Achim Walter",
+        "label": "PERSON",
+        "start": 1251,
+        "end": 1263
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1298,
+        "end": 1304
+      },
+      {
+        "text": "Walter",
+        "label": "PERSON",
+        "start": 17,
+        "end": 23
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 413,
+        "end": 417
+      },
+      {
+        "text": "one 24 metres",
+        "label": "QUANTITY",
+        "start": 430,
+        "end": 443
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 472,
+        "end": 476
+      },
+      {
+        "text": "100 x 130 metres",
+        "label": "QUANTITY",
+        "start": 511,
+        "end": 527
+      },
+      {
+        "text": "seven metres",
+        "label": "QUANTITY",
+        "start": 627,
+        "end": 639
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1008,
+        "end": 1011
+      },
+      {
+        "text": "Walter",
+        "label": "PERSON",
+        "start": 1178,
+        "end": 1184
+      },
+      {
+        "text": "ten years",
+        "label": "DATE",
+        "start": 1441,
+        "end": 1450
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Achim Walter",
+        "Walter"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Lindau-Eschikon",
+        "the Crop Science Group",
+        "the ETH Institute of Agricultural Sciences’ Research Station"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "Friday 10 th June",
+        "ten years",
+        "the entire year"
+      ],
+      "MISC": [
+        "100 x 130 metres",
+        "The Sky To Monitor Crops",
+        "first",
+        "four",
+        "hundreds",
+        "one 24 metres",
+        "seven metres",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Zurich": 2,
+      "Walter": 2,
+      "four": 2,
+      "The Sky To Monitor Crops": 1,
+      "the ETH Institute of Agricultural Sciences’ Research Station": 1,
+      "Lindau-Eschikon": 1,
+      "the Crop Science Group": 1,
+      "ETH Zurich": 1,
+      "Friday 10 th June": 1,
+      "first": 1,
+      "the entire year": 1,
+      "ETH": 1,
+      "hundreds": 1,
+      "Achim Walter": 1,
+      "one 24 metres": 1,
+      "100 x 130 metres": 1,
+      "seven metres": 1,
+      "two": 1,
+      "ten years": 1
+    },
+    "total_entities": 22,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eye-in-the-sky-to-monitor-crops.md",
+      "title": "En News Events/2016/06/eye in The Sky To Monitor Crops",
+      "language": "en",
+      "source_path": "en_news_events/2016/06/eye-in-the-sky-to-monitor-crops.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Achim Walter",
+        "Walter"
+      ],
+      "people_with_roles": {
+        "Achim Walter": [
+          "professor"
+        ],
+        "Walter": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "100 x 130 metres",
+        "The Sky To Monitor Crops",
+        "first",
+        "four",
+        "hundreds",
+        "one 24 metres",
+        "seven metres"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "On Friday",
+        "Lindau-Eschikon",
+        "En News",
+        "Professor Walter",
+        "Achim Walter",
+        "To Monitor",
+        "Research Station",
+        "Agricultural Sciences",
+        "Crops Driving",
+        "ETH Zurich",
+        "The Sky",
+        "The ETH",
+        "Crop Science",
+        "ETH Institute"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Lindau-Eschikon",
+        "the Crop Science Group",
+        "the ETH Institute of Agricultural Sciences’ Research Station"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Zurich",
+        "Walter",
+        "four",
+        "The Sky To Monitor Crops",
+        "the ETH Institute of Agricultural Sciences’ Research Station",
+        "Lindau-Eschikon",
+        "the Crop Science Group",
+        "ETH Zurich",
+        "Friday 10 th June",
+        "first"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Inspired by televised football matches",
+          "Inspired by televised football matches"
+        ],
+        "content_length": 3266
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Lindau-Eschikon",
+        "EU",
+        "2016",
+        "the Crop Science Group",
+        "Achim Walter",
+        "ETH Zurich",
+        "Walter",
+        "the ETH Institute of Agricultural Sciences’ Research Station"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "computer_science",
+        "four",
+        "who",
+        "one 24 metres",
+        "when",
+        "hundreds",
+        "what",
+        "how",
+        "seven metres",
+        "medical_research",
+        "The Sky To Monitor Crops",
+        "why",
+        "100 x 130 metres",
+        "where"
+      ],
+      "graph_relations": [
+        "Achim Walter_has_role_professor",
+        "Walter_has_role_Professor",
+        "Walter_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

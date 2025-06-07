@@ -1,0 +1,224 @@
+{
+  "filename": "brand-beim-hia-gebaeude.md",
+  "original_filename": "brand-beim-hia-gebaeude.html",
+  "source_path": "de_internal/2023/03/brand-beim-hia-gebaeude.html",
+  "date": "2023-03",
+  "title": "Brand Beim Hia Gebaeude",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Im Bereich der Anlieferung des HIA-Gebäudes (Forschungs-​/Laborgebäude Wasserbau) auf dem Campus Hönggerberg brach heute Nachmittag ein Feuer an einem Lieferwagen aus. Die aufgebotene Feuerwehr konnte den Brand rasch löschen und geht als Ursache von einem Motorbrand aus.\n\nDas Gebäude HIA wurde evakuiert. Gut 30 Minuten später folgte die Entwarnung und die Evakuation konnte aufgehoben werden. Personenschäden liegen keine vor, jedoch hat der Brand Sachschäden an der Fassade der HIF Bauhalle und des Gebäudes HIA Nord sowie an den Fenstern im HIA zur Folge."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2023/03/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Gebaeude",
+        "label": "LOC",
+        "start": 35,
+        "end": 43
+      },
+      {
+        "text": "HIA-Gebäudes",
+        "label": "ORG",
+        "start": 31,
+        "end": 43
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 97,
+        "end": 108
+      },
+      {
+        "text": "Gebäude HIA",
+        "label": "LOC",
+        "start": 276,
+        "end": 287
+      },
+      {
+        "text": "Evakuation",
+        "label": "MISC",
+        "start": 357,
+        "end": 367
+      },
+      {
+        "text": "Personenschäden",
+        "label": "PER",
+        "start": 394,
+        "end": 409
+      },
+      {
+        "text": "Brand Sachschäden",
+        "label": "MISC",
+        "start": 443,
+        "end": 460
+      },
+      {
+        "text": "HIF",
+        "label": "MISC",
+        "start": 480,
+        "end": 483
+      },
+      {
+        "text": "Bauhalle",
+        "label": "LOC",
+        "start": 484,
+        "end": 492
+      },
+      {
+        "text": "Gebäudes HIA Nord",
+        "label": "LOC",
+        "start": 501,
+        "end": 518
+      },
+      {
+        "text": "HIA",
+        "label": "ORG",
+        "start": 544,
+        "end": 547
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Personenschäden"
+      ],
+      "ORG": [
+        "HIA",
+        "HIA-Gebäudes"
+      ],
+      "LOCATION": [
+        "Bauhalle",
+        "De Internal/2023/03/",
+        "Gebaeude",
+        "Gebäude HIA",
+        "Gebäudes HIA Nord",
+        "Hönggerberg"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Brand Sachschäden",
+        "Evakuation",
+        "HIF"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2023/03/": 1,
+      "Gebaeude": 1,
+      "HIA-Gebäudes": 1,
+      "Hönggerberg": 1,
+      "Gebäude HIA": 1,
+      "Evakuation": 1,
+      "Personenschäden": 1,
+      "Brand Sachschäden": 1,
+      "HIF": 1,
+      "Bauhalle": 1,
+      "Gebäudes HIA Nord": 1,
+      "HIA": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "brand-beim-hia-gebaeude.md",
+      "title": "De Internal/2023/03/brand Beim Hia Gebaeude",
+      "language": "de",
+      "source_path": "de_internal/2023/03/brand-beim-hia-gebaeude.html"
+    },
+    "temporal": {
+      "publication_date": "2023-03",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Personenschäden"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Brand Sachschäden",
+        "Evakuation"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "HIA Nord",
+        "De Internal",
+        "HIF Bauhalle",
+        "Beim Hia",
+        "Gebaeude Im"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "HIA",
+        "HIA-Gebäudes"
+      ],
+      "locations": [
+        "Bauhalle",
+        "De Internal/2023/03/",
+        "Gebaeude",
+        "Gebäude HIA",
+        "Gebäudes HIA Nord",
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De Internal/2023/03/",
+        "Gebaeude",
+        "HIA-Gebäudes",
+        "Hönggerberg",
+        "Gebäude HIA",
+        "Evakuation",
+        "Personenschäden",
+        "Brand Sachschäden",
+        "HIF",
+        "Bauhalle"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 603
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "HIA",
+        "HIA-Gebäudes",
+        "EU",
+        "Personenschäden",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Brand Sachschäden",
+        "Evakuation"
+      ],
+      "graph_relations": []
+    }
+  }
+}

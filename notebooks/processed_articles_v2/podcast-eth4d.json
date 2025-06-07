@@ -1,0 +1,277 @@
+{
+  "filename": "podcast-eth4d.md",
+  "original_filename": "podcast-eth4d.html",
+  "source_path": "en_news_events/2020/09/podcast-eth4d.html",
+  "date": "2020-09",
+  "title": "Podcast Eth4D",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Poverty has many faces. The question of affordable nutrition, water, housing, and energy are just some factors poor people face in their everyday life. The initiative ETH for Development (ETH4D) wants to tackle poverty not by “saving” people from a bad situation but by improving certain circumstances, such as access to off-grid electricity. The Executive Director of ETH4D, Adina Rom, and Ph.D. student Churchill Agutu are guests of the ETH-Podcast and talk about how research and practice can make a difference in fighting poverty.\n\nOne of the most important projects of ETH4D is about to be launched: a joint Master's programme with the Ashesi University near Accra, Ghana. With this project, ETH Zurich and Ashesi, together with partners from industry, want to train dedicated engineers from Africa for Africa. The kick-off event will take place on 13 October, 2020 from 3.00 p.m. to 5.00 p.m. CET. You can follow the event via livestream:\n\nhttps://youtu.be/BnWwzPcUeBw"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH for Development (ETH4D",
+        "label": "ORG",
+        "start": 167,
+        "end": 193
+      },
+      {
+        "text": "Adina Rom",
+        "label": "PERSON",
+        "start": 376,
+        "end": 385
+      },
+      {
+        "text": "Ph.D.",
+        "label": "WORK_OF_ART",
+        "start": 391,
+        "end": 396
+      },
+      {
+        "text": "Churchill Agutu",
+        "label": "PERSON",
+        "start": 405,
+        "end": 420
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 535,
+        "end": 538
+      },
+      {
+        "text": "the Ashesi University",
+        "label": "ORG",
+        "start": 636,
+        "end": 657
+      },
+      {
+        "text": "Accra",
+        "label": "GPE",
+        "start": 663,
+        "end": 668
+      },
+      {
+        "text": "Ghana",
+        "label": "GPE",
+        "start": 670,
+        "end": 675
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 696,
+        "end": 706
+      },
+      {
+        "text": "Ashesi",
+        "label": "PERSON",
+        "start": 711,
+        "end": 717
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 796,
+        "end": 802
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 807,
+        "end": 813
+      },
+      {
+        "text": "13 October, 2020",
+        "label": "DATE",
+        "start": 853,
+        "end": 869
+      },
+      {
+        "text": "3.00 p.m. to 5.00 p.m.",
+        "label": "TIME",
+        "start": 875,
+        "end": 897
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Adina Rom",
+        "Ashesi",
+        "Churchill Agutu",
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH for Development (ETH4D",
+        "En News",
+        "the Ashesi University"
+      ],
+      "LOCATION": [
+        "Accra",
+        "Africa",
+        "Ghana"
+      ],
+      "DATE": [
+        "13 October, 2020",
+        "3.00 p.m. to 5.00 p.m."
+      ],
+      "MISC": [
+        "One",
+        "Ph.D."
+      ]
+    },
+    "entity_counts": {
+      "Africa": 2,
+      "En News": 1,
+      "ETH for Development (ETH4D": 1,
+      "Adina Rom": 1,
+      "Ph.D.": 1,
+      "Churchill Agutu": 1,
+      "One": 1,
+      "the Ashesi University": 1,
+      "Accra": 1,
+      "Ghana": 1,
+      "ETH Zurich": 1,
+      "Ashesi": 1,
+      "13 October, 2020": 1,
+      "3.00 p.m. to 5.00 p.m.": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-eth4d.md",
+      "title": "En News Events/2020/09/podcast Eth4d",
+      "language": "en",
+      "source_path": "en_news_events/2020/09/podcast-eth4d.html"
+    },
+    "temporal": {
+      "publication_date": "2020-09",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Adina Rom",
+        "Ashesi",
+        "Churchill Agutu",
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "Adina Rom": [
+          "director",
+          "rector"
+        ],
+        "Churchill Agutu": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "director",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Ph.D."
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "Ashesi University",
+        "The Executive",
+        "ETH Zurich",
+        "Adina Rom",
+        "ETH-Podcast",
+        "Churchill Agutu"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH for Development (ETH4D",
+        "En News",
+        "the Ashesi University"
+      ],
+      "locations": [
+        "Accra",
+        "Africa",
+        "Ghana"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Africa",
+        "En News",
+        "ETH for Development (ETH4D",
+        "Adina Rom",
+        "Ph.D.",
+        "Churchill Agutu",
+        "One",
+        "the Ashesi University",
+        "Accra",
+        "Ghana"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1011
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "En News",
+        "2020",
+        "ETH for Development (ETH4D",
+        "ETH Zurich",
+        "Adina Rom",
+        "Ashesi",
+        "Churchill Agutu",
+        "the Ashesi University"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "how",
+        "what",
+        "Ph.D.",
+        "where"
+      ],
+      "graph_relations": [
+        "Adina Rom_has_role_director",
+        "Adina Rom_has_role_rector",
+        "Churchill Agutu_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

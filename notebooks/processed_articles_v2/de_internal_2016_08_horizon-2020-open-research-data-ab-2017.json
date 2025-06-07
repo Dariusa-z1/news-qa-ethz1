@@ -1,0 +1,162 @@
+{
+  "filename": "de_internal_2016_08_horizon-2020-open-research-data-ab-2017.md",
+  "original_filename": "de_internal_2016_08_horizon-2020-open-research-data-ab-2017.html",
+  "source_path": "de_internal/2016/08/horizon-2020-open-research-data-ab-2017.html",
+  "date": "2016-08",
+  "title": "Horizon 2020 Open Research Data Ab 2017",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Geförderte Forschende müssen den offenen Zugang zu den Daten sicherstellen, die ihren Publikationen zugrunde liegen. Zusätzlich müssen sie für Open Access zu weiteren Forschungsdaten ihrer Wahl sorgen. Ein 'Opt out' bleibt möglich.\n\nUm das Datenmanagement und Open Data zu unterstützen, müssen alle Projekte einen Datenmanagementplan (DMP) erstellen und aktuell halten. Wie eine Checkliste dabei helfen kann, zeigt unser Blogbeitrag auf Innovation@ETH-Bibliothek .\n\nexterne Seite Infografik zum Thema (pdf, 205 kB)"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/08/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Open Research Data",
+        "label": "MISC",
+        "start": 33,
+        "end": 51
+      },
+      {
+        "text": "Geförderte Forschende",
+        "label": "ORG",
+        "start": 0,
+        "end": 21
+      },
+      {
+        "text": "Opt out'",
+        "label": "MISC",
+        "start": 207,
+        "end": 215
+      },
+      {
+        "text": "DMP",
+        "label": "ORG",
+        "start": 334,
+        "end": 337
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "DMP",
+        "Geförderte Forschende"
+      ],
+      "LOCATION": [
+        "De Internal/2016/08/"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Open Research Data",
+        "Opt out'"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2016/08/": 1,
+      "Open Research Data": 1,
+      "Geförderte Forschende": 1,
+      "Opt out'": 1,
+      "DMP": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2016_08_horizon-2020-open-research-data-ab-2017.md",
+      "title": "De Internal/2016/08/horizon 2020 Open Research Data Ab 2017",
+      "language": "de",
+      "source_path": "de_internal/2016/08/horizon-2020-open-research-data-ab-2017.html"
+    },
+    "temporal": {
+      "publication_date": "2016-08",
+      "mentioned_years": [
+        "2016",
+        "2017",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Open Research Data",
+        "Opt out'"
+      ],
+      "grants_funding": [
+        "Horizon"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "De Internal",
+        "Open Data",
+        "Seite Infografik",
+        "Data Ab",
+        "Open Access",
+        "Open Research"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DMP",
+        "Geförderte Forschende"
+      ],
+      "locations": [
+        "De Internal/2016/08/"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2016/08/",
+        "Open Research Data",
+        "Geförderte Forschende",
+        "Opt out'",
+        "DMP"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 574
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2017",
+        "Geförderte Forschende",
+        "2020",
+        "2016",
+        "DMP",
+        "Horizon"
+      ],
+      "semantic_concepts": [
+        "Open Research Data",
+        "Opt out'",
+        "what",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

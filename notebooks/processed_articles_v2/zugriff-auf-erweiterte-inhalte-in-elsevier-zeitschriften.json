@@ -1,0 +1,237 @@
+{
+  "filename": "zugriff-auf-erweiterte-inhalte-in-elsevier-zeitschriften.md",
+  "original_filename": "zugriff-auf-erweiterte-inhalte-in-elsevier-zeitschriften.html",
+  "source_path": "en_internal/2020/05/zugriff-auf-erweiterte-inhalte-in-elsevier-zeitschriften.html",
+  "date": "2020-05",
+  "title": "Zugriff Auf Erweiterte Inhalte In Elsevier Zeitschriften",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH members now have access to all journal titles on ScienceDirect . This involves a total of 16 million publications from 2,570 journals.\n\nThis is one of the results of the agreement negotiated by swissuniversities and the Consortium of Swiss University Libraries with Elsevier.\n\nThis agreement also regulates free open-access publishing in Elsevier journals for articles submitted from 2020 onwards. The prerequisite for this is that the corresponding author of the submitted article is employed at ETH Zurich. When submitting the manuscript, the ETH email address must be used.\n\nFurther information on open-access publishing in Elsevier journals\n\nIf you have questions, don’t hesitate to contact us at .\n\n#KnowMore – The prepared content issued by ETH Library is at your free disposal and gives you a head start.\n\n#ETHLibraryDigital – ETH Library is there for you digitally with various resources and services , not only during the COVID-19 protective measures."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Erweiterte Inhalte",
+        "label": "PERSON",
+        "start": 32,
+        "end": 50
+      },
+      {
+        "text": "Elsevier Zeitschriften",
+        "label": "ORG",
+        "start": 54,
+        "end": 76
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "ScienceDirect",
+        "label": "ORG",
+        "start": 53,
+        "end": 66
+      },
+      {
+        "text": "16 million",
+        "label": "CARDINAL",
+        "start": 94,
+        "end": 104
+      },
+      {
+        "text": "2,570",
+        "label": "CARDINAL",
+        "start": 123,
+        "end": 128
+      },
+      {
+        "text": "the Consortium of Swiss University Libraries",
+        "label": "ORG",
+        "start": 219,
+        "end": 263
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 499,
+        "end": 509
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 547,
+        "end": 550
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 745,
+        "end": 756
+      },
+      {
+        "text": "ETH Library",
+        "label": "PERSON",
+        "start": 830,
+        "end": 841
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 927,
+        "end": 935
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library",
+        "Erweiterte Inhalte"
+      ],
+      "ORG": [
+        "COVID-19",
+        "ETH",
+        "ETH Library",
+        "Elsevier Zeitschriften",
+        "ScienceDirect",
+        "the Consortium of Swiss University Libraries"
+      ],
+      "LOCATION": [
+        "ETH Zurich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "16 million",
+        "2,570"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "ETH Library": 2,
+      "Erweiterte Inhalte": 1,
+      "Elsevier Zeitschriften": 1,
+      "ScienceDirect": 1,
+      "16 million": 1,
+      "2,570": 1,
+      "the Consortium of Swiss University Libraries": 1,
+      "ETH Zurich": 1,
+      "COVID-19": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "zugriff-auf-erweiterte-inhalte-in-elsevier-zeitschriften.md",
+      "title": "En Internal/2020/05/zugriff auf Erweiterte Inhalte in Elsevier Zeitschriften",
+      "language": "en",
+      "source_path": "en_internal/2020/05/zugriff-auf-erweiterte-inhalte-in-elsevier-zeitschriften.html"
+    },
+    "temporal": {
+      "publication_date": "2020-05",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library",
+        "Erweiterte Inhalte"
+      ],
+      "people_with_roles": {
+        "ETH Library": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "16 million",
+        "2,570"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Erweiterte Inhalte",
+        "Swiss University",
+        "ETH Library",
+        "En Internal",
+        "Elsevier Zeitschriften",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "ETH",
+        "ETH Library",
+        "Elsevier Zeitschriften",
+        "ScienceDirect",
+        "the Consortium of Swiss University Libraries"
+      ],
+      "locations": [
+        "ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Library",
+        "Erweiterte Inhalte",
+        "Elsevier Zeitschriften",
+        "ScienceDirect",
+        "16 million",
+        "2,570",
+        "the Consortium of Swiss University Libraries",
+        "ETH Zurich",
+        "COVID-19"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1041
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Erweiterte Inhalte",
+        "ETH",
+        "ETH Library",
+        "the Consortium of Swiss University Libraries",
+        "2020",
+        "Elsevier Zeitschriften",
+        "COVID-19",
+        "ScienceDirect"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "16 million",
+        "2,570",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Library_has_role_head",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

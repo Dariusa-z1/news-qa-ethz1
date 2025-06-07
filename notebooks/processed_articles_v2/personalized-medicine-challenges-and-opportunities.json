@@ -1,0 +1,233 @@
+{
+  "filename": "personalized-medicine-challenges-and-opportunities.md",
+  "original_filename": "personalized-medicine-challenges-and-opportunities.html",
+  "source_path": "en_internal/2016/04/personalized-medicine-challenges-and-opportunities.html",
+  "date": "2016-04",
+  "title": "Personalized Medicine Challenges And Opportunities",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Registration and further information",
+      "text": "- Information about the 2016 Latsis Symposium ETH Zurich: www.itis.ethz.ch/latsis2016.\n\n- Registration: www.itis.ethz.ch/latsis2016/home/symposium/registration/.\n\n- Abstract submission: www.itis.ethz.ch/latsis2016/home/authors/abstract-submission/.\n\n- E-mail: .\n\nThe Competence Center Personalized Medicine UZH/ETZ and the IT'IS Foundation with support from the International Latsis Foundation join forces to organize the Latsis Symposium ETH Zurich “Personalized medicine – challenges and opportunities”, to be held at the ETH Zurich, 27. – 29. June 2016.\n\nDuring three days, experts in clinical research, biomedicine, bioengineering, and bioinformatics, medical image analysis, numerical and mathematical modeling, computational life sciences, and regulatory affairs will convene to share recent developments on topics from genomics and metabolomics to the in silico patient; identify challenges and synergies; and provide young researchers with a unique exposure to the diverse facets of personalized medicine.\n\nThe program will feature themed oral sessions with invited lectures, keynote addresses, and panel discussions followed by flash oral presentations, poster sessions, and networking for young scientists. The symposium will close with a public event."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Medicine Challenges",
+        "label": "PERSON",
+        "start": 33,
+        "end": 52
+      },
+      {
+        "text": "the 2016 Latsis Symposium",
+        "label": "EVENT",
+        "start": 20,
+        "end": 45
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 46,
+        "end": 56
+      },
+      {
+        "text": "www.itis.ethz.ch/latsis2016",
+        "label": "GPE",
+        "start": 58,
+        "end": 85
+      },
+      {
+        "text": "The Competence Center Personalized Medicine",
+        "label": "ORG",
+        "start": 259,
+        "end": 302
+      },
+      {
+        "text": "the IT'IS Foundation",
+        "label": "ORG",
+        "start": 315,
+        "end": 335
+      },
+      {
+        "text": "the International Latsis Foundation",
+        "label": "ORG",
+        "start": 354,
+        "end": 389
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 435,
+        "end": 445
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "FAC",
+        "start": 516,
+        "end": 530
+      },
+      {
+        "text": "June 2016",
+        "label": "DATE",
+        "start": 542,
+        "end": 551
+      },
+      {
+        "text": "three days",
+        "label": "DATE",
+        "start": 560,
+        "end": 570
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Medicine Challenges"
+      ],
+      "ORG": [
+        "The Competence Center Personalized Medicine",
+        "the IT'IS Foundation",
+        "the International Latsis Foundation"
+      ],
+      "LOCATION": [
+        "the ETH Zurich",
+        "www.itis.ethz.ch/latsis2016"
+      ],
+      "DATE": [
+        "June 2016",
+        "three days"
+      ],
+      "MISC": [
+        "the 2016 Latsis Symposium"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Medicine Challenges": 1,
+      "the 2016 Latsis Symposium": 1,
+      "www.itis.ethz.ch/latsis2016": 1,
+      "The Competence Center Personalized Medicine": 1,
+      "the IT'IS Foundation": 1,
+      "the International Latsis Foundation": 1,
+      "the ETH Zurich": 1,
+      "June 2016": 1,
+      "three days": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "personalized-medicine-challenges-and-opportunities.md",
+      "title": "En Internal/2016/04/personalized Medicine Challenges And Opportunities",
+      "language": "en",
+      "source_path": "en_internal/2016/04/personalized-medicine-challenges-and-opportunities.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Medicine Challenges"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "the 2016 Latsis Symposium"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "And Opportunities",
+        "The Competence",
+        "IS Foundation",
+        "En Internal",
+        "Medicine Challenges",
+        "Latsis Symposium",
+        "Center Personalized",
+        "International Latsis",
+        "Medicine UZH",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "The Competence Center Personalized Medicine",
+        "the IT'IS Foundation",
+        "the International Latsis Foundation"
+      ],
+      "locations": [
+        "the ETH Zurich",
+        "www.itis.ethz.ch/latsis2016"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Medicine Challenges",
+        "the 2016 Latsis Symposium",
+        "www.itis.ethz.ch/latsis2016",
+        "The Competence Center Personalized Medicine",
+        "the IT'IS Foundation",
+        "the International Latsis Foundation",
+        "the ETH Zurich",
+        "June 2016",
+        "three days"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Registration and further information"
+        ],
+        "content_length": 1333
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "The Competence Center Personalized Medicine",
+        "the International Latsis Foundation",
+        "the IT'IS Foundation",
+        "2016",
+        "Medicine Challenges",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "who",
+        "the 2016 Latsis Symposium",
+        "what",
+        "medical_research"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

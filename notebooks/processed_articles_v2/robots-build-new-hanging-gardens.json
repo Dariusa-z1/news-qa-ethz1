@@ -1,0 +1,889 @@
+{
+  "filename": "robots-build-new-hanging-gardens.md",
+  "original_filename": "robots-build-new-hanging-gardens.html",
+  "source_path": "en_news_events/2021/11/robots-build-new-hanging-gardens.html",
+  "date": "2021-11",
+  "title": "Robots Build New Hanging Gardens",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "AI proposes a clever design",
+      "text": "Working with Müller Illien Landscape Architects, Timbatec and other partners from industry and research, researchers from the group led by ETH architecture professors Fabio Gramazio and Matthias Kohler are creating a green architectural sculpture for the Tech Cluster Zug. Soaring to a height of 22.5 metres, the structure will consist of five geometrically complex wooden pods that are slightly offset from each other and supported by eight thin steel pillars. The sculpture, named after the Babylonian queen to whom the ancient Hanging Gardens of Babylon have been attributed, is being designed and built using innovative digital methods that were developed as part of the project."
+    },
+    {
+      "heading": "AI proposes a clever design",
+      "text": "In the conventional design process for projects like this, architects try to take the different requirements of a building or structure into account in its design, and then adjust that design until all the requirements are met in the best way possible. Not so with Semiramis: a custom machine learning algorithm, developed in collaboration with the Swiss Data Science Center, presented the researchers with sophisticated design options. The proposals differed as to the shapes of the pods and their spatial arrangement relative to each other. They also highlighted how each design affected individual target variables, such as irrigation for the pods. “The computer model lets us reverse the conventional design process and explore the full design scope for a project. This leads to new, often surprising geometries,” says Matthias Kohler, Professor of Architecture and Digital Fabrication at ETH Zurich.\n\nIn the Immersive Design Lab, an augmented reality laboratory on the Hönggerberg campus, the researchers were able to explore the designs in three dimensions and fine-tune them together in real time. Software developed jointly with ETH’s Computational Robotics Lab makes adapting the designs of the wooden pods easy: for example, if the scientists move a single point within the geometry of one of the pods, which are composed of about 70 wooden panels, the software adjusts the entire geometry. At the same time, the software takes into account the relevant manufacturing parameters, such as a panel’s maximum possible weight, meaning it always generates the most efficient and most load-bearing configuration."
+    },
+    {
+      "heading": "A delicate dance for the highest precision",
+      "text": "The best design is currently being manufactured in the Robotic Fabrication Laboratory at ETH Zurich. Always in sync, four suspended robotic arms each pick up the wooden panel assigned to them, perform a high-precision dance and finally put the panels into place according to the computer design. An algorithm calculates the movements of the robots in such a way that no collisions occur during execution. Once the machines have placed their four panels next to each other, craftspeople first temporarily join them before gluing them together with a special casting resin. Each of Semiramis’s five wooden pods comprises between 51 and 88 of these wooden panels."
+    },
+    {
+      "heading": "Industry and research partners involved in the project",
+      "text": "In contrast to traditional wood construction, robotic manufacturing has several advantages: for one thing, the robots relieve humans of the heavy lifting and precise positioning; for another, the assembly process requires no costly, resource-intensive substructures."
+    },
+    {
+      "heading": "A symbol of collaboration",
+      "text": "Robotic prefabrication is currently running at full speed. Individual pod segments are being shipped to Zug by lorry on a regular basis, where the architectural sculpture will be erected and finally planted out in spring 2022. Starting that summer, people will be able to view the wooden structure from the ground or from nearby buildings and catch a glimpse of the greenery in the pods.\n\nFor Kohler, meanwhile, the project has already proven its value: “Semiramis has been a beacon project for architectural research, bringing together people inside and outside ETH and advancing the key research topics of the present, such as interactive architectural design and digital fabrication,” he says.\n\nGramazio Kohler Research, ETH Zurich\n\nIn collaboration with: Müller Illien Landschaftsarchitekten GmbH, Timbatec Holzbauingenieure Schweiz AG\n\nClient: Urban Assets Zug AG\n\nGeneral contractor: Erne AG Holzbau\n\nTeam: Matthias Kohler, Fabio Gramazio, Sarah Schneider, Matteo Pacher, Aleksandra Apolinarska, Pascal Bach, Gonzalo Casas, Philippe Fleischmann, Matthias Helmreich, Michael Lyrenmann, Beverly Lytle, Romana Rust\n\nIndustry partners: TS3 AG, Intrinsic\n\nSelected experts: Chair for Timber Structures, ETH Zurich; Computational Robotics Lab, ETH Zurich – Krispin Wandel, Bernhard Thomaszewsky, Roi Poranne, Stelian Coros; Swiss Data Science Center – Luis Salamanca, Fernando Perez-Cruz"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Build New Hanging Gardens",
+        "label": "ORG",
+        "start": 30,
+        "end": 55
+      },
+      {
+        "text": "Timbatec",
+        "label": "ORG",
+        "start": 49,
+        "end": 57
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 139,
+        "end": 142
+      },
+      {
+        "text": "Fabio Gramazio",
+        "label": "PERSON",
+        "start": 167,
+        "end": 181
+      },
+      {
+        "text": "Matthias Kohler",
+        "label": "PERSON",
+        "start": 186,
+        "end": 201
+      },
+      {
+        "text": "the Tech Cluster Zug",
+        "label": "ORG",
+        "start": 251,
+        "end": 271
+      },
+      {
+        "text": "22.5 metres",
+        "label": "QUANTITY",
+        "start": 296,
+        "end": 307
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 339,
+        "end": 343
+      },
+      {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 436,
+        "end": 441
+      },
+      {
+        "text": "Babylonian",
+        "label": "NORP",
+        "start": 493,
+        "end": 503
+      },
+      {
+        "text": "Hanging Gardens of Babylon",
+        "label": "WORK_OF_ART",
+        "start": 530,
+        "end": 556
+      },
+      {
+        "text": "Semiramis",
+        "label": "ORG",
+        "start": 265,
+        "end": 274
+      },
+      {
+        "text": "the Swiss Data Science Center",
+        "label": "ORG",
+        "start": 345,
+        "end": 374
+      },
+      {
+        "text": "Matthias Kohler",
+        "label": "PERSON",
+        "start": 823,
+        "end": 838
+      },
+      {
+        "text": "Digital Fabrication",
+        "label": "ORG",
+        "start": 870,
+        "end": 889
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "GPE",
+        "start": 893,
+        "end": 903
+      },
+      {
+        "text": "the Immersive Design Lab",
+        "label": "ORG",
+        "start": 908,
+        "end": 932
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 973,
+        "end": 984
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1045,
+        "end": 1050
+      },
+      {
+        "text": "Software",
+        "label": "ORG",
+        "start": 1104,
+        "end": 1112
+      },
+      {
+        "text": "ETH’s Computational Robotics Lab",
+        "label": "ORG",
+        "start": 1136,
+        "end": 1168
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1295,
+        "end": 1298
+      },
+      {
+        "text": "about 70",
+        "label": "CARDINAL",
+        "start": 1334,
+        "end": 1342
+      },
+      {
+        "text": "the Robotic Fabrication Laboratory",
+        "label": "ORG",
+        "start": 51,
+        "end": 85
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 89,
+        "end": 99
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 117,
+        "end": 121
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 441,
+        "end": 445
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 486,
+        "end": 491
+      },
+      {
+        "text": "Semiramis",
+        "label": "ORG",
+        "start": 580,
+        "end": 589
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 592,
+        "end": 596
+      },
+      {
+        "text": "between 51 and 88",
+        "label": "DATE",
+        "start": 619,
+        "end": 636
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 96,
+        "end": 99
+      },
+      {
+        "text": "Robotic",
+        "label": "NORP",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Zug",
+        "label": "PERSON",
+        "start": 104,
+        "end": 107
+      },
+      {
+        "text": "lorry",
+        "label": "PERSON",
+        "start": 111,
+        "end": 116
+      },
+      {
+        "text": "spring 2022",
+        "label": "DATE",
+        "start": 214,
+        "end": 225
+      },
+      {
+        "text": "greenery",
+        "label": "ORG",
+        "start": 366,
+        "end": 374
+      },
+      {
+        "text": "Kohler",
+        "label": "ORG",
+        "start": 392,
+        "end": 398
+      },
+      {
+        "text": "Semiramis",
+        "label": "ORG",
+        "start": 454,
+        "end": 463
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 562,
+        "end": 565
+      },
+      {
+        "text": "Gramazio Kohler Research",
+        "label": "ORG",
+        "start": 696,
+        "end": 720
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 722,
+        "end": 732
+      },
+      {
+        "text": "Müller Illien",
+        "label": "PERSON",
+        "start": 756,
+        "end": 769
+      },
+      {
+        "text": "Landschaftsarchitekten GmbH",
+        "label": "PERSON",
+        "start": 770,
+        "end": 797
+      },
+      {
+        "text": "Timbatec Holzbauingenieure Schweiz AG Client: Urban Assets Zug AG",
+        "label": "ORG",
+        "start": 799,
+        "end": 864
+      },
+      {
+        "text": "Erne AG Holzbau Team",
+        "label": "ORG",
+        "start": 885,
+        "end": 905
+      },
+      {
+        "text": "Matthias Kohler",
+        "label": "PERSON",
+        "start": 907,
+        "end": 922
+      },
+      {
+        "text": "Fabio Gramazio",
+        "label": "PERSON",
+        "start": 924,
+        "end": 938
+      },
+      {
+        "text": "Sarah Schneider",
+        "label": "PERSON",
+        "start": 940,
+        "end": 955
+      },
+      {
+        "text": "Matteo Pacher",
+        "label": "PERSON",
+        "start": 957,
+        "end": 970
+      },
+      {
+        "text": "Aleksandra Apolinarska",
+        "label": "PERSON",
+        "start": 972,
+        "end": 994
+      },
+      {
+        "text": "Pascal Bach",
+        "label": "GPE",
+        "start": 996,
+        "end": 1007
+      },
+      {
+        "text": "Gonzalo Casas",
+        "label": "GPE",
+        "start": 1009,
+        "end": 1022
+      },
+      {
+        "text": "Philippe Fleischmann",
+        "label": "PERSON",
+        "start": 1024,
+        "end": 1044
+      },
+      {
+        "text": "Matthias Helmreich",
+        "label": "PERSON",
+        "start": 1046,
+        "end": 1064
+      },
+      {
+        "text": "Michael Lyrenmann",
+        "label": "PERSON",
+        "start": 1066,
+        "end": 1083
+      },
+      {
+        "text": "Beverly Lytle",
+        "label": "PERSON",
+        "start": 1085,
+        "end": 1098
+      },
+      {
+        "text": "Romana Rust Industry",
+        "label": "ORG",
+        "start": 1100,
+        "end": 1120
+      },
+      {
+        "text": "TS3 AG",
+        "label": "ORG",
+        "start": 1131,
+        "end": 1137
+      },
+      {
+        "text": "Intrinsic Selected",
+        "label": "ORG",
+        "start": 1139,
+        "end": 1157
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1196,
+        "end": 1206
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1236,
+        "end": 1246
+      },
+      {
+        "text": "Bernhard Thomaszewsky",
+        "label": "PERSON",
+        "start": 1265,
+        "end": 1286
+      },
+      {
+        "text": "Roi Poranne",
+        "label": "PERSON",
+        "start": 1288,
+        "end": 1299
+      },
+      {
+        "text": "Stelian Coros",
+        "label": "PERSON",
+        "start": 1301,
+        "end": 1314
+      },
+      {
+        "text": "Swiss Data Science Center",
+        "label": "ORG",
+        "start": 1316,
+        "end": 1341
+      },
+      {
+        "text": "Luis Salamanca",
+        "label": "PERSON",
+        "start": 1344,
+        "end": 1358
+      },
+      {
+        "text": "Fernando Perez-Cruz",
+        "label": "PERSON",
+        "start": 1360,
+        "end": 1379
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Aleksandra Apolinarska",
+        "Bernhard Thomaszewsky",
+        "Beverly Lytle",
+        "ETH Zurich",
+        "Fabio Gramazio",
+        "Fernando Perez-Cruz",
+        "Hönggerberg",
+        "Landschaftsarchitekten GmbH",
+        "Luis Salamanca",
+        "Matteo Pacher",
+        "Matthias Helmreich",
+        "Matthias Kohler",
+        "Michael Lyrenmann",
+        "Müller Illien",
+        "Philippe Fleischmann",
+        "Roi Poranne",
+        "Sarah Schneider",
+        "Stelian Coros",
+        "Zug",
+        "lorry"
+      ],
+      "ORG": [
+        "Build New Hanging Gardens",
+        "Digital Fabrication",
+        "ETH",
+        "ETH Zurich",
+        "ETH’s Computational Robotics Lab",
+        "En News",
+        "Erne AG Holzbau Team",
+        "Gramazio Kohler Research",
+        "Intrinsic Selected",
+        "Kohler",
+        "Romana Rust Industry",
+        "Semiramis",
+        "Software",
+        "Swiss Data Science Center",
+        "TS3 AG",
+        "Timbatec",
+        "Timbatec Holzbauingenieure Schweiz AG Client: Urban Assets Zug AG",
+        "greenery",
+        "the Immersive Design Lab",
+        "the Robotic Fabrication Laboratory",
+        "the Swiss Data Science Center",
+        "the Tech Cluster Zug"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Gonzalo Casas",
+        "Pascal Bach"
+      ],
+      "DATE": [
+        "between 51 and 88",
+        "spring 2022"
+      ],
+      "MISC": [
+        "22.5 metres",
+        "Babylonian",
+        "Hanging Gardens of Babylon",
+        "Robotic",
+        "about 70",
+        "eight",
+        "first",
+        "five",
+        "four",
+        "one",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 5,
+      "Matthias Kohler": 3,
+      "Semiramis": 3,
+      "ETH": 2,
+      "Fabio Gramazio": 2,
+      "five": 2,
+      "one": 2,
+      "four": 2,
+      "En News": 1,
+      "Build New Hanging Gardens": 1,
+      "Timbatec": 1,
+      "the Tech Cluster Zug": 1,
+      "22.5 metres": 1,
+      "eight": 1,
+      "Babylonian": 1,
+      "Hanging Gardens of Babylon": 1,
+      "the Swiss Data Science Center": 1,
+      "Digital Fabrication": 1,
+      "the Immersive Design Lab": 1,
+      "Hönggerberg": 1
+    },
+    "total_entities": 69,
+    "unique_entities": 56
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "robots-build-new-hanging-gardens.md",
+      "title": "En News Events/2021/11/robots Build New Hanging Gardens",
+      "language": "en",
+      "source_path": "en_news_events/2021/11/robots-build-new-hanging-gardens.html"
+    },
+    "temporal": {
+      "publication_date": "2021-11",
+      "mentioned_years": [
+        "2021",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Aleksandra Apolinarska",
+        "Bernhard Thomaszewsky",
+        "Beverly Lytle",
+        "ETH Zurich",
+        "Fabio Gramazio",
+        "Fernando Perez-Cruz",
+        "Hönggerberg",
+        "Landschaftsarchitekten GmbH",
+        "Luis Salamanca",
+        "Matteo Pacher",
+        "Matthias Helmreich",
+        "Matthias Kohler",
+        "Michael Lyrenmann",
+        "Müller Illien",
+        "Philippe Fleischmann",
+        "Roi Poranne",
+        "Sarah Schneider",
+        "Stelian Coros",
+        "Zug",
+        "lorry"
+      ],
+      "people_with_roles": {
+        "Aleksandra Apolinarska": [
+          "chair"
+        ],
+        "Bernhard Thomaszewsky": [
+          "chair"
+        ],
+        "Beverly Lytle": [
+          "chair"
+        ],
+        "ETH Zurich": [
+          "chair",
+          "professor"
+        ],
+        "Fabio Gramazio": [
+          "chair",
+          "researcher",
+          "professor"
+        ],
+        "Fernando Perez-Cruz": [
+          "chair"
+        ],
+        "Hönggerberg": [
+          "researcher"
+        ],
+        "Landschaftsarchitekten GmbH": [
+          "chair"
+        ],
+        "Luis Salamanca": [
+          "chair"
+        ],
+        "Matteo Pacher": [
+          "chair"
+        ],
+        "Matthias Helmreich": [
+          "chair"
+        ],
+        "Matthias Kohler": [
+          "chair",
+          "researcher",
+          "professor"
+        ],
+        "Michael Lyrenmann": [
+          "chair"
+        ],
+        "Müller Illien": [
+          "chair",
+          "researcher",
+          "professor"
+        ],
+        "Philippe Fleischmann": [
+          "chair"
+        ],
+        "Roi Poranne": [
+          "chair"
+        ],
+        "Sarah Schneider": [
+          "chair"
+        ],
+        "Stelian Coros": [
+          "chair"
+        ],
+        "Zug": [
+          "chair",
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "chair",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "22.5 metres",
+        "Babylonian",
+        "Hanging Gardens of Babylon",
+        "Robotic",
+        "about 70",
+        "eight",
+        "first",
+        "five",
+        "four",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Beverly Lytle",
+        "Hanging Gardens",
+        "Romana Rust",
+        "Philippe Fleischmann",
+        "Krispin Wandel",
+        "Pascal Bach",
+        "Gonzalo Casas",
+        "Digital Fabrication",
+        "For Kohler",
+        "Gramazio Kohler",
+        "Urban Assets",
+        "Zug AG",
+        "Bernhard Thomaszewsky",
+        "Matthias Helmreich",
+        "Fernando Perez",
+        "Luis Salamanca",
+        "Illien Landschaftsarchitekten",
+        "Michael Lyrenmann",
+        "Science Center",
+        "Fabio Gramazio",
+        "Build New",
+        "Illien Landscape",
+        "Matthias Kohler",
+        "Tech Cluster",
+        "Computational Robotics",
+        "Robotic Fabrication",
+        "Sarah Schneider",
+        "Aleksandra Apolinarska",
+        "Timbatec Holzbauingenieure",
+        "Stelian Coros",
+        "Erne AG",
+        "En News",
+        "Schweiz AG",
+        "Matteo Pacher",
+        "Timber Structures",
+        "ETH Zurich",
+        "Roi Poranne",
+        "Immersive Design",
+        "Swiss Data"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Build New Hanging Gardens",
+        "Digital Fabrication",
+        "ETH",
+        "ETH Zurich",
+        "ETH’s Computational Robotics Lab",
+        "En News",
+        "Erne AG Holzbau Team",
+        "Gramazio Kohler Research",
+        "Intrinsic Selected",
+        "Kohler",
+        "Romana Rust Industry",
+        "Semiramis",
+        "Software",
+        "Swiss Data Science Center",
+        "TS3 AG",
+        "Timbatec",
+        "Timbatec Holzbauingenieure Schweiz AG Client: Urban Assets Zug AG",
+        "greenery",
+        "the Immersive Design Lab",
+        "the Robotic Fabrication Laboratory",
+        "the Swiss Data Science Center",
+        "the Tech Cluster Zug"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Gonzalo Casas",
+        "Pascal Bach"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Matthias Kohler",
+        "Semiramis",
+        "ETH",
+        "Fabio Gramazio",
+        "five",
+        "one",
+        "four",
+        "En News",
+        "Build New Hanging Gardens"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "AI proposes a clever design",
+          "AI proposes a clever design",
+          "A delicate dance for the highest precision",
+          "Industry and research partners involved in the project",
+          "A symbol of collaboration"
+        ],
+        "content_length": 4672
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Beverly Lytle",
+        "Software",
+        "Gramazio Kohler Research",
+        "the Swiss Data Science Center",
+        "Timbatec",
+        "Philippe Fleischmann",
+        "Timbatec Holzbauingenieure Schweiz AG Client: Urban Assets Zug AG",
+        "TS3 AG",
+        "the Tech Cluster Zug",
+        "the Robotic Fabrication Laboratory",
+        "Müller Illien",
+        "Digital Fabrication",
+        "the Immersive Design Lab",
+        "Build New Hanging Gardens",
+        "Erne AG Holzbau Team",
+        "greenery",
+        "Matthias Helmreich",
+        "2022",
+        "Luis Salamanca",
+        "Michael Lyrenmann",
+        "Swiss Data Science Center",
+        "lorry",
+        "Fabio Gramazio",
+        "Matthias Kohler",
+        "Sarah Schneider",
+        "EU",
+        "Aleksandra Apolinarska",
+        "Fernando Perez-Cruz",
+        "Hönggerberg",
+        "Stelian Coros",
+        "ETH’s Computational Robotics Lab",
+        "Zug",
+        "Landschaftsarchitekten GmbH",
+        "En News",
+        "Kohler",
+        "Romana Rust Industry",
+        "Intrinsic Selected",
+        "Matteo Pacher",
+        "Semiramis",
+        "ETH Zurich",
+        "Roi Poranne",
+        "2021",
+        "Bernhard Thomaszewsky"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "Robotic",
+        "when",
+        "engineering",
+        "about 70",
+        "four",
+        "mathematics",
+        "who",
+        "eight",
+        "what",
+        "how",
+        "computer_science",
+        "five",
+        "22.5 metres",
+        "Hanging Gardens of Babylon",
+        "first",
+        "Babylonian",
+        "where"
+      ],
+      "graph_relations": [
+        "Aleksandra Apolinarska_has_role_chair",
+        "Bernhard Thomaszewsky_has_role_chair",
+        "Beverly Lytle_has_role_chair",
+        "ETH Zurich_has_role_chair",
+        "ETH Zurich_has_role_professor",
+        "Fabio Gramazio_has_role_chair",
+        "Fabio Gramazio_has_role_researcher",
+        "Fabio Gramazio_has_role_professor",
+        "Fernando Perez-Cruz_has_role_chair",
+        "Hönggerberg_has_role_researcher",
+        "Landschaftsarchitekten GmbH_has_role_chair",
+        "Luis Salamanca_has_role_chair",
+        "Matteo Pacher_has_role_chair",
+        "Matthias Helmreich_has_role_chair",
+        "Matthias Kohler_has_role_chair",
+        "Matthias Kohler_has_role_researcher",
+        "Matthias Kohler_has_role_professor",
+        "Michael Lyrenmann_has_role_chair",
+        "Müller Illien_has_role_chair",
+        "Müller Illien_has_role_researcher",
+        "Müller Illien_has_role_professor",
+        "Philippe Fleischmann_has_role_chair",
+        "Roi Poranne_has_role_chair",
+        "Sarah Schneider_has_role_chair",
+        "Stelian Coros_has_role_chair",
+        "Zug_has_role_chair",
+        "Zug_has_role_researcher",
+        "Zug_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

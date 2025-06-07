@@ -1,0 +1,99 @@
+{
+  "filename": "en_internal_2017_01_new-journals-online.md",
+  "original_filename": "en_internal_2017_01_new-journals-online.html",
+  "source_path": "en_internal/2017/01/new-journals-online.html",
+  "date": "2017-01",
+  "title": "New Journals Online",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Among these are e.g. biology, medicine, agricultural and food sciences:\n\nAccess is possible from the ETH Zurich network or in the public areas of ETH-Bibliothek."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 145,
+        "end": 159
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH-Bibliothek"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 1,
+    "unique_entities": 1
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "en_internal_2017_01_new-journals-online.md",
+      "title": "En Internal/2017/01/new Journals Online",
+      "language": "en",
+      "source_path": "en_internal/2017/01/new-journals-online.html"
+    },
+    "temporal": {
+      "publication_date": "2017-01",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH Zurich",
+        "ETH-Bibliothek",
+        "Journals Online",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 201
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2017",
+        "ETH-Bibliothek"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

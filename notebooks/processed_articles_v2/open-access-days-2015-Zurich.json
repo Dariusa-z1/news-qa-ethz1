@@ -1,0 +1,307 @@
+{
+  "filename": "open-access-days-2015-Zurich.md",
+  "original_filename": "open-access-days-2015-Zurich.html",
+  "source_path": "en_internal/2015/06/open-access-days-2015-Zurich.html",
+  "date": "2015-06",
+  "title": "Open Access Days 2015 Zurich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH-Bibliothek will be giving the following talks at the Open Access Days:\n\nMonday, 7 September, 16.15, session 1: (Linked) Open Data and Cultural Heritage Nicole Graf (Image Archive): from the image agency to an open data supplier: realignment of the licensing model of ETH-Bibliothek’s Image Archive.\n\nTuesday, 8 September, 10.45 , session 5: Data Repositories and Open Access Matthias Töwe (Digital Curation): research data and open access: organisation is... part and parcel of it. Barbara Hirschmann (E-Publishing): development of standards and best practices in the field of research data publication. A glance at DataCite's work.\n\nTuesday, 8 September,14.00, session 10: News for Librarians Nadja Böller (Consortium of Swiss Academic Libraries): \"Access to everything for everyone – forever.\" How the \"Nationallizenzen\" project supports the Swiss open-access movement.\n\nFurther information on the information platform open-access.net"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Access Days 2015",
+        "label": "ORG",
+        "start": 25,
+        "end": 41
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 42,
+        "end": 48
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "the Open Access Days:",
+        "label": "EVENT",
+        "start": 53,
+        "end": 74
+      },
+      {
+        "text": "Monday",
+        "label": "DATE",
+        "start": 75,
+        "end": 81
+      },
+      {
+        "text": "7 September",
+        "label": "DATE",
+        "start": 83,
+        "end": 94
+      },
+      {
+        "text": "16.15",
+        "label": "CARDINAL",
+        "start": 96,
+        "end": 101
+      },
+      {
+        "text": "Image Archive",
+        "label": "ORG",
+        "start": 168,
+        "end": 181
+      },
+      {
+        "text": "ETH-Bibliothek’s Image Archive",
+        "label": "ORG",
+        "start": 270,
+        "end": 300
+      },
+      {
+        "text": "Tuesday",
+        "label": "DATE",
+        "start": 302,
+        "end": 309
+      },
+      {
+        "text": "8 September",
+        "label": "DATE",
+        "start": 311,
+        "end": 322
+      },
+      {
+        "text": "10.45",
+        "label": "DATE",
+        "start": 324,
+        "end": 329
+      },
+      {
+        "text": "Data Repositories and Open Access",
+        "label": "ORG",
+        "start": 343,
+        "end": 376
+      },
+      {
+        "text": "Digital Curation",
+        "label": "ORG",
+        "start": 392,
+        "end": 408
+      },
+      {
+        "text": "Barbara Hirschmann",
+        "label": "PERSON",
+        "start": 484,
+        "end": 502
+      },
+      {
+        "text": "DataCite",
+        "label": "ORG",
+        "start": 618,
+        "end": 626
+      },
+      {
+        "text": "Tuesday",
+        "label": "DATE",
+        "start": 635,
+        "end": 642
+      },
+      {
+        "text": "Nadja Böller",
+        "label": "PERSON",
+        "start": 695,
+        "end": 707
+      },
+      {
+        "text": "Consortium of Swiss Academic Libraries",
+        "label": "ORG",
+        "start": 709,
+        "end": 747
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 845,
+        "end": 850
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Barbara Hirschmann",
+        "Nadja Böller"
+      ],
+      "ORG": [
+        "Access Days 2015",
+        "Consortium of Swiss Academic Libraries",
+        "Data Repositories and Open Access",
+        "DataCite",
+        "Digital Curation",
+        "ETH-Bibliothek",
+        "ETH-Bibliothek’s Image Archive",
+        "Image Archive"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "10.45",
+        "7 September",
+        "8 September",
+        "Monday",
+        "Tuesday"
+      ],
+      "MISC": [
+        "16.15",
+        "Swiss",
+        "the Open Access Days:"
+      ]
+    },
+    "entity_counts": {
+      "Tuesday": 2,
+      "Access Days 2015": 1,
+      "Zurich": 1,
+      "ETH-Bibliothek": 1,
+      "the Open Access Days:": 1,
+      "Monday": 1,
+      "7 September": 1,
+      "16.15": 1,
+      "Image Archive": 1,
+      "ETH-Bibliothek’s Image Archive": 1,
+      "8 September": 1,
+      "10.45": 1,
+      "Data Repositories and Open Access": 1,
+      "Digital Curation": 1,
+      "Barbara Hirschmann": 1,
+      "DataCite": 1,
+      "Nadja Böller": 1,
+      "Consortium of Swiss Academic Libraries": 1,
+      "Swiss": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "open-access-days-2015-Zurich.md",
+      "title": "En Internal/2015/06/open Access Days 2015 Zurich",
+      "language": "en",
+      "source_path": "en_internal/2015/06/open-access-days-2015-Zurich.html"
+    },
+    "temporal": {
+      "publication_date": "2015-06",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Barbara Hirschmann",
+        "Nadja Böller"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "16.15",
+        "Swiss",
+        "the Open Access Days:"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Image Archive",
+        "ETH-Bibliothek",
+        "Digital Curation",
+        "Open Data",
+        "Access Days",
+        "En Internal",
+        "Cultural Heritage",
+        "Nicole Graf",
+        "Barbara Hirschmann",
+        "Swiss Academic",
+        "Librarians Nadja",
+        "Zurich ETH",
+        "Open Access",
+        "Data Repositories",
+        "E-Publishing"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Access Days 2015",
+        "Consortium of Swiss Academic Libraries",
+        "Data Repositories and Open Access",
+        "DataCite",
+        "Digital Curation",
+        "ETH-Bibliothek",
+        "ETH-Bibliothek’s Image Archive",
+        "Image Archive"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Tuesday",
+        "Access Days 2015",
+        "Zurich",
+        "ETH-Bibliothek",
+        "the Open Access Days:",
+        "Monday",
+        "7 September",
+        "16.15",
+        "Image Archive",
+        "ETH-Bibliothek’s Image Archive"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 989
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Image Archive",
+        "ETH-Bibliothek",
+        "2015",
+        "Access Days 2015",
+        "Consortium of Swiss Academic Libraries",
+        "ETH-Bibliothek’s Image Archive",
+        "Digital Curation",
+        "Nadja Böller",
+        "Barbara Hirschmann",
+        "DataCite",
+        "Data Repositories and Open Access"
+      ],
+      "semantic_concepts": [
+        "16.15",
+        "Swiss",
+        "the Open Access Days:",
+        "what",
+        "how"
+      ],
+      "graph_relations": []
+    }
+  }
+}

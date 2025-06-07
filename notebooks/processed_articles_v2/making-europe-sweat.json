@@ -1,0 +1,671 @@
+{
+  "filename": "making-europe-sweat.md",
+  "original_filename": "making-europe-sweat.html",
+  "source_path": "en_news_events/2015/07/making-europe-sweat.html",
+  "date": "2015-07",
+  "title": "Making Europe Sweat",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The opposite of sweating",
+      "text": "In 2003, Europe experienced a record-breaking summer, and many people feel that this summer is headed the same way. In the midst of this heatwave, the scientific journal Nature Geoscience has published a study that can help us to understand such extreme weather conditions. For around two years, an ETH research team has analysed climate data from all over the world in a bid to explain the driving force behind stable high-pressure systems. It has long been known that extremely stable high-pressure systems in the upper troposphere, that is five to ten kilometres up into the atmosphere, can trigger summer heatwaves. Researchers have termed these special high-pressure conditions ‘blocking’, since they deflect low-pressure systems and, as a result, may lead to warm weather patterns. These patterns are around 2,000 kilometres in diameter and can span across large swathes of Europe. They interrupt the typical westerly flow from the North Atlantic, which would otherwise determine the weather conditions in our region."
+    },
+    {
+      "heading": "The opposite of sweating",
+      "text": "While all research up to this point has attempted to explain blocking by focussing on the circulation of air masses in the upper troposphere, the Atmospheric Dynamics research team led by ETH professor Heini Wernli has now proposed a new approach. “We show that the ascension of air masses from the lower troposphere can also be a determining factor in the formation and perpetuation of such systems,” says Stephan Pfahl, senior scientist in Wernli’s team.\n\n‘Latent heat’ plays an important role: clouds form in the ascending air masses, water vapour condenses and releases so-called latent energy. “That is the opposite of sweating, in which water evaporates and cools the body,” explains Pfahl. The resultant heating of the parcel of air can lead to a further rise. The latent heat thus provides part of the force needed for the air masses to rise."
+    },
+    {
+      "heading": "Delayed process",
+      "text": "In their analysis of meteorological data from the past 21 years, ETH researchers have now discovered that in the three days before the air masses reach the blocking region, up to 45 per cent of air masses are heated through this process; in the week before this increases to as much as 70 per cent. It is easy to understand this through changes in the weather: clouds or areas of bad weather form over the Atlantic and, a few days later, the patterns appear over Europe with sunny weather. “The process is thus always delayed; in the week before the blocking occurs, far more than half of the air masses undergo this latent heating process,” says ETH Professor Heini Wernli.\n\nFor 20 years, Wernli has specialised in the analysis of low-pressure systems, in which latent heat has long been recognised as an essential process. The research team has focussed on the phenomenon of blocking for a good ten years. “At the beginning we were all curious as to why the flow suddenly changed from westerly to another state,” says Wernli. The current study has combined the findings from the analysis of low-pressure areas with those from the research into blocking."
+    },
+    {
+      "heading": "Immense volumes of data analysed",
+      "text": "The ETH Zurich research team analysed a huge set of data taken from ground-measurements, balloons, aircraft and satellites from the European Centre for Medium-Range Weather Forecasts in Reading, UK. New data on wind, temperature, cloud formation and humidity was received every six hours. Using trajectory calculations, Stephan Pfahl evaluated the movement of individual parcels of air, which contribute to the formation of blocking systems. More than 100 million trajectories were analysed.\n\nThe new findings may also prove useful in other areas of climate research. “There is more moisture in the air as the result of global warming. This causes more latent heat to be released, which could also lead to a change in the frequency of blocking weather conditions,” says Pfahl. “But that is still highly speculative; we need to conduct further research into this.” The weather forecast could conceivably benefit from the new findings as well, since it often misses the moment at which the blocking pattern forms or disintegrates, which can have a significant impact on weather developments. It remains to be seen how well the latent heat process can be reproduced in existing weather models."
+    },
+    {
+      "heading": "Blocking also causes high fog",
+      "text": "But blocking is not exclusively a summer phenomenon: in the winter months, blocking can cause the cold, high fog conditions with which we are so familiar in the Swiss Plateau, but which also occur all the way from the Po Valley in Italy up to northern Germany. “In other words, all those weather conditions about which people always complain”, laughs Wernli – from extreme heat through to grey, cold winter weather.\n\nPfahl S, Schwierz C, Croci-Maspoli M, Grams CM, Wernli H: Importance of latent heat release in ascending streams for atmospheric blocking. Nature Geoscience, 20 July 2015, doi: 10.1038/ngeo2487"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 30,
+        "end": 36
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 9,
+        "end": 15
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 46,
+        "end": 52
+      },
+      {
+        "text": "this summer",
+        "label": "DATE",
+        "start": 80,
+        "end": 91
+      },
+      {
+        "text": "Nature Geoscience",
+        "label": "WORK_OF_ART",
+        "start": 170,
+        "end": 187
+      },
+      {
+        "text": "around two years",
+        "label": "DATE",
+        "start": 278,
+        "end": 294
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 299,
+        "end": 302
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 543,
+        "end": 547
+      },
+      {
+        "text": "ten kilometres",
+        "label": "QUANTITY",
+        "start": 551,
+        "end": 565
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 602,
+        "end": 608
+      },
+      {
+        "text": "around 2,000 kilometres",
+        "label": "QUANTITY",
+        "start": 807,
+        "end": 830
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 880,
+        "end": 886
+      },
+      {
+        "text": "the North Atlantic",
+        "label": "LOC",
+        "start": 934,
+        "end": 952
+      },
+      {
+        "text": "the Atmospheric Dynamics",
+        "label": "ORG",
+        "start": 142,
+        "end": 166
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 188,
+        "end": 191
+      },
+      {
+        "text": "Heini Wernli",
+        "label": "PERSON",
+        "start": 202,
+        "end": 214
+      },
+      {
+        "text": "Stephan Pfahl",
+        "label": "PERSON",
+        "start": 407,
+        "end": 420
+      },
+      {
+        "text": "Wernli",
+        "label": "GPE",
+        "start": 442,
+        "end": 448
+      },
+      {
+        "text": "Pfahl",
+        "label": "GPE",
+        "start": 689,
+        "end": 694
+      },
+      {
+        "text": "the past 21 years",
+        "label": "DATE",
+        "start": 46,
+        "end": 63
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 65,
+        "end": 68
+      },
+      {
+        "text": "the three days",
+        "label": "DATE",
+        "start": 109,
+        "end": 123
+      },
+      {
+        "text": "45 per cent",
+        "label": "MONEY",
+        "start": 179,
+        "end": 190
+      },
+      {
+        "text": "the week",
+        "label": "DATE",
+        "start": 241,
+        "end": 249
+      },
+      {
+        "text": "as much as",
+        "label": "PERCENT",
+        "start": 275,
+        "end": 285
+      },
+      {
+        "text": "Atlantic",
+        "label": "LOC",
+        "start": 406,
+        "end": 414
+      },
+      {
+        "text": "a few days later",
+        "label": "DATE",
+        "start": 420,
+        "end": 436
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 463,
+        "end": 469
+      },
+      {
+        "text": "the week",
+        "label": "DATE",
+        "start": 530,
+        "end": 538
+      },
+      {
+        "text": "more than half",
+        "label": "CARDINAL",
+        "start": 571,
+        "end": 585
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 647,
+        "end": 650
+      },
+      {
+        "text": "Heini Wernli",
+        "label": "PERSON",
+        "start": 661,
+        "end": 673
+      },
+      {
+        "text": "20 years",
+        "label": "DATE",
+        "start": 679,
+        "end": 687
+      },
+      {
+        "text": "Wernli",
+        "label": "GPE",
+        "start": 689,
+        "end": 695
+      },
+      {
+        "text": "a good ten years",
+        "label": "DATE",
+        "start": 889,
+        "end": 905
+      },
+      {
+        "text": "Wernli",
+        "label": "PERSON",
+        "start": 1019,
+        "end": 1025
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 4,
+        "end": 14
+      },
+      {
+        "text": "the European Centre for Medium-Range Weather Forecasts",
+        "label": "ORG",
+        "start": 128,
+        "end": 182
+      },
+      {
+        "text": "Reading",
+        "label": "GPE",
+        "start": 186,
+        "end": 193
+      },
+      {
+        "text": "UK",
+        "label": "GPE",
+        "start": 195,
+        "end": 197
+      },
+      {
+        "text": "every six hours",
+        "label": "TIME",
+        "start": 272,
+        "end": 287
+      },
+      {
+        "text": "Stephan Pfahl",
+        "label": "PERSON",
+        "start": 320,
+        "end": 333
+      },
+      {
+        "text": "More than 100 million",
+        "label": "CARDINAL",
+        "start": 442,
+        "end": 463
+      },
+      {
+        "text": "Pfahl",
+        "label": "PERSON",
+        "start": 769,
+        "end": 774
+      },
+      {
+        "text": "the winter months",
+        "label": "DATE",
+        "start": 56,
+        "end": 73
+      },
+      {
+        "text": "the Swiss Plateau",
+        "label": "LOC",
+        "start": 157,
+        "end": 174
+      },
+      {
+        "text": "the Po Valley",
+        "label": "LOC",
+        "start": 214,
+        "end": 227
+      },
+      {
+        "text": "Italy",
+        "label": "GPE",
+        "start": 231,
+        "end": 236
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 252,
+        "end": 259
+      },
+      {
+        "text": "Wernli",
+        "label": "PERSON",
+        "start": 351,
+        "end": 357
+      },
+      {
+        "text": "grey",
+        "label": "GPE",
+        "start": 389,
+        "end": 393
+      },
+      {
+        "text": "winter",
+        "label": "DATE",
+        "start": 400,
+        "end": 406
+      },
+      {
+        "text": "Pfahl S",
+        "label": "ORG",
+        "start": 416,
+        "end": 423
+      },
+      {
+        "text": "Croci-Maspoli M",
+        "label": "ORG",
+        "start": 437,
+        "end": 452
+      },
+      {
+        "text": "Grams CM",
+        "label": "PERSON",
+        "start": 454,
+        "end": 462
+      },
+      {
+        "text": "Wernli H: Importance",
+        "label": "PERSON",
+        "start": 464,
+        "end": 484
+      },
+      {
+        "text": "Nature Geoscience",
+        "label": "PERSON",
+        "start": 555,
+        "end": 572
+      },
+      {
+        "text": "20 July 2015",
+        "label": "DATE",
+        "start": 574,
+        "end": 586
+      },
+      {
+        "text": "10.1038/ngeo2487",
+        "label": "CARDINAL",
+        "start": 593,
+        "end": 609
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Grams CM",
+        "Heini Wernli",
+        "Nature Geoscience",
+        "Pfahl",
+        "Stephan Pfahl",
+        "Wernli",
+        "Wernli H: Importance"
+      ],
+      "ORG": [
+        "Croci-Maspoli M",
+        "ETH",
+        "ETH Zurich",
+        "Pfahl S",
+        "the Atmospheric Dynamics",
+        "the European Centre for Medium-Range Weather Forecasts"
+      ],
+      "LOCATION": [
+        "Atlantic",
+        "Europe",
+        "Germany",
+        "Italy",
+        "Pfahl",
+        "Reading",
+        "UK",
+        "Wernli",
+        "grey",
+        "the North Atlantic",
+        "the Po Valley",
+        "the Swiss Plateau"
+      ],
+      "DATE": [
+        "20 July 2015",
+        "20 years",
+        "a few days later",
+        "a good ten years",
+        "around two years",
+        "every six hours",
+        "summer",
+        "the past 21 years",
+        "the three days",
+        "the week",
+        "the winter months",
+        "this summer",
+        "winter"
+      ],
+      "MISC": [
+        "10.1038/ngeo2487",
+        "45 per cent",
+        "More than 100 million",
+        "Nature Geoscience",
+        "around 2,000 kilometres",
+        "as much as",
+        "five",
+        "more than half",
+        "ten kilometres"
+      ]
+    },
+    "entity_counts": {
+      "Europe": 4,
+      "ETH": 4,
+      "Wernli": 4,
+      "summer": 2,
+      "Nature Geoscience": 2,
+      "Heini Wernli": 2,
+      "Stephan Pfahl": 2,
+      "Pfahl": 2,
+      "the week": 2,
+      "this summer": 1,
+      "around two years": 1,
+      "five": 1,
+      "ten kilometres": 1,
+      "around 2,000 kilometres": 1,
+      "the North Atlantic": 1,
+      "the Atmospheric Dynamics": 1,
+      "the past 21 years": 1,
+      "the three days": 1,
+      "45 per cent": 1,
+      "as much as": 1
+    },
+    "total_entities": 59,
+    "unique_entities": 44
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "making-europe-sweat.md",
+      "title": "En News Events/2015/07/making Europe Sweat",
+      "language": "en",
+      "source_path": "en_news_events/2015/07/making-europe-sweat.html"
+    },
+    "temporal": {
+      "publication_date": "2015-07",
+      "mentioned_years": [
+        "2003",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Grams CM",
+        "Heini Wernli",
+        "Nature Geoscience",
+        "Pfahl",
+        "Stephan Pfahl",
+        "Wernli",
+        "Wernli H: Importance"
+      ],
+      "people_with_roles": {
+        "Heini Wernli": [
+          "Professor",
+          "professor"
+        ],
+        "Pfahl": [
+          "scientist"
+        ],
+        "Stephan Pfahl": [
+          "scientist"
+        ],
+        "Wernli": [
+          "scientist",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038/ngeo2487",
+        "45 per cent",
+        "More than 100 million",
+        "Nature Geoscience",
+        "around 2,000 kilometres",
+        "as much as",
+        "five",
+        "more than half",
+        "ten kilometres"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Nature Geoscience",
+        "European Centre",
+        "Swiss Plateau",
+        "Stephan Pfahl",
+        "ETH Professor",
+        "The ETH",
+        "Europe Sweat",
+        "Grams CM",
+        "Weather Forecasts",
+        "Po Valley",
+        "Heini Wernli",
+        "Croci-Maspoli",
+        "North Atlantic",
+        "Atmospheric Dynamics",
+        "Wernli H",
+        "Schwierz C",
+        "En News",
+        "Medium-Range",
+        "Pfahl S"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Croci-Maspoli M",
+        "ETH",
+        "ETH Zurich",
+        "Pfahl S",
+        "the Atmospheric Dynamics",
+        "the European Centre for Medium-Range Weather Forecasts"
+      ],
+      "locations": [
+        "Atlantic",
+        "Europe",
+        "Germany",
+        "Italy",
+        "Pfahl",
+        "Reading",
+        "UK",
+        "Wernli",
+        "grey",
+        "the North Atlantic",
+        "the Po Valley",
+        "the Swiss Plateau"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Europe",
+        "ETH",
+        "Wernli",
+        "summer",
+        "Nature Geoscience",
+        "Heini Wernli",
+        "Stephan Pfahl",
+        "Pfahl",
+        "the week",
+        "this summer"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "The opposite of sweating",
+          "The opposite of sweating",
+          "Delayed process",
+          "Immense volumes of data analysed",
+          "Blocking also causes high fog"
+        ],
+        "content_length": 4875
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Croci-Maspoli M",
+        "2015",
+        "Nature Geoscience",
+        "Wernli",
+        "EU",
+        "Pfahl S",
+        "Heini Wernli",
+        "the European Centre for Medium-Range Weather Forecasts",
+        "the Atmospheric Dynamics",
+        "Wernli H: Importance",
+        "Pfahl",
+        "2003",
+        "ETH Zurich",
+        "Stephan Pfahl",
+        "Grams CM"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "five",
+        "why",
+        "who",
+        "45 per cent",
+        "Nature Geoscience",
+        "ten kilometres",
+        "what",
+        "how",
+        "around 2,000 kilometres",
+        "10.1038/ngeo2487",
+        "climate_change",
+        "as much as",
+        "when",
+        "More than 100 million",
+        "more than half"
+      ],
+      "graph_relations": [
+        "Heini Wernli_has_role_Professor",
+        "Heini Wernli_has_role_professor",
+        "Pfahl_has_role_scientist",
+        "Stephan Pfahl_has_role_scientist",
+        "Wernli_has_role_scientist",
+        "Wernli_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

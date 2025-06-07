@@ -1,0 +1,526 @@
+{
+  "filename": "thermoelectric-materials.md",
+  "original_filename": "thermoelectric-materials.html",
+  "source_path": "en_news_events/2013/10/thermoelectric-materials.html",
+  "date": "2013-10",
+  "title": "Thermoelectric Materials",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "From heat to electricity",
+      "text": "Discovered in the 19th century, thermoelectric materials have the remarkable property that heating them creates a small electrical current. But enhancing this current to a level compatible with the needs of modern technologies has revealed an extraordinary challenge for scientists of the last decades, despite important theoretical and experimental efforts. Now a novel approach could lead to substantial progress. At ETH Zurich the quantum optics group of Tilman Esslinger has created a key model to better understand the fundamental phenomena – “a thermoelectric material emulator”.\n\nIt happened almost by chance: In Zurich group member Jean-Philippe Brantut and his colleagues had just set up a new experiment when visiting professor Antoine Georges from the Collège de France and University of Geneva had a look at the laboratory and was thrilled. “We didn’t really think that in our experiment we could have efficient thermoelectricity”, remembers Jean-Philippe Brantut, “but then he told us, that our setup was extremely interesting, something he and his colleagues Corinna Kollath (University of Bonn) and Charles Grenier (Ecole Polytechnique - CNRS) had been looking for for years.”\n\nAntoine Georges returned the very next day with a bunch of equations to convince the researchers that their experiment was an ideal way to study thermoelectricity. This triggered a fruitful collaboration between theorists in Paris, Bonn and Geneva and experimentalists in Zurich. The results of the international team are now presented in “Science”."
+    },
+    {
+      "heading": "Literature Reference",
+      "text": "Glass cell in which the atoms are trapped. (Photo: Jakob Meineke / ETH Zurich)\n\nThe generation of electricity from heat usually involves burning a combustible, which then heats a fluid that brings a mechanical turbine into motion, which eventually produces an electrical current. In thermoelectric materials, the entire cycle that is performed by a heat engine occurs naturally. However, this effect is weak and for the materials known so far, the efficiency of thermoelectric generators is much smaller than that of electrical power plants.\n\nAt the moment the technology is mainly used for powering space probes like rover Curiosity exploring planet Mars or for small devices like self-powered sensors. But experts expect a wide range of possible applications in the future. In any engine there is a lot of heat wasted. Car companies are already testing different systems to recover energy from the exhaust gas expecting fuel savings of 3 to 5 %. Other consumer applications could be powering mobile phones or watches by body heat. A highly efficient thermoelectric material would be a major source of renewable energy, since heat is usually wasted by human activities.\n\nAt ETH the thermoelectric material emulator sits in a vacuum chamber made out of glass. Enclosed is a gas of Lithium atoms. Using lasers the gas is cooled down to very low temperatures close to absolute zero below minus 273 degree Celsius. Under these conditions the atoms in the gas behave like the electrons in a material. To simulate thermoelectricity the atoms are trapped by a set of laser beams. These create a spatially varying structure in which the atoms move like electrons in a material.\n\nUsing atoms trapped by lasers to simulate the behavior of complex materials is a well-tested method in Zurich. For the last ten years the ETH quantum optics group has studied superconductors or magnets, and even devices attached to leads and conducting currents. But the researchers didn’t expect their new experiment to be such a big success. “With simple ingredients we simulate thermoelectricity that is as high in efficiency as in natural materials”, explains Tilman Esslinger, Professor for Quantum Optics. “That was a big surprise.”\n\nAlthough it is still basic research the experiment may have a stronger impact on materials science than the team thought at the beginning. “Our experiment could serve as a kind of benchmark”, says Jean-Philippe Brantut who will continue with his research founded by the Swiss National Science Foundation. In the next two years the team will try to bring the original experiment forward in order to study more complex systems. But already now the cold atom emulation shines a new light on thermoelectricity: comparison between theory and experiments, which are often hard for natural materials due to their high complexity, can now be precisely performed on the atoms. Even the effects of defects and disorder in materials have been successfully explored with the cold atom emulator.\n\nWith these new findings, the fundamental processes underlying thermoelectricity can be studied in a controlled way. This may help the simulation and design of thermoelectric materials in the future, in particular where experiments on natural materials still lack theoretical interpretation.\n\nBrantut JP, Grenier C, Meineke J, Stadler D, Krinner S, Kollath C, Esslinger T und Georges A: A thermoelectric Heat Engine with Ultra-Cold Atoms, Science, 24 October 2013, doi: 10.1126/science.1242308"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the 19th century",
+        "label": "DATE",
+        "start": 14,
+        "end": 30
+      },
+      {
+        "text": "the last decades",
+        "label": "DATE",
+        "start": 285,
+        "end": 301
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 419,
+        "end": 429
+      },
+      {
+        "text": "Tilman Esslinger",
+        "label": "PERSON",
+        "start": 458,
+        "end": 474
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 619,
+        "end": 625
+      },
+      {
+        "text": "Jean-Philippe Brantut",
+        "label": "PERSON",
+        "start": 639,
+        "end": 660
+      },
+      {
+        "text": "Antoine Georges",
+        "label": "PERSON",
+        "start": 737,
+        "end": 752
+      },
+      {
+        "text": "the Collège de France",
+        "label": "ORG",
+        "start": 758,
+        "end": 779
+      },
+      {
+        "text": "University of Geneva",
+        "label": "ORG",
+        "start": 784,
+        "end": 804
+      },
+      {
+        "text": "Jean-Philippe Brantut",
+        "label": "PERSON",
+        "start": 953,
+        "end": 974
+      },
+      {
+        "text": "Corinna Kollath (University of Bonn",
+        "label": "ORG",
+        "start": 1072,
+        "end": 1107
+      },
+      {
+        "text": "Charles Grenier",
+        "label": "PERSON",
+        "start": 1113,
+        "end": 1128
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 1183,
+        "end": 1188
+      },
+      {
+        "text": "Antoine Georges",
+        "label": "PERSON",
+        "start": 1191,
+        "end": 1206
+      },
+      {
+        "text": "next day",
+        "label": "DATE",
+        "start": 1225,
+        "end": 1233
+      },
+      {
+        "text": "Paris",
+        "label": "GPE",
+        "start": 1416,
+        "end": 1421
+      },
+      {
+        "text": "Bonn",
+        "label": "GPE",
+        "start": 1423,
+        "end": 1427
+      },
+      {
+        "text": "Geneva",
+        "label": "GPE",
+        "start": 1432,
+        "end": 1438
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1463,
+        "end": 1469
+      },
+      {
+        "text": "Science",
+        "label": "WORK_OF_ART",
+        "start": 1531,
+        "end": 1538
+      },
+      {
+        "text": "Glass",
+        "label": "PERSON",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Jakob Meineke",
+        "label": "PERSON",
+        "start": 51,
+        "end": 64
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 649,
+        "end": 653
+      },
+      {
+        "text": "3 to 5 %",
+        "label": "PERCENT",
+        "start": 936,
+        "end": 944
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1172,
+        "end": 1175
+      },
+      {
+        "text": "Lithium",
+        "label": "GPE",
+        "start": 1278,
+        "end": 1285
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 1372,
+        "end": 1376
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1771,
+        "end": 1777
+      },
+      {
+        "text": "the last ten years",
+        "label": "DATE",
+        "start": 1783,
+        "end": 1801
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1806,
+        "end": 1809
+      },
+      {
+        "text": "Tilman Esslinger",
+        "label": "PERSON",
+        "start": 2132,
+        "end": 2148
+      },
+      {
+        "text": "Quantum Optics",
+        "label": "ORG",
+        "start": 2164,
+        "end": 2178
+      },
+      {
+        "text": "Jean-Philippe Brantut",
+        "label": "PERSON",
+        "start": 2404,
+        "end": 2425
+      },
+      {
+        "text": "the Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 2473,
+        "end": 2510
+      },
+      {
+        "text": "the next two years",
+        "label": "DATE",
+        "start": 2515,
+        "end": 2533
+      },
+      {
+        "text": "Grenier C",
+        "label": "PERSON",
+        "start": 3293,
+        "end": 3302
+      },
+      {
+        "text": "Stadler",
+        "label": "PERSON",
+        "start": 3315,
+        "end": 3322
+      },
+      {
+        "text": "Krinner S",
+        "label": "PERSON",
+        "start": 3326,
+        "end": 3335
+      },
+      {
+        "text": "Ultra-Cold Atoms",
+        "label": "ORG",
+        "start": 3409,
+        "end": 3425
+      },
+      {
+        "text": "24 October 2013",
+        "label": "DATE",
+        "start": 3436,
+        "end": 3451
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 3458,
+        "end": 3465
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Antoine Georges",
+        "Charles Grenier",
+        "Glass",
+        "Grenier C",
+        "Jakob Meineke",
+        "Jean-Philippe Brantut",
+        "Krinner S",
+        "Stadler",
+        "Tilman Esslinger"
+      ],
+      "ORG": [
+        "Corinna Kollath (University of Bonn",
+        "ETH",
+        "Quantum Optics",
+        "Ultra-Cold Atoms",
+        "University of Geneva",
+        "the Collège de France",
+        "the Swiss National Science Foundation"
+      ],
+      "LOCATION": [
+        "Bonn",
+        "ETH Zurich",
+        "Geneva",
+        "Lithium",
+        "Mars",
+        "Paris",
+        "Zurich"
+      ],
+      "DATE": [
+        "24 October 2013",
+        "next day",
+        "the 19th century",
+        "the last decades",
+        "the last ten years",
+        "the next two years",
+        "years"
+      ],
+      "MISC": [
+        "10.1126",
+        "3 to 5 %",
+        "Science",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "Zurich": 3,
+      "Jean-Philippe Brantut": 3,
+      "Tilman Esslinger": 2,
+      "Antoine Georges": 2,
+      "ETH": 2,
+      "the 19th century": 1,
+      "the last decades": 1,
+      "ETH Zurich": 1,
+      "the Collège de France": 1,
+      "University of Geneva": 1,
+      "Corinna Kollath (University of Bonn": 1,
+      "Charles Grenier": 1,
+      "years": 1,
+      "next day": 1,
+      "Paris": 1,
+      "Bonn": 1,
+      "Geneva": 1,
+      "Science": 1,
+      "Glass": 1,
+      "Jakob Meineke": 1
+    },
+    "total_entities": 41,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "thermoelectric-materials.md",
+      "title": "En News Events/2013/10/thermoelectric Materials",
+      "language": "en",
+      "source_path": "en_news_events/2013/10/thermoelectric-materials.html"
+    },
+    "temporal": {
+      "publication_date": "2013-10",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Antoine Georges",
+        "Charles Grenier",
+        "Glass",
+        "Grenier C",
+        "Jakob Meineke",
+        "Jean-Philippe Brantut",
+        "Krinner S",
+        "Stadler",
+        "Tilman Esslinger"
+      ],
+      "people_with_roles": {
+        "Antoine Georges": [
+          "researcher",
+          "professor"
+        ],
+        "Jean-Philippe Brantut": [
+          "professor"
+        ],
+        "Tilman Esslinger": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1126",
+        "3 to 5 %",
+        "Science",
+        "zero"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Corinna Kollath",
+        "Materials Discovered",
+        "In Zurich",
+        "Antoine Georges",
+        "Quantum Optics",
+        "Jean-Philippe",
+        "Krinner S",
+        "Ultra-Cold",
+        "Charles Grenier",
+        "Swiss National",
+        "Brantut JP",
+        "Georges A",
+        "Meineke J",
+        "Tilman Esslinger",
+        "Stadler D",
+        "Jakob Meineke",
+        "Science Foundation",
+        "Heat Engine",
+        "At ETH",
+        "Kollath C",
+        "En News",
+        "Ecole Polytechnique",
+        "Grenier C",
+        "Esslinger T",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Corinna Kollath (University of Bonn",
+        "ETH",
+        "Quantum Optics",
+        "Ultra-Cold Atoms",
+        "University of Geneva",
+        "the Collège de France",
+        "the Swiss National Science Foundation"
+      ],
+      "locations": [
+        "Bonn",
+        "ETH Zurich",
+        "Geneva",
+        "Lithium",
+        "Mars",
+        "Paris",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Zurich",
+        "Jean-Philippe Brantut",
+        "Tilman Esslinger",
+        "Antoine Georges",
+        "ETH",
+        "the 19th century",
+        "the last decades",
+        "ETH Zurich",
+        "the Collège de France",
+        "University of Geneva"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "From heat to electricity",
+          "Literature Reference"
+        ],
+        "content_length": 5079
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Charles Grenier",
+        "Glass",
+        "ETH",
+        "the Collège de France",
+        "Stadler",
+        "Jakob Meineke",
+        "Ultra-Cold Atoms",
+        "Antoine Georges",
+        "Jean-Philippe Brantut",
+        "University of Geneva",
+        "Quantum Optics",
+        "Grenier C",
+        "the Swiss National Science Foundation",
+        "2013",
+        "Corinna Kollath (University of Bonn",
+        "Tilman Esslinger",
+        "Krinner S",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "3 to 5 %",
+        "zero",
+        "who",
+        "Science",
+        "10.1126",
+        "where",
+        "what",
+        "how",
+        "climate_change",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Antoine Georges_has_role_researcher",
+        "Antoine Georges_has_role_professor",
+        "Jean-Philippe Brantut_has_role_professor",
+        "Tilman Esslinger_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

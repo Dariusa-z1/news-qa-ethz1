@@ -1,0 +1,383 @@
+{
+  "filename": "avec-box.md",
+  "original_filename": "avec-box.html",
+  "source_path": "en_internal/2019/09/avec-box.html",
+  "date": "2019-09",
+  "title": "Avec Box",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A longstanding goal achieved",
+      "text": "The new shopping facility, which is run by the company Valora, is a container building and was launched in spring 2019. It is now available for all ETH members and campus visitors to use from 17 September to 10 November. The only requirements are personal identification via app and the specification of a payment method. Staff will be on site during the day to help customers with the purchase process; at night and over the weekend, the business will run without staff."
+    },
+    {
+      "heading": "A longstanding goal achieved",
+      "text": "The range covers around 1,000 items: groceries, takeaway and snack food, and essential household products. There are deliveries twice a day. “I am delighted that we are now able to test out providing ETH members with a 24-hour shopping option,” says Marcel Zurbuchen, who is responsible for coordinating partner businesses at ETH. Almost ten years ago, ETH formulated the goal of providing catering on campus outside of normal opening hours. “Today, around 12,000 ETH members study and work on the Hönggerberg campus, and 900 students live here. They will be particularly interested in this offer,” says Zurbuchen."
+    },
+    {
+      "heading": "A joint development work",
+      "text": "The current project benefits from a collaboration launched in 2016 between ETH researchers and Valora on the topic of checkout-free shopping. Together with the research network Auto-ID Labs from ETH and the University of St. Gallen, which focuses on solutions in the area of the Internet of Things, Valora developed a first app that allowed customers to scan products themselves and pay using their selected credit card."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Box",
+        "label": "PERSON",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "Valora",
+        "label": "PERSON",
+        "start": 55,
+        "end": 61
+      },
+      {
+        "text": "spring 2019",
+        "label": "DATE",
+        "start": 107,
+        "end": 118
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 148,
+        "end": 151
+      },
+      {
+        "text": "17 September to",
+        "label": "DATE",
+        "start": 192,
+        "end": 207
+      },
+      {
+        "text": "November",
+        "label": "DATE",
+        "start": 211,
+        "end": 219
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 351,
+        "end": 358
+      },
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 407,
+        "end": 412
+      },
+      {
+        "text": "the weekend",
+        "label": "DATE",
+        "start": 422,
+        "end": 433
+      },
+      {
+        "text": "around 1,000",
+        "label": "CARDINAL",
+        "start": 17,
+        "end": 29
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 200,
+        "end": 203
+      },
+      {
+        "text": "24-hour",
+        "label": "TIME",
+        "start": 219,
+        "end": 226
+      },
+      {
+        "text": "Marcel Zurbuchen",
+        "label": "PERSON",
+        "start": 250,
+        "end": 266
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 326,
+        "end": 329
+      },
+      {
+        "text": "Almost ten years ago",
+        "label": "DATE",
+        "start": 331,
+        "end": 351
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 353,
+        "end": 356
+      },
+      {
+        "text": "normal opening hours",
+        "label": "TIME",
+        "start": 420,
+        "end": 440
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 443,
+        "end": 448
+      },
+      {
+        "text": "12,000",
+        "label": "CARDINAL",
+        "start": 457,
+        "end": 463
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 464,
+        "end": 467
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 498,
+        "end": 509
+      },
+      {
+        "text": "Zurbuchen",
+        "label": "PERSON",
+        "start": 604,
+        "end": 613
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 75,
+        "end": 78
+      },
+      {
+        "text": "Valora",
+        "label": "PERSON",
+        "start": 95,
+        "end": 101
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 195,
+        "end": 198
+      },
+      {
+        "text": "the University of St. Gallen",
+        "label": "ORG",
+        "start": 203,
+        "end": 231
+      },
+      {
+        "text": "Valora",
+        "label": "PERSON",
+        "start": 299,
+        "end": 305
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 318,
+        "end": 323
+      },
+      {
+        "text": "scan",
+        "label": "NORP",
+        "start": 354,
+        "end": 358
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Box",
+        "Hönggerberg",
+        "Marcel Zurbuchen",
+        "Valora",
+        "Zurbuchen"
+      ],
+      "ORG": [
+        "ETH",
+        "the University of St. Gallen"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "17 September to",
+        "24-hour",
+        "Almost ten years ago",
+        "November",
+        "Today",
+        "night",
+        "normal opening hours",
+        "spring 2019",
+        "the day",
+        "the weekend"
+      ],
+      "MISC": [
+        "12,000",
+        "around 1,000",
+        "first",
+        "scan"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 7,
+      "Valora": 3,
+      "Box": 1,
+      "spring 2019": 1,
+      "17 September to": 1,
+      "November": 1,
+      "the day": 1,
+      "night": 1,
+      "the weekend": 1,
+      "around 1,000": 1,
+      "24-hour": 1,
+      "Marcel Zurbuchen": 1,
+      "Almost ten years ago": 1,
+      "normal opening hours": 1,
+      "Today": 1,
+      "12,000": 1,
+      "Hönggerberg": 1,
+      "Zurbuchen": 1,
+      "the University of St. Gallen": 1,
+      "first": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "avec-box.md",
+      "title": "En Internal/2019/09/avec Box",
+      "language": "en",
+      "source_path": "en_internal/2019/09/avec-box.html"
+    },
+    "temporal": {
+      "publication_date": "2019-09",
+      "mentioned_years": [
+        "2016",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Box",
+        "Hönggerberg",
+        "Marcel Zurbuchen",
+        "Valora",
+        "Zurbuchen"
+      ],
+      "people_with_roles": {
+        "Hönggerberg": [
+          "student"
+        ],
+        "Valora": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "12,000",
+        "around 1,000",
+        "first",
+        "scan"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Auto-ID",
+        "Marcel Zurbuchen",
+        "Box The",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "the University of St. Gallen"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Valora",
+        "Box",
+        "spring 2019",
+        "17 September to",
+        "November",
+        "the day",
+        "night",
+        "the weekend",
+        "around 1,000"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "A longstanding goal achieved",
+          "A longstanding goal achieved",
+          "A joint development work"
+        ],
+        "content_length": 1536
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "ETH",
+        "the University of St. Gallen",
+        "2019",
+        "2016",
+        "Marcel Zurbuchen",
+        "Box",
+        "Zurbuchen",
+        "Valora"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "12,000",
+        "first",
+        "who",
+        "around 1,000",
+        "scan",
+        "what",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Hönggerberg_has_role_student",
+        "Valora_has_role_researcher",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

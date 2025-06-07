@@ -1,0 +1,638 @@
+{
+  "filename": "spatial-timber-assemblies.md",
+  "original_filename": "spatial-timber-assemblies.html",
+  "source_path": "en_news_events/2018/03/spatial-timber-assemblies.html",
+  "date": "2018-03",
+  "title": "Spatial Timber Assemblies",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "With robotic precision",
+      "text": "Digitalisation has found its way into timber construction, with entire elements already being fabricated by computer-aided systems. The raw material is cut to size by the machines, but in most cases it still has to be manually assembled to create a plane frame. In the past, this fabrication process came with many geometric restrictions.\n\nUnder the auspices of the National Centre of Competence in Research (NCCR) Digital Fabrication, researchers from ETH Zurich’s Chair of Architecture and Digital Fabrication have developed a new, digital timber construction method that expands the range of possibilities for traditional timber frame construction by enabling the efficient construction and assembly of geometrically complex timber modules. Spatial Timber Assemblies evolved from a close collaboration with Erne AG Holzbau and will be used for the first time in the DFAB HOUSE project at the Empa and Eawag NEST research and innovation construction site in Dübendorf. It is also the first large-scale architectural project to use the construction robots developed by ETH Zurich’s new Robotic Fabrication Laboratory."
+    },
+    {
+      "heading": "With robotic precision",
+      "text": "The robot first takes a timber beam and guides it while it is sawed to size. After an automatic tool change, a second robot drills the required holes for connecting the beams. In the final step, the two robots work together and position the beams in the precise spatial arrangement based on the computer layout. To prevent collisions when positioning the individual timber beams, the researchers have developed an algorithm that constantly recalculates the path of motion for the robots according to the current state of construction. Workers then manually bolt the beams together."
+    },
+    {
+      "heading": "Longer lasting, more individual construction",
+      "text": "Unlike traditional timber frame construction, Spatial Timber Assemblies can manage without reinforcement plates because the required rigidity and load-bearing result from the geometric structure. Not only does this save material; it also opens up new creative possibilities. A total of six spatial, geometrically unique timber modules will be prefabricated in this way for the first time. Lorries will then transport them to the DFAB HOUSE construction site at the NEST in Dübendorf, where they will be joined to build a two-storey residential unit with more than 100 m 2 of floor space. The complex geometry of the timber construction will remain visible behind a transparent membrane façade."
+    },
+    {
+      "heading": "Integrated digital architecture",
+      "text": "The robots use information from a computer-aided design model to cut and arrange the timber beams. This method was specially developed during the project and uses various input parameters to create a geometry consisting of 487 timber beams in total.\n\nThe fact that Spatial Timber Assemblies is being used for digital fabrication and also in design and planning offers a major advantage according to Matthias Kohler, Professor of Architecture and Digital Fabrication at ETH Zurich and the man spearheading the DFAB HOUSE project: “If any change is made to the project overall, the computer model can be constantly adjusted to meet the new requirements. This kind of integrated digital architecture is closing the gap between design, planning and execution.”"
+    },
+    {
+      "heading": "A successful concept for sharing knowledge",
+      "text": "ETH Zurich has already completed a successful collaboration with Erne AG Holzbau on the robot-built timber roof of the Arch_Tech_Lab at the Hönggerberg campus. Thanks to Spatial Timber Assemblies, the company’s expertise in timber construction will make yet another contribution to ETH research.\n\nKohler believes in the synergy effect brought about by the partnership: “Digital fabrication depends on the tremendous expertise required for craftsmanship. Conversely, digitalisation can improve craftsmanship and open up new opportunities.” Kohler also says the fact that scientific disciplines go hand in hand with industry is essential if technologies are to be used in real architectural projects after such a brief time."
+    },
+    {
+      "heading": "DFAB HOUSE - Digitally designed, planned and built",
+      "text": "Eight ETH Zurich professors are working together with industrial partners to build DFAB HOUSE, a three-storey residential unit that is part of Empa and Eawag’s NEST research and innovation platform in Dübendorf. The fabrication of the mesh mould wall in May 2017 was the starting shot for the world’s first building to combine multiple innovative digital construction processes under a single roof. Since then, two other digitally designed and fabricated building components were made ready for production and coordinated digitally within the overall project. The automated Smart Dynamic Casting coordination system has already been used at ETH to prefabricate concrete façade posts designed specifically for the loading conditions of the building’s glass façade. A so-called “smart slab”, a statically optimized concrete floor slab, is currently in pre-production. Researchers are using large-format 3D sand printing for its formwork. By bringing these elements together with Spatial Timber Assemblies, a unique combination will be materialising at DFAB HOUSE – which will open in autumn 2018.\n\nETH Zurich Vanessa Bleich Media relations Phone: +41 44 632 41 41\n\nETH Zurich Prof. Matthias Kohler Chair of Architecture and Digital Fabrication Phone: +41 44 633 49 06"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Timber Assemblies",
+        "label": "ORG",
+        "start": 31,
+        "end": 48
+      },
+      {
+        "text": "the National Centre of Competence in Research (NCCR) Digital Fabrication",
+        "label": "ORG",
+        "start": 361,
+        "end": 433
+      },
+      {
+        "text": "ETH Zurich’s Chair of Architecture",
+        "label": "ORG",
+        "start": 452,
+        "end": 486
+      },
+      {
+        "text": "Digital Fabrication",
+        "label": "ORG",
+        "start": 491,
+        "end": 510
+      },
+      {
+        "text": "Spatial Timber Assemblies",
+        "label": "ORG",
+        "start": 743,
+        "end": 768
+      },
+      {
+        "text": "Erne AG Holzbau",
+        "label": "ORG",
+        "start": 809,
+        "end": 824
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 850,
+        "end": 855
+      },
+      {
+        "text": "HOUSE",
+        "label": "ORG",
+        "start": 873,
+        "end": 878
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 894,
+        "end": 898
+      },
+      {
+        "text": "Dübendorf",
+        "label": "ORG",
+        "start": 959,
+        "end": 968
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 985,
+        "end": 990
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 1069,
+        "end": 1081
+      },
+      {
+        "text": "Robotic Fabrication Laboratory",
+        "label": "ORG",
+        "start": 1086,
+        "end": 1116
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 10,
+        "end": 15
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 111,
+        "end": 117
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 199,
+        "end": 202
+      },
+      {
+        "text": "Spatial Timber Assemblies",
+        "label": "ORG",
+        "start": 46,
+        "end": 71
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 286,
+        "end": 289
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 377,
+        "end": 382
+      },
+      {
+        "text": "DFAB",
+        "label": "ORG",
+        "start": 429,
+        "end": 433
+      },
+      {
+        "text": "NEST",
+        "label": "ORG",
+        "start": 465,
+        "end": 469
+      },
+      {
+        "text": "Dübendorf",
+        "label": "ORG",
+        "start": 473,
+        "end": 482
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 521,
+        "end": 524
+      },
+      {
+        "text": "more than 100",
+        "label": "CARDINAL",
+        "start": 554,
+        "end": 567
+      },
+      {
+        "text": "Spatial Timber Assemblies",
+        "label": "ORG",
+        "start": 264,
+        "end": 289
+      },
+      {
+        "text": "Matthias Kohler",
+        "label": "PERSON",
+        "start": 398,
+        "end": 413
+      },
+      {
+        "text": "Digital Fabrication",
+        "label": "ORG",
+        "start": 445,
+        "end": 464
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 468,
+        "end": 478
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Erne AG Holzbau",
+        "label": "ORG",
+        "start": 65,
+        "end": 80
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 140,
+        "end": 151
+      },
+      {
+        "text": "Spatial Timber Assemblies",
+        "label": "ORG",
+        "start": 170,
+        "end": 195
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 282,
+        "end": 285
+      },
+      {
+        "text": "Kohler",
+        "label": "ORG",
+        "start": 296,
+        "end": 302
+      },
+      {
+        "text": "Digital",
+        "label": "ORG",
+        "start": 369,
+        "end": 376
+      },
+      {
+        "text": "Kohler",
+        "label": "PERSON",
+        "start": 538,
+        "end": 544
+      },
+      {
+        "text": "Eight",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 6,
+        "end": 16
+      },
+      {
+        "text": "DFAB HOUSE",
+        "label": "ORG",
+        "start": 83,
+        "end": 93
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 97,
+        "end": 102
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 143,
+        "end": 147
+      },
+      {
+        "text": "Dübendorf",
+        "label": "ORG",
+        "start": 201,
+        "end": 210
+      },
+      {
+        "text": "May 2017",
+        "label": "DATE",
+        "start": 254,
+        "end": 262
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 301,
+        "end": 306
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 411,
+        "end": 414
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 641,
+        "end": 644
+      },
+      {
+        "text": "Spatial Timber Assemblies",
+        "label": "ORG",
+        "start": 977,
+        "end": 1002
+      },
+      {
+        "text": "DFAB HOUSE",
+        "label": "ORG",
+        "start": 1050,
+        "end": 1060
+      },
+      {
+        "text": "autumn 2018",
+        "label": "DATE",
+        "start": 1082,
+        "end": 1093
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1095,
+        "end": 1105
+      },
+      {
+        "text": "Vanessa Bleich",
+        "label": "PERSON",
+        "start": 1106,
+        "end": 1120
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1161,
+        "end": 1171
+      },
+      {
+        "text": "Matthias Kohler Chair",
+        "label": "PERSON",
+        "start": 1178,
+        "end": 1199
+      },
+      {
+        "text": "Digital Fabrication Phone",
+        "label": "ORG",
+        "start": 1220,
+        "end": 1245
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Hönggerberg",
+        "Kohler",
+        "Matthias Kohler",
+        "Matthias Kohler Chair",
+        "Vanessa Bleich"
+      ],
+      "ORG": [
+        "DFAB",
+        "DFAB HOUSE",
+        "Digital",
+        "Digital Fabrication",
+        "Digital Fabrication Phone",
+        "Dübendorf",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s Chair of Architecture",
+        "Empa",
+        "Erne AG Holzbau",
+        "HOUSE",
+        "Kohler",
+        "NEST",
+        "Robotic Fabrication Laboratory",
+        "Spatial Timber Assemblies",
+        "Timber Assemblies",
+        "the National Centre of Competence in Research (NCCR) Digital Fabrication"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "May 2017",
+        "autumn 2018"
+      ],
+      "MISC": [
+        "Eight",
+        "first",
+        "more than 100",
+        "second",
+        "six",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Spatial Timber Assemblies": 5,
+      "first": 5,
+      "ETH Zurich": 5,
+      "Dübendorf": 3,
+      "two": 3,
+      "Digital Fabrication": 2,
+      "Erne AG Holzbau": 2,
+      "Empa": 2,
+      "ETH": 2,
+      "Kohler": 2,
+      "DFAB HOUSE": 2,
+      "Timber Assemblies": 1,
+      "the National Centre of Competence in Research (NCCR) Digital Fabrication": 1,
+      "ETH Zurich’s Chair of Architecture": 1,
+      "HOUSE": 1,
+      "ETH Zurich’s": 1,
+      "Robotic Fabrication Laboratory": 1,
+      "second": 1,
+      "six": 1,
+      "DFAB": 1
+    },
+    "total_entities": 54,
+    "unique_entities": 32
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "spatial-timber-assemblies.md",
+      "title": "En News Events/2018/03/spatial Timber Assemblies",
+      "language": "en",
+      "source_path": "en_news_events/2018/03/spatial-timber-assemblies.html"
+    },
+    "temporal": {
+      "publication_date": "2018-03",
+      "mentioned_years": [
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Hönggerberg",
+        "Kohler",
+        "Matthias Kohler",
+        "Matthias Kohler Chair",
+        "Vanessa Bleich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "professor",
+          "researcher",
+          "head",
+          "chair"
+        ],
+        "ETH Zurich’s": [
+          "researcher",
+          "chair"
+        ],
+        "Kohler": [
+          "chair",
+          "head",
+          "professor"
+        ],
+        "Matthias Kohler": [
+          "chair",
+          "head",
+          "professor"
+        ],
+        "Matthias Kohler Chair": [
+          "chair"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "chair",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Eight",
+        "first",
+        "more than 100",
+        "second",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Erne AG",
+        "Matthias Kohler",
+        "Spatial Timber",
+        "En News",
+        "Robotic Fabrication",
+        "Vanessa Bleich",
+        "Eight ETH",
+        "DFAB HOUSE",
+        "Eawag NEST",
+        "National Centre",
+        "ETH Zurich",
+        "Digital Fabrication",
+        "Timber Assemblies",
+        "Smart Dynamic"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DFAB",
+        "DFAB HOUSE",
+        "Digital",
+        "Digital Fabrication",
+        "Digital Fabrication Phone",
+        "Dübendorf",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s Chair of Architecture",
+        "Empa",
+        "Erne AG Holzbau",
+        "HOUSE",
+        "Kohler",
+        "NEST",
+        "Robotic Fabrication Laboratory",
+        "Spatial Timber Assemblies",
+        "Timber Assemblies",
+        "the National Centre of Competence in Research (NCCR) Digital Fabrication"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Spatial Timber Assemblies",
+        "first",
+        "ETH Zurich",
+        "Dübendorf",
+        "two",
+        "Digital Fabrication",
+        "Erne AG Holzbau",
+        "Empa",
+        "ETH",
+        "Kohler"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "With robotic precision",
+          "With robotic precision",
+          "Longer lasting, more individual construction",
+          "Integrated digital architecture",
+          "A successful concept for sharing knowledge",
+          "DFAB HOUSE - Digitally designed, planned and built"
+        ],
+        "content_length": 5189
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "NEST",
+        "DFAB",
+        "Digital Fabrication",
+        "ETH Zurich’s",
+        "Digital Fabrication Phone",
+        "2018",
+        "Vanessa Bleich",
+        "Spatial Timber Assemblies",
+        "DFAB HOUSE",
+        "ETH Zurich’s Chair of Architecture",
+        "Timber Assemblies",
+        "Matthias Kohler",
+        "Digital",
+        "Matthias Kohler Chair",
+        "Hönggerberg",
+        "HOUSE",
+        "Kohler",
+        "2017",
+        "Dübendorf",
+        "Robotic Fabrication Laboratory",
+        "Erne AG Holzbau",
+        "the National Centre of Competence in Research (NCCR) Digital Fabrication",
+        "ETH Zurich",
+        "Empa"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "more than 100",
+        "three",
+        "who",
+        "Eight",
+        "where",
+        "what",
+        "second",
+        "how",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_professor",
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_head",
+        "ETH Zurich_has_role_chair",
+        "ETH Zurich’s_has_role_researcher",
+        "ETH Zurich’s_has_role_chair",
+        "Kohler_has_role_chair",
+        "Kohler_has_role_head",
+        "Kohler_has_role_professor",
+        "Matthias Kohler_has_role_chair",
+        "Matthias Kohler_has_role_head",
+        "Matthias Kohler_has_role_professor",
+        "Matthias Kohler Chair_has_role_chair",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

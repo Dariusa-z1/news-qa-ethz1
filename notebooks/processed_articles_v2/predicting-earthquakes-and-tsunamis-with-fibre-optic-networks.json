@@ -1,0 +1,589 @@
+{
+  "filename": "predicting-earthquakes-and-tsunamis-with-fibre-optic-networks.md",
+  "original_filename": "predicting-earthquakes-and-tsunamis-with-fibre-optic-networks.html",
+  "source_path": "en_news_events/2023/11/predicting-earthquakes-and-tsunamis-with-fibre-optic-networks.html",
+  "date": "2023-11",
+  "title": "Predicting Earthquakes And Tsunamis With Fibre Optic Networks",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- Researchers at ETH Zurich and the Swiss Federal Institute of Metrology METAS obtain vibration data from active noise cancellation, which increases the accuracy of signals in optical data communication.\n\n- The active noise suppression data only needs to be stored and analysed. This requires neither additional equipment nor expensive infrastructure.\n\n- This cost-effective method makes it possible to accurately measure earthquakes even on the ocean floor or in less developed countries."
+    },
+    {
+      "heading": "Secondary use of noise suppression data",
+      "text": "For wealthy countries like Switzerland, having a dense network of earthquake monitoring stations is a matter of course [AF1] . This is not the case in less developed countries and on the floor of the world’s oceans. While poorer regions lack the money for the necessary number of sensors, the oceans require complex systems that can reliably measure minimal pressure changes at depths of thousands of metres and bring the data signals to the surface."
+    },
+    {
+      "heading": "Secondary use of noise suppression data",
+      "text": "Scientists from the Institute of Geophysics at ETH Zurich, working together with the Swiss Federal Institute of Metrology (METAS), have now found an amazing and inexpensive method that enables accurate earthquake measurements even on the ocean floor and in less developed countries. “We’re taking advantage of a function that existing fibre-optic infrastructure already performs: we obtain the vibration data from the active noise suppression system, which has the job of increasing the accuracy of the signals in optical data communication,” explains geophysics professor Andreas Fichtner. All that’s required is to store the active noise suppression data and evaluate it – no need for additional devices or expensive infrastructure."
+    },
+    {
+      "heading": "Vibration “noise” is extinguished",
+      "text": "To understand how active phase noise cancellation (PNC) can measure seismic tremors, it helps to compare it with the noise suppression systems of today’s high-end headphones, which make the ambient noise almost completely disappear for users. These headphones feature microphones that pick up external noise. This signal is inverted and then fed into the audio signals practically in real time. The phase-inverted signal cancels out the external noise one-to-one, making it inaudible.\n\nIn the PNC of an optical data communication system, the “ambient noise” in the optical fibre is determined by comparing the originally transmitted signal with a partial signal that is reflected by the receiver. The difference between the two signals then indicates the interference to which the light signal was exposed on its way through the optical fibre. Just as with noise suppression in headphones, this interference can be cancelled out using an appropriate anti-signal."
+    },
+    {
+      "heading": "Deformations cause minimal frequency changes",
+      "text": "In optical data transmission, the “noise” is caused when optical fibres are perturbed by mere micrometres. This occurs in response to deformations of the Earth’s surface due to earthquakes, water waves, differences in air pressure and human activity. Each deformation shortens or lengthens the fibre slightly. This in turn leads to what is known as a photo-elastic effect, which causes the speed of light in the fibre to fluctuate ever so slightly.\n\nBoth the changes in fibre length and the fluctuations in the speed of light change the frequency of the light signal by a tiny factor. This phenomenon has been known for several years and has already been put to use in special instruments to measure vibrations."
+    },
+    {
+      "heading": "Fiber optics in use in Iceland",
+      "text": "Near Grindavik in southwest Iceland, the earth has been shaking constantly for weeks. The authorities fear a major volcanic eruption in the near future and have therefore evacuated the region around the town. In order to record seismic data, Andreas Fichtner and his team have brought a special measuring device to Iceland and connected it to a telecommunications cable. The recorded data is streamed live on the YouTube channel of the Seismology and Wave Physics Group at ETH Zurich. They show the tremors in real time."
+    },
+    {
+      "heading": "ETH funding for independent research pays off",
+      "text": "But in the case of the noise suppression system in the fibre-optic communication of Switzerland’s atomic clock infrastructure investigated by the scientists at ETH and METAS, such additional measuring instruments are superfluous: the deformations can be easily read from the correction of the time signals. This corrects the wavelength of the signal in the terahertz range (10 12 oscillations per second) by a few hundred hertz – in other words, by around a tenth of a billionth."
+    },
+    {
+      "heading": "Exact match with Swiss Seismological Service",
+      "text": "These changes might be tiny, but they paint an extremely clear picture of the vibrations to which the fibre-optic cables are exposed during the observation period. “Using the PNC of the fibre-optic link between Basel and the atomic clock site at METAS in Bern, we were able to track every single wave of a magnitude 3.9 earthquake in Alsace in detail,” Fichtner explains. “But even better, a model of the quake based on our data also corresponded extremely accurately to the measurements taken by the Swiss Seismological Service.”\n\nThis nearly exact match shows that the PNC data can be used to determine an earthquake’s location, depth and magnitude with a high degree of accuracy. “This is particularly interesting for comprehensive tsunami warnings or for measuring earthquakes in less developed regions of the world,” Fichtner says.\n\nFor Fichtner, the story of how the new method was developed is also exemplary. The idea arose from a discussion between ETH researchers and a specialist at METAS. As soon as the ETH-METAS team recognised the potential of the PNC data, they quickly implemented the idea. “For surprising science to emerge, there have to be funds available for research activities that don’t pursue a predefined goal,” Fichtner says. “ETH is ideal for that kind of project. In contrast to many other universities, I have unrestricted funds available to me as a researcher here.”\n\nNoe S, Husmann D, Müller N. et al. Long-range fiber-optic earthquake sensing by active phase noise cancellation. Sci Rep 13, 13983 (2023). doi: 10.1038/s41598-023-41161-x"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Tsunamis",
+        "label": "ORG",
+        "start": 50,
+        "end": 58
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 17,
+        "end": 27
+      },
+      {
+        "text": "the Swiss Federal Institute of Metrology METAS",
+        "label": "ORG",
+        "start": 32,
+        "end": 78
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 27,
+        "end": 38
+      },
+      {
+        "text": "thousands of metres",
+        "label": "QUANTITY",
+        "start": 388,
+        "end": 407
+      },
+      {
+        "text": "the Institute of Geophysics",
+        "label": "ORG",
+        "start": 16,
+        "end": 43
+      },
+      {
+        "text": "the Swiss Federal Institute of Metrology",
+        "label": "ORG",
+        "start": 81,
+        "end": 121
+      },
+      {
+        "text": "METAS",
+        "label": "ORG",
+        "start": 123,
+        "end": 128
+      },
+      {
+        "text": "Andreas Fichtner",
+        "label": "PERSON",
+        "start": 573,
+        "end": 589
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 146,
+        "end": 151
+      },
+      {
+        "text": "fed",
+        "label": "ORG",
+        "start": 342,
+        "end": 345
+      },
+      {
+        "text": "PNC",
+        "label": "ORG",
+        "start": 492,
+        "end": 495
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 723,
+        "end": 726
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 154,
+        "end": 159
+      },
+      {
+        "text": "several years",
+        "label": "DATE",
+        "start": 619,
+        "end": 632
+      },
+      {
+        "text": "Iceland",
+        "label": "GPE",
+        "start": 28,
+        "end": 35
+      },
+      {
+        "text": "weeks",
+        "label": "DATE",
+        "start": 79,
+        "end": 84
+      },
+      {
+        "text": "Andreas Fichtner",
+        "label": "PERSON",
+        "start": 242,
+        "end": 258
+      },
+      {
+        "text": "Iceland",
+        "label": "GPE",
+        "start": 315,
+        "end": 322
+      },
+      {
+        "text": "YouTube",
+        "label": "ORG",
+        "start": 413,
+        "end": 420
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 473,
+        "end": 483
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 84,
+        "end": 95
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 160,
+        "end": 163
+      },
+      {
+        "text": "METAS",
+        "label": "ORG",
+        "start": 168,
+        "end": 173
+      },
+      {
+        "text": "10 12",
+        "label": "CARDINAL",
+        "start": 374,
+        "end": 379
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 397,
+        "end": 403
+      },
+      {
+        "text": "a few hundred",
+        "label": "CARDINAL",
+        "start": 408,
+        "end": 421
+      },
+      {
+        "text": "around a tenth",
+        "label": "CARDINAL",
+        "start": 449,
+        "end": 463
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 211,
+        "end": 216
+      },
+      {
+        "text": "METAS",
+        "label": "ORG",
+        "start": 246,
+        "end": 251
+      },
+      {
+        "text": "Bern",
+        "label": "ORG",
+        "start": 255,
+        "end": 259
+      },
+      {
+        "text": "3.9",
+        "label": "CARDINAL",
+        "start": 316,
+        "end": 319
+      },
+      {
+        "text": "Alsace",
+        "label": "GPE",
+        "start": 334,
+        "end": 340
+      },
+      {
+        "text": "Fichtner",
+        "label": "PERSON",
+        "start": 353,
+        "end": 361
+      },
+      {
+        "text": "the Swiss Seismological Service",
+        "label": "ORG",
+        "start": 497,
+        "end": 528
+      },
+      {
+        "text": "PNC",
+        "label": "ORG",
+        "start": 570,
+        "end": 573
+      },
+      {
+        "text": "Fichtner",
+        "label": "PERSON",
+        "start": 821,
+        "end": 829
+      },
+      {
+        "text": "Fichtner",
+        "label": "PERSON",
+        "start": 840,
+        "end": 848
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 956,
+        "end": 959
+      },
+      {
+        "text": "METAS",
+        "label": "ORG",
+        "start": 992,
+        "end": 997
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1014,
+        "end": 1017
+      },
+      {
+        "text": "PNC",
+        "label": "ORG",
+        "start": 1061,
+        "end": 1064
+      },
+      {
+        "text": "Fichtner",
+        "label": "PERSON",
+        "start": 1236,
+        "end": 1244
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1252,
+        "end": 1255
+      },
+      {
+        "text": "Noe S",
+        "label": "ORG",
+        "start": 1396,
+        "end": 1401
+      },
+      {
+        "text": "Husmann D",
+        "label": "PERSON",
+        "start": 1403,
+        "end": 1412
+      },
+      {
+        "text": "Müller N. et al",
+        "label": "PERSON",
+        "start": 1414,
+        "end": 1429
+      },
+      {
+        "text": "Sci Rep 13, 13983",
+        "label": "ORG",
+        "start": 1509,
+        "end": 1526
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1540,
+        "end": 1547
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andreas Fichtner",
+        "Fichtner",
+        "Husmann D",
+        "Müller N. et al"
+      ],
+      "ORG": [
+        "Bern",
+        "ETH",
+        "ETH Zurich",
+        "METAS",
+        "Noe S",
+        "PNC",
+        "Sci Rep 13, 13983",
+        "Tsunamis",
+        "YouTube",
+        "fed",
+        "the Institute of Geophysics",
+        "the Swiss Federal Institute of Metrology",
+        "the Swiss Federal Institute of Metrology METAS",
+        "the Swiss Seismological Service"
+      ],
+      "LOCATION": [
+        "Alsace",
+        "Basel",
+        "Earth",
+        "Iceland",
+        "Switzerland"
+      ],
+      "DATE": [
+        "several years",
+        "today",
+        "weeks"
+      ],
+      "MISC": [
+        "10 12",
+        "10.1038",
+        "3.9",
+        "a few hundred",
+        "around a tenth",
+        "second",
+        "thousands of metres",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "METAS": 4,
+      "ETH": 4,
+      "Fichtner": 4,
+      "PNC": 3,
+      "ETH Zurich": 2,
+      "Switzerland": 2,
+      "Andreas Fichtner": 2,
+      "Iceland": 2,
+      "Tsunamis": 1,
+      "the Swiss Federal Institute of Metrology METAS": 1,
+      "thousands of metres": 1,
+      "the Institute of Geophysics": 1,
+      "the Swiss Federal Institute of Metrology": 1,
+      "today": 1,
+      "fed": 1,
+      "two": 1,
+      "Earth": 1,
+      "several years": 1,
+      "weeks": 1,
+      "YouTube": 1
+    },
+    "total_entities": 49,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "predicting-earthquakes-and-tsunamis-with-fibre-optic-networks.md",
+      "title": "En News Events/2023/11/predicting Earthquakes And Tsunamis With Fibre Optic Networks",
+      "language": "en",
+      "source_path": "en_news_events/2023/11/predicting-earthquakes-and-tsunamis-with-fibre-optic-networks.html"
+    },
+    "temporal": {
+      "publication_date": "2023-11",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andreas Fichtner",
+        "Fichtner",
+        "Husmann D",
+        "Müller N. et al"
+      ],
+      "people_with_roles": {
+        "Andreas Fichtner": [
+          "professor"
+        ],
+        "Fichtner": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10 12",
+        "10.1038",
+        "a few hundred",
+        "around a tenth",
+        "second",
+        "thousands of metres"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Swiss Federal",
+        "Noe S",
+        "Husmann D",
+        "Tsunamis With",
+        "En News",
+        "Swiss Seismological",
+        "Sci Rep",
+        "ETH-METAS",
+        "Wave Physics",
+        "Andreas Fichtner",
+        "Fibre Optic",
+        "For Fichtner",
+        "ETH Zurich",
+        "Metrology METAS",
+        "Earthquakes And",
+        "Near Grindavik"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bern",
+        "ETH",
+        "ETH Zurich",
+        "METAS",
+        "Noe S",
+        "PNC",
+        "Sci Rep 13, 13983",
+        "Tsunamis",
+        "YouTube",
+        "fed",
+        "the Institute of Geophysics",
+        "the Swiss Federal Institute of Metrology",
+        "the Swiss Federal Institute of Metrology METAS",
+        "the Swiss Seismological Service"
+      ],
+      "locations": [
+        "Alsace",
+        "Basel",
+        "Earth",
+        "Iceland",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "METAS",
+        "ETH",
+        "Fichtner",
+        "PNC",
+        "ETH Zurich",
+        "Switzerland",
+        "Andreas Fichtner",
+        "Iceland",
+        "Tsunamis",
+        "the Swiss Federal Institute of Metrology METAS"
+      ],
+      "document_structure": {
+        "total_sections": 8,
+        "section_titles": [
+          "In brief",
+          "Secondary use of noise suppression data",
+          "Secondary use of noise suppression data",
+          "Vibration “noise” is extinguished",
+          "Deformations cause minimal frequency changes",
+          "Fiber optics in use in Iceland",
+          "ETH funding for independent research pays off",
+          "Exact match with Swiss Seismological Service"
+        ],
+        "content_length": 6006
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the Institute of Geophysics",
+        "the Swiss Federal Institute of Metrology METAS",
+        "Bern",
+        "Fichtner",
+        "Andreas Fichtner",
+        "Noe S",
+        "Sci Rep 13, 13983",
+        "Müller N. et al",
+        "PNC",
+        "YouTube",
+        "fed",
+        "the Swiss Federal Institute of Metrology",
+        "METAS",
+        "the Swiss Seismological Service",
+        "Tsunamis",
+        "ETH Zurich",
+        "Husmann D",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "a few hundred",
+        "10.1038",
+        "around a tenth",
+        "thousands of metres",
+        "where",
+        "what",
+        "second",
+        "how",
+        "10 12",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Andreas Fichtner_has_role_professor",
+        "Fichtner_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "filename": "fewer-false-alarms-in-intensive-care.md",
+  "original_filename": "fewer-false-alarms-in-intensive-care.html",
+  "source_path": "en_news_events/2019/01/fewer-false-alarms-in-intensive-care.html",
+  "date": "2019-01",
+  "title": "Fewer False Alarms In Intensive Care",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Combining data",
+      "text": "Beep, beep, beep. In intensive care units (ICU), some monitoring device or other is always sounding the alarm. Whether it’s a patient whose blood oxygen level is too low, someone in the next bed whose intracranial pressure is rising, or someone else whose blood pressure has taken a nosedive. Or perhaps just because a patient has shifted position in bed.\n\nFalse alarms like this last are all too common. They utilize medical personnel’s valuable time and increase the risk that real alarms are lost in the flood of false ones. That means it is in the nurses’ and doctors’ interest to greatly reduce the number of false alarms. Working with scientists at the University Hospital Zurich’s Neurocritical Care Unit, researchers at ETH Zurich have now developed a machine learning method that aims to achieve just that."
+    },
+    {
+      "heading": "Combining data",
+      "text": "As part of a feasibility study within a data science project called ICU Cockpit , the researchers made use of comprehensive intensive care data recordings. With the patients’ consent, their vital signs are systematically stored at high temporal resolution along with any alarms that may have sounded.\n\nAs is generally the case in ICUs, the various devices for circulatory monitoring, artificial ventilation and brain monitoring work independently of each other. Consequently, the devices each sound their own alarm whenever their readings go above or below a certain threshold value. The researchers combined and synchronised the data from these various devices and then applied novel machine learning techniques to identify which alarms were irrelevant from a medical standpoint."
+    },
+    {
+      "heading": "Computer does doctors’ legwork",
+      "text": "“Usually, before a computer can start learning, humans first need to have categorised a certain number of alarms as relevant or non-relevant,” explains Walter Karlen, Professor of Mobile Health Systems at ETH Zurich. “Computer systems can then use this information to understand the principle behind the classification and ultimately categorise alarms themselves.”\n\nHowever, having someone classify alarms in intensive care is a never-ending task, not only because it has to be done for each patient individually. Additionally, medical personnel treating patients in intensive care would not have the time to teach a computer as well."
+    },
+    {
+      "heading": "Works even with fragmentary data",
+      "text": "This means the ideal system for deployment in an ICU would be one that could teach itself even if nurses or doctors have classified only a small number of alarms. This is where the machine learning method that Karlen and his colleagues have developed really comes into its own.\n\nThe scientists tested their method using a small data set from the Zurich neurocritical care unit: records of the vital signs and alarms for 14 patients over a period of several days. On average, the medical devices sounded the alarm almost 700 times per patient per day; in other words, every two minutes. Although only 1,800 (13 percent) of the data set’s total of 14,000 alarms had been classified manually, the algorithm was nonetheless able to categorise the remaining alarms as real or false. If the scientists allowed for the system to have an error rate of 5 percent, it reduced the number of false alarms by 77 percent.\n\nThe scientists were also able to demonstrate that the method works even with a significantly lower degree of manual help: all it took was 25 or 50 manual classifications for the system to flag a large number of alarms as false. The scientists also showed that particularly in situations where there has been very little manual help, the new method is much more effective than existing machine learning methods.\n\nThis project analysed clinical data retrospectively. The researchers are now considering whether to study the effectiveness of their algorithm using a prospective clinical study.\n\nSchwab P, Keller E, Muroi C, Mack DJ, Strässle C, Karlen W: Not to Cry Wolf: Distantly Supervised Multitask Learning in Critical Care . Proceedings of the 35th International Conference on Machine Learning, Stockholm, 2018"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ICU",
+        "label": "ORG",
+        "start": 43,
+        "end": 46
+      },
+      {
+        "text": "the University Hospital Zurich’s",
+        "label": "ORG",
+        "start": 654,
+        "end": 686
+      },
+      {
+        "text": "Neurocritical Care Unit",
+        "label": "ORG",
+        "start": 687,
+        "end": 710
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 727,
+        "end": 737
+      },
+      {
+        "text": "ICU Cockpit",
+        "label": "PRODUCT",
+        "start": 68,
+        "end": 79
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 55,
+        "end": 60
+      },
+      {
+        "text": "Walter Karlen",
+        "label": "PERSON",
+        "start": 152,
+        "end": 165
+      },
+      {
+        "text": "Mobile Health Systems",
+        "label": "ORG",
+        "start": 180,
+        "end": 201
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 209,
+        "end": 215
+      },
+      {
+        "text": "ICU",
+        "label": "ORG",
+        "start": 49,
+        "end": 52
+      },
+      {
+        "text": "Karlen",
+        "label": "PERSON",
+        "start": 210,
+        "end": 216
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 345,
+        "end": 351
+      },
+      {
+        "text": "several days",
+        "label": "DATE",
+        "start": 448,
+        "end": 460
+      },
+      {
+        "text": "almost 700",
+        "label": "CARDINAL",
+        "start": 512,
+        "end": 522
+      },
+      {
+        "text": "every two minutes",
+        "label": "TIME",
+        "start": 566,
+        "end": 583
+      },
+      {
+        "text": "only 1,800",
+        "label": "CARDINAL",
+        "start": 594,
+        "end": 604
+      },
+      {
+        "text": "13 percent",
+        "label": "PERCENT",
+        "start": 606,
+        "end": 616
+      },
+      {
+        "text": "14,000",
+        "label": "CARDINAL",
+        "start": 645,
+        "end": 651
+      },
+      {
+        "text": "5 percent",
+        "label": "PERCENT",
+        "start": 843,
+        "end": 852
+      },
+      {
+        "text": "77 percent",
+        "label": "PERCENT",
+        "start": 895,
+        "end": 905
+      },
+      {
+        "text": "Schwab P",
+        "label": "PERSON",
+        "start": 1497,
+        "end": 1505
+      },
+      {
+        "text": "Strässle C",
+        "label": "PERSON",
+        "start": 1535,
+        "end": 1545
+      },
+      {
+        "text": "Karlen W",
+        "label": "PERSON",
+        "start": 1547,
+        "end": 1555
+      },
+      {
+        "text": "Cry Wolf",
+        "label": "PERSON",
+        "start": 1564,
+        "end": 1572
+      },
+      {
+        "text": "the 35th International Conference on Machine Learning",
+        "label": "ORG",
+        "start": 1648,
+        "end": 1701
+      },
+      {
+        "text": "Stockholm",
+        "label": "GPE",
+        "start": 1703,
+        "end": 1712
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Cry Wolf",
+        "Karlen",
+        "Karlen W",
+        "Schwab P",
+        "Strässle C",
+        "Walter Karlen"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "En News",
+        "ICU",
+        "Mobile Health Systems",
+        "Neurocritical Care Unit",
+        "the 35th International Conference on Machine Learning",
+        "the University Hospital Zurich’s"
+      ],
+      "LOCATION": [
+        "Stockholm",
+        "Zurich"
+      ],
+      "DATE": [
+        "every two minutes",
+        "several days"
+      ],
+      "MISC": [
+        "13 percent",
+        "14,000",
+        "5 percent",
+        "77 percent",
+        "ICU Cockpit",
+        "almost 700",
+        "first",
+        "only 1,800"
+      ]
+    },
+    "entity_counts": {
+      "ICU": 2,
+      "Zurich": 2,
+      "En News": 1,
+      "the University Hospital Zurich’s": 1,
+      "Neurocritical Care Unit": 1,
+      "ETH Zurich": 1,
+      "ICU Cockpit": 1,
+      "first": 1,
+      "Walter Karlen": 1,
+      "Mobile Health Systems": 1,
+      "Karlen": 1,
+      "several days": 1,
+      "almost 700": 1,
+      "every two minutes": 1,
+      "only 1,800": 1,
+      "13 percent": 1,
+      "14,000": 1,
+      "5 percent": 1,
+      "77 percent": 1,
+      "Schwab P": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "fewer-false-alarms-in-intensive-care.md",
+      "title": "En News Events/2019/01/fewer False Alarms in Intensive Care",
+      "language": "en",
+      "source_path": "en_news_events/2019/01/fewer-false-alarms-in-intensive-care.html"
+    },
+    "temporal": {
+      "publication_date": "2019-01",
+      "mentioned_years": [
+        "2018",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Cry Wolf",
+        "Karlen",
+        "Karlen W",
+        "Schwab P",
+        "Strässle C",
+        "Walter Karlen"
+      ],
+      "people_with_roles": {
+        "Karlen": [
+          "professor"
+        ],
+        "Walter Karlen": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "13 percent",
+        "14,000",
+        "5 percent",
+        "77 percent",
+        "ICU Cockpit",
+        "almost 700",
+        "first",
+        "only 1,800"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Distantly Supervised",
+        "International Conference",
+        "Intensive Care",
+        "University Hospital",
+        "Keller E",
+        "Cry Wolf",
+        "Neurocritical Care",
+        "Karlen W",
+        "Multitask Learning",
+        "Machine Learning",
+        "Critical Care",
+        "ICU Cockpit",
+        "Walter Karlen",
+        "Mack DJ",
+        "Muroi C",
+        "Mobile Health",
+        "En News",
+        "Schwab P",
+        "ETH Zurich",
+        "False Alarms"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "En News",
+        "ICU",
+        "Mobile Health Systems",
+        "Neurocritical Care Unit",
+        "the 35th International Conference on Machine Learning",
+        "the University Hospital Zurich’s"
+      ],
+      "locations": [
+        "Stockholm",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ICU",
+        "Zurich",
+        "En News",
+        "the University Hospital Zurich’s",
+        "Neurocritical Care Unit",
+        "ETH Zurich",
+        "ICU Cockpit",
+        "first",
+        "Walter Karlen",
+        "Mobile Health Systems"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Combining data",
+          "Combining data",
+          "Computer does doctors’ legwork",
+          "Works even with fragmentary data"
+        ],
+        "content_length": 4014
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Mobile Health Systems",
+        "Neurocritical Care Unit",
+        "the University Hospital Zurich’s",
+        "Karlen",
+        "Walter Karlen",
+        "En News",
+        "ICU",
+        "EU",
+        "Strässle C",
+        "Karlen W",
+        "the 35th International Conference on Machine Learning",
+        "2019",
+        "Schwab P",
+        "ETH Zurich",
+        "Cry Wolf",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "computer_science",
+        "almost 700",
+        "who",
+        "13 percent",
+        "77 percent",
+        "where",
+        "14,000",
+        "what",
+        "how",
+        "medical_research",
+        "ICU Cockpit",
+        "when",
+        "only 1,800",
+        "5 percent"
+      ],
+      "graph_relations": [
+        "Karlen_has_role_professor",
+        "Walter Karlen_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "filename": "the-power-inside.md",
+  "original_filename": "the-power-inside.html",
+  "source_path": "en_news_events/2019/12/the-power-inside.html",
+  "date": "2019-12",
+  "title": "The Power Inside",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Soft and conductive",
+      "text": "The ceramic cube under the microscope is gifted with superpowers. Compressed to nearly a third of its height, it refuses to crumble, break or tear. When the pressure releases, the cube returns to its original state with the resilience of a sponge. The press comes down again, but the cube remains intact. The remarkable elasticity of this tiny ceramic cube – just 0.1 millimetres tall – stems from the curving grooves and cavities that traverse its internal structure. Their layout is such that tensile forces cannot concentrate within any one area of the cube when pressure is applied. It’s this concentration of forces near defects, notches or sharp corners that makes ceramic materials so brittle. The twisted architecture of the cube prevents this, hence the ceramic’s unexpected elasticity. ETH Professor Dennis Kochmann and his colleagues from the California Institute of Technology in Pasadena developed this ceramic. It is a metamaterial, engineered to possess properties not found in nature. Its internal microstructure lends it these artificial properties.\n\nStretchable ceramics are a rather unspectacular example. Other metamaterials are known for their ability to control the propagation of waves. For example, researchers have managed to produce a metamaterial with a negative refractive index. It refracts light or other waves in the “wrong” direction. Applications include totally flat lenses and, in theory, optical and acoustic cloaking. With metamaterials, that fictional cloak of invisibility could become science fact. This relatively new field is proving to be a goldmine for researchers. In theory, metamaterials could betailored to adopt practically any combination of properties. This field could become a playground for those capable of mastering this game of geometry and physics."
+    },
+    {
+      "heading": "Soft and conductive",
+      "text": "Kochmann and his group are researching the fundamentals. As they explore that playground, they are pushing back the boundaries of what materials can do. A few years ago, they demonstrated that soft materials can be made to transmit waves. The researchers cleverly arranged polymeric structures to lend them this capability through bistable components. Each of these components can take on two stable states, one taut and the other slack. The scientists arrayed the polymers in a row like dominoes and connected them to one another. Nudging one end of this structure triggers a wave that travels to the other end, just like colliding dominoes. With this simple solution for transmitting signals in soft materials, the researchers had found a soft alternative to conventional cables. This advance lays a basis for future all-soft technologies such as soft robots.\n\nKochmann’s team is now working on ways to apply the same principle behind this one-dimensional action to two and three dimensions. The idea is to engineer materials that can change their shape in two or three dimensions in response to a specific stimulus, without having to rely on drives or motors as actuators. They aim to program the initial, final and intermediate states of a transformable shape, as well as the speed and sequence of this transformation, using nothing but the structure as the medium."
+    },
+    {
+      "heading": "Metamorphosis at the touch of a button",
+      "text": "While the transformation of these materials is actuated mechanically – for example, by hand in the lab – other materials’ metamorphoses are induced electronically, at the touch of a button. Kochmann helped develop a silicon-coated metamaterial that can be electrochemically charged to change its structure. In its initial state, it looks like a three-dimensional grid with thin horizontal struts connecting thicker vertical posts, similar to a boxing ring. When charged electrically, the structure’s horizontal struts expand and bend into a symmetric pattern made up of opposing sinusoidal arches. The researchers took advantage of an effect known to cause problems with batteries: electrodes swell and shrink as a battery charges and discharges. The swelling of the horizontal struts in this new metamaterial causes its structure to change fundamentally and remain in its new state until it discharges.\n\nThese researchers thus succeeded in creating a switchable metamaterial. It works like a rechargeable battery, so it could also serve in the future to develop implantable energy storage devices on a micrometre scale. Kochmann and team have also used simulations to verify another intriguing property: charging the metamaterial to change its shape prevents waves from propagating in certain frequency ranges. These bands can be varied by modulating the voltage. Kochmann says these adjustable wave barriers could be an interesting option for damping vibrations in very small components such as those found in microelectronics."
+    },
+    {
+      "heading": "A creative search for structure",
+      "text": "He points out that the key to tailoring material properties on demand is finding the right small-scale architecture. The question is how to find the one design that induces the desired property amid countless combinations of geometric shapes, architectural principles, and base materials. Kochmann says efforts are underway to comb through potential architectures using algorithms and artificial intelligence, but notes that these methods are in an early phase: “There’s still a lot of brainstorming and creative design based on experience going on.” One often finds his team at the blackboard, browsing through known architectural components to come up with a new repertoire of exciting material properties.\n\nKochmann’s speciality field, simulations, certainly helps in this regard. He looks at a material’s chemical composition and microstructure in order to investigate its properties when they are exposed to specific stimuli such as heat, electricity and mechanical loads. Just as with the ceramic cube described above, Kochmann also applies the principles and insights gained from conventional materials to develop new metamaterials."
+    },
+    {
+      "heading": "Tools from theoretical physics",
+      "text": "Colleagues in other disciplines support Kochmann’s efforts. One of them is ETH physicist Sebastian Huber. Developing and building structures and systems that behave as predicted by abstract theories is one of his areas of specialisation. He has already succeeded in building a topological insulator, for example. This is a system in which waves can propagate only on the surface and only in one direction. In 2015, Huber was the first to demonstrate this effect with a model consisting of 270 pendula arrayed in a square. The concept had been known, but only as a hypothetical construct in quantum physics. He is now doing something very similar for metamaterials, developing and building structures like these pendula to demonstrate effects that can otherwise only be observed in elaborate experiments. Huber says his research is always about gaining the ultimate control over the propagation of waves.\n\nTranslating the concepts of theoretical physics into the engineering world with his metamaterials, Huber is putting practical tools into the hands of Dennis Kochmann and other researchers looking into such materials. He is also introducing new ways of thinking about materials’ structures and materials design concepts. The third benefit is perhaps the most rewarding for a physicist: the measurements taken in experiments with his metamaterials enable him to refine physical models. Metamaterials’ internal structures are thus the key that unlocks the door to a vivid understanding and exploitation of physical principles – and to creativity for scientists seeking to engineer novel materials with unprecedented properties."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the Power Inside",
+        "label": "LAW",
+        "start": 23,
+        "end": 39
+      },
+      {
+        "text": "nearly a third",
+        "label": "CARDINAL",
+        "start": 80,
+        "end": 94
+      },
+      {
+        "text": "just 0.1 millimetres tall",
+        "label": "QUANTITY",
+        "start": 359,
+        "end": 384
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 540,
+        "end": 543
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 796,
+        "end": 799
+      },
+      {
+        "text": "Dennis Kochmann",
+        "label": "PERSON",
+        "start": 810,
+        "end": 825
+      },
+      {
+        "text": "the California Institute of Technology",
+        "label": "ORG",
+        "start": 850,
+        "end": 888
+      },
+      {
+        "text": "Pasadena",
+        "label": "GPE",
+        "start": 892,
+        "end": 900
+      },
+      {
+        "text": "Kochmann",
+        "label": "PERSON",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "A few years ago",
+        "label": "DATE",
+        "start": 153,
+        "end": 168
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 389,
+        "end": 392
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 408,
+        "end": 411
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 540,
+        "end": 543
+      },
+      {
+        "text": "Kochmann",
+        "label": "PERSON",
+        "start": 862,
+        "end": 870
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 941,
+        "end": 944
+      },
+      {
+        "text": "two and three",
+        "label": "CARDINAL",
+        "start": 967,
+        "end": 980
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1058,
+        "end": 1061
+      },
+      {
+        "text": "Kochmann",
+        "label": "PERSON",
+        "start": 190,
+        "end": 198
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 345,
+        "end": 350
+      },
+      {
+        "text": "Kochmann",
+        "label": "PERSON",
+        "start": 1120,
+        "end": 1128
+      },
+      {
+        "text": "Kochmann",
+        "label": "PERSON",
+        "start": 1364,
+        "end": 1372
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 149,
+        "end": 152
+      },
+      {
+        "text": "Kochmann",
+        "label": "PERSON",
+        "start": 289,
+        "end": 297
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 551,
+        "end": 554
+      },
+      {
+        "text": "Kochmann",
+        "label": "PERSON",
+        "start": 709,
+        "end": 717
+      },
+      {
+        "text": "Kochmann",
+        "label": "PERSON",
+        "start": 1024,
+        "end": 1032
+      },
+      {
+        "text": "Kochmann",
+        "label": "PERSON",
+        "start": 40,
+        "end": 48
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 60,
+        "end": 63
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 75,
+        "end": 78
+      },
+      {
+        "text": "Sebastian Huber",
+        "label": "PERSON",
+        "start": 89,
+        "end": 104
+      },
+      {
+        "text": "Huber",
+        "label": "PERSON",
+        "start": 415,
+        "end": 420
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 429,
+        "end": 434
+      },
+      {
+        "text": "Huber",
+        "label": "PERSON",
+        "start": 1003,
+        "end": 1008
+      },
+      {
+        "text": "Dennis Kochmann",
+        "label": "PERSON",
+        "start": 1054,
+        "end": 1069
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 1228,
+        "end": 1233
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dennis Kochmann",
+        "Huber",
+        "Kochmann",
+        "Sebastian Huber"
+      ],
+      "ORG": [
+        "ETH",
+        "the California Institute of Technology"
+      ],
+      "LOCATION": [
+        "Pasadena"
+      ],
+      "DATE": [
+        "A few years ago"
+      ],
+      "MISC": [
+        "One",
+        "first",
+        "just 0.1 millimetres tall",
+        "nearly a third",
+        "one",
+        "the Power Inside",
+        "third",
+        "three",
+        "two",
+        "two and three"
+      ]
+    },
+    "entity_counts": {
+      "Kochmann": 9,
+      "one": 5,
+      "ETH": 2,
+      "Dennis Kochmann": 2,
+      "two": 2,
+      "One": 2,
+      "Huber": 2,
+      "the Power Inside": 1,
+      "nearly a third": 1,
+      "just 0.1 millimetres tall": 1,
+      "the California Institute of Technology": 1,
+      "Pasadena": 1,
+      "A few years ago": 1,
+      "two and three": 1,
+      "three": 1,
+      "Sebastian Huber": 1,
+      "first": 1,
+      "third": 1
+    },
+    "total_entities": 35,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-power-inside.md",
+      "title": "En News Events/2019/12/the Power Inside",
+      "language": "en",
+      "source_path": "en_news_events/2019/12/the-power-inside.html"
+    },
+    "temporal": {
+      "publication_date": "2019-12",
+      "mentioned_years": [
+        "2015",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Dennis Kochmann",
+        "Huber",
+        "Kochmann",
+        "Sebastian Huber"
+      ],
+      "people_with_roles": {
+        "Dennis Kochmann": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Huber": [
+          "researcher"
+        ],
+        "Kochmann": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics",
+        "chemistry",
+        "computer_science"
+      ],
+      "research_topics": [
+        "first",
+        "just 0.1 millimetres tall",
+        "nearly a third",
+        "the Power Inside",
+        "third",
+        "three",
+        "two and three"
+      ],
+      "grants_funding": [
+        "Horizon"
+      ],
+      "projects": [
+        "Dennis Kochmann",
+        "En News",
+        "ETH Professor",
+        "California Institute",
+        "Power Inside",
+        "Sebastian Huber"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "the California Institute of Technology"
+      ],
+      "locations": [
+        "Pasadena"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Kochmann",
+        "one",
+        "ETH",
+        "Dennis Kochmann",
+        "two",
+        "One",
+        "Huber",
+        "the Power Inside",
+        "nearly a third",
+        "just 0.1 millimetres tall"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Soft and conductive",
+          "Soft and conductive",
+          "Metamorphosis at the touch of a button",
+          "A creative search for structure",
+          "Tools from theoretical physics"
+        ],
+        "content_length": 7516
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Dennis Kochmann",
+        "ETH",
+        "2015",
+        "2019",
+        "the California Institute of Technology",
+        "Huber",
+        "Kochmann",
+        "Sebastian Huber",
+        "Horizon"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "nearly a third",
+        "the Power Inside",
+        "third",
+        "three",
+        "who",
+        "two and three",
+        "chemistry",
+        "what",
+        "how",
+        "just 0.1 millimetres tall",
+        "computer_science",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Dennis Kochmann_has_role_Professor",
+        "Dennis Kochmann_has_role_researcher",
+        "Dennis Kochmann_has_role_professor",
+        "Huber_has_role_researcher",
+        "Kochmann_has_role_researcher",
+        "Kochmann_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_chemistry",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

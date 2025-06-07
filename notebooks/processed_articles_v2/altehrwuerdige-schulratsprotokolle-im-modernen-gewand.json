@@ -1,0 +1,311 @@
+{
+  "filename": "altehrwuerdige-schulratsprotokolle-im-modernen-gewand.md",
+  "original_filename": "altehrwuerdige-schulratsprotokolle-im-modernen-gewand.html",
+  "source_path": "en_internal/2021/01/altehrwuerdige-schulratsprotokolle-im-modernen-gewand.html",
+  "date": "2021-01",
+  "title": "Altehrwuerdige Schulratsprotokolle Im Modernen Gewand",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "An important source on the history of ETH Zurich",
+      "text": "How did the School Board discuss the application to employ the first female assistant? When was electric lighting installed in the main building? What arguments convinced the School Board to establish a new institute? You can now carry out research into these questions via the Schulratsprotokolle Online platform.\n\nFor over 15 years, the ETH Zurich University Archives have offered digital access including full text search to the decisions of the President and the minutes of the Swiss School Board meetings from 1854 until the formation of the ETH Domain in 1968. The Schulratsprotokolle Online platform was launched with a new modern design at the start of January 2021. It is now optimised for use on mobile devices, and scans are generated using an IIIF viewer. The handwritten Minutes of the School Board Meetings – dating back to before the school acquired its first typewriter in 1902 – have been rescanned in colour and with excellent image quality to ensure improved legibility."
+    },
+    {
+      "heading": "An important source on the history of ETH Zurich",
+      "text": "ETH Zurich was founded as the Federal Polytechnic Institute in 1855, with its current name dating back to 1911. The Minutes of the School Board Meetings are the most important source on the history of the institution. The volumes for each school year include the decisions of the President of the School Board, the minutes and annexes from meetings of the Swiss School Board, and a register."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "More than just data – Benefit from know-how\n\n#KnowHow – The ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Schulratsprotokolle",
+        "label": "ORG",
+        "start": 35,
+        "end": 54
+      },
+      {
+        "text": "Modernen Gewand",
+        "label": "PERSON",
+        "start": 58,
+        "end": 73
+      },
+      {
+        "text": "the School Board",
+        "label": "ORG",
+        "start": 8,
+        "end": 24
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 63,
+        "end": 68
+      },
+      {
+        "text": "the School Board",
+        "label": "ORG",
+        "start": 171,
+        "end": 187
+      },
+      {
+        "text": "over 15 years",
+        "label": "DATE",
+        "start": 319,
+        "end": 332
+      },
+      {
+        "text": "the ETH Zurich University Archives",
+        "label": "ORG",
+        "start": 334,
+        "end": 368
+      },
+      {
+        "text": "the Swiss School Board",
+        "label": "ORG",
+        "start": 477,
+        "end": 499
+      },
+      {
+        "text": "the ETH Domain",
+        "label": "ORG",
+        "start": 542,
+        "end": 556
+      },
+      {
+        "text": "the start of January 2021",
+        "label": "DATE",
+        "start": 647,
+        "end": 672
+      },
+      {
+        "text": "the School Board Meetings",
+        "label": "ORG",
+        "start": 794,
+        "end": 819
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 868,
+        "end": 873
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "the Federal Polytechnic Institute",
+        "label": "ORG",
+        "start": 26,
+        "end": 59
+      },
+      {
+        "text": "the School Board Meetings",
+        "label": "ORG",
+        "start": 127,
+        "end": 152
+      },
+      {
+        "text": "each school year",
+        "label": "DATE",
+        "start": 234,
+        "end": 250
+      },
+      {
+        "text": "the School Board",
+        "label": "ORG",
+        "start": 293,
+        "end": 309
+      },
+      {
+        "text": "the Swiss School Board",
+        "label": "ORG",
+        "start": 352,
+        "end": 374
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Modernen Gewand"
+      ],
+      "ORG": [
+        "Schulratsprotokolle",
+        "the ETH Domain",
+        "the ETH Zurich University Archives",
+        "the Federal Polytechnic Institute",
+        "the School Board",
+        "the School Board Meetings",
+        "the Swiss School Board"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "each school year",
+        "over 15 years",
+        "the start of January 2021"
+      ],
+      "MISC": [
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "the School Board": 3,
+      "first": 2,
+      "the Swiss School Board": 2,
+      "the School Board Meetings": 2,
+      "Schulratsprotokolle": 1,
+      "Modernen Gewand": 1,
+      "over 15 years": 1,
+      "the ETH Zurich University Archives": 1,
+      "the ETH Domain": 1,
+      "the start of January 2021": 1,
+      "ETH Zurich": 1,
+      "the Federal Polytechnic Institute": 1,
+      "each school year": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "altehrwuerdige-schulratsprotokolle-im-modernen-gewand.md",
+      "title": "En Internal/2021/01/altehrwuerdige Schulratsprotokolle Im Modernen Gewand",
+      "language": "en",
+      "source_path": "en_internal/2021/01/altehrwuerdige-schulratsprotokolle-im-modernen-gewand.html"
+    },
+    "temporal": {
+      "publication_date": "2021-01",
+      "mentioned_years": [
+        "1902",
+        "1911",
+        "1968",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Modernen Gewand"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Schulratsprotokolle Im",
+        "Federal Polytechnic",
+        "ETH Domain",
+        "Schulratsprotokolle Online",
+        "Modernen Gewand",
+        "Swiss School",
+        "The Minutes",
+        "En Internal",
+        "University Archives",
+        "The Schulratsprotokolle",
+        "ETH Zurich",
+        "The ETH",
+        "School Board"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Schulratsprotokolle",
+        "the ETH Domain",
+        "the ETH Zurich University Archives",
+        "the Federal Polytechnic Institute",
+        "the School Board",
+        "the School Board Meetings",
+        "the Swiss School Board"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "the School Board",
+        "first",
+        "the Swiss School Board",
+        "the School Board Meetings",
+        "Schulratsprotokolle",
+        "Modernen Gewand",
+        "over 15 years",
+        "the ETH Zurich University Archives",
+        "the ETH Domain",
+        "the start of January 2021"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "An important source on the history of ETH Zurich",
+          "An important source on the history of ETH Zurich",
+          "Staffnet"
+        ],
+        "content_length": 1577
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Federal Polytechnic Institute",
+        "Schulratsprotokolle",
+        "the Swiss School Board",
+        "Modernen Gewand",
+        "the ETH Zurich University Archives",
+        "the ETH Domain",
+        "1902",
+        "the School Board Meetings",
+        "the School Board",
+        "2021",
+        "1968",
+        "ETH Zurich",
+        "1911"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "where",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_president",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "filename": "eth-ist-top-in-informatik.md",
+  "original_filename": "eth-ist-top-in-informatik.html",
+  "source_path": "de_news_events/2018/11/eth-ist-top-in-informatik.html",
+  "date": "2018-11",
+  "title": "Eth Ist Top In Informatik",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Damit bestätigten die ETH-Computerwissenschaftler ihre weltweite Spitzenposition. Vor Jahresfrist lagen sie auf Platz vier, vor zwei Jahren auf Platz eins. Damals erfasste das THE-Fächerranking jedoch nicht alle Top-Universitäten, sodass das Resultat nicht mit dem jetzigen vergleichbar ist.\n\nDurch die Spitzenklassierung der ETH-Computerwissenschaften sieht sich ETH-Präsident Lino Guzzella im eingeschlagenen Kurs der Hochschule bestätigt: «Die strategische Entscheidung der ETH Zürich, Informatik und Data Science stark zu fördern, trägt Früchte.» In dieses Bild passe auch die Tatsache, dass die Zahl der Studierenden am Departement Informatik in jüngster Zeit zugenommen habe.\n\nAuch viele der grossen IT-Firmen wie Google, Disney oder Apple haben sich unter anderem wegen der ETH entschieden, in Zürich eigene Forschungs- und Entwicklungsaktivtäten aufzubauen. Jüngstes Beispiel ist Microsoft, wo in Zusammenarbeit mit Informatikprofessor Marc Pollefeys ein neues Labor für « externe Seite Mixed Reality und Künstliche Intelligenz » entsteht.\n\nZudem entstehen aus der ETH heraus viele Spin-off-Firmen, deren Geschäftsmodelle auf die digitale Transformation und das Internet der Dinge zugeschnitten sind, wie GetYourGuide, Scandit oder Beekeper. «Zürich ist das digitale Zentrum der Schweiz, und die ETH und die Top-Forschung und Ausbildung in der Informatik treiben diese Entwicklung massgeblich an», betont Lino Guzzella.\n\nAuch im THE-Fachbereich Ingenieur- und Technische Wissenschaften («Engineering and Technical Sciences) schaffte es die ETH unter die besten Zehn. Die Hochschule liegt wie im Vorjahr auf Platz neun. Im jüngsten THE-Gesamtranking 2018/19 belegt die ETH Zürich Rang elf."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH-Computerwissenschaftler",
+        "label": "MISC",
+        "start": 22,
+        "end": 49
+      },
+      {
+        "text": "THE-Fächerranking",
+        "label": "ORG",
+        "start": 176,
+        "end": 193
+      },
+      {
+        "text": "ETH-Computerwissenschaften",
+        "label": "MISC",
+        "start": 325,
+        "end": 351
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PER",
+        "start": 377,
+        "end": 390
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 476,
+        "end": 486
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 659,
+        "end": 663
+      },
+      {
+        "text": "Google",
+        "label": "MISC",
+        "start": 718,
+        "end": 724
+      },
+      {
+        "text": "Disney",
+        "label": "ORG",
+        "start": 726,
+        "end": 732
+      },
+      {
+        "text": "Apple",
+        "label": "ORG",
+        "start": 738,
+        "end": 743
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 779,
+        "end": 782
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 799,
+        "end": 805
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 886,
+        "end": 895
+      },
+      {
+        "text": "Informatikprofessor",
+        "label": "ORG",
+        "start": 922,
+        "end": 941
+      },
+      {
+        "text": "Marc Pollefeys",
+        "label": "PER",
+        "start": 942,
+        "end": 956
+      },
+      {
+        "text": "Mixed Reality",
+        "label": "PER",
+        "start": 993,
+        "end": 1006
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1070,
+        "end": 1073
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 1167,
+        "end": 1175
+      },
+      {
+        "text": "Scandit",
+        "label": "LOC",
+        "start": 1224,
+        "end": 1231
+      },
+      {
+        "text": "Beekeper",
+        "label": "LOC",
+        "start": 1237,
+        "end": 1245
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 1248,
+        "end": 1254
+      },
+      {
+        "text": "Zentrum der Schweiz",
+        "label": "ORG",
+        "start": 1272,
+        "end": 1291
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1301,
+        "end": 1304
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PER",
+        "start": 1410,
+        "end": 1423
+      },
+      {
+        "text": "THE-Fachbereich Ingenieur- und Technische Wissenschaften",
+        "label": "ORG",
+        "start": 1433,
+        "end": 1489
+      },
+      {
+        "text": "Engineering and Technical Sciences",
+        "label": "MISC",
+        "start": 1492,
+        "end": 1526
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1544,
+        "end": 1547
+      },
+      {
+        "text": "THE-Gesamtranking",
+        "label": "MISC",
+        "start": 1635,
+        "end": 1652
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1672,
+        "end": 1682
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Lino Guzzella",
+        "Marc Pollefeys",
+        "Mixed Reality"
+      ],
+      "ORG": [
+        "Apple",
+        "Disney",
+        "ETH",
+        "ETH Zürich",
+        "Informatikprofessor",
+        "Microsoft",
+        "THE-Fachbereich Ingenieur- und Technische Wissenschaften",
+        "THE-Fächerranking",
+        "Zentrum der Schweiz"
+      ],
+      "LOCATION": [
+        "Beekeper",
+        "Scandit",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Computerwissenschaften",
+        "ETH-Computerwissenschaftler",
+        "Engineering and Technical Sciences",
+        "Google",
+        "Internet",
+        "THE-Gesamtranking",
+        "Zeit"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 4,
+      "Lino Guzzella": 2,
+      "ETH Zürich": 2,
+      "Zürich": 2,
+      "De News": 1,
+      "ETH-Computerwissenschaftler": 1,
+      "THE-Fächerranking": 1,
+      "ETH-Computerwissenschaften": 1,
+      "Zeit": 1,
+      "Google": 1,
+      "Disney": 1,
+      "Apple": 1,
+      "Microsoft": 1,
+      "Informatikprofessor": 1,
+      "Marc Pollefeys": 1,
+      "Mixed Reality": 1,
+      "Internet": 1,
+      "Scandit": 1,
+      "Beekeper": 1,
+      "Zentrum der Schweiz": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-ist-top-in-informatik.md",
+      "title": "De News Events/2018/11/eth Ist Top in Informatik",
+      "language": "de",
+      "source_path": "de_news_events/2018/11/eth-ist-top-in-informatik.html"
+    },
+    "temporal": {
+      "publication_date": "2018-11",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Lino Guzzella",
+        "Marc Pollefeys",
+        "Mixed Reality"
+      ],
+      "people_with_roles": {
+        "Marc Pollefeys": [
+          "professor"
+        ],
+        "Mixed Reality": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "ETH-Computerwissenschaften",
+        "ETH-Computerwissenschaftler",
+        "Engineering and Technical Sciences",
+        "Google",
+        "Internet",
+        "THE-Gesamtranking",
+        "Zeit"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Informatikprofessor Marc",
+        "Technische Wissenschaften",
+        "Top-Forschung",
+        "Ist Top",
+        "Departement Informatik",
+        "ETH-Computerwissenschaftler",
+        "IT-Firmen",
+        "Seite Mixed",
+        "THE-Fachbereich",
+        "Die Hochschule",
+        "De News",
+        "ETH-Computerwissenschaften",
+        "THE-Gesamtranking",
+        "Lino Guzzella",
+        "Vor Jahresfrist",
+        "Data Science",
+        "Technical Sciences",
+        "Informatik Damit"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Apple",
+        "Disney",
+        "ETH",
+        "ETH Zürich",
+        "Informatikprofessor",
+        "Microsoft",
+        "THE-Fachbereich Ingenieur- und Technische Wissenschaften",
+        "THE-Fächerranking",
+        "Zentrum der Schweiz"
+      ],
+      "locations": [
+        "Beekeper",
+        "Scandit",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Lino Guzzella",
+        "ETH Zürich",
+        "Zürich",
+        "De News",
+        "ETH-Computerwissenschaftler",
+        "THE-Fächerranking",
+        "ETH-Computerwissenschaften",
+        "Zeit",
+        "Google"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1745
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Marc Pollefeys",
+        "Mixed Reality",
+        "ETH",
+        "Zentrum der Schweiz",
+        "2018",
+        "THE-Fachbereich Ingenieur- und Technische Wissenschaften",
+        "THE-Fächerranking",
+        "EU",
+        "ETH Zürich",
+        "Informatikprofessor",
+        "De News",
+        "Microsoft",
+        "Lino Guzzella",
+        "Apple",
+        "Disney"
+      ],
+      "semantic_concepts": [
+        "Google",
+        "Engineering and Technical Sciences",
+        "who",
+        "ETH-Computerwissenschaftler",
+        "Internet",
+        "ETH-Computerwissenschaften",
+        "THE-Gesamtranking",
+        "computer_science",
+        "Zeit"
+      ],
+      "graph_relations": [
+        "Marc Pollefeys_has_role_professor",
+        "Mixed Reality_has_role_professor",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

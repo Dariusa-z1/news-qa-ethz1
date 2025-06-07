@@ -1,0 +1,398 @@
+{
+  "filename": "a-material-with-a-particular-twist.md",
+  "original_filename": "a-material-with-a-particular-twist.html",
+  "source_path": "en_news_events/2020/04/a-material-with-a-particular-twist.html",
+  "date": "2020-04",
+  "title": "A Material With A Particular Twist",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Moiré pattern in a crystal",
+      "text": "Many modern technologies are based on special materials, such as the semiconductors that are important for computers, inside of which electrons can move more or less freely. Exactly how free those electrons are is determined by their quantum properties and the crystal structure of the material. Most of the time they move independently of each other. Under certain conditions, however, strong interactions between the electrons can give rise to particular phenomena. Superconductors, in which electrons pair up to conduct electrical current without resistance, are a well-known example.\n\nAt the Institute for Quantum Electronics in Zurich, ETH-professor Ataç Imamoğlu investigates materials with strongly interacting electrons. He wants to understand the behaviour of the electrons in those materials better and looks for unexpected properties that might be interesting for future applications. In a “twisted” material, he and his collaborators have now made some surprising discoveries regarding the behaviour of electrons, as they report in the scientific journal Nature ."
+    },
+    {
+      "heading": "Moiré pattern in a crystal",
+      "text": "To create strong interactions between electrons in a controlled way, Imamoğlu’s research group used wafer-thin slices made of layers of a molybdenum diselenide crystal only one atom thick. Such slices are also known as two-dimensional materials since electrons in them can only move freely in one plane. That feature alone already brings about a host of surprising properties such as those observed in graphene, which also belongs to the class of two-dimensional materials."
+    },
+    {
+      "heading": "Ideal material for future investigations",
+      "text": "Things get even more interesting, however, when two such slices are put on top of each other with their crystal directions slightly twisted. This leads to an effect known from television: if someone is wearing a tie or dress made of a checked or striped fabric, strange patterns sometimes appear on the screen. These are also known as moiré patterns.\n\nSomething similar happens in Imamoğlu‘s materials. The twist between the two slices creates a kind of moiré-crystal lattice that amounts to a fictitious crystal with atoms that are farther apart than usual. Such a crystal has a much weaker influence on the motion of the electrons, meaning that the interactions between the electrons become more important by comparison."
+    },
+    {
+      "heading": "Surprising properties",
+      "text": "“Thinking ‘more is better’, we additionally inserted a thin layer of an different material between the molybdenum diselenide slices”, says Yuya Shimazaki, leading postdoc in Imamoğlu‘s group. That slice of boron nitride ensures that, although the two twisted slices are very close to each other, electrons cannot tunnel back and forth between them. By applying an electric voltage to the material one can then control exactly how many electrons are present inside it. Finally, to find out how the electrons move inside this sandwich material, the researchers illuminated it with laser light, thus exciting the electrons.\n\n“Our material allows us to study the electrons with optical means”, Imamoğlu explains. “That’s a big advantage over other 2D materials such as graphene.” From the light signals emitted by the excited electrons, many baffling properties of the electrons can be deduced. What most surprised the physicists was the behaviour of their material when it contained just as many electrons as there were lattice sites in the moiré patterns of the two slices.\n\nIn that case so-called Mott insulator states, in which exactly one electron occupies a lattice site, appeared in both slices. That state was rather peculiar as the Mott insulator states stabilized each other, such that even strong external electric fields could not move them and hence no current flowed. “That’s the first time such a behaviour was observed,” says Imamoğlu.\n\nThe new material paves the way for a series of further exciting investigations. It is ideal for controlled experiments with strongly interacting electrons. The researchers can change the properties of the material and the strength of the interactions through the boron nitride layer and the angle between the molybdenum diselenide slices. This allows them to study complex physical processes that are hard to realize in other materials.\n\nShimazaki Y, Schwartz I, Watanabe K, Taniguchi T, Kroner M and Imamoğlu A. Strongly correlated electrons and hybrid excitons in a moiré heterostructure. Nature,13. April 2020, doi: 10.1038/s41586-020-2191-2"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "crystal",
+        "label": "FAC",
+        "start": 261,
+        "end": 268
+      },
+      {
+        "text": "the Institute for Quantum Electronics",
+        "label": "ORG",
+        "start": 591,
+        "end": 628
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 632,
+        "end": 638
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 640,
+        "end": 643
+      },
+      {
+        "text": "Ataç Imamoğlu",
+        "label": "PERSON",
+        "start": 654,
+        "end": 667
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 1066,
+        "end": 1072
+      },
+      {
+        "text": "Imamoğlu",
+        "label": "ORG",
+        "start": 69,
+        "end": 77
+      },
+      {
+        "text": "crystal",
+        "label": "PRODUCT",
+        "start": 160,
+        "end": 167
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 168,
+        "end": 176
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 219,
+        "end": 222
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 293,
+        "end": 296
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 447,
+        "end": 450
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 48,
+        "end": 51
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 424,
+        "end": 427
+      },
+      {
+        "text": "Yuya Shimazaki",
+        "label": "PERSON",
+        "start": 139,
+        "end": 153
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 247,
+        "end": 250
+      },
+      {
+        "text": "Imamoğlu",
+        "label": "ORG",
+        "start": 689,
+        "end": 697
+      },
+      {
+        "text": "2D",
+        "label": "CARDINAL",
+        "start": 743,
+        "end": 745
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1059,
+        "end": 1062
+      },
+      {
+        "text": "Mott",
+        "label": "ORG",
+        "start": 1094,
+        "end": 1098
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1134,
+        "end": 1137
+      },
+      {
+        "text": "Mott",
+        "label": "ORG",
+        "start": 1235,
+        "end": 1239
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1388,
+        "end": 1393
+      },
+      {
+        "text": "Schwartz",
+        "label": "PERSON",
+        "start": 1896,
+        "end": 1904
+      },
+      {
+        "text": "Watanabe K",
+        "label": "PERSON",
+        "start": 1908,
+        "end": 1918
+      },
+      {
+        "text": "Nature,13",
+        "label": "ORG",
+        "start": 2036,
+        "end": 2045
+      },
+      {
+        "text": "April 2020",
+        "label": "DATE",
+        "start": 2047,
+        "end": 2057
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2064,
+        "end": 2071
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ataç Imamoğlu",
+        "Schwartz",
+        "Watanabe K",
+        "Yuya Shimazaki"
+      ],
+      "ORG": [
+        "ETH",
+        "Imamoğlu",
+        "Mott",
+        "Nature,13",
+        "the Institute for Quantum Electronics"
+      ],
+      "LOCATION": [
+        "Zurich",
+        "crystal"
+      ],
+      "DATE": [
+        "April 2020"
+      ],
+      "MISC": [
+        "10.1038",
+        "2D",
+        "Nature",
+        "crystal",
+        "first",
+        "one",
+        "only one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "two": 6,
+      "crystal": 2,
+      "Imamoğlu": 2,
+      "one": 2,
+      "Mott": 2,
+      "the Institute for Quantum Electronics": 1,
+      "Zurich": 1,
+      "ETH": 1,
+      "Ataç Imamoğlu": 1,
+      "Nature": 1,
+      "only one": 1,
+      "Yuya Shimazaki": 1,
+      "2D": 1,
+      "first": 1,
+      "Schwartz": 1,
+      "Watanabe K": 1,
+      "Nature,13": 1,
+      "April 2020": 1,
+      "10.1038": 1
+    },
+    "total_entities": 28,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-material-with-a-particular-twist.md",
+      "title": "En News Events/2020/04/a Material With A Particular Twist",
+      "language": "en",
+      "source_path": "en_news_events/2020/04/a-material-with-a-particular-twist.html"
+    },
+    "temporal": {
+      "publication_date": "2020-04",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Ataç Imamoğlu",
+        "Schwartz",
+        "Watanabe K",
+        "Yuya Shimazaki"
+      ],
+      "people_with_roles": {
+        "Ataç Imamoğlu": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Nature",
+        "crystal",
+        "first",
+        "only one"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Watanabe K",
+        "En News",
+        "Material With",
+        "Quantum Electronics",
+        "Twist Many",
+        "A Particular",
+        "Yuya Shimazaki",
+        "Taniguchi T",
+        "Schwartz I",
+        "Shimazaki Y",
+        "Kroner M"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Quantum Electronics in Zurich"
+      ],
+      "institutions": [
+        "ETH",
+        "Imamoğlu",
+        "Mott",
+        "Nature,13",
+        "the Institute for Quantum Electronics"
+      ],
+      "locations": [
+        "Zurich",
+        "crystal"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "two",
+        "crystal",
+        "Imamoğlu",
+        "one",
+        "Mott",
+        "the Institute for Quantum Electronics",
+        "Zurich",
+        "ETH",
+        "Ataç Imamoğlu",
+        "Nature"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Moiré pattern in a crystal",
+          "Moiré pattern in a crystal",
+          "Ideal material for future investigations",
+          "Surprising properties"
+        ],
+        "content_length": 4424
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Watanabe K",
+        "2020",
+        "Nature,13",
+        "the Institute for Quantum Electronics",
+        "Imamoğlu",
+        "Mott",
+        "Schwartz",
+        "Yuya Shimazaki",
+        "Ataç Imamoğlu",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "Nature",
+        "crystal",
+        "who",
+        "10.1038",
+        "what",
+        "how",
+        "only one",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Ataç Imamoğlu_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "filename": "challenge-the-best-in-data-science.md",
+  "original_filename": "challenge-the-best-in-data-science.html",
+  "source_path": "en_news_events/2018/06/challenge-the-best-in-data-science.html",
+  "date": "2018-06",
+  "title": "Challenge The Best In Data Science",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH Zurich’s continuing education offensive is gathering pace. After launching the School for Continuing Education with Einstein in April and presenting new programmes in cybersecurity and materials and manufacturing technology, the university is already presenting another new course: the Diploma of Advanced Studies ETH in Data Science. The programme will impart the latest knowledge, methods and technologies in the area of data science and is based on the same course units as the Master’s degree programme of the same name, which ETH launched in Autumn Semester 2017.\n\nIn this way, ETH is making current knowledge from research accessible to working people who require in-depth knowledge of data sciences in their everyday work. The three departments responsible for the continuing education programme are the Departments of Computer Science, Information Technology and Electrical Engineering, and Mathematics. Accordingly, students can choose from a wide range of courses and options.\n\nIn addition to course units from the Master’s degree programme, an exclusive “capstone project” is also on offer: this is an individual research project in which the students are generally subject to supervision by researchers from the Swiss Data Science Center. ETH Zurich and EPFL have been pooling their expertise in the area of data science in this centre since 2017.\n\nApplications to the part-time programme for professionals are open to specialists with a background in computer science, electrical engineering, mathematics or a related field. Successful completion requires at least 35 credits, which corresponds to between one and two years of part-time study. The programme costs CHF 12,000, including tuition fees.\n\nThose wishing to join the pioneering year group will need to make a decision quickly: the application period is open until 31 July 2018 (late registrations on request).\n\nFurther information on the programme"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "the School for Continuing Education",
+        "label": "ORG",
+        "start": 79,
+        "end": 114
+      },
+      {
+        "text": "Einstein",
+        "label": "PERSON",
+        "start": 120,
+        "end": 128
+      },
+      {
+        "text": "April",
+        "label": "DATE",
+        "start": 132,
+        "end": 137
+      },
+      {
+        "text": "Data Science",
+        "label": "ORG",
+        "start": 325,
+        "end": 337
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 535,
+        "end": 538
+      },
+      {
+        "text": "Autumn Semester",
+        "label": "WORK_OF_ART",
+        "start": 551,
+        "end": 566
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 586,
+        "end": 589
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 737,
+        "end": 742
+      },
+      {
+        "text": "the Departments of Computer Science, Information Technology",
+        "label": "ORG",
+        "start": 810,
+        "end": 869
+      },
+      {
+        "text": "Electrical Engineering",
+        "label": "ORG",
+        "start": 874,
+        "end": 896
+      },
+      {
+        "text": "Mathematics",
+        "label": "NORP",
+        "start": 902,
+        "end": 913
+      },
+      {
+        "text": "the Swiss Data Science Center",
+        "label": "ORG",
+        "start": 1222,
+        "end": 1251
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1253,
+        "end": 1263
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 1268,
+        "end": 1272
+      },
+      {
+        "text": "at least 35",
+        "label": "CARDINAL",
+        "start": 1570,
+        "end": 1581
+      },
+      {
+        "text": "between one and",
+        "label": "CARDINAL",
+        "start": 1612,
+        "end": 1627
+      },
+      {
+        "text": "two years",
+        "label": "DATE",
+        "start": 1628,
+        "end": 1637
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 1678,
+        "end": 1681
+      },
+      {
+        "text": "12,000",
+        "label": "CARDINAL",
+        "start": 1682,
+        "end": 1688
+      },
+      {
+        "text": "the pioneering year group",
+        "label": "ORG",
+        "start": 1736,
+        "end": 1761
+      },
+      {
+        "text": "31 July 2018",
+        "label": "DATE",
+        "start": 1837,
+        "end": 1849
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Einstein"
+      ],
+      "ORG": [
+        "CHF",
+        "Data Science",
+        "EPFL",
+        "ETH",
+        "Electrical Engineering",
+        "the Departments of Computer Science, Information Technology",
+        "the School for Continuing Education",
+        "the Swiss Data Science Center",
+        "the pioneering year group"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "31 July 2018",
+        "April",
+        "two years"
+      ],
+      "MISC": [
+        "12,000",
+        "Autumn Semester",
+        "Mathematics",
+        "at least 35",
+        "between one and",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "ETH Zurich’s": 1,
+      "the School for Continuing Education": 1,
+      "Einstein": 1,
+      "April": 1,
+      "Data Science": 1,
+      "Autumn Semester": 1,
+      "three": 1,
+      "the Departments of Computer Science, Information Technology": 1,
+      "Electrical Engineering": 1,
+      "Mathematics": 1,
+      "the Swiss Data Science Center": 1,
+      "ETH Zurich": 1,
+      "EPFL": 1,
+      "at least 35": 1,
+      "between one and": 1,
+      "two years": 1,
+      "CHF": 1,
+      "12,000": 1,
+      "the pioneering year group": 1
+    },
+    "total_entities": 22,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "challenge-the-best-in-data-science.md",
+      "title": "En News Events/2018/06/challenge The Best in Data Science",
+      "language": "en",
+      "source_path": "en_news_events/2018/06/challenge-the-best-in-data-science.html"
+    },
+    "temporal": {
+      "publication_date": "2018-06",
+      "mentioned_years": [
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Einstein"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "12,000",
+        "Autumn Semester",
+        "Mathematics",
+        "at least 35",
+        "between one and",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Electrical Engineering",
+        "Science Center",
+        "En News",
+        "Advanced Studies",
+        "The Best",
+        "Continuing Education",
+        "Autumn Semester",
+        "Information Technology",
+        "ETH Zurich",
+        "Data Science",
+        "Computer Science",
+        "Swiss Data"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CHF",
+        "Data Science",
+        "EPFL",
+        "ETH",
+        "Electrical Engineering",
+        "the Departments of Computer Science, Information Technology",
+        "the School for Continuing Education",
+        "the Swiss Data Science Center",
+        "the pioneering year group"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Zurich’s",
+        "the School for Continuing Education",
+        "Einstein",
+        "April",
+        "Data Science",
+        "Autumn Semester",
+        "three",
+        "the Departments of Computer Science, Information Technology",
+        "Electrical Engineering"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1982
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "EPFL",
+        "CHF",
+        "ETH",
+        "Electrical Engineering",
+        "the School for Continuing Education",
+        "the Departments of Computer Science, Information Technology",
+        "the Swiss Data Science Center",
+        "2017",
+        "Einstein",
+        "the pioneering year group",
+        "ETH Zurich",
+        "Data Science",
+        "ETH Zurich’s"
+      ],
+      "semantic_concepts": [
+        "12,000",
+        "at least 35",
+        "three",
+        "who",
+        "Mathematics",
+        "where",
+        "Autumn Semester",
+        "what",
+        "how",
+        "computer_science",
+        "between one and",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

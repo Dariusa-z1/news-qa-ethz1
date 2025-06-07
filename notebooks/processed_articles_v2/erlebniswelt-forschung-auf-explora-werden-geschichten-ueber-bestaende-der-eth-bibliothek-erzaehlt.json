@@ -1,0 +1,177 @@
+{
+  "filename": "erlebniswelt-forschung-auf-explora-werden-geschichten-ueber-bestaende-der-eth-bibliothek-erzaehlt.md",
+  "original_filename": "erlebniswelt-forschung-auf-explora-werden-geschichten-ueber-bestaende-der-eth-bibliothek-erzaehlt.html",
+  "source_path": "en_internal/2020/06/erlebniswelt-forschung-auf-explora-werden-geschichten-ueber-bestaende-der-eth-bibliothek-erzaehlt.html",
+  "date": "2020-06",
+  "title": "Erlebniswelt Forschung Auf Explora Werden Geschichten Ueber Bestaende Der Eth Bibliothek Erzaehlt",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The images come from the E-Pics image catalogues:\n\nThe Search Portal is the central point of access when running searches on and using ETH Library resources. These include printed and electronic books, journals, specialist articles, photographs, maps, videos and much more.\n\n#KnowMore – The prepared content issued by ETH Library is at your free disposal and gives you a head start.\n\n#ETHLibraryDigital – ETH Library is there for you digitally with various resources and services , not only during the COVID-19 protective measures."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Forschung",
+        "label": "PERSON",
+        "start": 33,
+        "end": 42
+      },
+      {
+        "text": "Explora Werden",
+        "label": "PERSON",
+        "start": 47,
+        "end": 61
+      },
+      {
+        "text": "The Search Portal",
+        "label": "WORK_OF_ART",
+        "start": 50,
+        "end": 67
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 134,
+        "end": 145
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 315,
+        "end": 326
+      },
+      {
+        "text": "ETH Library",
+        "label": "PERSON",
+        "start": 400,
+        "end": 411
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 497,
+        "end": 505
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library",
+        "Explora Werden",
+        "Forschung"
+      ],
+      "ORG": [
+        "COVID-19",
+        "ETH Library"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "The Search Portal"
+      ]
+    },
+    "entity_counts": {
+      "ETH Library": 3,
+      "Forschung": 1,
+      "Explora Werden": 1,
+      "The Search Portal": 1,
+      "COVID-19": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "erlebniswelt-forschung-auf-explora-werden-geschichten-ueber-bestaende-der-eth-bibliothek-erzaehlt.md",
+      "title": "En Internal/2020/06/erlebniswelt Forschung auf Explora Werden Geschichten Ueber Bestaende der Eth Bibliothek Erzaehlt",
+      "language": "en",
+      "source_path": "en_internal/2020/06/erlebniswelt-forschung-auf-explora-werden-geschichten-ueber-bestaende-der-eth-bibliothek-erzaehlt.html"
+    },
+    "temporal": {
+      "publication_date": "2020-06",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library",
+        "Explora Werden",
+        "Forschung"
+      ],
+      "people_with_roles": {
+        "ETH Library": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "The Search Portal"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Geschichten Ueber",
+        "ETH Library",
+        "The Search",
+        "Erzaehlt The",
+        "En Internal",
+        "Explora Werden",
+        "E-Pics",
+        "Eth Bibliothek"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "ETH Library"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Library",
+        "Forschung",
+        "Explora Werden",
+        "The Search Portal",
+        "COVID-19"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 649
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Library",
+        "2020",
+        "Explora Werden",
+        "COVID-19",
+        "Forschung"
+      ],
+      "semantic_concepts": [
+        "The Search Portal",
+        "when"
+      ],
+      "graph_relations": [
+        "ETH Library_has_role_head"
+      ]
+    }
+  }
+}

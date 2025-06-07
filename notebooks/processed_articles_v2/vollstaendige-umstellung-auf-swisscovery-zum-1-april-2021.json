@@ -1,0 +1,247 @@
+{
+  "filename": "vollstaendige-umstellung-auf-swisscovery-zum-1-april-2021.md",
+  "original_filename": "vollstaendige-umstellung-auf-swisscovery-zum-1-april-2021.html",
+  "source_path": "en_internal/2021/03/vollstaendige-umstellung-auf-swisscovery-zum-1-april-2021.html",
+  "date": "2021-03",
+  "title": "Vollstaendige Umstellung Auf Swisscovery Zum 1 April 2021",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "At the end of March, the transition period for the migration to the new swisscovery research platform that was launched last December will come to an end.\n\nPlease note that the old library system will no longer be available from April onwards:\n\nIn order to be able to use swisscovery , you must register anew. If you have not yet done this, please follow the instructions about registration.\n\nswisscovery lists more than 30 million books, series, journals and non-book materials as well as more than 3 billion electronic articles. swisscovery is operated by the Swiss Library Service Platform, or SLSP. SLSP was founded by 15 universities. Today, over 470 libraries across Switzerland have joined.\n\n#KnowHow – The ETH Library’s infrastructure and tools lead you to your goal.\n\n#ETHLibraryDigital – The ETH Library is there for you digitally with various resources and services , not only during the COVID-19 protective measures."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Umstellung",
+        "label": "PERSON",
+        "start": 34,
+        "end": 44
+      },
+      {
+        "text": "Swisscovery Zum 1 April",
+        "label": "PERSON",
+        "start": 49,
+        "end": 72
+      },
+      {
+        "text": "the end of March",
+        "label": "DATE",
+        "start": 3,
+        "end": 19
+      },
+      {
+        "text": "last December",
+        "label": "DATE",
+        "start": 120,
+        "end": 133
+      },
+      {
+        "text": "April",
+        "label": "DATE",
+        "start": 228,
+        "end": 233
+      },
+      {
+        "text": "more than 30 million",
+        "label": "CARDINAL",
+        "start": 408,
+        "end": 428
+      },
+      {
+        "text": "the Swiss Library Service Platform",
+        "label": "ORG",
+        "start": 555,
+        "end": 589
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 637,
+        "end": 642
+      },
+      {
+        "text": "over 470",
+        "label": "CARDINAL",
+        "start": 644,
+        "end": 652
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 670,
+        "end": 681
+      },
+      {
+        "text": "KnowHow",
+        "label": "PERSON",
+        "start": 695,
+        "end": 702
+      },
+      {
+        "text": "The ETH Library’s",
+        "label": "ORG",
+        "start": 705,
+        "end": 722
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 892,
+        "end": 900
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "KnowHow",
+        "Swisscovery Zum 1 April",
+        "Umstellung"
+      ],
+      "ORG": [
+        "COVID-19",
+        "The ETH Library’s",
+        "the Swiss Library Service Platform"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [
+        "April",
+        "Today",
+        "last December",
+        "the end of March"
+      ],
+      "MISC": [
+        "more than 30 million",
+        "over 470"
+      ]
+    },
+    "entity_counts": {
+      "Umstellung": 1,
+      "Swisscovery Zum 1 April": 1,
+      "the end of March": 1,
+      "last December": 1,
+      "April": 1,
+      "more than 30 million": 1,
+      "the Swiss Library Service Platform": 1,
+      "Today": 1,
+      "over 470": 1,
+      "Switzerland": 1,
+      "KnowHow": 1,
+      "The ETH Library’s": 1,
+      "COVID-19": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "vollstaendige-umstellung-auf-swisscovery-zum-1-april-2021.md",
+      "title": "En Internal/2021/03/vollstaendige Umstellung auf Swisscovery Zum 1 April 2021",
+      "language": "en",
+      "source_path": "en_internal/2021/03/vollstaendige-umstellung-auf-swisscovery-zum-1-april-2021.html"
+    },
+    "temporal": {
+      "publication_date": "2021-03",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "KnowHow",
+        "Swisscovery Zum 1 April",
+        "Umstellung"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "more than 30 million",
+        "over 470"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En Internal",
+        "Swisscovery Zum",
+        "Swiss Library",
+        "Service Platform",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "The ETH Library’s",
+        "the Swiss Library Service Platform"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Umstellung",
+        "Swisscovery Zum 1 April",
+        "the end of March",
+        "last December",
+        "April",
+        "more than 30 million",
+        "the Swiss Library Service Platform",
+        "Today",
+        "over 470",
+        "Switzerland"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1006
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Swisscovery Zum 1 April",
+        "Umstellung",
+        "The ETH Library’s",
+        "KnowHow",
+        "COVID-19",
+        "the Swiss Library Service Platform",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "over 470",
+        "who",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering",
+        "more than 30 million"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

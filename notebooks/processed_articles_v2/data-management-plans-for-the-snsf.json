@@ -1,0 +1,121 @@
+{
+  "filename": "data-management-plans-for-the-snsf.md",
+  "original_filename": "data-management-plans-for-the-snsf.html",
+  "source_path": "en_internal/2018/09/data-management-plans-for-the-snsf.html",
+  "date": "2018-09",
+  "title": "Data Management Plans For The Snsf",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "For one year now, applications must include a Data Management Plan (DMP). The DMP is created online in ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "one year",
+        "label": "DATE",
+        "start": 4,
+        "end": 12
+      },
+      {
+        "text": "DMP",
+        "label": "ORG",
+        "start": 68,
+        "end": 71
+      },
+      {
+        "text": "DMP",
+        "label": "ORG",
+        "start": 78,
+        "end": 81
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "DMP"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "one year"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "DMP": 2,
+      "one year": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "data-management-plans-for-the-snsf.md",
+      "title": "En Internal/2018/09/data Management Plans For The Snsf",
+      "language": "en",
+      "source_path": "en_internal/2018/09/data-management-plans-for-the-snsf.html"
+    },
+    "temporal": {
+      "publication_date": "2018-09",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Data Management",
+        "Snsf For",
+        "Management Plans",
+        "En Internal",
+        "The DMP",
+        "For The"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DMP"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "DMP",
+        "one year"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 159
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "DMP"
+      ],
+      "semantic_concepts": [
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

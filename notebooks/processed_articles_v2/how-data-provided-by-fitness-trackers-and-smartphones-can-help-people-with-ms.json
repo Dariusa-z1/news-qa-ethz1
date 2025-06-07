@@ -1,0 +1,532 @@
+{
+  "filename": "how-data-provided-by-fitness-trackers-and-smartphones-can-help-people-with-ms.md",
+  "original_filename": "how-data-provided-by-fitness-trackers-and-smartphones-can-help-people-with-ms.html",
+  "source_path": "en_news_events/2024/04/how-data-provided-by-fitness-trackers-and-smartphones-can-help-people-with-ms.html",
+  "date": "2024-04",
+  "title": "How Data Provided By Fitness Trackers And Smartphones Can Help People With Ms",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- To manage multiple sclerosis (MS) and present the patient with suitable treatment options, physicians must have reliable information about that person’s symptoms and how the disease is progressing.\n\n- Researchers have shown that this information can be obtained from data collected by fitness trackers and smartphones.\n\n- The scientists propose taking such digital markers into account when monitoring and treating MS."
+    },
+    {
+      "heading": "Going off memory",
+      "text": "Multiple sclerosis (MS) is an insidious disease. Patients suffer because their immune system is attacking their own nerve fibres, which inhibits the transmission of nerve signals. People with MS experience mild to severe impairment of their motor function and sensory perception in a variety of ways. These impairments disrupt their daily activities and reduce their overall quality of life. As individual as the symptoms and progression of the disease are, so too is the way it is managed. To monitor the disease progression and be able to recommend effective treatments, physicians ask their patients on a regular basis to describe their symptoms, such as fatigue."
+    },
+    {
+      "heading": "Going off memory",
+      "text": "Patients are thus faced with the tricky task of having to provide information about their state of health and what they have been capable of over the past few weeks and even months from memory. The data gathered in this way can be inaccurate and incomplete because patients might misremember details or tailor their responses to social expectations. And since these responses have a significant impact on how the progression of the disease is recorded, it could be mismanaged.\n\n“Physicians would benefit from having access to reliable, frequent and long-term measurements of patients’ health parameters that give an accurate and comprehensive view of their state of health,” explains Shkurta Gashi. She is lead author of a new study and postdoc in the groups led by ETH Professors Christian Holz and Gunnar Rätsch at the Department of Computer Science as well as a fellow of the ETH AI Center.\n\nTogether with colleagues from ETH Zurich, the University Hospital Zurich, and the University of Zurich, Gashi has now shown that fitness trackers and smartphones can provide this kind of reliable long-term data with a high temporal resolution. Their study was published in the journal NPJ Digital Medicine ."
+    },
+    {
+      "heading": "Digital markers for MS",
+      "text": "The researchers recruited a group of volunteers – 55 with MS and a further 24 serving as control subjects – and provided each person with a fitness tracking armband. Over the course of two weeks, the researchers collected data from these wearable devices as well as from participants’ smartphones. They then performed statistical tests and a machine learning analysis of this data to identify reliable and clinically useful information.\n\nWhat proved particularly meaningful was the data on physical activity and heart rate, which was collected from participants’ wearable devices. The higher the participants’ disease severity and fatigue levels, the lower their physical activity and heart rate variability proved to be. Compared to the controls, MS patients took fewer steps per day, engaged in an overall lower level of physical activity and registered more consistent intervals between heartbeats."
+    },
+    {
+      "heading": "Multiple sclerosis",
+      "text": "How often people used their smartphone also delivered important information about their disease severity and fatigue levels: the less often a study participant used their phone, the greater their level of disability and the more severe their level of fatigue. The researchers gained insights into motor function through a game-like smartphone test. Developed at ETH a few years ago, this test requires the user to tap the screen as quickly as possible to make a virtual person move as fast as possible. Monitoring how fast a person taps and how their tapping frequency changes over time allows the researchers to draw conclusions about their motor skills and physical fatigue.\n\n“Altogether, the combination of data from the fitness tracker and smartphone lets us distinguish between healthy participants and those with MS with a high degree of accuracy,” Gashi says. “Combining information related to several aspects of the disease, including physiological, behavioural, motor performance and sleep information, is crucial for more effective and accurate monitoring of the disease.”"
+    },
+    {
+      "heading": "Reliable approach",
+      "text": "This new approach gives MS sufferers a straightforward way of collecting reliable and clinically useful long-term data as they go about their day-to-day lives. The researchers expect that this type of data can lead to better treatments and more effective disease management techniques: more comprehensive, precise and reliable data helps experts make better decisions and possibly even propose effective treatments sooner than before. What’s more, evaluating this patient data lets the experts verify the effectiveness of different treatments.\n\nThe researchers have now made their data set available to other scientists. They also point out the need for a larger study and more data to develop reliable and generalisable models for automatic evaluation. In the future, such models could enable MS patients to experience a significant improvement in their lives thanks to data from fitness trackers and smartphones.\n\nThe project was supported by the Swiss Data Science Center and the ETH Board's Personalised Health & Related Technologies initiative.\n\nMultiple sclerosis (MS) is a chronic disease of the central nervous system, affecting the brain and spinal cord. It is an autoimmune condition, which means that the body’s immune system attacks healthy tissue – in this case the myelin sheaths that insulate the nerve fibres. The myelin sheaths enable the nerve cells to transmit electrical signals quickly and efficiently back and forth. If the myelin layers are damaged or destroyed, the signals slow down or even stop.\n\nThe symptoms associated with MS vary greatly and depend on which area of the nervous system is affected. They range from fatigue and loss of sensation in the arms or legs to impaired vision, severe coordination problems and paralysis. The disease progresses differently in each person, which makes it harder to diagnose and treat. While there is no cure for MS, a variety of treatments are available to help lessen the severity of symptoms and improve sufferers’ quality of life. At present, physicians diagnose MS primarily through high-resolution magnetic resonance imaging (MRI) brain scans and by performing different medical tests to discard other possible diseases with similar presentations.\n\nGashi S, Oldrati P, Moebus M, Hilty M, Barrios L, Ozdemir F, PHRT Consortium, Kana V, Lutterotti A, Rätsch G, Holz C: Modeling multiple sclerosis using mobile and wearable sensor data. NPJ Digital Medicine, 11. März 2024, doi: 10.1038/s41746-024-01025-8"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 333,
+        "end": 338
+      },
+      {
+        "text": "the past few weeks",
+        "label": "DATE",
+        "start": 146,
+        "end": 164
+      },
+      {
+        "text": "months",
+        "label": "DATE",
+        "start": 174,
+        "end": 180
+      },
+      {
+        "text": "Shkurta Gashi",
+        "label": "PERSON",
+        "start": 683,
+        "end": 696
+      },
+      {
+        "text": "ETH Professors",
+        "label": "ORG",
+        "start": 765,
+        "end": 779
+      },
+      {
+        "text": "Christian Holz",
+        "label": "PERSON",
+        "start": 780,
+        "end": 794
+      },
+      {
+        "text": "Gunnar Rätsch",
+        "label": "PERSON",
+        "start": 799,
+        "end": 812
+      },
+      {
+        "text": "the Department of Computer Science",
+        "label": "ORG",
+        "start": 816,
+        "end": 850
+      },
+      {
+        "text": "the ETH AI Center",
+        "label": "ORG",
+        "start": 874,
+        "end": 891
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 923,
+        "end": 933
+      },
+      {
+        "text": "the University Hospital Zurich",
+        "label": "ORG",
+        "start": 935,
+        "end": 965
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 971,
+        "end": 995
+      },
+      {
+        "text": "Gashi",
+        "label": "PERSON",
+        "start": 997,
+        "end": 1002
+      },
+      {
+        "text": "NPJ Digital Medicine",
+        "label": "ORG",
+        "start": 1178,
+        "end": 1198
+      },
+      {
+        "text": "MS",
+        "label": "GPE",
+        "start": 58,
+        "end": 60
+      },
+      {
+        "text": "two weeks",
+        "label": "DATE",
+        "start": 185,
+        "end": 194
+      },
+      {
+        "text": "MS",
+        "label": "ORG",
+        "start": 747,
+        "end": 749
+      },
+      {
+        "text": "a few years ago",
+        "label": "DATE",
+        "start": 366,
+        "end": 381
+      },
+      {
+        "text": "MS",
+        "label": "GPE",
+        "start": 818,
+        "end": 820
+      },
+      {
+        "text": "Gashi",
+        "label": "PERSON",
+        "start": 854,
+        "end": 859
+      },
+      {
+        "text": "the Swiss Data Science Center",
+        "label": "ORG",
+        "start": 943,
+        "end": 972
+      },
+      {
+        "text": "the ETH Board's",
+        "label": "ORG",
+        "start": 977,
+        "end": 992
+      },
+      {
+        "text": "Personalised Health & Related Technologies",
+        "label": "ORG",
+        "start": 993,
+        "end": 1035
+      },
+      {
+        "text": "myelin",
+        "label": "PERSON",
+        "start": 1276,
+        "end": 1282
+      },
+      {
+        "text": "myelin",
+        "label": "PERSON",
+        "start": 1327,
+        "end": 1333
+      },
+      {
+        "text": "myelin",
+        "label": "PERSON",
+        "start": 1443,
+        "end": 1449
+      },
+      {
+        "text": "MS",
+        "label": "ORG",
+        "start": 1548,
+        "end": 1550
+      },
+      {
+        "text": "MS",
+        "label": "GPE",
+        "start": 1877,
+        "end": 1879
+      },
+      {
+        "text": "Gashi S",
+        "label": "ORG",
+        "start": 2218,
+        "end": 2225
+      },
+      {
+        "text": "Oldrati P",
+        "label": "ORG",
+        "start": 2227,
+        "end": 2236
+      },
+      {
+        "text": "Moebus M",
+        "label": "ORG",
+        "start": 2238,
+        "end": 2246
+      },
+      {
+        "text": "Hilty M",
+        "label": "PERSON",
+        "start": 2248,
+        "end": 2255
+      },
+      {
+        "text": "Barrios L",
+        "label": "PRODUCT",
+        "start": 2257,
+        "end": 2266
+      },
+      {
+        "text": "Kana V, Lutterotti A",
+        "label": "PERSON",
+        "start": 2296,
+        "end": 2316
+      },
+      {
+        "text": "Rätsch",
+        "label": "GPE",
+        "start": 2318,
+        "end": 2324
+      },
+      {
+        "text": "NPJ Digital Medicine",
+        "label": "ORG",
+        "start": 2403,
+        "end": 2423
+      },
+      {
+        "text": "März 2024",
+        "label": "DATE",
+        "start": 2429,
+        "end": 2438
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2445,
+        "end": 2452
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christian Holz",
+        "Gashi",
+        "Gunnar Rätsch",
+        "Hilty M",
+        "Kana V, Lutterotti A",
+        "Shkurta Gashi",
+        "myelin"
+      ],
+      "ORG": [
+        "ETH Professors",
+        "ETH Zurich",
+        "Gashi S",
+        "MS",
+        "Moebus M",
+        "NPJ Digital Medicine",
+        "Oldrati P",
+        "Personalised Health & Related Technologies",
+        "the Department of Computer Science",
+        "the ETH AI Center",
+        "the ETH Board's",
+        "the Swiss Data Science Center",
+        "the University Hospital Zurich",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "MS",
+        "Rätsch"
+      ],
+      "DATE": [
+        "März 2024",
+        "a few years ago",
+        "daily",
+        "months",
+        "the past few weeks",
+        "two weeks"
+      ],
+      "MISC": [
+        "10.1038",
+        "Barrios L"
+      ]
+    },
+    "entity_counts": {
+      "MS": 5,
+      "myelin": 3,
+      "Gashi": 2,
+      "NPJ Digital Medicine": 2,
+      "daily": 1,
+      "the past few weeks": 1,
+      "months": 1,
+      "Shkurta Gashi": 1,
+      "ETH Professors": 1,
+      "Christian Holz": 1,
+      "Gunnar Rätsch": 1,
+      "the Department of Computer Science": 1,
+      "the ETH AI Center": 1,
+      "ETH Zurich": 1,
+      "the University Hospital Zurich": 1,
+      "the University of Zurich": 1,
+      "two weeks": 1,
+      "a few years ago": 1,
+      "the Swiss Data Science Center": 1,
+      "the ETH Board's": 1
+    },
+    "total_entities": 38,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-data-provided-by-fitness-trackers-and-smartphones-can-help-people-with-ms.md",
+      "title": "En News Events/2024/04/how Data Provided By Fitness Trackers And Smartphones Can Help People With Ms",
+      "language": "en",
+      "source_path": "en_news_events/2024/04/how-data-provided-by-fitness-trackers-and-smartphones-can-help-people-with-ms.html"
+    },
+    "temporal": {
+      "publication_date": "2024-04",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christian Holz",
+        "Gashi",
+        "Gunnar Rätsch",
+        "Hilty M",
+        "Kana V, Lutterotti A",
+        "Shkurta Gashi",
+        "myelin"
+      ],
+      "people_with_roles": {
+        "Christian Holz": [
+          "professor"
+        ],
+        "Gunnar Rätsch": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Barrios L"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Smartphones Can",
+        "ETH Board",
+        "Christian Holz",
+        "University Hospital",
+        "Lutterotti A",
+        "Help People",
+        "Barrios L",
+        "Holz C",
+        "Kana V",
+        "Gashi S",
+        "Ozdemir F",
+        "ETH Professors",
+        "With Ms",
+        "Data Provided",
+        "Science Center",
+        "Moebus M",
+        "ETH AI",
+        "Shkurta Gashi",
+        "Trackers And",
+        "Computer Science",
+        "PHRT Consortium",
+        "En News",
+        "Hilty M",
+        "NPJ Digital",
+        "Related Technologies",
+        "Oldrati P",
+        "Personalised Health",
+        "ETH Zurich",
+        "By Fitness",
+        "Swiss Data"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Computer Science as well as a fellow of the ETH AI Center"
+      ],
+      "institutions": [
+        "ETH Professors",
+        "ETH Zurich",
+        "Gashi S",
+        "MS",
+        "Moebus M",
+        "NPJ Digital Medicine",
+        "Oldrati P",
+        "Personalised Health & Related Technologies",
+        "the Department of Computer Science",
+        "the ETH AI Center",
+        "the ETH Board's",
+        "the Swiss Data Science Center",
+        "the University Hospital Zurich",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "MS",
+        "Rätsch"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "MS",
+        "myelin",
+        "Gashi",
+        "NPJ Digital Medicine",
+        "daily",
+        "the past few weeks",
+        "months",
+        "Shkurta Gashi",
+        "ETH Professors",
+        "Christian Holz"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "In brief",
+          "Going off memory",
+          "Going off memory",
+          "Digital markers for MS",
+          "Multiple sclerosis",
+          "Reliable approach"
+        ],
+        "content_length": 6853
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Swiss Data Science Center",
+        "the University of Zurich",
+        "Christian Holz",
+        "Gashi",
+        "Personalised Health & Related Technologies",
+        "the ETH AI Center",
+        "ERC",
+        "Gashi S",
+        "Kana V, Lutterotti A",
+        "ETH Professors",
+        "myelin",
+        "NPJ Digital Medicine",
+        "Gunnar Rätsch",
+        "Moebus M",
+        "Shkurta Gashi",
+        "the University Hospital Zurich",
+        "2024",
+        "Hilty M",
+        "the ETH Board's",
+        "Oldrati P",
+        "ETH Zurich",
+        "MS",
+        "the Department of Computer Science"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "computer_science",
+        "who",
+        "10.1038",
+        "where",
+        "Barrios L",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Christian Holz_has_role_professor",
+        "Gunnar Rätsch_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

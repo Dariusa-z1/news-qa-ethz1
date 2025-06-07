@@ -1,0 +1,205 @@
+{
+  "filename": "dem-mond-so-nah--im-bann-der-anziehungskraft-unseres-erdtrabanten.md",
+  "original_filename": "dem-mond-so-nah--im-bann-der-anziehungskraft-unseres-erdtrabanten.html",
+  "source_path": "en_internal/2019/06/dem-mond-so-nah--im-bann-der-anziehungskraft-unseres-erdtrabanten.html",
+  "date": "2019-06",
+  "title": "Dem Mond So Nah Im Bann Der Anziehungskraft Unseres Erdtrabanten",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "New: “Mallow, iris, orchid” now also available in audio",
+      "text": "This was also a major step for research: thanks to the Apollo mission, but also transported via meteorites, moon rock samples could be analysed at ETH Zurich to shed light on the origins and surface of the moon.\n\nHowever, the moon was also a source of inspiration for artists – for poems, songs or paintings from the Romantic era or even still to this day in contemporary art.\n\nFind out more about the research and mysteries concerning the moon in the new Explora story."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "Explora is ETH Library’s multimedia storytelling platform."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Bann der",
+        "label": "ORG",
+        "start": 39,
+        "end": 47
+      },
+      {
+        "text": "Anziehungskraft Unseres",
+        "label": "ORG",
+        "start": 48,
+        "end": 71
+      },
+      {
+        "text": "Apollo",
+        "label": "ORG",
+        "start": 55,
+        "end": 61
+      },
+      {
+        "text": "moon rock",
+        "label": "GPE",
+        "start": 108,
+        "end": 117
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 147,
+        "end": 157
+      },
+      {
+        "text": "this day",
+        "label": "DATE",
+        "start": 346,
+        "end": 354
+      },
+      {
+        "text": "Explora",
+        "label": "PERSON",
+        "start": 454,
+        "end": 461
+      },
+      {
+        "text": "Explora",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 11,
+        "end": 24
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library’s",
+        "Explora"
+      ],
+      "ORG": [
+        "Anziehungskraft Unseres",
+        "Apollo",
+        "Bann der",
+        "ETH Zurich"
+      ],
+      "LOCATION": [
+        "moon rock"
+      ],
+      "DATE": [
+        "this day"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Explora": 2,
+      "Bann der": 1,
+      "Anziehungskraft Unseres": 1,
+      "Apollo": 1,
+      "moon rock": 1,
+      "ETH Zurich": 1,
+      "this day": 1,
+      "ETH Library’s": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "dem-mond-so-nah--im-bann-der-anziehungskraft-unseres-erdtrabanten.md",
+      "title": "En Internal/2019/06/dem Mond So Nah Im Bann der Anziehungskraft Unseres Erdtrabanten",
+      "language": "en",
+      "source_path": "en_internal/2019/06/dem-mond-so-nah--im-bann-der-anziehungskraft-unseres-erdtrabanten.html"
+    },
+    "temporal": {
+      "publication_date": "2019-06",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library’s",
+        "Explora"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Erdtrabanten This",
+        "Anziehungskraft Unseres",
+        "ETH Library",
+        "Mond So",
+        "En Internal",
+        "Nah Im",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Anziehungskraft Unseres",
+        "Apollo",
+        "Bann der",
+        "ETH Zurich"
+      ],
+      "locations": [
+        "moon rock"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Explora",
+        "Bann der",
+        "Anziehungskraft Unseres",
+        "Apollo",
+        "moon rock",
+        "ETH Zurich",
+        "this day",
+        "ETH Library’s"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "New: “Mallow, iris, orchid” now also available in audio",
+          "Staffnet"
+        ],
+        "content_length": 614
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Anziehungskraft Unseres",
+        "2019",
+        "Bann der",
+        "Apollo",
+        "Explora",
+        "ETH Zurich",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "what",
+        "how"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

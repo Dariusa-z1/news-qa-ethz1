@@ -1,0 +1,575 @@
+{
+  "filename": "quelloffener-mikroprozessor.md",
+  "original_filename": "quelloffener-mikroprozessor.html",
+  "source_path": "de_news_events/2016/03/quelloffener-mikroprozessor.html",
+  "date": "2016-03",
+  "title": "Quelloffener Mikroprozessor",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Prozessor für tragbare Mikrosysteme",
+      "text": "Quelltexte von Software und Baupläne von Hardware sind in der Regel gut gehütete Geschäftsgeheimnisse. Nicht so bei Open-Source-Produkten. Der Code von Open-Source-Software beispielsweise ist allen frei zugänglich. Bekanntestes Beispiel ist das Betriebssystem Linux. Interessierten Entwicklern ist es möglich, die Software nicht nur zu nutzen, sondern sie auch weiterzuentwickeln und ihren Bedürfnissen anzupassen.\n\nAuch im Hardware-Bereich gibt es solche Open-Source-Produkte. Beispiele sind grundsätzlich quelloffene Einplatinencomputer wie Arduino oder Raspberry Pi, von denen Baupläne verfügbar sind. Allerdings basieren diese auf kommerziellen Chips, deren interne Architektur nicht Open-Source ist. Vor wenigen Tagen haben nun Wissenschaftler der ETH Zürich und der Universität Bologna unter der Leitung von ETH-Professor Luca Benini den Bauplan eines von ihnen entwickelten Mikroprozessorsystems veröffentlicht – und zwar so, dass die Freiheit anderer Entwickler, das System zu nutzen und verändern, maximal ist, wie Benini betont. «Es ist nun möglich, Open-Source-Hardware wirklich von Grund auf zu konstruieren.»\n\n«Bei vielen bisherigen Beispielen von Open-Source-Hardware ist die Nutzung durch exklusive Vermarktungsrechte und Konkurrenzverbote eingeschränkt», sagt Benini. «Bei unserem System hingegen sehen die Lizenzbedingungen keine solche Einschränkungen vor.» Die Rechenbefehle, welche der Mikroprozessor ausführen kann, sind ebenfalls Open Source: Die Wissenschaftler machten den Prozessor kompatibel mit einem Open-Source-Befehlssatz – RISC-V –, der an der University of California in Berkeley entwickelt wurde."
+    },
+    {
+      "heading": "Prozessor für tragbare Mikrosysteme",
+      "text": "Der neuentwickelte Prozessor heisst Pulpino und ist für batteriebetriebene Geräte mit äusserst geringem Energiebedarf vorgesehen – Pulp steht für «parallel ultra low power». Dies könnten Chips für kleine Geräte wie Smartwatches sein, für Sensoren zur Überwachung von Körperfunktionen (die mit einer Pulsuhr kommunizieren können) oder für neuartige Sensoren für das Internet der Dinge."
+    },
+    {
+      "heading": "Interessant für die Industrie",
+      "text": "Benini gibt ein Beispiel aus der aktuellen Forschung in seinem Labor: «Wir entwickeln mit dem Pulpino-Prozessor eine mit Elektronik und einer Mikrokamera bestückte Smartwatch. Sie kann visuelle Informationen auswerten und daraus den Aufenthaltsort des Benutzers bestimmen. Die Idee ist, dass eine solche Smartwatch dereinst etwa Heimelektronik ansteuern könnte.» Dies alles auf kleinstem Raum auf einem Mikroprozessor unterzubringen mit einer winzigen Leistung von nur wenigen Milliwatt, sei eine Herausforderung, zumal die Rechenkapazität für die Bildauswertung ausreichend gross sein müsse.\n\nAuch in anderen Forschungsprojekten, die Benini mit Schweizer und europäischen Forschungseinrichtungen unterhält, unter anderem mit der Universität Cambridge, kommt Plupino zum Einsatz. Davon, dass der Prozessor nun Open Source ist, erhofft sich der ETH-Professor viel: «Solche Forschungsprojekte kamen bisher vor allem aufgrund von persönlichen Kontakten zustande, und für jedes Projekt mussten die beteiligten Partner die jeweiligen Nutzungsverträge von neuem aushandeln. Nun ist Pulpino viel besser verfügbar. Wir hoffen, dass es in Zukunft mehr Zusammenarbeiten gibt und diese auch einfacher werden.»\n\nSo möchten die Wissenschaftler gemeinsam mit anderen Projektpartnern akademisch interessante Erweiterungen zu Pulpino entwickeln. Diese wären dann ebenfalls Open Source. Auf diese Weise würde die Zahl der Funktionskomponenten der Hardware stetig wachsen.\n\nDoch Pulpino soll auch dem für die Schweiz und Europa so typischen KMU-Umfeld zugutekommen. «Die Produktion von Mikrochips ist in den letzten Jahren billig geworden, weil Halbleiterhersteller grosse Produktionskapazitäten aufgebaut haben, die sie auslasten müssen», erklärt Benini. Teurer ist die Entwicklung der Prozessoren: «Es wäre viel zu aufwendig, einen komplexen Chip von Grund auf neu zu entwickeln, insbesondere für KMU. Stattdessen kaufen Entwickler in der Regel einzelne Funktions-Komponenten ein, welche sie ins Chip-Design integrieren. Die Lizenzgebühren für diese Komponenten sind oft ein wesentlicher Teil der gesamten Entstehungskosten.»\n\nMit dem Open-Source-Chip, für den keine Lizenzgebühren anfallen, sinken die Entwicklungskosten deutlich, wovon die KMU profitieren, aber auch die ETH, wie Benini betont: «Es könnten so neue Forschungs- und Entwicklungspartnerschaften mit der Industrie entstehen, um gemeinsam auf der Basis von Pulpino neuartige Chip-Komponenten zu entwickeln.» Die Entwickler von Pulpino planen daher, ihren Mikroprozessor in diesem Jahr der Open-Source-Hardware-Gemeinschaft noch besser bekannt zu machen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Mikroprozessor",
+        "label": "MISC",
+        "start": 36,
+        "end": 50
+      },
+      {
+        "text": "Quelltexte von Software",
+        "label": "PER",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "Open-Source-Produkten",
+        "label": "MISC",
+        "start": 116,
+        "end": 137
+      },
+      {
+        "text": "Bekanntestes",
+        "label": "PER",
+        "start": 215,
+        "end": 227
+      },
+      {
+        "text": "Linux",
+        "label": "MISC",
+        "start": 260,
+        "end": 265
+      },
+      {
+        "text": "Hardware-Bereich",
+        "label": "LOC",
+        "start": 423,
+        "end": 439
+      },
+      {
+        "text": "Arduino",
+        "label": "PER",
+        "start": 542,
+        "end": 549
+      },
+      {
+        "text": "Raspberry Pi",
+        "label": "PER",
+        "start": 555,
+        "end": 567
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 752,
+        "end": 762
+      },
+      {
+        "text": "Universität Bologna",
+        "label": "ORG",
+        "start": 771,
+        "end": 790
+      },
+      {
+        "text": "ETH-Professor Luca Benini",
+        "label": "PER",
+        "start": 813,
+        "end": 838
+      },
+      {
+        "text": "Benini",
+        "label": "PER",
+        "start": 1023,
+        "end": 1029
+      },
+      {
+        "text": "Open-Source-Hardware",
+        "label": "LOC",
+        "start": 1059,
+        "end": 1079
+      },
+      {
+        "text": "Benini",
+        "label": "PER",
+        "start": 1274,
+        "end": 1280
+      },
+      {
+        "text": "Rechenbefehle",
+        "label": "LOC",
+        "start": 1378,
+        "end": 1391
+      },
+      {
+        "text": "Mikroprozessor",
+        "label": "MISC",
+        "start": 1404,
+        "end": 1418
+      },
+      {
+        "text": "Prozessor",
+        "label": "MISC",
+        "start": 1495,
+        "end": 1504
+      },
+      {
+        "text": "RISC-V",
+        "label": "MISC",
+        "start": 1552,
+        "end": 1558
+      },
+      {
+        "text": "University of California",
+        "label": "ORG",
+        "start": 1573,
+        "end": 1597
+      },
+      {
+        "text": "Berkeley",
+        "label": "ORG",
+        "start": 1601,
+        "end": 1609
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 365,
+        "end": 373
+      },
+      {
+        "text": "Benini",
+        "label": "PER",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Benutzers",
+        "label": "LOC",
+        "start": 252,
+        "end": 261
+      },
+      {
+        "text": "Heimelektronik",
+        "label": "PER",
+        "start": 329,
+        "end": 343
+      },
+      {
+        "text": "Mikroprozessor",
+        "label": "MISC",
+        "start": 403,
+        "end": 417
+      },
+      {
+        "text": "Benini",
+        "label": "ORG",
+        "start": 634,
+        "end": 640
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 645,
+        "end": 654
+      },
+      {
+        "text": "europäischen",
+        "label": "MISC",
+        "start": 659,
+        "end": 671
+      },
+      {
+        "text": "Universität Cambridge",
+        "label": "ORG",
+        "start": 729,
+        "end": 750
+      },
+      {
+        "text": "Plupino",
+        "label": "PER",
+        "start": 758,
+        "end": 765
+      },
+      {
+        "text": "Prozessor",
+        "label": "MISC",
+        "start": 795,
+        "end": 804
+      },
+      {
+        "text": "ETH-Professor",
+        "label": "MISC",
+        "start": 843,
+        "end": 856
+      },
+      {
+        "text": "Pulpino",
+        "label": "LOC",
+        "start": 1075,
+        "end": 1082
+      },
+      {
+        "text": "Pulpino",
+        "label": "PER",
+        "start": 1458,
+        "end": 1465
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 1488,
+        "end": 1495
+      },
+      {
+        "text": "Europa",
+        "label": "LOC",
+        "start": 1500,
+        "end": 1506
+      },
+      {
+        "text": "KMU-Umfeld",
+        "label": "MISC",
+        "start": 1520,
+        "end": 1530
+      },
+      {
+        "text": "Benini",
+        "label": "PER",
+        "start": 1727,
+        "end": 1733
+      },
+      {
+        "text": "Prozessoren",
+        "label": "MISC",
+        "start": 1766,
+        "end": 1777
+      },
+      {
+        "text": "Funktions-Komponenten",
+        "label": "MISC",
+        "start": 1935,
+        "end": 1956
+      },
+      {
+        "text": "Open-Source-Chip",
+        "label": "MISC",
+        "start": 2115,
+        "end": 2131
+      },
+      {
+        "text": "KMU",
+        "label": "ORG",
+        "start": 2222,
+        "end": 2225
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2253,
+        "end": 2256
+      },
+      {
+        "text": "Benini",
+        "label": "PER",
+        "start": 2262,
+        "end": 2268
+      },
+      {
+        "text": "Pulpino",
+        "label": "PER",
+        "start": 2401,
+        "end": 2408
+      },
+      {
+        "text": "Pulpino",
+        "label": "PER",
+        "start": 2471,
+        "end": 2478
+      },
+      {
+        "text": "Mikroprozessor",
+        "label": "MISC",
+        "start": 2499,
+        "end": 2513
+      },
+      {
+        "text": "Open-Source-Hardware-Gemeinschaft",
+        "label": "MISC",
+        "start": 2533,
+        "end": 2566
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Arduino",
+        "Bekanntestes",
+        "Benini",
+        "ETH-Professor Luca Benini",
+        "Heimelektronik",
+        "Plupino",
+        "Pulpino",
+        "Quelltexte von Software",
+        "Raspberry Pi"
+      ],
+      "ORG": [
+        "Benini",
+        "Berkeley",
+        "ETH",
+        "ETH Zürich",
+        "KMU",
+        "University of California",
+        "Universität Bologna",
+        "Universität Cambridge"
+      ],
+      "LOCATION": [
+        "Benutzers",
+        "Europa",
+        "Hardware-Bereich",
+        "Open-Source-Hardware",
+        "Pulpino",
+        "Rechenbefehle",
+        "Schweiz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Professor",
+        "Funktions-Komponenten",
+        "Internet",
+        "KMU-Umfeld",
+        "Linux",
+        "Mikroprozessor",
+        "Open-Source-Chip",
+        "Open-Source-Hardware-Gemeinschaft",
+        "Open-Source-Produkten",
+        "Prozessor",
+        "Prozessoren",
+        "RISC-V",
+        "Schweizer",
+        "europäischen"
+      ]
+    },
+    "entity_counts": {
+      "Benini": 6,
+      "Mikroprozessor": 4,
+      "Pulpino": 4,
+      "Prozessor": 2,
+      "Quelltexte von Software": 1,
+      "Open-Source-Produkten": 1,
+      "Bekanntestes": 1,
+      "Linux": 1,
+      "Hardware-Bereich": 1,
+      "Arduino": 1,
+      "Raspberry Pi": 1,
+      "ETH Zürich": 1,
+      "Universität Bologna": 1,
+      "ETH-Professor Luca Benini": 1,
+      "Open-Source-Hardware": 1,
+      "Rechenbefehle": 1,
+      "RISC-V": 1,
+      "University of California": 1,
+      "Berkeley": 1,
+      "Internet": 1
+    },
+    "total_entities": 48,
+    "unique_entities": 36
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "quelloffener-mikroprozessor.md",
+      "title": "De News Events/2016/03/quelloffener Mikroprozessor",
+      "language": "de",
+      "source_path": "de_news_events/2016/03/quelloffener-mikroprozessor.html"
+    },
+    "temporal": {
+      "publication_date": "2016-03",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Arduino",
+        "Bekanntestes",
+        "Benini",
+        "ETH-Professor Luca Benini",
+        "Heimelektronik",
+        "Plupino",
+        "Pulpino",
+        "Quelltexte von Software",
+        "Raspberry Pi"
+      ],
+      "people_with_roles": {
+        "Benini": [
+          "professor"
+        ],
+        "ETH-Professor Luca Benini": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "ETH-Professor",
+        "Funktions-Komponenten",
+        "Internet",
+        "KMU-Umfeld",
+        "Linux",
+        "Mikroprozessor",
+        "Open-Source-Chip",
+        "Open-Source-Hardware-Gemeinschaft",
+        "Open-Source-Produkten",
+        "Prozessor",
+        "Prozessoren",
+        "RISC-V",
+        "Schweizer",
+        "europäischen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Die Entwickler",
+        "Solche Forschungsprojekte",
+        "ETH-Professor",
+        "KMU-Umfeld",
+        "Luca Benini",
+        "Funktions-Komponenten",
+        "Raspberry Pi",
+        "Open Source",
+        "Betriebssystem Linux",
+        "Interessierten Entwicklern",
+        "Mikroprozessor Quelltexte",
+        "Die Wissenschaftler",
+        "Die Idee",
+        "Bekanntestes Beispiel",
+        "Hardware-Bereich",
+        "Die Produktion",
+        "Chip-Komponenten",
+        "Doch Pulpino",
+        "Open-Source",
+        "Hardware-Gemeinschaft",
+        "RISC-V",
+        "De News",
+        "Pulpino-Prozessor",
+        "Der Code",
+        "Die Rechenbefehle",
+        "Chip-Design"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Benini",
+        "Berkeley",
+        "ETH",
+        "ETH Zürich",
+        "KMU",
+        "University of California",
+        "Universität Bologna",
+        "Universität Cambridge"
+      ],
+      "locations": [
+        "Benutzers",
+        "Europa",
+        "Hardware-Bereich",
+        "Open-Source-Hardware",
+        "Pulpino",
+        "Rechenbefehle",
+        "Schweiz"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "where"
+      ],
+      "key_concepts": [
+        "Benini",
+        "Mikroprozessor",
+        "Pulpino",
+        "Prozessor",
+        "Quelltexte von Software",
+        "Open-Source-Produkten",
+        "Bekanntestes",
+        "Linux",
+        "Hardware-Bereich",
+        "Arduino"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Prozessor für tragbare Mikrosysteme",
+          "Prozessor für tragbare Mikrosysteme",
+          "Interessant für die Industrie"
+        ],
+        "content_length": 4667
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Heimelektronik",
+        "Pulpino",
+        "ETH",
+        "Raspberry Pi",
+        "University of California",
+        "Quelltexte von Software",
+        "EU",
+        "Berkeley",
+        "ETH-Professor Luca Benini",
+        "KMU",
+        "Universität Bologna",
+        "ETH Zürich",
+        "2016",
+        "Plupino",
+        "Benini",
+        "Universität Cambridge",
+        "Bekanntestes",
+        "Arduino"
+      ],
+      "semantic_concepts": [
+        "Funktions-Komponenten",
+        "Open-Source-Chip",
+        "Open-Source-Produkten",
+        "Schweizer",
+        "Internet",
+        "Linux",
+        "Prozessoren",
+        "who",
+        "Open-Source-Hardware-Gemeinschaft",
+        "Mikroprozessor",
+        "Prozessor",
+        "RISC-V",
+        "europäischen",
+        "ETH-Professor",
+        "KMU-Umfeld",
+        "computer_science",
+        "where"
+      ],
+      "graph_relations": [
+        "Benini_has_role_professor",
+        "ETH-Professor Luca Benini_has_role_professor",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "filename": "how-a-large-protein-complex-assembles-in-a-cell.md",
+  "original_filename": "how-a-large-protein-complex-assembles-in-a-cell.html",
+  "source_path": "en_news_events/2020/12/how-a-large-protein-complex-assembles-in-a-cell.html",
+  "date": "2020-12",
+  "title": "How A Large Protein Complex Assembles In A Cell",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Inspired by metabolic analysis",
+      "text": "Cells produce a great number of different protein complexes, each of which is made up of many individual proteins. These protein complexes, like ribosomes for example, are what regulate almost all of a cell’s life-sustaining biological functions.\n\nBiologists have succeeded in determining the structure of many of these complexes, but there is less research so far on how the individual proteins assemble and then change over time. Conventional approaches have thus far proved insufficient for studying the exact course that these reactions in cells take, especially where large complexes are concerned.\n\nA group of ETH researchers led by Karsten Weis and research associate Evgeny Onischenko at ETH Zurich’s Institute of Biochemistry are now presenting a new approach. Their method makes it possible to track the dynamics of protein complex assemblies, even for very large ones, with high temporal resolution. The study has just been published in the journal Cell ."
+    },
+    {
+      "heading": "Inspired by metabolic analysis",
+      "text": "The ETH researchers call their new approach KARMA, which stands for kinetic analysis of incorporation rates in macromolecular assemblies and is based on methods for investigating metabolic processes. Scientists researching metabolism have long used radioactive carbon in their work, e.g., to label glucose molecules, which cells then take up and metabolise. The radioactive labelling enables researchers to track where and at what point in time the glucose molecules or their metabolites appear.\n\n“This type of research inspired us to apply a similar principle in exploring the reactions that take place in the assembly of protein complexes,” Weis explains. In their approach, the ETH researchers work with labelled amino acids, the fundamental building blocks of proteins, which contain heavier carbon and nitrogen isotopes. In a culture of yeast cells, the team replaces the lightweight amino acids with their heavier counterparts. The yeast uses these heavy amino acids in protein synthesis, which shifts the molecular weight of all newly produced proteins."
+    },
+    {
+      "heading": "A time scale for the assembly of a complex",
+      "text": "To isolate protein complexes, the researchers remove yeast cells from the cultures at regular intervals and employ mass spectrometry to measure the tiny weight difference between molecules with heavier amino acids and those without. This indicates the age of a protein in a complex. Basically, the older the protein, the earlier it was incorporated into the complex. Based on these age differences, the researchers apply kinetic state models to ultimately reconstruct the precise assembly sequence of a given protein complex.\n\nAs a case study to validate their method, Weis and his team chose the nuclear pore complex in yeast cells. This structure has some 500 to 1,000 elements composed of about 30 different proteins each in multiple copies, thus making it one of the largest known protein complexes.\n\nUsing KARMA, the ETH biochemists were able to obtain a detailed map of which modules are integrated into the structure and when. One of their findings was a hierarchical principle: individual proteins form subunits within a very short time, which then assemble from the centre out to the periphery in a specific sequence."
+    },
+    {
+      "heading": "Durable scaffold",
+      "text": "“We’ve demonstrated for the first time that some proteins are used very quickly in the assembly of the pore complex, while others are incorporated only after about an hour. That’s an incredibly long time,” Weis says. A yeast cell divides every 90 minutes, which means it would take almost a whole generation to complete assembly of this vital pore complex. Precisely why the assembly of new pores takes so long in relation to the yeast reproduction cycle is not known.\n\nThe ETH researchers also show that once assembly of the pore is complete, parts of the complex are highly stable and durable – in the inner scaffold, for example, hardly any components are replaced during its lifetime. By contrast, proteins at the periphery of the nuclear pore complex are frequently replaced."
+    },
+    {
+      "heading": "Defective nuclear pores facilitate disease",
+      "text": "Nuclear pores are some of the most important protein complexes in cells, as they are responsible for the exchange of substances and molecules between the cell nucleus and cytoplasm. For example, they transport messenger RNA from the nucleus to the cellular machinery outside the nucleus, which needs these molecules as blueprints for new proteins.\n\nMoreover, nuclear pores play direct and indirect roles in human disease. Accordingly, changes in the nuclear pore and its proteins can impact the development of conditions like leukaemia, diabetes or neurodegenerative diseases such as Alzheimer’s. “Generally speaking, though, the reasons why pore defects cause these disease patterns are not well understood,” Weis says, explaining that KARMA might help to gain deeper insight into such issues in the future."
+    },
+    {
+      "heading": "Versatile platform",
+      "text": "“Although we applied KARMA to only one protein complex in this study, we’re excited about its future applications. Our method will now enable us to decipher the sequence of a whole host of biological processes,” Weis says. Their technique can be used, for example, to study molecular events that occur during the infection cycle of viruses such as COVID-19 and potentially help to find new drug candidates that break that cycle.\n\nThe new method can also be applied to other biological molecules besides proteins, such as RNA or lipids.\n\nOnischenko E, Noor E, Fischer JS, Gillet L, Wojtynek M, Vallotton P, Weis K: Maturation Kinetics of a Multiprotein Complex Revealed by Metabolic Labeling, Cell, Available online 16 December 2020. DOI: 10.1016/j.cell.2020.11.001"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 614,
+        "end": 617
+      },
+      {
+        "text": "Karsten Weis",
+        "label": "PERSON",
+        "start": 637,
+        "end": 649
+      },
+      {
+        "text": "Evgeny Onischenko",
+        "label": "PERSON",
+        "start": 673,
+        "end": 690
+      },
+      {
+        "text": "ETH Zurich’s Institute of Biochemistry",
+        "label": "ORG",
+        "start": 694,
+        "end": 732
+      },
+      {
+        "text": "Cell",
+        "label": "PRODUCT",
+        "start": 958,
+        "end": 962
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "KARMA",
+        "label": "ORG",
+        "start": 44,
+        "end": 49
+      },
+      {
+        "text": "Weis",
+        "label": "PERSON",
+        "start": 642,
+        "end": 646
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 680,
+        "end": 683
+      },
+      {
+        "text": "Weis",
+        "label": "PERSON",
+        "start": 568,
+        "end": 572
+      },
+      {
+        "text": "some 500 to 1,000",
+        "label": "CARDINAL",
+        "start": 652,
+        "end": 669
+      },
+      {
+        "text": "about 30",
+        "label": "CARDINAL",
+        "start": 691,
+        "end": 699
+      },
+      {
+        "text": "KARMA",
+        "label": "ORG",
+        "start": 809,
+        "end": 814
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 820,
+        "end": 823
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 932,
+        "end": 935
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 28,
+        "end": 33
+      },
+      {
+        "text": "about an hour",
+        "label": "TIME",
+        "start": 158,
+        "end": 171
+      },
+      {
+        "text": "Weis",
+        "label": "PERSON",
+        "start": 206,
+        "end": 210
+      },
+      {
+        "text": "every 90 minutes",
+        "label": "TIME",
+        "start": 238,
+        "end": 254
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 473,
+        "end": 476
+      },
+      {
+        "text": "Weis",
+        "label": "PERSON",
+        "start": 709,
+        "end": 713
+      },
+      {
+        "text": "KARMA",
+        "label": "ORG",
+        "start": 736,
+        "end": 741
+      },
+      {
+        "text": "KARMA",
+        "label": "ORG",
+        "start": 21,
+        "end": 26
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 30,
+        "end": 38
+      },
+      {
+        "text": "Weis",
+        "label": "PERSON",
+        "start": 212,
+        "end": 216
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 348,
+        "end": 356
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 520,
+        "end": 523
+      },
+      {
+        "text": "Onischenko E",
+        "label": "PERSON",
+        "start": 535,
+        "end": 547
+      },
+      {
+        "text": "Gillet L",
+        "label": "ORG",
+        "start": 569,
+        "end": 577
+      },
+      {
+        "text": "Wojtynek M",
+        "label": "ORG",
+        "start": 579,
+        "end": 589
+      },
+      {
+        "text": "Vallotton P",
+        "label": "ORG",
+        "start": 591,
+        "end": 602
+      },
+      {
+        "text": "Metabolic Labeling",
+        "label": "PERSON",
+        "start": 670,
+        "end": 688
+      },
+      {
+        "text": "16 December 2020",
+        "label": "DATE",
+        "start": 713,
+        "end": 729
+      },
+      {
+        "text": "10.1016/j.cell.2020.11.001",
+        "label": "CARDINAL",
+        "start": 736,
+        "end": 762
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Evgeny Onischenko",
+        "Karsten Weis",
+        "Metabolic Labeling",
+        "Onischenko E",
+        "Weis"
+      ],
+      "ORG": [
+        "COVID-19",
+        "ETH",
+        "ETH Zurich’s Institute of Biochemistry",
+        "Gillet L",
+        "KARMA",
+        "RNA",
+        "Vallotton P",
+        "Wojtynek M"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "16 December 2020",
+        "about an hour",
+        "every 90 minutes"
+      ],
+      "MISC": [
+        "10.1016/j.cell.2020.11.001",
+        "Cell",
+        "One",
+        "about 30",
+        "first",
+        "only one",
+        "some 500 to 1,000"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "Weis": 5,
+      "KARMA": 4,
+      "Karsten Weis": 1,
+      "Evgeny Onischenko": 1,
+      "ETH Zurich’s Institute of Biochemistry": 1,
+      "Cell": 1,
+      "some 500 to 1,000": 1,
+      "about 30": 1,
+      "One": 1,
+      "first": 1,
+      "about an hour": 1,
+      "every 90 minutes": 1,
+      "only one": 1,
+      "COVID-19": 1,
+      "RNA": 1,
+      "Onischenko E": 1,
+      "Gillet L": 1,
+      "Wojtynek M": 1,
+      "Vallotton P": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-a-large-protein-complex-assembles-in-a-cell.md",
+      "title": "En News Events/2020/12/how A Large Protein Complex Assembles in A Cell",
+      "language": "en",
+      "source_path": "en_news_events/2020/12/how-a-large-protein-complex-assembles-in-a-cell.html"
+    },
+    "temporal": {
+      "publication_date": "2020-12",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Evgeny Onischenko",
+        "Karsten Weis",
+        "Metabolic Labeling",
+        "Onischenko E",
+        "Weis"
+      ],
+      "people_with_roles": {
+        "Evgeny Onischenko": [
+          "researcher"
+        ],
+        "Karsten Weis": [
+          "researcher"
+        ],
+        "Weis": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1016/j.cell.2020.11.001",
+        "Cell",
+        "about 30",
+        "first",
+        "only one",
+        "some 500 to 1,000"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Gillet L",
+        "Evgeny Onischenko",
+        "Wojtynek M",
+        "A Cell",
+        "The ETH",
+        "Weis K",
+        "A Large",
+        "Using KARMA",
+        "Maturation Kinetics",
+        "Karsten Weis",
+        "Vallotton P",
+        "Onischenko E",
+        "Noor E",
+        "Multiprotein Complex",
+        "En News",
+        "Protein Complex",
+        "Fischer JS",
+        "Metabolic Labeling",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "ETH",
+        "ETH Zurich’s Institute of Biochemistry",
+        "Gillet L",
+        "KARMA",
+        "RNA",
+        "Vallotton P",
+        "Wojtynek M"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Weis",
+        "KARMA",
+        "Karsten Weis",
+        "Evgeny Onischenko",
+        "ETH Zurich’s Institute of Biochemistry",
+        "Cell",
+        "some 500 to 1,000",
+        "about 30",
+        "One"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Inspired by metabolic analysis",
+          "Inspired by metabolic analysis",
+          "A time scale for the assembly of a complex",
+          "Durable scaffold",
+          "Defective nuclear pores facilitate disease",
+          "Versatile platform"
+        ],
+        "content_length": 5580
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "ETH Zurich’s Institute of Biochemistry",
+        "RNA",
+        "Weis",
+        "Gillet L",
+        "Karsten Weis",
+        "EU",
+        "KARMA",
+        "Vallotton P",
+        "2020",
+        "Evgeny Onischenko",
+        "COVID-19",
+        "Wojtynek M",
+        "Metabolic Labeling",
+        "Onischenko E"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "about 30",
+        "mathematics",
+        "first",
+        "some 500 to 1,000",
+        "who",
+        "Cell",
+        "10.1016/j.cell.2020.11.001",
+        "chemistry",
+        "biology",
+        "what",
+        "how",
+        "only one",
+        "medical_research",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Evgeny Onischenko_has_role_researcher",
+        "Karsten Weis_has_role_researcher",
+        "Weis_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

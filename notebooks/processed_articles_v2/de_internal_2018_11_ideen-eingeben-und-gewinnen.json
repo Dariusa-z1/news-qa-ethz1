@@ -1,0 +1,209 @@
+{
+  "filename": "de_internal_2018_11_ideen-eingeben-und-gewinnen.md",
+  "original_filename": "de_internal_2018_11_ideen-eingeben-und-gewinnen.html",
+  "source_path": "de_internal/2018/11/ideen-eingeben-und-gewinnen.html",
+  "date": "2018-11",
+  "title": "Ideen Eingeben Und Gewinnen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Haben Sie Vorschläge für eine der folgenden Fragestellungen?\n\nGeben Sie Ihre Ideen bis zum 31. Dezember 2018 unter www.library.ethz.ch/ideen ein! Nehmen Sie mit Ihren Ideen an den Wettbewerben teil und gewinnen Sie einen Gutschein Ihrer Wahl von ETH Store, Projekt Neptun, SBB oder Schweizer Bücherbon im Wert von bis zu 300 CHF. Die ETH-Bibliothek holt mit dieser Open-Innovation-Kampagne Meinungen, Wünsche und Perspektiven der Öffentlichkeit ein, um Mehrwerte zu schaffen und ihre Dienstleitungen mit ihren Kundinnen und Kunden gemeinsam weiterzuentwickeln."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/11/ideen Eingeben",
+        "label": "LOC",
+        "start": 0,
+        "end": 34
+      },
+      {
+        "text": "www.library.ethz.ch/ideen",
+        "label": "PER",
+        "start": 114,
+        "end": 139
+      },
+      {
+        "text": "Wettbewerben",
+        "label": "MISC",
+        "start": 179,
+        "end": 191
+      },
+      {
+        "text": "ETH Store",
+        "label": "ORG",
+        "start": 245,
+        "end": 254
+      },
+      {
+        "text": "Neptun",
+        "label": "MISC",
+        "start": 264,
+        "end": 270
+      },
+      {
+        "text": "SBB",
+        "label": "ORG",
+        "start": 272,
+        "end": 275
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 281,
+        "end": 290
+      },
+      {
+        "text": "CHF",
+        "label": "MISC",
+        "start": 324,
+        "end": 327
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 333,
+        "end": 347
+      },
+      {
+        "text": "Open-Innovation-Kampagne",
+        "label": "LOC",
+        "start": 364,
+        "end": 388
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "www.library.ethz.ch/ideen"
+      ],
+      "ORG": [
+        "ETH Store",
+        "SBB"
+      ],
+      "LOCATION": [
+        "De Internal/2018/11/ideen Eingeben",
+        "Open-Innovation-Kampagne"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CHF",
+        "ETH-Bibliothek",
+        "Neptun",
+        "Schweizer",
+        "Wettbewerben"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2018/11/ideen Eingeben": 1,
+      "www.library.ethz.ch/ideen": 1,
+      "Wettbewerben": 1,
+      "ETH Store": 1,
+      "Neptun": 1,
+      "SBB": 1,
+      "Schweizer": 1,
+      "CHF": 1,
+      "ETH-Bibliothek": 1,
+      "Open-Innovation-Kampagne": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2018_11_ideen-eingeben-und-gewinnen.md",
+      "title": "De Internal/2018/11/ideen Eingeben und Gewinnen",
+      "language": "de",
+      "source_path": "de_internal/2018/11/ideen-eingeben-und-gewinnen.html"
+    },
+    "temporal": {
+      "publication_date": "2018-11",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "www.library.ethz.ch/ideen"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "Neptun",
+        "Schweizer",
+        "Wettbewerben"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Geben Sie",
+        "De Internal",
+        "Projekt Neptun",
+        "ETH Store",
+        "Ihren Ideen",
+        "Gutschein Ihrer",
+        "Die ETH",
+        "Nehmen Sie",
+        "Open-Innovation",
+        "Kampagne Meinungen",
+        "Gewinnen Haben",
+        "Ihre Ideen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Store",
+        "SBB"
+      ],
+      "locations": [
+        "De Internal/2018/11/ideen Eingeben",
+        "Open-Innovation-Kampagne"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2018/11/ideen Eingeben",
+        "www.library.ethz.ch/ideen",
+        "Wettbewerben",
+        "ETH Store",
+        "Neptun",
+        "SBB",
+        "Schweizer",
+        "CHF",
+        "ETH-Bibliothek",
+        "Open-Innovation-Kampagne"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 608
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "www.library.ethz.ch/ideen",
+        "SBB",
+        "2018",
+        "ETH Store"
+      ],
+      "semantic_concepts": [
+        "Schweizer",
+        "Wettbewerben",
+        "ETH-Bibliothek",
+        "Neptun"
+      ],
+      "graph_relations": []
+    }
+  }
+}

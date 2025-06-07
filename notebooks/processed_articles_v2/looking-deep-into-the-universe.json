@@ -1,0 +1,638 @@
+{
+  "filename": "looking-deep-into-the-universe.md",
+  "original_filename": "looking-deep-into-the-universe.html",
+  "source_path": "en_news_events/2021/05/looking-deep-into-the-universe.html",
+  "date": "2021-05",
+  "title": "Looking Deep Into The Universe",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Key element: hydrogen",
+      "text": "“It’s an exciting project,” says Alexandre Refregier, Professor of Physics at ETH Zurich, as he considers the futuristic-looking visualisation from South Africa. The image shows a scene in the middle of the Karoo semidesert, far away from larger settlements, with rows upon rows of more than 1,000 parabolic reflectors all directed towards the same point. At first glance, one might assume this is a solar power station, but it’s actually a large radio telescope that over the coming years should provide cosmologists with new insights into the makeup and history of our universe."
+    },
+    {
+      "heading": "Key element: hydrogen",
+      "text": "HIRAX stands for “Hydrogen Intensity and Real-time Analysis eXperiment” and marks the start of a new chapter in the exploration of the universe. The new large telescope will collect radio signals within a frequency range of 400 to 800 MHz. These signals will make it possible to measure the distribution of hydrogen in the universe on a large scale. “If we can use hydrogen, the most common element in the universe, to discover how matter is distributed in space, we could then draw conclusions about what dark matter and dark energy are made of,” Refregier explains.\n\nDark energy and dark matter are two mysterious components that together make up the vast majority of the universe. They play a major role in the formation of structures and in the universe’s accelerated expansion. But experts remain puzzled about exactly what dark energy and dark matter are made of. HIRAX should help home in on the precise nature of these two components. The researchers also hope that the new system will deliver insights into fast radio bursts and pulsars."
+    },
+    {
+      "heading": "Combining hundreds of individual signals",
+      "text": "Not only will Refregier and his team be involved in the scientific analysis of the data, the professor is also helping to develop the new system together with his postdoc Devin Crichton and engineer Thierry Viant. “HIRAX is a remarkable undertaking, not just from a scientific point of view, but also because it represents a significant technological challenge,” Refregier says. As part of their subproject in collaboration with scientists from the University of Geneva, the ETH researchers are developing what’s known as a digital correlator, which will combine the signals recorded by each of the approximately six-metre telescopes. “Rather than consisting of a single large telescope, the HIRAX array is made up of numerous smaller radio telescopes that are correlated with each other,” Refregier says. “This enables us to build a telescope with a collection surface and resolution much greater than a measuring device with only one parabolic reflector.”"
+    },
+    {
+      "heading": "Tested in Switzerland",
+      "text": "The physicists first tested the technology for the digital corrector in Switzerland using a pilot system. To do so, they used the two historic radio telescopes housed at the Bleien facility in the Swiss canton of Aargau. They will now use the results of these tests to develop a digital corrector capable of linking 256 reflectors. “The HIRAX telescope is being set up in stages, which allows us to develop and refine the technology we need as we go along,” Refregier says. The funding required for this subproject was recently secured.\n\nFor their digital correlator, the ETH Zurich physicists are using high-performance graphics processing units that were originally developed for video and gaming applications. The researchers are also breaking new ground when it comes to calibration. To synchronise the measurement signals received by the individual antennas, they use a radio signal transmitted by a drone. It is crucial to pinpoint the position of these signals so that the telescope can then provide the required precision."
+    },
+    {
+      "heading": "An ideal location",
+      "text": "It’s no accident that the HIRAX telescope is being installed in the Karoo semidesert. As a protected area, it is still largely free of disruptive signals from mobile communications antennas. “It’s actually quite ironic,” Refregier says. “On the one hand, mobile communications technology is a massive help in developing telescopes. On the other, that same technology makes life difficult for radio astronomers because mobile communications antennas transmit within similar frequency ranges.\n\nAnother reason why the Karoo region is an ideal location is that this is also where part of the planned Square Kilometre Array will be erected. Once completed, this will be the world’s largest radio telescope, connecting systems in South Africa and Australia and representing yet another giant leap forward in radio astronomy. “Despite its remote position, the Karoo location is well connected by power and data lines,” Refregier says. In this respect, the undertaking presents a challenge because the new telescope will generate 6.5 terabytes of data every second. “This is why we’re going to install the digital corrector directly on site, so that the amount of data can first be reduced before it is sent somewhere else for further processing,” Refregier says.\n\nA collaboration among numerous other universities from different countries, the HIRAX project is also important with respect to research policy. First, it strengthens the collaboration between South Africa and Switzerland, enabling young scientists from the former to conduct research in the latter. Second, Refregier says he is grateful that the work we are doing on the development of HIRAX is opening the door to Switzerland’s participation in the Square Kilometre Array: “This means that we can do our part to ensure that Swiss universities are involved in this pioneering project and can keep pace with the latest developments in radio astronomy.”"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Deep Into The Universe",
+        "label": "WORK_OF_ART",
+        "start": 31,
+        "end": 53
+      },
+      {
+        "text": "Alexandre Refregier",
+        "label": "PERSON",
+        "start": 33,
+        "end": 52
+      },
+      {
+        "text": "Physics",
+        "label": "ORG",
+        "start": 67,
+        "end": 74
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 78,
+        "end": 88
+      },
+      {
+        "text": "South Africa",
+        "label": "GPE",
+        "start": 148,
+        "end": 160
+      },
+      {
+        "text": "Karoo",
+        "label": "PERSON",
+        "start": 207,
+        "end": 212
+      },
+      {
+        "text": "more than 1,000",
+        "label": "CARDINAL",
+        "start": 282,
+        "end": 297
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 359,
+        "end": 364
+      },
+      {
+        "text": "the coming years",
+        "label": "DATE",
+        "start": 473,
+        "end": 489
+      },
+      {
+        "text": "HIRAX",
+        "label": "ORG",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Hydrogen Intensity and Real-time Analysis eXperiment",
+        "label": "WORK_OF_ART",
+        "start": 18,
+        "end": 70
+      },
+      {
+        "text": "Refregier",
+        "label": "PERSON",
+        "start": 548,
+        "end": 557
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 600,
+        "end": 603
+      },
+      {
+        "text": "HIRAX",
+        "label": "ORG",
+        "start": 869,
+        "end": 874
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 926,
+        "end": 929
+      },
+      {
+        "text": "Refregier",
+        "label": "PERSON",
+        "start": 14,
+        "end": 23
+      },
+      {
+        "text": "Devin Crichton",
+        "label": "PERSON",
+        "start": 171,
+        "end": 185
+      },
+      {
+        "text": "Thierry Viant",
+        "label": "PERSON",
+        "start": 199,
+        "end": 212
+      },
+      {
+        "text": "HIRAX",
+        "label": "ORG",
+        "start": 215,
+        "end": 220
+      },
+      {
+        "text": "Refregier",
+        "label": "PERSON",
+        "start": 363,
+        "end": 372
+      },
+      {
+        "text": "the University of Geneva",
+        "label": "ORG",
+        "start": 445,
+        "end": 469
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 475,
+        "end": 478
+      },
+      {
+        "text": "six-metre",
+        "label": "QUANTITY",
+        "start": 613,
+        "end": 622
+      },
+      {
+        "text": "HIRAX",
+        "label": "ORG",
+        "start": 692,
+        "end": 697
+      },
+      {
+        "text": "Refregier",
+        "label": "PERSON",
+        "start": 790,
+        "end": 799
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 927,
+        "end": 935
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 15,
+        "end": 20
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 72,
+        "end": 83
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 130,
+        "end": 133
+      },
+      {
+        "text": "Bleien",
+        "label": "GPE",
+        "start": 174,
+        "end": 180
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 197,
+        "end": 202
+      },
+      {
+        "text": "Aargau",
+        "label": "ORG",
+        "start": 213,
+        "end": 219
+      },
+      {
+        "text": "HIRAX",
+        "label": "ORG",
+        "start": 337,
+        "end": 342
+      },
+      {
+        "text": "Refregier",
+        "label": "PERSON",
+        "start": 458,
+        "end": 467
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 571,
+        "end": 581
+      },
+      {
+        "text": "HIRAX",
+        "label": "ORG",
+        "start": 26,
+        "end": 31
+      },
+      {
+        "text": "Karoo",
+        "label": "PERSON",
+        "start": 68,
+        "end": 73
+      },
+      {
+        "text": "antennas",
+        "label": "ORG",
+        "start": 181,
+        "end": 189
+      },
+      {
+        "text": "Refregier",
+        "label": "PERSON",
+        "start": 221,
+        "end": 230
+      },
+      {
+        "text": "antennas",
+        "label": "ORG",
+        "start": 440,
+        "end": 448
+      },
+      {
+        "text": "Karoo",
+        "label": "GPE",
+        "start": 514,
+        "end": 519
+      },
+      {
+        "text": "Kilometre Array",
+        "label": "PERSON",
+        "start": 602,
+        "end": 617
+      },
+      {
+        "text": "South Africa",
+        "label": "GPE",
+        "start": 723,
+        "end": 735
+      },
+      {
+        "text": "Australia",
+        "label": "GPE",
+        "start": 740,
+        "end": 749
+      },
+      {
+        "text": "Karoo",
+        "label": "PERSON",
+        "start": 852,
+        "end": 857
+      },
+      {
+        "text": "Refregier",
+        "label": "PERSON",
+        "start": 911,
+        "end": 920
+      },
+      {
+        "text": "6.5",
+        "label": "CARDINAL",
+        "start": 1021,
+        "end": 1024
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1164,
+        "end": 1169
+      },
+      {
+        "text": "Refregier",
+        "label": "PERSON",
+        "start": 1239,
+        "end": 1248
+      },
+      {
+        "text": "HIRAX",
+        "label": "ORG",
+        "start": 1335,
+        "end": 1340
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 1400,
+        "end": 1405
+      },
+      {
+        "text": "South Africa",
+        "label": "GPE",
+        "start": 1448,
+        "end": 1460
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1465,
+        "end": 1476
+      },
+      {
+        "text": "Second",
+        "label": "ORDINAL",
+        "start": 1555,
+        "end": 1561
+      },
+      {
+        "text": "Refregier",
+        "label": "PERSON",
+        "start": 1563,
+        "end": 1572
+      },
+      {
+        "text": "HIRAX",
+        "label": "ORG",
+        "start": 1642,
+        "end": 1647
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1671,
+        "end": 1682
+      },
+      {
+        "text": "the Square Kilometre Array",
+        "label": "FAC",
+        "start": 1702,
+        "end": 1728
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1781,
+        "end": 1786
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alexandre Refregier",
+        "Devin Crichton",
+        "Karoo",
+        "Kilometre Array",
+        "Refregier",
+        "Thierry Viant"
+      ],
+      "ORG": [
+        "Aargau",
+        "ETH",
+        "ETH Zurich",
+        "HIRAX",
+        "Physics",
+        "antennas",
+        "the University of Geneva"
+      ],
+      "LOCATION": [
+        "Australia",
+        "Bleien",
+        "Karoo",
+        "South Africa",
+        "Switzerland",
+        "the Square Kilometre Array"
+      ],
+      "DATE": [
+        "the coming years"
+      ],
+      "MISC": [
+        "6.5",
+        "Deep Into The Universe",
+        "First",
+        "Hydrogen Intensity and Real-time Analysis eXperiment",
+        "Second",
+        "Swiss",
+        "first",
+        "more than 1,000",
+        "only one",
+        "six-metre",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Refregier": 9,
+      "HIRAX": 8,
+      "Karoo": 4,
+      "South Africa": 3,
+      "first": 3,
+      "two": 3,
+      "Switzerland": 3,
+      "ETH Zurich": 2,
+      "Swiss": 2,
+      "antennas": 2,
+      "Deep Into The Universe": 1,
+      "Alexandre Refregier": 1,
+      "Physics": 1,
+      "more than 1,000": 1,
+      "the coming years": 1,
+      "Hydrogen Intensity and Real-time Analysis eXperiment": 1,
+      "Devin Crichton": 1,
+      "Thierry Viant": 1,
+      "the University of Geneva": 1,
+      "ETH": 1
+    },
+    "total_entities": 59,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "looking-deep-into-the-universe.md",
+      "title": "En News Events/2021/05/looking Deep Into The Universe",
+      "language": "en",
+      "source_path": "en_news_events/2021/05/looking-deep-into-the-universe.html"
+    },
+    "temporal": {
+      "publication_date": "2021-05",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alexandre Refregier",
+        "Devin Crichton",
+        "Karoo",
+        "Kilometre Array",
+        "Refregier",
+        "Thierry Viant"
+      ],
+      "people_with_roles": {
+        "Alexandre Refregier": [
+          "professor"
+        ],
+        "Devin Crichton": [
+          "professor"
+        ],
+        "Refregier": [
+          "rector",
+          "professor"
+        ],
+        "Thierry Viant": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Deep Into The Universe",
+        "First",
+        "Hydrogen Intensity and Real-time Analysis eXperiment",
+        "Second",
+        "Swiss",
+        "first",
+        "more than 1,000",
+        "only one",
+        "six-metre"
+      ],
+      "grants_funding": [
+        "EU",
+        "funding"
+      ],
+      "projects": [
+        "The Universe",
+        "Alexandre Refregier",
+        "Devin Crichton",
+        "En News",
+        "Thierry Viant",
+        "Hydrogen Intensity",
+        "Square Kilometre",
+        "South Africa",
+        "ETH Zurich",
+        "The HIRAX",
+        "Deep Into"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Aargau",
+        "ETH",
+        "ETH Zurich",
+        "HIRAX",
+        "Physics",
+        "antennas",
+        "the University of Geneva"
+      ],
+      "locations": [
+        "Australia",
+        "Bleien",
+        "Karoo",
+        "South Africa",
+        "Switzerland",
+        "the Square Kilometre Array"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Refregier",
+        "HIRAX",
+        "Karoo",
+        "South Africa",
+        "first",
+        "two",
+        "Switzerland",
+        "ETH Zurich",
+        "Swiss",
+        "antennas"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Key element: hydrogen",
+          "Key element: hydrogen",
+          "Combining hundreds of individual signals",
+          "Tested in Switzerland",
+          "An ideal location"
+        ],
+        "content_length": 5580
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Physics",
+        "Kilometre Array",
+        "Refregier",
+        "Alexandre Refregier",
+        "Aargau",
+        "Thierry Viant",
+        "the University of Geneva",
+        "HIRAX",
+        "EU",
+        "Karoo",
+        "funding",
+        "antennas",
+        "ETH Zurich",
+        "2021",
+        "Devin Crichton"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Deep Into The Universe",
+        "mathematics",
+        "Hydrogen Intensity and Real-time Analysis eXperiment",
+        "first",
+        "Second",
+        "who",
+        "Swiss",
+        "when",
+        "what",
+        "how",
+        "only one",
+        "more than 1,000",
+        "First",
+        "why",
+        "six-metre",
+        "where"
+      ],
+      "graph_relations": [
+        "Alexandre Refregier_has_role_professor",
+        "Devin Crichton_has_role_professor",
+        "Refregier_has_role_rector",
+        "Refregier_has_role_professor",
+        "Thierry Viant_has_role_professor",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "filename": "access-to-detail-inspiration.md",
+  "original_filename": "access-to-detail-inspiration.html",
+  "source_path": "en_internal/2015/05/access-to-detail-inspiration.html",
+  "date": "2015-05",
+  "title": "Access To Detail Inspiration",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "For licensing reasons, access to this database is restricted to the domain ethz.ch.\n\nDatabase Detail Inspiration"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Detail Inspiration",
+        "label": "ORG",
+        "start": 30,
+        "end": 48
+      },
+      {
+        "text": "Database Detail Inspiration",
+        "label": "ORG",
+        "start": 84,
+        "end": 111
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Database Detail Inspiration",
+        "Detail Inspiration"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Detail Inspiration": 1,
+      "Database Detail Inspiration": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "access-to-detail-inspiration.md",
+      "title": "En Internal/2015/05/access To Detail Inspiration",
+      "language": "en",
+      "source_path": "en_internal/2015/05/access-to-detail-inspiration.html"
+    },
+    "temporal": {
+      "publication_date": "2015-05",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Inspiration For",
+        "Database Detail",
+        "To Detail",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Database Detail Inspiration",
+        "Detail Inspiration"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "why"
+      ],
+      "key_concepts": [
+        "Detail Inspiration",
+        "Database Detail Inspiration"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 161
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Detail Inspiration",
+        "2015",
+        "Database Detail Inspiration"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "why"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

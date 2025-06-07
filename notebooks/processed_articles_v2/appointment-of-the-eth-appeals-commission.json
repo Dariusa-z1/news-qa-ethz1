@@ -1,0 +1,325 @@
+{
+  "filename": "appointment-of-the-eth-appeals-commission.md",
+  "original_filename": "appointment-of-the-eth-appeals-commission.html",
+  "source_path": "en_internal/2015/12/appointment-of-the-eth-appeals-commission.html",
+  "date": "2015-12",
+  "title": "Appointment Of The Eth Appeals Commission",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The ETH Appeals Commission is a special administrative court of the first instance which makes rulings concerning appeals against decisions made by organs of the ETH Domain's institutions. Besides the current chairman, Professor Hansjörg Peter (Lausanne), four current members and two new members, namely the biologist Dr sc. nat. Dieter Ramseier, as well as ETH Zurich student Jonas Philippe were appointed to the Commission. The ETH Board would like to thank the resigning members Astrid Forster and Jannick Griner for their valuable services.\n\nMembers of the ETH Appeals Commission (as from 1 January 2016)"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Eth Appeals Commission",
+        "label": "ORG",
+        "start": 35,
+        "end": 61
+      },
+      {
+        "text": "The ETH Appeals Commission",
+        "label": "ORG",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 68,
+        "end": 73
+      },
+      {
+        "text": "the ETH Domain's",
+        "label": "ORG",
+        "start": 158,
+        "end": 174
+      },
+      {
+        "text": "Hansjörg Peter",
+        "label": "PERSON",
+        "start": 229,
+        "end": 243
+      },
+      {
+        "text": "Lausanne",
+        "label": "PERSON",
+        "start": 245,
+        "end": 253
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 256,
+        "end": 260
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 281,
+        "end": 284
+      },
+      {
+        "text": "nat",
+        "label": "ORG",
+        "start": 326,
+        "end": 329
+      },
+      {
+        "text": "Dieter Ramseier",
+        "label": "PERSON",
+        "start": 331,
+        "end": 346
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 359,
+        "end": 369
+      },
+      {
+        "text": "Jonas Philippe",
+        "label": "PERSON",
+        "start": 378,
+        "end": 392
+      },
+      {
+        "text": "Commission",
+        "label": "ORG",
+        "start": 415,
+        "end": 425
+      },
+      {
+        "text": "The ETH Board",
+        "label": "ORG",
+        "start": 427,
+        "end": 440
+      },
+      {
+        "text": "Astrid Forster",
+        "label": "PERSON",
+        "start": 483,
+        "end": 497
+      },
+      {
+        "text": "Jannick Griner",
+        "label": "PERSON",
+        "start": 502,
+        "end": 516
+      },
+      {
+        "text": "the ETH Appeals Commission",
+        "label": "ORG",
+        "start": 557,
+        "end": 583
+      },
+      {
+        "text": "1 January 2016",
+        "label": "DATE",
+        "start": 593,
+        "end": 607
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Astrid Forster",
+        "Dieter Ramseier",
+        "Hansjörg Peter",
+        "Jannick Griner",
+        "Jonas Philippe",
+        "Lausanne"
+      ],
+      "ORG": [
+        "Commission",
+        "ETH Zurich",
+        "The ETH Appeals Commission",
+        "The ETH Board",
+        "The Eth Appeals Commission",
+        "nat",
+        "the ETH Appeals Commission",
+        "the ETH Domain's"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "1 January 2016"
+      ],
+      "MISC": [
+        "first",
+        "four",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "The Eth Appeals Commission": 1,
+      "The ETH Appeals Commission": 1,
+      "first": 1,
+      "the ETH Domain's": 1,
+      "Hansjörg Peter": 1,
+      "Lausanne": 1,
+      "four": 1,
+      "two": 1,
+      "nat": 1,
+      "Dieter Ramseier": 1,
+      "ETH Zurich": 1,
+      "Jonas Philippe": 1,
+      "Commission": 1,
+      "The ETH Board": 1,
+      "Astrid Forster": 1,
+      "Jannick Griner": 1,
+      "the ETH Appeals Commission": 1,
+      "1 January 2016": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "appointment-of-the-eth-appeals-commission.md",
+      "title": "En Internal/2015/12/appointment Of The Eth Appeals Commission",
+      "language": "en",
+      "source_path": "en_internal/2015/12/appointment-of-the-eth-appeals-commission.html"
+    },
+    "temporal": {
+      "publication_date": "2015-12",
+      "mentioned_years": [
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Astrid Forster",
+        "Dieter Ramseier",
+        "Hansjörg Peter",
+        "Jannick Griner",
+        "Jonas Philippe",
+        "Lausanne"
+      ],
+      "people_with_roles": {
+        "Dieter Ramseier": [
+          "student"
+        ],
+        "Hansjörg Peter": [
+          "Professor",
+          "chair",
+          "professor"
+        ],
+        "Jonas Philippe": [
+          "student"
+        ],
+        "Lausanne": [
+          "chair",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "chair",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "first",
+        "four"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Domain",
+        "ETH Appeals",
+        "En Internal",
+        "ETH Zurich",
+        "Of The",
+        "Eth Appeals",
+        "Commission The",
+        "Astrid Forster",
+        "The ETH",
+        "Dieter Ramseier",
+        "Jonas Philippe",
+        "Jannick Griner"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Commission",
+        "ETH Zurich",
+        "The ETH Appeals Commission",
+        "The ETH Board",
+        "The Eth Appeals Commission",
+        "nat",
+        "the ETH Appeals Commission",
+        "the ETH Domain's"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "The Eth Appeals Commission",
+        "The ETH Appeals Commission",
+        "first",
+        "the ETH Domain's",
+        "Hansjörg Peter",
+        "Lausanne",
+        "four",
+        "two",
+        "nat",
+        "Dieter Ramseier"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 671
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hansjörg Peter",
+        "The ETH Board",
+        "2015",
+        "The ETH Appeals Commission",
+        "nat",
+        "The Eth Appeals Commission",
+        "2016",
+        "Commission",
+        "the ETH Appeals Commission",
+        "Lausanne",
+        "the ETH Domain's",
+        "ETH Zurich",
+        "Astrid Forster",
+        "Dieter Ramseier",
+        "Jonas Philippe",
+        "Jannick Griner"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "four",
+        "who"
+      ],
+      "graph_relations": [
+        "Dieter Ramseier_has_role_student",
+        "Hansjörg Peter_has_role_Professor",
+        "Hansjörg Peter_has_role_chair",
+        "Hansjörg Peter_has_role_professor",
+        "Jonas Philippe_has_role_student",
+        "Lausanne_has_role_chair",
+        "Lausanne_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

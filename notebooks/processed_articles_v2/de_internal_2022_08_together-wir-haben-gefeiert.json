@@ -1,0 +1,137 @@
+{
+  "filename": "de_internal_2022_08_together-wir-haben-gefeiert.md",
+  "original_filename": "de_internal_2022_08_together-wir-haben-gefeiert.html",
+  "source_path": "de_internal/2022/08/together-wir-haben-gefeiert.html",
+  "date": "2022-08",
+  "title": "Together Wir Haben Gefeiert",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Es sind erfreulich viele Mitarbeitende auf den Hönggerberg gekommen und wir alle haben zusammen einen wundervollen Abend verbracht, zusammen gute Gespräche geführt, angestossen und gefeiert - togETHer 22.\n\nDie PeKo begrüsste im Gewächshaus zahlreiche bekannte und auch manche neuen Gesichter.\n\nWir danken Euch für diese tollen Momente!\n\nDie Personalkommission wirkt als Anlaufstelle des technischen und administrativen ETH-Personals und vertritt dessen Anliegen gegenüber der Schulleitung. Die vielfältige Kommissionsarbeit umfasst die Mitwirkung in der Hochschulversammlung, der Strategiekommission, der Gastronomiekommission, an Vernehmlassungen und bei Anträgen an die Schulleitung. Zum Erreichen ihrer Ziele setzt die PeKo auf Dialog und Zusammenarbeit."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/08/together",
+        "label": "LOC",
+        "start": 0,
+        "end": 28
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 47,
+        "end": 58
+      },
+      {
+        "text": "PeKo",
+        "label": "MISC",
+        "start": 209,
+        "end": 213
+      },
+      {
+        "text": "PeKo",
+        "label": "MISC",
+        "start": 719,
+        "end": 723
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2022/08/together",
+        "Hönggerberg"
+      ],
+      "DATE": [],
+      "MISC": [
+        "PeKo"
+      ]
+    },
+    "entity_counts": {
+      "PeKo": 2,
+      "De Internal/2022/08/together": 1,
+      "Hönggerberg": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2022_08_together-wir-haben-gefeiert.md",
+      "title": "De Internal/2022/08/together Wir Haben Gefeiert",
+      "language": "de",
+      "source_path": "de_internal/2022/08/together-wir-haben-gefeiert.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "PeKo"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Die PeKo",
+        "Gefeiert Es",
+        "Die Personalkommission",
+        "De Internal",
+        "Wir Haben",
+        "ETH-Personals",
+        "Zum Erreichen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2022/08/together",
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "PeKo",
+        "De Internal/2022/08/together",
+        "Hönggerberg"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 805
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2022",
+        "EU"
+      ],
+      "semantic_concepts": [
+        "PeKo",
+        "who"
+      ],
+      "graph_relations": []
+    }
+  }
+}

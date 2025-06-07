@@ -1,0 +1,168 @@
+{
+  "filename": "gesucht-ideen-fuer-werbeartikel-mit-mehrwert.md",
+  "original_filename": "gesucht-ideen-fuer-werbeartikel-mit-mehrwert.html",
+  "source_path": "en_internal/2019/02/gesucht-ideen-fuer-werbeartikel-mit-mehrwert.html",
+  "date": "2019-02",
+  "title": "Gesucht Ideen Fuer Werbeartikel Mit Mehrwert",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "We are on the lookout for ideas for commercially available products and freebies to be distributed during courses, events or ETH Zurich campaigns (e.g. fresher bags).\n\nThe contest is open until 25 February 2019. Draw inspiration from the ideas already submitted and submit your own ideas at www.library.ethz.ch/ideas !\n\nThe winners receive a voucher of their choice from ETH Store, Projekt Neptun, SBB or Swiss Book Vouchers worth up to CHF 100.\n\nETH Library is looking forward to your ideas!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 125,
+        "end": 135
+      },
+      {
+        "text": "25 February 2019",
+        "label": "DATE",
+        "start": 193,
+        "end": 209
+      },
+      {
+        "text": "ETH Store",
+        "label": "ORG",
+        "start": 369,
+        "end": 378
+      },
+      {
+        "text": "Projekt Neptun",
+        "label": "PERSON",
+        "start": 380,
+        "end": 394
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 435,
+        "end": 438
+      },
+      {
+        "text": "ETH Library",
+        "label": "PERSON",
+        "start": 444,
+        "end": 455
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library",
+        "ETH Zurich",
+        "Projekt Neptun"
+      ],
+      "ORG": [
+        "CHF",
+        "ETH Store"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "25 February 2019"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zurich": 1,
+      "25 February 2019": 1,
+      "ETH Store": 1,
+      "Projekt Neptun": 1,
+      "CHF": 1,
+      "ETH Library": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "gesucht-ideen-fuer-werbeartikel-mit-mehrwert.md",
+      "title": "En Internal/2019/02/gesucht Ideen Fuer Werbeartikel mit Mehrwert",
+      "language": "en",
+      "source_path": "en_internal/2019/02/gesucht-ideen-fuer-werbeartikel-mit-mehrwert.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library",
+        "ETH Zurich",
+        "Projekt Neptun"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Mehrwert We",
+        "Ideen Fuer",
+        "ETH Library",
+        "Projekt Neptun",
+        "ETH Store",
+        "En Internal",
+        "Swiss Book",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CHF",
+        "ETH Store"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zurich",
+        "25 February 2019",
+        "ETH Store",
+        "Projekt Neptun",
+        "CHF",
+        "ETH Library"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 557
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "CHF",
+        "2019",
+        "ETH Library",
+        "Projekt Neptun",
+        "ETH Store",
+        "ETH Zurich",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

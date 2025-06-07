@@ -1,0 +1,259 @@
+{
+  "filename": "completion-of-the-new-dining-facilities-is-delayed%20.md",
+  "original_filename": "completion-of-the-new-dining-facilities-is-delayed%20.html",
+  "source_path": "en_internal/2016/01/completion-of-the-new-dining-facilities-is-delayed%20.html",
+  "date": "2016-01",
+  "title": "Completion Of The New Dining Facilities Is Delayed%20",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Staff and students of ETH Zurich will be able to visit two new dining facilities this year: a food market with three different counters is opening on 9 May 2016 in the converted HPR building. The market will offer a selection of vegetarian dishes, a pizza and pasta counter, and options from the grill. Catering will be managed by the SV Group.\n\nThe ‘Bella Vista’ gastronomy pavilion will open in the new HGP building this autumn. This serviced restaurant at the northern end of Wolfgang-Pauli-Strasse is designed with lecturers, staff, students, and external guests in mind and offers a pleasant view across Zurich-Affoltern. Catering here will be provided by ZFV.\n\nThe original plan was for both facilities to open earlier. Delayed approval of construction permits meant that opening dates had to be pushed back. The long wait for delivery of materials for interior fittings and compliance with fire safety requirements, including regulations relating to the preservation of historical monuments, further added to the delay."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The New Dining Facilities",
+        "label": "ORG",
+        "start": 34,
+        "end": 59
+      },
+      {
+        "text": "Delayed%20",
+        "label": "ORG",
+        "start": 63,
+        "end": 73
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 22,
+        "end": 32
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 55,
+        "end": 58
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 81,
+        "end": 90
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 111,
+        "end": 116
+      },
+      {
+        "text": "9 May 2016",
+        "label": "DATE",
+        "start": 150,
+        "end": 160
+      },
+      {
+        "text": "the SV Group",
+        "label": "ORG",
+        "start": 331,
+        "end": 343
+      },
+      {
+        "text": "Bella Vista",
+        "label": "PERSON",
+        "start": 350,
+        "end": 361
+      },
+      {
+        "text": "HGP",
+        "label": "ORG",
+        "start": 404,
+        "end": 407
+      },
+      {
+        "text": "this autumn",
+        "label": "DATE",
+        "start": 417,
+        "end": 428
+      },
+      {
+        "text": "Wolfgang-Pauli-Strasse",
+        "label": "PERSON",
+        "start": 478,
+        "end": 500
+      },
+      {
+        "text": "Zurich-Affoltern",
+        "label": "ORG",
+        "start": 608,
+        "end": 624
+      },
+      {
+        "text": "ZFV",
+        "label": "ORG",
+        "start": 660,
+        "end": 663
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bella Vista",
+        "Wolfgang-Pauli-Strasse"
+      ],
+      "ORG": [
+        "Delayed%20",
+        "ETH Zurich",
+        "HGP",
+        "The New Dining Facilities",
+        "ZFV",
+        "Zurich-Affoltern",
+        "the SV Group"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "9 May 2016",
+        "this autumn",
+        "this year"
+      ],
+      "MISC": [
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "The New Dining Facilities": 1,
+      "Delayed%20": 1,
+      "ETH Zurich": 1,
+      "two": 1,
+      "this year": 1,
+      "three": 1,
+      "9 May 2016": 1,
+      "the SV Group": 1,
+      "Bella Vista": 1,
+      "HGP": 1,
+      "this autumn": 1,
+      "Wolfgang-Pauli-Strasse": 1,
+      "Zurich-Affoltern": 1,
+      "ZFV": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "completion-of-the-new-dining-facilities-is-delayed%20.md",
+      "title": "En Internal/2016/01/completion Of The New Dining Facilities Is Delayed%20",
+      "language": "en",
+      "source_path": "en_internal/2016/01/completion-of-the-new-dining-facilities-is-delayed%20.html"
+    },
+    "temporal": {
+      "publication_date": "2016-01",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bella Vista",
+        "Wolfgang-Pauli-Strasse"
+      ],
+      "people_with_roles": {
+        "Wolfgang-Pauli-Strasse": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "New Dining",
+        "Facilities Is",
+        "Wolfgang-Pauli",
+        "Zurich-Affoltern",
+        "En Internal",
+        "Of The",
+        "ETH Zurich",
+        "SV Group",
+        "Bella Vista"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Delayed%20",
+        "ETH Zurich",
+        "HGP",
+        "The New Dining Facilities",
+        "ZFV",
+        "Zurich-Affoltern",
+        "the SV Group"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "The New Dining Facilities",
+        "Delayed%20",
+        "ETH Zurich",
+        "two",
+        "this year",
+        "three",
+        "9 May 2016",
+        "the SV Group",
+        "Bella Vista",
+        "HGP"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1100
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "The New Dining Facilities",
+        "Zurich-Affoltern",
+        "Delayed%20",
+        "HGP",
+        "2016",
+        "Wolfgang-Pauli-Strasse",
+        "the SV Group",
+        "ETH Zurich",
+        "ZFV",
+        "Bella Vista"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "engineering",
+        "three"
+      ],
+      "graph_relations": [
+        "Wolfgang-Pauli-Strasse_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

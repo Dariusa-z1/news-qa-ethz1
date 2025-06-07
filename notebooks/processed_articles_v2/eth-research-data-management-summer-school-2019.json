@@ -1,0 +1,162 @@
+{
+  "filename": "eth-research-data-management-summer-school-2019.md",
+  "original_filename": "eth-research-data-management-summer-school-2019.html",
+  "source_path": "en_internal/2019/02/eth-research-data-management-summer-school-2019.html",
+  "date": "2019-02",
+  "title": "Eth Research Data Management Summer School 2019",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Research Data Management (RDM) is vital for researchers to ensure the proper organisation of research data along the entire life cycle from creation to preservation, including their sharing as open data (FAIR data).\n\nSessions cover the following topics:\n\nThe ETH Research Data Management Summer School takes place from 4 June to 7 June 2019 in the ETH Alumni Pavillon. Doctoral students can obtain 2 ECTS points.\n\nMore information on the ETH RDM Summer School"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Research Data Management Summer School",
+        "label": "ORG",
+        "start": 24,
+        "end": 62
+      },
+      {
+        "text": "Research Data Management",
+        "label": "ORG",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "text": "FAIR",
+        "label": "ORG",
+        "start": 204,
+        "end": 208
+      },
+      {
+        "text": "The ETH Research Data Management Summer School",
+        "label": "ORG",
+        "start": 253,
+        "end": 299
+      },
+      {
+        "text": "4 June to 7 June 2019",
+        "label": "DATE",
+        "start": 317,
+        "end": 338
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "FAIR",
+        "Research Data Management",
+        "Research Data Management Summer School",
+        "The ETH Research Data Management Summer School"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "4 June to 7 June 2019"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Research Data Management Summer School": 1,
+      "Research Data Management": 1,
+      "FAIR": 1,
+      "The ETH Research Data Management Summer School": 1,
+      "4 June to 7 June 2019": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-research-data-management-summer-school-2019.md",
+      "title": "En Internal/2019/02/eth Research Data Management Summer School 2019",
+      "language": "en",
+      "source_path": "en_internal/2019/02/eth-research-data-management-summer-school-2019.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher",
+        "alumni",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Research Data",
+        "ETH Alumni",
+        "ETH RDM",
+        "En Internal",
+        "Management Summer",
+        "The ETH",
+        "Summer School"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "FAIR",
+        "Research Data Management",
+        "Research Data Management Summer School",
+        "The ETH Research Data Management Summer School"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "Research Data Management Summer School",
+        "Research Data Management",
+        "FAIR",
+        "The ETH Research Data Management Summer School",
+        "4 June to 7 June 2019"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 527
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "Research Data Management",
+        "Research Data Management Summer School",
+        "FAIR",
+        "The ETH Research Data Management Summer School"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "where",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

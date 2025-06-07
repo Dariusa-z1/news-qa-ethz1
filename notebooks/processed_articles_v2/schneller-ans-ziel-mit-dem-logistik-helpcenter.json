@@ -1,0 +1,261 @@
+{
+  "filename": "schneller-ans-ziel-mit-dem-logistik-helpcenter.md",
+  "original_filename": "schneller-ans-ziel-mit-dem-logistik-helpcenter.html",
+  "source_path": "de_internal/2022/11/schneller-ans-ziel-mit-dem-logistik-helpcenter.html",
+  "date": "2022-11",
+  "title": "Schneller Ans Ziel Mit Dem Logistik Helpcenter",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Interaktive Suchfunktion",
+      "text": "- alle für Sie relevanten Informationen auf einen Blick\n\n- verbesserte Stichwortsuche\n\n- interaktiver «Answer-Bot» antwortet 24/7\n\n- verkürzt Bearbeitungszeit\n\n- unterstützt Logistik-Mitarbeitende bei Supportanfragen\n\nDas externe Seite Logistik-Helpcenter vereint alle relevanten Online-Formulare, Dokumente und Merkblätter zu den Logistikangeboten von Campus Services. So finden Sie mit wenigen Klicks online Antworten auf Ihre Fragen und die notwendigen Informationen, um die jeweilige Dienstleistung nutzen zu können.\n\nKonkret bietet der neue Online-Dienst Hilfe und Orientierung zu:"
+    },
+    {
+      "heading": "Interaktive Suchfunktion",
+      "text": "Soll es schnell gehen, klicken Sie einfach auf den Hilfe-Button und geben dort Ihre Frage oder ein Stichwort ein. Ein interaktiver «Answer-Bot» liefert unmittelbar alle relevanten Suchergebnisse. Der «Answer-Bot» ist rund um die Uhr verfügbar und lernt laufend dazu. Das Helpcenter liefert aber nicht nur schnell die passenden Informationen, sondern unterstützt gleichzeitig die Logistik-Mitarbeitenden und verkürzt so die Bearbeitungszeit Ihrer Anliegen."
+    },
+    {
+      "heading": "Vorteile des Logistik-Helpcenters",
+      "text": "externe Seite Jetzt Helpcenter besuchen"
+    },
+    {
+      "heading": "Ersetzt das Helpcenter die bisherige Webseite der ETH-Logistik?",
+      "text": "Das Logistik-Helpcenter bietet zusätzliche Funktionen und komplettiert das Informationsangebot der Webseite. Grundlegende Informationen zu den Logistikdienstleistungen von Campus Services finden Sie weiterhin wie gewohnt auf der Webseite «Logistik und Transport» . Alle für Sie relevanten Online-Formulare, Dokumente und Merkblätter sind im Helpcenter zusammengefasst. Das Logistik-Helpcenter und sämtliche Logistikdienstleistungen sind Angebote der Abteilung Campus Services."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/11/schneller",
+        "label": "LOC",
+        "start": 0,
+        "end": 29
+      },
+      {
+        "text": "Ans Ziel",
+        "label": "PER",
+        "start": 30,
+        "end": 38
+      },
+      {
+        "text": "Logistik-Helpcenter",
+        "label": "PER",
+        "start": 231,
+        "end": 250
+      },
+      {
+        "text": "Campus Services",
+        "label": "ORG",
+        "start": 348,
+        "end": 363
+      },
+      {
+        "text": "Konkret",
+        "label": "ORG",
+        "start": 516,
+        "end": 523
+      },
+      {
+        "text": "Online-Dienst",
+        "label": "MISC",
+        "start": 540,
+        "end": 553
+      },
+      {
+        "text": "Hilfe-Button",
+        "label": "LOC",
+        "start": 51,
+        "end": 63
+      },
+      {
+        "text": "Answer-Bot",
+        "label": "LOC",
+        "start": 132,
+        "end": 142
+      },
+      {
+        "text": "Answer-Bot",
+        "label": "LOC",
+        "start": 201,
+        "end": 211
+      },
+      {
+        "text": "Logistik-Mitarbeitenden",
+        "label": "MISC",
+        "start": 379,
+        "end": 402
+      },
+      {
+        "text": "Logistik-Helpcenter",
+        "label": "LOC",
+        "start": 4,
+        "end": 23
+      },
+      {
+        "text": "Logistikdienstleistungen von Campus Services",
+        "label": "MISC",
+        "start": 143,
+        "end": 187
+      },
+      {
+        "text": "Logistik-Helpcenter",
+        "label": "LOC",
+        "start": 373,
+        "end": 392
+      },
+      {
+        "text": "Campus Services",
+        "label": "ORG",
+        "start": 460,
+        "end": 475
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ans Ziel",
+        "Logistik-Helpcenter"
+      ],
+      "ORG": [
+        "Campus Services",
+        "Konkret"
+      ],
+      "LOCATION": [
+        "Answer-Bot",
+        "De Internal/2022/11/schneller",
+        "Hilfe-Button",
+        "Logistik-Helpcenter"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Logistik-Mitarbeitenden",
+        "Logistikdienstleistungen von Campus Services",
+        "Online-Dienst"
+      ]
+    },
+    "entity_counts": {
+      "Logistik-Helpcenter": 3,
+      "Campus Services": 2,
+      "Answer-Bot": 2,
+      "De Internal/2022/11/schneller": 1,
+      "Ans Ziel": 1,
+      "Konkret": 1,
+      "Online-Dienst": 1,
+      "Hilfe-Button": 1,
+      "Logistik-Mitarbeitenden": 1,
+      "Logistikdienstleistungen von Campus Services": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "schneller-ans-ziel-mit-dem-logistik-helpcenter.md",
+      "title": "De Internal/2022/11/schneller Ans Ziel mit dem Logistik Helpcenter",
+      "language": "de",
+      "source_path": "de_internal/2022/11/schneller-ans-ziel-mit-dem-logistik-helpcenter.html"
+    },
+    "temporal": {
+      "publication_date": "2022-11",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Ans Ziel",
+        "Logistik-Helpcenter"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Logistik-Mitarbeitenden",
+        "Logistikdienstleistungen von Campus Services",
+        "Online-Dienst"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Logistik-Mitarbeitende",
+        "Seite Jetzt",
+        "Grundlegende Informationen",
+        "Hilfe-Button",
+        "Das Logistik",
+        "Ihre Fragen",
+        "Das Helpcenter",
+        "Ans Ziel",
+        "Campus Services",
+        "Logistik Helpcenter",
+        "Online-Formulare",
+        "Online-Dienst",
+        "Ihre Frage",
+        "Bearbeitungszeit Ihrer",
+        "Answer-Bot",
+        "Seite Logistik",
+        "Abteilung Campus",
+        "De Internal",
+        "Logistik-Mitarbeitenden"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Campus Services",
+        "Konkret"
+      ],
+      "locations": [
+        "Answer-Bot",
+        "De Internal/2022/11/schneller",
+        "Hilfe-Button",
+        "Logistik-Helpcenter"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Logistik-Helpcenter",
+        "Campus Services",
+        "Answer-Bot",
+        "De Internal/2022/11/schneller",
+        "Ans Ziel",
+        "Konkret",
+        "Online-Dienst",
+        "Hilfe-Button",
+        "Logistik-Mitarbeitenden",
+        "Logistikdienstleistungen von Campus Services"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Interaktive Suchfunktion",
+          "Interaktive Suchfunktion",
+          "Vorteile des Logistik-Helpcenters",
+          "Ersetzt das Helpcenter die bisherige Webseite der ETH-Logistik?"
+        ],
+        "content_length": 1626
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Konkret",
+        "EU",
+        "2022",
+        "Logistik-Helpcenter",
+        "Ans Ziel",
+        "Campus Services"
+      ],
+      "semantic_concepts": [
+        "Logistik-Mitarbeitenden",
+        "Online-Dienst",
+        "Logistikdienstleistungen von Campus Services"
+      ],
+      "graph_relations": []
+    }
+  }
+}

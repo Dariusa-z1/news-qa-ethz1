@@ -1,0 +1,174 @@
+{
+  "filename": "sichere-intubation-dank-kuenstlicher-intelligenz-und-robotik.md",
+  "original_filename": "sichere-intubation-dank-kuenstlicher-intelligenz-und-robotik.html",
+  "source_path": "de_news_events/2023/06/sichere-intubation-dank-kuenstlicher-intelligenz-und-robotik.html",
+  "date": "2023-06",
+  "title": "Sichere Intubation Dank Kuenstlicher Intelligenz Und Robotik",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Eine erfolgreiche Intubation der Luftröhre kann Leben retten. Doch immer wieder kommt es dabei zu Komplikationen, denn der Eingriff ist anspruchsvoll und erfordert viel Erfahrung. aiEndoscopic, ein Spin-off der ETH Zürich, der Universität Zürich und des Universitätsspitals Zürich, hat nun ein Gerät entwickelt, das Intubieren in Zukunft einfacher und sicherer machen soll.\n\n«Unser Gerät, intuBot, kombiniert künstliche Intelligenz und Robotik. Mit einer Kamera und moderner Bilderkennung führen wir das Endoskop mit einem einzigen Knopfdruck sicher in die Luftröhre ein», erklärt CEO und Mitgründer Philippe Ganz. Das Besondere: Eine eigene Software wertet die Bilder aus dem Mund- und Rachenraum in Echtzeit aus und bringt das Endoskop auf Bestätigung des Anwenders in die richtige Position. So können auch Personen mit weniger Erfahrung erfolgreich intubieren.\n\nDas ETH Spin-off hat bereits einige Innovationspreise gewonnen und kürzlich eine Finanzierungsrunde in der Höhe von über 500 000 Franken abgeschlossen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 211,
+        "end": 221
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 227,
+        "end": 245
+      },
+      {
+        "text": "Universitätsspitals Zürich",
+        "label": "LOC",
+        "start": 254,
+        "end": 280
+      },
+      {
+        "text": "Unser Gerät",
+        "label": "MISC",
+        "start": 375,
+        "end": 386
+      },
+      {
+        "text": "Philippe Ganz",
+        "label": "PER",
+        "start": 599,
+        "end": 612
+      },
+      {
+        "text": "ETH Spin-off",
+        "label": "ORG",
+        "start": 867,
+        "end": 879
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Philippe Ganz"
+      ],
+      "ORG": [
+        "ETH Spin-off",
+        "ETH Zürich",
+        "Universität Zürich"
+      ],
+      "LOCATION": [
+        "Universitätsspitals Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Unser Gerät"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 1,
+      "Universität Zürich": 1,
+      "Universitätsspitals Zürich": 1,
+      "Unser Gerät": 1,
+      "Philippe Ganz": 1,
+      "ETH Spin-off": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "sichere-intubation-dank-kuenstlicher-intelligenz-und-robotik.md",
+      "title": "De News Events/2023/06/sichere Intubation Dank Kuenstlicher Intelligenz und Robotik",
+      "language": "de",
+      "source_path": "de_news_events/2023/06/sichere-intubation-dank-kuenstlicher-intelligenz-und-robotik.html"
+    },
+    "temporal": {
+      "publication_date": "2023-06",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Philippe Ganz"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Unser Gerät"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Das ETH",
+        "Intubation Dank",
+        "Das Besondere",
+        "De News",
+        "Robotik Eine",
+        "Philippe Ganz",
+        "Kuenstlicher Intelligenz"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Spin-off",
+        "ETH Zürich",
+        "Universität Zürich"
+      ],
+      "locations": [
+        "Universitätsspitals Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "Universität Zürich",
+        "Universitätsspitals Zürich",
+        "Unser Gerät",
+        "Philippe Ganz",
+        "ETH Spin-off"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1100
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Spin-off",
+        "ETH Zürich",
+        "Philippe Ganz",
+        "Universität Zürich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Unser Gerät",
+        "computer_science",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

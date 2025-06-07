@@ -1,0 +1,208 @@
+{
+  "filename": "bike-to-work-2014.md",
+  "original_filename": "bike-to-work-2014.html",
+  "source_path": "en_internal/2014/04/bike-to-work-2014.html",
+  "date": "2014-04",
+  "title": "Bike To Work 2014",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "You are invited to participate, leave your car at home and get to work by bike on at least half of your working days in June. For even better motivation, you put together a team of four colleagues. One team member can participate by going to work, for instance, on foot or by skateboard.\n\nYou'll find all information concerning this campaign in English here: www.biketowork.ch .\n\nFollow this link to register directly (company name: ETH Zürich / choose a team name). Additional information regarding the application procedure can be found on the SSHE website on the ETH intranet.\n\nWith your help, ETH Zurich can reach a place among the companies with the highest number of participants again ‒ and you can win exciting prices.\n\nRead more about the safety advice of the bfu (Beratungsstelle für Unfallverhütung):\n\nwww.bfu.ch/de/sicherheitstipps/bfu-sicherheitstipp-april-2014 ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "at least half",
+        "label": "CARDINAL",
+        "start": 82,
+        "end": 95
+      },
+      {
+        "text": "June",
+        "label": "DATE",
+        "start": 120,
+        "end": 124
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 181,
+        "end": 185
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 198,
+        "end": 201
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 344,
+        "end": 351
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "PERSON",
+        "start": 431,
+        "end": 441
+      },
+      {
+        "text": "SSHE",
+        "label": "ORG",
+        "start": 544,
+        "end": 548
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 564,
+        "end": 567
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 594,
+        "end": 604
+      },
+      {
+        "text": "Beratungsstelle",
+        "label": "GPE",
+        "start": 770,
+        "end": 785
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zürich"
+      ],
+      "ORG": [
+        "ETH",
+        "SSHE"
+      ],
+      "LOCATION": [
+        "Beratungsstelle"
+      ],
+      "DATE": [
+        "June"
+      ],
+      "MISC": [
+        "English",
+        "One",
+        "at least half",
+        "four"
+      ]
+    },
+    "entity_counts": {
+      "at least half": 1,
+      "June": 1,
+      "four": 1,
+      "One": 1,
+      "English": 1,
+      "ETH Zürich": 1,
+      "SSHE": 1,
+      "ETH": 1,
+      "ETH Zurich": 1,
+      "Beratungsstelle": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "bike-to-work-2014.md",
+      "title": "En Internal/2014/04/bike To Work 2014",
+      "language": "en",
+      "source_path": "en_internal/2014/04/bike-to-work-2014.html"
+    },
+    "temporal": {
+      "publication_date": "2014-04",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zürich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "English",
+        "at least half",
+        "four"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Zurich",
+        "To Work",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "SSHE"
+      ],
+      "locations": [
+        "Beratungsstelle"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "at least half",
+        "June",
+        "four",
+        "One",
+        "English",
+        "ETH Zürich",
+        "SSHE",
+        "ETH",
+        "ETH Zurich",
+        "Beratungsstelle"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 914
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "SSHE",
+        "ETH Zürich",
+        "ETH Zurich",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "at least half",
+        "four",
+        "English",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

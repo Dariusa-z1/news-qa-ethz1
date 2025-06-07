@@ -1,0 +1,157 @@
+{
+  "filename": "gabriela-hug-on-the-topic-of-energy-supply.md",
+  "original_filename": "gabriela-hug-on-the-topic-of-energy-supply.html",
+  "source_path": "en_news_events/2022/02/gabriela-hug-on-the-topic-of-energy-supply.html",
+  "date": "2022-02",
+  "title": "Gabriela Hug On The Topic Of Energy Supply",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "How can renewable energy sources provide baseload power? Is there enough energy for everyone to drive an electric car? How likely are power outages? Gabriela Hug, Professor at the Power Systems Laboratory of ETH Zürich, answers these and other questions from the community.\n\nVideo: Ask the Expert –energy supply"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Topic Of Energy Supply",
+        "label": "WORK_OF_ART",
+        "start": 39,
+        "end": 65
+      },
+      {
+        "text": "Gabriela Hug",
+        "label": "PERSON",
+        "start": 149,
+        "end": 161
+      },
+      {
+        "text": "the Power Systems Laboratory",
+        "label": "ORG",
+        "start": 176,
+        "end": 204
+      },
+      {
+        "text": "Expert",
+        "label": "ORG",
+        "start": 289,
+        "end": 295
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Gabriela Hug"
+      ],
+      "ORG": [
+        "Expert",
+        "the Power Systems Laboratory"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "The Topic Of Energy Supply"
+      ]
+    },
+    "entity_counts": {
+      "The Topic Of Energy Supply": 1,
+      "Gabriela Hug": 1,
+      "the Power Systems Laboratory": 1,
+      "Expert": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "gabriela-hug-on-the-topic-of-energy-supply.md",
+      "title": "En News Events/2022/02/gabriela Hug On The Topic Of Energy Supply",
+      "language": "en",
+      "source_path": "en_news_events/2022/02/gabriela-hug-on-the-topic-of-energy-supply.html"
+    },
+    "temporal": {
+      "publication_date": "2022-02",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Gabriela Hug"
+      ],
+      "people_with_roles": {
+        "Gabriela Hug": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change"
+      ],
+      "research_topics": [
+        "The Topic Of Energy Supply"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Of Energy",
+        "Supply How",
+        "En News",
+        "Power Systems",
+        "The Topic",
+        "Hug On",
+        "Gabriela Hug"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Expert",
+        "the Power Systems Laboratory"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "how"
+      ],
+      "key_concepts": [
+        "The Topic Of Energy Supply",
+        "Gabriela Hug",
+        "the Power Systems Laboratory",
+        "Expert"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 377
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2022",
+        "the Power Systems Laboratory",
+        "Expert",
+        "Gabriela Hug"
+      ],
+      "semantic_concepts": [
+        "who",
+        "climate_change",
+        "how",
+        "The Topic Of Energy Supply"
+      ],
+      "graph_relations": [
+        "Gabriela Hug_has_role_professor",
+        "research_domain_climate_change"
+      ]
+    }
+  }
+}

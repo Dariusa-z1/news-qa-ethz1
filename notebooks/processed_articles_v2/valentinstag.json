@@ -1,0 +1,320 @@
+{
+  "filename": "valentinstag.md",
+  "original_filename": "valentinstag.html",
+  "source_path": "de_internal/2018/02/valentinstag.html",
+  "date": "2018-02",
+  "title": "Valentinstag",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Liebe an der ETH",
+      "text": "Jiayi und Chris haben sich vor zehn Jahren in der Asia Mensa im CLA-Gebäude kennengelernt und zwei Jahre später ihr ETH-Studium am Departement Management, Technologie und Ökonomie abgeschlossen. Heute arbeiten beide in Zürich und sind stolze Eltern eines kleinen Sohnes."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "Woranan und Kittiphon haben sich bei einem Abendessen eines gemeinsamen Freundes in Zürich kennengelernt. Beide absolvierten zu dieser Zeit ihren Master an der ETH. Derzeit führen sie eine Fernbeziehung, da Kittiphon in Barcelona und Woranan an der ETH doktoriert. Ihre Zukunft möchten sie am liebsten gemeinsam in ihrer Heimat Thailand verbringen."
+    },
+    {
+      "heading": "Newsletter abonnieren",
+      "text": "Eine Fahrt in der Polybahn führte dazu, dass sich Miriam und Jonas im 1. Semester ihres Physikstudiums an der ETH kennengelernt haben. Nach erfolgreichem Studium absolvieren beide nun ein Doktorat am Paul Scherrer Institut. Im Dezember 2017 haben sie geheiratet.\n\nAktuelle Ausgabe lesen"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/02/valentinstag",
+        "label": "LOC",
+        "start": 0,
+        "end": 32
+      },
+      {
+        "text": "Jiayi",
+        "label": "PER",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Chris",
+        "label": "LOC",
+        "start": 10,
+        "end": 15
+      },
+      {
+        "text": "Asia Mensa",
+        "label": "ORG",
+        "start": 50,
+        "end": 60
+      },
+      {
+        "text": "CLA-Gebäude",
+        "label": "MISC",
+        "start": 64,
+        "end": 75
+      },
+      {
+        "text": "ETH-Studium",
+        "label": "MISC",
+        "start": 116,
+        "end": 127
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 219,
+        "end": 225
+      },
+      {
+        "text": "Woranan",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Kittiphon",
+        "label": "LOC",
+        "start": 12,
+        "end": 21
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 84,
+        "end": 90
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 135,
+        "end": 139
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 160,
+        "end": 163
+      },
+      {
+        "text": "Barcelona",
+        "label": "LOC",
+        "start": 220,
+        "end": 229
+      },
+      {
+        "text": "Woranan",
+        "label": "LOC",
+        "start": 234,
+        "end": 241
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 249,
+        "end": 252
+      },
+      {
+        "text": "Thailand",
+        "label": "LOC",
+        "start": 328,
+        "end": 336
+      },
+      {
+        "text": "Polybahn",
+        "label": "LOC",
+        "start": 18,
+        "end": 26
+      },
+      {
+        "text": "Miriam",
+        "label": "PER",
+        "start": 50,
+        "end": 56
+      },
+      {
+        "text": "Jonas",
+        "label": "PER",
+        "start": 61,
+        "end": 66
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 110,
+        "end": 113
+      },
+      {
+        "text": "Paul Scherrer Institut",
+        "label": "PER",
+        "start": 200,
+        "end": 222
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Jiayi",
+        "Jonas",
+        "Miriam",
+        "Paul Scherrer Institut",
+        "Woranan"
+      ],
+      "ORG": [
+        "Asia Mensa",
+        "ETH"
+      ],
+      "LOCATION": [
+        "Barcelona",
+        "Chris",
+        "De Internal/2018/02/valentinstag",
+        "Kittiphon",
+        "Polybahn",
+        "Thailand",
+        "Woranan",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CLA-Gebäude",
+        "ETH-Studium",
+        "Zeit"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "Zürich": 2,
+      "Woranan": 2,
+      "De Internal/2018/02/valentinstag": 1,
+      "Jiayi": 1,
+      "Chris": 1,
+      "Asia Mensa": 1,
+      "CLA-Gebäude": 1,
+      "ETH-Studium": 1,
+      "Kittiphon": 1,
+      "Zeit": 1,
+      "Barcelona": 1,
+      "Thailand": 1,
+      "Polybahn": 1,
+      "Miriam": 1,
+      "Jonas": 1,
+      "Paul Scherrer Institut": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "valentinstag.md",
+      "title": "De Internal/2018/02/valentinstag",
+      "language": "de",
+      "source_path": "de_internal/2018/02/valentinstag.html"
+    },
+    "temporal": {
+      "publication_date": "2018-02",
+      "mentioned_years": [
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Jiayi",
+        "Jonas",
+        "Miriam",
+        "Paul Scherrer Institut",
+        "Woranan"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "CLA-Gebäude",
+        "ETH-Studium",
+        "Zeit"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Asia Mensa",
+        "Eine Fahrt",
+        "Ihre Zukunft",
+        "Aktuelle Ausgabe",
+        "Departement Management",
+        "De Internal",
+        "Heimat Thailand",
+        "Im Dezember",
+        "ETH-Studium",
+        "Paul Scherrer"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Asia Mensa",
+        "ETH"
+      ],
+      "locations": [
+        "Barcelona",
+        "Chris",
+        "De Internal/2018/02/valentinstag",
+        "Kittiphon",
+        "Polybahn",
+        "Thailand",
+        "Woranan",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH",
+        "Zürich",
+        "Woranan",
+        "De Internal/2018/02/valentinstag",
+        "Jiayi",
+        "Chris",
+        "Asia Mensa",
+        "CLA-Gebäude",
+        "ETH-Studium",
+        "Kittiphon"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Liebe an der ETH",
+          "Staffnet",
+          "Newsletter abonnieren"
+        ],
+        "content_length": 939
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Asia Mensa",
+        "ETH",
+        "Jonas",
+        "Paul Scherrer Institut",
+        "2017",
+        "Miriam",
+        "EU",
+        "Woranan",
+        "Jiayi"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Studium",
+        "Zeit",
+        "CLA-Gebäude"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

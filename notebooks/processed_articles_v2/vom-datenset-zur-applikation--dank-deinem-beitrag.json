@@ -1,0 +1,283 @@
+{
+  "filename": "vom-datenset-zur-applikation--dank-deinem-beitrag.md",
+  "original_filename": "vom-datenset-zur-applikation--dank-deinem-beitrag.html",
+  "source_path": "de_internal/2018/08/vom-datenset-zur-applikation--dank-deinem-beitrag.html",
+  "date": "2018-08",
+  "title": "Vom Datenset Zur Applikation Dank Deinem Beitrag",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "None",
+      "text": "Am jährlichen Swiss Open Cultural Data Hackathon hast Du die Möglichkeit, Dich mit anderen Gleichgesinnten zusammenzutun und deine Programmierkünste spielen zu lassen. Der Hackathon findet dieses Jahr vom 26.-28. Oktober 2018 im Landesmuseum Zürich statt.\n\nInteressiert? Am Pre-Event zeigen wir Dir, was am Hackathon passiert, wer Datensätze zur Verfügung stellt und wie Du Dich einbringen kannst. Der Pre-Event findet am Dienstag, 11. September 2018 von 14-16.15 Uhr an der ETH Zürich, Gebäude CLA, Raum J1 (Tannenstrasse 3, 8092 Zürich) statt. Wir freuen uns auf Dich! externe Seite Weitere Informationen und Programm GLAM steht für Galleries, Libraries, Archives, Museums. Die Initiative openGLAM will helfen, kulturelle Schätze frei im Internet zugänglich machen und zu präsentieren."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/08/vom Datenset",
+        "label": "LOC",
+        "start": 0,
+        "end": 32
+      },
+      {
+        "text": "Swiss Open Cultural Data",
+        "label": "MISC",
+        "start": 14,
+        "end": 38
+      },
+      {
+        "text": "Du",
+        "label": "PER",
+        "start": 54,
+        "end": 56
+      },
+      {
+        "text": "Hackathon",
+        "label": "MISC",
+        "start": 172,
+        "end": 181
+      },
+      {
+        "text": "Landesmuseum Zürich",
+        "label": "LOC",
+        "start": 229,
+        "end": 248
+      },
+      {
+        "text": "Interessiert",
+        "label": "PER",
+        "start": 256,
+        "end": 268
+      },
+      {
+        "text": "Hackathon",
+        "label": "MISC",
+        "start": 306,
+        "end": 315
+      },
+      {
+        "text": "Du Dich",
+        "label": "PER",
+        "start": 370,
+        "end": 377
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 474,
+        "end": 484
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 530,
+        "end": 536
+      },
+      {
+        "text": "Dich!",
+        "label": "ORG",
+        "start": 564,
+        "end": 569
+      },
+      {
+        "text": "GLAM",
+        "label": "ORG",
+        "start": 619,
+        "end": 623
+      },
+      {
+        "text": "Libraries",
+        "label": "LOC",
+        "start": 645,
+        "end": 654
+      },
+      {
+        "text": "Archives",
+        "label": "LOC",
+        "start": 656,
+        "end": 664
+      },
+      {
+        "text": "Museums",
+        "label": "LOC",
+        "start": 666,
+        "end": 673
+      },
+      {
+        "text": "openGLAM",
+        "label": "MISC",
+        "start": 690,
+        "end": 698
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 739,
+        "end": 747
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Du",
+        "Du Dich",
+        "Interessiert"
+      ],
+      "ORG": [
+        "Dich!",
+        "ETH Zürich",
+        "GLAM"
+      ],
+      "LOCATION": [
+        "Archives",
+        "De Internal/2018/08/vom Datenset",
+        "Landesmuseum Zürich",
+        "Libraries",
+        "Museums",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Hackathon",
+        "Internet",
+        "Swiss Open Cultural Data",
+        "openGLAM"
+      ]
+    },
+    "entity_counts": {
+      "Hackathon": 2,
+      "De Internal/2018/08/vom Datenset": 1,
+      "Swiss Open Cultural Data": 1,
+      "Du": 1,
+      "Landesmuseum Zürich": 1,
+      "Interessiert": 1,
+      "Du Dich": 1,
+      "ETH Zürich": 1,
+      "Zürich": 1,
+      "Dich!": 1,
+      "GLAM": 1,
+      "Libraries": 1,
+      "Archives": 1,
+      "Museums": 1,
+      "openGLAM": 1,
+      "Internet": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "vom-datenset-zur-applikation--dank-deinem-beitrag.md",
+      "title": "De Internal/2018/08/vom Datenset Zur Applikation Dank Deinem Beitrag",
+      "language": "de",
+      "source_path": "de_internal/2018/08/vom-datenset-zur-applikation--dank-deinem-beitrag.html"
+    },
+    "temporal": {
+      "publication_date": "2018-08",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Du",
+        "Du Dich",
+        "Interessiert"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Hackathon",
+        "Internet",
+        "Swiss Open Cultural Data",
+        "openGLAM"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Programm GLAM",
+        "Der Pre",
+        "Datenset Zur",
+        "Die Initiative",
+        "Cultural Data",
+        "De Internal",
+        "Deinem Beitrag",
+        "Swiss Open",
+        "Der Hackathon",
+        "Seite Weitere",
+        "Applikation Dank",
+        "Am Pre",
+        "Du Dich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Dich!",
+        "ETH Zürich",
+        "GLAM"
+      ],
+      "locations": [
+        "Archives",
+        "De Internal/2018/08/vom Datenset",
+        "Landesmuseum Zürich",
+        "Libraries",
+        "Museums",
+        "Zürich"
+      ],
+      "programs": [
+        "program",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Hackathon",
+        "De Internal/2018/08/vom Datenset",
+        "Swiss Open Cultural Data",
+        "Du",
+        "Landesmuseum Zürich",
+        "Interessiert",
+        "Du Dich",
+        "ETH Zürich",
+        "Zürich",
+        "Dich!"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "None"
+        ],
+        "content_length": 856
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Du",
+        "EU",
+        "ETH Zürich",
+        "Interessiert",
+        "Dich!",
+        "GLAM",
+        "Du Dich"
+      ],
+      "semantic_concepts": [
+        "openGLAM",
+        "Internet",
+        "Swiss Open Cultural Data",
+        "when",
+        "Hackathon"
+      ],
+      "graph_relations": []
+    }
+  }
+}

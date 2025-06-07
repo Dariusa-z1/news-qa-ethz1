@@ -1,0 +1,160 @@
+{
+  "filename": "studierendenportrait-agon-besimi.md",
+  "original_filename": "studierendenportrait-agon-besimi.html",
+  "source_path": "de_news_events/2023/01/studierendenportrait-agon-besimi.html",
+  "date": "2023-01",
+  "title": "Studierendenportrait Agon Besimi",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Beratung für Studierende",
+      "text": "Das Studium an der ETH Zürich ist herausfordernd und alle Studierenden haben ihre Hürden zu überwinden. Diese Videoserie zeigt persönliche Porträts von ETH-Studierenden.\n\nEs stehen Ihnen Beratungsstellen für (fast) alle Situationen im Studium zur Verfügung."
+    },
+    {
+      "heading": "Weitere Informationen",
+      "text": "Dank des externe Seite ESOP-Stipendiums konnte Agon Besimi an die ETH Zürich kommen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Agon Besimi",
+        "label": "PER",
+        "start": 44,
+        "end": 55
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 19,
+        "end": 29
+      },
+      {
+        "text": "ETH-Studierenden",
+        "label": "ORG",
+        "start": 152,
+        "end": 168
+      },
+      {
+        "text": "ESOP-Stipendiums",
+        "label": "ORG",
+        "start": 23,
+        "end": 39
+      },
+      {
+        "text": "Agon Besimi",
+        "label": "PER",
+        "start": 47,
+        "end": 58
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 66,
+        "end": 76
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Agon Besimi"
+      ],
+      "ORG": [
+        "ESOP-Stipendiums",
+        "ETH Zürich",
+        "ETH-Studierenden"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Agon Besimi": 2,
+      "ETH Zürich": 2,
+      "ETH-Studierenden": 1,
+      "ESOP-Stipendiums": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "studierendenportrait-agon-besimi.md",
+      "title": "De News Events/2023/01/studierendenportrait Agon Besimi",
+      "language": "de",
+      "source_path": "de_news_events/2023/01/studierendenportrait-agon-besimi.html"
+    },
+    "temporal": {
+      "publication_date": "2023-01",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Agon Besimi"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Diese Videoserie",
+        "Seite ESOP",
+        "Ihnen Beratungsstellen",
+        "ETH-Studierenden",
+        "De News",
+        "Das Studium",
+        "Agon Besimi"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ESOP-Stipendiums",
+        "ETH Zürich",
+        "ETH-Studierenden"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Agon Besimi",
+        "ETH Zürich",
+        "ETH-Studierenden",
+        "ESOP-Stipendiums"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Beratung für Studierende",
+          "Weitere Informationen"
+        ],
+        "content_length": 398
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "ETH-Studierenden",
+        "Agon Besimi",
+        "ESOP-Stipendiums",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

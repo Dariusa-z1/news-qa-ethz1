@@ -1,0 +1,503 @@
+{
+  "filename": "clarifying-the-cause-of-guillain-barre-syndrom.md",
+  "original_filename": "clarifying-the-cause-of-guillain-barre-syndrom.html",
+  "source_path": "en_news_events/2024/01/clarifying-the-cause-of-guillain-barre-syndrom.html",
+  "date": "2024-01",
+  "title": "Clarifying The Cause Of Guillain Barre Syndrom",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Autoreactive T cells target peripheral nerves",
+      "text": "Patients with Guillain-Barré syndrome (GBS) face a rare and heterogeneous disorder of the peripheral nervous system that is often triggered by preceding infections and causes severe muscle weakness. In Europe and the USA, around 1 to 2 cases per 100,000 people occur every year.\n\nGBS usually begins with weakness and tingling in the legs, which can then spread to the arms and upper body, making it difficult to walk or move. In severe cases, paralysis can affect the breathing muscles. Although GBS is considered an autoimmune disease, the underlying mechanisms remain largely unknown, making an accurate diagnosis and effective treatment a challenge.\n\nA recent study led by Daniela Latorre, an SNSF PRIMA group leader at the Institute of Microbiology at ETH Zurich, and published in the renowned journal Nature , now uncovers a pivotal aspect of GBS pathophysiology. The work investigated autoimmune factors that are potentially responsible for this illness in close collaboration with clinical scientists at the University Hospital Zurich and the Neurocenter of Southern Switzerland (EOC) in Lugano."
+    },
+    {
+      "heading": "Autoreactive T cells target peripheral nerves",
+      "text": "By employing sensitive experimental approaches, Latorre’ s group was able to reveal that in GBS patients, specific cells of the immune system known as T lymphocytes invade the nerve tissue and target the insulating covering of nerve fibres called myelin.\n\nNormally, T lymphocytes play a vital role in our immune system by identifying and eliminating threats like infections and abnormal cells. However, in rare cases, they can mistakenly attack the body’s own tissues, leading to autoimmune diseases.\n\n“We found that these autoreactive T lymphocytes were exclusive to patients with a type of GBS characterised by nerve demyelination and showed a specific disease-associated signature, distinguishing them from healthy individuals,” Latorre explains. These findings mark the first evidence of the contribution of autoreactive T lymphocytes to the disease in humans.\n\nFurthermore, the researchers identified T lymphocytes reactive to both self-antigens of peripheral nerves (myelin) and viral antigens in a subset of post-viral GBS patients, supporting a direct link between disease development and triggers of a preceding infection.\n\nCurrent treatments are effective for many GBS patients, but they lack specificity, and around 20% of patients remain severely disabled or die. Overall, the work of the research team offers novel insights into our understanding of GBS, opening avenues for further investigations on larger patient groups to decipher immune mechanisms in different GBS variants. This new knowledge could lead to targeted therapies for specific GBS subtypes, potentially improving patient care.\n\nThis research was funded by the Swiss National Science Foundation, ETH Zurich, the Swiss Foundation for Research on Muscle Diseases and the GBS/CIDP Foundation International.\n\nSúkeníková L, Mallone A, Schreiner B, Ripellino P, Nilsson J, Stoffel M, Ulbrich SE, Sallusto F, Latorre D. Autoreactive T cells target peripheral nerves in Guillain–Barré syndrome. Nature (2024). DOI: 10.1038/s41586-023-06916-6"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Cause Of Guillain Barre Syndrom",
+        "label": "WORK_OF_ART",
+        "start": 34,
+        "end": 69
+      },
+      {
+        "text": "GBS",
+        "label": "ORG",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 202,
+        "end": 208
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 217,
+        "end": 220
+      },
+      {
+        "text": "100,000",
+        "label": "CARDINAL",
+        "start": 246,
+        "end": 253
+      },
+      {
+        "text": "every year",
+        "label": "DATE",
+        "start": 267,
+        "end": 277
+      },
+      {
+        "text": "GBS",
+        "label": "ORG",
+        "start": 279,
+        "end": 282
+      },
+      {
+        "text": "GBS",
+        "label": "ORG",
+        "start": 495,
+        "end": 498
+      },
+      {
+        "text": "Daniela Latorre",
+        "label": "PERSON",
+        "start": 674,
+        "end": 689
+      },
+      {
+        "text": "the Institute of Microbiology",
+        "label": "ORG",
+        "start": 721,
+        "end": 750
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 804,
+        "end": 810
+      },
+      {
+        "text": "GBS",
+        "label": "ORG",
+        "start": 846,
+        "end": 849
+      },
+      {
+        "text": "the University Hospital Zurich",
+        "label": "ORG",
+        "start": 1009,
+        "end": 1039
+      },
+      {
+        "text": "the Neurocenter of Southern Switzerland",
+        "label": "ORG",
+        "start": 1044,
+        "end": 1083
+      },
+      {
+        "text": "EOC",
+        "label": "ORG",
+        "start": 1085,
+        "end": 1088
+      },
+      {
+        "text": "Lugano",
+        "label": "GPE",
+        "start": 1093,
+        "end": 1099
+      },
+      {
+        "text": "Latorre",
+        "label": "PERSON",
+        "start": 48,
+        "end": 55
+      },
+      {
+        "text": "GBS",
+        "label": "ORG",
+        "start": 92,
+        "end": 95
+      },
+      {
+        "text": "myelin",
+        "label": "PERSON",
+        "start": 247,
+        "end": 253
+      },
+      {
+        "text": "GBS",
+        "label": "ORG",
+        "start": 590,
+        "end": 593
+      },
+      {
+        "text": "Latorre",
+        "label": "PERSON",
+        "start": 730,
+        "end": 737
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 772,
+        "end": 777
+      },
+      {
+        "text": "myelin",
+        "label": "PERSON",
+        "start": 970,
+        "end": 976
+      },
+      {
+        "text": "GBS",
+        "label": "ORG",
+        "start": 1023,
+        "end": 1026
+      },
+      {
+        "text": "GBS",
+        "label": "ORG",
+        "start": 1171,
+        "end": 1174
+      },
+      {
+        "text": "around 20%",
+        "label": "PERCENT",
+        "start": 1216,
+        "end": 1226
+      },
+      {
+        "text": "GBS",
+        "label": "ORG",
+        "start": 1359,
+        "end": 1362
+      },
+      {
+        "text": "GBS",
+        "label": "ORG",
+        "start": 1475,
+        "end": 1478
+      },
+      {
+        "text": "GBS",
+        "label": "ORG",
+        "start": 1554,
+        "end": 1557
+      },
+      {
+        "text": "the Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 1632,
+        "end": 1669
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1671,
+        "end": 1681
+      },
+      {
+        "text": "the Swiss Foundation for Research on Muscle Diseases",
+        "label": "ORG",
+        "start": 1683,
+        "end": 1735
+      },
+      {
+        "text": "the GBS/CIDP Foundation International",
+        "label": "ORG",
+        "start": 1740,
+        "end": 1777
+      },
+      {
+        "text": "Súkeníková L",
+        "label": "PERSON",
+        "start": 1779,
+        "end": 1791
+      },
+      {
+        "text": "Schreiner B",
+        "label": "ORG",
+        "start": 1804,
+        "end": 1815
+      },
+      {
+        "text": "Ripellino P",
+        "label": "PERSON",
+        "start": 1817,
+        "end": 1828
+      },
+      {
+        "text": "Sallusto F",
+        "label": "PERSON",
+        "start": 1864,
+        "end": 1874
+      },
+      {
+        "text": "Latorre D. Autoreactive",
+        "label": "PERSON",
+        "start": 1876,
+        "end": 1899
+      },
+      {
+        "text": "Guillain",
+        "label": "GPE",
+        "start": 1936,
+        "end": 1944
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1981,
+        "end": 1988
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Daniela Latorre",
+        "ETH Zurich",
+        "Latorre",
+        "Latorre D. Autoreactive",
+        "Ripellino P",
+        "Sallusto F",
+        "Súkeníková L",
+        "myelin"
+      ],
+      "ORG": [
+        "EOC",
+        "GBS",
+        "Schreiner B",
+        "the GBS/CIDP Foundation International",
+        "the Institute of Microbiology",
+        "the Neurocenter of Southern Switzerland",
+        "the Swiss Foundation for Research on Muscle Diseases",
+        "the Swiss National Science Foundation",
+        "the University Hospital Zurich"
+      ],
+      "LOCATION": [
+        "Europe",
+        "Guillain",
+        "Lugano",
+        "USA"
+      ],
+      "DATE": [
+        "every year"
+      ],
+      "MISC": [
+        "10.1038",
+        "100,000",
+        "Nature",
+        "The Cause Of Guillain Barre Syndrom",
+        "around 20%",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "GBS": 11,
+      "Latorre": 2,
+      "myelin": 2,
+      "The Cause Of Guillain Barre Syndrom": 1,
+      "Europe": 1,
+      "USA": 1,
+      "100,000": 1,
+      "every year": 1,
+      "Daniela Latorre": 1,
+      "the Institute of Microbiology": 1,
+      "Nature": 1,
+      "the University Hospital Zurich": 1,
+      "the Neurocenter of Southern Switzerland": 1,
+      "EOC": 1,
+      "Lugano": 1,
+      "first": 1,
+      "around 20%": 1,
+      "the Swiss National Science Foundation": 1,
+      "ETH Zurich": 1,
+      "the Swiss Foundation for Research on Muscle Diseases": 1
+    },
+    "total_entities": 40,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "clarifying-the-cause-of-guillain-barre-syndrom.md",
+      "title": "En News Events/2024/01/clarifying The Cause Of Guillain Barre Syndrom",
+      "language": "en",
+      "source_path": "en_news_events/2024/01/clarifying-the-cause-of-guillain-barre-syndrom.html"
+    },
+    "temporal": {
+      "publication_date": "2024-01",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Daniela Latorre",
+        "ETH Zurich",
+        "Latorre",
+        "Latorre D. Autoreactive",
+        "Ripellino P",
+        "Sallusto F",
+        "Súkeníková L",
+        "myelin"
+      ],
+      "people_with_roles": {
+        "myelin": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "100,000",
+        "Nature",
+        "The Cause Of Guillain Barre Syndrom",
+        "around 20%",
+        "first"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "In Europe",
+        "Barre Syndrom",
+        "SNSF PRIMA",
+        "Ulbrich SE",
+        "Southern Switzerland",
+        "University Hospital",
+        "Schreiner B",
+        "Nilsson J",
+        "Although GBS",
+        "Muscle Diseases",
+        "Swiss National",
+        "Daniela Latorre",
+        "Stoffel M",
+        "Mallone A",
+        "Of Guillain",
+        "Science Foundation",
+        "CIDP Foundation",
+        "The Cause",
+        "Latorre D",
+        "Sallusto F",
+        "Autoreactive T",
+        "En News",
+        "Swiss Foundation",
+        "Ripellino P",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "EOC",
+        "GBS",
+        "Schreiner B",
+        "the GBS/CIDP Foundation International",
+        "the Institute of Microbiology",
+        "the Neurocenter of Southern Switzerland",
+        "the Swiss Foundation for Research on Muscle Diseases",
+        "the Swiss National Science Foundation",
+        "the University Hospital Zurich"
+      ],
+      "locations": [
+        "Europe",
+        "Guillain",
+        "Lugano",
+        "USA"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "GBS",
+        "Latorre",
+        "myelin",
+        "The Cause Of Guillain Barre Syndrom",
+        "Europe",
+        "USA",
+        "100,000",
+        "every year",
+        "Daniela Latorre",
+        "the Institute of Microbiology"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Autoreactive T cells target peripheral nerves",
+          "Autoreactive T cells target peripheral nerves"
+        ],
+        "content_length": 3186
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Swiss Foundation for Research on Muscle Diseases",
+        "GBS",
+        "Schreiner B",
+        "the GBS/CIDP Foundation International",
+        "myelin",
+        "the Swiss National Science Foundation",
+        "EOC",
+        "the Neurocenter of Southern Switzerland",
+        "the Institute of Microbiology",
+        "Daniela Latorre",
+        "EU",
+        "the University Hospital Zurich",
+        "Sallusto F",
+        "2024",
+        "Latorre",
+        "Latorre D. Autoreactive",
+        "Ripellino P",
+        "ETH Zurich",
+        "Súkeníková L"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "The Cause Of Guillain Barre Syndrom",
+        "Nature",
+        "first",
+        "who",
+        "around 20%",
+        "10.1038",
+        "what",
+        "how",
+        "100,000",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "myelin_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

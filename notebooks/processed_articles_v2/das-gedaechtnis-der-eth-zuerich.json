@@ -1,0 +1,248 @@
+{
+  "filename": "das-gedaechtnis-der-eth-zuerich.md",
+  "original_filename": "das-gedaechtnis-der-eth-zuerich.html",
+  "source_path": "en_internal/2019/11/das-gedaechtnis-der-eth-zuerich.html",
+  "date": "2019-11",
+  "title": "Das Gedaechtnis Der Eth Zuerich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Are you interested in exploring the history of ETH Zurich, or the life and works of prominent scientists such as Nobel Prize winners Albert Einstein or Vladimir Prelog? Then, the ETH Zurich University Archives are exactly the right place for you.\n\nThe team at the University Archives is responsible for securing, indexing and mediating important documents relating to ETH Zurich and the ETH Board, as well as managing scientific papers from former ETH members.\n\nGet to know the University Archives in a new video, and discover how its team can assist and advise you with a range of questions and concerns.\n\nWant to learn more? Visit the University Archives’ informative websites\n\n#KnowHow – ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Eth Zuerich",
+        "label": "PERSON",
+        "start": 40,
+        "end": 51
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 47,
+        "end": 57
+      },
+      {
+        "text": "Nobel Prize",
+        "label": "WORK_OF_ART",
+        "start": 113,
+        "end": 124
+      },
+      {
+        "text": "Albert Einstein",
+        "label": "PERSON",
+        "start": 133,
+        "end": 148
+      },
+      {
+        "text": "Vladimir Prelog",
+        "label": "PERSON",
+        "start": 152,
+        "end": 167
+      },
+      {
+        "text": "the ETH Zurich University Archives",
+        "label": "ORG",
+        "start": 175,
+        "end": 209
+      },
+      {
+        "text": "the University Archives",
+        "label": "ORG",
+        "start": 259,
+        "end": 282
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 367,
+        "end": 377
+      },
+      {
+        "text": "the ETH Board",
+        "label": "ORG",
+        "start": 382,
+        "end": 395
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 447,
+        "end": 450
+      },
+      {
+        "text": "the University Archives",
+        "label": "ORG",
+        "start": 472,
+        "end": 495
+      },
+      {
+        "text": "the University Archives",
+        "label": "ORG",
+        "start": 630,
+        "end": 653
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Albert Einstein",
+        "ETH Zurich",
+        "Eth Zuerich",
+        "Vladimir Prelog"
+      ],
+      "ORG": [
+        "ETH",
+        "the ETH Board",
+        "the ETH Zurich University Archives",
+        "the University Archives"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "Nobel Prize"
+      ]
+    },
+    "entity_counts": {
+      "the University Archives": 3,
+      "ETH Zurich": 2,
+      "Eth Zuerich": 1,
+      "Nobel Prize": 1,
+      "Albert Einstein": 1,
+      "Vladimir Prelog": 1,
+      "the ETH Zurich University Archives": 1,
+      "the ETH Board": 1,
+      "ETH": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "das-gedaechtnis-der-eth-zuerich.md",
+      "title": "En Internal/2019/11/das Gedaechtnis der Eth Zuerich",
+      "language": "en",
+      "source_path": "en_internal/2019/11/das-gedaechtnis-der-eth-zuerich.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Albert Einstein",
+        "ETH Zurich",
+        "Eth Zuerich",
+        "Vladimir Prelog"
+      ],
+      "people_with_roles": {
+        "Albert Einstein": [
+          "scientist"
+        ],
+        "ETH Zurich": [
+          "scientist"
+        ],
+        "Eth Zuerich": [
+          "scientist"
+        ],
+        "Vladimir Prelog": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "Nobel Prize"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Albert Einstein",
+        "Nobel Prize",
+        "ETH Board",
+        "ETH Library",
+        "En Internal",
+        "University Archives",
+        "Vladimir Prelog",
+        "Eth Zuerich",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "the ETH Board",
+        "the ETH Zurich University Archives",
+        "the University Archives"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "the University Archives",
+        "ETH Zurich",
+        "Eth Zuerich",
+        "Nobel Prize",
+        "Albert Einstein",
+        "Vladimir Prelog",
+        "the ETH Zurich University Archives",
+        "the ETH Board",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 804
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Albert Einstein",
+        "2019",
+        "the ETH Zurich University Archives",
+        "the ETH Board",
+        "Vladimir Prelog",
+        "Eth Zuerich",
+        "the University Archives",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "Nobel Prize",
+        "who",
+        "how",
+        "engineering",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Albert Einstein_has_role_scientist",
+        "ETH Zurich_has_role_scientist",
+        "Eth Zuerich_has_role_scientist",
+        "Vladimir Prelog_has_role_scientist",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

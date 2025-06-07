@@ -1,0 +1,179 @@
+{
+  "filename": "publishing-research-data-in-the-eth-data-archive.md",
+  "original_filename": "publishing-research-data-in-the-eth-data-archive.html",
+  "source_path": "en_internal/2016/02/publishing-research-data-in-the-eth-data-archive.html",
+  "date": "2016-02",
+  "title": "Publishing Research Data In The Eth Data Archive",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Are you looking to publish selected research data and render it citable with a DOI (Digital Object Identifier)?\n\nThe ETH Data Archive offers this service to members of ETH Zurich for data that is also intended to remain available in the long term. There are two options to choose from:\n\nMoreover, you can create and manage file structures with the tool docuteam packer, enter details and thus upload data onto the ETH Data Archive in a structured manner. We will gladly advise you on the right procedure for you.\n\nFurther information to digital curation"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Research Data",
+        "label": "ORG",
+        "start": 31,
+        "end": 44
+      },
+      {
+        "text": "The Eth Data Archive",
+        "label": "ORG",
+        "start": 48,
+        "end": 68
+      },
+      {
+        "text": "Digital Object Identifier",
+        "label": "ORG",
+        "start": 84,
+        "end": 109
+      },
+      {
+        "text": "The ETH Data Archive",
+        "label": "ORG",
+        "start": 112,
+        "end": 132
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 167,
+        "end": 177
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 257,
+        "end": 260
+      },
+      {
+        "text": "the ETH Data Archive",
+        "label": "ORG",
+        "start": 408,
+        "end": 428
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "Digital Object Identifier",
+        "Research Data",
+        "The ETH Data Archive",
+        "The Eth Data Archive",
+        "the ETH Data Archive"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Research Data": 1,
+      "The Eth Data Archive": 1,
+      "Digital Object Identifier": 1,
+      "The ETH Data Archive": 1,
+      "ETH Zurich": 1,
+      "two": 1,
+      "the ETH Data Archive": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "publishing-research-data-in-the-eth-data-archive.md",
+      "title": "En Internal/2016/02/publishing Research Data in The Eth Data Archive",
+      "language": "en",
+      "source_path": "en_internal/2016/02/publishing-research-data-in-the-eth-data-archive.html"
+    },
+    "temporal": {
+      "publication_date": "2016-02",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "The Eth",
+        "Research Data",
+        "Data Archive",
+        "En Internal",
+        "ETH Data",
+        "Digital Object",
+        "ETH Zurich",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Digital Object Identifier",
+        "Research Data",
+        "The ETH Data Archive",
+        "The Eth Data Archive",
+        "the ETH Data Archive"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "Research Data",
+        "The Eth Data Archive",
+        "Digital Object Identifier",
+        "The ETH Data Archive",
+        "ETH Zurich",
+        "two",
+        "the ETH Data Archive"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 622
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Research Data",
+        "Digital Object Identifier",
+        "The Eth Data Archive",
+        "2016",
+        "the ETH Data Archive",
+        "ETH Zurich",
+        "The ETH Data Archive"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "filename": "blog-finger-risikoindikatoren-pflanzenschutz.md",
+  "original_filename": "blog-finger-risikoindikatoren-pflanzenschutz.html",
+  "source_path": "en_news_events/2018/08/blog-finger-risikoindikatoren-pflanzenschutz.html",
+  "date": "2018-08",
+  "title": "Blog Finger Risikoindikatoren Pflanzenschutz",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Commonly-used indicators are inadequate",
+      "text": "Reducing the risks to humans and the environment from pesticide use is crucial to agricultural and environmental policy worldwide. In Switzerland, two popular initiatives are currently seeking drastic restrictions on the use of pesticides, and in 2017 the Federal Council adopted a national action plan to reduce risks. However, policy measures are only effective if based on measurable and meaningful indicators."
+    },
+    {
+      "heading": "Commonly-used indicators are inadequate",
+      "text": "A meaningful indicator makes it possible to classify pesticide applications according to risk. Only then can we identify appropriate measures such as restrictions on application, promotion of certain cultivation practices, or incentive taxes 1 . But the social and political debate is dominated by quantity-based indicators such as kilograms per hectare.\n\nSuch indicators are counterproductive because they overlook risks and may even obscure them. For example, pests are controlled with insecticides, which are applied in low doses but can be highly toxic. Vegetable oils are also used, which are only slightly toxic but sprayed in large quantities.\n\nBoth the quantity and the risk of individual substances must be considered in order that we can take effective measures. A study from the USA showed that trends in pesticide use calculated from national statistics may even reverse. This depends on the indicator used; while the amount of herbicides used in the US has increased over time, the risks have decreased 2 ."
+    },
+    {
+      "heading": "Extreme risks remain undetected",
+      "text": "In our new study 3 , we have shown that quantity-based indicators cannot identify particularly high-risk pesticide applications as such. For the study, we tested the two most common quantity indicators (quantity per hectare and standard applications per hectare) and the in Denmark used risk indicator \"Pesticide Load\". The latter makes it possible to describe, extensively and in detail, the risks to humans and the environment 4 .\n\nBased on Swiss winter wheat and potato production in the years 2009-2013, we calculated all three indicators in parallel. The analysis is based on observed application patterns of pesticides in various farms over several years, and so presents a realistic picture. We then examined whether the indicators that quantify the amount of pesticide used also allow an assessment of the risks. We calculated this using correlation coefficients and copulas. Correlation coefficients indicate whether there is on average a linear relationship between risk and quantity indicators. Copulas make it possible to investigate this relationship for applications with extremely low and extremely high risks in particular."
+    },
+    {
+      "heading": "References",
+      "text": "The results show that, on average, the larger the quantity of pesticide, the greater the risks. However, extremely high risks are not identified at all by the quantity indicators currently used – and that also holds true for politically controversial pesticides."
+    },
+    {
+      "heading": "Implications for policymaking",
+      "text": "Aiming at reducing high quantities or intensities is alone certainly not a meaningful strategy if we want to reduce the risks to human health and the environment. Stipulating for example that \"the amount of pesticide applied must be reduced\" is not helpful; on the contrary: the use of quantity indicators can lead to distortion and even to a reversal of the intention of the measures introduced by the policy. A sound (inter)national risk indicator is required for a sound crop protection policy. This is what is currently missing in many countries, including Switzerland.\n\nRobert Finger wrote this blog together with Niklas Möhring .\n\n1 Zukunftsblog: Protecting plants intelligently 2 Kniss, A. R. (2017). Long-term trends in the intensity and relative toxicity of herbicide use. Nature communications, 8, 14865. 3 Möhring, N., Gaba, S., & Finger, R. (2019). Quantity based indicators fail to identify extreme pesticide risks. Science of The Total Environment 646, 503-523 4 Kudsk, P., Jørgensen, L. N., & Ørum, J. E. (2018). Pesticide Load—A new Danish pesticide risk indicator with multiple applications. Land Use Policy, 70, 384-393.\n\nRo bert Fi nger Professor of Agricultural Economics and Policy, ETH Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Finger Risikoindikatoren Pflanzenschutz",
+        "label": "PERSON",
+        "start": 28,
+        "end": 67
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 134,
+        "end": 145
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 147,
+        "end": 150
+      },
+      {
+        "text": "the Federal Council",
+        "label": "ORG",
+        "start": 252,
+        "end": 271
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 788,
+        "end": 791
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 961,
+        "end": 963
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 166,
+        "end": 169
+      },
+      {
+        "text": "Denmark",
+        "label": "GPE",
+        "start": 274,
+        "end": 281
+      },
+      {
+        "text": "Pesticide Load",
+        "label": "WORK_OF_ART",
+        "start": 303,
+        "end": 317
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 442,
+        "end": 447
+      },
+      {
+        "text": "winter",
+        "label": "DATE",
+        "start": 448,
+        "end": 454
+      },
+      {
+        "text": "the years 2009-2013",
+        "label": "DATE",
+        "start": 486,
+        "end": 505
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 525,
+        "end": 530
+      },
+      {
+        "text": "several years",
+        "label": "DATE",
+        "start": 646,
+        "end": 659
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 561,
+        "end": 572
+      },
+      {
+        "text": "Robert Finger",
+        "label": "PERSON",
+        "start": 574,
+        "end": 587
+      },
+      {
+        "text": "Niklas Möhring",
+        "label": "PERSON",
+        "start": 618,
+        "end": 632
+      },
+      {
+        "text": "1 Zukunftsblog",
+        "label": "CARDINAL",
+        "start": 635,
+        "end": 649
+      },
+      {
+        "text": "8, 14865",
+        "label": "DATE",
+        "start": 803,
+        "end": 811
+      },
+      {
+        "text": "Gaba",
+        "label": "GPE",
+        "start": 828,
+        "end": 832
+      },
+      {
+        "text": "R.",
+        "label": "NORP",
+        "start": 848,
+        "end": 850
+      },
+      {
+        "text": "Jørgensen",
+        "label": "PERSON",
+        "start": 986,
+        "end": 995
+      },
+      {
+        "text": "L. N.,",
+        "label": "PERSON",
+        "start": 997,
+        "end": 1003
+      },
+      {
+        "text": "J. E.",
+        "label": "PERSON",
+        "start": 1012,
+        "end": 1017
+      },
+      {
+        "text": "Pesticide Load",
+        "label": "LOC",
+        "start": 1026,
+        "end": 1040
+      },
+      {
+        "text": "Danish",
+        "label": "NORP",
+        "start": 1047,
+        "end": 1053
+      },
+      {
+        "text": "Ro bert Fi",
+        "label": "PERSON",
+        "start": 1137,
+        "end": 1147
+      },
+      {
+        "text": "Agricultural Economics and",
+        "label": "ORG",
+        "start": 1166,
+        "end": 1192
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1201,
+        "end": 1211
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Finger Risikoindikatoren Pflanzenschutz",
+        "J. E.",
+        "Jørgensen",
+        "L. N.,",
+        "Niklas Möhring",
+        "Ro bert Fi",
+        "Robert Finger"
+      ],
+      "ORG": [
+        "Agricultural Economics and",
+        "the Federal Council"
+      ],
+      "LOCATION": [
+        "Denmark",
+        "Gaba",
+        "Pesticide Load",
+        "Switzerland",
+        "US",
+        "USA"
+      ],
+      "DATE": [
+        "8, 14865",
+        "several years",
+        "the years 2009-2013",
+        "winter"
+      ],
+      "MISC": [
+        "1 Zukunftsblog",
+        "Danish",
+        "Pesticide Load",
+        "R.",
+        "Swiss",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 2,
+      "two": 2,
+      "Pesticide Load": 2,
+      "Finger Risikoindikatoren Pflanzenschutz": 1,
+      "the Federal Council": 1,
+      "USA": 1,
+      "US": 1,
+      "Denmark": 1,
+      "Swiss": 1,
+      "winter": 1,
+      "the years 2009-2013": 1,
+      "three": 1,
+      "several years": 1,
+      "Robert Finger": 1,
+      "Niklas Möhring": 1,
+      "1 Zukunftsblog": 1,
+      "8, 14865": 1,
+      "Gaba": 1,
+      "R.": 1,
+      "Jørgensen": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "blog-finger-risikoindikatoren-pflanzenschutz.md",
+      "title": "En News Events/2018/08/blog Finger Risikoindikatoren Pflanzenschutz",
+      "language": "en",
+      "source_path": "en_news_events/2018/08/blog-finger-risikoindikatoren-pflanzenschutz.html"
+    },
+    "temporal": {
+      "publication_date": "2018-08",
+      "mentioned_years": [
+        "2009",
+        "2013",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Finger Risikoindikatoren Pflanzenschutz",
+        "J. E.",
+        "Jørgensen",
+        "L. N.,",
+        "Niklas Möhring",
+        "Ro bert Fi",
+        "Robert Finger"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "professor"
+        ],
+        "Ro bert Fi": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "1 Zukunftsblog",
+        "Danish",
+        "Pesticide Load",
+        "Swiss",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "In Switzerland",
+        "Pesticide Load",
+        "En News",
+        "The Total",
+        "Land Use",
+        "Federal Council",
+        "Robert Finger",
+        "Finger Risikoindikatoren",
+        "ETH Zurich",
+        "Agricultural Economics",
+        "Pflanzenschutz Reducing"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Agricultural Economics and",
+        "the Federal Council"
+      ],
+      "locations": [
+        "Denmark",
+        "Gaba",
+        "Pesticide Load",
+        "Switzerland",
+        "US",
+        "USA"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "two",
+        "Pesticide Load",
+        "Finger Risikoindikatoren Pflanzenschutz",
+        "the Federal Council",
+        "USA",
+        "US",
+        "Denmark",
+        "Swiss",
+        "winter"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Commonly-used indicators are inadequate",
+          "Commonly-used indicators are inadequate",
+          "Extreme risks remain undetected",
+          "References",
+          "Implications for policymaking"
+        ],
+        "content_length": 4119
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2009",
+        "Jørgensen",
+        "2018",
+        "Niklas Möhring",
+        "Ro bert Fi",
+        "2017",
+        "2013",
+        "2019",
+        "Agricultural Economics and",
+        "L. N.,",
+        "Robert Finger",
+        "J. E.",
+        "ETH Zurich",
+        "Finger Risikoindikatoren Pflanzenschutz",
+        "the Federal Council"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "Pesticide Load",
+        "three",
+        "who",
+        "Swiss",
+        "what",
+        "1 Zukunftsblog",
+        "how",
+        "medical_research",
+        "when",
+        "Danish"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_professor",
+        "Ro bert Fi_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

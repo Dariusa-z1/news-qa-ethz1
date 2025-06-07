@@ -1,0 +1,199 @@
+{
+  "filename": "cambridge-university-press--evidence-based-acquisition.md",
+  "original_filename": "cambridge-university-press--evidence-based-acquisition.html",
+  "source_path": "en_internal/2019/02/cambridge-university-press--evidence-based-acquisition.html",
+  "date": "2019-02",
+  "title": "Cambridge University Press Evidence Based Acquisition",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "With the Evidence Based Acquisition model (EBA), users of ETH Library initially enjoy access to all e-books by Cambridge University Press for three years. This means that over 32,000 titles from a wide range of specialist fields in science, technology, medicine and the humanities will be available to interested readers. New publications will constantly be added to the range.\n\nBased on usage statistics and functional criteria, a decision will then be made on the definitive purchase and ongoing access to individual titles after this initial period (in 2021). Thanks to the EBA model, the interests of our users will have a direct influence on ETH Library’s range of e-books.\n\nAccess is possible in ETH Zurich’s network and on ETH Library’s premises."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "University Press Evidence Based Acquisition",
+        "label": "ORG",
+        "start": 30,
+        "end": 73
+      },
+      {
+        "text": "EBA",
+        "label": "ORG",
+        "start": 43,
+        "end": 46
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 58,
+        "end": 69
+      },
+      {
+        "text": "Cambridge University Press",
+        "label": "ORG",
+        "start": 111,
+        "end": 137
+      },
+      {
+        "text": "three years",
+        "label": "DATE",
+        "start": 142,
+        "end": 153
+      },
+      {
+        "text": "over 32,000",
+        "label": "CARDINAL",
+        "start": 171,
+        "end": 182
+      },
+      {
+        "text": "EBA",
+        "label": "ORG",
+        "start": 576,
+        "end": 579
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "ORG",
+        "start": 646,
+        "end": 659
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "ORG",
+        "start": 728,
+        "end": 741
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Cambridge University Press",
+        "EBA",
+        "ETH Library",
+        "ETH Library’s",
+        "University Press Evidence Based Acquisition"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "three years"
+      ],
+      "MISC": [
+        "over 32,000"
+      ]
+    },
+    "entity_counts": {
+      "EBA": 2,
+      "ETH Library’s": 2,
+      "University Press Evidence Based Acquisition": 1,
+      "ETH Library": 1,
+      "Cambridge University Press": 1,
+      "three years": 1,
+      "over 32,000": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "cambridge-university-press--evidence-based-acquisition.md",
+      "title": "En Internal/2019/02/cambridge University Press Evidence Based Acquisition",
+      "language": "en",
+      "source_path": "en_internal/2019/02/cambridge-university-press--evidence-based-acquisition.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2019",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "over 32,000"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Evidence Based",
+        "ETH Library",
+        "Acquisition With",
+        "En Internal",
+        "University Press",
+        "ETH Zurich",
+        "Cambridge University"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cambridge University Press",
+        "EBA",
+        "ETH Library",
+        "ETH Library’s",
+        "University Press Evidence Based Acquisition"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "EBA",
+        "ETH Library’s",
+        "University Press Evidence Based Acquisition",
+        "ETH Library",
+        "Cambridge University Press",
+        "three years",
+        "over 32,000"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 827
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Cambridge University Press",
+        "2019",
+        "ETH Library",
+        "University Press Evidence Based Acquisition",
+        "2021",
+        "EBA",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "over 32,000",
+        "what",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

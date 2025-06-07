@@ -1,0 +1,922 @@
+{
+  "filename": "praezise-schneemessung-dank-ki-und-satelliten.md",
+  "original_filename": "praezise-schneemessung-dank-ki-und-satelliten.html",
+  "source_path": "de_news_events/2023/12/praezise-schneemessung-dank-ki-und-satelliten.html",
+  "date": "2023-12",
+  "title": "Praezise Schneemessung Dank Ki Und Satelliten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "In Kürze",
+      "text": "- ETH-Forschende haben zusammen mit der Schweizer Firma ExoLabs ein KI-gestütztes Schneemesssystem entwickelt, das die Schneehöhe täglich und genauer als bisher bestimmen kann.\n\n- Durch die Verwendung von Satellitenbildern kann die Schneehöhe sogar aktualisiert werden, ohne dass dafür neue Messdaten am Boden benötigt werden.\n\n- Ein weiterer Vorteil der neuen Technologie ist, dass sie etwa Wintersportler:innen oder Kraftwerksbetreibern die Unsicherheit der Schätzung mitliefert."
+    },
+    {
+      "heading": "Satellitendaten der Europäischen Weltraumorganisation",
+      "text": "Wie viel Schnee liegt wo in den Bergen? Diese Frage ist für den Wintertourismus und Betreiber von Wasserkraftwerken gleichermassen relevant wie für Wintersportler:innen, die die Lawinengefahr einschätzen wollen. Doch die Messung der Schneehöhe ist mit einigen Herausforderungen verbunden: Sie kann sich je nach Wetterlage schnell ändern, hängt stark vom Gelände ab und ist auf Luftbildern nicht direkt erkennbar.\n\nDie Schneeüberwachung in der Schweiz stützt sich heute vor allem auf die Daten von Messstationen. Da es für die ganze Schweiz nur rund 400 Stationen gibt, sind die Schneeangaben für viele Orte eher ungenau. Das könnte sich nun ändern: ETH-Forschende um Konrad Schindler, ETH-Professor für Photogrammetrie und Fernerkundung, haben zusammen mit der Schweizer Firma ExoLabs, einem Spin-off der Universität Zürich, eine Technologie entwickelt, die mit Hilfe von Satellitenbildern und künstlicher Intelligenz die Schneehöhe schneller und genauer als bisher ermittelt.\n\n«Während die besten bestehenden Schneekarten der Schweiz eine effektive Auflösung von etwa 250 mal 250 Meter haben, kann man in unsere Karten bis auf 10 mal 10 Meter hineinzoomen, um die Schneehöhe abzulesen», sagt Schindler. Zudem sind regelmässige Aktualisierungen zur Schneehöhe in Zukunft nicht mehr unbedingt auf neue Messdaten am Boden angewiesen. Öffentlich zugängliche Satellitenbilder reichen bei gutem Wetter aus."
+    },
+    {
+      "heading": "Satellitendaten der Europäischen Weltraumorganisation",
+      "text": "Schindlers Forschungsgruppe hat viel Erfahrung mit Satellitenbildern: Sie nutzt sie, um die Bevölkerungsdichte in Krisengebieten vorherzusagen, um Kriegsschäden an Gebäuden in der Ukraine zu ermitteln oder um weltweit die Höhe von Wäldern zu vermessen. Doch wie liest eine künstliche Intelligenz die Schneehöhe von Satellitenbildern ab?\n\nSie braucht dafür zunächst Millionen von Beispielen: Für ihre Technologie verwendeten die Forschenden optische Aufnahmen und Infrarotbilder von Sentinel-2-Satelliten der Europäischen Weltraumorganisation (ESA). Diese Satelliten nehmen alle fünf Tage jeden Ort der Erde mit einer Auflösung von bis zu 10 mal 10 Metern pro Pixel auf. Das sind die detailliertesten Bilder, die derzeit kostenlos und unbeschränkt zugänglich sind. Dadurch erkennt die KI, wann in der Schweiz wo Schnee liegt und wie sich die Schneegrenze wöchentlich verändert.\n\nDoch das allein reicht nicht: «Von den weissen Flächen in den Satellitenbildern können wir nicht direkt auf die Schneehöhe schliessen. Dafür braucht es noch weitere Daten», sagt ETH-Professor Schindler."
+    },
+    {
+      "heading": "Lernen durch Vergleich mit Realität",
+      "text": "Neben den Satellitenbildern fütterten die Forschenden der KI daher umfassende Geländedaten der Schweiz. Denn an einem steilen Südhang schmilzt bei Sonnenschein mehr Schnee als in einer schattigen Mulde. Detaillierte Geländedaten dieser Art sind in den öffentlichen Daten von Swisstopo sehr gut zugänglich.\n\nDie Forschenden trainierten das KI-System darauf, die Schneehöhe aus Satelliten- und Geländedaten abzuleiten. Dazu liessen sie das System die Schneehöhen schätzen und verglichen die Ergebnisse mit realen Schneemessungen. «Wir haben an jedem Rasterpunkt festgestellt, wie weit die KI mit ihrer Schätzung daneben lag, und das System schrittweise so angepasst, dass die Fehler kleiner wurden», erklärt Schindler. In der Fachsprache heisst diese Methode supervised learning.\n\nIn einer ersten Trainingsrunde verwendeten die ETH-Forschenden die Schneekarten von ExoLabs, die sehr gut mit den Daten der Schneemessstationen in der Schweiz übereinstimmen. Diese Karten basieren neben den Satellitenbildern von Sentinel-2 auch auf Bildern anderer Satellitenmissionen, die zwar räumlich weniger genau sind, dafür aber tägliche Aufnahmen liefern. Anhand der Schneekarten von ExoLabs prägte sich die KI vor allem die Muster der kleinräumigen Schneeverteilung ein, die über das eher grobmaschige Netz an Messstationen nicht erfasst werden kann."
+    },
+    {
+      "heading": "Finetuning mit Daten aus dem Dischmatal",
+      "text": "Das Finetuning der KI erfolgte dann mit sehr detaillierten Schneedaten, die das WSL-Institut für Schnee-und Lawinenforschung SLF lediglich im Bündner Dischmatal erhebt. Durch diese Daten lernte die KI, dass sich die Schneehöhe je nach Gelände innerhalb von wenigen Metern ändern kann. Diese räumlichen Zusammenhänge kann sie dann in der ganzen Schweiz anwenden und auch dort die Schneehöhe genau vorhersagen, wo keine detaillierten Messdaten durch Messtationen vorliegen.\n\nEin weiterer Vorteil der neuen Technologie ist, dass sie den Nutzer:innen auch die Unsicherheit der Schätzung mitliefert. Wenn es zum Beispiel länger bewölkt ist und neue Satellitenbilder keine brauchbaren Informationen liefern, steigt die Unsicherheit der Schätzung."
+    },
+    {
+      "heading": "Neuer Standard für die Schneehöhenmessung",
+      "text": "Die ETH-Forschenden haben die KI-gestützte Schneemessung bereits während zweier Wintersaisonen erfolgreich getestet. «Wir gehen davon aus, dass wir damit einen neuen Standard für die Schneehöhenmessung in der Schweiz setzen», sagt Schindler.\n\nUm die Vermarktung der Technologie kümmert sich die Schweizer Firma ExoLabs. Das Start-up bietet hochaufgelöste Schneekarten in verschiedenen Apps an, unter anderem in den Anwendungen von Outdooractive, Strava, Skitourenguru, Hüttenbuch oder über die swisstopo-App. Geht es nach Reik Leiterer, CEO von ExoLabs, sollen die verbesserten Schneekarten in Zukunft auch für Gebiete ausserhalb der Alpen erhältlich sein, zum Beispiel in Skandinavien, den Pyrenäen, oder für Nord- und Südamerika."
+    },
+    {
+      "heading": "Innosuisse Projekt «DeepSnow»",
+      "text": "Dieses Forschungsprojekt wurde von Innosuisse finanziert. Weitere Projektpartner waren neben ExoLabs das WSL-Institut für Schnee- und Lawinenforschung SLF, Outdooractive und MountaiNow.\n\nexterne Seite Weitere Informationen zum Projekt\n\nDaudt R, Wulf H, Hafner E, Bühler Y, Schindler K, Wegner J: Snow depth estimation at country-scale with high spatial and temporal resolution, ISPRS Journal of Photogrammetry and Remote Sensing 197 (2023) 105–121: doi: externe Seite 10.1016/j.isprsjprs.2023.01.017"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH-Forschende",
+        "label": "ORG",
+        "start": 2,
+        "end": 16
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 40,
+        "end": 49
+      },
+      {
+        "text": "ExoLabs",
+        "label": "ORG",
+        "start": 56,
+        "end": 63
+      },
+      {
+        "text": "Schneehöhe",
+        "label": "LOC",
+        "start": 119,
+        "end": 129
+      },
+      {
+        "text": "Schneehöhe",
+        "label": "LOC",
+        "start": 231,
+        "end": 241
+      },
+      {
+        "text": "Wintersportler",
+        "label": "LOC",
+        "start": 390,
+        "end": 404
+      },
+      {
+        "text": "Bergen",
+        "label": "LOC",
+        "start": 32,
+        "end": 38
+      },
+      {
+        "text": "Wintersportler",
+        "label": "LOC",
+        "start": 148,
+        "end": 162
+      },
+      {
+        "text": "Schneehöhe",
+        "label": "LOC",
+        "start": 233,
+        "end": 243
+      },
+      {
+        "text": "Wetterlage",
+        "label": "LOC",
+        "start": 311,
+        "end": 321
+      },
+      {
+        "text": "Luftbildern",
+        "label": "LOC",
+        "start": 377,
+        "end": 388
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 442,
+        "end": 449
+      },
+      {
+        "text": "Messstationen",
+        "label": "LOC",
+        "start": 496,
+        "end": 509
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 531,
+        "end": 538
+      },
+      {
+        "text": "ETH-Forschende",
+        "label": "MISC",
+        "start": 648,
+        "end": 662
+      },
+      {
+        "text": "Konrad Schindler",
+        "label": "PER",
+        "start": 666,
+        "end": 682
+      },
+      {
+        "text": "ETH-Professor",
+        "label": "MISC",
+        "start": 684,
+        "end": 697
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 760,
+        "end": 769
+      },
+      {
+        "text": "ExoLabs",
+        "label": "ORG",
+        "start": 776,
+        "end": 783
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 804,
+        "end": 822
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 1021,
+        "end": 1032
+      },
+      {
+        "text": "Schneehöhe",
+        "label": "LOC",
+        "start": 1163,
+        "end": 1173
+      },
+      {
+        "text": "Schindler",
+        "label": "PER",
+        "start": 1191,
+        "end": 1200
+      },
+      {
+        "text": "Schneehöhe",
+        "label": "LOC",
+        "start": 1247,
+        "end": 1257
+      },
+      {
+        "text": "Schindlers Forschungsgruppe",
+        "label": "MISC",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "Krisengebieten",
+        "label": "LOC",
+        "start": 114,
+        "end": 128
+      },
+      {
+        "text": "Ukraine",
+        "label": "LOC",
+        "start": 180,
+        "end": 187
+      },
+      {
+        "text": "Wäldern",
+        "label": "LOC",
+        "start": 231,
+        "end": 238
+      },
+      {
+        "text": "Satellitenbildern",
+        "label": "LOC",
+        "start": 315,
+        "end": 332
+      },
+      {
+        "text": "Beispielen",
+        "label": "ORG",
+        "start": 378,
+        "end": 388
+      },
+      {
+        "text": "Sentinel-2-Satelliten der Europäischen Weltraumorganisation",
+        "label": "MISC",
+        "start": 481,
+        "end": 540
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 542,
+        "end": 545
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 601,
+        "end": 605
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 783,
+        "end": 785
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 799,
+        "end": 806
+      },
+      {
+        "text": "Schneehöhe",
+        "label": "LOC",
+        "start": 988,
+        "end": 998
+      },
+      {
+        "text": "ETH-Professor Schindler",
+        "label": "PER",
+        "start": 1054,
+        "end": 1077
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 58,
+        "end": 60
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 91,
+        "end": 102
+      },
+      {
+        "text": "Swisstopo",
+        "label": "PER",
+        "start": 275,
+        "end": 284
+      },
+      {
+        "text": "KI-System",
+        "label": "MISC",
+        "start": 338,
+        "end": 347
+      },
+      {
+        "text": "Schneehöhe",
+        "label": "LOC",
+        "start": 360,
+        "end": 370
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 586,
+        "end": 588
+      },
+      {
+        "text": "Schindler",
+        "label": "PER",
+        "start": 705,
+        "end": 714
+      },
+      {
+        "text": "Fachsprache",
+        "label": "LOC",
+        "start": 723,
+        "end": 734
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 824,
+        "end": 839
+      },
+      {
+        "text": "ExoLabs",
+        "label": "ORG",
+        "start": 861,
+        "end": 868
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 924,
+        "end": 935
+      },
+      {
+        "text": "Sentinel-2",
+        "label": "ORG",
+        "start": 1006,
+        "end": 1016
+      },
+      {
+        "text": "ExoLabs",
+        "label": "ORG",
+        "start": 1168,
+        "end": 1175
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 1192,
+        "end": 1194
+      },
+      {
+        "text": "Messstationen",
+        "label": "LOC",
+        "start": 1295,
+        "end": 1308
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 19,
+        "end": 21
+      },
+      {
+        "text": "WSL-Institut",
+        "label": "MISC",
+        "start": 80,
+        "end": 92
+      },
+      {
+        "text": "Schnee-und Lawinenforschung",
+        "label": "ORG",
+        "start": 97,
+        "end": 124
+      },
+      {
+        "text": "Bündner",
+        "label": "LOC",
+        "start": 142,
+        "end": 149
+      },
+      {
+        "text": "Dischmatal",
+        "label": "LOC",
+        "start": 150,
+        "end": 160
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 198,
+        "end": 200
+      },
+      {
+        "text": "Schneehöhe",
+        "label": "LOC",
+        "start": 216,
+        "end": 226
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 344,
+        "end": 351
+      },
+      {
+        "text": "Schneehöhe",
+        "label": "LOC",
+        "start": 379,
+        "end": 389
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 4,
+        "end": 19
+      },
+      {
+        "text": "Wintersaisonen",
+        "label": "LOC",
+        "start": 80,
+        "end": 94
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 209,
+        "end": 216
+      },
+      {
+        "text": "Schindler",
+        "label": "PER",
+        "start": 231,
+        "end": 240
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 294,
+        "end": 303
+      },
+      {
+        "text": "ExoLabs",
+        "label": "ORG",
+        "start": 310,
+        "end": 317
+      },
+      {
+        "text": "Start-up",
+        "label": "MISC",
+        "start": 323,
+        "end": 331
+      },
+      {
+        "text": "Outdooractive",
+        "label": "LOC",
+        "start": 430,
+        "end": 443
+      },
+      {
+        "text": "Strava",
+        "label": "LOC",
+        "start": 445,
+        "end": 451
+      },
+      {
+        "text": "Skitourenguru",
+        "label": "LOC",
+        "start": 453,
+        "end": 466
+      },
+      {
+        "text": "Hüttenbuch",
+        "label": "LOC",
+        "start": 468,
+        "end": 478
+      },
+      {
+        "text": "Geht",
+        "label": "LOC",
+        "start": 508,
+        "end": 512
+      },
+      {
+        "text": "Reik Leiterer",
+        "label": "PER",
+        "start": 521,
+        "end": 534
+      },
+      {
+        "text": "ExoLabs",
+        "label": "ORG",
+        "start": 544,
+        "end": 551
+      },
+      {
+        "text": "Alpen",
+        "label": "LOC",
+        "start": 633,
+        "end": 638
+      },
+      {
+        "text": "Pyrenäen",
+        "label": "LOC",
+        "start": 690,
+        "end": 698
+      },
+      {
+        "text": "Nord-",
+        "label": "LOC",
+        "start": 709,
+        "end": 714
+      },
+      {
+        "text": "Südamerika",
+        "label": "LOC",
+        "start": 719,
+        "end": 729
+      },
+      {
+        "text": "ExoLabs",
+        "label": "MISC",
+        "start": 93,
+        "end": 100
+      },
+      {
+        "text": "WSL-Institut",
+        "label": "MISC",
+        "start": 105,
+        "end": 117
+      },
+      {
+        "text": "Outdooractive",
+        "label": "ORG",
+        "start": 156,
+        "end": 169
+      },
+      {
+        "text": "MountaiNow",
+        "label": "MISC",
+        "start": 174,
+        "end": 184
+      },
+      {
+        "text": "Daudt R",
+        "label": "MISC",
+        "start": 234,
+        "end": 241
+      },
+      {
+        "text": "Wulf H",
+        "label": "PER",
+        "start": 243,
+        "end": 249
+      },
+      {
+        "text": "Hafner E",
+        "label": "ORG",
+        "start": 251,
+        "end": 259
+      },
+      {
+        "text": "Bühler Y",
+        "label": "ORG",
+        "start": 261,
+        "end": 269
+      },
+      {
+        "text": "Schindler K",
+        "label": "ORG",
+        "start": 271,
+        "end": 282
+      },
+      {
+        "text": "Wegner J",
+        "label": "MISC",
+        "start": 284,
+        "end": 292
+      },
+      {
+        "text": "at country-scale with",
+        "label": "MISC",
+        "start": 316,
+        "end": 337
+      },
+      {
+        "text": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "label": "MISC",
+        "start": 376,
+        "end": 426
+      },
+      {
+        "text": "j.isprsjprs.2023.01.017",
+        "label": "PER",
+        "start": 474,
+        "end": 497
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH-Professor Schindler",
+        "Konrad Schindler",
+        "Reik Leiterer",
+        "Schindler",
+        "Swisstopo",
+        "Wulf H",
+        "j.isprsjprs.2023.01.017"
+      ],
+      "ORG": [
+        "Beispielen",
+        "Bühler Y",
+        "ESA",
+        "ETH-Forschende",
+        "ETH-Forschenden",
+        "ExoLabs",
+        "Hafner E",
+        "KI",
+        "Outdooractive",
+        "Schindler K",
+        "Schnee-und Lawinenforschung",
+        "Sentinel-2",
+        "Universität Zürich"
+      ],
+      "LOCATION": [
+        "Alpen",
+        "Bergen",
+        "Bündner",
+        "Dischmatal",
+        "Erde",
+        "Fachsprache",
+        "Geht",
+        "Hüttenbuch",
+        "Krisengebieten",
+        "Luftbildern",
+        "Messstationen",
+        "Nord-",
+        "Outdooractive",
+        "Pyrenäen",
+        "Satellitenbildern",
+        "Schneehöhe",
+        "Schweiz",
+        "Skitourenguru",
+        "Strava",
+        "Südamerika",
+        "Ukraine",
+        "Wetterlage",
+        "Wintersaisonen",
+        "Wintersportler",
+        "Wäldern",
+        "der Schweiz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Daudt R",
+        "ETH-Forschende",
+        "ETH-Professor",
+        "ExoLabs",
+        "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "KI-System",
+        "MountaiNow",
+        "Schindlers Forschungsgruppe",
+        "Schweizer",
+        "Sentinel-2-Satelliten der Europäischen Weltraumorganisation",
+        "Start-up",
+        "WSL-Institut",
+        "Wegner J",
+        "at country-scale with"
+      ]
+    },
+    "entity_counts": {
+      "Schneehöhe": 9,
+      "ExoLabs": 7,
+      "KI": 6,
+      "Schweiz": 5,
+      "Schweizer": 3,
+      "der Schweiz": 3,
+      "Schindler": 3,
+      "ETH-Forschende": 2,
+      "Wintersportler": 2,
+      "Messstationen": 2,
+      "ETH-Forschenden": 2,
+      "WSL-Institut": 2,
+      "Outdooractive": 2,
+      "Bergen": 1,
+      "Wetterlage": 1,
+      "Luftbildern": 1,
+      "Konrad Schindler": 1,
+      "ETH-Professor": 1,
+      "Universität Zürich": 1,
+      "Schindlers Forschungsgruppe": 1
+    },
+    "total_entities": 92,
+    "unique_entities": 57
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "praezise-schneemessung-dank-ki-und-satelliten.md",
+      "title": "De News Events/2023/12/praezise Schneemessung Dank Ki und Satelliten",
+      "language": "de",
+      "source_path": "de_news_events/2023/12/praezise-schneemessung-dank-ki-und-satelliten.html"
+    },
+    "temporal": {
+      "publication_date": "2023-12",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH-Professor Schindler",
+        "Konrad Schindler",
+        "Reik Leiterer",
+        "Schindler",
+        "Swisstopo",
+        "Wulf H",
+        "j.isprsjprs.2023.01.017"
+      ],
+      "people_with_roles": {
+        "ETH-Professor Schindler": [
+          "professor"
+        ],
+        "Konrad Schindler": [
+          "professor"
+        ],
+        "Schindler": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Daudt R",
+        "ETH-Forschende",
+        "ETH-Professor",
+        "ExoLabs",
+        "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "KI-System",
+        "MountaiNow",
+        "Schindlers Forschungsgruppe",
+        "Schweizer",
+        "Sentinel-2-Satelliten der Europäischen Weltraumorganisation",
+        "Start-up",
+        "WSL-Institut",
+        "Wegner J",
+        "at country-scale with"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Schneemessung Dank",
+        "Die Forschenden",
+        "Schindler K",
+        "ETH-Professor",
+        "Seite Weitere",
+        "Weitere Projektpartner",
+        "Diese Satelliten",
+        "Remote Sensing",
+        "Diese Karten",
+        "Diese Frage",
+        "Reik Leiterer",
+        "Die ETH",
+        "Das Start",
+        "Dieses Forschungsprojekt",
+        "Daudt R",
+        "Schindlers Forschungsgruppe",
+        "KI-System",
+        "WSL-Institut",
+        "ISPRS Journal",
+        "Konrad Schindler",
+        "Wulf H",
+        "Hafner E",
+        "Schweizer Firma",
+        "Wegner J",
+        "ETH-Forschenden",
+        "De News",
+        "Das Finetuning",
+        "ETH-Forschende",
+        "Lawinenforschung SLF"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Beispielen",
+        "Bühler Y",
+        "ESA",
+        "ETH-Forschende",
+        "ETH-Forschenden",
+        "ExoLabs",
+        "Hafner E",
+        "KI",
+        "Outdooractive",
+        "Schindler K",
+        "Schnee-und Lawinenforschung",
+        "Sentinel-2",
+        "Universität Zürich"
+      ],
+      "locations": [
+        "Alpen",
+        "Bergen",
+        "Bündner",
+        "Dischmatal",
+        "Erde",
+        "Fachsprache",
+        "Geht",
+        "Hüttenbuch",
+        "Krisengebieten",
+        "Luftbildern",
+        "Messstationen",
+        "Nord-",
+        "Outdooractive",
+        "Pyrenäen",
+        "Satellitenbildern",
+        "Schneehöhe",
+        "Schweiz",
+        "Skitourenguru",
+        "Strava",
+        "Südamerika",
+        "Ukraine",
+        "Wetterlage",
+        "Wintersaisonen",
+        "Wintersportler",
+        "Wäldern",
+        "der Schweiz"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Schneehöhe",
+        "ExoLabs",
+        "KI",
+        "Schweiz",
+        "Schweizer",
+        "der Schweiz",
+        "Schindler",
+        "ETH-Forschende",
+        "Wintersportler",
+        "Messstationen"
+      ],
+      "document_structure": {
+        "total_sections": 7,
+        "section_titles": [
+          "In Kürze",
+          "Satellitendaten der Europäischen Weltraumorganisation",
+          "Satellitendaten der Europäischen Weltraumorganisation",
+          "Lernen durch Vergleich mit Realität",
+          "Finetuning mit Daten aus dem Dischmatal",
+          "Neuer Standard für die Schneehöhenmessung",
+          "Innosuisse Projekt «DeepSnow»"
+        ],
+        "content_length": 6344
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Professor Schindler",
+        "Sentinel-2",
+        "Schindler K",
+        "Schnee-und Lawinenforschung",
+        "Bühler Y",
+        "Outdooractive",
+        "ESA",
+        "Reik Leiterer",
+        "j.isprsjprs.2023.01.017",
+        "EU",
+        "ExoLabs",
+        "Konrad Schindler",
+        "Wulf H",
+        "Hafner E",
+        "Schindler",
+        "Universität Zürich",
+        "ETH-Forschenden",
+        "Beispielen",
+        "ETH-Forschende",
+        "KI",
+        "Swisstopo",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Schweizer",
+        "ETH-Professor",
+        "when",
+        "MountaiNow",
+        "Start-up",
+        "Daudt R",
+        "at country-scale with",
+        "Schindlers Forschungsgruppe",
+        "who",
+        "KI-System",
+        "Sentinel-2-Satelliten der Europäischen Weltraumorganisation",
+        "what",
+        "how",
+        "WSL-Institut",
+        "ExoLabs",
+        "Wegner J",
+        "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "ETH-Forschende",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH-Professor Schindler_has_role_professor",
+        "Konrad Schindler_has_role_professor",
+        "Schindler_has_role_Professor",
+        "Schindler_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

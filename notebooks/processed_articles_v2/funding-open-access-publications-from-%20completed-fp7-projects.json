@@ -1,0 +1,191 @@
+{
+  "filename": "funding-open-access-publications-from-%20completed-fp7-projects.md",
+  "original_filename": "funding-open-access-publications-from-%20completed-fp7-projects.html",
+  "source_path": "en_internal/2015/07/funding-open-access-publications-from-%20completed-fp7-projects.html",
+  "date": "2015-07",
+  "title": "Funding Open Access Publications From %20Completed Fp7 Projects",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "A maximum of EUR 2,000 for articles, book chapters and conference papers, and EUR 6,000 for monographs can be applied for subject to the following conditions:\n\nWe especially recommend this funding option for open-access books and open-access journals with which ETH-Bibliothek does not have an agreement on the funding of publication fees , such asNature CommunicationsorScientific Reports.\n\nETH-Bibliothek's takes care of the application process for members of ETH Zurich.\n\nFP7 post-grant Open Access Pilot"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Open Access Publications",
+        "label": "ORG",
+        "start": 28,
+        "end": 52
+      },
+      {
+        "text": "20completed",
+        "label": "CARDINAL",
+        "start": 59,
+        "end": 70
+      },
+      {
+        "text": "EUR",
+        "label": "ORG",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "EUR",
+        "label": "ORG",
+        "start": 78,
+        "end": 81
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 261,
+        "end": 275
+      },
+      {
+        "text": "CommunicationsorScientific Reports",
+        "label": "ORG",
+        "start": 354,
+        "end": 388
+      },
+      {
+        "text": "ETH-Bibliothek's",
+        "label": "ORG",
+        "start": 390,
+        "end": 406
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 460,
+        "end": 470
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "CommunicationsorScientific Reports",
+        "ETH-Bibliothek",
+        "ETH-Bibliothek's",
+        "EUR",
+        "Open Access Publications"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "20completed"
+      ]
+    },
+    "entity_counts": {
+      "EUR": 2,
+      "Open Access Publications": 1,
+      "20completed": 1,
+      "ETH-Bibliothek": 1,
+      "CommunicationsorScientific Reports": 1,
+      "ETH-Bibliothek's": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "funding-open-access-publications-from-%20completed-fp7-projects.md",
+      "title": "En Internal/2015/07/funding Open Access Publications From %20completed Fp7 Projects",
+      "language": "en",
+      "source_path": "en_internal/2015/07/funding-open-access-publications-from-%20completed-fp7-projects.html"
+    },
+    "temporal": {
+      "publication_date": "2015-07",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "20completed"
+      ],
+      "grants_funding": [
+        "EU",
+        "grant",
+        "funding"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "CommunicationsorScientific Reports",
+        "En Internal",
+        "ETH Zurich",
+        "Projects A",
+        "Open Access",
+        "Publications From"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CommunicationsorScientific Reports",
+        "ETH-Bibliothek",
+        "ETH-Bibliothek's",
+        "EUR",
+        "Open Access Publications"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "EUR",
+        "Open Access Publications",
+        "20completed",
+        "ETH-Bibliothek",
+        "CommunicationsorScientific Reports",
+        "ETH-Bibliothek's",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 591
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "CommunicationsorScientific Reports",
+        "ETH-Bibliothek",
+        "EUR",
+        "grant",
+        "2015",
+        "EU",
+        "ETH-Bibliothek's",
+        "funding",
+        "Open Access Publications",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "what",
+        "20completed",
+        "how"
+      ],
+      "graph_relations": []
+    }
+  }
+}

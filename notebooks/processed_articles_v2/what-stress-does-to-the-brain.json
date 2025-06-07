@@ -1,0 +1,348 @@
+{
+  "filename": "what-stress-does-to-the-brain.md",
+  "original_filename": "what-stress-does-to-the-brain.html",
+  "source_path": "en_news_events/2019/07/what-stress-does-to-the-brain.html",
+  "date": "2019-07",
+  "title": "What Stress Does To The Brain",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Astonishing results",
+      "text": "In moments of acute stress – for example, a life-threatening situation in road traffic – our brain has just a split second to react. It focuses attention on the most important environmental cues in order to make life-or-death decisions in fractions of a second. To accomplish this, efficient communication needs to be quickly established between various areas of the brain by forming so-called functional networks.\n\nHow the brain guides these rapid processes has been thus far unclear. Tests on humans suggested a major role for the neurotransmitter noradrenaline (also called norepinephrine), which the brain releases in large quantities during stressful situations. However, it is not possible to directly examine this theory in people, because noradrenaline release cannot be selectively manipulated.\n\nTwo ETH Zurich research teams, headed by Johannes Bohacek and Nicole Wenderoth, joined forces to crack this difficult problem. Animal tests allowed the researchers to prove for the first time that a release of noradrenaline was itself enough to connect various regions of the brain very quickly. In these tests, the scientists applied the latest genetic tricks to stimulate a tiny centre in the mouse brain: the locus coeruleus, which supplies the entire brain with noradrenaline.\n\nThe ETH researchers performed real-time magnetic resonance imaging (MRI) scans of the anaesthetised animals’ brains while triggering noradrenaline release from the locus coeruleus.\n\nThe scientists were astonished by the results: selective noradrenaline release re-wired the connectivity patterns between different brain regions in a way that was extremely similar to the changes observed in humans exposed to acute stress. Networks that process sensory stimuli, such as the visual and auditory centre of the brain, exhibited the strongest increase in activity. A similar rise in activity was observed in the amygdala network, which is associated with states of anxiety.\n\nValerio Zerbi, first author of the published study and an expert on MRI techniques in mice, was astounded: “I couldn't believe that we were seeing such strong effects.” In addition, the researchers were able to demonstrate that areas of the brain with a particularly strong response to the stress-like release of noradrenaline also have a high number of specific receptors for detecting it.\n\n“Overall, our results show that modern imaging techniques in animal models can reveal correlations that allow us to understand fundamental brain functions in humans,” Bohacek says. The researchers hope to use similar analyses in humans to diagnose pathological hyperactivity of the noradrenaline system, which is associated with anxiety and panic disorders."
+    },
+    {
+      "heading": "Reference",
+      "text": "Johannes Bohacek gives a short lecture at Scientifica 19 (only in German).\n\nZerbi V et al. Rapid Reconfiguration of the Functional Connectome after Chemogenetic Locus Coeruleus Activation. Neuron, published online June 18th 2019. DOI: 10.1016/j.neuron.2019.05.034"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Brain",
+        "label": "ORG",
+        "start": 47,
+        "end": 52
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 116,
+        "end": 122
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 254,
+        "end": 260
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 803,
+        "end": 806
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 807,
+        "end": 817
+      },
+      {
+        "text": "Johannes Bohacek",
+        "label": "ORG",
+        "start": 844,
+        "end": 860
+      },
+      {
+        "text": "Nicole Wenderoth",
+        "label": "PERSON",
+        "start": 865,
+        "end": 881
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 984,
+        "end": 989
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1288,
+        "end": 1291
+      },
+      {
+        "text": "Valerio Zerbi",
+        "label": "PERSON",
+        "start": 1953,
+        "end": 1966
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1968,
+        "end": 1973
+      },
+      {
+        "text": "Bohacek",
+        "label": "PERSON",
+        "start": 2511,
+        "end": 2518
+      },
+      {
+        "text": "Johannes",
+        "label": "GPE",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Scientifica 19",
+        "label": "ORG",
+        "start": 42,
+        "end": 56
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 66,
+        "end": 72
+      },
+      {
+        "text": "Zerbi V et al",
+        "label": "PERSON",
+        "start": 75,
+        "end": 88
+      },
+      {
+        "text": "Rapid Reconfiguration",
+        "label": "ORG",
+        "start": 90,
+        "end": 111
+      },
+      {
+        "text": "the Functional Connectome after Chemogenetic Locus Coeruleus Activation",
+        "label": "ORG",
+        "start": 115,
+        "end": 186
+      },
+      {
+        "text": "June 18th 2019",
+        "label": "DATE",
+        "start": 213,
+        "end": 227
+      },
+      {
+        "text": "10.1016",
+        "label": "CARDINAL",
+        "start": 234,
+        "end": 241
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bohacek",
+        "Nicole Wenderoth",
+        "Valerio Zerbi",
+        "Zerbi V et al"
+      ],
+      "ORG": [
+        "Brain",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Johannes Bohacek",
+        "Rapid Reconfiguration",
+        "Scientifica 19",
+        "the Functional Connectome after Chemogenetic Locus Coeruleus Activation"
+      ],
+      "LOCATION": [
+        "Johannes"
+      ],
+      "DATE": [
+        "June 18th 2019"
+      ],
+      "MISC": [
+        "10.1016",
+        "German",
+        "Two",
+        "first",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "second": 2,
+      "first": 2,
+      "En News": 1,
+      "Brain": 1,
+      "Two": 1,
+      "ETH Zurich": 1,
+      "Johannes Bohacek": 1,
+      "Nicole Wenderoth": 1,
+      "ETH": 1,
+      "Valerio Zerbi": 1,
+      "Bohacek": 1,
+      "Johannes": 1,
+      "Scientifica 19": 1,
+      "German": 1,
+      "Zerbi V et al": 1,
+      "Rapid Reconfiguration": 1,
+      "the Functional Connectome after Chemogenetic Locus Coeruleus Activation": 1,
+      "June 18th 2019": 1,
+      "10.1016": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "what-stress-does-to-the-brain.md",
+      "title": "En News Events/2019/07/what Stress Does To The Brain",
+      "language": "en",
+      "source_path": "en_news_events/2019/07/what-stress-does-to-the-brain.html"
+    },
+    "temporal": {
+      "publication_date": "2019-07",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bohacek",
+        "Nicole Wenderoth",
+        "Valerio Zerbi",
+        "Zerbi V et al"
+      ],
+      "people_with_roles": {
+        "Bohacek": [
+          "head"
+        ],
+        "Nicole Wenderoth": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "10.1016",
+        "German",
+        "first",
+        "second"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Nicole Wenderoth",
+        "Coeruleus Activation",
+        "Rapid Reconfiguration",
+        "En News",
+        "Valerio Zerbi",
+        "Chemogenetic Locus",
+        "Zerbi V",
+        "Two ETH",
+        "To The",
+        "Brain In",
+        "Functional Connectome",
+        "Stress Does",
+        "The ETH",
+        "Johannes Bohacek"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Brain",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Johannes Bohacek",
+        "Rapid Reconfiguration",
+        "Scientifica 19",
+        "the Functional Connectome after Chemogenetic Locus Coeruleus Activation"
+      ],
+      "locations": [
+        "Johannes"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "second",
+        "first",
+        "En News",
+        "Brain",
+        "Two",
+        "ETH Zurich",
+        "Johannes Bohacek",
+        "Nicole Wenderoth",
+        "ETH",
+        "Valerio Zerbi"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Astonishing results",
+          "Reference"
+        ],
+        "content_length": 3024
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Rapid Reconfiguration",
+        "the Functional Connectome after Chemogenetic Locus Coeruleus Activation",
+        "Brain",
+        "En News",
+        "2019",
+        "Bohacek",
+        "Valerio Zerbi",
+        "EU",
+        "Zerbi V et al",
+        "Scientifica 19",
+        "ETH Zurich",
+        "Nicole Wenderoth",
+        "Johannes Bohacek"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1016",
+        "first",
+        "who",
+        "what",
+        "second",
+        "German",
+        "how",
+        "when"
+      ],
+      "graph_relations": [
+        "Bohacek_has_role_head",
+        "Nicole Wenderoth_has_role_head",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

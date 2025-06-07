@@ -1,0 +1,312 @@
+{
+  "filename": "congressi-stefano-franscini-opens-call-for-proposals-for-conferences-for-2017.md",
+  "original_filename": "congressi-stefano-franscini-opens-call-for-proposals-for-conferences-for-2017.html",
+  "source_path": "en_internal/2015/08/congressi-stefano-franscini-opens-call-for-proposals-for-conferences-for-2017.html",
+  "date": "2015-08",
+  "title": "Congressi Stefano Franscini Opens Call For Proposals For Conferences For 2017",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "New: ETH Summer Schools @ Monte Verità",
+      "text": "Researchers and university professors working in Switzerland who would like to organise an international academic conference at Congressi Stefano Franscini at Monte Verità are invited to submit their proposal to CSF by 15 January 2016. Conferences should be three to five days in length.\n\nFrom this year, applications can be submitted for workshops as well (three days duration, 25–30 participants)."
+    },
+    {
+      "heading": "New: ETH Summer Schools @ Monte Verità",
+      "text": "Likewise, ETH Zurich researchers or professors can organise a Winter School for doctoral students at Monte Verità. The deadline for submitting the applications for 2016/2017 is 15 January 2016.\n\nFor the first time, applications can also be submitted for 2017 Summer Schools. These will receive the same financial support as Winter Schools.\n\nFor further information and the application form see the CSF website: www.csf.ethz.ch ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 49,
+        "end": 60
+      },
+      {
+        "text": "Congressi Stefano Franscini",
+        "label": "ORG",
+        "start": 128,
+        "end": 155
+      },
+      {
+        "text": "Verità",
+        "label": "PERSON",
+        "start": 165,
+        "end": 171
+      },
+      {
+        "text": "CSF",
+        "label": "ORG",
+        "start": 212,
+        "end": 215
+      },
+      {
+        "text": "15 January 2016",
+        "label": "DATE",
+        "start": 219,
+        "end": 234
+      },
+      {
+        "text": "three to five days",
+        "label": "DATE",
+        "start": 258,
+        "end": 276
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 293,
+        "end": 302
+      },
+      {
+        "text": "three days",
+        "label": "DATE",
+        "start": 357,
+        "end": 367
+      },
+      {
+        "text": "25–30",
+        "label": "CARDINAL",
+        "start": 378,
+        "end": 383
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 10,
+        "end": 20
+      },
+      {
+        "text": "Winter School",
+        "label": "ORG",
+        "start": 62,
+        "end": 75
+      },
+      {
+        "text": "Monte Verità",
+        "label": "FAC",
+        "start": 101,
+        "end": 113
+      },
+      {
+        "text": "2016/2017",
+        "label": "DATE",
+        "start": 164,
+        "end": 173
+      },
+      {
+        "text": "15 January 2016",
+        "label": "DATE",
+        "start": 177,
+        "end": 192
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 202,
+        "end": 207
+      },
+      {
+        "text": "Summer Schools",
+        "label": "PERSON",
+        "start": 258,
+        "end": 272
+      },
+      {
+        "text": "Winter Schools",
+        "label": "PERSON",
+        "start": 323,
+        "end": 337
+      },
+      {
+        "text": "CSF",
+        "label": "ORG",
+        "start": 396,
+        "end": 399
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Summer Schools",
+        "Verità",
+        "Winter Schools"
+      ],
+      "ORG": [
+        "CSF",
+        "Congressi Stefano Franscini",
+        "Winter School"
+      ],
+      "LOCATION": [
+        "Monte Verità",
+        "Switzerland"
+      ],
+      "DATE": [
+        "15 January 2016",
+        "2016/2017",
+        "this year",
+        "three days",
+        "three to five days"
+      ],
+      "MISC": [
+        "25–30",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "CSF": 2,
+      "15 January 2016": 2,
+      "Switzerland": 1,
+      "Congressi Stefano Franscini": 1,
+      "Verità": 1,
+      "three to five days": 1,
+      "this year": 1,
+      "three days": 1,
+      "25–30": 1,
+      "ETH Zurich": 1,
+      "Winter School": 1,
+      "Monte Verità": 1,
+      "2016/2017": 1,
+      "first": 1,
+      "Summer Schools": 1,
+      "Winter Schools": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "congressi-stefano-franscini-opens-call-for-proposals-for-conferences-for-2017.md",
+      "title": "En Internal/2015/08/congressi Stefano Franscini Opens Call For Proposals For Conferences For 2017",
+      "language": "en",
+      "source_path": "en_internal/2015/08/congressi-stefano-franscini-opens-call-for-proposals-for-conferences-for-2017.html"
+    },
+    "temporal": {
+      "publication_date": "2015-08",
+      "mentioned_years": [
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Summer Schools",
+        "Verità",
+        "Winter Schools"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher",
+          "student",
+          "professor"
+        ],
+        "Verità": [
+          "researcher",
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "25–30",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Stefano Franscini",
+        "Winter Schools",
+        "For Proposals",
+        "Opens Call",
+        "En Internal",
+        "Summer Schools",
+        "ETH Zurich",
+        "Winter School",
+        "Congressi Stefano",
+        "For Conferences"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSF",
+        "Congressi Stefano Franscini",
+        "Winter School"
+      ],
+      "locations": [
+        "Monte Verità",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "CSF",
+        "15 January 2016",
+        "Switzerland",
+        "Congressi Stefano Franscini",
+        "Verità",
+        "three to five days",
+        "this year",
+        "three days",
+        "25–30",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "New: ETH Summer Schools @ Monte Verità",
+          "New: ETH Summer Schools @ Monte Verità"
+        ],
+        "content_length": 926
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "CSF",
+        "Winter Schools",
+        "2015",
+        "2017",
+        "Verità",
+        "2016",
+        "Summer Schools",
+        "Congressi Stefano Franscini",
+        "ETH Zurich",
+        "Winter School"
+      ],
+      "semantic_concepts": [
+        "first",
+        "who",
+        "25–30",
+        "what",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_student",
+        "ETH Zurich_has_role_professor",
+        "Verità_has_role_researcher",
+        "Verità_has_role_student",
+        "Verità_has_role_professor"
+      ]
+    }
+  }
+}

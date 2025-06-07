@@ -1,0 +1,267 @@
+{
+  "filename": "anmeldung-fuer-die-scientifica-2015-zum-thema-licht.md",
+  "original_filename": "anmeldung-fuer-die-scientifica-2015-zum-thema-licht.html",
+  "source_path": "de_internal/2015/01/anmeldung-fuer-die-scientifica-2015-zum-thema-licht.html",
+  "date": "2015-01",
+  "title": "Anmeldung Fuer Die Scientifica 2015 Zum Thema Licht",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Thema «Licht»",
+      "text": "Die vierte Ausgabe der Scientifica - Zürcher Wissenschaftstage wird von Freitagabend 4. September bis Sonntagabend 6. September in den Hauptgebäuden der Universität und ETH sowie im Aussenraum zwischen den beiden Häusern stattfinden. Neben der Ausstellung mit Forschungspräsentationen sind Kurzvorlesungen sowie weitere Spezialveranstaltungen vorgesehen."
+    },
+    {
+      "heading": "Thema «Licht»",
+      "text": "Im internationalen Jahr des Lichts wird sich die Scientifica 2015 rund um Licht und Erleuchtung drehen, sowohl im physikalischen als auch im übertragenen Sinn. Ohne Licht gäbe es keine bildgebenden Verfahren, keine Filme, kein schnelles Surfen, keine Entfernung von Tattoos, keine Erkenntnis – kein Leben. Wir sind überzeugt, dass auch Ihre Gruppe einen Bezug zum Thema Licht finden wird und Erleuchtungen und Lichtblicke an der Scientifica präsentieren kann. Wir suchen Forschungsprojekte, die sich anschaulich und interaktiv im Rahmen der Ausstellung oder als Kurzvorlesungen (20 Minuten) mit anschliessender Diskussion präsentieren lassen.\n\nBis zum Freitag, 30. Januar 2015 , können Forschende der ETH Zürich und der Universität Zürich Ihre Ideen für anregende Kurzvorlesungen, interaktive Ausstellungsprojekte oder Spezialveranstaltungen auf der Website externe Seite www.scientifica.uzh.ch eingeben.\n\nDabei kommen nicht Projekte aus Gebieten wie zum Beispiel Physik, Chemie, Medizin, Filmwissenschaften oder Architektur in Frage, sondern jedes Projekt aus einem Forschungsbereich, in dem sich Bezüge zu Licht und Erleuchtung aufzeigen lassen."
+    },
+    {
+      "heading": "Kontakt",
+      "text": "Bei Fragen oder Informationsbedarf kontaktieren Sie bitte das Projektteam von Scientifica:"
+    },
+    {
+      "heading": "Projekt anmelden",
+      "text": "externe Seite Hinweise zur Anmeldung und Online-Formular"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/01/anmeldung Fuer",
+        "label": "LOC",
+        "start": 0,
+        "end": 34
+      },
+      {
+        "text": "Scientifica",
+        "label": "ORG",
+        "start": 39,
+        "end": 50
+      },
+      {
+        "text": "Scientifica",
+        "label": "ORG",
+        "start": 23,
+        "end": 34
+      },
+      {
+        "text": "Zürcher Wissenschaftstage",
+        "label": "ORG",
+        "start": 37,
+        "end": 62
+      },
+      {
+        "text": "Universität",
+        "label": "ORG",
+        "start": 153,
+        "end": 164
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 169,
+        "end": 172
+      },
+      {
+        "text": "internationalen Jahr des Lichts",
+        "label": "MISC",
+        "start": 3,
+        "end": 34
+      },
+      {
+        "text": "Scientifica",
+        "label": "LOC",
+        "start": 49,
+        "end": 60
+      },
+      {
+        "text": "Tattoos",
+        "label": "MISC",
+        "start": 266,
+        "end": 273
+      },
+      {
+        "text": "Lichtblicke an der Scientifica",
+        "label": "LOC",
+        "start": 410,
+        "end": 440
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 700,
+        "end": 710
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 719,
+        "end": 737
+      },
+      {
+        "text": "www.scientifica.uzh.ch",
+        "label": "PER",
+        "start": 871,
+        "end": 893
+      },
+      {
+        "text": "Informationsbedarf",
+        "label": "LOC",
+        "start": 16,
+        "end": 34
+      },
+      {
+        "text": "Scientifica",
+        "label": "ORG",
+        "start": 78,
+        "end": 89
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "www.scientifica.uzh.ch"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "Scientifica",
+        "Universität",
+        "Universität Zürich",
+        "Zürcher Wissenschaftstage"
+      ],
+      "LOCATION": [
+        "De Internal/2015/01/anmeldung Fuer",
+        "Informationsbedarf",
+        "Lichtblicke an der Scientifica",
+        "Scientifica"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Tattoos",
+        "internationalen Jahr des Lichts"
+      ]
+    },
+    "entity_counts": {
+      "Scientifica": 4,
+      "De Internal/2015/01/anmeldung Fuer": 1,
+      "Zürcher Wissenschaftstage": 1,
+      "Universität": 1,
+      "ETH": 1,
+      "internationalen Jahr des Lichts": 1,
+      "Tattoos": 1,
+      "Lichtblicke an der Scientifica": 1,
+      "ETH Zürich": 1,
+      "Universität Zürich": 1,
+      "www.scientifica.uzh.ch": 1,
+      "Informationsbedarf": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "anmeldung-fuer-die-scientifica-2015-zum-thema-licht.md",
+      "title": "De Internal/2015/01/anmeldung Fuer die Scientifica 2015 Zum Thema Licht",
+      "language": "de",
+      "source_path": "de_internal/2015/01/anmeldung-fuer-die-scientifica-2015-zum-thema-licht.html"
+    },
+    "temporal": {
+      "publication_date": "2015-01",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "www.scientifica.uzh.ch"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Tattoos",
+        "internationalen Jahr des Lichts"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Beispiel Physik",
+        "Zum Thema",
+        "Ohne Licht",
+        "De Internal",
+        "Licht Die",
+        "Thema Licht",
+        "Seite Hinweise",
+        "Online-Formular",
+        "Bei Fragen",
+        "Ihre Gruppe",
+        "Ihre Ideen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "Scientifica",
+        "Universität",
+        "Universität Zürich",
+        "Zürcher Wissenschaftstage"
+      ],
+      "locations": [
+        "De Internal/2015/01/anmeldung Fuer",
+        "Informationsbedarf",
+        "Lichtblicke an der Scientifica",
+        "Scientifica"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Scientifica",
+        "De Internal/2015/01/anmeldung Fuer",
+        "Zürcher Wissenschaftstage",
+        "Universität",
+        "ETH",
+        "internationalen Jahr des Lichts",
+        "Tattoos",
+        "Lichtblicke an der Scientifica",
+        "ETH Zürich",
+        "Universität Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Thema «Licht»",
+          "Thema «Licht»",
+          "Kontakt",
+          "Projekt anmelden"
+        ],
+        "content_length": 1722
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Universität",
+        "ETH",
+        "Scientifica",
+        "2015",
+        "EU",
+        "Zürcher Wissenschaftstage",
+        "ETH Zürich",
+        "www.scientifica.uzh.ch",
+        "Universität Zürich"
+      ],
+      "semantic_concepts": [
+        "Tattoos",
+        "internationalen Jahr des Lichts"
+      ],
+      "graph_relations": []
+    }
+  }
+}

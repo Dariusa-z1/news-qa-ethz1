@@ -1,0 +1,246 @@
+{
+  "filename": "de_internal_2022_02_informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-21-februar-2022.md",
+  "original_filename": "de_internal_2022_02_informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-21-februar-2022.html",
+  "source_path": "de_internal/2022/02/informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-21-februar-2022.html",
+  "date": "2022-02",
+  "title": "Informationen Zu Corona Regelungen An Der Eth Bibliothek Ab Dem 21 Februar 2022",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Services",
+      "text": "- Der Lesesaal Sammlungen und Archive sowie die Ausstellung des Max Frisch-Archivs sind regulär Mo–Fr von 10.00–17.00 Uhr offen, für den Lesesaal wird um Voranmeldung gebeten.\n\n- Das Thomas-Mann-Archiv ist auf Voranmeldung zugänglich. Die Ausstellung der Graphischen Sammlung kann zu den regulären Öffnungszeiten Mo–So von 10.00–16.45 Uhr besucht werden.\n\nBitte beachten Sie, dass an allen Standorten der ETH-​Bibliothek weiterhin eine Maskenpflicht gilt."
+    },
+    {
+      "heading": "Services",
+      "text": "Für alle Standorte gelten die regulären Öffnungszeiten. Sämtliche Dienstleistungen und Angebote können wie gewohnt genutzt werden"
+    },
+    {
+      "heading": "Veranstaltungen",
+      "text": "Veranstaltungen finden teilweise wieder vor Ort statt. Es gilt eine Maskenpflicht. Bitte beachten Sie die Hinweise und Details hierzu im Veranstaltungskalender ."
+    },
+    {
+      "heading": "Maskenpflicht",
+      "text": "In allen ETH-Gebäuden gilt die Pflicht zum Tragen einer Maske . Dies gilt auch für die Lernarbeitsplätze. Bitte beachten Sie dies bei einem Besuch der ETH-Bibliothek.\n\nNutzen Sie gerne auch weiterhin unsere digitalen Angebote und Kontaktmöglichkeiten . Verzichten Sie bitte auf einen Besuch, falls Sie Krankheitssymptome aufweisen."
+    },
+    {
+      "heading": "Fragen? Die ETH-Bibliothek hilft gerne.",
+      "text": "E-Mail: Sie können uns auch über externe Seite WhatsApp und unseren Chat kontaktieren."
+    },
+    {
+      "heading": "Newsletter abonnieren",
+      "text": "#MehrWissen – Die aufbereiteten Inhalte der ETH-​Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/02",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Corona Regelungen",
+        "label": "PER",
+        "start": 37,
+        "end": 54
+      },
+      {
+        "text": "Eth Bibliothek",
+        "label": "LOC",
+        "start": 62,
+        "end": 76
+      },
+      {
+        "text": "Max Frisch-Archivs",
+        "label": "PER",
+        "start": 64,
+        "end": 82
+      },
+      {
+        "text": "Thomas-Mann-Archiv",
+        "label": "MISC",
+        "start": 182,
+        "end": 200
+      },
+      {
+        "text": "Veranstaltungskalender",
+        "label": "LOC",
+        "start": 137,
+        "end": 159
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 151,
+        "end": 165
+      },
+      {
+        "text": "WhatsApp",
+        "label": "MISC",
+        "start": 47,
+        "end": 55
+      },
+      {
+        "text": "Chat",
+        "label": "PER",
+        "start": 68,
+        "end": 72
+      },
+      {
+        "text": "MehrWissen",
+        "label": "MISC",
+        "start": 0,
+        "end": 10
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chat",
+        "Corona Regelungen",
+        "Max Frisch-Archivs"
+      ],
+      "ORG": [
+        "ETH-Bibliothek"
+      ],
+      "LOCATION": [
+        "De Internal/2022/02",
+        "Eth Bibliothek",
+        "Veranstaltungskalender"
+      ],
+      "DATE": [],
+      "MISC": [
+        "MehrWissen",
+        "Thomas-Mann-Archiv",
+        "WhatsApp"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2022/02": 1,
+      "Corona Regelungen": 1,
+      "Eth Bibliothek": 1,
+      "Max Frisch-Archivs": 1,
+      "Thomas-Mann-Archiv": 1,
+      "Veranstaltungskalender": 1,
+      "ETH-Bibliothek": 1,
+      "WhatsApp": 1,
+      "Chat": 1,
+      "MehrWissen": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2022_02_informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-21-februar-2022.md",
+      "title": "De Internal/2022/02/informationen zu Corona Regelungen an der Eth Bibliothek Ab dem 21 Februar 2022",
+      "language": "de",
+      "source_path": "de_internal/2022/02/informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-21-februar-2022.html"
+    },
+    "temporal": {
+      "publication_date": "2022-02",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Chat",
+        "Corona Regelungen",
+        "Max Frisch-Archivs"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "MehrWissen",
+        "Thomas-Mann-Archiv",
+        "WhatsApp"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Corona Regelungen",
+        "ETH-Bibliothek",
+        "E-Mail",
+        "Nutzen Sie",
+        "De Internal",
+        "Graphischen Sammlung",
+        "Verzichten Sie",
+        "Sie Krankheitssymptome",
+        "Die Ausstellung",
+        "Der Lesesaal",
+        "Seite WhatsApp",
+        "Max Frisch",
+        "Das Thomas",
+        "Mann-Archiv",
+        "Eth Bibliothek"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek"
+      ],
+      "locations": [
+        "De Internal/2022/02",
+        "Eth Bibliothek",
+        "Veranstaltungskalender"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "De Internal/2022/02",
+        "Corona Regelungen",
+        "Eth Bibliothek",
+        "Max Frisch-Archivs",
+        "Thomas-Mann-Archiv",
+        "Veranstaltungskalender",
+        "ETH-Bibliothek",
+        "WhatsApp",
+        "Chat",
+        "MehrWissen"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Services",
+          "Services",
+          "Veranstaltungen",
+          "Maskenpflicht",
+          "Fragen? Die ETH-Bibliothek hilft gerne.",
+          "Newsletter abonnieren"
+        ],
+        "content_length": 1382
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Corona Regelungen",
+        "ETH-Bibliothek",
+        "Chat",
+        "Max Frisch-Archivs",
+        "2022"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "WhatsApp",
+        "MehrWissen",
+        "what",
+        "Thomas-Mann-Archiv"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

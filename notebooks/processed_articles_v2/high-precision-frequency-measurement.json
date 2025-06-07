@@ -1,0 +1,656 @@
+{
+  "filename": "high-precision-frequency-measurement.md",
+  "original_filename": "high-precision-frequency-measurement.html",
+  "source_path": "en_news_events/2021/07/high-precision-frequency-measurement.html",
+  "date": "2021-07",
+  "title": "High Precision Frequency Measurement",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Continuous correction",
+      "text": "For many scientific experiments, today’s researchers require a precise reference frequency that allows them to calibrate the time measurements made by their equipment. Such experiments include spectroscopy investigations – in which chemical reactions between molecules are examined in real time – and physical studies on natural constants.\n\nAccess to exactly this kind of highly precise reference frequency could soon become standard for Swiss research institutions. In a joint project funded as part of the Swiss National Science Foundation’s Sinergia programme, researchers at ETH Zurich, the University of Basel, the Swiss Federal Institute of Metrology (METAS) – Switzerland’s “guardian of measurement units” – and the SWITCH Foundation, which operates Switzerland's academic data network, have demonstrated that such a precision reference signal can be sent via conventional telecommunications infrastructure.\n\n\"Initial results show that this permits chemical spectroscopy analyses that are 100 times more accurate than before\", reports Stefan Willitsch, Professor of Physical Chemistry at the University of Basel and coordinator of the project. \"With this precision, the laws of nature are verified by spectroscopic measurements on molecules with unprecedented accuracy,\" adds Frédéric Merkt, Professor of Physical Chemistry at ETH Zurich."
+    },
+    {
+      "heading": "Continuous correction",
+      "text": "Specifically, the project established a trial network that connects the METAS site in Wabern near Bern with the University of Basel and ETH Zurich. A clever process synchronises the output signal with the METAS atomic clock. This signal is transmitted via the fibre-optic network operated by SWITCH – which manages IT network infrastructures for Swiss universities – to Basel and Zurich, where researchers can use it to calibrate their measuring devices.\n\n\"To ensure that the signal reaches the researchers with the desired level of precision, transmission must be continuously adjusted. Even the slightest variation in the length of the fibre-optic cable – caused by vibrations or temperature changes – affect the frequency\", explains Jacques Morel, Head of the Photonics, Time and Frequency Laboratory at METAS. Therefore the signal is bounced back from Basel and Zurich to Bern, where the output signal is corrected as required."
+    },
+    {
+      "heading": "High quality, lower costs",
+      "text": "“In Switzerland, we’re only now beginning to establish this kind of network,” says Jérôme Faist, Professor at the Institute for Quantum Electronics at ETH Zurich, who contributed his expertise in laser technology to the project. “Other countries like Italy, Germany and France are already a step ahead in this area.”\n\nIn these countries, the reference frequencies have, up to now, been transmitted in one of two ways – each with its own specific drawbacks. Either the signal is sent via a dedicated cable, which produces an optimum physical result but is expensive, or the signal is transmitted via the telecommunications provider’s existing infrastructure. While this is much cheaper, it is technically inferior because the reference signal for measuring time is transmitted within the C band, in other words at a similar base frequency to data traffic. Not only does this leave the reference signal open to potential disruption by the rest of the data traffic, it blocks a channel that would normally be used for data transmission, which in turn complicates operation."
+    },
+    {
+      "heading": "Interesting for other disciplines",
+      "text": "“We’ve now developed a third option,” explains Fabian Mauchle, project manager at Switch: “For reasons of cost, we use the existing SWITCH network. But instead of transmitting the reference signal within the physically optimum C band – which is largely taken up by data traffic – we use the L band, which is still mostly uncongested and has a different base frequency.” The results now show that the L band is also a viable option for transmitting reference signals at excellent quality without encountering disruption from data traffic. This did, however, require SWITCH to make certain modifications to its network infrastructure."
+    },
+    {
+      "heading": "International networking",
+      "text": "The next step will be to further expand the network to include other Swiss institutions such as CERN in Geneva, EPFL or the University of Neuchâtel. There are also plans to take the network to an international level. The goal is to establish a transnational network capable of comparing signals from various atomic clocks.\n\nThis would pave the way for an even more precise time measurement for defining the second as an SI unit. To ensure consistent time measurement worldwide, atomic clocks are currently compared with satellite signals in the gigahertz range. Synchronising atomic clocks using optical signals in the terahertz range would allow measurements of the second up to 18 decimal places instead of the “mere” 16 decimal places previously achieved. But the only way this can work is if the signals used to compare these optical clocks are transmitted as light via fibre optics.\n\nFaist also points out that it’s not just chemists and physicists who could benefit from the new network. It could provide geoscientists with new insights, too. Geoscientists might not require highly precise time signals for their experiments, but since even the tiniest disruption will affect the signal frequency, they could use the approach to detect subsurface vibrations that are too subtle for today’s measuring devices to register.\n\nHusmann D et.al.: SI-traceable frequency dissemination at 1572.06 nm in a stabilized fiber network with ring topology. Vol. 29, No. 16 /2 August 2021. doi: 10.1364/OE.427921"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 33,
+        "end": 38
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 437,
+        "end": 442
+      },
+      {
+        "text": "the Swiss National Science Foundation’s",
+        "label": "ORG",
+        "start": 503,
+        "end": 542
+      },
+      {
+        "text": "Sinergia",
+        "label": "GPE",
+        "start": 543,
+        "end": 551
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 578,
+        "end": 588
+      },
+      {
+        "text": "the University of Basel",
+        "label": "ORG",
+        "start": 590,
+        "end": 613
+      },
+      {
+        "text": "the Swiss Federal Institute of Metrology",
+        "label": "ORG",
+        "start": 615,
+        "end": 655
+      },
+      {
+        "text": "METAS",
+        "label": "ORG",
+        "start": 657,
+        "end": 662
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 666,
+        "end": 677
+      },
+      {
+        "text": "the SWITCH Foundation",
+        "label": "ORG",
+        "start": 718,
+        "end": 739
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 756,
+        "end": 767
+      },
+      {
+        "text": "Stefan Willitsch",
+        "label": "PERSON",
+        "start": 1040,
+        "end": 1056
+      },
+      {
+        "text": "Physical Chemistry",
+        "label": "ORG",
+        "start": 1071,
+        "end": 1089
+      },
+      {
+        "text": "the University of Basel",
+        "label": "ORG",
+        "start": 1093,
+        "end": 1116
+      },
+      {
+        "text": "Frédéric Merkt",
+        "label": "ORG",
+        "start": 1281,
+        "end": 1295
+      },
+      {
+        "text": "Physical Chemistry",
+        "label": "ORG",
+        "start": 1310,
+        "end": 1328
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1332,
+        "end": 1342
+      },
+      {
+        "text": "METAS",
+        "label": "ORG",
+        "start": 72,
+        "end": 77
+      },
+      {
+        "text": "Wabern",
+        "label": "LOC",
+        "start": 86,
+        "end": 92
+      },
+      {
+        "text": "the University of Basel",
+        "label": "ORG",
+        "start": 108,
+        "end": 131
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 136,
+        "end": 146
+      },
+      {
+        "text": "METAS",
+        "label": "ORG",
+        "start": 205,
+        "end": 210
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 346,
+        "end": 351
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 370,
+        "end": 375
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 380,
+        "end": 386
+      },
+      {
+        "text": "Jacques Morel",
+        "label": "PERSON",
+        "start": 735,
+        "end": 748
+      },
+      {
+        "text": "Photonics",
+        "label": "ORG",
+        "start": 762,
+        "end": 771
+      },
+      {
+        "text": "Time",
+        "label": "ORG",
+        "start": 773,
+        "end": 777
+      },
+      {
+        "text": "Frequency Laboratory",
+        "label": "ORG",
+        "start": 782,
+        "end": 802
+      },
+      {
+        "text": "METAS",
+        "label": "ORG",
+        "start": 806,
+        "end": 811
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 855,
+        "end": 860
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 865,
+        "end": 871
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 4,
+        "end": 15
+      },
+      {
+        "text": "Jérôme Faist",
+        "label": "PERSON",
+        "start": 83,
+        "end": 95
+      },
+      {
+        "text": "the Institute for Quantum Electronics",
+        "label": "ORG",
+        "start": 110,
+        "end": 147
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 151,
+        "end": 161
+      },
+      {
+        "text": "Italy",
+        "label": "GPE",
+        "start": 251,
+        "end": 256
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 258,
+        "end": 265
+      },
+      {
+        "text": "France",
+        "label": "GPE",
+        "start": 270,
+        "end": 276
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 400,
+        "end": 403
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 407,
+        "end": 410
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 23,
+        "end": 28
+      },
+      {
+        "text": "Fabian Mauchle",
+        "label": "PERSON",
+        "start": 47,
+        "end": 61
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 69,
+        "end": 74
+      },
+      {
+        "text": "CERN",
+        "label": "GPE",
+        "start": 96,
+        "end": 100
+      },
+      {
+        "text": "Geneva",
+        "label": "GPE",
+        "start": 104,
+        "end": 110
+      },
+      {
+        "text": "the University of Neuchâtel",
+        "label": "ORG",
+        "start": 120,
+        "end": 147
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 406,
+        "end": 412
+      },
+      {
+        "text": "SI",
+        "label": "ORG",
+        "start": 419,
+        "end": 421
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 666,
+        "end": 672
+      },
+      {
+        "text": "Faist",
+        "label": "ORG",
+        "start": 887,
+        "end": 892
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1286,
+        "end": 1291
+      },
+      {
+        "text": "Husmann D et.al",
+        "label": "PERSON",
+        "start": 1325,
+        "end": 1340
+      },
+      {
+        "text": "1572.06",
+        "label": "CARDINAL",
+        "start": 1383,
+        "end": 1390
+      },
+      {
+        "text": "August 2021",
+        "label": "DATE",
+        "start": 1463,
+        "end": 1474
+      },
+      {
+        "text": "10.1364",
+        "label": "CARDINAL",
+        "start": 1481,
+        "end": 1488
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Fabian Mauchle",
+        "Husmann D et.al",
+        "Jacques Morel",
+        "Jérôme Faist",
+        "Stefan Willitsch"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Faist",
+        "Frequency Laboratory",
+        "Frédéric Merkt",
+        "METAS",
+        "Photonics",
+        "Physical Chemistry",
+        "SI",
+        "Time",
+        "the Institute for Quantum Electronics",
+        "the SWITCH Foundation",
+        "the Swiss Federal Institute of Metrology",
+        "the Swiss National Science Foundation’s",
+        "the University of Basel",
+        "the University of Neuchâtel"
+      ],
+      "LOCATION": [
+        "Basel",
+        "CERN",
+        "ETH Zurich",
+        "France",
+        "Geneva",
+        "Germany",
+        "Italy",
+        "Sinergia",
+        "Switzerland",
+        "Wabern",
+        "Zurich"
+      ],
+      "DATE": [
+        "August 2021",
+        "today"
+      ],
+      "MISC": [
+        "10.1364",
+        "1572.06",
+        "Swiss",
+        "one",
+        "second",
+        "third",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 4,
+      "METAS": 4,
+      "Swiss": 3,
+      "the University of Basel": 3,
+      "Switzerland": 3,
+      "today": 2,
+      "Physical Chemistry": 2,
+      "Basel": 2,
+      "Zurich": 2,
+      "second": 2,
+      "the Swiss National Science Foundation’s": 1,
+      "Sinergia": 1,
+      "the Swiss Federal Institute of Metrology": 1,
+      "the SWITCH Foundation": 1,
+      "Stefan Willitsch": 1,
+      "Frédéric Merkt": 1,
+      "Wabern": 1,
+      "Jacques Morel": 1,
+      "Photonics": 1,
+      "Time": 1
+    },
+    "total_entities": 56,
+    "unique_entities": 39
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "high-precision-frequency-measurement.md",
+      "title": "En News Events/2021/07/high Precision Frequency Measurement",
+      "language": "en",
+      "source_path": "en_news_events/2021/07/high-precision-frequency-measurement.html"
+    },
+    "temporal": {
+      "publication_date": "2021-07",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Fabian Mauchle",
+        "Husmann D et.al",
+        "Jacques Morel",
+        "Jérôme Faist",
+        "Stefan Willitsch"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher",
+          "professor"
+        ],
+        "Jacques Morel": [
+          "head"
+        ],
+        "Jérôme Faist": [
+          "professor"
+        ],
+        "Stefan Willitsch": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1364",
+        "1572.06",
+        "Swiss",
+        "second",
+        "third"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "In Switzerland",
+        "Swiss Federal",
+        "Fabian Mauchle",
+        "SWITCH Foundation",
+        "En News",
+        "Physical Chemistry",
+        "Measurement For",
+        "Quantum Electronics",
+        "Swiss National",
+        "Frequency Laboratory",
+        "Science Foundation",
+        "Jacques Morel",
+        "ETH Zurich",
+        "Husmann D",
+        "Stefan Willitsch",
+        "Precision Frequency"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Quantum Electronics at ETH Zurich"
+      ],
+      "institutions": [
+        "ETH Zurich",
+        "Faist",
+        "Frequency Laboratory",
+        "Frédéric Merkt",
+        "METAS",
+        "Photonics",
+        "Physical Chemistry",
+        "SI",
+        "Time",
+        "the Institute for Quantum Electronics",
+        "the SWITCH Foundation",
+        "the Swiss Federal Institute of Metrology",
+        "the Swiss National Science Foundation’s",
+        "the University of Basel",
+        "the University of Neuchâtel"
+      ],
+      "locations": [
+        "Basel",
+        "CERN",
+        "ETH Zurich",
+        "France",
+        "Geneva",
+        "Germany",
+        "Italy",
+        "Sinergia",
+        "Switzerland",
+        "Wabern",
+        "Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "METAS",
+        "Swiss",
+        "the University of Basel",
+        "Switzerland",
+        "today",
+        "Physical Chemistry",
+        "Basel",
+        "Zurich",
+        "second"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Continuous correction",
+          "Continuous correction",
+          "High quality, lower costs",
+          "Interesting for other disciplines",
+          "International networking"
+        ],
+        "content_length": 5543
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Fabian Mauchle",
+        "the University of Neuchâtel",
+        "Time",
+        "Husmann D et.al",
+        "Frédéric Merkt",
+        "Photonics",
+        "SI",
+        "the Institute for Quantum Electronics",
+        "Frequency Laboratory",
+        "2021",
+        "EU",
+        "Jacques Morel",
+        "the SWITCH Foundation",
+        "the University of Basel",
+        "the Swiss Federal Institute of Metrology",
+        "METAS",
+        "Jérôme Faist",
+        "Physical Chemistry",
+        "Faist",
+        "ETH Zurich",
+        "Stefan Willitsch",
+        "the Swiss National Science Foundation’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "third",
+        "10.1364",
+        "who",
+        "Swiss",
+        "chemistry",
+        "where",
+        "what",
+        "second",
+        "how",
+        "why",
+        "when",
+        "engineering",
+        "1572.06"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_professor",
+        "Jacques Morel_has_role_head",
+        "Jérôme Faist_has_role_professor",
+        "Stefan Willitsch_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

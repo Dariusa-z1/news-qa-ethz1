@@ -1,0 +1,391 @@
+{
+  "filename": "digital-reconstruction-of-teeth.md",
+  "original_filename": "digital-reconstruction-of-teeth.html",
+  "source_path": "en_news_events/2017/02/digital-reconstruction-of-teeth.html",
+  "date": "2017-02",
+  "title": "Digital Reconstruction Of Teeth",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Digital photos instead of plaster casts",
+      "text": "In recent years, IT experts have developed sophisticated image-based digital reconstruction methods for modelling the human face. These methods capture highly detailed images of the face or specific areas of the face – such as hair, eyes or eyelids – and create a digital model of them. In the past, however, very little attention has been given to the mouth cavity in general, and the teeth in particular. Image-based approaches capable of modelling teeth in a very natural way are still in the early stages of development. Accurate rendering of teeth, however, is crucial for the realistic display of facial expressions. In the past, researchers have relied on handmade plaster casts of teeth for this purpose.\n\nA group of scientists led by Chenglei Wu, a post-doctorate at the Computer Graphics Lab of ETH Zurich has collaborated with the Max-Planck Institute in Saarbrücken and Disney Research on the development of new software which allows the non-invasive reconstruction of the teeth and gums. The computer scientists presented this new software at SIGGRAPH Asia 2016 in Macao, China."
+    },
+    {
+      "heading": "Digital photos instead of plaster casts",
+      "text": "All that is required to produce such a detailed reconstruction is some digital photos showing a person’s face. The software is capable of creating a complete reconstruction of the teeth and its roots even if they are partly or fully occluded.\n\nOn top of that, Wu and his colleagues have even managed to produce reconstructions from short video clips of a person’s face recorded with a smartphone. Furthermore, the new approach can be seamlessly integrated into existing photogrammetric multi-camera reconstruction setups for entire faces."
+    },
+    {
+      "heading": "Reference",
+      "text": "The scientists first have to teach the programme the basic features of tooth positions, shapes and rows by feeding it with high-resolution 3D scans of oral cavities. The software then uses these data to “learn” how to recognise sets of teeth, assess the shape of the teeth and synthesise the missing elements not discernible on the images, along with the positioning of the teeth. The programme also takes into account any discolouration of the teeth and matches the gum pigmentation. The end result: an extremely natural-looking digital reconstruction of both teeth and gums. “This approach opens up new avenues for individual high-quality tooth reconstruction”, says the project coordinator, Thabo Beeler from Disney Research.\n\nThe new method could also be applied to other areas such as the entertainment industry, where it can naturally extend traditional photogrammetric face-capture systems using multiple cameras. It can be used in medical dentistry as well. Dentists are looking for the simplest method possible to produce the most natural looking model of patients’ teeth, so as to give the patient a visual impression of how replacement teeth would look, for example. “We have received very positive feedback from dentists”, Beeler confirms. “This shows this method is not only suitable for modelling digital characters in films or games, but also for practical applications in the real world.”\n\nTo produce digital three-dimensional models of the teeth, dentists currently use special scanners for capturing images of the patient’s mouth cavity and teeth. Both procedures are cumbersome, and the scanner is also expensive and unpleasant for patients, who have to keep their mouth wide open for the entire scanning procedure. Thanks to the ETH software, digital teeth reconstructions will one day become commonplace, without the need for expensive specialised equipment.\n\nWu C, Bradley D, Garrido P, Zollhöfer M, Theobalt C, Gross M, Beeler T. Model-based Teeth Reconstruction. ACM Transactions on Graphics (TOG) - Proceedings of ACM SIGGRAPH Asia 2016: Volume 35 Issue 6, November 2016, doi: 10.1145/2980179.2980233"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 3,
+        "end": 15
+      },
+      {
+        "text": "Chenglei Wu",
+        "label": "PERSON",
+        "start": 742,
+        "end": 753
+      },
+      {
+        "text": "the Computer Graphics Lab",
+        "label": "ORG",
+        "start": 775,
+        "end": 800
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 804,
+        "end": 814
+      },
+      {
+        "text": "the Max-Planck Institute in Saarbrücken and Disney Research",
+        "label": "ORG",
+        "start": 837,
+        "end": 896
+      },
+      {
+        "text": "SIGGRAPH Asia 2016",
+        "label": "FAC",
+        "start": 1055,
+        "end": 1073
+      },
+      {
+        "text": "Macao",
+        "label": "GPE",
+        "start": 1077,
+        "end": 1082
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 1084,
+        "end": 1089
+      },
+      {
+        "text": "Wu",
+        "label": "PERSON",
+        "start": 259,
+        "end": 261
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 15,
+        "end": 20
+      },
+      {
+        "text": "Thabo Beeler",
+        "label": "ORG",
+        "start": 694,
+        "end": 706
+      },
+      {
+        "text": "Disney Research",
+        "label": "ORG",
+        "start": 712,
+        "end": 727
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1423,
+        "end": 1428
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1747,
+        "end": 1750
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 1796,
+        "end": 1803
+      },
+      {
+        "text": "Wu C",
+        "label": "PERSON",
+        "start": 1878,
+        "end": 1882
+      },
+      {
+        "text": "Zollhöfer M",
+        "label": "PERSON",
+        "start": 1906,
+        "end": 1917
+      },
+      {
+        "text": "Theobalt C",
+        "label": "PERSON",
+        "start": 1919,
+        "end": 1929
+      },
+      {
+        "text": "Beeler T. Model-based",
+        "label": "PERSON",
+        "start": 1940,
+        "end": 1961
+      },
+      {
+        "text": "Teeth Reconstruction",
+        "label": "ORG",
+        "start": 1962,
+        "end": 1982
+      },
+      {
+        "text": "ACM Transactions on Graphics",
+        "label": "ORG",
+        "start": 1984,
+        "end": 2012
+      },
+      {
+        "text": "November 2016",
+        "label": "DATE",
+        "start": 2079,
+        "end": 2092
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Beeler T. Model-based",
+        "Chenglei Wu",
+        "ETH Zurich",
+        "Theobalt C",
+        "Wu",
+        "Wu C",
+        "Zollhöfer M"
+      ],
+      "ORG": [
+        "ACM Transactions on Graphics",
+        "Disney Research",
+        "ETH",
+        "Teeth Reconstruction",
+        "Thabo Beeler",
+        "the Computer Graphics Lab",
+        "the Max-Planck Institute in Saarbrücken and Disney Research"
+      ],
+      "LOCATION": [
+        "China",
+        "Macao",
+        "SIGGRAPH Asia 2016"
+      ],
+      "DATE": [
+        "November 2016",
+        "one day",
+        "recent years"
+      ],
+      "MISC": [
+        "first",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "recent years": 1,
+      "Chenglei Wu": 1,
+      "the Computer Graphics Lab": 1,
+      "ETH Zurich": 1,
+      "the Max-Planck Institute in Saarbrücken and Disney Research": 1,
+      "SIGGRAPH Asia 2016": 1,
+      "Macao": 1,
+      "China": 1,
+      "Wu": 1,
+      "first": 1,
+      "Thabo Beeler": 1,
+      "Disney Research": 1,
+      "three": 1,
+      "ETH": 1,
+      "one day": 1,
+      "Wu C": 1,
+      "Zollhöfer M": 1,
+      "Theobalt C": 1,
+      "Beeler T. Model-based": 1,
+      "Teeth Reconstruction": 1
+    },
+    "total_entities": 22,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "digital-reconstruction-of-teeth.md",
+      "title": "En News Events/2017/02/digital Reconstruction Of Teeth",
+      "language": "en",
+      "source_path": "en_news_events/2017/02/digital-reconstruction-of-teeth.html"
+    },
+    "temporal": {
+      "publication_date": "2017-02",
+      "mentioned_years": [
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Beeler T. Model-based",
+        "Chenglei Wu",
+        "ETH Zurich",
+        "Theobalt C",
+        "Wu",
+        "Wu C",
+        "Zollhöfer M"
+      ],
+      "people_with_roles": {
+        "Chenglei Wu": [
+          "scientist"
+        ],
+        "ETH Zurich": [
+          "scientist"
+        ],
+        "Wu": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "chemistry",
+        "computer_science"
+      ],
+      "research_topics": [
+        "first",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Wu C",
+        "Max-Planck",
+        "Teeth Reconstruction",
+        "Thabo Beeler",
+        "Garrido P",
+        "SIGGRAPH Asia",
+        "Computer Graphics",
+        "Theobalt C",
+        "Teeth In",
+        "Reconstruction Of",
+        "ACM Transactions",
+        "Gross M",
+        "Beeler T",
+        "Bradley D",
+        "Chenglei Wu",
+        "Disney Research",
+        "ACM SIGGRAPH",
+        "En News",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ACM Transactions on Graphics",
+        "Disney Research",
+        "ETH",
+        "Teeth Reconstruction",
+        "Thabo Beeler",
+        "the Computer Graphics Lab",
+        "the Max-Planck Institute in Saarbrücken and Disney Research"
+      ],
+      "locations": [
+        "China",
+        "Macao",
+        "SIGGRAPH Asia 2016"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "recent years",
+        "Chenglei Wu",
+        "the Computer Graphics Lab",
+        "ETH Zurich",
+        "the Max-Planck Institute in Saarbrücken and Disney Research",
+        "SIGGRAPH Asia 2016",
+        "Macao",
+        "China",
+        "Wu",
+        "first"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Digital photos instead of plaster casts",
+          "Digital photos instead of plaster casts",
+          "Reference"
+        ],
+        "content_length": 3811
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Chenglei Wu",
+        "Disney Research",
+        "ETH",
+        "Teeth Reconstruction",
+        "the Max-Planck Institute in Saarbrücken and Disney Research",
+        "Thabo Beeler",
+        "2017",
+        "Theobalt C",
+        "the Computer Graphics Lab",
+        "2016",
+        "ACM Transactions on Graphics",
+        "Wu C",
+        "ETH Zurich",
+        "Zollhöfer M",
+        "Beeler T. Model-based",
+        "Wu"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "computer_science",
+        "three",
+        "who",
+        "chemistry",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Chenglei Wu_has_role_scientist",
+        "ETH Zurich_has_role_scientist",
+        "Wu_has_role_scientist",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

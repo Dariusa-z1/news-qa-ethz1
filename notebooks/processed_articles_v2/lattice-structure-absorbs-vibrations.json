@@ -1,0 +1,334 @@
+{
+  "filename": "lattice-structure-absorbs-vibrations.md",
+  "original_filename": "lattice-structure-absorbs-vibrations.html",
+  "source_path": "en_news_events/2016/07/lattice-structure-absorbs-vibrations.html",
+  "date": "2016-07",
+  "title": "Lattice Structure Absorbs Vibrations",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Also a stabilising component",
+      "text": "Vibrations from a bus engine can sometimes be felt uncomfortably strongly through the seats. Similarly, vibrations from the propellers or rotors in propeller aircraft and helicopters can make the flight bumpy and loud, and also lead to increased fatigue damage of the aircraft and its components. Engineers have therefore sought to prevent such vibrations in machines, vehicles and aircraft. A new three-dimensional lattice structure developed by ETH scientists could now expand the possibilities of vibration absorption.\n\nLed by Chiara Daraio, Professor of Mechanics and Materials, the researchers made the structure, which has a lattice spacing of around 3.5 mm, out of plastic using a 3D printer. Inside the lattice they embedded steel cubes that are somewhat smaller than dice and act as resonators. \"Instead of the vibrations traveling through the whole structure, they are trapped by the steel cubes and the inner plastic grid rods, so the other end of the structure does not move,\" explains Kathryn Matlack, a postdoc in Daraio's group."
+    },
+    {
+      "heading": "Also a stabilising component",
+      "text": "Materials for absorbing vibrations already exist. In vehicles, machines and household appliances, vibrations are partly absorbed using special, mostly soft materials. The ETH researchers' vibration-absorbing structure is new because it is rigid and can thus also be used as a load-bearing component, for instance in mechanical engineering or even in aeroplane rotors and helicopter propellers.\n\nThe new structure offers another major advantage too: compared to existing, soft absorption materials, it can absorb a much wider range of vibrations, both fast and slow, and is particularly good at absorbing relatively slow vibrations. \"The structure can be designed to absorb vibrations with oscillations of a few hundred to a few tens of thousand times per second (Hertz)\", says ETH professor Daraio. \"This includes vibrations in the audible range. In engineering practice, these are the most undesirable, as they cause environmental noise pollution and reduce the energy efficiency of machines and vehicles.\""
+    },
+    {
+      "heading": "For wind turbines and aerospace",
+      "text": "In theory, it would be possible to build such a construction out of aluminium and other lightweight metals instead of plastic, says Matlack. In principle, it would just require a combination of lightweight material, structured in a lattice geometry, and embedded resonators with a larger mass density. The geometry of the lattice structure and the resonators would need to be optimally aligned to the anticipated vibrations.\n\nThe vibration absorbers are essentially ready for technical applications, says Matlack, but they are limited insofar as 3D printing technology is mostly geared toward small-scale production and material properties, such as the load-bearing capacity, cannot yet match those of components manufactured with traditional methods. Once this technology is ready for industrial use, there is nothing standing in the way of a broader application. A further application could be in wind turbine rotors, where minimising vibrations would increase efficiency. The technology could also conceivably be used in vehicle and aircraft construction as well as rockets.\n\nMatlack KH, Bauhofer A, Krödel S, Palermo A, Daraio C: Composite 3D-printed metastructures for low-frequency and broadband vibration absorption. PNAS, 7 July 2016, doi: 10.1073/pnas.1600171113"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Structure Absorbs Vibrations",
+        "label": "ORG",
+        "start": 31,
+        "end": 59
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 398,
+        "end": 403
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 447,
+        "end": 450
+      },
+      {
+        "text": "Chiara Daraio",
+        "label": "PERSON",
+        "start": 529,
+        "end": 542
+      },
+      {
+        "text": "Mechanics and Materials",
+        "label": "ORG",
+        "start": 557,
+        "end": 580
+      },
+      {
+        "text": "around 3.5 mm",
+        "label": "QUANTITY",
+        "start": 649,
+        "end": 662
+      },
+      {
+        "text": "Kathryn Matlack",
+        "label": "PERSON",
+        "start": 997,
+        "end": 1012
+      },
+      {
+        "text": "Daraio",
+        "label": "ORG",
+        "start": 1027,
+        "end": 1033
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 171,
+        "end": 174
+      },
+      {
+        "text": "a few hundred to a few tens of thousand",
+        "label": "CARDINAL",
+        "start": 704,
+        "end": 743
+      },
+      {
+        "text": "Hertz",
+        "label": "ORG",
+        "start": 762,
+        "end": 767
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 776,
+        "end": 779
+      },
+      {
+        "text": "Daraio",
+        "label": "PERSON",
+        "start": 790,
+        "end": 796
+      },
+      {
+        "text": "KH",
+        "label": "ORG",
+        "start": 1085,
+        "end": 1087
+      },
+      {
+        "text": "Bauhofer A",
+        "label": "PERSON",
+        "start": 1089,
+        "end": 1099
+      },
+      {
+        "text": "Krödel S",
+        "label": "ORG",
+        "start": 1101,
+        "end": 1109
+      },
+      {
+        "text": "Palermo A",
+        "label": "ORG",
+        "start": 1111,
+        "end": 1120
+      },
+      {
+        "text": "7 July 2016",
+        "label": "DATE",
+        "start": 1228,
+        "end": 1239
+      },
+      {
+        "text": "10.1073",
+        "label": "CARDINAL",
+        "start": 1246,
+        "end": 1253
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bauhofer A",
+        "Chiara Daraio",
+        "Daraio",
+        "Kathryn Matlack"
+      ],
+      "ORG": [
+        "Daraio",
+        "ETH",
+        "Hertz",
+        "KH",
+        "Krödel S",
+        "Mechanics and Materials",
+        "Palermo A",
+        "Structure Absorbs Vibrations"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "7 July 2016"
+      ],
+      "MISC": [
+        "10.1073",
+        "a few hundred to a few tens of thousand",
+        "around 3.5 mm",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "Daraio": 2,
+      "Structure Absorbs Vibrations": 1,
+      "three": 1,
+      "Chiara Daraio": 1,
+      "Mechanics and Materials": 1,
+      "around 3.5 mm": 1,
+      "Kathryn Matlack": 1,
+      "a few hundred to a few tens of thousand": 1,
+      "Hertz": 1,
+      "KH": 1,
+      "Bauhofer A": 1,
+      "Krödel S": 1,
+      "Palermo A": 1,
+      "7 July 2016": 1,
+      "10.1073": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "lattice-structure-absorbs-vibrations.md",
+      "title": "En News Events/2016/07/lattice Structure Absorbs Vibrations",
+      "language": "en",
+      "source_path": "en_news_events/2016/07/lattice-structure-absorbs-vibrations.html"
+    },
+    "temporal": {
+      "publication_date": "2016-07",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bauhofer A",
+        "Chiara Daraio",
+        "Daraio",
+        "Kathryn Matlack"
+      ],
+      "people_with_roles": {
+        "Chiara Daraio": [
+          "researcher",
+          "professor"
+        ],
+        "Daraio": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1073",
+        "a few hundred to a few tens of thousand",
+        "around 3.5 mm",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Palermo A",
+        "The ETH",
+        "En News",
+        "Kathryn Matlack",
+        "Structure Absorbs",
+        "Bauhofer A",
+        "Matlack KH",
+        "Daraio C",
+        "Vibrations Vibrations",
+        "Chiara Daraio"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Daraio",
+        "ETH",
+        "Hertz",
+        "KH",
+        "Krödel S",
+        "Mechanics and Materials",
+        "Palermo A",
+        "Structure Absorbs Vibrations"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Daraio",
+        "Structure Absorbs Vibrations",
+        "three",
+        "Chiara Daraio",
+        "Mechanics and Materials",
+        "around 3.5 mm",
+        "Kathryn Matlack",
+        "a few hundred to a few tens of thousand",
+        "Hertz"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Also a stabilising component",
+          "Also a stabilising component",
+          "For wind turbines and aerospace"
+        ],
+        "content_length": 3383
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Palermo A",
+        "ETH",
+        "Kathryn Matlack",
+        "Mechanics and Materials",
+        "2016",
+        "Bauhofer A",
+        "Daraio",
+        "Krödel S",
+        "KH",
+        "Structure Absorbs Vibrations",
+        "Hertz",
+        "Chiara Daraio"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "who",
+        "where",
+        "a few hundred to a few tens of thousand",
+        "what",
+        "how",
+        "10.1073",
+        "around 3.5 mm",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Chiara Daraio_has_role_researcher",
+        "Chiara Daraio_has_role_professor",
+        "Daraio_has_role_researcher",
+        "Daraio_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

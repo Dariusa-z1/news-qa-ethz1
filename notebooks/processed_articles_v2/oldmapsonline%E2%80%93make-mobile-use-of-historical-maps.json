@@ -1,0 +1,200 @@
+{
+  "filename": "oldmapsonline%E2%80%93make-mobile-use-of-historical-maps.md",
+  "original_filename": "oldmapsonline%E2%80%93make-mobile-use-of-historical-maps.html",
+  "source_path": "en_internal/2017/01/oldmapsonline%E2%80%93make-mobile-use-of-historical-maps.html",
+  "date": "2017-01",
+  "title": "Oldmapsonline%E2%80%93Make Mobile Use Of Historical Maps",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Now OldMapsOnline also contains more than 1,100 digital reproductions from ETH-Bibliothek, with most of these map sheets covering towns and regions in Switzerland for the period from 1750 to 1900. Developments, events and conditions in past centuries can be understood using thematic and topographical maps.\n\nThese maps can also be used on mobile devices with the OldMapsOnline app. It is also possible to situate maps precisely using the Georeferencer and reprocess them in GIS programs.\n\nWould you like to help with georeferencing the maps? Then, for any ETH-Bibliothek map found via the platform, click on View as Overlay and get going. Or begin with a random map . The ETH-Bibliothek maps team would be delighted if you could take part in this crowdsourcing activity.\n\nExample of a successfully georeferenced map (map of the city of Bern, c. 1880):"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "more than 1,100",
+        "label": "CARDINAL",
+        "start": 32,
+        "end": 47
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 75,
+        "end": 89
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 151,
+        "end": 162
+      },
+      {
+        "text": "past centuries",
+        "label": "DATE",
+        "start": 236,
+        "end": 250
+      },
+      {
+        "text": "Georeferencer",
+        "label": "ORG",
+        "start": 438,
+        "end": 451
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 555,
+        "end": 569
+      },
+      {
+        "text": "View as Overlay",
+        "label": "WORK_OF_ART",
+        "start": 607,
+        "end": 622
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 671,
+        "end": 685
+      },
+      {
+        "text": "Bern",
+        "label": "GPE",
+        "start": 834,
+        "end": 838
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH-Bibliothek",
+        "Georeferencer"
+      ],
+      "LOCATION": [
+        "Bern",
+        "Switzerland"
+      ],
+      "DATE": [
+        "past centuries"
+      ],
+      "MISC": [
+        "View as Overlay",
+        "more than 1,100"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 3,
+      "more than 1,100": 1,
+      "Switzerland": 1,
+      "past centuries": 1,
+      "Georeferencer": 1,
+      "View as Overlay": 1,
+      "Bern": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "oldmapsonline%E2%80%93make-mobile-use-of-historical-maps.md",
+      "title": "En Internal/2017/01/oldmapsonline%e2%80%93make Mobile Use Of Historical Maps",
+      "language": "en",
+      "source_path": "en_internal/2017/01/oldmapsonline%E2%80%93make-mobile-use-of-historical-maps.html"
+    },
+    "temporal": {
+      "publication_date": "2017-01",
+      "mentioned_years": [
+        "1900",
+        "2017"
+      ],
+      "time_periods": [
+        [
+          "1750",
+          "1900"
+        ]
+      ],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "View as Overlay",
+        "more than 1,100"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Maps Now",
+        "Mobile Use",
+        "En Internal",
+        "Of Historical",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek",
+        "Georeferencer"
+      ],
+      "locations": [
+        "Bern",
+        "Switzerland"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "more than 1,100",
+        "Switzerland",
+        "past centuries",
+        "Georeferencer",
+        "View as Overlay",
+        "Bern"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 929
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2017",
+        "Georeferencer",
+        "ETH-Bibliothek",
+        "1900"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "View as Overlay",
+        "how",
+        "more than 1,100",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

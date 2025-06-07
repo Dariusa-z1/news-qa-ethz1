@@ -1,0 +1,299 @@
+{
+  "filename": "flu-vaccination-campaign-2015.md",
+  "original_filename": "flu-vaccination-campaign-2015.html",
+  "source_path": "en_internal/2015/09/flu-vaccination-campaign-2015.html",
+  "date": "2015-09",
+  "title": "Flu Vaccination Campaign 2015",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "None",
+      "text": "All members of ETH Zurich can get a vaccination: For all employees the vaccination is free of charge, for students there will be a cost contribution of 25 CHF to be paid cash on site. The vaccination is optional.\n\nThe vaccination is for ETH-members only. Registration will be open from mid of September on the"
+    },
+    {
+      "heading": "Vaccination appointments",
+      "text": "ETH Zurich, Zentrum, GEP Pavilion 20 October 2015, 13.30‒16.30 h 16 November 2015, 08.30‒11.30 h\n\nETH Zurich, D-BSSE, Basel 29 October 2015, 15.00‒17.00 h\n\nETH Zürich, Hönggerberg, HIT-Building, E 51 10 November 2015, 13.30‒16.30 h 24 November 2015, 08.30‒11.30 h"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 15,
+        "end": 25
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 155,
+        "end": 158
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 236,
+        "end": 239
+      },
+      {
+        "text": "mid of September",
+        "label": "DATE",
+        "start": 285,
+        "end": 301
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 12,
+        "end": 19
+      },
+      {
+        "text": "GEP Pavilion",
+        "label": "ORG",
+        "start": 21,
+        "end": 33
+      },
+      {
+        "text": "20 October 2015",
+        "label": "DATE",
+        "start": 34,
+        "end": 49
+      },
+      {
+        "text": "13.30‒16.30",
+        "label": "DATE",
+        "start": 51,
+        "end": 62
+      },
+      {
+        "text": "16 November 2015",
+        "label": "DATE",
+        "start": 65,
+        "end": 81
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 97,
+        "end": 107
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 117,
+        "end": 122
+      },
+      {
+        "text": "29 October 2015",
+        "label": "DATE",
+        "start": 123,
+        "end": 138
+      },
+      {
+        "text": "15.00‒17.00",
+        "label": "CARDINAL",
+        "start": 140,
+        "end": 151
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "PERSON",
+        "start": 154,
+        "end": 164
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 166,
+        "end": 177
+      },
+      {
+        "text": "HIT-Building",
+        "label": "ORG",
+        "start": 179,
+        "end": 191
+      },
+      {
+        "text": "November 2015",
+        "label": "DATE",
+        "start": 201,
+        "end": 214
+      },
+      {
+        "text": "13.30‒16.30",
+        "label": "DATE",
+        "start": 216,
+        "end": 227
+      },
+      {
+        "text": "24 November 2015",
+        "label": "DATE",
+        "start": 230,
+        "end": 246
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zürich",
+        "Zentrum"
+      ],
+      "ORG": [
+        "CHF",
+        "ETH",
+        "ETH Zurich",
+        "GEP Pavilion",
+        "HIT-Building"
+      ],
+      "LOCATION": [
+        "Basel",
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "13.30‒16.30",
+        "16 November 2015",
+        "20 October 2015",
+        "24 November 2015",
+        "29 October 2015",
+        "November 2015",
+        "mid of September"
+      ],
+      "MISC": [
+        "15.00‒17.00"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "13.30‒16.30": 2,
+      "CHF": 1,
+      "ETH": 1,
+      "mid of September": 1,
+      "Zentrum": 1,
+      "GEP Pavilion": 1,
+      "20 October 2015": 1,
+      "16 November 2015": 1,
+      "Basel": 1,
+      "29 October 2015": 1,
+      "15.00‒17.00": 1,
+      "ETH Zürich": 1,
+      "Hönggerberg": 1,
+      "HIT-Building": 1,
+      "November 2015": 1,
+      "24 November 2015": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "flu-vaccination-campaign-2015.md",
+      "title": "En Internal/2015/09/flu Vaccination Campaign 2015",
+      "language": "en",
+      "source_path": "en_internal/2015/09/flu-vaccination-campaign-2015.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zürich",
+        "Zentrum"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "15.00‒17.00"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "GEP Pavilion",
+        "HIT-Building",
+        "En Internal",
+        "Vaccination Campaign",
+        "ETH Zurich",
+        "D-BSSE"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CHF",
+        "ETH",
+        "ETH Zurich",
+        "GEP Pavilion",
+        "HIT-Building"
+      ],
+      "locations": [
+        "Basel",
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zurich",
+        "13.30‒16.30",
+        "CHF",
+        "ETH",
+        "mid of September",
+        "Zentrum",
+        "GEP Pavilion",
+        "20 October 2015",
+        "16 November 2015",
+        "Basel"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "None",
+          "Vaccination appointments"
+        ],
+        "content_length": 623
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "CHF",
+        "2015",
+        "GEP Pavilion",
+        "HIT-Building",
+        "ETH Zürich",
+        "Zentrum",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "15.00‒17.00"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

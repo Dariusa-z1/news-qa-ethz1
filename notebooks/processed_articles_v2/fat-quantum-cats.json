@@ -1,0 +1,463 @@
+{
+  "filename": "fat-quantum-cats.md",
+  "original_filename": "fat-quantum-cats.html",
+  "source_path": "en_news_events/2023/04/fat-quantum-cats.html",
+  "date": "2023-04",
+  "title": "Fat Quantum Cats",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- Researchers at ETH Zurich have created the heaviest Schrödinger cat to date.\n\n- For this, they combined an oscillating crystal with a superconducting circuit.\n\n- They hope to better understand the reason behind the disappearance of quantum effects in the macroscopic world."
+    },
+    {
+      "heading": "Cat in a box",
+      "text": "Even if you are not a quantum physicist, you will most likely have heard of Schrödinger’s famous cat. Erwin Schrödinger came up with the feline that can be alive and dead at the same time in a thought experiment in 1935. The obvious contradiction – after all, in everyday life we only ever see cats that are either alive or dead – has prompted scientists to try to realize analogous situations in the laboratory. So far, they have managed to do so using, for instance, atoms or molecules in quantum mechanical superposition states of being in two places at the same time.\n\nAt ETH, a team of researchers led by Yiwen Chu, professor at the Laboratory for Solid State Physics, has now created a substantially heavier Schrödinger cat by putting a small crystal into a superposition of two oscillation states. Their results, which have been published this week in the scientific journal Science, could lead to more robust quantum bits and shed light on the mystery of why quantum superpositions are not observed in the macroscopic world."
+    },
+    {
+      "heading": "Cat in a box",
+      "text": "In Schrödinger’s original thought experiment, a cat is locked up inside a metal box together with a radioactive substance, a Geiger counter and a flask of poison. In a certain time-frame – an hour, say – an atom in the substance may or may not decay through a quantum mechanical process with a certain probability, and the decay products might cause the Geiger counter to go off and trigger a mechanism that smashes the flask containing the poison, which would eventually kill the cat. Since an outside observer cannot know whether an atom has actually decayed, he or she also doesn’t know whether the cat is alive or dead – according to quantum mechanics, which governs the decay of the atom, it should be in an alive/dead superposition state. (Schrödinger’s idea is commemorated by a life-size cat figure outside his former home at Huttenstrasse 9 in Zurich)."
+    },
+    {
+      "heading": "Measuring small disturbances with cat states",
+      "text": "“Of course, in the lab we can’t realize such an experiment with an actual cat weighing several kilograms”, says Chu. Instead, she and her co-workers managed to create a so-called cat state using an oscillating crystal, which represents the cat, with a superconducting circuit representing the original atom. That circuit is essentially a quantum bit or qubit that can take on the logical states “0” or “1” or a superposition of both states, “0+1”. The link between the qubit and the crystal “cat” is not a Geiger counter and poison, but rather a layer of piezoelectric material that creates an electric field when the crystal changes shape while oscillating. That electric field can be coupled to the electric field of the qubit, and hence the superposition state of the qubit can be transferred to the crystal."
+    },
+    {
+      "heading": "Simultaneous oscillations in opposite directions",
+      "text": "As a result, the crystal can now oscillate in two directions at the same time – up/down and down/up, for instance. Those two directions represent the “alive” or “dead” states of the cat. “By putting the two oscillation states of the crystal in a superposition, we have effectively created a Schrödinger cat weighing 16 micrograms”, explains Chu. That is roughly the mass of a fine grain of sand and nowhere near that of a cat, but still several billion times heavier than an atom or molecule, making it the fattest quantum cat to date.\n\nIn order for the oscillation states to be true cat states, it is important that they be macroscopically distinguishable. This means that the separation of the “up” and “down” states should be larger than any thermal or quantum fluctuations of the positions of the atoms inside the crystal. Chu and her colleagues checked this by measuring the spatial separation of the two states using the superconducting qubit. Even though the measured separation was only a billionth of a billionth of a metre – smaller than an atom, in fact – it was large enough to clearly distinguish the states.\n\nIn the future, Chu would like to push the mass limits of her crystal cats even further. “This is interesting because it will allow us to better understand the reason behind the disappearance of quantum effects in the macroscopic world of real cats”, she says. Beyond this rather academic interest, there are also potential applications in quantum technologies. For instance, quantum information stored in qubits could be made more robust by using cat states made up of a huge number of atoms in a crystal rather than relying on single atoms or ions, as is currently done. Also, the extreme sensitivity of massive objects in superposition states to external noise could be exploited for precise measurements of tiny disturbances such as gravitational waves or for detecting dark matter.\n\nMarius Bild, Matteo Fadel, Yu Yang, Uwe von Lüpke, Phillip Martin, Alessandro Bruno, and Yiwen Chu: Schrödinger cat states of a 16-microgram mechanical oscillator. Science 2023, doi: 10.1126/science.adf7553"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Quantum Cats",
+        "label": "ORG",
+        "start": 27,
+        "end": 39
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 17,
+        "end": 27
+      },
+      {
+        "text": "Schrödinger",
+        "label": "ORG",
+        "start": 76,
+        "end": 87
+      },
+      {
+        "text": "Erwin Schrödinger",
+        "label": "PERSON",
+        "start": 102,
+        "end": 119
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 543,
+        "end": 546
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 575,
+        "end": 578
+      },
+      {
+        "text": "Yiwen Chu",
+        "label": "PERSON",
+        "start": 609,
+        "end": 618
+      },
+      {
+        "text": "the Laboratory for Solid State Physics",
+        "label": "ORG",
+        "start": 633,
+        "end": 671
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 780,
+        "end": 783
+      },
+      {
+        "text": "this week",
+        "label": "DATE",
+        "start": 845,
+        "end": 854
+      },
+      {
+        "text": "Science",
+        "label": "WORK_OF_ART",
+        "start": 881,
+        "end": 888
+      },
+      {
+        "text": "Geiger",
+        "label": "PERSON",
+        "start": 125,
+        "end": 131
+      },
+      {
+        "text": "an hour",
+        "label": "TIME",
+        "start": 189,
+        "end": 196
+      },
+      {
+        "text": "Geiger",
+        "label": "PERSON",
+        "start": 354,
+        "end": 360
+      },
+      {
+        "text": "Huttenstrasse 9",
+        "label": "EVENT",
+        "start": 834,
+        "end": 849
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 853,
+        "end": 859
+      },
+      {
+        "text": "Chu",
+        "label": "PERSON",
+        "start": 112,
+        "end": 115
+      },
+      {
+        "text": "0+1",
+        "label": "CARDINAL",
+        "start": 442,
+        "end": 445
+      },
+      {
+        "text": "Geiger",
+        "label": "PERSON",
+        "start": 506,
+        "end": 512
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 46,
+        "end": 49
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 121,
+        "end": 124
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 203,
+        "end": 206
+      },
+      {
+        "text": "Chu",
+        "label": "PERSON",
+        "start": 341,
+        "end": 344
+      },
+      {
+        "text": "several billion",
+        "label": "CARDINAL",
+        "start": 437,
+        "end": 452
+      },
+      {
+        "text": "Chu",
+        "label": "PERSON",
+        "start": 826,
+        "end": 829
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 905,
+        "end": 908
+      },
+      {
+        "text": "Chu",
+        "label": "PERSON",
+        "start": 1136,
+        "end": 1139
+      },
+      {
+        "text": "Marius Bild",
+        "label": "PERSON",
+        "start": 1907,
+        "end": 1918
+      },
+      {
+        "text": "Matteo Fadel",
+        "label": "ORG",
+        "start": 1920,
+        "end": 1932
+      },
+      {
+        "text": "Yu Yang",
+        "label": "PERSON",
+        "start": 1934,
+        "end": 1941
+      },
+      {
+        "text": "Uwe von Lüpke",
+        "label": "PERSON",
+        "start": 1943,
+        "end": 1956
+      },
+      {
+        "text": "Phillip Martin",
+        "label": "PERSON",
+        "start": 1958,
+        "end": 1972
+      },
+      {
+        "text": "Yiwen Chu",
+        "label": "PERSON",
+        "start": 1996,
+        "end": 2005
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 2090,
+        "end": 2097
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chu",
+        "Erwin Schrödinger",
+        "Geiger",
+        "Marius Bild",
+        "Phillip Martin",
+        "Uwe von Lüpke",
+        "Yiwen Chu",
+        "Yu Yang"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Matteo Fadel",
+        "Quantum Cats",
+        "Schrödinger",
+        "the Laboratory for Solid State Physics"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "an hour",
+        "this week"
+      ],
+      "MISC": [
+        "0+1",
+        "10.1126",
+        "Huttenstrasse 9",
+        "Science",
+        "several billion",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "two": 6,
+      "Chu": 4,
+      "Geiger": 3,
+      "Yiwen Chu": 2,
+      "Quantum Cats": 1,
+      "ETH Zurich": 1,
+      "Schrödinger": 1,
+      "Erwin Schrödinger": 1,
+      "ETH": 1,
+      "the Laboratory for Solid State Physics": 1,
+      "this week": 1,
+      "Science": 1,
+      "an hour": 1,
+      "Huttenstrasse 9": 1,
+      "Zurich": 1,
+      "0+1": 1,
+      "several billion": 1,
+      "Marius Bild": 1,
+      "Matteo Fadel": 1,
+      "Yu Yang": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "fat-quantum-cats.md",
+      "title": "En News Events/2023/04/fat Quantum Cats",
+      "language": "en",
+      "source_path": "en_news_events/2023/04/fat-quantum-cats.html"
+    },
+    "temporal": {
+      "publication_date": "2023-04",
+      "mentioned_years": [
+        "1935",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chu",
+        "Erwin Schrödinger",
+        "Geiger",
+        "Marius Bild",
+        "Phillip Martin",
+        "Uwe von Lüpke",
+        "Yiwen Chu",
+        "Yu Yang"
+      ],
+      "people_with_roles": {
+        "Chu": [
+          "researcher",
+          "professor"
+        ],
+        "Yiwen Chu": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1126",
+        "Huttenstrasse 9",
+        "Science",
+        "several billion"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "At ETH",
+        "Matteo Fadel",
+        "Alessandro Bruno",
+        "Yu Yang",
+        "En News",
+        "Quantum Cats",
+        "Solid State",
+        "Marius Bild",
+        "Phillip Martin",
+        "ETH Zurich",
+        "Yiwen Chu"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Matteo Fadel",
+        "Quantum Cats",
+        "Schrödinger",
+        "the Laboratory for Solid State Physics"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "two",
+        "Chu",
+        "Geiger",
+        "Yiwen Chu",
+        "Quantum Cats",
+        "ETH Zurich",
+        "Schrödinger",
+        "Erwin Schrödinger",
+        "ETH",
+        "the Laboratory for Solid State Physics"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "In brief",
+          "Cat in a box",
+          "Cat in a box",
+          "Measuring small disturbances with cat states",
+          "Simultaneous oscillations in opposite directions"
+        ],
+        "content_length": 5139
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Matteo Fadel",
+        "Uwe von Lüpke",
+        "ETH",
+        "Yu Yang",
+        "Schrödinger",
+        "Chu",
+        "Erwin Schrödinger",
+        "Geiger",
+        "Quantum Cats",
+        "the Laboratory for Solid State Physics",
+        "Marius Bild",
+        "Phillip Martin",
+        "ETH Zurich",
+        "1935",
+        "ERC",
+        "Yiwen Chu",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "who",
+        "Huttenstrasse 9",
+        "Science",
+        "several billion",
+        "10.1126",
+        "where",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Chu_has_role_researcher",
+        "Chu_has_role_professor",
+        "Yiwen Chu_has_role_researcher",
+        "Yiwen Chu_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "filename": "suche-nach-artikeln-im-wissensportal-erneuert.md",
+  "original_filename": "suche-nach-artikeln-im-wissensportal-erneuert.html",
+  "source_path": "de_internal/2014/10/suche-nach-artikeln-im-wissensportal-erneuert.html",
+  "date": "2014-10",
+  "title": "Suche Nach Artikeln Im Wissensportal Erneuert",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Hierbei werden die Metadaten wissenschaftlicher Informationsressourcen in einer einzigen Suche integriert.\n\nIm zweiten Suchreiter \"Artikel und mehr\" im Wissensportal ergeben sich dadurch folgende Neuerungen:\n\nNicht mehr im Suchreiter \"Artikel und mehr\" integriert ist die Suche nach NTIS-Reports. Benutzen Sie hierfür die NTIS-Datenbank . Der Zugriff ist nur im Netzwerk der ETH Zürich möglich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/10",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Artikeln",
+        "label": "LOC",
+        "start": 31,
+        "end": 39
+      },
+      {
+        "text": "Wissensportal",
+        "label": "LOC",
+        "start": 43,
+        "end": 56
+      },
+      {
+        "text": "Wissensportal",
+        "label": "LOC",
+        "start": 151,
+        "end": 164
+      },
+      {
+        "text": "NTIS-Reports",
+        "label": "LOC",
+        "start": 281,
+        "end": 293
+      },
+      {
+        "text": "NTIS-Datenbank",
+        "label": "ORG",
+        "start": 320,
+        "end": 334
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 373,
+        "end": 383
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "NTIS-Datenbank"
+      ],
+      "LOCATION": [
+        "Artikeln",
+        "De Internal/2014/10",
+        "NTIS-Reports",
+        "Wissensportal"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Wissensportal": 2,
+      "De Internal/2014/10": 1,
+      "Artikeln": 1,
+      "NTIS-Reports": 1,
+      "NTIS-Datenbank": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "suche-nach-artikeln-im-wissensportal-erneuert.md",
+      "title": "De Internal/2014/10/suche nach Artikeln Im Wissensportal Erneuert",
+      "language": "de",
+      "source_path": "de_internal/2014/10/suche-nach-artikeln-im-wissensportal-erneuert.html"
+    },
+    "temporal": {
+      "publication_date": "2014-10",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "De Internal",
+        "NTIS-Reports",
+        "NTIS-Datenbank",
+        "Der Zugriff",
+        "Benutzen Sie",
+        "Wissensportal Erneuert",
+        "Artikeln Im"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "NTIS-Datenbank"
+      ],
+      "locations": [
+        "Artikeln",
+        "De Internal/2014/10",
+        "NTIS-Reports",
+        "Wissensportal"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Wissensportal",
+        "De Internal/2014/10",
+        "Artikeln",
+        "NTIS-Reports",
+        "NTIS-Datenbank",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 460
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "2014",
+        "EU",
+        "NTIS-Datenbank"
+      ],
+      "semantic_concepts": [
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

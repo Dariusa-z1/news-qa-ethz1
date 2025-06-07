@@ -1,0 +1,459 @@
+{
+  "filename": "formel-e.md",
+  "original_filename": "formel-e.html",
+  "source_path": "de_news_events/2018/04/formel-e.html",
+  "date": "2018-04",
+  "title": "Formel E",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Am 10. Juni findet in Zürich der Julius Bär E-Prix 2018, das erste Rennen in der Schweiz mit Elektro-Rennwagen statt. In Anwesenheit der Stadtpräsidentin Corine Mauch und von ETH-Präsident Lino Guzzella präsentierten heute die Veranstalter den Medien an der ETH Zürich Details zum Anlass. Vor dem ETH-Hauptgebäude endete zudem eine Show-Fahrt: ein Formel-E-Rennwagen – pilotiert vom Schweizer Formel-E-Fahrer Sébastien Buemi – fuhr mit Polizeieskorte durch die Stadt Zürich.\n\nZürichs Stadtpräsidentin Corinne Mauch und ETH-Präsident Lino Guzzella begrüssen Sébastien Buemi. (Bild: ETH Zürich)\n\nDie ETH Zürich engagiert sich im offiziellen Rahmenprogramm des Rennens, den eDays. Das Formel-E-Rennen in Zürich sei über den sportlichen Wettbewerb hinaus eine Chance, sich mit dem Thema Mobilität der Zukunft auseinanderzusetzen, sagte Lino Guzzella vor den Medien. Für die Hochschule ist eine Mobilität, die klimaschonend, energieeffizient und zahlbar zugleich ist, eines der zentralen Themen in Forschung und Ausbildung.\n\nAm eDays-Symposium vom Freitag, den 8. Juni, stellt die ETH-Zürich das Thema E-Mobilität in einen breiteren Kontext. Es debattieren Experten aus Wissenschaft, Industrie und Politik, darunter die ETH-Professoren Konstantinos Boulouchos, Christopher Onder und Gerhard Schmitt.\n\nIm Rahmenprogramm stellen ETH-Studierende zudem eigene Mobilitätsprojekte vor. Dazu zählen «Duckietown», ein System von autonomen Mini-Fahrzeugen, bei dem Besucher auch selber aktiv werden können; die elektrischen und autonomen Rennwagen des akademischen Motorsportvereins AMZ, sowie «Swissloop», die Hochgeschwindigkeits-Reisekapsel, die im Sommer an Elon Musks Hyperloop-Wettbewerb in Los Angeles antreten wird."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 22,
+        "end": 28
+      },
+      {
+        "text": "Julius Bär E-Prix",
+        "label": "PER",
+        "start": 33,
+        "end": 50
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 77,
+        "end": 88
+      },
+      {
+        "text": "Elektro-Rennwagen",
+        "label": "LOC",
+        "start": 93,
+        "end": 110
+      },
+      {
+        "text": "Corine Mauch",
+        "label": "PER",
+        "start": 154,
+        "end": 166
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PER",
+        "start": 189,
+        "end": 202
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 258,
+        "end": 268
+      },
+      {
+        "text": "ETH-Hauptgebäude",
+        "label": "ORG",
+        "start": 297,
+        "end": 313
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 383,
+        "end": 392
+      },
+      {
+        "text": "Formel-E-Fahrer",
+        "label": "ORG",
+        "start": 393,
+        "end": 408
+      },
+      {
+        "text": "Sébastien Buemi",
+        "label": "PER",
+        "start": 409,
+        "end": 424
+      },
+      {
+        "text": "Polizeieskorte",
+        "label": "PER",
+        "start": 436,
+        "end": 450
+      },
+      {
+        "text": "Stadt Zürich",
+        "label": "LOC",
+        "start": 461,
+        "end": 473
+      },
+      {
+        "text": "Corinne Mauch",
+        "label": "PER",
+        "start": 500,
+        "end": 513
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PER",
+        "start": 532,
+        "end": 545
+      },
+      {
+        "text": "Sébastien Buemi",
+        "label": "PER",
+        "start": 556,
+        "end": 571
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 580,
+        "end": 590
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 596,
+        "end": 606
+      },
+      {
+        "text": "eDays",
+        "label": "MISC",
+        "start": 669,
+        "end": 674
+      },
+      {
+        "text": "Formel-E-Rennen",
+        "label": "MISC",
+        "start": 680,
+        "end": 695
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 699,
+        "end": 705
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PER",
+        "start": 830,
+        "end": 843
+      },
+      {
+        "text": "eDays-Symposium",
+        "label": "MISC",
+        "start": 1020,
+        "end": 1035
+      },
+      {
+        "text": "ETH-Zürich",
+        "label": "LOC",
+        "start": 1073,
+        "end": 1083
+      },
+      {
+        "text": "ETH-Professoren",
+        "label": "ORG",
+        "start": 1212,
+        "end": 1227
+      },
+      {
+        "text": "Konstantinos Boulouchos",
+        "label": "PER",
+        "start": 1228,
+        "end": 1251
+      },
+      {
+        "text": "Christopher Onder",
+        "label": "PER",
+        "start": 1253,
+        "end": 1270
+      },
+      {
+        "text": "Gerhard Schmitt",
+        "label": "PER",
+        "start": 1275,
+        "end": 1290
+      },
+      {
+        "text": "ETH-Studierende",
+        "label": "MISC",
+        "start": 1318,
+        "end": 1333
+      },
+      {
+        "text": "Duckietown",
+        "label": "LOC",
+        "start": 1384,
+        "end": 1394
+      },
+      {
+        "text": "Hochgeschwindigkeits-Reisekapsel",
+        "label": "LOC",
+        "start": 1593,
+        "end": 1625
+      },
+      {
+        "text": "Elon Musks",
+        "label": "PER",
+        "start": 1644,
+        "end": 1654
+      },
+      {
+        "text": "Los Angeles",
+        "label": "LOC",
+        "start": 1679,
+        "end": 1690
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christopher Onder",
+        "Corine Mauch",
+        "Corinne Mauch",
+        "De News",
+        "Elon Musks",
+        "Gerhard Schmitt",
+        "Julius Bär E-Prix",
+        "Konstantinos Boulouchos",
+        "Lino Guzzella",
+        "Polizeieskorte",
+        "Sébastien Buemi"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Hauptgebäude",
+        "ETH-Professoren",
+        "Formel-E-Fahrer"
+      ],
+      "LOCATION": [
+        "Duckietown",
+        "ETH-Zürich",
+        "Elektro-Rennwagen",
+        "Hochgeschwindigkeits-Reisekapsel",
+        "Los Angeles",
+        "Stadt Zürich",
+        "Zürich",
+        "der Schweiz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Studierende",
+        "Formel-E-Rennen",
+        "Schweizer",
+        "eDays",
+        "eDays-Symposium"
+      ]
+    },
+    "entity_counts": {
+      "Lino Guzzella": 3,
+      "ETH Zürich": 3,
+      "Zürich": 2,
+      "Sébastien Buemi": 2,
+      "De News": 1,
+      "Julius Bär E-Prix": 1,
+      "der Schweiz": 1,
+      "Elektro-Rennwagen": 1,
+      "Corine Mauch": 1,
+      "ETH-Hauptgebäude": 1,
+      "Schweizer": 1,
+      "Formel-E-Fahrer": 1,
+      "Polizeieskorte": 1,
+      "Stadt Zürich": 1,
+      "Corinne Mauch": 1,
+      "eDays": 1,
+      "Formel-E-Rennen": 1,
+      "eDays-Symposium": 1,
+      "ETH-Zürich": 1,
+      "ETH-Professoren": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "formel-e.md",
+      "title": "De News Events/2018/04/formel E",
+      "language": "de",
+      "source_path": "de_news_events/2018/04/formel-e.html"
+    },
+    "temporal": {
+      "publication_date": "2018-04",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Christopher Onder",
+        "Corine Mauch",
+        "Corinne Mauch",
+        "De News",
+        "Elon Musks",
+        "Gerhard Schmitt",
+        "Julius Bär E-Prix",
+        "Konstantinos Boulouchos",
+        "Lino Guzzella",
+        "Polizeieskorte",
+        "Sébastien Buemi"
+      ],
+      "people_with_roles": {
+        "Christopher Onder": [
+          "professor"
+        ],
+        "Gerhard Schmitt": [
+          "professor"
+        ],
+        "Konstantinos Boulouchos": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Studierende",
+        "Formel-E-Rennen",
+        "Schweizer",
+        "eDays",
+        "eDays-Symposium"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "E-Rennen",
+        "Corine Mauch",
+        "E-Prix",
+        "Corinne Mauch",
+        "Thema E",
+        "Schweizer Formel",
+        "Motorsportvereins AMZ",
+        "Formel-E",
+        "ETH-Studierende",
+        "Los Angeles",
+        "Hochgeschwindigkeits-Reisekapsel",
+        "Die ETH",
+        "In Anwesenheit",
+        "Lino Guzzella",
+        "Das Formel",
+        "Im Rahmenprogramm",
+        "Elektro-Rennwagen",
+        "ETH-Professoren",
+        "Elon Musks",
+        "Gerhard Schmitt",
+        "De News",
+        "Mini-Fahrzeugen",
+        "E Am",
+        "Christopher Onder",
+        "Hyperloop-Wettbewerb",
+        "Konstantinos Boulouchos",
+        "Show-Fahrt",
+        "E-Fahrer"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Hauptgebäude",
+        "ETH-Professoren",
+        "Formel-E-Fahrer"
+      ],
+      "locations": [
+        "Duckietown",
+        "ETH-Zürich",
+        "Elektro-Rennwagen",
+        "Hochgeschwindigkeits-Reisekapsel",
+        "Los Angeles",
+        "Stadt Zürich",
+        "Zürich",
+        "der Schweiz"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "how"
+      ],
+      "key_concepts": [
+        "Lino Guzzella",
+        "ETH Zürich",
+        "Zürich",
+        "Sébastien Buemi",
+        "De News",
+        "Julius Bär E-Prix",
+        "der Schweiz",
+        "Elektro-Rennwagen",
+        "Corine Mauch",
+        "ETH-Hauptgebäude"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1741
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Corine Mauch",
+        "Polizeieskorte",
+        "ETH-Hauptgebäude",
+        "EU",
+        "Elon Musks",
+        "Corinne Mauch",
+        "Gerhard Schmitt",
+        "Julius Bär E-Prix",
+        "De News",
+        "ETH Zürich",
+        "Formel-E-Fahrer",
+        "Christopher Onder",
+        "Lino Guzzella",
+        "Sébastien Buemi",
+        "Konstantinos Boulouchos",
+        "ETH-Professoren"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Studierende",
+        "eDays-Symposium",
+        "Schweizer",
+        "eDays",
+        "who",
+        "how",
+        "Formel-E-Rennen"
+      ],
+      "graph_relations": [
+        "Christopher Onder_has_role_professor",
+        "Gerhard Schmitt_has_role_professor",
+        "Konstantinos Boulouchos_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

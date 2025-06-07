@@ -1,0 +1,163 @@
+{
+  "filename": "schreib-mal-wieder-eine-karte.md",
+  "original_filename": "schreib-mal-wieder-eine-karte.html",
+  "source_path": "de_internal/2020/11/schreib-mal-wieder-eine-karte.html",
+  "date": "2020-11",
+  "title": "Schreib Mal Wieder Eine Karte",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Machen Sie Ihren Liebsten und Freunden eine Freude mit einer Karte aus der neuen Kollektion von Print and Publish. Die Klappkarten mit verschiedenen Weihnachtsmotiven im Format A5 sind ab sofort im Print and Publish Webshop verfügbar.\n\nWir übernehmen nach Wunsch auch gerne den kompletten Kartenversand: Vom Personalisieren der Kuverts bis zur Postaufgabe ist alles möglich. Haben Sie Fragen oder wünschen Sie ein anderes Motiv? Für Beratung und Fragen sind wir gerne für Sie da unter +41 44 632 50 13 oder ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/11",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Print and Publish",
+        "label": "MISC",
+        "start": 96,
+        "end": 113
+      },
+      {
+        "text": "Klappkarten",
+        "label": "MISC",
+        "start": 119,
+        "end": 130
+      },
+      {
+        "text": "A5",
+        "label": "LOC",
+        "start": 177,
+        "end": 179
+      },
+      {
+        "text": "Print and Publish Webshop",
+        "label": "LOC",
+        "start": 198,
+        "end": 223
+      },
+      {
+        "text": "Kartenversand",
+        "label": "LOC",
+        "start": 288,
+        "end": 301
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "A5",
+        "De Internal/2020/11",
+        "Kartenversand",
+        "Print and Publish Webshop"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Klappkarten",
+        "Print and Publish"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2020/11": 1,
+      "Print and Publish": 1,
+      "Klappkarten": 1,
+      "A5": 1,
+      "Print and Publish Webshop": 1,
+      "Kartenversand": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "schreib-mal-wieder-eine-karte.md",
+      "title": "De Internal/2020/11/schreib Mal Wieder eine Karte",
+      "language": "de",
+      "source_path": "de_internal/2020/11/schreib-mal-wieder-eine-karte.html"
+    },
+    "temporal": {
+      "publication_date": "2020-11",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Klappkarten",
+        "Print and Publish"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Vom Personalisieren",
+        "De Internal",
+        "Publish Webshop",
+        "Mal Wieder",
+        "Sie Ihren",
+        "Haben Sie",
+        "Die Klappkarten",
+        "Karte Machen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "A5",
+        "De Internal/2020/11",
+        "Kartenversand",
+        "Print and Publish Webshop"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De Internal/2020/11",
+        "Print and Publish",
+        "Klappkarten",
+        "A5",
+        "Print and Publish Webshop",
+        "Kartenversand"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 558
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "2020"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Klappkarten",
+        "Print and Publish"
+      ],
+      "graph_relations": []
+    }
+  }
+}

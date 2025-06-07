@@ -1,0 +1,306 @@
+{
+  "filename": "buch-ueber-lee-gebaeude-erschienen.md",
+  "original_filename": "buch-ueber-lee-gebaeude-erschienen.html",
+  "source_path": "de_internal/2015/11/buch-ueber-lee-gebaeude-erschienen.html",
+  "date": "2015-11",
+  "title": "Buch Ueber Lee Gebaeude Erschienen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Neue offizielle Strasse",
+      "text": "Das neue Gebäude LEE der ETH Zürich in unmittelbarer Nähe des Hauptgebäudes ist Teil der Zürcher Skyline und somit ein städtebaulich herausragendes Projekt. Sein Architekt Fawad Kazi hat einen aussergewöhnlichen Entwurf geschaffen, der auch konstruktiv Neuland betritt. Drei Hauptaspekte bilden die inhaltlichen Schwerpunkte des neu erschienenen Buchs «ETH Zürich Gebäude Lee»: Die städtebauliche Einbindung, die Konstruktion und Materialisierung des Betonelementbaus sowie eine umfassende Dokumentation des Baus in Plan und Bild.\n\nThematische Essays werden ergänzt durch Kurztexte, die verschiedene Aspekte des Gebäudes LEE besonders beleuchten. Abgerundet mit Texten des Architekten, der Bauherrschaft und der Fachplaner, bietet die Baumonografie ein umfassendes Bild des komplexen Baus."
+    },
+    {
+      "heading": "Neue offizielle Strasse",
+      "text": "Seit kurzem hat die Stadt Zürich in Zusammenhang mit dem LEE-Gebäude auch einen neuen Weg: Den Leonhardsteig. Dieser ist öffentlich und dient als Weiterführung der Wegverbindung vom Central über Auf der Maur zur Clausiusstrasse entlang der LEE-Nordfassade."
+    },
+    {
+      "heading": "Weitere Informationen",
+      "text": "Park Books, Zürich 2015, Texte Deutsch und Englisch ISBN 978-3-906027-82-1"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/11/buch",
+        "label": "LOC",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "text": "Lee Gebaeude",
+        "label": "PER",
+        "start": 31,
+        "end": 43
+      },
+      {
+        "text": "LEE",
+        "label": "ORG",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 25,
+        "end": 35
+      },
+      {
+        "text": "Hauptgebäudes",
+        "label": "LOC",
+        "start": 62,
+        "end": 75
+      },
+      {
+        "text": "Zürcher Skyline",
+        "label": "ORG",
+        "start": 89,
+        "end": 104
+      },
+      {
+        "text": "Fawad Kazi",
+        "label": "PER",
+        "start": 172,
+        "end": 182
+      },
+      {
+        "text": "Neuland",
+        "label": "LOC",
+        "start": 253,
+        "end": 260
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 353,
+        "end": 363
+      },
+      {
+        "text": "Gebäudes LEE",
+        "label": "ORG",
+        "start": 611,
+        "end": 623
+      },
+      {
+        "text": "Stadt Zürich",
+        "label": "LOC",
+        "start": 20,
+        "end": 32
+      },
+      {
+        "text": "LEE-Gebäude",
+        "label": "MISC",
+        "start": 57,
+        "end": 68
+      },
+      {
+        "text": "Leonhardsteig",
+        "label": "LOC",
+        "start": 95,
+        "end": 108
+      },
+      {
+        "text": "LEE-Nordfassade",
+        "label": "MISC",
+        "start": 240,
+        "end": 255
+      },
+      {
+        "text": "Park Books",
+        "label": "PER",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 12,
+        "end": 18
+      },
+      {
+        "text": "Deutsch",
+        "label": "MISC",
+        "start": 31,
+        "end": 38
+      },
+      {
+        "text": "Englisch",
+        "label": "MISC",
+        "start": 43,
+        "end": 51
+      },
+      {
+        "text": "ISBN",
+        "label": "MISC",
+        "start": 52,
+        "end": 56
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fawad Kazi",
+        "Lee Gebaeude",
+        "Park Books"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Gebäudes LEE",
+        "LEE",
+        "Zürcher Skyline"
+      ],
+      "LOCATION": [
+        "De Internal/2015/11/buch",
+        "Hauptgebäudes",
+        "Leonhardsteig",
+        "Neuland",
+        "Stadt Zürich",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Deutsch",
+        "Englisch",
+        "ISBN",
+        "LEE-Gebäude",
+        "LEE-Nordfassade"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "De Internal/2015/11/buch": 1,
+      "Lee Gebaeude": 1,
+      "LEE": 1,
+      "Hauptgebäudes": 1,
+      "Zürcher Skyline": 1,
+      "Fawad Kazi": 1,
+      "Neuland": 1,
+      "Gebäudes LEE": 1,
+      "Stadt Zürich": 1,
+      "LEE-Gebäude": 1,
+      "Leonhardsteig": 1,
+      "LEE-Nordfassade": 1,
+      "Park Books": 1,
+      "Zürich": 1,
+      "Deutsch": 1,
+      "Englisch": 1,
+      "ISBN": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "buch-ueber-lee-gebaeude-erschienen.md",
+      "title": "De Internal/2015/11/buch Ueber Lee Gebaeude Erschienen",
+      "language": "de",
+      "source_path": "de_internal/2015/11/buch-ueber-lee-gebaeude-erschienen.html"
+    },
+    "temporal": {
+      "publication_date": "2015-11",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Fawad Kazi",
+        "Lee Gebaeude",
+        "Park Books"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Deutsch",
+        "Englisch",
+        "ISBN",
+        "LEE-Gebäude",
+        "LEE-Nordfassade"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Den Leonhardsteig",
+        "Thematische Essays",
+        "Park Books",
+        "De Internal",
+        "Texte Deutsch",
+        "Sein Architekt",
+        "Drei Hauptaspekte",
+        "Englisch ISBN",
+        "Fawad Kazi",
+        "Ueber Lee",
+        "LEE-Nordfassade",
+        "Gebaeude Erschienen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Gebäudes LEE",
+        "LEE",
+        "Zürcher Skyline"
+      ],
+      "locations": [
+        "De Internal/2015/11/buch",
+        "Hauptgebäudes",
+        "Leonhardsteig",
+        "Neuland",
+        "Stadt Zürich",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2015/11/buch",
+        "Lee Gebaeude",
+        "LEE",
+        "Hauptgebäudes",
+        "Zürcher Skyline",
+        "Fawad Kazi",
+        "Neuland",
+        "Gebäudes LEE",
+        "Stadt Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Neue offizielle Strasse",
+          "Neue offizielle Strasse",
+          "Weitere Informationen"
+        ],
+        "content_length": 1176
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Lee Gebaeude",
+        "2015",
+        "Zürcher Skyline",
+        "EU",
+        "Gebäudes LEE",
+        "ETH Zürich",
+        "LEE",
+        "Fawad Kazi",
+        "Park Books"
+      ],
+      "semantic_concepts": [
+        "Deutsch",
+        "Englisch",
+        "ISBN",
+        "LEE-Nordfassade",
+        "LEE-Gebäude"
+      ],
+      "graph_relations": []
+    }
+  }
+}

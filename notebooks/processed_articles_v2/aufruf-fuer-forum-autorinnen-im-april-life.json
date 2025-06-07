@@ -1,0 +1,170 @@
+{
+  "filename": "aufruf-fuer-forum-autorinnen-im-april-life.md",
+  "original_filename": "aufruf-fuer-forum-autorinnen-im-april-life.html",
+  "source_path": "de_internal/2022/02/aufruf-fuer-forum-autorinnen-im-april-life.html",
+  "date": "2022-02",
+  "title": "Aufruf Fuer Forum Autorinnen Im April Life",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Ob wir wollen oder nicht: Wir alle haben unbewusste Vorurteile und bevorzugen Menschen, die uns ähnlich sind. Vor allem in Bewerbungsprozessen kann das dazu führen, dass nicht immer die geeignetsten Kandidat:innen ausgewählt werden. Doch gerade für den Erfolg einer Hochschule ist es entscheidend, die besten Talente zu rekrutieren.\n\nKönnten anonymisierte Bewerbungen die Lösung sein? Würden nur die fachlichen und sozialen Kompetenzen zählen, wenn weder Alter noch Geschlecht oder Herkunft der Bewerber:innen ersichtlich sind? Und würde es die Chancengleichheit erhöhen, wenn diese Aspekte bei der Bewerbung ausgeblendet würden? Oder sind diese Faktoren bei der Auswahl eines Teams zu wichtig, um sie ausser Acht zu lassen?\n\nWas denken Sie: Sollte es an der ETH künftig nur noch anonymisierte Bewerbungsverfahren geben? Für die . Redaktionell können wir Sie gerne beim Verfassen des Beitrags unterstützen. Im nächsten «life»-​Magazin, das am 22. April erscheint, wird je ein Pro-​ und ein Kontra-​Beitrag publiziert."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/02/aufruf",
+        "label": "LOC",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "Fuer Forum",
+        "label": "ORG",
+        "start": 27,
+        "end": 37
+      },
+      {
+        "text": "Life",
+        "label": "ORG",
+        "start": 58,
+        "end": 62
+      },
+      {
+        "text": "Bewerbungsprozessen",
+        "label": "LOC",
+        "start": 123,
+        "end": 142
+      },
+      {
+        "text": "Könnten",
+        "label": "PER",
+        "start": 333,
+        "end": 340
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 757,
+        "end": 760
+      },
+      {
+        "text": "Kontra-​Beitrag",
+        "label": "MISC",
+        "start": 988,
+        "end": 1003
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Könnten"
+      ],
+      "ORG": [
+        "ETH",
+        "Fuer Forum",
+        "Life"
+      ],
+      "LOCATION": [
+        "Bewerbungsprozessen",
+        "De Internal/2022/02/aufruf"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Kontra-​Beitrag"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2022/02/aufruf": 1,
+      "Fuer Forum": 1,
+      "Life": 1,
+      "Bewerbungsprozessen": 1,
+      "Könnten": 1,
+      "ETH": 1,
+      "Kontra-​Beitrag": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "aufruf-fuer-forum-autorinnen-im-april-life.md",
+      "title": "De Internal/2022/02/aufruf Fuer Forum Autorinnen Im April Life",
+      "language": "de",
+      "source_path": "de_internal/2022/02/aufruf-fuer-forum-autorinnen-im-april-life.html"
+    },
+    "temporal": {
+      "publication_date": "2022-02",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Könnten"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Kontra-​Beitrag"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Autorinnen Im",
+        "Fuer Forum",
+        "De Internal",
+        "April Life"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Fuer Forum",
+        "Life"
+      ],
+      "locations": [
+        "Bewerbungsprozessen",
+        "De Internal/2022/02/aufruf"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2022/02/aufruf",
+        "Fuer Forum",
+        "Life",
+        "Bewerbungsprozessen",
+        "Könnten",
+        "ETH",
+        "Kontra-​Beitrag"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1080
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Life",
+        "2022",
+        "Könnten",
+        "Fuer Forum"
+      ],
+      "semantic_concepts": [
+        "Kontra-​Beitrag"
+      ],
+      "graph_relations": []
+    }
+  }
+}

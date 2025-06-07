@@ -1,0 +1,574 @@
+{
+  "filename": "tuition-fees-at-eth-to-be-increased.md",
+  "original_filename": "tuition-fees-at-eth-to-be-increased.html",
+  "source_path": "en_news_events/2017/09/tuition-fees-at-eth-to-be-increased.html",
+  "date": "2017-09",
+  "title": "Tuition Fees At Eth To Be Increased",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Top training at a still favourable price",
+      "text": "ETH Zurich is currently one of the Swiss universities with the lowest tuition fees. With 1160 Swiss francs per year, ETH Zurich is in the third with the lowest fees. The ETH Board has now decided to raise the fees by CHF 500 per year. The new fees will be introduced in two stages. The increase amounts to CHF 250 for the autumn semester 2019/2020 and CHF 250 for the autumn semester 2020/2021. This affects not only Bachelor's and Master's students, but also doctoral candidates, participants in continuing education programmes and students attending the courses."
+    },
+    {
+      "heading": "Top training at a still favourable price",
+      "text": "It is the first adjustment in 13 years, i. e. since 2004: after the increase, ETH's tuition fees are roughly the same as at the universities of Basel or Lucerne. For Swiss students they will be slightly higher than at the University of Zurich, but significantly lower than at the USI in Lugano and at the University of St. Gallen.\n\nETH Rector Sarah Springman explains:\"These tuition fees are still inexpensive, given the actual costs of a place at ETH Zurich, the quality of the training offered here and the excellent career opportunities for ETH graduates.\" She also points out that the number of students at ETH Zurich has grown sharply in recent years, rising by around 55 percent since 2005. However, the federal budget subsidies did not keep pace with this development."
+    },
+    {
+      "heading": "More scholarships promised",
+      "text": "ETH Zurich will do everything in its power to ensure that no one is prevented from studying here for financial reasons. Rector Springman:\"We want to make it possible for all talents to study at this university. We are therefore planning to allocate more funds for scholarships. The rector of ETH Zurich is now hoping for a constructive cooperation with the student associations. ETH Zurich attaches great importance to the quality of teaching and a good mentoring relationship. We want to maintain this, even if it becomes financially tighter and the number of students continues to grow.\"\n\nThe ETH Board decides on tuition fees at the two ETHs and has now sent an increase for ETH Zurich and ETH Lausanne to the consultation process (see press release ). Starting in autumn 2019, tuition fees are to increase gradually over two years by a total of CHF 500 per year. From the autumn semester 2020/21 onwards, the semester fees will then amount to CHF 1,660 per year. The fees at the other Swiss universities are between 1000 and 4000 Swiss francs per year. In German-speaking Switzerland, ETH Zurich currently offers the lowest tuition fees of all universities."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 35,
+        "end": 40
+      },
+      {
+        "text": "1160 Swiss francs",
+        "label": "MONEY",
+        "start": 89,
+        "end": 106
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 117,
+        "end": 127
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 138,
+        "end": 143
+      },
+      {
+        "text": "The ETH Board",
+        "label": "ORG",
+        "start": 166,
+        "end": 179
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 217,
+        "end": 220
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 270,
+        "end": 273
+      },
+      {
+        "text": "CHF 250",
+        "label": "ORG",
+        "start": 306,
+        "end": 313
+      },
+      {
+        "text": "2019/2020",
+        "label": "DATE",
+        "start": 338,
+        "end": 347
+      },
+      {
+        "text": "the autumn semester 2020/2021",
+        "label": "DATE",
+        "start": 364,
+        "end": 393
+      },
+      {
+        "text": "Bachelor",
+        "label": "ORG",
+        "start": 417,
+        "end": 425
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 10,
+        "end": 15
+      },
+      {
+        "text": "13 years",
+        "label": "DATE",
+        "start": 30,
+        "end": 38
+      },
+      {
+        "text": "i. e. since",
+        "label": "PERSON",
+        "start": 40,
+        "end": 51
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 78,
+        "end": 81
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 144,
+        "end": 149
+      },
+      {
+        "text": "Lucerne",
+        "label": "GPE",
+        "start": 153,
+        "end": 160
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 166,
+        "end": 171
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 218,
+        "end": 242
+      },
+      {
+        "text": "USI",
+        "label": "ORG",
+        "start": 280,
+        "end": 283
+      },
+      {
+        "text": "Lugano",
+        "label": "GPE",
+        "start": 287,
+        "end": 293
+      },
+      {
+        "text": "the University of St. Gallen",
+        "label": "ORG",
+        "start": 301,
+        "end": 329
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PERSON",
+        "start": 342,
+        "end": 357
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 447,
+        "end": 457
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 543,
+        "end": 546
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 610,
+        "end": 620
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 642,
+        "end": 654
+      },
+      {
+        "text": "around 55 percent",
+        "label": "PERCENT",
+        "start": 666,
+        "end": 683
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 292,
+        "end": 302
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 379,
+        "end": 389
+      },
+      {
+        "text": "The ETH Board",
+        "label": "ORG",
+        "start": 590,
+        "end": 603
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 635,
+        "end": 638
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 677,
+        "end": 687
+      },
+      {
+        "text": "ETH Lausanne",
+        "label": "PERSON",
+        "start": 692,
+        "end": 704
+      },
+      {
+        "text": "autumn 2019",
+        "label": "DATE",
+        "start": 767,
+        "end": 778
+      },
+      {
+        "text": "two years",
+        "label": "DATE",
+        "start": 824,
+        "end": 833
+      },
+      {
+        "text": "CHF 500 per year",
+        "label": "ORG",
+        "start": 848,
+        "end": 864
+      },
+      {
+        "text": "2020/21",
+        "label": "CARDINAL",
+        "start": 891,
+        "end": 898
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 946,
+        "end": 949
+      },
+      {
+        "text": "1,660",
+        "label": "CARDINAL",
+        "start": 950,
+        "end": 955
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 988,
+        "end": 993
+      },
+      {
+        "text": "between 1000 and 4000 Swiss francs",
+        "label": "CARDINAL",
+        "start": 1011,
+        "end": 1045
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 1059,
+        "end": 1065
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1075,
+        "end": 1086
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "GPE",
+        "start": 1088,
+        "end": 1098
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Lausanne",
+        "ETH Zurich",
+        "Sarah Springman",
+        "i. e. since"
+      ],
+      "ORG": [
+        "Bachelor",
+        "CHF",
+        "CHF 250",
+        "CHF 500 per year",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "The ETH Board",
+        "USI",
+        "the University of St. Gallen",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Basel",
+        "ETH Zurich",
+        "Lucerne",
+        "Lugano",
+        "Switzerland"
+      ],
+      "DATE": [
+        "13 years",
+        "2019/2020",
+        "autumn 2019",
+        "recent years",
+        "the autumn semester 2020/2021",
+        "two years"
+      ],
+      "MISC": [
+        "1,660",
+        "1160 Swiss francs",
+        "2020/21",
+        "German",
+        "Swiss",
+        "around 55 percent",
+        "between 1000 and 4000 Swiss francs",
+        "first",
+        "third",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 9,
+      "Swiss": 3,
+      "The ETH Board": 2,
+      "CHF": 2,
+      "two": 2,
+      "ETH": 2,
+      "En News": 1,
+      "1160 Swiss francs": 1,
+      "third": 1,
+      "CHF 250": 1,
+      "2019/2020": 1,
+      "the autumn semester 2020/2021": 1,
+      "Bachelor": 1,
+      "first": 1,
+      "13 years": 1,
+      "i. e. since": 1,
+      "Basel": 1,
+      "Lucerne": 1,
+      "the University of Zurich": 1,
+      "USI": 1
+    },
+    "total_entities": 48,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "tuition-fees-at-eth-to-be-increased.md",
+      "title": "En News Events/2017/09/tuition Fees At Eth To Be Increased",
+      "language": "en",
+      "source_path": "en_news_events/2017/09/tuition-fees-at-eth-to-be-increased.html"
+    },
+    "temporal": {
+      "publication_date": "2017-09",
+      "mentioned_years": [
+        "2004",
+        "2005",
+        "2017",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "time_periods": [
+        [
+          "1000",
+          "4000"
+        ]
+      ],
+      "temporal_context": "since, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Lausanne",
+        "ETH Zurich",
+        "Sarah Springman",
+        "i. e. since"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student",
+          "rector",
+          "graduate"
+        ],
+        "Sarah Springman": [
+          "rector",
+          "graduate"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "1,660",
+        "1160 Swiss francs",
+        "2020/21",
+        "German",
+        "Swiss",
+        "around 55 percent",
+        "between 1000 and 4000 Swiss francs",
+        "first",
+        "third"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Eth To",
+        "En News",
+        "ETH Lausanne",
+        "ETH Rector",
+        "For Swiss",
+        "Sarah Springman",
+        "Fees At",
+        "Be Increased",
+        "ETH Zurich",
+        "Rector Springman",
+        "In German",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bachelor",
+        "CHF",
+        "CHF 250",
+        "CHF 500 per year",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "The ETH Board",
+        "USI",
+        "the University of St. Gallen",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Basel",
+        "ETH Zurich",
+        "Lucerne",
+        "Lugano",
+        "Switzerland"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Swiss",
+        "The ETH Board",
+        "CHF",
+        "two",
+        "ETH",
+        "En News",
+        "1160 Swiss francs",
+        "third",
+        "CHF 250"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Top training at a still favourable price",
+          "Top training at a still favourable price",
+          "More scholarships promised"
+        ],
+        "content_length": 2561
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "CHF",
+        "The ETH Board",
+        "CHF 250",
+        "Bachelor",
+        "the University of Zurich",
+        "2020",
+        "CHF 500 per year",
+        "2004",
+        "ERC",
+        "the University of St. Gallen",
+        "ETH Lausanne",
+        "2019",
+        "Sarah Springman",
+        "USI",
+        "i. e. since",
+        "En News",
+        "2017",
+        "ETH Zurich",
+        "2005",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "third",
+        "why",
+        "around 55 percent",
+        "Swiss",
+        "when",
+        "how",
+        "German",
+        "between 1000 and 4000 Swiss francs",
+        "2020/21",
+        "1160 Swiss francs",
+        "where",
+        "1,660"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "ETH Zurich_has_role_rector",
+        "ETH Zurich_has_role_graduate",
+        "Sarah Springman_has_role_rector",
+        "Sarah Springman_has_role_graduate",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

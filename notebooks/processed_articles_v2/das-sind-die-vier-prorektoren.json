@@ -1,0 +1,121 @@
+{
+  "filename": "das-sind-die-vier-prorektoren.md",
+  "original_filename": "das-sind-die-vier-prorektoren.html",
+  "source_path": "de_internal/2015/04/das-sind-die-vier-prorektoren.html",
+  "date": "2015-04",
+  "title": "Das Sind Die Vier Prorektoren",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Schulleitung hat in ihrer Sitzung vom 14. April bekanntgegeben, dass folgende Prorektoren für eine vom 1. Mai 2015 bis zum 31. Dezember 2018 laufende Amtsdauer neu- und wiedergewählt wurden:\n\nNeu ins Amt gewählt wurde:\n\nWiedergewählt wurden:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/04",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Vier Prorektoren",
+        "label": "MISC",
+        "start": 33,
+        "end": 49
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2015/04"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Vier Prorektoren"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2015/04": 1,
+      "Vier Prorektoren": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "das-sind-die-vier-prorektoren.md",
+      "title": "De Internal/2015/04/das Sind die Vier Prorektoren",
+      "language": "de",
+      "source_path": "de_internal/2015/04/das-sind-die-vier-prorektoren.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Vier Prorektoren"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "De Internal",
+        "Die Schulleitung",
+        "Vier Prorektoren"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2015/04"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2015/04",
+        "Vier Prorektoren"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 295
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "EU",
+        "2015"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Vier Prorektoren"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

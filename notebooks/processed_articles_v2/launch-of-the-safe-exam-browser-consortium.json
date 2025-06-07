@@ -1,0 +1,175 @@
+{
+  "filename": "launch-of-the-safe-exam-browser-consortium.md",
+  "original_filename": "launch-of-the-safe-exam-browser-consortium.html",
+  "source_path": "en_internal/2016/06/launch-of-the-safe-exam-browser-consortium.html",
+  "date": "2016-06",
+  "title": "Launch Of The Safe Exam Browser Consortium",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The deployment of online examinations at traditional educational institutions and beyond has been increasing steadily, in tandem with the recent rise of massive open online courses (MOOCs). The Safe Exam Browser ( SEB ) is a secure and reliable lockdown browser which is already the open source product of choice for many educational organisations in this context. SEB is known for its software quality and its engagement with the user, standards and development communities.\n\nHowever, SEB requires ongoing funding for its maintenance, development and support activities. For this reason ETH Zurich and the SWITCH foundation have decided to launch the SEB Consortium. The Consortium invites further bodies, which may range from educational institutions to companies and public authorities, to join it and work together on this impressive open-source tool, with its promising future."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Safe Exam Browser Consortium",
+        "label": "WORK_OF_ART",
+        "start": 30,
+        "end": 62
+      },
+      {
+        "text": "SEB",
+        "label": "ORG",
+        "start": 365,
+        "end": 368
+      },
+      {
+        "text": "SEB",
+        "label": "ORG",
+        "start": 485,
+        "end": 488
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 587,
+        "end": 597
+      },
+      {
+        "text": "the SEB Consortium",
+        "label": "ORG",
+        "start": 647,
+        "end": 665
+      },
+      {
+        "text": "Consortium",
+        "label": "ORG",
+        "start": 671,
+        "end": 681
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "Consortium",
+        "SEB",
+        "the SEB Consortium"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "The Safe Exam Browser Consortium"
+      ]
+    },
+    "entity_counts": {
+      "SEB": 2,
+      "The Safe Exam Browser Consortium": 1,
+      "ETH Zurich": 1,
+      "the SEB Consortium": 1,
+      "Consortium": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "launch-of-the-safe-exam-browser-consortium.md",
+      "title": "En Internal/2016/06/launch Of The Safe Exam Browser Consortium",
+      "language": "en",
+      "source_path": "en_internal/2016/06/launch-of-the-safe-exam-browser-consortium.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "The Safe Exam Browser Consortium"
+      ],
+      "grants_funding": [
+        "funding"
+      ],
+      "projects": [
+        "Browser Consortium",
+        "Safe Exam",
+        "The Consortium",
+        "Exam Browser",
+        "The Safe",
+        "En Internal",
+        "SEB Consortium",
+        "Of The",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Consortium",
+        "SEB",
+        "the SEB Consortium"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "SEB",
+        "The Safe Exam Browser Consortium",
+        "ETH Zurich",
+        "the SEB Consortium",
+        "Consortium"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 945
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the SEB Consortium",
+        "SEB",
+        "2016",
+        "funding",
+        "ETH Zurich",
+        "Consortium"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "how",
+        "The Safe Exam Browser Consortium",
+        "computer_science",
+        "why"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

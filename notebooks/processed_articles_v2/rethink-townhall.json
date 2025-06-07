@@ -1,0 +1,243 @@
+{
+  "filename": "rethink-townhall.md",
+  "original_filename": "rethink-townhall.html",
+  "source_path": "en_internal/2021/06/rethink-townhall.html",
+  "date": "2021-06",
+  "title": "Rethink Townhall",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Recording of the Townhall from 29 June 2021",
+      "text": "\"We want to create more time and resources for our core tasks with rETHink,\" Joël Mesot opened the virtual Townhall. Over the last few months, more than 600 ETH employees from all areas have worked out in six so-called workstreams where ETH needs to pull the levers to achieve this overarching goal.\n\nAt the Townhall, those responsible for the workstreams presented the results of their detailed analysis and the fields of activity they derived from it. The large number of speakers - 13 in all - impressively demonstrated that rETHink has grown from a project of the Executive Board to an ETH project. Joël Mesot said: \"I am impressed by how many colleagues have contributed to rETHink in the meantime and with what great commitment they are working for the future of our university. That's where our collective intelligence really comes into effect.\"\n\nIn the coming months, further information will be provided on the progress of the project - after all, it is now time to implement measures. Or as Joël Mesot put it in his closing remarks: \"Now the real work begins.\""
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "rETHink",
+        "label": "LAW",
+        "start": 67,
+        "end": 74
+      },
+      {
+        "text": "Joël Mesot",
+        "label": "PERSON",
+        "start": 77,
+        "end": 87
+      },
+      {
+        "text": "the last few months",
+        "label": "DATE",
+        "start": 122,
+        "end": 141
+      },
+      {
+        "text": "more than 600",
+        "label": "CARDINAL",
+        "start": 143,
+        "end": 156
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 157,
+        "end": 160
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 205,
+        "end": 208
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 237,
+        "end": 240
+      },
+      {
+        "text": "Townhall",
+        "label": "ORG",
+        "start": 307,
+        "end": 315
+      },
+      {
+        "text": "rETHink",
+        "label": "ORG",
+        "start": 527,
+        "end": 534
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 563,
+        "end": 582
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 589,
+        "end": 592
+      },
+      {
+        "text": "Joël Mesot",
+        "label": "PERSON",
+        "start": 602,
+        "end": 612
+      },
+      {
+        "text": "rETHink",
+        "label": "LAW",
+        "start": 678,
+        "end": 685
+      },
+      {
+        "text": "the coming months",
+        "label": "DATE",
+        "start": 855,
+        "end": 872
+      },
+      {
+        "text": "Joël Mesot",
+        "label": "PERSON",
+        "start": 999,
+        "end": 1009
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Joël Mesot"
+      ],
+      "ORG": [
+        "ETH",
+        "Townhall",
+        "rETHink",
+        "the Executive Board"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "the coming months",
+        "the last few months"
+      ],
+      "MISC": [
+        "more than 600",
+        "rETHink",
+        "six"
+      ]
+    },
+    "entity_counts": {
+      "rETHink": 3,
+      "Joël Mesot": 3,
+      "ETH": 3,
+      "the last few months": 1,
+      "more than 600": 1,
+      "six": 1,
+      "Townhall": 1,
+      "the Executive Board": 1,
+      "the coming months": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "rethink-townhall.md",
+      "title": "En Internal/2021/06/rethink Townhall",
+      "language": "en",
+      "source_path": "en_internal/2021/06/rethink-townhall.html"
+    },
+    "temporal": {
+      "publication_date": "2021-06",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Joël Mesot"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "more than 600",
+        "rETHink"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Executive Board",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Townhall",
+        "rETHink",
+        "the Executive Board"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "rETHink",
+        "Joël Mesot",
+        "ETH",
+        "the last few months",
+        "more than 600",
+        "six",
+        "Townhall",
+        "the Executive Board",
+        "the coming months"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Recording of the Townhall from 29 June 2021"
+        ],
+        "content_length": 1107
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Joël Mesot",
+        "Townhall",
+        "the Executive Board",
+        "rETHink",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "more than 600",
+        "what",
+        "how",
+        "rETHink",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "filename": "de_internal_2019_10_sehnsucht-nach-welt-die-schweiz-und-das-meer.md",
+  "original_filename": "de_internal_2019_10_sehnsucht-nach-welt-die-schweiz-und-das-meer.html",
+  "source_path": "de_internal/2019/10/sehnsucht-nach-welt-die-schweiz-und-das-meer.html",
+  "date": "2019-10",
+  "title": "Sehnsucht Nach Welt Die Schweiz Und Das Meer",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Sie beflügelten den Tourismus und brachten Ingenieure auf phantastische Ideen. Beispielsweise sollte der \"Transhelvetische Kanal\" die Schweizer Wasserwege sogar über die Alpen schiffbar machen und mit dem Meer verbinden. Diese Sehnsucht zeigt sich auch in Max Frischs tiefer Liebe zum Meer und dessen Einfluss in seinen Werken. Erkunden Sie die Schweizer Sehnsucht nach dem Meer in der neuen Explora-Story."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/10/sehnsucht",
+        "label": "LOC",
+        "start": 0,
+        "end": 29
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 44,
+        "end": 51
+      },
+      {
+        "text": "Transhelvetische Kanal",
+        "label": "LOC",
+        "start": 106,
+        "end": 128
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 134,
+        "end": 143
+      },
+      {
+        "text": "Alpen",
+        "label": "LOC",
+        "start": 170,
+        "end": 175
+      },
+      {
+        "text": "Max Frischs",
+        "label": "PER",
+        "start": 256,
+        "end": 267
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 345,
+        "end": 354
+      },
+      {
+        "text": "Explora-Story",
+        "label": "ORG",
+        "start": 392,
+        "end": 405
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Max Frischs"
+      ],
+      "ORG": [
+        "Explora-Story"
+      ],
+      "LOCATION": [
+        "Alpen",
+        "De Internal/2019/10/sehnsucht",
+        "Schweiz",
+        "Transhelvetische Kanal"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "Schweizer": 2,
+      "De Internal/2019/10/sehnsucht": 1,
+      "Schweiz": 1,
+      "Transhelvetische Kanal": 1,
+      "Alpen": 1,
+      "Max Frischs": 1,
+      "Explora-Story": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_10_sehnsucht-nach-welt-die-schweiz-und-das-meer.md",
+      "title": "De Internal/2019/10/sehnsucht nach Welt die Schweiz und das Meer",
+      "language": "de",
+      "source_path": "de_internal/2019/10/sehnsucht-nach-welt-die-schweiz-und-das-meer.html"
+    },
+    "temporal": {
+      "publication_date": "2019-10",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Max Frischs"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Schweizer"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Schweizer Wasserwege",
+        "Transhelvetische Kanal",
+        "Meer Sie",
+        "De Internal",
+        "Erkunden Sie",
+        "Max Frischs",
+        "Explora-Story",
+        "Diese Sehnsucht",
+        "Schweizer Sehnsucht"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Explora-Story"
+      ],
+      "locations": [
+        "Alpen",
+        "De Internal/2019/10/sehnsucht",
+        "Schweiz",
+        "Transhelvetische Kanal"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Schweizer",
+        "De Internal/2019/10/sehnsucht",
+        "Schweiz",
+        "Transhelvetische Kanal",
+        "Alpen",
+        "Max Frischs",
+        "Explora-Story"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 471
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "Explora-Story",
+        "EU",
+        "Max Frischs"
+      ],
+      "semantic_concepts": [
+        "Schweizer"
+      ],
+      "graph_relations": []
+    }
+  }
+}

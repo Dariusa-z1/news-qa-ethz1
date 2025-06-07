@@ -1,0 +1,306 @@
+{
+  "filename": "neu-an-der-eth-walter-karlen.md",
+  "original_filename": "neu-an-der-eth-walter-karlen.html",
+  "source_path": "de_internal/2015/02/neu-an-der-eth-walter-karlen.html",
+  "date": "2015-02",
+  "title": "Neu An Der Eth Walter Karlen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Zur Person",
+      "text": "Wie würden Sie einem Kind Ihr Forschungsgebiet erklären? Wir entwickeln Computerprogramme, die helfen zu beurteilen, ob du krank bist oder nicht. Das coole dabei ist, das wir diese Programme auf dem Handy installieren und dessen Sensoren nutzen können. Wenn du beispielsweise Husten hast und dich krank fühlst, könnte deine Mutter mit Hilfe ihres Handy entscheiden, ob du im Bett bleiben oder besser zum Arzt gehen sollst. Unsere Systeme funktioneren ähnlich wie der Tricorder des Schiffsarztes Dr. McCoy auf dem Raumschiff Enterprise.\n\nWie kam es, dass Sie über Mobile Gesundheitssysteme forschen? Ich war immer sehr interessiert an der Miniaturisierung und Mobilisierung von Robotern. Deren Messsysteme sind stark abhängig von Umwelteinflüssen. Bei automatisierten medizinischen Anwendungen muss man noch einen Schritt weiter gehen, da sich jeder Patient anders verhält und viele unbekannte Parameter eine Diagnose oder Behandlung beeinflussen können. Ich möchte mittels intelligenter Technik zur Individualisierung der Medizin beitragen.\n\nWelches ist Ihr Lieblingsbuch, und warum? Ich bin ein begeisterter Comic-Fan. Am liebsten lese ich die Bände in Originalsprache. Mein grosser Favorit ist der Klassiker «A la recherche de Peter Pan» (Auf der Suche nach Peter Pan) des Westschweizer Zeichners Cosey. Seine Persönlichkeiten sind faszinierend und die Bergwelten in ihrer Farbgebung sehr stimmungsvoll. Deshalb hängen auch Bilder von Cosey an meinen Bürowänden."
+    },
+    {
+      "heading": "Zur Person",
+      "text": "Walter Karlen , geboren 1979 in der Schweiz, ist seit Oktober 2014 Professor für Mobile Gesundheitssysteme am Departement für Gesundheitswissenschaften und Technologie (D-HEST). Der international anerkannte Forscher beschäftigt sich mit individualisierten Methoden und Geräten für den Einsatz im Gesundheitswesen. Konkret entwickelt er biomedizinische Sensoren, die über tragbare Systeme (z.B. Mobiltelefone) selbst fernab von klinischen Zentren eingesetzt werden können, um die Gesundheit ausgewählter Bevölkerungsgruppen zu untersuchen.\n\nMit der Berufung von Walter Karlen verstärkt das Departement Gesundheitswissenschaften und Technologie seinen Schwerpunkt auf dem Gebiet der Medizintechnik, Rehabilitation und Pflege."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/02/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Eth Walter",
+        "label": "MISC",
+        "start": 31,
+        "end": 41
+      },
+      {
+        "text": "Dr. McCoy",
+        "label": "PER",
+        "start": 495,
+        "end": 504
+      },
+      {
+        "text": "Comic-Fan",
+        "label": "LOC",
+        "start": 1107,
+        "end": 1116
+      },
+      {
+        "text": "Mein grosser Favorit",
+        "label": "MISC",
+        "start": 1169,
+        "end": 1189
+      },
+      {
+        "text": "Auf der Suche",
+        "label": "MISC",
+        "start": 1239,
+        "end": 1252
+      },
+      {
+        "text": "Peter Pan",
+        "label": "PER",
+        "start": 1258,
+        "end": 1267
+      },
+      {
+        "text": "Westschweizer",
+        "label": "LOC",
+        "start": 1273,
+        "end": 1286
+      },
+      {
+        "text": "Cosey",
+        "label": "PER",
+        "start": 1297,
+        "end": 1302
+      },
+      {
+        "text": "Cosey",
+        "label": "PER",
+        "start": 1435,
+        "end": 1440
+      },
+      {
+        "text": "Bürowänden",
+        "label": "LOC",
+        "start": 1451,
+        "end": 1461
+      },
+      {
+        "text": "Walter Karlen",
+        "label": "PER",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 36,
+        "end": 43
+      },
+      {
+        "text": "Departement für Gesundheitswissenschaften und Technologie",
+        "label": "MISC",
+        "start": 110,
+        "end": 167
+      },
+      {
+        "text": "D-HEST",
+        "label": "MISC",
+        "start": 169,
+        "end": 175
+      },
+      {
+        "text": "Konkret",
+        "label": "ORG",
+        "start": 314,
+        "end": 321
+      },
+      {
+        "text": "Walter Karlen",
+        "label": "PER",
+        "start": 560,
+        "end": 573
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Cosey",
+        "Dr. McCoy",
+        "Peter Pan",
+        "Walter Karlen"
+      ],
+      "ORG": [
+        "Konkret"
+      ],
+      "LOCATION": [
+        "Bürowänden",
+        "Comic-Fan",
+        "De Internal/2015/02/",
+        "Schweiz",
+        "Westschweizer"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Auf der Suche",
+        "D-HEST",
+        "Departement für Gesundheitswissenschaften und Technologie",
+        "Eth Walter",
+        "Mein grosser Favorit"
+      ]
+    },
+    "entity_counts": {
+      "Cosey": 2,
+      "Walter Karlen": 2,
+      "De Internal/2015/02/": 1,
+      "Eth Walter": 1,
+      "Dr. McCoy": 1,
+      "Comic-Fan": 1,
+      "Mein grosser Favorit": 1,
+      "Auf der Suche": 1,
+      "Peter Pan": 1,
+      "Westschweizer": 1,
+      "Bürowänden": 1,
+      "Schweiz": 1,
+      "Departement für Gesundheitswissenschaften und Technologie": 1,
+      "D-HEST": 1,
+      "Konkret": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neu-an-der-eth-walter-karlen.md",
+      "title": "De Internal/2015/02/neu an der Eth Walter Karlen",
+      "language": "de",
+      "source_path": "de_internal/2015/02/neu-an-der-eth-walter-karlen.html"
+    },
+    "temporal": {
+      "publication_date": "2015-02",
+      "mentioned_years": [
+        "1979",
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Cosey",
+        "Dr. McCoy",
+        "Peter Pan",
+        "Walter Karlen"
+      ],
+      "people_with_roles": {
+        "Walter Karlen": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Auf der Suche",
+        "D-HEST",
+        "Departement für Gesundheitswissenschaften und Technologie",
+        "Eth Walter",
+        "Mein grosser Favorit"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Karlen Wie",
+        "Unsere Systeme",
+        "Comic-Fan",
+        "Eth Walter",
+        "Deren Messsysteme",
+        "Walter Karlen",
+        "Kind Ihr",
+        "De Internal",
+        "Ihr Lieblingsbuch",
+        "D-HEST",
+        "Mobile Gesundheitssysteme",
+        "Peter Pan",
+        "Westschweizer Zeichners",
+        "Schiffsarztes Dr",
+        "Departement Gesundheitswissenschaften",
+        "Raumschiff Enterprise"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Konkret"
+      ],
+      "locations": [
+        "Bürowänden",
+        "Comic-Fan",
+        "De Internal/2015/02/",
+        "Schweiz",
+        "Westschweizer"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Cosey",
+        "Walter Karlen",
+        "De Internal/2015/02/",
+        "Eth Walter",
+        "Dr. McCoy",
+        "Comic-Fan",
+        "Mein grosser Favorit",
+        "Auf der Suche",
+        "Peter Pan",
+        "Westschweizer"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Zur Person",
+          "Zur Person"
+        ],
+        "content_length": 2237
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Dr. McCoy",
+        "Konkret",
+        "2015",
+        "Cosey",
+        "Walter Karlen",
+        "EU",
+        "1979",
+        "Peter Pan",
+        "ERC",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "Eth Walter",
+        "who",
+        "D-HEST",
+        "Departement für Gesundheitswissenschaften und Technologie",
+        "what",
+        "how",
+        "Auf der Suche",
+        "Mein grosser Favorit"
+      ],
+      "graph_relations": [
+        "Walter Karlen_has_role_professor"
+      ]
+    }
+  }
+}

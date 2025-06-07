@@ -1,0 +1,341 @@
+{
+  "filename": "taking-to-the-water-in-a-concrete-canoe.md",
+  "original_filename": "taking-to-the-water-in-a-concrete-canoe.html",
+  "source_path": "en_internal/2015/06/taking-to-the-water-in-a-concrete-canoe.html",
+  "date": "2015-06",
+  "title": "Taking To The Water In A Concrete Canoe",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "A concrete canoe regatta is held in Germany every two years, with students from all over Europe competing against one another with their various boat designs. Following on from their success in the last two contests, two teams from the Institute for Building Materials – part of the Department of Civil, Environmental and Geomatic Engineering (D-BAUG) – have set themselves ambitious targets for this year’s event too.\n\nFor the first time, the teams, in close collaboration with the Chair of Architecture and Digital Fabrication, have developed their canoes using digital fabrication technology based on the Smart Dynamic Casting and Mesh-Mould research projects. They hope this will give them a good chance of winning first prize in the “Construction” category.\n\nMembers of ETH Zurich are cordially invited to come and watch the launching ceremony for the two concrete canoes (which go by the names of “Queen ElisamEshTH” and “S2D2”), which will take place between 5.00 p.m. and 6.00 p.m. on Wednesday 17 June by the lake in front of the HPZ building on the Hönggerberg campus."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Water in A Concrete Canoe",
+        "label": "WORK_OF_ART",
+        "start": 30,
+        "end": 59
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 36,
+        "end": 43
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 89,
+        "end": 95
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 203,
+        "end": 206
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 217,
+        "end": 220
+      },
+      {
+        "text": "the Institute for Building Materials",
+        "label": "ORG",
+        "start": 232,
+        "end": 268
+      },
+      {
+        "text": "the Department of Civil, Environmental and",
+        "label": "ORG",
+        "start": 279,
+        "end": 321
+      },
+      {
+        "text": "Geomatic Engineering",
+        "label": "ORG",
+        "start": 322,
+        "end": 342
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 396,
+        "end": 405
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 427,
+        "end": 432
+      },
+      {
+        "text": "the Chair of Architecture",
+        "label": "ORG",
+        "start": 478,
+        "end": 503
+      },
+      {
+        "text": "Digital Fabrication",
+        "label": "ORG",
+        "start": 508,
+        "end": 527
+      },
+      {
+        "text": "the Smart Dynamic Casting and",
+        "label": "ORG",
+        "start": 603,
+        "end": 632
+      },
+      {
+        "text": "Mesh-Mould",
+        "label": "PERSON",
+        "start": 633,
+        "end": 643
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 718,
+        "end": 723
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 773,
+        "end": 783
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 855,
+        "end": 858
+      },
+      {
+        "text": "Queen ElisamEshTH",
+        "label": "WORK_OF_ART",
+        "start": 902,
+        "end": 919
+      },
+      {
+        "text": "between 5.00 p.m. and 6.00 p.m.",
+        "label": "TIME",
+        "start": 956,
+        "end": 987
+      },
+      {
+        "text": "Wednesday 17 June",
+        "label": "DATE",
+        "start": 991,
+        "end": 1008
+      },
+      {
+        "text": "HPZ",
+        "label": "ORG",
+        "start": 1037,
+        "end": 1040
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 1057,
+        "end": 1068
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Mesh-Mould"
+      ],
+      "ORG": [
+        "Digital Fabrication",
+        "Geomatic Engineering",
+        "HPZ",
+        "the Chair of Architecture",
+        "the Department of Civil, Environmental and",
+        "the Institute for Building Materials",
+        "the Smart Dynamic Casting and"
+      ],
+      "LOCATION": [
+        "Europe",
+        "Germany"
+      ],
+      "DATE": [
+        "Wednesday 17 June",
+        "between 5.00 p.m. and 6.00 p.m.",
+        "this year"
+      ],
+      "MISC": [
+        "Queen ElisamEshTH",
+        "The Water in A Concrete Canoe",
+        "first",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "two": 3,
+      "first": 2,
+      "The Water in A Concrete Canoe": 1,
+      "Germany": 1,
+      "Europe": 1,
+      "the Institute for Building Materials": 1,
+      "the Department of Civil, Environmental and": 1,
+      "Geomatic Engineering": 1,
+      "this year": 1,
+      "the Chair of Architecture": 1,
+      "Digital Fabrication": 1,
+      "the Smart Dynamic Casting and": 1,
+      "Mesh-Mould": 1,
+      "ETH Zurich": 1,
+      "Queen ElisamEshTH": 1,
+      "between 5.00 p.m. and 6.00 p.m.": 1,
+      "Wednesday 17 June": 1,
+      "HPZ": 1,
+      "Hönggerberg": 1
+    },
+    "total_entities": 22,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "taking-to-the-water-in-a-concrete-canoe.md",
+      "title": "En Internal/2015/06/taking To The Water in A Concrete Canoe",
+      "language": "en",
+      "source_path": "en_internal/2015/06/taking-to-the-water-in-a-concrete-canoe.html"
+    },
+    "temporal": {
+      "publication_date": "2015-06",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Mesh-Mould"
+      ],
+      "people_with_roles": {
+        "Mesh-Mould": [
+          "chair"
+        ]
+      },
+      "institutional_roles": [
+        "chair",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Queen ElisamEshTH",
+        "The Water in A Concrete Canoe",
+        "first"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Building Materials",
+        "Queen ElisamEshTH",
+        "Mesh-Mould",
+        "En Internal",
+        "ETH Zurich",
+        "To The",
+        "Geomatic Engineering",
+        "D-BAUG",
+        "Smart Dynamic",
+        "Digital Fabrication",
+        "Canoe A",
+        "A Concrete"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Civil",
+        "Building Materials "
+      ],
+      "institutions": [
+        "Digital Fabrication",
+        "Geomatic Engineering",
+        "HPZ",
+        "the Chair of Architecture",
+        "the Department of Civil, Environmental and",
+        "the Institute for Building Materials",
+        "the Smart Dynamic Casting and"
+      ],
+      "locations": [
+        "Europe",
+        "Germany"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "two",
+        "first",
+        "The Water in A Concrete Canoe",
+        "Germany",
+        "Europe",
+        "the Institute for Building Materials",
+        "the Department of Civil, Environmental and",
+        "Geomatic Engineering",
+        "this year",
+        "the Chair of Architecture"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1138
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "the Department of Civil, Environmental and",
+        "2015",
+        "the Smart Dynamic Casting and",
+        "EU",
+        "Mesh-Mould",
+        "the Institute for Building Materials",
+        "HPZ",
+        "the Chair of Architecture",
+        "Geomatic Engineering",
+        "ETH Zurich",
+        "Digital Fabrication"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Queen ElisamEshTH",
+        "where",
+        "The Water in A Concrete Canoe",
+        "what",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Mesh-Mould_has_role_chair",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

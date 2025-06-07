@@ -1,0 +1,357 @@
+{
+  "filename": "mitsprache-ja-veto-nein.md",
+  "original_filename": "mitsprache-ja-veto-nein.html",
+  "source_path": "en_news_events/2014/05/mitsprache-ja-veto-nein.html",
+  "date": "2014-05",
+  "title": "Mitsprache Ja Veto Nein",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "cIn its meetings on Wednesday and Thursday, the ETH Board addressed the participation of donors in the filling of endowed professorships, a subject that has been much discussed in the media in recent weeks. The issue emerged after questions were raised about whether a donor – Nestlé – had been contractually granted a veto over a professorship appointment eight years ago.\n\nIn a press release today, the ETH Board makes clear that the individual institutions of the ETH Domain are responsible and accountable for the proper use of third-party funding. For the ETH Board, the strategic leadership body of the ETH Domain, the paramount priority is that institutions maintain the academic freedom of scientific teaching and research, which is anchored in the constitution.\n\nTogether with ETH Zurich and EPFL, the ETH Board reaffirmed that the participation of not only partners from business and public life but also donors on appointment committees is useful. Consequently, donors have a right to participate in the appointment procedure, but third parties must not be granted any rights that exceed participation, in particular veto rights. Appointment procedures are conducted strictly according to academic principles. If a nomination committee should propose to the president of ETH Zurich or EPFL a person who does not meet the donor’s expectations, the latter has the option of refusing to fund the professorship. In such a case, the institution will still propose the nominated person to the ETH Board and ensure funding from a different source.\n\nDescribing the practice at ETH Zurich, president Ralph Eichler says: “ETH Zurich invites donors to take a seat on the appointment committee. There the representative of the donor, like all members of the 10-12 person committee, has the right to participate, but has no veto.” The final selection of a new professor, he notes, rests with ETH’s president, who submits a proposal to the ETH Board as the selection authority for new professors."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Ja Veto Nein",
+        "label": "PERSON",
+        "start": 34,
+        "end": 46
+      },
+      {
+        "text": "cIn",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE",
+        "start": 20,
+        "end": 29
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE",
+        "start": 34,
+        "end": 42
+      },
+      {
+        "text": "the ETH Board",
+        "label": "ORG",
+        "start": 44,
+        "end": 57
+      },
+      {
+        "text": "recent weeks",
+        "label": "DATE",
+        "start": 193,
+        "end": 205
+      },
+      {
+        "text": "eight years ago",
+        "label": "DATE",
+        "start": 357,
+        "end": 372
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 393,
+        "end": 398
+      },
+      {
+        "text": "the ETH Board",
+        "label": "ORG",
+        "start": 400,
+        "end": 413
+      },
+      {
+        "text": "the ETH Domain",
+        "label": "ORG",
+        "start": 462,
+        "end": 476
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 531,
+        "end": 536
+      },
+      {
+        "text": "the ETH Board",
+        "label": "ORG",
+        "start": 556,
+        "end": 569
+      },
+      {
+        "text": "the ETH Domain",
+        "label": "FAC",
+        "start": 604,
+        "end": 618
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 784,
+        "end": 794
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 799,
+        "end": 803
+      },
+      {
+        "text": "the ETH Board",
+        "label": "ORG",
+        "start": 805,
+        "end": 818
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 1040,
+        "end": 1045
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1280,
+        "end": 1290
+      },
+      {
+        "text": "the ETH Board",
+        "label": "ORG",
+        "start": 1492,
+        "end": 1505
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1577,
+        "end": 1587
+      },
+      {
+        "text": "Ralph Eichler",
+        "label": "PERSON",
+        "start": 1599,
+        "end": 1612
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1620,
+        "end": 1630
+      },
+      {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 1754,
+        "end": 1759
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1887,
+        "end": 1890
+      },
+      {
+        "text": "the ETH Board",
+        "label": "ORG",
+        "start": 1930,
+        "end": 1943
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Ja Veto Nein",
+        "Ralph Eichler"
+      ],
+      "ORG": [
+        "EPFL",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "cIn",
+        "the ETH Board",
+        "the ETH Domain"
+      ],
+      "LOCATION": [
+        "the ETH Domain"
+      ],
+      "DATE": [
+        "Thursday",
+        "Wednesday",
+        "eight years ago",
+        "recent weeks",
+        "today"
+      ],
+      "MISC": [
+        "10-12",
+        "third"
+      ]
+    },
+    "entity_counts": {
+      "the ETH Board": 6,
+      "ETH Zurich": 4,
+      "the ETH Domain": 2,
+      "third": 2,
+      "En News": 1,
+      "Ja Veto Nein": 1,
+      "cIn": 1,
+      "Wednesday": 1,
+      "Thursday": 1,
+      "recent weeks": 1,
+      "eight years ago": 1,
+      "today": 1,
+      "EPFL": 1,
+      "Ralph Eichler": 1,
+      "10-12": 1,
+      "ETH": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mitsprache-ja-veto-nein.md",
+      "title": "En News Events/2014/05/mitsprache Ja Veto Nein",
+      "language": "en",
+      "source_path": "en_news_events/2014/05/mitsprache-ja-veto-nein.html"
+    },
+    "temporal": {
+      "publication_date": "2014-05",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Ja Veto Nein",
+        "Ralph Eichler"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "president",
+          "professor"
+        ],
+        "Ja Veto Nein": [
+          "professor"
+        ],
+        "Ralph Eichler": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "10-12",
+        "third"
+      ],
+      "grants_funding": [
+        "grant",
+        "funding"
+      ],
+      "projects": [
+        "ETH Board",
+        "En News",
+        "Ralph Eichler",
+        "ETH Domain",
+        "ETH Zurich",
+        "Ja Veto"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "EPFL",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "cIn",
+        "the ETH Board",
+        "the ETH Domain"
+      ],
+      "locations": [
+        "the ETH Domain"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "the ETH Board",
+        "ETH Zurich",
+        "the ETH Domain",
+        "third",
+        "En News",
+        "Ja Veto Nein",
+        "cIn",
+        "Wednesday",
+        "Thursday",
+        "recent weeks"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2040
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EPFL",
+        "ETH",
+        "grant",
+        "En News",
+        "Ralph Eichler",
+        "Ja Veto Nein",
+        "the ETH Domain",
+        "funding",
+        "cIn",
+        "the ETH Board",
+        "ETH Zurich",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "third",
+        "who",
+        "10-12",
+        "what",
+        "when"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_president",
+        "ETH Zurich_has_role_professor",
+        "Ja Veto Nein_has_role_professor",
+        "Ralph Eichler_has_role_president",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

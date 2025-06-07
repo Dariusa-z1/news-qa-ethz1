@@ -1,0 +1,198 @@
+{
+  "filename": "de_internal_2019_02_zugriff-auf-die-plattform-konkurado.md",
+  "original_filename": "de_internal_2019_02_zugriff-auf-die-plattform-konkurado.html",
+  "source_path": "de_internal/2019/02/zugriff-auf-die-plattform-konkurado.html",
+  "date": "2019-02",
+  "title": "Zugriff Auf Die Plattform Konkurado",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Ab sofort erhalten Angehörige der ETH Zugriff auf externe Seite konkurado . konkurado ist eine unabhängige Informationsplattform für aktuelle, zukünftige und abgeschlossene Architektur- und Ingenieurwettbewerbe des öffentlichen und privaten Beschaffungswesens der Schweiz. Neben der Ausschreibung von Wettbewerben und Offerten dient konkurado auch als baukulturelles Archiv und dokumentiert über 2’000 Wettbewerbe und Verfahren, die bis ins Jahr 1937 zurückgehen. Das Archiv wird laufend ausgebaut.\n\nDer Zugriff auf aktuelle Ausschreibungen ist nur für Angehörige der ETH Zürich möglich und verlangt eine Registrierung nethz-Login (Shibboleth/SWITCHaai). Das Archiv ist offen zugänglich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/02/zugriff",
+        "label": "LOC",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "Konkurado",
+        "label": "LOC",
+        "start": 46,
+        "end": 55
+      },
+      {
+        "text": "ETH Zugriff",
+        "label": "ORG",
+        "start": 34,
+        "end": 45
+      },
+      {
+        "text": "konkurado",
+        "label": "MISC",
+        "start": 76,
+        "end": 85
+      },
+      {
+        "text": "Beschaffungswesens",
+        "label": "LOC",
+        "start": 241,
+        "end": 259
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 264,
+        "end": 271
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 567,
+        "end": 577
+      },
+      {
+        "text": "Shibboleth",
+        "label": "LOC",
+        "start": 631,
+        "end": 641
+      },
+      {
+        "text": "SWITCHaai",
+        "label": "MISC",
+        "start": 642,
+        "end": 651
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zugriff",
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "Beschaffungswesens",
+        "De Internal/2019/02/zugriff",
+        "Konkurado",
+        "Schweiz",
+        "Shibboleth"
+      ],
+      "DATE": [],
+      "MISC": [
+        "SWITCHaai",
+        "konkurado"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2019/02/zugriff": 1,
+      "Konkurado": 1,
+      "ETH Zugriff": 1,
+      "konkurado": 1,
+      "Beschaffungswesens": 1,
+      "Schweiz": 1,
+      "ETH Zürich": 1,
+      "Shibboleth": 1,
+      "SWITCHaai": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_02_zugriff-auf-die-plattform-konkurado.md",
+      "title": "De Internal/2019/02/zugriff auf die Plattform Konkurado",
+      "language": "de",
+      "source_path": "de_internal/2019/02/zugriff-auf-die-plattform-konkurado.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "1937",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "SWITCHaai",
+        "konkurado"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH Zugriff",
+        "De Internal",
+        "Das Archiv",
+        "Der Zugriff",
+        "Plattform Konkurado"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zugriff",
+        "ETH Zürich"
+      ],
+      "locations": [
+        "Beschaffungswesens",
+        "De Internal/2019/02/zugriff",
+        "Konkurado",
+        "Schweiz",
+        "Shibboleth"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2019/02/zugriff",
+        "Konkurado",
+        "ETH Zugriff",
+        "konkurado",
+        "Beschaffungswesens",
+        "Schweiz",
+        "ETH Zürich",
+        "Shibboleth",
+        "SWITCHaai"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 743
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "ETH Zugriff",
+        "1937",
+        "EU",
+        "ETH Zürich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "SWITCHaai",
+        "konkurado"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

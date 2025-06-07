@@ -1,0 +1,487 @@
+{
+  "filename": "nitrogen-build-up-in-the-oceans.md",
+  "original_filename": "nitrogen-build-up-in-the-oceans.html",
+  "source_path": "en_news_events/2014/11/nitrogen-build-up-in-the-oceans.html",
+  "date": "2014-11",
+  "title": "Nitrogen Build Up In The Oceans",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Transported thousands of kilometres",
+      "text": "When fossil fuels are burned at high temperatures, such as in coal and gas-fired power stations, nitrogen oxide and other reactive nitrogen compounds are formed and released into the atmosphere. Agricultural activities also have the same effect, when a part of the nitrogen found in fertiliser is lost into the atmosphere in the form of nitrogen oxide or ammonia. These emissions have risen dramatically in the past decades, particularly in East Asia where they have grown by 40 per cent in the past 10 years.\n\nScientists have long assumed that nitrogen emissions lead at most to regional problems, such as poor air quality, and have been less concerned about the global consequences. The reason is that rain is very effective at washing out most of the reactive nitrogen, typically returning it back to from where it was emitted."
+    },
+    {
+      "heading": "Transported thousands of kilometres",
+      "text": "An international research team with the participation of ETH Zurich now reveals a different picture. In a recently published study in the journal Science, the team reported an increase in the nitrate content – the most stable form of reactive nitrogen in the ocean – in the North Pacific. The team attributes this increase to anthropogenic nitrogen emissions in East Asia. “We have conclusively demonstrated in this study for the very first time that humans are directly intervening in the nitrogen cycle of the oceans and it is happening thousands of kilometres away from the source,” says Nicolas Gruber, professor of environmental physics at ETH Zurich and co-author of the study.\n\nAccording to the study, the increase of the nitrate concentration in the North Pacific is mostly attributable to combustion processes in East Asia and to a lesser extent from agricultural activities in that region. The prevailing westerly winds carry these substances across the Pacific, where the rain flushes them from the air into the sea."
+    },
+    {
+      "heading": "Literature reference",
+      "text": "Scientists on a research vessel taking water samples – here in the Atlantic Ocean. (Photo: Nicolas Gruber / ETH Zürich)\n\nThe researchers used nutrient data from the past 20 years from different ocean depths for the study. “The ocean mixes at a slow pace and the water in the deeper ocean is older than that on the surface,” explains Gruber. The result is that samples taken from the deeper ocean allow conclusions to be drawn about the past chemical composition of the ocean surface – up to 40 years back.\n\nUntil now, researchers had assumed that the man-induced increase in nitrogen build-up in the oceans via the atmosphere was too small to be detected, mainly because large amounts of nitrate are present in the ocean, especially at depth.\n\nA method developed by Gruber, which uses the ratio of nitrate to phosphate, enabled detection of the man-induced nitrogen build-up and the researchers could clearly identify the anthropogenic signal in the upper 500 metres of the ocean. The increase in the nitrate concentration, particularly in the vicinity of the surface, corresponds to almost a doubling of the local concentration. ETH doctoral student Simon Yang confirmed the detected nitrate increase by computer calculations using an Earth system model. The model calculations show a similar picture.\n\nThe researchers can only speculate about the consequences of such a build-up of reactive nitrogen in the ocean. “Since the biologically available nitrogen in the North Pacific is relatively scarce in comparison with other nutrients, the build-up of nitrate may fertilize the growth of algae,” says Gruber. It is also conceivable that certain types of bacterial species may become rarer as a result, namely those that focus on nitrogen fixation. These bacteria can transform molecular nitrogen into biologically available nitrogen compounds. But when such nitrogen compounds accumulate due to the addition from the atmosphere, these microorganisms lose their ecological niche and are outcompeted by other organisms.\n\nThe scientists plan to conduct a detailed investigation of the effects of nitrogen build-up in the ocean. This is particularly important as emissions are likely to continue increasing globally, causing a further increase in the atmospheric deposition of reactive nitrogen to the oceans.\n\nKim IN, Lee K, Gruber N, Karl DM, Bullister JL, Yang S, Kim TW: Increasing anthropogenic nitrogen in the North Pacific Ocean. Science, online publication 27 November 2014, doi: 10.1126/science.1258396"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Oceans",
+        "label": "NORP",
+        "start": 48,
+        "end": 54
+      },
+      {
+        "text": "the past decades",
+        "label": "DATE",
+        "start": 407,
+        "end": 423
+      },
+      {
+        "text": "East Asia",
+        "label": "LOC",
+        "start": 441,
+        "end": 450
+      },
+      {
+        "text": "40 per cent",
+        "label": "MONEY",
+        "start": 476,
+        "end": 487
+      },
+      {
+        "text": "the past 10 years",
+        "label": "DATE",
+        "start": 491,
+        "end": 508
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 57,
+        "end": 67
+      },
+      {
+        "text": "Science",
+        "label": "WORK_OF_ART",
+        "start": 146,
+        "end": 153
+      },
+      {
+        "text": "the North Pacific",
+        "label": "LOC",
+        "start": 270,
+        "end": 287
+      },
+      {
+        "text": "East Asia",
+        "label": "LOC",
+        "start": 362,
+        "end": 371
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 435,
+        "end": 440
+      },
+      {
+        "text": "thousands of kilometres",
+        "label": "QUANTITY",
+        "start": 539,
+        "end": 562
+      },
+      {
+        "text": "Nicolas Gruber",
+        "label": "PERSON",
+        "start": 591,
+        "end": 605
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 645,
+        "end": 655
+      },
+      {
+        "text": "the North Pacific",
+        "label": "LOC",
+        "start": 753,
+        "end": 770
+      },
+      {
+        "text": "East Asia",
+        "label": "LOC",
+        "start": 821,
+        "end": 830
+      },
+      {
+        "text": "Pacific",
+        "label": "LOC",
+        "start": 963,
+        "end": 970
+      },
+      {
+        "text": "the Atlantic Ocean",
+        "label": "LOC",
+        "start": 63,
+        "end": 81
+      },
+      {
+        "text": "Nicolas Gruber",
+        "label": "PERSON",
+        "start": 91,
+        "end": 105
+      },
+      {
+        "text": "the past 20 years",
+        "label": "DATE",
+        "start": 160,
+        "end": 177
+      },
+      {
+        "text": "Gruber",
+        "label": "PERSON",
+        "start": 332,
+        "end": 338
+      },
+      {
+        "text": "40 years back",
+        "label": "DATE",
+        "start": 490,
+        "end": 503
+      },
+      {
+        "text": "Gruber",
+        "label": "PERSON",
+        "start": 763,
+        "end": 769
+      },
+      {
+        "text": "500 metres",
+        "label": "QUANTITY",
+        "start": 953,
+        "end": 963
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1127,
+        "end": 1130
+      },
+      {
+        "text": "Simon Yang",
+        "label": "PERSON",
+        "start": 1148,
+        "end": 1158
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1233,
+        "end": 1238
+      },
+      {
+        "text": "the North Pacific",
+        "label": "LOC",
+        "start": 1458,
+        "end": 1475
+      },
+      {
+        "text": "Gruber",
+        "label": "PERSON",
+        "start": 1598,
+        "end": 1604
+      },
+      {
+        "text": "Kim IN",
+        "label": "PERSON",
+        "start": 2302,
+        "end": 2308
+      },
+      {
+        "text": "Lee K",
+        "label": "PERSON",
+        "start": 2310,
+        "end": 2315
+      },
+      {
+        "text": "Karl DM",
+        "label": "PERSON",
+        "start": 2327,
+        "end": 2334
+      },
+      {
+        "text": "Bullister JL",
+        "label": "PERSON",
+        "start": 2336,
+        "end": 2348
+      },
+      {
+        "text": "Yang S",
+        "label": "PERSON",
+        "start": 2350,
+        "end": 2356
+      },
+      {
+        "text": "Kim TW",
+        "label": "PERSON",
+        "start": 2358,
+        "end": 2364
+      },
+      {
+        "text": "the North Pacific Ocean",
+        "label": "LOC",
+        "start": 2403,
+        "end": 2426
+      },
+      {
+        "text": "November 2014",
+        "label": "DATE",
+        "start": 2459,
+        "end": 2472
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 2479,
+        "end": 2486
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bullister JL",
+        "Gruber",
+        "Karl DM",
+        "Kim IN",
+        "Kim TW",
+        "Lee K",
+        "Nicolas Gruber",
+        "Simon Yang",
+        "Yang S"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich"
+      ],
+      "LOCATION": [
+        "Earth",
+        "East Asia",
+        "Pacific",
+        "the Atlantic Ocean",
+        "the North Pacific",
+        "the North Pacific Ocean"
+      ],
+      "DATE": [
+        "40 years back",
+        "November 2014",
+        "the past 10 years",
+        "the past 20 years",
+        "the past decades"
+      ],
+      "MISC": [
+        "10.1126",
+        "40 per cent",
+        "500 metres",
+        "Oceans",
+        "Science",
+        "first",
+        "thousands of kilometres"
+      ]
+    },
+    "entity_counts": {
+      "East Asia": 3,
+      "the North Pacific": 3,
+      "Gruber": 3,
+      "ETH Zurich": 2,
+      "Nicolas Gruber": 2,
+      "Oceans": 1,
+      "the past decades": 1,
+      "40 per cent": 1,
+      "the past 10 years": 1,
+      "Science": 1,
+      "first": 1,
+      "thousands of kilometres": 1,
+      "Pacific": 1,
+      "the Atlantic Ocean": 1,
+      "the past 20 years": 1,
+      "40 years back": 1,
+      "500 metres": 1,
+      "ETH": 1,
+      "Simon Yang": 1,
+      "Earth": 1
+    },
+    "total_entities": 37,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "nitrogen-build-up-in-the-oceans.md",
+      "title": "En News Events/2014/11/nitrogen Build Up in The Oceans",
+      "language": "en",
+      "source_path": "en_news_events/2014/11/nitrogen-build-up-in-the-oceans.html"
+    },
+    "temporal": {
+      "publication_date": "2014-11",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bullister JL",
+        "Gruber",
+        "Karl DM",
+        "Kim IN",
+        "Kim TW",
+        "Lee K",
+        "Nicolas Gruber",
+        "Simon Yang",
+        "Yang S"
+      ],
+      "people_with_roles": {
+        "Gruber": [
+          "researcher",
+          "professor"
+        ],
+        "Nicolas Gruber": [
+          "researcher",
+          "professor"
+        ],
+        "Simon Yang": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1126",
+        "40 per cent",
+        "500 metres",
+        "Oceans",
+        "Science",
+        "first",
+        "thousands of kilometres"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Oceans",
+        "East Asia",
+        "En News",
+        "Kim IN",
+        "Karl DM",
+        "Yang S",
+        "Kim TW",
+        "Lee K",
+        "Bullister JL",
+        "Atlantic Ocean",
+        "Gruber N",
+        "Build Up",
+        "Nicolas Gruber",
+        "ETH Zurich",
+        "Simon Yang",
+        "North Pacific"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich"
+      ],
+      "locations": [
+        "Earth",
+        "East Asia",
+        "Pacific",
+        "the Atlantic Ocean",
+        "the North Pacific",
+        "the North Pacific Ocean"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "East Asia",
+        "the North Pacific",
+        "Gruber",
+        "ETH Zurich",
+        "Nicolas Gruber",
+        "Oceans",
+        "the past decades",
+        "40 per cent",
+        "the past 10 years",
+        "Science"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Transported thousands of kilometres",
+          "Transported thousands of kilometres",
+          "Literature reference"
+        ],
+        "content_length": 4422
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Kim IN",
+        "Kim TW",
+        "Karl DM",
+        "Yang S",
+        "Lee K",
+        "Bullister JL",
+        "Gruber",
+        "Nicolas Gruber",
+        "ETH Zurich",
+        "Simon Yang",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "why",
+        "who",
+        "Oceans",
+        "Science",
+        "chemistry",
+        "10.1126",
+        "thousands of kilometres",
+        "biology",
+        "what",
+        "how",
+        "40 per cent",
+        "when",
+        "where",
+        "500 metres"
+      ],
+      "graph_relations": [
+        "Gruber_has_role_researcher",
+        "Gruber_has_role_professor",
+        "Nicolas Gruber_has_role_researcher",
+        "Nicolas Gruber_has_role_professor",
+        "Simon Yang_has_role_student",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

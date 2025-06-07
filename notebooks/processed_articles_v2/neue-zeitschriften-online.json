@@ -1,0 +1,152 @@
+{
+  "filename": "neue-zeitschriften-online.md",
+  "original_filename": "neue-zeitschriften-online.html",
+  "source_path": "en_internal/2020/05/neue-zeitschriften-online.html",
+  "date": "2020-05",
+  "title": "Neue Zeitschriften Online",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Access is possible online in the ETH Zurich network or, from 8 June 2020, again on the premises of ETH Library.\n\n#KnowMore – The prepared content issued by ETH Library is at your free disposal and gives you a head start.\n\n#ETHLibraryDigital – ETH Library is there for you digitally with various resources and services , not only during the COVID-19 protective measures."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "8 June 2020",
+        "label": "DATE",
+        "start": 61,
+        "end": 72
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 99,
+        "end": 110
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 154,
+        "end": 165
+      },
+      {
+        "text": "ETH Library",
+        "label": "PERSON",
+        "start": 239,
+        "end": 250
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 336,
+        "end": 344
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library"
+      ],
+      "ORG": [
+        "COVID-19",
+        "ETH Library"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "8 June 2020"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Library": 3,
+      "8 June 2020": 1,
+      "COVID-19": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neue-zeitschriften-online.md",
+      "title": "En Internal/2020/05/neue Zeitschriften Online",
+      "language": "en",
+      "source_path": "en_internal/2020/05/neue-zeitschriften-online.html"
+    },
+    "temporal": {
+      "publication_date": "2020-05",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library"
+      ],
+      "people_with_roles": {
+        "ETH Library": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Zeitschriften Online",
+        "ETH Zurich",
+        "ETH Library",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "ETH Library"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Library",
+        "8 June 2020",
+        "COVID-19"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 415
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "COVID-19",
+        "ETH Library",
+        "2020",
+        "EU"
+      ],
+      "semantic_concepts": [
+        "technology"
+      ],
+      "graph_relations": [
+        "ETH Library_has_role_head",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

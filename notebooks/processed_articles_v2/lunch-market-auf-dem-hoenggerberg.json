@@ -1,0 +1,184 @@
+{
+  "filename": "lunch-market-auf-dem-hoenggerberg.md",
+  "original_filename": "lunch-market-auf-dem-hoenggerberg.html",
+  "source_path": "de_internal/2015/04/lunch-market-auf-dem-hoenggerberg.html",
+  "date": "2015-04",
+  "title": "Lunch Market Auf Dem Hoenggerberg",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Food Trucks, Marktstände und mobile Verpflegungsstände bieten auf dem Campus Hönggerberg diesen Frühling wieder salzige und süsse Köstlichkeiten an. Die Auswahl reicht von Suppen und Salaten über Grill-, Asiatischen Spezialitäten und Pizzas bis zu Süssigkeiten aller Art.\n\nDer Lunch Market findet an folgenden Donnerstagen jeweils von 11 bis 15 Uhr statt:\n\nHier finden Sie die Liste der Anbieter ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/04/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Hoenggerberg",
+        "label": "LOC",
+        "start": 41,
+        "end": 53
+      },
+      {
+        "text": "Food Trucks",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 77,
+        "end": 88
+      },
+      {
+        "text": "Asiatischen Spezialitäten",
+        "label": "ORG",
+        "start": 204,
+        "end": 229
+      },
+      {
+        "text": "Pizzas",
+        "label": "LOC",
+        "start": 234,
+        "end": 240
+      },
+      {
+        "text": "Süssigkeiten",
+        "label": "LOC",
+        "start": 248,
+        "end": 260
+      },
+      {
+        "text": "Lunch Market",
+        "label": "LOC",
+        "start": 276,
+        "end": 288
+      },
+      {
+        "text": "Donnerstagen",
+        "label": "LOC",
+        "start": 309,
+        "end": 321
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Food Trucks"
+      ],
+      "ORG": [
+        "Asiatischen Spezialitäten"
+      ],
+      "LOCATION": [
+        "De Internal/2015/04/",
+        "Donnerstagen",
+        "Hoenggerberg",
+        "Hönggerberg",
+        "Lunch Market",
+        "Pizzas",
+        "Süssigkeiten"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2015/04/": 1,
+      "Hoenggerberg": 1,
+      "Food Trucks": 1,
+      "Hönggerberg": 1,
+      "Asiatischen Spezialitäten": 1,
+      "Pizzas": 1,
+      "Süssigkeiten": 1,
+      "Lunch Market": 1,
+      "Donnerstagen": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "lunch-market-auf-dem-hoenggerberg.md",
+      "title": "De Internal/2015/04/lunch Market auf dem Hoenggerberg",
+      "language": "de",
+      "source_path": "de_internal/2015/04/lunch-market-auf-dem-hoenggerberg.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Food Trucks"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Die Auswahl",
+        "De Internal",
+        "Der Lunch",
+        "Hoenggerberg Food"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Asiatischen Spezialitäten"
+      ],
+      "locations": [
+        "De Internal/2015/04/",
+        "Donnerstagen",
+        "Hoenggerberg",
+        "Hönggerberg",
+        "Lunch Market",
+        "Pizzas",
+        "Süssigkeiten"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2015/04/",
+        "Hoenggerberg",
+        "Food Trucks",
+        "Hönggerberg",
+        "Asiatischen Spezialitäten",
+        "Pizzas",
+        "Süssigkeiten",
+        "Lunch Market",
+        "Donnerstagen"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 451
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Food Trucks",
+        "2015",
+        "Asiatischen Spezialitäten"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

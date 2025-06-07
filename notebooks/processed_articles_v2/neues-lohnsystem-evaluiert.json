@@ -1,0 +1,231 @@
+{
+  "filename": "neues-lohnsystem-evaluiert.md",
+  "original_filename": "neues-lohnsystem-evaluiert.html",
+  "source_path": "de_internal/2016/03/neues-lohnsystem-evaluiert.html",
+  "date": "2016-03",
+  "title": "Neues Lohnsystem Evaluiert",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Saläre des nicht-akademischen Personals und der Senior Scientists mit Festanstellung im ETH-Bereich richten sich seit dem 1. Januar 2006 nach dem Neuen Lohnsystem (NLS). Im NLS werden die Mitarbeitenden einer Funktionsstufe zugeordnet. Im Rahmen der verfügbaren Mittel beruht ihre individuelle Lohnentwicklung auf der Erfahrung sowie auf der Bewertung ihrer Leistung durch die oder den Vorgesetzten.\n\nGemäss der extern durchgeführten Evaluation ist das NLS grundsätzlich ein taugliches Instrument, um die Löhne gemäss Funktion festzulegen und aufgrund der Leistung und Erfahrung zu steuern. Das Lohnsystem soll beibehalten werden. Zu diesem Schluss kommt der ETH-Rat trotz erheblicher Kritik an der Evaluation seitens Hochschulversammlungen, Personalkommissionen und -verbänden (vgl. Stellungnahme der Hochschulversammlung der ETH Zürich ).\n\nBesonders positiv hervorzuheben ist, dass es im ETH-Bereich keine Lohnunterschiede zwischen Männern und Frauen gibt. An den Institutionen liegt es nun, das System nach ihren jeweiligen Gegebenheiten und Bedürfnissen weiterzuentwickeln."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/03/neues",
+        "label": "LOC",
+        "start": 0,
+        "end": 25
+      },
+      {
+        "text": "Evaluiert",
+        "label": "PER",
+        "start": 37,
+        "end": 46
+      },
+      {
+        "text": "ETH-Bereich",
+        "label": "ORG",
+        "start": 92,
+        "end": 103
+      },
+      {
+        "text": "Neuen Lohnsystem",
+        "label": "ORG",
+        "start": 150,
+        "end": 166
+      },
+      {
+        "text": "NLS",
+        "label": "ORG",
+        "start": 168,
+        "end": 171
+      },
+      {
+        "text": "NLS",
+        "label": "ORG",
+        "start": 177,
+        "end": 180
+      },
+      {
+        "text": "NLS",
+        "label": "ORG",
+        "start": 456,
+        "end": 459
+      },
+      {
+        "text": "ETH-Rat",
+        "label": "MISC",
+        "start": 662,
+        "end": 669
+      },
+      {
+        "text": "Hochschulversammlungen",
+        "label": "LOC",
+        "start": 721,
+        "end": 743
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 830,
+        "end": 840
+      },
+      {
+        "text": "ETH-Bereich",
+        "label": "ORG",
+        "start": 892,
+        "end": 903
+      },
+      {
+        "text": "Institutionen",
+        "label": "MISC",
+        "start": 968,
+        "end": 981
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Evaluiert"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Bereich",
+        "NLS",
+        "Neuen Lohnsystem"
+      ],
+      "LOCATION": [
+        "De Internal/2016/03/neues",
+        "Hochschulversammlungen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Rat",
+        "Institutionen"
+      ]
+    },
+    "entity_counts": {
+      "NLS": 3,
+      "ETH-Bereich": 2,
+      "De Internal/2016/03/neues": 1,
+      "Evaluiert": 1,
+      "Neuen Lohnsystem": 1,
+      "ETH-Rat": 1,
+      "Hochschulversammlungen": 1,
+      "ETH Zürich": 1,
+      "Institutionen": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neues-lohnsystem-evaluiert.md",
+      "title": "De Internal/2016/03/neues Lohnsystem Evaluiert",
+      "language": "de",
+      "source_path": "de_internal/2016/03/neues-lohnsystem-evaluiert.html"
+    },
+    "temporal": {
+      "publication_date": "2016-03",
+      "mentioned_years": [
+        "2006",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Evaluiert"
+      ],
+      "people_with_roles": {
+        "Evaluiert": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Rat",
+        "Institutionen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Im NLS",
+        "ETH-Bereich",
+        "De Internal",
+        "ETH-Rat",
+        "Lohnsystem Evaluiert",
+        "Senior Scientists",
+        "Im Rahmen",
+        "Das Lohnsystem",
+        "Neuen Lohnsystem"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Bereich",
+        "NLS",
+        "Neuen Lohnsystem"
+      ],
+      "locations": [
+        "De Internal/2016/03/neues",
+        "Hochschulversammlungen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "NLS",
+        "ETH-Bereich",
+        "De Internal/2016/03/neues",
+        "Evaluiert",
+        "Neuen Lohnsystem",
+        "ETH-Rat",
+        "Hochschulversammlungen",
+        "ETH Zürich",
+        "Institutionen"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1128
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "NLS",
+        "ETH-Bereich",
+        "EU",
+        "2016",
+        "ETH Zürich",
+        "Evaluiert",
+        "2006",
+        "Neuen Lohnsystem"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Institutionen",
+        "ETH-Rat"
+      ],
+      "graph_relations": [
+        "Evaluiert_has_role_scientist"
+      ]
+    }
+  }
+}

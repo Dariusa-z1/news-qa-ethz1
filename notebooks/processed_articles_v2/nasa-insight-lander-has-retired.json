@@ -1,0 +1,619 @@
+{
+  "filename": "nasa-insight-lander-has-retired.md",
+  "original_filename": "nasa-insight-lander-has-retired.html",
+  "source_path": "en_news_events/2022/12/nasa-insight-lander-has-retired.html",
+  "date": "2022-12",
+  "title": "Nasa Insight Lander Has Retired",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "\"A lifetime adventure\"",
+      "text": "NASA’s InSight mission has ended after four years of collecting unique science on Mars. Mission controllers at the agency’s Jet Propulsion Laboratory in Southern California were unable to contact the lander after two consecutive attempts, leading them to conclude that the spacecraft’s solar-powered batteries have run out of energy – a state engineers refer to as “dead bus.”\n\nNASA had previously decided to declare the mission over if the lander misses two communication attempts. The agency will continue to listen for a signal from the lander, just in case, but hearing from it at this point is considered unlikely. The last time InSight communicated with Earth was December 15.\n\n“I watched the launch and landing of this mission, and while saying goodbye to a spacecraft is always sad, the fascinating science InSight conducted is cause for celebration,” said Thomas Zurbuchen, associate administrator of NASA’s Science Mission Directorate in Washington. “The seismic data alone from this Discovery Program mission offers tremendous insights not just into Mars but other rocky bodies, including Earth.”\n\nShort for Interior Exploration using Seismic Investigations, Geodesy and Heat Transport, InSight set out to study the deep interior of Mars. The lander data has yielded details about Mars’ interior layers, the surprisingly variable remnants of its mostly extinct magnetic field beneath the surface, weather on this part of Mars, and lots of quake activity.\n\n“It has been a lifetime adventure for our Swiss team, initiated already in 1997,” says Prof. Domenico Giardini, head of the Mars team at ETH Zurich. “We contributed to InSight the seismometer electronics, project management, the design and daily operation of the Marsquake Service and we finally had the chance for amazing research, we have been very lucky in our life as scientific researchers to be able to participate in a successful planetary exploration mission.”\n\nThe highly sensitive seismometer detected 1,318 marsquakes, including quakes caused by meteoroid impacts; the largest unearthed boulder-size chunks of ice late last year.\n\nSuch impacts help scientists determine the age of the planet’s surface, and data from the seismometer provides scientists a way to study the planet’s crust, mantle, and core.\n\n“This was the first mission to explore the deep interior of another planet. We now know for example that the core is too big for our classical models, which changes the way we think about the terrestrial planets in our solar system and elsewhere in the universe”, says Simon Staehler, a Senior Scientist working in the Seismology and Geodynamics group led by Domenico Giardini at the Institute of Geophysics, ETH Zurich.\n\nThe seismometer was the last science instrument that remained on as dust accumulating on the lander’s solar panels gradually reduced its energy, a process that had begun before NASA extended the mission earlier this year.\n\n“Insight has been such a huge part of our lives for the past four years” said John Clinton, Director of Seismic Networks at the Swiss Seismological Service, ETH Zurich, and head of Insight’s Marsquake Service. “Although the daily review of new data from Mars has now sadly come to an end, analysis of this amazing dataset will continue for years - we still have many outstanding puzzles to solve, and doubtless there are new discoveries to make.”"
+    },
+    {
+      "heading": "Insight-Mission",
+      "text": "This article is based on a NASA press release dated December 22, 2022."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News Events/2022/12/",
+        "label": "ORG",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "nasa",
+        "label": "PERSON",
+        "start": 23,
+        "end": 27
+      },
+      {
+        "text": "Lander Has Retired",
+        "label": "PERSON",
+        "start": 36,
+        "end": 54
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "four years",
+        "label": "DATE",
+        "start": 39,
+        "end": 49
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 82,
+        "end": 86
+      },
+      {
+        "text": "Jet Propulsion Laboratory",
+        "label": "ORG",
+        "start": 124,
+        "end": 149
+      },
+      {
+        "text": "Southern California",
+        "label": "LOC",
+        "start": 153,
+        "end": 172
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 213,
+        "end": 216
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 377,
+        "end": 381
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 454,
+        "end": 457
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 633,
+        "end": 640
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 659,
+        "end": 664
+      },
+      {
+        "text": "December 15",
+        "label": "DATE",
+        "start": 669,
+        "end": 680
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 813,
+        "end": 820
+      },
+      {
+        "text": "Thomas Zurbuchen",
+        "label": "PERSON",
+        "start": 863,
+        "end": 879
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 908,
+        "end": 912
+      },
+      {
+        "text": "Washington",
+        "label": "GPE",
+        "start": 946,
+        "end": 956
+      },
+      {
+        "text": "Discovery",
+        "label": "PRODUCT",
+        "start": 992,
+        "end": 1001
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1059,
+        "end": 1063
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1098,
+        "end": 1103
+      },
+      {
+        "text": "Geodesy",
+        "label": "PERSON",
+        "start": 1167,
+        "end": 1174
+      },
+      {
+        "text": "Heat Transport",
+        "label": "ORG",
+        "start": 1179,
+        "end": 1193
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 1195,
+        "end": 1202
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1241,
+        "end": 1245
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1289,
+        "end": 1293
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1429,
+        "end": 1433
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1505,
+        "end": 1510
+      },
+      {
+        "text": "Domenico Giardini",
+        "label": "PERSON",
+        "start": 1556,
+        "end": 1573
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1587,
+        "end": 1591
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1600,
+        "end": 1610
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 1631,
+        "end": 1638
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 1703,
+        "end": 1708
+      },
+      {
+        "text": "the Marsquake Service",
+        "label": "ORG",
+        "start": 1722,
+        "end": 1743
+      },
+      {
+        "text": "1,318",
+        "label": "CARDINAL",
+        "start": 1974,
+        "end": 1979
+      },
+      {
+        "text": "late last year",
+        "label": "DATE",
+        "start": 2087,
+        "end": 2101
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2292,
+        "end": 2297
+      },
+      {
+        "text": "Simon Staehler",
+        "label": "PERSON",
+        "start": 2547,
+        "end": 2561
+      },
+      {
+        "text": "Domenico Giardini",
+        "label": "PERSON",
+        "start": 2637,
+        "end": 2654
+      },
+      {
+        "text": "the Institute of Geophysics",
+        "label": "ORG",
+        "start": 2658,
+        "end": 2685
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 2687,
+        "end": 2697
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 2876,
+        "end": 2880
+      },
+      {
+        "text": "earlier this year",
+        "label": "DATE",
+        "start": 2902,
+        "end": 2919
+      },
+      {
+        "text": "the past four years",
+        "label": "DATE",
+        "start": 2973,
+        "end": 2992
+      },
+      {
+        "text": "John Clinton",
+        "label": "PERSON",
+        "start": 2999,
+        "end": 3011
+      },
+      {
+        "text": "Seismic Networks",
+        "label": "ORG",
+        "start": 3025,
+        "end": 3041
+      },
+      {
+        "text": "the Swiss Seismological Service",
+        "label": "ORG",
+        "start": 3045,
+        "end": 3076
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 3078,
+        "end": 3088
+      },
+      {
+        "text": "Insight’s Marsquake Service",
+        "label": "ORG",
+        "start": 3102,
+        "end": 3129
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 3175,
+        "end": 3179
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 3261,
+        "end": 3266
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 27,
+        "end": 31
+      },
+      {
+        "text": "December 22, 2022",
+        "label": "DATE",
+        "start": 52,
+        "end": 69
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Domenico Giardini",
+        "ETH Zurich",
+        "Geodesy",
+        "John Clinton",
+        "Lander Has Retired",
+        "Simon Staehler",
+        "Thomas Zurbuchen",
+        "nasa"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "En News Events/2022/12/",
+        "Heat Transport",
+        "InSight",
+        "Insight’s Marsquake Service",
+        "Jet Propulsion Laboratory",
+        "NASA",
+        "Seismic Networks",
+        "the Institute of Geophysics",
+        "the Marsquake Service",
+        "the Swiss Seismological Service"
+      ],
+      "LOCATION": [
+        "Earth",
+        "Mars",
+        "Southern California",
+        "Washington"
+      ],
+      "DATE": [
+        "December 15",
+        "December 22, 2022",
+        "daily",
+        "earlier this year",
+        "four years",
+        "late last year",
+        "the past four years",
+        "years"
+      ],
+      "MISC": [
+        "1,318",
+        "Discovery",
+        "Swiss",
+        "first",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Mars": 7,
+      "NASA": 5,
+      "InSight": 4,
+      "ETH Zurich": 3,
+      "two": 2,
+      "Earth": 2,
+      "Domenico Giardini": 2,
+      "En News Events/2022/12/": 1,
+      "nasa": 1,
+      "Lander Has Retired": 1,
+      "four years": 1,
+      "Jet Propulsion Laboratory": 1,
+      "Southern California": 1,
+      "December 15": 1,
+      "Thomas Zurbuchen": 1,
+      "Washington": 1,
+      "Discovery": 1,
+      "Geodesy": 1,
+      "Heat Transport": 1,
+      "Swiss": 1
+    },
+    "total_entities": 53,
+    "unique_entities": 35
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "nasa-insight-lander-has-retired.md",
+      "title": "En News Events/2022/12/nasa Insight Lander Has Retired",
+      "language": "en",
+      "source_path": "en_news_events/2022/12/nasa-insight-lander-has-retired.html"
+    },
+    "temporal": {
+      "publication_date": "2022-12",
+      "mentioned_years": [
+        "1997",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Domenico Giardini",
+        "ETH Zurich",
+        "Geodesy",
+        "John Clinton",
+        "Lander Has Retired",
+        "Simon Staehler",
+        "Thomas Zurbuchen",
+        "nasa"
+      ],
+      "people_with_roles": {
+        "Domenico Giardini": [
+          "scientist",
+          "head"
+        ],
+        "ETH Zurich": [
+          "director",
+          "scientist",
+          "head",
+          "rector"
+        ],
+        "John Clinton": [
+          "director",
+          "head",
+          "rector"
+        ],
+        "Simon Staehler": [
+          "scientist"
+        ],
+        "Thomas Zurbuchen": [
+          "director",
+          "rector"
+        ],
+        "nasa": [
+          "director",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "director",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "1,318",
+        "Discovery",
+        "Swiss",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Has Retired",
+        "Science Mission",
+        "Interior Exploration",
+        "Marsquake Service",
+        "John Clinton",
+        "Seismic Networks",
+        "Domenico Giardini",
+        "Senior Scientist",
+        "Thomas Zurbuchen",
+        "Heat Transport",
+        "Southern California",
+        "Seismic Investigations",
+        "Discovery Program",
+        "En News",
+        "Swiss Seismological",
+        "Jet Propulsion",
+        "Simon Staehler",
+        "ETH Zurich",
+        "Insight Lander"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "En News Events/2022/12/",
+        "Heat Transport",
+        "InSight",
+        "Insight’s Marsquake Service",
+        "Jet Propulsion Laboratory",
+        "NASA",
+        "Seismic Networks",
+        "the Institute of Geophysics",
+        "the Marsquake Service",
+        "the Swiss Seismological Service"
+      ],
+      "locations": [
+        "Earth",
+        "Mars",
+        "Southern California",
+        "Washington"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Mars",
+        "NASA",
+        "InSight",
+        "ETH Zurich",
+        "two",
+        "Earth",
+        "Domenico Giardini",
+        "En News Events/2022/12/",
+        "nasa",
+        "Lander Has Retired"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "\"A lifetime adventure\"",
+          "Insight-Mission"
+        ],
+        "content_length": 3502
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Institute of Geophysics",
+        "InSight",
+        "Insight’s Marsquake Service",
+        "John Clinton",
+        "Lander Has Retired",
+        "Geodesy",
+        "Seismic Networks",
+        "2022",
+        "Domenico Giardini",
+        "NASA",
+        "Thomas Zurbuchen",
+        "Jet Propulsion Laboratory",
+        "the Marsquake Service",
+        "Heat Transport",
+        "1997",
+        "nasa",
+        "the Swiss Seismological Service",
+        "En News Events/2022/12/",
+        "Simon Staehler",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "Discovery",
+        "who",
+        "1,318",
+        "Swiss",
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Domenico Giardini_has_role_scientist",
+        "Domenico Giardini_has_role_head",
+        "ETH Zurich_has_role_director",
+        "ETH Zurich_has_role_scientist",
+        "ETH Zurich_has_role_head",
+        "ETH Zurich_has_role_rector",
+        "John Clinton_has_role_director",
+        "John Clinton_has_role_head",
+        "John Clinton_has_role_rector",
+        "Simon Staehler_has_role_scientist",
+        "Thomas Zurbuchen_has_role_director",
+        "Thomas Zurbuchen_has_role_rector",
+        "nasa_has_role_director",
+        "nasa_has_role_rector",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

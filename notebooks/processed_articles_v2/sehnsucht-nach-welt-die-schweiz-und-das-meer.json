@@ -1,0 +1,198 @@
+{
+  "filename": "sehnsucht-nach-welt-die-schweiz-und-das-meer.md",
+  "original_filename": "sehnsucht-nach-welt-die-schweiz-und-das-meer.html",
+  "source_path": "en_internal/2019/10/sehnsucht-nach-welt-die-schweiz-und-das-meer.html",
+  "date": "2019-10",
+  "title": "Sehnsucht Nach Welt Die Schweiz Und Das Meer",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "They stimulated tourism and incited engineers to develop visionary ideas. For example, the \"Transhelvetian Canal\" should make the Swiss waterways navigable even across the Alps and connect them with the sea.\n\nOr let us recall Max Frisch’s deep love of the sea, and its influence on his works. Explore the Swiss yearning for the sea in the new Explora story.\n\nExplora is ETH Library’s multimedia storytelling platform."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Schweiz",
+        "label": "PERSON",
+        "start": 44,
+        "end": 51
+      },
+      {
+        "text": "das Meer",
+        "label": "ORG",
+        "start": 56,
+        "end": 64
+      },
+      {
+        "text": "the \"Transhelvetian Canal",
+        "label": "ORG",
+        "start": 87,
+        "end": 112
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 130,
+        "end": 135
+      },
+      {
+        "text": "Alps",
+        "label": "LOC",
+        "start": 172,
+        "end": 176
+      },
+      {
+        "text": "Max Frisch’s",
+        "label": "PERSON",
+        "start": 225,
+        "end": 237
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 304,
+        "end": 309
+      },
+      {
+        "text": "Explora",
+        "label": "PERSON",
+        "start": 342,
+        "end": 349
+      },
+      {
+        "text": "Explora",
+        "label": "PERSON",
+        "start": 357,
+        "end": 364
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 368,
+        "end": 381
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library’s",
+        "Explora",
+        "Max Frisch’s",
+        "Schweiz"
+      ],
+      "ORG": [
+        "das Meer",
+        "the \"Transhelvetian Canal"
+      ],
+      "LOCATION": [
+        "Alps"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Swiss"
+      ]
+    },
+    "entity_counts": {
+      "Swiss": 2,
+      "Explora": 2,
+      "Schweiz": 1,
+      "das Meer": 1,
+      "the \"Transhelvetian Canal": 1,
+      "Alps": 1,
+      "Max Frisch’s": 1,
+      "ETH Library’s": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "sehnsucht-nach-welt-die-schweiz-und-das-meer.md",
+      "title": "En Internal/2019/10/sehnsucht nach Welt die Schweiz und das Meer",
+      "language": "en",
+      "source_path": "en_internal/2019/10/sehnsucht-nach-welt-die-schweiz-und-das-meer.html"
+    },
+    "temporal": {
+      "publication_date": "2019-10",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library’s",
+        "Explora",
+        "Max Frisch’s",
+        "Schweiz"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Swiss"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Library",
+        "Transhelvetian Canal",
+        "En Internal",
+        "Meer They",
+        "Max Frisch"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "das Meer",
+        "the \"Transhelvetian Canal"
+      ],
+      "locations": [
+        "Alps"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Swiss",
+        "Explora",
+        "Schweiz",
+        "das Meer",
+        "the \"Transhelvetian Canal",
+        "Alps",
+        "Max Frisch’s",
+        "ETH Library’s"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 482
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Schweiz",
+        "2019",
+        "Max Frisch’s",
+        "das Meer",
+        "Explora",
+        "the \"Transhelvetian Canal",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "when",
+        "Swiss"
+      ],
+      "graph_relations": []
+    }
+  }
+}

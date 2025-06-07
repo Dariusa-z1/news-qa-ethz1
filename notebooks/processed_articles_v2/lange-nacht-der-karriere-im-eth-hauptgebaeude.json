@@ -1,0 +1,213 @@
+{
+  "filename": "lange-nacht-der-karriere-im-eth-hauptgebaeude.md",
+  "original_filename": "lange-nacht-der-karriere-im-eth-hauptgebaeude.html",
+  "source_path": "de_internal/2015/11/lange-nacht-der-karriere-im-eth-hauptgebaeude.html",
+  "date": "2015-11",
+  "title": "Lange Nacht Der Karriere Im Eth Hauptgebaeude",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Lange Nacht der Karriere (LNdK) wird am Donnerstag, 12. November 2015, zum zweiten Mal an der ETH Zürich stattfinden. Sie ist für Studierende, Doktorierende, Post-Doktorierende sowie Alumni und findet im ETH-Hauptgebäude statt. Sie dient als Plattform, um ehemalige Studierende der ETH Zürich, Vertreterinnen und Vertreter aus Unternehmen und Gleichgesinnte kennenzulernen.\n\nSchweizweit beteiligen sich zwölf Universitäten und Bildungsinstitutionen an der Langen Nacht der Karriere.\n\nWeitere Informationen unter www.ethz.ch/lndk ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/11/lange Nacht",
+        "label": "LOC",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "Im Eth Hauptgebaeude",
+        "label": "MISC",
+        "start": 45,
+        "end": 65
+      },
+      {
+        "text": "Lange Nacht der Karriere",
+        "label": "MISC",
+        "start": 4,
+        "end": 28
+      },
+      {
+        "text": "LNdK",
+        "label": "ORG",
+        "start": 30,
+        "end": 34
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 98,
+        "end": 108
+      },
+      {
+        "text": "Doktorierende",
+        "label": "LOC",
+        "start": 147,
+        "end": 160
+      },
+      {
+        "text": "Post-Doktorierende",
+        "label": "LOC",
+        "start": 162,
+        "end": 180
+      },
+      {
+        "text": "Alumni",
+        "label": "LOC",
+        "start": 187,
+        "end": 193
+      },
+      {
+        "text": "ETH-Hauptgebäude",
+        "label": "MISC",
+        "start": 208,
+        "end": 224
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 286,
+        "end": 296
+      },
+      {
+        "text": "Langen Nacht",
+        "label": "MISC",
+        "start": 459,
+        "end": 471
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "LNdK"
+      ],
+      "LOCATION": [
+        "Alumni",
+        "De Internal/2015/11/lange Nacht",
+        "Doktorierende",
+        "Post-Doktorierende"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Hauptgebäude",
+        "Im Eth Hauptgebaeude",
+        "Lange Nacht der Karriere",
+        "Langen Nacht"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "De Internal/2015/11/lange Nacht": 1,
+      "Im Eth Hauptgebaeude": 1,
+      "Lange Nacht der Karriere": 1,
+      "LNdK": 1,
+      "Doktorierende": 1,
+      "Post-Doktorierende": 1,
+      "Alumni": 1,
+      "ETH-Hauptgebäude": 1,
+      "Langen Nacht": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "lange-nacht-der-karriere-im-eth-hauptgebaeude.md",
+      "title": "De Internal/2015/11/lange Nacht der Karriere Im Eth Hauptgebaeude",
+      "language": "de",
+      "source_path": "de_internal/2015/11/lange-nacht-der-karriere-im-eth-hauptgebaeude.html"
+    },
+    "temporal": {
+      "publication_date": "2015-11",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "alumni"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Hauptgebäude",
+        "Im Eth Hauptgebaeude",
+        "Lange Nacht der Karriere",
+        "Langen Nacht"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Karriere Im",
+        "De Internal",
+        "Die Lange",
+        "Langen Nacht",
+        "Eth Hauptgebaeude",
+        "Weitere Informationen",
+        "Post-Doktorierende"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "LNdK"
+      ],
+      "locations": [
+        "Alumni",
+        "De Internal/2015/11/lange Nacht",
+        "Doktorierende",
+        "Post-Doktorierende"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2015/11/lange Nacht",
+        "Im Eth Hauptgebaeude",
+        "Lange Nacht der Karriere",
+        "LNdK",
+        "Doktorierende",
+        "Post-Doktorierende",
+        "Alumni",
+        "ETH-Hauptgebäude",
+        "Langen Nacht"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 600
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "EU",
+        "2015",
+        "LNdK"
+      ],
+      "semantic_concepts": [
+        "ETH-Hauptgebäude",
+        "Langen Nacht",
+        "Im Eth Hauptgebaeude",
+        "Lange Nacht der Karriere"
+      ],
+      "graph_relations": []
+    }
+  }
+}

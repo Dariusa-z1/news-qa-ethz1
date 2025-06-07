@@ -1,0 +1,174 @@
+{
+  "filename": "nationaler-zukunftstag-2015-an-der-eth-zuerich.md",
+  "original_filename": "nationaler-zukunftstag-2015-an-der-eth-zuerich.html",
+  "source_path": "de_internal/2015/10/nationaler-zukunftstag-2015-an-der-eth-zuerich.html",
+  "date": "2015-10",
+  "title": "Nationaler Zukunftstag 2015 An Der Eth Zuerich",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "«Seitenwechsel» heisst, Vorurteile zu Geschlechterrollen in diversen Arbeitsbereichen abzubauen, indem Frauen oder Männer mit geschlechtsuntypischen Berufen den Kindern ihre Freude für die Arbeit vorleben. Am Nationalen Zukunftstag möchte die ETH Zürich der nächsten Generation bisher weniger beachtete Disziplinen oder auch Wissenschaftsfelder vorstellen, um den Nachwuchs von der Welt der Wissenschaft zu begeistern.\n\nEs stehen in diesem Jahr 20 verschiedene Programme für insgesamt über 250 Kinder zur Auswahl, die spannende Einblicke in die tägliche Arbeit und Forschung der ETH Mitarbeitenden bieten. Kinder der Klassenstufen 5-7 sind eingeladen, an diesen Programmen teilzunehmen.\n\nDie Anmeldung findet über folgende ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/10/nationaler Zukunftstag 2015",
+        "label": "LOC",
+        "start": 0,
+        "end": 47
+      },
+      {
+        "text": "Eth Zuerich",
+        "label": "LOC",
+        "start": 55,
+        "end": 66
+      },
+      {
+        "text": "Geschlechterrollen",
+        "label": "LOC",
+        "start": 38,
+        "end": 56
+      },
+      {
+        "text": "Nationalen Zukunftstag",
+        "label": "ORG",
+        "start": 209,
+        "end": 231
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 243,
+        "end": 253
+      },
+      {
+        "text": "Jahr 20",
+        "label": "MISC",
+        "start": 439,
+        "end": 446
+      },
+      {
+        "text": "ETH Mitarbeitenden",
+        "label": "ORG",
+        "start": 578,
+        "end": 596
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Mitarbeitenden",
+        "ETH Zürich",
+        "Nationalen Zukunftstag"
+      ],
+      "LOCATION": [
+        "De Internal/2015/10/nationaler Zukunftstag 2015",
+        "Eth Zuerich",
+        "Geschlechterrollen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Jahr 20"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2015/10/nationaler Zukunftstag 2015": 1,
+      "Eth Zuerich": 1,
+      "Geschlechterrollen": 1,
+      "Nationalen Zukunftstag": 1,
+      "ETH Zürich": 1,
+      "Jahr 20": 1,
+      "ETH Mitarbeitenden": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "nationaler-zukunftstag-2015-an-der-eth-zuerich.md",
+      "title": "De Internal/2015/10/nationaler Zukunftstag 2015 an der Eth Zuerich",
+      "language": "de",
+      "source_path": "de_internal/2015/10/nationaler-zukunftstag-2015-an-der-eth-zuerich.html"
+    },
+    "temporal": {
+      "publication_date": "2015-10",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Jahr 20"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Die Anmeldung",
+        "ETH Mitarbeitenden",
+        "De Internal",
+        "Am Nationalen",
+        "Eth Zuerich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Mitarbeitenden",
+        "ETH Zürich",
+        "Nationalen Zukunftstag"
+      ],
+      "locations": [
+        "De Internal/2015/10/nationaler Zukunftstag 2015",
+        "Eth Zuerich",
+        "Geschlechterrollen"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2015/10/nationaler Zukunftstag 2015",
+        "Eth Zuerich",
+        "Geschlechterrollen",
+        "Nationalen Zukunftstag",
+        "ETH Zürich",
+        "Jahr 20",
+        "ETH Mitarbeitenden"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 791
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "ETH Mitarbeitenden",
+        "Nationalen Zukunftstag",
+        "EU",
+        "ETH Zürich"
+      ],
+      "semantic_concepts": [
+        "Jahr 20"
+      ],
+      "graph_relations": []
+    }
+  }
+}

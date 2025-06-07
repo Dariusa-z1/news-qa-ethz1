@@ -1,0 +1,184 @@
+{
+  "filename": "probanden-gesucht.md",
+  "original_filename": "probanden-gesucht.html",
+  "source_path": "de_internal/2014/05/probanden-gesucht.html",
+  "date": "2014-05",
+  "title": "Probanden Gesucht",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Für eine klinische Studie des Zürcher externe Seite Universitätsspitals und der ETH Zürich (Renato Zenobi, Professur für Analytische Chemie ) werden Probandinnen und Probanden gesucht. Ziel der Studie ist eine Datenbank mit Atemprofilen von Personen mit gesunder Lunge. Diese sollen mit den Profilen von Lungenkranken verglichen werden. Aufgrund dessen soll festgestellt werden können, ob es möglich ist, über die Ausatemluft gewisse Krankheiten zu diagnostizieren. Dies ist für die Entwicklung neuer diagnostischer Tests bedeutungsvoll.\n\nInteressiert? Dann kontaktieren Sie bitte die Studienleitung unter (E-Mail) oder telefonisch: 044 255 98 15."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/05",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Zürcher",
+        "label": "MISC",
+        "start": 30,
+        "end": 37
+      },
+      {
+        "text": "Universitätsspitals",
+        "label": "PER",
+        "start": 52,
+        "end": 71
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 80,
+        "end": 90
+      },
+      {
+        "text": "Renato Zenobi",
+        "label": "PER",
+        "start": 92,
+        "end": 105
+      },
+      {
+        "text": "Atemprofilen",
+        "label": "MISC",
+        "start": 224,
+        "end": 236
+      },
+      {
+        "text": "Interessiert",
+        "label": "PER",
+        "start": 538,
+        "end": 550
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Interessiert",
+        "Renato Zenobi",
+        "Universitätsspitals"
+      ],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2014/05"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Atemprofilen",
+        "Zürcher"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2014/05": 1,
+      "Zürcher": 1,
+      "Universitätsspitals": 1,
+      "ETH Zürich": 1,
+      "Renato Zenobi": 1,
+      "Atemprofilen": 1,
+      "Interessiert": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "probanden-gesucht.md",
+      "title": "De Internal/2014/05/probanden Gesucht",
+      "language": "de",
+      "source_path": "de_internal/2014/05/probanden-gesucht.html"
+    },
+    "temporal": {
+      "publication_date": "2014-05",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Interessiert",
+        "Renato Zenobi",
+        "Universitätsspitals"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Atemprofilen",
+        "Zürcher"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Renato Zenobi",
+        "De Internal",
+        "Analytische Chemie",
+        "E-Mail"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2014/05"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2014/05",
+        "Zürcher",
+        "Universitätsspitals",
+        "ETH Zürich",
+        "Renato Zenobi",
+        "Atemprofilen",
+        "Interessiert"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 685
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Renato Zenobi",
+        "EU",
+        "Universitätsspitals",
+        "ETH Zürich",
+        "Interessiert",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Atemprofilen",
+        "Zürcher",
+        "who",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

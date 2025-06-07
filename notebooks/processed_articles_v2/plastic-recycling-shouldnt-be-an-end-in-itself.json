@@ -1,0 +1,555 @@
+{
+  "filename": "plastic-recycling-shouldnt-be-an-end-in-itself.md",
+  "original_filename": "plastic-recycling-shouldnt-be-an-end-in-itself.html",
+  "source_path": "en_news_events/2022/02/plastic-recycling-shouldnt-be-an-end-in-itself.html",
+  "date": "2022-02",
+  "title": "Plastic Recycling Shouldnt Be An End In Itself",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The current situation",
+      "text": "Recycling plastic is currently on trend. The collection points of a municipal pilot project in Zurich Höngg and Schwamendingen were literally overflowing with plastic packaging 1 , with people even coming from other neighbourhoods to drop off their plastic waste. This desire to recycle is often based on the belief that recycled materials can compensate for the environmental impact of our consumption. But to fulfil this purpose, recycled materials would have to replace primary resources to a large extent."
+    },
+    {
+      "heading": "Collection increases the recycling rate",
+      "text": "But we are a long way away from that with plastics – and with most other materials. Currently, only about 7 percent of the slightly more than one million tonnes of plastics used in Switzerland are made from recycled waste. 2 If we do not make any changes to the system, I believe that secondary plastics will only be able to replace virgin materials to a small degree in the future, too."
+    },
+    {
+      "heading": "The current situation",
+      "text": "One obvious way to increase plastic recycling is to collect more waste separately. There are currently several initiatives with this goal at the local and regional level in Switzerland. Many are aimed at mixed plastics from households, for which there is still no nationwide recycling system and most of which is currently used for energy recovery – meaning it gets incinerated. Migros also wants to introduce a mixed collection system for plastic packaging. 3 In contrast, we have been collecting PET beverage bottles and other plastic bottles for a long time.\n\nBut plastics are not only found in the highly visible packaging sector. Plastics are also used in window frames, vacuum cleaners, cars, silo wrapping films and t-shirts. The waste from these products is also recycled – in some cases even in considerable quantities. 2 Nevertheless, of the total 790,000 tonnes of plastic waste created in Switzerland in 2017, only 9 percent was recycled."
+    },
+    {
+      "heading": "Collection increases the recycling rate",
+      "text": "There are reasons for the low recycling rate. Some plastic waste is very difficult to collect separately. And of the waste that is collected separately – about 20 percent – more than half is lost in the sorting and recycling processes, which is also true for mixed plastic packaging from households. 4\n\nAs a scientist, I wanted to know to what extent the recycling rate could be increased in the future. We recently investigated this question using material flow analysis. To do so, we increased the collection rates of the plastic fractions collected in 2017 to 80 percent – a rate that is already being achieved for PET bottles, paper or aluminium. The result: with increased collection rates and otherwise unchanged processes, we were able to increase the overall recycling rate to 23 percent. 2 While still modest, this is more than double the current recycling rate."
+    },
+    {
+      "heading": "Limited significance for the environment",
+      "text": "But what does a 23 percent recycling rate ultimately do for us? From an ecological perspective, plastic recycling is beneficial for the environment mainly if the secondary material replaces virgin material, thereby preventing the CO 2 emissions of plastic production. According to our analyses, this will probably only be partially possible with an intensified collection regime without additional changes to the system. The reason for this becomes clear when taking a closer look at plastic as a material.\n\nThe different types of plastic consist of polymer chains and additives that can be combined in almost unlimited ways. Because it is simply not possible to recycle several hundred thousand waste fractions separately, many are recycled together. However, mixing them together leads to the secondary plastics having different properties than the original ones. This means that recyclate can usually only be used in certain products in certain shares. The total amount of recyclate that can replace primary material is therefore limited."
+    },
+    {
+      "heading": "About the author",
+      "text": "When taking into account the limited potential of secondary material, our model showed that only around 75 percent of recyclate can replace primary plastic. 2 This reduces the theoretically possible recycling rate of 23 percent to an actually achievable recycling rate of only 17 percent. In 2017, secondary material volumes could still be fully recycled back into production because they were so low. However, if we increase plastic recycling, that will change.\n\nIn my work, I repeatedly find that most studies and policy goals on recycling barely acknowledge the issue of how to use secondary plastic. Even the EU's goal of recycling half of all plastic packaging by 2025 focuses one-sidedly on producing recyclate. This can lead to an overestimation of the achievable environmental benefits, because in reality, excess recyclate could simply flow into additional products and thus increase consumption.\n\nIn the future, I expect that the potential for environmentally beneficial plastic recycling will be low, provided we only collect more waste and do not change recycling routes and product design.\n\nI am not saying that plastic recycling is not worthwhile: ideally, it saves energy and CO 2 emissions, avoids harmful alternative disposal routes and conserves resources. But simply filling the Migros collection bin or dismantling a vehicle at the end of its life cycle cannot guarantee these environmental benefits. To actually achieve these ecological goals, we must also sort the plastic waste we collect more precisely and design products – where possible – more uniformly to avoid mixing during recycling. This would pave the way for recyclate to increasingly replace primary plastics in the production process.\n\n1 NZZ am Sonntag (06.03.2021) Bald könnten wir Plastik wie PET-Flaschen sammeln 2 Klotz M, Haupt M, Hellweg S. Limited Utilization Options for Secondary Plastics May Restrict Their Circularity Waste Management 141 (2022). doi: 10.1016/j.wasman.2022.01.002 3 Migros: Sammeln statt wegwerfen\n\n4 Klotz M and Haupt A. High-Resolution Dataset on the Plastic Material Flows in Switzerland, submitted for publication\n\nMagdalena Klotz PhD student at the Chair of Ecological Systems Design, ETH Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Recycling Should",
+        "label": "PERSON",
+        "start": 31,
+        "end": 47
+      },
+      {
+        "text": "Itself",
+        "label": "GPE",
+        "start": 63,
+        "end": 69
+      },
+      {
+        "text": "Zurich Höngg",
+        "label": "GPE",
+        "start": 95,
+        "end": 107
+      },
+      {
+        "text": "Schwamendingen",
+        "label": "PERSON",
+        "start": 112,
+        "end": 126
+      },
+      {
+        "text": "only about 7 percent",
+        "label": "PERCENT",
+        "start": 95,
+        "end": 115
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 181,
+        "end": 192
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 173,
+        "end": 184
+      },
+      {
+        "text": "Migros",
+        "label": "ORG",
+        "start": 379,
+        "end": 385
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 498,
+        "end": 501
+      },
+      {
+        "text": "790,000 tonnes",
+        "label": "QUANTITY",
+        "start": 857,
+        "end": 871
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 900,
+        "end": 911
+      },
+      {
+        "text": "only 9 percent",
+        "label": "PERCENT",
+        "start": 921,
+        "end": 935
+      },
+      {
+        "text": "about 20 percent",
+        "label": "PERCENT",
+        "start": 154,
+        "end": 170
+      },
+      {
+        "text": "more than half",
+        "label": "CARDINAL",
+        "start": 173,
+        "end": 187
+      },
+      {
+        "text": "80 percent",
+        "label": "PERCENT",
+        "start": 562,
+        "end": 572
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 617,
+        "end": 620
+      },
+      {
+        "text": "23 percent",
+        "label": "PERCENT",
+        "start": 784,
+        "end": 794
+      },
+      {
+        "text": "23 percent",
+        "label": "PERCENT",
+        "start": 16,
+        "end": 26
+      },
+      {
+        "text": "several hundred thousand",
+        "label": "CARDINAL",
+        "start": 670,
+        "end": 694
+      },
+      {
+        "text": "only around 75 percent",
+        "label": "PERCENT",
+        "start": 92,
+        "end": 114
+      },
+      {
+        "text": "23 percent",
+        "label": "PERCENT",
+        "start": 217,
+        "end": 227
+      },
+      {
+        "text": "only 17 percent",
+        "label": "PERCENT",
+        "start": 272,
+        "end": 287
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 612,
+        "end": 614
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 635,
+        "end": 639
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 681,
+        "end": 684
+      },
+      {
+        "text": "CO 2",
+        "label": "PRODUCT",
+        "start": 1188,
+        "end": 1192
+      },
+      {
+        "text": "Migros",
+        "label": "PERSON",
+        "start": 1295,
+        "end": 1301
+      },
+      {
+        "text": "Sonntag (06.03.2021",
+        "label": "ORG",
+        "start": 1727,
+        "end": 1746
+      },
+      {
+        "text": "Bald könnten",
+        "label": "PERSON",
+        "start": 1748,
+        "end": 1760
+      },
+      {
+        "text": "Plastik",
+        "label": "ORG",
+        "start": 1765,
+        "end": 1772
+      },
+      {
+        "text": "PET-Flaschen",
+        "label": "ORG",
+        "start": 1777,
+        "end": 1789
+      },
+      {
+        "text": "Haupt M",
+        "label": "PERSON",
+        "start": 1809,
+        "end": 1816
+      },
+      {
+        "text": "Hellweg S. Limited Utilization Options for Secondary Plastics May Restrict Their Circularity Waste Management",
+        "label": "ORG",
+        "start": 1818,
+        "end": 1927
+      },
+      {
+        "text": "10.1016/j.wasman.2022.01.002 3",
+        "label": "CARDINAL",
+        "start": 1945,
+        "end": 1975
+      },
+      {
+        "text": "Haupt A. High-Resolution",
+        "label": "PERSON",
+        "start": 2022,
+        "end": 2046
+      },
+      {
+        "text": "the Plastic Material Flows",
+        "label": "ORG",
+        "start": 2058,
+        "end": 2084
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2088,
+        "end": 2099
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 2143,
+        "end": 2146
+      },
+      {
+        "text": "the Chair of Ecological Systems Design",
+        "label": "ORG",
+        "start": 2158,
+        "end": 2196
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 2198,
+        "end": 2208
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bald könnten",
+        "ETH Zurich",
+        "Haupt A. High-Resolution",
+        "Haupt M",
+        "Migros",
+        "Recycling Should",
+        "Schwamendingen"
+      ],
+      "ORG": [
+        "EU",
+        "Hellweg S. Limited Utilization Options for Secondary Plastics May Restrict Their Circularity Waste Management",
+        "Migros",
+        "PET",
+        "PET-Flaschen",
+        "Plastik",
+        "Sonntag (06.03.2021",
+        "the Chair of Ecological Systems Design",
+        "the Plastic Material Flows"
+      ],
+      "LOCATION": [
+        "Itself",
+        "Switzerland",
+        "Zurich Höngg"
+      ],
+      "DATE": [],
+      "MISC": [
+        "10.1016/j.wasman.2022.01.002 3",
+        "23 percent",
+        "790,000 tonnes",
+        "80 percent",
+        "CO 2",
+        "One",
+        "PhD",
+        "about 20 percent",
+        "half",
+        "more than half",
+        "one",
+        "only 17 percent",
+        "only 9 percent",
+        "only about 7 percent",
+        "only around 75 percent",
+        "several hundred thousand"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 4,
+      "23 percent": 3,
+      "Migros": 2,
+      "PET": 2,
+      "Recycling Should": 1,
+      "Itself": 1,
+      "Zurich Höngg": 1,
+      "Schwamendingen": 1,
+      "only about 7 percent": 1,
+      "One": 1,
+      "790,000 tonnes": 1,
+      "only 9 percent": 1,
+      "about 20 percent": 1,
+      "more than half": 1,
+      "80 percent": 1,
+      "several hundred thousand": 1,
+      "only around 75 percent": 1,
+      "only 17 percent": 1,
+      "EU": 1,
+      "half": 1
+    },
+    "total_entities": 41,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "plastic-recycling-shouldnt-be-an-end-in-itself.md",
+      "title": "En News Events/2022/02/plastic Recycling Shouldnt Be an End in Itself",
+      "language": "en",
+      "source_path": "en_news_events/2022/02/plastic-recycling-shouldnt-be-an-end-in-itself.html"
+    },
+    "temporal": {
+      "publication_date": "2022-02",
+      "mentioned_years": [
+        "2017",
+        "2021",
+        "2022",
+        "2025"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bald könnten",
+        "ETH Zurich",
+        "Haupt A. High-Resolution",
+        "Haupt M",
+        "Migros",
+        "Recycling Should",
+        "Schwamendingen"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student",
+          "chair"
+        ]
+      },
+      "institutional_roles": [
+        "chair",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1016/j.wasman.2022.01.002 3",
+        "23 percent",
+        "790,000 tonnes",
+        "80 percent",
+        "CO 2",
+        "about 20 percent",
+        "half",
+        "more than half",
+        "only 17 percent",
+        "only 9 percent",
+        "only about 7 percent",
+        "only around 75 percent",
+        "several hundred thousand"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "PET-Flaschen",
+        "Magdalena Klotz",
+        "May Restrict",
+        "Haupt M",
+        "Hellweg S",
+        "En News",
+        "Waste Management",
+        "Plastic Material",
+        "Limited Utilization",
+        "Klotz M",
+        "ETH Zurich",
+        "Itself Recycling",
+        "Haupt A",
+        "Recycling Shouldnt",
+        "Their Circularity",
+        "High-Resolution",
+        "Secondary Plastics",
+        "Ecological Systems"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "EU",
+        "Hellweg S. Limited Utilization Options for Secondary Plastics May Restrict Their Circularity Waste Management",
+        "Migros",
+        "PET",
+        "PET-Flaschen",
+        "Plastik",
+        "Sonntag (06.03.2021",
+        "the Chair of Ecological Systems Design",
+        "the Plastic Material Flows"
+      ],
+      "locations": [
+        "Itself",
+        "Switzerland",
+        "Zurich Höngg"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "23 percent",
+        "Migros",
+        "PET",
+        "Recycling Should",
+        "Itself",
+        "Zurich Höngg",
+        "Schwamendingen",
+        "only about 7 percent",
+        "One"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "The current situation",
+          "Collection increases the recycling rate",
+          "The current situation",
+          "Collection increases the recycling rate",
+          "Limited significance for the environment",
+          "About the author"
+        ],
+        "content_length": 6047
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "PET-Flaschen",
+        "2025",
+        "Haupt M",
+        "Sonntag (06.03.2021",
+        "ERC",
+        "Migros",
+        "2022",
+        "Hellweg S. Limited Utilization Options for Secondary Plastics May Restrict Their Circularity Waste Management",
+        "PET",
+        "Haupt A. High-Resolution",
+        "EU",
+        "Schwamendingen",
+        "the Plastic Material Flows",
+        "Plastik",
+        "the Chair of Ecological Systems Design",
+        "Bald könnten",
+        "2017",
+        "ETH Zurich",
+        "2021",
+        "Recycling Should"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "about 20 percent",
+        "half",
+        "chemistry",
+        "only about 7 percent",
+        "when",
+        "engineering",
+        "more than half",
+        "23 percent",
+        "10.1016/j.wasman.2022.01.002 3",
+        "only 17 percent",
+        "only 9 percent",
+        "mathematics",
+        "who",
+        "what",
+        "how",
+        "CO 2",
+        "790,000 tonnes",
+        "80 percent",
+        "several hundred thousand",
+        "only around 75 percent",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "ETH Zurich_has_role_chair",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

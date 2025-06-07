@@ -1,0 +1,131 @@
+{
+  "filename": "access-to-nature-plants.md",
+  "original_filename": "access-to-nature-plants.html",
+  "source_path": "en_internal/2015/04/access-to-nature-plants.html",
+  "date": "2015-04",
+  "title": "Access To Nature Plants",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The ETH-Bibliothek now offers access to Nature Plants . The newest journal of the Nature Publishing Group publishes primary research in the molecular biology, physiology and ecology of plants as well as in the relationship between humanity and the plant kingdom.\n\nAccess to this database is restricted to the ethz.ch domain due to licensing reasons."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Nature Plants",
+        "label": "WORK_OF_ART",
+        "start": 40,
+        "end": 53
+      },
+      {
+        "text": "the Nature Publishing Group",
+        "label": "ORG",
+        "start": 78,
+        "end": 105
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "the Nature Publishing Group"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "Nature Plants"
+      ]
+    },
+    "entity_counts": {
+      "Nature Plants": 1,
+      "the Nature Publishing Group": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "access-to-nature-plants.md",
+      "title": "En Internal/2015/04/access To Nature Plants",
+      "language": "en",
+      "source_path": "en_internal/2015/04/access-to-nature-plants.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "Nature Plants"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "To Nature",
+        "ETH-Bibliothek",
+        "Plants The",
+        "Nature Plants",
+        "Nature Publishing",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "the Nature Publishing Group"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "why"
+      ],
+      "key_concepts": [
+        "Nature Plants",
+        "the Nature Publishing Group"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 393
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Nature Publishing Group",
+        "2015"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Nature Plants",
+        "chemistry",
+        "biology",
+        "what",
+        "why"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

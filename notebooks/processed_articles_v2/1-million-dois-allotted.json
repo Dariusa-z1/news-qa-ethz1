@@ -1,0 +1,154 @@
+{
+  "filename": "1-million-dois-allotted.md",
+  "original_filename": "1-million-dois-allotted.html",
+  "source_path": "en_internal/2016/01/1-million-dois-allotted.html",
+  "date": "2016-01",
+  "title": "1 Million Dois Allotted",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Meanwhile, it provides thirty-five services to twenty-five customers all over Switzerland.\n\nETH Zurich's DOI Desk is the official registration office for Switzerland’s university and research domain.\n\nThe Step-by-step guide to DOI registration reveals which conditions need to be met."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "thirty-five",
+        "label": "CARDINAL",
+        "start": 23,
+        "end": 34
+      },
+      {
+        "text": "twenty-five",
+        "label": "CARDINAL",
+        "start": 47,
+        "end": 58
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 78,
+        "end": 89
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 91,
+        "end": 103
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 153,
+        "end": 164
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich's"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [],
+      "MISC": [
+        "thirty-five",
+        "twenty-five"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 2,
+      "thirty-five": 1,
+      "twenty-five": 1,
+      "ETH Zurich's": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "1-million-dois-allotted.md",
+      "title": "En Internal/2016/01/1 Million Dois Allotted",
+      "language": "en",
+      "source_path": "en_internal/2016/01/1-million-dois-allotted.html"
+    },
+    "temporal": {
+      "publication_date": "2016-01",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich's"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "thirty-five",
+        "twenty-five"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Step",
+        "Allotted Meanwhile",
+        "En Internal",
+        "DOI Desk",
+        "ETH Zurich",
+        "Million Dois"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "thirty-five",
+        "twenty-five",
+        "ETH Zurich's"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 328
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich's",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "thirty-five",
+        "twenty-five",
+        "what",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

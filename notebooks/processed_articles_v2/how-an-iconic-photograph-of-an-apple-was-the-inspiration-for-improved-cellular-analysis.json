@@ -1,0 +1,472 @@
+{
+  "filename": "how-an-iconic-photograph-of-an-apple-was-the-inspiration-for-improved-cellular-analysis.md",
+  "original_filename": "how-an-iconic-photograph-of-an-apple-was-the-inspiration-for-improved-cellular-analysis.html",
+  "source_path": "en_news_events/2017/11/how-an-iconic-photograph-of-an-apple-was-the-inspiration-for-improved-cellular-analysis.html",
+  "date": "2017-11",
+  "title": "How An Iconic Photograph Of An Apple Was The Inspiration For Improved Cellular Analysis",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A good combination",
+      "text": "All life processes in humans, animals and plants depend on cellular activity. The human body alone contains more than 210 cell types with specific properties and functions that influence development and health. A detailed understanding of these cells and their properties is crucial for biology and medicine. However, filtering out the sought-after cell information is sometimes an immense challenge – particularly if, out of a million cells, fewer than a dozen have the property that triggers a disease.\n\nAn established method in chemistry, biology and medicine to rapidly determine the properties of large numbers of individual cells is flow cytometry. This cell measurement technology can be used, for instance, to identify cancer cells or T-cells, those white blood cells important to the immune defence system.\n\nThe technology was invented in 1968, with conventional flow cytometers normally measuring scattered light and fluorescence when cells flow through a laser beam. The resulting signals vary depending on the size, shape, structure and colour of the cells; for example, T-cells are very smooth and scatter less light than other cells."
+    },
+    {
+      "heading": "A good combination",
+      "text": "The research group led by Andrew deMello, ETH Professor of Biochemical Engineering, has now succeeded in developing flow cytometry significantly further. Its imaging-based cytometry platform measures cells and their properties more rapidly, in larger quantities and far more accurately than today’s flow cytometers. The ETH Zurich researchers have now presented the workings of their method in the scientific journal Chem .\n\nThe researchers have not reinvented the approach, but rather cleverly combined existing technologies: their flow cytometer combines the capabilities of microfluidics, which studies the behaviour of fluids through micro-channels, with highly sensitive optical detection methods and ultra-fast imaging.\n\nThis allows them to achieve an ultra-high throughput of greater than 50,000 cells per second. Standard fluorescent-based flow cytometers reliably measure between 100 and 20,000 cells per second, and imaging flow cytometers only up to 4,000 cells per second. In practice, however, it is normally the case that significantly fewer cells are measured as they usually clump together."
+    },
+    {
+      "heading": "Imaging like Papa Flash",
+      "text": "“We are developing technologies to help chemists, biologists and medical specialists carry out new research,” says deMello. He expects that the platform will one day also be simpler and much cheaper than today’s instruments.\n\nIn principle, their flow cytometer consists of three parts: at the start, the cells are lined up closely in a single file. A microfluidic flow then guides them through a serpentine microchannel (see the drawing above) and into the detection area at high speed. There, a high-resolution camera records their size, shape and structure using the light effects. In a final step, they can be sorted according to their properties."
+    },
+    {
+      "heading": "Snapshots on loops",
+      "text": "A special feature of this approach is that the cells pass through several parallel loops, which allows the camera to record large numbers of cells with precision. This speeds up deMello’s method, and allows operation at exceptionally high throughputs. “The combination of microfluids with imaging enables the enhancement of information,” he says. In conventional approaches, in contrast, a detector registers one cell after another at a specific point.\n\nThree types of images can be obtained with this technology: dark-field images with information about the shape and structure of a cell (these images show coloured structures against a dark background), bright-field images with information about the cell size and fluorescent images with information about a cell’s appearance and internal structure. The extraction of morphological information in particular distinguishes deMello’s approach from other fluorescent or microfluid-based approaches.\n\nWhen they ran into a problem, deMello’s group benefited from the years of experience in droplet-based microfluidics and optical methods: when droplets, cells or microparticles flow very quickly, the images – as with photographs – sometimes become distorted or blurry. The research group solved this problem by learning from the past: to expose the cells, they used stroboscopic illumination that breaks down the continuous flow of cells – like a slow motion camera – into a sequence of still images. This method became world famous thanks to the inventor of the stroboscope flash, Harold E. Edgerton, also known as Papa Flash, whose cult photos from the 1960s were seen around the world.\n\nThanks to stroboscopic exposure, individual cells that are moving at half a metre per second and in large quantities can be clearly recorded.\n\nTo test the performance of their method, deMello’s senior scientist, Stavros Stavrakis, together with two graduate students analysed a large cell population and differentiated living, dying and dead cells on the basis of their fluorescence. The ETH Zurich researchers would like to further develop the method with a view to bacterial, nanoscientific and industrial applications.\n\nRane A S, Rutkauskaite J, deMello A, Stavrakis S. High-Throughput Multi-parametric Imaging Flow Ctyometry. Chem (2017), published online 12 October 2017. doi: dx.doi.org/10.1016/j.chempr.2017.08.005"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "more than 210",
+        "label": "CARDINAL",
+        "start": 108,
+        "end": 121
+      },
+      {
+        "text": "million",
+        "label": "CARDINAL",
+        "start": 428,
+        "end": 435
+      },
+      {
+        "text": "fewer than a dozen",
+        "label": "CARDINAL",
+        "start": 443,
+        "end": 461
+      },
+      {
+        "text": "Andrew deMello",
+        "label": "PERSON",
+        "start": 26,
+        "end": 40
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 42,
+        "end": 45
+      },
+      {
+        "text": "Biochemical Engineering",
+        "label": "ORG",
+        "start": 59,
+        "end": 82
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 291,
+        "end": 296
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 320,
+        "end": 330
+      },
+      {
+        "text": "Chem",
+        "label": "PRODUCT",
+        "start": 417,
+        "end": 421
+      },
+      {
+        "text": "greater than 50,000",
+        "label": "CARDINAL",
+        "start": 781,
+        "end": 800
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 811,
+        "end": 817
+      },
+      {
+        "text": "between 100 and 20,000",
+        "label": "CARDINAL",
+        "start": 879,
+        "end": 901
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 912,
+        "end": 918
+      },
+      {
+        "text": "only up to 4,000",
+        "label": "CARDINAL",
+        "start": 948,
+        "end": 964
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 975,
+        "end": 981
+      },
+      {
+        "text": "deMello",
+        "label": "ORG",
+        "start": 115,
+        "end": 122
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 158,
+        "end": 165
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 272,
+        "end": 277
+      },
+      {
+        "text": "deMello",
+        "label": "ORG",
+        "start": 178,
+        "end": 185
+      },
+      {
+        "text": "Three",
+        "label": "CARDINAL",
+        "start": 453,
+        "end": 458
+      },
+      {
+        "text": "deMello",
+        "label": "ORG",
+        "start": 874,
+        "end": 881
+      },
+      {
+        "text": "deMello’s",
+        "label": "ORG",
+        "start": 978,
+        "end": 987
+      },
+      {
+        "text": "the years",
+        "label": "DATE",
+        "start": 1009,
+        "end": 1018
+      },
+      {
+        "text": "Harold E. Edgerton",
+        "label": "PERSON",
+        "start": 1529,
+        "end": 1547
+      },
+      {
+        "text": "Papa Flash",
+        "label": "PERSON",
+        "start": 1563,
+        "end": 1573
+      },
+      {
+        "text": "the 1960s",
+        "label": "DATE",
+        "start": 1598,
+        "end": 1607
+      },
+      {
+        "text": "half a metre",
+        "label": "QUANTITY",
+        "start": 1705,
+        "end": 1717
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1722,
+        "end": 1728
+      },
+      {
+        "text": "deMello",
+        "label": "ORG",
+        "start": 1819,
+        "end": 1826
+      },
+      {
+        "text": "Stavros Stavrakis",
+        "label": "PERSON",
+        "start": 1847,
+        "end": 1864
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1880,
+        "end": 1883
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 2023,
+        "end": 2033
+      },
+      {
+        "text": "Imaging Flow Ctyometry",
+        "label": "ORG",
+        "start": 2240,
+        "end": 2262
+      },
+      {
+        "text": "October 2017",
+        "label": "DATE",
+        "start": 2297,
+        "end": 2309
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andrew deMello",
+        "Harold E. Edgerton",
+        "Papa Flash",
+        "Stavros Stavrakis"
+      ],
+      "ORG": [
+        "Biochemical Engineering",
+        "ETH",
+        "ETH Zurich",
+        "Imaging Flow Ctyometry",
+        "deMello",
+        "deMello’s"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "October 2017",
+        "one day",
+        "the 1960s",
+        "the years",
+        "today"
+      ],
+      "MISC": [
+        "Chem",
+        "Three",
+        "between 100 and 20,000",
+        "fewer than a dozen",
+        "greater than 50,000",
+        "half a metre",
+        "million",
+        "more than 210",
+        "only up to 4,000",
+        "second",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "second": 4,
+      "deMello": 4,
+      "ETH Zurich": 2,
+      "more than 210": 1,
+      "million": 1,
+      "fewer than a dozen": 1,
+      "Andrew deMello": 1,
+      "ETH": 1,
+      "Biochemical Engineering": 1,
+      "today": 1,
+      "Chem": 1,
+      "greater than 50,000": 1,
+      "between 100 and 20,000": 1,
+      "only up to 4,000": 1,
+      "one day": 1,
+      "three": 1,
+      "Three": 1,
+      "deMello’s": 1,
+      "the years": 1,
+      "Harold E. Edgerton": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-an-iconic-photograph-of-an-apple-was-the-inspiration-for-improved-cellular-analysis.md",
+      "title": "En News Events/2017/11/how an Iconic Photograph Of an Apple Was The Inspiration For Improved Cellular Analysis",
+      "language": "en",
+      "source_path": "en_news_events/2017/11/how-an-iconic-photograph-of-an-apple-was-the-inspiration-for-improved-cellular-analysis.html"
+    },
+    "temporal": {
+      "publication_date": "2017-11",
+      "mentioned_years": [
+        "1968",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andrew deMello",
+        "Harold E. Edgerton",
+        "Papa Flash",
+        "Stavros Stavrakis"
+      ],
+      "people_with_roles": {
+        "Andrew deMello": [
+          "professor"
+        ],
+        "Stavros Stavrakis": [
+          "scientist",
+          "student",
+          "graduate"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Chem",
+        "Three",
+        "between 100 and 20,000",
+        "fewer than a dozen",
+        "greater than 50,000",
+        "half a metre",
+        "million",
+        "more than 210",
+        "only up to 4,000",
+        "second",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Imaging Flow",
+        "The Inspiration",
+        "Papa Flash",
+        "En News",
+        "High-Throughput",
+        "Rutkauskaite J",
+        "Rane A",
+        "Biochemical Engineering",
+        "ETH Professor",
+        "Apple Was",
+        "Cellular Analysis",
+        "Stavros Stavrakis",
+        "The ETH",
+        "Harold E",
+        "For Improved",
+        "Stavrakis S",
+        "Iconic Photograph"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Biochemical Engineering",
+        "ETH",
+        "ETH Zurich",
+        "Imaging Flow Ctyometry",
+        "deMello",
+        "deMello’s"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "second",
+        "deMello",
+        "ETH Zurich",
+        "more than 210",
+        "million",
+        "fewer than a dozen",
+        "Andrew deMello",
+        "ETH",
+        "Biochemical Engineering",
+        "today"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "A good combination",
+          "A good combination",
+          "Imaging like Papa Flash",
+          "Snapshots on loops"
+        ],
+        "content_length": 5377
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Papa Flash",
+        "Harold E. Edgerton",
+        "2017",
+        "Biochemical Engineering",
+        "deMello’s",
+        "1968",
+        "Imaging Flow Ctyometry",
+        "Andrew deMello",
+        "Stavros Stavrakis",
+        "ETH Zurich",
+        "deMello"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "fewer than a dozen",
+        "three",
+        "Chem",
+        "chemistry",
+        "greater than 50,000",
+        "when",
+        "million",
+        "Three",
+        "biology",
+        "medical_research",
+        "only up to 4,000",
+        "mathematics",
+        "who",
+        "half a metre",
+        "what",
+        "how",
+        "between 100 and 20,000",
+        "more than 210",
+        "second"
+      ],
+      "graph_relations": [
+        "Andrew deMello_has_role_professor",
+        "Stavros Stavrakis_has_role_scientist",
+        "Stavros Stavrakis_has_role_student",
+        "Stavros Stavrakis_has_role_graduate",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

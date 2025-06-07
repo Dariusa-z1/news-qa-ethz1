@@ -1,0 +1,319 @@
+{
+  "filename": "press-release-generating-power-with-blood-sugar.md",
+  "original_filename": "press-release-generating-power-with-blood-sugar.html",
+  "source_path": "en_news_events/2023/03/press-release-generating-power-with-blood-sugar.html",
+  "date": "2023-03",
+  "title": "Press Release Generating Power With Blood Sugar",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Abstract",
+      "text": "- ETH researchers have developed an implantable fuel cell that generates electricity from excess glucose in the blood.\n\n- This could be used to operate medical devices in the future.\n\n- When combined with artificial, insulin-releasing beta cells, this gives rise to a system that can autonomously regulate blood sugar levels.\n\n- This is a prototype, and it is unclear whether it will be brought to market."
+    },
+    {
+      "heading": "Fuel cell in tea bag format",
+      "text": "In type 1 diabetes, the body does not produce insulin. This means that patients have to obtain the hormone externally to regulate their blood sugar levels. Nowadays, this is mostly done via insulin pumps that are attached directly to the body. These devices, as well as other medical applications such as pacemakers, require a reliable energy supply, which at present is met primarily by power from either single-use or rechargeable batteries.\n\nNow, a team of researchers led by Martin Fussenegger from the Department of Biosystems Science and Engineering at ETH Zurich in Basel have put a seemingly futuristic idea into practice. They have developed an implantable fuel cell that uses excess blood sugar (glucose) from tissue to generate electrical energy. The researchers have combined the fuel cell with artificial beta cells developed by their group several years ago. These produce insulin at the touch of a button and effectively lower blood glucose levels much like their natural role models in the pancreas.\n\n“Many people, especially in the Western industrialised nations, consume more carbohydrates than they need in everyday life,” Fussenegger explains. This, he adds, leads to obesity, diabetes and cardiovascular disease. “This gave us the idea of using this excess metabolic energy to produce electricity to power biomedical devices,” he says."
+    },
+    {
+      "heading": "Fuel cell in tea bag format",
+      "text": "At the heart of the fuel cell is an anode (electrode) made of copper-based nanoparticles, which Fussenegger’s team created specifically for this application. It consists of copper-based nanoparticles and splits glucose into gluconic acid and a proton to generate electricity, which sets an electric circuit in motion.\n\nWrapped in a nonwoven fabric and coated with alginate, an algae product approved for medical use, the fuel cell resembles a small tea bag that can be implanted under the skin. The alginate soaks up body fluid and allows glucose to pass from the tissue into the fuel cell within."
+    },
+    {
+      "heading": "A diabetes network with its own power supply",
+      "text": "In a second step, the researchers coupled the fuel cell with a capsule containing artificial beta cells. These can be stimulated to produce and secrete insulin using electric current or blue LED light. Fussenegger and his colleagues already tested such designer cells some time ago (see ETH News , 8 December 2016).\n\nThe system combines sustained power generation and controlled insulin delivery. As soon as the fuel cell registers excess glucose, it starts to generate power. This electrical energy is then used to stimulate the cells to produce and release insulin into the blood. As a result, blood sugar dips to a normal level. Once it falls below a certain threshold value, the production of electricity and insulin stops.\n\nThe electrical energy provided by the fuel cell is sufficient not only to stimulate the designer cells but also to enable the implanted system to communicate with external devices such as a smartphone. This allows potential users to adjust the system via a corresponding app. A doctor could also access it remotely and make adjustments. “The new system autonomously regulates insulin and blood glucose levels and could be used to treat diabetes in the future,” Fussenegger says."
+    },
+    {
+      "heading": "A long, uncertain road to market maturity",
+      "text": "The existing system is only a prototype. Although the researchers have successfully tested it in mice, they are unable to develop it into a marketable product. “Bringing such a device to market is far beyond our financial and human resources,” Fussenegger says. This would call for an industry partner with the appropriate resources and know-how."
+    },
+    {
+      "heading": "References",
+      "text": "Maity D, Ray PG, Buchmann P, Mansouri M, Fussenegger, M: Blood-Glucose-Powered Metabolic Fuel Cell for Self-Sufficient Bioelectronics. Advanced Materials 2023: 2300890, doi: 10.1002/adma.202300890"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Martin Fussenegger",
+        "label": "PERSON",
+        "start": 478,
+        "end": 496
+      },
+      {
+        "text": "the Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 502,
+        "end": 554
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 558,
+        "end": 568
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 572,
+        "end": 577
+      },
+      {
+        "text": "several years ago",
+        "label": "DATE",
+        "start": 853,
+        "end": 870
+      },
+      {
+        "text": "Western",
+        "label": "NORP",
+        "start": 1047,
+        "end": 1054
+      },
+      {
+        "text": "Fussenegger",
+        "label": "ORG",
+        "start": 96,
+        "end": 107
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 5,
+        "end": 11
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 287,
+        "end": 295
+      },
+      {
+        "text": "8 December 2016",
+        "label": "DATE",
+        "start": 298,
+        "end": 313
+      },
+      {
+        "text": "Ray PG",
+        "label": "PERSON",
+        "start": 9,
+        "end": 15
+      },
+      {
+        "text": "Buchmann P",
+        "label": "PERSON",
+        "start": 17,
+        "end": 27
+      },
+      {
+        "text": "Mansouri M",
+        "label": "PERSON",
+        "start": 29,
+        "end": 39
+      },
+      {
+        "text": "10.1002",
+        "label": "CARDINAL",
+        "start": 174,
+        "end": 181
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Buchmann P",
+        "Mansouri M",
+        "Martin Fussenegger",
+        "Ray PG"
+      ],
+      "ORG": [
+        "ETH News",
+        "En News",
+        "Fussenegger",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "LOCATION": [
+        "Basel",
+        "ETH Zurich"
+      ],
+      "DATE": [
+        "8 December 2016",
+        "several years ago"
+      ],
+      "MISC": [
+        "10.1002",
+        "Western",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "En News": 1,
+      "Martin Fussenegger": 1,
+      "the Department of Biosystems Science and Engineering": 1,
+      "ETH Zurich": 1,
+      "Basel": 1,
+      "several years ago": 1,
+      "Western": 1,
+      "Fussenegger": 1,
+      "second": 1,
+      "ETH News": 1,
+      "8 December 2016": 1,
+      "Ray PG": 1,
+      "Buchmann P": 1,
+      "Mansouri M": 1,
+      "10.1002": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "press-release-generating-power-with-blood-sugar.md",
+      "title": "En News Events/2023/03/press Release Generating Power With Blood Sugar",
+      "language": "en",
+      "source_path": "en_news_events/2023/03/press-release-generating-power-with-blood-sugar.html"
+    },
+    "temporal": {
+      "publication_date": "2023-03",
+      "mentioned_years": [
+        "2016",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Buchmann P",
+        "Mansouri M",
+        "Martin Fussenegger",
+        "Ray PG"
+      ],
+      "people_with_roles": {
+        "Martin Fussenegger": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1002",
+        "Western",
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Blood-Glucose",
+        "Fuel Cell",
+        "Buchmann P",
+        "En News",
+        "Blood Sugar",
+        "Release Generating",
+        "Powered Metabolic",
+        "Mansouri M",
+        "ETH Zurich",
+        "Advanced Materials",
+        "Self-Sufficient",
+        "Biosystems Science",
+        "ETH News",
+        "Martin Fussenegger",
+        "Power With",
+        "Ray PG",
+        "Maity D"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biosystems Science and Engineering at ETH Zurich in Basel have put a seemingly futuristic idea into practice"
+      ],
+      "institutions": [
+        "ETH News",
+        "En News",
+        "Fussenegger",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "locations": [
+        "Basel",
+        "ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "En News",
+        "Martin Fussenegger",
+        "the Department of Biosystems Science and Engineering",
+        "ETH Zurich",
+        "Basel",
+        "several years ago",
+        "Western",
+        "Fussenegger",
+        "second",
+        "ETH News"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Abstract",
+          "Fuel cell in tea bag format",
+          "Fuel cell in tea bag format",
+          "A diabetes network with its own power supply",
+          "A long, uncertain road to market maturity",
+          "References"
+        ],
+        "content_length": 4183
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Buchmann P",
+        "En News",
+        "the Department of Biosystems Science and Engineering",
+        "2016",
+        "Mansouri M",
+        "Fussenegger",
+        "ETH News",
+        "Martin Fussenegger",
+        "Ray PG",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Western",
+        "who",
+        "10.1002",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Martin Fussenegger_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

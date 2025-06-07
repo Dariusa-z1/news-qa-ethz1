@@ -1,0 +1,161 @@
+{
+  "filename": "de_internal_2016_04_birkhaeuser-building-types-online.md",
+  "original_filename": "de_internal_2016_04_birkhaeuser-building-types-online.html",
+  "source_path": "de_internal/2016/04/birkhaeuser-building-types-online.html",
+  "date": "2016-04",
+  "title": "Birkhaeuser Building Types Online",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Datenbank bietet\n\nEine innovative Recherche z. B. nach Gebäudetypen, volumetrischen Konstellationen oder auch städtebaulichem Kontext ist möglich.\n\nDer Zugriff auf die Datenbank Birkhäuser Building Types online ist aus lizenzrechtlichen Gründen auf die Domain ethz.ch beschränkt. Nicht ETH-Angehörige können sie in den Räumen der ETH-Bibliothek nutzen.\n\nexterne Seite Birkhäuser Building Types online"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/04/birkhaeuser Building Types Online",
+        "label": "LOC",
+        "start": 0,
+        "end": 53
+      },
+      {
+        "text": "Birkhäuser Building Types",
+        "label": "ORG",
+        "start": 180,
+        "end": 205
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 288,
+        "end": 302
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 332,
+        "end": 346
+      },
+      {
+        "text": "Birkhäuser Building Types",
+        "label": "PER",
+        "start": 369,
+        "end": 394
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Birkhäuser Building Types"
+      ],
+      "ORG": [
+        "Birkhäuser Building Types"
+      ],
+      "LOCATION": [
+        "De Internal/2016/04/birkhaeuser Building Types Online"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige",
+        "ETH-Bibliothek"
+      ]
+    },
+    "entity_counts": {
+      "Birkhäuser Building Types": 2,
+      "De Internal/2016/04/birkhaeuser Building Types Online": 1,
+      "ETH-Angehörige": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2016_04_birkhaeuser-building-types-online.md",
+      "title": "De Internal/2016/04/birkhaeuser Building Types Online",
+      "language": "de",
+      "source_path": "de_internal/2016/04/birkhaeuser-building-types-online.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Birkhäuser Building Types"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Angehörige",
+        "ETH-Bibliothek"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Building Types",
+        "De Internal",
+        "Der Zugriff",
+        "Online Die",
+        "Nicht ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Birkhäuser Building Types"
+      ],
+      "locations": [
+        "De Internal/2016/04/birkhaeuser Building Types Online"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Birkhäuser Building Types",
+        "De Internal/2016/04/birkhaeuser Building Types Online",
+        "ETH-Angehörige",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 458
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Birkhäuser Building Types",
+        "EU",
+        "ERC",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Angehörige",
+        "ETH-Bibliothek",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

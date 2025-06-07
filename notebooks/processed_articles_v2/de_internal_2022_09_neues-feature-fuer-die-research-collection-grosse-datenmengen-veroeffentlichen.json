@@ -1,0 +1,264 @@
+{
+  "filename": "de_internal_2022_09_neues-feature-fuer-die-research-collection-grosse-datenmengen-veroeffentlichen.md",
+  "original_filename": "de_internal_2022_09_neues-feature-fuer-die-research-collection-grosse-datenmengen-veroeffentlichen.html",
+  "source_path": "de_internal/2022/09/neues-feature-fuer-die-research-collection-grosse-datenmengen-veroeffentlichen.html",
+  "date": "2022-09",
+  "title": "Neues Feature Fuer Die Research Collection Grosse Datenmengen Veroeffentlichen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der Service libdrive ermöglicht die Open-Access-Publikation von grossen Datenmengen über das Repositorium Research Collection. Das neue Feature wurde in Zusammenarbeit mit der Abteilung Informatikdienste der ETH Zürich auf Basis der Open Source Software ownCloud entwickelt.\n\nGut zu wissen: Wenn Sie für Ihre Publikation oder Ihren Datensatz einen DOI vor der eigentlichen Publikation in der Research Collection beziehen möchten, beispielsweise um ihn in ein Dokument zu integrieren, können Sie einen DOI-Vorbezug auslösen.\n\nInteressierte Personen können auf die publizierten Forschungsdaten in libdrive für mindestens 10 Jahre zugreifen. Es besteht aktuell keine Begrenzung der Datenmenge, die über libdrive publiziert werden kann. Nutzen Sie deswegen unser Angebot und informieren Sie sich im Handbuch Research Collection über die Nutzungsbedingungen und Anleitung für den Upload in libdrive.\n\nHabe Sie Fragen zur Research Collection? Wir helfen Ihnen gerne weiter. Kontaktieren Sie uns per E-Mail ( ) oder Telefon (+41 44 632 72 22).\n\nDie Research Collection ist die Publikationsplattform der ETH Zürich. Angehörige der Hochschule können darin wissenschaftliche Volltexte Open Access publizieren sowie Forschungsdaten archivieren oder öffentlich zugänglich machen.\n\nMehr als nur Daten – Vom Know-how profitieren\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/09/neues Feature Fuer",
+        "label": "LOC",
+        "start": 0,
+        "end": 38
+      },
+      {
+        "text": "Open-Access-Publikation",
+        "label": "ORG",
+        "start": 36,
+        "end": 59
+      },
+      {
+        "text": "Repositorium Research Collection",
+        "label": "ORG",
+        "start": 93,
+        "end": 125
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 208,
+        "end": 218
+      },
+      {
+        "text": "Open Source Software",
+        "label": "ORG",
+        "start": 233,
+        "end": 253
+      },
+      {
+        "text": "ownCloud",
+        "label": "MISC",
+        "start": 254,
+        "end": 262
+      },
+      {
+        "text": "Research Collection",
+        "label": "ORG",
+        "start": 391,
+        "end": 410
+      },
+      {
+        "text": "Datenmenge",
+        "label": "LOC",
+        "start": 677,
+        "end": 687
+      },
+      {
+        "text": "Handbuch Research Collection",
+        "label": "MISC",
+        "start": 793,
+        "end": 821
+      },
+      {
+        "text": "Research Collection",
+        "label": "ORG",
+        "start": 1038,
+        "end": 1057
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1092,
+        "end": 1102
+      },
+      {
+        "text": "GewusstWie",
+        "label": "MISC",
+        "start": 1310,
+        "end": 1320
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 1359,
+        "end": 1373
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "Open Source Software",
+        "Open-Access-Publikation",
+        "Repositorium Research Collection",
+        "Research Collection"
+      ],
+      "LOCATION": [
+        "Datenmenge",
+        "De Internal/2022/09/neues Feature Fuer"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "GewusstWie",
+        "Handbuch Research Collection",
+        "ownCloud"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "Research Collection": 2,
+      "De Internal/2022/09/neues Feature Fuer": 1,
+      "Open-Access-Publikation": 1,
+      "Repositorium Research Collection": 1,
+      "Open Source Software": 1,
+      "ownCloud": 1,
+      "Datenmenge": 1,
+      "Handbuch Research Collection": 1,
+      "GewusstWie": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2022_09_neues-feature-fuer-die-research-collection-grosse-datenmengen-veroeffentlichen.md",
+      "title": "De Internal/2022/09/neues Feature Fuer die Research Collection Grosse Datenmengen Veroeffentlichen",
+      "language": "de",
+      "source_path": "de_internal/2022/09/neues-feature-fuer-die-research-collection-grosse-datenmengen-veroeffentlichen.html"
+    },
+    "temporal": {
+      "publication_date": "2022-09",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "GewusstWie",
+        "Handbuch Research Collection",
+        "ownCloud"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Nutzen Sie",
+        "Die Infrastruktur",
+        "Research Collection",
+        "Open Source",
+        "Abteilung Informatikdienste",
+        "Ihre Publikation",
+        "Volltexte Open",
+        "Kontaktieren Sie",
+        "Habe Sie",
+        "Grosse Datenmengen",
+        "Handbuch Research",
+        "Vom Know",
+        "Veroeffentlichen Der",
+        "DOI-Vorbezug",
+        "Feature Fuer",
+        "Open-Access",
+        "Repositorium Research",
+        "Ihren Datensatz",
+        "Interessierte Personen",
+        "E-Mail",
+        "Die Research",
+        "De Internal",
+        "Wenn Sie",
+        "Ihrem Ziel"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Open Source Software",
+        "Open-Access-Publikation",
+        "Repositorium Research Collection",
+        "Research Collection"
+      ],
+      "locations": [
+        "Datenmenge",
+        "De Internal/2022/09/neues Feature Fuer"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "Research Collection",
+        "De Internal/2022/09/neues Feature Fuer",
+        "Open-Access-Publikation",
+        "Repositorium Research Collection",
+        "Open Source Software",
+        "ownCloud",
+        "Datenmenge",
+        "Handbuch Research Collection",
+        "GewusstWie"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1505
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Open-Access-Publikation",
+        "EU",
+        "Repositorium Research Collection",
+        "ETH Zürich",
+        "Research Collection",
+        "2022",
+        "Open Source Software"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Bibliothek",
+        "who",
+        "Handbuch Research Collection",
+        "ownCloud",
+        "what",
+        "how",
+        "computer_science",
+        "GewusstWie",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

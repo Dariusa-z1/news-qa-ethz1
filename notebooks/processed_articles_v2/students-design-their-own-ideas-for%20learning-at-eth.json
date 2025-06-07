@@ -1,0 +1,281 @@
+{
+  "filename": "students-design-their-own-ideas-for%20learning-at-eth.md",
+  "original_filename": "students-design-their-own-ideas-for%20learning-at-eth.html",
+  "source_path": "en_internal/2016/06/students-design-their-own-ideas-for%20learning-at-eth.html",
+  "date": "2016-06",
+  "title": "Students Design Their Own Ideas For%20Learning At Eth",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Innovedum Fund, an initiative spearheaded by the ETH Rector, has been advancing faculty teaching innovation at ETH for many years. Now a new “Student Innovedum” project will provide focused support for students who wish to collaboratively develop, test and implement student ideas for enhancing the teaching and learning environment.\n\nInterested students should view the website www.studentinnovedum.ethz.ch , discuss their ideas and register for the kick-off event to be held on October 5 th , 2016. This event will be the official start of the innovation process for students.\n\nAt the kick-off event participants will hear more about the process, be encouraged to take an active part, and be invited to form teams. Through a series of workshops, called “Design Labs”, these teams will then be coached in prototype development in order to bring their ideas to the point of testing.\n\nThe results of their work will be presented at the annual Innovedum event on December 6 th , attended by all persons interested in teaching and learning innovation at ETH, including the Rector.\n\n“I can hardly wait to see the fantastic results of the students,” says Johannes Suter, the VSETH Teaching Commission representative and a member of the Student Innovedum Working Group. “I know that students often have great ideas for developing our learning environment. Now we have the opportunity to make these a reality.”\n\nFor more information please contact Karin Brown, project leader, by telephone (+41 44 633 84 04 or email ( )."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Innovedum Fund",
+        "label": "ORG",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "the ETH Rector",
+        "label": "ORG",
+        "start": 49,
+        "end": 63
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 115,
+        "end": 118
+      },
+      {
+        "text": "many years",
+        "label": "DATE",
+        "start": 123,
+        "end": 133
+      },
+      {
+        "text": "Student Innovedum",
+        "label": "WORK_OF_ART",
+        "start": 146,
+        "end": 163
+      },
+      {
+        "text": "October 5",
+        "label": "DATE",
+        "start": 483,
+        "end": 492
+      },
+      {
+        "text": "Design Labs",
+        "label": "WORK_OF_ART",
+        "start": 758,
+        "end": 769
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 936,
+        "end": 942
+      },
+      {
+        "text": "Innovedum",
+        "label": "PERSON",
+        "start": 943,
+        "end": 952
+      },
+      {
+        "text": "December 6",
+        "label": "DATE",
+        "start": 962,
+        "end": 972
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1052,
+        "end": 1055
+      },
+      {
+        "text": "Johannes Suter",
+        "label": "PERSON",
+        "start": 1150,
+        "end": 1164
+      },
+      {
+        "text": "the Student Innovedum Working Group",
+        "label": "ORG",
+        "start": 1227,
+        "end": 1262
+      },
+      {
+        "text": "Karin Brown",
+        "label": "PERSON",
+        "start": 1440,
+        "end": 1451
+      },
+      {
+        "text": "84 04",
+        "label": "DATE",
+        "start": 1494,
+        "end": 1499
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Innovedum",
+        "Johannes Suter",
+        "Karin Brown"
+      ],
+      "ORG": [
+        "ETH",
+        "The Innovedum Fund",
+        "the ETH Rector",
+        "the Student Innovedum Working Group"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "84 04",
+        "December 6",
+        "October 5",
+        "annual",
+        "many years"
+      ],
+      "MISC": [
+        "Design Labs",
+        "Student Innovedum"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "The Innovedum Fund": 1,
+      "the ETH Rector": 1,
+      "many years": 1,
+      "Student Innovedum": 1,
+      "October 5": 1,
+      "Design Labs": 1,
+      "annual": 1,
+      "Innovedum": 1,
+      "December 6": 1,
+      "Johannes Suter": 1,
+      "the Student Innovedum Working Group": 1,
+      "Karin Brown": 1,
+      "84 04": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "students-design-their-own-ideas-for%20learning-at-eth.md",
+      "title": "En Internal/2016/06/students Design Their Own Ideas For%20learning At Eth",
+      "language": "en",
+      "source_path": "en_internal/2016/06/students-design-their-own-ideas-for%20learning-at-eth.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Innovedum",
+        "Johannes Suter",
+        "Karin Brown"
+      ],
+      "people_with_roles": {
+        "Innovedum": [
+          "student",
+          "head",
+          "rector"
+        ],
+        "Johannes Suter": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "head",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Design Labs",
+        "Student Innovedum"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Innovedum",
+        "Design Their",
+        "Own Ideas",
+        "VSETH Teaching",
+        "Design Labs",
+        "ETH Rector",
+        "Johannes Suter",
+        "En Internal",
+        "Student Innovedum",
+        "Karin Brown",
+        "At Eth",
+        "Working Group"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "The Innovedum Fund",
+        "the ETH Rector",
+        "the Student Innovedum Working Group"
+      ],
+      "locations": [],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "The Innovedum Fund",
+        "the ETH Rector",
+        "many years",
+        "Student Innovedum",
+        "October 5",
+        "Design Labs",
+        "annual",
+        "Innovedum",
+        "December 6"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1592
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the ETH Rector",
+        "the Student Innovedum Working Group",
+        "The Innovedum Fund",
+        "Johannes Suter",
+        "2016",
+        "Karin Brown",
+        "Innovedum"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "Design Labs",
+        "Student Innovedum",
+        "what",
+        "how",
+        "when"
+      ],
+      "graph_relations": [
+        "Innovedum_has_role_student",
+        "Innovedum_has_role_head",
+        "Innovedum_has_role_rector",
+        "Johannes Suter_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

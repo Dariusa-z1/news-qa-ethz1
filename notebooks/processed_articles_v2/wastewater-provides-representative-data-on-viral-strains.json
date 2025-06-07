@@ -1,0 +1,580 @@
+{
+  "filename": "wastewater-provides-representative-data-on-viral-strains.md",
+  "original_filename": "wastewater-provides-representative-data-on-viral-strains.html",
+  "source_path": "en_news_events/2021/06/wastewater-provides-representative-data-on-viral-strains.html",
+  "date": "2021-06",
+  "title": "Wastewater Provides Representative Data On Viral Strains",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH News: Professor Beerenwinkel, what is the status of the coronavirus Delta variant in Switzerland? Niko Beerenwinkel: Fortunately, fewer and fewer people in Switzerland have become infected with the coronavirus in recent weeks. However, the Delta variant makes up an increasing proportion of the viruses in circulation. This is shown by data from colleagues here at the Department of Biosystems Science and Engineering, who have sequenced the viral genome in some of the PCR tests done in Switzerland to determine the viral strain. Wastewater measurements in which we are involved also clearly show this increase. We weren’t able to detect the Delta variant in any samples from Swiss wastewater treatment plants taken before 20 May. At that time, their frequency was below the detection limit. But now in the most recent samples, analysed up until 15 June, we find the Delta variant present in five of six wastewater treatment plants tested. According to our estimates, the variant accounted for 33 percent of all detected coronavirus RNA molecules in Zurich on 15 June, and 48 percent of those in the Bern region (Sensetal). In the other wastewater treatment plants studied, the proportion of the Delta strain was lower.\n\nCan you briefly explain how you determine the virus variants present in the wastewater samples? One of the ways people infected with the coronavirus shed viral RNA is in their stool. In the wastewater samples, we then usually only find RNA fragments that are no longer infectious, and no intact viruses. Colleagues at Eawag and EPFL are currently taking daily wastewater samples at six Swiss wastewater treatment plants and isolating these RNA fragments from them. Colleagues at the Functional Genomics Center Zurich sequence the RNA, which is to say they determine what order the RNA’s building blocks are in. We then use bioinformatics methods to analyse the data, which lets us estimate the frequencies of the different viral strains.\n\nAs you mentioned, in Switzerland, viral variants are also determined in PCR tests. Why do we need the wastewater analyses? Wastewater analyses have two major advantages: First, this data is truly representative of a wastewater treatment plant’s catchment area. In contrast, when examining the viral variants in samples from patients, there is always a risk that the data will be slightly biased, for example because not all individuals are tested. Second, our method is comparatively inexpensive. Sequencing a small number of wastewater samples gives us reliable information on the ratio of the virus’s different variants. To obtain the same accuracy with patient samples, you’d have to sequence a much larger number of samples.\n\nAre there any disadvantages with wastewater measurements? Virus variants are sometimes difficult to distinguish in wastewater, namely when one variant has few characteristic mutations or when several variants share such mutations. It is also difficult to calculate the absolute number of infected individuals from the wastewater measurements because environmental factors such as rainfall affect the concentration of coronavirus RNA molecules in the wastewater. The molecules are highly diluted in the wastewater. If the number of cases now drops even further in summer, then at some point virus detection in wastewater will probably no longer work. However, above a certain level of virus incidence, wastewater measurements are ideal for calculating the ratio of different viral strains at a given point in time and for observing how this ratio changes over time. That’s what we’re most interested in.\n\nWhy is this data interesting? Changes in this ratio let us calculate whether a new variant is more easily transmissible than an older one, and if so, then how much more. Because the wastewater data represents the average over a large number of people, calculations using this data are more accurate and have less uncertainty. That means we can predict at an early stage whether a new variant should be classified as a concern or not.\n\nYou publish your results on your website . The latest available data is from 15 June, which was two weeks ago. Is there some way to do the analysis faster? We and the other scientists involved started this project as a research project. Our aim was to show that these kinds of measurements are possible at all. We’re now aiming to publish the data two weeks after sampling. However, this will work only if all the molecular biological and bioinformatic analyses are error-free and succeed on the first attempt. If, say, the authorities expressed an interest in using these measurements as an early warning system in the future – in other words, to obtain information on emerging variants even more quickly and regularly – then we would have to revisit the infrastructure, which is currently geared to research, and adapt it to this goal. While that’s certainly possible, it’s beyond the scope of our research activities.\n\nNiko Beerenwinkel is Professor of Computational Biology at the Department of Biosystems Science and Engineering at ETH Zurich in Basel. His research at the interface of computer science, statistics and biology includes developing methods for analysing complex DNA and RNA sequencing data from viruses and tumours."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Provides Representative Data",
+        "label": "ORG",
+        "start": 34,
+        "end": 62
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Beerenwinkel",
+        "label": "PERSON",
+        "start": 20,
+        "end": 32
+      },
+      {
+        "text": "Delta",
+        "label": "LOC",
+        "start": 72,
+        "end": 77
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 89,
+        "end": 100
+      },
+      {
+        "text": "Niko Beerenwinkel",
+        "label": "PERSON",
+        "start": 102,
+        "end": 119
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 160,
+        "end": 171
+      },
+      {
+        "text": "recent weeks",
+        "label": "DATE",
+        "start": 217,
+        "end": 229
+      },
+      {
+        "text": "Delta",
+        "label": "LOC",
+        "start": 244,
+        "end": 249
+      },
+      {
+        "text": "the Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 369,
+        "end": 421
+      },
+      {
+        "text": "PCR",
+        "label": "ORG",
+        "start": 474,
+        "end": 477
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 492,
+        "end": 503
+      },
+      {
+        "text": "Delta",
+        "label": "LOC",
+        "start": 647,
+        "end": 652
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 681,
+        "end": 686
+      },
+      {
+        "text": "20 May",
+        "label": "DATE",
+        "start": 728,
+        "end": 734
+      },
+      {
+        "text": "15 June",
+        "label": "DATE",
+        "start": 851,
+        "end": 858
+      },
+      {
+        "text": "Delta",
+        "label": "LOC",
+        "start": 872,
+        "end": 877
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 897,
+        "end": 901
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 905,
+        "end": 908
+      },
+      {
+        "text": "33 percent",
+        "label": "PERCENT",
+        "start": 999,
+        "end": 1009
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1055,
+        "end": 1061
+      },
+      {
+        "text": "15 June",
+        "label": "DATE",
+        "start": 1065,
+        "end": 1072
+      },
+      {
+        "text": "48 percent",
+        "label": "PERCENT",
+        "start": 1078,
+        "end": 1088
+      },
+      {
+        "text": "Sensetal",
+        "label": "ORG",
+        "start": 1118,
+        "end": 1126
+      },
+      {
+        "text": "Delta",
+        "label": "LOC",
+        "start": 1201,
+        "end": 1206
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1321,
+        "end": 1324
+      },
+      {
+        "text": "RNA",
+        "label": "PERSON",
+        "start": 1385,
+        "end": 1388
+      },
+      {
+        "text": "Eawag",
+        "label": "ORG",
+        "start": 1543,
+        "end": 1548
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 1553,
+        "end": 1557
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 1579,
+        "end": 1584
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 1607,
+        "end": 1610
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1611,
+        "end": 1616
+      },
+      {
+        "text": "the Functional Genomics Center Zurich",
+        "label": "ORG",
+        "start": 1704,
+        "end": 1741
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 1806,
+        "end": 1809
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1984,
+        "end": 1995
+      },
+      {
+        "text": "PCR",
+        "label": "ORG",
+        "start": 2035,
+        "end": 2038
+      },
+      {
+        "text": "Wastewater",
+        "label": "ORG",
+        "start": 2086,
+        "end": 2096
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2111,
+        "end": 2114
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 2133,
+        "end": 2138
+      },
+      {
+        "text": "Second",
+        "label": "ORDINAL",
+        "start": 2411,
+        "end": 2417
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 2831,
+        "end": 2834
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 3255,
+        "end": 3261
+      },
+      {
+        "text": "15 June",
+        "label": "DATE",
+        "start": 4106,
+        "end": 4113
+      },
+      {
+        "text": "two weeks ago",
+        "label": "DATE",
+        "start": 4125,
+        "end": 4138
+      },
+      {
+        "text": "two weeks",
+        "label": "DATE",
+        "start": 4377,
+        "end": 4386
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 4525,
+        "end": 4530
+      },
+      {
+        "text": "Niko Beerenwinkel",
+        "label": "PERSON",
+        "start": 4950,
+        "end": 4967
+      },
+      {
+        "text": "Computational Biology",
+        "label": "ORG",
+        "start": 4984,
+        "end": 5005
+      },
+      {
+        "text": "the Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 5009,
+        "end": 5061
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 5065,
+        "end": 5075
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 5079,
+        "end": 5084
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 5218,
+        "end": 5221
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Beerenwinkel",
+        "Niko Beerenwinkel",
+        "RNA"
+      ],
+      "ORG": [
+        "Computational Biology",
+        "EPFL",
+        "ETH News",
+        "Eawag",
+        "PCR",
+        "Provides Representative Data",
+        "RNA",
+        "Sensetal",
+        "Wastewater",
+        "the Department of Biosystems Science and Engineering",
+        "the Functional Genomics Center Zurich"
+      ],
+      "LOCATION": [
+        "Basel",
+        "Delta",
+        "ETH Zurich",
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "15 June",
+        "20 May",
+        "daily",
+        "recent weeks",
+        "summer",
+        "two weeks",
+        "two weeks ago"
+      ],
+      "MISC": [
+        "33 percent",
+        "48 percent",
+        "First",
+        "One",
+        "Second",
+        "Swiss",
+        "first",
+        "five",
+        "one",
+        "six",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Delta": 5,
+      "Switzerland": 4,
+      "15 June": 3,
+      "RNA": 3,
+      "Niko Beerenwinkel": 2,
+      "the Department of Biosystems Science and Engineering": 2,
+      "PCR": 2,
+      "Swiss": 2,
+      "six": 2,
+      "Provides Representative Data": 1,
+      "ETH News": 1,
+      "Beerenwinkel": 1,
+      "recent weeks": 1,
+      "20 May": 1,
+      "five": 1,
+      "33 percent": 1,
+      "Zurich": 1,
+      "48 percent": 1,
+      "Sensetal": 1,
+      "One": 1
+    },
+    "total_entities": 52,
+    "unique_entities": 36
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "wastewater-provides-representative-data-on-viral-strains.md",
+      "title": "En News Events/2021/06/wastewater Provides Representative Data On Viral Strains",
+      "language": "en",
+      "source_path": "en_news_events/2021/06/wastewater-provides-representative-data-on-viral-strains.html"
+    },
+    "temporal": {
+      "publication_date": "2021-06",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Beerenwinkel",
+        "Niko Beerenwinkel",
+        "RNA"
+      ],
+      "people_with_roles": {
+        "Beerenwinkel": [
+          "Professor",
+          "professor"
+        ],
+        "Niko Beerenwinkel": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "33 percent",
+        "48 percent",
+        "First",
+        "Second",
+        "Swiss",
+        "first",
+        "five"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Center Zurich",
+        "Computational Biology",
+        "En News",
+        "Provides Representative",
+        "Data On",
+        "ETH Zurich",
+        "Viral Strains",
+        "ETH News",
+        "Professor Beerenwinkel",
+        "Biosystems Science",
+        "Functional Genomics",
+        "Niko Beerenwinkel"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biosystems Science and Engineering",
+        "Biosystems Science and Engineering at ETH Zurich in Basel"
+      ],
+      "institutions": [
+        "Computational Biology",
+        "EPFL",
+        "ETH News",
+        "Eawag",
+        "PCR",
+        "Provides Representative Data",
+        "RNA",
+        "Sensetal",
+        "Wastewater",
+        "the Department of Biosystems Science and Engineering",
+        "the Functional Genomics Center Zurich"
+      ],
+      "locations": [
+        "Basel",
+        "Delta",
+        "ETH Zurich",
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Delta",
+        "Switzerland",
+        "15 June",
+        "RNA",
+        "Niko Beerenwinkel",
+        "the Department of Biosystems Science and Engineering",
+        "PCR",
+        "Swiss",
+        "six",
+        "Provides Representative Data"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 5349
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Beerenwinkel",
+        "RNA",
+        "Computational Biology",
+        "EPFL",
+        "Provides Representative Data",
+        "Sensetal",
+        "Eawag",
+        "Wastewater",
+        "the Functional Genomics Center Zurich",
+        "PCR",
+        "ETH News",
+        "2021",
+        "the Department of Biosystems Science and Engineering",
+        "ERC",
+        "Niko Beerenwinkel"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "Second",
+        "who",
+        "48 percent",
+        "Swiss",
+        "chemistry",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "five",
+        "First",
+        "why",
+        "when",
+        "engineering",
+        "33 percent"
+      ],
+      "graph_relations": [
+        "Beerenwinkel_has_role_Professor",
+        "Beerenwinkel_has_role_professor",
+        "Niko Beerenwinkel_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

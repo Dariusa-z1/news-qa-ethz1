@@ -1,0 +1,490 @@
+{
+  "filename": "more-eateries-open.md",
+  "original_filename": "more-eateries-open.html",
+  "source_path": "en_internal/2022/01/more-eateries-open.html",
+  "date": "2022-01",
+  "title": "More Eateries Open",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Hönggerberg",
+      "text": "- Food market (internal canteen: ETH card required), with take-away\n\n- Alumni quattro Lounge (Covid certificate – vaccinated or recovered), with take-away\n\n- Rice UP! (Covid certificate – vaccinated or recovered), with take-away\n\n- Fusion meal &amp; coffee (Covid certificate – vaccinated or recovered), with take-away\n\n- Street food: daily food truck and coffee cart, Aess-Bar on two days\n\n- Polysnack (Covid certificate – vaccinated or recovered), with take-away\n\n- Clausiusbar/Kiosk CLA (Covid certificate – vaccinated or recovered), with take-away\n\n- Einstein/Zweistein (Covid certificate – vaccinated or recovered), with take-away\n\n- CaféBar in main building (take-away)\n\n- Food trailer/Kiosk ETZ, with take-away\n\n- Street food: daily food truck and coffee cart, Aess-Bar on two days\n\nThe pandemic poses great challenges for the catering businesses at ETH. As a result of the reintroduced work from home requirements and the semester break, the number of visitors has decreased significantly and led to a reduction in the range of catering options."
+    },
+    {
+      "heading": "Hönggerberg",
+      "text": "Session examinations at ETH start today, Monday, 24 January. With caterers anticipating additional demand as a result, the food market on the Hönggerberg campus is reopening as an internal canteen. This means it will be available for use by all ETH members, but not by external guests, as an ETH card must be presented for admission. Covid certificates are not required.\n\nGuests without an ETH card can eat at the following locations on presentation of a Covid certificate (vaccinated or recovered): Fusion meal & coffee, Alumni quattro Lounge and Rice UP! All these locations also offer a take-away option, and at least one food truck also stops daily on the Hönggerberg campus."
+    },
+    {
+      "heading": "Zentrum",
+      "text": "On the Zentrum campus, Polysnack reopened a week ago with a Covid certificate requirement (vaccinated or recovered) in addition to Clausiusbar and Einstein/Zweistein, which also operate based on the same certificate requirement. Guests without the required certificate can purchase food to take away. Catering alternatives are also available at the CaféBar in the main building and from at least one daily food truck. Another option is the food trailer, now with an additional kiosk in the ETZ building on the Gloriarank site. On 31 January, the Polyterrasse canteen, which is currently still under renovation, will reopen its doors as an internal canteen."
+    },
+    {
+      "heading": "Looking ahead",
+      "text": "The caterers are considering the prospect of further reopenings for the start of the spring semester, depending primarily on how the pandemic develops. If work from home requirements are cancelled, caterers at both locations will be able to react quickly and open up more locations. Any related changes will be communicated on Internal news.\n\nA continuously updated overview of all open eateries can be found on the website Offer Gastronomy & Retail Trade from 24 January 2022 | ETH Zurich ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Lounge",
+        "label": "PERSON",
+        "start": 85,
+        "end": 91
+      },
+      {
+        "text": "Covid",
+        "label": "PERSON",
+        "start": 93,
+        "end": 98
+      },
+      {
+        "text": "Covid",
+        "label": "PERSON",
+        "start": 166,
+        "end": 171
+      },
+      {
+        "text": "Covid",
+        "label": "PERSON",
+        "start": 255,
+        "end": 260
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 331,
+        "end": 336
+      },
+      {
+        "text": "Aess-Bar",
+        "label": "ORG",
+        "start": 365,
+        "end": 373
+      },
+      {
+        "text": "two days - Polysnack",
+        "label": "DATE",
+        "start": 377,
+        "end": 397
+      },
+      {
+        "text": "Covid",
+        "label": "PERSON",
+        "start": 399,
+        "end": 404
+      },
+      {
+        "text": "Covid",
+        "label": "PERSON",
+        "start": 485,
+        "end": 490
+      },
+      {
+        "text": "Covid",
+        "label": "PERSON",
+        "start": 568,
+        "end": 573
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 724,
+        "end": 729
+      },
+      {
+        "text": "Aess-Bar",
+        "label": "ORG",
+        "start": 758,
+        "end": 766
+      },
+      {
+        "text": "two days",
+        "label": "DATE",
+        "start": 770,
+        "end": 778
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 846,
+        "end": 849
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 24,
+        "end": 27
+      },
+      {
+        "text": "today, Monday",
+        "label": "DATE",
+        "start": 34,
+        "end": 47
+      },
+      {
+        "text": "24 January",
+        "label": "DATE",
+        "start": 49,
+        "end": 59
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 142,
+        "end": 153
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 245,
+        "end": 248
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 292,
+        "end": 295
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 389,
+        "end": 392
+      },
+      {
+        "text": "Covid",
+        "label": "PERSON",
+        "start": 454,
+        "end": 459
+      },
+      {
+        "text": "Fusion meal & coffee",
+        "label": "ORG",
+        "start": 499,
+        "end": 519
+      },
+      {
+        "text": "Lounge",
+        "label": "PERSON",
+        "start": 536,
+        "end": 542
+      },
+      {
+        "text": "Rice",
+        "label": "PERSON",
+        "start": 547,
+        "end": 551
+      },
+      {
+        "text": "at least one",
+        "label": "CARDINAL",
+        "start": 611,
+        "end": 623
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 646,
+        "end": 651
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 659,
+        "end": 670
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 7,
+        "end": 14
+      },
+      {
+        "text": "Polysnack",
+        "label": "ORG",
+        "start": 23,
+        "end": 32
+      },
+      {
+        "text": "a week ago",
+        "label": "DATE",
+        "start": 42,
+        "end": 52
+      },
+      {
+        "text": "Covid",
+        "label": "NORP",
+        "start": 60,
+        "end": 65
+      },
+      {
+        "text": "Clausiusbar",
+        "label": "GPE",
+        "start": 131,
+        "end": 142
+      },
+      {
+        "text": "CaféBar",
+        "label": "ORG",
+        "start": 349,
+        "end": 356
+      },
+      {
+        "text": "at least one",
+        "label": "CARDINAL",
+        "start": 387,
+        "end": 399
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 400,
+        "end": 405
+      },
+      {
+        "text": "ETZ",
+        "label": "ORG",
+        "start": 490,
+        "end": 493
+      },
+      {
+        "text": "31 January",
+        "label": "DATE",
+        "start": 530,
+        "end": 540
+      },
+      {
+        "text": "the start of the spring semester",
+        "label": "DATE",
+        "start": 68,
+        "end": 100
+      },
+      {
+        "text": "Internal",
+        "label": "ORG",
+        "start": 327,
+        "end": 335
+      },
+      {
+        "text": "Offer Gastronomy & Retail Trade",
+        "label": "ORG",
+        "start": 423,
+        "end": 454
+      },
+      {
+        "text": "24 January 2022",
+        "label": "DATE",
+        "start": 460,
+        "end": 475
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 478,
+        "end": 488
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Covid",
+        "ETH Zurich",
+        "Hönggerberg",
+        "Lounge",
+        "Rice",
+        "Zentrum"
+      ],
+      "ORG": [
+        "Aess-Bar",
+        "CaféBar",
+        "ETH",
+        "ETZ",
+        "Fusion meal & coffee",
+        "Internal",
+        "Offer Gastronomy & Retail Trade",
+        "Polysnack"
+      ],
+      "LOCATION": [
+        "Clausiusbar"
+      ],
+      "DATE": [
+        "24 January",
+        "24 January 2022",
+        "31 January",
+        "a week ago",
+        "daily",
+        "the start of the spring semester",
+        "today, Monday",
+        "two days",
+        "two days - Polysnack"
+      ],
+      "MISC": [
+        "Covid",
+        "at least one"
+      ]
+    },
+    "entity_counts": {
+      "Covid": 8,
+      "ETH": 5,
+      "daily": 4,
+      "Lounge": 2,
+      "Aess-Bar": 2,
+      "Hönggerberg": 2,
+      "at least one": 2,
+      "two days - Polysnack": 1,
+      "two days": 1,
+      "today, Monday": 1,
+      "24 January": 1,
+      "Fusion meal & coffee": 1,
+      "Rice": 1,
+      "Zentrum": 1,
+      "Polysnack": 1,
+      "a week ago": 1,
+      "Clausiusbar": 1,
+      "CaféBar": 1,
+      "ETZ": 1,
+      "31 January": 1
+    },
+    "total_entities": 43,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "more-eateries-open.md",
+      "title": "En Internal/2022/01/more Eateries Open",
+      "language": "en",
+      "source_path": "en_internal/2022/01/more-eateries-open.html"
+    },
+    "temporal": {
+      "publication_date": "2022-01",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Covid",
+        "ETH Zurich",
+        "Hönggerberg",
+        "Lounge",
+        "Rice",
+        "Zentrum"
+      ],
+      "people_with_roles": {
+        "Covid": [
+          "alumni"
+        ],
+        "Lounge": [
+          "alumni"
+        ],
+        "Rice": [
+          "alumni"
+        ]
+      },
+      "institutional_roles": [
+        "alumni"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Covid",
+        "at least one"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Eateries Open",
+        "Offer Gastronomy",
+        "Kiosk ETZ",
+        "Retail Trade",
+        "Kiosk CLA",
+        "En Internal",
+        "Rice UP",
+        "ETH Zurich",
+        "Aess-Bar"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Aess-Bar",
+        "CaféBar",
+        "ETH",
+        "ETZ",
+        "Fusion meal & coffee",
+        "Internal",
+        "Offer Gastronomy & Retail Trade",
+        "Polysnack"
+      ],
+      "locations": [
+        "Clausiusbar"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Covid",
+        "ETH",
+        "daily",
+        "Lounge",
+        "Aess-Bar",
+        "Hönggerberg",
+        "at least one",
+        "two days - Polysnack",
+        "two days",
+        "today, Monday"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Hönggerberg",
+          "Hönggerberg",
+          "Zentrum",
+          "Looking ahead"
+        ],
+        "content_length": 2921
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "ETH",
+        "Internal",
+        "ETZ",
+        "Offer Gastronomy & Retail Trade",
+        "Fusion meal & coffee",
+        "Rice",
+        "Lounge",
+        "ETH Zurich",
+        "Zentrum",
+        "2022",
+        "Polysnack",
+        "Covid",
+        "CaféBar",
+        "Aess-Bar"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "at least one",
+        "how",
+        "Covid",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Covid_has_role_alumni",
+        "Lounge_has_role_alumni",
+        "Rice_has_role_alumni",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

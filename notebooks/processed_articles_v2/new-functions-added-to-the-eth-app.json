@@ -1,0 +1,173 @@
+{
+  "filename": "new-functions-added-to-the-eth-app.md",
+  "original_filename": "new-functions-added-to-the-eth-app.html",
+  "source_path": "en_internal/2015/06/new-functions-added-to-the-eth-app.html",
+  "date": "2015-06",
+  "title": "New Functions Added To The Eth App",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Read ETH News on your mobile device, find the right building, or compare what’s on the menu in the various cafeterias... Do all this and more using the official ETH app. The latest update adds a few important functions.\n\nAs of version 3.0, users can now:\n\nThese updates extend the existing functions, which include:\n\nThe ETH app was programmed by Ubique, an agency founded and managed by graduates of ETH Zurich, working in cooperation with Corporate Communications and supported by IT Services."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 161,
+        "end": 164
+      },
+      {
+        "text": "3.0",
+        "label": "CARDINAL",
+        "start": 234,
+        "end": 237
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 318,
+        "end": 321
+      },
+      {
+        "text": "Ubique",
+        "label": "GPE",
+        "start": 344,
+        "end": 350
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 398,
+        "end": 408
+      },
+      {
+        "text": "Corporate Communications",
+        "label": "ORG",
+        "start": 438,
+        "end": 462
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "Corporate Communications",
+        "ETH"
+      ],
+      "LOCATION": [
+        "Ubique"
+      ],
+      "DATE": [],
+      "MISC": [
+        "3.0"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "3.0": 1,
+      "Ubique": 1,
+      "ETH Zurich": 1,
+      "Corporate Communications": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-functions-added-to-the-eth-app.md",
+      "title": "En Internal/2015/06/new Functions Added To The Eth App",
+      "language": "en",
+      "source_path": "en_internal/2015/06/new-functions-added-to-the-eth-app.html"
+    },
+    "temporal": {
+      "publication_date": "2015-06",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "graduate"
+        ]
+      },
+      "institutional_roles": [
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Functions Added",
+        "Corporate Communications",
+        "The ETH",
+        "Eth App",
+        "IT Services",
+        "En Internal",
+        "To The",
+        "ETH Zurich",
+        "Read ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Corporate Communications",
+        "ETH"
+      ],
+      "locations": [
+        "Ubique"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "ETH",
+        "3.0",
+        "Ubique",
+        "ETH Zurich",
+        "Corporate Communications"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 550
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "ETH",
+        "2015",
+        "Corporate Communications"
+      ],
+      "semantic_concepts": [
+        "when",
+        "what"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_graduate"
+      ]
+    }
+  }
+}

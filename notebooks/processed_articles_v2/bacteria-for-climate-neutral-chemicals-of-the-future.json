@@ -1,0 +1,563 @@
+{
+  "filename": "bacteria-for-climate-neutral-chemicals-of-the-future.md",
+  "original_filename": "bacteria-for-climate-neutral-chemicals-of-the-future.html",
+  "source_path": "en_news_events/2024/04/bacteria-for-climate-neutral-chemicals-of-the-future.html",
+  "date": "2024-04",
+  "title": "Bacteria For Climate Neutral Chemicals Of The Future",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- Methanol can be synthesised from carbon dioxide and water using renewable energy.\n\n- When this green methanol is metabolised by specialised bacteria, a variety of chemical substances can be biotechnologically produced.\n\n- The application of these bacteria could allow the chemical industry to convert the greenhouse gas carbon dioxide into valuable climate-neutral chemicals, and substantially reduce its ecological footprint."
+    },
+    {
+      "heading": "Green methanol",
+      "text": "To produce various chemicals such as plastics, dyes or artificial flavours, the chemical industry currently relies heavily on fossil resources such as crude oil. “Globally, it consumes 500 million tons per year, or more than one million tons per day,” says Julia Vorholt, Professor at the Institute of Microbiology at ETH Zurich. “Since these chemical conversions are energy-intensive, the true CO 2 footprint of the chemical industry is even six to ten times larger, amounting to about five percent of total emissions globally.” She and her team are looking for ways to reduce the chemical industry's dependence on fossil fuels."
+    },
+    {
+      "heading": "Green methanol",
+      "text": "Bacteria that feed on methanol, known as methylotrophs, are at the centre of these efforts. Containing just a single carbon atom, methanol is one of the simplest organic molecules and can be synthesised from the greenhouse gas carbon dioxide and water. If the energy for this synthesis reaction comes from renewable sources, the methanol is termed “green”.\n\n“There are natural methylotrophs, but using them industrially remains difficult despite considerable research effort,” says Michael Reiter, a postdoctoral researcher in Vorholt’s research group, which instead works with the biotechnologically well-understood model bacterium Escherichia coli . Vorholt’s team has been pursuing the idea of equipping the model bacterium, which grows on sugar, with the ability to metabolise methanol for several years."
+    },
+    {
+      "heading": "Complete restructuring of metabolism",
+      "text": "“This is a major challenge because it requires a complete restructuring of the cell’s metabolism,” says Vorholt. Initially, the researchers simulated this change using computer models. Based on these simulations, they chose two genes to remove and three new genes to introduce. “As a result, the bacteria could take up methanol, albeit only in small quantities,” says Reiter.\n\nThey continued to grow the bacteria under special conditions in the laboratory for more than a year until the microbes could produce all cell components from methanol. Over the course of around 1,000 more generations, these synthetic methylotrophs became increasingly efficient, eventually doubling every four hours when fed only with methanol. “The improved growth rate makes the bacteria economically interesting,” says Vorholt."
+    },
+    {
+      "heading": "Optimisation through loss of function",
+      "text": "As Vorholt’s team describes in their recently published paper , several randomly occurring mutations are responsible for the increased efficiency of methanol utilisation. Most of these mutations resulted in the loss of function of various genes. This is surprising at first glance, but upon closer inspection, it becomes apparent that the cells can save energy thanks to the loss of function of the genes. For example, some mutations cause the reverse reactions of important biochemical reactions to fail. “This abolishes superfluous chemical conversions and optimises the metabolic flux in the cells,” the researchers write."
+    },
+    {
+      "heading": "Reference",
+      "text": "To explore the potential of synthetic methylotrophs for the biotechnological production of industrially relevant bulk chemicals, Vorholt and her team have equipped the bacteria with additional genes for four different biosynthetic pathways. In their study, they now show that the bacteria indeed produced the desired compounds in all cases.\n\nFor the researchers, this is clear evidence that their engineered bacteria can deliver on what was originally promised: the microbes are a kind of highly versatile production platform into which biosynthesis modules can be inserted according to the “plug-and-play” principle, prompting the bacteria to convert methanol into desired biochemical substances.\n\nHowever, the researchers still need to significantly increase the yield and productivity to enable economically viable use of the bacteria. Vorholt and her team recently received an innovation fund “to further expand plans towards applications and to select products to focus on first,” says Vorholt.\n\nWhen Reiter talks about how the cultivation of bacteria in bioreactors can be optimised, he is filled with enthusiasm. “Given the challenges of climate change, it is clear that alternatives to fossil resources are needed,” he says. “We are developing a technology that does not emit additional CO 2 into the atmosphere,” says Reiter. And since the synthetic methylotrophs, besides green methanol, do not require any additional carbon sources for their growth and products, they allow “renewable chemicals to be produced that do not burden the environment.”\n\nReiter MA, Bradley T, Büchel LA, Keller P, Hegedis E, Gassler T, Vorholt JA: A synthetic methylotrophic Escherichia coli as a chassis for bioproduction from methanol. Nature Catalysis, 23 April 2024, doi: 10.1038/s41929-024-01137-0"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Climate Neutral Chemicals Of The Future",
+        "label": "ORG",
+        "start": 36,
+        "end": 75
+      },
+      {
+        "text": "500 million tons",
+        "label": "QUANTITY",
+        "start": 185,
+        "end": 201
+      },
+      {
+        "text": "more than one million",
+        "label": "CARDINAL",
+        "start": 215,
+        "end": 236
+      },
+      {
+        "text": "Julia Vorholt",
+        "label": "PERSON",
+        "start": 257,
+        "end": 270
+      },
+      {
+        "text": "the Institute of Microbiology",
+        "label": "ORG",
+        "start": 285,
+        "end": 314
+      },
+      {
+        "text": "CO 2",
+        "label": "PRODUCT",
+        "start": 395,
+        "end": 399
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 443,
+        "end": 446
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 450,
+        "end": 453
+      },
+      {
+        "text": "about five percent",
+        "label": "PERCENT",
+        "start": 481,
+        "end": 499
+      },
+      {
+        "text": "methanol",
+        "label": "ORG",
+        "start": 130,
+        "end": 138
+      },
+      {
+        "text": "Michael Reiter",
+        "label": "PERSON",
+        "start": 481,
+        "end": 495
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 526,
+        "end": 533
+      },
+      {
+        "text": "Escherichia",
+        "label": "NORP",
+        "start": 632,
+        "end": 643
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 651,
+        "end": 658
+      },
+      {
+        "text": "several years",
+        "label": "DATE",
+        "start": 793,
+        "end": 806
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 104,
+        "end": 111
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 224,
+        "end": 227
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 248,
+        "end": 253
+      },
+      {
+        "text": "Reiter",
+        "label": "PERSON",
+        "start": 368,
+        "end": 374
+      },
+      {
+        "text": "more than a year",
+        "label": "DATE",
+        "start": 459,
+        "end": 475
+      },
+      {
+        "text": "around 1,000",
+        "label": "CARDINAL",
+        "start": 563,
+        "end": 575
+      },
+      {
+        "text": "every four hours",
+        "label": "TIME",
+        "start": 675,
+        "end": 691
+      },
+      {
+        "text": "fed",
+        "label": "ORG",
+        "start": 697,
+        "end": 700
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 798,
+        "end": 805
+      },
+      {
+        "text": "Vorholt",
+        "label": "ORG",
+        "start": 3,
+        "end": 10
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 268,
+        "end": 273
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 129,
+        "end": 136
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 203,
+        "end": 207
+      },
+      {
+        "text": "convert methanol",
+        "label": "PERSON",
+        "start": 643,
+        "end": 659
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 837,
+        "end": 844
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 976,
+        "end": 981
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 989,
+        "end": 996
+      },
+      {
+        "text": "Reiter",
+        "label": "PERSON",
+        "start": 1003,
+        "end": 1009
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 1292,
+        "end": 1296
+      },
+      {
+        "text": "Reiter",
+        "label": "PERSON",
+        "start": 1324,
+        "end": 1330
+      },
+      {
+        "text": "MA",
+        "label": "PERSON",
+        "start": 1562,
+        "end": 1564
+      },
+      {
+        "text": "Bradley T",
+        "label": "ORG",
+        "start": 1566,
+        "end": 1575
+      },
+      {
+        "text": "Büchel LA",
+        "label": "PERSON",
+        "start": 1577,
+        "end": 1586
+      },
+      {
+        "text": "Keller P",
+        "label": "PERSON",
+        "start": 1588,
+        "end": 1596
+      },
+      {
+        "text": "Hegedis E",
+        "label": "PERSON",
+        "start": 1598,
+        "end": 1607
+      },
+      {
+        "text": "Escherichia",
+        "label": "NORP",
+        "start": 1659,
+        "end": 1670
+      },
+      {
+        "text": "Nature Catalysis",
+        "label": "ORG",
+        "start": 1722,
+        "end": 1738
+      },
+      {
+        "text": "23 April 2024",
+        "label": "DATE",
+        "start": 1740,
+        "end": 1753
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1760,
+        "end": 1767
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Büchel LA",
+        "Hegedis E",
+        "Julia Vorholt",
+        "Keller P",
+        "MA",
+        "Michael Reiter",
+        "Reiter",
+        "convert methanol"
+      ],
+      "ORG": [
+        "Bradley T",
+        "CO 2",
+        "Climate Neutral Chemicals Of The Future",
+        "Nature Catalysis",
+        "Vorholt",
+        "fed",
+        "methanol",
+        "the Institute of Microbiology"
+      ],
+      "LOCATION": [
+        "Vorholt"
+      ],
+      "DATE": [
+        "23 April 2024",
+        "every four hours",
+        "more than a year",
+        "several years"
+      ],
+      "MISC": [
+        "10.1038",
+        "500 million tons",
+        "CO 2",
+        "Escherichia",
+        "about five percent",
+        "around 1,000",
+        "first",
+        "four",
+        "more than one million",
+        "six",
+        "ten",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Vorholt": 8,
+      "Reiter": 3,
+      "CO 2": 2,
+      "Escherichia": 2,
+      "first": 2,
+      "Climate Neutral Chemicals Of The Future": 1,
+      "500 million tons": 1,
+      "more than one million": 1,
+      "Julia Vorholt": 1,
+      "the Institute of Microbiology": 1,
+      "six": 1,
+      "ten": 1,
+      "about five percent": 1,
+      "methanol": 1,
+      "Michael Reiter": 1,
+      "several years": 1,
+      "two": 1,
+      "three": 1,
+      "more than a year": 1,
+      "around 1,000": 1
+    },
+    "total_entities": 44,
+    "unique_entities": 32
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "bacteria-for-climate-neutral-chemicals-of-the-future.md",
+      "title": "En News Events/2024/04/bacteria For Climate Neutral Chemicals Of The Future",
+      "language": "en",
+      "source_path": "en_news_events/2024/04/bacteria-for-climate-neutral-chemicals-of-the-future.html"
+    },
+    "temporal": {
+      "publication_date": "2024-04",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Büchel LA",
+        "Hegedis E",
+        "Julia Vorholt",
+        "Keller P",
+        "MA",
+        "Michael Reiter",
+        "Reiter",
+        "convert methanol"
+      ],
+      "people_with_roles": {
+        "Julia Vorholt": [
+          "professor"
+        ],
+        "MA": [
+          "researcher"
+        ],
+        "Michael Reiter": [
+          "researcher"
+        ],
+        "Reiter": [
+          "researcher"
+        ],
+        "convert methanol": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "500 million tons",
+        "CO 2",
+        "Escherichia",
+        "about five percent",
+        "around 1,000",
+        "first",
+        "four",
+        "more than one million",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "En News",
+        "When Reiter",
+        "Nature Catalysis",
+        "As Vorholt",
+        "Vorholt JA",
+        "Neutral Chemicals",
+        "Reiter MA",
+        "Keller P",
+        "Julia Vorholt",
+        "Gassler T",
+        "For Climate",
+        "Bradley T",
+        "Of The",
+        "Hegedis E",
+        "ETH Zurich",
+        "Michael Reiter"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bradley T",
+        "CO 2",
+        "Climate Neutral Chemicals Of The Future",
+        "Nature Catalysis",
+        "Vorholt",
+        "fed",
+        "methanol",
+        "the Institute of Microbiology"
+      ],
+      "locations": [
+        "Vorholt"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Vorholt",
+        "Reiter",
+        "CO 2",
+        "Escherichia",
+        "first",
+        "Climate Neutral Chemicals Of The Future",
+        "500 million tons",
+        "more than one million",
+        "Julia Vorholt",
+        "the Institute of Microbiology"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "In brief",
+          "Green methanol",
+          "Green methanol",
+          "Complete restructuring of metabolism",
+          "Optimisation through loss of function",
+          "Reference"
+        ],
+        "content_length": 5168
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Julia Vorholt",
+        "ERC",
+        "Nature Catalysis",
+        "Reiter",
+        "Vorholt",
+        "the Institute of Microbiology",
+        "Büchel LA",
+        "methanol",
+        "EU",
+        "fed",
+        "CO 2",
+        "2024",
+        "Climate Neutral Chemicals Of The Future",
+        "convert methanol",
+        "MA",
+        "Keller P",
+        "Bradley T",
+        "Hegedis E",
+        "Michael Reiter"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "500 million tons",
+        "three",
+        "four",
+        "who",
+        "around 1,000",
+        "10.1038",
+        "chemistry",
+        "about five percent",
+        "when",
+        "what",
+        "how",
+        "more than one million",
+        "climate_change",
+        "Escherichia",
+        "CO 2"
+      ],
+      "graph_relations": [
+        "Julia Vorholt_has_role_professor",
+        "MA_has_role_researcher",
+        "Michael Reiter_has_role_researcher",
+        "Reiter_has_role_researcher",
+        "convert methanol_has_role_researcher",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

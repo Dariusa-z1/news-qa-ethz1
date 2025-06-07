@@ -1,0 +1,136 @@
+{
+  "filename": "and-the-winner-is-ideenwettbewerbe-der-eth-bibliothek.md",
+  "original_filename": "and-the-winner-is-ideenwettbewerbe-der-eth-bibliothek.html",
+  "source_path": "de_internal/2019/03/and-the-winner-is-ideenwettbewerbe-der-eth-bibliothek.html",
+  "date": "2019-03",
+  "title": "And The Winner Is Ideenwettbewerbe Der Eth Bibliothek",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die ETH-Bibliothek hat im Rahmen einer Open-Innovation-Kampagne zwischen Oktober 2018 und März 2019 vier verschiedene Ideenwettbewerbe durchgeführt. Für die zahlreichen Eingaben, Kommentare und Likes möchten wir uns ganz herzlich bei allen Teilnehmenden bedanken!\n\nNun stehen die Gewinnerideen fest und können unter www.library.ethz.ch/ideen eingesehen werden.\n\nIn einem nächsten Schritt prüfen wir die Ideen auf ihre Umsetzbarkeit, wobei die Ideengeberinnen und -geber nach Wunsch einbezogen werden."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/03/and The Winner Is Ideenwettbewerbe",
+        "label": "LOC",
+        "start": 0,
+        "end": 54
+      },
+      {
+        "text": "Eth Bibliothek",
+        "label": "LOC",
+        "start": 59,
+        "end": 73
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 4,
+        "end": 18
+      },
+      {
+        "text": "Open-Innovation-Kampagne",
+        "label": "LOC",
+        "start": 39,
+        "end": 63
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2019/03/and The Winner Is Ideenwettbewerbe",
+        "Eth Bibliothek",
+        "Open-Innovation-Kampagne"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2019/03/and The Winner Is Ideenwettbewerbe": 1,
+      "Eth Bibliothek": 1,
+      "ETH-Bibliothek": 1,
+      "Open-Innovation-Kampagne": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "and-the-winner-is-ideenwettbewerbe-der-eth-bibliothek.md",
+      "title": "De Internal/2019/03/and The Winner Is Ideenwettbewerbe der Eth Bibliothek",
+      "language": "de",
+      "source_path": "de_internal/2019/03/and-the-winner-is-ideenwettbewerbe-der-eth-bibliothek.html"
+    },
+    "temporal": {
+      "publication_date": "2019-03",
+      "mentioned_years": [
+        "2018",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Is Ideenwettbewerbe",
+        "De Internal",
+        "The Winner",
+        "Die ETH",
+        "Open-Innovation",
+        "Eth Bibliothek"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2019/03/and The Winner Is Ideenwettbewerbe",
+        "Eth Bibliothek",
+        "Open-Innovation-Kampagne"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2019/03/and The Winner Is Ideenwettbewerbe",
+        "Eth Bibliothek",
+        "ETH-Bibliothek",
+        "Open-Innovation-Kampagne"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 574
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "2019"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek"
+      ],
+      "graph_relations": []
+    }
+  }
+}

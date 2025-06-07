@@ -1,0 +1,192 @@
+{
+  "filename": "avethnews-2015-published.md",
+  "original_filename": "avethnews-2015-published.html",
+  "source_path": "en_internal/2015/02/avethnews-2015-published.html",
+  "date": "2015-02",
+  "title": "Avethnews 2015 Published",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "At the beginning of each year, AVETH (Academic Association of Scientific Staff at ETH Zurich) issues the AVETH, the annual report of AVETH. Here, AVETH informs on the activities and events of the past year and provides and outlook for the new year.\n\nApart from the introduction of the various working group of AVETH, also the department associations are presented. The department associations are the organizations of scientific staff on department level and provide valuable work by creating networks within the scientific staff as well as doing the representation in the political processes.\n\nApart from the printed version, which was send to all members of the scientific staff of ETH, the AVETHnews are also electronically available through the website of AVETH ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the beginning of each year",
+        "label": "DATE",
+        "start": 3,
+        "end": 29
+      },
+      {
+        "text": "AVETH (Academic Association of Scientific Staff",
+        "label": "ORG",
+        "start": 31,
+        "end": 78
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 82,
+        "end": 92
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 116,
+        "end": 122
+      },
+      {
+        "text": "the past year",
+        "label": "DATE",
+        "start": 192,
+        "end": 205
+      },
+      {
+        "text": "the new year",
+        "label": "DATE",
+        "start": 235,
+        "end": 247
+      },
+      {
+        "text": "AVETH",
+        "label": "ORG",
+        "start": 309,
+        "end": 314
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 682,
+        "end": 685
+      },
+      {
+        "text": "AVETHnews",
+        "label": "ORG",
+        "start": 691,
+        "end": 700
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "AVETH",
+        "AVETH (Academic Association of Scientific Staff",
+        "AVETHnews",
+        "ETH",
+        "ETH Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "annual",
+        "the beginning of each year",
+        "the new year",
+        "the past year"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "the beginning of each year": 1,
+      "AVETH (Academic Association of Scientific Staff": 1,
+      "ETH Zurich": 1,
+      "annual": 1,
+      "the past year": 1,
+      "the new year": 1,
+      "AVETH": 1,
+      "ETH": 1,
+      "AVETHnews": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "avethnews-2015-published.md",
+      "title": "En Internal/2015/02/avethnews 2015 Published",
+      "language": "en",
+      "source_path": "en_internal/2015/02/avethnews-2015-published.html"
+    },
+    "temporal": {
+      "publication_date": "2015-02",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Academic Association",
+        "Published At",
+        "En Internal",
+        "ETH Zurich",
+        "Scientific Staff"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AVETH",
+        "AVETH (Academic Association of Scientific Staff",
+        "AVETHnews",
+        "ETH",
+        "ETH Zurich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "the beginning of each year",
+        "AVETH (Academic Association of Scientific Staff",
+        "ETH Zurich",
+        "annual",
+        "the past year",
+        "the new year",
+        "AVETH",
+        "ETH",
+        "AVETHnews"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 812
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "AVETH (Academic Association of Scientific Staff",
+        "ETH",
+        "2015",
+        "AVETHnews",
+        "ETH Zurich",
+        "AVETH"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "how"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

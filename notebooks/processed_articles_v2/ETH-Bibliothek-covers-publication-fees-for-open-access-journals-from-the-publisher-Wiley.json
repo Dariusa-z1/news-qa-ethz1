@@ -1,0 +1,128 @@
+{
+  "filename": "ETH-Bibliothek-covers-publication-fees-for-open-access-journals-from-the-publisher-Wiley.md",
+  "original_filename": "ETH-Bibliothek-covers-publication-fees-for-open-access-journals-from-the-publisher-Wiley.html",
+  "source_path": "en_internal/2016/09/ETH-Bibliothek-covers-publication-fees-for-open-access-journals-from-the-publisher-Wiley.html",
+  "date": "2016-09",
+  "title": "Eth Bibliothek Covers Publication Fees For Open Access Journals From The Publisher Wiley",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The condition is that the corresponding author of the article concerned is employed by ETH Zurich. Only charges for pure open-access journals will be covered.\n\nWhen submitting the manuscript via the online form for the specific Wiley Open Access Journal choose ETH Zurich as institution from the drop-down menu.\n\nFor questions regarding the new arrangement, please contact the"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 87,
+        "end": 97
+      },
+      {
+        "text": "Wiley Open Access Journal",
+        "label": "ORG",
+        "start": 227,
+        "end": 252
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 260,
+        "end": 270
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "Wiley Open Access Journal"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Wiley Open Access Journal": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ETH-Bibliothek-covers-publication-fees-for-open-access-journals-from-the-publisher-Wiley.md",
+      "title": "En Internal/2016/09/eth Bibliothek Covers Publication Fees For Open Access Journals From The Publisher Wiley",
+      "language": "en",
+      "source_path": "en_internal/2016/09/ETH-Bibliothek-covers-publication-fees-for-open-access-journals-from-the-publisher-Wiley.html"
+    },
+    "temporal": {
+      "publication_date": "2016-09",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "For Open",
+        "Access Journal",
+        "Publisher Wiley",
+        "From The",
+        "Bibliothek Covers",
+        "En Internal",
+        "ETH Zurich",
+        "Publication Fees",
+        "Wiley Open",
+        "Access Journals"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Wiley Open Access Journal"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Wiley Open Access Journal"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 485
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "2016",
+        "Wiley Open Access Journal"
+      ],
+      "semantic_concepts": [
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

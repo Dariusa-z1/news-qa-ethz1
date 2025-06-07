@@ -1,0 +1,437 @@
+{
+  "filename": "on-the-trail-of-the-virus.md",
+  "original_filename": "on-the-trail-of-the-virus.html",
+  "source_path": "en_news_events/2020/03/on-the-trail-of-the-virus.html",
+  "date": "2020-03",
+  "title": "On The Trail Of The Virus",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Understanding how the virus spreads",
+      "text": "So far, more than 3,500 respondents have taken part. (Image: BMI)\n\nHow quickly is coronavirus spreading in Switzerland? In which localities or regions is there an above-average rate of new infections? Where is the infection curve flattening, where is it growing? The answers to these questions currently come largely from coronavirus tests, which show how many people in Switzerland have tested positive for the virus.\n\nYet many people have very mild symptoms, or none at all, and they are not captured by the tests. Biomedical informatics specialists at ETH Zurich have now developed a monitoring system that every resident of Switzerland can participate in – even those with mild or no symptoms."
+    },
+    {
+      "heading": "Understanding how the virus spreads",
+      "text": "“Our goal is to better understand and to more quickly detect how coronavirus is spreading through the Swiss population,” says Gunnar Rätsch, Professor for Biomedical Informatics at ETH Zurich and University Hospital Zurich. “We also want to include anyone who cannot take a test and who does not need to go to hospital.”\n\nThe monitoring system is based on an online survey that can be completed in just a few minutes. Participants can indicate whether they have experienced symptoms, and what kind. The survey includes questions on health condition, relevant pre-existing conditions, typical symptoms of COVID-19 and their duration, and the home situation – whether respondents are going to work or self-isolating.\n\nNo personal data is recorded, only statistical values such as gender, age and size of household, and postcode. The data is collated regionally on the basis of postcodes. This will give a better understanding of how the virus is spreading locally and regionally in Switzerland."
+    },
+    {
+      "heading": "Get involved!",
+      "text": "Everyone in Switzerland can take part in the survey, regardless of age, language or symptoms. “The goal is to get as many people as possible to take part, and to have them complete the survey not only at the start, but several times – even daily. This will help us to understand how the pandemic is developing and transforming over time, and we will be better placed to see when and where clusters of new infections arise,” says Rätsch. In the first two days, more than 3,500 people have already taken part.\n\nThe study is scheduled to last for at least a year, so the data collected will also cover the phase after the current restrictions on public life are lifted. This will also help in early detection of any recurring symptoms. All data is anonymised so that no connection can be made to individuals. Anyone taking part more than once will receive a code. This means that the computer will recognise which data should be grouped together, but researchers will not be able to recognise who that group of data represents.\n\nAccording to Rätsch, the raw data will also be made available to epidemiological researchers; for example, to create better prediction models for the spread of viruses, or to evaluate the success rate of the various protective measures. “This could be useful in the development of new measures,” he says.\n\nRätsch is aware that other, similar projects are currently underway: “We are working on coordinating with these other projects. Then we can combine the data that we have captured.”"
+    },
+    {
+      "heading": "More data equals new insights",
+      "text": "Rätsch’s group is investigating ways of applying machine learning methods to the analysis of biomedical data. For example, it is currently collecting various samples at public places and tram stops in Zurich to search for traces of the SARS-CoV-2 virus. From this, it hopes to gain findings that provide information about the spread of the virus, and that can be compared with other cities in the US, South Korea and China.\n\nHow exactly is the coronavirus spreading in Switzerland? To determine this based on a large dataset, Biomedical informatics specialists from from ETH Zurich and the canton of Bern have now combined their online questionnaires on the shared platform covidtracker.ch .\n\nAnyone who wishes to take part in the survey can find access details and other information on COVID-19 Tracking Switzerland at this website: www.covidtracker.ch/en ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "The Trail Of The Virus",
+        "label": "WORK_OF_ART",
+        "start": 26,
+        "end": 48
+      },
+      {
+        "text": "more than 3,500",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 23
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 106,
+        "end": 117
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 370,
+        "end": 381
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 553,
+        "end": 563
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 626,
+        "end": 637
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 102,
+        "end": 107
+      },
+      {
+        "text": "Gunnar Rätsch",
+        "label": "PERSON",
+        "start": 126,
+        "end": 139
+      },
+      {
+        "text": "Biomedical Informatics",
+        "label": "ORG",
+        "start": 155,
+        "end": 177
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 181,
+        "end": 191
+      },
+      {
+        "text": "University Hospital Zurich",
+        "label": "ORG",
+        "start": 196,
+        "end": 222
+      },
+      {
+        "text": "just a few minutes",
+        "label": "TIME",
+        "start": 397,
+        "end": 415
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 603,
+        "end": 611
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 978,
+        "end": 989
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 12,
+        "end": 23
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 240,
+        "end": 245
+      },
+      {
+        "text": "Rätsch",
+        "label": "GPE",
+        "start": 429,
+        "end": 435
+      },
+      {
+        "text": "the first two days",
+        "label": "DATE",
+        "start": 440,
+        "end": 458
+      },
+      {
+        "text": "more than 3,500",
+        "label": "CARDINAL",
+        "start": 460,
+        "end": 475
+      },
+      {
+        "text": "at least a year",
+        "label": "DATE",
+        "start": 543,
+        "end": 558
+      },
+      {
+        "text": "Rätsch",
+        "label": "GPE",
+        "start": 1037,
+        "end": 1043
+      },
+      {
+        "text": "Rätsch",
+        "label": "GPE",
+        "start": 1329,
+        "end": 1335
+      },
+      {
+        "text": "Rätsch",
+        "label": "GPE",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 201,
+        "end": 207
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 397,
+        "end": 399
+      },
+      {
+        "text": "South Korea",
+        "label": "GPE",
+        "start": 401,
+        "end": 412
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 417,
+        "end": 422
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 468,
+        "end": 479
+      },
+      {
+        "text": "Biomedical",
+        "label": "ORG",
+        "start": 525,
+        "end": 535
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 570,
+        "end": 580
+      },
+      {
+        "text": "Bern",
+        "label": "ORG",
+        "start": 599,
+        "end": 603
+      },
+      {
+        "text": "COVID-19 Tracking Switzerland",
+        "label": "ORG",
+        "start": 785,
+        "end": 814
+      },
+      {
+        "text": "www.covidtracker.ch/en",
+        "label": "GPE",
+        "start": 832,
+        "end": 854
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Gunnar Rätsch"
+      ],
+      "ORG": [
+        "Bern",
+        "Biomedical",
+        "Biomedical Informatics",
+        "COVID-19",
+        "COVID-19 Tracking Switzerland",
+        "ETH Zurich",
+        "En News",
+        "University Hospital Zurich"
+      ],
+      "LOCATION": [
+        "China",
+        "Rätsch",
+        "South Korea",
+        "Switzerland",
+        "US",
+        "Zurich",
+        "www.covidtracker.ch/en"
+      ],
+      "DATE": [
+        "at least a year",
+        "daily",
+        "just a few minutes",
+        "the first two days"
+      ],
+      "MISC": [
+        "Swiss",
+        "The Trail Of The Virus",
+        "more than 3,500"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 6,
+      "Rätsch": 4,
+      "ETH Zurich": 3,
+      "more than 3,500": 2,
+      "En News": 1,
+      "The Trail Of The Virus": 1,
+      "Swiss": 1,
+      "Gunnar Rätsch": 1,
+      "Biomedical Informatics": 1,
+      "University Hospital Zurich": 1,
+      "just a few minutes": 1,
+      "COVID-19": 1,
+      "daily": 1,
+      "the first two days": 1,
+      "at least a year": 1,
+      "Zurich": 1,
+      "US": 1,
+      "South Korea": 1,
+      "China": 1,
+      "Biomedical": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "on-the-trail-of-the-virus.md",
+      "title": "En News Events/2020/03/on The Trail Of The Virus",
+      "language": "en",
+      "source_path": "en_news_events/2020/03/on-the-trail-of-the-virus.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Gunnar Rätsch"
+      ],
+      "people_with_roles": {
+        "Gunnar Rätsch": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Swiss",
+        "The Trail Of The Virus",
+        "more than 3,500"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "The Trail",
+        "SARS-CoV",
+        "Virus So",
+        "Biomedical Informatics",
+        "University Hospital",
+        "Of The",
+        "ETH Zurich",
+        "South Korea",
+        "Tracking Switzerland"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bern",
+        "Biomedical",
+        "Biomedical Informatics",
+        "COVID-19",
+        "COVID-19 Tracking Switzerland",
+        "ETH Zurich",
+        "En News",
+        "University Hospital Zurich"
+      ],
+      "locations": [
+        "China",
+        "Rätsch",
+        "South Korea",
+        "Switzerland",
+        "US",
+        "Zurich",
+        "www.covidtracker.ch/en"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "Rätsch",
+        "ETH Zurich",
+        "more than 3,500",
+        "En News",
+        "The Trail Of The Virus",
+        "Swiss",
+        "Gunnar Rätsch",
+        "Biomedical Informatics",
+        "University Hospital Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Understanding how the virus spreads",
+          "Understanding how the virus spreads",
+          "Get involved!",
+          "More data equals new insights"
+        ],
+        "content_length": 4111
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "COVID-19 Tracking Switzerland",
+        "En News",
+        "Bern",
+        "Biomedical",
+        "2020",
+        "Biomedical Informatics",
+        "ETH Zurich",
+        "University Hospital Zurich",
+        "COVID-19",
+        "Gunnar Rätsch"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "who",
+        "Swiss",
+        "when",
+        "more than 3,500",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "The Trail Of The Virus",
+        "where"
+      ],
+      "graph_relations": [
+        "Gunnar Rätsch_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

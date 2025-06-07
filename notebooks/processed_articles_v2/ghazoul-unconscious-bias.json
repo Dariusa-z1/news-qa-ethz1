@@ -1,0 +1,502 @@
+{
+  "filename": "ghazoul-unconscious-bias.md",
+  "original_filename": "ghazoul-unconscious-bias.html",
+  "source_path": "en_news_events/2018/01/ghazoul-unconscious-bias.html",
+  "date": "2018-01",
+  "title": "Ghazoul Unconscious Bias",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Wishful research",
+      "text": "“One long gigantic blunder”: that’s how Charles Darwin described his 1839 paper on the parallel “roads” of Glen Roy. Three perfectly horizontal terraces run along the slopes of Glen Roy, a valley in northwest Scotland. Explaining how they got there was a puzzle that perplexed geologists of the day. Darwin, recently returned from his round-the-world voyage on the HMS Beagle , was captivated by Charles Lyell’s “actual causes” theory of geology, whereby landforms such as mountains arise from small successive episodes of uplift."
+    },
+    {
+      "heading": "“Shoehorning” observations into theory",
+      "text": "In Chile, Darwin had himself seen marine beaches recently elevated by earthquakes. Keen to prove his scientific credentials, the young Darwin set out to confirm the validity of Lyell’s theory by showing that Glen Roy’s parallel roads were marine terraces uplifted in the geologically recent past."
+    },
+    {
+      "heading": "Wishful research",
+      "text": "Darwin looked for seashells and barnacles to provide the evidence of marine origins. During eight days of fieldwork he found none. This he dismissed as simple lack of preservation. Lack of preservation also explained the absence of equivalent terraces in neighbouring glens. Nonetheless, Darwin wrote to Lyell, “ I have fully convinced myself ... that the shelves are sea-beaches, – although I could not find a trace of a shell, & I think I can explain away most, if not all, the difficulties ” (9 August 1838) 1 .\n\nThe “sea-beaches” turned out to be nothing of the sort. Soon after Darwin published his Glen Roy paper, Louis Agassiz using his glacial theory explained the roads as wave-cut platforms from glacial lakes impounded by ice dams. How did Darwin get it so wrong? His acute powers of observation and interpretation were subjugated by his desire to marshal facts in support of a favoured theory."
+    },
+    {
+      "heading": "Conserving credibility",
+      "text": "Charles Darwin’s observations on the Parallel Roads of Glen Roy, and of other parts in Scotland, with an attempt to prove that they are of marine origin. (Image: 1 )\n\nScience is never truly objective. We have favoured theories that we abandon reluctantly, and we interpret evidence through this prism. New ideas in science often attract excitement that engenders demand for confirmation, and before long a plethora of studies corroborate the new theory. Authors publishing such studies secure recognition, and journals secure citations. In the early development of a theory it is difficult to publish studies that go against the prevailing trend, creating a publication bias.\n\nNone of this implies intentional scientific fraud. Rather, researchers might give added weight, albeit unconsciously, to outcomes or data that meet preconceived expectations. Stephen Jay Gould called this “shoehorning” data into theory. Once a theory becomes entrenched, the most novel studies become those that challenge it. Publishing negative results becomes more acceptable with time, and a theory is adapted or ultimately rejected. Karl Popper’s emphasis on refutation is all but forgotten, until refutation itself becomes novel."
+    },
+    {
+      "heading": "The case of conservation",
+      "text": "None of this matters much in my field of plant ecology, beyond taxing the pride of the researchers concerned. It is more serious when derived conclusions have applied relevance, by influencing resource management or environmental policies. In applied fields of research, there is more pressure to deliver evidence, and more to be gained in doing so – which can increase the likelihood of unconscious bias. This might explain contrasting conclusions on, for example, toxicity of pesticides on bees from studies funded by corporations or environmental organisations."
+    },
+    {
+      "heading": "About the author",
+      "text": "This brings us to value-laden sciences such as conservation. Conservation scientists have an agenda. Our science provides an evidence base for conservation action, set within the value that global biodiversity ought to be protected. Conservation science aims to justify this value by demonstrating the benefits of biodiversity to local and global communities. But how credible can these claims be if research serves a normative conservation agenda? We are not dispassionate observers. If we question the veracity of studies funded by agrichemical industries, then shouldn’t the objectivity of research by avowed conservationists be subject to similar scrutiny?\n\nIt is commonly accepted that we need to save our declining bees for the sake of global food production. Without crucial pollinators, crops produce less fruit. Yet global crop production continues to increase. The issue is clearly more complex than meets the eye. Perhaps studies that show no decline in crop production with fewer pollinators are less likely to be published. Factors unrelated to pollinators might affect crop production at large scales, or perhaps crops are declining in some areas but the shortfall is met by increased production elsewhere. Whatever the reason, the “pollination crisis” has been marketed to the media and policy makers as an urgent environmental problem that threatens food production, despite at least some evidence to the contrary. Is this environmental issue overstated, and does unconscious bias play a role? I don’t know, but it would be naïve not to consider this possibility.\n\nThe wider concern is that unconscious bias in presentation of evidence could undermine the credibility of conservation science. This is critical when we seek to persuade those who do not share our values to come round to our way of thinking – that conservation is necessary. Our desire to conserve life’s riches might incline us, however unintentionally, towards particular ways of collecting, interpreting, and presenting data. We should remind ourselves, as conservationists and as scientists, that we are vulnerable to unintentional bias even as we seek objectivity.\n\nDarwin as ever provides an excellent role model. He reluctantly but completely acknowledged the failings of his own Glen Roy theory: “ I give up & abominate Glen Roy & all its belongings ... I do believe every word in my Glen Roy paper is false ” (14 October 1862). On occasion, we might need to do the same, and we would be better scientists for it.\n\n1 Royal Society of London: Observations on the Parallel Roads of Glen Roy (Charles Darwin, 1839)\n\nJaboury Ghazoul Full Professor for Ecosystem Management at ETH Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "Charles Darwin",
+        "label": "PERSON",
+        "start": 40,
+        "end": 54
+      },
+      {
+        "text": "Glen Roy",
+        "label": "PERSON",
+        "start": 107,
+        "end": 115
+      },
+      {
+        "text": "Three",
+        "label": "CARDINAL",
+        "start": 117,
+        "end": 122
+      },
+      {
+        "text": "Glen Roy",
+        "label": "PERSON",
+        "start": 177,
+        "end": 185
+      },
+      {
+        "text": "Scotland",
+        "label": "GPE",
+        "start": 209,
+        "end": 217
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 291,
+        "end": 298
+      },
+      {
+        "text": "Darwin",
+        "label": "PERSON",
+        "start": 300,
+        "end": 306
+      },
+      {
+        "text": "the HMS Beagle",
+        "label": "ORG",
+        "start": 361,
+        "end": 375
+      },
+      {
+        "text": "Charles Lyell’s",
+        "label": "PERSON",
+        "start": 396,
+        "end": 411
+      },
+      {
+        "text": "Chile",
+        "label": "GPE",
+        "start": 3,
+        "end": 8
+      },
+      {
+        "text": "Darwin",
+        "label": "PERSON",
+        "start": 10,
+        "end": 16
+      },
+      {
+        "text": "Darwin",
+        "label": "PERSON",
+        "start": 135,
+        "end": 141
+      },
+      {
+        "text": "Lyell’s",
+        "label": "ORG",
+        "start": 177,
+        "end": 184
+      },
+      {
+        "text": "Glen Roy’s",
+        "label": "PERSON",
+        "start": 208,
+        "end": 218
+      },
+      {
+        "text": "Darwin",
+        "label": "PERSON",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "eight days",
+        "label": "DATE",
+        "start": 92,
+        "end": 102
+      },
+      {
+        "text": "Darwin",
+        "label": "PERSON",
+        "start": 288,
+        "end": 294
+      },
+      {
+        "text": "Lyell",
+        "label": "ORG",
+        "start": 304,
+        "end": 309
+      },
+      {
+        "text": "August 1838",
+        "label": "DATE",
+        "start": 498,
+        "end": 509
+      },
+      {
+        "text": "Darwin",
+        "label": "PERSON",
+        "start": 582,
+        "end": 588
+      },
+      {
+        "text": "Glen Roy",
+        "label": "PERSON",
+        "start": 603,
+        "end": 611
+      },
+      {
+        "text": "Louis Agassiz",
+        "label": "ORG",
+        "start": 619,
+        "end": 632
+      },
+      {
+        "text": "Darwin",
+        "label": "PERSON",
+        "start": 750,
+        "end": 756
+      },
+      {
+        "text": "Charles Darwin’s",
+        "label": "PERSON",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "the Parallel Roads",
+        "label": "WORK_OF_ART",
+        "start": 33,
+        "end": 51
+      },
+      {
+        "text": "Glen Roy",
+        "label": "PERSON",
+        "start": 55,
+        "end": 63
+      },
+      {
+        "text": "Scotland",
+        "label": "GPE",
+        "start": 87,
+        "end": 95
+      },
+      {
+        "text": "Stephen Jay Gould",
+        "label": "PERSON",
+        "start": 850,
+        "end": 867
+      },
+      {
+        "text": "Karl Popper’s",
+        "label": "PERSON",
+        "start": 1112,
+        "end": 1125
+      },
+      {
+        "text": "Darwin",
+        "label": "PERSON",
+        "start": 2149,
+        "end": 2155
+      },
+      {
+        "text": "Glen Roy",
+        "label": "PERSON",
+        "start": 2265,
+        "end": 2273
+      },
+      {
+        "text": "Glen Roy &",
+        "label": "PERSON",
+        "start": 2306,
+        "end": 2316
+      },
+      {
+        "text": "Glen Roy",
+        "label": "PERSON",
+        "start": 2370,
+        "end": 2378
+      },
+      {
+        "text": "14 October 1862",
+        "label": "DATE",
+        "start": 2397,
+        "end": 2412
+      },
+      {
+        "text": "the Parallel Roads",
+        "label": "LAW",
+        "start": 2543,
+        "end": 2561
+      },
+      {
+        "text": "Glen Roy",
+        "label": "PERSON",
+        "start": 2565,
+        "end": 2573
+      },
+      {
+        "text": "Charles Darwin",
+        "label": "PERSON",
+        "start": 2575,
+        "end": 2589
+      },
+      {
+        "text": "Ghazoul Full",
+        "label": "PERSON",
+        "start": 2605,
+        "end": 2617
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Charles Darwin",
+        "Charles Darwin’s",
+        "Charles Lyell’s",
+        "Darwin",
+        "Ghazoul Full",
+        "Glen Roy",
+        "Glen Roy &",
+        "Glen Roy’s",
+        "Karl Popper’s",
+        "Stephen Jay Gould"
+      ],
+      "ORG": [
+        "Louis Agassiz",
+        "Lyell",
+        "Lyell’s",
+        "the HMS Beagle"
+      ],
+      "LOCATION": [
+        "Chile",
+        "Scotland"
+      ],
+      "DATE": [
+        "14 October 1862",
+        "August 1838",
+        "eight days",
+        "the day"
+      ],
+      "MISC": [
+        "One",
+        "Three",
+        "the Parallel Roads"
+      ]
+    },
+    "entity_counts": {
+      "Darwin": 8,
+      "Glen Roy": 7,
+      "Charles Darwin": 2,
+      "Scotland": 2,
+      "the Parallel Roads": 2,
+      "One": 1,
+      "Three": 1,
+      "the day": 1,
+      "the HMS Beagle": 1,
+      "Charles Lyell’s": 1,
+      "Chile": 1,
+      "Lyell’s": 1,
+      "Glen Roy’s": 1,
+      "eight days": 1,
+      "Lyell": 1,
+      "August 1838": 1,
+      "Louis Agassiz": 1,
+      "Charles Darwin’s": 1,
+      "Stephen Jay Gould": 1,
+      "Karl Popper’s": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ghazoul-unconscious-bias.md",
+      "title": "En News Events/2018/01/ghazoul Unconscious Bias",
+      "language": "en",
+      "source_path": "en_news_events/2018/01/ghazoul-unconscious-bias.html"
+    },
+    "temporal": {
+      "publication_date": "2018-01",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Charles Darwin",
+        "Charles Darwin’s",
+        "Charles Lyell’s",
+        "Darwin",
+        "Ghazoul Full",
+        "Glen Roy",
+        "Glen Roy &",
+        "Glen Roy’s",
+        "Karl Popper’s",
+        "Stephen Jay Gould"
+      ],
+      "people_with_roles": {
+        "Charles Darwin": [
+          "professor"
+        ],
+        "Darwin": [
+          "professor"
+        ],
+        "Ghazoul Full": [
+          "professor"
+        ],
+        "Glen Roy": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "Three",
+        "the Parallel Roads"
+      ],
+      "grants_funding": [
+        "Horizon"
+      ],
+      "projects": [
+        "Ecosystem Management",
+        "Stephen Jay",
+        "Jaboury Ghazoul",
+        "Full Professor",
+        "Glen Roy",
+        "Unconscious Bias",
+        "En News",
+        "Louis Agassiz",
+        "Royal Society",
+        "Charles Darwin",
+        "Charles Lyell",
+        "In Chile",
+        "Karl Popper",
+        "ETH Zurich",
+        "HMS Beagle",
+        "Parallel Roads"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Louis Agassiz",
+        "Lyell",
+        "Lyell’s",
+        "the HMS Beagle"
+      ],
+      "locations": [
+        "Chile",
+        "Scotland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Darwin",
+        "Glen Roy",
+        "Charles Darwin",
+        "Scotland",
+        "the Parallel Roads",
+        "One",
+        "Three",
+        "the day",
+        "the HMS Beagle",
+        "Charles Lyell’s"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Wishful research",
+          "“Shoehorning” observations into theory",
+          "Wishful research",
+          "Conserving credibility",
+          "The case of conservation",
+          "About the author"
+        ],
+        "content_length": 6230
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Stephen Jay Gould",
+        "Glen Roy",
+        "the HMS Beagle",
+        "Glen Roy &",
+        "Louis Agassiz",
+        "Ghazoul Full",
+        "Darwin",
+        "Charles Darwin",
+        "Glen Roy’s",
+        "Lyell’s",
+        "Charles Darwin’s",
+        "Charles Lyell’s",
+        "Lyell",
+        "Karl Popper’s",
+        "Horizon"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "Three",
+        "chemistry",
+        "biology",
+        "what",
+        "how",
+        "why",
+        "when",
+        "where",
+        "the Parallel Roads"
+      ],
+      "graph_relations": [
+        "Charles Darwin_has_role_professor",
+        "Darwin_has_role_professor",
+        "Ghazoul Full_has_role_professor",
+        "Glen Roy_has_role_professor",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

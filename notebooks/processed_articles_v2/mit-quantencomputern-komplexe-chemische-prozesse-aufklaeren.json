@@ -1,0 +1,500 @@
+{
+  "filename": "mit-quantencomputern-komplexe-chemische-prozesse-aufklaeren.md",
+  "original_filename": "mit-quantencomputern-komplexe-chemische-prozesse-aufklaeren.html",
+  "source_path": "de_news_events/2017/07/mit-quantencomputern-komplexe-chemische-prozesse-aufklaeren.html",
+  "date": "2017-07",
+  "title": "Mit Quantencomputern Komplexe Chemische Prozesse Aufklaeren",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Eines der komplexesten Enzyme",
+      "text": "Nichts geringeres als eine technologische Revolution erwarten Fachleute von Quantencomputern: Sie sollen bald schon Probleme lösen können, die wegen ihrer hohen Komplexität ausserhalb der Reichweite klassischer Supercomputer liegen. Die Datenverschlüsselung und -entschlüsselung sowie die Lösung spezieller Probleme in der Physik, Quantenchemie und Materialforschung sind oft genannte Anwendungsgebiete.\n\nWenn es um konkrete Fragen geht, deren Beantwortung Quantencomputer voraussetzen, blieben Experten bisher jedoch meist vage. Forschende von der ETH Zürich und von Microsoft Research präsentieren nun in der Fachzeitschrift PNAS erstmals eine ganz konkrete Anwendung: die Berechnung einer komplexen chemischen Reaktion. Damit veranschaulichen die Wissenschaftler, dass von Quantencomputern tatsächlich wissenschaftlich relevante Beiträge zu erwarten sind.\n\nAnhand von Simulationen zeigen die Forschenden um die ETH-Professoren Markus Reiher und Matthias Troyer, dass sich eine komplexe chemische Reaktion mithilfe eines Quantencomputers berechnen lässt. So ein Quantencomputer müsste von «moderater Grösse» sein, wie Matthias Troyer sagt. Er ist Professor für Computational Physics an der ETH Zürich und derzeit für Microsoft tätig. Die von den Wissenschaftlern präsentierte Reaktion ausschliesslich mit einem klassischen Supercomputer zu berechnen, wäre kaum möglich – insbesondere, wenn die Lösung ausreichend präzis sein soll."
+    },
+    {
+      "heading": "Eines der komplexesten Enzyme",
+      "text": "Als Anschauungsbeispiel verwendeten die Forscher in ihrer Studie eine besonders komplexe Reaktion aus der Biochemie: Bestimmte Mikroorganismen können dank eines speziellen Enzyms, einer Nitrogenase, die in der Luft vorkommenden Stickstoffmoleküle spalten und daraus chemische Verbindungen mit nur einem Stickstoff-Atom herstellen. Wie genau die Nitrogenase-Reaktion abläuft, ist jedoch unbekannt. «Es ist dies eine der grossen ungelösten Fragen der Chemie», sagt Markus Reiher, Professor für Theoretische Chemie an der ETH Zürich.\n\nMit heutigen Computern lässt sich das Verhalten einfacher Moleküle recht genau berechnen. Für die Nitrogenase beziehungsweise deren aktives Zentrum sei dies jedoch praktisch nicht möglich, da das Molekül zu komplex sei, erklärt Reiher.\n\nKomplexität heisst in diesem Fall, wie viele Elektronen innerhalb des Moleküls über verhältnismässig lange Strecken miteinander wechselwirken. Je mehr Elektronen die Wissenschaftler berücksichtigen müssen, desto umfangreicher werden die Berechnungen. «Mit bestehenden Methoden und klassischen Supercomputern kann man Moleküle bis höchstens rund 50 stark wechselwirkenden Elektronen berechnen», so Reiher. Beim aktiven Zentrum der Nitrogenase müsse man jedoch deutlich mehr solcher Elektronen berücksichtigen. Weil sich auf einem klassischen Computer der Aufwand für jedes zusätzliche Elektron verdoppelt, bräuchte es dafür unrealistisch hohe Rechenkapazitäten."
+    },
+    {
+      "heading": "Andere Computer-Architektur",
+      "text": "Wie die ETH-Forschenden nun zeigten, werden hypothetische Quantencomputer mit nur 100 bis 200 Quanten-Bits (Qubits) komplexe Teilprobleme innerhalb von einigen Tagen berechnen können, dank derer der Reaktionsmechanismus der Nitrogenase schrittweise bestimmt werden könnte.\n\nDass Quantencomputer solche herausfordernden Aufgaben überhaupt lösen können, liegt unter anderem daran, dass sie grundsätzlich anders aufgebaut sind als klassische Computer. Quantencomputer benötigen pro zusätzlich zu berechnendes Elektron nicht doppelt so viele Bits, sondern einfach ein zusätzliches Qubit.\n\nWann es solche «moderat grossen» Quantencomputer geben wird, ist allerdings ungewiss. Derzeitige experimentelle Quantencomputer besitzen erst um die 20 rudimentäre Qubits. Bis zu einem Quantencomputer, bei dem mehr als hundert qualitativ hochstehende Qubits für Rechenoperationen zur Verfügung stehen, wird es noch mindestens fünf, vermutlich jedoch eher zehn Jahre dauern, schätzt Reiher."
+    },
+    {
+      "heading": "In Massen und miteinander vernetzt",
+      "text": "Weil Quantencomputer nicht alle Aufgaben lösen können, werden sie klassische Computer dereinst nicht verdrängen, sondern ergänzen, wie die Forscher betonen. «Die Zukunft wird geprägt sein von einem Zusammenspiel von klassischen Computern und Quantencomputern», sagt Matthias Troyer.\n\nIm Fall der Nitrogenase-Reaktion wird es so sein, dass Quantencomputer berechnen, wie die Elektronen in einer bestimmen Molekülstruktur verteilt sind. Welche Strukturen besonders interessant sind und daher berechnet werden sollen, wird hingegen weiterhin ein klassischer Computer dem Quantencomputer mitteilen müssen. «Den Quantencomputer muss man sich eher wie einen Co-Prozessor vorstellen, der einem klassischen Computer bestimmte Aufgaben abnehmen und ihn so beschleunigen kann», sagt Markus Reiher.\n\nUm den Mechanismus der Nitrogenase-Reaktion aufzuklären, reicht es ausserdem nicht, die Elektronenverteilung in einer einzigen Molekülstruktur zu bestimmen. Vielmehr muss diese Verteilung in tausenden von Strukturen bestimmt werden. Jede Berechnung dauert mehrere Tage. «Damit Quantencomputer für diese Art von Problemen von Nutzen sind, müssen sie dereinst in Massen zur Verfügung stehen. So können die Berechnungen auf mehreren Rechnern gleichzeitig laufen», sagt Troyer.\n\nReiher M, Wiebe N, Svore KM, Wecker D, Troyer M: Elucidating reaction mechanisms on quantum computers: PNAS 2017, 114: 7555-7560, doi: externe Seite 10.1073/pnas.1619152114"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Quantencomputern",
+        "label": "LOC",
+        "start": 76,
+        "end": 92
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 548,
+        "end": 558
+      },
+      {
+        "text": "Microsoft Research",
+        "label": "ORG",
+        "start": 567,
+        "end": 585
+      },
+      {
+        "text": "PNAS",
+        "label": "MISC",
+        "start": 626,
+        "end": 630
+      },
+      {
+        "text": "Quantencomputern",
+        "label": "LOC",
+        "start": 775,
+        "end": 791
+      },
+      {
+        "text": "ETH-Professoren Markus Reiher",
+        "label": "MISC",
+        "start": 912,
+        "end": 941
+      },
+      {
+        "text": "Matthias Troyer",
+        "label": "PER",
+        "start": 946,
+        "end": 961
+      },
+      {
+        "text": "Matthias Troyer",
+        "label": "PER",
+        "start": 1118,
+        "end": 1133
+      },
+      {
+        "text": "Computational Physics",
+        "label": "ORG",
+        "start": 1161,
+        "end": 1182
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1190,
+        "end": 1200
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 1217,
+        "end": 1226
+      },
+      {
+        "text": "Wissenschaftlern",
+        "label": "LOC",
+        "start": 1246,
+        "end": 1262
+      },
+      {
+        "text": "Nitrogenase-Reaktion",
+        "label": "MISC",
+        "start": 345,
+        "end": 365
+      },
+      {
+        "text": "Markus Reiher",
+        "label": "PER",
+        "start": 463,
+        "end": 476
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 519,
+        "end": 529
+      },
+      {
+        "text": "Computern",
+        "label": "MISC",
+        "start": 544,
+        "end": 553
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 671,
+        "end": 678
+      },
+      {
+        "text": "Reiher",
+        "label": "PER",
+        "start": 759,
+        "end": 765
+      },
+      {
+        "text": "Moleküls",
+        "label": "LOC",
+        "start": 837,
+        "end": 845
+      },
+      {
+        "text": "Reiher",
+        "label": "PER",
+        "start": 1164,
+        "end": 1170
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 8,
+        "end": 23
+      },
+      {
+        "text": "Quantencomputer",
+        "label": "PER",
+        "start": 278,
+        "end": 293
+      },
+      {
+        "text": "grossen",
+        "label": "PER",
+        "start": 607,
+        "end": 614
+      },
+      {
+        "text": "Reiher",
+        "label": "PER",
+        "start": 965,
+        "end": 971
+      },
+      {
+        "text": "Quantencomputer",
+        "label": "PER",
+        "start": 5,
+        "end": 20
+      },
+      {
+        "text": "Matthias Troyer",
+        "label": "PER",
+        "start": 266,
+        "end": 281
+      },
+      {
+        "text": "Nitrogenase-Reaktion",
+        "label": "MISC",
+        "start": 295,
+        "end": 315
+      },
+      {
+        "text": "Markus Reiher",
+        "label": "PER",
+        "start": 772,
+        "end": 785
+      },
+      {
+        "text": "Nitrogenase-Reaktion",
+        "label": "MISC",
+        "start": 810,
+        "end": 830
+      },
+      {
+        "text": "Reiher M",
+        "label": "PER",
+        "start": 1261,
+        "end": 1269
+      },
+      {
+        "text": "Svore KM",
+        "label": "ORG",
+        "start": 1280,
+        "end": 1288
+      },
+      {
+        "text": "Wecker D",
+        "label": "ORG",
+        "start": 1290,
+        "end": 1298
+      },
+      {
+        "text": "Troyer M",
+        "label": "ORG",
+        "start": 1300,
+        "end": 1308
+      },
+      {
+        "text": "Elucidating",
+        "label": "LOC",
+        "start": 1310,
+        "end": 1321
+      },
+      {
+        "text": "PNAS 2017",
+        "label": "MISC",
+        "start": 1364,
+        "end": 1373
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Markus Reiher",
+        "Matthias Troyer",
+        "Quantencomputer",
+        "Reiher",
+        "Reiher M",
+        "grossen"
+      ],
+      "ORG": [
+        "Computational Physics",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Microsoft",
+        "Microsoft Research",
+        "Svore KM",
+        "Troyer M",
+        "Wecker D",
+        "Zentrum"
+      ],
+      "LOCATION": [
+        "Elucidating",
+        "Moleküls",
+        "Quantencomputern",
+        "Wissenschaftlern"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Computern",
+        "ETH-Professoren Markus Reiher",
+        "Nitrogenase-Reaktion",
+        "PNAS",
+        "PNAS 2017"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 3,
+      "Matthias Troyer": 3,
+      "Nitrogenase-Reaktion": 3,
+      "Reiher": 3,
+      "Quantencomputern": 2,
+      "Markus Reiher": 2,
+      "Quantencomputer": 2,
+      "De News": 1,
+      "Microsoft Research": 1,
+      "PNAS": 1,
+      "ETH-Professoren Markus Reiher": 1,
+      "Computational Physics": 1,
+      "Microsoft": 1,
+      "Wissenschaftlern": 1,
+      "Computern": 1,
+      "Zentrum": 1,
+      "Moleküls": 1,
+      "ETH-Forschenden": 1,
+      "grossen": 1,
+      "Reiher M": 1
+    },
+    "total_entities": 36,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mit-quantencomputern-komplexe-chemische-prozesse-aufklaeren.md",
+      "title": "De News Events/2017/07/mit Quantencomputern Komplexe Chemische Prozesse Aufklaeren",
+      "language": "de",
+      "source_path": "de_news_events/2017/07/mit-quantencomputern-komplexe-chemische-prozesse-aufklaeren.html"
+    },
+    "temporal": {
+      "publication_date": "2017-07",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Markus Reiher",
+        "Matthias Troyer",
+        "Quantencomputer",
+        "Reiher",
+        "Reiher M",
+        "grossen"
+      ],
+      "people_with_roles": {
+        "Markus Reiher": [
+          "professor"
+        ],
+        "Matthias Troyer": [
+          "professor"
+        ],
+        "Quantencomputer": [
+          "professor"
+        ],
+        "Reiher": [
+          "professor"
+        ],
+        "grossen": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "physics",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Computern",
+        "ETH-Professoren Markus Reiher",
+        "Nitrogenase-Reaktion",
+        "PNAS",
+        "PNAS 2017"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Markus Reiher",
+        "Wecker D",
+        "Reiher M",
+        "Den Quantencomputer",
+        "Welche Strukturen",
+        "Jede Berechnung",
+        "Quanten-Bits",
+        "Nitrogenase-Reaktion",
+        "Chemische Prozesse",
+        "Computational Physics",
+        "Die Zukunft",
+        "Bestimmte Mikroorganismen",
+        "Im Fall",
+        "Quantencomputern Komplexe",
+        "Fachzeitschrift PNAS",
+        "ETH-Professoren",
+        "Beantwortung Quantencomputer",
+        "Wiebe N",
+        "Stickstoff-Atom",
+        "Svore KM",
+        "Aufklaeren Nichts",
+        "Troyer M",
+        "Co-Prozessor",
+        "ETH-Forschenden",
+        "De News",
+        "Als Anschauungsbeispiel",
+        "Damit Quantencomputer",
+        "Dass Quantencomputer",
+        "Matthias Troyer",
+        "Weil Quantencomputer",
+        "Theoretische Chemie",
+        "Microsoft Research"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Computational Physics",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Microsoft",
+        "Microsoft Research",
+        "Svore KM",
+        "Troyer M",
+        "Wecker D",
+        "Zentrum"
+      ],
+      "locations": [
+        "Elucidating",
+        "Moleküls",
+        "Quantencomputern",
+        "Wissenschaftlern"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "Matthias Troyer",
+        "Nitrogenase-Reaktion",
+        "Reiher",
+        "Quantencomputern",
+        "Markus Reiher",
+        "Quantencomputer",
+        "De News",
+        "Microsoft Research",
+        "PNAS"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Eines der komplexesten Enzyme",
+          "Eines der komplexesten Enzyme",
+          "Andere Computer-Architektur",
+          "In Massen und miteinander vernetzt"
+        ],
+        "content_length": 5357
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Markus Reiher",
+        "Wecker D",
+        "Reiher M",
+        "ERC",
+        "ETH Zürich",
+        "Zentrum",
+        "Computational Physics",
+        "EU",
+        "Svore KM",
+        "2017",
+        "Troyer M",
+        "Quantencomputer",
+        "ETH-Forschenden",
+        "Microsoft",
+        "De News",
+        "Reiher",
+        "Matthias Troyer",
+        "grossen",
+        "Microsoft Research"
+      ],
+      "semantic_concepts": [
+        "PNAS 2017",
+        "physics",
+        "mathematics",
+        "who",
+        "Nitrogenase-Reaktion",
+        "what",
+        "how",
+        "ETH-Professoren Markus Reiher",
+        "PNAS",
+        "when",
+        "Computern"
+      ],
+      "graph_relations": [
+        "Markus Reiher_has_role_professor",
+        "Matthias Troyer_has_role_professor",
+        "Quantencomputer_has_role_professor",
+        "Reiher_has_role_professor",
+        "grossen_has_role_professor",
+        "research_domain_physics",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

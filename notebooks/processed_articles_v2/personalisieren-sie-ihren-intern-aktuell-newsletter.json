@@ -1,0 +1,270 @@
+{
+  "filename": "personalisieren-sie-ihren-intern-aktuell-newsletter.md",
+  "original_filename": "personalisieren-sie-ihren-intern-aktuell-newsletter.html",
+  "source_path": "de_internal/2024/02/personalisieren-sie-ihren-intern-aktuell-newsletter.html",
+  "date": "2024-02",
+  "title": "Personalisieren Sie Ihren Intern Aktuell Newsletter",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Ihre Meinung",
+      "text": "- Institutionelles: News der Schulleitung; Informationen zur Hochschulstrategie oder zur Organisation der ETH; Personalia; Informationen aus Gremien wie der Hochschulversammlung oder der Personalkommission\n\n- Arbeiten an der ETH: Alles, was den Arbeitsplatz betrifft und für den individuellen Arbeitsalltag wichtig ist.\n\n- Lehre: Themen, welche die Lehre und den Unterricht an der ETH betreffen.\n\n- Für Forschende: Informationen für Wissenschaftler:innen, z.B. Angebote der Bibliothek, Programm der Communication Academy, Mitteilungen zum Wissens- und Technologie-Transfer, SGU-Kurse für Forschende\n\n- Campus: Was an der ETH neben der Arbeit gerade aktuell ist, z.B. bezüglich Bauten, Ausstellungen, Veranstaltungen, Gastronomie, Angebote für ETH-Angehörige.\n\n- Community: Persönliche Themen, Austausch, Meinungen, Diskussionsformate\n\n- Ehrungen und Preise: Informationen dazu, welche ETH-Angehörigen kürzlich eine Ehrung oder einen Preis erhalten haben.\n\n- Tipps und Tricks: Neuste Artikel aus der Rubrik «Tipps und Tricks» für den Arbeitsalltag an der ETH."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2024/02/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Institutionelles",
+        "label": "ORG",
+        "start": 2,
+        "end": 18
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 106,
+        "end": 109
+      },
+      {
+        "text": "Personalia",
+        "label": "PER",
+        "start": 111,
+        "end": 121
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 224,
+        "end": 227
+      },
+      {
+        "text": "Arbeitsplatz",
+        "label": "LOC",
+        "start": 244,
+        "end": 256
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 379,
+        "end": 382
+      },
+      {
+        "text": "Communication Academy",
+        "label": "ORG",
+        "start": 496,
+        "end": 517
+      },
+      {
+        "text": "Mitteilungen",
+        "label": "LOC",
+        "start": 519,
+        "end": 531
+      },
+      {
+        "text": "SGU-Kurse",
+        "label": "ORG",
+        "start": 571,
+        "end": 580
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 617,
+        "end": 620
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 739,
+        "end": 753
+      },
+      {
+        "text": "Diskussionsformate",
+        "label": "LOC",
+        "start": 810,
+        "end": 828
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "ORG",
+        "start": 879,
+        "end": 894
+      },
+      {
+        "text": "Tipps",
+        "label": "LOC",
+        "start": 951,
+        "end": 956
+      },
+      {
+        "text": "Tricks",
+        "label": "LOC",
+        "start": 961,
+        "end": 967
+      },
+      {
+        "text": "Tricks",
+        "label": "LOC",
+        "start": 1010,
+        "end": 1016
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1047,
+        "end": 1050
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Personalia"
+      ],
+      "ORG": [
+        "Communication Academy",
+        "ETH",
+        "ETH-Angehörigen",
+        "Institutionelles",
+        "SGU-Kurse"
+      ],
+      "LOCATION": [
+        "Arbeitsplatz",
+        "De Internal/2024/02/",
+        "Diskussionsformate",
+        "Mitteilungen",
+        "Tipps",
+        "Tricks"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "Tricks": 2,
+      "De Internal/2024/02/": 1,
+      "Institutionelles": 1,
+      "Personalia": 1,
+      "Arbeitsplatz": 1,
+      "Communication Academy": 1,
+      "Mitteilungen": 1,
+      "SGU-Kurse": 1,
+      "ETH-Angehörige": 1,
+      "Diskussionsformate": 1,
+      "ETH-Angehörigen": 1,
+      "Tipps": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "personalisieren-sie-ihren-intern-aktuell-newsletter.md",
+      "title": "De Internal/2024/02/personalisieren Sie Ihren Intern Aktuell Newsletter",
+      "language": "de",
+      "source_path": "de_internal/2024/02/personalisieren-sie-ihren-intern-aktuell-newsletter.html"
+    },
+    "temporal": {
+      "publication_date": "2024-02",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Personalia"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Angehörige"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Neuste Artikel",
+        "Communication Academy",
+        "Intern Aktuell",
+        "Technologie-Transfer",
+        "De Internal",
+        "SGU-Kurse",
+        "Sie Ihren"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Communication Academy",
+        "ETH",
+        "ETH-Angehörigen",
+        "Institutionelles",
+        "SGU-Kurse"
+      ],
+      "locations": [
+        "Arbeitsplatz",
+        "De Internal/2024/02/",
+        "Diskussionsformate",
+        "Mitteilungen",
+        "Tipps",
+        "Tricks"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Tricks",
+        "De Internal/2024/02/",
+        "Institutionelles",
+        "Personalia",
+        "Arbeitsplatz",
+        "Communication Academy",
+        "Mitteilungen",
+        "SGU-Kurse",
+        "ETH-Angehörige"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Ihre Meinung"
+        ],
+        "content_length": 1130
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "ETH",
+        "Communication Academy",
+        "Personalia",
+        "Institutionelles",
+        "EU",
+        "SGU-Kurse",
+        "ETH-Angehörigen"
+      ],
+      "semantic_concepts": [
+        "ETH-Angehörige",
+        "who"
+      ],
+      "graph_relations": []
+    }
+  }
+}

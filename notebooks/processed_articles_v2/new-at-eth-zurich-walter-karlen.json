@@ -1,0 +1,285 @@
+{
+  "filename": "new-at-eth-zurich-walter-karlen.md",
+  "original_filename": "new-at-eth-zurich-walter-karlen.html",
+  "source_path": "en_internal/2015/02/new-at-eth-zurich-walter-karlen.html",
+  "date": "2015-02",
+  "title": "New At Eth Zurich Walter Karlen",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "How would you explain your research to a child? We develop computer programs that help to assess your health. The cool thing is that we can install these programs on a mobile phone and use its sensors. If you have a cough and feel sick, for example, your mother might use her mobile to decide whether you should just stay in bed or should rather go to the doctor. Our systems work much like the tricorder that the ship's doctor, Dr McCoy, uses on the Starship Enterprise.\n\nHow did you end up doing research on mobile health systems? I was always very interested in the miniaturisation and mobilisation of robots. Their measurement systems are highly dependent on environmental conditions. For automated medical applications you have to go a step further, since every patient behaves differently and many unknown parameters can influence diagnosis or treatment. I would like to contribute to individualised medicine by means of intelligent technology.\n\nWhat is your favourite book and why? I am an avid comic book fan and prefer to read them in their original language. My favourite is the classic “A la recherche de Peter Pan” (In Search of Peter Pan) by the artist Cosey from French-speaking Switzerland. His characters are fascinating, and the mountain worlds full of atmosphere in their colouring. That’s why I also have pictures by Cosey hanging on my office walls.\n\nWalter Karlen , born in 1979 in Switzerland, has been professor for mobile health systems at the Department for Health Science and Technology (D-HEST) since October 2014. The internationally recognised researcher works on individualised methods and devices for use in healthcare. Specifically, he develops biomedical sensors that can be deployed via wearable systems (e.g. mobile phones) away from clinical centres in order to investigate the health of selected population groups.\n\nWith the appointment of Walter Karlen, the Department of Health Sciences and Technology is strengthening its focus in the area of medical technology, rehabilitation and care."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Eth Zurich Walter Karlen",
+        "label": "ORG",
+        "start": 27,
+        "end": 51
+      },
+      {
+        "text": "Dr McCoy",
+        "label": "PERSON",
+        "start": 429,
+        "end": 437
+      },
+      {
+        "text": "the Starship Enterprise",
+        "label": "ORG",
+        "start": 447,
+        "end": 470
+      },
+      {
+        "text": "de Peter Pan",
+        "label": "PERSON",
+        "start": 1111,
+        "end": 1123
+      },
+      {
+        "text": "Peter Pan",
+        "label": "PERSON",
+        "start": 1139,
+        "end": 1148
+      },
+      {
+        "text": "Cosey",
+        "label": "PERSON",
+        "start": 1164,
+        "end": 1169
+      },
+      {
+        "text": "French",
+        "label": "NORP",
+        "start": 1175,
+        "end": 1181
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1191,
+        "end": 1202
+      },
+      {
+        "text": "Cosey",
+        "label": "PERSON",
+        "start": 1334,
+        "end": 1339
+      },
+      {
+        "text": "Walter Karlen",
+        "label": "PERSON",
+        "start": 1368,
+        "end": 1381
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1400,
+        "end": 1411
+      },
+      {
+        "text": "the Department for Health Science and Technology",
+        "label": "ORG",
+        "start": 1461,
+        "end": 1509
+      },
+      {
+        "text": "October 2014",
+        "label": "DATE",
+        "start": 1525,
+        "end": 1537
+      },
+      {
+        "text": "Walter Karlen",
+        "label": "PERSON",
+        "start": 1873,
+        "end": 1886
+      },
+      {
+        "text": "the Department of Health Sciences and Technology",
+        "label": "ORG",
+        "start": 1888,
+        "end": 1936
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Cosey",
+        "Dr McCoy",
+        "Peter Pan",
+        "Walter Karlen",
+        "de Peter Pan"
+      ],
+      "ORG": [
+        "Eth Zurich Walter Karlen",
+        "the Department for Health Science and Technology",
+        "the Department of Health Sciences and Technology",
+        "the Starship Enterprise"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [
+        "October 2014"
+      ],
+      "MISC": [
+        "French"
+      ]
+    },
+    "entity_counts": {
+      "Cosey": 2,
+      "Switzerland": 2,
+      "Walter Karlen": 2,
+      "Eth Zurich Walter Karlen": 1,
+      "Dr McCoy": 1,
+      "the Starship Enterprise": 1,
+      "de Peter Pan": 1,
+      "Peter Pan": 1,
+      "French": 1,
+      "the Department for Health Science and Technology": 1,
+      "October 2014": 1,
+      "the Department of Health Sciences and Technology": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-at-eth-zurich-walter-karlen.md",
+      "title": "En Internal/2015/02/new At Eth Zurich Walter Karlen",
+      "language": "en",
+      "source_path": "en_internal/2015/02/new-at-eth-zurich-walter-karlen.html"
+    },
+    "temporal": {
+      "publication_date": "2015-02",
+      "mentioned_years": [
+        "1979",
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Cosey",
+        "Dr McCoy",
+        "Peter Pan",
+        "Walter Karlen",
+        "de Peter Pan"
+      ],
+      "people_with_roles": {
+        "Walter Karlen": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "French"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Karlen How",
+        "Walter Karlen",
+        "En Internal",
+        "Peter Pan",
+        "Dr McCoy",
+        "At Eth",
+        "Starship Enterprise",
+        "Zurich Walter",
+        "D-HEST",
+        "Health Sciences",
+        "In Search",
+        "Health Science"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Health Sciences and Technology is strengthening its focus in the area of medical technology"
+      ],
+      "institutions": [
+        "Eth Zurich Walter Karlen",
+        "the Department for Health Science and Technology",
+        "the Department of Health Sciences and Technology",
+        "the Starship Enterprise"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Cosey",
+        "Switzerland",
+        "Walter Karlen",
+        "Eth Zurich Walter Karlen",
+        "Dr McCoy",
+        "the Starship Enterprise",
+        "de Peter Pan",
+        "Peter Pan",
+        "French",
+        "the Department for Health Science and Technology"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2079
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "Eth Zurich Walter Karlen",
+        "Cosey",
+        "Walter Karlen",
+        "1979",
+        "Peter Pan",
+        "Dr McCoy",
+        "the Starship Enterprise",
+        "the Department of Health Sciences and Technology",
+        "de Peter Pan",
+        "ERC",
+        "2014",
+        "the Department for Health Science and Technology"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "French",
+        "who",
+        "what",
+        "how",
+        "medical_research",
+        "why"
+      ],
+      "graph_relations": [
+        "Walter Karlen_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

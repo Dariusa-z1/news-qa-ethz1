@@ -1,0 +1,175 @@
+{
+  "filename": "researching-materials.md",
+  "original_filename": "researching-materials.html",
+  "source_path": "en_internal/2014/08/researching-materials.html",
+  "date": "2014-08",
+  "title": "Researching Materials",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Material Archive website offers a wealth of additional information on material description, properties, processing techniques and manufacturing methods. Moreover, photos illustrate traditional and innovative material patterns and application examples.\n\nThe collection is open to students and scientists from all disciplines and anyone else who is generally interested.\n\nWant to find out more about Calanca, Juglans or Raku? Then browse the Material Archive or visit the Baubibliothek. Perhaps you will even discover a new, favourite material.\n\nMaterial Collection Material Archive Baubibliothek"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Material Archive",
+        "label": "ORG",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Calanca",
+        "label": "ORG",
+        "start": 400,
+        "end": 407
+      },
+      {
+        "text": "Juglans",
+        "label": "NORP",
+        "start": 409,
+        "end": 416
+      },
+      {
+        "text": "Raku",
+        "label": "PERSON",
+        "start": 420,
+        "end": 424
+      },
+      {
+        "text": "the Material Archive",
+        "label": "ORG",
+        "start": 438,
+        "end": 458
+      },
+      {
+        "text": "Baubibliothek",
+        "label": "LOC",
+        "start": 472,
+        "end": 485
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Raku"
+      ],
+      "ORG": [
+        "Calanca",
+        "The Material Archive",
+        "the Material Archive"
+      ],
+      "LOCATION": [
+        "Baubibliothek"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Juglans"
+      ]
+    },
+    "entity_counts": {
+      "The Material Archive": 1,
+      "Calanca": 1,
+      "Juglans": 1,
+      "Raku": 1,
+      "the Material Archive": 1,
+      "Baubibliothek": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "researching-materials.md",
+      "title": "En Internal/2014/08/researching Materials",
+      "language": "en",
+      "source_path": "en_internal/2014/08/researching-materials.html"
+    },
+    "temporal": {
+      "publication_date": "2014-08",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Raku"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "Juglans"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Materials The",
+        "Material Archive",
+        "Material Collection",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Calanca",
+        "The Material Archive",
+        "the Material Archive"
+      ],
+      "locations": [
+        "Baubibliothek"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "The Material Archive",
+        "Calanca",
+        "Juglans",
+        "Raku",
+        "the Material Archive",
+        "Baubibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 640
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Material Archive",
+        "Raku",
+        "Calanca",
+        "The Material Archive",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "who",
+        "what",
+        "how",
+        "Juglans",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "filename": "podcast-one-universe.md",
+  "original_filename": "podcast-one-universe.html",
+  "source_path": "en_news_events/2021/06/podcast-one-universe.html",
+  "date": "2021-06",
+  "title": "Podcast One Universe",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Both researchers talk about their work in episode 29 of the ETH Podcast and contemplate the universe's dimension to time on planet earth."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "Universe",
+        "label": "ORG",
+        "start": 35,
+        "end": 43
+      },
+      {
+        "text": "the ETH Podcast",
+        "label": "ORG",
+        "start": 56,
+        "end": 71
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Universe",
+        "the ETH Podcast"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "One"
+      ]
+    },
+    "entity_counts": {
+      "One": 1,
+      "Universe": 1,
+      "the ETH Podcast": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-one-universe.md",
+      "title": "En News Events/2021/06/podcast One Universe",
+      "language": "en",
+      "source_path": "en_news_events/2021/06/podcast-one-universe.html"
+    },
+    "temporal": {
+      "publication_date": "2021-06",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH Podcast",
+        "One Universe",
+        "En News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Universe",
+        "the ETH Podcast"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "One",
+        "Universe",
+        "the ETH Podcast"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 181
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2021",
+        "Universe",
+        "the ETH Podcast"
+      ],
+      "semantic_concepts": [
+        "who",
+        "when",
+        "what"
+      ],
+      "graph_relations": []
+    }
+  }
+}

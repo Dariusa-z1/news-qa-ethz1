@@ -1,0 +1,332 @@
+{
+  "filename": "legendary-rowing-regatta-on-saturday.md",
+  "original_filename": "legendary-rowing-regatta-on-saturday.html",
+  "source_path": "en_news_events/2013/10/legendary-rowing-regatta-on-saturday.html",
+  "date": "2013-10",
+  "title": "Legendary Rowing Regatta On Saturday",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Keep your fingers crossed for the ETH rowing teams on Saturday when the UNI-POLY rowing regatta starts at 3 p.m.! Four categories of teams from the two universities will race each other between the Quai bridge and the Rathaus (town hall). The start is at the lower end of the lake and the finish line is between the Münster bridge and the Rathaus bridge. Eights with men’s and women’s student teams as well as teams of professors and alumni from ETH and the University of Zurich will contend for the victory and honour of their universities in best-of-three series.\n\nThe rowing competition between the two Zurich universities has been carried out regularly since 1945 – initially on Lake Zurich and now, since 2001, on the Limmat river. It was inspired by the legendary Thames race between the universities of Oxford and Cambridge. Teams of students from each university compete against each other on a 600-metre course. 2001 was the first year that women’s teams competed as well, and in 2005 the professors joined in. This year will be the first time that there are also alumni teams."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Saturday",
+        "label": "DATE",
+        "start": 51,
+        "end": 59
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "Saturday",
+        "label": "DATE",
+        "start": 54,
+        "end": 62
+      },
+      {
+        "text": "UNI",
+        "label": "ORG",
+        "start": 72,
+        "end": 75
+      },
+      {
+        "text": "3 p.m.",
+        "label": "TIME",
+        "start": 106,
+        "end": 112
+      },
+      {
+        "text": "Four",
+        "label": "CARDINAL",
+        "start": 114,
+        "end": 118
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 148,
+        "end": 151
+      },
+      {
+        "text": "Quai",
+        "label": "PERSON",
+        "start": 198,
+        "end": 202
+      },
+      {
+        "text": "Rathaus",
+        "label": "PERSON",
+        "start": 218,
+        "end": 225
+      },
+      {
+        "text": "Münster",
+        "label": "PERSON",
+        "start": 316,
+        "end": 323
+      },
+      {
+        "text": "Rathaus",
+        "label": "PERSON",
+        "start": 339,
+        "end": 346
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 446,
+        "end": 449
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 454,
+        "end": 478
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 601,
+        "end": 604
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 605,
+        "end": 611
+      },
+      {
+        "text": "Lake Zurich",
+        "label": "GPE",
+        "start": 682,
+        "end": 693
+      },
+      {
+        "text": "Limmat",
+        "label": "ORG",
+        "start": 722,
+        "end": 728
+      },
+      {
+        "text": "Oxford",
+        "label": "ORG",
+        "start": 809,
+        "end": 815
+      },
+      {
+        "text": "Cambridge",
+        "label": "GPE",
+        "start": 820,
+        "end": 829
+      },
+      {
+        "text": "600-metre",
+        "label": "QUANTITY",
+        "start": 902,
+        "end": 911
+      },
+      {
+        "text": "the first year",
+        "label": "DATE",
+        "start": 929,
+        "end": 943
+      },
+      {
+        "text": "This year",
+        "label": "DATE",
+        "start": 1019,
+        "end": 1028
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1041,
+        "end": 1046
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Münster",
+        "Quai",
+        "Rathaus"
+      ],
+      "ORG": [
+        "ETH",
+        "Limmat",
+        "Oxford",
+        "UNI",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Cambridge",
+        "Lake Zurich",
+        "Zurich"
+      ],
+      "DATE": [
+        "3 p.m.",
+        "Saturday",
+        "This year",
+        "the first year"
+      ],
+      "MISC": [
+        "600-metre",
+        "Four",
+        "first",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Saturday": 2,
+      "ETH": 2,
+      "two": 2,
+      "Rathaus": 2,
+      "UNI": 1,
+      "3 p.m.": 1,
+      "Four": 1,
+      "Quai": 1,
+      "Münster": 1,
+      "the University of Zurich": 1,
+      "Zurich": 1,
+      "Lake Zurich": 1,
+      "Limmat": 1,
+      "Oxford": 1,
+      "Cambridge": 1,
+      "600-metre": 1,
+      "the first year": 1,
+      "This year": 1,
+      "first": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "legendary-rowing-regatta-on-saturday.md",
+      "title": "En News Events/2013/10/legendary Rowing Regatta On Saturday",
+      "language": "en",
+      "source_path": "en_news_events/2013/10/legendary-rowing-regatta-on-saturday.html"
+    },
+    "temporal": {
+      "publication_date": "2013-10",
+      "mentioned_years": [
+        "1945",
+        "2001",
+        "2005",
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Münster",
+        "Quai",
+        "Rathaus"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor",
+        "alumni",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "600-metre",
+        "Four",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "On Saturday",
+        "En News",
+        "Lake Zurich",
+        "UNI-POLY",
+        "Rowing Regatta"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Limmat",
+        "Oxford",
+        "UNI",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Cambridge",
+        "Lake Zurich",
+        "Zurich"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Saturday",
+        "ETH",
+        "two",
+        "Rathaus",
+        "UNI",
+        "3 p.m.",
+        "Four",
+        "Quai",
+        "Münster",
+        "the University of Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1146
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Oxford",
+        "Rathaus",
+        "2013",
+        "Limmat",
+        "the University of Zurich",
+        "1945",
+        "2001",
+        "Münster",
+        "UNI",
+        "2005",
+        "Quai"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "Four",
+        "600-metre",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "filename": "continents-set-the-pace.md",
+  "original_filename": "continents-set-the-pace.html",
+  "source_path": "en_news_events/2014/01/continents-set-the-pace.html",
+  "date": "2014-01",
+  "title": "Continents Set The Pace",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Coupled three-dimensional representation",
+      "text": "The seafloor opens up on the mid-ocean ridges (MOR), which stretch through the world’s oceans for 10,000 kilometres. Here, hot magma material transported by the convection of the earth’s mantle reaches the surface and creates new oceanic crust. How these processes were triggered in Earth’s early history, however, is the subject of ongoing debate. Researchers from ETH Zurich and the University of Lyon have now reignited the discussion with new computer simulations."
+    },
+    {
+      "heading": "Crustal differences influence dynamics",
+      "text": "The researchers simulated how the local age distribution of the seafloor looks like under the assumption that the global share of the continental curst is 30 per cent. (Coltice N et al., Geology 2014)\n\nAccording to the scientists the simulations reveal that the continental crust influences the rate at which the oceanic crust is formed and thus the dynamics of the entire earth. Moreover, the scientists’ calculations indicate that while the continents were growing to their present size, the thermal output of the earth’s mantle varied greatly. The results also support the theory that around 90 per cent of the continental crust that exists today formed no later than 2.5 billion years ago. While computer models have greatly improved our understanding of the earth’s dynamics, how much and how quickly continental crust formed in the planet’s early history is not entirely clear."
+    },
+    {
+      "heading": "Coupled three-dimensional representation",
+      "text": "Paul Tackley, a professor of geophysics at ETH Zurich, and his team have spent the last few years developing and refining a model that can be used to illustrate physical processes on Earth in a coupled, three-dimensional manner. Although it is a heavily simplified model that does not reproduce all the conditions on Earth realistically, it is sufficient to simulate the fundamental mechanisms for its issues, stresses Tobias Rolf. During his doctorate under Tackley, the geophysicist used the model to examine the impact of the world’s entire existing continental crust on convection in the earth’s interior and the formation of oceanic crust. The results of the study, which Rolf achieved in collaboration with Nicolas Coltice from the University of Lyon, were recently published online in the journal Geology.\n\nToday, continental crust makes up around thirty percent of the earth’s surface. The continent crusts differ greatly from the oceanic crust in terms of thickness, density and their deformation and flow properties. This contrast influences plate-tectonic processes and the heat flow through the earth’s surface: while the MOR heat is conducted away from the earth’s interior, by comparison continents have a thermally insulating effect.\n\nConsequently, the scientists calculated the heat flow through the oceanic crust for a ten, thirty, fifty and seventy-per-cent continental crust cover of the earth’s surface on the supercomputer “Monte Rosa” at the Swiss National Supercomputing Centre (CSCS) in Lugano. Via the local heat flow, they used a standard method to determine the approximate age of the seafloor and the statistical age distribution in the ocean basin. Based on the calculations, the scientists were able to extrapolate the production rate of the oceanic crust depending on the individual continent size and determine how this production rate varied.\n\nThe results reveal that as the size of the continents increases, the production rate of the oceanic crust can as much as double. “As a consequence, the mean age of the seafloor found in the ocean basin decreases,” says Rolf. Today’s ocean beds are a maximum of 200 million years old, the reason being that the basaltic seafloor solidifies over millions of years and becomes so heavy that it sinks back into the earth’s mantle: the oceanic plate mostly becomes submerged beneath the less dense continental plate and a so-called subduction zone is formed.\n\nColtice N, Rolf T, Tackley PJ: Seafloor spreading evolution in response to continental growth, Geology, online publication 10 January 2014, doi: 10.1130/G35062.1"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "MOR",
+        "label": "ORG",
+        "start": 47,
+        "end": 50
+      },
+      {
+        "text": "10,000 kilometres",
+        "label": "QUANTITY",
+        "start": 98,
+        "end": 115
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 283,
+        "end": 288
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 366,
+        "end": 376
+      },
+      {
+        "text": "the University of Lyon",
+        "label": "ORG",
+        "start": 381,
+        "end": 403
+      },
+      {
+        "text": "30 per cent",
+        "label": "MONEY",
+        "start": 155,
+        "end": 166
+      },
+      {
+        "text": "Coltice N",
+        "label": "ORG",
+        "start": 169,
+        "end": 178
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 643,
+        "end": 648
+      },
+      {
+        "text": "years ago",
+        "label": "DATE",
+        "start": 682,
+        "end": 691
+      },
+      {
+        "text": "Paul Tackley",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 43,
+        "end": 53
+      },
+      {
+        "text": "the last few years",
+        "label": "DATE",
+        "start": 79,
+        "end": 97
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 183,
+        "end": 188
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 203,
+        "end": 208
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 317,
+        "end": 322
+      },
+      {
+        "text": "Tobias Rolf",
+        "label": "PERSON",
+        "start": 419,
+        "end": 430
+      },
+      {
+        "text": "Tackley",
+        "label": "PERSON",
+        "start": 459,
+        "end": 466
+      },
+      {
+        "text": "Rolf",
+        "label": "ORG",
+        "start": 677,
+        "end": 681
+      },
+      {
+        "text": "Nicolas Coltice",
+        "label": "PERSON",
+        "start": 713,
+        "end": 728
+      },
+      {
+        "text": "the University of Lyon",
+        "label": "ORG",
+        "start": 734,
+        "end": 756
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 813,
+        "end": 818
+      },
+      {
+        "text": "around thirty percent",
+        "label": "PERCENT",
+        "start": 847,
+        "end": 868
+      },
+      {
+        "text": "earth",
+        "label": "LOC",
+        "start": 876,
+        "end": 881
+      },
+      {
+        "text": "earth",
+        "label": "LOC",
+        "start": 1106,
+        "end": 1111
+      },
+      {
+        "text": "MOR",
+        "label": "ORG",
+        "start": 1133,
+        "end": 1136
+      },
+      {
+        "text": "earth",
+        "label": "LOC",
+        "start": 1169,
+        "end": 1174
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 1334,
+        "end": 1337
+      },
+      {
+        "text": "fifty",
+        "label": "CARDINAL",
+        "start": 1347,
+        "end": 1352
+      },
+      {
+        "text": "earth",
+        "label": "LOC",
+        "start": 1405,
+        "end": 1410
+      },
+      {
+        "text": "Monte Rosa",
+        "label": "WORK_OF_ART",
+        "start": 1443,
+        "end": 1453
+      },
+      {
+        "text": "the Swiss National Supercomputing Centre",
+        "label": "ORG",
+        "start": 1458,
+        "end": 1498
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 1500,
+        "end": 1504
+      },
+      {
+        "text": "Lugano",
+        "label": "GPE",
+        "start": 1509,
+        "end": 1515
+      },
+      {
+        "text": "Rolf",
+        "label": "PERSON",
+        "start": 2093,
+        "end": 2097
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 2099,
+        "end": 2104
+      },
+      {
+        "text": "200 million years old",
+        "label": "DATE",
+        "start": 2135,
+        "end": 2156
+      },
+      {
+        "text": "Coltice N",
+        "label": "ORG",
+        "start": 2428,
+        "end": 2437
+      },
+      {
+        "text": "January 2014",
+        "label": "DATE",
+        "start": 2554,
+        "end": 2566
+      },
+      {
+        "text": "10.1130",
+        "label": "CARDINAL",
+        "start": 2573,
+        "end": 2580
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Nicolas Coltice",
+        "Paul Tackley",
+        "Rolf",
+        "Tackley",
+        "Tobias Rolf"
+      ],
+      "ORG": [
+        "CSCS",
+        "Coltice N",
+        "ETH Zurich",
+        "MOR",
+        "Rolf",
+        "the Swiss National Supercomputing Centre",
+        "the University of Lyon"
+      ],
+      "LOCATION": [
+        "Earth",
+        "Lugano",
+        "earth"
+      ],
+      "DATE": [
+        "200 million years old",
+        "January 2014",
+        "Today",
+        "the last few years",
+        "today",
+        "years ago"
+      ],
+      "MISC": [
+        "10,000 kilometres",
+        "10.1130",
+        "30 per cent",
+        "Monte Rosa",
+        "around thirty percent",
+        "fifty",
+        "ten",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "earth": 4,
+      "Earth": 3,
+      "MOR": 2,
+      "ETH Zurich": 2,
+      "the University of Lyon": 2,
+      "Coltice N": 2,
+      "Rolf": 2,
+      "Today": 2,
+      "10,000 kilometres": 1,
+      "30 per cent": 1,
+      "today": 1,
+      "years ago": 1,
+      "Paul Tackley": 1,
+      "the last few years": 1,
+      "three": 1,
+      "Tobias Rolf": 1,
+      "Tackley": 1,
+      "Nicolas Coltice": 1,
+      "around thirty percent": 1,
+      "ten": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "continents-set-the-pace.md",
+      "title": "En News Events/2014/01/continents Set The Pace",
+      "language": "en",
+      "source_path": "en_news_events/2014/01/continents-set-the-pace.html"
+    },
+    "temporal": {
+      "publication_date": "2014-01",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Nicolas Coltice",
+        "Paul Tackley",
+        "Rolf",
+        "Tackley",
+        "Tobias Rolf"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher",
+          "professor"
+        ],
+        "Paul Tackley": [
+          "professor"
+        ],
+        "Tackley": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "10,000 kilometres",
+        "10.1130",
+        "30 per cent",
+        "Monte Rosa",
+        "around thirty percent",
+        "fifty",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Tobias Rolf",
+        "Monte Rosa",
+        "En News",
+        "Coltice N",
+        "Rolf T",
+        "Paul Tackley",
+        "Set The",
+        "Swiss National",
+        "Pace The",
+        "Nicolas Coltice",
+        "Supercomputing Centre",
+        "ETH Zurich",
+        "Tackley PJ"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSCS",
+        "Coltice N",
+        "ETH Zurich",
+        "MOR",
+        "Rolf",
+        "the Swiss National Supercomputing Centre",
+        "the University of Lyon"
+      ],
+      "locations": [
+        "Earth",
+        "Lugano",
+        "earth"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "earth",
+        "Earth",
+        "MOR",
+        "ETH Zurich",
+        "the University of Lyon",
+        "Coltice N",
+        "Rolf",
+        "Today",
+        "10,000 kilometres",
+        "30 per cent"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Coupled three-dimensional representation",
+          "Crustal differences influence dynamics",
+          "Coupled three-dimensional representation"
+        ],
+        "content_length": 3993
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Tobias Rolf",
+        "CSCS",
+        "the Swiss National Supercomputing Centre",
+        "Tackley",
+        "Coltice N",
+        "the University of Lyon",
+        "Paul Tackley",
+        "Nicolas Coltice",
+        "ETH Zurich",
+        "Rolf",
+        "ERC",
+        "2014",
+        "MOR"
+      ],
+      "semantic_concepts": [
+        "10.1130",
+        "Monte Rosa",
+        "three",
+        "who",
+        "fifty",
+        "10,000 kilometres",
+        "around thirty percent",
+        "what",
+        "how",
+        "30 per cent",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_professor",
+        "Paul Tackley_has_role_professor",
+        "Tackley_has_role_professor"
+      ]
+    }
+  }
+}

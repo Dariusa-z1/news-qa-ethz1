@@ -1,0 +1,497 @@
+{
+  "filename": "herzklappen-aus-silikon.md",
+  "original_filename": "herzklappen-aus-silikon.html",
+  "source_path": "en_news_events/2019/07/herzklappen-aus-silikon.html",
+  "date": "2019-07",
+  "title": "Herzklappen Aus Silikon",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Easier to make",
+      "text": "The human heart has four chambers, each equipped with a valve to ensure blood flow in one direction only. If any of the heart valves are leaking, narrowed or distended (or even ruptured), the blood runs back into the atria or ventricles, putting the entire heart under severe strain. In the worst case, this can lead to arrhythmia or even heart failure.\n\nDepending on the severity of the defect, artificial heart valves can be inserted to remedy the problem. Over the next few decades, demand for this type of surgery is likely to soar in many parts of the world due to the ageing population, lack of physical exercise and poor diet. It is estimated that around 850,000 people will require artificial heart valves in 2050.\n\nResearchers working at ETH Zurich and the South African company SAT have therefore been looking for an alternative to the replacement heart valves currently in use. And with some success: they have developed an artificial heart valve made of silicone, which is created in several steps using 3D printers. The scientists have reported on their work in an article in the latest issue of the scientific journal “ Matter ”.\n\nThe new model has several advantages over conventional heart valves: the silicone heart valve can be tailored more precisely to the patient, as the researchers first determine the individual shape and size of the leaky heart valve using computer tomography or magnetic resonance imaging. This makes it possible to print a heart valve that fits the patient’s heart chamber perfectly. The researchers use the images to create a digital model and a computer simulation to calculate in advance the forces acting on the implant and its potential deformation. The material used is also compatible with the human body, while the blood flow through the artificial heart valve is as good as with conventional replacement valves.\n\nHeart surgeons have traditionally used implants that consist either of hard polymers or animal tissue (from cows or pigs) combined with metal frames. To prevent the body rejecting these implants, patients have to take life-long immunosuppressants or anticoagulants, which have significant undesirable side effects."
+    },
+    {
+      "heading": "Easier to make",
+      "text": "In addition, conventional replacement valves have a very rigid geometric shape, making it challenging for surgeons to ensure a tight seal between the new valves and the cardiac tissue. “The replacement valves currently used are circular, but do not exactly match the shape of the aorta, which is different for each patient,” says Manuel Schaffner, one of the study’s lead authors and former doctoral student of André Studart, Professor for Complex Materials at ETH. On top of that, manufacturing artificial heart valves is both expensive and time-consuming.\n\nThe new type of silicone heart valves gets around this problem. It only takes about an hour and a half for researchers to produce such a valve with a 3D printer. By contrast, it takes several working days to make an artificial heart valve by hand from bovine material. Production with 3D printers could also be speeded up: a battery of printers could, for example, produce dozens or even hundreds of valves every day.\n\nFirst, the scientists create a negative impression of the valve. Silicone ink is sprayed onto this impression in the shape of a three-pointed crown, which forms the valve’s thin flaps. In the next step, an extrusion printer deposits tough silicone paste to print specific patterns of thin threads on their surface. These correspond to collagen fibres that pass through natural heart valves. The silicone threads reinforce the valve flap and extend the life of the replacement valve. The root of the blood vessel connected to the heart valve is printed using the same procedure and at the end is covered with a net-shaped stent, which is needed for connecting the silicone valve replacement to the patient’s cardiovascular system."
+    },
+    {
+      "heading": "Longer service life",
+      "text": "Initial tests have produced very promising results for the new valve’s function. The material scientists’ goal is to extend the life of these replacement valves to 10-15 years. This is how long current models last in patients before they need to be exchanged. “It would be marvellous if we could one day produce heart valves that last an entire lifetime and possibly even grow along with the patient, so that they could also be implanted in young people as well,” says Schaffner.\n\nHowever, it will still take at least 10 years before the new artificial heart valves come into clinical use, as they first have to go through exhaustive clinical trials.\n\nFergal Coulter, lead author of the study, is currently working on the further development of the silicone heart valve. “These experiments are needed to make sure that the technology has any chance at all of being used in human patients,” he stresses. Coulter is a postdoc in Professor Studart’s group and developed the 3D printers needed to produce the heart valves."
+    },
+    {
+      "heading": "New material is very robust",
+      "text": "Coulter is also continuing to experiment with new materials that could extend the life of the heart valves.\n\nHowever, either an industrial partner or possibly a spin-off is needed to make the heart valve commercially available on the market. “As a research group, we are unfortunately unable to provide a seamless offering from the first experiment to the first application in the human body,” Schaffner emphasises.\n\nCoulter FB, et al.: Bioinspired Heart Valve Prosthesis Made by Silicone Additive Manufacturing. Volume 1, Issue 1, 10 July 2019, Pages 266-279. DOI: 10.1016/j.matt.2019.05.013"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 20,
+        "end": 24
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 86,
+        "end": 89
+      },
+      {
+        "text": "the next few decades",
+        "label": "DATE",
+        "start": 463,
+        "end": 483
+      },
+      {
+        "text": "around 850,000",
+        "label": "CARDINAL",
+        "start": 654,
+        "end": 668
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 745,
+        "end": 755
+      },
+      {
+        "text": "South African",
+        "label": "NORP",
+        "start": 764,
+        "end": 777
+      },
+      {
+        "text": "SAT",
+        "label": "ORG",
+        "start": 786,
+        "end": 789
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1302,
+        "end": 1307
+      },
+      {
+        "text": "Manuel Schaffner",
+        "label": "PERSON",
+        "start": 330,
+        "end": 346
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 348,
+        "end": 351
+      },
+      {
+        "text": "André Studart",
+        "label": "PERSON",
+        "start": 411,
+        "end": 424
+      },
+      {
+        "text": "Complex Materials",
+        "label": "ORG",
+        "start": 440,
+        "end": 457
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 461,
+        "end": 464
+      },
+      {
+        "text": "about an hour and a half",
+        "label": "TIME",
+        "start": 636,
+        "end": 660
+      },
+      {
+        "text": "several working days",
+        "label": "DATE",
+        "start": 742,
+        "end": 762
+      },
+      {
+        "text": "dozens",
+        "label": "CARDINAL",
+        "start": 931,
+        "end": 937
+      },
+      {
+        "text": "hundreds",
+        "label": "CARDINAL",
+        "start": 946,
+        "end": 954
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 976,
+        "end": 981
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1104,
+        "end": 1109
+      },
+      {
+        "text": "10-15 years",
+        "label": "DATE",
+        "start": 164,
+        "end": 175
+      },
+      {
+        "text": "Schaffner",
+        "label": "ORG",
+        "start": 469,
+        "end": 478
+      },
+      {
+        "text": "at least 10 years",
+        "label": "DATE",
+        "start": 508,
+        "end": 525
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 597,
+        "end": 602
+      },
+      {
+        "text": "Coulter",
+        "label": "PERSON",
+        "start": 657,
+        "end": 664
+      },
+      {
+        "text": "Coulter",
+        "label": "PERSON",
+        "start": 901,
+        "end": 908
+      },
+      {
+        "text": "Studart",
+        "label": "PERSON",
+        "start": 935,
+        "end": 942
+      },
+      {
+        "text": "3D",
+        "label": "ORG",
+        "start": 969,
+        "end": 971
+      },
+      {
+        "text": "Coulter",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 331,
+        "end": 336
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 355,
+        "end": 360
+      },
+      {
+        "text": "al",
+        "label": "PERSON",
+        "start": 430,
+        "end": 432
+      },
+      {
+        "text": "Silicone Additive Manufacturing",
+        "label": "ORG",
+        "start": 478,
+        "end": 509
+      },
+      {
+        "text": "10 July 2019",
+        "label": "DATE",
+        "start": 530,
+        "end": 542
+      },
+      {
+        "text": "10.1016",
+        "label": "CARDINAL",
+        "start": 564,
+        "end": 571
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "André Studart",
+        "Coulter",
+        "Manuel Schaffner",
+        "Studart",
+        "al"
+      ],
+      "ORG": [
+        "3D",
+        "Complex Materials",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "SAT",
+        "Schaffner",
+        "Silicone Additive Manufacturing"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "10 July 2019",
+        "10-15 years",
+        "about an hour and a half",
+        "at least 10 years",
+        "several working days",
+        "the next few decades"
+      ],
+      "MISC": [
+        "10.1016",
+        "First",
+        "South African",
+        "around 850,000",
+        "dozens",
+        "first",
+        "four",
+        "hundreds",
+        "one",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "first": 4,
+      "Coulter": 3,
+      "one": 2,
+      "En News": 1,
+      "four": 1,
+      "the next few decades": 1,
+      "around 850,000": 1,
+      "ETH Zurich": 1,
+      "South African": 1,
+      "SAT": 1,
+      "Manuel Schaffner": 1,
+      "André Studart": 1,
+      "Complex Materials": 1,
+      "ETH": 1,
+      "about an hour and a half": 1,
+      "several working days": 1,
+      "dozens": 1,
+      "hundreds": 1,
+      "First": 1,
+      "three": 1
+    },
+    "total_entities": 35,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "herzklappen-aus-silikon.md",
+      "title": "En News Events/2019/07/herzklappen Aus Silikon",
+      "language": "en",
+      "source_path": "en_news_events/2019/07/herzklappen-aus-silikon.html"
+    },
+    "temporal": {
+      "publication_date": "2019-07",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "André Studart",
+        "Coulter",
+        "Manuel Schaffner",
+        "Studart",
+        "al"
+      ],
+      "people_with_roles": {
+        "André Studart": [
+          "student",
+          "professor"
+        ],
+        "Coulter": [
+          "professor"
+        ],
+        "Manuel Schaffner": [
+          "student",
+          "professor"
+        ],
+        "Studart": [
+          "Professor",
+          "student",
+          "professor"
+        ],
+        "al": [
+          "scientist",
+          "researcher",
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1016",
+        "First",
+        "South African",
+        "around 850,000",
+        "dozens",
+        "first",
+        "four",
+        "hundreds",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Coulter FB",
+        "Bioinspired Heart",
+        "En News",
+        "Aus Silikon",
+        "South African",
+        "Complex Materials",
+        "Valve Prosthesis",
+        "Fergal Coulter",
+        "ETH Zurich",
+        "Silicone Additive",
+        "Professor Studart",
+        "Manuel Schaffner"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "3D",
+        "Complex Materials",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "SAT",
+        "Schaffner",
+        "Silicone Additive Manufacturing"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "first",
+        "Coulter",
+        "one",
+        "En News",
+        "four",
+        "the next few decades",
+        "around 850,000",
+        "ETH Zurich",
+        "South African",
+        "SAT"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Easier to make",
+          "Easier to make",
+          "Longer service life",
+          "New material is very robust"
+        ],
+        "content_length": 5547
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Studart",
+        "En News",
+        "2019",
+        "SAT",
+        "André Studart",
+        "Coulter",
+        "Schaffner",
+        "3D",
+        "al",
+        "Complex Materials",
+        "Silicone Additive Manufacturing",
+        "ETH Zurich",
+        "ERC",
+        "Manuel Schaffner"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1016",
+        "dozens",
+        "first",
+        "three",
+        "four",
+        "around 850,000",
+        "who",
+        "chemistry",
+        "South African",
+        "hundreds",
+        "where",
+        "what",
+        "how",
+        "First",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "André Studart_has_role_student",
+        "André Studart_has_role_professor",
+        "Coulter_has_role_professor",
+        "Manuel Schaffner_has_role_student",
+        "Manuel Schaffner_has_role_professor",
+        "Studart_has_role_Professor",
+        "Studart_has_role_student",
+        "Studart_has_role_professor",
+        "al_has_role_scientist",
+        "al_has_role_researcher",
+        "al_has_role_student",
+        "al_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

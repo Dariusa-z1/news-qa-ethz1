@@ -1,0 +1,195 @@
+{
+  "filename": "New-York-Academy-of-Science-Digital-Archive.md",
+  "original_filename": "New-York-Academy-of-Science-Digital-Archive.html",
+  "source_path": "en_internal/2019/02/New-York-Academy-of-Science-Digital-Archive.html",
+  "date": "2019-02",
+  "title": "New York Academy Of Science Digital Archive",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Members of ETH Zurich now have access to the Wiley Digital Archives with interdisciplinary original materials from the New York Academy of Science dating back to its foundation in 1817. Access takes place via the Wiley Digital Archives and, besides research-related sources, it also gives insight into the internal administrative processes of the Academy and its members. Various analysis and visualisation tools round off the resources and enable this chapter of American science history to be utilised and visualised in a variety of ways.\n\nAccess is possible in ETH Zurich’s network and on ETH Library premises."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "York Academy Of Science Digital Archive",
+        "label": "ORG",
+        "start": 24,
+        "end": 63
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 11,
+        "end": 21
+      },
+      {
+        "text": "the Wiley Digital Archives",
+        "label": "ORG",
+        "start": 41,
+        "end": 67
+      },
+      {
+        "text": "the New York Academy of Science",
+        "label": "ORG",
+        "start": 115,
+        "end": 146
+      },
+      {
+        "text": "the Wiley Digital Archives",
+        "label": "ORG",
+        "start": 209,
+        "end": 235
+      },
+      {
+        "text": "Academy",
+        "label": "ORG",
+        "start": 347,
+        "end": 354
+      },
+      {
+        "text": "American",
+        "label": "NORP",
+        "start": 464,
+        "end": 472
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 591,
+        "end": 602
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "Academy",
+        "ETH Library",
+        "York Academy Of Science Digital Archive",
+        "the New York Academy of Science",
+        "the Wiley Digital Archives"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "American"
+      ]
+    },
+    "entity_counts": {
+      "the Wiley Digital Archives": 2,
+      "York Academy Of Science Digital Archive": 1,
+      "ETH Zurich": 1,
+      "the New York Academy of Science": 1,
+      "Academy": 1,
+      "American": 1,
+      "ETH Library": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "New-York-Academy-of-Science-Digital-Archive.md",
+      "title": "En Internal/2019/02/new York Academy Of Science Digital Archive",
+      "language": "en",
+      "source_path": "en_internal/2019/02/New-York-Academy-of-Science-Digital-Archive.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering",
+        "mathematics"
+      ],
+      "research_topics": [
+        "American"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Digital Archive",
+        "ETH Library",
+        "York Academy",
+        "En Internal",
+        "New York",
+        "Wiley Digital",
+        "ETH Zurich",
+        "Of Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Academy",
+        "ETH Library",
+        "York Academy Of Science Digital Archive",
+        "the New York Academy of Science",
+        "the Wiley Digital Archives"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "the Wiley Digital Archives",
+        "York Academy Of Science Digital Archive",
+        "ETH Zurich",
+        "the New York Academy of Science",
+        "Academy",
+        "American",
+        "ETH Library"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 677
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Wiley Digital Archives",
+        "2019",
+        "ETH Library",
+        "York Academy Of Science Digital Archive",
+        "ETH Zurich",
+        "Academy",
+        "the New York Academy of Science"
+      ],
+      "semantic_concepts": [
+        "mathematics",
+        "American",
+        "what",
+        "how",
+        "engineering",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_engineering",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

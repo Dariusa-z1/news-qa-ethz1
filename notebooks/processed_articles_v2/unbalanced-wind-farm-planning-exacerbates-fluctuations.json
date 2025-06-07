@@ -1,0 +1,724 @@
+{
+  "filename": "unbalanced-wind-farm-planning-exacerbates-fluctuations.md",
+  "original_filename": "unbalanced-wind-farm-planning-exacerbates-fluctuations.html",
+  "source_path": "en_news_events/2017/07/unbalanced-wind-farm-planning-exacerbates-fluctuations.html",
+  "date": "2017-07",
+  "title": "Unbalanced Wind Farm Planning Exacerbates Fluctuations",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Combining weather data and production capacities",
+      "text": "The expansion of renewable energy has been widely criticised for increasing weather-dependent fluctuations in European electricity generation. A new study shows that this is due less to the variability of weather than from a failure to consider the large-scale weather conditions across the whole continent: many European countries are unilaterally following national strategies to expand wind energy capacities without looking beyond their own backyard.\n\nIt would be better, however, for individual countries to work together and to promote the expansion of wind capacity in other European regions that are currently making very little use of wind power. Balancing capacity across the continent would effectively minimise the extreme fluctuations caused by the varied weather conditions that currently affect wind speeds. This is the conclusion reached by a group of weather and energy researchers from ETH Zürich and Imperial College London in a new study, which has just been published in the journal Nature Climate Change ."
+    },
+    {
+      "heading": "Combining weather data and production capacities",
+      "text": "The researchers conducted their study by combining Europe-wide data on large-scale weather conditions from the past 30 years with wind and solar electricity production data. This made use of the Renewables.ninja platform developed at ETH Zürich for simulating the output of Europe’s wind and solar farms based on historical weather data. This open simulation tool is available for anyone to use worldwide, as part of the effort to improve transparency and openness of science.\n\nThe researchers used this data to model how wind power is related to seven prevailing “weather regimes” in Europe and how it will change with the further expansion of wind energy capacity. These weather regimes explain why European wind electricity generation suffers from fluctuations lasting several days.\n\nSome regimes are characterised by cyclones rolling in from the Atlantic bringing high winds to western Europe, but these are accompanied by concurrent calm conditions in the east. Other regimes see calmer weather from the Atlantic. But at the same time, wind speeds consistently increase in southern Europe and northern Scandinavia.\n\n“There is hardly a weather situation in which there is no wind across the entire continent and thus all of Europe would lack wind power potential” explain Christian Grams, lead author of the study from the Institute for Atmospheric and Climate Science at ETH Zurich.\n\nHowever, today’s wind farms are distributed irregularly across Europe, mostly in countries bordering the North Sea. This results in uneven wind electricity generation, because most capacity is installed in neighbouring countries with similar weather conditions. This means that if a stable high-pressure system causes a lull for a few days or even weeks over the North Sea, as happened in the winter of 2016/17, Europe-wide wind electricity generation drops dramatically."
+    },
+    {
+      "heading": "Cooperation would compensate for fluctuations",
+      "text": "The problem for Europe’s power system will be exacerbated by countries following their own national strategies for expanding wind power, which will further concentrate capacity in the North Sea region. This will lead to even more extreme fluctuations: the difference between high production in favourable wind conditions and low production during a lull could be as much as 100 gigawatts – roughly the same capacity as 100 nuclear power plants – and would have to be made available or held back within the course of only a few days.\n\nIf European countries were to cooperate and set up future wind farms based on understanding of the continent-scale weather regimes, fluctuations in future wind energy could be stabilised at the current level of around 20 gigawatts. The Balkans, Greece, the western Mediterranean, and northern Scandinavia are all potential sites.\n\nThese locations would all have enough wind if, for example, high pressure led to a lull in the North Sea. Likewise, if a stable high-pressure area slowed wind production in the Mediterranean, the wind farms around the North Sea would produce enough electricity. “This is why wind capacity in countries such as Greece or Bulgaria could act as a valuable counterbalance to Europe’s current wind farms. However, this would require a paradigm shift in the planning strategies of countries with wind power potential,” emphasises co-author Iain Staffell from Imperial College London."
+    },
+    {
+      "heading": "Electricity storage not feasible",
+      "text": "The authors say that it would be difficult to store electricity for several days to balance these multi-day fluctuations – with batteries or pumped-storage lakes in the Alps, for example – since the necessary amount of storage capacity will not be available in the foreseeable future. Current storage technologies are more suited to compensating for shorter fluctuations of a few hours or days.\n\nMoreover, a wider geographical distribution of wind farms also requires the expansion of the transmission grid. However, such a pan-European renewable energy system could still provide Switzerland with the opportunity to use its hydropower capacities more economically in order to compensate for short-term fluctuations."
+    },
+    {
+      "heading": "Political will and network expansion needed",
+      "text": "Using solar energy to compensate for gaps over several days would only work on a regional level at best. The researchers say that in order to compensate for fluctuations across Europe, solar energy capacity would have to be increased tenfold.\n\n“The sun often shines when it’s calm,” explains co-author Stefan Pfenninger, from the Institute for Environmental Decisions at ETH Zürich, “but in winter, there is often not enough sunshine in central and northern Europe to produce sufficient electricity using solar panels.” It would therefore make little sense to compensate for fluctuations in wind energy with a massive expansion of solar capacity.\n\nThe researchers now hope that energy producers and network operators, as well as governments and politicians, will hear about these new findings and better coordinate Europe-wide planning and grid expansion.\n\nGrams, C.M., R. Beerli, S. Pfenninger, I. Staffell, and H. Wernli, 2017: Balancing Europe’s wind power output through spatial deployment informed by weather regimes. Nature Climate Change, Advanced Online Publication 17th July 2017, doi: 10.1038/nclimate3338"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Wind Farm Planning Exacerbates",
+        "label": "ORG",
+        "start": 34,
+        "end": 64
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 110,
+        "end": 118
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 313,
+        "end": 321
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 581,
+        "end": 589
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 903,
+        "end": 913
+      },
+      {
+        "text": "Imperial College London",
+        "label": "ORG",
+        "start": 918,
+        "end": 941
+      },
+      {
+        "text": "Nature Climate Change",
+        "label": "ORG",
+        "start": 1003,
+        "end": 1024
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 51,
+        "end": 57
+      },
+      {
+        "text": "the past 30 years",
+        "label": "DATE",
+        "start": 107,
+        "end": 124
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 234,
+        "end": 244
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 274,
+        "end": 280
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 546,
+        "end": 551
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 584,
+        "end": 590
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 700,
+        "end": 708
+      },
+      {
+        "text": "several days",
+        "label": "DATE",
+        "start": 771,
+        "end": 783
+      },
+      {
+        "text": "Atlantic",
+        "label": "LOC",
+        "start": 848,
+        "end": 856
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 888,
+        "end": 894
+      },
+      {
+        "text": "Atlantic",
+        "label": "LOC",
+        "start": 1007,
+        "end": 1015
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1085,
+        "end": 1091
+      },
+      {
+        "text": "Scandinavia",
+        "label": "LOC",
+        "start": 1105,
+        "end": 1116
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1225,
+        "end": 1231
+      },
+      {
+        "text": "Christian Grams",
+        "label": "PERSON",
+        "start": 1273,
+        "end": 1288
+      },
+      {
+        "text": "the Institute for Atmospheric and Climate Science",
+        "label": "ORG",
+        "start": 1320,
+        "end": 1369
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1394,
+        "end": 1399
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1448,
+        "end": 1454
+      },
+      {
+        "text": "the North Sea",
+        "label": "LOC",
+        "start": 1486,
+        "end": 1499
+      },
+      {
+        "text": "a few days",
+        "label": "DATE",
+        "start": 1714,
+        "end": 1724
+      },
+      {
+        "text": "weeks",
+        "label": "DATE",
+        "start": 1733,
+        "end": 1738
+      },
+      {
+        "text": "the North Sea",
+        "label": "LOC",
+        "start": 1744,
+        "end": 1757
+      },
+      {
+        "text": "the winter",
+        "label": "DATE",
+        "start": 1774,
+        "end": 1784
+      },
+      {
+        "text": "2016/17",
+        "label": "CARDINAL",
+        "start": 1788,
+        "end": 1795
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1797,
+        "end": 1803
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 16,
+        "end": 22
+      },
+      {
+        "text": "the North Sea",
+        "label": "LOC",
+        "start": 180,
+        "end": 193
+      },
+      {
+        "text": "as much as",
+        "label": "CARDINAL",
+        "start": 363,
+        "end": 373
+      },
+      {
+        "text": "only a few days",
+        "label": "DATE",
+        "start": 516,
+        "end": 531
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 536,
+        "end": 544
+      },
+      {
+        "text": "Balkans",
+        "label": "LOC",
+        "start": 769,
+        "end": 776
+      },
+      {
+        "text": "Greece",
+        "label": "GPE",
+        "start": 778,
+        "end": 784
+      },
+      {
+        "text": "Mediterranean",
+        "label": "LOC",
+        "start": 798,
+        "end": 811
+      },
+      {
+        "text": "Scandinavia",
+        "label": "LOC",
+        "start": 826,
+        "end": 837
+      },
+      {
+        "text": "the North Sea",
+        "label": "LOC",
+        "start": 954,
+        "end": 967
+      },
+      {
+        "text": "Mediterranean",
+        "label": "LOC",
+        "start": 1040,
+        "end": 1053
+      },
+      {
+        "text": "the North Sea",
+        "label": "LOC",
+        "start": 1077,
+        "end": 1090
+      },
+      {
+        "text": "Greece",
+        "label": "GPE",
+        "start": 1173,
+        "end": 1179
+      },
+      {
+        "text": "Bulgaria",
+        "label": "GPE",
+        "start": 1183,
+        "end": 1191
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1234,
+        "end": 1240
+      },
+      {
+        "text": "Iain Staffell",
+        "label": "PERSON",
+        "start": 1397,
+        "end": 1410
+      },
+      {
+        "text": "Imperial College London",
+        "label": "ORG",
+        "start": 1416,
+        "end": 1439
+      },
+      {
+        "text": "several days",
+        "label": "DATE",
+        "start": 68,
+        "end": 80
+      },
+      {
+        "text": "multi-day",
+        "label": "DATE",
+        "start": 98,
+        "end": 107
+      },
+      {
+        "text": "Alps",
+        "label": "LOC",
+        "start": 169,
+        "end": 173
+      },
+      {
+        "text": "a few hours or",
+        "label": "TIME",
+        "start": 374,
+        "end": 388
+      },
+      {
+        "text": "pan-European",
+        "label": "NORP",
+        "start": 523,
+        "end": 535
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 580,
+        "end": 591
+      },
+      {
+        "text": "several days",
+        "label": "DATE",
+        "start": 47,
+        "end": 59
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 177,
+        "end": 183
+      },
+      {
+        "text": "Stefan Pfenninger",
+        "label": "PERSON",
+        "start": 301,
+        "end": 318
+      },
+      {
+        "text": "the Institute for Environmental Decisions",
+        "label": "ORG",
+        "start": 325,
+        "end": 366
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 370,
+        "end": 380
+      },
+      {
+        "text": "winter",
+        "label": "DATE",
+        "start": 390,
+        "end": 396
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 457,
+        "end": 463
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 813,
+        "end": 819
+      },
+      {
+        "text": "Grams",
+        "label": "PERSON",
+        "start": 854,
+        "end": 859
+      },
+      {
+        "text": "C.M.",
+        "label": "GPE",
+        "start": 861,
+        "end": 865
+      },
+      {
+        "text": "R. Beerli",
+        "label": "PERSON",
+        "start": 867,
+        "end": 876
+      },
+      {
+        "text": "S. Pfenninger",
+        "label": "PERSON",
+        "start": 878,
+        "end": 891
+      },
+      {
+        "text": "I. Staffell",
+        "label": "PERSON",
+        "start": 893,
+        "end": 904
+      },
+      {
+        "text": "H. Wernli",
+        "label": "PERSON",
+        "start": 910,
+        "end": 919
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 937,
+        "end": 943
+      },
+      {
+        "text": "Nature Climate Change,",
+        "label": "ORG",
+        "start": 1020,
+        "end": 1042
+      },
+      {
+        "text": "July 2017",
+        "label": "DATE",
+        "start": 1076,
+        "end": 1085
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1092,
+        "end": 1099
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christian Grams",
+        "Grams",
+        "H. Wernli",
+        "I. Staffell",
+        "Iain Staffell",
+        "R. Beerli",
+        "S. Pfenninger",
+        "Stefan Pfenninger"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Imperial College London",
+        "Nature Climate Change",
+        "Nature Climate Change,",
+        "Wind Farm Planning Exacerbates",
+        "the Institute for Atmospheric and Climate Science",
+        "the Institute for Environmental Decisions"
+      ],
+      "LOCATION": [
+        "Alps",
+        "Atlantic",
+        "Balkans",
+        "Bulgaria",
+        "C.M.",
+        "Europe",
+        "Greece",
+        "Mediterranean",
+        "Scandinavia",
+        "Switzerland",
+        "the North Sea"
+      ],
+      "DATE": [
+        "July 2017",
+        "a few days",
+        "a few hours or",
+        "multi-day",
+        "only a few days",
+        "several days",
+        "the past 30 years",
+        "the winter",
+        "today",
+        "weeks",
+        "winter"
+      ],
+      "MISC": [
+        "10.1038",
+        "2016/17",
+        "European",
+        "as much as",
+        "pan-European",
+        "seven"
+      ]
+    },
+    "entity_counts": {
+      "Europe": 14,
+      "European": 5,
+      "the North Sea": 5,
+      "ETH Zürich": 3,
+      "several days": 3,
+      "Imperial College London": 2,
+      "Atlantic": 2,
+      "Scandinavia": 2,
+      "Greece": 2,
+      "Mediterranean": 2,
+      "Wind Farm Planning Exacerbates": 1,
+      "Nature Climate Change": 1,
+      "the past 30 years": 1,
+      "seven": 1,
+      "Christian Grams": 1,
+      "the Institute for Atmospheric and Climate Science": 1,
+      "today": 1,
+      "a few days": 1,
+      "weeks": 1,
+      "the winter": 1
+    },
+    "total_entities": 73,
+    "unique_entities": 43
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "unbalanced-wind-farm-planning-exacerbates-fluctuations.md",
+      "title": "En News Events/2017/07/unbalanced Wind Farm Planning Exacerbates Fluctuations",
+      "language": "en",
+      "source_path": "en_news_events/2017/07/unbalanced-wind-farm-planning-exacerbates-fluctuations.html"
+    },
+    "temporal": {
+      "publication_date": "2017-07",
+      "mentioned_years": [
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christian Grams",
+        "Grams",
+        "H. Wernli",
+        "I. Staffell",
+        "Iain Staffell",
+        "R. Beerli",
+        "S. Pfenninger",
+        "Stefan Pfenninger"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology"
+      ],
+      "research_topics": [
+        "10.1038",
+        "2016/17",
+        "European",
+        "as much as",
+        "pan-European",
+        "seven"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Planning Exacerbates",
+        "Balancing Europe",
+        "Fluctuations The",
+        "En News",
+        "Iain Staffell",
+        "Wind Farm",
+        "Stefan Pfenninger",
+        "Advanced Online",
+        "ETH Zurich",
+        "Christian Grams",
+        "If European",
+        "Nature Climate",
+        "Imperial College",
+        "Climate Science",
+        "Environmental Decisions",
+        "The Balkans",
+        "North Sea"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Atmospheric and Climate Science at ETH Zurich",
+        "Environmental Decisions at ETH Z"
+      ],
+      "institutions": [
+        "ETH Zürich",
+        "Imperial College London",
+        "Nature Climate Change",
+        "Nature Climate Change,",
+        "Wind Farm Planning Exacerbates",
+        "the Institute for Atmospheric and Climate Science",
+        "the Institute for Environmental Decisions"
+      ],
+      "locations": [
+        "Alps",
+        "Atlantic",
+        "Balkans",
+        "Bulgaria",
+        "C.M.",
+        "Europe",
+        "Greece",
+        "Mediterranean",
+        "Scandinavia",
+        "Switzerland",
+        "the North Sea"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Europe",
+        "European",
+        "the North Sea",
+        "ETH Zürich",
+        "several days",
+        "Imperial College London",
+        "Atlantic",
+        "Scandinavia",
+        "Greece",
+        "Mediterranean"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Combining weather data and production capacities",
+          "Combining weather data and production capacities",
+          "Cooperation would compensate for fluctuations",
+          "Electricity storage not feasible",
+          "Political will and network expansion needed"
+        ],
+        "content_length": 6242
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Institute for Environmental Decisions",
+        "R. Beerli",
+        "the Institute for Atmospheric and Climate Science",
+        "I. Staffell",
+        "Imperial College London",
+        "Iain Staffell",
+        "2017",
+        "EU",
+        "Wind Farm Planning Exacerbates",
+        "Grams",
+        "2016",
+        "ETH Zürich",
+        "Nature Climate Change",
+        "H. Wernli",
+        "Christian Grams",
+        "Nature Climate Change,",
+        "Stefan Pfenninger",
+        "S. Pfenninger"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "seven",
+        "why",
+        "who",
+        "10.1038",
+        "pan-European",
+        "what",
+        "how",
+        "European",
+        "climate_change",
+        "as much as",
+        "when",
+        "where",
+        "2016/17"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

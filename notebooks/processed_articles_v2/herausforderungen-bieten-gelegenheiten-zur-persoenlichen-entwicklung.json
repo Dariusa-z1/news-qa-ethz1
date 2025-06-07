@@ -1,0 +1,119 @@
+{
+  "filename": "herausforderungen-bieten-gelegenheiten-zur-persoenlichen-entwicklung.md",
+  "original_filename": "herausforderungen-bieten-gelegenheiten-zur-persoenlichen-entwicklung.html",
+  "source_path": "de_news_events/2024/02/herausforderungen-bieten-gelegenheiten-zur-persoenlichen-entwicklung.html",
+  "date": "2024-02",
+  "title": "Herausforderungen Bieten Gelegenheiten Zur Persoenlichen Entwicklung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Beratung für Studierende",
+      "text": "An Leidenschaft für die Informatik fehlte es Georgette Weingärtner nie. An der ETH erlebt aber auch sie Situationen, in denen sich die Herausforderungen auftürmen. Im Video erzählt sie, wer und was ihr dabei hilft, diese zu meistern."
+    },
+    {
+      "heading": "Beratung für Studierende",
+      "text": "Es stehen Ihnen Beratungsstellen für alle Situationen im Studium zur Verfügung."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Georgette Weingärtner",
+        "label": "PER",
+        "start": 45,
+        "end": 66
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 79,
+        "end": 82
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Georgette Weingärtner"
+      ],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Georgette Weingärtner": 1,
+      "ETH": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "herausforderungen-bieten-gelegenheiten-zur-persoenlichen-entwicklung.md",
+      "title": "De News Events/2024/02/herausforderungen Bieten Gelegenheiten Zur Persoenlichen Entwicklung",
+      "language": "de",
+      "source_path": "de_news_events/2024/02/herausforderungen-bieten-gelegenheiten-zur-persoenlichen-entwicklung.html"
+    },
+    "temporal": {
+      "publication_date": "2024-02",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Georgette Weingärtner"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Zur Persoenlichen",
+        "Ihnen Beratungsstellen",
+        "Im Video",
+        "Bieten Gelegenheiten",
+        "De News",
+        "Entwicklung An"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Georgette Weingärtner",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Beratung für Studierende",
+          "Beratung für Studierende"
+        ],
+        "content_length": 405
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "ETH",
+        "Georgette Weingärtner"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

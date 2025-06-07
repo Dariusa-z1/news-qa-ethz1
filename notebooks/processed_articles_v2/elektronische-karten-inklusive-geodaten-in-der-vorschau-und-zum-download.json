@@ -1,0 +1,273 @@
+{
+  "filename": "elektronische-karten-inklusive-geodaten-in-der-vorschau-und-zum-download.md",
+  "original_filename": "elektronische-karten-inklusive-geodaten-in-der-vorschau-und-zum-download.html",
+  "source_path": "en_internal/2022/04/elektronische-karten-inklusive-geodaten-in-der-vorschau-und-zum-download.html",
+  "date": "2022-04",
+  "title": "Elektronische Karten Inklusive Geodaten In Der Vorschau Und Zum Download",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Benefit from modern and historical maps",
+      "text": "Are you looking for maps for your research, teaching or private holiday travel? Do you need high-resolution and georeferenced data, preferably in open-data form for further use in GIS software? Then browse the new offering of electronic maps . The growing range of digital maps relating to bodies of water, coastlines and more includes, for example, the Geologische Küstenkarte von Niedersachsen: Relief der Holozänbasis (2006) [Geological map of the coast of Lower Saxony: relief of the Holocene base (2006) and the Häfen des Schwarzen Meeres an der asiatischen Küste (nach 1855) [Black Sea ports on the Asian coast (after 1855)] ."
+    },
+    {
+      "heading": "Benefit from modern and historical maps",
+      "text": "The new and continuously expanded offering includes new Swiss and international acquisitions of electronic maps. In addition, you will find hundreds of digitised maps from the historical holdings of the ETH Library, which, thanks to georeferencing, can easily be used in a versatile manner.\n\nMore than just data – Benefit from know-​how\n\n#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Karten Inklusive Geodaten",
+        "label": "PERSON",
+        "start": 34,
+        "end": 59
+      },
+      {
+        "text": "Vorschau",
+        "label": "PERSON",
+        "start": 67,
+        "end": 75
+      },
+      {
+        "text": "Zum Download",
+        "label": "PERSON",
+        "start": 80,
+        "end": 92
+      },
+      {
+        "text": "the Geologische Küstenkarte von Niedersachsen",
+        "label": "ORG",
+        "start": 350,
+        "end": 395
+      },
+      {
+        "text": "Relief der Holozänbasis",
+        "label": "ORG",
+        "start": 397,
+        "end": 420
+      },
+      {
+        "text": "Lower Saxony",
+        "label": "FAC",
+        "start": 460,
+        "end": 472
+      },
+      {
+        "text": "Holocene",
+        "label": "PERSON",
+        "start": 488,
+        "end": 496
+      },
+      {
+        "text": "Häfen",
+        "label": "PERSON",
+        "start": 517,
+        "end": 522
+      },
+      {
+        "text": "Küste",
+        "label": "PERSON",
+        "start": 563,
+        "end": 568
+      },
+      {
+        "text": "Black Sea",
+        "label": "LOC",
+        "start": 582,
+        "end": 591
+      },
+      {
+        "text": "Asian",
+        "label": "NORP",
+        "start": 605,
+        "end": 610
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 56,
+        "end": 61
+      },
+      {
+        "text": "hundreds",
+        "label": "CARDINAL",
+        "start": 140,
+        "end": 148
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 199,
+        "end": 214
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 378,
+        "end": 393
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Holocene",
+        "Häfen",
+        "Karten Inklusive Geodaten",
+        "Küste",
+        "Vorschau",
+        "Zum Download"
+      ],
+      "ORG": [
+        "Relief der Holozänbasis",
+        "the ETH Library",
+        "the Geologische Küstenkarte von Niedersachsen"
+      ],
+      "LOCATION": [
+        "Black Sea",
+        "Lower Saxony"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Asian",
+        "Swiss",
+        "hundreds"
+      ]
+    },
+    "entity_counts": {
+      "the ETH Library": 2,
+      "Karten Inklusive Geodaten": 1,
+      "Vorschau": 1,
+      "Zum Download": 1,
+      "the Geologische Küstenkarte von Niedersachsen": 1,
+      "Relief der Holozänbasis": 1,
+      "Lower Saxony": 1,
+      "Holocene": 1,
+      "Häfen": 1,
+      "Küste": 1,
+      "Black Sea": 1,
+      "Asian": 1,
+      "Swiss": 1,
+      "hundreds": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "elektronische-karten-inklusive-geodaten-in-der-vorschau-und-zum-download.md",
+      "title": "En Internal/2022/04/elektronische Karten Inklusive Geodaten in der Vorschau und Zum Download",
+      "language": "en",
+      "source_path": "en_internal/2022/04/elektronische-karten-inklusive-geodaten-in-der-vorschau-und-zum-download.html"
+    },
+    "temporal": {
+      "publication_date": "2022-04",
+      "mentioned_years": [
+        "2006",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Holocene",
+        "Häfen",
+        "Karten Inklusive Geodaten",
+        "Küste",
+        "Vorschau",
+        "Zum Download"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "Asian",
+        "Swiss",
+        "hundreds"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Karten Inklusive",
+        "Black Sea",
+        "Lower Saxony",
+        "ETH Library",
+        "En Internal",
+        "Schwarzen Meeres",
+        "Zum Download"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Relief der Holozänbasis",
+        "the ETH Library",
+        "the Geologische Küstenkarte von Niedersachsen"
+      ],
+      "locations": [
+        "Black Sea",
+        "Lower Saxony"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "the ETH Library",
+        "Karten Inklusive Geodaten",
+        "Vorschau",
+        "Zum Download",
+        "the Geologische Küstenkarte von Niedersachsen",
+        "Relief der Holozänbasis",
+        "Lower Saxony",
+        "Holocene",
+        "Häfen",
+        "Küste"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Benefit from modern and historical maps",
+          "Benefit from modern and historical maps"
+        ],
+        "content_length": 1174
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Vorschau",
+        "Karten Inklusive Geodaten",
+        "Holocene",
+        "Küste",
+        "2022",
+        "Relief der Holozänbasis",
+        "the Geologische Küstenkarte von Niedersachsen",
+        "Zum Download",
+        "2006",
+        "the ETH Library",
+        "Häfen"
+      ],
+      "semantic_concepts": [
+        "Swiss",
+        "Asian",
+        "hundreds",
+        "what",
+        "how",
+        "computer_science",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

@@ -1,0 +1,579 @@
+{
+  "filename": "how-urea-may-have-been-the-gateway-to-life.md",
+  "original_filename": "how-urea-may-have-been-the-gateway-to-life.html",
+  "source_path": "en_news_events/2023/06/how-urea-may-have-been-the-gateway-to-life.html",
+  "date": "2023-06",
+  "title": "How Urea May Have Been The Gateway To Life",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- Researchers can now observe chemical reactions taking place in liquids at high temporal resolution.\n\n- Using their new method, the researchers studied a chemical reaction that may have led to the emergence of life on Earth.\n\n- The method is relevant not only in biochemistry but also for important industrial synthesis reactions."
+    },
+    {
+      "heading": "Molecular pioneer in biochemistry",
+      "text": "Researchers from ETH Zurich and the University of Geneva have developed a new method that allows them to observe chemical reactions taking place in liquids at extremely high temporal resolution. This means they can examine how molecules change within just a few femtoseconds – in other words, within a few quadrillionths of a second. The method is based on earlier work done by the same group of researchers led by Hans Jakob Wörner, Professor of Physical Chemistry at ETH Zurich. That work yielded similar results for reactions that take place in gas environments.\n\nTo expand their X-ray spectroscopy observations to liquids, the researchers had to design an apparatus capable of producing a liquid jet with a diameter of less than one micrometre in a vacuum. This was essential because if the jet were any wider, it would absorb some of the X-rays used to measure it."
+    },
+    {
+      "heading": "Molecular pioneer in biochemistry",
+      "text": "Using the new method, the researchers were able to gain insights into the processes that led to the emergence of life on Earth. Many scientists assume that urea played a pivotal role here. It is one of the simplest molecules containing both carbon and nitrogen. What’s more, it’s highly likely that urea was present even when the Earth was very young, something that was also suggested by a famous experiment done in the 1950s: American scientist Stanley Miller concocted a mixture of those gases believed to have made up the planet’s primordial atmosphere and exposed it to the conditions of a thunderstorm. This produced a series of molecules, one of which was urea.\n\nAccording to current theories, the urea could have become enriched in warm puddles – commonly called primordial soup – on the then lifeless Earth. As the water in this soup evaporated, the concentration of urea increased. Through exposure to ionising radiation such as cosmic rays, it’s possible that this concentrated urea produced malonic acid over multiple synthesis steps. In turn, this may have created the building blocks of RNA and DNA."
+    },
+    {
+      "heading": "Why this exact reaction tool place",
+      "text": "Using their new method, the researchers from ETH Zurich and the University of Geneva investigated the first step in this long series of chemical reactions to find out how a concentrated urea solution behaves when exposed to ionising radiation."
+    },
+    {
+      "heading": "Reference",
+      "text": "It’s important to know that the urea molecules in a concentrated urea solution group themselves into pairs, or what are known as dimers. As the researchers have now been able to show, ionising radiation causes a hydrogen atom within each of these dimers to move from one urea molecule to the other. This turns one urea molecule into a protonated urea molecule, and the other into a urea radical. The latter is highly chemically reactive – so reactive, in fact, that it’s very likely to react with other molecules, thereby also forming malonic acid.\n\nThe researchers also managed to show that this transfer of a hydrogen atom happens extremely quickly, taking only around 150 femtoseconds, or 150 quadrillionths of a second. “That’s so fast that this reaction preempts all other reactions that might theoretically also take place,” Wörner says. “This explains why concentrated urea solutions produce urea radicals rather than hosting other reactions that would produce other molecules.”\n\nIn the future, Wörner and his colleagues want to examine the next steps that lead to the formation of malonic acid. They hope this will help them to understand the origins of life on Earth.\n\nAs for their new method, it can also generally be used to examine the precise sequence of chemical reactions in liquids. “A whole host of important chemical reactions take place in liquids – not just all biochemical processes in the human body, but also a great many chemical syntheses relevant to industry,” Wörner says. “This is why it’s so important that we have now expanded the scope of X-ray spectroscopy at high temporal resolution to include reactions in liquids.”\n\nThe researchers from ETH Zurich and the University of Geneva were assisted in this work by colleagues from Deutsches Elektronen-Synchrotron DESY in Hamburg, who performed calculations required to interpret measurement data.\n\nYin Z, Chang YP, Balčiūnas T, Shakya Y, Djorović A, Gaulier G, Fazio G, Santra R, Inhester L, Wolf JP, Wörner HJ: Femtosecond Proton Transfer in Urea Solutions Probed by X-ray Spectroscopy, Nature, 28 June 2023, doi: 10.1038/s41586-023-06182-6"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Urea May Have Been The Gateway To Life",
+        "label": "ORG",
+        "start": 27,
+        "end": 65
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 218,
+        "end": 223
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 17,
+        "end": 27
+      },
+      {
+        "text": "the University of Geneva",
+        "label": "ORG",
+        "start": 32,
+        "end": 56
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 326,
+        "end": 332
+      },
+      {
+        "text": "Hans Jakob Wörner",
+        "label": "PERSON",
+        "start": 415,
+        "end": 432
+      },
+      {
+        "text": "Physical Chemistry",
+        "label": "ORG",
+        "start": 447,
+        "end": 465
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 469,
+        "end": 479
+      },
+      {
+        "text": "less than one",
+        "label": "CARDINAL",
+        "start": 722,
+        "end": 735
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 121,
+        "end": 126
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 330,
+        "end": 335
+      },
+      {
+        "text": "the 1950s",
+        "label": "DATE",
+        "start": 417,
+        "end": 426
+      },
+      {
+        "text": "American",
+        "label": "NORP",
+        "start": 428,
+        "end": 436
+      },
+      {
+        "text": "Stanley Miller",
+        "label": "PERSON",
+        "start": 447,
+        "end": 461
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 646,
+        "end": 649
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 809,
+        "end": 814
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 1100,
+        "end": 1103
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 45,
+        "end": 55
+      },
+      {
+        "text": "the University of Geneva",
+        "label": "ORG",
+        "start": 60,
+        "end": 84
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 102,
+        "end": 107
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 267,
+        "end": 270
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 310,
+        "end": 313
+      },
+      {
+        "text": "only around 150",
+        "label": "CARDINAL",
+        "start": 658,
+        "end": 673
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 715,
+        "end": 721
+      },
+      {
+        "text": "Wörner",
+        "label": "PERSON",
+        "start": 830,
+        "end": 836
+      },
+      {
+        "text": "Wörner",
+        "label": "PERSON",
+        "start": 1000,
+        "end": 1006
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1168,
+        "end": 1173
+      },
+      {
+        "text": "Wörner",
+        "label": "PERSON",
+        "start": 1484,
+        "end": 1490
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1669,
+        "end": 1679
+      },
+      {
+        "text": "the University of Geneva",
+        "label": "ORG",
+        "start": 1684,
+        "end": 1708
+      },
+      {
+        "text": "Deutsches Elektronen-Synchrotron DESY",
+        "label": "ORG",
+        "start": 1755,
+        "end": 1792
+      },
+      {
+        "text": "Hamburg",
+        "label": "GPE",
+        "start": 1796,
+        "end": 1803
+      },
+      {
+        "text": "Yin Z",
+        "label": "PERSON",
+        "start": 1872,
+        "end": 1877
+      },
+      {
+        "text": "Chang YP",
+        "label": "PERSON",
+        "start": 1879,
+        "end": 1887
+      },
+      {
+        "text": "Balčiūnas",
+        "label": "GPE",
+        "start": 1889,
+        "end": 1898
+      },
+      {
+        "text": "Shakya Y",
+        "label": "PERSON",
+        "start": 1902,
+        "end": 1910
+      },
+      {
+        "text": "Djorović A",
+        "label": "ORG",
+        "start": 1912,
+        "end": 1922
+      },
+      {
+        "text": "Gaulier G",
+        "label": "PERSON",
+        "start": 1924,
+        "end": 1933
+      },
+      {
+        "text": "Fazio G",
+        "label": "PERSON",
+        "start": 1935,
+        "end": 1942
+      },
+      {
+        "text": "Santra",
+        "label": "PERSON",
+        "start": 1944,
+        "end": 1950
+      },
+      {
+        "text": "Inhester L",
+        "label": "ORG",
+        "start": 1954,
+        "end": 1964
+      },
+      {
+        "text": "Wolf JP",
+        "label": "PERSON",
+        "start": 1966,
+        "end": 1973
+      },
+      {
+        "text": "Femtosecond Proton Transfer",
+        "label": "PERSON",
+        "start": 1986,
+        "end": 2013
+      },
+      {
+        "text": "Urea Solutions Probed",
+        "label": "ORG",
+        "start": 2017,
+        "end": 2038
+      },
+      {
+        "text": "Nature",
+        "label": "GPE",
+        "start": 2062,
+        "end": 2068
+      },
+      {
+        "text": "28 June 2023",
+        "label": "DATE",
+        "start": 2070,
+        "end": 2082
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2089,
+        "end": 2096
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chang YP",
+        "Fazio G",
+        "Femtosecond Proton Transfer",
+        "Gaulier G",
+        "Hans Jakob Wörner",
+        "Santra",
+        "Shakya Y",
+        "Stanley Miller",
+        "Wolf JP",
+        "Wörner",
+        "Yin Z"
+      ],
+      "ORG": [
+        "Deutsches Elektronen-Synchrotron DESY",
+        "Djorović A",
+        "ETH Zurich",
+        "Inhester L",
+        "Physical Chemistry",
+        "RNA",
+        "Urea May Have Been The Gateway To Life",
+        "Urea Solutions Probed",
+        "the University of Geneva"
+      ],
+      "LOCATION": [
+        "Balčiūnas",
+        "Earth",
+        "Hamburg",
+        "Nature"
+      ],
+      "DATE": [
+        "28 June 2023",
+        "the 1950s"
+      ],
+      "MISC": [
+        "10.1038",
+        "American",
+        "first",
+        "less than one",
+        "one",
+        "only around 150",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "Earth": 5,
+      "ETH Zurich": 4,
+      "the University of Geneva": 3,
+      "one": 3,
+      "Wörner": 3,
+      "second": 2,
+      "Urea May Have Been The Gateway To Life": 1,
+      "Hans Jakob Wörner": 1,
+      "Physical Chemistry": 1,
+      "less than one": 1,
+      "the 1950s": 1,
+      "American": 1,
+      "Stanley Miller": 1,
+      "RNA": 1,
+      "first": 1,
+      "only around 150": 1,
+      "Deutsches Elektronen-Synchrotron DESY": 1,
+      "Hamburg": 1,
+      "Yin Z": 1,
+      "Chang YP": 1
+    },
+    "total_entities": 47,
+    "unique_entities": 33
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-urea-may-have-been-the-gateway-to-life.md",
+      "title": "En News Events/2023/06/how Urea May Have Been The Gateway To Life",
+      "language": "en",
+      "source_path": "en_news_events/2023/06/how-urea-may-have-been-the-gateway-to-life.html"
+    },
+    "temporal": {
+      "publication_date": "2023-06",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chang YP",
+        "Fazio G",
+        "Femtosecond Proton Transfer",
+        "Gaulier G",
+        "Hans Jakob Wörner",
+        "Santra",
+        "Shakya Y",
+        "Stanley Miller",
+        "Wolf JP",
+        "Wörner",
+        "Yin Z"
+      ],
+      "people_with_roles": {
+        "Hans Jakob Wörner": [
+          "researcher",
+          "professor"
+        ],
+        "Stanley Miller": [
+          "scientist"
+        ],
+        "Wörner": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "American",
+        "first",
+        "less than one",
+        "only around 150",
+        "second"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Stanley Miller",
+        "Chang YP",
+        "Gaulier G",
+        "The Gateway",
+        "Fazio G",
+        "Femtosecond Proton",
+        "Synchrotron DESY",
+        "Hans Jakob",
+        "Inhester L",
+        "Wolf JP",
+        "Yin Z",
+        "Have Been",
+        "Urea Solutions",
+        "En News",
+        "Shakya Y",
+        "Santra R",
+        "Urea May",
+        "Physical Chemistry",
+        "Deutsches Elektronen",
+        "To Life",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Deutsches Elektronen-Synchrotron DESY",
+        "Djorović A",
+        "ETH Zurich",
+        "Inhester L",
+        "Physical Chemistry",
+        "RNA",
+        "Urea May Have Been The Gateway To Life",
+        "Urea Solutions Probed",
+        "the University of Geneva"
+      ],
+      "locations": [
+        "Balčiūnas",
+        "Earth",
+        "Hamburg",
+        "Nature"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Earth",
+        "ETH Zurich",
+        "the University of Geneva",
+        "one",
+        "Wörner",
+        "second",
+        "Urea May Have Been The Gateway To Life",
+        "Hans Jakob Wörner",
+        "Physical Chemistry",
+        "less than one"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "In brief",
+          "Molecular pioneer in biochemistry",
+          "Molecular pioneer in biochemistry",
+          "Why this exact reaction tool place",
+          "Reference"
+        ],
+        "content_length": 4746
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Wörner",
+        "Stanley Miller",
+        "Djorović A",
+        "Chang YP",
+        "Gaulier G",
+        "Fazio G",
+        "Urea May Have Been The Gateway To Life",
+        "Inhester L",
+        "Wolf JP",
+        "RNA",
+        "Yin Z",
+        "EU",
+        "Hans Jakob Wörner",
+        "Urea Solutions Probed",
+        "Deutsches Elektronen-Synchrotron DESY",
+        "Shakya Y",
+        "the University of Geneva",
+        "Physical Chemistry",
+        "Santra",
+        "ETH Zurich",
+        "Femtosecond Proton Transfer",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "less than one",
+        "who",
+        "American",
+        "10.1038",
+        "only around 150",
+        "chemistry",
+        "what",
+        "second",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Hans Jakob Wörner_has_role_researcher",
+        "Hans Jakob Wörner_has_role_professor",
+        "Stanley Miller_has_role_scientist",
+        "Wörner_has_role_researcher",
+        "Wörner_has_role_professor",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

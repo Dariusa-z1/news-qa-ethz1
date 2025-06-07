@@ -1,0 +1,174 @@
+{
+  "filename": "we-wish-you-a-merry-christmas.md",
+  "original_filename": "we-wish-you-a-merry-christmas.html",
+  "source_path": "en_internal/2015/12/we-wish-you-a-merry-christmas.html",
+  "date": "2015-12",
+  "title": "We Wish You A Merry Christmas",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "We will be on holiday from 24 December to 4 January. We would like to thank you for your interest and wish you a very merry Christmas, a happy New Year and – most importantly – a fantastic 2016.\n\nThe internal communications team:\n\nNorbert Staub, Florian Meyer, Isabel Nägele and Andrea Schmits"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "24 December to 4 January",
+        "label": "DATE",
+        "start": 27,
+        "end": 51
+      },
+      {
+        "text": "Christmas",
+        "label": "DATE",
+        "start": 124,
+        "end": 133
+      },
+      {
+        "text": "New Year",
+        "label": "EVENT",
+        "start": 143,
+        "end": 151
+      },
+      {
+        "text": "Norbert Staub",
+        "label": "PERSON",
+        "start": 229,
+        "end": 242
+      },
+      {
+        "text": "Florian Meyer",
+        "label": "PERSON",
+        "start": 244,
+        "end": 257
+      },
+      {
+        "text": "Nägele",
+        "label": "PERSON",
+        "start": 266,
+        "end": 272
+      },
+      {
+        "text": "Andrea Schmits",
+        "label": "PERSON",
+        "start": 277,
+        "end": 291
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andrea Schmits",
+        "Florian Meyer",
+        "Norbert Staub",
+        "Nägele"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [
+        "24 December to 4 January",
+        "Christmas"
+      ],
+      "MISC": [
+        "New Year"
+      ]
+    },
+    "entity_counts": {
+      "24 December to 4 January": 1,
+      "Christmas": 1,
+      "New Year": 1,
+      "Norbert Staub": 1,
+      "Florian Meyer": 1,
+      "Nägele": 1,
+      "Andrea Schmits": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "we-wish-you-a-merry-christmas.md",
+      "title": "En Internal/2015/12/we Wish You A Merry Christmas",
+      "language": "en",
+      "source_path": "en_internal/2015/12/we-wish-you-a-merry-christmas.html"
+    },
+    "temporal": {
+      "publication_date": "2015-12",
+      "mentioned_years": [
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andrea Schmits",
+        "Florian Meyer",
+        "Norbert Staub",
+        "Nägele"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "New Year"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "New Year",
+        "Wish You",
+        "Norbert Staub",
+        "En Internal",
+        "Florian Meyer",
+        "A Merry",
+        "Christmas We",
+        "Andrea Schmits"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "24 December to 4 January",
+        "Christmas",
+        "New Year",
+        "Norbert Staub",
+        "Florian Meyer",
+        "Nägele",
+        "Andrea Schmits"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 343
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "Norbert Staub",
+        "2016",
+        "Florian Meyer",
+        "Nägele",
+        "Andrea Schmits"
+      ],
+      "semantic_concepts": [
+        "New Year",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

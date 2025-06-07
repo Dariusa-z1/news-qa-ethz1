@@ -1,0 +1,201 @@
+{
+  "filename": "forum-for-women-in-omputer-science-becomes-csnow.md",
+  "original_filename": "forum-for-women-in-omputer-science-becomes-csnow.html",
+  "source_path": "en_internal/2016/10/forum-for-women-in-omputer-science-becomes-csnow.html",
+  "date": "2016-10",
+  "title": "Forum For Women In Omputer Science Becomes Csnow",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "CSNOW, the Network of Women in Computer Science (formerly Forum for Women in Computer Science), invites all interested students, faculty members and staff to join us as we take a step forward towards diversifying our environment.\n\nOur mission is to support women before, during and after their Computer Science studies at ETH. To achieve this, we conduct a wide spectrum of activities, from introducing high school students to computer science, up to career coaching and preparing students for their first professional roles.\n\nOn Wednesday, 2nd of November, 5pm at CAB G51, we are relaunching our organization under a new name and logo. Event highlights include a message by the Head of Department, Prof. Dr. Emo Welzl and an address by the rector of ETH Zurich, Prof. Dr. Sarah M. Springman, followed by an apero riche.\n\nMore information here: www.frauen.inf.ethz.ch/archiv/2016/csnowlaunch ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the Network of Women in Computer Science",
+        "label": "ORG",
+        "start": 7,
+        "end": 47
+      },
+      {
+        "text": "Computer Science",
+        "label": "ORG",
+        "start": 293,
+        "end": 309
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 321,
+        "end": 324
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 499,
+        "end": 504
+      },
+      {
+        "text": "Wednesday, 2nd of November, 5pm",
+        "label": "DATE",
+        "start": 528,
+        "end": 559
+      },
+      {
+        "text": "CAB G51",
+        "label": "FAC",
+        "start": 563,
+        "end": 570
+      },
+      {
+        "text": "the Head of Department",
+        "label": "ORG",
+        "start": 673,
+        "end": 695
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 749,
+        "end": 759
+      },
+      {
+        "text": "Sarah M. Springman",
+        "label": "PERSON",
+        "start": 771,
+        "end": 789
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Sarah M. Springman"
+      ],
+      "ORG": [
+        "Computer Science",
+        "ETH",
+        "ETH Zurich",
+        "the Head of Department",
+        "the Network of Women in Computer Science"
+      ],
+      "LOCATION": [
+        "CAB G51"
+      ],
+      "DATE": [
+        "Wednesday, 2nd of November, 5pm"
+      ],
+      "MISC": [
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "the Network of Women in Computer Science": 1,
+      "Computer Science": 1,
+      "ETH": 1,
+      "first": 1,
+      "Wednesday, 2nd of November, 5pm": 1,
+      "CAB G51": 1,
+      "the Head of Department": 1,
+      "ETH Zurich": 1,
+      "Sarah M. Springman": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "forum-for-women-in-omputer-science-becomes-csnow.md",
+      "title": "En Internal/2016/10/forum For Women in Omputer Science Becomes Csnow",
+      "language": "en",
+      "source_path": "en_internal/2016/10/forum-for-women-in-omputer-science-becomes-csnow.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Sarah M. Springman"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "rector",
+        "head",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "For Women",
+        "Omputer Science",
+        "Sarah M",
+        "En Internal",
+        "Emo Welzl",
+        "On Wednesday",
+        "Becomes Csnow",
+        "ETH Zurich",
+        "Computer Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Computer Science",
+        "ETH",
+        "ETH Zurich",
+        "the Head of Department",
+        "the Network of Women in Computer Science"
+      ],
+      "locations": [
+        "CAB G51"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "the Network of Women in Computer Science",
+        "Computer Science",
+        "ETH",
+        "first",
+        "Wednesday, 2nd of November, 5pm",
+        "CAB G51",
+        "the Head of Department",
+        "ETH Zurich",
+        "Sarah M. Springman"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 962
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Sarah M. Springman",
+        "the Network of Women in Computer Science",
+        "2016",
+        "the Head of Department",
+        "ETH Zurich",
+        "Computer Science"
+      ],
+      "semantic_concepts": [
+        "first"
+      ],
+      "graph_relations": []
+    }
+  }
+}

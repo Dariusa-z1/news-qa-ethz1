@@ -1,0 +1,230 @@
+{
+  "filename": "doppelt-gekruemmtes-betondach-fertiggestellt.md",
+  "original_filename": "doppelt-gekruemmtes-betondach-fertiggestellt.html",
+  "source_path": "de_news_events/2020/10/doppelt-gekruemmtes-betondach-fertiggestellt.html",
+  "date": "2020-10",
+  "title": "Doppelt Gekruemmtes Betondach Fertiggestellt",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In Zusammenarbeit mit Partnern aus der Bauindustrie haben Forschende der Block Research Group (BRG) der ETH Zürich nun das komplexe, doppelt-gekrümmte Betondach für die HiLo-Einheit des NEST-Gebäudes fertig gestellt. NEST ist eine Forschungsplattform von der Empa und Eawag, die Platz für die Erprobung neuer Gebäudetechnologien unter realen Bedingungen bietet. Die neue ausdrucksstarke Betonschale zeigt, wie durch die Kombination effizienter Betontragwerke mit neuartigen Herstellungs- und Konstruktionsmethoden eine hohe («Hi» wie high) Leistung bei geringen («Lo» wie low) verkörperten Emissionen erreicht werden kann."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Gekruemmtes",
+        "label": "PER",
+        "start": 31,
+        "end": 42
+      },
+      {
+        "text": "Partnern",
+        "label": "PER",
+        "start": 22,
+        "end": 30
+      },
+      {
+        "text": "Block Research Group",
+        "label": "ORG",
+        "start": 73,
+        "end": 93
+      },
+      {
+        "text": "BRG",
+        "label": "LOC",
+        "start": 95,
+        "end": 98
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 104,
+        "end": 114
+      },
+      {
+        "text": "Betondach",
+        "label": "PER",
+        "start": 151,
+        "end": 160
+      },
+      {
+        "text": "NEST-Gebäudes",
+        "label": "MISC",
+        "start": 186,
+        "end": 199
+      },
+      {
+        "text": "NEST",
+        "label": "ORG",
+        "start": 217,
+        "end": 221
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 259,
+        "end": 263
+      },
+      {
+        "text": "Eawag",
+        "label": "LOC",
+        "start": 268,
+        "end": 273
+      },
+      {
+        "text": "Hi",
+        "label": "MISC",
+        "start": 526,
+        "end": 528
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Betondach",
+        "De News",
+        "Gekruemmtes",
+        "Partnern"
+      ],
+      "ORG": [
+        "Block Research Group",
+        "ETH Zürich",
+        "Empa",
+        "NEST"
+      ],
+      "LOCATION": [
+        "BRG",
+        "Eawag"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Hi",
+        "NEST-Gebäudes"
+      ]
+    },
+    "entity_counts": {
+      "De News": 1,
+      "Gekruemmtes": 1,
+      "Partnern": 1,
+      "Block Research Group": 1,
+      "BRG": 1,
+      "ETH Zürich": 1,
+      "Betondach": 1,
+      "NEST-Gebäudes": 1,
+      "NEST": 1,
+      "Empa": 1,
+      "Eawag": 1,
+      "Hi": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "doppelt-gekruemmtes-betondach-fertiggestellt.md",
+      "title": "De News Events/2020/10/doppelt Gekruemmtes Betondach Fertiggestellt",
+      "language": "de",
+      "source_path": "de_news_events/2020/10/doppelt-gekruemmtes-betondach-fertiggestellt.html"
+    },
+    "temporal": {
+      "publication_date": "2020-10",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Betondach",
+        "De News",
+        "Gekruemmtes",
+        "Partnern"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "NEST-Gebäudes"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Fertiggestellt In",
+        "Gekruemmtes Betondach",
+        "HiLo-Einheit",
+        "De News",
+        "Block Research"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Block Research Group",
+        "ETH Zürich",
+        "Empa",
+        "NEST"
+      ],
+      "locations": [
+        "BRG",
+        "Eawag"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "De News",
+        "Gekruemmtes",
+        "Partnern",
+        "Block Research Group",
+        "BRG",
+        "ETH Zürich",
+        "Betondach",
+        "NEST-Gebäudes",
+        "NEST",
+        "Empa"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 690
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "NEST",
+        "Betondach",
+        "EU",
+        "2020",
+        "Partnern",
+        "ETH Zürich",
+        "De News",
+        "Gekruemmtes",
+        "Block Research Group",
+        "Empa"
+      ],
+      "semantic_concepts": [
+        "NEST-Gebäudes",
+        "what",
+        "how"
+      ],
+      "graph_relations": []
+    }
+  }
+}

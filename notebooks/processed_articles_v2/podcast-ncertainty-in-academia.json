@@ -1,0 +1,263 @@
+{
+  "filename": "podcast-ncertainty-in-academia.md",
+  "original_filename": "podcast-ncertainty-in-academia.html",
+  "source_path": "en_news_events/2021/04/podcast-ncertainty-in-academia.html",
+  "date": "2021-04",
+  "title": "Podcast Ncertainty In Academia",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Helga Nowotny is an internationally recognized researcher on Social Studies of Science. She is professor emerita from the ETH and is on many advisory boards. Eric Burns just finished his Ph.D. at ETH and is pursuing a career in Switzerland.\n\nIn the last episode of the Uncertainty-Series, we talk to Helga and Eric about why uncertainty in research is eminent but at the same time increases pressure on researchers regarding their position.\n\nAn episode of different generations on one subject."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Academia",
+        "label": "ORG",
+        "start": 45,
+        "end": 53
+      },
+      {
+        "text": "Helga Nowotny",
+        "label": "PERSON",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Social Studies of Science",
+        "label": "ORG",
+        "start": 61,
+        "end": 86
+      },
+      {
+        "text": "emerita",
+        "label": "PERSON",
+        "start": 105,
+        "end": 112
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 122,
+        "end": 125
+      },
+      {
+        "text": "Eric Burns",
+        "label": "PERSON",
+        "start": 158,
+        "end": 168
+      },
+      {
+        "text": "Ph.D.",
+        "label": "WORK_OF_ART",
+        "start": 187,
+        "end": 192
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 196,
+        "end": 199
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 228,
+        "end": 239
+      },
+      {
+        "text": "the Uncertainty-Series",
+        "label": "EVENT",
+        "start": 264,
+        "end": 286
+      },
+      {
+        "text": "Helga",
+        "label": "PERSON",
+        "start": 299,
+        "end": 304
+      },
+      {
+        "text": "Eric",
+        "label": "PERSON",
+        "start": 309,
+        "end": 313
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 479,
+        "end": 482
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Eric",
+        "Eric Burns",
+        "Helga",
+        "Helga Nowotny",
+        "emerita"
+      ],
+      "ORG": [
+        "Academia",
+        "ETH",
+        "Social Studies of Science"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Ph.D.",
+        "one",
+        "the Uncertainty-Series"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Academia": 1,
+      "Helga Nowotny": 1,
+      "Social Studies of Science": 1,
+      "emerita": 1,
+      "Eric Burns": 1,
+      "Ph.D.": 1,
+      "Switzerland": 1,
+      "the Uncertainty-Series": 1,
+      "Helga": 1,
+      "Eric": 1,
+      "one": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-ncertainty-in-academia.md",
+      "title": "En News Events/2021/04/podcast Ncertainty in Academia",
+      "language": "en",
+      "source_path": "en_news_events/2021/04/podcast-ncertainty-in-academia.html"
+    },
+    "temporal": {
+      "publication_date": "2021-04",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Eric",
+        "Eric Burns",
+        "Helga",
+        "Helga Nowotny",
+        "emerita"
+      ],
+      "people_with_roles": {
+        "Eric": [
+          "researcher"
+        ],
+        "Helga": [
+          "researcher"
+        ],
+        "Helga Nowotny": [
+          "researcher"
+        ],
+        "emerita": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Ph.D.",
+        "the Uncertainty-Series"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Social Studies",
+        "Uncertainty-Series",
+        "En News",
+        "Eric Burns",
+        "Academia Helga"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Academia",
+        "ETH",
+        "Social Studies of Science"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Academia",
+        "Helga Nowotny",
+        "Social Studies of Science",
+        "emerita",
+        "Eric Burns",
+        "Ph.D.",
+        "Switzerland",
+        "the Uncertainty-Series",
+        "Helga"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 547
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Helga",
+        "ETH",
+        "Social Studies of Science",
+        "Eric Burns",
+        "Eric",
+        "Academia",
+        "emerita",
+        "Helga Nowotny",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "the Uncertainty-Series",
+        "why",
+        "when",
+        "Ph.D."
+      ],
+      "graph_relations": [
+        "Eric_has_role_researcher",
+        "Helga_has_role_researcher",
+        "Helga Nowotny_has_role_researcher",
+        "emerita_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

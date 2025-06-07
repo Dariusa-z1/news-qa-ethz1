@@ -1,0 +1,113 @@
+{
+  "filename": "abteilung-betrieb-plant-kundenzufriedenheitsumfrage-2016.md",
+  "original_filename": "abteilung-betrieb-plant-kundenzufriedenheitsumfrage-2016.html",
+  "source_path": "en_internal/2016/08/abteilung-betrieb-plant-kundenzufriedenheitsumfrage-2016.html",
+  "date": "2016-08",
+  "title": "Abteilung Betrieb Plant Kundenzufriedenheitsumfrage 2016",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In autumn 2016, we will once again be carrying out a survey in order to gauge the level of satisfaction amongst our customers.\n\nThe intention is to use the assessments, requirements and requests that emerge from this survey as a basis for developing carefully planned measures to boost our users’ trust and satisfaction in our services."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Betrieb Plant Kundenzufriedenheitsumfrage",
+        "label": "ORG",
+        "start": 30,
+        "end": 71
+      },
+      {
+        "text": "autumn 2016",
+        "label": "DATE",
+        "start": 3,
+        "end": 14
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Betrieb Plant Kundenzufriedenheitsumfrage"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "autumn 2016"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Betrieb Plant Kundenzufriedenheitsumfrage": 1,
+      "autumn 2016": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "abteilung-betrieb-plant-kundenzufriedenheitsumfrage-2016.md",
+      "title": "En Internal/2016/08/abteilung Betrieb Plant Kundenzufriedenheitsumfrage 2016",
+      "language": "en",
+      "source_path": "en_internal/2016/08/abteilung-betrieb-plant-kundenzufriedenheitsumfrage-2016.html"
+    },
+    "temporal": {
+      "publication_date": "2016-08",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Betrieb Plant",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Betrieb Plant Kundenzufriedenheitsumfrage"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Betrieb Plant Kundenzufriedenheitsumfrage",
+        "autumn 2016"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 413
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Betrieb Plant Kundenzufriedenheitsumfrage",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "technology"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "filename": "masterplan-campus-hoenggerberg-2040.md",
+  "original_filename": "masterplan-campus-hoenggerberg-2040.html",
+  "source_path": "en_internal/2018/05/masterplan-campus-hoenggerberg-2040.html",
+  "date": "2018-05",
+  "title": "Masterplan Campus Hoenggerberg 2040",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Hönggerberg campus will play a key role in meeting the university’s space requirements in the future. The development works are based on a master plan known as Campus Hönggerberg 2040. This plan details how ETH Zurich will use infill development to enhance the campus on its existing premises over the coming decades.\n\nThe vision is of an attractive campus with a city neighbourhood feel, combining buildings for teaching and research with public gardens, open spaces, and a lively boulevard with cafés and shops.\n\nUlrich Weidmann, Vice President Human Resources and Infrastructure, and Katja Kalkstein-Eggimann, Project Manager Master Plan 2040, will provide more details in person on 4 June 2018 from 12 to 1 p.m. in HCI G 3 (presentations in German, questions in German or English.). Please register here to attend this event (registration form in German).\n\nFind more information on the Campus Hönggerberg 2040 Master Plan ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Campus Hoenggerberg",
+        "label": "PERSON",
+        "start": 31,
+        "end": 50
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 4,
+        "end": 15
+      },
+      {
+        "text": "Campus Hönggerberg 2040",
+        "label": "PERSON",
+        "start": 164,
+        "end": 187
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 211,
+        "end": 221
+      },
+      {
+        "text": "the coming decades",
+        "label": "DATE",
+        "start": 302,
+        "end": 320
+      },
+      {
+        "text": "Ulrich Weidmann",
+        "label": "PERSON",
+        "start": 517,
+        "end": 532
+      },
+      {
+        "text": "Katja Kalkstein-Eggimann",
+        "label": "PERSON",
+        "start": 589,
+        "end": 613
+      },
+      {
+        "text": "4 June 2018",
+        "label": "DATE",
+        "start": 688,
+        "end": 699
+      },
+      {
+        "text": "12 to 1 p.m.",
+        "label": "TIME",
+        "start": 705,
+        "end": 717
+      },
+      {
+        "text": "HCI",
+        "label": "GPE",
+        "start": 721,
+        "end": 724
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 747,
+        "end": 753
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 768,
+        "end": 774
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 778,
+        "end": 785
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 853,
+        "end": 859
+      },
+      {
+        "text": "the Campus Hönggerberg 2040",
+        "label": "ORG",
+        "start": 887,
+        "end": 914
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Campus Hoenggerberg",
+        "Campus Hönggerberg 2040",
+        "ETH Zurich",
+        "Hönggerberg",
+        "Katja Kalkstein-Eggimann",
+        "Ulrich Weidmann"
+      ],
+      "ORG": [
+        "the Campus Hönggerberg 2040"
+      ],
+      "LOCATION": [
+        "HCI"
+      ],
+      "DATE": [
+        "12 to 1 p.m.",
+        "4 June 2018",
+        "the coming decades"
+      ],
+      "MISC": [
+        "English",
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "German": 3,
+      "Campus Hoenggerberg": 1,
+      "Hönggerberg": 1,
+      "Campus Hönggerberg 2040": 1,
+      "ETH Zurich": 1,
+      "the coming decades": 1,
+      "Ulrich Weidmann": 1,
+      "Katja Kalkstein-Eggimann": 1,
+      "4 June 2018": 1,
+      "12 to 1 p.m.": 1,
+      "HCI": 1,
+      "English": 1,
+      "the Campus Hönggerberg 2040": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "masterplan-campus-hoenggerberg-2040.md",
+      "title": "En Internal/2018/05/masterplan Campus Hoenggerberg 2040",
+      "language": "en",
+      "source_path": "en_internal/2018/05/masterplan-campus-hoenggerberg-2040.html"
+    },
+    "temporal": {
+      "publication_date": "2018-05",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Campus Hoenggerberg",
+        "Campus Hönggerberg 2040",
+        "ETH Zurich",
+        "Hönggerberg",
+        "Katja Kalkstein-Eggimann",
+        "Ulrich Weidmann"
+      ],
+      "people_with_roles": {
+        "Katja Kalkstein-Eggimann": [
+          "president"
+        ],
+        "Ulrich Weidmann": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "English",
+        "German"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Ulrich Weidmann",
+        "Vice President",
+        "Campus Hoenggerberg",
+        "Katja Kalkstein",
+        "En Internal",
+        "Human Resources",
+        "Master Plan",
+        "ETH Zurich",
+        "HCI G",
+        "Project Manager"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "the Campus Hönggerberg 2040"
+      ],
+      "locations": [
+        "HCI"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "German",
+        "Campus Hoenggerberg",
+        "Hönggerberg",
+        "Campus Hönggerberg 2040",
+        "ETH Zurich",
+        "the coming decades",
+        "Ulrich Weidmann",
+        "Katja Kalkstein-Eggimann",
+        "4 June 2018",
+        "12 to 1 p.m."
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 987
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "Ulrich Weidmann",
+        "2018",
+        "Campus Hoenggerberg",
+        "Campus Hönggerberg 2040",
+        "Katja Kalkstein-Eggimann",
+        "the Campus Hönggerberg 2040",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "English",
+        "where",
+        "what",
+        "how",
+        "German",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Katja Kalkstein-Eggimann_has_role_president",
+        "Ulrich Weidmann_has_role_president",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

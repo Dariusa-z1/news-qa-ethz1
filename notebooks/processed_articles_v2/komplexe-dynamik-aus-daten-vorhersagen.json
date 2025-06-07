@@ -1,0 +1,391 @@
+{
+  "filename": "komplexe-dynamik-aus-daten-vorhersagen.md",
+  "original_filename": "komplexe-dynamik-aus-daten-vorhersagen.html",
+  "source_path": "de_news_events/2022/02/komplexe-dynamik-aus-daten-vorhersagen.html",
+  "date": "2022-02",
+  "title": "Komplexe Dynamik Aus Daten Vorhersagen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Die Grenzen des statischen Maschinenlernens",
+      "text": "Physikalische Systeme zu modellieren, die sich dynamisch entwickeln, ist ein zentraler Bestandteil von Wissenschaft und Technik. Ingenieur:innen müssen wissen, wie die Flügel eines neuen Flugzeugmodells unter bestimmten Flugbedingungen vibrieren, und Klimaforschende versuchen vorherzusagen, wie sich globale Temperaturen und Wettermuster in der Zukunft entwickeln. Das sind schwierige Aufgaben, denn die zugrundeliegenden Systeme verhalten sich ihrer Natur nach nicht linear. Das bedeutet beispielsweise, dass ein Flugzeugflügel sich nicht doppelt so weit biegt, wenn man eine doppelt so grosse Kraft auf ihn ausübt (er könnte sich entweder stärker oder auch weniger stark biegen).\n\nWissenschaftler:innen sind in der Lage, solche nichtlinearen dynamischen Systeme zu modellieren, indem sie entweder lineare Näherungen machen oder aber bestimmte nichtlineare Gleichungen annehmen und dann das Modell den beobachteten Daten anpassen. Beide Ansätze führen allerdings zu Modellen, die oftmals nur über einen begrenzten Bereich der Bewegungen des Systems gültig sind. Eine Gruppe von Wissenschaftler:innen unter der Leitung von George Haller, Professor für nichtlineare Dynamik an der ETH Zürich hat nun gemeinsam mit Forschenden der Universität Bremen einen neuen Weg gefunden, um Computer dazu zu bringen, direkt aus experimentellen Daten nichtlineare dynamische Modelle herzuleiten, die deutlich genauere Vorhersagen machen können also frühere Algorithmen."
+    },
+    {
+      "heading": "Die Grenzen des statischen Maschinenlernens",
+      "text": "In den letzten Jahren haben Forschende enorme Fortschritte dabei gemacht, Computern beizubringen, wie man Muster, Gesichter und sogar menschliche Sprache erkennt. «Das sind unglaubliche Errungenschaften», sagt Haller, «aber solche Ansätze des maschinellen Lernens wurden für Probleme erdacht, die im Wesentlichen statisch sind. Im Gegensatz dazu ist es deutlich schwieriger, Computer dazu zu bringen, das Verhalten dynamischer Systeme zu lernen, selbst wenn sie so augenscheinlich simpel sind wie Wasser, das in einem Becken schwappt.» Ein vollständiges physikalisches Modell für schwappendes Waser müsste nicht nur den gesamten Flüssigkeitsfluss beinhalten, sondern auch andere Phänomene wie das Brechen von Wellen auf der Oberfläche. Herkömmliche Simulationen, die all dies berücksichtigen, sind selbst auf modernen Supercomputern äusserst zeitaufwendig.\n\n«Unser neuer Ansatz beruht auf der Einsicht, dass man nicht alle Details der Dynamik wiedergeben muss, sondern nur ihre Schlüsselelemente», sagt Mattia Cenedese, Postdoktorand in Hallers Gruppe und Erstautor der soeben im Fachjournal externe Seite Nature Communications veröffentlichten Studie."
+    },
+    {
+      "heading": "Das grosse Ganze erfassen",
+      "text": "Um beim Vergleich mit der Gesichtserkennung zu bleiben: Anstatt sich die Details eines menschlichen Gesichts bis hin zu kleinen Fältchen oder gar einzelnen Poren in der Haut anzusehen, betrachtet der Computeralgorithmus der ETH-Forschenden das grosse Ganze – etwa die allgemeine Form der Augen und der Nase. Auf dynamische Systeme angewandt entspricht dies zum Beispiel der Suche nach Kombinationen aus Position und Geschwindigkeit eines Teils des Systems und nicht etwa bestimmten Verläufen unter speziellen Umständen. Dies hat zur Folge, dass die Rechenzeit von mehreren Stunden oder gar Tagen auf wenige Minuten verkürzt werden kann.\n\nUm die Stärke ihres Algorithmus zu demonstrieren, benutzten Haller und seine Mitarbeitenden die Ergebnisse eines Wasserbecken-Experiments, das ihre deutschen Kollegen durchgeführt hatten. In diesem Experiment wurde ein mit Wasser gefülltes Becken zunächst hin und her geschüttelt, bis das Wasser begann, periodisch zu schwappen. Das Schütteln des Beckens wurde plötzlich gestoppt und das Wasser gefilmt, während das Schwappen langsam nachliess. Aus diesen Aufnahmen wurde die Bewegung des Massenzentrums des Wassers errechnet und in einen Computer gespeist. Der Algorithmus stellte dann ein einfaches, aber dennoch nichtlineares, mathematisches Modell auf, welches das beobachtete Schwappen genau erfasste."
+    },
+    {
+      "heading": "Literaturhinweis",
+      "text": "«Von einem guten Modell erwarten wir, dass es die Dynamik nicht nur unter den während des experimentellen Trainings vorherrschenden Bedingungen vorhersagen kann, sondern auch unter völlig anderen Bedingungen», erklärt Haller. Und genau das schaffte das Modell. In einer zweiten Reihe von Experimenten dauerte das rhythmische Schütteln des Beckens an, während das Wasser gefilmt wurde, was zu einer wesentlich anderen Dynamik des Schwappens führte. Das mathematische Modell sagte die daraus resultierende Bewegung des Wassers für verschiedene Schüttelfrequenzen präzise vorher, obwohl es ein solches Experiment nie zuvor gesehen hatte.\n\nHaller und seine Gruppe haben ihren Ansatz auch auf andere Systeme angewandt, wie zum Beispiel die simulierten Schwingungen eines Flugzeugflügels und das Fliessen einer zähen Flüssigkeit zwischen zwei sich bewegenden Oberflächen. Ihr Computerprogramm ist offen verfügbar. «Wir möchten, dass die Forschungsgemeinde unseren Ansatz auf ihre eigenen Probleme anwenden kann, und wollen damit zu einem besseren Verständnis von dynamischen Systemen beitragen, die in der Praxis vorkommen», sagt Haller und fügt hinzu: «Viele ungelöste physikalische Probleme, die für die Menschheit von Interesse sind, beinhalten nichtlineare Dynamik, und auf blossem Maschinenlernen beruhende Black-Box-Methoden funktionieren bei denen einfach nicht gut».\n\nUm solche Probleme anzugehen, so betont er, braucht es mathematisches Verständnis wie jenes, das in dem neuen Algorithmus benutzt wird und nur von Menschen geschaffen werden kann. Er hofft, dass dieser Ansatz es Forschenden in Zukunft erlaubt, dynamische Probleme zu lösen, bei denen so genannte Kipppunkte eine Rolle spielen, die dazu führen, dass ein dynamisches System sein Verhalten plötzlich und drastisch ändert. Beispiele für solche Probleme sind das Entstehen von Turbulenz, die beim Entwerfen von Flugzeugen und in vielen anderen Anwendungen eine Rolle spielt, sowie Entwicklungspunkte im Erdklima, bei denen es kein Zurück mehr gibt.\n\nCenedese M, Axås J, Bäuerlein, Avila K, Haller G: Data-driven modeling and prediction of non-linearizable dynamics via spectral submanifolds, Nature Communication, 15. Februar 2022, doi: externe Seite 10.1038/s41467-022-28518-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Aus Daten Vorhersagen",
+        "label": "MISC",
+        "start": 40,
+        "end": 61
+      },
+      {
+        "text": "Systems",
+        "label": "MISC",
+        "start": 1042,
+        "end": 1049
+      },
+      {
+        "text": "George Haller",
+        "label": "PER",
+        "start": 1123,
+        "end": 1136
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1180,
+        "end": 1190
+      },
+      {
+        "text": "Universität Bremen",
+        "label": "LOC",
+        "start": 1229,
+        "end": 1247
+      },
+      {
+        "text": "Computern",
+        "label": "MISC",
+        "start": 74,
+        "end": 83
+      },
+      {
+        "text": "Brechen von Wellen",
+        "label": "LOC",
+        "start": 697,
+        "end": 715
+      },
+      {
+        "text": "Mattia Cenedese",
+        "label": "PER",
+        "start": 1002,
+        "end": 1017
+      },
+      {
+        "text": "Hallers Gruppe",
+        "label": "ORG",
+        "start": 1036,
+        "end": 1050
+      },
+      {
+        "text": "Erstautor",
+        "label": "ORG",
+        "start": 1055,
+        "end": 1064
+      },
+      {
+        "text": "Nature Communications",
+        "label": "PER",
+        "start": 1105,
+        "end": 1126
+      },
+      {
+        "text": "Fältchen",
+        "label": "MISC",
+        "start": 128,
+        "end": 136
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 224,
+        "end": 239
+      },
+      {
+        "text": "Systems",
+        "label": "MISC",
+        "start": 448,
+        "end": 455
+      },
+      {
+        "text": "deutschen",
+        "label": "MISC",
+        "start": 785,
+        "end": 794
+      },
+      {
+        "text": "Haller",
+        "label": "PER",
+        "start": 635,
+        "end": 641
+      },
+      {
+        "text": "Black-Box-Methoden",
+        "label": "LOC",
+        "start": 1305,
+        "end": 1323
+      },
+      {
+        "text": "Cenedese M",
+        "label": "PER",
+        "start": 2012,
+        "end": 2022
+      },
+      {
+        "text": "Axås J",
+        "label": "PER",
+        "start": 2024,
+        "end": 2030
+      },
+      {
+        "text": "Avila K",
+        "label": "PER",
+        "start": 2043,
+        "end": 2050
+      },
+      {
+        "text": "Haller G",
+        "label": "PER",
+        "start": 2052,
+        "end": 2060
+      },
+      {
+        "text": "Nature Communication",
+        "label": "MISC",
+        "start": 2154,
+        "end": 2174
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Avila K",
+        "Axås J",
+        "Cenedese M",
+        "De News",
+        "George Haller",
+        "Haller",
+        "Haller G",
+        "Mattia Cenedese",
+        "Nature Communications"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Erstautor",
+        "Hallers Gruppe"
+      ],
+      "LOCATION": [
+        "Black-Box-Methoden",
+        "Brechen von Wellen",
+        "Universität Bremen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Aus Daten Vorhersagen",
+        "Computern",
+        "Fältchen",
+        "Nature Communication",
+        "Systems",
+        "deutschen"
+      ]
+    },
+    "entity_counts": {
+      "Systems": 2,
+      "De News": 1,
+      "Aus Daten Vorhersagen": 1,
+      "George Haller": 1,
+      "ETH Zürich": 1,
+      "Universität Bremen": 1,
+      "Computern": 1,
+      "Brechen von Wellen": 1,
+      "Mattia Cenedese": 1,
+      "Hallers Gruppe": 1,
+      "Erstautor": 1,
+      "Nature Communications": 1,
+      "Fältchen": 1,
+      "ETH-Forschenden": 1,
+      "deutschen": 1,
+      "Haller": 1,
+      "Black-Box-Methoden": 1,
+      "Cenedese M": 1,
+      "Axås J": 1,
+      "Avila K": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "komplexe-dynamik-aus-daten-vorhersagen.md",
+      "title": "De News Events/2022/02/komplexe Dynamik Aus Daten Vorhersagen",
+      "language": "de",
+      "source_path": "de_news_events/2022/02/komplexe-dynamik-aus-daten-vorhersagen.html"
+    },
+    "temporal": {
+      "publication_date": "2022-02",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Avila K",
+        "Axås J",
+        "Cenedese M",
+        "De News",
+        "George Haller",
+        "Haller",
+        "Haller G",
+        "Mattia Cenedese",
+        "Nature Communications"
+      ],
+      "people_with_roles": {
+        "George Haller": [
+          "professor"
+        ],
+        "Haller": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Aus Daten Vorhersagen",
+        "Computern",
+        "Fältchen",
+        "Nature Communication",
+        "Systems",
+        "deutschen"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Wasserbecken-Experiments",
+        "Cenedese M",
+        "Hallers Gruppe",
+        "Der Algorithmus",
+        "Haller G",
+        "George Haller",
+        "Black-Box",
+        "Im Gegensatz",
+        "Daten Vorhersagen",
+        "Physikalische Systeme",
+        "Ihr Computerprogramm",
+        "Mattia Cenedese",
+        "Nature Communication",
+        "Dynamik Aus",
+        "Avila K",
+        "Seite Nature",
+        "ETH-Forschenden",
+        "De News",
+        "Eine Gruppe"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Erstautor",
+        "Hallers Gruppe"
+      ],
+      "locations": [
+        "Black-Box-Methoden",
+        "Brechen von Wellen",
+        "Universität Bremen"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Systems",
+        "De News",
+        "Aus Daten Vorhersagen",
+        "George Haller",
+        "ETH Zürich",
+        "Universität Bremen",
+        "Computern",
+        "Brechen von Wellen",
+        "Mattia Cenedese",
+        "Hallers Gruppe"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Die Grenzen des statischen Maschinenlernens",
+          "Die Grenzen des statischen Maschinenlernens",
+          "Das grosse Ganze erfassen",
+          "Literaturhinweis"
+        ],
+        "content_length": 6258
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Avila K",
+        "Erstautor",
+        "Cenedese M",
+        "Haller G",
+        "Hallers Gruppe",
+        "EU",
+        "ETH Zürich",
+        "Mattia Cenedese",
+        "De News",
+        "ERC",
+        "Axås J",
+        "ETH-Forschenden",
+        "Nature Communications",
+        "2022",
+        "Haller",
+        "George Haller"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "Nature Communication",
+        "deutschen",
+        "who",
+        "Fältchen",
+        "Aus Daten Vorhersagen",
+        "what",
+        "Systems",
+        "how",
+        "when",
+        "Computern"
+      ],
+      "graph_relations": [
+        "George Haller_has_role_professor",
+        "Haller_has_role_professor",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

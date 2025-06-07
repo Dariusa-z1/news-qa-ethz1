@@ -1,0 +1,654 @@
+{
+  "filename": "imaging-the-brain-with-ultrasound-waves.md",
+  "original_filename": "imaging-the-brain-with-ultrasound-waves.html",
+  "source_path": "en_news_events/2022/07/imaging-the-brain-with-ultrasound-waves.html",
+  "date": "2022-07",
+  "title": "Imaging The Brain With Ultrasound Waves",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Non-invasive and cost-effective examination",
+      "text": "Both ultrasound for medical imaging and seismology for imaging the Earth's interior measure the propagation of waves through matter. For example, when seismic waves encounter material differences in the Earth's interior, such as between different rock formations, they are reflected and refracted at their interfaces. As a result, the speed of the waves changes. If researchers measure these waves at the surface, they can draw conclusions about the structure of the Earth's interior, as well as the composition of the rocks and their material properties such as density, pressure or temperature.\n\nWith the help of sophisticated algorithms and high-performance computers such as \"Piz Daint\" at CSCS, researchers like ETH Zurich’s Andreas Fichtner, professor at the Institute of Geophysics and head of the Seismology and Wave Physics Group, can use this wave data to characterise the three-dimensional structure of the Earth. The parallels to propagation between ultrasound and earthquake waves, as well as the team's know-how in the field of wave physics—how the information that waves carry can be used and converted into images—led the ETH professor and his group to also study wave propagation for medical ultrasound.\n\nThus, about 6 years ago, the research group worked with physicians to successfully develop ultrasound methods for the early detection of breast cancer. The team is now investigating how the brain can be examined with ultrasound. With this method, the researchers and doctors could one day monitor stroke patients or identify brain tumors, for example."
+    },
+    {
+      "heading": "Learning on a magnetic resonance imaging scanner",
+      "text": "Compared to computed tomography (CT) or X-rays, ultrasound has a decisive advantage: the procedure is almost entirely harmless to the body. Moreover, it is much more cost-effective than magnetic resonance imaging (MRI), for example, and the ultrasound devices are transportable for use in remote regions. The problem, however, is that ultrasound has so far only worked well for soft tissues—it is very difficult to get ultrasound waves through hard structures such as the skull, because bone strongly reflects and dampens the waves.\n\nPatrick Marty, PhD student in Fichtner’s group, is now developing in his doctoral thesis a method to overcome this challenge with the support of Christian Böhm, senior scientist in the Seismology and Wave Physics Group. This method should provide the basis for imaging the brain with ultrasound in high resolution, according to the scientists.\n\nTo simulate the propagation of waves through the brain, the researchers are developing algorithms which perform many calculations over a special grid known as a “mesh”. At the heart of this is a software package called Salvus. Developed at ETH Zurich with the support of CSCS, Salvus models the propagation of the complete wave field (full-waveform) over spatial scales ranging from a few millimeters to thousands of kilometers. ETH seismologists use this software to simulate seismic waves, for example to explore the interior of the Earth or Mars, and now also for medical imaging. The software package uses the spectral element method (SEM), which is particularly well suited for simulating wave propagation in media with high-contrast material transitions—like soft brain tissue and bone.\n\n\"Unlike conventional ultrasound, which only uses the arrival time of the waves, we use the entire wave information in our simulations,\" says Marty. This means that the shape, frequency, velocity, and amplitude of the wave at every point of its propagation flow into the calculations.\n\nFor their model, the researchers first use a MRI of the brain as a reference. Then, on the \"Piz Daint\" supercomputer, they perform calculations with different parameters until the simulated image matches that of the MRI.\n\nWith this method, they obtain a quantitative image instead of the less informative greyscale image common to conventional ultrasound. By using all the information from the complete wave field, the researchers can correctly map the physical properties of the medium—the speed at which ultrasound waves propagate through the tissue, their damping properties, and the density of the tissue—at every point in the brain. This ultimately makes it possible to determine the tissue type and distinguish whether it is a brain mass or tumor tissue, for example, since the density, attenuation, or speed of sound associated with the different types of tissues are known from laboratory experiments."
+    },
+    {
+      "heading": "References",
+      "text": "The researchers are convinced that this method can be used to distinguish healthy tissue from diseased tissue while being both non-invasive and cost-effectively. Specifically, this method could be fed into a computer that is integrated into an ultrasound device specially developed for this purpose. The computer would perform a series of calculations using the ultrasound signals recorded by sensors, and the result would be a 3D image of the brain being examined. However, the researchers emphasise that there is still a long way to go until this can enter clinical practice.\n\nA particular remaining challenge is the complex geometry of the skull, due to eye, nose and jaw cavities etc., which must be modelled precisely in the simulation without dramatically increasing the computation time. To solve this problem, Marty is developing methods that create individual numerical meshes for arbitrary skull shapes out of hexahedra (small elements that have six faces). \"With these deformed little cubes, we are 100 to 1000 times faster than if we were working with tetrahedra,\" says Böhm. \"In addition, the project benefits greatly from new developments in graphics cards, like the ones we have in 'Piz Daint' and, in the future, in 'Alps'. They are ideal for this method.\"\n\nThe researchers are continuing to work together with physicians at the university hospital of the University Zürich to further develop these techniques. If Marty succeeds during the next three years of his doctoral thesis in further developing the procedures for meshing and imaging the brain, these same methods may be transferable to other parts of the body, such as knees or elbows. This would serve as a promising basis for developing a corresponding ultrasound device.\n\nThis text by Simone Ulmer first appeared in English on the CSCS website .\n\nMarty P, Boehm C, Paverd C, Rominger M, & Fichtner A (2022). Full-waveform ultrasound modeling of soft tissue-bone interactions using conforming hexahedral meshes. Medical Imaging 2022: Physics of Medical Imaging, 12031, 877–891.\n\nMarty P, Boehm C, & Fichtner A (2021, December 13). Full-Waveform Inversion of Geological Structures in the Human Brain . AGU Fall Meeting, New Orleans, LA."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Brain With Ultrasound",
+        "label": "WORK_OF_ART",
+        "start": 31,
+        "end": 56
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 67,
+        "end": 72
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 203,
+        "end": 208
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 467,
+        "end": 472
+      },
+      {
+        "text": "Piz Daint",
+        "label": "WORK_OF_ART",
+        "start": 679,
+        "end": 688
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 693,
+        "end": 697
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 716,
+        "end": 728
+      },
+      {
+        "text": "Andreas Fichtner",
+        "label": "PERSON",
+        "start": 729,
+        "end": 745
+      },
+      {
+        "text": "the Institute of Geophysics",
+        "label": "ORG",
+        "start": 760,
+        "end": 787
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 882,
+        "end": 887
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 917,
+        "end": 922
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1137,
+        "end": 1140
+      },
+      {
+        "text": "about 6 years ago",
+        "label": "DATE",
+        "start": 1226,
+        "end": 1243
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 1501,
+        "end": 1508
+      },
+      {
+        "text": "CT",
+        "label": "ORG",
+        "start": 33,
+        "end": 35
+      },
+      {
+        "text": "Patrick Marty",
+        "label": "PERSON",
+        "start": 533,
+        "end": 546
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 548,
+        "end": 551
+      },
+      {
+        "text": "Fichtner’s",
+        "label": "ORG",
+        "start": 563,
+        "end": 573
+      },
+      {
+        "text": "Christian Böhm",
+        "label": "PERSON",
+        "start": 678,
+        "end": 692
+      },
+      {
+        "text": "Salvus",
+        "label": "PERSON",
+        "start": 1096,
+        "end": 1102
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 1117,
+        "end": 1127
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 1148,
+        "end": 1152
+      },
+      {
+        "text": "Salvus",
+        "label": "PERSON",
+        "start": 1154,
+        "end": 1160
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 1281,
+        "end": 1290
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1306,
+        "end": 1309
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1412,
+        "end": 1417
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1421,
+        "end": 1425
+      },
+      {
+        "text": "Marty",
+        "label": "PERSON",
+        "start": 1811,
+        "end": 1816
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1987,
+        "end": 1992
+      },
+      {
+        "text": "3D",
+        "label": "CARDINAL",
+        "start": 428,
+        "end": 430
+      },
+      {
+        "text": "Marty",
+        "label": "PERSON",
+        "start": 817,
+        "end": 822
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 955,
+        "end": 958
+      },
+      {
+        "text": "100 to 1000",
+        "label": "CARDINAL",
+        "start": 1009,
+        "end": 1020
+      },
+      {
+        "text": "Böhm",
+        "label": "PERSON",
+        "start": 1081,
+        "end": 1085
+      },
+      {
+        "text": "Alps",
+        "label": "LOC",
+        "start": 1232,
+        "end": 1236
+      },
+      {
+        "text": "the university hospital of the University Zürich",
+        "label": "ORG",
+        "start": 1339,
+        "end": 1387
+      },
+      {
+        "text": "Marty",
+        "label": "PERSON",
+        "start": 1428,
+        "end": 1433
+      },
+      {
+        "text": "the next three years",
+        "label": "DATE",
+        "start": 1450,
+        "end": 1470
+      },
+      {
+        "text": "Simone Ulmer",
+        "label": "PERSON",
+        "start": 1759,
+        "end": 1771
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1772,
+        "end": 1777
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 1790,
+        "end": 1797
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 1805,
+        "end": 1809
+      },
+      {
+        "text": "Marty P",
+        "label": "PERSON",
+        "start": 1820,
+        "end": 1827
+      },
+      {
+        "text": "Boehm C",
+        "label": "PERSON",
+        "start": 1829,
+        "end": 1836
+      },
+      {
+        "text": "Medical Imaging 2022: Physics of Medical Imaging",
+        "label": "ORG",
+        "start": 1984,
+        "end": 2032
+      },
+      {
+        "text": "877–891",
+        "label": "CARDINAL",
+        "start": 2041,
+        "end": 2048
+      },
+      {
+        "text": "Marty P",
+        "label": "PERSON",
+        "start": 2050,
+        "end": 2057
+      },
+      {
+        "text": "Boehm C, & Fichtner",
+        "label": "ORG",
+        "start": 2059,
+        "end": 2078
+      },
+      {
+        "text": "December 13",
+        "label": "DATE",
+        "start": 2088,
+        "end": 2099
+      },
+      {
+        "text": "Full-Waveform Inversion of Geological Structures",
+        "label": "ORG",
+        "start": 2102,
+        "end": 2150
+      },
+      {
+        "text": "AGU Fall Meeting",
+        "label": "ORG",
+        "start": 2172,
+        "end": 2188
+      },
+      {
+        "text": "New Orleans",
+        "label": "GPE",
+        "start": 2190,
+        "end": 2201
+      },
+      {
+        "text": "LA",
+        "label": "GPE",
+        "start": 2203,
+        "end": 2205
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andreas Fichtner",
+        "Boehm C",
+        "Böhm",
+        "Christian Böhm",
+        "ETH Zurich’s",
+        "Marty",
+        "Marty P",
+        "Patrick Marty",
+        "Salvus",
+        "Simone Ulmer"
+      ],
+      "ORG": [
+        "AGU Fall Meeting",
+        "Boehm C, & Fichtner",
+        "CSCS",
+        "CT",
+        "ETH",
+        "Fichtner’s",
+        "Full-Waveform Inversion of Geological Structures",
+        "Medical Imaging 2022: Physics of Medical Imaging",
+        "the Institute of Geophysics",
+        "the university hospital of the University Zürich"
+      ],
+      "LOCATION": [
+        "Alps",
+        "ETH Zurich",
+        "Earth",
+        "LA",
+        "Mars",
+        "New Orleans"
+      ],
+      "DATE": [
+        "December 13",
+        "about 6 years ago",
+        "one day",
+        "the next three years"
+      ],
+      "MISC": [
+        "100 to 1000",
+        "3D",
+        "877–891",
+        "English",
+        "PhD",
+        "Piz Daint",
+        "The Brain With Ultrasound",
+        "first",
+        "six",
+        "thousands",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Earth": 5,
+      "CSCS": 3,
+      "Marty": 3,
+      "ETH": 2,
+      "Salvus": 2,
+      "first": 2,
+      "Marty P": 2,
+      "The Brain With Ultrasound": 1,
+      "Piz Daint": 1,
+      "ETH Zurich’s": 1,
+      "Andreas Fichtner": 1,
+      "the Institute of Geophysics": 1,
+      "three": 1,
+      "about 6 years ago": 1,
+      "one day": 1,
+      "CT": 1,
+      "Patrick Marty": 1,
+      "PhD": 1,
+      "Fichtner’s": 1,
+      "Christian Böhm": 1
+    },
+    "total_entities": 53,
+    "unique_entities": 41
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "imaging-the-brain-with-ultrasound-waves.md",
+      "title": "En News Events/2022/07/imaging The Brain With Ultrasound Waves",
+      "language": "en",
+      "source_path": "en_news_events/2022/07/imaging-the-brain-with-ultrasound-waves.html"
+    },
+    "temporal": {
+      "publication_date": "2022-07",
+      "mentioned_years": [
+        "2021",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andreas Fichtner",
+        "Boehm C",
+        "Böhm",
+        "Christian Böhm",
+        "ETH Zurich’s",
+        "Marty",
+        "Marty P",
+        "Patrick Marty",
+        "Salvus",
+        "Simone Ulmer"
+      ],
+      "people_with_roles": {
+        "Andreas Fichtner": [
+          "researcher",
+          "head",
+          "professor"
+        ],
+        "Böhm": [
+          "scientist",
+          "student"
+        ],
+        "Christian Böhm": [
+          "scientist",
+          "student"
+        ],
+        "ETH Zurich’s": [
+          "researcher",
+          "head",
+          "professor"
+        ],
+        "Marty": [
+          "scientist",
+          "student"
+        ],
+        "Patrick Marty": [
+          "scientist",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "100 to 1000",
+        "877–891",
+        "English",
+        "Piz Daint",
+        "The Brain With Ultrasound",
+        "first",
+        "thousands",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "AGU Fall",
+        "Piz Daint",
+        "Andreas Fichtner",
+        "Simone Ulmer",
+        "Full-Waveform",
+        "Boehm C",
+        "If Marty",
+        "Patrick Marty",
+        "Rominger M",
+        "Paverd C",
+        "Geological Structures",
+        "Medical Imaging",
+        "Wave Physics",
+        "The Brain",
+        "With Ultrasound",
+        "Human Brain",
+        "En News",
+        "New Orleans",
+        "Waves Both",
+        "Marty P",
+        "ETH Zurich",
+        "Fichtner A"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AGU Fall Meeting",
+        "Boehm C, & Fichtner",
+        "CSCS",
+        "CT",
+        "ETH",
+        "Fichtner’s",
+        "Full-Waveform Inversion of Geological Structures",
+        "Medical Imaging 2022: Physics of Medical Imaging",
+        "the Institute of Geophysics",
+        "the university hospital of the University Zürich"
+      ],
+      "locations": [
+        "Alps",
+        "ETH Zurich",
+        "Earth",
+        "LA",
+        "Mars",
+        "New Orleans"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Earth",
+        "CSCS",
+        "Marty",
+        "ETH",
+        "Salvus",
+        "first",
+        "Marty P",
+        "The Brain With Ultrasound",
+        "Piz Daint",
+        "ETH Zurich’s"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Non-invasive and cost-effective examination",
+          "Learning on a magnetic resonance imaging scanner",
+          "References"
+        ],
+        "content_length": 6716
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "CT",
+        "Fichtner’s",
+        "the Institute of Geophysics",
+        "Simone Ulmer",
+        "Andreas Fichtner",
+        "ETH Zurich’s",
+        "ERC",
+        "the university hospital of the University Zürich",
+        "Boehm C",
+        "2022",
+        "Medical Imaging 2022: Physics of Medical Imaging",
+        "Patrick Marty",
+        "Christian Böhm",
+        "Böhm",
+        "Full-Waveform Inversion of Geological Structures",
+        "Marty",
+        "CSCS",
+        "Salvus",
+        "Boehm C, & Fichtner",
+        "Marty P",
+        "2021",
+        "AGU Fall Meeting"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "computer_science",
+        "The Brain With Ultrasound",
+        "three",
+        "who",
+        "thousands",
+        "English",
+        "Piz Daint",
+        "100 to 1000",
+        "when",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "877–891",
+        "where"
+      ],
+      "graph_relations": [
+        "Andreas Fichtner_has_role_researcher",
+        "Andreas Fichtner_has_role_head",
+        "Andreas Fichtner_has_role_professor",
+        "Böhm_has_role_scientist",
+        "Böhm_has_role_student",
+        "Christian Böhm_has_role_scientist",
+        "Christian Böhm_has_role_student",
+        "ETH Zurich’s_has_role_researcher",
+        "ETH Zurich’s_has_role_head",
+        "ETH Zurich’s_has_role_professor",
+        "Marty_has_role_scientist",
+        "Marty_has_role_student",
+        "Patrick Marty_has_role_scientist",
+        "Patrick Marty_has_role_student",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

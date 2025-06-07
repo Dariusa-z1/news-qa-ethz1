@@ -1,0 +1,177 @@
+{
+  "filename": "reminder-call-for-projects-2014-rare-diseases.md",
+  "original_filename": "reminder-call-for-projects-2014-rare-diseases.html",
+  "source_path": "en_internal/2014/07/reminder-call-for-projects-2014-rare-diseases.html",
+  "date": "2014-07",
+  "title": "Reminder Call For Projects 2014 Rare Diseases",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The research programme of the Gebert Rüf Stiftung «Rare Diseases – New Approaches», started in 2009, will be continued in 2014. With CHF 2 million p.a., the programme promotes applied research aimed at developing and implementing innovative approaches or technologies.\n\nTarget: improving diagnosis and treatment of rare diseases. The call is open to researchers at Swiss universities, university hospitals, federal institutes of technology, universities of applied sciences and to research institutions affiliated with Swiss universities. Application deadline is 8 August 2014.\n\nFurther information: www.grstiftung.ch ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Call For Projects 2014 Rare Diseases",
+        "label": "ORG",
+        "start": 29,
+        "end": 65
+      },
+      {
+        "text": "2 million",
+        "label": "CARDINAL",
+        "start": 137,
+        "end": 146
+      },
+      {
+        "text": "p.a.",
+        "label": "GPE",
+        "start": 147,
+        "end": 151
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 364,
+        "end": 369
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 518,
+        "end": 523
+      },
+      {
+        "text": "8 August 2014",
+        "label": "DATE",
+        "start": 562,
+        "end": 575
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Call For Projects 2014 Rare Diseases"
+      ],
+      "LOCATION": [
+        "p.a."
+      ],
+      "DATE": [
+        "8 August 2014"
+      ],
+      "MISC": [
+        "2 million",
+        "Swiss"
+      ]
+    },
+    "entity_counts": {
+      "Swiss": 2,
+      "Call For Projects 2014 Rare Diseases": 1,
+      "2 million": 1,
+      "p.a.": 1,
+      "8 August 2014": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "reminder-call-for-projects-2014-rare-diseases.md",
+      "title": "En Internal/2014/07/reminder Call For Projects 2014 Rare Diseases",
+      "language": "en",
+      "source_path": "en_internal/2014/07/reminder-call-for-projects-2014-rare-diseases.html"
+    },
+    "temporal": {
+      "publication_date": "2014-07",
+      "mentioned_years": [
+        "2009",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "2 million",
+        "Swiss"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "New Approaches",
+        "Rare Diseases",
+        "With CHF",
+        "Call For",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Call For Projects 2014 Rare Diseases"
+      ],
+      "locations": [
+        "p.a."
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Swiss",
+        "Call For Projects 2014 Rare Diseases",
+        "2 million",
+        "p.a.",
+        "8 August 2014"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 685
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2009",
+        "2014",
+        "Call For Projects 2014 Rare Diseases"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "2 million",
+        "Swiss",
+        "what",
+        "how",
+        "medical_research",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

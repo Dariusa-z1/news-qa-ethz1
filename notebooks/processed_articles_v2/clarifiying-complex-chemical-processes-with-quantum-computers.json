@@ -1,0 +1,507 @@
+{
+  "filename": "clarifiying-complex-chemical-processes-with-quantum-computers.md",
+  "original_filename": "clarifiying-complex-chemical-processes-with-quantum-computers.html",
+  "source_path": "en_news_events/2017/07/clarifiying-complex-chemical-processes-with-quantum-computers.html",
+  "date": "2017-07",
+  "title": "Clarifiying Complex Chemical Processes With Quantum Computers",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "One of the most complex enzymes",
+      "text": "Specialists expect nothing less than a technological revolution from quantum computers, which they hope will soon allow them to solve problems that are currently too complex for classical supercomputers. Commonly discussed areas of application include data encryption and decryption, as well as special problems in the fields of physics, quantum chemistry and materials research.\n\nBut when it comes to concrete questions that only quantum computers can answer, experts have remained relatively vague. Researchers from ETH Zurich and Microsoft Research are now presenting a specific application for the first time in the scientific journal PNAS: evaluating a complex chemical reaction. Based on this example, the scientists show that quantum computers can indeed deliver scientifically relevant results.\n\nA team of researchers led by ETH professors Markus Reiher and Matthias Troyer used simulations to demonstrate how a complex chemical reaction could be calculated with the help of a quantum computer. To accomplish this, the quantum computer must be of a “moderate size”, says Matthias Troyer, who is Professor for Computational Physics at ETH Zurich and currently works for Microsoft. The mechanism of this reaction would be nearly impossible to assess with a classical supercomputer alone – especially if the results are to be sufficiently precise."
+    },
+    {
+      "heading": "One of the most complex enzymes",
+      "text": "The researchers chose a particularly complex biochemical reaction as the example for their study: thanks to a special enzyme known as a nitrogenase, certain microorganisms are able to split atmospheric nitrogen molecules in order to create chemical compounds with single nitrogen atoms. It is still unknown how exactly the nitrogenase reaction works. “This is one of the greatest unsolved mysteries in chemistry,” says Markus Reiher, Professor for Theoretical Chemistry at ETH Zurich.\n\nComputers that are available today are able to calculate the behaviour of simple molecules quite precisely. However, this is nearly impossible for the nitrogenase enzyme and its active centre, which is simply too complex, explains Reiher.\n\nIn this context, complexity is a reflection of how many electrons interact with each other within the molecule over relatively long distances. The more electrons a researcher needs to take into account, the more sophisticated the computations. “Existing methods and classical supercomputers can be used to assess molecules with about 50 strongly interacting electrons at most,” says Reiher. However, there is a significantly greater number of such electrons at the active centre of a nitrogenase enzyme. Because with classical computers the effort required to evaluate a molecule doubles with each additional electron, an unrealistic amount of computational power is needed."
+    },
+    {
+      "heading": "Another computer architecture",
+      "text": "As demonstrated by the ETH researchers, hypothetical quantum computers with just 100 to 200 quantum bits (qubits) will potentially be able to compute complex subproblems within a few days. The results of these computations could then be used to determine the reaction mechanism of nitrogenase step by step.\n\nThat quantum computers are capable of solving such challenging tasks at all is partially the result of the fact that they are structured differently to classical computers. Rather than requiring twice as many bits to assess each additional electron, quantum computers simply need one more qubit.\n\nHowever, it remains to be seen when such “moderately large” quantum computers will be available. The currently existing experimental quantum computers use on the order of 20 rudimentary qubits respectively. It will take at least another five years, or more likely ten, before we have quantum computers with processors of more than 100 high quality qubits, estimates Reiher."
+    },
+    {
+      "heading": "Mass production and networking",
+      "text": "Researchers emphasise the fact that quantum computers cannot handle all tasks, so they will serve as a supplement to classical computers, rather than replacing them. “The future will be shaped by the interplay between classical computers and quantum computers,” says Troyer.\n\nWith regard to the nitrogenase reaction, quantum computers will be able to calculate how the electrons are distributed within a specific molecular structure. However, classical computers will still need to tell quantum computers which structures are of particular interest and should therefore be calculated. “Quantum computers need to be thought of more like a co-processor capable of taking over particular tasks from classical computers, thus allowing them to become more efficient,” says Reiher.\n\nExplaining the mechanism of the nitrogenase reaction will also require more than just information about the electron distribution in a single molecular structure; indeed, this distribution needs to be determined in thousands of structures. Each computation takes several days. “In order for quantum computers to be of use in solving these kinds of problems, they will first need to be mass produced, thereby allowing computations to take place on multiple computers at the same time,” says Troyer.\n\nReiher M, Wiebe N, Svore KM, Wecker D, Troyer M: Elucidating reaction mechanisms on quantum computers: PNAS 2017, 114: 7555-7560, doi: 10.1073/pnas.1619152114"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Complex Chemical Processes",
+        "label": "ORG",
+        "start": 35,
+        "end": 61
+      },
+      {
+        "text": "Commonly",
+        "label": "ORG",
+        "start": 204,
+        "end": 212
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 517,
+        "end": 527
+      },
+      {
+        "text": "Microsoft Research",
+        "label": "ORG",
+        "start": 532,
+        "end": 550
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 601,
+        "end": 606
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 831,
+        "end": 834
+      },
+      {
+        "text": "Markus Reiher",
+        "label": "PERSON",
+        "start": 846,
+        "end": 859
+      },
+      {
+        "text": "Matthias Troyer",
+        "label": "ORG",
+        "start": 864,
+        "end": 879
+      },
+      {
+        "text": "Matthias Troyer",
+        "label": "PERSON",
+        "start": 1077,
+        "end": 1092
+      },
+      {
+        "text": "Computational Physics",
+        "label": "ORG",
+        "start": 1115,
+        "end": 1136
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1140,
+        "end": 1150
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 1175,
+        "end": 1184
+      },
+      {
+        "text": "Markus Reiher",
+        "label": "PERSON",
+        "start": 419,
+        "end": 432
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 473,
+        "end": 483
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 514,
+        "end": 519
+      },
+      {
+        "text": "Reiher",
+        "label": "PERSON",
+        "start": 716,
+        "end": 722
+      },
+      {
+        "text": "about 50",
+        "label": "CARDINAL",
+        "start": 1052,
+        "end": 1060
+      },
+      {
+        "text": "Reiher",
+        "label": "PERSON",
+        "start": 1107,
+        "end": 1113
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "just 100 to 200",
+        "label": "CARDINAL",
+        "start": 76,
+        "end": 91
+      },
+      {
+        "text": "a few days",
+        "label": "DATE",
+        "start": 177,
+        "end": 187
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 587,
+        "end": 590
+      },
+      {
+        "text": "at least another five years",
+        "label": "DATE",
+        "start": 823,
+        "end": 850
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 867,
+        "end": 870
+      },
+      {
+        "text": "more than 100",
+        "label": "CARDINAL",
+        "start": 924,
+        "end": 937
+      },
+      {
+        "text": "Reiher",
+        "label": "PERSON",
+        "start": 969,
+        "end": 975
+      },
+      {
+        "text": "Troyer",
+        "label": "ORG",
+        "start": 267,
+        "end": 273
+      },
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 585,
+        "end": 592
+      },
+      {
+        "text": "Reiher",
+        "label": "PERSON",
+        "start": 767,
+        "end": 773
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 990,
+        "end": 999
+      },
+      {
+        "text": "several days",
+        "label": "DATE",
+        "start": 1038,
+        "end": 1050
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1143,
+        "end": 1148
+      },
+      {
+        "text": "Troyer",
+        "label": "ORG",
+        "start": 1265,
+        "end": 1271
+      },
+      {
+        "text": "Reiher M",
+        "label": "PERSON",
+        "start": 1273,
+        "end": 1281
+      },
+      {
+        "text": "Svore KM",
+        "label": "PERSON",
+        "start": 1292,
+        "end": 1300
+      },
+      {
+        "text": "Troyer M: Elucidating",
+        "label": "ORG",
+        "start": 1312,
+        "end": 1333
+      },
+      {
+        "text": "7555-7560",
+        "label": "DATE",
+        "start": 1392,
+        "end": 1401
+      },
+      {
+        "text": "10.1073",
+        "label": "CARDINAL",
+        "start": 1408,
+        "end": 1415
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Markus Reiher",
+        "Matthias Troyer",
+        "Reiher",
+        "Reiher M",
+        "Svore KM"
+      ],
+      "ORG": [
+        "Commonly",
+        "Complex Chemical Processes",
+        "Computational Physics",
+        "ETH",
+        "ETH Zurich",
+        "Matthias Troyer",
+        "Microsoft",
+        "Microsoft Research",
+        "Quantum",
+        "Troyer",
+        "Troyer M: Elucidating"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "7555-7560",
+        "a few days",
+        "at least another five years",
+        "several days",
+        "today"
+      ],
+      "MISC": [
+        "10.1073",
+        "about 50",
+        "first",
+        "just 100 to 200",
+        "more than 100",
+        "one",
+        "ten",
+        "thousands"
+      ]
+    },
+    "entity_counts": {
+      "Reiher": 4,
+      "ETH Zurich": 3,
+      "first": 2,
+      "ETH": 2,
+      "Markus Reiher": 2,
+      "Matthias Troyer": 2,
+      "Troyer": 2,
+      "Complex Chemical Processes": 1,
+      "Commonly": 1,
+      "Microsoft Research": 1,
+      "Computational Physics": 1,
+      "Microsoft": 1,
+      "today": 1,
+      "about 50": 1,
+      "just 100 to 200": 1,
+      "a few days": 1,
+      "one": 1,
+      "at least another five years": 1,
+      "ten": 1,
+      "more than 100": 1
+    },
+    "total_entities": 38,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "clarifiying-complex-chemical-processes-with-quantum-computers.md",
+      "title": "En News Events/2017/07/clarifiying Complex Chemical Processes With Quantum Computers",
+      "language": "en",
+      "source_path": "en_news_events/2017/07/clarifiying-complex-chemical-processes-with-quantum-computers.html"
+    },
+    "temporal": {
+      "publication_date": "2017-07",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Markus Reiher",
+        "Matthias Troyer",
+        "Reiher",
+        "Reiher M",
+        "Svore KM"
+      ],
+      "people_with_roles": {
+        "Markus Reiher": [
+          "researcher",
+          "professor"
+        ],
+        "Matthias Troyer": [
+          "researcher",
+          "professor"
+        ],
+        "Reiher": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "biology",
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1073",
+        "about 50",
+        "first",
+        "just 100 to 200",
+        "more than 100",
+        "thousands"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Theoretical Chemistry",
+        "Computational Physics",
+        "Wiebe N",
+        "En News",
+        "Svore KM",
+        "Troyer M",
+        "Markus Reiher",
+        "Wecker D",
+        "Reiher M",
+        "Complex Chemical",
+        "Quantum Computers",
+        "ETH Zurich",
+        "Matthias Troyer",
+        "Processes With",
+        "Microsoft Research"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Commonly",
+        "Complex Chemical Processes",
+        "Computational Physics",
+        "ETH",
+        "ETH Zurich",
+        "Matthias Troyer",
+        "Microsoft",
+        "Microsoft Research",
+        "Quantum",
+        "Troyer",
+        "Troyer M: Elucidating"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Reiher",
+        "ETH Zurich",
+        "first",
+        "ETH",
+        "Markus Reiher",
+        "Matthias Troyer",
+        "Troyer",
+        "Complex Chemical Processes",
+        "Commonly",
+        "Microsoft Research"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "One of the most complex enzymes",
+          "One of the most complex enzymes",
+          "Another computer architecture",
+          "Mass production and networking"
+        ],
+        "content_length": 5252
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Troyer M: Elucidating",
+        "ETH",
+        "Svore KM",
+        "Computational Physics",
+        "2017",
+        "Commonly",
+        "Markus Reiher",
+        "Quantum",
+        "Microsoft",
+        "Reiher M",
+        "Reiher",
+        "Troyer",
+        "ETH Zurich",
+        "Matthias Troyer",
+        "Complex Chemical Processes",
+        "ERC",
+        "Microsoft Research"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "first",
+        "more than 100",
+        "who",
+        "thousands",
+        "chemistry",
+        "when",
+        "where",
+        "biology",
+        "what",
+        "how",
+        "just 100 to 200",
+        "10.1073",
+        "about 50",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Markus Reiher_has_role_researcher",
+        "Markus Reiher_has_role_professor",
+        "Matthias Troyer_has_role_researcher",
+        "Matthias Troyer_has_role_professor",
+        "Reiher_has_role_researcher",
+        "Reiher_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

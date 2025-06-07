@@ -1,0 +1,618 @@
+{
+  "filename": "fuer-sehr-kleine-problemgroessen-ist-ein-klassischer-computer-schneller.md",
+  "original_filename": "fuer-sehr-kleine-problemgroessen-ist-ein-klassischer-computer-schneller.html",
+  "source_path": "de_news_events/2023/05/fuer-sehr-kleine-problemgroessen-ist-ein-klassischer-computer-schneller.html",
+  "date": "2023-05",
+  "title": "Fuer Sehr Kleine Problemgroessen Ist Ein Klassischer Computer Schneller",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Das Wichtigste in Kürze",
+      "text": "- Das grosse Versprechen von Quantencomputern ist, dass sie auf der Grundlage quantenmechanischer Prinzipien bestimmte Rechenprobleme wesentlich schneller lösen können als klassische Computer.\n\n- Damit Quantencomputer ihre Geschwindigkeitsvorteile in der Praxis tatsächlich ausschöpfen können, sind Verbesserungen bei den Algorithmen und neue Arten von Hochgeschwindigkeits-Quantenalgorithmen nötig.\n\n- Generell werden Quantencomputer für «grosse Rechenprobleme» mit kleinen Datenmengen praktische Vorteile haben. Das gilt besonders für solche, die mit Quantencomputern exponentiell schneller gelöst werden können.\n\nQuantencomputer versprechen, dass sie einige Rechenprobleme viel schneller lösen können als klassische Computer. Inwieweit ist das wahr oder zumindest realistisch? Torsten Hoefler: Allgemein betrachtet ist diese Aussage richtig. Quantencomputer können tatsächlich einige Rechenprobleme wesentlich schneller lösen als klassische Computer. Ich würde sagen, sie sind tatsächlich in der Lage, die Rechenzeit von Jahrzehnten oder Jahren auf Stunden oder sogar Minuten zu verkürzen. Das ist zwar richtig, aber nicht für alle Rechenprobleme realistisch.\n\nBei welchen Problemen sind Quantencomputer nicht schneller? Torsten Hoefler: Wenn wir zum Beispiel Wettervorhersagen oder Klimasimulationen viel schneller machen wollen, dann wüsste ich heute noch nicht, wie man diese Anwendungen mit einem Quantencomputer erheblich beschleunigen könnte. Genauso wenig wüsste ich, wie man heute maschinelles Lernen mit einem Quantencomputer deutlich beschleunigen könnte. Auch für die Strömungsdynamik in Turbulenzen werden wir wahrscheinlich mit den derzeitigen Quantenalgorithmen in absehbarer Zeit keinen praktischen Vorteil erzielen.\n\nSehen Sie Anwendungsbereiche in der Grundlagenforschung oder in der Industrie, in denen Quantencomputer in naher Zukunft ihre Vorteile ausspielen können? Torsten Hoefler: Bislang wissen wir mit Sicherheit, dass Quantencomputer für eine Vielzahl von Forschungs- und Entwicklungsbereichen äusserst relevant sind. Ich denke da an Probleme wie das Knacken der bekannten kryptographischen Verfahren, die auf der Primfaktorzerlegung beruhen. Oder wenn es darum geht chemische Systeme mit einer sehr hohen Präzision zu simulieren, dann hat Quantenrechnen ein gewaltiges Verbesserungspotenzial. Darüber hinaus ist Quantenrechnen sehr vielversprechend für Forschungsbereiche wie die Simulation von Materialeigenschaften, die auf Quantenphänomenen beruhen, neue Medikamente für die Zukunft, die Erfindung neuer Düngemittel oder das Verständnis, wie biologische Systeme funktionieren. In all diesen Bereichen können Quantencomputer eine entscheidende Rolle, spielen um die Berechnungen zu beschleunigen."
+    },
+    {
+      "heading": "Hintergrund zum Interview",
+      "text": "Aber noch ist das eine Zukunftsvision? Torsten Hoefler: Ja, aber auch wenn Quantenrechnen noch nicht auf alle offenen Fragen in diesen Bereichen anwendbar ist, so sehen wir doch eindeutig einen Weg, wie wir das Potenzial von Quantencomputern besser ausschöpfen können. Das gilt jedoch nicht für alle Algorithmen. Man kann nicht einfach irgendeinen Algorithmus nehmen, ihn auf einem Quantencomputer laufen lassen und die Berechnungen werden automatisch schneller. Im Prinzip können Quantencomputer jedes Rechenproblem lösen, aber die entscheidende Frage für ihre Anwendung ist, welche Probleme sie in der Praxis schneller oder kostengünstiger lösen als klassische Computer.\n\nIn einem kürzlich in der massgeblichen Informatikzeitschrift Communications of the ACM erschienenen Übersichtsartikel skizziert ETH-Informatikprofessor Torsten Hoefler zusammen mit dem ehemaligen ETH-Professor Matthias Troyer, heute Corporate Vice President bei Microsoft USA, und dem ETH-Absolventen Thomas Häner, heute Senior Research Scientist bei Amazon Web Services, Zürich, wie man das Quantenrechnen jenseits des Hypes wirklich beschleunigen kann."
+    },
+    {
+      "heading": "Literaturhinweis",
+      "text": "Inwieweit revidieren Sie die Annahme, dass Quantencomputer immer schneller sind als klassische Computer? Torsten Hoefler: Manche gehen davon aus, dass Quantencomputer grundsätzlich schneller sind, weil sie zum Beispiel in der Lage sind, viele Probleme in quadratisch weniger Schritten zu lösen. Aber ein einzelner Quanten-Rechenschritt ist wesentlich langsamer als ein klassischer. Aufgrund der Prinzipien der Quantenmechanik wie Überlagerung, Interferenz oder Verschränkung sind weniger Rechenschritte nötig, um ein gegebenes Problem zu lösen. Das ist der Grund, weshalb Quantencomputer versprechen, bestimmte Probleme schneller zu lösen als klassische Computer. Jedoch wäre es ein Trugschluss zu glauben, dass Quantencomputer jedes Problem wesentlich schneller lösen können als herkömmliche Computer.\n\nWarum ist das so? Torsten Hoefler: Beim derzeitigen Design der Quantencomputer ist jeder Rechenschritt langsamer als ein entsprechender klassischer Rechenschritt. Das liegt an der hohen Komplexität der Fehlerkorrektur und der einzelnen Schritte einer Quantenberechnung. Ausserdem hat die Industrie in der konventionellen Datenverarbeitung die Technologien seit 60 Jahren so weit vorangetrieben, dass sie extrem schnell geworden sind. Heute kann ein klassischer Computer Millionen bis Milliarden von Rechenschritten pro Sekunde ausführen. Ein Quantencomputer hingegen kann nur Hunderttausende bis vielleicht Millionen von Schritten pro Sekunde ausführen. Aus diesem Grund sind die Quantencomputer nicht in jedem Fall überlegen. Diese irrige Vorstellung einer allumfassenden Quantenüberlegenheit versuchen wir zu widerlegen. Ich bin aber sehr optimistisch, dass wir zuverlässige Quantencomputer bauen werden.\n\nZu welchen wissenschaftlichen Erkenntnissen sind Sie in Ihrer Studie gekommen? Für welche Arten von Problemen sind Quantencomputer am ehesten schneller? Torsten Hoefler: Wir haben die Leistung eines marktführenden klassischen Chips mit der eines optimistisch entworfenen Quantenchips verglichen, und zwar jeweils für dasselbe Problem. Auf diese Weise haben wir als Erste ermittelt, was genau erforderlich ist, damit Quantencomputer einen echten Geschwindigkeitsvorteil erzielen. Unsere Analyse zeigt, dass bei so gut wie allen Algorithmen der klassische Computer bei sehr kleinen Problemgrössen schneller ist und der Quantencomputer bei sehr grossen Problemgrössen. Das liegt daran, dass die Zeit zur Lösung bestimmter Probleme auf einem Quantencomputer langsamer mit der Grösse der Probleme wächst als auf klassischen Computern (vgl. Grafik). Das nennen wir «Quanten-Speedup» oder Beschleunigung des Quantenrechnens. Wir sehen auch, dass Quantencomputer im Allgemeinen schneller und praktischer für grosse Rechenprobleme mit kleinen Daten sind, aber sie sind nicht praktisch für Big-Data-Probleme. Aufgrund der begrenzten Eingangs- und Ausgangsbandbreite sind grosse Datenmengen ein Problem, das klassische Computer schneller berechnen. Ausserdem lösen klassische Computer auch ein Suchproblem in einer Datenbank schneller als ein Quantencomputer. Daher wurden Quantencomputer im Zusammenhang mit Big Data zu Unrecht gehypt.\n\nEine Ihrer Erkenntnisse ist, dass eine «quadratische Beschleunigung» für Quantencomputer nicht ausreicht, um ihre potenziellen Geschwindigkeitsvorteile wirklich auszuschöpfen. Torsten Hoefler: In unserer Studie zeigen wir, dass quadratische Beschleunigungen, welche die Rechenzeit verkürzen, indem die Quadratwurzel aus der Laufzeit eines Algorithmus gezogen wird, für praktische Quantenvorteile in absehbarer Zukunft nicht ausreichen. Wir sehen, dass wenn nur quadratische Geschwindigkeitssteigerungen implementiert werden, die Quantenberechnung für viele Probleme immer noch mehrere Monate dauern wird. Das ist in der Praxis zu langsam und zu teuer. Daraus leiten wir ab, dass mindestens kubische oder quartische Beschleunigungen, die auf der dritten und vierten Wurzel beruhen, erforderlich sind, weil nur dann Tausende oder Millionen von Rechenoperationen machbar sind. Aber selbst kubische oder quartische Beschleunigungen sind nur die niedrigste Anforderung. Es ist notwendig, sich auf exponentielle Beschleunigungen zu konzentrieren, bei denen die Laufzeit des Quantenalgorithmus der Logarithmus der Laufzeit des klassischen Algorithmus ist. Die vielversprechendsten Kandidaten, um echte praktische Quantenvorteile zu erzielen, sind daher Probleme mit kleinen Datenmengen und exponentieller Beschleunigung.\n\nWas muss anders gemacht werden, um echte Hochgeschwindigkeits-Quantenberechnungen zu erreichen? Torsten Hoefler: Ein entscheidender Schlüssel, um Quantenberechnungen zu beschleunigen, sind neuartige Quantenalgorithmen. Ohne deutliche Verbesserungen der Algorithmen ist es unwahrscheinlich, dass selbst einige der oft zitierten Anwendungen in der Praxis wirklich zu einem Quantenvorteil führen. Aus praktischer Sicht ermöglichen die meisten der heute verfügbaren Quantenalgorithmen keine echten Beschleunigung des Quantenrechnens. Selbst wenn wir wissen, dass kubische, quartische oder exponentielle Algorithmen das Quantenrechnen stärker beschleunigen als quadratische Algorithmen, ist die reale Situation immer noch so, dass wir bis heute nicht sehr viele solcher Beschleunigungs-Algorithmen kennen. Gegenwärtig basieren viele Quantenbeschleunigungs-Algorithmen auf quadratischer «Quantenbeschleunigung», die auf dem bekannten Grover-Algorithmus aufbauen. Wir argumentieren, dass es nicht ausreicht, mehr Algorithmen im Stil von Grover zu entwickeln. Um neue Quantenalgorithmen zu entwickeln, die wirklich eine Rechenbeschleunigung bewirken, muss sich die Forschung auf Algorithmen konzentrieren, die in der Praxis tatsächlich ein schnelleres Quantenrechnen möglich machen. Andernfalls könnten Quantencomputer die schnellsten klassischer Computer nicht übertreffen.\n\nWas wird von den Informatiker:Innen verlangt, um Quantenberechnungen wirklich zu beschleunigen? Torsten Hoefler: Wir müssen neuartige Hochgeschwindigkeits-Quantenalgorithmen erfinden. Die große Herausforderung besteht darin, dass wir derzeit nur etwa eine Handvoll grundlegender Quantenalgorithmen haben, wie den Grover-Algorithmus oder den Shor-Algorithmus, die in der Chemie oder Kryptografie weit verbreitet sind. Es ist sehr schwierig, neue grundlegende Algorithmen zu entwickeln. Da die Quantenmechanik ein komplexes mathematisches Konzept ist, ist es ein ziemliches Unterfangen zu verstehen, wie man dieses in nützliche Quantenalgorithmen übertragen kann. Als Faustregel gilt, dass etwa ein grundlegender Algorithmus pro Jahrzehnt entwickelt wird.\n\nWas sind die nächsten Schritte in der Entwicklung von Quantenalgorithmen, namentlich an der ETH Zürich? Torsten Hoefler: Wir brauchen mehr Informatiker:innen und Mathematiker:innen, um neue Quantenalgorithmen zu erforschen. Bislang ist es sehr schwierig, exzellente Wissenschaftler:innen für Quantenalgorithmen zu finden. Eine grosse Chance besteht darin, diesen Bedarf mit dem Lehrauftrag der ETH Zürich zu verbinden und die nächste Generation von Wissenschaftlern zu ermutigen, sich mit dem Design von Quantenalgorithmen zu beschäftigen. Mit dem Quantum Center können wir Mathematiker:innen, Informatiker:innen, Physiker:innen und Ingenieur:innen zusammenbringen, um gemeinsam an Quantencomputern zu arbeiten. Das ist die Chance für die ETH.\n\nHoefler, T, Häner, T, Troyer, M. Disentangling Hype from Practicality: On Realistically Achieving Quantum Advantage. In: Communications of the ACM, May 2023, Vol. 66 No. 5, Pages 82-87, DOI: externe Seite 10.1145/3571725 ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Kleine Problemgroessen Ist",
+        "label": "LOC",
+        "start": 33,
+        "end": 59
+      },
+      {
+        "text": "Das grosse Versprechen von Quantencomputern",
+        "label": "MISC",
+        "start": 2,
+        "end": 45
+      },
+      {
+        "text": "Hochgeschwindigkeits-Quantenalgorithmen",
+        "label": "MISC",
+        "start": 352,
+        "end": 391
+      },
+      {
+        "text": "exponentiell schneller",
+        "label": "PER",
+        "start": 568,
+        "end": 590
+      },
+      {
+        "text": "Quantencomputer",
+        "label": "PER",
+        "start": 842,
+        "end": 857
+      },
+      {
+        "text": "Jahrzehnten",
+        "label": "PER",
+        "start": 1021,
+        "end": 1032
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PER",
+        "start": 1220,
+        "end": 1235
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PER",
+        "start": 1885,
+        "end": 1900
+      },
+      {
+        "text": "Quantenrechnen",
+        "label": "PER",
+        "start": 2264,
+        "end": 2278
+      },
+      {
+        "text": "Quantenrechnen",
+        "label": "PER",
+        "start": 2337,
+        "end": 2351
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PER",
+        "start": 39,
+        "end": 54
+      },
+      {
+        "text": "Communications of the ACM",
+        "label": "MISC",
+        "start": 734,
+        "end": 759
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PER",
+        "start": 825,
+        "end": 840
+      },
+      {
+        "text": "ETH-Professor",
+        "label": "ORG",
+        "start": 869,
+        "end": 882
+      },
+      {
+        "text": "Matthias Troyer",
+        "label": "PER",
+        "start": 883,
+        "end": 898
+      },
+      {
+        "text": "Microsoft USA",
+        "label": "MISC",
+        "start": 935,
+        "end": 948
+      },
+      {
+        "text": "ETH-Absolventen",
+        "label": "MISC",
+        "start": 958,
+        "end": 973
+      },
+      {
+        "text": "Thomas Häner",
+        "label": "PER",
+        "start": 974,
+        "end": 986
+      },
+      {
+        "text": "Amazon Web Services",
+        "label": "ORG",
+        "start": 1024,
+        "end": 1043
+      },
+      {
+        "text": "Zürich",
+        "label": "ORG",
+        "start": 1045,
+        "end": 1051
+      },
+      {
+        "text": "Quantencomputer",
+        "label": "PER",
+        "start": 43,
+        "end": 58
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PER",
+        "start": 105,
+        "end": 120
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PER",
+        "start": 821,
+        "end": 836
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PER",
+        "start": 1863,
+        "end": 1878
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 2402,
+        "end": 2406
+      },
+      {
+        "text": "Quanten-Speedup",
+        "label": "MISC",
+        "start": 2570,
+        "end": 2585
+      },
+      {
+        "text": "Quantenrechnens",
+        "label": "MISC",
+        "start": 2611,
+        "end": 2626
+      },
+      {
+        "text": "Big Data",
+        "label": "MISC",
+        "start": 3108,
+        "end": 3116
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PER",
+        "start": 4546,
+        "end": 4561
+      },
+      {
+        "text": "Quantenrechnens",
+        "label": "MISC",
+        "start": 4963,
+        "end": 4978
+      },
+      {
+        "text": "Grover",
+        "label": "MISC",
+        "start": 5480,
+        "end": 5486
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PER",
+        "start": 5913,
+        "end": 5928
+      },
+      {
+        "text": "Hochgeschwindigkeits-Quantenalgorithmen",
+        "label": "MISC",
+        "start": 5951,
+        "end": 5990
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 6663,
+        "end": 6673
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PER",
+        "start": 6675,
+        "end": 6690
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 6965,
+        "end": 6975
+      },
+      {
+        "text": "Quantenalgorithmen",
+        "label": "MISC",
+        "start": 7075,
+        "end": 7093
+      },
+      {
+        "text": "Quantum Center",
+        "label": "LOC",
+        "start": 7119,
+        "end": 7133
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 7310,
+        "end": 7313
+      },
+      {
+        "text": "Hoefler",
+        "label": "PER",
+        "start": 7315,
+        "end": 7322
+      },
+      {
+        "text": "Häner",
+        "label": "PER",
+        "start": 7327,
+        "end": 7332
+      },
+      {
+        "text": "M. Disentangling Hype",
+        "label": "ORG",
+        "start": 7345,
+        "end": 7366
+      },
+      {
+        "text": "On Realistically Achieving Quantum Advantage",
+        "label": "PER",
+        "start": 7386,
+        "end": 7430
+      },
+      {
+        "text": "Communications of the ACM",
+        "label": "ORG",
+        "start": 7436,
+        "end": 7461
+      },
+      {
+        "text": "May 2023",
+        "label": "MISC",
+        "start": 7463,
+        "end": 7471
+      },
+      {
+        "text": "Vol. 66 No",
+        "label": "MISC",
+        "start": 7473,
+        "end": 7483
+      },
+      {
+        "text": "DOI",
+        "label": "ORG",
+        "start": 7501,
+        "end": 7504
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hoefler",
+        "Häner",
+        "Jahrzehnten",
+        "Matthias Troyer",
+        "On Realistically Achieving Quantum Advantage",
+        "Quantencomputer",
+        "Quantenrechnen",
+        "Thomas Häner",
+        "Torsten Hoefler",
+        "exponentiell schneller"
+      ],
+      "ORG": [
+        "Amazon Web Services",
+        "Communications of the ACM",
+        "DOI",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Professor",
+        "M. Disentangling Hype",
+        "Zürich"
+      ],
+      "LOCATION": [
+        "Kleine Problemgroessen Ist",
+        "Quantum Center"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Big Data",
+        "Communications of the ACM",
+        "Das grosse Versprechen von Quantencomputern",
+        "ETH-Absolventen",
+        "Grover",
+        "Hochgeschwindigkeits-Quantenalgorithmen",
+        "May 2023",
+        "Microsoft USA",
+        "Quanten-Speedup",
+        "Quantenalgorithmen",
+        "Quantenrechnens",
+        "Vol. 66 No",
+        "Zeit"
+      ]
+    },
+    "entity_counts": {
+      "Torsten Hoefler": 10,
+      "Hochgeschwindigkeits-Quantenalgorithmen": 2,
+      "Quantencomputer": 2,
+      "Quantenrechnen": 2,
+      "Communications of the ACM": 2,
+      "Quantenrechnens": 2,
+      "ETH Zürich": 2,
+      "Kleine Problemgroessen Ist": 1,
+      "Das grosse Versprechen von Quantencomputern": 1,
+      "exponentiell schneller": 1,
+      "Jahrzehnten": 1,
+      "ETH-Professor": 1,
+      "Matthias Troyer": 1,
+      "Microsoft USA": 1,
+      "ETH-Absolventen": 1,
+      "Thomas Häner": 1,
+      "Amazon Web Services": 1,
+      "Zürich": 1,
+      "Zeit": 1,
+      "Quanten-Speedup": 1
+    },
+    "total_entities": 47,
+    "unique_entities": 32
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "fuer-sehr-kleine-problemgroessen-ist-ein-klassischer-computer-schneller.md",
+      "title": "De News Events/2023/05/fuer Sehr Kleine Problemgroessen Ist ein Klassischer Computer Schneller",
+      "language": "de",
+      "source_path": "de_news_events/2023/05/fuer-sehr-kleine-problemgroessen-ist-ein-klassischer-computer-schneller.html"
+    },
+    "temporal": {
+      "publication_date": "2023-05",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Hoefler",
+        "Häner",
+        "Jahrzehnten",
+        "Matthias Troyer",
+        "On Realistically Achieving Quantum Advantage",
+        "Quantencomputer",
+        "Quantenrechnen",
+        "Thomas Häner",
+        "Torsten Hoefler",
+        "exponentiell schneller"
+      ],
+      "people_with_roles": {
+        "Hoefler": [
+          "president",
+          "scientist",
+          "professor"
+        ],
+        "Häner": [
+          "president",
+          "scientist",
+          "professor"
+        ],
+        "Matthias Troyer": [
+          "Professor",
+          "president",
+          "scientist",
+          "professor"
+        ],
+        "Quantenrechnen": [
+          "president",
+          "scientist",
+          "professor"
+        ],
+        "Thomas Häner": [
+          "president",
+          "scientist",
+          "professor"
+        ],
+        "Torsten Hoefler": [
+          "president",
+          "scientist",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "physics"
+      ],
+      "research_topics": [
+        "Big Data",
+        "Communications of the ACM",
+        "Das grosse Versprechen von Quantencomputern",
+        "ETH-Absolventen",
+        "Grover",
+        "Hochgeschwindigkeits-Quantenalgorithmen",
+        "May 2023",
+        "Microsoft USA",
+        "Quanten-Speedup",
+        "Quantenalgorithmen",
+        "Quantenrechnens",
+        "Vol. 66 No",
+        "Zeit"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Corporate Vice",
+        "Im Prinzip",
+        "Disentangling Hype",
+        "Computer Millionen",
+        "Achieving Quantum",
+        "Hochgeschwindigkeits-Quantenberechnungen",
+        "ETH-Professor",
+        "Informatikzeitschrift Communications",
+        "Ihrer Studie",
+        "Quanten-Speedup",
+        "Sehen Sie",
+        "Quantenbeschleunigungs-Algorithmen",
+        "Als Faustregel",
+        "Problemgroessen Ist",
+        "Hochgeschwindigkeits-Quantenalgorithmen",
+        "ETH-Informatikprofessor",
+        "Unsere Analyse",
+        "Shor-Algorithmus",
+        "On Realistically",
+        "Quantum Center",
+        "Sehr Kleine",
+        "Klassischer Computer",
+        "Amazon Web",
+        "Microsoft USA",
+        "Eine Ihrer",
+        "Big Data",
+        "Quanten-Rechenschritt",
+        "Ein Quantencomputer",
+        "Big-Data",
+        "Grover-Algorithmus",
+        "Beschleunigungs-Algorithmen",
+        "De News",
+        "Torsten Hoefler",
+        "ETH-Absolventen",
+        "Damit Quantencomputer",
+        "Matthias Troyer",
+        "Senior Research",
+        "Beispiel Wettervorhersagen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Amazon Web Services",
+        "Communications of the ACM",
+        "DOI",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Professor",
+        "M. Disentangling Hype",
+        "Zürich"
+      ],
+      "locations": [
+        "Kleine Problemgroessen Ist",
+        "Quantum Center"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Torsten Hoefler",
+        "Hochgeschwindigkeits-Quantenalgorithmen",
+        "Quantencomputer",
+        "Quantenrechnen",
+        "Communications of the ACM",
+        "Quantenrechnens",
+        "ETH Zürich",
+        "Kleine Problemgroessen Ist",
+        "Das grosse Versprechen von Quantencomputern",
+        "exponentiell schneller"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Das Wichtigste in Kürze",
+          "Hintergrund zum Interview",
+          "Literaturhinweis"
+        ],
+        "content_length": 11497
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "exponentiell schneller",
+        "ETH",
+        "On Realistically Achieving Quantum Advantage",
+        "DOI",
+        "M. Disentangling Hype",
+        "2023",
+        "ETH-Professor",
+        "Häner",
+        "Zürich",
+        "ETH Zürich",
+        "Hoefler",
+        "Quantenrechnen",
+        "EU",
+        "Amazon Web Services",
+        "Quantencomputer",
+        "Thomas Häner",
+        "Torsten Hoefler",
+        "Matthias Troyer",
+        "Jahrzehnten",
+        "Communications of the ACM"
+      ],
+      "semantic_concepts": [
+        "Quantenalgorithmen",
+        "physics",
+        "Microsoft USA",
+        "Zeit",
+        "Grover",
+        "who",
+        "Big Data",
+        "Das grosse Versprechen von Quantencomputern",
+        "Vol. 66 No",
+        "ETH-Absolventen",
+        "Quantenrechnens",
+        "Hochgeschwindigkeits-Quantenalgorithmen",
+        "May 2023",
+        "what",
+        "Quanten-Speedup",
+        "when",
+        "Communications of the ACM"
+      ],
+      "graph_relations": [
+        "Hoefler_has_role_president",
+        "Hoefler_has_role_scientist",
+        "Hoefler_has_role_professor",
+        "Häner_has_role_president",
+        "Häner_has_role_scientist",
+        "Häner_has_role_professor",
+        "Matthias Troyer_has_role_Professor",
+        "Matthias Troyer_has_role_president",
+        "Matthias Troyer_has_role_scientist",
+        "Matthias Troyer_has_role_professor",
+        "Quantenrechnen_has_role_president",
+        "Quantenrechnen_has_role_scientist",
+        "Quantenrechnen_has_role_professor",
+        "Thomas Häner_has_role_president",
+        "Thomas Häner_has_role_scientist",
+        "Thomas Häner_has_role_professor",
+        "Torsten Hoefler_has_role_president",
+        "Torsten Hoefler_has_role_scientist",
+        "Torsten Hoefler_has_role_professor",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

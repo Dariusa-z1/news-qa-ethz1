@@ -1,0 +1,127 @@
+{
+  "filename": "virtuelle-veranstaltungen.md",
+  "original_filename": "virtuelle-veranstaltungen.html",
+  "source_path": "de_internal/2020/06/virtuelle-veranstaltungen.html",
+  "date": "2020-06",
+  "title": "Virtuelle Veranstaltungen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der Apéro im April war schnell abgesagt. Schwieriger war es mit dem Entscheid, die langfristig geplante Ausstellung zu canceln. Wie feiern wir heute unsere Erfolge? Wie treffen wir morgen – im virtuellen Raum – die Erwartungen unserer Gäste? Wo passt ein Webinar, wo ein Live Streaming – und wann braucht es neben der Moderation auch die Rolle des technischen Supports?\n\nDie aktuellen Fragen und Auflagen beachtend, bieten unsere Spezialisten in den Bereichen Veranstaltungsmanagement und Informationstechnologie neue Lösungen. Gern beraten und begleiten wir Sie auf Ihrem Weg zu neuen, zeitgemässen Veranstaltungskonzepten. Damit Sie im neuen Normalbetrieb bereit sind für eine Eventplanung unter Auflagen. Die vergangenen Monate haben die Türen zu virtuellen Räumen geöffnet: Treten Sie ein – wir unterstützen Sie dabei!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/06/virtuelle Veranstaltungen",
+        "label": "LOC",
+        "start": 0,
+        "end": 45
+      },
+      {
+        "text": "Apéro",
+        "label": "LOC",
+        "start": 4,
+        "end": 9
+      },
+      {
+        "text": "Schwieriger",
+        "label": "PER",
+        "start": 41,
+        "end": 52
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Schwieriger"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "Apéro",
+        "De Internal/2020/06/virtuelle Veranstaltungen"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2020/06/virtuelle Veranstaltungen": 1,
+      "Apéro": 1,
+      "Schwieriger": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "virtuelle-veranstaltungen.md",
+      "title": "De Internal/2020/06/virtuelle Veranstaltungen",
+      "language": "de",
+      "source_path": "de_internal/2020/06/virtuelle-veranstaltungen.html"
+    },
+    "temporal": {
+      "publication_date": "2020-06",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Schwieriger"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Veranstaltungen Der",
+        "De Internal",
+        "Ihrem Weg",
+        "Bereichen Veranstaltungsmanagement",
+        "Damit Sie",
+        "Treten Sie",
+        "Live Streaming"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Apéro",
+        "De Internal/2020/06/virtuelle Veranstaltungen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2020/06/virtuelle Veranstaltungen",
+        "Apéro",
+        "Schwieriger"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 868
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "2020",
+        "Schwieriger"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

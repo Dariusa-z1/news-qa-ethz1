@@ -1,0 +1,558 @@
+{
+  "filename": "secure-use-of-the-cloud.md",
+  "original_filename": "secure-use-of-the-cloud.html",
+  "source_path": "en_internal/2021/10/secure-use-of-the-cloud.html",
+  "date": "2021-10",
+  "title": "Secure Use Of The Cloud",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Am I generally allowed to use cloud services at ETH for internal and confidential data?",
+      "text": "- polybox: Storage space available to all ETH members. polybox also enables collaborative work on documents. Confidential data may be stored in polybox.\n\n- If a particularly high level of protection for research data is required, the Scientific IT Services offer suitable platforms, such as Leonhard Med.\n\n- Overview of the new classification rules\n\n- Regulation for the correct classification of data confidentiality\n\n- Rules for the use of cloud services\n\n- Use of ETH IT resources and infrastructure\n\nA virtual, integrated working environment is essential in research, teaching and administration at ETH. Cloud services seem to offer a very accessible solution for this.\n\nHowever, if those cloud services are offered by third-party providers (external IT services), then there is no way of knowing for sure in which country the ETH data will be located, which laws will apply (e.g. with regard to data protection) and how well the provider will protect the data.\n\nFor this reason, data classified as “internal” or as “confidential” must never automatically be uploaded into external cloud services – and data classified as “strictly confidential” must never be stored or processed in the cloud at all (cf. Article 22 or Article 22 bis of the directive Information Security at ETH Zurich ).\n\nBelow you will find answers to some of the most frequently asked questions about cloud usage."
+    },
+    {
+      "heading": "Am I generally allowed to use cloud services at ETH for internal and confidential data?",
+      "text": "Yes, but only under certain conditions. ETH itself provides its own cloud services. These can of course be used without hesitation, including for data classified as “internal” or “confidential”.\n\nThe following in-house cloud services are available:"
+    },
+    {
+      "heading": "How can I use external cloud services at ETH?",
+      "text": "In this case, criteria are provided that must be used to assess whether an external cloud service is secure enough for “internal” or “confidential” data.\n\nTo standardise the use of external cloud services at ETH and in an attempt to ensure sufficient protection of the data to be outsourced, two roles have been defined: service mediators and information owners."
+    },
+    {
+      "heading": "Service mediators",
+      "text": "Role: “Service mediators” procure external IT services such as cloud services and are essentially responsible for contract management with the cloud provider. Typically, service mediators are the central IT Services and the IT support groups, but they can also be professors who want to provide a specific cloud service for the members of their group or for their wider institute, department heads or coordinators, administrative department or staff unit heads, etc.\n\nTasks: In the course of contract management for the external cloud service, the service mediator verifies the level of protection the service offers for the ETH data to be outsourced. Based on this review, the service mediator approves the external cloud service for its intended use by ETH members.\n\nWhether data classified as “internal” or “confidential” may be outsourced to an external cloud service depends on the level of protection this data requires. Examples of criteria to be reviewed include: multi-factor authentication, data protection requirements, server location (should be in Switzerland or the EU), jurisdiction, etc. The complete list can be found in the IT Guidelines and IT Baseline Protection Rules of ETH Zurich (cf. Articles 6, 10 and 11).\n\nPlease also note: Data classified as “strictly confidential” must never be outsourced to external cloud services . This means service mediators are not permitted to provide external cloud services for outsourcing “strictly confidential” data."
+    },
+    {
+      "heading": "Information owners",
+      "text": "Role: The second important role is that of “information owners”. They are responsible for the data that is collected and processed on their behalf and essentially decide whether or not to outsource their data to external cloud services. (Please note: The decision to outsource ETH Zurich data is not the responsibility of the service mediators. The mediators simply arrange an external cloud service and approve that cloud service for a specific use.)\n\nTasks: Information owners must above all be able to assess whether a cloud service approved for use within ETH meets the protection requirements of their data. It is up to them to assess the risk they are taking by outsourcing their data to the designated cloud service. Depending on the data to be outsourced, this assessment will also determine whether their data may be subject to export controls or whether a data protection impact assessment will be necessary before the data is outsourced to the external cloud service.\n\nIt is possible for one person to perform both roles – that of service mediator and that of information owner. For instance, a professor may want to obtain an external cloud service for her own research as well as for the employees of her institute. He/she must then review the criteria according to both of her roles."
+    },
+    {
+      "heading": "Support through questionnaire",
+      "text": "For both roles, appropriate questionnaires or assessments will be made available in good time before the directives come into force; service mediators and information owners will fill out the questionnaires and document the assessments in order to be allowed to use their data securely in cloud services. These assessments will be collected with the help of central IT Services (ITS) on behalf of the Chief Information Security Officer (CISO) at ETH with a view to offering a list of verified cloud services and other third-party IT services used at ETH in the future."
+    },
+    {
+      "heading": "Transitional provisions: What changes when?",
+      "text": "The regulations on cloud usage as set out in the IT Guidelines and IT Baseline Protection Rules of ETH Zurich are to be implemented by March 2023 (Article 16).\n\nFor this reason, it makes sense for service mediators to start reviewing the external cloud services they provide now to determine whether and to what extent they meet the requirements of the IT Guidelines and IT Baseline Protection Rules of ETH Zurich.\n\nMeanwhile, if an information owner wishes to outsource confidential data to an existing external cloud service, they must contact the service provider to clarify whether this is possible and whether the external cloud service already meets the requirements of the IT Guidelines and IT Baseline Protection Rules of ETH Zurich. Outsourcing is then possible only once the information owner has carried out the above-mentioned assessment.\n\nFor new external cloud services, the regulations in the IT Guidelines and IT Baseline Protection Rules of ETH Zurich apply with immediate effect.\n\nAssessment forms will soon be made available to assist the service mediator or information owner in their duties."
+    },
+    {
+      "heading": "Domenico Salvati (CISO) about the new guidelines",
+      "text": "Domenico Salvati, why were new rules created for cloud usage? Until now, the use of internal, but especially confidential data in external cloud services has been either not regulated at all or regulated too restrictively. To create a legal basis for this topic, the relevant protection standards have been defined.\n\nIf I want to collaborate with an external research partner, I need to use a specific external cloud service. What factors do I have to consider? If it’s an external cloud service that hasn’t yet been approved for use within ETH, it will first be necessary to set up contract management with the external cloud provider. This puts you in the role of a service mediator, who reviews the relevant external cloud service to see what kind of data the service is suitable for in principle. Only after a positive assessment, for which appropriate documentation will be made available in the coming months, can the external cloud service be approved for use within ETH.\n\nWhat criteria must be observed if confidential data is to be outsourced to an external cloud service that has already been approved for use within ETH? In this case, the information owner is responsible for determining the level of protection that the data requires. If the data is classified as “internal” or as “confidential”, it is important to choose a cloud service that has been rated as good for working with this type of data classification. The classification of data as e.g. “internal” or “confidential” is risk-based and is defined in the directive Information Security at ETH Zurich . The appendices to the directive are particularly important here, as they show specific examples of common types of data and the necessary protective measures. Please note: “Strictly confidential” data must never be outsourced to an external cloud service.\n\nWhere can I get help evaluating a cloud service as a service mediator? IT Services can assist you, as can I, with your evaluation.\n\nWhere can I find out which cloud services have already been approved for use at ETH? The approval of external cloud services for ETH data classified as “confidential” has the great advantage that ITS can then add those services to lists on behalf of the CISO. This makes it easy to check whether a desired service has already been checked for suitability and is used elsewhere at ETH.\n\nIt can also be helpful to ask in advance whether ETH’s own solutions – such as polybox or the Leonhard Med platform – might also be suitable, as these are much faster and more readily available."
+    },
+    {
+      "heading": "Subscribe to Newsletter",
+      "text": "Image: ETH Zurich / Giulia Marthaler\n\nDr. Domenico Salvati is the Chief Information Security Officer (CISO) at ETH Zurich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 42,
+        "end": 45
+      },
+      {
+        "text": "polybox",
+        "label": "ORG",
+        "start": 55,
+        "end": 62
+      },
+      {
+        "text": "Scientific",
+        "label": "ORG",
+        "start": 233,
+        "end": 243
+      },
+      {
+        "text": "Leonhard Med",
+        "label": "PERSON",
+        "start": 290,
+        "end": 302
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 597,
+        "end": 600
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 716,
+        "end": 721
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 824,
+        "end": 827
+      },
+      {
+        "text": "Article 22 or",
+        "label": "LAW",
+        "start": 1201,
+        "end": 1214
+      },
+      {
+        "text": "Article 22",
+        "label": "LAW",
+        "start": 1215,
+        "end": 1225
+      },
+      {
+        "text": "Information Security",
+        "label": "ORG",
+        "start": 1247,
+        "end": 1267
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1271,
+        "end": 1281
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 40,
+        "end": 43
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 207,
+        "end": 210
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 291,
+        "end": 294
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 624,
+        "end": 627
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 754,
+        "end": 757
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1059,
+        "end": 1070
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 1078,
+        "end": 1080
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 10,
+        "end": 16
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 277,
+        "end": 287
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 559,
+        "end": 562
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 997,
+        "end": 1000
+      },
+      {
+        "text": "the Chief Information Security",
+        "label": "ORG",
+        "start": 397,
+        "end": 427
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 446,
+        "end": 449
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 518,
+        "end": 523
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 550,
+        "end": 553
+      },
+      {
+        "text": "March 2023",
+        "label": "DATE",
+        "start": 135,
+        "end": 145
+      },
+      {
+        "text": "Article 16",
+        "label": "LAW",
+        "start": 147,
+        "end": 157
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 732,
+        "end": 738
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "GPE",
+        "start": 955,
+        "end": 965
+      },
+      {
+        "text": "Domenico Salvati",
+        "label": "PERSON",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 540,
+        "end": 543
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 553,
+        "end": 558
+      },
+      {
+        "text": "the coming months",
+        "label": "DATE",
+        "start": 896,
+        "end": 913
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 973,
+        "end": 976
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1125,
+        "end": 1128
+      },
+      {
+        "text": "Information Security",
+        "label": "ORG",
+        "start": 1538,
+        "end": 1558
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1566,
+        "end": 1572
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2042,
+        "end": 2045
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2091,
+        "end": 2094
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2342,
+        "end": 2345
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2396,
+        "end": 2399
+      },
+      {
+        "text": "the Leonhard Med",
+        "label": "ORG",
+        "start": 2437,
+        "end": 2453
+      },
+      {
+        "text": "ETH Zurich /",
+        "label": "PERSON",
+        "start": 7,
+        "end": 19
+      },
+      {
+        "text": "Giulia",
+        "label": "GPE",
+        "start": 20,
+        "end": 26
+      },
+      {
+        "text": "Domenico Salvati",
+        "label": "PERSON",
+        "start": 41,
+        "end": 57
+      },
+      {
+        "text": "the Chief Information Security",
+        "label": "ORG",
+        "start": 61,
+        "end": 91
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 110,
+        "end": 120
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Domenico Salvati",
+        "ETH Zurich /",
+        "Leonhard Med"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "EU",
+        "Information Security",
+        "Scientific",
+        "polybox",
+        "the Chief Information Security",
+        "the Leonhard Med"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Giulia",
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "March 2023",
+        "the coming months"
+      ],
+      "MISC": [
+        "Article 16",
+        "Article 22",
+        "Article 22 or",
+        "first",
+        "one",
+        "second",
+        "third",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 17,
+      "ETH Zurich": 4,
+      "third": 2,
+      "Information Security": 2,
+      "the Chief Information Security": 2,
+      "Zurich": 2,
+      "Domenico Salvati": 2,
+      "polybox": 1,
+      "Scientific": 1,
+      "Leonhard Med": 1,
+      "Article 22 or": 1,
+      "Article 22": 1,
+      "two": 1,
+      "Switzerland": 1,
+      "EU": 1,
+      "second": 1,
+      "one": 1,
+      "March 2023": 1,
+      "Article 16": 1,
+      "first": 1
+    },
+    "total_entities": 48,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "secure-use-of-the-cloud.md",
+      "title": "En Internal/2021/10/secure Use Of The Cloud",
+      "language": "en",
+      "source_path": "en_internal/2021/10/secure-use-of-the-cloud.html"
+    },
+    "temporal": {
+      "publication_date": "2021-10",
+      "mentioned_years": [
+        "2021",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "until"
+    },
+    "people": {
+      "mentioned_people": [
+        "Domenico Salvati",
+        "ETH Zurich /",
+        "Leonhard Med"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Article 16",
+        "Article 22",
+        "Article 22 or",
+        "first",
+        "second",
+        "third"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH IT",
+        "Information Security",
+        "IT Guidelines",
+        "Security Officer",
+        "IT Services",
+        "Leonhard Med",
+        "En Internal",
+        "IT Baseline",
+        "Use Of",
+        "Protection Rules",
+        "Scientific IT",
+        "Chief Information",
+        "Domenico Salvati",
+        "Giulia Marthaler",
+        "ETH Zurich",
+        "If I",
+        "The Cloud"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "EU",
+        "Information Security",
+        "Scientific",
+        "polybox",
+        "the Chief Information Security",
+        "the Leonhard Med"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Giulia",
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Zurich",
+        "third",
+        "Information Security",
+        "the Chief Information Security",
+        "Zurich",
+        "Domenico Salvati",
+        "polybox",
+        "Scientific",
+        "Leonhard Med"
+      ],
+      "document_structure": {
+        "total_sections": 9,
+        "section_titles": [
+          "Am I generally allowed to use cloud services at ETH for internal and confidential data?",
+          "Am I generally allowed to use cloud services at ETH for internal and confidential data?",
+          "How can I use external cloud services at ETH?",
+          "Service mediators",
+          "Information owners",
+          "Support through questionnaire",
+          "Transitional provisions: What changes when?",
+          "Domenico Salvati (CISO) about the new guidelines",
+          "Subscribe to Newsletter"
+        ],
+        "content_length": 9169
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Information Security",
+        "EU",
+        "Leonhard Med",
+        "ETH Zurich /",
+        "the Chief Information Security",
+        "Scientific",
+        "Domenico Salvati",
+        "polybox",
+        "the Leonhard Med",
+        "ETH Zurich",
+        "2021",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "third",
+        "Article 22 or",
+        "who",
+        "Article 16",
+        "Article 22",
+        "where",
+        "what",
+        "second",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "filename": "central-construction-site.md",
+  "original_filename": "central-construction-site.html",
+  "source_path": "en_internal/2017/07/central-construction-site.html",
+  "date": "2017-07",
+  "title": "Central Construction Site",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Central is undergoing a comprehensive renovation between April and November: tram lines are being replaced, the tram islands extended and new roofs installed. The area will also be made safer for pedestrians and cyclists.\n\nAs part of the renovation work, the area will be off limits to all public transport from 8 July to 11 August. The Polybahn will not be affected and will even run from 6:00 in the morning as an exception. Diversions will be signalled for pedestrians, cyclists and motorists. There will be no bicycle parking at Central.\n\nThe city recommends that people travel to ETH via Stadelhofen railway station and Bellevue. The ETH Link will only run between ETH Zentrum and Hönggerberg during this period."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "between April and November",
+        "label": "DATE",
+        "start": 49,
+        "end": 75
+      },
+      {
+        "text": "8 July to 11 August",
+        "label": "DATE",
+        "start": 311,
+        "end": 330
+      },
+      {
+        "text": "Polybahn",
+        "label": "ORG",
+        "start": 336,
+        "end": 344
+      },
+      {
+        "text": "6:00 in the morning",
+        "label": "TIME",
+        "start": 389,
+        "end": 408
+      },
+      {
+        "text": "Central",
+        "label": "ORG",
+        "start": 532,
+        "end": 539
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 583,
+        "end": 586
+      },
+      {
+        "text": "Stadelhofen",
+        "label": "GPE",
+        "start": 591,
+        "end": 602
+      },
+      {
+        "text": "Bellevue",
+        "label": "ORG",
+        "start": 623,
+        "end": 631
+      },
+      {
+        "text": "ETH Zentrum",
+        "label": "PERSON",
+        "start": 668,
+        "end": 679
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 684,
+        "end": 695
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zentrum"
+      ],
+      "ORG": [
+        "Bellevue",
+        "Central",
+        "ETH",
+        "Polybahn"
+      ],
+      "LOCATION": [
+        "Hönggerberg",
+        "Stadelhofen"
+      ],
+      "DATE": [
+        "6:00 in the morning",
+        "8 July to 11 August",
+        "between April and November"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "between April and November": 1,
+      "8 July to 11 August": 1,
+      "Polybahn": 1,
+      "6:00 in the morning": 1,
+      "Central": 1,
+      "ETH": 1,
+      "Stadelhofen": 1,
+      "Bellevue": 1,
+      "ETH Zentrum": 1,
+      "Hönggerberg": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "central-construction-site.md",
+      "title": "En Internal/2017/07/central Construction Site",
+      "language": "en",
+      "source_path": "en_internal/2017/07/central-construction-site.html"
+    },
+    "temporal": {
+      "publication_date": "2017-07",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Construction Site",
+        "ETH Zentrum",
+        "En Internal",
+        "The Polybahn",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bellevue",
+        "Central",
+        "ETH",
+        "Polybahn"
+      ],
+      "locations": [
+        "Hönggerberg",
+        "Stadelhofen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "between April and November",
+        "8 July to 11 August",
+        "Polybahn",
+        "6:00 in the morning",
+        "Central",
+        "ETH",
+        "Stadelhofen",
+        "Bellevue",
+        "ETH Zentrum",
+        "Hönggerberg"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 763
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zentrum",
+        "Polybahn",
+        "ETH",
+        "2017",
+        "Central",
+        "Bellevue"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "where",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

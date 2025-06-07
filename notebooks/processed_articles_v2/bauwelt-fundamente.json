@@ -1,0 +1,120 @@
+{
+  "filename": "bauwelt-fundamente.md",
+  "original_filename": "bauwelt-fundamente.html",
+  "source_path": "en_internal/2015/06/bauwelt-fundamente.html",
+  "date": "2015-06",
+  "title": "Bauwelt Fundamente",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Since it was launched in 1963, it has featured a large number of pivotal texts on modern and post-modern architecture. Meanwhile, with 150 volumes, it is the most extensive book series in German on these topics.\n\nFor licensing reasons, access to this database is restricted to the domain ethz.ch."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Fundamente",
+        "label": "GPE",
+        "start": 28,
+        "end": 38
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 188,
+        "end": 194
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "Fundamente"
+      ],
+      "DATE": [],
+      "MISC": [
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "Fundamente": 1,
+      "German": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "bauwelt-fundamente.md",
+      "title": "En Internal/2015/06/bauwelt Fundamente",
+      "language": "en",
+      "source_path": "en_internal/2015/06/bauwelt-fundamente.html"
+    },
+    "temporal": {
+      "publication_date": "2015-06",
+      "mentioned_years": [
+        "1963",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "German"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Fundamente Since",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Fundamente"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "why"
+      ],
+      "key_concepts": [
+        "Fundamente",
+        "German"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 335
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "1963"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "why",
+        "German"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

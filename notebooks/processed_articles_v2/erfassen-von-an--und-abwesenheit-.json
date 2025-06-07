@@ -1,0 +1,210 @@
+{
+  "filename": "erfassen-von-an--und-abwesenheit-.md",
+  "original_filename": "erfassen-von-an--und-abwesenheit-.html",
+  "source_path": "de_internal/2016/12/erfassen-von-an--und-abwesenheit-.html",
+  "date": "2016-12",
+  "title": "Erfassen Von An Und Abwesenheit",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Seit dem Jahresbeginn 2015 gilt an der ETH Zürich ein neuer Rechnungslegungsstandard. Dieser orientiert sich an IPSAS, dem internationalen Rechnungslegungsstandards für den öffentlichen Sektor. Im Zuge dieser Umstellung wird ab 2017 die Zeiterfassung der ETH-Angestellten neu geregelt.\n\nGemäss diesem Reglement sind die Mitarbeitenden der ETH Zürich ab dem 1. Januar 2017 verpflichtet, die tägliche Arbeitszeit sowie bestimmte Abwesenheiten im Zeiterfassungssystem in ETHIS (ETH Informations- und Support-System) oder in einem bestehenden Zeiterfassungssystem zu erfassen. Dabei ist die Zeiterfassung je nach Personalkategorie unterschiedlich geregelt.\n\nWelche Abwesenheiten die Mitarbeitenden je nach Personalkategorie erfassen müssen, zeigt die folgende Zusammenstellung:\n\nWissenschaftliche Mitarbeitende (ohne Professoren und Professorinnen)\n\nAdministrative und technische Mitarbeitende, Funktionsstufe 1-9\n\nAdministrative und technische Mitarbeitende, Funktionsstufe 10-15\n\nMitarbeitende im Stundenlohn\n\nDie bestehenden Regelungen zur Erfassung von Arbeitszeit auf Projekte sind weiterhin anzuwenden.\n\nWeitere Informationen finden sich im ETH-Web bei der Personalabteilung .\n\nDazu werden die Mitarbeitenden der ETH Zürich direkt und abgestimmt auf Ihre Personalkategorie informiert."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/12",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 39,
+        "end": 49
+      },
+      {
+        "text": "IPSAS",
+        "label": "ORG",
+        "start": 112,
+        "end": 117
+      },
+      {
+        "text": "ETH-Angestellten",
+        "label": "MISC",
+        "start": 255,
+        "end": 271
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 338,
+        "end": 348
+      },
+      {
+        "text": "ETHIS",
+        "label": "ORG",
+        "start": 467,
+        "end": 472
+      },
+      {
+        "text": "ETH Informations- und Support-System",
+        "label": "ORG",
+        "start": 474,
+        "end": 510
+      },
+      {
+        "text": "Stundenlohn",
+        "label": "LOC",
+        "start": 989,
+        "end": 1000
+      },
+      {
+        "text": "ETH-Web",
+        "label": "MISC",
+        "start": 1135,
+        "end": 1142
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1206,
+        "end": 1216
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Informations- und Support-System",
+        "ETH Zürich",
+        "ETHIS",
+        "IPSAS"
+      ],
+      "LOCATION": [
+        "De Internal/2016/12",
+        "Stundenlohn"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angestellten",
+        "ETH-Web"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 3,
+      "De Internal/2016/12": 1,
+      "IPSAS": 1,
+      "ETH-Angestellten": 1,
+      "ETHIS": 1,
+      "ETH Informations- und Support-System": 1,
+      "Stundenlohn": 1,
+      "ETH-Web": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "erfassen-von-an--und-abwesenheit-.md",
+      "title": "De Internal/2016/12/erfassen von an und Abwesenheit",
+      "language": "de",
+      "source_path": "de_internal/2016/12/erfassen-von-an--und-abwesenheit-.html"
+    },
+    "temporal": {
+      "publication_date": "2016-12",
+      "mentioned_years": [
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Angestellten",
+        "ETH-Web"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Web",
+        "Weitere Informationen",
+        "Ihre Personalkategorie",
+        "De Internal",
+        "Abwesenheit Seit",
+        "Im Zuge",
+        "ETH-Angestellten",
+        "Welche Abwesenheiten",
+        "Support-System",
+        "Wissenschaftliche Mitarbeitende",
+        "ETH Informations"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Informations- und Support-System",
+        "ETH Zürich",
+        "ETHIS",
+        "IPSAS"
+      ],
+      "locations": [
+        "De Internal/2016/12",
+        "Stundenlohn"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2016/12",
+        "IPSAS",
+        "ETH-Angestellten",
+        "ETHIS",
+        "ETH Informations- und Support-System",
+        "Stundenlohn",
+        "ETH-Web"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1338
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Informations- und Support-System",
+        "2015",
+        "IPSAS",
+        "2017",
+        "EU",
+        "2016",
+        "ETH Zürich",
+        "ETHIS"
+      ],
+      "semantic_concepts": [
+        "ETH-Angestellten",
+        "who",
+        "ETH-Web"
+      ],
+      "graph_relations": []
+    }
+  }
+}

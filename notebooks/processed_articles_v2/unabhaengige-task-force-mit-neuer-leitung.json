@@ -1,0 +1,149 @@
+{
+  "filename": "unabhaengige-task-force-mit-neuer-leitung.md",
+  "original_filename": "unabhaengige-task-force-mit-neuer-leitung.html",
+  "source_path": "de_news_events/2021/08/unabhaengige-task-force-mit-neuer-leitung.html",
+  "date": "2021-08",
+  "title": "Unabhaengige Task Force Mit Neuer Leitung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In dieser Folge sprechen Martin Ackermann und Tanja Stadler darüber, was sie während der Pandemie über die Beziehung von Wissenschaft und Politik gelernt haben. Sie erzählen, wie sie damit umgehen auf einmal Menschen von öffentlichem Interesse zu sein und dass sie hoffen, die Task Force werde zukünftig überflüssig, auch wenn das Virus bleibt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Task Force",
+        "label": "PER",
+        "start": 36,
+        "end": 46
+      },
+      {
+        "text": "Martin Ackermann",
+        "label": "PER",
+        "start": 25,
+        "end": 41
+      },
+      {
+        "text": "Tanja Stadler",
+        "label": "PER",
+        "start": 46,
+        "end": 59
+      },
+      {
+        "text": "Task Force",
+        "label": "LOC",
+        "start": 277,
+        "end": 287
+      },
+      {
+        "text": "Virus",
+        "label": "MISC",
+        "start": 331,
+        "end": 336
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Martin Ackermann",
+        "Tanja Stadler",
+        "Task Force"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "Task Force"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Virus"
+      ]
+    },
+    "entity_counts": {
+      "Task Force": 2,
+      "Martin Ackermann": 1,
+      "Tanja Stadler": 1,
+      "Virus": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "unabhaengige-task-force-mit-neuer-leitung.md",
+      "title": "De News Events/2021/08/unabhaengige Task Force mit Neuer Leitung",
+      "language": "de",
+      "source_path": "de_news_events/2021/08/unabhaengige-task-force-mit-neuer-leitung.html"
+    },
+    "temporal": {
+      "publication_date": "2021-08",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Martin Ackermann",
+        "Tanja Stadler",
+        "Task Force"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Virus"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Martin Ackermann",
+        "Neuer Leitung",
+        "Tanja Stadler",
+        "De News",
+        "Task Force"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Task Force"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Task Force",
+        "Martin Ackermann",
+        "Tanja Stadler",
+        "Virus"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 409
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Martin Ackermann",
+        "EU",
+        "Tanja Stadler",
+        "Task Force",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "Virus"
+      ],
+      "graph_relations": []
+    }
+  }
+}

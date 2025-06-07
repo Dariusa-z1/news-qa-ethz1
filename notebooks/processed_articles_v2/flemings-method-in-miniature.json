@@ -1,0 +1,554 @@
+{
+  "filename": "flemings-method-in-miniature.md",
+  "original_filename": "flemings-method-in-miniature.html",
+  "source_path": "en_news_events/2019/04/flemings-method-in-miniature.html",
+  "date": "2019-04",
+  "title": "Flemings Method In Miniature",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "“Bubble tea” in the quest for active substances",
+      "text": "It was 90 years ago that mould accidentally got onto a bacterial culture in Alexander Fleming’s lab. The Scottish bacteriologist observed that the mould produced a substance that killed the bacteria on the cell-culture dish. He had discovered penicillin, one of the first antibiotics. There are now several dozen classes of antibiotics on the market, and scientists continue to search tirelessly for new antimicrobial agents because they are urgently needed in medicine. A large proportion of these drugs are natural products or take these as their origin. And the method of detection is still the same as it was in Fleming’s day: if a substance can kill bacteria on a cell-culture dish, then it’s an antibiotic.\n\nSteven Schmitt and colleagues from ETH Professor Sven Panke’s group in the Department of Biosystems Science and Engineering at ETH Zurich in Basel have now modernised and miniaturised Fleming’s method, making it fit for high-throughput screening of microorganisms and the substances they produce. “While it currently takes up to a year to test around 10,000 producers of substances using conventional methods, we are able to examine millions of variants within just a few days,” says Schmitt, who developed the method as part of his doctoral thesis at ETH.\n\nThe ETH scientists, together with Dutch and German colleagues, have successfully identified a number of new antibiotic candidates with the new technology. In a next step, the scientists will investigate whether some of these molecules are suited for medical application."
+    },
+    {
+      "heading": "“Bubble tea” in the quest for active substances",
+      "text": "Alexander Fleming used a cell-culture dish with a diameter of ten centimetres, but the new technique, called nanoFleming, employs tiny beads of gel just half a millimetre across – bringing to mind bubble tea or molecular gastronomy’s imitation caviar. Inside these beads, scientists can test new substances for antibiotic activity. For this, they embed numerous sensor bacteria along with one microorganism that produces a substance with a potential antibiotic effect.\n\nIf the produced substance has an antibiotic effect, the sensor bacteria die. If it has no effect, they proliferate and form cell clusters. After labelling the sensor bacteria with a fluorescent dye, the scientists can use a high-throughput sorting method to isolate weakly fluorescent gel beads. These contain a microorganism producing an active antibiotic. The scientists can then proceed to identifying this substance."
+    },
+    {
+      "heading": "More effective antibiotics",
+      "text": "For their latest paper, which the scientists recently published in the journal Nature Chemical Biology , they tested a collection of 6,000 peptides (short proteins) for antibiotic effect. These molecules are similar to a group of known peptide antibiotics called lantibiotics. The scientists wanted to investigate whether it was possible to increase the efficacy of lantibiotics or bypass known resistance mechanisms by altering their molecular structure in intelligent ways.\n\nWorking with fellow Dutch and German scientists, they started from known lantibiotics and their structural and functional subunits. Taking a biotechnology approach, they combined these different subunits in all possible ways and created a collection of microorganisms that produce these recombinant peptides. Testing them with the nanoFleming method the team found 11 peptides that either are effective at smaller doses than the conventional lantibiotics or are able to bypass known resistance mechanisms."
+    },
+    {
+      "heading": "Seeking substances in the natural world",
+      "text": "“The method is also excellent for investigating whether microorganisms found in nature produce as yet undiscovered active substances,” says Schmitt. He explained that microbes trying to eliminate their competitors with biochemical compounds is a natural and widespread mechanism. It is therefore possible that new antibiotic classes could be found in habitats such as soil samples or the microbiome found on human skin and in saliva, an area which has not yet been studied in detail. The new technology will be able to analyse microorganisms from these habitats very well. “And because we are now able to test many more producers of active substances in a much shorter time than was possible with previous methods, the chances of discovering active agents from rare microorganisms are far greater.”\n\nThe technique could also be adapted to test for additional criteria already during the first screening, such as the stability of antibiotic substances in the human bloodstream or avoidance of resistance mechanisms. Furthermore, it could be possible to equip the gel beads with different kinds of sensor bacteria – those that an active substance absolutely should kill, such as pathogens, and others that it should most definitely not harm, such as beneficial bacteria found on healthy skin or in oral flora.\n\nSchmitt is now pursuing further developments such as these as part of his ETH Pioneer Fellowship. Additional support is provided by a BRIDGE grant, with which the Swiss National Science Foundation and Innosuisse jointly promote developments at the interface between university research and industry. He also plans to establish a spin-off to commercialise the method.\n\nSchmitt S, Montalbán-López M, Peterhoff D, Deng J, Wagner R, Held M, Kuipers OP, Panke S: Analysis of modular bioengineered antimicrobial lanthipeptides at nanoliter scale. Nature Chemical Biology 2019, 15: 437, doi: 10.1038/s41589-019-0250-5"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Method",
+        "label": "PRODUCT",
+        "start": 32,
+        "end": 38
+      },
+      {
+        "text": "90 years ago",
+        "label": "DATE",
+        "start": 7,
+        "end": 19
+      },
+      {
+        "text": "Alexander Fleming’s",
+        "label": "PERSON",
+        "start": 76,
+        "end": 95
+      },
+      {
+        "text": "Scottish",
+        "label": "NORP",
+        "start": 105,
+        "end": 113
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 255,
+        "end": 258
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 266,
+        "end": 271
+      },
+      {
+        "text": "several dozen",
+        "label": "CARDINAL",
+        "start": 299,
+        "end": 312
+      },
+      {
+        "text": "Fleming",
+        "label": "GPE",
+        "start": 616,
+        "end": 623
+      },
+      {
+        "text": "Steven Schmitt",
+        "label": "PERSON",
+        "start": 713,
+        "end": 727
+      },
+      {
+        "text": "ETH Professor",
+        "label": "ORG",
+        "start": 748,
+        "end": 761
+      },
+      {
+        "text": "Sven Panke",
+        "label": "PERSON",
+        "start": 762,
+        "end": 772
+      },
+      {
+        "text": "the Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 784,
+        "end": 836
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 840,
+        "end": 850
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 854,
+        "end": 859
+      },
+      {
+        "text": "Fleming",
+        "label": "ORG",
+        "start": 897,
+        "end": 904
+      },
+      {
+        "text": "up to a year",
+        "label": "DATE",
+        "start": 1036,
+        "end": 1048
+      },
+      {
+        "text": "around 10,000",
+        "label": "CARDINAL",
+        "start": 1057,
+        "end": 1070
+      },
+      {
+        "text": "just a few days",
+        "label": "DATE",
+        "start": 1174,
+        "end": 1189
+      },
+      {
+        "text": "Schmitt",
+        "label": "PERSON",
+        "start": 1197,
+        "end": 1204
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1265,
+        "end": 1268
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1274,
+        "end": 1277
+      },
+      {
+        "text": "Dutch",
+        "label": "NORP",
+        "start": 1304,
+        "end": 1309
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 1314,
+        "end": 1320
+      },
+      {
+        "text": "Alexander Fleming",
+        "label": "PERSON",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 62,
+        "end": 65
+      },
+      {
+        "text": "just half",
+        "label": "CARDINAL",
+        "start": 148,
+        "end": 157
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 389,
+        "end": 392
+      },
+      {
+        "text": "Nature Chemical Biology",
+        "label": "ORG",
+        "start": 79,
+        "end": 102
+      },
+      {
+        "text": "6,000",
+        "label": "CARDINAL",
+        "start": 133,
+        "end": 138
+      },
+      {
+        "text": "Dutch",
+        "label": "NORP",
+        "start": 496,
+        "end": 501
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 506,
+        "end": 512
+      },
+      {
+        "text": "Schmitt",
+        "label": "PERSON",
+        "start": 140,
+        "end": 147
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 886,
+        "end": 891
+      },
+      {
+        "text": "Schmitt",
+        "label": "PERSON",
+        "start": 1307,
+        "end": 1314
+      },
+      {
+        "text": "ETH Pioneer Fellowship",
+        "label": "ORG",
+        "start": 1381,
+        "end": 1403
+      },
+      {
+        "text": "the Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 1466,
+        "end": 1503
+      },
+      {
+        "text": "Innosuisse",
+        "label": "ORG",
+        "start": 1508,
+        "end": 1518
+      },
+      {
+        "text": "Schmitt S",
+        "label": "PERSON",
+        "start": 1674,
+        "end": 1683
+      },
+      {
+        "text": "Deng J",
+        "label": "PERSON",
+        "start": 1717,
+        "end": 1723
+      },
+      {
+        "text": "Wagner",
+        "label": "ORG",
+        "start": 1725,
+        "end": 1731
+      },
+      {
+        "text": "Nature Chemical Biology",
+        "label": "ORG",
+        "start": 1847,
+        "end": 1870
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1891,
+        "end": 1898
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alexander Fleming",
+        "Alexander Fleming’s",
+        "Deng J",
+        "Schmitt",
+        "Schmitt S",
+        "Steven Schmitt",
+        "Sven Panke"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Pioneer Fellowship",
+        "ETH Professor",
+        "Fleming",
+        "Innosuisse",
+        "Nature Chemical Biology",
+        "Wagner",
+        "the Department of Biosystems Science and Engineering",
+        "the Swiss National Science Foundation"
+      ],
+      "LOCATION": [
+        "Basel",
+        "ETH Zurich",
+        "Fleming"
+      ],
+      "DATE": [
+        "90 years ago",
+        "just a few days",
+        "up to a year"
+      ],
+      "MISC": [
+        "10.1038",
+        "6,000",
+        "Dutch",
+        "German",
+        "Method",
+        "Scottish",
+        "around 10,000",
+        "first",
+        "just half",
+        "one",
+        "several dozen",
+        "ten"
+      ]
+    },
+    "entity_counts": {
+      "Schmitt": 3,
+      "one": 2,
+      "first": 2,
+      "Fleming": 2,
+      "ETH": 2,
+      "Dutch": 2,
+      "German": 2,
+      "Nature Chemical Biology": 2,
+      "Method": 1,
+      "90 years ago": 1,
+      "Alexander Fleming’s": 1,
+      "Scottish": 1,
+      "several dozen": 1,
+      "Steven Schmitt": 1,
+      "ETH Professor": 1,
+      "Sven Panke": 1,
+      "the Department of Biosystems Science and Engineering": 1,
+      "ETH Zurich": 1,
+      "Basel": 1,
+      "up to a year": 1
+    },
+    "total_entities": 42,
+    "unique_entities": 33
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "flemings-method-in-miniature.md",
+      "title": "En News Events/2019/04/flemings Method in Miniature",
+      "language": "en",
+      "source_path": "en_news_events/2019/04/flemings-method-in-miniature.html"
+    },
+    "temporal": {
+      "publication_date": "2019-04",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alexander Fleming",
+        "Alexander Fleming’s",
+        "Deng J",
+        "Schmitt",
+        "Schmitt S",
+        "Steven Schmitt",
+        "Sven Panke"
+      ],
+      "people_with_roles": {
+        "Schmitt": [
+          "professor"
+        ],
+        "Steven Schmitt": [
+          "professor"
+        ],
+        "Sven Panke": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "6,000",
+        "Dutch",
+        "German",
+        "Method",
+        "Scottish",
+        "around 10,000",
+        "first",
+        "just half",
+        "several dozen"
+      ],
+      "grants_funding": [
+        "ERC",
+        "fellowship",
+        "grant"
+      ],
+      "projects": [
+        "Biosystems Science",
+        "Panke S",
+        "Held M",
+        "Swiss National",
+        "ETH Professor",
+        "Steven Schmitt",
+        "The ETH",
+        "Wagner R",
+        "Schmitt S",
+        "Nature Chemical",
+        "The Scottish",
+        "Science Foundation",
+        "Peterhoff D",
+        "Sven Panke",
+        "Alexander Fleming",
+        "En News",
+        "Deng J",
+        "ETH Pioneer",
+        "Kuipers OP",
+        "ETH Zurich",
+        "Miniature It"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biosystems Science and Engineering at ETH Zurich in Basel have now modernised and miniaturised Fleming"
+      ],
+      "institutions": [
+        "ETH",
+        "ETH Pioneer Fellowship",
+        "ETH Professor",
+        "Fleming",
+        "Innosuisse",
+        "Nature Chemical Biology",
+        "Wagner",
+        "the Department of Biosystems Science and Engineering",
+        "the Swiss National Science Foundation"
+      ],
+      "locations": [
+        "Basel",
+        "ETH Zurich",
+        "Fleming"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Schmitt",
+        "one",
+        "first",
+        "Fleming",
+        "ETH",
+        "Dutch",
+        "German",
+        "Nature Chemical Biology",
+        "Method",
+        "90 years ago"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "“Bubble tea” in the quest for active substances",
+          "“Bubble tea” in the quest for active substances",
+          "More effective antibiotics",
+          "Seeking substances in the natural world"
+        ],
+        "content_length": 5388
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "grant",
+        "ETH Pioneer Fellowship",
+        "Alexander Fleming’s",
+        "the Department of Biosystems Science and Engineering",
+        "ERC",
+        "Fleming",
+        "Nature Chemical Biology",
+        "Schmitt",
+        "the Swiss National Science Foundation",
+        "2019",
+        "ETH Professor",
+        "Steven Schmitt",
+        "Wagner",
+        "Schmitt S",
+        "fellowship",
+        "Innosuisse",
+        "Sven Panke",
+        "Alexander Fleming",
+        "Deng J"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "chemistry",
+        "6,000",
+        "when",
+        "just half",
+        "10.1038",
+        "biology",
+        "Method",
+        "medical_research",
+        "mathematics",
+        "who",
+        "what",
+        "how",
+        "first",
+        "German",
+        "around 10,000",
+        "several dozen",
+        "Scottish",
+        "where",
+        "Dutch"
+      ],
+      "graph_relations": [
+        "Schmitt_has_role_professor",
+        "Steven Schmitt_has_role_professor",
+        "Sven Panke_has_role_Professor",
+        "Sven Panke_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

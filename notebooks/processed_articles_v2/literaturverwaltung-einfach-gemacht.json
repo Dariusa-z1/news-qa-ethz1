@@ -1,0 +1,131 @@
+{
+  "filename": "literaturverwaltung-einfach-gemacht.md",
+  "original_filename": "literaturverwaltung-einfach-gemacht.html",
+  "source_path": "de_internal/2018/07/literaturverwaltung-einfach-gemacht.html",
+  "date": "2018-07",
+  "title": "Literaturverwaltung Einfach Gemacht",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die ETH-Bibliothek berät Sie gerne in der richtigen Wahl für Ihre Bedürfnisse. Besuchen Sie zudem einen unserer Kurse und lernen Sie, wie man Referenzen von Datenbanken in das Literaturverwaltungsprogramm importiert, die Literatur einfach organisiert und Referenzen in das eigene Paper einfügt.\n\nÜbersicht zu den verschiedenen Programmen und Kursen"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/07/literaturverwaltung",
+        "label": "LOC",
+        "start": 0,
+        "end": 39
+      },
+      {
+        "text": "Einfach Gemacht",
+        "label": "MISC",
+        "start": 40,
+        "end": 55
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 4,
+        "end": 18
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH-Bibliothek"
+      ],
+      "LOCATION": [
+        "De Internal/2018/07/literaturverwaltung"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Einfach Gemacht"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2018/07/literaturverwaltung": 1,
+      "Einfach Gemacht": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "literaturverwaltung-einfach-gemacht.md",
+      "title": "De Internal/2018/07/literaturverwaltung Einfach Gemacht",
+      "language": "de",
+      "source_path": "de_internal/2018/07/literaturverwaltung-einfach-gemacht.html"
+    },
+    "temporal": {
+      "publication_date": "2018-07",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Einfach Gemacht"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Die ETH",
+        "De Internal",
+        "Einfach Gemacht",
+        "Besuchen Sie"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek"
+      ],
+      "locations": [
+        "De Internal/2018/07/literaturverwaltung"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2018/07/literaturverwaltung",
+        "Einfach Gemacht",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 404
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH-Bibliothek"
+      ],
+      "semantic_concepts": [
+        "when",
+        "Einfach Gemacht"
+      ],
+      "graph_relations": []
+    }
+  }
+}

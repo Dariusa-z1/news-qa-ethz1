@@ -1,0 +1,235 @@
+{
+  "filename": "personalise-your-internal-newsletter.md",
+  "original_filename": "personalise-your-internal-newsletter.html",
+  "source_path": "en_internal/2024/02/personalise-your-internal-newsletter.html",
+  "date": "2024-02",
+  "title": "Personalise Your Internal Newsletter",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Your opinion",
+      "text": "- Institutional: News from the Executive Board, information on university strategy or the organisation of ETH, personnel news, information from committees such as the University Assembly or the Staff Committee\n\n- Working at ETH: Everything that concerns the workplace and is important for the individual working day.\n\n- Teaching: Topics relating to teaching and instruction at ETH.\n\n- For researchers: Information for researchers, e.g. library services, the Communication Academy programme, information on knowledge and technology transfer, SSHE courses for researchers.\n\n- Campus: What's currently going on at ETH in addition to work, e.g. regarding buildings, exhibitions, events, catering, offers for ETH members.\n\n- Community: Personal topics, exchange, opinions, discussion formats\n\n- Honours and prizes: Information on which ETH members have recently received an honour or prize.\n\n- Tips and Tricks: Latest articles from the \"Tips and Tricks\" section for everyday working life at ETH."
+    },
+    {
+      "heading": "Note on the translation",
+      "text": "This text has been translated for your convenience using a machine translation tool. Although reasonable efforts have been made to provide an accurate translation, it may not be perfect. If in doubt, please refer to the German version.\n\nShould you come upon significant translation mistakes, please send a short message to so that we can correct them. Thank you very much."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Your Internal Newsletter",
+        "label": "ORG",
+        "start": 32,
+        "end": 56
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 27,
+        "end": 46
+      },
+      {
+        "text": "the organisation of ETH",
+        "label": "ORG",
+        "start": 86,
+        "end": 109
+      },
+      {
+        "text": "the University Assembly",
+        "label": "ORG",
+        "start": 163,
+        "end": 186
+      },
+      {
+        "text": "the Staff Committee - Working",
+        "label": "ORG",
+        "start": 190,
+        "end": 219
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 375,
+        "end": 378
+      },
+      {
+        "text": "the Communication Academy",
+        "label": "ORG",
+        "start": 451,
+        "end": 476
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 607,
+        "end": 610
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 700,
+        "end": 703
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 825,
+        "end": 828
+      },
+      {
+        "text": "the \"Tips and Tricks",
+        "label": "ORG",
+        "start": 920,
+        "end": 940
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 979,
+        "end": 982
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 220,
+        "end": 226
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "Your Internal Newsletter",
+        "the \"Tips and Tricks",
+        "the Communication Academy",
+        "the Executive Board",
+        "the Staff Committee - Working",
+        "the University Assembly",
+        "the organisation of ETH"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "Your Internal Newsletter": 1,
+      "the Executive Board": 1,
+      "the organisation of ETH": 1,
+      "the University Assembly": 1,
+      "the Staff Committee - Working": 1,
+      "the Communication Academy": 1,
+      "the \"Tips and Tricks": 1,
+      "German": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "personalise-your-internal-newsletter.md",
+      "title": "En Internal/2024/02/personalise Your Internal Newsletter",
+      "language": "en",
+      "source_path": "en_internal/2024/02/personalise-your-internal-newsletter.html"
+    },
+    "temporal": {
+      "publication_date": "2024-02",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "German"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Communication Academy",
+        "Staff Committee",
+        "University Assembly",
+        "Executive Board",
+        "En Internal",
+        "Your Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Your Internal Newsletter",
+        "the \"Tips and Tricks",
+        "the Communication Academy",
+        "the Executive Board",
+        "the Staff Committee - Working",
+        "the University Assembly",
+        "the organisation of ETH"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Your Internal Newsletter",
+        "the Executive Board",
+        "the organisation of ETH",
+        "the University Assembly",
+        "the Staff Committee - Working",
+        "the Communication Academy",
+        "the \"Tips and Tricks",
+        "German"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Your opinion",
+          "Note on the translation"
+        ],
+        "content_length": 1420
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "ETH",
+        "the Staff Committee - Working",
+        "Your Internal Newsletter",
+        "the \"Tips and Tricks",
+        "the organisation of ETH",
+        "the Communication Academy",
+        "the Executive Board",
+        "the University Assembly"
+      ],
+      "semantic_concepts": [
+        "who",
+        "what",
+        "German",
+        "why",
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

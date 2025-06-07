@@ -1,0 +1,287 @@
+{
+  "filename": "new-book-published-about-the-lee-building.md",
+  "original_filename": "new-book-published-about-the-lee-building.html",
+  "source_path": "en_internal/2015/11/new-book-published-about-the-lee-building.html",
+  "date": "2015-11",
+  "title": "New Book Published About The Lee Building",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "New public pathway",
+      "text": "The new LEE Building at ETH Zurich is situated very close to the main building, forming part of the Zurich skyline and making it a prominent example of urban design. The exceptional plans by architect Fawad Kazi broke new ground from a design perspective. The newly published book, ‘ETH Zürich Building LEE’, focuses on three main aspects: urban integration, construction and fabrication of the concrete elements, and comprehensive documentation of the construction process through plans and images.\n\nEssays on various topics are supplemented by short texts that illuminate various aspects of the LEE Building. This unique book provides an in-depth picture of both the seemingly straight-forward and complex aspects of the construction of this building. This is rounded off with texts written by the architects, the builders, and the planners."
+    },
+    {
+      "heading": "New public pathway",
+      "text": "With the construction of the LEE Building, the city of Zurich now has a new footpath: Leonhardsteig. This pathway is publicly accessible and serves as a continuation of the road from Central along Auf der Maur to Clausiusstrasse, along the LEE’s northern facade."
+    },
+    {
+      "heading": "Further information",
+      "text": "Park Books, Zurich 2015, Text in German and English ISBN 978-3-906027-82-1"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Published About The Lee Building",
+        "label": "WORK_OF_ART",
+        "start": 29,
+        "end": 61
+      },
+      {
+        "text": "LEE Building",
+        "label": "PERSON",
+        "start": 8,
+        "end": 20
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 24,
+        "end": 34
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 100,
+        "end": 106
+      },
+      {
+        "text": "Fawad Kazi",
+        "label": "PERSON",
+        "start": 201,
+        "end": 211
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "PERSON",
+        "start": 283,
+        "end": 293
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 320,
+        "end": 325
+      },
+      {
+        "text": "the LEE Building",
+        "label": "FAC",
+        "start": 592,
+        "end": 608
+      },
+      {
+        "text": "the LEE Building",
+        "label": "FAC",
+        "start": 25,
+        "end": 41
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 55,
+        "end": 61
+      },
+      {
+        "text": "Auf der Maur",
+        "label": "ORG",
+        "start": 197,
+        "end": 209
+      },
+      {
+        "text": "Clausiusstrasse",
+        "label": "GPE",
+        "start": 213,
+        "end": 228
+      },
+      {
+        "text": "LEE",
+        "label": "ORG",
+        "start": 240,
+        "end": 243
+      },
+      {
+        "text": "Park Books",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 12,
+        "end": 18
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 33,
+        "end": 39
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 44,
+        "end": 51
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zürich",
+        "Fawad Kazi",
+        "LEE Building"
+      ],
+      "ORG": [
+        "Auf der Maur",
+        "ETH Zurich",
+        "LEE",
+        "Park Books"
+      ],
+      "LOCATION": [
+        "Clausiusstrasse",
+        "Zurich",
+        "the LEE Building"
+      ],
+      "DATE": [],
+      "MISC": [
+        "English",
+        "German",
+        "Published About The Lee Building",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Zurich": 3,
+      "the LEE Building": 2,
+      "Published About The Lee Building": 1,
+      "LEE Building": 1,
+      "ETH Zurich": 1,
+      "Fawad Kazi": 1,
+      "ETH Zürich": 1,
+      "three": 1,
+      "Auf der Maur": 1,
+      "Clausiusstrasse": 1,
+      "LEE": 1,
+      "Park Books": 1,
+      "German": 1,
+      "English": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-book-published-about-the-lee-building.md",
+      "title": "En Internal/2015/11/new Book Published About The Lee Building",
+      "language": "en",
+      "source_path": "en_internal/2015/11/new-book-published-about-the-lee-building.html"
+    },
+    "temporal": {
+      "publication_date": "2015-11",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zürich",
+        "Fawad Kazi",
+        "LEE Building"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "English",
+        "German",
+        "Published About The Lee Building",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "English ISBN",
+        "Fawad Kazi",
+        "LEE Building",
+        "About The",
+        "En Internal",
+        "Book Published",
+        "ETH Zurich",
+        "Lee Building",
+        "Building LEE",
+        "Park Books"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Auf der Maur",
+        "ETH Zurich",
+        "LEE",
+        "Park Books"
+      ],
+      "locations": [
+        "Clausiusstrasse",
+        "Zurich",
+        "the LEE Building"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "how"
+      ],
+      "key_concepts": [
+        "Zurich",
+        "the LEE Building",
+        "Published About The Lee Building",
+        "LEE Building",
+        "ETH Zurich",
+        "Fawad Kazi",
+        "ETH Zürich",
+        "three",
+        "Auf der Maur",
+        "Clausiusstrasse"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "New public pathway",
+          "New public pathway",
+          "Further information"
+        ],
+        "content_length": 1243
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "Auf der Maur",
+        "LEE Building",
+        "ETH Zürich",
+        "LEE",
+        "ETH Zurich",
+        "Fawad Kazi",
+        "Park Books"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "Published About The Lee Building",
+        "English",
+        "how",
+        "German",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

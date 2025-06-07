@@ -1,0 +1,123 @@
+{
+  "filename": "publica-senkt-per-1-januar-2015-den-technischen-zinssatz.md",
+  "original_filename": "publica-senkt-per-1-januar-2015-den-technischen-zinssatz.html",
+  "source_path": "de_internal/2013/10/publica-senkt-per-1-januar-2015-den-technischen-zinssatz.html",
+  "date": "2013-10",
+  "title": "Publica Senkt Per 1 Januar 2015 Den Technischen Zinssatz",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Durch die Äufnung von Rückstellungen und durch weitere flankierende Massnahmen soll das aktuelle Vorsorgeniveau möglichst beibehalten werden. Bitte beachten Sie die Rubrik «Technischer Zinssatz 2015» auf externe Seite www.publica.ch . Dort finden Sie auch Antworten auf die aus heutiger Sicht zentralen Fragen und die wichtigsten Termine bis 2015."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2013/10/publica",
+        "label": "LOC",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "Technischen Zinssatz",
+        "label": "LOC",
+        "start": 56,
+        "end": 76
+      },
+      {
+        "text": "Rückstellungen",
+        "label": "LOC",
+        "start": 22,
+        "end": 36
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2013/10/publica",
+        "Rückstellungen",
+        "Technischen Zinssatz"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2013/10/publica": 1,
+      "Technischen Zinssatz": 1,
+      "Rückstellungen": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "publica-senkt-per-1-januar-2015-den-technischen-zinssatz.md",
+      "title": "De Internal/2013/10/publica Senkt Per 1 Januar 2015 den Technischen Zinssatz",
+      "language": "de",
+      "source_path": "de_internal/2013/10/publica-senkt-per-1-januar-2015-den-technischen-zinssatz.html"
+    },
+    "temporal": {
+      "publication_date": "2013-10",
+      "mentioned_years": [
+        "2013",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Technischen Zinssatz",
+        "De Internal",
+        "Senkt Per",
+        "Technischer Zinssatz"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2013/10/publica",
+        "Rückstellungen",
+        "Technischen Zinssatz"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2013/10/publica",
+        "Technischen Zinssatz",
+        "Rückstellungen"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 424
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2013",
+        "EU",
+        "2015"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

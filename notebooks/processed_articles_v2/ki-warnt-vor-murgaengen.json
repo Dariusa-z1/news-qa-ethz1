@@ -1,0 +1,863 @@
+{
+  "filename": "ki-warnt-vor-murgaengen.md",
+  "original_filename": "ki-warnt-vor-murgaengen.html",
+  "source_path": "de_news_events/2021/03/ki-warnt-vor-murgaengen.html",
+  "date": "2021-03",
+  "title": "Ki Warnt Vor Murgaengen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Messungen am Murgang-Testgelände Illgraben",
+      "text": "Murgänge sind Gemenge aus Geröll, Erde und Wasser. Oft entstehen sie bei Starkregen in steilem alpinen Gelände und donnern unkontrolliert durch Schluchten und Bergbäche ins Tal. Allein in der Schweiz gibt es mehrere hundert Ereignisse pro Jahr. Der Klimawandel begünstigt das Naturphänomen, weil Permafrostböden zusehends instabil werden und Extremwetterereignisse zunehmen. Sind Murgänge besonders gross oder treten sie an unerwarteten Orten auf, entfalten sie ein erhebliches Zerstörungspotenzial, das Menschen, Infrastruktur und Umwelt bedroht.\n\nUm die Gefahr in exponierten Gebieten zu mindern, spielen Warnsysteme eine wichtige Rolle. Entscheidend ist, die nahenden Schlamm- und Geröllmassen möglichst früh und zuverlässig zu erkennen. Heute basieren Alarmsysteme auf Instrumenten, die typischerweise in zugänglichen, tiefergelegenen Talabschnitten installiert werden müssen. So registrieren sie Ereignisse erst relativ spät – ein weitverbreitetes Problem bei der Murgangdetektion.\n\nForschende der ETH Zürich und der WSL haben nun einen neuartigen Detektor entwickelt, der Murgänge bereits früher erkennen kann. Er identifiziert schon kleinste Erschütterungen aus sicherer Distanz, die Murgänge kurz nach ihrer Auslösung verursachen. Ihren neuartigen Ansatz stellten die Wissenschaftlerinnen und Wissenschaftler um Fabian Walter, ETH-Professor für Gletscherseismologie, in der Fachzeitschrift externe Seite Geophysical Research Letters vor."
+    },
+    {
+      "heading": "Knackpunkt: Automatische Erkennung",
+      "text": "Das obere Einzugsgebiet des Illgrabens. (Bild: Werkstattgespräche / ETH Zürich)\n\nFür ihre Studie wählten die Forschenden den Illgraben im Kanton Wallis. An den steilen Hängen des oberen Einzugsgebietes des Gerinnes bricht häufig Fels- und Erdmaterial ab – es entstehen mitunter gewaltige Geröll- und Schlammlawinen, die sich über zwei bis drei Kilometer durch die tief eingeschnittene Schlucht des Illgrabens wälzen. Anschliessend erreichen sie das Haupttal und legen noch einmal diese Distanz zurück, bevor sie in die Rhone münden. Die WSL betreibt am Illgraben seit gut 20 Jahren ein Observatorium mit Messstationen, um die Bildung und Bewegung von Murgängen zu studieren und ihre Masse, Dichte und Geschwindigkeit zu bestimmen.\n\nIn den 1960er Jahren wurde das untere Gerinne des Illgrabens saniert und mit mehreren Talsperren gesichert, so dass die meisten Niedergänge im Gerinne verbleiben und umliegendes Gelände, etwa die Mündung des Illgrabens in die Rhone, nicht gefährden. Da verschiedene Wanderwege nahe am Graben und durch das Gerinne verlaufen, alarmiert seit 2007 ein Frühwarnsystem vor Murgängen.\n\nDieses System basiert auf Sensoren im Bachbett, darunter Geophone, Radar- und Lasermessgeräte sowie Videokameras. Die Instrumente erfassen vorbeiziehende Murgänge zwar zuverlässig, sind aber nur im unteren Abschnittt des Tals einsetzbar, wo der Wildbach zugänglich ist. Das begrenzt die Warnzeit auf wenige Minuten."
+    },
+    {
+      "heading": "Murgänge mit seismischen Sensoren erfassen",
+      "text": "An diesem Schwachpunkt setzt die neue Studie an. «Wir wollen Steinschläge und Murgänge so früh wie möglich detektieren, um die Bevölkerung in Risikogebieten mit genügend Vorlaufzeit zu warnen», erklärt Małgorzata Chmiel, Erstautorin des Papers und Postdoktorandin in Walters Forschungsgruppe an der Versuchsanstalt für Wasserbau, Hydrologie und Glaziologie (VAW) der ETH Zürich. Statt Murgänge mit üblichen Instrumenten zu überwachen, verwenden Walter und sein Team seismische Sensoren, die normalerweise bei der Messung von Erdbeben eingesetzt werden.\n\nMit Seismometern lassen sich auch Erschütterungen von Murgängen aufzeichen. Diese können je nach Ereignisgrösse sogar mehrere Kilometer entfernt sein. «Somit sind Murgänge bereits potenziell detektierbar, wenn sie sich noch in höher gelegenen und unzugänglichen Gebieten befinden», erklärt Walter den Vorteil des neuartigen Überwachungssystems. Zu diesem Zweck installierten die Forschenden ein Netzwerk von Seismometern rund um das Einzugsgebiet des Illgrabens."
+    },
+    {
+      "heading": "Knackpunkt: Automatische Erkennung",
+      "text": "Die eigentliche Herausforderung lag jedoch darin, einen Detektor zu schaffen, der in einem kontinuierlichen Strom seismischer Daten spezifisch die Erschütterungen eines Murgangs von anderen Bodenvibrationen unterscheiden kann. Denn auch Kuhherden, entfernte Baustellen oder der Bahn- und Strassenverkehr lassen die Erde zittern.\n\nWalters Team setzte auf maschinelles Lernen – eine Methode der Künstlichen Intelligenz, bei der ein Rechner selbständig anhand von Trainingsdaten lernt, wie er Muster in grossen Datensätzen erkennen kann. Die Forschenden trainierten den Lernalgorithmus mit Signalen früherer Massenbewegungen, die sie zuvor am Illgraben aufgezeichnet hattten, insgesamt 22 Ereignisse. Danach testeten sie ihr System unter realen Bedingungen mit seismischen Monitoringdaten in Echtzeit."
+    },
+    {
+      "heading": "Werkstattgespräch mit Fabian Walter",
+      "text": "Der untere Abschnitt des Illgrabens führt ins Rhonetal. (Bild: Werkstattgespräche / ETH Zürich)\n\nDas Resultat: Von den 13 Murgängen und kleineren Flutereignissen, die sich im Sommer 2020 am Illgraben ereigneten, erkannte der KI-​Detektor jedes einzelne zuverlässig – ohne Fehlalarme zu generieren. «Dabei erfasste der Algorithmus bereits die ersten Erschütterungen weit oben entstehender Murgänge», betont Walter. Am Illgraben erhöhte dies die Warnzeiten um mindestens 20 Minuten im Vergleich zu bestehenden Detektionssystemen. «Das ist eine enorme Verbesserung», weiss Walter."
+    },
+    {
+      "heading": "Generalist oder Spezialist?",
+      "text": "Mit ihrer Studie lieferten die Wissenschaftler den Nachweis, dass sich Murgänge mit seismischen Daten und maschinellem Lernen frühzeitig erkennen lassen. Der Illgraben bietet dazu ein ideales Naturlabor, und der Ansatz funktioniert dort gut. Allerdings benötigt die Methode einen umfangreichen Satz von Murgangssignalen, um den Algorithmus zu trainieren. «Solche Trainingsdaten sind woanders fast nie verfügbar», räumt der Spezialist für seismische Massenbewegungen ein.\n\nNoch ist unklar, inwiefern der am Illgraben trainierte Detektor generell auch Murgänge in anderen Einzugsgebieten erkennen kann. Die Forschenden wollen den Algorithmus künftig so erweitern, dass er auch mit weniger oder vielleicht sogar ohne ortsspezifische Trainingsdaten auskommt.\n\nDie Ambitionen der Forschenden gehen aber noch weiter. Der neuartige Detektor ist ein erster Meilenstein in einem übergeordneten Projekt der WSL und Swisscom Broadcast. Die Forschungskooperation, an der auch Walters Gruppe massgeblich beteiligt ist, will das Monitoring von Massenbewegungen im Alpenraum verbessern. Swisscom Broadcast entwickelt dazu eine Plattform, die Datenströme aus unterschiedlichen Quellen zusammenführt und in Echtzeit auswertet, um Naturgefahren frühzeitig zu erkennen.\n\nDerzeit wird die Naturgefahren-Plattform in erster Linie von Fabian Walters seismischen Sensoren sowie von Seismografen des Schweizerischen Erdbebendienstes gespiesen. Die Forschenden arbeiten daran, in Zukunft weitere relevante Datenquellen einzubinden – von Niederschlagswerten und Permafrostmessungen über seismisches Monitoring anhand von Glasfaserkabeln bis hin zu einer Vielzahl von Internet-of-Things-Sensoren. «Um solche riesigen Datenmengen zu verarbeiten, braucht es Big-Data-Verfahren und intelligente Algortihmen», sagt Walter. Der KI-Detektor für Murgänge ist ein erster Schritt in diese Richtung.\n\nFabian Walter hält seit 2015 eine vom Schweizer Nationalfonds (SNF) unterstützte Assisstenzprofessur für Gletscherseismologie an der ETH Zürich ein. Die vorliegende Studie wurde durch den Kanton Wallis, die WSL, den SNF, den Schweizerischen Erdbebendienst und die Swisscom Broadcast unterstützt.\n\nChmiel M, Walter F, Wenner M, Zhang Z, McArdell BW, Hibert C: externe Seite Machine Learning Improves Debris Flow Warning . Geophysical Research Letters (2021), doi: externe Seite 10.1029/2020GL090874"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Murgänge",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Geröll",
+        "label": "LOC",
+        "start": 26,
+        "end": 32
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 34,
+        "end": 38
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 192,
+        "end": 199
+      },
+      {
+        "text": "Murgänge",
+        "label": "LOC",
+        "start": 380,
+        "end": 388
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1001,
+        "end": 1011
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 1020,
+        "end": 1023
+      },
+      {
+        "text": "Wissenschaftlerinnen",
+        "label": "LOC",
+        "start": 1274,
+        "end": 1294
+      },
+      {
+        "text": "Fabian Walter",
+        "label": "PER",
+        "start": 1318,
+        "end": 1331
+      },
+      {
+        "text": "ETH-Professor für Gletscherseismologie",
+        "label": "MISC",
+        "start": 1333,
+        "end": 1371
+      },
+      {
+        "text": "Geophysical Research Letters",
+        "label": "PER",
+        "start": 1410,
+        "end": 1438
+      },
+      {
+        "text": "Illgrabens",
+        "label": "LOC",
+        "start": 28,
+        "end": 38
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 68,
+        "end": 78
+      },
+      {
+        "text": "Illgraben",
+        "label": "LOC",
+        "start": 124,
+        "end": 133
+      },
+      {
+        "text": "Kanton Wallis",
+        "label": "LOC",
+        "start": 137,
+        "end": 150
+      },
+      {
+        "text": "Gerinnes",
+        "label": "PER",
+        "start": 205,
+        "end": 213
+      },
+      {
+        "text": "Haupttal",
+        "label": "LOC",
+        "start": 448,
+        "end": 456
+      },
+      {
+        "text": "Rhone",
+        "label": "LOC",
+        "start": 518,
+        "end": 523
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 536,
+        "end": 539
+      },
+      {
+        "text": "Illgraben",
+        "label": "LOC",
+        "start": 552,
+        "end": 561
+      },
+      {
+        "text": "Gerinne",
+        "label": "LOC",
+        "start": 873,
+        "end": 880
+      },
+      {
+        "text": "Illgrabens",
+        "label": "LOC",
+        "start": 938,
+        "end": 948
+      },
+      {
+        "text": "Rhone",
+        "label": "LOC",
+        "start": 956,
+        "end": 961
+      },
+      {
+        "text": "Graben",
+        "label": "LOC",
+        "start": 1015,
+        "end": 1021
+      },
+      {
+        "text": "Wildbach",
+        "label": "LOC",
+        "start": 1354,
+        "end": 1362
+      },
+      {
+        "text": "Risikogebieten",
+        "label": "LOC",
+        "start": 142,
+        "end": 156
+      },
+      {
+        "text": "Małgorzata Chmiel",
+        "label": "PER",
+        "start": 202,
+        "end": 219
+      },
+      {
+        "text": "Papers",
+        "label": "PER",
+        "start": 237,
+        "end": 243
+      },
+      {
+        "text": "Postdoktorandin",
+        "label": "MISC",
+        "start": 248,
+        "end": 263
+      },
+      {
+        "text": "Walters Forschungsgruppe",
+        "label": "MISC",
+        "start": 267,
+        "end": 291
+      },
+      {
+        "text": "Versuchsanstalt für Wasserbau, Hydrologie und Glaziologie",
+        "label": "ORG",
+        "start": 299,
+        "end": 356
+      },
+      {
+        "text": "VAW",
+        "label": "MISC",
+        "start": 358,
+        "end": 361
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 367,
+        "end": 377
+      },
+      {
+        "text": "seismische",
+        "label": "MISC",
+        "start": 466,
+        "end": 476
+      },
+      {
+        "text": "Murgängen",
+        "label": "LOC",
+        "start": 607,
+        "end": 616
+      },
+      {
+        "text": "Walter",
+        "label": "PER",
+        "start": 843,
+        "end": 849
+      },
+      {
+        "text": "Illgrabens",
+        "label": "LOC",
+        "start": 1004,
+        "end": 1014
+      },
+      {
+        "text": "Kuhherden",
+        "label": "LOC",
+        "start": 237,
+        "end": 246
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 315,
+        "end": 319
+      },
+      {
+        "text": "Walters Team",
+        "label": "PER",
+        "start": 329,
+        "end": 341
+      },
+      {
+        "text": "Trainingsdaten",
+        "label": "PER",
+        "start": 460,
+        "end": 474
+      },
+      {
+        "text": "Illgraben",
+        "label": "LOC",
+        "start": 639,
+        "end": 648
+      },
+      {
+        "text": "Illgrabens",
+        "label": "LOC",
+        "start": 25,
+        "end": 35
+      },
+      {
+        "text": "Rhonetal",
+        "label": "LOC",
+        "start": 46,
+        "end": 54
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 84,
+        "end": 94
+      },
+      {
+        "text": "Illgraben",
+        "label": "LOC",
+        "start": 189,
+        "end": 198
+      },
+      {
+        "text": "Walter",
+        "label": "PER",
+        "start": 405,
+        "end": 411
+      },
+      {
+        "text": "Illgraben",
+        "label": "LOC",
+        "start": 416,
+        "end": 425
+      },
+      {
+        "text": "Walter",
+        "label": "PER",
+        "start": 569,
+        "end": 575
+      },
+      {
+        "text": "Murgänge",
+        "label": "PER",
+        "start": 71,
+        "end": 79
+      },
+      {
+        "text": "Illgraben",
+        "label": "LOC",
+        "start": 158,
+        "end": 167
+      },
+      {
+        "text": "seismische",
+        "label": "MISC",
+        "start": 438,
+        "end": 448
+      },
+      {
+        "text": "Illgraben",
+        "label": "LOC",
+        "start": 505,
+        "end": 514
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 895,
+        "end": 898
+      },
+      {
+        "text": "Swisscom Broadcast",
+        "label": "ORG",
+        "start": 903,
+        "end": 921
+      },
+      {
+        "text": "Walters Gruppe",
+        "label": "PER",
+        "start": 962,
+        "end": 976
+      },
+      {
+        "text": "Alpenraum",
+        "label": "LOC",
+        "start": 1048,
+        "end": 1057
+      },
+      {
+        "text": "Datenströme",
+        "label": "LOC",
+        "start": 1125,
+        "end": 1136
+      },
+      {
+        "text": "Fabian Walters",
+        "label": "PER",
+        "start": 1310,
+        "end": 1324
+      },
+      {
+        "text": "Schweizerischen Erdbebendienstes",
+        "label": "ORG",
+        "start": 1373,
+        "end": 1405
+      },
+      {
+        "text": "Glasfaserkabeln",
+        "label": "LOC",
+        "start": 1592,
+        "end": 1607
+      },
+      {
+        "text": "Datenmengen",
+        "label": "LOC",
+        "start": 1687,
+        "end": 1698
+      },
+      {
+        "text": "Walter",
+        "label": "PER",
+        "start": 1781,
+        "end": 1787
+      },
+      {
+        "text": "KI-Detektor",
+        "label": "LOC",
+        "start": 1793,
+        "end": 1804
+      },
+      {
+        "text": "Murgänge",
+        "label": "LOC",
+        "start": 1809,
+        "end": 1817
+      },
+      {
+        "text": "Fabian Walter",
+        "label": "PER",
+        "start": 1860,
+        "end": 1873
+      },
+      {
+        "text": "Schweizer Nationalfonds",
+        "label": "ORG",
+        "start": 1898,
+        "end": 1921
+      },
+      {
+        "text": "SNF",
+        "label": "ORG",
+        "start": 1923,
+        "end": 1926
+      },
+      {
+        "text": "Assisstenzprofessur",
+        "label": "PER",
+        "start": 1941,
+        "end": 1960
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1993,
+        "end": 2003
+      },
+      {
+        "text": "Kanton Wallis",
+        "label": "LOC",
+        "start": 2048,
+        "end": 2061
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 2067,
+        "end": 2070
+      },
+      {
+        "text": "SNF",
+        "label": "ORG",
+        "start": 2076,
+        "end": 2079
+      },
+      {
+        "text": "Schweizerischen Erdbebendienst",
+        "label": "ORG",
+        "start": 2085,
+        "end": 2115
+      },
+      {
+        "text": "Swisscom Broadcast",
+        "label": "ORG",
+        "start": 2124,
+        "end": 2142
+      },
+      {
+        "text": "Chmiel M",
+        "label": "PER",
+        "start": 2156,
+        "end": 2164
+      },
+      {
+        "text": "Walter F",
+        "label": "PER",
+        "start": 2166,
+        "end": 2174
+      },
+      {
+        "text": "Wenner M",
+        "label": "LOC",
+        "start": 2176,
+        "end": 2184
+      },
+      {
+        "text": "Zhang Z",
+        "label": "PER",
+        "start": 2186,
+        "end": 2193
+      },
+      {
+        "text": "McArdell BW",
+        "label": "PER",
+        "start": 2195,
+        "end": 2206
+      },
+      {
+        "text": "Hibert C",
+        "label": "MISC",
+        "start": 2208,
+        "end": 2216
+      },
+      {
+        "text": "Machine Learning",
+        "label": "PER",
+        "start": 2232,
+        "end": 2248
+      },
+      {
+        "text": "Geophysical Research Letters",
+        "label": "ORG",
+        "start": 2280,
+        "end": 2308
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Assisstenzprofessur",
+        "Chmiel M",
+        "Fabian Walter",
+        "Fabian Walters",
+        "Geophysical Research Letters",
+        "Gerinnes",
+        "Machine Learning",
+        "Małgorzata Chmiel",
+        "McArdell BW",
+        "Murgänge",
+        "Papers",
+        "Trainingsdaten",
+        "Walter",
+        "Walter F",
+        "Walters Gruppe",
+        "Walters Team",
+        "Zhang Z"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Geophysical Research Letters",
+        "SNF",
+        "Schweizer Nationalfonds",
+        "Schweizerischen Erdbebendienst",
+        "Schweizerischen Erdbebendienstes",
+        "Swisscom Broadcast",
+        "Versuchsanstalt für Wasserbau, Hydrologie und Glaziologie",
+        "WSL"
+      ],
+      "LOCATION": [
+        "Alpenraum",
+        "Datenmengen",
+        "Datenströme",
+        "Erde",
+        "Gerinne",
+        "Geröll",
+        "Glasfaserkabeln",
+        "Graben",
+        "Haupttal",
+        "Illgraben",
+        "Illgrabens",
+        "KI-Detektor",
+        "Kanton Wallis",
+        "Kuhherden",
+        "Murgänge",
+        "Murgängen",
+        "Rhone",
+        "Rhonetal",
+        "Risikogebieten",
+        "Schweiz",
+        "Wenner M",
+        "Wildbach",
+        "Wissenschaftlerinnen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Professor für Gletscherseismologie",
+        "Hibert C",
+        "Postdoktorandin",
+        "VAW",
+        "Walters Forschungsgruppe",
+        "seismische"
+      ]
+    },
+    "entity_counts": {
+      "Illgraben": 7,
+      "ETH Zürich": 5,
+      "Murgänge": 4,
+      "WSL": 4,
+      "Illgrabens": 4,
+      "Walter": 4,
+      "Erde": 2,
+      "Fabian Walter": 2,
+      "Geophysical Research Letters": 2,
+      "Kanton Wallis": 2,
+      "Rhone": 2,
+      "seismische": 2,
+      "Swisscom Broadcast": 2,
+      "SNF": 2,
+      "Geröll": 1,
+      "Schweiz": 1,
+      "Wissenschaftlerinnen": 1,
+      "ETH-Professor für Gletscherseismologie": 1,
+      "Gerinnes": 1,
+      "Haupttal": 1
+    },
+    "total_entities": 83,
+    "unique_entities": 53
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ki-warnt-vor-murgaengen.md",
+      "title": "De News Events/2021/03/ki Warnt Vor Murgaengen",
+      "language": "de",
+      "source_path": "de_news_events/2021/03/ki-warnt-vor-murgaengen.html"
+    },
+    "temporal": {
+      "publication_date": "2021-03",
+      "mentioned_years": [
+        "2007",
+        "2015",
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Assisstenzprofessur",
+        "Chmiel M",
+        "Fabian Walter",
+        "Fabian Walters",
+        "Geophysical Research Letters",
+        "Gerinnes",
+        "Machine Learning",
+        "Małgorzata Chmiel",
+        "McArdell BW",
+        "Murgänge",
+        "Papers",
+        "Trainingsdaten",
+        "Walter",
+        "Walter F",
+        "Walters Gruppe",
+        "Walters Team",
+        "Zhang Z"
+      ],
+      "people_with_roles": {
+        "Fabian Walter": [
+          "professor"
+        ],
+        "Geophysical Research Letters": [
+          "professor"
+        ],
+        "Walter": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Professor für Gletscherseismologie",
+        "Hibert C",
+        "Postdoktorandin",
+        "Walters Forschungsgruppe",
+        "seismische"
+      ],
+      "grants_funding": [
+        "SNF",
+        "EU"
+      ],
+      "projects": [
+        "Geophysical Research",
+        "Learning Improves",
+        "Die Forschenden",
+        "Walters Team",
+        "Die Instrumente",
+        "Schweizer Nationalfonds",
+        "Der KI",
+        "Schweizerischen Erdbebendienst",
+        "Seite Geophysical",
+        "ETH-Professor",
+        "Die Forschungskooperation",
+        "Am Illgraben",
+        "Die Ambitionen",
+        "Swisscom Broadcast",
+        "Walters Forschungsgruppe",
+        "Dieses System",
+        "Mit Seismometern",
+        "Walter F",
+        "Solche Trainingsdaten",
+        "Chmiel M",
+        "Seite Machine",
+        "Naturgefahren-Plattform",
+        "McArdell BW",
+        "Fabian Walter",
+        "Kanton Wallis",
+        "Walters Gruppe",
+        "Warnt Vor",
+        "Die WSL",
+        "Things-Sensoren",
+        "Big-Data",
+        "Zhang Z",
+        "Fabian Walters",
+        "Wenner M",
+        "Hibert C",
+        "Das Resultat",
+        "De News",
+        "Schweizerischen Erdbebendienstes",
+        "Debris Flow",
+        "Der Klimawandel",
+        "Der Illgraben",
+        "Research Letters"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Geophysical Research Letters",
+        "SNF",
+        "Schweizer Nationalfonds",
+        "Schweizerischen Erdbebendienst",
+        "Schweizerischen Erdbebendienstes",
+        "Swisscom Broadcast",
+        "Versuchsanstalt für Wasserbau, Hydrologie und Glaziologie",
+        "WSL"
+      ],
+      "locations": [
+        "Alpenraum",
+        "Datenmengen",
+        "Datenströme",
+        "Erde",
+        "Gerinne",
+        "Geröll",
+        "Glasfaserkabeln",
+        "Graben",
+        "Haupttal",
+        "Illgraben",
+        "Illgrabens",
+        "KI-Detektor",
+        "Kanton Wallis",
+        "Kuhherden",
+        "Murgänge",
+        "Murgängen",
+        "Rhone",
+        "Rhonetal",
+        "Risikogebieten",
+        "Schweiz",
+        "Wenner M",
+        "Wildbach",
+        "Wissenschaftlerinnen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Illgraben",
+        "ETH Zürich",
+        "Murgänge",
+        "WSL",
+        "Illgrabens",
+        "Walter",
+        "Erde",
+        "Fabian Walter",
+        "Geophysical Research Letters",
+        "Kanton Wallis"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Messungen am Murgang-Testgelände Illgraben",
+          "Knackpunkt: Automatische Erkennung",
+          "Murgänge mit seismischen Sensoren erfassen",
+          "Knackpunkt: Automatische Erkennung",
+          "Werkstattgespräch mit Fabian Walter",
+          "Generalist oder Spezialist?"
+        ],
+        "content_length": 7676
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Geophysical Research Letters",
+        "Versuchsanstalt für Wasserbau, Hydrologie und Glaziologie",
+        "Walters Team",
+        "SNF",
+        "2020",
+        "Schweizer Nationalfonds",
+        "Schweizerischen Erdbebendienst",
+        "Swisscom Broadcast",
+        "2007",
+        "Walter F",
+        "Machine Learning",
+        "ETH Zürich",
+        "Gerinnes",
+        "Chmiel M",
+        "WSL",
+        "2015",
+        "EU",
+        "McArdell BW",
+        "Fabian Walter",
+        "Walters Gruppe",
+        "Trainingsdaten",
+        "Zhang Z",
+        "Assisstenzprofessur",
+        "Małgorzata Chmiel",
+        "Fabian Walters",
+        "Murgänge",
+        "Papers",
+        "Schweizerischen Erdbebendienstes",
+        "Walter",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Professor für Gletscherseismologie",
+        "Walters Forschungsgruppe",
+        "who",
+        "Hibert C",
+        "Postdoktorandin",
+        "what",
+        "how",
+        "when",
+        "seismische"
+      ],
+      "graph_relations": [
+        "Fabian Walter_has_role_professor",
+        "Geophysical Research Letters_has_role_professor",
+        "Walter_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

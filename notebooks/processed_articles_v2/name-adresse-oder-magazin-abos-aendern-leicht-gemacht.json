@@ -1,0 +1,273 @@
+{
+  "filename": "name-adresse-oder-magazin-abos-aendern-leicht-gemacht.md",
+  "original_filename": "name-adresse-oder-magazin-abos-aendern-leicht-gemacht.html",
+  "source_path": "en_internal/2022/07/name-adresse-oder-magazin-abos-aendern-leicht-gemacht.html",
+  "date": "2022-07",
+  "title": "Name Adresse Oder Magazin Abos Aendern Leicht Gemacht",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Change your subscription settings",
+      "text": "- Language: English\n\n- Check the “email” box\n\n- Select “no delivery by post”\n\n- Don’t forget to save your settings!\n\nSimply visit www.adressen.ethz.ch and enter your login information. After that it’s incredibly easy to make changes:\n\nUnder “Deliveries” you’ll find an overview of ETH publications that you can subscribe to: life magazine for employees and the Polykum magazine for students.\n\nFor instance, if you’d like to receive life as an English PDF via email rather than getting the German print edition in your mailbox, you can change your settings as follows:"
+    },
+    {
+      "heading": "Change your address",
+      "text": "It’s also possible to switch to an email subscription for Polykum . If you’d still prefer to do your reading on paper rather than on a screen, you can also choose which address you’d like to have the magazine sent to."
+    },
+    {
+      "heading": "Change your address",
+      "text": "Of course, this requires your address to be up to date. You can check this under the “Addresses” tab and make any changes to your home and office address if needed."
+    },
+    {
+      "heading": "Update your directory entry",
+      "text": "The ETH people search lists all currently registered teaching staff, students and employees at the university. If you’d like to display your CV, information about your area of research or a list of your professional honours and memberships, you can enter this information by going to the “CV and additional data” tab."
+    },
+    {
+      "heading": "Change other personal information",
+      "text": "You can make changes to other personal data like your name, marital status and citizenship via ETHIS ( > Personal > Personal Data). Some data you won’t be able to change yourself. In these instances, you can use the email function in ETHIS to get in touch with your contact person at HR."
+    },
+    {
+      "heading": "More Tips and Tricks",
+      "text": "Read all the articles from \"Tips and Tricks\" that have appeared on Internal news so far."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Adresse",
+        "label": "ORG",
+        "start": 25,
+        "end": 32
+      },
+      {
+        "text": "Magazin Abos Aendern",
+        "label": "ORG",
+        "start": 38,
+        "end": 58
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 12,
+        "end": 19
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 276,
+        "end": 279
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 437,
+        "end": 444
+      },
+      {
+        "text": "PDF",
+        "label": "ORG",
+        "start": 445,
+        "end": 448
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 483,
+        "end": 489
+      },
+      {
+        "text": "Polykum",
+        "label": "GPE",
+        "start": 58,
+        "end": 65
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "CV",
+        "label": "GPE",
+        "start": 141,
+        "end": 143
+      },
+      {
+        "text": "CV",
+        "label": "WORK_OF_ART",
+        "start": 289,
+        "end": 291
+      },
+      {
+        "text": "ETHIS",
+        "label": "ORG",
+        "start": 234,
+        "end": 239
+      },
+      {
+        "text": "Tips and Tricks",
+        "label": "WORK_OF_ART",
+        "start": 28,
+        "end": 43
+      },
+      {
+        "text": "Internal news so far",
+        "label": "ORG",
+        "start": 67,
+        "end": 87
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Adresse",
+        "ETH",
+        "ETHIS",
+        "Internal news so far",
+        "Magazin Abos Aendern",
+        "PDF"
+      ],
+      "LOCATION": [
+        "CV",
+        "Polykum"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CV",
+        "English",
+        "German",
+        "Tips and Tricks"
+      ]
+    },
+    "entity_counts": {
+      "English": 2,
+      "ETH": 2,
+      "CV": 2,
+      "Adresse": 1,
+      "Magazin Abos Aendern": 1,
+      "PDF": 1,
+      "German": 1,
+      "Polykum": 1,
+      "ETHIS": 1,
+      "Tips and Tricks": 1,
+      "Internal news so far": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "name-adresse-oder-magazin-abos-aendern-leicht-gemacht.md",
+      "title": "En Internal/2022/07/name Adresse oder Magazin Abos Aendern Leicht Gemacht",
+      "language": "en",
+      "source_path": "en_internal/2022/07/name-adresse-oder-magazin-abos-aendern-leicht-gemacht.html"
+    },
+    "temporal": {
+      "publication_date": "2022-07",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "English",
+        "German",
+        "Tips and Tricks"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Personal Data",
+        "En Internal",
+        "English PDF",
+        "Magazin Abos",
+        "Aendern Leicht",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Adresse",
+        "ETH",
+        "ETHIS",
+        "Internal news so far",
+        "Magazin Abos Aendern",
+        "PDF"
+      ],
+      "locations": [
+        "CV",
+        "Polykum"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "English",
+        "ETH",
+        "CV",
+        "Adresse",
+        "Magazin Abos Aendern",
+        "PDF",
+        "German",
+        "Polykum",
+        "ETHIS",
+        "Tips and Tricks"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Change your subscription settings",
+          "Change your address",
+          "Change your address",
+          "Update your directory entry",
+          "Change other personal information",
+          "More Tips and Tricks"
+        ],
+        "content_length": 1719
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Magazin Abos Aendern",
+        "Internal news so far",
+        "PDF",
+        "2022",
+        "Adresse",
+        "ETHIS"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "English",
+        "what",
+        "German",
+        "Tips and Tricks",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

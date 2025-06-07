@@ -1,0 +1,416 @@
+{
+  "filename": "handling-business-private-emails.md",
+  "original_filename": "handling-business-private-emails.html",
+  "source_path": "en_internal/2022/09/handling-business-private-emails.html",
+  "date": "2022-09",
+  "title": "Handling Business Private Emails",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Changes to email archiving",
+      "text": "- find the right records in the file system quickly and reliably\n\n- provide support to new staff members and deputy personnel\n\n- make business processes more transparent\n\n- identify relevant documents and mark them for permanent archiving\n\n- promote cooperation within and across ETH departments\n\n- comply with legal requirements\n\n- The University Archives will be happy to help you with any queries you may have on the subject of records management – as well as provide you with personal advice.\n\n- Information on storing research data (research data management) is provided by the Research Data Management of the ETH Library.\n\n- If you have any questions about email archiving, please visit the project website, where you will find FAQs, or contact the ITS Service Desk.\n\nThis year brings important changes to the way emails are archived at ETH: for example, new emails that have been in the mail archive ( https://mailarchive.ethz.ch ) for more than ten years will be automatically deleted – unless you explicitly opt out of this deletion process ( find out more ).\n\nAlso new is the “private-do-not-archive” folder, which has been available to Outlook mailbox users since May 2022. Any private emails you move to this folder are not transferred to the mail archive."
+    },
+    {
+      "heading": "Changes to email archiving",
+      "text": "Read here to get an overview of the important changes to email archiving and to find information on how to prevent your emails from being deleted after ten years."
+    },
+    {
+      "heading": "Storing business emails centrally?",
+      "text": "Yet some questions remain: am I even allowed to send and receive private messages through my ETH email account? And what about business emails? When should I store these centrally to ensure that other ETH members (e.g. team colleagues) also have access to them – and what role does the dossier principle play in this respect ?"
+    },
+    {
+      "heading": "Private communication via email",
+      "text": "In principle, you may use your ETH mailbox for sending or receiving private emails. However, since the ETH email infrastructure is not designed for this purpose and the ETH mailbox is intended for business communication, we recommend using commonly used email services from other providers (e.g. GMX, Gmail, Protonmail) for your private correspondence."
+    },
+    {
+      "heading": "Storing business emails centrally?",
+      "text": "All employees of ETH Zurich are obliged to conduct their business and file all related documents properly (cf. Weisung über die Archivierung von Dokumenten der ETH Zürich [Directive on the Archiving of ETH Zurich Documents] and the Compliance Guide ). But what does this mean for business emails?\n\nEmails are classified as business-relevant documents and, as such, must be filed accordingly. Here is where records management comes into play, i.e. the systematic management of records in a document repository.\n\nThe objectives of record management are to"
+    },
+    {
+      "heading": "The dossier principle",
+      "text": "The basis of records management is the dossier principle: this means that all documents belonging to a business transaction are filed together in one dossier:\n\nAll documents that are relevant to a business transaction or task belong in such a specific folder – irrespective of the document type (e.g. email, minutes, memo, summary table) or the file format (e.g. PDF, Word, PowerPoint, Excel).\n\nBut what counts as business relevant? The basic rule here is that all documents that a deputy needs (e.g. when covering for another employee due to holiday or another absence) to provide information about a business transaction or to continue the transaction independently are business relevant. As email accounts at ETH Zurich are usually personal email accounts, business emails must accordingly be filed in the respective folder. This is because deputies or new employees only have access to emails that have been copied from a personal email account and are stored centrally.\n\nIt is best to save emails as PDFs. For the sake of simplicity, however, emails can also be filed in a business dossier via drag & drop from Outlook. Any business-relevant attachments should be stored separately in the business dossier.\n\nAnd don’t forget to ensure that you name your files correctly and consistently. See Best Practices for Records Management for tips."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Business Private Emails",
+        "label": "ORG",
+        "start": 29,
+        "end": 52
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 276,
+        "end": 279
+      },
+      {
+        "text": "The University Archives",
+        "label": "ORG",
+        "start": 327,
+        "end": 350
+      },
+      {
+        "text": "the Research Data Management of the ETH Library",
+        "label": "ORG",
+        "start": 572,
+        "end": 619
+      },
+      {
+        "text": "This year",
+        "label": "DATE",
+        "start": 765,
+        "end": 774
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 834,
+        "end": 837
+      },
+      {
+        "text": "more than ten years",
+        "label": "DATE",
+        "start": 934,
+        "end": 953
+      },
+      {
+        "text": "May 2022",
+        "label": "DATE",
+        "start": 1165,
+        "end": 1173
+      },
+      {
+        "text": "ten years",
+        "label": "DATE",
+        "start": 152,
+        "end": 161
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 93,
+        "end": 96
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 201,
+        "end": 204
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 103,
+        "end": 106
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 169,
+        "end": 172
+      },
+      {
+        "text": "GMX",
+        "label": "ORG",
+        "start": 296,
+        "end": 299
+      },
+      {
+        "text": "Gmail",
+        "label": "PERSON",
+        "start": 301,
+        "end": 306
+      },
+      {
+        "text": "Protonmail",
+        "label": "ORG",
+        "start": 308,
+        "end": 318
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 17,
+        "end": 27
+      },
+      {
+        "text": "Archivierung von Dokumenten",
+        "label": "PERSON",
+        "start": 128,
+        "end": 155
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "PERSON",
+        "start": 160,
+        "end": 170
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 206,
+        "end": 212
+      },
+      {
+        "text": "the Compliance Guide",
+        "label": "ORG",
+        "start": 228,
+        "end": 248
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 146,
+        "end": 149
+      },
+      {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 307,
+        "end": 314
+      },
+      {
+        "text": "PDF",
+        "label": "ORG",
+        "start": 362,
+        "end": 365
+      },
+      {
+        "text": "PowerPoint",
+        "label": "ORG",
+        "start": 373,
+        "end": 383
+      },
+      {
+        "text": "Excel",
+        "label": "PRODUCT",
+        "start": 385,
+        "end": 390
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 710,
+        "end": 720
+      },
+      {
+        "text": "drag & drop",
+        "label": "ORG",
+        "start": 1096,
+        "end": 1107
+      },
+      {
+        "text": "Outlook",
+        "label": "PERSON",
+        "start": 1113,
+        "end": 1120
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Archivierung von Dokumenten",
+        "ETH Zurich",
+        "ETH Zürich",
+        "Gmail",
+        "Outlook"
+      ],
+      "ORG": [
+        "Business Private Emails",
+        "ETH",
+        "ETH Zurich",
+        "GMX",
+        "PDF",
+        "PowerPoint",
+        "Protonmail",
+        "The University Archives",
+        "drag & drop",
+        "the Compliance Guide",
+        "the Research Data Management of the ETH Library"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "May 2022",
+        "This year",
+        "minutes",
+        "more than ten years",
+        "ten years"
+      ],
+      "MISC": [
+        "Excel",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 7,
+      "ETH Zurich": 2,
+      "Business Private Emails": 1,
+      "The University Archives": 1,
+      "the Research Data Management of the ETH Library": 1,
+      "This year": 1,
+      "more than ten years": 1,
+      "May 2022": 1,
+      "ten years": 1,
+      "GMX": 1,
+      "Gmail": 1,
+      "Protonmail": 1,
+      "Archivierung von Dokumenten": 1,
+      "ETH Zürich": 1,
+      "Zurich": 1,
+      "the Compliance Guide": 1,
+      "one": 1,
+      "minutes": 1,
+      "PDF": 1,
+      "PowerPoint": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "handling-business-private-emails.md",
+      "title": "En Internal/2022/09/handling Business Private Emails",
+      "language": "en",
+      "source_path": "en_internal/2022/09/handling-business-private-emails.html"
+    },
+    "temporal": {
+      "publication_date": "2022-09",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Archivierung von Dokumenten",
+        "ETH Zurich",
+        "ETH Zürich",
+        "Gmail",
+        "Outlook"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Excel"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Records Management",
+        "Research Data",
+        "Compliance Guide",
+        "ETH Library",
+        "En Internal",
+        "ETH Zurich",
+        "See Best",
+        "ITS Service",
+        "The University",
+        "Business Private"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Business Private Emails",
+        "ETH",
+        "ETH Zurich",
+        "GMX",
+        "PDF",
+        "PowerPoint",
+        "Protonmail",
+        "The University Archives",
+        "drag & drop",
+        "the Compliance Guide",
+        "the Research Data Management of the ETH Library"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Zurich",
+        "Business Private Emails",
+        "The University Archives",
+        "the Research Data Management of the ETH Library",
+        "This year",
+        "more than ten years",
+        "May 2022",
+        "ten years",
+        "GMX"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Changes to email archiving",
+          "Changes to email archiving",
+          "Storing business emails centrally?",
+          "Private communication via email",
+          "Storing business emails centrally?",
+          "The dossier principle"
+        ],
+        "content_length": 4063
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "GMX",
+        "PowerPoint",
+        "Protonmail",
+        "PDF",
+        "Business Private Emails",
+        "The University Archives",
+        "ETH Zurich",
+        "ETH Zürich",
+        "drag & drop",
+        "the Research Data Management of the ETH Library",
+        "2022",
+        "the Compliance Guide",
+        "Archivierung von Dokumenten",
+        "Outlook",
+        "Gmail"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "where",
+        "what",
+        "how",
+        "Excel",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

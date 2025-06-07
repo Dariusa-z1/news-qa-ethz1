@@ -1,0 +1,483 @@
+{
+  "filename": "toxizitaetstest-mit-plazenta-und-embryo.md",
+  "original_filename": "toxizitaetstest-mit-plazenta-und-embryo.html",
+  "source_path": "de_news_events/2021/07/toxizitaetstest-mit-plazenta-und-embryo.html",
+  "date": "2021-07",
+  "title": "Toxizitaetstest Mit Plazenta Und Embryo",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Chip mit unterschiedlichen Zellen",
+      "text": "Medikamente sollen nicht nur sicher sein für die Patientinnen und Patienten, sondern im Falle einer Schwangerschaft auch für das ungeborene Kind im Mutterleib. Bereits in einem frühen Stadium der Entwicklung neuer Medikamente werden Wirkstoffe daher in der Petrischale mit embryonalen Stammzellen aus Zelllinien von Mäusen getestet. Damit will man vermeiden, dass eine embryoschädigende Wirkung erst zu einem späteren Zeitpunkt bei Tierversuchen an trächtigen Mäusen bemerkt würde.\n\nAllerdings sind diese bisherigen Zellkulturtests eine starke Vereinfachung dessen, was sich im Mutterleib abspielt: Forschende geben die Testsubstanz dazu einfach in der Petrischale in eine Kultur von embryonalen Stammzellen. Dadurch entdecken sie Stoffe, welche embryonale Zellen direkt schädigen. Im Körper einer schwangeren Frau hingegen werden Arzneistoffe unter Umständen auch von deren Stoffwechsel verändert, und sie gelangen über das Blut und die Plazenta in den Blutkreislauf des Embryos. Stoffe, welche dem Embryo indirekt schaden, zum Beispiel weil sie die Funktion der Plazenta beeinträchtigen oder in dieser Stressreaktionen auslösen, werden jedoch in bisherigen Zellkultur-Standardtests nicht entdeckt."
+    },
+    {
+      "heading": "Chip mit unterschiedlichen Zellen",
+      "text": "Forschende am Departement für Biosysteme der ETH Zürich in Basel haben nun einen Labortest entwickelt, welcher die Rolle der Plazenta bei der Einschätzung der Embryotoxizität miteinbezieht. Julia Boos, Doktorandin in der Gruppe von ETH-Professor Andreas Hierlemann, und ihre Kollegen nutzten dazu einen von ihnen entwickelten Chip mit mehreren Kompartimenten, die durch winzige Kanäle miteinander verbunden sind. Darauf kombinierten die Wissenschaftlerinnen und Wissenschaftler jeweils aus Zelllinien gewonnene menschliche Plazentazellen mit kleinen Gewebekügelchen aus embryonalen Stammzellen von Mäusen (Embryoid Bodies), welche die frühe Embryonalentwicklung widerspiegeln. Zu testende Substanzen erreichen darauf zunächst eine Schicht Plazentazellen, müssen diese durchdringen und gelangen erst anschliessend zu den Embryonalzellen – ähnlich wie dies auch im Mutterleib der Fall ist.\n\nLebensfähige Embryonen entstehen bei all diesen Versuchen übrigens nicht. Die Embryonalzellen aus Zelllinien machen lediglich während zehn Tagen die allerersten Schritte der Embryonalentwicklung durch."
+    },
+    {
+      "heading": "Test kann indirekte Schädigung nachweisen",
+      "text": "Um die Funktion des neuen Tests aufzuzeigen, nutzten die Forschenden Mikropartikel. Die verwendeten Partikel schadeten den Embryo-Zellkügelchen nicht, wenn sie direkt mit diesen in Kontakt kamen. Mit dem neuen Test, der auch Plazentazellen einschliesst, beobachteten die Wissenschaftler allerdings eine mögliche indirekte schädliche Wirkung: Obschon die Plazentazellen die Mikropartikel zurückhalten konnten und die Partikel nicht zu den Embryozellen durchdrangen, waren die Embryozellen bei diesem Versuch geschwächt.\n\nAls nächstes möchten die Forschenden ihr System im Hinblick auf besser geeignete Plastikmaterialien weiterentwickeln. Denkbar ist ausserdem, für die Embryoid Bodies in Zukunft menschliche Stammzelllinien zu verwenden statt solche von der Maus. «Insbesondere in der Embryonalentwicklung und den Vorgängen in der Plazenta gibt es wesentliche Unterschiede zwischen Versuchstieren und dem Menschen», erklärt Boos. «Die Plazenta ist das Organ, bei dem Spezies-Unterschiede am stärksten ausgeprägt sind.»\n\nZiel ist, einen neuen Test zu entwickeln, den auch die Pharmaindustrie einfach anwenden kann. Indem embryoschädigende Stoffe bei der Entwicklung von Medikamenten frühzeitig erkannt und ausgeschlossen werden können, müssen anschliessend weniger Stoffe in Tierversuchen getestet werden. Dies hilft, die Zahl an Tierversuchen zu reduzieren.\n\nBoos JA, Misun PM, Brunoldi G, Furer LA, Aengenheister L, Modena M, Rousset M, Buerki-Thurnherr T, Hierlemann A: Microfluidic co-culture platform to recapitulate the maternal-placental-embryonic axis. Advanced Biology, 19. Juni 2021, doi: externe Seite 10.1002/adbi.202100609"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Plazenta",
+        "label": "ORG",
+        "start": 43,
+        "end": 51
+      },
+      {
+        "text": "Embryo",
+        "label": "LOC",
+        "start": 56,
+        "end": 62
+      },
+      {
+        "text": "Petrischale",
+        "label": "MISC",
+        "start": 257,
+        "end": 268
+      },
+      {
+        "text": "Mäusen",
+        "label": "LOC",
+        "start": 316,
+        "end": 322
+      },
+      {
+        "text": "Mäusen",
+        "label": "PER",
+        "start": 460,
+        "end": 466
+      },
+      {
+        "text": "Petrischale",
+        "label": "MISC",
+        "start": 652,
+        "end": 663
+      },
+      {
+        "text": "Embryo",
+        "label": "ORG",
+        "start": 999,
+        "end": 1005
+      },
+      {
+        "text": "Zellkultur-Standardtests",
+        "label": "MISC",
+        "start": 1158,
+        "end": 1182
+      },
+      {
+        "text": "Departement für Biosysteme",
+        "label": "LOC",
+        "start": 14,
+        "end": 40
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 45,
+        "end": 55
+      },
+      {
+        "text": "Basel",
+        "label": "LOC",
+        "start": 59,
+        "end": 64
+      },
+      {
+        "text": "Labortest",
+        "label": "MISC",
+        "start": 81,
+        "end": 90
+      },
+      {
+        "text": "Julia Boos",
+        "label": "PER",
+        "start": 190,
+        "end": 200
+      },
+      {
+        "text": "Doktorandin",
+        "label": "PER",
+        "start": 202,
+        "end": 213
+      },
+      {
+        "text": "ETH-Professor",
+        "label": "ORG",
+        "start": 232,
+        "end": 245
+      },
+      {
+        "text": "Andreas Hierlemann",
+        "label": "PER",
+        "start": 246,
+        "end": 264
+      },
+      {
+        "text": "Wissenschaftlerinnen",
+        "label": "LOC",
+        "start": 437,
+        "end": 457
+      },
+      {
+        "text": "Mäusen",
+        "label": "LOC",
+        "start": 598,
+        "end": 604
+      },
+      {
+        "text": "Bodies",
+        "label": "LOC",
+        "start": 615,
+        "end": 621
+      },
+      {
+        "text": "Embryo-Zellkügelchen",
+        "label": "MISC",
+        "start": 123,
+        "end": 143
+      },
+      {
+        "text": "Obschon",
+        "label": "PER",
+        "start": 342,
+        "end": 349
+      },
+      {
+        "text": "Plastikmaterialien",
+        "label": "LOC",
+        "start": 600,
+        "end": 618
+      },
+      {
+        "text": "Bodies",
+        "label": "LOC",
+        "start": 677,
+        "end": 683
+      },
+      {
+        "text": "Spezies-Unterschiede",
+        "label": "MISC",
+        "start": 966,
+        "end": 986
+      },
+      {
+        "text": "Boos JA",
+        "label": "PER",
+        "start": 1356,
+        "end": 1363
+      },
+      {
+        "text": "Misun PM",
+        "label": "PER",
+        "start": 1365,
+        "end": 1373
+      },
+      {
+        "text": "Brunoldi G",
+        "label": "ORG",
+        "start": 1375,
+        "end": 1385
+      },
+      {
+        "text": "Furer LA",
+        "label": "ORG",
+        "start": 1387,
+        "end": 1395
+      },
+      {
+        "text": "Aengenheister L",
+        "label": "PER",
+        "start": 1397,
+        "end": 1412
+      },
+      {
+        "text": "Modena M",
+        "label": "PER",
+        "start": 1414,
+        "end": 1422
+      },
+      {
+        "text": "Rousset M",
+        "label": "LOC",
+        "start": 1424,
+        "end": 1433
+      },
+      {
+        "text": "Buerki-Thurnherr T",
+        "label": "MISC",
+        "start": 1435,
+        "end": 1453
+      },
+      {
+        "text": "Hierlemann A",
+        "label": "MISC",
+        "start": 1455,
+        "end": 1467
+      },
+      {
+        "text": "Microfluidic co-culture",
+        "label": "MISC",
+        "start": 1469,
+        "end": 1492
+      },
+      {
+        "text": "Advanced Biology",
+        "label": "PER",
+        "start": 1557,
+        "end": 1573
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Advanced Biology",
+        "Aengenheister L",
+        "Andreas Hierlemann",
+        "Boos JA",
+        "Doktorandin",
+        "Julia Boos",
+        "Misun PM",
+        "Modena M",
+        "Mäusen",
+        "Obschon"
+      ],
+      "ORG": [
+        "Brunoldi G",
+        "ETH Zürich",
+        "ETH-Professor",
+        "Embryo",
+        "Furer LA",
+        "Plazenta"
+      ],
+      "LOCATION": [
+        "Basel",
+        "Bodies",
+        "Departement für Biosysteme",
+        "Embryo",
+        "Mäusen",
+        "Plastikmaterialien",
+        "Rousset M",
+        "Wissenschaftlerinnen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Buerki-Thurnherr T",
+        "Embryo-Zellkügelchen",
+        "Hierlemann A",
+        "Labortest",
+        "Microfluidic co-culture",
+        "Petrischale",
+        "Spezies-Unterschiede",
+        "Zellkultur-Standardtests"
+      ]
+    },
+    "entity_counts": {
+      "Mäusen": 3,
+      "Embryo": 2,
+      "Petrischale": 2,
+      "Bodies": 2,
+      "Plazenta": 1,
+      "Zellkultur-Standardtests": 1,
+      "Departement für Biosysteme": 1,
+      "ETH Zürich": 1,
+      "Basel": 1,
+      "Labortest": 1,
+      "Julia Boos": 1,
+      "Doktorandin": 1,
+      "ETH-Professor": 1,
+      "Andreas Hierlemann": 1,
+      "Wissenschaftlerinnen": 1,
+      "Embryo-Zellkügelchen": 1,
+      "Obschon": 1,
+      "Plastikmaterialien": 1,
+      "Spezies-Unterschiede": 1,
+      "Boos JA": 1
+    },
+    "total_entities": 35,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "toxizitaetstest-mit-plazenta-und-embryo.md",
+      "title": "De News Events/2021/07/toxizitaetstest mit Plazenta und Embryo",
+      "language": "de",
+      "source_path": "de_news_events/2021/07/toxizitaetstest-mit-plazenta-und-embryo.html"
+    },
+    "temporal": {
+      "publication_date": "2021-07",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Advanced Biology",
+        "Aengenheister L",
+        "Andreas Hierlemann",
+        "Boos JA",
+        "Doktorandin",
+        "Julia Boos",
+        "Misun PM",
+        "Modena M",
+        "Mäusen",
+        "Obschon"
+      ],
+      "people_with_roles": {
+        "Andreas Hierlemann": [
+          "Professor",
+          "professor"
+        ],
+        "Doktorandin": [
+          "professor"
+        ],
+        "Julia Boos": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Buerki-Thurnherr T",
+        "Embryo-Zellkügelchen",
+        "Hierlemann A",
+        "Labortest",
+        "Microfluidic co-culture",
+        "Petrischale",
+        "Spezies-Unterschiede",
+        "Zellkultur-Standardtests"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Boos JA",
+        "Misun PM",
+        "Schicht Plazentazellen",
+        "ETH-Professor",
+        "Forschenden Mikropartikel",
+        "Die Embryonalzellen",
+        "Furer LA",
+        "Modena M",
+        "Buerki-Thurnherr",
+        "Julia Boos",
+        "Brunoldi G",
+        "Andreas Hierlemann",
+        "Embryoid Bodies",
+        "Spezies-Unterschiede",
+        "Zellkultur-Standardtests",
+        "Hierlemann A",
+        "Die Plazenta",
+        "Embryo Medikamente",
+        "De News",
+        "Advanced Biology",
+        "Rousset M",
+        "Aengenheister L"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Brunoldi G",
+        "ETH Zürich",
+        "ETH-Professor",
+        "Embryo",
+        "Furer LA",
+        "Plazenta"
+      ],
+      "locations": [
+        "Basel",
+        "Bodies",
+        "Departement für Biosysteme",
+        "Embryo",
+        "Mäusen",
+        "Plastikmaterialien",
+        "Rousset M",
+        "Wissenschaftlerinnen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Mäusen",
+        "Embryo",
+        "Petrischale",
+        "Bodies",
+        "Plazenta",
+        "Zellkultur-Standardtests",
+        "Departement für Biosysteme",
+        "ETH Zürich",
+        "Basel",
+        "Labortest"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Chip mit unterschiedlichen Zellen",
+          "Chip mit unterschiedlichen Zellen",
+          "Test kann indirekte Schädigung nachweisen"
+        ],
+        "content_length": 3988
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Boos JA",
+        "Misun PM",
+        "Furer LA",
+        "Doktorandin",
+        "Mäusen",
+        "EU",
+        "Modena M",
+        "ETH Zürich",
+        "Embryo",
+        "Plazenta",
+        "Advanced Biology",
+        "ETH-Professor",
+        "Obschon",
+        "Julia Boos",
+        "Andreas Hierlemann",
+        "2021",
+        "Brunoldi G",
+        "Aengenheister L"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Zellkultur-Standardtests",
+        "Hierlemann A",
+        "Labortest",
+        "who",
+        "Buerki-Thurnherr T",
+        "Embryo-Zellkügelchen",
+        "Spezies-Unterschiede",
+        "Petrischale",
+        "Microfluidic co-culture",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Andreas Hierlemann_has_role_Professor",
+        "Andreas Hierlemann_has_role_professor",
+        "Doktorandin_has_role_professor",
+        "Julia Boos_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

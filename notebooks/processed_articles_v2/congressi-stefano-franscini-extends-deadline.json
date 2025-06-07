@@ -1,0 +1,329 @@
+{
+  "filename": "congressi-stefano-franscini-extends-deadline.md",
+  "original_filename": "congressi-stefano-franscini-extends-deadline.html",
+  "source_path": "en_internal/2015/02/congressi-stefano-franscini-extends-deadline.html",
+  "date": "2015-02",
+  "title": "Congressi Stefano Franscini Extends Deadline",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Conferences 2016 Congressi Stefano Franscini",
+      "text": "The Congressi Stefano Franscini (CSF), the meeting platform of the Swiss Federal Institute of Technology of Zurich (ETH Zurich), has extended the deadline for submission of Proposals for obtaining a subsidy from the CSF for conferences in 2016 from 15 January 2015 to 8 February 2015."
+    },
+    {
+      "heading": "Conferences 2016 Congressi Stefano Franscini",
+      "text": "The Congressi Stefano Franscini (CSF) gives the possibility to organize research conferences at Monte Verità, a hilltop over Ascona and Lake Maggiore.\n\nAll researchers and university professors working in Switzerland are invited to submit their proposal for a meeting to be held in 2016; international collaborations are welcome. The applications will be evaluated by an interdisciplinary scientific board."
+    },
+    {
+      "heading": "ETH Winter Schools @Monte Verità 2015/2016",
+      "text": "The Congressi Stefano Franscini (CSF) gives ETH Zurich researchers or professors the possibility to organize a Winter School for doctoral students at Monte Verità, a hilltop over Ascona and Lake Maggiore.\n\nThe aim is to provide participants with in depth knowledge on a specific research topic and insight into its leading edge research. The proposals will be evaluated by the Scientific Board of the CSF."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Congressi Stefano Franscini",
+        "label": "ORG",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "CSF",
+        "label": "ORG",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "the Swiss Federal Institute of Technology of Zurich",
+        "label": "ORG",
+        "start": 63,
+        "end": 114
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 116,
+        "end": 126
+      },
+      {
+        "text": "CSF",
+        "label": "ORG",
+        "start": 216,
+        "end": 219
+      },
+      {
+        "text": "15 January 2015",
+        "label": "DATE",
+        "start": 249,
+        "end": 264
+      },
+      {
+        "text": "February 2015",
+        "label": "DATE",
+        "start": 270,
+        "end": 283
+      },
+      {
+        "text": "The Congressi Stefano Franscini",
+        "label": "ORG",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "CSF",
+        "label": "ORG",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "Monte Verità",
+        "label": "GPE",
+        "start": 96,
+        "end": 108
+      },
+      {
+        "text": "Ascona",
+        "label": "GPE",
+        "start": 125,
+        "end": 131
+      },
+      {
+        "text": "Lake Maggiore",
+        "label": "LOC",
+        "start": 136,
+        "end": 149
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 204,
+        "end": 215
+      },
+      {
+        "text": "The Congressi Stefano Franscini",
+        "label": "ORG",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "CSF",
+        "label": "ORG",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 44,
+        "end": 54
+      },
+      {
+        "text": "a Winter School",
+        "label": "ORG",
+        "start": 109,
+        "end": 124
+      },
+      {
+        "text": "Monte Verità",
+        "label": "PERSON",
+        "start": 150,
+        "end": 162
+      },
+      {
+        "text": "Ascona",
+        "label": "GPE",
+        "start": 179,
+        "end": 185
+      },
+      {
+        "text": "Lake Maggiore",
+        "label": "LOC",
+        "start": 190,
+        "end": 203
+      },
+      {
+        "text": "the Scientific Board",
+        "label": "ORG",
+        "start": 372,
+        "end": 392
+      },
+      {
+        "text": "CSF",
+        "label": "ORG",
+        "start": 400,
+        "end": 403
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Monte Verità"
+      ],
+      "ORG": [
+        "CSF",
+        "The Congressi Stefano Franscini",
+        "a Winter School",
+        "the Scientific Board",
+        "the Swiss Federal Institute of Technology of Zurich"
+      ],
+      "LOCATION": [
+        "Ascona",
+        "Lake Maggiore",
+        "Monte Verità",
+        "Switzerland"
+      ],
+      "DATE": [
+        "15 January 2015",
+        "February 2015"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "CSF": 5,
+      "The Congressi Stefano Franscini": 3,
+      "ETH Zurich": 2,
+      "Monte Verità": 2,
+      "Ascona": 2,
+      "Lake Maggiore": 2,
+      "the Swiss Federal Institute of Technology of Zurich": 1,
+      "15 January 2015": 1,
+      "February 2015": 1,
+      "Switzerland": 1,
+      "a Winter School": 1,
+      "the Scientific Board": 1
+    },
+    "total_entities": 22,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "congressi-stefano-franscini-extends-deadline.md",
+      "title": "En Internal/2015/02/congressi Stefano Franscini Extends Deadline",
+      "language": "en",
+      "source_path": "en_internal/2015/02/congressi-stefano-franscini-extends-deadline.html"
+    },
+    "temporal": {
+      "publication_date": "2015-02",
+      "mentioned_years": [
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Monte Verità"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher",
+          "student",
+          "professor"
+        ],
+        "Monte Verità": [
+          "researcher",
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Stefano Franscini",
+        "Swiss Federal",
+        "Scientific Board",
+        "Lake Maggiore",
+        "En Internal",
+        "Extends Deadline",
+        "The Congressi",
+        "ETH Zurich",
+        "Winter School"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSF",
+        "The Congressi Stefano Franscini",
+        "a Winter School",
+        "the Scientific Board",
+        "the Swiss Federal Institute of Technology of Zurich"
+      ],
+      "locations": [
+        "Ascona",
+        "Lake Maggiore",
+        "Monte Verità",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "CSF",
+        "The Congressi Stefano Franscini",
+        "ETH Zurich",
+        "Monte Verità",
+        "Ascona",
+        "Lake Maggiore",
+        "the Swiss Federal Institute of Technology of Zurich",
+        "15 January 2015",
+        "February 2015",
+        "Switzerland"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Conferences 2016 Congressi Stefano Franscini",
+          "Conferences 2016 Congressi Stefano Franscini",
+          "ETH Winter Schools @Monte Verità 2015/2016"
+        ],
+        "content_length": 1162
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Monte Verità",
+        "CSF",
+        "The Congressi Stefano Franscini",
+        "2015",
+        "a Winter School",
+        "2016",
+        "ETH Zurich",
+        "the Swiss Federal Institute of Technology of Zurich",
+        "the Scientific Board"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "where",
+        "who"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_student",
+        "ETH Zurich_has_role_professor",
+        "Monte Verità_has_role_researcher",
+        "Monte Verità_has_role_student",
+        "Monte Verità_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

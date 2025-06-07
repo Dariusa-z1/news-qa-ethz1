@@ -1,0 +1,296 @@
+{
+  "filename": "when-students-disassemble-a-car.md",
+  "original_filename": "when-students-disassemble-a-car.html",
+  "source_path": "en_internal/2016/02/when-students-disassemble-a-car.html",
+  "date": "2016-02",
+  "title": "When Students Disassemble A Car",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Analysis is defined as a method of studying something by separating it into its constituent parts. The elements are then sorted in accordance with specific criteria and relationships, before being recombined to form a whole (in the opposite process, synthesis).\n\nOn Tuesday and Thursday (23 and 24 February, 2016) this week, a group of students studying under Dirk Hebel, Assistant Professor of Architecture and Construction (D-ARCH), took these words quite literally.\n\nThe students spent two days disassembling a car in the Services Department’s HEZ garage on the Hönggerberg campus, breaking the car down into its various elements, systematically sorting these into groups, and learning how the component parts fit together.\n\nThe exercise is part of the “Resource City – Building for Disassembly” design semester. The next step involves transferring the findings of the analysis to the field of architecture.\n\nStudents are receiving support from Walter Haase from the Institute for Lightweight Structures and Conceptual Design at the University of Stuttgart in Germany."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Students Disassemble",
+        "label": "ORG",
+        "start": 25,
+        "end": 45
+      },
+      {
+        "text": "Tuesday",
+        "label": "DATE",
+        "start": 265,
+        "end": 272
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE",
+        "start": 277,
+        "end": 285
+      },
+      {
+        "text": "24 February, 2016",
+        "label": "DATE",
+        "start": 294,
+        "end": 311
+      },
+      {
+        "text": "this week",
+        "label": "DATE",
+        "start": 313,
+        "end": 322
+      },
+      {
+        "text": "Dirk Hebel",
+        "label": "PERSON",
+        "start": 359,
+        "end": 369
+      },
+      {
+        "text": "Architecture and Construction",
+        "label": "ORG",
+        "start": 394,
+        "end": 423
+      },
+      {
+        "text": "two days",
+        "label": "DATE",
+        "start": 487,
+        "end": 495
+      },
+      {
+        "text": "the Services Department’s",
+        "label": "ORG",
+        "start": 519,
+        "end": 544
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 563,
+        "end": 574
+      },
+      {
+        "text": "the “Resource City – Building for Disassembly",
+        "label": "ORG",
+        "start": 749,
+        "end": 794
+      },
+      {
+        "text": "Walter Haase",
+        "label": "PERSON",
+        "start": 944,
+        "end": 956
+      },
+      {
+        "text": "the Institute for Lightweight Structures and Conceptual Design",
+        "label": "ORG",
+        "start": 962,
+        "end": 1024
+      },
+      {
+        "text": "the University of Stuttgart",
+        "label": "ORG",
+        "start": 1028,
+        "end": 1055
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 1059,
+        "end": 1066
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dirk Hebel",
+        "Hönggerberg",
+        "Walter Haase"
+      ],
+      "ORG": [
+        "Architecture and Construction",
+        "Students Disassemble",
+        "the Institute for Lightweight Structures and Conceptual Design",
+        "the Services Department’s",
+        "the University of Stuttgart",
+        "the “Resource City – Building for Disassembly"
+      ],
+      "LOCATION": [
+        "Germany"
+      ],
+      "DATE": [
+        "24 February, 2016",
+        "Thursday",
+        "Tuesday",
+        "this week",
+        "two days"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Students Disassemble": 1,
+      "Tuesday": 1,
+      "Thursday": 1,
+      "24 February, 2016": 1,
+      "this week": 1,
+      "Dirk Hebel": 1,
+      "Architecture and Construction": 1,
+      "two days": 1,
+      "the Services Department’s": 1,
+      "Hönggerberg": 1,
+      "the “Resource City – Building for Disassembly": 1,
+      "Walter Haase": 1,
+      "the Institute for Lightweight Structures and Conceptual Design": 1,
+      "the University of Stuttgart": 1,
+      "Germany": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "when-students-disassemble-a-car.md",
+      "title": "En Internal/2016/02/when Students Disassemble A Car",
+      "language": "en",
+      "source_path": "en_internal/2016/02/when-students-disassemble-a-car.html"
+    },
+    "temporal": {
+      "publication_date": "2016-02",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Dirk Hebel",
+        "Hönggerberg",
+        "Walter Haase"
+      ],
+      "people_with_roles": {
+        "Dirk Hebel": [
+          "student",
+          "professor"
+        ],
+        "Hönggerberg": [
+          "student"
+        ],
+        "Walter Haase": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "engineering",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "A Car",
+        "On Tuesday",
+        "D-ARCH",
+        "Lightweight Structures",
+        "Services Department",
+        "Conceptual Design",
+        "En Internal",
+        "Dirk Hebel",
+        "Assistant Professor",
+        "Students Disassemble",
+        "Walter Haase",
+        "Resource City"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Lightweight Structures and Conceptual Design at the University of Stuttgart in Germany"
+      ],
+      "institutions": [
+        "Architecture and Construction",
+        "Students Disassemble",
+        "the Institute for Lightweight Structures and Conceptual Design",
+        "the Services Department’s",
+        "the University of Stuttgart",
+        "the “Resource City – Building for Disassembly"
+      ],
+      "locations": [
+        "Germany"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Students Disassemble",
+        "Tuesday",
+        "Thursday",
+        "24 February, 2016",
+        "this week",
+        "Dirk Hebel",
+        "Architecture and Construction",
+        "two days",
+        "the Services Department’s",
+        "Hönggerberg"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1123
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "Architecture and Construction",
+        "the University of Stuttgart",
+        "the Services Department’s",
+        "the Institute for Lightweight Structures and Conceptual Design",
+        "2016",
+        "Dirk Hebel",
+        "the “Resource City – Building for Disassembly",
+        "ERC",
+        "Students Disassemble",
+        "Walter Haase"
+      ],
+      "semantic_concepts": [
+        "mathematics",
+        "who",
+        "chemistry",
+        "where",
+        "what",
+        "how",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Dirk Hebel_has_role_student",
+        "Dirk Hebel_has_role_professor",
+        "Hönggerberg_has_role_student",
+        "Walter Haase_has_role_student",
+        "research_domain_engineering",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

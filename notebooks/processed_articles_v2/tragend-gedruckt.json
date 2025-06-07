@@ -1,0 +1,261 @@
+{
+  "filename": "tragend-gedruckt.md",
+  "original_filename": "tragend-gedruckt.html",
+  "source_path": "de_news_events/2021/07/tragend-gedruckt.html",
+  "date": "2021-07",
+  "title": "Tragend Gedruckt",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Millionen von Neubauten auf der ganzen Welt werden mit Stahlbeton gebaut, obwohl diese Bauweise sehr hohe CO 2 -Emissionen verursacht. Besonders gravierend sind der Stahl für die Armierung und der Zement. ETH-Forschende zeigen nun, wie man bei beidem sparen kann.\n\nIn einem Park in Venedig hat die Block Research Group zusammen mit der Computation and Design group von Zaha Hadid Architects einen 12 mal 16 Meter grossen, gewölbten Fussgängersteg gebaut, der ganz ohne Armierungen auskommt.\n\nDas Bauwerk mit dem Namen «Striatus» besteht aus additiv gefertigten Beton-Bausteinen, die sich wie bei alten Steinbrücken zu Bögen ergänzen. Die Kräfte wirken dadurch in reiner Kompression genau auf die im Boden miteinander verstrebten Stützen. Die Bausteine stabilisieren sich durch die Geometrie des Bauwerks selbst.\n\nKomplett neu ist dabei die Art des Beton-3D-Drucks, welche die Forschenden gemeinsam mit der Firma Incremental3D entwickelt haben: Der Beton wird dabei nicht wie üblich horizontal aufgetragen, sondern in spezifischen Winkeln, sodass sie genau rechtwinklig zu den Druckkräften zu liegen kommen. Das bewirkt, dass sich auch die Druckschichten in den Bausteinen selbst stabilisieren. Den Spezialbeton für den 3D-Drucker hat die Firma Holcim extra für diesen Zweck entwickelt.\n\nDer ETH-Professor Philippe Block sagt: «Mit dieser präzisen Form von Beton-3D-Druck können wir die Prinzipien des traditionellen Gewölbebaus mit dem digitalen Betonbau verbinden und Material ausschliesslich dort einsetzen, wo es strukturell notwendig ist.»\n\nWeil das Bauwerk ohne Mörtel auskommt, können die Bausteine wieder voneinander getrennt und die Brücke an einem anderen Ort neu aufgebaut werden. Hat es ausgedient, können die Materialien einfach voneinander getrennt und recycelt werden."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "CO 2 -Emissionen",
+        "label": "MISC",
+        "start": 106,
+        "end": 122
+      },
+      {
+        "text": "Venedig",
+        "label": "LOC",
+        "start": 281,
+        "end": 288
+      },
+      {
+        "text": "Block Research Group",
+        "label": "ORG",
+        "start": 297,
+        "end": 317
+      },
+      {
+        "text": "Computation and Design group",
+        "label": "ORG",
+        "start": 335,
+        "end": 363
+      },
+      {
+        "text": "Zaha Hadid Architects",
+        "label": "ORG",
+        "start": 368,
+        "end": 389
+      },
+      {
+        "text": "Fussgängersteg",
+        "label": "PER",
+        "start": 431,
+        "end": 445
+      },
+      {
+        "text": "Bauwerks",
+        "label": "LOC",
+        "start": 793,
+        "end": 801
+      },
+      {
+        "text": "Beton-3D-Drucks",
+        "label": "LOC",
+        "start": 845,
+        "end": 860
+      },
+      {
+        "text": "Incremental3D",
+        "label": "ORG",
+        "start": 909,
+        "end": 922
+      },
+      {
+        "text": "Druckschichten",
+        "label": "LOC",
+        "start": 1136,
+        "end": 1150
+      },
+      {
+        "text": "3D-Drucker",
+        "label": "MISC",
+        "start": 1216,
+        "end": 1226
+      },
+      {
+        "text": "Holcim",
+        "label": "PER",
+        "start": 1241,
+        "end": 1247
+      },
+      {
+        "text": "ETH-Professor Philippe Block",
+        "label": "ORG",
+        "start": 1287,
+        "end": 1315
+      },
+      {
+        "text": "Betonbau",
+        "label": "LOC",
+        "start": 1442,
+        "end": 1450
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fussgängersteg",
+        "Holcim"
+      ],
+      "ORG": [
+        "Block Research Group",
+        "Computation and Design group",
+        "ETH-Professor Philippe Block",
+        "Incremental3D",
+        "Zaha Hadid Architects"
+      ],
+      "LOCATION": [
+        "Bauwerks",
+        "Beton-3D-Drucks",
+        "Betonbau",
+        "Druckschichten",
+        "Venedig"
+      ],
+      "DATE": [],
+      "MISC": [
+        "3D-Drucker",
+        "CO 2 -Emissionen"
+      ]
+    },
+    "entity_counts": {
+      "CO 2 -Emissionen": 1,
+      "Venedig": 1,
+      "Block Research Group": 1,
+      "Computation and Design group": 1,
+      "Zaha Hadid Architects": 1,
+      "Fussgängersteg": 1,
+      "Bauwerks": 1,
+      "Beton-3D-Drucks": 1,
+      "Incremental3D": 1,
+      "Druckschichten": 1,
+      "3D-Drucker": 1,
+      "Holcim": 1,
+      "ETH-Professor Philippe Block": 1,
+      "Betonbau": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "tragend-gedruckt.md",
+      "title": "De News Events/2021/07/tragend Gedruckt",
+      "language": "de",
+      "source_path": "de_news_events/2021/07/tragend-gedruckt.html"
+    },
+    "temporal": {
+      "publication_date": "2021-07",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Fussgängersteg",
+        "Holcim"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "3D-Drucker",
+        "CO 2 -Emissionen"
+      ],
+      "grants_funding": [
+        "EU",
+        "Horizon"
+      ],
+      "projects": [
+        "Zaha Hadid",
+        "Beton-Bausteinen",
+        "Der Beton",
+        "Den Spezialbeton",
+        "De News",
+        "Firma Holcim",
+        "Der ETH",
+        "ETH-Forschende",
+        "Gedruckt Millionen",
+        "Professor Philippe",
+        "Das Bauwerk",
+        "Die Bausteine",
+        "Block Research"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Block Research Group",
+        "Computation and Design group",
+        "ETH-Professor Philippe Block",
+        "Incremental3D",
+        "Zaha Hadid Architects"
+      ],
+      "locations": [
+        "Bauwerks",
+        "Beton-3D-Drucks",
+        "Betonbau",
+        "Druckschichten",
+        "Venedig"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "CO 2 -Emissionen",
+        "Venedig",
+        "Block Research Group",
+        "Computation and Design group",
+        "Zaha Hadid Architects",
+        "Fussgängersteg",
+        "Bauwerks",
+        "Beton-3D-Drucks",
+        "Incremental3D",
+        "Druckschichten"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1822
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Zaha Hadid Architects",
+        "Incremental3D",
+        "EU",
+        "Holcim",
+        "Computation and Design group",
+        "2021",
+        "Block Research Group",
+        "ETH-Professor Philippe Block",
+        "Horizon",
+        "Fussgängersteg"
+      ],
+      "semantic_concepts": [
+        "who",
+        "3D-Drucker",
+        "what",
+        "CO 2 -Emissionen"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "filename": "entdeckungsflug-ueber-die-schweiz.md",
+  "original_filename": "entdeckungsflug-ueber-die-schweiz.html",
+  "source_path": "de_internal/2014/09/entdeckungsflug-ueber-die-schweiz.html",
+  "date": "2014-09",
+  "title": "Entdeckungsflug Ueber Die Schweiz",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der Wandel der Schweiz vom intakten Agrarland mit verstreuten Fabriken zum heute stark bebauten Gebiet wird aus der Luft besonders augenfällig.\n\nRund 135 000 Luftbilder aus fast 100 Jahren zählt der Bestand, der heute im Bildarchiv der ETH-Bibliothek aufbewahrt wird. Daraus wurden für das Buch aus der Reihe \"Bilderwelten\" 150 eindrückliche Schräg- und Senkrechtaufnahmen ausgewählt.\n\nAuf der Plattform Bildarchiv Online können Sie in einer Auswahl der Bilder schmökern.\n\nWeitere Informationen und Fotos haben wir im Blog ETHeritage zusammengestellt.\n\nDas Buch kann im Lesesaal der Sammlungen und Archive der ETH-Bibliothek oder im Buchhandel gekauft werden."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/09",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 11,
+        "end": 22
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 235,
+        "end": 249
+      },
+      {
+        "text": "Bildarchiv Online",
+        "label": "MISC",
+        "start": 402,
+        "end": 419
+      },
+      {
+        "text": "Blog ETHeritage",
+        "label": "MISC",
+        "start": 515,
+        "end": 530
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 606,
+        "end": 620
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH-Bibliothek"
+      ],
+      "LOCATION": [
+        "De Internal/2014/09",
+        "Schweiz",
+        "der Schweiz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Bildarchiv Online",
+        "Blog ETHeritage",
+        "ETH-Bibliothek"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 2,
+      "De Internal/2014/09": 1,
+      "Schweiz": 1,
+      "der Schweiz": 1,
+      "Bildarchiv Online": 1,
+      "Blog ETHeritage": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "entdeckungsflug-ueber-die-schweiz.md",
+      "title": "De Internal/2014/09/entdeckungsflug Ueber die Schweiz",
+      "language": "de",
+      "source_path": "de_internal/2014/09/entdeckungsflug-ueber-die-schweiz.html"
+    },
+    "temporal": {
+      "publication_date": "2014-09",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Bildarchiv Online",
+        "Blog ETHeritage",
+        "ETH-Bibliothek"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Plattform Bildarchiv",
+        "De Internal",
+        "Das Buch",
+        "Schweiz Der",
+        "Blog ETHeritage",
+        "Weitere Informationen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek"
+      ],
+      "locations": [
+        "De Internal/2014/09",
+        "Schweiz",
+        "der Schweiz"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2014/09",
+        "Schweiz",
+        "der Schweiz",
+        "Bildarchiv Online",
+        "Blog ETHeritage"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 713
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "EU",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "Blog ETHeritage",
+        "Bildarchiv Online"
+      ],
+      "graph_relations": []
+    }
+  }
+}

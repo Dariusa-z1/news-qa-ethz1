@@ -1,0 +1,160 @@
+{
+  "filename": "independent-taskforce-with-new-leader.md",
+  "original_filename": "independent-taskforce-with-new-leader.html",
+  "source_path": "en_news_events/2021/08/independent-taskforce-with-new-leader.html",
+  "date": "2021-08",
+  "title": "Independent Taskforce With New Leader",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In this episode Martin Ackermann and Tanja Stadler, both professors at ETH Zurich, talk about what the pandemic taught them about the intersection of science and politics, how they cope with being people of public interest and also about how they hope the task force will become redundant in the future, even though the virus remains."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Taskforce",
+        "label": "ORG",
+        "start": 35,
+        "end": 44
+      },
+      {
+        "text": "Martin Ackermann",
+        "label": "PERSON",
+        "start": 16,
+        "end": 32
+      },
+      {
+        "text": "Tanja Stadler",
+        "label": "PERSON",
+        "start": 37,
+        "end": 50
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 71,
+        "end": 81
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Martin Ackermann",
+        "Tanja Stadler"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Taskforce"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Taskforce": 1,
+      "Martin Ackermann": 1,
+      "Tanja Stadler": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "independent-taskforce-with-new-leader.md",
+      "title": "En News Events/2021/08/independent Taskforce With New Leader",
+      "language": "en",
+      "source_path": "en_news_events/2021/08/independent-taskforce-with-new-leader.html"
+    },
+    "temporal": {
+      "publication_date": "2021-08",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Martin Ackermann",
+        "Tanja Stadler"
+      ],
+      "people_with_roles": {
+        "Martin Ackermann": [
+          "professor"
+        ],
+        "Tanja Stadler": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Taskforce With",
+        "Martin Ackermann",
+        "En News",
+        "Tanja Stadler",
+        "ETH Zurich",
+        "New Leader"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "Taskforce"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Taskforce",
+        "Martin Ackermann",
+        "Tanja Stadler",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 395
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Taskforce",
+        "Martin Ackermann",
+        "Tanja Stadler",
+        "ETH Zurich",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "how",
+        "what",
+        "who"
+      ],
+      "graph_relations": [
+        "Martin Ackermann_has_role_professor",
+        "Tanja Stadler_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

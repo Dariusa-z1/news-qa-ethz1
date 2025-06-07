@@ -1,0 +1,262 @@
+{
+  "filename": "new-bss-building-in-Basel-wins-an-architectural-award.md",
+  "original_filename": "new-bss-building-in-Basel-wins-an-architectural-award.html",
+  "source_path": "en_internal/2023/09/new-bss-building-in-Basel-wins-an-architectural-award.html",
+  "date": "2023-09",
+  "title": "New Bss Building In Basel Wins An Architectural Award",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Fortunately, there has been a lot of good news about the BSS in Basel lately: last week, the BSSE department was able to start teaching here, the move is going on as planned in parallel, and now the new research building has also been awarded an architecture prize.\n\nThe six-storey atrium building designed by Munich-based Nickl & Partner Architekten AG received the \"Iconic Award 2023\" in the category \"Innovative Architecture - Public / Culture / Education\". The aim of the design for the new laboratory and research building was to create a building structure that would permanently withstand the functional demands of flexibility, meet the highest technical standards and give the new building a balanced yet characteristic appearance.\n\nIt was a conscious decision by the architects, under the direction of Remo Burkhard, not to design a landmark in the form of a high-rise building, but to create a subtle sustainable urban addition to the Schällemätteli campus. In this way, the new building is oriented towards the neighbouring children's hospital and deliberately sets a quiet yet distinctive accent within the urban environment.\n\nThe clear building form as an enclosed, compact structure, on the one hand, defines urban spatial edges and allows the best possible orientation of the functions organised in it, but on the other hand, creates a pleasant, light atmosphere with quality of stay.\n\nThe award now confirms what the competition jury also recognised in its 2013 decision in favour of the design by Nickl & Partner: \" The architecture and spatial permeability of the new building symbolises open, interdisciplinary and academic exchange whilst presenting a welcoming face of the campus to the city."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Bss Building",
+        "label": "PERSON",
+        "start": 24,
+        "end": 36
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 40,
+        "end": 45
+      },
+      {
+        "text": "Award",
+        "label": "PERSON",
+        "start": 68,
+        "end": 73
+      },
+      {
+        "text": "BSS",
+        "label": "ORG",
+        "start": 57,
+        "end": 60
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 64,
+        "end": 69
+      },
+      {
+        "text": "last week",
+        "label": "DATE",
+        "start": 78,
+        "end": 87
+      },
+      {
+        "text": "BSSE",
+        "label": "NORP",
+        "start": 93,
+        "end": 97
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 270,
+        "end": 273
+      },
+      {
+        "text": "Munich",
+        "label": "GPE",
+        "start": 309,
+        "end": 315
+      },
+      {
+        "text": "Nickl & Partner Architekten AG",
+        "label": "ORG",
+        "start": 322,
+        "end": 352
+      },
+      {
+        "text": "the \"Iconic Award 2023",
+        "label": "LAW",
+        "start": 362,
+        "end": 384
+      },
+      {
+        "text": "Innovative Architecture - Public / Culture / Education",
+        "label": "WORK_OF_ART",
+        "start": 403,
+        "end": 457
+      },
+      {
+        "text": "Remo Burkhard",
+        "label": "PERSON",
+        "start": 809,
+        "end": 822
+      },
+      {
+        "text": "Schällemätteli",
+        "label": "NORP",
+        "start": 943,
+        "end": 957
+      },
+      {
+        "text": "Nickl & Partner",
+        "label": "ORG",
+        "start": 1510,
+        "end": 1525
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Award",
+        "Bss Building",
+        "Remo Burkhard"
+      ],
+      "ORG": [
+        "BSS",
+        "Nickl & Partner",
+        "Nickl & Partner Architekten AG"
+      ],
+      "LOCATION": [
+        "Basel",
+        "Munich"
+      ],
+      "DATE": [
+        "last week"
+      ],
+      "MISC": [
+        "BSSE",
+        "Innovative Architecture - Public / Culture / Education",
+        "Schällemätteli",
+        "six",
+        "the \"Iconic Award 2023"
+      ]
+    },
+    "entity_counts": {
+      "Basel": 2,
+      "Bss Building": 1,
+      "Award": 1,
+      "BSS": 1,
+      "last week": 1,
+      "BSSE": 1,
+      "six": 1,
+      "Munich": 1,
+      "Nickl & Partner Architekten AG": 1,
+      "the \"Iconic Award 2023": 1,
+      "Innovative Architecture - Public / Culture / Education": 1,
+      "Remo Burkhard": 1,
+      "Schällemätteli": 1,
+      "Nickl & Partner": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-bss-building-in-Basel-wins-an-architectural-award.md",
+      "title": "En Internal/2023/09/new Bss Building in Basel Wins an Architectural Award",
+      "language": "en",
+      "source_path": "en_internal/2023/09/new-bss-building-in-Basel-wins-an-architectural-award.html"
+    },
+    "temporal": {
+      "publication_date": "2023-09",
+      "mentioned_years": [
+        "2013",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Award",
+        "Bss Building",
+        "Remo Burkhard"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "BSSE",
+        "Innovative Architecture - Public / Culture / Education",
+        "Schällemätteli",
+        "the \"Iconic Award 2023"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Innovative Architecture",
+        "Architectural Award",
+        "Bss Building",
+        "En Internal",
+        "Remo Burkhard",
+        "Basel Wins",
+        "Iconic Award",
+        "Partner Architekten"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BSS",
+        "Nickl & Partner",
+        "Nickl & Partner Architekten AG"
+      ],
+      "locations": [
+        "Basel",
+        "Munich"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "Basel",
+        "Bss Building",
+        "Award",
+        "BSS",
+        "last week",
+        "BSSE",
+        "six",
+        "Munich",
+        "Nickl & Partner Architekten AG",
+        "the \"Iconic Award 2023"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1787
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Nickl & Partner Architekten AG",
+        "2013",
+        "Bss Building",
+        "Nickl & Partner",
+        "BSS",
+        "Remo Burkhard",
+        "Award",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Schällemätteli",
+        "Innovative Architecture - Public / Culture / Education",
+        "the \"Iconic Award 2023",
+        "what",
+        "BSSE"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

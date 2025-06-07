@@ -1,0 +1,231 @@
+{
+  "filename": "neue-gebaeudeorientierung-fuer-die-eth.md",
+  "original_filename": "neue-gebaeudeorientierung-fuer-die-eth.html",
+  "source_path": "de_internal/2016/12/neue-gebaeudeorientierung-fuer-die-eth.html",
+  "date": "2016-12",
+  "title": "Neue Gebaeudeorientierung Fuer Die Eth",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Wer bisher nach einem Gebäude oder einem Arealplan gesucht hat, musste das bis dato auf verschiedenen Online-Plattformen der ETH Zürich tun. Seit gestern ist nun die neue Gebäudeorientierung der Abteilung Immobilien im ETH-Netz verfügbar, die das Gebäudeverzeichnis, die Plandatenbank und die Situationspläne in einem Angebot vereint.\n\nEin zentraler und nutzerfreundlicher Service war die Zielsetzung der Applikation, die neben der gewohnten Suche via Gebäudekürzel und Adressdaten neu eine intuitive Suchfunktion über einen Standortplan anbietet. Für die Areale Zentrum und Hönggerberg kann man jedes Gebäude mit Hilfe eines interaktiven Pins auswählen, dessen Klick direkt zu den Detailangaben des gewünschten Gebäudes führt.\n\nZur besseren Orientierung werden die jeweiligen Gebäudeinformationen wie Kürzel, Standort oder Leitzahl, mit einem Foto sowie einer optionalen Map-Search-Angabe ergänzt. Zu jedem Gebäude stehen die jeweiligen Stockwerk- und Fluchtwegpläne auf der gleichen Seite zur Verfügung.\n\nDas Angebot der neuen Gebäudeorientierung umfasst ausserdem die offiziellen Situationspläne der jeweiligen ETH-Standorte sowie für die Areale Zentrum und Hönggerberg die dazugehörigen Sonderkarten wie Anlieferung, Parkieren oder Gastronomie.\n\nDie Gebäudeorientierung ist auf der Seite Services & Ressourcen angesiedelt und via Kurz-URL www.ethz.ch/gebaeude erreichbar."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/12",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 125,
+        "end": 135
+      },
+      {
+        "text": "ETH-Netz",
+        "label": "MISC",
+        "start": 219,
+        "end": 227
+      },
+      {
+        "text": "Situationspläne",
+        "label": "LOC",
+        "start": 293,
+        "end": 308
+      },
+      {
+        "text": "nutzerfreundlicher",
+        "label": "MISC",
+        "start": 353,
+        "end": 371
+      },
+      {
+        "text": "Areale Zentrum",
+        "label": "ORG",
+        "start": 555,
+        "end": 569
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 574,
+        "end": 585
+      },
+      {
+        "text": "ETH-Standorte",
+        "label": "MISC",
+        "start": 1111,
+        "end": 1124
+      },
+      {
+        "text": "Areale Zentrum",
+        "label": "ORG",
+        "start": 1139,
+        "end": 1153
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 1158,
+        "end": 1169
+      },
+      {
+        "text": "Services & Ressourcen",
+        "label": "ORG",
+        "start": 1288,
+        "end": 1309
+      },
+      {
+        "text": "Kurz-URL",
+        "label": "MISC",
+        "start": 1330,
+        "end": 1338
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Areale Zentrum",
+        "ETH Zürich",
+        "Services & Ressourcen"
+      ],
+      "LOCATION": [
+        "De Internal/2016/12",
+        "Hönggerberg",
+        "Situationspläne"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Netz",
+        "ETH-Standorte",
+        "Kurz-URL",
+        "nutzerfreundlicher"
+      ]
+    },
+    "entity_counts": {
+      "Areale Zentrum": 2,
+      "Hönggerberg": 2,
+      "De Internal/2016/12": 1,
+      "ETH Zürich": 1,
+      "ETH-Netz": 1,
+      "Situationspläne": 1,
+      "nutzerfreundlicher": 1,
+      "ETH-Standorte": 1,
+      "Services & Ressourcen": 1,
+      "Kurz-URL": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neue-gebaeudeorientierung-fuer-die-eth.md",
+      "title": "De Internal/2016/12/neue Gebaeudeorientierung Fuer die Eth",
+      "language": "de",
+      "source_path": "de_internal/2016/12/neue-gebaeudeorientierung-fuer-die-eth.html"
+    },
+    "temporal": {
+      "publication_date": "2016-12",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Netz",
+        "ETH-Standorte",
+        "Kurz-URL",
+        "nutzerfreundlicher"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Online-Plattformen",
+        "ETH-Standorte",
+        "Kurz-URL",
+        "Abteilung Immobilien",
+        "De Internal",
+        "Gebaeudeorientierung Fuer",
+        "Seite Services",
+        "ETH-Netz",
+        "Das Angebot",
+        "Eth Wer",
+        "Map-Search",
+        "Areale Zentrum"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Areale Zentrum",
+        "ETH Zürich",
+        "Services & Ressourcen"
+      ],
+      "locations": [
+        "De Internal/2016/12",
+        "Hönggerberg",
+        "Situationspläne"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Areale Zentrum",
+        "Hönggerberg",
+        "De Internal/2016/12",
+        "ETH Zürich",
+        "ETH-Netz",
+        "Situationspläne",
+        "nutzerfreundlicher",
+        "ETH-Standorte",
+        "Services & Ressourcen",
+        "Kurz-URL"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1434
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Services & Ressourcen",
+        "EU",
+        "2016",
+        "ETH Zürich",
+        "Areale Zentrum"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "nutzerfreundlicher",
+        "ETH-Standorte",
+        "Kurz-URL",
+        "ETH-Netz",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

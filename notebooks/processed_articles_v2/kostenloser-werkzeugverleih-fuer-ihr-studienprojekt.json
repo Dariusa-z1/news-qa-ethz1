@@ -1,0 +1,251 @@
+{
+  "filename": "kostenloser-werkzeugverleih-fuer-ihr-studienprojekt.md",
+  "original_filename": "kostenloser-werkzeugverleih-fuer-ihr-studienprojekt.html",
+  "source_path": "de_internal/2021/11/kostenloser-werkzeugverleih-fuer-ihr-studienprojekt.html",
+  "date": "2021-11",
+  "title": "Kostenloser Werkzeugverleih Fuer Ihr Studienprojekt",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Gratis, praktisch, gut",
+      "text": "Einer Idee noch den letzten Schliff verleihen und gerade kein passendes Werkzeug zur Hand? Die ETH-Bibliothek leiht Ihnen für Ihre Projektarbeit tragbare Elektrowerkzeuge samt Zubehör aus. Darunter befinden sich Schwingschleifer, Schlagbohrschrauber und Bohrhammer und einiges mehr. Neu im Sortiment: Schraubzwingen, eine Laser-Wasserwaage oder auch ein 81-teiliger Werkzeugkoffer. Schauen Sie einfach in der Liste mit allen Geräten nach. Sie finden diese auf externe Seite ETH-Bibliothek @ swisscovery ."
+    },
+    {
+      "heading": "Gratis, praktisch, gut",
+      "text": "Die Ausleihe ist kostenlos, die Leihfrist auf höchstens sieben Tage beschränkt. Alles, was Sie brauchen, ist Ihre ETH-Karte und ein Bibliothekskonto für ETH-Bibliothek@swisscovery . Es gelten die normalen Benutzungsbestimmungen und Mahngebühren der ETH-Bibliothek."
+    },
+    {
+      "heading": "Newsletter abonnieren",
+      "text": "Gut zu wissen : Die Werkzeuge können Sie sowohl im Zentrum als auch auf dem Hönggerberg abholen bzw. zurückbringen. Weitere Informationen finden Sie auf unserer Website .\n\nBei Fragen steht Ihnen das Team Information via E-Mail unter gerne zur Verfügung.\n\nMehr als nur Daten – Vom Know-how profitieren\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2021/11/kostenloser",
+        "label": "LOC",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 95,
+        "end": 109
+      },
+      {
+        "text": "Schraubzwingen",
+        "label": "LOC",
+        "start": 301,
+        "end": 315
+      },
+      {
+        "text": "Werkzeugkoffer",
+        "label": "MISC",
+        "start": 366,
+        "end": 380
+      },
+      {
+        "text": "ETH-Bibliothek @ swisscovery",
+        "label": "MISC",
+        "start": 474,
+        "end": 502
+      },
+      {
+        "text": "ETH-Karte",
+        "label": "MISC",
+        "start": 114,
+        "end": 123
+      },
+      {
+        "text": "ETH-Bibliothek@swisscovery",
+        "label": "MISC",
+        "start": 153,
+        "end": 179
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 249,
+        "end": 263
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 51,
+        "end": 58
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 76,
+        "end": 87
+      },
+      {
+        "text": "GewusstWie",
+        "label": "MISC",
+        "start": 299,
+        "end": 309
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 348,
+        "end": 362
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Zentrum"
+      ],
+      "LOCATION": [
+        "De Internal/2021/11/kostenloser",
+        "Hönggerberg",
+        "Schraubzwingen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "ETH-Bibliothek @ swisscovery",
+        "ETH-Bibliothek@swisscovery",
+        "ETH-Karte",
+        "GewusstWie",
+        "Werkzeugkoffer"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 3,
+      "De Internal/2021/11/kostenloser": 1,
+      "Schraubzwingen": 1,
+      "Werkzeugkoffer": 1,
+      "ETH-Bibliothek @ swisscovery": 1,
+      "ETH-Karte": 1,
+      "ETH-Bibliothek@swisscovery": 1,
+      "Zentrum": 1,
+      "Hönggerberg": 1,
+      "GewusstWie": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "kostenloser-werkzeugverleih-fuer-ihr-studienprojekt.md",
+      "title": "De Internal/2021/11/kostenloser Werkzeugverleih Fuer Ihr Studienprojekt",
+      "language": "de",
+      "source_path": "de_internal/2021/11/kostenloser-werkzeugverleih-fuer-ihr-studienprojekt.html"
+    },
+    "temporal": {
+      "publication_date": "2021-11",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "ETH-Bibliothek @ swisscovery",
+        "ETH-Bibliothek@swisscovery",
+        "ETH-Karte",
+        "GewusstWie",
+        "Werkzeugkoffer"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Einer Idee",
+        "ETH-Bibliothek",
+        "Ihr Studienprojekt",
+        "Die Infrastruktur",
+        "Werkzeugverleih Fuer",
+        "Seite ETH",
+        "Die ETH",
+        "Bei Fragen",
+        "Team Information",
+        "Schauen Sie",
+        "Ihre ETH",
+        "Die Werkzeuge",
+        "Vom Know",
+        "Die Ausleihe",
+        "E-Mail",
+        "De Internal",
+        "Ihrem Ziel",
+        "Laser-Wasserwaage",
+        "Weitere Informationen",
+        "Ihre Projektarbeit"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Zentrum"
+      ],
+      "locations": [
+        "De Internal/2021/11/kostenloser",
+        "Hönggerberg",
+        "Schraubzwingen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2021/11/kostenloser",
+        "Schraubzwingen",
+        "Werkzeugkoffer",
+        "ETH-Bibliothek @ swisscovery",
+        "ETH-Karte",
+        "ETH-Bibliothek@swisscovery",
+        "Zentrum",
+        "Hönggerberg",
+        "GewusstWie"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Gratis, praktisch, gut",
+          "Gratis, praktisch, gut",
+          "Newsletter abonnieren"
+        ],
+        "content_length": 1234
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Zentrum",
+        "2021",
+        "EU"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Bibliothek",
+        "Werkzeugkoffer",
+        "how",
+        "ETH-Karte",
+        "GewusstWie",
+        "ETH-Bibliothek @ swisscovery",
+        "when",
+        "ETH-Bibliothek@swisscovery"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

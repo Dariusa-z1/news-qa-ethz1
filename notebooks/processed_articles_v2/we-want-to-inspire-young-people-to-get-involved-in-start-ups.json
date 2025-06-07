@@ -1,0 +1,415 @@
+{
+  "filename": "we-want-to-inspire-young-people-to-get-involved-in-start-ups.md",
+  "original_filename": "we-want-to-inspire-young-people-to-get-involved-in-start-ups.html",
+  "source_path": "en_news_events/2016/01/we-want-to-inspire-young-people-to-get-involved-in-start-ups.html",
+  "date": "2016-01",
+  "title": "We Want To Inspire Young People To Get Involved In Start Ups",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH News: Why did the Department of Computer Science hold this World Web Forum Next Generation event? Markus Püschel: With this event, organised together with the canton, eZürich, and the ETH Entrepreneur Club, we wanted to make it possible for attendees to hear prominent speakers and leaders from the digital arena. The active participation of four Swiss start-ups and an interested young audience also provided a fascinating opportunity to share knowledge and expertise. The idea to put on this event came as a result of our involvement in eZürich – a platform for people who want to promote Zurich as a centre for the ICT industry.\n\nWhat opportunities did this event provide? The event provided useful stimuli and motivation, bringing like-minded individuals together, and inspiring young people to get involved in innovation and entrepreneurship. The participants also learned about the differences between how start-ups and failures are treated in English- and German-speaking countries. Failures are quite normal where start-ups are concerned, and these help young entrepreneurs to do things better next time.\n\nHow is ETH Zurich doing when it comes to start-up funding? ETH Zurich is very active and working on many fronts. For example, there is the Venture start-up competition, the ETH Innovation and Entrepreneurship Lab (ieLab), ETH Transfer – the technology transfer office at ETH Zurich, and the ETH Entrepreneur Club.\n\nIs there still a need for improvement in some areas? Two factors are essential for start-up culture to achieve its full potential in the Swiss economy. The first is a greater acceptance of failure. The other factor relates to the field of computer science, which forms the basis of many successful start-ups. In order to increase graduates’ overall level of skills, we have to start earlier. It is important that Lehrplan 21, the initiative to make computer science a core subject in schools, is implemented quickly and successfully.\n\nThe World Web Forum took place last Thursday at Komplex 457 in Zurich Altstetten. The internationally renowned digital conference is a paid event and is directed at high-level industry representatives.\n\nThe free World Web Forum Next Generation at ETH Zurich took place on Friday. It is a satellite event aimed at 18-to-28-year-olds who want to learn more about the latest internet-related developments, trends and business models."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "the Department of Computer Science",
+        "label": "ORG",
+        "start": 18,
+        "end": 52
+      },
+      {
+        "text": "this World Web Forum Next Generation",
+        "label": "EVENT",
+        "start": 58,
+        "end": 94
+      },
+      {
+        "text": "Markus Püschel",
+        "label": "PERSON",
+        "start": 102,
+        "end": 116
+      },
+      {
+        "text": "canton",
+        "label": "GPE",
+        "start": 163,
+        "end": 169
+      },
+      {
+        "text": "eZürich",
+        "label": "ORG",
+        "start": 171,
+        "end": 178
+      },
+      {
+        "text": "the ETH Entrepreneur Club",
+        "label": "ORG",
+        "start": 184,
+        "end": 209
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 346,
+        "end": 350
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 351,
+        "end": 356
+      },
+      {
+        "text": "eZürich",
+        "label": "ORG",
+        "start": 543,
+        "end": 550
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 595,
+        "end": 601
+      },
+      {
+        "text": "ICT",
+        "label": "ORG",
+        "start": 622,
+        "end": 625
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 966,
+        "end": 972
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1123,
+        "end": 1133
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1175,
+        "end": 1185
+      },
+      {
+        "text": "Venture",
+        "label": "ORG",
+        "start": 1255,
+        "end": 1262
+      },
+      {
+        "text": "the ETH Innovation and Entrepreneurship Lab",
+        "label": "ORG",
+        "start": 1285,
+        "end": 1328
+      },
+      {
+        "text": "ETH Transfer",
+        "label": "PERSON",
+        "start": 1338,
+        "end": 1350
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1387,
+        "end": 1397
+      },
+      {
+        "text": "the ETH Entrepreneur Club",
+        "label": "ORG",
+        "start": 1403,
+        "end": 1428
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 1483,
+        "end": 1486
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1567,
+        "end": 1572
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1586,
+        "end": 1591
+      },
+      {
+        "text": "Lehrplan 21",
+        "label": "PERSON",
+        "start": 1843,
+        "end": 1854
+      },
+      {
+        "text": "The World Web Forum",
+        "label": "ORG",
+        "start": 1964,
+        "end": 1983
+      },
+      {
+        "text": "last Thursday",
+        "label": "DATE",
+        "start": 1995,
+        "end": 2008
+      },
+      {
+        "text": "Komplex 457",
+        "label": "ORG",
+        "start": 2012,
+        "end": 2023
+      },
+      {
+        "text": "Zurich Altstetten",
+        "label": "GPE",
+        "start": 2027,
+        "end": 2044
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 2210,
+        "end": 2220
+      },
+      {
+        "text": "Friday",
+        "label": "DATE",
+        "start": 2235,
+        "end": 2241
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Transfer",
+        "ETH Zurich",
+        "Lehrplan 21",
+        "Markus Püschel"
+      ],
+      "ORG": [
+        "ETH News",
+        "ETH Zurich",
+        "ICT",
+        "Komplex 457",
+        "The World Web Forum",
+        "Venture",
+        "eZürich",
+        "the Department of Computer Science",
+        "the ETH Entrepreneur Club",
+        "the ETH Innovation and Entrepreneurship Lab"
+      ],
+      "LOCATION": [
+        "Zurich",
+        "Zurich Altstetten",
+        "canton"
+      ],
+      "DATE": [
+        "Friday",
+        "last Thursday"
+      ],
+      "MISC": [
+        "German",
+        "Swiss",
+        "Two",
+        "first",
+        "four",
+        "this World Web Forum Next Generation"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 4,
+      "eZürich": 2,
+      "the ETH Entrepreneur Club": 2,
+      "Swiss": 2,
+      "ETH News": 1,
+      "the Department of Computer Science": 1,
+      "this World Web Forum Next Generation": 1,
+      "Markus Püschel": 1,
+      "canton": 1,
+      "four": 1,
+      "Zurich": 1,
+      "ICT": 1,
+      "German": 1,
+      "Venture": 1,
+      "the ETH Innovation and Entrepreneurship Lab": 1,
+      "ETH Transfer": 1,
+      "Two": 1,
+      "first": 1,
+      "Lehrplan 21": 1,
+      "The World Web Forum": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "we-want-to-inspire-young-people-to-get-involved-in-start-ups.md",
+      "title": "En News Events/2016/01/we Want To Inspire Young People To Get Involved in Start Ups",
+      "language": "en",
+      "source_path": "en_news_events/2016/01/we-want-to-inspire-young-people-to-get-involved-in-start-ups.html"
+    },
+    "temporal": {
+      "publication_date": "2016-01",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Transfer",
+        "ETH Zurich",
+        "Lehrplan 21",
+        "Markus Püschel"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "German",
+        "Swiss",
+        "first",
+        "four",
+        "this World Web Forum Next Generation"
+      ],
+      "grants_funding": [
+        "EU",
+        "funding"
+      ],
+      "projects": [
+        "Get Involved",
+        "Entrepreneurship Lab",
+        "ETH Transfer",
+        "ETH Entrepreneur",
+        "En News",
+        "People To",
+        "Inspire Young",
+        "The World",
+        "Start Ups",
+        "Web Forum",
+        "Zurich Altstetten",
+        "ETH Zurich",
+        "ETH Innovation",
+        "ETH News",
+        "Want To",
+        "Forum Next",
+        "World Web",
+        "Computer Science"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Computer Science hold this World Web Forum Next Generation event"
+      ],
+      "institutions": [
+        "ETH News",
+        "ETH Zurich",
+        "ICT",
+        "Komplex 457",
+        "The World Web Forum",
+        "Venture",
+        "eZürich",
+        "the Department of Computer Science",
+        "the ETH Entrepreneur Club",
+        "the ETH Innovation and Entrepreneurship Lab"
+      ],
+      "locations": [
+        "Zurich",
+        "Zurich Altstetten",
+        "canton"
+      ],
+      "programs": [
+        "initiative",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "eZürich",
+        "the ETH Entrepreneur Club",
+        "Swiss",
+        "ETH News",
+        "the Department of Computer Science",
+        "this World Web Forum Next Generation",
+        "Markus Püschel",
+        "canton",
+        "four"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2482
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "eZürich",
+        "ETH Transfer",
+        "The World Web Forum",
+        "the ETH Entrepreneur Club",
+        "ICT",
+        "Komplex 457",
+        "the ETH Innovation and Entrepreneurship Lab",
+        "EU",
+        "Markus Püschel",
+        "2016",
+        "Lehrplan 21",
+        "funding",
+        "ETH News",
+        "Venture",
+        "ETH Zurich",
+        "the Department of Computer Science"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "four",
+        "who",
+        "Swiss",
+        "when",
+        "what",
+        "how",
+        "German",
+        "why",
+        "this World Web Forum Next Generation",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

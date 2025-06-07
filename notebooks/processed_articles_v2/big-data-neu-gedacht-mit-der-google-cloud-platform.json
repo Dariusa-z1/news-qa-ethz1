@@ -1,0 +1,313 @@
+{
+  "filename": "big-data-neu-gedacht-mit-der-google-cloud-platform.md",
+  "original_filename": "big-data-neu-gedacht-mit-der-google-cloud-platform.html",
+  "source_path": "en_internal/2019/11/big-data-neu-gedacht-mit-der-google-cloud-platform.html",
+  "date": "2019-11",
+  "title": "Big Data Neu Gedacht Mit Der Google Cloud Platform",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Therefore, operationalizing Big Data Analytics is key for companies to go to market faster and gain competitive advantage. Even in the field of machine learning and Artificial Intelligence (AI), data preparation plays a key role.\n\nGoogle has decades of experience in Big Data and is recognized as the market leader in machine learning / AI. With a full spectrum of tailored solutions, Google has solved several challenges for its customers in various industries.\n\nThe talk by Dr. Grazia Frontoso, Customer Engineer at Google, will provide an overview of how you seamlessly turn big data into meaningful insights using Google Cloud Platform.\n\nDate : Thursday, 05.12.2019, 17.15 Venue : ETH Zürich, Leonhardstrasse 21, 8092 Zurich, Building LEE, Room E 101\n\nThe event language is English. We will report live from the 17.15 Colloquium on Twitter. Follow the Hashtag #1715Kolloquium.\n\nFurther information and registration\n\nThe 17:15 Colloquium offers a platform for further education and discussion on the subject matter presented. The formula is a 30-minute presentation + a 30-minute discussion + a subsequent drinks reception = inspiration for our daily working lives.\n\n#FocusHuman – Be inspired by people and learn something new."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Cloud Platform",
+        "label": "PERSON",
+        "start": 56,
+        "end": 70
+      },
+      {
+        "text": "Big Data Analytics",
+        "label": "ORG",
+        "start": 28,
+        "end": 46
+      },
+      {
+        "text": "Artificial Intelligence (AI",
+        "label": "ORG",
+        "start": 165,
+        "end": 192
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 230,
+        "end": 236
+      },
+      {
+        "text": "decades",
+        "label": "DATE",
+        "start": 241,
+        "end": 248
+      },
+      {
+        "text": "Big Data",
+        "label": "ORG",
+        "start": 266,
+        "end": 274
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 384,
+        "end": 390
+      },
+      {
+        "text": "Grazia Frontoso",
+        "label": "PERSON",
+        "start": 478,
+        "end": 493
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 516,
+        "end": 522
+      },
+      {
+        "text": "Google Cloud Platform",
+        "label": "PRODUCT",
+        "start": 616,
+        "end": 637
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE",
+        "start": 646,
+        "end": 654
+      },
+      {
+        "text": "05.12.2019",
+        "label": "GPE",
+        "start": 656,
+        "end": 666
+      },
+      {
+        "text": "17.15",
+        "label": "CARDINAL",
+        "start": 668,
+        "end": 673
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "PERSON",
+        "start": 682,
+        "end": 692
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 719,
+        "end": 725
+      },
+      {
+        "text": "Building LEE",
+        "label": "PERSON",
+        "start": 727,
+        "end": 739
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 774,
+        "end": 781
+      },
+      {
+        "text": "Colloquium on Twitter",
+        "label": "WORK_OF_ART",
+        "start": 818,
+        "end": 839
+      },
+      {
+        "text": "30-minute",
+        "label": "TIME",
+        "start": 1039,
+        "end": 1048
+      },
+      {
+        "text": "30-minute",
+        "label": "TIME",
+        "start": 1066,
+        "end": 1075
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 1141,
+        "end": 1146
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Building LEE",
+        "Cloud Platform",
+        "ETH Zürich",
+        "Grazia Frontoso"
+      ],
+      "ORG": [
+        "Artificial Intelligence (AI",
+        "Big Data",
+        "Big Data Analytics",
+        "Google"
+      ],
+      "LOCATION": [
+        "05.12.2019",
+        "Zurich"
+      ],
+      "DATE": [
+        "30-minute",
+        "Thursday",
+        "daily",
+        "decades"
+      ],
+      "MISC": [
+        "17.15",
+        "Colloquium on Twitter",
+        "English",
+        "Google Cloud Platform"
+      ]
+    },
+    "entity_counts": {
+      "Google": 3,
+      "30-minute": 2,
+      "Cloud Platform": 1,
+      "Big Data Analytics": 1,
+      "Artificial Intelligence (AI": 1,
+      "decades": 1,
+      "Big Data": 1,
+      "Grazia Frontoso": 1,
+      "Google Cloud Platform": 1,
+      "Thursday": 1,
+      "05.12.2019": 1,
+      "17.15": 1,
+      "ETH Zürich": 1,
+      "Zurich": 1,
+      "Building LEE": 1,
+      "English": 1,
+      "Colloquium on Twitter": 1,
+      "daily": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "big-data-neu-gedacht-mit-der-google-cloud-platform.md",
+      "title": "En Internal/2019/11/big Data Neu Gedacht mit der Google Cloud Platform",
+      "language": "en",
+      "source_path": "en_internal/2019/11/big-data-neu-gedacht-mit-der-google-cloud-platform.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Building LEE",
+        "Cloud Platform",
+        "ETH Zürich",
+        "Grazia Frontoso"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "17.15",
+        "Colloquium on Twitter",
+        "English",
+        "Google Cloud Platform"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Data Neu",
+        "Customer Engineer",
+        "Big Data",
+        "En Internal",
+        "Grazia Frontoso",
+        "Platform Therefore",
+        "Artificial Intelligence",
+        "Room E",
+        "Google Cloud",
+        "Building LEE"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Artificial Intelligence (AI",
+        "Big Data",
+        "Big Data Analytics",
+        "Google"
+      ],
+      "locations": [
+        "05.12.2019",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Google",
+        "30-minute",
+        "Cloud Platform",
+        "Big Data Analytics",
+        "Artificial Intelligence (AI",
+        "decades",
+        "Big Data",
+        "Grazia Frontoso",
+        "Google Cloud Platform",
+        "Thursday"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1301
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Big Data Analytics",
+        "Google",
+        "Cloud Platform",
+        "Artificial Intelligence (AI",
+        "2019",
+        "EU",
+        "Big Data",
+        "ETH Zürich",
+        "Grazia Frontoso",
+        "Building LEE"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Colloquium on Twitter",
+        "17.15",
+        "Google Cloud Platform",
+        "English",
+        "how",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

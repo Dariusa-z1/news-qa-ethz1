@@ -1,0 +1,601 @@
+{
+  "filename": "geplante-windparks-virtuell-erleben.md",
+  "original_filename": "geplante-windparks-virtuell-erleben.html",
+  "source_path": "en_news_events/2015/08/geplante-windparks-virtuell-erleben.html",
+  "date": "2015-08",
+  "title": "Geplante Windparks Virtuell Erleben",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Windparks sicht- und hörbar machen",
+      "text": "In der Schweiz stossen geplante Windenergieanlagen (WEA) häufig auf Widerstand. Denn die lokale Bevölkerung steht solchen Vorhaben meist sehr kritisch gegenüber: Wie verändert ein Windpark das Landschaftsbild? Und wie laut rauschen die Rotorblätter? Betroffene möchten oft detailliert erfahren, was Windenergieprojekte für die Umgebung bedeuten. In der Praxis sind also neue Kommunikationsmassnahmen nötig, um die Bevölkerung besser zu informieren und sie für die Teilnahme am Planungsprozess zu gewinnen.\n\nDoch wie können wir die Auswirkungen von geplanten Windparks auf die Landschaft anschaulicher machen – anschaulicher als mit statischen Visualisierungen von einzelnen Ansichten und abstrakten Lärmkarten wie bis anhin?"
+    },
+    {
+      "heading": "Windparks sicht- und hörbar machen",
+      "text": "Vor gut vier Jahren kamen Vertreter von Beratungsfirmen aus dem Windenergiesektor auf uns zu mit der Anfrage, ob unser Lehrstuhl Planung von Landschaft und Urbanen Systemen ( PLUS ) an der ETH Zürich zusammen mit der Abteilung für Akustik und Lärmminderung an der Empa [1] ein Simulationsinstrument entwickeln könnte. Es sollten Windenergielandschaften visuell erlebbar und Geräuschimmissionen von WEA hörbar gemacht werden. Das Ziel war eine kombinierte visuelle und akustische Simulation der Landschaftsveränderung, um geplante Windparks besser bewerten zu können."
+    },
+    {
+      "heading": "3D-Windenergielandschaften",
+      "text": "Um ein Landschaftsbild angemessen wiederzugeben, braucht es realitätsnahe virtuelle 3D-Landschaften. Madeleine Manyoky hat in ihrer Dissertation am PLUS solche Landschaften mit dem Programm Crytek’s CryENGINE 3 erstellt – ein Tool, das eigentlich dazu dient, Computerspiele mit realistisch wirkenden Landschaften zu entwerfen. [2] Frau Manyokys Ansatz verwendet die digitalen raumbezogenen Daten des Bundesamts für Landestopografie swisstopo als Grundlage für die Landschaftsvisualisierung. Die Landschaftsmodelle simulieren auch den Einfluss des Windes. Das heisst, 3D-Objekte wie die Rotoren der Windturbinen und die Vegetation bewegen sich entsprechend der eingestellten Windgeschwindigkeit und -richtung."
+    },
+    {
+      "heading": "Berechnete Geräusche",
+      "text": "An der Empa erforschen Reto Pieren und Kurt Heutschi, wie die entsprechenden Geräusche der Windturbinen in den virtuellen Landschaften korrekt berechnet und wiedergegeben werden können. Anhand von Tonaufnahmen der Windturbinen am Mont Crosin (BE) programmierten sie Synthesizer und Schallausbreitungsfilter. Diese erzeugen die hörbaren Windturbinengeräusche in Abhängigkeit vom Windturbinentyp, der Windgeschwindigkeit und der räumlichen Gegebenheiten in den virtuellen Landschaften."
+    },
+    {
+      "heading": "Windturbinengeräusche mit 3D‐Landschaften verknüpfen",
+      "text": "Schliesslich gilt es, die beiden Simulationen in einem Instrument zusammenzuführen und aufeinander abzustimmen. Dabei werden aus dem virtuellen Landschaftsmodell die Parameter Windgeschwindigkeit und Windrichtung, Windturbinenpositionen, Anzahl Umdrehungen und die Startphase der Rotoren sowie Position und Blickrichtung des Betrachters exportiert und als Steuerungssignale für den Geräuschsynthesizer verwendet. Wir haben diese kombinierte Simulation «VisAsim» getauft."
+    },
+    {
+      "heading": "Mit Simulationen die Landschaftsqualität beurteilen",
+      "text": "In einer Studie testeten wir, ob Personen auf die simulierten Windparks gleich reagieren wie auf Bild- und Tonaufnahmen des echten Windparks am Mont Crosin (BE). [4] Die Teilnehmerinnen bewerteten hierzu, wie gut ihnen die präsentierte Windenergielandschaft gefiel und wie störend sie die Geräusche empfanden. Die Ergebnisse zeigen, dass die Teilnehmer das Landschaftsbild und den Lärm der Windturbinen bei den VisAsim-Simulationen ähnlich bewerten wie bei den Aufnahmen der echten Landschaft."
+    },
+    {
+      "heading": "Mobiler Windpark-Simulator",
+      "text": "Damit möglichst viele Interessierte die simulierten Windparks erleben können, haben wir das Mobile Visuell-Akustische Labor «MVAL» entwickelt. Aufgebaut bietet das «MVAL» einen Raum von 5 m x 5 m Grundfläche und 2.5 m Höhe. Die mobile Einrichtung lässt sich leicht in Einzelteile zerlegen und transportieren. So lassen sich die VisAsim-Simulationen einem breiten Publikum an beliebigen (einigermassen ruhigen) Orten näher bringen. Wir präsentieren das MVAL erstmals an der WEGA 2015, der Thurgauer Herbstmesse in Weinfelden, vom 24. bis 28. September, im Rahmen der Ausstellung «Windenergie, natürlich! Sonderschau zum Staunen und Erleben»."
+    },
+    {
+      "heading": "Fazit",
+      "text": "VisAsim vermittelt einen guten Eindruck, wie ein Windpark in der Schweiz grundsätzlich aussieht und wie er tönt. Damit lassen sich mögliche Auswirkungen auf die Landschaftsqualität veranschaulichen und bewerten. Wir sind der Ansicht, dass dies helfen kann, Ängste und Vorurteile abzubauen. Zudem ermöglichen die persönlichen Eindrücke von Anlagen und Ambiente in den virtuellen Windenergielandschaften, sich am Dialog über Windenergie aktiv zu beteiligen. VisAsim hat deshalb grosses Potenzial, Planungsprozesse von Windenergieanlagen zu unterstützen. Dies möchten wir gerne in einem praktischen Anwendungsfall von VisAsim weiter erforschen."
+    },
+    {
+      "heading": "Weiterführende Informationen",
+      "text": "Mehr zu VisAsim efahren Sie in der Medienmitteilung der Empa.\n\nVeranstaltungshinweis : VisAsim-Demonstration : Vorführung von VisAsim als Teil der Ausstellung «Windenergie, natürlich! Sonderschau zum Staunen und Erleben.» an der WEGA 2015 , der Thurgauer Herbstmesse in Weinfelden, 24. bis 28. September 2015, Halle 5, Eingang Marktplatz.\n\nWebseite des Projekts VisAsim: www.visasim.ethz.ch\n\n[1] Abteilung für Akustik und Lärmminderung an der Empa\n\n[2] Crytek’s CryENGINE 3\n\n[4] Windturbinen am Mont Crosin (BE)\n\nOberassistentin, Planung von Landschaft und Urbanen Systemen (PLUS), Institut für Raum- und Landschaftsentwicklung (IRL)"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News Events",
+        "label": "MISC",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 3,
+        "end": 14
+      },
+      {
+        "text": "WEA",
+        "label": "ORG",
+        "start": 52,
+        "end": 55
+      },
+      {
+        "text": "Planungsprozess",
+        "label": "MISC",
+        "start": 477,
+        "end": 492
+      },
+      {
+        "text": "PLUS",
+        "label": "ORG",
+        "start": 175,
+        "end": 179
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 189,
+        "end": 199
+      },
+      {
+        "text": "WEA",
+        "label": "ORG",
+        "start": 398,
+        "end": 401
+      },
+      {
+        "text": "Madeleine Manyoky",
+        "label": "PER",
+        "start": 101,
+        "end": 118
+      },
+      {
+        "text": "PLUS",
+        "label": "MISC",
+        "start": 148,
+        "end": 152
+      },
+      {
+        "text": "Crytek’s CryENGINE",
+        "label": "MISC",
+        "start": 190,
+        "end": 208
+      },
+      {
+        "text": "Manyokys Ansatz",
+        "label": "PER",
+        "start": 336,
+        "end": 351
+      },
+      {
+        "text": "Windes",
+        "label": "MISC",
+        "start": 547,
+        "end": 553
+      },
+      {
+        "text": "Windturbinen",
+        "label": "LOC",
+        "start": 598,
+        "end": 610
+      },
+      {
+        "text": "Reto Pieren",
+        "label": "PER",
+        "start": 23,
+        "end": 34
+      },
+      {
+        "text": "Kurt Heutschi",
+        "label": "PER",
+        "start": 39,
+        "end": 52
+      },
+      {
+        "text": "Windturbinen",
+        "label": "LOC",
+        "start": 91,
+        "end": 103
+      },
+      {
+        "text": "Mont Crosin",
+        "label": "LOC",
+        "start": 230,
+        "end": 241
+      },
+      {
+        "text": "BE",
+        "label": "LOC",
+        "start": 243,
+        "end": 245
+      },
+      {
+        "text": "Schliesslich",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "VisAsim",
+        "label": "MISC",
+        "start": 453,
+        "end": 460
+      },
+      {
+        "text": "Mont Crosin",
+        "label": "LOC",
+        "start": 144,
+        "end": 155
+      },
+      {
+        "text": "BE",
+        "label": "LOC",
+        "start": 157,
+        "end": 159
+      },
+      {
+        "text": "Die Teilnehmerinnen",
+        "label": "MISC",
+        "start": 166,
+        "end": 185
+      },
+      {
+        "text": "Visuell-Akustische",
+        "label": "LOC",
+        "start": 99,
+        "end": 117
+      },
+      {
+        "text": "MVAL",
+        "label": "MISC",
+        "start": 125,
+        "end": 129
+      },
+      {
+        "text": "MVAL",
+        "label": "ORG",
+        "start": 165,
+        "end": 169
+      },
+      {
+        "text": "MVAL",
+        "label": "MISC",
+        "start": 452,
+        "end": 456
+      },
+      {
+        "text": "WEGA 2015",
+        "label": "MISC",
+        "start": 473,
+        "end": 482
+      },
+      {
+        "text": "Thurgauer Herbstmesse",
+        "label": "ORG",
+        "start": 488,
+        "end": 509
+      },
+      {
+        "text": "Weinfelden",
+        "label": "LOC",
+        "start": 513,
+        "end": 523
+      },
+      {
+        "text": "Sonderschau",
+        "label": "PER",
+        "start": 603,
+        "end": 614
+      },
+      {
+        "text": "VisAsim",
+        "label": "MISC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 65,
+        "end": 72
+      },
+      {
+        "text": "VisAsim",
+        "label": "ORG",
+        "start": 456,
+        "end": 463
+      },
+      {
+        "text": "VisAsim",
+        "label": "ORG",
+        "start": 615,
+        "end": 622
+      },
+      {
+        "text": "VisAsim",
+        "label": "MISC",
+        "start": 8,
+        "end": 15
+      },
+      {
+        "text": "Empa",
+        "label": "MISC",
+        "start": 56,
+        "end": 60
+      },
+      {
+        "text": "VisAsim-Demonstration",
+        "label": "LOC",
+        "start": 86,
+        "end": 107
+      },
+      {
+        "text": "VisAsim",
+        "label": "MISC",
+        "start": 125,
+        "end": 132
+      },
+      {
+        "text": "Sonderschau",
+        "label": "PER",
+        "start": 183,
+        "end": 194
+      },
+      {
+        "text": "WEGA 2015",
+        "label": "MISC",
+        "start": 228,
+        "end": 237
+      },
+      {
+        "text": "Thurgauer Herbstmesse",
+        "label": "ORG",
+        "start": 244,
+        "end": 265
+      },
+      {
+        "text": "Weinfelden",
+        "label": "LOC",
+        "start": 269,
+        "end": 279
+      },
+      {
+        "text": "Halle",
+        "label": "LOC",
+        "start": 309,
+        "end": 314
+      },
+      {
+        "text": "VisAsim",
+        "label": "LOC",
+        "start": 360,
+        "end": 367
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 440,
+        "end": 444
+      },
+      {
+        "text": "Crytek’s CryENGINE",
+        "label": "MISC",
+        "start": 449,
+        "end": 467
+      },
+      {
+        "text": "Mont Crosin",
+        "label": "LOC",
+        "start": 490,
+        "end": 501
+      },
+      {
+        "text": "PLUS",
+        "label": "ORG",
+        "start": 569,
+        "end": 573
+      },
+      {
+        "text": "Institut für Raum- und Landschaftsentwicklung",
+        "label": "ORG",
+        "start": 576,
+        "end": 621
+      },
+      {
+        "text": "IRL",
+        "label": "ORG",
+        "start": 623,
+        "end": 626
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Kurt Heutschi",
+        "Madeleine Manyoky",
+        "Manyokys Ansatz",
+        "Reto Pieren",
+        "Schliesslich",
+        "Sonderschau"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Empa",
+        "IRL",
+        "Institut für Raum- und Landschaftsentwicklung",
+        "MVAL",
+        "PLUS",
+        "Thurgauer Herbstmesse",
+        "VisAsim",
+        "WEA"
+      ],
+      "LOCATION": [
+        "BE",
+        "Halle",
+        "Mont Crosin",
+        "Schweiz",
+        "VisAsim",
+        "VisAsim-Demonstration",
+        "Visuell-Akustische",
+        "Weinfelden",
+        "Windturbinen",
+        "der Schweiz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Crytek’s CryENGINE",
+        "Die Teilnehmerinnen",
+        "Empa",
+        "En News Events",
+        "MVAL",
+        "PLUS",
+        "Planungsprozess",
+        "VisAsim",
+        "WEGA 2015",
+        "Windes"
+      ]
+    },
+    "entity_counts": {
+      "VisAsim": 7,
+      "PLUS": 3,
+      "Mont Crosin": 3,
+      "MVAL": 3,
+      "WEA": 2,
+      "Crytek’s CryENGINE": 2,
+      "Windturbinen": 2,
+      "BE": 2,
+      "WEGA 2015": 2,
+      "Thurgauer Herbstmesse": 2,
+      "Weinfelden": 2,
+      "Sonderschau": 2,
+      "Empa": 2,
+      "En News Events": 1,
+      "der Schweiz": 1,
+      "Planungsprozess": 1,
+      "ETH Zürich": 1,
+      "Madeleine Manyoky": 1,
+      "Manyokys Ansatz": 1,
+      "Windes": 1
+    },
+    "total_entities": 51,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "geplante-windparks-virtuell-erleben.md",
+      "title": "En News Events/2015/08/geplante Windparks Virtuell Erleben",
+      "language": "de",
+      "source_path": "en_news_events/2015/08/geplante-windparks-virtuell-erleben.html"
+    },
+    "temporal": {
+      "publication_date": "2015-08",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Kurt Heutschi",
+        "Madeleine Manyoky",
+        "Manyokys Ansatz",
+        "Reto Pieren",
+        "Schliesslich",
+        "Sonderschau"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Crytek’s CryENGINE",
+        "Die Teilnehmerinnen",
+        "Empa",
+        "En News Events",
+        "MVAL",
+        "PLUS",
+        "Planungsprozess",
+        "VisAsim",
+        "WEGA 2015",
+        "Windes"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Thurgauer Herbstmesse",
+        "Eingang Marktplatz",
+        "Die Landschaftsmodelle",
+        "Das Ziel",
+        "Anzahl Umdrehungen",
+        "Madeleine Manyoky",
+        "VisAsim-Simulationen",
+        "Reto Pieren",
+        "Akustische Labor",
+        "Parameter Windgeschwindigkeit",
+        "Erleben In",
+        "Lehrstuhl Planung",
+        "Die Teilnehmerinnen",
+        "Windparks Virtuell",
+        "Programm Crytek",
+        "Urbanen Systemen",
+        "Frau Manyokys",
+        "VisAsim-Demonstration",
+        "En News",
+        "Mobile Visuell",
+        "Die Ergebnisse",
+        "Mont Crosin",
+        "Projekts VisAsim",
+        "Kurt Heutschi"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Empa",
+        "IRL",
+        "Institut für Raum- und Landschaftsentwicklung",
+        "MVAL",
+        "PLUS",
+        "Thurgauer Herbstmesse",
+        "VisAsim",
+        "WEA"
+      ],
+      "locations": [
+        "BE",
+        "Halle",
+        "Mont Crosin",
+        "Schweiz",
+        "VisAsim",
+        "VisAsim-Demonstration",
+        "Visuell-Akustische",
+        "Weinfelden",
+        "Windturbinen",
+        "der Schweiz"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "VisAsim",
+        "PLUS",
+        "Mont Crosin",
+        "MVAL",
+        "WEA",
+        "Crytek’s CryENGINE",
+        "Windturbinen",
+        "BE",
+        "WEGA 2015",
+        "Thurgauer Herbstmesse"
+      ],
+      "document_structure": {
+        "total_sections": 9,
+        "section_titles": [
+          "Windparks sicht- und hörbar machen",
+          "Windparks sicht- und hörbar machen",
+          "3D-Windenergielandschaften",
+          "Berechnete Geräusche",
+          "Windturbinengeräusche mit 3D‐Landschaften verknüpfen",
+          "Mit Simulationen die Landschaftsqualität beurteilen",
+          "Mobiler Windpark-Simulator",
+          "Fazit",
+          "Weiterführende Informationen"
+        ],
+        "content_length": 5425
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "Madeleine Manyoky",
+        "Sonderschau",
+        "PLUS",
+        "Thurgauer Herbstmesse",
+        "IRL",
+        "EU",
+        "Reto Pieren",
+        "Institut für Raum- und Landschaftsentwicklung",
+        "ETH Zürich",
+        "MVAL",
+        "WEA",
+        "Schliesslich",
+        "Manyokys Ansatz",
+        "Empa",
+        "VisAsim",
+        "Kurt Heutschi"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Die Teilnehmerinnen",
+        "Crytek’s CryENGINE",
+        "PLUS",
+        "En News Events",
+        "WEGA 2015",
+        "Planungsprozess",
+        "who",
+        "MVAL",
+        "Windes",
+        "when",
+        "Empa",
+        "VisAsim"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

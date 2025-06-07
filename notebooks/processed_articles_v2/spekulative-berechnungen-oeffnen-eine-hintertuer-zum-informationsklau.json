@@ -1,0 +1,980 @@
+{
+  "filename": "spekulative-berechnungen-oeffnen-eine-hintertuer-zum-informationsklau.md",
+  "original_filename": "spekulative-berechnungen-oeffnen-eine-hintertuer-zum-informationsklau.html",
+  "source_path": "de_news_events/2022/07/spekulative-berechnungen-oeffnen-eine-hintertuer-zum-informationsklau.html",
+  "date": "2022-07",
+  "title": "Spekulative Berechnungen Oeffnen Eine Hintertuer Zum Informationsklau",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Spekulatives Rechnen macht Computer schneller",
+      "text": "Manchmal blutet ein Computer aus seinem Herzen und gibt tröpfchenweise private Informationen preis. Das trifft auf die heute öffentlich gemachte Hardware-Sicherheitslücke «Retbleed» zu: Diese Sicherheitslücke entsteht in den Mikroprozessoren, welche die Anweisungen eines Computerprogramms ausführen und die entsprechenden Berechnungen durchführen.\n\nZum Teil führen die Prozessoren – namentlich die zentralen Recheneinheiten (engl. «central processing units», CPU) – auch spezielle Rechenschritte aus, die die Rechenzeit verkürzen und den Rechenvorgang insgesamt beschleunigen. Dabei hinterlassen sie Spuren im Speicher, die Hacker ausnutzen könnten, um unbefugt Zugriff auf beliebige Informationen im System zu erhalten – zum Beispiel könnten sie Verschlüsselungscodes oder sicherheitsrelevante Passwörter entwenden. Dies ist besonders riskant in Cloud-Umgebungen, in denen mehrere Unternehmen gemeinsam Computersysteme nutzen. Das Nationale Zentrum für Cybersicherheit in Bern erachtet die Schwachstelle als schwerwiegend, da die betroffenen Prozessoren weltweit im Einsatz sind. Jedoch haben die Hersteller bereits erste Massnahmen ergriffen, um die Sicherheitslücke zu schliessen.\n\nEntdeckt haben die Sicherheitslücke der Doktorand Johannes Wikner und Kaveh Razavi, ETH-Professor für Computersicherheit. Der Name «Retbleed» bezieht sich auf eine bestimmte Art von Programmanweisungen, die sogenannten Returns. Ein Computerprogramm besteht aus Folgen von Anweisungen oder Befehlen (engl. «instruction» oder «command»), die in Funktionen organisiert sind, mit denen die Prozessoren die jeweils erwünschten Berechnungen durchführen. Nachdem eine Funktion ausgeführt wurde, veranlasst ein Return-Befehl den Prozessor, zu dem Punkt im Computerprogramm zurückzukehren (engl. «to return»), der unmittelbar auf den ursprünglichen Befehl folgt, der die Funktion verwendet hat."
+    },
+    {
+      "heading": "Spekulatives Rechnen macht Computer schneller",
+      "text": "Man kann sich den Ablauf eines Computerprogramms wie einen Fluss mit verschiedenen Verzweigungen vorstellen. An den Verzweigungen treffen die Computerprogramme oft Entscheidungen, welchen Lauf sie wählen. Manchmal dauern diese Entscheidungen lange und können die Ausführung verlangsamen. Gefragt sind jedoch schnelle Rechenprozesse. Herkömmlicherweise führt ein Computerprogramm die Anweisungen sequenziell und in der Reihenfolge des Programms aus – also einen Rechenschritt nach dem anderen."
+    },
+    {
+      "heading": "Lösungsansatz für Vorkehrungsmassnahmen",
+      "text": "Mit den CPU-Prozessorarchitekturen von heute lassen sich jedoch Berechnungen vorziehen und gleichzeitig ausführen. «Eine CPU kann die Anweisungen in einer anderen Reihenfolge als der Programmreihenfolge ausführen, um die Rechenleistung zu verbessern», sagt Kaveh Razavi. In Computerkreisen sprich man von «ausserplanmässigen Ausführungen» (engl. «out-of-order executions»). Seit Januar 2018 ist bekannt, dass es bei dieser Art der Ausführung Sicherheitslücken geben kann. Während der Befehlsausführung könnte ein unerlaubter Zugriff auf den Cache-Speicher der CPU erfolgen, der es Hacker:innen ermöglicht, sensible Informationen aus dem Betriebssystem zu stehlen. Diese Sicherheitslücke ist unter dem Namen «Meltdown» bekannt und betrifft spezifische Probleme bei Intel-CPUs.\n\nMit den Out-of-order-Ausführungen eng verwandt sind die «spekulativen Ausführungen» (engl. «speculative executions»), für die ebenfalls seit 2018 ähnliche Sicherheitsprobleme bekannt sind. «‹Retbleed› ist ein Problem der spekulativen Ausführung», sagt Johannes Wikner. Solche spekulativen Rechenschritte dienen dazu, die Verlangsamung der Berechnungen zu vermeiden, indem bestimmte Rechenschritte vorgezogen werden, bevor klar ist, ob sie tatsächlich gebraucht werden. Spekulative Berechnungen finden zum Beispiel statt, wenn ein Prozessor zu erraten versucht, welchen Weg die Befehlskette an einer Verzweigung einschlägt, bevor dies bekannt ist. «Dabei ‹raten› die CPUs, welche Richtung sie an einer Verzweigung einschlagen sollen und führen die Anweisungen aufgrund ihrer Vermutung spekulativ aus», erklärt Razavi."
+    },
+    {
+      "heading": "Ungeschützte Return-Befehle",
+      "text": "Mithilfe solcher Spekulationen wird der Fluss der Befehlskette verbessert und die Rechenleistung der Prozessoren erhöht. Falls die spekulative Berechnungen nicht benötigt werden, werden sie rückgängig gemacht. Auch diese Spekulationen hinterlassen Spuren im Cache-Speicher, die eine Hintertür für Hacker:innen öffnen. Diese Sicherheitslücke wurde ebenfalls im Januar 2018 unter dem Namen «Spectre» öffentlich gemacht und betrifft die Prozessoren der Hersteller Intel und AMD. Seither haben Intel und AMD sowie grosse Software-Hersteller wie Microsoft Vorkehrungsmassnahmen ergriffen. Die Schwachstellen der spekulativen Berechnungen sind jedoch bis heute weder abschliessend erforscht noch behoben."
+    },
+    {
+      "heading": "Literaturhinweis",
+      "text": "Wie Razavi und Wikner nun herausgefunden haben, gibt es tatsächlich ein bisher nicht behobenes Sicherheitsproblem: «Wir haben gezeigt, dass bei spekulative Berechnungen besonders viele Return-Anweisungen ungeschützt sind und missbraucht werden können», sagt Johannes Wikner. Im Prinzip funktioniert «Retbleed» wie die Variante 2 von «Spectre» und betrifft die Mikroprozessoren von Intel und AMD. «Da die bisher getroffenen Vorkehrungsmassnahmen die Return-Anweisungen nicht berücksichtigten, sind die meisten bestehenden Mikroprozessoren und Computersysteme für ‹Retbleed› anfällig», ergänzt Razavi. «Es braucht jedoch einiges an Computerfachwissen, um sich den Speicherzugriff zu verschaffen und Information zu stehlen», sagt Wikner.\n\nIm Februar haben Razavi und Wikner den Nachweis erbracht (engl. «Proof of Concept»), dass «Retbleed» ein ernsthaftes Problem darstellt. Inzwischen sind ihre Ergebnisse sie einem Fachartikel veröffentlicht, der als externe Seite Konferenzbeitrag der USENIX Security 2022 akzeptiert worden ist. In diesem Artikel haben Wikner und Razavi den ersten Ansatz von Intel und AMD zur Lösung dieses Problems untersucht.\n\nDieser Ansatz setzt dabei an, dass die Befehle, wenn der Mikroprozessor an einer Verzweigung spekuliert, manchmal falsch ausgeführt werden. Dann führt die Berechnung nicht zum richtigen Ziel und eröffnet ein Leck, durch das Hacker:innen Zugriff zu den Informationen im Speicher erhalten. Derzeit besteht die Lösung darin, zu verhindern, dass Hacker:innen die Entscheidung der Mikroprozessoren für Ziele der Return-Befehle beeinflussen. Leider geht dies mit einem erheblichen Leistungsverlust einher, der Computer um 12 bis 28 Prozent langsamer macht.\n\nWie in solchen Fällen üblich, haben die Sicherheitsforschenden zuerst die betroffenen Hersteller AMD und Intel informiert, bevor die Sicherheitslücke veröffentlicht wird. Da die konkreten Sicherheitsrisiken auch von der unternehmensspezifischen Prozessorarchitektur abhängen, benötigen die Hersteller Zeit, um vertiefte Vorkehrungen zu ergreifen. Seither haben unter anderem Microsoft, Oracle, Google, Linux, Intel, AMD, ARM an Schutzmassnahmen gearbeitet, bevor «Retbleed» heute öffentlich bekannt gemacht wurde. Ein Intel-Mikroprozessor, der 3 bis 6 Jahre alt ist, oder ein AMD-Prozessor, der 1 bis 11 Jahre alt ist, ist aller Wahrscheinlichkeit nach betroffen.\n\nDas Nationale Zentrum für Cybersicherheit (NCSC) in Bern hat heute für die Sicherheitslücke “Retbleed” in Zusammenarbeit und in Absprache mit den Forschenden der ETH Zürich die CVE-Nummern CVE-2022-29900 (für Prozessoren des Herstellers AMD) und CVE-2022-29901 (für Prozessoren des Herstellers Intel) vergeben. Die Zuordnung einer CVE (Common Vulnerabilities and Exposure) ermöglicht eine weltweit eindeutige Identifizierung von Schwachstellen. Seit September 2021 ist das NCSC als die Schweizer Zulassungsbehörde anerkannt, die CVE-​Nummern vergibt.\n\nWeitere Informationen finden Sie in dem Bericht auf der NSCS-​Website unter der Rubrik « externe Seite Eingegangene Meldungen ».\n\nWikner, J; Razavi, K. RETBLEED: Arbitrary Speculative Code Execution with Return Instructions. Paper accepted at the 31st USENIX Security Symposium, August 10–12, 2022, at the Boston Marriott Copley Place in Boston, MA, USA.\n\nWikner und Razavi werden ihre Ergebnisse auf der externe Seite USENIX Security '22 am 12. August 2022, 13.30-2.30 Uhr, vorstellen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Berechnungen Oeffnen",
+        "label": "LOC",
+        "start": 35,
+        "end": 55
+      },
+      {
+        "text": "Informationsklau",
+        "label": "PER",
+        "start": 76,
+        "end": 92
+      },
+      {
+        "text": "Retbleed",
+        "label": "MISC",
+        "start": 172,
+        "end": 180
+      },
+      {
+        "text": "Mikroprozessoren",
+        "label": "MISC",
+        "start": 225,
+        "end": 241
+      },
+      {
+        "text": "Prozessoren",
+        "label": "MISC",
+        "start": 369,
+        "end": 380
+      },
+      {
+        "text": "engl.",
+        "label": "MISC",
+        "start": 425,
+        "end": 430
+      },
+      {
+        "text": "CPU",
+        "label": "MISC",
+        "start": 459,
+        "end": 462
+      },
+      {
+        "text": "Cloud-Umgebungen",
+        "label": "LOC",
+        "start": 847,
+        "end": 863
+      },
+      {
+        "text": "Computersysteme",
+        "label": "PER",
+        "start": 904,
+        "end": 919
+      },
+      {
+        "text": "Nationale Zentrum für Cybersicherheit",
+        "label": "ORG",
+        "start": 932,
+        "end": 969
+      },
+      {
+        "text": "Bern",
+        "label": "LOC",
+        "start": 973,
+        "end": 977
+      },
+      {
+        "text": "Prozessoren",
+        "label": "MISC",
+        "start": 1043,
+        "end": 1054
+      },
+      {
+        "text": "Johannes Wikner",
+        "label": "PER",
+        "start": 1234,
+        "end": 1249
+      },
+      {
+        "text": "Kaveh Razavi",
+        "label": "PER",
+        "start": 1254,
+        "end": 1266
+      },
+      {
+        "text": "ETH-Professor",
+        "label": "MISC",
+        "start": 1268,
+        "end": 1281
+      },
+      {
+        "text": "Retbleed",
+        "label": "MISC",
+        "start": 1316,
+        "end": 1324
+      },
+      {
+        "text": "engl.",
+        "label": "MISC",
+        "start": 1483,
+        "end": 1488
+      },
+      {
+        "text": "Prozessoren",
+        "label": "MISC",
+        "start": 1570,
+        "end": 1581
+      },
+      {
+        "text": "Prozessor",
+        "label": "MISC",
+        "start": 1705,
+        "end": 1714
+      },
+      {
+        "text": "Computerprogramm",
+        "label": "LOC",
+        "start": 1732,
+        "end": 1748
+      },
+      {
+        "text": "engl.",
+        "label": "MISC",
+        "start": 1765,
+        "end": 1770
+      },
+      {
+        "text": "Computerprogramme",
+        "label": "LOC",
+        "start": 142,
+        "end": 159
+      },
+      {
+        "text": "CPU-Prozessorarchitekturen",
+        "label": "ORG",
+        "start": 8,
+        "end": 34
+      },
+      {
+        "text": "CPU",
+        "label": "MISC",
+        "start": 121,
+        "end": 124
+      },
+      {
+        "text": "Razavi",
+        "label": "PER",
+        "start": 263,
+        "end": 269
+      },
+      {
+        "text": "Computerkreisen",
+        "label": "LOC",
+        "start": 274,
+        "end": 289
+      },
+      {
+        "text": "engl.",
+        "label": "MISC",
+        "start": 340,
+        "end": 345
+      },
+      {
+        "text": "Sicherheitslücken",
+        "label": "LOC",
+        "start": 442,
+        "end": 459
+      },
+      {
+        "text": "Cache-Speicher",
+        "label": "MISC",
+        "start": 541,
+        "end": 555
+      },
+      {
+        "text": "CPU",
+        "label": "MISC",
+        "start": 560,
+        "end": 563
+      },
+      {
+        "text": "Hacker",
+        "label": "PER",
+        "start": 581,
+        "end": 587
+      },
+      {
+        "text": "Meltdown",
+        "label": "LOC",
+        "start": 708,
+        "end": 716
+      },
+      {
+        "text": "Out-of-order-Ausführungen",
+        "label": "MISC",
+        "start": 784,
+        "end": 809
+      },
+      {
+        "text": "engl.",
+        "label": "MISC",
+        "start": 861,
+        "end": 866
+      },
+      {
+        "text": "‹Retbleed›",
+        "label": "MISC",
+        "start": 966,
+        "end": 976
+      },
+      {
+        "text": "Johannes Wikner",
+        "label": "PER",
+        "start": 1028,
+        "end": 1043
+      },
+      {
+        "text": "Befehlskette",
+        "label": "LOC",
+        "start": 50,
+        "end": 62
+      },
+      {
+        "text": "Cache-Speicher",
+        "label": "MISC",
+        "start": 258,
+        "end": 272
+      },
+      {
+        "text": "Spectre",
+        "label": "LOC",
+        "start": 389,
+        "end": 396
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 461,
+        "end": 466
+      },
+      {
+        "text": "AMD",
+        "label": "ORG",
+        "start": 471,
+        "end": 474
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 490,
+        "end": 495
+      },
+      {
+        "text": "Microsoft Vorkehrungsmassnahmen",
+        "label": "MISC",
+        "start": 541,
+        "end": 572
+      },
+      {
+        "text": "Wikner",
+        "label": "PER",
+        "start": 15,
+        "end": 21
+      },
+      {
+        "text": "Johannes Wikner",
+        "label": "PER",
+        "start": 258,
+        "end": 273
+      },
+      {
+        "text": "Retbleed",
+        "label": "MISC",
+        "start": 300,
+        "end": 308
+      },
+      {
+        "text": "Spectre",
+        "label": "LOC",
+        "start": 334,
+        "end": 341
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 381,
+        "end": 386
+      },
+      {
+        "text": "Return-Anweisungen",
+        "label": "LOC",
+        "start": 449,
+        "end": 467
+      },
+      {
+        "text": "Computerfachwissen",
+        "label": "LOC",
+        "start": 630,
+        "end": 648
+      },
+      {
+        "text": "Razavi",
+        "label": "PER",
+        "start": 752,
+        "end": 758
+      },
+      {
+        "text": "Wikner",
+        "label": "PER",
+        "start": 763,
+        "end": 769
+      },
+      {
+        "text": "engl.",
+        "label": "MISC",
+        "start": 793,
+        "end": 798
+      },
+      {
+        "text": "Proof of Concept",
+        "label": "MISC",
+        "start": 800,
+        "end": 816
+      },
+      {
+        "text": "Retbleed",
+        "label": "MISC",
+        "start": 826,
+        "end": 834
+      },
+      {
+        "text": "USENIX Security",
+        "label": "ORG",
+        "start": 984,
+        "end": 999
+      },
+      {
+        "text": "Wikner",
+        "label": "PER",
+        "start": 1052,
+        "end": 1058
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 1092,
+        "end": 1097
+      },
+      {
+        "text": "Mikroprozessor",
+        "label": "MISC",
+        "start": 1202,
+        "end": 1216
+      },
+      {
+        "text": "Hacker",
+        "label": "PER",
+        "start": 1487,
+        "end": 1493
+      },
+      {
+        "text": "Return-Befehle",
+        "label": "ORG",
+        "start": 1552,
+        "end": 1566
+      },
+      {
+        "text": "AMD",
+        "label": "ORG",
+        "start": 1793,
+        "end": 1796
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 1801,
+        "end": 1806
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 2071,
+        "end": 2080
+      },
+      {
+        "text": "Oracle",
+        "label": "ORG",
+        "start": 2082,
+        "end": 2088
+      },
+      {
+        "text": "Google",
+        "label": "MISC",
+        "start": 2090,
+        "end": 2096
+      },
+      {
+        "text": "Linux",
+        "label": "MISC",
+        "start": 2098,
+        "end": 2103
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 2105,
+        "end": 2110
+      },
+      {
+        "text": "ARM",
+        "label": "MISC",
+        "start": 2117,
+        "end": 2120
+      },
+      {
+        "text": "Schutzmassnahmen",
+        "label": "PER",
+        "start": 2124,
+        "end": 2140
+      },
+      {
+        "text": "Retbleed",
+        "label": "MISC",
+        "start": 2160,
+        "end": 2168
+      },
+      {
+        "text": "Nationale Zentrum für Cybersicherheit",
+        "label": "ORG",
+        "start": 2364,
+        "end": 2401
+      },
+      {
+        "text": "NCSC",
+        "label": "ORG",
+        "start": 2403,
+        "end": 2407
+      },
+      {
+        "text": "Bern",
+        "label": "LOC",
+        "start": 2412,
+        "end": 2416
+      },
+      {
+        "text": "Retbleed",
+        "label": "MISC",
+        "start": 2453,
+        "end": 2461
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 2522,
+        "end": 2532
+      },
+      {
+        "text": "CVE-Nummern",
+        "label": "MISC",
+        "start": 2537,
+        "end": 2548
+      },
+      {
+        "text": "Intel",
+        "label": "ORG",
+        "start": 2654,
+        "end": 2659
+      },
+      {
+        "text": "CVE",
+        "label": "MISC",
+        "start": 2691,
+        "end": 2694
+      },
+      {
+        "text": "Common Vulnerabilities and Exposure",
+        "label": "ORG",
+        "start": 2696,
+        "end": 2731
+      },
+      {
+        "text": "NCSC",
+        "label": "ORG",
+        "start": 2833,
+        "end": 2837
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 2846,
+        "end": 2855
+      },
+      {
+        "text": "NSCS-​Website",
+        "label": "MISC",
+        "start": 2967,
+        "end": 2980
+      },
+      {
+        "text": "Eingegangene Meldungen",
+        "label": "PER",
+        "start": 3014,
+        "end": 3036
+      },
+      {
+        "text": "Wikner",
+        "label": "PER",
+        "start": 3040,
+        "end": 3046
+      },
+      {
+        "text": "Razavi",
+        "label": "PER",
+        "start": 3051,
+        "end": 3057
+      },
+      {
+        "text": "K. RETBLEED",
+        "label": "PER",
+        "start": 3059,
+        "end": 3070
+      },
+      {
+        "text": "Paper accepted at the 31st USENIX Security",
+        "label": "ORG",
+        "start": 3135,
+        "end": 3177
+      },
+      {
+        "text": "August 10–12",
+        "label": "PER",
+        "start": 3189,
+        "end": 3201
+      },
+      {
+        "text": "at the Boston",
+        "label": "MISC",
+        "start": 3209,
+        "end": 3222
+      },
+      {
+        "text": "Boston",
+        "label": "LOC",
+        "start": 3248,
+        "end": 3254
+      },
+      {
+        "text": "MA",
+        "label": "LOC",
+        "start": 3256,
+        "end": 3258
+      },
+      {
+        "text": "USA",
+        "label": "LOC",
+        "start": 3260,
+        "end": 3263
+      },
+      {
+        "text": "Wikner",
+        "label": "PER",
+        "start": 3265,
+        "end": 3271
+      },
+      {
+        "text": "USENIX",
+        "label": "ORG",
+        "start": 3328,
+        "end": 3334
+      },
+      {
+        "text": "Security",
+        "label": "PER",
+        "start": 3335,
+        "end": 3343
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "August 10–12",
+        "Computersysteme",
+        "De News",
+        "Eingegangene Meldungen",
+        "Hacker",
+        "Informationsklau",
+        "Johannes Wikner",
+        "K. RETBLEED",
+        "Kaveh Razavi",
+        "Razavi",
+        "Schutzmassnahmen",
+        "Security",
+        "Wikner"
+      ],
+      "ORG": [
+        "AMD",
+        "CPU-Prozessorarchitekturen",
+        "Common Vulnerabilities and Exposure",
+        "ETH Zürich",
+        "Intel",
+        "Microsoft",
+        "NCSC",
+        "Nationale Zentrum für Cybersicherheit",
+        "Oracle",
+        "Paper accepted at the 31st USENIX Security",
+        "Return-Befehle",
+        "USENIX",
+        "USENIX Security"
+      ],
+      "LOCATION": [
+        "Befehlskette",
+        "Berechnungen Oeffnen",
+        "Bern",
+        "Boston",
+        "Cloud-Umgebungen",
+        "Computerfachwissen",
+        "Computerkreisen",
+        "Computerprogramm",
+        "Computerprogramme",
+        "MA",
+        "Meltdown",
+        "Return-Anweisungen",
+        "Sicherheitslücken",
+        "Spectre",
+        "USA"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ARM",
+        "CPU",
+        "CVE",
+        "CVE-Nummern",
+        "Cache-Speicher",
+        "ETH-Professor",
+        "Google",
+        "Linux",
+        "Microsoft Vorkehrungsmassnahmen",
+        "Mikroprozessor",
+        "Mikroprozessoren",
+        "NSCS-​Website",
+        "Out-of-order-Ausführungen",
+        "Proof of Concept",
+        "Prozessor",
+        "Prozessoren",
+        "Retbleed",
+        "Schweizer",
+        "at the Boston",
+        "engl.",
+        "‹Retbleed›"
+      ]
+    },
+    "entity_counts": {
+      "Intel": 7,
+      "Retbleed": 6,
+      "engl.": 6,
+      "Wikner": 5,
+      "Prozessoren": 3,
+      "CPU": 3,
+      "Johannes Wikner": 3,
+      "Razavi": 3,
+      "Nationale Zentrum für Cybersicherheit": 2,
+      "Bern": 2,
+      "Cache-Speicher": 2,
+      "Hacker": 2,
+      "Spectre": 2,
+      "AMD": 2,
+      "NCSC": 2,
+      "De News": 1,
+      "Berechnungen Oeffnen": 1,
+      "Informationsklau": 1,
+      "Mikroprozessoren": 1,
+      "Cloud-Umgebungen": 1
+    },
+    "total_entities": 97,
+    "unique_entities": 62
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "spekulative-berechnungen-oeffnen-eine-hintertuer-zum-informationsklau.md",
+      "title": "De News Events/2022/07/spekulative Berechnungen Oeffnen eine Hintertuer Zum Informationsklau",
+      "language": "de",
+      "source_path": "de_news_events/2022/07/spekulative-berechnungen-oeffnen-eine-hintertuer-zum-informationsklau.html"
+    },
+    "temporal": {
+      "publication_date": "2022-07",
+      "mentioned_years": [
+        "2018",
+        "2021",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "August 10–12",
+        "Computersysteme",
+        "De News",
+        "Eingegangene Meldungen",
+        "Hacker",
+        "Informationsklau",
+        "Johannes Wikner",
+        "K. RETBLEED",
+        "Kaveh Razavi",
+        "Razavi",
+        "Schutzmassnahmen",
+        "Security",
+        "Wikner"
+      ],
+      "people_with_roles": {
+        "Johannes Wikner": [
+          "professor"
+        ],
+        "Kaveh Razavi": [
+          "professor"
+        ],
+        "Razavi": [
+          "professor"
+        ],
+        "Wikner": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "CVE-Nummern",
+        "Cache-Speicher",
+        "ETH-Professor",
+        "Google",
+        "Linux",
+        "Microsoft Vorkehrungsmassnahmen",
+        "Mikroprozessor",
+        "Mikroprozessoren",
+        "NSCS-​Website",
+        "Out-of-order-Ausführungen",
+        "Proof of Concept",
+        "Prozessor",
+        "Prozessoren",
+        "Retbleed",
+        "Schweizer",
+        "at the Boston",
+        "engl.",
+        "‹Retbleed›"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Im Prinzip",
+        "Ein Intel",
+        "Hintertuer Zum",
+        "Seit September",
+        "Seite USENIX",
+        "Intel-CPUs",
+        "ETH-Professor",
+        "Doktorand Johannes",
+        "Return-Anweisungen",
+        "Im Februar",
+        "Kaveh Razavi",
+        "Return-Befehle",
+        "Johannes Wikner",
+        "USENIX Security",
+        "Hersteller AMD",
+        "Return Instructions",
+        "Eine CPU",
+        "Zum Teil",
+        "Berechnungen Oeffnen",
+        "In Computerkreisen",
+        "Hersteller Intel",
+        "Die Schwachstellen",
+        "Boston Marriott",
+        "CVE-Nummern",
+        "Herstellers AMD",
+        "Seit Januar",
+        "Informationsklau Manchmal",
+        "Das Nationale",
+        "Die Zuordnung",
+        "Dieser Ansatz",
+        "Spekulative Berechnungen",
+        "Return-Befehl",
+        "Seite Konferenzbeitrag",
+        "Wie Razavi",
+        "Microsoft Vorkehrungsmassnahmen",
+        "Arbitrary Speculative",
+        "Copley Place",
+        "Common Vulnerabilities",
+        "Herstellers Intel",
+        "Software-Hersteller",
+        "AMD-Prozessor",
+        "Cloud-Umgebungen",
+        "Ein Computerprogramm",
+        "CPU-Prozessorarchitekturen",
+        "Hersteller Zeit",
+        "Code Execution",
+        "De News",
+        "Seite Eingegangene",
+        "Der Name",
+        "Weitere Informationen",
+        "Cache-Speicher"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AMD",
+        "CPU-Prozessorarchitekturen",
+        "Common Vulnerabilities and Exposure",
+        "ETH Zürich",
+        "Intel",
+        "Microsoft",
+        "NCSC",
+        "Nationale Zentrum für Cybersicherheit",
+        "Oracle",
+        "Paper accepted at the 31st USENIX Security",
+        "Return-Befehle",
+        "USENIX",
+        "USENIX Security"
+      ],
+      "locations": [
+        "Befehlskette",
+        "Berechnungen Oeffnen",
+        "Bern",
+        "Boston",
+        "Cloud-Umgebungen",
+        "Computerfachwissen",
+        "Computerkreisen",
+        "Computerprogramm",
+        "Computerprogramme",
+        "MA",
+        "Meltdown",
+        "Return-Anweisungen",
+        "Sicherheitslücken",
+        "Spectre",
+        "USA"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Intel",
+        "Retbleed",
+        "engl.",
+        "Wikner",
+        "Prozessoren",
+        "CPU",
+        "Johannes Wikner",
+        "Razavi",
+        "Nationale Zentrum für Cybersicherheit",
+        "Bern"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Spekulatives Rechnen macht Computer schneller",
+          "Spekulatives Rechnen macht Computer schneller",
+          "Lösungsansatz für Vorkehrungsmassnahmen",
+          "Ungeschützte Return-Befehle",
+          "Literaturhinweis"
+        ],
+        "content_length": 8153
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "NCSC",
+        "Oracle",
+        "Informationsklau",
+        "Security",
+        "Paper accepted at the 31st USENIX Security",
+        "Razavi",
+        "Kaveh Razavi",
+        "Return-Befehle",
+        "Johannes Wikner",
+        "USENIX Security",
+        "2018",
+        "Intel",
+        "ETH Zürich",
+        "2022",
+        "Eingegangene Meldungen",
+        "USENIX",
+        "K. RETBLEED",
+        "EU",
+        "August 10–12",
+        "Schutzmassnahmen",
+        "Nationale Zentrum für Cybersicherheit",
+        "Computersysteme",
+        "Wikner",
+        "CPU-Prozessorarchitekturen",
+        "Common Vulnerabilities and Exposure",
+        "Hacker",
+        "Microsoft",
+        "De News",
+        "AMD",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "Mikroprozessoren",
+        "Proof of Concept",
+        "Schweizer",
+        "Linux",
+        "NSCS-​Website",
+        "Prozessor",
+        "Out-of-order-Ausführungen",
+        "ETH-Professor",
+        "Retbleed",
+        "CVE-Nummern",
+        "who",
+        "Prozessoren",
+        "how",
+        "computer_science",
+        "Microsoft Vorkehrungsmassnahmen",
+        "Google",
+        "at the Boston",
+        "Mikroprozessor",
+        "engl.",
+        "‹Retbleed›",
+        "where",
+        "Cache-Speicher"
+      ],
+      "graph_relations": [
+        "Johannes Wikner_has_role_professor",
+        "Kaveh Razavi_has_role_professor",
+        "Razavi_has_role_professor",
+        "Wikner_has_role_professor",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}
